@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. DETERMINADO O TRANCAMENTO DA AÇÃO PENAL E AUTORIZADA A LIBERDADE DO ORA AGRAVANTE PELO SUPREMO TRIBUNAL FEDERAL. PREJUDICADO O RECURSO PELA PERDA SUPERVENIENTE DO OBJETO.INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Consoante as informações prestadas, fls. 1.379-1.383, o em. Ministro Toffoli proferiu decisão no HC n. 205.206/CE/STF, determinando o trancamento da ação penal, sendo que o ora Agravante já se encontra em liberdade desde a liminar concedida, em 18/8/2021. Desse modo, tendo em vista que o ora Agravante atingiu o desiderato aduzido no habeas corpus, tenho que o recurso está prejudicado, por perda superveniente do interesse de agir, uma vez que já retornou ao seu status libertatis.No ponto, há que se ressaltar que a manifestação do Supremo Tribunal Federal não mais se encontra assentada em título precário, tal qual a liminar concedida, tendo sido analisado o mérito do habeas corpus, lá, impetrado, determinando o trancamento da ação penal em relação à imputação de homicídio.
+II - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FRANCISCO MOACIR PINTO FILHOcontra decisão, às fls. 1.385-1.388, que julgou prejudicado o recurso, ante a perda superveniente do objeto.
+Nas razões do recurso, o agravante alega que: "Com todas as vênias, a compreensão da r. decisão agravada, ao julgar imediatamente prejudicada a presente ordem em razão da concessão monocrática da ordem de habeas corpus pelo e. Supremo Tribunal Federal, máxime porquanto parte de premissa fática e jurídica manifestamente equivocada e, portanto, merece ser prontamente reformada"(fl. 1.396).
+Sustenta que: "não há qualquer hipótese de prejudicialidade em razão da concessão monocrática da ordem de habeas corpus pelo e. Ministro do Supremo Tribunal Federal Dias Toffoli nos autos do HC 205.206/CE -, na medida em que: (i) a decisão monocrática foi questionada pelo Ministério Público Federal através de agravo regimental, de sorte que a matéria ainda poderá ser decidida pela e. Primeira Turma da Corte Constitucional, e (ii) ao contrário do que estabelecido na decisão agravada, o objeto do presente mandamus nessa Corte possui objeto mais amplo"(fl. 1.396).
+Requer, ao final, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao Colegiado.
+O Ministério Público Federal pronunciou, às fls. 1.417-1.419, pelodesprovimento do recurso.
+Petição às fls. 1.423-1.428.
+Por manter a decisão agravada, submeto o feito à Col. Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. DETERMINADO O TRANCAMENTO DA AÇÃO PENAL E AUTORIZADA A LIBERDADE DO ORA AGRAVANTE PELO SUPREMO TRIBUNAL FEDERAL. PREJUDICADO O RECURSO PELA PERDA SUPERVENIENTE DO OBJETO.INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Consoante as informações prestadas, fls. 1.379-1.383, o em. Ministro Toffoli proferiu decisão no HC n. 205.206/CE/STF, determinando o trancamento da ação penal, sendo que o ora Agravante já se encontra em liberdade desde a liminar concedida, em 18/8/2021. Desse modo, tendo em vista que o ora Agravante atingiu o desiderato aduzido no habeas corpus, tenho que o recurso está prejudicado, por perda superveniente do interesse de agir, uma vez que já retornou ao seu status libertatis.No ponto, há que se ressaltar que a manifestação do Supremo Tribunal Federal não mais se encontra assentada em título precário, tal qual a liminar concedida, tendo sido analisado o mérito do habeas corpus, lá, impetrado, determinando o trancamento da ação penal em relação à imputação de homicídio.
+II - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"Decido
+Consoante as informações prestadas, fls. 1.379-1.383,o em. Ministro Toffoliproferiu decisão no HC n. 205.206/CE/STF, determinando o trancamento da ação penal, sendo que o ora Agravantejá se encontra em liberdade desde a liminar concedida,em 18/8/2021.
+No transcrevo trechos da decisão do Supremo Tribunal Federal, que determinou o trancamento da ação,verbis:
+" ..
+Como visto, a imputação constante da exordial acusatória diz respeito à tentativa de homicídio, tendo esclarecido que a ação praticada pelo paciente, em comunhão de desígnios e unidade de propósito com terceiros, teve o escopo de "ceifar a vida de João Batista Lima Monteiro e Maria José de Almeida, não consumando os atos por circunstâncias alheias à sua vontade."
+Contudo, não há por parte da denúncia a descrição mínima de quais circunstâncias alheias à vontade dos agentes, caracterizadora da tentativa imperfeita, teria os impedido, se dolo houvesse, de consumar o delito de homicídio.
+Reparem que a suposta vítima João Batista Lima Monteiro nada disse em seu depoimento a respeito de disparos de arma de fogo contra a sua pessoa. (eDoc. 5)
+Por sua vez, a suposta vítima Maria José de Almeida narrou que um dos seguranças do paciente "atirou três vezes, uma para o alto e duas em direção aos pés da depoente e do seu esposo." (eDoc. 5 p. 11 - grifos nossos)
+Não se pode inferir, portanto, da narrativa apresentada na denúncia, quando associada aos depoimentos das vítimas e testemunhas, a existência do animus necandi necessário à configuração de crime doloso contra a vida, já que os disparos de arma de fogo foram efetuados, um para o alto e dois para o chão na direção dos pés das vítimas, parte na qual a taxa de mortalidade é praticamente nula.
+Tem-se, portanto que a denúncia não preencheu os requisitos mínimos de validade, notadamente a justa causa para a persecução penal, o que sinaliza evidente excesso de acusação em relação ao paciente, no que diz respeito à tentativa de homicídio imputada.
+O repertório jurisprudencial do Supremo Tribunal Federal admite o trancamento do processo crime por falta de justa causa, diante da ausência de lastro probatório mínimos demonstrativos da autoria e/ou materialidade do crime (v. g. HC nº 89.398/SP, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJ de 26/10/07; HC nº 108.748/ES, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 27/6/14),
+Ao Poder Judiciário, na sua precípua função de garantidor de direitos fundamentais, cabe exercer rígido controle de legalidade da persecução penal, e mantê-la, nas apontadas condições, constituiria manifesto constrangimento ilegal.
+Não é preciso rememorar, com Francesco Carrara e sua célebre "As misérias do processo penal", o constrangimento que representa, por si só, a deflagração da persecução penal.
+ ..
+Por essas razões, tendo em conta a alteração superveniente no quadro processual inicialmente apresentado, nego seguimento à impetração (art. 21, § 1Q, do RISTF). Contudo, vislumbrando patente constrangimento ilegal, por não existir suporte fático mínimo que ampare o processo criminal em face do paciente, por infração ao art. 121, § 2 2 , II c/c art. 14, II, do Código Penal, concedo a ordem de oficio para determinar o trancamento da ação penal na origem em relação ao delito em questão"(fls. 1.379-1.383).
+Desse modo, tendo em vista que o ora Agravante atingiu o desiderato aduzido no habeas corpus, tenho que o recurso está prejudicado, por perda superveniente do interesse de agir, uma vez que já retornou ao seustatus libertatis. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TESE DE AUSÊNCIA DE PREJUDICIALIDADE DO RECURSO. PLEITO DE INCOMPETÊNCIA ABSOLUTA COMO FUNDAMENTO DO PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. POSTERIOR EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. RECURSO PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Magistrado de piso concedeu a liberdade provisória ao Agravante, consoante se depreende das informações prestadas pelo Juízo de origem.
+2. Verifica-se, no caso, a perda superveniente do interesse processual no provimento do recurso ordinário, porquanto, na petição recursal, o ora Agravante se manifestou sobre a incompetência absoluta da Justiça Estadual tão somente como fundamento para deslegitimar a manutenção da prisão cautelar - que foi revogada.
+3. Agravo regimental desprovido"(AgRg no RHC n. 108.707/AC,Sexta Turma, Rel. Min.ªLaurita Vaz, DJe de 20/5/2019, grifei).
+Ante o exposto,julgo prejudicado o habeas corpus e, consequentemente, o agravo regimental, por perda superveniente do interesse de agir"(fls. 1.386-.1387).
+Reafirmo:Consoante as informações prestadas, às fls. 1.379-1.383, o em. Ministro Toffoli proferiu decisão no HC n. 205.206/CE/STF, determinando o trancamento da ação penal, sendo que o ora Agravante já se encontra em liberdade desde a liminar concedida, em 18/8/2021.Desse modo, tendo em vista que o ora Agravante atingiu o desiderato aduzido no habeas corpus, tenho que o recurso está prejudicado, por perda superveniente do interesse de agir, uma vez que já retornou ao seustatus libertatis.
+No ponto, há que se ressaltar que a manifestação do Supremo Tribunal Federalnão mais se encontra assentada em título precário, tal qual a liminar concedida, tendo sido analisado o mérito do habeas corpus, lá, impetrado, determinando o trancamento da ação penal em relação à imputação de homicídio.
+Nesse sentido, manifestou-se o Ministério Público Federal, verbis:
+"Contra decisão dessa Corte Superior proferida nesse writ, a Defesa impetrou o HC 205206 no STF. Após examinado o pedido liminar e ofertado o parecer do MPF, o Ministro Relator Dias Toffoli determinou o trancamento da ação penal em relação ao crime de homicídio, o que culminou na revogação da prisão preventiva do paciente no primeiro grau.
+Não há falar em subsistência do objeto do presente HC, no intuito de ver os pleitos defensivos examinados pelo STJ. A decisão tomada no âmbito da Suprema Corte não é de caráter precário, como a decisão que aprecia pedido liminar. E o agravo regimental interposto pelo MPF não possui efeito suspensivo.
+Correta, portanto, a r. decisão que julgou prejudicado o mandamus"(fl. 1.419).
+Com efeito, insta reafirmar que o agravante não aduz qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
