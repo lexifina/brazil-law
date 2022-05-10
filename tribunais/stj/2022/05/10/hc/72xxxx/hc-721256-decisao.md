@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Alexandre Henrique dos Santos Silva, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação criminal n. 1500364- 29.2020.8.26.0540/SP - fls. 37/48), pelo fato de ter mantido a sentença proferida pelo Juízo de Direito da 1ª Vara Criminal da comarca de Mauá/SP, que o condenou à pena de 7 anos, 9 meses e 10 dias de reclusão, a ser inicialmente cumprida emregimefechado, além do pagamento de 777 dias-multa, pela prática de tráfico de entorpecentes (fls. 20/24).
+Daí o presente writ, no qual a defesa almeja:a) Absolver o paciente dos delitos imputados na denúncia, com fulcro no art. 386, inciso VII, do Código de Processo Penal;b) Desclassificar a conduta do paciente para a do art. 28 da Lei de Drogas;c) Fixar a pena-base no mínimo legal, afastando o aumento relativo à quantidade de drogas;d) Fixar o regime inicial semiaberto, nos termos do art. 33, §2º, "b", do Código Penal(fl. 19).
+Liminar indeferida (fls. 51/52), informações prestadas (fls. 56/76), o Ministério Público Federal opinou pelo não conhecimento ou pela denegação do writ (fls. 81/84).
+É o relatório.
+Inicialmente, assevero queohabeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória(AgRg no HC n. 718.028/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022).
+Quanto à dosimetria, as instâncias ordinárias aumentaram a pena-base do paciente em 1/3, em razãoda quantidade do material entorpecente apreendido(1.100 porções de cocaína, pesando 1.107,3 g, e 650 porções de cocaína, pesando 215,8 g - fl. 23 - grifo nosso). Todavia, apesar de se tratar de fundamentação idônea, entendo que um aumento de 1/6 está mais em harmonia com a jurisprudência desta Casa, motivo pelo qual a fixo em5 anos e10 meses de reclusão, além do pagamento de583 dias-multa.
+Na segunda fase, mantenho o aumento de 1/6, tendo em vista a reincidência do paciente, fixando-a definitivamente em6 anos, 9 meses e 20 dias de reclusão, além do pagamento de 680 dias-multa, em razão da ausência de causas de diminuição e de aumento.
+Mantenho, ainda, o regime fechado para o início do cumprimento da pena, levando em consideração a fixação da pena-base acima do mínimo legal e a reincidência do paciente.
+Ante o exposto, concedo parcialmente a ordem a fim de fixar a reprimenda do paciente em6 anos, 9 meses e 20 dias de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 680 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE ABSOLVIÇÃO E DE DESCLASSIFICAÇÃO. ANÁLISE PROBATÓRIA. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. PENA-BASE. QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. PEQUENA REDUÇÃO. NECESSIDADE.
+Ordem parcialmente concedida nos termos do dispositivo.
