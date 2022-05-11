@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GERALDINO BATISTA DOS SANTOS JUNIORapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+No presente writ, alega o impetrante que"entrou com Recurso Especial em 03/05/2021 sendo que  oreferido recurso foi inadmito com fundamento no artigo1.030, inciso V, do Código de Processo Civil" (e-STJ fl. 4).Sustenta que não foi intimado da referida decisão.
+Assevera que "já transitou em julgado o Acórdão de inadmissão do Recurso Especial, inviabilizando o aviamento de Agravo no Resp, trazendo inegável prejuízo ao paciente, pois a pena a que foi condenado é 04 (quatro) anos de reclusão no regime semiaberto, já sendo o processo enviado para a instância inferior, o que redundará invariavelmente em expedição de Mandando de Prisão.Tal situação caracteriza inegável cerceamento de defesa, pois a publicação não foi feita em nome do impetrante, sendo feita somente no nome dos advogados do Corréu" (e-STJ fl. 5).
+Requer, desse modo,"em cognição exauriente, ordenar a suspensão de eventual Mandando de Prisão em nome do Paciente, e ordenar que os autos retornem ao Ínclito DESEMBARGADOR NEWTON TEIXEIRA CARVALHO, Terceiro Vice-Presidente DO 1º CARTÓRIO DE RECURSOS A OUTROS TRIBUNAIS DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS, para que possa publicar em nome do Impetrante DR. DANIEL CORTEZ BORGES, a decisão que inadmitiu o RECURSO ESPECIAL com fundamento no artigo 1.030, inciso V, do Código de Processo Civil, reabrindo prazo para o aviamento de Agravo em Recurso Especial" (e-STJ fl. 9).
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela concessão parcial da ordem.
+É o relatório.
+Decido.
+De fato, assiste razão ao impetrante, porquanto a publicação da decisão que inadmitiu o recurso especial foi publicada sem o nome do advogado constituído do ora paciente, nulidade que ensejou o trânsito em julgado da decisão e o prejuízo à parte de não poder interpor o recurso cabível.
+No mesmo sentido o parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fl. 286):
+Nessa senda, vindo a Decisão de inadmissào do Recurso Especial a transitar em julgado em 16/11/2021 (fl. 270), viu-se o ora Paciente tolhido em seu direito de defender-se por meio do manejo do recurso cabível em face daquela Decisão.
+Pelos documentos acostados aos autos do presente Habeas Corpus, por meio das informações prestadas pelo Desembargador do Tribunal de Justiça do Estado de Mi- nas Gerais, verifica-se que, de fato, houve publicação da Decisãoque negou seguimento ao Re- curso Especial interposto pelo Paciente, no Diário de Justiça do dia 27/08/2021. No entanto, foi Publicado apenas no número do processo, o nome dos recorrentes e o nome do recorrido, estando ausente, na publicação, o nome do advogado constituído do Réu. ora Paciente, conforme fl. 11.
+Ante o exposto, concedo a ordem para determinar a nova publicação da decisão de inadmissibilidade do recurso especial em nome do defensor constituído, reabrindo-se, por consequência, o prazo para recursos.
+Publique-se. Intimem-se.
