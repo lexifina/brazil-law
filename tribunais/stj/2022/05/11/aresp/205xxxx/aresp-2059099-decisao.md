@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por PAULO RADAIC, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 445):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - Pedido de substituição da penhora indeferido - Rejeição pelo credor - Princípio da menor onerosidade - Admite-se a substituição do bem penhorado por outro indicado pelo devedor, se comprovada que a alteração lhe diminuirá a onerosidade da execução e desde que inexista prejuízo ao exequente - Artigos 805 e 847 do CPC/2015 - Negativa da substituição fundamentada - Execução que se dá no interesse do credor - Decisão mantida - Recurso não provido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 469-475).
+Nas razões do recurso especial, o ora agravante apontou violação dos arts. 847, § 2º, e 805 do CPC/2015, sustentando, em síntese, a necessidade de substituição da penhora, conforme requerida nos autos do processo, em nítida observância à efetividade do processo executivo e ao princípio da menor onerosidade ao devedor.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Esta Corte possui o entendimento no sentido de que "o princípio da menor onerosidade da execução não é absoluto, devendo ser observado em consonância com o princípio da efetividade da execução, preservando-se o interesse do credor" (AgInt no AREsp 1.563.740/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 11/05/2020, DJe 25/05/2020).
+Na hipótese dos autos, o Tribunal de origem, analisando as peculiaridades do caso, indeferiu o pleito de substituição da penhora sob aseguintejustificativa(e-STJ, fl. 446):
+Com efeito, nos termos do art. 847 do CPC, o executado poderá requer a substituição da penhora, desde que observados dois requisitos (i) menor onerosidade ao executado e (ii) ausência de prejuízo ao exequente.
+Desse modo, o pleito para substituição do bem penhorado não implica na obrigatoriedade de aceitação pelo credor.
+Na hipótese, a rejeição do agravado ao bem ofertado está justificada, de modo que incabível a substituição requerida pelo agravante.
+E nem se alegue que tal posicionamento afrontaria o princípio do artigo 805 do CPC/2015, tendo a jurisprudência já se manifestado nesse sentido:
+(..)
+Nesse contexto, havendo a Corte de origem concluído que a substituição não seria a medida apropriada para o adimplemento do crédito executado, porquanto devidamente justificada pelo exequente, não há como modificar esse posicionamento, porque este Tribunal Superior adota entendimento no sentido de que a análise de possível afronta ao princípio da menor onerosidade da execução requer reexame de matéria fático-probatória, circunstância inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+A propósito, confiram-se os seguintes precedentes, guardadas as devidas particularidades:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AGRAVO DE INSTRUMENTO NA ORIGEM  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não há falar em ofensa aos arts. 489 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Consoante entendimento firmado nesta Corte superior, "o princípio da menor onerosidade não é absoluto, devendo ser observado em consonância com o princípio da efetividade da execução, preservando-se o interesse do credor" (AgInt no AREsp 1625873/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020). Incidência da Súmula 83/STJ. 3.1. Rever a conclusão do Tribunal de origem quanto à tese de substituição da penhora e aferir qual seria a forma menos onerosa e mais eficaz para satisfazer a execução  se penhorando bem imóvel ou dinheiro -, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial pelo óbice da Súmula 7 do STJ.
+4. No caso concreto, o Tribunal de origem concluiu que não havia provas capazes de demonstrar a natureza alimentar da verba constrita. Alterar esse entendimento demandaria o reexame do acervo probatório constante dos autos, o que é vedado em recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.401.710/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. ORDEM DO ART. 835 DO NCPC. RELATIVA. ONEROSIDADE EXCESSIVA. PRINCÍPIO DA EFETIVIDADE. PONDERAÇÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão vergastado assentou que a pá carregadeira tinha valor elevado, utilização restrita e difícil comercialização, o que desautorizaria a substituição da penhora. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula nº 7 do STJ.
+3. A ordem prevista no art. 835 do NCPC não ostenta caráter absoluto, podendo ser mitigada em razão das peculiaridades do caso concreto, assim como também não se mostra absoluto o princípio da menor onerosidade da execução, a ser cotejado com o princípio da efetividade da execução, garantindo-se a satisfação do interesse do credor.
+4. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial e sobre os quais não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto na Súmula nº 282 do STF.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.805.289/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE SUBSTITUIÇÃO DE PENHORA. INDEFERIMENTO. PONDERAÇÃO DO PRINCÍPIO DA MENOR ONEROSIDADE E INTERESSE DO CREDOR. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
