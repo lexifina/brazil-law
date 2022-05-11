@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 260):
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DE DOMICÍLIO. INGRESSO SEM MANDADO JUDICIAL. INEXISTÊNCIA DE FUNDADAS RAZÕES. TEMA 280/STF. SEGUIMENTO NEGADO.
+Sustenta o agravante que o decisum impugnado não estaria de acordo com o Tema 280/STF, uma vez que os policiais pautaram-se em legítima conduta para a realização da prisão em flagrante do acusado.
+Afirma que "a presente irresignação recursal não pretende apontar elementos do caso concreto para considerá-lo distinto da tese fixada em sede de repercussão geral, mas justamente indicar que suas premissas fáticas foram justamente aquelas balizadas pelo Tema n. 280/STF" (e-STJ fl. 276).
+Assevera que "o estado de flagrância do Recorrido era evidente quando da entrada dos policiais militares na respectiva residência, tendo a abordagem se pautado em fundadas razões acerca da traficância do imputado, consubstanciadas, além da denúncia anônima que justificou a realização de rondas na localidade, na movimentação típica de narcortraficância em frente à residência, o qual já era conhecido pela prática de comércio de entorpecentes, bem como na conduta do Réu que, ao perceber a aproximação dos policiais militares, apresentou atitude suspeita, fugindo para o interior da residência para se desfazer de objeto posteriormente identificado como maconha" (e-STJ fl. 276).
+Argumenta que, "além da denúncia anônima que justificou a realização de rondas na localidade, os policiais visualizaram movimentação típica de narcotraficância em frente à residência que, frise-se, já era conhecida pela prática de comércio de entorpecentes. Além disso, as circunstâncias da abordagem - fuga do Agravado pelos fundos da residência para se desfazer de objeto posteriormente identificado como maconha - também motivaram a entrada dos agentes na residência, enrijecendo a suspeita dos policiais militares de que o crime de tráfico estava sendo praticado naquele exato momento, o que foi confirmado, posteriormente, com a apreensão de uma porção de 12,7g de cocaína, uma porção de 452,9g de maconha e duas porções com massa total de 14,6g de maconha" (e-STJ fl. 278).
+Pondera que, em casos semelhantes, o Supremo Tribunal Federal tem invocado o Tema 280/STF justamente para atestar a legalidade da incursão policial.
+Requer o provimento do reclamo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (e-STJ fls. 299-300 ).
+Sobreveio petição na qual ANDALO JOSE HASS informa que foi absolvido,ex officio, pela prática do crime de tráfico de drogas, com fulcro no art. 386, II, do Código de Processo Penal.
+Prestadas informações pelo Tribunal de Justiça do Estado de Santa Catarina (e-STJ fls. 374-376), o MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, à e-STJ fl. 479), manifestou-se pela extinção do feito, ante a perda superveniente do objeto do agravo regimental (e-STJ fls. 271-283)e do agravo em recurso extraordinário (e-STJ fls. 284-292).
+É o relatório.
+Consoante a documentação acostada aos autos, foi proferida sentença absolutória na ação penal em tela, que já transitou em julgado (e-STJ fl. 351).
+Ante o exposto, nos termos doart.22, § 2º,I, a, do Regimento Interno do Superior Tribunal de Justiça,julga-se prejudicadoo presente agravo regimental, bem como o agravo em recurso extraordinário de e-STJ fls. 284-292.
+Publique-se.
+Intimem-se.
