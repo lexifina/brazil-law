@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BANCO DO BRASIL S/Aà decisão proferida por este signatário, nos termos da seguinte ementa (e-STJ, fls. 247-250):
+RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. INDISPENSABILIDADE DO TÍTULO ORIGINAL. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+Em suas razões, a embargantesustentaa existência de omissão na decisão guerreada.
+Aduz que, à época do ajuizamento da ação de execução, a jurisprudência dominante era no sentido da desnecessidade da juntada do título executivo original, sendo que a simples cópia do título executivo seria documento hábil a ensejar a propositura da ação executiva.
+Assevera que, ainda hoje, a jurisprudência é vacilante acerca do tema.
+Alegou que a extinção da ação sem resolução do mérito, por falta de pressuposto indispensável ao desenvolvimento válido do processo se mostra excessivo, mormente quando ainda for possível o saneamento do processo.
+Pugna pela aplicação do entendimento vigente à época do ajuizamento da ação, em razão da segurança jurídica e pelo prosseguimento do feito.
+Houve impugnação (e-STJ, fls. 276-279).
+É o relatório. Decido.
+Os embargos de declaração, nos termos do art. 1.022do CPC/2015, apenastêm cabimento quando efetivamente existir omissão, contradição,obscuridade ou erro material no julgado embargado.
+No caso, não merece acolhimento a tese principal do embargante, pois a maioria dos julgados arrolados no recurso referem-se à ação monitória - que, apesar de algumas semelhanças, possui procedimento distinto da execução de título extrajudicial. Além disso, os outros julgados, relativos à execução, apontam para a necessidade de demonstração de que o título não circulou. Portanto, deve ser aplicado o entendimento deste Superior Tribunal de Justiça no sentido de que a alteração de entendimento jurisprudencial aplica-se aos processos em curso, ainda que o recurso tenha sido interposto antes da modificação do entendimento.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRAZO PRESCRICIONAL QUINQUENAL. TEMA 877/STJ.
+1. "Aos recursos interpostos com fundamento no CPC/1973 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Quanto à tese de mérito, a jurisprudência desta Corte Superior sedimentou a compreensão de que, havendo alteração de entendimento jurisprudencial, o novo posicionamento aplica-se aos recursos pendentes de análise, ainda que interpostos antes do julgamento que modificou a jurisprudência.
+3. O Superior Tribunal de Justiça, no julgamento do REsp nº 1.388.000/PR, submetido ao rito dos recursos repetitivos (Tema 877), pacificou o entendimento de que é quinquenal o prazo prescricional para o ajuizamento da ação individual executiva que visa ao cumprimento de sentença originária de ação civil pública, sendo o referido lustro contado a partir do trânsito em julgado da sentença coletiva, independentemente da notícia da propositura da ação coletiva exigida pelo art. 94 do Código de Defesa do Consumidor ou mesmo da intimação pessoal dos exequentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1931953/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/09/2021, DJe 14/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, EM RAZÃO DE SUA INTEMPESTIVIDADE.IRRESIGNAÇÃO DA REQUERIDA.
+1. A Corte Especial, ao apreciar o AgInt no AREsp 957.821/MS, concluiu que, para os recursos interpostos sob a égide do CPC/15, a comprovação do feriado local deve ocorrer no ato da interposição do reclamo, nos termos do art. 1.003, § 6º, do aludido diploma, sendo descabido, nesse caso, intimar a parte para regularização, haja vista a gravidade do vício. 1.1. No caso em tela, a parte insurgente interpôs agravo em recurso especial depois de escoado o prazo legal e não apresentou, no momento da interposição do reclamo, documentos hábeis a comprovar a ocorrência de feriado local, impondo-se a inadmissão do recurso.
+2. O feriado nacional deve estar previsto em lei federal, todavia, o dia de Corpus Christi, por não contar de qualquer legislação federal, é considerado feriado local e, portanto, sua eventual ocorrência na instância de origem exige comprovação nos autos pela parte interessada por meio de documento idôneo, no ato da interposição do reclamo. Precedentes.
+3. A modificação da jurisprudência desta Corte, por não se tratar de alteração normativa, aplica-se imediatamente aos recursos pendentes de julgamento, circunstância que não contraria a segurança jurídica.
+Precedentes deste STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1295269/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/10/2018, DJe 22/10/2018)
+Em relação à tese residual - necessidade de oportunização para saneamento do vício -, todavia, merece acolhimento, conforme se depreende do julgado mencionado nas razões dos embargos, além do disposto no art. 801 do CPC/2015 (equivalente ao art. 616 do CPC/1973).Na mesma linha, citem-se, ainda: REsp 648.108/SC; REsp 329.069/MG; REsp 440.719/SC.
+Outrossim, convém destacar ser possível a realização dessa diligência inclusive em grau de recurso, conforme decidido no citado REsp n. 648.108/SC.
+Aliás, convém destacar que no próprio precedente utilizado na decisão do Ministro Bellizze (REsp 1.946.423/MA) também havia sido oportunizada ao exequente a juntada do título original, mas não havia sido atendida tal determinação.
+Diante do exposto, acolho parcialmente os embargos de declaração da instituição bancária para, sanando a omissão constatada, converter o julgamento em diligência, nos termos do art. 164, § 2º, do RISTJ, e determinar a intimação do banco embargante para que apresente o título executivo original, no prazo de 15 (quinze) dias, conforme previsão contida no art. 801 do CPC/2015 e, posteriormente, seja intimado o devedor para manifestação, no mesmo prazo de 15 (quinze) dias.
+Saliente-se que, após o término da diligência, os embargos da parte contrária, relativos aos honorários, serão oportunamente analisados.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. OMISSÃO CONFIGURADA. APLICAÇÃO DE MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL AOS RECURSOS PENDENTES DE JULGAMENTO. POSSIBILIDADE. OPORTUNIDADE DE SANEAMENTO DO VÍCIO. NECESSIDADE. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
