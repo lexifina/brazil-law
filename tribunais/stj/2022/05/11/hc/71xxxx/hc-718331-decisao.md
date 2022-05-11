@@ -1,0 +1,23 @@
+DECISÃO
+JUCIMAR GRANOSKI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.1501262-63.2017.8.26.0567.
+Consta dos autos que opaciente foi condenado a 10 anos e 8 meses de reclusão, em regime fechado, mais multa,como incurso nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, seja reconhecida a ilegalidade da condenação do paciente por não haver provas suficientes acerca da prática dos delitos de tráfico e associação para o narcotráfico.
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+I. Absolvição pelo tráfico de drogas
+De acordo com as instâncias ordinárias, ficou provado nos autos que a autoria do delito de tráfico, em especial pelo depoimento dos policiais que participaram da prisão dos réus e pela apreensão, em poder dos acusados, de 22,425 kg de maconha.
+Assim, com base nesses argumentos, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação da acusada pelo crime de tráfico de drogas.
+Por essas razões, mostra-se inviável a absolvição, sobretudo ao se considerar que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, tal como verificado nos autos.
+Dessa forma, para entender-se pela absolvição da paciente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+II. Associação ao tráfico- estabilidade e permanência
+Faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, a Corte estadual, ao manter a condenação do paciente no tocante do crime de associação para o tráfico de drogas, salientou que "a união dos corréus, de caráter permanente, com nítida divisão de tarefas, restou devidamente caracterizada pelos substratos probatórios" (fl. 684).
+Para tanto, fez menção ao fato de que "foi revelada a operação de associação estável e estruturada entre os agentes, com divisão de tarefas e papéis definidos, nos seguintes termos: Angélica, proprietária de um bar, permitia a venda de drogas em seu estabelecimento, ficando, ainda, responsável por armazenar em sua chácara o entorpecente a ser vendido, ao passo que Jucimar era responsável por parte do armazenamento, além da distribuição da droga na região" (fl. 684).
+Diante de tais elementos, considerou que ficou "fartamente comprovada a existência de uma estrutura criada para o desenvolvimento da atividade do tráfico de drogas" (fl. 284).
+Na sequência, esclareceu: "Não se trata, assim, de coautoria eventual entre traficantes incipientes, os quais declararam profissões com rendimentos totalmente incompatíveis com o valor das substâncias apreendidas" (fl. 284).
+Verifico, portanto, que a Corte de origem- dentro do seu livre convencimento motivado - apontou elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhuma ilegalidade manifesta - tampouco ausência de fundamentação - no ponto em que houve a condenação doacusado também pelo delito de associação para o narcotráfico.
+Por fim, esclareço quequalquer outra solução que não a adotada pelas instâncias de origem novamente implicaria o revolvimento do material fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
