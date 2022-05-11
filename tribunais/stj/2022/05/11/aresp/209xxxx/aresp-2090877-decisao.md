@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por DOUGLAS FARIAS DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+ROUBO IMPRÓPRIO. EMPREGO DE GRAVE AMEAÇA LOGO DEPOIS DA SUBTRAÇÃO. NA CONDUTA DO AGENTE QUE, DEPOIS DE SUBTRAIR COISA  TENDO SIDO IMEDIATAMENTE PERSEGUIDO E DETIDO POR PESSOAS PRÓXIMAS AO LOCAL DO FATO  AMEAÇA A VÍTIMA A FIM DE ASSEGURAR A IMPUNIDADE DO CRIME, HÁ ROUBO IMPRÓPRIO, NÃO FURTO E AMEAÇA AUTÔNOMOS. APELAÇÃO PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 157, § 1º, do CP, no que concerne à desclassificação do fato imputado ao recorrente para o crime de furto combinado com o crime de perseguição, uma vez que entre a subtração do aparelho celular e o proferimento de ameaças decorreu significativo lapso temporal , trazendo o(s) seguinte(s) argumento(s):
+O acórdão recorrido deu provimento à apelação ministerial para, reformando a sentença, condenar o acusado pelo delito previsto no art. 157, §1º do Código Penal. Ocorre que o referido entendimento vai de encontro com a própria previsão do dispositivo normativo empregado.  ..
+Como se vê, da subtração do aparelho celular da vítima até o momento em que teria proferido ameaças contra ela, passou-se significativo lapso temporal (o réu teria corrido, sido perseguido, se escondido em um cômodo de prédio, ficado encurralado, apanhado de populares, e, só então, com a chegada da vítima, teria lhe ameaçado). Logo, inviável que se cogite que o ocorrido teria se dado  logo depois
+ .. .
+Ora, como há de se admitir que, após uma intensa perseguição, não estejamos falando de um período considerável de tempo  Novamente, o réu teria corrido, sido perseguido, se escondido em um cômodo do prédio, ficado encurralado, apanhado de populares, e, só então, com a chegada da vítima, teria lhe ameaçado, isso segundo o depoimento da própria vítima, transcrito em sentença.
+ ..
+Pelo exposto, tendo em vista a contrariedade ao dispositivo federal constante no art. 157, §1º do Código Penal exarada pelo Tribunal a quo, requer seja o acórdão reformado para, restabelecendo a sentença, seja mantida a desclassificação para o delito do art. 155, caput, c/c art. 147, caput, ambos do Código Penal, por não estar configurada na hipótese a elementar do roubo impróprio, qual seja, o emprego da ameaça logo após a subtração do bem. (fls. 382/384).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"As provas não deixam dúvidas de que o réu subtraiu o aparelho celular e, perseguido e imobilizado por populares, ameaçou a vítima.
+A questão é saber se houve roubo impróprio - como sustenta o Ministério Público - ou crimes de furto e ameaça em concurso material, consoante decidiu a sentença.
+ ..
+O réu, após subtrair o aparelho celular da vítima, foi perseguido e detido por pessoas que estavam próximas ao local. A vítima pediu ao réu que devolvesse o aparelho celular, momento em que ele, a fim de assegurar a impunidade do crime, a ameaçou -- disse que se lembraria do rosto dela, caso chamasse a polícia.
+A perseguição, segundo as provas, iniciou-se de imediato e não houve interrupções. Até ser abordado e detido, o réu não teve tranquilidade.
+As circunstâncias da prisão em flagrante permitem concluir que entre a subtração e a ameaça não houve longo e considerável intervalo de tempo.
+Provado que a ameaça foi cometida logo após a subtração, a fim de assegurar a impunidade do crime, há roubo impróprio, não furto e ameaça autônomos.
+ ..
+É, pois, caso de condenar o réu pelo crime do 157, § 1º, do CP" (fls. 363/364).
+Ante o exposto no acórdão recorrido, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à desclassificação do delito, seria necessária, a toda evidência, a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "É entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, em recurso especial, consoante o enunciado na Súmula 7 do STJ". (AgRg no AREsp n. 1.748.266/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 05/03/2021.)
+Confiram-se ainda os seguintes julgados: EDcl no AREsp n. 1.616.809/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 17/11/2020; AgRg no REsp n. 1.684.709/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/03/2018; AgRg no AgRg no AREsp n. 1.780.664/PB, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/02/2021; AgRg no AREsp n. 1.699.195/PE, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 27/11/2020; AgRg no REsp n. 1.820.397/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 19/11/2020; AgRg no AREsp n. 1.603.857/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/11/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
