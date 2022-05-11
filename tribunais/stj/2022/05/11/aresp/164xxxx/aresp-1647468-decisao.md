@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DARIO ANTONIO CONSTANTINO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 420/423, in verbis:
+O Juízo da 1ª Vara Criminal da Comarca de Janaúba/MG condenou (f. 292/296) Dario Antonio Constantino pela prática do crime de tráfico de drogas majorado pela participação de criança ou adolescente (Lei 11.343/2006, arts. 33, caput, e 40, VI) e aplicou-lhe as penas de 10 (dez) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e 1200 (mil e duzentos) dias-multa, no valor de 1/30 (um trinta avos) do salário-mínimo.
+Ementa: PENAL - TRÁFICO DE DROGA - REDUÇÃO DA PENA - NECESSIDADE - INDENIZAÇÃO DETERMINADA NA SENTENÇA FUSTIGADA - AFASTAMENTO - NECESSIDADE - VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA - RECURSO PARCIALMENTE PROVIDO.
+1.Reduz-se a pena vez que foi fixada de forma exacerbada. 2. Afasta-se a indenização fixada nos termos do artigo 387 IV do CPP, violando-se os princípios constitucionais da ampla defesa e do contraditório - artigo 5º inciso LV da Constituição Federal. 3.Recurso parcialmente provido.
+Seguiu-se a interposição de recurso especial, com fundamento na alínea "a" do permissivo constitucional, no qual a defesa alegou negativa de vigência dos arts. 59 e 68 do Código Penal e 40, VI, e 42 da Lei nº 11.343/2006. Sustentou que o Tribunal a quo violou os princípios da proporcionalidade e da individualização da pena ao exasperar a pena-base em dois anos e duzentos dias-multa.
+Acrescentou que "a causa de aumento de pena descrita no art. 40, inciso VI, da Lei 11.343/06, prevê a possibilidade de aumento variante entre 1/6 até 2/3", razão pela qual "a elevação da reprimenda no patamar de 1/2 operada pelo MM. Juiz "a quo", e confirmada pelo TJMG, representa porção muito além do necessário à atribuição de pena" (f. 373).
+Após as contrarrazões (f. 378/384), o recurso especial teve o seguimento negado (f. 386/389), por demandar o revolvimento de fatos e provas (Súmula 7/STJ).
+Sobreveio, então, o presente agravo (f. 393/402), no qual o agravante afirma a não incidência do verbete sumular apontado na questionada decisão.
+Resposta (f. 405/407).
+Remessa dos autos ao Ministério Público Federal.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fls. 358/359):
+O magistrado primevo considerou desfavorável ao apelante a natureza e a quantidade de droga, fixando a pena-base em 08  oito  anos de reclusão e ao pagamento de 800 (oitocentos  dias-multa.
+A natureza e a grande quantidade da droga - 12.662,15g  doze mil, seiscentos e sessenta e dois gramas e quinze centigramas  de maconha e 101,70g  cento e um gramas e setenta centigramas  de cocaína - ensejam a majoração da pena-base, contudo, considero a exasperação realizada pelo magistrado primevo exacerbada.
+Não há que se falar lado outro que a majoração pela causa de aumento do artigo 40 inciso VI datei 11.343106 realizada pelo magistrado primevo foi exacerbada.
+O magistrado primevo aumentou a pena pela causa de aumento do artigo 40 inciso VI da Lei 11.343106 em 1/2 %  metade  sob o seguinte fundamento:"pela circunstância de aumento de pena (narcotráfico envolvendo criança ou adolescente), e tendo em vista que o réu fez com que a adolescente viajasse sozinha de Janaúba e Contagem, cidades distantes, aumento a pena em 1/2 (um meio)"  f.244v .
+Há um plus na reprovabilidade da conduta do apelante como bem ressaltado pelo magistrado primevo, sendo o aumento em 1/2% (metade), proporcional.
+Necessário é a redução da pena-base.
+Na primeira fase: considerando a natureza e a quantidade da droga, fixo a pena-base em 07  sete  anos de reclusão e ao pagamento de 700  setecentos  dias-multa.
+Na segunda fase: estando presente a circunstância atenuante da confissão espontânea, reduzo a pena-base em 1/6  um sexto , fixando-a em 05  cinco  anos e 10  dez  meses de reclusão e ao pagamento de 583  quinhentos e oitenta e três  dias-multa.
+Na terceira fase: estando presente a causa de aumento do artigo 40 inciso VI da Lei 11.343106, aumento a pena em 1/2  metade , fixando-a definitivamente em 08  oito  anos e 09  nove  meses de reclusão e ao pagamento de 874  oitocentos e setenta e quatro  dias-multa.
+Mantenho o regime fechado.
+Pena-base
+Conforme se observa, a avaliação dos julgadores a respeito da quantidade e da natureza da droga apreendida - mais de 12kg (doze quilos) de maconha e mais de 100g (cem gramas) de cocaína- levou à exasperação da pena-base em 1/2.
+Sobre o tema, vale relembrarque, de acordo com a orientação jurisprudencial desta Corte, o cálculo da pena é questão afeta à discricionariedade motivada do magistrado, passível de revisão apenas quando ficar evidenciada notória ilegalidade, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+A ponderação das peculiaridades da causa não se resume a uma simples operação aritmética, uma conta matemática que fixa pesos estratificados a cada uma delas. Tal apreciação enseja um verdadeiro processo que impõe ao magistrado apontar, de forma motivada, as balizas para aplicar a reprimenda que melhor servirá para a prevenção e repressão do fato delituoso.
+Ao Superior Tribunal de Justiça cabe a revisão dos casos flagrantemente desproporcionais ou desarrazoados, não lhe competindo a análise de toda irresignação defensiva relativa à fração de aumento ou redução da pena.
+No caso em apreço, a persuasão racional dos julgadores para fixar o aumento da pena-base não revelailegalidade, haja vista a apreensão da grande quantidade de entorpecente.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL COM BASE NA NATUREZA E GRANDE QUANTIDADE DE DROGA APREENDIDA. 1,956 KG DE COCAÍNA. LEGALIDADE. ART. 42 DA LEI DE DROGAS. QUANTUM DE AUMENTO. RAZOABILIDADE. DISCRICIONARIEDADE MOTIVADA DO ÓRGÃO JULGADOR. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça entende que a "natureza e a quantidade do entorpecente são fundamentos idôneos para exasperar a pena-base dos delitos de tráfico e de associação para o tráfico, ex vi do art. 42 da Lei n. 11.343/2006" (AgRg no HC 497.513/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 01/10/2019, DJe 17/10/2019) e que " i nexiste um critério puramente aritmético para a dosimetria da pena, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio  .. " (HC 448.085/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2019, DJe 22/08/2019)
+2. No caso, a majoração da pena-base em 2 (dois) anos está suficientemente fundamentada, pois as vetoriais previstas no art. 42 da Lei n.º 11.343/2006 foram sopesadas negativamente em razão da apreensão de 1,956 kg (um quilograma e novecentos e cinquenta e seis gramas) de "cocaína".
+3. O quantum de majoração adotado não se mostra desarrazoado ou desproporcional, especialmente quando considerado o largo intervalo existente entre as penas mínima e máxima aplicáveis ao delito (de 5 a 15 anos de reclusão), bem como a natureza e elevada quantidade da droga apreendida.
+4. Agravo regimental desprovido.
+(AgRg no HC 536.692/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/2/2020, DJe 2/3/2020, grifei.)
+Majorante prevista no art. 40, VI, da Lei n 11.343/2006
+A Lei n. 11.343/2006 estabelece limites mínimo e máximo de aumento de pena em razão da incidência das causas de aumento descritas no art. 40. Diante disso, a doutrina e a jurisprudência pátrias anunciam que cabe ao magistrado sentenciante, dentro dos parâmetros legais e nos termos do princípio do livre convencimento motivado, aplicar a fração adequada ao caso concreto, em obediência ao princípio da razoabilidade.
+Sendo assim, o aumento da reprimenda em razão da incidência da majorantedeve respeitar, hodiernamente, o limite de 1/6 (um sexto), salvo situações excepcionais, devidamente justificadas. No caso, a fração de 1/2 (um meio) foi aplicada considerando que"o réu fez com que a adolescente viajasse sozinha de Janaúba e Contagem, cidades distantes"(e-STJ fl. 358).Desse modo, não se observa a existência de ilegalidade, pois devidamente atendidos os critérios acima delineados e o dever de individualização da reprimenda.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. UTILIZAÇÃO DE TRANSPORTE PÚBLICO. DOSIMETRIA DA PENA. PENA-BASE EXASPERADA. CULPABILIDADE DESFAVORÁVEL. EXPRESSIVA QUANTIDADE DE ENTORPECENTES. CIRCUNSTÂNCIAS DO CRIME. CAUSA DE AUMENTO PREVISTA NO ART. 40, III E V, DA LEI N. 11.343/2006, NA FRAÇÃO DE 1/2. CIRCUNSTÂNCIAS CONCRETAS DO DELITO. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- O aumento na fração de 1/2, em virtude do disposto no art. 40, III e V, da Lei n. 11.343/2006, é justificado pela maior reprovabilidade da conduta do paciente, uma vez que ele coordenava de dentro do presídio toda a logística e transporte das drogas, que eram carregadas por meio de ônibus interestadual de Goiânia/GO para Miranorte/TO pela corré, a quem eram dadas as instruções acerca do translado e da distribuição dos entorpecentes, via SMS.
+- À vista das circunstâncias concretamente avaliadas pelas instâncias ordinárias, não há reparos a serem feitos na dosimetria da pena aplicada ao paciente.
+- Agravo regimental não provido.
+(AgRg no HC 434.945/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/4/2018, DJe 12/4/2018, grifei.)
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. INDICAÇÃO DE ELEMENTOS CONCRETOS PARA A MANUTENÇÃO DA SENTENÇA CONDENATÓRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NA VIA ELEITA. CAUSA ESPECIAL DE AUMENTO. FRAÇÃO. FUNDAMENTAÇÃO CONCRETA. TRÁFICO ENVOLVENDO DUAS ADOLESCENTES. ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE DE APLICAÇÃO. PACIENTE QUE INTEGRA ASSOCIAÇÃO CRIMINOSA VOLTADA PARA O TRÁFICO. PENA-BASE. NATUREZA E QUANTIDADE DE DROGAS APREENDIDAS. ART. 42 DA LEI N. 11.343/2006. EXASPERAÇÃO DA REPRIMENDA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ..
+3. Não há constrangimento ilegal quando verificado que, tendo o tráfico de drogas envolvido duas adolescentes, houve a incidência da fração de 1/2 em relação à causa especial de aumento prevista no art. 40, VI, da Lei n. 11.343/2006. ..
+6. Ordem denegada.
+(HC 167.971/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/2/2012, DJe 29/2/2012, grifei.)
+À vista de tais pressupostos, conheço do agravopara negar provimento ao recurso especial.
+Publique-se. Intimem-se.
