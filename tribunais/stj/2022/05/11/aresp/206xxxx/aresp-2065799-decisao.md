@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por LATICINIOS UNIAO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, assim resumido:
+GRATUIDADE JUDICIÁRIA - INSURGÊNCIA CONTRA DECISÃO QUE CONDICIONOU O RECOLHIMENTO DAS CUSTAS PARA APRECIAÇÃO DOS EMBARGOS À EXECUÇÃO AUSÊNCIA DE DOCUMENTOS COMPROBATÓRIOS DA INCAPACIDADE ECONÔMICO-FINANCEIRA PARA TAL BENESSE APLICAÇÃO DA SÚMULA 481 DO STJ DECISÃO MANTIDA  AGRAVO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 98 do CPC, no que concerne ao direito à gratuidade da justiça, trazendo o(s) seguinte(s) argumento(s):
+Viola o v. acórdão a norma infra-constitucional, vez que, TER BENS, NÃO SIGNIFICA TER DINHEIRO !!
+E mais, a recorrente informou não possuir imposto de renda declarado e sequer conta corrente, ante a situação informada.
+Ainda, IGNORA QUE A EMPRESA ESTÁ EM GRAVE SITUAÇÃO FINANCEIRA, conforme certidão estadual que PROVA que a recorrente não mais possui Inscrição Estadual.
+Ou seja, a certidão de fls. demonstra que a recorrente NÃO POSSUI FATURAMENTO ALGUM, demonstrando que a empresa não possui condições de arcar com as custas !!
+Acrescente-se a tais fatos, as inúmeras execuções fiscais, com penhora de patrimônio!!
+Assim, quando determina que a empresa "não restou demonstrada referida impossibilidade", resta contraditório a toda a situação supra mencionada, sendo que o CPC é expresso em seu artigo 98:
+ ..
+E mais, note-se que, omissa é a r. decisão ao parágrafo 2º do artigo 99 do CPC que assim determina ante a vasta documentação apresentada, que demonstra a incapacidade da recorrente de arcar com as despesas processuais:
+ ..
+Neste sentido, silente é a r. decisão ao teor do artigo 4º da Lei 1.060/50, vez que, não há nenhum interesse social em aumentar ainda mais as dívidas da recorrente, levando-a à falência e privando-a do livre acesso ao Judiciário, provocando depressões econômicas, recessões e desemprego, numa época em todas as nações do mundo lutam precisamente para afastar esses males. O fechamento de uma empresa pode provocar um reflexo psicológico sobre a praça, e todas as nações do mundo procuram evitar o colapso das empresas, que têm como consequência prática o desemprego em massa nas populações.
+ ..
+Outrossim, também viola o v. acórdão quando ignora o requerimento de diferimento do pagamento das custas ao final, já que, deixou de observar o parágrafo único do art. 8º da Lei nº 11.608/03. Neste contexto, omissa é a aplicação do artigo 5º e parágrafo único do artigo 8º da Lei Estadual nº 11.608 de 2003, que regra as custas judiciais no Estado de São Paulo, verbo ad verbum:  ..  (fls. 55-57).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No presente caso, todavia, a documentação que instruiu a pretensão da agravante não se revelou suficiente para demonstrar a total impossibilidade para arcar com as custas judiciais, conforme consignado no despacho de fls. 25/26, pelo qual abriu-se prazo para a comprovação, pela recorrente, de sua condição de parte necessitada. Face a essa determinação, a empresa recolheu as custas processuais para fins de processamento do presente recurso, como se vê a fls. 32.
+Diante disso e levando-se em conta, também, o módico valor a ser recolhido, não se mostra razoável,no presente caso, o deferimento do benefício pretendido pela ora agravante.
+De se confirmar, portanto,a improcedência da pretensão da empresa-agravante ao processamento dos embargos à execução sem o recolhimento das custas processuais.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Quanto ao art. 8º da Lei estadual n. 11.608/2003, incide o óbice da Súmula n. 280/STF, aqui aplicada por analogia, uma vez que não é cabível a interposição de recurso especial alegando ofensa ou interpretação divergente de dispositivo de lei estadual ou municipal.
+Nesse sentido: "Incabível, na estreita via do recurso especial especial, examinar violação de direito local, por incidência da Súmula 280/STF". (AgRg no AREsp 1.539.944/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.854.792/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/6/2020; REsp 1.810.850/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/9/2019; AgInt no REsp 1.583.153/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/5/2019; AgInt no AREsp 1.264.067/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
