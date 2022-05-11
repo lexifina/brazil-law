@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Rogerio Ferrari Carrilhocontra ato coator do Tribunal de Justiça de São Paulo (Revisão Criminal n. 0036167-21.2020.8.26.0000), não comporta processamento.
+Com efeito, parecea defesa se insurgir contra a revisão da condenação imposta ao paciente pela prática dos crimes de posseilegal de munição de arma de fogo de uso permitido e porte ilegal de arma de fogo de uso restrito, ao argumento de que seria cabível a absolvição do delito de posse de munição de arma de fogo de uso permitido, ao argumento de que cabível a princípio da insignificância, uma vez que a munição apreendida não era compatível com a arma de fogo também apreendida no mesmo momento.
+Ocorre que, além de não se admitir a utilização do writ como sucedâneo de uma revisão criminal dirigida a esta Corte, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como substitutivo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+No caso, observei que a revisão criminal foi julgada no Tribunal a quo em 16/8/2021, demonstrandopretender a defesa fazer desta Corte Superior de Justiça uma segunda Corte de apelações, o que é inadmissível.
+Ademais, para se acolher a tese da defesa, a fim de concluir pela absolvição pela atipicidade material e desconstituir as conclusões das instâncias ordinárias, serianecessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus (AgRg no HC n. 694.446/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/11/2021).
+Por fim, a alegação de atipicidade material da conduta, com fundamento noprincípiodainsignificância,não foi apreciada pelo Tribunal de origem, no julgamento da revisão criminal, o que atrai indesejável supressão de instância.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. POSSE ILEGAL DE MUNIÇÃO DE ARMA DE FOGO DE USO PERMITIDO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PLEITO DE REVISÃO DA CONDENAÇÃO. JULGAMENTO DA REVISÃO CRIMINAL NO TRIBUNAL A QUO EM 16/8/2021. INADEQUAÇÃO DA VIA ELEITA. INDEVIDO REVOLVIMENTO DE FATOS E PROVAS NA ESTREITA VIA DO HABEAS CORPUS. ATIPICIDADE MATERIAL. MUNIÇÃO DESACOMPANHADA DO ARMAMENTO. PRINCÍPIO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
