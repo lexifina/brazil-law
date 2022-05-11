@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por OLÍMPIO PEREIRA DE REZENDE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. DUPLICIDADE DE PENHORAS. IMPOSSIBILIDADE. EXCESSO DE GARANTIA CONFIGURADO. PRINCÍPIO DA MENOR ONEROSIDADE. PENHORA DE VALOR QUE EXCEDE A CINQÜENTA (50) SALÁRIOS-MÍNIMOS. POSSIBILIDADE.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 835, § 3º, do CPC, no que concerne à ocorrência de excesso de penhora, trazendo os seguintes argumentos:
+A decisão, apesar de reconhecer que o imóvel - Fazenda Jacuba - é objeto de garantia hipotecária da escritura pública de confissão de dívida que instrumentaliza a execução, entendeu que tal constrição não seria suficiente para garantir a execução, o que não é verdade.
+ ..
+Ademais, temos que o valor garantido em decorrência da penhora da Fazenda Jacuba e da Fazenda Morro Alto superam, excessivamente o valor da execução, que foi arbitrada pelo exequente, ora recorrido, em R 6.954.301,24.
+Nos autos de origem, verifica-se que foi realizada a avaliação de ambos os imóveis: Fazenda Morro Alto, matrícula nº 1.879, no valor total de R 5.455.312,50 (cinco milhões, quatrocentos e cinquenta e cinco mil, trezentos e doze reais e cinquenta centavos), e Fazenda Jacuba, matrícula nº 651, no valor total de R 5.000.000,00 (cinco milhões de reais).
+Apesar de referidas avaliações terem sido objeto de impugnação, o que evidencia que o recorrente não concorda com o valor atribuído, caso seja considerado, temos que a execução em cerca de 6 milhões de reais - cujo valor também é controverso - encontra-se garantida em mais de 10 milhões de reais, o que não pode ser admitido. (fl. 281).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 805 do CPC, no que concerne à afronta ao princípio da menor onerosidade da execução, trazendo os seguintes argumentos:
+Todavia, não se pode olvidar que o executado não pode ser reduzido a uma situação de penúria, devendo o julgador atentar-se para que a expropriação ocorra do modo menos gravoso para o devedor, o que não foi observado pela decisão recorrida, o que motiva o provimento total do agravo para liberar, além dos semoventes, a penhora sobre a Fazenda Morro Alto. (fls. 282)
+ ..
+Aqui, evidencia-se que a decisão recorrida violou o artigo 805 do CPC, que estabelece que a execução deverá correr pelo meio menos gravoso ao executado, especialmente quando por vários meios o exequente puder promover a execução.
+ ..
+Portanto, manter a decisão objeto do agravo impõe grave e irreparável dano aos executados, ora recorrentes, o que não se pode admitir. (fls. 285)
+ ..
+Veja que a manutenção da penhora da forma como está não respeita o preceito de que a execução deve ocorrer de forma menos gravosa ao devedor. Assim, a manutenção da penhora das duas fazendas impõe grave e irreparável dano aos recorrentes. (fls. 282-287).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Ora, os argumentos de excesso na execução foram amplamente abordados no julgado ora embargado que, de modo fundamentado, os afastaram em razão correta realização dos cálculos.
+Ademais, não há elementos suficientes para atestar o alegado excesso na execução. Consoante abordado no acórdão embargado, após a realização da penhora deverá ocorrer a avaliação do(s) bem(ns) penhorados, o que, até a presente data, não houve (fl. 226).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
