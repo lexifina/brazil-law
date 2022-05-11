@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso extraordinário interposto por LUCAS DO NASCIMENTO NEVES, com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, contra acórdão doSuperior Tribunal de Justiçaassim ementado (fl. 473):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA. ALEGADA ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. TEMA NÃO APRECIADO PELAS INSTÂNCIAS DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. Os temas suscitados no remédio constitucional - ilegalidade das provas obtidas mediante invasão domiciliar - não foram debatidos pelas instâncias estaduais. Assim, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+2. Agravo regimental desprovido.
+A parterecorrentealegaa existência derepercussão geral, bem como de violação doart.5º, XI eXXXV, da Constituição Federal.
+Afirmaque, "diante ambos os tribunais se negam a analisar o mérito do Habeas Corpus, o que viola o art. 5º, XXXV da Constituição Federal, cujo casos análogos já foram analisados de oficio pelo Colendo pelo STJ, para declarar a invalidade das provas obtidas mediante violaçãodomiciliar, apontando noHabeas Corpus oportunamente impetrado, recentíssimo precedente do próprio STJ, de caso análogo, AgRg no HC 616.584-RS, HC 680.663 RS" (fl. 492).
+Aduz, por fim, que "amitigação do direito fundamental à inviolabilidade de domicílio (art. 5º, XI, da Constituição Federal) só é admitida quando houver autorização judicial ou consentimento do morador ou quando a hipótese for de flagrante delito" (fl. 495).
+Foram apresentadas contrarrazões (fls. 511-518).
+É, no essencial, o relatório. Decido.
+Não merece prosperar o recurso.
+Verifica-se que o acórdão em destaque se firmou unicamente no não preenchimento de um dos pressupostos de admissibilidade necessários à análise do mérito recursal, qual seja, a supressão de instância.
+Observa-se queo STF já firmou entendimento de que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária (Tema n. 181).
+A propósito, veja-se a ementa do julgado paradigma:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.(RE n. 598.365-RG, relatorMinistro Ayres Britto, publicado em 26/3/2010.)
+Além disso, oSTF já consagrou,quanto ao art. 5º, inciso XXXV, da Carta Magna, que "não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito" (RE n.956.302-RG, relatorMinistro EdsonFachin,publicado em 16/6/2016 - Tema n. 895 do STF). Eis a ementa do julgado:
+PRINCÍPIO DAINAFASTABILIDADEDAJURISDIÇÃO.ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio dainafastabilidadedejurisdição,nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.(RE n. 956.302/GO-RG, relatorMinistroEdson Fachin, DJe de 15/6/2016.)
+Namesmalinha, cito o seguinte precedente:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO.OFENSA AOS PRINCÍPIOS CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. JULGAMENTO EM CONFORMIDADE COM O TEMA 225/STF.
+DESPROVIMENTO DO RECLAMO.
+1. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+2. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. O acórdão recorrido está em perfeita consonância como o que decidido pelo STF no Tema n. 225, de que a Lei 10.174/01 não atrai a aplicação do princípio da irretroatividade das leis tributárias, tendo em vista o caráter instrumental da norma, nos termos do artigo 144, § 1º, do CTN.
+4. Agravo interno não provido.(AgInt no RE nos EDcl no AgInt no AREsp n. 1.528.929/PE, relatorMinistro Jorge Mussi, Corte Especial, DJe de 7/12/2020.)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.Intimem-se.
