@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especialinterposto por Banco do Brasil S.A., com fundamento no art. 105, inciso III, alínea"a", da Constituição Federal,contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. PREVISÃO EXPRESSA DE CAPITALIZAÇÃO DIÁRIA. ABUSIVIDADE. ACÓRDÃO MANTIDO, NO PONTO. É possível a incidência da capitalização de juros tão-somente nos contratos em que exista previsão de forma expressa, nos termos do entendimento consolidado pelo STJ, quando do julgamento do REsp 1.388.972/SC, submetido ao regime dos recursos repetitivos. Tal julgamento afastou a orientação que admitia a contratação implícita da capitalização mensal de juros (taxa de juros anual superior ao duodécuplo da taxa mensal - REsp 973.827/RS). Ausente cláusula expressa com previsão de capitalização dos juros de forma clara e específica, restando vedada, portanto, a cobrança do encargo em qualquer periodicidade. Inteligência dos artigos 46, 51, inciso XV e 54 §3º, da Lei 8.078/90. EM JUÍZO DE RETRATAÇÃO, MANTIDO O ACÓRDÃO NO PONTO ACERCA DA CAPITALIZAÇÃO DOS JUROS" (fl. 1880 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, orecorrente aponta aviolação dos arts. 51, § 1º, do Código de Defesa do Consumidor;395 e 407do Código Civil e489, § 1º, 927, 1.022 e 1.025 do Código de Processo Civil de 2015.
+Sustenta negativa de prestação jurisdicional e afirma que foi pactuada a capitalização mensal em todos os contratos, consubstanciada no fato de serem as taxas anuaisfirmadas superiores ao duodécuplo das taxas mensais.
+Após a apresentação das contrarrazões, o recurso foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+A pretensão merece acolhimento no tocante à alegada negativa de prestação jurisdicional (artigo 1.022, incisos I e II, do CPC/2015).
+Compulsando os autos, verifica-se que, não obstante a oposição de embargos declaratórios requerendo expressamente manifestação acerca da afirmação de que "nos contratos 295.004.966, 295.003.839, 295.003.001 e 295.002.098,a taxade juros anual foi expressamente pactuada em valor superior ao duodécuplo damensal" (fl. 1934 e-STJ), o tribunal de origem permaneceu silente.
+Trata-se de matéria relevante, que demandava pronunciamento das instâncias ordinárias, pois a jurisprudência do Superior Tribunal de Justiça entende que a pactuação de taxa anual superior ao duodécuplo da mensal caracteriza a capitalização mensal.
+O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação do artigo 1.022 do Código de Processo Civil de 2015.
+Tanto é assim que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de aclaratórios, trate de tema não analisado pela instância de origem, porquanto ausente o requisito do prequestionamento.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido."
+(AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/9/2019, DJe 13/9/2019)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA SOBRE A PUBLICAÇÃO NO DJE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RESOLUÇÃO DE CONTRATO DE PARCERIA ENTRE ADVOGADOS. DIVISÃO DE HONORÁRIOS. CERCEAMENTO DE DEFESA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DANOS MORAIS E MATERIAIS. OMISSÃO CONFIGURADA. ART. 1.022, II, DO CPC/2015. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+1. A Quarta Turma desta Corte, no julgamento do AREsp 1.330.052/RJ, decidiu pela prevalência da intimação eletrônica sobre a publicação no Diário de Justiça. Agravo interno provido para afastar a intempestividade.
+2. Quanto à alegação de cerceamento de defesa, verifica-se a ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido, circunstância que atrai o óbice da Súmula 283/STF.
+3. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do recurso especial e dar-lhe parcial provimento, a fim de que a Corte de origem se manifeste sobre pontos omissos."
+(AgInt nos EDcl no AREsp 1.343.785/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/6/2019, DJe 28/6/2019)
+"PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO.
+1. Os embargos de declaração, de regra, não autorizam a reapreciação do quanto decidido, porém nada impede que, constatada a existência de omissão, o seu suprimento implique modificação no resultado do julgamento. Precedentes.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal Estadual, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do CPC, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Recurso especial provido"
+(REsp 1.091.966/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 8/2/2011, DJe 14/2/2011).
+Ante o exposto,dou provimento ao recurso especial, determinando a devolução dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 1894/1899, nos termos da fundamentação acima.
+Publique-se.
+Intimem-se.
