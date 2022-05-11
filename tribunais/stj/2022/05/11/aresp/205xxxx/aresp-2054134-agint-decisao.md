@@ -1,0 +1,38 @@
+DECISÃO
+Depreende-se dos autos que L. R. S. V., representado por seugenitor, J. B. V., ajuizou ação de obrigação de fazer contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., objetivando, em suma, o restabelecimento do seu plano de saúde, ao argumento de que a rescisão unilateral do contrato ocorreu de forma ilegal.
+O Juízo de primeiro grau julgou procedenteopedido, com vistas a obrigar a ré a restabelecer o plano de saúde do autor.
+Interposta apelação pelo plano de saúde, o Tribunal de Justiça do Estado de São Paulo negou provimento à insurgência em acórdão assim ementado (e-STJ, fl. 397):
+APELAÇÃO. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. Sentença de procedência. Rescisão por inadimplemento da mensalidade. Incidência das disposições do Código de Defesa do Consumidor. Aplicabilidade do art. 13, II, da Lei 9.656/98 aos planos coletivos. Ausência de provas de que o beneficiário foi notificado sobre a existência de débito. Requisitos legais não cumpridos. Impossibilidade de rescisão do contrato de plano de saúde. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, foram acolhidos (e-STJ, fls. 433-435).
+Inconformada, AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.interpôs recurso especial, com amparo na alíneaado permissivo constitucional, apontando violação ao art. 13, parágrafo único, II, da Lei n. 9.656/1998, ao argumento de que élegítima arescisão do contrato de plano de saúde no caso dos autos, tendo em vista que houvea prévia notificação encaminhada ao endereço do devedor.
+Sem contrarrazões.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+Sem contraminuta.
+Por decisão monocrática, a Presidência do Superior Tribunal de Justiça não conheceu do agravo em recurso especial, ante a ausência de impugnação de todos os fundamentos da decisão de inadmissibilidade do apelo especial (e-STJ, fls. 554-556).
+Daí o presente agravo interno (e-STJ, fls. 560-566), em queAMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. defendeo enfrentamento de todos os pontos da decisão de inadmissibilidade do recurso especial, pugnando pela reforma da decisão agravada.
+Sem impugnação.
+Brevemente relatado, decido.
+Primeiramente, observa-se que houve impugnação devida aos fundamentos dodecisumque negou a admissão do recurso especial, ainda que sucintamente, razão pela qual, com base no art. 259, § 6º, do RISTJ,reconsidero a decisão de fls. 554-556 (e-STJ)e passo ao exame recurso especial.
+No caso em estudo, o Tribunal de origem entendeu pela inviabilidade da rescisão unilateral do plano de saúde do autor, com base no inadimplemento das mensalidades, consignando expressamente que não houve prova de que o beneficiário tenha sido previamente notificado sobre a possibilidade de cancelamento do contrato, de acordo com as seguintes justificativas (e-STJ, fls. 398-399 - sem grifo no original):
+O recurso não comporta provimento.
+Ressalte-se, desde logo, que o contrato celebrado entre as partes se submete às regras da Lei nº 8.078/90, consoante o disposto na Súmula 608 do Superior Tribunal de Justiça, a saber:
+"Súmula 608: Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão."
+De acordo com o Código de Defesa do Consumidor, as cláusulas contratuais devem ser interpretadas de maneira mais favorável ao consumidor (art. 47), caracterizando-se abusivas aquelas que o coloquem em desvantagem exagerada ou que sejamincompatíveis com a boa-fé e a equidade (art. 51, IV).
+Em que pese o inconformismo da requerida, entendo que a aplicabilidade do art. 13, parágrafo único, inciso II, da Lei 9.656/98, estende-se também aos planos de saúde de natureza coletiva. Em conformidade com o art. 13, parágrafo único, inciso II da Lei 9.656/98, é vedada "a suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o qüinquagésimo dia de inadimplência". Extrai-se da norma que somente será permitida a suspensão ou a rescisão unilateral do contrato, pela inadimplência, desde que o consumidor seja comprovadamente notificado.
+No caso dos autos, não há qualquer evidência nos autos de que a parte autora tenha sido previamente notificada acerca do possível cancelamento por inadimplência da mensalidade.
+Isso porque, a apelante não comprovou que o documento de fls. 112/114 foi encaminhado e recebido pelo autor. Neste sentido, não tendo a requerida cumprido com todos os requisitos para rescisão do contrato, o restabelecimento do plano é de rigor.
+A respeito do tema, cabe registrar quea jurisprudência do Superior Tribunal de Justiça entende que "é indevido o cancelamento automático do plano de saúde se a operadora deixa de cumprir o requisito de notificação prévia do beneficiário para quitação do débito existente" (AgInt no REsp 1.937.993/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 04/10/2021, DJe 08/10/2021).
+Diante desse contexto, acolher o inconformismo da parte insurgente, a fim de desconstituir a convicção alcançada no aresto recorrido, reconhecendoa efetiva comprovação da notificação do consumidor sobre a inadimplência das mensalidades devidas, demandaria o reexame do contexto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CANCELAMENTO. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem entendeu que seria nula a rescisão contratual, pois não teria sido demonstrada a devida notificação prévia da parte beneficiária. Alterar esse entendimento, no presente caso, demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. "O cancelamento do plano de saúde motivado por inadimplência do beneficiário exige sua prévia notificação, nos termos da jurisprudência do Superior Tribunal de Justiça" (Aglnt no AREsp 1.460.199/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1822407/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022)
+Ante o exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 300,00 (trezentos reais) os honorários sucumbenciais fixados em favor das advogadas da parte recorrida.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. RESCISÃO UNILATERAL DO CONTRATO. INADIMPLÊNCIA DAS MENSALIDADES.AUSÊNCIA DE NOTIFICAÇÃO DO BENEFICIÁRIO SOBRE O DÉBITO. ALTERAÇÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
