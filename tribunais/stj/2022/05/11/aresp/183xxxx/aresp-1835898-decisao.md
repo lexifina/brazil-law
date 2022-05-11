@@ -1,0 +1,72 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo manejado por REMO INCORPORADORA E EMPREENDIMENTOS LTDA,em face da decisão que negou seguimento a recurso especial, interposto com fundamento no art. 105, III, alíneas "c",da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ Fls. 551/552, gn):
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE RESCISÃO CONTRATUAL. REINTEGRAÇÃO DE POSSE. BEM IMÓVEL. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. INTERVENÇÃO MINISTERIAL DESNECESSÁRIA APÓS A MAIORIDADE DAS APELANTES. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. INSUFICIÊNCIA DO CRITÉRIO MERAMENTE QUANTITATIVO. INVERSÃO DOS ÓNUS SUCUMBENCIAIS.
+1. Não está caracterizado cerceamento de defesa, porquanto as próprias apelantes não requereram a produção de prova oral ou de audiência de conciliação em sua contestação, tendo, ainda, manifestado desinteresse pela produção de provas, quando intimadas para tanto. Ademais, pode o magistrado condutor do feito, a quem a prova é destinada, entender que o processo encontra-se pronto para julgamento, não necessitando da produção de outras provas, quando os elementos presentes nos autos já forem suficientes para elucidar a questão litigiosa (art. 371 do CPC).
+2. Não há nulidade a ser declarada por ausência de intervenção do Ministério Público, eis que sua participação no processo tornou-se desnecessária a partir do momento em que as apeladas atingiram a maioridade.
+3. No caso em tela, das 60 (sessenta) parcelas avençadas no contrato, foram adimplidas 42 (quarenta e duas), o que corresponde a cerca de 70 (setenta) por cento do valor contratado, de forma que, em princípio não seria possível aplicar a teoria do adimplemento substancial, conforme a jurisprudência da Corte Superior e deste Tribunal.
+4. Ocorre que outros elementos devem ser levados em consideração para se determinar a aplicabilidade ou não do aludido princípio, uma vez que o parâmetro estritamente aritmético para tal finalidade não se mostra adequado, já que a ciência jurídica não é exata, devendo o juiz, em cada caso concreto, analisar a questão como um todo a fim de proferir uma decisão mais consentãnea com os paradigmas da justiça.
+5. Há, neste caso, elementos que justificam o elastecimento do princípio do adimplemento substancial para possibilitar sua aplicação neste processo, eis que se trata de imóvel residencial, em que as apelantes estabeleceram sua moradia, constituindo seu bem de família, no qual desenvolvem seus direitos da personalidade afim de ter uma vida digna.
+6. Ademais, o imóvel, que à época da contratação não tinha valor comercial significativo, valorizou-se e as apelantes ali estabeleceram sua moradia, realizando benfeitorias no imóvel.
+7. Outrossim, o contrato foi entabulado há cerca de 23, de forma que a situação fática já se consolidou de tal forma que uma mudança abrupta da relação contratual, notadamente com sua rescisão e devolução do imóvel à incorporadora, mostra-se absolutamente desarrazoada.
+8. É necessário, portanto, sopesar os direitos em conflito, realizando um criterioso juízo de proporcionalidade a fim de se chegar a uma solução que melhor represente os fins sociais das normas aplicáveis ao caso, conforme orienta a Lei de Introdução às Normas do Direito Brasileiro em seu artigo 5º.
+9. É o caso, portanto, de se manter válido o contrato entabulado entre as partes, reconhecendo a aplicabilidade excepcional da teoria do adimplemento substancial, a fim de que as apelantes permaneçam no imóvel, desde que efetuem o pagamento das parcelas restantes, evidentemente com a devida correção monetária e incidência de juros necessários para recompor o capital ao longo de todo esse tempo.
+10. Com o provimento do apelo, devem ser invertidos os ônus sucumbenciais.
+APELO PROVIDO".
+Os embargos de declaração opostos foram rejeitados (e-STJ Fls. 572/580).
+Nas razões do recurso especial apartealegouofensa aos artigos 421, e, 422 do Código Civil, além de divergência jurisprudencial.
+Defendeu, em síntese, que"o inadimplemento de cerca de 30% do contrato jamais poderá ser considerado irrelevante ou ínfimo, a fim de justificar a adoção da teoria do adimplemento substancial" (e-STJ Fl. 592).
+Pediuo provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+A pretensão recursal não merece prosperar.
+Quanto à alegação de violação aos artigos apontados no especial, o recurso não pode ser conhecido em razão da incidência, por analogia, da Súmula 283/STF.
+Na hipótese, consta do acórdão recorrido que (e-STJ Fls. 545/997, gn):
+"(..)
+Dessas 60 (sessenta) parcelas, foram adimplidas 42 (quarenta e duas), o que corresponde a cerca de 70 (setenta) por cento do contrato.
+Assim sendo, em princípio, não seria aplicável ao caso a teoria do adimplemento substancial, haja vista que a jurisprudência da Corte Superior e desta Corte vem admitindo tal incidência quando a parcela adimplida é superior a 80% (oitenta por cento) ou 90% (noventa por cento), com inadimplemento efetivamente mínimo, ou insignificante, do contrato, senão vejamos:
+(..)
+Ocorre que, no presente caso, há elementos outros devem ser levados em consideração para se determinar a aplicabilidade ou não do aludido princípio.
+Primeiramente, cumpre esclarecer que o parâmetro estritamente aritmético para tal finalidade não se mostra adequado, já que a ciência jurídica não é exata, devendo o juiz, em cada caso concreto, analisar a questão como um todo a fim de proferir uma decisão mais consentânea com os paradigmas da justiça.
+Aliás, o próprio Superior Tribunal de Justiça já reconheceu ser inadequado o critério exclusivamente quantitativo para tal finalidade. Confira-se:
+(..)
+Levando em consideração essa premissa, tenho que o caso concreto apresenta especificidades que justificam o elastecimento do princípio do adimplemento substancial para possibilitar sua aplicação neste processo.
+Primeiramente, é de se observar que se trata de imóvel residencial, em que as apelantes estabeleceram sua moradia, constituindo seu bem de família.
+Nesse toar, sabe-se que o direito à habitação é um dos mais relevantes elementos para o atendimento dadignidade da pessoa humana, uma vez que qualquer ser humano necessita de um lar para desenvolver seus direitos da personalidade.
+Além disso, o imóvel negociado entre as partes é um lote, localizado em uma região desta capital que, à época, era distante do centro urbano, sendo um ponto reconhecidamente violento e pouco valorizado comercialmente.
+A situação hoje, porém, é outra. A região se valorizou e as apelantes ali estabeleceram sua moradia, realizando benfeitorias no imóvel.
+E tal ganho de capital não pode beneficiar somente uma das partes, sendo necessário encontrar uma solução que melhor distribua os benefícios decorrentes desses elementos que valorizaram o terreno.
+Outrossim, o contrato foi entabulado entre as partes em 1997, ou seja, há cerca de 23 (vinte e três) anos, de forma que a situação fática já se consolidou de tal forma que uma mudança abrupta da relação contratual, notadamente com sua rescisão e devolução do imóvel à incorporadora, mostra-se absolutamente desarrazoada.
+É necessário, portanto, sopesar os direitos em conflito, realizando um criterioso juízo de proporcionalidade a fim de se chegar a uma solução que melhor represente os fins sociais das normas aplicáveis ao caso, conforme orienta a Lei de Introdução às Normas do Direito Brasileiro em seu artigo 5º.
+Assim sendo, a meu sentir, o mais adequado, de fato, é a manutenção do contrato, reconhecendo a aplicabilidade excepcional da teoria do adimplemento substancial, a fim de que as apelantes permaneçam no imóvel, desde que efetuem o pagamento das parcelas restantes, evidentemente com a devida correção monetária e incidência de juros necessários para recompor o capital ao longo de todo esse tempo.
+Destaco que caso ocorra novamente o inadimplemento, alternativa não restará a não ser a rescisão contratual e devolução do imóvel. Afinal, não se trata de beneficiar as apelantes em detrimento do direito da apelada.
+Na verdade, com a continuação do contrato e o pagamento corrigido das parcelas remanescentes, o que se estará é buscando uma solução mais justa e sem impor um ônus exacerbado à apelada, que não deixará de receber a quantia avençada no contrato.
+O contrato, portanto, deve permanecer válido e deve ser cumprido".
+Entretanto, a recorrente argumentou, tão somente, o malferimento aos arts. 421, e, 422, do Código Civil/2002, deixando de refutar os principaismotivos trazidos pelo acórdão para indeferir seu pleito, que seja: "o contrato foi entabulado entre as partes em 1997, ou seja, há cerca de 23 (vinte e três) anos, de forma que a situação fática já se consolidou de tal forma que uma mudança abrupta da relação contratual, notadamente com sua rescisão e devolução do imóvel à incorporadora, mostra-se absolutamente desarrazoada", e, "Na verdade, com a continuação do contrato e o pagamento corrigido das parcelas remanescentes, o que se estará é buscando uma solução mais justa e sem impor um ônus exacerbado à apelada, que não deixará de receber a quantia avençada no contrato".
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido a jurisprudência do Tribunal:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. CONCLUSÃO DO ACÓRDÃO PELO DESCABIMENTO DO PEDIDO DE INCLUSÃO EM FOLHA DE PAGAMENTO DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO EM SUBSTITUIÇÃO À CONSTITUIÇÃO DE CAPITAL ASSECURATÓRIO DO ADIMPLEMENTO DO PENSIONAMENTO. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência desta Corte, a possibilidade de substituição da constituição de capital pela inclusão do exequente em folha de pagamento da empresa deve ser avaliada pelo juízo da execução no momento do cumprimento de sentença.
+2. A mera circunstância de ser a empresa ré concessionária de serviço público não a exime da constituição de capital garantidor, como forma de assegurar o cumprimento da obrigação (Súmula 313/STJ)
+3. A alteração da conclusão do Tribunal estadual quanto à necessidade de constituição de capital assecuratório do adimplemento do pensionamento demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno improvido.
+(AgInt no AREsp 1530151/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FALSIDADE DE DOCUMENTO. NULIDADE DO NEGÓCIO JURÍDICO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES VÍCIO DE COAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. PRESCRIÇÃO. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANO MORAL. REDUÇÃO. REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em qualquer ofensa aos artigos 1022, II e 489, §1º, do CPC/2015, porquanto embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Nos termos da jurisprudência consolidada no STJ, a revisão de indenização por danos morais somente é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1274995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018; grifou-se)
+Assim sendo, o não conhecimento do recurso é medida que se impõe.
+No mais, ainda que superado referido óbice,elidir aconclusãodo aresto recorrido nosentidode que"Na verdade, com a continuação do contrato e o pagamento corrigido das parcelas remanescentes, o que se estará é buscando uma solução mais justa e sem impor um ônus exacerbado à apelada, que não deixará de receber a quantia avençada no contrato",demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor daSúmulan.7/STJ.
+Cumpre asseverar que, referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, porquanto fixados no patamar legal máximo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AÇÃO ORDINÁRIA DE RESCISÃO CONTRATUAL. REINTEGRAÇÃO DE POSSE. BEM IMÓVEL. ALEGAÇÃO DE INAPLICABILIDADE DATEORIA DO ADIMPLEMENTO SUBSTANCIAL. INSUFICIÊNCIA DO CRITÉRIO MERAMENTE QUANTITATIVO. MANUTENÇÃO DO CONTRATO RELAIZADO ENTRE AS PARTES HÁ 23 ANOS. EXISTÊNCIA DE VÁRIOS FUNDAMENTOS SUFICIENTES PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO E NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA 283/STF. PARTE AGRAVANTE QUE NÃO DEIXARÁ DE RECEBER A QUANTIA AVENÇADA NO CONTRATO.REVISÃO DESTEENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DASÚMULA7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
