@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial, manejado por Açucareira Quatá S/A, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 213):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL.FUNRURAL. VALOR DO FRETE DA PRODUÇÃO RURAL.NÃO INCIDÊNCIA. ALTERAÇÃO DE ALÍQUOTA DE SAT INDEVIDA. RECURSO PARCIALMENTE PROVIDO.
+1. O Colendo Superior Tribunal de Justiça já consolidou entendimento, em sede de recurso repetitivo, no sentido de que o valor do frete da produção rural não se inclui na base de cálculo para o recolhimento da contribuição para o FUNRURAL, que é composta apenas pelo valor comercial do produto rural.
+II. A parte embargante não trouxe elementos para demonstrar o seu direito à alteração da alíquota de contribuição ao SAT, mormente porquanto não demonstrou enquadramento indevido no CNAE em relação à sua atividade preponderante.
+III. Em relação aos honorários advocatícios, é de se observar que ambas as partes decaíram de parte significativa do pedido, razão pela qual há sucumbência recíproca, nos termos do art. 21, caput, do código de processo Civil, devendo cada parte arcar com os honorários de seus respectivos patronos.
+IV. Apelação a que se dá parcial provimento.
+Opostos embargos declaratórios, foram rejeitados (fls. 228/233).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 489, II, § 1º, IV e 1.022, II, do CPC eà Súmula 351 do STJ.Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional e; (II) a reforma da julgado, "fim de dar provimento ao pleito da Recorrente, afastando a cobrança intentada pela União, eis que decorrente da aplicação da alíquota da contribuição ao SAT sem análise da atividade preponderante de cada CNPJ/estabelecimento da Contribuinte" (fl. 263).
+Contrarrazões às fls. 316/338.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, II, § 1º, IV e 1.022, II, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que se refere à alegada infringência à Súmula 351 do STJ, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF. Nesse sentido, sobressaem os seguintes precedentes: AgInt no REsp 1.889.960/MG, Rel. Herman Benjamin, 2ª Turma, DJe 01/03/2021; AgInt no REsp 1.869.620/DF, Rel. Ministro Sérgio Kukina, 1ª Turma, DJe 31/08/2020.
+Ademais, aalteração das conclusões adotadas pela Corte de origem, no sentido de quea parte embargante não trouxe elementos para demonstrar o seu direito à alteração da alíquota de contribuição ao SAT, mormente porquanto não demonstrou enquadramento indevido no CNAE em relação à sua atividade preponderante (fl. 211),tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts.1.029, §1º, do CPC e 255, §§ 1º e 2º, d o RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
