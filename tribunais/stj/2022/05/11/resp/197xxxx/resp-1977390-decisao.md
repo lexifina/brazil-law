@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CÂMARA DE DIRIGENTES LOJISTAS DE PORTO ALEGRE (CÂMARA DE DIRIGENTES), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal gaúcho, assim ementado
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA E CONDENATÓRIA. REGISTRO EM CADASTRO DE INADIMPLENTES. ART. 43, PARÁGRAFO 2º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNTE COMPROVAÇÃO DA NOTIFICAÇÃO PRÉVIA. INDENIZAÇÃO POR DANO MORAL INDEVIDA. SÚMULA 385 DO STJ.
+1) A comunicação prévia ao consumidor acerca da anotação em banco de dados de proteção ao crédito, em virtude de pendência de pagamento de dívida, é essencial para que se possa exercer o direito de purgar a mora, bem assim para evitar as restrições decorrentes do registro.
+2) Além disso, segundo orientação jurisprudencial consolidada, a inscrição indevida é causa de dano moral in re ipsa, ou seja, independe de comprovação do prejuízo, uma vez presumível a lesão a direito de personalidade. O prejuízo somente se presume afastado quando preexistente legítima inscrição, consoante o verbete nº 385 da súmula de jurisprudência do Superior Tribunal de Justiça.
+3) Não há necessidade de assinatura do devedor em aviso de recebimento de comunicação sobre o registro em órgãos de proteção ao crédito, bastando o envio de correspondência simples. Forte na Súmula 404 do STJ.
+4) A parte ré não se desincumbiu de comprovar envio de notificação prévia com relação ao débito da Seffnet, havendo tão somente o envio desta pela Associação Comercial do Paraná, órgão arquivista distinto da ré, o que não se presta para desincumbí-la de seu ônus probatório.
+5) Danos morais indevidos, diante da existência de anotações prévias legítimas.
+Inteligência da Súmula 385 do Superior Tribunal de Justiça.
+DERAM PARCIAL PROVIMENTO À APELAÇÃO (e-STJ, fl. 105).
+Os embargos de declaração opostos pela CÂMARA DE DIRIGENTES foram rejeitados (e-STJ, fls. 131/133).
+Inconformada, CÂMARA DE DIRIGENTES interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação do art. 43, § 2º, do CDC. Sustentou, em síntese, que não deve ser exigida nova notificação acerca do débito já inscrito em cadastro de consumidores em relação aos arquivistas parceiros, conveniados e que compartilham, de modo integrado, as informações constantes nos cadastros de consumidores.
+Foram apresentadas contrarrazões (e-STJ, fls. 159/162).
+Em juízo de admissibilidade, a Terceira Vice-presidência do Tribunal de Justiça do Estado do Rio Grande do Sul admitiu o referido apelo nobre (e-STJ, fls. 166/168).
+É o relatório.
+DECIDO.
+O recurso merece prosperar.
+Da alegada violação do art. art. 43, § 2º, do CDC.
+Nas razões do especial, a CÂMARA DE DIRIGENTES apontou que não deve ser exigida nova notificação acerca do débito já inscrito em cadastro de consumidores em relação aos arquivistas parceiros, conveniados e que compartilham, de modo integrado, as informações constantes nos cadastros de consumidores.
+A questão encontra-se assim delineada:
+Na espécie, tenho que a demandada não se desincumbiu do seu ônus probatório, vez que inexiste comprovação de envio de notificação prévia à parte autora no que tange ao débito oriundo da SENFFNET, de valor R$ 535,41, havendo tão somente o envio desta pela Associação Comercial do Paraná, órgão arquivista distinto da ré, o que não se presta para desincumbí-la de seu ônus probatório (e-STJ,f ls. 109).
+Contudo, observa-se que o acórdão recorrido está em disonância da jurisprudência do STJ que firmou o entendimento de que, para cumprimento do disposto no art. 43, § 2º, do CDC, basta o envio da notificação prévia ao endereço do devedor, ainda que realizado por entidade diversa, sendo desnecessário aviso de recebimento.
+A propósito:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. INSCRIÇÃO DOS NOMES DOS FIADORES EM CADASTRO DE PROTEÇÃO AO CRÉDITO. DEVER DE PRÉVIA NOTIFICAÇÃO. DILIGÊNCIA CUMPRIDA PELO PRÓPRIO CREDOR, ALCANÇADA A FINALIDADE PREVISTA NA NORMA CONSUMERISTA.
+1. Alegada falta de apreciação de documento supostamente comprobatório da inexistência de responsabilidade dos fiadores pela dívida que ensejara a inscrição de seus nomes em cadastro de inadimplentes. Vedada inovação argumentativa no bojo do recurso especial.
+2. A tese da ocorrência da prévia notificação dos fiadores em seus endereços foi deduzida pela ré desde a contestação, com a juntada das respectivas provas, motivo pelo qual descabido o argumento dos autores de que teria havido a supracitada inovação no âmbito da apelação manejada contra a sentença de procedência.
+3. Vício de julgamento extra petita não configurado, ante a congruência entre as razões deduzidas pelas partes (na inicial e na contestação) e o provimento jurisdicional dado pela Corte estadual.
+4. Negativa de vigência do § 1º do artigo 518 do CPC. Ausência de impugnação do fundamento adotado pelo Tribunal de origem para excepcionar a aplicação da norma processual. Incidência da Súmula 283/STF.
+5. "Havendo notificação prévia pelo próprio credor da existência do débito e do encaminhamento do nome do devedor para inscrição em cadastro de inadimplência, entendem-se cumpridos os objetivos do § 2º, do art. 43, do CDC, razão pela qual não há falar-se em direito à percepção de indenização por dano moral em face do arquivista" (AgRg no REsp 1.143.648/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18.06.2015, DJe 25.06.2015). Incidência da Súmula 83/STJ. Ademais, para suplantar a cognição estadual (no sentido de que notificados os autores em seus endereços), revelar-se-ia necessária a incursão no acervo fático probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, ante o óbice da Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AgRg nos EDcl no REsp 1.390.394/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 27/2/2018, DJe 2/3/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. ENVIO FEITO POR ENTIDADE CONGÊNERE. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. QUANTUM INDENIZATÓRIO MAJORADO PELA DECISÃO AGRAVADA. MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É válida a comunicação prévia efetuada por entidade congênere, na medida em que a jurisprudência desta Corte reconhece a legitimidade ad causam de associação ou câmara de dirigentes lojistas que reproduz informações contidas em outros bancos de dados, desenvolvendo, por isso, típico serviço de proteção ao crédito.
+2. Cumpre destacar, ainda, que a eg. Segunda Seção desta Corte Superior, por ocasião do julgamento do REsp 1.061.134/RS, submetido ao rito do art. 543-C do CPC, decidiu que: "Ostenta também legitimidade passiva para a ação indenizatória a entidade que reproduz ou mantém o cadastro, com permuta de informações constantes de outros bancos de dados. Nesses casos, o órgão que efetuou o registro viabiliza o fornecimento, a consulta e a divulgação de apontamentos existentes em cadastros administrados por instituições diversas com as quais possui convênio, como ocorre com as Câmaras de Dirigentes Lojistas dos diversos Estados da Federação entre si" (REsp 1.061.134/RS, Rel. Min. NANCY ANDRIGHI, DJe de 1º.4.2009).
+3. A decisão ora impugnada, ao aumentar a verba indenizatória de R$ 300,00 (trezentos reais) para R$ 5.000,00 (cinco mil reais) em razão dos danos morais decorrentes da ausência de prévia notificação de inscrição em cadastro de inadimplentes, adequou a quantia fixada pela Corte de origem aos patamares estabelecidos pelo Superior Tribunal de Justiça e às peculiaridades da espécie, razão por que o referido decisum deve ser mantido por seus próprios fundamentos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 43.361/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/11/2016, DJe 28/11/2016)
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DANOS MORAIS. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA PELO ARQUIVISTA. ART. 43, § 2º DO CDC. COMPROVADA NOTIFICAÇÃO PELO CREDOR. INEXISTÊNCIA DO DANO.
+1. Havendo notificação prévia pelo próprio credor da existência do débito e do encaminhamento do nome do devedor para inscrição em cadastro de inadimplência, entendem-se cumpridos os objetivos do § 2º, do art. 43, do CDC, razão pela qual não há falar-se em direito à percepção de indenização por dano moral em face do arquivista.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.143.648/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 18/6/2015, DJe 25/6/2015)
+Nessas condições, DOU PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. REGISTRO DE CADASTRO DE INADIMPLESTES. NOTIFICAÇÃO ENVIADA POR ENTIDADE CONGÊNERE. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
