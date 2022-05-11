@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de ROSINALDO BATISTA DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2010299-70.2021.8.26.0000).
+Consta dos autos "que opacienteestárecolhido desde 07 de março de 2018, pela suposta prática do crimede homicídio tentado"(e-STJ fl. 1132). Isso, porque, em tese, "aos 26/05/2013, o réu Rosinaldo dosSantos Batista teria tentado matar a vítima José Alexandre Andrade. Segundoa denúncia de fls. 2/4, datada de 29/08/2013, o réu alugava um imóvel para otio da vítima José Alexandre, que estava em atraso com os pagamentos. Poreste motivo discutiram, sendo que a vitima interferiu tentando acalmar osânimos, quando foi atingida por um golpe de faca, desferido pelo réuRosinaldo"(e-STJ fl. 1.134).
+Irresignada, a defesa impetrou préviowritna Corte estadual, quedenegou a ordemem acórdão assim ementado (e-STJ fl. 1.132):
+HABEAS CORPUS - Homicídio tentado - Prisãopreventiva - Excesso de prazo não configurado -Sentença de pronúncia que afasta seureconhecimento - Entendimento da Súmula 21, doSTJ - Necessidade da custódia cautelar bemdemonstrada - Constrangimento ilegal nãoevidenciado - Ordem denegada.
+Nesta oportunidade, a defesa alega carência de fundamentação idônea a amparar a prisão preventiva, bem como excesso de prazo na sua duração.
+Ademais, aponta a presença de condições pessoais favoráveis e a necessidade de desclassificação da conduta imputada para aquela prevista no art. 129 do Código Penal.
+Assim, requer (e-STJ fl. 24):
+a) Liminarmente, conceda-se a ordem de Habeas Corpus pararevogar a prisão preventiva do Paciente na ação criminalnº 0008146.88.2013.8.26.0191 que tramita perante a 2ªVara Criminal da Comarca de Ferraz de Vasconcelos, SP,até o julgamento final deste Habeas Corpus;
+ ..
+c) Ao final, concedida ou não a liminar, seja conhecida estaOrdem, mantendo-se a liminar deferida para revogar aprisão preventiva concedendo a LIBERDADE PROVISÓRIA com aEXPEDIÇÃO DO COMPETENTE ALVARÁ DE SOLTURA, para que possaser restabelecida a sua liberdade individual e aguardar odesfecho da ação criminal em liberdade.
+Subsidiariamente, caso não seja conhecido opresente Habeas Corpus, que seja a ordem concedida de ofício,  .. devendo seraplicada uma ou mais dentre as medidas cautelares previstasno artigo 318 ou 319, do Código de Processo Penal.  .. Requerendo mais, a DESCLASSIFICAÇÃO de homicídiotentado, consubstanciado no artigo 121, § 2º, incisos II, eIV, CC. Artigo 14, para o crime capitulado no artigo 129, doCódigo Penal Brasileiro - lesão corporal de natureza leve, deacordo com o Laudo de Exame de Corpo de Delito descrito àsfls; 25 e 38, constantes dos autos.
+O pedido liminar foi por mim indeferido (e-STJ fls. 1.139/1.141).
+Prestadas as informações de estilo, o Ministério Público Federal se manifestou pelo não conhecimento dowritou, se conhecido, pela denegação da ordem (e-STJ fls. 1180/1184).
+É, em síntese, o relatório.
+Decido.
+Conforme informações extraídas do sítio eletrônico do Tribunal de origem, constata-se que em 25/3/2022 foi realizada a sessão de julgamento pelo Tribunal do Júri, nos autos da Ação Penal n.0008146-88.2013.8.26.0191, objeto do presente habeas corpus, tendo o paciente sido condenadoà pena de 12 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, como incurso no artigo 121, § 2º, IV, c/co art.14, II, do Código Penal. Foi-lhe negado o benefício de recorrer em liberdadee determinada a expedição da guia de execução provisória.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. EXPEDIDO ALVARÁ DE SOLTURA EM RELAÇÃO A UM DOS RECORRENTES, EM FACE DE SENTENÇA ABSOLUTÓRIA PROFERIDA EM SEU FAVOR. PERDA DE OBJETO. RECURSO DESPROVIDO.
+- Proferida sentença nos autos da ação penal a que se referem os autos, fica prejudicado o pedido de revogação da prisão por ausência de fundamentação no decreto preventivo, pois, nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, eventual custódia do paciente decorre agora de novo título judicial, devendo os seus fundamentos serem submetidos à análise do Tribunal de origem antes de aqui apreciados, porquanto vedada a supressão de instância. Precedentes desta Corte e do Supremo Tribunal Federal - STF.
+- Com relação ao paciente Lucas Fabiano da Silva, não há como negar a superveniente prejudicialidade recursal decorrente de sentença absolutória proferida em seu favor, com a expedição do competente alvará de soltura.
+Agravo regimental desprovido.
+(AgRg no RHC 58.539/MG, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 18/8/2015, DJe 4/9/2015.)
+Dessarte, a presente impetração, que visava a revogação da custódia do paciente por ausência de fundamentação idônea e por excesso de prazo para a formação da culpa, está prejudicada, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
