@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso interposto por RENATO LUIDI DE SOUZA SOAREScontra o acórdão doTRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTEno HC n. 0802406-60.2022.8.20.0000, lavrado conforme esta ementa(fl. 1.431):
+CONSTITUCIONAL E PROCESSUAL PENAL. .HABEAS CORPUS FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO (ARTS. 298 E 304 DO CP). ROGO PELO TRANCAMENTO DO INQUÉRITO POR AUSÊNCIA DE JUSTA CAUSA. INDÍCIOS MÍNIMOS DE AUTORIA HÁBEIS A PERSECUÇÃO INQUISITORIAL. PREMATURIDADE DA MEDIDA. PRECEDENTES. ORDEM CONHECIDA E DENEGADA.
+O recorrente buscasejadeterminado, pelo reconhecimentoda atipicidade da conduta em apuração,o trancamento do Inquérito Policial n. 208/2021, instaurado pela18ª Promotoria de Justiça da comarca de Natal/RN.
+Argumenta que, na qualidade de advogado, possui algumas ações em tramitação nas Varas da Fazenda Pública de Natal/RN, nas quais pleiteia, em sua maioria, o reconhecimento de direitos de servidores públicos;que, por ordem judicial, para evitar duplicidade de ações, apresentou declarações dos autores das demandas por ele patrocinadas contendo a informação de que não estavam executando o mesmo título judicial em juízo diverso; que o Juízo da 6ª Vara da Fazenda Pública daquela comarca afirmou que as declarações juntadas eram falsas, ao passo que a assinatura aposta nas declarações foi copiada das respectivas procurações, de modo que não possuem validade jurídica; que, após determinação judicial, foram juntadas pelo recorrente novas declarações com firma reconhecida das assinaturas dos autores; que, diante das novas declarações, os feitos prosseguiram normalmente, sendo que alguns, inclusive, já contam com sentenças favoráveis; que os documentos, grosseiramente falsificados, foram posteriormente verificados e não causaram prejuízo ao processo; e que, por tais motivos, o caso requer o trancamento do inquérito policial, por atipicidade.
+Sem contrarrazões.
+O Ministério Público Federal opinou pela negativa de provimento do recurso (fls. 1.463/1.467).
+É o relatório.
+O recurso não merece prosperar.
+Há muito tempo diz a nossa jurisprudência que otrancamento prematuro de inquérito policial, e via habeas corpus, é medida excepcional, admissível somente quando emerge dos autos, sem maiores digressões ou apreciação probatória, a falta de justa causa, a atipicidade dos fatos ou causa extintiva de punibilidade, situações que não sãoobservadas neste caso. Sobre o tema, por exemplo,RHC n. 88.970/SP, Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 24/8/2018).
+Na espécie, existem indícios mínimos e fidedignos de autoria e de existência de crimede falsificação de documento particular e uso de documento falso, não é possível, portanto, trancar a investigação em curso pela alegada falta de justa causa.
+Ademais, avia mandamental e o momento escolhidos -estando o feito ainda em fase investigativa -não permitem incursão fática sobre os autos a fim de concluir que as falsificações em questão são grosseiras, sobretudo quando a pretensão não foi examinada pelo Tribunal de Justiça.
+Incensurável o acórdão recorrido ao afirmar que serevela, de todo, precoce impedir o aprofundamento dos fatos, maiormente por demandarem incursão no acervo colhido, sendo impossível afirmar ou rechaçar, de plano, a busca investigatória(fl. 1.433). O Tribunal estadual decidiu de acordo com nossos precedentes.
+Na mesma linha, é o parecer escrito pelo Subprocurador-Geral da República Marcelo Muscogliati, o qual também adoto como razão de decidir (fls. 1.465/1.466):
+ ..
+7. É fato incontroverso que o recorrente, na qualidade de advogado, juntou declarações falsificadas de clientes em processos judiciais. As assinaturas constantes das declarações foram copiadas das respectivas procurações e as imagens obtidas foram inseridas nos documentos.
+8. No mais, a juntada posterior das declarações com firma reconhecida das assinaturas dos clientes não é suficiente para descaracterizar os crimes de falsificação de documento particular e uso de documento falso, o que torna descabido o argumento de atipicidade.
+9. A análise acurada sobre a natureza da falsificação, se grosseira ou não, é medida que será oportunizada durante as investigações. Não é a via estreita do writ, que é desprovida de dilação probatória, o ensejo propício para se imiscuir nessa discussão, por demandar exame de aspectos fático-probatórios.
+10. Uma vez constatada a plausibilidade acusatória e a inexistência de patente ilegalidade ou teratologia, deve o inquérito policial prosseguir regularmente, para, ao final, decidir-se a respeito da suficiência dos elementos indiciários a justificar a proposição de denúncia pelo Parquet.
+11. Logo, não há cogitar trancamento do inquérito policial.
+Pelo exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO.TRANCAMENTO DO INQUÉRITO POLICIAL. INEXISTÊNCIA DE EXCEPCIONALIDADE. PRESENÇA DE LASTRO MÍNIMO PARA A INVESTIGAÇÃO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PARECER ACOLHIDO.
+Recurso improvido.
