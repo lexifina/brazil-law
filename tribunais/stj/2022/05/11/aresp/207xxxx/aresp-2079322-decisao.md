@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado pela AGENCIA NACIONAL DE MINERACAO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO. ADMINISTRATIVO. TAXA ANUAL POR HECTARE. AUSÊNCIA DE ESPECIFICAÇÃO DO PERÍODO COBRADO NA CDA. NULIDADE.
+- O STF, no julgamento da ADI n.º 2.586-4/DF, definiu que a TAH ostenta natureza de preço público, pois decorre da exploração de bem da União, por particular, mediante o pagamento de um preço estabelecido pela lei
+- O fato gerador da Taxa Anual por Hectare nasce com a autorização de pesquisa, sendo devida anualmente até a entrega do relatório final dos trabalhos ao DNPM, nos termos do art. 4º da Portaria nº 503/99, do Ministério de Minas e Energia.
+- Desta feita, entende o STJ que a ausência de indicação do período de apuração do débito, que corresponde à data do fato gerador, é elemento indispensável à formação da CDA e à defesa do contribuinte.
+- Apelação não provida.
+Alega violação do art. 2º, §§ 5º e 6º, da Lei n. 6.830/1980, no que concerne ao preenchimento dos requisitos necessários para a execução da CDA, trazendo os seguintes argumentos:
+Nota-se, que diferentemente do v. acórdão, não é exigido por lei que conste na CDA a data do fato gerador.
+Por certo, as informações constantes na CDA objeto da presente execução são suficientes para identificar o valor da dívida, a origem, natureza e seu fundamento legal, além dos critérios para atualização monetária e a data e o número do processo administrativo no qual o débito foi apurado. A clareza e a objetividade de seus termos, garante ao devedor a possibilidade de bem compreender a origem, natureza e fundamentos legais de seu débito.
+Como se sabe, não se tem, na situação sub examine, um tributo, no exato conceito jurídico, mas um preço público que o particular paga à União pela exploração de um bem do domínio desta, desde a etapa da pesquisa mineral, logo, não se pode querer aplicar ao caso em exame as normas e princípios de direito tributário.
+Assim, por se tratar a TAH de crédito de natureza não tributária, os requisitos que devem ser observados na emissão da CDA são aqueles previstos na Lei nº 6.830/80, não havendo previsão para que conste a data do fato gerador da taxa anual por hectare no título executivo.
+Ademais, como se verifica na CDA em questão, consta a data do vencimento da TAH, que corresponde ao início do prazo para constituição do preço público, o que já é suficiente para se poder verificar a ocorrência ou não da decadência.
+Por esse motivo, a lei não exige que conste a data do fato gerador. (fls. 980).
+No caso dos autos, consta da CDA que os vencimentos das TAHs ocorreram em 27/07/92 e 27/07/93, o que facilmente se deduz que as cobranças se referem aos fatos geradores ocorridos entre 1º janeiro a 30 de junho de 92 e 93, respectivamente.
+Logo, diferentemente do entendimento do v. acórdão, a CDA em questão apresenta todos os requisitos exigidos por lei, não sendo verdadeira a afirmação de que a ausência da data do fato gerador impede se saber o período de apuração do débito, pois, como já afirmado, pela data do vencimento das TAHs, constantes da CDA, facilmente se constata o período de apuração da dívida. (fls. 981).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  o fato gerador da Taxa Anual por Hectare nasce com a autorização de pesquisa, sendo devida anualmente até a entrega do relatório final dos trabalhos ao DNPM, nos termos do art. 4º da Portaria nº 503/99, do Ministério de Minas e Energia.
+Entretanto, nas CDAS que instruem o processo (Evento 1) não é possível determinar quais os anos fiscais que estão sendo cobrados, nem a data da constituição do crédito.
+Nesse sentido, entende o STJ que a ausência de indicação do período de apuração do débito, que corresponde à data do fato gerador, é elemento indispensável à formação da CDA e à defesa do contribuinte, configurando, assim, a nulidade do título executivo, in verbis: (fl. 932, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
