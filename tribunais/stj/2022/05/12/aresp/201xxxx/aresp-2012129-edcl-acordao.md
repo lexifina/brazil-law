@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+LUCAS RIBEIRO DA ROCHAopõe embargos de declaração ao acórdão desta colenda Sexta Turma,que negou provimento ao agravo regimental, nos termos da seguinte ementa(fls. 452-455):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS. COVID-19. ATO DE TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DEINTERPOSIÇÃO DO RECURSO.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A suspensão dos prazos processuais por ato de Tribunal estadual em decorrência da pandemia da Covid-19 deve ser comprovada no ato de interposição do recurso, o que, no entanto, não ocorreu.
+2. A defesa foi intimada do acórdão recorrido em 13/3/2020, conforme certidão de fl. 315. O recurso especial, por sua vez, foi protocolizado somente em 1º/9/2020 (fl. 317) - depois, portanto, de decorrido o prazo de 15 dias corridos -, sem, contudo, a comprovação, no ato de interposição, de eventual suspensão dos processos em trâmite na Justiça local.
+3. Agravo regimental não provido.
+O embargante alega omissãonodecisumembargado, sob o argumento de que esta Corte Superior "não apreciou o que restou esclarecido pelo embargante, no Tópico 3, que o Recurso Especial é tempestivo, já que o embargante foi intimado do acórdão em sede de recurso de apelação no dia 13/03/2020, iniciando-se o prazo recursal legal de 15 dias corridos para a interposição dos recursos extraordinários no dia 16/03/2020 (primeiro dia útil subsequente a intimação)" (fl. 459).
+Sustenta, ainda, que "por conta do agravamento da Pandemia do Covid-19 e com intuito de estabelecer normas para prevenção ao contágio pelo Coronavírus, os prazos dos processos físicos não urgentes, cíveis e criminais (como o caso do processo do recorrente), tanto na 1ª quanto na 2ª instância, tiveram seus prazos suspensos a partir de l6 de março de 2020 (data do início do prazo recursal do recorrente), conforme informação trazida pelo art. 1º da Portaria Conjunta da Presidência do TJMG nº 948/2020" (fl. 459).
+Requer, assim, o acolhimento dos embargos de declaração, com a atribuiçãode efeitos modificativos ao julgado, para que, ao final, sejam sanados os vícios da omissão e da contradição apontados.
+EMENTA
+EMBARGOS DE DECLARAÇÃONO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.SUSPENSÃO DOS PRAZOS. COVID-19. ATO DE TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.OMISSÃO E CONTRADIÇÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS DEDECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, aoposição de embargos de declaração enseja, em síntese, o aprimoramento daprestação jurisdicional, por meio da retificação do julgado que seapresenta omisso, ambíguo, contraditório ou com erro material. Sãoinadmissíveis, portanto, quando, a pretexto da necessidade deesclarecimento, aprimoramento ou complemento da decisão embargada,objetivam, em essência, o rejulgamento do caso.
+2. O acórdão embargado não foi omisso nem contraditório, porquanto analisou, de maneiraclara e devidamente fundamentada, omotivopeloqual o recurso especial é intempestivo.
+3.Embargos de declaração rejeitados.
+VOTO
+Consoante o disposto no art. 619 do Código de Processo Penal, aoposiçãode embargos de declaração enseja, em síntese, o aprimoramento da prestaçãojurisdicional, por meio da retificação do julgado que se apresenta omisso,ambíguo, contraditório ou com erro material. São inadmissíveis, portanto,quando, a pretexto da necessidade de esclarecimento, aprimoramento oucomplemento da decisão embargada, objetivam, em essência, o rejulgamentodo caso.
+Constato que oacórdão embargadonão foi omisso tampouco foi contraditório.
+No caso, foi devidamente explicitado que esta Corte Superior, em razão da atual pandemia do Covid-19, assentou recentemente a tese de que cabe àparte comprovar,no momento de interposição do recurso,adeterminação feita pelo Tribunal estadual, no âmbito de sua competência,da suspensão dos prazos processuais,por meio do ato normativo local, sob pena de intempestividade recursal.
+Demonstrei, ainda, que a defesa havia sido intimada do acórdão recorrido em 13/3/2020, conforme certidão de fl. 315. O recurso especial, por sua vez, teria sido protocolizado somente em 1º/9/2020 (fl. 317) - depois, portanto, de decorrido o prazo de15 dias corridos -, sem, contudo, ter havido a comprovação, no ato de interposição, de eventual suspensão dos processos em trâmite na Justiça local.
+Assim, o que se percebe, na verdade, é que a irresignação doembargantese resume amero inconformismocom o resultado do julgado, que lhe foidesfavorável, não havendo nenhum fundamento que justifique a oposição deembargos de declaração.
+À vista do exposto,rejeitoos embargos de declaração.
