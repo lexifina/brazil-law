@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo manejado por CELG DISTRIBUIDORA S.A. - CELG D em face de decisão que negou admissibilidade ao recurso especial em razão da incidência do óbice da Súmula nº 7 do STJ.
+A agravante insurge-se contra a decisão agravada alegando, em síntese, a não incidência da Súmula nº 7 desta Corte na hipótese, tendo em vista que a discussão trazida no recurso especial quanto à (in)aplicabilidade do § 8º do art. 85 do CPC/2015, relativamente à (im)possibilidade de fixação de honorários advocatícios por apreciação equitativa em caso de ação de elevado valor, não demanda reexame de matéria fático-probatória, mas apenas a aplicação do direito, no caso, a aplicação dos percentuais previstos nos § § 2º e 3 do referido dispositivo legal. Aduz, outrossim, que restou comprovado o dissídio interpretativo alegado com base na alínea "c" do permissivo constitucional. Cita precedentes desta Corte que corroboram sua tese.
+Requer o conhecimento do agravo para que seja analisado e provido o recurso especial.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação merece acolhida.
+Discute-se nos autos a possibilidade de fixação de honorários com base na apreciação equitativa prevista no § 8º do art. 85 do CPC em caso de ações de proveito econômico/valor da causa elevados.
+O acórdão recorrido entendeu de forma positiva em relação à supracitada possibilidade.
+Contudo, tal entendimento contraria recentíssimo entendimento fixado pela Corte Especial do STJ na assentada de 16/3/2022, no âmbito do REsp 1.850.512/SP, e outros, em sede de recurso especial repetitivo (Tema 1.076), onde foram fixadas as seguintes teses:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Por ocasião do julgamento do referido recurso especial repetitivo, foi determinado o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§ 2º e 3º do art. 85 do CPC/2015, de modo que igual solução deve ser dada ao presente recurso.
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial para determinar o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§ 2º e 3º do art. 85 do CPC/2015, nos termos do entendimento fixado por esta Corte no Tema 1.076, em recurso especial repetitivo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE HIPÓTESE DE APRECIAÇÃO EQUITATIVA. FIXAÇÃO DOS HONORÁRIOS COM BASE NO § 3º DO ART. 85 DO CPC/2015. PRECEDENTE. QUESTÃO FIXADA PELA CORTE ESPECIAL DO STJ EM SEDE DE RECURSO ESPECIAL REPETITIVO. TEMA 1.076. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL PARA DETERMINAR O RETORNO DOS AUTOS À ORIGEM PARA A CORRETA FIXAÇÃO DA VERBA HONORÁRIA.
