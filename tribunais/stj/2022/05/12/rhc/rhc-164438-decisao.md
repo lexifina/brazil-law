@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por RONALDO ANICETO DE SOUZA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.076297-5/000).
+O recorrente teve a prisão em flagrante - ocorrida em 22/12/2021- convertida em preventiva por suposta prática do delito descrito no art. 157, § 2º, II, do Código Penal (fl. 63).
+O decreto prisional fundou-se no risco de reiteração delitiva, pois o recorrente estava em cumprimento de medidacautelar diversa - monitoramento eletrônico -, na gravidade do delito e na insuficiência de aplicação de outra medidacautelar (fls. 62-63).
+Impetrado writ originário, a ordem foi denegada (fl. 261).
+Orecorrente alega que está sendo vítima de constrangimento ilegal, pois não foi comprovada a vinculação entre a arma encontrada em seu veículo - que não lhe pertencia- e o suposto crime (fl. 286).
+Ressalta que não foi identificado pelas vítimas como autor do delito e que não tem ligação com nenhuma organização criminosa (fl. 287).
+Pondera que é primário, não temantecedentes negativose possui residência fixa, sendocabível a aplicação de medidas cautelares diversas da prisão (fls. 288-289).
+Requer a concessão de liberdade provisória mediante a imposição de medidas cautelares alternativas com a imediata expedição de alvará de soltura.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático do recurso em habeas corpus antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito do recurso em habeas corpus.
+Ressalte-se que a alteração da decisão que decretou a preventiva no que se refere à existência de indícios de autoria e de prova da materialidade do delito demanda dilação probatória, procedimento incompatível com a estreita via do habeas corpus, devendo a questão ser dirimida no trâmite da instrução criminal. Nesse sentido: HC n. 504.546/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/10/2019; e RHC n. 123.822/DF, relator Ministro Teori Zavascki, Segunda Turma, DJe de 20/10/2014.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, demonstrado, de forma concreta, o incontroverso descumprimento de medida cautelar alternativa, é evidente a intenção do acusado de furtar-se à aplicação da lei penal, o que justifica a decretação da preventiva (HC n. 612.101/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/11/2020).
+Ademais, eventuais condições subjetivasfavoráveisdorecorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
