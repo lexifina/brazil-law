@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porRAYTON INDUSTRIAL S.A.,contra decisão que negou seguimento a recurso especial fundamentadonas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/04/2021.
+Concluso ao gabinete em: 28/05/2022.
+Ação: habilitação retardatária de crédito- decorrente de sentença proferida nos autos dereclamação trabalhista -proposta por ADEMAR ALVES na recuperação judicial da empresa recorrente.
+Decisão interlocutória:julgou improcedente o pedido, ao argumento de que o crédito habilitado seria extraconcursal.
+Acórdão: deu parcial provimento ao recurso de agravo de instrumento interposto pela agravante para determinar a habilitação na recuperação judicial, na classe I, da parcela do crédito do agravado referente ao período anterior a 10/12/2015, nos termos da seguinte ementa:
+Agravo de instrumento - Recuperação judicial - Habilitação de crédito retardatária - Improcedência - Inconformismo da recuperanda - Acolhimento em parte - Matéria debatida no recurso que não se enquadra no tema 1051, afetado pelo C. STJ para julgamento pela sistemática dos recursos repetitivos - Contrato de emprego que é de execução diferida - Fato gerador do crédito que corresponde à data de prestação do serviço, e não à data da celebração do contrato de trabalho - Crédito trabalhista, parte do qual se refere a período anterior ao pedido de recuperação judicial, e a maior parte referente a período posterior àquele - Extraconcursalidade que foi equivocadamente reconhecida quanto à totalidade do crédito - Reforma da decisão agravada neste ponto - Extraconcursalidade do crédito relativo a honorários sucumbenciais fixados em sentença prolatada após o pedido de recuperação judicial - Entendimento firmado pela Segunda Seção do C. STJ - Inexistência de decisão anterior em sentido diverso na recuperação judicial da agravante - Decisão agravada reformada em parte - Recurso provido em parte. (e-STJ, fl. 284)
+Embargos de Declaração: opostos pela recorrente foram rejeitados.
+Recurso especial: alega violação doart. 49 da Lei 11.101/2005, bem como dissídio jurisprudencial. Aduz quetodo o crédito devido ao recorrido, inclusive os honorários advocatícios sucumbenciaisfixados, devem se sujeitar aos efeitos da recuperação judicial, tendo em vista que seu fato gerador - início da relação de trabalho -ocorreu anteriormente ao ajuizamento do pleito recuperacional.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da jurisprudência pacífica do STJ
+Consoante a jurisprudência pacífica do STJ, firmada no julgamento de recurso especial repetitivo, a existência do crédito é determinada pela data em que ocorreu o seu fato gerador para fins de sua submissão na recuperação judicial (Resp 1.843.332/RS, Segunda Seção, DJe 17/12/2020; Tema 1051/STJ). Assim,"o crédito trabalhista tem como substrato e fato gerador o desempenho da atividade laboral pelo trabalhador, no bojo da relação empregatícia, destinado a propiciar a sua subsistência, do que emerge seu caráter alimentar" (REsp 1.804.563/SP, Terceira Turma, DJe 31/8/2020).
+Outrossim, de um lado, os honorários advocatícios terão natureza extraconcursal, caso a sentença que os arbitrou tenha sido prolatada após o pedido de recuperação judicial. Lado outro, o crédito relativo aos honorários sucumbenciais deverá ser habilitado junto ao Juízo da recuperação judicial, na hipótese de a sentença ser anterior ao pleito recuperacional.
+Nesse sentido: AgInt no REsp 1.880.234/SP, Terceira Turma, DJe 19/11/2020; AgInt no REsp 1.853.201/RS, Quarta Turma, DJe 30/06/2020; REsp 1.841.960/SP, Segunda Seção, DJe 14/04/2020.
+Na espécie, o acórdão recorrido reconheceu que o crédito trabalhista que se refere a período anterior ao pedido de recuperação judicial deve se submeter aos efeitos da recuperação judicial, além de consignara "extraconcursalidade do crédito relativo a honorários sucumbenciais fixados em sentença prolatada após o pedido de recuperação judicial" (e-STJ, fl. 284).
+Tal entendimento está em consonânciacom a jurisprudência desta Corte acima referida e, portanto, deve ser mantido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇOdo recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA.SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. DATA DO FATO GERADOR. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. Consoante o entendimento pacífico do STJ, firmado em julgamento de recurso especial repetitivo,"para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador" (REsp 1.843.332/RS, Segunda Seção, DJe 17/12/2020).
+2. Agravo conhecido. Recurso especial não provido.
