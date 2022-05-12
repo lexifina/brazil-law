@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 26-27):
+Cuida-se de apelações interpostas por CARLOS HENRIQUE DE OLIVEIRA COLTURATO, VICTOR FERNANDO MOTA e TIAGO RODRIGUES DE MELLO contra a r. sentença publicada em 14 de novembro de 2019, lançada a fls. 372/376, que os condenou pela prática do delito descrito no art. 33, caput, da Lei nº 11.343/06, os dois primeiros à pena de 5 anos e 10 meses de reclusão, e 583 diárias-multa; o último à pena de 7 anos e 9 meses de reclusão, e 777 diárias de multa, estabelecido para todos o regime prisional fechado e diárias no piso, em razão de fatos ocorridos em 13 de maio do mesmo ano.
+Os recorrentes perseguem a absolvição por insuficiência probatória, questionando, especialmente, ausência de prova quanto à comercialização dos entorpecentes, além da droga apreendida. O acusado Carlos, pede, alternativamente, a fixação da pena-base no patamar mínimo legal, a circunstância inominada prevista no art. 66 do Código Penal, a incidência do redutor pelo tráfico privilegiado, a fixação de regime aberto e a substituição da pena corporal por alternativas. Tiago também suscita excesso de prazo da prisão preventiva e pede sua revogação (fls. 385/395, 400/409 e 418/428).
+Constam as contrarrazões (fls. 454/461) e o parecer da douta Procuradoria Geral de Justiça (fls. 480/486), que opina pelo desprovimento dos recursos.
+É o relatório.
+Consta dos autos que o paciente foi condenado à pena de 5anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583dias-multa, no piso legal, como incurso noartigo33, caput,da Lei 11.343/06.
+Daí o presente writ, no qual alega o impetrante que o paciente deve ser absolvido em razão da nulidade das provas obtidas pela Guarda Civil Municipal de Itararé-SP, que teria atuado de forma a exceder os limites de sua competência constitucional, ao agir de modo investigativo e exercer opoliciamento ostensivo. Ainda, caso reconhecida a licitude das provas, seria o caso de absolvição pela ausência de comprovação da situação de traficância, poiso fato de estar em pé em local próximo ao local da apreensão das drogas não é suficiente para constatar o nexo entre a droga e o paciente.
+Subsidiariamente, alega que o paciente preenche todos os requisitos para ser reconhecida a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, haja vista que é primário, possui bons antecedentes e não se dedica a atividades criminosas.
+Por fim, defende queseria o caso de fixação do regime inicial menos gravoso, pois o regime fechado foi estabelecido com base em fundamentação inidônea.
+Requer a concessão da ordem, liminarmente, para estabelecer o regime inicial aberto ou semiaberto e, no mérito, para declarar a ilicitude das provas e absolver o paciente ou, subsidiariamente, aplicar o redutor previsto no artigo 33, § 4º, da Lei n. 11.343/2006, bem como suas consequências legais.
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opinou pela prejudicialidade do writ.
+Com razão o Ministério Público Federal.
+Em informações prestadas pelo Tribunal de origem, consta que "Ajuizada a revisão criminal autuada nesta Casa sob o número 2150585-98.2021.8.26.0000, em julgamento virtual finalizado aos 25 de março de 2022, o Oitavo Grupo de Direito Criminal, por maioria de votos, julgou-a procedente para, com fundamento nos arts. 386, II, c.c. o 621, I, segunda parte, ambos do Código de Processo Penal, julgar improcedente a pretensão punitiva e absolver Carlos Henrique de Oliveira Colturado da acusação de ter infringido o art. 33, caput, da Lei nº 11.343/06, e estendeu os efeitos da decisão aos corréus Victor Fernando Mota e Tiago Rodrigues de Mello, determinando a expedição de alvarás de soltura" (fl. 677).
+Logo, houve a perda superveniente do objeto deste writ.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
