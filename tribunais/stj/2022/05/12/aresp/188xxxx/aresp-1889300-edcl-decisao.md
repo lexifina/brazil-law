@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração, contra decisão de minha lavra, que deu provimento ao recurso especial, para determinar a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre as razões articuladas nos embargos de declaração.
+Nas razões dos aclaratórios, a parte sustentaos mesmos argumentos já delineados na petição de embargos de declaração n. 770.405/2021, juntado às fls. 703-716.
+Na origem, trata-se de ação ordinária ajuizada por ROSANIA DE FATIMA COSTA GARCIA, contra a parte recorrente para obter o reconhecimento do desvio de função do cargo de auxiliar de creche para o de professor do município, com as consequências daí decorrentes, como o pagamento das diferenças salariais e indenização por danos morais.
+Na sentença julgou-se parcialmente procedente o pedido, para reconhecer o desvio de função e condenar o Município do Rio de Janeiro ao pagamento das diferenças remuneratórias, inclusive férias, 13º salário entre os cargos de Agente Auxiliar de Creche e Professor Infantil, desde a data da posse até a data em que cessou o desvio de função.
+No Tribunal de origem, deu-se parcial provimento ao apelo da parte, para que o Município pague a integralidade dos honorários advocatícios sucumbenciais e recursais.
+É o relatório. Decido.
+O entendimento pacífico desta Corte é no sentido de que a interposição de dois embargos de declaração pela mesma parte de uma mesma decisão acarreta a inépcia recursal quanto a segunda petição, por infringência aos princípios da unirrecorribilidade recursal e da preclusão consumativa.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO ALÉM DO PRAZO LEGAL. ART. 1.070 DO CPC/2015. INTEMPESTIVIDADE. INTERPOSIÇÃO DE DOIS RECURSOS, PELA MESMA PARTE, CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A decisão, objeto deste Agravo interno, foi disponibilizada em 31/05/2021, segunda-feira, no Diário de Justiça eletrônico, considerando-se publicada em 01/06/2021, terça-feira. O presente recurso, no entanto, somente foi interposto em 24/06/2021, quando já escoado o prazo legal, em 23/06/2021, quarta-feira, conforme certificado nos autos.
+III. Descumprido, portanto, o prazo de quinze dias úteis, para a interposição do Agravo interno, previsto no art. 1.070 do CPC/2015, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+IV. Ademais, é assente, na jurisprudência do STJ, o entendimento de que ainterposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: AgRg nos EAREsp 1.590.406/SP, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, DJe de 01/02/2021, EDcl no MS 22.289/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 01/12/2020; AgInt no AREsp 1.613.078/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/10/2020; EDcl no AgRg no RE no AgRg nos EDcl no AgRg nos EDcl no AREsp 501.366/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe de 28/11/2018; AgInt no MS 24.022/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 20/08/2018.
+V. Agravo interno não conhecido.
+(AgInt no REsp 1928550/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/04/2022, DJe 29/04/2022)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
