@@ -1,0 +1,1 @@
+Art. 11-A. O disposto nesta Instrução Normativa será executado e decidido no âmbito da Delegacia da Receita Federal do Brasil em Recife-PE.

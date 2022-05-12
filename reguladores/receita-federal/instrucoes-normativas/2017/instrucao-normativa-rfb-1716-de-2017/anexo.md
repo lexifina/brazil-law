@@ -1,4 +1,5 @@
 ANEXO I - declaração de disponibilidade financeira ou patrimonial
+Anexo I.pdf
 [arquivo anexo: Anexo I.pdf]
 ANEXO II - requerimento de isenção de ipi - iof para aquisição de veículo destinado ao transporte individual de passageiros (táxi) - cooperativa
 [arquivo anexo: Anexo II.pdf]
