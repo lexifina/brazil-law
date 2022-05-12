@@ -1,0 +1,13 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERALinterpõeagravo regimental contra decisão de fls. 1.125-1.129, por mimproferida, em que concedi a ordem, para redimensionar a pena-base do acusado e, consequentemente, tornar a reprimenda definitiva em 7 anos, 11 meses e 8 dias de reclusão e pagamento de 793 dias-multa.
+Alega o agravante que, "em face do mesmo acórdão impugnado pelo presente habeas corpus e proferido nos autos da Apelação Criminal nº 2015.026719-4, a defesa de Leudivan Nunes já havia interposto recurso especial" (fl. 1.134), autuado sob o n. 1.575.325/SC, distribuído e julgado pelo Ministro Reynaldo Soares da Fonseca.
+Salienta que "a hipótese é de nulidade da decisão agravada e de exame da prevenção do presente habeas corpus ao Ministro Reynaldo Soares da Fonseca" (fl. 1.136).
+Requer, assim, "conhecimento e provimento do presente agravo, para que seja declarada a nulidade da decisão agravada, seguindo-se o exame da prevenção do presente habeas corpus ao Ministro Reynaldo Soares da Fonseca" (fl. 1.136).
+Decido.
+Entendo que assiste razão ao agravantequanto ao pedido de exame da prevenção doMinistro Reynaldo Soares da Fonseca.
+No tocante à prevenção, "A jurisprudência há muito sedimentada no Superior Tribunal de Justiça firmou o entendimento de que, sendo relativa a nulidade decorrente da inobservância da competência penal por prevenção, nos termos da Súmula n. 706/STF, "se não alegada no primeiro instante em que teve oportunidade, seu direito a manifestação sobre alegada nulidade está precluso, fazendo que com a competência do Juiz se prorrogue no tempo".  ..  (AgRg no AREsp n. 155.309/DF, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 10/8/2020)
+No presente caso, a apontada nulidade relativa foi suscitada pelo Ministério Público Federal oportunamente, notadamente quando de sua manifestação às fls. 1.117-1.123. Assim, não há que se falar em preclusão.
+Em consulta realizada ao Sistema de Informações Processuais desta Corte, verifico que, em relação a essa mesma ação penal (Apelação Criminal n. 2015.026719-4), também foi interposto o REsp. 1.575.325/SC, de relatoria do MinistroReynaldo Soares da Fonseca.
+Esclareço, ademais, que o referido recurso especial já foi julgado, ocasião em que foi dado provimento em parte ao recurso, para determinarque o Tribunal a quo proceda à fixação da verba honorária em atenção aos valores mínimos constantes na tabela da respectiva Seccional da Ordem dos Advogados do Brasil.
+À vista do exposto, dou provimento ao agravo regimental, para tornarsem efeito a decisão de fls. 1.125-1.129 e, nos termos do art. 71, caput, do RISTJ, determinar seja consultadoo eminenteMinistroReynaldo Soares da Fonseca acerca de eventual prevençãopara o julgamento do presente feito.
+Publique-se e intimem-se.
