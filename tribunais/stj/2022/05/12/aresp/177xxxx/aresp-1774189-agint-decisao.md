@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por Roberval Cervantes Doro e OUTROScontra decisão que não conheceu do agravo em recurso especial por aplicação da Súmula n. 182/STJ (e-STJ, fls. 478-480).
+O agravante sustenta não ser caso de aplicação da Súmula n. 182/STJ, porquanto houve o efetivo combate dos argumentos do pronunciamento pelo qual foi negado seguimento ao especial.
+A Fazendaestadual não apresentou impugnação (e-STJ, fl. 498).
+É o relatório.
+Há de se reconhecer que os fundamentos da decisão que inadmitiu o recurso, mesmo que de forma sucinta, foram confrontados no agravo em recurso especial, cabendo o afastamento do Enunciado Sumular n. 182/STJ.
+Passo, assim, à análise do especial.
+Cuida-se de recursoespecial interposto, com amparo nas alíneas "a" e "c" do permissivo constitucional, em oposição acórdão assim ementado (e-STJ, fl. 176):
+ADMINISTRATIVO. QUINQUÊNIO. CÁLCULO.
+1. O cálculo do adicional por tempo de serviço pode ser feito com base na totalidade de vencimentos, isto é, considerando no padrão a incorporação de todas as outras vantagens pecuniárias, excluídas as eventuais com base no art. 129 da CE.
+2. Não se entrevê violação ao art. 37, inciso XIV, da CF/88, eis que não se trata de acréscimo sob o mesmo título ou idêntico fundamento. Recurso provido.
+Os embargos de declaração opostos foram parcialmente acolhidos (e-STJ, fl. 244):
+EMBARGOS DE DECLARAÇÃO - APLICAÇÃO DA LEI 11.960/2009 - MODULAÇÃO DAS ADIs nºs. 4.357 e 4.425.
+1. A modulação das ADIs nºs. 4.357 e 4.425, pela Suprema Corte, em 25.03.2015, solucionou a questão apenas para a segunda fase do processo execução, ou seja, somente para os processos em que os precatórios já haviam sido expedidos ou que já haviam sido pagos.
+2. Já em relação aos processos em fase de conhecimento e aqueles em que ainda estão na primeira fase da execução (anterior à expedição do precatório), aplica-se integralmente o artigo 5º da Lei 11.960/09, enquanto se aguarda a definição no incidente de Repercussão Geral nº 810/STF. HONORÁRIOS ADVOCATÍCIOS - Majoração Impossibilidade "in casu". Verba honorária devidamente fixada. TERMO INICIAL - JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. Em relação ao termo inicial dos juros moratórios, este se dá a partir da citação e, em relação à correção monetária, o termo inicial se dá desde a data em que os pagamentos deveriam ter sido efetuados. Embargos parcialmente acolhidos.
+Em suas razões, os insurgentesacusam violação doart. 20,§§3º e 4º, do CPC/1973. Defendem, em síntese, seremirrisórios os honorários advocatícios fixados.
+Contrarrazões recursais apresentadas às e-STJ, fls. 369-377.
+Decido.
+Segundo a jurisprudência do STJ, na hipótese de apreciação equitativa, para a fixação do valordos honorários advocatícios, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, §§ 3º e 4º, do CPC/1973, utilizando-se do juízo de equidade e podendo adotar, como base de cálculo, o valor da causa, o valor da condenação ou mesmo arbitrar valor fixo, não ficando adstrito aos percentuais legalmente previstos. Tal posicionamento já foi firmado, inclusive, sob o rito do art. 543-C do CPC/1973 (REsp n. 1.155.125/MG, relator Ministro Castro Meira, Primeira Seção, DJe de 6/4/2010).
+Ademais, é cediço que, no STJ, prevalece orientação de quea fixação da verba honorária envolve a apreciação de matéria de ordem fática, de sorte que não se admite oreexame na via especial, em virtude do óbice da Súmula n.7.
+Apenas excepcionalmente, permite-se que o valor da verba honorária seja revisto no âmbito do recurso especial, desde que o montante fixado seja irrisório ou exorbitante, o que não é o caso dos autos, haja vista que o parâmetro não pode ser o valor nominalmente atribuído à causa, puramente, ou ao resultado de cálculo aritmético entre o número de autores e o valor concedido, mas sobretudo os citados critérios do § 3º do citado dispositivo, sendo certo que os autos não demonstram, objetivamente, circunstâncias simplistas e incontroversas que justificariam a majoração da verba concedida.
+A possibilidade de revisão dos valores fixados demanda que o acórdão combatido traga exame de elementos suficientes que possibilitem a aferição da razoabilidade e proporcionalidade na fixação da verba.
+Na espécie, não se mostram, de plano, irrisórios os honorários advocatícios fixados, pois a Corte estadual, ao manter o referido montante, assim consignou(e-STJ, fls. 248-249):
+É da literalidade da lei, por força do § 4º do art. 20, que ao Juízo está autorizadaa jurisdição da equidade nas hipóteses ali previstas. A equidade pressupõe convencimento pessoal e independe de maiores justificativas quando escolhe o percentual e a base de seu cálculo nos termos do entendimento dominante.
+ .. Levando-se em conta o grau de zelo dos profissionais, o lugar de prestação do serviço, a natureza e importância da causa, bem como o trabalho realizado pelos advogados e o tempo exigido para o serviço, constata-se que a verba foi bem fixada.
+Nesse quadro, o exame das circunstâncias adstritas ao caso concreto, como é sabido, compete às instâncias de origem, não podendo ser objeto de recurso especial, em homenagem à mencionada vedação da Súmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. AFASTAMENTO DE ÓBICE PROCESSUAL. HONORÁRIOS. VALOR ARBITRADO. CRITÉRIOS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial ante a intempestividade.
+2. Afastado o óbice processual, passa-se ao exame do recurso.
+3. O STJ pacificou a orientação de que o quantum dos honorários advocatícios, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+4. O Superior Tribunal de Justiça atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significa usurpação da competência das instâncias ordinárias. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determinado sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. Agravo Interno provido no intuito de, reconsiderando a decisão das fls. 624-625, e-STJ, conhecer do Agravo para não conhecer do Recurso Especial.
+(AgInt no AREsp n. 2.00.7008/GO, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/4/2022, DJe de 25/4/2022).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. CORREÇÃO MONETÁRIA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO FIRMADO POR ESTA CORTE. HONORÁRIOS DE ADVOGADO FIXADOS, PELO TRIBUNAL A QUO, SEM DEIXAR DELINEADAS, CONCRETAMENTE, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Em situações excepcionalíssimas, o STJ afasta a Súmula 7, para exercer juízo de valor sobre o quantum fixado a título de honorários advocatícios, com vistas a decidir se são eles irrisórios ou exorbitantes. Para isso, indispensável, todavia, que tenham sido delineadas concretamente, no acórdão recorrido, as circunstâncias a que se referem as alíneas do § 3º do art. 20 do CPC/73, o que não ocorreu, nos presentes autos. Incidência da Súmula 7/STJ.
+VI. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.916.697/RJ, relatoraMinistra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/4/2022, DJe de 19/4/2022).
+Por fim,destaca-se que, muito embora esta Corte Superior possua precedentes que consideraram irrisórios honorários advocatícios fixados em percentual inferior a 1% do valor da causa,não foiestabelecido um limite objetivo sobre o tema, o qual deve continuar sendo analisado caso a caso.
+A Corte Especial (EREsp n.1.527.430/SC, acórdão por mim lavrado, DJe de 17/4/2018) decidiu pela não adoção de um parâmetro objetivo para aferição da irrisoriedade dos honorários sucumbenciais, afastando o pleito de que fosse fixada referida verba em 1% do valor da causa.
+Ante o exposto, reconsidero a decisão de e-STJ, fls. 166-167, e,com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
