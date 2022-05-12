@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃOassim ementado (e-STJ, fl. 86):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE DOCUMENTOS INDISPENSÁVEIS À PROPOSITURA DA AÇÃO. INDEFERIMENTO DA PETIÇÃO INICIAL.
+1. Dispõe o artigo 283 do CPC que a petição inicial deverá ser instruída com os documentos indispensáveis à propositura da ação.
+2. Os embargos do devedor, constituindo processo autônomo em relação à execução embargada, devem ser instruídos com os documentos necessários ao exame da lide.
+3. In casu, a embargante, devidamente intimada para instruir o processo com cópias das peças processuais fundamentais para o processo executivo (fl.16), mantendo-se inerte, todavia. Correta, portanto, a sentença que Indeferiu a petição Inicial e extinguiu o processo sem resolução do mérito.
+4. Precedente do TRF1: AC 0018295-11.2010.4.01.3900/PA, Rel. Desembargador Federal Catão Alves, Sétima Turma, e-DJF1 p.198 de 01/04/2011.
+5. Apelação não provida. Sentença mantida.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 96-101).
+Defende o insurgente, em síntese,que, ao rejeitar os declaratórios do INSS, sob o fundamento genérico de que o recurso evidenciaria a pretensão de reforma do julgado e de que não existiria o defeito alegado, e não se pronunciar sobre a questão nele suscitada, o acórdão violou o disposto no art. 535 do CPC/1973 (art. 1.022 do CPC/2015).
+Isso porque a sentença de improcedência teria decorrido da inércia da parte em juntar os documentos necessários à propositura da ação. No entanto, a autarquia alega que, após intimada, juntou os documentos que julgou necessários, tendo em vista a ausência de previsão legal sobre quais seriam indispensáveis. Contudo, discordando o juízo, não foi aberto prazo para complementação. A parte alegou violação do contraditório; refere também que a questão não foi enfrentada no julgamento da apelação.
+Sem contrarrazões, o recurso especial foi admitido na origem(e-STJ, fls. 115-116).
+É o relatório.
+A parte, ao ter a sentença julgada improcedente em razão da não juntada de documentos necessários ao julgamento dos embargos, impugnou a decisão com a seguinte fundamentação:
+É relevante dizer que, a bem da verdade, não existem, tanto no art. 736 quanto no § 1º do art. 544, ambos do CPC, quaisquer referências expressas a que peças do processo de execução são necessárias juntar na demanda travada em sede de embargos a ponto de propiciar seu processamento e julgamento do mérito.
+O enunciado do art. 736 reporta-se ao § 1º do art. 544 e este faz alusão expressa apenas a algumas peças processuais inerentes aos recursos, silenciando-se quanto ao processo de embargos à execução.
+Assim, diante da não exemplificação taxativa nem enumerativa de quais peças seriam consideradas relevantes ao fim de propiciar a tramitação do processo e o consequente julgamento do mérito dos processos de embargos à execução, referidos dispositivos de lei processual são inconstitucionais porquanto violam explicitamente a norma esculpida no inc. II do art. 5º que preceitua verbis:  .. .
+Verifica-se que o Tribunal de origem foi provocado, por meio de embargos de declaração, a se manifestar quanto à omissão acerca daalegação de ofensa ao contraditório, oportunidade em que pronunciou nos seguintes termos (e-STJ, fl. 96):
+No tocante ao inconformismo do INSS, verifica-se que as cópias apresentadas, às fls. 18/25, não são suficientes para instruir os presentes embargos à execução, razão pela qual o acórdão reconheceu a inércia da parte em relação ao comando judicial(e-STJ, fl. 96).
+Nesse passo, o acórdão recorrido deixou de se manifestar sobre ponto essencial para o deslinde da causa, o que inviabilizaeventual recurso a esta Corte.
+Diante da falta de manifestação concreta sobre esse ponto, forçoso o reconhecimento da nulidade do julgado que apreciou os embargos declaratórios, a fim de que o vício seja sanado.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA APELAÇÃO. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE. ART. 489, § 1º, IV, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+1. Os Embargos de Declaração são cabíveis para suprir omissão do acórdão.
+2. Admite-se, excepcionalmente, que os Embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do artigo 1022 do Código de Processo Civil de 2015, cuja correção importe alteração da conclusão do julgado.
+3. Em Apelação (fl.186, e-STJ), o INSS afirmou a irregularidade quanto à qualidade de segurado por sua extemporânea inscrição ao Regime Geral da Previdência, efetuada mais de três anos após sua morte, reiterando esse fato nos Embargos de Declaração (fl. 288, e-STJ) e também neste Recurso Especial (fl.388, e STJ). Com efeito, foi exposto nos Aclaratórios (fl. 288): "No caso, os documentos (id. 4058000.998343) a que se faz referência na apelação demonstram que os dados do CNIS que embasaram a constatação da suposta qualidade de segurado do falecido na data do óbito foram implantados no sistema em 05.08.2005, cerca de três anos após seu falecimento, e dizem respeito a suposto vínculo de apenas três meses, exatamente antes do seu falecimento. Note-se que não há nenhum outro vínculo do falecido em toda sua vida, apenas justamente três meses antes de seu falecimento. Vínculo esse só incluído no sistema de forma extemporânea e sem a devida comprovação após três anos de sua morte. A autora também não trouxe aos autos a CTPS do falecido.".
+4. A qualidade de segurado vem sendo questionada desde a contestação, não atraindo portanto a aplicação do art. 336 do novo CPC, quando às alegações são acrescentados novos argumentos a reforçar a tese anteriormente expedida, não configurando inovação processual e prestigiando o princípio da ampla defesa.
+5. Em situações como essa, deve reconhecer-se a nulidade do aresto,com o retorno dos autos à origem para que seja proferido novo julgamento dos Embargos de Declaração; desta feita, manifestando- se expressamente sobre a alegação dos impetrantes.
+6. Recurso Especial provido, determinando-se o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp n. 1.738.916/AL, relator MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/6/2018, DJe de 28/11/2018).
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. OCORRÊNCIA. OMISSÃO EVIDENCIADA. ACÓRDÃO RECORRIDO ANULADO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado.
+3. Hipótese em que o Tribunal a quo, ao julgar os aclaratórios, permaneceu omisso quanto à alegada aplicação da limitação temporal ao creditamento de ICMS, prevista no art. 33, I, da Lei Complementar n. 87/1996.
+4. Agravo interno não provido.
+(AgInt no AREsp n.469.581/RJ, relator MinistroGURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/9/2016, DJe de 19/10/2016).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara determinar o retorno dos autos ao Tribunal de origem, a fim de que aprecie plenamente a matéria suscitada nos embargos de declaração.
+Publique-se. Intimem-se.
