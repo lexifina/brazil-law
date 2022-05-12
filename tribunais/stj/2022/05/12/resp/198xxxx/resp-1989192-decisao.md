@@ -1,0 +1,36 @@
+DECISÃO
+ELIAS MOREIRA DA SILVAinterpõe recurso especial com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado de São Paulona Apelação Criminal n. 1520662-08.2020.8.26.0228.
+Consta dos autos que o ora recorrente foi condenado à pena de 5 anosde reclusão, no regime inicial fechado, mais multa, pela prática docrimeprevistono art. 33,caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação doart. 33, § 4º, da Lei n. 11.343/2006 e do art. 33, § 2º, do Código Penal. Sustenta, para tanto, que "Há certa quantidade de drogas, não se nega. Ocorre que ela não é suficiente para afastar a causa de diminuição de pena, mas sim para calibrar o quantum de redução" (fl. 252).
+Decisão de admissibilidade àfl. 268.
+O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+Decido.
+I. A minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Sobre a incidência do privilégio no tráfico de drogas, aCorte estadual afastou seu reconhecimento com base nos fundamentos seguintes (fl. 238, destaquei):
+Na terceira fase, as penas foram reduzidas em 1/3, nos termos do artigo 33, § 4º, da Lei de Drogas.
+Aqui, sempre respeitado o entendimento da digna Magistrada, a r. sentença de primeiro grau merece ser reformada.
+É que, no presente caso, conforme pleiteado pela douta Promotora de Justiça, não é possível a aplicação do redutor, pois, apesar da primariedade e dos bons antecedentes do recorrido, a grande quantidade de entorpecentes (mais de 900g de maconha e outras drogas) e a natureza diversa deles, com a apreensão de maconha, cocaína, crack, skunk e LSD, bem como a razoável quantidade de dinheiro (R$ 1.424,00), revelam a ligação mais íntima de Elias com o crime de tráfico de drogas e demonstram que ele, ao menos, se dedicava a atividades criminosas, não se tratando, portanto, de mero traficante ocasional.
+Além da quantidade, tal conclusão é reforçada pela diversidade dos entorpecentes, como skunk e LSD, cuja apreensão não é tão corriqueira.
+Assim, afastado o redutor, as penas definitivas do recorrido resultam em 5 anos de reclusão, mais o pagamento de 500 dias-multa, no mínimo legal.
+No caso, conforme visto, o Tribunal de origem considerou indevida a aplicação do redutorcom fundamento na apreensão de grande quantidade de drogas diversas com o réu.Talcircunstâncialevaram-noà conclusão de que o réu dedicar-se-iaaatividades criminosas, especialmente ao narcotráfico.
+No entando, quanto à apreensão de grande quantidade de drogas com o réu, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento doREsp n. 1.887.511/SP(Rel. MinistroJoão Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrerquando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, aquantidade e diversidade das drogas apreendidasforamsopesadas para,isoladamente, levarem à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Ante a ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006,deve o recurso ser provido nesse ponto, a fim de aplicar, em favor do acusado, o referido benefício.
+No que tange aoquantumde redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Destarte, aplico a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas nopatamar de 1/3, tendo em vista a grande quantidade de drogas diversas e mais deletérias aos usuários - patamar já utilizado pelo Juízo de 1º grau.
+Apenasad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento vedado na via recursal. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Nova dosimetria
+Realizo, portanto, nova dosimetria.
+Na primeira fase, a reprimenda-base ficaestabelecida no mínimo legal. Na segunda fase, ausentes atenuantes e agravantes.Na terceira etapa, reduzo a reprimenda em 1/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em3 anos e 4 meses de reclusão e pagamento de 333 dias-multa.
+III. Consectários - regime e substituição
+Como consectário da redução efetivada na pena do recorrente, deve ser procedido ao ajuste no regime inicial do seu cumprimento.
+Se, por um lado, o réu foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito e foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, por outro, elefoi apreendido com grande quantidade de drogas diversas e mais deletérias; assim, entendo que deve ser fixado oregime inicial semiaberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Por fim, a desfavorabilidade das circunstâncias mencionadas acima evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+IV.Dispositivo
+À vista do exposto, dou parcial provimento ao recurso, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 2/3. Redimensiono, assim, e a reprimenda do réu para3 anos e 4 meses de reclusão, a ser cumprida inicialmente no regime semiaberto, e pagamento de 333 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
