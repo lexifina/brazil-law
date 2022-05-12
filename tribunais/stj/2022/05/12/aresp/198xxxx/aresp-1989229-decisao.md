@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 535 do CPC/1973 e incidência das Súmula7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 158):
+TRIBUTÁRIO - ADMINISTRATIVO - PROCESSUAL CIVIL - ANTECIPAÇÃO DE TUTELA - INSCRIÇÃO - CADIN: ABSTENÇÃO - AÇAOANULATÓRIA - INFRAÇÃO AMBIENTAL - SEGUIMENTO NEGADO AO AGRAVO - AGRAVO INTERNO NÃO PROVIDO.
+1- Antecipação de tutela determinando que o IBAMA se abstenha de inscrever o nome do agravado no CADIN.
+2- Absolutamente não-específicos ao caso os preceitos da Lei nº 6.938/81 (art. 14, I), que tratam da aplicação de multa (em "ORTN") àqueles que não cumprirem "as medidas necessárias à preservação ou corrução dos inconvenientes e danos causados pela degradação da qualidade ambientar.
+3- Ainda que a proteção ao meio-ambiente condicione o uso da propriedade, exigindo posturas ativas e passivas conformes, não se pode lavrar AI e impor multa por infração fundado em legislação "ulterior ao fato", dado que a pena é a contrapartida pela violação do preceito normativo então vigente ao tempo do ato: quando a lei fala em "proibições de construir", pressupõe que, de sua vigência em diante, tal seja vedado; normas de 1998 não podem retroagir a ponto de dizer violação à lei a existência de construções iniciadas e finalidades sem afronta a norma expressa ao tempo em que consumadas (consoante farta documentação anexada aos autos  gula de ITR 95, fotos, laudo da  Polícia Federal e Escritura Pública ). Obviamente, veda-se qualquer alteração ou ampliação da construção sem o pleno atendimento às normas.
+4- O crédito, então, merecia, por ora (art. 273 do CPC), ser suspenso (art. 151, V, do CTN), viabilizando obtenção de CPD-EN e obstando inscrição no CADIN.
+5- Agravo interno não provido.
+6- Peças liberadas pelo Relator, em 09/12/2008, para publicação do acórdão.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 14, I, da Lei n. 6938/1981, que prevê penalidade de multa para aqueles que não cumpram as medidas necessárias à preservação ambiental ou à correção dos inconvenientes e danos causados pela degradação da qualidade ambiental.
+Argumenta, assim, quereferida normatipifica como infração a conduta de degradar o meio ambiente, não havendo falar em norma não específica inaplicável ao caso em testilha.
+Aponta queo artigo 14, I, da Lei n. 6938/1981 foi disciplinado pelos artigos 33 e 34 doDecreto Federal n. 99.274/1990, bem como que, consoante oartigo 5º da LICC, a aplicação da lei deve atender aos fins sociais a que ela se dirige, que no caso seria a preservação do meio ambiente.
+Na sequência, sustenta a ocorrência de afronta aos artigos10 da Lei n. 6.938/1981, 40 e 70 daLei n. 9.605/1998 e2º, IX e XI, e 44 do Decreto n. 3.179/1999, ao argumento de que as atividades potencialmente poluidoras demandamlicenciamento ambiental. Desse modo "ainda que desconsiderada a inocorrência em infração ambiental ante a construção em área limítrofe de Parque Nacional sem autorização do órgão competente, necessária seria a adequação do imóvel às regras trazidas pelas legislações ambientais, haja vista que não há que se falar em direito adquirido à ausência de licenciamento quando sefala em proteção ambiental" (fl. 208).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que diz respeito ao artigo 14, I, da Lei n. 6938/1981, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de queos preceitos de tal norma nãosão específicos ao caso concreto, que se enquadra na previsão do art. 70 da Lei n. 9.605/1998c/c art. 44 do Decreto n.3.179/1999. Com base nesse fato, negou-se provimento à apelação, pois não se pode lavrar auto de infraçãofundado em legislação ulterior ao fato.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Quanto aos artigos 10 da Lei n. 6.938/1981, 40 e 70 da Lei n. 9.605/1998 e 2º, IX e XI, e 44 do Decreto n. 3.179/1999(e a tese a eles vinculada), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. LAVRATURA DE AUTO DE INFRAÇÃO. NÃO TIPIFICAÇÃO DA CONDUTA AO TEMPO DOS FATOS.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
