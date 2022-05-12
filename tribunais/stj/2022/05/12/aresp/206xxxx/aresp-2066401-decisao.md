@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOSÉ ROBERTO SARAIVA e ADNA SILVEIRA SOUZA, contra decisão que negou seguimento a seu recurso especial, interposto com base naalínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/02/2022.
+Concluso ao gabinete em: 09/05/2022.
+Ação:de Liquidação de Sentença, proposta por RURAL RIO COMÉRCIO DE MÁQUINAS AGRÍCOLAS LTDA, em face deJOSÉ ROBERTO SARAIVA e ADNA SILVEIRA SOUZA.
+Sentença: Julgou procedente em parte o pedido para declarar líquida a obrigação de ressarcimento de dano material em R$ 4.181.365,68 (quatro milhões, cento e oitenta e um mil, trezentos e sessenta e cinco reais e sessenta e oito centavos).
+Acórdão: negou provimento ao agravo de instrumento interposto pela CONSTRUTORA TENDA S/A, em julgamento assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÕES CAUTELAR DE BUSCA E APREENSÃO E ORDINÁRIA COM PEDIDO DE RESTITUIÇÃO DE VALORES, NULIDADE DE NEGÓCIO JURÍDICO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. LIQUIDAÇÃO DE SENTENÇA. PEDIDO DECOMPENSAÇÃO DE CRÉDITOS. AUSÊNCIA DOS REQUISITOS NECESSÁRIOS. ARTS. 368 E 369 DO CÓDIGO CIVIL. DECISÃO MANTIDA.
+I. Nos termos dos arts. 368 e 369 do Código Civil a compensação pressupõe duas relações jurídicas distintas, em que duas pessoas sejam ao mesmo tempo credoras e devedoras uma das outras e que as dívidas sejam líquidas e exigíveis.
+II. Na hipótese inviável a compensação de crédito porquanto não configurada a idêntica titularidade entre credor e devedor.
+III. Descabe a inversão do ônus da sucumbência, uma vez que não houve o reconhecimento do direito à compensação do crédito, devendo, pois, arcar com os honorários conforme estipulado na decisão agravada. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO" (e-STJ, fl. 191)
+Embargos de declaração: opostos pelosagravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º,IV, 511 e 1.022, II, do CPC/2015 e 368 do Código Civil, bem como divergência jurisprudencial. Sustenta: i) omissão e falta de fundamentação do julgado; ii) que deve haver a compensação de valores por entenderem ser "indiscutível o direito à compensação pelos depósitos e pagamentos realizados pelos recorrentes em favor da recorrida, sendo direito próprio dos recorrentes que independe da arguição por terceiro." (e-STJ, fl. 239); iii) que adiscussão da compensação é cabível na liquidação do pelo procedimento comum conforme preconiza o art. 511 do CPC/2015.
+RELATADO O PROCESSO, DECIDO
+Julgamento: aplicação do CPC/2015.
+- Da violação dos arts. 489 e1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do cabimento da compensação e da reciprocidade das obrigações, ainda que de maneira contrária ao pretendido pelos agravantes.
+Desta forma, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC/2015.
+- Da existência de fundamento não impugnado
+Verifica-se que o fundamento utilizado pelo tribunal de origem no sentido de que "conforme bem colocado no acórdão de nº. 409284.64.2013.8.09.0137(evento nº 01, arquivo 15): "os demais réus WESLEY e REGINA, não ofertaram reconvenção na presente demanda, de modo que se, de fato, existirem valores a serem ressarcidos pela1ª recorrente, eles devem ser objeto de nova lide". Lado outro, não foi informado nos autos a propositura de nenhuma ação por parte da sócia Regina Angélica da Silva buscando ressarcimento das suas cotas, razão pela qual não prospera o suposto direito de compensação, já que ausente os requisitos do art. 396 do Código Civil" (e-STJ, fl. 188), não foi impugnado pelos agravantes,razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da fundamentação deficiente
+Outrossim, da leitura atenta dos autos, observa-se que os argumentos invocados pelos agravantesnão demonstram como o acórdão recorrido violou oart. 511,do CPC/15,o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+-Das Súmulas 7 e 568/STJ
+Por fim, quanto à compensação, extrai-se do acórdão recorrido:
+"É cediço que a compensação é um instituto originário do Direito Civil que possui o escopo de extinguir as obrigações do mesmo gênero, cujas pessoas envolvidas são, reciprocamente, credoras e devedoras entre sim, até onde as dívidas se compensem.
+A propósito, veja-se:
+Art. 368, CC - "Se duas pessoas forem ao mesmo tempo credor e devedor uma da outra, as duas obrigações extinguem-se, até onde se compensarem.
+"Art. 369, CC - "A compensação efetua-se entre dívidas líquidas, vencidas e de coisas fungíveis."
+Nesse contexto, vê-se que a compensação somente pode ser efetuada entre dívidas líquidas, vencidas e de coisas fungíveis, nos termos da norma legal, fazendo-se necessário também o preenchimento dos seguintes requisitos: a) reciprocidade de créditos; b)homogeneidade das prestações; c) liquidez; d) certeza e exigibilidade e e) existência e validade do crédito compensante.
+Ocorre que, na hipótese vertente, conquanto os Agravantes alegam possuir um crédito perante a Agravada, observo que o valor do saldo mencionado, na ordem de R$94.250,85(noventa e quatro mil, duzentos e cinquenta reais e oitenta e cinco centavos), se refere à cota parte da sócia Regina Angélica da Silva, ou seja, ainda que seja responsável solidária para o cumprimento da condenação, não se tratam de credor e devedor um da outra, já que o percentual que busca o abatimento, em tese, não lhes pertence e se comprovado o pertencimento deve ingressar com ação regressiva contra à sócia, se configurada a responsabilidade solidária.
+De mais a mais, denoto que os Agravantes sustentaram que seriam partes ilegítimas para figurarem nos autos, já que não eram sócios e somente trocaram os cheques a pedido de Wesley Correia Saraiva, a mando de Regina Angélica da Silva Correia.
+Logo, remanesce dúvida sobre eventual compensação, pois quem deveria exigir tal instituto teria que ser a própria sócia, ao passo que não há nos autos nenhum meio de defesa apresentado por esta, quanto ao seu próprio direito de compensar eventual crédito com o valor devido aos ora Recorrentes." (e-STJ, fl. 187).
+Nesse contexto, o Tribunal de origem alinhou-se à jurisprudência do STJno sentido de que "oart. 369 do CC fixa os requisitos da compensação, que só se perfaz entre dívidas líquidas, vencidas e de coisas fungíveis entre si", (RESP 1.677.189/RS, 3ª Turma, DJe de 18/10/2018), não verificadas na espécie.No mesmo sentido: AgInt no AREsp 807883/MT, 4ª Turma, DJe de 13/08/2018.
+Outrossim, alterar a conclusão do TJGO referente ao fato da iliquidez do crédito que se pretende compensar, exige o reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV,do CPC/2015, bem como na Súmula 568/STJ, NEGO PROVIMENTO aorecurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS.LIQUIDAÇÃO DE SENTENÇA. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA.VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. COMPENSAÇÃO ENTRE DÍVIDAS ILÍQUIDAS. IMPOSSIBILIDADE. HARMONIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cuida-se, na origem, de ação de restituição de valores c/c compensação por danos morais, em fase de liquidação de sentença.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489do CPC.
+4. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recursoespecial.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. OTribunal de origem alinhou-se à jurisprudência do STJ no sentido de que "o art. 369 do CC fixa os requisitos da compensação, que só se perfaz entre dívidas líquidas, vencidas e de coisas fungíveis entre si". Precedentes.
+7. Alterar a conclusão do TJGO referente ao fato da iliquidez do crédito que se pretende compensar, exige o reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+8. Agravo conhecido. Recurso especial não provido.
