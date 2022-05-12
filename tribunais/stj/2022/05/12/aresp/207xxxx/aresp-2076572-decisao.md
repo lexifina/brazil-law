@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por REGINALDO DA SILVA LIMA contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Sustenta a defesa, nas razões recursais, violação dos artigos 33, §§ 2º e 3º, e 59, ambos do Código Penal.
+Aduz que não haveria fundamentação idônea para a fixação do regime inicial semiaberto, pois a pena-base foi estabelecida em seu mínimo legal e a pena definitiva inferior a 4 anos de reclusão.
+Requer o provimento do recurso para que seja fixado o regime inicial aberto.
+Apresentadas as contrarrazões (e-STJ, fls. 213-216), o recurso foi inadmitido(e-STJ, fls. 219-220). Daí este agravo (e-STJ, fls. 225-231).
+O Ministério Público Federal opina pelo não conhecimento do recurso (e-STJ, fl. 251).
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado como incurso nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, às penas de 1 ano e8 meses de reclusão, no regime inicial semiaberto, e pagamento de 166 dias-multa, substituída a pena privativa de liberdade por restritivas de direitos. Registre-se que, in casu, houve a apreensão de 4,1 g de crack.
+A matéria controvertida objeto do recurso especial foi enfrentada pela Corte de origem nos seguintes termos (e-STJ, fl.163):
+"Pela gravidade do delito e natureza do entorpecente apreendido (crack de alto poder alucinógeno e viciante), a despeito da extensão da pena corporal aplicada, fixo o regime inicial semiaberto na hipótese de descumprimento da benesse, visto que o regime inicial aberto não se mostra suficiente à prevenção e à repressão da infração penal perpetrada pelo réu (cf. artigo 33, § 3º, do Código Penal); sendo ainda insuficiente a imposição do regime prisional mais brando, até para se garantir o cumprimento das penas substitutivas ora impostas."
+Contudo, conforme jurisprudência pacífica desta Corte Superior, estabelecida a pena final em patamar inferior a 4 anos, verificada a primariedade do agente e a análise favorável das circunstâncias judiciais, o regime aberto é o adequado para o cumprimento da pena privativa de liberdade, de acordo com o disposto no art. 33, § 2º, alínea "c", do CP.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA. AGRAVO REGIMENTAL PROVIDO EM PARTE.
+ ..
+4. Visto que o réu foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes e teve a pena-base estabelecida no mínimo legal, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, bem como determinada a substituição da reprimenda privativa de liberdade por duas restritivas de direitos.
+5. Agravo regimental provido em parte, para aplicar em 2/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n.11.343/2006 e, por conseguinte, tornar a reprimenda do acusado definitiva em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; fixar o regime aberto e determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto."
+(AgRg no AREsp 1106482/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/06/2021, DJe 22/06/2021).
+" ..
+4. Se a quantidade de droga apreendida com a Acusada não se mostra exacerbada, e todas as circunstâncias judiciais analisadas na fixação da pena-base forem favoráveis, a minorante do tráfico privilegiado deve ser estipulada no patamar máximo de 2/3 (dois terços).
+5. Em razão da ausência de circunstâncias judiciais demeritórias, o regime prisional a ser fixado é o inicial aberto, pois as regras previstas no art. 33, § 2.º, alínea c, e § 3.º, do Código Penal, dispõem, respectivamente, que "o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto" e que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+6. No caso de réu "primário, com pena-base fixada no mínimo, a apreensão de quantidade não considerável de entorpecentes não constitui elemento apto a justificar a imposição do regime prisional mais severo ou o indeferimento da substituição da pena privativa de liberdade por restritiva de direitos" (STJ, AgRg no HC 429.786/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/05/2018, DJe 06/06/2018).
+7. Ordem de habeas corpus concedida para reduzir o quantum de pena para 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, mais pagamento de 194 (cento e noventa e quatro) dias-multa, além de restabelecer os efeitos da sentença quanto à fixação do regime inicial aberto e a substituição da reprimenda corporal por sanções restritivas de direitos."
+(HC 665.401/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 01/06/2021, DJe 16/06/2021).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de fixar oregime inicial aberto para o cumprimento da pena privativa de liberdade, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
