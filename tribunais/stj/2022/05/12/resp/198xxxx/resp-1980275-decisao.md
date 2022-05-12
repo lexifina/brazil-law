@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por APEX INCORPORADORA LTDA. com fundamento no art. 105, III, c, da CF, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 205):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. AÇÃO DE NULIDADE. ITBI. LANÇAMENTO DE OFÍCIO. PROCEDIMENTO ADMINISTRATIVO. CONTRADITÓRIO. OBSERVÂNCIA. IRREGULARIDADE AFASTADA.
+1. Segundo o Superior Tribunal de Justiça, "o valor da base de cálculo do ITBI é o valor real da venda do imóvel ou de mercado, sendo que nos casos de divergência quanto ao valor declarado pelo contribuinte pode-se arbitrar o valor do imposto, por meio de procedimento administrativo fiscal, com posterior lançamento de ofício, desde que atendidos os termos do art. 148 do CTN" (AgRg no REsp 1.550.035/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/10/2015, DJe 5/11/2015).
+2. O objetivo do procedimento administrativo é estabelecer o contraditório. Se o Fisco, por meio de sua prerrogativa legal, procedeu ao lançamento de ofício do tributo e oportunizou o contraditório ao contribuinte, ainda que postergado, não há se em nulidade do procedimento.
+3. Recurso de apelação conhecido e não provido.
+A recorrente alega interpretação divergente do art. 148 do CTN, ao argumento de que o procedimento administrativo para apuração do valor complementar do ITBI deu-se posteriormente ao lançamento e que, conquanto tenha havido impugnação administrativa, não se pode dizer que houve efetivo contraditório, uma vez que houve o indeferimento do pleito administrativo, com a rejeição dos valores venais do negócio que se apresentavam alinhados com a avaliação para ao cálculo do IPTU/TLP e laudos imobiliários (fl. 237). Insurgindo-se contra a cobrança de diferença do ITBI, com base no valor da operação de compra e venda, argumenta que "compete ao contribuinte declarar o valor da transação e efetuar o recolhimento da quantia correspondente" (fl. 243), de forma que requer a reforma do acórdão para se reconhecer a inexistência de procedimento administrativo prévio e regular.
+Contrarrazões a fls. 263-279.
+Juízo positivo de admissibilidade (fls. 282/283).
+É o relatório. Decido.
+O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na espécie, em síntese, o acórdão recorrido: (i) firmou posição no sentido de que, posto tenha sido posteriormente ao lançamento complementar do ITBI, houve a instauração do procedimento administrativo, na forma do art. 148 do CTN, com a realização efetiva do contraditório, conforme documentos, razão pela qual não há falar em nulidade do procedimento (fl. 205); (ii) analisou a tese da recorrente, exarando juízo de valor quanto aos fundamentos legais adotados pela Administração para rejeitar as alegações da contribuinte impugnante quanto à base de cálculo do ITBI.
+O Tribunal a quo, por maioria, negou provimento à apelação, aos seguintes fundamentos, in verbis (fls. 226-231):
+De acordo com a LEI DISTRITAL Nº 3.830/ 2006 - "dispõe quanto ao Imposto sobre a Transmissão "Inter Vivos" de Bens Imóveis e de Direitos a eles Relativos - ITBI, e dá outras providências, a base de cálculo do ITBI" -, "A base de cálculo do Imposto é o valor venal dos bens ou direitos transmitidos ou cedidos" (Art. 5º), sendo certo que "O valor venal é determinado pela administração tributária, por meio de avaliação feita com base nos elementos de que dispuser e, ainda, na declaração do sujeito passivo" (Art. 6º).
+Confome os termos do art. 10 da referida lei, o ITBI pode ser "lançado, de oficio ou mediante declaração do sujeito passivo, e pago na forma e prazos estabelecidos no regulamento".
+Observa-se que, em regra, o lançamento do ITBI é por declaração, assim, compete ao contribuinte declarar o valor da transação e efetuar o recolhimento da quantia correspondente.
+Contudo, caso o valor do lançamento não corresponda a realidade, este pode ser realizado de ofício (art. 149, CTN).
+Na hipótese, é incontroverso que o Fisco não concordou com os valores dos imóveis atribuídos nas escrituras públicas de compra e venda, por isso realizou o lançamento do ITBI de ofício.
+O contribuinte alega que não houve prévio procedimento administrativo para apurar o correto valor venal do imóvel, motivo pelo qual entende que a exação é exorbitante e ilegal.
+ ..
+Observa-se que a norma de regência autoriza a realização do lançamento de ofício, quando o contribuinte realiza declaração de forma incorreta e não há necessidade de procedimento administrativo prévio para tanto.
+Releva notar que no caso concreto houve contraditório administrativo tendo em vista que os documentos de ID 15860698, 15860699 e 15860700 revelam que o contribuinte insurgiu contra a exação e o FISCO respondeu que o lançamento foi feito em conformidade com a lei e o decreto 27.576/2006.
+Deveras, a jurisprudência do STJ é uníssona no sentido que "o valor venal do imóvel apurado para fins de ITBI não coincide, necessariamente, com aquele adotado para lançamento do IPTU". Precedentes: AgRg no REsp 1.226.872/SP, Rel. Ministro Castro Meira, DJe 23/4/2012; AgRg no AREsp 36.740/RS, Rel. Ministro Humberto Martins, DJe 22/11/2011; AgRg no Ag 1.120.905/SP, Rel. Ministro Herman Benjamin, DJe 11/9/2009.
+Ademais, observa-se que o lançamento, "in casu", tomou por base o valor venal descrito em Pauta de Valores Venais, que é instituída por lei anualmente pelo Distrito Federal.
+Em virtude da dinâmica imobiliária do Distrito Federal, mostra-se juridicamente inviável realizar plantas genéricas anuais dos valores venais de todos os imóveis vindouros. Assim, para evitar tratamento desigual entre os contribuintes proprietários de imóveis do Distrito Federal, a norma de regência prevê a possibilidade de que o valor venal do imóvel seja apurado levando em consideração " a) padrão ou tipo de construção; b) área construída; c) valor unitário do metro quadrado; d) idade do imóvel e estado de conservação; e) destinação de uso; f) parâmetros de valorização em função do logradouro, quadra, setor e posição em que estiver situado o imóvel;
+g) valores aferidos no mercado imobiliário; h) serviços públicos ou de utilidade públicas existentes nas imediações" (Art. 6º, I, do Decreto 27.576/2006), cujos atributos são também observados na Pauta de Valores Venais, publicada, em tese, anualmente no Distrito Federal.
+ ..
+Destarte, infere-se que os lançamentos realizados obedeceram a norma de regência e não há que conjecturar que o contribuinte teve seu direito de defesa administrativa cerceado, pois obteve informação clara e precisa acerca da maneira pela qual avaliou-se o valor venal dos imóveis "sub judice" diversamente do apontado por ele.
+ ..
+Veja bem, como o Advogado disse da tribuna, por isso não repeti, na realidade houve um processo administrativo e foi de impugnação da parte. A parte recolheu o tributo e depois veio a imposição do valor. Ele foi ao Fisco e falou que o tributo estava errado e o Fisco, então, depois de haver lançado o tributo diferente do que foi recolhido, indeferiu o requerimento. A jurisprudência do STJ orienta que tem de haver um procedimento precedente ao lançamento.
+Quer dizer, essa impugnação e esse contraditório foram posteriores ao lançamento. Por isso, a parte, não tendo obtido êxito na via administrativa para receber a diferença, ingressou em juízo, reclamando exatamente isso: "Recolhi o tributo com base no valor declarado, o Fisco não concordou e, sem fazer os procedimentos administrativos prévios, lançou o tributo que bem entendeu." É disso que ele reclama, que o Fisco não poderia fazer dessa forma, por isso veio requerer a diferença.
+ ..
+Excelência, o objetivo do procedimento administrativo é estabelecer o contraditório.
+Não importa se foi precedente ou posteriormente, o fato é que ele estabeleceu o contraditório e o Fisco usando da sua prerrogativa legal que decorre inclusive da lei  inclusive até os valores, os percentuais são definidos em normas gerais e abstratas, não só neste caso do recorrente.
+Então houve um processo administrativo e, por isso, todo aquele raciocínio que fizéramos anteriormente fica prejudicado. Creio que o caso é realmente de obediência à jurisprudência do STJ, exceto no que diz respeito à precedência do processo. O que importa é que houve uma apuração administrativa e há estabelecimento de um contraditório.
+Considerando as particularidades do caso expostas na referida fundamentação, verifica-se que a recorrente não procede à demonstração do dissídio jurisprudencial, nos moldes legais exigidos, não sendo possível constatar somente pelo teor das ementas colacionadas, a existência de similitude fática entre os casos confrontados.
+Com efeito, para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o acórdão impugnado e os paradigmas, assim como a presença de soluções jurídicas diversas para a mesma situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+A propósito, na parte que interessa:
+DIREITO ADMINISTRATIVO SANCIONADOR. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ..  NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA NOS MOLDES LEGAIS E REGIMENTAIS.  ..
+ ..
+5. Consoante entendimento firmado por este Superior Tribunal de Justiça, a análise da demonstração do dissídio jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.669.081/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 4/4/2022, DJe 7/4/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DISSÍDIO AUSÊNCIA DE COTEJO ANALÍTICO.
+ ..
+3. No concernente ao alegado dissídio jurisprudencial, o recurso não merece conhecimento, visto que não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, com a demonstração clara dos casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+ ..
+(AgInt no REsp 1.497.616/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 3/5/2021, DJe 5/5/2021)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL.  .. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA NOS MOLDES LEGAIS E REGIMENTAIS.
+ ..
+3. O recurso especial também não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 1.029, parágrafo único, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.669.855/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS TERMOS LEGAIS EXIGIDOS. RECURSO ESPECIAL NÃO CONHECIDO.
