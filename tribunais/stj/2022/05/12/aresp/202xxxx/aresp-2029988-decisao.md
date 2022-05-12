@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra decisão que inadmitiu recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PRECATÓRIOS. DESTAQUE DOS VALORES RELATIVOS A HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. REQUERIMENTO ANTERIOR À EXPEDIÇÃO DOS PRECATÓRIOS. JUNTADA DOS CONTRATOS DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. APELAÇÃO PROVIDA.
+1. A questão trazida por meio da presente apelação, em fase de cumprimento de sentença, refere-se à possibilidade de haver a expedição de alvarás de levantamento atinentes aos honorários advocatícios contratuais, cujos valores foram destacados nos respectivos ofícios requisitórios, de precatórios expedidos para repetição de indébito de valores devidos a título de empréstimo compulsório de combustíveis.
+2. A legitimidade para pleitear o pagamento dos honorários advocatícios é concorrente, ou seja, pode ser exercida pelo patrono ou pela própria parte autora, nos termos do entendimento do Superior Tribunal de Justiça. Súmula 306 do STJ e REsp 1102473/RS, julgado sob a sistemática do art. 543-C do CPC.
+3. É cediço na jurisprudência que os honorários advocatícios constituem verba de notória natureza alimentar, impenhorável, e que se destina privativamente ao advogado, não se confundindo com o crédito da parte autora. Precedentes do STF (RE 564.132, com repercussão geral reconhecida), do STJ (REsp 1.347.736/RS, julgado sob a sistemática do art. 543-C do CPC, e outros precedentes).
+4. No caso em comento, a parte autora requereu o destaque dos valores antes da expedição dos precatórios, juntando cópia autenticada dos contratos de prestação de serviços advocatícios, e os ofícios requisitórios já foram expedidos com o destaque dos valores atinentes aos honorários advocatícios.
+5. Apelação provida.
+Atribuiu-se à causa o valor de R$ 89.663,11.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a recorrente aponta violação do art. 1.022, II, do Código de Processo Civil de 2015, alegando, em síntese, omissão no acórdão recorrido porquanto deixou de se pronunciar sobre a questão dos honorários de sucumbência à luz dos arts. 100 da CF/1988 e 22 do EOAB que tratam, respectivamente, da expedição de precatórios e do levantamento da referida verba advocatícia antes da expedição dos precatórios.
+Alega, também, afronta ao art. 22, §4º, doEOAB, sustentando, em suma, a impossibilidade de destaque da verba honorária contratual quando da expedição do precatório.
+Contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo a recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+E quanto ao art. 22, §4º, da EOAB, verifica-se que a decisão proferida pelo Tribunal de origem, de que é possível realizar o pagamento da verba honorária mediante expedição destacada de precatório, vai ao encontro da jurisprudência do Superior Tribunal de Justiça.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. LIMITAÇÃO IMPOSTA PELO ART. 22, § 4º, DA LEI 8.906/1994. PRECEDENTES.
+1. Apesar de sua natureza alimentar, é "pacífico no Superior Tribunal de Justiça o entendimento de que é possível ao Patrono da causa, em seu próprio nome, requerer o destaque da verba honorária, mediante juntada aos autos do contrato de honorários, nos termos do artigo 22, § 4º. da Lei 8.906/1994, até a expedição do mandado de levantamento ou precatório" (AgInt no AREsp 658.457/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/6/2019, DJe 27/6/2019).
+2. Descabe a complementação argumentativa das razões da parte por ocasião do agravo interno, ante a preclusão consumativa e a inovação recursal.
+3. Mostra inviável a apreciação de violação de dispositivo constitucional, ainda que a título de prequestionamento, uma vez que não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Carta Magna.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1649037/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/02/2021, DJe 26/05/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. PAGAMENTO DIRETO NOS PRÓPRIOS AUTOS. JUNTADA DO CONTRATO. INTEMPESTIVIDADE.
+1. Nos termos do art. 22, § 4º, da Lei 8.906/1994, a juntada do contrato de honorários antes da expedição do precatório assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.
+2. Hipótese em que o contrato foi juntado após penhora no rosto dos autos, não ensejando a incidência do disposto no citado dispositivo legal, pois o crédito já penhorado para satisfazer direito de terceiro.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1427331/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Com fulcro no art. 85, §11, do CPC/15, majoro os honorários advocatícios em 2% (dois por cento) aos percentuais atribuídos nas instâncias ordinárias, respeitados os limites estabelecidos nos parágrafos 2º e 3º do art. 85 do CPC/2015 e sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
