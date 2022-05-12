@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BOA VISTA SERVIÇOS S.A. (BOA VISTA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça doDistrito Federal e dosTerritórios, assim ementado:
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS. RELAÇÃO DE CONSUMO. DANO MORAIS. AUSÊNCIA DE RESPONSABILIDADE DA EMPRSA MANTENEDORA. COMUNICAÇÃO PRÉVIA. REALIZADA. CORRESPONDÊNCIA ENCAMINHADA PARA ENDEREÇO DIVERSO. REGULARIDADE. INDÍCIOS DE FRAUDE. AUSENCIA DE RESPONSABILIDADE DO ÓRGÃO ARQUIVISTA. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO PECUNIÁRIA. FIXAÇÃO POR EQUIDADE. POSSIBILIDADE. RAZOABILIDADE. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. A relação jurídica estabelecida entre as partes e de consumo, por se enquadrar nas disposições contidas nos artigos 2º, 3º e 17 da Lei nº 8.078/90.
+2. Compete a empresa arquivista apenas registrar as informações que lhes são apresentadas pelo credor e cumprir com o estabelecido no art. 43, §2º, do Código de Defesa do Consumidor, cabendo ao credor a responsabilidade pela exatidão e a veracidade das informações prestadas.
+3. Não há que se falar em condenação da empresa arquivista em danos morais, pelos supostos prejuízos que tenha a autora sofrido, tampouco em responsabilidade solidária com o suposto credor, em razão de a requerida ter demonstrado o cumprimento da obrigação que lhe competia, notificando previamente a consumidora acerca da restrição que levaria a efeito com as informações prestadas pelo credor, ainda que enviada correspondência para endereço diverso do constante da petição inicial.
+4. A interpretação literal do artigo 85 do Código de Processo Civil evidencia que o legislador conferiu primazia para a fixação de honorários mediante parâmetros percentuais, estabelecendo os valores da condenação, do proveito econômico obtido e aquele atribuído à causa como bases de cálculo sucessivas. 4.1. Ao fixar um limite mínimo para os honorários sucumbenciais, o legislador visava impedir o arbitramento de valores ínfimos e, portanto, incompatíveis com a nobre e indispensável função advocatícia. Nesse contexto, faz-se necessária uma interpretação teleológica e sistemática do comando legal em questão a fim de se obter, com a máxima efetividade e alcance, a ratio essendi do instituto. 4.2. Compulsando aos autos, nota-se que o trâmite processual não demandou a realização de atos processuais mais complexos, de modo a exigir maior dedicação dos patronos do réu para promover a defesa de seus direitos. 4.3. Nesse contexto, considerados os parâmetros já destacados, visando resguardar os princípios da proporcionalidade e da razoabilidade, reputa-se necessário readequar o valor fixado na origem, a título de honorários advocatícios de sucumbência, nos termos do que determina o art. 85, §§2º, e 8º CPC.
+5. Recursos conhecidos e parcialmente providos.
+Os embargos declaratórios opostos foram rejeitados.
+Irresignado, BOA VISTA interpôsrecurso especial com base no art. 105, III,a e c, da CF, apontando a violação doart. 85 do CPC, alegando ser excessivo o valor dos honorários fixados, uma vez que não observados, no caso, os princípios da razoabilidade e da proporcionalidade na fixação.
+O recurso não foi admitido pelo Tribunal de Justiça do Distrito Federal e dos Territórios por incidir, no caso, o teor da Súmula nº 7 do STJ (e-STJ, fls. 1.041/1.042).
+Nas razões do presente agravo, BOA VISTA refutou o referidoóbicede prelibação (e-STJ, fls. 1.046/1.051).
+Foiapresentada contraminuta (e-STJ, fls. 1.056/1.058).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Do valor dos honorários
+BOA VISTAafirmou a violação doart. 85, do CPC,alegando ser excessivo o valor dos honorários fixados, uma vez que não observados, no caso, os princípios da razoabilidade e da proporcionalidade na fixação.
+Sobre o tema o TJDFTconsignou que:
+(..)considerados os parâmetros já destacados, visando resguardar os princípios da proporcionalidade e da razoabilidade, reputo inadequado o valor fixado na origem a título de honorários advocatícios de sucumbência, devendo ser readequado, razão pela qual arbitro em R$3.000,00 (três mil reais), nos termos do que determina o art. 85, §§2º e 8º, CPC, mantendo-se as demais condições estabelecidas (e-STJ Fl.957).
+Esclareça-se que os critérios de fixação do valor dos honorários, pautados na razoabilidade e proporcionalidade, não podem ser revistosem sede de recurso especial.
+É que o artigo apontado como violado traz circunstâncias factuais para a fixação dos honorários, como o grau de zelo do profissional, a natureza, a importância da causa, o tempo exigido e o lugar da prestação.
+Dessa forma, rever os critérios adotados na origem demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS. HONORÁRIOS. VALOR. ARBITRAMENTO. RAZOABILIDADE. PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. REEXAME DAS CIRCUNSTÂNCIAS FACTUAIS PREVISTAS NO ART. 85, § 2º, DO CPC. SÚMULA 7/STJ. INCIDÊNCIA.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
