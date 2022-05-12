@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO contra acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ fl. 422).
+ADMINISTRATIVO. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. OBRA SEMQUALQUER INDICATIVO DE DANO AOS EXERCÍCIOS MILITARES. 1. Os elementos constantes dos autos revelam que não há prejuízo à atividade militar no local, visto que o Batalhão de Comunicações do Exército localiza-se dentro de área urbana.2. Manutenção da sentença.
+Defende o ente federal recorrente, preliminarmente, violação aos arts. 489, §1º, e 1.022, II, do CPC/2015.
+Sustenta, ainda, ofensa aos arts. 1º do Decreto-Lei n. 3.437/1941; 13, da Lei Complementar n. 97/1999; 1º, "i", "j" e "l" do Decreto-Lei n. 9.760/1946; e 78, do CTN.
+Contrarrazões (e-STJ fls. 510/523).
+Passo a decidir.
+Registro que não se pode falar em violação aos art. 489, §1º, do CPC/2015, porquanto, ainda que se considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões suscitadas pela associação recorrente.
+Não se pode confundir o resultado desfavorável ao litigante com decisão aquém dos limites da lide, motivo pelo qual não se constata violação do preceito apontado.
+A Corte local, mesmo tacitamente, enfrentou e rejeitou o fundamento União, ao concluir que: a) a proteção conferida pelo Decreto-Lei n. 3.437/1941 se limitava à defesa da costa; b) ainda que a segurança dos cidadãos, em face do "elevado potencial danoso" dos exercícios militares, pudesse ser considerada, os elementos constantes dos autos revelavam que nunca houve prejuízo, tanto à atividade militar no local quanto aos cidadãos, pela ocupação da área referida; c) há diferença, na legislação, entre e construções militares.
+Portanto, a prestação jurisdicional foi dada na medida da pretensão deduzida, não havendo nulidade do acórdão.
+Além disso, quando houve a interposição dos aclaratórios, o que queria a parte embargante era rediscutir o mérito da decisão que lhe foi desfavorável, não se prestando o recurso a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AgInt nos EDcl no AgInt no AREsp 1582376/SP, rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 11/04/2022, DJe 18/04/2022; EDcl no AgInt no REsp 1896032/SP, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 08/09/2021, DJe 13/09/2021.
+Portanto, também não há violação ao art. 1.022, II, do CPC/2015.
+No mérito propriamente dito, um dos principais fundamentos no qual se centrou o órgão julgador da origem foi no sentido de que:
+Ainda que a segurança dos cidadãos, em face do "elevado potencial danoso" dos exercícios militares, pudesse ser considerada, os elementos constantes dos autos revelam que nunca houve prejuízo, tanto à atividade militar no local quanto aos cidadãos, pela ocupação da área referida. Veja-se que o imóvel debatido é de domínio particular há muitos anos, inclusive tendo sido registrada edificação ainda em 1955 (evento 16, matrimóvel5), sem qualquer indicativo de danos decorrentes dos exercícios militares. Aliás, como bem demonstram o levantamento juntado ao evento 1, out2, e as fotografias juntadas pelos réus, em especial as vistas aéreas constantes do evento 16, out11, várias outras edificações circundam a área do Batalhão, sem qualquer notícia acerca de prejuízos ocasionados pelas atividades realizadas no quartel. (e-STJ fl. 419).
+O argumento, suficiente para a manutenção do julgamento, não foi infirmado em concreto no apelo especial, atraindo a aplicação da Súmula 283/STF.
+E, mesmo que assim não fosse, a revisão do entendimento do órgão de origem, no aspecto mencionado, pressuporia a imersão no contexto fático-probatório dos autos, pretensão que esbarra no óbice da Súmula 7/STJ.
+Ante o exposto, CONHEÇO EM PARTE dos recurso especial e, nessa extensão, NEGO-LHE provimento.
+Publique-se. Intimem-se.
