@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, de LUIZ HÉLIO CARDOSO DA SILVA JÚNIOR, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado de São Paulo, em face de acórdão assim ementado (e-STJ fl. 471):
+Ação de obrigação de fazer cumulada com indenização por danos morais. Autor que não contratou com a corré Godaddy o registro do domínio de website. Registro realizado anteriormente pelo corréu Luiz Hélio. Ausência de má-fé ou violação a registro de marca. Gratuidade da justiça concedida ao Autor. Reconvenção de Luiz Hélio conhecida. Inexistência de abuso do direito de ação. Danos materiais e morais não configurados. Ação e reconvenção improcedentes. Recursos parcialmente providos.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 486/492).
+Sustenta estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 531/537).
+Sem contraminuta (e-STJ fl. 539), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a" e "c", da Constituição Federal, além de divergência jurisprudencial, a parte recorrente aponta violação aos artigos 81, 99, § 3º, 489, II, § 1º, II e IV, e 1.022 do Código de Processo Civil de 2015; e 187 do Código Civil de 2002 (e-STJ fls. 495/505).
+Aduz ter havido omissões e ausência de fundamentação na decisão recorrida, relativamente a questões relevantes para o deslinde da causa.
+Alega que " ..  demonstrou, nas contrarrazões de apelação que a condição financeira do ora Recorrido não lhe dava direito à gratuidade da justiça  .. " (e-STJ fl. 499).
+Afirma que o " ..  sistema não pode admitir que se proponha ações contra pessoas completamente estranhas, sem qualquer vínculo com o direito material pleiteado, obrigando-a a desgastes emocionais e financeiros envolvidos num processo judicial, sem qualquer sanção  .. " (e-STJ fl. 502).
+Argumenta, ainda, que " ..  não se está diante de regular exercício de direito, mas sim de abuso de direito, com má-fé processual  .. ", pois " ..  quando a parte extrapola seu direito de acesso à justiça e fere material e moralmente outra pessoa, absolutamente estranha ao processo, imprescindível que se lhe repare integralmente os danos sofridos, retornando ao status quo ante  .. " (e-STJ fl. 504).
+Com contrarrazões (e-STJ fls. 522/523).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à parte agravante.
+De início, quanto à alegada violação aos artigos 489 e 1.022 do Código de Processo Civil de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Assim, consoante entendimento consolidado desta Corte Superior, não é omissa, contraditória e obscura nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: EDcl no AgInt nos EAREsp n. 931.889/MG, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 13/8/2019, DJe 20/8/2019; EDcl no AgInt nos EREsp n. 1.330.215/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/6/2019, DJe 28/6/2019; entre inúmeros outros.
+Desse modo, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+De outra parte, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, no que diz respeito à concessão dos benefícios da Justiça gratuita, assim entendeu (e-STJ fls. 472/473):
+ ..
+Nos termos do art. 99, § 3º do CPC/2015, a parte desfrutará dos benefícios da gratuidade processual mediante simples afirmação de que não tem condições de pagar as custas processuais e os honorários advocatícios sem prejuízo próprio ou de sua família, presumindo-se pobre, até prova em contrário, quem afirmar essa condição.
+A lei não impôs qualquer outra condição ao deferimento dos benefícios da gratuidade da justiça, de modo que há uma presunção juris tantum que milita em favor dos que requerem a gratuidade, sendo esta só ilidida se houverem elementos que a desautorizem.
+No caso, embora o Autor tenha recolhido as custas iniciais, demonstrou a modificação de sua situação financeira, juntando declaração à Receita Federal, onde constam parcos rendimentos no ano de 2019 (fls. 398/407), extrato bancário indicando movimentação de valores baixos (fls. 395/397) e elevação de despesas com o sustento de seu cunhado, pessoa com deficiência (fls. 376/394).
+Fica concedida, portanto, a gratuidade da justiça, sem efeitos retroativos.
+ ..
+Em sede de embargos de declaração, ressaltou o Colegiado local que (e-STJ fl. 490):
+ ..
+A quantidade de processos patrocinados pelo Autor, a existência de advogados associados a seu escritório, ou a propriedade de veículo não são suficientes para afastar a presunção de hipossuficiência firmada pela declaração da parte, nem há indício de contribuição substancial de sua esposa para o sustento da família.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7 do Superior Tribunal de Justiça. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVOCATÓRIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REQUISITOS DA JUSTIÇA GRATUITA. REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7/STJ. DECADÊNCIA DA PRETENSÃO. EVENTUAL DESÍDIA DO SÍNDICO EM FAZER A PUBLICAÇÃO DO AVISO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N.7/STJ. DESNECESSIDADE DE COMPROVAR A FRAUDE. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO INTERNO DO BANCO SANTANDER (BRASIL) S.A. IMPROVIDO.
+1. Reverter a conclusão da Corte estadual, que concluiu pela comprovação da situação de hipossuficiência da parte adversa, demandaria o reexame de circunstâncias fático-probatórias da causa, o que não se admite nesta via excepcional, ante o óbice da Súmula n. 7 do STJ.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.453.284/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/8/2020, DJe 1º/9/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVER DE MOTIVAÇÃO. ART. 927 DO CPC/2015. JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+ ..
+4. No caso concreto, o Tribunal de origem concluiu não ter sido demonstrada a situação de hipossuficiência do agravante. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.491.014/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/8/2020, DJe 28/8/2020).
+Além disso, quanto às demais questões aventadas pela parte ora recorrente, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 473/477):
+ ..
+Alexandre Fonseca Colnaghi ajuizou em face de Godaddy Serviços Online do Brasil Ltda e Luiz Hélio Cardoso da Silva Júnior esta ação de obrigação de fazer cumulada com indenização por danos morais, pleiteando a transferência para si do domínio www.advocaciapopular.com.br. Diz que em outubro de 2015criou a marca "advocacia popular"e em fevereiro de 2018 contratou Godaddy para hospedagem do site por três anos e registro do domínio por um ano, pagando R$ 397,14. Iniciada a confecção do site se surpreendeu ao descobrir que em maio de 2018 Luiz Hélio, que sequer é advogado, registrou para si tal domínio. Alexandre desconfia do conluio entre os Réus, pois estão domiciliados na mesma cidade, Porto Alegre/RS.
+Godaddy, por seu turno, afirma ter sido contratada pelo Autor apenas para fornecer os serviços de hospedagem do site e e-mail, não de registro de domínio, providência esta que poderia ser obtida pelo próprio Autor diretamente perante o Registro.br, departamento do Núcleo de Informação e Coordenação do Ponto BR.
+Luiz Hélio sustenta sua ilegitimidade passiva, pois registrou em seu nome um domínio livre, por intermédio da empresa Locaweb, obedecendo à Resolução nº 08/2008 do Comitê Gestor da Internet no Brasil, não tendo conhecimento das atividades de Alexandre ou de seu contrato com Godaddy. Esclarece ser estudante de Direito, e que o site constitui a primeira etapa da criação de um projeto futuro, de caráter informativo. Ressalta que o Autor não registrou a marca "advocacia popular" no INPI e sequer poderia fazê-lo, por se tratar de expressão comum. Apresenta reconvenção pleiteando indenização por danos materiais e morais decorrentes do abuso do direito de ação.
+Cabia ao Autor demonstrar a contratação de Godaddy para realizar o registro de domínio do site www.advocaciapopular.com.br em Registro.br, mas deste ônus não se desincumbiu. A provedora sustenta ter sido contratada apenas para prestar serviços de hospedagem e e-mail (fls. 146), inexistindo sequer indício em contrário.
+Tampouco foi demonstrada propaganda enganosa ou descumprimento de oferta, pois cada serviço é oferecido de forma autônoma no site da Ré (fls. 73). Se Alexandre presumiu que o domínio informado à Godaddy seria automaticamente registrado, tal se deu por erro inescusável para o qual a provedora não contribuiu.
+Nada sugere que Luiz Hélio tenha atuado de má-fé, que à época do registro do domínio conhecesse o Autor, sua atividade ou o contrato com Godaddy. Note-se que o Réu se utilizou dos serviços da empresa Locaweb, o que desprestigia a infundada alegação de conluio com Godaddy. Alexandre apenas elaborou um logotipo, sem registrar a marca, que não era de alto renome.Em maio de 2018 o domínio estava livre, e a ele o Réu tinha direito, ante a regra da anterioridade do registro.
+ ..
+A reconvenção é improcedente.Não há abuso do direito de ação, antes o que se extrai dos autos é a carência de ação, quer porque inepta a petição inicial que não apontou causa de pedir que justificasse a pretensão deduzida contra Luiz Hélio, quer porque disto decorre sua ilegitimidade passiva. Mas não se verifica que o Autor tenha faltado com a verdade, nem distorcido os fatos, antes, ao que tudo indica, incidiu em erro na gestão de seus interesses.
+Para a configuração do dano moral faz-se necessária a ocorrência de situação vexatória ou humilhante, que extrapole os limites da normalidade, atingindo o íntimo do ofendido, sob pena de banalização do instituto. No caso, as lesões alegadas pelo Reconvinte decorrentes do ajuizamento da ação não se mostraram passíveis de indenização, já que não restou comprovado o abuso na propositura, ainda que seus fundamentos tenhamsido rechaçados.
+A contratação de advogado particular não é passível de imputação direta à parte contrária, ou decorrente de qualquer postura ilícita ..
+O Colegiado estadual, em sede de embargos de declaração, elucidou que (e-STJ fls. 490/491):
+ ..
+O exercício do direito de ação, mesmo sendo utilizados argumentos infundados e, por isso, rechaçados, não se ajusta às hipóteses do artigo 80 do Código de Processo Civil. A interpretação equivocada do contrato e do direito decorrente da utilização do nome "advocacia popular" não se confundem com "deduzir pretensão contratexto expresso de lei ou fato incontroverso"ou "alterar a verdade dos fatos", nem se verificam ofensas.
+Os contratos firmados entre clientes e seus advogados não podem obrigar aqueles que dele não participaram, por isso não se pode incluir nos pedidos de reparação as despesas com a contratação de causídicos que excederem as verbas de sucumbência.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7 do Superior Tribunal de Justiça. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. Aplica-se o óbice da Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 182.361/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 5/5/2016, DJe 10/5/2016).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Para modificar as conclusões consignadas no acórdão impugnado, na forma como posta, seria necessária a incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.698.665/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/10/2020, DJe 18/11/2020).
+Por fim, a incidência daSúmulan. 7 do Superior Tribunal de Justiça impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CANCELAMENTO DE PLANO DE SAÚDE. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 83/STJ. LESÃO EXTRAPATRIMONIAL. AUSÊNCIA DE PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. CONHECIMENTO INVIABILIZADO PELA INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Esta Corte Superior entende que a lesão extrapatrimonial não decorre de simples inadimplemento contratual, sendo necessária a demonstração de ofensa a direitos da personalidade. Incidência do enunciado n. 83 da Súmula do STJ.
+2. Tendo o Tribunal de origem concluído que não houve a comprovação de prejuízo extrapatrimonial, a desconstituição do acórdão estadual demandaria o revolvimento fático-probatório, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+3. A incidência dos enunciados n. 7 e 83 da Súmula do STJ impede o conhecimento do recurso interposto tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.304.018/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/4/2019, DJe 23/4/2019 - sem destaques no original).
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. RESCISÃO. PARCELAS PAGAS. RETENÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. PERCENTUAL. REEXAME DO CONTRATO E DOS DEMAIS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INOVAÇÃO RECURSAL. INVIABILIDADE. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem reexame do contrato e dos demais elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, alterar o percentual de retenção demandaria nova análise do conjunto probatório do feito, vedado em recurso especial.
+4. A incidência das Súmulas n. 5, 7 e 83 do STJ obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.387.976/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/5/2019, DJe 20/5/2019 - sem destaques no original).
+Em face do exposto, nego provimento ao agravo e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
