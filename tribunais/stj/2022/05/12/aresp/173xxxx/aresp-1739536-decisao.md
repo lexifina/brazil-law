@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Voges Metalurgia Ltda. - em recuperação judicial contra decisão que inadmitiu o recurso especial.
+Das razões expendidas, verifica-se que a parte agravante não impugnou, de forma precisa, os fundamentos da decisão combatida, o que atrai, por analogia, a incidência da Súmula 182 desta Corte, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+Com efeito, torna-se imprescindível o confronto específico dos pressupostos, a fim de demonstrar o desacerto da decisão, não bastando o combate genérico ou a mera reprodução do recurso anterior.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. A decisão ora agravada conheceu do Agravo, para negar provimento ao Recurso Especial, em razão da incidência das Súmulas 5/STJ, 7/STJ e 284/STF, pela ausência de demonstração do dissídio jurisprudencial e por estar o acórdão recorrido em conformidade com a jurisprudência do STJ.
+III. O Agravo interno, porém, não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+IV. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 1.134.263/SP, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/4/2022, DJe de 29/4/2022).
+Não admitido o recurso especial, com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+No ponto:
+RECURSO FUNDADO NO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. SÚMULA 83/STJ. FALTA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO AUTÔNOMO DA DECISÃO QUE INADMITE O RECURSO ESPECIAL. SÚMULA 182/STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO.
+1. É inviável o conhecimento do agravo em recurso especial quando a decisão que não admitiu o recurso especial se baseia na incidência da Súmula 83/STJ como fundamento autônomo e suficiente para sua manutenção, e o agravante deixa de impugná-lo especificamente, limitando-se a repisar os argumentos expendidos nas razões do recurso especial. Aplicação, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+2. Na espécie, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+3. Não se mostra possível analisar, em sede de agravo interno, matéria não suscitada oportunamente nas razões de agravo em recurso especial, por se tratar de inovação recursal.
+4. Agravo interno conhecido em parte para, na parte conhecida, negar-lhe provimento.
+(AgInt no AREsp n. 889.040/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/10/2016, DJe de 10/11/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. RECONHECIMENTO DA REPERCUSSÃO GERAL DA MATÉRIA, PELO SUPREMO TRIBUNAL FEDERAL. SOBRESTAMENTO. DESNECESSIDADE. PRECEDENTE. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. INOVAÇÃO DE TESE RECURSAL, EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. MISSÃO DIPLOMÁTICA BRASILEIRA NO EXTERIOR. AUXILIAR LOCAL. VÍNCULO ESTATUTÁRIO. ENQUADRAMENTO. ART. 243 DA LEI 8.112/90. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL QUE NÃO INFIRMA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO ATACADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+V. A alegação genérica de inaplicabilidade da Súmula 83/STJ, desacompanhada da indicação de acórdãos mais modernos desta Corte, em sentido contrário ao entendimento adotado nos precedentes apontados na decisão agravada, atrai o óbice da Súmula 182/STJ.
+VI. Agravo Regimental parcialmente conhecido, e, nessa parte, improvido.
+(AgRg no AREsp n. 610.496/RS, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/2/2016, DJe de 9/3/2016).
+Por fim, a ausência de impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao recurso especial impede o conhecimento do agravo, independentemente de se tratar de fundamento autônomo ou não (cfr. EAREsp no AREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator Ministro acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
