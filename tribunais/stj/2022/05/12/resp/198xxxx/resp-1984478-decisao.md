@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu parcial provimento ao recurso de apelação da defesa.
+Aponta o recorrente violação dos arts. 155, §1º, do CP e 941, §3º, 1.022 e 1.025 do CPC, ao argumento de que "A circunstância é puramente objetiva, não se cabendo inquirir se a vítima estava ou não em repouso, ou mesmo se estava ou não no local de consumação do delito" (fl. 271), razão por que requer o restabelecimento da majorante do repouso noturno.
+Contrarrazoado e admitido, manifestou-se o Ministério Público pelo provimento do recurso especial.
+O recorrido foi condenado à pena de 2 anos, 10 meses e 20 dias de reclusão e 16 dias-multa, como incurso no art. 155, §1º, do CP.
+Interposto recurso de apelação pela defesa, foi parcialmente provido, ao fundamento de que "o agente invadiu uma loja para praticar o crime, não sabendo que a vítima estava ali esporadicamente repousando" (fl. 271).
+O acórdão recorrido, contudo, diverge da orientação jurisprudencial desta Corte de que "a causa especial de aumento de pena do furto cometido durante o repouso noturno pode se configurar mesmo quando o crime é cometido em estabelecimento comercial ou residência desabitada, sendo indiferente o fato de a vítima estar, ou não efetivamente repousando (HC n 191.300/MG, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 12/6/2012, DJe 26/6/2012), devendo ser mantida, portanto, no caso" (AgRg no HC 671.453/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021). Nesse sentido: AgRg nos EDcl no REsp 1849490/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/09/2020, DJe 22/09/2020.
+Assim, deve ser provido o recurso especial para restabelecer a causa de aumento de pena do repouso noturno. Procede-se, assim, à dosimetria da pena.
+Fixada a pena-base em 2 anos e 1 mês de reclusão e 11 dias-multa, compensa-se, na segunda fase, a atenuante da confissão espontânea com a agravante da reincidência.Na terceira fase, procede-se ao aumento de 1/3pela majorante do repouso noturno e, em seguida, a redução de 1/3 pela tentativa, resultando em 1 ano, 10 meses e 6 dias de reclusão e 9 dias-multa. Mantido o regime semiaberto, em razão da reincidência do réu.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a causa de aumento de pena do repouso noturno, resultando a pena de 1 ano, 10 meses e 6dias de reclusão e 9 dias-multa.
+Publique-se.
+Intimem-se.
