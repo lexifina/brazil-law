@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por PEDRO HENRIQUE BATISTA DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RECONHECIMENTO DA MINORANTE PREVISTA NO § 40 DO ART. 33 DA LEI 11.343106 - INVIABILIDADE - ABRANDAMENTO DO REGIME PRISIONAL - IMPOSSIBILIDADE - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE - INVIABILIDADE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 33, § 4º, da Lei n. 11.343/06, no que concerne ao preenchimento dos requisitos exigidos para a redução de pena pela incidência do denominado tráfico privilegiado, trazendo o(s) seguinte(s) argumento(s):
+Inicialmente, não há que se falar em envolvimento com a criminalidade por parte do recorrente, iá que é primário e possui bons antecedentes.
+Não restou comprovado que o réu pertencesse à organização criminosa ou se dedicasse a atividades ilícitas.
+Conforme a analise da certidão de antecedentes criminais (CAC fI. 44) não há nenhum procedimento concluso contra o acusado, não podendo se afirmar a sua dedicação a tal tipo de atividade ilícita. Diante do exposto, o que importa é o acusado preencher os requisitos elencados pela Lei, quais sejam: ser primário, portador de bons antecedentes, não pertencer à organização criminosa e não se dedicar a atividades criminosas, logicamente, quanto e este último, não pode ser o fato pelo qual esta respondendo.
+ ..
+Por fim, considerando que o recorrente preenche TODOS os requisitos do § 40 do ad. 33 da Lei Antidrogas, faz jus a causa especial de diminuição de pena. (fls. 230/233).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Segundo determina o art. 33, § 4º, da Lei 11.343106, para que o condenado faça jus á redução da pena de um sexto a dois terços, ele deve preencher quatro requisitos: a) ser primário; b) possuir bons antecedentes; c) não se dedicar a atividades criminosas; d) não integrar organização criminosa.
+A despeito de o acusado ser primário e possuir bons antecedentes (CAC de fi. 44), há nos autos prova de que ele se dedica a atividades criminosas. Isso porque ele já foi preso antes dos fatos (26104/2018) pela suposta prática do crime de tráfico de drogas, conforme se extrai da CAC de fI. 44 e da FAC de fis. 41143.
+Além disso, foi apreendida na residência do acusado exorbitante quantidade e variedade de entorpecentes, a saber: aproximadamente 265g de crack e 1.950 g de cocaína, além de balança de precisão e invólucros plásticos vazios.
+Não merece prosperar a afirmativa do acusado de que somente guardava os entorpecentes para determinado traficante (CD de fi. 83), porquanto a balança de precisão foi encontrada embaixo da pia da cozinha e não juntamente com os entorpecentes.
+Diante de todos esses elementos, entendo que é seguro afirmar que o acusado se dedica a atividades criminosas, o que o impede de ser beneficiado com a minorante prevista no § 4 0 do art. 33 da Lei 11.343/06" (fls. 221/222).
+Ante o exposto no acórdão recorrido, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária, a toda evidência, a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
