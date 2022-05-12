@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alínea"a", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl.210):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. AUSÊNCIA DE EXTRATOS BANCÁRIOS DEMONSTRANDO A DISPONIBILIZAÇÃO DO CRÉDITO E EVOLUÇÃO DA DÍVIDA. VIOLAÇÃO DA SÚMULA 247 DO STJ.EXTINÇÃO DO PROCESSO. SENTENÇA MANTIDA.
+1. Nos termos da Súmula 247 do Superior Tribunal de Justiça, "o contrato de abertura de crédito em conta-corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento da ação monitória".
+2. Nos termos da majoritária jurisprudência, os extratos bancários comprovando a disponibilização de crédito e evolução da dívida são documentos essenciais para o ajuizamento da Ação Monitória fundada em contrato de abertura de crédito em conta-corrente. Ausentes tais documentos, deve ser mantida a extinção do processo por carência de ação.
+Nas razões do recurso especial, a parte recorrente aponta violação à Súmula 247 do Superior Tribunal de Justiça; aos artigos 240, 320, e435, do Código de Processo Civil; eao art. 397 do Código Civil.
+Sustenta que o acórdão recorrido afronta o art. 435 do CPC e aSúmula 247 do STJao reconhecer a obrigatoriedade da apresentação dos extratos bancários para o ajuizamento da demanda.
+Afirma que "deve ser afastada a sentença de extinção da ação, dando-se aoautor a oportunidade de correção da inicial para o fim de demonstrar detidamente a constituição da dívida representada pelo contrato bancário que instrumentalizou o crédito concedido"" (e-STJ, fl.176).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, trata-sede ação monitória na qual busca orecorrente a cobrança de dívida contraída em razão decontrato de abertura de crédito rotativo de direito creditório - VISANET.
+O Juízo singular acolheu a preliminar de carência de ação levantada em embargos à monitória e extinguiu o processo sem resolução do mérito, uma vez que "o contrato entabulado entre as partes não veio acompanhado dos extratos necessários comprovando a liberação do crédito na conta do embargante e nem mesmo o valor efetivamente por ele utilizado, se limitando a juntar às fls. 27/29 um demonstrativo de evolução de saldo devedor". (e-STJ, fl.156)
+O Tribunal de origem, por sua vez, manteve sentença de extinção com base nos seguintes fundamentos:(e-STJ fls. 216/216):
+(..)
+No caso dos autos, ao ajuizar a Ação Monitória, o Apelante apenas e tão somente anexou à petição inicial o Contrato de Abertura de Crédito 09/24, acompanhado de um demonstrativo de evolução do saldo devedor, este último, produzido unilateralmente.
+Tal providência, no entanto, desatende a Súmula 247 do STJ, acima mencionada, mostrando-se imprescindível que se façam presentes os extratos bancários comprovando que os Apelados realmente tiveram acesso ao "crédito aberto pelo contrato", aclarando, ainda, a evolução da dívida junto à conta bancária onde o crédito fora supostamente disponibilizado
+Sem os referidos documentos, o caso era mesmo de extinção por carência de ação.
+(..)
+Outrossim, no tocante ao pedido do Apelante para que lhe seja concedido o direito de produção de prova documental, com a devida vênia, cuido de salientar que tal providência se restringe à apresentação de documentos distintos daqueles que devem ser obrigatoriamente apresentados com a petição inicial, tanto isso é que o próprio precedente por ele apresentado nas razões recursais elucida essa questão(fl.121).
+Logo, como os extratos bancários aclarando a disponibilização do crédito e evolução da dívida são documentos necessários aoajuizamento do procedimento monitório, não há que se falar em concessão direito de produção de prova documental ao Apelante.
+No caso dos autos, o Tribunal local entendeuque os documentos que acompanharam a monitória, o Contrato de abertura de Crédito, bem como o demonstrativo de evolução da dívida, não seriam suficientes para embasar o ajuizamento da demanda.
+Ressaltou ainda que a ausência de apresentação dosextratos bancários juntamente com a ação monitóriainduz a extinção do processo sem resolução do mérito, uma vez que o pedido do recorrente para conceder odireito de produção de prova documental se restringe à apresentação de documentos distintos daqueles que devem ser obrigatoriamente apresentados com a petição inicial.
+É certo que a propositura da ação monitóriademanda a existência de prova escrita apta a demonstrar a existência de um débito decorrente de uma relação jurídica obrigacional, no entanto, não pode serafastado o direitode produção de prova documental em demanda monitória a fim de possibilitar ao recorrente a apresentação dos extratos bancários de maneira ademonstrar a evolução da dívida e adisponibilização do crédito.
+Com efeito, ainda que a parte recorrente não tenha juntado o documento no momento processual oportuno, a extinção do processo de forma prematura sem conferir à parte autora a oportunidade de juntar os referidos extratos não se mostra a solução mais adequada, porquanto deixou de observar os princípios da instrumentalidade das formas, da economia e da celeridade processual.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. DOCUMENTAÇÃO COLACIONADO PELO CREDOR TIDA POR INSUFICIENTE PELO ACÓRDÃO ESTADUAL. CARÊNCIA DE AÇÃO DECRETADA DE OFÍCIO. AFASTAMENTO. ART. 284 DO CPC. OPORTUNIDADE DE INSTRUÇÃO DO FEITO. ADMISSIBILIDADE. PRINCÍPIO DA INSTRUMENTALIDADE E ECONOMIA PROCESSUAIS.
+I. Os princípios da instrumentalidade e economicidade processuais recomendam que detectada a falta documental quando da instrução da inicial, seja oportunizada à parte a sua juntada, nos termos do art. 284 do CPC, caso da cobrança feita pela via monitória.
+II. Recurso especial conhecido em parte e provido.
+(REsp 743.928/PR, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 09/05/2006, DJ 19/06/2006, p. 147)
+Ressalte-se, por fim, que, nos termos da jurisprudência desta Corte, a juntada posterior de documentos referentes à ação monitória é possível, inclusive, depois de já proferida a sentença, desde que tais documentos tenham pertinência com os fatos alegados na inicial, haja o contraditório e não exista má-fé. Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. JUNTADA POSTERIOR DO CONTRATO DE CONFISSÃO DE DÍVIDA. POSSIBILIDADE. SENTENÇA AINDA NÃO PROLATADA. AUSÊNCIA DE PREJUÍZO. INSTRUMENTALIDADE DAS FORMAS. SÚMULAS 7 E 83/STJ. APLICAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, a juntada posterior de documentos referentes à ação monitória é possível inclusive depois de já proferida a sentença, desde que tais documentos tenham pertinência com os fatos alegados na inicial, haja o contraditório e não exista má-fé.
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula nº 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1574122/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+Ante o exposto, dou provimento ao recurso especial para anular a sentença e o acórdão recorrido a fim dedeterminaraintimação da parte autora para oportunizara produção de prova documental, mediante a juntada de documentos suficientes à formação de prova escrita, de modo a permitir o processamento da açãomonitória.
+Intimem-se.
