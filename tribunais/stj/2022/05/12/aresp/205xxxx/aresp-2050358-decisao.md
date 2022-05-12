@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CELG DISTRIBUIÇÃO S.A. - CELG Dcontra decisão que inadmitiu o recurso especial ao argumento de incidência da Súmula 282/STF (e-STJ, fls. 253-254).
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar o recurso especial interposto.
+Trata-se de recurso especial interposto, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁSassim ementado (e-STJ, fls. 213-214):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. COMPETÊNCIA DO ÓRGÃO AUTUADOR. VÍCIOS DE PROCEDIMENTO. INEXISTÊNCIA. HONORÁRIOS. RECURSAIS. MAJORADOS. SENTENÇA MANTIDA.
+1. O Poder de Polícia é prática legal do PROCON, permitindo-lhe fiscalizar e aplicar sanções pecuniárias, e sua competência está pautada no Código do Consumidor, artigos 55, 56, 57 e, também, no Decreto 2.181/97, artigos 2º, 3º, X, 18, I, § 2º, além de outras normativas.
+2. No procedimento administrativo que impingiu a penalidade pecuniária a concessionária de energia elétrica, de competência do PROCON Municipal de Itumbiara, não se constata nenhum dos vícios alegados, tendo em vista que o processo pautou-se pelos princípios constitucionais e legais de regência, como o devido processo legal, paridade de armas, razoabilidade, proporcionalidade, entre outros. Ademais, a multa foi adequada ao caso, no que se refere a motivação do ato, uma vez que evidenciada a diferença contida na fatura do cliente, destoante com o padrão de consumo mensal, a concessionária reclamada não despendeu maiores esforços para comprovar a liceidade da cobrança ou para resolver a questão de outra forma, limitando-se a rasa alegação de que o valor cobrado estava regular.
+3. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme ocaso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+4. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Não foram opostos embargos de declaração.
+Defende, em síntese,violação do art. 2º da Lei n. 9.427/1996, argumentando, para tanto, que, por ser uma concessionária de energia elétrica, deve subordinação à ANEEL e seguir os regulamentos por esta determinados, conforme Resolução n. 414/2010, sendo descabida a interferência do Procon.
+Apresentadas contrarrazões (e-STJ, fls. 246-250).
+Decido.
+A irresignação não merece prosperar.
+Verifica-se que o Tribunal de origem resolveu a controvérsia nos seguintes termos (e-STJ, fls. 218-219):
+Neste vértice, compulsando os autos do processo administrativo n. FA - 52.000.008.19-0001724, constato que não há vícios que o macule, pois, seu processamento obedeceu aos ditames legais, tendo sido oportunizado o contraditório e a ampla defesa, com a notificação, prazo para apresentação da defesa, decisão pautada na legislação pertinente a matéria enfrentada, período para interposição de recurso, decisão sobre o recurso com análise dos pontos apontados pelo recorrente.
+A questão de fundo diz respeito à fatura cobrada pela CELG em relação ao consumidor, Gilberto Rodrigues da Silva, no mês de abril do ano de 2019, cujo valor ficou em R$ 960,09 (novecentos e sessenta reais com nove centavos), uma vez que o consumo identificado foi de 1607,29Kwh. O cliente buscou a concessionária de energia elétrica para revisar a fatura, tendo sido aberto o processo interno n. 107445294/19, contudo, a resposta que obtivera foi que a cobrança era regular. Anexou o gráfico com a média de consumo anterior, demonstrando que o valor cobrado a extrapolava sobremaneira.
+Não se pode olvidar que a hipossuficiência técnica do consumidor conduz a inversão do ônus da prova. Neste caso, essa hipossuficiência é latente, de modo que, para afastar as alegações do consumidor, mesmo que em processo administrativo, cabia a reclamada comprovar a licitude da cobrança.
+Todavia, a empresa requerida, malgrado tenha analisado os processos internos, não realizou nenhuma análise mais acurada, como, por exemplo um procedimento in locu, pormenorizado e detalhado, que pudesse sustentar sua alegação de regularidade.
+É de se notar que o próprio histórico de consumo anexado aos autos, demonstra uma alteração repentina, pontual e desproporcional, se levado em consideração os outros meses de cobrança, sendo que a fatura mais baixa, de 01/18, ficou em R$ 87,47, enquanto a mais cara, de 11/18, perfez o montante de R$ 500,97, enquanto a cobrança questionada é relativo ao valor de R$ 960,09, referente a 04/2019, ou seja, quase o dobro do período de maior consumo. Com efeito, houve, evidentemente, a violação das disposições concernentes às disposições fixadas pelo mecanismo de proteção ao consumidor, principalmente no que toca sua norma maior, o Código de Defesa do Consumidor, conforme se verifica em seu artigo 14, que assim disciplina:
+Art. 6º São direitos básicos do consumidor: (..)
+VII - o acesso aos órgãos judiciários e administrativos com vistas à prevenção ou reparação de danos patrimoniais e morais, individuais, coletivos ou difusos, assegurada a proteção Jurídica, administrativa e técnica aos necessitados;
+(..)
+X - a adequada e eficaz prestação dos serviços públicos em geral. (..).
+Sendo assim, a regularidade do procedimento administrativo se mostra latente, quanto à legalidade e demais princípios, seja de ordem constitucional e/ou consumerista.
+Assim, para infirmar a decisão recorrida, a fim de analisar a legitimidade da multa aplicada, bem como o respeito da ampla defesa e contraditório em processo administrativo, demandaria reanálise fático-probatória, o que não é possível diante da incidênciada Súmula 7/STJ.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZADA. MULTA ADMINISTRATIVA APLICADA PELO PROCON. ALEGAÇÃO DE VALOR EXCESSIVO. SANÇÃO APLICADA COM BASE EM LEI LOCAL. SÚMULA 280/STF. RAZOABILIDADE E PROPORCIONALIDADE DA PENALIDADE. REEXAME DE MATÉRIA FÁTICO-COMPROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Com relação à alegada violação ao art. 1.022, II, do CPC, o trecho do acórdão do Juízo a quo colacionado na decisão recorrida demonstra que a Corte de origem decidiu a controvérsia de modo integral e suficiente.
+2. Cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a lide.
+3. Para infirmar os fundamentos do acórdão recorrido e revisar o montante fixado à título de multa, seria necessário a reapreciação do caso concreto à luz de direito local - uma vez que foram adotados critérios previstos em lei estadual para a fixação do valor da penalidade -, o que é vedado pelo Súmula 280/STF, aqui aplicável por analogia.
+4. A verificação da aplicação no caso concreto dos critérios legais, bem como da razoabilidade e proporcionalidade do valor da multa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é inviável, em sede de Recurso Especial, em face da Súmula 7 desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.938.935/RJ, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/2/2022, DJe de 17/2/2022).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
