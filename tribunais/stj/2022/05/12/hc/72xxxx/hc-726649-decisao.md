@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido de liminar impetrado em favor de GABRIEL ANDRADE DIAS BATISTA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0003009-49.2021.8.26.0158).
+O Juízo da execução penalreconheceu como falta grave,praticada pelo paciente, por evento ocorrido em 9/5/2021, consistente em descumprimento de ordem (fls. 21-23).
+A defesa interpôs agravo em execução, que restou desprovido.
+A impetrante alega constrangimento ilegal, tendo em vista que não há previsão legal para a sanção decorrente da confecção de tatuagem durante o cumprimento da pena privativa de liberdade.
+Alega que (fl. 5):
+Neste diapasão para a tipificação da falta grave é indispensável a descrição pormenorizada da conduta do sentenciado que teria caracterizado a falta, bem como sua subsunção direta à conduta prevista na legislação ordinária como falta grave, afastando-se a subsunção da conduta à alguma das figuras previstas nas normas administrativas como faltas leves ou médias, o que não se verificou o presente caso.
+Requer, liminarmente e no mérito, a concessão da ordem a fim de que o paciente seja absolvido do cometimento de falta disciplinar.
+O pedido de liminar foi indeferido (fls. 137-138).
+Prestadas as informações (fls. 143-145 e 148-166), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 168-172).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+No presente caso, o Juízo de Execuçãoreconheceu,como falta disciplinar grave, consistente no descumprimento com o dever de acatar as ordens recebidas, nos seguintes termos (fl. 22):
+Na espécie, o sentenciado teve contra si reconhecida a falta grave porque descumpriu com o dever de acatar as ordens recebidas. Tal ato configura a falta prevista no art. 50, inciso VI, da Lei de Execução Penal.
+Não há que se cogitar, pois, a hipótese da desclassificação do grave ato de indisciplina praticado como falta disciplinar de natureza média.
+Nesse passo, é sabido, o cometimento de falta grave impõe a anotação de sua prática no prontuário do sentenciado, a regressão de regime, a perda dos dias remidos (declarados ou não), e, por fim, a interrupção do lapso para a obtenção de progressão de regime.
+O Tribunal de origem manteve adecisão singular, adotando os seguintes fundamentos (fls. 126-130):
+De fato, segundo restou apurado, na data mencionada, durante procedimento de ronda no pavilhão 6, os servidores observaram uma movimentação atípica e, ao se aproximarem da cela 7, avistaram um "tubo de paracetamol" manchado de preto e uma "bombinha de asma" desmontada, na cama do detento Bruno Vinicius Silva Inglez Alves. Bruno entregou o material avistado, além de outros, que disse se tratar de objetos utilizados para a confecção de tatuagens, relatando que era o tatuador do raio, indicando ter tatuado os detentos Bruno Lopes Marques, Walison Gomes Muniz, Breno Cesar Ebert de Matos, Kenedy Monteiro e o ora agravante Gabriel Andrade. O agravante e os demais detentos referidos por Bruno Vinicius foram encaminhados ao setor e inclusão, onde foi constatada a existência de tatuagens recentes em seus corpos, as quais não constavam na ficha qualificativa da inclusão na unidade. Questionado, o agravante confirmou ter realizado tatuagem recentemente, com a "máquina" apreendida e que o tatuador foi Bruno Vinicius. Consta, por fim, que os servidores declararam que os detentos, por ocasião da inclusão, são orientados quanto ao uso correto de todo e qualquer material que lhe for ofertado, sob pena de ser diretamente responsabilizado.
+ ..
+Como se vê, restou seguramente demonstrado que o recorrente cometeu falta grave consistente em desobediência às regras da unidade prisional, sendo o acervo probatório suficiente para comprovar a infração praticada pelo sentenciado.
+ ..
+Portanto, a conduta praticada pelo agravante é considerada falta grave, estando expressamente prevista no artigo 50, inciso VI c/c o artigo 39, inciso V, da Lei de Execução Penal. Assim, a pretensão de desconstituição ou desclassificação da falta revela-se despropositada e sem fundamento.
+O entendimento do Tribunal de origem encontra-se em consonância a jurisprudência firmada por esta Corte Superior no sentido de constituir-se falta grave a confecção de tatuagens no interior do estabelecimento prisional, pelo então apenado,como no caso ocorrente à espécie.
+Vê-se queo Tribunal a quo, soberano na análise dos fatos e das provas dos autos, concluiu que opaciente cometera falta disciplinar de natureza grave consistente em desobediência às regras da unidade prisional (confecçãode tatuagens),nos termos doart. 50, VI, c/c art. 39, V,da Lei de Execução Penal.
+Assim, para alterar o entendimento das instâncias ordinárias nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+A propósito da questão, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 564.773/SP. AGRAVO DESPROVIDO.
+1. O exame da tese de não configuração da falta grave, com vistas à absolvição do Paciente, não se coaduna com a via estreita do habeas corpus, dada a necessidade de incursão na seara fático-probatória.
+2. "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+3. Agravo desprovido. (AgRg no HC n. 612.037/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REALIZAÇÃO DE TATUAGEM EM AMBIENTE PRISIONAL. FALTA DISCIPLINAR GRAVE. ATIPICIDADE: INEXISTÊNCIA. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+4. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave notadamente porque, conforme assentado no procedimento administrativo disciplinar, o executado já havia sido instruído a respeito da proibição de realização de novas tatuagens no ambiente prisional quando deu entrada no presídio, pelo que descumpriu regulamento do estabelecimento prisional de que tinha conhecimento, configurando o ato de desobediência. Ademais, gerou risco, com sua conduta, de disseminação de doenças no presídio.
+5. Em situação em tudo semelhante à posta nestes autos, esta Corte entendeu que a realização de tatuagem em ambiente prisional configura falta grave. Precedentes: Habeas Corpus n. 681.794/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 14/12/2021; Habeas Corpus n. 689.601/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 05/10/2021; Habeas Corpus n. 684.521/SP, Rel. Min. OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), DJe de 23/09/2021; REsp n. 1.954.909/SP, Rela. Mina. LAURITA VAZ, DJe de 16/09/2021; Habeas Corpus n. 688.523/SP, Rel. Min. RIBEIRO DANTAS, DJe de 23/08/2021;
+Habeas Corpus n. 643.644/SP, DJe de 30/06/2021.
+6. Ainda que assim não fosse, a jurisprudência desta Corte tem-se orientado no sentido de que a eventual análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Precedentes.
+7. Agravo regimental desprovido.(AgRg no HC n. 725.349/SP, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/3/2022.)
+Nesse contexto, não se verifica a ocorrência de flagrante ilegalidade que justifique a atuação ex officio.
+Ante o exposto, com fundamento do art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
