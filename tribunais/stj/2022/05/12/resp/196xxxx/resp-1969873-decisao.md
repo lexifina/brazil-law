@@ -1,0 +1,43 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estadona Apelação Criminal n. 0015414-69.2019.8.29.0001.
+Nas razões recursais, o Parquet aponta violação do art. 387, IV, do Código de Processo Penal, pois, embora a fixação de valor indenizatório a título de dano moral haja sido bastante discutida no Tema 983 do STJ, ela não tem aplicação restrita aos casos de violência praticada contra a mulher no âmbito doméstico. Assevera, então, ser cabível o arbitramento da indenização no presente caso, máxime porque essa solicitação foi feita na exordial acusatória.
+Requer seja restabelecida a condenação ao pagamento de indenização à vítima.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 620-623).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que os recorridos foram condenados, em primeiro grau, à pena de 6 anos, 2 meses e 20 dias-multa, em regime semiaberto, pela prática do delito previsto no art. 157, § 2º, II, por duas vezes, na forma do art. 70, ambos do Código Penal. Ao ensejo, o Magistrado sentenciante ainda asseverou (fl. 282):
+Condeno os réus, ainda, ao pagamento de Indenização correspondente à reparação por danos morais, nos termos do art. 387, IV, do CPP, fixada em R$ 10.000,00, para cada vítima.
+Irresignadas, as partes interpuseram recursos de apelação perante a Corte origem, a qual deu provimento ao reclamo ministerial para fazer incidir a majorante do emprego de arma de fogo e dar parcial provimento aos apelos defensivos a fim de excluir a condenação pelos danos morais causados às vítimas, nos seguintes termos (fl. 444, grifei):
+Noutro viés, deve ser acolhida a pretensão de exclusão da reparação por danos morais no valor de R$ 10.000,00 (dez mil Reais).
+Na hipótese em foco, embora haja pleito expresso na denúncia, com espeque no artigo 387, inciso IV, do CPP, certo é que inexistiu contraditório e ampla defesa acerca da aludida reparação, assim como sequer houve expressa declaração neste sentido pelas lesadas, efetivas titulares do direito em análise.
+Entre diversas outras inovações introduzidas no Código de Processo Penal com a reforma de 2008, nomeadamente com a Lei n. 11.719/2008, destaca-se a inclusão do inciso IV ao art. 387, que passou a ter a seguinte redação:
+Art. 387 - O juiz, ao proferir sentença condenatória:
+ ..  IV - fixará valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos sofridos pelo ofendido;  ..
+Como esclarecido por Antonio do Passo Cabral, ao discorrer sobre a fixação do valor mínimo da indenização cível na sentença condenatória penal e o novo CPC, "o principal objetivo do permissivo  art. 387, IV, do CPP  de fixar-se desde logo na sentença penal o mínimo indenizatório foi conferir celeridade à indenização, sem que o lesado tenha que suportar a demora do processo de liquidação de sentença ou ajuizar ação autônoma; algum valor já fica definido desde logo" (Coleção Repercussões do Novo CPC, v. 13, Coord. geral Fredie Didier Jr.,p. 407).
+Mas também foi escopo da nova regra reduzir o número de processos, acompanhando uma tendência mundial de resolver certas questões, em casos de incidência múltipla, na mesma relação processual, procurando eliminar, de uma só vez e aproveitando a cognição sobre pontos comuns, todos os efeitos que o crime possa ter gerado.
+No mesmo sentido, o STJ já decidiu que:
+ ..
+1. Considerando que a norma não limitou e nem regulamentou como será quantificado o valor mínimo para a indenização e considerando que a legislação penal sempre priorizou o ressarcimento da vítima em relação aos prejuízos sofridos, o juiz que se sentir apto, diante de um caso concreto, a quantificar, ao menos o mínimo, o valor do dano moral sofrido pela vítima, não poderá ser impedido de faze-lo.
+ ..
+(REsp n. 1.585.684/DF, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 24/8/2016, destaquei)
+Cabe esclarecer, ainda, que esta Corte Superior firmou entendimento de que, para a fixação do montante reparatório em discussão, é imprescindível a existência de pedido expresso do Ministério Público ou do ofendido, de modo a possibilitar ao réu o direito de ampla defesa e de contraditório. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. VIOLAÇÃO DO ART. 387, IV, DO CPP. REPARAÇÃO CIVIL. PEDIDO EXPRESSO DO MINISTÉRIO PÚBLICO. NECESSIDADE. ACÓRDÃO RECORRIDO EM DESACORDO COM O ENTENDIMENTO DOMINANTE DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos do entendimento desta Corte Superior a reparação civil dos danos sofridos pela vítima do fato criminoso, prevista no art. 387, IV, do Código de Processo Penal, inclui também os danos de natureza moral, e para que haja a fixação na sentença do valor mínimo devido a título de indenização, é necessário pedido expresso, sob pena de afronta à ampla defesa" (AgRg no AREsp n. 720.055/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/6/2018, DJe 2/8/2018).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.615.913/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 25/5/2020)
+Sob tais premissas e a se considerar que houve pedido expresso de indenização na peça acusatória, forçoso reconhecer a violação apontada, especialmente porque o fato de o delito não haver sido cometido contra mulher em contexto doméstico não obsta a possibilidade de o Juiz arbitrar quantum mínimo de reparação ao ofendido.
+A propósito, cito vários julgados deste Superior Tribunal:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. VIOLAÇÃO AO ART. 387, INC. IV, DO CPP. SENTENÇA CONDENATÓRIA. ESTABELECIMENTO DE INDENIZAÇÃO A TÍTULO DE REPARAÇÃO DE DANO SOFRIDO PELA VÍTIMA. PEDIDO EXPRESSO NA EXORDIAL ACUSATÓRIA. RESPEITO AO CONTRADITÓRIO. PRECEDENTES. DECISÃO MANTIDA.
+Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal de Justiça, "em relação à fixação de valor mínimo de indenização a título de danos morais, nos termos do art. 387, IV, do Código de Processo Penal, entende que se faz indispensável o pedido expresso do ofendido ou do Ministério Público, este firmado ainda na denúncia, sob pena de violação ao princípio da ampla defesa" (AgRg no REsp n. 1.657.120/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 2de 6/6/2017, destaquei) Agravo regimental desprovido.
+(AgRg no REsp n. 1.938.835/MG, Rel. Ministro Jesuíno Rissato - Desembargador convocado do TJDFT -, 5ª T., DJe 24/8/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL. PROCESSO PENAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. ESTELIONATO. CONSUNÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE EXAURIMENTO DO POTENCIAL OFENSIVO. CONDENAÇÃO A REPARAÇÃO DE DANOS. NECESSIDADE DE PEDIDO PRÉVIO E EXPRESSO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+3. "Nos termos do entendimento desta Corte Superior a reparação civil dos danos sofridos pela vítima do fato criminoso, prevista no art. 387, IV, do Código de Processo Penal, inclui também os danos de natureza moral, e para que haja a fixação na sentença do valor mínimo devido a título de indenização, é necessário pedido expresso, sob pena de afronta à ampla defesa" (AgRg no AREsp n. 720.055/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/6/2018, DJe 2/8/2018).
+4. Agravo parcialmente provido para afastar a condenação a reparação de danos.
+(AgRg no REsp n. 1.820.918/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 3/11/2020)
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. ROUBO. REPARAÇÃO CIVIL POR DANOS MORAIS. VALOR MÍNIMO FIXADO PELA SENTENÇA CONDENATÓRIA. POSSIBILIDADE. INSTRUÇÃO PROBATÓRIA ESPECÍFICA. DESNECESSÁRIA. RECURSO ESPECIAL PROVIDO. EXECUÇÃO PROVISÓRIA. DEFERIMENTO.
+1. Admite-se a fixação de valor mínimo para reparação de danos morais, nos termos do art. 387, IV, do Código de Processo Penal, desde que haja pedido expresso do Ministério Público na denúncia.
+ ..
+(REsp n. 1.739.851/DF, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 6/11/2018)
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial para restabelecer a condenação à reparação mínima pelos danos causados pela infração, nos termos do art. 387, IV, do CPP.
+Publique-se e intimem-se.
