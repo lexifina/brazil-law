@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ FERNANDO APARECIDO DE OLIVEIRA contra decisão que inadmitiu recurso especial com fundamento na ausência de prequestionamento e na incidência das Súmulas n. 83 e 283 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 1.093):
+AGRAVO EM EXECUÇÃO - REMIÇÃO DA PENA - INSURGÊNCIA DA DEFESA -CONCLUSÃO DE ENSINO MÉDIO CERTIFICADA PELA APROVAÇÃO NO ENCCEJA - INTERPRETAÇÃO EXTENSIVA DO ART. 126, DA LEP - CÁLCULO EFETUADO NOS TERMOS DA RECOMENDAÇÃO Nº 44/2013, DO CNJ, C/C OART. 4º, INCS. II E III, DA RESOLUÇÃO Nº 03/2010 DO CNE E, AINDA, ACRESCIDO DO BÔNUS DE 1/3 (UM TERÇO) PELA CONCLUSÃO DO CURSO DURANTE O CUMPRIMENTO DA PENA (ART. 126, § 5º, DA LEP) - A PENA DO QUE TEM DIREITO À REMIÇÃO DE 66 DIAS DE SUA REPRIMENDA - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, o recorrente alega violação dos arts. 126 da Lei de Execuções Penais e24,I, da Lei n. 9.394/1996.
+Sustenta que (fls. 1.122- 1.125):
+O art. 126 da LEP prevê que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir pelo estudo parte do tempo de execução da pena. Reforçando o instituto acima, a Recomendação nº 44 do Conselho Nacional de Justiça, em seu art. 1º, inciso IV, ampliou a interpretação do art. 126 da LEP, assegurando a remição da pena pela  ..  aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM), a fim de se dar plena aplicação ao disposto no § 5º do art. 126 da LEP (Lei n. 7.210/84)  .. ".
+Nessa seara, o acórdão reconheceu a existência de 800 horas de estudo, com acréscimo de 1/3 por conclusão do Ensino Fundamental. Contudo, o cálculo não foi adotado de forma correta.
+Isso porque o Superior Tribunal de Justiça firmou entendimento no sentido de que, segundo a Lei n. 9.394/1996 (art. 24, 1), a carga horária total do ensino fundamental corresponde a 3.200 horas. Desse modo, a base de cálculo, para o casode o apenado não frequentar curso regular, mas estudar por conta própria, é de 50%, ou seja, 1.600 horas, no caso de estudo fundamental, conforme art. 1º, IV da Recomendação n. 44/2013 do Conselho Nacional de Justiça. Assim, conclui-se que as 1600 horas dividas por 12 resultam em 133 dias remidos, que acrescidos de 1/3, equivalem a 178 dias remidos.
+ ..
+Diante desse cenário, considerando que a carga horária relativa ao estudo fundamental é de 3.200 horas, o correto é retirar, desse montante, 50%, perfazendo, 1.600 horas, e não dividir 1.600 horas por 2, chegando a 800 horas. Assim, dividindo-se 1.600 por 12, nos termos do art. 126, § 1º, da LEP, chega-se a 133,33 dias de remição, devendo sobre esse importe ser acrescido 1/3  44.44  em razão da conclusão do ensino fundamental - 133.33  44.44 = 177.77  arredondando-se, 178 .
+ ..
+Assim sendo, a decisão destoa do entendimento desta Corte. Desta forma, conforme a Lei n. 9.394/1996 (art. 24, I), a carga horária total do ensino fundamental corresponde a 3.200 horas, sendo o correto retirar desse montante 50%, perfazendo, 1.600 horas, e não dividir 1.600 horas por 2, chegando a 800 horas. De modo que, dividindo-se 1.600 por 12, nos termos do art. 126, § 1º, da LEP, chega-se a 133,33 dias de remição, devendo sobre esse importe ser acrescido 1/3  44.44  em razão da conclusão do ensino fundamental, o qual se arredondado, resulta em 178 (cento e setenta e oito) dias.
+Requer o conhecimento e provimento do recurso especial para reformar o acórdão e restabelecer a decisão de primeiro grau que concluiu pela remição de 178 dias pela conclusão do ensino fundamental.
+As contrarrazões foram apresentadas às fls. 1.133-1.138.
+Inadmitido o recurso na origem (fls. 1.142-1.144), foi interposto o presente agravo em recurso especial (fls. 1.153-1.160).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 1.187-1.193).
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+O acórdão recorrido negou provimento ao agravo em execução interposto pela defesa, sob o fundamento de que o apenado faz jusà remição de 66 dias de sua reprimenda, em razão da sua conclusão de ensino médio, certificada pela aprovação no ENCCEJA.
+Nas razões do recurso especial, o ora recorrente suscita violação dos arts.126 da Lei de Execução Penale 24, I, da Lei n. 9.394/1996, sob o fundamento de que o apenado faz jus à remição de 178 dias pela sua conclusão no ensino fundamental.
+Nesse contexto, verifica-se que a questão objeto de julgamento pelo acórdão recorrido -remição referente à conclusão de ensino médio-não guarda correspondência com a insurgência do recorrente, expostas nas razões do apelo extremo -remição referente à conclusão de ensino fundamental -, sendo assim, aplica-se ao caso aSúmula n. 284 do STF, in verbis:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, conheço doagravo para negar provimento aorecurso especial.
+Publique-se. Intimem-se.
