@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSA MARIA DA SILVA BESIO (ROSA MARIA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado:
+AGRAVO INTERNO. AÇÃO RESCISÓRIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. NULIDADE DE CITAÇÃO. PRECLUSÃO. PENHORA DE SALÁRIO. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. I - A ação rescisória foi proposta para veicular pretensão declaratória de nulidade de citação, questão preclusa, uma vez que não foi alegada no primeiro momento em que a autora, então devedora, manifestou-se no cumprimento de sentença originário, ao apresentar impugnação à penhora, e como sucedâneo recursal, porque não impugnou, adequada e tempestivamente, no processo originário, a decisão que deferiu a penhora sobre percentual do seu salário. Mantida a decisão de indeferimento da inicial da rescisória, inadmissível, por inadequação da via eleita. II - Agravo interno desprovido.
+Irresignada, ROSA MARIAinterpôsrecurso especial com base no art. 105, III,a, da CF, apontando a violação dos arts. 105, 239 e 280do NCPC, alegando que a impugnação à penhora, realizada após a primeira manifestação dos autos, não pode ser considerada comparecimento espontâneo, uma vez que seu primeiro patrono não tinha poderes especiais para receber citação.
+O recurso não foi admitido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, por incidirem, no caso, as Súmulas nºs 283 e 284do STF(e-STJ, fls. 229/230).
+Nas razões do presente agravo, ROSA MARIA DA SILVA BESIOrefutaos referidos óbices de prelibação (e-STJ, fls. 236/241).
+Foiapresentada contraminuta (e-STJ, fls. 246/249).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da incidência da Súmula nº283 do STF, por analogia
+Nas razões do presente recurso, ROSA MARIAafirmou a violação dos arts.105, 239 e 280do NCPC, alegando que a impugnação à penhora, realizada após a primeira manifestação dos autos, não pode ser considerada comparecimento espontâneo, uma vez que seu primeiro patrono não tinha poderes especiais para receber citação.
+Contudo, da acurada análise do acórdão recorrido é possível verificar que o TJDFTconsignou que:
+As razões deduzidas neste agravo interno não procedem, pois (i) a decisão agravada não está fundamentada, tão somente, na inadequação da ação rescisória para alegar nulidade de citação; (ii) a decisão agravada não versa sobre o disposto no art. 105 do CPC, ou seja, se o Advogado tinha poderes especiais ou não para receber citação, até porque a autora, ré na demanda originária, foi citada por edital e apresentou defesa pela Curadoria de Ausentes; (iii) a autora, em nenhum momento na ação originária, suscitou a nulidade da sua citação, embora tenha comparecido àqueles autos para impugnar a penhora on-line efetivada na sua sua conta-corrente; e (iv) é evidente que a autora pretende a suspensão da penhora determinada sobre percentual do seu salário, uma vez que a r. decisão do i. Juízo a quo que assim determinou não foi impugnada mediante recurso tempestivo e cabível (e-STJ, fl. 181).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO INTERNO. AÇÃO RESCISÓRIA. NULIDADE DE CITAÇÃO. PRECLUSÃO. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. ANALOGIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
