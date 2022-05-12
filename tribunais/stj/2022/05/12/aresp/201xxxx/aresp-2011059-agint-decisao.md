@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno apresentado por Izabel de Souza Ribeirocontra decisão monocrática do Presidente do STJ que não conheceu doagravo em recurso especial em razão da sua intempestividade.
+O agravante aduz, em suma, as mesmas razões de recorrer trazidas em sedede recurso especial e defendeu a tempestividade do recurso, levando-se em consideração a ocorrência do recesso forense.
+É o relatório.
+Compulsando os autos, observa-se que a decisão agravada merece serreconsiderada, uma vez que no caso concreto, evidencia-se que o Tribunal Regional Federal da 3ªRegião deixou de funcionar durante o recesso forense, de sorte que aintimação uma vez disponibilizada no dia 13/01/2021, somente pôde serconsiderada publicada no dia 21/01/2021, suspendendo-se o prazo entre20/12/2020 até 20/01/2021, e portanto, considera-se findo o prazo em11/02/2021 o que justifica, pois, a interposição do agravo em recursoespecial no dia 11/02/2021.
+Uma vez reconsiderada a inadmissibilidade do agravo em recurso especial e observando-se que houve o combate aos fundamento da decisão que inadmitiu orecurso especial,prossegue-se no conhecimento do recurso.
+O recurso especial que se pretende o seguimento impugna acórdãoassim ementado:
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AGRAVO LEGAL. APLICAÇÃO DO ART. F DA LEI 9.494/97. DE I ERMINAÇÃO EXPRESSA NO TÍTULO EXECUTIVO. AGRAVO DESPROVIDO.
+1. Não havendo sido declarado inconstitucional o Art. P-F da Lei 9.494/97 no período que antecede a expedição do precatório, deve ser analisada a aplicação do referido dispositivo à luz do que dispõe o título executivo.
+2. É devida a aplicação do Art. 1º-F da Lei 9.494/97, conforme determinação expressa da decisão.
+3. Agravo desprovido.
+Em suas razões de recurso especial, requer a determinaçãodo pagamento de todas as verbas devidas a recorrente, e sobre tais valores seja aplicado a correção monetária pelo INPC, nos termos do art. 41 - A, da Lei 8213/1991, Res. 267/2013 do CJF, ou IPCA-E, nos termos do art. 27, da Lei 12.919/2013,
+O prazo para apresentação de contrarrazões ao recurso especial transcorreuin albis.
+No mérito, cinge-se a controvérsia a definir se é possível, em fase de cumprimento desentença, alterar os critérios de atualização dos cálculos estabelecidosna decisão transitada em julgado, a fim de adequá-los ao entendimentofirmado pelo Supremo Tribunal Federal em repercussão geral.
+Como bem pontuado nos autos do Resp 1.861550/DF, o Supremo TribunalFederal nos autos do RE 730.462 apontou duas consequências para adeclaração de inconstitucionalidade distintas, quais sejam, manter ou excluir a norma do sistema do direito; e atribuir ao julgado umaqualificada força impositiva e obrigatória em relação a supervenientesatos administrativos ou judiciais, denominada de eficácia executiva.
+Com relação a esta última consequência, definiu a Suprema Corte que aeficácia executiva da declaração de inconstitucionalidade tem como termoinicial a data da publicação do acórdão do Supremo no Diário Oficial (art.28 da Lei n. 9.868/1999), atingindo apenas os atos administrativos ejudiciais supervenientes.
+Por conseguinte, firmou-se a seguinte tese de repercussão geral:" ..  adecisão do Supremo Tribunal Federal declarando a constitucionalidade ou ainconstitucionalidade de preceito normativo não produz a automáticareforma ou rescisão das sentenças anteriores que tenham adotadoentendimento diferente; para que tal ocorra, será indispensável ainterposição do recurso próprio ou, se for o caso, a propositura da açãorescisóriaprópria, nos termos do art. 485, V, do CPC, observado orespectivo prazo decadencial (CPC, art. 495)."
+Sem que a decisão acobertada pela coisa julgada tenha sido desconstituída,não é cabível ao juízo da fase de cumprimento de sentença alterar osparâmetros estabelecidos no título judicial, ainda que no intuito deadequá-los à decisão vinculante do STF.
+Nesse sentido, colaciono o seguinte precedente desta Corte:
+PROCESSO CIVIL E FINANCEIRO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO N. 3/STJ. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINOFUNDAMENTAL (FUNDEF). EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA.CORREÇÃO MONETÁRIA E JUROS DE MORA. COISA JULGADA.AGRAVO INTERNOPARCIALMENTE PROVIDO.
+1. Cinge-se a controvérsia acerca da possibilidade deaplicação imediata às ações em curso da Lei 11.960/09, que veio alterar aredação do artigo 1º-F da Lei 9.494/97, para disciplinar os critérios decorreção monetária e de juros de mora a serem observadosnas "condenaçõesimpostas à Fazenda Pública, independentemente de sua natureza", quaissejam, "os índices oficiais de remuneração básica e juros aplicados àcaderneta de poupança".
+2. Impende mencionar que houve o prequestionamentodo tema concernente à aplicação dos juros de mora, nos termos daLei 11.960/2009.3. Colhe-se dos autos, que a decisão exequenda determinoua utilização da taxa SELIC para atualização das parcelas pretéritas. Emrazão da necessidade de se preservar a coisa julgada, não é possível areforma do acórdão recorrido.
+4. Agravo interno parcialmente provido.(AgIntno REsp 1.622.340/PE, minha relatoria, julgado em 19/2/2019, DJe26/2/2019)
+Ante o exposto, conheço do agravo interno para, em juízo de retratação,reconsiderar a decisão agravada e, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial,nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. ÍNDICE DE CORREÇÃOMONETÁRIA. CONDENAÇÃO DE NATUREZA PREVIDENCIÁRIA. EMBARGOS À EXECUÇÃO.
+CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA E JUROS DEMORA. COISAJULGADA. DECISÃO DA PRESIDÊNCIA RECONSIDERADA.AGRAVO CONHECIDO PARA NEGARPROVIMENTO AO RECURSO ESPECIAL.
