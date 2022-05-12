@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pela CAIXA DE ASSISTÊNCIA, APOSENTADORIA E PENSÕES DOS SERVIDORES MUNICIPAIS DE LONDRINA contra decisão que inadmitiu recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CUSTAS DE PROCESSAMENTO DE PRECATÓRIO REQUISITÓRIO. CÁLCULO CORRETO. TABELA IX, ITEM VII, ALÍNEA "A" DO REGIMENTO DE CUSTAS. DECISÃO MANTIDA.
+RECURSO DESPROVIDO.
+1. O cálculo das custas de processamento de precatório requisitório deve obedecer a alínea "a", do item VII da Tabela IX do Regimento de Custas do Tribunal de Justiça do Paraná, nos termos do que restou decidido pela Corregedoria Geral de Justiça, e pelo Enunciado nº 31 do FUNJUS.
+Atribuiu-se à causa o valor de R$ 1.303,99.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 108, §1º, e 109, do CTN, alegando, em síntese, que o pagamento das custas judiciais referentes à expedição do precatório são ilegais por possuírem natureza jurídica de taxa e necessitam de expressa previsão legal.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo a recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Embora a parte recorrente tenha alegado a violação de dispositivo legal federal, a análise do acórdão recorrido revela que o Tribunal de origem fundamentou a sua decisão na interpretação da legislação local, conforme se infere do exposto no fragmento do voto condutor transcrito a seguir:
+Consigne-se que as custas judiciais para a expedição de precatório requisitório são regidas pela Lei Estadual nº 6.149/70.
+Ainda, como bem observado na decisão agravada, tem-se que restou decidido no processo administrativo julgado pela Corregedoria Geral de Justiça do Paraná (PA nº 0021709-93.2015.8.16.6000), que "a base legal para a cobrança de Precatório é a alínea "a" item VII da tabela IX, anexa ao Regimento de Custas: requisitório de pagamento.".
+E o fundamento para tal determinação reside no fato de que "a cobrança de custas nessas hipóteses serve para remunerar o serviço judiciário prestado no processamento do pedido de expedição do precatório como, por exemplo, as conferências de praxe, as providências para que o processo vá concluso ao juiz, a própria decisão judicial que formula o pedido de pagamento ao tribunal etc."
+No mesmo sentido, o Enunciado nº 31 do FUNJUS estabelece que: "as custas para o processamento de Precatório devem ser cotadas com base na alínea "a" do item VII da tabela IX, anexa ao Regimento de Custas: requisitório . de pagamento."
+Desta forma, tendo o cálculo elaborado pelo Sr. Contador Judicial respeitado o Enunciado do Funjus, além de estar de acordo com o que determina a Corregedoria Geral de Justiça, não há que se falar em ofensa ao princípio da legalidade.
+Depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Sendo assim, a resolução da questão controvertida com fundamento na interpretação da legislação local inviabiliza a apreciação da controvérsia por esta Corte Superior, na via estreita do recurso especial, uma vez que atrai a incidência, por analogia, do óbice ao conhecimento recursal constante do enunciado da Súmula n. 280 do STF, segundo o qual in verbis: "Por ofensa a direito local não cabe recurso extraordinário".
+E em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do Superior Tribunal de Justiça, o óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c. (AgInt no AREsp 1474339/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/10/2019, DJe 07/10/2019, REsp 1780760/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2019, DJe 11/10/2019).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
