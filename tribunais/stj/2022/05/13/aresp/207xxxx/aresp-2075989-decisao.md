@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃOREVISIONAL DE CONTRATO BANCÁRIO. DECISÃO INTERLOCUTÓRIA QUE REJEITA A IMPUGNAÇÃO. RECURSO DA INSTITUIÇÃO FINANCEIRA EXECUTADA/IMPUGNANTE. ARGUIÇÃO DE ILIQUIDEZ DO TÍTULO EXECUTIVO JUDICIAL A NECESSITAR DE LIQUIDAÇÃO POR ARBITRAMENTO. TESE REFUTADA. POSSIBILIDADE DE CUMPRIMENTO DE SENTENÇA POR SIMPLES CÁLCULOS ARITMÉTICOS, NA FORMA DO ARTIGO 509 DO CPC/2015. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 509, I, e 510 do Código de Processo Civil sob o argumento de que seria necessário liquidação por arbitramento previamente ao cumprimento de sentença.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que se trata de cumprimento de sentença proferida na"Ação Revisional dos autos 0018182-59.2008.8.24.0018, em que a Sentença julgou procedente o pedido do adverso para, resumidamente, limitar a taxa de juros remuneratórios ao percentual de 12% a.a.; vedar a incidência de capitalização de juros; vedar a incidência de comissão de permanência, possibilitando a cobrança dos juros moratórios em 1% a.a. e multa de 2%, além da correção monetária; estabeleceu ainda o INPC como o indexador do cálculo; descaracterizar a mora do devedor; condenar o requerido à restituição do indébito ou compensação, na forma simples; e, em honorários advocatícios e custas processuais; tudo em relação a operação 20/00001-4 ou outras da mesma natureza" (e-STJ, fl. 95).
+O Tribunal local concluiu que "o procedimento alvitrado pelo banco agravante revela-se desnecessário no cumprimento de sentença dadas em demandas revisionais de contratos bancários, porquanto se a obrigação pode ser extraída de cálculos aritméticos é pelo fato de não ser ilíquida, ou seja, não depender de elementos extrínsecos ao título para se aferir o quantum debeatur.
+A propósito, não é despiciendo observar que se a parte executada discordar do cálculo apresentado pelo exequente, poderá combatê-lo por excesso de execução (§ 4º do art. 525 do CPC), admitindo-se, ainda, a hipótese, de o juiz valer-se do contador do juízo para verificação dos cálculos (§ 2º do art. 524 do CPC)" (e-STJ, fl. 97).
+A conclusão de que não é necessária a liquidação é imune ao crivo do recurso especial, por depender de reexame dos elementos informativos do processo, o que encontra o óbice de que trata o verbete n. 7 da Súmula desta Casa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. SFH. AÇÃO REVISIONAL. DISCUSSÃO SOBRE A NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. APURAÇÃO DO VALOR POR CÁLCULOS ARITMÉTICOS. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O acolhimento da pretensão recursal sobre a alegada necessidade de liquidação de sentença por arbitramento, mediante a elaboração de cálculo por perito judicial, demanda o reexame da matéria fático-probatória, o que atrai a incidência da Súmula 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 974.144/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/8/2017, DJe 28/8/2017)
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
