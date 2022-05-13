@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONDOMÍNIO OÁSIS RESORT DE MORARcontra decisão singular da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em virtude da ausência de impugnação aofundamentode não comprovação da violação do art. 1.022 do Código(e-STJ, fls. 571/573).
+Nas razões do seu agravo interno, o agravante afirma que foi demonstrada a violação doart. 1.022do Código de Processo Civil/2015, devendo ser afastada a ausência de impugnação.
+Verifico que, de fato,o referido fundamentofoidevidamente impugnadonas razões do agravo em recurso especial, motivo pelo qual reconsidero a decisão de fls. 571/573, de lavra da Presidência do Superior Tribunal de Justiça, tornando-a sem efeito.
+Assim, conheço do agravo e passo à análise do recurso especial.
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 383):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZATÓRIA. AUTORES ALEGAM QUE FICARAM IMPOSSIBILITADOS DE TOMAR POSSE DO BEM. CONDOMÍNIO ALEGA AUSÊNCIA DE QUITAÇÃO E AUTORIZAÇÃO POR PARTE DA CONSTRUTORA. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO DA RÉ. CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS QUE DEMONSTRA O ATO ILÍCITO PRATICADO PELO APELANTE AO CERCEAR O DIREITO AO EXECRÍCIO DA POSSE E PROPRIEDADE DO IMÓVEL REGULARMENTE ADQUIRIDO, NÃO SE DESINCUMBINDO, ASSIM, DO ÔNUS QUE LHE COMPETE POR FORÇA DO ART. 373, II, DO CPC/2015. DANO MORAL CONFIGURADO. QUANTUMINDENIZATÓRIA FIXADO DE ACORDO COM OS PARÂMETROS UTILIZADOS POR ESTA CORTE DE JUSTIÇA, E EM OBSERVÂNCIA AOS CRITÉRIOS DA RAZOABILIDADE E PROPORCIONALIDADE. PRECEDENTES JURISPRUDENCIAIS. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. DESPROVIMENTO DO RECURSO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação doart. 1.022 do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem sobre otema elencado nos embargos de declaração.
+Afirma a negativa de vigência dos arts. 462, 463, 464, 465 e 466, todos do Código Civil, em virtude da impossibilidade de reconhecimento da promessa de compra e venda como título de propriedade.
+Alega a violação do art. 1.348, II, do CC em virtude da possibilidade do síndico de defender os interesses do Condomínio.
+E, aduza existência de dissídio jurisprudencial sobre o tema da responsabilidade pelo pagamento das obrigações condominiais, afirmando que essas somente seiniciamapós a imissão de posse.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Nas razões do seu recurso, o recorrente alegou a violação do art. 1.022 do CPC/2015 em virtude da omissão do Tribunal de origem sobre os temas apresentados nos embargos de declaração.
+Não houve, contudo, a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STFpor analogia.
+No mérito, o Tribunal de origem consignou que a propriedade e posse estavam comprovadas, ressaltando que, desde 2015, eram emitidos boletos pela administradora do condomínio. Confira-se:
+Com efeito, no caso concreto, o conjunto probatório constante dos autos demonstra, de forma inconteste, mormente pela leitura da sentença de fls. 23/69, confirmada em grau de apelação, que os recorridos sempre obtiveram a propriedade e posse do imóvel, o que se confirma pelo instrumento particular de promessa de compra e venda realizado com CHL XLVI Incorporações Ltda. e PDG Realty S/A Empreendimentos e Participações, e pelos boletos emitidos pela administradora do condomínio, frise-se, desde o ano de 2015,ou seja, três anos antes do ajuizamento desta demanda  ..  (fl.386).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela comprovação da posse e da propriedade pelos recorridos, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Quanto ao mais, não há como ser analisada a alegação de violação dos arts. 462, 463, 464, 465 e 466, todos do CC, e a impossibilidade de reconhecimento da promessa de compra e venda como título de propriedade, bem como a violação doart. 1.348, II, do CC ea possibilidade do síndico de defender os interesses do Condomínio, em virtude da falta de prequestionamento, uma vez que o Tribunal de origem não analisou o caso à luz dos requisitos trazidos nas razões do presente recurso.
+Incide, quanto aos temas, o óbice da Súmula 282 do STF, por analogia.
+Em face do exposto, conheço do agravo e nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
