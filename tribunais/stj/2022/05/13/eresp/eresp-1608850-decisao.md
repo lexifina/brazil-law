@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência opostos por KAMILLA PEDROSO PICININ BALAU em face de acórdão prolatado pela Quarta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno da ora embargante, nos termos da seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO COMINATÓRIA C/C INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA REQUERIDA.
+1. Não se aplica o prazo em dobro previsto no art. 191 do CPC/1973, às hipóteses em que os litisconsortes outorgam procuração ao mesmo grupo de advogados integrantes de mesmo escritório profissional. Precedentes.
+2. Agravo interno desprovido. (e-STJ, fl. 807)
+Em suas razões, a ora embargante aponta, como dissídio, os seguintes julgados: AgInt no REsp nº 1.932.548/SP eAgInt no AREsp 1.782.051/PR, ambos da3ª Turma.
+Afirma, em síntese, que "(..) a recusa indevida de cobertura por parte da operadora de plano de saúde a tratamento ao qual esteja legalmente ou contratualmente submetido o beneficiário faz nascer danos morais in re ipsa. Isso porque, configura-se o agravamento da situação de aflição psicológica e de angústia no espírito daquele que, fragilizado, necessita de cuidados médicos. Ainda, tal situação subsiste mesmo em situações nas quais tal recusa envolve apenas exames clínicos rotineiros, uma vez que a procura por serviços médicos, ainda que não tenham caráter de urgência, gera no indivíduo alguma apreensão" (e-STJ, fl. 761).
+Impugnação juntada às fls. 828/839 (e-STJ).
+O MPF ofertou parecer no sentido do provimento do apelo recursal, assim ementado:
+DIREITO CIVIL. PLANO DE SAÚDE. TRATAMENTO MÉDICO. TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ QUE AFASTOU O CUSTEIO DO TRATAMENTO A PACIENTE NECESSITADO DE PLÁSTICA PÓSCIRURGIA BARIÁTRICA, NOS TERMOS DO CÓDIGO DEDEFESA DO CONSUMIDOR. QUARTA TURMA DO STJQUE, AO JULGAR O RECURSO ESPECIAL, RECONHECEU COMO INCABÍVEL A FIXAÇÃO DE DANOS MORAIS ANTE A NÃO COBERTURA DO TRATAMENTO INDICADO AO PACIENTE. CITAÇÃO DE ACÓRDÃO PARADIGMA QUE RECONHECE A RESPONSABILIDADE DE CUSTEIO PELA OPERADORA DE PLANO DE SAÚDE, POIS NÃO CABE A OPERADORA DETERMINAR OS TRATAMENTOS RECOMENDADOS, QUANDO INDICADOS POR MÉDICO QUE ACOMPANHA O PACIENTE. ACÓRDÃO PARADIGMA QUE RECONHECE A POSSIBILIDADE DE REPARAÇÃO POR DANOS MORAIS. DIVERGÊNCIA DEMONSTRADA. NECESSIDADE DE RECONHECIMENTO DA DIVERGÊNCIA, COM A DETERMINAÇÃO DE QUE, DIANTE DO ROL MERAMENTE EXEMPLIFICATIVO DOS TRATAMENTOS LISTADOS PELA ANS, DEVE O PLANO DE SAÚDE CUSTEAR O TRATAMENTO INDICADO PELO MÉDICO DO PACIENTE E REPARAR PELOS DANOS MORAIS SOFRIDOS COM A RECUSA DO CUSTEIO DO TRATAMENTO.PARECER PELO PROVIMENTO DOS EMBARGOS DE DIVERGÊNCIA. (e-STJ, fls. 841/846)
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pela embargante não está configurado, na medida em que não há confronto jurisprudencial entre o entendimento adotado pelo acórdão proferido pela 4ª Turma e os paradigmas colacionados (AgInt no REsp nº 1.932.548/SP e AgInt no AREsp 1.782.051/PR).
+Ao contrário, a tese jurídica ligada às orientações constantes dos arestos paradigmas está expressamente reafirmada no acórdão embargado, quando se assevera, citando precedentes do STJque o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, leva ao arbitramento do dano moral.
+Contudo, as circunstâncias fáticas de cada caso, permitiram conclusões diversas, uma vez que o acórdão embargado afastou a possibilidade de reparação a título de danos morais, pois não houve oagravamento da condição de dor, abalo psicológico ou prejuízos à saúde dapaciente. Já os acórdãos paradigmas evidenciaram hipótese de incremento do abalo psicológico, culminando no dano moral (e-STJ, fls. 776 e 793).
+Na verdade, a pretensão da embargantese restringe à retificação das premissas firmadas pela 4ª Turma acerca do próprio objeto da demanda.
+Bem se vê, portanto, que a divergência suscitada pelaembargante não se refere propriamente à tese jurídica adotada pelo acórdão embargado, mas sim às premissas fáticas/probatórias por ele adotadas.
+Ressalte-se, por oportuno, que "os embargos de divergência são cabíveis para compor eventual dissídio de teses jurídicas em sede de recurso especial, não sendo admissíveis para revisar acerto ou desacerto da decisão embargada" (AgRg nos EAREsp 744.127/RN, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 15/02/2017, DJe 24/02/2017).
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro os embargos de divergência.
+Advirto às partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO NÃO DEMONSTRADO. INEXISTÊNCIA DE DECISÕES CONFLITANTES. ACÓRDÃOS POSTOS À CONFRONTAÇÃO QUE APLICARAM A MESMA TESE JURÍDICA. DISCUSSÃO QUE NÃO SE REFERE PROPRIAMENTE À TESE, MAS ÀS PREMISSAS FÁTICAS E PROBATÓRIAS ADOTADAS. DESCABIMENTO DO RECURSO.
+EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
