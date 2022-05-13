@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+SEBASTIÃO MADRUGA NETO opõe embargos de declaração ao acórdão de fls. 860-862, por meio do qual a Quinta Turma negou provimento aagravo regimental para confirmar a intempestividade do recurso especial.
+Alega o embargante que a tempestividade do apelo raro "foi evidenciada pelo juízo de admissibilidade do Tribunal de Justiça do Rio Grande do Norte de forma explícita" (fl. 866) ao proferir a decisão de inadmissão do recurso, conforme demonstra.
+Aduz que o próprio sistema PJe automaticamente fixa os prazos nos períodos de festa nos processos em tramitação no Estado.
+Pontua que o art. 932, parágrafo único, do CPC/2015 prevê a concessão de prazo de 5 dias para que se possa corrigireventual vício existente no recurso, o que não ocorreu na espécie.
+Requer seja sanada a contradição apontada e reconhecida a tempestividade do recuso especial.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL.CONTRADIÇÃO INEXISTENTE. TEMPESTIVIDADE RECONHECIDA NA ORIGEM. DUPLO JUÍZO DE ADMISSIBILIDADE. VÍCIO INSANÁVEL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal,os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado.
+2. Acontradição que autoriza a oposição de embargos de declaração é aquela existente entre as premissas do julgado ou entre elas e a conclusão nele firmada, jamais a contradição do julgado com a lei, com o entendimento da parte, com os fatos e provas dos autos ou com o entendimento adotado em outros julgados.
+3. Orecurso especial está sujeito a duplo juízo de admissibilidade, de modo que a decisão do tribunal local que o considere tempestivo não vincula o Superior Tribunal de Justiça, sendo necessária a comprovação, no ato de sua interposição, da existência de feriado local, recesso forense ou outro evento que altere o vencimento do prazo recursal.
+4.OSuperior Tribunal de Justiça considera a intempestividade como vício insanável, não se admitindo, por isso, a concessão de prazo para que a parte comprove a existência de causa de suspensão dos prazos processuais na origem.
+5. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "a contradição que autoriza a oposição deembargos de declaração é aquelaexistente entre as premissas do julgado ou entre elas e a conclusão nele firmada, jamais a contradição do julgado com a lei, com o entendimento da parte, com os fatos e provas dos autos ou com o entendimento adotado em outros julgados" (EDcl no AgRg no AREsp n. 1.819.158/ES, de minha relatoria, Quinta Turma, DJe de 31/3/2022).
+Não há, portanto, na espécie, contradição no acórdão embargado, mas mero inconformismo da parte com o resultado do julgamento, circunstância que não pode ser obviada por meio dos declaratórios.
+Cumpre registrar, ademais, que o recurso especial está sujeito a duplo juízo de admissibilidade, de modo que a decisão do tribunal local que o considere tempestivo não vincula o Superior Tribunal de Justiça, sendo necessária a comprovação da existência de feriado local, recesso forense ou outro evento que altere o vencimento do prazo recursal.
+Confira-se precedente:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. Na espécie, o recurso especial é manifestamente intempestivo, porquanto consta dos autos que o decisum proferido pelo Tribunal a quo, no julgamento do apelo defensivo, foi disponibilizado no Diário de Justiça Eletrônico - DJe em 8/1/2021 (sexta-feira), considerando-se publicado em 11/1/2021 (segunda-feira), conforme certidão acostada à e-STJ fl. 1119. Desse modo, a contagem do prazo teve início em 12/1/2021 (terça-feira), tendo o recurso sido interposto somente em 4/2/2021, isto é, quando já ultrapassado o prazo recursal, sem qualquer comprovação, no ato da interposição, de suspensão do expediente forense no âmbito do Tribunal de origem.
+3. O recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais. Assim, o reconhecimento da tempestividade pelo Tribunal de origem não vincula este Superior Tribunal de Justiça, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Precedentes.
+4. Agravo regimental não provido (AgRg no AREsp n. 2.065.205/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de25/4/2022, destaquei.)
+Consigne-se aindaque,embora o agravante afirme que "o próprio sistema do PJe Estadual, automaticamente, delimita a data final dos expedientes processuais neste período de Festas para os processos de sua tramitação" (fls. 868-869), não há nos autos nenhum elementoque corroborea assertiva, a qual deveria ter sido deduzida no momento da interposição do recurso especial, acompanhada de documento idôneo que a comprovasse.
+Por fim, o Superior Tribunal de Justiça considera a intempestividade como vício insanável, não se admitindo, por isso, a concessão de prazo para que a parte comprove a existência de causa de suspensão dos prazos processuais na origem.
+Com efeito, no julgamento do AREsp n. 957.821/MS, definiu-se que " ..  a intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de19/12/2017).
+Ante o exposto, tendo em vista que o acórdãonão ostenta ovício da contradição apontado pelo embargante, rejeito os embargos de declaração.
+É como voto.
