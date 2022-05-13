@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão, às fls. 87-98, a qual não conheceu do habeas corpus substitutivo de recurso ordinário, impetrado em favor de GEOVANI CASSIO MACHADO, tendo todavia concedido, parcialmente, a ordem apenas para compatibilizar a prisão cautelar com regime de cumprimento de pena estabelecido na sentença.
+Depreende-se dos autos que o Agravante foi condenado à pena de 2 (dois) anos de reclusão, a ser cumprida inicialmente, em regime semiaberto, pela prática do delito de furto qualificado, mantida a segregação cautelar.
+Nas razões do recurso, o agravante repisa as argumentações já exaradas em sede de habeas corpus, alegando a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a negativa de recorrer em liberdade.
+Requer, assim, a reconsideração da decisão objurgada, ou, em caso de entendimento diverso, a submissão ao colegiado.
+É o relatório.
+Decido.
+Consoante as informações prestadas, às fls. 117-125,o em. Ministro Alexandre de Moraesproferiu decisão no HC n. 215.260/SC/STF, em 10/5/2022, revogando a prisão cautelar do ora Agravante.
+Nesse sentido,transcrevo trechos da decisão do Supremo Tribunal Federal, que, assim, consignou,verbis:
+"Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pelo Ministro JESSUÍNO RISSATO (Desembargador convocado), do Superior Tribunal de Justiça, no HC 726.854/SC.
+Consta dos autos, em síntese, que o paciente foi condenado à pena de 2 anos de reclusão, em regime semiaberto, pela prática do crime de furto qualificado (art. 155, §4º, IV, do Código Penal). Foi-lhe negado o direito de recorrer em liberdade.
+ ..
+Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem. Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, cujo Ministro relator concedeu, em parte, a ordem, apenas para, confirmando a liminar, determinar que a prisão preventiva do paciente seja compatibilizada com o regime semiaberto, fixado na sentença, salvo se estiver preso por outro motivo.
+Nesta ação, o impetrante alega, em síntese: é manifesto o constrangimento ilegal em face do Paciente, porquanto condenado em regime semiaberto e, contrapartida, inviabilizado de recorrer em liberdade, sob o argumento de subsistência dos elementos que ensejam a prisão preventiva. Requer, assim, a concessão da ordem, para revogar o decreto prisional. É o relatório. Decido.
+ ..
+Na presente hipótese, não houve a devida compatibilização, pois os elementos indicados pelas instâncias antecedentes revelam-se insuficientes para justificar a medida cautelar extrema, pois o paciente foi condenado ao cumprimento de pena privativa de liberdade em regime inicial semiaberto.
+Sendo esse o quadro, eventual manutenção da prisão preventiva em regime semiaberto, além de carecer de amparo legal, desvirtua o instituto da prisão cautelar, que, como se sabe, pressupõe cerceamento pleno do direito de locomoção. Tal situação acarretaria a admissão de verdadeira antecipação do cumprimento da pena sem a definição da responsabilidade criminal do acusado.
+A prisão não se revela, portanto, adequada e proporcional, podendo ser eficazmente substituída por medidas alternativas (CPP, art. 319), conforme já afirmou esta CORTE em diversos julgados: HC 115.786, Rel. Min. GILMAR MENDES, 2ª Turma, DJe de 20/8/2013; HC 175.775/PR, Rel. Min. ALEXANDRE DE MORAES, DJe de 24/9/2019; HC 123.226, Rel. Min. DIAS TOFFOLI, 1ª Turma, unânime, DJe de 17/11/2014; HC 130.773, Rel. Min. ROSA WEBER, 1ª Turma, DJe de 23/11/2015; HC 136.397, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 13/2/2017, esse último assim ementado:
+ ..
+Diante do exposto, com base no art. 192, caput, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, CONCEDO A ORDEM DE HABEAS CORPUS, para revogar a prisão preventiva do paciente decretada nos autos do Processo 5008210-90.2021.8.24.0125 (Vara Criminal da Comarca de Itapema/SC), com a ressalva de que o Juízo competente fica autorizado a impor medidas cautelares diversas (art. 319 do CPP)"(fls. 119-124).
+Desse modo, tendo em vista que o ora Agravante atingiu o desiderato aduzido no habeas corpus, tenho que o recurso está prejudicado, por perda superveniente do interesse de agir, uma vez que já retornou ao seustatus libertatis. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TESE DE AUSÊNCIA DE PREJUDICIALIDADE DO RECURSO. PLEITO DE INCOMPETÊNCIA ABSOLUTA COMO FUNDAMENTO DO PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. POSTERIOR EXPEDIÇÃO DE ALVARÁ DE SOLTURA. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. RECURSO PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Magistrado de piso concedeu a liberdade provisória ao Agravante, consoante se depreende das informações prestadas pelo Juízo de origem.
+2. Verifica-se, no caso, a perda superveniente do interesse processual no provimento do recurso ordinário, porquanto, na petição recursal, o ora Agravante se manifestou sobre a incompetência absoluta da Justiça Estadual tão somente como fundamento para deslegitimar a manutenção da prisão cautelar - que foi revogada.
+3. Agravo regimental desprovido"(AgRg no RHC n. 108.707/AC,Sexta Turma, Rel. Min.ªLaurita Vaz, DJe de 20/5/2019, grifei).
+Ante o exposto,julgo prejudicado o habeas corpus e, consequentemente, o agravo regimental, por perda superveniente do interesse de agir.
+P. e I.
