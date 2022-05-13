@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE SEGURO HABITACIONAL. INTERLOCUTÓRIO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECURSO DA EXECUTADA. IRRESIGNAÇÃO CONTRA A INCIDÊNCIA DE JUROS SOBRE A MULTA DECENDIAL. INACOLHIMENTO. POSSIBILIDADE DE CUMULAÇÃO. ENUNCIADO SUMULAR N.º 16 DESTE TRIBUNAL DE JUSTIÇA DE SANTA CATARINA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Nas razões de recurso especial, a recorrente alega violação dos artigos 412 do Código Civil e 85 do Código de Processo Civil, além de divergência jurisprudencial.
+Merece reforma o acórdão recorrido, que consignou (fls. 230-231/e-STJ):
+No que tange à impossibilidade de incidência cumulada da multa decendial e dos juros de mora, não se verifica probabilidade de provimento da insurgência pois, nos termos do Enunciado Sumular n.º 16 deste Tribunal de Justiça "a multa cominatória a que se referiam os artigos 916 e seguintes do Código Civil revogado (objeto dos artigos 408 e seguintes do Novo Código Civil), incide sobre o valor da obrigação principal, corrigido, acrescido dos juros impostos na sentença, quando o litígio versar sobre seguro habitacional".
+Ante o exposto, voto no sentido de negar provimento ao recurso.
+Com efeito, o entendimento do Tribunal catarinense diverge do desta Corte, segundo o qual a multa decendial deve se limitar ao valor da obrigação principal, nos termos do artigo 412 do Código Civil, sem o acréscimo de juros (cf. AgInt no REsp 1.820.513/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14.6.2021, DJe 17.6.2021 e AgInt no REsp 1837780/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8.3.2021, DJe 10.3.2021).
+Em face do exposto, dou provimento ao recurso especial para excluir do cômputo da multa decendial a incidência de juros de mora; por conseguinte, em razão do parcial acolhimento da impugnação ao cumprimento de sentença, fixo a verba honorária em 10% (dez por cento) sobre o excesso decotado, em favor da executada.
+Intimem-se.
