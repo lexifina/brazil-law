@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Agência Nacional de Transportes Terrestres - ANTT, com amparo naalínea"a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJfl. 71):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. MANDADO DE PENHORA. INFOJUD. SERASAJUD.
+1. Mostra-se devida a expedição do mandado de averiguação, penhora e avaliação, a teor do inciso II do artigo 7º da Lei de Execução Fiscal, c/c o artigo 829, § 1º, do Código de Processo Civil.
+2. Conforme o entendimento desta Turma a respeito, a requisição judicial das informações obtidas por meio da ferramenta INFOJUD representam acesso a informações protegidas por sigilo fiscal e pressupõe que tenha o exequente procedido a esforços para localização de bens do devedor.
+3. Decidindo a tese objeto do Tema 1026, o Superior Tribunal de Justiça firmou: "O art. 782, § 3º do CPC é aplicável às execuções fiscais, devendo o magistrado deferir o requerimento de inclusão do nome do executado em cadastros de inadimplentes, preferencialmente pelo sistema SERASAJUD, independentemente do esgotamento prévio de outras medidas executivas, salvo se vislumbrar alguma dúvida razoável à existência do direito ao crédito previsto na Certidão de Dívida Ativa - CD".
+Os embargos de declaração opostos foram rejeitados (e-STJfls. 92-98).
+Alega arecorrente ofensa ao art. 1.022 do CPC/2015. Requer(e-STJfl. 105):
+ .. a decretação da nulidade do acórdão recorrido, a fim de que os autos retornem ao Tribunal Regional Federal, a fim de que este se manifeste sobre a omissão ocorrida, qual seja, análise integral das razões da Autarquia agravante no tocante à possibilidade de de consulta ao sistema INFOJUD.
+Aduz contrariedade aos arts. 652, § 3º,797e831do CPC/2015.Sustenta, em síntese," ..  que não háa necessidade do esgotamento de diligências para que seja requerida a consulta ao sistema INFOJUD" (e-STJfl. 106).
+Admitido o recurso especial na origem (e-STJfls. 113-114), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Inicialmente, não ocorre contrariedade ao art. 1.022 do CPC/2015 quando a Corte de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+Quanto ao mais, discute-se sobre a possibilidade de deferimento de consulta ao sistema Infojud antes do esgotamento de diligências para localização de bens do devedor.
+A Corte regional manteve o indeferimento do pedido de utilização do sistema Infojud sob o seguinte fundamento (e-STJfl. 74):
+No caso concreto, não foi esgotada, por exemplo, a possibilidade de acesso às informações constantes da Declaração de Operações Imobiliárias - DOI, a teor do artigo 28, I, do Decreto nº10.046 de 09 de outubro de 2019, motivo pelo qual o indeferimento de pedido de consulta ao sistema INFOJUD deve ser mantido.
+No entanto, tal entendimento contraria a jurisprudência desta Corte Superior, cuja orientação é no sentido de que a " .. utilização dos Sistemas BacenJud, Renajud e Infojud prescinde do exaurimento de diligências extrajudiciais por parte do exequente"(AgInt no AREsp n. 1.730.314/RS, relatorMinistro Antonio Carlos Ferreira, Quarta Turma, DJe de 30/11/2020).
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. SISTEMAS RENAJUD E INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Hipótese em que o Tribunal de origem consignou: "o Decreto nº 8.789, de 2016 estabelece o compartilhamento de dados entre os órgãos e entidades da administração pública federal. Daí que as informações que seriam obtidas pela consulta ao Renajud são obteníveis pela própria exequente, caso em que desnecessária a intervenção do juízo. (..) o acesso ao Infojud exige-se antes tenham sido empreendidas outras medidas na execução, como expedição de mandado de penhora, consulta ao Bacenjud e Renajud (..) ao caso das autarquias exequentes que se beneficiam do compartilhamento de dados estabelecido pelo Decreto nº 8.789, de 2016, deve ser exigido também que tenham previamente obtido as informações que lhe são disponibilizadas pela Receita Federal do Brasil - como o DOI -, e trazer aos autos as informações pertinentes" (fls. 130-131, e-STJ).
+2. O STJ possui compreensão firmada de que é legal a realização de pesquisas nos sistemas Bacenjud, Renajud e Infojud, porquanto são meios colocados à disposição da parte exequente para agilizar a satisfação de seus créditos, dispensando-se o esgotamento das buscas por outros bens do executado.
+3. Recurso Especial provido.
+(REsp n. 1.845.322/RS, relatorMinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/12/2019, DJe de 25/5/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. ADMINISTRATIVO. EXECUÇÃO FISCAL. INFOJUD. DESNECESSIDADE DE ESGOTAMENTO DAS BUSCAS POR BENS DO DEVEDOR.
+1. Consoante orientação deste Superior Tribunal de Justiça, após a edição da Lei nº 11.382/2006, não mais se exige a comprovação do esgotamento das vias extrajudiciais em busca de bens penhoráveis para a utilização do Sistema BACENJUD, não havendo, pois, a obrigatoriedade de exaurimento de diligências por parte da exequente para a localização de bens do devedor (Nesse sentido: EREsp 1.086.173/SC, 1ª Seção, Rel. Min. Mauro Campbell Marques, DJe de 1º.2.2011). Esse mesmo entendimento deve ser aplicado também ao INFOJUD, porquanto se trata de meio colocado à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.398.071/RJ, relatorMinistroMAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/3/2019, DJe de 15/3/2019).
+Ante o exposto, com fulcro no art. 932, IV e V, do CPC/2015, c/c o art. 255, § 4º, II eIII, do RISTJ e a Súmula 568/STJ, dou parcial provimento ao recurso especial para deferir a utilização do sistema Infojud, independentemente da comprovação do esgotamento de diligências para localização de bens do devedor.
+Publique-se. Intimem-se.
