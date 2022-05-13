@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+MARCELO VILELA DE ABREUinterpõe agravo regimental contra a decisão de fls. 280-285, que não conheceu do habeas corpus impetrado em seu favor, no qual fora apontado como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0144.20.000240-6/001).
+Em primeiro grau, o paciente foi condenado às penas de 11 anos e 8 meses de reclusão em regime inicial fechado e de 1.750 dias-multa, pela prática dos delitos descritos nos arts. 33 e 35, c/c o art. 40, VI, todos da Lei n. 11.343/2006.
+O Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento ao recurso de apelação para afastar a análise negativa da circunstância judicial referente à conduta social do paciente e, consequentemente, reduzir a pena-base a 9 anos, 11 meses e 7 dias de reclusão e a1.442 dias-multa, mantida, no mais, a sentença.
+Na dosimetria, a pena-base foi fixada em 5 anos, 7 meses e 15 dias para o crime de tráfico e em 3 anos, 4 meses e 15 dias para o crime de associação diante da negativação de 1 circunstância judicial desfavorável - culpabilidade; ausentes agravantes/atenuantes; presente a causa de aumento de pena prevista no art. 40, VI, da Lei 11.346/06 as penas foram aumentadas em 1/6.
+A decisão agravada, inicialmente, destacou que, mantidas as circunstâncias que justificaram a decretação da prisão preventiva do ora agravante, que ficou preso durante toda a instrução processual, não havia ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade.
+Destacouquea absolvição do crime de tráfico de drogas e o acolhimento da tese de quenão foraprovado o vínculo estável e permanente do paciente com outras pessoas no reiterado comércio ilícito de drogaimplicariam revolvimento do conjunto fático-probatório, procedimento incompatível com a estreita via dohabeas corpus.
+No tocante à dosimetria da pena, nãoreconheceu o alegado constrangimento ilegal quanto à exasperação da pena-base em decorrênciada negativação de 1 circunstância judicial desfavorável - culpabilidade-, além de destacar quea condenação pelo crime previsto no art. 35, caput, da Lei n. 11.343/2006 é incompatível com o reconhecimento do tráfico privilegiado.
+Nas razões deste recurso, o agravante apenas contesta a exasperação das penas-base ao argumento de que ficou caracterizadoconstrangimento ilegal na dosimetria penal. Destacasua primariedade.
+Requer, assim, a concessão da ordem para que as penas-base sejam fixadas no mínimo legal com a consequente modificaçãode regime.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 302-304).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE. PERSUASÃO RACIONAL. PROPORCIONALIDADE.POSIÇÃO DE DESTAQUE EM ORGANIZAÇÃO CRIMINOSA. MAIOR REPROVABILIDADE DA CONDUTA.AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+2. O cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão em habeas corpus somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena.
+3. Mostra-se legítima a exasperação da pena-base pela culpabilidade docrimede tráfico de drogas e de associação para o tráfico, diante daposição de destaque em organização criminosa, denotando maior reprovabilidade da conduta.
+4.Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão por esta Corte somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (AgRg no AREsp n. 1.843.362/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/5/2021; HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+No caso, a pena-base foi fixada em 5 anos, 7 meses e 15 dias para o crime de tráfico e em 3 anos, 4 meses e 15 dias para o crime de associação, diante da negativação de 1 circunstância judicial desfavorável -culpabilidade -, pois o paciente exercia a função de comando, ou seja, decidia a compra, venda e preço do entorpecente e repassava ordens aos demais membros. Confira-se trecho do acórdão(fl. 125):
+No tocante a culpabilidade, entendida, como a "reprovação social que o crime e o autor do fato merecem"(Guilherme de Souza Nucci, in Individualização da Pena, 2. ed., rev., atual., ampl., São Paulo: Ed. RT, 2007, p. 171),é mesmo desfavorável em relação ao increpado Marcelo, porquanto como muito bem fundamentou a juíza de primeiro grau:
+ ..  Culpabilidade: há que se considerar desfavorável ao réu, com um juízo de valoração da culpa maior que o corréu Leonardo, tendo em vista que exercia a função de comando. Decidia a compra, venda e preço do entorpecente e repassava ordens aos demais membros."
+De fato, o conjunto probatório demonstrou ser Marcelo o principal articulador das atividades ilegais do tráfico, eis que era o líder do grupo, se encontrando no topo da hierarquia, já que era o responsável pela aquisição dos psicotrópicos e pela entrega aos seus "funcionários" para a difusão do entorpecente ao destinatário final.
+Desse modo, a Corte de origem, ao valorar as circunstâncias judiciais, fundamentou a exasperação da pena-base, utilizando como parâmetro a fração aplicável à culpabilidade do agravante, pois teria posição de destaque em organização criminosa, não se verificando o constrangimento ilegal suscitado.
+A esse respeito, os precedentes a seguir:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. ARTIGOS 35 C/C 40, INCISOS IV E VI, DA LEI 11.343/06. LITISPENDÊNCIA. ABSOLVIÇÃO. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO DEVIDAMENTE JUSTIFICADA.  ..  AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+4. A culpabilidade do acusado ultrapassa a normalidade do tipo, uma vez que, de acordo com os elementos de prova apresentados pela origem, o réu durante o período constante da denúncia ocupou a posição de chefe do tráfico de drogas no Complexo da Penha. A organização criminosa liderada pelo acusado integra o Comando Vermelho e destaca-se pela violência com a qual trata os próprios integrantes do grupo e a população que vive na região, a qual permanece subjugada aos mandos e desmandos dos traficantes, que patrulham a comunidade armados, merecendo maior rigor estatal na responsabilização penal.
+5. As consequências do delito são graves, visto que vários são os crimes cometidos pela organização criminosa que comanda a região do Parque Proletário, possuindo várias ocorrências, incluindo morte de policiais, pretendendo, assim, com a sua atuação criminosa se substituir ao Estado legalmente constituído, impondo suas regras de conduta através do medo, terror e até mesmo mediante crueldade. Os policiais narraram em juízo os diversos confrontos armados realizados, que colocavam em constante risco a vida e a integridade física não só dos policiais, mas também dos moradores do local, que são obrigados a suportar todas as consequências da atuação dessa organização criminosa. Tais fundamentos são concretos e não são ínsitos ao tipo penal em questão, podendo ser sopesados como circunstâncias judiciais desfavoráveis, na medida em que demonstra uma maior reprovabilidade da conduta.
+6. Sendo o acusado líder da associação e pessoa que teria ordenado a grande maioria dos ataques e dos diversos crimes cometidos pelos demais integrantes, impõe-se a ele uma maior reprimenda, devendo deve ser mantida a pena-base como estabelecida pelas instâncias de origem.
+ ..
+8. Agravo regimental não provido. (AgRg no AREsp n. 1.774.511/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1º/3/2021.)
+HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E CORRUPÇÃO ATIVA.  .. . TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXASPERAÇÃO. CULPABILIDADE. LÍDER DA FACÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA.  ..
+ ..
+8. Mostra-se legítima a exasperação da pena-base pela culpabilidade dos crimes de tráfico de drogas e associação para o tráfico, diante da posição de liderança da organização criminosa, denotando maior reprovabilidade da conduta.
+9. Inadmissível a valoração negativa da consequências dos delitos de tráfico de drogas e associação para o tráfico, na medida em que se mostram genéricas.
+ ..
+12. Habeas corpus concedido parcialmente para reduzir a pena. (HC n. 526.535/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 5/8/2020.)
+Portanto, oagravantenão logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
