@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 210):
+CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO COLETIVA PROMOVIDA POR ENTIDADE SINDICAL. AUTORIZAÇÃO. DESNECESSIDADE. APELAÇÃO. PROVIMENTO.
+I - Os sindicatos possuem ampla legitimidade ativa para atuarem como substituto processual na defesa de direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, sendo desnecessária a autorização individual dos substituídos.
+II - Neste sentido, são legitimados ativos para a execução os servidores que, independentemente de filiação ao sindicato, provarem, na fase executiva, fazer parte da categoria representada e se enquadrarem na situação jurídica contemplada pelo título executivo.
+III - Apelação Provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 261/270 e 387/390).
+A parte recorrente aponta violação aos arts. 502, 503, 505, 507,508, 489, §1º, IV e1.022 do CPC e 104 da Lei nº 8.078/90. Sustenta, em síntese, negativa de prestação jurisdicional, sob a alegação deque "a União cuidou de apontar, nos embargos de declaração, omissão no decisum , no que diz respeito à necessidade de extinção do feito sob pena de duplicidade de pagamento." (fl. 410)
+Aduz que "o r. acórdão, com a devida vênia, partiu de premissa equivocada acerca da extinção da execução em apreço.Isso porque a execução foi extinta pelo MM. Juízo de Primeiro Grau, não em razão da eventual ilegitimidade de executar individualmente a sentença proferida em ação coletiva, mas sim pela litispendência e, sobretudo, a omissão quanto ao pagamento já recebido pela exequente na execução da referida ação coletiva. (..)Dessa forma, independentemente da possibilidade de execução individual, não há como ser desconsiderada a má-fé da exequente, relativamente à tentativa de recebimento dos valores em duplicidade." (fls. 407/408)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da tese denecessidade de extinção do feito sob pena de duplicidade de pagamento, conforme decidido na sentença de fls. 124/126.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
