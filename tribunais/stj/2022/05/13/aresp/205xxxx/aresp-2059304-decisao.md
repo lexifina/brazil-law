@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por ALEX BRANCALHAO TOJARcontra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado naalínea"a"do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO INTERNO - Interposição contra decisão do relator que negou seguimento ao recurso - Inconformismo - Desacolhimento - Inexistência de ofensa ao princípio da colegialidade - Art. 168, § 3º, do RITJSP que confere ao relator a prerrogativa de negar seguimento a recurso manifestamente improcedente - Interposição de agravo interno ou de agravo regimental que afasta, ademais, a alegada violação ao referido princípio - Decisão de 1º grau que acolheu o incidente de desconsideração da personalidade jurídica para incluir os sócios da empresa executada no polo passivo do cumprimento de sentença - Agravados que demonstraram as tentativas frustradas de localização de bens penhorados, o que, por si só, já é um obstáculo ao ressarcimento dos prejuízos causados aos consumidores, sobretudo porque a parte executada vem se furtando ao pagamento da obrigação constante do título executivo judicial sem apresentar proposta concreta e efetiva de pagamento perante o MM. Juízo de origem - Desconsideração deferida em casos análogos(agravo de instrumento n. 2182960-89.2020.8.26.0000;agravode instrumento 2106456-42.2020.8.26.0000; agravo de instrumento 2146489-74.2020.8.26.0000) - Decisão mantida - Recurso desprovido" (fl. 41, e-STJ).
+No recurso especial (fls. 16/26,e-STJ), além da divergência interpretativa, a a parte recorrente aponta negativa de vigência dosarts. 50 e 932, IV, e V, do Código de Processo Civil/2015. Sustenta, em síntese, violação ao princípio da colegialidade porque o agravo não poderia ter sido julgado monocraticamente. Além disso, afirmaque não estão presentes os requisitos para a desconstituição da personalidade jurídica.
+Oferecidas as contrarrazões (fls. 49/61, e-STJ), o recurso não foi admitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+De início, quanto à alegação de impossibilidade de julgamento monocrático do mérito do recurso, registra-se ser possível dar ou negarprovimento por decisão unipessoal quando houver entendimento majoritário a respeito da matéria controvertida ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III e IV, do Código de Processo Civil de 2015).
+Ademais, inexiste afronta ao princípio da colegialidade, pois a possibilidade de interposição de agravo interno contra a respectiva decisão permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pela agravante.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consoante a jurisprudência deste STJ, a legislação processual (Art. 557 do CPC/73, equivalente ao Art. 932 do CPC/15, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+(..)
+4. Agravo interno desprovido" (AgInt no AREsp 1.192.682/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. REVISÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III e IV, do Código de Processo Civil de 2015).
+3. A possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+Precedente.
+4. Nas hipóteses em que o construtor/vendedor dá causa à resolução do contrato, a restituição das parcelas pagas deve ocorrer em sua integralidade.
+5. O Superior Tribunal de Justiça admite a revisão de distrato no caso de haver alguma ilegalidade.
+6. Agravo interno não provido"(AgInt no REsp 1934780/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2021, DJe 16/12/2021)
+Ademais, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..) Pois bem, os elementos probatórios acostados aos autos demonstram a presença dos requisitos legais autorizadores da teoria da desconsideração da personalidade jurídica da empresa executada.
+No caso, os agravados demonstraram as tentativas frustradas de localização de bens penhorados(v. fls. 140/141 e 150/151 dos autos da fase de cumprimento de sentença), o que, por si só, já é umobstáculo ao ressarcimento dos prejuízos causados aos consumidores, sobretudo porque a parte executada vem se furtando ao pagamento da obrigação constante do título executivo judicial sem apresentar proposta concreta e efetiva de pagamento perante o MM. Juízo de origem. (fls 12/13, e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7 deste Superior Tribunal.
+Por fim, extrai-se das razões recursais que a parte recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..)Destaco que a legislação consumerista acolheu a teoria menor da desconsideração da personalidade jurídica, que não requer a demonstração de abuso caracterizado pelo desvio de finalidade ou confusão patrimonial, exigindo apenas que a personalidade da sociedade empresária configure impeditivo ao ressarcimento dos prejuízos causados ao consumidor. E este Egrégio Tribunal de Justiça já manteve a desconsideração em casos análogos(Agravo de Instrumento n. 2182960-89.2020.8.26.0000;Agravo de Instrumento 2106456-42.2020.8.26.0000;Agravo de Instrumento 2146489-74.2020.8.26.0000(fl. 13e-STJ).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. TERCEIRO DE BOA-FÉ. ART. 42, § 3º, DO CPC/73. VENDA DO IMÓVEL. LITÍGIO PRECEDENTE. INTERDITO PROIBITÓRIO. AUTOR. SUPOSTO TERCEIRO INTERESSADO. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. HISTÓRICO DOS FATOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. (..).
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 1.520.059/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/9/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NULIDADE DO NEGÓCIO JURÍDICO. MIGRAÇÃO DO PLANO DE SAÚDE. INFORMAÇÃO INSUFICIENTE ACERCA DA AMPLITUDE DO NOVO PLANO. SÚMULA 7/STJ. 3. DANO MORAL RECONHECIDO. NÃO IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NAS RAZÕES DO APELO NOBRE. APLICAÇÃO DA SÚMULA 283/STF, POR ANALOGIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. (..).
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Agravo interno desprovido" (AgInt no AREsp 1.091.133/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/9/2017 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários recursais, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
