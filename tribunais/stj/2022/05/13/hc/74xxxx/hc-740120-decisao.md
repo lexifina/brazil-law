@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado(fl. 389):
+EMENTA: HABEAS CORPUS DELITO DE TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO (ARTIGO 121, § 2º, I E IV, C.C. O 14, II, AMBOS DO CÓDIGO PENAL) IMPETRAÇÃO VISANDO A REVOGAÇÃO DA CUSTÓDIA PREVENTIVA DO PACIENTE SOB OS ARGUMENTOS DE MOTIVAÇÃO INIDÔNEA, ALÉM DA AUSÊNCIA DOS REQUISITOS LEGAIS E DO "ANIMUS NECANDI", COM PLEITO SUBSIDIÁRIO DE IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO.
+DECRETO PRISIONAL MOTIVADO RAZÕES DE DECIDIR EXPOSTAS DE MANEIRA A SATISFAZER A EXIGÊNCIA CONSTITUCIONAL (ART. 93, IX DA CF).
+HOMICÍDIO INDÍCIOS DE AUTORIA CRIMINOSA E MATERIALIDADE PROVADA, DESCABIDA A ANÁLISE DO CONJUNTO PROBATÓRIO EM SEDE DE "HABEAS CORPUS", JUSTIFICANDO-SE A CUSTÓDIA PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA GRAVIDADE CONCRETA DA CONDUTA REVELADA PELAS CIRCUNSTÂNCIAS DO FATO E PELO "MODUS OPERANDI" NECESSIDADE DE ACAUTELAR O MEIO SOCIAL E A APLICAÇÃO DA PENA, DESCABIDA A IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS CUSTÓDIA CAUTELAR QUE NÃO SE INFIRMA DIANTE DE ALEGADAS CONDIÇÕES SUBJETIVAS FAVORÁVEIS PRECEDENTES CONSTRANGIMENTO ILEGAL INOCORRIDO ORDEM DENEGADA.
+Consta nos autos que o paciente foi preso em flagrante em 26/2/2022 e denunciado como incurso no art. 121, caput, c/c art. 14, inciso II, do Código Penal. A prisão em flagrante foi convertida em preventiva.
+Alega o impetrante a ausência dos fundamentos para a manutenção da prisão preventiva. Assevera que o paciente ostenta condições pessoais favoráveis.
+O paciente nega a autoria e sustenta "que apenas efetuou o disparo para cima, para dispersar as "arruaças" que os motociclistas estavam fazendo próximo de sua residência" (fl. 5), melhor se amoldando sua conduta à prevista no art. 15 da Lei n. 10.826/2003. Destaca que deveriam ser aplicadas as medidas cautelaresdiversas da prisão previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, com a revogação da prisão preventiva, ainda que com aimposição de medidas cautelares alternativas.
+Na origem, nos autos n. 1500493-29.2022.8.26.0616, da 2ª Vara Criminal de Mogi das Cruzes - SP, em 9/5/2022, consta : "Considerando as provas produzidas e o quanto apurado, bem como o tempo de custódia cautelar transcorrido até a presente data, defiro ao acusado o direito de responder aos demais termos em liberdade, sob condição de comparecimento a todos os atos processuais e de manter seu endereço atualizado em Juízo. Expeça-se alvará de soltura clausulado" e, no mesmo dia o alvará de soltura cumprido foi juntado, conforme informações disponíveis no site do Tribunal de origem em 10/5/2022 e conforme trâmite processual juntado àfl. 406.
+Evidente, portanto, a superveniente perda de objeto deste habeas corpus.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
