@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL- INSScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOcom a seguinte ementa (e-STJ, fl. 100):
+Embargos à execução opostos pela autarquia  recurso voluntário  ausência de recolhimento do porte de remessa e de retorno dos autos  incidência do art. 6º, c/c o art. 2º, parágrafo único, inciso II, da Lei Estadual n.11.608, de 29 de dezembro de 2003  deserção  reexame necessário  inaplicabilidade  recurso não conhecida.
+É o relatório.
+A questão jurídica referente à exigibilidade, ou não, do prévio pagamento de porte de remessa e de retorno pelo Instituto Nacional do Seguro Socialfoi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tese 1.001/STJ:"A teor dos arts. 27 e 511, § 1º, do revogado CPC/73 (arts. 91 e 1.007, § 1º, do vigente CPC/15), o Instituto Nacional do Seguro Social - INSS, nos recursos de competência dos Tribunais de Justiça, está dispensado do prévio pagamento do porte de remessa e de retorno, enquanto parcela integrante do preparo, devendo recolher o respectivo valor somente ao final da demanda, acaso vencido.".
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
