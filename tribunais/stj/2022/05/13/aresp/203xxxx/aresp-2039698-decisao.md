@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 516):
+Agravo de Instrumento - Execução de título extrajudicial garantida por seguro - Determinação, à seguradora, de depósito da parcela incontroversa do débito - Pleito de reforma - Inadmissibilidade - Ausência de interesse dos executados no tocante à discussão acerca da caracterização do sinistro - Possibilidade, ademais, de quitação do valor devido ao agravado, de modo a evitar a execução da garantia - Decisão mantida - Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.489, § 1º, inciso II, 1.022, inciso I, e 996do Código de Processo Civil.
+Sustentam negativa de prestação jurisdicional, pois o acórdão recorrido aoreconhecera falta de interesse da seguradora quanto à discussão acerca da ordem de intimação para adimplemento do débito, não levou em consideraçãoque "essa intimação infringia os termos e os limites da apólice, o que poderia imediatamente causar, como de fato causou, prejuízos diretos aos Recorrentes tanto de ordem patrimonial como judicial" (e-STJ, fl. 583).
+Defendem a existência de interesse em recorrerna qualidade de terceiros prejudicados, uma vez que "têm legitimidade para interpor recurso com o objetivo de questionar a decisão de primeira instância, que, ao determinar à seguradora o pagamento de indenização referente à hipótese de sinistro que simplesmente inexiste na apólice do seguro garantia, infringiu diretamente os direitos que foram por meio dela garantidos aos Recorrentes" (e-ST, fl.586).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, verifico que o acórdão recorrido está devidamente fundamentado, sem incorrer nos vícios de obscuridade, contradição ou omissão.
+Ressalta-se que não é omissa a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os
+argumentos apontados pelas partes, mas apenas sobre os pontos considerados suficientes para fundamentar sua decisão, o que foi feito no caso concreto.
+No caso, o Tribunal de origem resolveu o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, conforme se verifica do acórdão recorrido, cujas razões transcreve-se a seguir(e-STJ, fl. 517/519):
+Observo, "ab initio", a ausência de interesse/legitimidade dos agravantes no tocante à discussão acerca daordem de intimação da seguradora, para fins de adimplemento do valor incontroverso do débito, contemplado pela garantia apresentada nos autos.
+Com efeito, consoante observado por ocasião da apreciação do pedido liminar, incumbirá exclusivamente à seguradora, oportunamente, arguir, perante o d. Juízo de origem, eventual óbice ao pagamento por ele determinado.
+Explicam Nelson Nery Junior e Rosa Maria de Andrade Nery, ao tecerem comentários acerca da regra inserta no art. 996,do Código de Processo Civil, que o interesse recursal "consubstancia-se na necessidade que tem o recorrente de obter anulação ou reforma da decisão que lhe foi desfavorável" (in Comentários ao código de processo civil  livro eletrônico  / Nelson Nery Junior, Rosa Maria de Andrade Nery, coordenadores, São Paulo : Editora Revista dos Tribunais, 2015, p. 2083).
+Tem-se por indubitável que, no caso em questão, tal interesse inexiste. Isso porque, consoante já consignado, a simples intimação da seguradora em nada prejudicará os agravantes, já que somente a ela caberá apresentar eventuais razões que lhe impossibilitem o cumprimento da determinação, revelando-se impertinente a discussão trazida à baila no presente recurso.
+É certo, ademais, que os executados reconhecem o débito para com o exequente, de modo que persiste a obrigação de saldá-lo prontamente, no que tange à parcela incontroversa, não atingida pelo efeitosuspensivo deferido aos embargos, sendo certo que o adimplemento evitará a execução da garantia.
+Destarte, não comporta qualquer reforma a r. decisão agravada.
+No tocante à tese de violação ao art. 996 do CPC, em que se alegaa existência deinteresse dos recorrentes em recorrer, na qualidade de terceiros prejudicados, verifico queas razões do recurso especial, todavia, estão dissociadas dos fundamentos doacórdão recorrido ao concluirque a parte recorrente na condição de executada não detéminteresse para recorrer da decisão impugnada,de forma que incideoóbicedaSúmulas 284 do STF.
+Ademais, constata-se que o Tribunal de origem consignou expressamentea falta do interesse no recurso,com base nos seguintesargumentos: (i) caberia à seguradora apresentar eventuais razões que lhe impossibilitassem o cumprimento da determinação; e, (ii) os executados reconheceramo débito para com o exequente, de modo que persiste a obrigação de saldá-lono que tange à parcela incontroversa. Tais fundamentos, suficientes para a manutenção do julgado, não foramobjeto de impugnação nas razões do recurso especial,de modo que incide oóbice da Súmula 283/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Regularizada a representação processual, de forma oportuna e tempestiva, não incide o óbice da Súmula 115/STJ. Decisão da Presidência do STJ, que não conheceu o agravo, reconsiderada.
+2.A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes
+3. Agravo interno provido, para reconsiderar a decisão da Presidência, e
+negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1890200/RN, Rel. Ministro MARCO BUZZI, QUARTA TURMA,
+julgado em 25/10/2021, DJe 28/10/2021)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
