@@ -1,0 +1,18 @@
+DECISÃO
+Perdeu o objeto oagravo regimental interposto porCarlos Edison Gaviolicontra a decisão de fls. 694/695, assim ementada:
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. RECEPTAÇÃO. SUPERVENIÊNCIA DE SENTENÇA. CIRCUNSTÂNCIAS DOS CRIMES. ROUBO DE CARGAS. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso em habeas corpus prejudicado.
+Isso porque,em 7/3/2022, no Processo n. 0000631-31.2021.8.26.0511, fruto de desmembramento da ação penal original, foi proferida sentença julgando parcialmente procedente a pretensão punitiva para condenar o oraagravantecomo incurso no art. 157, § 2º, II e V, e § 2º-B, por duas vezes, na forma do art. 70, primeira parte, c/c o art. 29, todos do Código Penal, à pena de 21 anos, 10 meses e 15 dias de reclusão,e 44 dias-multa. Na oportunidade, foi mantidaa prisão preventiva desse réu, expondo o seguinte:
+ ..  Como demonstrado ao longo destasentença, está provada a materialidade e a autoria. Em relação ao "periculum libertatis", reitero, neste momento, as r. decisões prolatadas anteriormente, que demonstraram a existência de periculosidade ao convívio social e a presença de reiteração criminosa porparte de CARLOS.
+Importante sublinhar que parte dos coautores deste crime -mais precisamente "Pit" e seus comparsas -ainda estão em liberdade. Como se viu ao longo desta sentença, por meio de simples mensagens de texto e ligações, CARLOS arregimentou o bando armado e arquitetou crime gravíssimo. A análise das mensagens deixa claro que o roubo apurado neste feito não foi um episódio isolado, mas apenas mais um delito praticado por CARLOS em conluio com "Pitt" e seu bando. Mantê-lo fora do cárcere é propiciar-lhe condições ideais para que prossiga delinquindo, porquanto terá em mãos tudo o que precisa: um aparelho celular, o bando criminoso em liberdade e seu barracão de bebidas para receber as cargas.
+Registro que durante o período em que esteve no cárcere, CARLOS foi submetido a duas avaliações médicas por ordem deste Juízo, concluindo-se em ambas quepossui bom estado de saúde e não é portador de qualquer moléstia grave.
+ ..
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+A propósito: AgRg no RHC n. 71.854/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/9/2016; AgRg no RHC n. 50.857/SP, de minha relatoria, Sexta Turma, DJe 29/3/2016; AgRg no HC n. 336.563/SC, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 19/5/2016; AgRg no RHC n. 62.474/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/2/2016; eAgRg no RHC n. 147.178/SP, de minha relatoria, Sexta Turma, DJe 13/8/2021.
+De qualquer maneira, onovo título judicialnão revelanenhuma ilegalidade aparente, bem como a matéria também foipor mim minuciosamente analisada no HC n. 649.493/SP, no qual deneguei a ordem, em 12/4/2022, tornando sem efeito a tutela provisória lá deferida parcialmente.
+No mais, com a prolação da sentença, passa a ser aplicável a Súmula 52/STJ. Logo, está superada a alegação de constrangimento ilegal por excesso de prazo na instrução.
+Ante o exposto,julgo prejudicadoo presente agravo regimental (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO REGIMENTALEM RECURSO EMHABEAS CORPUS. PRISÃO PREVENTIVA.ROUBO MAJORADO PELO CONCURSO DE AGENTES, COM RESTRIÇÃO DA LIBERDADE DA VÍTIMA E EMPREGO DE ARMA DE FOGO DE USO RESTRITO.ASSOCIAÇÃO CRIMINOSA. RECEPTAÇÃO. EXCESSO DE PRAZO. SUPERVENIENTE PROLAÇÃO DE SENTENÇA.NOVO TÍTULO JUDICIAL.MATÉRIA JÁ ANALISADA NO HC N. 649.493/SP. PERDA DO OBJETO.
+Agravo regimental prejudicado.
