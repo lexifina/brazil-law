@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por AKIO KANTO E OUTROS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+SERVIDOR ESTADUAL. Sexta-parte. Direito assegurado pelo art. 129 da Constituição do Estado. Base de cálculo. Incidente de Uniformização de Jurisprudência nº 193.485.1/6. Incidência sobre os vencimentos integrais, excetuadas as vantagens eventuais e aquelas que já incluem a sexta-parte em sua base de cálculo (GANI). Art. 37, XIV, da CF e 115, XIV da CE. Sentença que julgou procedente o pedido. Recursos oficial e da Fazenda providos em parte para excluir da base de cálculo a Gratificação por Atividade de Magistério -GAM. Recurso dos autores provido em parte para majorar a verba honorária, desnecessário, porém, que seu arbitramento se faça em percentual sobre o valor da condenação, uma vez aplicável ao caso concreto o parágrafo 4º do artigo 20 do CPC.
+Os recorrentes, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, apontam, além de divergência jurisprudencial,violação do art. 20, §§ 3º e 4º, do CPC/1973. Aduzem que o valor fixado para os honorários advocatícios, em R$ 2.000,00 (dois mil reais), representa quantia ínfima se considerado o valor da condenação.
+Defendem ainda que, "ademais, em ações como a presente, de natureza condenatória, o parâmetro que há de servir de base para o cálculo da verba honorária, ainda que arbitrada com fundamento no § 4º do artigo 20 do CPC, deve sero valor da condenação" (e-STJ, fl. 426). Indicam dissenso pretoriano também nesse ponto.
+Contrarrazões às e-STJ, fls. 485-490.
+É o relatório.
+No Tribunal de origem, relativamente aos ônus sucumbenciais, ficou estabelecido o seguinte (e-STJ, fl. 404):
+Os autores têm parcial razão no tocante aos honorários advocatícios. Embora a demanda não seja complexa e verse sobre matéria deveras conhecida neste Tribunal, a importância de R$ 1.000,00 (mil reais) arbitrada pela sentença não remunera de maneira condigna o trabalho desenvolvido nos autos. Ela comporta majoração para R$ 2.000,00, importância que atende ao art. 20, § 4º, do CPC, consignado que, aplicável o referido parágrafo, não está o julgador obrigado a fazer o arbitramento mediante aplicação dos percentuais a que se refere o parágrafo 3º.
+Pelo meu voto, dou parcial provimento aos recursos oficial e da Fazenda do Estado para afastar a inclusão da Gratificação por Atividade de Magistério  GAM da base de cálculo da sexta-parte e parcial provimento ao recurso dos autores para majorar a verba honorária para R$ 2.000,00 (dois mil reais).
+A transcrição demonstra que a tese segundo a qual a base da condenação deve corresponder ao valor da condenação não foi debatida na instância inferior.Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.".
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.".
+Nesse aspecto, confira-se o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE - ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF E 211 DO STJ - INOVAÇÃO RECURSAL.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido.
+2. Inviável análise de pretensão que demanda o revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas nºs 282 e 356/STF).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 15.180/PR, relatora Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 10/5/2013).
+O Superior Tribunal de Justiça entende que o arbitramento dos honorários advocatícios pelo critério da equidade na instância ordinária é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ.
+Nessa linha:
+PROCESSUAL CIVIL. VERBA HONORÁRIA FIXADA PELA EQUIDADE. JUÍZO DE VALOR FEITO NO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. A jurisprudência do STJ é uníssona no sentido de que, sendo vencida a Fazenda Pública, os honorários serão fixados consoante apreciação equitativa do juiz, que considerará o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, consoante o disposto no art. 20, § 4º, do CPC, o qual se reporta às alíneas do § 3º e não a seucaput.
+2. Os honorários advocatícios são passíveis de modificação na instância especial tão somente quando se mostrarem irrisórios ou exorbitantes, o que não ocorre na hipótese em apreço. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.511.018/SP, relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/6/2015).
+Admite-se a adequação do valor somente quando a condenação se mostra irrisória ou exorbitante.
+Confiram-se:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS DE ADVOGADO.
+No âmbito do recurso especial, o valor arbitrado a título de honorários de advogado só pode ser revisado se for excessivo ou irrisório; espécie em que verba honorária foi fixada em quantia exorbitante. Recurso especial conhecido e provido em parte.
+(REsp n. 1.318.867/BA, relator Ministro ARI PARGENDLER, PRIMEIRA TURMA, DJe de 19/12/2013).
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7/STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+3. O STJ firmou entendimento no sentido de ser incabível a reanálise do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios conducentes à fixação do quantum indenizatório.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp n. 397.251/SP, relator Ministro ANTÔNIO CARLOS FERREIRA, QUARTA TURMA, DJe de 3/2/2014).
+Na espécie, a cifra definida foi fundamentada nas circunstâncias da causa, de modo que não é concebível juízo algum no que se refere à correção, ou não, da condenação em honorários advocatícios sem nova análise dos fatos constantes dos autos. Essa providência, já se disse, é inviável diante do teor do mencionado verbete sumular de n. 7/STJ.
+Ante o exposto,com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
