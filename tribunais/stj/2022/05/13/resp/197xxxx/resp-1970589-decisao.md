@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por MANOEL URBINO MENACHO e outra (MANOEL e outra), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paulista, relatado pelo Des. MARCONDES D"ANGELO, assim ementado:
+RECURSO - AGRAVO INTERNO - MANDATO - DESPESAS CONDOMINIAIS EM ATRASO - AÇÃO DE EMBARGOS DE TERCEIRO- JUSTIÇA GRATUITA- MATÉRIA PRELIMINAR SUSCITADA EM SEDE DE CONTRARRAZÕES. Pleito para condenação dos agravantes por litigância de má-fé e ato atentatório à dignidade da justiça, bem como a reparar perdas e danos. Descabimento. Inexistência de prova de má-fé ou intuito procrastinatório. Ausência de dano decorrente da interposição recursal. Matéria preliminar afastada. RECURSO - AGRAVO INTERNO - MANDATO - DESPESAS CONDOMINIAIS EM ATRASO - AÇÃO DE EMBARGOS DE TERCEIRO - JUSTIÇA GRATUITA - MÉRITO. Irresignação contra Venerando Acórdão proferido em sede de apelação, que rejeitou o pleito dos ora agravantes para concessão da justiça gratuita e determinou o recolhimento do preparo. Interposição de agravo interno contra decisão colegiada. Erro grosseiro que acarreta o não conhecimento do recurso. Via processual inadequada. Recurso de agravo interno não conhecido (e-STJ, fl. 1.088).
+Os embargos de declaração opostos por MANOEL foram rejeitados (e-STJ, fls. 1.115/1.119).
+Opostos embargos de declaração por MANOEL, foram rejeitados (e-STJ, fls. 1.163/1.167).
+Nas razões do presente recurso, MANOEL alegou violação dos arts. 492, 1.021, 1.022 e 1.025 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) o acórdão recorrido deixou de analisar a decisão de e-STJ, fl. 982, que foi a decisão objeto do agravo interno, o qual não se voltou contra a decisão de e-STJ, fls. 1.003/1.007; e (2) o agravo interno impugnou a decisão de e-STJ, fl. 982, que indeferiu a gratuidade especificamente em relação ao preparo da apelação (e-STJ, fls. 1.170/1.179).
+Foram apresentadas contrarrazões (e-STJ, fls. 1.184/1.210).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da ausência de violação dos arts. 1.022 e 1.025; e (2) do agravo interno manejado perante o Tribunal estadual
+MANOEL afirmou a violação dos arts. 492, 1.021, 1.022 e 1.025 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) o acórdão recorrido deixou de analisar a decisão de e-STJ, fl. 982, que foi a decisão objeto do agravo interno, o qual não se voltou contra a decisão de e-STJ, fls. 1.003/1.007; e (2) o agravo interno impugnou a decisão de e-STJ, fl. 982, que indeferiu a gratuidade especificamente em relação ao preparo da apelação.
+O Tribunal estadual concluiu que o agravo interno era inadmissível, visto que interposto contra acórdão que julgou os embargos de declaração, nos termos da seguinte argumentação:
+Ora, o ajuizamento de agravo interno contra decisão colegiada constitui erro grosseiro, ensejando o não conhecimento do recurso.
+Nem sequer a parte demonstra equívoco da parte ou o intuito de apresentar recurso diverso, o que, eventualmente, possibilitaria a aplicação do princípio da fungibilidade recursal.
+Isto porque, o recurso de agravo interno presta-se a submeter a decisão do Relator à apreciação do órgão colegiado. Ocorre que, no caso, a matéria já foi objeto de análise pela 25ª Câmara de Direito Privado, por 02 (duas) oportunidades, mediante os Acórdãos de folhas 940/945 e 1.003/1.007.
+Desta foma, inviável o conhecimento do recurso de agravo interno, pois não se presta a combater decisão monocrática, ausente a hipótese prevista no artigo 1.021 do Código de Processo Civil (e-STJ, fl. 1.090).
+Da análise dos autos, observa-se que o agravo interno buscou impugnar a decisão de e-STJ, fl. 982, contra a qual foram opostos embargos de declaração, cuja oposição suspendeu o prazo para interposição do agravo interno.
+A esse respeito, a jurisprudência do STJ firmou-se no sentido de que é cabível o agravo interno contra decisão monocrática do Relator no Tribunal estadual, ainda que opostos embargos de declaração julgados pelo colegiado, sob pena de não exaurimento de instância. Confiram-se:
+AGRAVO INTERNO NO AGRAVO. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. INCIDÊNCIA DA SÚMULA 281/STF. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante impugnou, nas razões do agravo interno, ter os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação, por analogia, da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. No presente caso foi interposto recurso especial de acórdão que rejeitou embargos de declaração opostos contra decisão monocrática proferida em recurso de agravo de instrumento.
+3. Não se revela possível o conhecimento do recurso especial na hipótese em que o agravo de instrumento interposto na origem foi julgado por decisão monocrática do relator, sem a manifestação do órgão colegiado do Tribunal, por ausência de exaurimento de instância. Incidência da Súmula 281/STF.
+4. Muito embora os embargos de declaração opostos tenham sido julgados por decisão colegiada, permanece o óbice da Súmula 281 do STF, porquanto a decisão, atacada por meio do apelo extremo, que é aquela proferida no agravo de instrumento, foi julgada por decisão monocrática do relator.
+5. "Apenas o agravo interno se presta ao exaurimento de instância quando há intuito de propor recurso especial após a decisão monocrática, sendo imprestáveis para esse fim os embargos declaratórios, ainda que decididos pelo colegiado" (AgRg no REsp 1.320.460/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 25/10/2012).
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1.925.280/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 29/11/2021, DJe 01/12/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO DE RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA MESMO QUE TENHA SIDO INTEGRADA POR MEIO DE EMBARGOS DE DECLARAÇÃO APRECIADOS PELO ÓRGÃO COLEGIADO. SÚMULA 281/STF. AGRAVO INTERNO DESPROVIDO.
+1. Contra a decisão monocrática do Tribunal a quo é cabível o agravo interno, que deve ser utilizado antes de se interpor o recurso especial. Ante a ausência de exaurimento das vias recursais perante as instâncias ordinárias, incide, por analogia, a Súmula 281/STF.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.323.739/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 18/03/2019, DJe 22/03/2019)
+Portanto, merece reforma o acórdão recorrido, para se determinar que o Tribunal estadual reaprecie o agravo interno manejado por MANOEL e outra.
+Nessas condições, DOUPROVIMENTO ao recurso especial, a fim de determinar que o Tribunal estadual reaprecie o agravo interno manejado por MANOEL e outra às e-STJ, fls. 1.034/1.042.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. COTAS CONDOMINIAIS. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. CABIMENTO. EMBARGOS DE DECLARAÇÃO. JULGAMENTO COLEGIADO. INSUFICIÊNCIA. EXAURIMENTO DE INSTÂNCIA. RECURSO ESPECIAL PROVIDO.
