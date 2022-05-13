@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIZ FELIPE TOSHIHICO NISHIMURA contra decisão monocrática de minha lavra, por intermédio da qual deneguei a ordem dehabeas corpus, nos termos da seguinte ementa (fl. 102):
+"HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE TRÂNSITO.ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO OCORRÊNCIA.RECEBIMENTO DA DENÚNCIA ANTES DO ADVENTO DA LEI N.13.964/2019. ILEGALIDADE NÃO CONFIGURADA. PRECEDENTES. ORDEM DENEGADA."
+Em suas razões, oEmbargante, visando elucidar trecho dodecisumimpugnado, argumenta que "parece ter havido obscuridade e omissão na r. decisão embargada" (fl. 108).
+Aduz que o que motivou a impetração do presentehabeas corpusfoi a sua insurgência contra o posicionamento doMinistério Público doEstado do Paraná, submetido à análise do Tribunal estadual,que sustenta que o art. 28-A do Código de Processo Penal veda o oferecimento do acordo de não persecução penalnos casos de "prática de infração penal com violência ou grave ameaça", indiferentemente se o crime é culposo ou doloso, tendo em vista que o caso em concreto envolve uma lesão corporal culposa.
+Consigna que a decisão embargada incorreu em omissão, na medida em que não enfrentou o problema suscitado, eem obscuridade, ao tratar de tema diverso do discutido na inicial.
+Requer, assim, o acolhimento dos embargospara sanara omissão e a obscuridade apontadas.
+É o relatório.Decido.
+Preliminarmente, reproduzo trechos da decisão ora embargada (fls. 102-105; sem grifos no original):
+" .. Pois bem, assevero que a jurisprudência deste Tribunal é no sentido de que " o  STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia"(AgRg no AREsp 1.993.815/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/02/2022, DJe 24/02/2022; sem grifos no original).
+Nesse cenário, no mesmo sentido do parecer ministerial da lavra do Subprocurador-Geral da República Durval Tadeu Guimarães, às fls. 94-95, tenho que a ordem de habeas corpus não deve ser concedida, pois os delitos ora em debate ocorreram em 17/6/2017 e a denúncia foi recebida em 16/04/2019 (fl. 22), portanto, em data anterior à entrada em vigor da Lei n. 13.964/2019, que se deu em 24/01/2020.
+A propósito, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO OCORRÊNCIA. RETROATIVIDADE ATÉ O RECEBIMENTO DA DENÚNCIA. NEGATIVA DE AUTORIA E MATERIALIDADE. AUSÊNCIA DE LAUDO PERICIAL. DISPARO DE ARMA DE FOGO. OUTROS MEIOS DE PROVA. ILEGALIDADE NÃO CONFIGURADA.
+1. No julgamento do HC 628.647/SC, em 9/3/2021, a Sexta Turma, por maioria de votos, alinhando-se ao entendimento da Quinta Turma, firmou compreensão de que, considerada a natureza híbrida da norma, e diante do princípio "tempus regit actum" em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019, desde que ainda não tenha ocorrido o recebimento da denúncia.
+ ..  3. Agravo regimental improvido."(AgRg no HC 689.079/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE. RECEBIMENTO DA DENÚNCIA.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência dominante nesta Corte Superior e no Supremo Tribunal Federal - STF é no sentido de que a Lei n. 13.964/2019, no que tange ao Acordo de Não Persecução Penal, somente retroage aos processos cuja denuncia ainda não havia sido recebida quando de sua entrada em vigor. Precedentes.
+2. Agravo Regimental no habeas corpus desprovido."(AgRg no HC 688.022/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/11/2021, DJe 26/11/2021; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ACORDO DE NÃO PERSECUÇÃO PENAL. SENTENÇA PROFERIDA ANTES DO ADVENTO DA LEI N. 13.964/2019. NÃO CABIMENTO DA ABERTURA DE PRAZO. AGRAVO DESPROVIDO.
+ ..
+2. Conforme o entendimento firmado no Supremo Tribunal Federal e nesta Corte, "o acordo de não persecução penal (ANPP) previsto no art. 28-A doCódigo de Processo Penal, introduzido pela Lei n. 13.964/2019, terá aplicação somente nos procedimentos em curso até o recebimento da denúncia" (ARE 1294303 AgRED, Relatora: ROSA WEBER, Primeira Turma, julgado em 19/4/2021).
+3. Na hipótese, consoante se extrai dos autos, tendo a denúncia sido recebida em 26/1/2016, e a sentença condenatória sido proferida em 3/10/2017, descabe falar em retroatividade da Lei 13.964/2019 e, por consectário, em abertura do prazo para oferta de acordo de não persecução penal.
+4. Agravo regimental desprovido."(AgRg no HC 699.955/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/10/2021, DJe 04/11/2021; sem grifos no original.)
+Ante o exposto, DENEGO a ordem de habeas corpus."
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+No caso, o Embargante não demonstra, em sua argumentação, a ocorrência de nenhuma das hipóteses legais ensejadoras dos embargos declaratórios, sendo certo que a decisão atacada indicou, de forma clara, que o pedido formulado na impetração-concessão da ordem para a nova remessa dos autos ao parquet com determinação de apreciação dapossibilidade de realização do acordo de não persecução penal-, não pode ser atendido, na medida em que" o  STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia" (AgRg no AREsp 1.993.815/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/02/2022, DJe 24/02/2022; sem grifos no original).
+Na hipótese,os delitos ora em debate ocorreram em 17/06/2017 e a denúncia foi recebida em 16/04/2019 (fl. 22), portanto, em data anterior à entrada em vigor da Lei n. 13.964/2019, que se deu em 24/01/2020.
+Ressalto que a pretensão de rediscussão de matéria suficientemente decidida não se coaduna com a via eleita.
+Ilustrativamente,mutatis mutandis:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE AFASTAMENTO DA MINORANTE. NATUREZA E A QUANTIDADE DA DROGA APREENDIDA, ISOLADAMENTE CONSIDERADAS. IMPOSSIBILIDADE. AUSÊNCIA DE OUTROS ELEMENTOS A INDICAR A EVENTUAL DEDICAÇÃO DO IMPUTADO A ATIVIDADES CRIMINOSAS OU SER ELE INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. VÍCIOS INEXISTENTES.
+1.Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações que não se perfazem.
+ ..
+3.As matérias foram decididas com a devida e clara fundamentação, não se prestando os embargos de declaração à rediscussão do acórdão recorrido quando revelado mero inconformismo com o resultado do julgamento.
+4. Embargos de declaração rejeitados."(EDcl no AgRg no HC 688.943/PB, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO), SEXTA TURMA, julgado em 19/04/2022, DJe 22/04/2022; em grifos no original.)
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EMHABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. OMISSÃO NÃO CONFIGURADA. CONTRADIÇÃO. NÃO OCORRÊNCIA. CONTRAFACTUAL INTERNO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+ ..
+4. Embargos de declaração não acolhidos."(EDcl no RHC 88.642/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 11/05/2020; sem grifos no original.)
+Ante o exposto,REJEITOos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOHABEAS CORPUS. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
