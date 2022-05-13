@@ -1,0 +1,25 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, AMBIGUIDADE OU CONTRADIÇÃO.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência na decisão embargada com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme prescrito no art. 619 do CPP, hipóteses que, in casu, não se fazem presentes.
+2. Inexiste o vício apontado, porquanto a decisão foi clara em afirma que, "mesmo que, como noticiado na decisão acima, parte da quadrilha tenha sido presa em Uberaba/MG, tais agentes, identificados como Thiago André, Gilmar de Jesus Santos e Flavio Daniel Ferreira, não são os mesmos indiciados no presente feito".
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de embargos de declaração opostos contra decisão que conheceu do conflito para declarar competente o Juízo da 1ª Vara Criminal de Ribeirão Preto/SP.
+Aponta o embargante omissão no julgado, alegando que, "embora o conflito de competência tenha por partes o Juízo de Ribeirão Preto, São Paulo e o Juízo de Morrinhos, Goiás, há, ainda, outro Juízo que apura a questão: o Juízo de Uberaba, Minas Gerais, sendo que o feito naquele juízo já se encontra na fase de conclusão para sentença. A defesa, ao final, requereu a intimação daquele juízo e sua consequente inclusão no Conflito, tendo em vista que tal questão é de extrema relevância para deslinde do feito, posto que há prevenção daquele juízo. E ainda, naquele juízo o processo se desenvolveu anteriormente ao processo iniciado no juízo que fora reconhecido como competente" (fl. 696).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de embargos de declaração opostos contra decisão que conheceu do conflito para declarar competente o Juízo da 1ª Vara Criminal de Ribeirão Preto/SP.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão.
+O alegado vício - omissão - não se faz presente, consoante se extrai da decisão embargada. Confira-se (fls. 688-689):
+ ..  Como se vê, os indiciados foram presos em flagrante pela participação em roubo de carga de caminhões, mediante violência e grave ameaça à pessoa, exercida com emprego de arma de fogo, com restrição de liberdade da vítima e em concurso de agentes, delito esse cometido em diversos estados da federação, sendo detidos, no entanto, no Município de Ribeirão Preto/SP (fls. 129-132), após informações supostamente repassadas por policiais militares de Goiás, acerca do veículo utilizado pelos réus.
+Afirmou o juízo suscitante que, "considerando que o juízo de Ribeirão Preto/SP recebeu os autos remetidos por esta comarca, além de decretar as prisões preventivas dos investigados e proferir outros atos decisórios em relação a pedidos formulados pela defesa dos autuados, entendo que a competência deve ser fixada pela prevenção, nos termos do art. 83 do Código de Processo Penal" (fl. 236).
+Ademais, mesmo que, como noticiado na decisão acima, parte da quadrilha tenha sido presa em Uberaba/MG, tais agentes, identificados como Thiago André, Gilmar de Jesus Santos e Flavio Daniel Ferreira, não são os mesmos indiciados no presente feito.
+De fato, em razão do ilícito em apreço encontrar-se ainda na fase de investigação - sequer há oferecimento de denúncia -, e, outrossim, por tratar-se de um crime interestadual, a competência nessa fase, repita-se, até então preliminar, deve ser fixada pela prevenção, ou seja, pelo juízo que homologou e converteu o flagrante em preventiva. Nesse sentido:
+ ..
+Conclui-se, assim, ser o juízo que homologou e converteu o flagrante em preventiva, o competente para julgar eventuais e novos pedidos de concessão de liberdade provisória, mormente por estar mais perto dos fatos ocorridos no município em que ocorreu a prisão. ..
+Como se vê, inexiste o vício apontado, porquanto a decisão foi clara em afirma que, "mesmo que, como noticiado na decisão acima, parte da quadrilha tenha sido presa em Uberaba/MG, tais agentes, identificados como Thiago André, Gilmar de Jesus Santos e Flavio Daniel Ferreira, não são os mesmos indiciados no presente feito", configurando-se a ausência de interesse, sob a modalidade da utilidade, a intimação do juízo mineiro.
+Ante o exposto, rejeito os presentes embargos, mantendo na integra a decisão recorrida.
+É o voto.
