@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo do BANCO DO BRASIL S.A. contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃODA PERSONALIDADE JURÍDICA. REQUISITOS. NÃO PREENCHIMENTO. Para o deferimento da desconsideração da personalidade jurídica deve haver a demonstração nos autos não só da dissolução irregular da sociedade executada, como também a ocorrência do abuso de personalidade, caracterizado pelo desvio de finalidade ou pela confusão patrimonial. No caso, não se vislumbra a ocorrência de referidos pressupostos para caracterização da desconsideração da personalidade jurídica. Recurso provido.
+A parte agravante sustenta que "o Egrégio Tribunal de Justiça, ao excluir o recorrido do polo passivo, em que pese sua condição de fiador, violou flagrantemente os artigos 818 e 838 do Código Civil, e nesse malgrado interpretar, aplicou de forma inadequada o disposto no art. 485, VI do CPC".
+Esse tema, entretanto, não foi enfrentado no acórdão estadual, o qual se limitou a afirmar que a inclusão do sócio no polo passivo da demanda foi requerida apenas como decorrência da desconsideração da personalidade jurídica da empresa, e não em face da suposta qualidade de devedor solidário (fl. 509 e-STJ). Assim, a pretensão do agravante esbarra no óbice das Súmulas n. 282 e 356 do STF, pois tal matéria sequer foi suscitada nos embargos declaratórios opostos pela instituição financeira.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
