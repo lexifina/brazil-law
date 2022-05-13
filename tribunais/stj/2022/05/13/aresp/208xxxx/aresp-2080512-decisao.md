@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCILENE MARINA DE JORGI (MARCILENE) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE IMISSÃO DE POSSEIMÓVEL ARREMATADO DA PROPRIETÁRIA FIDUCIÁRIA EM LEILÃO EXTRAJUDICIAL - PROCEDÊNCIA -PROFERIDA SENTENÇA PELA JUSTIÇA FEDERAL - RECONHECIMENTO DA NULIDADE DO LEILÃO E DA ARREMATAÇÃO - EXISTÊNCIA DE CONEXÃO ENTRE AS CAUSAS ANTE ORISCO DE DECISÕES CONFLITANTES (ART.55, §3º, DO CPC/15) - RECONHECIDA A INCOMPETÊNCIA DESTE TRIBUNAL E DESTA JUSTIÇA ESTADUAL REMESSA DOS AUTOS AO TRF DA 1ª REGIÃO POR PREVENÇÃO.Se causa de pedir objeto da ação de imissão de posse, qual seja, a arrematação do imóvel em leilão extrajudicial promovido pela proprietária fiduciária, tornou-se litigiosa e encontra-se sub judice perante o TRF da 1ª Região - onde pende julgamento de apelação interposta contra a sentença que declarou a nulidade da arrematação estes autos devem ser remetidos à Justiça Federal, por força do que estabelece o §3º do art.55 do CPC/15, a fim de impedir decisões conflitantes (e-STJ, fls. 452/453).
+Os embargos de declaração opostos por MARCILENE foram rejeitados (e-STJ, fls. 516/523).
+Irresignada, MARCILENEinterpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts.32, § 2º, e 38 do DL70/66 e divergência jurisprudencial, pelos seguintes fundamentos (1) como arrematante, a recorrente tornou-se proprietária do imóvel por meio de escritura pública de compra e venda e registro do referido bem no Cartório de Registro de Imóveis competente; (2) possui direito garantido de imissão na posse do bem conforme carta de arrematação e registro; (3) é devida a taxa de ocupação pelo período compreendido entre o registro da Carta de Arrematação e a efetiva imissão na posse do bem.
+O recurso não foi admitido na origem por a pretensão recursal se encontrar obstada pela Súmula nº 7 do STJ.
+Nas razões do presente agravo, alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foramapresentadascontraminutas.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar por ausência de prequestionamento dos preceitos legais ditos violados.
+(1)Dos arts.arts. 32, § 2º, e 38 do DL 70/66
+MARCILENE afirma que os preceitos citados foram infringidos, pois(1) como arrematante, a recorrente tornou-se proprietária do imóvel por meio de escritura pública de compra e venda e registro do referido bem no Cartório de Registro de Imóveis competente; (2) possui direito garantido de imissão na posse do bem conforme carta de arrematação e registro; (3) é devida a taxa de ocupação pelo período compreendido entre o registro da Carta de Arrematação e a efetiva imissão na posse do bem.
+No entanto, tais artigos não foram objeto de debate pelo TJMT que ao apreciar a controvérsia posta nos autos, declinou a competência para julgamento da lide nos seguintes moldes:
+Se causa de pedir objeto da ação de imissão de posse, qual seja, a arrematação do imóvel em leilão extrajudicial promovido pela proprietária fiduciária, tornou-se litigiosa e encontra-se sub judice perante o TRF da 1ª Região - onde pende julgamento de apelação interposta contra a sentença que declarou a nulidade da arrematação - estes autos devem ser remetidos à Justiça Federal, por força do que estabelece o §3º do art.55 do CPC/15, a fim de impedir decisões conflitantes (e-STJ, fl. 461).
+Como assinalado, os citados preceitos não foram objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância. Não basta à parte discorrer sobre o dispositivo legal que entende infringido.
+É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+No caso, se aplicam as Súmulas nºs 282 do STF e 211 do STJ.
+Confira-se a jurisprudência:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO AOS ARTS. 144 E 492 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS CONSTITUCIONAIS. VIOLAÇÃO AOART. 1.022 DO CPC NÃO COMPROVADA. (..) 2. Não se pode conhecer da irresignação contra a ofensa aos arts. 141 e 492 do CPC, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, o que atrai o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. (AgInt noAREsp 1745195/MT, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. em 22/03/2021, DJe 05/04/2021).
+Nessas condições, CONHEÇO do agravo paraNÃO CONHECERdo recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL E CIVIL . AGRAVO EM RECURSO ESPECIAL. NCPC. POSSE. LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS LEGAIS ARROLADOS. SÚMULAS NºS 282 DO STF E 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
