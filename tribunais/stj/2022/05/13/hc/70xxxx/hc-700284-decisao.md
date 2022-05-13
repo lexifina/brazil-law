@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Igor da Silva Vidal contra o ato coator proferido pela Quarta Câmara Criminal do Tribunal de Justiça de Santa Catarina, que, nos autos do HC n.5043633-98.2021.8.24.0000, denegou a ordem, mantendo o paciente preso preventivamente pela suposta prática de condutas descritas como organização criminosa, tráficode drogase porte ilegal de arma de fogo (Processo n.5053490-02.2021.8.24.0023,da Vara Criminal da Região Metropolitana da comarca de Florianópolis/SC).
+Os impetrantes alegam, em síntese, queos fundamentos utilizados pelo magistrado não são suficientes para sustentar o decreto de prisão preventiva, haja vista que os motivos elencados se mostram abstratos e genéricos, bem como porque em uma análise de razoabilidade, os fatos invocados em face do paciente não demonstram uma gravidade e periculosidade que reclame, necessariamente, o decreto prisional(fl. 10).
+Sustentam quea circunstância de o paciente, em tese, ter se evadido do local na iminência da chegada da polícia militar não demonstra, por si só, que estivesse realizando o comércio de droga (fl. 16).
+Afirmam que não há indicativos de periculosidade ou de pertencimento à facção criminosa.
+Aduzemque são cabíveis cautelares diversas da prisão.
+Pedem a revogação da prisão preventiva (fls. 3/19).
+Informações prestadas pela origem às fls. 107/110.
+O Ministério Público Federal pugna pela denegação da ordem, conforme os termos da ementa do parecer (fl. 112):
+PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA. PRETENDIDA SUBSTITUIÇÃO DA SEGREGAÇÃO PREVENTIVA POR MEDIDAS ALTERNATIVAS DE PRISÃO. INSUFICIÊNCIA. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+A impetração pretende a revogação da prisão preventiva, haja vista a falta de fundamentação e de contemporaneidade da medida.
+Em análise mais aprofundada do feito, entendo não assistir razão à impetração.
+Provocado na via dohabeas corpus, o Tribunal local decidiu o seguinte (fls. 82/83):
+À luz das normas e preceitos citados, denota-se que a decretação da prisão preventiva proferida pelo Magistrado, indicou claramente as razões do seu convencimento e o amparo aos requisitos legais necessários, diante do suposto envolvimento do paciente, por razoável prazo (desde, pelo menos, o monitoramento iniciado janeiro) com a organização criminosa PGC e aquela localizada no Morro da Mariquinha, ambas voltadas a prática do tráfico de drogas, a indicar a periculosidade do paciente e o risco de reiteração delitiva.
+Na fundamentação empregada, com fulcro na gravidade concreta não se verifica qualquer abstração. Pelo contrário, com base nos fatos, os fundamentos empregados servem a justificar a prisão cautelar consoante a exigência legal e a melhor jurisprudência, que veda a utilização da gravidade em abstrato para fomentara restrição da liberdade.
+Não obstante a norma processual penal privilegiar as medidas cautelares em detrimento da prisão, é certo que, quando há elementos suficientes para a manutenção ou decretação da medida mais gravosa - prisão preventiva -,desnecessária a justificação da não aplicação das mais benéficas, ainda que presentes predicados pessoais positivos como os invocados na inicial.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+No presente caso, verifica-se que o Juízo de piso, quanto aofumus comissi delicti, indicou como indício de autoria menções ao ora paciente observadas pela polícia investigativa, bem como empreendeu fuga com a abordagem dos agentes.Tal quadro mostra indícios suficientes de autoria e permitem firmar ofumus comissi delictinecessário para decretação da prisão preventiva.
+Além disso, imperioso frisar que, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via dohabeas corpus, bem como do recurso ordinário emhabeas corpus, não é adequada para a análise das teses de negativa de autoria (RHC n. 145.064/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/6/2021).
+Em relação à alegação de falta de contemporaneidade e consequentemente dopericulum libertatis, exige-se que o decreto prisional esteja calcado em fundamentos novos, recentes, indicativos do risco que a liberdade do agente possa causar à ordem pública ou econômica, à instrução ou à aplicação da lei penal (AgRg no RHC n. 145.779/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/9/2021).
+Ora, no presente caso, trata-se de organização complexa, que usa de armamento.
+A reiterada jurisprudência do Superior Tribunal de Justiça afirma quea necessidade de manutenção do cárcere constitui importante instrumento de que dispõe o Estado para desarticular organizações criminosas. A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva(HC n. 371.769/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2017).
+Em relação à suficiência das cautelares (fl. 82):
+Salienta-se, desta forma, que, in casu, mostra-se insuficiente e inadequada a imposição de quaisquer das medidas cautelares diversas da prisão (CPP, art. 319),já que sua concessão, mesmo que condicionada, pressupõe a liberdade dos acusados, hipótese essa incompatível com a grave situação vislumbrada nestes autos, indicativa de que, acaso soltos, encontrariam os mesmos estímulos e meios necessários à continuidade da conduta delituosa.
+Não há falar, assim, em ausência de fundamentação sobre a suficiência das cautelares.
+Ausente constrangimento ilegal a ser sanado.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA,TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. MATERIALIDADE E INDÍCIOS DE AUTORIA DEMONSTRADOS. FALTA DE FUNDAMENTAÇÃO.PERICULUM LIBERTATIS. ORGANIZAÇÃO CRIMINOSA EM FUNCIONAMENTO. PRECEDENTES.
+Ordem denegada.
