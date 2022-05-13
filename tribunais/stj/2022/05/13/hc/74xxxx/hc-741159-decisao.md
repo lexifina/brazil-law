@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de acórdão assim ementado (fl. 55):
+TRÁFICO DE DROGAS E ASSOCIAÇÃO AO NARCOTRÁFICO  PROCESSO  NULIDADE  AUSÊNCIA DE MANDADO DE BUSCA E APREENSÃO  CRIME PERMANENTE HIPÓTESE EM QUE O AGENTE PERMANECE EM ESTADO DE FLAGRANTE ENQUANTO NÃO CESSAR A PERMANÊNCIA  AÇÃO JUSTIFICADA PELA APREENSÃO DE QUANTIDADE DE DROGAS NA MORADIA  PRELIMINAR REJEITADA. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO  INSUFICIÊNCIA PROBATÓRIA  ABSOLVIÇÃO  INADMISSIBILIDADE  PALAVRAS DOS POLICIAIS CORROBORADAS PELOS DEMAIS ELEMENTOS ACOSTADOS AOS AUTOS  MATERIALIDADE E AUTORIA SUFICIENTEMENTE DEMONSTRADAS  CONDENAÇAO MANTIDA  RECURSO NAO PROVIDO.
+Consta que o paciente foi condenado à pena de 12 anos de reclusão, e de pagamento de 1780 dias-multa, pela prática dos crimes previstos nos artigos 33, caput, e 35, caput, ambos da Lei 11.343/06.
+No presente writ, sustenta a defesa que deve ser reconhecida a ilicitude da apreensão da droga decorrrente de violação de domicílio.
+Ressalta que no julgamento do HC n. 701.504, o outro réu do processo - Marcos Ricardo Ferreira Lima dos Santos- foi absolvido por esta Corte Superior, em razão de ter sido reconhecida a nulidade da prova que embasou a condenação.
+Informa que foi formulado pedido de extensão para o paciente Danilo Moura de Andrade, porém sem nenhum resultado desde março de 2022, porquanto se encontra tal pedido pendente de julgamento.
+Reitera que, no caso dos autos, os policiais foram até o local com base em denúncias anônimas, e ingressaram na residência sem autorização do proprietário do imóvel, por mera presunção de prática de ato delituoso, pois não houve a constatação de prévio comportamento criminoso por parte dos agentes.
+Requer, liminarmente, a concessão da ordem para suspender a eficácia do acórdão impugnado e conceder liberdade ao paciente até o julgamento definitivo do presente writ.
+No mérito, requer a concessão definitiva da ordem para declarar a nulidade processual da prova por total e ilegal violação de domicílio, com a absolvição do paciente. Subsidiariamente, caso não seja conhecido o habeas corpus, requer seja a ordem concedida de ofício, diante da manifesta ilegalidade (CRFB/1988, artigo 5º, LXVIII; CPP, artigo 654, § 2º).
+Verifica-se que no HC 732.605 - SPfoi requerida a extensão aos corréus Maurício de Jesus Miranda e Danilo Moura de Andrade (ora paciente) dos mesmos benefícios concedidos ao corréu Marcos Ricardo Ferreira Lima dos Santos, ao fundamento de que os primeiros se encontram na mesma situação fático-processual do último, que havia sido absolvido no julgamento do HC 701.504/SP.
+Desse modo, e após consulta ao sistema processual eletrônico desta Corte, verifica-se que o presente recurso é mera reiteração do Habeas corpus nº 732.605 - SP, ressaltando-se, ainda, que referido mandamus se encontra em estágio processual mais avançado, por já ter sido indeferida a medida liminar.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
