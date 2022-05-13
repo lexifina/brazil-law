@@ -1,0 +1,18 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NA REPRESENTAÇÃO PROCESSUAL. DEMORA DA VARA DE EXECUÇÕES PENAIS EM DISPONIBILIZAR O TERMO DE NOMEAÇÃO JUDICIAL. PRECLUSÃO. INÉRCIA DA DEFESA.
+1. Hipótese em que foi negado provimento ao regimental ao fundamento de que, a despeito de intimado para regularizar a representação processual, o Núcleo de Prática jurídica deixou transcorrer o prazo em branco.
+2. Ante a inércia da defesa em promover a juntada do termo de nomeação judicial no momento oportuno ou, ainda, de formular requerimentos e apresentar justificativas evidenciando a impossibilidade de sanar o vício de representação naquela oportunidade, não cabe ao embargante vir tão somente agora se socorrer do argumento de que a Vara de Execuções Penais demorou a emitir a decisão de nomeação judicial, porquanto preclusa a questão.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental.
+Suscita o embargante omissão, ao fundamento de que "não consta do acórdão qualquer manifestação sobre o principal motivo exposto no Agravo Regimental pela demora na juntada do termo de nomeação judicial. Conforme narrado no Agravo Regimental e comprovado documentalmente, a demora na juntada do referido termo se deu pela demora da Vara de Execuções Penais do Distrito Federal em disponibilizar a decisão de nomeação do NPJ/CEUB" (fl. 547).
+Acentua que "muito embora a demora na expedição do termo de representação judicial pela Vara de Execuções Penais (juízo de origem) não possa ser imputada à parte Embargante, essa colenda Turma não se pronunciou sobre a alegação, incorrendo em omissão" (fl. 547).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Conforme consta do acórdão embargado, "A defesa, apesar de intimada a regulamentar a representação processual pelo Tribunal de origem, deixou transcorrer in albis o prazo para tanto, sendo certo que a nomeação para atuar no feito só veio a ocorrer em 17/9/2021 (fl. 492), pouco antes da interposição do agravo regimental, ocorrida em 20/9/2021, é dizer, em data muito posterior às de interposição do recurso especial (23/4/2021) e do agravo em recurso especial (14/6/2021)" (fls. 538/539).
+Embora seja bem verdade que a Vara de Execuções Penais demorou a expedir o termo de nomeação judicial, a defesa quedou-se inerte ao ser intimada para regularizar a representação processual, sem prestar nenhum esclarecimento que justificasse o vício de representação.
+Passado, portanto, o momento oportuno para a parte se justificar quanto à ausência da decisão de nomeação judicial, não cabe ao embargante vir tão somente agora se socorrer do argumento de que a VEP demorou a emitir o termo judicial, porquanto preclusa a questão.
+Ante a ausência de juntada do termo de nomeação judicial ou da formulação de requerimentos e apresentação de justificativas no momento oportuno, não há outro destino aos presentes embargos de declaração, senão a rejeição, que proclamo.
+É o voto.
