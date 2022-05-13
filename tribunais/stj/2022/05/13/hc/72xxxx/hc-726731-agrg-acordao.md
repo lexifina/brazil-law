@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PEDIDO DE RECONHECIMENTO DA OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA ACOLHIDO EM DECISÃO MONOCRÁTICA. IRRESIGNAÇÃO DO PARQUET ESTADUAL RECHAÇADA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ACÓRDÃO PROLATADO POR OCASIÃO DE JULGAMENTO DE RECURSO EXCLUSIVO DA DEFESA. IMPOSSIBILIDADE DE REINICIAR O LAPSO PRESCRICIONAL DA PRETENSÃO EXECUTÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, é consagrado na jurisprudência desse Sodalício que "o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal)" (EDcl no AgRg no REsp n. 1.943.199/PE, Quinta Turma, Rel. Min. João Otávio De Noronha, DJe de 11/04/2022).
+III - Não se descure que "a mantença de condenação em acórdão prolatado por exclusivo recurso da defesa é causa interruptiva da prescrição da pretensão punitiva, não podendo servir para reiniciar prazo de execução já antes iniciado pelo conformismo da acusação - sob pena do recurso da defesa gerar-lhe direto prejuízo" (HC n. 620.935/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 18/12/2020). Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra a decisão de fls. 112-116, que concedeu a ordem de ofício, a fim de reestabelecer a decisão de primeira instância, a qual reconheceu a prescrição da pretensão executória do delito de receptação e, por conseguinte, julgou extinta a punibilidade.
+Nas razões do presente inconformismo (fls. 126-130), a parte agravante alega que "não se desconhece a existência de entendimento do Superior Tribunal de Justiça a considerar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação. Todavia, não é menos verdadeiro que a Suprema Corte registra decisões que, em evidente signaling, apontam que "o início da contagem do prazo de prescrição somente se dá quando a pretensão executória pode ser exercida"(RE n. 696.533/SC)" (fls. 125-126).
+Pondera que "o marco inicial para cômputo da prescrição da pretensão executória, na hipótese em exame, somente surge com o trânsito em julgado definitivo, quando nasce o direito de o Estado exigir o efeito principal da condenação pena" (fl. 126).
+Requer a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PEDIDO DE RECONHECIMENTO DA OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA ACOLHIDO EM DECISÃO MONOCRÁTICA. IRRESIGNAÇÃO DO PARQUET ESTADUAL RECHAÇADA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ACÓRDÃO PROLATADO POR OCASIÃO DE JULGAMENTO DE RECURSO EXCLUSIVO DA DEFESA. IMPOSSIBILIDADE DE REINICIAR O LAPSO PRESCRICIONAL DA PRETENSÃO EXECUTÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, é consagrado na jurisprudência desse Sodalício que "o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal)" (EDcl no AgRg no REsp n. 1.943.199/PE, Quinta Turma, Rel. Min. João Otávio De Noronha, DJe de 11/04/2022).
+III - Não se descure que "a mantença de condenação em acórdão prolatado por exclusivo recurso da defesa é causa interruptiva da prescrição da pretensão punitiva, não podendo servir para reiniciar prazo de execução já antes iniciado pelo conformismo da acusação - sob pena do recurso da defesa gerar-lhe direto prejuízo" (HC n. 620.935/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 18/12/2020). Precedentes.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+A parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração o reconhecimento da ocorrência da prescrição a pretensão executória.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Como cediço, o instituto da prescrição é uma das formas de extinção da punibilidade do agente, conforme dispõe o artigo 107, inciso IV, do Código Penal, podendo ocorrer tanto antes (artigo 109) quanto depois (artigo 110) da sentença penal condenatória transitada em julgado. Esta última hipótese, também conhecida como prescrição da pretensão executória, observa os prazos previstos no artigo 109 do Código Penal.
+Na hipótese em comento, destaco que os autos versam acerca de eventual prescrição da pretensão executória, cujo termo inicial é a data do trânsito em julgado para a acusação (vide artigo 112, inciso I), enquanto o prazo prescricional é de 04 anos, consoante o artigo 109, inciso V, do Código Penal.
+Relativamente ao marco interruptivo, rememoro que o Plenário do Supremo Tribunal Federal fixou a tese de que  ..  o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentado a pena anteriormente imposta"".
+ ..
+Veja-se que, em relação ao tema, em recente julgado, o Supremo Tribunal Federal já esclareceu que o entendimento é estendido, inclusive, aos casos de prescrição da pretensão acusatória:
+Colaciono a ementa do julgado:
+PRESCRIÇÃO  PRETENSÃO EXECUTÓRIA  TERMO INICIAL. A prescrição da pretensão executória, no que pressupõe quadro a revelar a possibilidade de execução da pena, tem como marco inicial o trânsito em julgado, para ambas as partes, da condenação. PRESCRIÇÃO  PRETENSÃO EXECUTÓRIA  PRAZO. Não transcorrido prazo previsto no artigo 109 do Código Penal, não há falar-se em prescrição da pretensão executória do Estado. PENA  LIBERDADE  RESTRITIVA DE DIREITOS  SUBSTITUIÇÃO. A substituição da pena privativa de liberdade por restritiva de direitos encontra óbice na reiteração delitiva, considerados crimes dolosos. (HC 147368, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 01/03/2021, PROCESSO ELETRÔNICO DJe-046 DIVULG 10-03-2021 PUBLIC 11-03-2021)
+De ressaltar, por oportuno, que o Supremo Tribunal Federal, ao interpretar o artigo 117, inciso IV, do Código Penal, entendeu que a publicação do acórdão condenatório ou confirmatório da sentença condenatória de 1º grau, ainda que reduzindo ou aumentando a reprimenda originária, constituem novos marcos interruptivos, não fazendo, inclusive, qualquer diferenciação entre as modalidades das prescrições - punitiva ou executória -, assim como não há no dispositivo legal.
+ ..
+No caso concreto, o trânsito em julgado para a acusação ocorreu somente em 19.06.2017, sendo a condenação mantida em acórdão exarado por esta Corte e que transitou em julgado somente em 18.04.2018. Assim, considerando o acórdão confirmatório como marco interruptivo, nos termos da fundamentação supra, sendo o prazo prescricional de 04 anos para o crime de receptação, o termo final da prescrição data de 17.04.2022, o que denota, a partir de mero cálculo matemático, não ter sido implementado o prazo legal necessário ao reconhecimento da prescrição da pretensão executória.
+Logo, a decisão recorrida comporta reparos.
+Por tais fundamentos, voto por dar provimento ao agravo em execução, a fim de afastar a prescrição da reprimenda referente ao delito de receptação, imposta no processo distribuído sob n.º 0149900-73.2015.8.21.0001, e determinar o prosseguimento da execução da pena aplicada ao crime de receptação. Retifique-se o PEC" (fls. 13-16).
+Não se descure que "a mantença de condenação em acórdão prolatado por exclusivo recurso da defesa é causa interruptiva da prescrição da pretensão punitiva, não podendo servir para reiniciar prazo de execução já antes iniciado pelo conformismo da acusação - sob pena do recurso da defesa gerar-lhe direto prejuízo" (HC n. 620.935/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 18/12/2020).
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, INCISO I, DO CÓDIGO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. É firme a jurisprudência desta Corte Superior no sentido de que, "conforme disposto expressamente no art. 112, inciso I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado" (AgRg nos EAREsp 908.359/MG, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 26/9/2018, DJe 2/10/2018).
+3. A tese recentemente firmada pelo Supremo Tribunal Federal (HC 176.473/RR, TRIBUNAL PLENO, Rel. Ministro ALEXANDRE DE MORAES, julgado em 27/4/2020, DJe 5/5/2020), no sentido de que o acórdão meramente confirmatório também é causa interruptiva da prescrição, não se aplica à hipótese dos autos, haja vista que o marco interruptivo previsto no art. 117, inciso IV, do Código Penal, diz respeito à prescrição da pretensão punitiva, e não da pretensão executória.
+ ..
+7. Agravo regimental não provido" (AgRg no REsp n. 1895584/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 27/11/2020, grifei).
+Assim, tendo o trânsito em julgado para a acusação ocorrido em 19/06/2017, correta a decisão de primeiro grau que reconheceu a prescrição da pretensão executória, uma vez que o lapso de 04 (quatro) anos entre o referido termo e o início da execução se aperfeiçoou.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de reestabelecer a decisão de primeira instância, a qual reconheceu a prescrição da pretensão executória do delito de receptação e, por conseguinte, julgou extinta a punibilidade.
+P. e I."
+A toda evidência, o decisum agravado, ao conceder a ordem, valeu-se de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+De mais a mais, é consagrado na jurisprudência desse Sodalício que "o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação (art. 112, I, do Código Penal)" (EDcl no AgRg no REsp n. 1.943.199/PE, Quinta Turma, Rel. Min. João Otávio De Noronha, DJe de 11/04/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
