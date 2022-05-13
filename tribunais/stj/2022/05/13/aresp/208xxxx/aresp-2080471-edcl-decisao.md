@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EQUATORIAL MARANHAO DISTRIBUIDORA DE ENERGIA S.A, à decisão de fls. 418/419, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Compulsando os autos de referência (nº 0003714-94.2016.8.10.0052), há nítida contradição da referida decisão, uma vez que a ora Embargante no momento da elaboração do Recurso especial no tópico da tempestividade, demonstrou que o prazo fatal para interposição do Resp. seria aos dias 29 de setembro de 2021, em razão da suspensão dos prazos forenses aos dias 06/09/2021 (ponto facultativo), 07/09/2021 (feriado de Independência do Brasil) e 08/09/2021 (Feriado Aniversário de São luís), ambos definidos pelas resoluções 63/2021 e 83/2020, respectivamente, editadas pelo Tribunal de Justiça do Estado do Maranhão, inclusive foram acostadas aos autos no momento do protocolo do REsp. Vejamos: (fl. 426).
+ ..
+I. Julgador, referente à Resolução 68/2019 do TJMA, normativo este informado no tópico da tempestividade e disposto nos autos justifica o prazo fatal aos dias 29/09/2021, data do protocolo do referido Recurso Especial.
+Assim, restou amplamente demonstrada a tempestividade do REsp. interposto, vez que ficou esclarecida a razão do prazo findando aos dias 29/09/2021 e comprovado aos autos o ato normativo do Tribunal de Justiça do Maranhão que justificou a não ocorrência de expediente aos dias 06/09/2021 (ponto facultativo), 07/09/2021 (feriado de Independência do Brasil) e 08/09/2021 (Feriado Aniversário de São luís).
+Desta forma, o que se pretende é que seja sanada a contradição/omissão em referência, notadamente a fim de que seja conhecido o Recurso especial para consequente análise do mérito (fl. 427).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado pela parte, nos autos há apenas a certidão de fl. 289, atestando a publicação ocorrida em 2/9/2021. Ou seja, não há nenhum documento do Tribunal de origem certificando o alegado pela parte.
+Cabia à parte fazer prova de sua alegação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada no ato de interposição do recurso. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgInt no AREsp 1349668/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 27/2/2019; e AgInt no AREsp 1329622/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018.
+No caso, não se desconhece os documentos juntados às fls. 313/314, porém, insuficientes para afastar a intempestividade do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
