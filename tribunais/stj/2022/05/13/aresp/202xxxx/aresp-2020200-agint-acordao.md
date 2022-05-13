@@ -1,0 +1,112 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA ELETRÔNICO NO CURSO DO PERÍODO QUE NÃO PRORROGA O TÉRMINO DO PRAZO. AGRAVO INTERNO DESPROVIDO.
+1. O prazo para interposição do recurso especial e do agravo em recurso especial (art. 1.003, § 5º, do CPC de 2015) é de 15 (quinze) dias úteis, conforme o art. 219 do CPC de 2015.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, nos termos do art. 224, § 1º, do CPC/2015, não há falar em prorrogação do término do prazo recursal se ocorrer eventual indisponibilidade do sistema eletrônico no Tribunal de origem no curso do período para interposição do recurso. A prorrogação do prazo processual é admitida apenas nas hipóteses em que a indisponibilidade do sistema coincida com o primeiro ou o último dia do prazo recursal, caso em que o termo inicial ou final será protraído para o primeiro dia útil seguinte. Precedentes.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por ANDRE LOCOSELLI GUTIERRES contra decisão proferida pelo eminente Ministro Presidente do STJ, que não conheceu do agravo em recurso especial, em razão de intempestividade.
+Nas razões do agravo interno, o agravante sustenta que demonstrou a ocorrência de feriados locais e a indisponibilidade nos serviços virtuais do Tribunal de origem.
+Não foi apresentada impugnação (e-STJ, fl. 375).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA ELETRÔNICO NO CURSO DO PERÍODO QUE NÃO PRORROGA O TÉRMINO DO PRAZO. AGRAVO INTERNO DESPROVIDO.
+1. O prazo para interposição do recurso especial e do agravo em recurso especial (art. 1.003, § 5º, do CPC de 2015) é de 15 (quinze) dias úteis, conforme o art. 219 do CPC de 2015.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, nos termos do art. 224, § 1º, do CPC/2015, não há falar em prorrogação do término do prazo recursal se ocorrer eventual indisponibilidade do sistema eletrônico no Tribunal de origem no curso do período para interposição do recurso. A prorrogação do prazo processual é admitida apenas nas hipóteses em que a indisponibilidade do sistema coincida com o primeiro ou o último dia do prazo recursal, caso em que o termo inicial ou final será protraído para o primeiro dia útil seguinte. Precedentes.
+3. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.020.200 - SP (2021/0350328-0)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+ANDRE LOCOSELLI GUTIERRES
+ADVOGADOS
+:
+RODRIGO GASPARINI - SP207615
+ANDRÉ MOLINO - SP228305
+AGRAVADO
+:
+SOCIEDADE EDUCACIONAL BRICOR LTDA
+ADVOGADOS
+:
+EDSON MAROTTI - SP101884
+CRISTIANE BELLOMO DE OLIVEIRA - SP140951
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Conforme delineado na monocrática, a decisão de admissibilidade foi publicada em 24/3/2021 (quinta-feira), conforme certificado à fl. 314. O prazo recursal teve início em 25/03/2021 (sexta-feira), suspenso nos dias 26, 29, 30 e 31 de março de 2021, conforme ato do Tribunal a quo anexo à petição de interposição do recurso especial, fls. 347/349, e expirou no dia 19/4/2021 (terça-feira). Todavia, o recurso especial somente foi protocolado no Tribunal de origem em 28/4/2021, conforme se infere da chancela eletrônica inserida no frontispício da petição recursal (fl. 332), quando decorrido o prazo recursal de 15 dias úteis previsto nos arts. 219, caput, 994, VI, 1.003, § 5º, e 1.029 do CPC.
+Alega a parte agravante que, nesse período, houve a suspensão do prazo nos dias 08, 09 e 12 de abril, em razão da indisponibilidade do sistema por algumas horas.
+A colenda Corte Especial, analisando a questão da comprovação de feriado local para fins de interposição de recurso especial na égide do CPC de 1973, concluiu, no julgamento do AgRg no AREsp 137.141/SE, que a referida comprovação da tempestividade recursal, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implicasse prorrogação do termo final para sua interposição, poderia ocorrer posteriormente, em sede de agravo interno. A propósito:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recurso especial."
+(AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, julgado em 19/9/2012, DJe de 15/10/2012)
+A partir das modificações advindas com a edição do CPC de 2015, que trouxe normativo específico acerca da comprovação da tempestividade do recurso quando há feriado local ou suspensão do expediente forense no Tribunal de origem, a eg. Corte Especial teve que apreciar a questão novamente, em se tratando de recurso especial interposto já na vigência do atual Estatuto Processual Civil.
+No julgamento do AgInt no AREsp 957.821/MS, concluiu-se que, na vigência do Código de Processo Civil de 2015, a existência de feriado local ou de suspensão de expediente na Corte de origem há de ser comprovada no momento da interposição do recurso especial, pois não se trata de vício sanável capaz de ensejar a posterior regularização.
+Este Relator ficou vencido na ocasião, também como Relator ali, pois entendia que deveria persistir o entendimento anterior, aplicado na vigência do CPC de 1973, no sentido de se possibilitar a comprovação posterior da suspensão do prazo no Tribunal de origem. Transcreve-se a ementa do referido julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido."
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017)
+A seguir, julgando o REsp 1.813.684/SP, do qual também fui Relator, a colenda Corte Especial examinou a possibilidade de mitigação do entendimento acima, em relação apenas ao feriado da segunda-feira de carnaval, por ser este de abrangência nacional, embora não previsto como feriado oficial no País. Entretanto, na oportunidade, rejeitou o entendimento trazido no voto do relator, e decidiu que a orientação de comprovação do feriado local no momento da interposição do recurso especial deveria persistir, igualmente ao fixado para os feriados e suspensões de expedientes locais em geral. Apenas em relação ao feriado da segunda-feira de carnaval, erigiu modulação de efeitos do julgado anterior, permitindo a comprovação posterior e, quando se tratar de recursos interpostos no período entre a vigência do CPC de 2015 e a data da publicação do acórdão prolatado no mencionado recurso especial. Eis a ementa do referido aresto:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MODULAÇÃO DOS EFEITOS DA DECISÃO. NECESSIDADE. SEGURANÇA JURÍDICA. PROTEÇÃO DA CONFIANÇA.
+1. O novo Código de Processo Civil inovou ao estabelecer, de forma expressa, no § 6º do art. 1.003 que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A interpretação sistemática do CPC/2015, notadamente do § 3º do art. 1.029 e do § 2º do art. 1.036, conduz à conclusão de que o novo diploma atribuiu à intempestividade o epíteto de vício grave, não havendo se falar, portanto, em possibilidade de saná-lo por meio da incidência do disposto no parágrafo único do art. 932 do mesmo Código.
+2. Assim, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso.
+3. Não se pode ignorar, todavia, o elastecido período em que vigorou, no âmbito do Supremo Tribunal Federal e desta Corte Superior, o entendimento de que seria possível a comprovação posterior do feriado local, de modo que não parece razoável alterar-se a jurisprudência já consolidada deste Superior Tribunal, sem se atentar para a necessidade de garantir a segurança das relações jurídicas e as expectativas legítimas dos jurisdicionados.
+4. É bem de ver que há a possibilidade de modulação dos efeitos das decisões em casos excepcionais, como instrumento vocacionado, eminentemente, a garantir a segurança indispensável das relações jurídicas, sejam materiais, sejam processuais.
+5. Destarte, é necessário e razoável, ante o amplo debate sobre o tema instalado nesta Corte Especial e considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, que sejam modulados os efeitos da presente decisão, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+6. No caso concreto, compulsando os autos, observa-se que, conforme documentação colacionada à fl. 918, os recorrentes, no âmbito do agravo interno, comprovaram a ocorrência de feriado local no dia 27/2/2017, segunda-feira de carnaval, motivo pelo qual, tendo o prazo recursal se iniciado em 15/2/2017 (quarta-feira), o recurso especial interposto em 9/3/2017 (quinta-feira) deve ser considerado tempestivo.
+7. Recurso especial conhecido.
+(REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe de 18/11/2019)
+Em momento posterior, surgida controvérsia acerca da extensão da interpretação supramencionada para os demais feriados locais, foi suscitada, perante a Corte Especial, a Questão de Ordem no REsp 1.813.684/SP, a qual foi apreciada na sessão de 3 de fevereiro de 2020, tendo-se concluído que a modulação de efeitos somente poderia ser aplicada para o feriado de segunda-feira de carnaval, não incidindo nos demais feriados. Constou da respectiva certidão de julgamento, in verbis:
+A Corte Especial, por maioria, rejeitou a preliminar suscitada pelo Sr. Ministro Luis Felipe Salomão de não cabimento da questão de ordem e, ainda, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais, nos termos do voto da Sra. Ministra Relatora.
+Transcreve-se, outrossim, por oportuno, o resumo do referido julgado:
+QUESTÃO DE ORDEM. CONTRADIÇÃO ENTRE NOTAS TAQUIGRÁFICAS E VOTO ELABORADO PELO RELATOR PARA ACÓRDÃO. PREVALÊNCIA DAS NOTAS TAQUIGRÁFICAS, QUE REFLETEM A MANIFESTAÇÃO DO COLEGIADO. SESSÕES DE JULGAMENTO DO RESP 1.813.684/SP. LIMITAÇÃO DO DEBATE E DA DELIBERAÇÃO À POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR ACERCA DO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL, DIANTE DAS PECULIARIDADES QUE MODIFICARIAM A SUA NATUREZA JURÍDICA. VOTO DO RELATOR PARA ACÓRDÃO QUE ABRANGE MAIS DO QUE A MATÉRIA DECIDIDA COLEGIADAMENTE, ESTENDENDO O REFERIDO ENTENDIMENTO TAMBÉM AOS DEMAIS FERIADOS. REDUÇÃO DA ABRANGÊNCIA EM QUESTÃO DE ORDEM. POSSIBILIDADE.
+1- O propósito da presente questão de ordem é definir, diante da contradição entre as notas taquigráficas e o acórdão publicado no DJe de 18/11/2019, se a modulação de efeitos deliberada na sessão de julgamento do recurso especial, ocasião em que se permitiu a posterior comprovação da tempestividade de recursos dirigidos a esta Corte, abrange especificamente o feriado da segunda-feira de carnaval ou se diz respeito a todos e quaisquer feriados.
+2- Havendo contradição entre as notas taquigráficas e o voto elaborado pelo relator, deverão prevalecer as notas, pois refletem a convicção manifestada pelo órgão colegiado que apreciou a controvérsia. Precedentes.
+3- Consoante revelam as notas taquigráficas, os debates estabelecidos no âmbito da Corte Especial, bem como a sua respectiva deliberação colegiada nas sessões de julgamento realizadas em 21/08/2019 e 02/10/2019, limitaram-se exclusivamente à possibilidade, ou não, de comprovação posterior do feriado da segunda-feira de carnaval, motivada por circunstâncias excepcionais que modificariam a sua natureza jurídica de feriado local para feriado nacional notório.
+4- Tendo o relator interpretado que a tese firmada por ocasião do julgamento colegiado do recurso especial também permitiria a comprovação posterior de todo e qualquer feriado, é admissível, em questão de ordem, reduzir a abrangência do acórdão.
+5- Questão de ordem resolvida no sentido de reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais.
+(QO no REsp 1.813.684/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/02/2020, DJe de 28/02/2020)
+Mais uma vez debruçando-se sobre a temática, a egrégia Corte Especial, na sessão de 19 de maio de 2021, julgando o AgInt no AREsp 1.481.810/SP, concluiu, por maioria, nos termos do voto da eminente MINISTRA NANCY ANDRIGHI, que deveria ser mantida a restrição, dada na mencionada Questão de Ordem, à modulação de efeitos do julgado dos feriados locais, de maneira que esta incida tão somente para os feriados de segunda-feira de carnaval, sem se estender sequer ao feriado de Corpus Christi.
+No caso, a controvérsia refere-se a feriado diverso do da segunda-feira de carnaval, tendo sido o recurso interposto na vigência do CPC de 2015. Então, não se aplica a exceção trazida no julgamento do REsp 1.813.684/SP.
+Constata-se que a parte recorrente apresentou documentos idôneos aptos a comprovar a suspensão do prazo, conforme ato do Tribunal a quo anexo à petição de interposição do recurso especial, conjuntamente com a interposição do apelo raro.
+Não obstante isso, não há como afastar a intempestividade do recurso.
+Quanto à alegada suspensão de prazo nos dias 08, 09 e 12 de abril de 2021, em razão da indisponibilidade do sistema por algumas horas, não assiste razão à parte recorrente.
+Nos termos do art. 224, § 1º, do CPC, apenas "Os dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte, se coincidirem com dia em que o expediente forense for encerrado antes ou iniciado depois da hora normal ou houver indisponibilidade da comunicação eletrônica".
+Assim, conforme o art. 224, § 1º, do CPC/2015, a indisponibilidade do sistema ocorrida em dia que não coincide com o início ou o término do prazo para a interposição do recurso não enseja sua prorrogação.
+A jurisprudência do Superior Tribunal de Justiça possui entendimento sedimentado de que, nos termos do art. 224, § 1º, do CPC/2015, não há falar em prorrogação do término do prazo recursal se ocorrer eventual indisponibilidade do sistema eletrônico no Tribunal de origem no curso do período para interposição do recurso. A prorrogação do prazo processual é admitida apenas nas hipóteses em que a indisponibilidade do sistema coincida com o primeiro ou o último dia do prazo recursal, caso em que o termo inicial ou final será protraído para o primeiro dia útil seguinte (AgInt nos EDcl no AREsp 1.671.109/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/04/2021, DJe de 26/04/2021).
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INDISPONIBILIDADE DO SISTEMA PROCESSUAL ELETRÔNICO OCORRIDA DURANTE O TRANSCURSO DO PRAZO DE RECURSO. DIA ÚTIL QUE SE SOMA À CONTAGEM DO PRAZO. PRECEDENTES. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça possui entendimento sedimentado no sentido de que, nos termos do art. 224, § 1º, do CPC/2015, não há falar em prorrogação do término do prazo de recurso se ocorrer eventual indisponibilidade do sistema eletrônico no tribunal de origem no curso do período para interposição do recurso. A prorrogação do prazo processual é admitida apenas nas hipóteses em que a indisponibilidade do sistema coincida com o primeiro ou o último dia do prazo recursal, caso em que o termo inicial ou final será protraído para o primeiro dia útil seguinte" (AgInt no AREsp 1681955/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/10/2020).
+2. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1736221/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/03/2021, DJe 06/04/2021, g.n.)
+No tocante ao argumento de que o acolhimento do recurso como tempestivo pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro comprova a sua tempestividade, ante a certidão à fl. 635, também não assiste razão ao agravante.
+A verificação dos pressupostos do recurso especial está sujeita ao duplo juízo de admissibilidade, de maneira que a aferição dos requisitos extrínsecos e intrínsecos do recurso pela Corte a quo não vincula a análise de admissibilidade feita pelo Superior Tribunal de Justiça. Isso, porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE. NECESSIDADE DE DEMONSTRAÇÃO NO MOMENTO ADEQUADO. ATO DE INTERPOSIÇÃO DO RECURSO. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL. RECURSO INTEMPESTIVO. POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR RESTRITA AO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL. JUÍZO DE ADMISSIBILIDADE FEITO PELO TRIBUNAL DE ORIGEM. NÃO VINCULAÇÃO DO STJ. AGRAVO DESPROVIDO. (..)
+6. O juízo de admissibilidade feito pelo Tribunal de origem não vincula esta Corte, por tratar-se de um juízo bifásico, a permitir nova análise dos pressupostos pelo Superior Tribunal de Justiça.
+7. Agravo interno desprovido."
+(AgInt no AREsp 1555838/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2020, DJe 08/05/2020, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DESPROPORCIONALIDADE DAS MEDIDAS COERCITIVAS ATÍPICAS DEFERIDAS. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. AGRAVO NÃO PROVIDO. (..)
+3. O juízo de admissibilidade feito pelo Tribunal de origem não vincula esta Corte por se tratar de procedimento bifásico.
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp 1800322/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2020, DJe 24/04/2020, g.n.)
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. NÃO VINCULAÇÃO DO STJ. DECISÃO MANTIDA. (..)
+6. Segundo a jurisprudência do STJ, o juízo de admissibilidade é bifásico, ou seja, o primeiro juízo realizado no Tribunal de origem não tem o condão de vincular a decisão de admissibilidade do STJ, que é soberana à daquele" (AgInt no AREsp n. 1.453.558/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/8/2019, DJe 14/8/2019).
+7. Agravo interno a que se nega provimento."
+(AgInt no REsp 1771817/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/09/2019, DJe 03/10/2019, g.n.)
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE DÁ PROVIMENTO A AGRAVO DE INSTRUMENTO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. CABIMENTO DE AGRAVO REGIMENTAL APENAS PARA QUESTIONAR PONTOS REFERENTES À ADMISSIBILIDADE DO AGRAVO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (..)
+4. Cumpre salientar que o juízo de admissibilidade do recurso especial está sujeito a duplo controle, de maneira que a aferição da regularidade formal do apelo pela instância a quo não vincula o Superior Tribunal de Justiça. Com efeito, "esta Corte Superior de Justiça não está vinculada às decisões proferidas pelo Tribunal de origem no juízo de admissibilidade do recurso especial, por se tratar de um juízo preliminar não-vinculativo" (EDcl no AgRg no Ag 1.202.232/AL, Quinta Turma, Relatora a Ministra LAURITA VAZ, DJe de 24/5/2010).
+5. Agravo regimental a que se nega provimento, para confirmar a decisão que deu provimento ao agravo de instrumento para melhor apreciação das matérias veiculadas no recurso especial."
+(EDcl no AgRg no Ag 1339869/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/09/2013, DJe 16/10/2013, g.n.)
+Dessa forma, a decisão agravada deve ser mantida pelos seus próprios fundamentos.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
