@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO LEGAL. EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL. NÃO OCORRÊNCIA. AUSÊNCIA DE VÍNCULO ENTRE AS EMPRESAS.
+1. Malgrado haja certidão do Oficial de Justiça demonstrando que a empresa SuperMais Supermercado LTDA. encerrou suas atividades de forma irregular, o que enseja o redirecionamento da execução aos sócios-gerentes da executada, tal situação não caracteriza indícios suficientes de que houve sucessão empresarial, uma vez que não restou comprovado qualquer vínculo entre as empresas.
+2. Imperioso destacar que o fato de a empresa Agricer Distribuidora e Comércio de Produtos Alimentícios LTDA. explorar, no mesmo local, atividade econômica semelhante à exercida pela empresa executada, não basta como fundamento para que se reconheça a responsabilidade por sucessão, sobretudo porque restou certificado pelo Oficial de Justiça que não houve aproveitamento de funcionários ou equipamentos, tendo apenas sido locado o respectivo imóvel para a instalação da loja.
+3. Agravo legal improvido.
+A parte agravante sustenta que as Súmulas n. 283, 284, do STF, e 7, do STJ, não constituem empecilho ao conhecimento do recurso especial.
+As razões do recurso especial, todavia, não fazem impugnação específica à aplicação da jurisprudência do Superior Tribunal de Justiça ao caso concreto - especificamente no que se refere à aplicação da Súmula 7/STJ ao tema da preclusão pro judicato, de modo que a questão atrai a incidência do verbete nº 283 da Súmula do Supremo Tribunal Federal.
+De toda forma, o exame dos autos revela que a parte tenta atribuir, a decisão que determinou a abertura de oportunidade para produzir prova adicional, ostatusde julgamento definitivo quanto à insuficiência de reexame da prova que já estava juntada aos autos, argumento que, data venia, não vinga. A conclusão buscada não decorre logicamente da premissa indicada na recurso especial, circunstância que faz incidir aSúmulanº 284 do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
