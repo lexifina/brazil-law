@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL, fundamentado no artigo 105, inciso III, alíneas "a" e"c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. BRASIL TELECOM. DECISÃO QUE CONSIDEROU CORRETO O CÁLCULO ELABORADO PELA CONTADORIA JUDICIAL. Atualização dos valores. Dispõe o art. 9º, inc. II, da Lei nº 11.101/2005 que a habilitação de crédito - realizada pelo credor nos termos do art. 7º, inc. II, da mesma Lei - deverá conter "o valor do crédito, atualizado até a data da decretação da falência ou do pedido de recuperação judicial, sua origem e classificação". Extrai-se do texto legal em comento a intenção do legislador em garantir a paridade de condições entre os credores. Contudo, no presente caso, considerando que o crédito da autora não se submete ao plano da recuperação judicial, deve o valor da condenação ser atualizado até a data do pagamento e somente eventual saldo remanescente ser objeto do disposto no art. 9º, II, da Lei nº 11.101/2005. Valor amortizado. Ao exame do cálculo elaborado pela Contadoria Judicial, verifica-se que houve amortização da quantia de R$ 55.484,70, a qual havia sido bloqueada em 12/04/2013, porquanto deve ser abatido do valor devido exatamente o que já havia sido bloqueado. A questão é de pura aritmética, não ensejando maiores perquirições. Levantamento dos valores. No que tange ao pedido de levantamento dos valores depositados nos autos, verifica-se que não houve qualquer pronunciamento neste sentido no ato judicial atacado. Assim, não há interesse recursal no tocante a este aspecto, razão pela qual não conheço do recurso, no ponto. AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DESPROVIDO" (e-STJ fl. 650).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 686/694).
+Nas razões recursais (e-STJ fls. 704/742), além de divergência jurisprudencial, a recorrente alega violação dos artigos1.022, do Código de Processo Civil/2015; 884do Código Civil e 9º, II, 49 e 59 da Lei nº 11.101/2005.
+Aduz que o aresto recorrido incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito das questões suscitadas nos aclaratórios.
+Sustenta, em síntese, a impossibilidade de amortizar valores em processo cujo trânsito em julgado da impugnação ocorreu após a recuperação judicial, de modo que os valores devem se submeter aos efeitos do plano de soerguimento.
+Afirma que a definição da natureza do crédito decorrente de responsabilidade civil, se concursal ou extraconcursal, se dá no momento em que ocorreu o fato lesivo que originou a pretensão autoral.
+Defendeque o crédito da parte recorrida, por ser oriundo de fato ocorrido antes do ajuizamento da recuperação judicial, é concursal e deve ser habilitado naqueles autos, para ser quitado nos termos do Plano de Recuperação Judicial.
+Assinala que a atualização do crédito deve ocorrer até a data do pedido de recuperação judicial.
+Menciona que compete ao juízo universal deliberar sobre a constrição de bens/valores da empresa recuperanda.
+Ao final, requer o provimento do recurso.
+Com as contrarrazões (e-STJ fls. 761/782), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Observa-se que o recurso especial foi interposto contra acórdão proferido no julgamento de agravo de instrumento aviado em face de decisão homologatória de laudo pericial.
+Consultando as informações processuais disponibilizadas no sítio eletrônico do Tribunal de origem, verifica-se que, em 29/4/2022- posteriormente, portanto, à data de interposição do presente recurso especial -, foi proferida sentença que concluiu pela procedência parcial do pedido autoral, sendo disponibilizada no DJe de 2/5/2022, estando, portanto, com prazo aberto para recurso de apelação.
+Nesse contexto, é flagrante o esvaziamento do objeto do recurso especial.
+Registra-se, ainda, que "É entendimento assente no STJ que, proferida sentença no processo principal, perde o objeto o recurso de Agravo de Instrumento interposto contra decisão interlocutória" (REsp 1.666.941/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/8/2017, DJe 13/9/2017).
+Confira-se, ainda:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. FUNDAMENTO DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+2. De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto"(REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022), o que foi observado pela (..)
+6. Agravo interno a que se nega provimento"(AgInt no AREsp 1.914.160/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/04/2022, DJe 19/04/2022).
+Ante o exposto, com base no artigo 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento, onde não houve condenação a título de honorários advocatícios.
+Intimem-se.
+Publique-se.
