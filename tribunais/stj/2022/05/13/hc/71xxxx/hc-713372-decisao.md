@@ -1,0 +1,31 @@
+DECISÃO
+Por meio destehabeas corpus, com pedido liminar, pretende-se a imediata revogação da prisão preventiva deCarlos Eduardo Zampolla- preso preventivamente pela prática, em tese, dos crimes de organização criminosa, receptação de animal roubado e falsidade ideológica, no Processo n. 1500255-04.2021.8.26.0306, da 2ª Vara da comarca de José Bonifácio/SP -, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n.2206274-30.2021.8.26.0000 (fl. 22):
+HABEAS CORPUS - Organização criminosa, receptação de animal roubado e falsidade ideológica. O decreto de prisão preventiva está devidamente fundamentado quando revela a imprescindibilidade da custódia cautelar.
+ORDEM DENEGADA.
+Aqui, os impetrantes alegam, em síntese,falta de fundamentação idônea a amparar a custódia e ausência decontemporaneidade da segregação cautelar.
+Liminar indeferida (fls. 1.081/1.082).
+Informações prestadas (fls. 1.086/1.091 e 1.095/1.096), o Ministério Público Federal ofereceu parecer pela denegação da ordem(fls. 1.144/1.146).
+Às fls. 1.148/1.152, a defesa reiterao pedido de concessão da ordem para o fim de cassar-se o insubsistente decreto de prisão preventiva chancelado pelo acórdão impetrado ou, quando não, para a aplicação ao paciente de medidas cautelares diversas da prisão (fl. 1.152).
+É o relatório.
+De pronto, destacoquenão há falar em ausência de contemporaneidade entre os fatos e o decreto preventivo nas hipóteses em que os indícios de autoria apenas se confirmam no decorrer das investigações(AgRg no RHC n. 154.267/PA, Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/12/2021, DJe 13/12/2021).Da Sexta Turma, na mesma linha, por exemplo, o AgRg no RHC n. 141.795/PR, da minha relatoria, DJe 27/9/2021. Sem contar quecrime de integrar organização criminosa é de natureza permanente, e a situação flagrancial se protrai no tempo.
+Como bem afirmou o Subprocurador-Geral da República Mário Pimentel Albuquerque,a regra da contemporaneidade comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais),como no caso de pertencimento a organização criminosa(fl. 1.146- grifo nosso).
+Com efeito,em relação àalegação de falta de fundamentação idônea a amparar a custódia cautelar, a Corte de origem ressaltou(fls. 23/27- grifo nosso):
+ ..
+O paciente é acusado de comandar uma organização criminosa, associado com mais nove pessoas para o fim de cometerem crimes, inclusive com emprego de armas de fogo.
+Segundo o apurado, o bando criminoso agia com modus operandi bem definido, "causando terror nas áreas rurais, realizando a subtração deanimais bovinos prontos para abate, mediante violência e ameaça com armas de fogo, em concurso de pessoas, e com restrição da liberdade das vítimas que, durante os crimes, eram trancadas no interior da residência e ficavam em cárcere, sob a mira de arma de fogo, enquanto os demais integrantes do grupo criminoso realizada o manejo dos animais do curral. Na sequência, chegavam os caminhões boiadeiros do grupo, que de possa de Notas Fiscais de Produtor e GTA (Guia de Transporte Animal) ideologicamente falsas, realizavam o transporte dos animais subtraídos ao Frigorífico de Ouroeste, onde eram abatidos" fl. 938.
+De acordo com o parecer ministerial - O paciente dava as ordens e acompanhava à distância a ação dos demais comparsas. É certo que interceptação telefônica revelou diálogos que evidenciam as tratativas do paciente para a constante aquisição e administração do gado roubado(fls. 938).
+A impetração sustenta que a decretação da prisão preventiva foi indevida, pois estariam ausentes os requisitos do art. 312 do Código de Processo Penal.
+Porém, após analisar os argumentos invocados pelo impetrante, não se verifica o alegado constrangimento ilegal relatado no writ.
+ ..
+Acrescente-se, por derradeiro, que a situação do paciente não é idêntica à dos demais denunciados, pois segundo a Acusação ele teria posição de líder na organização criminosa, não sendo caso de se acolher o pedido de extensão da decisão que beneficiou os demais.
+ ..
+Dos excertos transcritos verifica-se queinexiste constrangimento ilegal na segregação cautelar dopaciente, porquanto devidamente fundamentada em dados concretos do delitoe justificada por razões de ordem pública.
+O paciente éapontado como membro ativo da organização criminosa, cuja função seria a de comandar o grupo criminoso, que conta commais nove pessoas para o fim de cometercrimes:subtração de animais bovinos prontos para abate, mediante violência e ameaça com armas de fogo, com restrição da liberdade das vítimas que, durante os crimes, eram trancadas no interior da residência e ficavam em cárcere, sob a mira de arma de fogo, enquanto os demais integrantes do grupo criminoso realizada o manejo dos animais do curral (fl. 23).
+Diz a nossa jurisprudência quea necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva(STF: HC n. 95.024/SP, Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+Outrossim,no caso em apreço, a prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, tendo sido demonstradas, com base em elementos concretos, a periculosidade do paciente e a gravidade dos delitos, consubstanciadas nos fortes indícios de que integraria organização criminosa altamente articulada e especializada na consecução de fraudes(HC n. 510.022/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 19/9/2019).
+Conclui-se, então, que a impetração não demonstrou o alegado constrangimento ilegalna manutenção da prisão preventiva imposta ao paciente.
+Em razão disso, acolhendo parecer ministerial,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, RECEPTAÇÃO DE ANIMAL ROUBADO E FALSIDADE IDEOLÓGICA.PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA.CONTEMPORANEIDADE.ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PARECER ACOLHIDO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
