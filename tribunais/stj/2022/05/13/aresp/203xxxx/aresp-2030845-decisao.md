@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por TOTAL LINHAS AÉREAS S/A, contra decisão que inadmitiu recurso especial. O apelo extremo,fundamentado no artigo 105, inciso III, alínea"a", da ConstituiçãoFederal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"DIREITO CIVIL EPROCESSUAL CIVIL. INTERNACIONAL PRIVADO. APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE C/C PEDIDO INDENIZATÓRIO. SENTENÇA. DECISÃO INTEGRATÓRIA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CARACTERIZADA. ARTIGO 1.022 DO CPC. REQUISITOS AUSENTES. NULIDADE AFASTADA. INOVAÇÃO RECURSAL. CONTRATO INTERNACIONAL. FORO DE ELEIÇÃO CONTRATUAL. COMPETÊNCIA JURISDICIONAL. JUSTIÇA BRASILEIRA. LOCAÇÃO DE MOTOR DE AERONAVE. PRAZO DETERMINADO. MORA CONFIGURADA. DEVER DE PAGAMENTO. DEVOLUÇÃO TARDIA DO BEM LOCADO. REINTEGRAÇÃO DA POSSE. AUSÊNCIA DE INTERESSE DE AGIR SUPERVENIENTE. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. CONTRATO FIRMADO EM MOEDA NORTE-AMERICANA. VALOR EXPRESSIVO DO BEM LOCADO. MULTA CONTRATUAL. AUSÊNCIA DE ABUSIVIDADE. RECURSO IMPROVIDO.
+I-Enfrentada a matéria posta em debate, na medida necessária para o deslinde da controvérsia, com a indicação precisa das causas e normas que ampararam o convencimento do magistrado, motivação contrária ao interesse da parte não configura ofensa aos elementos contidos no art. 489 do CPC.
+II-Não há se falar em nulidade da decisão exarada em sede de embargos de declaração, por ausência de fundamentação, quando não verificada nenhuma das hipóteses previstas no art. 1.022 do CPC.
+III-É defeso à parte suscitar, em sede de apelação, argumentos não lançados no processo, o que enseja o não conhecimento do recurso no ponto, sob pena de afronta à ampla defesa e ao duplo grau de jurisdição.
+IV-Não versando a hipótese acerca das matérias elencadas no artigo 23 do CPC, e tendo a parte contratada renunciado ao foro estrangeiro, onde localizada a sua sede, e externado pela contratante o benefício do ajuizamento da demanda no Brasil, em razão da facilitação da sua defesa, irrazoável o pleito recursal de declaração da incompetência da jurisdição nacional para o julgamento do feito.
+V- Tendo o litígio sido instaurado pela parte contratada, com obrigações a serem cumpridas no Brasil e no exterior, a legislação estrangeira a ser imputável à relação deve observar aos termos avençados pelas partes, sem, contudo, elidir por completo eventual incidência da lei vigente no país onde tramita o litígio, a fim de elidir eventual abusividade excessiva.
+VI-Considerando que o contrato foi estabelecido mediante o pagamento de quantias em dólar norte-americano, e tendo em vista o valor do bem locado, equivalente a US$1.100.000,00 (hum milhão e cem mil dólares), julgo que a multa estabelecida em US$438,00/dia não se revela exorbitante, sobretudo tendo em vistaque a ré, ao assinar o instrumento contratual, já detinha ciência da sua impossibilidade de restituir o bem à locadora no prazo avençado no contrato, não constituindo essa imposição afronta às garantias constitucionais e legais previstas em nosso ordenamento.
+VII-Tendo em conta que o processo foi extinto por falta de interesse de agir superveniente, em razão da mora contratual da locatária em restituir o bem locado, no prazo avençado, deve a mesma suportar com os ônus sucumbenciais, em observância ao princípio da causalidade, que determina que tais ônus devem ser atribuídos à parte que deu causa à instauração do litígio.
+VIII-Julgado procedente o pedido inicial, deve a ré arcar com o valor integral das custas e despesas processuais, além dos honorários de sucumbência fixados em favor dos patronos da parte contrária" (fls. 1.037/1.038 e-STJ).
+Os embargos de declaração opostos foram acolhidos para corrigir erro material (fls. 1.077/1.080 e-STJ).
+Os embargos declaratórios opostos às fls. 1.084/1.089 (e-STJ) foram rejeitados (fls. 1.096/1.107 e-STJ).
+No recurso especial (fls. 1.183/1.192 e-STJ), a agravante aponta, além de divergência jurisprudencial,a violação dosartigos 85, §§ 2º e 6º, 86, 489, § 5º, e 1.022 do Código de Processo Civil.
+Sustenta a tese de negativa de prestação jurisdicional.
+Afirma que, embora a parte recorrida tenha sucumbido em relação ao pedido principal, pois o pedido de reintegração de posse foiextinto sem resolução do mérito, não foram fixados honorários sucumbenciais em seu favor.
+Argumenta que o caso é de sucumbência recíproca e que, portanto, os ônus sucumbenciais devem ser distribuídos de proporcionalmente.
+Com as contrarrazões (fls. 1.285/1.325 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se aoexame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado navigência do Código de Processo Civil de 2015 (Enunciados Administrativosnºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Inicialmente, no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. MANIFESTO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+2. A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+3. Embargos de Declaração rejeitados" (EDcl no AgRg no AREsp 840.702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016).
+Com relação à distribuição dos ônus de sucumbência, a Corte de origem asseverou que
+"(..)
+Concernente à sucumbência quanto à reintegração de posse, a sentença não merece qualquer reparo, eis que a perda do objeto da ação, quanto a esse ponto, se deu em função da entrega tardia do bem locado pela ré/locatária. Assim, o processo deve ser extinto por falta de interesse de agir superveniente, ressaltando-se que os honorários de sucumbência são regidos pelo princípio da causalidade, que determina que tais ônus devem ser atribuídos à parte que deu causa à instauração do litígio.
+(..)
+Ante o exposto, considerando que a autora logrou êxito integralmente em seu pleito inicial, não há se falar em sucumbência recíproca" (fls. 1.052/1.054 e-STJ).
+Nesse contexto, o acolhimento da pretensão recursal no sentido de que houve sucumbência recíproca demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7 deste Superior Tribunal.
+Em reforço:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A jurisprudência do STJ orienta que as disposições da Lei 13.786/2018, sobre a devolução dos valores pagos e o percentual a ser retido pelo fornecedor em caso de rescisão contratual, não são aplicáveis aos contratos celebrados anteriormente à sua vigência.Incidência da Súmula 83 do STJ.
+2. A Segunda Seção desta Corte, no julgamento do Resp nº 1.723.519/SP, em 28/08/2019, reafirmou a orientação pela adoção de um padrão-base de cláusula penal - retenção de 25% dos valores pagos - nos casos de desistência imotivada pelo comprador de imóvel, em que o acórdão recorrido não menciona qualquer circunstância específica que justifique a redução do parâmetro jurisprudencial.
+3. O STJ possui entendimento no sentido de que a verificação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, a fim de reformular a distribuição dos ônus de sucumbência, bem como a alteração da sucumbência mínima ou recíproca identificada pela instância ordinária, são inviáveis no âmbito do recurso especial, por demandar o reexame de matéria fática, obstado na via especial, a teor da Súmula 7 do STJ.
+4. Agravo interno parcialmente provido para, reconsiderando em parte a decisão monocrática anteriormente proferida, fixar o percentual de retenção em 25% dos valores pagos pela compradora"(AgInt no REsp 1.920.804/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FORNECIMENTO DE GASES. RESCISÃO ANTECIPADA. PRETENSÃO DE INDENIZAÇÃO POR DANOS MORAIS AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AFERIÇÃO DA SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Considerando que os fundamentos do acórdão recorrido (no que tange ao afastamento da pretensão de indenização por danos morais) não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência da Súmula n. 283 do Supremo Tribunal Federal.
+2. A revisão da conclusão alcançada pelo Tribunal de origem não prescindiria do reexame das próprias provas examinadas, a fim de que fossem extraídas conclusões em sentido contrário àquelas constantes do acórdão recorrido, providência manifestamente proibida nesta instância, conforme o óbice da Súmula 7/STJ.
+3. A apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno improvido"(AgInt nos EDcl no AREsp 1.676.383/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinzepor cento) em favor do advogado do agravado.
+Intimem-se.
+Publique-se.
