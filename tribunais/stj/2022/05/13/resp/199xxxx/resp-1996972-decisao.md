@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por KIRTON BANK S.A. - BANCO MÚLTIPLO,fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal,contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Liquidação de sentença proferida em Ação Civil Pública proposta por IDEC contra HSBC Bank Brasil S/A Banco Múltiplo. ILEGITIMIDADE ATIVA - Coisa julgada. Questão molecular dirimida com o trânsito em julgado da ação civil pública. Possibilidade conferida a todo o poupador que demonstre que foi lesado pela conduta do Banco a dar início à liquidação do julgado em seu domicílio. Desnecessidade de demonstração do vínculo associativo.
+COMPETÊNCIA - Sentença com efeito erga omnes para beneficiar todas as vítimas e seus sucessores. Faculdade da parte na escolha do local onde promoverá a liquidação. Possibilidade de se processar tanto no domicílio do liquidante, quanto na localidade em que tramitou a ação condenatória.
+ILEGITIMIDADE PASSIVA - Não restou comprovado que os valores relativos aos depósitos de caderneta de poupança foram excluídos da transferência do ativo. Responsabilidade exclusiva assumida inclusive pelas obrigações relativas às contas de poupança. Precedentes jurisprudenciais.
+CÁLCULOS apresentados em sede de liquidação. Diferenças existentes nos cálculos das partes que têm como fator preponderante o "dies a quo"dos juros de mora.
+JUROS REMUNERATÓRIOS E CORREÇÃO MONETÁRIA - Cabimento de juros remuneratórios e correção monetária, a ser realizada de acordo com a Tabela Prática de Atualização dos Débitos Judiciais do Tribunal de Justiça de São Paulo das datas em que deveriam ter sido realizados os créditos e até o efetivo pagamento, sendo irrelevante a data de encerramento da conta.
+JUROS MORATÓRIOS - Os juros moratórios devem ser contados a partir da citação na Ação Civil Pública no percentual de 0,5% ao mês até 10 de janeiro de 2003 e 1% a partir de 11 de janeiro de 2003.
+Recurso desprovido" (e-STJ fl. 422).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 475/509).
+Nas razões recursais (e-STJ fls. 512/540), o recorrente alega violação dos artigos 490, 492 e 1.022 do Código de Processo Civil de 2015;6º da Lei nº 9.447/1997;2º da Lei 9.494/1997e 397 do Código Civil.
+É o relatório.
+DECIDO.
+Nas razões do recurso especial, a parte recorrente discute, entre outras questões, sua legitimidade passiva para responder pelos encargos advindos de expurgos inflacionários relativos a cadernetas de poupança mantidas perante o extinto Banco Bamerindus S/A, em decorrência de sucessão empresarial havida entre as instituições financeiras.
+Trata-se de controvérsia afetada à Segunda Seção para julgamento sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil de 2015, conforme o Tema nº 1.015 assim delimitado:
+"PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. EXTINTO BANCO BAMERINDUS S/A. LEGITIMIDADE PASSIVA DE HSBC BANK BRASIL S/A. SUCESSÃO ENTRE AS INSTITUIÇÕES FINANCEIRAS. NATUREZA E ALCANCE. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, acerca do tema: "Legitimidade passiva do HSBC Bank Brasil S/A para responder pelos encargos advindos de expurgos inflacionários relativos à cadernetas de poupança mantidas perante o extinto Banco Bamerindus S/A, em decorrência de sucessão empresarial havida entre as instituições financeiras".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015"(ProAfR no REsp nº 1.362.038/SP, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 28/5/2019, DJe 6/6/2019).
+Diante disso, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
