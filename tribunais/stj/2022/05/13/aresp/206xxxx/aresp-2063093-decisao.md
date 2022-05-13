@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por ADOLFO JOSÉ COSTA DE OLIVEIRA - ESPÓLIOcontra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro,assim ementado (e-STJ, fl. 434):
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL.CIRURGIA ESTÉTICA. OBRIGAÇÃO DE RESULTADO. Legitimidade passiva do espólio do médico falecido. Precedentes. Culpa presumida do profissional diante do resultado cirúrgico insatisfatório.Lesões estéticas resultantes de redução com implante de próteses mamárias e lipoaspiração. Elemento subjetivo e nexo de causalidade demonstrados.Violação, ainda, do dever de informação. Teoria do consentimento informado. Não comprovação de fato desconstitutivo do direito da autora. Ônus do demandado. Dano moral configurado. Verba corretamente arbitrada. Dano material. Cabimento da devolução do valor pago. Condenação à obrigação de fazer consistente em arcar com os custos de novo ato cirúrgico. Descabimento. Hipótese de concurso de ações à escolha do consumidor. Impossibilidade de cumulação objetiva. Recurso parcialmente provido."
+Opostos embargos de declaração, foram desprovidos.
+Nas razões do recurso especial, a parte agravante alega violação dos arts.489, § 1º, III e IV,do CPC/15, 14, §4º, do CDC, sustentando, em síntese: a) "(..) não há fundamentação com base nas provas produzidas, pois estas não são capazes nem de comprovar o dano, quiçá a culpa, e isto não é suficiente para ensejar o dever de indenizar.Ademais, a única fundamentação é em torno de uma pequena assimetria nas mamas, porém, como já explanado se tratava de um procedimento reparador, além disso, não existe simetria perfeita entre dois dimidios corporais e a paciente possuía acentuada assimetriae ptose nas mamas"(e-STJ, fls. 463/464); b) "Apenas a existência do dano não é o suficiente para ensejar a reparação, é necessário que haja nexo de causalidade, logo, uma conduta culposa que tenha dado causa ao dano, e não foi o que se observou neste caso"(e-STJ, fl. 465).
+É o relatório. Decido.
+De início, não procede a alegada ofensa aoart. 489do Códigode Processo Civil de 2015, tendo em vista que o v. acórdão recorrido,embora não tenha examinado individualmente cada um dos argumentossuscitados pela parte, adotou fundamentação suficiente, decidindointegralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade oucontradição no julgado apenas porque decidido em desconformidade com osinteresses da parte. No mesmo sentido, podem ser mencionados os seguintesjulgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSOLIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Por sua vez, oTribunal de origem,com base nos fatos e nasprovas presentes nos autos,bem como mediante análise da perícia médica realizada, reconheceu estarem presentes nos autos elementos que caracterizem o dever em indenizar a ora agravada, consignando, in verbis:
+"Quanto ao mérito, cediço ser a relação entre as partes de consumo, daí se segue que a matéria, objeto da demanda, está submetida aos ditames do Código do Consumidor.
+Nesse ponto, a responsabilidade do apelante é subjetiva, nos termos do art. 14, § 4º daquele diploma, pelo que necessária prova do fato, do dano, do nexo causal entre ambos, e da culpa.
+Cumpre destacar, neste ponto, que, segundo a melhor doutrina, a obrigação, na hipótese, é de resultado, porquanto envolve o emprego de técnica específica, de forma a possibilitar o alcance do resultado pretendido, mormente pelo fato de o serviço consistir em redução com implante de próteses mamárias e lipoaspiração, cuja natureza é exclusivamente estética.
+(..)
+Em outras palavras, exige-se a demonstração de que o profissional agira com todo o cuidado e que o insucesso decorreu de circunstâncias especiais do paciente, bem como que foi corretamente cumprido o dever de informar.
+Compete, pois, ao consumidor demonstrar o resultado danoso, cumprindo ao profissional liberal a prova da causa imprevista e do consentimento consciente.
+No caso em julgamento, estas últimas não foram demonstradas.
+Segundo a perícia, "constatou-se assimetria entre as mamas examinadas, estando a direita com polo superior mais elevado e a esquerda mais volumosa" (pasta 223, fls. 221) e "prótese não encapsulada, estando a direita implantada mais alta que a esquerda" (pasta 223, fls. 216).
+Quanto ao abdômen, a perita asseverou a existência de "ligeira assimetria entre as laterais direita e esquerda" (pasta 223, fls. 216) e concluiu que "o resultado obtido não brindou a autora com sua expectativa estética" (pasta 223, fls. 221).
+Ademais, embora a prova pericial tenha sido realizada "cerca de cinco anos e sete meses" após a realização do ato cirúrgico, como bemressaltado pela perita, a análise da conduta técnica do cirurgião ficou prejudicada pela ausência do prontuário médico nos autos.
+De fato, o perito asseverou o seguinte:
+"Registramos que o prontuário médico com a avaliação pré- operatória do Cirurgião, sintomas da paciente, assim como todo o acompanhamento pré, per e pós-operatório, incluindo fotos, não consta nos autos.
+Na ausência de uma avaliação médica transcrita nos autos, fica o Perito impedido de se manifestar com relação a conduta técnica do Cirurgião, privado que está da avaliação médica da paciente.
+Também não temos como avaliar a conduta profissional do Cirurgião Réu, pois a ficha médica da paciente não faz parte da documentação médica do processo. (pasta 223, fls.222)".
+Nesse ponto, constituía ônus do demandado a apresentação do prontuário médico para demonstrar o atuar diligente e elidir a presunção de culpa que sobre ele recai, o que não se fez, embora o juízo tenha concedido oportunidade para tanto (pastas 256 e 258).
+Além, disso, a perícia asseverou que "não consta nos autos o Termo de Consentimento Informado assinado", com que se tem também por indemonstrado o cumprimento do dever de informação quanto à possibilidade de cicatriz que não melhora a estética.
+Como cediço, em matéria de responsabilidade civil médica, vige a teoria do consentimento informado, segundo a qual o paciente deve ter total e perfeito conhecimento dos riscos inerentes aos tratamentos terapêuticos indicados e, só então, decidir se a eles se submete.
+(..)
+Configura fato extintivo do direito do autor o cumprimento daquele dever, cujo ônus ao apelado incumbia, dada a presunção de culpa de que se reveste cirurgia estética que não termina a contento.
+Reconhecida a obrigação como de resultado, impunha-se ao recorrido o dever de informar, adequadamente, a apelada acerca das consequências da cirurgia, visto como o resultado não foi o esperado.
+Contudo, não existe prova nos autos de que o recorrido adimpliu tal dever.
+Destarte, está confirmada a presunção de culpa antes mencionada.
+Nota-se, portanto, que o tratamento inadequado dispensado pelo apelante ocasionou o dano de caráter estético suportado pela recorrida, conforme resposta ao 1º quesito de fls. 217, o qual indagou "se as fotografias de fls. 41/46 demonstram que houve sequelas provenientes da operação" a que o perito respondeu que "sequelas estéticas, sim" (pasta 223, fls. 217).
+Em seus esclarecimentos, o experto ainda asseverou que "as alterações no resultado foram em decorrência do procedimento cirúrgico realizado" (pasta 247, fls. 236), eis por que está confirmado o nexo de causalidade.
+Frise-se que a referência, no laudo pericial à "cirurgia plástica reparadora" no campo "descrição fática", conforme mencionado nas razões de apelo (pasta 356, fls. 363) decorreu da reprodução do que foi alegado na inicial, razão pela qual tal circunstância não retira o caráter eletivo eestético dos procedimentos realizados, tampouco altera a conclusão alcançada.
+Uma vez não elidida a presunção de culpa e caracterizado o nexo de causalidade entre os danos suportados pela consumidora e a atuação profissional do recorrente, emerge o dever de indenizar.
+No tocante às verbas indenizatórias, o dano moral resultou configurado, porquanto as lesões suportadas pela recorrida geraram aflição e angústia, que desencadearam o dano imaterial.
+Com efeito, indubitável que a lesão física suportada pela consumidora e a incerteza quanto ao sucesso do tratamento acarretaram desgosto íntimo e apreensão, do que decorre o direito à compensação."(e-STJ, fls. 441/445, g.n)
+Nesse contexto, eventual modificação do entendimento lançado no acórdão recorrido a fim de reconhecer a inexistência deerro médico, demandaria incursão no suporte fático-probatório dos autos, inviável em recurso especial (Súmula 7/STJ). Confiram-se, a propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.INCIDÊNCIA DA SÚMULA Nº 7/STJ. COLOCAÇÃO DE PRÓTESE MAMÁRIA PELA AGRAVANTE. ERRO MÉDICO AFASTADO. RESPONSABILIDADE DOS AGRAVADOS NÃO DEMONSTRADA. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ À PRETENSÃO RECURSAL. DECISÃO QUE SEGUE MANTIDA.
+ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO."
+(AgInt no AREsp 1500222/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ERRO MÉDICO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. FALTA DE COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pelo recorrente, quanto ao dever de indenizar, demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+3. O conhecimento do recurso especial exige que a parte demonstre, de forma expressa e clara, como foi contrariada a lei federal.
+Tratando-se de recurso interposto pela alínea "c", deve o recorrente comprovar, analiticamente, que os acórdãos confrontados deram ao mesmo artigo de lei interpretações divergentes. Descumprido tal requisito, incide, por analogia, a Súmula n. 284/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1641650/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO DECORRENTE DE ERRO MÉDICO. ALTA MÉDICA QUE CONTRIBUIU DE FORMA IMPORTANTE PARA O FALECIMENTO DA PACIENTE. DANO MORAL CONFIGURADO.VALOR DA INDENIZAÇÃO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A responsabilidade do hospital é objetiva quanto à atividade de seu profissional plantonista (CDC, art. 14), de modo que dispensada demonstração da culpa do hospital relativamente a atos lesivos decorrentes de culpa de médico integrante de seu corpo clínico no atendimento.
+2. A responsabilidade de médico atendente em hospital é subjetiva, necessitando de demonstração pelo lesado, mas aplicável a regra de inversão do ônus da prova (CDC. art. 6º, VIII).
+3. A verificação da culpa de médico demanda necessariamente o revolvimento do conjunto fático-probatório da causa, de modo que não pode ser objeto de análise por este Tribunal (Súmula 7/STJ).
+4. O valor fixado a título de danos morais somente comporta revisão nesta sede nas hipóteses em que se mostrar ínfimo ou excessivo, o que não restou configurado na espécie.
+5. Agravo interno não provido.
+(AgInt no AREsp 1649072/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. De acordo com a jurisprudência desta Corte, o hospital responde de forma solidária e objetiva por defeitos na prestação de serviço médico por profissionais a ele vinculados, desde que apurada a culpa do profissional. Precedentes.
+1.1. A conclusão a que chegou o Tribunal de origem, relativa à ausência de ato ilícito perpetrado pelo médico, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1581823/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/03/2020, DJe 25/03/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorridaem 1% (um por cento).
+Publique-se.
