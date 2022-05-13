@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+O INSS, em sua petição de recurso especial, aponta que "não houve recurso da autarquia em face da sentença de 1º grau. Por conseguinte, não há que se falar em majoração da verba sucumbencial, pois a autarquia não deu causa à atuação recursal"(e-STJ, fl. 697).
+É o relatório.
+Verifica-se que a questão jurídica objeto do presente recurso constituitema dos Recursos Especiais n. 1.865.553/PR, 1.865.223/SCe 1.864.633/RS (Tema 1.059 - Possibilidade de majoração, em grau recursal,da verba honorária fixada em primeira instância contra o INSS quando orecurso da entidade previdenciária for provido em parte ou quando oTribunal nega o recurso do INSS, mas altera de ofício a sentença apenasem relação aos consectários da condenação), submetido ao rito dos recursos repetitivos,estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
