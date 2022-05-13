@@ -1,0 +1,81 @@
+DECISÃO
+POSTO DE COMBUSTIVEIS GOTAS DE OURO LTDA. ME (POSTO GOTAS DE OURO) ajuizou ação de reparação de danos materiais cumulada com cobrança de multa contratual contra RAÍZEN COMBUSTÍVEIS S.A. (RAÍZEN) em virtude de suposto inadimplemento de contratos de compra e venda mercantil de produtos e de comodato de equipamentos firmados entre as partes (e-STJ, fls. 1/11).
+A sentença reconheceu a revelia da RAÍZEN e julgou procedentes os pedidos para condená-la ao pagamento das perdas e danos suportados pelo POSTO GOTAS DE OURO (e-STJ, fls. 187/190).
+O Tribunal de Justiça do Estado do Espírito Santo deu provimento à apelação interposta pela RAÍZEN, anulando a sentença anteriormente proferida (e-STJ, fls. 278/292).
+Contra essa decisão foram opostos embargos de declaração que foram parcialmente acolhidos, apenas para sanar erro material (e-STJ, fls. 312/318).
+Irresignado, o POSTO GOTAS DE OURO interpôs recurso especial, com fundamento nas alíneas a e c do permissivo constitucional. Apontou violação do art. 511 do CPC/73, bem como dissídio jurisprudencial. Sustentou que a apelação interposta pela RAÍZEN deveria ser considerada deserta (e-STJ, fls. 321/334).
+Admitido o recurso na origem e distribuído o feito no STJ o Ministro ANTONIO CARLOS FERREIRA, em decisão monocrática, deu provimento ao recurso especial do POSTO GOTAS DE OURO para reconhecer a deserção da apelação interposta pela RAÍZEN (e-STJ, fls. 372/373).
+Inconformada, RAÍZEN interpôs agravo interno que não foi provido pela Quarta Turma, mantida a decisão unipessoal do relator, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. APELAÇÃO. PREPARO. COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. MEIO INIDÔNEO. DESERÇÃO. DECISÃO MANTIDA. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA.
+1. O Superior Tribunal de Justiça, sob a égide do CPC de 1973, consolidou o entendimento de que a juntada do comprovante de agendamento não constitui meio apto à demonstração do preparo. Precedentes.
+2. "O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+3. "Não é deficiente a fundamentação do julgado que elenca suficientemente as razões pelas quais fez incidir os enunciados sumulares cabíveis na hipótese" (AgInt no AREsp n. 911.502/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/12/2016, DJe 7/12/2016).
+4. Agravo interno a que se nega provimento (e-STJ fl. 432).
+Contra essa decisão foram opostos embargos de declaração por RAÍZEN, que foram rejeitados (e-STJ, fls. 479/486).
+RAÍZEN, então, apresentou embargos de divergência apontando dissonância entre o posicionamento adotado pela Quarta Turma do STJ e o entendimento adotado pela Terceira Turma no AgInt no REsp 1.451.386/SC, DJe 28/03/2017 e no AgInt no REsp 1.537.583/MT, DJe 12/08/2016, e o entendimento da Corte Especial no EAREsp 516.970/PI, DJe 20/02/2018. Sustentou que a análise sobre a regularidade do preparo da apelação requer a análise dos fatos e provas dos autos, fazendo incidir o óbice da Súmula nº 7 do STJ. Aduziu que o STJ, quando julga a regularidade do preparo de recursos, deve perquirir não somente sobre sua comprovação, mas também sobre o seu efetivo pagamento (e-STJ, fls. 495/557).
+Os embargos de divergência foram distribuídos primeiramente à Corte Especial, tendo sido rejeitados liminarmente por decisão monocrática da Ministra NANCY ANDRIGHI, em decisão assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO PARADIGMA E EMBARGADO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de reparação de danos materiais cumulada com cobrança de multa contratual, em virtude de suposto inadimplemento de contratos de compra e venda mercantil e de comodato de equipamentos firmados entre as partes.
+2. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+3. Embargos de divergência indeferidos liminarmente. (e-STJ, fl. 587)
+Redistribuídos os autos para a análise do dissenso entre as Turmas que compõem a Segunda Seção, os embargos de divergência foram indeferidos liminarmente, em decisão monocrática assim ementada:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS REJEITADOS LIMINARMENTE. (e-STJ, fl. 597)
+Na sequência, RAÍZEN interpôs agravo interno, refutando os argumentos da decisão monocrática firme na tese de que ficou configurada a divergência entre o julgado embargado e o trazido como paradigma quanto a análise da regularidade do preparo da apelação, uma vez que ambos os casos possuem o mesmo contorno fático, porém receberam tratamentos jurídicos diversos pelas Turmas que compões a Segunda Seção (e-STJ, fls. 607/616).
+A impugnação ao agravo interno foi apresentada às e-STJ, fls. 619/628.
+O agravo interno foi provido para admitir os embargos de divergência para dar oportunidade ao embargado de apresentar sua impugnação, bem como para abrir vista ao Ministério Público Federal (e-STJ, fls. 634/638).
+Contra esta decisão foram opostos embargos de declaração pelo POSTO GOTAS DE OURO sustentando que a decisão que admitiu os embargos de divergência deixou de fundamentar os motivos pelos quais a divergência ficou configurada (e-STJ, fls. 641/644).
+O embargado, POSTO GOTAS DE OURO, apresentou impugnação aos embargos de divergência sustentando que (1) o tema em debate diz respeito à falta de comprovação do pagamento das custas processuais no ato da interposição da apelação, nos termos do art. 511 do CPC/73, e não ao efetivo pagamento das custas recursais; (2) não há similitude fática, tampouco das questões processuais, entre o acórdão embargado e o acórdão paradigma prolatado no AgInt no REsp 1.451.386/SC; (3) o acórdão paradigma prolatado no AgInt no REsp 1.537.583/MT traz situação específica em que houve a juntada de comprovante de pagamento extraído da internet, que não se confunde com o comprovante de agendamento bancário; (4) o acórdão embargado julgou conforme o entendimento do STJ de que é inaplicável ao caso o óbice da Súmula nº 7 do STJ porque tratou de matéria processual (e-STJ, fls. 715/730).
+O Ministério Público Federal opinou no sentido de conhecer e dar provimento aos embargos de divergência porque a discussão sobre a deserção do recurso de apelação envolve matéria fática, o que encontra óbice na Súmula nº 7 do STJ. Ademais, ainda que que se avançasse sobre a regular efetivação do preparo, a razoabilidade militaria em favor da RAÍZEN, pelo princípio da instrumentalidade das formas, nos termos de precedente da Corte Especial (EAREsp 516.970/PI, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 07/02/2018, DJe 20/02/2018) (e-STJ, fls. 732/735).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, conforme o Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cinge-se a controvérsia em dirimir suposto dissenso quanto a impossibilidade de análise pelo STJ da regularidade do preparo da apelação diante do óbice da Súmula nº 7 do STJ e diante da necessidade de se perquirir não somente a comprovação mas também a efetivação do pagamento do preparo.
+(1) Da ausência de similitude fática entre os acórdãos confrontados
+A divergência viabilizadora dos embargos não está configurada, em razão da ausência de similitude fática entre os acórdãos confrontados.
+O acórdão prolatado no AgInt no REsp 1.537.583/MT, DJe 12/08/2016, da Terceira Turma, indicado como paradigma, traz situação específica em que houve a juntada de comprovante de pagamento extraído da internet, que não se confunde com o comprovante de agendamento bancário.
+O julgado embargado da Quarta Turma do STJ, no entanto, traz situação específica em que houve a juntada de comprovante de agendamento de pagamento pela empresa apelante.
+Quanto ao acórdão paradigma prolatado no AgInt no REsp 1.451.386/SC, DJe 28/03/2017, observa-se que a Terceira Turma não adentrou no mérito da questão porque, diante das peculiaridades daquele caso, a suposta ausência da comprovação do preparo do recuso de apelação implicaria a revisão das provas dos autos, atraindo, portanto, o Enunciado da Súmula nº 7 do STJ.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+No caso, o acórdão paradigma sequer ultrapassou o juízo de admissibilidade do recurso especial, o que representa óbice à configuração do dissenso apto a viabilizar os embargos de divergência.
+Com efeito, é inviável a uniformização do juízo de conhecimento, porquanto, ontologicamente, servem os embargos de divergência para harmonizar teses jurídicas que se contrapõem na matéria meritória.
+Nesse sentido é o enunciado da Súmula nº 315 do STJ: não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+O conhecimento dos embargos de divergência pressupõe a existência de similitude das circunstâncias fáticas e do direito aplicado nos acórdãos recorrido e paradigma, situação inexistente no caso vertente (EREsp 1.440.780/RJ, Rel. Ministro RAUL ARAÚJO, Segunda Seção, j. 11/5/2016, DJe 27/5/2016), o recurso, de fato, não merece prosperar.
+A propósito, confiram-se precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMERCIALIZAÇÃO DE PRODUTOS CONTRAFEITOS. DANOS MORAIS. NECESSIDADE DE COMPROVAÇÃO. ACÓRDÃOS CONFRONTADOS NÃO SEMELHANTES.
+1. A ausência de semelhança fática entre os acórdãos confrontados impede o conhecimento dos embargos de divergência.
+2. No acórdão embargado, ficou claro que a condenação nos danos morais decorreu da efetiva comercialização dos produtos falsificados, não da contrafação em si, que nem mesmo teria sido atribuída à embargante. O paradigma, entretanto, acolheu a necessidade de comprovação do dano moral em situação na qual os produtos contrafeitos nem sequer teriam sido comercializados.
+3. Ademais, discutindo-se no acórdão embargado os danos morais oriundos da comercialização do produto, revela-se até mesmo desnecessário debater, neste recurso, se a mera contrafação gera, por si, danos morais, independentemente de prova do prejuízo.
+4. Agravo regimental desprovido.
+(AgRg nos EREsp 1.125.739/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 25/2/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ACÓRDÃOS EMBARGADO E PARADIGMA. AUSÊNCIA DE SIMILITUDE FÁTICA. PREVIDÊNCIA PRIVADA. MIGRAÇÃO DE PLANO. REVISÃO DO VALOR DO BENEFÍCIO. REGRAS DO CONTRATO EXTINTO. ANULAÇÃO DA TRANSAÇÃO EXTRAJUDICIAL. NECESSIDADE. DECADÊNCIA DO DIREITO. SÚMULA 168/STJ.
+ ..
+3. O cabimento dos embargos de divergência restringe-se às hipóteses em que restar configurada a diversidade de tratamento jurídico aplicado por esta Corte Superior a situações fáticas semelhantes (arts. 546 do CPC e 266 do RISTJ).
+4. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência da Corte estiver no mesmo sentido do acórdão embargado.
+5. Agravo regimental não provido.
+(AgRg nos EREsp 1.302.621/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. 9/12/2015 - sem destaque no original)
+Ressalte-se que a Corte Especial firmou o entendimento de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+(2) Da Súmula nº 168 do STJ
+O dissídio jurisprudencial diz respeito a interpretação do art. 511 do CPC/1973:
+Art. 511. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+A jurisprudência do STJ, sob a égide do CPC/1973, se firmou no sentido de que o preparo e a sua comprovação devem acompanhar o ato de interposição do recurso, não sendo permitida a sua realização em momento posterior, o que gera a deserção recursal.
+A propósito, confiram-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. APELAÇÃO. PREPARO. COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. MEIO INIDÔNEO. DESERÇÃO. DECISÃO MANTIDA.
+1. O Superior Tribunal de Justiça, sob a égide do CPC de 1973, consolidou o entendimento de que a juntada do comprovante de agendamento não constitui meio apto à demonstração do preparo. Precedentes.
+2. "O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 636.866/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 17/2/2020, DJe 20/2/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. APELAÇÃO INTERPOSTA NA VIGÊNCIA DO CPC/1973. COMPROVANTE DE AGENDAMENTO BANCÁRIO. INADMISSIBILIDADE. MEIO INIDÔNEO. DESERÇÃO. INTIMAÇÃO. INVIABILIDADE. PRECEDENTES. SÚMULA 83/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. Nesta Corte se consolidou o entendimento de que, sob a égide do CPC/1973, o comprovante de agendamento não era meio apto a demonstrar que o preparo foi devidamente recolhido.
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.461.216/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/9/2019, DJe 12/9/2019 - sem destaque no original)
+Desse modo, considerando que o acórdão embargado se baseou em entendimento pacificado por esta Corte Superior, incide no caso o óbice da Súmula nº 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de dissenso entre os julgados confrontados.
+Nessas condições, nos termos do art. 266, do RISTJ, INDEFIRO LIMINARMENTE os presentes embargos de divergência.
+Em consequência, REJEITO os embargos de declaração opostos às e-STJ, fls. 641/644.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de RAIZEN COMBUSTÍVEIS S.A. em 5% (cinco por cento) sobre o valor atualizado da causa, nos termos do art. 85, § 11, do NCPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º 11 do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça (art. 98, § 3º do NCPC), em observância ao decidido no julgamento do AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 9/8/2017, DJe 19/10/2017.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
