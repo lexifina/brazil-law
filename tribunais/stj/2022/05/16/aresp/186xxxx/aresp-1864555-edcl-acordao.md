@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por TEREZA COLOMBO EQUIPAMENTOS RODOVIÁRIOS LTDAcontra acórdão que negou provimento ao agravo interno e foi assim ementado (e-STJ fls. 775-776).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). CONTRATO DE COMPRA E VENDA DE BEM MÓVEL. EMBARGOS À MONITÓRIA. AUSÊNCIA DE INDICAÇÃO DE ARTIGO TIDO POR VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISSÍDIO NÃO COMPROVADO NOS MOLDES LEGAIS. NÃO INDICAÇÃO DE DISPOSITIVO (S) QUE TERIAM RECEBIDO INTERPRETAÇÃO DIVERGENTE. COTEJO. INEXISTÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+Em suas razões, aembargante defende a inaplicabilidade do óbice aplicado pelo acórdão ora atacado.Aduz que "não há como concordar com o V. Acórdão recorrido, quando o mesmo se utiliza apenas da Sumula 284/STF para não acolher o RECURSO ESPECIAL, o AGRAVO DE INSTRUMENTO e o AGRAVO INTERNO, mormente quando as ilegalidades e violações a Lei Federal foram expostas no apelo nobre, bem como não havendo que se falar em falta de fundamentação na postulação da recursante, haja vista que a decisão recorrida contaria a própria jurisprudência da Corte Especial de Justiça, valendo ainda lembrar, que, conforme expendido alhures há flagrante contradição e divergência de entendimento das próprias Turmas Julgadoras do Superior Tribunal de Justiça"(e-STJ, fls.806).
+Alega que "houve omissão e contradição com relação as ilicitudes nas transações havidas entre a Embargada e a Empresa de Fomento Mercantil OPINIÃO S/A" (e-STJ, fl.806).
+Reprisa as razões de mérito pela qual entende deve ser provido seu recurso.
+Não houve apresentação de impugnação (e-STJ fl. 816).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes Colegas, os embargos de declaração não merecem acolhida.
+Nos rígidos limites estabelecidos pelo art. 1.022, incisos I, II e III do Código de Processo Civil/2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade ou eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados. (EDcl no REsp 1789667/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/02/2020, DJe 13/02/2020);
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VÍCIO DO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constata o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1303182/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/10/2019, DJe 21/11/2019)
+Nas razões dos embargos de declaração, a parte afirma que há omissão no julgado embargado que não se ateve aos pontos articulados no recurso especial relativamente à matéria de fato, "implicando em excesso de zelo e falta de entrega da prestação jurisdicional à parte interessada" (e-STJ, fl.798).
+No entanto, não é isso o que ocorre na hipótese dos autos.
+Na hipótese não há omissão ou contradição no acórdão que analisou os argumentos apresentadose concluiu que o recurso especial não poderia ser conhecidoem virtude da deficiência da fundamentação recursal, por ausência de indicação de forma precisa e clara, do (s) dispositivo (s) de lei federal ofendido (s), ou que tiveramsua interpretação divergente, situação que atraiu a incidência da Súmula 284/STF.
+Relativamente ao argumento de existência de que teria havidoa efetiva demonstração de divergência jurisprudencial, impende registrarqueaCorte Especial do Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial 1.346.588/DF, reafirmou a necessidade da parte recorrente identificar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio e de ferir a ampla defesa e contraditório ante a dificuldade do recorrido de identificar de forma clara e precisa a tese jurídica a ser impugnada.
+A propósito, vale lembrar que "O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição" (AgRg no REsp 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 16/05/2018).
+Verifica-se, assim, que o verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa já devidamente decidida.
+A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipóteses como a dos autos, que revelam tão-somente o inconformismo da parte com o julgado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/15. CONCESSÃO DE EFEITOS INFRINGENTES. OFENSA CARACTERIZADA. SÚMULA 568/STJ.
+1. Os embargos de declaração são cabíveis somente quando o provimento jurisdicional padece de omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC/15.
+2. Apenas excepcionalmente admite-se que os embargos de declaração - espécie recursal ordinariamente integrativa - tenha efeitos modificativos, sendo imprescindível, para tanto, a constatação da presença dos referidos vícios, cuja correção importe necessariamente em alteração da conclusão jurisdicional impugnada.
+3. A simples mudança de entendimento do tribunal de origem acerca de matéria anteriormente apreciada, ausentes erro material, omissão, contradição ou obscuridade, não autoriza a atribuição de efeitos infringentes aos embargos de declaração. Precedentes.
+4. Agravo interno desprovido. (AgInt no REsp 1763367/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020);
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER VÍCIO NO ARESTO EMBARGADO. MERA IRRESIGNAÇÃO COM O TEOR DO ACÓRDÃO EMBARGADO. DESCABIMENTO. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+1. A atribuição de efeitos infringentes, em embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+2. De toda a argumentação deduzida pela parte embargante, apenas se verifica irresignação com o disposto no aresto que negou provimento ao agravo interno nos embargos de divergência em agravo em recurso especial, não sendo o caso de opor embargos de declaração.
+3. Sobre a omissão e obscuridade apontadas, foram claramente abordadas e explicadas na ementa do acórdão embargado e exauridas no voto do Relator.
+4. Importante lembrar que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas sim, os argumentos levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador.
+5. A pretensão da parte ora embargante ao apontar omissão e obscuridade inexistentes é, tão somente, manifestar dissenso e pedir o rejulgamento de questão já decidida, o que não é cabível em embargos de declaração. A jurisprudência desta Corte Superior é pacífica no sentido de que a discordância com o julgamento não se configura motivo para a interposição de embargos declaratórios. Precedentes do STJ.
+6. Embargos de declaração rejeitados. (EDcl no AgInt nos EAREsp 926.064/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 02/10/2019, DJe 09/10/2019)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Nesse contexto, os presentes embargos não merecem acolhimento.
+Advirta-se que a reiteração deste expediente versando sobre o mesmo assunto será considerado manifestamente protelatório e ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, (artigo 1.026, § 2.º, do Código de Processo Civil).
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
