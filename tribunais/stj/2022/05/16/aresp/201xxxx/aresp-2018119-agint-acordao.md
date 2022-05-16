@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A. em face de decisão da Presidência desta Corte, de fls. 597-599, que negou provimento ao seu agravo, ante o óbice previsto na Súmula n. 182/STJ.
+Nas razões recursais, a parte agravante alega que impugnou de forma específica todas as fundamentações trazidas na decisão de inadmissão do Recurso Especial, pelo que inexiste qualquer justificativa legal para o seu não conhecimento.
+Acrescenta que deve haver o conhecimento e acolhimento das razões expostas no agravo em recurso especial que atacam a decisão de inadmissibilidade do recurso especial, não incidindo ao caso o conteúdo da súmula 182 do STJ.
+Requer o conhecimento e provimento do presente agravo para conhecer e dar provimento ao recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO VOLTADA À MANUTENÇÃO DE EMPREGADO APOSENTADO EM PLANO DE SAÚDE COLETIVO EMPRESARIAL. CONTRIBUIÇÃO POR MAIS DE DEZ ANOS. FUNDAMENTO INATACADO. SÚMULAS 283 E 284/STF. AGRAVO INTERNOPROVIDO.AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO
+1. Compulsando os autos verifica-se que, de fato, a parte agravante impugnou a parte da decisão recorrida fundamentada no óbice da Súmula 7/STJ, não sendo o caso, portanto, de aplicação da Súmula 182/STJ.
+2. Verifica-se que a argumentação contida no apelo especial não possui elementos suficientes para infirmar as razões colacionadas no aresto objurgado, pois não ataca especificamente os fundamentos utilizados pelo Sodalício de origem para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 283 e 284 do STF, ante a deficiência na motivação.
+3. À luz do aludido contexto normativo, a jurisprudência desta Corte é no sentido de ser assegurado ao aposentado (com mais de dez anos de contribuição) a permanência no plano de saúde coletivo empresarial, observadas "as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o pagamento integral desta, a qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear" (REsp 531.370/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 07.08.2012, DJe 06.09.2012).
+4. Agravo interno provido, em juízo de retratação. Agravo em recurso especial não provido.
+VOTO
+2. Merece reparos a decisão recorrida, pois compulsando os autos verifica-se que, de fato, a parte agravante impugnou a parte da decisão recorrida fundamentada no óbice da Súmula 7/STJ, não sendo o caso, portanto, de aplicação da Súmula 182/STJ.
+Passo a análise das razões do agravo em recurso especial.
+3. Com relação à violação ao art. 31 da Lei n. 9.656/98, sob o argumento de que a operadora não está obrigada a ofertar plano individual quando cessado o prazo de manutenção do plano anterior, o Tribunal de origem afirmou o seguinte (442):
+No caso, o apelado manteve o vínculo empregatício com o SENAC por 37 anos. Na vigência do contrato de trabalho, precisamente em 01/10/1991 (ID 8711648, p. 2), aderiu ao plano de saúde empresarial da AMIL. Aposentou-se por tempo de serviço no ano de 1992, mas continuou a trabalhar no SENAC até 2015, quando demitido sem justa causa (ID 8711620). Como se vê, ele está enquadrado na disposição do art. 31, caput, da Lei nº 9.656/98, devendo permanecer como beneficiário do plano de saúde, sem prazo determinado.
+Verifica-se que a argumentação contida no apelo especial não possui elementos suficientes para infirmar as razões colacionadas no aresto objurgado, pois não ataca especificamente os fundamentos transcritos acima, em negrito, utilizados pelo Sodalício de origem para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 283 e 284 do STF, ante a deficiência na motivação.
+Nesse sentido: (AgInt no AREsp 1819076/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2021, DJe 29/06/2021); (AgInt no AREsp 1681787/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021).
+4. Acrescento, ademais, à luz do aludido contexto normativo, a jurisprudência desta Corte é no sentido de ser assegurado ao aposentado (com mais de dez anos de contribuição) a permanência no plano de saúde coletivo empresarial, observadas "as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o pagamento integral desta, a qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear" (REsp 531.370/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 07.08.2012, DJe 06.09.2012).
+5. Ante o exposto, RECONSIDERO a decisão da Presidência do STJ e, em novo exame, NEGO PROVIMENTO ao agravo em recurso especial.
+É o voto.
