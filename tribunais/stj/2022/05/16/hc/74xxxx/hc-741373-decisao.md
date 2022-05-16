@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso próprio, com pedido liminar, impetrado em favor de Gabriela da Silva Rodrigues, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Agravo em Execução n. 0004740-09.2022.8.26.0041).
+Extrai-se dos autos que Apaciente formuloupedido para afastara equiparação dehediondez ao crime de tráfico de drogas,o qual foi indeferido pelo Juízo das execuções penais (fls. 957/959).
+Assim, a defesa interpôs agravo em execução, ao qual o Tribunal a quo negou provimento, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO. Recurso interposto diante do indeferimento do pedido de retificação do cálculo de penas, mantendo-se o percentual fixado pelo juízo das execuções para progressão de regime. Tráfico de drogas considerado crime hediondo por expresso dispositivo constitucional, a par de ressalva na LEP apenas quanto ao delito na forma "privilegiada", algo diverso da hipótese dos autos. Percentual de 40% referente aos sentenciados primários. Inteligência do artigo 112, inciso V, da LEP. Agravo improvido." (fl. 40)
+No presente mandamusaimpetrante sustenta que o delito de tráfico ilícito de drogas e afins, previsto no art. 33 da Lei n. 11.343/2006, deixou de ser equiparado a crime hediondo após a vigência do Pacote Anticrime, razão pela qual entende ser de rigor a retificação da guia de execução da pena dapaciente para que passe a constar a porcentagem aplicada a crimes comuns para fins de progressão de regime.
+Requer, assim, a determinação para aplicação das frações relativas aos delitos comuns para fins de progressão de regime.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoávelverificar a existência de eventual constrangimento ilegal.
+Como relatado, a controvérsia cinge-se acerca da alteração da fração aplicada para fins de progressão de regime, ao argumento de que com a vigência da Lei n. 13.964/2019, o delito previsto no art. 33da Lei n.11.343/06 (tráfico de entorpecentes), deixou de ser delito equiparadoa crime hediondo para o fim específico da progressão de regime prisional.
+O acórdão impugnado assim destramou a questão:
+"No caso, a juíza da execução indeferiu o pedido de retificação e homologou o cálculo de penas, mantendo o percentual de 40% para a progressão de regime, nos termos do artigo 112, inciso V, da LEP.
+Com efeito, ao reverso do sustentado pela Defesa, o crime de tráfico de drogas não perdeu a natureza hedionda diante da revogação do artigo 2º, § 2º, da Lei nº. 8.072/90 pela Lei n. º 13.964/2019, que também disciplinou inteiramente os percentuais para fins de progressão de regime, conforme artigo 112 e incisos da Lei de Execução Penal.
+Trata-se, portanto, de continuidade normativa-típica, nada beneficiando a sentenciada." (fl. 41)
+Da atenta leitura dos autos, verifica-se que o Tribunal de origemnão divergiuda jurisprudência dominante nesta Corte Superior, no sentido de que a equiparação do crime de tráfico de drogas a crimes hediondos, assim como a tortura e o terrorismo, decorre diretamente da Constituição Federal, não sendo adequado afirmar que o "Pacote Anticrime" afastou as consequências deletérias da Lei n. 8.072/1990 destes delitos.
+No ponto, destaco a doutrina de Renato Brasileiro de Lima:
+"A justificativa para o constituinte originário ter separado os crimes hediondos dos equiparados a hediondos está diretamente relacionada à necessidade de assegurar maior estabilidade na consideração destes últimos como crimes mais severamente punidos. Em outras palavras, a Constituição Federal autoriza expressamente que uma simples Lei Ordinária defina e indique quais crimes serão considerados hediondos, . No entanto, para os Equiparados a hediondos, o constituinte não deixou qualquer margem de discricionariedade para o legislador ordinário, na medida em que a própria Constituição Federal já impõe tratamento mais severo à tortura, ao tráfico de drogas e ao terrorismo (LIMA, Renato Brasileiro de. Legislação criminal especial comentada: volume único. 8.ed. -Salvador: JusPODIVM, 2020)."
+Deste modo, ausente, portanto, qualquer constrangimento ilegal ajustificara concessão da ordem de ofício.
+Ante o exposto, nos termos do art. 210do RISTJ, indefiro liminarmente o presentehabeas corpus.
+Publique-se.
+Intimem-se.
