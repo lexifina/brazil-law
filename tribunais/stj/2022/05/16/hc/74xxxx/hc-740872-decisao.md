@@ -1,0 +1,9 @@
+DECISÃO
+WEMERSON LOPES FERREIRA alega sofrer coação ilegal em face de decisão de Juiz de Direito da Vara de Execuções Penais do Interior - Campo Grande/MS.
+A defesa busca aretificação do cálculo de progressão de regime, sob o argumento de que após as alterações trazidas na Lei de Crimes Hediondos e na Lei de Execuções Penais pelo Pacote Anticrime, o crime de tráfico de drogas não é mais equiparado a crime hediondo. Considerada, por isso, que após o cumprimento de 1/6 da pena, o reeducando poderá requerer o benefício do art. 112 da LEP.
+Decido.
+Nos termos do art. 105 da CF, não está inaugurada a competência desta Corte para processar e julgar o habeas corpus.Deveras: "falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz"(AgRg no HC 645.080/BA, Rel. Ministro Felix Fischer, 5ª T., DJe 19/3/2021).
+Com efeito, "como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes"(AgRg no HC 465.318/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 10/4/2019).
+Ressalto que não existe flagrante ilegalidade, passível de correção de ofício, pois a Quinta e a Sexta Turmas já decidiram queas alterações promovidas pelo Pacote Anticrime na Lei 8.072/1990 não retiraram a equiparação do tráfico de entorpecentes a crime hediondo, uma vez que a própria Constituição Federal assegurou que o delito em apreço, a tortura e o terrorismo são merecedores de tratamento penal mais severo. (v.g.: HC n. 729.332/SP, de Relatoria do Ministro Reynaldo Soares da Fonseca, julgado em 19/4/2022 e o AgRg no HC 729.256/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 02/05/2022).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
