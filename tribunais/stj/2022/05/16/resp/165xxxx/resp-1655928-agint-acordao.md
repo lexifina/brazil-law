@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial interposto contra acórdão proferido peloTribunal Regional Federal da 5ª Região, assim resumidamente ementado:
+PROCESSUAL CIVIL AÇÀO RESCISÓRIA ACÓRDAO RESCINDENDO QUE DECRETOU DE OFÍCIO A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA ERRO DE FATO CONFIGURAÇÃO INOCORRÊNCIA DA PRESCRIÇÃO EXECUÇÃO AJUIZADA DENTRO DOS CINCO ANOS CONTADOS DO TRÂNSITO EM JULGADO DA AÇÃO DE CONHECIMENTO AÇÃO COLETIVA AJUIZADA POR SINDICATO / ASSOCIAÇÃO LEGITIMIDADE DO INTEGRANTE DA CATEGORIA PARA PROPOR EXECUÇÃO DO JULGADO DESNECESSIDADE DE AUTORIZAÇÃO PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA PROCEDÊNCIA DA AÇÃO RESCISÓRIA PARA RECONHECER O ERRO MATERIAL RETORNO DOS AUTOS A TURMA PARA JULGAMENTO DO RECURSO DE APELAÇÃO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Insta reconhecer que a alegação da União veiculada nos embargos de declaração tem toda relevância para o deslinde da controvérsia, pois o reconhecimento de que houve pronunciamento judicial no acórdão rescindendo acerca da prescrição e dos marcos temporais conduz ao não cabimento da ação rescisória por erro de fato.
+Logo, não se pode negar a violação do art. 1.022, do CPC, razão pela qual o acórdão recorrido deve ser anulado para integrar o julgamento da apelação sob pena de cerceamento de defesa.
+ ..
+No caso concreto não há necessidade de reexaminar o acervo probatório.
+Isto porque o cerne da questão recursal é saber se a partir da leitura do acórdão recorrido se pode extrair a conclusão de que o acórdão rescindendo se pronunciou ou não sobre a prescrição e os correlatos marcos temporais.
+Pois bem. Conforme s verifica no voto condutor do acórdão recorrido, se pode concluir, facilmente, que o acórdão rescindendo se pronunciou sobre a prescrição e os termos a quo e ad quem.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ART. 535 DO CPC/1973. ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 7/STJ. INCIDÊNCIA DA SÚMULA N. 211/STJ E POR ANALOGIA OS ENUNCIADOS 282 E 356 DO STF.
+I -Na origem, trata-se de ação rescisória contra a União, objetivando rescindir o acórdão prolatado pela Quarta Turma do Egrégio Tribunal Regional Federal da 5ª Região na Apelação Cível n.532.373-AL. No Tribunala quo, deu-se procedênciaao pedido.
+II - Não há violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar àconclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
