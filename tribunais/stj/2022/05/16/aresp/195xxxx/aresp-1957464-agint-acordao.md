@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA ANTONIETA DOS SANTOS PEREIRA, em face de decisão da que não conheceu do agravo em recurso especial interposto pelaora agravante, em virtude da ausência de impugnação específica dos fundamentos da decisão de admissibilidade recursal.
+Nas razões do agravo interno, arecorrentepugnapela modificação dojulgado, apontando, em síntese, que "cuidou de rebater todos os fundamentos, um por um, de maneira pormenorizada." (e-STJ Fl. 356).
+Impugnação à e-STJ Fls. 372/379.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece prosperar.
+Inicialmente, verifica-se que foi negado conhecimento ao agravo em recurso especial da parte recorrente em virtude da ausência de impugnação específica aos fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/15 (e-STJ Fls. 345/349).
+A agravante, por sua vez, nas razões do presente agravo, alega a existência de impugnação aos fundamentos da decisão de inadmissão, deduzindo a necessidade de conhecimento de seu agravo em recurso especial ante a menção de ataque à Súmula 283/STF, a ausênciade interesse recursal e a Súmula 7/STJ.
+Ocorre que, conforme bem salientado na decisão proferida, os argumentos expostos no bojo do presente recurso não são aptos a desconstituir a decisão recorrida, uma vez que, de fato, ocorreu a ausência de impugnação específica aos fundamentos da decisão agravada.
+É o que se depreende do seguinte excerto (e-STJ Fls. 346/347):
+Com efeito, o recurso especial da recorrente foi inadmitido em razão dos seguintes fundamentos (e-STJ Fls.268/271): a) quanto a violação dos artigos 223 e 507 do CPC, incidência da Súmula 283/STF, ante a "ausência de impugnação específica aos supratranscritos fundamentos basilares da decisão objurgada - não há cogitar em preclusão antes da homologação do formal de partilha (..)"; b) em relação aos artigos 553 e 612 do CPC, ausência de interesse recursal, porquanto "o Colegiado reconheceu que, ante a complexidade e relevância, a prestação de contas deve se dar em autos apartados, tal como defendido pela Recorrente."; c) no tocante ao alegada violação do artigo 648 do CPC, incidência da Súmula 7/STJ, pois "revela-se evidente que para infirmar a conclusão do Colegiado seria necessária a incursão no acervo fático-probatório dos autos (..)", considerando fundamentos específicos do acordão recorrido citados à e-STJ Fls. 270/271.
+A agravante, nesse passo, limitou-se a reprisar a sua argumentação de mérito e a tecer alegações genéricas dos óbices adotados, abstendo-se, assim, de impugnar, de forma específica e suficiente, os referidos fundamentos no caso concreto, notadamente evidenciando a efetiva desnecessidade do reexame de fatos e provas in casu, a impugnação específica no recurso especial do fundamento apresentado na decisão recorrida, bem como o concreto interesse recursal diante dafundamentação apresentada, demonstrando, dessa forma, o efetivo desacerto da decisão recorrida diante da incidência das Súmulas 7/STJ e 283/STF, de acordo com as peculiaridades dos autos.
+Convém ressaltar, ainda, que, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas e parciais aos fundamentos do decisum de inadmissão são insuficientes à impugnação.
+(..) (g.n.)
+Com efeito, nas razões de seu agravo em recurso especial,percebe-se que a agravante efetivamente não evidenciou objetivamente a inaplicabilidade dos óbices apontados, ainda que apresentados tópicos específicos.
+No momento da interposição de tal recurso,a recorrente cingiu-se a alegações meramente genéricas, a par de reprisar as suas considerações de mérito, não atacando de forma específica e consistente todos os fundamentos adotados, notadamente evidenciando o desacerto da incidência das Súmulas 283/STF e 7/STJ. Deixou de relacionar, de forma dialética, a concretadesnecessidadede reexame fático-probatório especificamente no que tange à revisão das premissas fixadas pelo Tribunal de origem,com os trechos citados do acórdão recorrido na decisão agravada,bem como a efetiva impugnação específica do fundamento apontado,o que atraiu a aplicação da Súmula 182/STJ à espécie.
+Apesar de todo o esforço argumentativo da parte recorrente, nas razões do presente agravo interno, tais razões, contudo, não são aptas a impugnar os fundamentos da decisão agravada.
+Saliente-se, novamente, que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Ademais, a simples alegação abstrata de que a decisão recorrida é genérica ou sem fundamentação não é apta a configurar a necessária impugnação específica dos óbices nela apontados.
+Consigne-se que é ônus da parte recorrente demonstrar a inaplicabilidade da decisão de inadmissão, ainda que a considere carente da devida fundamentação, de sorte a evidenciar o seu desacerto.
+Conforme a jurisprudência do Superior Tribunal de Justiça, as razões recursais devem impugnar, com transparência e objetividade, os fundamentos que embasaram a decisão agravada, conforme previsão contida no art. 1.021, § 1º, do CPC/2015.
+Veja-se o entendimento desta Corte quanto ao tema:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018) - g.n.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), in verbis:
+"Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015 (ART. 544, § 4º, INCISO I, DO CPC/1973).
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+2. Agravo interno não provido.
+(AgInt no AREsp 906.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 16/09/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. 2. AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC. 2. Agravo regimental improvido.
+(AgRg no AREsp 821.544/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 06/06/2016)
+Em que pesem às razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+É o voto.
