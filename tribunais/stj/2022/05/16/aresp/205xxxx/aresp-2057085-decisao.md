@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por GREEN LINE SISTEMA DE SAÚDE S.A. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE PACIENTE DIAGNOSTICADO COM HEPATOCARCINOMA- PRESCRIÇÃO DE TRATAMENTO MEDIANTE PARACENTESE ABDOMINAL- PROCEDIMENTO MÉDICO PARA EXTRAÇÃO DO LÍQUIDO ASCÉTICO DO ABDOMEN ALEGAÇÃO DA RÉ DE QUE NÃO HOUVE NEGATIVA NO ENTANTO SÓ FORNECEU O PROCEDIMENTO QUE NECESSITAVA O AUTOR 4 DIAS APÓS DEFERIMENTO DA TUTELA DE URGÊNCIA DEMORA QUE CORRESPONDE À NEGATIVA- HAVENDO PREVISÃO CONTRATUAL DE COBERTURA PARA A DOENÇA É INADMISSÍVEL A RECUSA DE COBERTURA - SÚMULA 102 DESTE E. TJSP- ABUSIVIDADE CONTRATUAL- RECOMENDAÇÃO MÉDICA- SITUAÇÃO DE URGÊNCIA QUE SEGUE OS CONTORNOS DO ART. 35,INCISO "C", ALÍNEA I DA LEI 9.656/98 - RECUSA INJUSTIFICADA INDENIZAÇÃO DE DANOS MORAIS FIXADA EM R$ 3.000,00 SENTENÇA MANTIDA - RECURSO DESPROVIDO"(fl. 259 e-STJ).
+No recurso especial (fls. 448/463 e-STJ),a recorrente alegaviolação dos artigos 35-C, I e II, 35- G, da Lei nº 9.656/1998, 186, 884,927 e 944do Código Civil.
+Afirma quenão se pode concluir pela existência de urgência ou emergência na realização do tratamento prescrito ao Recorrido e que elenão faz jus à indenização por danos morais.
+Alternativamente, pugna pela diminuição do valor fixado a título de danos morais.
+Após a apresentação das contrarrazões (fls. 468/473 e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Na origem, orecorridoajuizouação de obrigação de fazer c/c indenizatória objetivando a autorização para a realização de paracentese de alívio guiada por US com reposição de albuminaem ambiente ambulatorial conforme prescrições médicas.
+O juízo de primeiro grau julgou parcialmente procedente a ação para condenar a ré na obrigação de autorizar o procedimento requerido eao pagamento de indenização por danos morais no valor de 3.000,00 (trêsmil reais).
+O tribunal de origem manteve a sentença.
+Eis o excerto do voto condutor na parte que interessa:
+"(..)embora não tenha negado expressamente,o autor enviou seu pedido administrativo para autorizaçãodo procedimento no dia 01/11/2019 (fls.62), interpôs a presente demanda no dia 13/11/2019, o pleito da tutela de urgência foi deferido no dia 18/11/2019 (fls.65) e a requerida agendou o início do tratamento apenas para o dia 28/11/2019. O que também não ocorreu, descumprindoinclusive decisão judicial.
+Embora sustente que o procedimento já estavaautorizado, a ré condicionou a efetiva realização dele a prévia consulta com médico responsável, agendando para o dia 28/11/2019, às 16h00 horas, no Centro Médico João Ramalho (fls. 94). Ocorre que, segundo narra o autor, omédico não compareceu na data agendada e a consulta foi desmarcada, tanto que foi obrigado a buscar atendimento,duas horas depois, no pronto socorro de outro nosocômio Hospital Salvalus (fls. 90/93).
+A afirmação do autor (fls. 72/74) é de que, naqueladata, o procedimento não foi realizado de forma guiada por ultrassom e tampouco houve reposição de albumina,como constava do pedido médico (fls. 61). Frise-se que a prova em sentido contrário, isto é, de que o procedimentofoi realizado nos moldes da prescrição médica, estava a cargo da ré, que não manifestou interesse nesse sentidoquando instada a especificar as provas que pretendia produzir.
+A postura da ré é deveras reprovável, seja porquenão compete a ela interferir na indicação de tratamentofeita pelo médico que assiste ao paciente, devidamentefundamentada, seja porque submeteu o autor, que se encontra em tratamento de grave doença, a situaçãodemasiadamente desgastante, fazendo-o a aguardar nova consulta médica que afinal foi desmarcada, e sequerfornecendo a cobertura nos exatos moldes prescritos.
+Com efeito, a situação do requerente era de urgência levando-se em conta a gravidade da doença e sua evolução,consoante assinalado no relatório médico" (e-STJ fls. 261/262).
+Nesse contexto, rever o entendimento adotado pelo órgão colegiado, a partir da tese recursal de que houve recusa e está caracterizada a urgência, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ademais, tal entendimento está em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. COBERTURA DE EMERGÊNCIA. RECUSA INDEVIDA. DANO MORAL. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos.
+2. Nos termos da jurisprudência reiterada do STJ, "a recusa indevida à cobertura pleiteada pelo segurado é causa de danos morais, pois agrava a sua situação de aflição psicológica e de angústia no espírito"(REsp 657717/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 12/12/2005).
+3. Agravo interno não provido"(AgInt no AgInt no AREsp 1.640.198/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2021, DJe 28/04/2021).
+Registre-se que é pacífico o entendimento nesta Corte de que a recusa indevida, pela operadora de planode saúde, em autorizar tratamento médico emergencial enseja reparação atítulo de danos morais, pois agrava a situação de aflição psicológica e deangústia no espírito do beneficiário, estando caracterizado o danomoral in re ipsa.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DAPRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO.ACÓRDÃORECORRIDO. CONTRADIÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE AFRONTA AO ART. 1.022DO CPC/2015. INTERNAÇÃO MÉDICA. URGÊNCIA RECONHECIDA.REEXAME DO CONJUNTOFÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. PERÍODODE CARÊNCIA. ATENDIMENTO DE EMERGÊNCIA. RECUSA INJUSTIFICADA. SÚMULA N.597 DO STJ. DANO MORAL. CARACTERIZAÇÃO.SÚMULA N. 83 DO STJ. AGRAVO INTERNOPROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A contradição que dá ensejo a embargos de declaração é a interna, istoé, entre proposições do próprio julgado, e não entre o julgado e as razõesda parte.
+2. O recurso especial não comporta o exame de questões que impliquemrevolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2.1.O Tribunal de origem afirmou que, quando da recusa de internação peloplano de saúde, o autor se encontrava em estado deemergência médica eque, em tal quadro clínico, foi obrigado a procurar, sem auxílio algum daoperadora do plano, leito disponível para atendimento na rede pública desaúde. A alteração das conclusões do julgado demandaria o reexame damatéria fática, o que é vedado em sede de recurso especial.
+3. "A cláusula contratual de plano de saúde queprevê carência parautilização dos serviços de assistência médica nas situações de emergênciaou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24horas contado da data da contratação" (Súmula n. 597 do STJ).
+4. A jurisprudência desta Corte é no sentido de que o mero descumprimentocontratual não enseja indenização por dano moral. No entanto, nashipóteses em que há recusa de cobertura por parte da operadora do plano desaúde para tratamento de urgência ou emergência, segundoentendimentojurisprudencial desta Corte, há configuração de danos morais indenizáveis(AgInt no REsp n. 1.838.679/SP, Relator Ministro RAUL ARAÚJO, QUARTATURMA, julgado em 3/3/2020, DJe 25/3/2020). Aplicação da Súmula n. 83 do
+STJ.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão daPresidência desta Corte e negar provimento ao agravo nos próprios autos"
+(AgInt no AREsp 1.657.633/SP, Rel. Ministro ANTONIO CARLOS FERREIRA,QUARTA TURMA, julgado em 10/8/2020, DJe 14/8/2020).
+No que diz respeito ao valor da indenização, o montante fixado no importe de R$ 3.000,00 (três mil reais), não é elevado, levando-se em consideração os parâmetros reconhecidos por este Tribunal.
+Ante o exposto, conheço do agravo para negarprovimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes foram arbitrados no limite máximo, 20% (vinte por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
