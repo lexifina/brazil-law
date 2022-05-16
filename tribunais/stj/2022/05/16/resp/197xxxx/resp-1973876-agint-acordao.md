@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 540):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE. PROCESSUAL CIVIL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta, em síntese,queo acórdão recorrido afrontou a legislação federale queo recurso especial apontou expressamente os artigos violados, não cabendo, no caso, a aplicação da Súmula 284/STF.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME NESTA CORTE.NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1.Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Éinviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+3. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+4. Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+Com efeito, éinviável a análise, em recurso especial, da irresignação fundada na violação a princípios constitucionais. A uma, por se tratar de matéria reservada à apreciação do Supremo Tribunal Federal e, a duas, por não se inserirem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+Ademais, quanto ao mérito, observa-se, da leitura do recurso especial, que o recorrente aponta alguns dispositivos legais, sem, contudo, evidenciar de que modo teria o acórdão recorrido contrariado a legislação infraconstitucional.
+Nesse ponto, forçoso sublinhar que a admissibilidade do recurso especial exige a clareza na indicação dos artigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado o dispositivo indicado, não sendo suficiente a citação de passagem de artigos de lei para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto sob pena de incidência da Súmula 284 do STF. A propósito: AgInt no AREsp 1.559.881/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/02/2020.
+Por fim,segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
