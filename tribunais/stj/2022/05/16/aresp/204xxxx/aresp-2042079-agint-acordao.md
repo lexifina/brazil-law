@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ROBERTO DRAGO e outros (ROBERTO e outros) ajuizaram ação de responsabilidade civilem desfavor de TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S.A. e outra (TG e outra), em razão de atraso na entrega de unidade imobiliária.
+O pedido foi julgado parcialmenteprocedente para condenar TG e outra ao pagamento de indenização correspondentea 2% sobre o valor atualizado do imóvel por cada mês de mora, que perdurou de maio de 2015 a agosto de 2016 (e-STJ, fls. 527/530).
+Ambas as partes apelaram.
+OTribunal de Justiça do Estado do Rio de Janeiro deu parcial provimento aos recursos, nos termos do acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. "Vila das Fontes". Versa a hipótese ação de indenização por danos materiais e morais, em que objetivam os autores reparação em decorrência de atraso na entrega de imóvel, adquirido na fase de construção, bem como em razão de omissão de informação, no momento da contratação, de que o terreno em que o imóvel estava sendo construído encontrava-se contaminado por materiais cancerígenos. Conjunto probatório dos autos do qual restou incontroverso ter havido atraso na entrega da unidade imobiliária objeto da presente lide, pelo que inegável o inadimplemento contratual das rés, uma vez que a obrigação fora cumprida com cerca de dois anos de atraso, de modo a ensejar o dever de ressarcir os prejuízos decorrentes de sua mora. Todavia, não observou a sentença haver expressa previsão no contrato, na cláusula 7.3.1.2, de multa moratória, equivalente a 0,5% do valor do imóvel, arbitrada para a hipótese de atraso na entrega do i móvel por parte da construtora, a qual deve ser aplicada durante todo o período da mora, qual seja, de junho/2015, mês subsequente ao prazo de entrega previsto (novembro/2014), computada a sua prorrogação por até 180 dias, até a data na qual as chaves foram efetivamenteentregues aos autores, ou seja, até 19/07/2017.
+Por sua vez, embora não se possa negar tenha havido falha no dever de informação pela parte ré por ocasião da celebração da avença, em relação a contaminação do solo do empreendimento e que acabou por ensejar as restrições de uso do imóvel - escavação do solo, consumo e utilização de água subterrânea e plantio de frutíferas, conforme constou da concessão do "habite-se", por outro lado, também não se pode olvidar estar o imóvel atualmente reabilitado para uso residencial, bem como ter a construtora e incorporadora ofertado a oportunidade de desfazimento do negócio, o que foi refutado pelos autores, não tendo estes logrado comprovar qualquer dano material ou extrapatrimonial decorrente de tal fato. Danos extrapatrimoniais caracterizados, na espécie, ante o longevo atraso na entrega do imóvel adquirido. Sentença reformada, em parte, para condenar a parte ré a pagar aos autores indenização correspondente à multa moratória prevista na cláusula 7.3.1.2, a ser aplicada de junho/2015 até 19/07/2017, bem como ao pagam ento de indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais) para todos os autores, condenadas as rés, ainda, ao pagamento das custas processuais e honorários advocatícios, fixados estes em 10% sobre o valor da condenação, restando o decisum mantido em seus demais termos.
+Provimento parcial de ambos os recursos de apelação."(e-STJ, fls. 656/657).
+Os embargos de declaração opostos por TG e outra foram rejeitados (e-STJ, fls. 698/706).
+Inconformadas, TG e outra interpuseramrecurso especial, com fundamento no art. 105, III, a e c, da CF, alegando, além de dissídio pretoriano, ofensa aos arts. 141, 319, III, e 492do CPCe 884 e 944, ambos do CC/02, sustentando (1) julgamentoextra petita; (2) impossibilidade de cumulação de danos morais e multa contratual; e (3) inexistência de danos morais em casos de atraso na entrega de unidade imobiliária.
+O apelo nobre não foi admitido peloTerceiro Vice-Presidentedo Tribunal local ante a incidência das Súmulas nºs 5, 7 e 83 do STJ e a deficiência de cotejo analítico.
+Seguiu-se o agravo em recurso especial interposto por TG e outra, que, em decisão monocrática de relatoria do Ministro Presidente do STJ, não foi conhecido, com fulcro no art. 21-E, V, do RISTJ, porque não foram impugnados todos os fundamentos de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, TG e outra reeditaramos mesmos argumentos do agravo em recurso especial.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu a deficiência de cotejo analítico. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que o agravo em recurso especial anteriormente interposto não rebateua deficiência de cotejo analítico.
+Isso porque, nas razões do presente agravo interno, TG e outra limitaram-se a reeditaros mesmos argumentos do agravo em recurso especial.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, vejam-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO. APLICAÇÃO DE MULTA. ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.476.609/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 11/2/2020, DJe 18/2/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182/STJ. GRATUIDADE DE JUSTIÇA. INDEFERIDA.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. A concessão da gratuidade de justiça não eximiria o agravante dos ônus da sucumbência.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.492.052/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/2/2020, DJe 12/2/2020)
+Assim, porque os argumentos que TG e outratrouxeram não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
