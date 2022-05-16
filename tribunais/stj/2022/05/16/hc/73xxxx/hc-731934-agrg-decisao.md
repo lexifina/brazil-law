@@ -1,0 +1,9 @@
+DECISÃO
+JACK RANDELY PRADO DO CARMO interpõe agravo regimental contra decisão de minha relatoria, em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive inalterada a reprimenda a ele imposta pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa reitera a sua compreensão de que estão preenchidos todos os requisitos necessários para a incidência da minorante descrita no § 4º do art. 33 da Lei de Drogas. Para tanto, ressalta que "o tráfico privilegiado não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, ainda que em fase recursal, sob pena de violação do artigo 5º, inciso LIV da Constituição Federal" (fl. 89).
+Na sequência, argumenta que, "in casu, as circunstâncias judiciais foram majoritariamente favoráveis ao réu, sendo possível o abrandamento do regime prisional a fim de se fixar o semiaberto" (fl. 91).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja aplicada a referida minorante e, por conseguinte, seja fixado o regime aberto e determinada a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+Por meio do ofício de fls. 98-105, o Supremo Tribunal Federal noticiou que sobreveio o julgamento do HC n. 213.984/MG (Rel. Ministro Ricardo Lewandowski), impetrado naquela Corte em favor do ora agravante, havendo sido concedida a ordem de habeas corpus, "para reconhecer a incidência da causa de diminuição da pena prevista no art. 33, § 4º, da Lei 11.343/2006, e determinar que o juízo sentenciante, após definir o patamar de redução, recalcule a pena e proceda ao reexame do regime inicial do cumprimento da sanção imposta" (fl. 104).
+À vista do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o agravo regimental interposto às fls. 85-93.
+Publique-se e intimem-se.
