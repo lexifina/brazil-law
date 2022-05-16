@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Reclamação proposta por JOSÉ MARIA DA ROCHA, com fundamento nos arts. 988 e seguintes do CPC/2015, em face de decisão/acórdão proferido pela 5ª Turma Recursal Seção Judiciária do Rio Grande do Sul, nos autos do Processo nº 5006227-05.2020.4.04.7102/RS, e decisão monocrática da Presidência das TRs do Rio Grande do Sul.
+Defende que o entendimento da instância ordinária deve ser reformado a fim de que seja afastada a deserção e, em nova análise seja deferido o pedido de Assistência Judiciária Gatuita, porquanto, sustenta, em síntese, que o decisum da Turma Recursal é absolutamente contrário às normas da Lei Processual Civil em vigor e ainda, plenamente contrário à Jurisprudência legal, proba, leal, justa e pacífica do STJ, em casos semelhantes /Insuficiência de recursos financeiros/ Gratuidade de Justiça. (fl. 6, e-STJ).
+Solicitaa concessão de medida liminar para suspender o acórdão que julgou deserto o recurso inominado.
+Concessão do benefício de assistência judiciária gratuita à fl. 195.
+É o relatório. Passo a decidir.
+A presente Reclamação não merece ser conhecida.
+O instituto da reclamação dirigida ao Superior Tribunal de Justiça estáprevisto no art. 105, I, "f", da CF/1988, sendo cabível para a preservaçãoda competência e a garantia da autoridade das decisões desta Corte.
+O Código de Processo Civil dispôs a respeito da legitimidade e cabimentoda reclamação no seu art. 988, verbis:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público
+para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmulavinculante e dedecisão do Supremo Tribunal Federal em controle concentrado deconstitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento deincidente de resolução de demandas repetitivas ou de incidente de assunçãode competência;
+No caso concreto, entretanto, verifica-se que a presente reclamação não seenquadra em qualquer das hipóteses acima delineadas, ficando evidenciado ointuito da sua utilização como sucedâneo recursal.
+Assim, importante reforçarque o direito protegido pela reclamação constitucional restringe-se à (i) preservação da competência do Tribunal ou (ii) à garantia da autoridade de suas decisões, como se depreende do art. 105, I, "f", da Constituição Federal e do art. 187 do Regimento Interno do Superior Tribunal de Justiça.
+Nesse passo, de acordo com o entendimento desta Corte, o ajuizamento da reclamação, para a garantia da autoridade de suas decisões (art. 988, II do CPC), pressupõe a existência de um comando positivo deste Superior Tribunal de Justiça cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica diretamente dependente.
+Deveras, "inexistindo comando positivo da Corte cuja eficácia deva ser assegurada por meio da medida correicional, deve ela ser julgada improcedente" (Rcl 2784/SP, Rel. Min. João Otávio de Noronha, DJe 22/5/2009).
+Nesse contexto, constata-se que a presente insurgência não se enquadra em nenhuma das hipóteses acima mencionadas, sendo certo que o reclamante está utilizando a via eleita como se recurso fosse, buscandoreformar decisão que lhe foi desfavorável, o que não se deve admitir, consoante jurisprudência do STJ
+Na espécie, todavia,o reclamante sequer aponta o descumprimento, pela autoridade reclamada, de qualquer decisão proferida nos autos por esta Corte, de modo a justificar a presente ação. A pretensão da reclamação não é demonstrar a autoridade de uma decisão do STJ sendo afrontada, mas sim a reforma do julgado da Turma Recursal.
+No entanto, a insatisfação do reclamante com a conclusão adotada pela instância ordinária no referido julgado não dá ensejo ao ajuizamento da reclamação que, como cediço, é instrumento processual de caráter específico e de aplicação restrita. Deve-se valer, portanto, da via recursal adequada.
+Dessarte, nos termos da jurisprudência desta Corte, a Reclamação não tem cabimento como sucedâneo recursal, e seguindo entendimento desta Corte de que tal ação é destinada a preservar a competência do STJ ou garantir a autoridade de suas decisões, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada, não há que se dar seguimento à presente Reclamação. (AgInt na Rcl 40.443/PR, Rel. Min. Francisco Falcão, Primeira Seção, DJe 18/12/2020). Assim, verifica-se que o presente pedido não se enquadra nas hipóteses de cabimento da reclamação.
+No mesmo sentido, as seguintes e recentes decisões monocráticas e colegiadas: Rcl n. 41.027/TO, Rel. Ministro Og Fernandes, DJe 28/10/2020, AgInt na Rcl n. 36.827/PR, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 18/06/2019, Rcl n. 40.946/PR, Rel. Ministro Francisco Falcão, DJe 23/10/2020, dentre outros.
+Por fim, sem olvidar que, "no âmbito dos Juizados Especiais Federais, não é cabível reclamação diretamente contra acórdão de turma recursal ou de decisão monocrática proferida pela Presidência da TNU, pois há previsão expressa de recurso a ser examinado pela TNU, nos termos do art. 14 da Lei n. 10.259/2001" (AgInt na Rcl 34.403/DF, rel. Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 26/09/2018, DJe 03/10/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da reclamação, por ser manifestamente incabível. Fica prejudicado o pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO (ART.988 DO CPC/2015). HIPÓTESES LEGAIS. NÃO ENQUADRAMENTO. DESCUMPRIMENTO DE DECISÃO DESTA CORTE SUPERIOR. NÃO OCORRÊNCIA. DESOBEDIÊNCIA DE JULGADO DO STJ PARA O CASO DOS AUTOS. INEXISTÊNCIA. SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA ELEITA. RECLAMAÇÃO NÃO CONHECIDA.
