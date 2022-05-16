@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDRE LUIZ ALVES agrava da decisão de fls. 180-181, em que indeferi liminarmente o habeas corpus, dada a insuperável supressão de instância.
+Para tanto, assere que, "quando o habeas corpus tem por objetivo demonstrar uma flagrante ilegalidade no caso que está em análise, os tribunais superiores irão mitigar a súmula 691 do STF, para, de ofício, conceder a ordem do habeas corpus" (fl. 185).
+Requer, assim, seja concedido "conceda de ofício o Habeas Corpus em harmonia com o parecer da PGR, ofertando juízo de retratação (RISTJ, art.259), e, em face dos fundamentos levantados neste Agravo Regimental, determine o processamento do presente Agravo, acolhendo-o para determinar o regular julgamento do Habeas Corpus pela Turma" (fls. 188-189).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALTERAÇÃO DOS CÁLCULOS DE PENA. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O suposto excesso de prazo para apreciação do pedido de progressão de regime não foi examinado pela Corte de origem, a sublinhar a impossibilidade de análise do pedido pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme apontado na decisão vergastada, assere a defesa que " t rata-se de irresignação que pretende o reconhecimento/cômputo do lapso temporal de 25/09/2019 até 21/02/2021, ou seja, período que permaneceu cumprindo pena em regime semiaberto, descontando-se as violações, como tempo de pena adimplida. Data vênia, constata-se facilmente que o Paciente faz jus a remição de pena pelo estudo em harmonia com o parecer ministerial, inclusive pelo acréscimo em virtude da aprovação no ENEM, restando devidamente demonstrado de plano a flagrante ilegalidade que exige a atuação desta Corte Superior de Justiça de ofício para cessar tal ilegalidade" (fl. 4).
+Todavia, ao analisar o writ lá interposto, a Corte de origem limitou-se a apontar que "a autoridade apontada coatora relata em suas Informações que a Defesa do paciente não apresentou nenhuma irresignação quanto à decisão que manteve a regressão do regime imposta àquele, bem como não apresentou nenhuma irresignação quanto ao cálculo de pena. Esbarra-se, assim, num segundo impedimento que impede a análise da presente ordem, que é a supressão de instância" (fl. 20, sublinhei).
+Dessa forma, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+À vista do exposto, nego provimento ao recurso.
