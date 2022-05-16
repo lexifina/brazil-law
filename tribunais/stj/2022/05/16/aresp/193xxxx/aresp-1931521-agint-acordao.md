@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+R. F. DE A. EM., T. F. DE A. E M., (R. e T.), representadas por C. V. C. M., e L. F. DE A. EM. ajuizaram ação indenizatória por danos morais decorrentes de overbooking, atraso de voo e preterição de assento contra GOL LINHAS INTELIGENTES S.A. (GOL) e TAM LINHAS AÉREAS S.A., objetivando a condenação das empresas aéreas à indenização por danos morais em virtude do atraso do voo, overbooking e preterição de assento.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar a GOL e a LATAM ao pagamento de R$ 1.000,00 (mil reais) em favor de cada um das autoras a título de indenização por danos morais. Considerando a sucumbência recíproca, ambas as partes foram condenadas ao pagamento das custas na proporção de 70% para as rés, e 30% para as autoras. Quanto aos honorários advocatícios, as partes forma condenadas, em atenção aos procuradores em conjunto da parte contrária, ao pagamento de 15% sobre o valor total da condenação, diante da baixa complexidade da causa (art. 85, § 2º, do CPC).
+Ambas as partes apelaram.
+Somente aapelação interposta por R. e T. foi parcialmente provida pelo Tribunal de Justiça de Minas Gerais, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+PRELIMINAR. ILEGITIMIDADE PASSIVA. INOCORRÊNCIA. TRANSPORTE AÉREO. "OVERBOOKING". DANOS MORAIS CONFIGURADOS. VALOR DA CONDENAÇÃO. CRITÉRIOS. RAZOABILIDADE E PROPORCIONALIDADE.SENTENÇA PARCIALMENTE REFORMADA. I - Comprovada a parceria entre as empresas de transporte aéreo, haja vista ambas atuarem na cadeia de fornecimento de serviços, conforme preceitua o artigo 25, §1º, do CDC, não há se falar em ilegitimidade para integrar o polo passivo da lide. II - "Consoante entendimento jurisprudencial firmado nesta Corte Superior, o dano moral oriundo de "overbooking" decorre do indiscutível constrangimento e aflição a que foi submetido o passageiro e da própria ilicitude do fato. Precedentes".
+(AgRg no AREsp 478.454/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/04/2014, DJe 25/04/2014). III - Na fixação de indenização por dano moral, o julgador deve levar em conta o caráter reparatório e pedagógico da condenação, de forma a não permitir o lucro fácil do ofendido, mas também sem reduzir a verba a um valor ínfimo ou irrisório. IV - Recurso conhecido e parcialmente provido (e-STJ, fl. 586).
+Inconformadas, R. e T. interpuseram recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando, além do dissídio jurisprudencial, violação dos arts. 186 e 927 do CC/02, 14 do CDC, ao sustentarem que o quantum indenizatório fixado é irrisório, devendo ser majorado.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ.
+O agravo em recurso especial interposto por R. e T. foi conhecido para não conhecer do apelo nobre, nos termos da decisão monocrática de minha lavra assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. TRANSPORTE AÉREO. OVERBOOKING. DANOS MORAIS CONFIGURADOS. VALOR DA CONDENAÇÃO. CRITÉRIOS. RAZOABILIDADEE PROPORCIONALIDADE. OFENSA AOS ARTS. 186 E 927 DO CC/02, 14 DO CDC. DISPOSITIVOS LEGAIS QUE NÃO CONSTITUEM IMPERATIVOS LEGAIS APTOS A DESCONSTITUIR O FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 792)
+Nas razões do presente agravo interno, R. e T. sustentaram a inaplicabilidade da Súmula nº 284 do STF por entenderem que teriam demonstrado a violação dos arts. 186 e 927 do CC e art. 14 do CDC ao requererem a majoração do valor arbitrado a título de danos morais.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. TRANSPORTE AÉREO. OVERBOOKING. DANOS MORAIS CONFIGURADOS. VALOR DA CONDENAÇÃO. CRITÉRIOS. RAZOABILIDADE E PROPORCIONALIDADE. OFENSA AOS ARTS. 186 E 927 DO CC, 14 DO CDC. DISPOSITIVOS LEGAIS QUE NÃO CONSTITUEM IMPERATIVOS LEGAIS APTOS A DESCONSTITUIR O FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Artigo indicado como violado que não possui conteúdo normativo para discutir a adequação do valor arbitrado a título de compensação por danos morais. Incidência da Súmula nº 284 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente recurso, R. e T. sustentaram a inaplicabilidade da Súmula nº 284 do STF por entenderem que teriam demonstrado a violação dos arts. 186 e 927 do CC e art. 14 do CDC ao requererem a majoração do valor arbitrado a título de danos morais.
+Os mencionados dispositivos legais dispõem o seguinte:
+Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo.
+Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+Conforme se nota, do cotejo das alegações trazidas porR. e T. e dos dispositivos legais apontados como violados, percebe-se que estes não possuem conteúdo normativo apto a amparar a tese agora defendida, pois não versam sobre a fixação do quantum indenizatório.
+Em assim sendo, quanto ao ponto, porque inviabilizada a compreensão da controvérsia, o recurso não pode ser conhecido em virtude da deficiência na sua fundamentação. Incide, portanto, a Súmula nº 284 do STF, por analogia.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL E REPARAÇÃO DE DANOS. REPRESENTAÇÃO COMERCIAL.
+1. Inexiste afronta aos arts. 489, § 1º, IV e 1.022, II, do CPC quando o acórdão recorrido se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+2. Consoante precedentes desta Corte, a pretensão do representante comercial para cobrar diferenças de comissões não pagas ou pagas a menor prescreve mês a mês, e está sujeita ao prazo quinquenal previsto no § único, do 44, da Lei 4.886/65.
+3. Ilidir a conclusão do acórdão recorrido de que inexiste nulidade contratual a ser declarada demandaria a reinterpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências vedadas a teor dos óbices das Súmulas 5 e 7/STJ.
+4. A subsistência de fundamento não atacado, apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal no ponto, conforme o entendimento disposto na Súmula 283/STF.
+5. É deficiente a fundamentação do recurso especial quando ausente a indicação adequada da questão federal controvertida ou quando o conteúdo normativo é inapto a amparar a tese recursal, atraindo o óbice da Súmula 284 do STF.
+6. Decisão agravada mantida pelos seus próprios fundamentos.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.716.758/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 10/6/2021 - destacou-se)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282 e 356 do STF.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.941.932/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 26/11/2021 - destacou-se)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
