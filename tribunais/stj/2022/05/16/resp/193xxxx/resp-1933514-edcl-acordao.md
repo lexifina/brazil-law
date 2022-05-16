@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de segundos Embargos de Declaração interpostos por Imerys do Brasil Comércio de Extração de Minérios Ltda. contra acórdão às fls. 751-758, e-STJ, que deu parcial provimento aos seus primeiros Aclaratórios, sem, contudo, atribuir-lhes efeitos modificativos. O acórdão foi assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. LANÇAMENTO POR EDITAL. ART. 53 DA LEI 6.766/1979. OMISSÃO CONSTATADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. DEMAIS ALEGAÇÕES DE OMISSÃO. INEXISTÊNCIA. MERO DESCONTENTAMENTO COM O RESULTADO DO JULGADO. EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Em relação à alegação de omissão acerca da violação ao art. 53 da Lei 6.766/1979 e da ausência de comunicação ao Incra, de fato o acórdão recorrido não se pronunciou sobre a matéria, o que se faz agora.
+2. Observa-se que, a despeito da oposição dos Embargos de Declaração, não houve juízo de valor por parte da Corte de origem - em relação ao art. 53 da Lei 6.766/1979 -, o que acarreta o não conhecimento do Recurso Especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+3. No que concerne à segunda alegação de omissão, pois o acórdão de origem teria informado que a intimação do IPTU relativo aos anos de 2013 a 2018 deu-se exclusivamente por edital, a irresignação não prospera. Isso porque a informação não consta na fundamentação do acórdão recorrido. Dessa forma, verifica-se que o decisum recorrido tratou de todas as questões relevantes para o deslinde da controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram.
+4. Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+5. Embargos de Declaração parcialmente acolhidos, sem, contudo, atribuir-lhes efeitos modificativos.
+A embargante defende que houve omissão, visto que o art. 35 da Lei 6.766/1979 teria sido prequestionado. Sustenta (fl. 765, e-STJ):
+6. Conforme se extrai dos trechos acima, segundo o e. Tribunal de São Paulo, a comunicação ao INCRA da alteração de imóvel rural para urbano não é requisito para cobrança do IPTU, sendo que houve ofensa ao quanto disposto no art. 53 da Lei 6.766/79 no presente caso, conforme jurisprudência desta e. Corte, trazida em sede de Recurso Especial.
+Impugnação às fls. 777-823, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MENÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS APENAS NO RELATÓRIO DO ACÓRDÃO DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. Não há que se falar em omissão, uma vez que, ao se analisar o acórdão do Tribunal de origem, constata-se que a única manifestação da Corte local acerca do art. 35 da Lei 6.766/1979 ocorreu no relatório do seu Voto (fl. 397, e-STJ), o que não é suficiente para que a matéria seja considerada prequestionada. Incide o óbice da Súmula 211 do STJ.
+2. O STJ entende que a simples citação dos artigos tidos como vulnerados no relatório do acórdão recorrido não é suficiente para o cumprimento do requisito do prequestionamento, sendo necessário o efetivo debate pelo Tribunal de origem acerca dos dispositivos infraconstitucionais tidos por malferidos, o que não aconteceu no presente caso. Nesse sentido: AgInt no AgInt no AREsp 1.746.416/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 2.3.2022; e EDcl no AgInt no AREsp 483.787/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 5.8.2014.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5 de abril de 2022.
+Os Aclaratórios não prosperam.
+Na origem, cuida-se de ação anulatória visando à desconstituição de lançamento efetuado pelo Município de Campinas, com base na Lei Municipal 15.499/2017, para cobrança de crédito tributário de IPTU e respectivos consectários, supostamente lançados de forma retroativa aos anos de 2013 a 2018. A presente demanda se restringe a discutir a forma do lançamento realizado por meio de edital e retroativamente.
+O juízo de primeiro grau julgou parcialmente procedente a demanda para desconstituir o crédito tributário referente aos exercícios de 2013 até 2017, mantendo o do exercício de 2018. A Corte local deu parcial provimento ao recurso de Apelação da Fazenda apenas para alterar os honorários advocatícios.
+O acórdão recorrido, em resumo, entendeu (fls. 689-691, e-STJ, grifamos):
+Em relação ao lançamento por edital, observo que a jurisprudência do STJ está assentada no sentido de que, no processo administrativo fiscal, é válida a intimação por edital quando frustrada a intimação por carta.
+(..)
+A informação fática de que a notificação pelos correios foi frustrada deve vir no acórdão recorrido, sob pena de esta Corte Superior incorrer em análise do acervo probatório, o que não é possível ante o óbice da Súmula 7 do STJ.
+No caso dos autos, constata-se que o acórdão recorrido não faz menção de que houve notificação por carta ao contribuinte e nem que ela foi frustrada.
+Apenas se fundamenta na seguinte passagem: "Dito lançamento (2018), pois, resta preservado, malgrado o disposto na Súmula 397 do STJ, porquanto a autora dele teve induvidoso e tempestivo conhecimento, inclusive com a propositura desta ação ( )" (fl. 399, e-STJ).
+Assim, não está consignado no acórdão recorrido se houve a intimação via postal, nem se ela resultou frustrada. Adentrar nessa análise implica reexaminar o acervo fático-probatório, o que é vedado pelo enunciado 7 da Súmula do STJ.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Acerca da matéria apontada como omissa pelo embargante, o acórdão atacado assim se manifestou (fl. 758, e-STJ):
+Em relação à alegação de omissão acerca da violação ao art. 53 da Lei 6.766/79 e da ausência de comunicação ao INCRA, de fato o acórdão recorrido não se pronunciou sobre a matéria, o que se faz agora.
+Observa-se que, a despeito da oposição dos Embargos de Declaração, não houve juízo de valor por parte da Corte de origem - em relação ao art. 53 da Lei 6.766/79 -, o que acarreta o não conhecimento do Recurso Especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Não há que se falar em omissão, uma vez que, ao se analisar o acórdão do Tribunal de origem, constata-se que a única manifestação da Corte local acerca do art. 35 da Lei 6.766/1979 ocorreu no relatório do seu Voto (fl. 397, e-STJ), o que não é suficiente para que a matéria seja considerada prequestionada. Incide o óbice da Súmula 211 do STJ.
+O STJ entende que a simples citação dos artigos tidos como vulnerados no relatório do acórdão recorrido não é suficiente para o cumprimento do requisito do prequestionamento, sendo necessário o efetivo debate pelo Tribunal de origem acerca dos dispositivos infraconstitucionais tidos por malferidos, o que não aconteceu no presente caso. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. ACÓRDÃO RECORRIDO COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ALEGADA INFRINGÊNCIA AOS ARTS. 391 DO CÓDIGO CIVIL, 789 DO CÓDIGO DE PROCESSO CIVIL, 131 DO CTN E 4º DA LEI 6.830/80. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO IMPROVIDO.
+(..)
+IV. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal de ofensa aos arts. 391 do Código Civil, 789 do Código de Processo Civil, 131 do CTN e 4º da Lei 6.830/80, não foi apreciada, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+V. Consoante a pacífica jurisprudência do STJ, "a simples citação dos artigos tidos como vulnerados no relatório do acórdão recorrido não é suficiente para o cumprimento do requisito do prequestionamento, sendo necessário o efetivo debate pelo Tribunal de origem acerca dos dispositivos infraconstitucionais tidos por malferidos, o que não aconteceu no presente casu" (STJ, EDcl no AgInt no AREsp 483.787/CE, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 05/08/2014). No mesmo sentido: AgInt no AREsp 1.864.894/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 25/11/2021; AgInt no AREsp 1.728.783/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 04/06/2021.
+(..)
+VII. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1.746.416/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 02/03/2022, grifamos)
+Com efeito, não se verificando, na hipótese, a existência de omissão, contradição ou obscuridade, a discordância da parte com o conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+Ante o exposto, rejeito os Embargos de Declaração.
+É como voto.
