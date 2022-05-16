@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pela PSM – POLISHED STONE MINING – MINERAÇÃO, EXPORTAÇÃO, COMÉRCIO E INDÚSTRIA LTDA. ME, ACD PARTICIPAÇÕES SOCIETÁRIAS LTDA. e BLCAL PARTICIPAÇÕES SOCIETÁRIAS LTDA, com o fito de reformar a decisão que, nos autos da Ação de Exclusão de Sócio da Sociedade c/c Apuração de Haveres no 1000498-68.2022.8.11.0053, ajuizada em face de NOVAS SOLUÇÕES EM PARTICIPAÇÕES SOCIETÁRIAS LTDA, indeferiu o pedido liminar de tutela de urgência para que a sócia, ora agravada, fosse sumariamente excluída do quadro societário da empresa, primeira agravante.
+Para tanto, as agravantes esclarecem, inicialmente, que tanto a empresa agravada, quanto a segunda e terceira agravante, compõe o quadro societário da sociedade PSM – POLISHED MINING STONE, ora primeira agravante, conforme definido na 8a Alteração do Contrato Social, da sociedade em questão.
+Alegam que a sociedade tem por único objetivo o desenvolvimento de pesquisa de mineiras em determinada área, com base em um Alvará expedido pelo Departamento Nacional de Produção Mineral, o que, porém, tem sido dificultado por parte da agravada, no que diz respeito à obtenção de recursos financeiros necessários para dar andamento aos trabalhos.
+Aduzem que, apesar de compreender a necessidade de obtenção de recursos para realização das pesquisas, as quais deverão ser concluídas até abril de 2023, sob pena de perda de validade e efeito do alvará, a agravada deixa de comparecer às reuniões de sócios convocadas para esse fim.
+Assim, pugnam pela concessão da liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+Apesar dos esforços argumentativos dos agravantes, por ora, não há nada que convença da liminar pleiteada.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois não estão presentes os requisitos autorizadores da tutela jurisdicional, dispostos no artigo 300 do Código de Processo Civil, com destaque para a probabilidade do direito invocado.
+Ao examinar sumariamente as extensas provas documentais que formam os autos, infere-se do contrato social apresentado no id no 81792724, que a exclusão ou não continuidade de sócio, pressupõe a infringência de algumas das condições elencadas na Cláusula Décima Terceira do referido contrato social, o que, por seu turno, ao menos no atual estágio da lide não se verifica, restando evidente a necessidade de ao menos facultar ao demandado, o exercício do contraditório.
+Ademais, vale destacar, que na linha dos fundamentos da decisão agravada, a medida de exclusão do sócio requerido não se mostra reversível, pois a mesma teria influência direta nas atividades da empresa.
+Assim, não atendido ao menos um dos pressupostos da tutela judicial pretendida, deve ser indeferida a medida liminar recursal.
+Ante o exposto, NÃO ATRIBUO efeito ativo ao recurso.
+Publique-se e intime-se, advertindo-se a agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
