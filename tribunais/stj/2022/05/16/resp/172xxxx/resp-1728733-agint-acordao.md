@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto por Banco Pan S.A. contra decisão monocrática às fls. 931-933, e-STJ, que não conheceu do seu Recurso Especial, em razão da incidência da Súmula 280 do STF.
+Na origem, trata-se de Recurso Especial (artigo 105, III, "a" e "c", da Constituição Federal) contra decisão cuja ementa é a seguinte:
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS DO DEVEDOR. AÇÃO DEEXECUÇÃO FISCAL. INTERESSE DE AGIR PRESENTE. IPVA. INCIDÊNCIA SOBRE VEÍCULO OBJETO DE ALIENAÇÃO FIDUCIÁRIA. CREDORFIDUCIÁRIO. RESPONSABILIDADETRIBUTÁRIASOLIDÁRIA. LEGITIMIDADE PASSIVA PARA A EXECUÇÃO. RECURSO NÃO PROVIDO.
+1. Consiste o interesse de agir na utilidade e necessidade do processo como remédio apto à aplicação do direito objetivo no caso concreto.
+2. Nos termos do art. 2º da Lei estadual nº 19.971, de 2011, a Advocacia Geral do Estado está autorizada a não ajuizar ação de cobrança de crédito do Estado e de suas autarquias e fundações nas causas cujo valor seja inferior a 17.500 UFEMG (Unidades Fiscais do Estado de Minas Gerais). Portanto, inexiste a obrigação e o interesse de agir está presente.
+3. O credor beneficiado pela alienação fiduciária em garantia de veículo é solidariamente responsável pelo pagamento do IPVA. Logo, é parte passiva legítima para a execução.4. Apelação cível conhecida e não provida, mantida a sentença que não acolheu os embargos do devedor, rejeitada uma preliminar.
+Os Embargos de Declaração foram rejeitados às fls. 544/548, e-STJ.
+Trata-se de Embargos à Execução Fiscal na qual se alega que o credor fiduciário não possui legitimidade passiva para pagamento de IPVA incidente sobre veículos adquiridos por meio de contratos de alienação fiduciária firmados entre particulares.
+Nas razões do Recurso Especial, o recorrente aduz que foram violados os arts. 1.228, 1.361, 1.364 e 1.365 do Código Civil e arts. 110, 124, incisos I e II e 128 do Código Tributário Nacional. Sustenta que a instituição financeira que concede crédito para contrato de alienação fiduciária para compra de automóvel não é sujeito passivo do IPVA, uma vez que não possui o direito de uso, gozo, disposição e de reivindicação de automóvel.
+Nas razões de Agravo Interno (fls. 937-946, e-STJ), o recorrente aduz, em síntese, que "a questão trazida à julgamento não guarda qualquer relação com a análise de direito local, tanto é que por meio da legislação federal é possível concluir que o Agravante não exerce propriedade sobre o bem, na realidade, apenas detém o veículo como garantia para cumprimento da obrigação contraída" (fl. 941, e-STJ).
+Contrarrazões às fls. 950-954, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. IPVA. CREDOR FIDUCIÁRIO. ILEGITIMIDADE PASSIVA PARA FIGURAR EM EXECUÇÃO FISCAL. INTERPRETAÇÃO DA LEI ESTADUAL 14.937/2003. SÚMULA 280 DO STF. PRECEDENTES.
+1. Trata-se de Embargos à Execução Fiscal na qual se alega que o credor fiduciário não possui legitimidade passiva para pagamento de IPVA incidente sobre veículos adquiridos por meio de contratos de alienação fiduciária firmados entre particulares.
+2. A Corte de origem, ao decidir a controvérsia, consignou (fls. 510/511, e-STJ): "Em relação ao direito, o legitimado para a causa é aquele que integra a lide como possível credor ou como obrigado mesmo não fazendo parte da relação jurídica material. Assim ensina Humberto Theodoro Júnior em Curso de direito processual civil, 54. ed., Rio de Janeiro: Forense, 2013, vol. I, p. 83: (..) O apelante é coobrigado do devedor principal Francisco Venâncio de Lima. Ora, o bem móvel gerador do tributo é objeto de garantia de alienação fiduciária ajustada entre o recorrente e o devedor fiduciário. O art. 1.361 do Código Civil de 2002 dispõe que o credor fiduciário é efetivo proprietário do bem dado em garantia. É importante notar, também, que a Lei estadual nº 14.937, de 2003, atribui responsabilidade fiscal solidária, para quitação do IPVA, entre o proprietário e o possuidor de fato do veiculo automotor alienado: (..) Ora, é patente a responsabilidade solidária entre as partes envolvidas no contrato para com o tributo em questão. Portanto, está presente a legitimidade do apelante para ser, também, executado. Logo, o inconformismo desafia rejeição".
+3. Verifica-se, assim, que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em lei local (Lei Estadual 14.937/03). Torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido as decisões monocráticas: AREsp 1.581.487/SP, Rel. Min. Francisco Falcão, DJe 26.8.2020 e Aglnt no AREsp 1.047.674/MG, Rel. Min. Regina Helena Costa, DJe 4.5.2020, REsp n. 1.045.167/MG, Rel. Min. Assusete Magalhães, DJe de 01/03/2017 e o acórdão AgInt no AREsp n. 1.056.506/MG, Rel. Min. Mauro Campbell Marques, DJe de 07/03/2017, os quais tratam do mesmo caso fático ao da presente demanda".
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6 de abril de 2022.
+Não obstante os argumentos expendidos no Agravo Interno, o inconformismo do agravante não merece guarida.
+A Corte de origem, ao decidir a controvérsia, consignou (fls. 510/511, e-STJ):
+Em relação ao direito, o legitimado para a causa é aquele que integra a lide como possível credor ou como obrigado mesmo não fazendo parte da relação jurídica material. Assim ensina Humberto Theodoro Júnior em Curso de direito processual civil, 54. ed., Rio de Janeiro: Forense, 2013, vol. I, p. 83:
+(..)
+O apelante é coobrigado do devedor principal Francisco Venâncio de Lima (ff. 98/99).
+Ora, o bem móvel gerador do tributo é objeto de garantia de alienação fiduciária ajustada entre o recorrente e o devedor fiduciário. O art. 1.361 do Código Civil de 2002 dispõe que o credor fiduciário é efetivo proprietário do bem dado em garantia.
+É importante notar, também, que a Lei estadual nº 14.937, de 2003, atribui responsabilidade fiscal solidária, para quitação do IPVA, entre o proprietário e o possuidor de fato do veiculo automotor alienado:
+Art. 4º. Contribuinte do IPVA é o proprietário de veiculo automotor.
+Art. 5º. Respondem solidariamente com o proprietário pelo pagamento do IPVA e dos acréscimos legais devidos.
+I - O devedor fiduciário, em relação a veiculo objeto de alienação fiduciária;
+Ora, é patente a responsabilidade solidária entre as partes envolvidas no contrato para com o tributo em questão. Portanto, está presente a legitimidade do apelante para ser, também, executado. Logo, o inconformismo desafia rejeição.
+Com estes fundamentos, nego provimento à apelação.
+Verifica-se que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em lei local (Lei Estadual 14.937/03). Logo, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido as decisões monocráticas: AREsp 1.581.487/SP, Rel. Min. Francisco Falcão, DJe 26.8.2020 e Aglnt no AREsp 1.047.674/MG, Rel. Min. Regina Helena Costa, DJe 4.5.2020, REsp n. 1.045.167/MG, Rel. Min. Assusete Magalhães, DJe de 01/03/2017 e o acórdão AgInt no AREsp n. 1.056.506/MG, Rel. Min. Mauro Campbell Marques, DJe de 21/06/2017, os quais tratam do mesmo caso fático ao da presente demanda.
+Pelo exposto, nego provimento ao Agravo Interno.
+É como voto.
