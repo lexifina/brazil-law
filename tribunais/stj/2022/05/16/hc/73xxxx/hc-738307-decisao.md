@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de WELINGTON REGASSON AMARAL contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(HC n. 5026574-96.2022.8.21.7000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, doscrimes de organização criminosa, posse irregular de arma de fogo e corrupção de menores.
+Impetrado préviohabeas corpusna origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fls. 93/94):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. POSSE IRREGULAR DE ARMA DE FOGO. CORRUPÇÃO DE MENORES. PRESENÇA DOS REQUISITOS DA PRISÃO PREVENTIVA. CUSTÓDIA MANTIDA.
+1. Paciente preso, preventivamente, desde 29/12/2021, pela prática,segundo a denúncia, dos delitos de organização criminosa armada, posse irregular de arma de fogo e corrupção de menores, sendo a prisão preventiva decretada em atenção ao disposto no artigo 313, inciso I, do Código de Processo Penal (CPP).
+2. Havendo prova da existência dos crimes e indícios suficientes de autoria, bem como demonstração concreta do perigo gerado pelo estado de liberdade, ausente constrangimento ilegal a justificar o deferimento da ordem de habeas corpus.
+3. De acordo com orientação da jurisprudência do Superior Tribunal de Justiça (STJ), a "prisão cautelar pode ser decretada para garantia da ordem pública potencialmente ofendida, especialmente nos casos de: reiteração delitiva, participação em organizações criminosas, gravidade em concreto da conduta, periculosidade social do agente, ou pelas circunstâncias em que praticado o delito (modus operandi)" (STJ, Jurisprudência em Teses,Edição n. 32, Item 12).
+4. Destaca-se a própria gravidade real das condutas, evidenciada pelo modo de agir da organização criminosa, formada com o fim precípuo de praticar delitos graves, especialmente homicídio e tráfico de drogas com o apoio de facções criminosas.
+5. Nada obstante a menção de primariedade, residência fixa e ocupação lícita, eventuais condições pessoais favoráveis não impedem a decretação da prisão preventiva quando demonstrados seus requisitos (STJ - HC 647.929/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/04/2021, DJe 28/04/2021).
+6. Justamente porque a constrição cautelar foi decretada de maneira fundamentada e a partir de dados efetivos do caso em apreciação, não há violação ao princípio da presunção de inocência ou cumprimento antecipado de pena (STJ - AgRg no HC 618.887/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021,DJe 14/04/2021).
+7. Circunstâncias que evidenciavam a presença do perigo gerado pelo estado de liberdade, nos termos do artigo 312 do CPP. Incabível a substituição por medidas cautelares diversas (artigo 319 do CPP). Julgado do STJ.
+8. Prisão preventiva mantida. ORDEM DENEGADA.
+Daí o presentewrit, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea. Acrescentaser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer ao final (e-STJ fl. 14):
+A) O conhecimento e recebimento do presente habeas corpus;
+B) A concessão LIMINAR da ordem, a fim de revogar a prisão preventiva do paciente WELINGTON REGASSON AMARAL com ou sem a aplicação de medidas cautelares diversas, conforme substratos fáticos e jurídicos acima expostos;
+C) A confirmação da medida liminar, acaso concedida; e, na hipótese de indeferimento do pleito liminar, a concessão definitiva da ordem, revogando-se a prisão cautelar, e, subsidiariamente, a concessão da ordem para fins de substituição da prisão preventiva por medidas cautelares menos severas, nos termos na manifestação.
+D) Alternativamente, mesmo que não conhecida a ordem, seja concedida de ofício.
+Indeferido o pedido liminar e prestadas as informações de estilo, o Ministério Público Federal se manifestou pelo não conhecimento dowrite, se conhecido, pela denegação da ordem (e-STJ fls. 152/155).
+É, em síntese, o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva(e-STJ fls. 42/):
+A autoridade policial relatou que a investigação da organização criminosa se deu a partir dos elementos obtidos no Inquérito Policial nº 704/2021, quando se teria apurado que JONATHA SANTOS, JIENIFER VITÓRIA DOS SANTOS SOARES e GLEICY HENGEN DA ROSA teriam cometido o homicídio da vítima Ana Lúcia Rodrigues como co-autores executores, a mando de LAURI SÁVIO CUNHA (alcunha FB) e de DIEGO FERNANDO SÁVIO CUNHA.
+Que os três executores foram presos em flagrante no IP 706/202, por porte de arma de fogo de uso restrito e associação criminosa, quando o Setor de Investigação Policial apurou que as condutas estavam vinculadas às brigas de facções criminosas.
+A autoridade policial fez um organograma da organização criminosa, mencionando que seus integrantes são vinculados com as facções "Cova Rasa" e "Bala na Cara" e travam uma guerra pelos pontos de tráfico de entorpecentes contra a facção "OS MANOS"e são responsáveis pela maioria esmagadora dos crimes violentos ocorridos em Ijuí.
+Nesse organograma, apurou-se que LAURI SÁVIO CUNHA (FB) seria o lider da facção criminosa "Cova Rasa", e, mesmo recolhido em Dourados/MS, é quem dá ordens de matar rivais, traficar e realizar pagamentos. LAURI, juntamente, com DIEGO, são apontados como mandantes da execução da vítima Ana Lúcia Rodrigues, ocorrido na Faixa Velha em outubro de 2021, motivado por desacerto referente ao tráfico de drogas.
+ .. .
+As investigações policiais ainda teriam identificado como integrante ativo da organização criminosa a pessoa de WELINGTON REGASSON AMARAL, o qual teria ligação direta com os dois adolescentes  .. , os quais já acabaram com determinação de internação na CASE por participação em delitos ligados à organização criminosa. Segundo se apurou em escuta de aparelho telefônico apreendido do adolescente  .. , bem como do aparelho apreendido de WELINGTON no APF 7433-21, que ele participa de diversos atos da organização, como o transporte de integrantes em veículo com drogas, bem como guarda de armas e munições em sua oficina mecânica (IP nº 719/2021). Ainda restou apurado que, por ordem de LAURI, o adolescente  ..  foi buscado em Chapecó, para matar Leandro Rodrigues, irmão da vítima Ana Lúcia Rodrigues, assassinada pelo primo do adolescente  .. , o representado JHONATA SANTOS.(Destaquei.)
+Formulado pedido de revogação da prisão cautelar, o Magistrado de piso indeferiu-o aos seguintes fundamentos (e-STJ fls. 51/52):
+Vistos.
+As defesade WELINGTON REGASSON AMARAL postulou arevogaçãodaprisãopreventivacom pedido subsidiário de substituição desta porprisãodomiciliar.
+O Ministério Público opinou pelo indeferimento (evento 37).
+É obrevíssimorelato.
+DECIDO.
+Tenho que os motivos que ensejaram o decreto daprisão cautelar permanecem hígidos, porquanto não sobreveio aos autos nenhum fato novo ou informação relevante que possa descaracterizar o decreto da medida imposta.
+Ademais, a decisão que decretou a segregação está devidamente fundamentada quanto a presença dosrequisitos legais.
+Outrossim, acrescento que diante do constante dos autos, os denunciados estão, em tese, implicados em organização criminosaamplamente estruturada e com elevado número de componentes, tendo WELINGTON como responsável pela produção de "mocós" compartimentos secretos utilizados para transporte de drogas,fatos neste contexto posto e narrados da denúncia extremamente graves.
+Ainda, consoante o inquérito policial e a denúncia, há indícios de autoria e materialidade em seu desfavor.
+A segregação cautelar é necessária para a garantia da ordem pública, ao menos por ora, considerando que se tratade organização criminosa que a presente medida é suficiente para interromper eventuais atividades delitivas.
+Nesse contexto, entendo que, por ora, as medidas cautelares diversas da prisãonão são adequadas e suficientes para a garantia da ordem pública.
+No mais, reporto-me ao já exposto nos autos,evitando enfadonha tautologia.
+Diante do exposto, depois de examinadas e confirmadas as razões que a justificaram,INDEFIROos pedidos derevogaçãodaprisão preventiva, bem como os pedidos de outras medidas cautelares, considerando que são fundamentais ao menos por ora, formulados pelas defesa deWELINGTON REGASSON AMARAL.(Destaquei.)
+Assim, em razão das características da conduta delituosa narrada, o decreto prisional demonstrou que o ora paciente seria membro de extensa organização criminosa especializada na prática de tráfico de drogas, ligada às facções "Cova Rasa" e "Bala na Cara", tendo ele função ativa no grupo, especialmente detransporte de integrantes em veículo com drogas, produção de compartimentos secretos nos veículos utilizados para o transporte desubstâncias entorpecentes,bem como guarda de armas e munições em sua oficina mecânica.
+Taiscircunstâncias autorizam a decretação da prisão preventiva, pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora MinistraCÁRMEN LÚCIA, Primeira Turma, DJe 20/2/2009).
+Nesse mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A necessidade da custódia cautelar está fundamentada na garantia da ordem pública, evidenciada pelo modus operandi da organização criminosa voltada para o tráfico de drogas, da qual, supostamente, o paciente faz parte, eis que, após um mês de investigações, identificou-se que ele e outros corréus transitavam entre os territórios/brasileiros e de Riviera/Uruguai na venda de drogas.
+ ..
+3. Ordem denegada.(HC n. 353.594/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 5/5/2016, DJe 16/5/2016.)
+RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É possível a decretação da prisão preventiva quando se apresenta efetiva motivação para tanto.
+2. Na espécie, a prisão preventiva foi decretada tendo em vista as peculiaridades do caso concreto (agente supostamente integrante de complexa organização criminosa, voltada à disseminação de grande quantidade de drogas, as quais são adquiridas no Paraná com a finalidade de distribuição em Minas Gerais, tendo sido apreendidos 231 kg de maconha).
+3. Recurso em habeas corpus improvido.(RHC n. 65.669/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/4/2016, DJe 9/5/2016.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+ ..
+2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes (Tiago Gonçalves, companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita .
+3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+ ..
+8. Recurso ordinário improvido.(RHC n. 83.321/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+Ademais, como se verifica, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+Portanto, os fundamentos acima delineados indicam a necessidade de manter o paciente segregado para a garantia da ordem pública.
+Ante o exposto,denego a ordem.
+Publique-se. Intimem-se.
