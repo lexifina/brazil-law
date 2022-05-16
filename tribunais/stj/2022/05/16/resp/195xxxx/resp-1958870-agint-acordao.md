@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu parcialmente do Recurso Especial para lhe negar provimento.
+O agravante afirma que o ressarcimento buscado pela Fazenda Pública não se amolda ao conceito de dívida ativa não tributária porque o art. 39, § 2º, da Lei 4.320/1964 expressamente alude à necessidade de apuração da responsabilidade "definitivamente julgada" em processo judicial, o que não ocorreu no caso dos autos.
+Sustenta que a Comissão de Inquérito do IAA não detém competência para condená-lo ao ressarcimento, de modo que suas conclusões, no máximo, poderiam embasar o necessário ajuizamento de Ação de Improbidade Administrativa. Caso não acolhida a argumentação acima, invoca pela primeira vez a prescrição, sustentando que se trata de matéria de ordem pública que deve ser apreciada em qualquer grau de jurisdição.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. Em atenção ao princípio da dialeticidade, é ônus do agravante impugnar especificamente os fundamentos da decisão agravada. No caso em tela, a decisão monocrática claramente consignou que a jurisprudência do STJ afasta o cabimento da Execução Fiscal quando o crédito fiscal perseguido originar-se de ilícito extracontratual, sendo cabível, no entanto, quando houver relação estatuária e previsão legal específica disciplinando o processo de apuração da responsabilidade causada por servidor público, para fins de reposição ou indenização aos cofres públicos.
+2. Em vez de enfrentar esse fundamento, o agravante, sem impugnar seu enquadramento na condição de funcionário público, invoca a genérica tese de que a responsabilidade teria de ser apurada em Ação de Improbidade (como se todo dano causado por servidor público tivesse de ser apurado nesse específico tipo de demanda), o que atrai a incidência da Súmula 182/STJ.
+3. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada. Incidência da Súmula 182/STJ.
+4. Segundo a jurisprudência do STJ, mesmo as questões de ordem pública sujeitam-se à necessidade de atender ao requisito do prequestionamento. Na hipótese em análise, o tema da prescrição representa inovação recursal, pois não debatido nas instâncias de origem.
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4 de abril de 2022.
+O recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, em atenção ao princípio da dialeticidade, é ônus do agravante impugnar especificamente os fundamentos da decisão agravada. No caso em tela, a decisão monocrática claramente consignou que a jurisprudência do STJ afasta o cabimento da Execução Fiscal quando o crédito fiscal perseguido originar-se de ilícito extracontratual, sendo cabível, no entanto, quando houver relação estatuária e previsão legal específica disciplinando o processo de apuração da responsabilidade causada por servidor público, para fins de reposição ou indenização aos cofres públicos.
+Em vez de enfrentar esse fundamento, o agravante, sem impugnar seu enquadramento na condição de funcionário público, invoca a genérica tese de que a responsabilidade teria de ser apurada em Ação de Improbidade (como se todo dano causado por servidor público tivesse de ser apurado nesse específico tipo de demanda), o que atrai a incidência da Súmula 182/STJ.
+Em relação à prescrição, a jurisprudência do STJ considera que mesmo as questões de ordem pública estão sujeitas ao prequestionamento:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ANULATÓRIA FISCAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DE MATÉRIA DE ORDEM PÚBLICA. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREVISÃO LEGAL I - Trata-se de ação anulatória de crédito fiscal em que a parte autora pleiteia a anulação do crédito tributário que deu origem à CDA n. 05049/2014; por não reconhecer o referido débito, assim como que seja reconhecida a prescrição intercorrente do referido crédito do Fisco. Na sentença, reconheceu-se a ocorrência da prescrição da pretensão do Estado/Apelante de efetuar a cobrança da dívida tributária e, via de consequência, julgou extinto o processo com resolução do mérito. No Tribunal a quo, a sentença foi mantida.
+II - O Superior Tribunal de Justiça tem entendimento pacífico no sentido de que somente a partir da notificação do resultado do recurso ou da sua revisão administrativa, tem início a contagem do prazo prescricional, afastando-se a incidência da prescrição intercorrente em processo administrativo fiscal, pela ausência de previsão normativa específica.
+III - Não é possível analisar questões não debatidas pelo Tribunal de origem, por caracterizar inovação de fundamentos; lembrando que mesmo as chamadas questões de ordem pública, apreciáveis de ofício nas instâncias ordinárias, devem estar prequestionadas, a fim de viabilizar sua análise nesta instância especial. Precedentes da Corte Especial: AgRg nos EREsp. 1.253.389/SP, relator Min. Humberto Martins, DJe 2.5.2013 e AgRg nos EAg 1.330.346/RJ, relatora Min. Eliana Calmon, DJe 20.02.2013.
+IV - Outrossim, o Superior Tribunal de Justiça tem entendimento pacífico de que, somente a partir da notificação do resultado do recurso ou da sua revisão administrativa, tem início a contagem do prazo prescricional, afastando-se a incidência da prescrição intercorrente em processo administrativo fiscal, pela ausência de previsão normativa específica. Nesse sentido: REsp 1.769.896/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2018, DJe 17/12/2018 e AgInt no AREsp 1.304.866/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/10/2018, DJe 30/10/2018.
+V - Agravo interno improvido.
+(AgInt no REsp 1856683/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+Houve, portanto, inovação recursal, não passível de análise neste momento.
+Com essas considerações, não conheço do Agravo Interno.
+É como voto.
