@@ -1,0 +1,17 @@
+DECISÃO
+GILMAR BRITO GARCIA, PATRICIA APARECIDA DA SILVA ARAUJO e JORGE ANTONIO VILALVAalegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (ED na Apelação Criminal n.0018958-70.2013.8.12.0001).
+Consta dos autos que os pacientes foram condenados, em regime inicial fechado, pela prática do crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006).
+A defesa pleiteia, por meio deste writ, a fixação do regime inicial aberto para todos os réus e, em relação ao paciente Gilmar, pugna, ainda, pela substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+O Tribunal de origem assim fundamentou a imposição do regime inicial fechado, in verbis (fl. 1.120):
+Quanto ao regime inicial de cumprimento da pena privativa de liberdade, deve-se harmonizar o disposto pelo artigo 33, §§ 2.º e 3.º com o 59, ambos do Código Penal.
+Todavia, quando se trata de pessoa que se dedica a atividades criminosas, como é o caso de todos os apelantes e do acusado Clóvis, impossível a eleição de regime mais brando, pois assim não se atenderia ao fator retributivo da pena.
+Nesse sentido (sem grifo na origem e com redução ao ponto):
+ ..
+Sendo assim, mantenho o regime fechado, fixado pela sentença, a todos os apelantes, incluindo o acusado Clóvis que não recorreu.
+No entanto, uma vez que o paciente Gilmar Brito Garciafoi condenadoa reprimenda inferior a 4 anos de reclusão, eratecnicamente primárioao tempo do delito, possuidor de bons antecedentes e tevea pena-base estabelecida no mínimo legal (fl. 1.184), considero ser devida a imposição do regime inicial aberto de cumprimento de pena, ex vi do disposto no art. 33, § 2º, "c", do CP.
+Pelas mesmas razões anteriormente expostas, não vejo como concluir que asubstituição da pena privativa de liberdade por restritiva de direitos nãose mostra, no caso, medida socialmente recomendável, motivo pelo qual devea ordem ser concedida também nesse ponto, para determinar a substituiçãoda reprimenda privativa de liberdade imposta ao paciente Gilmar por duas restritivas de direitos, nostermos do art. 44 do CP, as quais deverão ser estabelecidas peloJuízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+Já no que diz respeito aos pacientes Patricia Aparecida e Jorge Antonio, verifico que eles tiveram a pena-base estabelecida acima do mínimo legal, em razão da existência de circunstâncias judiciais desfavoráveis, elemento que, somado ao fato de se dedicarem a atividades criminosas, autoriza,nos termos do art. 33, § 3º, do CP, a fixação do regime inicial imediatamente mais grave do que oestabelecido em razão do quantum da pena aplicada, que, no caso, é osemiaberto, e não o fechado, como concluiu o Tribunal de origem.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de: a) em relação ao pacienteGilmar Brito Garcia,estabelecer o regime inicial aberto e determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado; b) quanto aos pacientesPatricia Aparecida e Jorge Antonio, fixar o regime inicial semiaberto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
