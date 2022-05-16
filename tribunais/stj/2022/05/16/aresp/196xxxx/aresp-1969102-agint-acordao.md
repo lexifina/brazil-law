@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 307/319) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 302/304).
+Em suas razões, a parte alega a inaplicabilidade da Súmula n. 7 do STJ, sustentando que a "alegada violação aos artigos arts. 503, 505, 507, 508 e 525, § 11 do CPC; art. 406 e 884 do Código Civil e 161, § 1º do CTN é estritamente jurídica, não sendo necessária, para sua compreensão e julgamento, nova análise de questões de fato e de prova" (e-STJ fl. 312).
+Reitera a tese de negativa de prestação jurisdicional, afirmando que "o Tribunal não se manifestou quanto (i) aos excessos atinentes ao termo inicial da dedução da penhora, que foi, inclusive, a principal causados excessos apontados,(ii) ao fato dos vícios alegados pela Carvalho Hosken se referirem ao abatimento da penhora/depósitos e atualização do valor,(iii) aviabilidade de impugnações quando da apresentação de novos cálculos, destacando-se que todas as discussões relativas aos juros sequer estariam sujeitas à preclusão, por se tratar de matéria de ordem pública e, por fim, (iv) aos vícios indicados em relação ao cálculo homologado em razão da aplicação de juros pro rata die" (e-STJ fls. 313/314).
+Assim, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado, com o provimento do recurso especial na íntegra.
+Não foi apresentada impugnação (e-STJ fls. 322/323).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015.MATÉRIA DECIDIDA DEFINITIVAMENTE.PRECLUSÃO CONSUMATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1.Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2.Consoante jurisprudência desta Corte, ainda que a questão seja de ordem pública, há preclusão consumativa se tiver sido objeto de decisão anterior definitivamente julgada.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, a análise das razões apresentadas pela parte recorrente,quanto à violação da coisa julgadae ao excesso de execução,demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+5. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 302/304):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por de violação de lei federal e incidência da Súmula n. 83 do STJ (e-STJ fls. 183/189).
+O acórdão recorrido está assim ementado (e-STJ fl. 36):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DECISÃO AGRAVADA QUE DEIXOU DE CONHECER DA IMPUGNAÇÃO AOS CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL AO ARGUMENTO DE QUE A MATÉRIA ESTAVA PRECLUSA.
+PRELIMINAR DE NULIDADE DA DECISÃO PROFERIDA EM SEDE DE EMBARGOS DE DECLARAÇÃO QUE NÃO MERECE ACOLHIDA.
+ALEGAÇÃO DA RECORRENTE NO SENTIDO DE QUE OS CÁLCULOS DESTOAM DO QUE FOI DETERMINADO NAS DECISÕES ANTERIORES, BEM COMO DE QUE HÁ CONTRARIEDADE AO QUE RESTOU DECIDIDO PELO C. STJ POR OCASIÃO DO JULGAMENTO DO RESP N.º 1.348.640-RS, SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. JUROS INCIDENTES SOBRE OS VALORES A SEREM RESTITUÍDOS QUE OBSERVARAM AS DECISÕES ANTERIORMENTE PROFERIDAS E JÁ PRECLUSAS. ATUALIZAÇÃO DOS DEPÓSITOS PARCIAIS QUE CONSIDEROU A INCIDÊNCIA DE JUROS DESDE O EFETIVO DEPÓSITO - E NÃO DA DATA DO BLOQUEIO, COMO PRETENDE A AGRAVANTE - QUE NÃO DESTOA DO ENTENDIMENTO FIRMADO NO RECURSO REPETITIVO RETRO MENCIONADO.
+PARTE QUE SE UTILIZOU DO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO, SEM ABUSAR DO DIREITO DE RECORRER, NÃO SE HAVENDO DE FALAR EM INCIDÊNCIA DE PENALIDADES POR LITIGÂNCIA DE MÁ-FÉ, TAL COMO REQUERIDO EM CONTRARRAZÕES. AGRAVO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 53/57).
+No recurso especial (e-STJ fls. 59/82), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 489 e 1.022 do CPC/2015, 503, 505, 507, 508 e 525, § 11, do CPC/2015, 406 e 884 do CC/2002 e 161, § 1º, do CTN, sustentando, em síntese, negativa de prestação jurisdicional, violação da coisa julgada e excessos nos cálculos homologados devido à aplicação de juros pro rata die.
+No agravo (e-STJ fls. 200/225), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 280/283).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No caso, o Tribunal de origem consignou que (e-STJ fl. 56/57):
+Sobre a alegada omissão acerca do suposto descabimento da alegação de preclusão, dentre outras razões, melhor sorte não socorre à embargante, porque, da mesma forma, no acórdão restou lavrado que: " ..  os cálculos efetuados refletem as decisões de índices 405 e 423, já preclusas, inexistindo qualquer irregularidade quanto à aplicação do disposto no art. 406 do Código Civil de 2002. Saliente-se que, não obstante sejam os consectários legais matéria sobre a alegada omissão acerca do suposto descabimento da alegação de preclusão, dentre outras razões, melhor sorte não socorre à embargante, porque, da mesma forma, no acórdão restou lavrado que:
+" ..  os cálculos efetuados refletem as decisões de índices 405 e 423, já preclusas, inexistindo qualquer irregularidade quanto à aplicação do disposto no art. 406 do Código Civil de 2002. Saliente-se que, não obstante sejam os consectários legais matéria cognoscível de oficio, esta já restou decidida, não prosperando a irresignação recursal extemporânea".
+Para alterar tais fundamentos e reconhecer que os cálculos efetuados não refletem as decisões preclusas, violando a coisa julgada, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Além disso, a jurisprudência desta Corte é pacífica ao afirmar que, embora as questões de ordem pública possam ser reconhecidas a qualquer tempo nas instâncias de origem, o mesmo não acontece quando não impugnada a decisão proferida a respeito do tema. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. PRESCRIÇÃO. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO AGRAVO INTERNO. NÃO CONHECIMENTO. PRECLUSÃO CONSUMATIVA. INTUITO PROTELATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. Nos termos da jurisprudência desta Corte, a existência de decisão anterior sobre determinado tema e a interposição de recurso não por deficiência de fundamentação impede novo pronunciamento judicial acerca da questão, mesmo sendo de ordem pública, em razão da preclusão consumativa.
+2. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+(EDcl no REsp n. 1837780/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 30/8/2021, DJe 2/9/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO - INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a aplicação da Súmula 7/STJ, não incidindo, portanto, o óbice da Súmula 182/STJ. Necessidade de conhecimento do agravo em recurso especial e julgamento de plano.
+2. Consoante iterativa jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. Inafastável o óbice da Súmula 83/STJ.
+2.1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282/STF.
+3. A conclusão a que chegou o Tribunal de origem, relativa à ausência de prova da celebração do contrato de compra e venda, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão da Presidência desta corte (fls. 591-593). Agravo em recurso especial desprovido.
+(AgInt no AREsp n. 1764458/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/5/2021, DJe 28/5/2021.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+No caso, o TJRJ reconheceu que as matérias suscitadas pela parte recorrente-violação da coisa julgada eexcessonos cálculos homologados devido à aplicação de juros pro rata die -estariam preclusas, pois devidamente analisadas em decisão anterior,o que impedirianova apreciação.
+Adecisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que "na questão de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada"(AgInt no REsp 1548875/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO BANCÁRIO. AUSÊNCIA DE TÍTULO EXECUTIVO. PRECLUSÃO PRO JUDICATO. PRESCRIÇÃO DE COBRANÇA DOS JUROS REMUNERATÓRIOS. ART. 178, §10, III, CC/1916. ART. 206, §3º, III, CC/02. NÃO INCIDÊNCIA. GRAU DE SUCUMBÊNCIA. REVISÃO. SÚMULA 7/STJ.
+1. O Tribunal de origem, assentou que a alegação de ausência de título executivo por falta de assinatura da testemunha em instrumento particular não poderia ser novamente analisada em virtude de já ter sido objeto de análise e afastamento por aquela Corte em outro processo (Agravo de Instrumento 2007.04.00.001825-4), incidindo o instituto da preclusão pro judicato.
+2. A decisão da Corte de origem encontra-se em harmonia com a jurisprudência sedimentada neste Tribunal Superior, no sentido de que à luz da legislação processual, tanto a anterior quanto a vigente, a preclusão pro judicato impede novo pronunciamento judicial acerca de matérias novamente alegadas, mesmo as de ordem pública, por se tratar de matéria já decidida, ainda que em autos ou recurso diverso, mas relativos à mesma causa. Precedentes.
+3. É assente nesta Corte Superior o entendimento de que os prazos prescricionais previstos no art. 206, § 3º, III, do Código Civil de 2002 (três anos) e no art. 178, § 10, III, do Código Civil de 1916 (cinco anos) tem incidência naquelas pretensões de cobrança autônoma dos juros remuneratórios e não nos casos em que cobrados conjuntamente com o principal e sobre ele incidentes, como na presente hipótese. Precedentes.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser inviável, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda, porquanto implicaria análise do conteúdo fático-probatório. Incidência da Súmula nº 7/STJ. 5. Agravo interno não provido.
+(AgInt no REsp 1595313/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020)
+Além disso, acolher as razões recursais e reconhecer a existência de ofensa à coisa julgada e excesso de execuçãoimplicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto naSúmulan. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
