@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KAROLINE DAVANTEL GENARO à decisão de fls. 1.390/1.391, que não conheceu do recurso.
+A parte embargante sustenta que a decisão incorre em contradição, "haja vista que, em que pese tenha sido cadastrada como recurso especial, o recurso interposto foi recurso ordinário conforme demonstrado pelo print do recibo, devendo, portanto, ser sanada." (fl. 1.395)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, deixando de se manifestar no prazo assinalado
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+A teor de pacífica jurisprudência, da decisão proferida em mandado desegurança que conduza ao indeferimento do pleito mandamental, seja pela sua denegação (extinção com análise de mérito), seja pelo seu não conhecimento (extinção sem análise de mérito), o único instrumento processual cabível é o recurso ordinário.
+Ressalte-se, novamente, que o agravo não foi conhecido, em razão do manifesto erro grosseiro na interposição do recurso especial. Inaplicável, pois, o princípio da fungibilidade.
+A propósito, citam-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. IMPETRAÇÃO. MANDADO DE SEGURANÇA. NÃO CONHECIDO. INTERPOSIÇÃO. RECURSO ESPECIAL. INADMISSIBILIDADE.
+(..)
+2. O presente recurso especial não foi admitido ao fundamento de erro grosseiro na interposição do recurso, porque cabível Recurso Ordinário das decisões que denegam mandado de segurança. A tese do recorrente é de que é cabível o recurso especial porque na presente hipótese, o mandado de segurança não fou conhecido, e não denegado. Assim, em razão da ausência da análise de mérito, não seria passível o recurso ordinário.
+3. A fungibilidade recursal incide, como bem lecionado pelo Min. Marco Aurélio Bellizze, quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto; b) inexistência de erro grosseiro; e c) que o recurso interposto erroneamente tenha sido apresentado no prazo daquele que seria o correto. a ausência de quaisquer desses pressupostos impossibilita a incidência do princípio em questão (AgRg no AgRg no AREsp n. 616.226/RJ, TERCEIRA TURMA, DJe 21/5/2015).
+4. Em razão da literalidade normativa esculpida no §5º do art. 6º da nova Lei do Mandado de Segurança, não é cabível o Recurso Especial, nem mesmo é caso de aplicabilidade de fungibilidade Recursal, ante a inexistência de margem de dúvida quanto a interpretação normativa, sendo suficiente a mera aplicação do estabelecido no regramento normativo específico ao procedimento a ser observado nas Ações de Mandado de Segurança.
+5. Hipótese de mera inadequação terminológica da decisão que "não conheceu" do mandado de segurança, ao invés de denegar.
+6. Recurso especial não conhecido. (REsp n. 1.631.873/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/12/2016.)
+PROCESSUAL CIVIL. DECISÃO DENEGATÓRIA DE MANDADO DE SEGURANÇA EM ÚNICA INSTÂNCIA. INTERPOSIÇÃO DE RECURSO ESPECIAL. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. A jurisprudência desta Corte é firme no sentido de que contra decisão denegatória de mandado de segurança decidido em única instância por Corte estadual, como no caso dos autos, é cabível o recurso ordinário, conforme art. 105, II, "b", da Constituição Federal.
+2. A interposição de recurso especial quando cabível o ordinário contra decisão denegatória de mandado de segurança configura erro grosseiro; logo, impossível aplicar o princípio da fungibilidade recursal.
+3. É pacífico nesta Corte o entendimento de que o recurso cabível em
+caso de concessão parcial do mandado de segurança é o recurso ordinário. precedentes. RMS 30.781/RJ, Rel. Min. Raul Araújo, Quarta Turma; RMS 31.848/AC, Rel. Min. Mauro Campbell Marques, Segunda Turma; RMS 32.007/SC, Rel. Min. Eliana Calmon, Segunda Turma.
+4. Como bem afirmou a eminente Ministra Marilza Maynard, no 1.213.527/RS, que já "definiu esta Corte que a expressão "denegatória" deve ser interpretada em sentido amplo, ou seja, compreende as decisões dos tribunais que, apreciando o mérito da causa, indeferem o pedido de mandado de segurança, como também abrange aquelas que, sem julgamento do mérito, operam a extinção do
+processo".
+Agravo regimental improvido. (AgRg no AREsp n. 522.589/SP, relator Ministro Humberto Martins, Segunda Turma, DJe de 15/8/2014.)
+Veja-se que o print do recibo do protocolo emitido, em princípio, pelo Tribunal de Justiça, e inserido no corpo da petição dos presentes embargos pela parte (fl. 1.395), não tem o condão de comprovar sua alegação de que interpôs recurso ordinário. Ademais, da simples leitura da petição recursal de fls. 145/163, não pairam dúvidas de que o recurso manejado foi, de fato, o recurso especial, uma vez que presentes todas as características que o particularizam.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
