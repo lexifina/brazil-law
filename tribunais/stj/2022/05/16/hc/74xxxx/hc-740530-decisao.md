@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ANTONIA SOUSA DE ANDRADE ROCHA contra acórdão do Tribunal de Justiça do Estado do Piauí proferido no HC n. 0758217-85.2021.8.18.0000.
+Consta nos autos que a Paciente foi condenada à pena de24 (vinte e quatro) anos de reclusão, em regime inicial fechado, pelaprática do crime de homicídio qualificado tipificadono art. 121, § 2.º, incisos I, III e IV, do Código Penal. Depreende-se que a condenação ainda não transitou em julgado.
+Impetrado préviowritna origem, a Corte local conheceu em parte dohabeas corpuse, no mais, denegou a ordem (fls. 53-61).
+Nestewrit, a Defesa sustenta, em síntese, que a substituição da constrição preventiva da Paciente por prisão domiciliaré medida que se impõe, pois "é portadora de Hipertensão arterial sistêmica e arritmia cardíaca, fazendo uso de medicamentos de forma contínua tais como Olmezartana, Medoxomila 20mg; Hidroclorotiazida 12,5mg; Cloridato de Propafenona 300mg; Succinato de Metropolol 50mg, Tuntá 300mg;Selozok 50mg e Pantoprazol 20mg, com episódios de crises hipertensivas e taquicardia" (fl. 7).
+Salienta que, ao contrário do concluído pelo Magistrado singular, o estabelecimento prisional em que a Segregada se encontra não possui condições de fornecer à Custodiada o tratamento e os medicamentosde que necessita, "podendo haver uma significativa piora do seu quadro clínico com a permanência da mesma em segregação em regime fechado" (fl. 7).
+Por fim, ressalta que, "muito embora a pena imposta a requerente tenha sido longuíssima, certo é que já cumpriumais de 05 (cinco) anos e vem mantendo sempre bom comportamento carcerário no regime fechado, sem registro de infração disciplinar em seu histórico prisional, conforme relatório anexo" (fls. 8-9).
+Requer, liminarmente e no mérito, a concessão da prisão domiciliar à Paciente, ainda que cumulada com monitoramento eletrônico.
+É o relatório.
+Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta"(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+Na hipótese,ao indeferir o pleito de concessão de prisão domiciliar à Paciente, o Magistrado singular consignouque "a apenada não se encaixa em nenhum dos requisitos do artigo 318, do CPP, tendo em vista que a mesma não é extremamente debilitada, sendo necessárioque a mesma tenha apenas acompanhamento periódico e uso de medicamentos contínuos.No entanto, em ofício, foi informado pela Penitenciária que a mesma está sendo devidamente medicada, estando com a saúde estável" (fl. 51; sem grifos no original).
+Por sua vez, ao denegar a ordem do writ originário, o Tribunal a quoasseverou o seguinte (fls. 58-59; sem grifos no original):
+" ..
+Após diligências (ID 4903686) a autoridade coatora apresentou as informações, in verbis.
+"Fora juntado aos autos, ofício da Penitenciária de Picos, informando que a mesma vem sendo tratada pela equipe médica, que está recebendo os devidos medicamentos, encontrando-se atualmente com saúde estável.
+Fora juntado parecer ministerial, o qual se manifestou pelo indeferimento do pedido.
+Fora decidido por este juízo em 14 de outubro de 2021, fora indeferido o pedido da Defesa de Prisão Domiciliar, tendo em vista que fora juntado ofício da Penitenciária Feminina de Picos, informando que a apenada estárecebendo os medicamentos e os tratamentos indicados para as enfermidades da mesma através da própria Penitenciária, estando hoje com a saúde estável."
+In casu, não restou vislumbradoque a prisão da Paciente põe em risco sua saúde, visto que, a apenada vem recebendo os medicamentos e os tratamentos indicados para as enfermidades  .. ."
+Com efeito,este TribunalSuperior tem entendimento no sentido de que, à luz do disposto no art. 318, inciso II, do Código de Processo Penal, o segregadodeve comprovar, simultaneamente, o grave estado de saúde em que se encontra e a incompatibilidade entre o tratamento de saúde e o encarceramento, o que não se verificou no caso.
+Como se vê, o Juiz a quoafirmou que a Paciente "não é extremamente debilitada", bem como quea mesma está sendo devidamente medicada, estando com a saúde estável" (fl. 51; grifei).
+Já a Corte local destacou que, ao prestar as informações no writ originário, o Magistrado singular esclareceu que "fora juntado ofício da Penitenciária Feminina de Picos, informando que a apenada está recebendo os medicamentos e os tratamentos indicados para as enfermidades da mesma através da própria Penitenciária, estando hoje com a saúde estável(fl. 58; grifei).
+Desse modo, consoante assinalado pelas instâncias ordinárias, não há nos autos do feito criminal documentos que atestemque a Segregada se encontra,atualmente,extremamente debilitadapor motivo de doença grave ou que não possa continuar reclusapor motivos de sequelas ou risco de morte.Ressalto, ainda, que, para afastar as conclusões acima mencionadasseria necessário o reexame de fatos e provas, o que é incabível na via estreita dohabeas corpus.
+No mesmo sentido, cito os seguintes precedentes desta Corte:
+" ..
+7. Este Superior Tribunal de Justiça entende que "o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra"(RHC 58.378/MG, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 6/8/2015, DJe 25/8/2015).
+8. No caso, as instâncias ordinárias concluíram pela ausência de comprovação da extrema debilidade do ora agravante, por motivo de doença grave. Rever tal entendimento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via.
+ ..
+10. Agravo regimental desprovido."(AgRg no RHC 158.077/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/02/2022, DJe 02/03/2022.)
+" ..
+13. Nos termos do art. 318, II, do Código de Processo Penal, a prisão domiciliar poderá ser concedida quando o acusado ou o indiciado estiver"extremamente debilitado por motivo de doença grave".Na mesma direção, o parágrafo único do referido dispositivo determina que seja apresentada prova idônea da situação. Desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional.
+14. Agravo regimental a que se nega provimento."(AgRg no HC 680.631/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021; sem grifos no original.)
+" ..
+3. O Código de Processo Penal, no seu artigo 318, inciso II e parágrafo único, só admite a adoção dessa medida quando houver demonstração de que o agente se encontra extremamente debilitado por motivo de doença grave e não houver a possibilidade de o custodiado receber tratamento adequado no estabelecimento prisional em que se encontra.
+4. Agravo regimental improvido."(AgRg no HC 486.087/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 27/05/2019; sem grifos no original.)
+Por fim,quanto à alegação de que a Paciente já cumpriu mais de 5 (cinco) anos da pena, sempre apresentando bom comportamento carcerário, observo que a questão não foi debatida pelo Tribunal de origem no acórdão impugnado, o que impede a análise originária da matéria por esta Corte Superior, sob pena de indevida supressão de instância.
+A propósito:
+" ..
+1. Matéria que não foi analisada no Tribunal estadual não pode ser objeto de análise desta Corte Superior, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental improvido." (AgRg no HC 597.244/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/08/2020, DJe 18/08/2020.)
+Ante o exposto, CONHEÇO PARCIALMENTE dowrite, nessa extensão, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PLEITO DE SUBSTITUIÇÃO DA SEGREGAÇÃO PREVENTIVA PELA PRISÃO DOMICILIAR COM AMPARO NO ART. 318, INCISO II, DO CÓDIGO DE PROCESSO PENAL. REQUISITOS NÃO DEMONSTRADOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. ALEGADO BOM COMPORTAMENTO CARCERÁRIO. SUPRESSÃO DE INSTÂNCIA. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM DE HABEAS CORPUS.
