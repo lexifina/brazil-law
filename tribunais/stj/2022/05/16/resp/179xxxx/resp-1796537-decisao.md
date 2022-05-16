@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALAN LIMA DE OLIVEIRA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão oriundo do Tribunal de Justiça do Estado do Paraná.
+Depreende-se dos autos que o recorrente foi condenado, como incurso no art. 16 da Lei n. 10.826/2003 e no art. 180 do Código Penal, à pena total de6 anos e 10 dias de reclusão, no regime inicial fechado.
+Foi negado provimento ao recuso de apelação da defesa. O acórdão está assim ementado (e-STJ fl. 933):
+APELAÇÃO CRIMINAL. CRIMES DE RECEPTAÇÃO E POSSE DE MUNIÇÕES E ACESSÓRIO DE USO RESTRITO. CONDENAÇÃO.INSURGÊNCIA DO RÉU. PLEITO ABSOLUTÓRIO. ALEGADA INSUFICIÊNCIA DE PROVAS EM RELAÇÃO À RECEPTAÇÃO.INOCORRÊNCIA. ELEMENTOS CIRCUNSTANCIAIS QUE DEMONSTRAM QUE O RÉU DEVERIA SABER DA ORIGEM ILÍCITA DO BEM. INVERSÃO DO ÔNUS DA PROVA, DO QUAL NÃO SE DESINCUMBIU. POSSE DE MUNIÇÕES E ACESSÓRIO DESACOMPANHADOS DA RESPECTIVA ARMA DE FOGO. DELITO DE MERA CONDUTA E DE PERIGO ABSTRATO. CONSUMAÇÃO QUE SE DÁ COM A MERA POSSE DA MUNIÇÃO OU ACESSÓRIO, INDEPENDENTE DE EFETIVO DANO AO BEM JURÍDICO TUTELADO. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Foi então interposto recurso especial, no qual se alegou a violação ao art. 16a Lei n. 10.826/2003 e ao art. 186 do Código de Processo Penal.
+Aduz a defesa que haveria "inequívoca violação a lei federal,  uma  vez que, o acordão utilizou do direito constitucional do recorrente permanecer em silêncio para sopesar em seu desfavor, afirmando que seria seu, o ônus de demonstrar que seria inocente, porém, transferir o ônus da prova para o réu é, no mínimo, incoerente, visto que conforme preceitua nossa Constituição Federal, a inocência é presumida" (e-STJ fl. 991).
+Com relação ao crime descritono art. 16 da Lei n. 10.826/2003, afirma que "as munições apreendidas e o carregador (caracol), na espécie em exame, digam-se, "guardado s  na residência"do recorrente, desacompanhad os de arma de fogo, por si só s , são incapazes de provocar lesão ao bem jurídico tutelado (incolumidade pública), não havendo, dessa forma, fato típico" (e-STJ fl. 993).
+Contrarrazões às e-STJ fls. 1.003/1.008.
+O MPF manifestou-se pelo não conhecimento do recurso (e-STJ fls. 1.032/1.033).
+É, em síntese, o relatório.
+Analiso em primeiro lugar o apontado malferimento aoart. 186 do Código de Processo Penal. E, ao fazê-lo, verifico que a matéria não foi alvo de prequestionamento.
+No caso, o Tribunal de origem limitou-se a relatarque, em juízo, o recorrente permaneceu em silêncio. Mas, do que se depreende do voto condutor, não considerou tal circunstância para decidir, e sim outros elementos de prova.
+Assim, caberia à parte recorrente ter provocado a Corte de origem sobre a aplicação do referido dispositivo por meio de embargos de declaração, o que não ocorreu.
+Ou seja, a mera alusão ao fato de o recorrente ter permanecido em silêncio não significa ter havido a discussão sobre a aplicação do referido dispositivo legal.
+Com relação àoutraalegação, não assiste razão à defesa.
+A Corte a quo, ao se manifestar sobre a questão, decidiu que "não há como se acolher a pretensão, pois o crime de posse de munições e acessórios se consumacom a mera posse dos objetos ilícitos, pouco importando se acompanhados ou não da respectiva arma de fogo" (e-STJ fl. 937).
+Vê-se que o acórdão recorrido ajusta-se ao entendimento desta Corte, firmado no sentido de que "o delito de porte ilegal demuniçãode uso permitido é considerado crime de perigo abstrato, prescindindo da análise relativa à lesividade concreta da conduta, haja vista serem a segurança pública, a paz social e a incolumidade pública os objetos jurídicos tutelados. Desse modo, o porte demunição,mesmo que desacompanhado de arma de fogo ou da comprovação pericial do potencial ofensivo do artefato, é suficiente para ocasionar lesão aos referidos bens" (AgRg no HC n. 733.159/SC, relatorMinistro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 3/5/2022, DJe 6/5/2022).
+Ante o exposto, conheço parcialmente do recurso e, nesta parte, nego-lhe provimento.
+Publique-se. Intimem-se.
