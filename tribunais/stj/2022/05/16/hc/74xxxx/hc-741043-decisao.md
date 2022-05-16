@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDERSON RIBAS DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2070180-41.2022.8.26.0000.
+O Paciente cumpre pena unificada de 35 (trinta e cinco) anos e 29 (vinte e nove) dias de reclusão com término previsto para 08/09/2040.
+O Juízo das Execuções Criminais, diante de nova condenação do Apenado, indeferiu o pedido de progressão ao regime semiaberto, ressaltando a ausência do requisito objetivo, o qual será atingido somente em 08/05/2025.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da impetraçãoem acórdão assim ementado (fl. 47):
+"1-) "Habeas Corpus", com pedido de liminar. Execução Penal.
+2-) Pleito para retificação do cálculo de penas e afastamento do exame criminológico. Temas não debatidos na origem. Supressão de instância e uso inadequado do remédio heroico. A pretensão do impetrante diz respeito a incidente na execução da pena do paciente. Dessa maneira, a matéria deve ser objeto de agravo na execução.
+3-) Ordem não conhecida."
+Daí o presente habeas corpus, em que a ParteImpetrante afirma que o Paciente está no cumprimento das reprimendas impostas pela prática dos delitos previstos nos arts. 33 e 35 da Lei n. 11.343/2006. Sustenta, em síntese, que, após a edição daLei n. 13.964/2019, o delito de tráfico de drogas não mais ostenta a equiparação ao crime hediondo, sendo "de rigor que seja considerada a fração de 1/6 (um sexto) para progressão de regime prisional" (fl. 9).
+Requer, liminarmente e no mérito, "que o cálculo de penas elaborado seja retificado, para que se considere a fração de 1/6 (um sexto) para obtenção de benefícios prisionais em relação a todos os delitos que cumpre pena (mormente no que pertine à condenação referente ao crime de tráfico ilícito de entorpecentes - art. 33, caput, da Lei 11.343/2006)" (fl. 12).
+É o relatório.
+Decido.
+A Corte estadual não examinou a tese de que, após o Pacote Anticrime, não há mais previsão legal em nenhum dispositivo equiparando o tráfico ilícito de entorpecentes aos crimes hediondos, sob o entendimento de que o habeas corpus não é a via adequada para apreciação da questão suscitada.
+Destarte, não tendo a Corte local se manifestado sobre a aludida tese defensiva, é vedadoa este Tribunal examinar essa questão, sob pena de indevida supressão de instância.
+Ilustrativamente:
+"PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS RECEBIDO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SITUAÇÃO ATUAL DE PANDEMIA CAUSADA PELA COVID-19. MATÉRIAS NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+ ..
+2. Esta Corte superior entende ser indevido o debate de matérias não analisadas pelas instâncias de origem, sob pena de incorrer em indevida supressão de instâncias.
+ ..
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento." (RCD no HC 580.971/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020.)
+Todavia, no caso, não há nenhum impedimento ao conhecimento do habeas corpus pela Corte de origem, pois se trata de questão de direito, consubstanciada na análise da hediondez do delito pelo qual foi condenado o Paciente e no tipo de reincidência em questão, para se definir o percentual de cumprimento de pena para a progressão de regime.
+Ressalto que, apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando o exame da legalidade do ato coator prescindir do exame aprofundado de provas, questão subjacente a ser oportunamente examinada pelo Tribunal a quo.
+Nesse sentido, mutatis mutandis:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DEREGIME.HABEAS CORPUSNÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SERCABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVODESPROVIDO. ORDEM DEHABEAS CORPUSCONCEDIDA DE OFÍCIO.
+1. O pedido de cassação da decisão proferida pelo Juízo das Execuções, quedeterminou a realização de exame criminológico para a análise do pedido deprogressão, não foi apreciado pelo Tribunala quo, que indeferiuliminarmente à ordem originária por entender que era inviável a análise damatéria, na via dohabeas corpus, por haver previsão de recurso específicopara impugnar ato do Juiz das Execuções Penais.
+2. Como a matéria arguida não foi analisada pelo Tribunala quo, não podeser originariamente examinada pelo Superior Tribunal de Justiça, sob penade indevida supressão de instância. Precedentes.
+3.A existência de recurso específico não inviabiliza a impetração deordem dehabeas corpuspara a aferição de eventual ilegalidade na fase deexecução da pena, quando a análise recai sobre questão pacificada emeramente de direito, consubstanciada na tese a respeito da previarealização do exame criminológico para fins de progressão de regime. Arecusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidadeflagrante.
+4. Agravo regimental desprovido. Ordem dehabeas corpusconcedida, deofício, para determinar que o Tribunal de Justiça do Estado de São Pauloaprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender dedireito." (AgRg no HC 465.318/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA,DJe 10/04/2019; sem grifos no original.)
+"EXECUÇÃO PENAL. RECURSO ORDINÁRIO EMHABEAS CORPUSINCONFORMISMO COM ASUSPENSÃO DO LIVRAMENTO CONDICIONAL E A NÃO CONCESSÃO DE INDULTO. TEMASNÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ANÁLISE NOPRÉVIOWRIT.POSSIBILIDADE. RECURSO PROVIDO.
+1.Hipótese em que as teses deduzidas neste recurso não foram debatidas nainstância originária pelo Tribunala quo, ao fundamento de que a estreitavia dohabeas corpusnão é meio idôneo para análise dos pedidos deconcessão de indulto e revogação de decisão que suspende o benefício delivramento condicional. Impossibilidade de exame por esta Corte, sob penade incorrer em supressão de instância.
+2.Nada obstante a existência de recurso específico, mostra-se cabível aimpetração dehabeas corpussempre que a alegada ilegalidade estiverinfluenciando na liberdade de locomoção do indivíduo,o que ocorre nosautos (AgRg no HC 298.290/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe09/10/2014, e HC 294.717/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe14/10/2014).
+3. Recurso provido para determinar que o Tribunal de origem examine omérito da impetração."(RHC 74.291/RJ, Rel. Ministro RIBEIRO DANTAS,QUINTA TURMA, DJe 28/09/2016; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE o writ, mas CONCEDO a ordem de habeas corpusde ofício para determinar que o Tribunal de Justiça do Estado de São Paulo reexamine oHC n. 2070180-41.2022.8.26.0000, afastado o entendimento de que a via eleita é inadequada.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PLEITO DE RETIFICAÇÃO DO CÁLCULO DO LAPSO TEMPORAL PARA CONCESSÃO DOS BENEFÍCIOS DA EXECUÇÃO. HEDIONDEZ DO DELITO DE TRÁFICO DE DROGAS. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE. VIA MANDAMENTAL CABÍVEL. WRIT INDEFERIDO LIMINARMENTE. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
