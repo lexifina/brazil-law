@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Y C M ajuizou ação de obrigação de fazer contra a SUL AMÉRICA SEGURO SAÚDE S.A. (SUL AMÉRICA) objetivando o pagamento de tratamento multidisciplinar conforme prescrição médica.
+A MERCEDES-BENZ DO BRASIL LTDA. (MERCEDES-BENZ) ingressou na lide como assistente litisconsorcial.
+O Juízo de primeira instância julgou procedente o pedido inicial para confirmar a tutela antecipada e condenar a ré a autorizar e custear integralmente, por não dispor de rede referenciada apta no município, o tratamento multidisciplinar do autor, com profissionais especialistas nas áreas de psicologia e neuropsicologia, seguindo a abordagem comportamental, complementado pela psicopedagogia, musicoterapia e equoterapia, bem como, terapia ocupacional, dando seguimento ao método de integração sensorial e fonoaudiologia, conforme indicado pelo médico, vedando-se qualquer limitação de ordem quantitativa, em local próximo à residência do autor, até a alta médica, podendo os tratamento serem realizados em clínica particular, mediante reembolso integral, ou, caso o autor não disponha dos meios para arcar com o tratamento, deverá apresentar orçamento à operadora para que efetue o pagamento diretamente à clínica prestadora do serviço, condenando a ré, ainda, ao pagamento das custas, despesas processuais e honorários advocatícios fixados em R$ 2.000,00.
+A apelação interposta pela SUL AMÉRICA foi improvida pelo TJSP em acórdão da relatoria do Desembargador ALCIDES LEOPOLDO, assim ementado:
+PLANO DE SAÚDE - Segurado portador de Transtorno do Espectro do Autismo - Prescrição de terapia pelo método multidisciplinar - Negativa de cobertura integral do tratamento - Interesse-necessidade - Não excluindo o plano de saúde a doença, não podem ser excluídos os procedimentos, exames, materiais e medicamentos necessários à cura - Método específico, reconhecido pela Comunidade Médica, para conferir melhor qualidade de vida e desenvolvimento ao autista, o que não pode ser obtido pelo fornecimento de profissionais sem interação e experiência sobre o autismo - Sentença mantida - Recursos desprovidos (e-STJ, fl.453).
+Os embargos de declaração opostos pela SUL AMÉRICA foram rejeitados.
+Inconformada, a SUL AMÉRICA manejou recurso especial fundamentado na alínea a do permissivo constitucional alegando (1) violação do arts. 757 do CC/02 e 10 da Lei nº 9.656/98, uma vez que a terapia multidisciplinar prescrita para o tratamento do transtorno de espectro autista (TEA) não consta do rol da ANS; e (2) ofensa ao art. 12 da Lei nº 9.656/98, defendendo que o reembolso das despesas realizada deve obedecer a tabela de honorários do contrato.
+Foram apresentadas contrarrazões.
+O apelo nobre foi admitido pelo TJSP.
+No âmbito do STJ, o recurso especial da SUL AMÉRICA foi improvido em decisão monocrática de minha lavra assim ementada:
+CIVIL. RECURSO ESPECIAL DA SUL AMÉRICA INTERPOSTO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO NÃO PREVISTO NO ROL DA ANS. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONMIA COM A JURISPRUDÊNCIA DO STJ. LIMITAÇÃO DO REEMBOLSO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fl. 692)
+Nas razões do presente agravo interno, SUL AMÉRICA sustentou a violação dos arts. 757 do CC e 10 e 12 da lei 9.656/98 por entender que não estaria legal e contratualmente obrigada ao custeio do tratamento requerido pela autora porque este não consta nas hipóteses de cobertura do contrato e no rol da ANS (e-STJ, fls. 700/704).
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL DA SUL AMÉRICA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO NÃO PREVISTO NO ROL DA ANS. DEVER DE COBERTURA. ACÓRDÃO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DA TERCEIRA TURMA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto. desde que seja necessário ao tratamento de doença coberta pelo seguro ou plano de saúde.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente agravo interno, SUL AMÉRICA sustentou a violação dos arts. 757 do CC e 10 e 12 da Lei 9.656/98 por entender que não estaria legal e contratualmente obrigada ao custeio do tratamento requerido pela autora em razão deste não consta nas hipóteses de cobertura do contrato e no rol da ANS.
+A este respeito, o TJSP consignou que a SUL AMÉRICA não demonstrou que a doença que acomete a autora não está dentre as hipóteses de cobertura do contrato. Por oportuno, transcreve-se:
+Não se comprovou que o plano do autor exclua o tratamento da doença, razão pela qual não podem ser excluídos todos os procedimentos, exames, materiais e medicamentos necessários à cura, porque necessárias ao restabelecimento do paciente. (e-STJ, fls. 457/458)
+Sendo assim, o TJSP esposou conclusão jurídica consonante com o entendimento adotado pela Terceira Turma, o no sentido de que o rol da ANS é meramente exemplificativo e que o plano de saúde deve custear o tratamento de doença coberta pelo contrato, porquanto as operadoras não podem limitar a terapêutica a ser prescrita ao beneficiário, por profissional habilitado, para garantir sua saúde ou sua vida.
+Cabe, aqui, ressaltar que, em que pese a existência de precedente da eg. Quarta Turma de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta eg. Terceira Turma, em recente julgado, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos.
+A propósito, confira-se a ementa do referido precedente:
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto no rol da ANS encontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 22/6/2020, DJe 26/6/2020 - sem destaques no original)
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PLANO DE SAÚDE. LIMITAÇÃO DE SESSÕES. IMPOSSIBILIDADE. ANS. ROL EXEMPLIFICATIVO. TRATAMENTO MÉDICO. COBERTURA. RECUSA INDEVIDA. DANOS MORAIS. CARACTERIZAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+3. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que são abusivas as cláusulas contratuais que impõem limitações ou restrições aos tratamentos médicos prescritos para doenças cobertas pelos contratos de assistência e seguro de saúde dos contratantes.
+4. Cabe ao profissional habilitado e não ao plano de saúde definir a orientação terapêutica a ser dada ao paciente 5. A Terceira Turma do STJ reafirmou sua jurisprudência no sentido do caráter exemplificativo do rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS) .
+6. Esta Corte Superior firmou entendimento no sentido de que, tendo se caracterizado a recusa indevida de cobertura pelo plano de saúde, deve ser reconhecido o direito à indenização por danos morais, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada.
+7. Agravo interno não provido.
+(AgInt no REsp 1890559/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 3/9/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PLANO DE SAÚDE. AUTOGESTÃO. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. NATUREZA EXEMPLIFICATIVA. COBERTURA DE TRATAMENTO DE DOENÇA COBERTA. RECUSA INDEVIDA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de obrigação de fazer c/c compensação por danos morais, em decorrência de negativa de cobertura de tratamento médico prescrito.
+2. A natureza do rol da ANS é meramente exemplificativa, reputando, no particular, abusiva a recusa de cobertura pela operadora de plano de saúde - mesmo a constituída sob a modalidade de autogestão - de terapia prescrita para o tratamento de doença coberta pelo plano de saúde.
+3. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1949738/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 15/12/2021)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
