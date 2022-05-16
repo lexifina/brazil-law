@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO FEDERAL contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. ATRASO NA ENTREGA DO OBJETO DO CONTRATO. MULTA DE MORA. INSCRIÇÃO EM DÍVIDA ATIVA. INTERPRETAÇÃO DOS ARTS. 86 E 87 DA LEI Nº 8.666/93. EXCLUSÃO DA PENALIDADE DE ADVERTÊNCIA. MANUTENÇÃO DO DEPÓSITO DO MONTANTE INTEGRAL E SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO ATÉ O TRÂNSITO EM JULGADO DA SENTENÇA. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 1.022 do CPC/2015 e do art. 87 da Lei n. 8.666/1993, sustentando, em síntese (fls. 739/755):
+O Processo Administrativo nº 14.135/2013, tem por objeto o inadimplemento da Cláusula Sexta do Contrato n. 006/2013, referente ao atraso na entrega de 60.880 (sessenta mil, oitocentos e oitenta e oito) toalhas de banho. Salienta-se que o objeto do contrato é o fornecimento material de intendência (uso individual) equivalente a 265.000 (duzentas e sessenta e cinco mil) toalhas de banho, no valor de R$ 2.347.520,00 (dois milhões trezentos e quarenta e sete mil quinhentos e vinte reais), cuja vigência foi odia 21 de fevereiro de 2013 a 30 de agosto de 2013.
+ ..
+Compulsando os autos do Processo Administrativo em questão, é possível notar que não houve solicitação para a prorrogação do prazo de entrega. A empresa, em nenhum momento informou qualquer situação enfrentada por ela que pudesse impedi-la de efetuar a entrega do material dentro do prazo estipulado. Por sua vez, a Cláusula Décima Quinta do Contrato nº 006/2013 trata das penalidades para situação de não cumprimento das obrigações, seja ele parcial ou integral, por parte da Contratada.
+ ..
+Restou claro que a autora admite que entregou o material fora do prazo. Logo, os requisitos para a fixação da multa moratória e da advertência estão preenchidos.
+Sem contrarrazões (fl. 801).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 694/700):
+Quanto ao aspecto da legalidade da multa de mora aplicada, devo dizer que o descumprimento pela apelante dos termos legais e contratuais atinente ao atraso na execução do contrato é fato incontroverso. O art. 86 da Lei nº 8.666/93 é claro ao estabelecer sanção administrativa (multa de mora) em caso de atraso injustificado na execução do contrato  ..  Desse modo, considerando que a apelante não cumpriu o prazo para a entrega de parte do objeto contratado, referente ao fornecimento de toalhas de banho para a União (Exército Brasileiro), mostra-se legítima, nos termos legais e contratuais (Cláusula Sexta), a incidência da multa de mora no caso em apreço.
+ ..
+No que tange à insurgência contra a penalidade de advertência aplicada, tenho que assiste razão à apelante. O caso dos autos é de atraso injustificado na entrega de produto contratado (art. 86 da Lei Nº8.666/93). Já no caso da sanção de advertência prevista no art. 87, I, do mesmo diploma legal, não se tem simples descumprimento de prazo avençado, mas, sim, inexecução total ou parcial do contrato.
+São situações distintas.
+A primeira penalidade, trata-se simplesmente de multa moratória por descumprimento do prazo, com a prestação aproveitável para a Administração, que, no caso dos autos, embora com atraso, foi cumprida; a segunda, ao contrário, cuida-se de descumprimento ou inadimplemento contratual, hipótese mais grave que gera sanções de advertência, multa (não moratória), suspensão temporária e declaração de inidoneidade.
+Ademais, se a hipótese dos autos fosse de inexecução contratual (inadimplemento absoluto da obrigação) e não de atraso injustificado na execução do contrato, a multa aplicável seria a de caráter punitivo prevista no art. 87 da Lei nº 8.666/93, e não a multa tipicamente moratória do art. 86.
+Portanto, não é cabível, no particular, a sanção de advertência aplicada à apelante, porque o art. 86 daquela lei ordena à Administração que, em caso de atraso no cumprimento do prazo contratual, sancione, a princípio, o contratado tão somente com multa de mora, salvo em situação grave, em que a Administração pode rescindir unilateralmente o contrato e aplicar outras sanções previstas em lei - art. 86,§ 1º), o que não se observa no presente caso, sendo certo que a aplicação da penalidade de advertência, prevista na Cláusula Quinta contratual, não observou os parâmetros legais estabelecidos para a hipótese de inexecução do contrato, inaplicável ao caso concreto.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 719/720).
+Pois bem.
+Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado. E, no caso, o acórdão recorrido está apoiado em fundamentação adequada para embasar sua conclusão.
+Com relação ao art. 87 da Lei n. 8.666/1993, o conhecimento do recurso encontra óbice nas Súmulas 7 do STJ e 284 do STF.
+De fato, conquanto alegue, a parte recorrente não consegue demonstrar o porquê desse dispositivo legal estar sendo violado pelo acórdão recorrido, na medida em que somente prevê as hipóteses para aplicação de sanções pela inexecução total ou parcial do contrato, ao tempo em que o órgão julgar a quo pontuou tratar-se de mero atraso.
+Nesse contexto, não demonstrada a imposição legal e específica da obrigatoriedade de aplicação conjunta das penalidades, o conhecimento do recurso encontra óbice na Súmula 284 do STF, já que o referido artigo, por si, não tem comando normativo apto a ensejar a alteração do acórdão recorrido.
+Não o bastante, ainda que assim não fosse, eventual conclusão pela necessidade de aplicação da pena de advertência dependeria do exame das regras da licitação, uma vez que o delineamento descrito pelo órgão julgador a quo, por si, não a autoriza; assim, o conhecimento do recurso também encontra óbice na Súmula 7 do STJ.
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
