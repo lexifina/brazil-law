@@ -1,0 +1,9 @@
+DECISÃO
+O paciente alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 1502472-39.2020.8.26.0602, em que foi mantida sua condenação "como incurso nas sanções do artigo 33, "caput", da Lei Federal 11343/06, à pena de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, e ao pagamento de 680 (seiscentos e oitenta) dias-multa" (fl. 122). A sentença condenatória transitou em julgado para ambas as partes em 22/3/2022.
+Assere a defesa que houve cerceamento de defesa, dado que foi negado ao patrono realizar sustentação oral no julgamento do recurso de apelação.
+Além disso, aponta que "os dois policiais civis que cumpriram o r. mandado de busca e apreensão, basearam- se na única porção de crack (3,15 g) localizada em poder do acusado, bem como apenas dois prints de mensagens encontradas no celular do mesmo, sendo estas as duas únicas provas de materialidade com que o MP almeja uma sentença condenatória do Paciente, imputando-lhe a pena do art. 33 da Lei de Drogas" (fl. 7).
+De plano, verifico que a inicial do mandamus não veio acompanhada de cópia da sentença condenatória, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
