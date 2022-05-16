@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que conheceu de agravo para não conhecer de recurso especial interposto com fundamento no art. 105, III, a,da Constituição Federal.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+O Acórdão guerreado pelo Recurso Especial da Investco, por seu turno, rejeitou a possibilidade de mitigação da regra de que a avaliação do imóvel deve adotar parâmetros contemporâneos à data da perícia, a qual, segundo o entendimento da Corte a quo, deve ser mantida mesmo diante de casos excepcionais(essa, portanto, é a questão nevrálgica posta sub judice-e não o momento da desapropriação, que é incontroverso).
+ ..
+É evidente que verba indenizatória aferida nesses termos violaria a lógica do artigo 26 do Decreto-Lei nº 3.365/41e 884do CC/02,ensejando inegável enriquecimento sem causa do expropriado, exatamente como acertadamente já havia consignado o M. M. Juízo de primeiro grau na brilhante decisão que, equivocadamente, foi reformada pelo Acórdão objeto da irresignação especial da Investco.
+Ora, repita-se, Exas.: a questão (de direito) nodal que justificou a interposição do Recurso Especial da Investco consiste no posicionamento do Egrégio Tribunal de Justiça Tocantinense de que a regra da contemporaneidade da avaliação não é passível de mitigação-entendimento esse que, como amplamente demonstrado pela Investco em seu Recurso Especial e como, inclusive, reconhecido pelo Ilmo. Relator, está equivocado, assim justificando a reforma do Acórdão guerreado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA.PREDICADODA CONTEMPORANEIDADE DA INDENIZAÇÃO.MOMENTODAAVALIAÇÃO JUDICIAL DO PERITO. JUSTAINDENIZAÇÃO.SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão integrativa proferida nos autos de ação de desapropriação indireta, c/c perdas e danos ajuizada em desfavor daINVESTCO S.A., que deferiu opedido de perícia complementar do imóvel desapropriado de acordo com o valor de mercado na época da desapropriação. No Tribunala quo, o agravo de instrumento foi provido para determinar que ovalor da indenização, na desapropriação indireta,será contemporâneo à data da avaliação judicial, sendo irrelevante, a data em que ocorreu a imissão na posse, esbulho ou mesmo aquela em que se deu a vistoria do expropriante. Na sequência, o recurso especial interposto pela INVESTCO S.A. foi inadmitido na origem. Nesta Corte, em decisão monocrática, conheceu-se do agravo para não conhecer do recurso especial.
+II - Conforme esclarecido na decisão agravada, o aresto recorrido encontra-se em consonância com a jurisprudência desta Corte Superiorno sentido de que o predicado da contemporaneidade da indenização por desapropriação deve observar o momento da avaliação judicial do perito, sendo desimportante a data da avaliação administrativa, do decreto de utilidade pública ou da imissão na posse.
+III - Ademais, descabe a pretendida discussão acerca da verba indenizatória apurada por meio de laudo pericial produzido em juízo, em razão da incidência da Súmula n. 7/STJ. Nesse sentido, alterar o entendimento firmado pelo Tribunal a quo, acolhendo a tese do agravante, de que o caso se trata de excepcionalidade à regra dacontemporaneidade, demanda o reexame do arcabouço fático-probatório dos autos.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos suficientemente analisados como incapazes de, por um lado, amparar a pretensão de admissibilidade recursal deduzida, e, por outro, infirmar os fundamentos que embasaram a decisão recorrida, o que faz subsistir o entendimento nela externado.
+Conforme esclarecido na decisão agravada, oaresto recorrido encontra-se em consonância com a jurisprudência desta Corte Superior no sentido de que o predicadoda contemporaneidade da indenização por desapropriaçãodeve observar o momentodaavaliação judicial do perito, sendo desimportante a datadaavaliação administrativa, do decreto de utilidade pública oudaimissão na posse.
+Ademais, descabe a pretendida discussão acerca da verba indenizatória apuradapormeio de laudo pericial produzido em juízo,em razãodaincidênciadaSúmula n. 7/STJ. Nesse sentido, alterar o entendimento firmado pelo Tribunal a quo, acolhendo a tese do agravante,de que o caso se trata de excepcionalidade à regra dacontemporaneidade, demanda o reexame do arcabouço fático-probatório dos autos.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
