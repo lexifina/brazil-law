@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto porIBG - INDÚSTRIA BRASILEIRA DE GASES LTDA. contra decisão que não admitiu recurso especial. O apelo nobre, fundamentado nas alíneas "a" e "c"do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"AÇÃO ORDINÁRIA. Alegada formação de cartel no fornecimento de gases industriais. Determinação de exibição de documentos para a realização de prova pericial. Necessidade. Documentos que se mostram essenciais para a apuração dos fatos e o deslinde da questão. Apresentação em mãos ao perito. Confidencialidade preservada. Decisão mantida. RECURSO NÃO PROVIDO"(e-STJ fl. 338).
+Nas razões do especial (e-STJ fls. 362-404), arecorrente alega que o acórdão recorrido violou osartigos 398, I e III, 399, III e1.022, II, do CPC/2015, 198 do CTN, ao manter a decisão que deferiu a exibição dos documentos.
+Isto porque, não há razão para a recorrente ser obrigada a exibir documentos que não existem e queatacariam diretamente todo o seu planejamento estratégico, além deexpor negativamente o seu sigilo fiscal e o sigilo fiscal dos seus clientes.
+Apresentadas ascontrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece ser acolhida.
+Primeiramente, quanto ao artigo 1.022 do CPC/2015, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/10/2016, DJe 13/10/2016 - grifou-se).
+Ademais, o tribunal de origem manteve a decisão que determinou a exibição de documentos para a realização de prova pericial,com base nos seguintes fundamentos:
+"Cuida-se de ação de rito ordinário ajuizada pelas agravadas quepretendem seja reconhecida a formação de cartel entre as rés no fornecimento de gás industrial, condenando-as ao pagamento dos prejuízos sofridos, ressarcindo os valores pagos pelo sobrepreço praticado, além dos lucros cessantes a serem oportunamente apurados.
+Para tanto, protestaram pela produção de prova pericial econômica "das demonstrações financeiras das Rés no período de relação comercial entre as partes, para demonstrar as artificiais fixações de preço e divisão de mercadorealizada pelas Rés", bem como pleitearam a intimação das rés para fornecerem "documentos que indiquem (a) os clientes atendidos por cada uma delas no mercado de gases industriais durante a relação contratual firmada entre Autoras e Rés, (b) a dispersão geográfica no território nacional de tais clientes e (c) os preçoscobrados de cada cliente ao longo do período"(fls. 4.226/4.227).
+Nessa linha de raciocínio, considerando que o ponto controvertido principal é a existência ou não de formação de cartel entre as rés, evidente que a prova pericial econômica requerida pela autora encontra pertinência para o deslinde da questão e os documentos consubstanciam elementos essenciais para o esclarecimento dos fatos, na forma deferida pela decisão guerreada.
+Não se trata de obrigar as rés à apresentação de documento inexistente ou, como alegado nas razões recursais, de produzir um "relatório"com preços e disposições geográficas de seus clientes, mas de exibição de documentos que comprovem os fatos mencionados.
+É certo, ademais, que os documentos solicitados somente podem ser apresentados pelas rés, pois dizem respeito ao faturamento, aos preços atribuídos, aos seus clientes e às práticas comerciais empregadas, tanto que apresentam forte resistência em sua exibição.
+Claro, pois, que não se cuida de transferência do ônus da prova como alegado pela agravante, mas da apresentação de documentos que se encontram somente em poder das rés, e que se mostram essenciais para o deslinde da questão.
+Nem se alegue dano ao sigilo fiscal e comercial das rés pois, de acordo com o determinado na decisão agravada, os documentos deverão serntregues diretamente ao expert nomeado, preservando a confidencialidade do seu conteúdo e evitando que as apontadas concorrentes a eles tenham acesso(e-STJ fls. 339-341 - grifou-se).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado daSúmulanº7/STJ.
+Registre-se que a jurisprudência do Superior T ribunal de Justiça entende que a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
