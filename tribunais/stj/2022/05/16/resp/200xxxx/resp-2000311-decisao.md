@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela Estado de Mato Grosso, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 186):
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA QUE EM SEDE DE APELO JULGOU PROCEDENTE A AÇÃO DE COBRANÇA - DEFASAGEM SALARIAL PROVENIENTE DA CONVERSÃO DA MOEDA DE CRUZEIRO REAL PARA URV - INSURGÊNCIA RECURSAL EXCLUSIVAMENTE SOBRE A PRESCRIÇÃO DO FUNDO DE DIREITO - NÃO OCORRÊNCIA - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A pretensão de recebimento de diferenças de remuneração oriundas da conversão do Cruzeiro Real em URV, envolve prestação de trato sucessivo, razão pela qual a prescrição não atinge o fundo de direito, mas apenas as parcelas anteriores ao quinquênio que antecedeu o ajuizamento da demanda, nos termos da Súmula 85/STJ.
+Assim, não há que falar em reforma da decisão agravada.
+Embargos de Declaração rejeitados.
+Nas razões do Recurso Especial, o recorrente aponta, além de divergência jurisprudencial, violação dos artigos 189do Código Civil de 2002 e 1º do Decreto 20.910/32, alegando, em síntese, que sendo "o termo final para a percepção de qualquer vantagem decorrente da conversão da URV é a reestruturação remuneratória da carreira, a ocorrência da reestruturação financeira fulmina a pretensão autoral, nos cinco anos subsequentes à reestruturação." (fl. 248). Acrescenta que "Tendo sido ultrapassado o lapso temporal de 5 (cinco) anos da reestruturação de carreira dos servidores públicos, foi fulminada a pretensão do direito do servidor público a pleitear a conversão da URV  .. Portanto, como a decisão do Egrégio Tribunal de Justiça de Mato Grosso aplicou inadvertidamente a Súmula nº 85 do STJ"(fl. 249).
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 265-269.
+Interposição do agravo previsto no artigo 1.042 do CPC/2015, às fls. 271-279, e sua conversão em recurso especial à fl. 293.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Na hipótese, oTribunal de origem dirimiu a controvérsia ao assentar que, inobstante a alegação do Estado de que o índice já havia sido aplicado, "não há como aferir se houve reestruturação de carreira e se esta supriu, por completo, eventual defasagemapta a suprir efetivamente eventuais perdas salariais, conforme o excerto a seguir:
+ ..
+"In casu, o magistrado considerou a edição de leis que implementaram a reestruturação das carreiras do funcionalismo público, inclusive em relação ao cargo exercido pela parte autora, instituindo um novo regime jurídico remuneratório e com isso não houve perdas.
+Pois bem.
+Entendo não ser suficiente para extinguir a ação e declarar que o servidor não faz jus de incorporar à sua remuneração o montante sobrevindo da defasagem em razão da conversão da moeda, somente com supedâneo em lei que trata da reestruturação da carreira dos servidores públicos.
+Isso porque é entendimento consolidado nos Tribunais que os reajustes supervenientes não corrigem eventual equívoco advindo da conversão da moeda em URV, e, de forma alguma, servem como compensação, porque se trata de parcelas de natureza jurídica diversa.
+Desse modo, a reestruturação da carreira da parte apelante não tem o condão de afastar o seu direito, uma vez que não há como aferir se houve aefetiva reestruturação da carreira e se esta supriu, por completo, eventual defasagem, porquanto tal circunstância demanda cálculo a ser apurado na liquidação da sentença.
+ ..
+Cumpre assinalar que, a incorporação de eventual índice a ser apurado na liquidação da sentença não é aumento salarial, mas recomposição, pela possível perda do salário, quando da conversão da moeda, conforme decidiu o Supremo Tribunal Federal, quando do julgamento do RE 561836:
+ ..
+Dessa feita, somente com a liquidação da sentença, por arbitramento, é que será esclarecido se houve realmente a reestruturação da carreira do apelante, se esta supriu por completo eventual defasagem remuneratória, e, em caso de se constatar a defasagem, qual o percentual devido, nos moldes da Lei n o 8.880/94.
+Nesse contexto, faz-se necessária a liquidação de sentença para se apurar se as leis que reestruturaram a carreira da parte recorrente absorveram a recomposição do percentual atinente à errônea conversão da moeda do cruzeiro real para URV."(fls. 158-161).
+Por sua vez, ao julgar o agravo regimental, acrescentou que:
+ ..
+"É sabido que nestes casos a prescrição não atinge o próprio fundo de direito, mas tão somente as parcelas vencidas há mais de cinco anos da propositura da ação, nos termos da Súmula 85/STJ.
+Assim, não há que falar em prescrição do fundo de direito. Isso porque, a pretensão do servidor em relação à Fazenda Pública tem natureza jurídica de trato sucessivo, que se renova periodicamente.
+ ..
+Nesse contexto, o entendimento esboçado acima se encaixa perfeitamente ao caso sub judice, na medida em que a remuneração do servidor é devida mensalmente, ou seja, a violação do direito ocorre de forma contínua, renovando-se periodicamente o prazo prescricional." (fls. 189-190).
+Contudo, não foi devidamente impugnado, nas razões do apelo especial, o fundamento de que não há como aferir se houve reestruturação de carreira e se esta supriu, por completo, eventual defasagem apta a suprir efetivamente eventuais perdas salariais, incidindo, na espécie, o óbice da Súmula 283 do STF, ante à ausência de impugnação de fundamento autônomo. A propósito, nesse sentido: EDcl no AgInt no REsp 1.702.816/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2019; AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019.
+Verifica-se, ainda, que o Tribunal a quo, alicerçada no conjunto fático-probatório dos autos, concluiuque não há como aferir se houve reestruturação de carreira e se esta supriu ou não, por completo, eventual defasagem salarialapta a suprir efetivamente eventuais perdas salariais, de forma quedecidir em sentido contrário demandaria, necessariamente,o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Sumula7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. CONVERSÃO. COMPROVAÇÃO DE REESTRUTURAÇÃO DA CARREIRA. SÚMULA 7/STJ. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES.
+1. Cuida-se na origem de ação de cobrança proposta por servidor público, objetivando a incorporação do percentual de 11,98% à sua remuneração, em decorrência de suposta perda ocorrida quando da conversão do cruzeiro real para URV.
+2. Para aferir se restou ou não comprovada reestruturação de carreira apta a compensar a referida defasagem salarial, demanda revolvimento de matéria fático-probatória dos autos. Incide, na espécie, o teor da Súmula 7/STJ. Precedentes.
+3. No mais, consoante jurisprudência desta Corte, não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação (Súmula 85/STJ). Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.919.068/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. EMBARGOS PROTELATÓRIOS. PRÁTICA ABUSIVA. SERVIDOR PÚBLICO ESTADUAL.REAJUSTE DE VENCIMENTOS. CONVERSÃO DA MOEDA. URV. PRESCRIÇÃO.PARCELAS DE TRATO SUCESSIVO. SÚMULA 85/STJ. PERDA SALARIAL.REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+3. A Corte estadual, alicerçada na prova dos autos, assegura que houve perda salarial na conversão em URV das remunerações dos servidores em questão, decidir em sentido contrário demanda o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos do verbete sumular n. 7 desta Egrégia Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 870.538/PR, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 12/12/2017, DJe 19/12/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. URV.REESTRUTURAÇÃO DA CARREIRA. LIMITAÇÃO. PRESCRIÇÃO. PRAZO PRESCRICIONAL. TERMO FINAL DO PAGAMENTO. SÚMULAS 7/STJ E 280/STF.APURAÇÃO DA DEFASAGEM REMUNERATÓRIA. LIQUIDAÇÃO DE SENTENÇA.
+ ..
+3. Contudo, o exame da controvérsia acerca do prazo prescricional e do termo final do pagamento, tal como enfrentada pelas instâncias ordinárias, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como exame de legislação local, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 7/STJ e 280/STF.4. No mais, "somente em liquidação de sentença há de se apurar a efetiva defasagem remuneratória devida aos servidores públicos decorrente do método de conversão aplicado pelo Município em confronto com a legislação federal, de modo a evitar eventual pagamento em duplicidade e o enriquecimento sem causa" (AgRg nos EDcl no REsp 1.237.530/SP, Rel. Ministro Cesar Asfor Rocha, Segunda Turma, julgado em 29/05/2012, DJe 13/06/2012 )
+5. Agravo interno não provido. (AgInt no AREsp 1.318.602/MT, Rel. Min. Sérgio Kudina, Primeira Turma, DJe 09/10/2018)
+Por outro lado, conforme sustentado pelainstância de origem, é pacífico o entendimento no Superior Tribunal de Justiça de que não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula n. 85 desta Corte.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL.CONVERSÃO DA MOEDA EM UNIDADE REAL DE VALOR (URV). LEI 8.880/1994.PRESCRIÇÃO DO DIREITO DE AÇÃO. NÃO OCORRÊNCIA. SÚMULA 85/STJ.APURAÇÃO DA EFETIVA DEFASAGEM REMUNERATÓRIA EM LIQUIDAÇÃO DE SENTENÇA. PRECEDENTES DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Na origem, trata-se de demanda objetivando o direito da parte ora recorrida de receber diferenças remuneratórias em decorrência da conversão de seus vencimentos em URV (Unidade Real de Valor), na forma da Lei 8.880/94.
+2. Em relação ao art. 1º do Decreto 20.910/1932, a jurisprudência desta Corte firmou- se no sentido de que não se opera a prescrição do direito de ação nos casos em que se busca o pagamento de diferenças remuneratórias decorrentes da omissão da Administração em converter corretamente cruzeiros reais em URV, mas tão somente das parcelas anteriores ao quinquênio que precedeu a propositura da ação, porquanto está caracterizada a relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula 85 desta Corte.
+ ..
+6. Recurso Especial não provido.
+(REsp 1.773.755/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 08/03/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.  .. .CONVERSÃO DE VENCIMENTOS EM URV. APLICAÇÃO DA LEI FEDERAL Nº 8.880/94. DATA DO EFETIVO PAGAMENTO. COMPENSAÇÃO COM OUTROS REAJUSTES.  .. .AUSÊNCIA DE COMPROVAÇÃO DA CORRETA APLICAÇÃO DA LEI N. 8.880/94.REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+ ..
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula n. 85 desta Corte.
+ ..
+V - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1.631.856/RJ, Rel. Ministra Regina Helena Costa, PrimeiraTurma, DJe 15/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE VENCIMENTOS. URV. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. DISSÍDIO NÃO COMPROVADO.
+ ..
+2. No caso, em que pese o esforço expendido pelo embargante, constata-se que os requisitos indispensáveis para o processamento e conhecimento dos embargos de divergência não foram atendidos. Isso porque não se procedeu ao cotejo analítico entre os acórdãos confrontados. No mesmo sentido: Edv nos EREsp n. 1.749.457/MT, Rel. Min. Sérgio Kukina, DJe: 7/3/2019.
+3. Mesmo que assim não fosse, o acórdão recorrido julgou a questão ao fundamento de que "nas ações que tratam de diferenças salariais decorrentes da conversão em URV, não ocorre a prescrição do próprio fundo de direito, mas apenas das parcelas anteriores ao quinquênio que precedeu o ajuizamento da demanda, conforme preconizado no enunciado 85 da Súmula do STJ". Por sua vez, o aresto colacionado como paradigma da Primeira Turma (AgIn no AREsp n. 1.181.776/SP) analisou o referido tema na conclusão de que teria ocorrido a reestruturação da carreira, marco que deveria ser considerado para fins de contagem da prescrição. Dessa forma, não há similitude fático-jurídica entre os acórdãos confrontados sobre a mesma questão federal.
+4. Agravo interno não provido.
+(AgInt nos EREsp 1.749.451/MT, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 05/09/2019)
+Por último, a análise do dissídio jurisprudencial pela alínea "c" do permissivo constitucional fica prejudicada em razão da aplicação das Súmulas 7 e 85 do STJ, uma vez que a comprovação do alegado dissídio exigiria reexame dos aspectos concretos de cada julgamento, providência obstada, no âmbito do Recurso Especial.
+Ante o exposto, não conheço do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. CONVERSÃO. COMPROVAÇÃO DE REESTRUTURAÇÃO DA CARREIRA. DEFASAGEM SALARIAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283 DO STF. COMPROVAÇÃO DAS PERDAS SALARIAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. DISSÍDIO PREJUDICADO. RECURSO NÃO CONHECIDO.
