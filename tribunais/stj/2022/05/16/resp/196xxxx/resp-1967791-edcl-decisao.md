@@ -1,0 +1,33 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança impetrado por Veneza Comercio de Combustiveis Ltda. e outros contra oDelegado da Receita Federal emCascavel/PR.
+Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida, nos termos assim ementados (fl. 238):
+PIS E COFINS. TRIBUTAÇÃO MONOFÁSICA. DIREITO A CREDITAMENTO EM OPERAÇÕES SUJEITAS A ALÍQUOTA ZERO. REGIME DA NÃO-CUMULATIVIDADE. ART. 3º, § 2º, DAS LEIS Nº 10.637/02 E 10.833/03. ART. 17 DA LEI Nº 11.033/2004.
+1. Ancidência monofásica do PIS e da COFINS não se compatibiliza com a técnica do creditamento. Precedentes de ambas as Turmas Tributárias desta Corte e da Segunda Turma do STJ.
+2. Nos termos da jurisprudência do STJ, embora o disposto no art. 17 da Lei 11.033/2004 não tenha aplicação restrita ao Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - REPORTO, a incompatibilidade entre a apuração de crédito e a tributação monofásica já constitui fundamento suficiente para o indeferimento da pretensão do recorrente.
+No recurso especial, Veneza Comercio de Combustiveis Ltda.alega violação do art. 17 da Lei 11.033/2014 e 2º, da LINDB, sustentando, em resumo, que a manutenção dos créditos de PIS e COFINS prevista no referido art. 17 aplica-se a todas as pessoas jurídicas, independentemente de elas estarem ou não submetidas ao regime tributário do reporto.
+A decisão monocrática tem o seguinte dispositivo:
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, coma devida baixa nesta Corte, para que, após a publicação do acórdão do respectivo recurso especial representativo da controvérsia, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015: a) na hipótese de a decisão recorrida coincidir com a orientação do Superior Tribunal de Justiça, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação do Superior Tribunal de Justiça, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+Opostos embargos de declaração, aponta a parte embargante contradição, conforme o seguinte trecho da petição (fl. 442):
+Resta evidente, assim, a obscuridade do decisum embargado, pois apesar de as Embargantes se valerem de fundamentos diversos daqueles reconhecidos como controversos no Tema Repetitivo n. 1.093 do STJ, determinou a devolução dos autos ao tribunal de origem, com a de vida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos Recursos Especiais vinculados ao referido Tema.
+Intimada, a parte embargada não se manifestou.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Conforme ficou consignado na decisão embargada (fl. 434):
+Verifico que a matéria tratada nos autos amolda-se àquela afetada ao rito de recursos repetitivos pela Primeira Seção do STJ - Tema 1.093, nos autos do Recursos Especiais 1.894.741/RS e 1.895.255 /RS, rel. Ministro MAURO CAMPBELL MARQUES, em que se discute: "a) se o benefício instituído no art. 17 da Lei n. 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17 da Lei n. 11.033/2004 permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento".
+Diante disso, torna-se impositiva a suspensão dos feitos pendentes que tratem da mesma matéria, nos termos do art. 1.036 do CPC/2015.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
