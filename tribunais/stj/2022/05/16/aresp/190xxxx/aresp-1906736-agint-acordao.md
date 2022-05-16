@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que conheceu de agravo, para não conhecer de recurso especial manejado com fundamento no art. 105, III, a, da Constituição Federal.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Importante destacar que as razões recursais tecidas no recurso especial foram claras ao apontar a existência de omissão no acórdão recorrido, razão pela qual tal entendimento não merece prosperar.
+Nesse viés, conforme demonstrado nas razões tecidas na peça de recurso especial, os i. Julgadores foram omissos na apreciação da causa, incorrendo diante da deficiência de fundamentação e consequente omissão no julgamento da lide por parte do Tribunal de Origem, que desconsiderou questão essencial ao deslinde da controvérsia, qual seja, o fato de que a recorrente faz jus a incorporação de gratificações aos seus proventos, referentes ao exercício de funções de Responsável pelo Expediente desde 1991 a 2011, eis que atendidos os requisitos exigidos para tal finalidade na legislação vigente a época, quais sejam, Leis 530/82, 2565/1996 e 3185/1999.
+
+No caso em apreço, a recorrente efetivamente cumpriu os requisitos da lei,de maneira que exerceu cargo de confiança de 14.03.1991 a 09.05.2011, sendocorreto afirmar que cumpriu os requisitos do art. 2º da Lei Estadual 2565/96 para fins de percebimento da incorporação proporcional ao período aquisitivo de 8 (oito) anos consecutivos.
+
+Isto é, o servidor público deveria cumprir 8 (anos) consecutivos ou 12 (doze) anos intercalados até a edição da Lei Estadual 3185/1999.
+Esse é justamente o caso da recorrente, já que exerceu cargo de confiança durante o mês de março de 1996 e perdurou até maio de 2011, ou seja, até 02/04/1999 (data da edição da Lei 3185) a recorrente contava com 8 anos consecutivos de exercício em cargo de confiança.
+ ..
+Em síntese, a imposição da regra de transição do art. 2º da Lei 2565/1996 é de que fosse cumprido 1 (um) ano para que o servidor se utiliza dela, para então contar com a incorporação proporcional após o cumprimento de 8 (oito) anos consecutivos ou 12 (doze) anos intercalados, ainda que cumpridos posteriormente a 1996. Claro que com a edição da Lei 3185/1999 o cumprimento desse interstício se limitou até abril de 1999 (data da sua edição), haja vista a revogação da Lei 2565/1996.
+Assim, a interpretação dada no acórdão recorrido acerca da regra de transição do art. 2º da Lei Estadual 2565/1996 e os fatos dos autos se mostra omissa aos fundamentos trazidos em sede de apelação, haja vista que a recorrente cumpriu a regra de transição de tal diploma legal no sentido de ter exercido há mais de 1 (um) ano em 1996 (contava com 5 anos de exercício do cargo em comissão), e contou com 8 (oito) anos consecutivos de atividade antes da superveniência da Lei 3.185/1999 (momento em que fora revogada a Lei 2565/1996).
+Por fim, frise-se que este e. TJRJ, afastou a aplicação do disposto no art. 40, §2º da CF/88 aos casos de incorporação de gratificação, no julgamento dos embargos de declaração em Ação Direta de Inconstitucionalidade nº 0059258-82.2013.8.19.0000, publicado no DJe em 01/02/2017
+
+À vista do exposto, tem-se que tanto o acórdão da apelação, quanto o acórdão dos aclaratórios, incorreram em flagrante omissão, impondo-se, assim, a anulação da referida decisão, a fim de que as questões essenciais ao deslinde do feito sejam examinadas pelo tribunal a quo.
+
+Nesse viés, a não incorporação das gratificações aos proventos da recorrente viola o seu direito adquirido, pois a recorrente atendeu todos os requisitos para tanto, nos termos da legislação vigente a época.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. INCORPORAÇÃO DE FUNÇÃO GRATIFICADA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária proposta por servidora pública contra o Estado do Rio de Janeiro, objetivando a incorporaçãode valores correspondentes àgratificaçãorelativaaexercício defunção.Na sentença, o pedido foi julgado improcedente. No Tribunala quo, a sentença foi mantida e, na sequência, o recurso especial interposto inadmitido.Nesta Corte, em decisão monocrática, conheceu-se de agravo para não conhecer dorecurso especial manejado com fundamento no art. 105, III, a, da Constituição Federal.
+II- Conforme esclarecido na decisão agravada, o Tribunal a quo, com lastro no conjunto probatório constante dos autos, manteve inalterada a sentença que julgou improcedente a pretensão inicial formulada pela ora agravante, considerando a não comprovação do preenchimento dos requisitos legais aptos a autorizar a incorporação, como direito ou vantagem pessoal, de valores correspondentes ao exercício do cargo de responsável pelo expediente.
+III- Nesse sentido, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração, essencialmente, os fatos e provas relacionados à matéria. Nesse panorama, eventual debate acerca das pretensões recursais demandaria incursão na seara probatória, sobretudo fática, esbarrando no óbice da Súmula n. 7/STJ.
+IV - Com efeito, não se vislumbra pertinência na alegação de negativa de prestação jurisdicional, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de pronunciamento judicial contrário aos seus interesses.
+V- Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos suficientemente analisados como incapazes de, por um lado, amparar a pretensão de admissibilidade recursal deduzida, e, por outro, infirmar os fundamentos que embasaram a decisão recorrida, o que faz subsistir o entendimento nela externado.
+Conforme esclarecido na decisão agravada, o Tribunal a quo, com lastro no conjunto probatório constante dos autos, manteve inalterada a sentença que julgou improcedente apretensão inicial formulada pelaora agravante, considerando anão comprovação do preenchimento dos requisitos legais aptos a autorizara incorporação, como direito ou vantagem pessoal, de valores correspondentes ao exercício do cargo de responsável pelo expediente.
+Nesse sentido, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração, essencialmente, os fatos e provas relacionados à matéria. Nesse panorama, eventual debate acerca das pretensões recursais demandaria incursão na seara probatória, sobretudo fática, esbarrando no óbice da Súmula n. 7/STJ.
+Com efeito, não se vislumbra pertinência na alegação de negativa de prestação jurisdicional, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de pronunciamento judicial contrário aos seus interesses.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
