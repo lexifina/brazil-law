@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 7/STJ.
+O agravante alega que o recurso especial interposto não buscou o reexame das provas produzidas nos autos, mas sim a valoração das mesmas.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. COMPROVAÇÃO DE ATIVIDADE ESPECIAL E CONVERSÃO EM TEMPO COMUM. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Incide a Súmula 7/STJ sempre que a solução a ser dada pelo Superior Tribunal de Justiça demandar o reexame de fatos e provas. É o caso dos autos.
+3. Agravo interno nãoprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravointernonão se vislumbram razões para reformar a decisão agravada.
+Na espécie, como apontado na monocrática agravada o acórdão recorrido com lastro noconjunto fático e probatório dos autos, assim se manifestou (fls. 376-377, e-STJ):
+" .. a sentença recorrida condenou a autarquia previdenciária a reconhecer o exercício da atividade especial nos períodos de 17/03/2003 a 26/01/2005 e de 27/01/2005 a 05/10/2012, sendo que na petição inicial houve pedido expresso de reconhecimento da atividade especial no período de 27/01/2005 a 05/10/2012 e a concessão da aposentadoria por tempo de serviço.
+Ressalte-se que a jurisprudência consolidou-se no sentido de que ao Tribunal compete reduzir a sentença aos limites do pedido, nos casos de decisão "ultra petita", ou seja, aquela que encerra julgamento em desobediência ao disposto nos artigos 141 e 492, caput, ambos do novo Código de Processo Civil.
+ ..
+Todavia, não é possível o reconhecimento da atividade urbana comum no período de 01/09/1971 a 30/06/1972, junto à Usina Santa Helena S/A Açúcar e Álcool, uma vez que não consta na CTPS a data de término do vínculo empregatício, bem assim no período de 05/06/1983 a 06/05/1986, junto à Romeu Horta, tendo em vista que a anotação da CTPS contém rasura na data de entrada, sem outro documento comprobatório do exercício da atividade neste período (Id 90494106, páginas 13/14 e Id 90494107, páginas 57/58).
+Por outro lado, é firme a jurisprudência no sentido de que a legislação aplicável para a caracterização do denominado trabalho em regime especial é a vigente no período em que a atividade a ser considerada foi efetivamente exercida.
+ ..
+No presente caso, a parte autora faz jus ao recebimento de aposentadoria por tempo de contribuição, benefício disciplinado pelo artigo 201, § 7º, da Constituição Federal e artigos 52 e seguintes da Lei nº 8.213/91, tendo em vista o preenchimento dos requisitos após a Emenda Constitucional nº 20/98.
+Com efeito, computando-se a atividade especial nos períodos de 17/03/2003 a 26/01/2005 e de 27/01/2005 a 05/10/2012, com o tempo de serviço comum (Id 90494106, páginas 12/22 e Id 90494107, páginas 56/74), o somatório do tempo de serviço da parte autora, nadata da publicação da EC 20/98, é inferior a 30 (trinta) anos, de maneira que é aplicável ao caso dos autos a regra de transição prevista no artigo 9º da referida Emenda Constitucional, pois a parte autora não possuía direito adquirido ao benefício de aposentadoria por tempo de serviço na data da sua publicação, em 16/12/1998.
+De outra parte, computando-se o tempo de serviço posterior a 15/12/1998, devidamente registrado em CTPS, verifica-se que a parte autora alcançava 30 (trinta) anos, 11 (onze) meses e 21 (vinte e um) dias, na data do requerimento administrativo, de maneira que, à época, a parte autora não tinha cumprido o tempo de serviço necessário para a concessão da aposentadoria proporcional por tempo de serviço exigido pela Emenda Constitucional nº 20/98, não fazendo jus à concessão do benefício.
+Contudo, considerando que o último vínculo empregatício anotado na CTPS da parte autora está em aberto, foi realizada consulta ao Cadastro Nacional de Informações Sociais - CNIS, em terminal instalado no gabinete desta Relatora, o que revelou a continuidade do referido contrato de trabalho posteriormente ao ajuizamento da presente demanda.
+Assim, computado mencionado registro, a parte autora implementou o tempo de serviço de 35 (trinta e cinco) anos, em 05/08/2016, o que autoriza a concessão da aposentadoria integral por tempo de contribuição desde então, devendo ser observado o disposto nos artigos 53, inciso II, 28 e 29 da Lei nº 8.213/91 (fls. 277/284) - grifos mantidos.
+Nesse contexto,analisar o caso apresentado para manifestação desse Superior Tribunal de Justiça envolveria solução que demandaria reanálise do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+No caso dos autos, deveria a parte terdemonstrando a desnecessidade de revolvimento do conjunto fático-probatório, seja porque a questão é meramente de interpretação jurídica - e aí deve comprovar tal circunstância, não apenas alegá-la -, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido - e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto. Tais providências, contudo, não foram observadas no presente caso.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
