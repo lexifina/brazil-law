@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fls. 413/415):
+Recurso. Apelação interposta pelo INSS. Ausência de recolhimento das despesas do porte de remessa e de retorno. Hipótese de deserção. Inteligência do art. 2% parágrafo único, inciso II, da Lei Estadual n. 11.608103. Não conhecimento.
+Reexame necessário conhecido.
+Sentença ilíquida proferida contra o INSS.
+Súmula nº 423, do Supremo Tribunal Federal e Súmula nº 490, do Superior Tribunal de Justiça. Inteligência do art. 475, I do Código de Processo Civil.
+Apelação interposta pela autora conhecida. Presentes os requisitos legais.
+Acidentária. Auxiliar de Operações Júnior. Síndrome do Túnel dó Carpo bilateral. Laudo que constata a incapacidade parcial e permanente para o trabalho. Nexo de causalidade caracterizado. Direito ao auxílio-acidente.
+Termo inicial: dia seguinte ao da última alta médica administrativa (DCB 01.06.2006  fl. 327), vedada a cumulação com qualquer outro benefício decorrente da mesma moléstia e compensando-se os valores eventualmente pagos em razão da tutela antecipada deferida à fl. 332 e implantada à fl. 372. Inteligência do art. 86, par. 2º, da Lei n. 8.213191.
+Valores atrasados: (i) deverão ser corrigidos monetariamente - a partir do termo inicial pelo IGP-DI, até a conta de liquidação, a partir de quando deverá incidir o IPCA-E, e ainda no que couber, a decisão da ADI 4357 pelo STF; e, (ii) juros de mora são devidos a partir da citação (01.12.2006  fl. 58) de forma englobada entre o termo inicial e a citação, e após de modo decrescente mês a mês, observando-se o Código Civil, art. 406, no percentual de 1%, até a entrada em vigor da Lei 11960/09, art. 5º, que passa a incidir e prevalecer neste caso.
+Honorários advocatícios fixados nos termos do art. 111 do STJ, no percentual de 15%. Manutenção.
+Recurso voluntário da autora improvido.
+Recurso oficial provido em parte.
+Os embargos de declaração (e-STJ, fls. 428/435) foram rejeitados, nos termos da decisão de e-STJ fls. 440/445.
+O recorrente defende, em síntese, a aplicação dos dispositivos da Lei n. 11.960/2009 como índice de correção monetária.
+Admitido o recurso especial na origem (e-STJ, fl. 527), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem decidiu aplicar o índice IGP-DI na correção monetária das parcelas em atraso sob a seguinte fundamentação (e-STJ, fl. 424):
+Em relação aos valores atrasados, consigno que deverão ser corrigidos monetariamente a partir do termo inicial pelo IGP-DI, até a conta de liquidação, a partir de quando deverá incidir o IPCA-E, e ainda no que couber, a decisão da ADI 4357 pelo STF.
+Dessa forma, nota-se que a assertiva do acórdão recorrido não foi devidamente refutada pelo interessado, nas razões do especial, o que, por si só, mantém incólume o acórdão combatido.
+A não impugnação específica de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA AFRONTA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. UTILIZAÇÃO DE ARGUMENTOS GENÉRICOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. AUSÊNCIA DE INTERESSE RECURSAL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULA 5/STJ. ART. 24 DA LINDB. INAPLICABILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DOSIMETRIA. REVISÃO DAS SANÇÕES. POSSIBILIDADE EM SITUAÇÕES EXCEPCIONAIS.
+1. Nos termos de longeva orientação jurisprudencial desta Corte, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, não há falar em omissão no acórdão, não se devendo confundir fundamentação sucinta com a sua ausência (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+2. É deficiente de argumentação o apelo nobre que aponta contrariedade aos arts. 130, 131, 331, § 1º, e 515, §§ 1º e 2º, do CPC/1973 c/c o art. 265 do Código Civil sem, contudo, impugnar de forma clara, precisa e congruente o fundamento contido no acórdão recorrido, no sentido de que a destinação dos valores pagos pelo Banco privado ao Município de Petrópolis/RJ, como contrapartida à celebração do contrato impugnado, foi totalmente desinfluente para o deslinde da controvérsia. Incidência das Súmulas 283 e 284/STF.
+Outrossim, uma vez que a condenação da parte agravante se deu por fundamento diverso, carece ela, no ponto, de interesse recursal.
+3. A revisão do entendimento firmado pelo Tribunal de origem quanto à natureza jurídica do negócio celebrado entre a Municipalidade e a instituição bancária - no sentido de que não se trataria de mero convênio, mas de verdadeiro contrato que, como tal, estaria sujeito às regras da Lei 8.666/1993 - esbarra na vedação contida na Súmula 5/STJ. Nesse sentido: REsp 1.260.299/AL, Rel. p/ Acórdão Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 19/11/2014; AgRg no Ag 277.195/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA TURMA, DJU de 8/5/2000.
+4. A partir da premissa fixada pelo Tribunal de origem acerca da natureza jurídica da avença celebrada entre os corréus (contrato, e não convênio), mostra-se irrelevante para fins de constatação do dolo a existência, ou não, de lei local autorizadora da celebração de convênio.
+5. Não se revelam inaplicáveis ao caso vertente as disposições contidas no art. 24 da LINDB, porquanto a parte agravante se limitou a arguir que, à época dos fatos (2006), haveria incerteza jurídica acerca da legalidade ou não do negócio jurídico em tela - o que seria suficiente para afastar o dolo necessário para a caracterização de ato de improbidade administrativa. Incidência, no ponto, da Súmula 284/STF.
+6. Nos termos da jurisprudência desta Corte, em sede de ação de improbidade administrativa, possível se descortina, em situações excepcionais, suplantar o óbice da Súmula 7/STJ para fins de readequação da sanção imposta, quando esta se revelar demasiadamente branda ou excessivamente gravosa frente aos contornos do caso concreto. Nesse sentido: AgInt no REsp 1.606.097/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/4/2018.
+7. Caso concreto em que, embora se deva manter a penalidade de proibição de contratar com o Poder Público, como imposta pela instância recursal ordinária, deverá tal vedação ficar restrita apenas ao âmbito do município de Petrópolis/RJ e pelo prazo de três anos, guardando, assim, compatibilidade com os princípios da proporcionalidade e da razoabilidade (nesse sentido: AgInt no REsp 1.589.661/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 24/3/2017).
+8. Agravo interno parcialmente provido.
+(AgInt no REsp n. 1.580.393/RJ, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/11/2021, DJe de 17/12/2021).
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. CARTÓRIO. REGISTRO PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO À MOTIVAÇÃO ADOTADA NA ORIGEM. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE. SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, as razões do recurso em mandado de segurança não impugnaram de modo específico os fundamentos do acórdão.
+2. Como afirmado na decisão agravada, "à luz do princípio da dialeticidade, não basta a parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento, proferido pelo Tribunal de origem, merece ser modificado" (REsp 1902706/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/05/2021, DJe 31/05/2021).
+3. Agravo interno não provido.
+(AgInt no RMS n. 64.987/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2021, DJe de24/11/2021).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
