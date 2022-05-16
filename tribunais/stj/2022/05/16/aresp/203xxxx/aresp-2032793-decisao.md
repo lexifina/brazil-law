@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialinterpostopor VANDERLEIA DOS SANTOScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado(e-STJ, fl. 198):
+ACIDENTE DO TRABALHO. DOENÇAS DO TRABALHO. BENEFÍCIO ACIDENTÁRIO. LESÕES NA COLUNA LOMBAR E NO COTOVELO ESQUERDO. PLEITO DE CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO.LAUDO PERICIAL. DÚVIDA QUANTO À INCAPACIDADE LABORATIVA E AO NEXO ENTRE AS DOENÇAS E O TRABALHO. NECESSIDADE DE NOVO EXAME TÉCNICO.JULGAMENTO CONVERTIDO EM DILIGÊNCIA.
+É o relatório.
+A questão jurídica referente à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social em virtude de decisão judicial precária, que venha a ser posteriormente revogada,foi submetida a revisãopelo regime dosprecedentes qualificados vinculantesdo Superior Tribunal de Justiçanos seguintes termos:
+Tema 692/STJ:Proposta de Revisão de Entendimento firmado em tese repetitiva firmada pela Primeira Seção relativa ao Tema 692/STJ, quanto à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS em virtude de decisão judicial precária, que venha a ser posteriormenterevogada.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
