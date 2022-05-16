@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO-CNPQ contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO. EXECUÇÃO FISCAL. INTIMAÇÃO PESSOAL ATENDIDA. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do art. 40, §§ 2º e 4º, da Lei n. 6.830/80, no que concerne à não configuração da prescrição intercorrente, em virtude da impossibilidade de o recorrente promover atos interruptivos da prescrição após a sentença de extinção da execução fiscal, proferida antes do decurso do prazo prescricional, trazendo os seguintes argumentos:
+O v. acórdão fixou a premissa fática de que no momento da prolação da sentença não havia transcorrido o prazo prescricional. Neste sentido:
+ ..
+O mesmo entendimento foi reiterado quando do julgamento dos embargos de declaração:
+ ..
+Percebe-se que houve clara violação ao artigo 40 §§ 2º e 4º da Lei 6.830/80, uma vez que a sentença de extinção foi proferida em momento anterior ao transcurso do prazo prescricional.
+Conforme fixado na instância ordinária, a ciência da Fazenda Pública sobre a não localização dos bens do devedor ocorreu em 12/12/2014, quando começou a transcorrer o prazo de suspensão previsto no artigo 40 §§1º e 2º da Lei 6.830/80. Este é que restou decidido no âmbito do tema repetitivo 566/STJ. Neste sentido:
+ ..
+Logo, os marcos temporais da presente demanda são:
+1) Início do prazo de suspensão na forma do artigo 40 da Lei 6.830/80: 12/12/2014.
+2) Fim do prazo de suspensão e inicio do prazo prescricional: 12/12/2015.
+3) Momento que findaria o prazo prescricional: 12/12/2020.
+4) Data da sentença: 19/06/2020.
+Tais marcos foram reconhecidos pela instância ordinária, em especial no julgamento dos embargos de declaração.
+A sentença foi proferida em 19 de junho de 2020, quase seis meses antes do termo final do prazo prescricional, o que demonstra que a mesma foi exarada de forma precipitada, necessitando ser anulada.
+O crédito em questão é público, não havendo que se falar em disponibilidade da referida verba por critérios de conveniência e oportunidade. A duração razoável do processo implica na observância do devido processo legal, com o respeito aos prazos legais.
+Nota-se que não há que se falar em consumação do prazo após a prolação da sentença, posto que o Exequente restou obstado de perseguir a satisfação do crédito, uma vez que a situação jurídica do mesmo era de extinção.
+Não é possível realização atos citatórios nem atos de constrição patrimonial em um processo que já foi proferida a sentença de extinção. (fls. 186/189)
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Destaca-se que, ao contrário dos argumentos aduzidos pelo embargante em suas razões recursais, o decisum objurgado não deixou de aplicar a tese firmada no Tema 566/STJ. Pelo contrário, sua aplicação culminou no reconhecimento da prescrição intercorrente do crédito exequendo, uma vez que, segundo o próprio entendimento registrado no paradigmático recurso repetitivo, apenas "a efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo".
+Ademais, é mister afastar a alegação de que o prazo prescricional não se consuma após a sentença proferida pelo Juízo originário, porquanto um dos entendimentos alcançados no aludido repetitivo é o de que "os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera".
+Ou seja, conforme apontado no acórdão embargado, não obstante, na data da sentença proferida (jun/2020), o termo final da prescrição ainda não havia sido implementado, o mesmo não se pode dizer quando do julgamento do recurso (out/2021). Sendo assim, inexistindo comprovação de que o exequente tenha adotado providências no sentido de promover a interrupção do referido prazo (constrição patrimonial), ainda que efetivados em data posterior a sua ocorrência, a declaração da prescrição intercorrente é medida imperativa, considerando que não há outros marcos interruptivos/suspensivos senão aqueles fixados pelo STJ. (fl. 174)
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
