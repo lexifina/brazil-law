@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão proferida pela Presidência do STJ (fls. 771-772, 788-789 e 807-808, e-STJ) que não conheceu do recurso, ante sua intempestividade, e aplicou a multa de 2% sobre o valor da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil/2015, em decorrência da reiteração de Embargos de Declaração com caráter manifestamente protelatório.
+O agravante sustenta em suma (fls. 816-825, e-STJ, grifos no original):
+Da análise dos autos é possível asseverar que o marco inicial para a contagem do prazo prescricional data de 15 DE DEZEMBRO DE 2014, momento da apreensão do material e da prisão do Justificante.
+Nessa linha de raciocínio, levando em conta a data do fato, ou seja, a data da prisão do agravante (15.12.2014), tem-se que a prescrição administrativa (de 06 anos) restou alcançada em 15.12.2020.
+(..)
+Ante o exposto, resta demonstrado que o reconhecimento da prescrição tem sido negado por argumentos meramente retóricos, decorrentes de condutas restritivas e, data máxima vênia, impróprias.
+Ademais, em que pese os argumentos lançados, é preciso destacar, primeiramente, que o reconhecimento da prescrição NÃO perfura o mérito do Conselho de Justificação, e, por esta razão, NÃO delibera sobre a perda de posto e de patente militar. O reconhecimento da prescrição prescinde de análise do conjunto probatório
+(..)
+Não obstante, é cediço que em nosso ordenamento jurídico a prescrição é reconhecida como matéria de ordem pública que pode ser declarada de ofício pelo juiz em qualquer fase processual, não estando sujeita à preclusão, sendo necessário tão somente o seu prequestionamento.
+(..)
+No caso em tela a prescrição foi prequestionada.
+Nesse norte, estendemos, com o devido acatamento, que ainda que prevaleça a compreensão de ser incabível Recurso Especial contra decisão proferida pelo Tribunal Estadual em sede da Conselho de Justificação, deve ser implementada na hipótese em tela a mesma solução dada aos casos em que constatadas manifestas ilegalidades, ou seja, partindo da premissa de que reconhecimento da prescrição admite a atuação de ofício do julgador, impõe-se, tal qual ocorre nos casos em que não se conhece o remédio constitucional, o atendimento do provimento jurisdicional de fundo requerido de ofício.
+(..)
+Isto posto, tendo em vista a própria natureza extintiva da punibilidade, bem como por se tratar de matéria de ordem pública que pode ser declarada de ofício pelo juiz em qualquer fase processual, não estando sujeita à preclusão e que prescinde de revolvimento fático-probatório, impõe-se que este órgão julgador diga se está ou não está prescrito o presente PAD.
+Negar tal atividade jurisdicional significa efetivar indevido REDUCIONISMO.
+Por fim, quanto aos demais pontos tratados no Recurso Especial, remetemo-nos aos argumentos lançados na peça recursal, que uma vez ultrapassado o juízo de admissibilidade em destaque, serão apreciados em momento oportuno.
+(..)
+Na espécie, conforme demonstrado à exaustão, encontra-se o agravante submetido a PAD claramente prescrito. E não bastasse tal absurdo, encontra- se o mesmo sujeito à aplicação de grave punição administrativa disciplinar, consistente na exclusão dos quadros da corporação.
+Portanto, o fato de buscar incansavelmente a reversão desta inequívoca e grave decisão imposta, não pode e não deve, à luz dos direitos e garantias individuais constantes no art. 5º, LIV e LV da Constituição Federal, ser considerado como um ato abusivo.
+Este Egrégio Superior Tribunal de Justiça tem consolidada jurisprudência no sentido de que A INTERPOSIÇÃO DE RECURSOS CABÍVEIS NO PROCESSO, POR SI SÓ, NÃO IMPLICA LITIGÂNCIA DE MÁ-FÉ NEM ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA.
+(..)
+Note-se ainda, que no caso em tela sequer há de se falar em indução a erro, tendo em vista que os impetrantes jamais relataram informações inverídicas ou imprecisas, visando alterar a verdade dos fatos.
+Assim, restando demonstrado que NÃO houve abuso, dolo, desrespeito à justiça e tampouco ilegalidade na atuação profissional, impõe-se a não aplicação da multa.
+Todavia, entendendo pela aplicação da multa, pede-se que esta seja reduzida ao seu mínimo legal.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República Francisco Xavier Pinheiro Filho, opinou pelo desprovimento do recurso (fls. 836-841, e-STJ). Eis a ementa do parecer ministerial:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INFRAÇÃO DISCIPLINAR MILITAR. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO.
+1. É intempestivo o agravo em recurso especial interposto após o prazo legal de 15 (quinze) dias da publicação da decisão de admissibilidade proferida pelo Presidente do Tribunal de origem.
+2. Parecer pelo não provimento do agravo regimental, com a manutenção da decisão que não conheceu do agravo em recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECE DO RECURSO ANTE SUA INTEMPESTIVIDADE. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão ora agravada assentou que "a parte recorrente foi intimada da decisão agravada em 04/05/2020, sendo o agravo somente interposto em 19/06/2020. (..) O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil" (fl. 771, e-STJ) e "rejeito os Embargos de Declaração e, outra conclusão não se faz possível, senão a de que a reiteração de Embargos de Declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil" (fl. 808, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos da decisão recorrida, que não conheceu do recurso tendo em vista sua intempestividade, limitando-se a afirmar que "a prescrição administrativa (de 06 anos) restou alcançada em 15.12.2020" e que "NÃO houve abuso, dolo, desrespeito à justiça e tampouco ilegalidade na atuação profissional (..) Todavia, entendendo pela aplicação da multa, pede-se que esta seja reduzida ao seu mínimo legal" (fls. 816-825, e-STJ, grifos no original).
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.4.2022.
+A irresignação não merece prosperar.
+No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos da decisão recorrida, que não conheceu do recurso tendo em vista sua intempestividade, limitando-se a afirmar que "a prescrição administrativa (de 06 anos) restou alcançada em 15.12.2020" e que "NÃO houve abuso, dolo, desrespeito à justiça e tampouco ilegalidade na atuação profissional (..) Todavia, entendendo pela aplicação da multa, pede-se que esta seja reduzida ao seu mínimo legal" (fls. 816-825, e-STJ, grifos no original).
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nessa linha, os precedentes:
+PROCESSUAL CIVIL. JUSTIÇA GRATUITA. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECE DO RECURSO ANTE SUA INTEMPESTIVIDADE. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão ora agravada assentou que "a parte recorrente foi intimada do acórdão recorrido em 16/4/2021, sendo o recurso especial interposto somente em 3/6/2021. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil".
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos da decisão recorrida, limitando-se a reiterar as razões de seu Recurso Especial.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo Interno não conhecido.
+(AgInt no AREsp 1.985.463/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 14/3/2022)
+ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO ADMITIDO COMO AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Admite-se o recebimento de pedido de reconsideração como agravo interno quando atendidos os pressupostos deste recurso, em destaque a tempestividade, e ausente manifesto erro grosseiro ou má-fé do peticionante.
+2. Na hipótese em análise, a decisão agravada indeferiu o pedido de tutela provisória em razão da ausência de fumus boni iuris, eis que o recurso especial, ainda que em cognição sumária, não merece ser conhecido em razão da ausência de prequestionamento de alguns dispositivos de lei federal indicados como violados, além da inexistente violação ao art. 535 do CPC/1973 e devido à incidência da Súmula 7/STJ.
+3. No presente agravo interno, por sua vez, a parte agravante limitou-se a reiterar os próprios fundamentos da petição de tutela provisória, sem combater a ausência de probabilidade de êxito demonstrada, ainda que sumariamente, na decisão agravada.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 5. Agravo interno não conhecido.
+(RCD na TutPrv no REsp 1908692/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 8/4/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus dos Agravantes. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+III - Inaplicabilidade do Tema n. 1.046/STJ ao caso por ausência de similitude.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo interno não conhecido.
+(AgInt no REsp 1891061/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 25/3/2021)
+PROCESSUAL CIVIL. EXECUÇÃO. CONSTRIÇÃO. BEM IMÓVEL. ALIENAÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. ACÓRDÃO EM CONFORMIDADE COM A JURIPSRUDÊNCIA DESTA CORTE. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, a parte ora recorrente opôs embargos de terceiro contra Fazenda Nacional/União Federal, sustentando não se tratar de hipótese de fraude à execução fiscal a aquisição do bem constrito. O pedido foi julgado improcedente pelo Juízo de primeira instância. Interposta apelação fazendária, o Tribunal Regional Federal da 5ª Região negou provimento ao recurso, sob o fundamento de que o imóvel foi alienado em data posterior à inscrição em dívida ativa.
+II - A decisão recorrida, que não conheceu recurso especial, considerou que, para o julgamento nesta Corte, seria necessário o reexame fático-probatório, inviável conforme previsão do enunciado n. 7 da Súmula do STJ. Considerou-se ainda que a jurisprudência desta Corte é no sentido de que, independentemente do registro da constrição no órgão competente, "a simples alienação ou oneração de bens ou rendas, ou seu começo, pelo sujeito passivo por quantia inscrita em dívida ativa, sem a reserva de meios para quitação do débito, gera presunção absoluta (jure et de jure) de fraude à execução". Assim, "se o ato translativo foi praticado a partir de 9.6.2005, data de início da vigência da Lei Complementar 118/2005, basta a efetivação da inscrição em dívida ativa para a configuração da figura da fraude".
+III - Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de fato, que não infirma os fundamentos da decisão agravada.
+IV - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+V - Agravo interno não conhecido.
+(AgInt no REsp 1893331/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe 26/3/2021)
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
