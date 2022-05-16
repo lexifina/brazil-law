@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ROBERTO RODRIGUES DOS SANTOSinterpõe agravo regimental contra decisão da Presidência desta Corte que não conheceu do seu agravo em recurso especial com base no art. 21-E, V,do RISTJ.
+Em suas razões, o agravante sustenta que o agravo em recurso especial teria sido interposto no prazo, pois a publicação de fl. 378, conforme certidão de fl. 379, foi tornada sem efeito, realizada nova intimação em 8/11/2021. Assim, o recurso interposto em 16/11/2021 seria tempestivo.
+Requer a reconsideração da decisão impugnada.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL. EXTORSÃO MEDIANTE SEQUESTRO. RECURSOS INTEMPESTIVOS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1.É inviável o agravo regimental que deixa de atacar especificamente todos os fundamentos da decisão impugnada, por ser condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento da insurgência.
+3. Na espécie, a decisão agravada não conheceu do recurso em razão da intempestividade do apelo nobre e do agravo em recurso especial. A defesa, no entanto, se limitou a refutar a intempestividade do segundo.
+4.Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravante deixou de impugnar todos os fundamentos da decisão de fls. 1.186-1.189, o que impede o conhecimento deste recurso.
+O recurso não foi conhecido em razão da intempestividade do apelo nobre e do agravo em recurso especial.
+Entretanto, a defesa não rebateu, como seria de rigor, todos os fundamentos do julgado impugnado, pois deixou de se insurgir contra a apontada interposição do recurso especial fora do prazo de 15 dias.
+Constata-se, pois, que o agravo regimental está em descompasso com o princípio da dialeticidade, que impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Por esse motivo, incide, no caso, a Súmula n. 182 do STJ.
+Com essa compreensão, cito o precedente firmado na Terceira Seção:
+ ..
+1. Inviável o exame de tese jurídica lançada pela defesa apenas por ocasião da interposição do agravo regimental, no sentido de que o acórdão da Quinta Turma utilizara fundamento que a parte não teve oportunidade de se manifestar (configurando decisão surpresa, vedada pelo art. 10 do CPC), porquanto operada a preclusão consumativa. Precedente.
+2. É inviável o agravo que deixa de atacar, especificamente, o fundamento da decisão agravada. Incidência da Súmula 182 desta Corte.
+3. Agravo regimental improvido.
+(AgRg nos EDcl nos EAREsp 903.057/PR, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 24/9/2021)
+À vista do exposto,não conheçodo agravo regimental.
