@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se  de  pedido  de  extensão  formulado  por  DANIEL MARTINSda  decisão  de  fls.  226-232,  em  que  concediordem dehabeas corpus à CorréELISIANE DE AQUINO DOMINGUES,assim ementada:
+"HABEAS CORPUS. PROCESSUAL PENAL. CONTRABANDO. PRISÃO PREVENTIVA. CONCESSÃO DE LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. PRESA HIPOSSUFICIENTE. IMPOSSIBILIDADE DE ADIMPLEMENTO. INCIDÊNCIA DO ART. 350 DO CÓDIGO DE PROCESSO PENAL. AFASTAMENTO DA FIANÇA. SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. POSSIBILIDADE. ORDEM CONCEDIDA. "
+No presente pedido alegaoRequerente, em suma, que apesar de cumprir pena em outros processos, quando receber progressão de regime permanecerá encarcerado em virtude da prisão preventiva no feito relativo ao presente habeas corpus, em que impugna a conversãode prisão em flagrante em preventiva pelo delito de contrabando.
+Ao final, requer a extensão da decisão que concedeu liberdade provisória à Corré sem pagamento de fiança.
+É  o  relatório.
+ Decido.
+A  pretensão  não tem fundamento.
+Ao  proferir  a  decisão  de  fls.  226-232,  determineia soltura, independentemente do pagamento de fiança, em favor de Pacientea quem foi concedida liberdade provisória, que permanecia presa por não possuir recursos financeiros para arcar com o valor arbitrado, reconhecendo suficientes as demais medidas cautelares impostas.
+Diferentemente, consta nos autos que o Requerente teve sua prisão em flagrante convertida em prisão preventiva para garantia da ordem pública, por ser multireincidente e responder a diversas ações penais pelo mesmo crime (contrabando), sendo a custódia necessária para evitar a reiteração criminosa.
+Ao contrário da Coacusada, ele não foi beneficiado com liberdade provisória condicionada ao pagamento de fiança, portanto, sua situação processual e pessoal em nada se assemelha a da Corré beneficiada com a concessão da ordem.
+Assim,  não há  identidade  de  situações  fáticas  e  jurídicas  necessárias  à  extensão  dos  efeitos  (art.  580  do  Código  de  Processo  Penal)  na  hipótese. Oora Requerente deveveicular suapretensão liberatória naviaprocessualadequada.
+A  propósito,  menciono,  desta  Corte,  o  seguinte  precedente:
+"PENAL E PROCESSO PENAL. RECURSO EMHABEAS CORPUS.PEDIDO DE EXTENSÃO. 1. OPERAÇÃO CAIXA DE PANDORA. TRANCAMENTO DA AÇÃO PENAL.INÉPCIA DA DENÚNCIA QUANTO AO PACIENTE. CONCURSO DE AGENTES. NÃO OBSERVÂNCIA À TEORIA MONISTA. 2. SITUAÇÃO DISTINTA DO PETICIONÁRIO.IMPUTAÇÃO DE CRIME DIVERSO. AUSÊNCIA DE NORMA DE EXTENSÃO. 3.ARGUMENTAÇÃO COMPLETAMENTE INÉDITA TRAZIDA NA PETIÇÃO. TEMAS NÃO ANALISADOS NO PRESENTE RECURSO. INAPLICABILIDADE DO ART. 580 DO CPP.4. PEDIDO DE EXTENSÃO INDEFERIDO.
+1. Pela simples leitura do pedido de extensão, é possível verificar que a situação processual do peticionário é nitidamente diversa da do paciente. De fato, o paciente foi denunciado como incurso no art.317 c/c o art. 29, ambos do Código Penal, apesar de sua coautora ter sido denunciada como incursa no art. 312 do Código Penal, em inobservância à teoria monista.
+2. O peticionário, por seu turno, foi denunciado como incurso no art. 333 do Código Penal - corrupção ativa -, sem a necessidade de se utilizar da norma de extensão descrita no art. 29 do Código Penal. Dessa forma, não há se falar que a denúncia, com relação ao peticionário, utilizou o art. 29 do Código Penal de forma inadequada, em inobservância à teoria monista. Sendo, portanto, manifestamente distintas a situação jurídica do peticionário e do paciente, não há se falar em extensão da ordem.
+3. A propósito de se tratar de mera extensão dos efeitos do presente acórdão, o peticionário traz argumentação completamente inédita, não abordada em momento algum no julgamento do recurso emhabeas corpus.Nesse contexto,inaplicável o disposto no art. 580 do Código de Processo Penal. Como é cediço,"aextensãodo julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática)e subjetivo (circunstâncias pessoais)".(RHC n. 7.439/SP, Relator Ministro Luiz Vicente Cernicchiaro, Sexta Turma, julgado em 18/08/1998).
+- Nesse diapasão,nãoé possível alargar a hipótese de aplicação do art. 580 do CPP para transformar o pedido de extensão em julgamento inédito(PExt no HC 451.066/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/03/2019, DJe 28/03/2019).
+4. Pedido de extensão indeferido."(PExt no RHC 108.029/DF, Rel. MinistroREYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/11/2019, DJe 03/02/2020; sem grifos no original.)
+Ante  o  exposto, INDEFIRO o pedido de  extensão.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO  DE  EXTENSÃO  EM  HABEAS  CORPUS.  ART.  580  DO  CÓDIGO  DE  PROCESSO  PENAL.  HIPÓTESE EM QUE NÃO OCORREA ALEGADA IDENTIDADE  DE  SITUAÇÕES  FÁTICAS  E  JURÍDICAS  NECESSÁRIAS  À  PRETENDIDA  EXTENSÃO  DOS  EFEITOS.  PEDIDO  DE  EXTENSÃO  INDEFERIDO.
