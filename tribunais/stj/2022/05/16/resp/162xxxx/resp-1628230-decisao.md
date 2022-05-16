@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBSON APARECIDO JESUS PEREIRA, com espeque nasalíneasae cdo permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A controvérsia foi bem sumariada pelo Ministério Público Federal, cujo excerto transcrevo a seguir (e-STJ fls. 269/270):
+Robson Aparecido Jesus Pereira foi denunciado pela suposta prática dos crimes de furto qualificado na forma tentada (CP, artigo 155, § 4º, inciso II, c/c o artigo 14, inciso II).
+Recebida a denúncia (f. 46/47) e regularmente instruído o feito, o Juízo de Direito da 1ª Vara Criminal de Taubaté/SP (f. 78/87) condenou o réu pelo crime de furto qualificado na forma tentada às penas de 11 (onze) meses e 6 (seis) dias de reclusão, em regime inicial fechado, e ao pagamento de 8 (oito) dias-multa, à fração mínima.
+Defesa (f. 103/109) e acusação (f. 99/101) apelaram, e a 5ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo - TJ/SP (f. 160/173) negou provimento ao recurso defensivo, e deu provimento ao recurso ministerial, para condenar o acusado pelo crime de furto na forma consumada (CP, artigo 155, caput) às penas de 1 (um) ano, 5 (cinco) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e ao pagamento de 14 (catorze) dias-multa, à fração mínima. Ao acórdão foi dispensada a seguinte ementa (f. 163):
+APELAÇÃO CRIMINAL  Furto tentado  Recurso da Defesa  Absolvição por atipicidade de conduta  Crime impossível  Improcedência  A vigilância sobre o agente constitui hipótese de ineficácia relativa do meio empregado, não impedindo a consumação do delito  Conjunto probatório robusto para lastrear o decreto condenatório  Fixação da pena-base no mínimo legal  Não cabimento  Circunstâncias desfavoráveis e péssima personalidade do acusado  Crime praticado enquanto o réu se encontrava em saída temporária  Escorreita exasperação da pena, também, pela reincidência  Regime fechado bem imposto, nos termos do art. 33, §§ 2º e 3º do Código Penal  Recurso defensivo improvido.
+Apelo Ministerial  Condenação do réu por furto consumado  Acolhimento  O furto consuma-se com a simples inversão da posse da "res" (teoria da "amotio)  Desnecessidade de posse mansa e pacífica do bem  No caso, o increpado foi preso em flagrante quando já havia saído do estabelecimento comercial-vítima, a cerca de 50m de distância do local, restando consumado o delito, ainda que por curto espaço de tempo  Afastamento da tentativa  De rigor condenar pelo crime na forma consumada  Recurso do Ministério Público provido.
+Embargos declaratórios defensivos (f. 187/190) rejeitados pela mesma Câmara Criminal (f. 192/197), nos termos da seguinte ementa (f.194):
+Embargos de Declaração  Alegação de que o v. acórdão é omisso, eis que não teria sido aplicada a detração penal ao acusado  Inocorrência  Para fins de progressão de regime, não basta o requisito objetivo, sendo necessário, também, analisar o mérito do sentenciado  "In casu ", não há nos autos elementos indicando o bom comportamento do réu, a inexistência de faltas disciplinares, etc.  A prudência e o bom senso recomendam que tal instituto seja analisado pelo Juízo das Execuções, o qual detém maiores informações para concluir acerca da possibilidade de concessão da benesse  Embargos de Declaração Rejeitados.
+Sobreveio, então, o presente recurso especial (f. 210/237), com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, no qual a defesa aponta violação e divergência jurisprudencial quanto à interpretação do artigo 384 do Código de Processo Penal. Sustenta violação ao princípio da correlação, vez que a denúncia descreveu a prática do crime de roubo na forma tentada, ao passo que, sem que ocorresse o aditamento da denúncia, o acórdão do Tribunal a quo o condenou por roubo na forma consumada. Alega, ainda, a impossibilidade de se proceder à reclassificação da conduta em segunda instância.
+Contrarrazões (f. 248/252).
+Admissão do recurso (f. 256).
+Ao se manifestar, oParquetfederal opinou pelo não conhecimento do recurso especial(e-STJ fls. 381/391).
+É o relatório.
+Decido.
+Como cediço, a prescrição, por se tratar de matéria de ordem pública, e nos termos do art. 61 do Código de Processo Penal, deve ser examinada a qualquer tempo, mesmo na instância superior.
+E, ao fazê-lo, verifica-se que o recurso especial está prejudicado pela superveniência da prescrição da pretensão punitiva. Senão vejamos.
+Com efeito, compulsando os autos, verifica-se que o acórdão foi publicado em 14/8/2015(e-STJ fl. 175). A condenação do recorrente perfez oquantumde 1ano,5meses e 15 dias de reclusão (e-STJ fls. 160/173).
+Dessarte, transcorreu o prazo prescricional de 4anosentre o último marco interruptivoe a presente data, consoante art. 109 do Código Penal:
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010)
+ ..
+V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois;
+Ante o exposto,de ofício,extingo a punibilidadedeROBSON APARECIDO JESUS PEREIRApela prescrição da pretensão punitiva.
+Julgoprejudicadoo recurso especial.
+Publique-se. Intimem-se.
