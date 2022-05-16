@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO CEZAR DE LIMA GOMES, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que não há fundamentação concreta e idônea na decisão que decretou a prisão preventiva do paciente.
+Aduz, para tanto, que não há indícios de autoria e materialidade.
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja revogada a prisão preventiva do paciente.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+O writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+Não me convencem, a princípio, os argumentos da impetração. Primeiro, porque o tema alusivo à negativa de autoria não pode ser deduzido na via estreita do writ, "por demandar necessária incursão no acervo fático-probatório" (STJ, RHC 64.605/RJ, 5.ª Turma, Rel. Min. Felix Fischer, j. 24/05/2016, DJe 03/06/2016). Segundo, porque a decisão que converteu a prisão temporária em preventiva (EP 19.1 - Autos n.º 9002533-25.2021.8.23.0000) e a que indeferiu o pedido de sua revogação (EP 16.1 - mov. 1.º grau) demonstram satisfatoriamente a necessidade da medida extrema, sendo irrelevantes eventuais condições pessoais favoráveis do acusado (STJ, RHC 76.626/MG, 5.ª Turma, Rel. Min. Reynaldo Soares da Fonseca, j. 25/10/2016, DJe 07/11/2016).
+Terceiro, porque não vislumbro, prima facie, a alegada identidade fático-processual entre o paciente e os investigados que foram beneficiados com a liberdade provisória, o que torna inviável a aplicação da regra do art. 580 do CPP (STJ, HC 293317/RJ, Rel. Ministro Nefi Cordeiro, 6.ª Turma, j. 07/10/2014, DJe 21/10/2014). Quarto, porque "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (STJ, HC 529.767/MG, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, j. 07/11/2019, DJe 19/11/2019). PELO EXPOSTO, ausente o fumus boni juris,indefiro o pedido de liminar" (fls. 93-94).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
