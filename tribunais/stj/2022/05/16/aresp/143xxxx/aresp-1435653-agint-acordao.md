@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Vallesul Transportes e Turismo Ltda.desafiando decisão que não conheceu doagravo em recurso especial por aplicação da Súmula 182/STF, pois a parte deixou de atacar os fundamentos referentes à impossibilidade de examede alegação de suposta ofensa à Constituição em recurso especial e à aplicação da Súmula 7/STJ.
+Inconformada, a parte agravante sustenta que não abordou a questão da ofensa a dispositivos constitucionais em seu agravo e quedemonstrou de forma cabal a não incidência da Súmula 7/STJ.Requer a reconsideração da decisão agravada ou a submissão do feito ao julgamento colegiado.
+A parte agravada apresentou contrarrazões, pugnando pelo não provimento do agravo (fls. 1.321/1.324).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITIU ORECURSO ESPECIAL. SÚMULA 182/STJ.
+1.É inviável a apreciação do agravo em recurso especial que deixa de atacar especificamente, de forma particularizada, todos os fundamentos da decisão denegatória de admissibilidade do apelo raro. Incidência, na espécie, da Súmula 182/STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A irresignação não merece ser acolhida.
+Como assentado na decisão ora recorrida, o agravo em recurso especial não ultrapassa a barreira do conhecimento, pois a parte agravante não rebateu, de modo específico, todos os motivos adotados pela decisão que negou trânsito ao apelo especial.
+Quanto à impossibilidade de alegação de ofensa a dispositivos constitucionais em sede de recurso especial, o próprio recorrenteconfirmou que não refutou tal fundamento "em razão da desnecessidade de impugnar essa questão, pois, pelo que consta da decisão retro, o Tribunal Local apenas se prestou para informar que a violação à Constituição Federal não poderia ser alegada em sede de Recurso Especial" (fl. 1.314).
+No mais, nas razões do agravo em recurso especial, a parte ora agravante, embora tenha discorrido genericamente acerca da desnecessidade de incursão no contexto fático e da possibilidade de revaloração de provas em recurso especial, deixou de explicitar os motivos pelos quais, em seu entender, a Súmula 7/STJ não seria aplicável especificamente ao presente caso.
+Ora, como consta da decisão agravada, éinviável a apreciação do agravo em recurso especial que deixa de atacar especificamente, de forma particularizada, todos os fundamentos da decisão denegatória de admissibilidade do apelo raro. Incidência, na espécie, da Súmula 182/STJ. A propósito, menciono os seguintes precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 7/STJ. ATAQUE INESPECÍFICO. NÃO CABIMENTO. PRECEDENTES. NÃO CONHECIMENTO DO AGRAVO. DECISÃO MANTIDA.
+1. Incumbe à parte recorrente demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados, o que (no caso) não ocorreu quanto à incidência da Súmula 7/STJ, limitando-se a aduzir, de modo genérico, que não pretendia o reexame dos fatos e provas.
+2. Não basta "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+3. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1.923.689/SC, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 09/11/2021, DJe 16/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICID ADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade do referido óbice ou que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 1.802.143/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe 26/10/2015)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - ACIDENTE DE VEÍCULO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO COM BASE NA SÚMULA 182/STJ E APLICOU MULTA DE 1% SOBRE O VALOR DA CAUSA, FICANDO A INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO CONDICIONADA AO RECOLHIMENTO DO RESPECTIVO VALOR. INSURGÊNCIA DO AUTOR.
+1. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. De acordo com a jurisprudência desta Corte, mesmo que o recorrente seja beneficiário da justiça gratuita, é indispensável o recolhimento da multa em questão, pois "o benefício da assistência judiciária não tem o condão de tornar o assistido infenso às penalidades processuais legais por atos de procrastinação ou litigância de má-fé por ele praticados no curso da lide." (EDcl no AgRg no Resp 1.113.799/RS).
+Portanto, caracterizada uma das hipóteses previstas no caput do art. 557 do CPC, autorizado estará o relator, desde logo, a aplicar multa sancionatória e, consequentemente, condicionar a interposição de qualquer outro recurso ao depósito do respectivo valor.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 239.360/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/2/2016)
+Nessa mesma linha, convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o referido óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP).
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
