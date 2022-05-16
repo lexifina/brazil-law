@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialinterpostoporDIONÍSIA FERREIRA DA SILVAcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fls. 460-461):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REMESSA NECESSÁRIA. DIFERENÇAS SALARIAIS RECONHECIDAS EM RECLAMATÓRIA TRABALHISTA. TEMPO DE SERVIÇO ESPECIAL. REVISÃO DA APOSENTADORIA COMUM: DEFERIMENTO. DATA DE INÍCIO DOS EFEITOS FINANCEIROS: PRINCÍPIO DA BOA-FÉ OBJETIVA. CONSECTÁRIOS LEGAIS.
+1. O § 3º do inciso I do art. 496 do CPC/2015, dispensa a submissão da sentença ao duplo grau de jurisdição quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 1.000 (mil) salários mínimos para a União e suas respectivas autarquias e fundações de direito público.
+2. É possível a revisão do cálculo do benefício de aposentadoria, mediante o cômputo das diferenças salariais reconhecidas em reclamatória trabalhista, sendo irrelevante o fato de o INSS não ter participado da lide trabalhista.
+3. Não tem direito ao reconhecimento da especialidade do tempo de serviço o segurado que não comprova a efetiva exposição a agentes nocivos ou o exercício de atividade profissional enquadrável como especial.
+4. Direito à revisão da aposentadoria comum que percebe.
+5. Efeitos financeiros desde o ajuizamento da ação, quando, definitivamente, o INSS tomou conhecimento dos períodos pleiteados na demanda, em homenagem ao disposto no art. 2º, IV, c/c art. 4º, II, da Lei n.9.784/99, bem como à luz do princípio da boa-fé objetiva, considerando que cabe a ambos partícipes da relação jurídica - segurado e INSS - assumirem conduta positiva de modo a viabilizarem, no maior grau possível, a análise do direito do segurado, pautando-se, ambos, com o dever de lealdade, confiança, transparência e colaboração.
+6. Consectários legais fixados nos termos do decidido pelo STF (Tema 810) e pelo STJ (Tema 905).
+É o relatório.
+A questão jurídica referente ao termo inicial do benefício concedido com amparo em prova não apresentada ao crivo administrativofoi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tema 1.124/STJ:Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
