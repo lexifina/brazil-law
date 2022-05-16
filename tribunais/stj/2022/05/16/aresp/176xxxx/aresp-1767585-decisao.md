@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OSWALDO PEDROZO DE ABREU contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 83 e 7, ambas do STJ.
+Consta dos autos que o recorrente foi pronunciado pela prática do delito previsto no art. 121, § 2º, III e IV, do Código Penal.
+A defesa interpôs recurso em sentido estrito perante a Corte de origem, a qual lhe negou provimento. Eis a ementa do julgado (e-STJ fl. 748):
+RECURSO EM SENTIDO ESTRITO - HOMICÍDIO DUPLAMENTE QUALIFICADO - DECISÃO DE PRONÚNCIA - PLEITO DE IMPRONÚNCIA - DESCABIMENTO - MATERIALIDADE COMPROVADA E INDÍCIOS DE AUTORIA DEVIDAMENTE DEMONSTRADOS - SUBMISSÃO DO RÉU A JULGAMENTO PELO TRIBUNAL DO JÚRI - RECURSO DESPROVIDO.
+Comprovada a materialidade do delito e presentes indícios suficientes de autoria, impõe-se a pronúncia do Acusado, a fim de que seja julgado pelo Tribunal do Júri, juiz natural dos crimes dolosos contra a vida.
+A defesa interpôs recurso especial, o qual foi negado seguimento com fulcro nas Súmulas n. 83 e 7, ambas do STJ.
+Daí o presente agravo em recurso especial, no qual a defesa alega que "o acórdão recorrido não foi proferido em consonância com o entendimento do Superior Tribunal de Justiça" (e-STJ fl. 878).
+Aduz que "os julgados do Superior Tribunal de Justiça transcritos na decisão que negou seguimento ao Recurso Especial não se aplicam ao presente caso, notadamente porque, conforme consta na inicial, inexistem sequer indícios mínimos de autoria aptos a justificar a submissão do ora recorrente ao julgamento pelo Tribunal do Júri" (e-STJ fl. 878).
+Afirma, ainda, que, "ao contrário do disposto na decisão ora agravada, não se pretende o revolvimento de provas, mas somente o afastamento a aplicação do pseudo principio in dúbio pro societate ante a subsistência de dúvidas reais de autoria, tal corno no presente caso" (e-STJ fl. 878).
+Requer, assim, o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada à e-STJ fls. 883/886.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+O agravante não impugnou todos os fundamentos da decisão agravada.
+De fato, no tocante ao tópico da decisão que inadmitiu o recurso especial referente à incidência da Súmula n. 83/STJ, esse não foi devidamente impugnado.
+Com efeito, inadmitido o apelo extremo com base no verbete sumular n. 83/STJ, incumbiria à parte interessadaapontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, pois, como consta da decisão agravada, essa é a jurisprudência do STJ, consoanteos arestos abaixo colacionados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. ART. 413 DO CÓDIGO DE PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INDÍCIOS SUFICIENTES DE AUTORIA A AUTORIZAR A SUBMISSÃO DOS ACUSADOS AO JÚRI. NULIDADE. NÃO OCORRÊNCIA. ACÓRDÃO A QUO FUNDAMENTOU ADEQUADAMENTE A QUAESTIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+ ..
+2. A pronúncia é uma decisão interlocutória por meio da qual o julgador singular verifica a existência de suporte probatório mínimo da autoria de crime doloso contra a vida. Nessa fase, o dever de fundamentação do magistrado deve ser cumprido dentro de limites estreitos, com linguagem comedida, sob pena de influenciar os jurados, constituindo fundamentação idônea (AgRg no HC n. 701.258/RS, da minha relatoria, SEXTA TURMA, DJe 19/11/2021).
+3. A decisão de pronúncia reclama, nos termos do art. 413 do Código de Processo Penal, a indicação de indícios mínimos de autoria, porquanto nessa fase vigora o princípio in dubio pro societate, não sendo imprescindível a certeza da prática delitiva, a qual é exigível somente para a sentença condenatória (AgRg no HC n. 514.593/CE, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 13/12/2021).
+4. A alegação de inexistência de provas suficientes de autoria esbarra em contexto fático-probatório, e a pronúncia está embasada na materialidade dos fatos, bem como em indícios suficientes da autoria, e qualquer conclusão em sentido contrário demanda o exame aprofundado de provas, providência descabida na via eleita (AgRg no HC n. 601.041/SP, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 23/10/2020).
+5. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+6. Agravo regimental improvido.(AgRg no HC 724.049/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2022, DJe 21/3/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. MATÉRIA PROCESSUAL PENAL. TRIBUNAL DO JÚRI. SENTENÇA DE PRONÚNCIA. INDÍCIOS DE AUTORIA E PROVAS DA MATERIALIDADE. DECLARAÇÕES DAS VÍTIMAS. PROVA PERICIAL E DE IMAGENS IRREPETÍVEIS. ART. 155 DO CPP. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A fase de pronúncia comporta juízo de admissibilidade da acusação, para o qual devem concorrer a prova da existência do fato (materialidade) e os indícios acerca da autoria ou participação do agente, consoante dispõe o art. 413 do Código de Processo Penal.Constitui a pronúncia, portanto, juízo fundado de suspeita.
+III - In casu, a pronúncia encontra-se fundamentada em provas judicializadas da materialidade. Sobre a autoria especificamente, a pronúncia se fundou, embora a prova oral não tenha sido confirmada em juízo nos mesmos termos da sede inquisitorial (por suposto medo das duas vítimas), em prova tida como irrepetível, qual seja, o laudo pericial e as imagens das câmeras, que segundo o eg. Tribunal de origem, são nítidas. Isso é plenamente possível, de acordo com o art. 155, caput, in fine, do CPP: "Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas".
+IV - Assim, eventuais contradições nos depoimentos colhidos em sede policial e judicial devem ser avaliadas pelo juízo natural da causa, de quem não se pode subtrair a soberania insculpida na Constituição Federal.
+V - Havendo, pois, provas da materialidade e indícios suficientes de autoria, a pronúncia é medida que se impõe, sendo que, para desconstituir os elementos de convicção utilizados pela eg. Corte estadual, seria necessário o amplo cotejo do quadro fático-probatório, procedimento vedado na via eleita.
+Habeas corpus não conhecido.(HC 712.927/RS, Rel. Ministro JESUÍNO RISSATO, Desembargador convocado doTJDFT, QUINTA TURMA, julgado em 29/3/2022, DJe 4/4/2022.)
+Ora, de fato, anota-se que o entendimento desta Corte Superior é o de que"a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional"(AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO TENTADO E FRAUDE PROCESSUAL. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DO DELITO E AFASTAMENTO DAS QUALIFICADORAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+-A incidência da Súmula n. 83 deste Superior Tribunal de Justiça não se restringe ao recurso especial aviado com base na alínea "c" do inciso III do art. 105, da Constituição Federal, aplicando-se o enunciado, da mesma forma, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional.(AgRg no AREsp 299.793/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 27/11/2014)
+- O princípio da identidade física do juiz não é absoluto, devendo a parte fazer prova do prejuízo, o que não ocorreu na espécie.
+- O pedido de desclassificação do delito e de afastamento da qualificadoras enseja o reexame do material fático-probatório dos autos, procedimento inadmissível em recurso especial. Incidência da Súmula n. 7/STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp 623.381/MA, Rel. Ministro ERICSON MARANHO, Desembargador convocado do TJSP, SEXTA TURMA, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Desse modo, não havendoimpugnação específicado fundamento da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INATACADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA N. 7 DO STJ. APLICAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Incide a Súmula n. 182 do STJ se a parte deixa de impugnar especificamente os fundamentos da decisão agravada.
+2. Para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal.
+3.Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1823881/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 20/4/2021, DJe 26/4/2021, grifei.)
+Ante o exposto,não conheçodo agravo.
+Publique-se. Intimem-se.
