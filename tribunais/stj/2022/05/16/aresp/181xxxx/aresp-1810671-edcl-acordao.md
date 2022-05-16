@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  embargos  de  declaração  opostos  por  BRUNA  RANA  CRIVILIM  contra  acórdão  proferido  por  esta  egrégia  Primeira  Turma,  assim  ementado:
+APELAÇÃO  CÍVEL.  AÇÃO  ORDINÁRIA.  CONCURSO  PÚBLICO  EDITAL  Nº  02/2013  DO  MUNICÍPIO  DE  LONDRINA.  CARGO  DE  ENGENHEIRO  AMBIENTAL.  CADASTRO  RESERVA.  CANDIDATA  APROVADA  EM  PRIMEIRO  LUGAR.  ALEGAÇÃO  DE  PRETERIÇÃO  EM  FAVOR  DE  EMPREGADA  TRANSFERIDA.  INOCORRÊNCIA.  DISCRICIONARIEDADE  DA  ADMINISTRAÇÃO.  PRESUNÇÃO  DE  VERACIDADE  DO  SATOS  ADMINISTRATIVOS.  PREVALÊNCIA  DO  INTERESSE  PÚBLICO  SOBRE  O  PARTICULAR.  AUSÊNCIA  DE  INCONSTITUCIONALIDADE  DE  CONCURSO  DESTINADO  EXCLUSIVAMENTE  A  CADASTRO  RESERVA.  LEI  18.627/2015  QUE  NÃORETROAGE  À  ÉPOCA  DO  CONCURSO.  INAPLICABILIDADE  DO  DECRETO  6.944/2009.  RECURSO  DE  APELAÇÃO  CONHECIDO  E  NEGADO  PROVIMENTO.
+2.  O  embargante  alega  que  houve  omissão  quanto  àausência  de  menção  e  valoração  do  laudo  pericial  de  evento  105.1  pelo  TJPR.  Aduz  que  este  tipo  de  violação  deve  ser  analisada  pelo  Superior  Tribunal  de  Justiça  e  que  não  há  que  ser  falar  em  incidência  da  Súmula  7/STJ  quando  se  faz  necessária  apenas  e  tão-somente  a  leitura  do  acórdão  do  tribunal  local.
+3.  É  o  relatório.
+EMENTA
+ADMINISTRATIVO.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONCURSO.  ENGENHEIRO  AMBIENTAL.  CADASTRO  DE  RESERVA.  CANDIDATA  APROVADA  EM  PRIMEIRO  LUGAR.  ALEGAÇÃO  D  E PRETERIÇÃO  EM  FAVOR  DE  EMPREGADA  TRANSFERIDA.  INEXISTÊNCIA  DE  QUAISQUER  DOS  VÍCIOS  PREVISTOS  NO  ART.  1.022  DO  CPC/2015.  EMBARGOS  DECLARATÓRIOS  DO  PARTICULAR  REJEITADOS.
+1.  O  art.  1.022  do  CPC/2015  é  peremptório  ao  prescrever  as  hipóteses  de  cabimento  dos  embargos  de  declaração;  trata-se,  pois,  de  recurso  de  fundamentação  vinculada,  restrito  a  situações  em  que  patente  a  incidência  do  julgado  em  obscuridade,  contradição  ou  omissão,  hipóteses  não  verificadas  no  caso  em  comento.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+1.  O  art.  1.022  do  CPC/2015  é  peremptório  ao  prescrever  as  hipóteses  de  cabimento  dos  Embargos  de  Declaração;  trata-se,  pois,  de  recurso  de  fundamentação  vinculada,  restrito  a  situações  em  que  patente  a  incidência  do  julgado  em  obscuridade,  contradição  ou  omissão.
+2.  Destarte,  infere-se  que,  não  obstante  pacífica  a  orientação  acerca  da  natureza  recursal  dos  Declaratórios,  singularmente,  não  se  prestam  ao  rejulgamento  da  lide,  mediante  o  reexame  de  matéria  já  decidida,  mas  apenas  à  elucidação  ou  ao  aperfeiçoamento  do  decisum  em  casos  nos  quais  eivado  de  obscuridade,  contradição  ou  omissão.
+3.  Com  efeito,  os  Embargos  de  Declaração  não  podem  ser  utilizados  com  a  finalidade  de  sustentar  eventual  incorreção  do  decisum  hostilizado  ou  de  propiciar  novo  exame  da  própria  questão  de  fundo,  em  ordem  a  viabilizar,  em  sede  processual  inadequada,  a  desconstituição  de  ato  judicial  regularmente  proferido.
+4.  No  caso  dos  autos,  constaram  expressamente  do  acórdão  embargado  as  razões  pelas  quais  não  encontra  amparo  a  pretensão  recursal.
+5.  Em  adição,  extrai-se  do  acórdão  proferido  pela  Corte  de  origem  o  seguinte:
+Isto  porque,  a  transferência  de  empregado  consubstancia-  se  em  ato  discricionário  da  administração,  não  representando,  portanto,  abertura  de  vaga  a  ser  preenchida  por  aprovado  em  concurso  público.
+Dito  de  outro  modo,  inexiste  abertura  de  nova  vaga  a  ser  ocupada  por  candidato  aprovado  em  concurso.  O  que  ocorreu  foi  tão  somente  a  necessidade  de  determinada  mão  de  obra  e  remanejamento  da  então  funcionária  lotada  pela  administração  pública.
+Além  disso,  não  atende  ao  Princípio  da  Razoabilidade,  diante  do  custo  envolvido,  a  nomeação  de  novo  empregado,  ainda  que  aprovado  em  concurso  para  cadastro  de  reserva,  visto  que  o  que  ocorreu  no  caso  foi  simplesmente  a  transferência  da  funcionária  de  uma  cidade  para  outra,  sem  onerar  a  administração  pública.
+Deste  modo,  inexiste  a  criação  de  novas  vagas,  mas  sim  adequação  de  função  da  servida  que  havia  ingressado  em  concurso  anterior.
+Assim,  não  se  deve  olvidar  que  todos  os  atos  da  administração  pública  possuem  presunção  de  veracidade  e  legitimidade,  cabendo  ao  interessado  a  sua  desconstituição  (fls.  564/565).
+6.  Com  base  nessas  considerações,  rejeitam-se  os  presentes  embargos  declaratórios  .
+7.  É  como  voto.
