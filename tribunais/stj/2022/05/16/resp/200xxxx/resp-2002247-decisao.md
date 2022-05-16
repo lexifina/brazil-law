@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela CONFEDERAÇÃO BRASILEIRA DE FUTEBOL contra decisão oriunda do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO que inadmitiu o recurso especial.
+A parte aduz que "não merece prosperar a alegação de que a violação do artigo 14, inciso X, c/c o artigo 13, inciso V, da MP nº 2.158-35/2001 seria eminentementereflexa da constatação da ilegalidade do artigo 47, parágrafo 2º, da Instrução Normativa n. 247/2002 da Receita Federal do Brasil. Cabe dizer que houve uma inversão interpretativa indevida da r. decisão agravada, que acometeu o conhecimento do recurso especial da Agravante" (e-STJ fl. 1.432).
+É o relatório.
+Peço vênia para discordar da decisão que obstou o recurso especial na origem motivada em eventual ofensa reflexa da legislação federal, tendo em vista que a Primeira Seção desta Corte Superior, no julgamento doREsp n. 1.353.111/RS, conheceudo recurso e afirmou tese no sentido de que "oparágrafo § 2º do art. 47 da IN 247/2002, da Secretaria da Receita Federal, ofende o inciso X do art. 14 da MP n. 2.158-35/2001 ao excluir do conceito de "receitasrelativas às atividades próprias das entidades"as contraprestações pelos serviços próprios de educação".
+Como se observa, mostra-se possível, na via especial, o exame acerca da legalidade de instrução normativa, ou seja, se a norma infralegal ultrapassou os limites da lei que regulamenta, valendo ressaltar que, em ambos os casos, se estáa cuidar do disposto noart. 47, § 2º, da IN n. 247/2002.
+Ante o exposto,preenchidos os requisitos legais, com fulcro no art. 253, parágrafo único, II, "d", doRISTJ, conheço do agravo para determinar sua autuação como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do recurso especial, a ser realizado no momento oportuno.
+Publique-se. Intimem-se.
