@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DISPOSITIVO DECLARADO INCONSTITUCIONAL. TÍTULO INEXEQUÍVEL. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTO DEFICIENTE. SÚMULAS 283 E 284/STF. OFENSA AO ART. 6º DA LINDB E 927 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súmula n. 211 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno manejado em face de decisão de minha relatoria sintetizada da seguinte maneira (e-STJ fl. 909):
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. TEMA 531/STJ. NÃO APLICAÇÃO AO CASO CONCRETO. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. OFENSA AO ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões de agravo interno, a parte agravante sustenta que "..a fundamentação do acórdão recorrido foi sim impugnada, consoante tópicos IV (DA CONTRARIEDADE À LEI FEDERAL) e V (DO DISSÍDIO JURISPRUDENCIAL) do Recurso Especial interposto. Nos supracitados tópicos, a Agravante enfrenta todos os pontos que fundamentaram o acórdão recorrido, senão vejamos: Nó tópico IV, a Agravante aborda sobre a modulação dos efeitos da ADI 1.0000.16.052544-0/000 e sua aplicabilidade ao caso em análise ." (fl. 941e-STJ);alega que".. a ofensa à lei federal foi sim enfrentada pelo acórdão recorrido. Do acórdão recorrido, a Agravante opôs Embargos de Declaração, embargos estes que além de objetivar sanar as omissões/contradição, teve por objetivo o prequestionamento da matéria. No acórdão referente aos Embargos, a colenda 3ª Câmara Cível do Tribunal de Justiça de Minas Gerais enfrentou a violação ao direito adquirido e reconheceu o prequestionamento.." (fl. 945 e-STJ)
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DISPOSITIVO DECLARADO INCONSTITUCIONAL. TÍTULO INEXEQUÍVEL. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTO DEFICIENTE. SÚMULAS 283 E 284/STF. OFENSA AO ART. 6º DA LINDB E 927 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súmula n. 211 do STJ.
+3. Agravo interno não provido.
+VOTO
+O agravo não deve ser provido.
+Como ressaltado na decisão monocrática, oTribunal de origem consignou que:
+Por ocasião dos debates ocorridos durante o julgamento, o douto Relator deixou bem claro em seu voto que a modulação "atinge somente aqueles que já aposentaram até a cautelar; daí para frente não".
+Bem, como já foi consignado anteriormente, na decisão liminar, a agravada se aposentou em 25/10/2006, mas nunca recebeu o benefício da complementação dos proventos estabelecido no dispositivo legal acima referido, declarado inconstitucional. O direito àquele benefício só foi reconhecido por meio da sentença exequenda, que foi proferida em 08/09/2014 e transitou em julgado em 19/09/2018. Relativamente à Ação Direita de Inconstitucionalidade, tem-se que foi concedida medida cautelar em 6/4/2017  a partir de quando a declaração de inconstitucionalidade passou a ter eficácia, bem como que foi julgada em 11/4/2018 e transitou em julgado em 24/7/2018.
+Dito de outra maneira, o caso em apreço subsume-se perfeitamente à hipótese de inexequibilidade do título executivo estabelecida no artigo 535, III, e §§5º, 6º, e 7º, do Código de Processo. O título executivo está fundamentado em dispositivo de lei declarado inconstitucional pelo Órgão Especial deste Tribunal de Justiça, em decisão proferida antes do trânsito em julgado da sentença exequenda, inclusive com modulação de efeitos para preservar a segurança jurídica dos servidores aposentados.
+Como a servidora recorrida nunca recebeu o benefício, isto é, não se enquadra nas situações da modulação de efeitos, significando dizer que o título executivo judicial é, de fato, inexequível, como aduz o recorrente.
+Não obstante, tais fundamentosnão foramimpugnadosde modo adequado no
+presente recurso. Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ART. 535 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ. DISCUSSÃO SOBRE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO E EXCLUSÃO DE PROGRAMA DE PARCELAMENTO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição,
+não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em
+mais de um fundamento suficiente e o recurso não abrange todos eles, bem
+como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial
+(Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp 1677689/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/02/2018, DJe 21/02/2018)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+2. Pelo princípio da dialeticidade, impõe-se à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido.
+3. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo desprovido.
+(AgInt no RMS 58.200/BA, Rel. Ministro GURGEL DE
+FARIA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 28/11/2018)
+Por fim, consoantesalientado na decisão monocrática, com base nos argumentos trazidos no acórdão, e o conteúdo normativo do artigo 6º da LINDB e 927, V, do CPC,indicado como violados, e a tese a ele relacionada, conclui-se que não foram objeto de discussão, e, apesar da oposição de Embargos de Declaração, não serviram de fundamento à conclusão adotada pelo Tribunal a quo. Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Como observado, para que se configure o prequestionamento, nos termos do regramento vigente à data da interposição do Recurso Especial, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO EM CADASTRO DE RESERVA. RECLASSIFICAÇÃO. DESISTÊNCIA E EXONERAÇÃO DE CONCORRENTES MAIS BEM CLASSIFICADOS. DIREITO ÀNOMEAÇÃO. VIOLAÇÃO A NORMATIVOS FEDERAIS. FUNDAMENTAÇÃO DEFICIENTE. FALTA DE COMANDO NORMATIVO. SÚMULA 284/STF. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIREITO SUBJETIVO À NOMEAÇÃO. DESISTÊNCIA DOS CONCORRENTES.JURISPRUDÊNCIA DO STJ E DO STF. DESCARACTERIZAÇÃO DAS SITUAÇÕES DE EXCEÇÃO À OBSERVÂNCIA DO DIREITO. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. FALTA INDICAÇÃO DO PRECEITO LEGAL INTERPRETADO DIVERGENTEMENTE. PARADIGMA EXTRAÍDO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. SÚMULA 284/STF.
+1. A indicação de preceito legal federal que não consigna em seu texto comando normativo apto a sustentar a tese recursal e a reformar o acórdão impugnado padece de fundamentação adequada, a ensejar o impeditivo da Súmula 284/STF.
+2. Não cumpre o requisito do prequestionamento o recurso especial para salvaguardar a higidez de norma de direito federal não examinada pela origem, que tampouco, a título de prequestionamento implícito, confrontou as respectivas teses jurídicas. Óbice da Súmula 211/STJ.
+3. Apenas o candidato aprovado dentro do número de vagas ofertadas no edital do certame tem, em regra, direito público subjetivo à nomeação, conforme decidido no RE 598.099/MS, relator o Em. Ministro Gilmar Mendes, em julgamento com repercussão geral.
+4. No entanto, o candidato originalmente excedente que, em razão da inaptidão de outros concorrentes mais bem classificados, ou de eventuais desistências, reclassifica-se e passa a figura nesse rol de vagas ofertadas, ostenta igualmente o direito à nomeação. Precedentes.
+5. A recusa da Administração Pública ao direito público subjetivo de nomeação em favor do candidato classificado dentro do número de vagas ofertadas no edital de concurso público somente se justifica se obedecidas integralmente as condicionantes previstas no RE 598.099/MS, que constitui o marco jurisprudencial regulatório desse direito.
+6. Dentre essas condicionantes, deve haver a comprovação pela Administração Pública de que não havia outros meios menos gravosos e extremos para lidar com a situação de excepcionalidade e que, portanto, a recusa constituiu a "ultima ratio".
+7. Não se conhece do recurso especial que se fundamenta na existência de divergência jurisprudencial, mas se limita, para a demonstração da similitude fático-jurídica, à mera transcrição de ementas e de trechos de votos, assim como tampouco indica qual preceito legal fora interpretado de modo dissentâneo. Hipótese, por extensão, da Súmula 284/STF.
+8. Acórdão proferido em mandado de segurança ou em recurso ordinário em mandado de segurança não se presta à finalidade de demonstração do dissídio jurisprudencial, não autorizando o processamento do recurso especial pelo art. 105, inciso III, alínea "c", da Constituição da República. Precedentes.
+9. Recurso especial conhecido parcialmente e, nessa extensão, não provido.(REsp 1817360/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/10/2019, DJe 14/10/2019)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
