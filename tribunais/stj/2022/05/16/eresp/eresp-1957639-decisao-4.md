@@ -1,0 +1,6 @@
+DECISÃO
+JEFFERSON LUIZ CARRIEL RODRIGUES e JAQUELINE DE SOUZA ROSA RODRIGUES opõem embargos de divergência, às fls. 23.196-23.219, contra acórdão proferido pela Quinta Turma, que negou provimento ao agravo regimental interposto contra decisão unipessoal que proferida em recurso especial.
+Em suas razões, defendem a incompetência da Justiça Federal e apontam como paradigma o aresto proferido no REsp n. 1.379.009/MS. Além disso, sustentam a ilegalidade da interceptação telefônica, lastreada apenas em denúncia anônima e indicam, como paradigma da divergência, o aresto proferido no HC n. 496.100/SP, apreciado pela Sexta Turma.
+Como paradigmas, a defesa indica dois acórdãos no decorrer de sua argumentação, um deles proferido em habeas corpus. Não bastasse o paradigma proferido em habeas corpus não servir para a comprovação da divergência, conforme firme orientação desta Corte, observa-se ainda que o insurgente se restringiu, em relação a todos eles, a mera transcrição de ementas, circunstância que vai de encontro com a determinação regimental, contida no art. 266, § 4º, do RISTJ, sobretudo se consideradas as peculiaridades do caso.
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se e intimem-se.
