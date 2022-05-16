@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/05/2022 a 16/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão proferida pela Presidência do STJ, que não conheceu do recurso especial, em razão da incidência das Súmulas 7/STJ e 284/STF.
+Nas razões do presente recurso, a parte recorrente afirma que os referidos óbices não se aplicam à espécie, e no mais, repetem as razões de mérito do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO PROVOCADO POR TRATOR EM CONDIÇÕES INADEQUADAS. REEXAME DE PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O presente recurso não merece prosperar.
+Em que pese não ser o caso de aplicação da Súmula 284/STF à espécie, o fundamento da incidência da Súmula 7/STJ prevalece no caso concreto.
+Nesse sentido, assim dispôs a decisão ora agravada:
+Quanto à controvérsia trazida aos autos, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186 e 927 do CC e do art. 29 do CTB, no que concerne à indevida condenação da recorrente em danos materiais e morais, trazendo os seguintes argumentos:
+Conforme consta dos autos, ficou amplamente comprovado na fase de instrução, que o trator envolvido no acidente estava sinalizado, trafegava em sua faixa de rolamento e com velocidade compatível, motivo pelo qual, não pode ser considerado obstáculo, inexistindo o que se falar em responsabilidade civil da Recorrente Vale Verde Empreendimentos Agrícolas.
+Apesar do recurso ficar adstrito a correta aplicação da norma, cumpre a Recorrente mencionar que, de acordo com as fotos anexadas ao laudo pericial oficial fl. 255, lavrado pela Polícia Técnico Científica, o trator envolvido no acidente possui cor amarela, possui faixas refletivas e ainda possui faróis/lanternas na parte dianteira e traseira.
+Não obstante o fato da máquina estar sinalizada e iluminada, o local do acidente é uma reta, não sendo este obstáculo capaz de causar o acidente.
+O trator, veículo de tamanho semelhante ao de um caminhão, devidamente sinalizado, trafegando dentro da sua faixa de rolamento, em velocidade compatível com a via, jamais pode ser considerado obstáculo.
+É fato incontroverso que o trator foi atingido na parte traseira, logo, independentemente se fosse um trator sinalizado ou caminhão sinalizado, o acidente aconteceria da mesma forma, pois o filho dos Recorridos, condutor do veículo VW Saveiro trafegava em velocidade muito acima da permitida, o que se comprova facilmente pelo estrago causado com a colisão e pela ausência de direção defensiva.
+ ..  Entende a Recorrente, que o Acórdão dá interpretação contrária ao que consta taxativo nos dispositivos acima citados, juntamente ao acervo das provas, pois inexiste ato ilícito praticado pela empresa.  ..  Com a devida venha, em um caso de tamanha complexidade, não pode, sob pena de cometer negativa de vigência ao texto acima citado, entender que a ausência de habilitação CNH, configura mera infração administrativa, pois, caso o condutor da Saveiro tivesse curso de direção defensiva e estivesse em velocidade moderada, óbvio que o acidente seria evitado.
+Sendo assim, requer maxima venha, que este D. Colegiado reforme o Acórdão, pois comprovado que a interpretação dada a legislação é divergente ao que foi produzido nos autos, principalmente que o trator, veículo de tamanho semelhante ao de um caminhão, devidamente sinalizado, trafegando dentro da sua faixa de rolamento, em velocidade compatível com a via, jamais pode ser considerado obstáculo, devendo os pedidos iniciais (danos materiais e danos morais), serem julgados totalmente improcedentes. (fls. 693-695).
+ ..  o Tribunal de origem se manifestou nos seguintes termos:
+Consta no laudo pericial de acidente de tráfego elaborado pela Superintendência de Polícia Técnico-científica juntado aos autos que o acidente assim ocorreu:
+"Depois de efetuado o levantamento pericial de local e analisadas as circunstâncias em que ocorreu o acidente, os Peritos concluem como sendo causa do mesmo, o fato do condutor da unidade V2 (TRATOR), trafegar de forma a constituir perigo ou obstáculo para os demais usuários da via e sem a devida sinalização regulamentar em sua unidade, tendo a região frontal de sua unidade impactada pela frontal da unidade V1 (VVV/SAVEIRO), e como fator contribuinte o fato do condutor de V1 (VVV/SAVEIRO) trafegar com velocidade indevida para o local causando com isso os efeitos trágicos do acidente, conforme descrito anteriormente.
+ ..  Nesse aspecto, o perito foi concludente ao afirmar que, a circunstância determinante, sem a qual o acidente não ocorreria, foi o fato do condutor do trator estar trafegando na pista de rolamento da rodovia, em condições irregulares de sinalização, e ausência de equipamentos obrigatórios, tendo, assim, violado os artigos 26 e 106 do Código de Trânsito Brasileiro, bem como a Resolução nº 14/98, alterada pela Resolução nº 454/13, ambas do CONTRAN.
+ ..  Assim, amparado nos elementos de prova, resta evidente que a causa determinante do evento danoso foi do motorista do trator, que trafegava na pista, em condições inadequadas, colocando em risco os demais motorista, estando configurado o acidente, o dano, e o nexo de causalidade, impondo-se o dever de indenizar.
+Registre que, muito embora na hipótese de colisão na traseira do veículo, em princípio, presuma-se a culpa daquele veículo que segue logo atrás, estamos diante de presunção relativa, podendo esta ser elidida quando há prova robusta e convincente em sentido contrário, como é o caso.
+Outro ponto, também a ser afastado, é referente a ausência de habilitação da vítima. Confira:
+ ..  Por todo o exposto em linhas volvidas, incontestável o direito dos autores em serem indenizados pelos abalos psíquicos decorrentes da perda prematura do filho (19 anos), causada pelo trágico acidente objeto da presente demanda, visto que o abalo moral, em tais circunstâncias, é presumido, consoante o entendimento jurisprudencial, reproduzido a seguir:  .. . (fls. 676-678).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Assim, não trazendo a parte recorrente nenhum fundamento capaz de desconstituir a decisão ora agravada quanto à incidência da Súmula 7/STJ, deve ela ser mantida nos termos em que proferida.
+Em face no exposto, nego provimento ao agravo interno.
+É como voto.
