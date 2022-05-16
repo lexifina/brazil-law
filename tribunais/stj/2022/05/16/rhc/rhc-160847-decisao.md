@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por HEITOR FERNANDES DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n.2250098-39.2021.8.26.0000.
+Consta nos autos que o Recorrente foi preso em flagrante delito no dia 03/09/2021, pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, em virtude da apreensão de um tijolo com 1002,5gde cocaína (fl. 170).
+Irresignada com a decisão que converteu a prisão em flagrante em preventiva, a Defesa impetrouhabeas corpusperante a Corte de origem, que denegou a ordem.
+Nas razões recursais, a Defesa alega, em síntese: a) que o decreto prisional não apresenta motivação idônea; b) que não se encontram presentes os requisitos autorizadores da segregação cautelar, previstos no art. 312 do Código de Processo Penal; c) a desproporcionalidade da custódia com eventual pena a ser aplicada em caso de condenação; d) a suficiência das medidas cautelares alternativas; e e) o Recorrente é portador de condições pessoais favoráveis.
+Requer, em liminar e no mérito, seja concedido ao Acusado o direito de responder à ação penal em liberdade, mediante a imposição de medidas cautelares diversas da custódia.
+O Ministério Público Federal manifestou-se às fls. 372-384, opinando pelo não conhecimento do recurso ordinário.
+É o relatório. Decido.
+Segundo as informações juntadas pelo Ministério Público Federal, houve a superveniência de julgamento da ação penal em epígrafe no dia 18/01/2022, tendo sido o Recorrente condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa.
+O Juízo sentenciante negou ao Apenado o direito de recorrer em liberdade nos seguintes termos (fl. 382): "O réu respondeu preso ao processo e preso deverá permanecer ainda que deseje recorrer desta sentença. em garantia da aplicação da lei penal e da manutenção da ordem pública, que se verá comprometida caso o traficante condenado venha a recorrer em liberdade, aplicando-se. ainda, a Súmula nº 9 do Colendo Superior Tribunal de Justiça".
+Assim, há novo título a respaldar a custódia cautelar do Recorrente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foramcomplementadaspelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, na qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal,in verbis: "Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta".
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foi agregada nova fundamentação, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantarem tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso II, alíneaa).
+Nesse sentido,mutatis mutandis:
+" ..
+1.A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTO AO DECRETO PRISIONAL PRIMITIVO. PREJUDICIALIDADE.  .. . AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, NESTA EXTENSÃO, DESPROVIDO.
+ ..
+2.In casu, da leitura da sentença condenatória, verifica-se que foram agregados novos fundamentosao decreto prisional primitivo, tendo em vista que mantida a segregação cautelar também em observação ao reconhecimento da responsabilidade criminal edevido ao fato do agravante ter permanecido preso durante toda a instrução processual.Os novos fundamentos devem ser submetidos perante ao Tribunal a quo antes de serem aqui analisados,sob pena de se incidir em indevida supressão de instância.
+ ..
+6. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido." (AgRg no HC 604.548/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/12/2020, DJe 03/12/2020; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO. IMPOSSIBILIDADE DE APRECIAÇÃO. PEDIDO RECURSALPREJUDICADO.
