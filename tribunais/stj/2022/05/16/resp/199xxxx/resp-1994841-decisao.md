@@ -1,0 +1,47 @@
+DECISÃO
+TIAGO LADEIRA AGOSTINHO (TIAGO) interpôs agravo de instrumento contra decisão que, em embargos à execução opostos por MARIA EVANGELINA PAVEL LADEIRA, assentou a negativa de impugnação sob o argumento da embargante de que efetuou depósito de parte do valor da nota promissória emitida em favor de TIAGO, complementada pordecisumque rejeitou os respectivos embargos de declaração(e-STJ, fls. 106/109 e 121/122).
+O agravo de instrumentofoi desprovidopelo Tribunal de Justiça de Minas Gerais, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - NOTA PROMISSÓRIA - PAGAMENTO PARCIAL DA DÍVIDA - ABATIMENTO DO VALOR DEVIDO - POSSIBILIDADE - ÔNUS DA IMPUGNAÇÃO ESPECÍIFICA - AUSÊNCIA - MANUTENÇÃO DA DECISÃO.
+Nos termos do art. 341 do CPC/2015, incumbe também ao réu manifestar-se precisamente sobre as alegações de fato constantes da petição inicial, presumindo-se verdadeiras as não impugnadas.
+Se o Agravante não rebateu a alegação da Agravada acerca do pagamento parcial da importância de R$ 10.000,00 (dez mil reais), efetuado através de depósito bancário em conta corrente daquele, deve ser mantida a decisão que determinou o abatimento de tal valor do total do empréstimo.(e-STJ, fl. 162)
+Os embargos de declaração interpostos por TIAGO foram rejeitados (e-STJ fls. 185/193).
+Inconformado, TIAGO interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 345, IV, 373, I, e 434 do NCPC e arts. 319 e 320 do vigente Código Civil, ao aduzir que, não tendo sido juntado aos embargos àexecução nenhum recibo do valor considerado como parte do pagamento da nota promissória, haveria indevida inversão do ônus probatório em seu desfavor quanto ao fundamento de que não teria impugnadoa existência de depósito de parcela do valor do título, além de não ter MARIA, autora da ação de embargos, se desincumbido do ônus de provar fato constitutivo de seu direito.Também indicou dissídio jurisprudencial, tendo porparadigma precedente do Tribunal de Justiça de Mato Grosso
+Em juízo de admissibilidade, a terceira vice-presidência do Tribunal mineiro admitiu o apelo nobre (e-STJ, fls. 242/245).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interpostocontra acórdão publicado na vigência do NCPC, razão pela qual devem serexigidos os requisitos de admissibilidade recursal na forma nele prevista,nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJna sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+TIAGO sustentou que, não tendo sido juntado aos embargos à execução nenhum recibo do valor considerado como parte do pagamento da nota promissória, haveria indevida inversão do ônus probatório em seu desfavor quanto ao fundamento de que não teria impugnado a existência de depósito de parcela do valor do título, além de não ter MARIA, autora da ação de embargos, se desincumbido do ônus de provar fato constitutivo de seu direito.
+O Tribunal mineiro consignouquea negativa de impugnação ao argumento da então embargante, ora recorrida, de que efetuou depósito de parte do valor da nota promissória emitida em favor de TIAGO acarretaria a presunção de veracidade da alegação, nos termos seguintes:
+Cinge-se a controvérsia a analisar o acerto da decisão que determinou o abatimento do valor equivalente a R$10.000,00 (dez mil reais) -depositado em conta corrente do Agravante.
+A concessão de efeito suspensivo ou de tutela provisória, em sede de Agravo de Instrumento, depende da demonstração de que a subsistência da decisão do juízo implica perigo de dano ou risco ao resultado útil do processo (periculum in mora).
+Na espécie, não se vislumbra, neste momento processual, os requisitos imprescindíveis ao deferimento da medida pleiteada pelo Agravante.
+O art. 341 do CPC/2015 consagrou o "ônus da impugnação específica", impondo ao Réu a obrigação de rebater, específica e pontualmente, todas as alegações de fato do Autor:
+"Incumbe também ao réu manifestar-se precisamente sobre as alegações de fato constantes da petição inicial, presumindo-se verdadeiras as não impugnadas, salvo se:
+I - não for admissível, a seu respeito, a confissão;
+II - a petição inicial não estiver acompanhada de instrumento que a lei considerar da substância do ato;
+III - estiverem em contradição com a defesa, considerada em seu conjunto.
+Parágrafo único. O ônus da impugnação especificada dos fatos não se aplica ao defensor público, ao advogado dativo e ao curador especial."
+(..)
+No caso, constam dos autos as notas promissórias demonstrativas da dívida da Agravada (doc. de ordem 06).
+Todavia, o Agravante não impugnou a alegação da Agravada acerca do pagamento de R$ 10.000,00 (dez mil reais) em depósito feito na conta bancária do primeiro.
+Conforme pontuou o JD Convocado Marcelo Pereira da Silva na decisão de doc. de ordem 41, "não tendo havido impugnação quanto à
+alegação feita na inicial, presume-se ser verdadeira. Por conseguinte, não há que se falar em probabilidade de seu direito acerca da integralidade do crédito".
+(..)
+Logo, se o Agravante não impugnou a declaração da Agravada sobre o pagamento parcial de R$ 10.000,00 (dez mil reais), efetuado através de depósito bancário na conta corrente daquele, deve ser mantida a decisão que determinou o abatimento de tal valor do total do empréstimo.(e-STJ, fls. 164/165, 165/166 e 167)
+Assim, tem-se que o aresto recorrido se encontra em desconformidade com precedentes desta Corte Superior, que trilharam a orientação de que, em se tratando de ação autônoma de impugnação, constitui ônus probatório do autor dos embargos à execução comprovar as suas alegações a fim de afastar a presunção de veracidade constante do título executivo, a teor das ementas adiante reproduzidas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LIQUIDEZ E CERTEZA DO TÍTULO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior possui firme o entendimento segundo o qual a ausência de impugnação do credor aos embargos à execução não é suficiente para elidir a presunção de veracidade consubstanciada no título judicial, não podendo ser reconhecido os efeitos da revelia em tal hipótese. Precedentes.
+2. As conclusões do Tribunal de origem no tocante à ausência de cerceamento de defesa; liquidez e certeza do título de crédito em execução; conduta do embargante que caracteriza comportamento contraditório (venire contra factum proprium); afastamento da alegação de prescrição em relação à segunda parcela, vencida em 30/05/2012; aplicação ao caso sub judice do prazo prescricional quinquenal previsto no inciso I, § 5º, do artigo 206 do Código Civil; cabimento, proporcionalidade e razoabilidade da multa aplicada; e inexistência de excesso de execução; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do acervo fático-probatório dos autos, e análise da relação contratual estabelecida entre as partes, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.358.615/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 10/12/2020, DJe 15/12/2020)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DO OFERECIMENTO DE RESPOSTA. ART. 740 DO CPC. DECRETAÇÃO DA REVELIA. IMPOSSIBILIDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DO COTEJO ANALÍTICO.
+1. A ausência do oferecimento de impugnação aos embargos à execução não induz os efeitos da revelia, já que cabe ao executado a comprovação quanto à ineficácia do título exequendo. Precedentes.
+2. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Ademais, ausente a similitude fática entre os casos confrontados.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 576.926/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 12/2/2015, DJe 26/2/2015)
+Nessas condições, DOU PROVIMENTO ao recurso especial para afastar a presunção de veracidade da alegação formulada por MARIA em embargos à execução de que houve o pagamento de R$ 10.000,00 (dez mil reais) em favor do recorrente com a finalidade de adimplir parcialmente o débito subjacente às notas promissórias ora executadas.
+Por oportuno, previno as partes que a interposição de recurso contra estadecisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. ALEGAÇÃO CONSTANTE DAS RAZÕES AUTORAIS QUE NÃO FORAM IMPUGNADAS ESPECIFICAMENTE PELA PARTE EMBARGADA. DECISÃO AGRAVADA E ARESTO RECORRIDO QUE ASSENTARAM CONSTITUIR ÔNUS DO EMBARGADO CONTESTAR DETALHADAMENTE. DESCONFORMIDADE COM PRECEDENTES DESTA CORTE SUPERIOR. ÔNUS PROBATÓRIO DO EMBARGANTE.RECURSO ESPECIAL PROVIDO.
