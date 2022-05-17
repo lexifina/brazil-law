@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE ALAGOAS contra decisão que negou admissibilidade a apelo em que se questiona a prescrição de fundo do direito à promoção de servidores militares do referido ente federativo.
+É o relatório. Decido.
+Não há óbices ao conhecimento da matéria, exclusivamentede direito,de ordem pública, e que está devidamente prequestionada.
+O Tribunala quodecidiu de modo contrário à jurisprudência consolidada desta Corte Superior ao revisar os atos promocionais na carreira dosservidores militaresapós os cinco anos de que trata o art. 1º do Decreto nº 20.910/1932.Cito (e destaco):
+ ..  esta Corte Superior possui entendimento firme de que, nas demandas em que se busca a revisão de ato de reforma de militar, com sua promoção a um posto superior e a revisão dos proventos de inatividade, a prescrição aplicável é a de fundo de direito, na forma do art. 1º do Decreto n. 20.910/1932, e não a prescrição das prestações anteriores ao quinquênio que antecedeu a data da propositura da ação (REsp 1882350/AM, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA,DJe 17/11/2020).
+ ..  nas ações em que o militar postula promoção por ressarcimento de preterição ocorre a prescrição do próprio fundo de direito, veja-se: AgInt no REsp n. 1.574.491/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 1º/7/2019, DJe 2/8/2019 e REsp n. 1.758.206/MA, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/9/2018, DJe 27/11/2018 (AgInt no REsp 1862264/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 03/09/2020).
+A promoção do militar configura ato concreto da Administração, a partir do qual começa a fluir o prazo prescricional, nos casos que a pretensão seja de retificar a data em que o aludido ato deva surtir efeito (REsp 1758206/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 27/11/2018).
+O ato impugnado, qual seja, a promoção tardia do impetrante, é ato comissivo (RMS 53.309/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 11/10/2017).
+A pretensão de se revisar ato de promoção, no curso da carreira militar, prescreve em cinco anos, nos termos do que dispõe o art. 1º do Decreto nº 20.910/32, ocorrendo assim a chamada prescrição do fundo de direito (AgRg nos EDcl no AREsp 250.265/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/02/2013; AgInt no AREsp 861.415/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2018, DJe 23/10/2018).
+Ante o exposto,conheço do agravo e douprovimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.SERVIDOR PÚBLICO. PROMOÇÃO TARDIA. ATO COMISSIVO. OMISSÃO ADMINISTRATIVA. AUSÊNCIA.REVISÃO DOS ATOS PROMOCIONAIS NO CURSO DA CARREIRA MILITAR. PRESCRIÇÃO DO FUNDO DE DIREITO.OCORRÊNCIA. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
