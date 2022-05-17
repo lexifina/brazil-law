@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Inicialmente, consigna-se que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas após 17 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a Corte de origem não admitiu o recurso especial ao fundamento de que "o entendimento consolidado na Súmula n. 283 do STF  .. , e bem assim aquele consolidado na Súmula n. 284 da Corte Suprema." (fls. 770-771, e-STJ).
+Ocorre que o agravante não impugnou, especificamente, os fundamentos da decisão agravada, o que acarreta o não conhecimento do agravo.
+Com efeito, esta Corte Superior possui entendimento pacífico segundo o qual incumbe ao agravante infirmar, especificamente, os fundamentos da decisão que não admitiu o processamento do recurso especial, o que, como visto, não ocorreu no caso, acarretando o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ademais, convém ressaltar, que o acórdão prolatado no Recurso Extraordinário 1.221.446/RJ - Tema 1.05 do STF, de Relatoria do Ministro Dias Toffoli, ao qual está vinculada a pet. 8.8002, transitou em julgado em 13/8/2021, ficando estabelecido, in verbis: "a) declarar a impossibilidade de concessão e extensão do "auxílioacompanhante" para todas as espécies de aposentadoria, com a fixação da seguinte tese: "No âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar ou ampliar benefícios e vantagens previdenciárias, não havendo, por ora, previsão de extensão do auxílio da grande invalidez a todas às espécies de aposentadoria"; b) modular os efeitos da tese de repercussão geral, de forma a se preservarem os direitos dos segurados cujo reconhecimento judicial tenha se dado por decisão transitada em julgado até a data deste julgamento; e c) declarar a irrepetibilidade dos valores alimentares recebidos de boa-fé por força de decisão judicial ou administrativa até a proclamação do resultado deste julgamento, (..).
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
