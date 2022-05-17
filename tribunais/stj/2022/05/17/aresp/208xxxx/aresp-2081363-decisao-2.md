@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto pelo MUNICÍPIO DE GOVERNADOR VALADAREScontra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, conforme a seguinte ementa:
+EMENTA: APELAÇÕES CÍVEIS - AÇÃO CIVIL PÚBLICA - PRELIMINAR DE JUSTIÇA GRATUITA - RECOLHIMENTO DO PREPARO - ATO INCOMPATÍVEL - REJEIÇÃO - PRELIMINAR DE CERCEAMENTO DE DEFESA - PREJUÍZO NÃO DEMONSTRADO - REJEIÇÃO - PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO - AFASTADA - PRORROGAÇÃO DE COMPETÊNCIA - ART. 65 DO CPC - PRECLUSÃO - PRELIMINAR DE COISA JULGADA - DEMANDAS DISTINTAS - AFASTADA - TERMO ADMINISTRATIVO DE CONCESSÃO DE DIREITO REAL DE USO DO TERRENO PÚBLICO - MÁ-FÉ - AUSÊNCIA DE DEMONSTRAÇÃO - INDENIZAÇÃO DAS BENFEITORIAS - POSSIBILIDADE - REGULARIDADE DO TERMO ADMINISTRATIVO - NÃO COMPROVAÇÃO - SENTENÇA MANTIDA.
+O recolhimento do preparo é ato incompatível com a afirmação do estado de pobreza, não sendo possível a concessão dos benefícios da gratuidade da justiça ao 2º apelante, restando configurada a preclusão lógica. Sabe-se que não há de ser declarada qualquer nulidade se ausente efetivo prejuízo.
+Desse modo, não tendo sido demonstrada a existência de prejuízo ao apelante pela ausência de intimação para apresentação de memoriais finais, não há que se declarar a nulidade da sentença.
+Não tendo sido alegado em preliminar de contestação a suposta prevenção do Juízo da 61 Vara Cível da Comarca de Governador Valadares, é de se reconhecera prorrogação da competência prevista no art. 65 do CPC, estando precluso o direito da parte de discutir a questão. Inexiste coisa julgada quando em uma ação se busca a reintegração de posse e na outra a nulidade do termo de concessão de direito real de uso de terreno público, tratando-se, portanto, de demandas distintas.
+Diante da ausência de má-fé pelo concessionário deve ser garantido o direito a indenização pelas benfeitorias, a teor do art. 1.219 do CC e, nos moldes do determinado pelo d. Magistrado a quo, devendo ser mantida a sentença recorrida.
+A previsão contida na Lei Orgânica do Município de Governador Valadares é clara no sentido de que as concessões realizadas em desacordo com o estabelecido no art. 92será nula de pleno direito, o que impossibilita o reconhecimento da regularidade do termo administrativo de concessão de direito real de uso do terreno público.
+Recursos não providos.
+Os embargos de declaração foram rejeitados.
+No recurso especial, oagravanteaponta violação dosarts. 1.219 e 1.220 do CPC/2015, insurgindo-se contra a determinação de indenização pelas benfeitorias úteis ao agravado, sob o argumento de que teria sido demonstrada a má-fé na ocupação do imóvel. Assevera (e-STJ, fl. 561):
+O Termo de Concessão foi realizado sem obediência aos trâmites administrativos e legais, com a finalidade única de beneficiar particulares, neste caso, as partes recorridas, o que comprova a má intenção das partes ora recorridas.
+Na própria sentença ficou evidenciado que "o imóvel foi indevidamente ocupado pelos particulares, que confessaram expressamente, na sua defesa, essa conduta, é área institucional e não poderia ter tal destinação".
+Verifica-se nos autos que os recorridos tinham conhecimento da irregularidade da concessão, agindo, nitidamente, de má-fé. Nunca participaram de um procedimento administrativo com juntada de documentos, bem como nãotiveram nenhum contato com o Chefe do Executivo para discutir o assunto abordado. Além disso, eles confessaram expressamente os fatos narrados.
+A má-fé é inconteste e, da leitura da legislação pátria, resta claro que a restituição dos montantes relativos à benfeitoria útil apenas se dá quando há boa-fé da parte.
+Houve contrarrazões.
+A inadmissão se deu por óbice da Súmula n. 7/STJ.
+É o relatório.
+Passo a decidir.
+Conheço do agravo, porquanto minimamente impugnados os fundamentos da decisão de inadmissão do recurso especial.
+Ao determinar a indenização pelas benfeitorias úteis efetuadas pelo agravado, o Tribunal de origem assim se pronunciou (e-STJ, fls. 488/489):
+Posto isso, da análise do conjunto probatório, verifica-se que não há indícios de má-fé pelo requerido, tendo ele acreditado que o Termo de Concessão de Direito Real de Uso de Terreno Público firmado com o Município de Governador Valadares naquele ato representado pelo Secretário Municipal de Planejamento se mostrava legitimo.
+Desse modo, diante da ausência de má-fé pelos requeridos deve ser garantido o direito a indenização pelas benfeitorias, a teor do art. 1.219 do CC e, nos moldes do determinado pelo d. Magistrado aquo, impondo-se o desprovimento do recurso interposto pelo 1º apelante e 30 apelante.
+Nesse cenário, a modificação das conclusões do acórdão recorrido, a fim de reconhecer a má-fé alegada pelo agravante, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TERMO ADMINISTRATIVO DE CONCESSÃO DE DIREITO REAL DE USO DO TERRENO PÚBLICO.MÁ-FÉ. AUSÊNCIA DE DEMONSTRAÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
