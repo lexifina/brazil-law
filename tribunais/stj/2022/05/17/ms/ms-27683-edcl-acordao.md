@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/05/2022 a 17/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão que negou provimento ao Agravo Interno nos termos abaixo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIA DE MILITAR. RECONHECIMENTO COM IDENTIFICAÇÃO DE BENEFÍCIO DE PENSÃO POR MORTE. POSTERIOR FALECIMENTO DO BENEFICIÁRIO. PROCEDIMENTO DE REVISÃO DA ANISTIA. IMPETRAÇÃO PROMOVIDA PELA IRMÃ DO ANISTIADO, PLEITEANDO A MANUTENÇÃO, EM SEU FAVOR, DA PENSÃO MENSAL POR MORTE, PERCEBIDA PELA PROGENITORA EM COMUM. ILEGITIMIDADE ATIVA. VERIFICAÇÃO IN STATUS ASSERTIONIS.
+1. A legitimação processual, aferida in status assertionis, pressupõe a demonstração, na petição inicial, de que o ordenamento jurídico, ao menos em tese, atribui determinado direito a quem deduz pretensão em juízo.
+2. Na hipótese dos autos, a agravante indica que a origem remota do benefício que pretende postular é a declaração de anistiado político post mortem de seu irmão. Em razão do contexto acima, o benefício da prestação mensal vinha sendo pago apenas em favor da progenitora do de cujus, a qual veio a falecer mais recentemente.
+3. Em consequência, a postulação feita nestes autos tem por finalidade assegurar a transmissão da pensão por morte de sua mãe, oriunda de anterior declaração de anistiado político post mortem.
+4. Este juízo instou a agravante a demonstrar os fundamentos jurídicos que embasariam o suposto direito a receber, por transmissão mortis causa, o benefício da pensão por morte que vinha sendo pago em favor de sua mãe, providência essa que não foi atendida pela parte, ensejando, consequentemente, a denegação da Segurança em razão da ilegitimidade ativa.
+5. A pretensão deduzida nestes autos não diz respeito ao pagamento da parcela retroativa, mas da prestação mensal consistente na pensão por morte de sua mãe (a qual tinha por origem remota a anistia concedida na forma da Lei 10.559/2002). É importante relembrar que a decisão monocrática, que ora se ratifica, não adentra o mérito - ou seja, não examina se há ou não o direito à transmissão da pensão por morte -, mas apenas afasta a legitimação ativa da agravante em virtude de esta não ter apresentado os fundamentos jurídicos correlacionados com a demonstração, in status assertionis, de que a legislação referente à anistia militar preveja a transmissão sine die, por mais de uma geração de sucessores, seja qual for o vínculo familiar, do benefício da pensão por morte.
+6. Agravo Interno não provido.
+A embargante afirma que há contradição no julgado com precedentes do STJ (não individualizados nas razões recursais) que teriam concedido a Segurança em favor dos herdeiros que buscavam restaurar a anistia em casos idênticos. Acrescenta que existe interesse do espólio de Arnaldo Nunes Rabelo, pois há as parcelas concernentes ao retroativo a serem buscadas, assim como diferenças salariais, ambas já reconhecidas em ações de conhecimento julgadas no Tribunal Regional Federal da 1ª Região. Reitera, por fim, que busca nesta demanda a anulação do ato administrativo que anulou a concessão da anistia, e não a transferência da pensão por morte.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7 de abril de 2022.
+Não se pleiteia, no presente recurso, a complementação ou esclarecimento do acórdão, para fins de correção a respeito de ponto supostamente omisso, obscuro ou contraditório.
+Por sinal, o vício da contradição, para os fins do art. 1.022 do CPC, pressupõe a demonstração da incoerência lógica entre os fundamentos e a conclusão adotada no julgado. No caso dos autos, tal defeito não está presente, pois a leitura do acórdão embargado demonstra que os fundamentos apontavam para o desacolhimento da pretensão veiculada no Agravo Interno, o que veio a acontecer de fato.
+De notar, portanto, que a alegação genérica de que o decisum não estaria em consonância com outros precedentes do STJ, referentes a situações supostamente idênticas, revela simples intenção de rediscussão do mérito do julgado, finalidade incompatível com os aclaratórios.
+Por fim, a própria argumentação da embargante revela a intenção manifesta de insistir no rejulgamento do Agravo Interno, utilizando-se, inclusive, de premissas incoerentes entre si, pois a afirmação de que há aspectos que evidenciam a existência de interesse processual do espólio, evidentemente, não a auxilia, na medida em que o Mandado de Segurança não foi por este impetrado, mas sim pela agravante, em nome próprio. Por mais esse motivo, subsistiria, de todo modo, sua ilegitimidade ativa.
+Não é demasiado relembrar que a decisão embargada deixou claro que a ilegitimidade processual ativa in status assertionis decorreu da completa ausência de indicação dos fatos e fundamentos jurídicos que dariam amparo à pretensão de deduzir em juízo, em nome próprio, pedido para restabelecimento da pensão por morte percebida por sua progenitora.
+Com essas considerações, rejeito os Embargos de Declaração.
+É como voto.
