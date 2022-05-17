@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, fundamentado, exclusivamente,naalínea"a"do permissivo constitucional.
+Recurso especial interposto em: 16/12/2020.
+Concluso ao gabinete em: 12/05/2022.
+Ação:de revisão contratual cumulada com reparação por danos materiais e compensação por danos morais ajuizada por PAULO MANOEL GAURIA, SUZANA SIDLAUSKAS GAURIA, em desfavor da recorrente e deQUALICORP ADMINISTRADORA DE BENEFÍCIOS S/A, em decorrência de reajustes por sinistralidade aplicados em contrato de plano de saúde coletivo.
+Sentença:julgou parcialmente procedentes os pedidos, para reconhecer a abusividade dos reajustes aplicados entre 2013 e 2016, bem como nos anos seguintes, com base no índice autorizado pela ANS para os planos individuais, bem como a devolução dos valores pagos a maior, observada a prescrição trienal.
+Acórdão:deu parcial provimento às apelações interpostas pelas demandadas, para reconhecer a abusividade do reajuste aplicado unicamente entre 2013 e 2016, nos termos da seguinte ementa:
+Apelação cível. Plano de saúde coletivo por adesão. Ação declaratória de abusividade de reajuste anual com base na sinistralidade e variação dos custos médico-hospitalares. Sentença de parcial procedência, determinando a substituição dos índices impugnados pelos percentuais autorizados pela ANS. Inconformismo das corrés.
+Ilegitimidade passiva suscitada pela administradora do plano de saúde. Desacolhimento. Administradora que integra a cadeia de fornecimento. Responsabilidade solidária. Aplicação do art. 7º, par. único do CDC. Preliminar rejeitada.
+Mérito. Previsão contratual de reajustes anual e por sinistralidade que, por si só, não é abusiva, não havendo que se cogitar, portanto, em nulidade das cláusulas correspondentes.
+Índice de reajuste anual. Inaplicabilidade, a priori, dos índices fixados pela ANS - Agência Nacional de Saúde Suplementar aos planos coletivos por adesão. Orientação da própria agência reguladora nesse sentido. Contudo, pelo simples fato de o reajuste financeiro anual ser válido, isso não autoriza a sua aplicação aos contratos coletivos de maneira desproporcional, ao alvedrio da operadora do plano de saúde. Beneficiário submetido a desvantagem exagerada, decorrente da incidência de índice excessivamente oneroso, o qual não se justifica, mormente em uma economia com inflação estabilizada Artigo 51, IV c. c. § 1º, III, da Lei nº 8.078/1990.
+Índice de reajuste por sinistralidade. Inexistência de qualquer base atuarial idônea para justificar o reajuste. Ausência de atendimento ao direito básico de informação adequada e clara ao consumidor. Artigo 6º, III do Código de Defesa do Consumidor. Abusividade dos reajustes, mantidos apenas os índices permitidos pela ANS. Direito da parte autora à restituição dos valores pagos a maior.
+Descabimento da pretensão de afastamento dos futuros reajustes anuais. Não compete ao Poder Judiciário dispor sobre evento futuro e de ocorrência incerta. Eventual abusividade de aumentos futuros que deve ser objeto de ação própria, se o caso.
+Recursos providos em parte para reconhecer a abusividade unicamente dos reajustes por sinistralidade e variação dos custos médico-hospitalares aplicados entre 2013 até o ajuizamento da ação (2016).
+Embargos de Declaração: opostos pela recorrente e pelos autores, foram rejeitados.
+Recurso especial: alega violação dos arts. 35-E, § 2º, da Lei n. 9.656/98, 478 do CC.Sustenta a legalidade dos reajustes aplicados, pugnando pela inaplicabilidade dos índices prescritos pela ANS para contratos individuais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da Súmula 568/STJ
+A Corte de origem, ao afastar o reajuste anual e determinar a aplicação dos índices adotados pela ANS para os contratos individuais e familiares, decidiu em desacordo com a jurisprudência do STJ, firme no sentido de que é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS. Nesse sentido: AgInt no AREsp 1201808/SP, 3ª Turma, DJe 27/03/2019; AgInt no AREsp 1155520/SP, 4ª Turma DJe 15/02/2019; e REsp 1729320/SP, 3ª Turma, DJe 09/08/2018.
+Assim, merece reforma o acórdão recorrido, para, reconhecida a abusividade do reajuste aplicado sem expressa previsão do índice, afastar a aplicação dos índices de reajuste regulados pela ANS para os contratos individuais/familiares, e determinar que a Corte de origem apure o índice de reajuste razoável para o contrato em tela.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para determinar que a Corte de origem apure o índice de reajuste aplicável ao contrato.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PLANO DE SAÚDE COLETIVO. REAJUSTES ANUAIS. POSSIBILIDADE. ÍNDICES AUTORIZADOS PELA ANS PARA PLANOS INDIVIDUAIS/FAMILIARES. INAPLICABILIDADE. SÚMULA 568/STJ.
+1. Ação de revisão contratual cumulada com reparação por danos materiais e compensação por danos morais, em decorrência dereajuste por sinistralidade em contrato de plano de saúde coletivo.
+2. É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS. Precedentes.
+3. Recurso especial conhecido e provido.
