@@ -1,0 +1,153 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/05/2022 a 17/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.141/1.167) interposto contra decisão desta relatoria que não conheceu dos embargos de divergência.
+Sustenta a agravante que os embargos de divergência seriam cabíveis, pois a jurisprudência do STJ não teria se consolidado no sentido de ser ônus apenas da estipulante de seguro em grupo informar aos segurados os termos da apólice.
+Ao final, pleiteia a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+A parte agravada, intimada, apresentou impugnação, requerendo a aplicação de multa (e-STJ fls. 1.170/1.178 e 1.180/1.184).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SEGURO EM GRUPO. DEVER DE INFORMAÇÃO. ÔNUS DA ESTIPULANTE. ACÓRDÃO EMBARGADO CONFORME JURISPRUDÊNCIA RECENTE. DECISÃO MANTIDA.
+1. O acórdão embargado encontra-se em consonância com o entendimento mais recente de ambas as Turmas que compõem a Segunda Seção, no sentido de que apenas a estipulante do seguro coletivo tem a obrigação de comunicar aos segurados as limitações da apólice. Precedentes.
+2. Os embargos de divergência " têm  por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum" (AgInt nos EREsp 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+3. Incidência da Súmula n. 168 do STJ, segundo a qual, "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+4. Agravo interno a que se nega provimento.
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.850.134 - SC (2019/0349745-5)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+LUCI MARA DE TOLEDO MAUS
+ADVOGADOS
+:
+FABIANA ROBERTA MATTANA CAVALLI - SC016109
+MAYARA MARINA MATTANA - SC033493
+AGRAVADO
+:
+MAPFRE VIDA S/A
+ADVOGADOS
+:
+PAULO BENTO FORTE JÚNIOR - SC016944
+DEBORAH SPEROTTO DA SILVEIRA - SC027808
+AGRAVADO
+:
+COMPANHIA DE SEGUROS ALIANÇA DO BRASIL
+ADVOGADO
+:
+MARCELO RAYES - SP141541
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.132/1.138):
+Trata-se de embargos de divergência interpostos contra acórdão da Terceira Turma deste Tribunal Superior assim ementado (e-STJ fls. 981/982):
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVER DE INFORMAR. CORREÇÃO DE RUMOS DA ORIENTAÇÃO QUE VINHA SENDO ENDOSSADA POR ESTA TURMA. DEVER QUE SE AFIGURA EXCLUSIVAMENTE DO ESTIPULANTE, NA CONDIÇÃO DE REPRESENTANTE DO GRUPO DE SEGURADOS, POR OCASIÃO DA EFETIVA ADESÃO DO SEGURADO. DOENÇA OCUPACIONAL OUE NÃO SE COMPRAZ COM IFPD OU IFPA.
+1. Esta Corte Superior vinha reconhecendo que o dever de informação em relação às cláusulas dos seguros de vida em grupo seria também da seguradora.
+2. No entanto, recentemente, quando do julgamento do REsp 1.825.716/SC, este Colegiado levou a efeito uma correção de rumos nas decisões sobre a matéria, decidindo que, no contrato de seguro coletivo em grupo cabe exclusivamente ao estipulante, e não à seguradora, o dever de fornecer ao segurado (seu representado) ampla e prévia informação a respeito dos contornos contratuais, no que se inserem, em especial, as cláusulas restritivas." (REsp 1825716/SC, Rei. Ministro MARCO AURÉLIO BELLIZZE. TERCEIRA TURMA, julgado em 27/10/2020, DJe 12/11/2020.)
+3. AGRA VO INTERNO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 983/986).
+Defende a embargante a existência de dissenso jurisprudencial entre o aresto embargado e o entendimento firmado pela Quarta Turma do STJ a respeito da obrigação de comunicação ao segurado sobre as cláusulas restritivas da apólice de seguro em grupo.
+Eis os julgados apresentados para fins de comprovação do suscitado dissenso:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. SEGURADORA. NECESSIDADE. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência desta Corte, "a seguradora deve sempre esclarecer previamente o consumidor e o estipulante (seguro em grupo) sobre os produtos que oferece e existem no mercado, prestando informações claras a respeito do tipo de cobertura contratada e suas consequências, de modo a não induzi-los em erro" (AgInt no REsp 1.644.779/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe de 25/08/2017).
+2. Tendo a Corte local assinalado que o dever de informação acerca dos termos do seguro cabia à estipulante do seguro, e não à seguradora, está justificada a reforma do acórdão atacado para determinar que aquele verifique eventual falha no cumprimento desse dever, a fim de se adequar ao entendimento do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.842.559/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 31/3/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. DOENÇA OCUPACIONAL. EQUIPARAÇÃO A ACIDENTE PESSOAL. DEVER DE INFORMAÇÃO DA SEGURADORA. NECESSIDADE DE RETORNO DOS AUTOS. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência desta Corte, a seguradora tem o dever de prestar informações ao segurado, mesmo nos contratos de seguro de vida em grupo. Tal responsabilidade não pode ser transferida integralmente à estipulante, eximindo a seguradora.
+2. Impõe-se, no caso, o retorno dos autos ao Tribunal de origem para que examine se foi adequadamente observado o dever de informação por parte da seguradora.
+3. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp 1.848.053/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 2/4/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. Nos termos da jurisprudência desta Corte, a seguradora tem o dever de prestar informações ao segurado, mesmo nos contratos de seguro de vida em grupo. Precedentes de ambas Turmas de Direito Privado.
+2. Tal responsabilidade não pode ser transferida, eximindo a seguradora, integralmente à estipulante, pois essa, segundo o artigo 801, § 1º, do Código Civil, "não representa o segurador perante o grupo segurado, e é o único responsável, para com o segurador, pelo cumprimento de todas as obrigações contratuais".
+3. Agravo interno desprovido.
+(AgInt no REsp 1.835.185/SC, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe 27/11/2019.)
+Sustenta a parte embargante que seria indevida a restrição de cobertura securitária que não foi previamente informada ao consumidor pela seguradora, não sendo ônus exclusivo da estipulante comunicar o segurado sobre os termos contratuais.
+Assim, postula o provimento dos embargos.
+Em um primeiro momento, os presentes embargos foram admitidos (fls. 1.057/1.059).
+A parte embargada, intimada, apresentou impugnação (e-STJ fls. 1.062/1.074 e 1.075/1.111).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 1.119/1.130).
+É o relatório.
+Decido.
+Preliminarmente, a jurisprudência desta Corte admite que o relator, monocraticamente, não conheça dos embargos de divergência, mesmo depois de ter admitido tais embargos em exame perfunctório. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. AÇÃO COLETIVA AJUIZADA POR ASSOCIAÇÃO. EFEITOS DA SENTENÇA. COMPETÊNCIA TERRITORIAL DO JUÍZO PROLATOR DA DECISÃO. PARADIGMA QUE DEIXOU DE APLICAR A LIMITAÇÃO INSCULPIDA NO ART. 2º-A, CAPUT, DA LEI N.º 9.494/97, EM RAZÃO DE O AJUIZAMENTO DA AÇÃO TER SIDO ANTERIOR À ENTRADA EM VIGOR DA NORMA EM TELA, ALÉM DE HAVER COISA JULGADA EM RELAÇÃO AO ALCANCE SUBJETIVO DA SENTENÇA. SITUAÇÕES FÁTICO-JURÍDICAS DESSEMELHANTES. DISSÍDIO JURISPRUDENCIAL INDEMONSTRADO. EMBARGOS DE DIVERGÊNCIA AOS QUAIS SE NEGA SEGUIMENTO. DECISÃO MANTIDA EM SEUS PRÓPRIOS TERMOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O fato de ter havido, em juízo prelibatório, inicial admissibilidade do processamento dos embargos de divergência não obsta que o Relator, em momento posterior, com base no art. 557 do Código de Processo Civil, negue seguimento ao recurso em decisão monocrática.
+2. O acórdão embargado negou provimento ao recurso especial interposto pela ASSECAS, consignando o entendimento, baseado em precedentes desta Corte, no sentido de que "a sentença proferida em ação coletiva somente surte efeito nos limites da competência territorial do órgão que a proferiu e exclusivamente em relação aos substituídos processuais que ali eram domiciliados à época da propositura da demanda." 3. No paradigma, não houve incidência da limitação determinada no art. 2º-A, caput, da Lei n. 9.494/97, porque, naquele caso, o ajuizamento da ação antecedeu à entrada em vigor do mencionado artigo e, além disso, havia coisa julgada em relação ao alcance subjetivo da sentença exequenda. E nenhuma dessas hipóteses foi discutida no acórdão embargado.
+4. Inexiste, pois, similitude fático-jurídica entre os casos comparados, razão pela qual se mostra inviável a demonstração do arguido dissídio.
+5. Agravo regimental desprovido.
+(AgRg nos EREsp 1.307.178/CE, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 13/3/2014, DJe 25/3/2014.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO EMBARGOS DE DIVERGÊNCIA. CONTRIBUIÇÕES DESTINADAS AO SESC E SENAC. EMPRESA PRESTADORA DE SERVIÇOS DE VIGILÂNCIA. VINCULAÇÃO À CONFEDERAÇÃO NACIONAL DO COMÉRCIO - CNC. POSSIBILIDADE DE RECONSIDERAÇÃO DA DECISÃO QUE INICIALMENTE ADMITIU OS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. "O Regimento Interno desta Corte, em seu art. 266, § 3º, possibilita ao relator indeferir monocraticamente os embargos de divergência, ainda que tenham sido inicialmente admitidos. Precedentes." (AgRg nos EREsp 594.218/SP, Rel. Ministro Felix Fischer, Corte Especial, DJ 8/11/07)
+2. Para que se configure a divergência jurisprudencial é indispensável que os julgados confrontados revelem soluções jurídicas distintas extraídas de contextos fáticos assemelhados, o que não ocorreu na hipótese dos autos.
+ ..
+4. Agravo regimental a que se nega provimento.
+(EREsp n. 1.124.653/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 19/2/2015.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. COTEJO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. NÃO DEMONSTRADA. RECURSO ESPECIAL NÃO CONHECIDO POR AUSÊNCIA DE PRESSUPOSTOS DE ADMISSIBILIDADE. DIVERGÊNCIA QUANTO AO MÉRITO DA CONTROVÉRSIA. EXAME. IMPOSSIBILIDADE.
+- Pode o Relator indeferir monocraticamente os embargos de divergência, ainda que tenham sido anteriormente admitidos.
+- Não se conhece dos embargos pela divergência, se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto nos artigos 266, § 1º, c/c 255, § 2º, do RISTJ.
+- Não se conhece da divergência entre julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de óbice processual, e acórdão que adentrou ao mérito da demanda.
+- Embargos de divergência indeferidos liminarmente. (AgRg nos EAREsp n. 23.139/MA, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 17/6/2013.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DECISÃO UNIPESSOAL QUE NEGA SEGUIMENTO AO RECURSO APÓS O JUÍZO DE ADMISSIBILIDADE. CABIMENTO. REDISCUSSÃO DA LIDE. TESES EM HARMONIA. REAJUSTES NO DISPOSITIVO. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. A decisão de admissibilidade, de cognição sumária, além de examinar a prévia conformação dos embargos de divergência em recurso especial com seus requisitos legais e regimentais, permite, ou não, que a parte embargada apresente impugnação. Superada esse fase, passa-se ao exame do recurso em caráter definitivo, hipótese em que o relator, em cognição exauriente, pode decidi-lo monocraticamente, com base no art. 557 do CPC, ou incluir o feito em pauta, para julgamento pelo órgão colegiado.
+2. A circunstância de o relator haver admitido os embargos de divergência para processamento não impede que, posteriormente, atento aos ditames do art. 557, caput, do CPC proceda ao julgamento monocrático do recurso, em caráter definitivo.
+3. Não se pode falar em superação da fase de conhecimento dos embargos de divergência quando há mera admissão para processamento. Tanto o relator quanto o órgão colegiado podem rever os requisitos de admissibilidade, sem que se comprometam os princípios da legalidade, do devido processo legal e da ampla defesa.
+4. Os embargos de divergência não se prestam para rediscutir a lide, de modo a proceder a determinados ajustes no dispositivo do acórdão embargado, tendo em vista a extensão do pedido formulado e a forma como a tutela jurisdicional fora concedida, considerando que, no caso em exame, ambos os acórdãos convergem no sentido de ser incabível o exame de mérito em embargos à execução intempestivos.
+5. Agravo regimental não provido. (AgRg nos EREsp n. 875.618/SP, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 1º/2/2013.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE. NEGATIVA DE SEGUIMENTO. COMPETÊNCIA DO RELATOR.
+1. Os embargos de divergência requisitam que, sobre uma mesma base fática, se atribua solução normativa diferente.
+2. A jurisprudência do Superior Tribunal de Justiça é firme em que o Regimento Interno desta Corte autoriza o Relator a indeferir monocraticamente os embargos de divergência, ainda que tenham sido inicialmente admitidos mediante análise superficial.
+3. Agravo regimental improvido. (AgRg nos EREsp n. 651.563/ES, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, DJe de 12/5/2010.)
+Ademais, os embargos de divergência são recursos voltados para a uniformização de entendimento entre órgãos fracionários distintos do STJ. Dessa forma, tendo a jurisprudência se uniformizado no mesmo sentido do acórdão embargado, tornam-se incabíveis os embargos de divergência (Súmula n. 168/STJ).
+No presente caso, constata-se que a matéria consolidou-se no âmbito da Segunda Seção do STJ, na mesma orientação do acórdão recorrido. Com efeito, o acórdão impugnado, da Terceira Turma, seguindo a recente tendência jurisprudencial do STJ, reconheceu que apenas a estipulante de seguro coletivo tem a obrigação de informar aos beneficiários as limitações da apólice (e-STJ fls. 847/898).
+No âmbito da Quarta Turma, em que pese haver precedentes mais antigos que afirmam a responsabilidade também da seguradora pelo cumprimento do direito de informação dos segurados, atualmente, nos autos do REsp n. 1.850.961/SC, em sessão de julgamento do dia 15/6/2021, ocorreu uma mudança de entendimento, a fim de consolidar orientação no mesmo sentido da Terceira Turma, alterando a antiga jurisprudência e admitindo-se que apenas a estipulante do seguro coletivo tem a obrigação de comunicar aos segurados sobre as limitações da apólice. Confira-se:
+RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. ESTIPULANTE. REPRESENTANTE DOS SEGURADOS. RESPONSABILIDADE DE PRESTAR INFORMAÇÕES AOS ADERENTES. INVALIDEZ PARCIAL. DOENÇA OCUPACIONAL. RISCO EXCLUÍDO NA APÓLICE COLETIVA. IMPROCEDÊNCIA DO PEDIDO.
+1. No seguro de vida em grupo, o estipulante é o mandatário dos segurados, sendo por meio dele encaminhadas as comunicações entre a seguradora e os consumidores aderentes.
+2. O dever de informação, na fase pré-contratual, é satisfeito durante as tratativas entre seguradora e estipulante, culminando com a celebração da apólice coletiva que estabelece as condições gerais e especiais e cláusulas limitativas e excludentes de riscos. Na fase de execução do contrato, o dever de informação, que deve ser prévio à adesão de cada empregado ou associado, cabe ao estipulante, único sujeito do contrato que tem vínculo anterior com os componentes do grupo segurável. A seguradora, na fase prévia à adesão individual, momento em que devem ser fornecidas as informações ao consumidor, sequer tem conhecimento da identidade dos interessados que irão aderir à apólice coletiva cujos termos já foram negociados entre ela e o estipulante.
+3. Havendo cláusula expressa afastando a cobertura de invalidez parcial por doença laboral, a ampliação da cobertura para abranger o risco excluído, e, portanto, não considerado no cálculo atuarial do prêmio, desequilibraria o sinalagma do contrato de seguro.
+4. Recurso especial não provido.
+(Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/6/2021, DJe 31/8/2021.)
+Portanto, no atual contexto, as duas turmas que compõem a Segunda Seção desta Corte manifestaram posicionamento convergente sobre a mesma questão.
+Evidencia-se, desse modo, que o decidido no julgado embargado corresponde à jurisprudência atual do STJ.
+Cabe destacar que, nos embargos de divergência, não se admite a alteração do contexto fático-processual objeto de exame pela Turma, pois é recurso que "tem por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum (..)" (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+Ante o exposto, NÃO CONHEÇO dos embargos de divergência.
+Publique-se e intimem-se.
+O acórdão embargado encontra-se em consonância com o entendimento de ambas as Turmas que compõem a Segunda Seção, no sentido de que apenas a estipulante do seguro coletivo tem a obrigação de comunicar aos segurados as limitações da apólice. A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. DEVER DA ESTIPULANTE DE BEM INFORMAR OS SEGURADOS. DOENÇA OCUPACIONAL. COBERTURA. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 932 do CPC/2015 combinado com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. "Conforme recentes julgamentos proferidos por ambas as Turmas de Direito Privado deste STJ, nos casos de seguro de vida em grupo, o dever de prestar informações ao segurado, na fase de execução do contrato, é da estipulante." (AgInt no AREsp 1719532/SC, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 04/10/2021, DJe 08/10/2021) 3. Incumbe à estipulante a obrigação de prestar informações ao segurado (consumidor) sobre os termos, condições gerais e cláusulas limitativas de direito estabelecidos no contrato de seguro de vida em grupo, constituindo-se esse dever em pressuposto lógico da aceitação da proposta de adesão pelo interessado. Inteligência do artigo 3º, inciso III, da Resolução CNSP 107/2004.
+4. De outro lado, a seguradora "tem o dever de informar ao estipulante as bases gerais do contrato a ser celebrado - valores do prêmio e das indenizações, número mínimo de segurados que deverão aderir à apólice, riscos cobertos, extensão, conteúdo e exclusões, bem assim outras informações pertinentes - a fim de que, após celebrada a avença mestre, sejam tais elementos submetidos previamente pelo estipulante às pessoas interessadas em aderir à apólice, bem como, formado o grupo segurado, para comunicar aos aderentes a ocorrência de eventual inadimplência pelo estipulante, conforme estabelece o artigo 8º da Resolução CNSP 107/2004" (REsp 1.850.961/SC, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15.6.2021).
+5. No caso, o Tribunal de origem concluiu - em dissonância com o atual entendimento do STJ - que competia à seguradora o dever de informação ao segurado sobre as condições gerais e cláusulas restritivas do contrato de seguro de vida em grupo.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 1.960.828/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/4/2022, DJe 19/4/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. CONTRATAÇÃO. SEGURADO. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. EXCLUSIVIDADE. ESTIPULANTE. GARANTIAS SECURITÁRIAS. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE (IPA). NÃO ENQUADRAMENTO. INDENIZAÇÃO SECURITÁRIA. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.
+ ..
+3. A Terceira Turma do Superior Tribunal de Justiça consagrou o entendimento de que o dever de prestar informação prévia ao segurado a respeito das cláusulas limitativas/restritivas nos contratos de seguro de vida em grupo é somente do estipulante, devendo ser feita uma distinção quanto ao seguro de vida individual, dada a dinâmica da contratação, visto que neste, especificamente, incumbirá ao segurador e ao corretor bem informar o segurado.
+4. No seguro de vida em grupo, quando o segurado adere à apólice coletiva, não há nenhuma interlocução da seguradora, ficando a formalização da adesão restrita a ele e ao estipulante.
+5. Na hipótese, rever o entendimento da Corte local, que, com base em laudo pericial e na interpretação contratual, concluiu que a invalidez do autor (doença ocupacional) não se enquadrava na definição securitária de invalidez funcional (IFPD) ou na de invalidez por acidente (IPA), afastando a indenização pleiteada, esbarra nos óbices das Súmulas nºs 5 e 7/STJ por ensejar o reexame de fatos e provas e a mera interpretação de cláusula contratual, procedimentos vedados na via do recurso especial.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no REsp 1.841.540/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/2/2022, DJe 2/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. COBERTURA. CLÁUSULA RESTRITIVA. DEVER DA ESTIPULANTE DE BEM INFORMAR OS SEGURADOS.
+1. Incumbe à estipulante a obrigação de prestar informações ao segurado (consumidor) sobre os termos, condições gerais e cláusulas limitativas de direito estabelecidos no contrato de seguro de vida em grupo, constituindo-se esse dever em pressuposto lógico da aceitação da proposta de adesão pelo interessado. Inteligência do artigo 3º, inciso III, da Resolução CNSP 107/2004.
+2. De outro lado, a seguradora "tem o dever de informar ao estipulante as bases gerais do contrato a ser celebrado - valores do prêmio e das indenizações, número mínimo de segurados que deverão aderir à apólice, riscos cobertos, extensão, conteúdo e exclusões, bem assim outras informações pertinentes - a fim de que, após celebrada a avença mestre, sejam tais elementos submetidos previamente pelo estipulante às pessoas interessadas em aderir à apólice, bem como, formado o grupo segurado, para comunicar aos aderentes a ocorrência de eventual inadimplência pelo estipulante, conforme estabelece o artigo 8º da Resolução CNSP 107/2004" (REsp 1.850.961/SC, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15.6.2021).
+3. Malgrado a jurisprudência desta Corte preconize que os microtraumas sofridos pelo trabalhador - quando exposto a esforços repetitivos no ambiente laboral - incluem-se no conceito de "acidente pessoal" definido no contrato de seguro, verifica-se que, na hipótese, as incapacidades derivadas de "doença profissional" (como a que acomete a autora) foram expressamente excluídas da cobertura por "Invalidez Permanente Total ou Parcial por Acidente" (IPA).
+4. Assim, não se mostra recomendável eventual interpretação elastecida do risco assumido - no qual se baseia o cálculo do prêmio -, notadamente quando não vislumbrada quebra do dever de boa-fé contratual nem deficiência informacional na relação havida entre estipulante e seguradora.
+5. Outrossim, não comporta acolhida a insurgência autoral que contraria a orientação desta Corte no sentido de não ser abusiva "a cobertura securitária de Invalidez Funcional Permanente Total por Doença (IFPD) condicionada à constatação de incapacidade decorrente de doença que cause a perda da existência independente do segurado, vale dizer, a irreversível inviabilidade do pleno exercício de suas relações autonômicas (artigo 17 da Circular SUSEP 302/2005)" (REsp 1.449.513/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 05.03.2015, DJe de 19.03.2015).
+6. Agravo interno da seguradora provido para negar provimento ao recurso especial da segurada.
+(AgInt no REsp 1.877.051/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/9/2021, DJe 27/9/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA EM GRUPO. 1. SOLIDARIEDADE PASSIVA. RECURSO INTERPOSTO POR UM DOS LITISCONSORTES QUE A TODOS SE APROVEITA. 2. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTE. 3. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 4. DEVER DE INFORMAÇÃO DA ESTIPULANTE. PRECEDENTE ESPECÍFICO. 5. DOENÇA OCUPACIONAL. AUSÊNCIA DE COBERTURA SECURITÁRIA CONCLUSÃO FUNDADA NA APRECIAÇÃO DOS ELEMENTOS FÁTICO-PROBATÓRIOS E DE TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. 6. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 7. AGRAVO IMPROVIDO.
+1. Com efeito, havendo solidariedade passiva, o recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos seus interesses, nos termos do art. 1.005 do CPC/2015.
+2. Segundo o entendimento do Superior Tribunal de Justiça, "a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019).
+3. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+4. O entendimento mais recente da Terceira Turma do STJ é de que compete à estipulante, e não à seguradora, no contrato de seguro coletivo em grupo, fornecer ao segurado ampla e prévia informação a respeito dos contornos contratuais, mormente sobre as cláusulas restritivas.
+5. Não há como acolher a pretensão recursal com vistas a modificar a conclusão exarada pelo Tribunal de origem (acerca da ausência de cobertura securitária) sem que se proceda ao reexame dos aspectos fáticos da causa e, notadamente, à interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+6. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+7. Agravo interno improvido.
+(AgInt no AgInt nos EDcl no REsp 1.859.672/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/9/2021, DJe 23/9/2021.)
+Logo, os embargos de divergência " têm  por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum" (AgInt nos EREsp 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+Incide a orientação da Súmula n. 168 do STJ, segundo a qual, "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+Em tais circunstâncias, as razões deduzidas pela recorrente não se mostram suficientes para ensejar a reforma da decisão impugnada.
+Indefiro o pedido da parte agravada, de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou protelatória a justificar tal sanção.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
