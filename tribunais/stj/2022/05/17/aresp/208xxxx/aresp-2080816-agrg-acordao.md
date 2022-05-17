@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO SIMPLES. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADIMITIU O RECURSO ESPECIAL. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial.
+III -Para afastar o óbice da Súmula 7/STJ, cabe a Defesademonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+IV - Esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DAVID WILLIAN MACEDO GUIMARAES, contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, porquanto a parte não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial (fls. 410-411).
+Consta nos autos que o agravante foi condenado pela prática do crime previsto no artigo 180, caput, do Código Penal, à reprimenda de 01 (um) ano e 03 (três) meses de reclusão, em regime inicialmente semiaberto, e de 39 (trinta e nove) dias multa (fls. 236-249).
+Irresignada, a Defesa apelou, o eg. Tribunal de Justiça do Estado do Paraná, por unanimidade de votos, conheceu parcialmente do recurso e deu-lhe parcial provimento, reduzindo, na segunda fase da dosimetria, a fração de aumento relativa a agravante da reincidência para 1/6, resultando na pena definitiva de 01 (um) ano e 02 (dois)meses de reclusão, a ser cumprida em regime inicialmente semiaberto, e de 11 (onze) dias-multa(fls. 326-327).
+Interposto o recurso especial, com fundamento no art. 105, incisoIII, alíneas ae c, da Constituição Federal, a defesa sustenta que o acórdão recorrido violou os artigos 33, §3º, 33,§2º, alínea ce 180, caput, Código Penal, além do artigo 386, incisos V e VII do Código de Processo Penal, ao argumentode que a conduta imputada ao recorrente é atípica, "o recorrente adquiriu, comprou o veículo de terceira pessoa e o utilizava de boa-fé, tendo pagãopelo carro o valor de mercado, desconhecendo sua origem ilícita, até porque é cediço que "clonagem"em veículos é de dificílima constatação, até pelas autoridades públicas, restando claro que o recorrente na verdade foi vítima de um golpe" (fl. 358), além disso o regime inicial de cumprimento de pena foi fixado sem a devida fundamentação.
+Apresentadas as contrarrazões (fls. 364-368), o recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice das Súmulas 7 e 83, ambas do STJ (fls.370-374).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 380-393). Contraminuta às fls. 396-399.
+Nesta Corte, o agravo em recurso especialnão foi conhecido, porquanto a parte não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial (fls. 410-411).
+Neste regimental (fls. 414-421), o agravante afirma haver impugnado corretamente todos os fundamentos da decisão recorrida.
+Requer, portanto, a reconsideração da decisão agravada para que seja examinado e provido o apelo nobre ou o encaminhamento dos autos ao Colegiado para análise da matéria.
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo interno (fls. 430-435).
+Por manter o decisum, trago o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO SIMPLES. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADIMITIU O RECURSO ESPECIAL. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial.
+III -Para afastar o óbice da Súmula 7/STJ, cabe a Defesademonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+IV - Esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos da agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados parte dos fundamentos empregados pela eg. Corte de origem para inadmitir o recurso, emrelação àsSúmulas 7/STJ e 83/STJ.
+Nas razões do agravo em recurso especial, o agravante limitou-se a deduzir naquilo que interessa à espécie (fls. 387-388):
+"Destarte, temos que o Recurso Especial manejado não provoca o reexame do conjunto probatório, porquanto para a conclusão da negativa de vigência à Lei Federal basta se constatar se houve violação das regras definidoras da antijuricidade da conduta no sistema penal, sem qualquer análise fática, afastando-se a vedação contida no Enunciado nº 07 da Súmula deste Superior Tribunal de Justiça.
+Nesse sentido, não se busca o reexame do conjunto probatório ou rediscussão sobre as provas trazidas aos autos, uma vez que resta claro no presente caso que a discussão é apenas jurídica e não fática, razão pela qual o óbice à ascensão recursal por suposta infringência a Sumula 7dessa Corte não pode prosperar, devendo ser retificado por este Colendo Superior Tribunal de Justiça.
+ ..
+Nobre Ministro(a), apesar da fundamentação constante na r. decisão agravada, temos que a matéria foi objeto de análise pela Corte de origem, restando comprovado a existência de dissenso jurisprudencial, razão pela qual o óbice à ascensão recursal por suposta infringência a Sumula 83 dessa Corte é inadequado, devendo ser retificado por este Colendo Superior Tribunal de Justiça."
+Assim, verifica-se que a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir, genericamente, que foram preenchidos todos os requisitos para apreciação do recurso especial.
+Não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+No caso,deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, bem comocomprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+Com efeito: "esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+"Também é pacífico o entendimento neste Pretório no sentido de que o Enunciado n. 83 da Súmula do STJ se aplica aos recursos especiais interpostos tanto pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgRg no AREsp n. 1.241.318/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/04/2018).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
