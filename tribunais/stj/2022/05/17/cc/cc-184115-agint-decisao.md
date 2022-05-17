@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravointernointerpostopelo MUNICÍPIO DE BARRA BONITAcontra decisão de minha lavra,e-STJ fl. 33,em que declarei competente para a causa o Juízo da 2ª Vara do Trabalho de Jaú/SP, sob o fundamento de que "conforme consta nas razões do Juízo Estadual, o regime adotado pelo ente municipal para os servidores que ocupam cargo comissionado é o celetista - Lei n. 117/2014".
+Sustenta a parte agravante a natureza jurídico-administrativa do vínculo decorrente da contratação.
+Aduz, ainda, que a "há decisão pela ADI nº 2098696- 76.2019.8.26.0000 que tramita no E. Tribunal de Justiça do Estado de São Paulo, decidiu pela inconstitucionalidade da Lei Complementar Municipal nº 151/2018 (que revogou a LCM n. 122/2014) nos dispositivos que permitam a existência de emprego público de provimento em comissão em contrariedade ao art. 115, II da Constituição do Estado" (e-STJ fl. 42).
+Requerem, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Passo a decidir.
+No exame da questão, verifico que assiste razão à parte agravante.
+A autora, contratada para exercer o cargo de confiança de Assessora da Secretaria Municipal de Saúde junto ao ente municipal,manejou reclamação trabalhista, postulando direito da estabilidade do emprego em razão do reconhecimento da doença laboral (e-STJ fl. 8).
+Extrai-se dos autos que o Tribunal de Justiça do Estado de São Paulo, julgando procedente a ADI n.2098696-76.2019.8.26.0000,entendeu que o "regime da Consolidação das Leis do Trabalho não se afigura consentâneo com a forma de provimento em comissão, adotada até mesmo expressamente pelo §1º do artigo 3º da Lei Complementar Municipal nº 151/2018, de Barra Bonita" (e-STJ fl. 58), bem como que "a cessação do provimento de posto comissionado é medida discricionária orientada pelos critérios de conveniência e oportunidade da Administração Pública, de modo que o regime celetista é claramente incompatível com o provimento em comissão, disposto constitucionalmente, repete- se, apenas para cargos públicos" (e-STJ fl. 60).
+Diante disso, não há que sefalar em vínculo com o regime celetista, classificandoa relação existente entre a parte autora e o ente municipal como de caráter jurídico-administrativo, o que acaba por atrair a competência da Justiça comum.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 32/33, e, com arrimo no art. 955, parágrafo único, II, do CPC/2015, DECLARO competente o JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE BARRA BONITA/SP, ora suscitante
+Publique-se. Intimem-se.
