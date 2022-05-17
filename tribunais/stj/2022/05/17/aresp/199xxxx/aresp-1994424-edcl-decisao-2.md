@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MERCEDES-BENZ DO BRASIL LTDA. contra decisão singular, desta relatoria, que não conheceu do agravo em recurso especial, em razão da incidência, por analogia, da Súmula n. 182 do Superior Tribunal de Justiça (e-STJ fls. 749/753).
+Aduz que há contradição a ser sanada, nos termos do artigo 1.022, I, do Código de Processo Civil de 2015, conforme abaixo elucidado (e-STJ fls. 759/760):
+ ..
+De plano, a Embargante destaca que o presente recurso é manejado com vistas a se evitar qualquer prejuízo futuro, tanto da parte Embargante quanto da Embargada, no que se refere aos honorários advocatícios que foram arbitrados.
+Adiante, verifica-se que por ocasião do julgamento do Recurso de Apelação, o Tribunal a quo determinou que "Pelo trabalho adicional realizado em grau recursal, nos termos do § 11, do art. 85, do novo CPC/2015, a verba honorária sucumbencial devida pela ré ao patrono dos autores deve ser ainda majorada para 10% sobre o valor atualizado da causa (R$ 130.023,37 f. 20)".
+Com a prolação da decisão monocrática Vossa Excelência determinou que "Em face do exposto, não conheço do agravo, porquanto não atacados especificamente os fundamentos da decisão agravada e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo".
+A Embargante informa que antes mesmo de ter sido proferida a presente decisão, as partes já estavam em tratativas de negociação para eventual composição, todavia por ocasião da disponibilização da decisão uma divergência se instalou: os honorários advocatícios seriam acrescidos com mais 10% ou seria aplicado 10% sobre o valor anteriormente arbitrado  A questão encontra divergência entre as partes.
+O que temos, em verdade, é que a dupla interpretação que foi gerada pode gerar um lucro / prejuízo significativo para uma das partes. Com a permissa vênia, a Embargante entende que a Decisão proferida é extremamente clara, especialmente porque não coloca nenhum fator de soma, mas, sim, de multiplicação sobre o que já se encontra arbitrado.
+Neste cenário, considerando que houve o arbitramento dos honorários advocatícios na razão de 10% sobre o valor atualizado da causa e que Vossa Excelência majorou em 10% o montante já arbitrado, temos como certo que aos Embargados, Autores, terão direito a 11% sobre o valor atualizado da causa. Temos que considerar que teríamos um cenário contrário se encontrássemos uma redação indicando somatória, ou seja, "majoro em mais 10% o valor anteriormente arbitrado" ou qualquer outro indicativo de adição, todavia não é o caso.
+De fato, a Embargante não manejaria os embargos em questão se não houvesse a controvérsia instalada, especialmente porque entende que a redação é clara em apenas indicar que sobre os 10% anteriormente arbitrado incidiriam mais 10%  ..
+Por esse Prisma, Excelência, não pairam dúvidas que inexiste qualquer possibilidade em considerarmos que o percentual tenha passado de 10% para 20%, tal qual como entende a parte adversa, vez que a decisão monocrática não deixa lastro para tal situação.
+ ..
+Transcorreu in albis o prazo para impugnação, conforme certidões de fls. 771/772 (e-STJ).
+Os embargos foram opostos tempestivamente.
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+De acordo com o artigo 1.022 do estatuto processual civil de 2015, cabe a oposição de embargos de declaração para: (i) esclarecer obscuridade ou eliminar contradição; (ii) suprir omissão de ponto ou questãosobre qual devia se pronunciar o juiz de ofício ou a requerimento; e (iii) corrigir erro material.
+No caso, a decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seu dispositivo, a seguir transcrito (e-STJ fl. 753):
+ ..
+Em face do exposto, não conheço do agravo, porquanto não atacados especificamente os fundamentos da decisão agravada e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+ ..
+Cumpre ressaltar que o dispositivo atinente aos honorários está claramente explicitado na decisão embargada, no sentido de que será aplicado o percentual de 10% (dez por cento) sobre os 10% (dez por cento) fixados pelo Tribunal de origem (e-STJ fl. 534), o que perfaz 11% (onze por cento) sobre o valor da causa.
+Ademais, constatada apenas a discordância da embargante com o deslinde da controvérsia, não ficou demonstrada efetiva contradição a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Conclui-se, portanto, que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita. Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
