@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por ASTRANS - ASSOCIAÇÃO DOS TRANSPORTADORES DE SETE LAGOAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. SENTENÇA QUE RECONHECE A ILEGITIMIDADE PASSIVA DO REQUERIDO. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. ART. 485, VI DO CÓDIGO DE PROCESSO CIVIL. CONJUNTO PROBATÓRIO QUE DEMONSTRA QUE À ÉPOCA DO SINISTRO O VEÍCULO JÁ HAVIA SIDO ALIENADO A TERCEIRO. AUSÊNCIA DE REGISTRO DE TRANSFERÊNCIA QUE POR SI SÓ NÃO É SUFICIENTE PARA RECONHECER A RESPONSABILIDADE DO RÉU. INTELIGÊNCIA DA SÚMULA 132 DO STJ. IN APLICABILIDADE DOS ARTS. 338 E 339 DO CPC. DISCUSSÃO QUE FOI DIRIMIDA APENAS QUANDO DO JULGAMENTO DO FEITO. INVERSÃO DO ÔNUS SUCUMBENCIAL À LUZ DO PRINCÍPIO DA CAUSALIDADE. NÃO CABIMENTO DE HONORÁRIOS RECURSAIS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia, alega violação dos arts. 134 do CTB; 339 e 373, II, do CPC; e dos Princípios da Legalidade e do Devido Processo legal; no que concerne à responsabilidade pelo acidente e trânsito ocorrido; à não desicumbência do ônus probatório e ausência de indicação do sujeito passivo da demanda pelo recorrido. Colaciona os seguintes argumentos:
+A ausência de comunicação de venda de veículo junto ao DETRAN, conforme estabelece o art. 134 do CTB, faz com que o antigo proprietário se responsabilize solidariamente pelos danos decorrentes de acidente de trânsito, e para que seja afastada a responsabilidade, caberia ao recorrido não só fazer prova documental da venda do veículo, como comprovar a efetiva tradição antes do acidente.
+ ..
+Nos termos do art. 373, incumbia ao recorrido o ônus da prova quanto a existência de fato impeditivo, modificativo ou extintivo do direito da recorrente, ônus do qual não se desincumbiu, eis que a única prova produzida por aquele consiste no seu depoimento e de seus filhos  na qualidade de informantes, a qual, não obstante não comprove a venda do veículo, bem como a ocorrência da tradição, não se pode dar validade, eis que seus filhos logicamente possuem manifesto interesse no êxito de seu genitor.
+ ..
+Ainda, o recorrido não cumpre com o estabelecido no art. 339 do CPC, na medida em que não indica o sujeito passivo da relação jurídica.
+ ..
+Dessa maneira, data vênia, é indevido o acolhimento pelo juiz da ilegitimidade passiva do réu, já que este não indica o sujeito passivo da demanda, mesmo tendo  supostamente  realizado alienação de seu veículo para este.
+Tal situação reforça ainda mais a evidencia de que não houve efetivamente a venda do automóvel, sendo o recorrido o atual proprietário do bem. Dessa forma, conclui-se que a decisão recorrida viola o CTB e CPC, notadamente pelo fato de que não ocorreu o preenchimento dos requisitos necessários para concretização da venda do bem. E não ocorrendo tal alienação, continua o recorrido responsável pelos danos causados pelo veículo de sua propriedade.
+ ..
+Outrossim, a se admitir válidas as conclusões esposadas no acórdão recorrido, haverá claro desrespeito, por via reflexa, ao princípio constitucional de legalidade, que corresponde ao elo de sujeição ou subordinação das pessoas, órgãos e entidades às leis. (fls. 378).
+Outrossim, não observar o que dispõe o Código de Processo Civil afronta o princípio do devido processo legal, que no entendimento de Amendoeira Jr (2012) tem como função tutelar o direito dos jurisdicionados (fls. 374-379).
+É, no essencial, o relatório. Decido.
+Na espécie, não é cabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Nesse sentido: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios". (AgInt no AREsp n. 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.304.346/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 08/4/2019; AgRg no REsp 1.135.067/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 09/11/2015.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+3.11. Ora, os documentos juntados aos autos e os depoimentos colhidos em audiência de instrução demonstram que quando da ocorrência do sinistro, o veículo já havia sido vendido.
+ ..
+3.13. Não se olvida que a legislação específica exige que o antigo proprietário informe o órgão competente sobre a alienação de veículo, sob pena de responder de forma objetiva e solidária pelas infrações cometidas pelo atual proprietário, nos moldes do art. 134 do CTB.
+ ..
+3.14. No entanto, o Superior Tribunal de Justiça tem mitigado a referida norma, quando comprovado nos autos a transferência do veículo em momento anterior aos fatos geradores das infrações, vejamos:
+ ..
+3.16. Deste modo, demonstrada a alienação do veículo em momento anterior ao acidente de trânsito, o antigo proprietário não detém legitimidade passiva, razão pela qual escorreita a decisão que extinguiu o feito, sem resolução do mérito (art. 485, VI, do CPC).
+3.17. Anote-se, por fim, que a extinção do feito ocorreu não pelo acolhimento de preliminar de ilegitimidade passiva em contestação, mas pela não comprovação da titularidade do requerido sobre o bem.
+ ..
+4. À vista disso, deve ser mantida a decisão que reconheceu a ilegitimidade passiva do réu/apelado, vez que embora o veículo esteja em seu nome, restou comprovado que a alienação ocorreu antes do sinistro (fls. 332335-, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes, bem como à responsabilidade pelo evento danoso e regularidade do pólo passivo da demanda, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
