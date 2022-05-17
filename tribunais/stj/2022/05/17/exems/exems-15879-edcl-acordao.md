@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/05/2022 a 17/05/2022, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de embargos de declaração de fls. 114-116 opostos por SEBASTIÃO ALVES MACIEL contra acórdão ementado nos seguintes termos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 817.338/DF (TEMA 839). SUSPENSÃO DO FEITO EXECUTIVO ATÉ DESFECHO DO PROCEDIMENTO REVISIONAL DA ANISTIA INSTAURADO PELA UNIÃO, QUE DEVERÁ SER CONCLUÍDO NO PRAZO FIXADO PELA DECISÃO AGRAVADA, SOB PENA DE RETOMADA DO TRÂMITE PROCESSUAL. AGRAVO IMPROVIDO.
+1. Consoante decidiu o Supremo Tribunal Federal, no bojo do RE 817.338/DF (Tema 839), submetido à sistemática da repercussão geral, ainda que decorrido o prazo decadencial de 05 (cinco) anos, mostra-se possível à Administração Pública instaurar procedimento de revisão das anistias concedidas a cabos da Aeronáutica com fundamento na Portaria nº 1.104-GM3/1964, desde que comprovada a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, na via administrativa, o devido processo legal e a não devolução das verbas recebidas.
+2. O sobrestamento do feito executivo até a conclusão do procedimento de revisão da anistia política, instaurado à luz da orientação adotada pela Excelsa Corte, de especial eficácia vinculativa, não ofende o princípio constitucional da razoável duração do processo, tendo em vista que foi fixado o prazo de 180 (cento e oitenta) dias para a UNIÃO concluir pela invalidade, ou não, do aludido ato anistiador na esfera administrativa.
+3. Agravo interno improvido.
+O embargante alega, em síntese, que na decisão embargada, não ficou claro "se o prazo de 180 dias será contado em dias corridos ou em dias úteis e se, este prazo de 180 dias por se específico, se conta em dobro ou não".
+Requer sejam acolhidos os embargos.
+Intimada para eventual manifestação, a embargada pugnou pela rejeição dos embargos. Aduziu que: (a) "a parte alega obscuridade/omissão, mas na verdade busca alterar a decisão embargada, com nítidos efeitos infringentes"; (b) "a forma de contagem desses dias se opera por determinação de lei, mais especificamente, do art. 219 do CPC"; e (c) "não se pode (..) alterar a decisão para fixação em dias corridos".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ESCLARECIMENTO SOBRE CONTAGEM DO PRAZO PARA CONCLUSÃO DO PROCEDIMENTO REVISIONAL DA PORTARIA DE ANISTIA. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Fixado no acórdão embargado o prazo de 180 (cento e oitenta) dias para conclusão do procedimento revisional da portaria de anistia, deve ser observado o disposto no art. 219, caput, do CPC, segundo o qual "na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis". Outrossim, tratando-se de prazo fixado por este colegiado de magistrados e direcionado à UNIÃO, descabe cogitar-se, nesse caso, de prazo em dobro.
+2. Embargos de declaração acolhidos, sem efeitos modificativos, apenas para fins de esclarecimento.
+VOTO
+Fixado no acórdão embargado o prazo de 180 (cento e oitenta) dias para conclusão do procedimento revisional da portaria de anistia, deve ser observado o disposto no art. 219, caput, do CPC, segundo o qual "na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis" (grifou-se).
+Outrossim, tratando-se de prazo fixado por este colegiado de magistrados e direcionado à UNIÃO, descabe cogitar-se, nesse caso, de prazo em dobro.
+Diante do exposto, voto por acolher os embargos de declaração, sem efeitos modificativos, apenas para fins de esclarecimento.
