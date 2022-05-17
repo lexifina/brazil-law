@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelaUNIÃOcontra decisão que inadmitiu o recurso especial ao argumento de ausência de vício de fundamentação, alinhamento do acórdão à jurisprudência desta Corte, incidência da Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial) e aplicação de tese vinculante de repercussão geral(e-STJ, fls. 837-845).
+A parte agravante sustenta: i) carência de fundamentação e usurpação de competência pela decisão de inadmissibilidade; ii) ausência de jurisprudência consolidada acerca da cumulatividade da indenização administrativa decorrente de anistia com danos morais e materiais; e iii) ausência de fundamentação acerca da incidência da Súmula 7/STJ(e-STJ, fls. 850-862). Anota anuir com a negativa de seguimento do feito quanto à tese vinculante.
+É o relatório.
+O recurso não comporta conhecimento.
+Das razões expendidas, verifica-se que a parte insurgente não impugnou os fundamentos da decisão que inadmitiu o recurso especial.
+Aagravante não impugnou devidamente a incidência da Súmula 7/STJ, deixando de demonstrar que o exame da pretensão recursal prescindiria do revolvimento dos elementos fático-probatórios da controvérsia.
+Também deixou de atacar a assertiva da origem acerca da ausência de fundamentação do acórdão, bem como sobre o alinhamento jurisprudencial quanto à imprescritibilidade da ação reparatória na hipótese.
+Ainda, quanto à suposta falta de consolidação pretoriana da tese de cumulatividade entre as parcelas discutidas, a decisão impugnada colacionou julgados desta Corte datados de 2015 e 2016. A tentativa de impugnação fundada em um único acórdão julgado em 2012 não tem o condão de desconstituir a conclusão da origem, sendo imprescindível que a parte aponte decisões no mínimo contemporâneas aos paradigmas adotados pela origem para questionar a pacificação do entendimento ali afirmada.
+Por múltiplos ângulos, portanto, a impugnação é deficiente.
+Desse modo, forçosa é a incidência do disposto no art. 932, III, do CPC (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca especificamente os fundamentos da decisão agravada, nos seguintes termos:
+Art. 932. Incumbe ao relator: ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;  .. .(grifo acrescido)
+Ademais, consoante o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito:
+ .. 3. Conforme reiterada jurisprudência desta Corte, nos termos do art. 544, § 4º, I, do CPC/1973, o conhecimento do agravo em recurso especial está condicionado à impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao apelo nobre, sejam eles autônomos ou não. Precedentes. ..
+(EDcl no AREsp n. 419.689/ES, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 8/6/2016).
+Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp n. 880.709/PR, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, Terceira Turma, relator Ministro Paulo de Tarso Sanseverino, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, Quarta Turma, relator Ministro Luis Felipe Salomão, DJe de 12/4/2016; AgRg no REsp n. 1.575.325/SC, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe n. 1º/6/2016; e AgRg nos EDcl no AREsp 743.800/SC, Sexta Turma, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/6/2016.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
