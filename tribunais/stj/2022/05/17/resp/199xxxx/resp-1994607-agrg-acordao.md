@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por R S M contra a decisão monocrática, de minha lavra, assim ementada (fl. 8.256):
+RECURSO ESPECIAL. JÚRI. PRONÚNCIA. NEGATIVA DE VIGÊNCIA DOS ARTS. 413 DO CPP E 121, § 2º, IV, DO CP. USO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. EXCLUSÃO DA QUALIFICADORA PELO TRIBUNAL A QUO. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO TRIBUNAL DO JÚRI. RESTABELECIMENTO.PRECEDENTES DESTA CORTE.
+Recurso especial provido nos termos do dispositivo.
+Nas razões, aduziu que a decisão agravada inobservou o teor da Súmula 7/STJ, pois apretensão da Procuradoria Geral da Justiça, acolhida na decisão agravada, é justamente a discussão a respeito da existência de elementos fáticos a respeito da qualificadoraprevista no art. 121,§ 2º, IV, do Código Penal, providência inviável em sede de recurso especial (fl. 8.275).
+Alegou, ainda, que o elemento sopesado para atrair a qualificadora, qual seja, o"emprego de golpe conhecido por ser perpetrado por detrás da vítima (retaguarda)" já foi considerado para fins de aplicação da qualificadora prevista no art. 121, § 2º, IV, do CP, segundo a qual a pena será agravada quando a conduta tiver sido perpetrada com emprego de asfixia, circunstância que, sob sua perspectiva, implica em inadmissívelbis in idem(fl. 8.277).
+Ainda nesse aspecto, asseverou que,em razão de a referida circunstância já ter ensejado a aplicação de outra qualificadora, qual seja, a prevista art. 121, § 2º, III, do CP, a Procuradoria Geral da Justiça do Estado do Paraná sequer a utilizou tal circunstância para fins de argumentação no que tange à incidência da qualificadora prevista no art. 121, § 2º, IV, do CP, limitando-se a utilizar a circunstância pessoal de superioridade física como argumento no seu Recurso Especial(fl. 8.279).
+Por fim,sustentou queo fato da vítima ter porte físico inferior ao do Recorrido, por si só, não configura a qualificadora referente ao emprego de recurso que dificulte a defesa da suposta vítima (art. 121, § 2º, IV, do CP), pois tal qualificadora trata de emprego de "recurso", ou seja, meio ou expediente utilizado pelo agente, semelhantes, por interpretação analógica, "à traição, emboscada, ou dissimulação" - circunstâncias previstas na primeira parte do inciso - que dificulte a defesa da vítima. E quenão é narrado na Denúncia qualquer fato demonstrativo de que o Recorrido teria agido com o intuito, elemento subjetivo diverso do dolo, de dificultar ou impossibilitar a defesa da vítima, exigido para a caracterização do tipo derivado previsto no art. 121, § 2º, IV, do Código Penal(fls. 8.282/8.283).
+Pugnou, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. JÚRI. PRONÚNCIA. NEGATIVA DE VIGÊNCIA DOS ARTS. 413 DO CPP E 121, § 2º, IV, DO CP. USO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. EXCLUSÃO DA QUALIFICADORA PELO TRIBUNAL A QUO. IMPOSSIBILIDADE. APTIDÃO JURÍDICA DOS ELEMENTOS REFERENCIADOS NO ACÓRDÃO ATACADO PARA INCIDÊNCIA DA QUALIFICADORA NA SUA FÓRMULAGENÉRICA.RESTABELECIMENTO. BIS IN IDEM. IMPROCEDÊNCIA. DECISÃO AGRAVADA MANTIDA.
+Agravo regimental improvido.
+VOTO
+Ao contrário do que alega o agravante, o pleito deduzido no recurso especial ministerialnão encontra óbice na Súmula 7/STJ, pois a teseveiculada naquele recurso parte da própria moldura fática delineada nos acórdãos atacados, ou seja, não demanda o reexame dematéria fático-probatória.
+Em caso análogo, esta Corte assim decidiu:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. MOTIVO FÚTIL. UTILIZAÇÃO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. MANIFESTA IMPROCEDÊNCIA NÃO VERIFICADA NA HIPÓTESE. SUBMISSÃO DA MATÉRIA AO TRIBUNAL DO JÚRI. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA.
+1. Ao contrário do sustentado pelo agravante, no caso, não houve necessidade de incursão no acervo probatório dos autos, para se concluir pela violação aos arts. 413, caput e § 1º, do Código de Processo Penal e 121, § 2º, II e IV, do Código Penal, uma vez que a situação fática já estava delineada no acórdão recorrido. Não há que se falar, portanto, na incidência da Súmula n. 7/STJ.
+2. Com efeito, as qualificadoras do motivo fútil e da utilização de recurso que dificultou a defesa da vítima foram indevidamente afastadas, pois o Tribunal de origem não demonstrou sua manifesta improcedência. Ora, de fato, "somente se admite a exclusão das qualificadoras, na sentença de pronúncia, quando manifestamente improcedentes, o que, na espécie, de acordo com a moldura fática delineada no aresto, não se permite concluir" (AgRg no AREsp n. 753.249/PR, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/6/2016, DJe 17/6/2016).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.384.084/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/8/2020)
+Também não prospera o argumento defensivo de que o pleito ministerial, no sentidode reconhecimento da qualificadora do art. 121,§ 2º, IV, do CP, está calcado apenas nana superioridade física do agravante em relação à vítima.
+Veja-se que, no recurso especial, o órgão ministerial aludiu a todo o contexto fático delineado no acórdão atacado,notadamente omodus operandisupostamente empregado no crime (golpe conhecido como "mata-leão") associado à flagrante desproporcionalidade física verificada entre o agravante e a vítima (acentuada pela debilidade da vítima) -, para sustentar a tese de que há indícios suficientes para submissão da qualificadora em questão ao Conselho de Sentença (fls. 7.900/7.901):
+ ..
+Enfim: o tema recursal diz com estabelecer se, para o suporte de fato admitido no acórdão reprochado - a conduta do pronunciado em desferir golpe de mata-leão na vítima que impossibilitou qualquer possibilidade de defesa e reação somente foipossível mediante a sua superioridade física e a debilidade da vítima no momento do cometimento do crime - é possível excluir da pronúncia, na etapa do judicium accusationis, a imputação referente à qualificadora do artigo 121, § 2º, inciso IV, do Código Penal, sem que com isso se viole o disposto no artigo 413 do Código de Processo Penal.
+ ..
+No mérito, a decisão também deve ser mantida.
+A orientação jurisprudencial sedimentada nesta Corte é no sentido de que as qualificadoras do crime de homicídio só podem ser excluídas da decisão de pronúnciase forem manifestamente improcedentes, isto é, quandocompletamente destituídas de amparo nos autos, sendo vedado nessa fase valorar as provas para afastar peremptoriamentea imputação concretamente apresentada pelo Ministério Público, sob pena de se usurpar o pleno exame dos fatos do juiz natural da causa, qual seja, o Tribunal do Júri (HC n. 138.177/PB, de minha relatoria, Sexta Turma, DJe 28/8/2013).
+No caso, a moldura fática delineada nos acórdãos hostilizados indica a existência de indíciosmínimos que indicam a possibilidade daprática de crime de homicídio perpetrado mediante oemprego de golpe conhecido como "mata-leão" e em circunstâncias de flagrante desvantagem física (fls. 7.652, 7.658,7.660 e 7.665 - grifo nosso):
+ ..
+Não assiste razão ao apelante, vislumbra-se mensagens da vítima para com o acusado (mov. 137.9 dos Autos de nº 1076-98.2015.8.16.0006),dias antes de sua morte a mesma afirmou ao acusado que estaria pesando 51kg:
+ ..
+ ..
+Pelos depoimentos existem indícios que após o início do relacionamento de R. M. D. M com R. S. M , a mesma se distanciou de seus amigos, diminuiu sua carga de trabalho, se tornou dependente afetiva, economicamente e socialmente do acusado.
+A vítima passou a apresentar quadro depressivo, deixando toda sua vida e questões à responsabilidade do acusado Aliado a essa dependência,existem indícios que o acusado agredia fisicamente a vítima, na análise de mensagens do celular e computador da vítima e do acusado(mov. 137 - Autos nº 1076-98.2015.8.16.0006), R. S. M apagou algumas mensagens e fotografias que indicam a agressão praticada por ele contra R. M. D. M.
+ ..
+ ..
+O depoimento da informante M (mov. 838.3) também é muito importante, pois é ex namorada do acusado e alega que este já a agrediu, que a medicava, que R. S. M aafastou de seus amigos e que já aplicou o golpe do mata-leão nela a fazendo desmaiar.
+ ..
+ ..
+Em que pese o conteúdo do laudo de necropsia indique a como sendo em decorrência causa mortis de traumatismo crânio encefálico por conta da queda livre da vítima do 31º andar,os laudos complementares são uníssonos no sentido de quea morte ocorreu anteriormente a queda e se deu por asfixia mecânica por compressão extrínseca do pescoço, os depoimentos dos peritos corrobora tal tese.
+ ..
+Tal o contexto, a exclusão da qualificadora(art. 121, § 2º, IV, do CP), no caso,afigura-se indevida.
+Ora, não obstantea desvantagem física, por si só, não caracterize insídia, ou seja, meio dissimulado apto a reduzir a capacidade de defesa da vítima, é certo que tal circunstância,associadaao emprego de golpe conhecido por serperpetrado por detrás da vítima (retaguarda), ostenta aptidão, ainda queteórica, para atrair a qualificadora em questão (art. 121,§ 2º, IV, do CP) na pronúncia, a fim de que seja submetida ao Conselho de Sentença.
+Acerca da interpretação eamplitudeda figura genérica prevista nareferida qualificadora,destaco a doutrina de NUCCI:
+ ..
+34. Outro recurso que dificulte ou torne impossível a defesa da vítima: ao generalizar, fornecendo de antemão os exemplos, deixa a lei penal bem claro que o objetivo desta qualificadora é punir mais severamente o agente que, covardemente, mata o ofendido. Traindo-o, emboscando-o ou ocultando suas verdadeiras intenções, está prejudicando ou impedindo qualquer reação de sua parte, que se torna presa fácil. Entretanto, há possibilidade de surgirem outros aspectos dessa modalidade pusilânime de agir, o que permite o encaixe na figura genérica. Exemplo disso seria atacar quem está dormindo ou embriagado. Nesta ótica: TJRS: Rec. Sent. Estrito 70017174426, Santa Rosa, 1.a C., rel. Ranolfo Vieira, 29.11.2006, v.u.
+ ..
+(NUCCI, Guilherme de Souza. Código de Processo Penal Comentado. 17ª ed.Rio de Janeiro: Forense, 2017, epub)
+Não há falar embis in idem, ante a inexistência de identidade entre os elementos sopesados para aqualificadora em questão e aquela prevista no art. 121,§ 2º, III, do CP.
+Ora, a incidência da qualificadora doart. 121, § 2º, III, do CP, no caso, está calcada na existência de indícios de que o crime possa ter sido cometido por asfixia, elemento esse diverso daqueles que subsidiaram a incidência da qualificadora doart. 121, § 2º, IV,do CP, a saber:existência de indícios de que o crime possa ter sido perpetrado na retaguarda da vítima e em circunstancia de flagrante desproporcionalidade física.
+Ante o exposto, nego provimento ao agravo regimental.
