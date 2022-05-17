@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de EDNALDO LOPES DE SANTANA, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 179-183):
+"AGRAVO DE EXECUÇÃO PENAL Tráfico de Entorpecentes Fração para progressão Delito equiparado a hediondo, com reflexos na fração exigida para a progressão de regime mesmo após a recente alteração legislativa Jurisprudência do e. STJ Recurso desprovido."
+Daí o presente habeas corpus, no qual a d. Defesa sustenta que o lapso imposto pelo eg. Tribunal de origem para a progressão de regime dependeria de reincidência específica em crime hediondo.
+Alega que a Lei nº 13.964/2019 é norma penal posterior mais benéfica.
+Requer a concessão da ordem, inclusive LIMINARMENTE, com a retificação dos cálculos da execução pena, para a progressão de regime. No mérito, a confirmação da liminar, com a ordem definitiva.
+Liminar indeferida (fls. 190-192).
+Informações, às fls. 196-214.
+O d. Ministério Público Federal manifestou-se, às fls. 218-222, em r. parecer, peladenegação do writ, nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDENTE ESPECÍFICOEM CRIME EQUIPARADO A HEDIONDO. TRÁFICO DEDROGAS. APLICAÇÃO DA FRAÇÃO DE 3/5 (60%). ART.112, INCISO VII, DA LEP. CONSTRANGIMENTO ILEGALNÃO EVIDENCIADO.
+1. O não cabimento de habeas corpus substitutivo de recurso especial se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ, e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordem vindicada.
+2. O paciente é reincidente específico em crime equiparado a hediondo, tendo sido anteriormente condenado também pela prática de tráfico de drogas (art. 33 da Lei nº 11.343/06).
+3. Descabida a discussão acerca da extensão da previsão contida no art. 112, inciso VII, da Lei de Execução Penal -incluída pela Lei nº 13.964/2019 -, uma vez que inexiste controvérsia quanto à aplicação do percentual de 60% (3/5) aos condenados reincidentes específicos em crime hediondo ou equiparado, como é o caso do paciente.
+4. O Ministério Público Federal requer o enfrentamento da preliminar de não cabimento de habeas corpus substitutivo de recurso especial à luz do art. 5º, incisos LIV, LV e LXVIII e do art. 105, inciso I, alínea "c", e inciso III, alíneas "a", "b" e "c", da CF/88, para fins de viabilizar o prequestionamento da matéria. No mérito, para não perder a oportunidade de manifestação, pronuncia-se pela inexistência de ilegalidade no acórdão estadual."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para delimitar a quaestio, o v. acórdão vergastado (fls. 179-183):
+"Da decisão de fls. 75/76, proferida pelo MM. Juízo da 2ª Vara das Execuções Criminais da comarca de Taubaté, que indeferiu o pedido de progressão ao regime aberto formulado por Ednaldo Lopes de Santana, julgando estar ausente o requisito objetivo, agrava o reeducando.
+(..)
+Cuida-se, em realidade, da permanência de entendimento consolidado anterior, que tem o crime de tráfico de entorpecentes (excluso o chamado tráfico privilegiado) como equiparado a hediondo por interpretação sistêmica e tendo-se por norte o previsto pela CRFB e pela legislação infraconstitucional específica. A mudança do regramento pertinente, da Lei8.072/90 à LEP, não altera a categoria do crime sob comento. Firmada essa premissa, nada a reparar na decisão guerreada.
+O agravante, realmente, não reúne o requisito objetivo necessário à progressão de regime."
+Pois bem.
+Incialmente, tem-se que o paciente ostenta sim a condição de reincidente específico em crimes hediondos.
+Explico.
+No presente caso, verifica-se que o eg. Tribunal de origem determinou fosse observada a fração própria à reincidência dos crimes hediondos em geral, com a aplicação do atual art. 112, VII, da Lei de Execução Penal.
+Verbis:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+(..)
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+(..)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado (..)" (grifei).
+Na Sessão de 9/12/2020, esta Quinta Turma, em alinhamento ao que já vinha sendo determinado pela Sexta Turma desta eg. Corte Superior, passou a decidir em sentido diametralmente oposto ao seu entendimento anterior, pelo reconhecimento da necessidade de reincidência específica em casos como o presente.
+Não se olvide que, mais recentemente, a Terceira Seção desta eg. Corte pacificou a matéria (Tema nº 1084), nos mesmos moldes do acima julgado.
+Veja-se: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (REsp n. 1.910.240/MG, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 31/5/2021).
+Este foi tema do Informativo de Jurisprudência n. 699/STJ, de 7/6/2021.
+Hoje, consoante o entendimento desta eg. Corte Superior, também entende o col. Supremo Tribunal Federal:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CONDENADO POR CRIME HEDIONDO OU EQUIPARADO REINCIDENTE POR CRIME COMUM. PRINCÍPIO DA LEGALIDADE ESTRITA. LEI 13.964/2019. ALTERAÇÃO DOS CRITÉRIOS OBJETIVOS PARA A PROGRESSÃO DE REGIME. IMPOSSIBILIDADE DE APLICAR AO REINCIDENTE NÃO ESPECÍFICO O PATAMAR DO ART. 112, VII DA LEP. PROSCRIÇÃO À ANALOGIA IN MALAM PARTEM. PRINCÍPIO DO FAVOR REI. ANTE À LACUNA LEGAL INCIDE A NORMA MAIS FAVORÁVEL AO APENADO. ART. 112, V, DA LEP. ANALOGIA IN BONAM PARTEM. POSSIBILIDADE. PROVIMENTO DO RECURSO A FIM DE ESTABELECER O PATAMAR MAIS BENÉFICO À PROGRESSÃO DE REGIME DO RECORRENTE.
+1. A Constituição da República (art. 5º, XXXIX) assegura que "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal", postulado que exige a subsunção estrita das condutas e das sanções criminais à moldura normativa.
+2. A Lei 13.964/2019, ao alterar o art. 112 da LEP, não tratou, de forma expressa, das condições para progressão de regime do condenado por crime hediondo ou equiparado reincidente em crime comum, somente disciplinando a gradação da reprimenda do apenado primário (inciso V) e do reincidente específico (inciso VII).
+3. O silêncio normativo, contudo, deve ser saneado em atenção aos princípios norteadores da hermenêutica penal, cumprindo observar a proscrição à analogia in malam partem.
+4. Havendo dois incisos que, por analogia, poderiam ser aplicados ao apenado (no caso, o inciso V e o inciso VII), o dispositivo mais benéfico ao acusado (inciso V) é a única solução possível, pois a adoção do critério mais gravoso inevitavelmente importaria afronta ao princípio da vedação à analogia in malam partem e do favor rei. Doutrina.
+5. Recurso ordinário em habeas corpus a que se dá provimento a fim restabelecer a decisão de 1º grau, que aplicou ao apenado o patamar mais benéfico para a progressão de regime (art. 112, inciso V, da LEP)" (RHC n. 200. 879, Segunda Turma, Rel. Min. Edson Fachin, DJe de 14/6/2021).
+Aliás, este foi um dos assuntos do Informativo de Jurisprudência n. 1032/STF, de 8/10/2021, verbis:
+"Tendo em vista a legalidade e a taxatividade da norma penal (art. 5º, XXXIX, CF) (1), a alteração promovida pela Lei 13.964/2019 no art. 112 da LEP (2) não autoriza a incidência do percentual de 60% (inc. VII) aos condenados reincidentes não específicos para o fim de progressão de regime. Diante da omissão legislativa, impõe-se a analogia in bonam partem, para aplicação, inclusive retroativa, do inciso V do artigo 112 da LEP (lapso temporal de 40%) ao condenado por crime hediondo ou equiparado sem resultado morte reincidente não específico." (..) Inexistindo a previsão exata na norma regente, impõe-se a interpretação mais favorável à defesa. Trata-se de imposição decorrente da presunção de inocência, base fundamental ao sistema penal de um Estado Democrático de Direito. Com base nesse entendimento, o Plenário (..) por maioria, reafirmou a jurisprudência dominante sobre a matéria (..)".
+Ocorre que, no caso concreto, da folha penal do paciente, o que se extrai é que teria sido condenado por dois delitos de tráfico de drogas.
+Aqui, explicou-se que (fl. 181):
+"Cuida-se de reeducando que, conforme cálculo juntado e contra o qual ora se insurge, é reincidente na prática de crime equiparado a hediondo (tráfico de entorpecentes) (..) não há discussão acerca da matéria de fato mas, tão somente, sobre a equiparação do delito de tráfico de entorpecentes (sem a aplicação da causa de diminuição prevista pelo art. 33, § 4º, da Lei 11.343/06) a hediondo para fins de progressão de pena."
+Ainda, muito bem destacado pelo d. Ministério Público Federal(fl. 221):
+"Na hipótese, diferentemente do que alega a Defesa, o paciente é reincidente específico em crime equiparado a hediondo, tendo sido anteriormente condenado também pela prática de tráfico de drogas (art. 33 da Lei nº 11.343/06), conforme facilmente se infere do boletim informativo da Secretaria da Administração Penitenciária, acostado às e-STJ fls.19-20."
+Aliás, como demonstrado, a condenação anterior se deu em data que não autorizavao transcurso doprazo depurador em relação ao cometimento do último delito(fls. 19-20):
+- Processo n. 1786/16 (condenação pelo art. 33 de Lei n.11.343/06) por crime cometido em 2016.
+- Processo n. 54728/11 CTR 1828/11 (condenação pelo art. 33 de Lei n.11.343/06) por sentença em 2012.
+Sendo assim, o que se tem é que, para a finalidade de execução penal, ao menos, o paciente é sim reincidente em crimes equiparados a hediondos.
+Verbis:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. DIVERSAS CONDENAÇÕES. REINCIDÊNCIA. FRAÇÕES DIFERENCIADAS. IMPOSSIBILIDADE. AUSÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO.
+(..)
+2. No caso em exame, o agravante insurge-se contra decisão proferida por esta relatoria que, no julgamento monocrático de recurso especial interposto nesta Corte Superior, desproveu o apelo nobre, por reconhecer a impossibilidade de fixar fração diferenciada para as diversas condenações impostas ao acusado, a fim de estabelecer lapso temporário diverso para aquelas que, ao tempo da infração penal, sustentavam a primariedade do réu.
+3. Esta Corte Superior possui o entendimento de que a "condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas (precedentes)" (HC 307.889/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/09/2015, DJe 10/09/2015. Precedentes.
+4. A reincidência, por ser condição pessoal do acusado, em nada se refere ao fato delituoso, situação a qual impede que seus efeitos sejam afastados da execução da pena e, como tal, deve ser analisada como atributo imposto ao agente, apto a demonstrar que não absorveu o caráter pedagógico da pena.
+5. Agravo improvido." (AgRg no REsp 1724921/RO, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 24/8/2018, grifei).
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO. RECONHECIMENTO DA REINCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência deste Superior Tribunal é firme em assinalar que a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios.
+2. Certamente, não cabe ao Juízo da Execução rever a sentença a cumprir, sob pena de violar a coisa julgada. Contudo, quando houver registro de condenação definitiva por mais de um crime, em processos distintos, é de sua competência, no momento da aplicação do art. 111 da LEP, com fins exclusivos de examinar benefícios do sistema progressivo, averiguar a natureza dos delitos (comum, hediondo ou outros a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência), dados que interferem, tão somente, na individualização da execução penal.
+3. Como o agravado registra pluralidade de condenações, a condição de reincidente passou a reger a execução como um todo. Exige-se daquele que viola reiteradamente o ordenamento jurídico o cumprimento de condições mais rigorosas antes de se atenuarem os rigores da pena aplicada.
+4. Agravo regimental não provido." (AgRg no REsp 1824437/MG, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 29/11/2019, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO. RECONHECIMENTO DA REINCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS, PARA FINS DE LIVRAMENTO CONDICIONAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência deste Superior Tribunal é firme em assinalar que a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios.
+2. Certamente, não cabe ao Juízo da Execução rever a sentença a cumprir. Contudo, quando houver condenação definitiva por mais de um crime, é de sua competência, no momento da aplicação do art. 111 da LEP, averiguar a natureza dos delitos (comum, hediondo ou outros a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência), dados que interferem na efetivação do cumprimento da pena unificada.
+3. Na hipótese, como o agravado registra pluralidade de condenações, é aplicável a fração de 1/2 sobre as penas somadas para efeito do livramento, ainda que reconhecida a sua primariedade ao tempo de algumas sentenças, pois a condição de reincidente passou a reger a execução como um todo.
+4. Agravo regimental não provido." (AgRg no AREsp 1329950/MS, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 10/12/2018, grifei).
+No mesmo sentido, o art. 111 da Lei de Execução Penal:
+"Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime."
+Diante disso, o v. acórdão a quo não configura nenhuma flagrante ilegalidade.
+Ante o exposto, não conheço do habeas corpus.
+P. I.
