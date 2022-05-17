@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por Banco do Brasil S.A. contra decisão monocrática da Presidência desta Corte Especial que não conheceu do agravo em recurso especial (e-STJ, fls. 600-602).
+O apelo especial foi deduzido com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 420):
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATOS C/C EXIBIÇÃO DE DOCUMENTOS E CANCELAMENTO DE HIPOTECA. DECISÃO QUE DETERMINOU A INTIMAÇÃO DO BANCO PARA APRESENTAR O INSTRUMENTO DE RENEGOCIAÇÃO VINCULADO À CADEIA CONTRATUAL, SOB PENA DE INCIDÊNCIA DO ART. 400 DO CPC. INCONFORMISMO DO BANCO RÉU. (1) DILAÇÃO DO PRAZO. PLEITO PREJUDICADO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. (2) PRÉVIO REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. EXIGÊNCIA PARA DEMANDA CAUTELAR, CONFORME TEMA 648 DO STJ. (3) EMENDA DA PREFACIAL POSTERIOR AO OFERECIMENTO DA CONTESTAÇÃO, A TEOR DO ART. 329 DO CPC. TESE REFUTADA. (4) DESCABIMENTO DO PEDIDO DE REVISÃO CONTRATUAL GENÉRICO, NOS TERMOS DA SÚMULA N.381 DO STJ. ARGUMENTO AFASTADO. (5) EXIBIÇÃO DE DOCUMENTO COMUM ÀS PARTES, SOB A GUARDA DA INSTITUIÇÃO FINANCEIRA. RELAÇÃO DE CONSUMO. EXEGESE DO ART. 399, III, DO CPC E DO VERBETE SUMULAR N. 297 DO STJ. LEGALIDADE DA ORDEM. PRECEDENTES JURISPRUDENCIAIS. (6) APLICAÇÃO CORRETA DA SANÇÃO PREVISTA NO ART. 400 DO CPC. DECISÃO AGRAVADA MANTIDA. RECURSO CONHECIDO, EM PARTE, E, NA EXTENSÃO, DESPROVIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 472):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATOS C/C EXIBIÇÃO DE DOCUMENTOS E CANCELAMENTO DE HIPOTECA. ACÓRDÃO DE DESPROVIMENTO. MANUTENÇÃO DA DECISÃO QUE ORDENOU A EXIBIÇÃO DO INSTRUMENTO DE RENEGOCIAÇÃO RELATIVO À CADEIA CONTRATUAL, COM A APLICAÇÃO DA SANÇÃO DO ART. 400 DO CPC PARA O CASO DE DESCUMPRIMENTO. RECURSO DO BANCO RÉU.(1) INSURGÊNCIA QUANTO À DETERMINAÇÃO DE EXIBIÇÃO DO CONTRATO. ARGUMENTO DE VIOLAÇÃO AO ART. 329 DO CPC E A SÚMULA N. 381 DO STJ. NÃO ACOLHIMENTO. DECISÃO DEVIDAMENTE FUNDAMENTADA. MANIFESTO INTUITO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. INOCORRÊNCIA DE OMISSÃO NO JULGADO. (2) PREQUESTIONAMENTO. HIPÓTESES DO ART. 1.022 DO CPC NÃO DEMONSTRADAS. EMBARGOS DECLARATÓRIOS CONHECIDOS E REJEITADOS.
+Em suas razões de recurso especial (e-STJ, fls. 500-506), a insurgente alegou violação aoart. 329, II, do CPC/2015.
+Sustentou, em síntese, a impossibilidade de emenda à exordial após a apresentação da contestação pela parte demandada.
+O recurso especial não foi admitido pela Corte local (e-STJ, fls. 544-548) pelos seguintes fundamentos: a) aplicação da Súmula 283/STF e b) incidência da Súmula n. 83/STJ.
+A insurgente então interpôs o agravo em recurso especial.
+Foi proferida decisão pela Presidência desta Casa, a qual não conheceu do recurso por entender que a parte teria deixado de impugnar os fundamentos da decisão agravada.
+Em suas razões de agravo interno, sustenta, em síntese, que teria impugnado especificamente todos os motivos da decisão de admissibilidade proferida pela Corte local.
+É o relatório. Decido.
+No caso, observa-se que a decisão do TJSC que inadmitiu o recurso especial foi impugnada pela agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidera-se a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e passa-se à análise do recurso especial.
+Sustenta a recorrente a violação ao art. 329 do CPC/2015 por impossibilidade de emenda à inicial após o oferecimento da contestação.
+O Tribunal de origem, ao dirimir a referida controvérsia, assim consignou (e-STJ, fls. 422-428 - sem grifo no original):
+O cerne do inconformismo recursal consiste na ilegalidade da decisão que ordenou a juntada do contrato de renegociação n. 062.903.884.
+(..)
+Perscrutando os autos originários, constato que a decisão agravada somente repetiu quais os contratos que são objeto do pedido de revisão. Friso que os pactos são os mesmos descritos na petição inicial, consoante o Evento 98 - PET2, segundo parágrafo.
+Nesse trilhar, não existe emenda da prefacial posterior ao oferecimento da contestação. Em corolário, afasto a alegada violação ao disposto no art. 329 do CPC.
+De igual maneira, não merece prosperar a alegação de ofensa ao verbete sumular n. 381 do Superior Tribunal de Justiça, que enuncia: "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas.".
+(..)
+Da leitura do acórdão recorrido, verifica-se constar expressamente a inexistência de emenda à inicial posteriormente ao oferecimento de contestação, de forma que, o acolhimento da pretensão recursal, a fim de perquirir pela alegada violação ao art. 329 do CPC/2015, nos moldes arguidos, demandaria revolvimento dos fatos e provas dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo, em juízo de retratação, para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. AGRAVO DE INSTRUMENTO. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. 2. ALEGADA VIOLAÇÃO AO ART. 329 DO CPC/2015. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 3. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
