@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo regimental interposto por CLÁUDIO ROMUALDO LOPES JÚNIOR, contra decisão monocrática da lavra do Ministro Presidente deste Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial, com fundamento na Súmula n. 182/STJ (e-STJ fls. 333/334).
+Em seu agravo regimental (e-STJ fls. 337/341), sustenta a parte recorrente que todos os fundamentos apontados pela Corte a quo para inadmitir o recurso especial foram devidamente impugnados no agravo, notadamente a incidência da Súmula n. 7/STJ e a ausência de indicação do dispositivo de lei federal supostamente violado.
+É o relatório. Decido.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental se revelam plausíveis, o que impõe a reconsideração da decisão agravada.
+Cuida-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos presentes autos que o Juízo de primeiro grau, julgando parcialmente procedente a pretensão punitiva estatal deduzida na exordial acusatória, condenou o ora recorrente como incurso no delito previsto no artigo 33, § 4º, da Lei n. 11.343/2006, às penas de 4 (quatro) anos e 2 (dois) mesesde reclusão, em regime inicial semiaberto, e 416 (quatrocentos e dezesseis) dias-multa (e-STJ, fls. 150/156).
+Irresignada, a defesa interpôs recurso de apelação (e-STJ, fls. 194/202), ao qual o Tribunal a quo negou provimento, nos termos do acórdão cuja ementa é a seguinte (e-STJ, fl. 253):
+Tráfico. Autoria e materialidade comprovadas. Condenação mantida.
+Nas razões do recurso especial (e-STJ, fls. 270/276), sem indicar os dispositivos de lei federal supostamente violados, a parte recorrente sustenta, em síntese, que, conforme filmagem apresentada em Juízo, no curso da instrução, é possível verificar que o réu foi abordado pelos policiais e que nenhuma revista pessoal foi realizada no local dos fatos, contrariando a versão apresentada pelos policiais responsáveis pela prisão em flagrante, que teriam asseverado que, na abordagem, foi encontrada substância entorpecente (maconha) no bolso da blusa do acusado, oportunidade em que esse teria confessado que guardava drogas em casa para outra pessoa, conduzindo os policiais até o local, onde foram encontrados tijolos de maconha (e-STJ, fls. 272/273).
+Assevera que a sentença e o acórdão proferido pela Corte local foram omissos acerca da referida filmagem e das contradições nos depoimentos dos policiais aduzidas pela defesa (e-STJ, fls. 273/274).
+Apresentadas as contrarrazões (e-STJ, fls. 280/284), o Tribunal a quo inadmitiu o recurso especial (e-STJ, fls. 295/296), dando ensejo à interposição do agravo ora apreciado (e-STJ, fls. 299/305).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não provimento do agravo, consoante parecer assim ementado (e-STJ, fl. 350):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. ABSOLVIÇÃO.
+1. Incumbe à parte indicar, nas razões do apelo nobre, qual dispositivo da legislação infraconstitucional teria sido vulnerado pelo acórdão recorrido ou interpretado de forma divergente, sob pena de incidência da Súmula nº 284/STF.
+2. Sendo apelo de natureza extraordinária, o recurso especial não se presta ao reexame de fatos e provas, aspecto em torno do qual as instâncias ordinárias são soberanas. Assim, inadmissível o apelo raro em que o recorrente insiste na absolvição. Incidência da Súmula n. 7/STJ.
+3. Parecer pelo não provimento do agravo.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo.
+Passo, então, à análise do recurso especial.
+De plano, verifico que, na espécie, a defesa não apontou, nas razões do recurso especial (e-STJ, fls. 270/276), os dispositivos de lei federal supostamente violados pelo acórdão recorrido, atraindo a incidência do óbice da Súmula n. 284/STF, segundo a qual não se conhece de recurso quando a deficiência em sua fundamentação impede a exata compreensão da controvérsia.
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/2003. NULIDADE. CERCEAMENTO DE DEFESA. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. OFENSA AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EXCLUDENTE DE PUNIBILIDADE. ENTREGA ESPONTÂNEA. NÃO CONFIGURAÇÃO. PLEITO DE SUSTENTAÇÃO ORAL. ART. 159 DO RISTJ. NÃO CABIMENTO.
+I - Esta Corte de Justiça possui o entendimento de que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação divergente consubstancia deficiência bastante a inviabilizar a abertura da instância especial, atraindo a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+ ..
+Agravo regimental desprovido. (AgRg nos EDcl no REsp 1756468/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/11/2018, DJe 3/12/2018).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REGIME DE CUMPRIMENTO DE PENA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO DE LEI FEDERAL. SÚMULA 284/STF. PARADIGMA PROFERIDO EM HABEAS CORPUS. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+- O conhecimento do Recurso Especial pela alínea c do permissivo constitucional exige a indicação do dispositivo legal que teria sido objeto de interpretação divergente. Súmula 284/STF.
+ ..
+Agravo regimental desprovido. (AgRg no AREsp 520.082/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 21/10/2014, DJe 4/11/2014).
+Ademais, como é cediço, os embargos de declaração são o recurso cabível para impugnarambiguidade, obscuridade, contradição ou omissão, conforme disciplina o art. 619, do Código de Processo Penal.
+Na hipótese dos autos, não obstante adefesa aleguea existência deomissão, tanto do Juízo de primeiro grau quanto do Tribunala quo,acerca das tesessuscitadas, constato que não houve a oposição de embargos de declaração contra a sentença condenatória tampouco contra odecisumproferido na apreciação do apelo defensivo.
+Nesse contexto, ressalto que nem mesmo a arguição deviolação ao artigo 619, do CPP, caso tivesse sido realizada, com vistas a acusar eventual negativa de prestação jurisdicional, se mostraria viável, haja vista quea defesa não se desincumbiudo ônus de opor aclaratórios com a finalidade de sanar o aduzido vício (omissão) no julgado.
+Ante o exposto, reconsidero a decisão agravada (e-STJ, fls. 333/334) e, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
