@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado peloInstituto Nacional doSeguro Social- INSS, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fls. 405-406):
+DIREITO PREVIDENCIÁRIO. TEMPO ESPECIAL. RUÍDO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. CORREÇÃO MONETÁRIA. JUROS DE MORA.
+1. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+2. É admitida como especial a atividade em que o segurado ficou exposto a ruídos superiores a 80 decibéis até 05/03/1997, em que aplicáveis concomitantemente, para fins de enquadramento, os Decretos n. 53.831/64 e 83.080/79; superiores a 90 decibéis no período de 06/03/1997 a 18/11/2003, de acordo com o Decreto nº 2.172/97, e, a partir de 19/11/2003 superiores a 85 decibéis, nos termos do Decreto 4.882/2003.3. Os períodos de tempo reconhecidos na presente decisão devem ser levados em conta pelo INSS para fins de revisão da Renda Mensal Inicial do benefício de aposentadoria da parte autora.
+3. Preenchidos os requisitos legais, tem o segurado direito à concessão de aposentadoria por tempo de contribuição.
+4. O Supremo Tribunal Federal reconheceu no RE 870947, com repercussão geral, a inconstitucionalidade do uso da TR.
+5. O Superior Tribunal de Justiça, no REsp 1495146, em precedente também vinculante, e tendo presente a inconstitucionalidade da TR como fator de atualização monetária, distinguiu os créditos de natureza previdenciária, em relação aos quais, com base na legislação anterior, determinou a aplicação do INPC, daqueles de caráter administrativo, para os quais deverá ser utilizado o IPCA-E.
+6. Estando pendentes embargos de declaração no STF para decisãosobre eventual modulação dos efeitos da inconstitucionalidade do uso da TR, impõe-se fixar desde logo os índices substitutivos, resguardando-se, porém, a possibilidade de terem seu termo inicial definido na origem, em fase de cumprimento de sentença.
+7. Os juros de mora, a contar da citação, devem incidir à taxa de 1% ao mês, até 29-06-2009. A partir de então, incidem uma única vez, até o efetivo pagamento do débito, segundo o percentual aplicado à caderneta de poupança.
+Os embargos de declaração opostos pela parte beneficiáriaforam acolhidos, nos termos da seguinte ementa (e-STJ, fl. 475):
+EMBARGOS DE DECLARAÇÃO. REAFIRMAÇÃO DA DER PARA OBTENÇÃO DE BENEFÍCIO MAIS VANTAJOSO. INCIDÊNCIA DIRETA DO TEMA 995 (STJ). O SEGURADO COMPROVOU O RECOLHIMENTO DE CONTRIBUIÇÕES POSTERIORES À DER PELO TEMPO NECESSÁRIO À CONCESSÃO DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE ACORDO COM OS CRITÉRIOS DA LEI N.13.183/2015 PARA NÃO INCIDÊNCIA DE FATOR PREVIDENCIÁRIO. PARCELAS EM ATRASO E ACESSÓRIOS DA DÍVIDA DEVIDOS DESDE A DER REAFIRMADA. NO MAIS, A DECISÃO DA TURMA SE MANTÉM INTEGRALMENTE. PROVIMENTO.
+Já os aclaratóriosopostos pela autarquia previdenciáriatambémforam acolhidos, em parte, nos seguintes termos(e-STJ, fl. 534):
+EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÃO. SUPRIMENTO.
+1. Os embargos de declaração pressupõem a presença de omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. A pretensão de reexame de matéria sobre a qual já houve pronunciamento do órgão julgador desafia recurso próprio, não justificando a interposição de embargos de declaração.
+3. Não há contradição no acórdão que manteve a condenação do INSS ao pagamento de honorários, fixada na sentença, pois o entendimento consolidado na Sexta Turma é no sentido de não impor honorários à Autarquia Previdenciária apenas se o único objeto da demanda for o pleito de reafirmação da DER. Havendo pedido de reconhecimento de tempo de contribuição, contra o qual a autarquia se insurgiu, dando, assim, causa ao ajuizamento da presente demanda, são devidos os honorários de sucumbência.
+4. Suprida a omissão do acórdão para esclarecer que os juros de mora, em caso de reafirmação da DER, apenas incidem no caso de o INSS não efetivar a implantação do benefício no prazo razoável de até quarenta e cinco dias.
+O recorrente alega ofensaaosarts.85, caput, 927, III, e1.022, II, do Código de Processo Civil. Afirma, em síntese, que não foram observados os parâmetros do Tema n. 995 do STJ e que, portanto, devem ser afastados oshonorários advocatícios.
+Assevera, ainda,queo dispositivo do art. 1.022, II, do CPCnão foi respeitado pelo órgão julgador, porquantoo Tribunal local recusou-se a enfrentar ponto omisso no acórdão, motivopelo qual deve ser anulada a decisão, retornando os autos para pronunciamento sobre as questões abordadas nos embargos de declaração.
+O Tribunal de origem admitiu o recurso especial.
+É o relatório.
+Não assiste razão ao insurgenteno ponto em que aduzcontrariedade aoart. 1.022, II, do CPC/2015, porquanto o acórdão combatido fundamentou claramente seu posicionamento, consignando, expressamente, que seria hipótese de condenação em honorários umavez que também houvepedido diversono caso em análise.
+No ponto, o seguinte trecho do acórdão que apreciou osembargos de declaração(e-STJ, fl. 530):
+Do que decorre dos julgamentos relacionados ao Tema 995 (EDcl no RESp n. 1.727.063), não há, como regra, incidência de honorários advocatícios ou juros (grifo):
+Omissão quanto ao ônus da sucumbência não há, posto que foi definido que haverá sucumbência se o INSS opusera-se ao pedido de reconhecimento de fato novo, hipótese em que os honorários de advogado terão como base de cálculo o valor da condenação, a ser apurada na fase de liquidação, computando-se o benefício previdenciário a partir da data fixada na decisão que entregou a prestação jurisdicional.
+No que concerne aos honorários advocatícios, não assiste razão aorecorrente, vistoque o INSS ficou parcialmente vencido. Desse modo, reexaminar a decisão do Tribunal de origem acerca dadistribuição da sucumbênciapara cada parte implicaria violação da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja Recurso Especial.".
+No ponto:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS.INEXISTÊNCIA. SUCUMBÊNCIA RECÍPROCA. CARACTERIZAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos n.ºs 2 e 3/STJ).
+2. A distribuição dos ônus sucumbenciais, quando verificada a existência de sucumbência recíproca, deve ser pautada pelo exame do número de pedidos formulados e da proporcionalidade do decaimento de cada uma das partes em relação a cada um desses pleitos. Precedente.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.893.322/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA,DJe de 24/5/2021).
+PROCESSUAL CIVIL. HONORÁRIOS. SUCUMBÊNCIA PARCIAL. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA.
+I - Quanto aos honorários, considerando o provimento parcial do recurso especial, correta a decisão que manteve em 10% sobre a condenação ou proveito econômico obtido, calculados da decisão em que o direito foi reconhecido (in casu, a sentença), nos termos da Súmula n. 111/STJ, fixando-se proporcionalmente ao objeto atendido.
+II - Considerando que houve sucumbência parcial, as partes devem arcar, de modo proporcional, com os respectivos ônus, com a distribuição da sucumbência, nos termos do art. 86 do CPC/15, c/c o art. 85, § 14, que deve ser de 80% para o autor e 20% para a autarquia. Nesse sentido é a jurisprudência desta Corte: EDcl no REsp 1.765.004/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/9/2019, DJe 20/9/2019; AgInt nos EDcl no REsp 1.673.886/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 12/12/2017, DJe 19/12/2017).
+III - Agravo interno improvido.
+(AgInt no REsp n. 1.720.162/SP, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/4/2020).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
