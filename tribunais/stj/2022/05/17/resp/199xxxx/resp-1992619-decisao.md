@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Garantia de Saúde Ltda. contra os acórdãos de fls. 196-201 e 212-217 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+APELAÇÃO - Plano de Saúde - Ação de Consignação em Pagamento - Alegação de cobrança em valor excessivo - Sentença de procedência para declarar a extinção do débito descrito na inicial - Inconformismo da ré - Descabimento - Diante da recusa da credora em receber o valor relativo apenas aos beneficiários remanescentes no plano de saúde, ignorando a exclusão dos demais beneficiários, o acolhimento da pretensão deduzida na inicial era a medida que se impunha, não havendo justificativa plausível para que a ré-apelante se recuse a recalcular o valor mensal do mensalidade - Apelo desprovido.
+EMBARGOS DE DECLARAÇÃO - Alegação de omissões - Inexistência de anomalias - Natureza infringente - Objetivo de prequestionamento - Desnecessidade - Embargos rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 220-240), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 12, VI, da Lei 9.656/1998; 489 do CPC/2015; 313, 314 e 335, I, do CCB; e 93, IX, da CF/1988. Sustenta, em síntese: i) negativa de prestação jurisdicional/falta de fundamentação da decisão; e ii) inadequação da via eleita.
+Contrarrazões às fls. 259-264(e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 265-267), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Primeiramente, cinge-se o recurso sobre a ocorrência de negativa de prestação jurisdicional/falta de fundamentação da decisão recorrida. Defende arecorrente que o Tribunal deixou de fundamentar a decisão no tocante aos seguintes argumentos recursais: não preenchimento dos requisitos para a exclusão de beneficiários (vigência mínima de doze meses); e ausência dos encargos moratórios no depósito feito tardiamente.
+Observa-se que, de fato, a Corte local não se manifestou sobre taisargumentos e, embora a recorrente tenha provocado o TJSP através dos aclaratórios (e-STJ, fls. 203-211), este permaneceu silente, conforme se nota da ementa acima colacionada.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022, II,do Código de Processo Civil de 2015, haja vista a necessidade de manifestação sobre os argumentos apresentados.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+Vale ressaltar que, embora a recorrente não tenha mencionado explicitamente o art. 1.022 do CPC/2015, o teor do recurso remete à violação do dispositivo.
+A análise da outra teserecursalse mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento a fim de, reconhecida a violação do art. 1.022, II, do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL/AUSÊNCIADE FUNDAMENTAÇÃO VERIFICADA. ANÁLISE DA OUTRA TESE PREJUDICADA.RECURSO ESPECIAL CONHECIDO E PROVIDO.
