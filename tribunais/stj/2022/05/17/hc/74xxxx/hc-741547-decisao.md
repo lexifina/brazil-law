@@ -1,0 +1,12 @@
+DECISÃO
+O paciente, segregado desde 22/6/2021, e pronunciado por homicídio qualificado tentado, alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+Decido.
+O writ comporta pronta solução, pois existe entendimento sumulado sobre o tema.
+A "aferição doexcessode prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal"(RHC 158.454/PI, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/04/2022, DJe 02/05/2022).
+Os prazos processuais previstos na legislação pátria são computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVII, da CF), considerando cada caso e suas particularidades.
+Ademais, consoante a Súmula n. 21 do STJ, uma vez pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.Não é absurdo o prazo da segregação do réu, que perdura há menos de um ano, desde 22/6/2021. Desde então, o inquérito foi finalizada e aprimeira fase do procedimento do Tribunal, encerrada. O julgamento popular está marcado para 14/9/2022 e, ao menos por ora, considerada a gravidade da imputação (homicídio duplamente qualificado tentado)não é possível superar o entendimento da súmula desta Corte.
+Deveras:
+Quanto ao alegadoexcessode prazo para a formação da culpa, verifica-se pelos autos, bem como pelas informações do juízo a quo que a tramitação processual transcorre nos limites da razoável duração do processo, não se tendo qualquer notícia de fato que evidencie atraso injustificado ou desídia atribuível ao Poder Judiciário, razão pela qual, por ora, não se reconhece o constrangimento ilegal suscitado. Ressalte-se, que a decisão de pronúncia foi proferida em 22/06/2021. Incide, portanto, o óbice daSúmula nº 21desta Corte Superior, que prescreve que "Pronunciado o réu, fica superada a alegação do constrangimento ilegal porexcessode prazo na instrução"  ..
+(AgRg no RHC 156.968/RS, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 29/03/2022, DJe 04/04/2022).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
