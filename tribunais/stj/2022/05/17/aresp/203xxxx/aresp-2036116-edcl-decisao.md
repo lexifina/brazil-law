@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCIANO HENRIQUE TEIXEIRA DE OLIVEIRA e OUTRO, à decisão de fls. 114/115, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ante acta, cumpre informar que o pedido de justiça gratuita do embargante não foi analisado em primeiro grau.
+Ademais, tanto em sede de Recurso Especial quanto no Agravo em Recurso Especial o embargante requereu a concessão do referido benefício.
+ ..
+Nestes termos, cumpre consignar que há presunção de hipossuficiência da pessoa física que assim se declarar. Nada obstante, munido de boa-fé, o embargante apresentou a cópia de seus holerites, de forma a comprovar a insuficiência de recursos, não tendo condições de arcar com as custas do processo sem prejuízo de sua sobrevivência (fl. 120).
+ ..
+Pelo exposto, requer seja concedida ao embargante o benefício da justiça gratuita, nos termos do artigo 5º, incisos XXXV e LXXIV, da Constituição Federal, e artigos 98 e 99, § 3º, do Código de Processo Civil (fl. 122).
+Aduz ainda:
+No Agravo em Recurso Especial interposto pelo embargante, foi exaustivamente esclarecido que não foi possível gerar certidões das datas mencionadas, não restando outra opção, a não ser comprovar as referidas suspensões através de prints da tela do site do Tribunal. Quais sejam: (fl. 123).
+ ..
+Ademais, a peça recursal apresentada está completamente de acordo com o previsto para sua admissibilidade, visto que o peticionante juntou aos autos todas as provas cabíveis e possíveis, das referidas suspensões de prazo (fl. 123).
+ ..
+Ocorre que em que pese brilhantismo do Ministro, o mesmo nada disse quanto a impossibilidade do embargante e em sua fundamentação apenas mencionou que o referido recurso não foi interposto dentro do prazo legal, fazendo menção aos arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Portanto, ao deixar de enfrentar tão relevantes argumentos, este nobre juízo incorreu em omissão, haja vista a disposição do art. 1.022, inciso II e parágrafo único, inciso II c/c o art. 489, § 1º, inciso III e IV, ambos do NCPC (fl. 124).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, quanto à apreciação do pedido de gratuidade de justiça na petição de recurso especial, entende-se que houve o deferimento tácito, uma vez que não houve manifestação quanto ao referido pleito. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. ERRO MATERIAL CONFIGURADO. SANEAMENTO DO VÍCIO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. BENEFÍCIO PLEITEADO DESDE A PRIMEIRA INSTÂNCIA. AUSÊNCIA DE MANIFESTAÇÃO DO PODER JUDICIÁRIO. DEFERIMENTO TÁCITO. RECONHECIMENTO. PRECEDENTES DA CORTE ESPECIAL.
+ ..
+3. Constata-se que o ora embargado requereu em todas as instâncias judiciárias, inclusive no âmbito do recurso especial, a concessão da assistência judiciária, com fulcro na Lei n. 1.060/1950, não havendo manifestação do Judiciário. Configurada hipótese de deferimento tácito da assistência judiciária.
+4. A Corte Especial, no julgamento dos EAREsp n. 731.176/MS, DJe 3/3/2021, ao dirimir divergência jurisprudencial, no âmbito deste Tribunal Superior, reafirmou entendimento já consignado por esse mesmo órgão julgador, por ocasião do julgamento do AgRg nos EAREsp n. 440.971/RS, DJe 17/3/2016, no sentido de que "a ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo".
+5. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no REsp 1561067/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.)
+No que se refere a tempestividade do recurso especial, esclareça-se que se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Registre-se que, print de telas da rede mundial de computadores não têm o condão de afastar a intempestividade do recurso. A propósito: AgInt no AgInt no REsp 1625104/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/4/2019; AgInt no AREsp 1456817/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/10/2019.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
