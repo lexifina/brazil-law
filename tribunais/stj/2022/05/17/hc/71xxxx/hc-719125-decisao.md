@@ -1,0 +1,16 @@
+DECISÃO
+SANDRO ALEX MULINARI DE CASTRO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 5233044-96.2021.8.21.7000.
+Consta dos autos que o paciente progrediu ao regime aberto. Ante a falta de vaga em casa de albergado, foi permitido o cumprimento da pena em sua própria residência. A impetrante sustenta ser inviável a monitoração eletrônica durante prisão albergue domiciliar, o que configuraria excesso de execução.
+Requer a exclusão da vigilância.
+O Ministério Público Federal se manifestou pela denegação da ordem (fls. 419-424).
+Decido.
+O Tribunal de origem assim decidiu a controvérsia (fl. 206, grifei):
+Com efeito, segundo informações obtidas em consulta ao Sistema Eletrônico de Execução Unificado (SEEU), processo n. 6663519-66.2010.8.21.0006, trata-se de apenado que cumpre pena por crimes cometidos com violência e grave ameaça à pessoa, inclusive de natureza hedionda (homicídio qualificado, tráfico de drogas, latrocínio tentado, roubo e furtos), tendo sido condenado a uma pena total de 34 (trinta e quatro) anos e 14 (quatorze) dias de reclusão, restando, ainda, mais de 7 (sete) anos da pena, com livramento condicional previsto somente para 31/07/2025.
+Dessa forma, ainda que a monitoração eletrônica não se afigure como medida obrigatória a ser empregada nas hipóteses de concessão de prisão domiciliar, o artigo 146-B, inciso IV, da LEP, expressamente, contempla sua adoção.
+Neste cenário, por meio de fundamentação idônea e considerando a necessidade de haver, dentro do possível, a efetiva execução da pena, concluiu-se, após o exame do caso concreto, no sentido da necessidade do monitoramento na prisão domiciliar, que, na letra fria da lei, não seria sequer benefício compatível com a situação do agravante (artigo 117 da LEP).
+Contudo, levando-se em conta, consoante referido alhures, a situação do sistema carcerário, representa medida adequada para que não se frustrem os fins da ressocialização do preso e para assegurar a observância dos deveres inerentes ao regime aberto.
+O acórdão recorrido está em conformidade com a jurisprudência desta Corte, de que: "não há constrangimento ilegal a ser sanado, pois o art. 146-B, inciso IV, da LEP autoriza expressamente o monitoramento eletrônico do custodiado, na hipótese de concessão de prisão domiciliar. 3. Agravo regimental desprovido" (AgRg no HC n. 544.894/PA, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/6/2020).
+Durante a prisão albergue domiciliar, "a manutenção do monitoramento eletrônico ao apenado agraciado com a progressão ao regime aberto não impli ca constrangimento ilegal, pois atende aos parâmetros referenciados na Súmula Vinculante 56" (AgRg no HC n. 691.963/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/10/2021).
+As limitações impostas pelo equipamento eletrônico não são mais gravosas do que aquelas as que estaria submetido o reeducando em Casa de Albergado. A monitoração traduz a vigilância mínima necessária para aferir o cumprimento de pena fora de estabelecimento prisional e não implica em supressão de direitos do apenado ou em exposição a situação mais gravosa de execução.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
