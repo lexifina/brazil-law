@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Capemisa Seguradora de Vida e Previdência S/Acontra decisão que não admitiu o recurso especial, fundado nas alíneasaecdo inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça de Goiás assim ementado (e-STJ, fl. 444):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO SOBRE O VALOR DA CONDENAÇÃO. QUANTIA IRRISÓRIA. IMPOSSIBILIDADE. Não merece reparo a sentença que arbitrou os honorários advocatícios sucumbenciais em 10% sobre o valor da causa, quando a fixação com fundamento no valor da condenação resultaria em quantia irrisória. APELO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 465-474).
+Nas razões do recurso especial,apontou-se violação ao art.85, §2º do CPC/2015,além de dissídio jurisprudencial (e-STJ, fls. 478-487).
+Sustentou-se quea Corte estadual não observou o referido comando legal, razão pela qual se pretende a reforma do acórdão recorrido, aduzindo que erapossível calcular os honorárioscom base na condenação imposta, e não sobre o valor da causa.
+Foram apresentadas contrarrazões (e-STJ, fls.590-601).
+Juízo de admissibilidade negativo, o que provocou a interposição do presente agravo (e-STJ, fls. 615-617).
+Contraminuta ofertada (e-STJ, fls. 637-640).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+No caso, ao julgar a questão, o Tribunal local consignou o seguinte (e-STJ, fls. 441-445):
+É cediço que os honorários advocatícios sucumbenciais constituem a retribuição pecuniária pelo trabalho exercido pelo advogado em determinada demanda.
+Nesse sentido, o art. 85, § 2º c/c § 6º, do Código de Processo Civil, estabelece determinados requisitos para a fixação da verba honorária, quais sejam, o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço, ao assim dispor:
+(..)
+Assim, se a empresa recorrente fosse condenada a arcar com os honorários de sucumbência entre os percentuais de 10% (dez por cento) e 20% (vinte por cento) sobre a condenação, que foi arbitrada no valor de R$ 1.974,50, isso corresponderia, no máximo, a pouco mais de R$ 390,00, ou seja, valor irrisório, de forma que ficaria malferida a dignidade do advogado frente ao seu ofício e seriam violados os princípios da proporcionalidade e razoabilidade.
+(..)
+Desta feita, tendo em vista que a adoção do critério do valor da condenação importaria na fixação de honorários advocatícios em valor baixo, entendo que deve ser mantida a fixação em 10% sobre o valor da causa (R$ 12.943,25) devidamente atualizado, nos termos previstos pelo art. 85, § 2º, do CPC.
+Constata-se, portanto, que, quanto à fixação dos honorários advocatícios no percentual de 10% (dez por cento) sobre o valor causa,rever a conclusão a que chegou o Tribunal estadual não prescindiria do reexame do acervo fático-probatório dos autos, conduta vedada pela Súmula 7/STJ.
+Confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. ANÁLISE EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. PENSÃO MENSAL. VALOR DA RENDA MENSAL DA VÍTIMA. REVISÃO DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. TERMO FINAL. EXPECTATIVA DE VIDA VERIFICADA NA DATA DO ÓBITO. CONSTITUIÇÃO DE NÚCLEO FAMILIAR PRÓPRIO. AFASTAMENTO DA PRESUNÇÃO. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 7/STJ. ÔNUS DA SUCUMBÊNCIA. VALOR DOS HONORÁRIOS. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+1. No caso dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação de indenização por danos materiais e morais ajuizada em virtude de acidente automobilístico que vitimou fatalmente o filho dos autores. Em primeira instância, os pedidos foram julgados procedentes e, interposta apelação, o Tribunal de origem deu parcial provimento ao recurso para reduzir o valor das indenizações.
+(..)
+7. O Tribunal de origem, soberano na análise do conjunto fático probatório dos autos, e respeitando os parâmetros do STJ para casos similares, fixou a indenização por danos morais no montante equivalente a 400 salários mínimos. O Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie. Destarte, o acolhimento da pretensão recursal de redução do valor da indenização demanda, igualmente, o revolvimento do conjunto fático dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+8. Esta Corte Superior possui entendimento jurisprudencial segundo o qual é inviável a revisão do quantitativo em que autor e ré decaíram do pedido para fins de verificar a sucumbência mínima, haja vista que tal conduta, necessariamente, implica no reexame fático-probatório dos autos, o que também faz incidir o óbice da Súmula 7/STJ.
+9. O Tribunal local concluiu que a fixação dos honorários advocatícios em 10% do valor da condenação se mostra adequada ao caso. A modificação de tal cenário requer, necessariamente, o reexame do conjunto fático-probatório dos autos, procedimento que é vedado no âmbito do recurso especial em razão do óbice da Súmula 7/STJ.
+10. Recurso especial parcialmente conhecido e provido. (REsp 1761898/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Além disso, consoante a jurisprudência desta Corte, a incidência da Súmula 7/STJ impedeo conhecimento do recurso também pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas de cada caso.
+Diante do exposto, conheço do agravo para nãoconhecerdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado dosrecorridos, fixando-os em15% (quinze por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO DPVAT. AÇÃO DE COBRANÇA. PROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL FIXADO.REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PRECEDENTES. REVALORAÇÃO DA PROVA. AFASTAMENTO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.AGRAVO CONHECIDOPARA NÃO CONHECER DO RECURSO ESPECIAL.
