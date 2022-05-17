@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de MAVERICK TALES SANTOS DE SOUZA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, nos autos da apelação criminal n. 1.0223.20.000061-8/001.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de , a fim de redimensionar a pena do paciente em 01 (um) ano de detenção, em regime inicial semiaberto, mais o pagamento de 10 (dez) dias-multa, como incurso nas iras do art. 12 da Lei n. 10.826/2003 (fls. 97-101).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu parcial provimento ao recurso, a fim de redimensionar a pena do paciente em 01 (um) ano de detenção, em regime inicial aberto, mais o pagamento de 10 (dez) dias-multa, sendo deferido a substituição da pena privativa de liberdade por um restritiva de direitos, consoante voto condutor do v. acórdão de fls. 151-161.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a apreensão de 01 (um) cartucho de munição calibre 32 desacompanhado de arma de fogo tem o condão de fazer incidir o princípio da insignificância.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 167-168).
+Informações prestadas às fls. 171-184.
+O Ministério Público Federal, às fls. 819-195, manifestou-se pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. CONDENAÇÃO PELO CRIME DE POSSE DE MUNIÇÃO (ART. 12 DA LEI Nº 10.826/2003). PRETENDIDA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES RECENTES DO STFE DO STJ. PARECER PELA CONCESSÃO DA ORDEM." (fl. 189).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a absolvição do paciente, ante a aplicação do princípio da insignificância.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Do mesmo modo, não se desconhece o atual entendimento do Superior Tribunal de Justiça de possibilidade de aplicação do princípio da insignificância a crimes como de posse de munição.
+Entretanto, não vislumbro nos presentes autos a "mínima ofensividade da conduta"; "nenhuma periculosidade social da ação"; "reduzido grau de reprovabilidade do comportamento" e "inexpressividade da lesão jurídica provocada", pois, no caso presente, a apreensão das armas ocorreu em virtude de denúncia anônima reportando que o apelante estaria efetuando disparos de arma de fogo e também foram apreendidas porções de droga na casa. Além disso, o réu registra duas condenações por crime de roubo majorado pelo emprego de arma de fogo (CAC de f. 24), fatores que ensejam maior reprovabilidade da conduta" (fl. 155).
+Com efeito, este Superior Tribunal de Justiça se alinhou ao entendimento da Segunda Turma do Supremo Tribunal Federal e passou a reconhecer a atipicidade material da conduta, em situações específicas de ínfima quantidade de munição, aliada à ausência do artefato capaz de disparar o projétil.
+Segundo a jurisprudência desta Corte Superior, ainda que seja ínfima a quantidade de projéteis portados pelo acusado, não é possível a incidência do princípio da bagatela, quando o delito de posse/porte de munição tiver sido praticado em contexto em que demonstre a ofensividade, a lesividade ou periculosidade da conduta. A propósito: AgRg no REsp n. 1960029/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/10/2021; HC n. 527.080/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/12/2019.
+Na hipótese, não há que se falar em atipicidade material da conduta praticada. Isso porque a apreensão da munição - 01 (um) cartucho de munição calibre 32 desacompanhado de arma de fogo - ocorreu em razão de denúncia anônima de que o paciente estava a realizar disparos de arma de fogo, bem como fora encontra em sua residência porções de droga.
+Não se descure que a reincidência é fator apto a obstar a incidência do princípio da insignificância. In casu, o paciente possui duas condenações por roubo majorado pelo emprego de arma de fogo. Nesse sentido: AgRg no REsp n. 1976985/MG, Quinta Turma, de minha relatoria, DJe de 17/03/2022; HC n. 629.675/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/04/2021; e HC n. 617.398/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/03/2021.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
