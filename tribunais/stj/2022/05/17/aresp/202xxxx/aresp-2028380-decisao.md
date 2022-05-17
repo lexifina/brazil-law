@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO, CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. FRAUDE EM ELEIÇÃO DA ASSOCIAÇÃO AGRAVADA. FORNECIMENTO DE DADOS DE IP E REGISTROS DE CONEXÃO. ALEGADA IMPOSSIBILIDADE DEVIDO Á TECNOLOGIA EMPREGADA. DECADÊNCIA DO DIREITO FRENTE À LEI DO MARCO CIVIL DA INTERNET. TESES PRECLUSAS. APLICAÇÃO DE MULTA PELO DESCUMPRIMENTO DO JULGADO. PRETENDIDA REDUÇÃO. CABIMENTO. EMPRESA DE PEQUENO PORTE. DECISÃO PARCIALMENTE REFORMADA.
+1. O trânsito em julgado da sentença impede a discussão a respeito da impossibilidade de cumprimento da obrigação de fazer imposta, conforme disciplina o art. 502 do CPC.
+2. Encontra-se igualmente acobertado pelo manto da preclusão o pretendido debate quanto à violação ao art. 15 da Lei n. 12.965/2014 (Marco Civil da Internet), em decorrência de se exigir documentos quando já ultrapassado o prazo de 6 (seis) meses nele estabelecido, pois não foi objeto da contestação da ora agravante.
+3. Nos termos do art. 537, § 1º, II, do CPC, o juiz pode, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou exclui-la, caso verifique que o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento.
+4. Cabe a redução do valor da multa diária quando essa praticamente alcança o valor do capital social da empresa agravante, que é uma sociedade limitada de pequeno porte e que alega já ter entregue as informações que tinha em seu poder, embora insuficientes, o que não foi rebatido pelo agravado.
+5. Recurso conhecido em parte e parcialmente provido para reduzir o valor da multa.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a recorrente alega violação ao artigo 15 da Lei 12.965/2015, sustentando que a recorrida ajuizou a ação originária para apurar suposto ato fraudulento nas eleições gerais da Associação quando já ultrapassado o prazo de 6 (seis) meses previsto na norma legal para o provedor de aplicações de internet manter os registros de acesso.
+Afirma que, mesmo assim, forneceu todos os dados que possuía dos usuários que estavam conectados na data e hora indicadas na inicial, razão pela qual, não deveria ter sido apenada pela ausência de diligência da recorrida que esperou meses para então protocolar a ação de produção de provas.
+Requer o reconhecimento da decadência sob o argumento de que, por se tratar de matéria de ordem pública, pode ser alegada a qualquer momento e em qualquer grau de jurisdição, não estando sujeita à preclusão.
+Alternativamente, pugna pela exclusão ou redução da multa diária em observância ao princípio da proporcionalidade, sem, contudo, indicar qual dispositivo legal teria sido vilipendiado nesse sentido.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+ ..  a tese atinente à violação ao art. 15 da Lei n. 12.965/2014 (Marco Civil da Internet), em decorrência de se exigir documentos quando já ultrapassado o prazo de 6 (seis) meses nele estabelecido, não foi objeto da contestação da ora agravante. Infere-se da peça que naquela fase a ora agravante apenas esclareceu a limitação do sistema IPv4, que dificulta a identificação correta do usuário, assim como a necessidade de ordem judicial para fornecer as informações solicitadas, nos termos do art. 10, § 1º, da lei em referência (ID 75624284). Assim, o pretendido debate quanto ao prazo previsto na lei, sob a ótica da decadência, alegando ser matéria de ordem pública, encontra-se fulminado pela preclusão consumativa.
+Com efeito, diante da ausência de efetivo debate acerca da incidência da norma contida no art. 15 da Lei n. 12.965/2014, incide o óbice das Súmulas 282 e 356/STF, que inviabilizam o recurso especial quando ausente o necessário prequestionamento da matéria nele ventilada.
+Quanto à multa cominatória, assim decidiu a Corte local:
+No que concerne à multa imposta pela decisão agravada, não há que se falar em violação à boa- fé objetiva nem ao modelo cooperativo do direito processual, insculpidos nos artigos 5º e 6º do CPC, pois se trata de medida coercitiva que deve ser fixada em montante suficiente e adequado para impulsionar o devedor a cumprir a obrigação de fazer reconhecidamente devida, sobretudo quando se trata de obrigação infungível.
+Contudo, nos termos do art. 537, § 1º, II, do CPC, o juiz pode, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou exclui-la, caso verifique que o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento.
+Na hipótese, o valor da multa diária foi fixado em R$ 1.000,00 (mil reais), limitado a R$ 20.000,00 (vinte mil reais), o que praticamente alcança o valor do capital social da empresa agravante que, pelo que se infere, é uma sociedade limitada de pequeno porte (ID 24679387).
+Ademais, considerando a afirmação de que já entregou as informações que tinha em seu poder, seu funcionamento poderá ficar comprometido caso tenha que suportar o valor máximo da multa imposta.
+Atento a esse contexto e observando os preceitos legais, reduzo o valor máximo da multa para R$ 10.000,00 (dez mil reais).
+Sob esse enfoque, "A alteração das astreintes, após o redimensionamento efetuado pela Corte a quo, com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa" (AgInt no AREsp 1501420/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 6.11.2019).
+Outrossim "Rever os fundamentos do acórdão recorrido, no sentido de alterar o valor das astreintes, encontra o óbice de que trata a Súmula nº 7/STJ" (AgInt no AgInt nos EDcl no AREsp 615.007/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24.10.2017)
+Em face do exposto, nego provimento ao agravo.
+Descabida a majoração de honorários advocatícios com fundamento no art. 85, § 11, do Código de Processo Civil/2015, porque a decisão alvo do recurso especial tem natureza interlocutória, não comportando o estabelecimento de verbas sucumbenciais.
+Intimem-se.
