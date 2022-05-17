@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por Leonardo Yoshimatsu de Oliveira Kobayashi, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Paraná na Apelação Criminal n. 1529552-67.2019.8.26.0228.
+Consta dos autos que o Juízo de primeiro grau condenou o recorrente, com fundamento no art. 33, caput, da Lei n. 11.343/2006, às reprimendas de 1 ano, 8 meses e 25 dias de reclusão, em regime inicial aberto, substituída por restritivas de direitos, mais pagamento de 173 dias-multa (fls. 273/279).
+Inconformada com os termos do édito condenatório singular, a acusação interpôs recurso de apelação (fls. 284/296).
+O Tribunal a quo deu parcial provimento ao apelo ministerial (fls. 372/376):
+RECURSO DE APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES - ART. 33, CAPUT, DA LEI Nº 11.343/2006. PLEITO MINISTERIAL PELA REFORMA DA DOSIMETRIA - AUMENTO DA PENA-BASE - IMPOSSIBILIDADE - AUMENTO DA PENA-BASE NA RAZÃO DE 1/8 PROPORCIONAL E CONSOANTE COM A JURISPRUDÊNCIA - AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO - POSSIBILIDADE - PROVAS DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS - CIRCUNSTÂNCIA QUE PODE SER UTILIZADA PARA AFASTAR A BENESSE DO ART. 3º, § 4º, DA LEI N.º 11.343/06. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração (fls. 388/392), esses foram rejeitados (fls. 419/421):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO QUE JULGOU O RECURSO DE APELAÇÃO - NÃO CONSTATAÇÃO - MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO. EMBARGOS CONHECIDOS E REJEITADOS.
+No presente recurso especial, é indicada a violação do art. 33, § 4º, da Lei n. 11.343/2006.
+É disposto que os nobres julgadores presumiram a dedicação à atividade criminosa do recorrente pelo fato de ter informado, em sede inquisitorial, que as drogas seriam vendidas em festas.  ..  O recorrente é primário, possui bons antecedentes, e não houve juntada nos autos de qualquer peça de inquérito, processual, ou até mesmo denúncia que ligasse o acusado ao tráfico ilícito de entorpecentes. Em outras palavras, não houve qualquer prova que corroborasse a confissão do acusado, investigação prévia sobre a suposta atividade habitual de traficância do recorrente, nem tampouco no andar processual, estando a acusação em mãos inclusive do celular do denunciado para que realizasse a colheita de provas que achasse pertinente. Nada foi encontrado.  ..  Assim sendo, restaram preenchidos todos os requisitos autorizadores do privilégio do § 4º do art. 33 da Lei de Drogas, razão pela qual o v. acórdão incorre na atacada contrariedade à lei federal.  ..  As decisões judiciais devem ser pautadas nas provas produzidas no bojo processual, razão pela qual, não havendo provas da habitualidade na traficância, nem corroboração da confissão do recorrente, há a obrigatoriedade de aplicação do privilégio do art. 33, § 4º, da Lei de Drogas. Não se trata de faculdade, e sim de dever proveniente do próprio texto legal, que faz nascer para o acusado um direito público subjetivo com relação à concessão do benefício (fl. 440).
+Ao final da peça recursal, requer o recorrente se dignem Vossas Excelências, inicialmente, em conhecer este recurso especial e, após o exame da motivação e fundamentação retro deduzidas, requer sejainteiramente provido para o reconhecimento da violação do § 4º do art. 33 da Lei n. 11.343/2006, e consequente aplicação da causa de diminuição de pena em comento, nos exatos moldes da sentença de mérito de primeiro grau (fl. 442).
+Oferecidas contrarrazões (fls. 452/455), o recurso especial foi admitido na origem (fls. 459/462).
+O Ministério Público Federal opina pelo não conhecimento e desprovimento da insurgência (fls. 475/476).
+É o relatório.
+Para elucidação do quanto requerido, da sentença condenatória e do combatido aresto extraem-se os seguintes trechos (fls. 277/278 e 375 - grifo nosso):
+ ..
+No entanto, o réu é primário, de bons antecedentes, não se dedicando às atividades criminosas nem à organização criminosa, razão pela qual lhe favorece a causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, motivo pelo qual diminuo a pena privativa de liberdade em 2/3 (dois terços), dado que a quantidade de droga e seu potencial de dependência química já foram sopesados em seu desfavor nas circunstâncias judiciais, resultando em 1 (um) ano, 8 (oito) meses e 25 (vinte e cinco) dias de reclusão e em 173(cento e setenta e três) dias-multa.
+ ..
+Na última etapa dosimétrica, o Juízo Sentenciante reconheceu a causa especial de diminuição do art. 33, § 4º da Lei nº 11.343/06, reduzindo a pena no patamar de 2/3 (dois terços).
+Neste ponto, pleiteia o Ministério Público o afastamento da minorante do tráfico privilegiado, ao argumento de que restou comprovado que o Réu se dedicava às atividades criminosas.
+Com razão.
+Extrai-se do conjunto probatório que conquanto o Apelado seja primário e possua bons antecedentes, existem provas que o fato narrado na denúncia não se trata de conduta isolada, restando comprovada a dedicação do Réu a atividades criminosas.
+Em Juízo, a policial civil Fátima relatou que o Réu, durante a abordagem policial, confessou que as drogas seriam vendidas em "baladas":
+ ..  realizou a abordagem do Réu, o qual estava na posse de três envelopes contendo as drogas. Neste momento, ele confirmou de que se tratava de drogas e, ainda, indicou que na sua carteira haviam mais drogas, o que foi confirmado pela equipe policial. O Réu disse, também, que realizava a venda de drogas em "baladas"  ..  (mov. 101.2).
+De maneira uníssona foi o depoimento judicial do policial civil Rodrigo:
+ ..  Disse que indagou o Réu sobre a encomenda e este já confirmou que se tratava de drogas e, ainda, confirmou que talvez teria mais em sua casa  .. . O Réu disse aos policiais que fazia uso de drogas e, também, realizava a venda nas "baladas"  ..  (mov. 101.3).
+Portanto, conclui-se dos depoimentos supracitados que as substâncias entorpecentes apreendidas - 70 unidades de LSD, 12 gramas de MDMA e 200 comprimidos de ecstasy -seriam comercializadas pelo Apelado em "baladas" da região, circunstância que comprova a traficância habitual do Réu.
+ ..
+Com efeito, no caso concreto, reputo como inidôneo o não reconhecimento da causa de diminuição prevista na Lei de Drogas, com suporte exclusivo no fundamento atinente ao recorrente comercializar os entorpecentes em festas.
+Dessa forma, impõe-se o restabelecimento da dosimetria da pena e determinações proferidas pelo Juízo singular.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restabelecer a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, e demais disposições contidas na sentença condenatória.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DE PENA. FUNDAMENTO INIDÔNEO. SUPORTE EXCLUSIVO NA COMERCIALIZAÇÃO DOS ENTORPECENTES EM FESTAS. PRIMARIEDADE. RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA QUE SE IMPÕE.
+Recurso especial provido nos termos do dispositivo.
