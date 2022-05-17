@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado pela Associação dos Advogados do Banco do Brasil - ASABB, contra decisão denegatória de recurso especial interposto com base no art. 105, III, a e c, da CF, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 103/104):
+EMENTA TRIBUTÁRIO APELAÇÃO AÇÃO ANULATÓRIA ISS MUNICÍPIO DE SÃO PAULO SERVIÇOS BANCÁRIOS. Sentença que julgou procedente a ação.Apelo de ambas as partes.
+HONORÁRIOS DE SUCUMBÊNCIA Com o advento da Lei Federal nº 8.906/94 (Estatuto da Advocacia), a verba honorária de sucumbência passou a ter natureza de direito autônomo do advogado, perdendo sua finalidade de recomposição do patrimônio da parte vencedora Doutrina Supremo Tribunal Federal que, no julgamento do RE nº 564.132/RS, manifestou-se no sentido de que os honorários sucumbenciais têm natureza autônoma e podem ser executados de forma separada, ratificando o previsto no Estatuto da Advocacia Novo Código de Processo Civil de 2015 que previu expressamente no caput do artigo 85 que a parte vencida deverá pagar honorários ao advogado do vencedor, bem como em seu §14 que os honorários constituem direito do advogado, possuindo natureza alimentar.
+No caso dos autos, a Associação dos Advogados do Banco do Brasil ASABB alega ser legitimada para representar seus filiados judicialmente e extrajudicialmente na cobrança de créditos de honorários advocatícios, nos termos do artigo 5º inciso XXI da Constituição da República Honorários que constituem direito autônomo do advogado Legitimação extraordinária que apenas subsistirá se restar demonstrado que os advogados que atuaram no feito são, de fato, associados No presente caso, não houve comprovação de que os titulares da verba honorária são filiados à Associação ora apelante Interesse recursal não caracterizado Recurso não conhecido.
+AUSÊNCIA DE INTERESSE PROCESSUAL INOCORRÊNCIA Alegação do Município de que o autor não possui interesse de agir, uma vez que não constam quaisquer débitos inscritos no CADIN em seu nome - Ajuizamento de ação anulatória pelo autor que, contudo, objetiva a desconstituição do crédito em si, não se limitando à anulação da inscrição do débito no CADIN Interesse processual do autor que restou caracterizado Sentençamantida nesse ponto.
+PRESCRIÇÃO ISS A prescrição tributária extingue o crédito tributário. A prescrição começa a ser contada da data da constituição definitiva do crédito tributário. O dies a quo do prazo prescricional é a data da notificação da obrigação tributária e o dies ad quem do prazo prescricional retroage à data da propositura da ação. Recurso Especial Representativo de Controvérsia 1120295/SP Precedentes do Tribunal de Justiça do Estado de São Paulo.
+No caso dos autos, o autor alegou a ocorrência da prescrição, limitando-se a apresentar cópia de extrato dos débitos junto ao Município de São Paulo Autor que não comprovou a ocorrência da prescrição, tendo em vista que não juntou documentos hábeis para tal análise Ônus da prova que incumbe a quem alega Caberia ao autor a demonstração de seus argumentos - Prescrição não caracterizada Precedente desta C. Câmara.
+Sentença reformada Recurso do Município provido em parte e Recurso da Associação não conhecido.
+Nas razões do recurso, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 21 e 22 da Lei n. 8.906/94; 46, III, do CC; 85, § 14 e 996, parágrafo único, do CPC.Sustenta, em resumo, o reconhecimento da legitimidade da ASABB para pleitear a majoração da verba recursal.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 105/107):
+DOS HONORÁRIOS DE SUCUMBÊNCIA.
+Com o advento da Lei Federal nº 8.906/94 (Estatuto da Advocacia) a verba honorária de sucumbência passou a ter natureza de direito autônomo do advogado, perdendo sua finalidade de recomposição do patrimônio da parte vencedora:
+ ..
+O Plenário do Supremo Tribunal Federal, inclusive, no julgamento do Recurso Extraordinário nº 564.132/RS, submetido ao regime de Repercussão Geral, manifestou- se no sentido de que os honorários advocatícios sucumbenciais têm natureza autônoma e podem ser executados de forma separada, ratificando o previsto no Estatuto da Advocacia:
+ ..
+Há também precedentes deste E. Tribunal de Justiça no sentido de que a verba honorária pertence ao advogado:
+ ..
+O Novo Código de Processo Civil de 2015 previu expressamente no caput do artigo 85 que a parte vencida deverá pagar honorários ao advogado do vencedor, bem como em seu §14 que os honorários constituem direito do advogado, possuindo natureza alimentar:
+ ..
+Assim, verifica-se que os honorários advocatícios constituem direito autônomo do advogado.
+No caso dos autos, a Associação dos Advogados do Banco do Brasil ASABB alega ser legitimada para representar seus filiados judicialmente e extrajudicialmente na cobrança de créditos de honorários advocatícios, nos termos do artigo 5º inciso XXI da Constituição da República.
+Ocorre que, como os honorários constituem direito autônomo do advogado, a legitimação extraordinária apenas subsistirá se restar demonstrado que os advogados que atuaram no feito são, de fato, seus associados.
+Contudo, no presente caso, não houve comprovação de que os titulares da verba honorária são filiados à Associação ora apelante, não restando a caracterizado o seu interesse recursal.
+Com isso, é o caso de não se conhecer do recurso.
+Logo, diante desse contexto, verifica-se que a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providênciavedadaem recurso especial a teor daSúmula 7 do STJ, o que impede, também, o conhecimento do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
