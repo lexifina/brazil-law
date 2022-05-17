@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por LIDYA BEATRIZ DOS SANTOS, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 259):
+VENDA E COMPRA. Cobrança da multa prevista no artigo 35, § 5º, da Lei nº 4.591/1964. Improcedência. Dispositivo legal que se aplica às hipóteses em que a incorporadora deixa de celebrar compromisso de compra e venda com potencial cliente. Tema nº 9 do IRDR nº 0023202-35.2016.8.26.0000, que consolidou entendimento de somente ser exigível, para incidência da multa, a inexistência do prévio arquivamento dos documentos necessários ao registro da incorporação imobiliária. Sentença mantida. RECURSO DESPROVIDO
+Nas razões do recurso especial, a recorrente aponta a violação dos arts. 32 e 35, ambos da Lei 4.591/64, sustentando a incidência da multa de 50% do valor total do imóvel, independentemente de prejuízo ou culpa, em virtude da realização do registro da incorporação após a celebração do contrato.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+A recorrente alegada quea recorrida somentepromoveu o registro da incorporação após a compra e venda e, portanto, tem direito ao recebimento da multa de 50% do valor do imóvel.
+Sobre o tema, o Tribunal de origem consignou que (i)os arts. 32 e 35, ambos da Lei 4.591/64se aplicam àquelas hipóteses em que a incorporadora deixa de celebrar compromisso de compra e venda com potencial cliente, após o término do prazo nele previsto; (ii) no momentoda entrega das chaves (2010) a incorporação já estava registrada (2009); e (iii)não havendo notícia de qualquer prejuízo sofrido pelo comprador, não se aplica a multa do § 5º do art. 35 da Lei 4.591/64. Confira-se:
+Conforme se verifica dos documentos juntados, as partes celebraram compromisso de compra e venda de imóvel em outubro de 2008, ao passo que a incorporação só foi registrada em janeiro de 2009.
+A Lei nº 4.591/64, no artigo 35, "caput", dispõe que: O incorporador terá o prazo máximo de 60 dias (Lei nº 4.864/65), "a contar do termo final do prazo de carência, se houver, para promover a celebração do competente contrato relativo à fração ideal de terreno, e, bem assim, do contrato de construção e da Convenção do condomínio, de acordo com discriminação constante da alínea "i", do art. 32."
+O § 4º deste artigo ainda estabelece que "Descumprida pelo incorporador e pelo mandante de que trata o § 1º do art. 31 a obrigação da outorga dos contratos referidos no caput deste artigo, nos prazos ora fixados, a carta-proposta ou o documento de ajuste preliminar poderão ser averbados no Registro de Imóveis, averbação que conferirá direito real oponível a terceiros, com o consequente direito à obtenção compulsória do contrato correspondente.
+Assim, o dispositivo em comento se aplica àquelas hipóteses em que a incorporadora deixa de celebrar compromisso de compra e venda com potencial cliente, após o término do prazo nele previsto, tendo a multa como objetivo de compelir a empreendedora a efetivar as propostas feitas aos adquirentes, inexistindo previsão legal expressa para sua aplicação nos casos de ausência de registro da incorporação junto ao respectivo Cartório de Registro de Imóveis.
+Ressalte-se que no julgamento do IRDR nº 0023203-35.2016.8.26.0000 Tema 9, consolidou-se o entendimento de somente ser exigível, para aplicação da multa, a inexistência do prévio arquivamento dos documentos necessários ao registro da incorporação imobiliária.
+ ..
+Na espécie, aliás, conforme demonstrado, a incorporação já foi registrada, sendo certo que as chaves foram entregues em 03/09/2010, de modo que a imposição da multa, a fim de compelir a incorporadora a efetivar as propostas feitas aos adquirentes, mostra-se despida de qualquer efeito prático.
+E, como já decidido pelo E. Superior Tribunal de Justiça: "A multa prevista no ar. 35, § 5º, da Lei nº 4.591/64 decorre do descumprimento, pelo incorporador da sua obrigação de outorgar ao adquirente o contrato no prazo legal, independentemente da averbação a que se refere o § 4º do mesmo preceito legal". (REsp nº 147826/DF, 4ª Turma, Relator Ministro Barros Monteiro, j. 02.12.2003).
+Portanto, não é cabível a multa prevista no § 5º, desse dispositivo legal.
+Ainda, o Superior Tribunal de Justiça, em caso análogo decidiu que não havendo notícia de qualquer prejuízo sofrido pelo comprador, não se aplica a multa do §5º, do artigo 35 da Lei 4.591/64  ..  (e-STJ, fls. 260/262 - sem destaques no original).
+Verifico que não há como ser analisada a tese de que a multa prevista no art. 35, § 5º, da Lei 4.591/64 deve ser aplicada, independentemente de prejuízo ou culpa, em virtude da falta de prequestionamento, uma vez que o Tribunal de origem não analisou o caso à luz dos requisitos trazidos nas razões do presente recurso.
+Quanto ao mais, a jurisprudência desta Corte Superior está consolidada no sentido de ser necessária acomprovação do prejuízo decorrente da ausência do registro imobiliário, para fins de incidência da multa, o que não foi verificado no caso em análise.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. VALORAÇÃO DA PROVA. INEXISTÊNCIA. PERSPECTIVA DE REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS. INCORPORAÇÃO IMOBILIÁRIA. REGISTRO PRÉVIO (LEI Nº 4.591/91).
+1. De acordo com o modo pelo qual a controvérsia foi posta e decidida pelas Instâncias ordinárias, não estava mesmo a ensejar a pretendida dilação probatória. Precedentes.
+2. Em recurso especial, ainda que a título de valoração das provas, não se admite análise interpretativa de elementos probatórios controvertidos. Precedentes.
+3. "O artigo 32, caput, da Lei nº 4.591, de 1964, proíbe o incorporador de negociar sobre unidades autônomas antes de ter arquivado, no Ofício Imobiliário, a incorporação. Hipótese, todavia, em que o defeito do ajuste preliminar, contratado antes do registro da incorporação, foi apagado pelo negócio definitivo, assinado quando a incorporação já estava registrada". (Resp n. 69.098/SP, relator Ministro ARI PARGENDLER, 3ª Turma, unânime, DJ 04/10/1999)
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 595.965/PB, de minha relatoria, QUARTA TURMA, julgado em 6/11/2012, DJe 27/11/2012)
+CIVIL. INCORPORAÇÃO. REGISTRO. ATRASO.
+Tendo o empreendimento imobiliário sido levado a registro quatro anos antes do ingresso da ação que postula o pagamento da multa de que trata o art. 35, § 5º, da Lei n. 4.591/64, e sem que tenha havido qualquer prejuízo para o comprador, como no caso, não há que se cogitar da condenação pleiteada.
+Recurso não conhecido.
+(REsp 511.284/PB, Rel. Ministro CESAR ASFOR ROCHA, QUARTA TURMA, julgado em 19/8/2003, DJ 6/10/2003, p. 282)
+Assim, é inviável a revisão da conclusão do Tribunal de origem que afastou o dever de indenizar, sob o fundamento de que, no momento da entrega das chaves, (2010) a incorporação já estava registrada (2009).
+Incide, quanto ao tema, os óbices das Súmulas 7 e 83 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
