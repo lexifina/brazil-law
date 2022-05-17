@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO INDUSTRIAL DO BRASIL S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. INSURGÊNCIA QUANTO AO VALOR DA ALIENAÇÃO DO ATIVO. PRECLUSÃO DA MATÉRIA. A ARREMATAÇÃO FOI HOMOLOGADA EM 04.04.2019, SEM QUE HOUVESSE IMPUGNAÇÃO DO AGRAVANTE NO PRAZO PREVISTO NO ART. 143 DA LEI Nº 11.101/2005. ACEITAÇÃO TÁCITA DO RECORRENTE, O QUE IMPOSSIBILITA A REDISCUSSÃO DA MATÉRIA, NOS TERMOS DO ART. 1.000 DO CPC. RECURSO DESPROVIDO.
+Quanto à controvérsia, sustenta, em síntese, a violação do art. 1.000 do CPC e do Princípio da pacta sunt servanda, eis que:
+10. Da vulneração ao art. 1.000, CPC. Primeiro ponto de reforma da decisão está no fato de que foi dada interpretação equivocada ao art. 1.000, CPC, por considerar que o Recorrente teria aceitado tacitamente o resultado da alienação e sua homologação.
+11. Tal situação de concordância não existe: um, porque o Recorrente expressou categoricamente a sua contrariedade a alienação extemporânea e em valor infinitamente inferior ao estipulado no plano de recuperação judicial.
+ ..
+20. Quebra do pacta sunt servanda. Fora a vulneração ao art. 1.000, CPC, acima exposto, no mérito propriamente, vê-se a vulneração ao pacta sunt servanda, na medida em que as razões de vinculação dos credores ao plano de recuperação judicial foram violadas por ato unilateral das Recorridas ao deixar de providenciar a alienação de seus ativos no tempo, modo e valor previamente estabelecidos e que vou condição sine qua non de declaração de vontade de vinculação dos credores (fls. 237-240).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte Superior de Justiça:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. . (AgInt no AREsp n. 1.479.509/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999; AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+Ademais, não é cabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+Por certo: "O art. 105, III, "a", da CF, ao dispor acerca da interposição de recurso especial, menciona a ocorrência de violação à lei federal, expressão que não inclui os princípios". (AgInt no AREsp n. 826.592/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/6/2017.)
+Destaca-se de igual forma: AgInt no AREsp 1.304.346/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 08/4/2019; AgRg no REsp 1.135.067/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 09/11/2015.
+Além disso, o Tribunal de origem se manifestou nos seguintes termos:
+A controvérsia reside no valor da alienação do ativo, R$ 196.222.144,60, estabelecido na Assembléia Geral de Debenturistas.
+ ..
+A arrematação foi homologada em 04.04.2019, sem que houvesse impugnação do agravante no prazo previsto no art. 143 da Lei nº 11.101/2005:
+ ..
+Com efeito, não cabe rediscutir a matéria ante a aceitação tácita do recorrente, aplicando-se o art. 1.000 do CPC:
+ ..
+Pelo fio do exposto, voto pelo desprovimento do recurso (fls. 212-213, grifos meus).
+Logo, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nessa linha: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Em consonância: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
