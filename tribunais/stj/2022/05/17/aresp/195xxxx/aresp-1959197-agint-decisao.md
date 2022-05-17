@@ -1,0 +1,15 @@
+DECISÃO
+Diante das razões do agravo interno e verificando a impugnação específica dos fundamentos da decisão primeva de admissibilidade, reconsidero a decisão proferida pela Presidência desta Corte.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - INDENIZAÇÃO - COBRANÇA DE SEGURO - JUSTIÇA GRATUITA - RECOLHIMENTO DO PREPARO - ATO INCOMPATÍVEL - INDEFERIR - PRELIMINAR - INCOMPETÊNCIA - DECISÃO EM SEGUNDO GRAU - PRECLUSÃO - REJEITAR - PRESCRIÇÃO - VÍCIO DA CONSTRUÇÃO - CONTINUADO - TERMO INICIAL - RECUSA DO PAGAMENTO - INOCORRÊNCIA.
+- O pagamento do preparo recursal é ato incompatível com o pedido de concessão da justiça gratuita, configurando-se preclusão lógica e afastando a presunção de hipossuficiência financeira.
+- Matéria apreciada em segunda instância com decisão transitada em julgado. Incidência do disposto no art. 502, do CPC.
+- Condição está que atinge inclusive matérias de ordem pública já decididas em segundo grau.
+- Conforme jurisprudência do STJ, o dies a quo para a contagem do prazo prescricional para o ajuizamento da ação indenizatória começa a fluir no momento em que a seguradora, após comunicado o fato, se recusa a indenizar.
+- Os danos decorrentes de vício da construção se protraem no tempo e, em sendo assim não é possível, de outra forma, a fixação de um marco temporal seguro para o termo inicial do prazo prescricional.
+Não merece reforma o acórdão recorrido no tocante à competência.
+Embora a parte recorrente tenha considerado como fato novo o julgamento do RE 827.99, submetido à sistemática da repercussão geral, o certo é que tal argumento não socorre à agravante, na medida em que se sujeitam à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública. Nesse sentido:AgInt nos EAREsp 1.128.787/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 22.2.2022, DJe 2.3.2022.
+Verifico, por outro lado, que também se discute, no presente recurso, a "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" -, tema esse que foi afetado à Segunda Seção, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil -, nos autos dos REsps 1.799.288/PR e 1.803.225/PR (DJe 9.12.2019), de minha relatoria, vinculado ao Tema 1039.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo no tocante à competência e, quanto ao mais, determino o retorno dos autos para que permaneçam sobrestados na origem até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 1039), procedendo-se, em seguida, conforme os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
