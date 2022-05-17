@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por JBS S/Aincorporadora da autora BIOCAMP INDÚSTRIA,COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE BIODIESEL LTDA, contra decisão que não admitiu recurso especial (fls. 684/687 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 578, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DEDÉBITO - DUPLICATA MERCANTIL - NÃO VINCULAÇÃO AO NEGÓCIO JURÍDICOSUBJACENTE - INOPONIBILIDADE DAS EXCEÇÕES PESSOAIS DO EMITENTEDO TÍTULO DE CRÉDITO EM RELAÇÃO AO ENDOSSATÁRIO DE BOA-FÉ -SENTENÇA REFORMADA - 2º APELO - CONHECIDO E PROVIDO - 1º APELO -PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados (fls. 613/627, e-STJ).
+Em suas razões de recurso especial, a recorrente, ora agravante, aponta ofensa aos artigos 1022 do CPC/15, 422 e 476 do CC/02, 15 da Lei 5474/68. Sustenta, em síntese: i) negativa de prestação jurisdicional, pois o acórdão foi contraditório ao reconhecer que o contrato que deu ensejo às duplicatas foi anulado, no entanto, julgou improcedente a ação declaratória de inexistência de débito; ii) deve ser reconhecida a violação a boa-fé objetiva, pois as duplicatas são inexigíveis; e, por fim iii) não há falar em autonomia da duplicata.
+Sem contrarrazões (fl. 683, e-STJ), o apelo não foi admitido na origem (fls. 684/687, e-STJ), dando ensejo ao agravo (fls. 689/696, e-STJ), visando destrancar o processamento daquela insurgência, no qual a recorrente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 700/708, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Não se verifica negativa de prestação jurisdicional.
+Segundo a parte recorrente, o acórdão recorrido seria contraditório, pois, embora o Tribunal de origem tenha reconhecido que o contrato que deu ensejo às duplicatas foi anulado, julgou improcedente a ação declaratória de inexistência de débito, ante a autonomia das duplicatas.
+Não há contradição, porém. De fato, o Tribunal de origem em conformidade com o entendimento do STJ e aos princípios cambiários, notadamente a autonomia e a abstraçãodos títulos de crédito, entendeu que a obrigação decorrente da duplicata seria autônoma à obrigação originária.
+Inexistente, portanto, contradição interna do julgado, quando as proposições enunciadas conflitam entre si, prejudicando a correta compreensão do título judicial.
+Rejeitada, assim, a alegação de ofensa ao art. 1022 do CPC/2015.
+2. Na hipótese, a Corte local, ao julgar improcedente o pedido de inexistência de débito, entendeu que as obrigações decorrentes das duplicatas, uma vez transferidas, são autônomas, não sofrendo influência da relação jurídica originária(fl. 582, e-STJ):
+O ponto crucial para resolução da demanda diz respeito à responsabilidade do 2º apelante, BICBANCO/CHINA CONSTRUCTION BANK, que recebeu por cessão de crédito as duplicatas e promoveu o protesto.  .. Na hipótese, o autor em nada satisfez quanto à comprovação de má-fé das demandadas, ou seja, que a transferência do título foi realizada ardilosamente para o fim de prejudicar o emissor da cártula, com a quebra da obrigação inicial. Logo, há de se considerar a boa fé da instituição financeira demandada, que em nada tem com a relação principal entre o emitente e a primeira beneficiária do título. Eventual desentendimento comercial havido entre os contratantes são fatos alheio sem relação ao terceiro, portador de boa-fé. Com a abstração, o título que é colocado em circulação desvincula-se da obrigação que lhe deu origem, tendo como consequência a inoponibilidade de exceções que, a partir do momento em que o crédito é posto em circulação, não poderá ser alegada nenhuma matéria de defesa estranha à sua relação direta com a exequente.
+Com efeito, conforme entendimento desta Corte, "a duplicata mercantil, apesar de causal no momento da emissão, com o aceite e a circulação adquire abstração e autonomia, desvinculando-se do negócio jurídico subjacente, impedindo a oposição de exceções pessoais a terceiros endossatários de boa-fé."(AgInt no REsp 1668590/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2020, DJe 11/12/2020), não havendo falar, portanto, em inexigibilidade dos títulos.
+A propósito:
+CIVIL E PROCESSUAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRATO DE FACTORING. DUPLICATAS PREVIAMENTE ACEITAS. ENDOSSO À FATURIZADORA. CIRCULAÇÃO E ABSTRAÇÃO DO TÍTULO DE CRÉDITO APÓS O ACEITE. OPOSIÇÃO DE EXCEÇÕES PESSOAIS. NÃO CABIMENTO.
+1. A duplicata mercantil, apesar de causal no momento da emissão, com o aceite e a circulação adquire abstração e autonomia, desvinculando-se do negócio jurídico subjacente, impedindo a oposição de exceções pessoais a terceiros endossatários de boa-fé, como a ausência ou a interrupção da prestação de serviços ou a entrega das mercadorias.
+2. Hipótese em que a transmissão das duplicatas à empresa de factoring operou-se por endosso, sem questionamento a respeito da boa-fé da endossatária, portadora do título de crédito, ou a respeito do aceite aposto pelo devedor.
+3. Aplicação das normas próprias do direito cambiário, relativas ao endosso, ao aceite e à circulação dos títulos, que são estranhas à disciplina da cessão civil de crédito.
+4. Embargos de divergência acolhidos para conhecer e prover o recurso especial.
+(EREsp 1439749/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/11/2018, DJe 06/12/2018)
+Assim, não há falar em violação aos arts.422 e 476 do CC/02 e 15 da Lei 5474/68, pois o acórdão está em conformidade com o entendimento desta Corte, de modo a atrair a incidência da Súmula 83/STJ para ambas as alíneas.
+3.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
