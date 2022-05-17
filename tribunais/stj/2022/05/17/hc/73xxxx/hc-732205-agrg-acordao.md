@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMETIMENTO DE NOVO DELITO DURANTE O LIVRAMENTO CONDICIONAL. REVOGAÇÃO OBRIGATÓRIA. ART. 86, INCISO I, DO CÓDIGO PENAL. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O art. 86, I, do Código Penal estabelece a revogação obrigatória do livramento condicional na hipótese de condenação irrecorrível à pena privativa de liberdade por crime cometido durante a sua vigência, fazendo-se mister a suspensão cautelar do benefício, providência adotada na presente hipótese.
+2. No caso concreto, o Apenado, beneficiado com livramento condicional, cometeu novo crime durante o período de prova, tendo o Juízo da Execução Penal revogado o benefício, após a sua suspensão, ouvida a defesa técnica e antes do término do período de prova, o que encontra respaldo da jurisprudência desta Corte.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por TIAGO WESKLEY ROQUE PACHECO contra a decisão de fls. 543-546, por intermédio da qual deneguei a ordem de habeas corpus. O decisum foi assim ementado (fl. 118):
+"HABEAS CORPUS. EXECUÇÃO PENAL. COMETIMENTO DE NOVO DELITO DURANTE O LIVRAMENTO CONDICIONAL. REVOGAÇÃO OBRIGATÓRIA. ART. 86, INCISO I, DO CÓDIGO PENAL. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA."
+Nas razões do recurso, o Agravante repisa os mesmos argumentos anteriormente expostos, alegando que "não desconhece o teor do disposto no art. 86, inciso I, do Código Penal; contudo, as particularidades reveladas pelo caso sub judice recomendam (mais: impõem) o restabelecimento do Livramento Condicional, tudo em conformidade com os princípios constitucionais da razoabilidade, proporcionalidade e dignidade da pessoa humana" (fl. 550).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito ao Órgão colegiado, para que seja concedida a ordem de habeas corpus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMETIMENTO DE NOVO DELITO DURANTE O LIVRAMENTO CONDICIONAL. REVOGAÇÃO OBRIGATÓRIA. ART. 86, INCISO I, DO CÓDIGO PENAL. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O art. 86, I, do Código Penal estabelece a revogação obrigatória do livramento condicional na hipótese de condenação irrecorrível à pena privativa de liberdade por crime cometido durante a sua vigência, fazendo-se mister a suspensão cautelar do benefício, providência adotada na presente hipótese.
+2. No caso concreto, o Apenado, beneficiado com livramento condicional, cometeu novo crime durante o período de prova, tendo o Juízo da Execução Penal revogado o benefício, após a sua suspensão, ouvida a defesa técnica e antes do término do período de prova, o que encontra respaldo da jurisprudência desta Corte.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não merece acolhimento.
+O Juiz da Execução Penal, ao determinar a revogação do benefício do livramento condicional, assim se posicionou (fl. 518):
+"O executado Tiago Weskley Roque Pacheco foi beneficiado por livramento condicional, concedido em 15/02/2021 (f.435/437).
+Contudo, no curso do período de prova, foi condenado irrecorrivelmente pela prática de nova infração penal (cometida em 09/05/2021), nos autos n. 1502021-17.2021.8.26.0040 (f.482/483).
+Desta forma, o livramento deve ser revogado (obrigatoriamente), nos termos do art. 86, I, do Código Penal. Anoto que o tempo em que o apenado esteve solto não poderá ser computado na pena e que tampouco se concederá, em relação à mesma pena, novo livramento, conforme estatui o art. 142, da LEP. Expeça-se mandado de prisão (regime semiaberto), imediatamente."
+O Tribunal local apresentou os seguintes fundamentos para manter o decisum (fl. 540):
+"Com efeito, quem se encontra em livramento condicional está adstrito ao cumprimento das condições próprias de sua liberação, cujo descumprimento, se o caso, pode ou não implicaras sanções legais correspondentes (Código Penal, artigo 87),acrescidas daquelas reservadas ao advento de nova condenação (Código Penal, artigo 86). E esse é precisamente o caso dos autos, eis que Tiago, estando em livramento condicional, cometeu novo delito, ocorrendo até mesmo o trânsito em julgado da decisão que sequer seria necessário. Assim, necessária a revogação do mencionado instituto.
+Lado outro, a alegação de que auxilia nos cuidados de sua avó, que conta com idade avançada, não é suficiente para manter o livramento condicional.
+Ainda, verifica-se que tendo ocorrido condenação proferida em sede de processo judicial, desnecessária, no caso, a oitiva do agravante no processo de execução penal, até porque é inequívoco que foi por ele exercitado o amplo direito de defesa em face da nova imputação.
+Em face do exposto, nega-se provimento ao agravo interposto, mantendo-se integralmente e por seus próprios méritos a decisão de primeira instância."
+Conforme consignei na decisão agravada, o art. 86, I, do Código Penal estabelece a revogação obrigatória do livramento condicional na hipótese de condenação irrecorrível à pena privativa de liberdade por crime cometido durante a sua vigência, fazendo-se mister a suspensão cautelar do benefício, providência adotada na presente hipótese.
+No caso concreto, o Apenado, beneficiado com livramento condicional, cometeu novo crime durante o período de prova, tendo o Juízo da Execução Penal revogado o benefício, após a sua suspensão, ouvida a defesa técnica e antes do término do período de prova, o que encontra respaldo da jurisprudência desta Corte.
+Nesse sentido, cito os seguintes julgados desta Corte Superior, mutatis mutandi:
+"PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DESCUMPRIMENTO DE OBRIGAÇÃO. REVOGAÇÃO FACULTATIVA DO BENEFÍCIO. ART. 86 DO CP. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada for flagrante, hipótese em que se concede a ordem de ofício.
+2. O livramento condicional deve ser revogado caso o apenado venha a praticar novo crime durante o período de prova (revogação obrigatória), hipótese em que se exige o trânsito em julgado da condenação (art. 86 do CP), ou caso descumpra injustificadamente as condições impostas (revogação facultativa) (art. 87 do CP).
+3. Havendo descumprimento injustificado das condições impostas na sentença, não configura constrangimento ilegal a revogação facultativa do livramento condicional, na hipótese em que houve a intimação do paciente para apresentar suas justificativas, assegurando-lhe o exercício do contraditório e da ampla defesa.
+4. Habeas corpus não conhecido." (HC 197.168/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 05/03/2015, DJe 17/03/2015; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO CRIME DURANTE O PERÍODO DE PROVA REGRAMENTO PRÓPRIO. CONSECTÁRIOS LEGAIS DA FALTA GRAVE. AFASTAMENTO. AGRAVO IMPROVIDO.
+1. Entende o STJ que não configura prática de falta grave a hipótese de cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP. Precedentes.
+2. O livramento condicional ostenta a peculiaridade de ser um benefício que, embora submetido à disciplina regular da execução penal, é usufruído integralmente fora do sistema prisional, característica que determina tratamento específico. Portanto, inexiste previsão legal de outras sanções que não a suspensão ou revogação do benefício e a de não se descontar da pena o tempo que o apenado esteve liberado, inadmissível, assim, ante o princípio da legalidade, estender a esta hipótese a possibilidade de configuração de falta grave e de todos os consectários que lhe são inerentes, como, no caso, a determinação de realização de audiência de justificação, nos termos do art. 118, § 2º, da LEP, para apuração da respectiva falta grave.
+3. Agravo regimental improvido." (AgRg no HC 617.911/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021; sem grifos na origem.)
+Outrossim, consoante consignado no acórdão impugnado, "a alegação de que auxilia nos cuidados de sua avó, que conta com idade avançada, não é suficiente para manter o livramento condicional", diante da expressa previsão legal de revogação do benefício.
+Destarte, o Agravante não trouxe nenhum argumento apto a modificar o entendimento e a jurisprudência apresentados na decisão agravada, que deve ser mantida pelos seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
