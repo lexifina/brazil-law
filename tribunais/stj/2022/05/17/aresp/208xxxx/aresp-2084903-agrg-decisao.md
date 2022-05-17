@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo regimental interposto por HELENA MELO DOS SANTOS contradecisão daPresidência desta Corte Superior que, com base no art. 21-E, V,doRegimento Interno do Superior Tribunal de Justiça, não conheceu doagravo emrecurso especial (e-STJ, fls. 168-169).
+Na origem, a parte agravante se insurge contra acórdão proferido pelo TJDFT (e-STJ, fls. 102-107), assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. DIREITO DE VISITAÇÃO. AGRAVANTE PRESA NA PFDF. PRETENSÃO DEDUZIDA PELO FILHO CONDENADO AO CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME ABERTO. INDEFERIMENTO. DECISÃO MANTIDA.
+1. O direito de visita de familiares não constitui garantia absoluta e irrestrita do preso. Com efeito, tal direito pode ser mitigado, segundo as circunstâncias do caso concreto.
+2. O artigo 6º da Portaria VEP/DF n. 8/2016 reza que a visitação de detento por pessoa que esteja cumprindo pena em regime aberto é proibida.
+3. O filho da agravante foi condenado ao cumprimento de pena privativa de liberdade em regime aberto; logo não se mostra razoável, tampouco lícito, autorizar o seu direito de visitação à genitora, detida na PFDF.
+4. Recurso de agravo em execução penal conhecido e desprovido".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 1º e 41, X da Lei 7.210/1984. Aduz para tanto, em síntese, que "os efeitos da condenação da visitante não têm o condão de transcender o que está previsto na lei, tampouco o que foi disposto na sentença condenatória. Igualmente, não há quaisquer restrições à visitação pela requerente" (e-STJ, fl. 119). Além disso, assevera que "não obstante tratar-se de pessoa que cumpre pena em regime aberto, não há impedimento válido para as visitas, de modo que frustrar tal direito do recorrente significaria violação ao princípio da dignidade da pessoa humana e do próprio alcance da sentença condenatória" (e-STJ, fl. 119).
+Com contrarrazões (e-STJ, fls. 132-134), o recurso foi inadmitidonaorigem (e-STJ, fls. 137-139),ao que se seguiu a interposição deagravo, não conhecido pela decisão monocrática ora recorrida (e-STJ, fls. 168-169).
+No agravo regimental, a parte recorrente argumenta, em suma, queforamimpugnados os fundamentos da decisão de inadmissibilidade.
+Instado a se manifestar, o MPF opinou pelo provimento do recurso especial (e-STJ, fls. 189-192).
+É o relatório.
+Decido.
+À luz das razões apresentadas pela parte agravante, reconsidero a decisãodefls. 168-169 (e-STJ), pois o agravo efetivamente atacou os fundamentosdadecisão de fls. 137-139 (e-STJ). Portanto, conheço do agravo e passoaoexame do recurso especial propriamente dito.
+Desde já, adianto que a pretensão recursal merece acolhimento.
+Inicialmente, cumpre ressaltar que, de acordo com o entendimento deste Tribunal Superior, o direito de visita, disposto no art. 41, X, da Lei de Execução Penal, embora seja relevante para o processo de reinserção do preso à sociedade e imprescindível para a manutenção dos laços familiares, não ostenta natureza absoluta e deve ser concedido após análise das circunstâncias do caso concreto. A propósito:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VISITA DA COMPANHEIRA DO REEDUCANDO, EM RAZÃO DA TENTATIVA DE ENTRADA NA UNIDADE PRISIONAL COM PORTE DE SUBSTÂNCIAS ILÍCITAS. PERMISSÃO MEDIANTE PARLATÓRIO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ .. .
+3. O art. 41, inciso X, da LEP confere aos presos o direito de serem visitados por cônjuge, companheira, parentes e amigos em dias determinados. Acerca da matéria, é firme a jurisprudência desta Corte Superior no sentido de que referido direito do apenado, embora relevante para o processo de reinserção do preso à sociedade e imprescindível para a manutenção dos seus laços familiares, não possui natureza absoluta e deve ser sopesado, de acordo com a situação específica vivenciada no caso
+concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando, por consequência, também pela integridade física tanto dos reclusos quanto dos que os visitam. Não se desconhece a jurisprudência desta Corte segundo a qual o direito de visitação, com o objetivo de ressocialização do apenado, não pode ser negado à companheira do apenado, com fundamento exclusivamente no fato de ela estar cumprindo pena em regime aberto.
+ .. .
+7. Agravo regimental não provido".
+(AgRg no AREsp 1767059/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+O Tribunal de origem negou a ora recorrente o direito de receber visitas de seu filho, com base nos seguintes fundamentos:
+"Adiro a esse douto entendimento, rogando vênia à nobre Juíza da VEP, Dra. Leila Cury, para adotá-lo integralmente como razões de decidir.
+Reforço que o direito de visita de familiares não constitui garantia absoluta e irrestrita do preso. Com efeito, tal direito pode ser mitigado, segundo as circunstâncias do caso concreto.
+Além disso, o artigo 6º da Portaria VEP/DF n. 8/2016 reza que a visitação de detento por pessoa que esteja cumprindo pena em regime aberto é proibida.
+O filho da agravante (THIAGO MELO DOS SANTOS) está em cumprimento de pena privativa de liberdade em regime aberto (Execução Penal n. 0002303-43.2018.8.07.0015); logo, à luz do exposto, não se mostra razoável autorizar o seu direito de visitação à agravante, recolhida na PFDF" (e-STJ, fls. 105-106).
+Como se vê, a Corte Estadual não apresentou nenhuma justificativa concreta para negar ao apenado o direito de receber a visita de seu primo, a não ser o fato de ele estar cumprindo pena no regime aberto. Todavia, de acordo com o entendimento desta Corte Superior, o direito de visita não pode ser negado com base apenas nesse fundamento.
+Acrescente-se, ainda, que "o direito de visita tem objetivo de ressocialização do condenado, não podendo ser negado sob o fundamento de o visitante estar cumprindo pena em regime aberto, já que os efeitos da sentença penal condenatória não podem restringir o gozo de outros direitos individuais, ante as vedações constitucionais à perpetuidade e à transcendência da sanção penal" (AgRg no AREsp 1650427/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 06/08/2020). Nesse mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DIREITO DE VISITA. COMPANHEIRA TAMBÉM CONDENADA POR TRÁFICO DE DROGAS. ART. 41 DA LEI N. 7.210/1984. LEI DE EXECUÇÃO PENAL. AUSÊNCIA DE ÓBICES LEGAIS.
+1. No presente caso, o Tribunal a quo decidiu que a condenação da companheira do recorrido, também por tráfico de drogas, em regime aberto, não é fundamento idôneo para justificar o indeferimento do pedido de visita.
+2. Assegurado expressamente pela Lei de Execução Penal, o direito de visitação, com o objetivo de ressocialização do apenado, não pode ser negado a companheira do condenado, por ela estar cumprindo pena sob o regime aberto, uma vez que este só lhe restringe os direitos atingidos pelo efeito da sentença condenatória, e não ao gozo dos demais direitos individuais. Precedentes: AgRg no REsp 1475961/DF, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2015, DJe 13/10/2015; AgRg no REsp 1556908/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/10/2015, DJe 05/11/2015.
+ .. .
+4. Agravo regimental não provido".
+(AgRg no REsp 1487212/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c" doRegimento Interno do STJ, reconsidero a decisão agravadapara conhecer do agravo e dar provimento ao recurso especial, a fim de assegurar a recorrente o direito de receber visitas de seu filho.
+Publique-se. Intimem-se.
