@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+RODRIGO SILVA SANTOS interpõe agravo regimental contra a decisão de fls. 29-30, que não conheceu do habeas corpusimpetrado em seu favor, em que fora apontadocomo autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1515406-21.2019.8.26.0228), julgando prejudicado o pedido de liminar.
+Em primeiro grau, o agravantefoi condenado às penas de 6anos de reclusão no regime fechado e de 600 dias-multa, pela prática do delito descrito no art. 33, caput, c/c o art. 40, III e VI, da Lei n. 11.343/2006. O Tribunal de origem negou provimento ao recurso de apelação da defesa.
+A pena-base foi fixada no mínimo legal, mantida na segunda fase da dosimetria. Foi afastado o tráfico privilegiado e reconhecida a causa de aumento de pena, prevista no art. 40, III e VI, da Lei n. 11.343/2006, na fração de 1/5.
+A decisão agravada não conheceu do writ,visto que o trânsito em julgado da sentença penal condenatóriaocorrera em data anterior à da impetração.
+Nas razões deste recurso, o agravante afirma estar configurada hipótese de flagrante ilegalidade, pois, segundo aduz, a dosimetria da pena é passível de revisão emhabeas corpus.
+Com fundamento naSúmulan. 440 do STJ, insiste na tese de que faz jus à fixação do regime semiaberto para o cumprimento da pena. Argumenta que é primárioe que a pena-base foi fixada no mínimo legal.
+Requera reconsideração da decisão agravada ou o provimento do recurso para que sejafixado o regime semiaberto.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES.FIXAÇÃO DE REGIME INICIAL MAIS GRAVOSO. QUANTIDADEDEDROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de reconhecimento de eventual ilegalidade na colheita de provas é indevida e tem feições de revisão criminal.
+2. Ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ no STJ, cuja competência prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+3.O juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a natureza ou a quantidade da droga ou outros elementos que evidenciem a maior gravidade da prática delitiva, desde que fundamente sua decisão.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+No caso, a condenação sofrida pelo agravanteé definitiva, pois, em consulta ao site do Tribunal de origem, verifica-se que foi certificado o trânsito em julgado da sentença condenatória em 3/3/2020; o presente writ, no entanto, foi impetrado somente em 31/3/2022.
+Observa-se ainda que não há, no STJ, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 6/4/2021; AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+No mesmo sentido, a orientação do STF: AgRg no HC n. 134.691/RJ, relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 1º/8/2018; AgRg no HC n. 149.653/SP, relator Ministro Dias Toffoli, Segunda Turma, DJe de 6/2/2018; AgRg no HC n. 144.323/SP, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 30/8/2017; e HC n. 199.284/SP, relator Ministro Marco Aurélio, Primeira Turma, DJe de 16/8/2021.
+Também não há flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Com relação ao regime inicial de cumprimento de pena, o Tribunal de origem manteve o regime fechado nos seguintes termos (fls. 16-17, destaquei):
+De se consignar que o tráfico de entorpecentes é considerado crime grave e apto a causar abalo à ordem pública, na medida em que o traficante atinge um número excessivo de pessoas, as quais acabam se envolvendo em outros crimes. Anote-se, inclusive que o delito de tráfico é equiparado aos hediondos, de acordo com a atual redação do art. 2º, § 1º da Lei nº 8.072/90 e, por isso, não se mostra razoável a incidência do regime aberto ou semiaberto para o cumprimento da reprimenda.
+Não se desconhece que o STF (HC 111.840/ES, Rel. Min. Dias Toffoli) chegou a reconhecer, em caráter incidental, a inconstitucionalidade do parágrafo 1º do art. 2º, da Lei 8.072/90. Porém, convém lembrar, na esteira do aresto citado, que isso não invalida a discricionariedade judicial na análise do caso concreto, com possibilidade, pois, de fixação do regime fechado quando entendido como sendo o mais adequado.
+ ..
+Aqui, vejo como justificada a escolha do regime fechado, afinal, como já dito, com o réu foram apreendidas inclusive diversas pedras de crack, talvez a substância mais nociva à saúde pública, em ambiente frequentado por jovens, circunstâncias indicativas de que seu afastamento temporário de qualquer convívio social é a medida salutar, seja para consecução dos fins preventivos da pena, seja para sua devida ressocialização.
+Destaque-se que a escolha do regime fechado com base na hediondez do delito não encontra mais respaldo na jurisprudência das cortes superiores, mormente após a declaração de inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990 pelo Supremo Tribunal Federal.
+O art. 33, §§ 2º, a, b e c, e 3º, do Código Penal estabelece a regra geral para fixação do regime inicial de cumprimento da pena, pautando-se pela quantidade da reprimenda imposta ao final da dosimetria: a) fechado para a pena superior a 8 anos e, em casos de reincidência, para a pena igual ou inferior a 8 e superior a 4 anos; b) semiaberto para a pena igual ou inferior a 8 e superior a 4 anos, se primário o condenado; e c) aberto para a pena de até 4 anos.
+Por sua vez, o juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a eventual existência de circunstâncias judiciais desfavoráveis, especialmente a natureza ou a quantidade da droga, até mesmo sua forma de acondicionamento, desde que fundamente a decisão (AgRg no HC n. 536.415/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/8/2020).
+No presente caso, a quantidade de drogas aprendida (17 invólucros de cocaína, pesando 5,8g;60 pedras de crack; pesando 10,9g;9 invólucros de cocaína, pesando 5,6g;e 60 invólucros de maconha, pesando 123,3g)revela maior gravidade, o que justifica a imposição de regime diverso dos parâmetros previstos no art. 33 do Código Penal, devendo, portanto, ser mantido o regime inicial fechado, fixado na origem.
+Desse modo, agiu com acerto o Tribunal a quo, não sendo possível a fixação de regime mais brando.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
