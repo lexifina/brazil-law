@@ -1,0 +1,14 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos por Tricury Participações Ltda, contra acórdão proferido pelo Tribunal de origem, cuja ementa assim estabelece,in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.OFENSA AO ARTIGO 535, II, DO CPC/1973. NÃO CARACTERIZAÇÃO. PIS E CONFINS. RECEITA BRUTA. JUROS SOBRE CAPITAL PRÓPRIO. NÃO INCLUSÃO.PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais, a embargante alega a omissão, ao asseverar que não foram analisadas as seguintes teses,in verbis:
+i) violação ao art. 17 da Lei nº 4.595/64 c/c art. 3º, caput , da Lei nº 9.718/98 em razão da indevida equiparação da Embargante às instituições financeiras para fins de definição da base de cálculo do PIS e da COFINS incidente sobre suas receitas promovida pelo v. acórdão recorrido;
+ii) violação ao artigo 27, § 2º da Lei nº 10.865/2004 c/c art. 97 do Código Tributário Nacional em razão da desconsideração, pelo v. acórdão recorrido, da impossibilidade de um ato infralegal, sob pretexto de regulamentar o § 2º do artigo 27 da Lei nº 10.865/04, ultrapassar os limites da delegação promovida pelo Poder Executivo para excepcionar apenas uma espécie de receita financeira (juros sobre o capital próprio) da regra de alíquota zero das exações em debate.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+Deveras, reconheço a omissão, contudo rejeito os efeitos infringentes dosaclaratórios em seu mérito. Isso porque à tese quanto à ofensa a estrita legalidade tem cunho eminentemente constitucional, conforme aponta o próprio recorrente ao arrazoar o apelo especial, in verbis (fls. 943, e-STJ):
+Portanto, o contribuinte não pode ser impelido ao pagamento de um tributo do qual não conhece (com certeza) sequer a base de cálculo! Tal definição deveria, em razão do princípio constitucional da estrita legalidade, ter sido esgotada na descrição da hipótese de incidência e, unia vez não realizada pela legislação que rege a matéria, necessária seria a existência de lei para pormenorizar esse aspecto para a quantificação do tributo, não podendo o v, aresto assim pretender fazê-lo, o que demonstra a violação ao artigo 97, inciso 1, do Código Tributório NacionaL
+Não obstanteo recorrente apontar suposta ofensa ao Código Tributário Nacional, a questão versada possui nítido caráter constitucional, ao se perscrutar a ofensa ao princípio constitucional da legalidade tributária. Nesse ponto, não prospera o conhecimento da questão, sob pena de usurpação de competência constitucional disposta no comando do artigo 102 da Constituição Federal, competindo ao Supremo Tribunal Federal analisar uma suposta violação à Carta Magna.
+Ante o exposto, conheço dos embargos de declaração, para suprir a omissão sobredita, contudo sem efeito infringente.
+Publique-se.
+Intimem-se.
