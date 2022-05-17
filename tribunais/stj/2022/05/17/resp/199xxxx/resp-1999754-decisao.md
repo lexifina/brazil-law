@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Mato Grosso cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO - DIREITO TRIBUTÁRIO - EXECUÇÃOFISCAL - DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA - LANÇAMENTO DEOFÍCIO PELA AUTORIDADE FISCAL - DECADÊNCIA - OCORRÊNCIA - RECURSODESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 173, I, do CTN, porquanto restou comprovado que o contribuinte foi notificado via SNE, sistema de notificação eletrônica, no dia 17.12.2015, ou seja, dentro do prazo decadencial.
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fls. 273/274.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que "quanto aos fatos geradores que ocorreram 2010, cujo prazo decadencial tem início no primeiro dia do exercício financeiro seguinte, ou seja, em 1º de janeiro de 2011, a Fazenda Estadual teria até 31 de dezembro de 2015 para constituir definitivamente o crédito, vindo a fazer em 17-1-2016, consoante informado pelo próprio Exequente, na petição de Id. 22111500 - Pág. 61, revelando-se caduco o crédito tributário, quanto ao mencionado período".
+Verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  ocorrência da prescrição  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+A corroborar com esse entendimento, destacam-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Não há falar em omissão, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, não cabendo confundir omissão com entendimento diverso do perfilhado pela parte.
+2. A conclusão do Tribunal de origem acerca de ter havido homologação de laudo pericial, preclusão consumativa e desnecessidade de produção de nova prova pericial, decorreu do exame dos elementos constantes nos autos, de modo que não pode ser revista em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt na TutPrv no REsp 1536408/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 24/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. AVALIAÇÃO REALIZADA POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. DISCUSSÃO SOBRE A NECESSIDADE DE NOMEAÇÃO DE AVALIADOR OFICIAL. ACÓRDÃO RECORRIDO FULCRADO NAS PECULIARIDADES DO CASO CONCRETO. REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+2. No entanto, em caso análogo, a Segunda Turma/STJ mitigou a regra prevista no art. 13, § 1º, da Lei 6.830/80, aplicando o óbice da Súmula 7/STJ, na hipótese em que o Tribunal de origem afirmou inexistir situação concreta apta a invalidar a avaliação realizada pelo oficial de justiça avaliador (REsp 1259854/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2011, DJe 01/09/2011).
+3. No presente caso, considerando que o Tribunal afirmou que, "neste momento, deve ser prestigiada a presunção de legitimidade do laudo produzido pela auxiliar do juízo, não havendo elementos mínimos a autorizar, por ora, nova avaliação do imóvel", é imperioso concluir que a análise da alegada afronta ao art. 13, § 1º, da Lei 6.830 encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1524901/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Diante do exposto, com base no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
