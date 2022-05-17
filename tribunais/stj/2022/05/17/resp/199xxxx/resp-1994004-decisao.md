@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"TRIBUTÁRIO. SUSPENSÃO DA EXIGIBILIDADE DA CONTRIBUIÇÃO SOCIAL. DÉCIMO TERCEIRO SALÁRIO SOBRE AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA.
+I. A contribuição previdenciária não incide sobre o aviso prévio indenizado, em razão da sua natureza indenizatória, assim comoo décimo terceiro salário proporcional, que deve ter o mesmo tratamento da verba principal, porque não incorporam a remuneração do empregado quandode sua aposentadoria. Precedente: TRF 5ªRegião, APELREEX23962/PE, rel. Desembargador Federal Manoel Erhardt, DJe.14.11.2012.
+II. Para que a litigância de má-fé se configure faz-se necessário que a autora tenha agido de forma maldosa, dolosa causando prejuízo à parte contrária e que a conduta preencha a uma das hipóteses taxativas do art. 17 do CPC. Não se constata, no caso, nenhuma das hipóteses previstas no aludido artigo, pois não é possível ao órgão julgador determinar que a parte realize a cumulação depedidos em umaúnica ação, principalmente na área tributária, quando os pedidos e causa de pedidos são diversos.
+III. Honorários advocatícios majorados para R$ 1.000,00 (um milreais), nos termos do art. 20, §4º, do CPC.
+IV. Apelação da Fazenda Nacional improvida.
+V. Apelação da autora provida" (fl. 131e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 147/153e).
+Nas razões do Recurso Especial, alega-se contrariedade aos arts. 535, II, do CPC/73 e22 e 28 da Lei 8.212/91. Aduz a Fazenda Nacional, em síntese, que é devida a contribuição previdenciária sobre os valores pagos a título de décimo terceiro salário proporcional, calculado sobre o aviso prévio indenizado, tendo em vista possuir tal verbacaráter remuneratório (fls. 154/165e).
+O Recurso Especial foi admitido (fls. 231/233e e 240e).
+Na origem, trata-se de Ação Declaratória ajuizadapela parte ora recorrida, em que pretende o reconhecimento da inexistência de relação jurídico-tributária entre ela e a União, afastando, em definitivo, a cobrança indevida de contribuição previdenciária patronal sobre os valores pagos a título de 13º salário proporcional no aviso prévio indenizado.
+O Juízo de 1º Grau julgou procedente o pedido (fls. 47/53e).
+Em sequência, recorreram a Fazenda Nacional e a autora, sendo que o Tribunal de origem negou provimento àapelação da Fazenda Nacional e deu provimento ao apelo da autora (fls. 124/132e).
+Daí a interposição do presente Recurso Especial, que merece ser provido.
+Com efeito, ressalto que, ainda que o Superior Tribunal de Justiça tenha, ao apreciar o Recurso Especial repetitivo 1.230.957/RS, decidido pela não incidência de contribuições previdenciárias sobre o aviso prévio indenizado, no que tange à cobrança de contribuições previdenciárias sobre o décimo terceiro salário proporcional ao aviso prévio indenizado, há de ser provido o Recurso Especial da Fazenda Nacional, uma vez deve prevalecer o entendimento firmado, no Recurso Especial repetitivo 1.066.682/SP, julgado pela Primeira Seção, sob o rito do art. 543-C do CPC, no sentido de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária.
+Nesse sentido:
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MONOCRÁTICA. INAPTIDÃO.
+1. Embora o Superior Tribunal de Justiça tenha consolidado jurisprudência no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial, relativamente à incidência da exação sobre o décimo terceiro salário proporcional no aviso prévio indenizado, prevalece o entendimento firmado em sede de recurso repetitivo, de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária.
+2. Decisões monocráticas trazidas como paradigmas na divergência jurisprudencial invocada se mostram imprestáveis à caracterização do dissídio, nos termos dos arts. 546, inciso I, do Código de Processo Civil, 266 do Regimento Interno do Superior Tribunal de Justiça e 105, inciso III, alínea "c", da Constituição Federal.
+Agravo regimental improvido" (STJ, AgRg nos EDcl nos EDcl no REsp 1.379.550/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/04/2015).
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO NATALINA PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA.
+1. A jurisprudência do STJ consolidou-se no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial.
+2. A gratificação natalina, por ostentar caráter permanente, integra o conceito de remuneração, sujeitando-se, consequentemente, à contribuição previdenciária. A Lei 8.620/1993, em seu art. 7º, § 2º, autorizou expressamente a incidência da contribuição previdenciária sobre o valor bruto do 13º salário.
+3. Nesse contexto, a circunstância de o aviso prévio indenizado refletir na composição da gratificação natalina é irrelevante, devendo a contribuição previdenciária incidir sobre o total da respectiva verba.
+4. Assim, os valores relativos ao 13º proporcional ao aviso prévio indenizado por possuem natureza remuneratória (salarial), sem o cunho de indenização, sujeitam-se à incidência da contribuição previdenciária.
+5. Agravo Regimental não provido" (STJ, AgRg no REsp 1.383.613/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/10/2014).
+O aresto recorrido, assim, merece reforma, pois divergente da jurisprudência desta Corte sobre o tema.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para determinar a incidência de contribuição previdenciária sobre os valores pagos a título de décimo terceiro proporcional ao aviso prévio indenizado.
+I.
