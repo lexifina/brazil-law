@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por ULYSSES PINHEIRO GUIMARÃES, noqual se alega violação doart. 833, IV eX, do Código de Processo Civil, além dedissídio jurisprudencial. Oacórdão recorrido estáretratado naseguinteementa(fl. 106):
+AGRAVO DE INSTRUMENTO. EMBARGOS DO DEVEDOR.ALEGAÇÃO DE IMPENHORABILIDADE DE VALORES ENCONTRADOS EM PLANO DE PREVIDÊNCIA PRIVADA. REJEIÇÃO EM 1º GRAU. DECISÃO MANTIDA. IMPENHORABILIDADE PREVISTA NO ART. 833, X, DO C. P. C. QUE SE RESTRINGE AO MONTANTE DEPOSITADO EM CADERNETA DE POUPANÇA. NÃO É FACULTADO AO JULGADOR A INTERPRETAÇÃO EXTENSIVA DA NORMA QUANDO BEM DEFINIDAA AMPLITUDE A ELA CONFERIDA PELO LEGISLADOR. PREVIDÊNCIA PRIVADA QUE TEM NATUREZA DE INVESTIMENTO E PODE SER OBJETO DE CONSTRIÇÃO JUDICIAL . RECURSO DESPROVIDO.
+Sustenta o recorrente que é impenhorávelvalor inferior a 40 (quarenta) salários mínimos mantido em previdência privada complementar.
+Assim posta a questão, passo a decidir.
+Observo que o Tribunal de origem entendeu que o recorrente não demonstrou que a quantia penhorada é imprescindível ou necessária para sua subsistência, motivo pelo qual manteve a constrição judicial sobre os valores mantidos em plano de previdência privada.
+Com efeito, anoto que rever o entendimento do Tribunal de origem demandaria o reexamedo acervo fático dosautos,oqueencontraóbicenoenunciado n. 7 da Súmula do STJ. A propósito,confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. PENHORABILIDADE. AUSÊNCIA DE CARÁTER ALIMENTAR. POSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Segunda Seção, DJe de 4/4/2014).
+2. O Tribunal de origem, com fundamento nos fatos e nas provas dos autos, concluiu que o agravante não demonstrou o caráter alimentar dos valores recolhidos para a previdência complementar. Alterar o entendimento do acórdão recorrido, quanto à legitimidade da parte e à existência do ato ilícito, demandaria reexame do conjunto fático-probatório dos autos, vedado em recurso especial pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.357.826/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20.9.2021, DJe de 23.9.2021);
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DO AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/2015.Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.Precedentes.
+2. Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Segunda Seção, DJe de 4/4/2014).
+2.1. O Tribunal de origem, com fundamento nos fatos e nas provas dos autos, concluiu que o agravante não demonstrou o caráter alimentar dos valores recolhidos para a previdência complementar. Infirmar as conclusões da Corte local, a fim de se entender pela impenhorabilidade dos valores depositados no fundo de previdência privada, como pretende o agravante, encontra óbice na Súmula 7/STJ, pois exige o reexame de fatos e provas.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.919.780/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9.11.2021, DJe de 25.11.2021).
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
