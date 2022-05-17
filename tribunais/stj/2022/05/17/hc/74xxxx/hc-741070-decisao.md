@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 45):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - DESCABIMENTO -IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP - GARANTIA DA ORDEM PÚBLICA - PACIENTE REINCIDENTE. IMPOSIÇÃO DE MEDIDAS CAUTELARES -INVIABILIDADE. ORDEM DENEGADA. I. A decisão que converte a prisão em flagrante em preventiva para resguardo da ordem pública não consubstancia constrangimento ilegal, quando embasada em atos e comportamentos concretos do paciente e no risco gerado pelo seu estado de liberdade, especialmente diante de sua reincidência. II. A demonstração concreta da necessidade da prisão preventiva afasta a possibilidade da sua substituição por medidas cautelares diversas.
+Consta dos autos que opaciente foi preso em flagrante, sendo convertida em preventiva pela suposta prática dos delitos previstos nos art. 33, caput, da Lei n. 11.343/2006.
+Oimpetrante sustenta, em síntese,que não estãopresentes os requisitos necessários à custódia cautelar, nos termos do art. 312 do Código de Processo Penal, tendo a prisão sido embasada apenas na gravidade abstrata do delito, o que não é permitido pelo ordenamento jurídico.
+Alega que a quantidade de droga apreendida seria pequena, podendo responder ao processo em liberdade.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente mediante a imposição de medidas cautelares diversas da prisão.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdadeantes do trânsito em julgado da sentença condenatória, reveste-se delegalidade a medida extrema quando baseada em elementos concretos, nostermos do art. 312 do CPP.
+O decreto prisional assim dispôs (fl. 30):
+"Visto. Para fins do art. 282, § 6º, do CPP, tenho que as medidas cautelares previstas no art. 319 do CPP, não devem ser aplicadas no presente caso, pois, a ordem pública deve ser garantida, além disso, há riscos na continuidade da conduta de tráfico por parte do custodiado, caso não se encontre preso, ponderando ainda a presença, em tese, de reincidência especifica. Desta forma, tendo-se em vista que a prisão do autuado é necessária para garantir a ordem pública, acolhendo o parecer ministerial, converto a prisão em flagrante em prisão preventiva, o que faço nos termos do art. 312, do CPP.
+Como se vê, expôs o decreto prisional fundamentação consistente nareiteração delitiva do paciente, destacando-se que "há riscos na continuidade da conduta de tráfico por parte do custodiado, caso não se encontre preso, ponderando ainda a presença, em tese, de reincidência especifica.".
+Porém, na hipótese, apesar da referência à reiteração pelo mesmo crime,a quantidade de droga apreendida não é expressiva- 3,23 gramas de crack (fl. 24).
+A Sexta Turma desta Corte tem entendido que o tráfico flagrado de não relevantequantidadededrogassomente com especial justificação permitirá a prisão por risco social, de modo que a medida de prisão é desproporcional.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGALCONFIGURADO.
+1. A agravada, além de mãe de quatro crianças, sendo três abaixo de 12anos, é primária e possui bons antecedentes, e, além disso, a quantidadede entorpecente supostamente traficada é diminuta (16,6 g de maconha, 30,3g de cocaína e 2,4 g de pasta de cocaína - fls. 144/147 e 210/222); logo,apesar de minimamente fundamentada a prisão, não está demonstrada apericulosidade do agente, a ponto de justificar o encarceramentopreventivo. A prisão, in casu, revela-se medida desproporcional (HC n.475.587/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe21/3/2019).
+2. A parte agravante não reuniu elementos suficientes para infirmar odecisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.(AgRg no HC 662.056/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,julgado em 15/02/2022, DJe 17/02/2022)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO AOTRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. AUSÊNCIA DEPROPORCIONALIDADE. SUBSTITUIÇÃO POR MEDIDA CAUTELAR. ART. 319 DO CPP.POSSIBILIDADE.
+1. A regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisãode natureza cautelar revela-se cabível tão somente quando, a par deindícios do cometimento do delito (fumus commissi delicti), estiverconcretamente comprovada a existência do periculum libertatis, nos termos
+do art. 312 do Código de Processo Penal. 2.Na espécie, realizada a prisão em flagrante, o Magistrado de pisoconverteu a custódia em preventiva com base na pequena quantidade de droga(4 porções de cocaína, com peso de 6g, além de 33 pedras de crack, pesando7g) apreendida e na indicação genérica de que o paciente "responde aoutros processos criminais".
+3. Na espécie, além de a quantidade de droga apreendida não ser vultosa, avaga referência a "outros processos criminais" deu-se sem que fossemapontados dados concretos relacionados à pretensa reiteração delitiva.Nesse contexto, apesar de minimamente fundamentada a prisão, não estádemonstrada a periculosidade do agente, a ponto de justificar oencarceramento preventivo. A prisão, in casu, revela-se medidadesproporcional.
+4. Assim, as particularidades do caso demonstram a suficiência, adequaçãoe proporcionalidade da imposição das medidas menos severas previstas noart. 319 do Código de Processo Penal.
+5. Ordem concedida, em menor extensão, para substituir a prisão preventivapor medidas cautelares diversas da prisão a serem fixadas pelo Juizsingular.
+(HC 475.587/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA,julgado em 12/03/2019, DJe 21/03/2019)
+Ante o exposto, concedoliminarmente o habeas corpus, para a soltura do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
