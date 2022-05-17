@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 530/534, na qual indeferi liminarmenteo habeas corpus, nos seguintes termos:
+"A jurisprudência desta Corte entende que mesmo na hipótese de condenação inferior a quatro anos, desde que exista circunstância judicial negativa, o regime inicial pode ser o semiaberto." (fl. 530)
+Oagravante busca a fixação do regime aberto. Para tanto, alega:
+"Percebe-se que a motivação para afastar a imposição do regime inicial aberto se limitou à existência de uma única circunstância judicial desfavorável, os maus antecedentes, em virtude de condenação ocorrida há mais de 12 anos (e-STJ Fl. 315).
+É obviamente excessiva e desproporcional a fixação de regime mais gravoso que o permitido que se baseie em único crime cometido há mais de 12 anos !!
+É preciso observar que o réu é primário, com amplas circunstâncias favoráveis, e que o crime em questão - estelionato - não possui natureza hedionda e sequer é cometido com violência ou ameaça, tendo sido, inclusive, em recente reforma, reclassificado para aqueles que somente se processam mediante representação, não possuindo, portanto, tamanha reprovação social que justifique agravamento do regime de cumprimento.
+No caso em apreço, as circunstâncias do art. 59 são majoritariamente favoráveis ao condenado. Não por outro motivo, a pena foi estabelecida no mínimo legal, o que o difere dos julgados apresentados." (fls. 539/543)
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL PERMITE REGIME PRISIONAL MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1.Apresença de circunstância judicial desfavorável, com a imposição da pena-base acima do mínimo legal, permite a imposição do regime prisional semiaberto, embora a pena definitiva seja inferior a quatro anos, conforme dispõe o art. 33 § 3º c/c art. 59, ambos do Código Penal -CP.
+2.Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+Oagravantenão trouxenenhum argumento apto a ensejar a reforma do juízo monocrático.
+O julgado prolatado na origem recebeu o seguinte sumário:
+"APELAÇÃO CRIMINAL. ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. ALMEJADA A ABSOLVIÇÃO POR FALTA DE PROVAS E SUPOSTA AFRONTA AO ART. 155, CAPUT, DO CÓDIGO DE PROCESSO PENAL. NÃO CABIMENTO. MATERIALIDADE E AUTORIA COMPROVADAS. ELEMENTOS INFORMATIVOS CORROBORADOS PELAS PROVAS COLIGIDAS SOB O CRIVO DO CONTRADITÓRIO. INEXISTÊNCIA DE AFRONTA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. CONDENAÇÃO MANTIDA.
+1 Estando comprovadas por meio do depoimento da vítima e da confissão do acusado colhidos em sede extrajudicial e devidamente corroborados pela prova testemunhal produzida em juízo, a materialidade e autoria delitivas, incogitável falar -se em absolvição.2 "Os elementos informativos, malgrado não se prestem, por si sós, para embasar a condenação (art. 155, caput, do Código de Processo Penal), quando concatenados com outras provas coligidas sob o crivo do contraditório, podem ser utilizados na formação do juízo de certeza" (TJSC, Apelação Criminal n. 0001114-38.2013.8.24.0013, rel. Des. Moacyr de Moraes Lima Filho, j. em 18/7/2017).
+REGIME PRISIONAL. ABRANDAMENTO PARA O ABERTO. NÃO CABIMENTO. PENA FIXADA EM PATAMAR INFERIOR A 4 (QUATRO) ANOS. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA (MAUSANTECEDENTES). REGIMESEMIABERTO PRESERVADO. ART. 33, §§ 2 9 E 3º, DO CP, DO CP E SÚMULA 719 DO STF.
+"Embora a pena imposta ao agravante seja inferior a 4 anos de reclusão, a análise desfavorável da circunstância judicial relativa aos antecedentes faz com que o regime semiaberto seja o adequado para o cumprimento da pena reclusiva, nos termos do art. 33, §§ 2 9 e 3º, do CP" (STJ, AgRg no AREsp n. 1.554.464/SP, rel. Min. Antonio Saldanha Palheiro, j. em 2/6/2020).
+RECURSO CONHECIDO E NÃO PROVIDO." (fl.46)
+A pena-base doagravantefoi estipulada acima do mínimo legal (um ano e dois meses de reclusão) e na segunda fase voltou ao patamar mínimo, em virtude da atenuante da confissão espontânea, o que não afasta a existência de circunstância agravante do prevista no artigo 59 do Código Penal.
+Com efeito, o regime semiaberto foi fixado, nos seguintes termos:
+"In casu, vislumbra-se que o acusado ostenta circunstância judicial negativa - maus antecedentes pela prática também do crime de estelionato (Evento 111, CERTANTCRIM22, autos n. 008.10.012112-52) -, o que justifica a imposição de regime inicial mais gravoso, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos, nos termos do art. 33, §§ 2º e 3º, do Código Penal e da Súmula 719 do Supremo Tribunal Federal." (fl. 50)
+Dessa forma, apresença de circunstância judicial desfavorável, com a imposição da pena-base acima do mínimo legal, ainda que na segunda fase retorne ao mínimo legal, permite a imposição do regime prisional semiaberto, embora a pena definitiva seja inferior a 4 anos, conforme dispõe o art. 33, § 3º c/c art. 59, ambos do Código Penal.
+Seguem abaixo alguns precedentes neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TORTURA. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. APRESENTAÇÃO DE ELEMENTOS CONCRETOS E NÃO INERENTES AO TIPO PENAL. AUSÊNCIA DE ILEGALIDADE.CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL PERMITE REGIME PRISIONAL MAIS GRAVOSO. PERDA DO CARGO. EFEITO AUTOMÁTICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/5/2017).
+2. No caso dos autos, foram arrolados elementos concretos e não inerentes ao tipo penal para elevação da pena-base, não havendo falar em ilegalidade da dosimetria.
+3. A presença de circunstância judicial desfavorável, com a imposição da pena-base acima do mínimo legal, permite a imposição do regime prisional semiaberto, embora a pena definitiva seja inferior a 04 anos, conforme dispõe o art. 33 § 3º c/c art. 59, ambos do CP.
+4. "Nas hipóteses de condenação por crimes previstos no art. 1º da Lei n. 9.455/1997, como no caso, conforme dispõe o § 5º do art. 1º do citado diploma legal, a perda do cargo, função ou emprego público é efeito automático da condenação, sendo dispensável sua fundamentação concreta. Precedentes do STJ e do STF" (AgRg no AREsp 1103702/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 10/6/2020).
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1.807.042/SP, de minha relatoria, QUINTA TURMA, DJe 8/10/2021).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVOEM RECURSOESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. RESOLUÇÃO 322/2020 DO CNJ. FLUÊNCIA DO PRAZO RECURSAL RETOMADA EM 15/6/2020. AUSÊNCIA DE COMPROVAÇÃO DE NOVA SUSPENSÃO DO PRAZO POR ATO DO TRIBUNAL LOCAL. AGRAVO NÃO PROVIDO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. RÉ PRIMÁRIA. REGIME FECHADO. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Em razão da pandemia relativa à covid-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluir, para os processos físicos, em 15/6/2020. Com efeito, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, e não quando da interposição do agravo regimental perante esta Corte Superior.
+2. Mediante análise dos autos, verifica-se que a parte agravante foi intimada da decisão impugnada em 13/3/2020, sendo o recurso especial interposto em 7/8/2020. Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c. c. os arts. 1.003, § 5.º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+3. Todavia, impõe-se a concessão de habeas corpus de ofício para readequar o regime prisional da primeira agravante.
+4. Conforme jurisprudência pacificada nesta Corte, conquanto a pena imposta à agravante Patrícia, primária, tenha sido estabelecida em patamar inferior a 4 anos, o regime semiaberto é o adequado para o cumprimento da pena reclusiva, diante da existência de circunstância judicial desfavorável (art. 42 da Lei n. 11.343/2006), que serviu de lastro para elevar a pena-base acima do mínimo legal.
+5. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, para estabelecer o regime inicial semiaberto para o cumprimento da pena privativa de liberdade imposta à agravante Patrícia Aparecida Natal.
+(AgRg no AREsp 1.846.713/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 4/10/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO. POSIÇÃO DE LIDERANÇA. PRECEDENTES. REGIME PRISIONAL INICIAL FECHADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTO VÁLIDO. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(..)
+2. A jurisprudência desta Corte Superior é pacífica no sentido de que a existência de circunstâncias judiciais desfavoráveis ou ainda outra situação que demonstre a gravidade concreta do delito perpetrado, como in casu, é condição apta a recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 660.878/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 3/5/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
