@@ -1,0 +1,31 @@
+DECISÃO
+ODETTE THEREZINHA TISIO MINARELLI, agravou da decisão denegatória de seguimento ao recurso especial interposto por si com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo Tribunal do Tribunal Regional Federal da 3ª Região.
+O acórdão proferido nos aclaratórios está assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. CUMPRIMENTO DE SENTENÇA. AÇÃO REVISIONAL. FALECIMENTO DO AUTOR ORIGINÁRIO. LEGITIMIDADE DO SUCESSOR. PARCELAS VENCIDAS ATÉ O ÓBITO. REFLEXOS EM BENEFÍCIO DERIVADO. OFENSA À COISA JULGADA. DIREITO À REVISÃO DO BENEFÍCIO ORIGINÁRIO
+I - O objetivo dos embargos de declaração, de acordo com o art. 1.022 do Código de Processo Civil, é sanar eventual obscuridade, contradição ou omissão e, ainda, conforme o entendimento jurisprudencial, a ocorrência de erro material no julgado.
+II - As decisões proferidas na ação de conhecimento não trataram dos reflexos da revisão no benefício de pensão por morte, razão pela qual não há que se falar em execução de diferenças posteriores à data do óbito do autor originário, pois o direito do sucessor limita-se ao valor que a este seria devido.
+III- Em respeito à eficácia preclusiva da coisa julgada, mostra-se descabida a pretensão de execução de diferenças referentes a benefício de pensão por morte deferido à sucessora do segurado falecido, que deve se valer da via administrativa ou judicial autônoma, caso enfrente resistência autárquica no atendimento de seu pleito.
+IV- Todavia, no que tange ao benefício originário (aposentadoria) cuja revisão foi o objeto do presente feito, mesmo havendo somente diferenças vencidas em razão do falecimento do autor, penso que deve ser determinado ao INSS que proceda à revisão de tal benefício, nos termos do título judicial transitado em julgado, sem a geração de efeitos financeiros na esfera administrativa quanto à extinta aposentadoria, havendo, assim, esta omissão no acórdão embargado.
+VI - Embargos declaratórios da parte exequente acolhidos em parte, com efeitos infringentes.
+Nas razões de recurso especial, o recorrente apontou violação noartigos11, 323, 489, inciso II e parágrafo 1º, IV, 505, Ie 1022, inciso I e II, do CPC/2015, em razão da negativa de prestação jurisdicional e art. 75 da Lei 8.213/91.
+O feito não foi admitido pelas instâncias ordinárias, ao argumentode quea pretensão recursal demanda o revolvimento do conjunto fático-probatórios dos autos, o que é vedado pela Súmula 7/STJ.
+Nas suas razões de agravo, postula-se pelo processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Presente os pressupostos de admissibilidade do agravo, passo ao exame do apelo especial.
+Preliminarmente, afasto as apontadas violações aos arts. 489, inciso II e parágrafo 1º, IV, 1022, inciso I e II, do atual Código de Processo Civil, porquanto o acórdão regional não incorreuem nenhuma das hipóteses ensejadoras do acolhimento da pretensão.
+No mérito, atese central do recurso especial tem ponto de contato com o reconhecimento da legitimidade ativa ad causam dos dependentes de segurado do INSS, para fins de revisão da renda mensal inicial do benefício, com reflexos na pensão por morte.
+Sobre a questão da legitimidade em si, consoante jurisprudência do STJ, de acordo com a norma inscrita no art. 112, da Lei 8.213/1991, o cônjuge pensionista é sim parte legítima para pleitear em juízo eventuais diferenças no benefício recebido, ainda que a correção dos valores incida na renda mensal inicial do benefício originário do de cujus.
+Destarte, com razão a recorrente quando afirma ser parte legítima a pleitear, em em juízo, pelas diferenças no benefício já em manutenção. Confira-se:
+PREVIDENCIÁRIO. REVISÃO NO BENEFÍCIO ORIGINÁRIO. LEGITIMIDADE ATIVA DA PENSIONISTA. ART. 112, DA LEI 8.213/91. ART. 6º DO CPC. VIOLAÇÃO. INOCORRÊNCIA. PRECEDENTES.
+I - Consoante a norma inscrita no art. 112, da Lei 8.213/91, a cônjuge pensionista é parte legítima para pleitear em juízo eventuais diferenças no benefício recebido, ainda que a correção dos valores incida na RMI do benefício originário do de cujus. Precedentes.
+II - Pensionista que busca em juízo diferenças no benefício já em manutenção, ao qual tem direito, pleiteia em nome próprio direito próprio, não havendo que se cogitar de ofensa ao art. 6º do CPC. III - Recurso conhecido, mas desprovido.(REsp 246.498/SC, Quinta Turma, Relator Ministro Gilson Dipp, DJe 15/10/2001)
+Ocorre que, apesar da aparente similitude entre a tese defendida pela recorrente e o precedente acima,na hipótese, a controvérsia é distinta em razão do fato de que esse feito está em fase de cumprimento de sentença, enquanto o precedente retrata hipótese de ajuizamento da ação.
+Como pontuado pelo Tribunal a quo,a controvérsia reside, na possibilidade de serem executados os reflexos da revisão reconhecida tanto em relação ao benefício originário (aposentadoria por tempo de contribuição), quanto em relação ao benefício derivado (pensão por morte), o que extrapolaria os limites da ação de conhecimento, que, por sua vez, não tratou dos reflexos da revisão no benefício de pensão por morte.
+Com razão,porquanto a execução deve limitar-se aostermos do título que a suporta, não se admitindo modificá-los ou mesmo neles inovar, em respeito à coisa julgada.
+Nesse sentido, é o seguinte precedente.
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CONFIGURAÇÃO. EXECUÇÃO DE SENTENÇA. INCLUSÃO DE DIFERENÇASRELATIVAS AO BENEFÍCIO DE PENSÃO POR MORTE. MATÉRIAESTRANHA AO PROCESSO DE CONHECIMENTO. COISA JULGADA. VIOLAÇÃO. RECURSO ESPECIAL PARCIALMENTECONHECIDO E, NESSA EXTENSÃO, PROVIDO." (REsp 924.211/RS, Rel. Min. LAURITA VAZ, DJe de 12/08/2010.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ,conheço do agravo em recurso especialpara não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. INCLUSÃO DE DIFERENÇAS RELATIVAS AO BENEFÍCIO DE PENSÃO POR MORTE. MATÉRIA ESTRANHA AO PROCESSO DE CONHECIMENTO. COISA JULGADA AGRAVO EM RECURSO ESPECIAL CONHECIDO. ESPECIAL NÃO CONHECIDO.
