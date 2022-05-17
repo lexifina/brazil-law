@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉPAULO RODRIGUES BARBOSAcontra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 338):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE FRAÇÃO DE VALOR DEPOSITADO EM CONTA CORRENTE CONJUNTA. INEXISTÊNCIA DE PROVA DOS VALORES QUE INTEGRAM O PATRIMÔNIO DE CADA UM DOS TITULARES. DIVISÃO DO SALDO EM PARTES IGUAIS PARA EFEITO DE PENHORA. POSSIBILIDADE. Ausente prova sobre os valores que integram o patrimônio do cotitular da conta que está sendo executado, possível o bloqueio judicial de 50% do valor presente na conta, o qual se presume ser do executado. -Recurso conhecido e não provido
+Opostos embargos de declaração, foram acolhidos, sem efeitos infringentes.
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 833, IV e X, 836, do Código de Processo Civil/2015, sustentando a impenhorabilidade dos valores depositados em conta corrente em valor inferior a 40 salários mínimos; que a verba constrita é proveniente de proventos do cônjuge e não pode ser penhorada; equeo valor bloqueado é irrisório, não sendo suficiente para o pagamento das custas processuais.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 7 do STJ.
+Neste agravo, o agravante afirmou que não incide o óbice sumular apontado.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+No que se refere à impenhorabilidade dos valores inferiores a 40 salários mínimos penhorados em conta corrente/poupança, observo que o Tribunal de origemconsignouque esgotadas todas as tentativas de penhora de outros bens, é possível o bloqueio, caso não comprometa a subsistência do executado. Confira-se: (fl. 341):
+Conclui-se que o legislador pátrio, ao estabelecer a impenhorabilidade de alguns bens e direitos(art. 833 do CPC/15), demonstra a sua preocupação em compatibilizar a busca da satisfação dos direitos do credor e a dignidade humana do devedor.
+Contudo, tal regra deve ser interpretada de modo que sejam respeitados o patrimônio mínimo do devedor e os princípios da ação executiva, mormente o que determina que os bens do executado devem ser revertidos à satisfação do crédito exequendo.
+No caso, o agravante defende a impenhorabilidade dos valores bloqueados, dizendo que são provenientes dos salários seu e de sua esposa.
+Entretanto, na linha de jurisprudência deste Tribunal, entendo que, esgotadas todas as tentativas de penhora de outros bens, é possível o bloqueio de até 30% de verba salarial, caso não comprometa a subsistência do executado  ..
+Verifico que o acórdão recorrido está em consonância com a jurisprudência do STJ, que firmou o entendimento de que a regra geral da impenhorabilidade de salários, vencimentos, proventos, entre outros (art. 833, inciso IV, do Código de Processo Civil) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família. A propósito, confira-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE SALÁRIO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DA IMPENHORABILIDADE DE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE.
+1. A jurisprudência desta Casa preconiza que a regra geral da impenhorabilidade de salários, vencimentos, proventos, entre outros (art. 833, inciso IV, do CPC) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. No caso, tendo a Corte de origem, com fundamentos arrimados no contexto fático-probatório dos autos, enfatizado a inviabilidade de novos descontos na remuneração da parte recorrida, sob pena de ofensa ao princípio da dignidade humana, infirmar tal entendimento encontra óbice na Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.808.082/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28.3.2022, DJe de 30.3.2022)
+No que se refere à alegação de que a verba constrita é proveniente de proventos do cônjuge e não pode ser penhorada, o Tribunal de origem destacou que "a esposa do executado recebe seu salário em conta bancária diversa daquela em que efetuado o bloqueio". Confira-se:
+Volvendo aos autos, verifica-se, primeiramente, pelo demonstrativo de pagamento de juntado (id 100867142) que a esposa do executado recebe seu salário em conta bancária diversa daquela em que efetuado o bloqueio, perdendo, assim, a condição de conta salário a qual se refere o art. 833, inciso IV, do CPC.
+Em segundo lugar, dado a inexistência de prova em contrário, presume-se que metade dos valores encontrados na conta bancária conjunta, objeto do bloqueio, pertence ao executado, enquanto a outra metade a sua esposa, cotitular da conta  ..  (e-STJ, fl. 342).
+Com isso, anoto que rever a conclusão do Tribunal de origem, o qual entendeu que não houve comprovação de que o numerário bloqueado seria imprescindível à subsistência doexecutadoe de sua família e da ausência de demonstração de que o valor era proveniente do salário da esposa, demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 884, 885 E 886 DO CC/2002; E 917, § 2º, DO CPC/2015. DISPOSITIVOS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. INEXISTÊNCIA. PENHORA DE VERBA REMUNERATÓRIA. COMPROMETIMENTO DA SUBSISTÊNCIA DA EXECUTADA. IMPOSSIBILIDADE. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+2. Ademais, a matéria só pode ser implicitamente incluída no acórdão recorrido quando, ao menos, a tese for objeto de embargos de declaração na origem e, no Superior Tribunal de Justiça, for verificada violação ao art. 1.022 do CPC/2015.
+3. É vedada a penhora de valores decorrentes de remuneração ou proventos do executado quando a constrição acarretar a inviabilidade da subsistência do devedor.
+4. A proteção conferida pela regra da impenhorabilidade abrange todos os valores depositados em conta-corrente, poupança ou outras aplicações financeiras.
+5. Atestando a instância originária que a constrição impediria a subsistência do devedor, descabe ao Superior Tribunal de Justiça rever a conclusão acolhida, a qual, alicerçada em elementos de fatos e provas existentes nos autos, esbarra na Súmula 7/STJ.
+6. Agravo interno desprovido.
+(AgInt no REsp 1.938.768/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/9/2021, DJe 23/9/2021)
+Em tempo, oTribunal de origem consignouqueo fato de o valor ser irrisório, não impediriaa penhora. Confira-se:
+Afirma, ainda, o agravante que o valor bloqueado junto ao banco do Brasil S/A, ou seja, R$343,75, é irrisório. Entretanto, este fato, por si só, não impede que a penhora recaia sobre a referida quantia, consoante já decidiu este Tribunal  ..  (e-STJ fl. 343)
+Assim não há como ser analisada a alegação de violação do art. 836 do CPC/2015, em virtude da falta de prequestionamento, uma vez que o Tribunal de origem não analisou o caso à luz dos requisitos trazidos nas razões do presente recurso, atraindo, quando aotema, o óbice da Súmula 282 do STF por analogia.
+Em face do exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
