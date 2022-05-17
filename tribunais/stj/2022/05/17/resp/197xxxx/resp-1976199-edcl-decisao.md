@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos pela Indústria Brasileira de Infláveis Natika Ltda, contra a decisão monocrática proferida às fls. 496/498 (e-STJ), cuja ementa assim estabelce,in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INFLAÇÃO NOS RENDIMENTOS DE APLICAÇÃO FINANCEIRA. AUMENTO DO LUCRO REAL.INCIDÊNCIA DAS EXAÇÕES. LEI 8.981/1995. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões recursais, o embargante alega omissão da decisão recorrida, porquanto deixou de se manifestar quanto ao entendimento consolidado por este Superior Tribunal de Justiça, no sentido de que a correção monetária não traduz, em nenhuma hipótese, acréscimo patrimonial. E, por conseguinte, não deve haver incidência dos tributos combatidos (IRPJ e CSLL), haja vista que a rubrica em questão ostenta, na verdade, natureza de recomposição do poder de compra e até mesmo detém natureza jurídica de indenização, mas em hipótese alguma representa renda/lucro da contribuinte.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+Deveras, os embargos de declaração não merecem prosperar, visto que, houve efetivamente o pronunciamento acerca da incidênciado Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, nos termos dos precedentes exarados por esse Superior Tribunal de Justiça (AgInt no REsp.1.446.072/SP, Rel. Min. Benedito Gonçalves, DJe26.9.2018; AgInt no REsp. 1.458.810/SP, Rel. Min. Herman Benjamin, DJe 29.11.2016; REsp.842.831/DF, Rel. Min. Luiz Fux, DJe 6.10.2008).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
