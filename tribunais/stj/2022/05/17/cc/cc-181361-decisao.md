@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre a 4ª Vara Cível da Comarca de Paraíba/PI(suscitante) e o JuízoFederal do Juizado Especial Cível e Criminal de Parnaíba - SJ/PI (suscitado), em ação ajuizada porJOSÉ FRANCISCO SOUSAcontra o Instituto Nacional de Seguro Social - INSS, objetivando o restabelecimentode auxílio-doença com sua conversão emaposentadoria por invalidez.
+O Juízo Federal do Juizado Especial Cível e Criminal de Parnaíba - SJ/PI,considerando-seincompetente para o julgamento da causa, determinou a remessa dos autos ao Juízo Estadual, forte em que "Tratando-se de benefício acidentário, em que a controvérsia consiste apenas quanto à incapacidade para fins de recebimento do beneficio, esta Justiça Federal não detém competência, em razão da matéria (acidente do trabalho), para processar a causa, a teor do art. 109, I, da Constituição Federal" (fl. 143).
+A4ª Vara Cível da Comarca de Paraíba/PI, por seu turno, suscitou conflito negativo de competência, consignando que "Não obstante constar em alguns documentos confeccionados pelo INSS a rubrica referente a doença por acidente do trabalho, certo é que o Perito Judicial concluiu no item de número 14 de seu laudo se tratar de doença degenerativa que não decorre de acidente de trabalho" (fl. 9).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, mister ressaltar o entendimento desta Corte de Justiça no sentido de que a competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+No presente caso, a ação foi ajuizada com o objetivo de restabelecimento de auxílio-doença com sua conversão em aposentadoria por invalidez,sendo quena petição inicial não há qualquer menção a acidente de trabalho(fls. 39/53).
+Para melhor elucidar a questão, traz-se à colação o art. 109, I, da Constituição Federal, que assim dispõe,inverbis:
+Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Assim, a pretensão não se amolda à exceção firmada pelo preceito constitucional em tela, mas à regra que estabelece a competência da Justiça Federal para o processamento e o julgamento das ações em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes.
+ANTE O EXPOSTO, conheço do conflito para declarar competente para oprocessamento do feito o Juízo Federal do Juizado Especial Cível e Criminal de Parnaíba - SJ/PI, o suscitado.
+Publique-se e comunique-se, dando-se ciência aos Juízos envolvidos e ao
+Ministério Público Federal
