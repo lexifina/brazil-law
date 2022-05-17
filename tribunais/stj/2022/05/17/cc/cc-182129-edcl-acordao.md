@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/05/2022 a 17/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos pelo Estado de Santa Catarinacontra acórdão, assim ementado (fl. 81):
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. CONFLITO ENTRE OS JUÍZOS DA JUSTIÇA ESTADUAL E DA JUSTIÇA FEDERAL. FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA ANVISA. SOLIDARIEDADE PASSIVA FACULTATIVA ENTRE OS ENTES FEDERADOS. EXCLUSÃO DA UNIÃO DA LIDE PELA JUSTIÇA FEDERAL. INCIDÊNCIA DAS SÚMULAS 150 E 254 DO STJ. PRECEDENTES DO STJ. COMPETÊNCIA DO JUÍZO DA JUSTIÇA ESTADUAL.
+1. Conflito negativo no qual se discute a competência para o processamento e o julgamento de ação ajuizada contra o Estado e/ou Município no Juízo da Justiça Estadual, visando o fornecimento de medicamento registrado na ANVISA e não constante dos normativos do SUS.
+2. A jurisprudência desta Corte Superior é firme no sentido de que a ação na qual se pleiteia assistência à saúde pelo Sistema Único de Saúde (fornecimento de medicamentos) pode ser proposta em face de qualquer dos entes federativos, salvo nas hipóteses de medicamentos ainda não aprovados pela ANVISA, situação em que a União obrigatoriamente integrará o polo passivo da demanda.
+3. Nas hipóteses em que o Juízo Federal decide que a União não deve compor o polo passivo da lide, não cabe ao Juízo Estadual reexaminar tal decisão, conforme estabelecem as Súmulas 150 e 254 desta Corte.
+4. Nesse sentido, são os seguintes precedentes proferidos em casos análogos ao dos autos, nos quais foi declarada a competência do Juízo da Justiça Estadual: AgInt no CC 179.820/SC, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 30/09/2021; AgInt no CC 178.700/SC, Rel. Min, Francisco Falcão, Primeira Seção, DJe 01/10/2021; AgInt no CC 175.152/RS, Rel. Min. Assusete Magalhães, Primeira Seção, DJe 02/08/2021; AgInt no CC 175.869/MG, Rel. Min. Herman Benjamin, Primeira Seção, DJe 01/07/2021; AgInt no CC 174.746/SC, Rel. Min. Regina Helena Costa, Primeira Seção, DJe 23/04/2021; AgInt no CC 175.565/PR, Rel. Min.
+Manoel Erhardt (Des. Convocado do TRF-5ª Região), Primeira Seção, DJe 28/04/2021.
+5. Agravo interno não provido.
+O embargante sustenta que o acórdãoé omissoquanto aos dispositivos constitucionais suscitados (arts. 23, II e 109, I, 196 e 198 da CF). Afirma que as referidas normas determinama inclusão da União no polo passivo da demanda. Defende que " ..  quando se tratar de tecnologia não padronizada pelo Sistema Único de Saúde, ou fora dos protocolos de atendimento de acordo com as linhas de tratamento estabelecidas pelo Ministério da Saúde, é imprescindível que a União ocupe o polo passivo da ação, em razão do previsto no art.19-Q, da Lei nº 12.401/2011" (fl. 96).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Examinado os autos, verifica-se que o acórdão foi claro ao afirmar que se trata de postulação de medicamento registrado na ANVISA, não sendo hipótese para o reconhecimento de litisconsórcio passivo necessário entre o Estado, Município e aUnião, cabendo à parte autora indicar em face de qual pessoa jurídica de direito público quer litigar.
+Em face disso, o acórdão embargado, de forma clara a fundamentada, assentou que tal entendimento encontra-se em consonância com a jurisprudência desta Corte, formada a partir da interpretação dos julgados do STF acerca do tema (RE 657.718/MG e RE 855.178/SE), razão por que se conheceu do conflito para declarar competente o Juízo Estadual.
+Além disso, registrou-se que, tendo o Juízo Federal decidido que não há legitimidade passiva que justifique a presença da União no polo passivo da ação, não cabe ao Juízo Estadual reexaminar tal decisão, conforme estabelecem as Súmulas 150 e 254 desta Corte.
+Assim, não se vislumbra a alegada omissão a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
