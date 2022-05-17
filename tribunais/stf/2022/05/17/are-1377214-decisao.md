@@ -1,0 +1,69 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE PROPRIEDADE DE VEÍCULOS AUTOMOTORES – IPVA. ALIENAÇÃO FIDUCIÁRIA ENTRE PARTICULARES. INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE PELO TRIBUTO: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INAPLICÁVEL O TEMA 685 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+
+    “APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - IPVA - LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. I- O credor fiduciário é parte legítima para figurar no polo passivo da execução fiscal relativa ao IPVA, tendo em vista que tem relação pessoal e direta com a situação que constitui fato gerador do imposto (o credor fiduciário é o proprietário do bem e só o deixa de ser quando do total adimplemento da obrigação de pagar pelo devedor fiduciante), sendo válida a CDA que elenca como devedor também o devedor fiduciante, em razão da solidariedade expressamente prevista no art. 5º da LE n.° 14.937/2003. II - Não há se falar em nulidade da CDA, uma vez que não se exige notificação pessoal de imposto cujo lançamento se dá de ofício, como no caso do IPVA e quando dela constam todos os requisitos legalmente exigidos para sua constituição, inclusive o credor fiduciário como coobrigado. III - Inexistente comprovação de qualquer espécie de comunicação que, feita antes de 2010, tenha dado inequívoca ciência ao DETRAN/MG da alienação feita em 2005 do veículo que pertencia ao executado, impossível excluir sua solidária responsabilidade pelo pagamento de todos os IPVA's cobrados na execução fiscal contra ele ajuizada pelo exequente, posto alusivos apenas à competência janeiro/2010 a março/2011” (fl. 1, e-doc. 7).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 9).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o inc. III do art. 155 da Constituição da República. Argumenta não ser imputável à instituição financeira a responsabilidade tributária pelo pagamento de Imposto sobre Propriedade de Veículos Automotores – IPVA incidente sobre automóvel financiado com cláusula de garantia de alienação fiduciária (e-doc. 12).
+
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 280 do Supremo Tribunal Federal (e-doc. 14).
+
+    4. No agravo interposto contra a inadmissão do recurso extraordinário, o agravante alega que “todos os precedentes apontados na decisão agravada não se adequam ao caso em discussão e se referem a precedentes isolados, não refletindo o entendimento pacificado desta Corte Suprema, em especial aquele já esposado no julgamento do RE n. 727.851/STF cuja aplicabilidade desde já se invoca” (fl. 9, e-doc. 17).
+
+    Salienta que “não há que se falar em incidência do enunciado da Súmula 280 do Supremo Tribunal Federal, pois o recurso extraordinário interposto não demanda a análise de direito local. O recurso, contrariamente, pretende a reforma do acórdão recorrido demonstrando que este deturpa o conceito de propriedade para validar ilegal cobrança, estando todas as questões necessárias à análise da insurgência recursal postas no acórdão recorrido, inexistindo a necessidade de reexame de qualquer prova ou fato ou, ainda, da legislação local” (fl. 9, e-doc. 17).
+
+    Ressalta que “o credor fiduciário não pode ser considerado proprietário do veículo automotor objeto do financiamento. Razão pela qual há agressão ao disposto no inciso III do art. 155 da Constituição da República” (fl. 18, e-doc. 17).
+
+    Pede o provimento do presente agravo.
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    6. A matéria tratada neste recurso não guarda identidade com o Tema 685 da repercussão geral, pois, no Recurso Extraordinário n. 727.851, Relator o Ministro Marco Aurélio, Tema 685, discute-se a “extensão da imunidade tributária recíproca ao IPVA de veículos adquiridos por município no regime de alienação fiduciária”.
+
+    Na espécie vertente, o Tribunal de origem concluiu tratar-se de responsabilidade tributária do credor fiduciário pelo pagamento do Imposto sobre Propriedade de Veículos Automotores – IPVA incidente sobre os veículos adquiridos por contratos de alienação fiduciária firmados entre particulares.
+
+    Em controvérsia análoga à versada neste agravo, a Primeira Turma deste Supremo Tribunal assentou ser inaplicável, na espécie em exame, o Tema 685 de repercussão geral:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPVA. ALIENAÇÃO FIDUCIÁRIA. RESPONSABILIDADE DO CREDOR FIDUCIÁRIO. SÚMULA 280/STF. TEMA 685. INAPLICABILIDADE. 1. Esta Corte entende que a questão da sujeição passiva nos contratos de alienação fiduciária é matéria reservada à legislação infraconstitucional local. Nesse contexto, a hipótese atrai a incidência da Súmula 280/STF. Precedentes. 2. As conclusões do Tema 685 da RG não se aplicam ao presente caso. Com efeito, no paradigma, restou definido que não incide IPVA sobre veículo automotor adquirido, mediante alienação fiduciária, por pessoa jurídica de direito público, em virtude da imunidade prevista no artigo 150, VI, a, da Constituição Federal. In casu, não se cogita de imunidade, tampouco da presença de pessoa jurídica de direito público, razão pela qual inviável a aplicação da tese formulada. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. A gravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE n. 1.332.905-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 6.11.2021).
+
+    7. Na espécie vertente, o Tribunal de Justiça de Minas Gerais decidiu a controvérsia nestes termos:
+
+    “Considerando-se que o fato gerador do imposto é a propriedade de veículo automotor e que o credor fiduciário é o proprietário do bem e só o deixa de ser quando do total adimplemento da obrigação de pagar pelo devedor fiduciante, iniludível a qualidade de contribuinte/sujeito passivo da instituição financeira/credora fiduciária.
+
+      Não se deve olvidar ainda que a existência de previsão em contrato, imputando ao financiado o pagamento de tributos incidentes sobre o veículo, não pode ser oposta à Fazenda Pública, com vistas a modificar a definição de quem é o sujeito passivo da obrigação tributária concernente ao pagamento do IPVA (ad. 123, CTN). (…)
+
+    O art. 1.368-B, p. único, do CCB/2002, trata da responsabilidade do credor fiduciário pelo pagamento dos tributos, taxas e despesas que recaiam sobre o bem após a retomada da posse direta do bem, se for o caso. E a legislação em referência disciplina a questão no âmbito civil contratual. A sujeição passiva do apelante à cobrança do IPVA, enquanto credor fiduciário, decorre, como já exposto, das normas de Direito Tributário, previstas na LE n.° 14.937/2003.
+
+    Impõe-se, destarte, a manutenção da sentença quanto ao reconhecimento da legitimidade passiva do embargante, ora apelante” (fls. 6-8, e-doc. 7).
+
+    Para rever as decisões das instâncias originárias quanto à responsabilidade solidária pela obrigação tributária para recolhimento do IPVA até o encerramento do contrato de alienação fiduciária, seria necessária a análise da legislação infraconstitucional aplicável à espécie (Lei estadual n. 14.937/2003, Código Tributário Nacional e Código Civil) e o reexame do conjunto fático-probatório dos autos e de cláusulas do contrato de financiamento, procedimentos incabíveis em recurso extraordinário. Incidem, na espécie vertente, as Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Confiram-se os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE PROPRIEDADE DE VEÍCULOS AUTOMOTORES – IPVA. ALIENAÇÃO FIDUCIÁRIA ENTRE PARTICULARES. INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE PELO PAGAMENTO DO TRIBUTO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.359.248-AgR, de minha relatoria, Primeira Turma, DJe 30.3.2022).
+
+    “DIREITO TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES (IPVA). ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO AUTOMOTOR. RESPONSABILIDADE TRIBUTÁRIA. LEI ESTADUAL Nº 14.937/2003. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo interno conhecido e não provido. 4. A teor do art. 85, § 11, do CPC/2015, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’” (ARE n. 1.360.472-AgR, Relatora a Ministra Rosa Weber, DJe 23.3.2022).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. IPVA. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA FIRMADO ENTRE PARTICULARES. TEMA 685. INAPLICABILIDADE. RESPONSABILIDADE SOLIDÁRIA DO CREDOR E DO DEVEDOR FIDUCIÁRIO PELO PAGAMENTO DO TRIBUTO. OFENSA REFLEXA. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. No julgamento do mérito do RE 727.851-RG (Rel. Min. MARCO AURÉLIO, Tema 685 da Repercussão Geral), o SUPREMO TRIBUNAL FEDERAL fixou a seguinte tese: ‘não incide IPVA sobre veículo automotor adquirido, mediante alienação fiduciária, por pessoa jurídica de direito público’. 2. No caso, trata-se de demanda em que se debate a responsabilidade do credor fiduciário pelo pagamento do IPVA incidente sobre os veículos adquiridos por meio de contratos de alienação fiduciária firmados entre particulares, hipótese diversa da analisada no precedente paradigma. 3. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. 4. A solução da controvérsia também depende da análise da legislação local, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário. 5. A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 6. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (ARE n. 1.356.503-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 25.2.2022).
+
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPVA. Alienação fiduciária. Contribuinte. Necessidade de reexame da legislação ordinária e do contrato. Ofensa constitucional indireta ou reflexa. 1. Para ultrapassar o entendimento do Tribunal a quo, concernente ao enquadramento do credor fiduciário como proprietário do veículo automotor para fins de cobrança de IPVA, seria necessário o reexame da causa à luz da legislação ordinária (Código Civil, Decreto-lei nº 911/69, Lei Estadual nº 14.937/03) e do contrato de alienação fiduciária. 2. A afronta ao texto constitucional, se houvesse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidência das Súmulas 279 e 454 da Corte. 3. Agravo regimental não provido” (ARE n. 830.373-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 6.5.2015).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    8. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual somado ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 17 de maio de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
