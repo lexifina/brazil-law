@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ALEXSANDER CHAGAS CLARA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do HC n. 5241601-72.2021.8.21.7000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 3/12/2021 por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA, GARANTIA DA ORDEM PÚBLICA. Inexistente o constrangimento ilegal anunciado. O decreto prisional está devidamente fundamentado. In casu, segundo consta no expediente, agentes policiais receberam denúncias anônimas dando conta de um ponto de venda de drogas, no que passaram a monitorar a área. Ato contínuo, em 03.12.2021 notaram que o corréu, no portão da residência, entregando drogas para um usuário. Flagrado vendendo a droga, foi abordado pelos agentes, no que dispensou uma embalagem contendo 39 pedras de crack e empreendeu fuga. Logo em seguida, foi abordado e revistado, sendo encontrada a quantia de R$ 200,00 em espécie. Nos fundos da residência, a guarnição encontrou o ora paciente e com ele, 01 balança de precisão, 01 bucha de cocaína, 01porção de maconha e R$ 40,00 em espécie. O usuário foi revistado, sendo encontradas com ele02 pedras de crack, as quais disse ter adquirido tais substâncias na residência em que estavam os agentes. Inviável, portanto, a soltura do paciente, ou a aplicação das cautelares diversas (art.319 do CPP), pois medidas insuficientes e inadequadas ao caso em concreto. Insta referir que o paciente havia sido preso em flagrante na cidade de Garibaldi em 23/03/2021, sendo posto em liberdade no dia seguinte, mediante medidas cautelares. Apresença de predicados pessoais favoráveis, por si só, não justifica a concessão da liberdade. Isso porque, estão presentes os requisitos do art. 312 do CPP. Os argumentos apresentados pela defesa técnica, em parte, deverão ser analisados no momento processual oportuno, já que não é possível o exame de provas, de forma pormenorizada, em sede de habeas corpus. A prisão preventiva não ofende o princípio constitucional da presunção de inocência, nem se trata de execução antecipada da pena. A Constituição Federal prevê, no seu art. 5º, LXI, a possibilidade de prisão, desde que decorrente de ordem escrita e fundamentada.
+ORDEM DENEGADA" (fl. 72).
+No presente recurso, alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Destaca suas condições pessoais favoráveis, como primariedade, bons antecedentes e residência fixa.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Pondera que em caso de condenação será fixado regime diverso do fechado, o que demonstra a desproporcionalidade da segregação antecipada.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida (fls. 113/15), as informações foram prestadas (fls. 119/150 e 158/161) e oMinistério Público Federal opinou pelo desprovimento do presente recurso (fls. 164/173).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, verifica-se da página eletrônica doTribunal de origem que, em 9/5/2022, nos autos da Ação Penal n.5000079-16.2022.8.21.0048,foi revogada a prisão preventiva do recorrente, tendo sido expedido alvará de soltura em seu favor na mesma data.
+Assim, não há como negar a perda superveniente do objeto deste recurso, tendo em vista ter cessado as circunstâncias determinantes da irresignação.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimações necessárias.
