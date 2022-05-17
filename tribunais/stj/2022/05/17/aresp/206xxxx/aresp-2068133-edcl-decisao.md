@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EXPRESSO SANTA BÁRBARA DE MINAS LTDA, à decisão de fls. 537/538, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Na decisão embargada, este Douto Juízo considerou intempestivo o Recurso Especial interposto pela Embargante, filiando-se ao entendimento que este foi interposto fora do prazo recursal de 15 (quinze) dias, nos seguintes termos (sem os destaques no original):  ..
+No entanto, tem-se que, data venia, a decisão restou omissa, pois deixou de considerar a documentação comprobatória da tempestividade colacionada pela Embargante às fls. 410, referente a Portaria Conjunta n.º 1164/2021 do TJMG, em que restou devidamente comprovado que na data de publicação da decisão (19/03/2021), estavam suspensos os prazos processuais em trâmite no egrégio Tribunal Estadual, em razão da adoção de medidas restritivas para conter o avanço da Pandemia do COVID-19 (fato público e notório). Veja-se:  ..
+Ato seguinte, sobreveio a Portaria Conjunta n.º 1181 do TJMG, anexa às fls. 475, que estabeleceu o retorno dos prazos processuais na data de 22/04/2021, consoante se vê:  ..
+Com efeito, considerando-se a data da retomada dos prazos processais aos 22/04/2021, quinta-feira, o prazo para a interposição do Recurso Especial se iniciou em 23/04/2021, sexta-feira, de modo que o prazo final se deu em 13/05/2021, quinta-feira, na mesma data em que foi protocolada a peça recursal, sendo certo que a Embargante cumpriu com a disposição do §6º, artigo 1.003, do Código de Processo Civil, comprovando a tempestividade recursal no ato da interposição (fls. 540/541).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que a publicação do acórdão recorrido ocorrera em 19/03/2021, circunstância que será devidamente corrigida na fundamentação abaixo.
+Na verdade, tendo em vista a apresentação das Portarias Nº 1161/PR/2021, 1164/PR/2021 (fls. 409/435) que, além de suspenderem os prazos processuais no período de 18 a 31/3/2021, também suspenderam a prática de atos, considera-se que a publicação ocorreu em 1º/4/2021.
+No entanto, o recurso especial permanece intempestivo.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 18/3/2021 (fl. 382), considerando-se publicada em 1º/4/2021 em razão das portarias acima mencionadas. Excluindo-se o dia 1º/4/2021 (primeiro dia), o feriado nacional de 2/4/2021, o período de suspensão dos prazos processuais de 5/4/2021 a 20/4/2021 (fls. 436/476), bem como o feriado nacional de 21/4/2021, inicia-se a contagem no dia 22/4/2021, finalizando o prazo no dia 12/5/2021.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 12/5/2021, sendo que o recurso especial foi interposto somente em 13/5/2021, fora do prazo.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Não se desconhecem os documentos juntados às fls. 409/476, no entanto, conforme contagem acima, são insuficientes para afastar a intempestividade do recurso.
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material verificado na decisão de fls. 537/538, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
