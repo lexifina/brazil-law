@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INVASÃO DE DOMICÍLIO. NÃO EXAURIMENTO DA INSTÂNCIA. WRIT INDEFERIDO LIMINARMENTE.
+1. Tendo a impetração sido direcionada à decisão monocrática proferida pelo relator na origem, ausente o competente agravo regimental, verifica-se o não exaurimento da instância antecedente.
+2. "É vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus.
+O agravante renova os fundamentos trazidos na inicial, no sentido da ilegalidade da invasão de domicílio, de maneira a resultar em nulidade das provas e no trancamento da ação penal.
+Requer a reconsideração da decisão agravada ou o julgamento do recurso pela Turma, com a expedição de contramandado de prisão ou alvará de soltura.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A decisão agravada foi proferida nos seguintes termos (fls. 50/51):
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que julgou prejudicado o writ originário.
+Tem o impetrante o objetivo de obter o trancamento da ação penal originário, aduzindo que a prisão do paciente ocorreu em razão de ilegal invasão de domicílio, tendo os policiais adentrado na residência para cumprir mandado de prisão de terceiro e indevidamente fizeram buscas na casa, encontrando entorpecentes. Ressalta impossibilidade de adentrar na residência para o cumprimento do mandado e, além disso, proceder em buscas, configurando fishing expedition.
+Com efeito, a competência do STJ é inaugurada, nos termos do art. 105, I, "c", da CF, com o esgotamento da instância ordinária, o que não ocorreu no caso, porquanto não submetida à análise do Tribunal de origem a apreciação das questões versadas na presente impetração, não sendo cabível a inauguração, per saltum, de irresignação junto a Tribunal Superior, suprimindo instância recursal.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe, ao Superior Tribunal de Justiça, a apreciação do pedido, sob pena de indevida supressão de instância. Nesse sentido, confiram-se:
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido. (AgRg no HC 401.079/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes do STJ e do STF.
+- Agravo regimental desprovido. (AgRg no HC 332.057/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Nos termos do entendimento desta Corte, "É vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/09/2020, DJe 29/09/2020).
+No caso, verifica-se que a impetração foi direcionada à decisão de fls. 32/40, proferida pelo relator do writ originário, que julgou extinta a ação constitucional. Dessa decisão, não foi interposto o competente agravo regimental, pelo que não exaurida a instância antecedente.
+Uma vez identificada a supressão de instância, não é possível examinar a matéria alegada, pelo que nego provimento ao agravo regimental.
+É o voto.
