@@ -1,0 +1,33 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NO AGRAVO DE INSTRUMENTO CÍVEL N. 1016572-02.2021.8.11.0000
+RECORRENTES: ROSÂNGELA DE CARVALHO FIGUEIRA E OUTRO
+RECORRIDOS: LAERCIO CARLOS PERONDI E OUTRA
+Vistos.
+Trata-se de recurso especial com pedido de efeito suspensivo interposto por ROSÂNGELA DE CARVALHO FIGUEIRA E OUTRO com fundamento no artigo 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id. 113766491):
+“AGRAVO INTERNO – AGRAVO DE INSTRUMENTO EM AÇÃO REIVINDICATÓRIA – DECISÃO QUE INDEFERIU A SUSPENSIVIDADE – ARGUIÇÃO DE NULIDADE DE CITAÇÃO POR EDITAL – INEXISTÊNCIA DE PREJUÍZOS – CITAÇÃO EDITALÍCIA ATINGIU SUA FINALIDADE PRECÍPUA – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+No caso concreto, a citação editalícia atingiu sua finalidade precípua, qual seja: cientificar os Recorrentes da existência da demanda, possibilitando a eles o exercício do contraditório e da ampla defesa.
+Se a parte não traz argumentos novos capazes de convencer o julgador da necessidade de reforma do decisum que indeferiu o efeito suspensivo, deve ser ela ser mantida”. (N.U 1016572-02.2021.8.11.0000 , CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, Jul. 15/12/2021).
+A parte recorrente alega violação aos artigos 256, 258 e 1.021, § 4o, do Código de Processo Civil, além de divergência jurisprudencial, ao argumento de que “(...) O acórdão recorrido, manteve inalterada a decisão agravada de ID. 101846453, que indeferiu a concessão do suspensivo ao agravo sob o argumento de que teriam ocorrido várias tentativas de citação dos ora Recorrentes, sendo que, a simples análise dos autos de origem comprova que houve apenas uma tentativa de citação por correios e outra mediante oficial de justiça, sendo estes fatos incontroversos nos autos. Não há com se falar em esgotamento das vias de citação dos Recorrentes (...)”. (...)Assim, os fatos já incontroversos nos autos indicam que não ocorreram várias tentativas de citação, mas apenas uma, e ainda com indução do Sr. Oficial de Justiça a erro, fato esse confessado na contraminuta apresentada pelos Recorridos”. (...) Portanto, resta clara salta aos olhos a ilegalidade do acórdão recorrido que manteve o indeferimento do efeito suspensivo ao agravo, permitindo a continuidade do feito de piso mesmo com a evidente mácula na citação dos Recorrentes”. (...) Com essas razões, demonstrada as ofensas legais e o dissidio jurisprudencial, impõe-se a reforma do acórdão recorrido agravada para deferir o efeito suspensivo ao agravo de instrumento, determinando a suspensão do andamento do feito de origem até o julgamento do mérito do presente recurso e do agravo de instrumento”.
+(g.n)
+Recurso tempestivo (id. 119297983).
+Sem contrarrazões (id. 123636955).
+O pedido de efeito suspensivo foi indeferido conforme decisão de id. 119821978.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ato decisório não definitivo (Súmula 735/STF)
+Nos termos do artigo 105, inciso III, da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e a uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de recurso especial contra acórdão proferido em sede de tutela provisória, ante o caráter precário da decisão.
+In casu, o órgão fracionário no agravo interno manteve a decisão monocrática que, em sede de recurso de agravo de instrumento interposto pelos recorrentes, indeferiu o efeito suspensivo ao recurso.
+Neste caso, por se tratar de decisão provisória, incide, por analogia, a Súmula n. 735/STF, segundo a qual, “não cabe recurso extraordinário contra acórdão que defere medida liminar”. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TUTELA ANTECIPADA. NATUREZA PRECÁRIA E PROVISÓRIA DO JULGADO QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. 1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, "à luz do disposto no enunciado da Súmula 735 do STF, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 09/10/2018, DJe 15/10/2018). 2. Agravo interno não provido. (AgInt no REsp 1845996/RS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, j. em 01/06/2020, DJe 04/06/2020). (g.n).
+“ADMINISTRATIVO. ANTECIPAÇÃO DE TUTELA. SERVIDOR EXPOSTO À RADIAÇÃO. REDUÇÃO DA JORNADA DE 40 PARA 24 HORAS SEMANAIS. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. 1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que, em Agravo de instrumento, concedeu efeito suspensivo ativo ao recurso para liminarmente fixar a jornada de trabalho dos recorridos em 24 horas por semana, na forma prevista pelo art. 1o da Lei 1234/1950. 2. Verifica-se que, in casu, a recorrente busca o reexame de decisão que trata sobre a concessão de provimento de urgência, o que é vedado pela aplicação analógica da Súmula 735, do Supremo Tribunal Federal: "Não cabe recurso extraordinário contra acórdão que defere medida liminar. 3. Com efeito, a jurisprudência do STJ sedimentou-se no sentido de não ser cabível Recurso Especial contra decisão que defere ou indefere liminar ou antecipação de tutela, porquanto sua natureza é precária (REsp 1.678.22. Ministra Regina Helena Costa. Data da Publicação 2/8/2017). 4. Recurso Especial de que não se conhece. (REsp 1689992/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, j. em 05/10/2017, DJe 16/10/2017), (g.n)
+Portanto, inadmissível o recurso, face ao óbice da Súmula 735/STF.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
