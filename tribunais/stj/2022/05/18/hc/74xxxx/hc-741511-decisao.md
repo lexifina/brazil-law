@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Marco AntônioGuedes Medeiros, condenado a 7 anos de reclusão, em regime semiaberto, pela prática do crime de roubo circunstanciado tentado e adulteração de sinal identificador de veículo automotor.
+Ataca-se acórdão proferido pelo Tribunal de Justiça do Pará no Agravo em Execução Penal n. 0001812-91.2015.8.14.0000 (fls. 71/72), que alterou decisão proferida nos Autos n. 0015902-02.2014.8.14.0401 (fl. 64), que reconheceu a prescrição da pretensão executória da condenação do paciente.
+Alega-se constrangimento ilegal consistente no reconhecimento da prescrição da pretensão punitiva e requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que seja decretada a extinção da punibilidade do paciente, com todos os direitos subsequentes, por verificar-se a prescrição da pretensão punitiva retroativa ou intercorrente por parte do Estado, com supedâneo no art. 107, IV, c/c o art. 109, IV, e 110, §1º, todos do CPB (fl. 9).
+É o relatório.
+Busca a impetração a declaração da extinção da punibilidade pela prescrição da pretensão punitiva - na condenação a 7 anos de reclusão, em regime semiaberto, pela prática do crime de roubo circunstanciado tentado e adulteração de sinal identificador de veículo automotor -, alegando que entre o recebimento da denúncia, em 24/10/2011, e o trânsito em julgado, em 6/6/2011, transcorreu lapso temporal - sem qualquer causa interruptiva de prescrição - superior a 8 anos (fl. 6).
+Ao que se tem, em primeiro grau, o paciente foi condenado a 4 anos de reclusão, pelo delito de roubo circunstanciado, e a 3 anos de reclusão, pela adulteração de sinal identificador de veículo automotor (fls. 24/30), confirmada a pena no acórdão da apelação (fls. 31/37), que transitou em julgado em 6/6/2011 (fl. 38).
+No caso, nos termos dos documentos acostados aos autos, a denúncia foi oferecida em 10/10/2001 (fl. 20), a sentença condenatória foi prolatada em 26/11/2008 (fl. 30) e o trânsito em julgado em 6/6/2011 (fl. 38).
+Assim, considerando que as condenações não superiores a 4 anos (4 anos de reclusão, pelo delito de roubo circunstanciado, e a 3 anos de reclusão, pela adulteração de sinal identificador de veículo automotor), tem-se o lapso prescricional de 8 anos (art. 109, IV, do CP). Considerando queentre as causas interruptivas (a denúncia oferecida em 10/10/2001, a sentença prolatada em 26/11/2008 e o trânsito em julgado em 6/6/2011)não transcorreu o período de 8 anos, sem razão a impetração.
+Conclui-se, então, que a impetração não demonstrou o constrangimento ilegal alegado no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRESCRIÇÃO. ROUBO CIRCUNSTANCIADO TENTADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. EXTINÇÃO DA PUNIBILIDADE. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONDENAÇÕES NÃO SUPERIORES A 4 ANOS. PRAZO PRESCRICIONAL DE 8 ANOS (ART. 117, IV, DO CP). LAPSO NÃO ULTRAPASSADO ENTRE O RECEBIMENTO DA DENÚNCIA, A PUBLICAÇÃO DA SENTENÇA E O TRÂNSITO EM JULGADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
