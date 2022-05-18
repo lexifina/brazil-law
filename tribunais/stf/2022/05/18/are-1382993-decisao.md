@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. REFIS.PRESCRIÇÃO. DESCUMPRIMENTO DE REGRAS DO PARCELAMENTO.TERMO INICIAL DA PRESCRIÇÃO. ART. 5º, § 2º, DA LEI Nº 9.964/2000.PUBLICAÇÃO DE PORTARIA DO COMITÊ GESTOR DO REFIS. APELAÇÃODESPROVIDA.1. A apelante foi excluída, pelo Comitê Gestor, do Programa do REFIS da Lei nº9.964/2000, em 31/01/2008, por ter descumprido as regras do parcelamento, em31/08/2002, razão pela qual aduz que a prescrição se iniciou nessa última data enão na primeira. A impetrante manteve em dia os pagamentos das parcelas doprograma até o dia de sua exclusão formal.2. O Superior Tribunal de Justiça firmou o posicionamento de que o início dacontagem do prazo prescricional se dá com a exclusão formal do programade parcelamento da Lei nº 9.964/2000. Precedentes: REsp 1.046.689/SC, Rel.Ministra Eliana Calmon; EDcl no AgRg no REsp 1.338.513/RS, Rel. MinistroHumberto Martins; AgRg no REsp 1.534.509/RS, Rel. Ministro Humberto Martins.3. Nas palavras do Ministro Mauro Campbell Marques, no voto proferido no AgRgno REsp 1524984/SC, publicado em 18/04/2016: “a partir do momento que o Fiscoexclui formalmente o contribuinte do programa de parcelamento, por não cumpriros requisitos legais, está configurada a lesão ao direito do ente tributante,surgindo, nesse momento, a pretensão de cobrança dos valores devidos,considerando que a exclusão do programa configura o marco inicial para aexigibilidade plena e imediata da totalidade do crédito que foi objeto doparcelamento e ainda não pago.”4. Contagem do prazo prescricional que se iniciou em 31/01/2008, ato da exclusãoformal do contribuinte do parcelamento da Lei nº 9.964/2000, não transcorrendo,assim, o prazo prescricional de 5 (cinco) anos do crédito tributário.5. Apelação desprovida.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXXVI da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. Prescrição. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência das Súmulas nºs 280, 636 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita”. (ARE 1.186.802-AgR/SP, Rel. Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, DJe de 30/5/19).
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Prescrição do crédito tributário. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de fundamentação do acórdão recorrido. Improcedência. AI-QO-RG 791.292. 6. Afronta ao princípio do devido processo legal, se dependente do reexame prévio de normas infraconstitucionais, traduz ofensa reflexa à Constituição Federal. ARE-RG 748.371 (tema 660). 7. Inexistência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento”. (ARE 1.102.042/PE-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 27/6/18)
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 18 de maio de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
