@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos porAntônio de Jesus Ribeiro à decisão proferida por este signatário, nos termos da seguinte ementa (e-STJ, fl. 527):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO. CONTRATO FRADULENTO. DANOS MORAIS. INEXISTÊNCIA. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 532-541), sustenta a parte embargante a existência deomissão na decisão embargada, afirmando que o autor embargante nunca sacou o valor depositado pelo embargado. Aduz que "entender que deve o autor devolver a quantia depositava e ao mesmo tempo afirmar que a contratação fraudulenta não é capaz de causar dano ao mesmo, porque este se beneficiou de tal depósito é no mínimo contraditório para não se dizer injusto". Alega que "o Banco Embargado possui responsabilidade civil objetiva no caso concreto. Assim, mesmo que se considere que a fraude fora realizada por terceiro há, ainda, a obrigação deste indenizar sem que tenha havido culpa. Afinal, diante da atividade que se presta (instituição bancária) deixou de cumprir com sua obrigação primária de cautela e prudência na atividade, causando danos e constrangimentos indevidos ao Agravante que somente foi sanado por interferência judiciário".
+Não foi apresentadaimpugnação (e-STJ, fl. 544).
+É o relatório. Decido.
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Ao analisar as questões aduzidas no agravo em recurso especial, esta Corte Superior aplicou os apontados óbices processuais de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observa-se, ademais, que a parte embargante, na verdade, busca a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE.EMBARGOS DE DECLARAÇÃO REJEITADOS.
