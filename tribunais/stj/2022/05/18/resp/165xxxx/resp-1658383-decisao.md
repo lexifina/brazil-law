@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão oriundo do Tribunal de Justiça da mesma unidade federativa.
+Depreende-se dos autos que a recorrida foi condenada, como incursa no art. 14 da Lei n. 10.826/2003, à pena de 2 anos de reclusão, no regime inicial aberto.
+Na sequência, foi negado provimento ao recurso de apelação da defesa. O acórdão está assim ementado (e-STJ fls. 236/237):
+CRIME DE ARMAS (ARTIGO 14, CAPUT, DA LEI Nº 10.826/03).
+IRRESIGNAÇÃO DEFENSIVA.
+PROVA. PENA. MANUTENÇÃO DA CONDENAÇÃO.
+A prova contida nos autos ampara o decreto condenatório lavrado contra a ré, inviabilizando a acolhida do pleito absolutório.
+Autoria corroborada por depoimentos de policiais, os quais são aptos a integrar um contexto probatório firme e seguro. Consoante entendimento externado por este órgão fracionário e Tribunais Superiores, as declarações dos policiais merecem credibilidade, notadamente quando coerentes e harmônicas com os demais elementos probatórios.
+Por outro lado, é inviável o acolhimento da tese da "ausência de lesividade da conduta", pois a ação praticada pelo agente trata-se de delito formal, de mera conduta, que se consuma com o simples "portar" a arma de fogo e/ou a munição, sem a devida autorização e em desacordo com determinação legal e regulamentar, sendo inexigível a demonstração do risco de dano concreto à incolumidade pública.
+Igualmente inviável o reconhecimento da inimputabilidade da ré ao tempo dos fatos, por estar passando por problemas de saúde mental, pois, conforme bem apontado pela magistrada a quo, o atestado médico de fl. 135 é documento unilateral que não foi corroborado no processo por perícia médica feita pelo IPF, o que só seria possível através de incidente de insanidade.
+Descabida, também, eventual tese de descriminalização temporária, concedida quando da entrada em vigor do Estatuto do Desarmamento. Ocorre que o prazo concedido pela Lei nº 10.826/03 para a regularização ou entrega de armas irregulares às autoridades competentes, diz respeito apenas ao delito de posse de arma, no interior de residência ou local de trabalho. Abolido Criminis não -configurada.
+Quanto ao apenamento fixado à ré, foi corretamente calculado, mostrando-se como necessário e suficiente para reprovação e prevenção do crime perpetrado, não havendo motivos parai, reduzi-lo, inclusive porque a pena -base foi dosada no mínimo legal, não havendo qualquer possibilidade de maior redução, mesmo diante da atenuante da confissão espontânea, com base na Súmula nº 231, do STJ.
+Quanto à pena de multa, igualmente improcede o pleito subsidiário da defesa de isenção da mesma, devido à condição de pobreza da ré. A condição financeira da acusada foi considerada para se determinar o valor de cada dia -multa, tendo este sido fixado no mínimo legal, sendo que a pena pecuniária cumulativa é de imposição obrigatória, sendo a eventual impossibilidade de satisfazê-la matéria afeta à execução criminal.
+Por derradeiro, quanto à substituição da pena privativa de liberdade por restritivas de direitos, foi corretamente operada, nos termos do artigo 44, § 2º, do Código Penal, sendo que a alegação de que a acusada não tem condições físicas de prestar serviços comunitários não é cabível, já que o § 3º do referido dispositivo legal dispõe que as tarefas serão atribuídas conforme as aptidões do condenado.
+APELO I M PROVI DO.
+Os embargos de declaração opostos pela defesa foram rejeitados (e-STJ fls. 269/277).
+A defesa então interpôs recurso especial, e o Tribunal de origem deixou de realizar o juízo de admissibilidade, uma vez quedeclarou extinta a punibilidade da recorrida em razão da prescrição da pretensão punitiva.
+Irresignado, o Ministério Público interpôs agravo regimental, o qual não foi conhecidoem acórdão assim ementado (e-STJ fl. 357):
+AGRAVO REGIMENTAL. RECURSOS AOS TRIBUNAIS SUPERIORES.
+Consoante a jurisprudência deste Tribunal, não é da competência do Órgão Especial o julgamentodo agravo regimental interposto contra decisão de Vice - Presidente proferida na pendência do juízo de admissibilidade dos recursos especial e extraordinário (extinção da punibilidade do réu pela prescrição).
+Recurso não conhecido. Unânime.
+Posteriormente, foram rejeitados os embargos de declaração opostos pelo Parquet (e-STJ fls. 379/384).
+Daí o presente recurso especial, no qual se alega a violação aos arts. 107, IV, e 117 do Código Penal, "isso porque absolutamente inviável, no caso em exame, declarar a prescrição da pretensão punitiva estatal sem a precedente análise da admissibilidade recursal, pois, na hipótese de ser inadmitido ou negado seguimento ao apelo excepcional, a decisão condenatória teria transitado em julgado na data de 09 de junho de 2015, que se consubstanciaria no dies ad quem para a interposição do apelo excepcional" (e-STJ fl. 395).
+Contrarrazões às e-STJ fls. 428/434.
+O MPF manifestou-se pelo provimento do recurso especial (e-STJ fls. 460/465).
+É, em síntese, o relatório.
+A presente irresignação perdeu seu objeto.
+Embora valha registrar que a tese desenvolvida pelo Parquetnas razões do recurso especial encontre amparo na jurisprudência desta Corte, uma vez que "a Terceira Seção desse Superior Tribunal de Justiça firmou entendimento segundo o qual inadmitido o recurso especial pelo Tribunal de origem, em decisão mantida pelo STJ, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível" (EAREsp n. 386.266/SP, relator Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 12/8/2015, DJe 3/9/2015) - e-STJ fl. 462, não haveria utilidade no provimento deste recurso.
+Explico.
+Provido o recurso especial edeterminado ao Tribunal de origem que realizasse juízo de admissibilidade do recurso especial interposto pela defesa, se a Corte de origem o admitisse, a prescrição outrora reconhecida passaria a ser incontestável haja vista não terhavidoneste caso a retroatividade do trânsito em julgado.
+Se, contudo, fosse inadmitido o recurso pela Corte a quo, haveria a possibilidade de aparte interpor agravo para esta Corte. Neste caso, competiria ao Superior Tribunal de Justiçaanalisar a admissibilidade do apelo raro. Caso viesse a entender pela sua viabilidade, a prescrição estaria consumada, como no exemplo anterior, pois também não teriahavido a referida retroatividade. Caso decida pela inadmissibilidade do recurso especial ou do próprio agravo, não há que se falar em manutenção da decisão que reconheceu a prescrição na origem, pois, nesta hipótese, haveráa retroação do prazo. Mas, ainda assim, o recurso não terá utilidade, porque consumada estará a prescrição da pretensão executória. Vale lembrar que o trânsito em julgado remontará ao ano de 2015, e que o prazo prescricional é de 4 anos.
+Ou seja, sob qualquer ângulo, revela-se sem utilidade a presente pretensão recursal.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
