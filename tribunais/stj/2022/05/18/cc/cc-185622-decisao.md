@@ -1,0 +1,37 @@
+DECISÃO
+1.Trata-se de conflito negativo de competência estabelecido entre oJUÍZO DE DIREITO DA 11A VARA CÍVEL DE NATAL - RN - e o JUÍZO DA 1ªVARA DO TRABALHO DE NATAL - RN.
+A reclamação trabalhista foi ajuizada contra a Caixa Econômica Federal e Fundação dos Economiários Federais - FUNCEF -, visando a reimplantação do auxílio-alimentação pago em pecúnia, bem como a complementação da aposentadoria, para que reflita a inclusão da parcela salarial no benefício.
+A ação foi ajuizada inicialmente e distribuída aoJUÍZO DA 1ª VARA DO TRABALHO DE NATAL - RN -, ao argumento de que a causa de pedir é previdenciária, de modo que a solução da controvérsia deve ser julgada no âmbito da justiça comum.
+O JUÍZO DE DIREITO DA 11ªVARA CÍVEL DE NATAL - RN -, para onde encaminhados os autos, suscitou o presente conflito, por entender que a solução da controvérsia trabalhista, com o reconhecimento do direito a receber o salário-alimentação, consubstanciaprejudicial em relação ao exame da demanda previdenciária.
+Informações prestadas (fls. 41-43).
+O Ministério Público opinou pela declaração da competência da Justiça Trabalhista (fls. 48-53).
+É o relatório.
+DECIDO.
+2.A controvérsia jurídica posta no presente conflito de competência não é nova nesta Corte, justificando o julgamento monocrático do feito, a teor do permissivo constante no art. 34, XXII, do RISTJ (Súmula 568/STJ).
+Com efeito, a jurisprudência desta Corte de Justiça pacificou orientação no sentido de queacompetênciapara processamento e julgamento é definida em razão do pedido e da causa de pedir.
+No caso, verifica-se que a causa de pedir envolve relação tanto trabalhista quanto previdenciária, uma vez que a reclamação trabalhista foi ajuizadavisando a reimplantação do auxílio-alimentação, em razão da natureza salarial da verba, que estaria integrada ao contrato de trabalho.
+Afora isso, o reclamante também pretendia a complementação da aposentadoria, em demanda autônoma, previdenciária, direcionada contra o patrocinador - FUNCEF. Houve inclusive pedido de antecipação dos efeitos da tutela especificamente quanto ao ponto, conforme se verifica às fls. 19-20.
+Nesse caso, inequívoca acompetênciada Justiça laboral para, dentro dos seus limites de jurisdição e dos limites impostos pela própria parte autora, apreciação e julgamento da controvérsia, cabendo, em respeito ao entendimento firmado pelo STF no julgamento dos RE"s nºs 583.050/RS e 586.453/SE, a propositura, se for o caso, de ação própria futura perante a Justiça Comum para discutir incrementos na complementação de aposentadoria.
+Nesse sentido:
+"AGRAVOINTERNONOS EMBARGOS DE DECLARAÇÃO NOCONFLITODECOMPETÊNCIA.RECLAMAÇÃOTRABALHISTAPROPOSTA CONTRA A CEF E A FUNCEF. PEDIDO QUE NÃO SE RESTRINGE À ANÁLISE DAS REGRAS DA PREVIDÊNCIA COMPLEMENTAR.COMPETÊNCIADA JUSTIÇA DO TRABALHO. AGRAVOINTERNODESPROVIDO.
+1. A causa de pedir da contenda tem origem na exclusão da parcela denominada CTVA do salário de contribuição do autor, fato que terá repercussão financeira em sua aposentadoria futura, mas, cuja solução não se restringe à interpretação das regras da previdência complementar.
+2. Considerando que a matéria em discussão é afeta à relação de emprego estabelecida com a CEF, ainda que haja reflexos no valor dos benefícios de responsabilidade da entidade de previdência privada, a FUNCEF, é competente a Justiça do Trabalho para o julgamento da demanda. Precedentes.
+3. Agravointernoa que se nega provimento" (AgInt nos EDcl no CC 138.011/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 22/2/2017, DJe 7/3/2017).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOCONFLITODECOMPETÊNCIA. RECUSO MANEJADO SOB A ÉGIDE DO CPC/73. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. CTVA.COMPETÊNCIADA JUSTIÇATRABALHISTA.MANUTENÇÃO DO JULGADO PELOS SEUS PRÓPRIOS TERMOS, COM OBSERVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese de indevida cumulação de pedidos, um de carátertrabalhistae outro previdenciário, sendo o primeiro prejudicial, a demanda deve ser julgada pela Justiça do Trabalho, a quem compete, também, decidir acerca da legitimidade passiva da entidade fechada de previdência privada. Aplicação adaptada da Súmula nº 170 do STJ e afastamento do precedente do eg. Supremo Tribunal Federal no julgamento do RE 586.453/SE (que concluiu pelacompetênciada Justiça comum para processar e julgar demandas de natureza previdenciária promovidas contra entidades de previdência complementar), porque diversas as circunstâncias dos autos.
+2. Possibilidade de posterior ajuizamento de nova ação contra a entidade previdenciária perante a Justiça comum.
+3. Agravo regimental não provido, com observação"
+(AgRg no CC 144.129/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 22/6/2016, DJe 1º/7/2016).
+"CONFLITONEGATIVO DECOMPETÊNCIA- JUSTIÇA DO TRABALHO - JUSTIÇA COMUM FEDERAL - RECLAMAÇÃOTRABALHISTAPROPOSTA CONTRA A CEF E A FUNCEF - PEDIDO DE INCLUSÃO DO CTVA NO SALÁRIO - REFLEXO NA COMPLEMENTAÇÃO DE APOSENTADORIA - RE 586.453/SE - QUESTÃO DIVERSA - CAUSA DE PEDIR E PEDIDO - ESTREITA LIGAÇÃO COM A RELAÇÃO DE TRABALHO ESTABELECIDA ENTRE AS PARTES.
+1. A 2ª Seção deste Tribunal consolidou a entendimento de que, tratando-se de litígio instaurado entre entidade fechada de previdência privada e participante de seu plano de benefícios, compete à Justiça Estadual processar e julgar o feito.
+2. O caso em exame, todavia, trata de hipótese diversa em que o pedido de alteração do contrato de trabalho é dirigido diretamente à CEF em razão de pedido de inclusão de CTVA, sendo eventual modificação no contrato de previdência privada da autora, patrocinado pela empregadora e administrado pela FUNCEF, mera conseqüência do acolhimento do pedido de naturezatrabalhista.
+3.Competênciada Justiça do Trabalho, nos termos do entendimento também pacificado no âmbito da 2ª Seção deste Tribunal.
+4. Agravo regimental desprovido"
+(AgRg nos EDcl no CC 135.970/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/2/2016, DJe 1º/3/2016).
+Aplica-se ao caso, por analogia, a Súmula 170 desta Corte,segundo a qual "compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo de nova causa, com pedido remanescente, no juízo próprio".
+3. Ante o exposto, com amparo no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência doJUÍZO DA 1ª VARA DO TRABALHO DE NATAL - RN.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM FEDERAL. PRETENSÕES DISTINTAS DIRIGIDAS CONTRA O EMPREGADOR E CONTRA A ENTIDADE DE PREVIDÊNCIA PRIVADA. CUMULAÇÃO INDEVIDA DE PEDIDOS. COMPETÊNCIAS MATERIAIS DIVERSAS. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM. APLICAÇÃO DA SÚMULA 170/STJ. RECLAMAÇÃO QUE DEVE SER JULGADA NA JUSTIÇA DO TRABALHO.
+1. Deduzidas de forma indevida duas pretensões distintas na mesma reclamação, em que se pretende o reconhecimento do direito ao auxílio-alimentação, com repercussão no benefício da aposentadoria,aplica-se, com as adaptações pertinentes, aSúmula 170desta Corte, segundo a qual "compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo de nova causa, com pedido remanescente, no juízo próprio".
+2. Conflito de competência conhecido para declarar a competência doJUÍZO DA 1ª VARA DO TRABALHO DE NATAL - RN.
