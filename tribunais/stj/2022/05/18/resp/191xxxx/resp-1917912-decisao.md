@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especialinterposto porBanco Itaucard S.A.contraacórdão proferido pelo Tribunal de Justiça de Rondôniao assim ementado (e-STJ, fls. 231-232):
+Ação revisional. Contrato bancário. Tarifa de registro de contrato. Legalidade. Prestação do serviço. Onerosidade excessiva. Ausência. Tema 958/STJ.
+Segundo o STJ, é valida a cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas as hipóteses de abusividade da cobrança por serviço não efetivamente prestado e a possibilidade de controle da onerosidade excessiva, o que não se verificou no presente caso.
+Nos termos de entendimento firmado no STJ em recurso repetitivo, é abusiva a cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado. Nos termos da jurisprudência do Superior Tribunal de Justiça, a Tarifa de Abertura de Crédito (TAC) não foi prevista na Tabela anexa à Circular BACEN 3.371/2007 e atos normativos que a sucederam, de forma que não mais é válida sua pactuação em contratos posteriores a 30/4/2008.
+Evidenciada a cobrança indevida de tarifas bancárias em contrato de financiamento de veículo, deve ser restituído o valor correspondente.
+Opostos embargos de declaração, estes foram rejeitados(e-STJ, fls. 217-219):
+Nas razões do recurso especial (e-STJ, fls. 228-237), orecorrente alegou, com fulcro nas alíneasaecdo permissivo constitucional, violação aos arts. 4º, IV e IX, e 9º da Lei 4.595/1964; e 1.022, II, todosdo CPC/2015, além de afirmar a existência de dissídio jurisprudencial.
+Sustenta, em síntese,a existência de negativa de prestação jurisdicional e a possibilidade de cobrança de serviços de terceiros e da tarifa de cadastro, uma vez que estabelecidas contratualmente.
+Contrarrazões apresentadas (e-STJ, fls. 300-308).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior (e-STJ, fls. 309-311).
+Brevemente relatado, decido.
+No apelo excepcional, orecorrente aponta aexistência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Contudo, analisando os autos, observa-se que o colegiado local, não obstante a oposição de embargos de declaração na origem, deixou de se manifestar sobre a questão envolvendo a possibilidade de cobrança de serviços de terceiro, considerando a efetiva prestação do serviço, o que estaria de acordo com a tese fixada no REsp 1.578.553/SP.
+Portanto, conclui-se que o acórdão combatido não sanou efetivamente a omissão apontada, impondo-se, assim, o retorno dos autos à origem para que o órgão competente realize novo julgamento dos aclaratórios, corrigindo o vício indicado.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. TÍTULO JUDICIAL. REFORMA. EXTINÇÃO DA EXECUÇÃO. ART. 10 DO CPC. OMISSÃO RELEVANTE. ART. 1.022 DO CPC. VIOLAÇÃO. PRINCÍPIO DA COLEGIALIDADE. SÚMULA N. 568/STJ. RECURSO ESPECIAL DA PARTE CONTRÁRIA. PREJUDICIALIDADE. NÃO PROVIMENTO.
+1. Nos termos do artigo 10 do Código de Processo Civil, "O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenhadado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício." 2. Considera-se violado o artigo 1.022 do Código de Processo Civil quando o Tribunal de segundo grau, instado a se manifestar sobre questão relevante ao deslinde da controvérsia por meio dos competentes e oportunos embargos de declaração, deixa de se pronunciar a respeito.
+3. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." Enunciado n. 568 da Súmula do Superior Tribunal de Justiça.
+4. "Constatada a violação ao art. 1.022 do CPC/2015 e determinada a devolução dos autos à origem para novo julgamento dos embargos de declaração, fica prejudicada a análise de recurso interposto pela parte contrária." (EDcl no AgInt no REsp 1702612/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1/3/2021, DJe 3/3/2021) 5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1923573/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. PREVISÃO DE CUSTEIO. NECESSIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos declaratórios, é de rigor o reconhecimento de violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no REsp 1698218/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/06/2021, DJe 30/06/2021)
+Em face do reconhecimento da alegada violação do art. 1.022 do CPC/2015, fica prejudicada, por ora, a apreciação das demais alegações feitas pela parte recorrente.
+Ante o exposto, douprovimento ao recurso especial, a fim de, reconhecida a violação ao art. 1.022 do CPC/2015,determinarao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO.VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONSTATAÇÃO.DEVOLUÇÃO DOS AUTOS À ORIGEM.RECURSO ESPECIAL PROVIDO.
