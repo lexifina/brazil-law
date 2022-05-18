@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III,a,da Constituição Federal, interposto pelo Ministério Público do Rio Grande do Sulcontra oacórdãoproferidopelo Tribunal de Justiça local no julgamentodo Recurso em Sentido Estriton.70082891847.
+Nas razões, o recorrente suscitou negativa de vigência dos arts. 121,§ 2º, V e VII, c/c o 14, II, ambos do CP; e art. 18, I, do CP; bem como contrariedade aos arts. 74,§ 1º, 413 e 419, todos do Código de Processo Penal, pugnando pela pronúncia dos recorridos quanto ao fato 1 descrito da denúncia (fls. 888/912).
+Contrarrazões às fls. 1.094/1.098.
+A Corte de origem admitiu o recurso (fls. 1.104/1.114).
+Instado a se manifestar comocustos legis, o Ministério Público Federal opinou pelo provimento do recurso (fl. 1.133):
+RECURSO ESPECIAL. PENAL. HOMICÍDIO QUALIFICADO. FORMA TENTADA COMPATÍVEL COM O DOLO EVENTUAL. PRECEDENTES/STJ.
+Parecer pelo provimento do recurso especial.
+É o relatório.
+O recurso especial é inadmissível, pois encontra óbice na Súmula 7/STJ.
+Ao desclassificar a conduta imputada na denúncia (fato 1), referente à suposta tentativa de homicídio qualificado (duas vezes), o Juízo processante sopesou não apenas a suposta incompatibilidadeentre a tentativa e o dolo eventual, mas também a inexistência de indícios mínimos deanimus necandina conduta imputada aos recorridos (fls. 504/505 - grifo nosso):
+ ..
+Como visto, pela prova examinada, não vislumbro elementos, sequer mínimos, do dolo de matar na conduta dos réus.
+Neste ponto, mesmo que considerada a hipótese de que Cristian, condutor do veículo Fiat/Uno, conduziu o carro, empregando alta velocidade, em direção a barreira policial (situação que, repito, não é confirmada pelos réus), não identifico dolo de matar inerente ao homicídio. É que, nessa situação, possível que a intenção dos réus fosse fugir da abordagem da polícia, justamente porque traziam drogas consigo e, nessas condições, não pretendiam ser presos ou perder a sua mercadoria ilícita.
+Ademais, o próprio policial civil Lucas referiu, em seu depoimento judicial, que, ao avistarem os réus, acionaram os faróis e sirenes para identificar a abordagem, destacando que o veículo onde estavam os acusados deu uma "zigue-zagueada", parecendo que os réus estavam buscando uma saída para fugir. Daí porque, nessa hipótese, me parece evidente o intuito de resistir à abordagem policial e não de ceifar a vida dos policiais.
+Outrossim, não parece coerente cogitar a participação de Alan no evento, já que era o caroneiro e, em tese, estava dormindo até o momento do fato (segundo sua versão). E as demais provas dos autos não traz elementos, sequer indícios, de que esse acusado tenha incentivado o corréu Cristian a atropelar os policiais com o fito de matá-los.
+Além disso, esse juízo depara-se com uma questão técnica, vez que se filia ao entendimento de que o instituto da tentativa é incompatível com o dolo eventual.
+ ..
+Com efeito, ainda que rechaçada a premissa jurídica acolhida pelo Juízo e ratificada no acórdão ora atacado, qual seja, de que há incompatibilidade entre a tentativa e o dolo eventual, só seria possível cogitar de acolhimento do pleito ministerial (pronúncia) mediante reversão da conclusão do julgador no sentido da inexistência de elementos mínimos de animus necandi, providência essa inviável em sede de recurso especial, uma vez que demandaria a análise dos elementos de prova que fundaram a convicção do julgador (Súmula 7/STJ).
+Nesse sentido, confiram-se (grifo nosso):
+PENAL. PROCESSO PENAL. PRONÚNCIA. FILTRO PROCESSUAL. PROCEDIMENTO DO JÚRI. DESCLASSIFICAÇÃO DO FATO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE SUBSTRATO PROBATÓRIO MÍNIMO DO INTENTO HOMICIDA. REVERSÃO. SÚMULA 7 DO STJ.
+1. O Código de Processo Penal exige, para a submissão do réu a julgamento perante o Júri, a existência de comprovação da materialidade delitiva e de indícios suficientes de autoria ou participação no crime (art. 413).
+2. "Não é consentâneo, aos objetivos a que representa na dinâmica do procedimento bifásico do Tribunal do Júri a decisão de pronúncia relegar a juízes leigos, com a cômoda invocação da questionável regra do in dubio pro societate, a tarefa de decidir sobre a ocorrência de um estado anímico cuja verificação demanda complexo e técnico exame de conceitos jurídico-penais" (REsp 1689173/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2017, DJe 26/03/2018).
+3. Concluindo o Tribunal de origem, ao desclassificar o fato e afastar a competência do Júri, que "a vítima sofreu pequena lesão que não lhe causou perigo de morte", não havendo nos autos "outros elementos concretos que pudessem amparar a suposição de que os réus teriam agido com animus necandi, não há substrato probatório mínimo de que esses tenham agido com dolo homicida", a pretendida reversão do julgado exigiria incursão fático-probatória, o que encontra óbice na Súmula 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.959.755/RS, Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, DJe 2/3/2022)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRONÚNCIA. EMBRIAGUEZ E VELOCIDADE ACIMA DO PERMITIDO. AUSÊNCIA DE OUTROS ELEMENTOS CAPAZES DE DEMONSTRAR A ASSUNÇÃO DO RISCO DE MATAR. DOLO EVENTUAL. NÃO DEMONSTRADO. DESCLASSIFICAÇÃO. CRIME CULPOSO. SUBMISSÃO AO TRIBUNAL DO JÚRI. IMPOSSILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULA N. 7/STJ.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, "a embriaguez, por si só, sem outros elementos do caso concreto, não pode induzir à presunção, pura e simples, de que houve intenção de matar" (HC n. 328.426/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/11/2015, DJe 25/11/2015).Precedentes.
+2. No caso concreto, o Tribunal de origem manteve a decisão proferida no primeiro grau de jurisdição que, em vez de pronunciar o agravado pela prática, em tese, de homicídio simples, com dolo eventual, desclassificou a conduta para a forma culposa do delito, uma vez que, analisando as provas dos autos, concluiu que apenas a embriaguez e a velocidade pouco acima do permitido no instante do fato não permitem atribuir-lhe de forma alguma o animus necandi nem a assunção do risco de matar.
+3. Segundo a instância ordinária, não exsurge dos autos nenhum outro elemento ou circunstância capaz de demonstrar o elemento subjetivo necessário à submissão do caso a julgamento do tribunal do júri.
+4. Eventual acolhimento da pretensão recursal deduzida pelo órgão acusatório, no sentido de pronunciar o réu homicídio doloso, dependeria inexoravelmente do revolvimento de questões fático-probatórias, o que, no âmbito do recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ. Precedentes.
+5. Não há usurpação da competência constitucional do júri quando as provas existentes nos autos, segundo conclusão da instância ordinária, não forem suficientes para demonstrar, nem mesmo de forma indiciária, a prática de crime doloso contra a vida. Precedentes.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 1.848.945/PR, Ministro Jorge Mussi, Quinta Turma, DJe 20/4/2020)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL.TENTATIVA DE HOMICÍDIO QUALIFICADO (DUAS VEZES). SENTENÇA DESCLASSIFICATÓRIA. NEGATIVA DE VIGÊNCIA DOS ARTS. 121,§ 2º, V E VII, C/C O 14, II, AMBOS DO CP; E ART. 18, I, DO CP. CONTRARIEDADE AOS ARTS. 74,§ 1º,413 E 419, TODOS DO CPP. RECURSO QUE ALMEJA A PRONÚNCIA DOS RECORRIDOS SOB A ALEGAÇÃO DE QUE HÁ COMPATIBILIDADE ENTRE ATENTATIVA EO DOLO EVENTUAL DESCRITOS NA DENÚNCIA. PRETENSÃO QUE TRANSCENDE A ANÁLISE MERAMENTE JURÍDICA. INSTÂNCIAS ORDINÁRIAS QUE CONCLUÍRAM NO SENTIDO DA INEXISTÊNCIA DE INDÍCIOS MÍNIMOS DEANIMUS NECANDINA CONDUTA PERPETRADA. REDISCUSSÃO. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Recurso especial não conhecido.
