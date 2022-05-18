@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por RENATO PADILHA PEREIRA eJF ESPORTES LTDA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 4.005):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. APELAÇÃO. INTEMPESTIVIDADE. INTIMAÇÃO. VALIDADE. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever o entendimento do tribunal de origem, que concluiu ser a apelação intempestiva diante da validade da intimação do antigo patrono atuante no feito, encontra o óbice da Súmula nº 7/STJ.
+4. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido.
+Sustentam os recorrentes a existência de repercussão geral da matéria tratada e apontam a violação do art. 105, III, da Constituição Federal.
+Alegam que esta Corte Superior, ao não conhecer da insurgência recursal com base na Súmula 7/STJ, "em contexto processual com ela incompatível, deixa de exercer uma das atribuições que fora outorgada pela Constituição Federal" (e-STJ fl. 4.026).
+Aduzem que "a controvérsia recursal levada à apreciação do Superior Tribunal de Justiça dizia respeito, apenas, ao termo inicial para a apresentação do recurso - apelação -, quando presentes duas intimações realizadas pelo próprio Poder Judiciário" (e-STJ fl. 4.026) questão que "não pressupõe o exame de qualquer fato posto na causa de pedir da demanda ou, outrossim, de alguma prova apresentada pelas partes, mas apenas a verificação da existência de eventos processuais e de sua validade - duas intimações" (e-STJ fl. 4.026).
+Argumentam que, como aSúmula n. 7/STJ é totalmente inaplicávelao presente caso,a sua incidência "implica em clara e incontroversa negativa do exercício da prestação jurisdicional atribuída ao STJ pelo artigo 105, III, da Constituição" (e-STJ fl. 4.030).
+Afirmam ser necessário "que o Supremo Tribunal Federal se valha de sua atribuição constitucional para afastar a reiterada negativa de prestação jurisdicional que se forma em razão da aplicação irrestrita e defensiva da Súmula 07, como meio de esvaziamento do acúmulo de processos na Corte Cidadã" (e-STJ fl. 4.037).
+Requerem a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls.4.047-4.076.
+É o relatório.
+O Supremo Tribunal Federal pacificou o entendimento de que não é cabível recurso extraordinário no qual se alega violação ao art. 105, III, da Constituição Federal, questionando o conhecimento ou não do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. INFRINGÊNCIA AO ART. 105, III, "A", DA CF/88. REPERCUSSÃO GERAL REJEITADA NO JULGAMENTO DO RE 598.365-RG (REL. MIN. AYRES BRITTO, TEMA 181). OFENSA À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(ARE 860192 AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em 28/04/2015, PROCESSO ELETRÔNICO DJe-087 DIVULG 11-05-2015 PUBLIC 12-05-2015)
+Com igual orientação:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PONTAL DO PARANAPANEMA. NULIDADE DOS TÍTULOS DE DOMÍNIO EM RAZÃO DO VÍCIO NA ORIGEM DA CADEIA DOMINIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 105, III, DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIAS DE CORTES DIVERSAS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365. TEMA 181. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+(RE 1081829 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 21/09/2018, PROCESSO ELETRÔNICO DJe-208 DIVULG 28-09-2018 PUBLIC 01-10-2018)
+Na espécie, o acórdão objeto do recurso extraordinário desproveu o agravo interno, mantendo a decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lheprovimento, concluindo pela ausência de violação dos arts. 489 e 1.022 do CPC, pela incidência, no caso, do óbice da Súmula n. 7/STJ, bem como pela falta de comprovação do dissídio jurisprudencial.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+Confira-se, por oportuno, a ementa do julgado:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. AFERIÇÃO DOS PRESSUPOSTOS DO RECURSO ESPECIAL. ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. SEGUIMENTO NEGADO.
