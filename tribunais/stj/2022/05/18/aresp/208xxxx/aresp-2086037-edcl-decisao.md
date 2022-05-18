@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIO RODRIGUES DA SILVA à decisão de fls. 237/238, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com os respeitos cabíveis, a parte ora Embargante/Agravante explicitou na peça de Recurso Especial, fls. 161, que de fato e de direito, houve a publicação do v. Acórdão recorrido aos 24/05/2021, segunda feira, tendo ocorrido feriados nos dias 03 e 04 de junho de 2021.
+Que para confirmar e demonstrar que de fato houve o conhecido feriado de "corpus Christi" registrado no calendário dia 03/06/2021, quinta feira, bem como houve suspensão do expediente e prazos legais no dia 04/06/2021, sexta feira, a parte ora Embargante juntou aos autos o documento extraído diretamente do site do Tribunal de Justiça do Estado de São Paulo, fls. 178/180, provimento CSM n o 2584/2020 (fl. 241).
+ ..
+Oportunamente a parte ora Embargante informa que juntou outros documentos para corroborar com sua tese, no bojo do Recurso Especial, fls. 186/187, e também os acórdão paradigmas que versam sobre o tema discutido no contexto do recurso extremo, fls. 188/196 e fls. 197/204 (fl. 242).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Não se desconhece do documento juntado às fls. 180/184, que comprova o feriado de Corpus Christi (3/6/2021) na capital do estado. No entanto, não é suficiente para afastar a intempestividade do recurso.
+Registre-se que o calendário, ou mera relação de feriados, juntado às fls. 177/179, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso especial. No caso, deveria ter a parte juntado o Provimento CSM Nº 2584/2020 para comprovar a suspensão do expediente no dia 4/6/2021.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
