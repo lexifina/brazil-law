@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gerson Pereira de Aguiar dos Santos, com a alegação de constrangimento ilegal perpetrado pelo Tribunal de Justiça de São Paulo no julgamento da Apelação n. 1500782-30.2020.8.26.0616 (fls. 378/391).
+O Juízo de Direito da 1ª Vara Criminal da comarca de Mogi das Cruzes/SP condenou o ora pacientecomo incurso nas sanções do artigo 33, caput, combinado com o artigo 40, inciso III, ambos da Lei nº 11.343/06, combinado com oartigo 2º e seguintes da Lei nº 8.072/90, à pena 06 anos, 06 meses e 22 dias de reclusão, em regime inicial fechado, e 655 dias- multa, cada qual no mínimo legal; artigo 12 da Lei nº 10.826/2003 à pena de 01 ano e 02 meses de detenção, em regime inicial semiaberto, e 11 dias-multa (fls. 315/316).
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, a fim de fixar as reprimendas em5 anos e 10 meses de reclusão, em regime inicial fechado, mais o pagamento de 583 dias-multa, no valor unitário correspondente ao mínimo legal, como incurso no artigo 33, "caput", da Lei nº 11.343/06, e 1 ano de detenção, em regime inicial semiaberto, mais o pagamento de 10 dias-multa, no valor unitário correspondente ao mínimo legal, como incurso no artigo 12, da Lei 10.826/03; (ii) conceder os benefícios da justiça gratuita. Mantida, no mais, a r.sentença (fl. 385).
+Nesta Casa, a Defensoria Pública postula,inclusive em caráter liminar, a readequação da pena aplicada ao paciente quanto ao crime de tráfico de drogas, com a fixação da pena-base no mínimo legal, sustentandoque a quantidade de drogas ou a variedade encontrada não era expressiva a ponto de justificar uma maior reprovabilidade (fl. 5).
+Liminar indeferida (fl. 397), o Ministério Público Federal opinou pelo não conhecimento do writ (fl. 403).
+É o relatório.
+As instâncias ordinárias fixaram a pena-base em 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa, em razão da natureza das drogas apreendidas.
+O art. 42 da Lei n. 11.343/2006 dispõe queo Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Entretanto, verifico que se trata do tráfico de 7,82 g de crack e de 163,68 g de cocaína (fl. 310), quantidade que, apesar de razoável, não pode justificar a exasperação da pena-base, nos termos da jurisprudência desta Casa, por não destoar do comumente apreendido.
+Com efeito, para que o réu seja incurso no crime de tráfico de drogas, alguma quantidade de substância entorpecente deverá ser apreendida, e, nesse caso, a pena somente merece ser exasperada na primeira fase quando a monta se mostrar realmente elevada. Não obstante a notável nocividade do crack e da cocaína, a quantidade apreendida não pode ser utilizada para agravar a pena do paciente, que já foi sopesada pelo legislador no mínimo de 5 anos para a repreensão desse delito. Se a pena for elevada apenas pela apreensão da droga, o dispositivo de lei torna-se letra morta, por nunca ser aplicado em seu piso mínimo.
+Nesses termos, deve ser afastada a consideração negativa da vetorial da natureza e da quantidade da droga apreendida. A propósito, confiram-se: AgRg no HC n. 584.095/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 16/9/2020; e AgRg no HC n.410.707/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2020.
+Assim, fixo a pena-base, para o delito de tráfico de drogas, em 5 anos de reclusão, além do pagamento de 500 dias-multa.
+Na segunda etapa, mantenho a compensação da atenuante da confissão com a agravante da reincidência, conforme efetuado pelo Tribunal de origem, fixando a pena definitivamente em referidoquantum.
+Tratando-se de réu reincidente, deve ser mantido o regime fechado para o início do cumprimento da reprimenda.
+Ante o exposto, concedo a ordem para fixar a pena do paciente pelo crime de tráfico de drogas em 5 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 500 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE. QUANTIDADE NÃO EXORBITANTE DO MATERIAL ENTORPECENTE. REDUÇÃO AO MÍNIMO LEGAL.CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
