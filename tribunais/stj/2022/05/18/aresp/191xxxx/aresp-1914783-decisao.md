@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por ADESALDO NASCIMENTO CAETANO contra a decisão do Tribunal a quo que não admitiu o processamento do recurso especial (e-STJ fls. 881/882).
+Segundo consta dos autos, o agravante foi condenado em primeiro grau à pena de 8 anos, 3 meses e 16 dias de reclusão, a ser cumprida no regime inicial fechado (e-STJ fls. 691). A defesa recorreu da sentença e os membros do órgão fracionário, "Por unanimidade, rejeitaram a preliminar e, por maioria de votos, negaram provimento ao apelo, vencido o relator sorteado que dava provimento ao recurso para, com fundamento no art. 386, inciso VII, do Código de Processo Penal, absolver Adesaldo Nascimento Caetano, da acusação que lhe foi feita, nos termos de sua declaração de voto" (e-STJ fl. 785).
+O acórdão foi publicado no dia 3/4/2020 (e-STJ fl. 798).
+A defesa interpôs recurso especial, mas não foi conhecido, porquanto considerado intempestivo (e-STJ fls. 881/882).
+Nas razões do presente recurso de agravo, a defesa alega, preliminarmente, que o recurso é tempestivo. Explica: o recurso é tempestivo "em face do feriado nacional do dia 12/10/2020 (segunda feira), prevalecendo a publicação deste ato processual o primeiro dia útil do judiciário o dia 13/1/2020 (terça-feira), passando o prazo a fluir o prazo para a interposição do recurso cabível na quarta-feira, 14 de outubro de 2020. Dessa forma, o prazo de cinco dias (Súmula 699 do STF), esgota-se em 18 de outubro de 2020, segunda-feira. Tempestivo, pois, o presente agravo de instrumento" (e-STJ fl. 895).
+Assim, entende que a condenação é nula porque não houve a correta publicação da intimação dos defensores.
+Quanto ao mérito, alega violação ao disposto nos arts. 156, 157 e 226 do CPP que resultaram em uma condenação do réu pelo crime de roubo. Argumenta que o desrespeito aospreceitos legais não exige análise de provas, inclusive o Tribunal estadual, no voto minoritário, assim como o parecer da Procuradoria de Justiça, reconheceua ilegalidade do procedimento de identificação do réu.
+Diante disso, pede seja o recurso conhecido provido para conhecer e dar provimento ao recurso especial.
+Previamente ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do agravo, em parecer assim resumido (e-STJ fl. 927):
+ARESP. DECISÃO QUE NÃO CONHECE DERECURSO ESPECIAL. ROUBO MAJORADO. INTEMPESTIVIDADE. - No caso, a intimação do acórdão ocorreu em 06-04-2020 (fl. 800). O recurso especial foi protocolado apenas em 24-06-2020 (fl. 82), fora do prazo legal (§5º, do art. 1.003, do CPC e art. 798 do CPP). - Parecer pelo desprovimento.
+É o relatório, decido.
+Não há mais interesse no julgamento do presente recurso de agravo. Isso porque, em 19/5/2021, ao julgar o HC 588.493, impetrado em favor do paciente, concedi a ordem de ofício. Eis o dispositivo da decisão:
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ,não conheçodo presentehabeas corpus.Contudo,concedoa ordem de ofício, para absolver o pacienteADESALDO NASCIMENTO CAETANOda condenação naimposta na Ação Penal n. 0001552-31.2017.8.26.0575, com amparo no art. 386, V, do Código de Processo Penal, expedindo-se o alvará de soltura, se por outro motivo não estiver preso.
+Ante o exposto, com fundamento no art. 34, IX, do RISTJ, julgo prejudicado o agravo em recurso especial.
+Intimem-se.
