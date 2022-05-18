@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de suspensão de liminar e de sentença ajuizada pelo DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESPÍRITO SANTO (DETRAN/ES)contra decisão proferida pelo Desembargador relator do Agravo de Instrumento n. 5006611-50.2021.8.08.0000, que tramita perante a Terceira Câmara Cível do Tribunal de Justiça do Estado do Espírito Santo.
+Na origem, foi ajuizada ação popular com pedido de liminar por CARLOS VON SCHILGEN FERREIRA contra o DETRAN/ES (Autos n.5023976-45.2021.8.08.0024), objetivandoa suspensão de ato ou contrato em processo licitatório (Pregão Eletrônico n. 021/2020) de valor superior a R$ 139.000.000,00 (cento e trinta e nove milhões de reais), em razão de desvios e irregularidades constantes na licitação do cerco eletrônico estadual.
+O julgador de primeira instância postergou a apreciação da medida liminar pleiteada para momento posterior àapresentação de parecer pelo Ministério Público.
+Contra essedecisum,foi interposto agravo de instrumento, e o Desembargador relator deferiu ao agravante a antecipação da tutela recursal "suspendendo, por ora, o ato administrativo impugnado (pregão eletrônico nº 21/2020, processo nº 2019-313685) e aqueles dele decorrentes (contratos nº 55/2021 e 57/2021, com vigência de sessenta meses iniciada em 08/11/2021)" (fl. 398).
+No presente pedido suspensivo, o DETRAN/ES alega que a decisão ora combatida causagrave lesão à economia e à ordem públicas, porquanto a execução causará sérios transtornos à rotina administrativa, impactando os serviços públicos e a própria sociedade capixaba.
+Para tanto, aduz que "o Poder Executivo se encontra impedido de dar prosseguimento a uma contratação que busca implementar política prioritária na área da segurança pública, impedindo que os agentes públicos desempenhem suas atividades sem que se aponte, minimamente, a ocorrência de qualquer ilegalidade, o que afeta a ordem pública, na acepção administrativa" (fl. 27).
+Argumenta que "todos os órgãos de controle até agora ouvidos, seja de ofício (caso da Secretaria de Estado de Controle e Transparência - SECONT e PGE), seja por representações que lhes foram direcionadas (caso do MPES e TCES), refutaram, categoricamente, a ocorrência de direcionamento da licitação em tela" (fl. 17).
+Requer, assim, sejam suspensos os efeitos da decisão liminar proferida no Agravo de Instrumento n. 5006611-50.2021.8.08.0000.
+É, no essencial, o relatório. Decido.
+A matéria aqui suscitada é também objeto da SLS n. 3.042, com relação à qual já houve decisãopublicada em 29/12/2021.
+Ante o exposto, determino o arquivamento dapresente suspensão de liminar e de sentença, em razão da reiteração do pleito e de já ter sido decidida a questão.
+Publique-se. Intimem-se.
