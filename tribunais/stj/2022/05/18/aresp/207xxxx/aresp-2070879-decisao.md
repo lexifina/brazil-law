@@ -1,0 +1,14 @@
+DECISÃO
+1. Cuida-se de agravo interposto por IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO FELIX contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA.EXECUÇÃO DE VERBA HONORÁRIA FIXADA NA AÇÃO DE CONHECIMENTO.REVOGAÇÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA OUTRORA DEFERIDA EM FAVOR DA RECORRENTE. LEGALIDADE. PESSOA JURÍDICA. DEMONSTRAÇÃO DA APTIDÃO ECONÔMICA NECESSÁRIA AO PAGAMENTO DA OBRIGAÇÃO. INSTAURAÇÃO DE PROCEDIMENTO PRÓPRIO. DEVIDO PROCESSO LEGAL. OBSERVÂNCIA.PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO. INTERLOCUTÓRIA MANTIDA.
+1. De fato, a controvérsia em voga gravita em torno da responsabilidade da Agravante, Executada no cumprimento de sentença em trâmite na origem, em arcar com a verba honorária sucumbencial da ação de conhecimento após a revogação, pelo magistrado de primeiro grau, da assistência judiciária gratuita outrora vigente em seu favor, bem ainda na ocorrência da suposta prescrição da pretensão do Exequente, ora Agravado.
+2. Em se tratando de pessoa jurídica que exerce atividade econômica, mesmo que não vise, diretamente, o lucro, deve ser corroborado o entendimento firmado pelo juízo de base, inclusive porquanto o Exequente trouxe aos autos cópias de contratos firmados pela Agravante em que demonstra o recebimento de valores substanciais no âmbito da prestação de serviços médico-hospitalares, tudo a indicar, sem qualquer dúvida, plena capacidade econômica necessária ao afastamento da benesse postulada.
+3. Nessa linha de entendimento, a alegação de prescrição, por sua vez, revela-se, efetivamente, quase primária, posto que cediço que o termo inicial da pretensão do advogado exequente é o trânsito em julgado do título judicial que lhe outorgou os valores relativos à sucumbência, e não a a data da fixação da verba, na sentença ou acórdão, como alude o Agravante.
+4. Agravo improvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos artigo 437, § 1º, do CPC de 2015.
+É o relatório.DECIDO.
+2. Amatériareferenteaoartigo 437, § 1º, do CPC de 2015não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
