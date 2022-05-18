@@ -1,0 +1,79 @@
+DECISÃO
+Cuida-se de agravo interposto por Cooperativa de Crédito Unicred Vale Europeu Santa Catarina Ltda. - Unicred Vale Europeu desafiando decisão do Tribunal de Justiça do Estado de Santa Catarina que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fls. 546-547):
+ABERTURA DE CRÉDITO E OUTRAS AVENÇAS. REVISÃO. PARCIAL PROCEDÊNCIA. APELOS DAS PARTES.RECURSO DA PARTE DEMANDANTE. JUROS REMUNERATÓRIOS. VERIFICAÇÃO DA ABUSIVIDADE QUE SE PAUTA NA TAXA MÉDIA DE MERCADO, ADMITIDA CERTA VARIAÇÃO. ORIENTAÇÃO DO STJ. PRECEDENTES DESTA CÂMARA. ABUSIVIDADE EVIDENCIADA EM UM DOS CONTRATOS. APELO PARCIALMENTE PROVIDO NO PONTO.
+Na esteira do entendimento delineado pelo STJ - que admite a revisão do percentual dos juros remuneratórios quando aplicável o CDC ao caso e quando exista abusividade no pacto -, esta Câmara julgadora tem admitido como parâmetro para aferir a abusividade a flexibilização da taxa de juros remuneratórios até o percentual de 10% (dez por cento)acima da taxa média divulgada pelo Banco Central.
+REGISTRO DO CONTRATO NO SISTEMA DE INFORMAÇÕES DE CRÉDITO BANCO CENTRAL (SCR). MEDIDA DE CARÁTER ADMINISTRATIVO, INCAPAZ DE ALTERAR A NATUREZA CONTRATUAL.
+As informações remetidas pelas instituições financeiras ao SCR possuem caráter eminentemente administrativo, para fins de supervisão pelo Banco Central dos créditos fornecidos pelas instituições financeiras e, sendo assim, não tem o condão de alterar a natureza bancária do contrato firmado entre o banco e o cliente.
+CAPITALIZAÇÃO DE JUROS. ENCARGO ADMITIDO, DESDE QUE EXPRESSAMENTE PACTUADO. ORIENTAÇÃO CONSOLIDADA NO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N.973.827.
+A prática do anatocismo, como também é chamada a capitalização de juros, com periodicidade inferior a um ano, é permitida pelo ordenamento jurídico pátrio, desde que existente pactuação expressa e clara e que a data do contrato seja posterior à edição da Medida Provisória n. 1.963-17/00, em 31 de março de 2000, (reeditada como MP n.2.170-36/01).
+Acerca da exigência de expressa pactuação, o Superior Tribunal de Justiça entende que havendo previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal, permite-se a cobrança da taxa efetiva anual contratada.
+DESCARACTERIZAÇÃO DA MORA. ORIENTAÇÃO CONSOLIDADAPELO STJ NO RESP. N. 1.061.530/RS. APELO PROVIDO QUANTO A UM DOS CONTRATOS.
+O afastamento da mora do consumidor depende da constatação de encargos abusivos no período de normalidade (juros remuneratórios abusivos e capitalização de juros ilegal) - e não apenas a verificação de abusividade no período de inadimplência do contrato - e do adimplemento de pelo menos a parte incontroversa do débito, quando possível aferir o quantum debeatur.
+RECURSO DA DEMANDADA. O. INCIDÊNCIA DO CDI. IMPOSSIBILIDADE. ÍNDICE DIVULGADO PELA CETIP.
+Conforme o entendimento do Superior Tribunal de Justiça, "é nula a cláusula contratual que sujeita o devedor à taxa de juros divulgada pela ANBID/CETIP" (Súmula nº 176).
+READEQUAÇÃO DOS ÔNUS DE SUCUMBÊNCIA, ANTE A REFORMADA SENTENÇA.
+Reformada a sentença, ainda que parcialmente, é imperiosa a readequação dos ônus sucumbenciais.
+APELO DA DEMANDANTE PARCIALMENTE PROVIDO. APELO DA DEMANDADA NÃO PROVIDO.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 595-607).
+Nas razões do recurso especial, a recorrente alegou dissídio jurisprudencial e ofensa aos arts. 489, §1º, I, II, IV e 1.022, II, do CPC/2015; 112, 113 do CC/2002; e Súmula n. 530 do STJ.
+Sustentou negativa de prestação jurisdicional quanto a inexistência de abusividade na taxa de juros remuneratórios utilizado, caracterização da mora e incidência legal do CDI como correção monetária.
+Foram apresentadas contrarrazões (e-STJ, fls. 664-667).
+O Tribunal de origem, em juízo bipartido,negou seguimentoao recursoquanto à questão dos juros moratórios, tendo em vista o entendimento firmado pelo STJ noRecursoEspecial n. 1.061.530/RS (Temas 24 a 27 do STJ), enão admitiu o recurso, em relação aos pontos remanescentes,por não vislumbrar a alegada ofensa aos arts. 489 e 1.022 do CPC/2015 e pela incidência da Súmula n. 83 do STJ.
+Irresignada, a recorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Sem contraminuta (e-STJ, fl. 741).
+Brevemente relatado, decido.
+De início,conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030,b, do CPC/2015, haja vista que a questão relativa à controvérsia envolvendo a inexistência de litisconsórcio passivo(Tema 936) foi decidida na Corte estadual em conformidade com precedente firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+Assim, não merece conhecimento o presente agravo nesse ponto. Isso porque se trata de recurso incabível, tendo em vista que, conformedispõe o art. 1.030, § 2º, do CPC/2015, uma vez negado seguimento ao recurso especial na instânciaa quo, considerandoa conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO (ART. 1.042, DO CPC/15) PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos do art. 1.030, I, "b", do CPC/15, não cabe a interposição de recurso ao STJ para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+2. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 1.917.218/SP, Rel. MinistroMARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO CUMULADA COM REVISIONAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO. AUSÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de consignação em pagamento cumulada com revisional.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I,b, § 2º, c/c o art. 1.021 do CPC/15).
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo interno não provido. (AgInt no AREsp 1.895.566/RJ, Rel. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021).
+Além disso, não cabe a este Tribunal apreciar ofensa a súmula em recurso especial, uma vez que o enunciado de súmula não se insere no conceito de lei federal, previsto no art. 105, II,a, da Constituição Federal.
+Esse entendimento foi consubstanciado com a edição da Súmula 518 desta Corte, que determina: "Para fins do art. 105, III,a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+No mais, consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+Assinala-se que o acórdão recorrido expressamente enfrentou todas as questões suscitadas pelo recorrente,conforme se colhe dos excertos dos embargos de declaração opostos(e-STJ, fls. 595-607):
+No que tange à configuração da mora, bem como à inscrição ou manutenção do nome do devedor no cadastro de inadimplentes, o Superior Tribunal de Justiça, em julgamento de Recurso Especial representativo de controvérsia, firmou as seguintes orientações:
+ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA
+a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora;
+b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+ ..
+4- INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES
+a) A proibição da inscrição/manutenção em cadastro de inadimplentes, requerida em antecipação de tutela e/ou medida cautelar, somente será deferida se, cumulativamente: i) houver ação fundada na existência integral ou parcial do débito; ii) ficar demonstrado que a alegação da cobrança indevida se funda na aparência do bom direito e em jurisprudência consolidada do STF ou STJ; iii) for depositada a parcela incontroversa ou prestada a caução fixada conforme o prudente arbítrio do juiz;
+b) A inscrição/manutenção do nome do devedor em cadastro de inadimplentes, por ocasião da sentença ou do acórdão, seguirá a sorte do que houver sido decidido no mérito do processo quanto à mora. Autoriza-se a inscrição/manutenção apenas se configurada a mora. (REsp. n. 1.061.530/RS. Relª Minª Nancy Andrighi, j. em 22.10.2008).
+Ademais, sabe-se que a jurisprudência exige, além do reconhecimento da existência de encargos abusivos no período de normalidade, o adimplemento de considerável parcela da dívida para que a mora do devedor seja afastada.
+(..)
+Todavia, na impossibilidade de aferição do montante devido - tal como em contratos vinculados à conta corrente em que só é possível apurar o valor devido na fase de liquidação de sentença, ocasião em que serão afastados do débito os encargos abusivos - a exigência de adimplemento substancial da dívida é mitigada.
+(..)
+Em resumo, para que se afaste a mora do consumidor-contratante é preciso:
+(i) a constatação de encargos abusivos no período de normalidade (juros remuneratórios abusivos e capitalização de juros ilegal), e não apenas a verificação de abusividade no período de inadimplência do contrato;
+(ii) o adimplemento de pelo menos a parte incontroversa do débito, quando possível aferir o quantum debeatur.
+Outrossim, para que o banco abstenha-se de inscrever o nome do devedor no cadastro de inadimplente, em antecipação de tutela e/ou medida cautelar, é preciso:
+(i) a propositura de ação judicial que tenha por objeto a discussão do débito, total ou parcial;
+(ii) a demonstração de que a alegada cobrança indevida se funda na aparência do bom direito e em jurisprudência consolidada do STF ou STJ;
+(iii) o depósito da parcela incontroversa ou prestação de caução idônea, nos termos arbitrados pelo magistrado.
+No caso vertente, foi constatada abusividade no período da normalidade contratual na cédula de crédito bancário n. 2010400542, de modo que o primeiro requisito encontra-se presente.
+Tendo em vista que o contrato em questão é vinculado à conta corrente, dispensa-se o depósito de valores incontroversos da dívida, razão por que o apelo deve ser parcialmente provido para reconhecer a descaracterização da mora somente quanto à cédula de crédito bancário n. 2010400542.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Outrossim, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no AREsp 1.788.699/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/6/2021, DJe 14/6/2021).
+No mais, no que se refere ao afastamento da taxa de CDI como índice de atualização monetária, a Corte de origem dirimiu a demanda com conformidade com o entendimento desta Corte. Incidência da Súmula n. 83 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE CONFISSÃO DE DÍVIDA -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Esta Corte Superior possui jurisprudência consolidada no sentido de que acorreção monetáriatem como finalidade a recomposição do valor da moeda, e que que a taxaCDIreflete o custo da captação da moeda entre as instituições financeiras, sendo, portanto, taxa aplicada para remuneração do capital. Dessa forma, correto o entendimento do Tribunal de origem que afastou a incidência da taxaCDIcomo índice de atualização monetária. Incidência da Súmula 83/STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+3. O mútuo celebrado entre particulares, que não integram o sistema financeiro nacional, deve observar as regras constitucionais e de direito civil, mormente o disposto na Lei de Usura, que fixa juros remuneratórios máximos de 12% ao ano (Decreto 22.626/33, art. 1º e §3º). Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.844.367/SP. Relator Ministro Marco Buzzi, Quarta Turma, Dje 1/12/2021).
+Diante do exposto, agravo parcialmente conhecidopara conhecer parcialmente do recurso especial e, nessa extensão negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honoráriosem favor do advogado da parte ora recorrida em 1% sobre o valor econômico obtido com a demanda (diferença entre o valor do contrato e os valores dele expurgados).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. 1.RECURSO ESPECIAL PARCIALMENTE INADMITIDO NA ORIGEM COM FULCRO NA APLICAÇÃO DE TESE FIRMADA EM REPETITIVO - TEMA 988/STJ. IMPOSSIBILIDADE DE O STJ CONHECER DO AGRAVO EM RECURSO ESPECIAL NA PARTE EM QUE SE DISCUTE ESSA QUESTÃO. 2.NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CARACTERIZADA.3.RECURSO ESPECIAL FUNDADO EM ALEGADA VIOLAÇÃO DE ENUNCIADO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA N. 518 DO STJ. 4.INCIDÊNCIA DA TAXA CDI COMO ÍNDICE DE ATUALIZAÇÃO MONETÁRIA. AFASTAMENTO. INCIDÊNCIA DA SÚMULA 83/STJ. 5. AGRAVO PARCIALMENTE CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
