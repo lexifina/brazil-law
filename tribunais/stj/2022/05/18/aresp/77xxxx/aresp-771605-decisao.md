@@ -1,0 +1,33 @@
+DECISÃO
+Da análise do agravo de instrumento que deu origem ao presente recurso especial, depreende-se que a MASSA FALIDA DO BANCO SANTOS S.A. (MASSA FALIDA) promoveu execução de título extrajudicial contra DISMAF DISTRIBUIDORA DE MANUFATURADOS LTDA. (DISMAF).
+No curso da ação, o d. Juízo de primeira instância deferiu o pedido de penhora de 10% do faturamento para o pagamento da dívida.
+Contra essa decisão interlocutória, DISMAF interpôs agravo de instrumento sustentando que (1) a decisão ofendeu a ordem estabelecida no artigo 655 do CPC/73, além de ser medida gravosa à continuidade de suas atividades; e (2) a decisão é nula, por falta de fundamentação.
+O Tribunal de Justiça do Estado de São Paulo, em acórdão da relatoria do Desembargador ALEXANDRE MARCONDES, negou provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+PENHORA - Faturamento - Execução por título extrajudicial - Possibilidade - Existência de penhora "on line" em valor irrisório - Indicação que cabe ao credor - Procedimento da penhora de faturamento - Inexistência de nulidade por falta de fundamentação - Agravo desprovido, com observação. (e-STJ, fl. 386)
+Inconformada, a DISMAF interpôs recurso especial, com base nas alíneas a e c do permissivo constitucional, apontando ofensa aos arts. 165, 458, II, e 620 e 655, todos do CPC, além de divergência jurisprudencial, sustentando que (1) a execução deve ser a menos gravosa possível ao devedor; (2) a penhora do faturamento constitui a sétima opção na ordem de precedência estabelecida pelo CPC para a penhora de bens do devedor em execução, norma que se aplica também à fase de cumprimento de sentença, situação do caso em tela; e (3) a decisão que deferiu a penhora é nula, por ausência de fundamentação (e-STJ, fls. 397/415).
+Contrarrazões ofertadas às e-STJ, fls. 471/500.
+O Tribunal paulista negou seguimento ao recurso especial diante do reconhecimento da deserção (e-STJ, fls. 511/512).
+Contra decisão houve a interposição de agravo em recurso especial, ao qual foi negado seguimento pelo Ministro Presidente do STJ nos seguintes termos:
+Mediante análise dos autos, verifica-se que a petição de recurso especial foi protocolada, na origem, sem a respectiva guia de recolhimento, apesar de presente o comprovante de pagamento das custas (fl. 432). Assim, não se verifica o atendimento da exigência contida no art. 511, caput, do CPC, que assim dispõe: "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgRg no AREsp 165.686/BA, 1.ª Turma, Rel. Min. Ari Pargendler, DJe de 1.º/9/2014; e AgRg no AREsp 425.678/SC, 4.ª Turma, Rel. Min. Luis Felipe Salomão, DJe de 7/3/2014.
+Ante o exposto, com fulcro no art. 1.º da Resolução STJ n.º 17/2013, NEGO SEGUIMENTO ao recurso.
+Publique-se. Intimem-se (e-STJ, fl. 690).
+Na sequência a DISMAF interpôs agravo regimental, sustentando que juntou o comprovante de pagamento das custas, o que basta para comprovar o preparo, não lhe sendo exigido nada mais à época da interposição do recurso (e-STJ, fls. 606/613).
+O agravo regimental foi provido, por maioria, para dar provimento ao recurso para superar a questão da deserção como óbice ao trânsito do recurso especial (e-STJ, fls. 650/652).
+É o relatório.
+DECIDO.
+O recurso está prejudicado.
+O STJ já consolidou o entendimento de que, em regra, fica prejudicado o recurso especial interposto contra acórdão que julga o agravo de instrumento, nas hipóteses de prolação de sentença.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO ORIGINADO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO. PREJUDICIALIDADE. EMBARGOS DE DECLARAÇÃO. FINALIDADE. REEXAME DA CAUSA. REJEIÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1.  ..  2. Nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente.
+3.  ..  4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.390.811/AM, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 20/6/2017, DJe 26/6/2017)
+No caso, em consulta ao site do Tribunal estadual verificou-se que os embargos à execução opostos por DISMAF foram rejeitados, seguindo-se o ajuizamento de ação rescisória que foi julgada improcedente:
+AÇÃO RESCISÓRIA DE SENTENÇA. EMBARGOS À EXECUÇÃO REJEITADOS. DESATE ANTECIPADO DOS EMBARGOS. Erro de fato e violação de disposição literal de lei - não ocorrência autores que procuram reexame de valoração de prova propósito de novo julgamento de questões já decididas em segundo grau - impossibilidade - ação que não se presta para substituir o recurso adequado - matérias enfocadas que não coadunam com o disposto no artigo 485 e incisos do CPC - inviabilidade da pretensão dos autores - improcedência do pedido autores que arcarão com o pagamento da multa de 5% prevista no art. 488, II do C.P.C.
+(TJSP - Ação Rescisória nº 0216443-28.2012.8.26.0000, Relator Des. CASTRO FIGLIOLIA, 15ª Câmara de Direito Privado, j. em 17/3/2015)
+Por outro lado, em consulta ao andamento da execução de título extrajudicial no site do Tribunal de Justiça do Estado de São Paulo (Processo nº 0181898-30.2006.8.26.0100, em curso na 14ª Vara Cível do Foro Central de São Paulo/SP), constatou-se que os valores executados já foram levantados pelas partes, encontrando-se os autos no setor de digitalização.
+Assim, tendo em vista que a decisão proferida no agravo de instrumento foi suplantada, em cognição exauriente, pelo acórdão que julgou a ação rescisória, prejudicada está a análise deste agravo em recurso especial,
+O art. 34, XI, do RISTJ, inclui nas atribuições do relator a competência para julgar prejudicado o pedido ou o recurso em razão da perda de seu objeto.
+Nessas condições, com fundamento no art. 34, XI, do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016) JULGO PREJUDICADO o agravo em recurso especial.
+Publique-se. Intimem-se.
