@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo Federal da 1ª Vara de Rio Grande - SJ/RS, suscitante, e oJuízo de Direito da Vara de Execução Criminal Regional de Pelotas - RS, suscitado.
+No âmbito da Justiça Federal, consta dos autos que Kátia Gomes Robalo, ora interessada, foi condenado à pena privativa de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto. Nos termos da Súmula 192/STJ, atribuiu-se a execução da pena à Justiça Estadual.
+Após concessão da progressão ao regime aberto e do livramento condicional, o Juízo Estadualdeclinou da competência ao Juízo da condenação,haja vista que o interessado não se encontra mais recolhido em estabelecimento prisional.
+A seu turno, recebidos os autos, o Juízo Federal suscitou o presente conflito por entender que "a circunstância de o apenado ter obtido a progressão para o regime aberto e o livramento condicional não devolve para este Juízo a competência da execução da pena privativa de liberdade respectiva, dado que, na hipótese de revogação de livramento e de regressão de regime, o apenado voltará ao estado anterior, sujeito ao regime semiaberto, que deve ser cumprido em estabelecimento prisional, sujeito à administração estadual." (e-STJ, fl. 866)
+O Ministério Público Federal ofertou parecer pelo conhecimento do conflito para declarar competente o Juízo suscitado (estadual).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Nos termos da remansosa jurisprudência deste Superior Tribunal de Justiça, consolidada na Súmula n. 192/STJ, "compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual".Observe, ainda, que "a progressão para o regime aberto não afasta a competência do Juízo estadual para fiscalizar a execução da pena", até porque o condenado pode sofrer regressão para regime mais gravoso, nas hipótese do art. 118 da Lei 7.210/84. (CC 157.691/PR, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 23/05/2018, DJe 06/06/2018.)
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. PENA APLICADA PELA JUSTIÇA FEDERAL. CUMPRIMENTO EM ESTABELECIMENTO ESTADUAL. PROGRESSÃO DE REGIME PARA O ABERTO. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192 DO STJ.
+1. A execução penal compete ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença. Sem ferir o art. 109 da CF/88, o verbete n. 192 da Súmula do Superior Tribunal de Justiça excepciona referida disciplina, nos casos em que o apenado, condenado pela Justiça Federal, encontrar-se em estabelecimento penitenciário estadual.
+2. Transferida, de início, para a Justiça Estadual a competência para o processo de execução penal, em virtude da permanência do condenado em estabelecimento penitenciário estadual, tem-se que a competência não se transfere de volta, automaticamente, pela simples progressão a regime no qual não seja mais necessário o encarceramento. Precedentes.
+3. Admitir que a progressão remeta os autos à Justiça Federal e a regressão os devolva à Justiça estadual geraria desnecessário tumulto à execução penal.
+4. Mantida, assim, a competência do Juízo de Direito da Vara de Execuções Penais e Medidas Alternativas da Comarca de Foz do Iguaçu/PR, ora suscitado, para dar continuidade à execução de pena imposta pela Justiça Federal, mesmo após a progressão de regime para o meio aberto.
+5. Agravo regimental a que se nega provimento.
+(AgRg no CC 164.523/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 24/04/2019, DJe 13/05/2019, grifou-se.)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara de Execução Criminal Regional de Pelotas - RS, suscitado.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
