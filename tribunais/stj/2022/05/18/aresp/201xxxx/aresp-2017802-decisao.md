@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão monocrática que não admitiu recurso especial por entender que é aplicável a Súmula n. 281/STF ao caso, por se tratar de recurso apresentado contra decisão monocrática, já que o respectivo agravo interno não foi conhecido(e-STJ fls. 1178/1179).
+Alega a agravante que o caso não é de incidência da referida súmula. Afirma que esgotou as vias recursais ordinárias já que interpôs recurso de apelação, agravo interno e embargos de declaração. Sustenta que a Presidência da Corte de Origem extrapolou suas atribuições ao inadmitir o recurso especial interposto(e-STJ fls. 1185/1189).
+Já no recurso especial aponta violação aos arts.110, do Código Tributário Nacional, e 3º, inciso II, das Leis nº 10.637, de 30 de dezembro de 2002, e nº 10.833, de 29 de dezembro de 2003.Sustenta ter direito ao creditamento dos insumos, concernentes ao Programa de Integração Social -PIS e a Contribuição para o Financiamento da Seguridade Social -COFINS, oriundos das despesas de vale transporte, vale alimentação, vale refeição e plano de saúde, bem como àcompensação, referente aos últimos 05 (cinco) anos e ao período posterior a propositura do presente Writ, dos valores recolhidos a maior (e-STJ fls. 945/960).
+Contraminuta nas e-STJ fls. .
+É o relatório. Passo a decidir.
+Sem razão a recorrente. Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, não cabe recurso especial de decisão monocrática. A saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE INTERPOSTO CONTRA JULGAMENTO MONOCRÁTICO. NÃO ESGOTAMENTO DE INSTÂNCIA. SÚMULA 281/STF.
+1. "É inadmissível o recurso extraordinário quando couber, na Justiça de origem,recurso ordinário da decisão impugnada" (Súmula 281/STF).
+2. No caso, o recurso especial foi interposto contra decisão monocrática proferidana instância inferior.
+3. Agravo interno a que se nega provimento (AgInt no AREsp. n. 858.787/GO, Segunda Turma, Rel. Des. conv. Diva Malerbi,julgado em 04/08/2016).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO DADA A MANIFESTA INADMISSIBILIDADE DE RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA PROFERIDA EM JUÍZO DE ADMISSIBILIDADE. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. O recurso especial é instrumento cabível para impugnar decisões colegiadas proferidas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, na forma do art. 105, III, da Constituição Federal.
+2. Configura erro grosseiro a interposição de recurso especial em face da decisão que admite, na origem, o processamento do agravo (art. 1.042 do NCPC) interposto pela parte adversa. Inviável a aplicação do princípio da fungibilidade recursal.
+2. Agravo interno desprovido(AgInt no AREsp. n. 1.225.989 / SP, Quarta Turma, Rel. Min. Marco Buzzi, julgado em 04.04.2022).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRABANDO. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL  STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incabível a interposição de recurso especial contra decisão monocrática que julga embargos de declaração, opostos na origem, porquanto necessário o exaurimento de instância. Incidência da Súmula n. 281/STF. Ressalta-se que o julgamento monocrático dos embargos de declaração opostos contra decisão colegiada não é suficiente para caracterizar o esgotamento das instâncias ordinárias para fins de interposição de recurso especial. Precedentes.
+2. Agravo regimental desprovido(AgRg no REsp. n. 1.910.991 / PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, julgado em 15.06.2021).
+Com efeito, se a questão foi decidida de forma monocrática pela Corte de Origem e não houve o conhecimento do respectivo agravo interno pelo colegiado, encerrou-se aí a cadeia recursal quanto ao mérito, salvo recurso que ataque a própria negativa de conhecimento do agravo interno para tentar fazê-lo ser conhecido pela Corte de Origem. Tal nãoé o caso dos presentes autos, onde a recorrente pleiteou o julgamento do próprio mérito da ação proposta.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, CONHEÇO DO AGRAVO para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIALINTERPOSTO CONTRA JULGAMENTO DE AGRAVO INTERNO NÃO CONHECIDO PELA CORTE DE ORIGEM. FALTA DE ESGOTAMENTO DE INSTÂNCIA. SÚMULA 281/STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (ART. 932, IV, CPC/2015 C/C ART. 253, PARÁGRAFO ÚNICO, II, A, RISTJ).
