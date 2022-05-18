@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por GEAP AUTOGESTÃO EM SAÚDE, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 14/09/2021.
+Concluso ao gabinete em: 13/05/2022.
+Ação: de obrigação de fazer c/c pedido de tutela de urgência e indenização, ajuizada por CRIZALDO DOS SANTOS PALMEIRA e IZABEL DOS SANTOS, em desfavor de GEAP AUTOGESTÃO EM SAÚDE.
+Sentença: julgou procedentes os pedidos da inicial para: i) tornar definitiva a tutela de urgência; ii) condenar aré: à reversão do cancelamento do plano de saúde dos autores, reintegrando-os na condição de segurados, nos mesmos termos anteriormente pactuados, sem carências, limitações, restrições ou exclusão, sob pena de multa diária; ao pagamento de indenização por danos materiais e devolução de valores eventualmente pago a mais pelos autores; à reparação aos autores, a título de danos morais no valor de R$ 10.000,00; tudo devidamente atualizado.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da ementa a seguir transcrita:
+"DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PLANO DE SAÚDE GEAP. MODALIDADE DE AUTOGESTÃO. PRELIMINAR. NÃO CONHECIMENTO DO RECURSO. REJEITADA. MÉRITO. ATRASO NO PAGAMENTO DA PARTE ATINENTEÀ COPARTICIPAÇÃO. NÃO DESCONTADA EM CONTRACHEQUE. INADIMPLEMENTO PARCIAL. CANCELAMENTO DO CONTRATO. NECESSIDADE DE NOTIFICAÇÃO PRÉVIA. AUSÊNCIA DE COMPROVAÇÃO. ATO ILÍCITO. INDENIZAÇÃO POR DANOS MORAIS. CABIMENTO. MANUTENÇÃO DO VALOR. RECURSO IMPROVIDO.
+1. Preliminar de não conhecimento da apelação, por ofensa ao princípio da dialeticidade. Com a apelação, foram devolvidas ao Tribunal todas as questões suscitadas e discutidas no processo, relativas ao capítulo impugnado, em atenção ao art. 1.013, § 1º, do CPC. Rejeitada.
+2. Conforme dispõe o art. 10, § 5º, do Regulamento do Plano GEAP Saúde II, havendo débito em relação às mensalidades, deve ser encaminhada notificação de inadimplência para quitação do débito, em até 50 dias.
+3. De igual sorte, a Lei nº 9.656/98, especificamente em seu art. 13, II, autoriza a rescisão do contrato de seguro saúde na hipótese de inadimplemento, desde que este seja superior a 60 dias, consecutivos ou não, desde que haja a efetiva notificação prévia do contratante até o quinquagésimo dia de inadimplência.
+4. O Instituto apelante não comprova a entrega de notificação ao apelado titular do plano, podendo-se constatar que o cancelamento não obedeceu aos rigores do art. 13, II, da Lei nº da Lei nº 9.656/98, tampouco, ao art. 10º do Regulamento, ônus que lhe competia, com amparo nos art. 373, I, do CPC.
+5. Diante da conduta desassistida de alicerce legal, o cancelamento do plano de saúde em desrespeito ao prazo estabelecido e sem notificação prévia configura um ato ilícito.
+6. Verificando-se a ocorrência do ilícito, é garantido de forma inquestionável em nosso ordenamento jurídico o direito à reparação, ainda que exclusivamente por danos de ordem moral, consoante previsão do artigo 5º, nos incisos V e X, da CF/88 e art. 186 do Código Civil.
+7. A quantia arbitrada em R$ 5.000,00 (cinco mil reais), para cada um dos autores, atende aos princípios da razoabilidade e da proporcionalidade.
+8. Recurso improvido, à unanimidade.
+9. Majoração dos honorários advocatícios para 15% sobre o valor da condenação atualizado (art. 85, §11º, do CPC)." (e-STJ, fl. 345)
+Recurso especial: alega violação dos arts. 186, 188, 421,422 e 927 do Código Civil; 13, II, da Lei 9.656/98; e 5º, II, da CF/88.Sustentou: i) a ausência de qualquer ato ilícito de sua parte, não tendo havido qualquer irregularidade no cancelamento do plano de saúde dos autores;ii) conforme contratado, é possível a rescisão do plano contratado por falta de pagamento da mensalidade; iii) a inexistência de dano moral a ser reparado. Pugna, ao fim pelo provimento do recurso especial, para julgar totalmente improcedentes os pedidos iniciais dos autores/agravados.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: CPC/2015.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pelo agravante foi inadmitido com base naincidência da Súmula 7 do STJ.
+No entanto, no agravo em recurso especial, a agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, apenas repisando os mesmos argumentos já expendidos no recurso especial em defesa de sua tese.
+Ressalte-se, outrossim, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a correta valoração das provas, devendo ser demonstrada a efetiva desnecessidade do reexame na hipótese em que o Tribunal de origem declara que "In casu verifica-se que a pretensão de fundo esbarra no enunciado da Súmula 07, do c. STJ, o que exigiria novo exame do acervo fático-probatório constante dos autos, providência que se sabe vedada em sede de Recurso Especial." (e-STJ, fl. 419). O que não foi feito.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC/2015, majoro os honorários, fixados anteriormente em 15% sobre o valor da condenação (e-STJ, fl. 343), para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
