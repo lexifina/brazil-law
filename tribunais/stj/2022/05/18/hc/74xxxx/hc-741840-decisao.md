@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Rivelino Barbosa- pronunciadocomo incurso nas penas do art.121, § 2º, II, III e IV, c/c. art.14, II, todos do Código Penal, porque, no dia 1º/6/2019, na Rua São Pedro, nº 1052, Jardim São Gabriel, nesta cidade e Comarca de Salto/SP, por motivo fútil, mediante meio cruel e utilizando-se de recurso que dificultou a defesa do ofendido, tentou matar Sérgio Luiz da Silva, desferindo-lhe diversos golpes de faca, o que lhe causou as lesões corporais descritas no laudo de exame de corpo de delito indireto de fls. 92/94, não se consumando o crime por motivos alheios à vontade do agente (fls. 21/32)-,apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO(Habeas Corpusn. 2056087-73.2022.8.26.0000).
+Esta, a ementa do acórdão impugnado (fl. 69):
+HOMICÍDIO TRIPLAMENTE QUALIFICADO TENTADO.
+Pronúncia. Recurso em sentido estrito. Pretendida despronúncia fundada na negativa de autoria. Inadmissibilidade. Prova da existência do fato e indícios de autoria. Conflito entre a versão acusatória e a defensiva. Dúvida. Indispensabilidade da análise pelo Tribunal do Júri, juiz natural da demanda. Princípio do in dubio pro societate. Qualificadoras bem reconhecidas. Recurso desprovido.
+Afirma-se, na impetração, que o paciente não ostenta quaisquer das hipóteses situadas no art. 312 do Código de Processo Penal, além de evidenciar-se o excesso de prazo para a conclusão da ação penal (fls. 3/19).
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva e a concessão de liberdade do paciente (fls. 3/19).
+É o relatório.
+No caso, verifico que a impetração não prospera, visto que, sobre o andamento da ação penal, o Juízo de Direito da 1ª Vara criminal da comarca de Foro de Salto/SP prestou as seguintes informações (fls. 90/92):
+ ..  Em 08/01/2020, sobreveio Sentença de Pronúncia, remetendo o julgamento para este Tribunal do Júri, dando-o como incurso nos art. 121, § 2.º, II, III, IV e VI, c. c. art. 14, inciso II do Código Penal. Transitada em julgado a sentença de pronúncia.
+Em 28/07/2020, os autos foram redistribuídos a este juízo que é o competente para julgamentos de processos do Tribunal do Júri.
+Em 28/06/2020, determinei a intimação das partes para que, no prazo de 05 (cinco) dias cada uma, atendam ao comando do art. 422 do Código de Processo Penal.
+Em 24/04/2021, designei o julgamento perante o Tribunal do Júri da Comarca de Salto, para o dia 12 de agosto de 2021, às 13 horas.
+Em 05/07/2021, houve pedido de renúncia do defensor dativo ora nomeado.
+Em 05/07/2021, determinei a nomeação de defensor nos termos do Convênio entre a DPE-OAB/SP ao réu.
+Em 16/07/2021, houve a nomeação do defensor dativo. Em 28/07/2021, a defesa requereu o adiamento da sessão designada para 12 de agosto, por falta de tempo hábil para conhecimento do processo em todas as suas peculiaridades, preparação da defesa e, mesmo, preparação do defensor. No mesmo ato a defesa requereu a instauração de incidente de insanidade.
+Em 06/08/2021, determinei o cancelamento do julgamento perante o Plenário do Júri designado para o dia 12/08/2021, às 13:00 horas. No mesmo ato, determinei a instauração de incidente de insanidade, para avaliar a capacidade e imputabilidade do réu e determinei a manutenção da prisão preventiva.
+Em 26/08/2021, determinei a suspensão o andamento do feito nos termos do art.149, § 2.º do Código Penal até que seja oferecido o laudo no incidente.
+Em 10/11/2021, foi enviado ofício ao IMESC solicitando data para realização da perícia. Em 19/11/2021, determinei a manutenção da prisão preventiva, eis que não houve fato posterior que modificasse o cenário.
+Em 26/01/2022, determinei a intimação do IMESC, a fim de que providenciasse a designação de data para a realização de perícia, no prazo improrrogável de trinta dias. Em 07/02/2022, foi designada perícia para o dia 21/02/2022, às 15:40h.
+Em 07/02/2022, determinei a intimação/requisição do réu para comparecimento a perícia designada.
+Em 22/03/2022, determinei a intimação do representante legal do IMESC, a fim de que providencie o envio do laudo pericial/esclarecimentos, no prazo improrrogável de trinta dias. Na data de hoje, reapreciei a prisão preventiva, o que fiz para mantê-la, tendo em vista que não houve alteração nos motivos que levaram a sua decretação. Como apontado nos autos, o réu esfaqueou a vítima enquanto ela dormia, desferindo-lhe uma dezena de golpes, nada obstante a vítima fosse seu vizinho. Ademais, as versões disponíveis para justificar a conduta do réu indicam mesquinhez, de modo a restar manifesto o risco à ordem pública casos e járevogada a prisão cautelar.
+O feito aguarda a vinda do laudo da perícia realizada em 21/02/2022.
+ ..
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, já tendo sido prolatada decisão de pronúncia, quadro processual que tornaria "superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução" (Súmula n. 21, Terceira Seção, DJ 11/12/1990) (RHC n. 158.454/PI, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 2/5/2022)
+De mais a mais, verifica-se que o alegado excesso de prazonão foi objeto de análise pelo Tribunal impetrado, o que impede o exame direto por este Superior Tribunal, por configurar indevida supressão de instância. Como é cediço, "Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância(HC n. 378.585/SP, Ministro NEFI CORDEIRO, Sexta Turma, DJe 20/4/2017)(AgRg no HC n. 738.431/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/5/2022).
+Por fim, o decisum a quo deve ser mantido, pois o decreto preventivo evidenciou prova da existência do delito, indício suficiente de autoria, contemporaneidade da necessidade da medida e o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando a gravidade concreta do delito(AgRg no HC n. 728.089/SP, da minha relatoria, Sexta Turma, DJe 1º/4/2022).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO NA MODALIDADE TENTADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. EXCESSO DE PRAZO. INEXISTÊNCIA. SUPRESSÃO DE INSTÂNCIA.CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
