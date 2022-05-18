@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpussubstitutivo de recurso próprio impetrado em favor de DANIELA MARIA DINI contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido nos autos do Agravo em Execução Penal n. 0009665- 57.2021.8.26.0502.
+Consta dos autos que o Juízo de primeiro grau indeferiu o pleito de retificação do cálculo da pena formulado pela paciente com vista no art. 112, § 3º da LEP e art.2º, § 2º, da Lei n. 8.072/90 (com a redação dada pelo Lei n. 13.769/2018).
+Irresignada, a defesa interpôs agravo perante o Tribunal de origem, que negou provimento ao recurso, em julgamento assim resumido (fl. 10):
+"AGRAVO EM EXECUÇÃO - retificação de cálculo de pena - Progressão de regime especial. Aplicação da fração de 1/8 para concessão do benefício, nos termos da Lei nº 13.769/2018 - impossibilidade - não preenchimento de um dos requisitos legais - reincidência - inadmissibilidade de equiparação - Agravo não provido."
+Na presente impetração, sustenta a Defesa que tendo sido promulgada alteração legislativa que altera os lapsos para progressão de regime, cabe ao Juiz a observância de nova interpretação, não sendo admissível a negativa de aplicação da norma.
+Argumenta que "o objetivo da lei em beneficiar as crianças em condição de vulnerabilidade decorrente do encarceramento das genitoras, e a necessidade de interpretação da Lei nº 13.964/2019 em bonam partem, permitem por analogia o afastamento da reincidência motivada por crime comum, que vem causando o constrangimento ilegal ora noticiado, e a progressão com 1/8 (um oitavo) da pena" (fl. 8).
+Nestes termos, requer a concessão da ordem, "determinando que o juízo da Vara das Execuções Criminais se abstenha de exigir a primariedade, ou ainda, que seja afastada a reincidência genérica, por ocasião da análise do pedido de progressão com 1/8 (um oitavo) da pena" (fl. 8).
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pelo não conhecimento domandamuse, subsidiariamente, pela denegação da ordem, em parecer que recebeu a seguinte ementa (fl. 66):
+"PENAL e PROCESSUAL PENAL.Habeas corpus substitutivo de REsp.Inadmissão. Execução penal. Progressão de regime especial. Mãe de criança. Reincidência.Impossibilidade. Pleito de aplicação da regra da analogia. Ausência de lacuna legislativa.Reincidência genérica que inviabiliza a benesse. Não admissão do writ, descabida a concessão de um habeas corpus ex officio."
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque aCorte estadual negou a retificação do cálculo de penas pleiteado pela paciente sob o fundamento de que foi "reconhecida a sua recalcitrância criminosa tanto na r. sentença, quanto no v. acórdão condenatório" (fl. 11), entendimento que está em consonância com o entendimento deste Tribunal Superior, no exame de casos análogos. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. DECISÃO MONOCRÁTICA. POSSIBILIDADE. PRISÃO DOMICILIAR. ART. 117, III, DA LEP. PRESENÇA DOS REQUISITOS LEGAIS. PRINCÍPIOS DA FRATERNIDADE (CONSTITUIÇÃO FEDERAL - PREÂMBULO E ART. 3º) E DA PROTEÇÃO INTEGRAL À CRIANÇA. PROGRESSÃO DE REGIME. REDUÇÃO DA FRAÇÃO PARA 1/8. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do habeas corpus pelo relator quando a decisão for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça. Precedentes.
+2. Efetivamente, as disposições legislativas insculpidas no art. 318, V, do Código de Processo Penal, incluído pela Lei n. 13.257/2016, e no inciso III do art. 117 da LEP não condicionam a prisão domiciliar da mãe com filho menor de 12 anos à comprovação de outros requisitos, como quis o legislador no caso do pai (inciso VI do art. 319 do CPP). (AgRg no HC n. 679.489/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/9/2021, DJe 4/10/2021)
+3. Haja vista ser a reeducanda reincidente específica, inviável, nos termos do art. 112, § 3º, da LEP, a redução da fração aplicável ao cálculo de progressão do regime prisional para 1/8.
+4. Agravo regimental improvido no tocante à aplicação da fração de 1/8 para fins de progressão de regime; porém, reconsiderada, em parte, a decisão agravada, concedendo o habeas corpus para deferir à ora agravante a prisão domiciliar, sem prejuízo da imposição, a critério do Juízo a quo, do monitoramento eletrônico.
+(AgRg no HC 675.639/PR, Rel. Ministro ANTONIO
+SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/12/2021).
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
