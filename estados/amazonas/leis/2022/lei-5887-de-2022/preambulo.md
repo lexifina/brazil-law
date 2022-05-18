@@ -1,0 +1,11 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI N. 5.887, DE 18 DE MAIO DE 2022.
+
+DECLARA como Patrimônio Cultural e Imaterial do Estado do Amazonas, os Tricicleiros do Município de Parintins.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
