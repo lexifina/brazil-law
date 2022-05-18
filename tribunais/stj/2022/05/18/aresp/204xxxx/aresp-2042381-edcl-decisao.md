@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Smbank Financeiro e Investimentos Ltda.à decisão desta relatoriaassim ementado (e-STJ, fl. 258):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO FUNDADA EM TÍTULO JUDICIAL. RESPONSABILIDADE CONTRATUAL. PRESCRIÇÃO. PRAZO DECENAL. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais, o embargante alega que "diantedo entendimento do douto Ministro de que a hipótese dos autos se submete ao prazo geral de prescrição das ações pessoais, de dez anos, nos termos do art. 205 do CC/2002, mostra-se necessária a supressão de omissão no que se refere a necessidade de "remessa" à origem, tendo em vista tratar-se de processo digital, como escopo de possibilitar aos réus a apresentação de resposta processual, nos termos do artigo 330 do Código do Processo Civil." (e-STJ, fl. 265).
+Impugnação às fls. 270-271 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, a omissão, a obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+A decisão monocrática embargada decidiu a controvérsia com base emfundamentação sólida, sem omissões ou contradições.Ademais, o órgão julgador não está obrigado a responder aquestionamentos das partes, mas tão só a declinar as razões de seuconvencimento motivado, como de fato ocorre nos autos.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACIDENTE DE TRÂNSITO ENTRE CAMINHÃO E MOTOCICLETA, COM RESULTADO MORTE.CONDENAÇÃO DO NOSOCÔMIO AO PAGAMENTO DE INDENIZAÇÃO POR DANO MORAL.JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. ILEGITIMIDADE PASSIVA AFASTADA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ASSINADO PARA A PRESTAÇÃO DOS SERVIÇOS HOSPITALARES. REVISÃO DAS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. NÃO CONFIGURADA.PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+(EDcl no AREsp 1.287.421/SC, Rel. Ministro Moura Ribeiro, terceira Turma, julgado em 11/05/2021, DJe 13/05/2021).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL- AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - TELEFONIA - OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS DE ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA DOS AGRAVANTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+(..)
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp 1.615.441/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2020, DJe 17/12/2020).
+Constata-se que a decisão embargada solucionou aquestão de forma satisfatória, sem incorrer nos vícios de obscuridade,contradição ou omissão com relação a ponto controvertido relevante, cujoexame pudesse levar a um diferente resultado na prestação de tutelajurisdicional.
+Esclareço, ainda, que o acórdão do Tribunal de Justiça do Estado de São Paulo, ao reformar a sentença, consignou que o processo deve seguir seu curso regularmente, o que, consequentemente, ensejará o retorno dos autos à origem para regular prosseguimento do feito.
+Evidente, portanto, a impossibilidade de acolhimento dos presentesaclaratórios, pois devidamente motivada e fundamentada a decisão, além denão ter sido demonstrada a ocorrência de nenhuma das hipóteses do art.1.022 do Código de Processo Civil/2015.
+Dessa forma, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃOREJEITADOS.
