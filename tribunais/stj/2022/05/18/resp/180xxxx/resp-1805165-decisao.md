@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por AIRTON FERLIN (AIRTON), contra acórdão proferido nos autos do agravo de instrumento tirado da ação reivindicatória, em fase de cumprimento provisório de sentença, ajuizada por ISAIAS ALBINO AMÂNCIO (ISAIAS), representado por NILTON DUBIELLA (NILTON), a seguir ementado (e-STJ, fls. 293/302):
+AGRAVO DE INSTRUMENTO - EFETIVAÇÃO TUTELA PROVISÓRIA - APLICAÇÃO, NO QUE COUBER, DAS REGRAS PARA CUMPRIMENTO DE SENTENÇA PROVISÓRIO - DESNECESSIDADE DE CAUÇÃO - MEDIDA INCOMPATÍVEL COM TUTELA DE URGÊNCIA - DECISÃO MANTIDA - AGRAVO DE INSTRUMENTO DESPROVIDO.
+O parágrafo único do art. 297 do CPC prevê que a efetivação da tutela provisória é realizada por meio de cumprimento de sentença provisório, porém, o texto legal faz expressa ressalva com a utilização do termo "no que couber", permitindo, assim, ao julgador deixar de aplicar as regras procedimentais da execução provisória que se mostrarem contraproducentes à efetivação da tutela antecipada, especialmente nos casos em que se tratar de tutela de urgência.
+Nas razões do apelo nobre, fundado no art. 105, III, a, da CF, e 1.029, §5º, III, do NCPC, AIRTON sustentou, em síntese, negativa de vigência aos arts. 297, parágrafo único, 520, IV e 521, todos do CPC/15, alegando necessidade de oferecimento de caução idônea por parte de ISAIAS, para a concessão da tutela de urgência.
+Ouvido o Ministério Público Federal, mediante parecer da lavra do Subprocurador-Geral da República ANTONIO CARLOS ALPINO BIGONHA, opinou pelo não conhecimento do recurso especial (e-STJ, fls. 391/395).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recurso, contudo, está prejudicado.
+Consta dos autos que AIRTON interpôs agravo de instrumento contra decisão proferida na ação reivindicatória cumulada com perdas e danos, em fase de cumprimento provisório de sentença, ajuizada por ISAIAS, impugnando a concessão de tutela de urgência - consistente na expedição de mandado de imissão na posse dos lotes, objeto dos autos -em seu desfavor(e-STJ, fls. 293/302).
+Todavia, no julgamento do REsp nº 1.842.537-MT, declarei a nulidade da ação originária, por ausência de citação da esposa de AIRTON, reconhecendo a hipótese de litisconsórcio passivo necessário, conforme jurisprudência pacífica desta Corte Superior, e determinei o retorno dos autos ao Tribunal de origem, para as providências cabíveis.
+Assim sendo, o presente recurso está prejudicado, por falta de interesse recursal superveniente, já que toda a cadeia de atos posteriores acitação inicial não mais subsiste.
+O art. 34, XI, do RISTJ, inclui nas atribuições do relator a competência para julgar prejudicado o pedido ou o recurso em razão da perda de seu objeto.
+Nessas condições, com fundamento no art. 34, XI, do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016) JULGO PREJUDICADO o recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CONCESSÃO DE TUTELA DE URGÊNCIA. IMISSÃO NA POSSE. AÇÃO REIVINDICATÓRIA, EM FASE DE CUMPRIMENTO PROVISÓRIO DE SENTENÇA. RECURSO ESPECIAL CONEXO (REsp nº 1.842.537/MT). RECONHECIMENTO DE NULIDADE PROCESSUAL. AUSÊNCIA DE CITAÇÃO DA ESPOSA DO REQUERIDO, NOS AUTOS DE ORIGEM. HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DETERMINAÇÃO DE RETORNO DOS AUTOS, PARA AS PROVIDÊNCIAS CABÍVEIS. PERDA DO INTERESSE PROCESSUAL SUPERVENIENTE. RECURSO ESPECIAL PREJUDICADO.
