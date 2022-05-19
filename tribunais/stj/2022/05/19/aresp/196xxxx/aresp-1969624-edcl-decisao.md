@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por Sílvio José Filippozzi Ilha contra decisão que, sanando erro material,deu provimento ao recurso especial a fim de reconhecer apossibilidade de decadência do crédito tributário e determinouo retorno dos autos à origem para avaliar o transcurso dos prazos em nova análise do agravo de instrumento proposto pelo contribuinte,aplicando-se o entendimento firmado por esta Corte de Justiça(e-STJ, fls. 254-256).
+O insurgente alegaque "a decisão proferida nos embargos declaratórios alterou o julgado anterior em flagrante reformatio in pejus na medida em que "alterou" entendimento anterior sem que houvesse recurso próprio da parte contrária!" (e-STJ, fl. 259).
+Prossegue afirmando que (e-STJ, fl. 261):
+ .. a tese da embargante, respaldada pelas decisões desta Corte, é no sentido de que a partir da homologação da partilha não havia nenhum óbice para que o Estado do Rio Grande do Sul promovesse o lançamento da diferença que entendia devida. Ou seja, apesar de não poder cobrar a diferença, não havia nenhum impedimento para promover o lançamento, evitando assim o perecimento do seu direito em face da decadência.
+Requer, assim, o acolhimentodos embargos para que seja mantida a decisão que reconheceu a decadência.
+Aparte contrária apresentouimpugnação às e-STJ, fls. 269-273.
+É o relatório.
+Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+Com efeito, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Nesse contexto, diversamente do alegado pelo embargante,não se verifica, no julgado questionado, nenhuma omissão, contradição ou erro material, porquanto a decisão embargada expressamente consignou que (e-STJ, fls. 254-255):
+ ..  a Segunda Turma desta Corte de Justiça possui o entendimento de que a existência de discussão judicial acerca do percentual de alíquota aplicável não impossibilita o fisco de proceder ao lançamento com a intenção de evitar a decadência, cuja contagem não se sujeita a causas suspensivas ou interruptivas, mas apenas de praticar atos com vista à cobrança do crédito.
+Ocorre que, de uma nova análise dos autos, observa-se que do acórdão recorrido não é possível extrair com exatidão os dados dos atos processuais, de modo que, sem o exame dos aspectos fáticos da causa, não é possível resolver definitivamente a controvérsia nesta instância.
+Essa impossibilidade impõe a devolução do autos para que a Corte de origem examine esses aspectos de sua competência e, em seguida, faça incidir a orientação firmada por este Tribunal Superior.
+Ou seja, ao reexaminar a decisão agravada, constatei a existência de erro material, passível de correção de ofíciopor esta relatoria.
+Ademais, é sabido que, nos termos da jurisprudência desta Casa, a simples correção de erro material não viola o princípio que veda a reforma para piorar a situação jurídica do imputado, especialmente porque, no caso em tela, prevaleceuo entendimento requerido pelo contribuinte de quea existência de discussão judicial sobre a viabilidade de cobrança de alíquota progressiva do ITCD, ainda que em repercussão geral, não representa óbice ao lançamento do tributo pelo fisco, tampouco altera o termo inicial do prazo decadencial.
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parterequerente não é sanar vício de embargabilidade, e sim rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Por fim, os questionamentos da parte interessada, ao defender o desacerto da solução jurisdicional aplicada, na verdade, revelam a discordância com o resultado do julgamento. Insurgência dessa natureza deve ser encaminhada por meio da via própria.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
