@@ -1,0 +1,40 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por VALOR GESTAO DE ATIVOS, COBRANÇAS E SERVIÇOS LTDA em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PENHORA SALARIAL PARCIAL. IMPOSSIBILIDADE. VERBA IMPENHORÁVEL. DÍVIDA NÃO ABRANGIDA PELAS EXCEÇÕES LEGAIS. DECISÃO MANTIDA.
+1. A regra da impenhorabilidade é mitigada pelo disposto no art. 833, § 2º, do Código de Processo Civil, segundo o qual é admitida a penhora de verba remuneratória para pagamento de dívida de natureza alimentar, bem como a penhora das importâncias salariais excedentes de cinquenta (50) salários-mínimos.
+2. Não há que se falar em retenção de percentual do salário do devedor para adimplemento de dívida que não ostenta caráter alimentar.
+3. Agravo de instrumento desprovido.
+No recurso especial, arecorrente aponta, além de dissídio jurisprudencial,ofensa ao art. 833, IV, do CPC, defendendo aviabilidade da penhora de percentual dos vencimentos líquidos dodevedor.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece prosperar.
+O Tribunal de origem,ao não admitir a mitigação da regra da impenhorabilidade do art. 833, IV, do CPC, contrariao entendimento firmado pela Corte Especial em julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos dodevedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República,que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes. 6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649,IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018)
+Conforme bem salientado no voto-condutor do aresto, "o direito do credor a ver satisfeito seu crédito não pode encontrar restrição injustificada, desproporcional, desnecessária. No que diz respeito, portanto, aos casos de impenhorabilidade (e sua extensão), só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de seu mínimo existencial, à manutenção de sua dignidade e da de seus dependentes".
+De fato,"caso se afirmasse que os vencimentos do devedor, nestes autos, são 100% impenhoráveis, estar-se-ia chancelando o comportamento de qualquer pessoa que, sendo servidor público, assalariado ou aposentado, ainda que fosse muito bem remunerada, gastasse todas as suas rendas e deixasse de pagar todas as suas dívidas, sem qualquer justificativa. Tal comportamento não merece proteção judicial. Ao contrário. Aquele que tem um título executivo líquido, certo e exigível é quem tem o direito a receber tutela jurisdicional que confira efetividade, na medida do possível e do proporcional, a seus direitos materiais".
+Em precedente da Segunda Seção desta Corte, o STJ reiterou o mesmo entendimento:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE.POSSIBILIDADE.
+1. Ação de despejo por falta de pagamento cumulada com cobrança, ajuizada em desfavor de fiadores de contrato de locação.
+2. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.Precedentes.
+3. Na espécie, imperioso mostra-se o retorno dos autos à origem para que a questão seja decidida à luz da jurisprudência constante deste voto, devendo ser analisada a possibilidade de, no caso concreto, ser fixado percentual de desconto sobre o salário dos recorridos.
+4. Agravo interno não provido.(AgInt nos EREsp 1701828/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/06/2020, DJe 18/06/2020)
+Cita-se, ainda: AgInt no AREsp 1386524/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe28/03/2019 e AgInt no AREsp 645.463/SP, Rel. Ministro MARCO BUZZI, QUARTATURMA, julgado em 30/09/2019, DJe 03/10/2019.
+Com essas considerações, admitida, em casos excepcionais, a mitigação da impenhorabilidade dos vencimentos, deve prevalecer o voto-vencido proferido pelo Desembargador João Egmont que permitiu a penhora de 10% da remuneração do devedor, até a quitação do débito, sob a seguinte fundamentação:
+No caso dos autos, apesar de não se saber ao certo o valor da remuneração efetivamente auferida pelo agravado, o desconto de 10% da sua remuneração líquida revela-se suficiente para manter o mínimo existencial sem que hajaofensa à dignidade do devedor ou de sua família.
+Sendo assim, a penhora do percentual de 10% da remuneração líquida do agravado garante a subsistência digna do devedor e de sua família e, ao mesmo tempo, a satisfação da dívida objeto dos autos.
+Portanto, é imperiosa a reforma da decisão agravada para permitir a penhora de 10% da remuneração do executado, até a quitação do débito, conforme entendimento perfilhado pelo Superior Tribunal de Justiça, no julgamento do EREsp 1.582.475/MG.
+A propósito, sublinha-se que sequer contrarrazões ao recurso especial foram apresentadas, a fim de impugnar a pretensão recursal e eventual reforma do acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/15.CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DE VENCIMENTOS. MITIGAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DO MÍNIMO EXISTENCIAL DODEVEDOR. PRECEDENTES DA CORTE ESPECIAL E DA SEGUNDA SEÇÃO DESTA CORTE. PREVALÊNCIA DO VOTO VENCIDO PROFERIDO PELO TRIBUNAL DE ORIGEM.
+RECURSO ESPECIAL PROVIDO.
