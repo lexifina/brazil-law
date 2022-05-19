@@ -1,0 +1,3 @@
+LEI Nº 8.669, DE 19 DE MAIO DE 2022.
+
+DISPÕE SOBRE A FIXAÇÃO DO EFETIVO DA POLÍCIA MILITAR DO ESTADO DE ALAGOAS – PM/AL, E DÁ OUTRAS PROVIDÊNCIAS. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
