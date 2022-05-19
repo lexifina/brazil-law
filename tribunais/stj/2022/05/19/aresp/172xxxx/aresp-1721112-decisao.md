@@ -1,0 +1,34 @@
+DECISÃO
+RAVEL GOMES DA SILVAagrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Amazonas (Apelação Criminal n. 0206044-07.2016.8.04.0001).
+Consta dos autos que o agravante foi condenado à pena de 9 anos e 4 meses de reclusão, em regime fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, e 16, parágrafo único, IV, da Lei n. 10.826/2003.
+Nas razões do especial, a defesa apontou violação doart. 33 da Lei n. 11.343/2006, sob o argumento de que "Não existe um fato isolado para o condão de eficácia a caracterização do tipo penal, mormente quando a imputação afirma que havia mercancia, fato este não provado, não havendo uma prova que indique o tráfico de drogas" (fl. 362).
+Assevera que, "Analisando atentamente as provas constantes nos autos, ver- se que não há elementos suficientes que apontem a culpabilidade do Recorrente, não há elementos que o ligue ao tráfico de drogas na área. Portanto, verifica-se que não está provada a culpa do Recorrente, as prova são muito frágeis e abstratas, logo, na dúvida deve-se beneficiar o Recorrente, vez que a droga não era de sua propriedade" (fl. 365).
+Além disso, aduz que "mesmo na dúvida vislumbrado pelo Juízo a quo, e entendendo que seria perfeitamente cabível a condenação, o que se cogita apenas por força de argumentação e amor a justiça, a pena deveria ser aplicada com o mínimo de proporcionalidade, razão pela qual deveria ser no mínimo legal, conforme determina o artigo 33 da Lei nº. 11.343/2006, e em regime inicial de cumprimento de pena mais brando" (fl. 374).
+O Ministério Público Federal manifestou-se pelo não conhecimento dorecurso (fls. 443-444).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada motivos pelos quais passo à análise do recurso especial.
+I. Absolvição do réu
+O Tribunal a quo, ao condenar o réu pela prática do crime de tráfico de drogas, salientou o que segue (fl. 346):
+02.03. Sem preliminares a serem analisadas, no mérito, tenho que as provas apontam com segurança a materialidade e autoria do delito de tráfico de drogas, uma vez que os depoimentos e laudos periciais apontam que grande quantidade de material entorpecente (41 trouxinhas) foi localizada na posse do Apelante, além de um revólver calibre 38, com numeração raspada e quatro munições, restando isolada a negativa de autoria.
+02.04. Ressalte-se que pesa em desfavor do Apelante os seus registros criminais (fls. 37), os quais apontam uma vida voltada a práticas criminosas.
+02.05. Portanto, todos os elementos colhidos durante a persecução penal apontam no sentido do tráfico de drogas e porte ilegal de arma de fogo com numeração suprimida. A negativa de autoria não coaduna com o conjunto probatório e as circunstâncias fáticas em que se operou o flagrante.
+02.06. Com efeito, a quantidade e variedade (maconha e cocaína) de material entorpecente apreendido, além do modo como encontravam-se embaladas (vide Laudo Definitivo de fls. 97/100), não deixam qualquer dúvida acerca da materialidade do crime do art. 33 da Lei n. 11.343/06.
+02.07. Assim, a respeito da demonstração da materialidade e da autoria delitiva, a conclusão é diametralmente oposta à defendida pelo Apelante nas razões da apelação.
+02.08. Neste seguimento, em que pese a negativa de autoria pelo Apelante, e as alegações de que a policia teria forjado tanto a droga quanto a arma de fogo, não são suficientes para afastar a imputação, uma vez que deve ser analisado todo o conjunto probatório 02.09. Como dito, a negativa de autoria não encontra respaldo nos demais elementos probatórios constantes dos autos.
+02.10. Além do mais, não há qualquer justificativa para que se desconsidere os depoimentos dos policiais, que servem como testemunhas, e cujas versões são corroboradas pelas provas documentais.
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta da sentença e do acórdão recorrido, verifico que a Corte estadual, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado.
+Por essas razões, mostra-se inviável a absolvição do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Portanto, torna-se inviável a modificação do julgado, pois, para concluir em sentido diverso, seria necessário o revolvimento de todo oconjunto fático-probatório produzido nos autos, providência vedada em recurso especial conforme disposição da Súmula n. 7 do STJ.
+II. Redução da pena-base
+Quanto à redução da pena-base, verifico que a impetração esbarra na falta de interesse de agir, tendo em vista que "tanto no crime de tráfico e quanto no de porte ilegal de arma de fogo, a pena-base restou fixada no mínimo legal" (fl. 348).
+III.Dissídio jurisprudencial
+Verifica-se que o apelo especial não comporta conhecimento com base na alínea "c" do inciso III do art. 105 da Constituição Federal, devido a não comprovação, nos termos regimentais, do dissídio jurisprudencial.
+Depreende-se que a defesa se limitou a transcrever a ementa do acórdão paradigma, afirmando se tratar da mesma situação, sem, no entanto, elencar comparativamente os pontos semelhantes ou diferentes dos julgados ou apresentar transcrição dos trechos do acórdão impugnado e paradigma de forma que fosse possível evidenciar o suposto dissídio jurisprudencial.
+Ressalto que:
+ ..
+ a  interposição do recurso especial, com fulcro na alínea "c" do permissivo constitucional exige o atendimento dos requisitos contidos no art. 1028, e § 1º do Código de Processo Civil - CPC, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, para a devida demonstração do alegado dissídio jurisprudencial, pois, além da transcrição de acórdãos para a comprovação da divergência, é necessário o cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada aomesmo dispositivo de legislação infraconstitucional
+(AgRg no AREsp n. 1648779/PR, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/6/2020).
+Não foi demonstrada a similitude fática entre o aresto recorrido e o acórdão alçado à paradigma. É insuficiente, portanto, a simples transcrição de ementas, como no caso. Assim, conclui-se que a parte deixou de realizar o confronto analítico e de atender aos requisitos previstos nos arts. 1029, §1º, do Código de Processo Civil e 255, caput e §§ 1º e 2º, do RISTJ.
+IV. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
