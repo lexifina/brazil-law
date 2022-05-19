@@ -1,0 +1,68 @@
+DECISÃO
+ANDREY PEREIRA DE SIQUEIRA e TAINA DOS SANTOS DE LIMA alegam sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 5013259-98.2022.8.21.7000.
+Consta dos autos que no dia 25/1/2022, os pacientes foram presos em flagrante pela suposta prática do crime de tráfico de drogas.
+A prisão em flagrante foi convertida em preventiva (fls. 23-26).
+A defesa impetrou prévio writ perante a Corte local, que denegou a ordem, com o fim de manter a cautela extrema em desfavor dos insurgentes (fls. 54-59).
+No recurso do acusado Andrey (fls. 69-75), o réu sustenta a ausência de fundamentação concreta para a decretação da custódia cautelar e a falta dos requisitos do art. 312 do Código de Processo Penal. Alega ser primário e portador de condições pessoais favoráveis. Requer o provimento, com o fim de conceder a liberdade provisória ao acusado até final julgamento da ação penal.
+Nas razões recursais da paciente Taina (fls. 80-84), a defesa aponta que não houve violência concreta ou grave ameaça no delito em tese praticado, e sustenta não estarem presentes os requisitos legais para a manutenção da custódia. Requer o provimento, para revogar a prisão da acusada.
+Indeferida a liminar (fls. 111-112) e prestadas as informações (fls. 115-117), o Ministério Público Federal ofertou parecer pelo não provimento do recurso (fls. 119-121).
+Decido.
+I. Idoneidade da prisão preventiva
+Na origem, a prisão preventiva do recorrente foi assim fundamentada pelo Magistrado (fls. 23-25, grifei):
+ ..
+Narra o expediente policial, em síntese, que policiais civis, durante a participação na Operação Messias, realizaram o cumprimento dos mandados de busca e apreensão expedidos em desfavor dos flagrados, onde lograram êxito em localizar 02 (dois) tijolos de "maconha", pesando aproximadamente 1,145kg (um quilograma vírgula cento e quarenta e cinco gramas), 34 (trinta e quatro) porções de "maconha", pesando aproximadamente 330g (trezentos e trinta gramas), 10 (dez) porções de cocaína, pesando aproximadamente 10g (dez gramas) e 01 (uma) porção de cocaína, pesando aproximadamente 2g (duas gramas), além de 01 (uma) balança de precisão portátil, 01 (uma) máquina de cartão, 03 (três) aparelhos de telefone celular, 02 (dois) pacotes com diversos sacos de embalagens. Os flagrados identificados em investigação policial como sendo integrantes de uma organização criminosa especializada na distribuição de drogas na modalidade de tele-entrega, com atuação nas cidades de Tramandaí e Imbé.
+ ..
+Levando-se em consideração a orientação ilustrada no artigo 282, inciso I, do Código de Processo Penal, no sentido de ser a medida aplicada de acordo com a gravidade do crime, as circunstâncias do fato e as condições pessoais do acusado, conclui-se a ineficácia de qualquer delas no caso concreto.
+Isso porque se está diante de tráfico ilícito de entorpecentes e com os flagrados houve a apreensão de significativa quantidade e diversidades de drogas, maconha e cocaína, além de objetos comumente utilizados na traficância, após serem eles investigados pela Polícia Civil de integrar organizada associação criminosa voltada ao tráfico de entorpecentes.
+ ..
+Por fim, cumpre salientar que a flagrada Tainá responde a outro feito por tráfico de drogas e associação para o tráfico (018/2.18.0005356-6), conforme certidão do evento 02, sendo latente o seu periculum libertatis.
+A Corte local, ao denegar a ordem no writ originário, assim consignou (fl. 58, destaquei):
+ ..
+Compulsando os autos, verifico que a investigação policial realizada, que ensejou na representação pela prisão preventiva e expedição de mandado de busca e apreensão, indicou Taina como responsável pelo armazenamento da droga e Andrey, por sua vez, pela venda.
+Assim, quando do cumprimento do mandado de busca e apreensão na residência dos pacientes, foi localizado dois tijolos de maconha, pesando aproximadamente 1,145kg; 34 porções de maconha, pesando aproximadamente 330g; 10 porções de cocaína, pesando aproximadamente 10g; 01 porção de cocaína, pesando aproximadamente 2g; 01 balança de precisão portátil e outros objetos.
+As condições de materialidade e autoria estão satisfeitas, em um juízo provisório, para fins de manutenção da segregação cautelar.
+Ademais, da análise dos autos eletrônicos nº 5002646-42.2022.8.21.0073 (Evento 01), verifico que os pacientes foram denunciados como incurso nas sanções dos artigos 33, caput, e 35, caput, da Lei de Drogas.
+ ..
+Pois bem. Como se observa da investigação policial, os pacientes eram responsáveis pelo armazenamento e mercancia da droga.
+Ademais, tal fato ensejou mandado de busca na residência dos pacientes, culminando na apreensão de quantidade de droga que não pode ser considerada irrisória.
+Portanto, considerando a diversidade e a quantidade de entorpecente (maconha e cocaína), cujo valor de mercado alcança quantia razoável de reais, e ainda havendo outros elementos circunstanciais - como a prática da mercancia de drogas em conjunto com os demais corréus, inclusive com funções definidas, tudo indica a relação dos pacientes com o mundo do crime e a probabilidade grande de o tráfico de entorpecentes não ser ocasional.
+Outrossim, muito embora os pacientes não sejam reincidentes, destaco que as condições pessoais, deve ser aferida concomitantemente com as circunstâncias do fato e a gravidade do crime, sendo que estas últimas preponderam no presente caso. Ademais, cumpre observar que Taina possui ingresso anterior no sistema prisional pela prática, em tese, do delito de tráfico de drogas (018/2.18.0005356-6).
+Desta forma, sopesadas as circunstâncias do fatos, gravidade do crime e condições pessoais do agentes, todas se mostram desfavoráveis, razão pela qual entendo que a prisão preventiva, no caso dos autos, é medida necessária e adequada, diante das circunstâncias do fato, gravidade do crime, bem como para evitar a reiteração criminosa (artigo 282, inciso I e II do Código de Processo Penal).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessas premissas, observo que são bastantes as razões invocadas pela Corte estadual para embasar a manutenção da segregação do paciente, porquanto contextualizou, em dados concretos, o periculum libertatis.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação concreta para decretar a prisão preventiva, ao salientar a gravidade das condutas dos recorrentes, evidenciada pela quantidade e variedade de entorpecente - aproximadamente 1,5 kg de maconha divididos em 34 porções, 10g de cocaína fracionada em 10 porções -, além da apreensão de balança de precisão, embalagens, telefones celulares e máquina de cartão. Ainda, foi destacado que a recorrente Tainá responde a outra ação penal pela prática, em tese, de crimes de mesma natureza.
+Nesse sentido, esclareceu o Tribunal de origem que os pacientes e os corréus eram investigados por integrarem associação criminosa destinada à prática do tráfico - na modalidade tele-entrega - e, durante as investigações, foi expedido mandado de busca e apreensão em desfavor dos acusados, ocasião em que foram apreendidos os entorpecentes e os petrechos para o cometimento do comércio espúrio.
+A respeito do tema, a orientação desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza dos entorpecentes capturados e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a gravidade concreta do crime e, por isso mesmo, constituem fundamento idôneo para a custódia provisória.
+Ilustrativamente:
+ ..
+2. Caso em que a prisão preventiva foi mantida pelo Tribunal para garantia da ordem pública em razão da periculosidade social do recorrente, evidenciada pelas circunstâncias concretas extraídas do flagrante - apreensão de 98,03g de maconha, 35,68g de crack e 5,2g de cocaína, valor em espécie, além de um revólver calibre 38 e munições. Variedade de drogas. Apontado tráfico habitual na própria residência.
+3. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão quando evidenciada a sua insuficiência para acautelar a ordem pública.
+4. Recurso desprovido. Recomenda-se, entretanto, de ofício, ao Juízo processante que reexamine a necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei nº 13.964/19.
+(RHC n. 122.211/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 14/2/2020, destaquei)
+ ..  2. No caso, a prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela quantidade e diversidade de drogas apreendidas - 13 porções de crack, pesando 44g, e 275 pinos contendo cocaína, com peso de aproximadamente 267g -, além da apreensão de diversas armas e munições - uma submetralhadora, um revólver calibre 38, um revólver calibre 32, dois cartuchos intactos calibre 44 e um pino de metal com mola -, circunstâncias que denotam a periculosidade do agente.
+3. Recurso ordinário desprovido.
+(RHC n. 118.702/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/12/2019, grifei)
+ ..
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora recorrente acarretaria risco à ordem pública, notadamente se considerada a quantidade e variedade de drogas (441 g de cocaína e 557 g de crack); arma e munição apreendidas.  ..
+(RHC n. 102.558/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 3/10/2018, destaquei)
+Além disso, conforme o magistério jurisprudencial desta Corte Superior, não obstante trate a demanda de infrações cometidas sem violência ou grave ameaça, justifica-se "a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/10/2016, grifei).
+Na mesma perspectiva:
+ ..
+2. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito, que consiste em tráfico internacional de drogas praticado por organização criminosa, em que apenas em um dos flagrantes foi apreendida quantidade superior a 300 kg de maconha.
+3. Também justifica a custódia cautelar o fato de que o paciente é um dos braços direitos do líder da organização criminosa, que se encontra atualmente preso no Rio de Janeiro, e, ainda, que a organização criminosa em que ele se insere conta com íntima ligação com o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV).
+4. No mais, o Supremo Tribunal Federal já manifestou-se  sic  no sentido de que a custódia cautelar, visando à garantia da ordem pública, legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa.
+5. Recurso em habeas corpus improvido.
+(RHC n. 126.045/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 10/5/2021, destaquei.)
+ ..
+3. São suficientes os motivos invocados para justificar a ordem de aprisionamento do recorrente, porquanto contextualizada em dados concretos dos autos o periculum libertatis. Salientou o Magistrado de origem que o acusado, além de desempenhar as mais diversas atividades, como checagens em banco de dados de acesso restrito, preparação de veículos para empreitadas ilícitas, motorista, transporte de armas e dinheiro, vigilância, reconhecimento operacional, passou a exercer a função de chefe dos seguranças do grupo NAME.
+4. A jurisprudência desta Corte de Justiça é firme em assinalar que "se justifica a decretação da prisão de membros de organização criminosa, como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/10/2016).
+5. Não há falar em ausência de contemporaneidade dos fatos que lastrearam a ordem de custódia, porquanto o decreto prisional narra ações criminosas ligadas ao acusado até a data de sua prisão.
+6. Dadas as apontadas conjunturas do fato, não se mostra adequada e suficiente a substituição da prisão provisória por medidas a ela alternativas (art. 282 c/c o art. 319, ambos do CPP).
+7. Recurso ordinário não provido.
+(RHC n. 138.727/MS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 15/4/2021, destaquei)
+Por fim, em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nessa perspectiva: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+Concluo, pois, haver sido demonstrada a exigência cautelar que autoriza a manutenção das prisõespreventivas dos réus.
+II. Dispositivo
+À vista do exposto, nego provimento aos recursos em habeas corpus.
+Publique-se e intimem-se.
