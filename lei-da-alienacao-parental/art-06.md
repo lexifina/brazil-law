@@ -5,5 +5,6 @@ III - estipular multa ao alienador;
 IV - determinar acompanhamento psicológico e/ou biopsicossocial;
 V - determinar a alteração da guarda para guarda compartilhada ou sua inversão;
 VI - determinar a fixação cautelar do domicílio da criança ou adolescente;
-VII - declarar a suspensão da autoridade parental.
-Parágrafo único. Caracterizado mudança abusiva de endereço, inviabilização ou obstrução à convivência familiar, o juiz também poderá inverter a obrigação de levar para ou retirar a criança ou adolescente da residência do genitor, por ocasião das alternâncias dos períodos de convivência familiar.
+VII - (revogado).
+§ 1º Caracterizado mudança abusiva de endereço, inviabilização ou obstrução à convivência familiar, o juiz também poderá inverter a obrigação de levar para ou retirar a criança ou adolescente da residência do genitor, por ocasião das alternâncias dos períodos de convivência familiar.
+§ 2º O acompanhamento psicológico ou o biopsicossocial deve ser submetido a avaliações periódicas, com a emissão, pelo menos, de um laudo inicial, que contenha a avaliação do caso e o indicativo da metodologia a ser empregada, e de um laudo final, ao término do acompanhamento.
