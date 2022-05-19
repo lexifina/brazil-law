@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Cuida-se de embargos de declaração manejados por KIDASEN INDÚSTRIA E COMÉRCIO DE ANTENAS LTDA em face de acórdão desta Segunda Turma resumido da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022, CPC/2015. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DISCUSSÃO SOBRE O JULGADO ABRANGER O ICMS DESTACADO OU ICMS ESCRITURAL A RECOLHER. PRETENSÃO DE COLOCAR BALIZAS AO DECIDIDO PELO STF NO RE N. 574.706 RG / PR. IMPOSSIBILIDADE. TEMA CONSTITUCIONAL.
+1. Inexistente a alegada violação aos arts. 489 e 1.022, do CPC/2015. Isto porque a Corte de Origem bem exprimiu a forma de execução do julgado (seu critério de cálculo), consignando expressamente que o paradigma julgado em repercussão geral pelo STF entendeu que o ICMS a ser excluído é aquele destacado nas notas fiscais. Igualmente houve manifestação da Corte a quo quanto à impossibilidade de discussão das alegações de validade do critério de liquidação pretendido pelo Fisco por entender que tais pontos integram o mérito da matéria decidida e analisada pelo STF no RE 574.706.
+2. A Corte de Origem apenas aplicou o precedente ao caso concreto, interpretando-o consoante a sua compreensão dos parâmetros constitucionais eleitos pelo Supremo Tribunal Federal. À toda evidência, a Corte de Origem pode fazê-lo, já que não tem impedimento algum para exame de matéria constitucional. Já este Superior Tribunal de Justiça, em sede de recurso especial, segue lógica outra: não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional. Nesse sentido: EDcl no REsp. n. 1.191.640 - SC, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 07.05.2019).
+3. Agravo interno não provido.
+A embargante alega, em síntese, omissão no que tange à fixação de honorários advocatícios de sucumbência recursal na forma do § 11 do art. 85 do CPC/2015 e do Enunciado Administrativo nº 7 desta Corte.
+Requer o acolhimento dos aclaratórios para sanar o vício apontado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. OMISSÃO. OCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Considerando o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), e levando em consideração o trabalho adicional realizado em grau recursal, impõe-se a majoração dos honorários advocatícios (a título de sucumbência recursal). No caso, a verba honorária foi arbitrada em 10% sobre o valor da condenação, razão porque se majora tal verba para 11% sobre o valor da condenação (montante total de honorários advocatícios), obedecendo o respectivo limite.
+2. Embargos de declaração acolhidos, sem efeitos modificativos, apenas para fixação de honorários de sucumbência recursal.
+VOTO
+Necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação merece acolhida.
+Considerando o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), e levando em consideração o trabalho adicional realizado em grau recursal, impõe-se a majoração dos honorários advocatícios (a título de sucumbência recursal). No caso, a verba honorária foi arbitrada em 10% sobre o valor da condenação, razão porque se majora tal verba para 11% sobre o valor da condenação (montante total de honorários advocatícios), obedecendo o respectivo limite.
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para fixar os honorários de sucumbência recursal.
+É como voto.
