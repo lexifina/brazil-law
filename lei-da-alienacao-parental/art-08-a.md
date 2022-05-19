@@ -1,0 +1,1 @@
+Art. 8º-A. Sempre que necessário o depoimento ou a oitiva de crianças e de adolescentes em casos de alienação parental, eles serão realizados obrigatoriamente nos termos da Lei nº 13.431, de 4 de abril de 2017, sob pena de nulidade processual.
