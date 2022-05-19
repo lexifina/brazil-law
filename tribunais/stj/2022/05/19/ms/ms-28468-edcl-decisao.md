@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CETIMIO VIEIRA ZAGABRIA contra a decisão em que indeferi liminarmente a inicial,nos termos do art. 10da Lei n. 12.016/2009, c/c o art. 212, do RISTJ, em razão da decadência do mandado de segurança.
+A parte embargante alega, em síntese, que a decisão foi contraditória, já que: a) não considerou "a pendência de recurso administrativo, com possível atribuição de efeito suspensivo" (e-STJfl. 146),sendo certo que o prazo para a impetração de mandado de segurança somente começa a correr após o último dia doprazo para a interposição do recurso administrativo; e b) não considerou a nulidade da notificação encaminhada à procuradora sem poderes para receber citação, intimação ou notificação, conforme previsto na Instrução Normativa n. 2/2001, que estabelece o rito do processo administrativo de revisão de anistia no âmbito da Comissão de Anistia.
+Pleiteia, assim, a atribuição de efeito modificativo aos embargos.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Com efeito, consoante o entendimento desta Corte, "a contradição passível de ser sanada na via dos embargos declaratóriosé a contradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pelo embargante como acertado"(EDcl no AgInt no AREsp 1.872.840/SP, Rel. Ministro MANOEL ERHARDT -desembargador convocado do TRF5, Primeira Turma, julgado em 21/03/2022, DJe 24/03/2022).
+Na hipótese, não há nenhuma inadequação lógica entre a fundamentação posta e a conclusão adotada, sendo certo que pretende aparte embargante rediscutir a questão que já foi decidida e fundamentada, o que não é possível por meio dos embargos de declaração.
+Registre-se, por oportuno, que,na petição inicial, o próprio embargante alegou que "a notificação da decisão sobre pedido de anistia política, indeferindo o requerimento de anistia política em nome do impetrante, foi publicada na data de 09 de novembro de 2021, quando a Coordenadora-Geral da Comissão de Anistia encaminhou o Ofício n.624/2021/CA/MMFDH ao representante legal do impetrante" (e-STJ fl. 04), oportunidade em quenem sequer fez menção a eventual recurso administrativo ou acerca da ora aduzida nulidade da notificação.
+Cumpre notar que é inviável a análise, em sede de embargos de declaração, de tema nãoarguido anteriormente,o queconfigura verdadeira inovação recursal.
+Registre-se, por fim, que o mero inconformismo com o posicionamento emitido não permite o manejo de aclaratórios.
+Ante o exposto, REJEITO os embargos de declaração.
+Intimem-se. Publique-se.
