@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AMILTON JOSÉ DE ARAÚJO E OUTRA à decisão que deu provimento ao recurso especial da Atlantica para restabelecer a sentença no que diz respeito à sua ilegitimidade para figurar no polo passivo da presente demanda (e-STJ fls. 2.282/2.287).
+Em suas razões (e-STJ fls. 2.302/2.307), osembargantes alegam que a decisão impugnada partiu de premissa equivocada ao considerar que a Atlantica não faz parte da cadeia de fornecedores, tendo em vista a existência da Súmula nº 7/STJ que veda o reexame dos fatos e provas constantes dos autos.
+Ao final, requerem o acolhimento do recurso com efeito infringente.
+A parte embargada ofereceu impugnação às fls. 2.320/2.330(e-STJ).
+É o relatório.
+DECIDO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para sanar obscuridade ou contradição ou, ainda, para suprir omissão verificada no julgado, acerca de tema a respeito do qual o julgador deveria ter se manifestado. Admitem-se os declaratórios, ainda, para a correção de eventual erro material do julgado.
+De início,afasta-se a alegação de incidência daSúmulanº 7/STJ à hipótese dos autos, vistoque o julgado de origem apresenta todos os contornos fáticos necessários ao deslinde da controvérsia.
+Na hipótese em exame, restou consignado na decisão embargadaque o aresto local diverge da jurisprudência mais recente do Superior Tribunal de Justiça,de que deve ser afastada qualquer responsabilização solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda das unidades hoteleiras, seja por não integrar a cadeia de fornecimento relativa à incorporação imobiliária, seja por não compor o mesmo grupo econômico das empresas inadimplentes, seja por também ter sido prejudicada, visto que sua pretensão de explorar o ramo hoteleiro na localidade foi tão frustrada quanto a pretensão dos adquirentes de ganhar rentabilidade com a aquisição e a locação das unidades imobiliárias.
+Confira-se:
+"RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE NEGÓCIO JURÍDICO C.C. REPARAÇÃO CIVIL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA (APART-HOTEL). ATRASO NO INÍCIO DAS OBRAS. EMPREENDIMENTO IMOBILIÁRIO VOLTADO AO SERVIÇO DE HOTELARIA, POR MEIO DE UM POOL DE LOCAÇÃO. RESPONSABILIZAÇÃO DA FUTURA ADMINISTRADORA DO HOTEL PELA ENTREGA DO EMPREENDIMENTO. IMPOSSIBILIDADE. SOCIEDADE QUE NÃO GUARDA RELAÇÃO COM A EXECUÇÃO DO CONTRATO DE PROMESSA DE COMPRA E VENDA FIRMADO ENTRE OS AUTORES E A CORRÉ NEP INCORPORAÇÕES, TAMPOUCO PODE SER EQUIPARADA À INCORPORADORA. EFETIVA VIOLAÇÃO DOS ARTS. 28, PARÁGRAFO ÚNICO, 29, 30 E 31 DA LEI 4.591/1964. REFORMA DO ACÓRDÃO RECORRIDO. RECONHECIMENTO DA ILEGITIMIDADE PASSIVA AD CAUSAM DA RECORRENTE. RECURSO PROVIDO.
+1. A controvérsia sub judici foi instaurada em razão do atraso na entrega do empreendimento hoteleiro denominado "Supreme Resende Hotels & Business", em que os recorridos, na condição de investidores, firmaram contrato de promessa de compra e venda de unidade imobiliária do tipo "apart-hotel" com a ora interessada NEP Incorporações, destinada a exploração hoteleira comercial, por meio de um pool de locação, cuja gestão seria transferida à operadora hoteleira Accor, ora recorrente, sob as bandeiras "Ibis" e "Ibis Budget".
+2. Verifica-se que o acórdão recorrido não se baseou em premissas fáticas equivocadas, ao revés, o Tribunal de Justiça do Rio de Janeiro apresentou de forma clara os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, razão pela qual não há que se falar em negativa de prestação jurisdicional.
+3. Da leitura dos autos, é possível extrair que as obrigações das sociedades demandadas eram completamente independentes. Enquanto à empresa NEP Incorporações competia a construção e incorporação do empreendimento imobiliário, inclusive a comercialização das unidades imobiliárias, à recorrente Hotelaria Accor Brasil S.A. caberia apenas a prestação dos serviços de administração hoteleira, que somente se iniciaria após a entrega dos hotéis.
+3.1. Dessa forma, considerando que a causa de pedir é unicamente o atraso no início da construção do empreendimento hoteleiro, cuja obrigação era exclusiva da incorporadora NEP, revela-se manifesta a ilegitimidade passiva ad causam da recorrente.
+3.2.Ao contrário do que ficou consignado no acórdão recorrido, não há como considerar a operadora hoteleira Accor como incorporadora imobiliária, pois ela não era responsável pela construção e incorporação do empreendimento, tampouco pela alienação das unidades imobiliárias, revelando-se flagrante a violação dos arts. 28, parágrafo único, 29, 30 e 31 da Lei 4.591/1964, impondo-se a reforma do acórdão recorrido para se reconhecer a ilegitimidade passiva ad causam da recorrente.
+4. Recurso especial provido"(REsp 1.798.941/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 27/8/2021 - grifou-se).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não sanar omissão, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+Brasília, 19 de maio de 2022.
+Ministro RICARDO VILLAS BÔAS CUEVA
+Relator
