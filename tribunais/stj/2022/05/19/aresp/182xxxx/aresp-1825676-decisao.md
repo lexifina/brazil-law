@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo de TRANSBARCELOS TRANSPORTES LTDA. interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 do STF e 7 do STJ (e-STJ fls. 813/817).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 605):
+DUPLA APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. EMPRESA DE TRANSPORTE DEMANDADA EM AÇÃO DE INDENIZAÇÃO POR SUPOSTO ATO ILÍCITO COMETIDO EM DECORRÊNCIA DE ACIDENTE DE TRÂNSITO. ILEGITIMIDADE PASSIVA AD CAUSAM. EX-PROPRIETÁRIO. SÚMULA 132 DO STJ. TRADIÇÃO EFETUADA ANTES DO ACIDENTE. DANO MORAL E MATERIAL. INOCORRÊNCIA. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO DO VALOR ARBITRADO. 1. A transferência da propriedade de bens móveis efetiva-se pela tradição, sendo que a ausência de registro da transferência não implica a responsabilidade do antigo proprietário por dano resultado de acidente que envolva o veículo alienado. 2. Tendo a autora, primeira apelante, logrado êxito em comprovar o seu direito, conforme preleciona o artigo 373, inciso I, do CPC/2015, demonstrando nos autos a entrega do veículo envolvido no acidente a Iveco, e não tendo as requeridas se desincumbido do ônus que lhes competia (art. 373, inciso II, do CPC/2015), restou comprovado nos autos ser a autora parte ilegítima para figurar no polo passivo da demanda indenizatória, por ter, na data do acidente, procedido a tradição do bem móvel. 3. Nos termos da Súmula 20 desta Corte de Justiça, "para a caracterização de dano moral à pessoa jurídica, passível de compensação, é necessária a comprovação do abalo à sua honra objetiva, isto é, ao seu crédito, à sua reputação ou ao seu bom-nome, uma vez que ela não pode ser ofendida subjetivamente como pessoa natural", o que não restou demonstrado, na hipótese. 4. As despesas realizadas pela parte são inerentes ao ônus cívico de todo cidadão quando do exercício regular de seu direito de ação, não havendo que se falar em danos materiais. 5. De acordo com o artigo 86 do Código de Processo Civil, havendo sucumbência recíproca, deve cada parte arcar com 50% das custas processuais e honorários advocatícios. 6. Com relação aos honorários advocatícios arbitrados por ocasião do julgamento a quo, verifico que a fixação destes com base no valor da condenação resultou em verba módica, motivo pelo qual entendo ser razoável a alteração da sentença embatida, a fim de arbitraros honorários advocatícios de forma equitativa, consoante o disposto no artigo 85, § 8º do Código de Processo Civil. Vale ressaltar que a exigibilidade do pagamento pela autora, primeira apelante, fica suspensa pelo prazo e condições previstas no artigo 98, § 3º, do CPC, por ser a parte beneficiária da gratuidade da justiça. 7. Considerando que a interposição dos apelos se deu já na vigência do atual estatuto processual civil, mostra-se adequado o estabelecimento de honorários advocatícios pelo trabalho adicional realizado em grau recursal, em atendimento ao artigo 85, § 11, do Código de Processo Civil de 2015. PRIMEIRO APELO CONHECIDO E PARCIALMENTE PROVIDO. SEGUNDO APELO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 746/757).
+Nas razões do recurso especial (e-STJ fls. 614/628), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, ofensa aos arts. 186 e 927 do CC/2002, 85,§§ 2º e 8º, e 324, II, do CPC/2015.
+Sustenta que deve ocorrer a condenação do recorrido em danos morais pois "o acórdão recorrido, que equivocadamente valora a prova contida nos autos quanto a certeza dos fatos alegados da entrega do bem ao Recorrido a longos anos, e que só isso já gera danos e obrigação de indenizar" (e-STJ fl. 616).
+Postula a condenação em danos materiais alegando que, "ao protocolar a ação em Goiás, o recorrente nem saberia dizer quais e quantas despesas teria com a defesa ou qual seria a extensão dos danos, e por isso pediu liquidação a posterior, em fase própria, como previsto no artigo 286, II do CPC/73" (e-STJ fl. 622).
+Quantoà verba honorária sucumbencial determinada pelo Tribunal de origem, argumenta que a"fixação equitativa somente deve ser aplicada, de forma subsidiária, caso não haja possibilidade de se fixar o proveito econômico, e tais condicionantes não se encaixam no presente processo, pois o proveito econômico previsto no § 2º do artigo 85 do CPC, que aqui foi não pagar R$ 90.000,00, sendo a primeira regra a ser aplicada" (e-STJ fl. 615).
+No agravo (e-STJ fls. 824/831), afirma a presença dos requisitos de admissibilidade do especial.
+Ausente contraminuta (e-STJ fl. 850).
+É o relatório.
+Decido.
+Dos danos morais
+OTribunal de origem decidiu nestes termos(e-STJ fl.600):
+In casu, se tratando a autora de pessoa jurídica, não há nos autos prova de que sua honra objetiva foi maculada, isto é, que a sua reputação no mercado e na sociedade fora manchada por ter integrado o polo passivo da ação de indenização, motivo pelo qual deve ser mantida a sentença, que julgou improcedente seu pedido de condenação da parte ré, ao pagamento de indenização por danos morais.
+Modificar o entendimento do acórdão impugnado quanto à ocorrência ou não de danos morais em favor da recorrentedemandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ, aplicável por ambas as alíneas autorizadoras.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DESISTÊNCIA DA AÇÃO. CONCORDÂNCIA DO RÉU. NECESSIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1792361/SP, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE AFRONTA AO ARTIGO 1.022, II, DO CPC/2015. TRANSFERÊNCIA COMPULSÓRIA DE IMÓVEL REALIZADA MEDIANTE PAGAMENTO COM TÍTULOS DA DÍVIDA AGRÁRIA - TDAs. DIREITO PESSOAL/OBRIGACIONAL. INEXIGÊNCIA DE OUTORGA UXÓRIA PARA A DISPOSIÇÃO DE DIREITO PESSOAL. INCIDÊNCIA DA SÚMULA 83/STJ.SUPOSTA AMEAÇA AO DIREITO DE MEAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+ ..
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1911277/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Dos danos materiais
+A decisão agravada destacou (e-STJ fl. 600):
+Quanto aos danos materiais, sob o fundamento de que a parte autora tem domicílio no Estado do Espírito Santo e o processo tramitou no Estado de Goiás, existindo gastos com locomoção, estadia, honorários advocatícios, cópias do processo, horas de trabalho perdida de seus sócios e prepostos, verifico que este também não merece prosperar.
+Isso porque, as despesas realizadas pela parte são inerentes ao ônus cívico de todo cidadão quando do exercício regular de seu direito de ação.
+A ausência de impugnação de fundamento do acórdão recorrido suficiente para mantê-lo impede o conhecimento do recurso diante da incidência da Súmula n. 283/STF.
+No caso concreto, a recorrente não refuta a conclusão dequeas despesas realizadas pela parte são inerentes ao ônus cívico de todo cidadão quando do exercício regular de seu direito de ação,fundamento no qual se baseou o Tribunal de origem para negar provimento à apelação quanto à fixação dos danos materiais. Portanto, aplicável a súmula mencionada.
+Ainda que superado esse óbice,asimples indicação dosdispositivoslegais tidospor violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção aos arts. 286, II,do CPC/1973 e 324, II, do CPC/2015, indicados nas razões recursais, conforme se infere do voto condutor do acórdão recorrido (e-STJ fls. 592/607).
+Assim, incidente o óbice das Súmulas n. 282 e 356 do STF.
+Dos honorários sucumbenciais
+O Tribunal de origem consignou (e-STJ fl. 601):
+Assim, deve cada parte arcar com 50% das custas processuais e honorários advocatícios, de modo que, quanto a estes últimos, por não haver condenação, a sua fixação deve seguir com base no valor da ação. Ocorre que, neste caso, o valor da causa é ínfimo (R$ 1.000,00), devendo, portanto, os critérios para fixar referida verba ser nos termos estabelecidos pelo artigo 85, §§ 2º e 8º, do CPC, que assim dispõem:
+(..)
+Assim, de acordo com o § 8º da mencionada norma, deve os honorários advocatícios não ficarem adstrito aos limites percentuais estabelecidos no § 2º, mas aos critérios nele previsto que são o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+(..)
+Destarte, em atenção aos princípios da razoabilidade e da proporcionalidade, fixo os honorários advocatícios em R$ 2.000,00 (dois mil reais) para cada uma das partes, quantia esta que se mostra adequada ao caso concreto, observados os parâmetros estabelecidos nos incisos I a IV do §2º do art. 85 do CPC, tendo em vista o tempo decorrido no trâmite processual, bem como o fato das empresas terem sede em outros Estados da Federação.
+Por fim, considerando que a interposição dos apelos se deu já na vigência do atual estatuto processual civil, mostra-se adequado o estabelecimento de honorários advocatícios pelo trabalho adicional realizado em grau recursal, em atendimento ao artigo 85, § 11, do Código de Processo Civil de 2015, razão pela qual majoro o valor dos honorários advocatícios sucumbenciais em R$ 200,00,00 (duzentos reais) para cada uma das partes.
+A revisão dos critérios utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula n. 7 do STJaplicável por ambas as alíneas autorizadoras), salvo na hipótese de valores desarrazoados ou desproporcionais.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT). HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR. REVISÃO. SÚMULAS 7 E 83 DO STJ. MULTA. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação doshonorários sucumbenciaisporequidade,para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo. Precedente: (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+2. O reexame dos critérios fáticos levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, ante o teor da Súmula 7 do STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.846.629/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020.)
+A quantia estabelecida pelo acórdão recorrido - no valor de R$ 2.000,00 (dois mil reais) - não enseja a intervenção do STJ.
+Ademais,o Tribunal de origem não analisou a matéria sob a possibilidade decabimentoou não da fixação dos honorários advocatícios com fundamento em juízo deequidade,cingindo-se a arbitrar a verbahonoráriono montante que entendeu devido.
+Assim, incidente o óbice das Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo deTRANSBARCELOS TRANSPORTES LTDA.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
