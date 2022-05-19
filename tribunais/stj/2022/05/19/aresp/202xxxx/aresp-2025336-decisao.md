@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por UBIRAJARA ROBERTO MORIcontra decisão do TJ/SP, que inadmitiu recurso especialcom respaldo no permissivo constitucional, aviado em face doacórdão assim ementado (e-STJ fl. 100):
+AGRAVO DE INSTRUMENTO AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA - BEM DE FAMÍLIA AVERBAÇÃO PREMONITÓRIA - Condenação por prática de improbidade administrativa Insurgência contra decisão que deferiu o pleito de averbação premonitória no registro do imóvel Matrícula nº 75.913 pertencente ao executado e reconhecido como bem de família MANUTENÇÃO DO DECISUM Averbação premonitória prevista no artigo 828, do Código de Processo Civil/2015 que não pode ser confundida com ato constritivo do bem - Mera anotação no registro do imóvel que visa prevenir eventual fraude à execução, o que não impede a sua fruição, apenas a alienação de tal bem Precedentes deste E. Tribunal de Justiça - Recurso improvido.
+Em suas razões, orecorrenteaponta violação doart.828 do CPC/2015, uma vez que a lei prescreve a possibilidade de anotação premonitória sobre bens sujeitos à penhora, o que não acontece in casu, por tratar-se de bem impenhorável.
+Juízo negativode admissibilidade (e-STJ fl. 160).
+Parecer ministerial pelo provimento do recurso. (e-STJ fls. 202/205).
+Passo a decidir.
+A matéria aqui tratada diz respeito à verificação da possibilidade de averbação premonitória sobre bem de família.
+Ao analisar a questão, a Corte de origem consignou (e-STJ fls. 103/104):
+E como de denota do dispositivo legal supra, ao contrário do que quer fazer crer o recorrente, a averbação premonitória, não se qualifica como ato constritivo patrimonial e muito menos expropriatório, configurando apenas mera anotação na matrícula do imóvel, dando conta da existência da execução em testilha ajuizada contra o proprietário daquele bem.
+Nesse diapasão, a argumentação atinente à impenhorabilidade do imóvel Matrícula n. 75.913/CRI, não merece acolhida, sobretudo porque não houve constrição propriamente dita, não podendo se confundir a averbação premonitória no Registro do imóvel com penhora do referido bem de propriedade do requerido, uma vez que a anotação em comento não impede a fruição dos bens imóveis em testilha.
+Destarte, consigne-se a instituição de bem de família não exclui o instituto da averbação premonitória, mesmo porque ambas visam preservar a inalienabilidade do bem, embora com finalidades distintas, ou seja, a instituição de bem de família tutela o interesse da unidade familiar, enquanto a averbação premonitória prevista no artigo 828, do Código de Processo Civil busca prevenir eventual fraude à execução.
+O entendimento sufragado na origem encontra eco na jurisprudência do STJ, no sentido de que "a simples averbação premonitória em matricula de bem imóvel reconhecido como bem de família não importa prejuízo a tal característica do imóvel, visto que apenas permitirá a publicidade de que corre perante o judiciário ação executiva que objetiva obter o pagamento através de patrimônio do titular do domínio do imóvel" (STJ, REsp 1760869/SP, rel. Min. LUIS FELIPE SALOMÃO, DJe 19/04/2022).
+No mesmo sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. PROTESTO CONTRA ALIENAÇÃO DE BEM DE FAMÍLIA. LEGÍTIMO INTERESSE. NÃO PREJUDICIALIDADE DA EFETIVA MEDIDA. RECURSO DESPROVIDO.
+1. "A averbação, no Cartório de Registro de Imóveis, de protesto contra alienação de bem, está dentro do poder geral de cautela do juiz (art. 798, CPC) e se justifica pela necessidade de dar conhecimento do protesto a terceiros, prevenindo litígios e prejuízos para eventuais adquirentes" (EREsp 440.837/RS, Rel.
+Ministra ELIANA CALMON, Rel. p/ Acórdão Ministro BARROS MONTEIRO, CORTE ESPECIAL, julgado em 16/08/2006, DJ 28/05/2007).
+2. Segundo a jurisprudência desta Corte Superior, o protesto contra a alienação de bens, previsto no art. 869 do CPC/1973 (art. 301 do CPC/2015), pressupõe dois requisitos: legítimo interesse e não prejudicialidade efetiva da medida. Precedentes.
+3. Em relação ao bem de família, o protesto contra alienação de bens não possui o objetivo de obstar ou anular o negócio jurídico de venda do imóvel impenhorável, mas somente de informar terceiros de boa-fé a respeito da pretensão do credor de penhora do bem, na hipótese de afastamento da proteção conferida pela Lei n. 8.009/1990.
+4. Assim, estão presentes os pressupostos para o protesto contra a alienação de bens, tendo em vista que a publicidade da pretensão é essencial para proteção de terceiros de boa-fé e preservação do direito do executante de futura constrição do imóvel, no caso da perda da qualidade de bem de família.
+5. Recurso especial a que se nega provimento.
+(REsp 1236057/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 6/4/2021, DJe 28/4/2021) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECERdo recurso especial.
+Publique-se. Intimem-se.
