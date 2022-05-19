@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Mandado de Segurança com pedido de efeito suspensivo impetrado por José Geraldo Martins Ferreira, em face de ato supostamente ilegal praticado pelo Ministro de Estado da Economia, que demitiu o impetrante do cargo de Auditor Tributário da Receita Federal do Brasil, em razão de ocultação de patrimônio.
+Aduz o impetrante que transcorreu mais de 5 anos entre o conhecimento pela Receita Federal acerca do suposto ato ilícito e a instauração do Processo Administrativo Federal, caracterizando prescrição da pretensão punitiva.
+Como pedido principal requer (fls. 30-31, e-STJ):
+44 - No mérito, requer-se a concessão da segurança, a fim de que seja reconhecida a prescrição da ação disciplinar, com fulcro no artigo 142, inciso I e parágrafo primeiro, da Lei nº. 8.112/90, com a consequente anulação do ato de demissão impugnado, considerando o inequívocotranscurso de mais de 5 (cinco) anos entre o conhecimento da pretensa evolução patrimonial desproporcional do ora impetrante pela Receita Federal do Brasil, que remonta a pelo menos desde 6 de dezembro de 2010, e a instauração da PAD correlato, em 20 de agosto de 2018.
+Aduz que possui 75 (setenta e cinco) anos e está privado da sua remuneração, bem como que as provas demonstram que a Receita Federal tinha pleno conhecimento das supostas irregularidades já em 6.12.2010, porém só veio a instaurar o Processo Administrativo Disciplinar em 20.8.2018.
+A liminarfoi indeferida às fls. 444-447, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10 de maio de 2022.
+A insurgência não prospera.
+O Superior Tribunal de Justiça entende que o termo inicial do prazo de decadência para impetração de Mandado de Segurança contra aplicação de penalidade disciplinar é a data da publicação do respectivo ato no Diário Oficial. No caso dos autos, o ato apontado como coator (Portaria ME n. 373, de 6.11.2020 - fl. 131, e-STJ) foi publicado em 9.11.2020, enquanto o presente Mandado de Segurança foi impetrado em 23.3.2022. Assim, está caracterizada a decadência, uma vez que superados os 120 dias do art. 23 da Lei 12.016/2009.
+O impetrante aduz que apresentou pedido de reconsideração (fls. 132-186, e-STJ), o qual foi processado sem efeito suspensivo, conforme Parecer SEI n. 756/2021 ME (fls. 187-195, e-STJ) e indeferido pela autoridade impetrada em 25.1.2021 (fl. 196, e-STJ). Houve apresentação de Recurso Hierárquico (fls. 198 -258, e-STJ), o qual não foi conhecido (fls. 259, e-STJ).
+No caso em espécie, o pedido de reconsideração desprovido de efeito suspensivo não interrompeu ou suspendeu o prazo decadencial para a impetração do Mandado de Segurança, pois é entendimento pacífico que, nos termos da Súmula 430 do STF, o pedido de reconsideração ou o recurso administrativo desprovidos de efeito suspensivo não suspendem o prazo para a impetração. Dessa forma,está configurada a decadência.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA CONTRA ATO DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA QUE DETERMINA SUSPENSÃO DE PRECATÓRIO EM VIRTUDE DE ERRO DE CÁLCULO E REQUISIÇÃO DE INFORMAÇÕES AO JUÍZO DA EXECUÇÃO. NATUREZA ADMINISTRATIVA. SÚMULA 311/STJ. EMBARGOS DECLARATÓRIOS RECEBIDOS COMO PEDIDO DE RECONSIDERAÇÃO SEM EFEITO SUSPENSIVO. TERMO INICIAL DO PRAZO PARA A IMPETRAÇÃO. DATA DA PUBLICAÇÃO DO ATO COATOR. SÚMULA 430/STF. DECADÊNCIA CONFIGURADA.
+1. Cuida-se, na origem, de Mandado da Segurança ajuizado por Luciana Michelly Cota contra ato do Presidente do Tribunal de Justiça do Estado de Santa Catarina, que determinou a suspensão dos autos correspondentes à requisição de pagamento de precatório nº 0002224-27.2017.8.24.0023, após ter sido apontado erro material nos cálculos apresentados, bem como a remessa ao setor competente da decisão que estabeleceu os parâmetros utilizados, no caso de manutenção dos valores, ou do demonstrativo de cálculo, se retificado o montante.
+(..)
+4. O art. 23 da Lei 12.016/2009 estabelece que "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado" (RMS 49.413/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/5/2016, DJe de 25/5/2016).
+5. Na hipótese em exame, verifica-se que a decisão do Presidente do TJSC, objeto de impugnação no presente writ, foi disponibilizada no "Diário da Justiça Eletrônico nº 2700, cuja data de publicação considera-se o dia 03/11/2017, com início do prazo em 06/11/2017, conforme disposto no Código de Normas da Corregedoria Geral da Justiça e Resolução nº 04/07-TJ" (fl. 97, e-STJ).
+6. Contra esse decisum do Presidente do Tribunal, de natureza administrativa, a ora recorrente opôs Embargos de Declaração em 14/11/2017 (fls. 98-106, e-STJ), os quais foram recebidos como Pedido de Reconsideração (fl. 131, e-STJ), e não se demonstrou tenha sido atribuído efeito suspensivo ao recurso manejado pela impetrante. A decisão embargada foi mantida.
+7. Assim, publicado o ato coator em 3.11.2017, sexta-feira, o termo inicial do prazo de 120 dias para impetrar o mandamus se deu no primeiro dia útil seguinte, segunda-feira, 6.11.2017, e se encerrou em 5.3.2018, segunda-feira. O Mandado de Segurança foi impetrado em 14.3.2018, após o decurso de 120 dias contados da ciência, pelo interessado, do ato impugnado (art. 23 da Lei 12.016/2009), verificando-se, portanto, ter ocorrido a decadência.
+8. Importante frisar que o pedido de reconsideração ou o recurso administrativo destituído de efeito suspensivo não têm o condão de suspender ou interromper o curso do prazo decadencial, conforme a Súmula 430/STF: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança."
+9. Recurso Ordinário não provido.
+(RMS 58.796/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 21/08/2020, grifamos)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO COMISSIVO. RECURSO ADMINISTRATIVO. EFEITO SUSPENSIVO. AUSÊNCIA. DECADÊNCIA. OCORRÊNCIA.
+1. Consoante o entendimento do STJ, o enquadramento de servidor público é ato único de efeitos permanentes, razão pela qual a fluência do prazo decadencial para impetração do mandamus tem início a partir da ciência do ato impugnado, não havendo que falar em relação de trato sucessivo. Precedentes.
+2. O pedido de reconsideração ou o recurso administrativo desprovidos de efeito suspensivo não suspendem o prazo para a impetração. Inteligência da Súmula 430 do STF.
+3. Agravo interno desprovido.
+(AgInt no RMS 49.956/MG, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 23/9/2020, grifamos)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PROCESSO ADMINISTRATIVO DISCIPLINAR. FRAUDE EM CONCURSO PÚBLICO. IMPETRAÇÃO DO MANDAMUS FORA DO PRAZO LEGAL. ATO COMISSIVO. TERMO INICIAL. DATA DA PUBLICAÇÃO DO ATO ADMINISTRATIVO NO DIÁRIO OFICIAL. RECURSO ADMINISTRATIVO SEM EFEITO SUSPENSIVO. SÚMULA N. 430 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA. DECADÊNCIA PARA A UTILIZAÇÃO DA VIA MANDAMENTAL. MATÉRIA DE ORDEM PÚBLICA. DECLARAÇÃO DE OFÍCIO.
+(..)
+IV - O manejo de pedido de reconsideração ou de recurso administrativo sem efeito suspensivo não tem o condão de suspender ou interromper o prazo para impetração da ação mandamental, consoante inteligência da Súmula 430/STF.
+V - A decadência para a impetração da ação mandamental configura matéria de ordem pública, devendo ser declarada de ofício pelo julgador, providência que não afronta o princípio da non reformatio in pejus.
+VI - Havendo pendência de demanda judicial em torno da controvérsia, nos termos dos arts. 202, I, do Código Civil e 240 do Código de Processo Civil de 2015, a contagem do prazo prescricional fica interrompida, possibilitando a posterior busca da tutela jurisdicional por meio da via ordinária.
+VII - Decadência para a impetração reconhecida de ofício e declarado extinto o processo, sem resolução de mérito.
+(RMS 34.879/DF, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 7/3/2022)
+Pelo exposto, denego a segurança.
+Publique-se.
+Intimem-se.
