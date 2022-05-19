@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se  de  agravo de ERICA ELENA VALSICHI LUCINDO, com o qual objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJSP assim  ementado:
+Bloqueio de ativos financeiros pelo sistema BACEN-JUD. Possível a medida com respaldo legal. Inviável a aplicação do art. 833, inciso X, do CPC. Autora não demonstrou se tratar de salário, poupança ou reserva financeira, tampouco que a constrição afeta sua subsistência. Inocorrência de ofensa ao princípio da razoabilidade. Decisão mantida. Precedentes. Recurso não provido. Cassado o efeito inicialmente concedido.
+No  especial,  a  parte  aponta  violação  do  art. 833 do CPC/2015,  bem  como  a  ocorrência  de  divergência  jurisprudencial e alega, em síntese, que a impenhorabilidade dos depósitos financeiros até 40 salários mínimos não exigedo depositante a demonstração de seu caráter alimentar, sendo protegido pela lei independentemente da origem do valor depositado.
+O recurso especial foi obstado por aplicação do óbice da Súmula 7 do STJ e por ausência de correta demonstração do dissídio jurisprudencial, fundamentos impugnados no agravo.
+Passo a decidir.
+O recurso especial se origina de agravo de instrumento interposto contra decisão de penhora pelo BACENJUD de numerário depositado em contas corrente e poupança do executado, sustentandoo recorrente que os depósitos seriam impenhoráveis por não ultrapassar o limite de 40 salários-mínimos, fixado pela lei para assegurar ao pequeno poupador a sua subsistência e de sua família.
+O Tribunal bandeirante negou provimento ao recurso, ao fundamentode que o particular não teria demonstrado que os valores depositados seriam necessários à sua subsistência e de sua família.
+Pois bem.
+O recurso especial merece prosperar.
+Desde a vigência do Código de ritos anterior, o art. 649 já previa a proteção da segurança alimentar e de provimentos do devedor e de sua família.
+Mesmo após a reforma em 2006, a proteção ficou ainda mais explícita com a previsão no inciso X do art. 649 da impenhorabilidadedas poupanças até 40 salários mínimos com a intenção de proteger a segurança alimentar do pequeno investidor e de sua família, sendo este o valor considerado pelo legislador como apto a ensejar um padrão de vida digno mínimo ao devedor e a sua família, assegurando-lhe bens indispensáveis à preservação do mínimo existencial.
+Nesse sentido, vide o seguinte julgado:
+RECURSO ESPECIAL. AÇÃO MONITÓRIA. VALORES BLOQUEADOS EM CONTA POUPANÇA VINCULADA A CONTA CORRENTE. IMPENHORABILIDADE. ART. 649, INCISO X, DO CPC. INCIDÊNCIA.
+1. Segundo o art. 649, inciso X, do CPC, a quantia depositada em caderneta de poupança é impenhorável até o limite de 40 (quarenta) salários mínimos.
+2. A intenção do legislador foi a de proteger o pequeno investidor detentor de poupança modesta, atribuindo-lhe uma função de segurança alimentícia ou de previdência pessoal e familiar.
+3. O valor de quarenta salários mínimos foi escolhido pelo legislador como sendo aquele apto a assegurar um padrão mínimo de vida digna ao devedor e sua família, assegurando-lhes bens indispensáveis à preservação do mínimo existencial, incorporando o ideal de que a execução não pode servir para levar o devedor à ruína.
+4. Tal como a caderneta de poupança simples, a conta poupança vinculada é considerada investimento de baixo risco e baixo rendimento, com remuneração idêntica, ambas contando com a proteção do Fundo Garantidor de Crédito (FGC), que protege o pequeno investidor, e isenção de imposto de renda, de modo que deve ser acobertada pela impenhorabilidade prevista no art. 649, inciso X, do CPC.
+5. Eventuais situações que indiquem a existência de má-fé do devedor devem ser solucionadas pontualmente.
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 1191195/RS, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/03/2013, DJe 26/03/2013)
+Não por outro motivo, o Código de Processo Civil de 2015manteve expressamente essaprevisão emseu art. 833, X, tendo a jurisprudência desta Corte superior se fixado no sentido de que serevestede impenhorabilidade "a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014).
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldos inferiores a 40 salários-mínimos depositados não só em caderneta de poupança mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido.
+(AgInt no AREsp 1853515/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 04/10/2021, DJe 07/10/2021)
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta-corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido.
+(AgInt no REsp 1897212/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2021, DJe 01/07/2021)
+Evidencia-se dessas orientações quea previsão de impenhorabilidade das aplicações financeiras do devedor até o limite de 40 salários-mínimos épresumida, cabendo ao credor demonstrareventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto.
+Na hipótese dos autos, o Tribunal bandeirante imputou ao devedor o ônus de demonstrar que os únicos valores depositados e penhorados pelo sistema eletrônico (em quantia inferior a R$3.000,00) possuem natureza alimentar e que por esse motivo a garantia de impenhorabilidade não lhe poderia ser deferida, o que não se coaduna com a interpretação dada ao dispositivo por esta Corte Superior.
+Ante o exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "c",  do  RISTJ,  CONHEÇO  do  agravo  para  DAR  PROVIMENTO  ao  recurso e DETERMINAR o retorno dos autos ao Tribunal a quopara que promova novo julgamento, no qual sejaobservadaa orientação acima referida.
+Publique-se. Intimem-se.
