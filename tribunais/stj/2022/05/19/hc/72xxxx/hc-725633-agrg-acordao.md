@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDREZA ALVES DOS SANTOS, contra decisão singular que não conheceu do habeas corpus.
+A agravante, em síntese, reitera que faz jus à desclassificação do delito de tráfico de entorpecente para o delito de porte de drogas para consumo próprio.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTE. DESCLASSIFICAÇÃO PARA PORTE DE DROGAS PARA CONSUMO PRÓPRIO. IMPOSSIBILIDADE. VEDADO REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA.AGRAVO REGIMENTAL DESPROVIDO.
+1. Para afastar a conclusão das instâncias ordinárias a respeito da prática do delito de tráfico ilícito de entorpecentes é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Na hipótese, o Tribunal a quo entendeu que o agravantepraticava o delito de tráfico de drogas, de acordo com o conjunto probatório colhido nos autos, mantendo, nesse ponto, a sentença penal condenatória. Confira-se:
+" ..
+A r. sentença recorrida, suficientemente motivada no que diz respeito ao decreto condenatório e em nada abalada pelas razões de recurso oferecidas pela defesa, merece ser mantida por seus próprios e jurídicos fundamentos, com pequena alteração no tocante às penas aplicadas, consoante será oportunamente demonstrado.
+Os depoimentos prestados pelas testemunhas, tanto perante a autoridade policial como em Juízo, foram suficientes para atestar a prática do crime de tráfico ilícito de drogas, quanto à sua autoria. Além disso, a materialidade do delito previsto no artigo 33, caput, da Lei nº 11.343/06, restou comprovada nos autos pelo boletim de ocorrência de fls. 05/07, auto de exibição e apreensão de fls. 13/14, laudo de constatação de fls. 15, cópia do mandado de busca e apreensão de fls. 08/12 e pelo laudo positivo do exame químico-toxicológico de fls. 208/210.
+A insurgente, em solo policial, alegou que residia no local onde foram realizadas as diligências, juntamente com sua filha e neto. Os policiais civis ali adentraram para cumprir um mandado de busca e apreensão em nome de seu filho, ocasião em que esclareceu que Romário não morava mais com ela. Ao ser questionada acerca da existência de entorpecentes, afirmou que tinha consigo entre quatro e cinco papelotes de "maconha", além de um cigarro da mesma substância, que estavam armazenados dentro do short que vestia, tendo entregue as porções aos agentes. Disse, ainda, que as drogas destinavam-se ao seu consumo, pois era usuária de "maconha" e as vezes consumia cocaína, porém não praticava o tráfico.
+Interrogada sob o crivo do contraditório, reiterou a versão anteriormente apresentada, aduzindo, ainda, que era usuária compulsiva de entorpecentes e que não manteve conversas em seu telefone celular, esclarecendo, por fim, que apesar de o aparelho pertencer a ela, era utilizado por "qualquer um".
+Todavia, a negativa apresentada pela insurgente restou isolada diante do restante do conjunto probatório amealhado aos autos.
+Os policiais civis ouvidos em Juízo, em depoimentos coesos, firmes e harmônicos entre si, corroboraram a versão dos fatos descrita na denúncia, asseverando que, no dia hora ali consignados, estavam em cumprimento de um mandado de busca a apreensão, bem como de um mandado de prisão, em desfavor de Romario, filho da ré. Chegando ao endereço da diligência, encontraram a apelante, sendo que, no quarto dela, mais precisamente sobre a cômoda, localizaram uma porção de "maconha". Disseram, ainda, que enquanto estavam na residência, visualizaram a insurgente acessando o celular, ao que pediram acesso ao aparelho, oportunidade em que viram diversas conversas dela com pessoas pedindo drogas, dentre eles um contato registrado como "Dani", pedindo entorpecentes para o filho dela. Um indivíduo identificado como Tafarel também estava pedindo drogas, tendo ela respondido em determinada mensagem "Não tenho, acabou". Na ocasião, a apelante confirmou que o aparelho era de sua propriedade, nada tendo dito sobre outras pessoas u sarem o objeto. Após ser indagada várias vezes, a recorrente retirou de sua roupa íntima algumas porções de "maconha". O policial Marcelo acrescentou, ainda, que a insurgente aparentava estar apagando mensagens do celular, e que ela não demonstrava estar sob efeito de drogas.
+ ..
+Desse modo, pela observância da prova colhida, pela forma e circunstâncias em que foi realizada a abordagem da apelante, tendo os policiais afirmado terem visto diversas conversas entre a recorrente e outros indivíduos que pediam drogas a ela, era evidente a destinação para entrega a consumo de terceiros.
+Outrossim, para que reste configurado o delito previsto no artigo 33, caput, da Lei n. 11.343/06, não se exige estado de flagrância na prática de qualquer ato indicativo de oferta gratuita ou de venda da substância entorpecente, uma vez que, dentro os núcleos verbais ali relacionados encontram-se as condutas de "guardar" e de "ter consigo".
+Por conseguinte, a procedência da alegação de que a substância ilícita se destinaria apenas ao uso próprio deve ser aferida em consonância com a conjuntura de sua apreensão, devendo ser afastada se não se coadunar com a dinâmica dos fatos,
+tal como ocorreu no caso concreto, tendo em vista a visualização, por parte dos agentes, de mensagens trocadas entre a recorrente e outros usuários, que a contatavam para a aquisição de entorpecentes.
+Assim, conclui-se que a conduta da ré se subsumiu perfeitamente ao tipo penal supramencionado da Lei de Drogas, de modo que a sua condenação deve ser mantida, não havendo que se falar em insuficiência probatória. Incabível, ainda, a desclassificação para o delito inserto no artigo 28 da Lei nº 11.343/06, eis que é irrelevante o fato de a apelante ser usuária de drogas, porquanto tal condição não é incompatível com a traficância, a qual é, inclusive, muitas vezes utilizada como meio de manutenção do alegado vício (TJSP, Apelação nº 01746-37.2012.8.26.050, Rel. Des. J. Martins, j. 15.08.2013).
+Feitas essas considerações e mantida a condenação, passa-se à análise da dosimetria das penas e do regime prisional, objetos da insurgência defensiva." (fls. 52/57)
+A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la, é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+ .. .
+TRÁFICO DE DROGAS. FALTA DE PROVAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 28 DA LEI 11.343/2006. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO CONDENATÓRIO. COAÇÃO ILEGAL INEXISTENTE.
+1. A pretendida absolvição ou desclassificação da conduta imputada a um dos pacientes para a infração penal prevista no artigo 28 da Lei 11.343/2006 são questões que demandam aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional.
+2. No processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais a instância ordinária formou convicção pela prolação de decisão repressiva em desfavor do acusado.
+CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ARTIGO 33 DA LEI 11.343/2006. PRETENDIDA APLICAÇÃO. ESPÉCIE E QUANTIDADE DE DROGA. REQUISITOS SUBJETIVOS. NÃO PREENCHIMENTO. INDEFERIMENTO DA MINORANTE JUSTIFICADO. ILEGALIDADE NÃO DEMONSTRADA.
+Não há ilegalidade na negativa de aplicação da causa especial de diminuição prevista no § 4º do artigo 33 da Lei 11.343/06, diante da natureza e quantidade da substância entorpecente apreendida.
+Precedentes.
+REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. MODO MAIS GRAVOSO JUSTIFICADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+ .. .
+DETRAÇÃO PENAL. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+ .. .
+2. Habeas corpus não conhecido.
+(HC 362.961/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 1º/12/2016, DJe 7/12/2016).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão do agravante de modificar o entendimento firmado pelas instâncias ordinárias - no sentido de que não há provas acerca da prática do delito em questão, da desclassificação do delito de tráfico para o uso e da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 - demandaria reexame de provas, o que é inviável na via do recurso especial, segundo dispõe o enunciado n. 7 da Súmula do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido.
+(AgRg no AREsp 900.716/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/8/2016, DJe 26/8/2016).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
