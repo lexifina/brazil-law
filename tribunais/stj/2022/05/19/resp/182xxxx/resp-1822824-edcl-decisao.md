@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Unimed de Joinville Cooperativa de Trabalho Médico, em face de decisão que determinou a devolução dos autos ao Tribunal de origem nos termos dos arts. 1.040 e 1.041 do CPC.
+A parte embargante afirma que "aquestão em debate, portanto, nada tem a ver com a matéria já decidida e por decidir, no Supremo Tribunal, sobre atos cooperativos. Contempla deduções de base de cálculo de uma operadora, seja qual for a natureza jurídica de operadora.  .. Diante dos serviços aqui discutidos, a embargante não se apresenta como cooperativa, mas como operadora de planos de saúde, atividade que lhe faculta a Lei exercer, em igualdade com qualquer outro tipo societário;A discussão neste processo diz respeito às operadoras de planos de saúde, independente de sua natureza jurídica.25. A decisão embargada foi omissa na apreciação dessa circunstância, que comparece em todos os momentos do processo.26. O juízo de delibação da Instância de origem somente se instaura quando há conflito de interpretações sobre o mesmo tema, assunto que em hipótese alguma ocorre no caso.27. A ida e certamente vinda do processo da Instância Regional consumiria um tempo precioso, sendo que o Hospital da embargante está penhorado para garantir esse Juízo, circunstância nociva aos fins sanitários maiores ao qual se decida." (fls.598/600).
+Transcorrido in albis o prazo para impugnação (fl. 607).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Considerando o nítido intento da parte embargante de infringir o decisum embargado, conheço dos embargos de declaração como agravo interno, nos termos do art. 1.024, § 3º, do CPC.
+Intime-se a recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º, do CPC.
+Havendo a complementação das razões recursais, abra-se vista à recorrida para impugnação.
+Publique-se.
