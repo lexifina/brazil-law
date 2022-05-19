@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S/A contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl.220):
+EMENTA: AGRAVO DE INSTRUMENTO - BUSCA E APREENSÃO - CONSTITUIÇÃO DO DEVEDOR EM MORA - NOTIFICAÇÃO ENVIADA - AÇÃO ORDINÁRIA - LIMINAR SUSPENDENDO COBRANÇA - COMPROVAÇÃO DA MORA - INEXISTÊNCIA - PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - EFEITOS
+- A comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente nos termos da súmula 72 do STJ. - O ajuizamento de ação ordinária no âmbito da qual foi deferida a tutela de urgência determinando a suspensão das cobranças das parcelas do financiamento é capaz de afastar a notificação enviada ao réu com o escopo de constitui-lo em mora. - Ausente os pressupostos de constituição e de desenvolvimento válido e regular do processo, a ação de busca e apreensão deve ser extinta, sem resolução de mérito.
+Nas razões do recurso especial, a parte agravante aponta violação aoart.85, § 2º, do Código de Processo Civil.
+Sustenta que o percentual arbitrado em 10% (dez por cento) sobre o valor da causa a título de honorários advocatícios não "érazoável eproporcional aos critérios previstos na norma do art. 85, § 2º, do CPC, uma vez que a causa foi de baixa complexidade, o tempo e o trabalho realizado pelo advogado adverso foi simples" (e-STJ, fl.236).
+Afirma que "a fixação dos honorários advocatícios por equidade deve ser aplicada quando se observa que o valor dos mesmos são excessivos, violando os princípios da proporcionalidade e a razoabilidade que lhe devem ser inerentes" (e-STJ, fl.237).Ao final, requer a redução dos honorários e que eles sejam arbitrados em valor fixo.
+Assim delimitada a controvérsia, passo a decidir.
+No que concerne à apontada violação ao art. 85, § 2º do CPC,observo que o acórdão recorrido não se pronunciou acerca do critério e dos limites legais de fixação dos honorários advocatícios estabelecidos pelodispositivolegalindicado como violado.
+Destaco que a parterecorrente sequer opôs embargos de declaração a fim desuprir eventual omissão praticada pelo Tribunal de origem com relação aos requisitos legais para a fixação dos honoráriosadvocatícios de sucumbência.
+Salienta-se que "para que se configure o prequestionamento, não basta que
+o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no AREsp 1857558/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 27/9/2021, DJe 29/9/2021).
+Desse modo, não houve debate prévio no Tribunal de origem, sequer de modo implícito, sobre a tese levantada nas razões do recurso, incidindo, por analogia, o disposto nas Súmulas n.282 e 356/STF. A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.CONTRATO DE REPRESENTAÇÃO COMERCIAL. ILEGITIMIDADE. AUSÊNCIA DEPREQUESTIONAMENTO.SÚMULAS282E 356 DO STF. NECESSIDADE DE AVISO PRÉVIO. MATÉRIA JÁ DECIDIDA. PRECLUSÃO. COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. FALTA DEPREQUESTIONAMENTO.SÚMULAS282E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não foram opostos embargos de declaração. A ausência do indispensávelprequestionamento,requisito exigido inclusive para matéria de ordem pública, atrai, por analogia, o óbice das Súmulas282e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1.348.366/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
