@@ -1,0 +1,5 @@
+DECISÃO
+Em atenção ao despacho de fls. 743-744 (e-STJ), a Caixa Econômica Federal, mediante o Ofício nº 078/2022-AG 0847 DF (e-STJ fl. 748), informou que a TED fora devolvida à sua agência "e estornado para a conta n. 0847.040.01501182-2, e transferido para a conta n. 99.738.500-6, Agência 3793-1 (Setor Público PR), de titularidade do Banco do Brasil (CNPJ - 00.000.000/5084-97)", o que é corroborado pelos comprovantes de fls. 749-750 (e-STJ).
+Aberta vista sobre as providências bancárias adotadas (e-STJ fl. 751), o banco autor confirmou "a efetivação do crédito, no valor de R$ 5.067,32, ocorrido em 18/02/2022, por meio do envio de TED da Caixa Econômica Federal, para crédito em conta de titularidade do Banco do Brasil, conforme documentos de fl. 748 (e-STJ), para restituição do depósito do art. 968, inciso II, do CPC".
+Ante o exposto, confirmada a transferência dos valores depositados judicialmente a título de depósito prévio em favor da parte autorae nada mais havendo a deferir, arquivem-se os autos.
+Publique-se. Intimem-se.
