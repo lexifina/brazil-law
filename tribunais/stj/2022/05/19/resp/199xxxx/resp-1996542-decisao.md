@@ -1,0 +1,24 @@
+DECISÃO
+Vistos,  etc.
+Trata-se  de  recurso  especial  interposto  pelo  Município  de  Belo  Horizonte,  com  amparo  na  alínea  "a"  do  inciso  III  do  art.  105  da  CF/1988,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  assim  ementado  (e-STJ,  fl.  265):
+AGRAVO  DE  INSTRUMENTO  -  CUMPRIMENTO  DE  SENTENÇA  -  RECOLHIMENTO  DE  DESPESAS  PROCESSUAIS  -  INTIMAÇÃO  ELETRÔNICA  -  FAZENDA  PÚBLICA  -  POSSIBILIDADE  -  RECURSO  NÃO  PROVIDO .
+  -  As  custas  e  os  emolumentos  não  se  confundem  com  as  despesas  processuais,  de  modo  que  a  Fazenda  Pública  não  é  isenta  do  recolhimento  de  destas  últimas,  a  teor  do  disposto  no  art.  51,  caput,  do  Provimento  Conjunto  nº  75/2018  deste  E.  Tribunal  de  Justiça.
+-  A  citação/intimação  eletrônica  se  trata  de  uma  despesa  processual,  não  abrangida  pelo  conceito  de  "custas  processuais",  como  defendido  pelo  agravante,  de  modo  que  se  revela  devida  a  sua  cobrança.
+-  Recurso  não  provido.
+Os  embargos  de  declaração  opostos  pela  edilidade  foram  rejeitados.
+Em  suas  razões,  o  recorrente  aponta  violação  do  art.  1.022,  II,  do  CPC/2015,  aduzindo  omissão  quanto  à  aplicabilidade  da  Lei  estadual  n.  14.939/2003,  e  do  precedente  repetitivo  do  STJ,  REsp  n.  1.107.543/SP,  que  teriam  classificado  como  custas  os  atos  inerentes  à  atividade  judicial,  tais  como  a  citação/intimação  eletrônica  levada  a  efeito  nos  presentes  autos,  e  pela  qual  a  municipalidade  está  sendo  cobrada  como  despesa  processual.
+Sem  contrarrazões  recursais.
+Admitido  o  recurso  especial  na  origem  (e-STJ,  fls.  337-338),  subiram  os  autos  a  esta  Corte.
+É  o  relatório.
+Dos  autos,  observa-se  haver,  de  fato,  a  apontada  contrariedade  ao  art.  1.022  do  CPC/2015,  na  medida  em  que  a  Corte  de  origem  não  respondeu  ao  questionamento  levado  a  efeito  nos  embargos  de  declaração  acerca  da  regulação  estadual  do  tema  e  do  precedente  deste  Superior  Tribunal  de  Justiça  julgado  sob  o  rito  dos  recursos  representativos  da  controvérsia.
+É  do  próprio  relatório  dos  embargos  declaratórios  da  contribuinte  a  seguinte  passagem  (e-STJ,  fl.  296):
+Para  fundamentar  a  sua  pretensão,  alega  o  embargante  que  o  acórdão  recorrido  incorreu  em  contradição  vez  que  há  previsão  expressa  da  Lei  Estadual  n.  14.939/2003,  em  seu  art.  5º,  I  e  IX,  qualificando  intimações  eletrônicas  como  custas  processuais,  e  não  despesas.
+Afirma  que  as  intimações  eletrônicas  constituem  atividade  inerente  ao  aparato  Judiciário  e  não  envolvem  a  prestação  de  serviços  por  terceiros  e,  portanto,  não  constituem,  conforme  a  definição  do  STJ,  despesas,  e  sim  custas  processuais.
+Aduz  que  o  acórdão  embargado  deixou  de  enfrentar  os  fundamentos  invocados  para  embasar  a  pretensão  do  Município  e  que  são  capazes  de  infirmar  a  conclusão  adotada,  nos  termos  do  art.  489,  § 1º,  IV,  do  Código  de  Processo  Civil.
+Assevera  que  ainda  que  o  Provimento  Conjunto  n.  75/2018  do  TJMG  classifique  intimações  eletrônicas  como  despesas,  trata-se  de  instrumento  infralegal,  que  não  possui  o  efeito  de  alterar  previsão  expressa  em  lei.
+Acrescenta  que  o  acórdão  embargado  acabou  se  omitindo  quanto  a  qualquer  fundamento  que  indicasse  a  inconstitucionalidade  ou  afastasse  a  aplicação  da  Lei  Estadual.
+Informa  que  o  conceito  de  despesas  estabelecido  pelo  STJ  é  claro  ao  excluir  intimações  eletrônicas.
+Nota-se,  portanto,  que  o  Colegiado  local  foi  provocado  sobre  o  tema,  não  tendo,  contudo,  exarado  argumentação  alguma  sobre  a  questionada  regulamentação  da  Lei  estadual  n.  14.939/2003  sobre  a  matéria,  ou  sobre  o  precedente  repetitivo  julgado  no  âmbito  desta  Corte  Superior  sobre  a  natureza  jurídica  do  ato  processual  que  originou  a  cobrança  em  comento.
+Desse  modo,  tendo  o  acórdão  combatido  deixado  de  analisar  matéria  de  relevância  para  o  deslinde  da  controvérsia,  inviabilizando  o  conhecimento  do  especial,  em  flagrante  afronta  ao  art.  1.022,  II,  do  CPC/2015,  impõe-se  o  reconhecimento  de  sua  nulidade.
+Ante  o  exposto,  com  fulcro  no  art.  932,  V,  do  CPC,  c/c  o  art.  255,  §  4º,  III,  do  RISTJ,  assim  como  na  Súmula  n.  568/STJ,  dou  provimento  ao  recurso  especial  para  anular  o  acórdão  dos  embargos  de  declaração  e,  por  conseguinte,  determinar  o  retorno  dos  autos  à  Corte  de  origem,  a  fim  de  que  se  manifeste,  expressamente,  acerca  do  quanto  alegado  em  declaratórios.
+Publique-se.  Intimem-se.
