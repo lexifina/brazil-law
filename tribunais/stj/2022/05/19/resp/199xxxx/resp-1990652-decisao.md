@@ -1,0 +1,25 @@
+DECISÃO
+DIONATAN RAFAEL CUSTODIO DUARTEinterpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado do Rio Grande do Sul(Apelação Criminal n. 0314207-57.2019.8.21.7000).
+Nas razões recursais, a defesa sustenta a violação dos arts. 65, III, "d", 67 e 14, parágrafo único, todosdo Código Penal, por entender que o réu faz jus à compensação integral entre a confissão espontânea e a agravante da reincidência, bem como à incidência de maior fração de diminuição pela tentativa. Assim, requer o provimento do recurso, a fim de que seja reduzida a pena.
+Apresentadas as contrarrazões (fls. 341-345) e admitido o recurso (fls. 375-380), o Ministério Público Federal opinou pela manutenção da decisão impugnada (fl. 396).
+Decido.
+Consta dos autos que o recorrente foi condenado, pela prática do delito de roubo simples tentado,à pena de 2 anos e 6meses de reclusão, em regime semiaberto, mais multa.
+Na segunda fase da dosimetria, reconhecidas a atenuante da confissão espontânea e a agravante da reincidência, não foi realizada a compensação integral, "considerando que a confissão do réu pouco contribuiu para a elucidação dos fatos e que o acusado é reincidente específico" (fl. 315, grifei).
+No julgamento dosEREsp n. 1.154.752/RS, DJe 4/9/2012, a Terceira Seção deste Superior Tribunal pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Também é certo que este Superior Tribunal havia consolidado o entendimento de que a compensação da confissão espontânea com a agravante genérica da reincidência deveria "atender a certos parâmetros, como a espécie, a natureza e os graus de reincidência, sob pena de violação aos princípios da individualização da pena e da proporcionalidade" (AgRg no REsp 1.356.527/DF, Rel. MinistroMarco Aurélio Bellizze, 5ª T., DJe 25/9/2013).
+Vários foram os precedentes que não permitiam a compensação entre a confissão e a reincidência, quando a recidiva do réu for específica e/ou numerosa, por evidenciar maior reprovabilidade da conduta.
+Contudo, em sessão realizada em 11/10/2017, a Terceira Seção desta Corte Superior, por ocasião do julgamento doHC n. 365.963/SP, Rel. Ministro Felix Fischer, DJe 23/11/2017, decidiu ser possível a integral compensação da atenuante da confissão espontânea com a reincidência específica.
+Assim, constato que não há óbice à compensação integral entre a confissão espontânea e a reincidência, ainda que específica, pois não foi indicado no acórdão impugnado a existência de múltiplas condenações configuradoras da referida agravante.
+Quanto à fração da tentativa, aCorte estadual manteve a redução aplicada na sentença, no patamar de 1/2, "tendo em vista que o acusado ameaçou a vítima, apontando-lhe um pedaço de metal, e exigiu a entrega de dinheiro, somente não consumando o crime em razão de a ofendida ter conseguido arrancar com seu carro" (Fl. 317).
+Assim, verifico que as instâncias antecedentes entenderam como adequada a redução em 1/2, embasada peloiter criminispercorrido pelo agente - critério adotado por este Tribunal Superior.
+Ademais, a alteração do entendimento adotado na origem, a respeito da maior ou da menor proximidade da consumação do crime, dependeria do reexame do conjunto fático-probatório dos autos, o que é vedado, a teor da Súmula n. 7 do STJ.
+Nesse sentido:
+ ..
+3. Conforme jurisprudência desta Corte, "Fixada a redução da pena em razão da tentativa com observância do iter criminis percorrido apurado nos autos, descabe em recurso especial a alteração da fração redutora, pois tal providência enseja o revolvimento fático-probatório, vedado pela Súmula n. 7/STJ" (AgRg no AREsp 1321942/RS, de minha relatoria, QUINTA TURMA, DJe 26/8/2019).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.608.242/MG, Rel. MinistroJoel Ilan Paciornik, 5ª T., DJe 4/5/2020)
+Reconhecida parte da violação legal suscitada neste especial, passo à readequação da pena.
+Observados os critérios adotados pelas instâncias ordinárias, verifico que a pena-base do paciente foi fixada em 4 anos e 6 meses de reclusão, mais 11dias-multa, pelos maus antecedentes. Na segunda etapa, a pena foi elevada, pela preponderância da reincidência específica. Identificada a ilegalidade, realizo a compensação integral entre a agravante e a confissão espontânea, o que mantém a pena inalterada. Na terceira fase, a pena foi reduzida em 1/2, pela tentativa, o que a torna definitivamente estabelecida em 2 anos e 3 meses de reclusão, mais 6dias-multa.
+À vista do exposto,conheço do recurso especiale, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ,dou-lhe parcial provimento, a fim de realizar a compensação integral entre a reincidência e a confissão espontânea eredimensionar a pena para2 anos e 3 meses de reclusão, mais 6 dias-multa.
+Publique-se e intimem-se.
