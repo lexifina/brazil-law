@@ -1,0 +1,17 @@
+Vistos etc.
+Anildo José Geier opôs Embargos de Declaração contra aresto proferido neste Recurso de Apelação, em que a Colenda Terceira Câmara Criminal negou provimento ao recurso defensivo.
+Busca, nas suas palavras, “em respeito aos fundamentos constitucionais da dignidade da pessoa humana (art. 1o, inciso III, CF/88), dos valores sociais do trabalho e da livre iniciativa (art. 1o, inciso IV, CF/88), bem como em se tratando de bem essencial ao desempenho da atividade laboral fim do Embargante, entendo por proporcional e suficiente, tanto para assegurar o bem desenvolvimento da instrução processual, quanto para possibilitar a manutenção da atividade comercial do Apelante, nomeação dele como fiel depositário do veículo apreendido, sem prejuízo de imposição de restrição judicial de transferência dos bens junto aos Departamentos Estaduais de Trânsito, junto ao sistema RENAJUD; e ii) Na remota hipótese de não acolhimento do pedido retro, pugna-se pela intimação do Ministério Público, a fim de que apresente conclusão do Inquérito Policial, este que demonstrará que o Embargante terceiro de boa-fé não tem e nunca teve qualquer participação com o ilícito apurado, devendo seu veículo ser devolvido para manutenção e sustento de sua vida e de sua família” (ID 127640173).
+Dito isso, cumpre sublinhar que os recursos na seara penal não se sujeitam à norma do CPC que cuida da contagem dos prazos em dias úteis (art. 219), dada a existência de regramento específico sobre a matéria, inserido no art. 798 do CPP. Sob esse prisma, o art. 798 do CPP constitui norma especial em relação às alterações promovidas pela Lei no. 13.105/2015 e, portanto, sobrepõe-se a elas.
+Na hipótese, verifica-se que os aclaratórios foram opostos fora do prazo previsto em lei, posto que decorridos mais de 2 dias entre o início da fluência (9.5.2022) e sua interposição (12.5.2022), como bem informado em certidão lavrada pela douta Secretaria (ID 127657681).
+Nesses moldes, partindo da premissa de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo ou suspendendo aos sábados, domingos ou feriados, inexiste outro caminho senão reconhecer a intempestividade do recurso, manejado, como visto nas linhas acima, somente após o transcurso de 2 dias corridos.
+Em sintonia com esse entendimento, eis o que preleciona o Superior Tribunal de Justiça:
+“Entende esta Corte que ‘em razão da disposição específica do art. 798, caput, do Código de Processo Penal, estabelecendo a fluência dos prazos processuais em dias corridos, não é aplicável, nos processos criminais, a contagem em dias úteis, prevista no art. 219, caput, do Código de Processo (...). Os prazos penais são contínuos e peremptórios, de modo que, após iniciados, eventuais feriados e pontos facultativos não interrompem nem suspendem a respectiva contagem, mas apenas prorrogam o dia do vencimento daqueles findos nessas datas, para o imediato dia útil subsequente. 3. Agravo regimental a que se nega provimento” (AgRg nos EDcl no AREsp 1924755/SP, Rel. Min. Antônio Saldanha Palheiro, 6a Turma, DJe 13.12.2021).
+Deste modo, uma vez constatada a falta de atendimento a um dos pressupostos de admissibilidade recursal (tempestividade), NÃO CONHEÇO dos Embargos de Declaração, nos termos do art. 51, inc. I-B, primeira parte, do RI/TJMT.
+Procedam-se aos registros, anotações e intimações necessárias.
+Ciência à Procuradoria-Geral de Justiça.
+Com o trânsito em julgado, arquivem-se os autos.
+Às providências.
+Cumpra-se.
+Cuiabá, 19 de maio de 2022.
+Rondon Bassil Dower Filho
+Relator
