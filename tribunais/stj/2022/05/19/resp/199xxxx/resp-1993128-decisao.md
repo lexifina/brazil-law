@@ -1,0 +1,30 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal local no Agravo em Execução n. 1.0216.16.000248-3/001.
+Nas razões recursais, o Parquet aponta violação do art. 117 da LEP, ao argumento de que não há justificativa concreta para a concessão de prisão domiciliar ao recorrido, uma vez que ele não tem doença crônica nem faz parte do grupo de risco da Covid-19.
+Requer o provimento do recurso, "para que seja revogada a prisão domiciliar concedida ao recorrido" (fl. 282).
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal se manifestou pelo seu provimento (fls. 344-346).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o Juízo da Vara de Execuções Penais deferiu ao ora recorrido o recolhimento na prisão domiciliar, com fulcro na Portaria Conjunta n. 19/PR-TJMG/2020.
+O Tribunal a quo, ao negar provimento ao agravo em execução do órgão ministerial, consignou (fls. 228-229):
+Depreende-se que a Portaria Conjunta nº 19/PR, editada em 16 de Março de 2020, com a finalidade de aplicar ao sistema prisional as medidas necessárias para o contingenciamento da pandemia do "coronavírus" no Estado possui orientação no sentido da concessão da prisão domiciliar aos reeducandos do regime aberto e do semiaberto.
+Ora, ainda que o ato infralegal não possua caráter vinculante, referida Portaria se encontra em conformidade com a Recomendação nº 62/2020, emitida pelo Conselho Nacional de Justiça.
+ ..
+Embora a prisão domiciliar, em regra, somente seja concedida nas hipóteses descritas no rol do art. 117 da LEP, admite-se o deferimento do benefício também em situações excepcionais, como no caso em tela.
+Assim, encontra-se o decisum objurgado suficientemente fundamentado, atentando-se a autoridade coatora à situação fática do paciente e à realidade local, havendo de ser mantida incólume a decisão hostilizada.
+Socorre razão ao Ministério Público, uma vez que a prisão domiciliar foi concedida ao condenado como consequência automática da emergência nacional de saúde pública, tão somente por se tratar de condenado em cumprimento de pena no regime semiaberto e que não registrava falta grave há menos de um ano nem respondia a processo administrativo disciplinar.
+Pela mera leitura do acórdão recorrido, infere-se que não foi identificado nenhum dado revelador de particular vulnerabilidade do reeducando à infecção pela Covid-19, eventual contexto de disseminação da doença em sua unidade penal ou, ainda, a impossibilidade de assistência à saúde dos reclusos no local. Por fim, não registrou a existência de contrato de trabalho externo suspenso em face da pandemia.
+O aresto estadual está em desconformidade com o entendimento desta Corte, de que:
+ ..  o art. 5º-A, recentemente incluído na Recomendação n. 62, de 17/3/2020, do Conselho Nacional de Justiça, excluiu os condenados por crimes hediondos, como na hipótese dos autos, dos benefícios da execução recomendados com vistas à redução dos riscos epidemiológicos da Covid-19 ..
+(AgRg no HC n. 604.767/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 26/11/2021, destaquei).
+ ..
+1. A Recomendação n. 62/2020 é mera orientação, não criou direito subjetivo ao desencarceramento das pessoas privadas de liberdade. Deve ser aplicada com razoabilidade, ponderados pelo juiz: a especial vulnerabilidade de alguns presos; o contexto de disseminação da Covid-19 em cada ambiente carcerário e as características da execução, porquanto mesmo durante a pandemia persiste o direito da coletividade em ver preservada a segurança pública.
+2. É preciso equilíbrio ao adotar providências humanitárias, pois em toda análise de interesses e valores divergentes, há a necessidade de pautar as decisões judiciais pelo princípio da proporcionalidade.
+ ..
+4. É insuficiente estar o condenado  ..  em grupo classificado normativamente como de risco para deferir-se, de forma automática, a prisão domiciliar como consequência da pandemia, o que vai de encontro à própria orientação do Conselho Nacional de Justiça, que, ao emitir a Recomendação n. 78/2020, instruiu os juízes e tribunais a não aplicarem as medidas preventivas dos arts. 4º e 5º da Recomendação n. 62/2020 "às pessoas condenadas por  ..  crimes hediondos"
+5. Agravo regimental não provido.
+(AgRg no REsp 1925896/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/8/2021, grifei).
+Ressalto, por oportuno, que: a) consoante o art. 15 da Recomendação n. 62/2020, posteriormente alterado pela Recomendação n. 78, de 15/9/2020, a prisão domiciliar em decorrência da emergência da Covid-19 deveria vigorar pelo prazo de 360 dias, respeitados seus motivos e a possibilidade de prorrogação ou de antecipação de seu término e b) atualmente, a situação nacional de emergência de saúde teve o seu fim declarado pelo Ministério da Saúde, conforme a Portaria GM/MS n. 913, publicada no DOU de 22/4/2022. Assim, de todo modo, seria pertinente a nova avaliação da execução pelo Juiz competente.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, de forma a reconhecer a violação do art. 117 da LEP e a cassar a prisão domiciliar concedida ao reeducando do regime semiaberto.
+O Juiz da VEC deverá realizar nova individualização da execução antes do cumprimento de eventual ordem de recolhimento, oportunizada a oitiva da defesa e do Ministério Público, devendo analisar, na oportunidade, benefícios do regime semiaberto (trabalho externo e saídas temporárias) e eventual direito a nova progressão de regime e/ou livramento condicional.
+Publique-se e intimem-se.
