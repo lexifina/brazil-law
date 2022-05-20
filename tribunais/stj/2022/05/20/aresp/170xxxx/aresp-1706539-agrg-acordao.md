@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+PEDRO JÚNIOR PEREIRA DA SILVA interpõeagravo regimental contra a decisão monocráticaque negou provimento ao agravo.
+O agravante alega que, no caso em análise, o pedido formulado prescinde de reexame fático para a sua apreciação e provimento, devendo ser afastado o óbice sumular n. 7 do STJ.
+Afirma que preencheu os requisitos objetivos e subjetivos do livramento condicional, previstos noart. 83,III, do Código Penal e nos arts. 112 e 131 da Lei de Execuções Penais.
+Cita precedente do STJ com vistas a embasar suas alegações.
+Requer a reconsideração da decisão ou a submissão do presente recurso ao julgamento pelo Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.LIVRAMENTO CONDICIONAL. REQUISITOSUBJETIVO. NÃO CUMPRIMENTO. SUFICIÊNCIA DAFUNDAMENTAÇÃO. ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1.Para obter a progressão de regime e o livramento condicional, além depreencher o requisito objetivo, consistente no cumprimento de pena por certo lapso temporal, o reeducando deve satisfazer o requisito subjetivo, demonstrando possuir condições pessoais favoráveis para tanto.
+2. A falta grave praticada pelo apenado durante o cumprimento da pena, embora não interrompa a contagem do prazo para o livramento condicional, justifica o indeferimento do benefício por ausência do requisito subjetivo.
+3. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre amatériasuscitada.
+4. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+O agravante nãoapresenta razões aptas para infirmar a decisão ora questionada, que deve ser mantida por seus próprios fundamentos, assim expressos (fls. 91-94):
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 do STJ e 284 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+É o relatório. Decido.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 27):
+PROCESSO PENAL. AGRAVO EM EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DO PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. CERTIDÃO CARCERÁRIA. NÃO VINCULATIVA. HISTÓRICO CARCERÁRIO DO REEDUCANDO. RELEVÂNCIA. FALTAS GRAVES NO CURSO DA EXECUÇÃO PENAL. NÃO VALORAÇÃO PELO JUÍZO DE PRIMEIRO GRAU. REVOGAÇÃO DO BENEFÍCIO. MEDIDA ADEQUADA.
+1. Nos termos do artigo 83 do Código Penal, para a concessão do livramento condicional, deverá o magistrado averiguar o preenchimento cumulativo dos requisitos objetivo, que se relaciona com o fator tempo, e subjetivo, que diz respeito aos aspectos estritamente inerentes à conduta do reeducando durante a execução de sua reprimenda.
+2. A certidão cartorária emitida pelo diretor do estabelecimento prisional, com intuito de demonstrar o requisito subjetivo do livramento condicional, apesar de importante vetor orientador de análise, não vincula o magistrado, podendo, diante do histórico carcerário do reeducando, ser afastada.
+3. Verificado em grau recursal que o reeducando possui três faltas graves, sendo uma delas oriunda de fuga do distrito da culpa por quase dois anos, quando se encontrava no regime semiaberto, e a outra proveniente do cometimento de novo crime no curso do cumprimento da reprimenda, as quais não foram valoradas pelo juízo de primeiro grau, imperioso se torna a revogação do benefício.
+4. Recurso admitido e provido.
+Nas razões do recurso especial, aponta o recorrente contrariedade ao art. 83, III, do Código Penal, sustentando que, se há limitação temporal para a concessão de indulto, a lógica exige a mesma interpretação para a concessão do livramento condicional.
+In casu, a última falta grave por ele cometida ocorreu em janeiro de 2014, devendo, portanto, ser- lhe concedido o referido benefício legal.
+Requer, assim, a reforma do acórdão recorrido a fim de que seja determinado o retorno dosautos às instâncias ordinárias para nova análise do pedido de concessão de livramento condicional.
+As contrarrazões foram apresentadas às fls. 49-53.
+Inadmitido o recurso especial na origem (fls. 55-59), foi interposto o presente agravo em recurso especial (fls. 61-70).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 87-89).
+O recurso não reúne condições de prosperar.
+O Tribunal de origem, ao concluir pelo indeferimento do livramento condicional, consignou o seguinte (fls. 22-24):
+O cerne da controvérsia recursal reside em verificar se, uma vez comprovados os demais requisitos objetivos, a certidão carcerária confeccionada e expedida pelo diretor do estabelecimento prisional indicando bom comportamento do reeducando é, por si só, suficiente para a concessão do livramento condicional.
+A possibilidade da concessão do livramento condicional encontra-se prevista no artigo 131 da Lei n. 7.210/1984, pelo o qual o "livramento condicional poderá ser concedido pelo Juiz da execução, presentes os requisitos do artigo 83, incisos e parágrafo único, do Código Penal, ouvidos o Ministério Público e Conselho Penitenciário". Por sua vez, o artigo 83 do Código Penal traz requisitos objetivos e subjetivos que precisam estar presentes para a concessão do referido benefício. Nesse sentido, confira-se:
+ ..
+Com efeito, além do imprescindível fator tempo ligado ao cumprimento da pena (incisos I, II e V), deverá o magistrado verificar se o reeducando também apresentou, durante a execução da reprimenda, comportamento satisfatório, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover seu sustento mediante trabalho honesto enquanto estiver reintegrado na sociedade (inciso III), além de ter reparado o dano causado pela infração, se for o caso (inciso IV).
+No caso, o requisito objetivo resta comprovado, pois o agravado completou o lapso temporal necessário ao livramento condicional em 18/06/2018, conforme planilha de cálculo (evento 90 dos autos originários), não havendo, quanto a isso, dúvida e insurgência. Por outro lado, apesar de o diretor do estabelecimento prisional ter atestado por certidões bom comportamento carcerário do agravado (eventos 102 e 106 dos autos originários), observo, inclusive de tais certidões, que ele possui um histórico carcerário de faltas graves.
+Em 07/11/2011, o agravado cometeu a primeira falta grave e foi regredido ao regime fechado (evento 01, anexo 11, dos autos originários); entre 10/10/2012 a 30/04/2014 ficou foragido do distrito da culpa e foi novamente regredido ao regime fechado (evento 05 dos autos originários); no dia 16/09/2017 cometeu novo crime e em 27/04/2018 foi por ele sentenciado e condenado pelo juízo da 2ª vara criminal da comarca de Palmas, sendo confirmada a condenação em segundo grau (autos n.0033808-37.2017.827.2729 e 0012956-94.2018.827.0000).
+Vê-se, portanto, que o agravado praticou várias faltas graves durante a execução penal, tendo sido regredido duas vezes ao regime fechado, o que, ao meu sentir, são fatores que devem ser considerados para não conceder o benefício do livramento condicional, sobretudo porque a certidão carcerária emitida pelo diretor do estabelecimento prisional, apesar de um importante vetor orientador de análise, não é vinculativo, podendo o magistrado, diante do histórico do reeducando durante a execução penal, afastá-la e, com isso, negar a concessão da citada benesse.
+Para a concessão de progressão de regime e livramento condicional, além de preencher o requisito objetivo, consistente no cumprimento de pena por certo lapso temporal, o reeducando deve alcançar o requisito subjetivo, demonstrando possuir condições pessoais favoráveis para tanto.
+A decisão do Tribunal a quo está de acordo com a jurisprudência do Superior Tribunal de Justiça, pois o reeducando cometeu faltas graves e ficou foragido durante a execução da pena, ostentando histórico prisional conturbado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE. REQUISITO SUBJETIVO. AUSÊNCIA. REVERSÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA N. 7 DO STJ. ALÍNEA "C". APLICAÇÃO DA SÚMULA N. 83/STJ. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que, malgrado não interrompa o prazo para fins de livramento condicional, a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante a execução da pena, nos termos do disposto no art. 83, III, do Código Penal.
+2. Na hipótese, o acórdão recorrido entendeu pela ausência do requisito subjetivo para a concessão do livramento condicional. Reexaminá-lo para desconstituir o entendimento firmado pelo Tribunal de origem, implicaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme orientação da Súmula n. 7 do STJ.
+3. Em relação à admissibilidade pela alínea "c", nos termos da Súmula 83/STJ, "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Agravo regimental não provido.(AgRg no AREsp n. 1.359.280/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/11/2018.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. EXECUÇÃO PENAL. COMETIMENTO DE FALTAS GRAVES NO CURSO DA EXECUÇÃO. FUNDAMENTO IDÔNEO PARA O INDEFERIMENTO DO PEDIDO DE LIBERDADE CONDICIONAL. SÚMULA N.º 441 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento adotado pelo Tribunal de origem encontra-se em desconformidade com a orientação do Superior Tribunal de Justiça, consolidada no sentido de que "apesar de a falta grave não interromper o prazo para a obtenção de livramento condicional - Súmula 441/STJ -, as faltas disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo" (AgRg no REsp 1.720.759/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018).
+2. Agravo regimental desprovido. (AgRg no REsp n. 1.762.092/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2018.)
+Ressalte-se ainda que o art. 83, III, do Código Penal não prevê nenhuma limitação temporal para fins de análise do requisito subjetivo para concessão do livramento condicional, cabendo ao magistrado verificar todo o período do cumprimento de pena.
+A propósito:
+EXECUÇÃO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTA GRAVE. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é sentido de que não se aplica limite temporal para aferição de requisito subjetivo com escopo na concessão do livramento condicional, que deve necessariamente considerar todo o período da execução da pena, o que obsta a concessão do referido benefício ao recorrido.
+2. A jurisprudência deste Tribunal Superior é no sentido de que a prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional (Súmula n. 441), impede a concessão da benesse por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exige o art. 83, inciso III, do Código Penal, circunstância que afasta a alegação de bis in idem (AgRg no REsp 1617279/SC, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 19/4/2018, DJe 27/4/2018).
+ ..
+5. Agravo regimental não provido. (AgRg no REsp n. 1.961.829/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/11/2021.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PRÁTICA DE FALTAS DISCIPLINARES DE NATUREZA GRAVE. AVALIAÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE DE LIMITAÇÃO TEMPORAL. JURISPRUDÊNCIA DO STJ.
+1. A orientação emanada pela Corte de origem está em descompasso com a jurisprudência doSuperior Tribunal de Justiça, notadamente porque a prática de falta disciplinar de natureza grave impede a concessão do referido benefício (livramento condicional), por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do que dispõe o art. 83, III, do Código Penal, e que deve ser aferido durante todo o período de cumprimento da punição (AgRg no REsp n. 1.937.166/DF, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 24/8/2021).
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que não se aplica limite temporal para aferição de requisito subjetivo com escopo na concessão do livramento condicional, que deve necessariamente considerar todo o período da execução da pena, o que obsta a concessão do referido benefício ao recorrido (AgRg no REsp n. 1.961.829/MG, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 19/11/2021).
+3. Agravo regimental improvido. (AgRg no REsp n. 1.947.037/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3/3/2022.)
+Por fim, para o STJ adotar entendimento diverso da conclusão a que chegou o Tribunal de origem - não preenchimento do requisito subjetivo pelo recorrente para fins de concessão de livramento condicional -, seria indispensável o reexame de matéria fático-probatória dos autos, procedimento incompatível com a estreita via do recurso especial, por força da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
+Reitera-se queoSTJentende que a falta grave praticada pelo apenado durante o cumprimento da pena, embora não interrompa a contagem do prazo para o livramento condicional, justifica o indeferimento do benefício por ausência do requisito subjetivo.
+Ainda, por não estar previsto nenhum limite temporal noart. 83, III, do Código Penal, para fins de análise do requisito objetivo, para concessão do benefício do livramento condicional, o magistrado deverá verificar todo o período de cumprimento de pena.
+In casu, o reeducando cometeu faltas graves e ficou foragido durante a execução da pena, não fazendo jus, portanto, ao benefício legal ora pleiteado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
