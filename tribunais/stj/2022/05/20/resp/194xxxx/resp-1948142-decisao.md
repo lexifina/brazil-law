@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDAÇÃO CESP, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 12/02/2021.
+Concluso ao gabinete em: 08/07/2021.
+Ação: de obrigação de fazer c/c compensação por danos morais ajuizada por ANA CAROLINA CONÇALVES NOGUEIRA em face da recorrente visando a cobertura do aparelho auditivo BEYOND 440Z BILATERAL, da marca WIDEX, em virtude de perda auditiva sensorial bilateral severa.
+Sentença: julgou improcedente a demanda ante a expressa exclusão de cobertura de prótese sem ligação ao ato cirúrgico e de aparelhos para surdez.
+Acórdão: deu provimento à apelação da recorrida, nos termos da seguinte ementa:
+PLANO DE SAÚDE OBRIGAÇÃO DE FAZER NEGATIVA DE COBERTURA Plano de assistência à saúde na modalidade autogestão - Apesar da inaplicabilidade do Código de Defesa do Consumidor entre administradora do plano e seus participantes, devem ser respeitadas os demais dispositivos legais, sendo que a mera inaplicabilidade do CDC não é suficiente para autorizar qualquer limitação ou exclusão contratual, sob pena de incorrer em verdadeira restrição de direito e inviabilizar o objeto do próprio contrato Sentença de improcedência - Autora portadora de perda auditiva bilateral de grau moderado a severo, tendo sido indicado o uso de aparelho auditivo Negativa de cobertura ao fundamento de que se trata de prótese não ligada a ato cirúrgico e ausência de previsão legal e contratual - Ilegalidade da negativa de cobertura ao aparelho auditivo, pois existente cobertura à doença (perda auditiva), e seu uso está diretamente ligados ao êxito do tratamento - Recusa indevida Danos morais Injusta recusa de cobertura Quantum indenizatório (R$ 10.000,00) Razoabilidade e proporcionalidade Sentença reformada Ônus da sucumbência a cargo da ré - RECURSO PROVIDO.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, VII, parágrafos 3º e 4º, da Lei 9656/98 e 186, 187, 927 e 422 do CC, bem como dissídio jurisprudencial. Defende que por se tratar o plano de saúde de entidade de autogestão, não ocorreu qualquer abusividade na negativa de cobertura do aparelho auditivo. Afirma que há expressa exclusão legal e contratual da cobertura de prótese não ligada ao ato cirúrgico. Aduz que o aparelho que se pretende o custeio não está previsto no rol de coberturas obrigatórias editado pela ANS, que tem natureza taxativa, de modo que foi regular a recusa de cobertura do aparelho auditivo pleiteado.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da recusa de custeio de aparelho auditivo. Súmula 568/STJ
+O acórdão recorrido, ao reformar a sentença, determinando o fornecimento do aparelho auditivo, decidiu em contrariedade à jurisprudência do STJ no sentido de que é válida a cláusula contratual que exclua da cobertura órteses, próteses e materiais quando não ligados a ato cirúrgicoa que se submete o consumidor, nos exatos termos do art. 10, VII, da Lei 9656/98. Nesse sentido: AgInt no AREsp 1732234/SP, 4ª Turma, DJe 24/08/2021; AgInt no REsp 1902233/SP, 4ª Turma, DJe 17/06/2021; e Resp 1.919.376/PE, 3ª Turma, DJe 28/05/2021.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para excluir a cobertura do fornecimento do aparelho auditivo prescrito. Invertida a sucumbência, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. APARELHO AUDITIVO.ÓRTESE E MATERIAL NÃO LIGADO AO ATO CIRÚRGICO. EXCLUSÃO LEGAL.
+1.Consoante a jurisprudência desta Corte Superior, é válida a cláusula contratual que exclua da cobertura órteses, próteses e materiais não ligados a procedimento cirúrgico a que se submete o consumidor.
+2. Recurso especial conhecido e provido.
