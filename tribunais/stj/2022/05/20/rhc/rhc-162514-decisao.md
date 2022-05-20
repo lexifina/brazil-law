@@ -1,0 +1,33 @@
+DECISÃO
+FRANCISCO ELIACIBO DIOGENES NETO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Cearáno HC n. 0623003-24.2022.8.06.000.
+O recorrentepostula sua soltura - com prisão preventiva decretada em 21/1/2017 e denunciado por homicídio duplamente qualificado-, sob o argumento excesso de prazo para o encerramento da instrução.
+Indeferida a liminar (fls. 137-138) e prestadas as informações (fls. 146-154), o Ministério Público Federal opinou pelo não provimento da insurgência.
+Decido.
+Infere-se dos autos que o recorrente e outros 3 indivíduos foramdenunciados pela suposta prática doisdelitos de homicídio qualificado, um consumado e outro tentado.
+Segundo apurou a autoridade policial, a autoria dos delitos foi apurada em investigação no bojo da denominada "Operação Flores", "por meio da qualse verificou a existência de dois grupos criminosos com atuação nesta comarca e que disputavam espaço pela comercialização de drogas, sendo um ligado aos "Diógenes"e outro aos "Ceramistas", dentro deste contexto ocorreram vários homicídios de pessoas que supostamente seriam ligadas aos referidos grupos criminosos, sendo acusados e vítimas integrantes de referidos grupos" (fl. 150).
+O Juízo de origem, em 16/6/2017, recebeu a peça de acusação e acolheu a representação ministerial para decretar a prisão preventiva dos acusados, que estavam encarcerados em estabelecimentos prisionais localizados em outros Estados, em razão de responderem a outras ações criminais.
+Assim, foinecessáriaa expedição de cartas precatórias para a citação dos denunciados. Em relação ao ora insurgente,a carta precatória foi encaminhada para a Comarca de Jundiaí/SP, onde estava encarcerado. Entretanto, foi necessário atribuir-lhe caráter itinerante, em razão da transferência do acautelado para outro presídio, localizado na comarca de Ribeirão Preto/SP.
+A citação foi efetivada no dia 30/9/2017 e em 14/5/2018 foi lavrada certidão nos autos.
+A resposta à acusação foi apresentada em 28/5/2018.
+Foi imperativa a expedição de novas cartas precatóriaspara a oitiva da vítima e para o interrogatório do recorrente. Esta última foi juntada aos autos em 10/1/2019.
+O Magistrado de origem esclareceu "tratar-se de demanda penal complexa com vários acusados, todos presos em unidades prisionais localizados fora do Estado do Ceará, tornando necessário desde o inicio de sua tramitação a expedição de cartas precatórias" (fl. 151).
+Foram realizadas diversas tentativas de localização da vítima, sem sucesso, motivo pelo qual o Ministério Público "manifestou-se nos autos requerendo a dispensa da oitiva da referida vítima, por entender não haver prejuízo, haja vista a possibilidade de oitiva desta, em plenário, caso seja localizada" (fl. 152).
+As alegações finais foram apresentadaspelo órgão de acusação (em em 20/1/2020), pelo corréu Francisco Osivaldo (em 19/6/2020), pelo co-acusado Willame(em 19/6/2020) e pelo ora recorrente (11/8/2020).
+Sobreveio decisão de pronúncia, datada de 23/9/2020, contra qual a defesa do corréu Francisco Osivaldo interpôs recurso em sentido estrito, ao qual o Tribunal estadual negou provimento, em sessão realizada no dia 2/3/2022.
+Certificado o trânsito em julgado da decisão de pronúncia, em 1/2/2022, os autos aguardam manifestação da defesa quanto ao art. 422 do CPP.
+Feitos tais esclarecimentos,ressalto que os prazos processuais previstos na legislação pátria devem ser computados de maneira global, e o reconhecimento do excesso de prazo na prisão deve se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso em sua particularidade.
+Na hipótese, não se verifica constrangimento ilegal, pois o feito registra andamento dentro da razoabilidade, o que se evidencia, especialmente, pelo fato de a instrução criminal já haver se encerrado e haver sido prolatada decisão de pronúncia.
+Tais circunstâncias demonstram ser inafastável a aplicação da Súmula n. 21 do STJ, in verbis (destaquei): "Pronunciado o réu, fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução".
+A propósito:
+RECURSO EM SENTIDO ESTRITO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO. RECLAMO APRECIADO. DELONGA NÃO EVIDENCIADA E JÁ SUPERADA. ORDEM DENEGADA.
+1. Ausente desídia ou negligência d o Juízo singular, que vem sendo diligente na condução do processo, já quem em menos de um ano houve a prolação de sentença de pronúncia em desfavor do réu e, passado menos de outro ano, teve o recurso em sentido estrito julgado pela Corte de origem.
+2. Habeas corpus parcialmente conhecido e, nesta extensão, denegada a ordem.
+(HC n. 287.426/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/8/2014)
+Ademais, não há nos autos demora desarrazoada que enseje a superação do óbice acima. Além de a decisão de pronúncia já haver sido analisada e confirmada pelo Tribunal a quo, consta dos autos que, atualmente, se aguarda a manifestação das defesas quanto ao art. 422 do CPP, tudo aevidenciar que a designação da sessão de julgamento pelo Tribunal doJúri se aproximae a afastar, portanto, a suscitada ilegalidade. Veja-se:
+ ..
+1. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, o Recorrente está preso provisoriamente desde 03/07/2019 e foi pronunciado em 12/03/2020. Assim, aplica-se ao caso o disposto na Súmula n. 21 desta Corte Superior: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+2. Do mesmo modo, não se vislumbra desídia estatal após a prolação da decisão de pronúncia, uma vez que houve pedido de desaforamento formulado pelo Ministério Público estadual, que foi deferido pela Corte local em 09/11/2020; ademais, em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que, em 31/05/2021, o Juízo de primeiro grau deferiu as diligências requeridas na fase do art. 422 do Código de Processo Penal e determinou a inclusão do processo em pauta de julgamento, a evidenciar que a conclusão do feito se avizinha. Por fim, diante das penas em abstrato atribuídas aos crimes imputados ao Acusado na decisão de pronúncia, a prisão preventiva não se revela, no momento, desproporcional.
+3. Recurso ordinário em habeas corpus desprovido, com recomendação de urgência no julgamento do Recorrente.
+(RHC n. 145.902/ES, Rel. Ministra Laurita Vaz, 6ª T., DJe 30/6/2021)
+À vista do exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
