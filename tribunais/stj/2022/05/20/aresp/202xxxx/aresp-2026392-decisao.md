@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta a defesa violação do art. 155, § 4º, II, do CP, alegando que deve ser afastada a qualificadora do abuso de confiança, porquanto este não restou comprovado. Argumenta que a qualificadora deve ser restrita a "casos em que haja claro e inequívoco vínculo de credibilidade entre os envolvidos, não sendo suficiente mera relação de emprego ou outra relação distante" (fl. 125).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O acórdão reconheceu que o furto foi praticado com abuso de confiança, nos seguintes termos (fl. 109):
+A ré, como descrito pela vítima em sede policial e judicial, prestava serviço ao ofendido em sua residência, cozinhando para a filha da vítima de 05 anos de idade. O ofendido foi enfático ao afirmar que sua única atribuição era a de preparar o almoço e fornecer o alimento à criança. Ainda que tenha sido contratada poucos dias antes do furto (estava na função há cinco dias), o ofendido noticiou que conheceu Tais ainda menina, porquanto sua genitora fora casada com um primo do ofendido, o que demonstra relação de confiança. Verifica-se, portanto, que, além da função acordada entre as partes (preparar a alimentação diária de uma criança), a relação pretérita entre ré e ofendido foi determinante para que se estabelecesse grau de confiança superior ao ordinário de uma relação de trabalho, permitindo o acesso de Tais aos documentos pessoais do ofendido. Assim, é possível concluir que a acusada utilizou-se de tal circunstância para perpetrar a subtração.
+Vê-se que, com especial apoio na palavra da vítima, colhida tanto nafase policial quanto judicialmente, o Tribunal de origem concluiu que "além da função acordada entre as partes (preparar a alimentação diária de uma criança), a relação pretérita entre ré e ofendido foi determinante para que se estabelecesse grau de confiança superior ao ordinário de uma relação de trabalho, permitindo o acesso de Taís aos documentos pessoais do ofendido", restando configurado o abuso de confiança.
+Nesse contexto, afastar o entendimento do acórdão demandaria revolvimento probatório, o que não se admite no recurso especial, em razão da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
