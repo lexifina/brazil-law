@@ -1,0 +1,49 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VIOLAÇÃO À NORMA JURÍDICA. ERRO DE FATO.
+
+    As hipóteses em que é admitida a desconstituição de decisão de mérito, transitada em julgado, estão elencadas, de forma expressa e taxativa, pelo legislador, e esse rol não comporta interpretação analógica ou extensiva para ampliá-lo, uma vez que a via estreita da ação rescisória não se presta à correção de eventual injustiça do julgado ou má interpretação dos fatos ou, ainda, ao reexame de provas ou sua complementação.
+
+    Existe 'erro de fato', hábil a ensejar a desconstituição da coisa julgada, quando a decisão rescindenda admitir fato inexistente ou considerar inexistente fato efetivamente ocorrido, sendo indispensável, em ambos os casos, que o fato não represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado. O acórdão rescindendo apreciou as alegações e o conjunto probatório dos autos, sendo que, quanto aos fatos, nenhuma incorreção se verifica da avaliação feita.
+
+    A exigência de prova de dependência econômica em relação ao instituidor, para fins de concessão/manutenção de pensão por morte, com fundamento na Lei n.º 3.373/1958 (vigente à época do óbito), decorre de interpretação conferida à legislação pelo Tribunal de Contas da União, em Orientação Normativa n.º 13, de 30/10/2013, e no Acórdão n.º 2.780/2016, que não tem lastro na norma legal invocada - "a filha solteira, maior de 21 (vinte e um) anos, só perderá a pensão temporária quando ocupante de cargo público permanente." É certo que a jurisprudência condiciona a concessão da pensão à comprovação da dependência econômica da beneficiária no caso de filha divorciada. No entanto, o acórdão não desconsiderou essa situação e, reconhecendo comprovada a dependência econômica, manteve o pagamento da pensão temporária.
+
+    No caso de rescisão de julgado em razão do V do artigo 966 do CPC, a interpretação conferida ao texto legal deve representar violação literal, frontal, e evidente da norma jurídica, o que não resta configurado no caso dos autos.
+
+    É inviável a rescisória quando se pretende, unicamente, rediscutir a justiça da decisão, por mera insatisfação com o deslinde da questão, objetivando transformar a ação rescisória em meio recursal."
+
+    Opostos os embargos de declaração, foram acolhidos em parte.
+
+    No recurso extraordinário sustenta-se violação dos arts. 5º, XXXVI e LV; 37, "caput"; 40, § 12; 71, III; 194, parágrafo único, III; e 201, V, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 1º/2/19).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 20 de maio de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
