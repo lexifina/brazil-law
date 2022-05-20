@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por OROZINO PINTO DE MIRANDA contra decisão que negou seguimento ao recurso especial por ele aviado, oriunda do Tribunal de Justiça do Estado do Paraná.
+Depreende-se dos autos que o agravante foi condenado como incurso no art. 121, § 2º, II e IV, do Código Penal, à pena de14 anos e 3 meses de reclusão, no regime inicial fechado.
+Na sequência, foi dado parcial provimento ao recurso de apelação da defesa para diminuir a pena aplicada. O acórdão está assim ementado (e-STJ fls. 531/532):
+APELAÇÃO CRIME - HOMICÍDIO DUPLAMENTE QUALIFICADO - NULIDADE - INEXISTÊNCIA DE PREJUÍZO DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - PRETENDIDA DESCLASSIFICAÇÃO PARA HOMICÍDIO CULPOSO - INADMISSIBILIDADE - QUALIFICADORAS DO MOTIVO FÚTIL E DA SURPRESA - PRESENÇA DE ELEMENTOS SUFICIENTES A CARACTERIZÁ-LAS - DOSIMETRIA DAREPRIMENDA - ANÁLISE INADEQUADA DAS CIRCUNSTÂNCIAS JUDICIAIS - SANÇÃO REDUZIDA - RECURSO PROVIDO PARCIALMENTE.
+1. Tendo o agente do Parquet efetuado referência, no plenário do júri, ao dolo eventual, mas, não restando esclarecido, nem mesmo nas razões da apelação, com que pretensão se efetivou tal pronunciamento, não há como avaliar se tal circunstância trouxe eventual prejuízo ao réu.
+2. Não é manifestamente contrária à prova dos autos, a decisão dos jurados que acolhe a tese acusatória, proferida com suporte fático consignado nos autos.
+3. Há que se reduzir a pena-base, quando a circunstância judicial for considerada desfavorável ao sentenciado, mas sem a devida fundamentação.
+Foi então interposto recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual se alega a violação aos arts. 476do Código de Processo Penal e 121, § 2º, II e IV, do Código Penal.
+Sustenta a nulidade do julgamento, uma vez que o Ministério Público, durante os debates orais, fez referência ao dolo eventual, que não fora objeto da decisão de pronúncia.
+Aponta a inexistência de provas suficientes para a manutenção da qualificadoras da surpresa e do motivo fútil.
+Requer, ao final, seja declarada a nulidade do processo.
+Contrarrazões às e-STJ fls. 577/580.
+O Ministério Público Federalmanifestou-se pelo não conhecimento do recurso (e-STJ fls. 657/659).
+É, em síntese, o relatório.
+O Tribunal de origem, ao apreciar o recurso de apelação, rechaçou a nulidade sustentada pela defesa, valendo-se dos seguintes fundamentos (e-STJ fls. 534/535)
+4. Consta da ata de julgamento que, "durante os debates o representante do Ministério Público, iniciou o debate acerca do dolo eventual, havendo pedido da defesa para que a acusação limitasse sua fala aos termos da pronúncia", eque, na sequência, após a magistrada ter determinado que "a acusação se restringisse aos termos da pronúncia", aquele pediu para que "constasse da ata que foi impedido de falar do dolo eventual" (fls. 326).
+Não ficou esclarecido na ata, e tampouco consta nas razões de apelo, qual teria sido o motivo que levou o agente do Ministério Público a fazer referência ao dolo eventual, assim como, não consta o que ele pretendia com tal argumentação.
+Diante disto, não há como avaliar se houve influência na decisão tomada pelo Conselho de Sentença e, como consequência, se de tal ato ocorreu prejuízo para a defesa, conforme exige o art. 563 do Código de Processo Penal.
+Verifica-se,a toda evidência, que não há nulidade a ser reconhecida no presente caso. Isso, porque a Magistrada Presidente do Tribunal do Júri não permitiu que o Promotor fizesse referência à tese do dolo eventual.
+Ora, se a tese não pode ser sustentada pelos Jurados, não houve qualquer prejuízo para a defesa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTORSÃO MAJORADA E ASSOCIAÇÃO CRIMINOSA. ARGUIDA NULIDADE DECORRENTE DA FALTA DE INTIMAÇÃO DA DEFESA PARA SUBSTITUIR OU INSISTIR NA OITIVA DE 2 TESTEMUNHAS QUE, INTIMADAS POR CARTA PRECATÓRIA, NÃO FORAM LOCALIZADAS. SÚMULAS N. 283 E 284/STF. PRECLUSÃO. NÃO DEMONSTRAÇÃO DE PREJUÍZO. ART. 563 DO CPP. PEDIDO DE DESCLASSIFICAÇÃO PARA O CRIME DE RUFIANISMO QUALIFICADO (ART. 230, § 2º, DO CP). REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+(..)
+6. Importante mencionar também que, nos termos do art. 563 do Código de Processo Penal, não se declara a nulidade de ato processual sem que haja efetiva demonstração de prejuízo, nos exatos termos do que preconiza o princípio pas de nullité sans grief. Na hipótese, a instância de origem decidiu pela ausência de prejuízo decorrente da não realização dessas provas, não logrando a defesa demonstrar concretamente o desacerto do acórdão recorrido.
+7. Para que fosse possível a análise da tese de desclassificação para o crime de rufianismo qualificado, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+8. Agravo regimental desprovido.
+(AgRg no AREsp 1817460/MG, de minha relatoria, SEXTA TURMA, julgado em 08/03/2022, DJe 14/03/2022)
+Ao examinar a prova, concluiu a Corte de origem pela manutenção do veredicto popular. Confira-se (e-STJ fls. 536/540):
+A testemunha Eli Martins de Oliveira, dono do bar onde ocorreram os fatos, no entanto, afirmou que a vítima começou a fazer indagações ao apelante - queria saber quem ele era e de onde vinha - ao que este nada respondia, até que, após aquela insistir nas perguntas, ele atirou no rosto dela, sem que tenha havido qualquer discussão (fls. 86/87), o que foi corroborado por Rogério Mariano Soares, tio do ofendido, ao afirmar que, apesar de não ter presenciado, soube por terceiros que o crime ocorreu desta maneira (fls. 95).
+Assim, a interpretação dada pelo Conselho de Sentença, não reconhecendo a ausência de animus necandi, encontra efetivo respaldo em uma das versões, que registra que o acusado mirou na cabeça e atirou.
+A decisão do Conselho de Sentença, portanto, não é arbitrária, posto que somente aquela "que nenhum apoio encontra na prova dos autos é que pode ser invalidada" (Julio Fabbrini Mirabete, CPP Interpretado, Editora Atlas, 11ª edição, página 1.488), e deve, pois, ser mantida.
+(..)
+6. No tocante à qualificadora prevista no art.121, § 2º, inciso IV, do Código Penal, por igual, restou devidamente reconhecida pelos srs. jurados, já que conforme asseverou Eli, a testemunha acima referida, a vítima fazia perguntas ao acusado e, de repente, sem qualquer altercação entre eles, este atirou no rosto daquela, ou seja, o ataque foi de surpresa, sem que pudesse oferecer qualquer reação.
+Do mesmo modo, a hipótese prevista no § 2º, inciso II, do mesmo dispositivo, também encontra apoio nos autos, vez que, partindo da análise do conjunto probatório, especialmente pelas palavras da referida testemunha, o móvel do crime foi o fato de o ofendido ficar insistentemente questionando o apelante, o que, de fato, justifica o reconhecimento damajorante, pois é pequeno demais para explicar o cometimento do crime.
+A leitura do excerto acima transcrito evidencia que a manutenção das qualificadoras está justificada, pois apoiada na avaliação daprova testemunhal que narrou como os fatos se sucederam.
+Nesse caso, em que o veredicto encontra respaldo na prova dos autos, não se pode qualificar a decisão dos jurados de manifestamente contrária à prova dos autos. Nesse sentido:
+PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. HOMICÍDIOS QUALIFICADOS. SENTENÇA ABSOLUTÓRIA. APELAÇÃO DO MINISTÉRIO PÚBLICO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. DETERMINAÇÃO DE NOVO JULGAMENTO. IMPOSSIBILIDADE. VERSÃO DEFENSIVA COM APOIO NOS ELEMENTOS COLETADOS DURANTE A INSTRUÇÃO PROCESSUAL PENAL. SOBERANIA DOS VEREDICTOS.
+1. Nos termos da orientação desta Casa, a "anulação do julgamento proferido pelo Conselho de Sentença pelo Tribunal de origem nos termos do artigo 593, III, d, do CPP, somente é possível quando tenha sido aquele manifestamente contrário às provas dos autos. E, decisão manifestamente contrária às provas dos autos, é aquela que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório. Havendo duas versões a respeito do fato, ambas amparadas pelo conjunto probatório produzido nos autos, deve ser preservada a decisão dos jurados, em respeito ao princípio constitucional da soberania dos veredictos" (HC n. 538.702/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2019, DJe 22/11/2019).
+(..)
+3. Habeas corpus concedido para cassar o acórdão proferido pela Terceira Câmara de Direito Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, nos autos do Recurso de Apelação n. 0262252-87.2013.8.19.0004, restabelecendo a sentença absolutória.
+(HC 674.920/RJ, de minha relatoria, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se
