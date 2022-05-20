@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedidoliminar, impetrado contraacórdão assim ementado(fl. 13):
+HABEAS CORPUS - Embriaguez ao volante, resistência, ameaça, lesão corporal c perseguição (stalking) - Prisão preventiva suficientemente fundamentada, contexto em que nem mesmo a existência de condições pessoais favoráveis pode ensejar a liberdade, tampouco a fixação de medidas cautelares alternativas - Paciente reincidente - Alegação de excesso de prazo para a formação da culpa que não encontra guarida, eis que os autos encontram-se aguardando localização da ofendida, arrolada não só pela Acusação, mas também pela Defesa - Alegação que demanda análise aprofundada de elemento de prova, não cabível em sede de habeas corpus - A decretação da prisão preventiva não exige juízo de certeza, próprio da sentença condenatória - Liberdade incabível - ORDEM DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente pela prática dos crimes descritos no art. 306, § 1º, II, do Código de Trânsito Brasileiro, arts. 129, caput, 147, 147-A, §1º, I, e art. 329,caput, todos do CP, na forma do art. 69 do CP.
+Sustenta a defesa,em síntese, que opacientesofreconstrangimento ilegal, ante o excesso de prazo para a formação da culpa. Destaca queestá preso com base em decisão não fundamentada.
+Requer, liminarmente e no mérito, que seja revogada a custódia.
+Indeferida liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se a prévia impetração do HC n. 697.095/SP em favor do paciente, questionando o decreto de prisão de fls. 26/32, sendo indeferido liminarmente em 30/9/2021.
+Assim, sendo a matéria previamente analisada por esta Corte, em impetração formulada em favor do ora paciente, inviável proceder-se novo exame, porquanto "a anterior manifestação desta Corte, emhabeas corpuscom idêntico objeto, torna prejudicado o julgamento do recurso especial" (AgRg no REsp 1765289/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/03/2019, DJe 04/04/2019).
+No tocante à alegação deexcesso de prazo para o encerramento da instrução criminal, verifica-se das informações constantes dos autos e do andamento processual visualizado no sítio eletrônico do Tribunal de origem, que a prisão em flagrante do paciente foi convertida em preventiva no dia 12/7/2021, a denúncia foi oferecida em 16/7/2021 e recebida em 20/7/2021.
+Realizada a audiência de instrução, debates e julgamento em 30 de novembro de 2021, foram inquiridas duas testemunhas arroladas em comum e outra pela defesa, estando os autos no aguardo da realização do concurso policial para localização da ofendida.
+Em 5/5/2022, foi proferida decisão abrindo prazo para apresentação dealegações finais pelas partes se não houver requerimento de diligências.
+Nesse contexto, verifica-se a marcha regular do feito, não se constatandodesídia por parte do Estado, visto que empreendeu esforços para a localização da ofendida.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Dessa forma, no que se refere aos prazos processuais, não se observa qualquer constrangimento ilegal sobretudo porque já encerrada a instrução criminal, incidindo o disposto na Súmula 52 desta Corte, segundo a qual "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
