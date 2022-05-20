@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Flávio Donizeti Pinheiro Júniorcontra o ato coator proferido pela Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Agravo de Execução Penal n. 0014875-89.2021.8.26.0502, negou provimento à insurgência defensiva, mantendo a decisão proferida noPECn. 0004056-93.2021.8.26.0502, pelo Juízo de Direito do DEECRIM da 4ª RAJ da comarca de Campinas/SP, que converteu a pena restritiva de direitos em privativa de liberdade, unificando as penas e fixando o regime inicial fechado para seu cumprimento (fls. 32/35).
+O impetrante alega, em síntese, que a condenação à pena restritiva de direitos se deu após o início do cumprimento da pena privativa de liberdade, não se justificando a reconversão pleiteada, tendo em vista não estar presente a hipótese prevista noart. 44, § 5º, do Código Penal, devendo ser aplicado o art. 76 do Código Penal (fl. 5).
+Pede, liminarmente e no mérito,a concessão da ordem definitiva de habeas corpus, para que seja reconhecido ao paciente o direito ao cumprimento sucessivo de penas, nos termos do art. 76 do Código Penal, determinando-se a exclusão do cálculo de liquidação das sanções restritivas de direitos indevidamente somadas(fl. 13).
+É o relatório.
+In casu, a ordem comporta concessãoin limine.
+A Terceira Seção desta Corte, ao julgar o REsp n. 1.918.287/MG, em 27/4/2022, sob o rito dos recursos repetitivos, assentou a seguinte tese (grifo nosso):
+"Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente."
+No voto vencedor, consignou a Ministra Laurita Vaz (grifo nosso):
+ ..  O art. 44, §5.º, do Código Penal trata de hipótese de conversão facultativa da pena alternativa, ao dispor que "sobrevindo condenação a pena privativa de liberdade, por outro, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior".
+Já a Lei de Execuções Penais prevê no art. 181 hipóteses de conversão das penas de prestação de serviços à comunidade e limitação de fim de semana em pena corporal, a condenação do apenado "por outro crime à pena privativa de liberdade, cuja execução não tenha sido suspensa".
+Ou seja, a legislação prevê que a conversão será possível quando o apenado em cumprimento de pena restritiva de direitos vem a ser condenado à pena privativa de liberdade.
+Entretanto, o caso dos autos versa sobre hipótese contrária, isto é, o réu já estava em cumprimento de pena privativa de liberdade quando sobreveio nova condenação em que a pena corporal foi substituída por pena alternativa.
+Em tais casos, a meu ver, a conversão não conta com o indispensável amparo legal e ainda ofende a coisa julgada, tendo em vista que o benefício foi concedido em sentença definitiva e somente comporta conversão nas situações expressamente previstas em lei, em especial no art. 44, §§4.º e 5.º, do Código Penal.
+Note-se, outrossim, que o art. 111 da Lei de Execução Penal em nenhum momento trata de conversão de pena restritiva de direitos em privativa de liberdade, dispondo apenas que as penas de condenações diversas devem ser somadas para fins de determinação do regime prisional.
+Logo, ao mencionar a finalidade desse somatório para definição do regime prisional, a lei está tratando de penas privativas de liberdade, ou seja, de condenações que já se encontram impingidas sob o formato da pena corporal. Não é possível extrair do aludido dispositivo a imposição de conversão da pena alternativa, que, conforme apontado, somente pode ocorrer conforme o itinerário legal próprio dessa modalidade de pena.
+Não é demasiado acrescer que a pena restritiva de direitos serve como uma alternativa ao cárcere. Portanto, se o condenado fez jus ao benefício, não vislumbro justiça em se agravar a sua situação, ampliando o alcance interpretativo do § 5.º do art. 44 do Código Penal em seu prejuízo, notadamente à vista da possibilidade de cumprimento sucessivo das penas.
+Por outro lado, acompanho o Relator quanto à conversão nos casos em que a condenação à pena privativa de liberdade é posterior à pena restritiva de direitos, nos exatos termos do que dispõe o art. 44, §5.º, do Código Penal e do entendimento consolidado desta Corte de Justiça.
+Em relação à tese do recurso repetitivo e de acordo com o entendimento ora exposto, sugiro a seguinte redação: "Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente."
+ ..
+No caso dos autos, o paciente cumpria pena privativa de liberdade, tendo sido condenado à pena restritiva de direitos pela prática de novo crime.
+Veja o que consta do acórdão impugnado (fl. 56):
+ ..  O agravante teve a pena de sua 2ª execução substituída por restritivas de direitos.
+O juízo executório entendeu por converter as restritivas de direitos em privativa de liberdade, impondo o regime fechado, por incompatibilidade com as penas impostas ao ora agravante na 1ª execução.
+Com toda razão, data venia.
+Consta dos autos que o agravante possui contra si condenações definitivas por crime de roubo qualificado e furto tentado qualificado (f. 11/12 e 26/27).
+Na primeira (Processo nº 1503426-43.2020), denota-se que o agravante encontra-se cumprindo pena de reclusão, em regime inicial fechado.
+Já na segunda (Processo nº 0041350-22.2017), sua pena privativa de liberdade foi substituída por restritivas de direitos.
+Diante disso, por força da primeira condenação, não se verifica a possibilidade de cumprimento das restritivas de direitos aplicadas.  ..
+Como se observa, tanto a decisão de primeiro grau quanto o acórdão impugnado vão de encontro à nova tese firmada pela Terceira Seção deste Superior Tribunal, devendo ser afastada a conclusão de que, no caso, faz-se necessária a reconversão das restritivas de direitos em pena privativa de liberdade.
+Ante o exposto, com base na recente tese firmada pela Terceira Seção desta Corte, no julgamento do REsp n. 1.918.287/MG, em 27/4/2022, concedoliminarmentea ordema fim de cassar a decisão que determinou a conversão da pena restritiva de direitos imposta ao paciente em pena privativa de liberdade (PEC n. 0004056-93.2021.8.26.0502), dada a ausência de amparo legal, devendo, ainda, ser suspensa a execução da pena restritiva de direitos até o cumprimento ou extinção da pena privativa de liberdade, retornando-se o paciente à situação em que se encontrava.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. CUMPRIMENTO DEPENA PRIVATIVA DE LIBERDADE.CONDENAÇÃO À PENARESTRITIVA DE DIREITOS . CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM SANÇÃO CORPORAL E UNIFICAÇÃO DAS REPRIMENDAS. IMPOSSIBILIDADE. NOVO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RESP N. 1.918.287/MG. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordemconcedida liminarmente nos termos do dispositivo.
