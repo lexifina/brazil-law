@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Paraná, com amparo na alínea "a" do permissivo constitucional, contra acórdão do respectivo Tribunal de Justiça assim ementado (e-STJ, fl. 101):
+AGRAVO DE INSTRUMENTO - REVISÃO DE BENEFÍCIO - PENSÃO POR MORTE - TUTELA ANTECIPADA - INTEGRALIDADE DOS VENCIMENTOS DO FALECIDO - MAGISTRADO ADQUIRIU O DIREITO À APOSENTADORIA ANTES DA NOVA NORMA CONSTITUCIONAL - APLICABILIDADE DA SISTEMÁTICA ANTERIOR À EC N. 41/03 POR FORÇA DAS REGRAS DE TRANSIÇÃO NELA PREVISTAS - ARTS. 3º E 7º DA EC N. 41/03 - REQUISITOS DE PLAUSIBILIDADE DO DIREITO E DO RISCO DE DANO IRREPARÁVEL PRESENTES - LIMINAR CONCEDIDA - RECURSO PROVIDO.
+Os embargos de declaração opostos pelo Estado do Paraná foram rejeitados (e-STJ, fls. 128-132).
+Sustenta o recorrente que a concessão da tutela antecipada contrariou o disposto no art. 7º, §§ 2º e 5º, da Lei n. 12.016/2009, uma vez que "em todos os casos em que há vedação à concessão de liminares em mandados de segurança há, igualmente, vedação à concessão de antecipação de tutela em outras espécies de ações. Qualquer outro entendimento destes comandos normativos despe de significado o texto do § 5º do art. 7º da Lei n. 12.016/09" (e-STJ, fl. 155).
+Portanto, como tais normas vedam a concessão de antecipação de tutela que tenha por objeto pagamento de qualquer natureza, a ofensa estaria configurada, ainda que não se trate de mandado de segurança.
+Argumenta o recorrente ainda que a vedação de concessão de antecipação de tutela que tenha por objeto o pagamento de qualquer natureza constitui nova hipótese de vedação aos provimentos antecipatórios contra o Poder Público, a qual apenas passou a existir com a edição da Lei n. 12.016/2009.
+Nesse sentido, a vedação à concessão de liminares e tutela antecipada contra a Fazenda Pública incidia apenasnas causas envolvendo servidores públicos, sendo essa a razão da existência da Súmula n. 729/STF. Porém, tal entendimento não subsistiria atualmente, ante o novo regramento previsto na Lei do Mandado de Segurança, que, em seu art. 7º, § 2º, vedou expressamente a concessão de liminar que tenha como objeto o pagamento de qualquer natureza, o que incluiria os de natureza previdenciária.
+Apresentadas contrarrazões (e-STJ fls. 169-173), o recurso foi admitido na origem (e-STJ, fls. 181-182).
+Parecer do Ministério Público Federalopinando pelo conhecimento e provimento do recurso (e-STJ fls. 193-197).
+É o relatório.
+Conforme consulta processual ao sítio eletrônico do Tribunal de Justiça do do Estado do Paraná, verifica-se que oprocesso originário (0014541-59.2010.8.16.0004) foi sentenciado, inclusive já tendo sido certificado o trânsito em julgado.
+Assim, deve-se reconhecer a perda superveniente do objeto do recurso especial, pois a jurisprudência desta Corte é assentede que "a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento" (AgInt no REsp n. 1.712.508/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe de 22/5/2019).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA NO PROCESSO PRINCIPAL. PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
+1. A prolação de sentença de mérito, mediante cognição exauriente, enseja superveniente perda de objeto de recurso interposto contra acórdão que desproveu Agravo de Instrumento (EDcl no AgRg no Ag 1.228.419/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 17.11.2010).
+2. Eventual provimento do apelo, referente à decisão interlocutória, não teria o condão de infirmar o julgamento superveniente e definitivo que reapreciou a questão.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 1.790.583/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/8/2019, DJe de 13/9/2019).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO EM DESFAVOR DE DECISÃO QUE INDEFERE O PEDIDO DE TUTELA DE URGÊNCIA. PROGRAMA MAIS MÉDICOS. PROLAÇÃO DE SENTENÇA DE MÉRITO. AGRAVO INTERNO PREJUDICADO.
+I - Embargos de declaração conhecidos como agravo interno.
+II - O presente feito decorre de agravo de instrumento interposto no Superior Tribunal de Justiça em desfavor de decisão proferida pelo Juízo da 20ª Vara Federal da Seção Judiciária do Distrito Federal que, nos autos do Processo n. 0068543-16.2016.4.01.3400, indeferiu o pedido de tutela de urgência formulado por Geraldo Gonzalez Talabera, no sentido de garantir sua permanência no Programa Mais Médicos para o Brasil (fls. 57-64). O pedido formulado no agravo de instrumento foi indeferido.
+III - Conforme consulta processual realizada ao site do Tribunal Regional Federal da 1ª Região, verifica-se que o Processo n.0068543-16.2016.4.01.3400, objeto do recurso de agravo de instrumento, já foi decidido em caráter definitivo por meio de sentença publicada no dia 5/10/2018.
+IV - Segundo entendimento desta Corte "fica prejudicado, por perda de objeto, o exame de Recurso Especial interposto contra acórdão proferido em Agravo de Instrumento de decisão liminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença de mérito" (AgRg no AREsp n. 307.087/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 25/6/2014), entendimento este que também deve ser aplicado quando se tratar do julgamento do recurso de agravo interno. Neste sentido: EDcl no AgInt no AREsp n.1.344.445/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019, DJe 10/6/2019.
+V - Ante o exposto, considero prejudicado o presente recurso.
+(EDcl no Ag n. 1.433.723/DF, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 5/9/2019, DJe de 16/9/2019).
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, declaro prejudicado o exame do recurso especial.
+Publique-se. Intimem-se.
