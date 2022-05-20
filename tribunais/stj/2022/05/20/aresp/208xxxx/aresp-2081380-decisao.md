@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CSN MINERAÇÃO S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/07/2021.
+Concluso ao gabinete em: 28/04/2022.
+Ação: embargos à execução, opostos por CSN MINERAÇÃO S/A, em face de RSP GERENCIAMENTO DE SERVIÇOS LTDA. - EIRELI (A&R GERENCIAMENTO DE SERVIÇOS LTDA.).
+Sentença: julgou improcedentes os embargos, extinguindo o processo com resolução do mérito, nos termos do art. 487, I, do Código de Processo Civil, e, em face do princípio da sucumbência, condenou a agravante a ressarcir a agravada as custas e as despesas processuais despendidas, corrigidas a partir das datas dos respectivos desembolsos e a pagar os honorários advocatícios, que foram arbitrados em 10% sobre o valor da causa atualizado.
+Acórdão: deu parcial provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação. Embargos à execução fundada em contrato de prestação de serviços.
+1) Contrato assinado eletronicamente pelas partes, ausentes testemunhas. Artigo 784, III, do CPC. Mitigação jurisprudencial nos casos em que não se nega a existência e a validade do contrato. Preservação do capítulo da sentença que afirmou a presença de título executivo extrajudicial.
+2) Caso concreto: A executada/embargante não negou a existência e validade do contrato, limitando-se a interpretar suas cláusulas e, sucessivamente, caso se entenda que está obrigada a pagar as horas ociosas da prestadora dos serviços, defendeu a possibilidade de glosa do tempo estimado e, no pertinente aos serviços executados, alegou quitação. Necessidade, portanto, de produção de prova pericial, a cargo de engenheiro com experiência em tais serviços, para que a lide seja resolvida com segurança.
+3) Cumpre anular o capítulo da sentença que tratou do mérito, para que, após a prova pericial, seja possível definir o justo valor da dívida.
+Recurso provido em parte." (e-STJ 401)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 784, III, 917, I, 1.022, II, CPC/15, 421, 427, CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que não se pode admitir o processamento de ação executiva por título desprovido da necessária exequibilidade, pois a recorrente suscitou ao longo de todo o processo que o contrato firmado entre as partes se encontra desprovido da assinatura das testemunhas. Além disso, alega que o acórdão recorrido viola também o princípio da pacta sunt servanda e os artigos da legislação civil aplicáveis ao caso, na medida em que reconhece a possibilidade de cobrança de horas ociosas, a despeito da ausência de previsão no contrato firmado entre as partes.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos requisitos para o ajuizamento da demanda e do pagamento das denominadas "horas ociosas", de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 917, I, CPC/15, 421, 427, CC/02, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "não há qualquer controvérsia a respeito da existência e da validade do contrato, e tampouco questionou a agravante a correção das cláusulas discutidas em Juízo", bem como de que "a agravante foi citada e se defendeu, mediante embargos, sem questionar a existência e validade do contrato, limitando-se a negar a sua obrigação de pagar as horas ociosas, porque, segundo afirma, elas não se verificaram e, de qualquer forma, isso não foi pactuado", além de que "o contrato, assinado pelas partes, denominado de encomenda de serviços, menciona, em suas primeiras linhas (fls. 77) que ambas estavam cientes das propostas técnica e comercial correspondentes, nas quais constou a previsão a respeito da obrigatoriedade de remuneração do tempo ocioso da agravada, ocasionado por ação ou inação da agravante", assim também de que "vê-se que a agravante invoca a força da ata da reunião realizada 17 de junho de 2016, pois entende que as partes então convencionaram o final da relação jurídica, mas tal documento, aceito como bom pelas partes, deixa claro que as pendências relativas às horas ociosas seriam examinadas, e não confere quitação pelos trabalhos já executados" e por fim de que "no pertinente às horas perdidas, mostra-se necessária a apuração técnica a respeito das glosas promovidas no relatório de fls. 87/124, para o que o Juízo a quo nomeará engenheiro com experiência em serviços similares aos prestados pela agravada, até porque, segundo o que se apurou, aparentemente não foram medidas as tais horas de ociosidade, na forma do art. 614, § 2º, do Código Civil, conquanto integrassem o escopo do contrato", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
