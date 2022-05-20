@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpusinterposto por FERNANDO FERNANDEZ ACOSTA contra acórdão da 1ª Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso do Sul (HC nº 1404424-27.2022.8.12.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos delitos tipificados nos arts. 29, 34,capute 34, parágrafo único e inciso II, da Lei nº 9.605/98. A custódia foi convertida em preventiva.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunala quo, em acórdão assim ementado (e-STJ fls. 311/318):
+EMENTA - HABEAS CORPUS - CRIMES AMBIENTAIS -PRISÃO PREVENTIVA - PEDIDO DE REVOGAÇÃO - PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA - NECESSIDADE PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL -PRESSUPOSTOS E FUNDAMENTOS DO ART. 312 DO CPP - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - MEDIDAS CALTELÁRES DIVERSAS DA PRISÃO - NÃO RECOMENDADO - INVIABILIDADE DO PEDIDO DE EXTENSÃO DA LIBERDADE PROVISÓRIA CONCEDIDA AO CORREU - ORDEM DENEGADA.
+Havendo prova da existência dos crimes e indícios suficientes de autoria, justifica-se a manutenção da prisão preventiva para resguardar a ordem pública em face da gravidade concreta da conduta, evidenciada no modus operandi. visto que o paciente, juntamente com outro denunciado, foi surpreendido realizando pesca predatória no período de piracema. sendo apreendido com ele diversos petrechos para a realização desse ilícito. Também, teria abatido quatro exemplares de jacarés do pantanal, sendo um deles ainda filhote.
+Ainda, a custódia está justificada para assegurar a aplicação da lei penal, visto que o paciente é estrangeiro e não possui residência no distrito da culpa, bem como. no momento da abordagem policial, tentou fugir para o seu país de origem, o que indica que se vier a ser solto, poderá se furtar da aplicação da lei penal.
+Inviável a aplicação das medidas cautelares previstas no art. 319 do CPP. quando a manutenção da prisão preventiva se mostrarmais recomendável.
+Não há falar em pedido de extensão da liberdade provisória concedida ao correu, quando o paciente não estiver em igualdade de condições.
+No presente recurso, a defesa alega que ao corréupreso com o recorrente e com condições e características pessoais semelhantes foi deferida a liberdade provisória. Defende que "toda a conduta foi praticada exclusivamente com o intuito de prover a subsistência de seu núcleo familiar" (e-STJ fl. 328). Ressalta suas circunstâncias pessoais favoráveis. Defende que não foi demonstrado opericulum libertatis.
+Requer, em liminar e no mérito, a revogação da prisão, inclusive mediante aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+A liminar em habeas corpus, bem como em recurso em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência. A princípio, a custódia encontra-se suficientemente fundamentada na gravidade concreta da conduta e na necessidade de assegurar a aplicação da lei penal. Não obstante, dado o deferimento da liberdade ao corréu, e a similitude de suas condições, considero que a matéria mereceuma análise mais aprofundada para se aferir a existência de constrangimento ilegal, a ser efetivada em momento adequado.
+Ademais, o pedido liminar confunde-se com o próprio mérito, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo do pedido.
+Ante o exposto, indefiro a liminar.
+Encaminhem-se os autos ao Ministério Público Federal.
+Intimem-se.
