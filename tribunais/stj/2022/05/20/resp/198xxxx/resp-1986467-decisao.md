@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto porSANDRO ALEX ROSA DE LORENAcom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁem julgamento de apelação criminal n. 0007449-33.2020.8.16.0019.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06, à pena de05 (cinco) anos de reclusão, a ser cumprida em regime inicial fechado, além do pagamento de 500 (quinhentos) dias-multa.
+Recurso de apelação interposto pela Defesa foi desprovido, e o apelo do Parquet estadual foi provido para redimensionar a pena do ora recorrente para 06 (seis) anos de reclusão, a ser cumprida incialmente no regime fechado, juntamente do pagamento de 600 (seiscentos) dias-multa. O acórdão ficou assim ementado:
+" ..
+APELANTE 02: SANDRO ALEX ROSA DE LORENA.
+1. PRELIMINAR DE NULIDADE DO FEITO POR INVASÃO DEDOMICÍLIO. SITUAÇÃO EXCEPCIONAL PREVISTA NO ART. 5º, XI, DACONSTITUIÇÃO FEDERAL, QUE TORNA LEGÍTIMA A INTERVENÇÃOPOLICIAL A QUALQUER MOMENTO, INDEPENDENTEMENTE DAANUÊNCIA DO MORADOR OU DA EXISTÊNCIA DE MANDADO. CRIME PERMANENTE. JUSTA MOTIVAÇÃO DEMONSTRADA. PRELIMINAR REJEITADA
+2. PLEITO ABSOLUTÓRIO/DESCLASSIFICATÓRIO DO CRIME DETRÁFICO DE DROGAS. AUTORIA E MATERIALIDADE DEVIDAMENTEDEMONSTRADAS. RICA NARRATIVA DOS AGENTES POLICIAIS QUEATUARAM NO CASO. PALAVRA DO RECORRENTE ISOLADA NOSAUTOS. APREENSÃO DE VINTE E TRÊS "PEDRAS DE CRACK", COMMASSA APROXIMADA DE CINCO GRAMAS, NA POSSE DO RÉU. AUSÊNCIA DE APREENSÃO DE APETRECHOS RELACIONADOS AOCONSUMO DE ENTORPECENTES. CIRCUNSTÂNCIAS FÁTICASDEMONSTRAM A INCURSÃO DO RECORRENTE NA TRAFICÂNCIA. NÃO ACOLHIMENTO. CONDENAÇÃO MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+APELANTE 03:MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ.1. DOSIMETRIA DA PENA DO RECORRIDO FERNANDO JOSÉFONSECA BATISTA. PEDIDO PELO AFASTAMENTO DA MINORANTEDO TRÁFICO PRIVILEGIADO. APELADO QUE EFETIVAMENTEATENDE CONCOMITANTEMENTE AOS REQUISITOS ESTIPULADOSPELO ART. 33, §4º, DA LEI Nº 11.343/06. DEDICAÇÃO ÀSATIVIDADES CRIMINOSAS NÃO CONSTATADA. NÃO ACOLHIMENTO. PENA MANTIDA INALTERADA.
+2. DOSIMETRIA DA PENA DO RECORRIDO SANDRO ALEX ROSA DELORENA. A) ALMEJADA VALORAÇÃO NEGATIVA DA NATUREZADO ENTORPECENTE ENCONTRADO NA POSSE DO APELADO. APREENSÃO DE VINTE E TRÊS "PEDRAS DE CRACK". ENTORPECENTE AMPLAMENTE CONHECIDO PELO ALTO PODERDELETÉRIO E VICIANTE. INTELIGÊNCIA DO ART. 42, DA LEI Nº11.343/06. . B) PLEITO PELO AFASTAMENTO DAACOLHIMENTOCOMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM AATENUANTE DA MENORIDADE RELATIVA. FUNDAMENTAÇÃOTECIDA PELA MAGISTRADA SENTENCIANTE ESCORREITA.
+INTELIGÊNCIA DO ART. 67, DO CÓDIGO PENAL. NÃO ACOLHIMENTO. PENA READEQUADA. REGIME FECHADO MANTIDO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fls. 831/832)
+Em sede de recurso especial (fls. 865/877), a Defesa aponta violação ao art. 42 da Lei n. 11.343/06, uma vez que o acórdão majorou a pena-base em virtude da natureza negativa da droga, ignorando a pequena quantidade de droga apreendida (19gde maconha e 5gde crack).
+Requer o provimento do recurso a fim de determinar oafastamento do aumento de pena realizado em virtude da natureza da droga apreendida.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ(fls. 907/911).
+Admitido o recurso no TJ (fls. 915/917) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do recurso especial (fls. 931/936).
+É o relatório.
+Decido.
+Sobre a violação ao art. 42 da Lei n. 11.343/06, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ exasperou a pena-base nos seguintes termos do voto do relator (grifo nosso):
+"b) quanto ao recorrido Sandro Alex Rosa de Lorena:
+Neste ponto, requer a acusação a valoração negativa do vetor , com natureza do entorpecente fulcro nas disposições do art. 42, da Lei nº 11.343/06, haja vista a apreensão de "crack". Ainda, busca o afastamento da compensação entre a agravante da reincidência com a atenuante da menoridade relativa.
+Inicialmente, acerca da possibilidade jurídica de recrudescimento da basilar pleiteada pela acusação, ressalto que a Legislação Antitóxicos garante ao Magistrado a faculdade de elevar apena-base quando apreendida quantidade significativa de drogas, e ainda, quando é localizado, se não veja-se:
+ ..
+No caso em comento, apurou-se que o recorrente foi flagrado na posse de cerca de um vinte e três pedras de "crack", entorpecente que é amplamente conhecido por seu altíssimo grau deletério e viciante, fator que justifica o incremento da basilar.
+ ..
+Consigno que em casos análogos esta Colenda Corte de Justiça entende como escorreita a exasperação da pena-base quando apreendido em posse do agente entorpecentes de maior potencial lesivo, como a "cocaína" ou o "crack", confira:
+ ..
+Dito isto, infere-se que a pretensão acusatória merece guarida, devendo então ser realizado novo cálculo penal, com o fito de elevar-se a pena-base, conforme previsão legal do art. 42, da Lei nº 11.343/06."
+Extrai-se dostrechosacima que o Tribunal de origem incrementou a pena do ora recorrenteacima do mínimo legal em razão da natureza do entorpecenteapreendido. De fato, consoante outro trecho do acórdão que reproduz a denúncia, a apreensão foi de 19 gramas de maconha e 5 gramas de crack(fl. 832).
+Na hipótese em debate, não se mostra justificado, tampouco razoável o referido incremento dado na primeira fase, poisdiminuta quantidade do entorpecente, ainda que de alta nocividade. Assim, deve ser afastada a exasperação da reprimenda básica. No mesmo sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA- BASE. MAJORAÇÃO. QUANTIDADE E NATUREZA DA DROGA. ILEGALIDADE. PENA REDIMENSIONADA.AGRAVO REGIMENTAL IMPROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFICIO. (RE) FIXAÇÃO DA PENA.
+1. Em que pese a natureza mais gravosa do crack, a apreensão de não relevante quantidade dos entorpecentes (23,12g de crack, 0,34g de cocaína e 1,15g de maconha) não pode justificar tratamento gravoso anormal na valoração da pena-base.
+2. Agravo regimental improvido. Habeas corpus concedido de ofício para, reconhecendo ilegalidade na exasperação da pena-base, redimensionar a reprimenda da recorrente, pelo crime de tráfico de drogas, a 1 ano, 11 meses e 10 dias de reclusão, e 193 dias-multa, mantidos os demais termos da sentença.
+(AgRg no AREsp 1966696/DF, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 22/03/2022, DJe 25/03/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. NATUREZA DA DROGA. PEQUENA QUANTIDADE.DESPROPORCIONALIDADE. ALTERAÇÃO DO QUANTUM DE REDUÇÃO PELA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. PATAMAR MÁXIMO (2/3). POSSIBILIDADE. CABÍVEL O REGIME ABERTO. SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. REQUISITOS LEGAIS PREENCHIDOS.AGRAVO REGIMENTAL DESPROVIDO.
+1. A fixação da pena-base acima do mínimo legal se deu unicamente em razão da natureza do entorpecente. No entanto, a despeito da natureza da droga apreendida (crack), a quantidade, na hipótese, - 25,2 gramas de crack -, segundo a orientação desta Corte, não é apta, por si só, a indicar maior desvalor da conduta. Em hipóteses assemelhadas, o Superior Tribunal de Justiça considerou desproporcional a majoração da reprimenda na primeira fase da dosimetria.
+2. O art. 33, § 4.º, da Lei n. 11.343/2006, dispõe que, nos crimes de tráfico ilícito de entorpecentes, as penas poderão ser reduzidas de 1/6 a 2/3, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+3. No caso, as instâncias ordinárias não trouxeram nenhum fundamento para aplicar a fração mínima de 1/6 (um sexto). E, tendo em vista a pequena quantidade de droga apreendida - 25,2 g de crack- , entendo que deve ser aplicada a diminuição no patamar máximo de 2/3 (dois terços), ainda mais quando os Acusados são primários, com a pena-base fixada no mínimo legal.
+4. Redimensionadas as reprimendas dos Acusados e tratando-se de Agravados primários, com a pena-base estabelecida no mínimo legal, tendo sido condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, foi aplicada a causa de diminuição da pena em seu patamar máximo e, não sendo expressiva a quantidade de drogas apreendidas (25,2 g de crack), conclui-se que o regime prisional cabível é o inicial aberto.
+5. De igual maneira, diante da fundamentação já utilizada para fixar o regime inicial aberto, não se justifica o indeferimento do pleito de substituição da pena privativa de liberdade por restritiva de direitos.
+6. Agravo regimental desprovido.
+(AgRg no AREsp 1648640/PA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021).
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para restabelecer a pena dosada na sentença para o recorrente.
+Publique-se. Intimem-se.
