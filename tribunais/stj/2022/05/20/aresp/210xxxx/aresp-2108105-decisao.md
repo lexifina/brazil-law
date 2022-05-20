@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se dedois agravos interpostos por CARLOS ROBERTO FERREIRA e LUIZ CARLOS CASANOVA, contra decisõesque inadmitiramrecursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos,constata-se que o agravo foi interposto contra a decisão que negou seguimento ao recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral, cuja intimação efetivou-se já na égide do novo Código de Processo Civil.
+Consoante o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra decisão que nega seguimento a recurso especial com base no inciso I, "b", do mesmo artigo. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Mesmo que se aceitasse a remota possibilidade da aplicação do princípio da fungibilidade, ainda não seria possível conhecer dos recursos.
+Observa-se, em relação a ambos os recorrentes, CARLOS ROBERTO FERREIRA e LUIZ CARLOS CASANOVA, que a intimação dasdecisõesagravadas ocorreu em 06/12/2021, sendo os agravos somente interpostos em 28/01/2022.
+Os recursos são, pois, manifestamente intempestivos, porquanto interpostos fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre observar que, "de acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro". (AgRg no AREsp 1698961/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/8/2020.)
+Além disso, em consonância com o regramento do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão". (AgRg no AREsp 1612424/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/6/2020.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
