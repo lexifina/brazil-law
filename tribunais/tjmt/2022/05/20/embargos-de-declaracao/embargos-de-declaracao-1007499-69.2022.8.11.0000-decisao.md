@@ -1,0 +1,21 @@
+EMBARGOS DE DECLARAÇÃO – MERA PRETENSÃO DE EFEITOS MODIFICATIVOS – INADMISSIBILIDADE – AUSÊNCIA DE VÍCIOS – RECURSO REJEITADO.
+1. Para acolhimento desta espécie recursal incumbe à parte encaixar sua pretensão nos moldes do art. 1022 do CPC, especificando a incidência da omissão, contradição ou obscuridade na decisão recorrida.
+2. Inexistindo vício, hão de ser rejeitados os embargos de declaração, não se prestando tal meio para reexame da causa ou exercício de juízo de reconsideração.
+Vistos, etc.
+Recurso de embargos de declaração oposto por VALDIRENE AFONSO DO AMARAL e LUANA AFONSO DO AMARAL, através da petição de ID 128203185, contra decisão que indeferiu a liminar vindicada no respectivo Agravo de Instrumento n. 1007499-69.2022.8.11.0000, onde figura como parte contrária CONSTREMA ENGENHARIA E CONSTRUCOES LTDA – ME.
+Em síntese, aduz que a decisão contém vício passível de correção haja vista que (i) deixou de analisar o excesso de penhora alegado e (ii) houve omissão quanto a alegação de existência de bens livres e desembaraçados do executado Amarildo.
+Síntese necessária.
+Para acolhimento dos Embargos de Declaração deve a parte recorrente, de forma clara e precisa, encaixar sua pretensão nos moldes do art. 1022 do CPC, especificando a incidência da omissão, contradição ou obscuridade na decisão recorrida.
+O seu manuseio não tem como finalidade conferir um alcance fora dessa delimitação legal, estando vedada sua utilização como meio de nova incursão nas questões dirimidas com o fim de amoldar à tese defendida por aquele que o manuseia.
+Porém, a intenção neste caso concreto é de pura e simplesmente conferir-se efeitos infringentes ao recurso, não para complementar, mas para rediscutir o entendimento sobre a matéria decida, o que não se deve admitir.
+Veja que este julgador, dentro do livre convencimento, motivou seu entendimento no sentido de que não se verificou presente a probabilidade do direito da agravante, de modo que somente em casos especialíssimos deve ser concedida a tutela de emergência, e os aspectos tratados nos autos, estão a demonstrar a não incidência, no caso, do prescrito no artigo 300 do Código de Processo Civil.
+Mesmo assim, convém anotar que o excesso de penhora sequer foi analisado pelo magistrado de piso, não podendo em segundo grau de jurisdição analisar diretamente tal questão, sob pena de ofensa ao contraditório e duplo grau de jurisdição. Contudo, registra-se que não se configura excesso de penhora a constrição do imóvel de valor superior ao do crédito perseguido, não se sabendo ao certo se o bem penhorado (matrícula 32.951 – Fazenda Santa Terezinha) possui ou não averbações de hipotecas, ou se garante diversas outras execuções propostas contra o executado, cuja matrícula encontra-se desatualizada (ID27992572-Pág. 1/3– cumprimento de sentença n. 0027712-97.2016.8.11.0041), e não há demonstração da existência de outros bens desembaraçados e com valor inferior, passíveis de penhora em substituição.
+Anota-se, que cabe ao executado, ao alegar excesso de penhora, indicar bens hábeis para quitar o débito e não apenas pretender excluir o bem da constrição judicial, sem quitar seu débito ou oferecer outro à penhora.
+Nesse viés, a modificação do interlocutório só é cabível em casos excepcionais ou de extrema ilegalidade, pois o Magistrado é o destinatário da prova produzida pelo autor para fins de concessão de liminar, tratando-se, portanto, de um juízo de cognição sumária.
+Adentrar mais na questão apenas acabaria por satisfazer a intenção da parte embargante em rever o entendimento manifestado, o que é vedado pelo atual ordenamento jurídico, além de ser crível que, dados os fatos, ao julgador cabe a aplicação do direito.
+Adverte-se que, ao julgar, o magistrado não tem obrigação de refutar, um a um, os argumentos dos litigantes, mas tão somente fundamentar suficiente e coerentemente suas conclusões, consoante exigido pelo art. 93, IX, da CF/88 e art. 11 do CPC/15.
+Com estas considerações, REJEITO os embargos de declaração.
+Publique-se para conhecimento dos interessados e, transcorrido o prazo recursal sem irresignação, realizem-se as anotações e baixa de estilo para regular processamento do Agravo de Instrumento.
+Às providências.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
