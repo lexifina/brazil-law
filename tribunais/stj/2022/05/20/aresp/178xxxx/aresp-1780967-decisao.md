@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público de Goiás contra decisão do Tribunal de Justiça local que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido no Agravo em Execução Penal n. 5184789.28.2020.8.09.000 (fls. 372/380).
+AGRAVO EM EXECUÇÃO PENAL. INDULTO. REQUISITO TEMPORAL. PRISÃO PREVENTIVA. 1 - O tempo de prisão preventiva deve ser considerado para fins de preenchimento do requisito temporal necessário para a concessão da benesse do indulto. AGRAVO CONHECIDO E PROVIDO.
+No recurso especial, o agravante indica a violação do art. 42 do Código Penal, requerendo o conhecimento e provimento do presente recurso para reconhecer a impossibilidade de concessão de indulto humanitário ao ora recorrido (fl. 398).
+Apresentadas contrarrazões (fls. 407/416), o Tribunal de origem não admitiu o recurso, por incidência da Súmula7/STJ (fls. 418/419).
+Contra essa decisão, a acusação interpõe o presente agravo (fls. 425/432).
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento e provimento do agravo para dar provimento ao recurso especial (fls. 456/460):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. REQUISITO TEMPORAL. CÔMPUTO DO TEMPO DE CUMPRIMENTO DE PRISÃO CAUTELAR. IMPOSSIBILIDADE. ENTENDIMENTO DO STJ. PROVIMENTO.
+1. Não é possível o aproveitamento do tempo de cumprimento de prisão cautelar para cômputo do lapso temporal exigido para concessão de indulto humanitário, uma vez que esse benefício não se confunde com a detração penal prevista no art. 42 do Código Penal, conforme firme entendimento do STJ.
+2. Parecer pelo conhecimento e provimento do agravo para dar provimento ao recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prospera a tese apresentada pelo agravante.
+Ao tratar da matéria, assim manifestou-se o Tribunal goiano (fls. 375/378 - grifo nosso):
+ ..
+Extrai-se dos autos que o Juiz de Direito da Vara de Execução Penal da Comarca de Goiânia-GO indeferiu o pedido de concessão de indulto, ao argumento de que não preenchido o requisito temporal da benesse, já que não deve ser computado o período de prisão provisória para tanto (evento n. 1).
+A defesa, por sua vez, sustenta que deve ser considerado o período de prisão provisória para análise da concessão do indulto, com a consequente extinção da sua punibilidade - evento n. 1/arquivo n. 1.
+Ora, em que pese a decisão dada pelo magistrado de piso e as contrarrazões apresentadas pelo representante ministerial primígeno, razão assiste à defesa do agravante.
+ANTÔNIO CARLOS SILVA FIAIA foi condenado como incurso nas sanções do artigo 33, caput, c/c § 4º da Lei n. 11.343/06, à pena definitiva de 03 (três) anos e 09 (nove) meses de reclusão, em regime aberto, substituída a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+Compulsando os autos, nota-se que o agravante ficou preso provisoriamente por 01 (um) ano, 10 (dez) meses e 10 (dez) dias, o que configura mais de  (um quarto) da penalidade (equivalente a 11 meses e 7 dias), atingindo o total da fração de cumprimento da pena exigida.
+Na solução de primeiro grau, o condutor do feito fundamentou sua decisão no fato de que o agravante, apesar de primário, não cumpriu mais de  (um quarto) da pena restritiva de direito até 25.12.2017 (data do Decreto Presidencial nº 9.246/17, que regulamenta a concessão do indulto), acrescentando que "(..) não há previsão legal no que se refere à prisão provisória, não sendo possível a concessão do referido indulto com base no período em que o sentenciado permaneceu preso provisoriamente".
+O Decreto Presidencial nº 9.246/17, no artigo 1º, caput, incisos IV e V, permitiu a concessão de indulto a pessoas que, até 25 de dezembro de 2017, tenham cumprido:
+"IV - um quarto da pena, se homens, e um sexto da pena, se mulheres, na hipótese prevista no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006, quando a pena privativa de liberdade não for superior a oito anos;
+V - um quarto do período do livramento condicional, se não reincidentes, ou um terço, se reincidentes, desde que a pena remanescente, em 25 de dezembro de 2017, não seja superior a oito anos, se não reincidentes, e seis anos, se reincidentes;"
+Registre-se, por oportuno, que o período de prisão provisória do requerente ocorreu em período anterior a 25.12.2017.
+Feitos tais apontamentos, observa-se que o artigo 42, do Código Penal, prevê que: "computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória (..)".
+Assim, partindo de uma análise analógica, não me parece razoável que o período que o reeducando permaneceu preso provisoriamente não seja computado para fins de concessão de indulto, mesmo porque, da leitura do artigo supramencionado, percebe-se que a prisão cautelar ou provisória, que, frisa-se, deve ser levada a efeito para fins de detração, também é considerada pena cumprida para todos os fins, ou seja, pode ser abatida do quantum que deve ser cumprido para fins de merecimento de benesses execucionais.
+Em outras palavras, hoje, entende-se que, qualquer período em que o acusado esteve segregado, independentemente da natureza de sua custódia, seja prisão por força de condenação ou preventiva por força de uma medida cautelar, deve ser computado para análise de qualquer espécie de indulto.
+ ..
+Portanto, o período que ANTÔNIO CARLOS SILVA FIAIA permaneceu preso provisoriamente não pode ser desconsiderado para o cômputo do tempo de pena cumprida.
+Nesse diapasão, observado que o agravante já tinha cumprido 01 (um) ano,10 (dez) meses e 10 (dez) dias de prisão preventiva, e o quantitativo de  (um quarto) de sua condenação de 03 (três) anos e 09 (nove) meses equivale a 11 (onze) meses e 07 (sete) dias, nos termos do artigo 1º, incisos IV e V, do Decreto nº 9.246/17, cabível a aplicação do indulto pleiteado, desde que, seja verificado o preenchimento dos requisitos subjetivos necessários para tanto.
+Ao teor do exposto, acolhendo o parecer do órgão ministerial de cúpula, conheço e dou provimento ao presente Agravo em Execução Penal, nos termos acima explicitados.
+ ..
+Com efeito, para a jurisprudência desta Sexta Turma desta Corte Superior, a partir da leitura do comando normativo insculpido no art. 42 do Código Penal, no inciso I do art. 1.º e no inciso I do art. 8.º, ambos do Decreto n. 9.246/2017, não se constata nenhum impedimento expresso para que, tal como pleiteado pela Acusada, e autorizado pelo Tribunal a quo, o tempo de prisão provisória anterior seja computado com o fim de aferir o requisito temporal necessário à concessão do indulto em tela, não sendo condizente com o bom direito, nessa hipótese, a interpretação extensiva para restringir a concessão da benesse.  ..  Portanto, para fins de concessão do indulto previsto no Decreto Presidencial n. 9.246/2017, pode ser computado o tempo de prisão cautelar cumprido anteriormente à sua publicação, cuja condenação tenha transitado em julgado também antes do referido Decreto (REsp n. 1.953.596/GO, Ministra Laurita Vaz, Sexta Turma, DJe 16/12/2021 - grifo nosso).
+Em reforço:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 9.246/2017. REQUISITO OBJETIVO. TEMPO DE PRISÃO CAUTELAR ANTERIORMENTE CUMPRIDA PELO REEDUCANDO. CONTAGEM. POSSIBILIDADE.
+1. De acordo com a jurisprudência desta Corte Superior, considerando-se o disposto no art. 42 do CP e nos arts. 1º, I, e 8º, I, do Decreto n. 9.246/96, não há vedação legal à contagem do tempo de prisão provisória, cumprida anteriormente à edição do decreto presidencial, para a concessão do indulto.
+2. Tendo o Tribunal de origem considerado o tempo de prisão provisória cumprido pelo agravante em período anterior à publicação do Decreto n. 9.246/96, no mesmo processo que originou a condenação e a execução definitiva, deve ser reconsiderada a decisão agravada, pois o acórdão de origem não destoa da jurisprudência desta Corte.
+3. Agravo regimental provido para negar provimento ao agravo em recurso especial.
+(AgRg no AREsp n. 1.789.607/GO, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 13/12/2021 - grifo nosso).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 42 DO CP. DECRETO PRESIDENCIAL N. 9.246/2017. INDULTO. CÔMPUTO DO PERÍODO EM QUE O APENADO CUMPRIU PRISÃO PROVISÓRIA ANTERIOR, CUJA CONDENAÇÃO TENHA TRANSITADO EM JULGADO TAMBÉM ANTES DO MESMO DECRETO. POSSIBILIDADE. JURISPRUDÊNCIA DA SEXTA TURMA.
+Agravo conhecido para negar provimento ao recurso especial.
