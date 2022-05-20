@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Município de Caxias do Sul desafiando decisão que negou provimento a recurso especial, sob os fundamentos de que: (I) aplicável a Súmula 283/STF, visto que não impugnado alicerce do aresto recorrido a respeito da não aplicação da regra do art. 854, § 3º, I, do CPC; e (II) a jurisprudência desta Corte é no sentido de que a quantia inferior a quarenta salários mínimos depositada em conta-corrente, conta poupança ou em qualquer fundo de investimento, decorrentes de verbas salariais, deve ser acobertada pela proteção legal da impenhorabilidade absoluta, nos termos do artigo 833, inciso IV, do Código de Processo Civil.
+O agravante, em suas razões, sustenta que: (i) "não se mostra possível a aplicação do enunciado sumular nº 283 do Supremo Tribunal Federal ao caso concreto, na medida que houve o devido enfrentamento pelo ente público das questões relacionadas a inaplicabilidade dos dispositivos legais suscitados em sede de recurso especial" (fl. 177); e (ii) "a matéria debatida nesta demanda não diz respeito à impenhorabilidade do montante abaixo de quarenta salários mínimos, mas da necessidade de provocação da executada para que seja possível ao juízo avaliar a impenhorabilidade do montante tornado indisponível ou seu excesso" (fl. 177).
+Sem impugnação (fl. 168).
+É O BREVE RELATO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à analise do recurso:
+Trata-se de recurso especial manejado pelo Município de Caxias do Sul, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 66):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA DE VALORES EM CONTA BANCÁRIA. VALORES MENORES DO QUE 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. ARTIGO 833, X, DO CPC. PRECEDENTES STJ.
+Aos valores depositados em conta bancária que não ultrapassem 40 salários mínimos aplica-se a regra da impenhorabilidade do artigo 833, inciso X, do CPC, independente de se tratarem de valores de natureza salarial, de estarem depositados em conta-corrente, caderneta de poupança ou fundos de investimento.
+Entendimento consolidado no Superior Tribunal de Justiça.
+Desnecessária a alegação e comprovação pela parte interessada quando o critério de impenhorabilidade se revela objetivo.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+A parte recorrente aponta violação ao art. 854, §§ 2º e 3º, do CPC. Sustenta, em resumo, que "não pode o juízo "a quo" reconhecer a impenhorabilidade ex officio, uma vez que a legislação processual prevê a necessidade de intimação da parte contrária acerca da indisponibilidade de ativos financeiros" (fls. 97/98).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Tribunal de origem assim deliberou ao solucionar a contenda (fl. 70 - g.n.):
+Não há qualquer nulidade da decisão por não ter antes do desbloqueio intimado o executado. Ademais, por se tratar de critério objetivo, independe do pedido do executado para que seja determinada sua impenhorabilidade, não se aplicando a regra do inciso I do §3º do artigo 854 do CPC.
+A Corte Especial do Superior Tribunal de Justiça adota o posicionamento de que "A impenhorabilidade de bem arrolado no art. 649 do CPC, com exceção feita ao bem de família, deve ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos, sob pena de preclusão" (EAREsp 223.196/RS, Rel. Ministra Eliana Calmon, Rel. p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 18/2/2014).
+Nessa mesma linha, confiram-se:
+PROCESSUAL CIVIL. PENHORA, VIA BACENJUD, DE QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS, MANTIDA EM CONTA CORRENTE. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO. OCORRÊNCIA.
+1. Controverte-se acórdão que afastou a preclusão para o reconhecimento de impenhorabilidade de bem, ao fundamento de que se trata de matéria de ordem pública.
+2. A autarquia federal sustenta que o executado, citado por edital, foi intimado da penhora de dinheiro, via Bacenjud, em junho de 2015, bem como que a Defensoria Pública, representando-o, recebeu a intimação do ato em novembro de 2015.
+3. Acrescenta o recorrente que, não tendo havido impugnação à penhora do bem - mesmo após diversas outras manifestações da Defensoria Pública nos autos -, não poderia o juízo de primeiro grau, dois anos após (isto é, em 2017), declarar a impenhorabilidade do bem e assim anular a constrição judicial.
+4. O acórdão hostilizado destoa da orientação da Corte Especial do STJ. No julgamento dos Embargos de Divergência no Agravo em Recurso Especial 223.196/RS, fixou-se a uniformização da jurisprudência do STJ quanto ao tema, reconhecendo que, à exceção do bem de família, compete à parte interessada suscitar a tese de impenhorabilidade absoluta, sob pena de preclusão: "A impenhorabilidade de bem arrolado no art. 649 do CPC, com exceção feita ao bem de família, deve ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos, sob pena de preclusão. Precedentes" (EAREsp 223.196/RS, Rel. Ministra Eliana Calmon, Rel. p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 18/2/2014).
+5. Recurso Especial provido.
+(REsp 1.800.272/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2019, DJe 29/05/2019)
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. QUANTIA DEPOSITADA EM CADERNETA DE POUPANÇA. IMPENHORABILIDADE. PRECLUSÃO TEMPORAL.
+1- A própria lei processual sugere temperamentos ao caráter absoluto das impenhorabilidades, de modo que se revela fragilizada a ideia de que as constrições sobre os bens constantes no rol do art. 649 do CPC são, em quaisquer situações, descabidas.
+2- A impenhorabilidade de bem arrolado no art. 649 do CPC, com exceção feita ao bem de família, deve ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos, sob pena de preclusão. Precedentes.
+3- Há necessidade, em certas hipóteses, de se impor limites a arguições extemporâneas do devedor, para que o debate a respeito da questão não se prolongue indefinidamente, garantindo-se, assim, segurança jurídica e celeridade aos atos processuais, bem como evitando-se que a lide se converta numa disputa desordenada, sem freios ou garantias pré-estabelecidas.
+4- No particular, a irresignação contra a penhora de numerário que integrava o acervo patrimonial disponível da embargada foi manifestada mais de dois anos após sua intimação, o que evidencia que a constrição não teve como efeito comprometer a manutenção digna da devedora e de sua família - objetivo da proteção garantida pela norma do art. 649 do CPC.
+5- Embargos de divergência acolhidos.
+(EAREsp 223.196/RS, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2013, DJe 18/02/2014)
+Nesse panorama, por estar em dissonância com o posicionamento firmado no STJ sobre o tema, merece reparos o acórdão recorrido.
+ANTE O EXPOSTO, (i) reconsidero a decisão de fls. 157/159, tornando-a sem efeito; e (ii) dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
