@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ERBE INCORPORADORA 037S.A. (ERBE), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Mato Grosso do Sul, assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DE REVISÃO CONTRATUAL C/C RESTITUIÇÃO DE DANOS MATERIAIS E MORAIS - CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL - RECURSODO AUTOR - ATRASO SUBSTANCIALMENTE EXCESSIVO NA ENTREGA DO IMÓVEL - CULPA DA INCORPORADORA - ÍNDICE DE CORREÇÃO DO SALDO DEVEDOR APÓS A DATA LIMITE PARA A ENTREGA DO IMÓVEL - ÍNDICE IPCA - ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA - CESSÃO DE DIREITO- DANO MORAL- INTRANSMISSÍVEL- COMPLEMENTAÇÃO DA MULTA - INDEVIDA - RECURSO DA REQUERIDA - CASO FORTUITO E FORÇA MAIOR INEXISTENTE - ALTERAÇÃO DO ÍNDICEDE CORREÇÃO MONETÁRIA - ENTENDIMENTO DO STJ - RECURSO DO AUTOR PARCIALMENTE PROVIDO- RECURSO DAS REQUERIDAS DESPROVIDOS.1. De acordo com a jurisprudência consolidada pelo Superior Tribunal de Justiça, o descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldodevedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA, salvo quando este último for mais gravoso ao consumidor (Tema n.º 996/STJ).2. Quando promitente comprador cede a terceiro direitos inerentes à promessa de compra e venda de imóvel negociado na planta, sem especificar os limites dessa cessão, transfere ao cessionário a titularidade de direitos patrimoniais inerentes ao contrato, inclusive de reparação a prejuízos dessa natureza (emergentes e/ou lucros cessantes) decorrentes de atraso na entrega do bem. Direitos da personalidade são intransmissíveis. 3. Indevida a complementação da multa, pois a entrega das chavessomente não se deu em razão da inadimplência confessada pelo autor.4. Fatores externos ligados à execução do prédio são inerentes ao risco da atividade e suas consequências não podem ser atribuídas ao consumidor.5. Recurso do autor parcialmente provido. Recurso das requeridas desprovido(e-STJ, fls. 609/610).
+Irresignado,ERBEinterpôsrecurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 393, 422, 423 e 424do CC, ao sustentarque(1)há necessidade de se cumprir as cláusulas contratuais em sua integralidade, sendo indevida a aplicação de restituição das quantias pagas concernentes à taxa de obra, bem como da multa moratória em favor da parte contrária em razão da existência de caso fortuito e força maior.
+O recurso não foi admitido peloTribunal de Justiça do Mato Grossodo Sul com base na aplicação das Súmulas nºs 5 e 7 do STJ(e-STJ, fls. 661/664).
+Nas razões do presente agravo, ERBEalegouque não pretende analisar provas.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+O agravo não merece ser conhecido.
+Consoante pacífico entendimento desta Corte, o agravante deve impugnar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração do que já foi exposto no apelo nobre.
+Da leitura das razões recursais, observa-se que o inconformismo não se dirigiu, de forma específica, contra os fundamentos da decisão agravada, pois o agravante não infirmou devidamente seus esteios.
+Com efeito, o agravante deixou de impugnar, de forma arrazoada, os óbices atinentes à incidência da Súmula nº 5 do STJ, limitando-se, em suma, a afirmar que não pretende reexaminar provas.
+Registre-se que não basta a simples afirmação de que a matéria é exclusivamente de direito, porquanto, na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula 5 do STJ, segundo a qual é vedado o reexame de contrato em recurso especial, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias, providência da qual não se desincumbiu o ora agravante.
+Assim, não pode ser conhecido o agravo.
+A propósito, citem-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. Esta Corte Superior possui o entendimento segundo o qual as normas do Regimento Interno que conferem atribuição aos seus órgãos fracionários tratam de competência relativa, e, portanto, prorrogável, razão pela qual eventual questionamento a esse respeito deve ser suscitado antes do julgamento (logo após a distribuição do feito), sob pena de preclusão. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1720732/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. DUPLICIDADE DE INTIMAÇÕES. OMISSÃO E CONTRADIÇÃO. EXISTÊNCIA. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO DE INAD MISSÃO DO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. A existência de omissão e contradição no acórdão embargado conduz ao acolhimento da pretensão.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Embargos de declaração acolhidos, com efeitos modificativos.
+Decisões monocráticas reconsideradas. Agravo em recurso especial não conhecido, em novo julgamento.
+(EDcl no AgInt nos EDcl no AREsp 1716758/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), NÃO CONHEÇO do agravo em recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de MATHEUS, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. AGRAVO NÃO CONHECIDO.
