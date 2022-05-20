@@ -1,0 +1,62 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CARGO COMISSIONADO. REDUÇÃO DE GRATIFICAÇÃO. DECESSO REMUNERATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Vigésima Primeira Câmara Cível do Tribunal de Justiça do Rio de Janeiro:
+
+    “APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. VENCIMENTOS. SERVIDOR PÚBLICO (MOTORISTA – TJERJ). CARGO EM COMISSÃO. ALTERAÇÃO DE RUBRICA FUNCIONAL DE DAI-6 PARA DAS-6 COM REDUÇÃO NOMINAL DO VALOR PERCEBIDO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. REDUTOR APLICADO DE FORMA NÃO LINEAR. O PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS CONTIDO NO ART. 37, XV DA CF APLICA-SE AOS CARGOS EM COMISSÃO. O LIMITADOR CONSTITUCIONAL DA GARANTIA DE IRREDUTIBILIDADE DE VENCIMENTOS É APLICÁVEL E EFICAZ PARA TODOS AQUELES QUE, DE ALGUMA FORMA, ESTEJAM VINCULADOS À ADMINISTRAÇÃO PÚBLICA. JURISPRUDÊNCIA MAJORITÁRIA DA CORTE, ORIENTADA POR PRECEDENTE DO COLENDO STF. REFORMA DA SENTENÇA. PROVIMENTO DO RECURSO” (fl. 1, e-doc. 4).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o inc. XV do art. 37 da Constituição da República. Argumenta que “a garantia constitucional que impede a redução da remuneração dos servidores públicos não é direcionada a verbas isoladas, mas sim à remuneração total” e que, “no caso dos autos, a remuneração total dos autores aumentou, em que pese o desconto sobre uma rubrica específica” (fls. 3-4,
+e-doc. 7).
+
+    3. O recurso extraordinário foi inadmitido pela ausência de ofensa constitucional direta (e-doc. 9).
+
+    No agravo interposto contra a inadmissão do recurso extraordinário, o agravante sustenta que, “ao contrário do que afirmou o órgão prolator da decisão agravada, a ofensa à norma constitucional aqui é direta. Não se cogita nos autos de qualquer contrariedade a dispositivo de lei federal ou estadual”
+(fl. 2, e-doc. 11).
+
+    Ressalta que “o problema é que o Tribunal local entende que o referido princípio é aplicável apenas ao vencimento base, e, por isso, condenou o ESTADO à devolução do redutor remuneratório pelo fato do vencimento base ter sido alterado do valor do símbolo DAS-6 para o do símbolo DAI-6 (inferior)”
+(fl. 3, e-doc. 11).
+
+    Salienta “não se discut(ir) ofensa reflexa, mas sim o alcance do dispositivo da Constituição da República, com base no quadro fático delineado pelo tribunal local” (fl. 3, e-doc. 11).
+
+    Pede o provimento do presente recurso extraordinário com agravo.
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. Razão jurídica não assiste ao agravante.
+
+    5. No julgamento do Recurso Extraordinário n. 563.965-RG (Tema n. 41), de minha relatoria, o Plenário deste Supremo Tribunal firmou jurisprudência pela inexistência de direito adquirido a regime jurídico, desde que respeitado o princípio da irredutibilidade de vencimentos:
+
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento” (DJe 20.3.2009).
+
+    6. Na espécie vertente, o Tribunal de origem concluiu ter havido decesso remuneratório nos proventos percebidos pelo servidor nos termos seguintes:
+
+    “Conquanto não tenha o servidor direito adquirido a regime jurídico, no momento em que houve a alteração de sua rubrica funcional comissionada de DAS-6 para DAI-6, não poderia a Administração ter feito incidir o denominado redutor de vencimento ‘SAL TETO INDICE 1000’ (...)
+
+    Não houve, portanto, como alega a Administração Pública, simples alteração de nomenclatura das gratificações, mas verdadeira redução de vencimentos travestida de revisão dos critérios de cálculo anteriormente adotados, violando-se o princípio constitucional da irredutibilidade dos vencimentos (...)
+
+    Por tais fundamentos, o voto é no sentido de dar provimento ao Apelo para, reformando-se a sentença impugnada, julgar procedente o pedido inicial, condenando o ESTADO DO RIO DE JANEIRO a abster-se de promover os descontos na folha de pagamento do autor, a título de redutor ‘SAL TETO INDICE 1000’, bem como à devolução dos valores indevidamente já descontados, observada a prescrição quinquenal (Súmula 85, STJ), com correção monetária a partir de cada desconto aplicando-se o IPCA e juros de mora de 0,5% (meio por cento) ao mês (art. 1º-F, da Lei 9.494/97) a partir da citação, e percentual estabelecido para caderneta de poupança, a partir da Lei nº 11.960/2009, condenando o demandado ainda no pagamento de honorários advocatícios de 5% sobre o valor da condenação” (fl. 6-17, e-doc. 4).
+
+    Rever o decidido pelo Tribunal de origem demandaria a análise da legislação infraconstitucional aplicável à espécie e o reexame do conjunto fático-probatório do processo, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 deste Supremo Tribunal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CARGO EM COMISSÃO. APOSTILAMENTO. IRREDUTIBILIDADE DE VENCIMENTOS. TEMA 41. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. INEXISTÊNCIA. PRECEDENTE DO ÓRGÃO ESPECIAL. ALEGAÇÃO DE CONTRARIEDADE AOS INCS. XXXV, LIV E LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMAS 660 E 895. CARÁTER PROTELATÓRIO DO RECURSO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA” (RE n. 1.365.619-AgR, minha relatoria, Primeira Turma, DJe 18.4.2022).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO. VENCIMENTOS. IRREDUTIBILIDADE. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O recurso extraordinário não se presta à análise de matéria infraconstitucional, tampouco ao reexame dos fatos e das provas constantes dos autos (Súmula 279 e 280 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (RE n. 1.365.654-AgR, Relator o Ministro Luiz Fux, Tribunal Pleno, DJe 25.4.2022).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. CONTROVÉRSIA INFRACONSTITUCIONAL. SÚMULA 279/STF. 1. O Supremo Tribunal Federal (STF), no julgamento do RE 563.965-RG, Relª. Minª. Cármen Lúcia, reafirmou sua jurisprudência no sentido de que não há direito adquirido a regime jurídico, assegurada a irredutibilidade de vencimentos. 2. Hipótese em que dissentir da conclusão do Tribunal de origem demandaria o reexame dos fatos e do material probatório constante dos autos, bem como da legislação infraconstitucional. Incidência da Súmula 279/STF. 3. Cabe a majoração de honorários advocatícios em julgamento de Embargos de Declaração. Inteligência do art. 85, § 11, do Código de Processo Civil de 2015. Precedentes. 4 . Quanto à remessa dos autos ao Superior Tribunal de Justiça, o STF possui entendimento no sentido de sua inviabilidade na hipótese de a ofensa reflexa não ser o único fundamento para a negativa do recurso extraordinário, bem como diante da interposição conjunta de recurso extraordinário e especial. 5. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 6. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE n. 1.267.156-ED-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 2.10.2020).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. EXAME DE DIREITO LOCAL. SÚMULA 280/STF. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. TEMA 41 DA REPERCUSSÃO GERAL. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A argumentação do recurso extraordinário (a) impõe a análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário); (b) traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 4. No julgamento do RE 563.965-RG (Rel. Min. CÁRMEM LÚCIA, Tema 41), O SUPREMO TRIBUNAL FEDERAL fixou tese no sentido de que ‘não há direito adquirido a regime jurídico, desde que respeitado o princípio constitucional da irredutibilidade de vencimentos’. 5. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (RE n. 1.334.593-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 20.9.2021).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 20 de maio de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
