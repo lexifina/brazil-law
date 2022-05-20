@@ -1,0 +1,27 @@
+EMBARGOS DE EMBARGOS – DECISÃO DE EMBARGOS DE DECLARAÇÃO – EFEITOS MODIFICATIVOS – INADMISSIBILIDADE – AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO – INEXISTÊNCIA DE EFEITO MODIFICATIVO OU INTEGRATIVO – CARÁTER PROTELATÓRIO – RECURSO REJEITADO COM MULTA.
+1. Para acolhimento desta espécie recursal incumbe à parte encaixar sua pretensão nos moldes do art. 1022 do CPC, especificando a incidência da omissão, contradição ou obscuridade na decisão recorrida.
+2. Inexistindo omissão, obscuridade ou contradição na decisão recorrida, hão de ser rejeitados os embargos de declaração, não se prestando tal recurso para reexame da causa.
+3. Fica reconhecido o caráter protelatório e consequente aplicação da multa prevista no art. 1026, §2o, do CPC.
+Vistos etc.
+Recurso de embargos de declaração oposto por GESLAINE ARRUDA SILVA através da petição de ID 125943153, contra decisão proferida no respectivo Embargos de Declaração n. 1004610-45.2022.8.11.0000, onde figura como parte contrária EGRÉGIA PRIMEIRA TURMA RECURSAL ÚNICA DO ESTADO DO MATO GROSSO, que rejeitou a sua pretensão recursal.
+Em síntese, aduz que a decisão contém vício passível de correção haja vista que o erro material cometido. Afirma que não protocolou este remédio constitucional no PJE/MT em 15.03.2022, tratando-se de remessa imediata, via malote digital interno, de Tribunal Superior para este Tribunal local, em virtude de declínio de competência, não havendo se falar em protocolo tardio neste PJE Estadual. Verbera ainda, que o jurisdicionado não pode ser prejudicado pela mora de protocolo do servidor público detentor do ônus do ato.
+Síntese necessária.
+Após a publicação da decisão encartada no ID 124754682, por meio da qual este julgador, rejeitou a pretensão deduzida nos Embargos de Declaração de ID 123760959, alega a parte Embargante que o acórdão contém vício passível de saneamento.
+Sem maiores delongas, após analisar mais uma vez a decisão em voga, é possível verificar que são impertinentes as colocações, uma vez que esta não contém vício. A questão foi corretamente decidida, assim como apreciadas e sopesadas as teses ventiladas pelas partes, de forma satisfatória, e dentro dos limites legais.
+Demais disso, o cabimento de embargos de declaração com a finalidade de suprir omissão ou sanar contradições não pode levar ao extremo de possibilitar à parte amoldar o decisum aos seus interesses em afronta ao princípio do livre convencimento.
+Como já observado, se a decisão está fundamentada em entendimento diverso daquele que a parte entende pertinente à espécie, tal fato não configura nenhuma das hipóteses de embargos de declaração, na acepção técnico-jurídica.
+Como o limite da matéria passível de ser objeto de embargos de declaração foram visivelmente ultrapassado, almeja posicionamento sobre algo que já foi refutado, resta desvinculado o uso da via dos objetivos visados pelo diploma processual, o que configura abuso de direito.
+Na verdade, conclui-se que a parte embargante não se conformou com a solução dada por esta Corte Estadual à matéria, e então, utilizando-se destes embargos, requer a reforma de decisão objurgada, por meio de efeito infringente para alterar o reconhecimento da intempestividade da sua pretensão.
+Logo, a decisão não contém nenhum dos vícios elencados no art. 1022 do CPC, pois foram examinadas todas as questões que deveriam tê-lo sido, não havendo proposições inconciliáveis entre si, omissões a serem supridas, nem obscuridade a ser aclarada, inclusive no ponto atacado:
+“Isso porque, consultando o extrato processual do Recurso Inominado no 1011115-80.2021.8.11.0002, disponível publicamente no Sistema PJE, verifica-se que a decisão reclamada teve seu trânsito em julgado certificado em 07/12/2021:
+“CERTIFICO que decorreu o prazo de 15 (quinze) dias em 06/12/2021, para interposição de recurso, sem manifestação. CERTIFICO ainda que em cumprimento ao art. 1o, VI, 'a', da Ordem de Serviço no 01/2014 (DJE 13.01.2014), remeto os presentes autos ao Juizado de Origem.” (ID 112238975)
+Como a petição inicial desta demanda foi protocolada neste egrégio Tribunal depois desse termo legal, mais precisamente em 15/03/2022 (ID 121279486), inadmissível seu conhecimento.”
+Convém anotar o art. 988, do CPC, no qual estabelece que ‘Caberá reclamação da parte interessada ou do Ministério Público para: [...] § 5o É inadmissível a reclamação: I – proposta após o trânsito em julgado da decisão reclamada’.
+Correto ou não, o exame da reclamação deu-se de acordo com o livre convencimento motivado do julgador, de acordo com o caso apresentado.
+Logo, se a parte demonstra insatisfação com o posicionamento adotado deve valer-se dos meios corretos, ou seja, dos recursos próprios para combater a decisão, evitando reiterar algo anteriormente rejeitado.
+Adentrar mais na questão apenas acabaria por satisfazer a intenção da parte embargante em rever o entendimento manifestado, o que é vedado pelo atual ordenamento jurídico, além de ser crível que, dados os fatos, ao julgador cabe a aplicação do direito.
+Com estas considerações, REJEITO os Embargos de Declaração e, reconhecendo o caráter protelatório, aplico a multa prevista no art. 1026, §2o, do CPC em 2% sobre o valor da causa.
+Publique-se para conhecimento dos interessados e, transcorrido o prazo recursal sem irresignação, realizem-se as anotações e baixa de estilo para o arquivamento deste incidente.
+Às providências.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
