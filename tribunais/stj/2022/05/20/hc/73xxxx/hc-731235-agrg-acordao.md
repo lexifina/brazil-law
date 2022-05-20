@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DIEGO RODRIGUES interpõe agravo regimental contra decisão de minha relatoria, em que concedi em parte a ordem a fim de estabelecer o regime inicial semiaberto de cumprimento de pena.
+A defesa reafirma que estão presentes os requisitos para a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Pleiteia a reconsideração da decisão anteriormente proferida. Subsidiariamente, pugna pelo encaminhamento deste recurso para julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+O Tribunal de origem, manteve afastada a minorante do tráfico pelos seguintes fundamentos (fls. 42-43, grifei):
+Nesta ação penal, com clareza solar, Diego e Alisson estão envolvidos "com atividades criminosas" porque guardavam quantidade e variedade de entorpecentes muito acima do razoável (01 porção a granel de maconha, com peso líquido de 19,29 gramas; e 01 porção a granel de cocaína, com massa de 41,15 gramas cf. laudos de fls. 33/36 e 145/148), além de expressiva quantia em dinheiro (R$ 4.460,00), dois celulares e petrechos para o fracionamento e embalagens de entorpecentes (2.331 eppendorf"s vazios, 950 microtubos plásticos transparentes, balança de precisão e dois liquidificadores); circunstâncias concretas que, no mínimo, levam à conclusão de que, com habitualidade, recebiam os entorpecentes (mediante compra ou consignação) do grande traficante para, na sequência, comercializá-los no varejo em porções.
+Ademais, não se olvide que a benesse tem natureza excepcional e não regra geral e assim deve ser tratada, sob pena de indevido esvaziamento das sanções em abstrato cominadas para o delito de tráfico de entorpecentes tipificado no caput, aliás, ainda equiparado a hediondo  .. .
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, o Tribunal de origem ao afastar a incidência do benefício em comento mencionou a quantidade e a variedade de drogas apreendidas, bem como a quantia em dinheiro, os apetrechos e as embalagens encontradas.
+Dessa forma, não identifico nenhuma violação legal no ponto em que, fundamentadamente, foi negada ao agravante a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que, em que pese a quantidade não expressiva de drogas apreendidas, foram apontados outros elementos concretos que indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas, quais sejam, a apreensão de apetrechos do tráfico.
+Nesse ponto, esclareço que, em que pese tais apetrechos haverem sido encontrados na residência do corréu, certo é que, de acordo com a Corte estadual, ficou provado nos autos que Diego era ""gerente" do tráfico de drogas nos bairros Colorau e Barcelona" e, em diligência policial, foi identificado o "ponto de venda de drogas, no qual Alisson comercializava os entorpecentes recebidos de Diego" (fl. 34). Assim, consoante o acórdão, ficou comprovada a propriedade da droga aos réus.
+Além disso, "A caracterização do crime de tráfico de drogas prescinde de apreensão de droga em poder de cada um dos acusados, podendo ser comprovada pela existência de estupefacientes com apenas parte deles (REsp n. 1.800.660/MG, Rel. Ministro Nefi Cordeiro, 6ª T.,, DJe 25/5/2020)" (AgRg no HC n. 711.926/MG, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 25/4/2022).
+Ademais, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada em habeas corpus.
+Portanto, fica afastado a apontada negativa de vigência decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+Por fim, quanto ao pedido de progressão de regime, observo que o pleito é inovação recursal, indevida em agravo regimental, de maneira que não deve ser conhecido.
+À vista do exposto, nego provimento ao agravo regimental.
