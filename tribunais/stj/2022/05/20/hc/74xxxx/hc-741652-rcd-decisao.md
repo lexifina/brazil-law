@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado por Herivelto Barbosa Lima da decisão, de minha relatoria, na qual indeferi liminarmente o writ econcedi a ordem de ofício, à vista dos fundamentos sintetizados na seguinte ementa (fl. 340):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. PERCENTUAL PARA A PROGRESSÃO DE REGIME. NOVA REDAÇÃO DO ART. 112 DA LEP. LACUNA EM RELAÇÃO AOS REINCIDENTES SIMPLES. INTEGRAÇÃO DA NORMA PELA ANALOGIA IN BONAM PARTEM QUE SE IMPÕE. APLICAÇÃO DO PERCENTUAL DE 2/5 (40%) EM VEZ DE 3/5 (60%). POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente. De ofício, ordem concedida nos termos do dispositivo.
+Neste pedido, busca o requerente a retirada da equiparação hedionda ao crime de tráfico de drogas, para fins de progressão de regime, ante a alteração legislativa ocorrida após a entrada em vigor da Lei n. 13.964/2019 "pacote anticrime", que deixou de equiparar o delito mencionado àqueles de natureza hedionda, pelo menos para fins de progressão de regime prisional(fl. 348).
+É o relatório.
+Busca a impetração a alteração dos cálculos da pena, em relação à progressão de regime - referente à execução de pena privativa de liberdade de 8 anos e 9 meses de reclusão, em razão de condenação pela prática dos crimes doart. 33 caput,da Lei n. 11.343/2006, c/c o art. 29,caput,e art. 180,caput,ambos doCódigo Penal -, ao argumento de ausência de previsão legal para aplicar as frações de crime hediondo para progressão de regime.
+No caso, tem-se que razão assiste ao requerente, uma vez que o permissivo legal que equiparava o delito de tráfico de drogas a hediondo -a progressão de regime, no caso dos condenados pelos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente, observado o disposto nos §§ 3º e 4º do art. 112 da Lei n. 7.210, de 11 de julho de 1984(art. 2º, § 2º, da Lei n. 8.072/1990) - foi revogado pela vigência da Lei n. 13.964/2019.
+Isso porquea aparente ausência de disposição legal equiparando o crime de tráfico de drogas a delito hediondo não poderia ser suprida por ato extralegal.
+Então, por estarem presentes a probabilidade do direito e o perigo de dano, elementos indispensáveis à concessão da tutela de urgência, reconsidero a decisão de fls. 340/343para, de ofício, conceder a ordeme determinar a alteraçãodos cálculos de pena do paciente, ora requerente, devendo ser consideradas as frações de crime comum para condenação pelo delito de tráfico de drogas, na Execução n. 0001926-46.2020.8.26.0509, da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 5ª RAJ) da comarca de Presidente Prudente/SP.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO EMHABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO PENAL. CARÁTER HEDIONDO DO CRIME DE TRÁFICO DE DROGAS. ALTERAÇÃO PROMOVIDA PELALEIN. 13.964/2019. PACOTE ANTICRIME.
+Pedido de reconsideração deferido para reconsiderar a decisão de fls. 340/343e, de ofício, conceder a ordem nos termos do dispositivo.
