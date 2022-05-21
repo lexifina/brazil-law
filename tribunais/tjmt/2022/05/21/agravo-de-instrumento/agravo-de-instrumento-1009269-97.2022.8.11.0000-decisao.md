@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por RENATA PIRES FERREIRA LEVY, com o fito de reformar a decisão que, nos autos da Ação Reivindicatória de n. 1009334-15.2021.8.11.0037, ajuizada por CLAUDIO MICHAEL LEVY, deferiu o pedido de tutela de urgência e determinou que a requerida, ora agravante, entregue ao autor, ora agravado, o veículo JEEP COMPASS SPORT FLEX, 2021/2021, COR PRETA, CHASSI 98867515WMKK37478, no prazo de 48 (quarenta e oito) horas, sob pena de determinação de medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, nos moldes do artigo 139, IV, do Código de Processo Civil.
+Para tanto, a agravante alega que a decisão recorrida padece de vício insanável, já que a medida liminar foi concedida após a audiência de justificação, sem que a recorrente tivesse sido citada para comparecer ao ato.
+Pondera que o artigo 562, caput, primeira parte, dá ao juiz a possibilidade de deferir a pretensão liminar sem instalar o contraditório. Contudo, se o magistrado optar pela audiência de justificação (art. 562, caput, segunda parte, do CPC), como ocorreu na hipótese dos autos, o contraditório se torna obrigatório, pois há determinação expressa da previa citação do réu.
+Ressalta que a realização do ato sem a sua presença a privou do exercício do seu direito de defesa, razão pela qual a decisão de base deve ser cassada.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, a relevância da argumentação veiculada pela agravante recomenda a concessão da medida pleiteada.
+Isso porque, não obstante os argumentos invocados nas razões recursais, que serão analisados apenas no mérito, após a formação do contraditório, a determinação para que a agravante entregue o veículo objeto da lide em 48 (quarenta e oito) horas evidencia o periculum in mora que autoriza a suspensão da decisão até o julgamento do presente recurso.
+Assim, faz-se prudente a concessão da liminar de efeito suspensivo, para que, até o exame do mérito das questões trazidas à baila, não sejam causados danos irremediáveis à agravante.
+Ante o exposto, CONCEDO a liminar para suspender os efeitos da decisão de base, até o julgamento do presente recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
