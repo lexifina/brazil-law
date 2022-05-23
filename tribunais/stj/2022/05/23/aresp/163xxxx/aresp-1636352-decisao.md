@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ(e-STJ fls. 341/343).
+O acórdão recorrido está assim ementado (e-STJ fls. 247/248):
+PROCESSO CIVIL. EMBARGOS DE TERCEIRO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. INADEQUAÇÃO DA VIA ELEITA. CABIMENTO DOS EMBARGOS DE TERCEIRO. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA.
+- Cabíveis os embargos de terceiro na presente hipótese, uma vez evidenciado nos autos que os autores não figuraram corno partes nos autos da ação cautelar n.º 2004.61.03.003344-0, e destes autos emanou determinação de constrição incidente sobre os imóveis em discussão nos autos, dos quais aduzem serem proprietários.
+- Perda superveniente do objeto da ação, à medida em que o Ministério Público Federal informou e comprovou, às fls. 203/206, a inexistência de restrições sobre os imóveis dos Embargantes, em decorrência de termo de ajustamento de conduta firmado nos autos da Ação Civil Pública n.º.0003341-97.2004.4.03.6103.
+- Reforma da r. sentença quanto aos honorários de sucumbência.
+- Decidiu recentemente o Superior Tribunal de Justiça que: "sendo o processo julgado extinto, sem resolução de mérito, cabe ao julgador perscrutar, ainda sob a égide do princípio da causalidade, qual parte deu origem à extinção do processo sem julgamento de mérito ou qual dos litigantes seria sucumbentes e o mérito da ação fosse, de fato, julgado." (SET. REsp 1.641.160. Rel. Min. Nancy Andrighi. DJE em 21.03.2017).
+- No caso concreto, a perda superveniente do objeto ocorreu no curso dos autos, já na fase recursal, e em decorrência da celebração de termo deajustamento de conduta entre o Ministério Público e a empresa ROMA INCORPORADORA E ADMINISTRADORA DE BENS LTDA. nos autos da ACP n.º 0003341-97.2004.4.03.6103, por meio do qual resultou a baixa das restrições existentes sobre ao imóveis adquiridos pelos Embargantes, de modo tal que não se pode atribuir a perda do objeto superveniente, nesta hipótese, aos autores.
+- Deste modo, deve ser invertido o ônus da sucumbência, para que sejam as Rés condenadas, solidariamente, ao pagamento de honorários de sucumbência, no mesmo patamar fixado pela r. sentença recorrida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 296/300).
+No especial (e-STJ fls. 307/319), fundamentado no art. 105, III, "a" e "c", da CF, orecorrentealegou divergência jurisprudencial eviolação doart. 18 da Lei n. 7.347/1985, sustentando que, "em se tratando de ação civil pública e ações correlatas, não cabe condenação do Parquet Federal em honorários advocatícios, salvo comprovada má-fé, conforme dispõe o artigo 18 da Lei n.º 7.347/1985" (e-STJ fl. 315).
+No agravo (e-STJ fls. 345/361), afirmaa presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto aos honorários advocatícios, entendeu o Tribunal de origem que (e-STJ fl. 246):
+De outro lado, a decisão deve ser reformadano que toca aos honorários de sucumbência, fixados pela r. sentença em desfavor dos autores, no montante de R$ 1.000,00 (um mil reais).
+Decidiu recentemente o Superior Tribunal de Justiça que: "sendo o processo julgado extinto, sem resolução de mérito, cabe ao julgador perscrutar, ainda sob a égide do princípio da causalidade, qual parte deu origem à extinção do processo sem julgamento de mérito ou qual dos litigantes seria sucumbente se o mérito da ação fosse, de fato, julgado." (STJ. REsp 1.641.160. Rel. Min. Nancy Andrighi. DJE em 21.03.2017)
+No caso concreto, a perda superveniente do objeto ocorreu no curso dos autos, já na fase recursal, e em decorrência da celebração de termo de ajustamento de conduta entre o Ministério Público e a empresa ROMA NCORPORADORA E ADMINISTRADORA DE BENS LTDA. nos autos da ACP n.º 0003341-97.2004.4.03.6103, por meio do qual resultou a baixa das restrições existentes sobre ao imóveis adquiridos pelos Embargantes, de modo tal que não sepode atribuir a perda do objeto superveniente, nesta hipótese, aos autores.
+Deste modo, deve ser invertido o ônus da sucumbência, para que sejam as Rés condenadas, solidariamente, ao pagamento de honorários de sucumbência, no mesmo patamar fixado pela r. sentença recorrida.
+A tese de que, para a condenação em honorários advocatícios, seria necessária a comprovação da má-fé por parte do Ministério Público, nos termos do art. 18 da Lei n. 7.347/1985,não foi apreciada pela Corte local, estando ausente o prequestionamento. Incide, portanto, a Súmula n. 282/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
