@@ -1,0 +1,16 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE APELAÇÃO CÍVEL no 0000996-89.2017.8.11.0011 – CLASSE 198 – CNJ – MIRASSOL D’OESTE
+Apelante : LEONICE MARIA MAZALLI
+Apelada: TELMI FREIRE DE ALMEIDA
+Número do Protocolo: 0000996-89.2017.8.11.0011
+Trata-se de recurso de APELAÇÃO CÍVEL interposto por LEONICE MARIA MAZALLI contra a sentença proferida pela MMa. Juíza de Direito da 1a Vara da Comarca de Mirassol D’Oeste/MT, que nos autos da ação de “Execução de Título Extrajudicial” (Proc. no 0000996-89.2017.8.11.0011), ajuizada pela apelante contra TELMI FREIRE DE ALMEIDA, proclamou a prescrição da pretensão executória por entender ser “notória a inexigibilidade da execução, pois se trata título fundado em Nota Promissória, a qual possui datas para vencimento em 25/03/2012 e 01/10/2011, tendo sido a execução ajuizada em 08/03/2017, configurando a ocorrência da prescrição trienal”, e, com fulcro no art. 924, III, do CPC, extingui o feito com resolução do mérito, impondo os ônus sucumbenciais à exequente, inclusive honorários advocatícios, estes que fixou em 10% sobre o valor da causa (cf. Id. no 110589076).
+A apelante deixa de recolher o preparo, sob o argumento de que o apelo visa “a reforma no tocante a gratuidade da justiça indeferida na r. sentença”, e que o “TJMT tem seguindo o entendimento do STJ de ser descabida a necessidade de recolhimento do preparo em recurso que trata da justiça gratuita” (cf. Id. no 110589092).
+Sucede, porém, que, ao revisar os autos, o que se nota é que o pedido de AJG formulado pela exequente/apelante foi objeto de decisão proferida no curso do processo, e não do pronunciamento contido na sentença apelada, que, deliberadamente, nada dispôs sobre o assunto, porque já decidido anteriormente, conforme explicitou a juíza sentenciante ao rejeitar os declaratórios interpostos contra a sentença ao destacar que, “no caso sub judice, vislumbro que a omissão apontada pela parte não comporta acolhimento, haja vista que a sentença obliterada se ateve os fatos contidos nos autos em especial aos documentos que acompanham a inicial, bem como os analisou exaustivamente, sendo externado o entendimento deste Juízo, o que levou ao indeferimento do pedido de justiça gratuita conforme a decisão que recebeu a inicial de id 43004392 página 19” (cf. Id. no 110589088).
+É certo que o benefício da AJG pode ser requerido a qualquer momento, em todos os graus de jurisdição, contudo, após decisão indeferitória, compete ao interessante fazer prova de que houve significativa modificação da situação outrora analisada, a ponto de justificar nova análise da presença dos requisitos necessários à concessão da benesse, o que definitivamente não corresponde à hipótese dos autos, pois, sem nada acrescentar de novo, a ora apelante simplesmente reedita as mesmas afirmações expostas na inicial e reedita o pedido para que seja concedido o benefício que já lhe foi negado.
+Feitas essas considerações, indefiro o pedido de gratuidade da justiça formulado pela exequente/apelante em grau recursal.
+Intime-se a apelante para que, no prazo de cinco dias, recolha o preparo, sob pena de deserção.
+Cumpra-se, expedindo o necessário.
+Cuiabá, 23 de maio de 2022.
+Des. JOÃO FERREIRA FILHO
+Relator
