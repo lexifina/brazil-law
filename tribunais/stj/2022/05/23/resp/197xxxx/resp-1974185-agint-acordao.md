@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PENSÃO. REENQUADRAMENTO. LEI N.11.171/2005.PLANO DE CARGOS E SALÁRIOS DO DNIT. SERVIDOR DO MINISTÉRIO DOS TRANSPORTES. DESCABIMENTO.
+1. No julgamento do REsp n. 1.244.632/CE, submetido ao rito dos recursos repetitivos, a Primeira Seção estabeleceu que " ..  o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos seus servidores ativos do DNIT, pois esta autarquia é que é a sucessora do DNER, não havendo razão jurídica para justificar qualquer disparidade".
+2. No caso, segundo o registro das instâncias ordinárias, o instituidor da pensão nunca pertenceu aos quadros do DNER, esteve lotado apenas no Ministério dos Transportes. Por isso, o disposto na Lei n. 11.171/2005 não o alcança.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interpostocontra decisão que negou provimento arecurso especial. Na oportunidade, consignou-se que apenas o servidor aposentado do extinto DNER, integrante do quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de proventos a retribuição dos servidores ativos do DNER absorvidos pelo DNIT.
+A agravante defende descaber tratamento diferenciado aos servidores inativos dos extintos órgãos que foram substituídos pelo DNIT, como a RFFSA e o DNPC. Argumenta que, nos termos do art. 81 da Lei n. 10.233/2001, umas das atribuições do DNIT " .. é a atuação justamente nas vias navegáveis e ferrovias federais, justamente as funções exercidas anteriormente pela RFSSA e pelo DNPRC" (e-STJ, fl. 468).
+Explica que, "com a entrada em vigor da Lei 11.171/2005, o autor e todos antigos servidores do DNER e do Ministério do Transporte, que exerciam as mesmas atribuições dos servidores do DNIT, foram lesionados porquanto passaram a receber valores menores do que lhes eram devidos em razão da regra da paridade" (e-STJ, fl. 469).
+Acrescenta que "a manobra da administração de extinção de órgãos e criação de plano de cargos diferenciado lesionou o preceito da paridade previsto no art. 40, § 8º, da CF, antes da entrada em vigor da EC 41, de 19 de dezembro de 2003  .. " (e-STJ, fl. 472).
+Impugnação da parte contrária às e-STJ, fls. 485-488.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PENSÃO. REENQUADRAMENTO. LEI N.11.171/2005.PLANO DE CARGOS E SALÁRIOS DO DNIT. SERVIDOR DO MINISTÉRIO DOS TRANSPORTES. DESCABIMENTO.
+1. No julgamento do REsp n. 1.244.632/CE, submetido ao rito dos recursos repetitivos, a Primeira Seção estabeleceu que " ..  o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos seus servidores ativos do DNIT, pois esta autarquia é que é a sucessora do DNER, não havendo razão jurídica para justificar qualquer disparidade".
+2. No caso, segundo o registro das instâncias ordinárias, o instituidor da pensão nunca pertenceu aos quadros do DNER, esteve lotado apenas no Ministério dos Transportes. Por isso, o disposto na Lei n. 11.171/2005 não o alcança.
+3. Agravo interno a que se nega provimento.
+VOTO
+As razões do presente agravo interno não demonstram desacerto no julgamento monocrático.
+Na origem, tem-se ação ordinária ajuizada por pensionista com vista ao reposicionamento de benefício de acordo com a tabela remuneratória do pessoal ativo do DNIT.
+Julgado improcedente o pedido, o Tribunal regional, em apelação,manteve esse resultado, estabelecendo que o instituidor da pensão nunca pertenceu aos quadros do DNER, bem como que a Lei n. 11.171/2005 apenas beneficia inativos e pensionistas de servidores nessa situação.
+Confira-se (e-STJ, fl. 228):
+No caso concreto, infere-se da documentação colacionada aos autos que o instituidor da pensão, embora vinculado ao Ministério dos Transportes, nunca pertenceu aos quadros do DNER (Id. 4058400.1672966), de forma que a respectiva pensionista não faz jus ao enquadramento pleiteado, vez que a Lei 11.171/2005, que se pretende utilizar como paradigma, só pode beneficiar os inativos e pensionistas do Ministério dos Transportes oriundos do extinto DNER, nos termos em que decidiu a Corte Suprema.
+Esse posicionamento não destoa do entendimentodo Superior Tribunal de Justiça.
+No julgamento do REsp n. 1.244.632/CE, submetido ao rito dos recursos repetitivos, a Primeira Seção estabeleceu que " ..  o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos seus servidores ativos do DNIT, pois esta autarquia é que é a sucessora do DNER, não havendo razão jurídica para justificar qualquer disparidade".
+Na oportunidade, consignou-se ainda que " .. o fato de ter a lei transferido ao Ministério dos Transportes a responsabilidade pelo pagamento dos inativos do extinto DNER não pode tornar se efeito a norma que determina a paridade entre ativos e inativos oriundos do mesmo quadro de pessoal, ainda que atualmente estejam vinculados a entidades distintas por força de legislação superveniente".
+Ocorre que, no caso, segundo o registro das instâncias ordinárias,o instituidor da pensão nunca pertenceu aos quadros do DNER; apenas esteve lotado no Ministério dos Transportes. Por isso, o disposto na Lei n. 11.171/2005 não o alcança.
+A propósito:
+ADMINISTRATIVO. SERVIDOR. PADRÃO REMUNERATÓRIO. EQUIPARAÇÃO. INSTITUIDOR DO BENEFÍCIO. QUADRO DIVERSO DO PARADIGMA. DIREITO. INEXISTÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Esta Corte, no julgamento do REsp 1.244.632/CE - realizado sob a sistemática dos recursos repetitivos - firmou a compreensão de que "o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos servidores ativos do DNER absorvidos pelo DNIT, pois esta autarquia é que é a sucessora do DNER, não havendo razão jurídica para justificar qualquer disparidade.".
+3. Hipótese em que o instituidor do benefício com base no qual se postula a paridade pertence a quadro de pessoal diverso do DNER (Ministério dos Transportes), a saber, a Rede Ferroviária Federal, pelo que descabe falar em direito à equiparação com fulcro no aludido paradigma.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.659.930/RN, relatorMinistro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 2/12/2019, DJe de 6/12/2019).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRESTAÇÃO DE SERVIÇOS NO EXTINTO DNER. DNIT. SUCESSOR DO DNER. VINCULAÇÃO DO INATIVO AO MINISTÉRIO DOS TRANSPORTES. PLANO DE CARGOS E SALÁRIOS DO DNIT. EXTENSÃO À PENSIONISTA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. PREQUESTIONAMENTO IMPLÍCITO. POSSIBILIDADE. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A questão sub judice é eminentemente infraconstitucional, uma vez que diz respeito à relação jurídica existente entre os antigos servidores do DNER que, após sua extinção, foram transferidos para o quadro de servidores do Ministério dos Transportes - e, por conseguinte, aos respectivos aposentados e pensionistas - tendo em vista a posterior edição da Lei 11.171/05, que trata das carreiras e do Plano de Cargos e Salários do DNIT.
+2. "Esta Corte admite o prequestionamento implícito nos casos em que as questões debatidas no recurso especial foram decididas no acórdão recorrido, sem a explícita indicação dos artigos de lei que fundamentam a decisão" (AgRg nos EDcl nos EDcl no REsp 1.160.719/PE, Rel. Min. JORGE MUSSI, Quinta Turma, DJe 14/3/11).
+3. "Em sede de recurso especial, é defeso o exame de matéria constitucional, ainda que para fins de prequestionamento" (AgRg no Ag 1.057.084/RS, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 2/9/09).
+4. Manutenção da decisão agravada, que, em consonância com o entendimento firmado pela Primeira Seção no julgamento do REsp 1.244.632/CE (Rel. Min. CASTRO MEIRA, DJe 13/9/11), sob o rito dos recursos representativos de controvérsia repetitiva previsto no art. 543-C do CPC, reconheceu à pensionista de servidor aposentado do extinto DNER, transferido para o quadro de inativos do Ministério dos Transportes, o direito de ter como parâmetro de sua pensão a retribuição paga aos servidores ativos da referida autarquia absorvidos pelo DNIT.
+5. Agravo regimental não provido.
+(AgRg no REsp n.1.276.551/CE, relator Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 28/8/2012, DJe de 5/9/2012).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
