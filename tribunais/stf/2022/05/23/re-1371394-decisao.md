@@ -1,0 +1,65 @@
+DECISÃO: Trata-se de dois recursos extraordinários interpostos por GETNET TECNOLOGIA EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES H.U.A.H. S/A e por UNIÃO com base no art. 102, inciso III, da Constituição Federal interpostos contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO .
+
+    Os apelos extremos de GETNET TECNOLOGIA EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES H.U.A.H. S/A e UNIÃO foram interpostos com fundamento nas alíneas "a" e "b" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO. IRPJ. CSLL. JUROS DE MORA DECORRENTES DE DEPÓSITOS JUDICIAIS, VALORES RECEBIDOS VIA REPETIÇÃO DE INDÉBITO E JUROS CONTRATUAIS. INCIDÊNCIA.
+
+    1. Incidem IRPJ e CSLL sobre juros e correção monetária recebidos em decorrência de levantamento de depósitos judiciais. Orientação sufragada no julgamento do REsp nº 1.138.695/SC, submetido ao regime do recurso repetitivo (artigo 543-C do CPC).
+
+    2. Não incidem IRPJ e CSLL sobre juros e correção monetária recebidos em decorrência de restituição de tributos. Não se aplica a orientação sufragada no julgamento do REsp nº 1.138.695/SC, submetido ao regime do recurso repetitivo (artigo 543-C do CPC), tendo em vista o que decidiu a Corte Especial do Tribunal Regional da 4ª Região no Incidente de Arguição de Inconstitucionalidade nº 5020732-11.2013.404.0000, Rel. Desembargadora Federal Luciane Amaral Corrêa Münch, julgado em 24/10/2013).
+
+    3. No que toca aos juros e demais encargos moratórios incidentes sobre pagamentos efetuados em atraso pelos clientes da impetrante, não há como negar o seu caráter remuneratório, porquanto integram a receita total auferida pela empresa em razão da prestação do serviço ou venda de produtos. Assim, não há dúvidas de que integram a base de cálculo das exações em comento. Precedente de ambas as Turmas que compõem a Primeira Seção desta Corte.
+
+    Opostos os embargos de declaração por UNIÃO, foram acolhidos em parte sem efeito modificativo
+
+    Quanto aos embargos de declaração opostos por GETNET TECNOLOGIA EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES H.U.A.H. S/A, foram rejeitados.
+
+    No recurso extraordinário de GETNET TECNOLOGIA EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES H.U.A.H. S/A sustenta-se violação do(s) art.(s) 145, § 1º; 146, inciso III, alínea 'a'; 153, inciso III; 195, incisos I, alínea 'c', e III da Constituição Federal.
+
+    Quanto ao recurso extraordinário de UNIÃO sustenta-se violação do(s) art.(s) 97 da Constituição Federal.
+
+    Decido.
+
+    Quanto à insurgência de GETNET TECNOLOGIA EM CAPTURA E PROCESSAMENTO DE TRANSAÇÕES H.U.A.H. S/A, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário. Direito Tributário. Base de cálculo do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL). Pretendida exclusão do valor de ICMS. Contribuinte optante pelo sistema de lucro presumido. Controvérsia infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1%(um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).” (RE 1.239.422-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe de 15/9/2020)
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Base de cálculo do IRPJ e da CSLL. Exclusão dos valores contabilizados a título de ICMS. 3. A conceituação de lucro, base de cálculo de tais exações, não prescinde do exame da legislação complementar federal, o que distingue a controvérsia recursal daquela referente ao tema 69 do Plenário Virtual, que envolve o conceito constitucional de faturamento. Precedentes. 4. Negado provimento ao agravo regimental, sem majoração de honorários.” (ARE 1.020.143- AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 1/8/2019)
+
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CSLL E IRPJ. BASE DE CÁLCULO. LUCRO PRESUMIDO. EMPRESA PRESTADORA DE SERVIÇO DE MÃO DE OBRA TEMPORÁRIA. VALORES RECEBIDOS PARA O PAGAMENTO DE SALÁRIOS E DEMAIS ENCARGOS TRABALHISTAS E SOCIAIS. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. INVIABILIDADE EM SEDE EXTRAORDINÁRIA. EQUIVALÊNCIA DAS EXPRESSÕES “FATURAMENTO” E “RECEITA BRUTA”. TOTALIDADE DAS RECEITAS AUFERIDAS COM A VENDA DE MERCADORIAS E SERVIÇOS. AGRAVO REGIMENTAL DESPROVIDO.” (AI 860.933-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJ de 9/12/2015).
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. IPI. BASE DE CÁLCULO. TRIBUTOS INCIDENTES NA SAÍDA DO ESTABELECIMENTO IMPORTADOR. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. O Tribunal de origem, com apoio na legislação infraconstitucional e no acervo fático probatório, decidiu pela validade da base de cálculo do IPI na saída do estabelecimento importador. Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional aplicável (Código Tributário Nacional e IN SRF nº 247/2002), bem como do acervo probatório dos autos, providência inviável em recurso extraordinário. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1.190.689-AgR, Rel. Min Roberto Barroso, Primeira Turma, DJe de 24/10/2019).
+
+    Já quanto à insurgência de UNIÃO, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+
+    III - Agravo regimental a que se nega provimento.”(ARE 784.179-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/2/2014)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+
+    Agravo regimental a que se nega provimento.”(ARE 767.313-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 26/3/2015)
+
+    Além disso, o Supremo Tribunal Federal, examinando o Recurso Extraordinário nº 1063187 segundo a sistemática da repercussão geral (Tema nº 962), decidiu que: há repercussão geral - Acórdão de mérito publicado.
+
+    Ex positis, quanto ao(s) recurso(s) interposto por UNIÃO, no ponto relativo ao enquadramento, determino a devolução dos autos à Corte de origem para que adote, conforme a situação do(s) referido(s) tema(s) de repercussão geral, os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). Quanto ao mais, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 23 de maio de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
