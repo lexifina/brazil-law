@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, que,fundado no art. 105, III, a, da Constituição Federal, visava reformaracórdão proferidopelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. GARANTIA DO JUÍZO. DECISÃO QUE REJEITOU A INDICAÇÃO DO BEM À PENHORA. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. VEÍCULO QUE NÃO ATENDE À ORDEM PREFERENCIAL. NÃO OBSERVÂNCIA DO ARTIGO 11 DA LEI 6.830/80. MANUTENÇÃO DA DECISÃO AGRAVADA. PRECEDENTES JURISPRUDENCIAIS DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO TRIBUNAL DE JUSTIÇA. DESPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Rememora- se que, por ocasião do julgamento do Tema repetitivo 578 do C. STJ, restou consignado que o Executado deve comprovar a imperiosa necessidade de afastar a ordem legal de preferência, sendo insuficiente a mera invocação genérica de onerosidade excessiva. Todavia, ao contrário do que restou decidido, a Recorrente não suscitou de forma genérica a excessiva onerosidade, portanto necessário estabelecer o distinguishing, visto que a situação sob julgamento não se amolda aos parâmetros fáticos do precedente invocado.
+ ..
+Merece reparo a decisão unipessoal do Ministro Relator que entendeu que " ..  a apresentação genérica de ofensa aos arts. 489 e 1.022 do CPC atrai o comando do art. 284 do STF". 17. Ao contrário do exposto na decisão objurgada, o recurso não tem como fundamento violação ao art. 489 e 1.022 do CPC, mas, sim violação ao art. 805 do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. DÍVIDA ATIVA. EXECUÇÃO FISCAL.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. TEMA N. 578 DO STJ. INCIDÊNCIA DA SÚMULA N. 284 DO STF.
+I - Na origem, trata-se de agravo de instrumento com pedido de tutela provisória recursal contra decisão proferida pelo MM. Juízo da 17ª Vara de Fazenda Pública da Comarca da Capital que, emação de execução fiscal, rejeitou o bem nomeado e determinou a penhora de ativos financeiros em desfavor da executada.No Tribunala quo, negou-se provimento ao pedido.
+II - Primeiramente, diante da negativa de seguimento daparcela recursal referente à violação dos arts. 6º, 9º, 10 e 805 do CPC/2015, em virtude do entendimento firmado no Tema n. 578/STJ, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que o presente recurso especial versará apenas acerca da parcela remanescente, qual seja, a existência de violação dos arts. 489 e 1.022 do CPC/2015.
+III - Em relação à alegada violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula. Nesse panorama, a apresentação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015 atrai o comando do Enunciado Sumular n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", inviabilizando o conhecimento dessa parcela recursal.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Primeiramente, diante da negativa de seguimento daparcela recursal referente à violação dos arts. 6º, 9º, 10 e 805 do CPC/2015, em virtude do entendimento firmado no Tema n. 578/STJ, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que o presente recurso especial versará apenas acerca da parcela remanescente, qual seja, a existência de violação dos arts. 489 e 1.022 do CPC/2015.
+Em relação à alegada violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula. Nesse panorama, a apresentação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015 atrai o comando do Enunciado Sumular n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia",inviabilizando o conhecimento dessa parcela recursal.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
