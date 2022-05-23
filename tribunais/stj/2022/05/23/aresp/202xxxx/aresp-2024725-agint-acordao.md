@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto porSUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A.contra decisão da Presidência do STJ, e-STJ fls. 108/109, que não conheceudo agravo em recurso especial, pois aagravante não impugnou especificamente todos os fundamentos da decisão agravada, no caso, a violação do art. 1.022 do CPC/2015 e aSúmula 7 do STJ.
+A parte agravante alega que o Tribunal de origem se manteve omisso mesmo após a oposição de embargos de declaração e que o recurso interposto visava àmodificação do acórdão recorrido quanto à inversão do ônus da prova e, por isso, não demandaria reexame de fatos e provas(e-STJ fls. 114/120).
+Decurso do prazo para impugnação  .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+No caso, da análise dos autos, verifico que a parte agravante, quantoà afronta ao art. 1.022 do CPC/2015, apresentoualegação sem qualquer contextualização do caso concreto.
+Outrossim, deixou de impugnar específica e adequadamente a Súmula 7 do STJ aovaler-se das razões seguintes para afastar a incidência do referido verbete sumular (e-STJ fl. 91):
+Por óbvio, a questão não envolve o reexame de questão de fato, inclusive por tratar-se de matéria exclusivamente de direito. Vale aduzir que o impedimento estabelecido na Súmula n.º 07 do STJ envolve a impossibilidade de ser levado ao conhecimento dos Tribunais Superiores questões de fato, aquelas mesmas questões apresentadas em processo de conhecimento que são controvertidas e busca-se, com a ampla cognição, estabelecer a verdade possível para aplicação do direito. Se o objeto do recurso versar sobre interpretação equivocada do Juízo sobre valoração de provas, inegável que estaremos diante de questões inerentes ao campo fático-probatório. No presente caso, o mérito é abstrato e a controvérsia independe de provas, mas sim da interpretação do fato à luz da legislação vigente. Não se pode confundir estes casos com aqueles vedados pela Súmula n.º 07, sob pena de inviabilizar todo e qualquer recurso. Como se vê, a questão não envolve análise fática-probatória, envolvendo tão somente questões de direito e que devem ser conhecidas no recurso especial interposto, não podendo prevalecer a decisão que não lhe admitiu pela inadequada aplicação da Súmula n.º 07.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Acerca da hipótese:
+PROCESSUAL CIVIL. DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR IDADE HÍBRIDA. REQUISITOS NÃO CUMPRIDOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. IMPUGNAÇÃO ESPECÍFICA NÃO COMPROVADA. ALEGAÇÕES GENÉRICAS. ART. 932, III, DO CPC.
+1. A insurgente apresenta argumentação genérica para tentar afastar o óbice previsto na Súmula 7 do STJ, utilizado pelo Tribunal a quo para negar seguimento ao recurso.
+2. Em momento algum, indica os fatos incontroversos admitidos no acórdão recorrido sobre os quais pretende que seja feita nova valoração jurídica. Ao contrário, transcreve excerto do agravo em recurso especial no qual pugna pelo revolvimento do acervo fático-probatório utilizado pelo Tribunal a quo para reconhecer a inexistência dos requisitos para a obtenção do benefício previdenciário pleiteado.
+3. O que pretende o recorrente é desconstituir a conclusão a que chegou a Corte local, por meio da análise do material probatório colacionado aos autos, circunstância que atrai a incidência da Súmula 7 do STJ.
+4. Não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+5. Agravo conhecido, para não se conhecer do recurso especial.
+(AREsp 1.280.316/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/05/2019, DJe 28/05/2019) (Grifos acrescidos).
+Ademais, a decisão agravadaespelha a orientação da Corte Especial, por ocasião do julgamento dos EAREsp 701.404/SC, EAREsp 746.775/SC, e EAREsp 831.326/SC (relator para acórdão o Ministro LUIS FELIPE SALOMÃO, DJe de 30/11/2018), de que, na interposição do agravo de que trata o art. 1.042 do CPC de 2015 (antigo art. 544 do CPC de 1973), deve o agravante impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. RECURSO CONTRA A DECISÃO DA ILUSTRE PRESIDÊNCIA DESTA CORTE SUPERIOR QUE NÃO CONHECEU DO AGRAVO, FRENTE À CONSTATADA NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DE FATO, A NÃO SUBMISSÃO A ABALO DE TODOS OS ALICERCES LÓGICOS DA DECISÃO RECORRIDA IMPLICA INCOGNOSCIBILIDADE DA PRETENSÃO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Não se conhece do Agravo em Recurso Especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida(AgInt no AREsp 1.282.707/RS, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 11.02.2021; AgRg no AREsp 1.751.057/DF, Rel. Min. LAURITA VAZ, DJe 17.02.2021; AgInt no REsp 1.690.982/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 18.12.2020).
+2. Crucial registrar que a Corte Especial do Superior Tribunal de Justiça sedimentou a compreensão de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade(AgRg no AREsp 1.784.300/PR, Rel. Min. LAURITA VAZ, DJe 11.03.2021).
+3. Agravo Interno do particular desprovido.
+(AgInt no AREsp 1.795.439/SC, Rel. MIN. MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 30/04/2021).
+Assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
