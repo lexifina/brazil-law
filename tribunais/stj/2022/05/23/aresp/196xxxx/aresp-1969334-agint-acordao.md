@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por RICARDO JOSÉ MANGANARO BLOIS contra decisão que indeferiu o pedido de atribuição de efeito suspensivo ao recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, proferido no curso da ação de indenização, em fase de cumprimento de sentença, proposta por ANA LÚCIA DE PAIVA SIQUEIRA CAMPOS contra INTERTEL DO BRASIL - COMÉRCIO DO BRASIL IMPORTAÇÃO E EXPORTAÇÃO.
+Em suas razões (e-STJ fls. 338-348), o agravante afirma a inaplicabilidade da Súmula 7/STJ, uma vez que a discussão não recai sobre fatos, mas apenas sobre a possibilidade de realização de penhora de proventos de aposentadoria quando se trata de débito indenizatório, à luz do art. 833, IV, do CPC. Alega que é isolada a decisão deste Superior Tribunal citada na decisão agravada, no sentido de que é possível a penhora dos proventos de aposentadoria para débito indenizatório quando houver manutenção de renda que permita uma vida digna ao devedor, não refletindo entendimento consolidado desta Corte Superior. Argumenta que se encontra impossibilitado de manter sua vida digna, por ser pessoa idosa, com altos gastos com medicamentos e com saúde em geral. Ressalta ser policial civil aposentado do Estado do Rio de Janeiro, sendo que, em maio de 2020, foi realizada penhora no valor de R$ 2.304,36 (dois mil trezentos e quatro reais e trinta e seis centavos), representando 30% de seus proventos de aposentadoria. Salienta, ainda, que o perigo na demora reside no fato de que o juízo de origem está prestes a permitir o levantamento da verba bloqueada. Reitera sua alegação no sentido de que os proventos de aposentadoria são penhoráveis apenas nos casos de dívida de alimentos, o que não é o caso, já que se trata de verba indenizatória.
+Não foram apresentadas as contrarrazões (e-STJ fls. 352).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. TUTELA PROVISÓRIA DE URGÊNCIA. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. ART. 995, PARÁGRAFO ÚNICO, DO CPC. AUSÊNCIA DE PROBABILIDADE DE PROVIMENTO DO RECURSO ESPECIAL. SÚMULAS 83/STJ E 7/STJ.
+1. Deve ser mantida a decisão que indeferiu o pedido de atribuição de efeito suspensivo ao agravo em recurso especial, uma vez que ausente a probabilidade de provimento do recurso, exigida pelo art. 995, parágrafo único, do CPC.
+2. Recurso especial que, ao menos em um juízo perfunctório, parece esbarrar nos óbices das Súmulas 83/STJ e 7/STJ.
+3. A fim de impugnar a aplicação da Súmula 83/STJ, a parte agravante deve apresentar julgados em sentido contrário que sejam contemporâneos ou mais recentes àqueles nos quais se fundou a decisão agravada, o que não foi realizado no caso concreto.
+3. A alteração da conclusão de que a penhora de 15% dos proventos de aposentadoria permitiria ao executado a manutenção de subsistência digna demanda, ao menos em um juízo perfunctório, o reexame da matéria fático-probatória constante dos autos.
+4. AGRAVO INTERNO CONHECIDO EM PARTE EDESPROVIDO.
+VOTO
+Eminentes Colegas, conheço em parte do agravo interno e a ele nego provimento.
+A decisão agravada consignou que o acórdão recorrido, ao menos em um juízo perfunctório,fora proferido em consonância com a jurisprudência deste Superior Tribunal, no sentido de que a impenhorabilidade de proventos pode ser excepcionada, ainda que o crédito não tenha natureza alimentar, desde que seja preservado valor suficiente para garantir uma subsistência digna.
+Vislumbrou-se, portanto, a aplicação da Súmula 83/STJ, a afastar a probabilidade de provimento do recurso especial e a impossibilitar a atribuição de efeito suspensivo.
+O agravante, porém, limitou-se a afirmar que os julgados citados na decisão agravada representam entendimento isolado. Apresentou, como forma de contraposição, outros acórdãos deste Superior Tribunal, que, no entanto, foram proferidos anteriormente.
+Sendo assim, o agravante não se desincumbiu de seu ônus de demonstrar a inaplicabilidade da Súmula 83/STJ, o que deve ser feito necessariamente com base em julgados mais recentes ou ao menos contemporâneos àqueles que justificariam a aplicação de tal óbice.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. JULGAMENTO DO RECURSO POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. TAXA CONDOMINIAL. RATEIO PROPORCIONAL AO TAMANHO DA UNIDADE HABITACIONAL. VALIDADE. SÚMULA 83/STJ. RECURSO ESPECIAL IMPROVIDO. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Casa dispõe no sentido de ser permitido ao relator decidir monocraticamente o recurso, quando amparado em jurisprudência dominante ou Súmula de Tribunal Superior, consoante exegese do art. 932, IV e V, do CPC/2015. Eventual mácula na deliberação unipessoal fica superada, em razão da apreciação da matéria pelo órgão colegiado na seara do agravo interno.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+3. Saliente-se que a aplicação do enunciado disposto na Súmula n. 83/STJ deve ser impugnada por meio da clara demonstração de divergência de entendimentos pátrios acerca da matéria discutida, inclusive, com o cotejo de julgados paradigmas mais recentes que os utilizados na decisão de admissibilidade recursal - fato não ocorrido na presente hipótese.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1849378/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. A Súmula 83/STJ deve ser impugnada por meio da clara demonstração de divergência de entendimentos acerca da matéria discutida, inclusive, com o cotejo de julgados paradigmas mais recentes que os utilizados na decisão hostilizada.
+2. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1051908/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/10/2017, DJe 16/10/2017)
+Ademais, conforme consignado na decisão agravada, o recurso especial, a princípio, esbarraria tambémno óbice da Súmula 7/STJ.
+O Tribunal de origem procedeu à redução do valor a ser penhorado, de 30% para 15% dos proventos, justamente para não inviabilizar a subsistência do executado, sendo que, ao menos em um juízo perfunctório, a alteração desta conclusão demandaria a incursão nos fatos e nas provas constantes dos autos, o que não se mostra possível nesta instância especial
+Ante o exposto, conheço em parte e nego provimento ao agravo interno.
+É o voto.
