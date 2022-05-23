@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por CLAUDIO DE OLIVEIRAcontra decisão do Tribunal de Justiça do Estado de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 1.044):
+APELAÇÃO RESPONSABILIDADE CIVIL - ERRO MÉDICO PERDA NA SENSIBILIDADE EM PARTE DA PERNA APÓS CIRURGIA PARA COLOCAÇÃO DE PRÓTESE SENTENÇA DE IMPROCEDÊNCIA INCONFORMISMO REJEIÇÃO Cerceamento de defesa não configurado Não há que se falar em nova perícia quando o laudo pericial, elaborado por profissional de confiança do juízo, em minucioso detalhamento das condições físicas do periciando, dos procedimentos submetidos e dos documentos médicos apresentados, relata dados objetivos, respondendo todos os quesitos das partes Prova segura e convincente Preliminar rejeitada - O entendimento consolidado pelo STJ é no sentido de que a responsabilidade dos hospitais, no que tange à atuação dos médicos contratados que nele trabalham, é subjetiva, dependendo da demonstração da culpa do preposto Laudo pericial conclusivo acerca da ausência de conduta omissa ou comissiva dos prepostos do hospital réu que não tenha atendido ao esperado dentro da boa prática médica e que pudesse ter contribuído para as sequelas do autor - Erro médico não configurado Sentença de improcedência mantida NEGARAM PROVIMENTO AO RECURSO.
+Nas razões do recurso especial, a parte alega ofensa aos seguintes dispositivos legais: arts. 369 e 480 do CPC e art. 5º, LV, da Constituição Federal.
+Pede a reforma do acórdão por entender, em síntese, que:
+(i) "o acórdão recorrido, que manteve a sentença de primeira instância, mesmo diante da falta de exaurimento da fase de instrução processual, violou o princípio do contraditório e da ampla defesa" - fl. 1.061 e
+(ii) "seja garantido ao Recorrente o direito de complementar a produção de provas, com a realização de uma terceira análise técnica médica, anulando-se a sentença do juízo a quo, a fim de que a demanda seja propriamente analisada, visto que, diante da situação evidenciada nos autos, existindo laudo técnicos médicos totalmente controversos, seria imperiosa a designação de uma nova perícia, sendo tal medida totalmente cabível" - fls. 1.061/1.062.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente,é de se observar que a jurisprudência pacífica desta Casa dispõe que "não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (AgInt nos EREsp 1.082.463/DF, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 18/12/2018, DJe 1º/2/2019).
+No que concerne ao pedido de produção de nova prova pericial, extrai-se dos autos que a Corte de origem concluiu que"desnecessário se mostra a realização de nova perícia, considerando que o laudo pericial, em minucioso detalhamento das condições físicas do periciando, dos procedimentos submetidos e dos documentos médicos apresentados, relatada dos objetivos, respondendo todos os quesitos das partes. Com efeito, o laudo oficial produzido por profissional de confiança do Juízo não apresenta imprecisões ou contradições, prestando-se como prova técnica hábil à formação do convencimento do julgador" - fl. 1.046.
+É de se observar que, com base no princípio da livre persuasão racional, o deferimento ou não de produção ou complementação de provas é ato norteado pela discricionariedade regrada do julgador, podendo ele decidir, motivadamente, sobre as diligências que julgar necessárias ou não ao deslinde da questão.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUERES. VIOLAÇÃO AO ART. 535 DO CPC E CERCEAMENTO DE DEFESA NÃO CONFIGURADOS. CONEXÃO. CAUSAS COM VÍNCULO DE IDENTIDADE. RELAÇÕES JURÍDICAS QUE SE APOIAM EM FATO ÚNICO. JULGAMENTO SIMULTÂNEO. ECONOMIA PROCESSUAL E PRESERVAÇÃO DO PRESTÍGIO DAS DECISÕES PROFERIDAS. DISCRICIONARIEDADE RELATIVA DO JUÍZO.
+1.  ..
+2. O art. 330, I, do CPC/1973 esclarece que é facultado ao juízo proferir sentença, desde que não haja necessidade de produzir provas em audiência. Também, o art. 131 - do mesmo diploma legal - cuida do princípio da livre persuasão racional, que estabelece caber ao magistrado avaliar as provas requeridas e rejeitar aquelas que protelariam o andamento do processo, em desrespeito ao princípio da celeridade processual.
+3.  ..
+9. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp 479.470/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/09/2019, DJe 24/09/2019)
+Sendo assim, rever o posicionamento da Corte local e entender, como quer a parte recorrente, que o indeferimento de produção de prova pericial prejudicou o deslinde da controvérsia diante de uma suposta controvérsia entre os laudos periciais lavrados nos autos, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 1%, totalizando 12% sobre o valor da causa atualizado, observada a eventual e anterior concessão da gratuidade judiciária.
+Advirto as partes de multa prevista ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. VIOLAÇÃO DE PRECEITO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE DIANTE DA IMPOSSIBILIDADE DE USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. REEXAME DE PROVA. VEDAÇÃO.
+AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
