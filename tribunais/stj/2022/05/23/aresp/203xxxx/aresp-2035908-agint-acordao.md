@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO DE POUPANÇA E EMPRÉSTIMO (POUPEX) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Goiás, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO HIPOTECÁRIA. AUTO NEGATIVO DE LEILÃO. PEDIDO DE ANULAÇÃO IMPROCEDENTE. REMESSA DOS AUTOS À CONTADORIA JUDICIAL. AVALIAÇÃO DA NECESSIDADE DA PROVIDÊNCIA. PRERROGATIVA DO JULGADOR. DECISÃO MANTIDA.
+1. A remessa dos autos à Contadoria Judicial para atualização do débito, estão adstritas ao poder geral de cautela do magistrado, que lhe recomenda atuar com equilíbrio e razoabilidade, bem como prevenir situações que, se ocorrerem, são passíveis de ensejar prejuízos de difícil ou impossível reparação.
+2. Em sede de ação executiva, constitui prerrogativa do julgador, aquilatar se necessária ou não a remessa dos autos à Contadoria Judicial para atualização da dívida.
+3. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 441).
+Os embargos de declaração opostos por POUPEX foram rejeitados (e-STJ, fls. 305/307)
+Irresignada, POUPEX interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 190, 282, § 1º, 489, § 1º, IV, 507, e 1.022, II, do NCPC e 6º e 7º da Lei nº 5.741/71. Sustentou, em síntese, (1) omissão do acórdão recorrido sobre as seguintes pontos: (1.1) a intempestividade da insurgência contra os atos executivos; e (1.2) a ausência de prejuízo que pudesse ensejar a anulação do leilão judicial realizado; (2) a impugnação dos atos processuais e do valor executado foi apresentada a destempo, por envolver questões alcançadas pela preclusão temporal; e (3) a impossibilidade da realização de nova hasta pública para a venda judicial do imóvel penhorado nos autos.
+O apelo nobre não foi admitido pelo Tribunal de Justiça de Goiás (e-STJ, fls. 358/359).
+Na sequência, POUPEX interpôs agravoque, em decisão desta relatoria, foi conhecido para conhecer em parte do recurso especial, negando-lhe provimento, consoante a ementa a seguir:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO HIPOTECÁRIA. VIOLAÇÃO DO ART. 1.022, II, DO NCPC.INEXISTÊNCIA. DETERMINAÇÃO DE REMESSA DOS AUTOS À CONTADORIA JUDICIAL. ATUALIZAÇÃO DA DÍVIDA. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Nas razões do presente agravo interno, POUPEX reiterou a argumentação deduzida no apelo extremo, indicando (1) omissão do aresto combatido sobre as seguintes questões: (1.1) a intempestividade da insurgência contra os atos executivos; e (1.2) a ausência de prejuízo que pudesse ensejar a anulação do leilão judicial realizado; (2) a impugnação dos atos processuais e do valor executado foi apresentada a destempo, por envolver questões alcançadas pela preclusão temporal; e (3) a impossibilidade da realização de nova hasta pública para a venda judicial do imóvel penhorado nos autos.
+Não foi apresentada impugnação (e-STJ, fl. 415).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO HIPOTECÁRIA. VIOLAÇÃO DOSARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. DETERMINAÇÃO DE REMESSA DOS AUTOS À CONTADORIA JUDICIAL. ATUALIZAÇÃO DA DÍVIDA. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. No caso, o acolhimento da tese recursal apresentada pela exequente, ora recorrente-de que aimpugnação dos atos processuais e do valor executado foi apresentada a destempo, bem como deimpossibilidade da realização de nova hasta pública para a venda judicial do imóvel penhorado nos autos -,não prescindiria do reexame das premissas fáticas da causa,o que é vedado pela Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o agravo interno em análise foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+(1) Ofensa aos arts. 489 e 1.022, II, do NCPC
+Nas razões do recurso especial, POUPEX sustentou, preliminarmente, que o TJGO deixou de enfrentar as seguintes alegações: (1) a intempestividade da insurgência contra os atos executivos; e (2) a ausência de prejuízo que pudesse ensejar a anulação do leilão judicial realizado.
+Contudo, sem razão.
+Em relação aos temas, ao rejeitar os embargos de declaração opostos pela ora insurgente, a Corte local assim se pronunciou:
+Mister destacar, que, no caso, o acordão embargado esclareceu precisamente as razões da manutenção da decisão agravada, destacando que a decisão do juiz singular de remeter os autos a contadoria judicial para atualização do débito configura atitude inerente ao poder geral de cautela do magistrado, que deve atuar com equilíbrio e razoabilidade, colacionando, inclusive jurisprudência nesse sentido.
+No mais, o auto negativo de leilão é documento por demais suficiente para configurar a desnecessidade de anulação do leilão.
+Vê-se, portanto, que a embargante apenas se utiliza do rótulo omissão, mas, em seguida, brada por um pronunciamento de fato e de direito sobre matérias já debatidas, embora discorde da fundamentação (e-STJ, fl. 318).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do NCPC, o que busca a POUPEX é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+Não se verifica, portanto, a apontada ofensa aos arts. 489 e 1.022 do NCPC.
+(2) e (3) Da preclusão temporal e da impossibilidade da realização de nova hasta pública
+Narram os autos que POUPEX interpôs agravo de instrumento contra a decisão do Juízo singular que, nos autos da ação de execução hipotecária ajuizada contra HORÁCIO DE ABREU JÚNIOR - ESPÓLIO, indeferiu o pedido de anulação do leilão do imóvel formulado pelo devedor, ante o auto negativo anexado ao processo, e acolheu o pedido de remessa dos autos à Contadoria Judicial para atualização do valor do débito, antes da designação de nova praça (e-STJ, fl. 223).
+Em seu recurso especial, POUPEX sustentou que a impugnação dos atos executórios, inclusive em relação ao quantum devido, foi realizada a destempo, por envolver questões alcançadas pela preclusão temporal. Defendeu, ainda, a impossibilidade da realização de nova hasta pública para a venda judicial do imóvel penhorado nos autos, pugnando pelo deferimento do seu pedido de adjudicação.
+Sobre essas questões, a par dos fundamentos transcritos no item anterior, o Tribunal goiano ainda consignou:
+Como ponderado na decisão preliminar, todas as providências determinadas na decisão agravada, especialmente a remessa dos autos à Contadoria Judicial para atualização do débito, estão adstritas ao poder geral de cautela do magistrado, que lhe recomenda atuar com equilíbrio e razoabilidade, bem como prevenir situações que, se ocorrerem, são passíveis de ensejar prejuízos de difícil ou impossível reparação.
+Sobre o pedido de anulação do leilão, como se vê do petitório e documento juntado à fl. 49 dos autos principais, não há razão para sua acolhida, tendo em vista a inexistência de licitantes, após terem sido apregoados os bens penhorados, o que se depreende da simples leitura do "Auto Negativo de Leilão".
+A tese de que "a realização do leilão pelo valor da avaliação do imóvel não causou ( ) prejuízo ao agravado" resta igualmente prejudicada, ante ao teor do aludido "Auto Negativo de Leilão".
+Ademais, em sede de ação executiva, constitui prerrogativa do julgador, aquilatar se necessária ou não a remessa dos autos à Contadoria Judicial para atualização da dívida (e-STJ, fls. 278/279).
+Verifica-se, portanto, que a revisão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE SUBSCRIÇÃO DE AÇÕES DE TELEFONIA. JUROS SOBRE CAPITAL PRÓPRIO. NÃO INCLUSÃO. POSSIBILIDADE. REMESSA À CONTADORIA JUDICIAL. POSSIBILIDADE. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Nos temos do REsp 1.373.438/RS, submetido ao procedimento dos recursos especiais repetitivos, se a rubrica - juros sobre capital próprio - não foi contemplada no título executivo, não cabe sua inserção, em sede de cumprimento de sentença, em obediência ao instituto da coisa julgada material.
+2. O col. Tribunal a quo, após a análise do título judicial, concluiu que os valores apontados nos cálculos apresentados pela parte recorrente não condizem com os parâmetros estipulados na sentença exequenda, fazendo remessa dos autos à contadoria judicial. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 951.544/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 6/4/2017, DJe 28/4/2017 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INADIMPLEMENTO CONTRATUAL. EXIBIÇÃO DE DOCUMENTO. CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO. CÁLCULO ARITMÉTICO. VALOR. EXORBITÂNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, no tocante à necessidade de remessa dos autos ao contador judicial para elaboração de novos cálculos, à luz do disposto no artigo 475-B, § 3º, do CPC/1973, mister se faz a revisão do conjunto fático-probatório, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 835.497/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 5/5/2016, DJe 12/5/2016 - sem destaque no original)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
