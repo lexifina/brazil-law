@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):Trata-se de agravo interno interposto por COOPERATIVA DE CREDITO DE LIVRE ADMISSÃO DE ASSOCIADOS SÃO MIGUEL DO OESTE - SICOOB SÃO MIGUEL SC/PR/RSem face de decisão monocrática, da lavra deste signatário (fls. 627/631, e-STJ), que negou provimento ao agravo em recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional,desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça doEstado de Santa Catarina, assim ementado (fls. 436/437, e-STJ):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - SENTENÇA DE PROCEDÊNCIA, COM A DECLARAÇÃO DE EXTINÇÃO DO FEITO EXECUTIVO POR ILIQUIDEZ DO TÍTULO - INCONFORMISMO DA PARTE EMBARGADA/EXEQUENTE. AVENTADA A OCORRÊNCIA DE JULGAMENTO "EXTRA PETITA"- SUPOSTA INCONGRUÊNCIA ENTRE PEDIDO INAUGURAL E SENTENÇA QUANTO À AUSÊNCIA DE COMPROVAÇÃO ACERCA DO RECEBIMENTO DOS VALORES DE CORRENTES DO DESCONTO DE TÍTULOS - VÍCIO INOCORRENTE - PREFACIAL RECHAÇADA.
+A simples definição, na sentença, de questão debatida nos autos em desconformidade com a expectativa da parte não implica julgamento "extra petita".
+ARGUIDA EXIGIBILIDADE DO TÍTULO - TESE INSUBSISTENTE - CÉDULA DE CRÉDITO BANCÁRIO CELEBRADA NA MODALIDADE DE DESCONTO DE TÍTULOS - JULGAMENTO CONVERTIDO EM DILIGÊNCIA PARA OPORTUNIZAR A EXEQUENTE A COLACIONAR OS BORDERÔS E DEMAIS INSTRUMENTOS QUE ORIGINARAM O DÉBITO EM DISCUSSÃO - COOPERATIVA QUE COLACIONOU BORDERÔ ACOMPANHADO DE 4 (QUATRO) BOLETOS BANCÁRIOS - AUSÊNCIA DE COMPROVAÇÃO ACERCA DO INADIMPLEMENTO DOS ALUDIDOS TÍTULOS - IMPOSSIBILIDADE DE AVERIGUAÇÃO DOS PARÂMETROS ADOTADOS NACOMPOSIÇÃO DO "QUANTUM DEBEATUR"- NULIDADE DA EXPROPRIATÓRIA - PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - PRECEDENTES - DECRETO EXTINTIVO MANTIDO - IRRESIGNAÇÃO DESPROVIDA NO PONTO.
+Consoante entendimento deste Sodalício " ..  O contrato de desconto bancário (borderô) não constitui, por si só, título executivo extrajudicial, dependendo a ação executiva de vinculação a um título de crédito concedido em garantia ou à assinatura pelo devedor e por duas testemunhas.  ..  A não comprovação do inadimplemento das duplicatas impede o ajuizamento da execução, nos moldes em que ora proposta, sendo certo que tal prova deve acompanhar a exordial, porquanto inerente à própria exigibilidade da obrigação. (STJ. REsp 986.972/MS, rel. Min. Luís Felipe Salomão j. 4-10-2012)"  ..  (Apelação Cível n. 0310503-17.2017.8.24.0018, Rel. Luiz Zanelato, j. 21/5/2020).
+No caso, a ausência de exibição pela parte exequente/embargada, dos instrumentos que deram origem ao borderô de desconto de títulos impede o efetivo exame do preenchimento dos requisitos de exequibilidade, especificamente a liquidez, razão pela qual é medida impositiva a manutenção do decreto extintivo diante da nulidade de execução.
+POSTULADO O AFASTAMENTO DA MULTA DO ART. 1.026 DO CÓDIGO PROCESSUAL - CABIMENTO - INTUITO MERAMENTE PROTELATÓRIODOS EMBARGOS DE DECLARAÇÃO NÃO VERIFICADO - ACOLHIMENTO DA REBELDIA NESSE TOCANTE.
+Conquanto não configurem os embargos aclaratórios meio adequado à rediscussão de questões decididas, especialmente quando inexistente omissão, obscuridade ou contradição no pronunciamento judicial atacado, isso não significa que sejam meramente protelatórios, até porque não está evidenciada a tentativa da cooperativa de retardar injustificadamente o processo.
+HONORÁRIOS ADVOCATÍCIOS RECURSAIS - PARCIAL PROVIMENTO DO RECLAMO - DESCABIMENTO DE MAJORAÇÃO - ENTENDIMENTO ASSENTADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DOS EDCL. NO AGINT NO RESP. 1573573/RJ.
+Em caso de parcial provimento da insurgência, o estipêndio patronal devido ao causídico da parte vencedora decorre da redistribuição da sucumbência promovida pelo julgado, não havendo falar no estabelecimento de honorários recursais.
+Opostos embargos de declaração (fls. 446/459, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 487/513, e-STJ), a insurgente alega, além de dissídio jurisprudencial, ofensa aos artigos 26, 28, § 2º, incisos I e II, e 29 da Lei 10.931/04; 784, inciso XII, do Código de Processo Civil/15; 2º da Lei 13.775/18. Sustentou, em síntese, que a cédula de credito bancárioque instrui a execução se reveste de liquidez, certeza e exigibilidade. No seu entendimento, a liquidez da Cédula restou constituída a partir da apresentação conjunta da Cédula, Borderô e planilha de cálculo.
+Em juízo de admissibilidade (fls. 570/575, e-STJ), negou-se processamento ao recurso, sob o fundamento de incidência da Súmula 83do STJ.
+Daí o agravo (fls. 582/602, e-STJ), buscando destrancar oprocessamento daquela insurgência, no qual a insurgente refutou o óbiceaplicado pela Corte estadual.
+Sem contraminuta (fl. 606, e-STJ).
+Em decisão monocrática (fls. 627/631, e-STJ), este signatário negouprovimento ao agravo, sob ofundamento de incidência daSúmula 7doSTJ.
+Daí o agravo interno (fls. 634/643, e-STJ), no qual ainsurgente reiteraos fundamentos lançados nas razões do apelo extremo, insistindo na tese de que o título é certo, liquido e exigível, bem comorefuta a aplicação doóbiceestabelecidopelaSúmula7 desta Corte.
+Sem i  mpugnação (fl. 646, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DAEMBARGADA.
+1.A análise dos fundamentos que ensejaram o reconhecimento da iliquidez,incerteza e inexigibilidade do título que embasa aexecução, exige oreexame probatório dos autos, procedimento inviável por esta via especial,ante o óbice da Súmula 7/STJ.
+2. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência do referido óbice impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pelaagravante são incapazes de infirmar a decisão objurgada, motivo pelo qualmerece ser mantida na íntegra por seus próprios fundamentos.
+1. Consoante asseverado na decisão agravada, oTribunal de origem, diante de todo o acervo fático-probatório carreado aos autos, entendeu que a ação não está aparelhada com o título líquido, certo e exigível, tendo em vista "a ausência de exibição pela parte exequente de todos instrumentos que deram origem ao ajuste de desconto de título impede o efetivo exame do preenchimento dos requisitos de exequibilidade, especificamente a liquidez" (fl. 429, e-STJ).
+A propósito, confira-se o seguinte excerto do acórdão recorrido (fls. 428/429, e-STJ):
+Diante da discussão em sede de embargos do devedor acerca da ausência de documentos a instruir o feito expropriatória e da alegação, nesta Instância Revisora, deque não foi oportunizada a apresentação dos aludidos documentos, converteu-se o julgamento em diligência para que a exequente promovesse a juntada aos autos dos borderôs e dos títulos que originaram a obrigação exequenda (evento 41).
+Por sua vez, a cooperativa colacionou borderô e os boletos "REN1, REN2,REN3, REN4/1", os quais alegou terem sido emitidos pelo executado. Afirmou, na oportunidade, que a obrigação decorre de "instrumento particular de prestação de serviço de cobrança" e que os "títulos são apenas meios para a tomada de crédito" (evento 43).
+A parte embargante, por sua vez, aduziu a ausência de demonstração acercada contratação, mormente porque as duplicatas que originaram o borderô sequer foram exibidas e nos boletos não consta a assinatura do credor. Alegou também a ausência de subscrição do avalista no instrumento (evento 47).
+Na espécie, apesar de oportunizada por este Juízo "ad quem", a cooperativa deixou de colacionar aos autos os documentos aptos a comprovar o inadimplemento dos títulos, não bastando, para tanto, os boletos acostados ao evento 43.
+Ademais, "mutatis mutandis", em se tratando de duplicata virtual, o credor poderá executar o devedor com base no instrumento de protesto e no comprovante de entrega das mercadorias que acompanham a nota fiscal:
+(..)
+Nos termos do entendimento adotado por esta Corte de Justiça, a ausência de exibição, pela parte exequente, dos instrumentos que deram origem à obrigação exequenda impede o efetivo exame do preenchimento dos requisitos de exequibilidade, especificamente a liquidez.
+Por conseguinte, configurada está a nulidade da execução por ausência de prova da liquidez do título, pressuposto basilar exigido no processo executivo, a teor do preconizado nos arts. 786, 783 e 803, I, do "Codex Instrumentalis".
+Dessarte, reconhecida a inexequibilidade do título, a manutenção do decreto extintivo da expropriatória, sem resolução de mérito, é medida que se impõe, na forma do enunciado pelo art. 924, do mencionado Diploma Processual.
+(..)
+Assim, no caso concreto, a ausência de exibição pela parte exequente de todos instrumentos que deram origem ao ajuste de desconto de título impede o efetivo exame do preenchimento dos requisitos de exequibilidade, especificamente a liquidez.
+Dessarte, a sentença não merece reparo, razão pela qual a irresignação deixa de ser acolhida.
+Neste contexto, para superar as premissas em que se apoiou o Tribunal de origem, a fim de concluir pela liquidez do título extrajudicial apresentado, revelar-se-ia necessária uma incursão no acervo fático-probatório constante dos autos,hipótese que encontra óbice noenunciadocontidonaSúmula7/STJ.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO. OBRIGAÇÃO EXIGÍVEL, LÍQUIDA E CERTA. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Consoante entendimento desta Corte, "A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa" (AgRg no REsp 1.038.215/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 19/11/2010).
+2. No caso dos autos, a Corte de origem afirmou que foram preenchidos os requisitos exigidos para conferir liquidez, certeza e exigibilidade da cédula de crédito. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem exigiria novo exame do acervo fático-probatório constante dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1746039/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2021, DJe 24/05/2021)
+2. Por fim, importante consignar que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. DANOSMORAIS E MATERIAIS. CONCLUSÃO ESTADUAL NO SENTIDO DA OCORRÊNCIA. MATÉRIAFÁTICO-PROBATÓRIA E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. DISSÍDIOJURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA7/STJ. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNODESPROVIDO.
+(..)
+3. Ademais, consoante iterativa jurisprudência desta Corte, a incidênciada Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também,pela alínea c do permissivo constitucional, uma vez que falta identidadeentre os paradigmas apresentados e os fundamentos do acórdão, tendo emvista a situação fática de cada caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1309907/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 08/10/2018, DJe 10/10/2018)
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
