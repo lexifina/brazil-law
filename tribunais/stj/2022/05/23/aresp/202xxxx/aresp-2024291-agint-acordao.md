@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO EDUARDO DE BASTOS FERREIRA E OUTROS, em face da decisão de fls. 955-958, e-STJ, da lavra deste signatário, que negou provimento ao agravo em recurso especial manejado pela ora agravante.
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 752-757, e-STJ):
+IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ACORDO HOMOLOGADO PELO JUÍZO. OBRIGAÇÃO DE FAZER. I - Trata-se de impugnação à execução, para cumprimento de obrigação assumida pela ré/executada, em acordo homologado pelo juízo, em ação de reintegração de posse, consistente no depósito de certa quantia após o desmembramento e transferência, pelos autores/exequentes, de área que se encontrava em sua posse. II - Demonstrado nos autos que houve desídia dos autores/exequentes, no procedimento de desmembramento da área junto à Prefeitura de Duque de Caxias, e que passados quase seis anos sem que fosse cumprida a obrigação de transferência do domínio útil da área questionada nos autos, a ré depositou a quantia devida à disposição do juízo. III-Inexiste, portanto, direito dos exequentes aos juros, multa e correção monetária pelo atraso no cumprimento da obrigação pela ré/executada. IV - Correta, assim, a sentença que deu provimento à impugnação ao cumprimento de sentença. V-Cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença. Entendimento sedimentado pelo Superior Tribunal de Justiça em julgamento de recurso submetido ao rito dos recursos repetitivos. VI - Recursos conhecidos. Desprovido o primeiro e provido o segundo.
+Opostos embargos de declaração (fls. 768-770, 772-774 e 782-785, e-STJ), esses foram rejeitados (fls. 805-808, e-STJ).
+Nas razões do recurso especial (fls. 816-832, e-STJ), os recorrentes apontam violação aos seguintes artigos:
+(i) 1022 e 489 do CPC/2015, na medida em que o acórdão recorrido seria omisso em relação ao fato de que a recorrida efetuou o pagamento da terceira e última parcela fora do prazo acordado;
+Contrarrazões às fls. 844-857, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que deu ensejo a agravo.
+Às fls. 955-958, e-STJ, negou-se provimento ao reclamo, ante a inexistência de negativa de prestação jurisdicional.
+Irresignados, os sucumbentes manejam o presente agravo interno (fls. 961-967, e-STJ), no qual sustentam, em suma, subsistir omissão no aresto editado pela Corte local.
+Impugnação às fls. 971-982, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA- DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS REQUERENTES.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, deve ser afastada a alegação de ofensa aos artigo 1.022 do CPC/15, "na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018).
+No mesmo sentido, vejam-se, a título de exemplo: EDcl no Ag 749.349/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1716263/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no AREsp 1241784/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+No caso em tela, conforme destacado na decisão agravada, o Tribunal de origem, de modo expresso e fundamentado, assentou que o depósito da última parcela seria realizado apenas após a transferência do domínio útil da área questionada nos autos, obrigação não cumprida tempestivamente pelos autores por desídia.
+Nesse sentido (fl. 755-756, e-STJ):
+No caso, está disposto no título que embasa a execução que a ré se compromete a depositar aúltima parcela definida no acordo após a transferência do domínio útil da área questionada nos autos, obrigação a ser cumprida pelos autores. Verifica-se que para o cumprimento da obrigação era necessário o desmembramento da área junto à Prefeitura de Duque de Caxias e que passados quase seis anos sem que fosse cumprida a obrigação pelos autores, a ré depositou a quantia devida à disposição do juízo (índex 555). Constata-se, assim, que, de fato, houve desídia dos autores no cumprimento da obrigação de fazer. Isto porque foram expedidos vários ofícios no período acima apontado (fl. 325, 329 e 370/374) solicitando informações acerca do procedimento administrativo, tendo a municipalidade apresentado resposta às solicitações (fls. 333/336 338/343 e 383), informando que a demora na conclusão do procedimento se devia ao não atendimento das diligências pelos autores/exequentes. Esses fatos, somados ao cumprimento do pagamento mediante depósito judicial, trazem a conclusão de que não há mesmo direito dos exequentes à juros, multa e à correção monetária pelo atraso no cumprimento da obrigação assumida pela ré/executada.
+Logo, diferentemente do que aduzem os insurgentes, não há se falar em negativa de prestação jurisdicional, mas em mero inconformismo da parte com o acolhimento de tese jurídica por parte do Tribunal local.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
