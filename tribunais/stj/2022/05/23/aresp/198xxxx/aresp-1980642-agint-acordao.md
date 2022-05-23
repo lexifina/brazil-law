@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por RITA DE CÁSSIA DE OLIVEIRA, contra a decisão deste relator (e-STJ Fl.729-737) que negou provimento ao agravo em recurso especial e manteve o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONDOMÍNIO DE FATO. SENTENÇA DE PROCEDÊNCIA. APELO INTERPOSTO PELA PARTE RÉ. ALEGAÇÃO DE NULIDADE DA DECISÃO QUE DECRETOU A REVELIA, INEXIGIBILIDADE DAS COTAS CONDOMINIAIS E PRESCRIÇÃO TRIENAL. APELANTE QUE FOI DEVIDAMENTE NOTIFICADA PELOS PATRONOS QUANTO À RENÚNCIA DESTES. DESNECESSIDADE DE INTIMAÇÃO PESSOAL. CIENTE DA IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL DESDE O DIA 30.04.2018, DEIXOU A RÉ DE CONSTITUIR NOVO PATRONO, DESCUMPRINDO AINDA COM O DEVER DE MANTER O SEU ENDEREÇO ATUALIZADO, CONFORME DISPOSTO NO ART. 77, V DO CPC. AUSÊNCIA DE MOTIVOS PARA O AFASTAMENTO DA DECRETAÇÃO DA REVELIA. PRECEDENTES JURISPRUDENCIAIS. INEXISTÊNCIA DE ÓBICE PARA IMPUGNAÇÃO AO LAUDO PERICIAL QUE, TODAVIA, DEIXOU DE SER APRESENTADA PELA PARTE INTERESSADA. INEXIGIBILIDADE DAS COTAS CONDOMINIAIS E PRESCRIÇÃO TRIENAL. QUESTÕES DE MÉRITO DIRIMIDAS NO JULGAMENTO MONOCRÁTICO QUE TRANSITOUEM JULGADO ANTES MESMO DOENTENDIMENTO FIRMADO PELO TEMA REPETITIVO Nº 882 DO SUPERIOR TRIBUNAL DE JUSTIÇA, SEGUNDO O QUAL "AS TAXAS DE MANUTENÇÃO CRIADAS POR ASSOCIAÇÕES DE MORADORES NÃO OBRIGAM OS NÃO ASSOCIADOS OU QUE A ELAS NÃO ANUÍRAM". CASO CONCRETO QUE NÃO VERSA SOBRE MERA ASSOCIAÇÃO, MAS SIM SOBRE HIPÓTESE DE CONDOMÍNIO EDILÍCIO FÁTICO, VISLUMBRANDO-SE DO ACERVO PROBATÓRIO DOS AUTOS QUE PREEXISTIA À AQUISIÇÃO DO IMÓVEL PELA RÉ, SENDO ENTÃOFORMADO PELA VONTADE DOS TITULARES DAS CINCO UNIDADES AUTÔNOMAS QUE O COMPÕEM, AINDA QUE PENDENTE DEINSTITUIÇÃO FORMAL E REGULARIZAÇÃO JUNTO AO REGISTRO IMOBILIÁRIO. CONTROVÉRSIA RESIDUAL QUE SE RESTRINGE AO MONTANTE DA DÍVIDA DA RÉ, A QUAL FOI DIRIMIDA PELA PERÍCIA TÉCNICA, CUJAS CONCLUSÕES NÃO FORAM POR ELA IMPUGNADAS, APURANDO-SE O QUANTUMDEBEATUR DE R$18.914,43 (DEZOITO MIL, NOVECENTOS E QUATORZE REAIS E QUARENTA E TRÊS CENTAVOS). SENTENÇA QUE NÃO MERECE REPARO. HONORÁRIOS ADVOCATÍCIOS MAJORADOS, NA FORMA DO ART. 85, §11 DO CPC. RECURSO A QUE SE NEGA PROVIMENTO.
+Nas razões do presente agravo interno,sustenta a inexigibilidade da cobrança, em razão da natureza de condomínio de fato, nos termos do Tema 882/STJ. Também defende o prazo prescricional de 3 (três) anos, pois a cobrança exigidaem razão dos serviços prestados possui natureza de vedação ao enriquecimento sem causa e não de cota condominial.
+Pede o acolhimento do agravo interno.
+Ausentescontrarrazões ao agravo interno, conforme certidões de fls. 759-761.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONDOMÍNIO DE FATO. PRESCRIÇÃO QUINQUENAL.QUESTÕES DE MÉRITO TRANSITADAS EM JULGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme consignado pelas instâncias ordinárias, as matérias de mérito referentes à legitimidade da cobrança e à prescrição quinquenal transitaram em julgado, sendoincabível nesta seara a análise de matérias já preclusas. Incidência da Súmula 83/STJ.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+3. Pugna a agravante pela declaração de inexigibilidade da cobrança das cotas condominiais e aplicação de prescrição trienal à hipótese.
+Ocorre que, conforme consignado pelas instâncias ordinárias, tais matérias transitaram em julgado, de modo que a presente discussão cinge-se tão somente ao quantum devido.
+Na hipótese, o Tribunal local entendeu pela prescrição quinquenal e pela natureza de condomínio de fato, sendo devida a cobrança em razão de que tanto autores como a ré, ora agravante, foram beneficiados pelas obras realizadas.Todavia, em razão da complexidade dos cálculos da dívida, determinou a nulidade dos atos a partir do despacho saneador, a fim de que fosse produzida a prova pericial contábil e apurados os valores devidos pela ré. Referido acórdão(e-STJ Fl.166-174) transitou em julgado (e-STJ Fl.288), tendo permanecido em aberto apenas a análise do montante da dívida, objeto de perícia técnica, a qual restou posteriormente decidida na sentença de fls. 477-479 e-STJ.
+Dessa forma, incabível nesta seara a análise das matérias requeridas pela agravante, tendo em vista o trânsito em julgado do primeiro acórdão (e-STJ Fl.166-174), conforme elucidado pelo Tribunal local (e-STJ Fl.574 e 577):
+Depreende-se que, contrariamente ao alegado pela Ré, não pairam dúvidas sobre a natureza jurídica de condomínio de fato do local de residência dos Autores/Apelados e sobre a comprovação da existência de dívida em desfavor daquela, tendo em vista que tais questões também já foram alvo de análise do julgamento monocrático (index 000166), tendo permanecido em aberto apenas a análise do montante da dívida, objeto de perícia técnica.
+ ..
+Em verdade, observa-se que a Ré pretende rediscutir matérias já preclusas, notadamente diante da decisão monocrática de index 000166 que, ratificada pelo Colegiado nos índices 000187 e 000209, transitou em julgado antes mesmo do entendimento firmado no tema repetitivo nº 882 do Superior Tribunal de Justiça, segundo o qual "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, não é possível rever a conclusão do acórdão recorrido em relação à questão discutida estar acobertada pela coisa julgada e pela preclusão, uma vez que seria necessário o reexame do conjunto fático-probatório dos autos, que é vedado em razão do óbice da Súmula 7 do STJ.
+2. O STJ possui firme o entendimento no sentido de que "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/6/2016, Dje 1/7/2016).
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1064314/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 28/08/2018)
+Incide no caso, a Súmula 83/STJ.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
