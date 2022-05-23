@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por BENEMANN COMÉRCIO DE FRUTAS LTDA. - EMPRESA DE PEQUENO PORTE, LIVIA DA SILVA BENEMANN e VANISE BENEMANN LETTNIN, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: embargos à execução, ajuizada por BENEMANN COMÉRCIO DE FRUTAS LTDA. - EMPRESA DE PEQUENO PORTE, LIVIA DA SILVA BENEMANN e VANISE BENEMANN LETTNIN, em face de CAIXA ECONÔMICA FEDERAL.
+Sentença: rejeitou as preliminares aventadas pelas agravantes e julgou improcedentes os pedidos deduzidos nos embargos, extinguindo o processo com resolução de mérito, nos termos do art. 487, inciso I, do Código de Processo Civil. Por fim, condenou as agravantes ao pagamento dos honorários, os quais foram fixados em 5% sobre o valor da causa.
+Acórdão: negou provimento à Apelação interposta pelas agravantes.
+Embargos de declaração: opostos, pelas agravantes, foram parcialmente providos para fins de prequestionamento.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustentam que as agravantes atenderam a todos os requisitos exigidos pela legislação vigente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de embargos à execução.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por BENEMANN COMÉRCIO DE FRUTAS LTDA. - EMPRESA DE PEQUENO PORTE, LIVIA DA SILVA BENEMANN e VANISE BENEMANN LETTNIN, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que as agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+As agravantes insurgem-se contra a aplicação da Súmula 182/STJ ao caso, sustentando que comprovaram, ao contrário do que consta na Decisão Monocrática atacada, que a irresignação recursal não comporta o mero reexame de matéria fático-probatória, mas de valoração da prova, abstratamente considerada, passível de realização nesta instância.
+Malgrado o inconformismo das agravantes, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhes assiste, uma vez que em relação ao presente caso incidem os óbices sumulares 5 e 7 desta Corte.
+Nesse sentido, consignou a Corte local que: i) uma vez confrontada a prova requerida, com o conjunto probatório e não se mostrando absolutamente necessária, não há cerceamento de defesa; e, ii) tendo a agravada apresentado todos os documentos indispensáveis ao processamento da execução, notadamente a cédula de crédito bancário, os extratos bancários e o cálculo da evolução da dívida, tais documentos são suficientes para comprovar todas as incidências financeiras da avença desde a data da contratação, de modo que não há falar em iliquidez, incerteza e inexigibilidade e tampouco em impossibilidade jurídica da execução; e, iii) uma vez que não tenha sido demonstrada a discrepância em relação à taxa média de mercado estipulada pelo BACEN para as modalidades de crédito em questão, devem ser mantidas as taxas de juros pactuadas; e, iv) na inexistência de discrepância entre a taxa de juros fixada e a taxa média de mercado para as operações da mesma modalidade de crédito, deve ser mantido o pactuado entre as partes; e, v) tendo sido a multa moratória fixada em 2% sobre o valor do débito, estaria, portanto, de acordo com o previsto no art. 52, § 1º do CDC, razão pela qual não há falar em ilegalidade; e, vi) os encargos cobrados durante a normalidade contratual não são ilegais ou abusivos, de modo que o inadimplemento de suas obrigações colocou as agravadas em situação de mora, sendo lícita a cobrança dos encargos contratuais previstos nestas condições.
+Desta forma, cumpre ressaltar que, na hipótese em que pretendem impugnar a aplicação das Súmulas 5 e 7/STJ, devem as agravantes não apenas mencionar que os referidos enunciados devem ser afastados, mas, além disso, também devem demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
