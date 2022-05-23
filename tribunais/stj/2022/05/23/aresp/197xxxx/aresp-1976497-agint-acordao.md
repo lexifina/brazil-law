@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que CBSP - CASABLANCA SERVICE PROVIDER LTDA. (CBSP) promoveu cumprimento de sentença proferida na ação de cobrança ajuizada contra BUSTV CASABLANCA S.A. (BUSTV), objetivando o recebimento de multa por descumprimento de obrigações estipuladas em contrato de prestação de serviço.
+No curso da ação, o pedido de desconsideração da personalidade jurídica da executada BUSTV, formulado por CBSP, foi negado pelo Juízo de primeiro grau.
+Contra essa decisão, CBSP interpôs agravo de instrumento, o qual foi desprovido pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. LUIS CARLOS DE BARROS, assim ementado:
+Incidente de desconsideração da personalidade jurídica. Indeferimento de sua instauração. Adequação diante do teor da inicial apresentada em primeiro grau.
+Recurso improvido (e-STJ, fl. 132).
+Os embargos de declaração opostos por CBSP foram rejeitados (e-STJ, fls. 167/176).
+Inconformada, CBSP manejou recurso especial com fulcro no art. 105, III, a, da Constituição Federal, alegando a violação do art. 50 do CC/2002, ao sustentar que ante a demonstração das irregularidades encontradas, bem como a dificuldade para obter satisfação da dívida, deveria ter sido decretada a desconsideração da personalidade jurídica da ré.
+O apelo nobre não foi admitido em virtude da (1) não demonstração da vulneração do dispositivo arrolado; e (2) incidência da Súmula nº 7 do STJ.
+O agravo em recurso especial daí decorrente foi conhecido para não conhecer do recurso especial, em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PESONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. NECESSIDADE DE ANÁLISE DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (e-STJ, fl. 255 - com destaque no original).
+Nas razões do presente agravo interno, CBSP, repisando os argumentos trazidos nas razões recursais, alegou não incidir a Súmula nº 7 do STJ, por não haver necessidade do reexame de provas.
+Não houve impugnação ao recurso (e-STJ, fl. 171).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, o v. acórdão concluiu, quanto a alegada violação do art. 50 do CC/2002, que a inexistência de patrimônio, não é suficiente para demonstrar a ocorrência de desvio de finalidade ou confusão patrimonial, nas pessoas jurídicas, consoante se vê dos seguintes trechos:
+Analisando-se o teor da petição inicial do incidente de desconsideração da personalidade jurídica (fls. 01/05 dos autos originais), verifica-se que, de fato, o exequente não indicou quais teriam sido os atos de desvio de finalidade e de confusão patrimonial praticados pela executada, o que inviabiliza, realmente, a própria instauração do incidente.
+O agravante alegou em primeiro grau, exclusivamente, como fundamento para o pedido de desconsideração da personalidade jurídica, a inexistência de bens penhoráveis ao longo dos três anos em que vem tentando receber seu crédito.
+Contudo, trata-se de alegação insuficiente à instauração do incidente.
+Data máxima vênia, os requisitos para a desconsideração da personalidade jurídica encontram-se elencados no artigo 50 do Código Civil, o qual tem a seguinte redação:
+"Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou pela confusão patrimonial, pode o juiz decidir, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, que os efeitos de certas e determinadas relações de obrigações sejam estendidas aos bens particulares dos administradores ou sócios da pessoa jurídica".
+Portanto, a lei substantiva indica como requisitos para a desconsideração da personalidade jurídica o desvio de finalidade ou a confusão patrimonial.
+A afirmação da inexistência de patrimônio, não é suficiente para demonstrar a ocorrência de desvio de finalidade ou confusão patrimonial, nas pessoas jurídicas.
+ .. .
+Destarte, como o único fundamento para o pedido de desconsideração, formulado em primeiro instância, foi a inexistência de bens, a decisão que indeferiu a instauração do incidente está correta, não se justificando sua reforma, sendo inviável, o exame de forma original de argumentos, somente trazidos neste agravo de instrumento, e que não fazem parte da petição inicial do incidente de desconsideração da personalidade jurídica, protocolado junto ao Egrégio juízo a quo (e-STJ, fls. 136/141).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CÓDIGO CIVIL DE 2002 (ART. 50). TEORIA MAIOR. RELAÇÃO DE NATUREZA CIVIL-EMPRESARIAL. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. REVISÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Esta Corte adotou orientação no sentido de que, nas relações jurídicas de natureza civil-empresarial, o legislador pátrio adotou a teoria maior da desconsideração da personalidade jurídica, segundo a qual é exigida a demonstração da ocorrência de algum dos elementos objetivos caracterizadores de abuso da personalidade jurídica, tais como o desvio de finalidade (caracterizado pelo ato intencional dos sócios em fraudar terceiros com o uso abusivo da personalidade jurídica) ou a confusão patrimonial (configurada pela inexistência, no campo dos fatos, de separação patrimonial entre o patrimônio da pessoa jurídica e os bens particulares dos sócios ou, ainda, dos haveres de diversas pessoas jurídicas).
+2. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fático-probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1.580.544/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 19/8/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESVIO DE FINALIDADE E/OU CONFUSÃO PATRIMONIAL. REQUISITOS AUSENTES. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no REsp 1.911.354/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 18/6/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS AUSENTES. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA. PRECEDENTES. NÃO PROVIMENTO.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.712.305/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 14/4/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SIMULAÇÃO, PRESENÇA DE CONFUSÃO PATRIMONIAL E DE DESVIO DE FINALIDADE. CIRCUNSTÂNCIAS ATESTADAS PELA CORTE DE ORIGEM. SÚMULAS 7 E 83 DO STJ. AGRAVO IMPROVIDO.
+1. De fato, "a desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp n. 1.311.857/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2014, DJe 2/6/2014).
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+3. No caso, para refutar as conclusões fáticas alcançadas pela Corte estadual, a respeito da caracterização dos requisitos para a desconsideração da personalidade jurídica da empresa e do esgotamento dos bens dos executados, seria necessário o reexame de provas, providência vedada nesta instância especial, em razão do óbice da Súmula n. 7 do STJ.
+4. Agravo improvido.
+(AgInt no AREsp 1.183.050/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 19/6/2018, DJe 28/6/2018 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RECONHECIMENTO DOS REQUISITOS DO ART. 50 DO CC/02. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+5. O Tribunal de origem concluiu que foram comprovados os requisitos para a desconsideração da personalidade jurídica em virtude da confusão patrimonial. Assim, não há como se afastar o óbice da Súmula nº 7 do STJ.
+3. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.107.083/SP, de minha relatoria, Terceira Turma, j. 22/5/2018, DJe 30/5/2018 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 07/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1107867/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 6/2/2018, DJe 14/2/2018 - sem destaque no original)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
