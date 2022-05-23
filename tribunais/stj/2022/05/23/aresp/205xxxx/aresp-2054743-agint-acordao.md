@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que BANCO DO BRASIL S.A. ajuizou ação monitória contraDISTRIBUIDORA DE ALIMENTOS SAITO LTDA. e outros,pleiteando o reconhecimento de dívida com origem em cédula de crédito bancário, acrescida dos encargos contratuais até o efetivo pagamento.
+No curso da ação, o d. Juízo de primeira instância deferiu o pedido,convertendo o mandado monitório em título executivo judicial, determinando a incidência da correção monetária pelo Tabela Prática do TJSP.
+Contra essa decisão interlocutória,BANCO DO BRASILinterpôs agravo de instrumento sustentando que a atualização monetária e demais encargos devem respeitar a previsão contratual.
+Por decisão monocrática, o recurso não foi conhecido, o que ensejou a interposição de agravo interno, ao qual oTribunal de Justiça de São Paulo negou provimento, cujo acórdão, da relatoria da Desembargadora DENISE ANDRÉA MARTINS RETAMERO, foi assim ementado:
+AGRAVO INTERNO - Decisão Monocrótica que não conheceu do Agravo de Instrumento, por ser este recurso manifestamente inadmissível, sendo cabível o Recurso de Apelação -Alegação de ser cabível Agravo de Instrumento contra decisão que converte o mandado monitório em Título Executivo Judicial -De fato, o ato judicial que converte o mandado monitório em Título Executivo Judicial, ausentes pagamento ou Embargos, é uma decisão interlocutória, passível de Agravo de Instrumento. Porém, no presente caso, o MM. Juiz "a quo" proferiu sentença de mérito, com relatório, fundamentação e dispositivo, inclusive indicando o art. 487, inciso I, do Código de Processo Civil, e rejeitando petição dos Apelados na qual de requeriam suspensão do feito por decreto Recuperação Judicial - Ato judicial cristalinamente caracterizado por sentença, passível somente de Apelação - Agravo interno não provido(e-STJ, fl. 57).
+Irresignado, BANCO DO BRASIL S.A.interpôsrecurso especial com base no art. 105, III,a e c, da CF, apontando violação doart. 701do CPC/15, além de divergência jurisprudencial,ao sustentarque o agravo de instrumento é o recurso cabívelcontra a decisão que, devido à ausência de embargos à monitória, constituiu o documento em título executivo judicial (e-STJ, fls. 64/81).
+O recurso não foi admitido pelo TJSPporque não se demonstrou a alegada vulneração aodispositivoindicado e a similitude de situações no tocante a divergência jurisprudencial(e-STJ, fls. 106/108).
+Seguiu-se agravo no recurso especial interposto peloBANCO DO BRASIL S.A., que foi conhecido para não conhecer do apelo nobre, em decisão monocrática de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AÇÃO MONITÓRIA. AUSÊNCIA DE ATAQUE A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO(e-STJ, fl. 186).
+Nas razões do presente agravo interno, BANCO DO BRASIL sustentou que não há falar em incidência doóbicecontidonaSúmula nº283 do STF(e-STJ, fls. 194/201).
+Não foi apresentada impugnação (e-STJ, fls. 209/216).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO MONITÓRIA. AUSÊNCIA DE ATAQUE A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF.DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Conforme relatado, nas razões do especial, BANCO DO BRASIL S.A. alegou violação do art. 701 do CPC, além de divergência jurisprudencial, ao sustentar que o agravo de instrumento é o recurso cabível contra a decisão que, devido à ausência de embargos à monitória, constituiu o documento em título executivo judicial.
+Conforme constou da decisão agravada, o acórdão recorrido assentou-se na fundamentação de que,após a conversão do mandado monitório em título executivo judicial,decisão contra a qual cabível o agravo de instrumento, a defesa pediu a suspensão da ação monitória diante do decreto de recuperação judicial, nos termos do art. 49 da Lei nº 11.101/05, proferindo o magistrado sentença de mérito.
+Contudo,a análise das razões do recurso especial revela que o referido fundamento (não conhecimento do agravo de instrumento por não ser o recurso próprio contra sentença proferida com fulcro no art. 487, I, do CPC, que acolhe o pleito de suspensão da ação monitória devido ao decreto de recuperação judicial) não foi impugnado pelo recorrente, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. COMISSÃO DE CORRETAGEM E TERMO INICIAL DOS JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS.SÚMULA 282 e 356/STF. PREQUESTIONAMENTO FICTO. INEXISTÊNCIA. 2.DECISÃO DENEGATÓRIA DO RECURSO ESPECIAL BASEADA EM RECURSO REPETITIVO. AGRAVO DO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO. 3.ALEGADO JULGAMENTO EXTRA PETITA E BIS IN IDEM. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 4.DANO MORAL. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. 5.VALOR INDENIZATÓRIO. PLEITO DE REDUÇÃO. IMPOSSIBILIDADE DE ACOLHIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. 7. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+ ..
+7. Agravo interno desprovido.
+(AgInt no AREsp 1.805.379/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/12/2021, DJe 9/12/2021)
+Assim, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser ele integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
