@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO contra a decisão que conheceu do agravo para não conhecer do recurso especial (fls. 556/561e-STJ).
+Nas presentes razões, a agravante argumenta, em síntese, que há jurisprudência nesta Corte Superior concluindo pela taxatividade do rol da Agência Nacional de Saúde Suplementar,sentido contrário ao entendimento adotado na decisão atacada.
+Afirma a legalidade da negativa, inexistindo abusividade, visto que as operadoras de planos de saúde não são obrigadas a disponibilizar tratamento não previsto no rol de procedimentos da ANS para a situação clínica do beneficiário.
+Não houve impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ROL DA ANS. CARÁTER EXEMPLIFICATIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O rol de procedimentos da ANS tem caráter meramente exemplificativo, sendo abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A agravante defendeu que o tratamento pretendido pelaagravadanão possui cobertura obrigatória de acordo com o definido no rol da ANS, sendo possível a limitação dos direitos nos contratos de adesão.
+A assistência suplementar à saúde compreende todas as ações necessárias para a prevenção da doença e a recuperação, manutenção e reabilitação da higidez física, mental e psicológica do paciente (art. 35-F da Lei nº 9.656/1998).
+Dessa maneira, a cobertura assistencial obrigatória abrange, caso haja indicação clínica, os insumos necessários para realização de procedimentos cobertos, incluídos os medicamentos imprescindíveis para a boa terapêutica do usuário (arts. 7º, parágrafo único, e 17 da Resolução Normativa nº 387/2015 da Agência Nacional de Saúde Suplementar).
+Acerca da legalidade da negativa de cobertura, a Terceira Turma do Superior Tribunal de Justiça manteve o entendimento jurisprudencial de ser meramente exemplificativo do rol de procedimentos da ANS, reputando abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+Isso porque compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir o tratamento, mas, sim, custear as despesas de acordo com a melhor técnica.
+Desse modo, ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor, revela-se abusiva aquela que exclui o custeio dos meios e dos materiais necessários ao melhor desempenho do tratamento de doença coberta pelo plano.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ROL DE PROCEDIMENTOS DA ANS. PROCEDIMENTO PRESCRITO PELO MÉDICO. RECUSA DE COBERTURA. IMPOSSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. PRECEDENTES. ABUSIVIDADE. RESSALVA DE ENTENDIMENTO DA TERCEIRA TURMA. SÚMULA 83/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. DESCABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. O entendimento desta Corte Superior é firme no sentido de ser "abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato" (AgInt no REsp 1.849.149/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 1º/4/2020).
+2. Cabe ressaltar o advento de um precedente da Quarta Turma em sentido contrário ao deste voto - REsp n. 1.733.013/PR, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2019, DJe 20/2/2020 -, conforme apontado pela ora agravante. Entretanto, esse precedente não vem sendo acompanhado pela Terceira Turma, que ratifica o seu entendimento quanto ao caráter exemplificativo do referido rol de procedimentos.
+3. No caso, não estão presentes os requisitos cumulativos necessários à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015, conforme as regras definidas pela Terceira Turma deste Tribunal Superior nos EDcl no AgInt no REsp n. 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+4. Agravo interno improvido" (AgInt no REsp 1.903.810/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/3/2021, DJe 17/3/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE MEDICAÇÃO PRESCRITA PARA DOENÇA COBERTA PELO PLANO. ALEGAÇÃO DE TRATAMENTO EXPERIMENTAL. USO OFF LABEL NÃO PREVISTO NO ROL DA ANS. DEVER DE COBERTURA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DA TERCEIRA TURMA DO STJ. ILEGITIMIDADE PASSIVA. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência desta Corte Superior, "é abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato". Precedentes. (AgInt no REsp 1849149/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+2. Ilegitimidade passiva afastada na origem. Questão a depender da revisão do contexto fático probatório, o que não é da competência deste Tribunal Superior. Incidência do enunciado 7/STJ.
+3. Agravo Interno não provido"(AgInt no AREsp 1.408.454/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/9/2020, DJe 24/9/2020).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. CONTRATO DE PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO. RECUSA. PRESCRIÇÃO MÉDICA. PREVISÃO NO ROL DA ANS. COBERTURA. NEGATIVA INDEVIDA. PRECEDENTES. DECISÃO MANTIDA.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades cobertas, sendo-lhes vedado, no entanto, limitar os tratamentos a serem realizados, inclusive os experimentais, ou ainda não previstos em rol da ANS. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no REsp 1.871.026/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/8/2020, DJe 27/8/2020).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
