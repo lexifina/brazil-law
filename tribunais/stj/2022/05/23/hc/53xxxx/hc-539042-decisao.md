@@ -1,0 +1,21 @@
+DECISÃO
+CARLOS ROBERTO DA SILVAalega sofrer constrangimento ilegal no seu direito àlocomoção, em decorrência de acórdão do Tribunal Regional Federal da 3ª Regiãona Apelação Criminal n.0008844-22.2006.403.6106.
+O paciente foi condenado, pelos crimes previstos nos arts. 168-A, I,297 e 337-A, III, todos do Código Penal, à pena de 11 anos, 3 meses e 8 dias de reclusão mais 53 dias-multa, em regime inicial fechado.
+Neste writ, o impetrante defende, em síntese, a absolvição do acusado em relação aos crimes previstos nos arts. 297 e 337-A, III, do Código Penal. Aduz que "o paciente não pode ser responsabilizado penalmente por condutas praticadas, nos termos narrados na própria denúncia, por terceira pessoa  o contador " (fl. 28). Alega não ser possível a responsabilidade penal objetiva e que não há elementos mínimos a indicar ter o paciente integrado o iter criminis dos referidos delitos, o que afasta a possibilidade de condenação por coautoria e ou por participação.
+Requer a concessão da ordem para que seja declarada a absolvição do paciente, pelos crimes previstos nos arts. 297 e 337-A do Código Penal, e, subsidiariamente, a declaração de inépcia da denúncia, por ausência de justa causa.
+O Ministério Público Federal, em parecer daSubprocuradora-Geral da República Maria Iraneide Olinda Santoro, às fls. 197-207, opinou pelo não conhecimento do habeas corpus e, eventualmente, pela denegação da ordem.
+Decido.
+Oportuno registrar que todos os pontos invocados pelo impetrante neste habeas corpus foram analisados especialmente no julgamento do Agravo Regimental no Agravo em Recurso Especial n. 1.235.019/SP, no qual constou o tópico a seguir:
+Mantenho a decisão agravada, em todos os seus termos.
+Carlos Roberto da Silva foi condenado, em primeiro grau, por incursão nos arts: a) 168-A, § 1º, I, (apropriação indébita previdenciária), 4 anos e 29 dias dereclusão, mais multa, fl. 1.809); b) 297 (falsificação de documento público, 4 anos, 7 meses e 29 dias de reclusão, mais multa (fl. 1.810); c) 298 (falsificação de documento particular, 3 anos e 6 meses de reclusão, mais multa, fl. 1.810) e d) 337-A, III (sonegação de contribuição previdenciária, 4 anos e 29 dias de reclusão, mais multa, fl. 1.811), todos do Código Penal.
+O Tribunal a quo definiu que todas as condutas de falsidade documental se subsumiam ao art. 297 do CP e extinguiu a punibilidade do agravante em relação aos fatos anteriores a 29/9/2003. Redimensionou sua pena definitiva para 11 anos, 3 meses e 8 dias de reclusão e 53 dias-multa.
+I. Art. 383 do CPP
+Em seu recurso especial, o réu assinalou que, na denúncia, o Ministério Público imputou a ele o "uso de documento falso" (fl. 2.240). Assim, considera ilegal sua condenação por falsificação de guia de recolhimento, em flagrante infringência ao princípio da correlação.
+Conforme ficou consignado às fls. 2.691-2.695, não ficou caracterizada a pretensa violação do art. 383 do CPP.
+A sentença condenatória não modificou a descrição de fatos contidos na denúncia. Na exordial, o Parquet narrou que: a) o réu deixou de recolher contribuições previdenciárias descontadas de terceiros e, para tanto, "omitiu em guias de recolhimento  ..  a totalidade dos valores pagos a segurados empregados e contribuintes" (fl. 682) e b) no curso da fiscalização, apresentou, em concurso com o corréu, "guias de recolhimento com autenticações falsificadas" (fl. 683) e "certidões negativas de débito e certificado de regularidade" falsas (fl. 683).
+Houve a "escrituração, confecção de guias de recolhimento e obtenção de certidões negativas e certificados de regularidade" (fl. 684), "apreendidos e devidamente periciados" (fl. 683) e, por isso, todos os denunciados praticaram, em concurso, "os delitos dos arts.  ..  297 e 298  .. " (fl. 684).
+Durante a instrução, foram comprovadas as "falsificações das guias de recolhimento e emissão das CNS"S falsas" (fl. 1.805). Nesse cenário, o Juiz julgou procedente a ação penal e condenou o recorrente por falsificação de documentos, nos estritos termos da narrativa acusatória.
+Portanto, esta impetração é mera reiteração de pedido já analisado por esta Corte Superior, o que não pode ser admitido.
+II. Dispositivo
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se e intimem-se.
