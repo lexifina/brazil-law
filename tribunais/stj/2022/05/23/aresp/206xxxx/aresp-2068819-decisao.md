@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por ANA ROSA DA SILVA PEREIRA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO INTERNO. APOSENTADORIA RURAL POR IDADE. EXTINÇÃO DO FEITO SEMRESOLUÇÃO DO MÉRITO
+I - Carece a parte autora de comprovação material sobre o exercício deatividade rural por ela desempenhado do período imediatamenteanterior ao implemento do requisito etário.
+II - A interpretação teleológica dos dispositivos legais que versamsobre a questão em exame leva à conclusão que a ausência nos autosde documento tido por início de prova material é causa de extinção dofeito sem resolução do mérito, com base no art. 485, IV, do Novo CPC,pois o art. 55, § 3º, da Lei n. 8.213/91 e a Súmula 149 do E. STJ, aovedarem a prova exclusivamente testemunhal em tais casos, criaramum óbice de procedibilidade nos processos que envolvam oreconhecimento de tempo de serviço, que a rigor acarretaria oindeferimento da inicial, nos termos dos arts. 320 e 321 do atual CPC.
+III - Agravo (CPC, art. 1.021) interposto pela parte autora improvido.
+No recurso especial, o recorrente aponta como violados os arts. 25, 52, 142 e 96 da Lei n. 8.213/1991, sustentando, em síntese, que, ante o início de prova material, restou comprovado o desempenho de atividade laboral campesina pelo segurado, razão pela qual, é devida a concessão da aposentadoria rural por idade ora pleiteada.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+É irrefutável que o Tribunal de origem, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que "é de se reconhecer que não foi apresentado documento indispensável ao ajuizamento da ação, ou seja, início de prova material do período imediatamente anterior ao implemento do requisito etário (..)".
+Dessa forma, para rever tal posição, relativa à ausência de comprovação da qualidade rurícula da atividade desempenhada pelo segurado, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
