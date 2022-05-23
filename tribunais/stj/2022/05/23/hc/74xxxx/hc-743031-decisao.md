@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WILSON ANDRADE DOS SANTOScontra, em tese,decisão monocráticadoTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+O paciente foi denunciado e preso preventivamente pela suposta prática do crime de roubo majorado.
+Inconformada com a prisão,a defesa narra que impetrou a ordem originária, cujo pedido liminar foi indeferido peloTribunal a quo(decisão não carreada).
+Na presente oportunidade, a defesa a afirma a ilegalidade da prisão preventiva do paciente, porfundamentação inidônea do decreto prisional eausência dos requisitos autorizadores da segregação provisória, previstos nos artigos 312 e 315 do Código de Processo Penal, notadamente a contemporaneidade (os fatos são de 15/7/2019 e a prisão somente foi decretada em 30/11/2021).
+Ressalta as condições pessoais favoráveis do paciente, que é primário, sem qualquer antecedente criminal e defende apossibilidade de imposição de medidas cautelares alternativas.
+Diante disso, pleiteia, liminarmente e no mérito, a revogação da prisão preventiva do paciente, mesmo mediante a aplicação de medidas cautelares.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, entretanto, não é possível verificar a existência ou não de constrangimento ilegal porque a decisão monocrática impugnada, proferida peloTribuna de Justiça local, não foi carreada aos autos.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
