@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Chaiane Lazaretti dos Santos- réem ação penal pela prática do crime de homicídio qualificado, atacando-se acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 5093715-35.2022.8.21.7000, que manteve a prisão preventiva e a tramitação da Ação Penal n. 5006238-20.2022.8.21.0033, da 1ª Vara Criminal da comarca de São Leopoldo/RS -, não deve ser conhecido.
+Isso porque se alega constrangimento ilegal consistente no prosseguimento da ação penal, por ausência de indícios suficientes de autoria, ao argumento de que não existe prova alguma da participação de Chaiane no caso em tela (fl. 8), excesso de prazo da tramitação do inquérito policial e deficiência de fundamentação do decreto preventivo. Ocorre, porém, que os autos não estão suficientemente instruídos, carecendo de cópia do acórdão hostilizado, peça indispensável para que seja possível verificar a verossimilhança das alegações.
+Ao que se tem, o rito do habeas corpus - e do recurso ordinário em habeas corpus - pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente (precedentes), o que não ocorreu no caso vertente (HC n. 541.104/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020). Confiram-se julgados nesse sentido: AgRg no HC n. 552.240/PE, Ministra Laurita Vaz, Sexta Turma, DJe 27/2/2020; e HC n. 558.199/SP, Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 16/3/2020.
+Em razão disso, não conheço do presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. AÇÃO PENAL. PRISÃO PREVENTIVA. ALEGAÇÃO DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE CÓPIA DO ACÓRDÃO HOSTILIZADO. INSTRUÇÃO DEFICIENTE.
+Writ não conhecido.
