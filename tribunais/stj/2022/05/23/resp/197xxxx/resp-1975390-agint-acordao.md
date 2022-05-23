@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão quenão conheceu de recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Já no citado Acórdão podemos verificar que o Tribunal de origem se utilizou de decisão genérica para negar ao Estado a prestação jurisdicional adequada, contrariando os preceitos insculpidos nos Arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal; e Arts. 489, § 1º, III, e 1.022, incisos e parágrafo único, do CPC  ..
+ ..
+Ocorre que, da leitura da decisão monocrática proferida no âmbito desse STJ, entende o Agravante que, mais uma vez, a decisão agravada desconsiderou os importantes temas levantados em relação ao termo inicial para a contagem dos juros, que se dá a partir da citação inicial, bem como quanto à fixação dos honorários em percentuais nas causas em que a Fazenda Pública for parte.
+ ..
+Fato é que a interpretação dada pelo r. Acórdão a quo não se coaduna com o conteúdo constitucional que rege a questão (Art. 5º, XXXV, LIV e LV; e Art. 93, IX), e, ainda, se omitiu quanto à análise da aplicação da legislação infraconstitucional (Art. 405 do Código Civil; e Arts. 85, § 3º, 489, § 1º, III, e 1.022, do CPC). Forçoso lembrar que "tanto vulnera a lei aquele que inclui no campo de aplicação hipótese não contemplada, como o que exclui caso nela previsto" (RE nº 161.031 MG, Rel. Min. Marco Aurélio, Plenário do Supremo Tribunal Federal, em 24 de março de 1997, DJU de 06 de junho de 1997), motivo pelo qual entendemos que deve ser suprida a omissão amplamente suscitada pelo Estado, sob pena de se fazer letra morta dos dispositivos constitucionais e infraconstitucionais acima mencionados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO TEMPORÁRIO. FGTS. TERMO INICIAL DE CONTAGEM DE JUROS. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS.AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação declaratória c/ccobrança de FGTSe pedido de indenização pordanos moraiscontra oEstado do Amazonas. Na sentença, o pedido foi julgado parcialmente procedentepara condenar o ente estadual ao pagamento deFGTS nos moldes pleiteados. No Tribunala quo, a sentença foi mantida. Nesta Corte, em decisão monocrática de minha lavra, não se conheceu de recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal.
+II - Conforme esclarecido na decisão agravada, o Tribunal de origem, com lastro no conjunto probatório constante dos autos, manteve inalterada a sentença que acolheu parcialmente a pretensão inicial formulada em desfavor da ora agravante.
+III - Nesse sentido, consoante esclarecido, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração, essencialmente, os fatos e provas relacionados à matéria. Nesse panorama, eventual debate, acerca das pretensões recursais relativas ao exame do termo inicial da contagem dos juros e à fixação de honorários advocatícios, demandaria incursão na seara probatória, sobretudo fática, esbarrando no óbice da Súmula n. 7/STJ.
+IV - Por outro lado, conforme destacado, a ora agravante deduziu, por ocasião da interposição do recurso especial, pretensões quenem sequerforam debatidas no Tribunal de origem. Assim, consoante decidido, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal a quo, o que não ocorreu no presente caso. Dessa forma, ausente o prequestionamento, não é possível o conhecimento do recurso especial.
+V - Com efeito, não se vislumbra pertinência na alegação de negativa de prestação jurisdicional, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de pronunciamento judicial contrário aos seus interesses.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Conforme esclarecido na decisão agravada, o Tribunal de origem, com lastro no conjunto probatório constante dos autos, manteve inalterada a sentença queacolheu parcialmente a pretensão inicial formulada em desfavorda ora agravante.
+Nesse sentido, consoante esclarecido, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração, essencialmente, os fatos e provas relacionados à matéria. Nesse panorama, eventual debate, acerca das pretensões recursais relativas ao exame do termo inicial da contagem dos juros e à fixação de honorários advocatícios, demandaria incursão na seara probatória, sobretudo fática, esbarrando no óbice da Súmula n. 7/STJ.
+Por outro lado, conforme destacado, a ora agravante deduziu, por ocasião da interposição do recurso especial, pretensões quenem sequerforam debatidas no Tribunal de origem. Assim, consoante decidido, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal a quo, o que não ocorreu no presente caso. Dessa forma, ausente o prequestionamento, não é possível o conhecimento do recurso especial.
+Com efeito, não se vislumbra pertinência na alegação de negativa de prestação jurisdicional, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de pronunciamento judicial contrário aos seus interesses.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
