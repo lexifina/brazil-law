@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por DOMINGOS FERREIRA DE CAMARGO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls.407/408):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Da análise das razões do regimental, verifico que a pretensão recursal esbarra, mais uma vez, no óbice da Súmula n. 182 desta Corte Superior, porquanto não foi devidamente impugnada sua incidência na decisão agravada.
+3. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou a insistência no mérito da controvérsia.
+4. Ainda que assim não fosse, verifico que a defesa não apontou, nas razões do recurso especial, os dispositivos de lei federal supostamente violados pelo acórdão recorrido, atraindo para a espécie a incidência da Súmula n. 284 do STF, segundo a qual não se conhece de recurso quando a deficiência em sua fundamentação impede a exata compreensão da controvérsia.
+5. Lado outro, a Corte de origem, em decisão devidamente motivada, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela condenação do acusado. Assim, rever tais fundamentos, para concluir pela ausência de prova concreta da autoria do acusado, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+6. De mais a mais, pela leitura do acórdão que julgou a apelação defensiva, observa-se que a questão da atipicidade da conduta (porquanto o documento estaria sujeito à verificação junto ao órgão de fiscalização), em nenhum momento foi analisada pelo Tribunal de origem, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Como é de conhecimento, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal(AgRg no AREsp n.º 454.427/SP, Rel. Min. LUIS FELIPE SALOMÃO, Quarta Turma, DJe 19/2/2015).
+7. Dessarte, não tendo o Tribunal de origem se manifestado sobre a apontada ofensa ao mencionado dispositivo legal, incidem, na hipótese, os verbetes nº 282 do Supremo Tribunal Federal, o qual disciplina ser inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada", bem como o nº 211 do Superior Tribunal de Justiça: inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+8. Por fim, como é de conhecimento, o Superior Tribunal de Justiça possui a missão constitucional de, por meio do recurso especial, uniformizar a jurisprudência pátria a respeito da adequada aplicação dos dispositivos infraconstitucionais. Nesse contexto, a não demonstração do dissídio jurisprudencial impede o conhecimento do recurso.
+9. Assim, não é possível conhecer do recurso pela alínea "c" do permissivo constitucional, haja vista o recorrente não ter se desincumbido de demonstrar a divergência de forma adequada, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça. Ora, para ficar configurado o dissídio jurisprudencial, faz-se mister "mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados", para os quais se deu solução jurídica diversa. A simples menção a julgados com entendimento diverso, sem que se tenha verificado a identidade ou semelhança de situações, não revela dissídio, motivo pelo qual não é possível conhecer do recurso especial pela divergência.
+10. Agravo regimental não conhecido.
+Sustenta o recorrente a existência de repercussão geral e a nulidade do processo por cerceamento de defesa.
+Alega que "anão realização da perícia grafotécnica - prova essencial à verdade material, causa nulidade absoluta no processo" (e-STJ fl. 435).
+Aduz a ocorrência de incompetência territorial absoluta, pois a comarca competente para julgar o fato é a de Guarulhos/SP.
+Afirma que "aprópria denúncia informa ao juízo que não fora o acusado que inseriu os dados idelogicamente falsos, e sim, o terceiro contratado, o que denota a existência de ausência de autoria do crime, tornando atípica a conduta" (e-STJ fl. 438).
+Defende a ausência de dolo específico que conduz àatipicidade da conduta e, por conseguinte, à ausência do elemento material do crime.
+Assevera que a transferência de pontuação por condução de terceiro não se enquadra na tipificação da falsidade ideológica.
+Argumenta que em atenção ao princípio da eventualidade a pena deve ser fixada no mínimo legal, devendo, portanto, ser redimensionada a sanção e convertida a reprimenda privativa de liberdade em restritiva de direitos.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Pugna, ainda, pela redução do prazo prescricional, tendo em vista a idade do acusado ser superior a 70 anos por ocasião da prolação da sentença.
+As contrarrazões foram apresentadas às e-STJ fls. 450/456.
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário não conheceu do agravo regimental, em razão da ausência de impugnação específica de todos os fundamentos da decisão agravada, incidindo o enunciado n. 182 da Súmula desta Corte Superior.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO.
+1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional.
+2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes.
+3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO.
+1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF.
+2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365).
+3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação constitucional aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
