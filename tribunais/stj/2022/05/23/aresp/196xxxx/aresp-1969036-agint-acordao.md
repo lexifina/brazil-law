@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de agravo interno interposto por RODYLEI CAPELLANI RUIZcontradecisão que concluiu que o exame da controvérsia, pertinente ao julgamento de consistência do auto de infração, demandaria avaliação dedispositivos da Resolução 404/2012 do CONTRAN, providência vedada em recurso especial.
+Em suas razões recursais, a parte agravante alega que a discussão não passa pelo texto da resolução, maspelo texto dos arts. 281, caput, do CTB, e 2º da Lei nº 4.717/65, e 166, IV, do Código Civil Brasileiro.
+A parte agravada apresentou impugnação às fls. 246/248.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO.AUTO DE INFRAÇÃO DE TRÂNSITO. REQUISITOS FORMAIS DO PROCEDIMENTO ADMINISTRATIVO. EXAME DE RESOLUÇÃO. INVIABILIDADE EM RECURSO ESPECIAL.
+1. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos da Resolução 404/2012 do CONTRAN, pretensão insuscetível de ser apreciada em recurso especial, por não se enquadrar no conceito de lei federal previstono texto constitucional (art. 105, III).
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+No caso, oTribunal Regional manteve a sentença de improcedência, que concluiu pelaregularidade do procedimento administrativo (fls. 125/128):
+Fixadas essas premissas, passo à análise do caso concreto.
+Na situação posta, o autor não questiona as notificações, ou seja, não há divergência acerca da expedição e recebimento das notificações. Sustenta, apenas, que a autoridade expediu diretamente a notificação da autuação sem realizar o julgamento de consistência. Alega, ainda, que, posteriormente aparte ré procedeu à expedição da notificação de imposição de penalidades em a realização de qualquer julgamento.
+Examino.
+Sobre a consistência do auto de infração, dispõem o art. 281 do Código de Trânsito e os arts. 2º e 3º da Resolução nº 404/12 do CONTRAN (vigente na época do fato):
+Código Brasileiro de Trânsito
+Art. 281. A autoridade de trânsito, na esfera da competência estabelecida neste Código e dentro de sua circunscrição, julgará a consistência do auto de infração e aplicará a penalidade cabível.(..) (Grifei).
+Resolução 404, de 12 de junho de 2012
+Art. 2º Constatada a infração pela autoridade de trânsito ou por seu agente, ou ainda comprovada sua ocorrência por aparelho eletrônico ou por equipamento audiovisual, reações químicas ou qualquer outro meio tecnologicamente disponível, previamente regulamentado pelo CONTRAN, será lavrado o Auto de Infração que deverá conter os dados mínimos definidos pelo art. 280 do CTB e em regulamentação específica.
+§ 1º O Auto de Infração de que trata o caput deste artigo poderá ser lavrado pela autoridade de trânsito ou por seu agente:
+I - por anotação em documento próprio;
+II - por registro em talão eletrônico isolado ou acoplado a equipamento de detecção de infração regulamentado pelo CONTRAN, atendido o procedimento definido pelo órgão máximo executivo de trânsito da União; ou
+III - por registro em sistema eletrônico de processamento de dados quando a infração for comprovada por equipamento de detecção provido de registrador de imagem, regulamentado pelo CONTRAN.
+§ 2º O órgão ou entidade de trânsito não necessita imprimir o Auto de Infração elaborado nas formas previstas nos incisos II e III do parágrafo anterior para início do processo administrativo previsto no Capítulo XVIII do CTB, porém, quando impresso, será dispensada a assinatura da Autoridade ou de seu agente.
+§ 3º O registro da infração, referido no inciso III do § 1º deste artigo, será referendado por autoridade de trânsito, ou seu agente, que será identificado no Auto de Infração.
+§ 4º Sempre que possível o condutor será identificado no momento da lavratura do Auto de Infração.
+§ 5º O Auto de Infração valerá como notificação da autuação quando for assinado pelo condutor e este for o proprietário do veículo.
+§ 6º Para que a notificação da autuação se dê na forma do § 5º, o Auto de Infração deverá conter o prazo para apresentação da defesa da autuação, conforme § 3º do art. 3º.
+§ 7º O talão eletrônico previsto no inciso II do § 1º trata-se de sistema informatizado (software) instalado em equipamentos preparados para este fim ou no próprio sistema de registro de infrações dos órgãos ou entidades de trânsito, na forma disciplinada pelo órgão máximo executivo de trânsito da União.
+Da notificação da autuação
+Art. 3º À exceção do disposto no § 5º do artigo anterior, após a verificação da regularidade e da consistência do Auto de Infração, a autoridade de trânsito expedirá, no prazo máximo de 30 (trinta) dias contados da data do cometimento da infração, a Notificação da Autuação dirigida ao proprietário do veículo, na qual deverão constar os dados mínimos definidos no art. 280 do CTB e em regulamentação específica.
+§ 1º Quando utilizada a remessa postal, a expedição se caracterizará pela entrega da notificação da autuação pelo órgão ou entidade de trânsito à empresa responsável por seu envio.
+§ 2º A não expedição da notificação da autuação no prazo previsto no caput deste artigo ensejará o arquivamento do Auto de Infração.
+§ 3º Da Notificação da Autuação constará a data do término do prazo para a apresentação da Defesa da Autuação pelo proprietário do veículo ou pelo condutor infrator devidamente identificado, que não será inferior a 15 (quinze) dias, contados da data da notificação da autuação ou publicação por edital, observado o disposto no art. 12 desta Resolução.
+§ 4º A autoridade de trânsito poderá socorrer-se de meios tecnológicos para verificação da regularidade e da consistência do Auto de Infração.
+§ 5º Os dados do condutor identificado no Auto de Infração deverão constar na Notificação da Autuação, observada a regulamentação específica.
+Pois bem, dos artigos acima transcritos, conclui-se que o julgamento de consistência nada mais é que uma breve verificação acerca da regularidade do auto de infração, antes de expedir a notificação para que o interessado apresente defesa, apontando, se for o caso, eventuais vícios. Só então, realiza-se a análise das insurgências apresentadas e aplica-se a penalidade cabível.
+Isso porque os atos administrativos gozam de presunção de legitimidade e veracidade, o que dispensa que seja proferida decisão administrativareafirmando a subsistência do auto de infração antes da expedição da notificação.
+Vejamos o termo utilizado pela citada Resolução nº 404/2012 do CONTRAN, em destaque no dispositivo abaixo:
+Art. 3º À exceção do disposto no § 5º do artigo anterior, após a verificação da regularidade e da consistência do Auto de Infração, a autoridade de trânsitoexpedirá, no prazo máximo de 30(trinta) dias contados da data do cometimento da infração, a Notificação da Autuação dirigida ao proprietário do veículo, na qual deverão constar os dados mínimos definidos no art. 280 do CTB e em regulamentação específica.
+Ou seja, a determinada "verificação da regularidade e da consistência do auto de Infração", não há ato específico, como faz crer o autor na peça inicial. Nessa linha, infere-se que não se exige um arrazoado da Administração, prévio à notificação, apontando os motivos da regularidade do auto, mas sim que, sendo inadequado o documento expedido, não se promova a notificação para defesa. É, em síntese, postulado que ampara todos os atos da Administração, no sentido de que, diante das presunções que os cercam, deve-se dar especial atenção à sua regularidade.
+Dessa forma, não identifico a existência do referido vício no procedimento adotado.
+É oportuno ressaltar que o demandante não indica qualquer defeito no auto de infração que pudesse exigir da Administração a conclusão acerca da sua insubsistência.
+Assim, a ausência de decisão formalmente reconhecendo a regularidade da autuação não acarreta qualquer prejuízo ao autuado.
+Outrossim, quanto à alegação de decadência, observo que, conforme relatório resumido do auto de infração (ev. 6, OFIC2, página 4), resta comprovada a expedição da notificação da autuação no prazo de 30 (trinta)dias contados da infração, não sendo caso de aplicação do parágrafo único do artigo 281 do Código de Trânsito Brasileiro. Confira-se o documento com as datas em destaque (..)
+Com efeito, inexistem vícios no procedimentos administrativo de multa da parte apelante.
+A nulidade do auto de infração ocorreria apenas no caso de descumprimento das determinações legais estampadas no art. 281 do CTB. O julgamento da consistência da penalidade é resultado da realização em si do procedimento administrativo. Ou melhor, há a autuação, abre-se prazo para defesa prévia, julga-se a consistência do auto de infração e, então, ocorre a segunda notificação.
+No caso, não foi apresentada a defesa prévia, tampouco, qualquer defesa por parte do autuado.
+Conforme o Min. Teori Albino Zavascki, quando do julgamento do REsp 567.038/RS, "a defesa quanto à consistência do auto de infração cabe ao condutor do veículo no momento da constatação da irregularidade, pois é ele que conhece as circunstâncias em que o fato ocorreu". Logo, em não havendo defesa prévia, a notificação de autuação foi julgada consistente e procedeu-se à notificação de infração. Pelos elementos dos autos, o procedimento administrativo é escorreito.
+Ademais, é possível a utilização de meios tecnológicos para verificação da regularidade e da consistência do Auto de Infração de Trânsito, o que de todo não infirma a legislação de trânsito. O julgamento de consistência do auto de infração não depende de outras formalidades senão a confirmação da aplicação da penalidade, desde que observados os demais requisitos legais, especialmente a notificação de aplicação de penalidade, como aqui se deu.
+Assim, como antes asseverado, quanto à alegação de afronta ao art. 281 do CPC, pertinente ao julgamento de consistência do auto de infração, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos da Resolução 404/2012 do CONTRAN, pretensão insuscetível de ser apreciada em recurso especial, por não se enquadrar no conceito de lei federal previstono texto constitucional (art. 105, III).
+Em reforço:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 489 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ANTT. RESOLUÇÃO. IMPOSSIBILIDADE DE CONHECIMENTO. RECURSO ESPECIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. 1. Não se conhece do Recurso Especial em relação à ofensa ao art. 489 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Aplicação, por analogia, da Súmula 284/STF.
+2. O acórdão recorrido conclui que os autos de infração foram lavrados com fundamento no art. 34, VII, da Resolução 3.056/2009, em virtude de infração administrativa no âmbito do exercício do poder de polícia da ANTT, não sendo aplicável o Código de Trânsito Brasileiro ao caso. Para alterar as conclusões da Corte de origem de que os autos de infração decorrem de penalidade administrativa no âmbito do exercício do poder de polícia da ANTT, seria necessário o exame dos dispositivos da Resolução 3.058/2009, o que é vedado em Recurso Especial, por não se inserir no conceito de lei federal trazido no art. 105, III, "a", da Constituição Federal.
+3. Ademais, o STJ entende que "as sanções administrativas aplicadas pelas agências reguladoras, no exercício do seu poder de polícia, não ofendem o princípio da legalidade, visto que a lei ordinária delega a esses órgãos a competência para editar normas e regulamentos no âmbito de sua atuação, inclusive tipificar as condutas passíveis de punição, principalmente acerca de atividades eminentemente técnicas" (REsp 1.522.520/RN. Rel. Ministro Gurgel de Faria. Julgado em 1º/2/2018, DJe em 22/2/2018).
+4. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+5. Recurso Especial não conhecido.
+(REsp 1728281/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/05/2018, DJe 21/11/2018)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
