@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  por  UNIÃO,  contra  decisão  monocrática  que  que não conheceu do recurso em razão depretender discutir os efeitos de decisão do Supremo Tribunal Federal em sede de medida cautelar concedida em controle concentrado de constitucionalidade.
+2.  Nas  razões  de  seu  agravo  interno,  a  parte  agravante  alega,  em  suma, que:
+Neste eixo, tendo a União demonstrado nas suas razões de apelo raro que o acórdão regional não observou o quanto estatuído no art. 11, §1º, da Lei 9868/99, sendo certo que a sua tese é de índole legal e encontra pleno amparo na jurisprudência pacífica dessa E. Corte Superior, é o caso de se reformar a decisão ora agravada para se dar provimento ao seu recurso especial(fl.398).
+3.  Pugna,  desse  modo,  pela  reconsideração  da  decisão  agravada  ou  para  que  o  feito  seja  levado  à  Turma  competente  para  julgamento.
+4.  Sem  impugnação  ao  recurso.
+5.  É  o  relatório  do  essencial.
+EMENTA
+ADMINISTRATIVO.  AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO  EM  RECURSO  ESPECIAL.  DEMARCAÇÃO.  MATÉRIA  CONSTITUCIONAL  NÃO  IMPUGNADA.  AUSÊNCIA  DE  INTERPOSIÇÃO  DE  RECURSO  EXTRAORDINÁRIO  (RE).  INCIDÊNCIA  DA  SÚMULA  126/STJ.  AGRAVO  INTERNO  DA UNIÃO  A  QUE  SE  NEGA  PROVIMENTO.
+1.  Há  fundamento  constitucional  autônomo  no  acórdão  recorrido  e  não  houve  manejo  do  devido  Recurso  Extraordinário  dirigido  ao  Supremo  Tribunal  Federal,  o  que  atrai  a  incidência  da  Súmula  126/STJ.  Registre-senão  ser  o  caso  da  aplicação  do  art.  1.032  do  CPC/2015,  uma  vez  que  a  regra  pertinente  ao  princípio  da  fungibilidade  incide  quando  erroneamente  interposto  o  recurso  especial  contra  questão  de  natureza  exclusivamente  constitucional,  e,  em  relação  ao  caso  sob  análise,  o  acórdão  tem  dupla  fundamentação  -  constitucional  e  infraconstitucional  -,  sendo  necessária  a  interposição  de  dois  recursos  de  natureza  extraordinários  distintos  (REsp  e  RE).  Todavia,  não  houve  manejo  do  recurso  extraordinário  (RE),  o  que  atrai  a  incidência  da  Súmula  126/STJ.
+2.  Agravo  interno  da União a  que  se  nega  provimento.
+
+VOTO
+1.  A  despeito  das  alegações  da  s  parte  s  agravantes,  razão  não  lhe  s  assiste.
+2.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+3.  Ainda,  ao  analisar  a  controvérsia,  o  acórdão  recorrido  partiu  das  seguintes  premissas:
+Por outro lado, nos termos do art. 127 do Decreto -Lei n. 9.760/1940, a taxa de ocupação é a receita patrimonial decorrente da ocupação de terrenos da União, sem que esta tenha outorgado título.
+São bens da União aqueles elencados pelo artigo 20, inciso IV, da Constituição Federal.
+(..).
+A redação original deste artigo estabelecia como bens da União "as ilhas fluviais elacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas e ascosteiras, excluídas, destas as áreas referidas no art. 26, II".
+Com efeito, a alteração introduzida no artigo 20, inciso IV, da Constituição Federal, elaEmenda Constitucional nº 46/2005, excluiu da propriedade da União as ilhas costeiras que contenhamsede de Município, ressalvadas as hipóteses nela previstas e as áreas que já se encontravamincorporadas aos domínios dos Estados, dos Municípios e dos particulares (arts. 20,IV e 26 II).
+Como se vê a Constituição Federal atual admite a existência de terrenos de particularesem ilhas oceânicas e costeiras, sedo domínio particular antes da referida Constituição.
+In casu, a Fazenda Nacional sustenta que existem áreas localizadas na ilha em questãoque foram incorporadas ao patrimônio da União por força de algum outro título aquisitivo, oque afasta qualquer discussão sobre a aplicação da EC 46/2005(fls. 160/162).
+4.  Como  se  vê,  há  fundamento  constitucional  autônomo  no  acórdão  recorrido  e  não  houve  manejo  do  devido  Recurso  Extraordinário  dirigido  ao  Supremo  Tribunal  Federal,  o  que  atrai  a  incidência  da  Súmula  126/STJ.
+5.  Registro  não  ser  o  caso  da  aplicação  do  art.  1.032  do  CPC/2015,  uma  vez  que  a  regra  pertinente  ao  princípio  da  fungibilidade  incide  quando  erroneamente  interposto  o  recurso  especial  contra  questão  de  natureza  exclusivamente  constitucional,  e,  em  relação  ao  caso  sob  análise,  o  acórdão  tem  dupla  fundamentação  -  constitucional  e  infraconstitucional  -,  sendo  necessária  a  interposição  de  dois  recursos  de  natureza  extraordinários  distintos  (REsp  e  RE).  Todavia,  não  houve  manejo  do  recurso  extraordinário  (RE),  o  que  atrai  a  incidência  da  Súmula  126/STJ.  Nesse  sentido:
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  FUNDAMENTOS  CONSTITUCIONAIS.  ARTS.  196,  226,  227  E  229  DA  CF/1988.  PROTEÇÃO  À  SAÚDE  E  À  FAMÍLIA.  SÚMULA  126  DO  STJ.  INCIDÊNCIA.  ART.  1.032  DO  CPC/2015.  INAPLICABILIDADE.
+1.  A  controvérsia  foi  dirimida  com  base  em  fundamentos  constitucional  e  infraconstitucional,  sendo  certo  que  o  recorrente  não  interpôs,  simultaneamente  ao  apelo  especial,  o  recurso  extraordinário,  motivo  pelo  qual  incide  no  caso  a  Súmula  126/STJ:  "É  inadmissível  recurso  especial,  quando  o  acórdão  recorrido  assenta  em  fundamentos  constitucional  e  infraconstitucional,  qualquer  deles  suficiente,  por  si  só,  para  mantê-lo,  e  a  parte  vencida  não  manifesta  recurso  extraordinário."
+2.  A  regra  do  art.  1.032  do  CPC/2015,  pertinente  ao  princípio  da  fungibilidade,  incide  apenas  quando  erroneamente  interposto  o  recurso  especial  contra  questão  de  natureza  exclusivamente  constitucional,  o  que  não  é  o  caso  dos  autos.  Precedentes.
+3.  Recurso  especial  não  conhecido.  (REsp  1.644.269/RS,  Rel.  Ministro  OG  FERNANDES,  SEGUNDA  TURMA,  julgado  em  23/06/2020,  DJe  7/8/2020  -  sem  destaques  no  original).
+
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  ACÓRDÃO  COM  FUNDAMENTO  CONSTITUCIONAL  E  INFRACONSTITUCIONAL.  RECURSO  EXTRAORDINÁRIO.  INEXISTÊNCIA.  SÚMULA  126  DO  STJ.  INCIDÊNCIA.
+1.  O  Plenário  do  STJ  decidiu  que  "aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC"  (Enunciado  Administrativo  n.  3).
+2.  É  manifestamente  inadmissível  o  recurso  especial  manejado  contra  acórdão  assentado  em  fundamentação  constitucional  e  infraconstitucional,  ambas  suficientes  e  autônomas  à  preservação  do  decisum,  quando  a  parte  vencida  não  interpõe  recurso  extraordinário.  Inteligência  da  Súmula  n.  126/STJ.
+3.  Apesar  de  o  art.  1.032  do  Código  de  Processo  Civil  de  2015  prever  a  aplicação  do  princípio  da  fungibilidade  ao  apelo  nobre  que  versar  sobre  questão  constitucional,  tal  aplicação  está  condicionada  à  hipótese  em  que  há  um  equívoco  quanto  à  escolha  do  recurso  cabível,  sendo  certo  que,  no  caso  dos  autos,  além  da  inexistência  de  recurso  em  separado  no  tocante  ao  capítulo  decisório  de  fundamento  constitucional,  sequer  foi  apontada  contrariedade  a  preceitos  constitucionais,  de  modo  que  não  há  falar  em  aplicação  do  princípio  antes  referido.
+4.  Agravo  interno  desprovido.  (AgInt  no  REsp  1.651.768/PR,  Rel.  Ministro  GURGEL  DE  FARIA,  PRIMEIRA  TURMA,  julgado  em  7/5/2019,  DJe  24/5/2019  -  sem  destaques  no  original).
+6.  Assim,  tendo  em  vista  que  as  alegações  declinadas  no  presente  agravo  interno  não  são  capazes  de  alterar  o  entendimento  anteriormente  manifestado,  mantenho  incólume  a  decisão  agravada.
+7.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  da União.
+8.  É  o  voto.
