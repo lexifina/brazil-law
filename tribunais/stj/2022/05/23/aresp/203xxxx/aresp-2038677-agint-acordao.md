@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Vistos etc.
+Trata-se de agravo interno interposto por FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL REFER, em face de decisão proferida pela Presidência deste Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial interposto pela agravante em razão (i) da ausência de prequestionamento quanto à tese recursal e (ii) da incidência da Súmula7/STJ (e-STJ fls. 2299-2302).
+Nas razões de seu agravo interno, a parte recorrente pugna pela modificação do julgado deduzindo, em resumo, que "não prospera portanto, a tese de que a julgado ao qual se recorre, encontra-se em consonância do entendimento do STJ -e que por isso encontraria óbice na Súmula 83 -na medida em que se tratam de situações díspares, autorizando assim, este Egrégio Superior Tribunal de Justiça a conhecer da matéria, sob pena de grave cerceamento de defesa da Agravante." (e-STJ fls. 2313); e que " .. quando for efetuada a análise do caso, houver errônea aplicação de um princípio legal ou negativa de vigência de norma, estamos diante de uma má valoração da prova, situação esta que diverge da prevista na Súmula 7 do STJ" (idem).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO IMPUGNA FUNDAMENTO AUTÔNOMO E SUFICIENTE, POR SI SÓ, PARA MANTER A CONCLUSÃO DE NÃO CONHECIMENTO DO RECURSO ESPECIAL. ART. 1.021, § 1º, DO CPC/15. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. SÚMULA 182/STJ.
+AGRAVO INTERNO NÃO CONHECIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece conhecimento.
+Na espécie, a parte agravante não se desincumbiu do ônus da impugnação específica dos fundamentos da decisão agravada.
+Com efeito, o recurso especial da recorrente foi inadmitido em razão de dois fundamentos, a saber:(i) ausência de prequestionamento quanto à tese recursal e (ii)incidência da Súmula 7/STJ,considerando que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos(e-STJ fls. 2299-2302).
+Ocorre que da leitura do agravo interno não se é possível verificar qualquer impugnação, seja genérica, seja específica, a respeito daausência de prequestionamento quanto à tese recursal. Restando incólume, portanto, o referido fundamento.
+Destarte, permanecendo intocada fundamentação autônoma da decisão da presidência capaz de sustentar por si só todo o julgado, incide, na espécie, o art. 1.021, § 1º, do CPC/2015 e a Súmula 182/STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONCESSÃO DE EFEITO SUSPENSIVO. ART. 739-A DO CPC/1973. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. DECISÃO AGRAVADA QUE ENTENDEU INCIDENTES AS SÚMULAS 7/STJ E 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO IMPUGNA O SEGUNDO FUNDAMENTO AUTÔNOMO E SUFICIENTE, POR SI SÓ, PARA MANTER A CONCLUSÃO DE NÃO CONHECIMENTO DO RECURSO ESPECIAL. ART. 1.021, § 1º, DO CPC/2015. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Cabe ao agravante, nas razões do agravo interno, trazer argumentos suficientes para impugnar os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015, sob pena de não conhecimento do recurso. No caso, o agravante não apresentou argumentos hábeis a infirmar um dos fundamentos autônomos da decisão - incidência da Súmula 283/STF -, o qual é capaz de, por si só, manter incólume a conclusão final de não conhecimento do recurso especial.
+2. "Não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Relator o Ministro João Otávio de Noronha, julgado em 19/5/2016 e publicado no DJe de 24/5/2016).
+3. Tendo em vista que o agravo interno foi interposto sem atender nem sequer os requisitos mínimos de admissibilidade, incide, na hipótese, a multa prevista no § 4º do art. 1.021 do CPC/2015, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt no EREsp 1.120.356/RS, julgado em 24 de agosto de 2016.
+4. Agravo interno não conhecido, com aplicação de multa de 1% sobre o valor atualizado da causa.
+(AgInt no AREsp 961.369/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/09/2016, DJe 30/09/2016 - g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. RESILIÇÃO DE PROMESSA DE COMPRA E VENDA. CRITÉRIO DE RESTITUIÇÃO. ARRAS CONFIRMATÓRIAS. REEXAME DE CLÁUSULAS E CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil de 2015, cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de impugnação de todos os fundamentos da decisão agravada, conforme verificado no presente caso, enseja o não conhecimento do recurso.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1823872/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/08/2021, DJe 13/08/2021 - g.n.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE REPETIÇÃO DE INDÉBITO. REAJUSTE DA MENSALIDADE DO SEGURO SAÚDE. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 926.417/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/05/2017, DJe 26/05/2017 - g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a incidência do art. 932, III, do NCPC, c/c o art. 1º da Resolução STJ nº 17/13, que levaram ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado. Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+(AgRg no AREsp 991.798/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/02/2017, DJe 07/03/2017 - g.n.)
+Ante o exposto, com base no art. 1.021, § 1º, do CPC/2015, não conheço do presente agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, do CPC/2015).
+É o voto.
