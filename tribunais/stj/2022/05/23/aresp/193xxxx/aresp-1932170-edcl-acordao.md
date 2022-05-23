@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 818):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+A embargante sustenta que o acórdão contém omissão, pois "O agravo traz um título que trata especificamente do assunto, esclarecendo que o enunciado de Súmula não tem aplicabilidade, pois não se discute reexame de norma local. (..) Assim, resta claro que a aplicação equivocada do enunciado de Súmula nº 280/STF foi objeto de impugnação no recurso. Não se confunda ausência de impugnação com capacidade de síntese e objetividade." (fls. 831-833).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que, tendo a decisão então agravada não conhecido do agravo em recurso especial porque não impugnado, especificamente, um dos fundamentos da decisão que inadmitiu o recurso na Corte de origem (qual tenha sido, a incidência da Súmula 280/STF), a recorrente não demonstrou, no seu agravo interno, ter se insurgido oportunamente contra a decisão que obstou o apelo nobre.
+Consignou-se no aresto que ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não se verificou no caso. Ressaltou-se ainda que, no concernente à Súmula 280/STF, o adequado combate à aplicação do óbice exige da parte que ela demonstre a desnecessidade, na solução da controvérsia, de análise de legislação local, fazendo o contraponto com a incidência tão somente da legislação federal invocada, até mesmo porque a decisão agravada, na hipótese concreta, apontou que o colegiado estadual decidiu o caso a partir de interpretação daquela legislação.
+Ora, como relatado por ocasião do julgamento desta feita embargado, no agravo interno a parte alegou tão somente que "O recurso destaca que a questão não é de reexame de lei local, uma vez que é público, notório e incontroverso que a COMLURB sempre administrou o Aterro de Gramacho e, por isso, não faz o menor sentido que pague taxa por um serviço que ela mesma presta." (fl. 784). Além de tal assertiva singela não demonstrar a impugnação oportuna ao óbice em discussão, refere-se a trecho do agravo em recurso especial em que a parte defende a ocorrência de ofensa ao art. 1022 do CPC/2015 ("Da mesma forma, não se pretende o reexame de lei local. É público e notório que a COMLURB sempre administrou o Aterro de Gramacho e, por isso, não faz o menor sentido que a remunere por taxa ente público pelo serviço que é a própria COMLURB que presta. Essa questão foi IGNORADA pelo acórdão, caberá ao Tribunal de Justiça apreciar essa questão e, se for o caso, analisar a legislação, não ao Superior Tribunal de Justiça." - fl. 723), sendo que, repisa-se, nada mais foi dito pela parte quanto ao óbice sumular. Deste modo, nos termos ressaltados noaresto, não há como se considerar ter havidoimpugnação eficaz.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
