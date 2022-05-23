@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado porFlavio Henrique Pereira Carrarodadecisão, de minha lavra, em que indeferi liminarmente a inicial, por entender não haver constrangimento ilegal manifesto. Eis a ementa(fl. 230):
+HABEAS CORPUS. EXECUÇÃO. PLEITO DE EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA SEM RECOLHIMENTO DO SENTENCIADO. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA. COMPROVAÇÃO DE SITUAÇÃO EXCEPCIONAL A AFASTAR OS ARTS. 105 DA LEI N. 7.210/1984 E 674 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Com efeito, busca o requerente a reconsideração da decisão atacadapara que seja concedida a ordem, ao argumento de que não se trata de mandamus impetrado contra decisão monocrática que indeferiu pedido liminar, ao contrário, foi o writ impetrado contra o acórdão exarado pela Corte estadual.
+Sustenta que o sistema prisional lotado em Mariana, não seria neste momento necessário voltar com o paciente para cárcere se ele já tem direito ao regime aberto, tem remissões e detração a servisualizada ainda sem a Execução de Pena definitiva (fls. 237/238)
+Reitera, por fim, os termos da impetração.
+É o relatório.
+Num primeiro momento, demonstrou a defesa o desacerto da decisão recorrida, uma vez que consta dos autos o acórdão a quo às fls. 174/180; e, por essa razão, deveria ser o presente pedido deferido parcialmente apenas para permitir o processamento da impetração.
+No entanto, em razão dos princípios da economicidade e celeridade processuais, deve ser mantido o indeferimento da inicial, pois a questão de fundo deste writ não se altera com o prosseguimento do habeas corpus, uma vez que resta inalterável o entendimento desta Corte Superior de Justiçaacerca da determinação de expedição de guia de execução definitiva sem o recolhimento obrigatório do requerente ao cárcere.
+Nesse sentido, reitero o quanto disposto anteriormente, mantendo a razão de decidir adotada(fl. 231):
+ ..
+Com efeito, como bem anotou a defesa, a expedição da referida guia ao condenado à pena privativa de liberdadeestá condicionada à sua prisão, conforme disposto nos arts. 105 da Lei n. 7.210/1984 e 674 do Código de Processo Penal.Assim, somente após o cumprimento do decreto de prisãoa defesa poderia pleitear ao Juízo das execuções a apreciação de benefícios inerentes à execução da pena.
+Contudo, de fato, em algumas situações, alei cria lacuna que deixa o reeducando em uma espécie de limbo jurídico, em que se encontra impossibilitado de requerer benefícios a qualquer autoridade judiciária, o que afronta a garantia constitucional contida no art. 5º, XXXV, da Constituição Federal. Nesse contexto, tem-se entendido nesta Corte Superior que, em circunstâncias excepcionais e específicasqueimpliquem o recálculo da pena ou a fixação do regimemais brando de seu cumprimento (detração), é possível que a condição do prévio recolhimento ao cárcere para início da execução seja afastada. Nesse sentido:EDcl no AgRg no AgRg no AREsp n. 1.814.171/SP,Ministro João Otávio de Noronha, Quinta Turma, DJe 22/11/2021.
+Na hipótese, contudo, considerando-se que owritnão admite dilação probatória, o paciente não logrou demonstrarque possua direito líquido e certo aobenefício pleiteado(remição e detração).
+Assim, não verificada qualquer situação configuradora de abuso de poder ou de ilegalidade flagrante, deve-se aguardar o cumprimento do mandado de prisão para a expedição da guia de execução, nos termos da legislação vigente. Nesse sentido: AgRg no RHC n. 148.294/CE,Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 16/11/2021;eAgRg no RHC n. 144.223/RJ, de minha relatoria, Sexta Turma, DJe 21/6/2021.
+ ..
+Em face do exposto, indefiroo pedido.Prejudicadas as petições de fls. 256/260 e 261/265.
+Publique-se.
