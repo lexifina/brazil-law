@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se derecurso especial interposto contraacórdão assim ementado (e-STJ fl. 211):
+AGRAVO DE INSTRUMENTO. Recuperação Judicial. Decisão que deferiu mandado de pagamento para satisfação de parcelas atrasadas dos honorários do administrador judicial. Alegação de necessidade de fixação de novo valor e deferimento de pagamento de forma parcelada. Não acolhimento. Agravantes, recuperandas, que desde o início do processo vêm concordando com o percentual 2,5% dos créditos habilitados para os honorários do administrador. Impossibilidade de redução do valor e novo parcelamento. Os honorários do Administrador Judicial têm natureza de dívida extraconcursal. Recurso a que se nega provimento.
+Os embargos de declaraçãoforamrejeitados (e-STJ fls. 237/240).
+No especial (e-STJ fls. 242/266), fundamentado no art. 105, III, "a" e "c", da CF, as recorrentes alegam divergência jurisprudencial e violação dos arts. 24, § 1º, e 47 da Lei n. 11.101/2005, pois (e-STJ fls. 249/251):
+(..) a decisão ora recorrida padece no mínimo de legalidade e razoabilidade, na medida em que, em momento algum houve acordo entre Administrador Judicial e recuperandas e, ainda que houvesse, tal tratativa estaria repleta de nulidade. Ao contrário do que restou consignado na r. decisão recorrida, o teor do artigo 24 caput e §1º da Lei de Recuperação Judicial é clarividente que cabe ao juiz fixar o valor e a forma de pagamento da remuneração do administrador judicial, observados a capacidade de pagamento do devedor, o grau de complexidade do trabalho e os valores praticados no mercado para o desempenho de atividades semelhantes, não podendo, o total pago ao administrador judicial, exceder 5% (cinco por cento) do montante devido aos credores submetidos à recuperação judicial.
+(..)
+Além disso, a autorização de pagamento dos honorários sem parcelamento contraria a preservação da atividade econômica e segurança à execução do plano, visto que à agravante é negada a possibilidade de parcelar seus créditos.
+Não se pode olvidar a essência principio lógica da recuperação judicial, como dispõe o art. 47, cujo objetivo é viabilizar a superação da crise econômico-financeira instalada na empresa, que terá como resultado a perduração da atividade empresarial, das fontes de produção, dos postos de trabalho e dos direitos dos credores.
+Destacamque o administrador judicial "faria jus ao valor total estipulado em honorários, no caso de auxiliar o Juízo em todo o processo de Recuperação Judicial, o que não ocorreu no caso em tela, já que renunciou ao seu posto" (e-STJ fl. 252).
+Sustentam que (e-STJ fl. 258):
+(..) considerados os parâmetros aplicados pela jurisprudência, acima exemplificados, a aplicação de 2% com base na 2ª relação de credores (passivo R$ 27.664.080,57) se mostra mais consentâneo à realidade da recuperação in casu, pois se perfaz no valor de R$ 553.281.61 (quinhentos e cinquenta e três mil, duzentos e oitenta e um reais e sessenta e um centavos) a serem divididos em 20 parcelas de R$ 27.066,00 (vinte e sete mil e sessenta e seis reais).
+O Ministério Público Federal opinou, nos seguintes termos (e-STJ fls. 517/518):
+- Recuperação judicial. Agravo de instrumento contra decisão que deferiu o pagamento de parcelas atrasadas a título de remuneração devido ao administrador judicial. Acórdão recorrido que mantém a r. decisão agravada.
+- Recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, que aponta violação aos arts. 24, caput, § 1º, e 47, ambos da Lei nº 11.101/2005, além de dissídio jurisprudencial.
+- A análise da correta aplicação dos critérios acerca da capacidade de pagamento do devedor, do grau de complexidade do trabalho e dos valores praticados no mercado para o desempenho de atividades semelhantes(art. 24, caput, da LRJ), com vistas a não comprometer o fiel cumprimento do plano de recuperação, demanda incursão nos aspectos fático-probatórios dos autos, procedimento, entretanto, não admitido em recurso especial, em razão do veto da Súmula 7/STJ. O mesmo ainda pode ser dito em relação ao pretendido exame da base de cálculo da remuneração do administrador judicial nomeado para atuar no processo de recuperação judicial e da forma de pagamento do respectivo valor, questões que estão ligadas ao ajuste firmado entre as partes.
+- Parecer pelo não conhecimento do presente recurso especial.
+É o relatório.
+Decido.
+Quanto à remuneração do administrador judicial, entendeu o Tribunal de origem que (e-STJ fls. 214/215):
+Compulsando os autos da ação originária o que se verifica é que o administrador foi nomeado em 09/09/2016, na decisão que deferiu a recuperação judicial de fls. 509/510, afirmando-se os honorários seriam fixados oportunamente tão logo presentes nos autos maiores elementos para ponderação.
+O administrador fez pedido de honorários de 2,5% da dívida e propondo o pagamento em seis parcelas de R$15.000,00 e 30 de R$ 26.588,96 (fls. 600/606).
+Peticionaram as recuperandas, agravantes, às fls. 1350, informando que ajustaram o pagamento dos honorários em seis parcelas de R$ 7.500,00 e restante em 36 parcelas.
+Às fls. 3058 o juízo a quo deferiu o levantamento de R$ 549.752,25 referente as parcelas de honorários do administrador atrasadas.
+As recuperandas, às fls. 3099/3103, se insurgiram com contra a liberação do mandado de pagamento dos honorários periciais alegando que haviam requerido anteriormente o parcelamento dos valores em 35 vezes fixas mensais e consecutivas.
+Foi então suspenso o pagamento até ulterior apreciação do pedido.
+Foi determinado novamente ás fls. 3.897, em 25/02/2019 expedição de mandado de pagamento.
+Peticionam novamente as recuperandas, às fls. 3899, pedindo a sustação do pagamento, pedido que foi acatado em decisão de fls. 3908.
+Em decisão proferida às fls. 3981/3983, em 17/04/2019, o juízo a quo, ao fundamento de que os honorários do administrador judicial não devem ser incluídos no plano de recuperação judicial, homologa o plano de recuperação judicial de fls. 3727/3781, com exclusão da cláusula 8.15 e, novamente defere a expedição de mandado de pagamento.
+Tem-se, pois, que desde o início as agravantes concordando com os 2.5% (dois e meio) por cento do total da dívida na relação de credores apresentadas.
+Portanto, não cabe agora discussão quanto ao referido montante.
+Em que pese ser possível nos casos de recuperação judicial o parcelamento dos honorários do administrador judicial, tais parcelas devem ser pagas desde a decisão que defere a recuperação, não cabendo, como bem salientado na decisão agravada, incluí-la no plano de recuperação judicial.
+No caso, as recuperandas não vinham pagando os valores das parcelas acordadas e se insurgem contra o levantamento de valores para pagamento atrasados, querendo novo parcelamento.
+Não lhes assiste razão.
+A administrador prestou a contento seu labor, os valores levantados se referem aos trabalhos prestados e seus honorários são despesas não concursais.
+Ante o exposto, nego provimento ao recurso.
+A Corte localdecidiu que:(i) não cabe a análise do montante fixadoa título de remuneração do administrador judicial, pois as recorrentes haviam concordado com o valor estipulado,(ii) é indevida a inclusão da referida remuneração no plano de recuperaçãoe (iii) não é possível o parcelamento da verba.
+Os fundamentos (i) e (ii) não foram impugnados pelas recorrentes, aplicando-se a Súmula n. 283/STF.
+Além disso, atesede que a fixação da remuneração do administrador deve observar a capacidade de pagamento do devedor, o grau de complexidade do trabalho e os valores praticados no trabalho, bem como a alegaçãode que a impossibilidade do parcelamento contraria a preservação da atividade econômica e a segurança da execução do plano de recuperaçãonão foram apreciadas pelo Tribunal de origem, estando ausente o requisito do prequestionamento, incidindo a Súmula n. 211/STJ.
+Por fim, mesmo que superados os referidos óbices, não merece prosperar a irresignação da parte recorrente. Para verificarse o valor foi estabelecido em conformidade com a capacidade de pagamento do devedor, o grau de complexidade do trabalho e os valores praticados no trabalho, assim comoreconhecerque o parcelamento é necessário em virtude da preservação da empresa, nos termos do art. 47 da Lei n. 11.101/2005, seria imprescindívela análise das provas dos autos, hipótese vedada pela Súmula n. 7/STJ.
+Ante o exposto, NÃO CONHEÇOdo recurso especial.
+Publique-se e intimem-se.
