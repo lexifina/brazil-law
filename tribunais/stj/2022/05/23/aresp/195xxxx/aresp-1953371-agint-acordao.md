@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MD ELEVADORES RESIDENCIAIS EIRELI contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em virtude da irregularidade no recolhimento do preparo do recurso especial, reconhecendo a deserção (fls. 404/405, e-STJ).
+Nas suas razões, a agravante postula a reforma da decisão atacada argumentando, em síntese, que houve o recolhimento das custas, inexistindo irregularidade a ser sanada, visto que,
+"(..)antes do julgamento do Recurso Especial em obediência ao que foi determinado pelo r. despacho do Sr. Presidente do Tribunal a quo àfl. e-STJ 332, a agravante recolheu as custas de preparo às fls. 335/337 no prazo estabelecido enquanto os autos ainda tramitavam junto ainda ao Tribunal de Justiça do Estado de São Paulo, de forma tempestiva"(fl. 412, e-STJ).
+Requer, ainda, o afastamento da majoração dos honorários advocatícios.
+Impugnação às fls. 423/425 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO IRREGULAR. ART. 1.007 DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCUMPRIMENTO. DIFERIMENTO DE CUSTAS. TAXA JUDICIÁRIA FEDERAL. NÃO EXTENSÃO. INTIMAÇÃO. RECOLHIMENTO EM DOBRO. AUSÊNCIA. DESERÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O diferimento de custas realizado pelo tribunal de origem não afasta a necessidade de pagamento das custas devidas ao Superior Tribunal de Justiça.
+3. Não comprovado o recolhimento das custas devidas no momento da interposição do recurso especial, a parte recorrente, após intimação, deve promover o recolhimento em dobro, conforme disciplina o art. 1.007, § 4º, do Código de Processo Civil de 2015.
+4. Na hipótese, apesar de devidamente intimada, a parte efetuou o recolhimento simples dos valores devidos, o que acarreta a deserção do recurso.
+5. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Conforme consta dos autos, quando da interposição do recurso especial, não houve a comprovação do recolhimento do preparo em virtude do diferimento das custas na origem.
+Entretanto, é firme o entendimento desta Corte Superior no sentido de que o diferimento de custas realizado pelo tribunal de origem não afasta a necessidade de pagamento das custas devidas ao Superior Tribunal de Justiça, pois possuem natureza de taxa federal.
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESERÇÃO DO RECURSO. DETERMINAÇÃO DE COMPROVAÇÃO DO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA OU RECOLHIMENTO DO PREPARO EM DOBRO. ART. 1.007, § 4º, NCPC. NÃO COMPROVAÇÃO. DIFERIMENTO DAS CUSTAS. LEI ESTADUAL QUE NÃO AUTORIZA O NÃO PAGAMENTO DAS CUSTAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O diferimento do pagamento das custas judiciais ao final do processo, regulamentado por lei estadual, não dispensa a parte do pagamento das custas devidas ao STJ, que possuem natureza de taxa federal. Precedentes.
+3. No caso dos autos, não houve a comprovação da concessão do benefício da gratuidade de justiça e, mesmo após a intimação, a parte deixou de realizar o recolhimento do preparo em dobro. Deserção mantida.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido"(AgInt no AREsp 1.487.005/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/2/2020, DJe 19/2/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DIFERIMENTO DE CUSTAS NA INSTÂNCIA DE ORIGEM. NÃO EXTENSÃO ÀS TAXAS JUDICIÁRIAS FEDERAIS. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO CARACTERIZADA.
+1. Ação civil pública em fase de cumprimento de sentença.
+2. Segundo entendimento desta Corte Superior, o diferimento do pagamento das custas processuais autorizado por legislação estadual não abrange as taxas judiciárias devidas em favor de órgão do Poder Judiciário da União, pena de violação à regra constitucional que veda a isenção heterônoma. Precedentes.
+3. A ausência de comprovação de recolhimento do preparo no ato da interposição do Recurso Especial implica sua deserção. Incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido"(AgInt no REsp 1.820.924/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/2/2020, DJe 12/2/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO TRANSITADA EM JULGADO. CUSTAS DIFERIDAS NA ORIGEM. IMPOSSIBILIDADE DE EXTENSÃO À TAXA FEDERAL. GRATUIDADE JUDICIÁRIA. PEDIDO FORMULADO NO RECURSO ESPECIAL. RECOLHIMENTO DAS CUSTAS. NECESSIDADE. DESERÇÃO CONFIGURADA. CPC/1973.
+1. O diferimento do pagamento de custas pela Corte estadual não tem o condão de postergar o recolhimento de custas no âmbito do STJ, porquanto estas possuem natureza de taxa federal.
+2. Em que pese o pedido de gratuidade judiciária possa ser feito a qualquer tempo, a concessão da benesse não tem efeito retroativo, de modo que, se o benefício for reconhecido após a interposição do recurso, não isentará a parte do recolhimento do respectivo preparo.
+3. Agravo interno a que se nega provimento"(AgInt no REsp 1.750.241/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019).
+Devidamente intimada para promover o recolhimento em dobro (fl. 392, e-STJ), a recorrente afirmou que as custas teriam sido anteriormente recolhidas, conforme determinação do tribunal de origem.
+Entretanto, não comprovado o recolhimento das custas devidas no momento da interposição do recurso especial, o recolhimento deve ocorrer em dobro, nos termos do que disciplina o art. 1.007, § 4º, do Código de Processo Civil de 2015, tendo sido efetuado apenas o recolhimento simples dos valores devidos.
+Dessa maneira, observa-se que não foi atendida a regra contida no art. 1.007 do Código de Processo Civil de 2015, de modo que, conforme a jurisprudência do Superior Tribunal de Justiça, o reconhecimento da deserção do recurso é medida que se impõe.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO COMPROVAÇÃO DO RECOLHIMENTO EM DOBRO. DESERÇÃO. RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. INCIDÊNCIA DA SÚMULA 115/STJ.
+1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro no prazo de 05 (cinco) dias, sob pena de deserção.
+2. É deserto o recurso que, mesmo após a intimação da parte, não houve a comprovação do devido recolhimento do preparo. Aplicação da Súmula 187 desta Corte.
+(..)
+5. Agravo interno não provido"(AgInt no AREsp 1.815.864/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/5/2021, DJe 12/5/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. RECURSO ESPECIAL. PREPARO INSUFICIENTE. AUSÊNCIA DE COMPLEMENTAÇÃO. DESERÇÃO CONFIGURADA. AGRAVO INTERNO IMPROVIDO.
+1. Consoante orientação jurisprudencial do STJ, "a juntada apenas do comprovante de pagamento das custas processuais, desacompanhado da respectiva guia de recolhimento, é insuficiente à comprovação do preparo"(AgInt no REsp 1.622.574/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 20/04/2017, DJe 27/04/2017).
+2. Na falta de comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sob pena de deserção, nos termos do art. 1.007, § 4º, do CPC/2015.
+3. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, nos termos do art. 1.007, § 7º, do CPC/2015, não o faz devidamente.
+(..)
+4. Agravo interno improvido"(AgInt no AREsp 1.552.561/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. IRREGULARIDADE NO RECOLHIMENTO DO PREPARO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. PAGAMENTO INSUFICIENTE. AGRAVO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015.
+2. Nos termos da jurisprudência consolidada desta Corte, "não atendendo à intimação para o recolhimento em dobro, nos termos do artigo 1.007, § 4º, do Código de Processo Civil, é deserto o recurso interposto. Incidência dos enunciados 7 e 83 da Súmula do Superior Tribunal de Justiça"(AgInt no AREsp 1.459.083/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 26/11/2019).
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial"(AgInt no AREsp 1.650.839/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 31/8/2020, DJe 23/9/2020).
+Por fim, os honorários recursais de que trata o artigo 85, § 11, do Código de Processo Civil de 2015, destinam-se às hipóteses de não conhecimento integral ou de não provimento do recurso, motivo pelo qual deve ser mantida a majoração da verba determinada na decisão atacada.
+Sobre o tema:
+"PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DECLARATÓRIOS. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REGRA GERAL. ART. 85, §§ 2º E 3º, DO CPC/2015. REGRA SUBSIDIÁRIA. ART. 85, § 8º, DO CPC/2015. INAPLICABILIDADE. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS. NÃO PROVIMENTO.
+1. Nos termos do atual Código de Processo Civil, seu artigo 85, § 2º, "veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa"e "o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo"(REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019).
+2. De acordo com a jurisprudência desta Corte: "Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos: Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somentenos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba"(EDcl no AgInt no REsp 1573573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/4/2017, DJe 8/5/2017).
+3. Agravo interno a que se nega provimento"(AgInt nos EDcl no REsp 1.825.023/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/6/2020, DJe 12/6/2020 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. RECURSO ESPECIAL. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTIGO 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO.
+(..)
+5. Os honorários recursais de que trata o artigo 85, § 11, do CPC/2015, são aplicáveis tanto nas hipóteses de não conhecimento integral quanto de não provimento do recurso. Precedente.
+6. Agravo interno não provido"(AgInt no AREsp 1.347.176/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/4/2019, DJe 6/5/2019).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
