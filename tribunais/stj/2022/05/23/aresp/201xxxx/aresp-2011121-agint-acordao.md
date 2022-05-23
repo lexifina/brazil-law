@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela Uniãodesafiando decisão que negou provimento ao agravo emrecurso especial, sob os seguintes fundamentos: (I) ausência de violação ao art. 1.022, I e II, do CPC; e (II) estar o acórdão em conformidade com a jurisprudência do STJ, firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia.
+A parte agravante, em suas razões, sustenta que "as verbas denominadas Gratificação Natalina e 1/3 de férias, em que pese serem verbas de caráter remuneratório e não indenizatório, não são consideradas verbas de caráter permanente, de modo a não fazer parte da remuneração do servidor, sendo vantagens que não são devidas ao autor no mês de início da aposentadoria, não tendo substrato para composição da base de cálculo da licença prêmio (..) embora a jurisprudência do STJ entenda que a base de cálculo é a remuneração do cargo efetivo, não se olvida de que apenas as vantagens permanentes devem compô-la, sendo que a gratificação natalina e o 1/3 de férias não são pagos de modo permanente." (fl. 234)
+As razões do recurso foram impugnadas, às fls. 239/255.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. RUBRICAS QUE COMPÕEM A REMUNERAÇÃO DO SERVIDOR. INCLUSÃO.
+1. O aresto regional não se afastou da orientação jurisprudencial do STJ, segundo a qual as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, pois "é cediço que as verbas mencionadas pelo Recorrente, abono permanência, décimo terceiro salário e adicional de férias, integram a remuneração do cargo efetivo e possuem natureza permanente, devidas ao servidor quando em atividade, integrando, portanto, a base de cálculo para a conversão da licença-prêmio em pecúnia" (REsp 1.818.249/RS, Relator Ministro Francisco Falcão, Segunda Turma, DJe 1º/6/2020).
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Está correto o decisum ao estabelecer que o aresto regional não se afastou da orientação jurisprudencial do STJ, segundo a qual as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, pois "é cediço que as verbas mencionadas pelo Recorrente, abono permanência, décimo terceiro salário e adicional de férias, integram a remuneração do cargo efetivo e possuem natureza permanente, devidas ao servidor quando em atividade, integrando, portanto, a base de cálculo para a conversão da licença-prêmio em pecúnia" (REsp 1.818.249/RS, Relator Ministro Francisco Falcão, Segunda Turma, DJe 1º/6/2020).
+Em reforço, confiram-se:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. RUBRICAS QUE COMPÕEM A REMUNERAÇÃO DO SERVIDOR. INCLUSÃO.
+1. O aresto regional não se afastou da orientação jurisprudencial do STJ, segundo a qual as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, pois "é cediço que as verbas mencionadas pelo Recorrente, abono permanência, décimo terceiro salário e adicional de férias, integram a remuneração do cargo efetivo e possuem natureza permanente, devidas ao servidor quando em atividade, integrando, portanto, a base de cálculo para a conversão da licença-prêmio em pecúnia" (REsp 1.818.249/RS, Relator Ministro Francisco Falcão, Segunda Turma, DJe 1º/6/2020).
+2. Agravo interno não provido.
+(AgInt no AREsp 1945228/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/03/2022, DJe 24/03/2022)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INCLUSÃO DO ABONO DE PERMANÊNCIA E DO AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO DA REMUNERAÇÃO PARA FINS DE CONCESSÃO DE LICENÇA-PRÊMIO. AGRAVO INTERNO DO DISTRITO FEDERAL DESPROVIDO.
+1. O acórdão recorrido encontra-se em consonância com o entendimento adotado por esta Corte de que as rubricas que compõem a remuneração do Servidor deverão ser incluídas na base de cálculo da conversão da licença- prêmio em pecúnia, dentre elas o auxílio-alimentação, o abono de permanência e a saúde suplementar. Nesse sentido: REsp. 1.489.904/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25.11.2014, DJe 4.12.2014.
+2. Agravo Interno do DISTRITO FEDERAL desprovido.
+(AgInt no AREsp 475.822/DF, Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 19/12/2018)
+No mesmo sentido as decisões monocráticas: AREsp 2033139, Relatora Ministra Assusete Magalhães, DJe de 23/03/2022;REsp 195335, Relator Ministro Benedito Gonçalves, DJe de 18/03/2022.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
