@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos declaratórios opostos por MARCONI MEDEIROS MARQUES DE OLIVEIRA ao acórdão de minha relatoria, assim ementado (fl. 275):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Hipótese em que se revela presente o manifesto caráter protelatório dos aclaratórios.
+4. Embargos de declaração rejeitados, com a imposição de multa de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+Sustenta a parte embargante a existência de obscuridade no julgado.
+Nesse sentido, argumenta que (fls. 285/286):
+ ..  resta evidente que esse d. juízo ao determinar o pagamento de multa de 1% sobre o valor atualizado da causa não deixou claro se o valor da causa seria o proveito econômico do recurso de agravo de instrumento, que são os honorários da fase de conhecimento, ou se seria o valor integral do processo de cumprimento de sentença originário.
+Isso porque, é desproporcional que o valor da multa arbitrada incida sobre o valor da causa do cumprimento de sentença originário (R$ 101.676,49),eis que, consoante se observa, a distribuição do agravo de instrumento que possibilitou ainterposição do presente recurso especial se deu com o intuito de buscar apenas a fixação dos honorários advocatícios da fase de conhecimento no percentual de 10% sobre o valor da causa originária, posto que no título judicial restou estabelecida a condenação do devedor ao pagamento de honorários sucumbenciais a serem fixados na fase de liquidação, não restando dúvidas, que o proveito econômico almejado no presente recurso alcança apenas a monta de R$ 10.167,64.
+Portanto, evidente a obscuridade do r. decisum embargado, esperando seja esta integrada em ordem a determinar que a penalidade aplicada de 1% (um por cento) incida sobre o proveito econômico do recurso de agravo de instrumento, eis que este é o valor efetivo desta causa.
+De outro lado, à luz do princípio da eventualidade, defende que (fl. 286):
+ ..  há que se destacar que se o entendimento desse r. juízo forno sentido de que a multa arbitrada deve incidir sobre o valor atualizado do processo originário(R$ 101.676,49), há que se ponderar que deve ser observado, em razão do princípio da proporcionalidade e da razoabilidade, que o percentual deve ser minorado para 0,1%,a fim de não onerar excessivamente a parte que pleiteou apenas pagamento de seus honorários.
+Por fim, requer o acolhimento dos presentes aclaratórios (fl. 286):
+ ..  pugnando pela atribuição de efeitos infringentes para determinar que a aplicação da multa de 1%incida sobre o proveito econômico do recurso (R$ 10.167,49), ou ao menos, que seja fixada em 0,1% sobre o valor integral atualizado da causa (R$ 101.676,49).
+Impugnação às fls. 291/294.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVOINTERNO NO RECURSO ESPECIAL. MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA. ART. 1.026, § 2º, DO CPC. OBSCURIDADE. INEXISTÊNCIA. EXORBITÂNCIA. AUSÊNCIA.
+1.De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2.Como cediço, verifica-se a obscuridade quando há evidente dificuldade na compreensão do julgado, ou seja, quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, existe obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível.
+3. Caso concreto em queinexiste obscuridadeno acórdão embargado, haja vista que este limitou-se a fixar a multa segundo a base de cálculo expressamente prevista no art. 1.026, § 2º, do CPC - o valor atualizado da causa. Nesse sentido:EDcl nos EDcl nos EDcl no AgInt no AREsp 1.814.426/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 24/3/2022).
+4. Afixação da multa em 1% sobre o valor atualizada da causa - R$ 101.676,49 (cento e um mil, seiscentos e setenta e seis reais e quarenta e nova centavos), segundo informado pelo próprio embargante, de modo algum caracteriza valor exorbitante, eis que representa pouco mais de R$1.000,00 (mil reais).
+5. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Como cediço,verifica-se a obscuridade quando há evidente dificuldade na compreensão do julgado, ou seja, quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, existe obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível. É o que leciona VICENTE GRECO FILHO:
+A obscuridade é o defeito consistente na difícil compreensão do texto da sentença e pode decorrer de simples defeito redacional ou mesmo de má formulação de conceitos. Há obscuridade quando a sentença está incompreensível no comando que impõe e na manifestação de conhecimento e vontade do juiz. A obscuridade da sentença como os demais defeitos corrigíveis por meio de embargos de declaração prejudicando a intelecção da sentença prejudicará a sua futura execução.
+A dúvida é o estado de incerteza que resulta da obscuridade. A sentença claramente redigida não pode gerar dúvida
+(in Direito Processual Civil Brasileiro, vol. 2, São Paulo: Saraiva, 2000, p. 241).
+Nessa linha de ideias, inexiste falar em obscuridade no acórdão embargado, haja vista que este limitou-se a fixar a multa segundo a base de cálculo expressamente prevista no art. 1.026, § 2º, do CPC - o valor atualizado da causa.
+A propósito, confira-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DA JUSTIÇA GRATUITA. AGRAVO NÃO CONHECIDO. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. INOPORTUNO. RECURSO SEQUER CONHECIDO. REITERAÇÃO. CARÁTER PROTELATÓRIO. APLICAÇÃO DE MULTA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Na origem, trata-se de agravo de instrumento em que se questiona decisão que indeferiu pedido de Justiça gratuita. No Tribunal a quo, o agravo de instrumento foi improvido. Nesta Corte, não se conheceu do agravo em recurso especial, diante da falta de impugnação específica aos fundamentos da decisão de inadmissibilidade na origem. A decisão foi confirmada em agravo interno e dois embargos de declaração em sequência.
+II - No incidente de assunção de competência, além de proposto de forma inoportuna, o recurso especial sequer foi conhecido, não preenchendo os requisitos mínimos para seu conhecimento.
+III - Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+IV - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+V - Embargos de declaração rejeitados. Considerando que os embargos são manifestamente protelatórios, condeno a parte embargante a pagar ao embargado multa de 2% sobre o valor atualizado da causa. (art.1.026, § 2º, do CPC/2015).
+(EDcl nos EDcl nos EDcl no AgInt no AREsp 1.814.426/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 24/3/2022) - Grifos nossos
+A seu turno, a fixação da multa em 1% sobre o valor atualizada da causa -R$ 101.676,49 (cento e um ml, seiscentos e setenta e seis reais e quarenta e nova centavos), segundo informado pelo próprio embargante, de modo algum caracteriza valor exorbitante, eis que representa pouco mais de R$1.000,00 (mil reais).
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+É como voto.
