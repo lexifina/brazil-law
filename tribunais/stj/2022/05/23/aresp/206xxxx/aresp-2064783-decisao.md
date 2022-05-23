@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por T W INFORMÁTICA E SOLUÇÕES LTDA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS,que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CITAÇÃO EDITALÍCIA VÁLIDA APÓS FRUSTRADA TENTATIVA DE CITAÇÃO DA EMPRESA NO ENDEREÇO FORNECIDO À JUNTA COMERCIAL. VALIDADE. LITISPENDÊNCIA. NULIDADE DE CITAÇÃO.
+1- Havendo litispendência, e estando uma das ações em adiantada fase procedimental, deve esta ser mantida em seu regular processamento, ainda que não protocolada anteriormente à outra, que deve ser extinta, em respeito ao princípio da celeridade processual.
+2- Não é necessário o esgotamento de todas as medidas para obter o novo endereço da empresa executada, se a citação por Oficial de Justiça é direcionada para o último endereço fornecido aos entes públicos e resta frustrada porque a empresa se mudou, sem atualizar seus endereços.
+3- A ausência de citação de sócio, se caracterizada nulidade, deve ser alegada pelo interessado e não pela empresa" (fl. 68e).
+OpostosEmbargos de Declaração (fls. 74/83e), foram eles julgados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CITAÇÃO EDITALÍCIA VÁLIDA APÓS FRUSTRADA TENTATIVA DE CITAÇÃO DA EMPRESA NO ENDEREÇO FORNECIDO À JUNTA COMERCIAL. VALIDADE. LITISPENDÊNCIA. NULIDADE DE CITAÇÃO. AUSÊNCIA DE OMISSÕES E CONTRADIÇÕES APONTADAS.
+1- Tendo sido reconhecido no voto embargado que mesmo havendo litispendência, e estando uma das ações em adiantada fase procedimental, deve esta ser mantida em seu regular processamento, ainda que não protocolada anteriormente à outra, que deve ser extinta, em respeito ao princípio da celeridade processual, não há que se falar em omissão quanto à análise de dispositivos processuais que tratam da configuração de litispendência e a necessidade de extinção dos feitos, porque se trata de tema superado.
+2- Restando devidamente esclarecidos todos os pontos trazidos no apelo, a menção a dispositivos de lei que se tornaram irrelevantes para o deslinde da questão recursal não configura omissão hábil a ensejar o provimento de recurso aclaratório, sob a alegação de omissão.
+3- Também não ocorre contradição quando por dois fundamentos diversos a pretensão da parte deve ser refutada, como ocorre quando a citação editalícia não contém mácula e por outro lado, parte ainda comparece espontaneamente nos autos, que é mais um motivo para se afastar nulidade, ante a ausência de prejuízo.
+EMBARGOS DECLARATÓRIOS REJEITADOS" (fl. 96e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta violação aos arts. 337, VI, §§ 1º, 2º e 3º e 485, V, do CPC, sustentando, em síntese, a ocorrência de litispendência entre as ExecuçõesFiscais5124350-68.2015.8.09.0051 e 5125332-82.2015.8.09.0051, eis que "o objeto das duas demandas, incluindo pedido, causa de pedir e partes, são idênticos" e, portanto, deve ser extinta a segunda ação protocolada (fl. 117e).
+Contrarrazões, a fls. 142/151e.
+Inadmitido o Recurso Especial (fls. 155/157e), foi interposto o presente Agravo (fls. 162/170e).
+Contraminuta, a fls. 174/177e.
+A irresignação não merece prosperar.
+Com efeito, ressalto que é firme a jurisprudência desta Corte no sentido de que para alterar as conclusões firmadas no acórdão recorrido, concernentes à existência, ou não, de litispendência, demandaria o revolvimento de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. LITISPENDÊNCIA E AFRONTA À COISA JULGADA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Havendo o Tribunal de origem registrado que as demandas ajuizadas possuíam diferentes causas de pedir e que as remunerações objeto da ação de cobrança não foram questionadas na ação de reintegração da servidora/agravada, a aferição da ocorrência de litispendência e afronta à coisa julgada na forma pretendida pelo agravante demandaria o exame do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ. Precedentes: AgRg no AREsp 446.331/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 2/12/2014; AgRg no AREsp 547.259/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1/9/2014; AgRg no REsp 1.268.962/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/9/2012; AgRg no AREsp 545.692/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/10/2014.
+2. Agravo regimental não provido" (STJ, AgRg no AREsp 423.445/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 05/03/2015).
+Ademais, aCorte de origem, ao analisar a controvérsia, asseverou que "havendo litispendência, e estando uma das ações em adiantada fase procedimental, deve esta ser mantida em seu regular processamento, ainda que não protocolada anteriormente à outra, que deve ser extinta, em respeito ao princípio da celeridade processual" (fl. 68e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
