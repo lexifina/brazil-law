@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  manejado  por  WERLEI DE SOUZA SAMPAIOcontra  a  decisão  fls.  661/665,  que  conheceu do agravo para não conhecer do recurso especial interposto pelo ora agravantenos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUXÍLIO-DOENÇA ACIDENTÁRIO. OMISSÃO. INOCORRÊNCIA. NEXO CAUSAL ENTRE O TRABALHO E A INCAPACIDADE LABORATIVA AFASTADO PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. SÚMULA 7/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL ADSTRITA À APRECIAÇÃO DAS AÇÕES ACIDENTÁRIAS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO SEGURADO.
+2.  Em  suas  razões  (fls.  669/690),  a parte agravante sustenta, em suma, que (a) o acórdão local deixou de aplicar o princípio da fungibilidade entre os benefíciospartindo de premissa equivocada, por entender quecaberia à Justiça Federal julgar o pedido subsidiário de auxílio-doença, com esteiono art. 109, §§ 3º e 4º, da CF/1988; (b) a ação foi ajuizada na Justiça estadual porque se trata de pedido de concessão de benefício acidentário, e não por ausência de vara federal na Comarca; (c) é possível a flexibilização da análise da petição inicialpara que se conceda benefício diverso do requerido, conforme a jurisprudência do Superior Tribunal de Justiça, e (d) o acolhimento da pretensão recursal dispensa o reexame do conjunto fático-probatório dos autos.
+3.  Requer,  ao  final,  o  provimento  do  agravo  internonos termos pleiteados.
+4.  Não  houve  impugnação  ao  recurso  (fls.  694).
+5.  É  o  relatório.
+EMENTA
+  PROCESSUAL  CIVIL  E  PREVIDENCIÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL ADSTRITA À APRECIAÇÃO DAS AÇÕES ACIDENTÁRIAS.NEXO CAUSAL ENTRE O TRABALHO E A INCAPACIDADE LABORALAFASTADO PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO  INTERNO  DESPROVIDO.
+1.  O  agravo  interno  não  trouxe  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  limitando-se  a  reiterar  as  teses  já  veiculadas  no  especial.
+2.  A Corte de origem esclareceuque a Justiça estadual não poderia analisar o pedido subsidiário de concessão de auxílio-doença previdenciário, formulado no recurso de apelação, tendo em vista que o autor buscava, na peça vestibular, a concessão de benefício acidentário. Tal entendimento não violaos dispositivos de lei federal suscitados no apelo nobre, tampouco configura dissídio jurisprudencial.
+3. A tese declinada no recurso especial - de que o benefício possui natureza acidentária -não poderia ser acolhida sem o reexame do conjunto fático-probatório dos autos, uma vez que a Corte de origem foi expressa ao afirmar que "não há nexo de causalidade entre o quadro alegado e as condições de saúde atuais" (fls. 482).
+4. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não navaloração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que não é cabível na via eleita. Inteligência da Súmula 7/STJ.
+5.  Agravo  interno  a  que  se  nega  provimento.
+VOTO
+1.  O  recurso  não  merece  prosperar.
+2.  Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+3.  Verifica-se  que  o  agravo  interno  não  trouxe  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  limitando-se  a  reiterar  as  teses  já  veiculadas  no  especial.
+4.  Esta Corte Superior de Justiça possui o entendimento de queé cabível a flexibilização da análise da petição inicial de demandas previdenciáriaspara conferir benefício diverso do requerido, sem que isso implique julgamento extra ou ultra petita.
+5. Ocorre que os julgados trazidos à colação não possuem similitude fática com a hipótese dos autos, uma vez que, no presente caso, a pleiteada fungibilidade dos benefícios ensejaria a modificação de competência absoluta estabelecida na Constituição Federal.
+6. A Corte de origem esclareceu que a Justiça estadual não poderia analisar o pedido subsidiário de concessão de auxílio-doença previdenciário, formulado no recurso de apelação, tendo em vista que o autor buscava, na peça vestibular, a concessão de benefício acidentário. Tal entendimento não viola os dispositivos de lei federal suscitados no apelo nobre, tampouco configura dissídio jurisprudencial.
+7. Por fim, conforme já destacado na decisão agravada, atese declinada no recurso especial - de que o benefício possuinatureza acidentária-não poderia ser acolhida sem o reexame do conjunto fático-probatório dos autos, uma vez quea Corte de origem foi expressa ao afirmar que "não há nexo de causalidade entre o quadro alegado e as condições de saúde atuais" (fls. 482).
+8. Assim, a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que não é cabível na via eleita. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+9.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  do  particular.
+10.  É  como  voto.
