@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR):Trata-se de agravo interno manejado porMoveis eEstofados Rincão Ltda.desafiando decisão que não conheceu do recurso especial, sob os fundamentos de que: (I)no tocante às questões relativas à prescrição intercorrente, impossível conhecer do recurso especial, porquanto a Presidência da Corte local negou seguimento ao apelo raro observando o rito previsto no art. 1.030, I, b, e II, do CPC; (II)a matéria pertinente ao art. 20, § 4º, do CPC, que fundamenta a tese defendida, não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão, razão pela qual aplicável o óbice da Súmula 282/STFe (III) pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1ºe 2º, do RISTJ.
+A parteagravante, em suas razões, sustenta quea questão relativa aos honorários foi debatida expressamente no acórdão recorrido, defendendo que, "havendo exclusão do sócio do polo passivo da execução, é imperiosaa fixação de honorários advocatícios, em favor da parte vencedora" (fl. 1.081), não sendo o caso de sucumbência mínima como constou no aresto regional.
+Transcorreuin albiso prazo para impugnação (fl. 1.118).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. O Tribunal de origem não se manifestou sobre as teses veiculadas no apelo raro, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Assim, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especialmanejado porMóveis eEstofados Rincão Ltda., com base no art. 105, III,aec, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 168/169):
+EMBARGOS À EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO INTERCORRENTE. NULIDADE DA CDA. JUROS. TAXA SELIC. ICMS. INCLUSÃO NA BASE DE CÁLCULO DO PIS E DA COFINS. CONDENAÇÃO NAS VERBAS SUCUMBENCIAIS. ENCARGO DE 20% DO DECRETO-LEI 1025/69.
+1. Redirecionamento. O redirecionamento da execução fiscal contra as pessoas elencadas no art. 135 do CTN está condicionado às hipóteses de práticas de atos com excesso de poderes e infração à lei, contrato social ou estatuto, ou no caso de dissolução irregular da sociedade
+2. Na imputação de responsabilidade do sócio pelas dívidas tributárias da sociedade, cumpre distinguir a relação de direito material da relação processual. As hipóteses de responsabilidade do sócio são disciplinadas pelo direito material, sendo firme a jurisprudência do STJ no sentido de que, sob esse aspecto, a dissolução irregular da sociedade acarreta essa responsabilidade, nos termos do art. 134, VII e 135 do CTN (v.g.: EREsp 174.532, 1ª Seção, Min. José Delgado, DJ de 18.06.01; EREsp 852.437, 1ª Seção, Min. Castro Meira, DJ de 03.11.08; EREsp 716.412, 1ª Seção, Min. Herman Benjamin, DJ de 22.09.08)
+3. Prescrição intercorrente. Para a caracterização da prescrição intercorrente, não basta o decurso de prazo superior a cinco anos desde os marcos interruptivos, sendo necessário estar evidente a ausência de impulso ou desídia do exequente em relação aos atos de cobrança.
+4. Nulidade da CDA. Presentes os requisitos legais e indicada a legislação pertinente a cada acréscimo não há falar em nulidade. A ausência do demonstrativo de débito não gera a nulidade do título, porquanto não é requisito legal da CDA. Ademais, a dívida ativa regularmente inscrita é dotada de presunçãojuris tantumde certeza e liquidez, só podendo ser afastada por prova inequívoca.
+5. Taxa SELIC. É pacífica a orientação do STJ no sentido de que o art. 161, § 1º, do CTN, autoriza a previsão dos juros moratórios por lei diversa, o que permite a adoção da Taxa SELIC, não existindo qualquer vício na sua incidência.
+6. A multa é devida em razão do descumprimento da obrigação por parte do contribuinte, nos estritos percentuais da lei de regência, à época da exação. Descabe falar em confisco, quando o valor da penalidade obedece a critérios de razoabilidade, especialmente ao permanecer abaixo do principal da dívida
+7. ICMS. Inclusão na base de cálculo do PIS e da COFINS. Os encargos tributários integram a receita bruta e o faturamento da empresa. Seus valores são incluídos no preço da mercadoria ou no valor final da prestação do serviço. Por isso, são receitas próprias da contribuinte, não podendo ser excluídos do cálculo do PIS/COFINS, que têm, justamente, a receita bruta/faturamento como sua base de cálculo. É constitucional e legal a inclusão do ICMS na base de cálculo do PIS e da COFINS, nos termos do art. 3º, §2º, I, da Lei 9.718/98.
+8. As execuções fiscais promovidas pela Fazenda Nacional já incluem o encargo legal, o qual compreende a aludida verba (DL 1.025/69), que substitui os honorários inclusive em sede de embargos (Súmula 168 do TFR).
+A parte recorrente aponta violação aos arts. 156 e 174 do CTN;40 da LEF e 20, §4º, do CPC. Sustenta, em resumo, que: (I)ocorreu a prescrição intercorrente e (II) "apesar do sucesso dos procuradores do Executado sócio, em determinar a sua exclusão do polo passivo da ação, não foram fixados honorários de sucumbência" (fl. 177).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, no tocante às questões relativas à prescrição intercorrente, impossível conhecer do recurso especial, porquanto a Presidência da Corte local negou seguimento ao apelo raro observando o rito previsto no art. 1.030, I, b, e II, do CPC.
+No remanesce, amatéria pertinente ao art. 20, §4º, do CPC, que fundamenta a tese defendida, não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+No caso, foram estas as razões de decidir esposadas pelo Sodalícioa quo(fl. 166):
+Com a modificação parcial do julgado, restou configurada sucumbência mínima da União. Deixo de condená-la, no entanto, emhonorários advocatícios, por aplicação do art. 21, parágrafo único, do CPC.
+Como se vê, a leitura atenta do aresto impugnado(fls. 146/169) dá conta de que a Corte Regional, de fato,nãose pronunciou sobre ateseveiculadano especial apelo, a saber,"apesar do sucesso dos procuradores do Executado sócio, em determinar a sua exclusão do polo passivo da ação, não foram fixados honorários de sucumbência" (fl. 177)e nem sequer foram opostos embargos de declaração pela parte interessada, com o fito de suprir eventual omissão.
+Assim, escorreita a decisão agravada ao fazer incidir à espécie a Súmula 282/STF.
+Em reforço:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO.
+AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. DISSÍDIO JURISPRUDENCIAL. EXAME. PREJUÍZO.
+1. A ausência de exame da matéria postasob o enfoque pretendido pela recorrenteevidencia a falta do devido prequestionamento a atrair, no caso, o óbice da Súmula 282 do STF.
+2. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido (Súmula 284 do STF).
+3. A análise da divergência jurisprudencial fica prejudicada quando a tese sustentada no exame do recurso especial pela alínea "a" do permissivo constitucional esbarra em óbice sumular . Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.610.988/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 07/10/2021)
+Assinale-se que o prequestionamento implícito pressupõe o debate inequívocoda teseà luz da legislação tida como violada, o que, como visto, não ocorreu nos autos.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIREITO EMPRESARIAL. AÇÃO DE BUSCA E APREENSÃO. CRÉDITO GARANTIDO POR CESSÃO FIDUCIÁRIA. AGRAVADA EM RECUPERAÇÃO JUDICIAL. INCLUSÃO DOS CRÉDITOS NO PLANO DE RECUPERAÇÃO. MATÉRIA JÁ DECIDIDA PELO TRIBUNAL DE ORIGEM. AGRAVADA QUE VINHA CUMPRINDO FIELMENTE OS TERMOS DOS CONTRATOS DE MÚTUO. INADIMPLEMENTO DAS OBRIGAÇÕES SOMENTE APÓS O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. NÃO CONFIGURAÇÃO DA MORA. NOVAÇÃO DA DÍVIDA. MANUTENÇÃO DAS GARANTIAS FORMALIZADAS. PRETENSÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. INCIDÊNCIA. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS E A REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. ÓBICE DE INADMISSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. CONFIRMAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: _É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles._
+3.Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicasem torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Sumula. 211/STJ e 282/STF).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.559.862/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022, I e II, DO CPC/2015. NÃO OCORRÊNCIA. ART. 371 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. EMBARGOS À EXECUÇÃO FISCAL. ISSQN. SUJEITO ATIVO. LC 116/2003. MUNICÍPIO ONDE SERVIÇO É EFETIVAMENTE PRESTADO. JUÍZO FIRMADO COM LASTRO NO CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO NA ORIGEM. CARÁTER PROTELATÓRIO. MULTA. MANUTENÇÃO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+ ..
+2. Quanto à alegação de que houve prequestionamento implícito do art. 371 do CPC/2015, verifica-se que o acórdão recorrido não cuidou da temática nele tratada, nem mesmo a despeito da oposição dos declaratórios, até porque não cuidou a recorrente de invocá-lo no momento apropriado, carecendo, no ponto, o recurso do indispensável requisito do prequestionamento, razão por que incide a Súmula 282/STF.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.890.747/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+ANTE O EXPOSTO,nega-se provimento ao agravo interno.
+É o voto.
