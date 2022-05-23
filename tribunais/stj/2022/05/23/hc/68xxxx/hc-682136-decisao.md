@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SERGIO APARECIDO CASSIANO DA SILVA,contra acórdão proferido pelo Tribunal de Justiça do Estado do Paranána Revisão Criminal n.0027466-16.2021.8.16.0000.
+Consta nos autos que oPaciente foi condenado, em primeira instância,à pena de 16 (dezesseis) anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2.º, incisos I e IV, do Código Penal(fls. 45-74).
+Inconformada, a Defesa interpôs apelação perante oTribunal de origem, que deu parcial provimento ao recurso (fls. 83-117).
+A Revisão Criminal ajuizada pelo Paciente não foi conhecida pela Corte local em acórdão assim ementado (fl. 136):
+"REVISÃO CRIMINAL - MERA REPETIÇÃO DE ARGUMENTOS RECURSAIS JÁ TRATADOS EM SEDE DE RECURSO DEAPELAÇÃO - INEXISTÊNCIA DE NOVAS PROVAS - AUSÊNCIADE CONTRARIEDADE À LEI - NÃO PREENCHIMENTO DOSREQUISITOS PREVISTOS NO ARTIGO 621, E INCISOS, DOCÓDIGO DE PROCESSO PENAL. REVISÃO CRIMINAL NÃO CONHECIDA.
+- A revisão criminal não tem a natureza de uma segunda apelação, não se prestando a reexame de questões já analisadas no Juízo a quo e em segundo grau."
+Nas razões do presente writ, o Impetrante alegaa existência de ilegalidade na dosimetria da pena, tendo em vista que teria sido empregada fundamentação inidônea para atribuir desvalor às circunstâncias judiciais da culpabilidade, personalidade e motivos do crime.
+Requer, liminarmente, o relaxamento da prisão e, no mérito, o redimensionamento da pena.
+O pedido liminar foi indeferido (fls. 146-147).
+As informações foram prestadas (fls. 150-168).
+O Ministério Público Federal opinou pelo não conhecimento da impetração ou, caso conhecida, pela denegação da ordem, em parecer assim ementado (fl. 172):
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. REVISÃO CRIMINAL. NÃO CONHECIMENTO DO PEDIDO REVISIONAL. REITERAÇÃO DE ALEGAÇÕES JÁ EXAMINADAS NO RECURSO DE APELAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 621 DO CPP. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE, PERSONALIDADE E MOTIVOS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. Parecer pelo não conhecimento da ordem ou, caso conhecida, pela sua denegação.
+É o relatório. Decido.
+Na parte cognoscível, apretensão defensiva não comporta acolhimento.
+Inicialmente, ao apreciar o pedido revisional ajuizado na origem, a Corte local consignou o seguinte (fls. 138-141; sem grifos no original):
+" ..  em que pese as ponderações expendidas na presente ação, não há como recepcioná-las, uma vez que, não se vislumbra que o Acórdão seja contrário ao texto expresso da lei penal ou à evidência dos autos, não se demonstrando, também, qualquer injustiça quando da fixação da pena.
+Aliás, as questões aqui suscitadas foram objeto do Recurso de Apelação anteriormente interposto pelo Requerente (mov. 140.1 - autos nº.0003401-32.2009.8.16.0014), sendo devidamente enfrentadas no acórdão de mov.1.4 - autos nº. 0003401-32.2009.8.16.0014 - 2º Grau.
+Ao interpor recurso de apelação, contra a Sentença proferida nos autos nº.0003401-32.2009.8.16.0014 (movs. 140.1 e 203.1), a defesa do recorrente requereu, em síntese, o afastamento da valoração negativa no que tange às circunstâncias judiciais da culpabilidade, personalidade e motivos do crime.
+ ..
+Ainda, ao analisar tais pedidos, o Excelentíssimo Relator do recurso de apelação nº.1.452.351-4, destacou que:
+"(..)
+- Culpabilidade (valorada negativamente em relação aos dois réus):
+ ..
+Neste caso, tem-se que subvertendo a ordem jurídica e instalando um Estado paralelo, os acusados tomaram afrente da atividade de investigar, acusar e julgar a vítima Weslley (por um crime que sequer cometeu), aplicando, ao final, a pena de morte. Enquadra-se o agir do Réus no conceito de maior ou menor determinação do resultado, posto que neste caso deve ser considerado o empenhopraticado anteriormente aos fatos para a realização do resultado, e que precederam de telefonemas, conversas, estratégias para obter o resultado morte, forma de abordagem, local, enfim, toda a antessala criminosa contida nos autos.
+Como bemapontado pelo il. Representante Ministerial, restou demonstrado nos autos que, cumprindo a ordem do apelado Sérgio Cassiano, a vítima foi levada até um sítio, onde foi julgada pelos apelas. Após seu julgamento, foi severamente espancada, inclusive gerando afundamento de crâniocomo se nota do Laudo de Necropsia (mov. 1.68).
+Verifica-se, pelas fotografias decorrentes do Laudo de Necropsia, a imensa brutalidade na conduta dos réus contra a vítima.
+Por fim, não se pode deixar de salientar que, após a execução desse crime brutal, os réus perceberam que "condenaram a morte" um inocente, razão pela qual merecem ainda maior reprovabilidade.
+Desta forma, não merece acolhimento o pleito defensivo, devendo a culpabilidade ser mantida.
+- Motivos (valorado negativamente em relação aos dois réus):
+Primeiramente, verifica-se que o Conselho de Sentença reconheceu a existência de duas qualificadoras no crime de homicídio qualificado, quais sejam, motivo torpe e uso de recurso que dificultou a defesa da vítima, o que autoriza a incidência de uma delas para qualificar o crime e da outra qualificadora para agravar a pena provisória.
+Quando incide mais de uma qualificadora no crime de homicídio, uma delas deve ser utilizada para qualificar o crime e as demais serão consideradas como agravantes genéricas (artigo 61 do Código Penal) para aumentar a pena na segunda fase da dosimetria ou como circunstâncias judiciais negativas (artigo 59 do Código Penal) para exasperar a pena-base na primeira fase da dosimetria, oque ocorreu no presente caso.
+Desta forma, não merece reforma a circunstância judicial valorada negativamente em relação ao motivo do crime.
+(..)
+- Personalidade (valorada negativamente em relação ao réu Sérgio):
+A consideração da personalidade do agente, comocircunstância a ser apreciada pelo Juízo, deveria demandar ,como regra, a elaboração de laudo criminológico, firmado por profissional com habilitação suficiente para diagnosticara efetiva tendência do autor do fato à prática de crimes. Como inexiste nos autos Laudo técnico nesse sentido deixo de valorar negativamente tal circunstância. (..)".
+Ou seja, os fundamentos ora apresentados são exatamente os mesmos arguidos quando da interposição do Recurso de Apelação.
+Por conseguinte, mostra-se evidente a pretensão do recorrente no sentido de ver reexaminada a pena que lhe foi imposta, por não se conformar com as conclusões do nobre julgador, hipótese esta, contudo, que não se amolda àquelas elencadas no supracitado dispositivo legal.
+ ..
+ ..  o requerente se restringiu a repetir os argumentos já analisados por este Tribunal por ocasião do julgamento da Apelação anteriormente interposta, deixando de trazer qualquer fato, argumento ou prova novos, não merecendo, portanto, que sua pretensão de rediscutir a matéria seja alcançada, uma vez que, a Revisão Criminal, como já dito, não tem este propósito."
+Quanto à circunstância judicial da personalidade, verifico que o Tribunal estadual, ao julgar a apelação defensiva, de forma expressa, afastou a valoração negativa da referida vetorial. Portanto, nessa extensão, o habeas corpusnão é passível de conhecimento, uma vez que falta, ao Impetrante, o necessário interesse de agir ante a ausência de ato coator praticado na origem.
+No mérito,com relação à culpabilidade, verifico que o Tribunal demonstrou, à saciedade, elementos concretos, que desbordam do tipo penal, para justificar a maior reprovabilidade da conduta. Com efeito, na esteira da remansosa jurisprudência desta Corte, a meticulosa premeditação do delito e a brutalidade empregada contra a vítima (severamente espancada, inclusive gerando afundamento de crânio) denotam maior censurabilidade da conduta, legitimandoo desvalor atribuído à culpabilidade. A propósito, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. HOMICÍDIOQUALIFICADO. PRIMEIRA FASE DA DOSIMETRIA.CONDUTA SOCIAL,CIRCUNSTÂNCIAS DO CRIME E PERSONALIDADE.FRAÇÃO DE UM SEXTO NA PRIMEIRAE SEGUNDAETAPA DO CÁLCULO PENAL. REITERAÇÃO DOSPLEITOS FORMULADOS NO HC N. 636.151/ES, JÁ JULGADO. CULPABILIDADE. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A premeditação do delito demonstra o maior grau de reprovabilidade do comportamento e, assim, autoriza a majoração da pena-base quanto à culpabilidade.
+3. Agravo regimental desprovido."(AgRg no HC 721.052/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/02/2022, DJe 03/03/2022; sem grifos no original.)
+" ..
+7. É cabível a exasperação da pena-base, pela análise desfavorável da culpabilidade, fundamentada na premeditação do crime. No caso, denota maior reprovabilidade a conduta do acusado que, segundo as instâncias ordinárias, planejou a consecução do crime por meio de reuniões anteriores ao dia dos fatos com o corréu e pediu emprestada arma de fogo de grosso calibre a terceiro.  " (REsp 1.843.481/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/12/2021, DJe 14/12/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. HOMICÍDIO QUALIFICADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE. PREMEDITAÇÃO E PLANEJAMENTO. POSSIBILIDADE. PRECEDENTES. CIRCUNSTÂNCIASDO CRIME. MODUS OPERANDI DO DELITO QUE REVELA A SUA GRAVIDADE CONCRETA. COMPORTAMENTO DA VÍTIMA. VALORAÇÃO NEGATIVA. IMPOSSIBILIDADE. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II -No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. No caso, restou declinada motivação concreta para o incremento da básica por tal moduladora, considerando a premeditação do crime e o seu planejamento. Tais elementos, longe de serem genéricos, denotam o dolo intenso e a maior reprovabilidade do agir do réu, devendo, pois, ser mantido o incremento da básica a título de culpabilidade.
+ ..
+Agravo regimental desprovido." (AgRg no HC 690.059/ES, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 05/10/2021, DJe 08/10/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. DOSIMETRIA DA PENA. SUPOSTA INIDONEIDADE NA FUNDAMENTAÇÃO LANÇADA NA NEGATIVAÇÃO DA CULPABILIDADE. IMPROCEDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE. DESPROPORCIONALIDADE. IMPROCEDÊNCIA. DOSIMETRIA (PENA-BASE) QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE.
+1. A extensão das lesões causadas na vítima e a brutalidade do crime, extraída do fato de que as agressões prosseguiram com a vítima já caída, consubstanciam fundamentação idônea para a valoração negativa da culpabilidade no crime de tentativa de homicídio.
+ ..
+5. Agravo regimental improvido."(AgRg no HC 603.620/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/10/2020, DJe 09/10/2020; sem grifos no original.)
+" ..
+IV - Quanto à culpabilidade, a frieza e a brutalidade na execução delitiva são suficientes para firma o seu desvalor. Precedentes do STJ.
+ ..
+Agravo regimental desprovido."(AgRg no HC 702.070/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 22/03/2022, DJe 25/03/2022; sem grifos no original.)
+Igualmente,quanto à valoração desfavorável dos motivos do crime, verifico não assistir razão à Defesa. Conforme assentado pela Corte local, o Conselho de Sentença reconheceu a incidência de duasqualificadoras, a saber: motivo torpe e utilização de meio que dificultou a defesa da vítima. Esta foi utilizada para tipificar o delito, aquela foi deslocada para a primeira fase da dosimetria. Nesse sentido, não há qualquer ilegalidade no cálculo das instâncias ordinárias, tendo em vista que, conforme entendimento jurisprudencial desta Corte, havendo "duas circunstâncias qualificadoras, uma delas por ser utilizada para qualificar o delito e a outra para exasperar a pena-base" (AgRg no HC 601.228/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/10/2020, DJe 29/10/2020; sem grifos no original). No mesmo diapasão: HC 537.325/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019 e HC 358.096/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018.
+Ante o exposto, CONHEÇO EM PARTE dopedidoe, nessa extensão, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. PERSONALIDADE. AUSÊNCIA DE ATO COATOR NA ORIGEM. INTERESSE DE AGIR NÃO EVIDENCIADO. CULPABILIDADE. PREMEDITAÇÃO. BRUTALIDADE. FUNDAMENTAÇÃO IDÔNEA. MOTIVOS DO CRIME. TORPEZA. PLURALIDADE DE QUALIFICADORAS. UMA UTILIZADA PARA TIPIFICAR O DELITO. OUTRA EMPREGADA NA PRIMEIRA FASE DA DOSIMETRIA. POSSIBILIDADE. PRECEDENTES DESTA CORTE. PEDIDO PARCIALMENTE CONHECIDOE, NESSA EXTENSÃO, DENEGADA A ORDEM DE HABEAS CORPUS.
