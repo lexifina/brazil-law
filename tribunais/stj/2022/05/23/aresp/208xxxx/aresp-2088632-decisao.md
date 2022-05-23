@@ -1,0 +1,28 @@
+DECISÃO
+Município de Muliterno/RS interpôs agravo de instrumento contra a decisão interlocutória proferida pelo Juízo da Segunda Vara da Comarca de Lagoa Vermelha que, nos autos de cumprimento de sentença de ação de desapropriação movida por Maria Isabel Cassol e outros, julgou improcedente a impugnação apresentada pela municipalidade agravante para aplicação do art. 1º-F da Lei n. 9.494 de 1997, com redação dada pelo art. 5º da Lei nº 11.960 de 2009, quanto aos juros moratórios incidentes na condenação de pagamento da diferença de avaliação do imóvel expropriado.
+O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao agravo de instrumento, mantendo incólume a decisão agravada, nos termos da seguinte ementa (fl. 118):
+AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO. CORREÇÃO MONETÁRIA. JULGAMENTO DAS ADI"S 4357 E 4425 PELO STF. EXCESSO NÃO CONFIGURADO.
+Não são aplicáveis as disposições trazidas pela Lei Federal nº 11.960/2009, relativamente à taxa de juros e correção monetária, aos encargos devidos pelo Poder Público em decorrência de desapropriação, como no presente caso.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, foram eles rejeitados (fls. 186-190).
+Município de Moliterno/RS interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, no qual aponta a violação dos arts. 489, §1º, IV, V e VI, e 1.022, II, do CPC de 2015, visto que, em suma, sem fundamentação o aresto recorrido em razão do não enfrentamento de questão relevante à solução da lide, notadamente da aplicação do art. 1º-F da Lei n. 9.494 de 1997, na redação dada pela Lei n. 11.960 de 2009, relativamente à taxa de juros e correção monetária incidentes na condenação.
+Aponta, ainda, a violação do art. 1º-F da Lei n. 9.494 de 1997, com redação conferida pela Lei n. 11.960 de 2009, sob o argumento da aplicação desse dispositivo quanto à correção monetária da condenação, tendo em vista o Decreto n. 3.365 de 1941 não trazer qualquer referência sobre a questão.
+Aduz, por fim, dissídio jurisprudencial entre o aresto recorrido e julgados desta Corte e do STF relacionados à matéria.
+Apresentadas contrarrazões às fls. 226-230, o recurso especial foi negado seguimento quanto ao Tema 905/STJ, e inadmitido quanto às demais questões (fls. 279-286).
+É o relatório.
+Considerando que a municipalidade agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial na parte dispositiva que não teve o seguimento negado pela Corte Estadual.
+No que concerne à alegada violação dos arts. 489, §1º, IV, V e VI, e 1.022, II, do CPC/2015 - matéria respectiva à inadmissão do recurso especial - não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, tendo expressamente consignado que, "no que se refere à correção monetária, não foram aplicadas no título judicial em execução - e tampouco são aplicáveis - as disposições trazidas pela Lei n. 11.960/2009, relativamente à taxa de juros e correção monetária, aos encargos devidos pelo Poder Público em decorrência de desapropriação indireta, como no presente caso. É que há lei especial que trata do tema - o Decreto-Lei n. 3.365/41 - na qual há específicas e expressas disposições a respeito do valor e do termo inicial dos juros compensatórios e dos juros moratórios em desapropriação" (fl. 122).
+Consoante se constata, a irresignação da municipalidade recorrente está evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ .. .
+3. Agravo interno desprovido (AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018).
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+ .. .
+6. Agravo interno não provido (AgInt no REsp 1.719.870/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
