@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especialinterposto por LEANDRO DE CARVALHO ALBINO com espeque na alínea a do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+A controvérsia foi bem sumariada pelo Ministério Público Federal, cujo excerto transcrevo a seguir (e-STJ fls. 551/552):
+Trata-se de recurso especial defensivo interposto com suporte na alínea a do permissivo constitucional contra acórdão (e-STJ, fls. 498/516) do Tribunal de Justiça do Estado de Santa Catarina com esta ementa (e-STJ, fls. 498/499):
+"PENAL PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. ROUBO SIMPLES (CP, ART. 157, CAPUT). SENTENÇA CONDENATÓRIA.RECURSO DA DEFESA. JUÍZO DE ADMISSIBILIDADE. CONCESSÃO DA JUSTIÇA GRATUITA. COMPETÊNCIA DO JUÍZO DE PRIMEIRO GRAU. NÃO CONHECIMENTO.MÉRITO. MATERIALIDADE NÃO IMPUGNADA. DISCUSSÃO ACERCA DA AUTORIA.PRETENDIDA ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. PALAVRAS DA VÍTIMA E DEPOIMENTOS DOS POLICIAIS QUE REALIZARAM A PRISÃO EM FLAGRANTE. RECONHECIMENTO DO AGENTE COMO SENDO O AUTOR DO DELITO.NEGATIVA DE AUTORIA ISOLADA NOS AUTOS. PEDIDO DE ISENÇÃO OU REDUÇÃO DO PAGAMENTO DA PENA DE MULTA. IMPOSSIBILIDADE. SANÇÃO QUE INTEGRA O PRECEITO SECUNDÁRIO DA NORMA PENAL INCRIMINADORA. FIXAÇÃO ADEQUADA.POSSIBILIDADE DE PARCELAMENTO PERANTE O JUÍZO DA EXECUÇÃO PENAL.SENTENÇA MANTIDA. - O Juízo de primeiro grau é o competente para conhecer do pedido de justiça gratuita. - Os relatos da vítima e dos policiais militares harmônicos e coerentes entre si durante o processo, aliado ao reconhecimento do agente, podem servir para fundamentar a sentença penal condenatória quando a negativa de autoria não encontrar respaldo probatório algum nos autos, ônus que competia à defesa, conforme parte inicial do art. 156 do Código de Processo Penal. - A multa-tipo integra o preceito secundário da norma penal incriminadora, de modo que o agente não pode ser isento do pagamento e a sanção não pode ser reduzida quando corretamente fixada. O réu detém a faculdade de postular o seu parcelamento por ocasião da execução da pena. - Parecer da PGJ pelo parcial conhecimento e o desprovimento do recurso. - Recurso conhecido em parte e desprovido."
+Condenado na origem (e-STJ, fls.416/431) o réu/recorrente LEANDRO DE CARVALHO ALBINO a 4 anos de reclusão sob regime inicial aberto e 10 dias-multa por prática de roubo simples (artigo 157, caput do CP) foi desprovida sua apelação conforme ementa transcrita.
+Em recurso especial (e-STJ, fls. 521/527) a Defensoria Pública alega violação ao artigo 99 do CPC por sequer ter o Tribunal a quo conhecido de pleito por gratuidade de justiça com vistas a desobrigar o réu de pagar custas processuais, apesar de expressa determinação da norma quanto a poder-se pleitear o benefício a qualquer momento, mesmo em grau recursal. Houve contrarrazões (e-STJ, fls. 532/535).
+Ao se manifestar, o Parquet federal opinou pelo não conhecimento do recurso (e-STJ fls. 551/552).
+É o relatório.
+Decido.
+Do recurso especial não se deve conhecer.
+Isso, porque, quanto à alegação de ofensa ao art. 99 do CPC,não houve debate de forma específica naorigemnem a oportuna provocação do exame daquaestiopor meio de embargos de declaração. Em tal particularidade, ausente o necessário requisito do prequestionamento (Súmulas n. 282 e 356/STF).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. CONTRABANDO. DOSIMETRIA. CULPABILIDADE. NEGATIVAÇÃO. PRÁTICA DELITIVA. RÉU EM CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO IDÔNEA. BIS IN IDEM. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O fato de que o Agravante estava em cumprimento de pena quando cometeu o delito, é circunstância que demonstra um maior grau de reprovabilidade da conduta e autoriza a negativação da culpabilidade.
+2. A alegação de que haveria bis in idem nos fundamentos utilizados para negativar a culpabilidade e os antecedentes, não foi objeto de debate no acórdão recorrido, sem que houvesse a oposição de embargos de declaração. Sendo assim, o tema carece do necessário prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1961046/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/04/2022, DJe 25/04/2022.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 980.386/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
