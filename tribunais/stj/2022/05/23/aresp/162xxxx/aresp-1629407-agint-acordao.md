@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno contra decisão da lavra do MinistroPresidente desta Corte, que não conheceu do recurso especial, por incidência da Súmula n. 284/STF.
+Nas razões do agravo interno, a parte sustenta, em síntese, os seguintes argumentos:
+19. Entretanto, Colenda Turma, detendo-se na petição do recurso especial manejado pelo Distrito Federal, hospedada às fls. 5.231/5.243(e-STJ), verifica-se que irresignação está expressamente centrada na violação ao art. 373, §§ 1º e 2º,do Código de Processo Civil.
+19. Nas razões do recurso especial obstado, de forma aprofundada, o Distrito Federal trouxe fundamentação para demonstrar que o v. acórdão recorrido, ao determinar a inversão do ônus probatório fixado no art. 373,assim o fez sem observar o enquadramento exigido pelos §§ 1º e 2º do mesmo dispositivo do CPC.
+Na origem, trata-se de agravo de instrumento contra decisão que determinou a nomeação de médico da rede pública de saúde do DF como perito judicial ea inversão do ônus da prova. No Tribunal a decisão foi mantida. Interposto recurso especial, este teve seguimento negado. Seguiu-se a interposição de agravo.
+No STJ, em decisão monocrática do MinistroPresidente desta Corte, não se conheceu do recurso especial, ante a incidência da Súmula n. 284/STF.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ERRO MÉDICO. RECURSO QUE NÃO DEMONSTRA A VIOLAÇÃO DEDISPOSITIVO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA N. 284/STF. INVERSÃO DO ÔNUS DA PROVA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I -Na origem, trata-se de agravo de instrumento contra decisão que determinou a nomeação de médico da rede pública de saúde do DF como perito judicial e determinou a inversão do ônus da prova. No Tribunal a decisão foi mantida. Interposto recurso especial, este teve seguimento negado. Seguiu-se a interposição de agravo.No STJ, em decisão monocrática do MinistroPresidente desta Corte, não se conheceu do recurso especial, ante a incidência da Súmula n. 284/STF.
+II - Verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - Verifica-se que o entendimento do Superior Tribunal de Justiça é de que a verificação dos pressupostos necessários àinversão do ônus da prova ocorre nas instâncias ordinárias, destinatárias da prova, sendo vedado, em recurso especial, reavaliar os quesitos, ante o óbice da Súmula n. 7/STJ(AgInt no AREsp 1.872.697/DF, relatorMinistro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe 24/2/2022;AgInt no AREsp 1.854.003/DF, relatorMinistro Mauro Campbell Marques, Segunda Turma, julgado em 9/11/2021, DJe 11/11/2021.)
+IV - Agravo interno improvido.
+VOTO
+As razões do agravo interno não são suficientes para reformar as conclusões da decisão agravada, merecendo ser mantida pelos seus fundamentos e outro a ser acrescido.
+De fato, acompetência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Da mesma forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos.
+Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO DO ART. 557, § 1º, DO CPC/73. INEXISTÊNCIA. SÚMULAS 282, 356 E 284 DO STF.
+1. Não há de se falar de violação do art. 557, § 1º, do CPC/73 quando o colegiado mantém a decisão por não haver comprovação de efetivo prejuízo da parte.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 461.849/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 2/5/2017, DJe 5/5/2017.)
+PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRIMEIROS QUINZE QUE ANTECEDEM O AUXÍLIOS DOENÇA OU ACIDENTE. FALTA DE INTERESSE RECURSAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF.
+1. O Tribunal de origem concluiu pela não incidência de contribuição previdenciária sobre a importância paga pelo empregador ao empregado durante os primeiros quinze dias de afastamento por motivo de doença ou acidente. Dessa forma, ausente o interesse recursal quanto ao ponto.
+2. Não se conhece do pedido de compensação em razão da deficiência da fundamentação. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.595.285/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/10/2016, DJe 17/10/2016.)
+Ainda que superado o óbice, verifica-se que o entendimento do Superior Tribunal de Justiça éde que a verificação dos pressupostos necessários àinversão do ônus da prova ocorre nas instâncias ordinárias, destinatárias da prova, sendo vedado, em recurso especial, reavaliar os quesitos, ante o óbice da Súmula n. 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR ERRO MÉDICO. HIPOSSUFICIÊNCIA DA PARTE AUTORA. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ.
+1. Ao decidir pela possibilidade de inversão do ônus da prova em razão da hipossuficiência da parte autora, a Corte de origem alinhou-se ao entendimento firmado no âmbito deste Sodalício, segundo o qual é cabível tal providência nas ações que tratam de responsabilidade civil por erro médico, quando configurada situação de hipossuficiência técnica da parte autora, como na hipótese dos autos.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de afirmar que não se encontram presentes na espécie os requisitos para a inversão do ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1872697/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. INVERSÃO DO ÔNUS DA PROVA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso em apreço, conforme se extrai do acórdão recorrido, cuida-se de agravo de instrumento interposto pelo Distrito Federal em face de decisão que, em ação de indenização por dano moral, admitiu a inversão do ônus da prova e impôs ao Distrito Federal o ônus de demonstrar que o atendimento médico-hospitalar (ou sua insuficiência) não contribuiu para o óbito da paciente, ao contrário, que seu falecimento decorreu exclusivamente da gravidade de seu quadro de saúde.
+2. Ora, o Tribunal local, soberano na análise do conjunto fático probatório, concluiu que é escorreita a inversão do ônus da prova, ante a facilidade probatória de que dispõe o réu no caso em apreço.
+Assim, o provimento do recurso, com o reconhecimento, como pretende o recorrente, de que não se está diante de hipótese em que seja devida a inversão do ônus da prova, demanda inegavelmente o revolvimento do conjunto fático dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1854003/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/11/2021, DJe 11/11/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
