@@ -1,0 +1,68 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NA APELAÇÃO CÍVEL N. 1006257-20.2020.8.11.0041
+RECORRENTE (S): RONY MARCIO OLIVEIRA DOS SANTOS
+RECORRIDO: BANCO SANTANDER (BRASIL) S/A,
+Vistos.
+Trata-se de recurso especial interposto por RONY MARCIO OLIVEIRA DOS SANTOS com fundamento no artigo 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado que, por unanimidade, proveu o recurso do recorrido, nos termos da seguinte ementa (id. 11089480 ):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS – CONTRATO DE CARTÃO DE CRÉDITO – REVISÃO CONTRATUAL – TAXA DOS JUROS REMUNERATÓRIOS MANTIDA – PERCENTUAL NA MÉDIA DE MERCADO - RECURSO PROVIDO. Se o percentual dos juros remuneratórios não se mostra abusivo, inclusive porque situado na média praticada pelo mercado, descabe a limitação desse encargo”. (N.U 1006257-20.2020.8.11.0041, JOAO FERREIRA FILHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Jul. 09/11/2021).
+Os embargos de declaração foram rejeitados. (id. 1196666993).
+A parte recorrente alega violação aos artigos 4o, da Lei n. 1.521/51 e 1o do Decreto Lei n. 22.626/33, além de divergência jurisprudencial, ao argumento de que “(...) Ora nobre julgadores a capitalização e o juros tem que estar de forma expressa no contrato pactuado entre o consumidor de acordo com o entendimento do STJ sendo que sua utilização é vedada quando ultrapassa seu limite com uma taxa de juros alta de acordo com a lei de USURA, contudo por meio da análise não consta o contrato e nem consta a taxa de juros, onde as farturas mostras de forma abusiva os juros sendo que não se sabe de forma simples ou composta sua capitalização. Em face de inexistência de contrato específico, onde a taxa de juros estaria expressamente determinada/pactuada, portanto, o Requerido não pode impor de forma unilateral e arbitrária uma taxa de juros abusiva.
+Assevera ofensa às Súmulas 30, 296, 297e 479/STJ.
+Aduz contrariedade ao artigo 42 do CDC, uma vez que “(...) A restituição dos valores devidos a autora deverão se dar na forma do art. 42, parágrafo único, do CDC, eis que trata-se de cobrança indevida, não elidida pela hipótese de engano justificável”
+Recurso tempestivo (id. 78009542).
+Contrarrazões (id. 78220472).
+Sem contrarrazões, conforme id 222039.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos no tocante aos Temas 246, 247 e 929/STJ - Distinção.
+Foi verificada a existência, no Superior Tribunal de Justiça, de tema que discute a possibilidade ou não de capitalização de juros mensais em contratos bancários, especialmente após a entrada em vigor do art. 5° da Medida Provisória n. 2170-36/2001 – Temas 246 e 247/STJ – REsps ns. 973.827/RS e REsp 973.827/RS, e discussão quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC.
+No entanto, deixo de aplicar no presente caso a sistemática dos repetitivos uma vez que as referidas controvérsias não foram abordadas pelo acórdão impugnado, e, embora tenham sido opostos embargos de declaração, as matérias acima apontadas não foram levantadas nas respectivas razões, nos termos das Súmulas 282 e 356/STF (ausência de prequestionamento).
+Desse modo, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da sistemática de recursos repetitivos
+A parte recorrente alega violação ao artigo 1o do Decreto Lei n. 22.626/33, ao argumento de que a taxa de juros remuneratórios contratada é ilegal e abusiva, devendo ser cobrado a taxa média de mercado a época de 1,62% (por cento).
+A questão abordada encontra-se afetada pela sistemática de recursos repetitivos, sendo necessária a sua aplicação no caso.
+No julgamento dos recursos paradigmas (REsp no 1.061.530/RS, Temas 24 e 25 e REsp 1.112.879/PR, Temas 233 e 234) o Superior Tribunal de Justiça concluiu que respectivamente:
+(a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF.
+(b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+(c) Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente.
+Confira-se:
+“DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. DELIMITAÇÃO DO JULGAMENTO (...) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1o, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora; (...)”. (REsp 1061530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009). (g.n)
+O Órgão Fracionário decidiu:
+“(...) No tocante a taxa de juros remuneratórios, ao editar a Súmula 382, o eg. STJ sedimentou o posicionamento de que a “estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade”. E, ainda, que “o simples fato de a taxa de juros remuneratórios contratada superar o valor médio do mercado não implica seja considerada abusiva, tendo em vista que a adoção de um valor fixo desnaturaria a taxa, que, por definição, é uma "média", exsurgindo, pois, a necessidade de admitir-se uma faixa razoável para a variação dos juros” (STJ – 3a Turma – AgRg no Ag 1354547/RS – Rel. Ministro PAULO DE TARSO SANSEVERINO – j. 06/03/2012, DJe 16/03/2012).
+No caso, não está demonstrada a abusividade da taxa dos juros remuneratórios contratados, porquanto, a taxa dos juros remuneratórios para cartão de crédito no período compreendido ente os anos de 2014 a 2020 oscilaram entre 11,37% a.m. a 17,99% a.m., conforme indicado no “site” do Banco Central (https://www.bcb.gov.br/estatisticas/reporttxjuroshistorico/), já a taxa média cobrada da apelante foi de 4,86% a.m. (cf. Id. no 104208032), de modo a taxa cobrada pelo Banco/apelante, está dentro da média praticada no mercado”. (id. 110789480) (g.n)
+Assim, ao analisar o acórdão recorrido, observa-se que este se encontra em conformidade com a orientação do STJ, pois, para este caso, ambos os Tribunais entenderam que deve ser mantida a taxa de juros remuneratórios contratada dentro da taxa média de mercado, devendo o recurso não ser admitido.
+Quanto às demais controvérsias discutidas neste recurso, não foi encontrado nenhum outro afetado no Superior Tribunal de Justiça que se aplique a esta decisão, razão pela qual passo ao exame dos demais pressupostos de admissibilidade.
+Da ausência de prequestionamento (Súmulas 282 e 356 do STF)
+Com o objetivo de evitar a supressão de instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282/STF, segundo a qual “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Ainda, que caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos embargos de declaração com a indicação precisa do ponto supostamente omisso, em aplicação da Súmula 356/STF – “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Desse modo:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RAZÃO DO ÓBICE DA SÚMULA 182/STJ.RECONSIDERAÇÃO. INDENIZAÇÃO. PRESCRIÇÃO. ACTIO NATA. ALEGAÇÃO DE OFENSA AO ART. 202, V, DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA.SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.Aplicação das Súmulas 282 e 356 do STF.
+2. (...) 3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.(AgInt no AREsp 507.475/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020)” (g.n.)
+“TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. TAXA DE FISCALIZAÇÃO MUNICIPAL. TORRES DE TRANSMISSÃO. AUSÊNCIA DE PREQUESTIONAMENTO E DE PREQUESTIONAMENTO FICTO. ALEGAÇÃO DE COISA JULGADA. MATÉRIA NÃO SUSCITADA NA CORTE A QUO. INOVAÇÃO RECURSAL.
+I – (...).
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF. Mesmo as matérias de ordem pública devem ser prequestionadas, conforme entendimento pacífico desta Corte. Nesse sentido: AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe 18/12/2020.
+IV – (...).
+VIII - Agravo interno improvido.(AgInt no AREsp 1626637/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/03/2021, DJe 15/03/2021)” (g.n.)
+Dessa forma, verifica-se que em relação à suposta violação aos artigos 4o da Lei n. 1.521/51 e 42 do CDC, a parte recorrente busca elucidar se é abusiva e ilegal a capitalização mensal de juros pactuada entre as partes e que deve ser restituído em dobro os valores cobrados indevidamente.
+No entanto, as questões não foram abordadas pelo acórdão impugnado, e, embora tenham sido opostos embargos de declaração, as matérias acima apontadas não foram levantadas nas respectivas razões, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso.
+Violação de súmula - Não cabimento (súmula 518/STJ)
+Com base na interpretação do artigo 105, III, da CF, pode-se afirmar que o recurso especial tem como finalidade impugnar decisões que violem ou neguem vigência à lei federal infraconstitucional, que julguem válido ato de governo local contestado em face de lei federal e quando houver divergência de interpretação da lei federal.
+Assim, não é cabível recurso especial contra decisão judicial que supostamente viole enunciado de Súmula do STJ, ex vi Súmula 518/STJ.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. USURPAÇÃO.INOCORRÊNCIA. VIOLAÇÃO A ENUNCIADO SUMULAR. INCIDÊNCIA DA SÚMULA N.518 DO SUPERIOR TRIBUNAL DE JUSTIÇA. STJ. INSUFICIÊNCIA DE PROVAS.NECESSIDADE DE REEXAME DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. (...).
+3. Para fins do art. 105, III, a, da Constituição Federal - CF, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula 518, CORTE ESPECIAL, julgado em 26/2/2015, DJe 2/3/2015) (AgRg no REsp 1796340/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020).
+4. Para aferir se as provas colhidas demonstram a existência da autoria delitiva demanda, necessariamente, o reexame do suporte fático-probatório dos autos, providência vedada pela Súmula n.7/STJ.
+5. Agravo regimental desprovido”. (AgRg no AREsp 1742121/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020). (g.n)
+Dessa forma, o recurso especial não é o meio processual adequado para impugnar o acórdão recorrido quanto à suposta contrariedade às Súmulas 30, 296, 297 e 479/STJ, o que obsta a sua admissão neste ponto.
+Ante o exposto, nego seguimento ao recurso:
+(a) com fundamento no art. 1.030, I, “b”, do CPC, e em face da conformidade do acórdão impugnado com o julgamento dos recursos paradigmas (Temas 24, 25, 233 e 234/STJ), diante da sistemática de recursos repetitivos.
+(b) com base no art. 1.030, V, “a”, do CPC, em relação à alegada afronta aos artigos 4o, da Lei n. 1.521/51 e 42 do CDC, e Súmulas 30, 296, 297 e 479/STJ, diante dos óbices sumulares 282, 356 do STF e Súmula 518/STJ.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
