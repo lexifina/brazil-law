@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra a decisão (fls. 1.028-1.032, e-STJ) que negou provimento ao recurso especial.
+Naquela oportunidade,reconheceu-sea abusividade decláusulas contratuais que limitam a cobertura do plano de saúdeem relação ao número de sessões de terapias multidisciplinares para o tratamento contínuo de autismo infantil.
+Nas presentes razões, a agravante insiste na violação do art. 1.022 do Código de Processo Civil de 2015 e afirma que
+"(..)
+O entendimento atual do STJ se dá no sentido de que o rol de procedimento da ANS é TAXATIVO, e deve ser respeitado - inclusive quanto à limitação do número de sessões previstas - para que se resguarde a segurança dos procedimentos oferecidos pelos planos de saúde e o efetivo equilíbrio econômico-financeiro.
+A limitação do número de sessões de terapia, que consta no contrato firmado entre as partes, tem respaldo nesse rol, que determina, de forma expressa e taxativa, a quantidade de sessões que devem ser obrigatoriamente oferecidas pelos planos de saúde"(e-STJ fl. 1.039).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUTISMO INFANTIL. TRATAMENTO MÉDICO. NÚMERO DE SESSÕES. LIMITAÇÃO CONTRATUAL. ABUSIVIDADE.ANS. ROL EXEMPLIFICATIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2.Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça orienta-seno sentido de que são abusivas as cláusulas contratuais que impõem limitações ou restrições aos tratamentos médicos prescritos para doenças cobertas pelos contratos de assistência e seguro de saúde dos contratantes, cabendo apenasao profissional habilitado - e não ao plano de saúde - definir a orientação terapêutica a ser dada ao paciente.
+4. Éabusiva a limitação do contrato de plano de saúde em relação ao número de sessões de psicologia, terapia ocupacional, fonoaudiologia, hidroterapiae psicoterapia para o tratamento contínuo de autismo infantil.
+5. Orol de procedimentos mínimos regulamentado pela Agência Nacional de Saúde Suplementar (ANS) é meramente exemplificativo, podendo o médico prescrever o procedimento ali não previsto de forma fundamentada, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde.
+6. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante à alegada negativa de prestação jurisdicional, agiu corretamente o tribunal de origem ao rejeitar os aclaratórios opostos pela ora agravante por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSO CIVIL. AGRAVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO.
+1. O artigo 535 do Código de Processo Civil dispõe sobre omissões, obscuridades ou contradições existentes nos julgados. Trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que se verifica a existência dos vícios na lei indicados.
+2. Afasta-se a violação do art. 535 do CPC quando o decisório está claro e suficientemente fundamentado, decidindo integralmente a controvérsia" (AgRg no Ag 1.176.665/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 10/5/2011, DJe 19/5/2011).
+"RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado" (REsp 1.134.690/PR, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 15/2/2011, DJe 24/2/2011).
+No caso dos autos,o autor foi diagnosticado como portador de autismo infantil, sendo prescrito pelo médico responsável o seguinte tratamento na clínica indicada (CINI - Centro Integrado de Neurologia):4 (quatro) sessões semanais de psicologia, 4 (quatro) sessões semanais de terapia ocupacional, 4 (quatro) sessões semanais de hidroterapia, 4 (quatro) sessões semanais de fonoaudiologia, 4(quatro) sessões de psicopedagogia, bem como a realização do exame genético.
+No entanto, o plano de saúde negou a coberturasob alegação de excesso de número de sessões, apontando a ausência no rol de procedimentos da ANS.
+Todavia,a Corte manteve a sentença de procedência por entender ser abusiva a cláusula contratual que limita o tratamento de doença prevista no plano de saúde.
+Com efeito,comoconsignado na decisão atacada, a jurisprudência desta Corte Superioré no sentido de que são abusivas as cláusulas contratuais que impõem limitações ou restrições aos tratamentos médicos prescritos para doenças cobertas pelos contratos de assistência e seguro de saúde dos contratantes. Ademais, cabe ao profissional habilitado - e não ao plano de saúde - definir a orientação terapêutica a ser dada ao paciente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FONOAUDIOLÓGICOS E HOSPITALARES. CARÁTER ABUSIVO. RECONHECIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fonoaudiologia.
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial"(AgInt no AREsp 1.527.318/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 2/4/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. LIMITAÇÃO DE TRATAMENTO. ABUSIVIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. A "jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019)"(AgInt no REsp n. 1.782.183/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019).
+(..)
+3. Agravo interno a que se nega provimento"(AgInt no REsp 1.794.335/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/2/2020, DJe 18/2/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. PLANO PRIVADO DE SAÚDE. OBRIGAÇÃO DE FAZER. COBERTURA DE TRATAMENTO. PACIENTE. MENOR IMPÚBERE PORTADOR DE PATOLOGIA CRÔNICA. LIMITAÇÃO DE SESSÕES. ABUSIVIDADE. OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes"(AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019).
+2. Agravo interno a que se nega provimento"(AgInt no REsp 1.782.183/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019).
+Nesse cenário, é abusiva a limitação do contrato de plano de saúde em relação ao número de sessões de psicologia, terapia ocupacional, fonoaudiologia, hidroterapia e psicoterapia para o tratamento contínuo de autismo infantil.
+Por fim, ao contrário do que defende a agravante,o rol de procedimentos mínimos da ANS é meramente exemplificativo, podendo o médico prescrevero procedimento ali não previsto de forma fundamentada, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CERCEAMENTO DE DEFESA. NECESSIDADE DE PROVA PERICIAL. REEXAME DE PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. 3. OFENSA AO ART. 329, II, DO CPC/2015. NÃO OCORRÊNCIA. 4. TRATAMENTO PRESCRITO PELO MÉDICO. DOENÇA ABRANGIDA PELO CONTRATO. LIMITAÇÕES DOS TRATAMENTOS. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. ROL EXEMPLIFICATIVO. JURISPRUDÊNCIA PACÍFICA DA TERCEIRA TURMA. 5. AGRAVO INTERNO IMPROVIDO.
+(..)
+4. Com efeito, nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+5. Agravo interno improvido" (AgInt no AREsp 1.673.739/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.AUTOGESTÃO. RECUSA DE COBERTURA A PROCEDIMENTO PRESCRITO PELA EQUIPE MÉDICA. ABUSIVIDADE. ALEGAÇÃO DE PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. IRRELEVANTE. ENUMERAÇÃO EXEMPLIFICATIVA. PRECEDENTES. DANO MORAL CONFIGURADO. REVISÃO SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do usuário do plano de saúde.
+2. O fato de o procedimento não constar no rol da ANS não significa que não possa ser exigido pelo usuário, uma vez que se trata de rol exemplificativo.
+3. Verificado pela Corte de origem, com suporte nos elementos probatórios dos autos, que a recusa da operadora do plano de saúde em custear o tratamento para o câncer em estado avançado ocasionou danos morais.
+4. O acolhimento do recurso, quanto à inexistência de dano moral, demandaria o vedado revolvimento do substrato fático-probatório constante dos autos, a teor da Súmula 7/STJ.
+5. Agravo interno não provido" (AgInt no AREsp 1.442.296/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 23/3/2020, DJe 25/3/2020).
+Assim, os argumentos expostos no presente recursosão incapazes de alterar os fundamentos da decisão atacada, permanecendo incólume a incidência da Súmula nº 568/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
