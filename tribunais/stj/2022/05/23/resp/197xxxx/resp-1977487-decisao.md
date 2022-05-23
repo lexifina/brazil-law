@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 199):
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - RECONVENÇÃO - JUROS REMUNERATÓRIOS- POSICIONAMENTO CONSOLIDADO NO STJ - AUSÊNCIA DE ABUSIVIDADE - RESTITUIÇÃO DE VALORES INDEVIDA - MORA NÃO AFASTADA - PREQUESTIONAMENTO - RECURSO CONHECIDO E DESPROVIDO
+A Corte de origem, em cumprimento ao disposto no art. 1.040, II, do CPC/2015, manteve o acórdão recorrido (e-STJ fl. 214).
+APELAÇÃO CIVEL - AÇÃO DE BUSCA E APREENSÃO - RECONVENÇÃO - RETORNO DA VICE-PRESIDENCIA PARA NOVO JULGAMENTO - ARTIGO 1.040, INCISO II DO CPC - RESP nº 1.061.530/RS (TEMA 27) - JUROS REMUNERATORIOS - TAXA MEDIA DE MERCADO FIXADA PELO BANCO CENTRAL DO BRASIL QUE SERVE DE MERO REFERENCIAL - TAXA CONTRATADA QUE NÃO SUPERA O DOBRO DA MEDIA - ABUSIVIDADE NÃO VERIFICADA - ACORDÃO EM CONSONÂNCIA COM OS TERMOS DO JULGADO PARADIGMA - JUIZO DE RETRATAÇÃO NÃO EXERCIDO
+Nas razões recursais(e-STJ fls. 226/232), fundamentadasno art. 105, III, "a" e "c", da CF, a recorrenteapontaviolação dos arts. 51, IX, e 52 do CDC, sustentando alimitação dataxa de juros remuneratórios à média de mercado e, por via de consequência, o afastamento da mora contratual.
+Contrarrazões apresentadas (e-STJ fls. 334/340).
+É o relatório.
+Decido.
+No julgamento do Recurso Especial n. 1.061.530/RS (Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/3/2009), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), esta Corte Superior consolidou as seguintes orientações sobre juros remuneratórios em contratos bancários:
+(..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. (..)
+Portanto, não há óbice à revisão contratual, com fundamento no CDC (Súmula n. 297/STJ), nas hipóteses em que, após dilação probatória, ficar cabalmente demonstrada a abusividade da cláusula de juros, sendo insuficiente o fato de o índice estipulado ultrapassar 12% (doze por cento) ao ano (Súmula n. 382/STJ) ou de haver estabilidade inflacionária no período.
+A taxa média de mercado, apurada pelo Banco Central para operações similares na mesma época do empréstimo, pode ser utilizada como referência no exame do desequilíbrio contratual, mas não constitui valor absoluto, a ser adotado em todos os casos. Com efeito, a variação dos juros praticados pelas instituições financeiras decorre de diversos aspectos e especificidades das múltiplas relações contratuais existentes (tipo de operação, prazo, reputação do tomador, garantias, políticas de captação e empréstimo, aplicações da própria entidade financeira etc.).
+Em seu voto, a eminente Ministra Relatora destacou que a jurisprudência do Superior Tribunal de Justiça tem considerado abusivas, diante do caso concreto, taxas superiores a uma vez e meia, ao dobro ou ao triplo da média. Destaca a Ministra Relatora (fl. 24 do inteiro teor do acórdão citado):
+(..) A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos. (..).
+No caso, conforme exposto no acórdão ora recorrido,deve ser mantida a cláusula de juros prevista no contrato, à mingua defundamento que demonstre a abusividade, por inexistir significativa discrepância entre a taxa média de mercado e o índice pactuado. Confira-se (e-STJ fls. 201):
+Cuida-se a hipótese de Cédula de Crédito Bancário nº 2312667-1 emitida em 26.11.2019 (fls. 29/33). a qual prevêjuros de 2.2689200% ao mês e 30,8952900% ao ano. De acordo com as infomações divulgadas pelo Banco Central do Brasil. à época, a taxa média de juros das operações de crédito - pessoas físicas - aquisição de veículos era de 1.48% ao mês e 19,29% ao ano.
+Portanto, verifica-se que houve pequena divergência entre a taxa média de mercado indicada pelo Banco Central do Brasil e aquela aplicada pelo apelado, de modo que, conforme orientação do STJ, não se constata onerosidade excessiva ao consumidor.
+Imperioso reconhecer que o Tribunal de origem decidiu conforme o recurso especial representativo da controvérsia(Súmula n. 83/STJ).
+Além disso, para alterar o desfecho conferido ao processo, no ponto, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que não se admite em recurso especial, conforme orienta a Súmula n. 7/STJ.
+Prejudicado o pedido de descaracterização da mora.
+Diante do exposto, NEGOPROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
