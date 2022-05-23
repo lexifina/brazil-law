@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto porRICARDO BRAGA MOURA e ÂNGELA APARECIDA PEREIRA GOMES BRAGA,contra decisão assim ementada(e-STJ, fl. 1.160):
+RECURSO ESPECIAL. SOCIEDADE ANÔNIMA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PARA ATINGIR PATRIMÔNIO DE ACIONISTA CONTROLADORA. NECESSIDADE DE DEMONSTRAÇÃO DOS REQUISITOS DO ART. 50 DO CÓDIGO CIVIL. DESCABIMENTO DE APLICAÇÃO SIMPLÓRIA DO CDC. JULGADOS DO STJ NESSE SENTIDO. RECURSO ESPECIAL PROVIDO.
+Insistem os agravantes que é aplicável, à hipótese vertente, o CDC, viabilizando a desconsideração da personalidade jurídica, tal como ocorreu na instância de origem.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.202-1.227).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SOCIEDADE ANÔNIMA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PARA ATINGIR PATRIMÔNIO DE ACIONISTA CONTROLADORA. APLICAÇÃO DO CÓDIGO CIVIL. JULGADOS DO STJ NESSE SENTIDO.
+1.Segundo julgados desta Corte, para responsabilizar acionista controladora, mediante desconsideraçãoda personalidade jurídica de sociedade anônima, aplica-se o art. 50 do Código Civil.
+2. Agravo interno não provido.
+VOTO
+A súplica não merece acolhida.
+Ojulgamento proferido no TJDFT afirma o seguinte(e-STJ, 1.069-1.071):
+Da análise dos autos, verifica-se que as empresas executadas não efetuaram o pagamento espontâneo do valor devido nem ofereceram bens à penhora.
+Ademais, as diligências para localização de ativos penhoráveis pelos sistemas Bacen Jud, e-RIDF e Infojud foram infrutíferas.
+Consigne-se que, embora declarem capital social superior a quarenta milhões de reais, as devedoras mantêm quantias irrisórias em suas contas-correntes.
+Portanto, presentes a relação de consumo e o obstáculo à satisfação do crédito do consumidor pela personalidade jurídica das devedoras, que não possuem meios de quitar o débito, admite-se a sua desconsideração, nos termos do art. 28, §5º, do CDC, pela aplicação da teoria menor, a qual, frise-se, não exige os requisitos contidos no art. 50 do Código Civil.
+(..)
+"O caput do art. 28 já contém todos os elementos necessários à aplicação da desconsideração da personalidade jurídica, que constitui, conforme doutrina amplamente dominante no direito pátrio e alienígena, técnica excepcional de repressão a práticas abusivas."
+Pelo contrário, o CDC não faz nenhuma distinção entre sócios, acionistas controladores e administradores para a incidência da responsabilidade decorrente da desconsideração da personalidade jurídica.
+Ora, se o Código Civil no seu art. 50 reconhece a responsabilização de sócios e de administradores igualmente, é incabível pensar que o CDC, legislação de caráter protecionista, não o faça a fim de salvaguardar os direitos da parte hipossuficiente.
+Dessa forma, improcedente o argumento dos agravantes de que o silêncio do art. 28 da Lei 8.078/90 e o veto do seu §1º impedem a responsabilização dos sócios controladores.
+Basta ler o excerto transcrito para se constatar que a tese do julgamento na origem é a de que prevalece, na espécie, o art. 28, §5º, do CDC em detrimento do art. 50 do Código Civil e essa conclusãoé dissonante do entendimento do STJ, conforme as ementas transcritas:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SOCIEDADE ANÔNIMA. RESPONSABILIDADE APENAS DOS ADMINISTRADORES E SEUS ACIONISTAS CONTROLADORES. ENUNCIADO 7 DA I JORNADA DE DIREITO CIVIL DO CJF. SÚMULA 83 DO STJ. FRAUDE À EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. O entendimento das instâncias ordinárias está em consonância com a jurisprudência desta Corte Superior, o qual afirma que apenas os administradores da sociedade anônima e seus acionistas controladores podem ser responsabilizados pelos atos de gestão e pela utilização abusiva da empresa. Precedente: REsp 1.412.997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/9/2015, DJe 26/10/2015.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 331.644/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+PROCESSO CIVIL E DIREITO CIVIL. RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EXCESSO DE EXECUÇÃO. JUROS MORATÓRIOS. CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO DA PRETENSÃO DE EXECUÇÃO DE VERBA HONORÁRIA DE SUCUMBÊNCIA. VIOLAÇÃO DO ART. 535 DO CPC. FIXAÇÃO DE HONORÁRIOS EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO OCORRÊNCIA DE VÍCIO DE CITAÇÃO.
+1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidos no art. 535 do CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+2. Esta Corte Superior, primando pela celeridade e economia processuais, vem mitigando o rigorismo do prequestionamento em situações excepcionais para, superado o juízo de admissibilidade, ampliar a extensão do efeito devolutivo, de forma a aplicar o direito à espécie, nos termos do art. 257 do RISTJ e da Súmula 456 do STF. Precedentes.
+3. A exceção de pré-executividade é instrumento processual adequado para demonstrar a nulidade do título executivo no ponto em que utilizado errôneo índice de juros de mora, bastando que seja possível ao órgão julgador aferir de plano o referido erro, o que ocorreu no caso concreto. Precedentes.
+4. A prescrição relativa à pretensão de cobrança de honorários de sucumbência é quinquenal, nos termos do art. 25, inciso II, da Lei n. 8.906/1994 (EOAB), que prevê, como termo a quo da contagem desse prazo, o trânsito em julgado da decisão que fixar a verba. Precedentes.
+5. O parcial acolhimento do incidente de exceção de pré-executividade, desde que resultando na extinção parcial da execução, rende ensejo à condenação na verba honorária proporcionalmente à parcela excluída do feito executivo. Precedentes.
+6. A superação da pessoa jurídica afirma-se como um incidente processual, razão pela qual pode ser deferida nos próprios autos, dispensando-se também a citação dos sócios, em desfavor de quem foi superada a pessoa jurídica, bastando a defesa apresentada a posteriori, mediante embargos, impugnação ao cumprimento de sentença ou exceção de pré-executividade. Precedentes.
+7. Ademais, o comparecimento espontâneo do requerido supre a eventual ausência de citação (art. 214, § 1º, do CPC), máxime quando inexiste prejuízo, uma vez que o recorrente apresentou exceção de pré-executividade, que foi devidamente apreciada pelo órgão jurisdicional. Consoante cediço, não se anula ato processual cujo vício formal não impede seja atingida a sua finalidade. Precedentes.
+8. Da clara redação do art. 82 da Lei n. 11.101/2005 é possível inferir que a norma se refere à apuração, no juízo da falência, da responsabilidadepessoal dos sócios e administradores da própria empresa falida, e não de outras empresas que guardem com aquela alguma relação de controle.
+9. Nos termos do art. 50 do CC, o decreto de desconsideração da personalidade jurídica de uma sociedade somente pode atingir o patrimônio dos sócios e administradores que dela se utilizaram indevidamente, por meio de desvio de finalidade ou confusão patrimonial.
+10. É de curial importância reiterar que, principalmente nas sociedades anônimas, impera a regra de que apenas os administradores da companhia e seu acionista controlador podem ser responsabilizados pelos atos de gestão e pela utilização abusiva do poder; sendo certo, ainda, que a responsabilização deste último exige prova robusta de que esse acionista use efetivamente o seu poder para dirigir as atividades sociais e orientar os órgãos da companhia.
+11. No caso, o recorrente retirou-se da administração da sociedade em 1984 e dos quadros sociais em 1985, ou seja, 4 ou 5 anos antes dos fatos geradores do decreto de desconsideração. A decisão é de 2009, vale dizer, 24 anos após sua saída da Cobrasol, ressoando inequívoca, a meu juízo, a impossibilidade de que a supressão da personalidade jurídica da aludida empresa possa atingir seu patrimônio.
+12. Outrossim, verifica-se que não foi nem mesmo demonstrada a prática de atos fraudulentos por parte do recorrente, haja vista não ter o Tribunal a quo especificado quais as provas que embasaram a sua convicção nesse sentido, limitando-se a crer, de forma subjetiva, que o ex-sócio controlava a referida sociedade de forma indireta.
+13. Recurso especial de Solano Lima Pinheiro e outro não provido. Recurso especial de Naji Robert Nahas provido.
+(REsp 1412997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/09/2015, DJe 26/10/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SOCIEDADE ANÔNIMA. RESPONSABILIDADE APENAS DOS ADMINISTRADORES E SEUS ACIONISTAS CONTROLADORES. ENUNCIADO 7 DA I JORNADA DE DIREITO CIVIL DO CJF. SÚMULA 83 DO STJ. FRAUDE À EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. O entendimento das instâncias ordinárias está em consonância com a jurisprudência desta Corte Superior, o qual afirma que apenas os administradores da sociedade anônima e seus acionistas controladores podem ser responsabilizados pelos atos de gestão e pela utilização abusiva da empresa. Precedente: REsp 1.412.997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/9/2015, DJe 26/10/2015.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 331.644/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSOESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE SOCIETÁRIA E RESPONSABILIDADE PESSOAL DOS SEUS SÓCIOS E ACIONISTAS CONTROLADORES. INCABIMENTO. AUSÊNCIA DE COMPROVAÇÃO DE DESVIO DE FINALIDADE OU DE EXCESSO DE PODER. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com apoio no material fático-probatório constante dos autos, o Tribunal local concluiu pela ausência de comprovação de desvio de finalidade ou de excesso de poder a fim de justificar a aplicação da Teoria da Desconsideração da personalidade societária. Infirmar tal entendimento implicaria em reexame de provas, o que é vedado nesta oportunidade a teor do que dispõe a Súmula 7 do STJ.
+2. A teoria da desconsideração da personalidade jurídica tem aplicação no domínio do Direito Obrigacional e se restringe aos casos em que a entidade originariamente obrigada deixa de desempenhar a tempo e modo o dever jurídico assumido, em decorrência ou em face de atos praticados pelos seus dirigentes, controladores ou acionistas, com desvio de finalidade ou excesso de poder (art. 50 do Código Civil), pelo que estes assumem a responsabilidade ilimitada pela solvência daquele mesmo dever.
+3. A insolvência da sociedade, ocorrente quando os seus recursos são insuficientes para responder pelas obrigações assumidas, não enseja, por si só, a aplicação da teoria da desconsideração de sua personalidade, eis que os seus acionistas e controladores não estão legalmente obrigados a realizar aportes financeiros emergenciais.
+4. Agravo Regimental da COMPANHIA DE SANEAMENTO BÁSICO DE SÃO PAULO - SABESP desprovido.
+(AgRg no AREsp 28.612/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/08/2012, DJe 21/08/2012
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015
+É como voto.
