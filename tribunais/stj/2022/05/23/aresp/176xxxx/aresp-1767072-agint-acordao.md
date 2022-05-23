@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por CONCESSIONÁRIO DO SISTEMA ANHANGUERA-BANDEIRANTES S/A contra decisão da Presidência do STJ, que conheceu do AREsp para não conhecer do REsp, em razão dos seguintes fundamentos: (i) necessidade de juízo anterior de norma infralegal; e (ii) incidência dos óbices das Súmulas 282/STF e 356/STF.
+Alega a nulidade da decisão ora agravada por fundamentação deficiente, apontando violação do art. 489 do CPC/2015. Alega o prequestionamento exaustivo dos artigos legais apontados violados em todas as peças dos autos. Alega a não incidência da Súmula 5/STJ, ao argumento de que a controvérsia não se limita à interpretação de cláusulas, e sim se houve a alteração unilateral dos encargos contratuais. Sustenta que as alterações promovidas pela Resolução n. 340 do CONTRAN representa uma alteração/majoração dos encargos assumidos e que estão fora da matriz do risco contratual, argumentando que os negócios jurídicos devem ser interpretados conforme a boa-fé.
+Impugnação a fls. 1.068-1.070.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO EM NORMA INFRALEGAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A questão da alegação de ocorrência de desequilíbrio contratual, em razão da Resolução CONTRAN 340/2010, que estabeleceu novo padrão de placas de regulamentação de velocidade, foi decidida pelo Tribunal Paulista considerando as disposições da referida norma infralegal.
+3. Inadmissível o recurso especial quanto aos dispositivos legais federais indicados, a respeito dos quais não houve juízo de valor pelo órgão julgador na fundamentação adotada no acórdão, nem foram opostos embargos de declaração buscando seu prequestionamento. Incide à espécie o teor das Súmulas 282/STF e 356/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A questão da alegação de ocorrência de desequilíbrio contratual, em razão da Resolução CONTRAN 340/2010, que estabeleceu novo padrão de placas de regulamentação de velocidade foi decidida, conforme a seguinte fundamentação, in verbis (fls. 799):
+A autora afirma que em razão da Resolução CONTRAN 340 de 25 de fevereiro de 2010, que estabeleceu novo padrão para as placas de regulamentação de velocidade máxima permitida para as diferentes espécies de veículos, a Diretoria de Operações da ARTESP determinou que as concessionárias adotassem providencias para adequação de todas as placas existentes nas rodovias. Tal providencia acarretou, segundo a autora, um gasto não previsto de R$ 759.118,91, gerando desequilíbrio econômico-financeiro no contrato que deve ser ressarcido nos termos do item 25.1, inc. IV do contrato.
+Pois bem.
+Entendo que as adaptações das placas para atender a nova legislação não configura situação imprevisível capaz de acarretar desequilíbrio econômico- financeiro. O edital da licitação que culminou com o contrato discutido nos autos estabelece no item 20.5 que a concessionária "obedecerá ao determinado no Código Nacional de Trânsito e sua regulamentação, bem assim às disposições legais e regulamentares aplicáveis, especialmente quanto aos direitos e deveres dos usuários".
+Ainda, no item 29.3 prescreve que "A CONCESSIONÁRIA assumirá integral responsabilidade por todos os riscos inerentes à CONCESSÃO, excetuados unicamente aqueles em que o contrário resulte expressamente do CONTRATO." Assim, não há que se falar que a concessionária tem como dever apenas a manutenção das placas existentes e substituição das que eventualmente apresentem problemas. O dever de manutenção das placas por certo que inclui também a substituição, se necessário, para atender a legislação.
+A concessionária não pode ser furtar ao cumprimento da legislação.
+Por outro lado a manutenção do sistema de sinalização esta compreendido entre os deveres contratuais da autora. Razão pela qual, alterações de placas como a ocorrida deveriam ser previstas pelo licitante e incluídas no preço da proposta.
+Com efeito, uma vez que o deslinde da causa se deu considerando as disposições da norma infralegal, inadmissível o recurso especial quanto aos dispositivos legais federais indicados, a respeito dos quais não houve juízo de valor pelo órgão julgador na fundamentação adotada no acórdão, nem mesmo foram opostos embargos de declaração buscando seu prequestionamento, incidindo à espécie o teor das Súmulas 282/STF e 356/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
