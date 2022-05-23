@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno de decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, com os seguintes fundamentos: (a) Súmula n. 284/STF, quanto aos art. 356 e 1.022 do CPC/2015; (b) Súmula n. 282/STF, quanto ao art. 489 do CPC/2015; e (c) Súmula n. 7/STJ, quanto ao debate referente ao cerceamento de defesa.
+A agravante insurge-se contra o óbice da Súmula n. 284/STF,aduzindo ter demonstrado devidamente a ofensa aos dispositivos legais apontados como violados.
+Alega a inaplicabilidade da Súmula n. 282/STF, uma vez debatida a questão relativa à ausência de fundamentação do acórdão recorrido.
+Por fim, insurge-se contra a incidência da Súmula n. 7/STJ, asseverando (e-STJ, fl. 652):
+18. Entretanto, o recurso especial interposto pela parte agravante não esbarra no óbice da Súmula 7 do STJ, pois não pretende revolvimento fático-probatório do acervo fático e documental do processo, tão somente interpretação coerente aos dispositivos de lei federal manejados nos acórdãos recorridos.
+19. Ora, a discussão trazida no especial não envolve incursão à matéria fático-probatória da lide, tampouco se limita à mera discussão de aspectos contratuais do Contrato de Concessão celebrado entre a concessionária e o Poder Concedente(União), tocando a controvérsia exclusivamente sobre matéria de direito.
+20. A tese jurídica que se pretende fazer valer como recurso especial é a de que havendo elementos robustos para o julgamento antecipado é lícita a sentença lançada sobre estes fundamentos. Tal tese não carece de análise fática ou leitura ostensiva do caderno processual para ser fixada. É matéria de direito processual e ficou suficientemente demonstrada nos embargos e no recurso especial opostos/interpostos pela ora agravante.
+21. Ademais, o juiz sentenciante proferiu sua decisão após analisar as provas já produzidas no processo, entendendo como dispensável a produção de outras provas - sempre com respaldo nos dispositivos legais já citados. Nesse cenário, a cassação da sentença pelo aresto viola os arts. 355, I; 356, II; 464, §1º, II; 472, 507 (todos do CPC), uma vez que o juízo sentenciante tem a liberalidade de decidir quais provas são necessárias para o seu convencimento, não havendo qualquer nulidade na negativa da produção de prova pericial.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE REINTEGRAÇÃO DE POSSE. PROVA TÉCNICA PERICIAL. NECESSIDADE DE PRODUÇÃO. CERCEAMENTO DE DEFESA. RETORNO DOS AUTOS À ORIGEM. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. REEXAME DE MATÉRIA DE FATO. DECISÃO MANTIDA.
+1. Impossibilidade de conhecimento do recurso especial em relação à alegada ofensa ao art. 1.022 do CPC, a qual foi formulada de forma genérica, sem a especificação dos dispositivos legais ou teses sobre as quais o acórdão recorrido teria deixado de se manifestar. Dessa forma, em razão da deficiente fundamentação recursal no ponto, incide a Súmula284 do STF.
+2. Inadmissivel o recurso especial cujo debateque envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido para a reconhecimento de cerceamento de defesa e determinação de retorno dos autos à origem, para retomada da instrução, em razão da incidência do enunciado da Súmula 7 doSTJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): A insurgência não prospera.
+De início, mantém-se a incidência da Súmula n. 284/STF quanto à insurgência fundada no art. 1.022 do CPC/2015, porquantoausente, nas razõesdo recurso especial, aindicação dealgum dos vícios em que tenha incorrido o Tribunal de origem, não sendo suficiente a mera referência ao que foi alegado na petição de embargos declaratórios.
+Além disso, não houve debate acerca da ausência de fundamentação do acórdão recorrido.
+Quanto ao cerceamento de defesa reconhecido pela Corte local, que determinou a retorno dos autos à origem para retomada da instrução processual, inafastável a incidência da Súmula n. 7/STJ, uma vez necessário o revolvimento do acervo fático-probatório dos autos, a fim de verificar a suficiência das provas e documentos apresentadas até a sentença anulada.
+Como a parte agravante não trouxe argumentos suficientes para infirmar os fundamentos da decisão agravada, reitera-se o seu teor:
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Destaque-se que as partes requereram a realização da prova técnica, tendo o Juízo a quo indeferido o pedido, antecipando o julgamento da lide. Assim, desse modo, creio ter ocorrido cerceamento de defesa ao não ter sido determinada a realização de prova pericial, considerando ser indispensável, no caso dos autos, a realização da prova requerida (fls. 502/503).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
