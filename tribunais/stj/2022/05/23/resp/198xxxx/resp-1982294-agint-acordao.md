@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pela Uniãodesafiando decisãoque não conheceudo recurso especial, sob ofundamentode incidência doóbicedaSúmula126/STJ.
+A parte agravante, em suas razões, sustenta, em síntese, a inaplicabilidade dareferidasúmulaao caso em exame, sob a alegação de que "da análise do acórdão recorrido verifica-se que o mesmo julgou a questão da licença do servidor para atividade política, que é indiscutivelmente matéria infraconstitucional diuturnamente analisada por esta Corte Superior. (..)Com base no artigo 1º da LC 64/90, o Tribunal de origem concluiu que deve ser reconhecido o direito do impetrante à percepção dos seus vencimentos durante o período de 06 (seis) meses. É em detrimento de tal conclusão que a União interpôs o recurso especial.A questão da isonomia, citada como reforço argumentativo às fls. 293, sem qualquer aprofundamento, não é motivo suficiente para a interposição de recurso extraordinário, o qual teria seguimento negado em razão de ofensa reflexa ao texto constitucional." (fls. 433/436)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NORECURSO ESPECIAL. LICENÇA PARA ATIVIDADE POLÍTICA. REMUNERAÇÃO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL DO ACÓRDÃO. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. APLICAÇÃO.
+1. O Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Colheu-se do acórdão o seguinte trecho, verbis (fls.291/293):
+O impetrante defende que a exigência da Lei Complementar nº 64/90, de desincompatibilização nos seis meses anteriores ao pleito eleitoral, consoante art. 1º, VII, "a" e "b" c/c IV, alínea "c", deve importar em concessão de licença remunerada para o exercício da atividade política pelo mesmo período.
+(..)
+A Lei Complementar nº 64/90, que regulamentou o art. 14, § 9º, da Constituição Federal, por sua vez, determina a inelegibilidade para o cargo de vereador das autoridades policiais que não estiverem afastadas do cargo nos 6 (seis) meses anteriores ao pleito
+(..)
+Observa-se, portanto, que os diversos prazos para a desincompatibilização exigida pela Lei Complementar nº 64/90 não coincidem, necessariamente, com o período de licença remunerada prevista pelo Estatuto do Servidor Público Federal. Como acima destacado, desde a sua escolha em convenção partidária, terá o servidor direito à licença não-remunerada até a véspera do registro de sua candidatura perante a Justiça Eleitoral; a partir do registro da candidatura até 10 dias após o pleito eleitoral, terá direito à licença remunerada.
+Não obstante tenha indeferido a liminar pleiteada por ocasião da interposiçãodo agravo de instrumento, melhor analisando o caso concreto, tenho por modificar o entendimento anteriormente adotado.
+Com efeito, esta Corte tem reconhecido o direito de servidores públicos ocupantes do cargo de Delegado da Polícia Federal à percepção da remuneração pelo prazo de desincompatibilização exigido pela LC n. 64/90.
+(..)
+Constata-se, portanto, não existir motivos razoáveis para negar ao impetrante o direito que lhe é assegurado por lei em razão do cargo ocupado, havendo de ser considerado, inclusive, que a norma visa, além de garantir o pleno desempenho da capacidade eleitoral passiva do servidor, igualmente assegurar a isonomia do pleito eleitoral. Entendimento contrário acabaria por restringir indevidamente o exercício de direitos políticos constitucionalmente assegurados, criando restrição não prevista em lei.
+Dessa forma, considerando que o art. art. 1º, VII, "a" e "b" c/c IV, alínea "c", da LC nº 64/90 determina que as autoridades policiais, civis ou militares, fiquem afastadas do cargo pelo período de seis meses para fins de desincompatibilização com o objetivo de concorrer a mandato público eletivo, deve ser reconhecido o direito do impetrante à percepção dos seus vencimentos durante o respectivo período.
+Está correto o decisum, pois, conforme anteriormente asseverado, o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+Nesse mesmo sentido: AgInt no AREsp 1702175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1642570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+Em face do exposto, nega-se provimento ao agravo interno.
