@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 464):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO NÃO PADRONIZADO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. OBRIGAÇÃO SOLIDÁRIA DOS ENTES DA FEDERAÇÃO. ACÓRDÃO RECORRIDO CONTRÁRIO AO POSICIONAMENTO DO STJ SOBRE O TEMA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O acórdão recorrido é, de fato, contrário ao entendimento pacificado no STJ sobre o tema, o qual se firmou no sentido de que, conforme definido pelo Supremo Tribunal Federal no RE 855.178/PE, a responsabilidade solidária dos entes federados, quanto ao fornecimento de medicamentos, não enseja a formação de litisconsórcio passivo necessário, podendo o polo passivo ser composto por qualquer um deles, isoladamente ou em conjunto.
+3. Agravo interno não provido.
+O embargante sustenta que o acórdão contém o seguinte vício: a) omissão quanto aos arts. 23, inc. II, 109, inc. I, 196 e 198, caput e inc. I, da CF/1988. Afirma que "Nas razões do Agravo Interno interposto o Estado de Santa Catarina expressamente impugnou a r. Decisão monocrática - que deu provimento ao Recurso Especial do Ministério Público - com fundamentos constitucionais que não foram enfrentados pelo r. acórdão ora embargado.
+Nesse sentido, alegou-se que o entendimento do STF, tanto no que concerne ao Tema 500, quanto ao Tema 793, é que, uma vez inexistente padronização de medicamentos para disponibilização em programas públicos, o dever de prestação da saúde, decorrente da competência comum de todos os entes federativos, é, por conseguinte, solidária." (fl. 472).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que o acórdão recorrido é, de fato, contrário ao entendimento pacificado no STJ sobre o tema, o qual se firmou no sentido de que, conforme definido pelo Supremo Tribunal Federal no RE 855.178/PE, a responsabilidade solidária dos entes federados, quanto ao fornecimento de medicamentos, não enseja a formação de litisconsórcio passivo necessário, podendo o polo passivo ser composto por qualquer um deles, isoladamente ou em conjunto.
+Na oportunidade, salientou-se ainda - repisando posicionamento já colocado na decisão monocrática então agravada - que "(..) A ressalva contida na tese firmada no julgamento do Tema 793 pelo Supremo Tribunal Federal, quando estabelece a necessidade de se identificar o ente responsável a partir dos critérios constitucionais de descentralização e hierarquização do SUS, relaciona-se ao cumprimento de sentença e às regras de ressarcimento aplicáveis ao ente público que suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde. (..)" (STJ, AgInt no REsp 1.043.168/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/03/2020)." (AgInt no CC 171.525/SC, Rel. Min. Assusete Magalhães, Primeira Seção, DJe 28/08/2020)." (fls. 467-468).
+Ademais, vale ressaltar que "O recurso especial, conforme delimitação de competência estabelecida pelo art. 105, inc. III, da Carta Magna de 1988, destina-se a uniformizar a interpretação do direito infraconstitucional federal, razão pela qual é defeso, em seu bojo, o exame de matéria constitucional, ainda que para fins de prequestionamento" (EDcl no AgRg no REsp 1200089/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 22/2/2011) e que "Descabe ao STJ analisar infringência a dispositivos constitucionais em Embargos de Declaração (arts. 5º e 93 da CF), mesmo que para viabilizar interposição de Recurso Extraordinário." (EDcl no AgInt no AREsp 1952848/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 12/4/2022).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
