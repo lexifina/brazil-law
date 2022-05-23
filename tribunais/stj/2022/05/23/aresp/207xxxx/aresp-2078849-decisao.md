@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial,com base nas Súmulas n. 5 e7 do STJ, 283 e 284 do STF.
+Na origem, a recorrente ajuizou ação contra a seguradora, pleiteando a indenização do seguro coletivo por invalidez. Em primeira instância, o feito foi julgado improcedente.
+A parte autora interpôs apelação, à qual foi negadoprovimento. O acórdão ficou assim ementado (e-STJ fl. 833):
+APELAÇÃO CÍVEL. SEGURO DE VIDA EM GRUPO.REEXAME DO APELO, APÓS O PARCIAL PROVIMENTODE RECURSO ESPECIAL AVIADO PELA PARTE AUTORAPERANTE O STJ. CORTE SUPERIOR QUEESTABELECEU A OBRIGAÇÃO DA SEGURADORA DEPRESTAR AS INFORMAÇÕES REFERENTES AOCONTRATO DE SEGURO TAMBÉM AOS SEGURADOSINDIVIDUAIS, E NÃO SÓ À ESTIPULANTE. AUTORA QUEAFIRMA SER PORTADORA DE INVALIDEZ PERMANENTEPOR DOENÇA OCUPACIONAL, E PRETENDE ORECEBIMENTO DE INDENIZAÇÃO REFERENTE ACOBERTURA DE INVALIDEZ POR ACIDENTE.IMPOSSIBILIDADE DA PRETENDIDA EQUIPARAÇÃO DASSITUAÇÕES, À VISTA DA DESAPROXIMAÇÃO CONTIDANO PRÓPRIO CONCEITO ORDINÁRIO DOS VOCÁBULOS"ACIDENTE" E "DOENÇA OCUPACIONAL",INDEPENDENTEMENTE DO CONTEÚDO DASCONDIÇÕES GERAIS DA APÓLICE, INOPONÍVEIS ÀCONSUMIDORA NO CASO CONCRETO. AUSÊNCIA DEAMBIGÜIDADE NA NOMENCLATURA DA COBERTURACONTRATUAL QUE PERMITA A APLICAÇÃO DAINTERPRETAÇÃO MAIS FAVORÁVEL AO CONSUMIDORPREVISTA NO ART. 47 DO CDC. NECESSIDADE,ADEMAIS, DE OBSERVÂNCIA À INTERPRETAÇÃORESTRITIVA DOS RISCOS PREDETERMINADOS NOSCONTRATOS DE SEGURO (ART. 757 DO CC).ABUSIVIDADE INEXISTENTE. AUSÊNCIA DE VIOLAÇÃOAOS ARTS. 19 E 20 DA LEI 8.213/91. DISPOSIÇÕESATINENTES ÀS RELAÇÕES DE NATUREZAPREVIDENCIÁRIA, NÃO SE APLICANDO AOSCONTRATOS DE SEGURO. MANUTENÇÃO DASENTENÇA E DO ACÓRDÃO ANTERIOR. HONORÁRIOSRECURSAIS ARBITRADOS. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.129/1.134).
+No recurso especial (e-STJ fls. 1.142/1.204), fundamentado no art. 105, III, "a" e "c", da CF,arecorrente alega violação dos arts. 6º, III, 14, 39, 46, 47, 51, 54 do CDC, 166, 422, 757, 758 e 760 do CC/2002, 19, 20 e 21 da Lei n. 8.213/1991, bem como divergência jurisprudencial, argumentando que seria ônus da seguradora comunicar os segurados sobre as limitações da apólice, o que não teria ocorrido.
+No agravo (e-STJ fls. 1.348/1.395), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial tratou de controvérsia afetada à Segunda Seção, para julgamento sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, conforme o Tema n. 1.112, assim delimitado:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. SEGURO DE VIDA EM GRUPO. CLÁUSULAS RESTRITIVAS.DEVER DE INFORMAÇÃO. ESTIPULANTE E/OU SEGURADORA.
+1. Delimitação da controvérsia: definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015.
+(ProAfR no REsp 1.874.811/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/10/2021, DJe 5/11/2021.)
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. SEGURO DE VIDA EM GRUPO. CLÁUSULAS RESTRITIVAS.DEVER DE INFORMAÇÃO. ESTIPULANTE E/OU SEGURADORA.
+1. Delimitação da controvérsia: definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015.
+(ProAfR no REsp 1.874.788/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/10/2021, DJe 5/11/2021.)
+Nesses termos, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham sido prejudicadas.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos aoTJSC, com a devida baixa nesta Corte, paraque, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
