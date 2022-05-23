@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por DIAGNOSTICO ESPECIALIZADO GASPAROTTO HINDO LTDA E OUTRA contra decisão monocrática deste relator (fls. 252-255), que negou provimento ao agravo em recurso especial com base na incidência da Súmula 7 do STJ.
+Nas razões recursais (fls. 258-270), a parte agravante alega a não incidência da Súmula 7 do STJ, uma vez que não pleiteia a revisão do conjunto fático-probatório dos autos e sim uma nova valoração das provas já delineadas no acórdão recorrido. Aduz que "busca-se apenas a devida aplicação do direito ao referido caso, com o reconhecimento de que as falas de depoimento pessoal e testemunhal utilizadas não são suficientes para provar prática de qualquer dano em face da autora da ação". Pede o provimento do agravo interno.
+Impugnação ao agravo interno às fls. 277-282.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ALEGADA FALTA DE COMPROVAÇÃO DE FALHA NO SERVIÇO PRESTADO. SÚMULA 7 DO STJ. MULTA DO ART. 1.021, §4º, DO CPC E POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO NA ESPÉCIE. AGRAVO NÃO PROVIDO.
+1. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+2. "A aplicação das multas por litigância de má-fé ou por interposição de recurso manifestamente inadmissível não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer." (AgInt no AREsp 1163437/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 04/05/2020, DJe 07/05/2020)
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O Agravo interno não merece prosperar, porquanto ausente argumentação hábil a comprovar a necessidade de modificação da decisão agravada.
+Cinge-se a controvérsia recursal sobre alegada ofensa ao disposto no art. 14 do CDC, arguindo a parte recorrente ora agravante no recurso especial que "não existem elementos que provem a falha no serviço prestado tal qual alega a recorrida" (fl. 201) e que "percebe-se total ausência de requisitos ensejadores da responsabilidade civil objetiva" (fl. 202). No mesmo sentido, aduz no agravo interno que "que as falas de depoimento pessoal e testemunhal utilizadas não são suficientes para provar prática de qualquer dano em face da autora da ação" (fl. 268).
+Lado outro, a Corte local, com base nos elementos fático-probatórios dos autos, por maioria, concluiu que a parte ora agravada faz jus à indenização por danos morais, entendendo pela comprovação do fato danoso e pela presença dos requisitos que ensejam a responsabilidade civil, consignando a ocorrência de falha na prestação dos serviços. Segue trecho do voto vencedor (fls. 180-183):
+"Destarte, conforme emerge do conjunto probatório, a autora, ao se submeter a um exame ginecológico na clínica médica requerida, foi surpreendida durante a ultrassonografia, por um funcionário, que realizava manutenção do equipamento de ultrassonografia danificado, o qual abriu a porta da sala de procedimento, provavelmente por engano em busca de um funcionário do estabelecimento médico.
+Neste particular, a par da prova testemunhal ouvida às fls. 117, incluindo-se os depoimentos das próprias funcionárias da clínica médica, estão a corroborar que, na data em que a autora apelada foi submetida a um exame de ultrassonografia, ocorreu um defeito no aparelho e, em razão desta situação, foi chamado um funcionário de uma empresa prestadora de serviços especializada para reparos no equipamento, corroborando assim, efetivamente a versão da apelada.
+Portanto, a presença na clínica do prestador de serviços na data e no momento da realização do exame ginecológico pela autora restou indubitável.
+Por outro lado, não obstante as testemunhas ouvidas em Juízo, funcionárias da clínica e a médica apelante declararem que o funcionário não abriu a porta sorrateiramente, os depoimentos destas são amplamente contraditórios entre si.
+Com efeito, a testemunha informante, Rosenilda de Castro Vieira, consignou que, após o defeito no aparelho de ultrassonografia, o técnico foi chamado para manutenção e, que a funcionária Márcia (também ouvida em Juízo) teria ficado na outra sala com o funcionário terceirizado.
+Porém, em outro momento de seu depoimento, alega que Márcia foi chamada pela médica na outra sala onde a autora estava fazendo exame e adentrou nesta e ainda que Márcia no dia dos fatos estava também na "sala de laudo", tendo inclusive, a própria médica requerida se dirigido até ela buscando auxílio para impressão do laudo da autora.
+Declarou também que inicialmente não teria conversado com o esposo da autora, porém, os áudios de fls. 83, comprovam que conversou sim com ele e após questionamento da advogada da apelante, confessou ter conversado com o aquele no dia seguinte ao exame, dando detalhes dos questionamentos realizados pelo mesmo após os fatos. E, neste ponto, a testemunha Ana Carolina também confirma que Rosenilda conversou com o marido da autora.
+Rosenilda Também é contraditória em relação à ter ou não vestimenta (jaleco/camisola) para a paciente realizar o exame diante das declarações constantes dos áudios mencionados.
+De igual forma, o depoimento da testemunha Ana Carolina Dornellas, que foi funcionária da clínica entre os anos 2015 a 2016 a qual trabalhava somente na recepção, é totalmente incoerente, haja vista afirmar que no dia dos fatos não compareceu prestador de serviços, e após alega ter acompanhado o técnico até a sala do aparelho estragado onde o trancou declarando: ("(..) sim acompanhei e tranquei ele dentro da sala e voltei para recepção (..)").
+Sobre este fato, ao contrário do afirmado por Ana, como será debatido também adiante, a testemunha Márcia declarou que na verdade foi quem teria acompanhado o técnico, configurando outra incongruência.
+Ana Carolina que era recepcionista da clínica, afirmou também que no dia do exame o esposo da autora não estava na recepção, somente vindo buscá-la após o exame, contudo todas as outras testemunhas afirmaram que ele se fazia presente na clínica durante a realização do exame.
+Destarte, a testemunha Marcia Avalos Turuda, ao contrário de Ana, alegou que foi quem recepcionou o técnico e teria o acompanhado, entrando com ele pelo corredor da clínica, ingressando na sala que estava o aparelho estragado, tendo declarado expressamente que "eu liguei para o técnico (..) eu recepcionei ele e eu levei ele na sala do aparelho estragado(..)" Esta afirma ainda que quando o técnico chegou a autora ainda estava na clínica, ou seja, totalmente contrário à versão de Ana Carolina e, também em descompasso à fala desta, a testemunha Márcia afirmou que viu o marido da autora na recepção onde ficou durante todo o exame.
+Deveras, a versão apresentada pela autora quanto à sequência e a dinâmica dos fatos ocorridos quando da realização do exame de ultrassonografia ginecológico é coerente (quebra do aparelho de ultrassom, troca de salas, presença de um técnico para reparo, problemas com a impressão do exame), confirmando assim a incontestável presença de um prestador de serviço para reparos no aparelho, como corroborando pelas testemunhas e, portanto, consequentemente, que este abriu descuidadosamente a porta da sala onde estava sendo submetida ao exame, à procura da funcionária que o recebeu, consubstanciando-se, desse modo, a violação à intimidade da apelada.
+A propósito, o dano moral, na espécie, evidencia-se in re ipsa, na medida em que a autora, que confiara, legitimamente, estar em local reservado para realização de exame ginecológico e se viu exposta, indevidamente, ao olhar de terceiro estranho ao ato médico, o que gera evidente constrangimento e angústia, os quais em muito desbordam do mero dissabor.
+Logo, como bem destacado na sentença, resta evidente a ocorrência de falha, ainda que culposa, na prestação dos serviços por parte da clínica requerida.
+Assim, como a relação discutida nos autos é de consumo, pois de um lado está uma prestadora de serviço e de outro a paciente, consumidora dos serviços daquela, a responsabilidade da requerida é objetiva, os termos do art. 14 do Código de Defesa do Consumidor.
+ ..
+Restado comprovado o fato danoso e presentes os pressupostos legais que ensejam a responsabilidade civil - a conduta humana (ação ou omissão), o nexo de causalidade, o dano e a culpa - constata-se o dever das requeridas de indenizarem o dano moral suportado pela autora, decorrente da violação a um direito da personalidade, qual seja, sua intimidade.
+Ou seja, caracteriza-se, no caso, repita-se, dano moral in re ipsa, uma vez que a própria situação faz presumir a angústia, o constrangimento e abalo psicológico sofridos pela autora.
+No caso, como dito, os danos morais sofridos independem de prova do prejuízo, pois decorrem do próprio evento, no qual a integridade psicológica da autora restou atingida.
+ ..
+Portanto, não há falar que estão ausentes os pressupostos para incidir a responsabilização civil de indenizar o dano moral suportado." (g.n.)
+Desse modo, consoante consta da decisão agravada, verifica-se que rever esse entendimento da Corte local e acolher a pretensão recursal de falta de comprovação de falha no serviço prestado, inexistindo os requisitos ensejadores da responsabilidade civil da parte ora agravante demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento de matéria fática, o que é vedado na via especial, ante o óbice da Súmula 7 do STJ, impedido o conhecimento do recurso.
+A propósito, "Rever a conclusão do Tribunal local para acolher a alegação de que não houve falha na prestação do serviço demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ." (AgInt no AREsp 1895220/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+No mesmo sentido, "o Tribunal de origem concluiu que estavam presentes os requisitos para a responsabilização civil da agravante, pois houve falha na prestação do serviço, o que causou danos morais indenizáveis ao agravado. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial." (AgInt no AREsp 1662107/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020).
+3. No tange ao pedido da parte agravada de aplicação de multa do art. 1.021, §4º, do CPC e multa por litigância de má-fé, não se vislumbra cabimento. Isso porque a parte agravante interpôs recursos legalmente previstos no ordenamento jurídico, e sem abusar do direito de recorrer; pelo que não se verifica afronta ou descaso com o Poder Judiciário.
+Confira:
+___________
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. DEPÓSITO JUDICIAL DO VALOR ATUALIZADO DA CONDENAÇÃO. NÃO INCIDÊNCIA DE JUROS DE MORA SOBRE A QUANTIA COLOCADA À DISPOSIÇÃO DO JUÍZO. DEPÓSITO QUE SERÁ ATUALIZADO, PELO BANCO DEPOSITÁRIO, DE ACORDO COM OS ÍNDICES DE POUPANÇA. PRECEDENTES. 2. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 3. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 4. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. Conforme entendimento desta Corte a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+ ..
+4. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1687672/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020)(g.n.)
+___________
+EMBARGOS DE DECLARAÇÃO. OMISSÃO VERIFICADA. VÍCIO SANADO. MULTA DO ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+INAPLICABILIDADE.
+1. Verificada a existência de omissão quanto ao pedido de aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, deve ser corrigido o vício.
+2. Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei, nos termos do artigo 1.021, § 4º, do CPC.
+3. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no AgInt no REsp 1792064/RO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/02/2020, DJe 03/03/2020)(g.n.)
+___________
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. PRETENSÃO DE APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC, À PARTE EMBARGADA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. A aplicação da multa por litigância de má-fé, bem como daquela prevista no § 4º do art. 1.021 do Código de Processo Civil não é decorrência lógica e automática do não provimento do agravo interno em votação unânime, sendo necessário que se evidencie que sua interposição se deu de forma abusiva ou protelatória, o que não é o caso do recurso interposto pela parte embargada, cuja atuação se limitou ao exercício do direito de defesa. Precedentes.
+ ..
+3. Embargos de declaração acolhidos, em parte, para determinar a majoração dos honorários advocatícios fixados na origem em 5% do valor arbitrado, nos termos do § 11 do art. 85 do referido diploma legal, com a observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo.
+(EDcl no AgInt no RE no AgInt no AREsp 1620744/RS, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 09/02/2021, DJe 17/02/2021)(g.n.)
+___________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. JULGAMENTO ANTECIPADO DA LIDE. PRODUÇÃO DE PROVAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTEXTO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ. MULTA. ARTS. 81 E 1.021 DO CPC/2015. INAPLICABILIDADE.
+ ..
+6. A aplicação das multas por litigância de má-fé ou por interposição de recurso manifestamente inadmissível não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer.
+7. Agravo interno não provido.
+(AgInt no AREsp 1163437/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)(g.n.)
+___________
+4. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
