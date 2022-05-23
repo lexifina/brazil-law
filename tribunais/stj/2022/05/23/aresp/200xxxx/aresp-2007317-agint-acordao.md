@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Funerária Pax Eireli contra decisão desta relatoria assim ementada (e-STJ, fl. 415):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. 1. PARTE LEGÍTIMA PARA RECEBER O VALOR DA LOCAÇÃO. NÃO ARGUIÇÃO DA AUSÊNCIA DA CITAÇÃO NO MOMENTO OPORTUNO. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais, a agravante alega a inaplicabilidade das Súmulas n. 7 e 211 do STJ.
+Pontua quea simples interposição dos embargos de declaração já seria o bastante para infirmar o prequestionamento, não importando se supriu-se ou não a omissão.
+Assevera que a análise da matéria prescinde de verificação das provas trazidas aos autos, assim como não se trata de cláusula contratual.Trata-se, na verdade de decidir sobre a quem cabe determinar a citação das partes, bem como delimitar a tarefa do juiz perante a condução material do processo, partindo do pressuposto que poderes lhe foram outorgados com o objetivo de concretizar o dever de prestar, em tempo razoável, a solução efetiva da lide, não se esquecendo de tratar as partes de forma igualitária. (e-STJ, fl. 424).
+Pleiteia a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação às fls. 429-433 (e-STJ) com pedido de aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO.1. PARTE LEGÍTIMA PARA RECEBER O VALOR DA LOCAÇÃO. NÃO ARGUIÇÃO DA AUSÊNCIA DA CITAÇÃO NO MOMENTO OPORTUNO. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. 3. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 4. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual concluiu pela ausência de citação no momento oportuno e analisou qual parte estava legitimada a receber os aluguéis.Reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+2.O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da decisão agravada.
+O Tribunal estadual, ao dirimir a controvérsia, deixou assente que (e-STJ, fls. 267-274):
+No mérito da ação, a controvérsia reside em dois pontos: a existência, ou não, de dúvida acerca de quem deve receber o valor pela locação do imóvel ou a recusa no recebimento dos aluguéis. A reconvenção, por sua vez, se baseia no alegado inadimplemento das consignações e o consequente despejo da parte requerente.
+Ab initio, cumpre destacar que a AÇÃO CONSIGNATÓRIA é cabível quando o devedor não consegue adimplir a obrigação de pagar em virtude de resistência do credor ou por óbice constituído por circunstâncias alheias à sua vontade.
+No caso dos autos, a alienação do imóvel ocorreu em 17 de outubro de 2019. Em 07 de novembro, ou seja, vinte dias depois, prolatou-se a decisão que determinou a manutenção da posse em favor do primeiro requerido (DIVINO PINTO CARDOSO).
+Neste liame, não se pode confundir os institutos da posse e propriedade. Desta forma, ainda que não seja o proprietário do bem, aquele que detém ouso e gozo da coisa é legitimado a locar, que, neste caso, significa a transferência da posse direta por meio de contraprestação pecuniária.
+É infundada a dúvida da parte requerente sobre a quem se deve pagar, pois os adquirentes do imóvel sequer manifestaram a concordância ou discordância na manutenção da locação, notificando-a para a desocupação do imóvel (artigo 8º da Lei nº 8.245/1991). Diante deste cenário, a posse se consolidou em favor do requerido (DIVINO PINTO CARDOSO), ainda que deforma provisória, cabendo a ele receber os valores dos aluguéis.
+SENDO ASSIM, COMO NÃO HOUVE RECUSA AO RECEBIMENTO DA DÍVIDA, A IMPROCEDÊNCIA DO PLEITO CONSIGNATÓRIO É MEDIDA QUE SE IMPÕE.
+(..)
+no tocante a alegação de ausência de citação dos demais autores na reconvenção, O EXAME DA MATÉRIA ESBARRA NO ÓBICE DA PRECLUSÃO, NA FORMA DO ARTIGO 278 DO CPC, UMA VEZ QUE NÃO FOI ARGUIDA EM SEDE DE RÉPLICA (EV. 20) OU EM SANEAMENTO PARTICIPATIVO (EV. 25), OPORTUNIDADES EM QUE OS DEMANDANTES OMITIRAM TAL NULIDADE.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto a não arguição da ausência da citação no momento oportuno e a parte legitimada a receber os aluguéis,demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+No tocante ao art. 357 do CPC/2015, verifica-se que o conteúdo normativo do citado dispositivo não foi objeto de apreciação pelo Tribunala quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula n. 211 do STJ.
+Cumpre destacar que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre oreferidoartigo.
+Ressalta-se, ainda, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Ademais, sua ocorrência se dá quandoa causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificadana presente hipótese.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea c do art.
+105, III, da CF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1570272/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020).
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. MANUTENÇÃO DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO DO CRÉDITO. DANO MORAL NÃO CARACTERIZADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. VIOLAÇÃO DE LEI FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CONFIGURAÇÃO DE DANOS MORAIS EM PROCESSO JUDICIAL DIVERSO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por vício de contradição sem deduzir de que modo o acórdão recorrido teria incorrido em aludida deficiência ou demonstrar impacto no deslinde da causa. Súmula 284/STF.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm.211/STJ).
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. O reexame de fatos e provas sobre o preenchimento dos requisitos para responsabilidade civil por danos morais decorrente da inclusão indevida da inscrição em cadastros de inadimplência, em evento considerado apto a gerar o dever sucessivo de reparar, demandaria o revolvimento das premissas fático-probatórias estabelecidas nas instâncias ordinárias, remetendo até mesmo a processo judicial distinto, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7/STJ. Dissídio jurisprudencial prejudicado.
+5. Agravo interno não provido.
+(AgInt no REsp 1817645/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020).
+Outrossim, não se pode falar em prequestionamento implícito (ou ficto). Isso porque, nos termos do art. 1.025 do CPC/2015 (em razão de ter a insurgente suscitado anteriormente os artigos tidos por vulnerados, ter oposto os embargos de declaração na origem e trazer esses fundamentos no recurso especial, com alegação de violação ao art. 1.022 do CPC/2015), essa possibilidade necessita do reconhecimento, pelo STJ, de ter havido erro, omissão, contradição ou obscuridade no acórdão impugnado, o que não ocorreu no presente caso. Assim, inviável o reconhecimento do prequestionamento ficto.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.728.999/SP. Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 3/9/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa do art. 1.026, § 2º, do CPC/2015.
+É como voto.
