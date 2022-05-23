@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/05/2022 a 23/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática pela qual se conheceu do Agravo para conhecer parcialmente do Recurso Especial, apenas em relação ao art. 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+A parte agravante sustenta:
+Em outras palavras, o resultado da avaliação modifica a situação funcional dos docentes, que passa de um padrão ou classe para outra subsequente. É inquestionável, portanto, que a eficácia da avaliação não é meramente declaratória, e sim constitutiva, produzindo efeitos somente com o término da avaliação.
+Além disso, o efeito retroativo viola o próprio artigo 13-A da Lei 12772 que determina expressamente que, para a obtenção da promoção, faz-se necessário o preenchimento de todos os requisitos, dentre os quais a realização de Avaliação de Desempenho e Defesa de Memorial, as quais nos termos legais serão "realizadas no âmbito de cada instituição federal de ensino por banca examinadora constituída especialmente para este fim".
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 538-549, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. DIREITO SUBJETIVO A PROMOÇÃO/PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS A PARTIR DA DATA EM QUE PREENCHIDOS TODOS OS REQUISITOS LEGAIS ATÉ A DATA EM QUE O SERVIDOR FOI DEVIDAMENTE PROMOVIDO PELA ADMINISTRAÇÃO PÚBLICA.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "A discussão posta nestes autos diz respeito à análise de pedido de declaração do direito da parte autora a ter consideradas as datas das efetivas implementações dos requisitos das progressões como sendo as datas de início do direito aos efeitos funcionais e financeiros. (..) No mérito, embora o direito às progressões funcionais tenha sido reconhecido administrativamente, a UFSC o fez sem efeitos financeiros pretéritos. Não obstante os argumentos da UFSC, entendo que os efeitos financeiros devem retroagir à data da aquisição do direito, pois, ainda que se reconheça às universidades a autonomia didático-científica, administrativa e de gestão financeira e patrimonial (artigo 207 da Constituição Federal), tal não pode vir a limitar direitos reconhecidos pela própria Administração. (..) O direito nasce na data em que implementados os requisitos para a progressão e promoção, ainda que o requerimento administrativo seja posterior. Portanto, a progressão e a promoção funcionais, bem como os respectivos efeitos financeiros, devem retroagir à data em que implementados os pressupostos necessários."
+2. Com efeito, a posição firmada no aresto combatido não destoa da jurisprudência dominante do STJ no sentido de que os efeitos financeiros do direito subjetivo à promoção/progressão funcional devem vigorar a partir da data em que preenchidos todos os requisitos legais até a data em que o servidor foi devidamente promovido pela Administração Pública.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 29.4.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, no enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos:
+A discussão posta nestes autos diz respeito à análise de pedido de declaração do direito da parte autora a ter consideradas as datas das efetivas implementações dos requisitos das progressões como sendo as datas de início do direito aos efeitos funcionais e financeiros.
+(..)
+Dessa forma, reconhecido o direito do autor pelas portarias números 599, 771 e 213 antes mencionadas, caracterizada a renúncia à prescrição. Assim, ajuizada a presente ação em 26/06/2017, não há que se falar em prescrição.
+(..)
+No mérito, embora o direito às progressões funcionais tenha sido reconhecido administrativamente, a UFSC o fez sem efeitos financeiros pretéritos.
+Não obstante os argumentos da UFSC, entendo que os efeitos financeiros devem retroagir à data da aquisição do direito, pois, ainda que se reconheça às universidades a autonomia didático-científica, administrativa e de gestão financeira e patrimonial ( artigo 207 da Constituição Federal), tal não pode vir a limitar direitos reconhecidos pela própria Administração.
+(..)
+O direito nasce na data em que implementados os requisitos para a progressão e promoção, ainda que o requerimento administrativo seja posterior. Portanto, a progressão e a promoção funcionais, bem como os respectivos efeitos financeiros, devem retroagir à data em que implementados os pressupostos necessários.
+Com efeito, a posição firmada no aresto combatido não destoa da jurisprudência dominante do STJ no sentido de que os efeitos financeiros do direito subjetivo à promoção/progressão funcional devem vigorar a partir da data em que preenchidos todos os requisitos legais até a data em que o servidor foi devidamente promovido pela Administração Pública. A propósito:
+ADMINISTRATIVO. DIREITO SUBJETIVO A PROMOÇÃO/PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS A PARTIR DA DATA EM QUE PREENCHIDOS TODOS OS REQUISITOS LEGAIS ATÉ A DATA EM QUE O SERVIDOR FOI DEVIDAMENTE PROMOVIDO PELA ADMINISTRAÇÃO PÚBLICA.
+1. Conforme já disposto no decisum combatido, no enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "No tocante ao mérito da lide propriamente dito, (1) o direito subjetivo à progressão funcional surge com a implementação dos requisitos legais, pelo que os respectivos efeitos financeiros devem retroagir a essa data, sob pena ofensa ao direito adquirido do servidor (art. 5º, inciso XXXVI, da Constituição Federal); (2) a homologação de sua avaliação é ato puramente declaratório, que confirma direito preexistente; (3) os efeitos financeiros da progressão ou promoção funcional estão atrelados ao cumprimento dos requisitos legais pelo servidor, independentemente da data de sua verificação pela Administração ou publicação da respectiva portaria, e (4) essa data pode coincidir ou não com a da formulação do pedido administrativo."
+2. Com efeito, a posição firmada no aresto combatido não destoa da jurisprudência dominante do STJ no sentido de que os efeitos financeiros do direito subjetivo à promoção/progressão funcional devem vigorar a partir da data em que preenchidos todos os requisitos legais até a data em que o servidor foi devidamente promovido pela Administração Pública.
+3. Agravo Interno não provido. (AgInt no REsp 1.903.985/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6.4.2021)
+No mesmo sentido, recentes decisões monocráticas: REsp 1.988.447/PE, Rel. Min. Manoel Erhardt, DJe 18.4.2022; REsp 1.975.859/CE, Rel. Min. Manoel Erhardt, DJe 15.12.2021; REsp 1.972.374/SE, Rel. Min. Assusete Magalhães, DJe 13.12.2021.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
