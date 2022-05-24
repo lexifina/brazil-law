@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ALQUIDÊMIA SILVA BARNABÉ em face de decisão que negou seguimento a recurso especialinterposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. PLANO DE ASSISTÊNCIA À SAÚDE COLETIVO POR ADESÃO. RESOLUÇÃO 195 ANS.FALECIMENTO DA TITULAR. PEDIDO DE PERMANÊNCIA DO DEPENDENTE NO MESMO PLANO E ADEQUAÇÃO DO VALOR DA MENSALIDADE COM EXCLUSÃO DA TITULAR FALECIDA. Sentença de parcial procedência que merece reforma. Autora que demonstra ser usuária dos serviços de plano de saúde oferecidos pela operadora Ré, na qualidade de dependente da beneficiária titular, sua genitora, já aposentada, vinculada ao contrato celebrado entre a operadora e o SINTEC - Sindicato dos Trabalhadores de Enfermagem de Campos.
+Beneficiária titular que faleceu em 10/03/2018. Negativa do plano em desmembrar o contrato, com a exclusão da titular falecida e a transferência da titularidade em favor da dependente. Aplicação do § 3º º do artigo 30 da Lei 9.656/98 que não se verifica por se tratar de contrato coletivo por adesão e não coletivo empresarial, que decorre do vínculo empregatício. Possibilidade de rescisão. Inteligência do art. 18, parágrafo único, inciso II da Resolução Normativa nº 195/2009 da ANS. Contudo, deve ser dada à Consumidora, vinculada ao plano há mais de 18 anos, a oportunidade de migrar para plano individual ou familiar nas mesmas condições e sem imposição de carência, com a respectiva adequação dos preços das mensalidades, porquanto não há previsão legal impondo às operadoras a manutenção do preço dos planos coletivos nos planos individuais/familiares, salientando que cada modalidade considera riscos diferentes para a fixação dos valores de suas mensalidades. Danos morais não configurados, uma vez que não pratica do qualquer ato ilícito. RECURSO PARCIALMENTE PROVIDO. (fl. 269)
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões, a parte recorrente alegou violação aos arts.1.022, incisos I e II, e parágrafo único, inciso II, e 489, §1º, inciso IV, do Código de Processo Civil, 13, inciso II, 30, § 3º, e 31, da Lei nº 9.656/1998, e 6º, inciso VI, e 14 do Código de Defesa do Consumidor, bem como divergência jurisprudencial, sob os argumentos de: (a) negativa de prestação jurisdicional; e (b) cabimento da manutenção no plano coletivo por adesão após falecimento da titular.
+Contrarrazões às fls. 362/9.
+O recurso especial foi inadmitido com base no óbice da Súmula 7/STJ, tendo havido interposição de agravo.
+É o relatório.
+Passo a decidir o agravo.
+Atendidos os pressupostos de conhecimento do agravo, especialmente a dialeticidade recursal,converto-o em recurso especial, para melhor apreciação da controvérsia acerca do exercício do direito de manutenção em plano coletivo por adesão.
+Ante o exposto, com base no art. 253, inciso I, alínea "d", do RISTJ, CONHEÇO do agravo para determinar a sua REAUTUAÇÃO comorecursoespecial, para melhor apreciação da controvérsia.
+Advirta-se para o disposto nos arts. 1.021, § 4º, e 1.026, § 2º, doCPC/2015.
+Intimem-se.
