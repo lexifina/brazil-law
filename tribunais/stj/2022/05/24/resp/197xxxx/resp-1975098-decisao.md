@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recursoespecial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/PR, assim ementado (fl. 181):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE DO ENTE ESTATAL. APLICAÇÃO DO ART. 37, §6º DA CF, RESPONSABILIDADE OBJETIVA QUE PODE DECORRER DE OMISSÃO, NO CASO EM QUE O ENTE, NO DEVER DE GARANTE, DEIXA DE PRATICAR CON DUTA PASSÍVEL DE EVITAR PREJUÍZO SOFRIDO POR PARTICULAR. SERVIÇO PARTICULAR DE FOTOGRAFIA PRESTADO DENTRO DAS DEPENDÊNCIAS DE ESCOLA MUNICIPAL, SEM A DEVIDA FISCALIZAÇÃO. MODIFICAÇÃO NA IMAGEM DE ALUNO PORTADOR DE DEFICIÊNCIA VISUAL, SEM CONSENTIMENTO DESTE OU DE SUA GENITORA, QUE OCASIONOU TRANSTORNOS AOS AUTORES. DANO MORAL CONFIGURADO. SENTENÇA QUE FIXOU O QUANTUM INDENIZATORIO EM VALOR SUPERIOR AO REQUERIDO NA INICIAL. DECISÃO ULTRA PETITA. ART. 460 DO CPC. REFORMA QUANTO AO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS.
+Recurso parcialmente provido.
+Embargos de declaração rejeitados.
+Após exercido o juízo de conformidade, foi proferida decisão contendo a seguinte ementa (fl. 318):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA DE DANOS MORAIS. JUÍZO DE RETRATAÇÃO POSITIVO. CONSECTÁRIOS LEGAIS. DANO MORAL. INCIDÊNCIA DE JUROS DE MORA DE 1% AO MÊS ATÉ O ADVENTO DA LEI Nº 11.960/09. APÓS, JUROS DE MORA NOS TERMOS DO ART. 1º-F DALEI Nº 9.494/97. CORREÇÃO MONETÁRIA PELO IPCA-E. RESP Nº 1.205.946/SP, RESP Nº 1.492.221/PR, RESP Nº 1.495.146/MG E RESP Nº1.495.144/RS. TEMAS 491, 492 E 905 DO STJ. RE 870.947/SE. TEMA 810 DO STF. AUSÊNCIA DE MODULAÇÃO DOS EFEITOS PELOS TRIBUNAIS SUPERIORES. ACÓRDÃO ALTERADO EM CONSONÂNCIA COM OS PRECEDENTES.
+O recorrente sustenta ofensa ao artigo 5º da Lei n. 11.960/2009, que deu nova redação ao artigo 1º-F da Lei n. 9494/1997e dissídio jurisprudencial, sob os seguintes argumentos: (a) o acórdão proferido pela Corte de origem contraria a disposição contida na nova redação do artigo 1º-F da Lei n. 9494/1997, que determinou a aplicação dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança; (b) a decisão objurgada está em dissonância com o julgado por esta Corte no Eresp n. 1.207.197/RS, no qual restou firmado que os juros de mora são consectários legais da condenação principal e possuem natureza eminentemente processual, com aplicação imediata aos processos em curso; (c) contrariedade ao Resp n. 1.205.946 julgado no rito dos repetitivos, de forma que o julgado deve ser reformado para aplicação do artigo 1º-F da Lei n. 9.494/1997 com as alterações introduzidas pelo artigo 5º da Lei n. 11.960/2009.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 384-386.
+Parecer do MP pelo provimento do recurso (fls. 223-227).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+O Tribunal a quo, em juízo de conformidade, aplicou o entendimento adotado no julgamento do Recurso Especial Repetitivo n. 1.205.946, nos seguintes termos(fls.327-328):
+Por conseguinte, com fulcro no art. 1.040, II do CPC, exerço o juízo de retratação, para o fim de modificar o acórdão a fim de determinar, de ofício, quanto aos juros de mora, a aplicação da Lei n.º11.960/09 a partir da sua entrada em vigor e a incidência do Índice de Preços ao Consumidor Amplo Especial (IPCA-E) a título decorreção monetária a partir da vigência da Lei 11.960/09.
+Portanto, verifica-se a ausência de interesse processual, haja vista que, em sede de juízo de conformidade, foi concedido o pleito contido no presente recurso especial.
+Ademais, consta na fl. 395 petiçãoda parte contrária, a qual manifestouconcordância com os índices pleiteados no recurso especial, referindo a desnecessidade de seguimento do presente recurso.
+Ante o exposto, diante da ausênciade interesse processual, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.AÇÃO INDENIZATÓRIA DE DANOS MORAIS. CONSECTÁRIOS LEGAIS. JUÍZO DE RETRATAÇÃO POSITIVO. TESE FIRMADA NO REPETITIVO RESP N. 1.205.946/SP. AUSENTE INTERESSE PROCESSUAL.RECURSOESPECIAL NÃO CONHECIDO.
