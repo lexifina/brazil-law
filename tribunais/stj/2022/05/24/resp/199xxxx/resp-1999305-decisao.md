@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SELMA NASCIMENTO DA SILVA e LETÍCIA NASCIMENTO DE ARAÚJO com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 345):
+DESPESAS CONDOMINIAIS Embargos à execução rejeitados- Legitimidade passiva das embargantes configurada Compromisso de compra e venda não averbado no Registro Imobiliário - Natureza "propter rem" da obrigação Responsabilidade concorrente do promitente vendedor e promitente comprador pelos débitos condominiais - Obrigação exigível perante a proprietária, ressalvado o direito de regresso - Entendimento atual do STJ Redução da verba honorária pretendida, prevalecendo o arbitramento efetuado nos autos da execução, sem prejuízo da fixação sucumbencial nos embargos Recurso provido, em parte.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 372-382).
+Em suas razões recursais (e-STJ, fls. 384-407), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) art. 5º, incisos XXXV, LIV e LV da Constituição Federal;
+b) arts. 485, incisos IV, VI e X do CPC/15 e 1045 do Código Civil, defendendo sua ilegitimidade passiva para responder pelos débitos condominiais, porquanto restou demonstrada a anuência do adquirente acerca de todas as dívidas e obrigações condominiais do imóvel em questão.
+Aponta, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Admitido o processamento do recurso na origem, consoante decisão de fls. 484-486 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Inicialmente, no tocante à alegada violação ao art. 5º, incisos XXXV, LIV e LV, da Constituição Federal, esta Corte tem entendimento firmado no sentido de que a via especial é inadequada para análise de arguição de contrariedade a texto constitucional, sob pena de usurpação da competência atribuída ao STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE. (..) 2. Nos termos do artigo 102 da Constituição Federal, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais. Desse modo, sob pena de usurpação, não pode o Superior Tribunal de Justiça analisar alegadas violações a dispositivos constitucionais. Precedentes. (..) 6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp 899.863/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC/2015. (..) 2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. (..) 4. Agravo interno não provido. (AgInt no AREsp 1206969/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+2. Quanto à alegada ofensa aos arts. 485, incisos IV, VI e X do CPC/15 e 1045 do Código Civil, as recorrentes defendem sua ilegitimidade passiva para responder pelos débitos condominiais, porquanto restou demonstrada a anuência do adquirente acerca de todas as dívidas e obrigações condominiais do imóvel em questão.
+Sobre o tema, o Tribunal de origem consignou que aresponsabilidade pelos débitos condominiais é concorrente entre o promitente vendedor e o promitente comprador, assim, a obrigação pode ser exigida perante as recorrentes (e-STJ, fl. 346-348):
+Sobre o tema da ilegitimidade passiva, anota-se, desde logo, que o Superior Tribunal de Justiça proferiu decisão, em recurso especial representativo de controvérsia (REsp nº 1.345.331/RS), definindo as seguintes diretrizes para a apuração da legitimidade do promitente vendedor e do promitente comprador para responder pela dívida condominial:
+(..)
+Contudo, a tese firmada no repetitivo foi interpretada no julgamento do REsp nº 1.442.840/PR, de acordo com as circunstâncias de cada caso, destacando o caráter "propter rem" da obrigação condominial e enfatizando a distinção entre o débito e responsabilidade, à luz da teoria da dualidade do vínculo obrigacional, assim ementado:
+(..)
+Assim, pela teoria da dualidade do vínculo obrigacional, as despesas condominiais devem ser imputadas a quem se beneficia dos serviços prestados pelo condomínio, no caso, a promitente compradora. Por outro lado, a promitente vendedora não se exonera da obrigação, enquanto mantiver a situação jurídica de proprietária do imóvel no registro competente.
+Denota-se que o entendimento adotado pelo Tribunal de origem encontra-se em harmonia com a jurisprudência do STJ sobre o tema.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COBRANÇA DE DESPESAS CONDOMINIAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. COMPROMISSO DE COMPRA E VENDA. PROMITENTE-VENDEDOR. RESPONSABILIDADE. LEGITIMIDADE PASSIVA CONCORRENTE. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A eg. Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.345.331/RS, processado sob a sistemática dos recursos repetitivos, firmou o seguinte entendimento: "a) O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação. b) Havendo compromisso de compra e venda não levado a registro, a responsabilidade pelas despesas de condomínio pode recair tanto sobre o promitente vendedor quanto sobre o promissário comprador, dependendo das circunstâncias de cada caso concreto. c) Se ficar comprovado: (i) que o promissário comprador se imitira na posse; e (ii) o condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador." No caso concreto, recurso especial não provido." (REsp 1.345.331/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 08/04/2015, DJe de 20/04/2015).
+2. Interpretando as teses firmadas no REsp 1.345.331/RS, julgado pelo rito do art. 543-C do CPC, a jurisprudência desta Corte consolidou o entendimento de que persiste a responsabilidade do proprietário (promitente-vendedor) pelo pagamento das despesas condominiais, ainda que posteriores à imissão do promitente-comprador na posse do imóvel, havendo, nesses casos, "legitimidade passiva concorrente do promitente vendedor e do promitente comprador para a ação de cobrança de débitos condominiais posteriores à imissão na posse" (AgRg no REsp 1.472.767/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 08/10/2015).
+3. Agravo interno não provido.
+(AgInt no REsp 1378413/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE CONDOMÍNIO. LEGITIMIDADE. INOVAÇÃO INCABÍVEL. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte evoluiu no sentido de que, uma vez demonstrado que o promissário comprador imitiu-se na posse do bem e sendo comprovado que o condomínio teve ciência inequívoca da transação, há legitimidade passiva concorrente de ambos os contratantes para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1219742/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/08/2017, DJe 22/08/2017)
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DÉBITOS CONDOMINIAIS. LEGITIMIDADE PASSIVA DO PROMITENTE VENDEDOR. CARÁTER "PROPTER REM" DA OBRIGAÇÃO. PRECEDENTE DA TERCEIRA TURMA. INTERPRETAÇÃO DO RESP 1.345.331/RS, JULGADO PELO ART. 543-C DO CPC/1973.
+1. Controvérsia acerca da responsabilidade do promitente vendedor (proprietário) pelo pagamento de despesas condominiais geradas após a imissão do promitente comprador na posse do imóvel.
+2. Responsabilidade do proprietário (promitente vendedor) pelo pagamento das despesas condominiais, ainda que posteriores à imissão do promitente comprador na posse do imóvel.
+3. Imputação ao promitente comprador dos débitos gerados após a sua imissão na posse.
+4. Legitimidade passiva concorrente do promitente vendedor e do promitente comprador para a ação de cobrança de débitos condominiais posteriores à imissão na posse.
+5. Preservação da garantia do condomínio.
+6. Interpretação das teses firmadas no REsp 1.345.331/RS, julgado pelo rito do art. 543-C do CPC.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1380086/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/09/2016, DJe 12/09/2016)
+Dessa forma, verifica-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
