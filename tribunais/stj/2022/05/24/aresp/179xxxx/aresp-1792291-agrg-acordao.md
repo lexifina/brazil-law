@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+RELATÓRIO
+Trata-se de agravo regimental interposto porMateus Barbosa dos Santoscontra a decisão monocrática da Presidência desta Corte, que não conheceu do agravo em recurso especial, ante a manifesta intempestividade daquele reclamo e do próprio recursoespecialque se objetivava destrancar.Eis o fundamento da decisão agravada (fls. 296/297):
+ ..
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MATEUS BARBOSA DOS SANTOS, o Núcleo de Prática Jurídica foi intimado do acórdão recorrido em 07/05/2020, sendo o recurso especial somente interposto em 28/05/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts.1.003, § 5º, 1.029, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ainda, o Núcleo de Prática Jurídica foi intimado da decisão agravada em 03/08/2020, sendo o agravo somente interposto em 27/08/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts.1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+É firme a jurisprudência no sentido de que não se aplica o prazo em dobro aos núcleos de prática jurídica pertencentes a universidades particulares (AgRg no AREsp 1563610/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma,Dje de 10/08/2020).
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Nas razões do agravo regimental, a defesa sustentou a tempestividade do agravo e dorecurso especial, aduzindo que faz jus ao prazo em dobro, fato esse, inclusive, reconhecido na Corte de origem.
+Pugnou, assim, pela reforma da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimentodo recurso, nos termos do parecer assim ementado (fl. 323):
+AGRAVO REGIMENTAL. CRIME DE FURTO QUALIFICADO. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CF/88 NÃO ADMITIDO NA ORIGEM. ARESP. INTEMPESTIVIDADE.REQUISITO EXTRÍNSECO NÃO OBSERVADO.PRERROGATIVA DA CONTAGEM DOS PRAZOS EM DOBRO QUE NÃO SE APLICA A NÚCLEO DE PRÁTICA JURÍDICA VINCULADO A UNIVERSIDADE PRIVADA.PRECEDENTE DO STJ. PA RECER PELODESPROVIMENTO DO AGRAVO REGIMENTAL.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO EM DOBRO. IMPROCEDÊNCIA. NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. INAPLICABILIDADE. PRECEDENTES DESTA CORTE. FUNDAMENTO SUBSIDIÁRIO. FURTO QUALIFICADO. PLEITO DE EXCLUSÃO DA QUALFICIADORA REFERENTE AO CONCURSO DE AGENTES. INADMISSIBILIDADE. SÚMULA 7/STJ.SUPOSTA ILEGALIDADE NA INCIDÊNCIA QUALIFICADORA (ROMPIMENTO DE OBSTÁCULO). IMPROCEDÊNCIA.AUSÊNCIA DE PERÍCIA DEVIDAMENTE JUSTIFICADA. ROMPIMENTO DE OBSTÁCULO CONFIRMADO POR OUTROS MEIOS DE PROVAS. POSSIBILIDADE. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+Para valer-se da prerrogativa da contagem de prazos em dobro, deve o advogadointegraroquadrodaassistência judiciária organizadoemantido pelo Estado,não se aplicandotal benesse aos defensoresdativos,aos núcleos de prática jurídica pertencentes às universidades particularese,ainda,aos institutos de direito de defesa(AREsp n. 398.352/SP, Ministro Jorge Mussi, Quinta Turma, DJe 24/8/2018).
+No mesmo sentido, confiram-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO EM DOBRO PARA RECORRER. PRERROGATIVA DA DEFENSORIA PÚBLICA. NÚCLEO DE PRÁTICA JURÍDICA. INVIABILIDADE. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. EXAME DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou devidamente explicitado que não se aplica o prazo em dobro, garantido às defensorias públicas, aos núcleos de prática jurídica pertencentes a universidades particulares, nos termos da pacífica orientação deste Superior Tribunal.
+4. É inviável que esta Corte examine supostas violações de dispositivos constitucionais, nem sequer para fins de prequestionamento, por ser matéria reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 1.976.756/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/4/2022 - grifo nosso)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS. PRAZO EM DOBRO. NÚCLEO DE PRÁTICA JURÍDICA DE UNIVERSIDADE PARTICULAR. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. O prazo para interposição do agravo em recurso especial é de 15 (quinze) dias corridos, contados a partir da intimação da decisão recorrida, no caso do Núcleo de Prática Jurídica mantidos por unidades particulares.
+2.Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, " p ara valer-se da prerrogativa da contagem de prazos em dobro, deve,o advogado, integrar o quadro da assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benesse aos defensores dativos, aos núcleos de prática jurídica pertencentes às universidades particulares e ainda, aos institutos de direito de defesa" (AgRg no AREsp n. 1.328.889/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/3/2019).
+3. No caso, o Núcleo de Prática Jurídica foi intimado da decisão de admissibilidade do recurso especial em 8/5/2020, de modo que o início do prazo se deu em 11/5/2020 e seu término em 25/5/2020.
+Entretanto, o agravo em recurso especial somente foi interposto em 3/6/2020, considerado, portanto, intempestivo.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.797.455/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/5/2021 - grifo nosso)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO INTEMPESTIVO. PRAZO DE 5 DIAS. NÃO OBSERVÂNCIA. ART 39 DA LEI N.8.038/1990, ART. 258 DO RISTJ E ART. 798 DO CPP. DEFENSOR DATIVO.PRAZO SIMPLES PARA RECORRER. CONVÊNIO ENTRE A OAB E A DEFENSORIA PÚBLICA. IRRELEVANTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP. 2. Na espécie, a decisão monocrática agravada foi disponibilizada no Diário de Justiça eletrônico em 31/5/2019 (sexta-feira), considerando-se publicada em 3/6/2019 (segunda-feira), conforme certidão de e-STJ fl. 458. O defensor dativo, por sua vez, foi intimado em 6/6/2019 (quinta-feira), consoante aviso de recebimento acostado às e-STJ fls. 464/465, de modo que o prazo para interposição do agravo se iniciou em 7/6/2019 (sexta-feira) e findou-se em 11/6/2019 (terça-feira). Não obstante, o presente agravo foi interposto apenas em 17/6/2019, sendo, portanto, manifestamente intempestivo.
+3. Ademais, como é cediço,a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o prazo em dobro para recorrer, previsto no art. 5º, § 5º, da Lei n. 1.060/1950, só é devido aos Defensores Públicos e àqueles que fazem parte do serviço estatal de assistência judiciária, não se estendendo a prerrogativa aos defensores dativos, porquanto não integram o quadro do serviço de assistência judiciária gratuita do Estado, sendo irrelevante a existência de convênio previamente celebrado com o órgão público.
+Precedentes: HC n. 27.786/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, Corte Especial, julgado em 23/10/2003, DJe 19/12/2003; AgRg no AREsp n. 1.130.826/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018; AgRg no AREsp n. 1.217.916/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/2/2019, DJe 8/3/2019.
+3. Agravo regimental não conhecido.
+(AgRg no REsp n. 1.808.613/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/8/2019 - grifo nosso)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.COMPROVAÇÃO POSTERIOR DE RECESSO FORENSE. IMPOSSIBILIDADE. NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. PRAZO EM DOBRO INDEVIDO. AGRAVO IMPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c 1.003, § 5º, e 1.042, todos do CPC, e também art. 798 do CPP.
+2. É dever do recorrente, no ato da interposição do recurso, comprovar a tempestividade, conforme o art. 1.003, § 6º, do CPC, inclusive a ocorrência de feriados locais e suspensão do expediente forense, sendo incabível a comprovação posterior.
+3.Para valer-se da prerrogativa da contagem de prazos em dobro, deve, o advogado, integrar o quadro da assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benesse aos defensores dativos, aos núcleos de prática jurídica pertencentes às universidades particulares e ainda, aos institutos de direito de defesa(AREsp 398.352/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 24/8/2018).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.328.889/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2019 - grifo nosso)
+Assim, o agravante não faz jus ao prazo em dobro para interposição do agravo e do recurso especial, razão pela qual deve ser mantida a decisão agravada.
+Destaco, ainda, queesta Corte não fica vinculada ao juízo de admissibilidadeefetivado no Tribunala quo, razão pela qual eventual conclusão da Corte de origem,no sentido da tempestividade do reclamo, em sede de juízo de admissibilidade originário, não impedeesta de concluir de forma diversa, enquanto destinatária do recurso especial.
+Comofundamento subsidiário, destaco que, ainda que o recurso especial e o agravo fossem tidos como tempestivos, a insurgência defensiva não seria acolhida.
+Nas razões do recurso especial, o agravantesuscitou violação dos seguintes dispositivos de lei federal 1) arts.155, § 4º, I, do Código Penale 158 e 171, ambos do Código de Processo Penal, ao argumento de que, em se tratando de delito que deixa vestígio, a não realização de laudo pericial impõe o afastamento da qualificadora de rompimento de obstáculo; e 2) arts.155, § 4º, IV, do Código Penal e 197 do Código de Processo Penal,pugnando o afastamento da qualificadora do concurso de pessoas, antea fragilidade dos depoimentos acerca de o crime ter sido cometido com o auxílio de outra pessoa.
+Quanto ao item 2, o recurso especial encontra óbice na Súmula 7/STJ, pois o acolhimento da tese defensiva de insuficiência probatória para o reconhecimento da qualificadora referente ao concurso de agentes demandaria o reexame das provas coligidas.
+Quanto ao item 1, a insurgência é manifestamente improcedente.
+Colhe-se, da moldura fática delineada no acórdão da apelação, quea perícia se tornou inviável, pois a vítima limpou o local dos fatos antes que a perícia fosse efetivada(fl. 233):
+ ..
+No entanto, embora no presente caso não tenha ocorrido a juntada do laudo pericial atestando o rompimento de obstáculo na residência da vítima, por meio do rompimento dos cadeados que davam acesso a sua residência, tal fato ocorreu em razão de a vítima ter informado aos Policiais da 6ª Delegacia de Polícia que o local dos fatos já tinha sido limpo e arrumado, impedindo a realização da perícia (Memorando nº 1865/2017-IC, ID 13839991).
+Nesse ponto, deve ser destacado que os fatos ocorreram em 30 de setembro de 2016, sendo que a equipe de peritos compareceu ao local dos fatos em 06 de outubro de 2016, conforme informações do memorando, não sendo possível que a vítima esperasse pelo prazo de quase uma semana para arrumar o local dos fatos, providenciando, por exemplo, outro cadeado para sua residência.
+Dessa forma, entendo que a confissão judicial do apelante, no sentido de que o seu comparsa quebrou os cadeados da residência da vítima para entrar no local, em conjunto com as demais provas dos autos, são suficientes para manter a qualificadora prevista no artigo 155, § 4º, inciso I, do Código Penal.
+ ..
+Em casos que tais, a jurisprudência desta Cortetem admitido a suplementação da perícia por outras provas, inclusive confissão judicial:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE PERÍCIA DEVIDAMENTE JUSTIFICADA. ROMPIMENTO DE OBSTÁCULO CONFIRMADO POR MEIO DE OUTROS MEIOS DE PROVAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Por expressa disposição legal, é imprescindível a prova técnica para o reconhecimento do furto qualificado pelo rompimento de obstáculo/arrombamento, sendo possível a substituição do laudo pericial por outros meios de prova apenas quando o delito não deixar vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+2.Na hipótese dos autos, é possível extrair dos excertos acima transcritos que, não obstante o crime em comento tenha deixado vestígios, a prova técnica para a comprovação do alegado rompimento de obstáculo não foi realizada, mas restou devidamente justificada a ausência do laudo pericial ante a necessidade de se providenciar o imediato reparo dos danos causados às janelas do veículo para que o dono pudesse utilizar o veículo sem colocar em risco a segurança de seus bens.(e-STJ fls. 194).
+3.Verificada, na espécie, a inviabilidade material para realização da prova, em razão do desaparecimento dos vestígios, resta configurada a excepcional possibilidade de a prova técnica ser suprida pelos demais elementos de provas carreados aos presentes autos, consistentes em prova testemunhal,depoimento das vítimas, além da atuação criminosa ter sido visualizada por câmeras públicas de monitoramento (vídeo, ID 15565241), o reconhecimento do recorrente pelo policial que fez a prisão e a confissão do acusado.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.900.903/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/2/2021 - grifo nosso)
+ ..
+2. A jurisprudência tem se orientado pela possibilidade de substituição do laudo pericial por outros meios de prova quando o delito não deixa vestígios, estes tenham desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, como no caso dos autos em que foi violada a porta da residência, não sendo razoável a exigência de que a vítima mantenha a cena do crime intacta até o comparecimento da perícia no local, colocando-se em situação de risco. Precedentes.
+ ..
+(AgRg no REsp n. 1.492.641/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/6/2015)
+ ..
+1. Ressalvado o entendimento pessoal do relator, a jurisprudência desta Corte de Justiça é pacífica quanto à necessidade de realização de exame pericial para o reconhecimento da qualificadora do rompimento de obstáculo, prevista no art. 155, § 4º, I, do Código Penal, sendo possível a sua substituição por outros meios probatórios somente quando a infração não deixar vestígio ou se o corpo de delito houver desaparecido, a teor do disposto nos arts. 158 e 167 do Código de Processo Penal.
+2. No caso, o laudo pericial não foi realizado em virtude do desaparecimento do cadeado destruído, o que justifica a consideração dos depoimentos testemunhais como prova para a incidência da referida qualificadora.
+ ..
+(AgRg no AgRg no REsp n. 1.419.093/DF, Ministro Jorge Mussi, Quinta Turma, DJe 26/3/2015)
+ ..
+2. É firme a jurisprudência desta Corte no sentido de que "tratando-se o furto qualificado pelo rompimento de obstáculo de delito que deixa vestígio, é indispensável a realização de perícia para a sua comprovação, a qual somente pode ser suprida por prova testemunhal quando desaparecerem os vestígios de seu cometimento ou estes não puderem ser constatados pelos peritos" (HC 104.672/MG, Relator Ministro Jorge Mussi, DJ de 6.4.09).
+3. Demonstrada a impossibilidade de realização de perícia em razão do desaparecimento dos vestígios, correta a valoração, pelo magistrado, da prova indireta (testemunhal).
+ ..
+(HC n. 266.856/SE, Ministro Og Fernandes, Sexta Turma, DJe 15/4/2014)
+ ..
+1. A Jurisprudência desta Corte consolidou-se no sentido da necessidade de perícia para a caracterização do rompimento de obstáculo, salvo em caso de ausência de vestígios, quando a prova testemunhal poderá suprir-lhe a falta, conforme a exegese dos arts. 158 e 167 do Código de Processo Penal.
+2. Na espécie, a inexistência da perícia restou justificada no fato da vítima ter efetuado o reparo da porta violada, dando causa, assim, ao desaparecimento dos vestígios do arrombamento em sua residência.
+3. Tratando-se, in casu, de causa idônea de desaparecimento de vestígios - inclusive reconhecida na doutrina e em precedente da Sexta Turma -, é o caso de admitir o depoimento da vítima e a confissão do acusado como meios de prova da qualificadora prevista no inciso I do § 4º do art. 155 do Código Penal.
+4. Ordem denegada.
+(HC n. 188.718/DF, de minha relatoria, Sexta Turma, DJe 21/3/2012)
+Não há, pois, falar em ilegalidade na incidência da qualificadora em questão.
+Ante o exposto, nego provimento ao agravo regimental.
