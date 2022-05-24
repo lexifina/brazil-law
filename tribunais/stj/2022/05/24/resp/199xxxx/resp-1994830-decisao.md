@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. PEDIDO DE UTILIZAÇÃO DOS SISTEMAS INFOJUD.
+1. A Turma tem decidido no sentido de que algumas das informações obtidas com o Infojud, todavia, são acessíveis à autarquia exequente sem a necessidade da intervenção do Poder Judiciário, como é o caso da Declaração de Operações Imobiliárias - DOI, nos termos do art. 3º, §2º, I do Decreto 8.789 de 29 de junho de 2016 (questão prevista atualmente no art. 28, I, do Decreto nº 10.046/2019).
+2. No caso concreto, não foi esgotada, por exemplo, a possibilidade de acesso às informações constantes da Declaração de Operações Imobiliárias - DOI, a teor do artigo 3º, § 2º, I do Decreto 8789 de 29 de junho de 2016, hoje previsto no art. 28, I, do Decreto nº 10.046/2019, motivo pelo qual o indeferimento de pedido de consultas ao sistema INFOJUD" (fl. 22e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 32/36e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, conforme dispõe o artigo 1.022 do CPC.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes.
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração" (fl. 44e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 139, 789, 797, 829, § 2º, 831, 835, 854, 1.022, II, do CPC/2015, 10 e 11 da Lei 6.830/80, sustentando, além da ocorrência de negativa de prestação jurisdicional,ser desnecessário, nos termos da jurisprudência do STJ, o esgotamento de diligências para que seja efetivada a consulta ao sistema INFOJUD.
+Por fim, requer o provimento do recurso.
+Contrarrazões não apresentadas.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 65/66e).
+A irresignação merece prosperar.
+Inicialmente, em relação ao art. 1.022, II, do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestaçãojurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+O STJ, ao examinar o Recurso Especial 1.112.943/MA, julgado sob o rito dosrecursos repetitivos, firmou orientação no sentido de que, após o advento da Lei 11.382/2006, o Juiz, ao decidir acerca da realização da penhora on line, não mais pode exigir a prova, por parte do credor, de exaurimento de vias extrajudiciais na busca de bens a serem penhorados, conforme se infere da ementa do julgado:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO CIVIL. PENHORA. ART. 655-ADO CPC. SISTEMA BACEN-JUD. ADVENTO DA LEI N.º 11.382/2006. INCIDENTE DE PROCESSO REPETITIVO.
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE. ORIENTAÇÃO - PENHORA ON LINE.
+a) A penhora on line, antes da entrada em vigor da Lei n.º 11.382/2006,configura-se como medida excepcional, cuja efetivação está condicionada à comprovação de que o credor tenha tomado todas as diligências no sentidode localizar bens livres e desembaraçados de titularidade do devedor.
+b) Após o advento da Lei n.º 11.382/2006, o Juiz, ao decidir acerca darealização da penhora on line, não pode mais exigir a prova, por parte docredor, de exaurimento de vias extrajudiciais na busca de bens a serem penhorados.
+II - JULGAMENTO DO RECURSO REPRESENTATIVO
+- Trata-se de ação monitória, ajuizada pela recorrente, alegando, paratanto, titularizar determinado crédito documentado por contrato de adesão ao "Crédito Direto Caixa", produto oferecido pela instituição bancáriapara concessão de empréstimos. A recorrida, citada por meio de edital, não apresentou embargos, nem ofereceu bens à penhora, de modo que o Juiz de
+Direito determinou a conversão do mandado inicial em título executivo, diante do que dispõe o art. 1.102-C do CPC.
+- O Juiz de Direito da 6ª Vara Federal de São Luiz indeferiu o pedido depenhora on line, decisão que foi mantida pelo TJ/MA ao julgar o agravo regimental em agravo de instrumento, sob o fundamento de que, para a efetivação da penhora eletrônica, deve o credor comprovar que esgotou astentativas para localização de outros bens do devedor.
+- Na espécie, a decisão interlocutória de primeira instância que indeferiua medida constritiva pelo sistema Bacen-Jud, deu-se em 29.05.2007 (fl.57), ou seja, depois do advento da Lei n.º 11.382/06, de 06 de dezembro de2006, que alterou o CPC quando incluiu os depósitos e aplicações eminstituições financeiras como bens preferenciais na ordem da penhora como se fossem dinheiro em espécie (art. 655, I) e admitiu que a constrição serealizasse preferencialmente por meio eletrônico (art. 655-A).
+RECURSO ESPECIAL PROVIDO" (STJ, REsp 1.112.943/MA, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 23/11/2010).
+Na esteira dessa orientação, o STJ consolidou entendimento pela possibilidade da realização de pesquisas nos sistemas BACENJUD, RENAJUD e INFOJUD, anteriormente ao esgotamento das buscas por bens do executado, porquanto tais sistemas são meios colocados à disposição da parteexequente para agilizar a satisfação de seus créditos.
+A propósito, confiram-se:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONSULTA AO SISTEMA INFOJUD. NECESSIDADE DE EXAURIMENTO DAS DILIGÊNCIAIS A FIM DE LOCALIZAR BENS DO EXECUTADO. DESNECESSIDADE. PRECEDENTES DO STJ.
+1. A parte recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. A instância de origem, a despeito da oposição de Embargos Declaratórios, não emitiu juízo de valor sobre o art. 620 do CPC/1973 (princípio da menor onerosidade) e 185-A do CTN (cabimento da indisponibilidade dos bens).
+3. É inadmissível Recurso Especial quanto a questão inapreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios.
+Incidência da Súmula 211/STJ.
+4. O acórdão recorrido consignou: "A questão centra-se na insatisfação das agravantes ante a decisão monocrática que negou seguimento ao Agravo de Instrumento, mantendo a decisão agravada que deferiu a penhora "on line" pelo sistema BACEN-JUD. (..) Quanto ao bloqueio dos depósitos bancários, não restou comprovado a natureza salarial dos valores bloqueados, sendo certo que a matéria não comporta mais discussão, pois em Recurso Repetitivo (STJ REsp 1, 112.943-MA, Rei, Min. Nancy Andrighi, ocorrido em 15/09/2010), ficou sedimentado o entendimento da possibilidade da penhora "online" pelo sistema BACENJUD, sem a necessidade prévio exaurimento na busca de outros bens do executado, colacionando para tanto, julgados que perfilham este entendimento" (fl. 614, e-STJ)
+5. O Tribunal a quo está em consonância com o Superior Tribunal de Justiça
+que em precedente submetido ao rito do art. 543-C firmou entendimento segundo o qual é desnecessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on-line (sistemas BACEN-JUD, RENAJUD ou INFOJUD), em execução civil ou execução fiscal. (AgInt no REsp 1.184.039/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/4/2017).
+6. Recurso Especial não conhecido" (STJ, REsp 1.724.422/RJ, Rel. Ministro
+HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 22/05/2018).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. SISTEMAS BACEN-JUD, RENAJUD OU INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência do STJ é no sentido de que a utilização dos sistemas BACEN-JUD, RENAJUD ou INFOJUD não estaria condicionada ao esgotamento de diligências.
+2. Sendo assim, o Tribunal a quo, ao concluir pelo esgotamento de diligências para a utilização do sistema INFOJUD, decidiu em confronto com a jurisprudência desta Corte. Nesse sentido: AgRg no REsp 1.322.436, Rel. Ministra Assusete Magalhães, DJe 17/8/2015; REsp 1.522.644, Rel. Ministro Humberto Martins, DJe 1º/7/2015; AgRg no REsp 1.522.840; Rel. Ministro Mauro Campbell Marques, DJe 10/6/2015; REsp 1.522.678, Rel. Ministro Herman Benjamin, DJe 18/5/2015.
+3. Recurso especial a que se dá provimento" (STJ, REsp 1.703.669/RJ, Rel.
+Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/02/2018).
+"PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+I - O STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são
+meios colocados à disposição dos credores para simplificar e agilizar a
+busca de bens aptos a satisfazer os créditos executados.
+II - Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+III - Agravo interno improvido" (STJ, AgInt no REsp 1.619.080/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/04/2017).
+Assim, não estando o acórdão recorrido em conformidade com ajurisprudência desta Corte, merece ser provido o Recurso Especial.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de autorizar a utilização do sistema INFOJUD, nos termos da fundamentação,independentemente do esgotamento das diligências pelo credor, na busca de bens a serem penhorados.
+Sem honorários. Decisão interlocutória.
+I.
