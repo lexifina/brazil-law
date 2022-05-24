@@ -1,0 +1,42 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inaplicável o princípio da insignificância ao crime de contrabando de cigarros, pois a conduta não se limita à lesão da atividade arrecadatória do Estado, atingindo outros bens jurídicos, como a saúde, segurança e moralidade pública.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por LEONARDO OLIVEIRA PARAGUASSU, contra decisão monocrática que negou provimento ao seu recurso especial (e-STJ, fls. 1089-1091).
+A parte agravante aduz, em síntese, que o reconhecimento do princípio da insignificância no delito de contrabando de cigarros "não apresenta consolidação ao ponto de barrar a apreciação do recurso, de modo que merece ser revista a decisão agravada, uma vez que não caberia decisão monocrática até a definição do tema pela Sessão" (e-STJ, fl. 1108).
+Pede, ao final, "o conhecimento e provimento em sede de reconsideração, e caso a decisão agravada seja mantida, que o agravo seja submetido à apreciação da Turma".
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inaplicável o princípio da insignificância ao crime de contrabando de cigarros, pois a conduta não se limita à lesão da atividade arrecadatória do Estado, atingindo outros bens jurídicos, como a saúde, segurança e moralidade pública.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+A controvérsia verificada nos autos cinge-se à possibilidade de aplicação do princípio da insignificância ao crime de contrabando, consistente na importação clandestina de cigarros.
+A orientação do acórdão recorrido está em sintonia com a jurisprudência deste Superior Tribunal de Justiça, pacificada no sentido de ser inaplicável o princípio da insignificância ao crime de contrabando de cigarros, pois a conduta não se limita à lesão da atividade arrecadatória do Estado, atingindo outros bens jurídicos, como a saúde, segurança e moralidade pública.
+A esse respeito, convém a transcrição dos seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Esta Corte possui entendimento firmado no sentido de que a importação não autorizada de cigarros constitui crime de contrabando insuscetível de aplicação do princípio da insignificância, não importando a quantidade de maços apreendidos, considerando que o bem jurídico tutelado não se restringe à arrecadação tributária.
+2. Agravo regimental desprovido. (AgRg no AgRg no AREsp 1850734/RN, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 03/05/2022, DJe 06/05/2022)
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. INGRESSO DE CIGARROS DE FORMA CLANDESTINA DO TERRITÓRIO NACIONAL. CONTRABANDO. LESÃO A DIVERSOS BENS JURÍDICOS. INAPLICABILIDADE.
+1. Em se tratando de apreensão clandestina de carga de cigarros, não há apenas lesão à atividade arrecadatória do Estado mas também a outros interesses públicos, principalmente no que se refere à saúde, à atividade industrial interna, à moralidade administrativa e à ordem pública, razão pela qual fica afastado o reconhecimento e a aplicação do princípio da insignificância.
+2. Ademais, é firme a orientação desta Corte de que a importação não autorizada de cigarros configura o crime de contrabando, razão pela qual não se questiona acerca de eventuais valores dos tributos suprimidos com o ingresso da mercadoria em território nacional para a aplicação do princípio da insignificância já que tais parâmetros são pertinentes ao crime de descaminho, o que não se aplica ao presente caso.
+3. Agravo regimental desprovido". (AgRg no RHC 140.817/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/04/2021, DJe 27/04/2021)
+Outrossim, a contumácia delitiva constatada pelo TRF também é fundamento válido para obstar a incidência do princípio da insignificância, como já decidiu este Tribunal Superior:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CONTRABANDO. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 383 DO CPP E 334 DO CP. CONTRABANDO. 750 UNIDADES DE TABACO PARA NARGUILÉ. EMENDATIO LIBELLI. IMPOSSIBILIDADE. MOMENTO OPORTUNO. PROLAÇÃO DA SENTENÇA. ART. 383 DO CPP. JURISPRUDÊNCIA DO STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR ABAIXO DE R$ 20.000,00. PRECEDENTE RECENTE DESTA CORTE. HARMONIZAÇÃO COM JURISPRUDÊNCIA DO PRETÓRIO EXCELSO. TESE 157. EXISTÊNCIA DE OUTROS PROCEDIMENTOS FISCAIS. HABITUALIDADE CRIMINOSA DO RECORRIDO NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. VERIFICAÇÃO QUE DEVE SER FEITA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ.
+1. Razão assiste ao agravante, quanto à reclassificação da conduta nesta etapa processual, sob pena de cerceamento de defesa, notadamente em razão do momento oportuno para a aplicação da emendatio libelli ser a prolação da sentença.
+2. A matéria controvertida está pacificada neste Superior Tribunal, firme em assinalar que o momento adequado para aplicar o instituto da emendatio libelli, nos termos do art. 383 do CPP, é na prolação da sentença, porquanto o acusado se defende dos fatos narrados na denúncia, e não da capitulação legal nela contida - que é dotada de caráter provisório (AgRg no AREsp n. 1.134.819/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/2/2018).
+3. No que se refere ao pleito de reconhecimento da bagatela, a instância ordinária reconheceu a existência de outros processos administrativos contra o agravante.
+4. O Tribunal a quo entendeu que a verificação da existência de habitualidade criminosa seria irrelevante para análise do princípio da insignificância, entendimento este que se mostra em descompasso com a jurisprudência desta Corte Superior, firmada no sentido da não incidência do princípio da insignificância nos casos em que o réu é reiteradamente autuado em processos administrativo-fiscais, como é o caso dos autos.
+5. Contumácia delitiva do paciente. A orientação deste Supremo Tribunal, confirmada pelas duas Turmas, é firme no sentido de não se cogitar da aplicação do princípio da insignificância em casos nos quais o réu incide na reiteração do descaminho, evidenciada pela existência de procedimentos administrativos fiscais em seu desfavor, como se tem nestes autos (HC n 131.342/PR, Ministra Cármen Lúcia, Segunda Turma, DJe 1º/2/2016).
+6. A existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais, em que pese não configurarem reincidência, denotam a habitualidade delitiva do réu e afastam, por conseguinte, a incidência do princípio da insignificância (AgRg nos EDcl no REsp 1.279.686/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/10/2017).
+7. Agravo regimental parcialmente provido, para reconsiderar, em parte, a decisão agravada e, consequentemente, conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento, afastando, tão somente, a reclassificação da conduta para o delito de contrabando, permanecendo incólumes os seus demais termos".
+(AgRg no REsp 1747693/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/09/2018, DJe 15/10/2018)
+Outrossim, a afetação do tema repetitivo 1.143 pela Terceira Seção deste STJ não impede a prolação de decisões monocráticas sobre a matéria, ao contrário do que diz a defesa, porque aquele colegiado não ordenou a suspensão dos processos em andamento, que podem ter tramitação regular.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
