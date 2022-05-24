@@ -1,0 +1,58 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. NATUREZA DO ENTORPECENTE. QUANTIDADE NÃO EXPRESSIVA. REDUÇÃO DA SANÇÃO INICIAL AO MÍNIMO LEGAL. AGRAVO NÃO PROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. Hipótese em que a Corte de origem elevou a pena-base do delito de tráfico de entorpecentes em 10 meses, com amparo na natureza de uma da droga apreendida (19g de cocaína). Entretanto, sendo pequeno o quantum de entorpecente e favorável a análise das demais circunstâncias judiciais, a fixação da sanção inicial no mínimo legal é a mais adequada à espécie.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL, de decisão na qual concedi a ordem, de ofício, para reduzir a sanção final do agravado para 5 anos e 10 meses de reclusão, em regime fechado, pelo delito de tráfico de drogas (e-STJ, fls. 369-371).
+Alega o agravante que, "a despeito da quantidade de cocaína apreendida não ser expressiva, deve-se considerar que sua natureza constitui circunstância idônea a fundamentar o aumento da basilar. Ademais, convém destacar que foram encontradas com o agravado outras substâncias entorpecentes 17 porções de cocaína, pesando aproximadamente 19g, 46 porções de maconha, pesando aproximadamente 49g, além de 2 balanças de precisão, o que corrobora a necessidade de aplicação da pena-base acima do mínimo legal" (e-STJ, fls. 384).
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao colegiado para manter a elevação da pena-base.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. NATUREZA DO ENTORPECENTE. QUANTIDADE NÃO EXPRESSIVA. REDUÇÃO DA SANÇÃO INICIAL AO MÍNIMO LEGAL. AGRAVO NÃO PROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. Hipótese em que a Corte de origem elevou a pena-base do delito de tráfico de entorpecentes em 10 meses, com amparo na natureza de uma da droga apreendida (19g de cocaína). Entretanto, sendo pequeno o quantum de entorpecente e favorável a análise das demais circunstâncias judiciais, a fixação da sanção inicial no mínimo legal é a mais adequada à espécie.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O agravo não merece prosperar.
+A decisão recorrida, a seguir transcrita, deve ser mantida pelos seus próprios fundamentos:
+"Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao prover o recurso defensivo, estabeleceu a elevação da sanção inicial em 1/6 com base nos seguintes fundamentos:
+"A defesa requer a redução da basilar, sem razão.
+Com efeito, dispõe o artigo 42 da Lei Drogas que "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+ ..
+No ponto, registro que a jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que a exasperação da pena-base deve se ater à variedade, quantidade e natureza de drogas apreendidas, nos termos do artigo 42 da Lei de Drogas, podendo inclusive exceder a fração de 1/6 usualmente utilizada para cada tisne atribuído nos vetoriais do artigo 59 do Código Penal, se o caso exigir a excepcionalidade, desde que existente a devida fundamentação.
+ ..
+E, no caso em apreço, haja vista a apreensão de aproximadamente 19g de cocaína, sendo a substância de altíssimo poder lesivo e viciante, entendo como adequado o aumento da pena-base com fundamento na natureza da droga apreendida.
+Portanto, mantida à macula conferida à vetorial circunstâncias do delito. Contudo, reduzo o aumento operado pela Magistrada julgadora, pois fora dos patamares estabelecidos pela orientação jurisprudencial do STJ (um sexto por cada vetorial negativa).
+Ocorre que, no aspecto, tenho que merece reforma o apenamento fixado, por se mostrar superior ao cabível. Assim, mantido o tisne conferido à vetorial em questão, passo a adotar o critério mínimo jurisprudencial adotado pelo STJ, razão pela qual elevo a basilar à fração de 1/6 (equivalente a 10 meses), totalizando o apenamento basilar de 5 anos e 10 meses de reclusão.
+Na segunda fase, reconhecida a reincidência, uma vez que anota condenação transitada em julgado nos autos da ação penal nº 008/2.15.0010169-1, mantido o agravamento da pena em 1/6.
+Entretanto, é de ser acolhido o pleito defensivo de afastamento da agravante prevista no artigo 61, inciso II, alínea "j", do Código Penal, porquanto inexistem elementos hábeis a comprovar que tenha o réu praticado o delito de tráfico de drogas prevalecendo-se da atual situação de pandemia, não guardando os fatos em exame, a meu sentir, qualquer relação causal com o grave quadro de disseminação da COVID-19.
+ ..
+Nesse passo, a pena provisória vai redimensionada para 6 anos 9 meses e 20 dias de reclusão.
+Por fim, na derradeira etapa dosimétrica, não sendo o caso de aplicação do privilégio legal e inexistindo causas outras modificadoras, a pena privativa de liberdade vai cimentada em 6 anos 9 meses e 20 dias de reclusão" (e-STJ, fls. 29-31).
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena
+Dentro do sistema trifásico adotado pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias judiciais previstas no art. 59 do CP. Tratando-se de condenado pelo delito de Tráfico de Drogas, o art. 42 da Lei n. 11.343/2006 estabelece a preponderância dos vetores referentes à quantidade e à natureza da droga apreendida, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, verifica-se que a Corte de origem elevou a pena-base do delito de tráfico de entorpecentes em 10 meses acima do mínimo legal, com amparo na natureza de um dosentorpecentes apreendidos (19g de cocaína).
+Entretanto, embora os vetores do art. 42 da Lei de Drogas, elencados inclusive como preponderantes às circunstâncias do art. 59 do Código Penal, constituam elementos idôneos para exasperar a sanção inicial, o quantum apreendido da droga não é suficiente para denotar maior reprovabilidade na conduta da agente.
+Nesse sentido:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DAS DROGAS. QUANTIDADE NÃO EXPRESSIVA. ILEGALIDADE. OCORRÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N.º 11.343/06. NEGATIVA. QUANTIDADE DA SUBSTÂNCIA ENTORPECENTE APREENDIDA. MOTIVAÇÃO NÃO SUFICIENTE. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. APLICAÇÃO NA FRAÇÃO MÁXIMA. POSSIBILIDADE. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. CONCESSÃO DA ORDEM.
+1. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo, em regra, vedado revê-lo em sede de habeas corpus.
+2. Na espécie, existe manifesta ilegalidade no tocante à fixação da pena-base acima do mínimo legal, porquanto a quantidade apreendida - 5,07g de maconha, 10,95g de cocaína e 1,79g de crack - não se mostra expressiva o suficiente a ponto de justificar a exasperação da pena na primeira fase da dosimetria.
+ ..
+5. Ordem concedida a fim de reduzir a pena do paciente para 2 anos, 2 meses e 20 dias de reclusão e 221 dias-multa, bem como fixar o regime inicial aberto, possibilitando, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, a serem fixadas pelo Juízo das Execuções."
+(HC 427.177/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Passo à dosimetria penal do delito de tráfico de drogas.
+Fixo a pena-base em 5 anos de reclusão e pagamento de 500 dias-multa, por serem favoráveis as circunstâncias judiciais, nos termos dos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006. Na segunda etapa, elevo-a na fração de 1/6 pela agravante de reincidência, resultado a sanção em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa,a qual permanece inalterada na última fase, diante da ausência de causas de aumento ou de diminuição de pena.
+Estabelecia a sanção em patamar superior a 4 anos e não excedida a 8 anos de reclusão e tratando-se de réu reincidente, ficam mantidos o regime inicial fechado e a negativa de substituir a pena privativa de liberdade por restritivas de direitos, nos termos dos arts. 33,§ 2º, "a", e 44, I e II, do Código Penal.
+Reconhecido o concurso material com o delito do art. 329,caput, do Código Penal, nos termos do art. 69 da referida norma, fixoa pena definitiva em 5 anos e 10 meses de reclusão e em 2 meses e 22 dias de detenção.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para fixar a pena-base do delito de tráfico de drogas no mínimo legal, redimensionando a sanção final do paciente para 5 anos e 10 meses de reclusão, em regime fechado, e 2 meses e 22 dias de detenção, em regime semiaberto, maispagamento de 583 dias-multa.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se" (e-STJ, fls. 374-385)
+Ante o exposto, nego provimento ao agravo.
+É o voto.
