@@ -1,0 +1,65 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DO ENTORPECENTE. FUNDAMENTO VÁLIDO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. MAJORANTE DA INTERESTADUALIDADE. SÚMULA 587/STJ. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+2. Hipótese em que a pena-base foi exasperada em 1 ano de reclusão com fundamento na quantidade do entorpecente apreendido - 453.700g de maconha -, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos). Precedentes.
+3. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. Concluído pela instância antecedente, com fulcro na quantidade da substância apreendida - 453.700g de maconha -, bem como no modus operandi do delito, que o paciente se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+5. Conforme entendimento pacífico desta Corte Superior, para a caracterização da majorante da interestadualidade no crime de tráfico de drogas, não é necessária a efetiva transposição das fronteiras pelo agente, sendo suficiente a comprovação de que a substância entorpecente seria entregue ou disseminada em outro estado da federação. Súmula 587/STJ.
+6. Em pese tenha sido imposta reprimenda superior a 4 e inferior a 8 anos de reclusão, tratando-se de réu com circunstâncias judiciais desfavoráveis, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do Estatuto Repressor.
+7. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por LUIZ PEDRO DE ALMEIDA, de decisão na qual concedi a ordem, de ofício, para afastar a agravante prevista no art. 61 , II, "j", do Código Penal, reduzindo a pena do paciente para 7 anos de reclusão, no regime inicial fechado, e 700 dias-multa. Concedi, ainda, a ordem, de ofício, para, nos termos do art. 580 do CPP, estender os efeitos desta decisão aos corréus ANTONIO GILDENO ALVES EUGENIO e ERIK LOPES DA SILVA (e-STJ, fls. 57-63).
+A defesa alega, em suma, que "a quantidade de droga localizada já foi considerada para a caracterização do próprio delito de tráfico." (e-STJ, fl. 128)
+Sustenta que o réu faz jus ao redutor do tráfico privilegiado, uma vez que "é primário, possui 62 anos de idade, ostentador de bons antecedentes, motorista há 40 anos, e não há nos autos nenhum indício que teria ligação com qualquer organização criminosa." (e-STj, fl. 130)
+Assevera que "apenas o fato de o Agravante ter sido preso por ser contratado na qualidade de motorista de um ônibus com elevada quantidade de drogas não basta para PRESUMIR que fazia parte de uma organização criminosa." (e-STJ, fls. 129-130)
+Aduz que " a  causa de aumento prevista no art. 40, inciso V, da Lei 11.343/06 deve ser afastada, tendo em vista que a carga foi colocada no ônibus em São Paulo, e a apreensão foi realizada logo em seguida, no mesmo local. Não houve o transporte interestadual." (e-STJ, fl. 136)
+Aponta que "a fundamentação lançada é evidentemente insuficiente para fixar regime mais gravoso que o cabível, pois a pena tem o caráter repressivo, mas também ressocializador." (e-STJ, fl. 138)
+Por fim, anota que, reconhecido o tráfico privilegiado, o agravante fará jus ao regime inicial aberto e à substituição da pena privativa de liberdade por restritiva de direitos.
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DO ENTORPECENTE. FUNDAMENTO VÁLIDO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. MAJORANTE DA INTERESTADUALIDADE. SÚMULA 587/STJ. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+2. Hipótese em que a pena-base foi exasperada em 1 ano de reclusão com fundamento na quantidade do entorpecente apreendido - 453.700g de maconha -, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos). Precedentes.
+3. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. Concluído pela instância antecedente, com fulcro na quantidade da substância apreendida - 453.700g de maconha -, bem como no modus operandi do delito, que o paciente se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+5. Conforme entendimento pacífico desta Corte Superior, para a caracterização da majorante da interestadualidade no crime de tráfico de drogas, não é necessária a efetiva transposição das fronteiras pelo agente, sendo suficiente a comprovação de que a substância entorpecente seria entregue ou disseminada em outro estado da federação. Súmula 587/STJ.
+6. Em pese tenha sido imposta reprimenda superior a 4 e inferior a 8 anos de reclusão, tratando-se de réu com circunstâncias judiciais desfavoráveis, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do Estatuto Repressor.
+7. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (RELATOR):
+O agravo não merece prosperar.
+A decisão recorrida, transcrita a seguir, deve ser mantida pelos seus próprios fundamentos, porque ela está em consonância com a jurisprudência desta Corte.
+" ..
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Na hipótese, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade de drogas apreendidas - 453.700g de maconha -, para elevar a pena- base em 1 ano de reclusão acima do mínimo legal.
+Tendo sido apresentado elemento idôneo para a majoração da reprimenda básica, elencado inclusive como circunstância preponderante, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+ ..
+Quanto ao pedido de reconhecimento do redutor do tráfico privilegiado, também, não assiste razão à defesa.
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice (HC 401.121/SP, Rel.
+Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+In casu, observa-se que a Corte de origem manteve afastada a minorante, por entender que a quantidade de drogas apreendidas - 453.700g de maconha - e o modus operandi do delito (transporte de carga valiosa; deslocamento que exige planejamento minucioso e, principalmente, conhecimento prévio da atividade criminosa para o sucesso da cadeia de venda de drogas entre os estados da federação; bem como a participação ativa e coordenada dos acusados), indicam o envolvimento do paciente com atividade criminosa.
+Desse modo, assentado pelas instâncias antecedentes, soberanas na análise dos fatos, que o réu é contumaz no comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+ ..
+Por outro lado, no tocante ao pedido de afastamento da agravante prevista no art. 61, II, "j", do Código Penal, razão assiste à impetrante.
+Como se vê, o Tribunal de origem reconheceu a agravante do art. 61, II, j, do CP, por ter o paciente cometido o delito durante estado de calamidade pública decretada pelo Congresso Nacional, em razão da pandemia causada pela COVID-19, com recomendação de isolamento social e outras medidas públicas.
+No entanto, "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática da traficância" o que não ocorreu na hipótese (HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020).
+Logo, não tendo a instância ordinária demonstrado o nexo causal entre a prática delitiva pelo acusado e a pandemia decorrente do novo coronavírus, impõe-se o afastamento da agravante do art. 61, II, "j", do Código Penal (HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021).
+Por fim, no que tange ao pedido de exclusão da causa de aumento prevista no art. 40, V, da Lei n. 11.343/2006, cumpre registrar que, conforme entendimento pacífico desta Corte Superior, para a caracterização da majorante da interestadualidade no crime de tráfico de drogas, não é necessária a efetiva transposição das fronteiras pelo agente, sendo suficiente a comprovação de que a substância entorpecente seria entregue ou disseminada em outro estado da federação.
+Nesse sentido:
+ ..
+Passo, assim, à readequação da pena.
+Mantém-se a pena-base em 6 anos de reclusão e 600 dias-multa. Na segunda fase, ausentes agravantes e atenuantes, a pena permanece inalterada. Na terceira fase, mantém-se em 1/6 a causa de aumento do art. 40, V, da Lei n. 11.343/2006, restando a pena definitiva em 7 anos de reclusão e 700 dias-multa, ante a inexistência de outras causas de aumento e diminuição de pena.
+No tocante ao regime prisional, deve ser mantido o modo mais gravoso.
+Embora o paciente seja primário e a pena reclusiva tenha sido fixada em 7 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, diante da aferição desfavorável de circunstância judicial (quantidade do entorpecente), nos termos dos art. 33 do CP c.c o art. 42 da Lei n. 11.343/2006.
+Confiram-se:
+ ..
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para afastar a agravante prevista no art. 61 , II, "j", do Código Penal, reduzindo a pena do paciente para 7 anos de reclusão, no regime inicial fechado, e 700 dias-multa. Concedo, ainda, a ordem, de ofício, para, nos termos do art. 580 do CPP, estender os efeitos desta decisão aos corréus ANTONIO GILDENO ALVES EUGENIO e ERIK LOPES DA SILVA." (e-STJ, fls. 80-85)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
