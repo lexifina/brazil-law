@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por ZTM GESTÃO PATRIMONIAL S.A. e ZTM CONSTRUTORA E EMPREENDIMENTOS IMOBILIÁRIOS LTDA, com o fito de reformar a decisão que, nos Autos da Ação de Exibição de Documentos de no 000892-84.2022.8.11.0050, manejada por OLGA TESSARO ZILIO, ALDRIANEZ TESSARO ZILIO e ANDREANESSA TESSARO ZILIO, deferiu o pedido de tutela de urgência para suspender a realização da assembleia geral designada para 25.04.2022 e, ato contínuo, determinou que as demandadas, ora agravantes, disponibilizem os documentos contábeis e gerenciais do exercício fiscal de 2021.
+Para tanto, aduzem as agravantes, em síntese, que ao revés dos fatos deduzidos pelos autores, ora agravados, nunca houve pessoalização da administração da holding familiar ou qualquer conduta que beneficiasse um acionista em detrimento de outro.
+Esclarecem que todas transações realizadas à frente da empresa contaram com o consentimento de todos os acionistas, razão pela qual, tornam-se despiciendos quaisquer outros esclarecimentos além daqueles a que já estão legalmente obrigados, para fins de realização da assembleia geral.
+Pugnam pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, não há nada que convença da medida liminar pleiteada.
+É que, ao menos em cognição sumária, não se extrai dos autos nem mesmo indícios de que a probabilidade do direito atenda aos agravantes, pois, conforme bem assinalado pela decisão agravada, os demandados não teriam disponibilizado o relatório da administração sobre os negócios sociais e os principais fatos administrativos do exercício findo; a cópia das demonstrações financeiras; o parecer dos auditores independentes, se realizada auditoria e os demais documentos pertinentes aos assuntos incluídos na ordem do dia (art. 17, §1°).
+Os acionistas, ora agravados, sequer teriam sido atendidos em relação aos requerimentos deduzidos por meio de notificação extrajudicial, muito antes da data designada para a assembleia.
+Em razão, disso não há nada que recomende o pronunciamento judicial liminar, devendo ser mantida incólume a decisão recorrida.
+Ante o exposto, NÃO CONCEDO a liminar.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõem para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
