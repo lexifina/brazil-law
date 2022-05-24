@@ -1,0 +1,30 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ANTÔNIO ESPÍNDOLA BRENNER (ANTÔNIO) ajuizou ação de revisão contratual cumulada com repetição do indébitocontra BANCO DO BRASIL S.A. (BB), julgada procedente.
+Transitada em julgado, ATÔNIO promoveu cumprimento de sentença.
+O d. Juízo de primeira instância julgou improcedente a impugnaçãoapresentada pelo BB e, atendendo ao pedido de ANTÔNIO,deferiu a expedição de alvará de R$ 9.389.193, 83 (nove milhões, trezentos e oitenta e nove mil, cento e noventa e três reais e oitenta e três centavos).
+Contra essa decisão interlocutória, BB interpôs agravo de instrumento que não foi provido pelo Tribunal de Justiça do Rio Grande do Sul, com condenação do BB às penas por ato atentatórioà dignidade da Justiça e litigância de má-fé,nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRECLUSÃO.
+LIBERAÇÃO DE VALORES. POSSIBILIDADE.
+1. Preliminar contrarrecursal de não conhecimento do recurso afastada. Colegiado que, por maioria, considerou cabível a oposição de agravo de instrumento contra decisão que examinou impugnação ao cumprimento de sentença.
+2. Alegações a respeito da existência de supostos vícios no laudo pericial que deveriam ter sido ventiladas e comprovadas no âmbito da impugnação, sob pena de caracterizar inovação recursal e, consequentemente, inviabilizar o seu exame. Caso concreto em que, outrossim, resta suficientemente esclarecida a temática atinente à prova do pagamento das cédulas sob revisão, presumindo-se ter havido a sua efetiva quitação.
+3. Questões ventiladas pela parte agravante que, além do mais, não se traduzem em meros erros de cálculo, de fácil apreensão, passíveis de correção a qualquer tempo, mas, isto sim, em efetiva irresignação quanto aos critérios utilizados para apuração do "quantum debeatur", as quais deveriam ter sido aventadas no momento oportuno. Cálculos produzidos pela "expert", que, portanto, devem ser tomados como base para fins de liberação da quantia constrita.
+4. Parte agravante condenada, por maioria, às penas por prática de ato atentatório à dignidade da justiça e litigância de má-fé.
+Preliminar contrarrecursal de inadmissibilidade do agravo de instrumento afastada, por maioria.
+Agravo de instrumento desprovido, à unanimidade. Recorrente condenada, por maioria, às penas por ato atentatório à dignidade da justiça e litigância de má-fé(e-STJ, fl. 2.674).
+Os embargos de declaração opostos por ANTÔNIO foram acolhidos com efeitos infringentes, nos termos do acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS.IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA E LITIGÂNCIA DE MÁ-FÉ. OBSCURIDADE E OMISSÃO. 1. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. À multa imposta ao agravante, de 10% (dez por cento) do valor da causa, deverá ser acrescentado ou esclarecida a obscuridade "sobre o valor atualizado da causa (que é o valor objeto da execução) ". 2.
+LITIGÂNCIA DE MÁ-FÉ. Além da multa pela litigância temerária  de 5% (cinco por cento) sobre o valor da causa atualizado , deverá o agravante, ora embargado, pagar ao agravado, ora embargante, a indenização de que tratam o artigo 81 e seu §3º, verbis :
+Art. 81. De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou. (..). § 3º O valor da indenização será fixado pelo juiz ou, caso não seja possível mensurá-lo, liquidado por arbitramento ou pelo procedimento comum, nos próprios autos.
+No caso dos autos, dada a impossibilidade de se mensurarem, de pronto, os prejuízos advindos ao agravado, deverá o respectivo valor ser liquidado pelo procedimento comum, nos próprios autos, nos termos da legislação supratranscrita.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS NO SEU EFEITO INFRINGENTE E MODIFICATIVO(e-STJ, fls. 2.814/2.819).
+Já os embargos de declaração opostos peloBB foram rejeitados (e-STJ, fl. 2.844/2.851).
+Inconformado, BB manejou recurso especial com fundamento no art. 105, III, ae c, da CF, alegandoviolação dos arts. 77, 80, 81, 494,1.022 e 1.025, todos do NCPC, ao sustentar (1) omissão no julgado acerca (1.1) do alegado excesso de execução fundado em erro material nos cálculos apresentados por ANTÔNIO e reconhecidos em decisão anteriormente proferida; e (1.2) da demonstração da infringência as hipóteses legislativas da litigância de má-fé e ato atentatórioà dignidade da justiça; (2) inexistência dos pressupostos para a sua condenação nas penas pela prática de ato atentatório à dignidade da justiça e por litigânciade má-fé; e (3)que o erro material não faz coisa julgada e não preclui, alegando inconsistência nos cálculos periciaisque afrontam a coisa julgada, quais sejaminclusão deparcelas indevidas, desrespeito aosíndices de correção monetária contratados,aplicaçãoincorreta de metodologia de atualização do indébito e incidência de indébito sobre valores não lastreados com recursos provenientes da poupança(e-STJ, fls. 2.862/2.903).
+Apresentadascontrarrazões(e-STJ, fls. 2.933/2.961).
+O apelo nobre não foi admitido tendo em vista a ausência de violação aos arts. 1.022 e 1.025 do CPC e incidência das Súmulas nº 7 e 83 do STJ (e-STJ, fls. 3.002/3.013).
+Nas razões do agravo, BB reafirmou a ofensa aos arts. 1.022 e 1.025 do CPC, bem como alegou a inaplicabilidade dos referidos óbices sumulares (e-STJ, fls. 3.027/3.046).
+É o relatório.
+DECIDO.
+Para melhor exame da controvérsia,CONVERTOo agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE REVISÃO CONTRATUAL. CEDULA DE CRÉDITO RURAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO NCPC.LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA.VIOLAÇÃO DO ART. 494 DO NCPC. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
