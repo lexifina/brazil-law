@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso especial interposto por Comaves Indústria e Comércio de Alimentos Ltda., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado (e-STJ, fl. 463):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. - DEMANDA EXTINTA POR ABANDONO DA CAUSA. APLICAÇÃO SUBSIDIÁRIA DO ART. 485 DO CPC AO CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PESSOAL DA EXEQUENTE PELO CORREIO PARA DAR PROSSEGUIMENTO AO FEITO. ÔNUS DA PARTE DE MANTER ATUALIZADO O ENDEREÇO INFORMADO NOS AUTOS. DESNECESSIDADE DE INTIMAÇÃO POR OFICIAL DE JUSTIÇA E POR EDITAL. - NÃO APLICAÇÃO DA SÚMULA 240 DO STJ. EXECUTADO QUE NÃO CONSTITUIU ADVOGADO E NÃO APRESENTOU IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. - RECURSO CONHECIDO E NÃO PROVIDO.
+Em suas razões de recurso especial, a recorrente alega, além de divergência jurisprudencial, violação doart. 485, § 1º, do CPC/2015.
+Sustenta, em síntese, pela reforma do acórdão recorrido com a revogação da extinção do processo, na medida em que não houve requerimento expresso do réu para esse fim, além de que não foram esgotadas as tentativas de intimação pessoal da parte autora para o fim de dar andamento ao processo.
+As contrarrazões não foram apresentadas - fl. 513.
+O Tribunal de origem admitiu o processamento do recurso especial, vindo os autos a esta Corte (e-STJ, fl. 514).
+Brevemente relatado, decido.
+Com efeito, a jurisprudência desta Corte assevera que a extinção do processo, consubstanciada em abandono por parte do autor, só se mostra hígida se, após a sua intimação pessoal prévia para dar prosseguimento, permanecer silente.
+Sobre o tema os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSOSEM JULGAMENTO DE MÉRITO.ABANDONO DA CAUSA. REQUERIMENTODORÉU.INTIMAÇÃOPESSOALDAPARTE. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIADOSTJ. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1.O acórdão recorrido decidiu em sintonia com a jurisprudênciadoSTJ de que aextinção dofeitopor abandonodecausapela parte autora exige o requerimentodaré, aintimaçãopessoaldaautora para que a falta seja suprida no prazo de 48 horas, antesda extinção dofeito. Precedentes.
+2. A alteraçãodaspremissas fáticas adotadas pelo eg. Tribunal de origem exige o reexamedosubstrato fático-probatório contido nos autos, providência que, na viadorecurso especial, encontra óbice na Súmula 7doSuperior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.244.268/MS. Relator Ministro LÁZARO GUIMARÃES, Desembargador convocadodoTRF 5ª Região, Quarta Turma, DJe 23/8/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALUGUÉIS VENCIDOS E DEMAIS DESPESAS. CONDENAÇÃO. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. ABANDONO DA CAUSA. POSSIBILIDADE.
+1. Nos termos do art. 267, III, § 1º, do CPC/1973, o abandono da causa por mais de 30 (trinta) dias implica a extinção do processo se o exequente, pessoalmente intimado para promover os atos e diligências que lhe competir, permanecer inerte.
+2. Inaplicabilidade da Súmula nº 240/STJ por se tratar de réu revel citado por hora certa e defendido pela Defensoria Pública, que também não se opôs à extinção da demanda.
+3. Agravo interno não provido.(AgInt no REsp 1.457.324/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/3/2017, DJe 4/4/2017)
+Na hipótese, entretanto, verifica-se que o acórdão recorrido, em consonância com a jurisprudência acima delineada, consignou quetanto o advogado constituídocomo a autora foram intimados sendo esta última de forma pessoal.
+É o que se extrai do seguinte trecho do acórdão recorrido (e-STJ, fls. 465-466 - sem grifo no original):
+Do abandono da causa.
+O art. 485, inciso III, do CPC dispõe que o processo poderá ser extinto na medida em que se verifique o abandono da causa, pelo autor, por mais de 30 dias, entendendo-se por "abandono da causa" a negligência para com os atos processuais de caráter indispensável, nuclear e fundamental para o prosseguimento da ação e a efetiva prestação jurisdicional.
+Não obstante o CPC traga em seu artigo 2º o chamado princípio do impulso oficial - "o processo começa por iniciativa da parte e se desenvolve por impulso oficial, salvo as exceções previstas em lei" -, deve-se ter em mente que tal normativa deve ser aplicada em consonância ao princípio da cooperação (art. 6º, CPC) e à ideia da inércia da jurisdição.
+Ou seja, não basta que a parte proponha a ação para que, daí por diante, todo o restante do trâmite processual seja automaticamente desenvolvido pelo órgão de jurisdição.
+Cabe às partes e ao Estado-Juiz colaborarem para que se atinja o fim processualmente pretendido, arcando cada um com seus deveres e compromissos processuais que, na ótica das partes, consiste em peticionar tempestivamente e requisitar a maneira através da qual se deseja que a jurisdição prossiga, participando ativamente do processo.
+O argumento da apelante de que a execução somente pode ser extinta nas hipóteses do art.924 do CPC não se coaduna com a jurisprudência.
+As normas relativas à extinção do processo sem julgamento do mérito se aplicam supletivamente, no que couber, ao processo de execução e ao cumprimento de sentença, consoante art. 318, § único do CPC.
+Não existe qualquer incompatibilidade entre a regra da extinção por abandono e o procedimento de cumprimento de sentença, uma vez que não se justifica a manutenção de um processo em que a parte autora/exequente não demonstra ter interesse de praticar os atos necessários para obter a satisfação de sua pretensão.
+Para a extinção por abandono, o art. 485, III, § 1º, do CPC exige a prévia intimação pessoal da parte para suprir a falta:
+Art. 485. O juiz não resolverá o mérito quando:
+III - por não promover os atos e as diligências que lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias;
+§ 1º Nas hipóteses descritas nos incisos II e III, a parte será intimada pessoalmente para suprir a falta no prazo de 5 (cinco) dias.
+A intimação na pessoa do advogado constituído ocorreu no movimento 72 do Projudi.
+Na sequência, houve a intimação pessoal com a expedição de carta para o endereço informado nos autos (mov. 1.1 e 83.1) Em que pese o comprovante de recebimento da carta de intimação pessoal ter retornado com a anotação de que a empresa exequente "mudou-se", o ato judicial é válido e supre a exigência legal, na medida em a correspondência foi remetida para o endereço fornecido na petição inicial (mov. 1.1).
+O art. 274 do Código de Processo Civil dispõe:
+Art. 274. Não dispondo a lei de outro modo, as intimações serão feitas às partes, aos seusrepresentantes legais, aos advogados e aos demais sujeitos do processo pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria.
+Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço.
+Uma vez que a empresa exequente não se desincumbiu do ônus de manter atualizado seu endereço, a intimação pessoal reputa-se válida.
+Ao contrário do alegado na apelação, o fato da intimação pessoal pelo correio não se concretizar em razão da parte ter mudado de endereço não impõe que se promova a citação por oficial de justiça e por edital.
+Conforme reza a lei processual, a intimação é válida, ainda que não recebida pela parte quando esta não tiver comunicado nos autos a alteração de endereço.
+Neste sentido a jurisprudência do Superior Tribunal de Justiça:
+(..)
+Outrossim, impende destacar que é dever da parte e do seu advogado manter atualizado o endereço onde receberão intimações (art. 77, V, do CPC/2015), sendo considerada válida a intimação dirigida ao endereçamento declinado na petição inicial, mesmo que não recebida pessoalmente pelo interessado a correspondência, se houver alteração temporária ou definitiva nessa localização (art. 274, parágrafo único, do CPC/2015).
+Nesse sentido, confira-se o seguinte julgado desta Corte, guardadas as devidas proporções:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. ARTIGO 485, III, § 1, DO CPC/2015. INTIMAÇÃO DO ADVOGADO DO AUTOR, VIA DIÁRIO DA JUSTIÇA. INTIMAÇÃO PESSOAL DA PARTE ENTREGUE NO ENDEREÇO INDICADO NA INICIAL.RECURSO ESPECIAL FUNDADO NA ALÍNEA C DO INCISO III DO ART.105 DA CONSTITUIÇÃO FEDERAL. DISSÍDIO JURISPRUDENCIAL SEM SIMILITUDE FÁTICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. REEXAME DAS CONCLUSÕES ADOTADOS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de similitude fática entre o acórdão recorrido e o paradigma indicado nas razões implica a deficiência da fundamentação do recurso especial, o que atrai a incidência da Súmula 284 do STF.
+2. A jurisprudência desta Corte considera válida a intimação promovida no endereço declinado nos autos, a fim extinguir o processo por abandono de causa, porquanto a parte e seu patrono são responsáveis pela atualização do endereço para o qual sejam dirigidas as intimações necessárias, devendo suportar os efeitos decorrentes de sua desídia.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.805.662/GO, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021, sem grifo no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXTINÇÃO DO PROCESSO. ABANDONO DE CAUSA. VALIDADE DA INTIMAÇÃO PESSOAL. ENDEREÇO FORNECIDO PELA AUTORA. AUSÊNCIA DE INFORMAÇÃO AO JUÍZO DE EVENTUAL MUDANÇA. ASSERTIVA DE QUE NÃO HOUVE EFETIVA INTIMAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. "É válida a intimação da autora promovida no endereço declinado por ela nos autos, a fim extinguir o processo por abandono de causa, porquanto a parte e seu patrono são responsáveis pela atualização do endereço para o qual sejam dirigidas as intimações necessárias, devendo suportar os efeitos decorrentes de sua desídia". (AgRg no REsp 1495046/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/09/2016, DJe 12/09/2016).
+2. A assertiva de que não foi efetivada intimação reclama reexame de prova e fatos, o que é vedado na instância especial ante a incidência da Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1.354.017/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/8/2019, DJe 20/8/2019)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, torna-se imperiosa a aplicação da Súmula 83/STJ ao presente feito a obstar a análise do reclamo, óbice aplicável a ambas as alíneas autorizadoras.
+Sobre a imprescindibilidade de requerimento do réu como condição para a extinção da causa por abandono do autor, a jurisprudência desta Corte consolidada na Súmula 240/STJ, firmou entendimento de que "a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu".
+Todavia, essa exigência não se aplica a hipótesedos autos.Isso porque, a Corte local asseverou que: "embora o executado tenha sido devidamente citado, não constituiu advogado e não apresentou impugnação ao cumprimento de sentença" (e-STJ, fl. 466). Portanto, de fato,não se aplica a Súmula 240/STJ.
+No mesmo sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALUGUÉIS VENCIDOS E DEMAIS DESPESAS. CONDENAÇÃO. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. ABANDONO DA CAUSA. POSSIBILIDADE.
+1. Nos termos do art. 267, III, § 1º, do CPC/1973, o abandono da causa por mais de 30 (trinta) dias implica a extinção do processo se o exequente, pessoalmente intimado para promover os atos e diligências que lhe competir, permanecer inerte.
+2. Inaplicabilidade da Súmula nº 240/STJ por se tratar de réu revel citado por hora certa e defendido pela Defensoria Pública, que também não se opôs à extinção da demanda.
+3. Agravo interno não provido. (AgInt no REsp 1.457.324/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/3/2017, DJe 4/4/2017
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.PROCESSO CIVIL.EXTINÇÃO DO PROCESSO. ABANDONO DA CAUSA. REQUERIMENTO DO RÉU.
+1. Deficiência de fundamentação do recurso especial configurada tendo em vista que a parte recorrente não refutou por meio das razões recursais o argumento de não ter ocorrido requerimento da parte ré de ser extinto o processo, a justificar a pena de abandono da causa. Incidência das súmulas 283 e 284/STF.
+2. A extinção do processo por abandono da causa pelo autor, necessita de requerimento do réu apenas nos casos em que o réu passou a integrar a lide, justificando, assim, sua manifestação acerca da extinção. Precedentes .
+3. Agravo interno não provido.(AgInt no AREsp 989.329/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/2/2017, DJe 24/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ABANDONO DE CAUSA. EXECUÇÃO NÃO EMBARGADA. SÚMULA Nº 240/STJ.INAPLICABILIDADE. INCIDÊNCIA DA SÚMULA Nº 83/STJ.
+1. Nos termos da jurisprudência pacífica desta Corte Superior, configurado o abandono da causa, o julgador pode extinguir de ofício a execução não embargada, porquanto não angularizada a relação processual, afastando- se, assim, a aplicação da Súmula nº 240/STJ.
+2. Agravo interno não provido.(AgInt no AREsp 856.970/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/11/2016, DJe 1º/12/2016)
+Diante do exposto, nego provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. EXTINÇÃO DO PROCESSO POR ABANDONO. PARTE AUTORA QUE, MESMO INSTADA A SE MANIFESTAR, PERMANECEU INERTE. INTIMAÇÃO PELOS CORREIOS INFRUTÍFERA. DEVER DAS PARTES DE MANTER ATUALIZADO O ENDEREÇO INFORMADO NA PETIÇÃO INICIAL. EXTINÇÃO DO FEITO QUE SE IMPUNHA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 2. INAPLICABILIDADE DA SÚMULA 240/STJ, NA HIPÓTESE, RÉU REVEL. 3. RECURSOIMPROVIDO.
