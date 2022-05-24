@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno manejado por GESSÉ MILLAN PESSOA para desafiar decisão proferida pelo eminenteMinistro Presidente desta Corteàs e-STJ fls. 417/418, em queconheceudo agravo paranãoconhecerdo recurso especial, considerando a incidência da Súmula 284 do STF.
+Sustenta a parte agravante que as razões do seu apelo nobre permitem a perfeita compreensão da controvérsia, nos moldes dos arts. 3º, IV, 5º, caput eII, 37, VIII, e 105, III, "a", da CF/1988, 4º da Lei n. 13.146/2015, 20 e 44 da Lei n. 8.112/1990 e 42 e 43, § 2º, do Decreto n. 3.298/1999.
+Sem impugnação (e-STJ fl. 436).
+É o relatório.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando a nova análise da insurgência.
+Trata-se de agravo interposto por GESSÉ MILLAN PESSOA contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o qual não admitiu recurso especialquedesafia acórdão assim ementado (e-STJ fl. 267):
+CONCURSO PÚBLICO
+Agente de Segurança Penitenciária 1ª Classe. Candidato considerado "inapto" na perícia médica por apresentar deficiência incompatível com as funções exigidas para o exercício do cargo. Pretensão de anular ato. Descabimento. Prevalência do edital ao prever as normas disciplinadoras do certame. Discricionariedade da Administração em estabelecer as regras para admissão de novos servidores. Avaliação médica realizada segundo critérios previamente estabelecidos. Inocorrência de ilegalidade. Precedentes. Sentença mantida. Recurso não p rovido.
+Embargos de declaração rejeitados (e-STJ fls. 328/331).
+No recurso especial obstaculizado, a parte apontouviolação dos arts.20da Lei n. 8.112/1990, 42 e 43, § 2º, do Decreto n. 3.298/1999, argumentando que (a) está apto para exercer a função de agente de segurança penitenciária de Classe I, tendo em vista que jáfoi vigilante armado no Aeroporto Estadual de Dracena e que atualmente é vigilante armado no Banco Bradesco; e (b) a compatibilidade entre as atribuições do cargo e a deficiência do candidato deverãoser verificadas durante o estágio probatório.
+Afirma também que esta Corte tem confirmado reiteradamente o entendimento acima elencado, conforme os RMS51307 e 51880.
+Contrarrazõesàs e-STJ fls. 340/350.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Primeiramente, ressalte-seque - segundo o Informativo n. 734 do STJ -é possível oconhecimento do recurso especial, mesmo sem indicação expressa do permissivo constitucional em que se funda, desde queas razões recursais demonstrem o seu cabimento de forma inequívoca (EAREsp 1.672.966/MG, rel. Min. Laurita Vaz, Corte Especial,julgado em 20/04/2022).
+Assim, ainda que o apelo nobre não tenha indicado expressamente o permissivo constitucional no qual se fundou, observo que as razões recursais conseguiram demonstrar as hipóteses de cabimentopelas alíneas "a" e "c" do inciso III do art. 105 da CF/1988.
+Mostra-se pertinente transcrever trecho do acórdão ora recorrido (e-STJ fls. 268/269):
+Segundo consta, após aprovação nas demais fases do certame, foi submetido ao exame médico, e viu-se considerado inapto conforme laudo pericial (fls. 23/26) ponderando o fato de que em ".. algumas das atribuições inerentes ao cargo de Agente de Segurança Penitenciária, haver a necessidade de uso da visão periférica e de profundidade, o que somente é alcançado com a visão binocular;" (fl. 24).
+Solução administrativa encontra respaldo no edital.
+ ..
+Ele fixa regras do certame. Define em que condições se estabelece o relacionamento entre a Administração e aqueles que concorrerão aos cargos. O Poder Público exibe suas condições e o candidato, inscrevendo-se, concorda com elas. Nasce daí o vínculo jurídico do qual decorrem direitos e obrigações. O concurso público, além de princípios constitucionais, como o da legalidade e o da moralidade, rege-se também pelo da vinculação ao edital. Ele faz lei entre as partes.
+Ora, no presente caso, previu o edital a realização de perícia médica dos candidatos que se declaram portadores de deficiência ("4.15. O candidato que concorre como pessoa com deficiência será convocado pela Secretaria da Administração Penitenciária, nos termos do Capítulo 11 deste Edital, para realização de perícia médica, com finalidade de avaliação da compatibilidade das atribuições do cargo pretendido coma(s) deficiência(s) declarada(s)." fl. 53; e ainda,"2.4.2. Quanto à rotina: requer plena aptidão física, resistência e desenvoltura mental frente aos aspectos repetitivos das atividades da Unidade." fl. 46).
+Por seu turno, o Capítulo 11 apontou a condição necessária para aaprovação (fls. 70/71), qual seja, a declaração de aptidão conferida pelo Departamento de Perícias Médicas do Estado.
+Edital é claro quanto às exigências e, com elas concordou o autor ao se inscrever e por não as impugnar oportunamente.
+Cabe à Administração estabelecer os critérios do concurso (".. os requisitos para o concurso são estabelecidos, livremente pela Administração, de forma que melhor convenha ao interesse público, desde que não estabeleça desigualdade entre os candidatos." ROMS nº 387/SP Rel. Min. PEÇANHA MARTINS).
+Não se afigura desarrazoado exija a Administração, para provimento de seus cargos, maior rigor na avaliação de seus candidatos.
+De outra parte, o laudo realizado pelo IMESC assim definiu:
+ ..
+Daí a legalidade da avaliação.
+Evidente a incompatibilidade entre a deficiência apresentada pelo apelante e as funções do cargo almejado. (Grifos acrescidos).
+Transcreve-se, ainda, trecho do acórdão integrativo (e-STJ fl. 330):
+De nenhum vício, no entanto, padece o aresto embargado.
+Apreciou-se a questão capacidade laborativa e obediência as regras do certame apenas não nos moldes pretendidos pelo embargante.
+Confira-se:
+ ..
+Ora, o embargante concordou com as regras do Edital ao se inscrever, e não as impugnou em momento oportuno. Departamento de Perícias Médicas do Estado entendeu por sua inaptidão na fase de exame médico. Não vislumbro qualquer ilegalidade por parte do Estado. (Grifos acrescidos).
+Em relação à tese de que o ora recorrenteestá apto para exercer a função de agente de segurança penitenciária de Classe I, verifica-se que a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+Ademais, da leitura do excerto supra, verifico que, embora o recorrente tenha manejado os aclaratórios com o fim de obter pronunciamento acerca datesede que a compatibilidade entre as atribuições do cargo e a deficiência do candidato deverãoser verificadas durante o estágio probatório, a instância ordinária não enfrentou a discussão sobre o momento no qual a aludida compatibilidade deve ser aferida sob o viés pretendido, asseverando somente que não houve ilegalidade por parte do Estado ora recorrido, pois a solução administrativa encontra respaldo no edital, que não foi impugnado pelo autor no momento adequado.
+Acresço, por oportuno, que não há, nas razões recursais, alegação de ofensa ao art. 1.022do CPCque poderia ensejar eventual negativa de prestação jurisdicional pela Corte de origem.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Convém registrar, quanto à afirmação de queesta Corte tem confirmado reiteradamente o entendimento de que a compatibilidade entre as atribuições do cargo e a deficiência do candidato deverãoser verificadas durante o estágio probatório, conforme os RMS n. 51307 e n. 51880,que a parte recorrente não atendeu aos requisitos dos arts. 1.029, § 1º, do CPC/2015e 255, § 1º do RISTJ, tendo em vista que a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante.
+Segundo o entendimento pacífico desta Corte de Justiça, a simples transcrição de ementas, sem que se evidencie a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial. Nesse sentido: AgRg no AREsp 752892/RS, Relator Ministro BENEDITO GONÇALVES, DJe 04/11/2015;AgRg no REsp 1558877/PR, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/02/2016;AgInt no AREsp 1736638/PE, RelatoraMinistra MARIA ISABEL GALLOTTI,QUARTA TURMA;DJe 12/05/2021; e AgInt no REsp 1704378/RJ, RelatorMinistro BENEDITO GONÇALVES,PRIMEIRA TURMA,DJe 13/05/2021.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 417/418 e, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial, por outros fundamentos.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte sucumbente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
