@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por GISLAINE RUCHINSQUE CUNHA, com fulcro noart. 1.043, I do CPC/2015, contra acórdão proferido pela Terceira Turma desta Corte Superior, sob a relatoria do Ministro RICARDO VILLAS BÔAS CUEVA, ementado nos seguintes termos (fl. 462):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO. CONTRATOS DE MÚTUO. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. HIPÓTESE. ART. 85, §§ 2º E 8º, DO CPC/2015. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o § 2º do art. 85 do CPC/2015 constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+3. Na hipótese, rever a conclusão da Corte de origem, que entendeu ser inestimável o proveito econômico, demandaria a incursão no conjunto fático-probatório dos autos, o que esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+Aduz ainsurgente, em síntese, que o aresto embargado divergedos seguintes acórdãos:REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019, noAgInt no AREsp 179.034/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/12/2016, DJe 14/12/2016, e noAgInt no AREsp 1.386.677/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/09/2019, DJe 30/09/2019.
+Defende que enquanto "(..)o acórdão recorrido entende por correta a fixação dos honorários de sucumbência sobre o valor da causa em demanda revisional que culminou com a condenação da contraparte à restituição do valor pago a maior", "(..) os precedentes da 4ª Turma apontam em sentido diametralmente oposto, sendo literais ao consignar que o cálculo dos honorários sucumbenciais deve observar a ordem estabelecida pelo artigo 85, §2º do CPC, a qual prevê que o proveito econômico com o julgamento da ação constitui critério preponderante em relação ao valor atribuído à causa.". (fls. 470-482).
+Requer, nesses termos, o provimento dos embargos.
+Foi apresentada impugnação às fls. 621-631.
+O Ministério Público Federal emitiu parecer pelo improvimento dos embargos de divergência (fls. 633-638).
+É o relatório.
+Decide-se.
+A insurgência não merece prosperar.
+1. Analisando os autos, verifica-se que a Terceira Turma negou provimento ao agravo interno (fls. 462-465), mantendo a decisãoque, por sua vez, não conheceu do recurso especial, por incidência do óbice da Súmula n.º 7/STJ.
+Nesse contexto, verifica-se que não houve posicionamento por parte daquele órgão fracionário quanto à matéria de mérito, limitando-se, apenas, à regra técnica de conhecimento do recurso.
+Assim sendo, é de rigor a aplicação da Súmula nº 315/STJ, pelo que os embargos devem ser liminarmente indeferidos. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DE DIVERGÊNCIA EM AGRAVO NO RECURSO ESPECIAL. DISSÍDIO. DEMONSTRAÇÃO. AUSÊNCIA INEXISTÊNCIA DE COTEJO ANALÍTICO ENTRE O ACÓRDÃO ATACADO E OS PARADIGMAS. NÃO CONHECIMENTO DOS EMBARGOS DE DIVERGÊNCIA. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA NA HIPÓTESE DE NÃO TER SIDO ANALISADO O MÉRITO DO RECURSO ESPECIAL. SÚMULA 315/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. São inadmissíveis os embargos de divergência quando a parte recorrente deixa de comprovar a alegada divergência nos termos do art. 1.043, § 4º do CPC/2015 e do art. 266, § 4º do Regimento Interno do Superior Tribunal de Justiça. Não incidência do comando inserto no parágrafo único do art. 932 do CPC/2015. Precedentes.
+2. Acrescente-se que não houve cotejo analítico entre o acórdão embargado e os apontados como paradigmas, tendo a parte recorrente se limitado a trazer argumentos jurídicos em apoio à sua tese, sem realizar a necessária comparação entre os julgados. Descumpriu-se, assim, o requisito de admissibilidade previsto no art. 1.043, § 4º, do CPC/2015 e no art. 266, § 4º, do RISTJ.
+3. O não cabimento dos embargos de divergência no caso concreto é bastante claro, em virtude de não ter sido analisado o mérito do recurso especial no acórdão embargado, atraindo a incidência da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.".
+4. Cabem embargos de divergência para atacar acórdão de órgão fracionário que divergir do julgamento de qualquer outro órgão do mesmo tribunal, em duas hipóteses: 1) sendo os acórdãos, embargado e paradigma, de mérito (art. 1.043, inc. I); ou 2) sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia (art. 1.043, inc. III). Nenhuma destas é a hipótese dos autos. Precedentes do STJ.
+5. A possibilidade de oposição de embargos de divergência contra acórdão que discuta requisito de admissibilidade de recurso especial não é viabilizada pelo §2º do art. 1.043 do CPC/2015. Isso porque a redação do art. 1.043, §2º do CPC/2015 ("A divergência que autoriza a interposição de embargos de divergência pode verificar-se na aplicação do direito material ou do direito processual.") refere-se à possibilidade do cabimento de embargos de divergência contra acórdão que, ao julgar recurso especial, tenha apreciado controvérsia que consista na aplicação do direito material ou do direito processual. Tal não autoriza a conclusão, entretanto, de que seria possível a oposição de embargos de divergência contra acórdão que não conheceu de recurso especial em virtude da ausência de requisito de admissibilidade.
+6. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp 15.211/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 03/06/2020, DJe 18/06/2020 - grifamos)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INCIDÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MAJORAÇÃO DOS HONORÁRIOS. ART. 85, § 11, DO CPC. CABIMENTO. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Incidência da Súmula n. 315/STJ.
+2. (..)
+3. Agravo interno não provido.
+(AgInt nos EAREsp 1264064/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 27/08/2019, DJe 02/09/2019 - grifamos)
+PROCESSUAL CIVIL. MÉRITO DO RECURSO ESPECIAL NÃO EXAMINADO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. DESCABIMENTO DE EMBARGOS DE DIVERGÊNCIA.
+1. A jurisprudência do STJ firmou-se no sentido de que considera incabíveis os embargos de divergência contra acórdão que não adentra o mérito do recurso especial, esbarrando em técnica de admissibilidade de recursos. Exegese da Súmula 315/STJ - "Não se admite a oposição de embargos de divergência contra decisão proferida em sede de agravo de instrumento, quando não é examinado o mérito do recurso especial".
+2. A finalidade dos embargos de divergência é a uniformização de teses interpretativas dissoantes, o que nem sequer ocorre quando o aresto objeto dos embargos não ultrapassa o juízo de conhecimento, como na hipótese dos autos, em que o acórdão impugnado não conheceu do agravo regimental por aplicação da Súmula 182/STJ. Precedentes.
+3. Descabe ao STJ examinar na via especial, nem sequer a título de prequestionamento, eventual violação de dispositivo constitucional, porquanto tarefa reservada ao STF.
+Agravo interno improvido.
+(AgInt nos EAREsp 398.790/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 05/10/2016, DJe 14/10/2016 - grifamos)
+No mesmo norte hermenêutico: AgInt nos EAREsp 379.075/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 22/11/2017, DJe 04/12/2017; AgInt nos EAREsp 1017293/SE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 19/12/2017; AgRg nos EAREsp 64.002/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 22/02/2017, DJe 01/03/2017; AgRg nos EAREsp 478.008/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/03/2016, DJe 01/04/2016.
+2. Ademais, constata-se quenão foi efetuado o necessário cotejo analítico entre o acórdão embargado e os paradigmas indicados,olvidando-se a parte embargante de evidenciar a similitude de base fática dos casos confrontados e a divergência de resultados em torno da mesma questão jurídica, ficando, assim, desatendida a regra do art. 266, § 1º, c/c 255, § 2º, do RISTJ.
+O que se observa, de fato, é a simples transcrição da ementa do aresto apontado como divergente, sem que aembargante tenha realizado a necessária confrontação analítica dos acórdãos a fim de demonstrar, de modo inequívoco, as circunstâncias que identificariam ou assemelhariam os casos confrontados.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica quanto à imperiosa necessidade de confrontação analítica dos arestos entre os quais se alega existir conflito de tese jurídica. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA NÃO COMPROVADA NOS TERMOS DOS ARTS. 255 E 266 DO RISTJ. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade, não havendo qualquer um desses pressupostos, rejeitam-se os mesmos.
+II - A mera transcrição ou juntada de ementas não é suficiente para a demonstração da alegada divergência jurisprudencial, sendo necessário o confronto dos acórdãos embargado e paradigma, para verificação dos pontos em que se assemelham ou diferenciam.
+III - Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAg 1371617/MS, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 01/07/2014, DJe 05/08/2014 - grifamos)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO NÃO DEMONSTRADO. TESE NÃO DECIDIDA. INDEFERIMENTO LIMINAR.
+1. Não se conhece dos embargos de divergência quando o recorrente não procede à demonstração do dissídio nos moldes exigidos pelo CPC e pelo Regimento Interno do STJ.
+2. Não é suficiente para a comprovação do dissídio a juntada aos autos do inteiro teor dos acórdãos citados como paradigmas e a transcrição das respectivas ementas. A divergência deve ser demonstrada no bojo da própria peça recursal, por meio do cotejo analítico entre o decisum recorrido e os arestos dissonantes.
+3. Ademais, a tese jurídica de que outra peça constante nos autos - sequer declinada pelo embargante - supriria a falta da certidão de intimação do acórdão recorrido não foi objeto de decisão. Não constituem os embargos de divergência recurso adequado para o rejulgamento da causa.
+4. Agravo regimental não provido.
+(AgRg nos EAg 1240495/MS, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 02/05/2012, DJe 15/05/2012 - grifamos)
+RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL. PRETENSÃO DE SIMPLES REFORMA. FUNDAMENTOS DA DECISÃO MANTIDOS. AUSÊNCIA DO COTEJO ANALÍTICO.
+1. Segundo o entendimento firme desta Corte, o manejo dos embargos de divergência deve atender ao disposto no art. 255 do RISTJ, com a caracterização do dissídio jurisprudencial a partir do cotejo analítico, não servindo a mera transcrição de ementas.
+2. Por outro lado, não se admite a interposição contra decisum que não abrangeu o mérito do recurso especial. Aplicação da Súmula 315 desta Corte.
+3. Agravo desprovido.
+(AgRg nos EREsp 1196175/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 02/05/2012, DJe 15/05/2012 - grifamos)
+3. Do exposto,com fundamento art. 266-C, do RISTJ c/c Súmula 568/STJ, nega-se provimento aos embargos de divergência.
+Publique-se. Intimem-se.
