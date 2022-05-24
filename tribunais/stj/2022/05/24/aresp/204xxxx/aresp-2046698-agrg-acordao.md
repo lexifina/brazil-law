@@ -1,0 +1,38 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. INOVAÇÃO RECURSAL. DESCABIMENTO. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. PREJUÍZO AO ERÁRIO. MOTIVAÇÃO VÁLIDA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+1. É incabível a inovação recursal em agravo regimental, pela preclusão consumativa.
+2. O crime do art. 313-A do CP, embora exija o especial fim de agir de causar dano ou obter vantagem ilícita, se consuma independentemente da efetiva provocação de qualquer prejuízo aos cofres públicos. Assim, a inserção de dados falsos que também causa dano ao erário (R$ 20.211,02, neste caso) é, evidentemente, mais gravosa do que a inserção que não o fez, autorizando a valoração negativa das consequências do crime na primeira fase da dosimetria da pena.
+3. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do recurso e, nessa parte, negar-lhe provimento. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por VERA LUCIA DA SILVA SANTOS, contra decisão monocrática que negou provimento ao seu recurso especial (e-STJ, fls. 2.371-2.372).
+A parte agravante aduz, em síntese, que: (I) incidiria ao caso o princípio da insignificância, tendo em vista a pequena monta do prejuízo causado à Administração Público; (II) careceria de motivação idônea a valoração negativa das consequências do delito, na primeira fase da dosimetria da pena; e (III) seria excessivo o quantum de aumento da pena-base aplicado na origem.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. INOVAÇÃO RECURSAL. DESCABIMENTO. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. PREJUÍZO AO ERÁRIO. MOTIVAÇÃO VÁLIDA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+1. É incabível a inovação recursal em agravo regimental, pela preclusão consumativa.
+2. O crime do art. 313-A do CP, embora exija o especial fim de agir de causar dano ou obter vantagem ilícita, se consuma independentemente da efetiva provocação de qualquer prejuízo aos cofres públicos. Assim, a inserção de dados falsos que também causa dano ao erário (R$ 20.211,02, neste caso) é, evidentemente, mais gravosa do que a inserção que não o fez, autorizando a valoração negativa das consequências do crime na primeira fase da dosimetria da pena.
+3. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Inicialmente, confiram inovações recursais os argumentos da defesa sobre a aplicação do princípio da insignificância e o quantum de aumento atribuído às circunstâncias judiciais desfavoráveis, na primeira fase da dosimetria da pena, porque não foram suscitados no recurso especial, mas somente neste agravo regimental. Com efeito, a única matéria tratada no recurso especial (e-STJ, fls. 2.237-2.252) foi o afastamento da valoração negativa das consequências do crime, silenciando o recurso sobre os demais pontos.
+Embora mencione a aplicação dos patamares de R$ 10.000,00 e R$ 20.000,00 como parâmetro para a aplicação do princípio da insignificância em crimes tributários (e-STJ, fls. 2.243-2.246)), o recurso especial o faz não para pedir a absolvição da ré, mas sim para considerar neutras as consequências do crime, já que o dano ao erário foi um pouco superior a R$ 20.000,00. Logo, a preclusão consumativa obsta o conhecimento das inovações em sede de agravo regimental. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. PLEITO PELA INCIDÊNCIA DA SÚMULA 456/STF. INSUBSISTENTE. PEDIDO DE LIBERAÇÃO DE, AO MENOS, 1/3 (UM TERÇO) DOS VALORES BLOQUEADOS. TESE NÃO AVENTADA NAS RAZÕES DO APELO NOBRE INTERPOSTO. INOVAÇÃO EM SEDE DE AGRAVO REGIMENTAL. DESCABIDA. FALECIMENTO DO ACUSADO, EXTINÇÃO DA PUNIBILIDADE APÓS A CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. PEDIDO SUBSIDIÁRIO PELO DESBLOQUEIO DE 50% (CINQUENTA POR CENTO) DO MONTANTE OBJETO DA CONSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. PLEITO PELA LIBERAÇÃO DOS BENS BLOQUEADOS NO EXTERIOR. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. O pleito relativo à liberação de, ao menos, 1/3 (um terço) dos valores bloqueados, não foi suscitado nas razões do recurso especial e, portanto, constitui-se em inovação recursal, descabida no âmbito do agravo regimental, pela preclusão consumativa.
+ ..
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido".
+(AgRg no AREsp 1789841/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/10/2021, DJe 19/10/2021)
+No mais, como afirmei quando do julgamento monocrático, a respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Para subsidiar este julgamento, transcrevo os argumentos do TRF ao avaliar as consequências do delito:
+"Nas razões de Apelação, a Defesa argumenta com o excesso na valoração da reprimenda, eis que seria descabida a exasperação da pena com base no prejuízo causado aos cofres públicos, pois este consubstanciaria um elemento próprio do tipo penal em questão.
+Ocorre que o delito em questão, como visto precedentemente, constitui-se como crime formal, que se consuma no momento da adulteração do banco de dados, sendo o prejuízo dele decorrente mero exaurimento.
+Por isto, nada impede que o dano aos cofres públicos particularmente aferível e comprovado seja levado em conta sob o vetor judicial das consequências advindas do crime, que no caso ultrapassam a quantia de R$ 20.211,02" (e-STJ, fl. 2.204).
+Com efeito, o crime do art. 313-A do CP, embora exija o especial fim de agir de causar dano ou obter vantagem ilícita, se consuma independentemente da efetiva provocação de qualquer prejuízo aos cofres públicos. Assim, a inserção de dados falsos que também causa dano ao erário é, evidentemente, mais gravosa do que a inserção que não o fez. Por isso, a valoração desfavorável das consequências do delito atende aos princípios da isonomia e da individualização da pena, porque a conduta da recorrente apresenta um plus de reprovabilidade que não se confunde com as elementares típicas do crime.
+Não há, consequentemente, ilegalidade a autorizar a excepcional intervenção deste STJ na dosimetria feita pelas instâncias ordinárias.
+Ante o exposto, conheço em parte e, nesta extensão, nego provimento ao agravo regimental.
+É o voto.
