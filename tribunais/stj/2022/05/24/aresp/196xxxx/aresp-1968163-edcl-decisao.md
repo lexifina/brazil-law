@@ -1,0 +1,115 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FMI SECURITIZADORA S/A e OUTRO contra decisão monocrática de lavra deste signatário (fls. 620-628, e-STJ), a qual, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ,conheceudo agravo edeu parcial provimento aorecurso especial,para reformar o acórdão recorrido efixar os honorários sucumbenciais em 10% sobre o valoratualizado da causa.
+Em suas razões de fls. 630-633, e-STJ, aembargante alega aocorrência de contradição na decisão embargada,pois, "conforme exposto na própria fundamentação da r. decisão embargada, em consonância com a disposição legal supracitada e com o disposto no REsp 1.746.072/PR (referido na própria decisão embargada e abaixo parcialmente transcrito), há nitidamente uma ordem preferencial quanto ao parâmetro a ser utilizado para fixação dos honorários de sucumbência. Ou seja: a sucumbência deve ser fixada PREFERENCIALMENTE sobre o valor da condenação e, SUBSIDIARIAMENTE, quando o julgado não possuir qualquer cunho condenatório, sobre o proveito econômico obtido e valor atualizado da causa" (fl. 632, e-STJ).
+Impugnação às fls. 892-899, e-STJ.
+É o relatório.
+Em homenagem aos princípios da economia processual e da fungibilidade, devem ser recebidos como agravo interno os embargos de declaração que contenham intuito infringente, tal como no presente caso.
+1. Ante as razões dispostas nos aclaratórios, agora recebidos como agravo interno, reconsidero a decisão monocrática de fls. 620-628, e-STJ.
+2.Trata-se de agravo em recurso especial interposto por FMI SECURITIZADORA S/A e OUTRO contra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 388, e-STJ):
+"CONTRATO - "Factoring" - Fraude na cessão e operação de crédito - Terceiro que se utilizou de dados da empresa autora para emitir títulos, notas fiscais e obter crédito - Falha no sistema de segurança da operadora, que não tomou as cautelas necessárias - Prova documental - Impossibilidade de transferência do risco - Desídia caracterizada - Precedentes - Negativação e protestos indevidos Indenização fixada em R$ 5.000,00 - Recurso improvido."
+Opostos embargos de declaração (fls. 436-438, e-STJ), restaram rejeitados (fls. 487-491, e-STJ).
+Nas razões do recurso especial (fls. 396-417, e-STJ), os recorrentes apontaram, além de dissídio jurisprudencial, violação aos seguintes artigos:
+(i) 1.022, I e II, do CPC/2015, ao fundamento de que "o v. acórdão deixou de se manifestar sobre questões relevantes, quais sejam i) quais seriam a diligências mínimas exigíveis para apuração da veracidade dos créditos adquiridos, não obstante a comprovação da cessão e depósito dos valores à Recorrente; ii) qual seria a razão para dispensa da necessidade de demonstração dos danos extrapatrimoniais sofridos pela Recorrida, que é pessoa jurídica; e iii) em que medida poderia haver majoração do ônus sucumbencial, se referido dispositivo legal impõe que deve ser observado os limites previstos nos parágrafos 2º e 3º, do art. 85, do Código de Processo Civil" (fl. 405, e-STJ);
+(ii) 186, 188, 293 e 927 do Código Civil, porquanto não restou demonstrado o dano moral na hipótese. No seu entendimento, "os sistemas de segurança das Recorrentes foram efetivos, na medida em que atestaram a validade das notas fiscais junto à Secretaria da Receita Federal, antes de efetivar o crédito dos valores". Defendem que "não havia como as Recorrentes preverem que as notas fiscais apontadas não corresponderiam a negócios jurídicos verdadeiros, quando os próprios sistemas de órgãos oficiais atestam o contrário" (fl. 407, e-STJ);
+(iii) 884 do Código Civil, pois, decidindo o acórdão pela necessidade de apuração em ação autônoma dos pagamentos indevidos realizados pelas rés à autora, acarretou-se o enriquecimento sem causa da recorrida;
+(iv) 85, §§ 2º e 3º do CPC/2015, sustentando, em síntese, a impossibilidade de fixação da verba honorária com base na regra da equidade.
+Contrarrazões às fls. 508-551, e-STJ.
+Em juízo de admissibilidade (fls. 552-556, e-STJ), negou-se o processamento do recurso especial.
+Daí o agravo (fls. 559-583, e-STJ), buscando destrancar o processamento daquela insurgência, no qual os insurgentes refutaram os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 586-610, e-STJ.
+É o relatório.
+Decido.
+A irresignação merece parcial provimento.
+3. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem, de modo expresso e fundamentado, concluiu pela configuração da responsabilidade civil da parte recorrente, além considerar por correta a fixação dos honorários advocatícios com base na equidade (fls. 391-392; 490, e-STJ).
+Nota-se, portanto, que as alegações vertidas pelos insurgentes não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1.022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018) grifo nosso
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018) grifo nosso
+4. Os recorrentes alegam, ainda, ofensa aos arts. 186, 188, 293, 884 e 927 do Código Civil, sustentando a ausência de demonstração do dano moral na hipótese.
+Acerca do tema, no entanto, o acórdão recorrido registrou ter restado configurada a conduta ilícita do recorrido, bem como o abalo moral da parte agravada, na presente hipótese, considerando o seguinte (fls. 389-392, e-STJ):
+A autora-apelada ajuizou a presente ação objetivando a declaração de inexigibilidade de débito materializado em duplicatas e notas fiscais tidas como "frias".
+Postula, ainda, a indenização por danos morais, tendo em vista os gravames impostos pelas rés-apelantes, empresas responsáveis por realizar operações de crédito e cobras de títulos.
+O M. Juiz "a quo" acolheu os pedidos e reconheceu a fraude praticada por terceiro, aplicado adequadamente o direito vigente ao caso concreto (fls. 304/310).
+Com efeito, caracterizada a relação jurídica de "factoring" ou fomento mercantil, cumpre destacar a lição da doutrina:
+(..)
+Com isso, verifica-se, que é ônus da faturizadora tomar as cautelas necessárias nas operações, tendo o ônus de verificar de forma eficaz se o crédito existe e é hígido.
+(..)
+No caso concreto, reexaminando os elementos de prova apresentados pelas partes em conjunto, constata-se que as apelantes não foram diligentes o suficiente na aquisição dos títulos e, desta forma, não podem transferir o risco da sua atividade para a autora-apelada.
+Terceira pessoa, o Sr. THIAGO TREVISAN VIANA ou outro se passando por ele, utilizou-se dos dados da empresa autora para emitir notas fiscais e duplicatas.
+É o que se atesta com tranquilidade dos documentos de fls. 61 e 238, uma vez que não há correspondência de informações em relação aos mesmos títulos.
+Na posse dos títulos espúrios, o criminoso cedeu-as às apelantes, que adiantaram o crédito.
+Antes de adiantar o crédito, as apelantes não foram suficientemente diligentes, pois o sistema de segurança que envolve a atividade de faturamento foi violado.
+Neste ponto, cumpre reiterar a fundamentação do magistrado "a quo":
+"De fato, nota-se que o instrumento contratual (fls. 225/34) foi firmado pela internet em 13.06.2019, constando apenas um IP (177.183.174.134 fl. 234), bem como a senha eletrônica foi enviada, provavelmente, ao e-mail de "cadastro"(pratescamila98@gmail.com fl. 222), cujo vínculo com a empresa autora não contou qualquer comprovação" (fl. 305)
+O indigitado "e-mail" não pertence à apelada.
+Ora, as apelantes não verificaram a origem e identidade real da pessoa que tomou o crédito, o que é grave para a atividade que as apelantes desenvolvem.
+Não se pode dizer que a autora-apelada falhou com a divulgação dos seus dados pessoais, uma vez que com a venda das mercadorias, a lei exige a emissão de nota fiscal, as quais, necessariamente, contém informações pessoais da sociedade empresarial vendedora.
+Trata-se de informações divulgadas em todos contratos de compra e venda!
+Logo, não há dúvida de que há responsabilidade das apelantes pelo evento.
+Consequentemente, de rigor a condenação pelos danos morais, pois o nome e a imagem da sociedade empresarial foram maculados no mercado, afetando diretamente a sua honra objetiva (fl. 69/72).
+Desse modo, o provimento do pleito recursal, sob a ótica dos agravantes, demandaria que tais premissas fossem derruídas. Para tanto, todavia, seria necessária a reanálise de matéria fático-probatória, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Na forma do entendimento jurisprudencial do STJ, "resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem. Precedentes. Incidência da Súmula 83/STJ." (AgInt no AREsp 1858016/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+2. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação. Precedentes.
+3. Segundo entendimento firmado por esta Corte Superior, o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico. Precedentes.
+3.1. No caso sub judice, o Tribunal de origem consignou expressamente a comprovação da responsabilidade civil da agravante e a presença dos requisitos necessários à sua responsabilização no pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+3.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. Considerando que o valor fixado pelo Tribunal Estadual, à título de danos morais, não se mostra excessivo, conclui-se que a pretensão das recorrentes esbarra na Súmula 7 desta Corte, óbice que também impede a análise do dissídio jurisprudencial.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1935521/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/02/2022, DJe 09/03/2022)
+Ademais, importante consignar que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confira-se:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO EXPERIMENTAL. RECUSA DE COBERTURA. IMPOSSIBILIDADE. ROL DA ANS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA Nº 568 DO STJ. COPARTICIPAÇÃO. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. DANO MORAL. CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO INTERPRETIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+6. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no REsp 1929629/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+5. De outra parte, melhor sorte assiste aos recorrentes.
+Na origem ajuizou-se ação declaratória de inexistência de débito cumulada com pedido de indenização por danos morais, em face da parte ora agravante. Foi dado à causa o valor de R$ 35.538,59 (trinta e cinco mil, quinhentos e trinta e oito reais e cinquenta e nove centavos).
+A sentença, julgando parcialmente procedente o pedido, declarou a inexistência de relação jurídica entre as partes e a inexigibilidade do débito, condenou a parte requerida ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais) e arbitrou os honorários sucumbenciais em R$ 3.000,00 (três mil reais) em favor da parte autora.
+O Tribunal local, por sua vez, ao negar provimento à apelação cível dos réus, majorou os honorários sucumbenciais para o valor de R$ 5.000,00 (cinco mil reais). Veja-se (fl. 392, e-STJ):
+Em razão do resultado, majora-se os honorários advocatícios sucumbenciais para R$ 5.000,00 (art. 85, §11º do CPC).
+Acerca dos honorários advocatícios, no julgamento dos aclaratórios, a Corte local assentou o seguinte (fl. 490, e-STJ):
+Por fim, não há vício na majoração dos que o honorários advocatícios sucumbenciais, uma (§8º) vez foi adotado o critério da equidade ante valor reduzido da condenação.
+Quando se utiliza o critério da de equidade, o juízo não está limitado ao percentual 20% do art. 85, §2º do CPC.
+Logo, não há vício no aresto, pois autos deste todos foram órgão os argumentos relevantes deduzidos nos apreciados, o que levou à conclusão julgador.
+Contudo, no julgamento do REsp 1.746.072/PR, a Segunda Seção do Superior Tribunal de Justiça confirmou o entendimento de que os honorários advocatícios só podem ser fixados com base na equidade de forma subsidiária, quando não for possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa.
+Nesse sentido, confira-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a. I) nas causas de pequeno valor; (a. II) nas de valor inestimável; (a. III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a. IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b. I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b. II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir:
+(5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa;
+(5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019)
+O § 8º do art. 85 do NCPC determina que "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+E, na linha da jurisprudência desta Casa, "o § 8º do art. 85 do NCPC somente será aplicável nas causas em que for impossível atribuir valor ao bem jurídico pleitado" (EDcl no AREsp 737.982/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017).
+Não se vislumbra, assim, nenhuma das hipóteses previstas no § 8º do artigo 85 do CPC/1973 e autorizativas da fixação dos honorários por apreciação equitativa. Outrossim, o § 6º do artigo 85 determina que "os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+Dessa forma, cabia o arbitramento dos honorários advocatícios sucumbenciais pela regra geral exposta no § 2º do mesmo dispositivo legal: "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos: I - o grau de zelo do profissional; II - o lugar de prestação do serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço", razão pela qual merece ser acolhida a irresignação, no ponto.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO QUANTO À INCIDÊNCIA DO ART. 85, § 8º DO NCPC. CAUSA DE VALOR INESTIMÁVEL. INEXISTÊNCIA. VALOR DO BEM JURÍDICO PLEITEADO QUE PODE SER MENSURADO. INCIDÊNCIA DO ART. 85, §§ 2º E 6º DO NCPC. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR ATUALIZADO DA CAUSA. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+ ..
+3. O § 8º do art. 85 do NCPC somente será aplicável nas causas em que for impossível atribuir valor ao bem jurídico pleitado.
+4. Consta expressamente no § 6º do art. 85 do NCPC a determinação de aplicação dos critérios previstos no § 2º nos casos de improcedência ou de sentença de resolução de mérito.
+5. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AREsp 737.982/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+6. Do exposto, recebo os embargos de declaração como agravo interno e reconsidero a decisão impugnada (fls. 620-628, e-STJ). Por conseguinte,com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ,conheço do agravo edou parcial provimento aorecurso especial,para reformar o acórdão recorrido efixar os honorários sucumbenciais em 20% sobre o valoratualizado da condenação.
+Em consequência, julgam-se prejudicados os embargos de declaração opostos porSEBAL COMÉRCIO DE BALANÇAS LTDA - ME (fls. 645-660, e-STJ).
+Publique-se.
+Intimem-se.
