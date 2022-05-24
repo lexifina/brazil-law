@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1009263-90.2022.8.11.0000
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto por IMOPAR INCORPORAÇÃO, CONSTRUÇÃO E EMPREENDIMENTOS IMOBILIÁRIOS EIRELI e LYSANDER LIMA DE FRANÇA em virtude da decisão proferida pelo Juiz da 4.a Vara Cível da Comarca de Várzea Grande que, nos autos da Tutela Cautelar de Urgência em Caráter Antecedente n.o 1001372-12.2022.811.0002, movida em desfavor da empresa CANAL LIVRE COMÉRCIO E SERVIÇOS LTDA, indeferiu o pedido de tutela formulado na inicial.
+Inconformados, os Recorrentes almejam a reforma da decisão objurgada, ao argumento de que, em 19/08/2021, adquiriram dois imóveis por meio leilão público realizado pela Caixa Econômica Federal, registrados na matrícula n.o 75.976, ambos situados no Loteamento “Jardim América” n.o 15 e n.o 14 da quadra 04, localizados Rua São Bernardo, n.o 101, Centro, Várzea Grande – MT, CEP 78.110-660, pelo valor de R$ 399.135,00 (trezentos e noventa e nove mil, cento e trinta e cinco reais).
+Aduzem que realizaram o pedido de registro das escrituras junto à matrícula dos imóveis em 16/09/2021, conforme o comprovante de protocolo no 1.o Serviço de Registro de Imóveis e Títulos e Documentos de Várzea Grande.
+Afirmam que estão sendo impedidos de usufruir o imóvel, visto que o Agravado permanece no bem, mesmo cientificado da aquisição da propriedade mediante notificação para desocupar voluntariamente o bem, consoante prova a correspondência extrajudicial recebida em 22/10/2021.
+Asseveram que houve outras tentativas de tomar posse do imóvel, conforme o registro dos Boletins de Ocorrências em 20/09/2021 e 19/01/2022, ficando comprovada a necessidade de intervenção judicial para garantir os seus direitos.
+Ressaltam que a posse exercida pelo Recorrido é precária e injusta, de modo que deve ser concedida a imediata imissão na posse aos Agravantes.
+Forte nesses argumentos, pugnam pela expedição de mandado de Imissão da Posse em desfavor do Agravado e o provimento do recurso.
+No mérito, pugnam pelo provimento do Instrumental.
+É, no essencial, o relatório. DECIDO.
+Pelos argumentos trazidos e documentação carreada nos autos, entendo presentes, ao menos prima facie, os requisitos previstos no artigo 300 do CPC/15, a fim de conceder o efeito pretendido, nos termos do inciso I do artigo 1.019 do citado Codex.
+Isso porque, a priori, a probabilidade do direito invocado resta demostrada, uma vez que, até prova em contrário, os imóveis foram adquiridos de quem detinha a propriedade.
+No caso em comento, analisando os autos principais na origem, verifica-se que a propriedade dos imóveis acima mencionados foi consolidada regularmente em nome da credora fiduciária CAIXA ECÔMICA FEDERAL, em 18 de setembro de 2019, conforme se vê da Matrícula no 75.976 do 1o Serviço Notarial e de Registro de Várzea Grande-MT, mais precisamente da AV/15: 75.976 (ID no 73892195 – do feito principal).
+Assim sendo, com a consolidação da propriedade, os bens passaram a integrar o patrimônio da instituição financeira, nos termos do artigo 26, § 7o, da Lei no 9.514/97, que em cumprimento ao disposto do artigo 27 e seguintes, da Lei no 9.514/87, realizou os leilões extrajudiciais dos bens, oportunidade em que mais uma vez poderiam os devedores efetuar a purgação da integralidade da dívida e dos respectivos encargos moratórios.
+Na hipótese, após a designação das datas para leilões, não houve a purgação da dívida e muito menos a arrematação dos bens, levando a instituição financeira a lavrar o “termo de quitação do débito”, extinguindo a dívida, nos termos dos §§ 5o e 6o do artigo 27 da Lei no 9.514/87. A partir de então, poderia vender o imóvel para quem bem entendesse, com o fez, vendendo para os agravantes.
+Portanto, conforme se denota, os agravantes adquiriram os imóveis do real proprietário, o que por si só demonstra a relevância da fundamentação.
+Ademais, entre o adquirente incontroverso de um imóvel do real proprietário e a permanência daquele que o ocupa de forma precária, com mínima possibilidade reaver o bem, deve prevalecer o primeiro, já que a posse do segundo passa a ser injusta, maculando por completo o seu direito.
+De igual sorte, mostram-se presentes os danos de difícil reparação – até porque, a cada mês que se passa, o prejuízo dos novos alienantes aumentam, os quais, além de serem tolhidos da posse do seu imóvel para uso e gozo, encontram-se sem receber os frutos civis, inclusive com fortes indícios de enriquecimento ilícito do antigo possuidor que permanece nos bens sem pagar um vintém para ninguém.
+Ante o exposto, e verificando presentes os requisitos legais, concedo a tutela de urgência liminar a fim de determinar que a parte agravada desocupe voluntariamente o imóvel no prazo de trinta (30) dias, sob pena de ser retirado coercitivamente, sendo desnecessária a aplicação da multa pretendida pelos agravantes.
+Comunique-se ao Juiz da causa do teor desta decisão, devendo ser expedido o competente mandado de intimação para que a agravada/requerida desocupe voluntariamente o imóvel no prazo de trinta (30) dias, sob pena de ser retirado coercitivamente.
+No mais, intime-se o agravado para, querendo, apresentar contraminuta, nos termos do artigo 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 24 de maio de 2022.-
+Des.a Marilsen Andrade Addario
+Relatora em substituição legal
