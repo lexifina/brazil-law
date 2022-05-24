@@ -1,0 +1,33 @@
+DECISÃO
+1. ANA LÚCIA GOMES PEREIRA GADELHAajuizou ação rescisória, visandodesconstituir acórdão proferido no Agravo de Instrumento nº0802579-69.2015.8.15.0000, oriundo do Tribunal de Justiça do Estado da Paraíba.
+O TJPB, por sua vez, declinou da competência, por considerar que o julgamento do agravo de instrumento foi sucedido por recurso de agravo interposto no STJ (AREsp 1.430.703/PB), em que houve efetiva análise meritória da controvérsia.
+É o breve relatório.
+Passo a decidir.
+2.A ação rescisória deve ser extinta tendo em vista o implemento do prazo de decadência do art. 975 do CPC.
+Segundo o enunciado n.º 401 da Súmula deste STJ, "o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial".
+Portanto, o termo inicial do prazo de decadência do direito de desconstituir, em ação rescisória, a coisa julgada material corresponde ao dia imediatamente seguinte ao término do prazo para a interposição do recurso em tese cabível contra o último pronunciamento judicial.
+No caso dos autos, o último pronunciamento judicial, uma decisão monocrática, foi publicado em 20/02/2019 e, sendo assim, o termo final do prazo de quinze dias para a interposição do agravo interno, em tese cabível contra este pronunciamento, se verificou em 15/03/2019.
+A despeito disso, a ação rescisória foi ajuizada em 17/03/2021, após o transcurso do prazo decadencial, de modo que deve ser extinta a pretensão.
+Ressalto, por fim, que, de acordo com a jurisprudência das três Seções deste STJ, a certidão emitida por funcionário do Poder Judiciário informa apenas a ocorrência, e não a data exata do trânsito em julgado.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÓRIA. PRAZO DECADENCIAL. CONTAGEM. TRÂNSITO EM JULGADO. SÚMULA 7/STJ. AFASTADA.
+1. O recurso não encontra óbice na Súmula 7/STJ, pois não há necessidade de reexaminar o conjunto probatório dos autos, mas apenas de dar nova valoração jurídica aos fatos mencionados no acórdão recorrido. Cinge-se a questão tão somente acerca de sua revaloração jurídica, à luz da jurisprudência consolidada deste Superior Tribunal de Justiça.
+2. O posicionamento deste Tribunal Superior está sedimentado no sentido de que "a decadência do direito de propor a ação rescisória se comprova pelo trânsito em julgado da última decisão proferida no processo, aferido pelo transcurso do prazo recursal e não unicamente pela certidão de trânsito em julgado, a qual apenas certifica que a decisão transitou em julgado" (AR 4.665/PE, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 19/5/2016).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1877751/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 11/10/2021, DJe 18/10/2021)  g.n.
+EMBARGOS DE DECLARAÇÃO EM AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. PRAZO DE DECADÊNCIA (CPC, ART. 495). CERTIDÃO EMITIDA PELO TRIBUNAL ATESTANDO A DATA DO TRÂNSITO EM JULGADO. INVOLUNTÁRIA INDUÇÃO A ERRO NA CONTAGEM DO PRAZO. DECADÊNCIA AFASTADA. RECURSO PROVIDO, COM EFEITOS INFRINGENTES.
+1. Sendo ônus da parte a contagem do prazo de decadência para o manejo da ação rescisória, a interpretação errônea de certidão, que apenas ateste a ocorrência do trânsito em julgado, sem especificar a data em que se teria consumado o biênio, deve ser suportada pelo próprio interessado.
+2. Todavia, a certidão emitida pelo Tribunal atestando não só o trânsito em julgado, mas também a data exata do trânsito em julgado do acórdão, confere à parte prejudicada por eventual equívoco a justa expectativa do manejo tempestivo da ação rescisória dentro do prazo certificado, em vista do princípio da fé pública que emana das certidões e dos documentos públicos em geral.
+3. Mesmo em se tratando de prazo decadencial, há situações em que excepcionalmente se admite sua prorrogação, como no caso dos autos, em que se justifica a dilação em vista do equívoco cometido pelo Judiciário.
+4. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl na AR 4.374/MA, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 08/05/2013, DJe 01/08/2013)  g.n.
+PROCESSUAL CIVIL. NOVOS EMBARGOS DE DECLARAÇÃO. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. VÍCIOS INEXISTENTES. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Esta Corte Superior posicionou-se de forma clara, adequada e suficiente ao concluir que "a decadência da ação rescisória se comprova pelo trânsito em julgado da última decisão proferida no processo de conhecimento, aferido pelo transcurso do prazo recursal e não pela certidão de trânsito em julgado que, ademais, não aponta o trânsito naquela data, mas apenas certifica que a decisão transitou em julgado" (AgRg na AR 2.946/RJ, Rel. Ministra Maria Thereza de Assis Moura, DJe 19.3.2010).
+2. A certidão juntada aos autos pelo autor da ação rescisória, junto à petição inicial, não foi aquela expedida pelo site desta Corte Superior e sim aquela presente dentro do processo que, pela leitura, verifica-se que se limita a atestar o fato de haver escoado o prazo para a interposição de recurso, sem, contudo, indicar a data em que efetivamente ocorreu o trânsito em julgado.
+3. "Sendo ônus da parte a contagem do prazo de decadência para o manejo da ação rescisória, a interpretação errônea de certidão, que apenas ateste a ocorrência do trânsito em julgado, sem especificar a data em que se teria consumado o biênio, deve ser suportada pelo próprio interessado" (EDcl na AR 4.374/MA, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 08/05/2013, DJe 01/08/2013).
+4. A parte embargante requer o prequestionamento de matéria constitucional; entretanto, o Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal, motivo pelo qual não se pode conhecer da dita ofensa ao artigo 5º, incisos XXXV, LIV e LXXVIII, da Constituição Federal.
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl na AR 3.605/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 09/09/2015, DJe 16/09/2015)  g.n.
+3. Ante o exposto, com base no art. 975 c/c art 487, II, ambos do CPC, implementado o prazo dedecadência, extingoa açãorescisóriacom julgamento do mérito, sem fixar honorários advocatícios em favor da ré, tampouco decretaroperdimento da multa rescisória, porquanto ainda não angularizada a relação processual.
+Por conseguinte, fica prejudicado o exame da liminar.
+Publique-se. Intimem-se.
