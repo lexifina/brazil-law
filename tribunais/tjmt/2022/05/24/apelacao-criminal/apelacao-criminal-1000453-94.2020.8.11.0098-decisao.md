@@ -1,0 +1,12 @@
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+PRIMEIRA CÂMARA CRIMINAL
+Des. Orlando de Almeida Perri
+APELAÇÃO CRIMINAL (417) No 1000453-94.2020.8.11.0098
+APELANTE: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+APELADO: JAILSON DOMINGUES SAO BERNARDO
+Vistos, etc.
+Remetam-se os autos a Procuradoria-Geral de Justiça para parecer.
+Cumpra-se.
+Cuiabá, 24 de maio de 2022.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator.
