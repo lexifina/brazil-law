@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialmanejado por JOSÉAUGUSTO GABAScontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassimementado (e-STJ, fl. 195):
+DIREITO PREVIDENCIÁRIO. BENEFÍCIO DE AUXÍLIO-DOENÇA/APOSENTADORIA POR INVALIDEZ. PRESENÇA DOS REQUISITOS LEGAIS. CESSAÇÃO DO BENEFÍCIO. CONSECTÁRIOS.
+- A Lei nº 8.213/91 preconiza, nos arts. 42 a 47, que o benefício previdenciário da aposentadoria por invalidez será devido ao segurado que tiver cumprido o período de carência exigido de 12 (doze) contribuições mensais, estando ou não em gozo de auxílio-doença, for considerado incapaz e insusceptível de reabilitação para o exercício da atividade que lhe garanta a subsistência e a condição de segurado.
+- O benefício de auxílio-doença, por sua vez, é devido ao segurado que tiver cumprido o período de carência exigido de 12 contribuições mensais e for considerado temporariamente incapacitado para o seu trabalho ou para a sua atividade habitual, por mais de 15 dias consecutivos e possuir a condição de segurado (arts. 59 a 63 da Lei de Benefícios).
+- O conjunto probatório não evidencia a existência de invalidez da parte autora para o exercício de qualquer trabalho, tornando inviável a concessão da aposentadoria por invalidez.
+- Presentes os requisitos indispensáveis à concessão do benefício de auxílio-doença, especialmente, a comprovação da incapacidade laborativa, de natureza temporária, o pedido é procedente.
+- Considerando a dependência de realização de cirurgia pelo sistema público de saúde, e tendo em vista o interregno já decorrido do prazo estimado pelo perito judicial, fixado o prazo de cessação do benefício em 12 meses contados da publicação do acórdão, caso não seja deferido pedido administrativo de prorrogação do auxílio-doença antes do término do prazo em questão.
+- Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c/c. § 11, do artigo 85, do CPC/2015.
+- Apelação da parte autora provida em parte.
+É o relatório.
+A questão jurídica referente à fixação de data de cessação de benefíciopelo Poder Judiciário, considerando a aplicabilidade ou não do art. 60, §§ 8º e 9º, da Lei n. 8.213/1991 e a necessidade deavaliação pericial a cargo do INSS para alta médica teve a repercussão geral reconhecidapelo Supremo Tribunal Federalnos seguintes termos:
+Tema 1.196/STF:Constitucionalidade da Medida Provisória 739/2016, substituída pela Medida Provisória 767/2017 e convertida na Lei 13.457/2017, as quais alteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado para a duração do benefício.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
