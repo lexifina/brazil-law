@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por ANA KARINA ESSERT KELLER e OUTROS, contra decisão que não admitiu recurso especial (fls. 386/387 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 220, e-STJ):
+Agravo de instrumento. Execução de cédula rural hipotecária. Decisão agravada que determina a suspensão do feito pelo prazo de 180 dias em razão do processamento da recuperação judicial dos executados pessoas físicas e produtores rurais. Possibilidade de suspensão do feito executivo em relação ao devedor principal do título. Art. 6º da Lei nº 11.101/2005. Alegações de ilegitimidade do produtor rural em requerer a recuperação judicial e alcance desta em relação ao débito executado. Matérias que competem ao juízo recuperacional. Manutenção da suspensão do feito executivo em relação ao emitente da cédula executada. Ausência de homologação de plano de recuperação judicial em que conste a extensão da suspensão à devedora solidária. Prosseguimento da execução contra a avalista. Reforma parcial. Recurso conhecido e provido em parte.
+Opostos embargos de declaração, foram rejeitados (fls. 292/294, e-STJ).
+Em suas razões de recurso especial, os recorrentes, ora agravantes, apontam ofensa aoartigo6º da Lei 11.101/05. Sustentam, em síntese, que a ação executiva não pode tramitar contra a avalista Ana Karina Essert.
+Após a apresentação das contrarrazões (fls. 372/383, e-STJ), o apelo não foi admitido na origem (fls. 386/387, e-STJ), dando ensejo ao agravo (fls. 397/402, e-STJ), visando destrancar o processamento daquela insurgência, no qual os recorrentes refutaram os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 413/429, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local estabeleceu como premissa fática que "O banco agravante adentrou em 24.11.2018 com execução em face dos ora agravados, Raimund Keller e Ana Karina Essert (mov. 1.1), a qual tem por objeto cédula rural hipotecária de nº 201605319 firmada em 08.09.2016 (mov. 1.4), bem como do seu aditivo pactuado em 14.09.2017 (mov. 1.5), tendo Raimund Keller constado como emitente e sua esposa Ana Karina Essert figurado como avalista.  ..  A suspensão da execução contra o devedor principal deve ser mantida." (fls. 222/223, e-STJ), ante o deferimento do processamento da recuperação judicial.
+Nesse contexto, concluiu que " .. é possível o prosseguimento do feito executivo contra a avalista do título.  ..  Ademais, embora a procedência do plano de recuperação judicial importe na novação das dívidas da empresa, tal benesse não se aplica aos avalistas, nos termos do art. 59 da lei11.101/2005 (fls. 225/227, e-STJ).
+Dessa forma, verifica-se que o acórdão está em conformidade com o entendimento desta Corte, pois "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória" (Súmula 581 do STJ).
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
