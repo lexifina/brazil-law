@@ -1,0 +1,22 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO ITAU CONSIGNADO S.Aem face de acórdão do Tribunal de Justiça do Estado do Mato Grosso assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DEINEXISTÊNCIA DE DÉBITO - MÚTUO CONSIGNADO - ADERENTEIDOSA, INDÍGENA E ANALFABETA - AUSÊNCIA DE INSTRUMENTOPÚBLICO - ARTIGOS 215, §2º E 595 DO CÓDIGO CIVIL - ARTIGOS 6º,III, 46 E 39, IV DO CÓDIGO DE DEFESA DO CONSUMIDOR - NULIDADE- RESTITUIÇÃO EM DOBRO DOS VALORES COBRADOSINDEVIDAMENTE - PRIVAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO -DANO MORAL CONFIGURADO - SENTENÇA REFORMADA - RECURSOPROVIDO.
+I - Em que pese o analfabetismo não afaste a capacidade plena para o exercício dos atos da vida civil, a nítida posição de vulnerabilidade que a circunstância acarreta no tráfego negocial exige das declarações de vontade o atendimento a requisitos especiais de validade, como a assinatura a rogo e a subscrição por testemunhas, além da celebração da avença ou a constituição do rogado através de instrumento público.
+II - Atua de má-fé a instituição financeira que, ciente do analfabetismo do aderente, celebra contrato de mútuo consignado à revelia das formalidades exigidas pela legislação de regência para a tutela do hipervulnerável, autorizando, por conseguinte, a repetição do indébito na forma qualificada (art. 42 do CDC).
+No recurso especial, o recorrente aponta, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) 1.022, II, do CPC, alegando que o acórdão recorrido padece de omissões relevantes; e (b) arts. 186 e 595 do CC e Decreto 5.051/2004, sustentando que (i) o contrato bancário não padece de qualquer nulidade, pois "na hipótese de contratação por analfabetos, o que a lei exige para a regularidade da celebração do contrato é justamente a assinatura a rogo, subscrita por duas testemunhas, o que rigorosamente foi observado no presente caso", (ii) não restou configurado qualquer ato ilícito praticado pela banco, razão pela qual a condenação à reparação dos danos morais deve ser afastada, e (iii) não há necessidade de instrumento público para formalização de empréstimo consignado com analfabeto, diante da inexistência de previsão legal impositiva.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+Trata-se de controvérsia afetada à Segunda Seção para julgamento sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, conforme o Tema 1.116, assim delimitado:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL INTERPOSTO NO CURSO DE AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL COM PEDIDO DE REPETIÇÃO DE INDÉBITO. CONTROVÉRSIA ACERCA DA VALIDADE DO CONTRATO DE EMPRÉSTIMO CONSIGNADO ASSINADO A ROGO POR PESSOA ANALFABETA NA PRESENÇA DE DUAS TESTEMUNHAS.
+1. Controvérsia acerca da validade da contratação de empréstimo consignado por pessoa analfabeta mediante assinatura a rogo na presença de duas testemunhas.
+2. Acórdão recorrido fundamentado em matéria de direito federal, especialmente nos arts. 166, inciso IV, e 595 do Código Civil.
+3. Anulação do contrato pelo Tribunal de origem, sob o fundamento da necessidade de instrumento público para a contratação do empréstimo.
+4. Existência de multiplicidade de recursos versando sobre essa mesma controvérsia.
+5. Necessidade de formação de precedente qualificado a respeito desse tema no âmbito deste Tribunal Superior.
+6. Questão federal afetada: "Validade (ou não) da contratação de empréstimo consignado por pessoa analfabeta, mediante instrumento particular assinado a rogo e subscrito por duas testemunhas".
+7. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.(ProAfR no REsp n. 1.938.173/MT, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 17/11/2021)
+Diante disso, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do CPC.
+Publique-se.
