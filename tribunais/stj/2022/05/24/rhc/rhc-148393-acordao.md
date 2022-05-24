@@ -1,0 +1,62 @@
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PLEITOS DE NULIDADE DA CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E REABERTURA DO PRAZO RECURSAL. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DA DEFENSORIA PÚBLICA. SENTENCIADO E DEFESA TÉCNICA PARTICULAR QUE FORAM DEVIDAMENTE INTIMADOS DA SENTENÇA E PERMANECERAM INERTES. PRINCÍPIO DA VOLUNTARIEDADE RECURSAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. No caso, a defesa técnica passou a ser exercida por advogado particular com a juntada do instrumento de procuração após a publicação da sentença, mas sem prejuízo quanto ao prazo recursal da apelação, tendo em vista a oposição pretérita de embargos de declaração pela Defensoria Pública, anterior responsável pela defesa do Recorrente.
+2. Nesse contexto, não há falar em obrigatoriedade de intimação da Defensoria Pública, pois o referido órgão não mais representava o Sentenciado ao tempo da publicação da decisão que rejeitou os embargos declaratórios. Ainda que o referido recurso tenha sido interposto pela defesa técnica anterior, o novo mandato outorgado importa em cessação da atuação do órgão de advocacia pública e impõe ao novo patrono o recebimento do processo no estado em que se encontra.
+3. O Sentenciado e a defesa técnica, mesmo devidamente intimados, não interpuseram o recurso de apelação.Nesse momento processual, em observância ao princípio da voluntariedade recursal, o Sentenciado e o defensor constituído têma opção de interpor recurso de apelação, de modo que a não interposição não caracteriza violação aos princípios do contraditório e da ampla defesa, sobretudo porque tal escolha pode estar alinhada às estratégias defensivas. Precedentes.
+4. Recurso ordinário em habeas corpus desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora. Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MAYKON DOUGLAS MELO DA SILVAcontra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro noHC n.0006632-08.2021.8.19.0000.
+Consta dos autos que o Recorrente, presentado pela Defensoria Pública do Estado do Rio de Janeiro durante o curso da ação penal,foi condenado, em primeiro grau de jurisdição,por sentença proferida em 15/01/2020, como incurso no art. 33,caput, da Lei n. 11.343/2006, às penas de 6 (seis) anos de reclusão, em regime inicial fechado, e 600 (seiscentos) dias-multa (fls. 262-264). Naoportunidade, foi decretada a prisão preventiva do Recorrente.
+Inconformada com o teor da sentença, a Defesa pública opôs embargos de declaração, no dia 06/02/2020 (fls. 274-277).
+Em 18/02/2020, o mandado de prisão foi cumprido (fls. 290 e 350).
+Todavia, em 19/02/2020, foi juntadoaos autos instrumento de procuração outorgado aadvogado particular (fls. 285-286). Posteriormente, os embargos foram rejeitados, por decisão proferida no dia 01/06/2020 (fl. 308).
+Intimado pessoalmente no dia 02/06/2020, o Sentenciado optou por "deixar a cargo da defesa técnica" a interposição do recurso de apelação (fls. 315-316).
+Então, no dia 14/07/2020, apenas o advogado particular foi intimado da decisão que rejeitou os aclaratórios (fl. 347). Não foi interposto recurso de apelação pelo advogado privado e, assim, a ação penal transitou em julgado em 20/07/2020 (fl. 359).
+Após, em 17/09/2020, a Defensoria Pública interpôs recurso de apelaçãocom a tese de que não foi intimada da decisão que apreciou os embargos de declaração. O recurso não foi recebido pelo Juízo de piso (fl. 408).
+Irresignada, a Defensoria Pública impetrouhabeas corpus, cuja ordem foi denegada pela Corte local em acórdão assim ementado (fl. 32):
+"HABEAS CORPUS. Artigo 33, caput, da Lei 11.343/2006. Condenação. Não recebimento do recurso de apelação, ao argumento de intempestividade.
+1- Processo originário em que a Defensoria Pública defendeu os interesses do paciente, apresentou alegações finais e interpôs Embargos de Declaração, que foram rejeitados.
+2- Paciente que, pessoalmente intimado da sentença, deixou a cargo da Defesa técnica a possibilidade de interposição de recurso e, após sentença, constituiu Advogado, o qual juntou procuração aos autos e, mesmo intimado da decisão dos Embargos de Declaração, quedou-se inerte.
+3- Considerando que, ao entrar nos autos, o novo Advogado assume a causa no estado em que se encontra, não há que se admitir renovação da intimação.
+4- Não há amparo à concessão da ordem pretendida, valendo salientar que, contra o não recebimento de apelação, há recurso próprio, a saber, o RSE, não sendo caso de HC.
+ORDEM DENEGADA."
+Nas razões deste recurso, o Recorrente sustenta,em síntese: a) a ausência de defesa técnica efetiva, o que viola a garantia constitucional da ampla defesa; e b) que a Defensoria Pública deveria ter sido intimada da decisão que rejeitou os embargos de declaração (art. 128, inciso I, da LC n. 80/1994).
+Requer, em liminar e no mérito, seja declarada nula a certificação do trânsito em julgado da ação penal com a reabertura de prazo para a apresentação de razões de apelação pela Defensoria Pública.
+O pedido liminar foi indeferido (fls. 437-439).
+Prestadas as informações (fls. 443-455), o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 460-465).
+É o relatório.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PLEITOS DE NULIDADE DA CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E REABERTURA DO PRAZO RECURSAL. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DA DEFENSORIA PÚBLICA. SENTENCIADO E DEFESA TÉCNICA PARTICULAR QUE FORAM DEVIDAMENTE INTIMADOS DA SENTENÇA E PERMANECERAM INERTES. PRINCÍPIO DA VOLUNTARIEDADE RECURSAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. No caso, a defesa técnica passou a ser exercida por advogado particular com a juntada do instrumento de procuração após a publicação da sentença, mas sem prejuízo quanto ao prazo recursal da apelação, tendo em vista a oposição pretérita de embargos de declaração pela Defensoria Pública, anterior responsável pela defesa do Recorrente.
+2. Nesse contexto, não há falar em obrigatoriedade de intimação da Defensoria Pública, pois o referido órgão não mais representava o Sentenciado ao tempo da publicação da decisão que rejeitou os embargos declaratórios. Ainda que o referido recurso tenha sido interposto pela defesa técnica anterior, o novo mandato outorgado importa em cessação da atuação do órgão de advocacia pública e impõe ao novo patrono o recebimento do processo no estado em que se encontra.
+3. O Sentenciado e a defesa técnica, mesmo devidamente intimados, não interpuseram o recurso de apelação.Nesse momento processual, em observância ao princípio da voluntariedade recursal, o Sentenciado e o defensor constituído têma opção de interpor recurso de apelação, de modo que a não interposição não caracteriza violação aos princípios do contraditório e da ampla defesa, sobretudo porque tal escolha pode estar alinhada às estratégias defensivas. Precedentes.
+4. Recurso ordinário em habeas corpus desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ(RELATORA):
+O Tribunal local rejeitou a tese ora sustentada em decisão assim fundamentada(fls. 35-36; sem grifos no original):
+"Compulsando os autos verifica-se que, durante o processo, a Defensoria Pública defendeu os interesses do paciente, apresentou alegações finais (Doc. 0000162, p 27/30 e 0000192, p. 1/10, Anexo 1), bem como interpôs Embargos de Declaração (Doc. 000212 p. 4/7, Anexo 1), que foram rejeitados.
+Além disso, verifica-se que o paciente foi pessoalmente intimado da sentença condenatória e deixou a cargo da Defesa técnica a possibilidade de interposição de recurso (Doc. 0000232, p. 25).
+Por outro lado, após a sentença, o paciente constituiu Advogado, este juntou procuração (Doc. 000021, p. 16) e, mesmo intimado da decisão que rejeitou os Embargos de Declaração interpostos pela Defensoria (Doc. 0000262, p. 26/27), quedou-se inerte.
+Sendo assim, considerando que, ao assumir a causa, o novo Advogado nela prossegue no estado em que se encontra, não há que se admitir renovação da intimação.
+Por isso, não há amparo à concessão da ordem pretendida, valendo salientar que, contra o não recebimento de apelação há recurso próprio, a saber, o RSE, não sendo caso de Habeas Corpus."
+Na hipótese, como se vê da decisão transcrita e das informações prestadas nestes autos pelo Juízo de primeiro grau, "o réu foi intimado, pessoalmente, da sentença, inclusive da rejeição dos embargos, deixando a cargo da defesa técnica" (fl. 444; sem grifos no original).
+A defesa técnica, por sua vez, passou a ser exercida por advogado particular com a juntada do instrumento de procuração após a publicação da sentença, mas sem prejuízo quanto ao prazo recursal da apelação, tendo em vista a oposição pretérita de embargos de declaração pela Defensoria Pública, anterior responsável pela defesa do Recorrente.
+Logo, não há falar em obrigatoriedade de intimação da Defensoria Pública neste caso, pois o referido órgão não mais representava o Sentenciado ao tempo da publicação da decisão que rejeitou os embargos declaratórios. Ainda que o referido recurso tenha sido interposto pela Defesa técnica anterior, o novo mandato outorgado importa em cessação da atuação do órgão de advocacia pública e impõe ao novo patrono o recebimento do processo no estado em que se encontra.
+No caso, publicada a decisão de rejeição dos embargos, a defesa técnica privada foi intimada com a reabertura do prazo para a interposição do recurso de apelação, todavia o advogado quedou-se inerte.
+Portanto, o Sentenciado e a defesa técnica, mesmo devidamente intimados, não interpuseram o recurso de apelação.Nesse momento processual, em observância ao princípio da voluntariedade recursal, o sentenciado e o defensor constituído têma opção de interpor recurso de apelação, de modo que a não interposição não caracteriza violação aos princípios do contraditório e da ampla defesa, sobretudo porque tal escolha pode estar alinhada às estratégias defensivas.
+A propósito:
+"PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO. NULIDADE. APELAÇÃO. CERCEAMENTO DE DEFESA. INTIMAÇÃO EM NOME DE UM DOS ADVOGADOS CONSTITUÍDOS QUE NÃO REALIZOU SUSTENTAÇÃO ORAL E NÃO INTERPÔS RECURSOS CONTRA O ACÓRDÃO DE APELAÇÃO. VOLUNTARIEDADE. AUSÊNCIA DE PEDIDO EXPRESSO DE SUSTENTAÇÃO ORAL. INTIMAÇÃO REGULAR POR MEIO OFICIAL.
+1. Em observância ao postulado da voluntariedade recursal, não há que se falar em nulidade pelo simples fato de que o advogado que assistia o paciente à época não interpôs recursos contra o acórdão proferido em apelação. Precedente.
+ ..
+4. Ordem denegada."(HC 536.255/PA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS INFRINGENTES E DE NULIDADE. AUSÊNCIA DE ELEMENTOS PARA A ANÁLISE DE EVENTUAL CONSTRANGIMENTO ILEGAL. PRINCÍPIO DA VOLUNTARIEDADE RECURSAL. NÃO EQUIPARAÇÃO COM FALTA DE DEFESA. NULIDADE DA CONDENAÇÃO. VIOLAÇÃO DE DOMICÍLIO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA NÃO VEICULADA INICIALMENTE NO WRIT. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI DE DROGAS. INVIABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+ ..
+2. A falta de interposição de recurso não pode ser equiparada à ausência de defesa, pois vige no sistema processual pátrio o princípio da voluntariedade recursal.
+ ..
+7. Agravo regimental desprovido."(AgRg no HC 521.485/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/10/2019, DJe 25/10/2019; sem grifos no original.)
+Desse modo, concluo que foi certificado, em conformidade com o procedimento legal, o trânsito em julgado da sentença para o ora Recorrente e seu Advogado, de forma que não se constata o constrangimento ilegal apontado pela Defesa.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário emhabeas corpus.
+É como voto.
