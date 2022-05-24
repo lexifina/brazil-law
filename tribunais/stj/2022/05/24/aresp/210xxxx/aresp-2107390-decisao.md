@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto porELOI JOSE WAGNERcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL. SUSPENSÃO DA EXECUÇÃO. NECESSIDADE DE PREENCHIMENTO DEFORMA CONCOMITANTE DE TODOS OS REQUISITOS DO ART. 919, §1º, DO CPC: A) REQUERIMENTO DO EMBARGANTE; B) RELEVÂNCIADA ARGUMENTAÇÃO; C) RISCO DE DANO GRAVE DE DIFÍCIL OUINCERTA REPARAÇÃO; E D) GARANTIA DO JUÍZO. (STJ, RESP1.732.340/RN, REL. MINISTRO OG FERNANDES, SEGUNDA TURMA,DJE 14.5.2018). ALEGAÇÃO DE ILEGITIMIDADE DE PARTE PASSIVA. REGISTRO DO IMÓVEL EM NOME DO AGRAVANTE. PROBABILIDADEDO DIREITO ALEGADO, CONSUBSTANCIADA NA RELEVÂNCIA DAARGUMENTAÇÃO, NÃO EVIDENCIADA. INDEFERIMENTO DASUSPENSÃO MANTIDO. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+No recurso especial, o recorrente aponta como violadooart. 919 do Código de Processo Civil, sustentando, em síntese, que forma cumpridos todos os requisitos para a concessão de efeitosuspensivo aos embargos à execução.
+Após decisum que inadmitiu o recurso especial em razão de sua intempestividade, foi interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não deve ser conhecido.
+Mediante análise do recurso, a parte recorrente foi intimada do acórdão recorrido em 20/09/2021, sendo o recurso especial interposto somente em 13/10/2021.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso, conforme se confere da ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+Recentemente, a mesma Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate de feriado de carnaval. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se entendeu que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de carnaval.
+Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado de carnaval, é aplicável a jurisprudência desta Corte no sentido já indicado acima de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
