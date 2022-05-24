@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 687 e-STJ):
+EMBARGOS DE DECLARAÇÃO. JUÍZO DE RETRATAÇÃO. "AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS". SEGURO DE VIDA. NEGATIVA. PETIÇÃO INICIAL QUE SE REFERE GENERICAMENTE À RECUSA DE PAGAMENTO DA INDENIZAÇÃO ADMINISTRATIVAMENTE. REQUERIDA QUE LEVANTA DUAS NEGATIVAS. QUESTÕES CONSIDERADAS E JULGADAS PELA R. SENTENÇA. LIMITE DA LIDE DEFINIDO. INVERSÃO DO ÔNUS DA PROVA. NÃO OCORRÊNCIA. ACORDÃO QUE RECONHECE A PRODUÇÃO DE PROVA MÍNIMA PELA AUTORA QUE DEVE SER DESCONSTITUÍDA PELA REQUERIDA. PRODUÇÃO DE PROVA PERICIAL DETERMINADA DE OFÍCIO. PRECLUSÃO. INOCORRÊNCIA. MAGISTRADO QUE TEM O PODER/DEVER DE DETERMINAR AS PROVAS QUE ENTENDA PERTINENTES COM VISTAS A ALCANÇAR RESULTADO MAIS PRÓXIMO DA VERDADE. APLICAÇÃO DO ARTIGO 370 DO CPC. ACORDÃO MANTIDO. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES, APENAS PARA SANAR OMISSÃO NO QUE TANGE A ALEGADA PRECLUSÃO.
+Em suas razões de recurso especial (fls. 711-743 e-STJ), a parte recorrente aponta violação aos arts. 373 e 507 do Código de Processo Civil de 2015, sustentando, em suma, o não cabimento da determinação de ofício, pelo Tribunal de origem, da produção de prova pericial, eis que a parte interessada, ora recorrida, não teria apresentadoa especificação de provas tempestivamente, tampouco recurso cabível contra o despacho saneador que anunciou o julgamento antecipado da lide, encontrando-se a questão da dilação probatória atingida pela preclusão.
+Contrarrazões às fls. 786-792 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 810-812 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência do óbice da Súmula 83/STJ.
+Daí o agravo (fls. 829-842 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 864-869 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1.O Tribunal de origem, ao apreciar a questão jurídica, rechaçou a ocorrência da preclusão da dilação probatória na espécie, sob a seguinte fundamentação (fls. 689-692 e-STJ):
+A embargante aduz haver omissão referente a questão da preclusão da prova pericial, uma vez que a decisão saneadora indeferiu a produção, reconhecendo a dispensabilidade da prova, não tendo sido a decisão recorrida, operando-se o instituto da preclusão.
+Todavia, diferente do que entende a seguradora embargante, não há que se falar em preclusão na espécie, visto que a determinação para a produção da prova pericial se deu ex officio, ante o reconhecimento de se mostrar indispensável a produção da prova para o deslinde da controvérsia.
+Cediço que ao magistrado, como destinatário da prova, incumbe a função de buscar a verdade para embasar seu convencimento, não podendo se valer de ilações ou presunções, mas, pelo contrário, chegar a urna versão mais próxima da verdade. (..).
+Ademais, o magistrado pode determinar a produção de provas de ofício no intuito de tentar dirimir as questões controvertidas no feito, é o que preceitua o artigo 370 do CPC: (..).
+In casu, não se mostra razoável que o ônus da prova recaia sobre a autora, ela tenha juntado documentos que constituem início de prova acerca da doença mencionada e, posteriormente, o feito ser julgado improcedente ao argumento de que a autora não demonstrou o grau de invalidez.
+Portanto, não há que se falar em preclusão na hipótese.
+Nota-se que, ainda que a seguradora defenda que da análise da sentença é possível constatar que o julgado aduz não ter havido pedido inicial quanto à doença ortopédica, necessário considerar que embora a exordial não deixe claro o pedido de indenização relativo a tal doença (síndrome do túnel do carpo), quando da contestação a embargante levanta claramente a questão que passou a ser discutida no processo, sendo inclusive, apreciada pelo magistrado a quo, que julgou improcedente o pedido:
+"Em relação ao segundo indeferimento, também não assiste razão à parte autora. Era imprescindível que a autora questionasse a averiguação do grau da síndrome, com a respectiva pontuação, e demonstrasse em que extensão está impossibilitada de desempenhar as suas atividades".
+Ora, caso a questão não tivesse sido discutida e considerada nos autos, não haveria razão para o magistrado fundamentá-la na sentença e, ainda, julgá-la improcedente, notadamente, por ausência de provas, o que, mais uma vez, justifica a imprescindibilidade da prova no caso concreto.
+Assim, acolhe-se parcialmente os aclaratórios, sem atribuição de efeitos infringentes, apenas para sanar a omissão referente à questão da preclusão.
+Com efeito, respeitada a iniciativa das partes em matéria probatória, o sistema processual pátrio (art. 130 do CPC/73, reproduzido integralmente pelo artigo 370 do CPC/15) propicia meios tanto ao Juiz, como ao Tribunal, formarem suas convicções na busca da verdade real.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA . ALEGAÇÃO DE ERRO MÉDICO. JUIZ QUE DETERMINA A BAIXA DOS AUTOS PARA REALIZAÇÃO DE NOVAS PROVAS. POSSIBILIDADE. PRINCÍPIO DA INVESTIGAÇÃO E DA VERDADE REAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. O artigo 130 do CPC permite ao julgador, em qualquer fase do processo, ainda que em sede de julgamento da apelação no âmbito do Tribunal local, determinar a realização das provas necessárias à formação do seu convencimento, mesmo existente anterior perícia produzida nos autos.
+2. Contudo, não é possível ao Julgador suprir a deficiência probatória da parte, violando o princípio da imparcialidade, mas, por óbvio, diante da dúvida surgida com a prova colhida nos autos, compete-lhe aclarar os pontos obscuros, de modo a formar adequadamente sua convicção.
+3. Recurso especial a que se nega provimento
+(REsp 906794/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 13/10/2010)
+Observa-se, assim, que a matéria discutida pela parte recorrente encontra-se pacificada nesta Corte Superior, nos termos do que decidido pelo Tribunal de origem, no sentido de que não há que se falar em preclusão pro judicatono campo probatóriopara o magistrado.
+Nesse sentido, confira-se os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. PREVISÃO CONTRATUAL DE REAJUSTE POR AUMENTO DE SINISTRALIDADE. POSSIBILIDADE. AFIRMAÇÃO GENÉRICA DE ABUSIVIDADE. INVIABILIDADE. APURAÇÃO NO CASO CONCRETO. NECESSIDADE. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. AGRAVO NO RECURSO ESPECIAL NÃO PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+6. A jurisprudência desta Corte Superior tem entendimento sedimentado segundo o qual para o julgamento da lide, sendo reputada pelo magistrado a produção de prova pericial, não há que se falar em preclusão pro judicato, considerando a inaplicabilidade do respectivo instituto, no campo probatório, para o magistrado. Precedentes.
+7. "Não se constitui provimento extra petita quando o órgão julgador aprecia a pretensão com base na interpretação lógico-sistemática das questões apresentadas nas razões recursais." - (AgInt no REsp 1551527/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 12/03/2018) 8. Agravo interno não provido.
+(AgInt no REsp 1956481/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2022, DJe 29/04/2022)  grifou-se
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM E PELA DECISÃO AGRAVADA. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INSTRUÇÃO PROBATÓRIA. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. FALTA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos.
+2. "A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido da inaplicabilidade da preclusão pro judicato em matéria probatória, cabendo às instâncias ordinárias, enquanto destinatárias da prova, a análise soberana acerca da necessidade de sua produção" (AgInt no AREsp n. 1.772.666/MT, Relator, Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/5/2021, DJe 18/6/2021), o que foi observado pela Corte local.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. "Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias" (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019), o que ocorreu.
+5. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+6. No caso, a Corte de origem concluiu pela necessidade da prova pericial para o deslinde da controvérsia, motivo por que determinou, de ofício, sua realização. Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável em recurso especial.
+7. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+8. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 do STF e 7 e 83 do STJ.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp 1785219/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)  grifou-se
+Inviável, portanto, o provimento do recurso especial, ante a incidência do óbice da Súmula 83/STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo.
+Publique-se.
+Intimem-se.
