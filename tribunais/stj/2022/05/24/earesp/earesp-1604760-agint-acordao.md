@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 18/05/2022 a 24/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Benedito Gonçalves.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que indeferiu liminarmente embargos de divergência.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A lição de José Frederico Marques1 é valiosa referência nesse momento, pois ele evidencia que o regimento interno dos tribunais deve regular as lacunas legais, mas isso não significa a criação de disposições que contrariarem a regra processual  .. .
+ ..
+E ainda que isso não fosse o suficiente, também há de se ponderar o que o ilegal artigo 266 do RISTJ busca quando cria esse, data venia, ilegal, requisito. A lei não é um fim ensimesmado, o que é sabido por todos os operadores do direito e, portanto, dispensa maiores digressões pela ora Agravante.
+Pois bem. Avançando, tem-se que mesmo se fosse lícita a exigência de demonstração de atualidade entre os vv. Acórdãos paradigma e recorridos, isso somente se daria para evidenciar com não houve a superação do entendimento do Superior Tribunal de Justiça sobre a matéria discutida nos Embargos de Divergência.
+ ..
+A compreensão adotada pelo E. TJSP e que foi referendada pela Colenda Quarta Turma do STJ entendeu que é possível ajuizar uma Ação Monitória e, não instrui-la nem mesmo durante a produção probatória, com documentação suficiente para que a resolução do mérito seja acompanhada imediatamente por um título executivo judicial.
+No entanto, a correta interpretação do artigo 1.102-A do CPC de 1973é aquela adotada pela Primeira Turma do STJ, que caminha no sentido que quando a lei processual exige "prova escrita", como documento indispensável à instrução da Ação Monitória, ela estabelece um juízo de valor, não sendo um requisito unicamente formal, mas material. Dessa forma, o conteúdo dessa prova escrita deve possibilitar, por si só, a verificação da existência e da liquidez da dívida. Tanto é assim que o artigo 1.102-B do CPC/73 somente admite a expedição de mandado de pagamento se a Petição Inicial está devidamente instruída.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AÇÃO MONITÓRIA. EMBARGOS À EXECUÇÃO. ALEGAÇÃODE DIVERGÊNCIA. EMBARGOSLIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DEDIVERGÊNCIA ATUAL. AUSÊNCIADE SIMILITUDE FÁTICA ENTRE OS JULGADOS.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação monitória ajuizada por Russo, Maruyama, Okada - Advogados associados contra a Bandeirante Energia S.A. objetivando o pagamento de valores fundados em contrato de prestação deserviços advocatícios. Na sentença, os embargos à execução foram acolhidose o pedido julgado improcedente. No Tribunala quo, deu-se parcial provimento à apelação para determinar a fixaçãode honorários advocatícios de êxito em favor da autora no patamar de 5% sobre o proveito econômico obtido pela ré, considerado o valor da média das condenações impostas pelos tribunais em casos análogos. Na sequência, os recursos especiais interpostos por ambas as partes foram inadmitidos na origem. Nesta Corte, os agravos em recurso especial não foram providos,sendo asdecisões mantidas após apreciação de agravo interno.
+II- Conforme esclarecido na decisão agravada, nesta Corte, é assente o entendimento de que a inexistência de demonstração da similitude fática impede o conhecimento do recurso de embargos de divergência. Nesse sentido, veja-se o seguinte precedente: (AgInt nos EDv nos EAREsp n. 877.441/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019.
+III - Nesse sentido, adivergência exige a comprovação por meio do cotejo analítico entre os acórdãos, que demonstre a adequada identidade ou similitude suficiente das situações fáticas e jurídicas que obtiveram conclusões diversas, de forma clara e precisa, apontando de forma inequívoca as circunstâncias que demonstram a divergência no ponto guerreado, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, não servido o recurso ao mero rejulgamento (Nesse sentido: AgInt nos EAREsp n. 297.377/RJ, relator Ministro Jorge Mussi, Corte Especial, DJe 17/4/2018).
+IV- Ademais, na hipótese dos autos, não se verifica divergência jurisprudencial atual.
+V- Com efeito,as razões recursais formuladas pela recorrente demonstram mero inconformismo e nítido intuito de promover a reapreciação de controvérsia satisfatoriamente examinada.
+VI- Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos suficientemente analisados como incapazes de, por um lado, amparar a pretensão de admissibilidade recursal deduzida, e, por outro, infirmar os fundamentos que embasaram a decisão recorrida, o que faz subsistir o entendimento nela externado.
+Conforme esclarecido na decisão agravada, nesta Corte, é assente o entendimento de que a inexistência de demonstração da similitude fática impede o conhecimento do recurso de embargos de divergência. Nesse sentido, veja-se o seguinte precedente: (AgInt nos EDv nos EAREsp n. 877.441/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019.
+Nesse sentido, a divergência exige a comprovação por meio do cotejo analítico entre os acórdãos, que demonstre a adequada identidade ou similitude suficiente das situações fáticas e jurídicas que obtiveram conclusões diversas, de forma clara e precisa, apontando de forma inequívoca as circunstâncias que demonstram a divergência no ponto guerreado, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, não servido o recurso ao mero rejulgamento (Nesse sentido: AgInt nos EAREsp n. 297.377/RJ, relator Ministro Jorge Mussi, Corte Especial, DJe 17/4/2018).
+Ademais, na hipótese dos autos, não se verifica divergência jurisprudencial atual.
+Com efeito, as razões recursais formuladas pela recorrente demonstram mero inconformismo e nítido intuito de promover a reapreciação de controvérsia satisfatoriamente examinada.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
