@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUIS GUSTAVO CANCELLIER opõe embargos declaratórios contra acórdão proferido pela Sexta Turma deste Tribunal Superior, que, na sessão do dia 19/4/2022, concedeu parcialmente a ordem, "apenas para determinar à Corte de origem que, em improrrogáveis 60 dias, delibere sobre a denúncia e reavalie a providência, prevista no art. 319, VI, do CPP, imposta ao paciente, sob pena de se caracterizar o excesso de prazo" (fl. 482).
+Suscita a defesa a omissão no julgado, que, segundo sustenta, não indicou "no que consistiriam os elementos concretos contemporâneos autorizadores da manutenção das medidas cautelares pessoais" prescritas ao investigado (fl. 494). Aduz que o oferecimento de denúncia, por si só, não é "apto a fundamentar nova decisão de afastamento cautelar das funções" do prefeito (fl. 495).
+Requer seja sanado o vício do decisum, com a atribuição de efeitos infringentes ao acórdão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ORDEM CONCEDIDA EM PARTE. AFASTAMENTO DO CARGO PÚBLICO. FUNDAMENTAÇÃO IDÔNEA. TEMPO DE DURAÇÃO. DELIBERAÇÃO SOBRE A DENÚNCIA. REAVALIAÇÃO DA MEDIDA CAUTELAR. PRAZO IMPOSTO AO TRIBUNAL A QUO. OMISSÃO. ART. 619 DO CPP. NÃO OCORRÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão impugnada, objetivam nova apreciação do caso.
+2. A despeito da provisoriedade que caracteriza as medidas do art. 319 do CPP e da natureza excepcional do afastamento cautelar das funções públicas, na espécie, o acórdão é cristalino ao ressaltar o justo receio de persistência da utilização do cargo eletivo, pelo prefeito, para a malversação de recursos públicos, bem como da interferência negativa na produção probatória, inclusive com a coação de subordinados e a ocultação de documentos.
+3. Não há, no acórdão guerreado, a suposta omissão arguida pela defesa. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgamento.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, ressalto que os embargos de declaração são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do acórdão embargado, objetivam, em essência, a reapreciação da causa, fora das hipóteses do art. 619 do CPP.
+Ainda preambularmente, enfatizo que, em consulta ao sítio eletrônico do Tribunal a quo, verificou o gabinete que há sessão de julgamento da Ação Penal n. 5047768-47.2021.4.04.0000 designada para o dia 19/5/2022.
+Apesar dos esforços do embargante, não há razão, na espécie, para infirmar o decisum ora impugnado, pela suposta presença de omissão no seu teor.
+Ao que se vê, o voto condutor não se olvidou de reconhecer a necessária "provisoriedade que caracteriza as medidas do art. 319 do CPP, sujeitas à permanente avaliação quanto à sua adequação e necessidade" (fl. 489, destaquei). Também deixou claro que "a suspensão cautelar do exercício de função pública, a teor do art. 319, VI, do CPP, é providência excepcional, que deve persistir pelo tempo estritamente necessário" (fl. 487, grifei).
+Sem embargo, a despeito de identificada "alguma lentidão no trâmite dos procedimentos, na origem", o decisum salientou a inevitabilidade de manutenção, ao menos por ora, da "suspensão do exercício do cargo público" do paciente - identificado como o "principal articulador do esquema fraudulento", que deu ensejo a "transferências irregulares entre os entes federativos", em cifras de aproximadamente "R$ 14 milhões" (fls. 489; 486; 487, destaquei).
+Sublinhou o acórdão a efetiva perseverança do "risco à apuração das evidências", com a suposta coação de subordinados e ocultação ou destruição de documentos capazes de assinalar "vestígios dos ilícitos perpetrados", motivo por que o impedimento de "acesso ao centro de que emanam as potenciais provas hábeis a esclarecer os fatos" se mantém imprescindível (fls. 488; 487; grifei).
+Em decorrência do ""presumível modus operandi" e do "fundado receio de que se promovam novas fraudes", aparentemente capitaneadas pelo alcaide", o decisum rechaçou a apontada "ilegalidade na decretação" e na continuidade das cautelas atribuídas ao paciente, a fim de evitar o estorvo à "colheita de elementos cognitivos" e à responsabilização dos eventuais sentenciados (todos à fl. 488, destaquei).
+Dessarte, não vislumbro, no acórdão guerreado, a suposta omissão, arguida pela defesa.
+Em verdade, a irresignação do investigado se resume ao seu mero inconformismo com o resultado do julgamento e pretende sejam ultrapassadas as possibilidades enunciadas pelo art. 619 da norma processual penal.
+Nada obstante, aos ditames da orientação desta Corte Superior, o recurso é inadmissível se objetivar a reavaliação do caso.
+À vista do exposto, rejeito os embargos.
