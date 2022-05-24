@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de VITOR VALENTE FERREIRA COSTA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do HC n. 0007729-09.2022.8.19.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 4/2/2022, convertido em preventiva, e denunciado por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão de fls. 22/32.
+No presente writ, alega a impetrante ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Destaca as condições pessoais favoráveis do paciente, como primariedade e bons antecedentes.
+Pondera que o réu fará jus a acordo de não persecução penal e, ainda que assim não seja, em caso de condenação, será aplicado o redutor no § 4º da Lei n. 11.343/2006 e fixado regime diverso do fechado, o que demonstra a desproporcionalidade da segregação antecipada.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere. Aduz que não teria sido comprovada a participação do paciente na comercialização de drogas.
+Requer, liminarmente e no mérito, revogação da prisão preventiva, ainda que mediante a fixação de medidas menos gravosas.
+A liminar foi indeferida às fls. 92/93. Informações prestadas às fls. 98/113 e 116/121. O Ministério Público Federal opinou pela denegação da ordem às fls. 123/126.
+É o relatório.
+Decido.
+Em consulta ao andamento processual na página eletrônica do Tribunal de origem, verificou-se que, em 19/5/2022, nos autos da Ação Penal n.0001548-85.2022.8.19.0066,foi revogada a prisão preventiva do ora paciente, tendo sido expedido alvará de soltura em seu favor.
+Assim, não há como negar a perda superveniente do objeto destewrit, tendo em vista ter cessado as circunstâncias determinantes da impetração, quanto ao ponto.
+Noutro giro, cumpre ressaltar que o habeas corpus não é a via adequada para discussão acerca da autoria delitiva, questão esta que demanda exame fático-probatório, incompatível com a via eleita, ação constitucional de rito célere e de cognição sumária.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. TESE DE AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. INADEQUAÇÃO NA ESTREITA VIA DO WRIT. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGRAVANTE EVIDENCIADA PELO MODUS OPERANDI. REITERAÇÃO DELITIVA. APLICAÇÃO DA LEI PENAL. CONDIÇÃO DE FORAGIDO. CONVENIÊNCIA DA INSTRUÇÃO. TEMOR DE TESTEMUNHA. MEDIDAS CAUTELARES DIVERSAS. INAPLICABILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. AUSÊNCIA DE CONTEMPORANEIDADE. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+1. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandar o reexame do conjunto fático-probatório dos autos. Consoante precedentes desta Quinta Turma, "o habeas corpus não é o meio adequado para a análise de tese de negativa de autoria ou participação por exigir, necessariamente, uma avaliação do conteúdo fático-probatório, procedimento incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária" (HC 310.922/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015; RHC 107.476/GO, de minha relatoria, QUINTA TURMA, julgado em 21/05/2019, DJe 27/05/2019 e HC 525.907/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/10/2019, DJe 24/10/2019).
+2. Havendo prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. A custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso.
+4. Segundo delineado pelas instâncias ordinárias, o agravante, comanimus necandi, efetuou disparos de arma de fogo em desfavor da vítima, no momento em que ela estava conversando com amigos em uma calçada. Conforme se extrai do caderno processual, o delito teria sido motivado por disputa relacionada a dívida de tráfico de drogas.
+Além disso, o agravante responde a outro processo por crime doloso contra a vida, circunstância que também justifica a prisão cautelar na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva.
+5. Ademais, a segregação cautelar se fundamenta na necessidade de se resguardar a aplicação da penal e a conveniência da instrução criminal, uma vez que o acusado se encontra foragido do distrito da culpa, em local incerto, e há notícia de temor externado por testemunha que presenciou os fatos.
+6. Assim, tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura. Precedentes.
+7. Consigne-se que as condições pessoais favoráveis do agente não têm o condão de, isoladamente, garantir a liberdade ao acusado, quando há, nos autos, elementos hábeis que autorizam a manutenção da medida extrema nos termos do art. 312 do CPP.
+8. Não se vislumbra ausência de contemporaneidade como justificativa hábil a infirmar a necessidade de manutenção da prisão preventiva.
+Embora não seja irrelevante o lapso temporal entre a data dos fatos (5/7/2017) e o decreto preventivo (26/8/2020), pelo que se depreende, os indícios de autoria surgiram no curso das investigações, o que levou à representação pela prisão preventiva do agravante, circunstância dentro da legalidade, considerada a gravidade dos fatos narrados e os sérios indicativos de que, uma vez solto, o acusado voltará a delinquir.
+9. Agravo regimental desprovido.
+(AgRg no HC 732.112/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,DJe 28/04/2022).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
