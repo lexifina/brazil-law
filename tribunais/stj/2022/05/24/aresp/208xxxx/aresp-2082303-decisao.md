@@ -1,0 +1,23 @@
+DECISÃO
+1. Trata-se de agravo interposto por RENATO JABUR GOMES, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 1028):
+APELAÇÃO CÍVEL. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. RECONHECIMENTO DE RELAÇÃO DE CONSUMO. GRUPO ECONÔMICO. TEORIA DA APARÊNCIA. AUSÊNCIA DE MOTIVOS PARA REFORMA DA DECISÃO. VERIFICAÇÃO DE OBSTÁCULO AO RESSARCIMENTO DO CONSUMIDOR, ART. 28, §5 , CDC. EMPRESA o SUCESSORA QUE COMPARTILHA ENDEREÇO. MESMO GRUPO SOCIETÁRIO.
+SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial (fls. 1050-1064), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto noart. 50 do Código Civil, e art. 28, § 5º, do Código de Defesa do Consumidor.
+Em apertada síntese, sustenta que "ov. acórdão recorrido vulnerou o art. 50 do Código Civil, bem como o artigo 28 do CDC, pois, não indicou quais atos foram praticados pelo Recorrentes, que se constituem nos pressupostos específicos do abuso da personalidade jurídica.O v. acórdão guerreado que apenou o recorrente por entender que a NJ empresa mudou sem comunicar ao juízo seu paradeiro, violando deveres, bem como que deve ser afastada a argumentação do recorrente de que não houve comprovação cabal de ação fraudulenta ou abuso de personalidade jurídica capaz a fundamentar o provimento do recurso."
+Contrarrazões ao recurso especial às fls. 1095-1099.
+É o relatório.
+DECIDO.
+2.Em que pese toda a argumentação apresentada pela recorrente, observo ter a Corte de origem compreendido, com base na análise do caso concreto, existir, na espécie, confusão patrimonial apta a autorizar a desconsideração da personalidade perpetrada.
+É o que se extrai do seguinte excerto da decisão recorrida (fls.1029-1030):
+Devido aos indícios de confusão entre as estruturas e responsabilidades das duas empresas; a incontroversa atuação da empresa NJ Empreendimentos Imobiliários LTDA como sucessora e procuradora da IMOBILIÁRIA MANAOS S/C LTDA; e a real criação de obstáculos ao ressarcimento do consumidor, atraindo a hipótese do art. 28, § 5º, CDC ; reconheceu-se a existência de grupo econômico a ser desconsiderado, a despeito da argumentação da  1  apelante de que as empresas eram apenas parceiras.
+Isso porque o juízo corretamente aplicou a Teoria da Aparência na hipótese em comento, com especial a quo atenção à aplicação dos princípios de defesa do consumidor.
+ ..
+Nos autos originários, após constituído título em sentença contra a empresa NJ Empreendimentos Imobiliários LTDA, esta foi intimada para adimplir os valores, porém a empresa se mudou sem comunicar o juízo de seu paradeiro, violando deveres imposto pelo Código de Processo Civil, em seu art. 77, IV e V .
+Neste incidente, restou reconhecida a relação de consumo e a verificação de obstáculos ao ressarcimento dos prejuízos, sem quaisquer demonstração pelos citados de distinção patrimonial e jurídica das pessoas jurídicas ou que a empresa NJ esteja atuante, motivos suficientes para que os sócios sejam acrescentados ao polo passivo.
+Além disso, também restou verificado nos autos que há real confusão entre as empresas, compartilhando clientes e funcionários (fato incontroverso, mov. 385/ autos de origem), possuem mesmo endereço e mesmo quadro societário, conforme se extrai da leitura dos respectivos contratos sociais (mov. 179.2 e 179.3/ autos de origem).
+Assim, ainda que já justa a desconsideração pelos argumentos expostos, deve ser afastada a argumentação do apelante de que não houve comprovação cabal de ação fraudulenta ou abuso da personalidade jurídica capaz à fundamentar o provimento deste incidente.
+Rever estas conclusões ensejaria o revolvimento do conteúdo fático-probatório dos autos, o que é vedado pela teor da Súmula 7 do STJ.
+3.Da mesma forma, inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, pois a análise do dissenso pretoriano depende do revolvimento de matéria fático-probatória.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
