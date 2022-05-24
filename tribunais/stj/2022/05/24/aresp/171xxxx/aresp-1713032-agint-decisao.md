@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno manejado por BR Railparts Indústria e Comércio de Materiais Ferroviários Ltda. desafiando decisão da Presidência do STJ que conheceu do agravo da Fazenda Nacional para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (fls. 748/754).
+O agravante, em suas razões, sustenta que, tendo "em vista que o I. Ministro Presidente conheceu do Agravo em Recurso Especial da Fazenda Nacional para apreciar o seu Recurso Especial, de rigor que o Recurso Especial Adesivo também seja apreciado" (fl. 759).
+Transcorreu in albis o prazo para impugnação (fl. 767).
+Parecer do Ministério Público Federal às fls. 774/777.
+É O BREVE RELATO.
+Ao que se tem, a parte agravante, em verdade, não intenciona infringir o decisum de fls. 748/754, pelo qual se conheceu do agravo para conhecer em parte do recurso especial da parte ex adversa e, nessa extensão, negar-lhe provimento; mesmo por que careceria de interesse recursal para tanto.
+Há intento, tão-somente, de informar a existência de recurso especial adesivo (fls. 581/598) pendente de apreciação por esta Corte Superior.
+Nesse panorama, recebo o agravo interno vertente como petição e passo, adiante, ao exame do recurso adesivo de fls. 581/598.
+Trata-se de recurso especial adesivo manejado por BR Railparts Indústria e Comércio de Materiais Ferroviários Ltda., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 441):
+TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. DO PIS E DA COFINS. TEMA 69 DO STF. LEIS 9.718/1998 E 12.973/2014.
+1. Nos termos do enunciado do Tema 69 - STF, o ICMS destacado nas notas fiscais não compõe a base de cálculo para a incidência do PIS e da COFINS.
+2. A tese jurídica advinda do julgamento do RE 574.706 aplica- se inclusive aos pagamentos efetuados sob a égide da Lei 12.973/2014 (TRF4, Arguição de Inconstitucionalidade n. 5051557-64.2015.404.0000).
+Os embargos declaratórios opostos pelo ente fazendário foram rejeitados, nos termos do acórdão de fls. 468/472.
+A parte recorrente adesiva aponta violação aos arts. 156, II, 165, 168 e 170, do CTN. Sustenta, em resumo, que "busca ao fim o título executivo que lhe garanta a repetição do indébito de modo geral, englobando as suas três espécies, como pedidos alternativos, para que ao final do processo  ..  tenha a opção de utilizar a repetição da forma mais conveniente" (fl. 588), sendo certa, ainda, a "possibilidade de declaração do direito à restituição/compensação em sede de Mandado de Segurança" (fl. 590).
+Contrarrazões apresentadas às fls. 633/634.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Considerando que, às fls. 748/754, a Presidência do STJ conheceu do agravo da Fazenda Nacional para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, resta viabilizado o exame do apelo especial adesivo, o qual passo a examinar:
+Com relação aos arts. 156, II, 165, 168 e 170, do CTN, nota-se que os referidos dispositivos legais não contêm comando capaz de sustentar a tese recursal de que "busca ao fim o título executivo que lhe garanta a repetição do indébito de modo geral, englobando as suas três espécies, como pedidos alternativos, para que ao final do processo  ..  tenha a opção de utilizar a repetição da forma mais conveniente" (fl. 588), sendo certa, ainda, a "possibilidade de declaração do direito à restituição/compensação em sede de Mandado de Segurança" (fl. 590) nem de infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgInt no AREsp 1.360.491/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 01/12/2021; AREsp 1.831.391/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29/11/2021; AgInt no REsp 1.895.284/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23/06/2021.
+Noutro giro, o Tribunal de origem não solucionou a contenda sob o enfoque dos aludidos dispositivos legais, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, (i) recebo o agravo interno como petição; e (ii) não conheço do recurso especial adesivo de BR Railparts Indústria e Comércio de Materiais Ferroviários Ltda..
+Publique-se.
