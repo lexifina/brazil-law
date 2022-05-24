@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo BANCO SANTANDER BRASIL S/A., contra decisão de fls. 589/590, proferida pela Presidência desta Corte que não conheceu de seu agravo porquanto intempestivo.
+Sustenta o agravante, em resumo, falha na digitalização dos autos físicos não tendo sido remetidos à esta Corte Superior documentos comprobatórios de feriado local. Apresenta, ainda, certidão do Tribunal de origem comprovando o alegado às fls. 619.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+Impugnação apresentada às fls. 627/630.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Nos termos da jurisprudência desta Corte, possível a alegação de falha na digitalização dos autos desde que comprovada por meio de certidão do Tribunal de origem.
+Da minuciosa análise dos autos, observa-se ter sido juntada certidão do Tribunal de origem (fl. 619) no sentido da comprovação da existência de feriado local apto a afastar a intempestividade do agravo em recurso especial.
+Mutatis mutandis, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. ARTS. 219, 1.003, § 5º, E 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015. FERIADO LOCAL. COMPROVAÇÃO EM MOMENTO POSTERIOR À INTERPOSIÇÃO. IMPOSSIBILIDADE. ART. 1.003, § 6º DO CÓDIGO DE PROCESSO CIVIL DE 2015. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É intempestivo o Agravo em Recurso Especial interposto fora do prazo de quinze dias, previsto nos arts. 219, 1.003, § 5º, e 1.070 do estatuto processual civil de 2015.
+III - Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, não se admitindo a comprovação posterior. Precedentes da Corte Especial e das Turmas componentes da 1ª e 2ª Seção.
+IV - A eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no AREsp 1451607/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTA EGRÉGIA CORTE SUPERIOR. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ART. 1.003, § 6o. DO CÓDIGO FUX. RESSALVA DO PONTO DE VISTA DO RELATOR. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO. 1. Preceitua o art. 1.003, § 6o. do Código Fux que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. Interpretar a norma de forma restritiva acabaria por imprimir retrocesso ao justo entendimento já consolidado nesta Corte, que é o de oportunizar à parte a comprovação do feriado local, de forma a afastar a intempestividade de seu recurso, mesmo depois de aforada a petição recursal.
+2. Entretanto, considerando a função constitucional desta Corte de uniformização da jurisprudência pátria, ressalvo o meu ponto de vista para acompanhar o entendimento firmado por este Tribunal no AREsp. 957.821/MS, julgado pela Corte Especial, de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, nos termos do art. 1.003, § 6o. do Código Fux, não se admitindo a comprovação posterior.
+3. No caso dos autos, a parte agravante foi intimada do acórdão em 30.8.2016, e o recurso apresentado apenas em 22.9.2016, quando já esgotado o prazo recursal. Ressalte-se que, na esteira do decidido por esta Corte, é desinfluente à espécie a comprovação posterior de feriado local na data de 20.9.2016.
+4. Ressalta-se, ainda, que a mera alegação de falha no procedimento de digitalização realizado pelo Tribunal de origem, destituída de qualquer indício de prova, não tem o condão de afastar o óbice ao conhecimento do recurso (AgInt no AREsp. 1.276.571/MA, Rel. Min. MOURA RIBEIRO, DJe 30/08/2018). No mesmo sentido: AgInt no AREsp.1.163.687/MG, Rel. Min. GURGEL DE FARIA, DJe 18.4.2018; e AgInt no AREsp. 1.100.772/CE, Rel. Min. NANCY ANDRIGHI, DJe 7.11.2017.
+5. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp 1654804/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/04/2019, DJe 10/04/2019)
+ANTE O EXPOSTO, exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, 2ª parte, do CPC/15 e 259 do RISTJ, reconsidero a decisão agravada de fls. 589/590, tornando-a sem efeito.
+Após, voltem-me conclusos os autos para apreciação do agravo em recurso especial.
+Publique-se.
