@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSScontra decisão que inadmitiu o recurso especial com base na Súmula 7/STJ, uma vez que a revisão do decididopressupõe reexame do arcabouço fático-probatório (e-STJ, fls. 313-316).
+A parte agravante sustenta quea matéria discutida no recurso especial é eminentemente de direito (e-STJ, fls. 318-323).
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar o recurso especial (e-STJ, fls. 295-304).
+Trata-se de recurso especial apresentado,com amparo na alínea "a"do inciso III do art. 105 da CF/1988, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJ, fl. 240):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. SENTENÇA TRABALHISTA.
+1. O benefício de aposentadoria por idade está previsto no Art. 48, da Lei nº 8.213/91, e é devida ao segurado, que cumprida a carência, completar 65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta), se mulher.
+2. Para a concessão do benefício de aposentadoria por idade para trabalhador urbano, exige-se um mínimo de 180 contribuições mensais (Art. 25, II, da Lei nº 8.213/91) relativamente aos novos filiados, ou contribuições mínimas que variam de 60 a 180 (Art. 142, da Lei nº 8.213/91), em relação aos segurados já inscritos na Previdência Social, na data da publicação da Lei nº 8.213, em 24 de julho de 1991.
+3. A jurisprudência firmou o entendimento de que deve ser adotada a data do implemento do requisito etário, sendo desnecessária a simultaneidade no preenchimento dos requisitos para a concessão da aposentadoria por idade. Precedentes do e. STJ.
+4. A decisão judicial proferida em ação declaratória na Justiça do Trabalho, uma vez transitada em julgado, possui idoneidade suficiente à comprovação de período de atividade laborativa, produzindo efeitos previdenciários, ainda que o INSS não tenha integrado a lide.
+5. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competências, e os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+6. Os juros de mora incidirão até a data da expedição do precatório/RPV, conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RE 579431, com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+7. Os honorários advocatícios devem observar as disposições contidas no inciso II, do § 4º, do Art. 85, do CPC, e a Súmula 111, do e. STJ.
+8. Apelação provida.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 273-294).
+Defende a autarquia, em síntese, que o acórdão recorrido considerou, indevidamente, o preenchimento da carência em decorrência do vínculo reconhecido perante a Justiça do Trabalho, sem o devido recolhimento da contribuição. A decisão utilizou oargumento de que a sentença trabalhista homologatória de acordo constituiria início de prova material, violando, portanto,os arts. 24, 27, 55, §§ 2º e 3º, 108 e 142 da Lei n. 8.213/1991, bem como o art.143 do Decreto n. 3.048/1999.
+Apresentadas contrarrazões (e-STJ, fls. 307-312).
+Decido.
+O Tribunal de origem assim decidiu a questão referente à validade da sentença homologatória de acordo como início de prova material (e-STJ, fl. 235):
+A autora colacionou aos autos a cópia sentença trabalhista homologatória de acordo na qual houve o reconhecimento do período de 10/08/65 a 18/06/70 (ID 10155928,p. 43).
+A decisão judicial proferida em ação declaratória na Justiça do Trabalho, uma vez transitada em julgado, possui idoneidade suficiente à comprovação de período de atividade laborativa, produzindo efeitos previdenciários, ainda que o INSS não tenha integrado a lide.
+A exigência de início de prova material, nesse caso, é descabida. Mesmo porque a jurisdição trabalhista está respaldada na Constituição, que lhe confere competência para reconhecer o vínculo empregatício, de forma que, após os prazos recursais, suas decisões adquirem igualmente a autoridade da coisa julgada.
+Questionar a validade de sentença proferida por Juiz do Trabalho, que reconhece a existência de relação trabalhista, implica menoscabar o papel daquela justiça especializada.Ademais, não aceitá-la como início de prova em ação previdenciária resulta na rediscussão de matéria que já foi objeto de controvérsia e pronunciamento judicial, estando, por força da preclusão máxima advinda de seu trânsito em julgado, revestida da qualidade de imutabilidade.
+Observa-se que essa conclusão destoa do entendimento desta Corte de que,para que asentença trabalhista possaser considerada como início de prova material, ela deve ter sido prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativadurante o período que se pretende ter reconhecido na ação previdenciária.
+Assim, a existência de sentença trabalhista não é suficiente para que haja o início de prova material, devendo-se analisar se ela foi fundada apenas no depoimento das partes, o que a torna ineficaz para essa finalidade, ou se houve produção probatória a permitir tal uso.
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. INOVAÇÃO RECURSAL. SENTENÇA TRABALHISTA MERAMENTE HOMOLOGATÓRIA DE ACORDO. IMPRESTABILIDADE DE UTILIZAÇÃO COMO INÍCIO DE PROVA MATERIAL. JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+1. A jurisprudência desta Corte está firmada no sentido de que a sentença trabalhista pode ser considerada como início de prova material, desde que prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativa, durante o período que se pretende ter reconhecido na ação previdenciária.
+2. Na espécie, ao que se tem dos autos, a sentença trabalhista está fundada apenas nos depoimentos das partes, motivo pelo qual não se revela possível a sua consideração como início de prova material para fins de reconhecimento da qualidade de segurado do instituidor do benefício e, por conseguinte, como direito da parte autora à pensão por morte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.405.520/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 7/11/2019, DJe de 12/11/2019).
+PREVIDENCIÁRIO. PENSÃO POR MORTE. QUALIDADE DE SEGURADO. SENTENÇA TRABALHISTA HOMOLOGATÓRIA DE ACORDO. UTILIZAÇÃO. IMPOSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça está firmada no sentido de que a sentença trabalhista pode ser considerada como início de prova material, desde que prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativa, durante o período que se pretende ter reconhecido na ação previdenciária. Precedentes: AgInt no AREsp 529.963/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 28.2.2019; REsp 1.758.094/RJ, Rel. Ministro Herman Benjamim, Segunda Turma, DJe 17.12.2018; e AgInt no AREsp 688.117/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11.12.2017.
+2. O Tribunal a quo reconheceu a qualidade de segurado do instituidor da pensão, com base na "sentença homologatória de acordo realizado em sede de Reclamação Trabalhista (fl. 110), em que foi reconhecida a relação de emprego entre o de cujus e a empresa DIVIPISO COMÉRCIO DE DIVISÓRIAS FORROS E PISOS LTDA-ME., no período de 03/05/2004 a 17/11/2005, na função de montador" (fl. 278, e-STJ).
+3. Na espécie, ao que se tem dos autos, a sentença judicial trabalhista só homologou os termos de acordo entre as partes, para o reconhecimento de vínculo laboral do trabalhador já falecido, sem nenhuma incursão em matéria probatória.
+4. Assim, inexistindo, quer naqueles autos da Justiça Especializada, quer nos da Justiça Federal, a produção de prova documental ou mesmo testemunhal, para se reconhecer o período de tempo em que o falecido teria trabalhado para a empresa firmatária do acordo, a sentença homologatória trabalhista é insuficiente, no caso, para embasar a pensão por morte aos dependentes do segurado.
+5. Recurso Especial provido.
+(REsp n. 1.760.216/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/3/2019, DJe de 23/4/2019).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim dedeterminar a devolução dos autos ao Tribunal de origem para que realizea apreciação da sentença trabalhistaà luz das balizas jurisprudenciais desta Corte apontadas.
+Publique-se. Intimem-se.
