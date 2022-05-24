@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 18/05/2022 a 24/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Benedito Gonçalves.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAMILA FORESTI LEMOScontra decisão que inadmitiu o recurso extraordinário, assim ementada (e-STJ fl. 745):
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO VERBETE N. 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
+Sustenta que, não obstante a decisão de inadmissão do recurso extraordináriocom base no enunciado n. 281 da Súmula do Supremo Tribunal Federal,"nada impede que ao caso se aplique o princípio da fungibilidade para que o RE rejeitado seja recebido como agravo interno, considerando a identidade dos fundamentos"(e-STJ fl. 750).
+Requer o provimento do reclamo para que o recurso extraordinário seja admitido como agravo interno.
+Não foram apresentadas contrarrazões (e-STJ fl. 756).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. DECISÃO QUE NÃO ADMITE RECURSO EXTRAORDINÁRIO. MANIFESTO DESCABIMENTO. NÃO CONHECIMENTO DO RECLAMO.
+1. Nos termos dos arts. 1.030, § 1º, e 1.042, ambos do Código de Processo Civil, contra a decisão monocrática que não admite o recurso extraordinário é cabível agravo em recurso extraordinário para o Supremo Tribunal Federal.
+2. A interposição de agravo interno contra o referido pronunciamento judicial configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade. Precedentes do STJ e do STF.
+3. Agravo interno não conhecido.
+VOTO
+Nos termos dos arts. 1.030, § 1º, e 1.042, ambos do Código de Processo Civil, contra a decisão que não admite o recurso extraordinário cabe agravo em recurso extraordinário para o Supremo Tribunal Federal, e não agravo interno.
+Confira-se, por oportuno, a letra dos mencionados dispositivos legais:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+(..)
+§ 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, a exemplo do seguinte julgado:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO PARA O SUPREMO TRIBUNAL FEDERAL CONTRA A PARTE DA DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. IMPOSSIBILIDADE. PRECEDENTES. QUESTÕES REMANESCENTES: OFENSA AO PRINCÍPIO DA LEGALIDADE. VIOLAÇÃO CONSTITUCIONAL REFLEXA. SÚMULA 636/STF. EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INVIABILIDADE.
+1. Ao examinar a admissibilidade de Recurso Extraordinário com capítulos independentes e autônomos, o Tribunal de origem aplicou precedente formado sob o rito da repercussão geral para algumas questões e óbices de outra natureza para os demais pontos.
+2. As decisões de admissibilidade com esse perfil têm sido apelidadas de mistas (ou complexas).
+3. Tais decisões comportam duas espécies de recursos: agravo interno quanto às matérias decididas com base em precedente produzido sob o rito da repercussão geral (CPC, art. 1.030, § 2º); e agravo do art. 1.042 do CPC quanto aos aspectos resolvidos por outros tipos de fundamentos.
+4. Não há previsão legal de recurso para o SUPREMO TRIBUNAL FEDERAL contra a parte da decisão do Juízo de origem que aplicou a sistemática da repercussão geral (Pleno, AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 994.469, Relatora: Min. CÁRMEN LÚCIA (Presidente), DJe de 14/3/2017).
+5. Embora admissível quanto aos outros óbices, o recurso não merece prosperar. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+6. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo.
+7. "Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida" (Súmula 636/STF).
+8. A matéria situa-se no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do apelo extremo.
+9. Esta CORTE, no julgamento do RE 598.365-RG, fixou a orientação no sentido de que a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608,rel. a Ministra Ellen Gracie, DJe 13/03/2009. 10. Agravo Interno a que se nega provimento.
+(ARE 1188975 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 14/06/2019, PROCESSO ELETRÔNICO DJe-167 DIVULG 31-07-2019 PUBLIC 01-08-2019)
+No mesmo diapasão:
+Agravo regimental no recurso extraordinário com agravo. Aplicação da sistemática da repercussão geral. Agravo previsto no art. 1.042 do CPC/15 dirigido ao Supremo Tribunal Federal. Não cabimento. Questões remanescentes. Cabimento. Ausência de impugnação específica. Incidência da Súmula nº 287/STF.
+1. Segundo o firme entendimento do Supremo Tribunal Federal, não cabe recurso dirigido ao STF contra capítulo de decisão em que se negue seguimento a recurso extraordinário com base na sistemática da repercussão geral, o qual é passível de impugnação apenas por agravo interno (art. 1.030, § 2º, do CPC/2015).
+2. O agravo previsto no art. 1.042 do CPC/15 é cabível contra capítulo de decisão em que se negue trânsito ao recurso extraordinário por fundamento diverso da repercussão geral.
+3. Ausência de impugnação específica dos fundamentos atinentes aos óbices descritos nas Súmulas nº 279/STF e nº 636/STF. Incidência à ofensa reflexa e da Súmula nº 287/STF.
+4. Agravo regimental não provido.
+(ARE 1210962 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 23/08/2019, PROCESSO ELETRÔNICO DJe-202 DIVULG 17-09-2019 PUBLIC 18-09-2019)
+Ademais, pacificou-se nos Tribunais Superiores o entendimento de que a interposição do recurso incorreto contra a decisão que não admite recurso extraordinário configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade.
+Nessa esteira tem decidido esta Corte Superior de Justiça:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO NÃO ADMITIDO. RECURSO MANIFESTAMENTE INCABÍVEL. ARTS. 1.030, § 1º, E 1.042 DO CPC. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRAZO RECURSAL NÃO INTERROMPIDO. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1. Contra a decisão monocrática que não admite o recurso extraordinário, nos termos do art. 1.030, V, do CPC, não cabe agravo interno, mas agravo para o Supremo Tribunal Federal, conforme previsão expressa dos artigos 1.030, § 1º, e 1.042 do Estatuto Processual Civil.
+2. Há, na espécie, erro grosseiro, a impossibilitar a aplicação do princípio da fungibilidade recursal.
+3. Tratando-se de recurso manifestamente incabível, que não suspende nem interrompe o prazo para a interposição de outro recurso, constata-se a ocorrência do trânsito em julgado da decisão que não admitiu o recurso extraordinário.
+4. Agravo interno não conhecido.
+(AgInt no RE nos EDcl no REsp 1612818/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/12/2019, DJe 13/12/2019)
+Idêntica orientação é extraída da jurisprudência da Suprema Corte:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. ERRO GROSSEIRO NA INTERPOSIÇÃO DE RECURSO. ALEGAÇÃO DE VIOLAÇÃO À DECISÃO PROFERIDA NO TEMA 784 DA REPERCUSSÃO GERAL. AUSÊNCIA DE ADERÊNCIA ESTRITA. RECURSO IMPROVIDO
+1. Nos termos do art. 1.030, § 2º, do CPC/2015, o agravo interno é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, o que não ocorreu no presente caso. A interposição de agravo interno contra decisão que inadmitiu recurso extraordinário por fundamento que dá ensejo ao agravo do art. 1042 do CPC caracteriza erro grosseiro da parte.
+2. Reclamação em que se impugna decisão que inadmitiu o recurso extraordinário por ausência de requisitos processuais para seu conhecimento. Ausência de aderência estrita com a tese firmada no Tema 784 da repercussão geral, que trata de "Direito à nomeação de candidatos aprovados fora do número de vagas previstas no edital de concurso público no caso de surgimento de novas vagas durante o prazo de validade do certame".
+3. Agravo interno desprovido.
+(Rcl 37252 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 22/05/2020, PROCESSO ELETRÔNICO DJe-141 DIVULG 05-06-2020 PUBLIC 08-06-2020)
+Por fim, tratando-se de recurso manifestamente incabível, não há suspensão ou interrupção do prazo para a interposição de novas insurgências.
+Ante o exposto, não se conhece do agravo interno.
+Certifique-se o trânsito em julgado da decisão que não admitiu o recurso extraordinário.
+É o voto.
