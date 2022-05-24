@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por MARCOS PAULO DE OLIVEIRA, contra adecisão de fls. 875-876, (e-STJ), proferida em juízo provisório deadmissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da ConstituiçãoFederal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (fls. 675-676, e-STJ):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA PARCIAL. RECURSO CONHECIDO EM PARTE. CONTRATO DE EMPREITADA. CONSTRUÇÃO DE GALPÃO. OBRA RECEBIDA. PENDÊNCIA DE MEZANINO. DIREITO AO RECEBIMENTEO PROPORCIONAL DO PREÇO. PERDAS E DANOS INDEVIDAS.
+1.Desatendida a dialeticidade exigida pelo artigo 1.010, incisos II e IV, do Código de Processo Civil, não se conhece da apelação quanto ao capítulo respectivo.
+2.Recebida a obra, o empreiteiro tem direito subjetivo ao recebimento do preço na exata medida do adimplemento do contrato de empreitada.
+3.O empreiteiro que não cumpre integralmente o contrato não faz jus a indenização por perdas e danos.
+4.Recurso parcialmente conhecido e provido em parte.
+Os embargos de declaração opostos foram parcialmente acolhidos, nos termos da seguinte ementa (fls. 799-800, e-STJ):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DE AMBAS AS PARTES. OMISSÕES NO ACÓRDÃO QUANTO À FORMA DE APURAÇÃO DO VALOR DA CONDENAÇÃO E À INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. SUPRIMENTO. DEMAIS VÍCIOS INEXISTENTES. INCONFORMISMO. VIA RECURSAL INADEQUADA. PREQUESTIONAMENTO. REQUISITOS NÃO ATENDIDOS.
+I. Detectadas omissões no acórdão quanto à forma de apuração do valor da condenação e à incidência de correção monetária e juros de mora, os embargos de declaração devem ser providos para a respectiva sanação.
+II. Os embargos de declaração têm caráter integrativo e seu cabimento pressupõe a existência de algum dos vícios contemplados no artigo 1.022 do Código de Processo Civil, não se coadunando com projeto recursal de cunho modificativo.
+III. O cabimento dos embargos declaratórios, mesmo quando interpostos com o propósito de prequestionamento, está irrestritamente adstrito à presença de algum dos vícios previstos no artigo 1.022 do Código de Processo Civil.
+IV. Recursos parcialmente providos.
+Nas razões do recurso especial (fls. 818-834, e-STJ) orecorrente alegou que o acórdão impugnado incorreu em violação dos arts. 476 do Código Civil de 2002; 329 e 336 do Código de Processo Civil de 2015.
+Sustentou, em suma que, em razão de estar configurada a exceção do contrato não cumprido, é indevido o pagamento pleiteado pela parte adversa, uma vez que a obra, contratada sob o regime de empreitada, não foi entregue nos moldes contratados.
+Apontou, outrossim, ter havido inovação recursal por parte da recorrida, extrapolando, assim, os limites da ação.
+Em juízo de admissibilidade (fls.875-876, e-STJ), a Corte de origem negou o processamento dorecurso especial ante a aplicação das Súmulas 5 e 7/STJ para revisão das conclusões estaduais.
+Irresignado(fls. 881-892, e-STJ), aduz oagravante que o reclamomerece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 1.690-1.711 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, descabe a análise da jurisprudência citadapelorecorrente, uma vez que o reclamo foi interposto com fundamentoapenas naalínea a do permissivo constitucional.
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 679-684, e-STJ, sem grifos no original):
+O contrato de empreitada tem por objeto a construção de um galpão de 2.200 m  com mezanino de 200 m . O pagamento do preço de R$ 253.000,00 foi assim estipulado:
+(..)
+As partes não controvertem sobre a entrega do galpão com 2.000m  e a inexecução do mezanino de 200m . É o que restou elucidado no laudo pericial:
+(..)
+Em razão do adimplemento parcial da empreitada, a r. sentença julgou improcedente o pedido de integralização do preço mediante a seguinte fundamentação:
+A relação jurídica entre as partes é demonstrada, de forma material, pelo contrato de ID 33601060, cujo objeto (Cláusula 1) é a construção de um galpão, modelo GALBRAS, com área total de 2.000 m , de 7,5 m de altura e acrescido de 200 m  de um mezanino, conforme projeto (ID 33601060 - Pág. 2). Ainda segundo o contrato (Cláusula 4), o pagamento pelo objeto do contrato abrangeria o valor total de R$ 253.000,00, pagos R$ 100.000,00 no ato da assinatura do contrato, R$ 100.000,00 representados pelo imóvel citado no relatório, R$ 30.000,00 pagos no ato da fixação das vigas do galpão e o restante, R$ 23.000,00 pagos no ato da entrega da obra (ID 33601060 - Pág. 1). Ao passo que a parte autora alegou o inadimplemento da parte ré no pagamento do preço, indicando que isto lhe gerou danos materiais e morais, a parte ré indicou que o serviço não foi entregue como combinado, imputando inadimplemento ao autor. Sabido que a situação discutida nos autos envolvia aspectos técnicos, impondo a atuação de um especialista, foi produzida prova pericial sujeita ao crivo do contraditório. O perito, ao elaborar o laudo, concluiu o seguinte: "(..)o galpão foi fabricado e montado nos termos da avença, à exceção da construção do mezanino, que não foi executada pelo contratado (..)" (ID 33601834 - Pág. 8). Veja-se que a conclusão do laudo pericial apontou que a obra foi construída nos termos do contrato, com exceção da entrega do mezanino. Assim, em que pese a alegação de inadimplemento da parte ré, a autora não entregou, integralmente, o objeto do contrato. Incide no caso, portanto, o disposto no art. 476, do Código Civil, que dispõe que "nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro”.
+Ficando demonstrado nos autos que o objeto do contrato não foi integralmente executado pela parte autora, descabe a esta, com base no princípio da boa-fé, exigir o adimplemento integral do preço da outra parte, em relação a transferência do imóvel situado na Colônia Agrícola Vicente Pires, Rua 4, Chácara 1, Lote 14, Apartamento 101.
+Não há, todavia, fundamento para subtrair da Apelante o direito à percepção do preço na exata medida do seu adimplemento contratual, com a devida venia. Em primeiro lugar, porque, de acordo com o contrato, o pagamento da parcela de R$ 100.000,00, mediante a transferência do imóvel especificado, deveria ocorrer imediatamente. Vale dizer, as obrigações não eram simultâneas, pressuposto sem o qual não é adequada a aplicação do artigo 476 do Código Civil. Nesse sentido, explana Caio Mário da Silva Pereira:
+(..)
+Em segundo lugar, porque, ainda que as prestações de ambas as partes fossem de execução simultânea, a arguição da exceção de contrato não cumprido não enseja o decreto de improcedência. Ao contrário, torna imperativa a condenação do demandado a cumprir sua obrigação simultaneamente a do demandante, como ensina Pontes de Miranda:
+(..)
+Em terceiro lugar - e principalmente -, porque o contrato de empreitada tem regulação normativa própria, segundo a qual, recebida a obra sem objeções, assiste ao dono da obra, em caso de desconformidade com o projeto, o direito de exigir abatimento proporcional do preço, na esteira do que estabelecem os artigos 614, 615 e 616 do Código Civil:
+(..)
+A despeito da existência ou não de culpa, o fato é que o galpão foi construído e entregue, de maneira que a Apelante faz jus ao preço convencionado, com a dedução proporcional da área do mezanino. Acerca dessa proporcionalidade, anota Teresa Ancona Lopez:
+(..)
+Salta à vista que o empreiteiro não pode ficar privado do recebimento proporcional à obra realizada e recebida.
+(..)
+Tem a Apelante, destarte, direito à parcela de R$ 100.000,00, abatido o valor correspondente ao mezanino no contexto da empreitada global.
+Como não pode exigir a transferência do imóvel, na medida em que não adimpliu integralmente a sua obrigação, não possui a Apelante direito a lucros cessantes. ISTO POSTO, conheço em parte e dou parcial provimento ao recurso para condenar os Apelados ao pagamento da parcela de R$ 100.000,00, descontado o valor correspondente ao mezanino na empreitada global.
+Dessa forma, reverter a conclusão do Tribunal local, para acolher apretensão recursal, demandaria, necessariamente,o revolvimento do acervo fático-probatóriodos autos e a análise e interpretação de cláusulas contratuais, o que évedado ante a natureza excepcional da via eleita, conforme asSúmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recursoespecial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honoráriossucumbenciais fixados em favor do patrono da parte recorrida em 2% (doispor cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada noprosseguimento do feito, caracterizada pela apresentação de recursosmanifestamente inadmissíveis ou protelatórios a esta decisão, ensejará aimposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS. CONTRATO DE EMPREITADA. CONSTRUÇÃO DE GALPÃO. OBRA RECEBIDA, COM PENDÊNCIA DE CONSTRUÇÃO DE MEZANINO. DIREITO AO RECEBIMENTO PROPORCIONAL DO PREÇO. REVISÃO DASCONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVOFÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
