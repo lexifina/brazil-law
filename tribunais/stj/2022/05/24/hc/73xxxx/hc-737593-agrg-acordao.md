@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FARANI SALVADOR FREITAS ROCHA JUNIOR agrava da decisão de fls. 121-122, em que indeferi liminarmente o habeas corpus, dada a insuperável supressão de instância.
+Para tanto, assere que "é cristalino o excesso de prazo no presente caso, sendo de rigor o conhecimento do presente habeas, e deferimento da liminar, ara sanar a segregação cautelar do paciente" (fl. 127).
+Requer, assim, "seja o presente agravo regimental conhecido e provido para que o presente writ seja conhecido, e ao final, a ordem concedida para conceder a liberdade do ora paciente diante do excesso de prazo" (fl. 129).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O suposto excesso de prazo para o encerramento do feito não foi examinado pela Corte de origem, a sublinhar a impossibilidade de análise do pedido pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme apontado na decisão vergastada, depreende-se dos autos que o paciente foi "pronunciado como incurso nos artigos 121, § 2º, I, III e IV, c.c. 29, ambos do Código Penal, ele está preso desde 01 de agosto de 2020, portanto, há mais de um ano e oito meses" (fl. 16).
+Asseriu a defesa, perante a Corte de origem, "ter sido o julgamento pelo Júri adiado duas vezes, pelo não cumprimento das diligências requeridas pela defesa, sendo redesignada nova sessão somente para o dia 10 de agosto de 2022, o que caracteriza excesso de prazo na formação da culpa, para o qual a defesa não dera causa" (fl. 16, grifei).
+Primeiramente, saliento que, de acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pese sua altivez e grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país, em poucos dias, decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula nº 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Todavia, na hipótese, o Desembargador relator, ao analisar o pleito liminar lá deduzido, limitou-se a destacar que, " a  despeito da evidente gravidade da alegação de que o paciente estaria preso preventivamente há mais um ano e oito meses sem que o Júri tenha sido realizado, é bem de ver que a análise do eventual excesso de prazo na formação da culpa e do preenchimento dos requisitos autorizadores da liberdade dele ou, ainda, da aplicação de medida cautelar alternativa, deve ser enfrentada segundo as circunstâncias típicas do caso concreto e por isso é inadequada à esfera de cognição sumária que distingue esta fase do procedimento, não se prestando a medida a antecipar a tutela jurisdicional almejada" (fls. 16-17, sublinhei).
+Dessa forma, percebe-se que a Corte de origem não adentrou o exame da questão na decisão liminar. Portanto, diante da não análise do pedido, o seu exame pelo Superior Tribunal de Justiça incorreria em indevida supressão de instância, mormente na hipótese, em que a tese carece de apreciação pelo colegiado competente.
+À vista do exposto, nego provimento ao recurso.
