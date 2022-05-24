@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GABRIEL CORREA DE ARAUJOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente, preso preventivamente,foi condenado à penaprivativa de liberdade de 8 (oito) anos, 10(dez) meses e 20 (vinte) diasde reclusão, em regime inicialfechado, pela suposta prática do delito tipificado no art. 157, § 2º,II e VII,e § 2º-A,I, do Código Penal,oportunidade na qual foi mantida a segregação cautelar.
+Neste writ, oimpetrante sustenta, em suma,que: a) "em23 de setembro de 2021 foi interposto Recurso de Apelação, sendo apresentada contrarrazões em 29 de setembro de 2021, todavia, até a presente data os autos não foram remetidos a este Tribunal de Justiça do Estado de São Paulo, em nítido excesso de prazo" (e-STJ, fl. 6); b)"a R. Sentença não trouxe qualquer fundamento idôneo que justifique a manutenção da custódia provisória do Paciente, negando-lhe o direito de recorrer em liberdade, somente porque condenado por crime considerado grave, que sequer envolve violência" (e-STJ, fl. 10).
+Pleiteia que seja deferido ao paciente o direito de recorrer em liberdade.
+O pedido de liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimentodo writ.
+É o relatório.
+Inicialmente, quanto àalegada ausência de fundamentação idônea para a manutenção daprisão preventiva, verifica-se que talmatérianão foidebatida no acórdão impugnado. Assim, é inviável a análise dotemadiretamente por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+"Sob pena de indevida supressão de instância, esta Corte não pode apreciar a controvérsia relativa à falta de requisitos para a decretação da prisão preventiva do Paciente, pois essa questão não foi apreciada pelo Tribunala quo." (HC 472.270/SE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/11/2018, DJe 22/11/2018)
+"Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, da tese relativa à ausência dos requisitos da prisão temporária, que não foi analisada pelo Tribunal de origem no aresto combatido." (RHC 90.525/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018)
+Ademais, com relação ao ventilado excesso de prazo para julgamento da apelação,é manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, em consulta ao sítio eletrônico do Tribunal de origem (Apelação Criminal n. 1500345-98.2020.8.26.0612), verifica-se que, em 28/4/2022,o apelo defensivo foi julgado, o que torna prejudicada a alegação,consoante pacífico entendimento desta Corte (HC 398.157/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/3/2018, DJe 3/4/2018; AgRg no HC 386.919/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/5/2017, DJe 20/6/2017; RHC 106.590/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/5/2019, DJe 13/6/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
