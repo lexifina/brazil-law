@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por AMIL Assistência Médica Internacional S.A., com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 433):
+PLANO DE SAÚDE. RESCISÃO A PEDIDO DA EMPRESA BENEFICIÁRIA. COBRANÇA DE MENSALIDADE POR DOIS MESES. Insurgência contra sentença de improcedência. Reforma parcial. Cancelamento imotivado que, segundo o art. 17, § único, da RN 195, ANS, depende de prazo mínimo de notificação prévia de 60 (sessenta) dias. Nulidade do dispositivo reconhecido por decisão proferida em sede de ação coletiva pelo Procon/RJ, no TRF 2ª Região, com efeitos estendidos ao presente feito. Impossibilidade, portanto, da cobrança das mensalidades após o cancelamento do plano. Devolução, todavia, simples por ausência de má-fé. Inexistência de danos morais indenizáveis. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 455-457).
+Nas razões do recurso especial, apontou-seviolação dos arts.489, §1º e 1.022, II,do CPC/2015, (e-STJ, fls. 439-444).
+Sustentou-seque, mesmo após ter sido provocado com a oposição de embargos de declaração, o Tribunal local manteve-se inerte quanto à análise das questões suscitadas.
+Assim sendo, o acórdão recorrido distanciou-se da finalidade da norma, que é eliminar omissões porventura existentes nos julgados, tornando completa a prestação jurisdicional, que se entendeu ter sido deficiente por ausência de fundamentação.
+Foramapresentadas contrarrazões (e-STJ, fls. 462-466).
+O recurso especial não foi admitido na origem, o que provocou a interposição do presente agravo (e-STJ, fls. 467-469).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pelas partes.
+Desse modo, tendo o acórdão recorridomotivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte de origemnão se pronunciou sobre o pleito daora recorrente- a reiteração do entendimentode queo parágrafo único, do art. 17 da Resolução 195/2009 da ANS foi declarado nulo-, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão das partes.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Veja-se, a propósito, o que ficou consignado no julgamento da apelação(e-STJ, fl. 434):
+De fato, numa análise superficial, a cláusula 26.2.1que prevê prazo de 60 dias, após a notificação, para encerramento do contrato de plano de saúde e, portanto, autoriza a cobrança das mensalidades nesses dois meses seria lícita porque fundada no artigo 17, p. único, da Resolução Normativa nº 195/2009 da ANS.
+Essa norma, todavia, foi declarada nula em decisão proferida pelo TRF2, em12/05/2015, na ação coletiva 0136265-83.2013.4.02.5101, transitada em julgado em 08/10/2018,movida pela Autarquia de Proteção e Defesa do Consumidor do Estado do Rio de Janeiro Procon/RJ contra a Agência Nacional de Saúde Suplementar ANS, nos seguintes termos:
+Ao julgar os embargos de declaração, aduziu-se o seguinte (e-STJ, 456):
+Os embargos não merecem acolhimento porque ausente qualquer dos defeitos previstos no art. 1.022 do Código deProcesso Civil.
+Como já mencionado, o parágrafo único, do art. 17 da Resolução 195/2009, que determina o pagamento de multa penitencial de dois meses no caso de rescisão imotivada, foi declarada nula por decisão proferida na ação coletiva 0136265-83.2013.4.02.5101,015 aplicável no caso em testilha.
+Pretende o embargante, na realidade, o reexame dacausa, o que não se admite.
+Portanto, não se pode falar, conforme sustenta a agravante, de entendimento obscuro, porque a obscuridade passível de correção é aquela que se constata no texto da decisão alusiva à falta de clareza e, como se observa, o acórdão é inteligível e bem fundamentado.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honoráriosemfavor dos advogados da parte agravada,fixando-osem 15% (quinze porcento) sobre o valoratualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO. PEDIDODA SEGURADA. PROCEDÊNCIA.VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. ACÓRDÃO RECORRIDO INTELIGÍVEL E FUNDAMENTADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
