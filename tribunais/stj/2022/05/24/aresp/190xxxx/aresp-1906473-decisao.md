@@ -1,0 +1,18 @@
+DECISÃO
+PREVIDENCIÁRIO.  AGRAVO  EM  RECURSO  ESPECIAL.  AUXÍLIO-DOENÇA. ALTA PROGRAMADA.  FALTA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.  AGRAVO  CONHECIDO  PARA  NÃO  CONHECER  DO  RECURSO  ESPECIAL  DA AUTAQUIA FEDERAL.
+1.  Agrava-se  de  decisão  que  inadmitiu  o  recurso  especial  interposto  pelo  INSTITUTO NACIONAL DO SEGURO SOCIAL,  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  egrégio  TRF  da  3ª  Região,  assim  ementado:
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO. FIXAÇÃO DETERMO FINAL DO BENEFÍCIO. MANUTENÇÃO DO JULGADOAGRAVADO.
+1. O caso dos autos não é de retratação.
+2. Foi expressamente fundamentado na decisão impugnada, que não há que se fixar um termo final para a concessão do benefício. Isso porque o benefício deverá ser concedido até a constatação da ausência de incapacidade ou sua conversãoem aposentadoria por invalidez. Para tanto, torna-se imprescindívelrealização de perícia médica, ainda que administrativa. Assim, fica o INSS obrigadoa conceder o benefício de auxílio-doença até que seja constatada a melhorado autor ou, em caso de piora, até a data da conversão em aposentadoriapor invalidez..
+3. Agravo interno do INSS improvido(fls.  371/381).
+2.  Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  397/410).
+3.  Nas  razões  do  seu  recurso  especial  (fls.  412/423),  a  parte  agravante  sustenta  violação  doart. 60,§§ 8º e 9º, da Lei 8.213/1991, argumentando para tanto a possibilidade de alta programada.
+4.  Devidamente  intimada  ,  a  parte  agravada  apresentou  as  contrarrazões (fls. 429/433)  .
+5.  Sobreveio  o  juízo  negativo  de  admissibilidade  (fls.  434/437),  fundado noóbice  da  Súmula  83/STJ; ,razão  pela  qual  se  interpôs  o  presente  agravo  em  recurso  especial,  ora  em  análise.
+6.  É  o  relatório.
+7.  A  irresignação  não  merece  prosperar.
+8.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+9.  Ainda,  a  alegação  de  violação  doart.60,§§ 8º e 9º, da Lei 8.213/1991(alta programada)  não  é  suficiente  para  se  ter  a  questão  de  direito  como  prequestionada,  instituto  que,  para  sua  caracterização,  demanda,  além  da  alegação,  a  discussão  e  apreciação  judicial  pelo  tribunal  de  origem.  Com  efeito,  a  jurisprudência  desta  Corte  Superior  considera  que  a  ausência  de  enfrentamento  pelo  Tribunal  de  origem  da  matéria  impugnada,  objeto  do  recurso  excepcional,  não  obstante  interposição  de  embargos  de  declaração,  impede  o  acesso  à  instância  especial,  porquanto  não  preenchido  o  requisito  constitucional  do  prequestionamento,  nos  termos  da  Súmula  211/STJ.
+10.  Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial  da autarquia federal.
+11.  Por  fim,  caso  exista  nos  autos  prévia  fixação  de  honorários  sucumbenciais  pelas  instâncias  de  origem,  majoro,  em  desfavor  da  parte  recorrente,  em  10%  (dez  por  cento)  o  valor  já  arbitrado  (na  origem),  nos  termos  do  art.  85,  §  11,  do  CPC/2015,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo,  bem  como  os  termos  do  art.  98,  §  3º,  do  mesmo  diploma  legal.
+12.  Publique-se.  Intimações  necessárias.
