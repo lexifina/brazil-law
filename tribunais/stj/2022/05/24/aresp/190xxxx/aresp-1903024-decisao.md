@@ -1,0 +1,48 @@
+DECISÃO
+1. Trata-se de agravo interposto por HYUNDAI CAOA DO BRASIL LTDA, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 473):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. FRAUDE EM VENDA DE VEÍCULO REALIZADA NAS DEPENDÊNCIAS DA CONCESSIONÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS. IRRESIGNAÇÃO DA RÉ HYUNDAI CAOA.
+1. No caso concreto, o autor demonstrou que compareceu à agência mais de uma vez e que não houve oposição da direção quanto à venda fraudulenta, realizada por estelionatário nas dependências da concessionária. O consumidor fez prova mínima dos fatos alegados. Art. 373, inciso I do CPC.
+2. Por outro lado, a apelante não anexou quaisquer provas aos autos referentes as suas alegações, mas apenas documentos de representação. Ausência de comprovação de excludente de responsabilidade.
+3. Caracterizada a falha na prestação dos serviços da ré, deve ser mantida sua condenação ao pagamento de indenização por danos materiais, consubstanciada na restituição do valor pago pelo consumidor a título de sinal na aquisição simulada do veículo. Julgado do TJRJ.
+4. Do mesmo modo, é devida a indenização por danos morais, decorrente da postura negligente da empresa, que permitiu que criminoso tivesse livre acesso a suas dependências e negociasse em seu nome, causando prejuízo a inúmeros clientes.
+5. Manutenção do quantum indenizatório, já que adequado às provas dos autos e às circunstâncias da hipótese sub judice.
+Precedente deste Tribunal de Justiça.
+6. Manutenção da sentença.
+7. NEGA-SE PROVIMENTO AO RECURSO.
+Opostos embargos de declaração pelo recorrente (fls. 485-488), foram rejeitados (fls. 500-507).
+Nas razões do recurso especial (fls. 509-527), aponta a parte recorrente ofensa ao disposto no art. 373, do Código de Processo Civil,e arts. 150, 186, 883, 927, 944, 945 e 308 do Código Civil.
+Em apertada síntese, sustenta queo recorrido não produziu provas a embasar a tese defendida e acatada pela Corte de origem.
+Alegasuposta culpa concorrente do recorrido, argumentando que "foi o Recorrido, ao fazer uso de sua torpeza, que deu causa ao evento danoso, inexistindo, portanto, qualquer ato ilícito praticado pela Recorrente que enseje o dever de reparação, de sorte que não pode agora pretender indenização alguma."
+Aduz inobservância ao art. 308 do CC, afirmando que o pagamento deve ser feito ao credor ou a quem de direito o representa, sob pena de só valer depois de por ele ratificado, ou tanto quanto reverter em seu proveito, exatamente a situação dos autos.
+Por fim, sustenta a inexistência de dano moral, poisvez "não ficou comprovada a ofensa à honra, a moral e a imagem do Recorrido" e, subsidiariamente, requer a redução do valor fixado a título de danos morais.
+Contrarrazões ao recurso especial às fls. 560-569.
+É o relatório.
+DECIDO.
+2. Ao analisar a demanda,a Corte local concluiu pela ocorrência de danos materiais e morais no caso sob análise com fulcro nos fatos e provas acostados aos autos.
+Confira-se o trecho pertinente(fls.478-482):
+Com efeito, o autor anexou aos autos o cartão do consultor de vendas Alexandre Bernardino, preposto da ré (fl. 31); o pedido de venda de veículo emitido pelo referido preposto, em papel timbrado da apelante, no qual consta o valor do financiamento de R$15.000,00 (fl. 33); boleto bancário também com o nome da concessionária (fl. 34); o papel com os dados bancários do Sr. Márcio e o comprovante de depósito de R$10.000,00 (fls. 35/36).
+Logo, observa-se que o consumidor demonstrou que compareceu à agência mais de uma vez e que não houve oposição da direção quanto à vendafraudulenta.
+Ademais, foi anexado registro de ocorrência realizado pelo autor e mais quatro vítimas na 16ª Delegacia de Polícia (fls. 37/40), que corrobora a narrativa autoral contida na petição inicial.
+Assim, é possível concluir que a parte autora fez prova mínima dos fatos alegados, se desincumbindo do ônus previsto no art. 373, inciso I do CPC.
+Por outro lado, a apelante não anexou quaisquer provas aos autos referentes as suas alegações, mas apenas documentos de representação (indexadores 334/354). Logo, nenhuma excludente de responsabilidade foi comprovada.
+Pontue-se que no caso concreto aplica-se a teoria da aparência, que garante a segurança jurídica e a boa-fé objetiva da parte vulnerável, porquanto o estelionatário ostentava externamente elementos que conferiram certeza e confiança ao autor de que estava negociando com preposto da empresa ré.
+ ..
+Diante do exposto, caracterizada a falha na prestação dos serviços da ré, deve ser mantida sua condenação ao pagamento de indenização por danos materiais, consubstanciada na restituição do valor pago pelo consumidor a título de sinal na aquisição simulada do veículo.
+Do mesmo modo, é devida a indenização por danos morais, surgindo para a ré o dever de reparar o dano moral causado que, no caso presente, advém da postura negligente da empresa, que permitiu que criminoso tivesse livre acesso a suas dependências e negociasse em seu nome, causando prejuízo a inúmeros clientes.
+Com relação ao quantum indenizatório, este deve ser arbitrado em patamar compatível com a reprovabilidade da conduta ilícita, a intensidade e duração do sofrimento causado à vítima, a capacidade econômica do causador do dano, dentre outras circunstâncias que mais se fizerem presentes.
+Tal matéria sujeita-se à ponderação do magistrado, que deve avaliar as peculiaridades de cada caso concreto, e observar os critérios acima elencados.
+ ..
+Nesse contexto, o valor da verba indenizatória fixada na sentença recorrida em R$ 15.000,00 (quinze mil reais) se adequa aos ditames acima mencionados, bem como as peculiaridades do caso concreto.
+Ressalte-se que referida quantia que não é suficiente para gerar enriquecimento sem causa ao autor e compensará a vítima pelo sofrimento e constrangimento suportados em decorrência da conduta da empresa ré.
+Nessa toada, a alteração destas premissas do acórdão, no sentido de reconhecer eventual culpa concorrente do recorrido, desincumbência do seu ônus probatório, ou mesmo a sua má-fé, dependeria de incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no veto da Súmula 7 desta Corte.
+3.Quanto ao pleito de redução do montante da condenação em danos morais, mister destacar que o Tribunal a quo manteve a condenação de R$ 15.000,00 (quinze mil reais).
+O Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou o caráter irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+No caso vertente, entende-se ser razoável o quantum fixado pela instância ordinária, a título de danos morais, correspondente a R$ 15.000,00 (quinze mil reais). Dessa forma, não há que se falar em condenação desproporcional com relação à extensão do dano, máxime porque fixada dentro de parâmetros razoáveis. Em suma, impõe-se a manutenção do valor arbitrado, a fim de atender aos princípios da proporcionalidade e da razoabilidade, evitando-se o indesejado enriquecimento sem causa, sem, contudo, ignorar o caráter preventivo e pedagógico inerente ao instituto da responsabilidade civil.
+4.No que se refere à suscitada inobservância ao art. 308 do CC, aduz que o pagamento deve ser feito ao credor ou a quem de direito o representa, sob pena de só valer depois de por ele ratificado, ou tanto quanto reverter em seu proveito, exatamente a situação dos autos.
+Todavia, o dispositivo apontado como violado no recurso especial, não foi objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
