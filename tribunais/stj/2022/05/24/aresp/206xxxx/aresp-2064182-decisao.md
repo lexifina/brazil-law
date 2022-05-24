@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FAZENDA DO ESTADO DE SÃO PAULO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - Servidor público estadual - Conversão dos vencimentos para URV - Lei Federal nº 8.880/94 - Reestruturação remuneratória da carreira - Limites do título executivo - Coisa julgada - Termo final para pagamento das diferenças salariais - RE nº 561.836/RN (Tema nº 5 do STF) - Necessidade da vinda de informes e cálculos Decisão mantida" (fl. 32e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 44/45e), os quais restaram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL - EMBARGOS DECLARATÓRIOS - DESCABIMENTO - Inteligência do artigo 1.022 do CPC - Inocorrência de omissão, contradição ou obscuridade - Efeitos infringentes ao recurso - Inadmissibilidade. EMBARGOS DECLARATÓRIOS CONHECIDOS E REJEITADOS" (fl. 48e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.022, I e II,do CPC/2015. Para tanto,sustenta:
+"Veja-se que, em um primeiro momento, o Acórdão reconhece que o TJ-SP determinou expressamente, na fase de conhecimento, a aplicação da tese firmada no RE nº 561.836/RN:
+(..)
+Em seguida, contudo, de forma contraditória, rejeita o pedido da Fazenda para seja fixado como termo final dos cálculos a data em que entrou em vigor a Lei nº 1.111/2010, ao argumento de que a medida feririacoisa julgada, porquanto teria deixado de ser apreciada na fase de conhecimento:
+(..)
+Evidente a contradição incorrida, a Fazenda Pública opôs embargos de declaração para aclarar o julgado.
+Os aclaratórios, entretanto, restaram genericamente rejeitados pelo Acórdão ora recorrido, que reputou não ocorrida a contradição:
+(..)
+IV - DA NEGATIVA DE VIGÊNCIA AO ART. 1.022, II, DO CÓDIGO DEPROCESSO CIVIL
+Referido dispositivo prevê o cabimento de embargos de declaração contra qualquer decisão judicial para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento.
+Como exposto, foram opostos Embargos de Declaração pela FESP para sanar omissão quanto à ausência de manifestação do Órgão Julgador a respeito da alegação principal da Fazenda segundo a qual nada é devido à parte exequente, pois, segundo apurou o seu contador (fls. 122/124), considerando a média aritmética das remunerações convertidas em URV no período entre novembro/1993 e fevereiro/1994, verificou-se que o exequente não sofreu perda remuneratória.
+Tratando-se, contudo, de questão fática, era necessário que o Tribunal a quo se pronunciasse acerca do Laudo Contábil elaborado pela Impugnante, que demonstra a inexistência de valores devidos.
+Não se manifestando sobre o referido argumento, essencial à solução da controvérsia, e mantendo-se silente quanto a ele mesmo após a oposição de embargos de declaração, o acórdão recorrido negou vigência ao art. 1.022, II, do CPC, eis que a matéria foi regularmente alegada em sede de agravo de instrumento, sendo absolutamente relevante para o deslinde da causa, não podendo o Órgão Julgador ignorá-la ao decidir o recurso" (fls. 58/60e).
+Por fim, requer "o provimento do recurso, para cassar o acórdão recorrido, dados os erros de procedimento apontados, determinando o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo para que se pronuncie sobre os vícios demonstrados nos embargos de declaração" (fl. 61e).
+Contrarrazões a fls. 75/77e.
+Inadmitido o Recurso Especial (fl. 85e), foi interposto o presente Agravo (fls. 93/97e).
+Contraminuta a fls. 115/117e.
+A irresignação não merece acolhimento.
+Na origem, trata-se de Agravo de Instrumento ajuizado pela parte ora recorrente, com o objetivo de impedir o pagamento da execução, sob o fundamento de que a obrigação seriailíquida e inexigível (fl. 33e).
+O Tribunal local julgou improcedente o referido recurso.
+Daí a interposição do presente Recurso Especial.
+Verifique-se como o Tribunal de origem solucionou a controvérsia:
+"Com efeito, o entendimento do C. Supremo Tribunal Federal, no julgamento do RE nº 561.836-RN (Tema nº 5), é no sentido de ser obrigatória a observância, pelos Estados e Municípios, dos critérios previstos na Lei Federal nº 8.880/94 para conversão em URV dos vencimentos de seus servidores e, também, que a limitação temporal do reajuste dar-se-á com a reestruturação remuneratória da carreira do servidor.
+À luz de tais ponderações, tem-se que a r. decisão agravada, de forma acertada, manteve a execução do título judicial formado. Determinou, ainda, prossiga a executada com a vinda de informes, bem como nomeou perito, considerando a necessidade de liquidação do índice de conversão. Nada se decidiu, até o presente momento, quanto ao termo final dos cálculos.
+Na verdade, a FESP tenta, indiretamente, reabrir a discussão sobre matéria já acobertada pelo manto da coisa julgada, impassível de modificação, nos termos dos arts. 502, 507 e 508 do CPC, in verbis:
+(..)
+Dessa forma, em prestígio à segurança jurídica, apenas por meio do instrumento adequado (ação rescisória, observado o seu cabimento e o prazo respectivo) seria possível a desconstituição de decisão judicial transitada em julgado.
+Admite-se a invocação de causa modificativa ou extintiva da obrigação como matéria de defesa em sede de impugnação aquela que se perfaz após a formação do título executivo judicial(superveniente à sentença), não podendo dizer respeito a questões anteriores que não foram alegadas pela parte no momento oportuno (fase de conhecimento).
+No caso sub judice, a Fazenda do Estado requer a aplicação do quanto decidido pelo C. Supremo Tribunal Federal em sede de repercussão geral (RE nº 561.836), alegando a reestruturação da carreira dos servidores pela Lei Complementar Estadual nº 1.111/10,que entrou em vigor bem antes da formação da coisa julgada no processo, ocorrida no ano de 2017.
+É certo que incumbia à requerida/executada alegar, no momento oportuno, toda a matéria de defesa considerada apta arechaçar a pretensão inicial (art. 336 do CPC), de modo que é descabido o enfrentamento da matéria relativa à reestruturação da carreira ocorrida em momento anterior à formação do título executivo judicial, em prestígio à eficácia preclusiva da coisa julgada.
+Em outras palavras, eventual limitação da obrigação de fazer decorrente de reestruturação da carreira feita por leis estaduais posteriores à conversão da URV em Real deveria ter sido objeto de discussão no decorrer do processo de conhecimento e não em sede de impugnação ao cumprimento da sentença" (fl. 34/36e).
+Observa-se que, em relação ao art. 1.022 do CPC/2015,o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Verifica-se, ainda, que o fundamento trazido pelo Tribunal de origem não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
