@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 33):
+HABEAS CORPUS - TRÁFICO ILÍCITO DE ENTORPECENTES - PRISÃO - SEGREGAÇÃO NECESSÁRIA PARA A GARANTIA DA ORDEM PREVENTIVA PÚBLICA - QUANTIDADE E NATUREZA DA DROGA (9,900 KG DE MACONHA E 1,024 KG DE COCAÍNA) - MAUS ANTECEDENTES - PRÁTICA DO TRÁFICO COM HABITUALIDADE - GRAVIDADE CONCRETA - ALMEJADA EXTENSÃO DA LIBERDADE PROVISÓRIA CONCEDIDA À CORRÉ - IMPOSSIBILIDADE - SITUAÇÕES COMPLETAMENTE DISTINTAS - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INSUFICIÊNCIA - ALEGAÇÃO DE QUE NO CASO DE EVENTUAL CONDENAÇÃO O REGIME PRISIONAL SERÁ DIVERSO DO FECHADO - ILAÇÃO INVIÁVEL DE ANÁLISE NA VIA ELEITA CONSTRANGIMENTO ILEGAL NÃO VERIFICADO -ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente pela prática docrimes tipificadonoart. 33da Lei 11.343/2006.
+No presente writ, o impetrante sustenta que "o conjunto de elementos coligidos no inquérito policial não demonstram risco concreto de reiteração delitiva por parte do paciente, sendo perfeitamente possível a aplicação de medidas cautelares diversas da prisão", bem como que "ANA CRISTINE ALVES PEREIRA, flagrada na mesma situação, foi agraciada com a concessão de liberdade provisória pelo Juízo de origem, com a aplicação de medidas cautelares diversas da prisão (fiança, recolhimento domiciliar noturno e proibição de manter contato com o coautuado), sendo perfeitamente possível a extensão do benefício para o paciente, tendo em vista que também é primário" (fl. 6).
+Assevera que "o crime imputado ao paciente admite, caso venha a ser condenado, que o início do cumprimento da pena se dê em regime semiaberto, mormente por sua primariedade" e afirma ser "injustificável que permaneça em regime mais rigoroso do que aquele no qual poderá iniciar o cumprimento da pena" (fl. 12).
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente ou substituída pelas medidas cautelares do art. 319 do CPP.
+A liminar foi indeferida (fls. 57-63).
+As informações foram prestadas (fls. 66-83).
+O parecer do Ministério Público Federal foi pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem (fls. 87-93).
+De início, cabe destacar que a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta da decisão que concedeu a liberdade provisória à corré da ação penal(fls. 17/20):
+Existem indícios de autoria e materialidade delitiva.
+Os elementos de informação até então coletados dão conta, indiciariamente, de que a autuada é responsável pelos entorpecentes apreendidos, conforme se infere do auto de prisão em flagrante (seq. 1.2), boletim de ocorrência (seq. 1.2), auto de exibição e apreensão (seq. 1.5), auto de constatação provisória da droga (seq. 1.7) e declarações prestadas pelas autoridades policiais responsáveis pela apreensão (seqs. 1.3 e 1.4).
+A variedade e quantidade dos entorpecentes apreendidos, o valor em espécie encontrado na residência (R$2.578,00), dividido em notas miúdas, e os objetos encontrados (balança de precisão, caderneta de anotações e câmeras de monitoramento) são característicos da comercialização de drogas.
+Os depoimentos dos policiais militares que cumpriram os mandados confirmam o relatado no Boletim de Ocorrência da seq. 1.1:
+EM CUMPRIMENTO AO MANDADO DE BUSCA E APREENSÃO EXPEDIDO NOS AUTOS DE N 0000860-15.2022.8.16.0129, REALIZADO ATRAVÉS DA OPERAÇÃO INTEGRAÇÃO III, JUNTAMENTE COM O SERVIÇO RESERVADO DA PM2, FORAM ABORDADOS O SR. LEONARDO LEDESMA LOUREIRO, PROPRIETÁRIO DA RESIDÊNCIA E UM DOS ALVOS DA OPERAÇÃO, E A SRA. ANA CRISTINE ALVES PEREIRA. EM BUSCA PESSOAL NADA DE ILÍCITO FOI ENCONTRADO COM OS MESMOS, NO ENTANTO NA BUSCA PELA RESIDÊNCIA, FOI LOCALIZADO NA ÁREA DA CHURRASQUEIRA, GRANDE QUANTIDADE DA SUBSTÂNCIA ENTORPECENTE CONHECIDA COMO MACONHA, QUE PESADA POSTERIORMENTE TOTALIZOU 9.900 KG, UMA BALANÇA DE PRECISÃO, UM ENVELOPE CONTENDO GRANDE QUANTIDADE EM DINHEIRO TROCADO E AO LADO UMA CADERNETA COM ANOTAÇÕES QUE PROVAVELMENTE SE RELACIONAM COM O TRÁFICO DE ENTORPECENTES. AINDA NA DESPENSA NOS FUNDOS DA CASA, DENTRO DE UMA BOLSA, UM INVÓLUCRO BRANCO COM SUBSTÂNCIA ANÁLOGA A COCAÍNA, QUE PESADA POSTERIORMENTE TOTALIZOU 1.024 KG. NA COZINHA DO IMÓVEL, DENTRO DE UMA CAIXA, FOI ENCONTRADO MAIS DINHEIRO TROCADO EM NOTAS DIVERS AS.
+TAMBÉM FOI POSSÍVEL VERIFICAR QUE ATRAVÉS DA TELEVISÃO DOQUARTO, O PROPRIETÁRIO DO IMÓVEL TINHA ACESSO A UM SISTEMA DE MONITORAMENTO POR CÂMERAS, QUE POSSIBILITAVA AO MESMO VISUALIZAR A PRESENÇA DAS EQUIPES POLICIAIS NO ENTORNO DA RESIDÊNCIA. DIANTE DOS FATOS, FOI DADO VOZ DE PRISÃO A AMBOS, SENDO OS MESMOS ENCAMINHADOS A ESTA DELEGACIA CIDADÃ, BEM COMO A DROGA E OS MATERIAIS RELACIONADOS, PARA AS PROVIDÊNCIAS DE PRAXE. FOI REALIZADO O USO DE ALGEMAS CONFORME PRECONIZA A SÚMULA VINCULANTE NÚMERO 11, PARA SALVAGUARDAR A INTEGRIDADE FÍSICA DOS ABORDADOS E DA EQUIPE POLICIAL.
+Por sua vez, no interrogatório (seqs. 1.11/1.12), a autuada exerceu seu direito ao silêncio.
+A despeito disso, não compreendo que a conversão do flagrante em preventiva evitará risco àordem pública.
+Embora tenha sido apreendida elevada quantidade de substância entorpecente, a acusada é primária (seq. 23). Ainda, o delito não envolve violência, tampouco ameaça à pessoa, e a nota de culpa não aponta a coautoria ou participação de adolescentes, e a potencial prática de associação, por ora, não se encontra patente.
+O mandado de busca e apreensão origina-se dos autos n. 0000860-15.2022.8.16.0129, tratando-se de cautelar inominada criminal para coleta de elementos de informação acerca dos indícios de autoria em crimes de homicídio, cujas diligências ainda não foram finalizadas pela autoridade policial.
+Assim, a sua participação em atividades criminosas ou a suspeita de integrar organização criminosa, especialmente alguma das facções que vêm disputando território na cidade nos últimos meses, ainda não está evidenciada.
+Dos elementos de informação até então coligidos, portanto, inexistem gravidade concreta e periculosidade da agente capazes de manter a prisão preventiva.
+Também não há grave risco à aplicação da lei penal, nem à instrução criminal ou à ordem econômica.
+Acrescento, que condenação não conduziria à fixação de regime inicial fechado, possível tampouco no semiaberto, diante do preceito secundário do tipo penal da autuação, de modo que a conversão do flagrante em preventiva ensejaria a violação do princípio da , corolário do homogeneidade princípio da proporcionalidade.
+De outro turno, penso que as medidas cautelares diversas da prisão são suficientes à prevenção delitiva, no que implica conceder a liberdade provisória.
+Dispõe o art. 319 do CPP:
+ ..
+Diante do contexto dos autos, penso que é aplicável à flagranteada o recolhimento domiciliar no período noturno, salvo em trabalho, o que servirá para conter possível reiteração delitiva (inciso V).
+Outrossim, mostra-se essencial proibir que a autuada mantenha contato com o autuado LEONARDO LEDESMA LOUREIRO, por qualquer meio de comunicação, e aproxime-se a 200 metros de distância(inciso III).
+Ainda, penso possível arbitrar fiança (inciso VIII), a fim de viabilizar que a autuada permaneça incisopróxima ao juízo e lhe sirva de mecanismo dissuasório à reiteração delitiva e viabilize o custeio do processo, se condenado for.
+ ..
+Conforme o Oráculo juntado, tudo leva a crer (elementos de informação até então coletados) que se trate de traficante eventual, o que, em tese, neste juízo preliminar, pode atrair a incidência do § 4.º do art. 33 da Lei de Drogas.
+No ponto, inexistem elementos para impedir a sua aplicação, já que não há indicativos da habitualidade do agente com o narcotráfico, como exige a jurisprudência: HC n. 401.121/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 1/8/2017; e AgRg no REsp n. 1.390.118/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30/5/2017.
+Com isso, afasto os óbices previstos nos arts. 323 e 324 do CPP e no art. 5.º, XLIII, da CF. Considerando a pena abstrata do delito imputado à flagrada, o valor da fiança deve limitar-se entre 10 e 200 salários mínimos, podendo ser reduzida (art. 325, II e § 1.º, II, do CPP).
+A parte autuada intitulou-se enfermeira e foram encontrados em posse de entorpecentes. Assim, reputo plausível arbitrar fiança de R$ 1.500,00, o que faço com amparo nos arts. 325 e 326 do CPP.
+3. LEONARDO LEDESMA LOUREIRO
+3.1. Flagrante
+A prisão foi efetuada de acordo com o artigo 302, I, do CPP, inexistindo vícios formais ou materiais que venham a macular a peça, estando cumpridos os comandos dos arts. 304 e 306 do CPP.
+A deliberação de acordo com o art. 310 do CPP será realizada na audiência de custódia abaixo designada, após a oitiva do Ministério Público, diante das peculiaridades do caso.
+4. Conclusão 4.1.
+Ante o exposto, o flagrante do autuado HOMOLOGO LEONARDO LEDESMA LOUREIRO.
+4.2. CONCEDO A LIBERDADE PROVISÓRIA C/C MEDIDAS CAUTELARES à autuada nos termos do art. 310, III, DIVERSAS DA PRISÃO ANA CRISTINE ALVES PEREIRA c/c o art. 319, III, V e VIII, e o art. 321, todos do CPP:
+ ..
+Por sua vez, da decisão que converteu o flagrante em prisão preventiva em face do paciente extrai-se (fls. 26/32):
+Quanto aos indícios suficientes de autoria, verifica-se que também se encontram demonstrados auto de prisão em flagrante delito (seq. 1.2), do boletim de ocorrência (seq. 1.1) e dos depoimentos prestados na Delegacia.
+Os elementos de informação até então coletados dão conta, indiciariamente, de que os entorpecentes (9,9kg de "maconha" e 1,024 kg "cocaína") foram apreendidos na residência de LEONARDO, onde ANA CRISTINE também estava.
+A variedade e quantidade dos entorpecentes apreendidos, o valor em espécie (R$2.578,00), dividido em notas miúdas, e os objetos encontrados (balança de precisão, caderneta de anotações e câmeras de monitoramento) são característicos da comercialização de drogas.
+Os depoimentos dos policiais militares que cumpriram os mandados confirmam o relatado no Boletim de Ocorrência da seq. 1.1:
+ ..
+Por sua vez, no interrogatório (segs. 1.8/1.10), o autuado exerceu seu direito ao silêncio quando o crime de tráfico de drogas, mas esclareceu que ANA CRISTINE só estava lá porque ia passar a noite com o autuado, a qual reside no bairro Jardim Araçá.
+Ademais, penso que a segregação cautelar se faz necessária para garantir a ordem pública, diante do periculum libertatis.
+ ..
+Está presente a gravidade concreta do delito, em razão da substancial quantidade, variedade e natureza dos entorpecentes apreendidos (9,9kg de "maconha" e 1,024 kg "cocaína").
+Quanto à periculosidade do agente, Guilherme de Souza Nucci identifica a "periculosidade do agente" na "possibilidade de tornar a cometer delitos".
+Analisando o Oráculo (seq. 24), nota-se que contém uma anotação desabonadora referente aos autos 0001766-20.2013.8.16.0129 (crime de tráfico de drogas), cuja pena foi cumprida em 26.5.2015, atraindo o entendimento do STF: não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, 1, do Código Penal. (STF. Plenário. RE 593818/SC, Rel.Min. Roberto Barroso, julgado em 17/8/2020 - Repercussão Geral - Tema 150).
+Ainda, ao autuado foi concedida suspensão condicional do processo nos autos n.0015452-35.2020.8.16.0129 (posse de arma de fogo de uso permitido de roubo, supostamente praticada no dia 8.6.2020), em 19.3.2021.
+Ademais, a substancial gravidade concreta do delito (acima detalhada) autoriza a conclusão de que se solto for voltará a delinquir.
+A respeito, infere-se da jurisprudência do STJ:
+ ..
+Há, portanto, fatos concretos contemporâneos (art. 315, § 1º, CPP) que evidenciam o potencial risco de reiteração delitiva, não se estando o juizo cautclar calcado em meras conjecturas.
+Sendo assim, a despeito da inexistência de repercussão social do fato, as demais circunstâncias do caso apontam para a conclusão preliminar de que se solto for voltará a delinquir.
+De outro turno, impende destacar que a prisão preventiva não está sendo decretada com a finalidade de antecipar a pena eventualmente a ser imposta, tampouco como condição automática da prisão em flagrante, da investigação ou da denúncia (fase ainda não verificada), porquanto segue ancorada em elementos concretos extraídos dos autos, em razão da adequação e necessidade da cautelar.
+Ainda, registro que o crime imputado ao flagrado tem pena máxima em abstrato superior a 4 anos de reclusão.
+Outrossim, há que se ponderar que a aplicação de qualquer uma das medidas cautelares estabelecidas no artigo 319 do Código de Processo Penal não seria suficiente para acautelar adequadamente a ordem pública, diante da concreta possibilidade de reiteração criminosa por parte do autuado.
+No particular, esclareço que o autuado LEONARDO não ostenta dos mesmos predicados deANA CRISTINE, uma vez que os entorpecentes foram encontrados na residência do autuado, onde a autuada, aparentemente, estava apenas momentaneamente, tanto que a defesa trouxe aos autos comprovante de residência em outro local (seq. 18.2).
+Ainda, ao contrário do autuado, não há nenhuma anotação criminal desabonadora no Oráculo de ANA CRISTINE (seq. 12).
+Nesse sentido, é remansosa a jurisprudência pátria:
+ ..
+Dito isso, CONVERTO EM PRISÃO PREVENTIVA o flagrante de LEONARDO LEDESMA LOUREIRO, com fundamento nos arts. 310, II, 311, 312 e 313, todos do Código de Processo Penal, a fim de garantir a ordem pública.
+Como visto, há fundamentoválido para a decretação da prisão preventiva do paciente, explicitada na gravidade concreta do crime, haja vista a quantidade de droga apreendida (9,9kg de "maconha" e 1,024 kg "cocaína"), bem como na vivência delitiva do paciente, já que ostenta condenação, embora antiga, pelo mesmo delito, e processode 2020, que foi beneficiado com a suspensão condicional, pela prática do crime de posse de arma de fogo.
+Cabe destacar que "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Vale destacar que, "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Por outro lado, não se verifica similitude fático-processual entre a situação do paciente e da corré beneficiada com a liberdade, pois como trazido na decisão de prisão, o paciente era quem residia no imóvel onde as drogas foram encontradas e a corré estaria de passagem pelo local, tanto que acostou comprovante de residência em outro endereço, além disso, não possui antecedentes criminais.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
