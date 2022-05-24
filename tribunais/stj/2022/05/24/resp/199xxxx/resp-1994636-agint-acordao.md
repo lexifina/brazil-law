@@ -1,0 +1,35 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, fundamento adotado pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência da Súmula 182 do STJ.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Manoel Erhardt (Desembargador convocado do TRF-5ª Região) e Benedito Gonçalves (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Ministério Público Federal desafiando decisão pela qual não conheci do agravo em recurso especial, por entender que a parte agravante deixou de rebater, de modo específico, a aplicação das Súmulas 735/STF e 83/STJ, atraindo, desse modo, a incidência da Súmula 182 desta Corte.
+Em suas razões, a parte agravante sustenta que: (I) "o Agravante realiza clara abordagem acerca da não incidência do entendimento sumular nº 735/STF, ao enfatizar que a pretensão recursal não questiona a existência ou não dos requisitos autorizadores da antecipação dos efeitos da tutela, mas se dirige apenas a um dos pontos da decisão, concernente a inobservância da legislação federal; evidenciando, ainda, a aplicabilidade da Súmula 86/STJ" (fl. 689); (II) "a questão relacionada à divergência jurisprudencial (não incidência da súmula nº 83/STJ) foi igualmente objeto de impugnação nas razões recursais, ainda que de forma implícita" (fl. 690) e (III) "a aplicação da Súmula 83 no caso em espeque é no mínimo questionável. Isso porque a decisão agravada limitou se apenas a afirmar, de forma genérica, que o acórdão segue a linha do próprio STJ; porém, não há a indicação de um julgado sequer dessa Corte Superior que preserve similitude com o acórdão recorrido" (fl. 691).
+Impugnações às fls. 709/712 e 713/723.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, fundamento adotado pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência da Súmula 182 do STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Ademais, tal como constatou a decisão agravada, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SCe EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+Não obstante, no caso dos autos, o ora agravante deixou de rebater, de modo específico, a aplicação das Súmulas 735/STF e 83/STJ.
+Ora, com relação à incidência da Súmula 83/STJ, observa-se que o trecho do recurso citado pela parte nas alegações do presente agravo interno não representa impugnação sequer implícita ao referido óbice sumular, mas, sim, simples reedição das razões pelas quais se entendia que o acórdão recorrido devia ser reformado.
+No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente, no mínimo, suscitar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido. Nesse sentido:AgRg no REsp 1.254.077/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011.
+Ademais, ainda que a parte, agora, em sede de agravo interno, traga insurgência quanto a esse óbice de admissibilidade, sustentando eventual caráter genérico da decisão da origem nesse ponto, o fato é que essa argumentação deveria ter sido ofertada no momento oportuno.
+Como já é bem delineado pela jurisprudência do STJ, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não tem o condão de sanar os vícios existentes nas razões do agravo em especial. Nesse sentido:
+ADMINISTRATIVO. LICITAÇÃO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I -Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II -Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, todos do Código de Processo Civil de 2015.
+III - A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes das Turmas componentes da 1ª Seção.
+IV -Honorários recursais. Não cabimento.
+V -Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI -Agravo Interno não conhecido.
+(AgInt no AREsp 1853352/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Diante disso, escorreita a decisão agravada ao entender como aplicável à espécie, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.")
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
