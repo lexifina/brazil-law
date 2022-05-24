@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 70):
+HABEAS CORPUS CRIME - TRÁFICO DE ENTORPECENTES - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - ALEGAÇÃO DE INIDONEIDADE DA FUNDAMENTAÇÃO DA MEDIDA EXTREMA - NÃO OCORRÊNCIA NA ESPÉCIE - PROVA DA EXISTÊNCIA DO CRIME E DE INDÍCIOS MÍNIMOS DE AUTORIA - NECESSIDADE DE RESGUARDO DA ORDEM PÚBLICA - PRESENÇA DOS REQUISITOS AUTORIZADORES - DECISÃO MONOCRÁTICA MOTIVADA EM ELEMENTOS CONCRETOS - PERICULOSIDADE DO PACIENTE EVIDENCIADA PELA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (COCAÍNA) E PELA REAL POSSIBILIDADE DE REITERAÇÃO DELITIVA - DISCUSSÃO ACERCA DA AUTORIA DELITIVA - INVIABILIDADE NA ESPÉCIE - ANÁLISE QUE EXIGE EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO - PRETENSÃO DE SUBSTITUIÇÃO DA MEDIDA EXTREMA PELA APLICAÇÃO DE MEDIDAS ALTERNATIVAS - INSUFICIÊNCIA E INADEQUAÇÃO AO CASO CONCRETO - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - ORDEM DENEGADA NA PARTE CONHECIDA
+Consta dos autos que opaciente foi preso em flagrante, sendo convertida em preventiva pela suposta prática dos delitos previstos nos art. 33, caput, da Lei n. 11.343/2006.
+Oimpetrante sustenta, em síntese,que não estãopresentes os requisitos necessários à custódia cautelar, nos termos do art. 312 do Código de Processo Penal, tendo a prisão sido embasada apenas na gravidade abstrata do delito, o que não é permitido pelo ordenamento jurídico.
+Alega que a quantidade de droga apreendida seria pequena, podendo responder ao processo em liberdade.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente mediante a imposição de medidas cautelares diversas da prisão.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdadeantes do trânsito em julgado da sentença condenatória, reveste-se delegalidade a medida extrema quando baseada em elementos concretos, nostermos do art. 312 do CPP.
+O decreto prisional assim dispôs (fls. 57/59):
+ ..  Em que pese conste dos autos a informação de que o autuado é primário e portador de bons antecedentes, é certo que tais argumentos, de per si, não se prestam a autorizar o afastamento da custódia cautelar.
+Isso porque, conforme pacífico entendimento jurisprudencial do Superior Tribunal de Justiça, eventuais condições subjetivas favoráveis do agente não servem, isoladamente, para inviabilizar o decreto preventivo, mormente quando presentes os requisitos legais para sua imposição, como é o caso dos autos. Neste sentido:
+ ..
+Não obstante, observa-se que o flagrado recentemente foi abordado e preso em situação similar, inclusive versando sobre a mesma substância entorpecente (cocaína), conforme Inquérito Policial sob nº 0008955-54.2021.8.16.0069, em trâmite perante a Vara Criminal de Cianorte/PR.
+Em que pese seja coibida a utilização de inquéritos policiais para fins de agravar a pena-base em sede de sentença criminal condenatória, conforme Súmula 444 do Superior Tribunal de Justiça, é certo que, por outro lado, admite-se a sua utilização como fundamento para fins de custódia cautelar quando, in casu, seja averiguado o risco de reiteração delitiva e conseqüente abalo à ordem pública, como ora ocorre, porquanto preso novamente em curto espaço de tempo por situação bastante análoga, somado ao fato de que haviam denúncias sobre o tráfico de drogas naquela localidade.
+ ..
+Rememore-se, outrossim, que a droga conhecida como "cocaína" é de elevado valor de mercado e possui alto poder viciante/destrutivo.
+É de se registrar também que, além do entorpecente, houve a apreensão de um aparelho celular e também de determinada quantia em dinheiro, cuja origem não foi esclarecida.
+No meu entender, estão presentes as circunstâncias que demonstram a necessidade da manutenção da custódia do autuado.
+De todo modo, verifica-se que é plenamente possível que, em liberdade, ele continue cometendo crimes dessa natureza (como aliás ocorreu), de modo que entendo, assim, pelo preenchimento do requisito de perigo gerado pelo estado de liberdade do imputado (art. 312, parte final, CPP).
+Com efeito, a confluência destes fatores indica como certa a possibilidade de reiteração delitiva. Outrossim, não há na comunicação de flagrante prova concreta de que tenha atividade laborai lícita, a exemplo de CTPS ou similar.
+Por fim, verifica-se que as medidas cautelares diversas da privação de liberdade (art. 319, CPP) mostram-se insuficientes para acautelar a ordem pública, mormente porque presentes os requisitos autorizadores à decretação da prisão preventiva. ..
+Como se vê, expôs o decreto prisional fundamentação consistente nareiteração delitiva do paciente, destacando-se que "o flagrado recentemente foi abordado e preso em situação similar, inclusive versando sobre a mesma substância entorpecente (cocaína), conforme Inquérito Policial sob nº 0008955-54.2021.8.16.0069, em trâmite perante a Vara Criminal de Cianorte/PR".
+Porém, na hipótese, apesar da referência à reiteração pelo mesmo crime,a quantidade de droga apreendida não é expressiva- 24gde cocaína(fl. 56).
+A Sexta Turma desta Corte tem entendido que o tráfico flagrado de não relevantequantidadededrogassomente com especial justificação permitirá a prisão por risco social, de modo que a medida de prisão é desproporcional.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGALCONFIGURADO.
+1. A agravada, além de mãe de quatro crianças, sendo três abaixo de 12anos, é primária e possui bons antecedentes, e, além disso, a quantidadede entorpecente supostamente traficada é diminuta (16,6 g de maconha, 30,3g de cocaína e 2,4 g de pasta de cocaína - fls. 144/147 e 210/222); logo,apesar de minimamente fundamentada a prisão, não está demonstrada apericulosidade do agente, a ponto de justificar o encarceramentopreventivo. A prisão, in casu, revela-se medida desproporcional (HC n.475.587/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe21/3/2019).
+2. A parte agravante não reuniu elementos suficientes para infirmar odecisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.(AgRg no HC 662.056/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,julgado em 15/02/2022, DJe 17/02/2022)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO AOTRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. AUSÊNCIA DEPROPORCIONALIDADE. SUBSTITUIÇÃO POR MEDIDA CAUTELAR. ART. 319 DO CPP.POSSIBILIDADE.
+1. A regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisãode natureza cautelar revela-se cabível tão somente quando, a par deindícios do cometimento do delito (fumus commissi delicti), estiverconcretamente comprovada a existência do periculum libertatis, nos termos
+do art. 312 do Código de Processo Penal. 2.Na espécie, realizada a prisão em flagrante, o Magistrado de pisoconverteu a custódia em preventiva com base na pequena quantidade de droga(4 porções de cocaína, com peso de 6g, além de 33 pedras de crack, pesando7g) apreendida e na indicação genérica de que o paciente "responde aoutros processos criminais".
+3. Na espécie, além de a quantidade de droga apreendida não ser vultosa, avaga referência a "outros processos criminais" deu-se sem que fossemapontados dados concretos relacionados à pretensa reiteração delitiva.Nesse contexto, apesar de minimamente fundamentada a prisão, não estádemonstrada a periculosidade do agente, a ponto de justificar oencarceramento preventivo. A prisão, in casu, revela-se medidadesproporcional.
+4. Assim, as particularidades do caso demonstram a suficiência, adequaçãoe proporcionalidade da imposição das medidas menos severas previstas noart. 319 do Código de Processo Penal.
+5. Ordem concedida, em menor extensão, para substituir a prisão preventivapor medidas cautelares diversas da prisão a serem fixadas pelo Juizsingular.
+(HC 475.587/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA,julgado em 12/03/2019, DJe 21/03/2019)
+Ante o exposto, concedoliminarmente o habeas corpus, para a soltura do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
