@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, com pedido liminar, impetrado em favor de JEFFERSON DOS SANTOS PEREIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 anos 4 meses e 24 dias de reclusão, em regime inicial fechado, e ao pagamento de 16 dias-multa, como incurso no artigo 157, parágrafo 2º, incisos I e II do Código Penal.
+O Tribunal a quo negou provimento à apelação defensiva, nos seguintes termos:
+"Apelação criminal. Roubo. Autoria. Prova. Vítima. Depoimento. Em tema de investigação de autoria do crime de roubo, faz-se sempre de particular importância o depoimento da vítima, notadamente quando nada de concreto o desabona." (e-STJ, fl. 485)
+Neste writ, o impetrante sustenta, em síntese, constrangimento ilegal, alegando, essencialmente, que deveria ser o paciente absolvido, por se tratar de "erro Judiciário em razão de que desde a análise probatória em sede de Segunda Instância no processo originário, se percebe que os magistrados deixaram de observar que a Vítima apresentou depoimentos contraditórios ao se comparar o da delegacia, no dia seguinte ao crime" (e-STJ, fl. 4)
+Requer, ao final, a concessão da ordem para que o paciente seja absolvido por insuficiência probatória.
+Requerimento de tutela provisória indeferido (e-STJ, fl. 537).
+Parecer do Ministério Público Federal no sentido do não conhecimento do writ (e-STJ, fls. 546-549).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+"Veja-se que todo esse conjunto probatório é inequívoco no sentido de consolidar a autoria delitiva em desfavor de Emerson e de Jeferson, cabendo, nesse sentido, melhor razão ao representante ministerial.
+Realmente, embora Rafaela não tenha visualizado Jeferson no instante do roubo, ela, todavia, o viu com o Corsa branco momentos antes e, na sequência, também visualizou esse carro escoltando a conduta dos assaltantes mais frontais do ilícito. Veja-se que o próprio Jeferson em momento algum esclareceu esse seu envolvimento, senão simplesmente pela negativa genérica que, portanto, contradiz sim, diretamente, os relatos da vítima.
+As provas colhidas durante a instrução processual são farta sem apontar os acusados como autores desse ilícito de roubo. Observa-se do depoimento da vítima que ela sempre relatou com riqueza de detalhes a ocorrência do roubo que suportou. Mais a mais, tem-se ainda a circunstância de Rafaela reconhecer ambos os acusados na audiência, apesar da decorrência do tempo.
+É claro que a palavra incriminatória da vítima em desfavor dos agressores do patrimônio em que zelava deve ser devidamente prestigiada, não havendo razão plausível para dela suspeitar. Em sede de investigação de crimes de roubo sempre terá em princípio especial valia, haja vista ser uma espécie de delito que raramente é testemunhada por terceiros, ao contrário do entendimento do Juízo de origem. Com efeito, Rafaela não teria razão alguma para, deixando de lado seus afazeres habituais, comparecer perante as autoridades tão apenas para delatar pessoas que soubesse absolutamente inocentes.
+De outra parte, realmente os acusados não propiciaram a sua defesa técnica a produção de meio algum de prova que, minimamente, desviasse de sua pessoa os termos dessa imputação.
+Logo, só resta manter a condenação de Emerson e condenar Jeferson por esse ilícito de roubo, fixando-lhes a pena e o regime de cumprimento." (e-STJ, fl. 489-490)
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO. FINANCIAMENTO DO TRÁFICO. RECURSO ESPECIAL PELA DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO PARADIGMA EM HABEAS CORPUS. IMPOSSIBILIDADE. CONDENAÇÃO. BUSCA E APREENSÃO. INTERCEPTAÇÃO TELEFÔNICA. PROVA ORAL JUDICIAL E EXTRAJUDICIAL. REEXAME PROBATÓRIO. SÚMULA N.º 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte estadual, com fundamento nos elementos do caderno fático-probatório, entre eles os testemunhos policiais e os resultados das diligências de busca e apreensão e de interceptação telefônica, concluiu pela comprovação da autoria e da materialidade dos crimes de associação para o tráfico e de financiamento do tráfico. A revisão da condenação exigiria, portanto, amplo reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7/STJ.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 1804625/RO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 05/06/2019).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DOSIMETRIA. TRÁFICO DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO. INADMISSIBILIDADE NA VIA ELEITA.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PENA-BASE DOS CRIMES ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE. POSIÇÃO DE LIDERANÇA. FUNDAMENTAÇÃO ESCORREITA. ABRANDAMENTO DO REGIME PRISIONAL. PLEITO PREJUDICADO. NÃO ALTERAÇÃO DO QUANTUM DA PENA.PENA SUPERIOR A 8 ANOS DE RECLUSÃO. OBSERVÂNCIA DO ART. 33, § 2º, ALÍNEA "A", DO CÓDIGO PENAL - CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As instâncias ordinárias, com base no exame exauriente das provas dos autos, sobretudo as circunstâncias do delito, entenderam que o paciente praticava tráfico e associação para o tráfico de drogas. Ademais, para se afastar a materialidade do delito de associação para o tráfico, é necessário o reexame aprofundado de provas, inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido." (HC n. 502.868/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 20/05/2019)
+Nesse contexto, se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova da materialidade e de autoria do crime de roubo majorado. Inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
