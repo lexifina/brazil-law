@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+NOECI TEREZINHA DE ASSIS e CELSO JESUS DE ASSIS opõem embargos de declaração contra acórdão proferido pela Sexta Turma, que negou provimento ao seu agravo regimental; dessa forma, manteve a decisão que conheceu do agravo para prover, em parte, o recurso especial, apenas para afastar a determinação de execução antecipada das penas.
+Os embargantes apontam as seguintes omissões: a) a omissão apontada no acórdão recorrido é no que diz respeito ao prequestionamento explícito exigido pelo Supremo Tribunal Federal quanto aos dispositivos constitucionais; b) o acórdão embargado não indica quais foram os elementos próprios de convicção explicitados pela Corte de origem em complemento à fundamentação "per relationem"; c) a ausência de fundamentação da decisão que determinou a quebra de sigilo bancário e fiscal e a interceptação telefônica; d) a verificação da ausência de prova para a condenação e do pedido de desclassificação demandam apenas revaloração jurídica de provas.
+Requer o acolhimento dos embargos, a fim de que seja integrado o acórdão.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em nenhum vício que desse ensejo aos aclaratórios.
+2. A pretensão de se obter prequestionamento explícito, por si só, não justifica a oposição dos aclaratórios se ausentes no julgado os requisitos do art. 619 do CPP, daí a necessidade de que sejam analiticamente demonstrados, o que não ocorreu na espécie.
+3. No tocante à fundamentação "per relationem", o julgado impugnado transcreveu justamente a cognição própria declinada pelo Tribunal de origem na análise das preliminares invocadas. Vale ressaltar que a necessidade de cognição própria não se confunde com a obrigatoriedade de argumento jurídico novo.
+4. A discussão sobre a decisão que determinou a quebra de sigilo fiscal e bancário e a interceptação telefônica não envolve apenas a fundamentação do referido decisum, mas, também, a demonstração de efetivo prejuízo à defesa, o que não se afigura plausível ante a cognição das instâncias antecedentes de que "sequer o ato influenciou na apuração da verdade substancial ou na decisão da causa".
+5. O argumento de que a verificação da ausência de prova para a condenação e do pedido de desclassificação demanda apenas revaloração jurídica de provas não se caracteriza como omissão, mas sim pretensão de rejulgamento de causa decidida, fim a que não se destinam os embargos de declaração.
+6. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Sob essas premissas, constato que, no caso em análise, o julgado não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes aclaratórios.
+O acórdão embargado consignou que a pretensão baseada na violação do art. 619 do Código de Processo Penal é deficiente, em vista da ausência de demonstração analítica da omissão. Os argumentos explicitados pela defesa são genéricos.
+A pretensão de se obter prequestionamento explícito, por si só, não justifica a oposição dos aclaratórios se ausentes no julgado os requisitos do art. 619 do CPP, daí a necessidade de que sejam analiticamente demonstrados, o que não ocorreu na espécie.
+No tocante à fundamentação "per relationem", o acórdão impugnado transcreveu justamente a cognição própria declinada pelo Tribunal de origem na análise das preliminares invocadas. Vale ressaltar que a necessidade de cognição própria não deve ser confundida com a obrigatoriedade de argumento jurídico novo.
+Constou do acórdão embargado (fl. 7.813):
+ .. que a arguição de nulidade da decisão que determinou a busca e apreensão de bens já foi objeto de análise por Corte quando do julgamento do Mandado de Segurança n. 70049163058.
+Outrossim, em havendo indícios veementes de que determinado bem é produto de crime ou foi adquirido com o proveito dele, basta a decisão de juiz criminal determinando o sequestro ou arresto sem necessidade de qualquer outra medida prévia de natureza que não a criminal. A força da decisão do juiz criminal de sequestro ou arresto de bens diretamente vinculados ao crime não depende de qualquer medida cível prévia, já que a jurisdição criminal tem sua autoridade, autonomia e força vinculativa emanadas diretamente da Constituição Federal. No caso dos autos, foram demonstrados indícios veementes de que os bens constritos pela Justiça Criminal eram produto de crime ou tinham sido adquiridos com o proveito dele, razão pela qual a constrição judicial destes bens foi ato legal.
+Sobre a ausência de fundamentação da decisão que determinou a quebra de sigilo bancário e fiscal e a interceptação telefônica, o julgado embargado consignou (fl. 7.815):
+ ..
+A sentença condenatória explicitou que "sequer o ato influenciou na apuração da verdade substancial ou na decisão da causa" (fl. 6.294). Acrescentou, ainda, ter havido indicação detalhada dos motivos que "levaram ao deferimento das medidas" (fl. 6.294) e que não teria havido prejuízo à defesa, portanto.
+A Corte de origem, por sua vez, convalidou a cognição de primeira instância, ao referir aspectos das condutas investigadas. A análise sobre a imprescindibilidade das medidas ou a existência de outros meios de obtenção da prova implica revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Portanto, a discussão sobre o tema não envolve apenas a fundamentação do referido decisum, mas também a demonstração de efetivo prejuízo à defesa, o que não se afigura plausível ante a cognição de que "sequer o ato influenciou na apuração da verdade substancial ou na decisão da causa" (fl. 7.818).
+O argumento de que a verificação da ausência de prova para a condenação e do pedido de desclassificação demanda apenas revaloração jurídica de provas não se caracteriza como omissão, mas sim de pretensão de rejulgamento de causa decidida, fim a que não se destinam os embargos de declaração. Ilustrativamente:
+ ..
+1. Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão, ambiguidade, obscuridade, contradição ou omissão, ou, então, retificar, quando constatado, eventual erro material do julgado.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa  ..
+3. Embargos de declaração rejeitados. (EDcl no AgRg no RE nos EDcl no AgRg no AREsp n. 1.469.363/DF, Rel. Ministra Maria Thereza de Assis Moura, C.E., DJe 15/5/2020, grifei)
+À vista do exposto, rejeito os embargos de declaração.
