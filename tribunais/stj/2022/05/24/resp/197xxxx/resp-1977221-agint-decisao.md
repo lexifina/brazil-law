@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto por TUMELEIRO MATERIAIS DE CONSTRUÇÃO S/A.contra a decisão que conheceu e negou provimento ao recurso especial.
+A Agravante sustenta, em síntese, que " ..  posteriormente à subida do feito ao C. STJ, foi eleito pelo C. STF o Tema de Repercussão Geral n.º 1186 (Exclusão do PIS e da COFINS da base de cálculo da CPRB), de se esperar a retratação pela Ilustre Min. Rel. da C. Corte Superior ou o provimento deste Agravo Interno pelo Colegiado, para anular a combatida decisão monocrática ora agravada e suspender/sobrestar o processo nos termos do art. 1.037, inciso II, do CPC" (fl. 428e)..
+Por fim, requero provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Sem impugnação, consoante certidão à fl. 438e.
+É o relatório. Passo a decidir.
+Em juízo de retratação, consoante o disposto no art. 1.021, § 2º, do mesmo diploma normativo, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor a reconsideração, a fim de que o especial seja, novamente analisado.
+A 1ª Turma deste Superior Tribunal acolheu os Embargos de Declaração, com efeitos infringentes, tornando-se sem efeitos as decisões anteriores e determinando-se a devolução dos autos ao Tribunal de origem, porquanto aquestão tratada teve sua repercussão geral admitida pelo Supremo Tribunal Federal, como segue:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO EM RECURSO ESPECIAL. RECONHECIMENTO DE REPERCUSSÃO GERAL DA MATÉRIA DE FUNDO PELO STF. ART. 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS PARA SOBRESTAMENTO NO TRIBUNAL DE ORIGEM.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. A questão tratada nos autos inclusão da COFINS e da contribuição ao PIS em suas próprias bases de cálculo - teve sua repercussão geral admitida pelo Supremo Tribunal Federal nos autos do RE 796939 (Tema 1067).
+3. Assim, "tendo em vista que a questão controvertida nestes autos diz respeito a tema cuja repercussão geral foi reconhecida pelo STF, o julgamento imediato do Recurso Especial seria prematuro, e, sendo assim, os autos devem ser devolvidos ao Tribunal de origem, para que, uma vez publicado o acórdão paradigma a ser proferido pelo STF, seja o inconformismo apreciado, na forma da lei (art. 1.039 do CPC/2015)" (EDcl no AgInt no AREsp 914.964/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/8/2018).
+4. Embargos de Declaração acolhidos, com efeitos infringentes, tornando-se sem efeitos as decisões anteriores e determinando-se a devolução dos autos ao Tribunal de origem.
+(EDcl no AgInt no REsp n. 1.833.317/RS, relator Benedito Gonçalves, Primeira Turma, DJe de 30/9/2021.)
+No caso, quanto à matéria de fundo - exclusãoos valores relativos ao PIS e à COFINS da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta(CPRB), ressalta-se a existência de repercussão geral reconhecida pelo Supremo Tribunal Federal, no RE n.1.341.464 RG/CE- Tema nº 1.186.
+Em recursos versando sobre temas afetados à repercussão geral, o STF tem determinado o retorno dos processos para os tribunais de origem, para aguardar o julgamento do recurso extraordinário representativo da controvérsia.
+Na mesma linha:(REsp n. 1.999.838, Ministro Sérgio Kukina, DJe de 19/05/2022).
+Considerando que, no presente feito, se discute situação análoga a dos julgados apontados, o mesmo procedimento deve ser adotado.
+Posto isso, nos termos do art. 1.021, § 2º, do CPC/2015, reconsideroa decisão de fls. 421/423e, restando, por conseguinte, prejudicado o agravo interno de fls. 425/431e; eDETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação doacórdãodos recursoreferente ao Tema n. 1.186/STF, acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se. Intime-se.
