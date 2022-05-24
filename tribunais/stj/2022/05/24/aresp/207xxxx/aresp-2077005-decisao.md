@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por VAGNER VIANA FUCHI contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"REVISÃO CRIMINAL TRÁFICO ILÍCITO DE ENTORPECENTES PRETENSÃO DE REEXAME DO CONTEXTO PROBATÓRIO, EM BUSCA DA ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O CRIME DE POSSE DE ENTORPECENTES PARA CONSUMO PRÓPRIO - INADMISSIBILIDADE - PROVAS DEVIDAMENTE ANALISADAS AO LONGO DO PROCEDIMENTO REGULAR, OBSERVADO O DUPLO GRAU DE JURISDIÇÃO - INEXISTÊNCIA DE QUALQUER DAS HIPÓTESES DO ARTIGO 621 DO CÓDIGO DE PROCESSO PENAL - PRETENDIDA A APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI DE DROGAS - REJEIÇÃO - REINCIDÊNCIA IMPEDE A OUTORGA DA BENESSE - LEI NÃO FAZ DISTINÇÃO ENTRE REINCIDÊNCIA ESPECÍFICA E GENÉRICA - DOSIMETRIA CORRETAMENTE ELABORADA - REGIME INICIAL FECHADO MANTIDO - IMPROCEDÊNCIA DA AÇÃO REVISIONAL." (e-STJ, fl. 77)
+A defesa alega, em síntese, violação dos arts. 155 e 386, V e VII, do CPP, diante da sua condenação sem lastro probatório idôneo, uma vez que essa se baseou exclusivamente nos depoimentos dos policiais.
+Sustenta, também, negativa de vigência ao art. 28 da Lei n.11.343/2006, pleiteando a desclassificação da conduta para o porte de drogas para consumo pessoal.
+Por fim, caso não sejam acatadas as teses anteriores, requer seja aplicada a redutora do § 4º do art. 33 da referida Lei (e-STJ, fls. 101-114).
+Foram apresentadas as contrarrazões (e-STJ, fls. 118-122).
+O recurso foi inadmitido (e-STJ, fls. 124-125). Daí este agravo (e-STJ, fl. 128-136).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 158-165).
+É o relatório.
+A irresignação não merece acolhimento.
+Inicialmente, cumpre salientar que este Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP.
+No tocante ao pleito absolutório, sob o argumento de que a condenação se baseou exclusivamente no depoimento dos policiais e, por isso, não haveria provas suficientes para a condenação, o Tribunal a quo assim se manifestou:
+"Não logrou o requerente demonstrar a ocorrência de erro judiciário. E não apontou, porque tal erro não existe. A r. decisão revidenda encontra-se seguramente amparada na sólida prova produzida nos autos.
+Em resumo, embora o peticionário e o corréu João Paulo tenham negado participar do processo de separação e embalagem de drogas realizado pelo corréu Fábio, este, em seu interrogatório extrajudicial (fl. 06 dos autos originais), confessou a prática do delito e delatou os comparsas. A delação extrajudicial, por seu turno, foi corroborada pelo relato unânime dos policiais militares responsáveis pela prisão em flagrante.
+(..)
+O depoimento prestado por agentes da segurança pública, independentemente da força que integrem, seja guarda civil metropolitano, seja policial militar, seja policial civil, merece inteira acolhida, pois não há nenhum elemento nos autos que indique parcialidade apta a gerar uma incriminação dos então acusados sem motivos.
+Com efeito, não há prova de má-fé ou suspeita de falsidade, mesmo porque os agentes e os então acusados nada disseram sobre terem tido qualquer contato anterior, não se podendo cogitar de qualquer possibilidade de vingança ou de atitude tendente a incriminar pessoas inocentes." (e-STJ, fls. 83-90).
+Como se vê, o decreto condenatório encontra-se suficientemente fundamentado, seja pela confissão extrajudicial do corréu Fábio, no sentido de que todos participavam da atividade delituosa em comento, seja pelos depoimentos dos agentes policiais, os quais, consoante entendimento pacificado nesta Corte Superior, possuem valor probante.
+A propósito:
+" ..
+1. É cediço que esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa (AgRg no AREsp n. 1.877.158/TO, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 20/9/2021).
+(..)
+4. Ordem concedida para cassar o acórdão de apelação e restabelecer a sentença que absolveu o paciente (Ação Penal n. 0044277-27.2017.8.16.0021)."
+(HC n. 723.664/PR, relator Sebastião Reis Júnior, Sexta Turma, DJe de 13/5/2022.)
+Nesse contexto, não se verifica a apontada ausência de provas necessárias à condenação do réu.
+Quanto ao pleito desclassificatório, colhe-se do aresto impugnado:
+"A destinação mercantil, por seu turno, restou evidenciada não somente pela considerável quantidade de entorpecente apreendida (96 porções de cocaína), mas também pela confissão do corréu Fábio, que sempre confirmou a destinação da droga ao comércio, tanto que a estava embalando, o que é confirmado, ademais, pela apreensão, no local, de sacos plásticos vazios e uma balança de precisão com resquícios de droga, assim como pelo teor das denúncias anônimas recebidas pelos policiais.
+Não se pode olvidar, por fim, que a condição de usuário não é incompatível com a de traficante. Como é de notório conhecimento, com frequência usuários passam a vender drogas com o fim de financiar a própria dependência.
+Assim, mostra-se inviável a desclassificação pretendida pela defesa.
+A condenação, portanto, foi correta, posto baseada em prova concreta, que o revisionando não logrou êxito em desconstituir, previamente, por meio de justificação necessária, para dar substrato eventualmente diverso daquele colacionado nos autos principais e autorizar desenlace que lhe pudesse ser favorável." (e-STJ, fls. 92-93).
+Desse modo, para se chegar à conclusão diversa do acórdão, seria necessário o reexame dos elementos fáticos e probatórios dos autos, o que não é possível nesta via especial, tendo em vista a incidência do óbice da Súmula 7/STJ.
+Por fim, no que diz respeito à dosimetria da pena, a revisão criminal tem cabimento restrito, somente se admitindo o exame quando, após a sentença, forem descobertas novas provas de elementos que autorizem a revisão da pena, (..)" (AgRg no AREsp 1704043/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 29/09/2020), o que não é o caso dos autos.
+Ainda que assim não fosse, verifica-se que o aresto objurgado foi proferido em sintonia com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que "a reincidência, seja ela específica ou não, constitui óbice à aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/06, tendo em vista que um dos requisitos para a incidência do benefício é que o paciente seja primário" (HC 393.862/DF, Relator REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 2/10/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
