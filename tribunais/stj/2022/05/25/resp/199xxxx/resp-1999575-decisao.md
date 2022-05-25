@@ -1,0 +1,38 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por CONDOMINIO RESIDENCIAL MAUA I fundado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. CONDOMÍNIO. COBRANÇA. AS PARCELAS VINCENDAS PODEM SER INCLUÍDAS NO CÁLCULO DO DÉBITO, ENTRETANTO, SOMENTE ATÉ A DATA DO PEDIDO DO CUMPRIMENTO DE SENTENÇA. DERAM PARCIAL PROVIMENTO AO RECURSO. UNÂNIME.
+Nas razões recursais, alegou-se, além de dissídio jurisprudencial, violação ao art. 323 do CPC. Sustentou, em síntese, que devem ser incluídas na condenação as cotas condominiais vincendas no curso do processo, até a data do efetivo pagamento e não apenas até a data do protocolo do pedido de cumprimento de sentença.
+Contrarrazões ao recurso especial às fls. 220-233.
+O recurso recebeu crivo positivo de admissibilidade na origem (fls. 237-240), ascendendo à esta Corte Superior.
+É o relatório. Decido.
+2. Na origem, foi ajuizada ação de cobrança das cotas condominiais vencidas e vincendas, tendo o Juízo de piso julgado procedente o pedido para "condenar a parte ré ao pagamento dos condomínios vencidos a partir de 15/11/2012 (fis. 03 e 85/86) até a data do trânsito em Julgado do presente feito (art. 323, do CPC)." (fl. 83).
+O Tribunal de origem, por sua vez, deu parcial provimento ao recurso de apelação da recorrente para "permitir a inclusão das parcelas que se vencerem até a data do pedido de cumprimento". Na fundamentação, o acórdão recorrido entendeu que "não pode ser considerado razoável que tais parcelas sejam cobradas sem qualquer limitação de tempo, sob pena de violação do princípio da ampla defesa e contraditório. Indispensável, pois, a fixação de termo final para inclusão das prestações e, neste aspecto, entendo que a obrigação deve se dar até a data do pedido do cumprimento de sentença".
+Com efeito, o posicionamento desta Corte Superior, no tocante à execução de título judicial em que veiculada a cobrança de cotas condominiais, é o de que, independentemente de pedido expresso, as prestações periódicas de trato sucessivo serão incluídas enquanto durar a obrigação (CPC/2015, art. 323).
+Nesse passo, no que diz respeito à execução de taxas condominiais decorrentes de ação de cobrança - título executivo judicial -, o STJ já sedimentou o entendimento de ser possível a inclusão de parcelas vincendas, conforme se percebe dos seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. IMÓVEL ARREMATADO EM LEILÃO ELETRÔNICO. RESPONSABILIDADE DO ARREMATANTE. INCLUSÃO DAS PARCELAS VINCENDAS NO DÉBITOEXEQUENDO. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese, houve previsão expressa no edital de hasta pública quanto à responsabilidade do arrematante pelo pagamento das parcelas vencidas e vincendas até a realização da alienação.
+2. Na execução de cotas condominiais, é possível a inclusão no débito exequendo das parcelas vincendas, tendo em vista que as verbas condominiais decorrem de relações jurídicas continuativas e, por isso, devem ser incluídas na condenação as obrigações devidas no curso do processo até o pagamento integral. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1565029/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/02/2020, DJe 04/03/2020)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONTRIBUIÇÕES CONDOMINIAIS. RELAÇÃO JURÍDICA CONTINUADA. PRESTAÇÕES VINCENDAS. PEDIDO IMPLÍCITO. SENTENÇA. NATUREZA. DISPOSITIVA E DETERMINATIVA. INCLUSÃO NA EXECUÇÃO. TERMO FINAL. EFETIVO PAGAMENTO. PRINCÍPIO. ECONOMIA PROCESSUAL. PROVIMENTO.
+1. Ação ajuizada em 17/12/2009. Recurso especial interposto em 26/02/2014 e atribuído a este Gabinete em 25/08/2016.
+2. O propósito recursal é determinar o termo final para que as prestações de caráter continuado vencidas no curso da ação possam ser incluídas na fase de execução de título executivo judicial, nos termos do art. 290 do CPC/73.
+3. No que diz respeito à exigibilidade, a legislação processual tratou de maneira distinta certas relações jurídicas obrigacionais que se protraem no tempo, configuradoras de relações jurídicas continuativas (art. 471, I, do CPC/73) ou de trato continuado (art. 505, I, do CPC/15), como é o caso das despesas condominiais.
+4. O art. 290 do CPC/73 prevê que as prestações vencidas e vincendas no curso do processo têm natureza de pedido implícito, as quais devem ser contempladas na sentença ainda que não haja requerimento expresso do autor na inicial.
+5. Em virtude da previsão do art. 290 do CPC/73, a sentença das relações continuativas fixa, na fase de conhecimento, o vínculo obrigacional entre o credor e o devedor. Basta, para a execução, que se demonstre a falta de pagamento das prestações vencidas, ou seja, que se demonstre a exigibilidade do crédito no momento da execução do título executivo judicial. Ao devedor, cabe demonstrar a eventual cessação superveniente do vínculo obrigacional.
+6. As verbas condominiais decorrem de relações jurídicas continuativas e, por isso, devem ser incluídas na condenação as obrigações devidas no curso do processo até o pagamento, nos termos do art. 290 do CPC/73.
+7. Na hipótese dos autos, o Tribunal de origem manteve a sentença que restringiu a execução às parcelas que fossem vencidas e não pagas até o trânsito em julgado da fase de conhecimento. Assim, dissentiu da jurisprudência do STJ de que a execução pode abranger as parcelas vencidas e vincendas até o efetivo pagamento.
+8. Recurso especial provido.
+(REsp 1548227/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. PRESTAÇÕES PERIÓDICAS. PARCELAS VINCENDAS DEVEM SER INCLUÍDAS NA CONDENAÇÃO ENQUANTO DURAR A OBRIGAÇÃO. SÚM 83/STJ.
+1. Não há falar em afronta ao artigo 535 do CPC se o Tribunal de origem examinou os aspectos delineados na lide e apresentou os fundamentos fáticos e jurídicos nos quais apoiou suas conclusões.
+2. Na hipótese, o entendimento adotado pelo Tribunal de origem está em consonância com aquele perfilhado pelo STJ, no sentido de que "são alcançadas pela execução, transitada em julgado a sentença que determinou a inclusão das verbas que se vencerem no curso do processo, todas as parcelas devidas enquanto durar a obrigação, nos termos do art. 290 do Código de Processo Civil". (REsp 241.618/SP, Rel. Ministro Carlos Alberto Menezes Direito, Terceira Turma, julgado em 24/10/2000, DJ 12/02/2001). Incidência da Súmula 83/STJ na hipótese.
+3. Agravo regimental a que se nega provimento
+(AgRg no AREsp n. 221.371/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/9/2013.)
+3. Ante o exposto, dou provimento ao recurso especial para determinar a inclusão das cotas condominiais devidas no curso do processo até o pagamento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. CONDOMÍNIO. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. PARCELAS VINCENDAS. INCLUSÃO. POSSIBILIDADE.
+1. As verbas condominiais decorrem de relações jurídicas continuativas e, por isso, devem ser incluídas na condenação as obrigações devidas no curso do processo até o pagamento, nos termos do art. 323 do CPC, de modo que a execução pode abranger as parcelas vencidas e vincendas até o efetivo pagamento. Precedentes.
+2. No caso concreto, o Tribunal a quo deu parcial provimento ao recurso de apelação da recorrente para permitir a inclusão das parcelas que se vencerem até a data do pedido de cumprimento de sentença, dissentindo da jurisprudência desta Corte Superior.
+3. Recurso especial provido
