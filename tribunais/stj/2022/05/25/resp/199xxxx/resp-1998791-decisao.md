@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município do Rio de Janeiro, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fls. 403-404):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA APELAÇÃO CÍVEL. OMISSÃO QUANTO À NECESSIDADE DE INTIMAÇÃO DA FAZENDA MUNICIPAL. EXECUÇÃO FISCAL AJUIZADA ANTES DA ALTERAÇÃO DO INCISO I DO ART. 174 DO CTN PELA LEI COMPLEMENTAR Nº 118/2005. CITAÇÕES EFETUADAS TEMPESTIVAMENTE. CIÊNCIA DA FAZENDA MUNICIPAL. AUSÊNCIA DE INDICAÇÃO DE BENS A PENHORA. DECURSO DOS PRAZOS ESTABELECIDOS NO RESP Nº 1.340.533/RS.INÉRCIA DO EXEQUENTE. PRESCRIÇÃO INTERCORRENTE. INAPLICABILIDADE DA SÚMULA Nº 106 DO STJ. MANUTENÇÃO DO ACÓRDÃO EMBARGADO.
+Visando suprir omissão referente à intimação da Fazenda Pública, cumpre esclarecer que o exequente foi devidamente intimado acerca da citação tempestiva dos executados, ocasião em que, equivocadamente, requereu citação editalícia, só vindo novamente a se manifestar após decorrido o prazo de suspensão de 01 (um) ano e o da prescrição quinquenal, na forma estabelecida no REsp nº 1.340.533/RS, submetido ao rito dos repetitivos. No caso, a ciência inequívoca da Fazenda Municipal ocorreu em 23/03/2009, passando a fluir a partir daí o prazo de suspensão de um ano, ao qual automaticamente se seguiu o quinquenal, que findou em 23/03/2015. Portanto, quando da prolação da sentença, em 13/12/2016, há muito já havia expirado o prazo prescricional.
+Desse modo, não prospera a irresignação do embargante, visto que devidamente intimado para impulsionar o feito. Descabe a incidência da Súmula nº 106 do STJ, eis que que não se pode atribuir ao Judiciário, de forma exclusiva, a paralisação no andamento processual, sendo certoque também incumbe ao exequente envidar esforços para viabilizar o deslinde da ação.
+Parcial provimento do recurso para reconhecer a omissão apontada, sem atribuição de efeitos infringentes.
+Em suas razões, orecorrente alega violação dos arts.25 e 40da LEF.
+Sustenta, em síntese,não ter havido a intimação da edilidade acerca da tentativa infrutífera de localização de bens penhoráveis. Alegaque a demora na citação da parte ocorreu por falha exclusiva da serventia cartorária, não podendo ser imputadoao município o prejuízo do decurso do tempo.
+Sem contrarrazões recursais.
+Admitido o recurso especial na origem (e-STJ, fls. 473-476), subiram os autos a esta Corte.
+É o relatório.
+Com o julgamento do recurso repetitivo, não há mais dúvidas sobre o instituto da prescrição intercorrente (Temas 566 a 571). Nada a prover nesse tocante.
+O Tribunal de origem entendeu pelo afastamento da Súmula n. 106/STJ, registrando o que segue (e-STJ, fl. 408):
+A 1ª executada (Casa de Saúde e Maternidade Campinho Ltda.) se manifestou nos autos em 23/09/2003 oferecendo bens à penhora (índex 19), que não foram aceitos pelo exequente.
+De acordo com o contido em índex 50/51, o 2º executado (Hospital de Clínicas São Sebastião) foi citado em 20/04/2006, interrompendo, assim, a prescrição. A contar dessa data, uma vez ciente o Município da concretização da citação, não sendo indicados bens dos devedores a penhorar, dar-se-ia início ao prazo de suspensão de 01 (um) ano, ao qual se seguiria automaticamente o prazo prescricional de cinco anos.
+Ocorre que a Procuradoria do Município, intimada em 26/09/2008 (cf. informação obtida no sistema intranet do Tribunal de Justiça), veio a se manifestar em 23/03/2009, limitando-se a requer equivocadamente a citação por edital.
+Somente em 20/09/2016, a edilidade reconheceu que já ocorrera a citação dos réus, vindo a pleitear a desconsideração da personalidade jurídica da Casa de Saúde e Maternidade Campinho, com o redirecionamento da execução a todos os seus sócios, e a penhora junto ao BACENJUD de eventuais valores do Hospital de Clínicas São Sebastião. Nessa ocasião já havia decorrido o prazo da suspensão e da prescrição quinquenal.
+Desse modo, descabe a irresignação do embargante, visto que devidamente intimado para impulsionar o processo, não o fez tempestivamente.
+Descabida a incidência da Súmula nº 106 do STJ, eis que não se pode atribuir ao Judiciário, de forma exclusiva, a paralisação no andamento processual, sendo certo que também incumbe ao exequente envidar esforços para viabilizar o deslinde do feito.
+Pelo que se depreende dos autos, a prescrição não ocorreu por circunstâncias alheias à vontade do exequente, valendo lembrar que o princípio do impulso oficial não é absoluto, devendo o autor diligenciar para o regular andamento da ação.
+Portanto, alterar a conclusão a que chegou o acórdão implica o reexame dos fatos e das provas dos autos, o que é vedado pelo enunciado da Súmula n. 7/STJ.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. ART. 174 DO CTN. ALEGAÇÃO DE INÉRCIA DO PODER JUDICIÁRIO. SÚMULA 106 DO STJ. REEXAME DE PROVAS DOS AUTOS.APLICAÇÃO DA SÚMULA 7 DO STJ.
+1. A Primeira Seção do Superior Tribunal de Justiça, julgando recurso especial sob o rito do art. 543-C do CPC/1973, firmou a orientação de que, transcorridos mais de 5 (cinco) anos sem a citação do devedor, é possível ser reconhecida de ofício a prescrição do crédito tributário (REsp 1.100.156/RJ, Rel. Min. Teori Albino Zavacki, DJe 18/6/2009).
+2. A Corte de origem decidiu que "a demora na citação não ocorreu por culpa exclusiva e preponderante da máquina judiciária, a respaldar a aplicação, ao caso, da Súmula nº 106, do Superior Tribunal de Justiça".
+3. Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar se a culpa pela demora na citação do devedor foi exclusiva do Poder Judiciário, como sustentado no apelo nobre, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+4. Precedentes: AgInt nos EDcl no AREsp 941.032/PE, Rel. Min.Francisco Falcão, Segunda Turma, DJe 15/5/2017; REsp 1.736.179/PB, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2018; AgInt no AREsp 1.561.190/PB, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 7/5/2020.
+5. Agravo interno a que se nega provimento
+(AgInt no AREsp n. 610.774/PB, de minha relatoria, SEGUNDA TURMA, julgado em 16/3/2021, DJe de 6/4/2021).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
