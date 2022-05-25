@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRÉ HENRIQUE GREGÓRIO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que manteve a qualificadora do rompimento de obstáculo.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 158do Código de Processo Penal e 155, § 4º, do Código Penal. Aduz, em síntese, que inexiste nos autos prova válida para o reconhecimento da qualificadora do rompimento de obstáculo, uma vez que não foi realizado o exame pericial.
+Com contrarrazões (e-STJ, fls. 198-201).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 218-220).
+É o relatório.
+Decido.
+A irresignação comporta provimento.
+No que diz respeito à qualificadora do rompimento de obstáculos, o acórdão recorrido assim se manifestou sobre a matéria:
+"Quanto ao pedido de decote da qualificadora do rompimento de obstáculo, tenho que mais uma vez não merece prosperar o intento defensivo.
+É que, tanto o ofendido quanto o policial militar que atuou na diligência, ao serem ouvidos em Juízo, confirmaram que o veículo da vítima estava arrombado.
+Registro, nesse ponto, que assim como o magistrado prolator da sentença, tenho entendimento de que o laudo pericial pode ser suprido pela prova testemunhal quando, por qualquer razão, desaparecerem os vestígios, aplicando-se a regra do artigo 167do CPP" (e-STJ, fls. 176).
+Da leitura do excerto supra, observa-se que o Tribunal recorrido limitou-se a afirmar a prescindibilidade da realização da períciae que esta não seria o único meio probatório possível para a comprovação da qualificadora.Por tal motivo, constata-se que o Tribunal de origem, ao apreciar a questão, contrariando a jurisprudência desta Corte, não se manifestou a respeito dos motivos pelos quais a perícia direta não foi realizada. Não obstante haver nos autos outros elementos aptos a comprovar o rompimento, esta Corte entende que tais provas somente podem substituir o exame técnico se efetivamente não existirem ou caso tenham desaparecido os vestígios ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, sob pena de violação do art. 158 do Código de Processo Penal:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. FURTO QUALIFICADO. QUALIFICADORAS DA ESCALADA E ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. NÃO INCIDÊNCIA. PENA-BASE EXASPERADA COM FUNDAMENTO EM CINCO CIRCUNSTÂNCIAS JUDICIAIS CONSIDERADAS DESFAVORÁVEIS, SEM FUNDAMENTAÇÃO IDÔNEA PARA TANTO. REGIME INICIAL. REPRIMENDA DEFINITIVA INFERIOR A 4 ANOS. ACUSADO REINCIDENTE. REGIME SEMIABERTO, QUE SE MOSTRA ADEQUADO (ART. 33, § 2º, B, DO CP). CONSTRANGIMENTO ILEGAL EVIDENCIADO. DECISÃO MONOCRÁTICA QUE DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. O Superior Tribunal de Justiça entende que, para incidir a qualificadora prevista no art. 155, § 4º, II, do Código Penal, faz-se indispensável a realização de perícia, a fim de se constatar a realização da escalada ou o rompimento de obstáculo. A substituição do laudo pericial por outros meios de prova apenas pode ocorrer se o delito não deixar vestígios, se estes tiverem desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo. No caso, nenhuma dessas hipóteses foi sequer mencionada pela Corte a quo.
+ ..
+7. Agravo regimental improvido." (AgRg no HC 300.808/TO, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/3/2015, DJe 26/3/2015);
+Passo, portanto, à nova dosimetria da pena.
+A partir dos parâmetros estabelecidos pela instância de origem, na primeira fase, mantenhoa pena-base no mínimo legal em 1 anode reclusão e 10dias-multa.Na segunda fase, ante o reconhecimento daagravante dareincidência,fixo a pena em 1 ano e 3mesesde reclusão e 12 dias-multa.Na terceira fase, ausentes causa de aumento e diminuição, torno a reprimendadefinitiva em 1 ano e 3meses de reclusão e 12 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ,dou provimentoao recurso especial para fixar a pena do recorrente em 1 ano e 3mesesde reclusão e 12 dias-multa, mantidos os demais termos do acórdão.
+Publique-se. Intimem-se.
