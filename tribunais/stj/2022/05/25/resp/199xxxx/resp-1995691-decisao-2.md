@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por ABASTECEDORA DE COMBUSTÍVEIS NEVADA LTDA. E OUTROScontra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"AÇÃO MONITÓRIA. NEGÓCIOS JURÍDICOS BANCÁRIOS. CONTRATO DE ABERTURA DE CRÉDITO - BB GIRO EMPRESA FLEX. PRELIMINAR DE NULIDADE PROCESSUAL, POR CERCEAMENTO DE DEFESA. Inocorrência. Prescindibilidade da prova pericial postulada. MÉRITO. CDC. Aplicável aos contratos financeiros, nos termos do art. 3º, caput e § 2 9 , CDC e da Súmula 297, STJ. Vedada a revisão de ofício, nos termos da Súmula 381, STJ. JUROS REMUNERATÓRIOS. A aplicação em taxa substancialmente superior à média de mercado divulgada pelo BACEN é abusiva, nos termos da orientação do Superior Tribunal de Justiça, através dos Recursos Especiais Representativos da Controvérsia n. 1.061.530/RS e 1.112.879/PR. No caso, os juros contratados encontram-se acima da taxa média de mercado, devendo ser limitados aos parâmetros determinados pelo BACEN para o período. REJEITADA A PRELIMINAR, DERAM PROVIMENTO AO RECURSO. UNÂNIME"(e-STJ fl. 201).
+No recurso especial (e-STJ fls. 329/350), o recorrente alega houve violação dos arts. 489, § 1º, IV e 1022, II, do Código de Processo Civil de 2015 e 406 e 591 do Código Civil.
+Requer o provimento do recurso para que os juros sejam limitados à taxa de 12% ao ano.
+Apresentadas as contrarrazões, orecurso foi inadmitido na origem, dando ensejo ao presente agravo.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece ser conhecido.
+Inicialmente, observa-se que a decisão de inadmissibilidade do recurso especial foi disponibilizada no DJe em 03/12/2020(fl. 407, e-STJ), ocasião em que já se encontrava em vigor o Código de Processo Civil de 2015, que prevê,em seu art. 1.030, I, "b", § 2º, expressamente, que o recurso admissível em tal hipótese é o de agravo interno:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+(..)
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+II - encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos § 2º Da decisão proferida com fundamento nos inciso I e III caberá agravo interno, nos termos do art. 1.021".
+A propósito, a Terceira Turma deste Superior Tribunal, no julgamento do AREsp nº 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, em 16/8/2016, firmou o entendimento de que, quando a Corte de origem inadmitir o recurso especial com base em recursorepetitivo,a interposição de agravo em recurso especial constitui erro grosseiro.
+Eis a ementa:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III).
+NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO.
+4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recursorepetitivo(art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recursorepetitivoconstitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. (..)
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015".
+Por tais razões, entende-se incabível o agravo interposto contra a decisão de admissibilidade na parte que aplicou a orientação firmada nos Temas nº 24 e27/STJ.
+Quanto ao mais, observa-se dos autos que conforme exposto no artigo 489 do Código de Processo Civil de 2015, não se considera fundamentada a decisão que não enfrentar todos os argumentos deduzidos no processo.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+No tocante ao artigo 1.022 do CPC/2015, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/10/2016, DJe 13/10/2016 - grifou-se).
+Ante o exposto,não conheçodo agravo em recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
