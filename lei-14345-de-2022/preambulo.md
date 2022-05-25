@@ -1,0 +1,2 @@
+Altera as Leis nºs 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e 13.019, de 31 de julho de 2014 (Marco Regulatório das Organizações da Sociedade Civil), para garantir pleno acesso a informações relacionadas a parcerias entre a Administração Pública e as organizações da sociedade civil, bem como para assegurar a ex-prefeitos e ex-governadores acesso aos registros de convênios celebrados durante a sua gestão em sistema mantido pela União.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
