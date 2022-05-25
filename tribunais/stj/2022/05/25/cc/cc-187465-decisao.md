@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por SKYPAR EMPREENDIMENTOS E PARTICIPAÇÕES EIRELI e JOÃO JOSÉ OLIVEIRA DE ARAÚJO em face do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, do JUÍZO DA 7ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP e do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Ação em trâmite no Estado do Pará: mediação e tutela cautelar antecedente à recuperação judicial.
+Ação em trâmite no Estado de São Paulo: tutela cautelar antecedente.
+Conflito de competência: alegam, em síntese, que, nos termos da jurisprudência do STJ, o juízo responsável pelo processamento da recuperação judicial é o único competente para determinar medidas constritivas sobre seu patrimônio. Defende que o exame da concursalidade do crédito por eles devido é de competência exclusiva do juízo do soerguimento. Pleiteia o deferimento de tutela de urgência e, no mérito, requer a fixação da competência no juízo da recuperação judicial para deliberar sobre o destino de seu patrimônio.
+Decisão liminar: determinou a suspensão, "pelo prazo determinado na decisão de fl. 292/294 (e-STJ),  d os efeitos de qualquer ato constritivo ou expropriatório praticado sobre bens de titularidade da sociedade empresária suscitante" (e-STJ fl. 423).
+RELATADO O PROCESSO, DECIDE-SE.
+Os suscitantes apontam que o Juízo da 7ª Vara Cível do Foro Central de São Paulo - SP está se recusando a dar efetividade a decisões proferidas pelo Tribunal de Justiça do Estado do Pará, que havia determinado a suspensão de todas as execuções e atos de constrição ou expropriação patrimonial, judiciais ou extrajudiciais, levadas a cabo contra os devedores.
+Ocorre que a última decisão proferida pelo juízo paraense juntada aos autos pelos suscitantes, e que poderia servir de suporte à configuração do presente conflito de competência, determinou, nos termos do art. 20-B, § 1º, da Lei 11.101/05, que mencionada suspensão perdurasse pelo prazo de 60 (sessenta) dias (e-STJ fls. 292/294).
+Assim, como essa decisão foi prolatada em 21/03/2022 (e-STJ fl. 294), o prazo em questão já transcorreu, de modo que se esvaziou a circunstância que daria azo a eventual conflito de competência.
+Forte nessas razões, JULGO EXTINTO o presente conflito de competência, ante a perda superveniente de seu objeto.
