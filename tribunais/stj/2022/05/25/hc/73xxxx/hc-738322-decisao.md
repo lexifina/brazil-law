@@ -1,0 +1,7 @@
+DECISÃO
+JULIANO DUARTE DA SILVAalega sofrer coação ilegal diante de acórdão proferido peloTribunal Regional Federal da 4ª Regiãona Apelação n. 5002445-51.2020.4.04.7017.
+Nestewrit, a defesa se volta contra a manutenção da prisão preventiva do réu, diante de sua condenação à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática de crime de tráfico internacional de drogas. Sustenta a incompatibilidade do modo intermediário com a segregação cautelar, além de entender equivocada a decisão do juízo da execução penal, que unificou as reprimendas decorrentes de condenação definitiva em outra ação penal e da condenação sofrida no processo objeto destewrit, ainda passível de recurso.
+Inicialmente, ressalto o posicionamento consolidado do Superior Tribunal de Justiça é de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime" (RHC n. 134.443/GO, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020, destaquei).
+Ademais, a defesanão demonstrou haver suscitado prévio debate do Tribunal de origem acerca da impossibilidade de unificação das condenações sofridas pelo réu, o que inviabiliza o exame do tema nesta oportunidade, por configurarsupressão de instância.
+À vista do exposto,denego o habeas corpus.
+Publique-se e intimem-se.
