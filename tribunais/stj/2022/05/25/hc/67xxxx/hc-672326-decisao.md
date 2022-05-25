@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de FERNANDO ENDRICE DE SOUZA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n.2100303-56.2021.8.26.0000).
+O paciente, escrivão de polícia, estava deplantão dos dia 23 a 24/3/2018, juntamente com o delegado de polícia e outros funcionários. Naquele plantão,houve a lavratura de um auto de prisão em flagrante delito, tendoo delegadoarbitrado fiança ao investigado -sendo que o valor arbitrado ficou sob a guarda dopaciente.Contudo, na segunda-feira, o escrivão de polícia, Teodorico Gimenes Rodrigues, não localizou o valor da fiança recolhida, sendo o fato comunicado à Corregedoria da Polícia Civil.Assim sendo, foi deferido a interceptação telefônica de 11 funcionários.
+A defesa aponta ser ilegal a prova obtida por meio de interceptaçãotelefônica, na medida que fora decretadasem fundamentação idônea e com ausência de demonstraçãodos indícios razoáveis de autoria do delito investigado.
+Asseveraque, em razão dessa interceptação, o pacienteacabousofrendo investigações e processos criminais por fatos diversos, nada relacionadosao delito ora em questão.
+Requer (fl. 6):
+ ..  SEJA DECLARADA ILEGALE INCONSTITUCIONAL A INTERCEPTAÇÃO TELEFÔNICA DECRETADA NO PROCESSO CAUTELAR 0003193-14.2018.8.26.0189, DETERMINANDO-SE O DESENTRANHAMENTO DESTA PROVA ILEGAL E INCONSTITUCIONALDA AÇÃO PENAL 0001368-66.2018.8.26.0696, BEM COMO DE TODOS OS AUTOS EM QUE FORAM COMPARTILHADAS E JUNTADAS, BEM COMO SEJAM DESENTRANHADAS TAMBÉM TODAS AS PROVAS DELA DERIVADAS EM QUAISQUER DOS AUTOS EM QUE FOI COMPARTILHADA  .. .
+O pedido de liminar foi indeferido às fls. 113-114.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 187-194).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No que tange a alegação referente à ilegalidade daprova obtida por meio de interceptação telefônica, o tribunal de origem assim se manifestou (fls. 88-89):
+De fato, a matéria trazida (a suposta eiva da interceptação telefônica autorizada nos autos da ação cautelar de número 0003193-14.2018.8.26.0189) já foi objeto da análise desta c. Câmara Criminal nos autos do Habeas Corpus de número 2249984-08.2018.8.26.0000, julgado em 14 de janeiro de 2019.
+Naquela oportunidade, firmou-se que:
+"Inicialmente, observa-se que a interceptação foi requerida nos autos do processo nº 0002962-84.2018.8.26.0189 (IP 12/2018), para a apuração do sumiço do valor de R$954,00 da Delegacia de Fernandópolis, pago a título de fiança.
+A interceptação foi realizada nos moldes estabelecidos pela Lei nº 9.296/96, tendo sido autorizada judicialmente pela decisão de fls.243/247, na qual o MM. Magistrado a quo entendeu presentes fortes indícios de envolvimento do paciente em delito contra a Administração Pública, punido com reclusão, e não vislumbrou a possibilidade de produção de prova por outros meios.
+Diante disso, com relação à alegação de que as provas obtidas em referida interceptação seriam "irreais e falsas", tem-se que cabe à Defesa consultar o conteúdo das mídias juntadas ao processo nº 0002962-84.2018.8.26.0189 e demonstrar a irregularidade da escuta telefônica nos autos originais.
+Além disso, não se constata qualquer eiva a ser reconhecida no que se refere ao empréstimo das provas obtidas aos presentes autos.
+Isso porque, ao que se verifica, a autoridade policial subscritora da representação buscava investigar o delito referente ao sumiço da fiança paga, e não o crime de peculato-desvio de lixeiras a serem entregues àDelegacia de Mira-Estrela, sendo o quadro dos autos, portanto, de encontro fortuito de prova.
+Em casos tais, admite-se a utilização de provas obtidas em ação penal diversa, desde que o procedimento tenha sido realizado regularmente e que seja respeitado o contraditório e a ampla defesa.
+Nota-se então que a interceptação telefônica respeitou odisposto naLei n.9.296/1996, sendo autorizada por decisão judicial a partir de indícios suficientes de autoria e materialidade do envolvimento dopaciente na prática dodelito contra a Administração Pública.
+Além disso, conforme demonstrado pelo Tribunal de origem, a tese de nulidade das interceptações telefônicas já teria sido examinada em outro habeas corpus, sendo assim, mera reiteração de pedido.
+Desta feita, rever o entendimento alcançado pela instância ordinária a respeito da legalidade da interceptação eletrônica consubstanciada nos elementos de prova apresentados nos autos, demandaria necessária dilação fático-probatória, o que é vedado na via estreita dohabeas corpus.
+Outrossim,a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a tese de irregularidades na prisão em flagrante fica superada com a superveniência de novo título que justifica a segregação(HC n. 498.555/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/8/2019).
+Inviáveis, portanto, as teses suscitadas, não vislumbrandoqualquer constrangimento ilegal a amparar a concessão da ordem.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
