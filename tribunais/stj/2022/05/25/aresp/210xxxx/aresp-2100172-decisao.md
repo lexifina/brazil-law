@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por E FOODS COMERCIO DE ALIMENTOS EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+CIVIL. PROCESSUAL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. REVISIONAL.
+1. Somente após o ajuizamento da ação é que se torna possível a aplicação dos índices de atualização monetária previsto na Lei nº 6.899/1981.
+2. Não existe base legal para a limitação dos juros remuneratórios. O Supremo Tribunal Federal decidiu pela impossibilidade de auto-aplicação do art. 192, § 3º, da Constituição Federal, ficando sua efetividade condicionada à legislação infraconstitucional relativa ao Sistema Financeiro Nacional, especialmente à Lei n.º 4.595/64, cujo art. 4º, inciso IX, atribui ao Conselho Monetário Nacional competência para limitar a taxa de juros e quaisquer outras remunerações de operações e serviços bancários ou  nanceiros, afastando, portanto, a incidência do Dec. nº 22.626/33.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação dos arts. 85, 86 e 326 do CPC, no que concerne à necessidade de readequar o ônus sucumbencial em razão do acolhimento do pedido principal formulado pela recorrente, trazendo o(s) seguinte(s) argumento(s):
+Conforme sintetizado acima, a presente medida se encontra fundada na ofensa aos artigos 85, 86 e 326 do Código de Processo Civil, à medida que o d. Juízo a quo acolheu o pedido principal formulado pela Recorrente em sede de Apelação, mas não inverteu os honorários advocatícios em favor de seus patronos. Consequentemente, a reforma da r. decisão recorrida perpassa pela compreensão acerca da natureza dos pedidos formulados pela Recorrente e de seus reflexos na fixação de honorários sucumbenciais.
+ ..
+Posto isto, o recurso devolveu ao E. Tribunal Regional Federal da 4ª Região os pedidos formulados em sede de Embargos à Execução em seus exatos termos. E, da leitura do acórdão proferido em sede de Apelação Cível, pode-se notar que o pleito acolhido pelo E. Tribunal Regional da 4ª Região foi formulado de modo principal  ao passo que o requerimento refutado o foi de maneira subsidiária. In verbis:
+ ..
+Em que pese o acolhimento do pedido principal corresponda ao julgamento de total provimento do recurso, o E. Tribunal Regional Federal da 4ª Região, diante da oposição de Embargos de Declaração, afirmou conferir apenas parcial provimento à Apelação e não redistribuiu as verbas sucumbenciais  impondo-as, exclusivamente, à Recorrente.
+ ..
+Respeitosamente, porém, o  tópico que versa sobre a incidência dos encargos moratórios após o ajuizamento  corresponde à fundamentação vinculada ao pedido principal. Consequentemente, não há que se falar que a Recorrente  somente  se sagrou vencedora nesse tópico  e isso porque referido tópico se traduz no pedido principal formulado.
+Mais do que isso, o d. Juízo a quo, ao acolher o pedido principal, sequer deveria ter se debruçado sobre aquele subsidiário. E isso porque, tratando-se de cumulação subsidiária, estabelece-se uma relação de prejudicialidade entre os pedidos. Dessa forma, o provimento jurisdicional de procedência do pedido principal obsta a análise do pedido subsidiário. Não é por outro motivo, aliás, que o art. 326 do Código de Processo prevê o que segue:
+ ..
+De igual modo, a justificativa atrelada à negativa de redistribuição das verbas sucumbenciais também não merece prosperar. E isso porque, diante da procedência do pedido principal, a fixação de honorários advocatícios em favor dos patronos da atual Recorrente é imperativa.
+Nesse sentido, verifica-se franca ofensa ao disposto nos artigos 85 e 86 do Código de Processo Civil, in verbis (fls. 292-298).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Destaco o seguinte trecho do voto, cujos fundamentos afastam as alegações suscitadas:
+ ..
+Todavia, não é de ser redistribuída a sucumbência, como requer a embargante, pois a sentença tratou de vários outros pontos, dos quais somente dois foram objeto do recurso e um só restou provido.
+ ..
+Registra-se que para uma possível redistribuição dos honorários fixados em sentença em desfavor da embargante considera-se a totalidade dos pedidos feitos na inicial e não somente os dois pontos requeridos no apelo, de forma a ser mantida a sucumbência conforme fixada nos embargos de declaração acima citados.
+Ora, a embargante somente foi vencedora no tópico que versa sobre a incidência dos encargos moratórios após o ajuizamento, o que, dentre os pedidos constantes da inicial, mostra-se minoritário e, para tanto, os honorários advocatícios foram majorados em apenas 10%, diferentemente dos 20% para os casos de improvimento total do apelo (fl. 277).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
