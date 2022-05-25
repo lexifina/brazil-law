@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA APARECIDA FELIPE CAMILO contra decisão de minha lavra, em que conhecido agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento, a fim de fixar o termo inicial da aposentadoria por idade rural na data da citação na presente demanda (e-STJ fls. 712/717)
+Sustenta aembargante, de início, erro material quanto à informação da data de ajuizamento da presente demanda, não sendo em 2019, mas em 2017, conforme numeração do feito (0001823-09.2017.4.03.6106).
+Quanto ao mérito, aduz que houve "confusão" no decisum, por trocar o conceito de prescrição e decadência, e requer que o termo inicial do benefício deve ser fixado a partir do requerimento administrativo (DER de 06/07/2009), visto que já preenchia todos os requisitos para a sua concessão.
+Caso assim não entenda, "requer explicar, fundamentar e motivar a decisão, principalmente referindo-se ao art. 103 da LBPS, com atenção especial ao instituto da decadência e sua aplicabilidade na seara previdenciária" (e-STJ fl. 726).
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 733).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+A pretensão merece parcial acolhimento.
+De fato, verifico a existência de erro materialno tocante à data do ajuizamento da ação, razão pela qual corrijo a referida data, de 2009 - conforme mencionado na decisão à e-STJ fl. 716 - para 17/03/2017 (autuação à e-STJ fl. 431), ficando assim consignado:
+In casu, extrai-se dos autos que a parte autora ajuizou a presente ação em 17/03/2017, postulando a concessão de aposentadoria rural por idade indeferida administrativamente em 2009 (e-STJ fl. 431/432).
+O apelo nobre da autarquia almeja ver modificado o termo inicial do benefício em razão do reconhecimento da prescrição do fundo de direito pelo transcurso de mais de cinco anos desde o indeferimento do benefício (2009) e o ajuizamento da presente demanda (2017).
+Quanto ao mérito, igual sorte não lhe assiste, porquanto as alegações da parte embargante, na realidade, manifestam seu inconformismo com a modificaçãodo termo inicial de seu benefício,que deverá observar a citação na via judicial.
+No entanto,como bem salientei na fundamentação do julgado, não ocorreu a decadência, nem a chamada prescrição "de fundo de direito", mas a prescrição quinquenal de rever o ato administrativo, que, por si só, não afasta a possibilidade de nova postulação de benefício por incapacidade e assistencial, ou ainda previdenciário, tendo em vista a natureza dos direitos sociais e eventuais alterações no estado de fato ou de direito do segurado ou seu beneficiário, ex vi do art. 505, I, do CPC (art. 471, CPC/1973).
+Isso porque, "relativamente à ocorrência ou não da prescrição do fundo de direito, parte-se da definição de que os benefícios previdenciários estão ligados ao próprio direito à vida e são direitos sociais que compõem o quadro dos direitos fundamentais" (REsp 1.349.296/CE, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 20/02/2014, DJe 28/02/2014). Na espécie, o apelo nobre merece parcial acolhimento, a fim de ajustar o termo inicial do benefício, que deverá observar a citação na via judicial.
+Assim, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 14/05/2019, DJe 30/05/2019).
+Com essas considerações, ACOLHO PARCIALMENTE os embargos de declaração para corrigir erro material, sem modificação do resultado do decisum.
+Publique-se. Intimem-se.
