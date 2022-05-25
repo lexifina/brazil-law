@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recursoespecial interposto por JOSÉ AMARO SOBRINHO, com base no artigo 105, inciso III, alínea "a", da Constituição Federal,contra contra acórdãodo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - AÇÃO DE RESCISÃO CONTRATUAL - MANDADO DE DESOCUPAÇÃO - POSSE E DOMÍNIO DE TERCEIRO. Consigne-se que os embargos de terceiro constituem uma medida judicial protetiva da posse direta ou indireta, de que dispõe aquele que não sendo parte no processo, vier a sofrer ou tiver risco de sofrer constrição judicial de seu bem. O terceiro adquirente de imóvel, a titulo oneroso e de boa -fé não pode sofrer os efeitos da sentença proferida em processo do qual não foi parte.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões recursais, a partealega, em síntese, quehouve negativa de prestação jurisdicionale"o recorrido, apenas e tão somente, pretende a retenção do imóvel litigioso até o pagamento da indenização das benfeitorias que afirma ter efetuado", "estando configurado o julgamento "extra petita" por se tratar de embargos de retenção por benfeitorias e não embargos de terceiro" (e-STJ fl. 178).
+É o relatório.
+Passo a decidir.
+A insurgência merece provimento quanto à apontada ofensa ao artigo1.022 do Código de Processo Civil de 2015, conforme apontado na decisão de admissibilidade do recurso especial proferida na origem.
+O ora recorrente, nos embargos de declaração de fls. 146-154(e-STJ), apontou a ocorrência de julgamento extra petita, pois, na sentença e no acórdão recorrido, o pedido foi julgado como embargos de terceiro, deferindo-se ao ora recorrido pretensão diversa da pleiteada na inicial, qual seja, embargos de retenção por benfeitorias, com pedido de suspensão da ordem de imissão de posse até o pagamento das benfeitorias que a parte alega ter realizado no imóvel litigioso.
+Contudo, o órgão julgador não se manifestou a respeito da tese de julgamento extra petita no acórdão recorrido, mesmo após a oposição de embargos de declaração.
+Fica evidenciada, assim, a violação do artigo 1.022 do CPC/2015, uma vez que não foi prestada a jurisdição de forma integral, conforme também reconhecido na decisão de admissibilidade do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO EM AGRAVO REGIMENTAL. POSSIBILIDADE. CPC/1973. TEMPESTIVIDADE. INDENIZAÇÃO POR DANO MORAL. MATÉRIA JORNALÍSTICA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DE AMBAS AS PARTES. FALECIMENTO DO AUTOR. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIA DE HABILITAÇÃO DO ESPÓLIO. NÃO CONHECIMENTO DAS APELAÇÕES. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 535 DO CPC/73. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Possibilidade de comprovação da tempestividade recursal por ocasião da interposição do agravo interno nos casos de recurso manejado sob a égide do Código de Processo Civil de 1973. Reconsideração.
+2. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+3. Hipótese em que o Tribunal de origem, reconhecendo a ausência de pressuposto válido para o prosseguimento da ação, em razão da morte do autor e da ausência de habilitação do espólio, limitou-se a não conhecer das apelações interpostas pelas partes, deixando de se pronunciar acerca da eventual extinção do processo e demais questões arguidas em embargos de declaração. Existência de omissão relevante.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1431860/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido.(AgInt no AgInt no REsp 1829014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Portanto, sendo relevantesas questões aventadas na origem, impõe-se a acolhida do recurso especial para se reconhecer aomissão presente no julgado e determinar a devolução dos autos à origem para a apreciação dos temas omitidos, uma vez que se trata de matérias que envolvemelementos fáticos, insuscetíveis de serem objeto de prequestionamento ficto, nos moldes do art. 1.025 do CPC/2015, e, portanto, de serem, desde logo, julgadas por esta Corte Superior.
+Prejudicado o exame das demais insurgências veiculadas no recurso especial.
+Ante o exposto, com base no art. 932, incisoV, do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo para, desde logo, darprovimento ao recurso especial e determinar o retorno dos autos ao Tribunal de origem paraque sejasanadaaomissãoindividualizadana fundamentação dapresente decisão.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUALCIVIL.ALEGAÇÃO DEOFENSA AO ARTIGO1.022 DO CPC/2015. CONFIGURAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. EXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO EM RELAÇÃO AOS TEMAS APONTADOS.
+RECURSOESPECIAL PROVIDO PARADETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARAQUE SE PRONUNCIE ACERCA DAS MATÉRIAS OMITIDAS.
