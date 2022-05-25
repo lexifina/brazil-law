@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Leonardo Caleb Fernandes contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 645):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE NÃO FAZER. MAU CHEIRO EXALADO DA ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) LOCALIZADA NO JARDIM GUARAITUBA, EM COLOMBO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO INTERPOSTO PELA PARTE AUTORA. MAU CHEIRO PROVENIENTE DE ESTAÇÃO DE ESGOTO QUE É INERENTE AO PROCESSO DE TRATAMENTO, O QUE NÃO EXCLUI A NECESSIDADE DE ADOÇÃO DE MEDIDAS EFETIVAS PARA A SUA REDUÇÃO, SOB PENA DE OFENSA À INCOLUMIDADE DOS MORADORES. AUSÊNCIA DE COMPROVAÇÃO DE QUE AS MEDIDAS ADOTADAS FORAM EFETIVAS, PORQUANTO NÃO FOI REALIZADO O MONITORAMENTO DO AR. EXISTÊNCIA DE POLUIÇÃO EM OUTROS PONTOS DA REGIÃO QUE NÃO AFASTA A RESPONSABILIDADE OBJETIVA DA RÉ PELA EMISSÃO DE MAU CHEIRO. TEORIA DO RISCO INTEGRAL. RESPONSABILIDADE PELA POLUIÇÃO ATMOSFÉRICA VERIFICADA. PARTE AUTORA QUE COMPROVOU QUE FOI ATINGIDA PELO MAU CHEIRO. DEMONSTRAÇÃO DE QUE, NA EPÓCA DE OPERAÇÃO, RESIDIA PRÓXIMO À ETE. SENTENÇA REFORMADA. DANOS MORAIS CONFIGURADOS. VALOR QUE DEVE ATENDER AOS PRINCÍPIOS DA RAZOABILIDADE, PROPORCIONALIDADE E AO CARÁTER INIBITÓRIO DA CONDUTA, BEM COMO ÀS PARTICULARIDADES DO CASO CONCRETO. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL E FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS, INCLUSIVE RECURSAIS. APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+O recorrente aponta ofensa aos arts. 398 e 405 do Código Civil. Aduz que, no caso, a obrigação de indenizar decorre de responsabilidade extracontratual da parte ré, de modo que o termo inicial dos juros moratórios é a data do evento danoso, nos termos da Súmula n. 54/STJ.
+Decido.
+Assiste razão ao recorrente.
+De acordo com a narrativa dos autos,a indenização por danos morais arbitrada não se referiu ao cumprimento do contrato de tratamento de esgoto firmado entre as partes, mas aosdanos sofridos pelo autor da demandaem razão da instalação de uma estação de tratamento de esgoto próximo a sua residência.
+Logo, trata-se de responsabilidade extracontratual e os juros moratórios devem incidir desde a data do evento danoso, nos termos da Súmula n. 54/STJ, a saber: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. JUROS DE MORA. TERMO INICIAL. DATA DO EVENTO DANOSO. SÚMULA 54 DO STJ.
+1. Do que se observa nos autos, a indenização por danos morais arbitrada não se referiu ao cumprimento do contrato de tratamento de esgoto firmado entre as partes, mas aos prejuízos e danos sofridos pela parte recorrente em razão da instalação de uma estação de tratamento de esgoto próximo a sua residência.
+2. Desse modo, não há que se falar em responsabilidade contratual, visto que o contrato e a prestação do serviço não foram discutidos nos presentes autos, mas em responsabilidade extracontratual, decorrente dos danos morais em razão do mau cheiro advindo da referida estação e das condições insalubres estabelecidas.
+3. Assim, em se tratando de responsabilidade extracontratual, os juros moratórios devem incidir a partir da data do evento danoso, nos termos da Súmula 54 do STJ, ou seja, desde a instalação da referida estação.
+4. Recurso Especial provido.
+(REsp n. 1.718.176/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/8/2018).
+Portanto, o acórdão recorrido deve ser reformado neste ponto paraadequar-se à jurisprudência do STJ sobre a matéria, de modo que os juros de mora incidam desde a data do evento danoso, isto é, a partir da instalaçãoda ETE Guaraituba.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara fixar o termo inicial dos juros de mora a partir do evento danoso.
+Publique-se. Intimem-se.
