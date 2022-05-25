@@ -1,0 +1,1 @@
+Art. 81-B. O ex-prefeito de Município ou o ex-governador de Estado ou do Distrito Federal cujo ente federado tenha aderido ao sistema de que trata o art. 81 terá acesso a todos os registros de convênios celebrados durante a sua gestão, até a manifestação final do concedente sobre as respectivas prestações de contas.
