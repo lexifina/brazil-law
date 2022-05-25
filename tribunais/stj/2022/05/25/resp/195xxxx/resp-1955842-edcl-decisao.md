@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALINE FERREIRA BASTOS com fundamento no art. 105, III, a e c, da Constituição Federal.
+Na origem, a parte autora, em 14/8/2015, ajuizou ação ordinária com valor da causa atribuído em R$ 3.000,00 (três mil reais), objetivando sua remoção para a ARTE/Campo Grande, por motivo de Tratamento e Manutenção de sua Saúde Física e Psíquica.
+Após sentença que julgou procedente o pedido, o TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO deu provimento à remessa necessária e à apelação do ente público, ficando consignado que a remoção deve ser adotada quando não é possível ao servidor realizar o tratamento de saúde na lotação em que se encontra, devendo tal circunstância restar comprovada por junta médica oficial. Asseverou, por fim, que as provas coligidas aos autos não infirmam a conclusão de que é possível á servidora efetuar o tratamento de saúde mesmo em sua lotação atual, devendo a Sentença ser reformada para julgar improcedente o pleito autoral.
+O referido acórdão foi assim ementado, in verbis:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. REMOÇÃO PARA TRATAMENTO DE SAÚDE. IMPRESCINDIBILIDADE NÃO COMPROVADA. POSSIBILIDADE DE MANUTENÇÃO DA LOTAÇÃO ATUAL. SENTENÇA REFORMADA. REEXAME NECESSÁRIO E RECURSO PROVIDOS.
+1. Trata-se de Remessa Necessária e Apelação Cível interposta contra Sentença que julgou procedente o pedido autoral e condenou a União Federal a promover a remoção da Autora, servidora pública federa, para a agência do antigo Ministério do Trabalho e Emprego localizada no Bairro Campo Grande, nesta cidade do Rio de Janeiro/RJ.
+2. Conforme dispõe o art. 36, parágrafo único, inciso III, letra "b" da lei 8.112/90, a remoção a pedido do servidor, por motivo de saúde, independe do interesse da Administração, ficando condicionado apenas à comprovação da junta médica oficial.
+3. Tal espécie de remoção deve ser tida como medida excepcional, pois retira da Administração Pública a discricionariedade de alocar o servidor segundo critérios que mais atendam ao interesse público. Assim, a remoção deve ser adotada quando não é possível ao servidor realizar o tratamento de saúde na lotação em que se encontra, devendo tal circunstância restar comprovada por junta médica oficial.
+4. In casu, a Apelada é servidora pública federal lotada na Agência do antigo Ministério do Trabalho e Emprego na cidade de Paracambi/RJ, sendo acometida de Episódio Depressivo Moderado (CID 10 - F 32.1), tendo a junta médica oficial concluído pela possibilidade de realização do tratamento de saúde, com manutenção da sua atual lotação.
+5. As provas coligidas aos autos não infirmam a conclusão de que é possível á servidora efetuar o tratamento de saúde mesmo em sua lotação atual, devendo a Sentença ser reformada para julgar improcedente o pleito autoral.
+6. Reexame Necessário e Recurso providos.
+Não foram opostos embargos de declaração.
+Orecurso especial interposto pela parte autora não foi conhecido.
+Em embargos de declaração, a União aponta omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada deixou de apresentar contrarrazões.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em 10% (dez por cento) sobre o valor da causa(fl. 264). No acórdão, a apelação e a remessa necessária foram providas para reformar a sentença e julgar improcedente o pedido, tendo sido invertida a condenação em custas e em honorários advocatícios(fls. 386-388).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 1 (um) ponto percentual.
+Publique-se. Intimem-se.
