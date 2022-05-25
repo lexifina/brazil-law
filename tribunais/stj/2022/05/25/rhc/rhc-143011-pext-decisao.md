@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de pedido de extensão dos efeitos benéficos da decisão de mérito proferida às fls. 148/151, formulado em favor de RAFAEL ALMEIDA DA CUNHA.
+O requerente alega que está na mesma situação fático-processual do paciente, sofrendo constrangimento ilegal decorrente de excesso de prazo nos autos da ação penal nº 020325-68.2017.8.08.0012, em trâmite perante o Juízo da 4ª Vara Criminal de Cariacica/ES, encontrando-se preso há mais de 4 anos, sem a devida finalização da instrução penal.
+As informações foram prestadas, consignando que "quanto ao processo originário (0020325-68.2017.8.08.0012), verifica-se em 25 de dezembro de 2020 foi reexaminada a necessidade da prisão. Em 10 de fevereiro de 2022 foi realizada audiência de instrução" (fl. 169).
+O Ministério Público Federal manifestou-se pelo desprovimento do pedido de extensão.
+A decisão que proveu o recurso emhabeas corpus, na parte em que interessa, foi proferida nos seguintes termos (fls. 148/151):
+Com relação aos prazos consignados na lei processual, deve-se atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se a adoção de critérios de razoabilidade no exame da ocorrência de indevida coação.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não se podendo deduzir o excesso apenas pela soma aritmética destes. Sobre o tema, assim se manifestou o Tribunal local (fls. 30/31):
+Pois bem, a jurisprudência é pacífica em considerar que "a alegação de excesso de prazo na formação da culpa deve ser analisada à luz do princípio da razoabilidade, sendo que eventual extrapolação dos prazos processuais não decorre da simples soma aritmética. Para ser considerado injustificado o excesso na custódia cautelar, deve a demora ser de responsabilidade da acusação ou do Poder Judiciário, situação em que o constrangimento ilegal pode ensejar o relaxamento da segregação antecipada (RHC 84.181/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017).
+Inicialmente, destaco que o Paciente não juntou nenhuma documentação ao habeas corpus, não obstante ser ação constitucional de rito sumaríssimo, que exige a apresentação de prova pré-constituída do constrangimento ilegal. Normalmente, trata-se de hipótese de não conhecimento do writ. Entretanto, na decisão de indeferimento da liminar, ressaltei que em situações teratológicas, de flagrante ilegalidade, autoriza-se ultrapassar a admissibilidade, ou conceder a ordem de ofício, especialmente considerando o contexto excepcional enfrentado de pandemia.
+Em consulta ao andamento processual, verifica-se que 05 réus respondem a ação penal originária, sendo que o processo tem sido constantemente impulsionado. Inclusive, foi proferida decisão em 28/07/2020 ratificando a necessidade da prisão, em prazo inferior daquele previsto no art. 316 do CPP, além de designar nova audiência para 22/10/2020:
+ ..
+Com efeito, as informações prestadas confirmam que o processo não está paralisado. Friso que é ônus do Impetrante fazer prova do alegado, especificamente da demora em razão de desídia da acusação ou do Poder Judiciário, o que não é possível verificar pelos argumentos e cópias juntadas. Ante o exposto, DENEGO a ordem.
+Consta dos autos que a denúncia foi recebida em 25/1/2018, ocasião em que também decretada a prisão preventiva do imputado, cumprida em 15/03/2018.
+A primeira audiência foi marcada para o dia 18/10/2019 e, após redesignada para 18/5/2020, não foi realizada.
+A audiência seguinte, marcada para 20/10/2020, tampouco foi realizada, tendo em vista a ausência dos defensores públicos, que não foram intimados regularmente. Na mesma oportunidade, foi designada nova audiência para o dia 13 de novembro de 2020.
+Na assentada realizada em 13/11/2020 foram ouvidas 3 testemunhas arroladas pela acusação.
+A audiência designada para o dia 6 de maio de 2021 não foi realizada em razão da suspensão dos atos presenciais em decorrência da covid-19.
+Não foi realizada a audiência de 16/9/2021, pois ausentes as testemunhas arroladas pelo Ministério Público, o qual insistiu na oitiva de uma delas, requerendo a condução coercitiva.
+Extrai-se dos autos e do andamento eletrônico da ação penal, extraído do site do Tribunal de origem, que, muito embora diversos atos tenham sido realizados desde a deflagração do processo, poucos lograram efetivamente impulsionar o feito ou versaram sobre a instrução, sendo que a maioria das decisões proferidas relacionam-se a pedidos defensivos de revogação da prisão preventiva.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se a adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Na hipótese, a despeito de a ação penal contar com cinco réus, estão todos sob a custódia do estado e, até então, nem sequer a oitiva das testemunhas de acusação foi concluída, possibilitando-se aferir, portanto, que a instrução está longe do fim.
+Frise-se que a defesa em nada deu causa à mora na conclusão da instrução, que só não foi finalizada, pois o Ministério Público insiste na oitiva de uma testemunha faltosa e também porque a secretaria da vara, por lapso, não intimou regularmente os defensores públicos para uma das audiências realizadas.
+Ademais, nada justifica o enorme intervalo entre as audiências, bem como a delonga na conclusão de instrução criminal que se iniciou em 25/1/2018, ou seja, há mais de 4 anos.
+Ante o exposto, dou provimento ao recurso em habeas corpus para determinar a soltura incontinenti do recorrente, MICHAEL DALMASCHIO RIBEIRO, se por outro motivo não estiver preso, devendo fornecer ao juízo endereço atualizado para os futuros atos de intercâmbio processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
+Como visto, o excesso de prazo no feito tem-se dado em razão de demora na localização de testemunha da acusação, "pois o Ministério Público insiste na oitiva de uma testemunha faltosa e também porque a secretaria da vara, por lapso, não intimou regularmente os defensores públicos para uma das audiências realizadas", o que não pode ser atribuído ao corréu, que aguarda a finalização da instrução penal presohá mais de 4 anos.
+Em consulta ao sítio eletrônico do Tribunal de origem, em 22/5/2022, foi designada audiência de continuação para o dia 6/7/2022. Verifica-se que ainda não foi proferida sentença de pronúncia.
+Desse modo, deve ser aplicado o disposto no art. 580 do CPP para estender os efeitos da decisão que concedeu a liberdade ao paciente também ao corréu da ação penal.
+Ante o exposto, defiro o pedido de extensão para determinar a soltura deRAFAEL ALMEIDA DA CUNHA e dos demais corréus que se encontrem na mesma situação fático-processual, se por outro motivo não estiverem presos, devendo propiciar ao juizo endereços atualizados para fins de comunicação processual.
+Após o decurso do prazo recursal, certifique-se o trânsito em julgado e arquivem-se os autos.
+Comunique-se.
+Publique-se.
+Intimem-se.
