@@ -1,0 +1,9 @@
+DECISÃO
+MARISTELA DENISE SANTOS MENDES, condenada por receptação, alega sofrer coação ilegal em face de acórdão do Tribunal a quo. Requer, em liminar e no mérito, a substituição da pena privativa de liberdade por restritivas de direitos, pois sua reincidência não é específica em crime da mesma natureza.
+Decido.
+O writ comporta pronta solução, pois existe entendimento da Quinta e da Sexta Turmassobre o tema.
+É aplicável ao caso a compreensão de que: "A teor do art. 44, § 3º, do Código Penal, mesmo que o condenado seja reincidente, pode o juiz aplicar asubstituição,desde que em face da condenação anterior a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime"(AgRg no HC n. 700.404/SP, relator João Otávio de Noronha, Quinta Turma, DJe de 11/3/2022).
+Ilustrativamente: "O art. 44, II, do Código Penal, deve ser interpretado de forma conjunta com o § 3º do mesmo dispositivo, ou seja, asubstituiçãodas penas deve ser socialmente recomendável, acrescendo-se que o réu não pode ser reincidente específico"(AgRg no AREsp n. 2.006.280/SP, relator Olindo Menezes (desembargador Convocado do Trf 1ª Região), Sexta Turma, DJe de 1/4/2022).
+Embora a paciente não seja reincidente específica em crime de receptação, fica inviabilizada a substituição pleiteada, pois as instâncias ordinárias demonstraram que a providência "não se mostra socialmente recomendável", visto quea acusada, anteriormente beneficiada com a substituição da prisão preventivapor restritiva de direitos "tornou a delinquir, demonstrando que não faz jus a novo benefício" (fl. 167).
+Concluiu-se, fundamentadamente, que em face da condenação anterior a aplicação do art. 44 do CP não é socialmente recomendável, pois reprimendas substitutivas se mostraram, no caso concreto,insuficientes para prevenir e reprimir a atuação ilícita da postulante.
+À vista do exposto, denego o habeas corpus, in limine.
