@@ -1,0 +1,68 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por Zito Pereira Indústria e Comércio de Peças e Acessórioscom base naalínea"a" do permissivo constitucional contra acórdão assim ementado:
+RECUPERAÇÃO JUDICIAL. Habilitação de crédito decorrente de condenação de verba de sucumbência. Deflação do valor pretendido pelos recorrentes à data do dia em que houve o deferimento do processamento da recuperação judicial. Eventuais acréscimos posteriores que devem se sujeitar às regras do plano de recuperação judicial. Classificação do crédito. Verba de sucumbência. Crédito com privilégio geral, a teor do art. 83, inciso V, da Lei nº 11.101/2005 c. c. o art. 24, da Lei nº 8.906/94. Recurso não provido.
+Embargos de declaração rejeitados.
+Sustentaviolação aos arts. 535 do CPC e9º, II, da Lei n. 11.101/2005, ao entender que o marco temporal para atualização dos créditos sujeitos à recuperação judicial seria a data do seu deferimento e não a do ajuizamento, conforme expressamente consigna o aludido artigo de lei.
+Apelo admitido na origem.
+Parecer do Ministério Público opinando pelo seu desprovimento.
+É o relatório.
+2. Por primeiro, cumpre notar a deficiência na argumentação acerca da violação do art. 535 do CPC, uma vez que tal ponto da insurgência é genérico, não explicando os motivos pelos quais o acórdão recorrido padeceria de omissão.
+Incide, portanto a Súmula 284 do STF.
+Nessa direção:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA COM PEDIDO DE REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PERÍODO DO REAJUSTE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. SUCUMBÊNCIA RECÍPROCA E PROVEITO ECONÔMICO IRRISÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal analisou a prova dos autos para concluir que não houve a informação adequada por parte da recorrente quanto ao período a ser considerado. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Da mesma forma, para alterar o entendimento quanto à sucumbência recíproca e o irrisório proveito econômico, também seria necessário o reexame do conjunto probatório do feito, o que é vedado em recurso especial, pelo óbice da Súmula n. 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1988912/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/04/2022, DJe 28/04/2022)
+--
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRECATÓRIO COMPLEMENTAR. CORREÇÃO MONETÁRIA. PRECLUSÃO. ALEGADA OFENSA AO ART. 1.022 DO CPC. NÃO INDICAÇÃO DOS VÍCIOS. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS E DO ACORDO CELEBRADO ENTRE AS PARTES. SÚMULAS 5 E 7/STJ.
+1. No que toca à apontada violação ao art. 1.022 do CPC, o recorrente não explicitou quais teriam sido as omissões que deixaram de ser sanadas, limitando-se a afirmar que "o acórdão que julgou os embargos não apreciou o tema recursal ventilado" (fl. 1.013, e-STJ). Incidência da Súmula 284/STF, por analogia.
+2. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10.4.2017). Aplica-se a Súmula 211/STJ.
+3. Ainda que ultrapassado o óbice da Súmula 211/STJ, para acolher os argumentos de que "pouco importa se o recorrente concordou anteriormente com os cálculos que aplicaram a TR como índice de correção monetária, porquanto já houve consenso entre as partes, em acordo homologado por sentença transitada em julgado, acerca da necessidade de se proceder ao recálculo do valor devido para que seja aplicado o IPCA-E na espécie"; que "na hipótese vertente, não há nos autos qualquer sentença de extinção do processo, não havendo como possa ela ter transitado em julgado"; e que "o erro de cálculo foi tempestivamente apontado, isto é, depois do depósito do devedor, é certo, mas antes da extinção do processo pela satisfação da obrigação" (fl. 1113, e-STJ), seria indispensável o exame do contexto fático-probatório dos autos e do conteúdo do acordo celebrado entre as partes, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp 1956555/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/04/2022, DJe 25/04/2022)
+3. A controvérsia reside na definição do termofinal da incidência da correção monetária do valor do crédito dos causídicos, asseverando que "o critério de atualização para fins de habilitação de crédito, in casu, é a data do pedido de recuperação judicial" (fl. 362).
+A parte adversa, em seu recurso especial, pugnou pela incidência da correção monetária até a data do efetivo pagamento.
+No ponto, assim se manifestou a Corte estadual (fl. 280):
+Consta dos autos que a recuperação judicial de Zito Pereira Indústria e Comércio de Peças e Acessórios para Autos Ltda. obteve o deferimento do seu processamento em 03/09/2008 e concessão da medida em 07/08/2009 (p. 80).
+Por sua vez, a pretendida habilitação de crédito de verba de sucumbência foi protocolada em 17/11/2010 (p. 52).
+Pois bem.
+O perito, no caso concreto, nada mais fez do que remeter o valor pretendido pelos credores (no momento do ajuizamento da habilitação de crédito - 2010) para a data do deferimento da recuperação judicial (2008).
+Isso porque, para fins de habilitação de crédito, a correção do valor pretendido pelos autores não poderia ultrapassar a data do deferimento da recuperação judicial.
+Essa metodologia de cálculo dá efetivo cumprimento àquilo que dispõe o artigo 49 da Lei 11.101, de 9 de fevereiro de 2005: "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos".
+Contudo, esta Corte de Justiça entende que os honorários sucumbenciais arbitrados após o pedido de recuperação judicial têm natureza extraconcursal:
+DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA POSTERIOR AO PEDIDO RECUPERACIONAL. NATUREZA EXTRACONCURSAL. NÃO SUJEIÇÃO AO PLANO DE RECUPERAÇÃO E A SEUS EFEITOS.
+1. Os créditos constituídos depois de ter o devedor ingressado com o pedido de recuperação judicial estão excluídos do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005).
+2. A Corte Especial do STJ, no julgamento do EAREsp 1255986/PR, decidiu que a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais) é o ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios sucumbenciais.
+3. Em exegese lógica e sistemática, se a sentença que arbitrou os honorários sucumbenciais se deu posteriormente ao pedido de recuperação judicial, o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal, já que, nos termos do art. 49, caput da Lei 11.101/05, sujeitam-se ao plano de soerguimento os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, e não os posteriores. Por outro lado, se a sentença que arbitrou os honorários advocatícios for anterior ao pedido recuperacional, o crédito dali decorrente deverá ser tido como concursal, devendo ser habilitado e pago nos termos do plano de recuperação judicial.
+4. Na hipótese, a sentença que fixou os honorários advocatícios foi prolatada após o pedido de recuperação judicial e, por conseguinte, em se tratando de crédito constituído posteriormente ao pleito recuperacional, tal verba não deverá se submeter aos seus efeitos, ressalvando-se o controle dos atos expropriatórios pelo juízo universal.
+5. Recurso especial provido.
+(REsp 1841960/SP, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 12/02/2020, DJe 13/04/2020)
+--
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigo 1.022 do CPC/15.
+2. "A correção monetária integra o valor da restituição, em caso de adiantamento de câmbio, requerida em concordata ou falência".
+(Súmula 36/STJ).
+3. A análise dos fundamentos que ensejaram o reconhecimento da liquidez, certeza e exigibilidade do título que embasa a execução, exige o reexame probatório dos autos, inviável por esta via especial, ante o óbice da Súmula 7 desta Corte.
+4. É impositiva a condenação aos honorários de sucumbência quando apresentada impugnação ao pedido de habilitação de crédito em sede de recuperação judicial ou falência, haja vista a litigiosidade da demanda.
+5. Os créditos constituídos depois de ter o devedor ingressado com o pedido de recuperação judicial estão excluídos do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/05).
+6. Agravo interno desprovido.
+(AgInt no AREsp 1257200/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020)
+Dessarte, não sujeitos ao plano de recuperação judicial e representando mera reposição do poder aquisitivo, devem os referidos créditos ser atualizados até a data do seu efetivo pagamento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO PROVIDO. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM PERCENTUAL SOBRE O PROVEITO ECONÔMICO AUFERIDO COM A CAUSA. NECESSIDADE DE ATUALIZAÇÃO DA BASE DE CÁLCULO. PRECEDENTES. AGRAVO PROVIDO.
+1. De acordo com a jurisprudência do STJ, "No agravo interno, a parte agravante pleiteou fosse considerado, para fins de aferição da índole irrisória e da majoração dos honorários advocatícios, o valor atualizado da causa. Tal pretensão mostra-se adequada, na medida em que a correção monetária não é acréscimo, gravame ou acessório, visando apenas a salvaguardar o poder aquisitivo da moeda. Precedentes que utilizam o valor atualizado da causa como parâmetro." (AgInt no AREsp 1151280/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+2. Os juros de mora são decorrência lógica da condenação e também devem incidir sobre a verba advocatícia, desde que, como sói acontecer, haja mora do devedor, a qual somente ocorre a partir do momento em que se verifica a exigibilidade da condenação, vale dizer, do trânsito em julgado.
+3. Agravo interno provido, a fim de consignar que os honorários advocatícios, fixados em 1% sobre o proveito econômico auferido, devem ter a base de cálculo atualizada desde o ajuizamento da demanda até a data do efetivo pagamento, acrescendo-se, ainda, juros moratórios a partir do trânsito em julgado desta condenação.
+(AgInt no REsp 1326731/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2019, DJe 16/12/2019)
+--
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. CORREÇÃOMONETÁRIA. INCIDÊNCIA ATÉ A DATA DO PAGAMENTO. ARTS. 1º DALEI Nº 6.899/91 E 26 DO DECRETO-LEI Nº 7.661/45. DISSÍDIOCOMPROVADO. RECURSO ESPECIAL PROVIDO.1. A correção monetária não pode ser limitada à data da quebra e não se condiciona à suficiência do ativo, pois não configura acréscimo ao valor do débito, mas mera reposição do poder aquisitivo.2. A limitação prevista no art. 26 do Decreto-lei nº 7.661/45 se refere apenas aos juros de mora e não sobre a incidência da correção monetária.3. Recurso especial provido. (REsp 1344112/SP, relator o Ministro Moura Ribeiro, Terceira Turma, DJe 11.4.2016).
+Dessarte, não merece prosperar o recurso.
+3. Ante o exposto, nego provimento ao recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10 % do valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. HABILITAÇÃO DO CRÉDITO EM RECUPERAÇÃO JUDICIAL. CORREÇÃO MONETÁRIA. EFETIVO PAGAMENTO.
+1.Não sujeitos ao plano de recuperação judicial e representando mera reposição do poder aquisitivo, devem ser atualizados até a data do seu efetivo pagamento os créditos referentes aos honorários sucumbenciais fixados após o deferimento do pedido de recuperação. Precedentes.
+2. Recurso especial nãoprovido.
