@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por IVONIR PEPPES DO VALLE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVA. INSURGÊNCIA DA PARTE AUTORA NO TOCANTE AOS ÔNUS DA SUCUMBÊNCIA. NOTIFICAÇÃO EXTRAJUDICIAL RECEBIDA PELA INSTITUIÇÃO FINANCEIRA RÉ. FALTA DE DEMONSTRAÇÃO DO CONTEÚDO DA CORRESPONDÊNCIA, ASSIM COMO DA PROCURAÇÃO COM PODERES ESPECÍFICOS À ADVOGADA DA REQUERENTE PARA RECEBER O DOCUMENTO. ATENDIMENTO DA SOLICITAÇÃO QUE ACARRETARIA EM QUEBRA DO SIGILO BANCÁRIO. IN VALIDADE DO REQUERIMENTO ADMNISTRATIVO. BANCO QUE, INSTADO NO FEITO, APRESENTOU OS CONTRATOS FIRMADOS ENTRE AS PARTES. AUSÊNCIA DE PRETENSÃO RESISTIDA. INVIABILIDADE DE INVERSÃO DOS ÔNUS SUCUMBENCIAIS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 85 do CPC, no que concerne à necessidade de condenar a parte recorrida ao pagamento do ônus sucumbencial em razão da pretensão resistida, trazendo o(s) seguinte(s) argumento(s):
+Desse modo, não restou outra solução senão a busca da tutela pelo intimorato Poder Judiciário, ficando evidente a pretensão resistida.
+Entretanto, o r. juízo de primeiro grau deixou de aplicar o ônus de sucumbência contra a parte recorrida, unicamente pelo motivo de ter o recorrido apresentado as provas em juízo:
+ ..
+No mesmo sentido entendeu de forma diversa, verificando uma suposta irregularidade na notificação extrajudicial que não havia sido apreciado pelo juízo de primeiro grau:
+ ..
+Veja-se que a documentação amealhada é inequívoca, tanto é que o r. juízo de piso justificou  deixar  de aplicar o ônus sucumbencial porque os documentos foram apresentados em juízo, não encontrando nenhuma irregularidade na notificação.
+Mesmo porque, a procuração e a notificação seguiram juntas no encaminhamento via correios, conforme fez prova pelo AR (aviso de recebimento)  Evento 1, AR4  identificando seu conteúdo como sendo:
+ ..
+Assim, regularmente formada está a pretensão resistida por parte do Banco PAN S/A.
+Por consequência, a Teoria da Causalidade demanda que o ônus sucumbencial deverá ser distribuído por aquele quem deu causa ao litígio.
+Pelos próprios acórdãos paradigmas acima destacados, vislumbra-se que o recorrente se adequa aos requisitos necessários, bem como resta evidenciada a pretensão resistida e o direito aos honorários sucumbenciais pela Teoria da Causalidade.
+ ..
+Assim sendo, imperioso que seja respeitada a vigência e aplicabilidade do art. 85, caput, seus parágrafos e incisos, do Código de Processo Civil, pelo que se requer a reforma do v. acórdão do Tribunal a quo (fls. 246-249).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+Nesse sentido: "Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois, nas razões do recurso especial, não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020.)
+Confiram-se também os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Extrai-se do feito que, em 28 de agosto de 2019, houve notificação extrajudicial enviada à instituição bancária ré (evento 1, AR4).
+Embora o documento contenha a observação "NotProc - Ivanir P. do Valle - Osvaldino de Arruda - Nereu Lins", não há nos autos o conteúdo da correspondência, tampouco procuração do patrono da autora com poderes específicos para tal diligência.
+Nestas situações, o documento é considerado inválido, pois a Casa Bancária estava impedida de atender o requerimento, sob pena de violar o sigilo bancário de sua cliente.
+ ..
+Desse modo, constatada irregularidade na notificação extrajudicial promovida pelo requerente, não há falar em pretensão resistida pela via administrativa.
+Na esfera judicial, quando compelida, a instituição financeira prontamente apresentou a documentação pretendida. Logo, inviável que o ônus da sucumbência recaia sobre o réu, merecendo manutenção a sentença guerreada (fls. 228-229).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
