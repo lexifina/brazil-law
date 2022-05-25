@@ -1,0 +1,44 @@
+DECISÃO
+MARCELO DO CARMOalega sofrer coação ilegal em face deacórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul(ApelaçãoCriminal n. 5004600-41.2020.8.21.0026).
+Depreende-se dos autos que o paciente foi condenado à pena de 10anos e 8meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+Neste writ, pretende a defesasejao acusado absolvidodos crimes de tráfico de drogas e associação para o tráfico.
+Indeferida a liminar e dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+I. Impossibilidade de absolvição (Crime de tráfico de drogas)
+O Tribunal de origem, ao manter a condenação do paciente pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, assim fundamentou (fls. 49-54, grifei):
+Dos elementos coligidos durante a instrução, evidencia-se que os policias responsáveis pelo cumprimento do mandado de busca e apreensão na residência de Bruno, acabaram por ali apreender droga (3 porções de maconha, totalizando pouco mais de 25g), dinheiro e utensílios para fracionar a substância.
+Esses objetos estavam guardados em uma caixa com o numeral "14.18.12, que refere-se, segundo os policiais, ao código utilizado pela facção criminosa "Os Manos".
+Dentre os bens apreendidos estava o telefone celular de Bruno, do qual foram, posteriormente, extraídos dados (conversas em aplicativo de mensagens - Whatsapp) que levaram a identificar o ora denunciado como o fornecedor de drogas a Bruno, que as revendia a terceiros (usuários).
+Essa a prova segura e harmônica que se tem nos autos a respeito do agir do acusado, supedaneada nos informes investigativos coletados na fase inquisitorial e que foram confirmados em juízo, de forma coerente e segura, pelos agentes públicos responsáveis pela investigação e diligências daí decorrentes.
+Acrescente-se que no celular do referido suspeito (Bruno) foram localizadas diversas conversas sobre comercialização de drogas, inclusive com o ora apelante, identificado como o fornecedor da droga ao comparsa Bruno e a outros traficantes, constando, até, elogios do apelante a Bruno, tido como bom vendedor de drogas e que fazia "os pagamentos em dia", vale dizer, repassava o produto que auferia com a venda das substâncias ilícitas ao apelante, seu superior hierárquico na facção.
+Novamente, a evitar desnecessária repetição, transcrevo a parte da sentença que menciona justamente o conteúdo da extração de dados do telefone de Bruno, já falecido:
+ ..
+Como se vê da prova coligida, não há dúvida acerca do envolvimento profundo do réu Marcelo na empreitada criminosa, na condição de fornecedor de drogas a traficantes menores, inclusive com atitudes de cobrançade contabilidade e elogios, como antes registrado, ao desempenho de Bruno, na condição de seu subordinado.
+E não há falar em impossibilidade de identificação de interlocutores em extração de dados telefônicos, mormente quando tal diligência não se deu de forma prévia e genérica como alega a defesa, mas decorrente de regular autorização judicial.
+Ademais, a identificação de Marcelo não se trata de mera suposição, já que ele mesmo se fez identificar por meio de fotografias suas enviadas a Bruno por meio de aplicativo de mensagens.
+Para além disso, inclusive, a identificação de novos interlocutores por ocasião da extração e análise de dados de aparelho telefônico celular serve à instauração de inquérito e, se for o caso, permite até o iniciar de processos e julgamentos diversos, consoante já se pronunciou a jurisprudência desta Corte, por força do fenômeno da serendipidade:
+ ..
+As condutas delituosas imputadas ao réu são suficientes para caracterizar a traficância, pois se trata de delito de ação múltipla, consumando-se com a prática de qualquer uma das ações previstas nos verbos-núcleo do tipo do antedito art. 33 da Lei de Drogas.
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão impugnado, verifico que as instâncias de origem, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação doacusadopelo crime de tráfico de drogas (art. 33 da Lei n.11.343/2006).
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n.11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Por essas razões, mostra-se inviável a absolvição doréu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Saliento, ademais, que qualquer outra solução que não a adotada pelas instâncias ordinárias implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em habeas corpus.
+II. Impossibilidade de absolvição (Crime de associação para o tráfico)
+O Tribunal de origem entendeu pela condenação do acusado pelo crime de associação para o tráfico, conforme trechos abaixo (fl. 55, grifei):
+No caso sub judice, estão presentes os requisitos para a caracterização do crime de associação ao tráfico, conforme bem exposto na sentença que culminou com a condenação dos acusados.
+Há prova da materialidade e da autoria delitiva, como explanado anteriormente.
+Conforme evidenciado pelos dados telefônicos extraídos do aparelho apreendido, há certeza de que Marcelo e Bruno (assim como outros indivíduos não identificados durante a investigação) estavam associados para a prática do tráfico de drogas, uma vez que Bruno tinha em depósito, para venda, as drogas que pertenciam a Marcelo e que eram por ele fornecidas. Marcelo ainda tinha a incumbência de orientar Bruno quanto à empreitada criminosa, notadamente quanto à comercialização dos estupefacientes, preços, etc, auferindo os lucros daí provenientes.
+Outrossim, ficou claro nas investigações que tanto Bruno como Marcelo respondiam à facção criminosa "Os Manos", pois ostentavam símbolos sabidamente relacionados à tal organização criminosa, tais como os numerais "14.18.12", presentes na identificação do perfil de usuário do aplicativo de mensagens Whatsapp utilizado por Marcelo e na caixa onde foram encontradas as drogas na posse de Bruno.
+Assim, a prova dos autos indica, modo suficiente para a condenação, que o increpado, juntamente com o falecido Bruno, mantinham vínculo com as características da estabilidade e permanência, para fins de traficância.
+Por fim, também restou comprovada a divisão de tarefas, sendo que Marcelo fornecia as drogas e comandava o tráfico na região, ao passo que Bruno recebida e vendia os estupefacientes.
+Sendo assim, não há como deixar de manter o decreto condenatório, mormente quando se vê que não veio aos autos qualquer contraprova capaz de infirmar ou colocar em dúvida as conclusões a que chegou o juízo singular.
+A prova judicializada não deixa dúvida acerca da existência de uma associação entre o acusado e seu comparsa, previamente articulados, para o comércio ilícito de drogas.
+ ..
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel.Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem, após uma análise minuciosa dos elementos fático-probatórios colacionados aos autos, apontaramelementos concretos que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhum constrangimento ilegal pelo qual estaria sendo vítima o paciente nesse ponto.
+Saliento, ademais, que qualquer outra solução que não a adotada pela instância ordinária implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em habeas corpus.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
