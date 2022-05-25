@@ -1,0 +1,25 @@
+DECISÃO
+A DEFENSORIA PÚBLICA DO ESTADO DO RIO GRANDE DO SUL impetra habeas corpus em benefício de "todos os presos que já passaram pela cadeia pública de Porto Alegre após a primeira interdição em razão da superlotação" (fl. 3).
+O órgão assinala que o Tribunal a quo (Carta Testemunhável n.70085520377), ao reconhecer a tempestividade de agravo em execução interposto pelo Parquet,inflige ilegal constrangimento aos pacientes, pois "estando o Ministério Público com vista dos autos eletrônicos, há presunção relativa da intimação de todos os atos anteriores ao acesso" (fl. 5) e era inequívoca sua ciência quanto ao conteúdo da decisão judicial.
+A impetrante afirma a ausência de pressuposto de admissibilidade do reclamo, pois:a) "após o primeiro juízo de retratação, em 05/11/2021(evento 44), ocorreu a remessa para o Ministério Público na mesma data" e, "em 08/11/2021 (evento 51), foi exercido novo juízo de retratação"; b) "após a última retratação, em 16/11/2021 (evento 54), ocorreu a intimação do Ministério Público, com a leitura da remessa realizada" (fl. 6) e c) "decorreu o prazo sem manifestação ou insurgência com o recurso cabível, em 23/11/2021".
+Explica a postulante que o "próprio sistema SEEU impede nova remessa à parte quando o processo ainda está com o órgão para intimação" (fls. 5-6).Assim o agravo em execução não deve ser conhecido, pois:
+ ..  ainda que tenha havido o acolhimento dos embargos de declaração da defesa, em 05/11/2021 e em 08/11/2021 (eventos 44 e 51), o fato é que o Ministério Público sequer havia se intimado embora estivesse com vistas a ele, o qual optou por deixar o prazo abrir automático pelo sistema, motivo pelo qual o prazo recursivo apenas iniciou em 16/11/2021 (evento 54), decorrendo in albis, em 23/11/2021 (evento 61).
+Pede a "reformado acórdão proferido pela Oitava Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul" (fl. 11).
+Decido.
+Não considero cabível o habeas corpus.
+As açõescoletivas de resolução de litígios vêm ganhado importância no cenário processual nacional, inspiradas principalmente nasclass actions norte-americanas.
+Na seara penal, que nos interessa, apesar da falta de expressa previsão legislativa, oSupremo Tribunal Federal, ao julgar o HC nº 143.641/SP, considerou possível a impetração de habeas corpus coletivo para proteção do direito à liberdade de locomoção de grupo de pessoasque se encontrem na mesma situação e indicou, por analogia, o permissivo do art. 12 da Lei nº 13.300/2016 (Lei do Mandado de Injunção Coletivo) para definir alegitimação para agir, assegurada também às Defensorias Públicas.
+Todavia, não se deve banalizar o uso de tão importante remédio constitucional, restrito à proteção de substanciais direitos individuais homogêneos.
+Para aadmissibilidade do writ coletivo, é preciso existir questão comum, atinentea efetiva defesa da liberdade de grupo numeroso,ameaçado ou lesado por atos ilegais, ou abuso de poder, que denoteserimpraticável e contrário à economia processual a exigência de propositura de ações individuais para promoção do acesso à justiça e resolução repetida de idêntico litígio.
+Não olvido a matéria em discussão noagravo em execução do Ministério Público (a possibilidade, ou não, de cômputo em dobro do tempo de pena cumprida na Cadeia Pública de Porto Alegre em períodos nos quais o estabelecimento prisional apresentou ocupação igual ou superior a 120% de sua capacidade), mas a Defensoria Pública, nestes autos,busca discutir apenas pressuposto de admissibilidade recursal (tempestividade).
+Em substituição processual, o órgão representa, inclusive, presos que "já passaram pela cadeia pública de Porto Alegre", os quais, atualmente, podem nem sequer ter execução penal em trâmite.
+Assim, apesar do esforço da impetrante, considera-se que o habeas corpus, em especial o coletivo,demanda maior relevo da afirmação de direito fundamental enão é "meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade recursal de outro tribunal. Precedentes"(HC n. 202958 AgR, Rel. Ricardo Lewandowski, 2ª T., DJe 6/8/2021).
+Ilustrativamente:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO DE IR E VIR. VIOLAÇÃO. INEXISTÊNCIA. SEGUIMENTO A RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Incabível habeas corpus quando não há pedido relativo a direito de locomoção.
+2. A defesa pretende o seguimento ao recurso extraordinário interposto contra o acórdão proferido pela Corte de origem, o qual teve seguimento negado, assim como o recurso especial, esse pendente de julgamento do agravo regimental. O aludido recurso extraordinário será eventualmente processado e julgado perante a Corte Suprema.
+3. O habeas corpus é ação constitucional de natureza mandamental, com escopo precípuo de afastar eventual ameaça ao direito de ir e vir, entendo não haver provimento a ser dado nesta oportunidade.
+4. Agravo regimental não provido.
+(AgRg no HC n. 340.247/SP, rel. Min. Rogerio Schietti, 6ª T., DJe 2/12/2015).
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
