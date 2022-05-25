@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Claudinéia Fernandes Pereira contra acórdão proferido pela Quarta Turma desta Corte, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MULTA COMINATÓRIA. MAJORAÇÃO. DESCABIMENTO. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou orientação de que, em regra, é inadmissível o exame do valor atribuído às astreintes, só podendo ser reavaliado quando exorbitante ou irrisória a importância considerada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, não se mostra cabível atender ao pedido de majoração da multa cominatória, pois a eg. Corte estadual examinou com o devido cuidado o valor da multa, adotando o montante de R$ 5.000,00 (cinco mil reais), levando em conta o valor do bem buscado na demanda.
+3. Nesse contexto, não se evidencia irrisório nem desproporcional ao descumprimento da obrigação de entrega de equipamento de som adquirido pela agravante por valor inferior ao do total das astreintes.
+4. Agravo interno a que se nega provimento.
+A embargante sustenta, em síntese, que o referido decisum divergiu da orientação da Terceira Turma desta Corte Superior, a qual, por ocasião do julgamento doREsp n. 1.819.069/SC, entendeu que, "a despeito do que estabelece o artigo537, § 1º, inciso I, do Código de Processo Civil, para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante" (e-STJ, fl. 271).
+Brevemente relatado, decido.
+Conforme afirmado pela própria embargante, o recurso especial interposto foi embasado no dissídio jurisprudencial, sendo colacionado como paradigma também o REsp .1819.069/SC, da Terceira Turma desta Corte.
+Tal o quadro delineado, tem incidência, por analogia,o óbice da Súmula 598/STF, que assim dispõe:
+Nos embargos de divergência não servem como padrão de discordância os mesmos paradigmas invocados para demonstrá-la mas repelidos como não dissidentes no julgamento do recurso extraordinário.
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL. OBRIGAÇÃO ACESSÓRIA. JUROS E CORREÇÃO MONETÁRIA. ACÓRDÃO EMBARGADO QUE DECIDIU QUE O PRAZO PRESCRICIONAL É DISTINTO DAQUELE PREVISTO PARA AS PRETENSÕES RELACIONADAS À OBRIGAÇÃO PRINCIPAL. PRAZO TRIENAL. DISSIDÊNCIA ARGUIDA COM BASE NOS MESMOS PARADIGMAS EXAMINADOS E REJEITADOS PELO ACÓRDÃO EMBARGADO NO JULGAMENTO DO RECURSO ESPECIAL: PECULIARIDADES NÃO EXAMINADAS POR DOIS DOS PARADIGMAS; E O TERCEIRO REAFIRMA O ENTENDIMENTO DO ACÓRDÃO EMBARGADO. DIVERGÊNCIA INDEMONSTRADA. INCIDÊNCIA, MUTATIS MUTANDIS, DA SÚMULA N. 598 DOSTF.EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão embargado, ao solucionar a controvérsia, analisou os mesmos arestos paradigmas trazidos nas razões dos embargos de divergência, refutando o alegado dissídio jurisprudencial.
+2. Como os acórdãos paradigmas já foram oportunamente analisados e rejeitados pelo acórdão embargado, são imprestáveis para sustentar a renovação da insurgência em sede de embargos de divergência, consoante a jurisprudência consolidada neste Superior Tribunal de Justiça, espelhada, mutatis mutandis, no verbete sumular n. 598 doSupremo Tribunal Federal: "Nos embargos de divergência não servem como padrão de discordância os mesmos paradigmas invocados para demonstrá-la mas repelidos como não dissentes no julgamento do recurso extraordinário."
+3. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.927.434/GO, Corte Especial, Relatora a Ministra Laurita Vaz, DJe de 2/3/2022 - sem grifo no original)
+Por fim, também não se revela possível analisar eventual divergência na definição do valor fixado a título de astreintes, tendo em vista que tal análise é feita com base nas particularidades de cada caso, não havendo, portanto, similitude fática com soluções jurídicas diversas a embasar o processamento dos embargos de divergência.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO PARADIGMA UTILIZADO COMO FUNDAMENTO NAS RAZÕES DO RECURSO ESPECIAL. ÓBICE DA SÚMULA 598/STF. AUSÊNCIA DE SIMILITUDE FÁTICA COM SOLUÇÕES JURÍDICAS DIVERSAS ENTRE OS ARESTOS. EMBARGOS INDEFERIDOS LIMINARMENTE.
