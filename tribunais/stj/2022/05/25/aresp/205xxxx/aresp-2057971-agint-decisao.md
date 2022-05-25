@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de agravo interno no agravo em recurso especial interposto por MADALENA SUELI PICINATO PINTO, no qual se discute questão relativa à existência ou não de legitimidade passiva "ad causam" do Banco do Brasil para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa.
+Por cuidar de matéria de direito público, a apreciação do presente recurso foge à competência desta 2ª Seção, a teor do que dispõe o art. 9º, § 1º, XIV, do RISTJ.
+Assim sendo, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos - CTJU, para a redistribuição dos autos a uma das Turmas da 1ª Seção deste Tribunal.
