@@ -1,0 +1,37 @@
+DECISÃO
+GUILHERME DO NASCIMENTO CAMPOSalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo Regimental naRevisão Criminal n.0006709-32.2015.8.26.0000/50001.
+A defesa busca a revisão da dosimetria da pena imposta ao paciente, ao argumento de que a Súmula n. 443 do STJ não foi observada, uma vez que houve acréscimo na terceira etapa tão somente pela quantidade de majorantes reconhecidas no crime de roubo.
+Decido.
+Opaciente foi condenado, definitivamente, à pena de 6 anos e 5 meses de reclusão, em regime inicial fechado, e ao pagamento de 15 dias-multa, pela prática do crime previsto noart. 157, § 2º, II e V, do Código Penal.
+Ao fixar o quantum de aumento na terceira etapa da dosimetria, oTribunala quoassim asseriu no acórdão da apelação (fl. 32, grifei):
+Por fim, como praticado esse roubo mediante concurso de pessoas e restrição às liberdades das vítimas, correto acrescer-se ambas essas penas, aliás, também, pelos fundamentos lançados por essa digna magistrada sentenciante (folhas 374), em três oitavos (3/8).
+ ..
+Nesse sentido, considera-se que, "no crime de roubo, sendo cinco as qualificadoras previstas no § 2º do artigo 157 do Código Penal, a majoração da pena deve obedecer ao seguinte critério: 1/3, se presente uma causa; 3/8, se presentes duas causas; 5/12, se presentes três; 7/16, se quatro e de 1/2, se presentes as cinco causas especiais de aumento" (RJDTACrim 63/64).
+A Corte local manteve esse entendimento na revisão criminal, conforme se observa (fl. 40):
+O digno Defensor sustenta, em resumo, que a condenação foi contrária à lei penal e à evidência dos autos, postulando a absolvição do peticionário.
+Ocorre que, como afirmado na decisão monocrática atacada, a r. Sentença (fls. 360/376 dos autos originais) justificou plenamente a exasperação das sanções do peticionário, em razão das majorantes do concurso de agentes e restrição da liberdade das vítimas, descrevendo pormenorizadamente o crime praticado e sua evidente gravidade.
+Na oportunidade, também restou consignado que o v. Acórdão revidendo (fls.459/457 dos autos originais), por seu turno, manteve o mesmo entendimento, unicamente reduzindo as penas do peticionário na segunda etapa, de forma igualmente fundamentada, analisando detidamente todo o conjunto probatório dos autos.
+Ademais, a r. sentença condenatória e o v. acórdão confirmatório foram devidamente fundamentados, com análise do caso concreto e explicitação das razões que levaram à condenação e às sanções impostas.
+A sentença a que o Juízo de segundo grau se referiu consignou (fl. 23, destaquei): "Tendo em vista que duas qualificadoras (sic) foram reconhecidas, o que torna a conduta mais grave e merecedora de resposta penal mais severa, tendo em vista que as vítimas suportaram constrangimento maior, aumento a pena em 3/8, tornando-a definitiva para Guilherme em sete anos e quatro meses de reclusão e dezesseisdias-multa, calculada a unidade em seu mínimo legal".
+Nos termos do art. 68, parágrafo único, do Código Penal: "No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua".
+A presença, portanto, de duas causas de aumento não acarreta, necessariamente, o aumento acima do mínimo legal previsto no art. 157, §2º,do CP. O referido dispositivo legal - art. 68, parágrafo único, do CP - visa garantir ao condenado a aplicação individualizada da pena, de forma proporcional e razoável. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, nos termos do art. 93, IX, da Constituição Federal e da Súmula 443 do STJ.
+A propósito do tema, os seguintes julgados:
+ ..
+- A jurisprudência deste Superior Tribunal de Justiça e a do Supremo Tribunal Federal são no sentido de que o art. 68, Parágrafo Único, do Código Penal, não exige que o juiz aplique uma única causa de aumento da parte especial do Código Penal quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+ ..
+- Contudo, na hipótese ora analisada, as instâncias ordinárias não fundamentaram, concretamente, o cúmulo de causas de aumento, com remissão a peculiaridades do caso em comento, pois o modus operandi do delito, como narrado, confunde-se com a mera descrição típica das majorantes reconhecidas, não refletindo especial gravidade.
+- Assim, respeitada a proporcionalidade da pena no caso concreto, e a intenção da Lei n. 13.654/2018, afasta-se a majorante do art.
+157, § 2.º, inciso II ("A pena aumenta-se de 1/3 (um terço) até metade se há o concurso de duas ou mais pessoas"), aplicando-se apenas a do art. 157, § 2.º-A, inciso I ("A pena aumenta-se de 2/3 (dois terços)se a violência ou ameaça é exercida com emprego de arma de fogo"), ambas do Código Penal.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a reprimenda do paciente ao novo patamar de 9 anos e 26 dias de reclusão, e 21 dias-multa, mantidos os demais termos da condenação.
+(HC n. 472.771/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/12/2018)
+ ..
+II - Tendo em vista o disposto no parágrafo único do art. 68 e do parágrafo 2º do art. 157, ambos do CP, o aumento de pena, acima do patamar mínimo, pela ocorrência de duas majorantes específicas, deve ser motivado não apenas pela simples constatação da existência destas, como o foi na espécie, mas sim com base em dados concretos em que se evidenciou o fato criminoso. (Precedentes).
+III - "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Enunciado nº 443 da súmula do STJ).
+ ..
+(RHC n. 51.597/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/2/2015)
+Nesse mesmo sentido, menciono o enunciado da Súmula n. 443 do STJ, in verbis: "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Logo, reconheço o constrangimento ilegal, pois não foram apontados elementos concretos dos autos que, efetivamente, evidenciassem a real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido. Ao revés do afirmado pela Corte local, verifico que o Magistrado sentenciante fez mençãotão somente à quantidade de causas de aumento de pena reconhecidas em desfavor do acusado.
+Reconhecida a ilegalidade na fixação da reprimenda, passo à sua readequação.
+A pena-base do réu foi fixada em 4 anos de reclusão e 10 dias-multa.Na segunda etapa,a reprimenda foi aumentada em 1/6 pela parcial compensação entre a confissão espontânea e a multirreincidência, a resultar em 4 anos e 8 meses e 11 dias-multa. Na terceira fase, exaspero a sanção em 1/3 (mínimo legal), ante a inexistência de fundamentação concreta das instâncias de origem para fixar fração diversa. A pena definitiva fica estabelecidaem 6 anos, 2meses e 20 dias de reclusãoe 14dias-multa, por não haver outras moduladoras.
+À vista do exposto, concedo a ordem, in limine, a fim de identificar a ilegalidade na terceira fase da dosimetria e redimensionar as penas para 6 anos, 2 meses e 20 dias de reclusão e 14 dias-multa.
+Publique-se e intimem-se.
