@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FAZENDA NACIONAL, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. ART. 1.021, CPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ICMS. BASE DE CÁLCULO. PIS E COFINS. EXCLUSÃO. REPERCUSSÃO GERAL. TEMA 69. AGRAVO. DESPROVIDO
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, encontra-se supedaneada em jurisprudência consolidada do E. Supremo Tribunal Federal, inclusive quanto aos pontos impugnados no presente recurso.
+2. Preliminarmente, afigura-se, na espécie, desnecessário aguardar-se a publicação do acórdão resultante dos embargos de declaração, ou a finalização do julgamento, do RE nº 574.706-PR para a aplicação do entendimento sedimentado em sede de repercussão geral, como alegado pela União. A publicação da respectiva ata de julgamento, ocorrida em 20/03/2017 (DJe nº 53) supre tal providência, conforme previsão expressa do art. 1035, § 11, do CPC/2015, bem como os embargos de declaração opostos no RE nº 574.706-PR não foi dotado de efeito suspensivo. Deste modo, ainda que venha a ser dada modulação dos efeitos da decisão proferida no RE nº 574.706-PR, neste momento não se pode admitir decisão de tribunal que contradiga a pronunciamentos emanados em sede de repercussão geral.
+3. No tocante a ADC nº 18, que discute o tema, encontra-se ainda pendente de julgamento, não é demais renovar aqui que a última prorrogação da eficácia da liminar que suspendeu o julgamento das ações concernentes à inclusão do ICMS na base de cálculo do PIS/COFINS expirou em outubro/2010.
+4. O Plenário do E. Supremo Tribunal Federal no julgamento do RE nº 574.706-PR, publicado em 02.10.2017, por maioria e nos termos do voto da Relatora, Ministra Cármen Lúcia (Presidente), apreciando o tema 69 da repercussão geral, firmou entendimento no sentido de que "O ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins".
+5. A questão controvertida é eminentemente de direito, não demandando qualquer dilação probatória, podendo ser de pronto analisada pelo Juízo, sendo, assim, passível de ser objeto de exceção de pré-executividade.
+6. Cabível a exceção de pré-executividade no presente caso, sendo de rigor a exclusão do ICMS da base de cálculo do PIS e COFINS. Precedente desta E. Corte.
+7. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+8. Agravo interno desprovido" (fls. 248/249e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 263/271e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. ART. 1.021, CPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DEPRÉ-EXECUTIVIDADE. ICMS. BASE DE CÁLCULO. PIS E COFINS. EXCLUSÃO. REPERCUSSÃO GERAL. TEMA 69. AGRAVO DESPROVIDO.
+Na forma do art. 1.022, incisos I a III, do CPC, são cabíveis embargos de declaração para sanar obscuridade ou contradição, omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento, e para a correção de erro material na decisão. Vícios inexistentes.
+Embargos de declaração rejeitados"
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos 3º e 16 da Lei 6.830/80, art. 320, 321, 330, IV, 373, I, 434,485, § 3º, 803 e 1.022 do CPC/2015, sustentando, além de negativa de prestação jurisdicional, "a impossibilidade de discussão de ICMS na base de cálculo de PIS e COFINS em exceção de pre-executividade, eis que demanda dilação probatória" (fl. 310e).
+Sem  contrarrazões.
+Inadmitido o Recurso Especial (fls. 350/356e), foi interposto o presente Agravo (fls. 361/373e).
+Não houve contraminuta.
+A irresignação não merece prosperar.
+Na origem, trata-se de agravo de instrumento interposto pela União contra decisão exarada em execução fiscal de crédito tributário em que foi determinada a exclusão do ICMS da base de cálculo do PIS-COFINS.
+O Tribunal local negou provimento ao recurso.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação à negativa de prestação jurisdicional, deve-se ressaltar que o acórdão recorrido, julgado sob a égide do anterior Código de Processo Civil, não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, verifica-se que o Tribunal de origem que, diante do acervo probatório dos autos, concluiu pela adequação da via eleita  exceção de pré-executividade  ante a desnecessidade de dilação probatória, vejamos:
+"Ademais, a questão controvertida é eminentemente de direito, não demandando qualquer dilação probatória, podendo ser de pronto analisada pelo Juízo, sendo, assim, passível de ser objeto de exceção de pré-executividade.
+Assim, cabível a exceção de pré-executividade no presente caso, sendo de rigor a exclusão do ICMS da base de cálculo do PIS e COFINS. Nesse sentido:
+(..)
+Por fim, o C. Superior Tribunal de Justiça pacificou, em recurso representativo de controvérsia, o entendimento segundo o qual subsiste a constituição do crédito tributário com base em norma que posteriormente é declarada inconstitucional, porquanto remanesce a exigibilidade parcial do valor inscrito na dívida ativa, desconsiderada aparte referente ao a maior (STJ, REsp 1115501/SP, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado emquantum10/11/2010, DJe 30/11/2010).
+De outra parte, as razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do , limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida" (fls. 246/248e)
+Alterar este entendimento, demandaria o revolvimento do contexto probatório dos autos, circunstância vedada em sede de especial a teor da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
