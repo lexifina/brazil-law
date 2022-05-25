@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Banco Santander S.A., com amparo na alínea "a"do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 313):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA.NECESSIDADE DE COLMATAÇÃO. EMBARGOS À EXECUÇÃO FISCAL ACOLHIDOS. HONORÁRIOS ADVOCATÍCIOS DEVIDOS PELA FAZENDA PÚBLICA. FIXAÇÃO CONFORME O ART. 85, § 3, C/C O § 8º, DO CPC. ADOÇÃO DA TAXA MÍNIMA DE CADA FAIXA TENDO EM CONTA NÃO TER HAVIDO DILAÇÃO PROBATÓRIA E A MATÉRIA SER CONHECIDA.EMBARGOS DE DECLARAÇÃO ACOLHIDOS, A FIM DE SUPRIR A OMISSÃO, RESULTANDO POR CONSEGUINTE PROVIDA A APELAÇÃO DO EMBARGANTE.
+Embargos de declaração opostos pelo contribuinte foram rejeitados.
+Em suas razões, o recorrente levanta prefacial de ofensa ao art. 1.022 do CPC/2015, aduzindo omissão quanto aos honorários advocatícios recursais após o provimento de seu apelo.
+No mérito, aponta violação do art. 85, § 11, do CPC/2015.
+Sustenta, em síntese, que, "considerando que desprovido foi o recurso interposto pelo Município, impunha-se a majoração dos honorários na forma do dispositivo legal acima reproduzido, tal como, aliás, inicialmente procedera o r. acórdão ao apreciar os apelos, não se atinando corno poderia a colenda Câmara Julgadora, após os exame e acolhimento dos primevos aclaratórios oferecidos pelo Banco, para fins de prover-lhe a apelação, asseverar não ser devida a verba ora pleiteada" (e-STJ, fl. 354).
+Asseveraque "o § 11 do art. 85 do CPC, ao disciplinar a hipótese de majoração da verba honoráriaem grau de recurso, tem a dupla funcionalidade de (i) atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e (ii) inibir o exercício abusivo do direito de recorrer", e que "não se pode admitir que nenhuma remuneração se conceda em grau recursal frente ao inegável desprovimento do apelo aviado pela Fazenda" (e-STJ, fl. 354).
+Sem contrarrazões recursais.
+Admitido o recurso especial na origem (e-STJ, fls. 386-391), subiram os autos a esta Corte.
+É o relatório.
+Inicialmente, não há se falar em contrariedade ao art. 1.022 do CPC/2015, quando o Tribunal de origem, como se verifica no presente caso, pronuncia-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado para embasar a decisão.
+Desse modo, não prospera a pretensão de nulidade do aresto por omissão.
+Quanto ao mérito propriamente, constata-se que o entendimento assentado pela Corte de origem de que não caberia a majoração da verba honorária na hipótese por ter sido provido o recurso do contribuintenão destoa da jurisprudência do STJ que preconiza cabimento dos honorários recursais se satisfeitos os requisitos da contemporaneidade da decisão recorrida - se já sob a égide do novo diploma processual -, a manutenção de seu teor e a condenação em honorários desde a origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO RECONHECIDA E SANADA. SEM EFEITOS MODIFICATIVOS. LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA. HONORÁRIOS RECURSAIS. MAJORAÇÃO DEVIDA. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO.
+1. No caso, verifica-se omissão quanto ao pleito de aplicação de multa por litigância de má-fé e de honorários recursais na forma do art. 85, §§ 1º e 11, CPC/2015.
+2. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. (AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 09/08/2017, DJe de 19/10/2017).
+3. A jurisprudência do STJ é firme no sentido de que não se aplica a multa por litigância de má-fé quando a parte utiliza recurso previsto no ordenamento jurídico, sem abusar do direito de recorrer, como é o caso dos autos. Precedentes" (EDcl no AgInt no AREsp 983.177/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/12/2017, DJe de 14/12/2017).
+4. Embargos de declaração acolhidos para, suprimindo a omissão, determinar a majoração dos honorários advocatícios em desfavor da parte contrária.
+(EDcl no AgInt nos EDcl no AREsp n. 1.360.156/SC, relator MinistroLUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/8/2020, DJe de 13/8/2020).
+No caso em tela, como a sentença primária foi modificada com o provimento do recurso de apelação do contribuinte, não se verifica um dos requisitos para o arbitramento dos honorários advocatícios recursais, qual seja, a manutenção da decisão recorrida.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
