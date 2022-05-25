@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROBSON SILVA DO NASCIMENTOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco(Embargos Infringentesn. 0008559-46.2010.8.17.0001).
+Em primeiro grau, o paciente foi condenado às penas de prestação de serviços à comunidade, pela prática de delito descrito no art. 28 da Lei n. 11.343/2006, e às penas de 2 anos e 6 meses dereclusão em regime aberto -convertida em duas penas restritivas de direitos -e de 10dias-multa, pela prática do crime descrito no art. 14 da Lei n. 10.826/2003.A pena-base foi fixada no mínimo legal. Na segunda fase, foi reconhecida a preponderância da agravante da reincidência em relação à atenuante da confissão espontânea, aumentando-sea pena em 6 meses.Não foram reconhecidas causas de diminuição ou de aumento de pena.
+O Tribunal de origem negou provimento ao apelo da defesa e ao recurso de apelação ministerial.
+Os embargos infringentes opostos foram rejeitados.
+Nas razões do presente writ, a defesa aponta constrangimento ilegal em não se compensar, na segunda fase da dosimetria penal, a agravante da reincidência com a atenuante da confissão espontânea.Aduzque inexiste preponderânciada agravante da reincidência sobre a atenuante da confissão espontânea.
+Requer a concessão da ordem a fim de que sejacompensada a agravante da reincidência com a atenuante da confissão espontânea.
+O pedido de liminar foi indeferido (fls. 85-86).
+O Tribunal de Justiça do Estado dePernambuco prestou informações às fls. 37-83 e 93-178.
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício (fls. 187-189).
+É o relatório. Decido
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+O pleito formulado no presente writ é dotadode plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão por esta Corte somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (AgRg no AREsp n. 1.843.362/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/5/2021; HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+Verifica-se que a Terceira Seção do Superior Tribunal de Justiça consolidou o entendimento de que é possível a compensação integral da atenuante da confissão espontânea e da menoridade relativa com a agravante da reincidência, ainda que esta seja específica, uma vez que ambas envolvem a personalidade do agente, não havendo, assim, conferido maior desvalor à conduta do acusado que tenha outra condenação pelo mesmo delito (AgRg no HC n. 520.151/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/9/2019;HC n. 475.696/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 12/12/2018;e REsp 1.341.370/MT, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 17/4/2003).
+No caso,o Tribunal de origem reconheceu a configuração da confissão espontânea do paciente, masconcluiu que a reincidência, como circunstância preponderante, deveria prevalecer sobre a atenuante. Confira-seexcertos do julgado (fls. 22-23, destaquei):
+Pois bem. Como visto, a divergência reside em definir se diante do concurso da atenuante da confissão espontânea e da agravante da reincidência deve haver compensação de penas ou preponderância da reincidência.
+Na linha do posicionamento do STF, entendo que a reincidência sempre prepondera sobre a confissão, na medida em que aquela (reincidência) diz respeito à personalidade do agente e esta (confissão) constitui mero ato posterior ao cometimento do crime e tem relação apenas com o interesse pessoal e conveniência do réu:
+ ..
+A propósito, o fato do embargante ter sido preso em flagrante, isto é, da sua confissão em nada ter contribuído para o deslinde da demanda, é mais uma razão para que a reincidência prepondere sobre a confissão.
+Assim agindo, decidiuem desacordo com a atual jurisprudência do STJ, o que configura constrangimento ilegal, passível de correção por esta via.
+Éoportuna, pois, a revisão da dosimetria da pena fixada na instância de origem.
+Mantida a pena-base no mínimo legal,compensadas a agravante da reincidência com a atenuante confissão espontânea, inexistindo majorantes ou minorantes, fica a pena redimensionada para 2 anos de reclusão e 10dias-multa.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço deste habeas corpus, mas concedoa ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, a fim de reconhecer o direito do paciente à compensação da agravante da reincidência com a atenuante da confissão espontânea, redimensionando a reprimenda para 2anos de reclusão e 10 dias-multa, mantidos os demais termos do acórdão impugnado.Recomendo às instâncias ordinárias que observem o entendimento firmado pelo STJ de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para que adotem as providências necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
