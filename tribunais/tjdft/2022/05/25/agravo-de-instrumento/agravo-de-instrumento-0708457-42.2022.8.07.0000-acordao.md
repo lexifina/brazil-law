@@ -1,0 +1,131 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0708457-42.2022.8.07.0000AGRAVANTE(S)MARIA LUCILENE FERRAZ MARQUESAGRAVADO(S)DISTRITO FEDERALRelatoraDesembargadora CARMEN BITTENCOURT Acórdão Nº1426178
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA FINANCEIRA CONFIGURADA. DEFERIMENTO DO BENEFÍCIO. DEVOLUÇÃO DE VALORES DESCONTADOS A MAIOR A TÍTULO DE CONTRIBUIÇÃO PREVIDENCIÁRIA COM BASE NA LEI Nº 8.162/1991. LIMITAÇÃO DO DIREITO À RESTITUIÇÃO À DATA DA ENTRADA EM VIGOR DA LEI Nº 8.68819/93 E DA MEDIDA PROVISÓRIA Nº 560/1994. AFRONTA À COISA JULGADA. INOCORRÊNCIA. CORREÇÃO MONETÁRIA E JUROS DE MORA. APLICAÇÃO DA TAXA SELIC A PARTIR DA ENTRADA EM VIGOR DA LEI COMPLEMENTAR DISTRITAL Nº 943/2018. EXCESSO DE EXECUÇÃO CONFIGURADO. MANUTENÇÃO DA DECISÃO VERGASTADA.
+
+1. De acordo com o caput do artigo 98 do Código de Processo Civil, A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
+
+1.1. Observado que os elementos de prova carreados aos autos evidenciam que a parte agravante não reúne condições financeiras para arcar com o pagamento das custas e despesas do processo, sem o comprometimento de sua própria subsistência ou de sua família, deve lhe ser assegurado o benefício da gratuidade de justiça.
+
+2. Após a entrada em vigor da Lei nº 8.162/1991, foram editadas a Lei nº. 8.688/1993 e a Medida Provisória nº 540/1994 e suas sucessivas reedições, que alteraram a alíquota de contribuição previdenciária, observada a anterioridade nonagesimal.
+
+2.1 Reconhecida a constitucionalidade e a autoaplicabilidade da Lei nº. 8.688/1993 e da Medida Provisória nº 540/1994 pelo colendo Supremo Tribunal Federal, por ocasião do julgamento do Recurso Extraordinário nº. 372.462, a devolução de valores descontados a maior, a título de contribuição previdenciária, deve ficar limitada ao período de vigência do artigo 9º da Lei nº 8.162/1991 (de janeiro de 1992 a outubro de 1993).
+
+2.2. A limitação do direito ao ressarcimento dos valores descontados a título de contribuições previdenciária ao período de vigência do artigo 9º da Lei nº 8.162/1991 não representa afronta à coisa julgada.
+
+3. Em se tratando de demanda que tem por objeto a repetição de indébito tributário (contribuição previdenciária), deve ser aplicada a SELIC a título de juros de mora e de correção monetária, a partir da entrada em vigor da Lei Complementar Distrital n.º 943/2018, consoante entendimento consolidado pelo colendo Superior Tribunal de Justiça (Tema 905).
+
+4. Configurado o excesso de execução, mostra-se correto o acolhimento parcial da impugnação ao cumprimento de sentença, para o fim de decotar o montante exigido a maior.
+
+5. Agravo de Instrumento conhecido e parcialmente provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARMEN BITTENCOURT - Relatora, TEÓFILO CAETANO - 1º Vogal e SIMONE LUCINDO - 2º Vogal, sob a Presidência da Senhora Desembargadora SIMONE LUCINDO, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PARCIAL PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 01 de Junho de 2022
+
+Desembargadora CARMEN BITTENCOURTRelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto por MARIA LUCILENE FERRAZ MARQUES contra decisão exarada pela MMª. Juíza de Direito da 8ª Vara da Fazenda Pública do Distrito Federal, nos autos do cumprimento individual de sentença coletiva nº 0700382-57.2022.8.07.0018, promovido pela agravante em desfavor do DISTRITO FEDERAL.
+
+Nos termos da r. decisão recorrida (ID 116713723 do processo originário), a d. Magistrada de primeiro grau rejeitou a prejudicial de prescrição e acolheu parcialmente a impugnação ofertada pelo agravado, para reconhecer o excesso de execução.
+
+Na mesma oportunidade, a agravante foi condenada ao pagamento de honorários de sucumbência no patamar de 10% (dez por cento) do excesso reconhecido.
+
+No agravo de instrumento interposto, a exequente sustenta não estar configurado o excesso de execução alegado pelo executado, uma vez que, na fase de conhecimento, teria sido afastada qualquer limitação temporal para fins de ressarcimento do montante cobrado indevidamente a título de contribuição previdenciária. Aduz, ainda, que o entendimento firmado pelo d. Magistrado de primeiro grau representa afronta à coisa julgada.
+
+Ao final, a agravante postula a concessão da gratuidade de justiça e a reforma da r. decisão recorrida, para que seja integralmente rejeitada a impugnação ao cumprimento de sentença ofertada pelo DISTRITO FEDERAL.
+
+Sem preparo, em virtude do requerimento de concessão da gratuidade de justiça.
+
+Consoante a r. decisão exarada sob o ID 33714654, esta Relatoria concedeu a gratuidade de justiça à agravante e determinou a intimação do agravado para ofertar contrarrazões.
+
+Em contrarrazões de ID 34250524, o DISTRITO Federal reiterou os argumentos vertidos na impugnação ao cumprimento de sentença acerca do excesso de execução. Pugnou, ao final, pela manutenção da decisão vergastada.
+
+Encontra-se registrada, para fins de prevenção, a informação da existência de outro agravo de instrumento associado (proc. n. 0706836-10.2022.8.07.0000). O referido agravo de instrumento foi também distribuído a esta Relatoria e tem por objeto a mesma decisão, de modo que tais recursos deverão ser julgados conjuntamente.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora CARMEN BITTENCOURT - Relatora
+
+Conheço do recurso, porquanto configurados os pressupostos intrínsecos e extrínsecos da admissibilidade.
+
+Consoante relatado, MARIA LUCILENE FERRAZ MARQUES interpôs agravo de instrumento contra decisão exarada no ID 116713723 do cumprimento individual de sentença coletiva nº 0700382-57.2022.8.07.0018, promovido pela agravante em desfavor do DISTRITO FEDERAL, pela qual a d. Magistrada de primeiro grau acolheu parcialmente a impugnação ao cumprimento de sentença deduzida pelo Distrito Federal, reconhecendo o excesso de execução.
+
+A controvérsia a ser dirimida reside, inicialmente, em verificar se a agravante faz jus à gratuidade de justiça e, quanto ao mérito propriamente dito, se estaria configurado o excesso de execução alegado pelo executado.
+
+Quanto à gratuidade de justiça, esta Relatoria, nos termos da r. decisão exarada no ID 33714654, considerou estar configurada a hipossuficiência financeira alegada pela agravante, consoante os fundamentos a seguir transcritos:
+
+De acordo com o artigo 98, caput, do Código de Processo Civil, “A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios, tem direito à gratuidade da justiça, na forma da lei”.
+
+De início, é preciso assinalar que, a despeito de haver requerido a concessão da gratuidade de justiça no primeiro grau de jurisdição, tal pleito não foi expressamente examinado.
+
+No entanto, ao acolher parcialmente a impugnação ofertada pelo DISTRITO FEDERAL, a d. Magistrada de primeiro grau condenou a exequente ao pagamento dos honorários advocatícios, sem qualquer ressalva.
+
+A análise dos autos do processo originário conduz à conclusão de que se encontram configurados os pressupostos para a concessão da gratuidade de justiça vindicada pela agravante.
+
+A agravante comprovou, no ID 113727556 do processo originário, auferir renda salarial mensal no importe de R$ 4.872,53 (quatro mil, oitocentos e setenta e dois reais e cinquenta e três centavos).
+
+A título de ilustração, insta destacar que, no âmbito da Defensoria Pública do Distrito Federal, é exigida, para fins de assistência judiciária, a comprovação de renda inferior a 5 (cinco) salários-mínimos.
+
+Ademais a agravante encontra-se com 69 (sessenta e nove) anos de idade, presumindo-se a necessidade de realização de maiores gastos com tratamentos de saúde.
+
+Dessa forma, DEFIRO o benefício da gratuidade de justiça em favor da agravante, ficando, por conseguinte, dispensada do recolhimento do preparo.
+
+De fato, a agravante demonstrou não reunir condições financeiras para arcar com o pagamento das custas e despesas do processo, sem o comprometimento de sua própria subsistência e de seus familiares, circunstância que torna impositivo o deferimento da gratuidade de justiça, na forma prevista no artigo 98, caput, do Código de Processo Civil.
+
+Assim, quanto a este aspecto, merece prosperar a pretensão recursal.
+
+No entanto, em relação à tese de inexistência de excesso de execução, a agravante encontra-se desassistida de razão.
+
+A demanda originária tem por objeto o cumprimento de sentença coletiva exarada nos autos do processo nº 15.106/93 (PJe nº 0000805-28.1993.8.07.0001), proposta pelo SINDSAÚDE. De acordo com a referida sentença, a extinta Fundação Hospitalar do Distrito Federal foi condenada a restituir valores descontados indevidamente da remuneração dos servidores substituídos a título de contribuição previdenciária, dentre os quais a ora agravada, em patamar superior a 6% (seis por cento) da remuneração mensal, tendo em vista que o colendo Supremo Tribunal Federal havia declarado a inconstitucionalidade do artigo 9º da Lei nº 8.162/1991, com efeitos ex tunc.
+
+Os servidores públicos do Distrito Federal contribuíam para previdência social no patamar de 6% (seis por cento) da remuneração mensal, até o advento da Lei n. 8.162/1991, que regulamentou o artigo 231 da Lei n. 8.112/1990, majorando a alíquota para 12% (doze por cento) da remuneração mensal.
+
+O DISTRITO FEDERAL, na impugnação ao cumprimento de sentença, sustentou que restara caracterizado excesso de execução, uma vez que, no título judicial exequendo, não fora garantido aos servidores substituídos a manutenção da alíquota de contribuição previdenciária no patamar de 6% (seis por cento) por período indefinido. Aduz que os cálculos para fins de cumprimento do título judicial devem ficar limitados ao período de janeiro de 1992 a outubro de 1993, em decorrência da edição da Lei n. 8.688/1993 e da Medida Provisória n. 560/1994.
+
+De fato, após a entrada em vigor da Lei nº 8.162/1991, foram editadas a Lei nº. 8.688/1993 e a Medida Provisória nº 540/1994 e suas sucessivas reedições, que alteraram a alíquota de contribuição previdenciária, observada a anterioridade nonagesimal. A constitucionalidade e autoaplicabilidade de tais normas foram reconhecidas pelo colendo Supremo Tribunal Federal por ocasião do julgamento do Recurso Extraordinário nº. 372.462.
+
+Dessa forma, assiste razão ao DISTRITO FEDERAL, ao afirmar que o ressarcimento previsto na sentença objeto de cumprimento deve se limitar ao período de vigência dos efeitos da Lei nº. 8.162/1991.
+
+A corroborar este entendimento, trago à colação julgados deste egrégio Tribunal de Justiça em casos análogos:
+
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL. DIREITO ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO. PREJUDICIAL. PRAZO PRESCRICIONAL. QUINQUENAL. CUMPRIMENTO DE SENTENÇA COLETIVO INICIADO PELO SINDICATO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. OCORRÊNCIA. PRESCRIÇÃO AFASTADA. MÉRITO. EXCESSO DE EXECUÇÃO. RECONHECIDO. HONORÁRIOS. FIXADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO REFORMADA. 1. O prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/90. Precedentes. STJ. 2. O ajuizamento de execução coletiva pelo Sindicato, na qualidade de substituto processual, interrompe o prazo para o início cumprimento individual de sentença coletiva, qual recomeça a correr pela metade a partir do último ato processual da causa interruptiva. 2.1. No caso dos autos, conforme andamento processual, considerando que essa execução coletiva ainda perdura, tem-se por interrompido o prazo para o manejo do cumprimento individual da sentença coletiva, não havendo que se falar em prescrição. 3. A Corte Suprema reconheceu a constitucionalidade e autoaplicabilidade, no âmbito do Distrito Federal, da Lei nº 8.688/93 e da Medida Provisória nº 560/94, que impuseram novo aumento das alíquotas de contribuição previdenciária de acordo com as faixas salariais, desde que observada a anterioridade nonagesimal (RE 372.462/DF). 4. No caso, a ação coletiva reconheceu o direito dos servidores da Secretaria de Estado de Saúde do DF à restituição de valores descontados indevidamente a título de contribuição previdenciária em razão da declaração de inconstitucionalidade. 4.1. Considerando que eventuais modificações posteriores da alíquota devem ser observadas, conclui-se pela incorreção dos cálculos que incluíram valores descontados após a vigência da Lei n. 8.688/93, de modo que deve ser o excesso decotado. 5. Conforme a tese firmada pelo Superior Tribunal de Justiça, no Recurso Especial 1.134.186/RS, julgado na sistemática dos repetitivos, em caso de acolhimento de impugnação, ainda que parcial, necessário fixar honorários em favor de devedor. Honorários fixados. 5. Recurso conhecido e provido em parte. Decisão reformada. (Acórdão 1364968, 07164438120218070000, Relator: ROMULO DE ARAUJO MENDES, 1ª Turma Cível, data de julgamento: 18/8/2021, publicado no DJE: 31/8/2021. Pág.:  Sem Página Cadastrada) – grifo nosso.
+
+AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SINDSAUDE. RESTITUIÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. LIMITAÇÃO TEMPORAL. LEI N. 8.688/93 E MP N. 560/94. APLICAÇÃO NO ÂMBITO DISTRITAL. POSSIBILIDADE. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. EXCESSO DE EXECUÇÃO. COMPROVAÇÃO. OFENSA À COISA JULGADA. NÃO CONFIGURADA. DECISÃO MANTIDA. 1. O excelso Supremo Tribunal Federal, no AgR no RE 372.462-2/DF, julgado em 21/09/2004, reconheceu como autoaplicável aos servidores distritais a majoração das alíquotas, a título de contribuição previdenciária, previstas na Lei Federal n. 8.688/93 e na Medida Provisória n. 540/94, ante a permissão concedida pela Lei Distrital n. 119/90, desde que respeitado para a cobrança o período nonagesimal (CF, art. 150, § 6º), sem que isso tenha o condão de ofender a autonomia legislativa do ente distrital. 2. O título executivo coletivo se limita a determinar a restituição de valores indevidamente descontados, a título de contribuição previdenciária, com substrato na Lei Federal n.  8.162/91, considerada inconstitucional pelo excelso Supremo Tribunal Federal (ADI n. 790). Assim, não há que se falar em ofensa à coisa julgada quando observada, para o cálculo da dívida em sede de cumprimento individual, a limitação temporal relativa à constitucionalidade da aplicação, no âmbito distrital, das alíquotas previstas na Lei Federal n. 8.688/93 e na Medida Provisória n. 540/94, devendo, pois, ser reconhecido o excesso da execução se inobservado tal período. 4. Agravo de instrumento conhecido e não provido. (Acórdão 1348353, 07079407120218070000, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 16/6/2021, publicado no DJE: 29/6/2021. Pág.:  Sem Página Cadastrada) – grifo nosso.
+
+DIREITO PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PRECLUSÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. SINDSAÚDE. DEVOLUÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRESCRIÇÃO. INOCORRÊNCIA. INÉPCIA DA PETIÇÃO INICIAL. AUSÊNCIA DE FICHAS FINANCEIRAS E MEMÓRIA DE CÁLCULO. PRELIMINAR REJEITADA. LIMITAÇÃO TEMPORAL. LEI Nº 8.688/93 E MP Nº 560/94. CORREÇÃO MONETÁRIA E JUROS DE MORA. CONTAGEM SIMPLES. ÍNDICES APLICÁVEIS À CORREÇÃO DE TRIBUTOS DISTRITAIS. RE 870.947 E REsp 1.492.221/PR. 1. Indeferida a gratuidade de justiça e não interposto agravo de instrumento, e não se tratando de modificação da situação fática, descabe reiterar o pedido em sede de apelação, ante a preclusão. Ademais, o recolhimento das custas iniciais e do preparo são incompatíveis com a alegação de miserabilidade. 2. Interrompida a prescrição em virtude do ajuizamento de execução coletiva da sentença proferida em ação movida pelo sindicato, esta somente volta a correr do último ato do processo. A desistência da execução coletiva seguida de ajuizamento de cumprimento individual do julgado não prejudicam o titular do direito, por não estar caracterizada sua inércia. 3. Reformada a sentença quanto à questão prejudicial, é mister o julgamento das demais questões arguidas na impugnação, consoante o art. 1.013, § 4º, do CPC. 4. A ausência de juntada das fichas financeiras não caracteriza inépcia da petição inicial por ausência de juntada de documentos essenciais, se a parte disponibilizou a memória de cálculo individualizada e aquelas fichas são documentos do próprio ente público devedor, o qual inclusive apresentou seus próprios cálculos detalhados sobre o alegado excesso de execução. Preliminar rejeitada. 5. Tratando-se de relação de trato sucessivo, a sentença coletiva que determinou a devolução de contribuições previdenciárias descontadas a maior com base no art. 9º, da Lei nº 8.162/91, somente produz efeitos até a edição de norma jurídica posterior que modifique o fundo do direito. Assim, há de ser decotado o período relativo à vigência temporária da Lei 8.688/93, bem como aquele posterior à produção dos efeitos da MP 560/94, respeitada a anterioridade nonagesimal, disposições estas que são aplicáveis aos servidores distritais, consoante entendimento do colendo Supremo Tribunal Federal. 6. Os juros de mora devem ser contados na forma simples. 7. A partir da vigência da Lei nº 11.960/09, a correção monetária e os juros de mora, em repetição de indébito tributário, devem observar os mesmos índices aplicáveis à atualização dos tributos distritais, consoante definido no RE 870.947 e no REsp 1.492.221/PR. 8. Apelo provido. Prescrição afastada. Impugnação ao cumprimento de sentença parcialmente acolhida. (Acórdão 1310724, 07015800320208070018, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 10/12/2020, publicado no PJe: 28/12/2020. Pág.:  Sem Página Cadastrada) – grifo nosso
+
+Por certo, conforme assinalado, o título executivo judicial se limitou a determinar a restituição dos valores descontados a título de contribuição social em patamar superior a 6% (seis por cento) da remuneração mensal dos servidores substituídos, exatamente em virtude da inconstitucionalidade do artigo 9º da Lei nº 8.162/1991.
+
+Assim, tendo sido editadas, posteriormente, normas regulamentando o percentual da alíquota da aludida contribuição, as quais foram consideradas constitucionais pela Excelsa Corte de Justiça, a devolução de valores descontados a maior deve ficar limitada ao período de vigência do artigo 9º da Lei nº 8.162/1991, qual seja, o período de janeiro de 1992 a outubro de 1993.
+
+É preciso ressaltar que o reconhecimento da limitação temporal para fins de ressarcimento do montante cobrado a maior não representa afronta à coisa julgada, uma vez que, conforme visto, o direito reconhecido em favor dos servidores substituídos ficou restrito ao período de vigência da norma declarada inconstitucional.
+
+Observado que, no cumprimento de sentença proposto, a ora agravante postula a restituição de valores descontados até o mês de maio de 1999, forçoso concluir que se encontra configurado o excesso de execução apontado pelo DISTRITO FEDERAL e reconhecido pelo d. Magistrado prolator da r. decisão recorrida.
+
+Quanto ao critério de atualização do débito, consoante entendimento consolidado pelo colendo Superior Tribunal de Justiça sob o Tema 905, deve ser aplicada a SELIC a título de juros de mora e de correção monetária, a partir da entrada em vigor da Lei Complementar Distrital n.º 943/2018, uma vez que a demanda tem por objeto a repetição de indébito tributário (contribuição previdenciária).
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. AÇÃO COLETIVA AJUIZADA PELO SINDSAÚDE, NA QUALIDADE DE SUBSTITUTO PROCESSUAL. DEVOLUÇÃO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS DESCONTADAS DA REMUNERAÇÃO DE SERVIDORA PÚBLICA. DETERMINAÇÃO JUDICIAL PARA INDIVIDUALIZAÇÃO DO CRÉDITO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. SUSPENSÃO PROCESSUAL. DESNECESSIDADE. PREJUDICIALIDADE EXTERNA NÃO VERIFICADA. TÍTULO EXECUTIVO JUDICIAL FUNDADO NA INCONSTITUCIONALIDADE DO ART. 9º DA LEI N. 8.162/91. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE DETERMINAÇÃO EXPRESSA NA SENTENÇA EXEQUENDA A RESPEITO DA INAPLICABILIDADE DA ALÍQUOTA PREVISTA NA LEI N. 8.688/93 E NA MEDIDA PROVISÓRIA N. 560/94. INOBSERVÂNCIA AOS LIMITES DA COISA JULGADA. DECOTE DO EXCESSO DEVIDO. JUROS DE MORA FIXADOS NA SENTENÇA. CORREÇÃO MONETÁRIA. TEMA 905/STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. O caso em julgamento versa sobre cumprimento individual da sentença proferida em ação coletiva ajuizada pelo Sindicato dos Empregados em Estabelecimentos de Serviços de Saúde de Brasília, na qualidade de substituto processual de seus filiados. Na referida ação judicial, a extinta Fundação Hospitalar do Distrito Federal foi condenada a restituir os valores indevidamente descontados dos seus servidores a título de contribuição previdenciária. 2. O título executivo judicial formou-se em 13/4/1998, data do trânsito em julgado da sentença coletiva. Em 27/8/2010, após apresentação das fichas financeiras dos substituídos, o Sindicato da categoria iniciou a execução coletiva. Apesar do lapso temporal superior a 5 (cinco) anos entre a data do trânsito em julgado da sentença coletiva e o início da mencionada fase executiva, a alegação de prescrição da pretensão do Sindicato foi afastada pelo Juízo competente. 3. No caso concreto, não se verifica desídia ou inércia da exequente, ora agravada, pois, quando deflagrado o cumprimento individual, ainda não havia ocorrido o último ato processual da causa interruptiva, ou seja, a extinção da execução coletiva e o consequente trânsito em julgado. Além disso, na hipótese vertente, a distribuição aleatória e individualizada do cumprimento de sentença decorre de determinação judicial proferida em 10/5/2019. Portanto, não há prescrição na situação em análise, razão pela qual a decisão agravada, nesse aspecto, não merece reforma. 4. Não há como afirmar que exista prejudicialidade externa entre as demandas coletiva e individual a ensejar a pretendida suspensão processual, já que a questão referente ao prazo prescricional para o cumprimento coletivo da sentença já foi dirimida pelo Juízo competente, sem atribuição de efeito suspensivo aos recursos interpostos naqueles autos. Decisão mantida nesse ponto. 5. A causa de pedir da ação coletiva e o título executivo judicial nela formado têm como fundamento a inconstitucionalidade do art. 9º da Lei n. 8.162/91, conforme declarado pelo Supremo Tribunal Federal no julgamento da ADI n. 790, em 26/2/1993. 6. Após a conclusão da referida ação constitucional, foram editadas a Lei n. 8.688/1993 e a Medida Provisória n. 560/94, que dispõem sobre as alíquotas de contribuição para o Plano de Seguridade do servidor público civil dos Poderes da União, das autarquias e das fundações públicas. Conforme precedente deste egrégio Tribunal de Justiça, à luz da jurisprudência da Corte Suprema à época, a legislação federal em comento era autoaplicável no âmbito do Distrito Federal, independentemente da edição de lei local para recepcioná-la. 7. Tendo em vista que o objeto da ação coletiva era tão somente a inconstitucionalidade de dispositivo da Lei n. 8.162/91 e que o título executivo judicial não afastou a aplicabilidade, ao caso, da Lei n. 8.688/93 e da MP n. 560/94, depreende-se que a partir da entrada em vigor dos referidos diplomas legais, observada a anterioridade nonagesimal prevista no § 6º do art. 195 da Constituição Federal, aplicavam-se aos servidores públicos distritais, categoria na qual a parte exequente, ora agravante, se enquadra, a contribuição mensal calculada mediante as alíquotas neles estabelecidas. Incabível, portanto, incluir nos cálculos do crédito em execução valores recolhidos a título de contribuição social durante a vigência da legislação federal mencionada, que não foi objeto de discussão na ação coletiva. 8. Constatada a existência de excesso de execução em virtude da inobservância aos limites da sentença em cumprimento, impõe-se a apuração e o decote do excesso, observando-se que o cálculo dos valores devidos é limitado à data da entrada em vigor da Lei n. 8.688/1993 e da MP n. 560/94. Decisão reformada nesse aspecto. 9. Os juros moratórios devem corresponder ao índice fixado no título executivo judicial, ou seja, 0,5% (meio por cento) ao mês, a partir do trânsito em julgado. Por outro lado, o parâmetro para correção monetária não foi estabelecido na sentença coletiva, razão pela qual deve-se seguir as teses fixadas pelo STJ no REsp n. 1.495.146/MG (Tema 905) a respeito dos índices aplicáveis às condenações judiciais de natureza tributária. Utiliza-se o INPC até a entrada em vigor da Lei Complementar n. 943/2018, que alterou a LC n. 435/2001. Após, o crédito deve ser corrigido conforme a Taxa Selic, que não pode ser cumulada com outros índices. 10. Recurso conhecido e parcialmente provido. (Acórdão 1371832, 07189172520218070000, Relator: SANDRA REVES, 2ª Turma Cível, data de julgamento: 15/9/2021, publicado no DJE: 28/9/2021. Pág.:  Sem Página Cadastrada) – grifo nosso.
+
+Assim, quanto a este aspecto, deve ser mantida a r. decisão recorrida, ao determinar a aplicação da taxa SELIC a título de juros de mora e correção monetária, a partir de 02/06/2018, na forma prevista na Lei Complementar Distrital nº 943/2018.
+
+Com estas considerações, DOU PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO apenas para conceder à agravante os benefícios da gratuidade de justiça.
+
+É como voto.
+
+O Senhor Desembargador TEÓFILO CAETANO - 1º Vogal Com o relatorA Senhora Desembargadora SIMONE LUCINDO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PARCIAL PROVIMENTO. DECISÃO UNÂNIME
