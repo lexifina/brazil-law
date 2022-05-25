@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por HEITOR ALFREDO HUTHER contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO DE CONTRATO/INDENIZAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. EMPREITADA. EMPREITEIRO. CONTRATAÇÃO DE AJUDANTES PARA A REALIZAÇÃO DA OBRA. COMPETÊNCIA DA JUSTIÇA COMUM, E NÃO DA JUSTIÇA DO TRABALHO. DERAM PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 652,  a , III, da CLT, no que concerne à competência da Justiça do Trabalho para julgar o feito, trazendo os seguintes argumentos:
+O que se percebe, desses trechos da decisão recorrida, é que o TJRS, pela mera condição de contar com AJUDANTES para executar o serviço, entendeu tratar-se de causa sujeita à Justiça Comum Estadual, e não à Justiça do Trabalho, não obstante tenha reconhecido a participação PESSOAL do ora recorrente na execução dos trabalhos.
+Contudo, ao assim decidir, violou o artigo 652, "a", III, da CLT, o que motiva a excepcional reforma do decisum, na estreita via do Recurso Especial.
+O inconformismo diz respeito ao fato de que, havendo cláusula contratual expressa prevendo a execução PESSOAL dos trabalhos pelo ora recorrente, em caráter de EXCLUSIVIDADE, para PEQUENA EMPREITADA (reforma de uma residência), a competência material é a Justiça do Trabalho, na forma do artigo 652, "a", III, da CLT, e não da Justiça Comum, como decidiu a decisão recorrida.
+ ..
+Veja ser incontroverso que se tratou de:
+-contrato de empreitada, firmado entre pessoas naturais;
+-contrato que previa exclusividade do empreiteiro, que era inclusive proibido de contratar mesmos serviços com terceiros durante a obra com a recorrida;
+-reforma de uma residência, em que o empreiteiro atuou PESSOALMENTE na execução dos trabalhos, ainda que com ajudantes.
+ ..
+Contudo, ao contrário do que entendeu o acórdão recorrido, a presença de ajudantes, por si só, não afasta a competência da Justiça do Trabalho.
+Isso porque a empreitada, mesmo que não configure vínculo de emprego, quando envolva a prestação PESSOAL de serviços pelo empreiteiro, na condição de OPERÁRIO ou ARTÍFICE, deve ser julgada pela JUSTIÇA DO TRABALHO.
+Apenas as lides das empresas empreiteiras é que são resolvidas pela Justiça Comum, o que, contudo, não é o caso dos autos.
+ ..
+Veja que a CLT é clara no sentido de estabelecer que a competência é da Justiça do Trabalho para os contratos de empreitada em que o empreiteiro seja OPERÁRIO ou ARTÍFICE, excluindo-se desse conceito as grandes construtoras ou os profissionais que executem as obras apenas por funcionários, e não pessoalmente.
+O fato de o empreiteiro contratar ajudantes não desqualifica sua condição de operário ou artífice, que decorre de sua participação pessoal nas obras, o que manifestamente era o caso dos autos.
+Também é preciso dizer que, com a Emenda Constitucional 45, a competência da Justiça do Trabalho foi ampliada, passando a julgar relações de trabalho, não apenas de emprego. Assim, mesmo que não seja funcionário da recorrida, isso não remove a competência da Justiça Especial para processar e julgar a ação.
+Entendemos, ademais, que o juízo comum, mais precisamente o Tribunal de Justiça do RS, não teria sequer competência para declarar se, para os efeitos legais, o empreiteiro enquadrava-se como operário ou artífice, questão que deveria ter sido dirimida pela Justiça do Trabalho, já que especializada, a qual, divergindo, poderia suscitar o conflito de competência, na forma da lei.
+Mas, de qualquer maneira, está cabalmente reconhecido no caso presente que o recorrente, réu da ação originária, enquadra-se como OPERÁRIO ou ARTÍFICE, pois, como reconhecido na sentença, ele trabalhou PESSOALMENTE na obra, inclusive com EXCLUSIVIDADE, executando os trabalhos, mesmo que com ajudantes.
+Da forma em que restou decidido no caso presente, afastando a competência da Justiça do Trabalho apenas pela contratação de ajudantes na obra, NENHUMA ação decorrente de contrato de EMPREITADA seria processada pela Justiça.
+Especializada, pois menor que seja o trabalho sempre há, no mínimo, um pedreiro e um servente, fato que é de conhecimento público e notório.
+Ademais, o artigo 652, "a", III, da CLT, quando fixa a competência em razão da matéria, não a exclui em caso de trabalho com a contratação de ajudantes; apenas exige que o empreiteiro seja OPERÁRIO ou ARTÍFICE.
+Portanto, o acórdão do TJ-RS claramente violou o disposto no art. 652, "a", inciso III, da CLT, criando regras de exceção (como é o caso da existência de ajudantes) e deslocando a competência em razão da matéria para juízo que, na forma da lei, apenas julgaria lides de grandes construtoras, o que claramente não é o caso.
+Vide que a norma legal exige apenas que o empreiteiro seja operário ou artífice, sem exigir que preste, sozinho, os trabalhos; também não faz qualquer exceção ao fato de possuir, ou não, ajudantes, com fins de fixação de competência material.
+Mas a decisão recorrida, contrariando o texto legal, reconhece a prestação pessoal dos serviços, como operário, mas deixa de aplicar o artigo 652, "a", III, apenas sob o fundamento de que o empreiteiro, possuindo ajudantes, torna-se empregador, o que é um verdadeiro contrassenso (fls. 109/111).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em tela, embora o contrato de empreitada tenha sido ajustado entre pessoas físicas (evento 1/ outros 3/ fls. 14-17/ autos de origem), observa-se, nas conversas telefônicas transcritas na contestação (evento 1/ contestação 8), que o ora agravado não atuou sozinho, contratando ajudantes para a realização dos serviços, possibilidade esta, vale dizer, inclusive prevista no contrato (cláusula terceira, parágrafo quarto). E nem poderia ser diferente, já que a reforma da residência da parte autora foi expressiva (evento 1/ outros 3).
+Nesse contexto, há que se afastar a pessoalidade da relação estabelecida entre as partes, motivo pelo qual a competência para processar e julgar o feito é da Justiça Comum Estadual (fls. 68/69).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
