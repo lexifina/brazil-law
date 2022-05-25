@@ -1,0 +1,7 @@
+DECISÃO
+MARCO ROBERTO DE MORAIS requer a reconsideração da decisão de fls. 35-38, que concedeu in limine a ordem apenas para afastar a incidência da agravante prevista no art. 61, II, "j", do CP e, com isso, reduzir a pena imposta para o total de 4 meses e 15 dias de detenção, mantidos os demais termos do acórdão impugnado.
+Em suas razões, afirma a defesa que a fixação do regime semiaberto é desarrazoável e não serviria para sua ressocialização do requerente, de modo que "se impõe é a alteração para o regime aberto ou até mesmo substituição por restritiva de direitos ou serviço de prestação de serviços à comunidade" (fl. 42).
+Entretanto, não verifico motivos para modificar a decisão impugnada. Conforme ficou consignado, a exclusão da agravante da calamidade pública, embora haja reduzido a pena, não importou em modificação do regime de cumprimento da reprimenda, que "se lastreou não só na reincidência do paciente, mas também nas circunstâncias específicas dos crimes, os quais foram praticados no âmbito das relações domésticas" (fl. 37, destaquei).
+Aliás, tais especificidades justificam a imposição de regime mais gravoso, na linha da sólida orientação desta, consubstanciada na Súmula n. 269 do STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+À vista do exposto, indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
