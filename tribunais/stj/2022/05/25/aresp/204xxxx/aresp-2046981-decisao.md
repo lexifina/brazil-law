@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravos em recurso especial interpostos por COMPANHIA DE CONCESSÃO RODOVIÁRIA JUIZ DE FORA-RIO (CONCER) e ESSATI ENGENHARIA LTDA.Ambos osapelos extremos, fundamentados no art. 105, III, "a", da Constituição Federal, insurgem-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EMBARGADA. EMBARGOS ACOLHIDOS. JUNTADA DE CÓPIA DA SENTENÇA NA AÇÃO EXECUTIVA. APELAÇÃO.
+1. Na situação concreta, a dinâmica dos pactos escritos firmados pelos litigantes autoriza reconhecer que o único pressuposto para a concretização dos pagamentos é que ao final de cada etapa dos serviços a contratada emita boletins de medição na forma pactuada e os encaminhe à executada para aceitação, com ou sem ressalvas no prazo fixado em contrato e devidamente acompanhada da(s) respectiva(s) nota(s) fiscal(is) e que seja adotado um dos meios de comunicação ajustados.
+2. Levando em consideração que os referidos documentos foram recebidos pela executada sem quaisquer ressalvas, não há que se falar em ausência de aceite que serviu de fundamento para afirmar a ausência de liquidez e exigibilidade dos títulos na forma consignada pelo juízo primevo. Eventual manutenção do julgado recorrido importaria em permitir que a executada adote comportamento contraditório (venire contra factum proprium), o que não merece prosperar, considerando a necessidade de proteção da boa-fé objetiva e da segurança jurídica que deve orientar a condução das partes nos contratos.
+3. Entendo que se deve aqui prestigiar o princípio a confiança e lealdade das relações jurídicas para afastar violação da legítima expectativa criada justamente por conta de atitudes que foram tomadas ao longo da relação jurídica e quanto ao mais, adoto como fundamento para decidir, o parecer ministerial de fls. 825/828.
+RECURSO CONHECIDO E PROVIDO PARA DETERMINAR O PROSSEGUIMENTO DA AÇÃO DE EXECUÇÃO. INVERSÃO E MAJORAÇÃO DA VERBA HONORÁRIA ADVOCATÍCIA PARA O EQUIVALENTE 3% SOBRE O VALOR ATRIBUÍDO À CAUSA, TENDO EM VISTA O DISPOSTO NO ART. 85, §11, DO CÓDIGO DE PROCESSO CIVIL" (e-STJ fl. 849).
+Os embargos de declaração opostos na origem por ESSATI ENGENHARIA LTDA. foram rejeitados.
+No primeiro recurso (e-STJ fls. 920-926),ESSATIaponta violação dos arts. 85, § 11, e 827, caput e § 2º, do Código de Processo Civil de 2015, ao argumento de que os honorários advocatícios foram fixados abaixo do limite mínimo de 10% (dez por cento).
+No segundo recurso (e-STJ fls. 940-955),CONCERafirma que a inversão e a majoração da verba honorária contraria oart. 85 do Código de Processo Civil de 2015, haja vista que a exequente (ESSATI) já acresceu ao valor da dívida a quantia correspondente a 10% (dez por cento) a título de honorários de sucumbência.
+Apresentadas as contrarrazões somente por ESSATI (e-STJ fls. 1.003-1.012), os recursos foram inadmitidos na origem, resultando daí os presentes agravos, nos quaisse busca o processamento dos apelos nobres.
+Nos autos da PET nº 14.429/RJ, foi deferido o pedido de atribuição de efeito suspensivo aos recursos especiais interpostos nos autos da execução (processo nº 0023968-98.2017.8.19.0021) e dos respectivos embargos (processo nº 0062432-94.2017.8.19.0021), de modo a suspender a efetivação de atos constritivos nos autos do Cumprimento Provisório de Sentença nº 0003377-76.2021.8.19.0021, em trâmite na Terceira Vara Cível da Comarca de Duque de Caxias/RJ.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+As irresignações não merecem prosperar, tendo em vista a superveniente perda de objeto.
+Trata-se, na origem, deexecução de título extrajudicial promovida por ESSATI ENGENHARIA LTDA. contra COMPANHIA DE CONCESSÃO RODOVIÁRIA JUIZ DE FORA-RIO (CONCER),fundada em notas fiscais vencidas e supostamente não pagas, decorrentes de contratos de prestação de serviços.
+Nos autos dos respectivosembargos, que deramorigem ao AREsp nº 2.040.442/RJ, decidido nessa mesma oportunidade, foideterminada a devolução dofeitoao Tribunal de origem para a realização de novo julgamento dos embargos de declaração opostos por CONCER.
+A questão relativa à verba honorária fixada na execução, portanto, está prejudicada, até que a matéria aventada nos autos do AREsp nº 2.040.442/RJ seja reapreciada pela Corte de origem.
+Ante o exposto, julgo prejudicados os agravos em recurso especial, por perda de objeto, ficando igualmente prejudicada, pelo mesmo motivo,a questãorelativa aoshonorários recursais (art. 85, § 11, do CPC/2015).
+Publique-se.
+Intimem-se.
