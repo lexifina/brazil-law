@@ -1,0 +1,52 @@
+DECISÃO
+PAULO ROBERTO RICARDO JÚNIOR,vulgo"Keno", alega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado do Tocantins (HC n. 0015444-65.2021.8.27.2700).
+Nesta Corte, sustenta a defesa, em síntese, a falta de fundamentação idônea no decreto de prisão processual do réu, pela suposta prática de extorsão e associação criminosa, e o tempo prolongado para a restrição máxima, que remonta ao dia 25/6/2020.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Indeferida a liminar (fls. 87-88) e prestadas as informações (fls. 91-92), opinou o Parquet Federal pela denegação da ordem (fls. 99-107).
+Decido.
+Expõem os autos que, em25/6/2020, o Magistrado de primeiro grau decretou a custódia provisória do paciente- que, à ocasião, estava presopor força de outras demandas, que lhe imputaramdelitos graves, como extorsão, furto, roubo e organização criminosa -, sob estes motivos (fls. 17-21, grifei):
+ ..  elementos indicam que o terminal telefônico nº  ..  esteja sendo utilizado por Paulo, de dentro da Penitenciária Estadual de Bento Gonçalves, para cometimento de crime de extorsão. Verificou-se que Paulo é que faz o contato verbal e via aplicativo de mensagens de whatsapp, exigindo o pagamento de vantagens, sob pena de ter as imagens e vídeos da vítima divulgados. Ainda, orienta sua irmã Vanessa a recepcionar dinheiro oriundo de crimes e receber dinheiro entregue por motoristas de aplicativo, a indicar contas bancárias para receber e até mesmo sacar o dinheiro. Por fim, Paulo e sua irmã Vanessa foram indiciados pelo cometimento do crime de extorsão em modalidade semelhante ao investigado. Destacou-se o caso da vítima de nome Márcio, o qual recebeu ligação do número  .. , a história narrada pelo criminoso para extorquir a vítima foi a mesma apresentada à vítima do Tocantins.
+No que tange ao periculum libertatis, vejo que está clarividente a garantia da ordem pública e da conveniência da instrução criminal,  ..  demonstrando  o réu  possuir uma índole extremamente tendenciosa ao cometimento de crime, somando-se ao fato da extrema gravidade dos atos criminosos cometidos.
+Destaco que o indiciado encontra-se preso em Bento Gonçalves/RS, fazendo possível uso de aparelho celular de dentro da penitenciária, além do histórico criminal em crime da mesma natureza, demonstrando sua periculosidade.
+ ..
+Isto posto, em consonância com parecer ministerial, DECRETO a PRISÃO PREVENTIVA de PAULO ROBERTO RICARDO JÚNIOR, com fulcro nos arts. 311, 312, e 313, inciso I, todos do Código de Processo Penal  .. .
+Em 15/2/2022, o Tribunal a quo denegou o mandamus lá aportado.
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que, no dia 26/4/2022, a serventia certificou nos autos que o interrogatório do acusado foi colhido por meio de carta precatória.
+Feitos esses registros, passo ao exame das pretensões da defesa.
+A despeito de a impetrante pleitear a superação do enunciado n. 691 da Súmula do STF e alegar a ausência dos requisitos previstos na Lei n. 7.960/1989 e de fundamentação idônea na ordem de prisão temporária do réu, sublinho que, em verdade,o Juízo da Comarca de Novo Acordo impôs ao ora paciente a segregação preventiva e a 2ª Câmara Criminal do Tribunal de Tocantins julgou, em definitivo, a impetração originária.
+Saliento, ainda, que o writ não foiinstruídocom cópia da certidão de antecedentes criminais do acusado, para a constatação da sua pretensa primariedade.
+Exibem os elementos dos autos justificativas idôneas para preservar, ao menos por ora, o cárcere cautelar do paciente.
+Em casos "que envolvem organizações voltadas à reiterada prática de delitos", a jurisprudência desta Corte de Justiça "tem mantido a custódia preventiva dos investigados mesmo quando não há indicação detalhada da atividade por eles desempenhada em tal associação, mas apenas menção à existência de sinais de que integram o grupo criminoso" (AgRg no RHC n. 134.120/SC, da minha relatoria, DJe 15/12/2020, destaquei).
+Na espécie, o vínculo do réu com facção criminosa e a identificação precisae relevante das funções que ocupa na organização investigada demonstram a sua periculosidade, a tornar manifesta a probabilidade de persistência no cometimento de delitos. A propósito, as peças dos autos indicam a exigência aos ofendidos, pelo próprio paciente, do pagamento de vantagens, sob coação ilícita.
+Nos termos da orientação deste Superior Tribunal, a gravidade concreta das condutas atribuídas ao acusado, diante do modus operandi adotado, é suficiente para motivar a sua prisão provisória. Além disso, evidenciou-se o riscoefetivo de reiteração delitiva,sobretudo em razão de os crimes haverem sido praticados, pelo paciente, no interior de estabelecimento prisional, enquanto segregado pela prática de infrações semelhantes.
+Nesse sentido:
+ ..  2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que "a narrativa encontra respaldo também no depoimento de diversas testemunhas, tanto no que diz respeito à relação entre vítima e acusado, quanto às ameaças proferidas entre as partes e à eventual motivação do crime", bem como o fato de se tratar "de investigado membro da Polícia Civil, havendo claros indícios de tentativa de obstrução da investigação com ocultação de cadáver, interpelação de testemunhas, utilização de aparelho celular clandestino de dentro do presídio".
+3. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+ ..
+(AgRg no HC n. 723.753/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 12/4/2022, grifei.)
+ ..  4. Não se registra manifesta ilegalidade, pois houve a indicação individualizada da conduta do recorrente, e consta fundamentação concreta, igualmente, quanto ao periculum libertatis, porquanto apontado que seria um dos líderes da organização criminosa, responsável pela prática de diversos crimes com o emprego de violência e por ordenar a repressão a comerciantes.
+5. Assim, tem-se por devidamente fundamentada a prisão cautelar, diante da gravidade concreta dos fatos, evidenciada no envolvimento com organização criminosa estruturada e complexa, com relevante movimentação de capital e uso de violência. Tais fatos, consoante a jurisprudência desta Corte, justificam a prisão preventiva para a garantia da ordem pública, em face da periculosidade do agente.
+6. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+ ..
+8. Agravo regimental improvido.
+(AgRg no RHC n. 157.198/RJ, Rel. MinistroOlindo Menezes, 6ª T., DJe 25/3/2022, destaquei.)
+ .. o caso apresenta gravidade concreta, tanto pela circunstância relevante de que o paciente buscava inserir as drogas e aparelho celular em estabelecimento prisional, quanto pelo seu histórico criminal, indicador de dedicação às práticas delitivas, uma vez que ostenta duas condenações por delito patrimonial, além de responder pelo crime de ameaça. Assim, a prisão mostra-se justificada pela necessidade de manutenção da ordem pública e para obstar a reiteração delitiva.
+5. Ordem não conhecida.
+(HC n. 489.482/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 16/4/2019, grifei.)
+Não é possível a realização de uma prognose em relação ao futuro regime de cumprimento de pena aplicado, em eventual condenação. Esta Corte de Justiça é firme em asseverar que a análise desfavorável de outras circunstâncias judiciais ou a menção a indicativos do risco de reiteração delitiva e da acentuada reprovabilidade da conduta criminosa são idôneos para estabelecer regime prisional mais gravoso.
+Quanto à trajetória da instrução, observo que as informações a que se tem notícia não indicam adesídia evidente dos órgãos estatais na condução do presente feito.
+Muito embora o cárcere provisório do agente beire os 2 anos, depreende-se que são 3 os denunciados, que, supostamente, compõem grupo criminoso estruturado, a vítima e as testemunhas já foram ouvidas, bem como o interrogatório dos réus, colhidos.
+Não olvido que a ata da audiência realizada no dia 7/3/2022 indica a responsabilidade estatal para grande parte do lapso temporal transcorrido desde oinício do aprisionamento cautelar do acusado (fls. 82-84).
+Nada obstante, as peculiaridades da causa, mormente a necessária expedição de deprecatas eas sanções cominadas para os delitos atribuídos ao paciente, rechaçam a suposta duração do processo por período não razoável.
+Ademais, aparentemente, foram produzidas todas as provas pelas partes e colhidos os interrogatórios dos 3 réus, o que aponta o prognóstico de breve encerramento da instrução processual.
+Dessarte, afasto, ao menos até então, a alegada desproporcionalidade do tempo de tramitação da demanda.
+Aos mesmos ditames:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS.  ..  PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. PRISÃO FUNDAMENTADA. RISCO CONCRETO DE REITERAÇÃO DELITIVA.
+ ..
+2. Com as peculiaridades do caso concreto, tais como a expedição de cartas precatórias, inclusive para interrogatório do réu, ora agravante, e o cancelamento das audiências em razão da pandemia causada pela Covid-19, que já dura mais de 2 anos, embora tenham contribuído para o elastecimento da instrução, estamos diante de crime praticado com violência e grave ameaça e de um réu que possui um histórico criminal conturbado, respondendo a algumas ações penais (cinco).
+3. É firme a jurisprudência desta Corte no sentido de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/3/2019).
+4. Agravo regimental improvido.
+(AgRg no RHC n. 151.129/CE, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/3/2022, destaquei.)
+Dessarte, não identifico evidente a coação ilegal, que dê ensejo à intervenção prematura deste Tribunal Superior.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
