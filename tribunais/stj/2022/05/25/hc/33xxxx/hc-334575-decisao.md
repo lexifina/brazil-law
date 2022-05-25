@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido de liminarimpetrado em favor de LUIZ MARCIO DOS SANTOS FELICIANO contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (Representação Criminal n. 1602581-24.2014.812.0000).
+Consta dos autos que o paciente foi denunciado por ter supostamente praticado delito tipificado no art. 1º, caput, da Lei n. 9.613/1996, em trâmite perante o Tribunal de Justiça estadual, em virtude de um dos denunciados ser prefeito de Campo Grande/MS.
+A exordial acusatória foi recebida nos termos da seguinte ementa:
+AÇÃO PENAL ORIGINÁRIA - DELITOS ATRIBUÍDOS A PREFEITO - CORRUPÇÃO PASSIVA (ART. 317 DO CÓDIGO PENAL) E LAVAGEM DE CAPITAL (ART. 1º, "CAPUT", DA LEI Nº 9.613/96). DELIBERAÇÃO ACERCA DO RECEBIMENTO DA DENÚNCIA - EXORDIAL ACUSATÓRIA QUE PREENCHE OS REQUISITOS DO ART. 41 DO CPP - NÃO CONFIGURAÇÃO DAS HIPÓTESES DE REJEIÇÃO OU ABSOLVIÇÃO SUMÁRIA. INVESTIGAÇÃO REALIZADA PELO MINISTÉRIO PÚBLICO - ART. 144, § 4o, DA CARTA MAGNA, PARÁGRAFO ÚNICO DO ART. 4o DO CPP, LEI Nº 8.623/83 E LEI COMPLEMENTAR Nº 77/93 - POSSIBILIDADE PROCEDIMENTO INVESTIGATÓRIO SUPERVISIONADO PELO TRIBUNAL DE JUSTIÇA - NULIDADE INEXISTENTE - DENÚNCIA RECEBIDA.
+I - Verificando-se que a denúncia preenche os requisitos do artigo 41 do Código de Processo Penal, e ausentes as hipóteses de rejeição previstas pelo artigo 395, bem como as causas de absolvição sumária elencadas no artigo 397, ambas do Código de Processo Penal, impõe-se o recebimento para o regular processamento da ação penal.
+II - Rejeita-se a alegação de impossibilidade de o Ministério Público realizar investigações criminais porque o artigo 144, § 4o, da Constituição Federal, não veda a investigação pelo Ministério Público, nem estabelece que os atos investigatórios sejam privativos da polícia judiciária. O Código de Processo Penal, no parágrafo único do artigo 4o, permite que outras autoridades conduzam investigações, desde que a lei autorize. A Lei n. 8.623/83 e a Lei Complementar n. 77/93 atribuem ao Ministério Público legitimidade para exercer poderes de investigação criminal.
+III - Rejeita-se alegação de nulidade do feito por falta de supervisão do Tribunal de Justiça quando tal providência foi adotada após a data em que o acusado assumiu o cargo de prefeito.
+IV - Denúncia recebida (fls. 1236/1237)
+No presente writ, a defesa sustenta nulidade do decisum que recebeu a denúncia sem a apresentação de defesa preliminar, nos termos do disposto no art. 4º da Lei n. 8.038/1990. Alega que, diante do transcurso in albis do prazo para apresentação da referida peça, deveria ter sido nomeado defensor dativo, em observância aos princípios da ampla defesa e do contraditório.
+Assevera cerceamento de defesa, por não haver intimação pessoal do paciente, por intermédio de sua curadora, para a sessão de julgamento na qual foi recebida a denúncia. O advogado apontado na publicação em diário oficial acompanhou apenas o inquérito e o incidente de sanidade mental instaurado, não tendo sido constituído para defendê-lona ação penal.
+Ressalta que a continuidade da ação penal, por meio da citação, viola o art. 149, § 2º, do Código de Processo Penal, porquanto o incidente de sanidade mental instaurado anteriormente -em razão de o acusado ter sido interditado a pedido do Ministério Público -implica em suspensão do feito.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura, se for o caso com aplicação de medidas cautelares.
+É, em síntese, o relatório.
+Àe-STJ fl. 1488, despachei intimando a defesapara que se manifestasseem 5 dias acerca do interesse no prosseguimento da análise do presente feito, sob pena de extinção, tendo em vista o tempo decorrido.
+Conforme certidão de e-STJ fl. 1490, a defesa não se manifestou.
+Assim, diante da inércia defensiva, urge a extinção do presente habeas corpus, por falta de interesse da parte impetrante.
+Tal o contexto, julgo extinto o presente habeas corpus.
+Publique-se. Intimem-se.
