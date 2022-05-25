@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ZILDA APARECIDA DE OLIVEIRA, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJ, fl. 128):
+PREVIDENCIÁRIO: TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL INSUFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. RESP REPETITIVO 1352721/SP. HONORÁRIOS ADVOCATÍCIOS.
+1. A insuficiência de prova material apta a comprovar o exercício da atividade rural no período de carência caracteriza carência de pressuposto de constituição e desenvolvimento válido do processo a ensejar a sua extinção sem exame do mérito.
+2. Honorários de advogado mantidos a cargo da autora, que deu causa à extinção do processo sem resolução do mérito, observada a gratuidade da Justiça deferida nos autos.
+3. De ofício, processo extinto sem resolução de mérito. Apelação prejudicada.
+A recorrente defende, em síntese, que a documentação inicial apresentada serve para caracterizar odireito ao reconhecimento de período de labor, de modo a permitir que os depoimentos testemunhais delimitem o período de carência, ainda que com maior abrangência, pouco importando o fato de o início de prova material ser antigo, já que o art. 55, § 3º, da Lei n.8.213/1991não circunscreve o alcance temporal do início de prova material.
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 146-147).
+É o relatório.
+De início, verifica-se que o Tribunal de origem decidiu com a seguinte fundamentação:
+Para a comprovação do exercício da atividade rural, a parte autora apresentou os seguintes documentos: sua certidão de nascimento, em que seu pai é qualificado como lavrador (fls. 95) e sua carteira de trabalho contendo anotações de labor rural nos períodos de 01/06/79 a 20/03/80; de 22/05/80 a 23/09/82; de 01/08/84 a 30/07/85; de 30/07/85 a 24/12/85; de 04/02/87 a 04/05/89; de 10/08/2009 a 26/01/2010 e de 15/07/2019, sem data de saída e vínculo urbano de 01/08/96 a 31/12/97 (fls. 96/99).
+A sua certidão de nascimento não constitui início de prova material por ser muito anterior ao período em que a parte autora poderia estar apta ao exercício de atividade rural.
+Quanto à CTPS, embora seja prova dos períodos nela anotados, observo que os contratos de trabalho no período de carência são poucos e todos de curta duração.
+Dessa forma, em que pesem as declarações das testemunhas, estas, por si só, não podem comprovar a atividade rural sem registro da parte autora.
+Emerge dos autos a precariedade do conjunto probatório que não se presta a comprovar o efetivo exercício pela parte autora da atividade rural pelo período de carência exigido. (e-STJ, fl. 125).
+A parte autora sustenta que os requisitos para a caracterização do labor campesino foram cumpridos. Contudo, o órgão julgador decidiu, analisando os documentos apresentados, que estes não comprovavam início suficiente de prova material contemporâneo ao período de carência, ainda que de forma parcial,necessário para a caracterização do labor rural.
+Dessa maneira, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR.SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo concluiu que a parte agravante não comprovou o exercício da atividade rural, porquanto, ausente início de prova material, devidamente corroborado por prova testemunhal. A revisão de tal entendimento encontra óbice na Súmula 7/STJ.
+2. O tempo de serviço do segurado trabalhador rural, prestado anteriormente à data de início de vigência da Lei n.º 8.213/91, será computado independentemente do recolhimento das contribuições a ele correspondentes, exceto para efeito de carência.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.793.400/RS, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 6/6/2019, DJe de 17/6/2019).
+PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR IDADE RURAL. PROVA MATERIAL E TESTEMUNHAL. FRAGILIDADE. ALTERAÇÃO DO JULGADO. INVIABILIDADE.REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL.AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O tribunal de origem não reconheceu o labor rural, uma vez que as provas e testemunhas foram precárias, não conseguindo o segurado comprovar o regime de economia familiar. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+2. Consoante entendimento firmado por este Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, isso porque a análise da demonstração de dissídio jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+3. Agravo interno do particular a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.566.644/MG, relator Ministro MANOEL ERHARDT - DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO, PRIMEIRA TURMA, julgado em 14/6/2021, DJe de17/6/2021).
+O dissídio jurisprudencial fica prejudicado, uma vez que "a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido" (AgInt no AREsp n. 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes:
+1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva;
+2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma;
+3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento).
+Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
