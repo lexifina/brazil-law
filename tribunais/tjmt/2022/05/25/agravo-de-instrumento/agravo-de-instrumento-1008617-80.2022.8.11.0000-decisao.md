@@ -1,0 +1,25 @@
+Recurso de Agravo de Instrumento no 1008617-80.2022.8.11.0000 – Capital
+Agravante: Unimed Cuiabá – Cooperativa de Trabalho Médico
+Agravada: Vera Maria Gonçalves Coiado
+V I S T O S.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pela Unimed Cuiabá – Cooperativa de Trabalho Médico em face da r. decisão interlocutória proferida pela MMa. Juíza de Direita da 11a Vara Cível da Comarca de Cuiabá, nos autos da “ação de obrigação de fazer c/c tutela de urgência”, que lhe move Vera Maria Gonçalves Coiado, representada por seu esposo Eraldo Coiado, que deferiu a tutela provisória de urgência para determinar a agravante, no prazo de 06 (seis) horas, autorize/custeie a realização de exames e demais procedimentos necessários para o procedimento TAVI – implante percutâneo de válvula aórtica, conforme prescrição médica, sob pena de aplicação das medidas previstas no art. 297, do Código de Processo Civil.
+Aduz a agravante, em suma, que não restou correta a interpretação formada pela douta magistrada, pois estão ausentes os requisitos autorizadores da concessão da tutela de urgência, uma vez que não tem obrigação legal ou contratual de arcar com o custo de tratamento não previsto no rol da Agência Nacional de Saúde, como é o caso da Válvula aórtica através de TAVI (implante percutâneo de válvula aórtica), mormente pelo fato de inexistirem estudos baseados em medicina que demonstrem sua eficácia e superioridade em relação ao tratamento pelo método convencional. Segue afirmando que estão ausentes o perigo de dano ou risco de resultado útil ao processo, tendo em vista que o médico não utiliza termos técnicos de urgência ou emergência para caracterizar o tratamento prescrito, restando evidente que o quadro clínico da agravada não se enquadra nos hipóteses do art. 35-C, da Lei n. 9.656/98.
+Alega também a ausência da probabilidade do direito, diante da não cobertura de tratamento fora das diretrizes de utilização da ANS. Aduz que a própria Agência Nacional de Saúde concluiu pela não inclusão do tratamento de válvula aórtica através de TAVI (implante percutâneo de válvula aórtica) no rol de procedimentos obrigatórios a serem oferecidos pelos planos de saúde, por considerar que as técnicas convencionais são viáveis ao tratamento.
+Afirma que as cláusulas do contrato estão vigentes entre as partes e devem ser reconhecidas, observando-se os princípios que norteiam as questões contratuais nos artigos 421 e 422 do Código Civil, inclusive com recente reforma para terminar a intervenção mínima do Estado. Firme no seu propósito, justifica que a não concessão da tutela antecipada recursal causará danos de impossível reparação, haja vista que a decisão atacada onera os custos da Agravante, trazendo o desequilíbrio econômico da sua operação. Requer a concessão de tutela antecipada recursal.
+É o relatório.
+Decido.
+Ab initio, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação retro mencionada, verifica-se que o Código de Processo Civil prevê taxativamente as hipóteses de cabimento do recurso de agravo de instrumento, de modo que este se enquadra no inciso I, do art. 1.015, do CPC.
+Dito isso, para a concessão da antecipação da tutela recursal ou do efeito suspensivo, previstos no art. 1.019, inc. I do CPC, faz-se necessária a presença dos requisitos constantes do art. 300 e 995, parágrafo único, respectivamente, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+Entendo, em princípio e por prudência, não conceder o efeito suspensivo almejado, devendo aguardar a manifestação da douta magistrada a quo, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Isso porque, a despeito das substanciosas alegações da agravante, não verifico, ao menos em sede de cognição sumária, comprovação suficiente do desacerto do decisum, de modo que, por tratar-se de questão afeta à saúde, o risco e o prejuízo atingem, sobremaneira, a parte agravada.
+Ademais, observo que o documento id. 127275159 - Pág. 26, assinado pelo médico Daniel Bouchabki de Almeida Diehl, é claro ao dizer que há risco de piora clínica e morte súbita, restando evidente se tratar de caso de urgência, veja: “Paciente e familiares cientes e orientados quanto à necessidade de realização deste procedimento, com brevidade, pelo risco de piora clínica e morte súbita”.
+Ressalto que os fundamentos aqui postos não vinculam a análise do mérito do agravo.
+Diante do exposto, indefiro a tutela antecipada recursal almejada.
+Intime-se a agravada para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do CPC.
+Oficie-se a douta juíza a quo para que preste as informações necessárias.
+P. I.
+Cuiabá, 25 de maio de 2022.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
