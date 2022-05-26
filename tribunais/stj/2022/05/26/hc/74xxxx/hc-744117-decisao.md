@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCELO EDUARDO DE LIMA, CARLOS ALBERTO DE LIMA e ROSIMEIRE TAVARES DE LIMA FRANCO contra decisão do Relator do habeas corpus impetrado na Corte de origem que indeferiu o pleito liminar (e-STJ, fls. 460/463).
+Consta dos autos que o Juízo da 5º Vara Criminal de Santos/SP, não obstante decisão do Juízo da 13ª Vara da Fazenda Pública de São Paulo/SP que suspendeu a exigibilidade do crédito tributário, indeferiu pedido de sobrestamento do inquérito policial que apura a prática do delito contra a ordem tributária, em desrespeito à Súmula vinculante24/STF. Alega que a decisão judicial de suspensão dos autos de infração impede o prosseguimento do inquérito policial.
+O presente feito foi a mim distribuído por prevenção de processo (HC-728.758/SP). No entanto, os fatos investigados naquela impetração (4ª Vara Criminal de Ribeirão Preto)não guardam relação com os fatos investigados nopresente writ (5ª Vara Criminal de Santos), inclusive os autos de infração tributáriasão distintos.
+Assim, deve o presente habeas corpus ser livremente distribuído entre os Ministros da 3ª Seção.
+Ante o exposto, torno sem efeito a distribuição realizada e determino nova distribuição do presente habeas corpus livremente entre os Ministros da 3ª Seção.
