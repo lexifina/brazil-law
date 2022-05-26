@@ -1,0 +1,28 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SULagrava de decisão que inadmitiu seu recurso especial, interposto com fundamento noart. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado.
+Nas razões do especial, o Parquetaponta violação doart. 157, § 2º, II,do Código Penal, diante da existência de provas suficientes de autoria para a condenação do acusado.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade (fls. 290-294), o que ensejou a interposição deste agravo (fls. 303-310).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para que não seja conhecido o especial (fls. 334-337).
+Decido.
+Consta dos autos que oJuízo monocrático condenouo réu pela prática dodelitode roubo majorado pelo qual foi denunciado. A sentença registrou que "o contexto probatório, ao contrário do entendimento da defesa, não deixa margem de dúvida de que o acusado subtraiu um celular, um relógio de pulso e a quantia de R$ 90.,00, mediante violência e grave ameaça exercida com emprego de arma de fogo, não obstante a versão da vítima na fase judicial" (fl. 183).
+A Corte de origem deu provimento ao apelo defensivo, a fim de absolver o réu, uma vez que concluiu pela ausência de um juízo de certeza quanto à autoria do delito. Confira-se (fls. 250-253, destaquei):
+No dia que seguinte ao do fato delituoso, a vítima registrou ocorrência policial, noticiando que, estava na frente do bar onde trabalhava, quando foi assaltada por um indivíduo de alcunha "Bebê", que portava uma arma de fogo, e lhe subtraído um celular, um relógio de pulso e uma quantia em dinheiro (fl. 07).
+Passado um mês, a vítima retornou à Delegacia de Polícia, reconhecendo o réu Carlos Eduardo Gonçalves por fotografia (fl. 09 e 11).
+O proprietário do bar, onde ocorreu o fato, Sr. Aiegemir, disse, na fase investigatória, que a vítima lhe pediu socorro, informando que havia sofrido um roubo praticado por "Bebê", que já praticara outro crime de roubo no local. Reconheceu, pessoalmente, o réu Carlos Eduardo Gonçalves como sendo a pessoa que chama pela alcunha "Bebê (fls. 17 e 19). Na mesma ocasião, a vítima também reconheceu, pessoalmente, o réu Carlos Eduardo Gonçalves (fl. 18).
+Ao ser ouvido perante a autoridade policial, o réu exerceu o direito constitucional de permanecer em silêncio, mas disse conhecer o bar onde ocorreu o fato (fl. 20).
+Esses elementos probatórios, amealhados no inquérito policial, não foram ratificados pela prova produzida em juízo, e, por isso, não possibilitam, na forma do art. 155 do CP, que se erija, o veredicto condenatório.
+ ..
+Observo que não havia testemunhas presenciais. Então, a única fonte probatória sobre o acontecido é a palavra da vítima. No entanto, seus depoimentos, àquele colhido na fase investigatória e o colhido em juízo, são absolutamente contraditórios.
+Ao contrário do que dissera na Delegacia de Polícia, em juízo, a vítima afirmou que não viu a fisionomia do meliante, e que, com base na descrição que fez sobre sua compleição física, seu patrão, Sr. Algemir, chegou à conclusão de que se tratava do réu, pois, ele já havia praticado outros assaltos em seu estabelecimento comercial.
+Embora a vítima tenha confirmado que possui receio de que o réu volte à liberdade depois do cumprimento de sua pena, foi assertiva ao responder que esse medo não influi na sua afirmação de que não possui condições de reconhecer seu agressor, tendo se limitado a levar ao conhecimento da autoridade policial a informação que lhe fora passada por Algemir, no sentido de que o autor do roubo seria o acusado.
+De outro lado, o fato de Algemir, responder afirmativamente a indagação feita pelo Ministério Público, no sentido de esclarecer se a vítima havia lhe dito que seu agressor era a pessoa de alcunha "Bebê", não tem o efeito de ratificar a palavra do ofendido na fase investigatória, ao contrário, mostra-se imprestável para tanto, na medida em que, essa mesma testemunha afirmou, em seu depoimento, que a vítima não conhecia o meliante e não sabia o seu nome.
+E, não há como afirmar que Algemir tenha adequado seus dizeres, em juízo, em virtude de medo de retaliação, até porque chegou a afirmar que o réu já havia morrido.
+Dessa forma, certo é que os elementos probatórios colhidos em juízo, porque conflitantes com aqueles obtidos na fase investigatória, não têm força para sustentar um veredicto condenatório, levando, assim, a absolvição do acusado.
+No caso, observo que a Corte estadual, após minucioso exame do caderno probatório, concluiu pela ausência de provasaptas a justificar a condenação, razão pela qual absolveuo réu pelocrimeque lhe foiimputadona denúncia.
+Dessa forma, rever o entendimento manifestado para decidir pela condenação importaria em reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, por força do enunciado sumular n. 7 do Superior Tribunal de Justiça.
+Nesse sentido, a contrario sensu:
+ ..  1. Para afastar a conclusão das instâncias ordinárias em relação à existência de provas de autoria e materialidade, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.  ..
+4. Recurso provido para reconhecer a violação do art. 71 do Código Penal e reduzir a pena para 7 anos, 1 mês e 10 dias de reclusão mais 80 dias-multa, no regime inicial fechado.
+(REsp n. 1.631.869/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/5/2017)
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art.253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
