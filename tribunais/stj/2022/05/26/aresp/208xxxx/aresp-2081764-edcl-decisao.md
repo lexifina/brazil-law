@@ -1,0 +1,3 @@
+DECISÃO
+Encaminhem-se os autos à Coordenadoria de Recebimento, Controle e Autuação de Processos Recursais para que verifique, junto ao Tribunal de origem, a existência de eventual falha na transmissão eletrônica dos autos, considerando o alegado nos embargos de declaração de fls. 364/368, no sentido de que à fl. 322 foi juntado o comprovante de pagamento referente à guia de custas de fl. 321, certificando ainda o Tribunal acerca da existência do referido documento, informação indispensável para que esta Corte analise a regularidade do preparo do recurso especial.
+Após, retornem-me os autos conclusos.
