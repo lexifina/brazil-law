@@ -1,0 +1,14 @@
+DECISÃO
+NELSON NASSAR RIOS agrava da decisão que inadmitiu seu recurso especial, interposto em face de acórdão do Tribunal Regional Federal da 3ª Região.
+No apelo inadmitido, fundamentado no art. 105, III, "a", da CF, o insurgente apontou violação do art. 619 do CPP, ao argumento de omissão do acórdão em analisar as questões apontadas pela defesa no apelo, tendo em vista que "não restou fundamentado objetivamente quais provas demonstram a materialidade e a autoria do réu Nelson Nassar, não há no julgado a descrição da conduta praticada pelo Recorrente que venha à implicar na subsunção ao tipo penal do crime previsto no art. 90 da Lei nº8.666/1993" (fl. 1.223).
+O reclamo foi inadmitido na origem - em virtude de ausência de vício no acórdão -, o que ensejou o agravo de fls. 1.324-1.333, no qual a parte impugna o óbice indicado e renova as teses do especial.
+O Ministério Público Federal postulou o desprovimento do agravo (fls. 1.371-1.387).
+Decido.
+O agravo é tempestivo e impugnou a decisão de inadmissibilidade do recurso especial. Contudo, não comporta provimento, pois está correta a decisão da Corte Federal.
+A jurisprudência desta Corte é firme em assinalar que "não há falar em violação do art. 619 do CPP se as teses  ..  foram afastadas de forma fundamentada, ainda que de maneira contrária aos interesses da parte" (AgRg nos EDcl no AREsp n. 1.562.086/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/10/2020).
+Verifica-se do acórdão combatido que o TRF3 fundamentou a condenação no material cognitivo produzido pelas instâncias ordinárias, bem como descreveu todos os elementos do tipo penal, para condenar o recorrente pelo delito previsto no art. 90 da Lei n. 8.666/1993 a 2 anos, 8 meses e 20 dias de reclusão, em regime inicial aberto.
+Deveras: "ausente a apontada violação dos arts. 619 do CPP, 489, § 1º, VI, e 1.022, II, parágrafo único, do CPC, pois o Tribunal de origem enfrentou todos os pontos relevantes ao deslinde da controvérsia, não se evidenciando negativa de prestação jurisdicional" (AgRg no AREsp n. 1.917.506/CE, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 2/3/2022).
+Ademais, o pleito de ausência de provas e elementos que demonstrem a materialidade e a autoria do delito, que visaem última análise à absolvição do recorrente, esbarraria no óbice da Súmula n. 7 do STJ, dada a necessidade de reexame de provas.
+Por fim, indefiro o pedido de reconhecimento de extinção dapunibilidade em razão da superveniência da Lei n. 14.133/2021 (conforme petição de fls. 1.389-1.391), porquanto não houve ocorrência de abolitio criminis, mas sim a continuidade típico-normativa por meio da inserção do Capítulo II-B no Código Penal, intitulado "Dos Crimes em Licitação e Contratos Administrativos".
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
