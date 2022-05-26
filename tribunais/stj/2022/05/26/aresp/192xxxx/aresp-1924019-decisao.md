@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL SAem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação _- Contrato de financiamento - Execução por título extrajudicial - - Sentença proclamando a prescrição intercorrente.Irresignação improcedente. Aplicação da tese fixada pelo STJ no julgamento do IAC/REsp. 1.604.412/SC (item "1.2"). Precedente obrigatório. Art. 927,111, do CPC.Negaram provimento à apelação." (fl. 172)
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 240, §1º,do CPC/1973, 921, III, do NCPC, bem como divergência jurisprudencial, sustentando, em síntese, isto: (I) não há falar em prescrição intercorrente,pois "(..) o banco recorrente esgotou todos os meios para a localização da requerida,bem como os autos foram remetidos ao arquivo pela ausência da localização de bens em nome do devedor" (fl. 213); (II) não houve desídia do autor.
+É o relatório. Decido.
+Sobre o tema, assim decidiu a Corte de origem:
+"Esta execução foi proposta em 4.12.95, tendo sido o executado/apelado regularmente citado em janeiro de 1996 (fl. 27v) Inicialmente penhorada a linha telefônica de titularidade do apelado (fl. 28), houve a remição do referido bem pela respectiva filha (fls. 54/55), prosseguindo-se a execução pelo saldo remanescente.
+Posteriormente, diante da não localização de outros bens do apelado, a execução foi suspensa, nos termos do art. 791, III, do CPC de 1973 (fl. 58).
+E tal suspensão não possuía delimitação de prazo.
+Não se enxerga nesse cenário, em absoluto, inércia do titular do direito, a justificar o reconhecimento de prescrição.
+(..)
+Bem por isso, a jurisprudência formada na vigência do Código de Processo Civil de 1973 era francamente majoritária no sentido de que, verificada a suspensão da execução nos moldes do art. 791, III, não corria o prazo da chamada prescrição intercorrente.
+(..)
+No caso, o reconhecimento da prescriçãointercorrente considerou o período em que a execução esteve suspensa pela não localização de bens penhoráveis, em descompasso, insisto, com a orientação jurisprudencial francamente majoritária que vigia no âmbito do STJ.
+Não se ignora que o CPC de 2015 veio a disciplinar a questão de maneira diversa (art. 921).
+Obviamente, porém, o preceito em questão só se aplica para situações verificadas posteriormente à vigência do novo estatuto processual, conforme, aliás, é dito com todas as letras no art. 1.056.
+Fosse de outra maneira, isto é, admitida a aplicaçãodas regras prescricionais da nova lei a fatos a ela pretéritos, o exequente seria tomado de surpresa, e injustamente, haja vista a praticamente tranquila orientação jurisprudencial estabelecida na vigência do diploma anterior.
+Existiria, em tal hipótese, clara infração ao sistema, notadamente ao elementar princípio da segurança jurídica.
+Quer isso significar, em outras palavras, que, caso persistisse a suspensão da execução em exame após o início da vigência do novo código, passaria a fluir, aí sim, o prazo ânuo do art. 921, §1º, daquele estatuto e, na sequência, teria incidência o prazo prescricional.
+Apesar de todo o exposto, o Egrégio Superior Tribunal de Justiça, na resolução do IAC/REsp. 1.604.412/SC, fixou as seguintes teses:
+(..)
+A tese elencada sob número "1.2.", por mim destacada, fixa posição diametralmente oposta à até então adotada pelo STJ, isto é, a de que, apesar da suspensão da execução pela não localização debens penhoráveis, o prazo prescricional, suspenso com o deferimento da suspensão, voltou a correr um ano após aquela data, ainda na vigência do CPC/73, por aplicação analógica do disposto do art. 40, § 2º, da Lei 6.830/1980.
+Com o máximo respeito, tal tese, contrariando a maciça jurisprudência do mesmo Superior Tribunal de Justiça sob a vigência do CPC/73, parece-me infringir o elementar princípio da segurança jurídica.
+De toda sorte, o v. Acórdão do IAC praticamente transitou em julgado, não conhecidos que foram os embargos de divergência contra ele opostos (j. 15.5.19).
+Cuida-se, portanto, de precedente obrigatório, nosexatos termos do que dispõe o art. 927, III, do CPC.
+Por outro lado, diversamente do que argumenta o ora apelante, não era caso de exigir fosse ele intimado para dar andamento ao feito.
+A intimação se fazia necessária apenas para estabelecer contraditório frente à então divisada prescrição, nos termos do que dispõem os arts. 94 e 10 do CPC (v. IAC, tese "1.4").
+Donde se impor a manutenção da r. sentença apelada."
+Ocorre que, recentemente, a Segunda Seção do Superior Tribunal de Justiça, em sede de Incidente de Assunção de Competência (Tema IAC 1), firmou a orientação de que ocorre a prescrição intercorrente, nas causas regidas pelo CPC/1973, na hipótese de o exequente permanecer inerte por prazo superior ao de prescrição do direito material vindicado, sendo que o termo inicial da contagem deve ser contado a partir do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano - aplicação analógica do art. 40, § 2º, da Lei de Execuções Fiscais.
+Estabeleceu-se no referido julgado, ainda, ser desnecessária a intimação prévia do credor para dar andamento ao processo, em caso de eventual reconhecimento, de ofício, da prescrição intercorrente, cabendo ao julgador, em respeito ao contraditório, assegurar-lhe oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição, mas não para promover extemporaneamente o andamento do processo.
+Eis a ementa do julgado:
+"RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido."
+(REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 22/08/2018)
+Noutro vértice, consoante se extrai da aludida orientação, o prazo de suspensão do feito, quando não fixado pelo juiz, somente deve perdurar por um ano, momento em que iniciará a contagem do prazo da prescrição intercorrente, o qual deverá regular-se pelo direito material em discussão, repita-se, independentemente de intimação prévia do credor para dar andamento ao processo.
+No particular, o Tribunal a quo decidiu em desconformidade com o entendimento pacificado pela Segunda Seção do STJ. Cabe, diante disso, à Corte de origem analisar a ocorrência, ou não, da prescrição, com base na avaliação fática do caso, de acordo com a orientação deste Tribunal Superior. Assim, por decorrência lógica, verifica-se que não houve intimação para exercício do contraditório, indispensável nos termos do julgado supracitado.
+Impõe-se, portanto, a cassação do acórdão recorrido para tornar dispensável a intimação prévia para dar andamento ao feito a fim de decretar a prescrição intercorrente, reconhecendo a necessidade de dar oportunidade à parte de se pronunciar quanto à eventual circunstância obstativa do transcurso do prazo prescricional.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial a fim de que o Tribunal de origem assegure, antes do reconhecimento da prescrição, o exercício do contraditório, conforme acima explicitado.
+Publique-se.
