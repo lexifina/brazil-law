@@ -1,0 +1,11 @@
+Recurso Inominado n. 1018309-71.2020.8.11.0001
+Parte recorrente(s): Janaina Aparecida de Campos Carvalho e Luiz Antonio de Campos Carvalho
+Parte recorrida(a): Energisa Mato Grosso - Distribuidora de Energia S/A
+Vistos.
+Cuida-se de processo em que as partes se compuseram amigavelmente após a interposição de recurso, quando os autos já se encontravam nesta instância, requerendo a homologação da avença.
+Como não vislumbro qualquer vício que possa obstar o acolhimento da pretensão, homologo o acordo firmado pelas partes, julgando extinto o presente processo com julgamento de mérito, com fundamento nos arts. 932, I, e 487, III, “b”, ambos do CPC.
+Cumpridas as formalidades necessárias, remetam-se os autos ao juízo de origem.
+Intimem-se. Cumpra-se.
+(datado e assinado eletronicamente)
+Cláudio Roberto Zeni Guimarães
+Juiz de Direito - Relator
