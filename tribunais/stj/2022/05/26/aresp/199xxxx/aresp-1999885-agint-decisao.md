@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONDOMÍNIO contra decisão monocrática de minha relatoria que conheceu do agravo em recurso especial para não conhecer do recurso.
+A agravante busca a reforma da decisão sustentando a inaplicabilidade da Súmula nº 7 do STJ, pois a ausência de previsão na convenção do condomínio não permite que haja condenação a reparação de danos decorrentes de furto em unidade autônoma.
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à nova análise do recurso especial.
+JÚLIO ALVES RIBEIRO NETO (JULIO) promoveu ação de indenização por danos materiais contra CONDOMÍNIO EDIFÍCIO MANSÃO AMALFI (CONDOMÍNIO), em decorrência de arrombamento e furto em apartamento. Alegou que houve negligência por parte do porteiro que autorizou a entrada de pessoas estranhas, sem qualquer identificação, e não notou o arrombamento da porta da unidade ao entregar as correspondências.
+A sentença julgou o pedido improcedente, com resolução de mérito, nos termos do art. 487, I, do NCPC. Em razão da sucumbência, JÚLIO foi condenado ao pagamento das custas processuais e honorários advocatícios fixados em 10% do valor da causa (e-STJ, fls. 383/385).
+JULIO interpôs recurso de apelação apreciado pelo Tribunal Bandeirante em acórdão da relatoria do Des. FLAVIO ABRAMOVICI, assim ementado:
+RESPONSABILIDADE CIVIL - CONDOMÍNIO - DANOS MATERIAIS - Furto ocorrido no interior de unidade autônoma locada pelo Autor - Convenção de Condomínio que não prevê responsabilidade do Condomínio-Requerido por furtos ocorridos nas unidades autônomas - Ausente o dever de indenizar - SENTENÇA DE IMPROCEDÊNCIA Comprovada a conduta negligente do porteiro do Condomínio- Requerido (permitiu o ingresso de pessoas não identificadas no edifício - o portão foi aberto com a mera aproximação dos criminosos), que resultou no furto de bem localizado na unidade autônoma do Autor - Ausência de previsão de responsabilidade do Requerido na Convenção de Condomínio não exime sua responsabilidade por eventual conduta negligente de seus prepostos - Caracterizado o dever de indenizar - Comprovados, em parte, os danos materiais - RECURSO DO AUTOR PARCIALMENTE PROVIDO, PARA CONDENAR O REQUERIDO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS NO VALOR DE R$ 3.352,12 (e-STJ, fl. 447).
+Os embargos de declaração de CONDOMÍNIO foram rejeitados (e-STJ, fls. 457/459).
+CONDOMÍNIO interpôs recurso especial com base no art. 105, III, a, da CF, onde alegou violação dos arts. 186 e 927, do CC/2002, ao fundamento de que (1) o condomínio só responde por furtos ocorridos nas suas áreas comuns se isso estiver expressamente previsto na respectiva convenção; (2) os danos reclamados pelo recorrido foram havidos em unidade condominial autônoma (área privativa) por ele alugada, fundamento suficiente para não se reconhecer o dever de indenizar do condomínio quando ausente previsão em seus normativos internos.
+O Tribunal recorrido inadmitiu o apelo nobre (STJ, fls. 486/488).
+O recurso merece conhecimento.
+Nesse contexto, DOU PROVIMENTO ao agravo interno, a fim de reconsiderar a decisão e, para melhor análise da matéria, na mesma linha, CONHEÇO do presente agravo, tão somente para determinar a sua conversão em recurso especial (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE DO CONDOMÍNIO POR FURTO EM ÁREA COMUM. NECESSIDADE DE PREVISÃO EXPRESSA NA CONVENÇÃO DE CONDOMÍNIO. RECONSIDERAÇÃO. CONVERSÃO EM ESPECIAL. PROVIMENTO DO RECURSO.
