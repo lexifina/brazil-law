@@ -1,0 +1,1 @@
+Art. 10-A. A instituição de ensino superior, ainda que atue no ensino básico ou em área distinta da educação, somente poderá ser considerada entidade beneficente de assistência social se respeitar as condições previstas na legislação específica para entidades beneficentes que atuem na área de educação, caso em que poderá gozar do benefício previsto no § 3º do art. 7º desta Lei.
