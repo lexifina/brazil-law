@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por OSWALDO OTÁVIO OLIVEIRA DA CRUZ GOUVEIA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+"EMBARGOS INFRINGENTES. AÇÃO DECLARATÓRIA DE NULIDADE ATO JURÍDICO. QUERELA NULLITATIS. SENTENÇA NÃO HOMOLOGATÓRIA. POSSIBILIDADE DE NULIDADE IPSO IURE DA SENTENÇA OU DE INEXISTÊNCIA. ADMISSIBILIDADE. RECURSO QUE SE NEGA PROVIMENTO.
+1. A doutrina e a jurisprudência hodiernas, interpretando o art. 486 do CPC, têm admitido a chamada querela nullitatis como meio legítimo à desconstituição e/ou nulidade de ato jurídico eivado de vícios, mesmo que atingindo sentença não homologatória, desde que sinalize para a possibilidade de nulidade ipso iure ou de sentença inexistente.
+2. Recurso que se nega provimento"(fl. 47).
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrenteaponta violação aos artigos243, 467, 485 e 486 do CPC/73. Sustentando, em síntese, que não se admitir, na espécie, a ação anulatória ajuizada pelo recorrido, porque a pretensão do autor é rescindir sentença de mérito transitada em julgado, portanto, a ação cabível seria a ação rescisória.
+Sem contrarrazões (fl. 55).
+É o relatório. Passo a decidir.
+Nos termos do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A eg. Corte estadual, ao concluir pelo cabimento da ação anulatória, assinalou que "a doutrina e a jurisprudência hodiernas, interpretando o art. 486 do CPC, têm admitido a chamada querela nullitatis como meio legítimo à desconstituição e/ou nulidade de ato jurídico eivado de vícios, mesmo que atingindo sentença não homologatória, desde que sinalize para a possibilidade de nulidade ipso iure ou de sentença inexistente" (fl. 47).
+A teor do acórdão recorrido:
+"O "decisum" reformado, cujo acórdão se recorre através destes infringentes, adotado nos autos da Ação Anulatória de Ato Judicial, culminou por extinguir o feito sem resolução do mérito, à vista de faltar- lhe os pressupostos de constituição e desenvolvimento válido e regular do processo, decorrente de flagrante ausência de competência originária daquele juízo para conhecer e dirimir a controvérsia. Em outras palavras, entendeu o juiz de piso não reunir competência para processar e julgar a Ação Anulatória de Sentença, em virtude de seu trânsito em julgado, razão pela qual extinguiu o feito, sem resolução do mérito, e termos do art. 267, IV, do CPC." (e-STJ. FL. 48)
+A querela nullitatis insanabilis é ação apta a combater os vícios insanáveis do processo.
+Consoante entendimento deste Tribunal, "a ação de querela nullitatis é remédio vocacionado ao combate de sentença contaminada pelos vícios mais graves dos erros de atividade (errores in procedendo), nominados de vícios transrescisórios, que tornam a sentença inexistente, não se sanando com o transcurso do tempo" (REsp 1201666/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 4.8.2014).
+A título ilustrativo:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. INOBSERVÂNCIA DO ART. 20, § 3º, DO CPC. TRÂNSITO EM JULGADO. VÍCIO DE NATUREZA RESCISÓRIA. DESCABIMENTO DA QUERELA NULLITATIS. ERRO MATERIAL. NÃO CONFIGURAÇÃO. COISA JULGADA INCONSTITUCIONAL. DESCARACTERIZAÇÃO.
+1. É possível, de modo excepcional, o controle de nulidades processuais, sobretudo as de natureza absoluta, após o trânsito em julgado da decisão por meio de impugnações autônomas, como embargos à execução, ação anulatória (querela nullitatis) e ação rescisória, cabíveis conforme o grau de nulidade no processo originário.
+2. A querela nullitatis é instrumento utilizado para impugnar sentença contaminada pelos vícios mais graves de erros de atividade (errores in procedendo), nominados de vícios transrescisórios, que tornam o ato judicial inexistente, não se sanando com o transcurso do tempo.
+(..)
+6. Agravo regimental não provido (AgRg no REsp 1524632/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 11.9.2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. FAIXA DE FRONTEIRA. BEM DA UNIÃO. ALIENAÇÃO DE TERRAS POR ESTADO NÃO TITULAR DO DOMÍNIO. AÇÃO DE DESAPROPRIAÇÃO. "TRÂNSITO EM JULGADO". AÇÃO CIVIL PÚBLICA. DECLARAÇÃO DE NULIDADE DE ATO JUDICIAL. PRETENSÃO QUERELA NULLITATIS. CABIMENTO. ADEQUAÇÃO DA VIA ELEITA. RETORNO DOS AUTOS À CORTE REGIONAL PARA EXAME DO MÉRITO DAS APELAÇÕES.
+(..)
+5. Da nulidade absoluta e da pretensão querela nullitatis insanabilis.
+5.1. O controle das nulidades processuais, em nosso sistema jurídico, comporta dois momentos distintos: o primeiro, de natureza incidental, é realizado no curso do processo, a requerimento das partes, ou de ofício, a depender do grau de nulidade. O segundo é feito após o trânsito em julgado, de modo excepcional, por meio de impugnações autônomas. As pretensões possíveis, visando ao reconhecimento de nulidades absolutas, são a ação querela nullitatis e a ação rescisória, cabíveis conforme o grau de nulidade no processo originário.
+5.2. A nulidade absoluta insanável - por ausência dos pressupostos de existência - é vício que, por sua gravidade, pode ser reconhecido mesmo após o trânsito em julgado, mediante simples ação declaratória de inexistência de relação jurídica (o processo), não sujeita a prazo prescricional ou decadencial e fora das hipóteses taxativas do art. 485 do CPC (ação rescisória). A chamada querela nullitatis insanabilis é de competência do juízo monocrático, pois não se pretende a rescisão da coisa julgada, mas apenas o reconhecimento de que a relação processual e a sentença jamais existiram.
+(..)
+10. Recursos especiais providos (REsp 1015133/MT, Rel. p/ acórdão Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 23.4.2010).
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
