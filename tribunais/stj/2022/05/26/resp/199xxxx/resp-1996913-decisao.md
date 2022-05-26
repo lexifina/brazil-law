@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por APARECIDA LIMA DA ROCHA com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ Fl. 164):
+"EMENTA. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. INDEFERIMENTO DA INICIAL - INÉPCIA E AUSÊNCIA DE PRESSUPOSTOS DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - CONFIGURADOS - EXIGÊNCIA DE EXTRATOS BANCÁRIOS - DEVER DE COOPERAÇÃO E BOA-FÉ DA PARTE INTERESSADA. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+O atual Código de Processo Civil privilegia os princípios da cooperação, da boa-fé, da solução do processo em tempo razoável, da eficiência, dentre outros, motivo pelo qual, embora não verificada a presença dos vícios elencados no art.
+330, do CPC, o autor deve comprovar o mínimo da verossimilhança de suas alegações, razão porque é exigível a juntada de extratos bancários, de simples obtenção da parte interessada, da mesma forma que teve interesse em conseguir extrato de conferência junto ao INSS.
+Tal mudança de posicionamento também ocorre para dar cumprimento à Resolução n. 349 do Conselho Nacional de Justiça, que criou no âmbito do Poder Judiciário os Centros de Inteligência (CIPJ), considerando, dentre outras questões, "a necessidade de aprimoramento do fluxo de processamento de demandas repetitivas".
+Opostos embargos de declaração, foram rejeitados às fls. 187/193.
+Nas razões do recurso especial, o recorrente alega ofensa aos artigos 6º, 373, II, 489, II e §1º, IV e VI, do CPC/15 e 104, III, do CC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que "cabia ao recorrido comprovar o recebimento do crédito do empréstimo concedido, obrigatoriamente, na conta em que o(a) recorrente recebia o benefício previdenciário (art. 373, II, CPC)" - (fl. 200).
+É o relatório. Decido.
+De início, em relação à alegada ofensa aos arts. 489 e 1.022 do CPC, verifica-se que o recorrente fez apenas alegação genérica de sua vulneração, apresentando uma fundamentação deficiente que impede a exata compreensão da controvérsia. Incide, na hipótese, a Súmula 284/STF.
+Nesse sentido, salienta o Ministro SIDNEI BENETI, que "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12/5/2010).
+Quanto ao mérito, a Corte de origem compreendeu que "na hipótese dos autos, embora não verificada a presença dos vícios elencados no art. 330, do CPC, a autora deve comprovar o mínimo do alegado (art. 373, I e parágrafo único, do CPC), ou seja, demonstrar a verossimilhança de suas alegações, apta à inversão do ônus da prova com base no CDC" - (fls. 169/170).
+Com efeito, o acórdão recorrido está em consonância com o posicionamento desta Corte de Justiça, a qual interpreta que "a inversão do ônus da prova não é automática, nem enseja a imediata procedência da ação, cabendo ao magistrado apreciar os aspectos de verossimilhança da alegação do consumidor, a quem incumbe demonstrar o fato constitutivo do seu direito" - (AgRg no REsp 1.216.562/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/09/2012, DJe de 10/09/2012).
+Em reforço:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. VEROSSIMILHANÇA DAS ALEGAÇÕES. AUSÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Mesmo em caso de relação de consumo, a inversão do ônus da prova não é automática, cabendo ao magistrado a apreciação dos aspectos de verossimilhança da alegação do consumidor ou de sua hipossuficiência, em conformidade estabelece o art. 6º, VIII, do referido diploma legal.
+2. Rever apreciação desses pressupostos é inviável por óbice da Súmula 7/STJ.
+3. Conforme sedimentada jurisprudência do STJ, o boletim de ocorrência policial não possui força probante suficiente para fundamentar a alegação da parte. Precedentes.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1216562/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/09/2012, DJe 10/09/2012)
+Dessa forma, forçosa a aplicação da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
