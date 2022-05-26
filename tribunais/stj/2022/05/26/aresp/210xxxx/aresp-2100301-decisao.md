@@ -1,0 +1,58 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que ANDRÉ LUÍS PIRES DE SOUZA (ANDRÉ) promoveu ação indenizatória decorrente de acidente de trânsito contra WAGNER MARTINS GARCIA (WAGNER), objetivando receber indenização em virtude das sequelas incapacitantes oriundas do acidente em que se envolveram as partes.
+Narram os autos que, WAGNER, ao contestar, requereu a concessão do benefício da assistência judiciária gratuita.
+Em primeira instância, o d. Juízo indeferiu o pedido.
+Dessa decisão, WAGNER interpôs agravo de instrumento, alegando que basta a declaração da parte no sentido de que não possui condições para arcar com as custas processuais, em prejuízo do sustento próprio e de sua família, para que o benefício seja concedido.
+O agravo de instrumento interposto por WAGNERnão foi provido por decisão monocrática do Desembargador relator do feito.
+O agravo interno aviado por WAGNER não foi provido pelo Tribunal de Justiça de Mato Grosso do Sul, nos termos do acórdão assim ementado:
+EMENTA - AGRAVO INTERNO - DECISÃO MONOCRÁTICAQUE INDEFERIU O PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA - NÃOCOMPROVADA A SITUAÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA DAPARTERECORRENTE- AUSÊNCIADEFUNDAMENTOSAPTOSA REFORMAR A DECISÃO - RECURSO CONHECIDO E DESPROVIDO. Não demonstradas pela parte agravante razões suficientes a alterar o quanto decidido, sem indicação de injustiça ou ilegalidade no decisum, o desprovimento do agravo interno é medida que se impõe (e-STJ, fl. 107).
+Inconformado, WAGNERmanejourecurso especial, com amparo no art. 105, III, alíneaa, da CF, alegando violação dos arts. 5º, LXXIV, da CF,98 e 99, §§ 2º e3º,do NCPC. Sustentouque (1) ficou comprovada sua hipossuficiência financeira; e, (2) ele foi exonerado de seu cargo e se encontra sem condições de arcar com as custas processuais.
+Contrarrazões (e-STJ, fls. 134/139).
+O apelo nobre interposto por WAGNERnão foi admitido em virtude daincidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial interposto por WAGNER, oportunidade em que foirebatidooóbiceapontado, tendo elereiterado os termos do seu apelo nobre.
+Contraminuta (e-STJ, fls. 158/161).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada contradição do art. 5º, LXXIV,da CF
+WAGNER, incialmente, alegou afronta ao art. 5º, LXXIV, da CF. No entanto, tal assertiva de ofensaé tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, do qual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Da suposta violação dosarts. 98 e 99, § § 2º e3º, do NCPC
+WAGNERalegouofensa aos arts. 98 e 99, §§ 2º e3º, do NCPC. Sustentou que ficou comprovada sua hipossuficiência financeira e que ele não possui condições de arcar com as custas processuais.
+A jurisprudência desta Corte é firme quanto ao deferimento da assistência judiciária gratuita para a pessoa física ou jurídica, desde que comprovada a impossibilidade de arcar com as despesas do processo.
+No entanto, ficou assentado que a Corte local, soberanana análise das provas, entendeu que não ficaramcomprovadosos requisitos para a concessão do benefício pleiteado, nos seguintes termos:
+Assim, é lícito ao julgador negar o benefício nas hipóteses em que a parte deixa de trazer aos autos elementos capazes de evidenciar sua hipossuficiência financeira, sobretudo porque a simples alegação constante da declaração de pobreza instaura somente presunção relativa em relação à carência de recursos.
+No caso em análise, conforme constou da decisão monocrática, na "Declaração de Imposto de Renda do exercício de 2021 (f. 38-45), consta que o agravante é proprietário de um imóvel e de um veículo, totalizando um rendimento tributável no valor de R$ 90.725,59 (noventa mil, setecentos e vinte e cinco reais e cinquenta e nove centavos), o que, por si só, afasta a condição de hipossuficiente alegada na inicial. Ressalte-se que o agravante, de acordo com a narração fática do acidente de que se trata a ação indenizatória, encontrava-se conduzindo o veículo LR/Freelander 2 SE 16, no dia do acidente, automóvel este de alto valor comercial. Ademais, os extratos da conta bancária do agravante não são suficientes para a concessão da discutida gratuidade, até porque tratam-se de movimentações entre janeiro a março de 2021, bem como nem sequer se sabe se o agravante possui outrascontas bancárias. É que, para a concessão da benesse, faz-se necessária a apresentação de demonstrativos de rendimentos financeiros ou outros documentos que permitam constatá-los e a verificação, ao final, de que o montante auferido mensalmente pela parte não lhe confere condições de suportar todas as suas despesas pessoais e ainda os encargos do processo. Na espécie, o recorrente deixa inclusive de especificar as despesas que possui que o impedem de adimplir as custas do processo."(f. 58), motivo pelo qual restou indeferida em decisão monocrática, ora agravada (e-STJ, fls. 110/111).
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJMSquanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+A propósito, confiram-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVER DE MOTIVAÇÃO. ART. 927 DO CPC/2015. JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Com exceção dos precedentes vinculantes previstos no rol do art.927 do CPC, inexiste obrigação do julgador em analisar e afastar todos os precedentes, acórdãos e sentenças, suscitados pelas partes" (AgInt no AREsp 1427771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2019, DJe 27/06/2019).
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. No caso concreto, o Tribunal de origem concluiu não ter sido demonstrada a situação de hipossuficiência do agravante. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento.
+6. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art.
+1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu no caso.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.491.014/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 24/8/2020, DJe 28/8/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. JUSTIÇA GRATUITA. PESSOA FÍSICA. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, discute-se a revogação do benefício de assistência judiciária gratuita anteriormente concedida ao autor/agravante.
+3. Não subsiste a alegada ofensa ao art. 1.022, II, do CPC/2015, pois consta do acórdão recorrido o exame de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia.
+4. O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário. Precedentes.
+5. No caso concreto, o tribunal local concluiu pela ausência de documentos demonstrativos da alegada carência financeira do autor para arcar com as despesas processuais, revogando por isso o benefício da assistência judiciária. Não cabe ao Superior Tribunal de Justiça o reexame das premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide. Incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.311.620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/12/2018, DJe 14/12/2018)
+Nessas condições,CONHEÇOdo agravo paraNÃOCONHECERdo recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à majoração dos honorários advocatícios, por ausência de fixação nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º,ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTOSOB A ÉGIDE DO NCPC.AÇÃO INDENIZATÓRIA. AGRAVO DE INSTRUMENTO.PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. APLICAÇÃODA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
