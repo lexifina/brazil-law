@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por CLAUDIO LUIZ TOBALDINI, fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 362):
+AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SENTENÇA DE APELAÇÃO CÍVEL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. IRRESIGNAÇÃO DA PARTE AUTORA. CONTRATO DE SEGURO. AUTOR QUE ANTES DO SINISTRO 1. VENDEU O VEÍCULO SEGURADO PARA TERCEIRO. RECONHECIMENTO DA ILEGITIMIDADE ATIVA QUE DEVE SER MANTIDA. NOVO PROPRIETÁRIO É QUEM DETÉM A LEGITIMIDADE PARA EXIGIR A COBRANÇA DA INDENIZAÇÃO DA SEGURADORA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA, COM 2. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS (CPC, ART. 85, §11º).
+RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial, a agravante alega violação aos arts. 526 e 757 do CC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que: (i) "a inclusão da especial cláusula de reserva dominial indica que o interesse do vendedor transcende ao crédito decorrente do pagamento do valor da venda, recaindo também sobre a integridade/propriedade da coisa vendida" - (fl. 376); (ii) "ao decidir de modo diverso do que estabelece a lei, não reconhecendo a legitimidade ativa do recorrente, o acórdão ora combatido negou vigência ao estabelecido pela reserva dominial (art. 526, CC) em interpretação conjunta com o interesse legítimo do segurado (art. 757, CC)" - (fl. 378); (iii) "a intenção da jurisprudência de forma alguma foi de suprimir a legitimidade do contratante originário do seguro, mormente quando comprove possuir interesses seguráveis, como no caso" - (fl. 379).
+Foram apresentadas contrarrazões às fls. 395/407.
+É o relatório.
+Quanto ao mérito, a Corte de origem afastou legitimidade ativa do segurado, mesmo havendo cláusula contratual de reserva de domínio, pois houve a tradição do veículo para outro proprietário, o qual detém legitimidade para demandar a cobrança da indenização, como se verifica do trecho do acórdão a seguir (fls. 364/365):
+Pois bem. Convém consignar, inicialmente, que "ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico." (Art. 18º do Código de Processo Civil).
+Ademais, para postular em Juízo é necessário ter interesse e legitimidade, o que não ocorre no caso dos autos.
+Isto porque, em que pese o Apelante ter entabulado contrato de seguro com a Apelada em novembro de 2017 (mov. 1.4), renovado em março de 2019 (mov. 1.5), constata-se que em 1o abril de 2019 o mesmo formulou contrato de compra e venda do veículo segurado para terceiro (mov. 1.7).
+Tal fato afasta a legitimidade ativa do Apelante, ainda que haja no contrato de compra e venda firmado entre os particulares reserva de domínio, eis que com a tradição do bem, o novo proprietário é quem detém a legitimidade para exigir a cobrança da indenização da seguradora, eis que foi quem teve seu patrimônio diminuído em razão do sinistro.
+Este inclusive, é o entendimento do Superior Tribunal de Justiça que ensejou a edição da súmula nº 465 que enuncia que "ressalvada a hipótese de efetivo agravamento do risco, a seguradora não se exime do dever de indenizar em razão da transferência do veículo sem a sua prévia comunicação"
+(..)
+Desta feita, havendo tradição do bem, com ou sem a regularização da transferência junto ao Departamento de Trânsito e comunicação de venda do veículo à seguradora, a legitimidade para exigir o pagamento do seguro passa a ser do adquirente do veículo segurado que no caso é o terceiro que entabulou contrato de compra e venda com o Apelante.
+Com efeito, o acórdão proferido pelo Tribunal de origem está em consonância com a jurisprudência desta Corte de Justiça, a qual interpreta que "ressalvada a hipótese de efetivo agravamento do risco, a seguradora não se exime do dever de indenizar em razão da transferência do veículo sem a sua prévia comunicação" - (Súmula 465/STJ).
+Ainda sobre o tema:
+DIREITO CIVIL. AGRAVO NO RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. TRANSFERÊNCIA DE VEÍCULO. AUSÊNCIA DE COMUNICAÇÃO À SEGURADORA. NECESSIDADE DE AGRAVAMENTO DO RISCO PARA AFASTAR A RESPONSABILIDADE DA SEGURADORA PERANTE O NOVO PROPRIETÁRIO.
+- A ausente ou deficiente fundamentação do recurso importa em seu não conhecimento.
+- A simples ausência de comunicação de venda do veículo à seguradora não exclui o dever da seguradora perante o novo proprietário, desde que não haja agravamento do risco.
+- Agravo não provido.
+(AgRg no AgRg no REsp 1050457/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/09/2010, DJe 10/09/2010)
+Dessa forma, forçosa a aplicação da Súmula 83/STJ ao caso dos autos.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% (doze por cento) para 13% (treze por cento) sobre o valor da causa.
+Publique-se.
