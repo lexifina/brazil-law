@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto porBOLOGNESI EMPREENDIMENTOS LTDA,contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA EVENDA. AÇÃO REVISIONAL C/C INDENIZAÇÃO.ATRASO NA ENTREGA DO IMÓVEL. O STJsedimentou o entendimento de que é válida aestipulação do prazo de tolerância de 180 dias.Assim, considerando o prazo de tolerância de180 dias, o prazo fatal para a entrega do imóvelera setembro de 2013. No caso, restouconfigurado o atraso na conclusão da obra, umavez que o imóvel foi entregue em abril de 2014.
+Inversão da cláusula penal e lucros cessantes. ASegunda Seção do Superior Tribunal de Justiçafixou a seguinte tese no Tema 970: "A cláusulapenal moratória tem a finalidade de indenizarpelo adimplemento tardio da obrigação, e, emregra, estabelecida em valor equivalente aolocativo, afasta-se sua cumulação com lucroscessantes." Nesse contexto, de acordo com as
+teses firmadas nos Temas 970 e 971, é cabívela inversão da cláusula penal moratória desdeque não cumulada com lucros cessantes.
+Precedentes do TJRS. Vencido o Relator, emparte, no ponto. Danos morais. O recenteentendimento do STJ é no sentido de que "omero descumprimento contratual, caso em quea promitente vendedora deixa de entregar oimóvel no prazo contratual injustificadamente,embora possa ensejar reparação por danosmateriais, não acarreta, por si só, danos morais,salvo se as circunstancias ao caso concretodemonstrarem a efetiva lesão extrapatrimonial,as quais não ficaram configuradas." (Aglnt noREsp 1754226/SP, Rel. Ministro MARCO AURÉLIOBELLIZZE, TERCEIRA TURMA, julgado em19/11/2018, DJe 22/11/2018). A partedemandante não comprovou ter sofridotranstornos extraordinários em razão da demorainjustificada na entrega do imóvel pelopromitente vendedor, não passando, o presentecaso em exame, de mero descumprimentocontratual. PROSSEGUINDO NO JULGAMENTO,NOS TERMOS DO ART. 942 DO CPC, ÀUNANIMIDADE, NEGARAM PROVIMENTO ÀAPELAÇÃO DA RÉ E, POR MAIORIA, DERAMPARCIAL PROVIMENTO À APELAÇÃO DA PARTEAUTORA EM EXTENSÃO DIVERSA. (fl. 222)
+Os embargos declaratórios restaram desacolhidos.
+Nas razões do recurso especial, o agravante alega violação aos arts. 412, 413 e 884 do CC/02, sustentando, em síntese, queequivoca-se a decisão ora recorrida ao fixarimposição de cláusula penal, penas convencionais e multa moratória por eventualdescumprimento do contrato, sem que exista qualquer previsão contratual nessesentido.
+É o relatório.
+Decido.
+Quanto à alegada violação dos arts. 412, 413 e 884 do CC/02, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciadopelo Tribunal a quo, tampouco foi alvo dosembargos declaratórios opostos, para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE CORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro oshonorários advocatícios devidos à parte recorrida de 10% sobre o valor da condenação para 11% sobre o respectivo valor.
+Publique-se.
