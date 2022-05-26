@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 83do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 200-202).
+É o relatório. Decido.
+O recurso especial, fundado no art. 105, III,c,da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 120):
+PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. INJÚRIA (ART. 140, CP). QUEIXA-CRIME DESACOMPANHADA DO INSTRUMENTO DO MANDATO COM PODERES ESPECÍFICOS. CONDIÇÃO DE PROCEDIBILIDADE. EXTINÇÃO DA PUNIBILIDADE.DECADÊNCIA. DESPROVIMENTO.
+I. A exordial acusatória resta desacompanhada de procuração com poderes específicos, vício não sanado no prazo decadencial (art. 38, CPP), o que resultou na extinção da punibilidade (art.107, IV, CP);
+II. Não obstante a prerrogativa da Defensoria Pública de poder atuar sem mandato (art. 44, XI da Lei complementar no 80/1994), tal fato encontra óbice quando se trata de propositura de ação penal privada (art. 16, parágrafo único, "b", da Lei nº 1060/50);
+III. Condição de procedibilidade não verificada. Vício insanável.
+Sentença mantida;
+IV. Recurso em sentido estrito conhecido e desprovido.
+Nas razões do recurso especial (fls. 133-143), alega arecorrentea ocorrência de divergência jurisprudencial por ter o Tribunal de Justiça do Maranhão dado interpretação diversa de outros tribunais para o art. 44 do CPP, quanto àpossibilidade de substituição da procuração com poderes especiais por outros meios, desde que presentes os requisitos legais elencados pelo referido artigo, no caso adeclaraçãoassinadana presença do defensor público sobre os fatos ocorridos.
+Requer seja reformado o acórdão para que seja dado prosseguimento ao feito.
+No acórdão recorrido (fls. 119-124), foi mantida a decisão de extinção da punibilidade do feito em razão da ausência,dentro do prazo estabelecido, depreenchimento da condição de admissibilidade da ação penal privada contida no art. 44do CPP.Vejam-se trechos do julgado (fls. 122-124, destaquei):
+A questão cinge-se ao preenchimento da condição de admissibilidade da ação penal privada contida no art. 44, CPP1, o que resultou na extinção da punibilidade do feito.Trata-se de condição de procedibilidade que, em se tratando de ação penal privada, qualquer vício deve ser sanado dentro do prazo decadencial (art. 38, CPP2), não se aplicando a regra contida no art. 569, CPP3, consoante preconiza remansosa jurisprudência: O vício na representação processual do querelante é sanável, desde que dentro do prazo decadencial.
+A alegação de que a Defensoria Pública possui a prerrogativa de atuar sem mandato está fundada no art. 44, XI, da Lei complementar nº 80/1994  ..
+A ressalva contida na aludida norma estatutária é observada no art. 16, parágrafo único, "b", da Lei nº 1060/50  ..
+A jurisprudência, ao analisar diversas situações relacionadas às exigências do art. 44, CPP, conclui pela viabilidade da queixa-crime quando , descrever o fato, assim como, quando a vítima assinar a peça em conjunto com seu patrono, mas em todas a situações, não entende ser prescindível a juntada da procuração com poderes especiais.
+Por oportuno, reproduzo alguns excertos jurisprudenciais nesse tocante ..
+Em uníssono, a jurisprudência demonstra a imperiosa necessidade de acompanhar a queixa-crime a procuração com poderes especiais, como condição de procedibilidade do feito, como se observa no seguinte aresto ..
+Observando inexistir nos autos o referido mandato, ou mesmo assinatura da ofendia aposta na própria exordial acusatória, entendo que o Termo de Declaração (fis. 5/6) que acompanha a peça inaugural não supre a procuração com poderes específicos.
+À guisa do expendido e em desacordo com o parecer ministerial, CONHEÇO e NEGO PROVIMENTO ao recurso, mantendo ilesa a sentença impugnada, na forma da fundamentação suso.
+É COMO VOTO.
+No caso, alega arecorrente a ocorrência de dissídio jurisprudencial. Para tanto, sustenta que no acórdão recorrido foi mantida a decisão que declarou extinta a punibilidade no crime de injúria por ausência de procuração com poderes especiais eter decorrido o prazo decadencialpara sanar o vício, enquanto que, nos julgados indicados como paradigmas, foi aceita a queixa-crime, tendo em vista que a declaração prestada pela vítima à Defensoria Pública supre a ausência do instrumento procuratório.
+No caso, dos julgados apresentados como paradigmas, verificamos que três deles (HC 85039 e RHC 82732, julgados no âmbitodo STJ, eHC 0059902-54.2015.8.19.0000, julgado noTJRJ) (fls. 141-142)são julgados não admitidospara comprovação de eventual dissídio, por se tratarde habeas corpus e recurso em habeas corpus(AgRg no AgRg no AREsp n. 1.799.433/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 14/12/2021). Já comrelação a outrojulgado indicado como paradigma (Apelação n. 70077717569, julgada noTJRS) (fl. 140), verifica-se que não foi realizado o imprescindível cotejo analítico entre os acórdãos recorrido e paradigma. Limitou-se a parte a transcrever a ementa doacórdão, sem realizar o necessário confronto analítico a fim de demonstrar a semelhança fático-jurídica e o dissenso da tese jurídica adotada para, desse modo, caracterizar a divergência entre referidos julgados (AgRg no AREsp n. 1.924.181/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/10/2021; AgRg no REsp n. 1.931.358/RS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/8/2021).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
