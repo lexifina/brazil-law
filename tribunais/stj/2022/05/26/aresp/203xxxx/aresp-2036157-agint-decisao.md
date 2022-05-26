@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por SIFCO S.A. (RECUPERAÇÃO JUDICIAL)contra decisão da Presidência deste Tribunal, que não conheceu do agravo para não impugnar todos os fundamentos da decisão de inadmissão do recurso especial.
+A parte agravante alega, em síntese, que impugnou todas as premissas da decisão de inadmissão do recurso especial, não havendo porque aplicar ao agravo o óbice da Súmula 182 do STJ.
+Passo a decidir.
+Tem razão o agravante ao afirmar que os fundamentos da decisão de inadmissão foram todos atacados pelo agravo em recurso especial, motivo pelo que reconsidero a decisão de e-STJ fls. 329/331 e passo a nova apreciação do recurso especial.
+O apelo extremo se origina de apelação de ação de cobrança judicial promovida pelo serviço nacional da industria (SESI) contra o ora recorrente.
+A ação foi originalmente julgada procedente com a condenação do recorrente ao pagamento do valor executado.
+A apelação foi interposta com pedido de concessão de gratuidade de justiça, indeferido pelo Tribunala quo.
+Interposto agravo interno, pleitou-sea reforma da decisão de indeferimento de gratuidade de justiça com fundamento na existência de recuperação judicial e nos documentos acostados aos autos (balanços patrimoniais e balanços fiscais de saidas de mercadorias).
+A Corte bandeirante negou provimento ao agravo interno em acórdão assim ementado:
+AGRAVO INTERNO. Agravante que requer a concessão do benefício da gratuidade da justiça por ocasião da apresentação das razões de apelação. Alegação de que se encontra em recuperação judicial, situação que a dispensariade comprovar a hipossuficiência. Pedido que foi indeferido. Apresentaçãode balançopatrimonial,referente aosexercícios de 2019 e 2020 e também de registros fiscais dosdocumentos de saídas de mercadorias e prestação de serviços, referentes a 01/03/2021 a 31/03/2021 que não têmo condão de comprovar a impossibilidade momentânea de recolhido do preparo. Convencimento não alterado. Decisão mantida. Recurso não provido.
+No recurso especial alega-se violação dos arts. 5º da Lei 1.060/1950e 99 do CPC/2015, bem como divergência jurisprudencial, pleiteando o reconhecimento da hiposuficiência do recorrente para o recolhimento das custas do recurso de apelação, sendo suficente para tanto a sua submissão ao processo de recuperação judicial e a aperesntação dos documentos acostados aos autos.
+Pois bem.
+O recurso especial não merece conhecimento por aplicação dos óbices das Súmulas 83 e 7 do STJ.
+Esta Corte superior pacificou o entendimento segundo o qual"a circunstância de a pessoa jurídica encontrar-se submetida a processo de recuperação judicial, por si só, é insuficiente para evidenciar a hipossuficiência necessária ao deferimento da gratuidade de justiça" (AgInt nos EDcl no AREsp 1.388.726/SP, rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/02/2019, DJe de 21/02/2019).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. ALEGAÇÃO DE CONTRARIEDADE A ENUNCIADO SUMULAR. SÚMULA 518/STJ. JUSTIÇA GRATUITA. IMPOSSIBILIDADE. PESSOA JURÍDICA EM RECUPERAÇÃO JUDICIAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não se conhece do recurso especial por violação a norma da Constituição Federal, cuja competência para exame é do col. Supremo Tribunal Federal, consoante preconiza o art. 102 da Carta Magna.
+2. "O recurso especial não constitui via adequada para análise de eventual contrariedade a enunciado sumular, por não estar compreendido na expressão "lei federal", constante do art. 105, III, a, da CF, conforme previsto na Súmula nº 518 desta Corte" (AgRg no AREsp 701.254/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 1º/9/2015, DJe de 10/9/2015).
+3. Segundo o entendimento jurisprudencial desta Corte, "a circunstância de a pessoa jurídica encontrar-se submetida a processo de recuperação judicial, por si só, é insuficiente para evidenciar a hipossuficiência necessária ao deferimento da gratuidade de justiça" (AgInt nos EDcl no AREsp 1.388.726/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/02/2019, DJe de 21/02/2019).
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise do feito, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1933328/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/11/2021, DJe 15/12/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Cuidando-se de pessoa jurídica, ainda que em regime de liquidação extrajudicial ou em recuperação judicial, a concessão da gratuidade de justiça somente é admissível em condições excepcionais, se comprovada a impossibilidade de arcar com as custas do processo e os honorários advocatícios, o que não foi demonstrado nos autos, conforme consignou o órgão julgador. Incidência da Súmula 83/STJ.
+2. A revisão das conclusões a que chegou o Tribunal de origem, especialmente acerca da ausência de comprovação dos requisitos para a concessão da justiça gratuita , encontra óbice na Súmula 7/STJ.
+3. Esta Corte de Justiça tem entendimento no sentido de que nos casos de protesto indevido ou inscrição irregular em cadastro de inadimplentes, o dano moral se configura in re ipsa, mesmo que o ato tenha prejudicado pessoa jurídica. Precedentes.
+4. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+5. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1875896/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+Hipotese em que o Tribunala quonão destoa deste entendimento ao afirmar aconcessão da gratuidade de justiça somente é admissível em condições excepcionais, se comprovada a impossibilidade de arcar com as custas, o que não foi demonstrado nos autos mesmo com a apresntação dos documentos acostados aos autos.
+Nesse contexto, ao tempo em que o acórdão está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior, sua revisão só seria possível mediante revisão do acervo probatório, providência inadequada em recurso especial, consoante enunciado da Súmula 7 do STJ.
+Ante o exposto:
+a) RECONSIDERO a decisão da Presidência de e-STJ fls. 329/331; eb)com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Publique-se. Intimem-se.
