@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 79, de 7 de janeiro de 1994, para dispor sobre o percentual mínimo do repasse obrigatório da União aos fundos dos Estados, do Distrito Federal e dos Municípios.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.082, de 2021, que o Congresso Nacional aprovou, e eu, Rodrigo Pacheco, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
