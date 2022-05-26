@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos dedeclaraçãoopostos por TIAGO GOMES DA SILVA àdecisão defls. 103-106, em que conheci parcialmente da impetração, e, nessa extensão, deneguei a ordem dehabeas corpus. Eis a ementa do julgado (fl. 103):
+"HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. HOMICÍDIOQUALIFICADO. NEGATIVA AO DIREITO DE RECORRER EM LIBERDADE. DESCUMPRIMENTO DE CONDIÇÃO DA LIBERDADE PROVISÓRIA IMPOSTA ANTERIORMENTE. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE QUE NÃO HOUVE DESCUMPRIMENTO DE NENHUMA DAS CONDIÇÕES. INADEQUAÇÃO DA VIA ELEITA.VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DA INOCÊNCIA. NÃO VERIFICAÇÃO. DESRESPEITO AO PRINCÍPIO DA IRRETROATIVIDADE DA LEI PENAL E SENTENÇA MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA, E, NESSA EXTENSÃO, DENEGADA."
+O Embargante alega que houve omissão nodecisumimpugnado, "haja vista que Vossa Excelência deixou de se manifestar com relação as provas acostadas no referido habeas corpus no que tange ao comparecimento periódico, inclusive, o do dia 1 de fevereiro, a declaração efetuada pelo irmão comprovando/confirmando o endereço, o número de telefone e comprovante de residência em nome da companheira do embargante, bem como o comparecimento espontâneo deste em audiência comprovando que não há que se falar em descumprimento, devendo, portanto, ser sanada" (fl. 109).
+Requer, assim, seja sanada tal omissão, de forma que lhe sejarevogada a prisão preventiva, e, subsidiariamente, seja sua custódia substituída por medida cautelar alternativa.
+É o relatório. Decido.
+De início, pontuo que, em consulta aositedo Tribunal de Justiça do Estado do Rio de Janeiro, pude constatar que, em 31/08/2021, o recurso de Apelação dos autos da Ação Penal em comento (Ação Penal n.0003815-56.2018.8.19.0038)foi julgado, tendo a Corte estadual dado parcial provimento ao recurso para reduzir a pena corporal, "rever a pena-base e fixar a resposta penal de 16(dezesseis) anos de reclusão. Mantida, no mais, a sentença vergastada".
+Apurei, também, que contra a mencionada Apelação, a Defesa interpôs Recurso Especial (REsp) e Recurso Extraordinário (RE), tendo o Desembargador Marcus Basílio, Segundo Vice-Presidente à época, não os admitido, em 28/09/2021.
+A Defesa interpôs Agravo em Recurso Especial e Agravo em Recurso Extraordinário, e o Desembargador Segundo Vice-Presidente, em 05/11/2021, os encaminhou, primeiramente, a esta Corte.
+No STJ, o mencionado Agravo em Recurso Especial, processo conexo a este, foi autuado como AREsp n. 2.017.248/RJ, que, em 12/01/2022, não foi conhecido pelo Ministro HUMBERTO MARTINS, Presidente desta Corte, cuja decisão transitou em julgado em 30/03/2022.
+Os autos eletrônicos foram, então, remetidos ao STF para apreciação do referenciado Agravo em Recurso Extraordinário (ARE).
+No STF, o ARE foi autuado como ARE n. 1.375.896/RJ, que teve seguimento negado em 11/04/2022, cuja decisão transitou em julgado em 04/05/2022.
+Desse modo, considerando que a condenação do Paciente transitou em julgado, trata-se, agora, deexecução definitiva da pena, o que faz com que a pretensão ora deduzidase torne prejudicada.
+Nesse sentido:
+"HABEAS CORPUS.TRÁFICO DE DROGAS. EXECUÇÃO PROVISÓRIA DA PENA. PERDA DO OBJETO. SUPERVENIENTE TRÂNSITO EM JULGADO DA CONDENAÇÃO. ALTERAÇÃO DO REGIME PRISIONAL FECHADO. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. PENA INFERIOR A 4 ANOS DE RECLUSÃO. RÉU PRIMÁRIO. FUNDAMENTAÇÃO ABSTRATA. CONSTRANGIMENTO ILEGAL CONFIGURADO NO PONTO.
+1. Caso em que não há como revogar o mandado de prisão, uma vez quesobreveio o trânsito em julgado da condenação. Superveniente perda do objeto dowritnesse aspecto.
+ .. " (HC 464.906/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/09/2019, DJe 19/09/2019; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADOSos embargos de declaração nohabeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃONO HABEAS CORPUS. PEDIDO DE REVOGAÇÃO DAPRISÃO PREVENTIVA, SUPERVENIÊNCIA DE CONDENAÇÃO E DO TRÂNSITO EM JULGADO. EXECUÇÃO DEFINITIVA DA PENA.HABEAS CORPUS. PERDA DE OBJETO.EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
