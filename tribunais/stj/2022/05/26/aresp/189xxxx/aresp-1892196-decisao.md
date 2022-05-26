@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por ARTHUR LUNDGREN TECIDOS S.A. CASAS PERNAMBUCANASque pretende a admissão de recurso especial contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Execução fiscal garantida por penhora de dinheiro Pretensão de substituição da penhora de direito por seguro garantia Deferimento Inadmissibilidade Garantia inferior à existente Inexistência de direito de substituição de uma pela outra Ausência de demonstração da necessidade da substituição Entendimento jurídico não alterado em razão da alegação genérica dos efeitos econômicos da pandemia Covid-19.
+RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados.
+No apelo raro, a recorrente, apontando divergência jurisprudencial e violação dos arts. 805, 835, § 2º, 848, do CPC/2015 e 9º, II, e 15 da Lei n. 6.830/1980, sustentou, em resumo, que, em face do princípio da menor onerosidade,é possível a substituição da garantia apresentada em dinheiro para seguro garantia.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender incidente a Súmula 7 do STJ e não demonstrado o dissídio jurisprudencial suscitado; fundamentação essa com a qual não concorda a agravante.
+Oferecida contraminuta.
+Conforme relatado, insurge-se a agravante conta acórdão do TJ/SP que, em sede de agravo de instrumento, deu provimento ao recurso fazendário para indeferir a substituição de garantia em dinheiro por seguro fiança.
+Vejamos a fundamentação consignada no voto condutor do acórdão recorrido:
+Trata-se, na origem, de execução fiscal, em que se discute, no presente recurso, a pretensão de se afastar decisão que deferiu substituição de penhora de dinheiro por seguro garantia.
+Com efeito, é certo que a presente execução já estava garantida por depósito em dinheiro, tendo a agravada pleiteado a substituição, com fundamentação na pandemia Covid-19, nas medidas de distanciamento social e restrição do comércio, na crise econômica correspondente e na pertinência de se aceitar a substituição do depósito em dinheiro pelo seguro-garantia, liberando- se recursos para a empresa.
+É certo que o art. 15, I, da Lei nº 6.830/1980 positivou o direito de substituição da penhora por depósito em dinheiro, fiança bancária ou seguro garantia. Não está disposto, todavia, o direito de substituição de penhora de dinheiro por seguro garantia.
+Adicione-se a isso a evidência de que o dinheiro penhorado em contas bancárias da agravada é, para a lei, meio de garantiasuperior ao seguro garantia, pois somente o depósito do montante integral em dinheiro tem o efeito de suspender a exigibilidade do crédito tributário.
+Aliás, este é o recente entendimento do Pretório Excelso, já no contexto da pandemia:
+ ..
+No mais, o C. STJ já decidiu pela legalidade do indeferimento de tal substituição:
+ ..
+Nesta Corte, tal entendimento também encontra seguimento:
+ ..
+Ressalte-se, ademais, que a agravada apenas fundamenta o requerimento na pandemia Covid-19 e nos seus efeitos econômicos de forma genérica, sem demonstrar, no seu caso particular e de forma concreta, o prejuízo excepcional que faria indispensável a disponibilidade dos valores penhorados.
+Ademais, não se olvide que, por primeiro, os efeitos econômicos da pandemia devem preservar os recursos públicos, pois deles que saem as despesas ao combate da pandemia. Logo, o tal argumento acrescido relativo às alegações genéricas dasconsequências econômicas da pandemia não é suficiente para justificar a substituição da penhora de dinheiro, já consolidada nos autos.
+Pois bem.
+Inicialmente, registro que, em relação à espécie de demanda que deu ensejo ao agravo de instrumento julgado pela Corte bandeirante, verifico que as razões do recurso especial destoam do contexto delineado no acórdão recorrido. Isso porque, enquanto a recorrente alega que o oferecimento de seguro garantia é para a substituição dedepósitorealizado em ação anulatória para fins de suspensão da exigibilidade do crédito tributário, o julgado estadual assenta que o pedido é de osubstituiçãode penhora de dinheiro por seguro garantia já no âmbito da execução fiscal.
+Feita essa consideração, cumpre registrar que oacórdão recorrido está em conformidade com a orientação jurisprudencial desta Corte Superior, segundo a qual, somente em casos excepcionais, quando cabalmente justificada e comprovada a necessidade de aplicação do princípio da menor onerosidade, admite-se a substituição da penhora em dinheiro por fiança bancária ou seguro garantia judicial.
+A esse respeito, confiram-se os seguinte julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AO ART. 1.022, I E II, DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. OFERECIMENTO DE SEGURO GARANTIA, APESAR DA EXISTÊNCIA DE DEPÓSITO EM DINHEIRO, EM AÇÃO CAUTELAR, GARANTINDO OS DÉBITOS EM COBRANÇA. DESCABIMENTO DE SUBSTITUIÇÃO DO DEPÓSITO EM DINHEIRO POR SEGURO GARANTIA, SEM ANUÊNCIA DA FAZENDA PÚBLICA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+VI. O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, que firmou compreensão no sentido de que a Fazenda Pública não pode ser, em Execução Fiscal, obrigada a aceitar substituição de depósito judicial ou penhora em dinheiro por seguro garantia, sem que esteja demonstrada, concretamente, a existência de violação ao princípio da menor onerosidade. Nesse sentido: STJ, AgRg no AREsp 726.208/RR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 10/06/2016; REsp 1.592.339/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/06/2016; AgInt no AREsp 1.300.960/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 26/10/2018; AgInt no AREsp 1.448.340/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/09/2019; AgInt no AREsp 1.741.800/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 05/05/2021; AgInt no AREsp 1.779.557/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 28/05/2021.
+VII. Considerando-se que o Tribunal de origem consignou que "o que ocorreria no caso em tela seria a substituição da garantia em dinheiro pelo seguro garantia", e levando-se em consideração, outrossim, que não consta do acórdão recorrido motivação pautada em elementos concretos que justifiquem, com base no princípio da menor onerosidade, a exceção à regra de que, havendo oposição da Fazenda Pública, descabe a substituição da garantia em dinheiro por seguro garantia, somente com o reexame do conjunto fático-probatório seria possível acolher a argumentação da parte executada, o que encontra óbice na Súmula 7 do STJ.
+VIII. Agravo interno improvido.
+(AgInt no AREsp 1.546.716/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 22/10/2021).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBSTITUIÇÃO DA PENHORA EM DIREITO POR SEGURO-GARANTIA. PRINCÍPIO DA MENOR ONEROSIDADE. SITUAÇÃO EXCEPCIONAL NÃO DEMONSTRADA. REVISÃO. NECESSIDADE DE REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. PENHORA EM DINHEIRO. PREFERÊNCIA SOBRE OUTROS ATIVOS. SUBSTITUIÇÃO. PREVALÊNCIA DO PRINCÍPIO DA SATISFAÇÃO DO CREDOR. NECESSIDADE DE ANUÊNCIA DA FAZENDA PÚBLICA. PRECEDENTES. SÚMULA 83/STJ.
+1. A jurisprudência do STJ é firme no sentido de que, uma vez realizada a penhora em dinheiro, a sua substituição é admitida excepcionalmente, quando cabalmente justificada a necessidade da aplicação do princípio da menor onerosidade, tendo em vista a prevalência do princípio da satisfação do credor. Precedentes.
+2. No caso, a Corte de origem consignou de forma expressa a ausência de demonstração de situação excepcional para a aplicação do princípio da menor onerosidade. Assim, inviável de revisão a conclusão firmada, sem o reexame da matéria fática dos autos, atividade essa que, no âmbito do recurso especial, sofre o óbice da Súmula 7/STJ. Precedentes.
+3. A jurisprudência da Primeira Seção desta Corte Superior é no sentido de que fiança e seguro-garantia, ainda que sejam garantias equivalentes, não possuem o mesmo status da penhora em dinheiro, de modo que a sua substituição requer a anuência expressa da Fazenda Pública. Precedentes. Aplicação da Súmula 83/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.603.875/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 16/06/2021).
+Incide, pois, o óbice de conhecimento estampado na Súmula 83 do STJ.
+Acresço, por oportuno, quea revisão da conclusão a que chegou a Corte estadual quanto à impossibilidade de, na espécie, acolher a pretendida substituição da garantia com amparo no princípio da menor onerosidade, porquanto respalda na compreensão de que, apesar dos efeitos negativos oriundos da pandemia do Covid-19, a empresa não logrou demonstrar que a permanência da penhora em dinheiro comprometeria a continuidade do exercício de sua atividade econômica, pressupõe reexame do acervo fático-probatório dos autos, o que é inviável no âmbito de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA AO ART. 805 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. BEM NOMEADO À PENHORA. INOBSERVÂNCIA DA ORDEM LEGAL. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. OFENSA AO PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+IV. Rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal acerca da violação ao princípio da onerosidade, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+(AgInt no AREsp 1.906.218/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/11/2021, DJe 29/11/2021).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. IMOVÉL. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL PREVISTA NO ART. 11 DA LEI N. 6.830/1980. AFRONTA AO PRINCÍPIO DA MENOR ONEROSIDADE. ANÁLISE. SÚMULA 7/STJ.
+ ..
+2. Na espécie, o Tribunal de origem consignou expressamente que a recusa na substituição da penhora por bem móvel foi justificada, considerando que, além de não observar a ordem legal, acarretaria em redução na liquidez.
+3. Infirmar tais conclusões, para considerar violado o princípio da menor onerosidade, demandaria o reexame de matéria de fato, vedado pela Súmula 7/STJ.
+ ..
+(AgInt no AREsp 1.666.369/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 23/03/2021, DJe 09/04/2021).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
