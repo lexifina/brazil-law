@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porAbelardo Beuttenmuller de Souza Neto e Neyla Dantas de Souza com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+AGRAVO DE INSTRUMENTO.AÇÃO ORDINÁRIA. TUTELA DE URGÊNCIA. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS.BEM IMÓVEL OFERECIDO VOLUNTARIAMENTE COMO GARANTIA EM CÉDULA DE CRÉDITO MEDIANTE ALIENAÇÃO FIDUCIÁRIA PARA QUITAÇÃO DE DÍVIDA. MANUTENÇÃO DO LEILÃO EXTRAJUDICIAL.CIÊNCIA DO DEVEDOR ACERCA DAS CONSEQUÊNCIAS ADVINDAS COM O INADIMPLEMENTO.RECURSO CONHECIDO E DESPROVIDO. ÀUNANIMIDADE.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustentam os recorrentes, ora agravantes, que o Tribunal a quo negou vigência ao art. 300 do CPC/2015, na medida em que preenchidos os requisitos para a concessão de tutela de urgência.
+Apresentadas contrarrazões às fls. 642/664.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+A questão recursal se limita à verificação do preenchimento dos requisitos para concessão da tutela de urgência, nos termos do art. 300 do CPC/2015.
+No caso, o Tribunal de origem confirmou, em sede de agravo de instrumento, decisão que, nos autos de ação declaratória de inexistência de débito, indeferiu o pedido de tutela de urgência para suspender qualquer ato de consolidação, transferência da propriedade, averbação no registro do imóvel e/ou alienação extrajudicial do imóvel em questão, objeto de leilão extrajudicial em decorrência de contrato de empréstimo garantido por alienação fiduciária, por entender que oleilão extrajudicial, realizado em Dezembro de 2019, com arrematação do bem pelo valor de R$ 472.681,02, foi subscrito pelo devedor, sem que houvesse qualquer insurgência sobre eventual nulidade, não se verificando, portanto, os requisitos necessários para suspender os efeitos da medida constritiva.
+Com efeito, amodificação de tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+No mesmo sentido;
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PENHORA DE SEMOVENTES. TUTELA DE URGÊNCIA. FALTA DOS REQUISITOS LEGAIS. SÚMULA 735/STF. PEDIDO DE SUSPENSÃO DA MEDIDA CONSTRITIVA. INDEFERIMENTO. AUSÊNCIA DE PROVA DO DOMÍNIO OU POSSE EXERCIDA SOBRE OS ANIMAIS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem confirmou a decisão que, nos autos de embargos de terceiro, indeferiu o pedido de tutela de urgência para sustar a penhora de semoventes, por entender que a parte ora agravante não juntou aos autos prova suficiente do seu domínio ou posse sobre os animais e que a situação demanda dilação probatória, não se verificando, portanto, os requisitos necessários para suspender os efeitos da medida constritiva. A modificação de tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1572901/MG, de minha Relatoria, QUARTA TURMA, julgado em 3/3/2020, DJe de 25/3/2020)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, deixo de majorar os honorários advocatícios, posto que o recurso especial é oriundo de agravo de instrumento.
+Publique-se.
