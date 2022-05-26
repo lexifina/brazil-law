@@ -1,0 +1,51 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5011716-58.2021.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CAIXA CONSORCIOS S.A. ADMINISTRADORA DE CONSORCIOS
+RECORRIDO: LUCIANA DUARTE DOS SANTOS DE OLIVEIRA
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.
+AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL c/c RESTITUIÇÃO DE QUANTIA PAGA
+.
+CELEBRAÇÃO DE CONTRATO DE CONSÓRCIOS. DESISTÊNCIA. RESCISÃO CONTRATUAL E RESTITUIÇÃO DE PARCELAS PAGAS
+. SENTENÇA DE PISO QUE JULGOU PARCIALMENTE PROCEDENTE QUE ASSIM DECIDIU:
+Ante o exposto, julgam-se
+parcialmente
+procedentes os pedidos autorais, resolvendo-se o processo, na forma do art. 487, I do CPC, para o fim de DECLARAR a nulidade do Contrato de Participação em Grupo de Consórcio, pertencente ao contrato de adesão n. 5988924, e CONDENAR a Requerida
+,
+a restituir ao autor a quantia de R$2.848,30 (dois mil e oitocentos e quarenta e oito reais e trinta centavos), corrigida monetariamente a contar do desembolso e acrescida de juros de mora a partir da citação.
+RECURSO DA PARTE REQUERIDA NO MÉRITO PUGNANDO PELA REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTE O PEDIDO AUTORAL, E SUBSIDIARIAMENTE, QUE A RESTITUIÇÃO OCORRA AO FINAL DO PRAZO DE VIGÊNCIA E QUE O DESCONTO DA TAXA DA ADMINISTRAÇÃO SEJA O PERCENTUAL FIXADO EM CONTRATO E QUE SEJA DETERMINADO O DESCONTO DA CLÁUSULA PENAL. AUSÊNCIA DE CONTRARRAZÕES.
+RECURSO DA PARTE REQUERIDA CONHECIDO E IMPROVIDO.
+DIREITO DO CONSUMIDOR. CONSÓRCIO É UMA OPERAÇÃO DE CAPTAÇÃO DE RECURSOS EM GRUPO FECHADO. PROMESSA DE CONTEMPLAÇÃO IMEDIATA EM CONSÓRCIO. ERRO SUBSTANCIAL CONFIGURADO. MANIFESTAÇÃO DE VONTADE VICIADA. NULIDADE DO NEGÓCIO JURÍDICO. PRAZO DA RESTITUIÇÃO. PRECEDENTES DO TJES NO SENTIDO DA APLICAÇÃO DA TESE DO REPETITIVO AOS CASOS POSTERIORES À VIGÊNCIA DA LEI 11.795/2008, CONFORME
+APELAÇÃO CÍVEL, 0036490-57.2017.8.08.0024 (024170320998 -
+RELATORA: DES. ELIANA JUNQUEIRA MUNHOS FERREIRA, ÓRGÃO JULGADOR: TERCEIRA CÂMARA CÍVEL , DATA DE JULGAMENTO: 19/10/2021, DATA DA PUBLICAÇÃO NO DIÁRIO: 29/10/2021
+) MERECENDO O SEGUINTE DESTAQUE: “[...]
+De fato, se a rescisão do contrato de consórcio se deu por culpa exclusiva da administradora do consórcio, a requerente faz jus à devolução imediata e integral da quantia que havia sido paga, a fim de retornar à situação jurídica anterior à celebração do pacto [...]”
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95.
+
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CUSTAS PROCESSUAIS DEVIDAS.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO, EM CONFORMIDADE COM O ENUNCIADO 96 DO FONAJE.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
