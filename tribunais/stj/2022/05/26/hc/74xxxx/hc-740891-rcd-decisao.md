@@ -1,0 +1,7 @@
+DECISÃO
+Pelos mesmos fundamentos que levaram ao indeferimento do pedido liminar, indefiro o presente pedido de reconsideração, porquanto denota-se a natureza satisfativa da pretensão, que será melhor analisada após a juntada das informações e parecer ministerial.
+Outrossim, em que pese a juntada de decisão prolatada pelo eminente Ministro Sebastião Reis Júnior na qual deferiu o pedido urgente em situação similar, cumpre ressaltar que se trata de decisão de natureza precária e que oportunamente será objeto de análise pelo colegiado da Sexta Turma.
+Ademais, em julgamento realizado pela Terceira Seção deste Tribunal (Resp n. 1.918.338/MT), no qual o recorrente havia sido condenado pelo delito de tráfico de drogas, considerou-se possível a aplicação retroativa do art. 112, inc. V, da LEP, que trata sobre percentual de cumprimento da pena para fins de progressão exatamente a condenados por crimes hediondos ou equiparados que fossem reincidentes genéricos, o que permiti aferir, em que pese posicionamentos individuais dissonantes, que prevalece neste Sodalício o entendimento de que o delito de tráfico de drogas ainda é equiparado a hediondo.
+Não é por outro motivo que o legislador, de forma expressa, ressaltou no art. 112, § 5º, da LEP, que o delito de tráfico de drogas privilegiado (art. 33, § 4º, da Lei de Drogas), não é mais considerado hediondo, positivando em nosso ordenamento jurídico evolução jurisprudencial iniciada no Pretório Excelso no julgamento do HC n. 118.533.
+Ante o exposto, indefiro o presente pedido de reconsideração.
+P. e I.
