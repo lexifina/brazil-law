@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidentes as Súmulas 7 e 83/STJ.
+O agravante foi condenado às reprimendas de 6 meses de detenção e 10 dias-multa, pela prática do delito tipificado no art. 306, § 1º, I, do Código de Trânsito Brasileiro, sendo-lhe denegada a substituição da pena privativa de liberdade porrestritiva de direitos.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação do art. 44 do Código Penal, afirmando, em suma, que faz jus à substituição dapena privativa de liberdade por restritiva de direitos.
+Alegou, ainda, que, "no caso de ser o acusado reincidente em crime diverso (reincidência genérica), é indispensável que o juízo fundamente eventual denegação do direito previsto no art. 44, do Código Penal, sob pena de violação ao princípio da individualização da pena" (fl. 361), pugnando, ao final, pelo provimento do apelo nobre "para o fim de substituir a pena privativa de liberdade por uma restritiva de direitos e multa" (fl. 363).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento do agravo para não se conhecer do recurso especial.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual se passa ao exame do seu mérito.
+Sobre a questão aqui trazida, assim se manifestou o Tribunal local (fls. 348-349):
+ .. A defesa também insurgiu-se em relação à substituição da pena privativa de liberdade por restritiva de direitos, a qual foi negada pelo Magistrado, por conta da reincidência.
+Segundo o apelante, a substituição da pena privativa de liberdade porrestritivas de direitos é medida de rigor, eis que todas as circunstâncias judiciais foram reputadas favoráveis, sendo, portanto, recomendável. E, por outro lado, não se trata de reincidência específica.
+Sem razão mais uma vez.
+No caso, conquanto a reprimenda tenha sido fixada em 6 meses de detenção, o recorrente ostenta condição de reincidência em crime doloso, o que impede a substituição da pena privativa por restritiva de direitos nos termos do art. 44, II, do CPP. além disso, a meu ver, a substituição, na hipótese em tela, não se mostra recomendável.
+Logo, afasto pedido de substituição da pena. ..
+Como visto, o Tribunal estadual manteve a sentença, porquanto "orecorrente ostenta condição de reincidência em crime doloso, o que impede a substituição da pena privativa por restritiva de direitos nos termos do art. 44, II, do CPP (sic). além disso, a meu ver, a substituição, na hipótese em tela, não se mostra recomendável", não havendo falar-se em ilegalidade, uma vez que a negativa se deu por expressa previsão legal. Nesses termos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. PECULATO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. ENTENDIMENTO PACIFICADO PELO SUPREMA CORTE NAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE N.os 43, 44 E 54. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU PORTADOR DE MAUS ANTECEDENTES E REINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS. DESCABIMENTO. AGRAVO PARCIALMENTE PROVIDO.
+ ..
+3. Mesmo que a pena definitiva tenha sido fixada em patamar inferior a quatro anos de reclusão, tratando-se de Réu reincidente e presente circunstância judicial que justifica validamente a majoração da pena-base, seria cabível até mesmo a fixação do regime inicial fechado, nos termos dos arts. 33, §§ 2.º e 3.º, e 59 do Código Penal. Portanto, não há, no caso, constrangimento ilegal na fixação do regime prisional semiaberto.
+4. A reincidência em crime doloso e a valoração negativa da circunstância judicial relativa aos antecedentes não recomendam a substituição da pena privativa de liberdade, nos termos do art. 44, incisos II e III, do Código Penal.
+5. Agravo regimental parcialmente provido, tão somente para assegurar ao ora Agravante o direito de aguardar o trânsito em julgado da condenação em liberdade, resguardada a possibilidade de decretação de nova prisão processual, em deliberação devidamente fundamentada.(AgRg no HC n. 532.269/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 10/12/2019.)
+Ademais, como bem observado pelo representante do Ministério Público Federal, "ainda que não configurada a reincidência específica, tendo sido negado o benefício pelas instâncias ordinárias fundamentadamente, por não ser a medida socialmente recomendável, não cabe à Corte rever o entendimento na estreita via do especial, dada a necessidade de reexame de fatos e provas, a teor da Súmula 7/STJ. Precedentes." (fl. 429).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
