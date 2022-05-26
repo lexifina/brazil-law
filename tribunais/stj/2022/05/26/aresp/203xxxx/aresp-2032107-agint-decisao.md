@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno de SUPERMERCADO MACLA LTDA.contra decisão proferida pela Presidência do STJ, às e-STJ fls. 1.326/1.327, que não conheceu do agravo em recurso especial interposto contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 258):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS-ST NA BASE DE CÁLCULO DE PIS E COFINS.
+1. Ao julgar o RE 574.706, o Supremo Tribunal Federal não considerou o regime de substituição progressiva do ICMS, logo não se exclui da base de cálculo do PIS e da COFINS o ICMS-ST.
+2. Apelação da impetrante desprovida.
+Passo a decidir.
+Ao reexaminar a hipótese, verifico que a Primeira Seção desta Corte, na sessão virtual finalizada em 07/12/2021, submeteu a questão jurídica referente à "possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído" à sistemática dos recursos repetitivos, em virtude da afetação do tema como representativo da controvérsia (REsps 1.958.265/SP e 1.896.678/RS).
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/0 5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, rel. Ministro Benedito Gonçalves, DJe 17/03/2016.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 1.326/1.327, tornando-a sem efeitos,e DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
