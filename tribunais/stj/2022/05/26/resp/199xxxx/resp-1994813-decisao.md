@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se derecurso especial, fundadonoart. 105, III, "a" e "c", daConstituição Federal, interposto por PAIVA GOMES E COMPANHIA S/Acontra v.acórdão do eg. Tribunal Regional Federal da 5ª Região, assimementado(fl. 318):
+"PROCESSUAL CIVIL. AGRAVO INTERNO. PESSOA JURÍDICA. JUSTIÇA GRATUITA.QUESTÃO NÃO ENFRENTADA NA DECISÃO AGRAVADA. APRECIAÇÃO. DESCABIMENTO.
+1. A gravo interno interposto pela C onstrutora PAIVA GOMES & COMPANHIA LTDA contra decisão monocrática que indeferiu o benefício da justiça gratuita nestes autos.
+2. Sustenta a agravante, em síntese, que: a) nos termos do art. 99, §2º, do CPC, o pedido somente poderia ser indeferido se houvesse "nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos"; b) não lhe foi facultada a juntada de documentação complementar, não tendo sido destacada em que se fundaria a conclusão para a negativa do benefício; c) comprovou nos autos que se encontra sem qualquer faturamento desde o ano de 2016; d) a quantidade relevante de demandas nas quais é incluída no polo passivo, tem limitado o seu direito de acesso à justiça, ante a ausência de recursos para tanto.
+3. De logo, verifica-se dos autos que a questão atinente à concessão da justiça gratuita à agravante não foi objeto de apreciação pelo magistrado na decisão impugnada, não podendo, portanto, ser submetida a quo ao crivo deste Tribunal, sob pena de supressão de instância. Nesse sentido: TRF5, 2ª Turma, PJE 0812204-66.2020.4.05.0000, Rel. Des. Federal Paulo Roberto De Oliveira Lima, data de assinatura:
+17/03/2021.
+4. Ademais, vale destacar que, no caso concreto, os documentos juntados pela agravante - Recibos de Entrega da Declaração Digital de Serviços da Prefeitura de Natal e a declaração de faturamento sequer seriam hábeis, por si só, para comprovar a sua hipossuficiência, o que levaria ao não deferimento do benefício vindicado, dado que tal deferimento a pessoas jurídicas é de todo excepcional, dependendo da demonstração da impossibilidade de pagamento das despesas judiciárias (Súmula 481/STJ).
+5. No mesmo sentido: PJE 0815338-38.2019.4.05.0000, Rel. Des. Federal Paulo Cordeiro, 2ª Turma, julg.em 22/06/2021.
+6. Agravo interno desprovido."
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação ao art. 99, § 7º, do CPC/2015. Sustenta, em síntese, que pode requerer o benefício de justiça gratuita em sede recursal, bem como apresentou documentação apta a demonstrar a hipossuficiência, devendo ser deferida a benesse de gratuidade de justiça.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, ao apontar violação ao art. 98, § 7º, do CPC/2015, a parte recorrente defende que pode apresentar pedido de gratuidade de justiça a qualquer tempo, sem que haja supressão de instâncias. Afirma, também, que restou comprovada a hipossuficiência pela apresentação dos documentos contábeis. Por sua vez, o TRF-5ª Regiãocom arrimono acervo fático-probatório, assim decidiu:
+"De logo, verifica-se dos autos que a questão atinente à concessão da justiça gratuita à agravante não foi objeto de apreciação pelo magistrado a quo na decisão impugnada, não podendo, portanto, ser submetida ao crivo deste Tribunal, sob pena de supressão de instância. Nesse sentido: TRF5, 2ª Turma, PJE 0812204-66.2020.4.05.0000, Rel. Des. Federal Paulo Roberto De Oliveira Lima, data de assinatura:
+17/03/2021.
+Ademais, vale destacar que, no caso concreto, os documentos juntados pela agravante - Recibos de Entrega da Declaração Digital de Serviços da Prefeitura de Natal e a declaração de faturamento sequer seriam hábeis, por si só, para comprovar a sua hipossuficiência, o que levaria ao não deferimento do benefício vindicado, dado que tal deferimento a pessoas jurídicas é de todo excepcional, dependendo da demonstração da impossibilidade de pagamento das despesas judiciárias (Súmula 481/STJ).
+No mesmo sentido: PJE 0815338-38.2019.4.05.0000, Rel.Des. Federal Paulo Cordeiro, 2ª Turma, julg.
+em 22/06/2021.
+Agravo interno desprovido."
+Na hipótese, o Tribunal de origem concluiu que os documentos apresentados não foram aptos a comprovar o estado de hipossuficiência a justificar o deferimento da gratuidade de justiça.
+Sendo assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+2.1. Tendo a Corte local entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AREsp 1975716/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/04/2022, DJe 25/04/2022)
+Por fim, pela alínea "c" do permissivo constitucional, melhor sortenãosocorre aos recorrentes, pois, consoante o entendimento desta Corte,aincidência da Súmula 7 do STJ pela alínea "a" também obstaoprosseguimento do recurso pela alínea "c". Nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃOCONTRATUAL.AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DE EFEITO SUSPENSIVO AORECLAMO.REVISÃO DAS CONCLUSÕES ESTADUAIS.IMPOSSIBILIDADE. NECESSIDADEDEINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DOACERVOFÁTICO-PROBATÓRIO DOS AUTOS.SÚMULAS 5 E 7/STJ. DISSÍDIOJURISPRUDENCIALPREJUDICADO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃOIMPUGNADOS NAS RAZÕES DORECURSO ESPECIAL.APLICAÇÃO DA SÚMULA 283/STF.AGRAVO INTERNO DESPROVIDO.
+1. A concessão de efeito suspensivo ao reclamo deve ser indeferida,poissomente será admitida em situações extremamente excepcionais, a saber:quando demonstrada a alta probabilidade de provimento do recurso especial,nos casos de dano de difícil reparação, ou quando o acórdão forcontrárioà jurisprudência pacífica desta Corte, o que não é o caso dosautos.
+2. A revisão das conclusões estaduais demandaria a necessidadedeinterpretação de cláusulas contratuais e o revolvimento doacervofático-probatório dos autos, providências vedadas no âmbito dorecursoespecial, ante os óbices das Súmulas 5 e 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a incidência daSúmula7 do STJ impede o conhecimento do recurso lastreado, também, pelaalínea cdo permissivo constitucional, uma vez que falta identidade entreosparadigmas apresentados e os fundamentos do acórdão, tendo em vistaasituação fática de cada caso.
+4. A ausência de impugnação específica a fundamento constante do acórdãoestadual atrai o óbice da Súmula 283 do STF.
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no REsp 1829061/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRATURMA, julgado em 11/11/2019, DJe 21/11/2019)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
