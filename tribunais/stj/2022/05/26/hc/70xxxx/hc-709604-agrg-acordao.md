@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THOMAS MAURO SANTOS RIBEIRO BATISTA contra a decisão de fls. 95-98, que não conheceudo presente habeas corpus, mas concedeua ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, apenas para determinar que o Juízo de primeiro grau efetuassea transferência do paciente para estabelecimento prisional compatível com o regime semiaberto.
+Oagravante foi condenado às penas de 1 ano e 4 meses de reclusão em regime semiaberto e de 13 dias-multa, pela prática dos crimes descritos nos arts. 180, caput, c/c o art. 61, II, j, do Código Penal. Foi-lhe indeferido o direito de recorrer em liberdade, pois, durante toda a instrução, esteve preso cautelarmente. Impetrado writ originário, a ordem foi denegada.
+Em suas razões, sustenta a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a não concessão do direito de apelar em liberdade.
+Afirma que possui bons antecedentes, o que possibilita sua liberdade provisória.
+Alega que "a pena aplicada na sentença, qual seja, um (01) ano e quatro (04) meses de reclusão, em regime inicial semiaberto, e pagamento de 13 (treze) dias-multa, no valor unitário mínimo, por incursão no artigo 33, caput, da Lei nº 11.343/06, comporta regime inicial menos gravoso"(fl. 105).
+Requer a revogação da prisão preventivasem prejuízo da imposição cumulativa demedidas cautelares alternativas.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. RECEPTAÇÃO. PRISÃO PREVENTIVA.AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. REGIME PRISONAL. SUPRESSÃO DE INSTÂNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPPimpede a aplicação dasmedidas cautelares alternativas previstas no art. 319 do CPP.
+2.O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração dehabeas corpusem substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Conforme ressaltado na decisão agravada, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 19-22, destaquei):
+Segundo se extrai, o paciente permaneceu preso durante a tramitação do feito. A prisão, portanto, é consequência dos atos apurados na ação penal e, se antes havia motivo para a cautelar, agora, com mais razão, após um primeiro juízo de mérito.
+ ..
+Ademais, o réu é reincidente, circunstância reveladora de reiteração delitiva, fundamento suficiente para a manutenção da custódia.
+E, frise-se, embora praticada sem violência contra a pessoa, a conduta, supostamente realizada, não pode ser considerada sem gravidade. Ao contrário, trata-se de delito repulsivo, que tem motivação exclusivamente patrimonial, sem que haja qualquer preocupação do agente em investir sobre o bem alheio, cujos reflexos para a vítima são sempre sérios e onerosos. Aliás, na hipótese, trata-se de receptação de veículo automotor, bem de valor considerável.
+Não se olvida que os fatos imputados repercutem socialmente e seus reflexos, frise-se, negativos, propiciam àqueles que tomam conhecimento um forte sentimento de impunidade e de insegurança, de maneira que a ordem pública se vê ameaçada, razão pela qual a custódia cautelar se mostra necessária.
+ ..
+Importante observar que a prisão preventiva foi decretada e mantida mediante fundamentação válida, apoiando-se a medida na presença de requisitos do artigo 312 do Código de Processo Penal, referindo-se inalterados os motivos ensejadores da custódia cautelar. Não bastando, relembre-se, a reincidência reforça a possibilidade de reiteração delitiva.
+No mais, a discussão proposta não pode ser apreciada por esta via estreita e especializada, por envolver valoração de prova, de equacionamento da conduta, que só tem lugar na fase de conhecimento.
+Com efeito. O Habeas Corpus não se presta a suprir recurso previsto no ordenamento jurídico - ao que consta, interposto -, tampouco pode ser medida opcional, de livre eleição pelo interessado, além de não ser remédio para antecipar ou acelerar andamento de processo ou recurso em tramitação regular. A celeridade e especificidade do mandamus não permitem esse tipo de aferição.
+Nesse sentido:
+"O habeas corpus não se presta para apreciar e resolver matéria concernente à pretendida substituição da pena privativade liberdade imposta ao réu por restritiva de direitos e a fixação do regime prisional aberto para o início de cumprimento da reprimenda, em lugar do fechado, pois não dizem respeito à ilegalidade, mas sim à justiça ou injustiça do decidido, de tal sorte que o foro adequado para que a propósito disso se discuta é o recurso de apelação e não a via augusta do writ" (Tacrim- SP HC n. 366.284-6. Rel. Antônio Manssur, j. em30.07.2000).
+A propósito, destaque-se que, na fixação do regime inicial, o juízo não considerou apenas o "quantum" da reprimenda, mas também a reincidência do ora paciente. Portanto, baseou-se na periculosidade social do agente, e não na gravidade abstrata do delito.
+Observa-se quea reincidênciae oquantum depena fixadona sentençaforam considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva paragarantia da ordem pública, o que inviabilizou a substituição pelas cautelares previstas no art. 319 do CPP.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Registre-se ainda que aexistência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Quanto a ser o regime fixado na sentença mais gravoso que o decorrente do quantumda pena, o Tribunal a quo afirmou que "a discussão proposta não pode ser apreciada por esta via estreita e especializada, por envolver valoração de prova, de equacionamento da conduta, que só tem lugar na fase de conhecimento", o que impede a análise da desproporção na extensão requerida pelo agravante, tendo em vista o não enfrentamento da matéria pela instância ordinária.
+Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ainda que assim não fosse, convém destacar o entendimento sedimentado na Súmula n. 269 do STJ: "É admissível a adoção doregimeprisionalsemi-abertoaosreincidentescondenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais". Tal situação estájustificada na sentença condenatória e reforçada nas informações prestadas pelo Juízo de primeiro grau.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
