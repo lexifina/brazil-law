@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental (fls. 329/339) interposto contra decisão da minha relatoria, em queconhecido agravo para conhecer em parte do recurso especiale, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça -STJ, dar-lhe parcial provimento para fixar a pena definitiva em 7 anos e 8 meses de reclusão (fl. 326).
+No presente recurso, oagravante alega que a pena final fixada foi de 7 anos e 8 meses de reclusão nos termos do Art. 302, § 1º, I e § 3º, ambos da Lei n.9.503/97 (Código de Trânsito Brasileiro - CTB), mantendo o regime inicial fechado para o cumprimento da pena de forma desproporcional. Entende que deve ser considerado o fato de que não se cuida de criminoso contumaz,além de serem crimes sem violência ou grave ameaça e o elemento subjetivo do tipo ser a culpa.
+Requer a reconsideração da decisão agravada ou o recebimento e processamento do agravo regimental, para que seja conhecido e provido no que pertine ao regime de cumprimento de pena.
+Não houve contrarrazões do Parquet.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.MAUS ANTECEDENTES. REGIME INICIAL FECHADO. PRECEDENTES.AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora a pena privativa de liberdade tenha ficado em patamar superior a 4 anos e aquém de 8 anos, correto o regime fechado em atenção ao incremento dado na primeira fase da dosimetria pelo vetor maus antecedentes. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+O recurso não merece ser provido.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Conforme outrora consignado, relativamente ao regime inicial de cumprimento de pena, embora aquém de 8 anos, correto o regime fechado em atenção ao incremento dado na primeira fase da dosimetria pelo vetormaus antecedentes .
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ART. 157, § 2º, II, DO CP). PENA-BASE ACIMA DO PATAMAR MÍNIMO. PRESENÇA DE UMA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo os §§ 2º e 3º do art. 33 do Código Penal, estabelecida a pena acima de 4 (quatro) anos e menor que 8 (oito) anos, em que pese à primariedade do réu, as circunstâncias judiciais desfavoráveis justificam a fixação do regime inicial fechado.
+Precedentes.
+2. No caso em apreço, em razão da quantidade de pena aplicada, caberia a imposição do regime prisional semiaberto. No entanto, diante da presença dos maus antecedentes do réu - tanto que a pena-base foi estabelecida e mantida acima do patamar mínimo -, não há ilegalidade na manutenção do regime fechado.
+3. Agravo regimental desprovido.
+(AgRg no HC 684.215/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 8/2/2022, DJe 15/2/2022).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. VALOR DA RES FURTIVA. REITERAÇÃO CRIMINOSA. MONITORAMENTO. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. REGIME ABERTO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+Hipótese em que é impossível a incidência do princípio da insignificância, dado o valor da res furtiva e os maus antecedentes ostentados pelo réu, inclusive pela prática de inúmeros crimes patrimoniais.
+É possível a consumação do delito de furto ainda que haja vigilância por meios eletrônicos no local dos fatos. Vale dizer, a existência de sistema de segurança não torna, por si só, o crime impossível.
+No caso, apesar de a pena aplicada ser inferior a 4 anos de reclusão, a reincidência e o registro de maus antecedentes justificariam, em consonância com o art. 33, § 2º, "c" e § 3º do CP, a aplicação do regime inicial fechado. Todavia, ante a ausência de irresignação do Ministério Público, permanece o semiaberto.
+Agravo regimental não provido.
+(AgRg no REsp 1838744/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/6/2020, DJe 1º/7/2020).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FURTO SIMPLES. DOSIMETRIA. PLEITO DE APLICAÇÃO DA FRAÇÃO DE 1/6 PARA MAJORAÇÃO DA PENA-BASE EM RAZÃO DOS MAUS ANTECEDENTES. DESCABIMENTO. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE JURIDICAMENTE VINCULADA. ACRÉSCIMO CONCRETAMENTE MOTIVADO. PLEITO DE REDUÇÃO DA FRAÇÃO DE AUMENTO DA PENA PELA REINCIDÊNCIA ESPECÍFICA. VIABILIDADE. REINCIDÊNCIA ESPECÍFICA QUE NÃO ENSEJA O INCREMENTO MAIOR QUE A USUAL FRAÇÃO DE 1/6. PRECEDENTE JULGADO PELA TERCEIRA SEÇÃO DESTA CORTE NO HC N. 365.963/SP. REGIME FECHADO. ACUSADO REINCIDENTE E COM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE OFENSA À SÚMULA N. 269 DESTA CORTE. MANUTENÇÃO DO REGIME MAIS GRAVOSO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O aumento na primeira fase da dosimetria, em razão dos maus antecedentes, seja reduzida ao patamar mínimo de 1/6, em observância ao princípio da proporcionalidade, ressalto, que a jurisprudência deste Tribunal Superior firmou-se no sentido de que deve ser adotada a fração paradigma de 1/6 (um sexto) para aumento ou diminuição da pena pela incidência das agravantes ou atenuantes genéricas, e não pela incidência de circunstâncias judiciais constantes do art. 59 do Código Penal, como defende a impetrante.
+III - Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade, como ocorreu no presente caso.
+IV - Alinhado à jurisprudência que se firmou no âmbito da Terceira Seção, extrai-se que a reincidência específica, justamente por não possuir maior desvalor no confronto com a atenuante da confissão espontânea, também não pode ensejar maior incremento da pena quando incidir, de forma isolada, na segunda fase da dosimetria.
+V - Sendo a paciente reincidente e portadora de circunstâncias judiciais desfavoráveis (maus antecedentes), o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Habeas Corpus não conhecido. Ordem concedida, de ofício, apenas para reduzir a fração de aumento decorrente da agravante da reincidência para 1/6 (um sexto) e redimensionar a pena do paciente definitivamente para 1 ano, 4 meses e 24 dias de reclusão, em regime fechado, mais pagamento de 14 dias-multa, mantidos os demais termos da condenação.
+(HC 578.638/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
