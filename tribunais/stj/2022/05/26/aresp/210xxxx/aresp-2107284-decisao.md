@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por HDI SEGUROS S.A. contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA INCÊNDIO.PERDA TOTAL. SEGURO RESIDENCIAL. IMÓVEL DESOCUPADO.OFENSA AO DEVER DE INFORMAÇÃO. DANOS MORAIS INOCORRENTES. PRESCRIÇÃO.
+1 . TRATANDO-SE DE AÇÃO ENVOLVENDO CONTRATO DE SEGURO RESIDENCIAL, APLICÁVEL, NA ESPÉCIE, A PRESCRIÇÃO ÂNUA, PREVISTA NO ARTIGO 206, §1º, II, "B", DO CC.
+2. O MARCO INICIAL DO PRAZO PRESCRICIONAL DEVE SER A DATA DO SINISTRO, MAS, TENDO HAVIDO PEDIDO ADMINISTRATIVO, HOUVE SUSPENSÃO DO PRAZO PRESCRICIONAL, ATÉ QUE O SEGURADO TIVESSE CIÊNCIA DA DECISÃO, NOS TERMOS DA SÚMULA 229 DO STJ.
+3 . CASO EM QUE NÃO HOUVE COMPROVAÇÃO DA CIÊNCIA INEQUÍVOCA DO AUTOR ACERCA DA NEGATIVA ADMINISTRATIVA, ÔNUS QUE INCUMBIA À PARTE RÉ E DO QUAL NÃO SE DESINCUMBIU, NOS TERMOS DO ART. 373, II, DO CPC, RAZÃO PELA QUAL NÃO HÁ FALAR EM IMPLEMENTAÇÃO DO PRAZO PRESCRICIONAL.
+4. O CONTRATO DE SEGURO EM QUESTÃO ESTÁ SUBMETIDO AO CÓDIGO DE DEFESA DO CONSUMIDOR, POIS ENVOLVE TÍPICA RELAÇÃO DE CONSUMO. ASSIM, INCIDE, NA ESPÉCIE, O ARTIGO 47 DO CDC, QUE DETERMINA A INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS DE MANEIRA MAIS FAVORÁVEL AO CONSUMIDOR.
+5. EM SE TRATANDO DE CONTRATO DE SEGURO, A SEGURADORA SÓ PODERÁ SE EXONERAR DE SUA OBRIGAÇÃO SE FICAR COMPROVADO O DOLO OU A MÁ-FÉ DO SEGURADO, AGRAVAMENTO OU EXCLUSÃO DO RISCO, SITUAÇÃO NÃO EVIDENCIADA NOS AUTOS.
+6. NÃO COMPROVADO O AGRAVAMENTO INTENCIONAL DO RISCOPELO AUTOR, TAMPOUCO QUE O FATO DE O IMÓVEL ESTAR DESOCUPADO TENHA CONTRIBUÍDO PARA TANTO, É DEVIDA A INDENIZAÇÃO SECURITÁRIA.
+7. AUSÊNCIA DE COMPROVAÇÃO NO SENTIDO DE QUE O SEGURADO FOI PREVIAMENTE INFORMADO ACERCA DAS CLÁUSULAS DE EXCLUSÃO DE COBERTURA, SENDO IMPOSITIVA A MANUTENÇÃO DA SENTENÇA DE PROCEDÊNCIA DA AÇÃO.
+8 . HAVENDO PERDA TOTAL DO IMÓVEL, O SEGURADO FAZ JUS À INDENIZAÇÃO PREVISTA NA APÓLICE, NÃO SE PERQUIRINDO ACERCA DOS PREJUÍZOS EFETIVAMENTE SOFRIDOS, UMA VEZ QUE O REFERIDO VALOR FOI ATRIBUÍDO PELA PRÓPRIA SEGURADORA, TENDO SIDO O PRÊMIO ESTIPULADO A PARTIR DESTE.
+9. JUROS MORATÓRIOS CONTADOS DA CITAÇÃO E CORREÇÃO MONETÁRIA A PARTIR DO SINISTRO.
+10. O DESCUMPRIMENTO CONTRATUAL, POR SI SÓ, NÃO DÁ ENSEJO AO RECONHECIMENTO DE DANOS EXTRAPATRIMONIAIS. CONSTITUI DANO MORAL APENAS A DOR, O VEXAME, O SOFRIMENTO OU A HUMILHAÇÃO QUE, EXORBITANDO A NORMALIDADE, AFETEM PROFUNDAMENTE O COMPORTAMENTO PSICOLÓGICO DO INDIVIDUO, CAUSANDO-LHE AFLIÇÕES, DESEQUILÍBRIO E ANGÚSTIA, SITUAÇÃO INOCORRENTE NOS AUTOS. SENTENÇA REFORMADA NO PONTO.
+RECURSO PARCIALMENTE PROVIDO.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts.186, 206, § § 1º, II, b, e 3º, V, e 927 do CC, defendendo a prescrição da pretensão de cobrança de indenização securitária, pois deduzida após o prazo ânuo aplicável, contado desde a recusa administrativa. Asseverou ser incontroverso o recebimento, pelo segurado, de carta sobre a negativa de cobertura, "pois em nenhum momento o recorrido discorre não ter recebido a carta, mas que quando entrou em contato com a seguradora, ora recorrente, o sinistro estaria em investigação".
+Contrarrazões apresentadas às fls. 275-277 (e-STJ).
+É o relatório. Decido.
+No caso dos autos, o Tribunal de origem afastou o implemento da prescrição da pretensão de cobrança de indenização securitária, com fundamento na ausência de prova sobre a comunicação da negativa administrativa na data de 17/11/2015(e-STJ, fl. 232):
+Na hipótese dos autos, muito embora o sinistro tenha ocorrido em 20-10-2015, a parte ré não restou em comprovar ciência inequívoca do autor acerca da negativa administrativa em 17-11-2015 (evento 2 da origem - procjudic1 - fl. 111), ônus que lhe incumbia e do qual não se desincumbiu, nos termos do art. 373, II, do CPC. Verifica-se, inclusive, que intimada para provar a cientificação da negativa administrativa, nada trouxe, restringindo-se a alegar não ter localizado o documento apto a tal comprovação (evento 2 da origem - procjudic1 - fls. 133-135). Dessa forma, não há falar em implementação do prazo prescricional.
+Desse modo, é inviável o conhecimento da pretensão recursal, porque o seu provimento não prescindiria do reexame direto das provas constantes dos autos,a fim de ser revisada a conclusão do Tribunal de origem,providência manifestamente proibida nesta instância, nos termos da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte ora agravante de 10% para 11% sobre o valor atualizado da condenação.
+Publique-se.
