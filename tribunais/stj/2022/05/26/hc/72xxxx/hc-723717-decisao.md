@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado de acórdão assim ementado (fl. 9):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO PELO MOTIVO FÚTIL E EMPREGO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA, NA MODALIDADE TENTADA - ART. 121 § 2º, II E IV C/C ART. 14, II, AMBOS DO CÓDIGO PENAL - PRISÃO PREVENTIVA DECRETADA E MANDADO CUMPRIDO EM 16/04/2016 - SENTENÇA CONDENATÓRIA QUE FIXOU A PENA DE 08 ANOS DE RECLUSÃO, EM REGIME FECHADO, E MANTEVE A CUSTÓDIA CAUTELAR - INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE DEVIDAMENTE FUNDAMENTADO - NÃO SE EXIGE FUNDAMENTAÇÃO EXAUSTIVA, SENDO SUFICIENTE QUE O DECRETO DE CONSTRIÇÃO, AINDA QUE DE FORMA SUCINTA, CONCISA, ANALISE A PRESENÇA, NO CASO EM CONCRETO, DOS REQUISITOS LEGAIS ENSEJADORES DA PRISÃO PREVISTOS NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL - CONDUTA IMPUTADA HEDIONDA, QUE FERE, SUBSTANCIALMENTE, A ORDEM PÚBLICA E GERA VIOLÊNCIA URBANA - PACIENTE QUE PERMANECEU ACAUTELADO DURANTE TODA A INSTRUÇÃO CRIMINAL - PRESENTES OS REQUISITOS PREVISTOS NO ART. 312 DO CPP - NÃO HOUVE QUALQUER MUDANÇA NO QUADRO FÁTICO-JURÍDICO QUE ENSEJOU O DECRETO DA PRISÃO PREVENTIVA - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime fechado, pela prática do crime tipificado no art. 121, § 2º, II e IV, c/c o 14, II, do CP.
+Na impetração, sustenta a defesa a falta de fundamentação para negar o direito de recorrer em liberdade, consignando que o paciente está preso há mais de 5 anos.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja deferida a liberdade ao insurgente, ainda que com a sua substituição por medidas cautelares diversas.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelonão conhecimento do habeas corpus e, caso conhecido, pela denegação.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Extrai-se da denúncia (fls. 39/40):
+ ..  No dia 11 de julho de 2015, por volta das 12h30min, na Rua M, próximo ao Colégio Francisco Portugal Neves, Vila Ema, Duque de Caxias/RJ, o denunciado, com vontade de matar, em comunhão de ações e desígnios com um indivíduo não identificado, efetuou dois disparos de arma de fogo contra MARLON DE PAULA CARVALHO, causando-lhe as lesões descritas no auto de exame de corpo de delito de fls. 50/51.
+O denunciado desembarcou do banco do carona de veículo GM/Astra, de cor verde, e disse: "VAI MORRER!", tendo então efetuado disparos contra MARLON.
+O crime não se consumou por circunstância alheia à vontade do denunciado, uma vez que os disparos não atingiram uma região letal do corpo da vítima.
+O crime foi praticado por motivo fútil, qual seja, porque MARLON abandonou o tráfico de drogas da comunidade Rodrigues Alves.
+O crime foi praticado por meio que dificultou a defesa da vítima, eis que MARLON foi pego de surpresa.  ..
+O decreto prisional apresentou os seguintes fundamentos (fl. 73):
+Em complemento à decisão que recebeu a denúncia, DECRETO A PRISÃO PREVENTIVA DO RÉU como requerido pelo Ministério Público já que presente o FUMUS COMISSI DELICTI pelo conjunto probatório trazido aos autos e que fornecem justa causa à presente demanda e o PERICULUM IN LIBERTATIS para manutenção da ordem pública, tendo em vista a gravidade, bem como para garantia da instrução penal, para que o réu não impossibilite, prejudique ou influencie no depoimento de qualquer testemunha. Expeça-se o competente mandado de prisão.
+Por sua vez, consta da sentença (fl. 33):
+Em razão de estar o acusado respondendo ao processo preso, acrescido do fato de permanecerem hígidos os requisitos que autorizaram a custódia cautelar do mesmo, nego ao réu o direito de apelar em liberdade.
+Como se vê, ainda quea prisão preventiva tenha sido decretada e mantida com arrimo na gravidade concreta do crime e nas circunstâncias fáticas, tendo a vítima sido pega de surpresa e alvo do crime por ter deixado o tráfico de drogas, verifica-sedos autosque a prisão preventiva do paciente foi decretada em 29/1/2016, com prisãoefetivadaem 16/4/2016.
+Em 23/6/2017, foi proferida a sentença de pronúncia, bem como mantida a prisão cautelar.A sentença condenatória, que fixou pena de 8anos de reclusão, foi proferida em 13/12/2021 (fl. 33). Em 23/2/2022, adefesa apresentousuas razões de apelação no juízo, conforme se extrai das informações processuais consultadas no site do Tribunal de origem.
+Com efeito, apesar de se tratar de feito complexo, ainda que tenha somente umréu, opaciente está custodiado preventivamente desde abril de 2016, em processo cuja sentença não definitiva data de dezembro de 2021, inexistindo, até o momento, previsão de julgamento em segunda instância.
+Esse tempo, levando em consideração a pena em concreto aplicada, qual seja, 8 anos de reclusão, permite a conclusão de desarrazoada duração da segregação, que chega a mais de 50% da pena, o que demonstra ilegalidade.
+Ante o exposto, concedoo habeas corpus para a soltura do paciente DANILO TORRES DOS SANTOS SILVA, o que não impede a fixação de medida cautelar diversa da prisão, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
