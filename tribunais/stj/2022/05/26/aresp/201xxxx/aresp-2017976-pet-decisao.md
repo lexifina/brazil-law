@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Petição apresentada por ELVIO DA CRUZ OLIVEIRA, na qual requerseja declarada extinta a punibilidade, pela prescrição.
+Para tanto, menciona que "fora ultrapassado o prazo prescricional desde a data do fato (2008 e 2009) até o recebimento da Denúncia (2015)" (fl. 859).
+Na Petição de n. 407307/2022 (fls. 884-887), reiterou-se o pedido, no sentido de que "seja acolhida a manifestação contida na Petição e-STJ Fl. 857-859 e no presente aditamento, para que seja decretada a Extinção da Punibilidade do acusado Elvio da Cruz Oliveira das imputações a ele impostas, na forma do art. 107, IV do Código Penal".
+Pelo despacho de fl. 895, foi concedida vista ao d. representante do Parquet Federal, que se manifestou pelo indeferimento do pleito.
+É o relatório.
+Decido.
+O pedido não merece acolhimento.
+No caso dos autos, requer a Defesa seja declarada extinta a punibilidade pela prescrição da pretensão punitiva.
+Consta dos autos que o ora agravante foi absolvido, pelo Juízo de primeiro grau, com fulcro no art. 386, VII, do Código de Processo Penal, das imputações a ele impostas de prática do delito previsto no art. 1º, I e II, c.c. o art. 12, I, da Lei n. 8.137/1990 (fls. 206-219).
+Extrai-se dos autos, outrossim, que o Ministério Público Estadual interpôs apelação perante o eg.Tribunal a quo, que deu "parcial provimento, para condenar o acusado Elvio da Cruz Oliveira, pelo cometimento do delito previsto no art. 1º, I e II, c/c art. 12, inciso I, ambos da Lei 8.137/90 c/c art. 71 do Código Penal Brasileiro, a pena de 7 (sete) anos de reclusão, com o pagamento de 300 (trezentos) dias-multa, cada um equivalente a 1/30 do salário mínimo vigente à época do fato" (fl. 513).
+Com efeito, da análise dos autos, verifica-se que o Tribunal de origem deu provimento ao recurso de apelação criminal para condenar o ora recorrente como incurso nas sanções do art. 1º, incisos I e II, c.c. o art. 12, inciso I, ambos da Lei n. 8.137/1990, nos termos do art. 71, caput, do Código Penal, à pena de 7 (sete) anos de reclusão, mais 300 dias-multa, em data de 16/12/2019, conforme Certidão de fl. 514.
+Nos termos do que dispõe o art. 109, inciso III, do Código Penal, o lapso temporal a ser considerado, no caso dos autos, é o de 12 (doze) anos, entre os marcos interruptivos, para efeito de eventual declaração da extinção da punibilidade, pela prescrição.
+In casu, contudo, razão não assiste ao peticionante, pois verifica-se que os delitos foram cometidos entre os anos de 2008 e 2009, tendo o recebimento da denúncia ocorrido em data de 27/08/2015 (fl. 48).
+Conforme preceitua o art. 117, inciso I, do Código Penal, o recebimento da denúncia é considerado marco interruptivo da prescrição, e, portanto, considerando a pena aplicada no caso dos autos, qual seja, de 7 (sete) anos de reclusão, o prazo a ser considerado para efeito de implemento da prescrição é o de 12 (doze) anos, entre a data do fato (2007/2008) e a data do recebimento da denúncia, ocorrido em 27/08/2015 (fl. 48) que, nos termos acima expostos, não se verificou, tampouco até a data da prolação do édito condenatório, verificado em data de16/12/2019, conforme Certidão de fl. 514.
+Conforme consignado pelo d. representante do Ministério Público Federal, em sua manifestação (fls. 897-898, grifos no original):
+"O pedido não deve ser acolhido.
+O agravante foi condenado em 16/12/19, em sede de apelação, à pena de 7 anos de reclusão, pelo delito previsto no art. 1º , I e II, c/c art. 12, inciso I, ambos da Lei nº 8.137/90 c/c art. 71 do CP, sendo considerado o lapso de 12 anos, entre os marcos interruptivos da prescrição, para fins de extinção da punibilidade (art. 109. III, do CP). No caso, o crime foi cometido nos anos 2008 e 2009, tendo sido a denúncia recebida em 27/08/2015 (fl. 48). Nos termos do art.117, I, do CP, o recebimento da denúncia é causa interruptiva da prescrição.
+Assim sendo, considerada a pena aplicada em concreto (fl.483 ), o lapso prescricional de 12 anos entre o fato e a data do recebimento da denúncia, não se encontram preenchidos os requisitos necessários ao reconhecimento da prescrição e extinção da punibilidade, não se tratando de possibilidade de reconhecimento de prescrição na modalidade retroativa.
+Assim, de fato, in casu, tendo em vista a adoção do novo entendimento acima mencionado, não houve o implemento da prescrição da pretensão punitiva, pois não passados mais de 12 (doze) anos, entre os marcos interruptivos verificados nos autos.
+Pelos fundamentos acima expostos, indefiro o pedido formulado na presente Petição de n. 341838/2022.
+Por conseguinte, julgo prejudicada, nos termos do art. 34, inciso XI, do RISTJ, por perda de objeto, a Petição de n. 407307/2022, por conter o mesmo pleito contido na supracitada petição ora julgada.
+P. e I.
+EMENTA
+PENAL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLEITO DE DECLARAÇÃO DE EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA.INVIABILIDADE. NÃO IMPLEMENTO DA PRESCRIÇÃO ENTRE OS MARCOS INTERRUPTIVOS. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELO INDEFERIMENTO.PETIÇÃO INDEFERIDA.
