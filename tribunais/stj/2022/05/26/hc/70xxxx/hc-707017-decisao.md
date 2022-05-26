@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpussempedido de liminar impetrado em favor de JEFFERSON LIMA DAS NEVESemque se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1511728-27.2021.8.26.0228).
+Em primeiro grau, opacientefoi condenadoàs penas de 9anos, 1 mês e 20 dias de reclusão emregime inicial fechadoe de 691dias-multa, pela prática dodelitodescritonoart. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao recurso de apelação defensivo.
+Nas razões do presente writ, a defesa alega que o paciente está sendo vítima de constrangimento ilegal, tendo em vista a ilegitimidade das provas produzidas em razão da violação de domicílio.
+Sustenta que, no caso concreto, não foi apresentado nenhum elemento que pudesse ser constatado antes do flagrante e que demonstrasse que o paciente estava praticando os delitos apurados.
+Requero reconhecimento da falta de justa causa para realização da violação de domicílio e, consequentemente, a absolvição do paciente.
+O Tribunal de Justiça do Estado de São Pauloapresentou informações às fls. 57-75.
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício (fls. 79-86).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Não há falar em ilicitude da prova colhida com base em ingresso forçado de policiais no domicílio do acusado.
+Isso porque, segundo o acórdão, houve justa causa e controle judicial posterior do ato, pois as provas colhidas na fase preliminar de inquérito foram repetidas e validadas em juízo com base no contexto fático-jurídico exposto na denúncia, levando, inclusive, à prisão preventiva do acusado.
+Confira-se excerto do acórdão (fl. 37, destaquei):
+Por primeiro, faz-se necessário afirmar a licitude das provas colhidas a partir da prisão em flagrante do apelante e que deram respaldo à denúncia, porquanto os policiais tinham elementos confirmatórios a apontar para a alta probabilidade de cometimento de ilícito no local, visto que receberam informações de que havia no imóvel um indivíduo foragido. Não bastasse, o apelante, ao perceber que policiais estavam no portão de sua residência, tentou fugir pulando muros.
+Portanto, o ingresso dos policiais na residência do apelante sem mandado judicial não configura nulidade, por se tratar de crime de tráfico, de natureza permanente. Assim, está caracterizada a exceção ao artigo 5º, inciso XI, da Constituição Federal, ressaltando-se que os agentes públicos, ao perseguirem dois indivíduos em atitude suspeita, tiveram a entrada no imóvel franqueada por uma das testemunhas.
+Constatou-se, portanto, que os policiais, diante de atitude suspeita, perseguiram o paciente que tentou fugir pulando o muro da residência. Ao adentrarem no imóvel, os policiais encontraram vultuosa quantidade de cocaína. Esses motivos configuram exigência capitulada no art. 204, § 1º, do CPP, a saber, a demonstração de fundadas razões para a busca domiciliar, não subsistindo os argumentos de ilegalidade da prova ou de desrespeito ao direito à inviolabilidade de domicílio.
+Esse entendimento está em consonância com a jurisprudência do STJ de que "o ingresso regular em domicílio alheio, na linha de inúmeros precedentes dos Tribunais Superiores, depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata - é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (HC n. 598.051/SP, Sexta Turma, relator Ministro Rogerio Schietti Cruz, DJe de 15/3/2021).
+Ademais, a orientação acima atende aos pressupostos estabelecidos no Tema n. 280, submetido pelo STF ao regime de repercussão geral no RE n. 603.616/RO, em que ficou definido que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori" (RE n. 603.616/RO, relator Ministro Gilmar Mendes, DJe de 8/10/2010).
+Portanto, realizado o controle judicial do ato, ainda que posteriormente, não há falar, de plano, em ilicitude das provas produzidas.
+Registre-se também que o momento processual da ação penal originária - ocorrido o julgamento da apelação - inviabiliza a análise da tese defensiva em toda a sua extensão, visto que há nítida necessidade de dilação probatória, situação não permitida no rito especial do habeas corpus.
+Nesse sentido, os seguintes precedentes do STJ: HC n. 431.708/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/5/2018; AgRg no HC n. 681.870/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2021; AgRg no RHC n. 146.915/RJ, relator Ministro Olindo Menezes, Desembargador Convocado do TRF1, Sexta Turma, DJe de 31/8/2021.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
