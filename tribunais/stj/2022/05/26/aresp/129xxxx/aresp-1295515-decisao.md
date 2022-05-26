@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ASSOCIAÇÃO DE ASSISTÊNCIA AOS TRABALHADORES EM EDUCAÇÃO NO DISTRITO FEDERAL contra acórdão do Tribunal Regional Federal da 2ª Região, o qual não conheceu da apelação interporta por aquela pessoa jurídica, por ausência de capacidade postulatória (e-STJ fls. 752/765).
+A parte recorrente opôs embargos de declaração em face da decisão, que foram rejeitados (e-STJ fls. 784/794)..
+Defende a parte recorrente, preliminarmente, violação do art. 535, II, do CPC/1973.
+No mérito, sustenta ofensa aos arts. 24, §§ 1º e 2º da Lei n. 9.656/1998 e 6º, 7º e 12 do CPC/1973.
+Contrarrazões (e-STJ fls. 827/832 e 835/857).
+Inadmitido o recurso na origem, foi interposto agravo (e-STJ fls. 867/877).
+É o que importava relatar.
+Observoque o recurso especial foi instruído com a guia de custas e o respectivo comprovante de pagamento, STJ fls. 821/824, sendo suficiente para atender a demonstração de preparo recursal, pelo que merece reforma a decisão de inadmissão de e-STJ fl. 865.
+Passo ao exame do apelo especial.
+De início, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+Na espécie, verifica-se que a parte recorrente, na apelação, fundamentou o recurso na (suposta) impossibilidade de se realizar decretação da liquidação extrajudicial de associação, por força de proteção constitucional (art. 5º, XVIII e XIX, da CF).
+Esse entendimento, porém, foi rejeitado quando do julgamento do apelo, por ter promovido, a Corte Regional, a interpretação sistemática daqueles dispositivos com outros do sistema jurídico, que, em tese, admitiriam a intervenção extrajudicial. Veja-se:
+Até ser afastada a caracterização da associação como operadora de planos privados de assistência à saúde, mais uma vez, pelos eventuais prejudicados (ex-dirigentes, associados, etc.) devidamente representados, descabe, em tese, a alegação de violação ao art. 5º, XVIII e XIX da Constituição, por conta da relevância pública da atividade desenvolvida, submetida ao controle do Estado e à fiscalização da ANS, a teor dos artigos 197 da Constituição, 24 da Lei 9.656/98 e 4º, XXXIV da Lei 9.961/2000. (e-STJ fl. 760/761)
+Isto é, quanto a esse ponto, o Tribunal de origem, ainda que sucintamente, enfrentou o argumento e estabeleceu fundamentação clara e congruente.
+A Associação opôs embargos de declaração, alegando omissão sobre o referido artigo constitucional, e foi além, no que sustentoua necessidade de fundamentação sobre o art. 24, §§ 1º e 2º da Lei n. 9.656/1998.
+Ocorre que, nesse último aspecto, a embargante apresentava inovação recursal, porque não teria defendido a necessidade de deflagração de processo administrativocom contraditório e ampla defesacomo requisito prévio ao afastamento do comando da associação, ou seja, buscou a parte, em sede de aclaratórios, apresentar novo fundamento de mérito, em vez de demonstrar, tecnicamente, omissão do acórdão quanto a algum argumento anteriormente apresentado em sua defesa.
+Com isso, verifica-se que queria a embargante tão somente rediscutir os fundamentos da decisão no trecho em que lhe foi desfavorável, inclusive mediante inovação recursal, não se prestando os aclaratórios a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AREsp 1265177/SP, rel. Ministro MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 28/03/2022, DJe 30/03/2022; EDcl no AgInt no REsp 1896032/SP, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 08/09/2021, DJe 13/09/2021.
+Portanto, não verifico a alegada violação do art. 535, II, do CPC/1973.
+No mérito propriamente dito, não conheço da alegação de violação dos seguintes arts.: 24, §§ 1º e 2º, da Lei n. 9.656/1998 e 6º, 7º e 12 do CPC/1973, porque não foram prequestionados na origem (Súmulas 211/STJ e 282/STF).
+Registre-se que "não configura impropriedade afirmar a falta de prequestionamento da matéria e afastar indicação de afronta ao art. 535 do CPC/73, uma vez que é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está o magistrado obrigado" (AgInt no REsp 1442970/RS, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/02/2020, DJe 02/03/2020).
+Nesse mesmo sentido: STJ, AgRg no REsp 1.181.095/RS, rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 29/10/2014; AgRg no AREsp 508.461/SC, rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 16/10/2014.
+No particular, essa aparente incongruência é ainda menor, já que, como dito, os embargos de declaração foram opostos não com a finalidade de indicar omissões ou de prequestionar a matéria, e sim de inovar a discussão de mérito com argumentos antes não apresentados.
+Quanto aos arts. 6º, 7º e 12 do CPC/1973, embora a Associação os tenha mencionado na apelação, não houve debate expresso sobre o conteúdo dessas normas na origem e, em relação àqueles, não houve interposição de aclaratórios com a finalidade de prequestionamento.
+Ante o exposto, CONHEÇO do agravo, para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
