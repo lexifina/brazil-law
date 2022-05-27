@@ -1,0 +1,24 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1010069-28.2022.8.11.0000
+Vistos etc.
+Trata-se de Agravo de Instrumento interposto por MANOEL DOS SANTOS em virtude de decisão proferida pelo Juiz da Vara Única da Comarca de Rosário Oeste que, nos autos dos Embargos de Terceiro com Pedido Liminar de Reintegração de Posse n.° 1000709-70.2022.8.11.0032 movida pelo ESPÓLIO DE FREDEVINDO MARCHIORI, deferiu o pedido liminar para reintegrar o Espólio Agravado na posse do imóvel rural objeto dos autos.
+Inconformado, insurge-se o Recorrente pleiteando a reforma da decisão objurgada ao argumento de que é o legítimo possuidor do imóvel objeto do litígio, assim especificado: “Fazenda Lages”, com as características e confrontações constantes na Matricula de no. 1.060 do CRI da Municipalidade de Rosário Oeste/MT, a qual perfaz o total de 4.896,00 hectares, englobando a área de 2.249 hectares mais a área contígua de 2.746,45 hectares.
+Sustenta que a posse exercida pelo Agravante no imóvel rural sub judice está subsidiada em decisão judicial proferida em 27.04.2022 nos autos do processo n.o 1000419-55.2022.8.11.0032, que autorizou a reintegração do Recorrente na posse do imóvel em questão.
+Destaca que desde 31/10/2018 exerce posse mansa e pacífica sobre o imóvel litigioso, de sorte que, a todo o tempo em que lá permaneceu, investiu no bem para tornar a terra mais produtiva, cumprindo, assim, com a função social da propriedade.
+Por derradeiro, afirma que a manutenção da decisão acarretará graves prejuízos ao Recorrente, posto que, segundo alega, todo o investimento aplicado no imóvel rural sub judice está se esvaindo com a posse da Agravada.
+Com base nessas assertivas, requer seja agregada suspensividade ao recurso para, dede logo, sobrestar a decisão vergastada, até o julgamento do mérito deste Instrumental. No mérito, pugna pelo provimento do recurso, confirmando-se a medida ora pleiteada.
+É, no essencial, o relatório. DECIDO.
+Da análise dos autos e da documentação que o acompanha, nesta fase de cognição sumária, não é possível vislumbrar a confluência dos pressupostos para a concessão da medida in limine.
+Com efeito, em que pese as alegações expostas pelo Recorrente, observo que o conjunto fático-probatório produzido até o momento, milita em favor da Embargante, ora Agravada.
+Exsurge dos autos que a área objeto do litígio é integrante da “Fazenda Lages”, a qual perfaz o total de 4.896,00 hectares, cujo imbróglio possessório foi tratado inicialmente nos autos da reintegração de posse de n° 0000009-69.1989.8.11.0032, proposta pelo falecido substituído pelo Espólio ora Recorrido.
+Naqueles autos (processo n.o 0000009-69.1989.8.11.0032) a posse foi garantida ao de cujus FREDEVINDO MARCHIORI no ano de 2009, ratificada em 2020 por sentença e mantida quando do indeferimento do efeito suspensivo em sede liminar de Agravo de Instrumento perante em Segunda Instância e, posteriormente ratificada por unanimidade pelo Colegiado da Quarta Câmara de Direito Privado deste Egrégio, cujo Acórdão manteve o Espólio na posse do bem, como se vê do decisum acostado ao ID. 103134960 – pág. 226/daqueles autos.
+Essas circunstâncias revelam que o perigo de dano é inverso, posto que há decisão Colegiada proferida neste 2.o Grau de Jurisdição que ratificou decisão liminar de reintegração de posse em favor do Espólio Agravado, cujo decisum foi cumprido em 08.08.2009, ou seja, muito antes da posse exercida pelo Agravante, o qual afirma que ocorreu em 31/10/2018. Isto significa dizer que, uma vez garantido ao Espólio Recorrido a posse do bem objeto da lide, concedida inicialmente em 2009, eventual reintegração de posse conferida ao Recorrente, neste momento, causaria maior prejuízo ao Agravado, eis que possuidor da coisa há quase 13 (treze) anos.
+Nessa linha de intelecção, não entrevejo justificativa plausível para, nesta quadra processual, sobrestar o decisum objurgado, porquanto, como destacado alhures, o conjunto probatório até o momento anexado milita em favor do Espólio Agravado, que demonstrou nos autos de origem ser possuidor de boa-fé do bem litigioso desde o ano de 2009.
+De todo o exposto, por não vislumbrar preenchidos os pressupostos autorizadores para a concessão da medida liminar ora vindicada, é de rigor o indeferimento da tutela recursal.
+Saliento, por fim, que o convencimento firmado neste estágio precoce do feito será devidamente confrontado com provas que forem colhidas ao longo da marcha processual, não vinculando o Juiz singular ou o mérito da causa ao vertente decisum.
+Com essas considerações, indefiro a suspensividade pleiteada.
+Intime-se o Espólio Agravado para, querendo, apresentar contraminuta, nos termos do artigo 1.019, II, do Código de Processo Civil.
+Comunique-se o teor deste decisum à Juíza da causa, com urgência.
+Cumpra-se.
+Cuiabá, 27 de maio de 2022.-
+Des.a Marilsen Andrade Addario
+Relatora em substituição legal
