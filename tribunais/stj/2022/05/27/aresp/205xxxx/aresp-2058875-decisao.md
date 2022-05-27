@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FAZENDA DO ESTADO DE SÃO PAULO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"RECURSO DE APELAÇÃO CUMPRIMENTO DE SENTENÇA URV
+1. Trata-se de recurso de apelação interposto contra a r. sentença por meio da qual a D. Magistrada a quo, em fase de cumprimento de sentença, declarou extinta a execução, sob o fundamento de que a carreira dos autores foi reestruturada por Leis Complementares, inexistindo diferenças a serem pagas, sem prejuízos a serem reparados. Em razão da sucumbência, condenou a vencida, ora apelante, ao pagamento das despesas processuais e dos honorários de advogado, estes fixados em 10% do valor atualizado da causa, mas observada a gratuidade da justiça conferida no bojo dos autos.2. V. acórdão na fase de conhecimento que reconheceu o direito dos autores à conversão dos vencimentos com recálculo pela sistemática da Lei n. 8.880/94; fase de execução que se mostra o momento apropriado para apuração do termo final de aplicação de eventual percentual decorrente da conversão em URV. Legislação acostada aos autos que, por si só, não comprova a completa absorção das eventuais diferenças devidas. Necessidade de prova técnica para tanto. Reforma da r. sentença. Recurso provido" (fl. 272e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 535, § 5º e § 7º, 536, § 4º; 786 e 803, I, todos do CPC/2015, e do art. 1º do Decreto20.910/32.
+Para tanto, sustenta:
+"III. LIMITAÇÃO TEMPORAL - SUPERVENIÊNCIA DE NOVO PADRÃO REMUNERATÓRIO: PRECEDENTES DO C. STJ e C. STF.
+Inicialmente cumpre consignar que o r. Julgado não encontra-se adequado aos termos do acórdão proferido no Recurso Extraordinário 561.836/RN, ou seja, a limitação de eventuais diferenças à reestruturação do padrão de vencimentos, questão que, se analisada, conduziria inevitavelmente à improcedência da ação.
+O E. STJ igualmente possui jurisprudência consolidada no sentido de que o direito a uma eventual correção na conversão da URV em Real está necessariamente limitada à superveniência de Lei que fixe nova remuneração para aquela carreira.
+A impossibilidade de fixação de um marco temporal que limita a pretensão a uma eventual correção pela URV cria uma espécie de erro incorrigível, o que evidentemente não pode ser admitido.
+Isto sob pena de se eternizar uma discussão, como pretendem os recorridos, relevando a legislação que disciplinou efetivamente a remuneração dos autores da ação.
+Destarte, a INEXIGIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL fundado em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo Supremo Tribunal Federal como incompatível com a Constituição Federal, em controle de constitucionalidade concentrado ou difuso é matéria atinente a fase de cumprimento (art. 535, §7º, CPC), não se podendo considerar preclusa a matéria.
+(..)
+IV. APLICAÇÃO DO ART. 535 §5º E ART. 536, § 4º, DO CPC. NÃO HÁ OFENSA À COISA JULGADA.
+Pois bem, uma vez caracterizada a prescrição por aplicação do julgado sob regime de Repercussão Geral, esta deverá se dar em nível de execução com a aplicação in totum do art 535 §5º, c/c art. 536, § 4º, do CPC, sem qualquer ofensa à coisa julgada.
+Não há qualquer ofensa à coisa julgada uma vez nos termos do art 535 § 5º do CPC o título em execução poderá ser declarado inexigível quando assim considerado pelo STF em controle de constitucionalidade difuso, o que é o caso. Conforme exposto acima o STF admitiu como limitação temporal a reestruturação da carreira do servidor e este julgado teve repercussão geral.
+(..)
+No mesmo sentido, aplica-se a regra do artigo 536, § 4º, do CPC, que autoriza a aplicação da norma do artigo 525, § 12, do CPC, de teor semelhante.
+Assim, a conclusão do presente caso, em face da situação concreta dos autos, é de que nada é devido em termos de diferenças, e que a reestruturação de novo marco temporal aos pretensos recálculos que o agravado postula.
+Ademais, conforme decisão do STJ, a Fazenda pode suscitar a questão da reestruturação em sede de embargos à execução, tendo em vista que não está incluída nos limites da coisa julgada objeto do título exequendo. (AgRg no Recurso Especial nº 1.151.522).
+(..)
+V. DA LIQUIDAÇÃO IGUAL A ZERO.
+Apenas em apreço ao princípio da eventualidade, mister reconhecer, quando menos, que a parte exequente não sofreu perdas salariais com a conversão da moeda efetuada pelo Estado de São Paulo.
+Nos termos do art. 22 da Lei nº 8.080/94, o pagamento dos servidores deveria ser feito pela média que é apurada em confronto com o valor do ultimo dia do mês:
+(..)
+Em tais condições, verifica-se a inexistência de prejuízo decorrente da conversão dos vencimentos dos demandantes nos termos da Lei 8884/94, no caso dos pagamentos de vencimentos no 5º dia útil do mês subsequente, redundando liquidação igual a zero por ausência das diferenças, que, ademais, já estão superadas por reestruturação de carreira.
+VI. DA NULIDADE DE EXECUÇÃO FUNDADA EM TÍTULO ILÍQUIDO.
+Não obstante a existência de coisa julgada sobre o an debeatur, não é possível promover a execução do julgado pelo fato do acórdão exequendo não ter decidido sobre a diferença devida para a parte autora.
+Como se vê, o acórdão exequendo limitou-se a determinar a aplicação da Lei nº 8.880/1994 e o pagamento das respectivas diferenças salariais, sem que houvesse a apuração das perdas eventualmente sofridas pela parte autora.
+A ausência do índice para a correção das supostas perdas sofridas inviabiliza a execução da obrigação de fazer, uma vez que não há como efetuar o apostilamento e pagamento em folha de título ilíquido.
+Com efeito, para que seja possível efetuar o apostilamento e efetuar a respectiva implantação do ganho em folha de pagamento, é preciso saber exatamente o percentual devido para cada um dos agravados.
+Da mesma forma, a elaboração das planilhas só é possível quando houver a definição do percentual devido no período abrangido pela decisão exequenda" (fls. 286/302e).
+Por fim, requer "que seja o presente recurso especial admitido e provido, para reformar o v. acórdão prolatado pelo E. Tribunal de Justiça, reformando-se o v. acórdão e acolhendo-se a impugnação apresentada pela Fazenda Estadual, em face da inexigibilidade do título executivo e da existência de nulidade absoluta da execução promovida pela recorrida, em virtude da iliquidez do título executivo" (fl. 306e).
+Sem contrarrazões.
+Inadmitido o Recurso Especial (fl. 331e), foi interposto o presente Agravo (fls. 357/379e).
+Sem contraminuta.
+Conheço do Agravo, todavia o Recurso Especial não merece ser conhecido.
+Na origem, trata-se de Cumprimento de Sentença proposto pela parte orarecorrida, com o objetivo de obter "o apostilamento de título para efeitos de recálculos de vencimentos, decorrentes de sua não conversão em URV" (fl. 219e).
+Julgada extinta a execução, recorreu o autor,tendo sido reformada a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Quanto à alegada ofensa aos arts. 535, §§ 5º e 7º, 536, § 4º, 786 e 803, I, do CPC/2015, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada aosdispositivostidoscomo violadosnão foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou o que segue:
+"Ora, não bastando a mera reestruturação para o estabelecimento do termo final do quanto devido, uma vez que deve vir acompanhada de correção da defasagem da remuneração em valores superiores aos devidos relativos a URV, somente em liquidação de sentença é que poderá se apurar se as mencionadas leis complementares bastaram para suprir o aludido déficit, e se, de fato, resultaram na regularização das perdas oriundas da inflação quando da conversão dos salários para URV, adotando critério mais benéfico do que o trazido nos incisos do art. 22 da Lei n. 8.880/94. A legislação acostada aos autos, por si só, não comprova cabalmente a inexistência de defasagem.
+Destarte, considerando o excerto acima destacado, para um efetivo cumprimento do julgado colegiado, pressupõe-se, no mínimo, realização de prova técnica.
+Deve, pois, ser apurada a quantia a executar, prosseguindo-se o feito na instância de origem com a devida liquidação de sentença a ser encetada pelos apelantes, para fins de cumprimento do título executivo judicial em respeito, inclusive, ao decidido no julgado STF n. 561.836/RN" (fl. 276e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a este Tribunal, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
