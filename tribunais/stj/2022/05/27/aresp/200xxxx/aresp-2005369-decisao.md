@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CLAUDEMIR GIBRIMcontra decisão que inadmitiu o recurso especial ao argumento de ser desnecessária a análise do vício de fundamentação aduzido e de incidência da Súmula n. 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial)(e-STJ, fls. 3.547-3.553).
+O agravante sustenta: i) excessiva genericidade da decisão de inadmissibilidade; ii) inaplicabilidade do óbice sumular sobre a insurgência fundada no vício de fundamentação do acórdão; iii) ser desnecessário o exame de fatos e provas para verificar que tômbolo não configura área de preservação permanente (APP); e iv) terem sido aplicadas legislações ou revogadas ou ainda não em vigor na época dos fatos(e-STJ, fls. 3.567-3.585).
+Parecer pelo desprovimento do agravo (e-STJ, fls. 3.671-3.676).
+Processo com preferêncialegal (art. 12, § 2º, VII, do CPC/2015, combinado com a Meta 6/CNJ/2022 - "Identificar e julgar até 31/12/2022: 99% dos recursos oriundos de ações coletivas distribuídos a partir de 1º/1/2015" eMeta 12/CNJ/2022- "Identificar e julgar 65% dos processos relacionados às ações ambientais, distribuídos até 31/12/2021").
+É o relatório.
+O agravo não comporta conhecimento.
+A decisão de inadmissibilidade se funda claramente em dois pontos distintos: i) inexistência de vício de fundamentação e ii) incidência da Súmula n. 7/STJ sobre os demais aspectos.
+O agravante confunde os pontos e limita-se a infirmar apenas a aplicação do óbice sumular, nada aduzindo, em concreto, sobre os alegados vícios de fundamentação. Seu agravo, quanto a esse tema, diz apenas (e-STJ, fls. 3.571-3.573):
+Cabe esclarecer que neste Recurso Especial se discute, também, a nulidade do Acórdão do Tribunal Regional Federal da 4ª Região que julgou os Embargos de Declaração por não ter suprido os vícios do acórdão embargado.
+O presente recurso trata eminentemente de matéria de direito relativa ao enquadramento legal da situação de fato reconhecida pelo acórdão recorrido. Assim, perfeitamente viável a análise, por meio desta via recursal, da adequada aplicação dos dispositivos infraconstitucionais indicados como violados.
+6 - Acerca do real alcance da Súmula 7 do Egrégio Superior Tribunal de Justiça - cujo Enunciado dispõe: "A pretensão de simples reexame de prova não enseja recurso especial" -, cabe atentar que não há confundir o vedado reexame de fatos e provas com o enquadramento jurídico dos fatos cuja existência já se encontra afirmada pelo acórdão recorrido.Assim já se manifestou o STJ: ..
+Assim, perfeitamente viável a análise, por meio desta via recursal, da adequada interpretação e aplicação dos dispositivos infraconstitucionais mencionados, pois, embora opostos Embargos de Declaração, não foram apreciados os argumentos do ora recorrente, o que contrariou o artigo 1.022, inciso II e parágrafo único, inciso II, c/c artigo 489, § 1º, ambos do CPC.
+Como se evidencia, não se aponta em qualquer trecho do agravo quais seriam os vícios de fundamentação efetivamente presentes no acórdão local aptos a ensejar a nulidade do julgado. Destaque-se: a decisão de inadmissibilidade não aplicou o óbice sumular no ponto, como combatido pela parte.
+A falta de impugnação específica da decisão agravada atrai a incidência da Súmula n. 182/STJ (É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada). Tal decisão, como sabido, é incindível, não sendo viável o conhecimento do agravo que deixa de impugná-la integralmente.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
