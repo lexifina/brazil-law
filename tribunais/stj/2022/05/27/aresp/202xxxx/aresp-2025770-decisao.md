@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por JUNIOR SANSSANOVIEZcontra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. QUEIMADURA ENVOLVENDO 40 - 49% DA SUPERFÍCIE CORPORAL DECORRENTE DE EXPLOSÃO PROVOCADA POR LANÇAMENTO DE ÁLCOOL ÀS CHAMAS DE CHURRASQUEIRA.
+SENTENÇA DE PARCIAL PROCEDÊNCIA.
+INSURGÊNCIA DO REQUERIDO
+PRELIMINAR. CERCEAMENTO DE DEFESA, ANTE O JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. PERÍCIA MÉDICA PRESCINDÍVEL. FOTOGRAFIAS E DOCUMENTOS MÉDICOS E HOSPITALARES JUNTADOS AOS AUTOS QUE SÃO SUFICIENTES PARA DEMONSTRAR A EXISTÊNCIA DE DANO ESTÉTICO E SUA VALORAÇÃO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO E DA LIVRE ADMISSIBILIDADE DAS PROVAS.PRECEDENTES DESTA CORTE. OITIVA DE TESTEMUNHAS, IGUALMENTE, DISPENSÁVEL, POR NÃO INFLUENCIAR NO RESULTADO DA DEMANDA. REVELIA DO RÉU QUE IMPLICA PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS ALEGADOS PELO AUTOR. REQUERIMENTO DO DEMANDADO DE PRODUÇÃO PROBATÓRIA FORMULADO EM TEMPO OPORTUNO (ART. 349 DO CPC). NÃO OBSTANTE, PROVAS CONSTANTES NOS AUTOS SUFICIENTES A FORMAR A CONVICÇÃO DO MAGISTRADO. EXEGESE DOS ARTS. 370 E 371 DO CPC. PREFACIAL REJEITADA.
+MÉRITO. PRETENSÃO DE REDUÇÃO DOS DANOS MORAIS.ACOLHIMENTO PARCIAL. NECESSIDADE DE OBSERVÂNCIA DOS CRITÉRIOS DA PROPORCIONALIDADE E RAZOABILIDADE, BEM COMO DOS PARÂMETROS DEFINIDOS PELA CORTE.
+PLEITO DE MINORAÇÃO DOS DANOS ESTÉTICOS. INVIABILIDADE.PROPORCIONALIDADE COM O GRAVAME SOFRIDO PELO AUTOR.
+HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE DE FIXAÇÃO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO. " (e-STJ, fls. 638/639)
+Nas razões do recurso especial, a parteagravante alega violação dos arts. 9º e 10, do CPC/15, sustentando, em síntese,"diante do não acolhimento da preliminar de cerceamento de defesa e falta de intimação nos termos dos arts. 9º e 10 do Código de Processo Civil, aliado a vultosa fixação de danos morais, apresenta-se a esta Corte, o presente Recurso Especial, a fim de que seja declaração a nulidade do Acórdão e da Sentença pelo fato de o Recorrente não ter sido intimados após a sua habilitação nos autos situaçãonão permitida diante da disposição dos arts. 9º e 10 do Código de Processo Civil, que é Lei federal."(e-STJ, fls. 664/665)
+É o relatório. Decido.
+No que tange à alegação violação dos arts. 9º e 10, do CPC/15,tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor dos dispositivos legais citados, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja, o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C.STF). Por oportuno, leiam-se estes julgados:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO.AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL.CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", doRI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
