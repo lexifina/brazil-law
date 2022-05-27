@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu recurso especial interposto pelas CENTRAIS ELÉTRICAS BRASILEIRAS S.A - Eletrobrás, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado, in verbis:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS.CONVERSÃO EM AÇÕES. PRESCRIÇÃO. TERMO FINAL DOS JUROS REMUNERATÓRIOS. PRECEDENTES.
+1. Conforme estabelecido em precedentes desta E. Corte Regional e do C. STJ, a faculdade da Eletrobrás de conversão dos créditos em ações é possível desde que a AGE seja posterior ao trânsito em julgado da demanda.
+2. A liquidação em andamento não abrange diferenças de correção monetária sobre juros remuneratórios pagos em julho de cada ano, mediante compensação em contas de energia. Portanto não há interesse recursal a respaldar a discussão pretendida.
+3. O atual entendimento da Primeira Turma do TRF4, alinhado ao C.STJ, é no sentido de que, mesmo nos casos em que tenha havido a quitação de parte do empréstimo compulsório mediante a conversão dos créditos dos contribuintes em ações, o saldo remanescente deve continuar sendo remunerado nos moldes do Decreto-Lei 1.512/1976 até a data do efetivo pagamento das diferenças aos consumidores.
+No referido julgamento restou assentado ainda que é devida a incidência de juros remuneratórios até o efetivo pagamento.
+A recorrente, em seu recurso especial, alega ofensa dos arts. 4º, §9º da Lei nº 4.156/62 e 3º do DL n. 1.512/76.
+Sustenta, em síntese, que não seria necessária uma nova AGE posterior ao trânsito em julgado da demanda para a conversão dos créditos.
+Afirma que a correção monetária deve ter como termo inicial o dia primeiro de janeiro do ano seguinte ao da cobrança do tributo.
+Argumentou que o índice de correção monetária aplicável é a OTN no período, sem considerar os expurgos inflacionários.
+Alegou ainda que o termo final dos juros remuneratórios é a data de conversão do crédito em ações.
+Finalmente considerou não ser devido o pagamento de juros.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+Sobre a necessidade de AGE após o trânsito em julgado, verifica-se que o acórdão recorrido se encontra em consonância com a Jurisprudência do Superior Tribunal de Justiça sobre a faculdade de conversão dos créditos em ações desde que a AGE seja posterior ao trânsito em julgado da demanda. Sobre o assunto confira-se:
+TRIBUTÁRIO. ADMINISTRATIVO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. TRÂNSITO EM JULGADO DA SENTENÇA. NECESSIDADE DE REALIZAÇÃO DE ASSEMBLEIA GERAL AUTORIZATIVA. CONSONÂNCIA DO ACÓRDÃO COM JURISPRUDÊNCIA DESTA CORTE.
+I - A demanda tem origem na ação ajuizada por Alcimar Medeiros visando ao pagamento de diferenças relativas à correção monetária e juros na restituição do empréstimo compulsório sobre energia elétrica.
+II - A sentença de fls. 456-461 extinguiu o processo após declarar a prescrição. O Tribunal regional deu provimento à apelação do contribuinte.
+III - A decisão hostilizada encontra-se em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que é admitida a conversão em ações dos valores devidos pela Eletrobrás em razão do empréstimo compulsório sobre energia elétrica, desde que comprovada a realização de assembleia geral autorizativa, posterior ao trânsito em julgado da ação. A propósito, conferir: AgInt no REsp n. 1.5937.68/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/10/2017, DJe 26/10/2017 e AgInt no REsp n. 1.607.172/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/10/2016, DJe 08/11/2016.
+IV - Quanto à prescrição, o acórdão recorrido se posicionou no mesmo sentido da jurisprudência desta Corte. Confira-se: REsp n. 1.003.955/RS, relatora Ministra Eliana Calmon, Primeira Seção, julgado em 12/8/2009, DJe 27/11/2009.
+V - Agravo interno improvido.
+(AgInt no REsp 1734115/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 21/06/2021, DJe 25/06/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ENERGIA ELÉTRICA. EMPRÉSTIMO COMPULSÓRIO. CONVERSÃO EM AÇÕES. AUTORIZAÇÃO EM ASSEMBLEIA GERAL APÓS O TRÂNSITO EM JULGADO. ACÓRDÃO QUE CONCLUIU PELA INEXISTÊNCIA DA AUTORIZAÇÃO. CÁLCULO CONFECCIONADO POR PERITO JUDICIAL. ALEGAÇÃO DE INCORREÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O STJ, no julgamento dos REsps 1.003.955/RS e 1.028.592/RS, firmou o entendimento de que é permitida a conversão em ações dos valores devidos pela Eletrobras em razão do empréstimo compulsório sobre energia elétrica. Entretanto, tal procedimento somente se revela cabível desde que haja a autorização da Assembleia Geral posterior ao trânsito em julgado da demanda, o que não ficou configurado nos autos.
+2. Na verdade, o Tribunal a quo, soberano na análise das circunstâncias fáticas e probatórias da causa, consignou na sua decisão a ausência de demonstração efetiva de conversão dos créditos em ações após o trânsito em julgado.
+3. Desse modo, rever o posicionamento da Corte regional acerca da existência ou não de autorização assemblear demanda reexame de provas, o que é inadmissível ante o óbice da Súmula 7/STJ. De igual modo, os demais argumentos concernentes aos juros, índices e sistemática de correção monetária aplicados não merecem conhecimento, em virtude do óbice da Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1776656/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/11/2019, DJe 19/12/2019)
+No tocante ao termo inicial de correção monetária, bem assim sobre os índices aplicáveis, verifica-se que o Tribunal a quo não tratou das questões, incidindo o teor da súmula 282/STF.
+Da mesma forma em relação à alegação de ser indevido opagamento de juros, verifica-se que tal questionamento não foi abordado no âmbito do acórdão recorrido, incidindo o teor da súmula 282/STF.
+Já em relação ao termo final dos juros remuneratórios, assiste razão ao recorrente.
+A 1ª Seção, no julgamento dos embargos de declaração nos EAREsp n. 790.288/PR, interpretando os julgados repetitivos sobre a matéria, firmou compreensão segundo a qual, salvo quanto ao montante correspondente à fração do inteiro de ação não convertido, o termo final dos juros remuneratórios, previstos no art. 2º do Decreto-lei n. 1.512/1976, é a data das respectivas assembleias gerais extraordinárias as quais autorizaram as conversões dos créditos em ações.
+Neste diapasão, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. TERMO FINAL. DATA DAS RESPECTIVAS ASSEMBLEIAS GERAIS EXTRAORDINÁRIA QUE AUTORIZARAM AS CONVERSÕES DOS CRÉDITOS EM AÇÕES. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A 1ª Seção, no julgamento dos embargos de declaração nos EAREsp n. 790.288/PR, interpretando os julgados repetitivos sobre a matéria, firmou compreensão segundo a qual, salvo quanto ao montante correspondente à fração do inteiro de ação não convertido, o termo final dos juros remuneratórios, previstos no art. 2º do Decreto-lei n. 1.512/1976, é a data das respectivas assembleias gerais extraordinárias as quais autorizaram as conversões dos créditos em ações.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1952988/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 06/04/2022).
+TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA - ECE. JUROS REMUNERATÓRIOS. INCIDÊNCIA ATÉ A DATA DA CONVERSÃO EM AÇÕES. PRECEDENTE DA PRIMEIRA SEÇÃO.
+1. A Egrégia Primeira Seção, ao julgar os EDcl nos EAREsp 790.288/RS, consolidou a compreensão de que a incidência dos juros remuneratórios, como previstos no art. 2º e § 2º do Decreto-Lei n. 1.512/76, na hipótese de restituição do empréstimo compulsório, não podem ultrapassar a data da respectiva Assembleia Geral Extraordinária autorizadora da conversão dos créditos dos consumidores industriais de energia em ações do capital social da Eletrobrás.
+2. Agravo interno não provido.
+(AgInt no AREsp 601.160/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/12/2021, DJe 09/12/2021).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e c, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe provimento para que o termo final para a incidência dos juros remuneratórios seja a data da assembléia geral (AGE) pertinente para a hipótese dos autos.
+Publique-se. Intimem-se.
