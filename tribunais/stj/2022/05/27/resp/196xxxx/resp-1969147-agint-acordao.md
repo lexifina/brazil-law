@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. VALOR DESCONTADO A TÍTULO DE VALE-TRANSPORTE EAUXÍLIO-ALIMENTAÇÃO. INCIDÊNCIA.
+1. ASegunda Turma desta Corte de Justiça, na apreciação do REsp n. 1.902.565/PR, firmou o posicionamento de que "o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal".
+2. Desse modo, o fato de o empregador reter os valores descontados aos empregados correspondentes à participação destes no custeio de vale-transporte e auxílio-alimentação não retira a titularidade dos empregados de tais verbas remuneratórias, devendo constituir a base de cálculo da contribuição previdenciária patronal.
+3. Assim, a pretensão de o empregador descontar da base de cálculo da contribuição por ele devida uma parcela da remuneração paga ao empregado, que corresponde à participação do empregado no custeio do benefício, não pode ser acolhida.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão que negou provimento ao recurso especial (e-STJ, fls. 18.813-18.818).
+A parte agravante aduz, em suma, que (e-STJ, fl. 18.826):
+ .. apesar do entendimento externado na r. decisão monocrática, da análise da jurisprudência da Corte, constata-se que, ainda, não há um caráter de definitividade sobre a matéria, restando apenas decisões proferidas no âmbito das Turmas.
+Prossegue afirmando que (e-STJ, fl. 18.828):
+ ..  os valores pagos pelo empregador ao empregado, que comporão a base de cálculo da contribuição previdenciária são aqueles que visam exclusivamente remunerá-lo pelos serviços prestado se, se os auxílios de vale-transporte e vale-alimentação não são remuneração e sim uma espécie de reembolso concedido ao empregado para tais despesas, qual a razão do v. acórdão recorrido ter afastado a pretensão da AGRAVANTE.
+Requer, assim, o afastamento da incidência de contribuição previdenciária patronal sobre os descontos a título de auxílio-alimentação e vale-transporte.
+A parte agravada nãoapresentou impugnação (e-STJ, fl. 18.839).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. VALOR DESCONTADO A TÍTULO DE VALE-TRANSPORTE EAUXÍLIO-ALIMENTAÇÃO. INCIDÊNCIA.
+1. ASegunda Turma desta Corte de Justiça, na apreciação do REsp n. 1.902.565/PR, firmou o posicionamento de que "o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal".
+2. Desse modo, o fato de o empregador reter os valores descontados aos empregados correspondentes à participação destes no custeio de vale-transporte e auxílio-alimentação não retira a titularidade dos empregados de tais verbas remuneratórias, devendo constituir a base de cálculo da contribuição previdenciária patronal.
+3. Assim, a pretensão de o empregador descontar da base de cálculo da contribuição por ele devida uma parcela da remuneração paga ao empregado, que corresponde à participação do empregado no custeio do benefício, não pode ser acolhida.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgente não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Cinge a controvérsia sobre a exclusão dos descontos efetuados na remuneração dos empregados, a título de vale-transporte e vale-alimentação, da base de cálculo das contribuições previdenciárias previstas no art. 22, I e II, da Lei n. 8.212/1991.
+Conforme mencionado na decisão agravada,a Segunda Turma desta Corte de Justiça, na apreciação do REsp n. 1.902.565/PR, firmou o posicionamento de que "o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal".
+Desse modo, o fato de o empregador reter os valores descontados aos empregados correspondentes à participação destes no custeio de vale-transporte eauxílio-alimentação não retira a titularidade dos empregados de tais verbas remuneratórias, devendoconstituir a base de cálculo da contribuição previdenciária patronal.
+Assim, a pretensão de o empregador descontar da base de cálculo da contribuição por ele devida uma parcela da remuneração paga ao empregado, que corresponde à participação do empregado no custeio do benefício, não pode ser acolhida.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. DESCONTO DE VALE-TRANSPORTE, DE AUXÍLIO-ALIMENTAÇÃO. INCLUSÃO.
+1. No REsp. 1.902.565/PR, Rel. Ministra Assusete Magalhães, a Segunda Turma do Superior Tribunal de Justiça, por unanimidade, firmou orientação no sentido de que o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal, da contribuição ao SAT/RAT (art. 22, II, da Lei n. 8.212/91) e das contribuições sociais devidas a terceiros.
+Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.955.528/RS, relatorMinistro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/2/2022, DJe de 2/3/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. DESCONTO DE VALE-TRANSPORTE, DE AUXÍLIO-ALIMENTAÇÃO E DE ASSISTÊNCIA MÉDICA E ODONTOLÓGICA. INCLUSÃO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. No REsp 1.902.565/PR, Rel. Ministra Assusete Magalhães, a Segunda Turma do Superior Tribunal de Justiça, por unanimidade, firmou orientação no sentido de que o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal. Na espécie, o fato de o empregador reter os valores descontados aos empregados correspondentes à participação destes no custeio de vale-transporte, de auxílio-alimentação e de assistência médica e odontológica não retira a titularidade dos empregados de tais verbas remuneratórias.
+Por consequência, em decorrência de sua natureza remuneratória, tais valores devem constituir a base de cálculo da contribuição previdenciária patronal.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.949.888/RS, relatorMinistro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2021, DJe de 24/11/2021).
+Dessa forma, em que peseàs alegações trazidas pela parte interessada, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
