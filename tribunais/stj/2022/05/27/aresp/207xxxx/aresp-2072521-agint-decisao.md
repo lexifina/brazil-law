@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interno contra decisão da Presidência do STJ, de fl. 670/672 (e-STJ) que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ.
+Em face das razões de fl. 675/683 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo em recurso especial interposto por ERBE INCORPORADORA 001 S/A (atual denominação de BROOKFIELD RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S/A), contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/01/2022.
+Concluso ao gabinete em: 20/05/2022.
+Ação: indenização pelo dano material e compensação pelo dano moral, ajuizada por ALEXANDRE MACHADO DA CRUZ, MÁRCIA JACOB LIMA DA CRUZ e BRUNO LIMA DA CRUZ, em face de ERBE INCORPORADORA 001 S/A (atual denominação de BROOKFIELD RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S/A).
+Sentença: julgou procedente em parte os pedidos, para declarar rescindido o contrato de promessa de compra e venda, bem como condenar a agravante a restituir aos agravados o valor pago, além de condenar a agravante a pagar aos agravados multa de 2% e os juros moratórios de 1% ao mês, considerado o valor do imóvel contratualmente previsto, incidentes a partir da data da citação e até a rescisão contratual, ora determinada, a ser calculada em liquidação de sentença. Ainda, condenou a agravante ao pagamento da compensação pelos danos morais no valor de R$ 7.000,00, para cada agravado. Ao final, condenou a agravante ao pagamento das custas e dos honorários, fixados em 15% sobre o valor da condenação.
+Acórdão: deu parcial provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Resolução de promessa de compra e venda de imóvel. Atraso da entrega do bem. Sentença de parcial procedência dos pedidos. Irresignação da parte ré.
+1. No caso concreto, a resolução dos contratos se deu por culpa exclusiva da ré, que deixou de cumprir a obrigação contratual de entregar o imóvel no prazo acordado. Inaplicabilidade da teoria da exceção do contrato não cumprido. Parcela referente ao financiamento a ser adimplida após a entrega do imóvel. Atraso injustificado da demandada a obstar o pagamento pelo promitente comprador. Ação proposta antes da emissão do habite-se. Falha na prestação do serviço demonstrada.
+2. Devolução integral da quantia paga pelos autores. Nos casos em que a resolução contratual ocorre em virtude da culpa exclusiva da construtora/incorporadora, os valores pagos pelos promitentes compradores devem ser integralmente restituídos. Inteligência do contido no art. 475 do Código Civil. Enunciado nº 98 da Súmula deste E. TJRJ.
+3. A resolução contratual, com a devolução integral dos valores pagos pelo promitente comprador, acarreta o retorno das partes ao status quo ante, de modo a tornar incompatível com o escopo da presente demanda a pretensão de aplicar cláusula penal prevista no contrato, bem como receber lucros cessantes. Precedentes deste E. TJRJ. Acolhimento parcial do recurso, para afastar a condenação da ré no pagamento dos valores referentes à cláusula penal.
+4. Dano moral não configurado. No caso, o atraso ocorreu pelo período de seis meses, não se antevendo fatores extraordinários a transbordar os limites do mero descumprimento contratual. Precedentes desta Câmara.
+5. Atualização dos valores devidos deve observar a incidência de correção monetária desde o desembolso, e juros de mora a serem computados a partir da citação, na forma do art. 405 do Código Civil.
+6. Diante do provimento parcial do recurso da ré, modificam-se os ônus de sucumbência. Rateio das despesas processuais. Cada litigante responderá pelo pagamento dos honorários advocatícios da parte adversa.
+7. Reforma parcial da sentença.
+8. Dá-se provimento parcial ao recurso." (e-STJ 530/531)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 104, CC, 67-A, Lei 13.786/2018, Súmula 543/STJ, bem como dissídio jurisprudencial. Sustenta que: i) quanto ao atraso na entrega da unidade, verifica-se que, muito embora tenha sido estabelecido o prazo para entrega no final de setembro de 2015, na forma do item XVII da Promessa de Compra e Venda, este foi dilatado por 180 (cento e oitenta) dias, nos termos da Cláusula 7.3.3.1 das Condições Gerais do negócio jurídico, findando-se, desta forma, no último dia do mês de março de 2016; e, ii) a recorrente demonstrara a legalidade da cláusula 7.4 da Promessa de Compra e Venda e a necessidade de se aplicar o percentual de retenção da maneira como está lá disposta, bem como que a recorrente tem direito à retenção dos valores nos moldes da Súmula 543 desta Corte.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 104, CC, 67-A, Lei 13.786/2018, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a agravante descumpriu o que fora pactuado, sendo incontroversa a prorrogação unilateral do prazo de entrega, como demonstra a missiva enviada pela incorporadora (indexador 14; fls. 26)", além de que "observa-se a adimplência dos agravados (indexador 224), até a parcela referente ao financiamento, a ser paga em 10/11/2015, após a data prevista para a entrega do bem (30/09/2015)", bem como de que "forçoso concluir que a resolução do contrato se deu por culpa exclusiva da agravante, sendo devida, portanto, a devolução imediata e integral dos valores pagos pelos agravados", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, TORNO SEM EFEITO a decisão fls. 670/672 (e-STJ) e, em novo julgamento, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 550) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenização por dano material e compensação por dano moral.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Torno sem efeito a decisão de fl. 670/672 (e-STJ). Agravo conhecido. Recurso especial não conhecido.
