@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ÉRICA ALVES FERREIRA e OUTROS, com arrimo no art. 105, inciso II, alíneas "a" e "c", da Constituição Federal, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE COMPRA EVENDA DE IMÓVEL URBANO. DECISÃO QUE JULGOU IMPROCEDENTESOS PEDIDOS INICIAIS. INSURGÊNCIA DA PARTE AUTORA. PARCIALACOLHIMENTO. 1. POSSIBILIDADE DE QUE HAJA DIFERENÇA NOVALOR DO IMÓVEL CONFORME A FORMA DE PAGAMENTO OCORRA ÀVISTA OU A PRAZO. AUSÊNCIA DE BIS IN IDEM RELATIVO AOS JUROSE CORREÇÃO MONETÁRIA. PRECEDENTES DESTE E. TRIBUNAL. 2. SINAL DO NEGÓCIO. CLÁUSULA DO CONTRATO QUE APONTOU OVALOR TOTAL DO AJUSTE, SEM MENÇÃO/ABATIMENTO DA ENTRADA. INTERPRETAÇÃO MAIS FAVORÁVEL À CONSUMIDORA. RESTITUIÇÃODEVIDA. REFORMA DESTE PONTO. 3. REDISTRIBUIÇÃO DOS ÔNUSSUCUMBENCIAIS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (e-STJ fl. 1.033)
+Nas razões do apelo ordinário, a parte recorrente pugna que "seja conhecido e provido o presente recurso, para o fim de reformar o acórdão recorrido, de modo a declarar abusiva a forma de cobrança de juros realizada pelo requerido (juros sobre juros), reconhecendo a falta de informação no contrato quanto a apresentação do valor à visto do imóvel e, destarte, considerado o valor ali consignado como valor a prazo - e portanto com juros - e, desta forma, afastando a cláusula que estipula a correção e reajuste das parcelas pelo IGPM e juros de 0,5 % ao mês, tornando a parcela fixa mensalmente e assim , afastando a aplicação bis in idem de juros, consoante petição inicial" (e-STJ fl. 1.095).
+É o relatório. Passo a fundamentar.
+Nos termos do inciso II do art. 105 da Constituição Federal, cumulado com o art. 1.027, II, do Código de Processo Civil, o recurso ordinário, dirigido ao Superior Tribunal de Justiça, é cabívelcontra acórdão proferido nas situações ali descritas, dentre as quais não se inclui o julgamento de recurso de apelação.
+O recurso ordinário, portanto,é manifestamente inadmissível.
+Nesse sentido, vale mencionar:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. HIPÓTESE DE CABIMENTO. NÃO OCORRÊNCIA. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso ordinário não foi interposto dentro de uma das hipóteses de cabimento previstas no art. 105, II, da CF/1988 ou no art. 1.027, II, do CPC/2015. O recebimento do recurso ordinário como recurso especial não é devido, pois se trata de um erro grosseiro que afasta o princípio da fungibilidade.
+2. A inadmissibilidade manifesta do agravo interno atrai a aplicação da multa prevista nos arts. 1.021, § 4º, do CPC/2015.
+3. Agravo interno não provido com aplicação de multa."
+(AgInt no RO n. 232/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 30/9/2021.)
+"RECURSO ORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO. RECURSO MANIFESTAMENTE INCABÍVEL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. PRECEDENTES.
+1. O recurso ordinário só é admissível contra acórdão proferido em única instância pelos Tribunais Superiores, em julgamento de habeas corpus, mandado de segurança, habeas data ou mandado de injunção, nos termos do art. 102, inciso II, alínea "a", da Constituição da República (AgRg no RO no AREsp 590.473/GO, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/12/2014, DJe 5/2/2015).
+2. Esta Corte Superior somente admite o princípio da fungibilidade recursal: quando houver dúvida objetiva sobre qual o recurso a ser interposto; quando o dispositivo legal for ambíguo; quando houver divergência doutrinária ou jurisprudencial quanto à classificação do ato processual recorrido e a forma de atacá-lo, o que não é o caso dos presentes autos. Precedentes: Pet 5.128 AgR, Relator Min. CELSO DE MELLO, Segunda Turma, julgado em 4/2/2014, ACÓRDÃO ELETRÔNICO DJe-074, divulgado em 14/4/2014, publicado em 15/4/2014; RHC 120.363 AgR, Relator Min. GILMAR MENDES, Segunda Turma, julgado em 25/2/2014, ACÓRDÃO ELETRÔNICO DJe-054, divulgado em 18/3/2014, publicado em 19/3/2014.
+3. Aplicação de multa. Certifique-se o trânsito em julgado.
+Baixem-se os autos.
+Agravo interno não conhecido."
+(AgInt no RO nos EDcl no AgRg no RE nos EDcl no AgRg no AREsp n. 617.933/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 14/10/2016.)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA CONTRA ACÓRDÃO DE APELAÇÃO. RECURSO INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. Compete a este Superior Tribunal de Justiça julgar, em recurso ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória, hipótese não configurada nos autos.
+2. A inexistência de dúvida objetiva quanto ao recurso cabível na hipótese impede a aplicação do princípio da fungibilidade recursal, diante da constatação do erro grosseiro.
+3. Agravo regimental não provido."
+(AgRg no Ag n. 1.433.263/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 12/5/2015.)
+Na hipótese, o recurso cabível contra acórdão proferidopor Tribunal de Justiça estadual, em sede de apelação, seria o recurso especial, previsto no artigo 105, III,da Constituição Federal, configurando manifestamente equivocada a interposição de recurso ordinário, sendoinaplicável o princípio da fungibilidade.
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, não conheço do recurso.
+Publique-se.
