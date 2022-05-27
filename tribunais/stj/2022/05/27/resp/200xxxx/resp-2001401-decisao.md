@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com amparo na alínea "a" do permissivo constitucional, contra acórdão do TRF da 1ª Região assim ementado (e-STJ, fl. 475):
+TRIBUTÁRIO. IMPOSTO TERRITORIAL RURAL. RECONHECIMENTO DE ÁREA DE PRESERVAÇÃO PERMANENTE. APRESENTAÇÃO DE ATO DECLARATÓRIO AMBIENTAL.DESNECESSIDADE. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA.APELAÇÃO A QUE SE NEGA PROVIMENTO.
+1. Ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça uniformizaram o entendimento no sentido de que é desnecessária a apresentação do Ato Declaratório Ambiental  ADA para que se reconheça o direito à isenção do Imposto Territorial Rural  ITR, notadamente considerando que essa exigência estava prevista somente em Instrução normativa da Receita Federal.Precedentes: REsp 1.125.632/PR RECURSO ESPECIAL 2009/0099801-5. Relator(a) Ministro BENEDITO GONÇALVES. Órgão Julgador: PRIMEIRA TURMA Data do Julgamento: 20/08/2009. Data da Publicação/Fonte, DJe 31/08/2009 e AgRg no AREsp 182.916/SC AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL 2012/0108800-1. Relator(a) Ministro HUMBERTO MARTINS. Órgão Julgador:SEGUNDA TURMA. Data do Julgamento 04/09/2012. Data da Publicação/Fonte DJe 14/09/2012.
+2. Apelação e remessa oficial às quais se nega provimento.
+Os embargos de declaração da União foram rejeitados.
+Em suas razões, a interessada levanta prefacial de ofensa ao art. 1.022 do CPC/2015, aduzindo omissão quanto à imprescindibilidade de averbação da reserva legal no registro do imóvel para gozo da isenção do ITR.
+No mérito, acusa violação dos arts.16, § 4º, da Lei n. 4.771/1965; 10, § 7º, da Lei n. 9.393/1996; e96, 111 e 176do CTN.
+Sustenta, em síntese, que "o STJ, emjulgado proferido no REsp 1.027.051/SC, reconheceu que, para fins tributários, a averbação deve ser condicionante da isenção, tendo eficácia constitutiva. Tal hipótese não se confunde com a necessidade ou não de comprovação do registro, visto que a prova da averbação é dispensada, mas não a existência da averbação em si" (e-STJ, fl. 499).
+Assevera que, "no caso em apreço, nãofoi cumprida a exigência da averbação tempestiva da área de preservação permanente à margem da matrícula do imóvel e da apresentação do ADA emitido pelo IBAMA ou, pelo menos, a protocolização tempestiva de sua solicitação, não há como reconhecer as áreas de preservação permanente destacadas pelo Autor" (e-STJ, fl. 500).
+Contrarrazões recursais apresentadas às e-STJ, fls. 507-510.
+Admitido o instrumento recursal na origem (e-STJ, fls. 517-519), subiram os autos a esta Corte.
+É o relatório.
+A recorrente afirma ter havido omissão no acórdão impugnado concernente à imprescindibilidade de averbação da reserva legal no registro do imóvel paragozo da isenção do ITR.
+Observa-se existir, de fato, a apontada afronta ao art. 1.022, II, do CPC/2015, na medida em que a Corte regional não respondeu ao questionamento formulado pela então embargante.
+É doprópriorelatório dos embargos de declaração da autarquia a seguinte passagem (e-STJ, fl. 486):
+Trata-se de embargos de declaração opostos pela União (Fazenda Nacional) contra acórdão desta Turma que negou provimento à apelação da Fazenda Nacional e à remessa oficial, em pleito relativo à nulidade de auto de infração decorrente do lançamento suplementar do Imposto Territorial Rural  ITR do ano de 1998.
+Sustenta que o acórdão embargado incorreu em omissões, tendo-se em vista a necessidade de averba na matrícula do imóvel para o gozo do benefício isencional vinculado aoITR, consoante legislação de regência, como visto às fls. 435/438.
+Nota-se, portanto, que o Tribunal regionalfoi provocado acerca do tema, não tendo, contudo, exarado consideração algumasobre a alegada necessidade de averbação da reserva legal na matrícula do imóvel, para que se possa permitir a fruição do benefício da isenção do ITR,restringindo-se, apenas, a declarar adesnecessidade de apresentação da ADA para que se reconheça o benefício.
+Desse modo, tendo o acórdão combatido deixado de analisar matéria de relevância para o deslinde da controvérsia, inviabilizando o conhecimento doespecial, em flagrante afronta ao art. 1.022, II, do CPC/2015, impõe-se o reconhecimento de sua nulidade.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula n. 568/STJ, dou provimento ao recurso especialpara anular o acórdão dos embargos de declaração e determinar o retorno dos autos à Corte de origem, a fimde que se manifeste, expressamente, a respeito do quanto alegado nos declaratórios.
+Publique-se. Intimem-se.
