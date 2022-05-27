@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por MARIA ARITA RANGEL E OUTROcontra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fls. 142):
+"Ação rescisória. Decisão que incluiu os autores da presente ação no rol de falidos 9 anos após o trânsito em julgado da sentença que decretou a falência da empresa da qual os autores foram sócios. Decisão que foi objeto de agravo ainda em trâmite perante os Tribunais Superiores. Decisão que ainda não transitou em julgado. Indeferimento da ação rescisória que se impõe."
+Nas razões do recurso especial, a parte agravante alega, além de dissídio jurisprudencial,violação doart. 966, IV, V e VIII, do CPC/15, sustentando, em síntese, que "admite-se a interposição de ação rescisória contra sentença transitada em julgada, ainda que contra ela não se tenha esgotado todos os recursos, fato esse que também não foi observado pelo v. acórdão recorrido." (e-STJ, fl. 151)
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 266/269)
+É o relatório. Decido.
+O eg. Tribunal de origem, com base no lastro probatório, concluiu que não restou preenchidorequisitode admissibilidade da açãorescisória, tendo afirmado, soberanamente, o seguinte:
+"Trata-se de ação rescisória em que se pretende a desconstituição de decisão que incluiu os autores desta ação no rol de falidos 9 anos após o trânsito em julgado da sentença que decretou a falência.
+A decisão que se pretende rescindir foi proferida em 12/07/2018, sendo interposto agravo naquela ocasião (processo nº 0050452- 82.2018.8.19.0000).
+Referido recurso se encontra pendente de julgamento perante os Tribunais Superiores, razão pela qual a decisão cuja rescisão se busca ainda não transitou em julgado.
+Dessa forma, não preenchido o requisito de admissibilidade da ação rescisória previsto no art. 966 do CPC.
+(..)
+Pelo exposto, INDEFERE-SE a petição inicial da ação rescisória. "(e-STJ, fls. 142/144, g.n)
+Nesse contexto, eventual modificação do entendimento lançado no acórdão recorrido a fim de reconhecer a existência dos requisitos de admissibilidade da ação rescisóriademandaria incursão no suporte fático-probatório dos autos, inviável em recurso especial (Súmula 7/STJ). Confiram-se, a propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDEFERIMENTO. REQUISITOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 489 do Código de Processo Civil de 2015. Isso porque a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. Segundo entendimento firmado nesta Corte Superior, "a viabilidade da ação rescisória por ofensa à literal disposição de lei pressupõe violação frontal e direta, contra a literalidade da norma jurídica, o que não se verifica, na hipótese, sendo inviável sua utilização como meio de reavaliar os fatos da causa ou corrigir eventual injustiça da decisão" (AgRg nos EDcl no REsp 1419033/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 06/05/2014, DJe 25/06/2014).
+3. Rever o entendimento do Tribunal de origem a fim de analisar os requisitos autorizadores da ação rescisória, demandaria, necessariamente, a incursão na seara fático - probatória dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1846587/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, DJe 08/10/2021)
+Ressalte-se que, segundo entendimento pacífico do STJ, o prazo decadencial para a propositura da ação rescisória inicia-se somente após o trânsito em julgado da última decisão proferida nos autos originais, que deve ser vista como una e indivisível, não havendo que se falar em coisa julgada por capítulos, ante a inadmissibilidade da tramitação simultânea do processo principal e da rescisória. Nesse sentido:
+AGRAVO REGIMENTAL NA AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. PRAZO DECADENCIAL DA RESCISÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA NO FEITO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça é remansosa no sentido de que a coisa julgada é una e indivisível, de modo que não se cogita a existência de trânsito em julgado parcial.
+2. Existindo, na espécie, recurso pendente de julgamento perante o STF, verifica-se a inexistência da coisa julgada para viabilizar o ajuizamento da ação rescisória.
+3. Na ausência da coisa julgada material, carece ao autor da ação rescisória o interesse juridicamente protegido.
+4. Agravo regimental improvido. (AgRg na AR 4296/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Terceira Seção, DJe 3/9/2009) PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. TERMO INICIAL.
+TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO PROFERIDA NOS AUTOS. ART. 495 DO CPC. SÚMULA N. 401/STJ. COISA JULGADA "POR CAPÍTULOS".
+INADMISSIBILIDADE. SFH. UTILIZAÇÃO DO IPC (84,32%) NO MÊS DE ABRIL DE 1990. ADOÇÃO DA TAXA REFERENCIAL (TR) COMO ÍNDICE DE ATUALIZAÇÃO MONETÁRIA (LEI N. 8.177/1991). VIOLAÇÃO DE LITERAL DISPOSIÇÃO DE LEI. ART. 485, V, DO CPC. SÚMULA N. 343/STF. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA.
+1. A violação do art. 535 do CPC não se configura na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a questão controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+2. O prazo decadencial de 2 (dois) anos para a propositura da ação rescisória inicia com o trânsito em julgado da última decisão proferida no processo, que se aperfeiçoa com o exaurimento dos recursos cabíveis ou com o transcurso do prazo recursal, a teor do que dispõe a Súmula n. 401/STJ: "O prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial".
+3. É incabível o trânsito em julgado de capítulos da sentença ou do acórdão em momentos distintos, a fim de evitar o tumulto processual decorrente de inúmeras coisas julgadas em um mesmo feito.
+ ..  8. Recurso especial conhecido e parcialmente provido. (REsp 736650/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, Corte Especial, DJe 1/9/2014).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO CUMULADA COM COMPENSAÇÃO DE DANOS. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. JUROS DE MORA. TERMO INICIAL. RECURSO INTEMPESTIVO. TRÂNSITO EM JULGADO DA SENTENÇA.
+1. Recurso especial interposto em 12/03/2021 e concluso ao gabinete em 20/10/2021.
+2. O propósito recursal é dizer sobre a negativa de prestação jurisdicional e o termo inicial dos juros de mora incidentes sobre o valor arbitrado a título de honorários advocatícios sucumbenciais quando o recurso de apelação for declarado intempestivo.
+3. Não há que se falar em negativa de prestação jurisdicional quando o Tribunal de origem examina toda a matéria devolvida no recurso sob viés diverso daquele pretendido pela parte recorrente.
+4. Na hipótese em que os honorários de sucumbência são fixados em percentual sobre o valor da causa, tem prevalecido nesta Corte o entendimento segundo o qual os juros de mora incidem a partir da exigibilidade da obrigação, o que se verifica com o trânsito em julgado da sentença. Precedentes.
+5. "Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso" (art. 502 do CPC/2015). Dá-se, então, o trânsito em julgado quando não for mais cabível qualquer recurso contra a decisão ou quando se perde o prazo para impugná-la.
+6. No julgamento dos EREsp 1.352.730/AM, a Corte Especial do STJ firmou orientação de que o prazo para o ajuizamento da ação rescisória tem início com o trânsito em julgado da última decisão proferida no processo originário, ainda que seja uma decisão que negue seguimento a recurso intempestivo. Todavia, estabeleceu-se que, quando ficar constatada a manifesta e evidente intempestividade do recurso, indicando que seu manejo se deu apenas como mecanismo de procrastinação da lide originária, o prazo da rescisória há de ser contado da data em que precluiu o direito de recorrer.
+7. Nos termos da doutrina e da jurisprudência, o recurso intempestivo não obsta a formação da coisa julgada, de modo que a decisão que atesta a sua intempestividade não posterga o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo.
+Desse modo, o termo inicial dos juros de mora incidentes sobre os honorários sucumbenciais é o dia seguinte ao transcurso do prazo recursal.
+8. Recurso especial conhecido e provido.
+(REsp 1984292/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/03/2022, DJe 01/04/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TERMO INICIAL DO PRAZO DECADENCIAL. TRÂNSITO EM JULGADO DO ÚLTIMO PRONUNCIAMENTO JUDICIAL. DECISÃO MANTIDA.
+1. "O prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial" (Súmula n. 401/STJ).
+2. Mesmo sendo intempestivo o último recurso julgado, o prazo decadencial da ação rescisória somente se inicia quando não for cabível nenhum recurso do último pronunciamento judicial, salvo na hipótese de má-fé, o que não ficou caracterizado no caso concreto.
+Precedente da Corte Especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1756115/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, doRISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015,majoro os honorários advocatícios devidos à parte recorrida de 10% para11% sobre o valor da causa.
+Publique-se.
