@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado porELAINE CRISTINA DOS SANTOS SOUZAcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assimementado (e-STJ, fl. 192):
+PREVIDENCIÁRIO. PROCESSO CIVIL. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. AUXÍLIO-DOENÇA.TERMO INICIAL E TERMO FINAL DO BENEFÍCIO.
+I - Cumpre ressaltar que a questão relativa ao termo inicial do benefício também se submete ao prudente arbítrio do magistrado. No caso em tela, proposta a ação em julho/2018, em que pese o laudo pericial tenha estimado o início da incapacidade dois anos antes, deve ser mantido o termo inicial na data da citação (11.05.2018), eis que o reconhecimento se deu para fins de apurar a qualidade de segurado.
+II- Quanto ao termo final, observo a previsão de cessação do benefício está prevista na Lei 13.457/17, garantindo-se ao segurado a possibilidade de solicitar a realização de exame pericial, com consequente pedido de prorrogação do benefício, na forma estabelecida pelo INSS, devendo ser mantida o termo final em 6 meses, contados do laudo pericial.
+III - Agravo (art. 1.021) interposto pela parte autora improvido.
+É o relatório.
+A questão jurídica referenteà fixação de data de cessação de benefíciopelo Poder Judiciário, considerando a aplicabilidade ou não do art. 60, §§ 8º e 9º, da Lei n. 8.213/1991 e a necessidade deavaliação pericial a cargo do INSS para alta médica, teve a repercussão geral reconhecidapelo Supremo Tribunal Federalnos seguintes termos:
+Tema 1.196/STF:Constitucionalidade da Medida Provisória 739/2016, substituída pela Medida Provisória 767/2017 e convertida na Lei 13.457/2017, as quais alteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado para a duração do benefício.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
