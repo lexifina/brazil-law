@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por MARTINS & PADIAL CAFE E BAR LTDA, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alínea "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+EXECUÇÃO EXTRAJUDICIAL. CEF. EMBARGOS À EXECUÇÃO PROCEDENTES. HONORÁRIOS SUCUMBENCIAIS EM AMBAS AS AÇÕES. POSSIBILIDADE.1 - O Superior Tribunal de Justiça fixou entendimento, sob o rito repetitivo, no sentido de que são cabíveis os honorários advocatícios, simultaneamente, na execução e nos embargos do devedor, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, e desde que a cumulação da verba honorária não exceda o limite máximo previsto no CPC.2 - Sendo breve a tramitação da execução, e que já há honorários nos embargos, o valor da verba advocatícia podeser fixado em 5% (cinco por cento) sobre o valor atualizado da causa, ao qual se somará o montante estipulado nos embargos, de modo a perfazer o total de 15%. Apelação parcialmente provida.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, a parte recorrente, ora agravante, aponta ofensa aos artigos85, §§ 1º e 2º do CPC, vez que os honorários fixados são autônomos e, portanto, devem observa os percentuais mínimos estabelecidos pela legislação, o que não foi observado no acórdão ora recorrido.
+Em juízo de admissibilidade, negou-se o processamento do apelo especial, razão pela qual foi manejado o agravo de fls. 290/297, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismomerece prosperar.
+1. Com efeito, "Esta Corte firmou a orientação de que, nos embargos à execução, como ação autônoma, são devidos os honorários advocatícios de forma independente e cumulativa em relação àqueles fixados na execução" (AgInt no AREsp n. 924.417/BA, relator Ministro Gurgel de Faria, Primeira Turma, DJe 2/12/2019).
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO E EMBARGOS. VERBA HONORÁRIA ÚNICA PARA AMBAS AS AÇÕES. ACÓRDÃO EM CONTRARIEDADE COM A JURISPRUDÊNCIA DO STJ. TEMA REPETITIVO N. 587. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284/STF.
+I - Trata-se de agravo de instrumento interposto contra decisão que, em cumprimento de sentença, rejeitou o pedido de fixação de honorários advocatícios. No Tribunal a quo, o agravo de instrumento foi improvido.
+II - O acórdão contraria a jurisprudência desta Corte no sentido de que os honorários dos embargos à execução são independentes dos honorários fixados na execução.
+III - Conforme tese firmada sobre o Tema Repetitivo n. 587: ""Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973."" Nesse sentido: AgInt no REsp 1.850.732/PE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 8/10/2021; e AgInt no REsp 1.337.173/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 6/12/2019.
+ ..
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.819.523/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/4/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INOCORRÊNCIA. ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. ALEGAÇÃO DE OFENSA AOS ARTS. 948, 949 E 950 DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. EMBARGOS À EXECUÇÃO FISCAL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE MODO INDEPENDENTE E CUMULATIVO EM RELAÇÃO AO PROCESSO PRINCIPAL. POSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - Nos embargos à execução, como ação autônoma, são devidos honorários advocatícios de forma independente e cumulativa em relação àqueles fixados na execução, observados os limites legais.Precedentes.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII  Agravo Interno desprovido.
+(AgInt no REsp n. 1.912.029/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/6/2021.)
+Por outro lado,"a Corte Especial, em recentíssimo julgamento, realizado na sessão do dia 16 de março de 2022 (REsp nº 1.850.512/SP, REsp nº 1.877.883/SP, REsp nº 1.906.623/SP e REsp nº 1.906.618/SP), concluiu o julgamento do Tema nº 1.076 dos recursos repetitivos (arestos ainda pendentes de publicação) e, por maioria, decidiu pela inviabilidade da fixação de honorários de sucumbência por apreciação equitativa quando o valor da causa for elevado. Logo, nesse caso, é obrigatória a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil de 2015 - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico; ou (c) do valor atualizado da causa. Apenas se admite o arbitramento por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."(REsp n. 1.861.687/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 11/5/2022.)
+O acórdão recorrido, portanto, destoa da jurisprudência desta Corte, merecendo reforma.
+2. Do exposto, conheço do agravo para dar provimento ao recurso especial a fim de fixar a verba advocatíciaem 10% (dez por cento)sobre o valor atualizado da causa.
+Publique-se.
+Intimem-se.
