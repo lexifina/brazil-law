@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, com amparo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 302):
+ADMINISTRATIVO E PROCESSUAL. AÇÃO ANULATÓRIA. LEGITIMIDADE PASSIVA AD CAUSAM. SERVIDOR PÚBLICO CIVIL. REMUNERAÇÃO. HORAS EXTRAS. SENTENÇA TRABALHISTA. REVISÃO ADMINISTRATIVA. DECADÊNCIA. REPOSIÇÃO AO ERÁRIO. BOA-FÉ. INVIABILIDADE.
+1. É infundada a preliminar de ilegitimidade passiva ad causam, uma vez que o Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul é autarquia federal, com personalidade jurídica própria e autonomia administrativa e financeira, e está sendo questionada, na demanda, a legalidade de ato por ela praticado (ainda que em cumprimento de deliberação do Tribunal de Contas da União ou outro órgão).
+2. O prazo quinquenal, previsto no artigo 54 da Lei n. 9.784/1999, tem início somente após o registro do ato de concessão de aposentadoria ou pensão, junto ao Tribunal de Contas da União, por se tratar de ato complexo, para cuja perfectibilização é imprescindível a ulterior chancela do órgão de controle externo, embora produza, desde logo, efeitos financeiros.
+3. É assente na jurisprudência a possibilidade de a Administração revisar a remuneração ou os proventos de aposentadoria/pensão, em virtude de modificação superveniente do padrão remuneratório do servidor decorrente de reestruturação da carreira. Isso porque não há direito adquirido a regime jurídico, e as alterações legislativas posteriores, que resultam na absorção de vantagens auferidas por força de decisão judicial, implicam alteração do substrato fático-jurídico da relação de caráter continuativo (ou exaurimento do suporte fático), resguardada a irredutibilidade remuneratória.
+4. É inexigível a restituição de verbas de caráter alimentar, recebidas de boa-fé, por força de decisão judicial liminar posteriormente revogada.
+Os embargos de declaração de ambas as partes foram parcialmente providos (e-STJ, fls. 353-374).
+Alega orecorrente a violação dos arts. 46 da Lei n. 8.112/1990;876 e 884 do Código Civil, por entender cabível a restituição ao eráriodos valores recebidos indevidamente pelo autor após o Acórdão n. 235/2015 do TCU.
+Contrarrazões às e-STJ, fls. 484-496.
+O recurso especial foi admitido na origem (e-STJ, fls. 507-508) eos autos foram encaminhados para esta Corte.
+É o relatório.
+Verifica-se que a questão jurídica que trata da restituição de valores recebidos a título de antecipação de tutela constitui tema dos Recursos Especiais n. 1.734.627/SP, 1.734.641/SP, 1.734.647/SP, 1.734.656/SP, 1.734.685/SP e 1.734.698/SP, de minha relatoria, acolhidos em questão de ordem para admitir a revisão da tese firmada no julgamento do REsp n. 1.401.560/MT, estabelecido pelo disposto no art. 1.036, § 5º, do CPC/2015 e na Emenda Regimental n. 24 do RISTJ, cujo mérito foi recentemente julgado por esta Corte(Tema n. 692).
+Desse modo, o julgamento imediato do recurso especialpor esta Corteseria prematuro, já que deve ser viabilizado eventual juízo de adequação pela instância ordinária,na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa na distribuição, para queseja efetuado o procedimento previsto nos termos dos arts.1.040 e 1.041 do CPC/2015. Após, remanescendo matéria a ser apreciada, seja remetido novamente a esta Corte Superior.
+Publique-se. Intimem-se.
