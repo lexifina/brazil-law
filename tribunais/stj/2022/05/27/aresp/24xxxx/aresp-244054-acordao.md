@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ARTS. 1.030, II, E 1.040, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RENÚNCIA AO BENEFÍCIO DE APOSENTADORIA. DESAPOSENTAÇÃO. IMPOSSIBILIDADE. ADEQUAÇÃO AO ENTENDIMENTO DO STF FIRMADO EM REPERCUSSÃO GERAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o juízo de retratação, embora os Embargos de Declaração, o Agravo Regimental e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Retorno dos autos ao colegiado para eventual juízo de retratação, a teor do art. 1.030, II, do Código de Processo Civil de 2015.
+III - O Supremo Tribunal Federal, julgando o RE 661.256/SC, sob o regime da repercussão geral - Tema 503 - firmou orientação segundo a qual "no âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei n. 8.213/91".
+IV - Agravo do segurado conhecido para improver o recurso especial.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, conhecer do agravo para improver o recurso especial, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Gurgel de Faria, Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Benedito Gonçalves (Presidente) e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravos em Recursos Especiais, interpostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS e por EDUARDO SANTANA PINTO contra acórdão prolatado pelo Tribunal Regional Federal da 4ª Região que reconheceu o direito de renúncia à aposentadoria e concessão de novo benefício, com agregação de tempo posterior ao jubilamento, condicionada à devolução dos valores recebidos (fls. 206/236e).
+O agravo em recurso especial do INSS não foi conhecido e o recurso especial da parte autora foi provido, nos termos do REsp n. 1.334.488/SC, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, para afastar a obrigação de restituição dos proventos percebidos como condição para a concessão de nova aposentadoria (fls. 399/408e).
+Interposto recurso extraordinário, a Excelentíssima Vice-Presidente desta Corte determinou o seu sobrestamento até o julgamento do RE n. 661.256/DF - Tema 503 da repercussão geral - pelo Supremo Tribunal Federal (fls. 490/492e).
+Julgado o Tema 503 pela Suprema Corte, os autos foram encaminhados ao órgão julgador para eventual juízo de retratação, nos termos do art. 1.040, II, do Código de Processo Civil de 2015 (fl. 198e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ARTS. 1.030, II, E 1.040, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RENÚNCIA AO BENEFÍCIO DE APOSENTADORIA. DESAPOSENTAÇÃO. IMPOSSIBILIDADE. ADEQUAÇÃO AO ENTENDIMENTO DO STF FIRMADO EM REPERCUSSÃO GERAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o juízo de retratação, embora os Embargos de Declaração, o Agravo Regimental e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Retorno dos autos ao colegiado para eventual juízo de retratação, a teor do art. 1.030, II, do Código de Processo Civil de 2015.
+III - O Supremo Tribunal Federal, julgando o RE 661.256/SC, sob o regime da repercussão geral - Tema 503 - firmou orientação segundo a qual "no âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei n. 8.213/91".
+IV - Agravo do segurado conhecido para improver o recurso especial.
+AGRAVO EM RECURSO ESPECIAL Nº 244.054 - PR (2012/0218929-0)
+RELATORA
+:
+MINISTRA REGINA HELENA COSTA
+AGRAVANTE
+:
+INSTITUTO NACIONAL DO SEGURO SOCIAL
+ADVOGADO
+:
+PROCURADORIA-GERAL FEDERAL - PGF
+AGRAVANTE
+:
+EDUARDO SANTANA PINTO
+ADVOGADO
+:
+JOÃO OSVALDO BADARI ZINSLY RODRIGUES - PR052023
+AGRAVADO
+:
+OS MESMOS
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para o juízo de retratação, embora os Embargos de Declaração, o Agravo Regimental, e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+Em que pese a orientação desta Corte, firmada no REsp 1.334.488/SC, sob o rito do art. 543-C do Código de Processo Civil, segundo a qual é possível a renúncia da aposentadoria, objetivando a concessão de novo benefício mais vantajoso, de mesma natureza, com o cômputo dos salários de contribuição posteriores à aposentadoria anterior sem a necessidade de devolução dos valores percebidos em razão dela, deve prevalecer o entendimento do Supremo Tribunal Federal, assentado no julgamento do Recurso Extraordinário n. 661.256/SC em 27.10.2016, sob o regime da repercussão geral - Tema 503 -, segundo o qual " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei nº 8213/91".
+No caso, a pretensão do segurado está em confronto com a recente orientação do Supremo Tribunal Federal.
+Ante o exposto, em juízo de retratação, CONHEÇO do Agravo para NEGAR PROVIMENTO ao Recurso Especial do segurado.
+É como voto.
