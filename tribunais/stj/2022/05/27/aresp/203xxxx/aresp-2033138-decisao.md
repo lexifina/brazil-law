@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional de Seguro Social - INSScontra a decisão que inadmitiu seu recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Em sede de cumprimento de sentença, oInstituto Nacional de Seguro Social - INSSinterpôs agravo de instrumento contra a decisão que acolheu parcialmente a impugnação no que tange ao excesso de execução. Todavia, a decisão a quo recusou-se a reexaminar as astreinte fixada, ao argumento decoisa julgada e preclusão.
+OTribunal Regional Federal da 4ª Região negou provimento ao agravo de instrumento, em acórdão assim ementado (fl. 63):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPOSIÇÃO DE MULTA COMINATÓRIA (ASTREINTES) AO PODER PÚBLICO. POSSIBILIDADE. ARTS. 536 E 537 DO CPC.
+1. É firme, na jurisprudência, o entendimento no sentido do cabimento de multa por descumprimento de ordem judicial, inclusive contra o Poder Público, com fundamento nos arts. 536 e 537 do Código de Processo Civil(art. 461 do CPC/1973). A função das astreintes é superar a recalcitrância do devedor em cumprir a obrigação de fazer ou de não fazer que lhe foi imposta, incidindo esse ônus a partir da negativa de adimpli-la voluntariamente, após a devida ciência.
+2. A cominação de multa para o cumprimento de obrigação de fazer ou de não fazer constitui instrumento de coerção e como tal não faz coisa julgada material, podendo, a requerimento da parte ou ex officio, ser reduzida ou até suprimida, caso sua imposição não se mostre mais necessária (STJ, 1ªSeção, REsp 1.474.665/RS, Rel. Ministro BENEDITO GONÇALVES, julgado em26/04/2017, DJe 22/06/2017).
+Opostos embargos de declaração, foram estes acolhidos apenas para efeito de prequestionamento.
+Contra a decisão cuja ementa encontra-se acima transcrita, sustenta a parte recorrente violação doart.1.022,II, do CPC/2015, aduzindo omissão no julgado.
+Sustenta ainda violação dos arts.1.016, II e III, e85, § 1º, do CPC/2015, aduzindo que o acórdão recorrido não se manifestou com relaçãoà condenação dos exequentes ao pagamento de honorários advocatícios tendo em vista o acolhimento de impugnação ao cumprimento de sentença pela Fazenda Pública, bem como pela ausência de arbitramento de honorários advocatícios diante do acolhimento da citada impugnação.
+Contrarrazões apresentadas pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2.015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que oagravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+De início, da análise do acórdão, no que tange a indicada violação do art. 1.022 do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação deste Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados."(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais, quanto a alegada violação dos demais artigos, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe:
+Súmula n. 211
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Demais disso,ainda que superado oóbiceapontado, a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em sede de recurso especial, em vista do enunciado n. 7 (a pretensão de simples reexame de prova não enseja recurso especial) da Súmula do STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intime-se.
