@@ -1,0 +1,23 @@
+DECISÃO
+MAX AUGUSTO MARQUES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulona Apelação n. 0000322-98.2018.8.26.0548.
+Neste habeas corpus, a defesa pretende reduzir a reprimenda. Para tanto, sustenta a ilegalidade na exasperação da pena-base, bem como na possibilidade de reconhecimento de crime único.
+Indeferida a liminar e prestadas as informações,veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ(fls. 185-188).
+Decido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito oquantumde pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas nocaputdo art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+A Corte estadual deu parcial provimento ao recurso da apelação, a fim de que fosse consideradas negativas as circunstâncias do crime, pois o paciente "participou do roubo à residência, asilo inviolável conforme a Constituição Federal, denotando maior reprovabilidade na conduta" (fl. 24, grifei).
+Sobre o tema, esta Corte Superior entende que "acircunstância de o delito ter ocorrido no interior da residência das vítimas imprime maior reprovabilidade à conduta e exige um maior rigor penal, ante a maior ousadia dos meliantes. Precedentes"(HC n. 400.119/RJ, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 1º/8/2017).
+Ademais, saliento que, diferentemente do alegado pela defesa, o TJSP após a análise do acervo fático-probatório dos autos, entendeu que o delito foi praticado no interior da residência e, para que essa conclusão seja alterada, seria necessário a dilação probatória, providência inviável em habeas corpus.
+Assim, não identifico a ilegalidade apontada neste ponto da impetração.
+Em relação ao reconhecimento de crime único, o acórdão dos embargos infringentes opostos pela defesa registrou que, "embora o roubo tenha sido praticado em apenas uma residência, certo é que os embargantes atingiram deliberadamente e consciente de tal circunstância três patrimônios distintos, porquanto, como já visto, apossaram-se dos bens pessoais de Iziquiel, Leonilda e Célio" (fl. 71).
+Saliento ser "assente neste Tribunal Superior que, praticado o crime de roubo mediante uma só ação, contra vítimas diferentes, não há se falar em crime único, mas sim em concurso formal, visto que violados patrimônios distintos. Precedentes." (HC n. 275.122/SP, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Ademais, quanto à alegação de existência de patrimônio comum, há julgado do Superior Tribunal de Justiça, relativo a roubo praticado contra casal, no sentido de que "o Direito Penal tutela bens e interesses jurídicos com autonomia e de um modo peculiar de outros ramos do direito. Assim, não se pode afirmar que o conceito de patrimônio na esfera penal, necessariamente, se equivale à definição contida no âmbito civil" (AgRg no REsp n. 1.009.998/RS, Rel. MinistroOg Fernandes, 6ª T., DJe 17/08/2011).
+Assim, não obstante a discussão acerca da propriedade única dos bens, no caso, as instâncias antecedentes concluíram que o roubo foi realizado a patrimônios das trêsvítimas.
+Por tais razões, correta a incidência do concurso formal de crimes, nos termos da jurisprudência desta Corte Superior.Nesse sentido:
+ ..
+3. Nos termos da jurisprudência desta Corte Superior, não há falar em crime único quando, em um mesmo contexto fático, são subtraídos bens pertencentes a pessoas diferentes, ainda que da mesma família, incidindo, na espécie, a regra prevista no art. 70, primeira parte, do CP.
+4. Agravo regimental provido para, conhecendo do agravo em recurso especial, dar provimento ao recurso especial, a fim de restabelecer a sentença condenatória.
+(AgRg no AREsp n. 1.651.955/GO, Rel. MinistroNefi Cordeiro, 6ª T., DJe 29/6/2020)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
