@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porJORDAN RICHARD DE OLIVEIRA DINIZcontra decisãode minha lavra, por meio da qual concedi parcialmente a ordem de habeas corpus, nos termos da seguinte ementa (fl. 83):
+"HABEAS CORPUS. PENAL.TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA.CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI N. 11.343/2006.MODULAÇÃO DOQUANTUMDE DIMINUIÇÃO. QUANTIDADE EXPRESSIVA DE DROGAS APREENDIDAS. POSSIBILIDADE. ACÓRDÃO REFORMADO PARA SE FIXAR A FRAÇÃO DO REDUTOR EM 1/2 (METADE). ORDEMPARCIALMENTECONCEDIDA."
+Em suas razões, alega oEmbarganteque a decisão encontra-se maculada pelo vício da omissão, pois não afastou a aplicação dos precedentes apresentados pela Defesa, nos quais esta Corte Superior concluiu pela aplicação da minorante do tráfico privilegiado na fração máxima (2/3), apesar da grande quantidade de drogas apreendidas. São eles: "(i) STJ, AgRg no HC nº 441.183/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 10/03/2020 - 15.350kg de maconha; (ii) STJ, HC nº 713.390/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 01/02/2022 - 7,2 kg de maconha; (iii) STJ, HC nº 696.642/MS, Rel. Min. Olindo Menezes, Sexta Turma, j.12/11/2021 - 366 kg de maconha; (iv) STJ, AgRg HC nº 593.191/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, j. 03/03/2022 - 721 g de cocaína, 13 g de crack e 372 g de maconha" (fls. 10 e 92).
+Pede, assim, seja reconhecida e sanada a referida omissão.
+É o relatório.Decido.
+A teor do disposto nos arts. 619 do Código de Processo Penal e 263 do Regimento Interno do Superior Tribunal de Justiça, o prazo para a oposição dos embargos de declaração, em matéria criminal, é de 2 (dois) dias.
+Na hipótese, os embargos de declaração são intempestivos, porque a decisão embargadafoi disponibilizadano Diário de Justiça Eletrônico em 18/04/2022 e consideradapublicadano primeiro dia útil seguinte, isto é, 19/04/2022 (fl. 90). Entretanto, o recurso integrativo somente foi recebido nesta Corte Superior de Justiça, por meio de petição eletrônica, em 25/04/2022 (fls. 91-93), quando já escoado o referido prazo legal, conforme certidão (fl. 95).
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO DE 2 DIAS (ART. 619 DO CPP). RECURSO INTEMPESTIVO QUE NÃO INTERROMPE PRAZO PARA EVENTUAL RECLAMO SUBSEQUENTE. TRÂNSITO EM JULGADO DO ACÓRDÃO EMBARGADO. REMESSA IMEDIATA AO STF PARA PROCESSAMENTO DO RECURSO PENDENTE.
+1. Os aclaratórios são intempestivos, pois opostos quando já escoado o prazo de 2 dias, previsto no art. 619 do Código de Processo Penal.
+2. Em matéria criminal, os embargos de declaração possuem disciplina própria e, por isso, o prazo previsto no Código de Processo Civil não se aplica em hipóteses que tais. Precedente.
+3. Diante da intempestividade dos aclaratórios, não ocorreu a interrupção do prazo recursal para eventual interposição de recurso subsequente, sendo assim, é possível concluir que ocorreu o trânsito em julgado do acórdão embargado.
+4. Embargos de declaração não conhecidos com determinação de que, após publicado o acórdão e certificado o trânsito em julgado do aresto às fls. 608/614,sejam remetidos imediatamente os autos ao Supremo Tribunal Federal para processamento do recurso pendente de análise (agravo em recurso extraordinário)."(EDcl no AgRg no AREsp 1.172.467/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOHABEAS CORPUS. PROCESSUAL PENAL. INOBSERVÂNCIA DO PRAZO DE 2 (DOIS) DIAS PARA OPOSIÇÃO DOS ACLARATÓRIOS. INTEMPESTIVIDADE.EMBARGOSDE DECLARAÇÃO NÃO CONHECIDOS.
