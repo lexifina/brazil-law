@@ -1,0 +1,55 @@
+EMBARGANTE: ELIAS LUIZ DA SILVA
+EMBARGADO: ELISANE DE MELO BERNARDES COSTA
+EMBARGADO: VANDELÍCIO PEREIRA DA SILVA
+TERCEIRO INTERESSADO: NEWTON BARBOSA FRAGA
+TERCEIRO INTERESSADO: ADELINO DE TAL E OUTROS
+Vistos etc.
+Trata-se de recurso de Embargos de Declaração posto por ELIAS LUIZ DA SILVA contra a decisão monocrática de ID. n. 124674166 que indeferiu o pedido de antecipação da tutela recursal em Recurso de Agravo de Instrumento, contra a decisão proferida na Embargos de Terceiro n. 1000530-48.2022.8.11.0029, a qual indeferiu a concessão da tutela de urgência que visa suspender a ordem de reintegração de posse concedida em favor de ELISANE DE MELO BERNARDES COSTA nos autos da Ação de Reintegração de posse n. 1000035-72.2020.8.11.0029 movida em desfavor de VANDELÍCIO PEREIRA DA SILVA.
+Sustenta o embargante que a decisão monocrática embargada seria omissa quanto a análise da integralidade dos documentos acostados, que demonstrariam de forma inequívoca o exercício de posse pelo embargante desde o fim de 2019, inclusive por meio de imagens que comprovam a edificação de diversas e vultosas benfeitorias, o que deve, portanto, afastar o entendimento firmado em sede de cognição sumária, que culminou com a citada ordem.
+Alega que ao tempo do deferimento da liminar possessória em favor da embargada ELISANE DE MELO BERNARDES COSTA não se levou em conta as provas que o embargante trouxe nos embargos de terceiro, os quais comprovariam o legítimo exercício de posse, e cuja análise é indispensável à prolação da decisão.
+Assevera que ao ser imitido na posse da fazenda, o embargante encontrou um imóvel sem qualquer manutenção ou mesmo benfeitorias, o que, inclusive, teria sido reconhecido pela Sra ELISANE, tanto na inicial da ação de reintegração/manutenção, como na liminar recursal autuada sob o n. 1009252-95.2021.8.11.0000.
+Aduz que a decisão também foi omissa quanto ao depósito no valor de R$79.324,70 realizados na conta de VANDELÍCIO PEREIRA DA SILVA, para que este pudesse quitar por sua dívida relativa ao imóvel e que confirmou o contrato de permuta firmado entre VANDELÍCIO e o agravante.
+Argumenta que o decisum foi ainda omisso quanto aos riscos apontados pelo recorrente, que não se limitam à possibilidade de alienação do imóvel, mas estendem-se aos danos patrimoniais em razão da interrupção da atividade econômica que o agravante exerce na fazenda.
+Afirma, no mais, que a decisão monocrática embargada deixou de se manifestar acerca da decisão colegiada proferida pelo STF nos autos da ADPF n. 828 de 06.04.2022 que confirmou a liminar concedida pelo E. Min. Luís Roberto Barroso, para prorrogar até o dia 30.06.2022 a vigência da Lei n. 14.216/2021, que suspendeu despejos e desocupações durante a crise sanitária de COVID-19, mantendo-se, ainda, a extensão erga omnes dos efeitos da norma aos imóveis rurais.
+Com tais argumentos, pugna pelo reconhecimento das omissões apontadas, a fim de que seja suspensa a ordem de reintegração de posse concedida em favor da embargada ELISANE DE MELO, ora embargada, nos autos da Ação de Reintegração de posse n. 1000035-72.2020.8.11.0029.
+É o relato.
+Decido.
+Conforme cediço, os embargos de declaração somente devem ser acolhidos quando verificada a presença na decisão embargada de quaisquer dos requisitos dispostos no artigo 1.022 do CPC/15 (correspondente ao artigo 535 do CPC/73), quais sejam: omissão, obscuridade, contradição ou erro material, in verbis:
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1o.”
+No caso dos autos, por ocasião da apreciação da liminar recursal, entendeu esta relatora que a sustação da reintegração de posse determinada nos autos da Apelação n. 1000035-72.2020.8.11.0029 interposta por ELISANE DE MELO BERNARDES COSTA não poderia se dar por uma decisão unipessoal porque decorrente de uma decisão colegiada.
+A propósito, mesmo que o acórdão proferido na mencionada apelação não tenha examinado o mérito das ações conexas, na quadra em que proferida a decisão ora embargada o exame monocrático da Relatora é provisório e de cognição rasa, não sendo o momento oportuno para uma incursão vertical no conteúdo e legitimidade da prova invocada, mesmo porque a condição de terceiro sustentada pelo adquirente agravante ainda haverá de ser analisada à luz dos §§1o e 3o do art.109 do CPC/15.
+Afinal, conquanto o reconhecimento da firma inserta no instrumento contratual de permuta de ID. n. 124159593 - Pág. 27/31 demonstre que a possível aquisição do imóvel pelo ora embargado se deu em 19.11.2019, certo é que nessa data o bem já era litigioso, haja vista que a Ação Declaratória de Resilição de Contratual n. 1000731-45.2019.8.11.0029 foi movida pelo permutante adverso, quem seja, o Sr. VANDELÍCIO PEREIRA DA SILVA, em 24.07.2019.
+Além disso, conquanto não se negue que o embargante esteja na posse imediata do imóvel nos últimos tempos, paira ainda uma dúvida acerca da natureza e do tempo dessa posse.
+Afinal, despeito de o instrumento de permuta datar de novembro de 2019, os documentos capazes de demonstrar o exercício efetivo de tal posse são recentes. Note-se, por exemplo, que (i) o registro do pacto de permuta na matrícula do imóvel se deu apenas em 21.01.2022 (ID. n. 124159593 - Pág. 37), (ii) a Guia de Trânsito Animal (GTA) de ID. n. 124159593 - Pág. 40 data de fevereiro de 2022, (iii) o Recibo de Inscrição CAR – MT da Fazenda Chico Mineiro perante a SEMA/MT se deu apenas em 04.03.2022 (ID. n. 124159593 - Pág. 95/96); (iv) a Guia de ITBI de ID. n. 124159593 - Pág. 98 foi emitida apenas em 14.05.2021; e (v) a fatura de energia elétrica do imóvel apresentada no ID. n. 124159593 - Pág. 25, em nome do embargante, refere-se ao consumo do mês de janeiro de 2022.
+No entanto, imperioso reconhecer que a decisão restou de fato omissa no que diz respeito à decisão plenária do STF nos autos da ADPF n. 828 que, por maioria, ratificou a medida cautelar incidental parcialmente deferida pelo Ministro Relator para prorrogar para 30.06.2022 a suspensão temporária de desocupações e despejos, de acordo com os critérios previstos na Lei n. 14.216/2021, estendendo-a, provisoriamente, às ocupações rurais.
+Nesse viés, o Pleno do Supremo Tribunal Federal manteve “a extensão, para as áreas rurais, da suspensão temporária de desocupações e despejos”, concedendo, ainda, “parcialmente a medida cautelar, a fim de que os direitos assegurados pela Lei no 14.216/2021, para as áreas urbanas e rurais, sigam vigentes até 30 de junho de 2022.”
+Vale frisar que, segundo o inciso I do §1o do art.2o da Lei n. 14.216/2022, aplicável a suspensão, dentre outras, à execução de decisão liminar em ações de natureza possessória e petitória, inclusive mandado pendente de cumprimento. Senão vejamos:
+“Art. 2o Ficam suspensos até 31 de dezembro de 2021 os efeitos de atos ou decisões judiciais, extrajudiciais ou administrativos, editados ou proferidos desde a vigência do estado de calamidade pública reconhecido pelo Decreto Legislativo no 6, de 20 de março de 2020, até 1 (um) ano após o seu término, que imponham a desocupação ou a remoção forçada coletiva de imóvel privado ou público, exclusivamente urbano, que sirva de moradia ou que represente área produtiva pelo trabalho individual ou familiar.
+§ 1o Para fins do disposto neste artigo, aplica-se a suspensão nos seguintes casos, entre outros:
+I – execução de decisão liminar e de sentença em ações de natureza possessória e petitória, inclusive mandado pendente de cumprimento;”
+E de acordo com o §2o do mencionado artigo, no caso de a decisão que consubstancie uma ordem de desocupação forçada tenha sido proferida após a decretação do Estado de Calamidade Pública pelo Decreto Legislativo n. 6/2020, em 20.03.2020, o comando judicial em questão somente poderia ser efetivado 1 (um) ano após o seu término de tal estado pandêmico.
+“Art.2o. omissis
+[...]
+§ 2o As medidas decorrentes de atos ou decisões proferidos em data anterior à vigência do estado de calamidade pública reconhecido pelo Decreto Legislativo no 6, de 20 de março de 2020, não serão efetivadas até 1 (um) ano após o seu término.”
+No caso, o aresto que deu provimento ao apelo de ELISANE DE MELO BERNARDES COSTA contra a sentença que havia extinto a Ação de Reintegração de Posse n. 1000035-72.2020.8.11.0029, para determinar o retorno dos autos à origem para regular processamento acabou revigorando a eficácia da liminar reintegratória que havia sido deferida pelo juízo singular em 29.01.2020, ou seja, antes da decretação do Estado de Calamidade Pública.
+Com isso, nos termos do §2o do art.2o da Lei n. 14.216/2022, combinado com a medida cautelar parcialmente deferida na ADPF n. 828, a liminar de reintegração de posse somente poderia ser cumprida depois do dia 30.06.2022.
+Sendo assim, conquanto a finalidade precípua dos autores da mencionada Ação de Descumprimento de Preceito Fundamental fosse, de início, a proteção de indivíduos em situação de vulnerabilidade social e que, sem a proteção pleiteada, ficariam ao relento, certo é que não há na parte dispositiva da decisão pretoriana critérios objetivos capazes de excluir o embargante dos efeitos do beneplácito em questão. Vejamos:
+“[...]
+III. CONCLUSÃO
+17. Ante o exposto, defiro parcialmente o pedido de medida cautelar incidental, nos seguintes termos:
+(i) Mantenho a extensão, para as áreas rurais, da suspensão temporária de desocupações e despejos, de acordo com os critérios previstos na Lei no 14.216/2021, até o prazo de 30 de junho de 2022;
+(ii) Faço apelo ao legislador, a fim de que delibere sobre meios que possam minimizar os impactos habitacionais e humanitários eventualmente decorrentes de reintegrações de posse após esgotado o prazo de prorrogação concedido;
+(iii) Concedo parcialmente a medida cautelar, a fim de que os direitos assegurados pela Lei no 14.216/2021, para as áreas urbanas e rurais, sigam vigentes até 30 de junho de 2022.”
+Com isso, acolho em parte os embargos de declaração para reconhecer omissão acerca de decisão cautelar proferida na ADPF e, por consequência, concedo efeitos infringentes aos aclaratórios para suspender o cumprimento da liminar reintegratória deferida nos autos da Ação de Reintegração de Posse n. 1000035-72.2020.8.11.0029 até o dia 30.06.2022.
+No mais, e em atenção até mesmo ao que dispõe o §3o do art.2o da Lei n. 14.216/2021, encaminho os presentes autos ao Núcleo Permanente de Métodos Consensuais de Solução de Conflitos deste Tribunal ante a possibilidade de autocomposição.
+Se infrutífera a composição, à conclusão para a apreciação do Agravo de Instrumento.
+Intimem-se. Cumpra-se com urgência.
+Cuiabá, 27 de maio de 2022.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
