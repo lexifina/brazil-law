@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado (Revisão Criminal 5663 - eDOC 15, p. 409):
+
+    REVISÃO CRIMINAL. PROCESSUAL PENAL. ART. 621, I, DO CÓDIGO DE PROCESSO PENAL – CPP. DISCUSSÃO REFLEXA AO TEXTO CONSTITUCIONAL. CABIMENTO. POSSIBILIDADE. VIOLAÇÃO AO ART. 400, DO CÓDIGO DE PROCESSO PENAL. OFENSA AO ART. 16 DO CÓDIGO PENAL – CP. NÃO CONHECIMENTO DA REVISIONAL. QUESTÃO NÃO EXAMINADA POR ESTA CORTE. APLICAÇÃO DOS ÓBICES SUMULARES NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL – STF. VERIFICAÇÃO DE DISSENSO JURISPRUDENCIAL OU MUDANÇA DE DIRECIONAMENTO. CASO EM QUE DEVE SER DADA A INTERPRETAÇÃO MAIS BENÉFICA. IMPOSSIBILIDADE DE INVERSÃO DA ORDEM. INTERROGATÓRIO DO ACUSADO DEVE SER FEITO AO FINAL DA INSTRUÇÃO. NULIDADE. RECONHECIMENTO. FENÔMENO DA PRECLUSÃO E NECESSIDADE DA DEMONSTRAÇÃO DE PREJUÍZO. POSICIONAMENTO DESTA TERCEIRA SEÇÃO. CASO CONCRETO. OCORRÊNCIA DE PRECLUSÃO E NÃO DEMONSTRAÇÃO DE PREJUÍZO. PROVAS INDEPENDENTES PARA A CONDENAÇÃO. NÃO UTILIDADE NA ANULAÇÃO. REVISÃO CRIMINAL PARCIALMENTE CONHECIDA E JULGADA PARCIALMENTE PROCEDENTE PARA RECONHECER A NULIDADE, AFASTANDO-A, NO CASO CONCRETO, EM RAZÃO DA PRECLUSÃO E DA AUSÊNCIA DE PREJUÍZO. 1. Cabível o manejo da revisão criminal fundada no art. 621, I, do CPP, ainda que se traga a discussão ofensa reflexa ao texto constitucional, porque a redação do artigo em comento dispõe "lei penal" de modo genérico e os estudos doutrinários indicam que o alcance da expressão é amplo, abrangendo, inclusive, contrariedades aos princípios constitucionais. No caso, há também a indicação de violação ao disposto no art. 400 do Código de Processo Penal. 2. Quanto à ofensa ao art. 16 do Código Penal, a revisional não ultrapassa o conhecimento, porquanto a questão não foi examinada por esta Corte, tendo em vista a aplicação dos óbices das Súmulas ns. 282 e 356 do STF. 3. É certo que existe jurisprudência nesta Corte que, partindo da interpretação dos arts. 400 e 222 do Código de Processo Penal, considera válido o interrogatório do acusado quando pendente de cumprimento carta precatória expedida para oitiva de testemunhas e do ofendido. No entanto, existem também precedentes neste STJ, contemporâneos aos citados, e outros mais recentes, que firmam posição diversa, baseada na orientação do Supremo Tribunal Federal qual seja, a de que a concretização do interrogatório do réu antes da oitiva das testemunhas e da vítima lhe priva do acesso à informação, promovendo nítido enfraquecimento dos princípios constitucionais do contraditório e da ampla defesa, concluindo que a regra do § 1º, do art. 222, do CPP não autorizaria a realização de interrogatório do réu em momento diverso do disposto no art. 400 do CPP, vale dizer, antes do final da instrução. 3.1. Assim, no caso, deve ser dada a interpretação mais benéfica ao artigo 621, I, do CPP, a fim do acolhimento da revisão criminal e aplicação do entendimento desta Corte de que "embora o artigo 222, § 1º, do Código de Processo Penal disponha que a expedição da carta precatória não suspende a instrução criminal, a hipótese não autoriza a indiscriminada inversão procedimental da ordem prevista no artigo 400 do Código de Processo Penal, sendo necessário que o Juízo processante observe o interrogatório do acusado como ato final da instrução" (RHC 118.854/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/2/2020). 4. De outra parte, a Terceira Seção do Superior Tribunal de Justiça (STJ), no julgamento da RvCr n. 5563/DF, reafirmou o entendimento de que a nulidade decorrente da inversão da ordem do interrogatório, prevista no artigo 400 do Código de Processo Penal (CPP), está sujeita à preclusão e demanda a demonstração de prejuízo, sendo esta a orientação do Supremo Tribunal Federal. 5. No caso, extrai-se dos autos que do termo de audiência de instrução e julgamento e das alegações finais da defesa não fora apontada a nulidade de que aqui se cuida. Assim, por não ter sido consignada durante a instrução processual, mas apenas na apelação, ocorreu o fenômeno da preclusão. Ademais, inexiste a demonstração de efetivo prejuízo, pois há provas independentes para a condenação, tais como imagens do sistema de videomonitoramento, depoimentos dos policiais, bem como a própria confissão do réu. Hipótese em que não há utilidade na anulação da sentença, pois de toda a forma ela seria mantida.6. Revisão criminal parcialmente conhecida e julgada parcialmente procedente para reconhecer a ocorrência de nulidade pela inversão da ordem do art. 400 do CPP, afastando-a, no caso concreto, em razão da preclusão e da ausência de prejuízo.
+
+    Busca-se, em suma, a concessão da ordem “para declarar a nulidade da condenação imposta ao paciente em razão da Ação Penal n. 0002959-18.2014.8.08.0013, de modo que seja determinada a reabertura da instrução probatória perante o juízo de primeiro grau com vistas a garantir ao réu a plena vigência do direito à ampla defesa e contraditório que lhe asseguram a prerrogativa de ter seu interrogatório como último ato da colheita de prova, oportunidade em que se deverá proceder com a análise acerca da possível aplicação da causa de diminuição de pena prevista no art. 16 do CPB”.
+
+    É o relatório. Decido.
+
+    1. Cabimento do habeas corpus:
+
+    A Corte compreende que, ordinariamente, o habeas corpus não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada, daí a impossibilidade de figurar como sucedâneo de revisão criminal. Acerca do tema:
+
+    “O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal.” (HC 128693 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 04/08/2015, grifei)
+
+    “O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal.” (HC 123430, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 14/10/2014, grifei)
+
+    “(...) habeas corpus não pode ser utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior.” (HC 86367, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 30/09/2008, grifei)
+
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de revisão criminal.
+
+    2. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, em que a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações, o que, no caso concreto, não se verifica.
+
+    3. Diante do exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+
+    Publique-se. Intime-se.
+
+    Brasília, 27 de maio de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
