@@ -1,0 +1,38 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 0002625-49.2017
+APELANTE: BANCO BRADESCO S. A.
+APELADOS: JUNIOR VAN TRANSPORTES TERRESTRES LTDA. - ME E OUTROS
+EMENTA – APELAÇÃO CÍVEL – AÇÃO DE BUSCA E APREENSÃO – ABANDONO DA CAUSA – EXTINÇÃO DO FEITO, SEM JULGAMENTO DO MÉRITO – INTIMAÇÃO DA PARTE VIA AR – INTIMAÇÃO DOS ADVOGADOS – DECISÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE – RECURSO CONHECIDO E DESPROVIDO.
+O inciso III do artigo 485 do Código de Processo Civil estabelece que o processo será extinto, sem julgamento do mérito, quando, por não promover os atos e diligências que lhe competir, o autor abandonar a causa por mais de 30 (trinta) dias.
+DECISÃO MONOCRÁTICA
+Trata-se de apelação interposta contra sentença de ID 125233683 exarada nos autos da AÇÃO DE BUSCA E APREENSÃO de Cód. n.o 44707, que tramitou na Vara Única da Comarca de Taquari, que extinguiu o feito, sem resolução do mérito, nos termos do art. 485, III e §1o, do CPC, em razão da inércia do autor, ora apelante, em dar prosseguimento ao feito.
+Irresignado, o banco apelante afirma que, para se decretar a extinção do feito, sem resolução de mérito, necessário, de fato, o abandono do processo, ou seja, deve haver demonstração inequívoca de que a parte pretende abandoná-lo, o que não se constata nos autos, posto que as custas foram pagas e não houve advertência de extinção ao seu patrono. Avoca o princípio da decisão de mérito. Pede, por fim, o provimento do recurso, de ID 125233683, para reformar a sentença combatida.
+Sem contrarrazões recursais ante a falta de angularização processual.
+Eis os relatos necessários.
+Decido.
+O art. 932, IV, do novo CPC, c/c a Súmula no 568 do STJ, permite que o relator negue provimento ao recurso que for contrário à súmula ou com jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior.
+Confira o teor do Verbete no 586:
+“O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.”
+Tais decisões têm por finalidade desafogar os Órgãos Colegiados, buscando dar efetividade ao princípio da celeridade e economia processual, sem deixar de observar, por óbvio, as garantias constitucionais do devido processo legal, do contraditório e da ampla defesa.
+Desse modo, plenamente cabível o julgamento do recurso por meio de decisão monocrática, porque há autorização para tanto no sistema processual civil vigente.
+Sobre o tema comenta Daniel Amorim Assumpção Neves que “este dispositivo (artigo 932) deve ser interpretado ampliativamente, de forma a ser aplicável sempre que existir precedente sobre a matéria de tribunal superior, ainda que não exista Súmula sobre o tema e que a matéria não tenha sido objeto de julgamento de causas repetitivas ou do incidente de assunção de competência” (NOVO Código de Processo Civil, p. 1513, 2016 a ed., Jus PODIVM).
+Pois bem.
+O inciso III do artigo 485 do Código de Processo Civil estabelece que o processo será extinto, sem julgamento do mérito, quando, por não promover os atos e diligências que lhe competir, o autor abandonar a causa por mais de 30 (trinta) dias. O parágrafo primeiro do mesmo artigo estabelece que “Nas hipóteses descritas nos incisos II e III, a parte será intimada pessoalmente para suprir a falta no prazo de 5 (cinco) dias.”.
+In casu, verifica-se que foram procedidos vários atos processuais, culminando com o abandono da parte autora do feito.
+Documento de ID 125233683 dá conta de que a parte apelante foi intimada pessoalmente para promover prosseguimento no feito, contudo, permaneceu inerte, conforme certidão de ID 125233683.
+Portanto, foram cumpridas todas as formalidades do art. 485, § 1o, do CPC, porém, o autor, ora apelante, não deu andamento ao feito.
+Desse modo, correta se mostra a decisão que decreta a extinção do processo com base no citado dispositivo processual.
+A propósito do assunto, colaciono arestos que evidenciam, à exaustão, o pacífico entendimento deste Tribunal:
+"AGRAVO REGIMENTAL - DECISÃO MONOCRÁTICA EM APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO – ABANDONO DA CAUSA – EXTINÇÃO DO PROCESSO - INTIMAÇÃO PESSOAL DO AUTOR – CUMPRIMENTO DO ART. 267, II E III, E § 1o, DO CPC - RÉU NÃO CITADO – INAPLICABILIDADE DA SÚMULA 240 DO STJ - MATÉRIA TRATADA EM RECURSO REPETITIVO - NÃO PROVIMENTO. O art. 557 do CPC autoriza o julgamento monocrático de recurso em confronto com jurisprudência dominante do STJ. Efetivada a intimação pessoal do autor, sem que haja manifestação alguma, é perfeitamente cabível a extinção por abandono da causa – art. 267, II e III, e § 1o, do CPC. A Súmula 240 do Superior Tribunal de Justiça não se aplica quando o réu não foi citado, matéria pacificada no julgamento do recurso repetitivo REsp.1.120.097/SP." (TJMT. AgR, 132583/2014, DES.RUBENS DE OLIVEIRA SANTOS FILHO, SEXTA CÂMARA CÍVEL, Data do Julgamento 15/10/2014, Data da publicação no DJE 20/10/2014 – sem destaques no original).
+“APELAÇÃO CÍVEL – AÇÃO DE BUSCA E APREENSÃO – AUSÊNCIA DE CITAÇÃO – INAPLICABILIDADE DA SÚMULA No STJ 240 – EXTINÇÃO DO PROCESSSO POR ABANDONO DA CAUSA SEM REQUERIMENTO DA PARTE ADVERSA – POSSIBILIDADE – REQUISITOS DO ART. 267, III, §1o DO CPC – OBSERVADOS – JULGAMENTO DE OFÍCIO – RECURSO DESPROVIDO. A Súmula no 240 do Superior Tribunal de Justiça não é aplicável nos casos em que não ocorreu a angularização processual. Se inaplicável, no caso, a Súmula no 240 do STJ e cumprido os requisitos dispostos no artigo 267, inciso III, e § 1o, do CPC, fica autorizada a extinção do processo, de ofício, por abandono da causa, independentemente de requerimento, anuência ou ciência da parte requerida.’ (Ap, 124325/2014, DESA.CLEUCI TEREZINHA CHAGAS PEREIRA DA SILVA, QUINTA CÂMARA CÍVEL, Data do Julgamento 11/02/2015, Data da publicação no DJE 16/02/2015 – sem destaque no original).
+“RECURSO DE APELAÇÃO – BUSCA E APREENSÃO – INÉRCIA – EXTINÇÃO – APLICAÇÃO DO ARTIGO 267, II e III, §1o DO CPC – IRRESIGNAÇÃO RECURSAL - NECESSIDADE DE INTIMAÇÃO PESSOAL DO AUTOR – REGULARIDADE DOS ATOS PROCESSUAIS - SÚMULA 240/STJ - INAPLICABILIDADE - SENTENÇA MANTIDA – RECURSO DESPROVIDO. A extinção da demanda em face da inércia do requerente/apelante, impõe a observância das disposições contidas no artigo 267, inciso III, §1o do CPC, o que restou caracterizado no presente caso. “É inaplicável, na hipótese dos autos, o teor da Súmula no 240 desta Corte, uma vez que não foi instaurada a relação processual, diante da ausência de citação do réu. 3. Agravo regimental a que se nega provimento.” (AgRg no AgREsp no 309.971 – ES (2013/0065145-1), Relatora Ministra Maria Isabel Gallotti, Dt Julgamento: 18.06.2013, DJe: 01.07.2013) (Ap, 130319/2014, DES.SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA CÍVEL, Data do Julgamento 10/02/2015, Data da publicação no DJE 13/02/2015 – sem destaques no original).
+Insta salientar, por fim, que, no caso em apreço, é inaplicável a Súmula no 240 do STJ. Isto porque a parte ré não integrou o polo passivo da lide até aquele momento, sendo, pois, despiciendo o seu requerimento para a extinção do processo por abandono da causa.
+Desta feita, como a parte fora intimada pessoalmente, bem como os seus patronos, por meio do DJE, correta está a sentença, não havendo a necessidade da sua reforma.
+Dispositivo.
+Diante do exposto, em decisão monocrática, nos termos do art. 932, IV do CPC c/c Súmula no 568 do STJ, CONHEÇO da apelação interposta e NEGO-LHE PROVIMENTO.
+Inaplicável na espécie o §11 do art. 85 do CPC em razão da falta de angularização processual.
+Às providências necessárias.
+Des. DIRCEU DOS SANTOS
+RELATOR
