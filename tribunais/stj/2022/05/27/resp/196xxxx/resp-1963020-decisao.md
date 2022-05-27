@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejadocontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assimementado (e-STJ, fl. 279):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IRSM. SEGURADO FALECIDO ANTES DO TRÂNSITO EM. DIFERENÇAS RELATIVAS AO SEGURADO NÃO JULGADO DA AÇÃO CIVIL PÚBLICA PODEM SER EXECUTADAS POR HERDEIRO.
+1. A controvérsia entre as partes reside na análise da legitimidade de viúva pensionista para postular o recebimento das parcelas em atraso das diferenças havidas em decorrência da aplicação do IRSM de fevereiro de 1994, relativas ao benefício previdenciário do instituidor da pensão por morte.
+2. De acordo com os elementos dos autos originários, o Sr. Valter Jose Scatena era titular de benefício de aposentadoria por tempo de contribuição (NB 1026488351) sendo que, com seu falecimento (12/12/2002), a viúva passou a fazer jus à pensão por morte por ele instituída.
+3. Considerando que o óbito do segurado instituidor da pensão ocorreu antes da constituição definitiva do título executivo judicial (21.10.2013 - trânsito em julgado), o direito às diferenças decorrentes da aplicação do IRSM de fevereiro de 1994 sequer se incorporou a seu patrimônio jurídico, razão pela qual tal direito não se transferiu a seus sucessores.
+4. Agravo de instrumento desprovido.
+É o relatório.
+A questão jurídica referente à legitimidade dos pensionistas para pleitear as diferenças decorrentes de revisão da aposentadoria foi submetida ao regime dos precedentes qualificados vinculantes pelo Superior Tribunal de Justiça nos seguintes termos:
+Tese 1057/STJ:
+I. O disposto no art. 112 da Lei n. 8.213/1991 é aplicável aos âmbitos judicial e administrativo;
+II. Os pensionistas detêm legitimidade ativa para pleitear, por direito próprio, a revisão do benefício derivado (pensão por morte) - caso não alcançada pela decadência -, fazendo jus a diferenças pecuniárias pretéritas não prescritas, decorrentes da pensão recalculada;
+III. Caso não decaído o direito de revisar a renda mensal inicial do benefício originário do segurado instituidor, os pensionistas poderão postular a revisão da aposentadoria, a fim de auferirem eventuais parcelas não prescritas resultantes da readequação do benefício original, bem como os reflexos na graduação econômica da pensão por morte; e
+IV. À falta de dependentes legais habilitados à pensão por morte, os sucessores (herdeiros) do segurado instituidor, definidos na lei civil, são partes legítimas para pleitear, por ação e em nome próprios, a revisão do benefício original - salvo se decaído o direito ao instituidor - e, por conseguinte, de haverem eventuais diferenças pecuniárias não prescritas, oriundas do recálculo da aposentadoria do de cujus.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
