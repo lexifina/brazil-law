@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de CAMARGO CORREA - RODOBENS EMPREENDIMENTO IMOBILIÁRIOS SPE LTDAcontra decisão que inadmitiu recurso especial fundado no art. 105,III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunalde Justiça do Estado de São Paulo, assim ementado:
+"Apelação. Compromisso de compra e venda de imóvel em construção.
+Atraso na entrega da unidade. Caracterização. Superação do prazo de tolerância. Rejeição da tese de mora do adquirente, pois a parcela final do preço estava prevista no contrato para pagamento após conclusão das obras. Atraso da fornecedora que inviabiliza contratação do financiamento, afastando mora do comprador. Mora da vendedora que decorre do vencimento do prazo previsto no contrato, sendo desnecessária notificação (art. 397 do Código Civil). Acolhimento do recurso dos adquirentes para que o cômputo do prazo de tolerância ocorra em dias, e não em meses, a partir da data prevista no quadro- resumo do contrato.
+Pretensão indenizatória procedente. Presunção de prejuízo do adquirente, independentemente da finalidade do negócio (Súmula nº 162 do TJSP e Tema 996 do STJ). Indenização fixada na forma de aluguel, incidente desde o término do prazo de tolerância até a efetiva entrega das chaves.
+Dano moral. Admissibilidade. Demora excessiva no cumprimento do contrato, superando o âmbito do simples incômodo decorrente de inadimplemento contratual.
+Indenização devida.
+Recurso da ré improvido e recurso dos autores parcialmente provido." (e-STJ, fl. 287)
+Nas razões do recurso especial, a ora agravante alega ofensa aos arts. 186, 188,do CC, sustentando, em síntese,a ausência dequalquer conduta que gere o dever de indenizar o recorrido por danos morais, uma vez que não foram preenchidos os requisitos do art. 927do CPC/15.
+É o relatório. Decido.
+Com relação aos danos morais, a conclusão do Tribunal de origem foi de queos mesmos restaram configurados pois o atraso na entregade imóvelextrapola o mero contratempo e frustração negocial, in verbis:
+"Procede o pedido de indenização de dano moral.
+A orientação firmada pela jurisprudência desta Câmara é no sentido de que cabível indenização em situações em que o atraso se prolongou por tempo excessivo, colocando o adquirente em situação de abalo emocional, como se deu no caso sub judice (TJSP - 1ª Câmara de Direito Privado - Ap. nº 1003501-54.2015.8.26.0604 - Rel. Claudio Godoy - j. 12/05/2017; TJSP - 1ª Câmara de Direito Privado - Ap. nº 0011214-18.2011.8.26.0223 - Rel. Christine Santini - j.
+11/08/2015; TJSP - 1ª Câmara de Direito Privado - Ap. nº 0047567-28.2012.8.26.0577 - Rel. Augusto Rezende - j. 09/05/2017; TJSP - 1ª Câmara de Direito Privado - Ap. nº 1029752-40.2013.8.26.0100 - Rel. Francisco Loureiro - j. 05/05/2017).
+A demora de dez meses além do prazo de tolerância é bastante significativa e autoriza reconhecimento do dano moral.
+Assim, considerando as circunstâncias do caso, o grau de culpa, a intensidade da lesão e consequências do evento, fixo a indenização em R$ 15.000,00 (quinze mil reais)" (e-STJ, fl. 292)
+Como se vê, na análise dos autos, a Corte de origem entendeu que ocabimento do dano moral foi justificado apenas pelo fato de ter havidoatraso na entrega da obra.
+No tocante aos danos morais, cumpre salientar que, nos termos do"entendimento firmado por este Superior Tribunal de Justiça, o meroinadimplemento contratual, consubstanciado no atraso da entrega do imóvel,não gera, por si só, danos morais indenizáveis" (REsp 1.642.314/SE, Rel.Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2017, DJe de22/3/2017).
+No caso, o v. acórdão recorrido decidiu a controvérsia em desconformidadecom a jurisprudência desta Corte, no sentido de que o descumprimento doprazo de entrega de imóvel objeto de contrato de compra e venda somenteautoriza a condenação por dano moral se houver situação específica quejustifique ofensa ao direito da personalidade, situação não demonstradanos autos. No mesmo sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS.ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ATRASO NA ENTREGA DEIMÓVEL. MERO INADIMPLEMENTO CONTRATUAL NÃO GERA DANOS MORAIS INDENIZÁVEIS.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, éinviável o agravo interno que deixa de impugnar especificadamente osfundamentos da decisão agravada.
+2. Nos termos do entendimento firmado por este Superior Tribunal deJustiça, o mero inadimplemento contratual, consubstanciado no atraso daentrega do imóvel, não gera, por si só, danos morais indenizáveis (REsp1642314/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em16/3/2017, DJe 22/3/2017).
+3. Agravo interno a que se nega provimento."
+(AgRg no AREsp 737.158/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 17/08/2017, DJe de 22/08/2017)
+Por tudo, tendo em vista que, no presente caso, a fundamentação do dano moral teve como justificativa somente a frustração da expectativa da parte autora, ora recorrida, que se privou do uso do imóvel na data aprazada, sem tecer fundamentação adicional a justificar a angústia ou abalo psicológico de modo a configurar dano moral, o presente recurso especial deve ser provido.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, doRISTJ, conheço do agravo para darprovimento ao recurso especial, a fim deafastar a condenação darecorrenteao pagamento de indenização por danos morais.
+Publique-se.
