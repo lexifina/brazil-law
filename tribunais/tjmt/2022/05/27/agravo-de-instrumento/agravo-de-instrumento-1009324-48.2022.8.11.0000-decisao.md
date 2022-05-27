@@ -1,0 +1,18 @@
+Vistos etc.
+Recurso de agravo de instrumento, com pedido liminar, interposto por BANCO BRADESCO S.A. contra decisão proferida pelo juízo de direito da Terceira Vara Especializada Direito Bancário da Comarca de Cuiabá/MT, nos autos da Execução no 0012475-67.2009.8.11.0041, movida em desfavor de JEAN PAULO ORMOND SIMOES-ME e JEAN PAULO O SIMOESE, que indeferiu o pedido de realização de pesquisas junto aos Sistemas conveniados para identificação de possível endereço diverso.
+Sustenta que passados mais de três anos desde a primeira e única pesquisa BACENJUD realizada nos autos em 2018, requereu a realização de nova pesquisa de ativos, desta vez pela utilização do novo sistema SISBAJUD, bem como a realização pela primeira vez da pesquisa RENAJUD para localização de veículos dos devedores e a consulta às declarações de imposto de renda do executado pessoa física via INFOJUD.
+Afirma que não realizou o pleito de pesquisas de endereços, mas sim pedido de penhora de ativos, pesquisa de veículos e consulta às declarações de imposto de renda do devedor pessoa física. Que não é necessário o esgotamento de todos os meios para que as pesquisas sejam efetivadas nos autos.
+Assevera que o fato de já ter sido realizada uma tentativa de penhora online não é óbice para realização de novas buscas de bens penhoráveis do devedor, seja pelo sistema SISBAJUD, seja através da pesquisa RENAJUD e INFOJUD.
+Anota que que o processo de execução, iniciou-se no ano de 2016, e em 2017 realizou-se a tentativa de busca por ativos financeiros do executado via sistema Bacenjud. Que para que tais sistemas sejam novamente acessados não é necessário que o credor aponte indícios de alteração da situação patrimonial da parte devedora. Que pode o credor utilizar destes sistemas para satisfação de seu crédito executado nesta ação que já se arrasta por mais de 13 (treze) anos no judiciário.
+Requer a atribuição de efeito ativo para, desde já, determinar a realização das pesquisas SISBAJUD, RENAJUD e INFOJUD.
+Síntese necessária.
+Em sede de cognição sumária, entendo ter a agravante logrado êxito em demonstrar os requisitos elencados nos artigos 1.015, parágrafo único, e artigo 1.017, inciso I, ambos do Código de Processo Civil que, a princípio, estão configurados com toda documentação e exposição contida na peça de interposição, suficientes para o conhecimento do agravo em sua forma instrumental.
+Da mesma forma, neste instante inicial e diante dos documentos coligidos aos autos, entende-se que há elementos capazes de evidenciar a probabilidade do direito buscado pelo agravante, conforme exigido pelo art. 300 do CPC.
+Com efeito, considerando os fatos alegados pela parte autora em sua petição inicial, os elementos de prova constantes nos autos, e por tratar-se de medida de cautela, inclusive deferida anteriormente (tentativa frustrada), aliada ao fato de que a execução se arrasta por mais de 13 anos, sem que a parte exequente tenha recuperado o seu crédito, têm-se que, ao menos nesta fase de cognição sumária, restam presentes os requisitos para a renovação da medida.
+Com essas considerações, DEFIRO EM PARTE a liminar vindicada tão somente para determinar a suspensão dos efeitos da decisão agravada, até que esta situação seja analisada e decidida pela colenda Segunda Câmara Cível.
+Comunique-se o juízo de origem.
+Intimem-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= relator =
