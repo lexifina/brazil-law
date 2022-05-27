@@ -1,0 +1,21 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1009961-96.2022.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por DILCE MARFIZA ANTUNES DE SOUZA em virtude da decisão proferida pelo Juiz da 6.a Vara Cível da Comarca de Alta Floresta que, nos autos Ação de Reparação de Dano Moral em fase de Cumprimento de Sentença n.o 0000559-56.2000.8.11.0007 movida por SABRINA DELAGNOLLI PATEL EIRELLI, NEIVA MARIA DELAGNOLLI PATEL e PATEL & PATEL LTDA.-EPP, rejeitou a Exceção de Pré-Executividade oposta pela Agravante, afastando a arguição de nulidade de citação e de prescrição, bem como rechaçou a alegação de irregularidade do procedimento de instauração de desconsideração de personalidade jurídica.
+Inconformada, a Agravante sustenta queo processo executivo originário não deve prevalecer em razão de suposta ausência de citação das empresas executadas/coobrigadas LANCE LIVRE COMÉRCIO DE BOVINOS LTDA. e LANCE LIVRE COMÉRCIO DE ANIMAIS LTDA. Afirma que somente a Agravante e o sócio MARCUS ROGÉRIO CRISTOVAM foram efetivamente citados enquanto pessoas físicas.
+Defende o reconhecimento da ausência de citação válida para ser decretada a extinção do processo sem resolução do mérito, por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo.
+Noutro ponto, manifesta inconformismo quanto ao afastamento da tese de prescrição arguida. Destaca que o ponto de divergência quanto à matéria relativa à prescrição se refere ao termo inicial para contagem do prazo prescricional nos casos de incidentes de desconsideração de personalidade jurídica.
+Assenta que a demanda de origem teve início em meados de 2000, ao passo que o procedimento de instauração da desconsideração da personalidade jurídica formulado pela Agravadas foi protocolizado em 31/07/2019. Em contrapartida, afirma que as empresas coobrigadas/executadas não estão em funcionamento desde o ano de 2011, ou seja, há o lapso temporal de mais de 08 (oito) anos entre o pedido de instauração de incidente de desconsideração da personalidade jurídica e o encerramento das empresas.
+Sustenta que a ocorrência da prescrição ao caso concreto é patente, posto que, segundo afirma, o prazo para a Agravante apresentar e executar terceiros é de 05 (cinco) anos. Defende que o termo inicial do prazo prescricional inicia-se da ciência da baixa da atividade empresarial da pessoa jurídica coobrigada junto ao órgão cadastral (JUCEMAT).
+Pondera que, ao caso concreto, haveria de ser aplicada a chamada “Teoria Maior ou Objetiva da Desconsideração da Personalidade Jurídica”. Destaca que inexiste entre as partes relação de consumo, mas simples relação comercial/civilista.
+Por fim, defende a ausência dos requisitos ensejadores para a instauração do incidente de desconsideração da personalidade jurídica, quais sejam: ausência de fraude, confusão patrimonial ou dissolução irregular.
+Com base nessas assertivas, requer seja agregado efeito suspensivo ao recurso para sobrestar o decisum invectivado. No mérito, pugna pelo provimento do Instrumental, a fim de que seja reconhecida a nulidade do processo por ocorrência de querela nullitatis insanabilis decorrente da nulidade de citação e/ou prescrição da pretensão executiva das Agravadas, ou, ainda, que seja reconhecida a ausência dos requisitos ensejadores da desconsideração da personalidade jurídica.
+É, no essencial, o relatório. DECIDO.
+Da análise acurada dos autos e da documentação que o acompanha, nesta fase de cognição sumária, não é possível entrevera confluência dos pressupostos necessários para a concessão damedida liminar em sede recursal.
+Isto porque, não sobressaem elementos mínimos que justifiquem qualquer ameaça ou perigo de dano iminente que autorize a concessão do efeito suspensivo pleiteado que não possa aguardar o julgamento pelo colegiado – o que tem ocorrido de forma célere neste Tribunal de Justiça, sendo, pois, de rigor, o indeferimento da tutela recursal vindicada.
+Por tais considerações, indefiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intimem-seas Agravadas para, querendo, apresentarem defesa, nos termos do artigo 1.019, II do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 27 de maio de 2022.-
+Des.a Marilsen Andrade Addario
+Relatora em substituição legal
