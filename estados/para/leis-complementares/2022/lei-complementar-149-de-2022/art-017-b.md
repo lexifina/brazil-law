@@ -1,0 +1,4 @@
+Art. 17-B. Os beneficiários de pensão militar especial farão jus ao pagamento de auxílio-morte no valor de R$ 70.000,00 (setenta mil reais), em parcela única, após o registro da pensão militar especial pelo Tribunal de Contas do Estado do Pará.
+§ 1° As despesas decorrentes do auxílio-morte serão de responsabilidade exclusiva do Estado do Pará, mediante a alocação de recursos ao Instituto de Gestão Previdenciária e de Proteção Social do Estado do Pará (IGEPPS), nos termos do art. 41 desta Lei Complementar.
+§ 2° O valor referido no caput deste artigo será objeto de rateio entre os beneficiários da pensão militar especial, na forma do art. 30 desta Lei Complementar.
+§ 3° Compete ao Instituto de Gestão Previdenciária e de Proteção Social do Estado do Pará (IGEPPS), a gestão, a concessão e o pagamento de auxílio-morte aos beneficiários de pensão militar especial. ..............................................
