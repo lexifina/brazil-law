@@ -1,0 +1,22 @@
+DECISÃO
+Na origem trata-se deagravo de instrumento, com o fim de reformar decisão que, em sede de cumprimento de sentença contra a Fazenda Pública, determinou a remessa dos autos à Contadoria do Juízo para realização de cálculos que informe o valor devido pela União, com o afastamento da compensação de parcela "PSS" antes da expedição do requisitório, bem como a adoção dos critérios de correção monetária previstos no título exequendo ou, na sua ausência, aqueles previstos no Manual de Cálculos da Justiça Federal. No Tribunal a quo negou-se provimento ao agravo de instrumento. O recurso especial foi interposto contra Acórdão proferido no TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, com o seguinte resumo de ementa:
+PROCESSUAL CIVIL CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA BASE DE CÁLCULO DOS JUROS DE MORA INCIDÊNCIA SOBRE O TOTAL DO DÉBITO SEM DESCONTO DA CONTRIBUIÇÃO PARA O PLANO DE SEGURIDADE SOCIAL PSS NÃO P R O V I M E N T O
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Primeira Seção do STJ firmou entendimento de que "a retenção na fonte da contribuição do Plano de Seguridade do Servidor Público - PSS, incidente sobre valores pagos em cumprimento de decisão judicial, prevista no art. 16-A da Lei 10.887/04, constitui obrigação ex lege e como tal deve ser promovida independentemente de condenação ou de prévia autorização no título executivo". Aexclusão da contribuição previdenciária (PSS) da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador do tributo.Assim, é ilegal excluir o valor devido a título de Contribuição do PSS da base de cálculo dos juros de mora, pois os referidos consectários devem incidir sobre o valor pago. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. JUROS DE MORA. BASE DE CÁCULO. PSS. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1. Este egrégio Superior Tribunal de Justiça firmou entendimento segundo o qual a exclusão da contribuição previdenciária (PSS) da base de cálculo dos juros de mora acarreta indevida antecipação do fato gerador do tributo. Precedente: AgInt no REsp 1942190/CE, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 22/09/2021.
+2. Agravo interno do ente federativo que se nega provimento.
+(AgInt no REsp 1881401/PE, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. PSS. RETENÇÃO NA FONTE. EXCLUSÃO DO VALOR DA BASE DE CÁLCULO DOS JUROS MORATÓRIOS. ART. 16-A DA LEI 10.887/2004.
+1. Não prospera o Agravo Interno.
+2. A Primeira Seção do STJ firmou entendimento de que "a retenção na fonte da contribuição do Plano de Seguridade do Servidor Público - PSS, incidente sobre valores pagos em cumprimento de decisão judicial, prevista no art. 16-A da Lei 10.887/04, constitui obrigação ex lege e como tal deve ser promovida independentemente de condenação ou de prévia autorização no título executivo" (REsp 1.196.777/RS, Primeira Seção, Rel. Min. Teori Albino Zavascki, DJe de 4.11.2010).
+3. O art. 16-A da Lei 10.887/2004, com redação dada pela Lei 12.530/2010, define que a retenção ocorre no momento do pagamento.
+Assim, é ilegal excluir o valor devido a título de Contribuição do PSS da base de cálculo dos juros de mora, pois os referidos consectários devem incidir "sobre o valor pago".
+4. Agravo Interno não provido.
+(AgInt no REsp 1952158/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/02/2022, DJe 15/03/2022)
+Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
