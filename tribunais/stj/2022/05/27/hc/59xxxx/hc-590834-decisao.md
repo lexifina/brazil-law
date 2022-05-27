@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado de próprio punho por EDILSON DE SOUZA VICENTE, em seu benefício, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Habeas Corpus n. 0011366-36.2020.8.19.0000, de relatoria do Desembargador Paulo Baldez).
+Os autos dão conta de que o Juízo da 4ª Vara Criminal da Comarca de Duque de Caxias/RJ decretou, primeiramente, a prisão temporária (e-STJ fl. 19) e, depois, a prisão preventiva (e-STJ fls. 20/21) do ora paciente em razão da suposta prática dos crimes previstos nos arts. 121, § 2º, II, III e VI, 155 e 211, todos do Código Penal.
+Irresignado, o impetrante/paciente impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+No presente writ, o impetrante/paciente alega que não estão presentes os requisitos autorizadores da prisão preventiva e que não há fundamentos idôneos para justificar a sua decretação/manutenção, bem como apontaa existência de excesso de prazo na formação da culpa.
+Assevera que "encontra-se preso cautelarmente desde 05/09/2019, sem que exista no mínimo data marcada para a realização da primeira audiência, para ouvir testemunhas e o depoimento do paciente. Sendo certo que o paciente jamais deu causa ao latente excesso de prazo", e que, além do atual quadro provocado pela disseminação do novo coronavírus, "deve-se ainda  ser  sopesado o fato do paciente ter nível superior, sendo professor contratado pelo Estado, não cabendo ser recolhido preso, senão em sala de Estado Maior, com instalações e comodidades condignas e, na sua falta, em prisão domiciliar" (e-STJ fls. 5 e 7).
+Por isso, requer, inclusive liminarmente, a revogação da prisão cautelar, mesmo mediante a imposição de medidas cautelares diversas, e, alternativamente, pleiteia "que sejam respeitadas as prerrogativas do paciente de nível superior e seja concedida a prisão domiciliar" (e-STJ fl. 8).
+Indeferida a liminar, e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento ou indeferimento da ordem.
+É o relatório.
+As informações obtidas no sítio eletrônico do Tribunal de origem noticiam que, em 28/4/2022, o paciente foi pronunciado como incurso nas sanções dos arts. 121, § 2º, II, III e VI, 155 e 211, todos do Código Penal, negado o direito de recorrer em liberdade.
+Dessarte, na linha da orientação firmada pela Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2016, DJe 29/3/2016).
+Ademais, prejudicado também se encontra o pleito de relaxamento de prisão em decorrência do alegado constrangimento ilegal pelo excesso de prazo na formação da culpa, em razão da superveniência de sentença de pronúncia, conforme inteligência da Súmula n. 21/STJ, que prescreve:
+Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.(Súmula 21, TERCEIRA SEÇÃO, julgado em 6/12/1990, DJ 11/12/1990)
+Tal o contexto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
