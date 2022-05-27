@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. VALORES RETIDOS A TÍTULO DE CONTRIBUIÇÃO PREVIDENCIÁRIAE IMPOSTO DE RENDA RETIDO NA FONTE. INCIDÊNCIA.
+1.A legislação processual (art. 932 do CPC/2015, c/c o art. 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao ministro relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2.ASegunda Turma desta Corte de Justiça, na apreciação do REsp n. 1.902.565/PR, firmou o posicionamento de que "o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal".
+3.O mesmo entendimento aplica-se ao imposto de renda, que não pode ser excluído da base de cálculo da contribuição previdenciária patronal.
+4. Desse modo, a pretensão de o empregador descontar da base de cálculo da contribuição por ele devida uma parcela da remuneração paga ao empregado, que corresponde à participação do empregado no custeio do benefício, não pode ser acolhida.
+5. Aconclusão quanto à base de cálculo da contribuição previdenciária patronal aplica-se indistintamente à contribuição ao SAT/RAT e às contribuições sociais devidas a terceiros, tendo em vista a identidade de bases de cálculo.
+6. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejadocontra decisão que negou provimento ao recurso especial (e-STJ, fls. 4.764-4.769).
+A parte agravante, buscando o afastamento da aplicação da conclusão firmada no julgamento do REsp n. 1.902.565/PR,aduz a inaplicabilidade dos arts. 932, V, do CPC e 255, § 4º, do RISTJ.
+Afirma, nesse sentido, que " ..  as fundamentações contidas nas razões do recurso especial e no acórdão recorrido tiveram como ponto nodal o conceito de receita bruta/faturamento, matéria com natureza eminentemente constitucional" (e-STJ, fl. 1.195) e, ainda, que"o recurso especial interposto pela agravante não é contrário a tese fixada em julgamento de recurso repetitivo" (e-STJ, fl. 1.196).
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. VALORES RETIDOS A TÍTULO DE CONTRIBUIÇÃO PREVIDENCIÁRIAE IMPOSTO DE RENDA RETIDO NA FONTE. INCIDÊNCIA.
+1.A legislação processual (art. 932 do CPC/2015, c/c o art. 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao ministro relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2.ASegunda Turma desta Corte de Justiça, na apreciação do REsp n. 1.902.565/PR, firmou o posicionamento de que "o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal".
+3.O mesmo entendimento aplica-se ao imposto de renda, que não pode ser excluído da base de cálculo da contribuição previdenciária patronal.
+4. Desse modo, a pretensão de o empregador descontar da base de cálculo da contribuição por ele devida uma parcela da remuneração paga ao empregado, que corresponde à participação do empregado no custeio do benefício, não pode ser acolhida.
+5. Aconclusão quanto à base de cálculo da contribuição previdenciária patronal aplica-se indistintamente à contribuição ao SAT/RAT e às contribuições sociais devidas a terceiros, tendo em vista a identidade de bases de cálculo.
+6. Agravo interno a que se nega provimento.
+VOTO
+A parte insurgente não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Esclarece-se inicialmente que a legislação processual (art. 932 do CPC/2015, c/c o art. 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao ministro relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte.
+Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR INSTAURADO CONTRA OFICIAL DE TITULAR DE CARTÓRIO. ALEGAÇÃO DE ILEGALIDADE NOS ATOS DE PRORROGAÇÃO DA SUSPENSÃO DO IMPETRANTE E NEGATIVA DE ADIAMENTO DE AUDIÊNCIA. FUNDAMENTOS DO ACÓRDÃO NÃO ATACADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 283/STF. ATO IMPUGNADO. DEVIDAMENTE FUNDAMENTADO. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PREJUÍZO NÃO DEMONSTRADO. PRINCÍPIOPAS DE NULLITÉ SANS GRIEF. PRECEDENTES. RECURSO PROVIDO.
+ ..
+2. A legislação processual (artigo 932 do CPC/2015 combinado com artigo 255, § 4º, do RISTJ, e Súmula 568/STJ) permite ao Ministro Relator julgar monocraticamente o recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada desta Corte. Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+ ..
+8. Agravo interno não provido.
+(AgInt no RMS n. 65.804/BA, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 25/8/2021).
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. SÚMULA 168/STJ.
+ ..
+2. "Não há nulidade no julgamento monocrático do recurso se a decisão singular foi proferida com base no entendimento atual firmado pela Corte Especial deste Superior Tribunal de Justiça, com fundamento no artigo 932 do Código de Processo Civil c/c o enunciado n. 568/STJ" (AgInt nos EAREsp 1.029.346/RJ, Rel. Ministra Maria Thereza de Assis Moura, Corte especial, DJe 24/5/2019).
+ ..
+7. Agravo interno não provido.
+(AgInt nos EREsp n. 1.362.789/MG, relator Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 26/5/2020).
+Quanto ao mais, trata-se de demanda com vistas à exclusão dos descontos efetuados na remuneração dos empregados, a título de imposto de renda e contribuição ao INSS, da base de cálculo da contribuição previdenciária patronal.
+Sobre o tema, a Segunda Turma desta Corte de Justiça, na apreciação do REsp n. 1.902.565/PR, concluiuque "o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal. Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal".
+Na ocasião também ficou consignado que:
+Arigor, o que pretende a parte recorrente é que o tributo incida, não sobre a remuneração bruta, conforme previsto no art. 22, I, da Lei 8.212/91, mas sobre a remuneração líquida. O raciocínio, levado ao extremo, conduziria a perplexidades que bem demonstram o desacerto da tese. Primeiro, a exclusão do montante retido a título de contribuição previdenciária do empregado permitiria concluir que também o Imposto de Renda Retido na Fonte (IRRF) não integraria a base de cálculo da contribuição, aproximando-a, ainda mais, da remuneração líquida. E, segundo, a base de cálculo da contribuição patronal, observado o art. 28, § 5º, da Lei 8.212/91, seria inferior à base de cálculo da contribuição previdenciária do empregado, em potencial violação ao princípio da equidade na forma de custeio, nos termos do art. 194, parágrafo único, V, da Constituição.
+O mesmo entendimento aplica-se ao imposto de renda, que não pode ser excluído da base de cálculo da contribuição previdenciária patronal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. DESCONTO DE VALE-TRANSPORTE, DE AUXÍLIO-ALIMENTAÇÃO. INCLUSÃO.
+1. No REsp1.902.565/PR, Rel. Ministra Assusete Magalhães, a Segunda Turma do Superior Tribunal de Justiça, por unanimidade, firmou orientação no sentido de que o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal, da contribuição ao SAT/RAT (art. 22, II, da Lei n. 8.212/91) e das contribuições sociais devidas a terceiros.
+Com efeito, embora o crédito da remuneração e a retenção da contribuição previdenciária possam, no mundo dos fatos, ocorrer simultaneamente, no plano jurídico as incidências são distintas, pois o montante retido deriva da remuneração do empregado, conserva ele a natureza remuneratória, razão pela qual integra também a base de cálculo da cota patronal.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.955.528/RS, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/2/2022, DJe de 2/3/2022).
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DESCONTO A TÍTULO DE VALE-TRANSPORTE. TOTAL DAS REMUNERAÇÕES. VALORES BRUTOS. BASE DE CÁLCULO. PRETENDIDA EXCLUSÃO DO MONTANTE RETIDO, A TÍTULO DE IMPOSTO DE RENDA RETIDO NA FONTE E DE CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO E DO CONTRIBUINTE INDIVIDUAL. IMPOSSIBILIDADE. ENTENDIMENTO APLICÁVEL IGUALMENTE À CONTRIBUIÇÃO AO SAT/RAT. CONSONÂNCIA DO ACÓRDÃO COM JURISPRUDÊNCIA DESTA CORTE.
+I - Na origem, trata-se de mandado de segurança objetivando a declaração de inexigibilidade da contribuição previdenciária patronal, inclusive das contribuições ao SAT/RAT e destinadas a terceiros, sobre as verbas pagas aos seus empregados a título de vale transporte, bem como sua compensação. A segurança foi denegada.No Tribunal a quo, a sentença foi mantida.
+II - O Superior Tribunal de Justiça, quando do julgamento do REsp 1902565/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7/4/2021, fixou que o montante retido a título de contribuição previdenciária compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal, da contribuição ao SAT/RAT (art. 22, II, da Lei n. 8.212/91) e das contribuições sociais devidas a terceiros.
+III - É que a pretensão de exclusão da cota do empregado da base de cálculo da contribuição do empregador levaria, necessariamente, à exclusão do imposto de renda retido na fonte e, posteriormente, à degeneração do conceito de remuneração bruta em remuneração líquida, ao arrepio da legislação de regência. A propósito: REsp 1.858.489/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 21/8/2020 e REsp nº 1.898707/RN, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 27/4/2021.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.948.777/RS, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/2/2022, DJe de 16/2/2022).
+Assim, a conclusão, quanto à base de cálculo da contribuição previdenciária patronal, aplica-se indistintamente à contribuição ao SAT/RAT e às contribuições sociais devidas a terceiros, tendo em vista a identidade de bases de cálculo.
+Dessa forma, em que pesem as alegações trazidas pela parte interessada, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
