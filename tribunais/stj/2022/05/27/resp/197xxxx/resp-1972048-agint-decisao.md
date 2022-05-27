@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto por EDIVINO GOMESInstituto Nacional do Seguro Social, em face de decisão monocrática proferida nos seguintes termos:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AUXÍLIO-DOENÇA. ALTA PROGRAMADA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+Nas razões de agravo interno o agravante sustenta que a matéria está suspensa por deliberação do Supremo Tribunal Federal, posto que teve a repercussão geral reconhecida Pelo Plenário Virtual do STF, no RERG nº 1.347.526/SE, correspondente ao Tema nº 1.196 da Repercussão Gera do Supremo Tribunal Federal.
+É o relatório.
+No caso dos autos, observa-se que, em recente decisão proferida no processo que trata do Tema1.196/STF, foi determinada pelo Supremo Tribunal Federal a suspensãonacional dos processos que debatem, à luz dos artigos 2º, 62, caput e § 1º, I, b, e 246, da Constituição Federal, a constitucionalidade das Medidas Provisórias 739/2016 e 767/2017 (convertida na Lei 13.457/2017), que estabeleceram procedimento de fixação da Data de Cessação do Benefício (DCB) de auxílio-doença de forma automatizada, ou seja, sem a necessidade de perícia prévia do segurado, em inobservância à urgência e relevância para sua edição, inclusão de norma processual civil e regulamentação de norma da Constituição Federal alterada entre 1995 até a promulgação da Emenda Constitucional 32/2001.
+Em tal contexto, em razão da impossibilidade de julgamento do presenterecurso especial determinada pelo Supremo Tribunal Federal, é adequadoreconsiderar a decisão agravada, tornando-a sem efeito, e determinar oretorno dos autos à origem como medida de economia processual.
+Assim, após o julgamento da repercussão geral no recurso extraordinário(Tema 1.199/STF), o Tribunal de origem realizará o juízo de conformação,em observância dos arts. 1.039 e 1.040 do CPC/2015.
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259do RISTJ, conheço do agravo interno e reconsidero a decisão agravada,tornando-a sem efeito, a fim de determinar a devolução dos autos aoTribunal de origem, com a respectiva baixa, para que, após a publicação doacórdão a ser proferido pelo Supremo Tribunal Federal no recursoextraordinário com repercussão geral reconhecida (Tema 1.199/STF), sejaaplicado a sistemática prevista nos artigos 1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ALTA PROGRAMADA. DECISÃO AGRAVADARECONSIDERADA E TORNADA SEM EFEITO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DEORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC/2015). TEMA 1.196 DO STF.
