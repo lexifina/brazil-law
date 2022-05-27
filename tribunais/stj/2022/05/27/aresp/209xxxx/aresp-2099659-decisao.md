@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por SAO GERALDO TRANSPORTES RODOVIARIOS E MULTIMODAIS LTDA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C. C.
+TUTELA DE URGÊNCIA. Apelantes que não recolheram a integralidade do preparo recursal. Concessão de prazo para a devida regularização que, todavia, não foi atendida. Ausência de recolhimento que impede o conhecimento do recurso. Deserção caracterizada. Comprovação que deve ser feita simultaneamente com a interposição do recurso. Exegese do art. 1.007 do CPC/2015.
+RECURSO NÃO CONHECIDO (fl. 568).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 1.022, II, do CPC, no que concerne à omissão com relação ao art. 4º da Lei n. 11.608/2003 e à inaplicabilidade da pena de deserção, trazendo o seguinte argumento:
+Conforme se depreende dos fundamentos do Acórdão ora impugnado, não houve posicionamento quanto à questão relevante para o deslinde da lide.
+Como se depreende, a despeito da matéria de lei federal veiculada no recurso, qual seja, o Artigo 4º Lei 11.608/2003, onde jamais poderia ter sido aplicado a pena deserção, assim não houve manifestação expressa no acórdão recorrido, sendo a mesma essencial para a resolução da controvérsia (fl. 576).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta a violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973) sem a anterior e necessária oposição de embargos declaração sobre o tema, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou na linha de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF". (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 6/10/2016; REsp n. 1.728.189/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/11/2018; e AgRg no AREsp n. 338.282/PR, relator Ministro João Otávio De Noronha, Terceira Turma, DJe de 11/11/2013; AgRg no AREsp n. 99.038/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/9/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
