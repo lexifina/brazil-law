@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno manejado pela Fazenda Nacional contra decisão que deu provimento ao recurso da parte contribuinte, sujeita ao regime monofásico de tributação, para permitir o aproveitamento de créditos de PIS e COFINS.
+A parte agravante sustenta, em resumo, "a incompatibilidade entre a incidência monofásica e a técnica de creditamento prevista no art. 17 da Lei nº 11.033/2004 e as vedações legais constantes na letra "b" do inciso I do art. 3º das Leis nº 10.833/2003 e 10.637/2002" (fl. 415).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Aberta vista à parte agravada, Gazin Auto Posto Ltda. apresentou impugnação às fls. 419/429, postulando o desacolhimento do recurso.
+É O BREVE RELATO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à analise do recurso:
+Trata-se de recurso especial manejado por Gazin Auto Posto Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 245):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS E COFINS. LEI Nº 11.033/2004, ARTIGO 17. PIS E COFINS. DIREITO AO CREDITAMENTO.
+OPERAÇÕES BENEFICIADAS COM A ALÍQUOTA ZERO.
+1. A não-cumulatividade objetiva evitar o aumento excessivo da carga tributária decorrente da possibilidade de cumulação de incidências tributárias ao longo da cadeia econômica.
+2. Este objetivo pode ser alcançado pela técnica do creditamento e pela tributação monofásica.
+3. Cuidando de tributação monofásica, desaparece o pressuposto fático necessário para a adoção da técnica do creditamento, que é a possibilidade de incidências múltiplas ao longo da cadeia econômica, não se podendo falar, portanto, em cumulatividade.
+4. O âmbito de incidência do artigo 17 da Lei nº 11.033/2004 restringe-se ao "Regime Tributário para Incentivo à Modernização e à Amplicação da Estrutura Portuária - REPORTO", como decorre do texto do diploma legislativo onde inserido tal artigo.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação ao art. 17 da Lei n. 11.033/04. Sustenta, em resumo, a possibilidade de creditamento das contribuições ao PIS e à COFINS incidentes sobre as operações sujeitas à sistemática monofásica pelas revendedoras.
+Contrarrazões apresentadas às fls. 361/371.
+Parecer do Ministério Público Federal às fls. 393/396.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A questão trazida a debate no especial diz respeito a definir: "a) se benefício instituído no art. 17 da Lei 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17, da Lei 11.033/2004, permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento". Ocorre que essa matéria foi julgada pela Primeira Seção do STJ sob o rito dos recursos especiais repetitivos: REsp 1.894.741/RS e 1.895.255/RS - Tema 1.093/STJ.
+Assim, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC, determinar o retorno dos autos à origem, para que verifique a necessidade de realização de juízo de adequação em relação a referido repetitivo, em atenção ao previsto no art. 1.040 do CPC.
+Confiram-se, a propósito, os seguintes precedentes desta Corte: AgInt no REsp 1.916.576/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 08/06/2021; e AgInt no REsp 1.911.163/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/04/2021.
+EM RAZÃO DO EXPOSTO, (I) torno sem efeito a decisão de fls. 398/400; e (II) determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, já tendo havido a publicação do acórdão no recurso representativo da controvérsia, o apelo especial: I) tenha seguimento negado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, I e II, do CPC).
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
