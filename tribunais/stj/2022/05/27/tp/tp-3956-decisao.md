@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória apresentado por CONCESSIONÁRIA PORTO NOVO S/A, objetivando a concessão de efeito suspensivo ao agravo em recurso especial nº 2.059.260/RJ, o qual pende de julgamento nesta Corte Superior.
+Sustenta que os requisitos para a concessão da medida estão devidamente demonstrados ante a plausibilidade do direito invocado no que concerne à ocorrência de julgamento extra petita, ausência de responsabilidade quanto ao dano ao imóvel e ao rompimento dos contratos de locação firmados. Quanto ao periculum in mora, afirma que a deflagração da fase de cumprimento provisório de sentença, na qual pleiteado o pagamento de verba excessiva e em flagrante violação ao ditame legal.
+É o relatório.
+Decido.
+O pedido encontra-se prejudicado, por perda de objeto, em virtude do julgamento do AREsp nº 2.059.260/RJ, no qual este signatário negou-lhe provimento.
+1. Observa-se que o reclamo ao qual se pretendia conferir efeito suspensivo recebeu decisão, mediante cognição exauriente, nessa data, tendo sido negado provimento ao reclamo.
+Assim, ainda que não tenha transitado em julgado o provimento ali exarado, forçoso reconhecer estar prejudicado o presente pedido de tutela provisória.
+Nesse sentido:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSOESPECIAL. SUPERVENIENTE JULGAMENTO DO RECURSO. PERDA DE OBJETO. DECISÃOMANTIDA.1. Tendo em vista o superveniente julgamento do recurso especial ao qualse pretendia conferir efeito suspensivo, deve ser reconhecida a perda deobjeto do pedido de tutela provisória.2. Agravo regimental a que se nega provimento.(AgInt no TP 744/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADORCONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/11/2017, DJe13/11/2017)
+AGRAVO REGIMENTAL. PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO ARECURSO ESPECIAL. SUPERVENIENTE JULGAMENTO DO RECURSO. PERDA DE OBJETO. 1.Tendo em vista o superveniente julgamento do recurso especial ao qual se pretendia conferir efeito suspensivo, deve ser reconhecida a perda de objeto do pedido de tutela provisória.2. Agravo regimental prejudicado.(AgRg no TP 91/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTATURMA, julgado em 02/05/2017, DJe 11/05/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA.ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. POSTERIORJULGAMENTO DO RECURSO. PERDA DE OBJETO. 1. Tendo em vista o superveniente julgamento do agravo em recurso especial ao qual se pretendia conferir efeito suspensivo, deve ser reconhecida a perda de objeto do pedido detutela provisória. Precedentes. 2. Agravo interno prejudicado. (AgInt noTP 304/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em20/06/2017, DJe 23/06/2017)
+2. Do exposto, julgo prejudicada a presente petição.
+Publique-se. Intimem-se. Arquivem-se.
