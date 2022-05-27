@@ -1,0 +1,11 @@
+DECISÃO
+MÁRCIO ROGÉRIO DE OLIVEIRA alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal a quo (Agravo de Execução Penal nº 9002082-31.2019.8.26.0050).
+A impetrante se insurge contra o reconhecimento de falta grave praticada pelo apenado, em 29/8/2017. Assinala que "as provas colhidas são insuficientes para comprovar" a indisciplina (fl. 4) e que oreeducando sofre"um tratamento diferente de seus companheiros que no mesmo caso sofreram faltas mais brandas  .. " (fl. 7).
+A advogada faz considerações sobre a prescrição disciplinar e considera incabível a alteração da data-base para nova progressão. Requer "a progressão do regime prisional  ..  para o semiaberto" (fl. 13).
+Decido.
+Não cabe ao Superior Tribunal de Justiça, nos termos do art. 105 da CF,processar e julgarhabeas corpus impetrado contra ato de juiz de primeiro grau, nem deliberar sobre causa não decidida por Tribunal estadual ou regional, sob pena de indevida supressão de instância.
+No caso, o Tribunal de origem não analisou os pleitos deabsolvição da falta grave por negativa de autoria, de desclassificação da conduta para falta média, de reconhecimento da prescrição disciplinar e de progressão de regime(fls. 17-23). Assim, como "a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes"(AgRg no HC 465.318/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 10/4/2019).
+No mais, ainterrupção do prazo para nova progressão é decorrência inafastável da regressão de regime, expressamente prevista na lei de execução penal.O acórdão recorrido está conforme a Súmula n. 534 do STJ e atese jurídica firmada pela Terceira Seção, por meio de recurso especial repetitivo, in verbis:
+ ..  A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo  ..  (REsp n. 1.364.192/RS, Rel. MinistroSebastião Reis Júnior, 3ª S., DJe 17/9/2014).
+À vista do exposto, conheço em parte o habeas corpus e, nesta extensão, denego a ordem pleiteada.
+Publique-se e intimem-se.
