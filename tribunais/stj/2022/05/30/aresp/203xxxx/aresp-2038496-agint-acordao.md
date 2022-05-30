@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por AUTONASA COMÉRCIO DE VEÍCULOS LTDA., contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer c/c indenização, ajuizada por DOUGLAS ANDERSHON SCHAEFLER, em face da agravante, em razão de vícios no veículo adquirido.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, apenas para reduzir o valor da compensação por danos morais para R$ 10.000,00, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - PROCEDÊNCIA - AQUISIÇÃO DE VEÍCULO NOVO - PARTICIPAÇÃO DA REVENDEDORA NA CADEIA DE CONSUMO - DEFEITO EM VEÍCULO ZERO QUILÔMETRO LEVADO POR DIVERSAS VEZES AO CONSERTO, NÃO SANADOS NO PRAZO LEGAL - DEMORA EXCESSIVA NA PRESTAÇÃO DE SERVIÇO - RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DA FORNECEDORA - ARTIGO 18 DO CDC - DANO MATERIAL CONFIGURADO - DANO MORAL CONFIGURADO E REDUZIDO - SUBSTITUIÇÃO DO VEÍCULO DEFEITUOSO MANTIDA - OU RESTITUIÇÃO OBSERVADA A TABELA FIPE DA ÉPOCA DO AJUIZAMENTO DA AÇÃO - RECURSO CONHECIDO E PROVIDO PARCIALMENTE.
+I - Tratando-se de ação em que se discute a existência de vício do produto, o art. 18, caput, do CDC impõe uma solidariedade da cadeia de fornecedores em relação ao consumidor.
+II - Sabendo que o carro é um bem infungível sabendo que na data de 24/09/2011 foi adquirido, e, já em 21/11/2011, ou seja, menos de um mês depois, apresentou problemas técnicos e houve reclamação administrativa, obstou-se o transcurso da decadência.
+III - É cabível indenização por dano moral quando o consumidor de veículo zero quilômetro necessita retornar à concessionária por diversas vezes para reparo de defeitos apresentados no veículo adquirido.
+IV - É evidente que o veículo automotor adquirido apresentou falhas ao ponto de não atender as expectativas medianas do consumidor, neste sentido, é justa a aplicação do art. 18 do CDC e seus ditames, neste passo.
+V - Considerando as circunstâncias dos autos, o critério da proporcionalidade, o caráter pedagógico e o binômio reparação-punição, verifica-se a necessidade de minoração da quantia, reduzindo para R$10.000,00 (dez mil reais),adequada para a hipótese.
+VI - A conversão da substituição do veículo em perdas e danos deve ser correspondente ao valor de mercado do veículo, constante da Tabela FIPE com a data de referência do ajuizamento da presente demanda, mediante a devolução do veículo avariado. A correção monetária deve ocorrer pelo índice INPC a partir do ajuizamento da ação, em consonância com § 2º do art. 1º da Lei n. 6.899/81, e, incidência de juros deve ocorrer desde a citação, conforme art.405 do Código Civil.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial, relativos à incidência da Súmula 7/STJ (quanto ao art. 26, II, §3º, do CDC), da Súmula 7/STJ (quanto ao dano moral), da Súmula 83/STJ e da Súmula 284/STF (em razão da ausência/erro de indicação de artigo de lei federal violado).
+Razões do agravo: Nas razões do presente recurso a agravante, além de apresentar síntese fática, sustenta a violação do art. 26, §3º, do CDC e a inaplicabilidade do art. 18, §1º, do CDC. Defende ainda que a condenação deveria ser de substituição do veículo por outro do mesmo estado de conservação ou que o valor a ser devolvido deveria considerar a tabela FIPE à época do cumprimento da obrigação, bem como que a condenação relativa aos danos morais deveria ser afastada ou reduzida.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de obrigação de fazer c/c indenização, ajuizada em razão de vícios no veículo adquirido.
+2. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com a aplicação de multa.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial, relativos à incidência da Súmula 7/STJ (quanto ao art. 26, II, §3º, do CDC), da Súmula 7/STJ (quanto ao dano moral), da Súmula 83/STJ e da Súmula 284/STF (em razão da ausência/erro de indicação de artigo de lei federal violado).
+Veja-se o que constou na decisão (e-STJ fls. 569/571):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (art. 26, II, § 3º, do CDC), Súmula 7/STJ (dano moral), Súmula 83/STJ e ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Contudo, da análise das razões deduzidas neste agravo interno, verifica-se que a agravante apresenta síntese fática e se limita a sustentar a violação do art. 26, §3º, do CDC e a inaplicabilidade do art. 18, §1º, do CDC, a defender que a condenação deveria ser de substituição do veículo por outro do mesmo estado de conservação ou que o valor a ser devolvido deveria considerar a tabela FIPE à época do cumprimento da obrigação, bem como que a condenação relativa aos danos morais deveria ser afastada ou reduzida.
+Desta forma, deixou de refutar, de forma específica e consistente, os fundamentos da decisão ora agravada, referentes à ausência de impugnação dos fundamentos de decisão que inadmitiu o recurso especial, relativos à incidência da Súmula 7/STJ (quanto ao art. 26, II, §3º, do CDC), da Súmula 7/STJ (quanto ao dano moral), da Súmula 83/STJ e da Súmula 284/STF (em razão da ausência/erro de indicação de artigo de lei federal violado).
+Assim, não procedendo a agravante à impugnação específica da decisão agravada, como o exige o princípio da dialeticidade, o presente agravo interno também não comporta conhecimento, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno no agravo em recurso especial.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
