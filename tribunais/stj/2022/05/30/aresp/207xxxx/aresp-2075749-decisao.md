@@ -1,0 +1,29 @@
+DECISÃO
+EVANDRO FRANCISCO MORAIS SILVA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0001863-47.2017.8.14.0028.
+Extrai-se dos autos que o agravante foi condenado, em primeira instância, pelo crime do art. 157, § 2º, I e II, c/c o art. 70 do Código Penal, a 16 anos de reclusão, em regime inicial fechado, mais multa (fls. 45-50). O Tribunal de origem negou provimento à apelação (fls. 113-115).
+Nas razões do especial, o agravante apontou violação do art. 70, do CP, sob o argumento de que deveria ter sido admitido o concurso formal próprio de crimes, uma vez que as subtrações haveriam ocorrido no mesmo contexto fático.
+Sustentou que " ..  uma vez que o recorrente anunciou o roubo, subtraindo bens de vítimas distintas, não há que se falar que agiu com desígnios autônomos a caracterizar o concurso formal imperfeito" (fl. 129). Requereu o provimento, com o fim de revisar a dosimetria e aplicar ao caso a regra do concurso formal perfeito.
+O especial foi inadmitido em juízo prévio de admissibilidade, às fls. 151-153, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 197-205 pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada. Quanto ao recurso especial, observo que não comporta conhecimento.
+O recorrente pleiteia que seja reconhecido, no caso concreto, o concurso formal próprio - art. 70, primeira parte, do Código Penal.
+O acórdão impugnado assim consignou no ponto (fls. 114-115, grifei):
+ ..
+Ocorre que. em detida análise, não há como excluir o concurso formal impróprio no presente caso, posto que totalmente caracterizado, já que com unia só ação o Réu praticou mais de um crime, dolosamente. pois ofendeu a bens juridicamente protegidos de três vítimas ao mesmo tempo, com plena consciência em relação à propriedade distinta desses bens, ou seja, havia desígnios autônomos, o que amolda o caso à segunda parte do art. 70 do CP, segundo a qual as penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no artigo anterior.. Nesse sentido: Hipótese na qual o réu, mediante uma só conduta, terminou por atingir o patrimônio de duas vítimas distintas, o que denota a ocorrência de concurso formal. Porém, para que seja reconhecido o cúmulo formal impróprio, mister se faz a comprovação dos desígnios distintos, ou seja. que o agente tinha consciência de que estava subtraindo bens de ofendidos diversos. (STJ - HC 2057061(J, Ministro RIBEIRO DANTAS. DJ 15082016).
+Como dito acima, a partir do momento que o Réu retirou de cada vitima seu aparelho celular, possuía dolosamente a intenção de praticar a subtração com desígnios autônomos, pois havia essa consciência clara da distinção de propriedade, razão pela qual agiu corretamente o magistrado ao aplicar a segunda parte do art. 70 do CP, que determina a cumulação de penas, assim como ocorre com o concurso material.
+O concurso formal impróprio depende da constatação de que a conduta fora intentada mediante desígnios autônomos. No caso, o Tribunal de origem concluiu que a ação delituosa contra os bens das vítimas teve desígnios autônomos, pois o réu tinha ciência de que os objetos subtraídos pertenciam a pessoas diferentes. Assim, a pretensão recursal em sentido oposto demandaria incursão fático-probatória vedada, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Ilustrativamente:
+ ..
+1. "A distinção entre o concurso formal próprio e o impróprio relaciona-se com o elemento subjetivo do agente, ou seja, a existência ou não de desígnios autônomos" (AgRg no REsp 1.299.942/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 21/6/2013).
+2. A análise da alegação de que as subtrações realizadas na mesma ação decorrem de desígnios autônomos demandaria, necessariamente, o reexame do conjunto fático-probatório, inviável em sede de recurso especial, o que atrai a incidência do óbice da Súmula 7/STJ.
+3. Agravo regimental improvido (AgRg no REsp n. 1.493.534/DF, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 12/08/2015)
+ ..
+1. A distinção entre o concurso formal próprio e o impróprio está justamente na constatação da existência de desígnios autônomos ("art. 70 Quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto até metade. As penas aplicam-se, entretanto, cumulativamente, se a ação ou omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no artigo anterior").
+2. A revisão desse aspecto fático-probatório - existência de desígnios autônomos - esbarra na impossibilidade de dilação probatória na estreita via do habeas corpus.
+3. Ademais, constata-se a absoluta ausência de interesse processual, na medida em que o acórdão do Tribunal a quo, a despeito de reconhecer o concurso formal impróprio dos fatos 2, 3 e 4, aplicou a pena de um só dos crimes, o mais grave (fato 5), e aumentou a pena em 1/2 (metade), pelos 6 crimes. Vale dizer, com o concurso formal próprio ou impróprio dos fatos 2, 3 e 5, nenhum reflexo há no montante final da pena de reclusão imposta.
+4. Agravo regimental desprovido.
+(AgRg no HC 475.735/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 19/08/2019)
+Portanto, não era mesmo o caso de conhecimento do recurso especial, mostrando-se correta a decisão de inadmissibilidade exarada pela instância antecedente.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
