@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULO SALLES PROMOÇÕES E PUBLICIDADE LTDA, pedindo integração quanto à necessidade de arbitramento de honorários advocatícios de sucumbência, na hipótese em que ocorre a prescrição intercorrente no processo executivo fiscal, notadamente em razão da natureza alimentar da verba e porque o "trabalho do advogado resulta de profunda análise do contexto fático-processual, com demarcação dos marcos temporais que permeiam a ocorrência da prescrição intercorrente" (fls. 340).
+Sem impugnação pela parte embargada.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+De fato, a decisão embargada foi expressa quanto ao não cabimento dos honorários advocatícios de sucumbência; vide:
+Os ônus de sucumbência devem ser suportados por quem deu causa ao ajuizamento da ação; e, ao contrário da prescrição do crédito tributário ocorrida antes da instauração da relação processual, o reconhecimento da ocorrência de prescrição intercorrente não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré-executividade, pois, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação executiva nem pela não localização do devedor ou de seus bens. De fato, "há situações em que, mesmo não sucumbindo no plano do direito material, a parte vitoriosa é considerada como geradora das causas que produziram o processo e todas as despesas a ele inerentes  ..  a prescrição intercorrente por ausência de localização de bens não afasta o princípio da causalidade em desfavor da parte executada, nem atrai a sucumbência para a parte exequente" (REsp 1835174/MS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 11/11/2019)  ..  quem dá causa ao ajuizamento da execução fiscal é o devedor inadimplente.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
