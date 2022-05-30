@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão, assim ementado (fl. 136):
+EMBARGOS INFRINGENTES EM AGRAVO EM EXECUÇÃO PENAL - LIVRAMENTO CONDICIONAL - PRÁTICA DE NOVO CRIME - RECONHECIMENTO DE FALTA GRAVE - SUSPENSÃO DO LIVRAMENTOCONDICIONAL - REGRESSÃO DE REGIME - BIS IN IDEM -INOCORRÉNCIA - RECURSO PROVIDO. - Ao cometer o novo crime, a condenada, independente de ter sido beneficiada ou não com o livramento condicional, pratica falta grave, devendo arcar com as conseqüências de seu ato, não havendo falar em bis in idem. V.V. Não há de se falar em reconhecimento de falta grave pelo cometimento de fato definido como crime no curso do livramento condicional, vez que tal conduta está sujeita a conseqüências próprias, quais sejam, a suspensão ou revogação do benefício.
+Consta dos autos que o Juízo das execuções, diante da prática de novo crime, suspendeu o livramento condicional e indeferiu pedido de reconhecimento de falta grave e pedidos correlatos (fls. 64/65).
+Interposto agravo em execução pelo Ministério Público, houve provimento para a instauração do incidente de reconhecimento de falta grave.
+Sustenta a impetrante a ilegalidade da determinação de apuração de falta grave, tendo em vista que o livramento condicional tem regramento próprio, não sendo aplicáveis as normas relativas ao cometido de falta grave.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impetrado e, no mérito, que seja afastada a apuração de falta grave.
+Indeferida a liminar e prestadas as informações o Ministério Público manifestou-se pelo não conhecimento do writ.
+Acerca da apuração de falta grave, consta do acórdão (fls. 142/143):
+ ..  Peço vênia à em. Des. Relatora para divergir de seu voto. Explico.
+O livramento condicional é um instituto destinado a permitir a redução do tempo de prisão do réu condenado a pena privativa de liberdade, sendo possível restituir sua liberdade antecipadamente, desde que cumpridos os requisitos da legislação.
+Por meio deste instituto, o condenado pode apresentar condições de reintegrar-se socialmente será colocado novamente no convívio social.
+Extrai-se dos autos que, durante o gozo do benefício do livramento condicional, o reeducando foi preso em flagrante pela prática, em tese, de novo crime.
+Assim, havendo o recorrido perpetrado novo delito durante o gozo do benefício, deve ser reconhecida a prática falta grave e aplicadas as sanções previstas no art. 118, inc. I e art. 127, ambos da LEP, dentre elas, a regressão de regime, não havendo que se falar em bis in idem.
+Ao cometer o novo crime, o condenado Luiz Antônio Meireles Junior, independente de estar beneficiado ou não com o livramento condicional, pratica falta grave, deve arcar com as consequências de seu ato. E, estando em gozo do livramento condicional, deve ser o benefício suspenso, com base no art. 145 da LEP. Ambas são determinações expressas na Lei de Execução Penal.
+ ..
+É plenamente possível que, respeitado o procedimento previsto em lei, seja reconhecida a prática de falta grave pela liberada, sem que haja bis in idem, pois a Lei de Execuções Penais prevê efeitos diversos para o cometimento da falta.
+Posto isto, NÃO ACOLHO OS EMBARGOS INFRINGENTES.  ..
+Como se vê, o paciente, "durante o gozo do benefício do livramento condicional, o reeducando foi preso em flagrante pela prática, em tese, de novo crime". O magistrado singular suspendeu o benefício em apreço, indeferindo, porém,o pedido de apuração de falta grave.
+Interposto agravo em execução pelo Ministério Público, o recurso foi, por maioria, provido, sendo o pronunciamento mantido no julgamento de embargos infringentes, parao reconhecimento da falta grave e seus consectários em desfavor do paciente.
+Contudo, embora esteja sujeita a revogação do livramento condicional, e ao não desconto do tempo em que esteve em seu gozo da pena a ser cumprida, a prática de novo crime durante benefício não autoriza o reconhecimento da falta grave, tampouco da incidência de seus consectários.
+Nesse contexto, constata-se a divergência do entendimento apontado na origem com a jurisprudência deste Sodalício. Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO
+1. Entende o STJ que não configura prática de falta grave a hipótese de cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP (AgRg no HC n. 617.911/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+2. Agravo regimental desprovido. (AgRg no HC 670.755/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/02/2022, DJe 14/02/2022)
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. CRIME COMETIDO DURANTE O LIVRAMENTO CONDICIONAL. RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. IMPOSSIBILIDADE. REGRAMENTO PRÓPRIO. ARTS. 83 A 90 DO CP E 131 A 146 DA LEP. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Entende o STJ que não configura prática de falta grave a hipótese de cometimento de novo crime no curso do livramento condicional, pois, nesse caso, o benefício deverá ser revogado e o tempo que o reeducando esteve solto não será decotado da pena, nos termos do art. 86, I, e art. 88, do Código Penal, bem como o art. 145 da LEP (AgRg no HC n. 617.911/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+2. Agravo regimental improvido. (AgRg no HC 706.633/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021)
+Em arremate, essa Corte já se manifestou no sentido de que "O livramento condicional ostenta a peculiaridade de ser um benefício que, embora submetido à disciplina regular da execução penal, é usufruído integralmente fora do sistema prisional, característica que determina tratamento específico" (AgRg no HC 617.911/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021), não havendo que se falar em não incidência da LEP ao livramento condicional.
+Ante o exposto, concedo a ordem dehabeas corpusa fim de restabelecer a decisão do Juízo das Execuções, que suspendeu o livramento condicionalsem o reconhecimento de falta grave e seus consectários em desfavor do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
