@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãoassim ementado:
+APELAÇÃO CÍVEL. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. ESTADO DO RIO GRANDE DO SUL.
+AVALIAÇÃO JUDICIAL. UTILIZAÇÃO DO MÉTODO COMPARATIVO DE DADOS DE MERCADO PARA A APURAÇÃO DO IMÓVEL OBJETO DA DESAPROPRIAÇÃO, MEIO QUE, ALÉM DE REGULADO PELA ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT), O QUE CONFERE CREDIBILIDADE AO TRABALHO PERICIAL, É AMPLAMENTE ACEITO PELA JURISPRUDÊNCIA DESTA CORTE. INEXISTÊNCIA DE ELEMENTOS CAPAZES DE DERRUIR A AVALIAÇÃO FEITA PELO PERITO NOMEADO JUDICIALMENTE. JUROS COMPENSATÓRIOS CONTADOS A PARTIR DO LAUDO PERICIAL, NOS TERMOS DA SÚMULA 345 DO STF. JUROS DE MORA CABÍVEIS, A PARTIR DE 1º DE JANEIRO DO EXERCÍCIO SEGUINTE ÀQUELE EM QUE O PAGAMENTO DEVERIA SER FEITO.
+INAPLICÁVEIS AS DISPOSIÇÕES DO ART. 1P--F DA LEI N. 11.960/09, POR INCIDIREM REGRAS ESPECÍFICAS, CONFORME DECISÃO DO STJ NO RESP 1.495.146/MG - TEMA 905. APLICAÇÃO DO IPCA-E A TÍTULO DE ATUALIZAÇÃO MONETÁRIA, CONSOANTE DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE N.
+870.947/SE - TEMA 810. POSSIBILIDADE DE CUMULAÇÃO DOS JUROS COMPENSATÓRIOS E JUROS MORATÓRIOS. INTELIGÊNCIA DA SÚMULA 102 DO STJ. HONORÁRIOS ADVOCATÍCIOS.
+MANUTENÇÃO. INTELIGÊNCIA DO ARTIGO 27, § 1º, DO DL 3.365/41.
+RECURSO PARCIALMENTE PROVIDO. UNÂNIME.
+Os Embargos de Declaração foram rejeitados.
+O referido decisum foi mantido em juízo de retratação, nos termos da ementa abaixo copiada:
+APELAÇAO CÍVEL. JUÍZO DE RETRATAÇÃO. DESAPROPRIAÇÃO INDIRETA. JUROS COMPENSATÓRIOS. TEMA 126 DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE NÃO SE AMOLDA AO CASO CONCRETO, POIS AUSENTE A INCIDÊNCIA DE JUROS EM PERÍODO ANTERIOR A 11 DE JUNHO DE 1997.MANTIVERAM O ACÓRDÃO EM JUÍZO DE RETRATAÇÃO.
+A parte recorrente alega que a legislação federal foi ofendida. Aduz:
+3.1.1. DA VIOLAÇÃO AO ARTIGO 1022 DO CÓDIGO DE PROCESSO CIVIL
+(..)
+O recorrente apresentou embargos de declaração, com fundamento no disposto no art. 1022 do CPC, em decorrência de omissões e contradições presentes no acórdão proferido pela 3. Câmara Cível do Tribunal de Justiça, especificamente sobre a ausência de definição dos termos inicial e final dos juros compensatórios e o percentual aplicável. Os embargos de declaração foram rejeitados.
+(..)
+3.1.2. DA VIOLAÇÃO À LITERALIDADE DO ARTIGO 15-A DA LEI 3.365/41. DA AUSÊNCIA DE FATO GERADOR PARA INCIDÊNCIA DE JUROS COMPENSATÓRIOS. TERMO INICIAL.
+Trata a presente ação de desapropriação direta movida pelo ente público, buscando a imissão na posse do imóvel. Foi a antecipação de tutela indeferida, permanecendo os expropriados na posse do bem até o presente momento.
+A decisão de 1º grau determinou a incidência de juros compensatórios a contar do laudo pericial. Em suas razões de apelação, o ente público esclareceu que não se podia cogitar em compensar os réus pela perda da posse, se esta nunca ocorreu. O acórdão da apelação, entretanto, manteve a fixação do termo inicial dos juros compensatórios na data do laudo pericial, entendendo incidir na espécie a Súmula 345 do STF, por se tratar de desapropriação indireta.
+(..)
+Ocorre que o presente caso não se trata de desapropriação indireta, mas de desapropriação direta. Nunca houve a posse do imóvel pelo ente público, descaracterizando o feito como desapropriação indireta. O ente público tentou, via aclaratórios, sanar a contradição/equívoco evidente do julgado, mas seu recurso foi rejeitado, sem qualquer apreciação pelo órgão julgador.
+De fato, em se tratando de desapropriação direta, e não estando o ente público na posse do imóvel, não se pode cogitar em incidência de juros compensatórios desde o laudo pericial, por implicar em enriquecimento ilícito dos expropriados. Isso porque continuam a utilizar o bem e ainda recebem juros compensatórios pelo não uso.
+(..)
+3.1.3. DA VIOLAÇÃO À LITERALIDADE DO ARTIGO 15-6 DA LEI 3.365/41.IMPOSSIBILIDADE DE CUMULAÇÃO DE JUROS MORATÓRIOS E COMPENSATÓRIOS
+O acórdão recorrido fixou como termo inicial dos juros compensatórios a data do laudo pericial e não fixou o seu termo final, admitindo expressamente a cumulação dos juros moratórios e compensatórios com base na Súmula 102 do STJ.
+(..)
+Assim, imperativo o reconhecimento do enquadramento do presente recurso nos Temas já decididos pelo STJ, fixando-se o termo final dos juros compensatórios na data da expedição do precatório.
+(..)
+3.1.4. VIOLAÇÃO À LITERALIDADE DO ART. 15-A DA LEI FEDERAL N 2 3.365/41.PERCENTUAL DOS JUROS COMPENSATÓRIOS.
+Ao manter o percentual de juros moratórios em 12% ao ano, a decisão contrariou expressa disposição do art. 15-A do Decreto-Lei n 2 3.365/41, declarado constitucional em recente decisão proferida pelo STF, por maioria de votos, ao julgaram parcialmente procedente a Ação Direta de Inconstitucionalidade (ADI) 2332, ajuizada pelo Conselho Federal da Ordem dos Advogados do Brasil (OAB) contra dispositivos da Medida Provisória 2.027-43/2000 e demais reedições, que alterou o Decreto-Lei 3.365/1941.
+(..)
+Desta forma, tendo em vista a recente jurisprudência do STF, já acolhida pelo STJ, mister a reforma compensatórios em 6% ao anoda decisão ora atacada, fixando-se a taxa dos juros.
+3.2. RECURSO PELA ALÍNEA C DO ART. 105 DA CF  DIVERGÊNCIA JURISPRUDENCIAL
+Enfim, resta clara a dissonância entre a decisão recorrida e a jurisprudência desta Corte, devendo ser acolhido este recurso, para que se declare a impossibilidade de cumulação dos juros compensatórios e moratórios no caso concreto, tendo os juros compensatórios como termo final a data de expedição do precatório e os juros moratórios tendo como termo inicial o dia 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser realizado.
+O Ministério Público emitiu o parecer abaixo transcrito:
+Recurso especial. Desapropriação por utilidade pública julgada parcialmente procedente pelo TJRS.
+O acórdão declinou fundamentação suficiente à rejeição das teses da apelação referentes aos termos inicial e final dos juros compensatórios e ao percentual aplicável: ausência de violação do art. 1.022 do CPC.
+Na ausência de imissão do Estado na posse do imóvel expropriado, a condenação do expropriante ao pagamento de juros compensatórios contrariou o art. 15-A do DL 3.365/1941, cuja norma é clara, quanto à incidência da referida compensação financeira, "no caso de imissão prévia na posse": prejudicialidade das demais teses do recurso, referentes à legalidade do termo final e do percentual dos juros moratórios fixados pelo acórdão recorrido.
+Caso mantida a condenação do recorrente ao pagamento de juros compensatórios, o recurso especial não pode ser conhecido, quanto à alegada impossibilidade de acumulação dessa verba com os juros moratórios, mas o acórdão recorrido deve ser parcialmente cassado, para se ajustar ao novo entendimento firmado pelo STJ, narevisão do Tema 126 dos recursos repetitivos.
+Parecer pelo conhecimento parcial do recurso especial e, nessa medida, por seu provimento, para exonerar o recorrente do pagamento de juros compensatórios, prejudicados os temas remanescentes, ou, caso seja mantida tal condenação, para reduzir o percentual fixado a 6% ao ano.
+É o relatório.
+Decido.
+Não háofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tendo se manifestado expressamente quanto aostermos inicial e final dos juros compensatórios e o percentual aplicável.O Colegiado de origem anotou:
+Com relação aos juros compensatórios, observo que, malgrado sejam devidos a partir da imissão na posse do imóvelexpropriado (Súmula 69 do Superior Tribunal de justiça), no caso concreto, em razão de ter sido indeferida a imissão provisória na posse do bem desapropriado, razoável a fixação do dia da avaliação como termo inicial da incidência de tal encargo, como decidido na sentença, uma vez que trata de desapropriação indireta, conforme Súmula 345 do STF.
+(..)
+Os juros moratórios, de 6% ao ano, são incidentes a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, nos termos do art. 100, da CF, e art. 15-B, do Decreto-lei n. 3.365/41.
+(..)
+Referente à incidência dos juros moratórias sobre os compensatórios, não há falar em anatocismo, tendo em vista que possuem naturezas diversas, quais sejam, os primeiros decorrem do atraso da indenização, enquanto que estes, decorrem do esbulho possessório, conforme disposto na Súmula 102 do STJ, verbis:
+(..)
+No que diz respeito à base de cálculo dos juros compensatórios, como não houve depósito prévio e nem imissão antecipada na posse do imóvel, entendo que a base de cálculo deve considerar a data do laudo pericial para sua incidência.
+Em juízo de retratação foi mantida tal conclusão,in verbis:
+Cuida-se de demanda relativa à desapropriação de imóvel de propriedade dos demandados, declarado de Utilidade Pública no Decreto Estadual nº 45.136/07, para a construção da barragem Jaguari.
+O pedido foi julgado procedente, tendo sido fixados juros compensatórios de 12% ao ano.
+No julgamento da apelação, os juros compensatórios restaram assim fixados:
+Com relação aos juros compensatórios, observo que, malgrado sejam devidos a partir da imissão na posse do imóvel expropriado (Súmula 69 do Superior Tribunal de Justiça), no caso concreto, em razão de ter sido indeferida a imissão provisória na posse do bem desapropriado, razoável a fixação do dia da avaliação como termo inicial da incidência de tal encargo, como decidido na sentença, uma vez que trata de desapropriação indireta, conforme Súmula 345 do STF.
+Os verbetes de Jurisprudência do Supremo Tribunal Federal relativos aos juros compensatórios na desapropriação indireta têm a seguinte redação:
+Súmula 345:
+Na chamada desapropriação indireta, os juros compensatórios são devidos a partir da perícia, desde que tenha atribuído valor atual ao imóvel.
+Súmula 618:
+Na desapropriação, direta ou indireta, a taxa de juros compensatórios é de 12% (doze por cento) ao ano.
+Já as súmulas do Superior Tribunal de Justiça dispõem:
+Súmula 69:
+Na desapropriação direta, os juros compensatórios são devidos desde a antecipada imissão na posse e,desapropriação indireta, a partir da efetiva ocupação do imóvel.
+Súmula 408:
+Nas ações de desapropriação, os juros compensatórios incidentes após a Medida Provisória n. 1.577, de 11/06/1997, devem ser fixados em 6% ao ano até 13/09/2001 e, a partir de então, em 12% ao ano, na forma da Súmula n. 618 do Supremo Tribunal Federal.
+Em recurso especial, o Estado defende que os juros compensatórios devem incidir à razão de 6% ao ano, com base na decisão proferida pelo Supremo Tribunal Federal na ADI 2332.
+O mérito da referida ADI foi julgado pela Corte Excelsa em junho de 2018, o que levou o Superior Tribunal de Justiça a propor a revisão da tese firmada 2 no julgamento do REsp repetitivo nº 1.111.829/SP em 2009(tema 126).
+No julgamento da Questão de Ordem no REsp nº 1.328.993 (Petição nº 12.344/DF), em outubro de 2020, o Superior Tribunal de Justiça reanalisou diversos temas repetitivos relativos a juros moratórios e compensatórios e a honorários advocatícios em ações de desapropriação.
+(..)
+No que tange ao tema 126, editou-se nova tese, segundo a qual "o índice de juros compensatórios na desapropriação direta ou indireta é de 12% até 11/6/1997, data anterior à vigência da MP 1577/97".
+Entretanto, verifica-se que na casuística não há incidência de juros compensatórios antes de 11 de junho de 1997, uma vez que foram fixados a contar da perícia judicial, realizada em fevereiro/2012 (fls. 175- 187).
+Assim, tem-se que o tema 126 não se amolda à hipótese em exame, sequer se aplicando ao caso o art. 1.030, II, do Código de Processo Civi1 3. Destarte, deve ser mantido o acórdão.
+A irresignação prospera, porque é indevida a condenação da parte recorrente ao pagamento de juros compensatórios.O art. 15-A do Decreto-Lei 3.365/1941 dispõe:
+Art. 15-A. No caso de imissão prévia na posse, na desapropriação por necessidade ou utilidade pública e interesse social, inclusive para fins de reforma agrária, havendo divergência entre o preço ofertado em juízo e o valor do bem, fixado na sentença, expressos em termos reais, incidirão juros compensatórios até seis por cento ao ano sobre o valor da diferença eventualmente apurada, a contarda imissão na posse, vedado o cálculo de juros compostos.
+O aresto recorrido registra expressamente que se trata de Ação de Desapropriação Direta "de imóvel de propriedade dos demandados, declarado de Utilidade Pública no Decreto Estadual n.45.136/07, para a construção da barragem Jaguari" e que"não houve depósito prévio e nem imissão antecipada na posse do imóvel".
+Inexistindo imissão antecipada na posse, indevida a incidência dos juros compensatórios.Como é sabido, tal modalidade de juros é devida a título de compensação, em decorrência da perda antecipada da posse sofrida pelo proprietário, e, nos termos da Súmula 69/STJ, cabem desde a imissão do expropriante na posse do imóvel na desapropriação direta e a partir da efetiva ocupação do bem na desapropriação indireta.Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. ALEGAÇÃO DE OFENSA AO DISPOSITIVO DO ART. 535 DO CPC/1973 PELO INCRA. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284/STF. ALEGAÇÃO DE CONTRARIEDADE AO DISPOSITIVO DO ART. 535 DO CPC/1973 PELA EMPRESA AGROBRASIL. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DO DISPOSITIVO DO ART. 34, CAPUT E PARÁGRAFO ÚNICO, DO DECRETO-LEI N. 3.365/1941. DESCABIMENTO. INCIDÊNCIA DE JUROS COMPENSATÓRIOS NAS AÇÕES DE DESAPROPRIAÇÃO. SÚMULAS 69 E 408 DO STJ. EVENTUAL IMPRODUTIVIDADE. INCIDÊNCIA DE JUROS COMPENSATÓRIOS. ERESP 453.823/MA (REL. MINISTRO TEORI ALBINO ZAVASCKI, REL. P/ ACÓRDÃO MINISTRO CASTRO MEIRA, DJU 17/5/2004). BASE DE CÁLCULO DOS JUROS COMPENSATÓRIOS. VALORES QUE FICARAM INDISPONÍVEIS PARA O EXPROPRIADO. CONDENAÇÃO DO INCRA EM HONORÁRIOS ADVOCATÍCIOS RELATIVOS AOS EXPROPRIADOS QUE CONCORDARAM COM O VALOR DEPOSITADO. DESCABIMENTO. RECURSO ESPECIAL INTERPOSTO PELO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO. RECURSOS ESPECIAIS INTERPOSTOS PELA EMPRESA AGROBRASIL EMPREENDIMENTOS RURAIS LTDA. E PELO MINISTÉRIO PÚBLICO FEDERAL CONHECIDOS EM PARTE E, NESSA EXTENSÃO, IMPROVIDOS.
+(..)
+7. Não se há de falar em violação do dispositivo do art. 34, caput e parágrafo único, do Decreto-Lei n. 3.365/1941, uma vez que, à época da expedição do segundo decreto expropriatório, foi observada a titularidade do imóvel. Alterações posteriores havidas na cadeia dominial, mesmo que por força de decisão judicial, devem ser opostas a quem deu causa e utilizando-se dos meios processuais pertinentes, descabendo fazê-lo na demanda expropriatória.
+8. A instituição financeira depositária é responsável pelo pagamento da correção monetária sobre os valores recolhidos a título de depósito judicial. Incidência da Súmula 179/STJ. Assim sendo, não se pode falar em condenação do Incra pela correção monetária em relação aos valores que já foram depositados, tenham estes sido levantados, ou não, pelos expropriados, cabendo-lhe tal ônus apenas no tocante a parcelas decorrentes de complementação do valor ofertado inicialmente.
+9. Os juros moratórios não são devidos no que concerne ao montante depositado pela autarquia agrária, pois, "realizado o depósito integral pelo Incra com o ajuizamento da ação, não haverá qualquer mora, posto que o valor indenizatório encontra-se à disposição do expropriado" (AgRg no REsp 868.904/CE, Primeira Turma, Rel. Ministro Francisco Falcão, DJ 11/6/2007). Eventuais juros moratórios somente podem incidir sobre a complementação de valor determinado pela sentença final, não se devendo falar de sua incidência quanto a depósito efetivado em relação ao qual, inclusive, manifestaram concordância os expropriados.
+10. A Primeira Seção desta Corte já pacificou o entendimento de que são devidos juros compensatórios nas ações de desapropriação, não havendo que se cogitar em sua não incidência. Nessa esteira, foi editada a Súmula 408/STJ, que disciplina a aplicação do princípio tempus regit actum na fixação do percentual desses juros.
+11. Com efeito, tais juros são devidos a título de compensação, em decorrência da perda antecipada da posse sofrida pelo proprietário, e, nos termos da Súmula 69/STJ, cabem desde a imissão do expropriante na posse do imóvel na desapropriação direta e a partir da efetiva ocupação do bem na desapropriação indireta.
+12. A Primeira Seção desta Corte, após longos debates, nos autos dos EREsp 453.823/MA (Rel. Ministro Teori Albino Zavascki, Rel. p/ acórdão Ministro Castro Meira, DJU 17/5/2004), firmou posicionamento de que eventual improdutividade do imóvel não afastaria o direito a esses juros.
+13. O termo a quo dos juros compensatórios é a data da imissão na posse, devendo aqueles incidir sobre os valores que ficaram indisponíveis para o expropriado, quais sejam, os 20% (vinte por cento) da oferta inicial, acrescidos de diferença, quando houver, entre a oferta inicial e o valor da indenização fixada judicialmente.
+14. Descabe falar em honorários advocatícios, devidos pelo Incra, em relação aos expropriados que manifestaram concordância com o valor depositado inicialmente.
+15. Recurso especial manejado pelo Instituto Nacional de Colonização e Reforma Agrária - Incra conhecido em parte e, nessa extensão, parcialmente provido. Recursos especiais interpostos pela empresa Agrobrasil Empreendimentos Rurais Ltda. e pelo Ministério Público Federal conhecidos em parte e, nessa extensão, improvidos.
+(REsp 1.116.278/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 3/8/2021)
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. ACÓRDÃO COM FUNDAMENTO INFRACONSTITUCIONAL. INAPLICABILIDADE DO ENUNCIADO N. 126 DA SÚMULA DO STJ. ADMISSIBILIDADE IMPLÍCITA.
+I - Alega a parte agravante que o recurso não deveria ser conhecido porquanto a Corte de origem utilizou somente fundamentos constitucionais para decidir a matéria e não foi interposto recurso extraordinário, o que faria incidir o enunciado n. 126 da Súmula do STJ.
+II - Verifica-se que o fundamento utilizado pela Corte a quo decorre da interpretação de lei federal, conforme se percebe do seguinte trecho: "Quanto aos juros compensatórios, estes são efetivamente devidos e restaram bem fixados pela decisão a quo, ou seja, em 12% ao ano, nos termos do art. 15-A, § 3º, do DL nº 3.365/41. Lembro que os juros compensatórios, na definição de José Carlos de Moraes Salles, são a compensação devida ao expropriado pela perda antecipada da posse do imóvel, substituindo, assim, os frutos que deixou de perceber ou que poderia vira receber. (Desapropriação à Luz da Doutrina e Jurisprudência, RT, 1992, p. 494)".
+III - A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos.
+IV - O exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp n. 1.119.820/PI, Relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgRg no REsp n. 1.429.300/SC, Relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag n. 1.421.517/AL, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+V - Agravo interno improvido.
+(AgInt no REsp 1.671.127/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 22/2/2022)
+Reconhecida a ilegalidade da condenação do ente público ao pagamento de juros compensatórios, ficam prejudicados os demais temas do Recurso Especial.
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
