@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Estado de São Paulocontra decisão que não conheceurecurso especial, com fundamento no art.105 III, a, da Constituição da República, que almejava reformar acordão proferida peloTribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO DE APELAÇÃO AÇÃO DE PROCEDIMENTO COMUM DIREITO CONSTITUCIONAL E ADMINISTRATIVO PRETENSÃO AO FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO NOS ATOS NORMATIVOS DO SISTEMA ÚNICO DE SAÚDE SUS DOENÇA GRAVE HIPOSSUFICIÊNCIA ECONÔMICA POSSIBILIDADE - PRETENSÃO RECURSAL À MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DECORRENTES DA SUCUMBÊNCIA PREPARO RECURSAL NÃO REALIZADO DESERÇÃO NÃO CONHECIMENTO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+No presente caso, ainda que se considerasse preenchido o item (i)e (ii), o terceiro item sequer foi mencionado pelo acórdão proferido pelo C. TJ/SP, razão pela qual há evidente dissociação entre a tese fixada pelo STJ e o que restou decidido pelo TJ/SP, matéria que dispensa reanálise de provas, e afasta, consequentemente a Súmula 7/STJ ao caso em testilha. A propósito, transcrevo a ementa do acórdão proferido pelo TJ/SP:
+ ..
+Tudo isso a indicar que não se aplica, com redobradas vênias, o óbice previsto na Súmula 284/STF, uma vez que muito bemdemonstrada a violação à legislação federal e ao precedente deste Corte Superior (tema 106/STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SAÚDE. PRETENSÃO AO FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO NOS ATOS NORMATIVOS DO SISTEMA ÚNICO DE SAÚDE- SUS.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA N. 284/STF.
+I - Na origem, trata-se de ação de obrigação contra a Fazenda Pública do Estado de São Pauloobjetivando fornecimento de medicamento. Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi mantida.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+V - Nesse diapasão, verificado que a Fazenda Pública recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Segundo a jurisprudência do STJ, o óbice de ausência de comandonormativo do artigo de lei federal, apontado como violado ou como objeto dedivergência jurisprudencial, incide nas seguintes situações: quando não temcorrelação com a controvérsia recursal, por versar sobre tema diverso; e quando suaindicação não é apta, por si só, para sustentar a tese recursal, seja porque odispositivo legal tem caráter genérico, seja porque, embora consigne em seu textocomando específico, exigiria a combinação com outros dispositivo legais.
+Nesse diapasão, verificado que a Fazenda Pública recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
