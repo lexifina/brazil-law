@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO PREVIDENCIÁRIA. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DO CÁLCULO DO CONTABILISTA LIMITADO AO VALOR APRESENTADO PELA EXEQUENTE. OBSERVÂNCIA AO ARTIGO 492, DO CÓDIGO DE PROCESSO CIVIL.
+1. Nos termos dos artigos 149 e 524, §2º, do CPC, o contabilista é auxiliar da Justiça, a quem pode ser solicitada a verificação dos cálculos de liquidação apresentados pelas partes em relação à decisão exequenda.
+2. Ante a divergência entre as quantias encontradas pela autora (R$ 74.954,87) e pelo INSS (R$ 66.721,83), o juízo de origem determinou a remessa dos autos à contadoria judicial que apurou quantia superior àquela inicialmente pretendida pelo exequente (R$ 83.001,55).
+3. A pretensão executiva deve limitar-se ao montante originalmente pleiteado pelo agravante, sob pena de ofensa ao artigo 492 do CPC.
+4. Agravo de instrumento desprovido.
+A parte recorrente aponta, além de divergência jurisprudencial, violação do artigo 492 do Código de Processo Civil. Aduz:
+Adentrando às hipóteses de cabimento, que serão pormenorizadas quando da exposição das razões de reforma, temos que Tribunal de origem contrariou a disciplina do artigo 492 do Código de Processo Civil, na medida em que não homologou os cálculos do Contador Judicial, por entender que o Recorrente havia requerido, em cumprimento de sentença, valor menor do que aquele que restou apurado pelo auxiliar da Justiça.
+Ademais, o Recorrente comprova que em casos semelhantes, outros Tribunais e o próprio STJ entenderam que não configura julgamento ultra petita a homologação de valor superior àquele apresentado pela parte e que a adequação do cálculo é matéria de ordem pública.
+Contrarrazões não apresentadas.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 25.4.2022.
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fls. 53-54, e-STJ):
+Ante a divergência entre as quantias encontradas pela autora (R$ 74.954,87) e pelo INSS (R$ 66.721,83), o juízo de origem determinou a remessa dos autos à contadoria judicial que apurou quantia superior àquela inicialmente pretendida pelo exequente (R$ 83.001,55).
+Assim, a pretensão executiva deve limitar-se ao montante originalmente pleiteado pelo agravante, sob pena de ofensa ao artigo 492 do CPC. Nesse sentido:
+Nesse contexto, verifica-se que o acórdão recorrido não está em sintonia com a jurisprudência do STJ no sentido de não configurar julgamento ultra petita a homologação de cálculo da contadoria judicial que apurou diferenças em valor maior que o apresentado pela parte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. CÁLCULO DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELO EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. A jurisprudência do STJ é no sentido de não configurar julgamento ultra petita a homologação de cálculo da contadoria judicial que apurou diferenças em valor maior que o apresentado pela parte exequente. Precedentes: AgInt no REsp 1.650.796/RS, Rel. Min. Regina Helena Costa, DJe 23.8.2017; REsp 1.753.655/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26.11.2018; AgInt nos EDcl no AREsp 1.306.961/PA, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 26.2.2019; e AgInt no REsp 1.586.666/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º.9.2020.
+3. Agravo interno não provido.
+(AgInt no REsp 1.882.329/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 13.8.2021)
+PROCESSUAL CIVIL. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO.
+1. A jurisprudência do STJ é no sentido de não configurar julgamento ultra petita a homologação de cálculo da contadoria judicial que apurou diferenças em valor maior que o apresentado pela parte exequente. Precedentes: AgInt no REsp 1.650.796/RS, Rel. Min. Regina Helena Costa, DJe 23.8.2017; REsp 1.753.655/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26.11.2018; AgInt nos EDcl no AREsp 1.306.961/PA, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 26.2.2019; e AgInt no REsp 1.586.666/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º.9.2020.
+2. Agravo Interno não provido.
+(AgInt no REsp 1.882.386/PE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 24.11.2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. CÁLCULOS DA CONTADORIA JUDICIAL ELABORADOS EM VALOR SUPERIOR AO APRESENTADO PELO EXEQUENTE. ADEQUAÇÃO AO TÍTULO JUDICIAL. NÃO OCORRÊNCIA DE JULGAMENTO EXTRA OU ULTRA PETITA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DA UNIVERSIDADE FEDERAL DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. As instâncias de origem deixaram de adotar a conta elaborada pela Contadoria do Juízo, por entenderem que o juiz não poderá incluir na pretensão executiva, por intermédio de decisão proferida em embargos do devedor, valor superior à pretensão executiva deduzida pelo credor, ainda que o próprio devedor não controverta a propósito do chamado excesso de execução ou que a Contadoria, órgão meramente auxiliar que não influencia na conformação do objeto do processo, venha a sugerir valor diverso (fls. 179).
+2. O entendimento adotado pelo Tribunal de origem não se alinha à diretriz desta corte Superior de que os valores indicados pelas partes não vinculam o Magistrado, que, com base no livre convencimento motivado, poderá definir qual valor melhor reflete o título. Com efeito, o acolhimento de cálculos elaborados pela contadoria oficial, embora superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado (AgInt no REsp. 1.650.796/RS, Rel. Min. REGINA HELENA COSTA, DJe 23.8.2017).
+3. Ademais, importante salientar que no momento em que um Juiz envia um título executivo para a Contadoria para fins de conferência dos cálculos ele apenas está exercendo mais um dos seus deveres: o controle jurisdicional. Cumpre-se, assim, a regra de que a jurisdição atue, e isso jamais poderia ser equiparado a um julgamento ultra petita.
+4. A Contadoria não atua para prestar serviço exclusivamente ao Juiz, mas precipuamente aos jurisdicionados, pois um erro de cálculo pode causar prejuízo a qualquer uma das partes em um litígio. Daí porque a lei, § 2º. do art. 524 do Código Fux confere ao Magistrado a prerrogativa de utilizar o serviço judicial da Contadoria quando entender necessário. Trata-se de uma prerrogativa, que não importa em julgamento extra ou ultra petita, ainda que a Contadoria Judicial apure valores diversos daqueles apontados pelas partes. Precedentes: AgInt no REsp. 1.672.844/PE, Rel. Min. FRANCISCO FALCÃO, DJe 24.9.2019; AgInt nos EDcl no AREsp. 1.306.961/PA, Rel. Min. LUIS FELIPE SALOMÃO, DJe 26.2.2019; REsp. 1.753.655/PE, Rel. Min. HERMAN BENJAMIN, DJe 26.11.2018.
+5. Agravo Interno da UNIVERSIDADE FEDERAL DE SÃO PAULO a que se nega provimento.
+(AgInt no REsp 1586666/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 1.9.2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÁLCULO DO CONTADOR JUDICIAL. VALOR SUPERIOR AO POSTULADO PELO EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. Não configura julgamento ultra petita, a homologação de cálculos do contador judicial, quando estão de acordo com o título judicial em execução, ainda que superiores ao postulado pelo exequente. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.306.961/PA, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 26.2.2019)
+Por tudo isso, douprovimento ao Recurso Especial para determinar que a execução prossiga com base no valor apontado pela Contadoria Judicial.
+Publique-se.
+Intimem-se.
