@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por COOPERATIVA DE CONSUMO DOS TRANSPORTADORES DE CARGA E PASSAGEIROS DO ESTADO DE GOIÁS - AUTOBEM BRASIL, fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Recurso especial interposto em: 04/11/2021.
+Concluso ao gabinete em: 10/02/2022.
+Ação: indenizatória por danos morais c/c lucros cessantes, ajuizada por CLEITON NASCIMENTOANDRADE, em face da recorrente, em razão de danos decorrentes de atraso na entrega de caminhão.
+Sentença: julgou parcialmente procedente a ação para condenar a recorrente a pagar ao recorrido a quantia de R$ 40.878,40, a título de lucros cessantes e R$ 15.000,00 a título e compensação por danos morais.
+Acórdão: deu parcial provimento às apelações interpostas pela recorrente e pelo recorrido, nos termos da seguinte ementa:
+EMENTA: DUPLA APELAÇÃO CÍVEL. INDENIZAÇÃO POR DANOS MATERIAIS (LUCROS CESSANTES) E DANOS MORAIS. SINISTRO. DEMORA NA ENTREGA DOS VEÍCULOS. TERMO DE QUITAÇÃO. IRRELEVÂNCIA. LUCROS CESSANTES. COMPROVAÇÃO. DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REDUÇÃO. SUCUMBÊNCIA. VENCEDOR. MAIORIA DOS PEDIDOS. 1. O termo de quitação refere-se ao momento em que o veículo foi entregue e não a eventuais danos posteriores ao sinistro, não impedindo portanto a propositura de demanda visando o recebimento de eventuais diferenças devidas, por consequências advindas do sinistro. 2. Verificado que o veículo permaneceu por mais de quatro meses aguardando a realização dos reparos, impõe-se o dever de indenizar os lucros cessantes ao proprietário que o utiliza como instrumento de trabalho, durante o período em que deixou de perceber proveito econômico. 3. Para a fixação do valor indenizatório por danos morais, há que se levar em conta os critérios da razoabilidade, proporcionalidade e equidade, sem olvidar o grau de culpa dos envolvidos, a extensão do dano, bem como a necessidade da efetiva punição do ofensor, a fim de evitar reincidência na sua conduta lesiva. Mostrando-se exacerbado o valor fixado no Juízo singular (R$15.000,00 - quinze mil reais), impõe-se a redução a um patamar razoável (R$ 5.000,00 - cinco mil reais). 4. Restando vencida a parte autora apenas com relação à parte dos valores a serem indenizados, configura-se vencedora na maioria dos pedidos, devendo a parte demandada arcar com a totalidade do ônus da sucumbência. APELAÇÕES CONHECIDAS E PARCIALMENTE PROVIDAS.
+Embargos de declaração: opostos pelo recorrido, foram acolhidos, para corrigir erro material contido na parte final do voto e na ementa.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 485/486):
+De início, convém registrar que, os embargos de declaração têm seus contornos definidos no artigo 1.022 do CPC/2015, prestando-se para afastar do julgamento recorrido omissão, obscuridade ou contradição e erro material. No presente caso, revendo o voto condutor do venerando acórdão bem assim a ementa confeccionada, percebe-se a ocorrência de erro material, impondo-se a retificação do julgado.
+Realmente a única matéria debatida na primeira apelação foi a sucumbência, onde o ora embargante teve suas razões acatadas por este Tribunal, com a integralidade do ônus à parte ora embargada.
+No concernente ao valor indenizatório, também razão lhe assiste, pois durante a sessão de julgamento, este Relator chegou a conclusão de que o valor deveria ser reduzido ao valor de R$ 8.000,00 (oito mil reais), o que aceito por unanimidade pela Turma Julgadora.
+Posto isso, já conhecidos os embargos de declaração, os acolho para corrigir o erro material contido na parte final do voto, bem assim na ementa confeccionada (movimentação n. 115), com a devida substituição e integração ao julgado, nos seguintes termos:
+"Ao teor do exposto, já conhecidos os recursos e DOU PARCIALPROVIMENTO A SEGUNDA APELAÇÃO para reformar a sentença singular no concernente ao valor indenizatório, reduzindo-o ao valor de R$ 8.000,00 (oito mil reais), ao passo em que, DOU PROVIMENTO A PRIMEIRA APELAÇÃO, com condenação da parte adversa (segunda apelante) na totalidade do ônus da sucumbência, mantendo os demais termos da sentença."
+Determino ainda a retificação da ementa, para fazer constar no item n. 5, os seguintes termos:
+"5. Para a fixação do valor indenizatório por danos morais, há que se levar em conta os critérios da razoabilidade, proporcionalidade e equidade, sem olvidar o grau de culpa dos envolvidos, a extensão do dano, bem como a necessidade da efetiva punição do ofensor, a fim de evitar reincidência na sua conduta lesiva. Mostrando-se exacerbado o valor fixado no Juízo singular (R$ 15.000,00 - quinze mil reais), impõe-se a redução a um patamar razoável (R$ 8.000,00 - oito mil reais)."
+Deverá ainda ser EXCLUÍDA da parte final do voto a seguinte frase: "Diante do parcial provimento de ambos os recursos, deixo de majorar a verba honorária fixada."
+A presente decisão deverá integrar o julgado constante da movimentação n.115.
+Recurso especial: alega dissídio jurisprudencial em relação ao art. 402 do CC/02.
+Sustenta que o Tribunal de origem teria pautado o cálculo dos lucros cessantes em valores hipotéticos, pois teria considerado a média aritmética dos contratos apresentados, quando deveria ter considerado também a necessidade de dedução das despesas operacionais e tributos da atividade.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/GO.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, relativo aos lucros cessantes, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o proveito econômico (e-STJ, fls. 316/317 e 439/440) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação indenizatória por danos morais c/c lucros cessantes, ajuizada em razão de danos decorrentes de atraso na entrega de caminhão.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Recurso especial não conhecido, com majoração de honorários.
