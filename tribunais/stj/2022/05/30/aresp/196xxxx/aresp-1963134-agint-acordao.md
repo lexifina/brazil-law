@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual, reconsiderando a decisão da Presidência, neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, reiterou os fundamentos do recurso especial, argumentando que deve ser conhecido recurso especial por alegação de violação à Súmula. Por fim, afirmou que há julgado desta Corte analisando o mérito da controvérsia em sentido oposto ao do acórdão estadual.
+A parte agravada, regularmente intimada, pugnou pela manutenção da decisão.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. SÚMULA 284/STF. PREVIDÊNCIA PRIVADA. CORREÇÃO MONETÁRIA. ÍNDICE PREVISTO NO CONTRATO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pelo agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Como salientado, a ora agravante, nas razões do especial, sequer apontou quais dispositivos de lei federal entendeu violados ou sobre quais recairia dissídio jurisprudencial a respeito da aplicação da Súmula nº 289/STJ, de modo a permitir o conhecimento do recurso especial com espeque na alínea "a" ou "c" do inciso III do artigo 105, da Constituição Federal.
+Outrossim, em que pese afirmar que é possível a alegação de violação à Súmula, caso se atentasse ao início do trecho transcrito do voto desta Relatoria nas razões do presente AgInt, foi expressamente consignado que, "para fins do artigo 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula." (fl. 618 e-STJ).
+Ainda, mesmo que fundamentado na alínea c do inciso III do art. 105 da Constituição Federal, deve ser apontada sobre qual legislação infraconstitucional recai o dissídio jurisprudencial, o que não foi feito nos presentes autos.
+Com efeito, imperioso concluir pela incidência da Súmula nº 284, do Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO INTERNO. REINTEGRAÇÃO DE POSSE. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO ART. 535 DO CPC/1973. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DISSÍDIO JURISPRUDENCIAL. ARTIGO DE LEI. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Em homenagem ao princípio da fungibilidade recursal, os presentes embargos de declaração são recebidos como agravo regimental.
+2. Inviável a análise de ofensa ao art. 535 do Código de Processo Civil de 1973, visto que não foram opostos declaratórios contra o acórdão impugnado na via do recurso especial, o que atrai o óbice da Súmula nº 284/STF.
+3. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+4. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+5. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.6. Agravo interno não provido.
+(EDcl no REsp 1593380/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016)
+Ademais, reitero que, ainda que assim não o fosse, anoto que a apontada divergência jurisprudencial esbarraria nos óbices contidos nas Súmulas n. 5 e 7 do STJ, que impedem a apreciação das cláusulas contratuais e a revisão do conjunto fático-probatório dos autos em sede de recurso especial, respectivamente.
+É o que se depreende da leitura do seguinte trecho (fls. 432/433 e-STJ)
+"Com efeito, o acórdão de fls. 219/224, de minha Relatoria, anulou a sentença e determinou a realização de perícia técnica atuarial para o cálculo do correto valor do benefício complementar que o autor faz jus, levando em conta os critérios previstos no contrato e a defasagem ocorrida no decorrer dos anos, bem como o índice de atualização a ser aplicado.
+A perícia foi realizada, tendo concluído que a formulação do cálculo para a determinação do valor do benefício está adequada porque o autor não cumpriu os 25 anos consecutivos e ininterruptos de contribuição ao plano e, dessa forma, não poderia obter o valor do benefício integral, no equivalente ao valor inicialmente declarado de Cr$ 1.180,00, fazendo jus apenas ao benefício proporcional. (fls. 308 e 318).
+Em resposta aos quesitos das partes, a "expert" esclareceu que as mensalidades quitadas a título de contribuições previdenciárias e os valores dos benefícios pagos ao autor foram reajustados, mas que é impossível afirmar qual foi o índice utilizado. (fls. 311/ 312 e 319).
+Ora, respeitado entendimento do sentenciante, é inviável sustentar que o benefício pago ao autor desde o ano 2000 estava incorreto e, por conseguinte, adotar o cálculo aritmético unilateralmente apresentado na inaugural.
+Para tanto, seria necessária a certificação da incorreção dos valores pagos por prova técnica produzida em juízo, o que incorreu na hipótese "sub judice", sem contar que a perita verificou que os benefícios pagos ao autor foram reajustados.
+Assim, não há como acolher a pretensão de revisão do benefício complementar, tampouco condenar a ré no pagamento de diferença pecuniária em favor do autor."
+Com efeito, observo que o Tribunal de origem consignou expressamente que a perícia técnica concluiu que "a formulação do cálculo para a determinação do valor do benefício está" em consonância com as regras previstas no contrato, bem como que o ora recorrente não demonstrou a incorreção dos índices de reajuste adotados desde os anos 2000.
+Nesse contexto, a alteração dessas premissas firmadas pela Corte Estadual, a fim de dar provimento ao recurso especial, esbarraria nas vedações de análise de cláusulas contratuais e de reexame do conjunto fático-probatório por esta via do recurso especial, em virtude dos óbices contidos nas Súmulas já mencionadas.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. FINANCIAMENTO HABITACIONAL. ENTIDADE DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE DE REVISÃO DE CLÁUSULAS ABUSIVAS. CONTRATO CELEBRADO NA VIGÊNCIA DA LEI N. 8.177/1991. PREQUESTIONAMENTO DE QUESTÕES. SÚMULA 211/STJ. CAPITALIZAÇÃO MENSAL. NÃO PACTUAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. (TR). AUSÊNCIA DE PREVISÃO CONTRATUAL. SUBSTITUIÇÃO PELO INPC. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem. Incidência das Súmulas 283 e 284 do STF.
+3. A jurisprudência consolidada neste Sodalício é no sentido de ser permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada. Precedentes.
+4. Para infirmar as conclusões do acórdão recorrido de que houve pactuação expressa do índice da (TR) como índice de correção seria imprescindível o revolvimento do conjunto fático-probatório dos autos e a análise das cláusulas contratuais, o que é vedado nesta instância extraordinária. Incidência das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1450970/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2019, DJe 23/8/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. 1. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. COMPETÊNCIA DO STF. 2. PRESTAÇÃO DE TRATO SUCESSIVO. FUNDO DO DIREITO QUE NÃO PRESCREVE. PRESCRIÇÃO QUINQUENAL. SÚMULAS 291 E 427/STJ. 3. REAJUSTE DO BENEFÍCIO. PREVISÃO CONTRATUAL. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL. SÚMULAS N. 5 E 7/STJ. 4. AGRAVO DESPROVIDO.
+1. É inviável a análise, em recurso especial, de ofensa a dispositivos constitucionais, porquanto a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. Em se tratando de obrigação de trato sucessivo, é predominante na jurisprudência desta Corte Superior que a prescrição atinge apenas as parcelas vencidas no quinquênio que precede o ajuizamento da ação, não alcançando o próprio fundo de direito, nos termos das Súmulas 291 e 427, ambas do STJ.
+3. Tendo a Corte estadual, mediante análise de todo o acervo probatório e após apreciação do contrato, concluído não ser necessária, na hipótese de reajuste de benefício, a acumulação de três "sobras" consecutivas, não se mostra possível modificar a referida conclusão na via do recurso especial, em razão do óbice dos enunciados n. 5 e 7 da Súmula do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1540638/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1/6/2020, DJe 4/6/2020)
+Por fim, quanto à suposta existência de julgado de órgão fracionário deste Tribunal em sentido diverso, anoto que a recorrente, caso entenda necessário, possui os meios adequados para fazer prevalecer o entendimento pretendido.
+Em face do exposto, nego provimento ao agravo interno.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+É o voto.
