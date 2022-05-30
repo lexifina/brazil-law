@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especialfundamentado no art. 105, III, a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiçado Estado do Rio de janeiro, assim ementado:
+APELAÇÃO CÍVEL. Direito Constitucional e administrativo. Acidente ocorrido com pedestre que colidiu com galho de árvore existente na calçada. Sentença de improcedência. Irresignação autoral. Responsabilidade das pessoas jurídicas prestadoras de serviços públicos, que vem regulamentada no art. 37, § 6.º, da CRFB. Compete à Companhia de Limpeza Urbana (COMLURB), o dever de guarda e conservação das arvores localizadas em vias públicas, compreendendo corte, poda e a retirada daquelas que apresentarem riscos à população, nos termos do Decreto Municipais nº 28.981/2008 (artigo 1º). Restou demonstrado o nexo de causalidade entre o dano e a conduta omissiva do agente em manter o tronco no local, sem qualquer razão para a omissão. A distração do autor, que evidentemente ocorreu, não rompe o nexo de causalidade. A poda de formação é utilizada para dar formato linear, diminuir galhos que ocupam áreas de passeio ou ruas e avenidas, permitindo o livre trânsito de pedestres e veículo. Danos morais evidenciados na dor e sofrimento decorrentes da lesão. Recurso a que se dá provimento.
+A decisão recorrida tem o seguinte dispositivo:
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo interposto pelo Município do Rio de Janeiro e pela Fundação Parques e Jardins, para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, e conheço do agravo interposto pela Comlurb, para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, implicando, ainda, majoração da verba honorária em 2% .
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Porém, mesmo reconhecida a responsabilidade da empresa municipal(COMLURB), a Corte de origem condenou, reitere-se, sem fundamentar, de forma solidária o Município e a Fundação Parques e Jardins.
+Não há, portanto, qualquer questionamento fático ou probatório.
+A questão é bastante objetiva: em face de conduta de ente da Administração Indireta que causa dano a terceiro, cabe ao Município e à Fundação Parques e Jardins a responsabilidade solidária (tese do acórdão) ou subsidiária (tese do recurso especial)
+ ..
+Não se trata, portanto, de revisão de matéria probatória, mas discussão objetiva, sendo inaplicável a Súmula 07 desse Superior Tribunal, merecendo ser admitido e provido o recurso especial municipal.
+Acrescente-se, também data venia, que não é consistente o argumento de que esta matéria da responsabilidade seria constitucional, porquanto os ora agravantes também interpuseram recurso extraordinário dos acórdãos prolatados pela Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, pelo que, então, deveria, então, ter sido observado por V. Exa os artigos 1031, § 2º e 1032 do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA. ALEGAÇÃO DE VIOLAÇÃO DEDISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. FUNDAMENTO BASEADO EM ENUNCIADO DE SÚMULA DETRIBUNAL REGIONAL ESTADUAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de responsabilidade civilobjetivando a condenação dos réus ao pagamento de indenização por danos morais, materiais e estéticos. Na sentença o pedido foi julgado improcedente. No Tribunala quo, a sentença foi reformada, condenando os réus, solidariamente, ao pagamento de indenização a título de danos morais.
+II - Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+III - Em relação à respectiva responsabilidade, observa-se que o acórdão recorrido adotou fundamento eminentemente constitucional, especificamente, lastreando-se no art. 37, § 6º, da CF/1988, citando a aplicação da Teoria do Risco Administrativo (fls. 308 e segs.), embasada no referido dispositivo. Eventual reapreciação do tema, nos moldes em que foi colocado, implicariausurpação da competência do Supremo Tribunal Federal, motivo pelo qual não há como fazê-lo em recurso especial.
+IV- Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+V -Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+Em relação à respectiva responsabilidade, observa-se que o acórdão recorrido adotou fundamento eminentemente constitucional, especificamente, lastreando-se no art. 37, § 6º, da CF/1988, citando a aplicação da Teoria do Risco Administrativo (fls. 308 e segs.), embasada no referido dispositivo. Eventual reapreciação do tema, nos moldes em que foi colocado, implicariausurpação da competência do Supremo Tribunal Federal, motivo pelo qual não há como fazê-lo em recurso especial.
+Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
