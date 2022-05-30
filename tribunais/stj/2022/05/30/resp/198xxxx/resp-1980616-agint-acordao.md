@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno apresentado contra decisão monocrática sintetizada na seguinte ementa (fl. 226e-STJ):
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. TÍTULO JUDICIAL. ALTERAÇÃO. COISA JULGADA. PREVALÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 /STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nas razões de agravo interno, aagravante sustentaque ".. o em. relator não observou que a jurisprudência desse Col. Superior Tribunal de Justiça, ao contrário do entendimento firmado, caminha em consonância com os argumentos apresentados pelo recorrente, de forma a ressalvar a aplicação imediata em todos os processos da lei nova que altera o regime da correção monetária, abarcando inclusive aqueles em que já houve o trânsito em julgado.." (fl.243 e-STJ);alega que ".. o acórdão relativo ao Tema 810/STF possui eficácia vinculante e ex tunc que, inclusive, demonstra a necessidade de serem acolhidos os pedidos recursais, de forma a ser determinada a imediata aplicação do IPCA-E nos moldes em que perquirido pelo(a) recorrente, não havendo dúvidas acerca da necessidade de reforma da decisão agravada .."; sustenta que ".. no que diz respeito ao pedido de fixação dos honorários advocatícios da fase de conhecimento, há que se ressaltar que não há falar na incidência das Súmulas 283 e 284 do STF, pois foram impugnados todos os fundamentos que mantêm o acórdão atacado, conforme planilha a seguir destacada, que elucida os pontos levantados pelo em. relator na r. decisão ora agravada." (fl. 263 e-STJ)
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. CORREÇÃO MONETÁRIA. CUMPRIMENTO DE SENTENÇA. TÍTULO JUDICIAL. COISA JULGADA. PREVALÊNCIA. HONORÁRIOS ADVOCATÍCIOS. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme dito anteriormente, o STJ, em julgamento realizado sob a sistemática dos Recursos Repetitivos, quanto à matéria referente à aplicação do art. 1º-F da Lei 9.494/1997 (com redação dada pela Lei 11.960/2009), estabeleceu que, não obstante os índices fixados para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, deve ser ressalvada a coisa julgada que tenha determinado a aplicação de índices diversos (AgInt no AREsp 1.747.028/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1.7.2021).
+2. Assim sendo, "sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF" (REsp 1.861.550/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 4.8.2020).
+3. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+4. Agravo interno não provido.
+VOTO
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+OTribunal de origem, ao analisar a controvérsia, assentou que:
+Primeiro, porque a sentença que constitui o título judicial, transitada em julgado, estabeleceu, de maneira expressa, a correção do débito pela Taxa Referencial - TR.
+O valor da dívida é apurado segundo os parâmetros contidos no título judicial, de maneira que decisão posterior do Supremo Tribunal Federal sobre o incide de correção monetária, ainda que de natureza vinculante, não projeta nenhum na situação processual consolidada.
+Segundo, porque o exequente não pode modificar a pretensão executória, no que diz respeito ao índice de correção monetária, depois de deduzir o pleito de cumprimento de sentença, haja vista o óbice invencível da preclusão consumativa.
+Os Agravantes deduziram a pretensão executória com base no índice de correção monetária previsto no título judicial e por isso não podem, ante a barreira preclusiva, pretender alterá-lo depois inclusive que o pagamento foi realizado pelos Recorridos.
+Terceiro, porque a mudança do próprio valor da execução violaria o direito de defesa dos Agravados, na medida em que excesso de execução só pode ser arguido mediante impugnação ao cumprimento de sentença, possibilidade já superada no caso vertente..
+ ..
+Em função dessa titularidade, os honorários de sucumbência não podem ser incluídos na execução individual de sentença coletiva que constitui processo autônomo e com sujeitos processuais distintos..
+ ..
+A se permitir que os honorários de sucumbência da ação coletiva sejam agregados à execução individual, não apenas se violaria a titularidade respectiva, mas também a escala do § 3º do artigo 85 do Estatuto Processual Civil.
+ ..
+Essa decisão, em consonância com a Súmula 345 e com o precedente qualificado a que se reporta, do Superior Tribunal de Justiça, remunerou o trabalho desenvolvido pelos advogados do Agravante na execução individual de sentença.
+Cumpre ter presente que a tese fixada no Recurso Especial 1.650.588/RS tem como premissa fundante o fato de que o cumprimento individual de sentença na verdade constitui causa autônoma com sujeitos processuais próprios e distintos
+ ..
+Assim sendo, se houve a estipulação de honorários especificamente para remunerar os advogados que patrocinam o cumprimento individual de sentença, ressai patente que não podem ser acrescidos honorários de sucumbência fixados na ação de conhecimento.
+Quanto à correção monetária, como salientado na decisão monocrática, verifica-se quea decisão proferida pela Corte local está em harmonia com a orientação desta Corte Superior no sentido de que, na fase de cumprimento de sentença, não é possível alterar os índices de correção monetária estabelecidos no título judicial, sob pena de ofensa à coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto.
+Assim sendo, "sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF" (REsp 1.861.550/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 4.8.2020).
+A propósito:
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO CONTRA A FAZENDA. RPV. JUROS E CORREÇÃO MONETÁRIA. PRECEDENTE VINCULANTE DO STF. RESPEITO À COISA JULGADA. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+2. Conforme dito anteriormente, o STJ, em julgamento realizado sob a sistemática dos Recursos Repetitivos, quanto à matéria referente à aplicação do art. 1º-F da Lei 9.494/1997 (com redação dada pela Lei 11.960/2009), estabeleceu que, não obstante os índices fixados para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, deve ser ressalvada a coisa julgada que tenha determinado a aplicação de índices diversos (AgInt no AREsp 1.747.028/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1.7.2021).
+3. Assim sendo, "sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF" (REsp 1.861.550/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 4.8.2020).
+4. A tese de suposta omissão sustenta que tal posicionamento do STJ não deve ser aplicado, visto que "não houve nenhuma modulação dos efeitos temporais no julgamento do RE 870.947/SE" (fl. 1.324, e-STJ).
+5. A discordância do fundamento jurídico decisório não enseja Aclaratórios.
+6. Embargos de Declaração rejeitados.
+(EDcl no AgInt no REsp 1943749/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/03/2022, DJe 25/03/2022)
+Quanto à questão relacionada aos honorários advocatícios, o exame do recurso especial revela que os fundamentos acerca donão acréscimo de honorários de sucumbência fixados na ação de conhecimento em vista daestipulação de honorários específicos no cumprimento individual de sentença,não foram impugnados, apesar de suficientes para manter o acórdão a quo.
+Portanto, aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ART. 535 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ. DISCUSSÃO SOBRE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO E EXCLUSÃO DE PROGRAMA DE PARCELAMENTO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido. (AgInt no REsp 1677689/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/02/2018, DJe 21/02/2018)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+2. Pelo princípio da dialeticidade, impõe-se à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido.
+3. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo desprovido. (AgInt no RMS 58.200/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 28/11/2018)
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
