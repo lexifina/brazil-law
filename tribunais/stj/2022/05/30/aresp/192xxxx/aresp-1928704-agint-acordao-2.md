@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  por ADRIELI MISTRIA DOS SANTOS, contra  decisão  de fls. 467/470, que conheceu o agravo para não conhecer o recurso especial, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-RECLUSÃO. PRESCRIÇÃO. TERMO INICIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO PARTICULAR.
+2.  Em  suas  razões  (fls.  474/484),  a  parte  agravante  alega, em suma: (a)realizou o cotejo analítico entre os casos confrontados, comprovando que o acórdão recorrido diverge da jurisprudência do STJ firme no sentido de que a prescrição não corre contra os incapazes; e (b)o excesso de formalismo deve ser afastado quando, por outros meios, for possívelanalisar acontrovérsia posta no recurso especial.
+3.  Requer,  ao  final,  o  provimento  do  agravo  interno,  para  que  seja  dado provimento ao  recurso  especial  nos  termos  pleiteados.
+4.  Não  houve  impugnação  ao  recurso  (fls.  502).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL E PREVIDENCIÁRIO.  AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL.  AUXÍLIO-RECLUSÃO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.  AGRAVO  INTERNO  DO PARTICULAR  A QUE SE NEGA PROVIMENTO.
+1.  Consoante entendimento firmado por este Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a análise da demonstração da dissídio jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+2.  Agravo  interno  do particular a que se nega provimento.
+VOTO
+1.  O  recurso  não  merece  prosperar.
+2.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+3. No caso dos autos, a parte agravante interpôs recurso especial com fulcro na alínea cdo permissivo constitucional, apontando divergência acerca da interpretação dada aos arts.74 e 79 da Lei 8.213/1991.
+4. Depreende-se das razões recursais que a parte limitou-se a transcrever ementas dos acórdãos paradigmas, o que é insuficiente para demonstrar o alegado dissídio jurisprudencial.
+5. Consoante entendimento firmado por este Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a análise da demonstração da dissídio jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO PARA IMPUGNAR DECISÃO QUE DEFERIU LIMINAR EM PRODUÇÃO ANTECIPADA DE PROVA. NÃO CABIMENTO. ART. 382, § 4º, DO CPC/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Na espécie, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido(AgInt no REsp 1.893.155/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 28/4/2021 - sem destaques no original).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO PERMANÊNCIA. PRESCRIÇÃO.ALEGAÇÃO DE RELAÇÃO DE TRATO SUCESSIVO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83. DIVERGÊNCIA NÃO COMPROVADA.
+(..)
+VII - Para a caracterização da divergência, nos termos do art.1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Agravo interno improvido(AgInt no AREsp 1.656.796/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/4/2021, DJe 29/4/2021 - sem destaques no original).
+6. Ante  o  exposto,  nego  provimento  ao  agravo  interno  do particular.
+7.  É  como  voto.
