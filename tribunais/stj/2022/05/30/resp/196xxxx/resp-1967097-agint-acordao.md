@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por SONIA REGINA RECH, contra decisão monocrática da lavra deste signatário (fls. 1.227/1.230, e-STJ), que deu provimento ao recurso especial do ora agravado (BANESPREV) para julgar improcedente o pedido formulado na inicial a respeito da extensão da PLR a trabalhadores inativos.
+Daí o presente agravo interno (fls. 1235/1246, e-STJ), no qual a parte agravante sustenta que o decisão agravada afronta a Súmula 284/STF, bem como outros julgados da Turma, ao conhecer do recurso especial provido, ante a "ausência dos requisitos intrínsecos e extrínsecos que balizam o recurso." (fls. 1.237, e-STJ)
+Impugnação às fls. 440-445, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AOS RECLAMOS DAS PARTES ADVERSAS.
+INSURGÊNCIA DA DEMANDANTE.
+1. O recurso especial demonstrou, de modo fundamentado, a existência de violação a dispositivos de lei. Descabida, portanto, a incidência ao recurso especial manejado pela ora agravada do óbice da Súmula 284/STF.
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Em que pese a parte ora agravante alegue afronta à Súmula 284/STF, na medida em que teria havido fundamentação deficiente no recurso especial, o qual não teria apresentado conteúdo jurídico, não é o que se observa das razões recursais de fls. 1041/1064, e-STJ.
+Com efeito, a parte recorrente BANESPREV FUNDO BANESPA DE SEGURIDADE SOCIAL apontou no apelo extremo, além de divergência jurisprudencial, violação dos artigos 1022 do CPC/15, 112 e 114, ambos do Código Civil, sustentando, em suma, negativa de prestação jurisdicional quanto à ilegitimidade do banco recorrente, bem como ter ocorrido interpretação ampliativa de artigos do Estatuto e Regulamento de Pessoal do Banespa ao equiparar gratificação semestral à PLR e, assim, deferir a pretensão buscada, qual seja participação nos lucros e resultados extensiva aos inativos. Aduziu, ainda, a inexistência de equilíbrio atuarial, que deve prevalecer na relação para o efetivo cumprimento da obrigação.
+Tal fundamentação permitiu o conhecimento e provimento do recurso especial, porquanto, conforme decidido às fls. 1227/1230, e-STJ, a legislação de regência das entidades de previdência privada e as relações com seus associados ou filiados (artigo 202 da Constituição Federal e Leis Complementares 101 e 109, de 2001) evidencia que, no Brasil, o sistema previdenciário complementar foi instituído com o objetivo de viabilizar a constituição de reservas financeiras, a partir de contribuições do patrocinado e patrocinador, a fim de proporcionar o pagamento de benefícios oferecidos e, na hipótese de complementação de aposentadoria, permitir ao aposentado um padrão de vida mais próximo ao que desfrutava quando em atividade, observando-se, porém, os parâmetros atuariais previstos nos planos de custeio, com o fim de se manter o equilíbrio econômico-financeiro.
+Sendo assim, nos termos da jurisprudência desta Corte, a extensão de vantagens pecuniárias, participação nos lucros e reajustes salariais concedidos aos empregados em atividade não podem, por si só, independentemente de previsão de custeio para o plano de benefícios correspondentes, integrar o cálculo do benefício complementar, porquanto não se compatibiliza com o princípio do mutualismo inerente ao regime fechado de previdência privada.
+De fato, a Segunda Seção deste Tribunal consolidou o entendimento de que, no regime de previdência privada, é vedada a inclusão de ganhos de produtividade, abonos e vantagens de qualquer natureza (LC 108/2001, art. 3º, parágrafo único), em razão da necessidade de manutenção de equilíbrio financeiro e atuarial do correspondente plano de benefícios exigido pela legislação de regência.
+Confira-se:
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. PLANO DE BENEFÍCIOS SUBMETIDO À LEI COMPLEMENTAR N. 108/2001, JÁ OPERANTE POR OCASIÃO DO ADVENTO DA LEI. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. CONCESSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, AINDA QUE NÃO SEJA PATROCINADO POR ENTIDADE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Para fins do art. 543-C do Código de Processo Civil: a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.
+2. Recurso especial provido.
+(REsp 1425326/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/05/2014, DJe 01/08/2014)
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. PLR. GRATIFICAÇÃO SEMESTRAL. PRETENSÃO DE INCORPORAÇÃO AO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o entendimento consolidado da Segunda Seção, nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares.
+2. Agravo interno desprovido.
+(AgInt no REsp 1908798/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA. PCAC. ABONO. PARTICIPANTES EM ATIVIDADE. CONCESSÃO PELO PATROCINADOR. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não podem ser estendidos à complementação de aposentadoria dos inativos os ganhos reais, sobretudo sem a respectiva fonte de custeio, a exemplo de direitos aplicáveis somente aos empregados da ativa, advindos da implantação do novo PCAC e que envolvem promoções e aumentos por mérito.
+3. As normas do plano de benefícios que asseguraram os reajustes dos valores das suplementações de aposentadoria nas mesmas épocas em que forem feitos os reajustes salariais, não se referem à igualdade de base salarial dos trabalhadores em atividade.
+4. Agravo interno não provido.
+(AgInt no REsp 1678101/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/10/2018, DJe 26/10/2018)
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
