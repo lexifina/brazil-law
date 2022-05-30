@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE FRANCISCO DE ASSIS DOS SANTOS RODRIGUES contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado na Apelação Criminal n.º 0000953-83.2015.8.26.0.
+Consta nos autos que o Agravante foi condenado a 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão, em regime semiaberto, e 4 (quatro) dias-multa, pelo delito do art. 157,caput, na forma tentada, por duas vezes (fls. 96-97).
+À apelação defensiva a Corte de origem negou provimento (fls. 197-207).
+Os embargos de declaração foram rejeitados (fls. 218-224).
+Nas razões do apelo nobre, a Defesa pugna pela desclassificação da conduta para furto, pois não teria ficadocomprovada qualquer elementar do crime de roubo relativa à violência. Requer, ainda, a fixação do regime aberto porqueo mais severo foi apoiado na gravidade do delito(fls. 245-252).
+Pleiteia, caso provido o pedido de desclassificação da conduta para furto, seja substituída a pena corporal por restritivasde direitos (fl. 252).
+As contrarrazões foram apresentadas às fls. 281-191.
+O Ministério Público Federal opina pelo provimento do agravo (fls. 329-334).
+É o relatório. Decido.
+A Corte local superou o pleito de desclassificação da conduta para furto nestes termos (fls. 205-206, grifei):
+"Por outro lado, inviável pretender-se da desclassificação da conduta irrogada para o delito de furto, eis que restou devidamente demonstrado pelos elementos de convicção colhidos, sobretudo pelo coeso depoimento prestado pelas vítimas Daniele e Ana Flávia, que o apelante, mediante violência contra elas, tentou subtrair bens de propriedade pertencentes a elas. Destarte, conclui-se que o réu praticou conduta antijurídica, subsumível ao tipo penal descrito na exordial e, ante sua culpabilidade, impõe-se-lhe a condenação pelo crime de roubo simples tentado, em concurso formal, tal como operado em Primeira Instância."
+Diante desse quadro, para o Superior Tribunal de Justiça acolher como certa a tese de desclassificação da conduta para furto teria, necessariamente, de rever fatos e provas, providência, contudo, terminantemente, vedada pelo óbice da Súmula n. 7 destaCorte.
+A propósito,mutatis mutandis:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO DA CONDUTA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES E MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA.
+1. Para que (eventualmente) se chegue a conclusão diversa das instâncias ordinárias, no sentido de que a conduta do crime de roubo majorado deve ser desclassificada para tentativa de furto simples, com aplicação da redução máxima em razão da tentativa, bem como que a causa de aumento de pena (concurso de agentes) deve ser excluída, há a necessidade de reexame fático-probatório, o que atrai o óbice da Súmula 7/STJ.
+ ..
+3. Agravo regimental improvido."(AgRg no REsp 1922180/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 22/02/2022, DJe 02/03/2022, grifei.)
+No mais, com razão a Defesa quanto ao regime para o início do cumprimento da pena fixada em 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão. Com efeito, a Corte deorigem não declinou fundamento concreto para lastrear idoneamente o regime mais severo, tendo se restringido a declinar elementos inerentes ao próprio crime imputado ao Réu. É o que se vê destas transcrições (fls. 206-207):
+"Finalmente, quanto ao regime prisional imponível àespécie, correta a estipulação do regime inicial semiaberto, baseando-se na gravidade concreta da hipótese vertente (roubo praticado com emprego de violência contra as vítimas)."
+Nocaso, tendo em vista que o Agravante é primário, portador de bons antecedentes e com todas as circunstâncias judiciais consideradas favoráveis, deve ser fixado o regime aberto para o início do cumprimento da pena.
+Apropósito,mutatis mutandis:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO SIMPLES. ART. 33, § 2º, C, DO CP. REGIME PRISIONAL. PRIMARIEDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA-BASE DOSADA NO MÍNIMO LEGAL. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO GENÉRICA. SUPORTE EM ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. SÚMULAS 718 E 719/STF. SÚMULA 440/STJ. PENA DEFINITIVA ESTIPULADA EM 4 ANOS DE RECLUSÃO. MANUTENÇÃO DO REGIME ABERTO QUE SE IMPÕE.
+1. A questão veiculada no recurso especial diz respeito à verificação da ofensa ao art. 33, § 2º, c, do Código Penal, notadamente porque desconsiderada a individualização da pena, ao ser fixado regime mais gravoso a condenado primário e sem circunstâncias judiciais negativadas.
+2. Foram utilizados fundamentos abstratos e genéricos na fixação do regime de cumprimento de pena mais grave. Todas as circunstâncias judiciais foram consideradas favoráveis, sendo fixada a pena-base do crime de roubo no mínimo legal (4 anos de reclusão). Não há fundamento para dar lastro à imposição de regime prisional mais severo do que o permitido pelo quantum da pena, ex vi da Súmula 440/STJ.
+3. O argumento colacionado pelo agravante, de que o agravado se aproximou por trás da vítima, deu-lhe um empurrão, derrubou o ofendido ao solo, arrancou o celular das mãos de João Tadeu e fugiu correndo, revela algo intrínseco ao tipo penal violado, não tendo o condão de justificar a exasperação do regime prisional.
+4. A grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no art. 33, § 2º, do CP, haja vista tais circunstâncias já terem sido sopesadas pelo legislador quando da definição das penas em abstrato (AgRg no REsp n. 1.563.247/SP, Ministro Jorge Mussi, Quinta Turma, DJe 11/3/2016).
+5. Fixada a pena-base no mínimo legal (4 anos - art. 157, caput, do CP) e não ostentando o agravado antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea.
+6. Levando em consideração que todas as circunstâncias judiciais foram consideradas favoráveis, e não ostentando o agravante antecedentes criminais, tem-se como descabida a fixação de regime mais gravoso. Com efeito, não há fundamento para dar lastro à imposição de regime prisional mais severo do que o permitido pelo quantum da pena, ex vi da Súmula 440/STJ (AgRg no REsp n. 1.807.436/SP, de minha relatoria, Sexta Turma, DJe 2/8/2019).
+7. Agravo regimental improvido."(AgRg no REsp 1831830/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/10/2019, DJe 05/11/2019).
+Outrossim, observo na trilha processual, às fls. 259-268 e269-278, que o Agravante interpôs outrosdois recursos especiais contra a mesma decisão recorrida.
+Contudo, havendo a interposição de vários recursos, pela mesma parte e contra a mesma decisão, à exceção do primeiro, os demaisterão o conhecimento obstado pelo princípio da unirrecorribilidade e pela ocorrência de preclusão consumativa.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEGUNDO RECURSO CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE DE CONHECIMENTO. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES JUDICIAIS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - A interposição de recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo, considerando a preclusão consumativa e o princípio da unirrecorribilidade das decisões judiciais. Em razão desse entendimento, o agravo regimental de fls. 1294-1308 (petição 00481031 - 3233533) não pode ser conhecido.
+ ..
+Recurso não conhecido." (AgRg no REsp 1.688.801/AL, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/09/2018, DJe 28/09/2018.)
+Por fim, prejudicado o pleito de conversão da pena corporal por restritivas de direitos, pois ficou mantida a condenação do Réu pelo delito de roubo.
+Ante o exposto,CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO para fixar o regime aberto para o início do cumprimento da pena.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO SIMPLES, NA FORMA TENTADA, POR DUAS VEZES. PLEITO DE DESCLASSIFICAÇÃO DA CONDUTA PARA FURTO. ÓBICE DA SÚMULA N. 7 DESTA CORTE. ALEGADA FIXAÇÃO DO REGIME MAIS SEVERO SEM FUNDAMENTAÇÃO IDÔNEA. PROCEDÊNCIA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
