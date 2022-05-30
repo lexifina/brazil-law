@@ -1,0 +1,40 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1009086-29.2022.8.11.0000
+AGRAVANTE(S): BANCO BRADESCO S.A.
+AGRAVADO(S): CEREALISTA TELES PIRES EIRELI - EPP
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de antecipação da tutela recursal, interposto por BANCO BRADESCO S.A., contra decisão do MM. Juiz de Direito da 2a Vara Cível da Comarca de Sinop/MT, Dr. Cleber Luis Zeferino de Paula, lançada nos autos da “AÇÃO DE EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL” n. 1015771-75.2020.8.11.0015, ajuizada em face de CEREALISTA TELES PIRES EIRELI - EPP, que indeferiu a citação postal do Executado/Agravado.
+Nas razões recursais, o agravante sustenta que “postulou pela expedição de carta para citação postal do devedor no endereço informado na petição de ID. 68477419” (sic).
+Aduz que “por meio da decisão de mov. 14, determinou que o expediente citatório fosse realizado por meio de diligência do Oficial de Justiça” (sic).
+Ressalta que “o provimento do presente agravo vinculará futuras tentativas de citação, caso seja infrutífera, de modo que não precisará o Banco Agravante se socorrer deste Eg. Tribunal de Justiça todas as vezes que necessitar promover atos de citação” (sic).
+Registra que “é latente a necessidade de se atribuir efeito ativo ao Agravo de Instrumento ora interposto, pois em decorrência da r. decisão agravada, estará o Agravante impedido de proceder de forma ágil nos atos processuais” (sic).
+Com estes argumentos, e fundamentando seu pleito inicial nos requisitos legais, o agravante requer seja “concedida a antecipação da tutela recursal pretendida, a fim de que seja deferida a realização da citação POSTAL do Agravado” (sic).
+Ao final, visa o provimento do presente recurso, “para que seja reformada a r. decisão agravada, nos termos acima postulados” (sic).
+Preparo recursal recolhido, conforme certificado no Id. 1282554735.
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inciso I c/c art. 1.017, ambos do CPC.
+O agravante insurge contra decisão do i. Magistrado de primeiro grau que indeferiu a citação do executado/agravado via postal, determinando que seja feita pelo Oficial de Justiça.
+De acordo com a previsão contida no artigo 1.019, inciso I, c/c o artigo 300, ambos do Código de Processo Civil vigente, o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Ressalte-se que apesar do acervo documental juntado, limitada a uma apreciação não exauriente da questão, entendo que não existem, por ora, provas suficientes para agasalhar a pretensão inicial do agravante - antecipação da tutela recursal -, uma vez ausentes os pressupostos legais.
+Eis o teor da decisão recorrida na parte que interessa à análise neste momento de cognição sumária:
+“(...) 1. Em atenção aos pedidos formulados na petição Id. 68477419, oportuno ressaltar que embora o Código de Processo Civil de 2015 não tenha vedado expressamente a possibilidade de citação por correio em processos de execução, tratando-se de execução de título extrajudicial, se mostra indispensável uma leitura sistemática do Código de Processo Civil, não podendo o artigo 247 ser interpretado de forma isolada.
+2. Isto porque, a citação do executado é ato complexo, que envolve não apenas a ordem de pagamento, mas também, de constrição patrimonial (penhora, avaliação e arresto), em estrito cumprimento ao disposto no art. 829, § 1o (“do mandado de citação constarão, também, a ordem de penhora e a avaliação a serem cumpridas pelo oficial de justiça(...)”) e art. 830 (se o oficial de justiça não encontrar o executado, arrestar-lhe-á tantos bens quantos bastem para garantir a execução), ambos do Código de Processo Civil, sendo certo que a citação postal não atende as peculiaridades das ações de execução acima expostas.
+3. Outrossim, havendo antinomias e, neste caso, incabível a solução do conflito por meio dos critérios hierárquico e cronológico, deverá ser aplicado o critério da especialidade, o qual prescreve que a norma especial prevalece sobre a geral.
+4. Neste sentido:
+AGRAVO DE INSTRUMENTO. LOCAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CITAÇÃO PELO CORREIO. INVIABILIDADE. INTERPRETAÇÃO SISTEMÁTICA. PRINCÍPIOS DO NOVO CÓDIGO DE PROCESSO CIVIL. Da leitura sistemática do Novo Código de Processo Civil, extrai-se que o legislador optou por manter a citação das execuções por quantia certa a cargo do Oficial de Justiça. Interpretação em sentido diverso [expedição de carta de citação e posterior expedição de mandado de penhora e avaliação] mostrar-se-ia contraproducente, elevando desnecessariamente os atos processuais, em contrariedade aos princípios norteadores do Novo Código de Processo Civil. AGRAVO DE INSTRUMENTO DESPROVIDO. (Agravo de Instrumento No 70076974658, Décima Quinta Câmara Cível, Tribunal de Justiça do RS, Relator: Adriana da Silva Ribeiro, Julgado em 09/05/2018). (grifos acrescidos).
+5. Ante o exposto, indefiro o pedido de citação pelo correio, devendo a citação ser realizada exclusivamente por oficial de justiça, tendo em vista o disposto no art. 829, § 1o e art. 830, ambos do Código de Processo Civil.
+6. Também entendo que o deferimento dos demais pedidos formulados em Id. 68477919 ultrapassam os limites da razoabilidade de proporcionalidade e, portanto, devem ser analisados após a citação válida e o decurso do prazo para pagamento voluntário (...)” (Id. 83207313 – autos de origem) (destaques no original).
+Veja-se que o juiz a quo expôs seus fundamentos com base na legislação atual e em julgado do conceituado Tribunal de Justiça Gaúcho, o que dá conta de que, à primeira vista, o decisum deve ser mantido pelas próprias justificativas ali lançadas.
+Dessa forma, de início, entendo que não há qualquer irregularidade/ilegalidade na decisão agravada. Ademais, trata-se de matéria que não há o perigo de dano ou o risco de afetar o resultado útil do processo.
+Assim, a uma análise perfunctória da questão posta em mesa, entendo que ao assentar a razoabilidade das razões que irromperam a ação de origem (fumus boni iuris), notadamente limitado pelo momento liminar e raso nível de cognição, o d. Magistrado posicionou-se corretamente ao determinar a citação do executado por meio de Oficial de Justiça.
+Não vislumbro, igualmente, que a manutenção da decisão agravada possa acarretar danos irreparáveis, ou, então, frustrar ulterior eficácia do julgamento da questão de mérito, afinal, o agravante ao menos fundamentou o risco de dano grave de difícil ou incerta reparação, ou seja, este não passa de mera suposição, pois não apresentou indicativos plausíveis de que se deixar a questão para ser melhor analisada pelo Colegiado, sofrerá danos irreversíveis.
+Entendo, pois, que a medida é de fácil reversão e não exsurge prejuízo desmedido à parte autora/agravante, uma vez que eventualmente havendo o reconhecimento do direito alegado os autos tramitarão na forma postulada pelo recorrente sem maiores consequências.
+Desta forma, os argumentos do recorrente não convencem quanto à presença de urgência a justificar o imediato enfrentamento da questão controvertida.
+Assim, mostra-se prudente, nesta esfera de cognição sumária, aplicar o princípio da imediatidade da prova, o qual privilegia o juízo de valor formulado pelo Juiz que preside o feito, frente à sua proximidade com as partes e com o processo na origem, o que lhe permite dispor de elementos para formação de sua convicção.
+Diante do exposto, NÃO CONCEDO a antecipação de tutela recursal vindicada, sem prejuízo do convencimento que será formado quando do julgamento do mérito recursal.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 30 de maio de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
