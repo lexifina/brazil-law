@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de expediente avulso formado pela Coordenadoria de Processamento de Feitos de Direito Privado, em razão do recebimento,em 28/3/2022,de agravo interno interposto por TN INDUSTRIAL SOLUÇÕES E SERVIÇOS LTDAem face da decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DIFERIMENTO DO PAGAMENTO DA TAXA JUDICIÁRIA PARA PROSSEGUIMENTO DA EXECUÇÃO. GARANTIA AO ACESSO À JUSTIÇA. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. PRETENSÃO QUE, ADEMAIS, PERPASSA PELO EXAME DE ENUNCIADOS ADMINISTRATIVOS LOCAIS. VEDAÇÃO. SÚMULA 518/STJ.RECURSO ESPECIAL DESPROVIDO.
+A agravante sustenta, em síntese, que (a) considerando que "não houve intimação válida da r. decisão agravada (e-STJ Fl.207/212) e que o processo foi suspenso (Despacho - e-STJ Fl. 219/220) pela morte do então procurador da recorrente, conforme certidão de óbito anexado ao doc. e-STJ Fl. 216, não restam dúvidas sobre a tempestividade do presente recurso, em conformidade com os artigos 313 inciso I e 1.004 da norma processualística", (b) a decisão proferida em 24/2/2022considerou a intimação válida, apesar da certidão negativa de e-STJ Fl. 226, (c) o porteiro que recusou o recebimento da carta é "preposto da parte adversária e tem orientações para não receber citações ou intimações, pois a empresa TN INDUSTRIAL possui funcionário responsável pelo recebimento de correspondências", (d) diante da tentativa frustrada de intimação, torna-se imprescindível que seja realizada a intimação por oficial de justiça nos termos do art. 275 do CPC, (e) quanto ao mérito do recurso especial,a pretensão recursal serestringe a questões de direito, sendo dispensada, por conseguinte, qualquer análise fático-probatória dos autos, senão do próprio texto dos acórdãos, (f) além disso, a matéria objeto do presente recurso foi prequestionada, (g) o dissídio jurisprudencial foi corretamente demonstrado, pois o Código de Processo Civil não admite, em caso algum, que a parte interessada seja dispensada do recolhimento das despesas processuais, salvo no caso da gratuidade de justiça, e (h) o acórdão recorrido padece da adequada fundamentação, pois deixou de se manifestar sobre todos os argumentos suscitados pela parte, capazes de infirmar a conclusão adotada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. INTEMPESTIVIDADE DO AGRAVO INTERNO. DESCUMPRIMENTO DO PRAZO ASSINALADO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. DESNECESSIDADE DE RESTITUIÇÃO DO PRAZO RECURSAL EM PROVEITO DA PARTE. AUSÊNCIA, AINDA,DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC.
+AGRAVO INTERNO NÃO CONHECIDO.
+VOTO
+Eminentes colegas. O agravo interno não pode ser conhecido.
+Convém rememorar que, às e-STJ Fls. 207-212, negou-se provimento ao recurso especial, em decisão publicada no dia 3/2/2022.
+Em petição de e-STJ Fls. 214-215, a Sra. Maria Nelia Coelho de Magalhães Queiroz, viúva do advogado da parte agravante, Dr. Eraldo Sérgio de Magalhães Queiroz, (a) noticiouo seu falecimento, ocorrido no dia 25/1/2022, consoante certidão de óbito de e-STJ Fl. 216 e (b) requereu a reserva de honorários advocatícios, bem como fosse determinada a suspensão do processo, a teor do art. 313, I, § 1º, do CPC.
+Diante do noticiado, considerando que o Dr. Eraldo Sérgio de Magalhães Queiroz era o único advogado constituído nos autos (procuração de e-STJ Fl. 195), determinou-se a suspensão do processo e a intimação da parte agravante para que constituísse novo mandatário, no prazo de 15 (quinze) dias.
+O ofício de intimação de e-STJ Fl. 223, endereçado ao representante legal da agravante,foi juntado aos autos no dia 24/2/2022.
+Consante atestou a certidão de e-STJ Fl. 226, lê-se do aviso de recebimento o seguinte:
+Certifico que foi devolvido pelos CORREIOS, nesta data, o(a) OFICIO, objeto nº JU467096593BR, pelo seguinte motivo: Cliente Recusou-se a Receber.
+Diante da recusa injustificada de receber a intimação, a decisão de e-STJFls. 231-232 considerou cumprida a intimação e, não constituído novo advogado no prazo assinalado, dispensou-se a necessidade de republicação da decisão que negou provimento ao recurso especial.
+À e-STJ Fl. 234, certificou-se o trânsito em julgado e, no dia 24/3/2022, registou-se a baixa dos autos ao Tribunal de origem.
+Daí a interposição do agravo interno por meio de expediente avulso que, por diversos motivos, não pode ser conhecido.
+Como relatado, o ofício de intimação, no qual se assinalou o prazo de quinze dias para a regularização da representação processual, foi juntado aos autos no dia 24/2/2022.
+Assim, teria a agravante até o dia 21/3/2022 para, regularizando a sua representação processual, ter o prazorestituído em seu proveitopara impugnar a decisão agravada.
+Contudo, o agravo interno foi protocolado somente no dia 28/3/2022, juntamente com a procuração de e-STJ Fl. 19.
+Logo, o reconhecimento da intempestividade do agravo interno é imperioso.
+Acrescenta-se, por outro lado, queas razões expostas pela agravante para justificar a tempestividade do agravo interno não lhe socorrem.
+A uma, porque, ao contrário do que aduz,a intimação não foi negativa, mas considerada válida, uma vez que houve recusa injustificada em recebê-la.
+A duas, porque, a teor do art. 274, § único, do CPC, presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, como no caso.
+A três, porque não há qualquer comprovação de que a pessoa quem recusou o recebimento da intimação não era, de fato, funcionário responsável pelo recebimento de correspondências.
+A quatro,porque, a toda evidência, a intimação foi acompanhada do respectivo aviso de recebimento.
+A cinco, porque o disposto no art. 1.004 do CPC é inaplicável ao caso, uma vez que, não atendida a determinação judicial para que a representação processual fosse regularizada no prazo assinalado, tornou-se dispensável a restituição do prazo recursal em proveito da parte.
+Ainda que assim não fosse, o agravo interno não seria conhecido por outro fundamento.
+Consoante o art. 1.021, § 1º, do CPC "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Assim, "viola-se o princípio da dialeticidade recursal quando as razões do agravo interno deixam de infirmar especificadamente os fundamentos da decisão agravada" (AgInt no AREsp 1380158/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe 28/03/2019).
+No caso, cumpre rememorar que a decisão agravada negou provimento ao recurso especial, por entender que (a) o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, (b) as razões recursaisnão refutaram o fundamento suficiente disposto no acórdão recorrido - inafastabilidade do acesso à Justiça -,atraindo o óbice do enunciado da Súmula 283/STF, e (c) damaneira como proposta a insurgência, a apreciação da questão também perpassa pela análise do teor dos Enunciados 10 e 27 do FETJ-RJ que, consoante pacífica jurisprudência deste Superior Tribunal de Justiça, são atos normativos não inseridos no conceito de lei federal, previsto no art. 105, inciso III, "a", da Constituição Federal.
+Nas razões do agravo interno, a agravante se limita a (a) sustentar que (i) pretensão recursal não esbarra noóbicedaSúmula7 do STJ e (ii) amatéria objeto do presente recurso foi prequestionada e a (b) transcrever, ipsis litteris, as razões já expostas no recurso especial quanto à alegada negativa de prestação jurisdicional.
+Ora, a apresentação de razões dissociadas da fundamentação da decisão agravada, bem como a ausência de apresentação de argumentação jurídica mínima capaz deinfirmar especificamente todos os fundamentos da decisão agravadaviolam o princípio da dialeticidade, razão pela qual o agravo interno não poderia, de qualquer sorte,serconhecido.
+Diante do exposto, não conheço do agravo interno.
+Advirto novamente que a apresentação de incidentes protelatórios poderádar azo à aplicação de multa.
+É o voto.
