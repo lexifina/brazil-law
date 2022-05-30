@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PORTOCRED S/ACRÉDITO FINANCIAMENTO E INVESTIMENTOem face de decisão que negou seguimento a recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea"c", da Constituição Federal, desafiou acórdão proferido pelo Tribunal deJustiça do Estado do Rio Grande do Sul,assim ementado (fls. 217/218, e-STJ):
+APELAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL. CARÊNCIA DE AÇÃO E AUSÊNCIA DE INTERESSEPROCESSUAL PARA REVISAR CONTRATOS FINDOS. INEXISTENTE.
+O fato de o contrato ter sido extinto pela quitação não impõe qualquer vedação em rediscutir eventuais abusividades, conforme aplicação analógica da súmula 286 do STJ. Precedentes do STJ.
+PRESCRIÇÃO TRIENAL. REPETIÇÃO DO INDÉBITO. RECONHECIDA. O prazo prescricional de pretensão constituída no enriquecimento sem causa é regido por regra específica, mesmo que haja relação contratual subjacente, sendo de 03 anosa contar da violação do direito (cobrança indevida). Precedentes. Recurso do banco provido no ponto.
+JUROS REMUNERATÓRIOS. ABUSIVIDADE. VERIFICADA. Conforme entendimento dos Tribunais Superiores, a taxa de juros remuneratórios pactuada somente pode ser considerada abusiva quando demonstrado que excede substancialmente à taxa média praticada pelo mercado, hipótese dos autos.
+COMPENSAÇÃO DE VALORES. REPETIÇÃO DE INDÉBITO. POSSÍVEL. Reconhecida a abusividade e revisados os contratos, é possível a compensação de valores, depois de apurado o ativo e passivo entre os litigantes, bem como, a repetição do indébito na forma simples, como determinado na sentença.
+HONORÁRIOS SUCUMBENCIAIS. REDISTRIBUÍDOS. Ante a alteração do decaimento das partes em grau de recurso, cabível redistribuir o percentual fixado na sentença a titulo de honorários, conforme a sucumbência de cadalitigante.
+RECURSO PARCIALMENTE PROVIDO.
+Em suas razões de recurso especial (fls. 226/234, e-STJ), arecorrenteaponta a existência de divergência jurisprudencial em relação à limitação dos juros remuneratórios, alegando, para tanto, a ausência de abusividade da taxa pactuada.
+Contrarrazões às fls. 447/453, e-STJ.
+Em juízo de admissibilidade (fls. 468/472, e-STJ), negou-se seguimento aorecurso especial em razão da incidência daSúmula284 do STF.
+Daí o agravo (fls. 488/490, e-STJ), no qual aagravante postula a reformada decisão em testilha, lançando argumentações no sentido de combater oimpedimentoacima apontado.
+Contraminuta fls. 494/498, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece abrigo.
+1. Em relação à alegada divergência jurisprudencial, quantoà limitação dos juros remuneratórios, alegando, para tanto, a ausência de abusividade da taxa pactuada, verifica-se a deficiência nafundamentação exposta pelo recorrente, que se limitou a alegar, de formagenérica, a necessidade de reforma do decisum, ante o dissídio pretoriano,deixando de apontar o dispositivo que teria sido objeto de interpretaçãodivergente.
+O recurso especial é um meio impugnativo processual de fundamentaçãovinculada, no qual o efeito devolutivo se opera nos termos do que foiimpugnado. A ausência de indicação expressa de dispositivo legal tido porvulnerado ou objeto de interpretação divergente não permite verificar se alegislação federal infraconstitucional restou, ou não, malferida. Dessaforma, é de rigor a incidência do verbete n. 284 da Súmula do SupremoTribunal Federal.
+Ademais, nos termos do entendimento desta Corte, os recursos interpostos
+tanto pela alínea "a", quanto pela alínea "c", do permissivoconstitucional exigem a indicação do dispositivo legal vulnerado ou aoqual foi atribuída interpretação divergente.
+Nesse sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1119408/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 14/02/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CAPITALIZAÇÃO MENSAL DE JUROS. MATÉRIA VENTILADA NAS RAZÕES RECURSAIS. INADMISSIBILIDADE DO RECURSO QUANTO A ESSA MATÉRIA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL QUE TERIAM SIDO VIOLADOS. DEFICIÊNCIA RECURSAL. APLICAÇÃO DA SÚMULA 284/STF. COTEJO ANALÍTICO POR MEIO DE JULGADOS QUE NÃO APRECIARAM A MESMA REALIDADE FÁTICA, SOB A MESMA ÓTICA. AGRAVO INTERNO DESPROVIDO.
+1. A Jurisprudência do STJ está assentada na impossibilidade de conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, quando não indicado o dispositivo de lei supostamente violado ou que tenha recebido interpretação divergente pelo julgado impugnado. Incidência da Súmula 284/STF. Precedente.
+2. Embora a parte insurgente alegue que a divergência jurisprudencial esteja devidamente demonstrada, ela, na verdade, não ocorre. Isso porque, somando-se ao fato de inexistência de indicação de dispositivos de lei violados (aplicação da Súmula 284/STF), percebe-se que o cotejo analítico formulado não se detém sobre acórdãos que apreciaram a mesma questão, com a mesma realidade fática.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1643634/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/06/2018, DJe 29/06/2018)
+No caso em tela, tal providência não foi atendida pelos insurgentes. Da leitura do recurso especial, não se vislumbra a indicação de qual dispositivo da legislação infraconstitucional seria objeto violação por parte do Tribunal local.
+Dessa forma, diante de toda a argumentação ora apresentada, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. Ademais, ainda que superado referido óbice, nãoencontra guarida opleito para a manutenção da taxa de juros pactuada.
+O Tribunal de origem, com amparo nos elementos de convicção dos autos,afirmou existir significativa discrepância entre a taxa média de mercadoapurada pelo Banco Central e o índice pactuado entre as partes no contratosob revisão.
+Colaciona-se excerto do voto condutor (fls. 215/216, e-STJ):
+No que se refere à taxa de juros remuneratórios aplicada, é inegavelmente abusiva, dada a significativa discrepância entre os juros pactuados e as taxas de mercado para operações similares.
+Não olvido que as instituições financeiras não estão sujeitas à limitação imposta pela Lei de Usura. Considerando que a credora é uma instituição financeira, a fixação de juros remuneratórios em taxa superior a 12% ao ano somente pode ser considerada abusiva se demonstrado que o percentual contratado excede à taxa média praticada pelo mercado; tratando-se da hipótese dos autos.
+A propósito, dispõe a súmula 596 STF que: "as disposições do Decreto nº 22.626/33não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas que integram o Sistema Financeiro Nacional".
+O STJ também sedimentou seu posicionamento a respeito da limitação dos juros remuneratórios em ação revisional de contratos bancários, quando do julgamento do REsp nº1.061.530/RS, na sistemática do recurso repetitivo, autorizando a revisão desde que demonstrada cabalmente a abusividade (Rel. Min. Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe10/03/2009).
+Aliás, o STJ editou posteriormente a súmula 382, fixando o entendimento de que: "a estipulação de taxa de juros superior a 12% ao ano, por si só, não indica a abusividade".
+Não se está dizendo que o Banco Central é a instituição competente para regular ataxa média de juros do mercado, mas sim que este referencial é utilizado como parâmetro para aferira abusividade da taxa avençada.
+No caso, a taxa de juros remuneratórios da cédula bancária nº 3801655798, foi pactuada em 6,00% a. m. e 101,22% , enquanto a taxa média de juros apurada pelo BACEN, para operações similares naqueles períodos, era de 2,07% a. m. e 27,86% a. a. (https://www3. bcb. gov. br/Códigos 25468 e 20746 - Crédito pessoal consignado para aposentados e pensionistas do INSS).
+Nessas condições, não há falar na ausência de ilegalidade, afronta à livre pactuação e à limitação infraconstitucional ou inaplicabilidade da taxa média divulgada pelo BACEN, dada a manifesta discrepância entre os juros cobrados do consumidor e aquela praticada pelo mercado.
+Com efeito, a orientação emanada por esta Corte Federal de Uniformização éno sentido de que, para que se reconheça a abusividade nos juros, nãobasta o fato de a taxa contratada suplantar a média de mercado, devendo-seobservar uma tolerância a partir daquele patamar, de modo que a vantagemexagerada, justificadora da limitação judicial, deve ficar cabalmentedemonstrada em cada caso concreto, ante as peculiaridades da demanda.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO PARA AFASTAR A CAPITALIZAÇÃO DE JUROS NÃO CONTRATADA - INSURGÊNCIA RECURSAL DA AUTORA.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. A Súmula 284/STF deve ser afastada, pois os dispositivos legais citados - arts. 47 do CDC, 112 e 113 do CC/02 - possuem carga normativa apta para permitir a análise da questão atinente à limitação dos juros à taxa média de mercado.
+2.1 Para acolher a pretensão de limitar a taxa de juros remuneratórios à taxa média de mercado, ante a alegada abusividade na pactuação de taxa variável, assim como a alegação acerca da devolução dos lançamentos indevidos, seria necessário interpretar as cláusulas contratuais e reexaminar o acervo fático-probatório dos autos, providências vedadas na via eleita, a teor dos óbices das Súmulas 5 e 7 do STJ.
+3. Conforme entendimento do STJ " ..  não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe de 13/9/2017)" (AgInt no AREsp 1609768/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/05/2020, DJe 04/06/2020).
+4.Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+5.Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula 518/STJ).
+6. Agravo interno parcialmente provido para afastar o óbice da súmula 284/STF e, na análise do ponto, manter a negativa de provimento ao recurso especial por fundamento diverso.
+(AgInt nos EDcl no REsp 1331121/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/06/2021, DJe 11/06/2021)
+Desse modo, estando o acórdão recorrido em conformidade com ajurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimentodo recurso por ambas as alíneas.
+Nada obstante, para derruir a afirmação da Corte local, que com amparo nos
+elementos de convicção dos autos considerou abusividade na taxacontratada, seria imprescindível revisitar o acervo fático-probatório dosautos, bem como reavaliar as cláusulas contratuais, providências vedadasno âmbito estreito do recurso especial, ante os óbices das Súmulas 05 e 07do STJ.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c Súmula 568 do STJ, negar provimento ao agravo. Majorando os honorários sucumbenciais, com base noart. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
