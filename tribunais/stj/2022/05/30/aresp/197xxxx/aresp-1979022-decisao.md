@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de MARIA DE FÁTIMA LOPES AMORIM e OUTRO contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"JUSTIÇA GRATUITA Pessoas físicas Deferimento Falta de condições financeiras para o pagamento das custas e das despesas processuais, sem prejuízo do sustento próprio e da família Benefício deferido Recurso acolhido neste ponto.
+PENHORA - Bloqueio de valores em conta corrente e que são frutos de aluguéis recebidos pela correntista Admissibilidade Não há prova de que os valores dos aluguéis penhorados destinam-se exclusivamente à subsistência das executadas - Coexecutada recebe benefício de aposentadoria pelo INSS, o que denota ter ela outra fonte de renda, além dos aluguéis penhorados - Manutenção da penhora Decisão mantida neste tópico.
+Recurso parcialmente provido." (e-STJ fl. 358)
+Os embargos de declaração opostos foram rejeitados. (e-STJ fl. 380/384)
+Nas razões do recurso especial, o agravante alega violação dos arts. 805, 832 e 833, IV, todos do CPC, sustentando, em síntese, que deve ser reconhecida a impenhorabilidade dos valores que a recorrente Maria de Fátima Lopes Amorim percebe mensalmente a título de aluguel de parte do imóvel que herdou de seus pais, uma vez que a mesma é aposentada e que a aposentadoria não é suficiente para seu próprio sustento e o de sua família, que é complementado com o valor ora penhorado.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De fato, nos termos da jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula 486, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família".
+Ocorre que, no caso dos autos, o Tribunal de origem, no que diz respeito à alegada impenhorabilidade dos valores que a recorrente Maria de Fátima Lopes Amorim percebe mensalmente a título de aluguel de parte do imóvel que herdou de seus pais, expressamente consignou o seguinte:
+"Os recorrentes alegam que os valores constritos (aluguéis) são destinados ao pagamento das suas despesas básicas mensais  luz, plano de saúde, telefone etc (cf. fls. 244-249 dos autos de origem) , mas não comprovam que estão destinados a tal finalidade. Aliás, a coexecutada agravante recebe em sua conta corrente o benefício mensal do INSS (cf. fls. 340-341), o que denota que os aluguéis penhorados não são a sua única fonte de renda.
+Não se pode concluir, portanto, pela impenhorabilidade dos valores, por não haver demonstração de sua imprescindibilidade à subsistência dos agravantes, conforme jurisprudência deste TJSP: " (e-STJ, fls.360)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. PENHORA DE ALUGUÉIS. POSSIBILIDADE. ALTERAÇÃO DO ENTENDIMENTO. SÚMULA 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula 486, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família".
+2. No caso, o Tribunal a quo asseverou que não ficou demonstrado que os alugueres referentes a locação do imóvel se revertem para a subsistência ou moradia da família, motivo pelo qual é possível a penhora dos locativos.
+3. A reforma do julgado, para acolher a tese de que os valores auferidos com o aluguel seriam imprescindíveis ao sustento familiar, demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp 1030557/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/11/2017, DJe 22/11/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
