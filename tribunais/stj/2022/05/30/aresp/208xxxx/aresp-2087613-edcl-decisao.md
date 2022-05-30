@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BONS ARES HOTEL EIRELI em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Quanto à primeira controvérsia, alega que o decisum embargado padece de omissão, já que restou devidamente demonstrado no recurso especial que houve violação do art. 355, I, do CPC.
+Quanto à segunda controvérsia, alega omissão quanto à aplicabilidade da súmula 7/STJ na espécie, uma vez que "o Recurso Especial interposto não visou a reanálise de provas, mas sim a apuração da negativa de vigência e violação aos artigos indicados" (fl. 274).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à primeira controvérsia, observa-se que a decisão embargada é clara e expressa em afirmar que "nas razões do recurso especial não se particularizou o inciso sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado" (fl. 269, grifos meus), ou seja, não foi indicado o inciso I do art. 355 do CPC como violado.
+Ocorre que "essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas" (fl. 269, grifos meus).
+Quanto à segunda controvérsia, não é a presente via adequada à rediscutir o acerto ou desacerto da decisão embargada quanto à existência de reexame ou revaloração de provas na espécie, já que tal hipótese não configura omissão e sim a tentativa de rediscussão da aplicabilidade do óbice da Súmula 7/STJ.
+Ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
