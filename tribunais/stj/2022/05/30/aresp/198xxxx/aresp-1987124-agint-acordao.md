@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MENDES JUNIOR ENGENHARIA S.A, contra decisão unipessoal que conheceu do agravo e, conhecendo parcialmente do recurso especial que interpusera, negou-lhe provimento.
+Ação: de execução de título extrajudicial movida por BRB BANCO DE BRASÍLIA S/A em desfavor de MENDES JÚNIOR ENGENHARIA S/A, fundada em contrato de reconhecimento de dívida paga com escritura de emissão de debêntures.
+Decisão interlocutória: rejeitou a impugnação ao laudo pericial apresentada pela agravante e indeferiu o pedido de realização de nova perícia.
+Acórdão: negou provimento ao agravo de instrumento da agravante, nos termos da ementa:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRELIMINAR DE NULIDADE DA DECISÃO POR AUSENCIA DE FUNDAMENTAÇÃO REJEITADA. LIQUIDAÇAO DE SENTENÇA. LAUDO PERICIAL. IMPUGNAÇAO REJEITADA. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. Não há falar em nulidade da decisão por ausência de fundamentação, se o d. magistrado, ao rejeitar a impugnação ao laudo pericial, acolhendo as considerações do expert e o parecer do Ministério Público, analisa com afinc0 as peculiaridades do caso, prolatando decisum que guarda expressa e adequada fundamentação sobre a matéria discutida e enfrenta todos os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador. Preliminar de nulidade da r. decisão por ausência de fundamentação rejeitada.
+2. Admite-se a realização de nova avaliação quando qualquer das partes arguir, fundamentadamente, a ocorrência de erro ou dolo do avaliador, conforme preceitua o art. 873, I, do CPC, sendo necessário, contudo, que a parte impugnante apresente elementos aptos a corroborar suas alegações.
+3. Se o laudo apresentado pelo perito contém a descrição e características dos imóveis avaliados, além de indicação da metodologia utilizada, qual seja, método comparativo direto de dados do mercado (NBR 14653-1). depreendendo-se que a perícia ocorreu de acordo com as normas de mercado e com os princípios técnicos determinados pela ABNT, em observância ao disposto no art. 872 do CPC, e, lado outro, as alegações expedidas pela executada, ora agravante, não trazem elementos técnicos aptos a infirmar a conclusão exposta no reportado laudo, revela-se escorreita ar. decisão que rejeitou a impugnação aviada nos autos de origem.
+4. Recurso conhecido e desprovido. Agravo interno prejudicado. (e-STJ fl. 197)
+Recurso especial: alega violação dos arts. 489, § 1º, IV, e 872, I, do CPC. Além de ausência de fundamentação do acórdão recorrido, alega que o entendimento Tribunal de origem deve ser revisto, já que o laudo pericial não levou em consideração as características dos imóveis avaliados. Sustenta ainda que o Perito declarou que em função da pandemia não pode individualizar os imóveis, avaliando-os em grupo.
+Decisão unipessoal: conheceu do agravo e, conhecendo parcialmente do recurso especial, negou-lhe provimento, com fundamento no art. 932, III e IV, "a", do CPC/15.
+Agravo interno: repisa os argumentos no sentido de que houve violação do art. 489, § 1º, IV, do CPC/15 uma vez que o acórdão se limitou a afirmar que as normas da ABNT foram observadas. Sustenta ainda a desnecessidade de reexame de fatos e provas porquanto o que se busca é a aplicação errônea das regras de direito no âmbito do Processo Civil.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Modificar a conclusão do Tribunal de origem no sentido de que o laudo pericial cumpriu com os requisitos esculpidos no art. 872 do CPC/15 implica reexame de fatos e provas.
+4. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo e, conhecendo parcialmente do recurso especial interposto pela agravante, negou-lhe provimento, com base nas seguintes razões: i) ausência de violação do art. 489 do CPC/15 e ii) Súmula 7/STJ.
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, de fato, em violação do art. 489 do CPC/15, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+A esse propósito, é o teor do acórdão recorrido:
+A teor do art. 873 do CPC, admite-se que a realização de nova avaliação pelo oficial de justiça em situações específicas, inclusive quando "qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador".
+Ressoa claro, portanto, que incumbe à parte impugnante comprovar a ocorrência de equívoco mediante a apresentação de elementos efetivamente capazes de desqualificar a avaliação realizada.
+Na hipótese, verifica-se que a avaliação das 50 (cinquenta) unidades imobiliárias realizada no laudo pericial, resultando o importe de R$12.985.906,11 (doze milhões, novecentos e oitenta e cinco mil novecentos e seis reais e onze centavos), ocorreu de acordo com as normas de mercado e com os princípios técnicos determinados pela ABNT, em observância ao disposto no art. 872 do CPC 1 . Ademais, observa-se que o laudo de avaliação impugnado contém a descrição e características dos imóveis, além de indicação da metodologia utilizada, qual seja, método comparativo direto de dados do mercado (NBR 14653-1).
+Nessa toada, não se vislumbra que a avalição realizada pelo expert quanto ao imóvel conjecture preço vil, como quer fazer crer a ora agravante. (e-STJ fls. 204/205)
+Como ressaltado na decisão agravada, é firme a jurisprudência do STJ no sentido de que "inexiste afronta ao art. 489, § 1º, do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo" (AgInt no AREsp 1.143.888/RS, 4ª Turma, DJe de 24/10/2017).
+E, na hipótese, o TJDFT expressamente consignou acerca de que a agravante não trouxe elementos efetivamente capazes de desqualificar a avaliação realizada por perito com capacidade técnica para o labor.
+Acerca da inaplicabilidade da Súmula 7 do STJà hipótese dos autos, o trecho do acórdão recorrido acima reproduzido, deixa em evidência a necessidade de incursão no acevo fático probatório dos autos para o acolhimento daalegação de existência de impropriedades do laudo pericial, tem-se que o Tribunal de origem assim se manifestou acerca da matéria:
+Nesse sentir, conforme consignado na decisão agravada, observa-se que o Tribunal de origem, ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que, rever aquele entendimento é vedado em sede de recurso especial, mantendo-se a incidência da Súmula 7 do STJ, na espécie.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
