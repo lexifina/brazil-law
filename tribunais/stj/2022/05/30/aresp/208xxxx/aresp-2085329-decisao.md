@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de SYMBOL FITNESS ACADEMIA LTDA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE DESPEJO. DENÚNCIA VAZIA. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO PELO RÉU, SEM O CORRETO RECOLHIMENTO DAS CUSTAS DEVIDAS. REGULAR INTIMAÇÃO PARA PROCEDER AO RECOLHIMENTO DA DIFERENÇA APONTADA. INÉRCIA DO INTERESSADO. DESERÇÃO. ART. 1.007 DO CPC EM VIGOR. RECURSO NÃO CONHECIDO." (e-STJ fl. 253)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.293/296)
+Nas razões do recurso especial, o agravante alega, de início, que o recurso de apelação não foi conhecido por um erro unicamente do sistema do Egrégio Tribunal de Justiça do Rio de Janeiro e pleiteia que seja provido o recurso especial para que seja certificado nos autos a que processo a GRERJ de nº. 12331809416-42 se refere, sendo certo que a informação incompleta e/ou errônea vem acarretando enorme prejuízo ao Recorrente, que teve seu apelo julgado deserto.
+Defende, ainda, violação do art. 437, §1º, CPC e divergência jurisprudencial, sustentando que houve cerceamento de defesa, por não ter sido o recorrente intimado para se manifestar sobre os documentos juntados com a réplica apresentada pelo recorrido.
+É o relatório. Decido.
+Inicialmente, observa-se que quanto à deserção da apelação, o Recorrente, que não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REINTEGRAÇÃO DE POSSE. EXCLUSÃO DE LITISCONSORTE. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. Segundo a jurisprudência desta Corte Superior, "o art. 1.015, VII, do CPC/2015 estabelece que cabe agravo de instrumento contra as decisões que versarem sobre exclusão de litisconsorte, não fazendo nenhuma restrição ou observação aos motivos jurídicos que possam ensejar tal exclusão. 5. É agravável, portanto, a decisão que enfrenta o tema da ilegitimidade passiva de litisconsorte, que pode acarretar a exclusão da parte" (REsp n. 1.772.839/SP, de minha relatoria, QUARTA TURMA, julgado em 14/5/2019, DJe 23/5/2019), o que foi observado pela Corte local.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+5. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282 e 356 do STF e 83 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.005.192/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19/5/2022.)
+Por outro lado, não tendo sido conhecida a apelação, resta ausente o prequestionamento relativo à ofensa ao art. 437, §1º, CPC, pois o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)(grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 2.000,00 para R$ 2.200,00.
+Publique-se.
