@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "c", da CF) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 61, e-STJ):
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL Exceção de pré-executividade Decisão que rejeitou a exceção de pré-executividade oposta pela agravante com o intuito de ver reconhecida a ocorrência de prescrição intercorrente dos créditos tributários de ICMS cobrados Pleito de reforma Inviabilidade Inocorrência da prescrição intercorrente que exige inércia da exequente, suspensão do processo e consequente arquivamento por prazo superior a 05 anos Agravada que, nada obstante o extenso lapso temporal, a todo tempo diligenciou acerca da existência de bens penhoráveis em nome da agravante Precedentes do STJ.
+Recurso desprovido.
+A parte recorrente, nas razões do Recurso Especial, alega que ocorreu divergência jurisprudencial. Aduz que o acórdão recorrido vai de encontro ao entendimento do REsp 1.340.553/RS. Afirma que, ao contrário do que ficou decidido, "a recorrida se manteve inerte durante o lustro prescricional" (fl. 82, e-STJ). Aduz, em suma:
+Com do devido respeito, não concordamos com v. Acórdão recorrido que alega que "  a exequente, a todo momento, diligenciou buscando tomar conhecimento acerca da existência de bens em nome da empresa executada e dos sócios, requerendo a expedição pesquisas junto à DRF, RENAJUD e ARISP". De acordo como o acórdão paradigma, como iremos demonstrar, a reiteração de pedidos de pesquisa pelos sistemas de informação ao judiciário, não têm o condão de interromper a prescrição. Fosse assim, o credor poderia reiterar a todo momento pesquisas ao judiciário (bacenjud, infojud, renajud, arisp etc), mesmo que infrutíferas, afim de evitar a prescrição, tornando eterno processo.
+(..) Como, de acordo com o acórdão paradigma, somente a efetiva constrição patrimonial é apta a interromper a prescrição intercorrente, temos que o crédito tributário se encontra prescrito, pois, a contar da decisão de arquivamento de fl. 209/210 da execução fiscal (em 22/03/2012), até a interposição da exceção de pré- execuividade (em 17/02/2020), sem ter havido a penhora de bens dos devedores, decorreram 07 (sete) anos.
+Contrarrazões apresentadas às fls. 265-286, e-STJ.
+Decisão de admissibilidade do recurso às fls. 319-320, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.4.2022.
+A irresignação não merece prosperar.
+O Tribunal de origem, ao dirimir a controvérsia, concluiu que a citação (ainda que por edital) e a efetiva constrição patrimonial (ainda que parcial) são aptas a interromper o curso da prescrição intercorrente.
+No julgamento dos Embargos de Declaração, a Corte a quo asseverou (fl. 311, e-STJ):
+Assim, a citação (ainda que por edital) e a efetiva constrição patrimonial (ainda que parcial) são aptas a interromper o curso da prescrição intercorrente.
+Conforme relatado, por esta C. Câmara, no v. Acórdão recorrido de fls. 60/65:
+No caso concreto, verifica-se que, houve citação válida da executada por oficial de justiça em 06/10/2006; a inclusão dos sócios Moacyr Vicente Rodrigues, citado em 02/07/2007, e Osmar Vicente Rodrigues, citado por edital em mar/2009, no polo passivo; tentativa parcialmente frutífera de bloqueio de ativos financeiros pelo sistema BacenJud em 04/02/2011; suspensão, pelo C. Juízo a quo, do processo nos termos do art. 40 da Lei de Execuções Fiscais, disponibilizada a publicação da decisão em 22/03/2012; em 15/05/2012, a exequente requereu novo bloqueio de ativos financeiros pelo sistema BacenJud que restou infrutífero; em 18/09/2012, a exequente pediu o sobrestamento do feito por 180 dias; em 17/05/2013, a exequente requereu novo bloqueio de ativos financeiros pelo sistema BacenJud que também restou infrutífero; em 15/08/2013, a exequente requereu a expedição de ofício à Receita Federal; em 02/12/2013, a exequente pediu novamente o sobrestamento do feito por 120 dias; em 26/06/2014, a exequente requereu novo bloqueio de ativos financeiros pelo sistema BacenJud que também restou infrutífero; em 08/10/2014, a exequente pediu novamente o sobrestamento do feito por 120 dias; em 27/04/2015, a exequente requereu novo bloqueio de ativos financeiros pelo sistema BacenJud que frutífero em parte; suspensão, pelo C. Juízo a quo, do processo nos termos do art. 40 da Lei de Execuções Fiscais, em 24/07/2015; em 08/09/2015, a exequente requereu pesquisa de bens junto ao RENAJUD e à ARISP; em 25/11/2015, a exequente pediu o sobrestamento do feito por 180 dias; em 07/02/2017, a exequente pediu a suspensão do processo, nos termos do art. 40 da Lei de Execuções Fiscais; em 04/04/2018, a exequente requereu novo bloqueio de ativos financeiros pelo sistema BacenJud, nova pesquisa de bens junto ao RENAJUD e à ARISP e, caso restem infrutíferos, nova suspensão do processo, nos termos do art. 40 da Lei de Execuções Fiscais; em 26/06/2018, diante das infrutíferas tentativas, o processo foi suspenso; em 23/01/2019, a exequente requereu a suspensão dos autos por mais 01 ano; em 08/02/2021, a exceção de pré-executividade foi apresentada pela executada.
+Desse modo, o v. Acórdão prolatado seguiu exatamente o entendimento proferido no julgamento do REsp 1.340.553/RS (Temas nº 566, 567, 568, 569, 570 e 571).
+E não tendo o acórdão proferido por esta 11ª Câmara de Direito Público contrariado as teses fixadas pelo STJ, não há o que se adequar.
+A decisão vergastada está em sintonia com a jurisprudência do STJ, no sentido de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente, o que não ficou demonstrado no caso destes autos.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO INTERCORRENTE. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO.
+(..) 2. Para a ocorrência da prescrição intercorrente, deve haver inércia da parte exequente, o que, todavia, não ocorre quando a tramitação do processo executivo fica paralisada por culpa da máquina judiciária, como afirmado pela Primeira Seção, no REsp 1.102.431/RJ, repetitivo.
+(..) 5. Agravo interno não provido.
+(AgInt no REsp 1964029/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/02/2022, DJe 16/02/2022)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA DE DESÍDIA POR PARTE DO EXEQUENTE. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1866705/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO AFASTADA. AUSÊNCIA DE INÉRCIA DO CREDOR OU SUSPENSÃO DO FEITO EXECUTIVO. ENTENDIMENTO FIRMADO NO RESP 1.340.553/RS, JULGADO SOB O RITO DO ART. 1.036 E SEGUINTES DO CPC/2015. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DOS CONTRIBUINTES NÃO PROVIDO.
+(..) 2. Na espécie, afastou-se a prescrição por ausência de inércia do credor para localização dos devedores, considerando o falecimento de vários titulares do processo originário e a necessidade de citação dos respectivos inventariantes.
+3. A alteração das conclusões adotadas pela Corte de origem, nos moldes em que pretendido pelos recorrentes demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado nesta via especial, a teor da Súmula 7/STJ.
+4. Agravo Interno do município não provido.
+(AgInt no AREsp 1549873/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA DE DESÍDIA POR PARTE DO EXEQUENTE. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1866705/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. DESÍDIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULAS 5 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..) 4. As conclusões do acórdão recorrido, no tocante à desídia do exequente e reconhecimento da prescrição, não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1138095/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+Dessume-se que o acórdão recorrido está em sintonia com o atual posicionamento do STJ, razão pela qual não merece prosperar a irresignação.
+Além disso, rever o entendimento consignado pelo acórdão recorrido de que a recorrida "a todo tempo diligenciou acerca da existência de bens penhoráveis em nome da agravante" (fl. 61, e-STJ), afastando a tese de que a credora se manteve inerte, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+A solução do temanão depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
