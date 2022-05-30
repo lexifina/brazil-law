@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  Agravo  Interno  no  agravo  em  recurso  especial  interposto  por  DERSA DESENVOLVIMENTO RODOVIÁRIO S.A.  contra  decisão  de lavra do Ministro Napoleão Nunes Maia Filho, assim ementada:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. LAUDO PERICIAL. ILEGALIDADE. MULTA FIXADA EM PATAMARES EXORBITANTES. NECESSIDADE DE INCURSÃO NO CONTEXTO PROBATÓRIO DOS AUTOS. AGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO (fls. 700).
+2.  A  parte  agravante  aduz,  em  síntese,  que  não se aplica ao caso a Súmula 7/STJ, pois o que se busca é a revaloração da prova dos autos a fim de se constatar que olaudo pericial que deu embasamento a decisão em combatese mostrou insuficiente e inconclusivo(fls. 712), e assim rever a multa diária arbitrada na sentença, sob pena de violação aos princípios da razoabilidade e proporcionalidade.
+3.  Requer,  por  fim,  o  provimento  do  agravo  para  que  seja  determinado  o  processamento  do  recurso  especial  para  a  apreciação  do  mérito.
+4.  Sem  impugnação  ao  recurso  (fls.  723 a 725).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OBRIGAÇÃO DE FAZER.COMUNICAÇÃO SOBRE ACONTINUIDADE DE PRESTAÇÃO DE SERVIÇOS PÚBLICO. VALOR DA MULTA.NECESSIDADE DE INCURSÃO NO CONTEXTO PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA  7/STJ.  AGRAVO  INTERNO  DA DERSAA  QUE  SE  NEGA  PROVIMENTO.
+1. O Tribunal de origemconcluiu que a empresa não cumpriu o teor contratual quanto ànecessidade de comunicação à prefeitura sobre a necessidade de prestação dos serviços de coleta de lixo e postal, e determinou o prazo de 60 dias para o seu cumprimento, sob pena de fixação de multa diáriade R$ 1.000,00.
+2. O valor estabelecido a titulo de astreintes não se mostra flagrantemente desproporcional a ponto de afastar o óbice da Súmula 7/STJ.
+3.  Agravo  interno  da Dersaa  que  se  nega  provimento.
+VOTO
+1.  A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+2. Em suas razões recursais, a parte se insurge quanto ao valor da multa arbitrada nos autos, por se basear em provas eivadas de vícios.
+3. Assim, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre o tema:
+Assim, forçosa a conclusão de que a ré não cumpriu integralmente o quanto disposto na segunda parte da cláusula quinta do contrato, sendo exigível, pois, que seja ela compelida a comunicar à Prefeitura de Itapecerica da Serra e aos Correios sobre a necessidade de prestação (oficial) dos serviços de coleta de lixo e postal na via inominada.
+Anote-se que, em decorrência da interpretação do contrato e da intenção buscada pelas partes (art. 112 do Código Civil), acomunicação pela ré à Prefeitura e aos Correios deverá se dar de maneira oficial, mediante requerimento administrativo instruído com todos os documentos oficiais necessários ao reconhecimento do novo logradouro, a fim de possibilitar a adequada e ininterrupta prestação dos serviços mencionados na cláusula quinta.
+Fica mantido o prazo de sessenta dias para cumprimento das obrigações apontadas, bem como o valor da multa diária de R$ 1.000,00 no caso de descumprimento, uma vez que atendem aos princípios de proporcionalidade e razoabilidade para a solução concreta do problema(fls. 591/592).
+4. Com efeito, o Tribunal de origem reconheceu como razoável e proporcional o valor de R$ 1.000,00 de multa diária em caso de descumprimento da referida obrigação, com base no descumprimento do contrato firmado entre as partes. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+5. Nesse sentido, citoos seguintes julgados deste Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. OBRAS PARA ADAPTAR ACESSO DE PORTADORES DE NECESSIDADES ESPECIAIS ÀS ESCOLAS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AUSÊNCIA DE INTERESSE DE AGIR. QUESTÃO DECIDIDA COM BASE EM CLÁUSULAS DE TERMO DE AJUSTAMENTO DE CONDUTA. REVISÃO. IMPOSSIBILIDADE, EM RECURSO ESPECIAL. POSSIBILIDADE DE IMPOSIÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. PRETENSÃO DE REDUÇÃO DO VALOR FIXADO A TÍTULO DE ASTREINTES. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+(..).
+VII. No que concerne ao valor arbitrado a título de astreintes, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, sob pena de ofensa ao disposto na Súmula 7 desta Corte, o que não ocorre, na espécie, em que não consta já ter sido fixado um valor específico.
+VIII. Agravo interno parcialmente conhecido e, nessa extensão, improvido(AgInt no AREsp 1659806/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2020, DJe 23/10/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.ART. 1.025 DO CPC/2015. REQUISITOS. INOCORRÊNCIA. MULTA DIÁRIA.SÚMULA 7 DO STJ.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que não se verifica na hipótese. Incidência da Súmula 211 do STJ.
+3. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade ao art. 1.022 do CPC/2015, o que não ocorreu, in casu.
+4. É inviável, na via estreita do recurso especial, a revisão do montante fixado a título de multa cominatória (astreintes), ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7 do STJ, sendo certo que, somente em casos excepcionais, quando a quantia arbitrada se mostrar em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o valor da multa diária aplicada pelas instâncias ordinárias.
+5. Hipótese em que o valor estabelecido a titulo de astreintes não se mostra flagrantemente desproporcional a ponto de afastar o óbice estampado na Súmula 7 do STJ.
+6. Agravo interno desprovido(AgInt no AREsp 1427380/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/09/2019, DJe 26/09/2019).
+6.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  da DERSA.
+7.  É  como  voto.
