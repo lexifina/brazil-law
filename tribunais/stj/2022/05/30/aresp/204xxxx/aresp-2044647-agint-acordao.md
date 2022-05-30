@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSTRUTORA ARTEC S/A - EM RECUPERAÇÃO JUDICIAL contra decisão proferida pela Presidência desta Corte, nos seguintes termos (e-STJ, fls. 496-497):
+Mediante análise dos autos, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+( )
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nas razões recursais (e-STJ, fls. 500-510), pugna a insurgente pelo afastamento do óbice da Súmula 284/STF, ao argumento de que indicou, nas razões do recurso especial ofensa ao art. 49, § 3º, do CPC/2015 (e-STJ, fl. 504), além da existência de divergência jurisprudencial.
+Defende a possibilidade de inclusão no feito recuperacional de créditos com supostas garantias fiduciárias incidentes sobre bens essenciais ao soerguimento da empresa Recuperanda.
+Pleiteia, assim, a reconsideração da decisão agravada.
+Impugnação apresentada às fls. 513-519 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DISPOSITIVOS DE LEI TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO.SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial possui natureza vinculada, exigindo, para o seucabimento, a imprescindível demonstração da parte recorrente, de forma clara eprecisa, dos dispositivos apontados como malferidos pela decisão recorridajuntamente com argumentos suficientes à exata compreensão da controvérsiaestabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Constata-se que a agravante apontou ofensa ao art. 49, § 3º, do CPC/2015, apesar de transcrever o teor do art. 49, § 3º, da Lei 11.101/2005, sem, ao menos, demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEPÓSITOSJUDICIAIS. EXPURGOS INFLACIONÁRIOS. FALTA DE INDICAÇÃO DO PERMISSIVOCONSTITUCIONAL QUE FUNDAMENTOU O RECURSO ESPECIAL. DEFICIÊNCIA DEFUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. De acordo com a jurisprudência do STJ, a falta de indicação do permissivo constitucional que fundamenta o recurso especial caracteriza deficiência de fundamentação que impede o conhecimento do apelo, nos termos preconizados na Súmula 284/STF. Precedentes: AgInt no AREsp1479509/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em12/11/2019, DJe 22/11/2019; AgInt no AgInt no AREsp 813.272/PB, Rel.Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2018, DJe08/06/2018; AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS,CORTE ESPECIAL, julgado em 06/04/2016, DJe 06/05/2016.
+2. No caso, além de não ter indicado a respectiva alínea pela qual se fundamenta o recurso especial, a recorrente não particularizou as razões pelos quais o aresto recorrido afrontou cada dispositivo impugnado no apelo, o que também justifica a incidência da Súmula 284/STF. Consoante orientação desta Corte Superior, "a mera menção a dispositivos de lei federal ou mesmo a narrativa acerca da legislação que rege o tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal, a atrair a incidência da Súmula 284/STF" (STJ,AgRg no AREsp 722.008/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1803115/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 01/06/2021, DJe03/08/2021)
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA - ARTIGO 1036 E SEGUINTESDO CPC/2015 - AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER C/C DECLARATÓRIA DENULIDADE CONTRATUAL - PROCEDÊNCIA DA DEMANDA, NA ORIGEM, ANTE A ENTÃOREPUTADA ABUSIVIDADE NA LIMITAÇÃO DE COBERTURA APÓS O TRIGÉSIMO DIA DEINTERNAÇÃO PSIQUIÁTRICA - INSURGÊNCIA DA OPERADORA DO PLANO DE SAÚDEVOLTADA À DECLARAÇÃO DE LEGALIDADE DA CLÁUSULA CONTRATUAL DE PLANO DESAÚDE QUE ESTABELECE O PAGAMENTO PARCIAL PELO CONTRATANTE, A TÍTULO DECOPARTICIPAÇÃO, NA HIPÓTESE DE INTERNAÇÃO HOSPITALAR SUPERIOR A 30 DIASDECORRENTE DE TRANSTORNOS PSIQUIÁTRICOS. ..
+2.1 Inviável conhecer da tese de negativa de prestação jurisdicional, pois a simples mençãode preceito legal, de modo genérico, sem explicitar a forma como ocorreu sua efetiva contrariedade pelo Tribunal de origem, manifesta deficiência na fundamentação do recurso especial a atrair a incidência da Súmula 284do STF.
+2.2 Inexistindo limitação de cobertura, mas apenas previsão de coparticipação decorrente de internação psiquiátrica por período superiora 30 dias anuais, deve ser afastada a abusividade da cláusula contratual com a consequente improcedência do pedido veiculado na inicial.3. Recurso especial conhecido em parte e, na extensão, provido.
+(REsp 1755866/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em09/12/2020, DJe 16/12/2020)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
