@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu ao recurso especial fundado no art. 105, III,a e c, da Constituição Federal, assim ementado:
+A multa aplicada pela ANTT refere-se à "não antecipação do vale-pedágio", multa administrativa cujo fundamento legal encontra-se no art. 2º e3º da Lei 10.209/2001. Assim, na espécie, trata-se multa decorrente de infração ao sistema nacional de transportes rodoviários de cargas, cuja fiscalização e controle foram atribuídas à da ANTT, por força do art. 24 Lei nº10.233/2001.
+Por não se tratar de infração de trânsito, o prazo decadencial de 30dias do parágrafo único, II, do art. 281 do CTB, é inaplicável à situação dos autos.
+A pretensão punitiva da Administração Pública prescreve em cinco anos, contados da data do fato punível; instaurado o procedimento administrativo para apurá-lo, incide a prescrição intercorrente de trata o §1º do artigo 1º da Lei nº 9.873/99, que é de três anos.
+Os atos administrativos de regular tramitação na instância administrativa constituem atos de impulsionamento do processo administrativo, pois encaminham a apuração dos fatos, influem na atuação positiva da Administração e embasam sua deliberação final. Portanto, não configuram meros atos de expediente, destituídos de conteúdo valorativo ousem efeito para a solução do litígio na esfera administrativa.
+Mantida a sucumbência recíproca nos termos do art. 21 do CPC/73,vigência na data em que proferida a sentença monocrática. Inaplicável o art.85 do CPC/15.
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Em primeiro lugar, importante reproduzir o disposto no § 1.º do art. 1.º da Lei n.º 9.873/99:"
+Art. 1oPrescreve em cinco anos a ação punitiva da Administração Pública Federal, direta e indireta, no exercício do poder de polícia, objetivando apurar infração à legislação em vigor, contados da data da prática do atoou, no caso de infração permanente ou continuada, do dia em que tiver cessado.
+§ 1ºIncide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso."
+A paralisação de que trata a norma é aquela ocorrida pela ausência de atos -não necessariamente decisórios -que impulsionem o feito. De fato, o único escopo da regra é evitara displicência administrativa em movimentar o processo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE MULTA. REEXAME. NÃO CABIMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação declaratória de inexigibilidade de multa com anulatória de ato administrativo objetivando o reconhecimentode decadência/prescrição de multas vinculadas ao CNPJ.Na sentença o pedido foi julgado parcialmente procedente. No Tribunala quo, a sentença foi parcialmente reformada.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "Inquestionável, portanto, o direito da ANTT a incluir o nome do devedor nos órgãos de proteção ao crédito, notadamente o SERASA, em decorrência de penalidades aplicadas.Na hipótese sob exame, restou demonstrado que 43 das multas aplicadas em face da parte autora não foram fulminadas pela prescrição, seja de que natureza for, motivo pelo qual cabível a inclusão dos seus dados nos órgãos de proteção ao crédito, cabendo, por outro lado, a retirada no que pertine às multas prescritas."
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+Inquestionável, portanto, o direito da ANTT a incluir o nome do devedor nos órgãos de proteção ao crédito, notadamente o SERASA, em decorrência de penalidades aplicadas.
+Na hipótese sob exame, restou demonstrado que 43 das multas aplicadas em face da parte autora não foram fulminadas pela prescrição, seja de que natureza for, motivo pelo qual cabível a inclusão dos seus dados nos órgãos de proteção ao crédito, cabendo, por outro lado, a retirada no que pertine às multas prescritas.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto àmesma alegação de violação,a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatoraMinistra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
