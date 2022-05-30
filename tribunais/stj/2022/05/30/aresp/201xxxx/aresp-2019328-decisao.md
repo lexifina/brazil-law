@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A contra v. acórdão do eg. Tribunal de Justiça do Estado do São Paulo (TJ-SP), assim ementado:
+"APELAÇÃO PLANO DE SAÚDE COLETIVO POR ADESÃO REAJUSTE POR SINISTRALIDADE REAJUSTES FINANCEIROS SÃO DEVIDOS AO LONGO DO CONTRATO A FIM DE MANTER O EQUILÍBRIO DO NEGÓCIO FALTA DE CLAREZA QUANTO AOS CRITÉRIOS LEVADOS EM CONSIDERAÇÃO PARA APURAÇÃO DO ÍNDICE CONTESTAÇÃO GENÉRICA ABUSIVIDADE CARACTERIZADA - FUNDAMENTOS DA SENTENÇA QUE DÃO SUSTENTAÇÃO ÀS RAZÕES DE DECIDIR APLICAÇÃO DO ARTIGO 252 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - SENTENÇA DE PROCEDÊNCIA MANTIDA RECURSOS NÃO PROVIDOS." (e-STJ fl.374)
+Os embargos de declaração foram rejeitados (e-STJ fl. 401/404)
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 1.022 do CPC/2015, art. 35-E, §2º da Lei nº 9.656/98 e art. 478 do Código Civil. Sustenta, em síntese, que: a) negativa de prestação jurisdicional; b) não há que se falar em abuso do aumento por sinistralidade efetuado; e c) em caso de ser mantido o entendimento sobre a existência de abuso no reajuste, não deve ser adotado o mesmo critério de reajuste dos planos individuais, mas sim definidos os reajustes devidos em sede de cumprimento de sentença.
+É o relatório. Decido.
+Da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação, motivo pelo qual deve ser rejeitada a alegada violação ao art. 1.022 do CPC/2015. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Nesse sentido, destaca-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA 1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1447412/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/05/2019, DJe 22/05/2019)
+A respeito do mérito, a Corte de 2º grau declarou o caráter abusivo da cláusula do plano de saúde que fixava o aumento da prestação por sinistralidade, uma vez que a operadora não demonstrou a exata correspondência entre a majoração do preço e a variação do risco coberto. Cita-se trecho do acórdão:
+"Ora, diante de tais considerações, fica evidente o acerto no qual incorreu o Juízo a quo, eis que apesar de o contrato prever o reajuste por sinistralidade, a priori, legal, certo é que a parte requerida falhou no dever de informar com clareza os critérios que levaram ao índice proposto.
+Nem se diga que o julgamento antecipado prejudicou ou cerceou o direito de defesa da parte requerida, pois esta ao contestar o feito se limitou a defender a legalidade da cobrança de forma genérica, deixando de apresentar a planilha, ou ao menos os parâmetros e a fórmula utilizada no cálculo atuarial." (e-STJ fl. 377)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. AÇÃO REVISIONAL. REAJUSTE POR SINISTRALIDADE. AUSÊNCIA DE COMPROVAÇÃO DO REAJUSTE APLICADO. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no REsp 1889677/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 09/05/2022, DJe 11/05/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Derruir a conclusão do Tribunal local, que concluiu pela inexistência de prova idônea justificadora da efetiva necessidade dos percentuais de reajuste aplicados, demandaria incursão nas cláusulas contratuais e nos fatos e provas coligidos aos autos, providência vedada em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 1947493/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022)
+Ocorre que a Corte de origem, ao reconhecer o caráter abusivo do reajuste impugnado, determinou que o contrato fosse reajustado segundo índices publicados pela ANS, mantendo a sentença que assim dispôs:
+"Ante o exposto, JULGO PARCIALMENTE PROCEDENTE o pedido para reconhecer a abusividade do aumento da mensalidade e determinar que a requerida proceda ao reajuste apenas conforme autorizado na Resolução Normativa n. 63/2003, da ANS.
+Consequentemente, os valores pagos em acréscimo deverão ser restituídos à autora, computando- se correção monetária desde o desembolso e juros de mora contados da citação (art. 405 e 406 do CC), de forma simples." (e-STJ fl. 244) (grifei)
+Neste ponto, o acórdão merece reforma.
+Consoante o entendimento desta Corte, "no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais" (AgInt nos EDcl no AREsp 1628431/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Diante disso, fica mantido o acórdão quanto ao reconhecimento do caráter abusivo da cláusula do aumento por sinistralidade, determinando-se, porém, que o critério de reajuste da prestação seja aferido em sede de cumprimento de sentença, observando estritamente o grau de variação do risco coberto, segundo cálculos atuariais. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE FAIXA ETÁRIA. POSSIBILIDADE.
+REDIMENSIONAMENTO DE ACORDO COM A VARIAÇÃO DA SINISTRALIDADE. ÓBICE DA SÚMULA 7/STJ. NÃO OCORRÊNCIA. CÁLCULO REALIZADO EM FASE DE CUMPRIMENTO DE SENTENÇA. PRECEDENTES.
+1. A manutenção da decisão recorrida não esbarra no óbice da Súmula 7/STJ, tendo em vista a determinação de que o reajuste a ser aplicado deverá ser apurado na fase de cumprimento de sentença.
+2. A jurisprudência sedimentada neste Superior Tribunal de Justiça entende ser possível o reajuste de contratos coletivos de saúde, em face do implemento de idade, quando a mensalidade mostrar-se irrisória em face da variação de custos ou do aumento de sinistralidade.
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 512.230/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/11/2017, DJe 21/11/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial para determinar que o critério de reajuste da prestação do plano de saúde seja aferido em sede de cumprimento de sentença, observando estritamente o grau de variação do risco coberto, segundo cálculos atuariais.
+Publique-se.
