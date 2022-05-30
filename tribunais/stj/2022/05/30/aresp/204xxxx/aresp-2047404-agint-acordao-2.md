@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto pela COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB contra decisão monocrática, proferida pelo Sr. Ministro Humberto Martins, Presidente desta Corte, mediante a qual, nos termos do art. 21-E, V, do RISTJ, o Recurso Especial não foi conhecido pela incidência da Súmula n. 187 desta Corte (fls. 341/342e).
+Sustenta a Agravante, em síntese, que:
+(..) esta claro que o defeito no documento digitalizado remetido originalmente ao STJ não é imputável à Agravante.
+Data vênia, o defeito é atribuível ao Tribunal de origem, encarregado da digitalização dos autos físicos e da remessa ao STJ tanto é que esse atesta na certidão comprobatória de legibilidade que as custas recursais estão legíveis nos autos físicos no qual foi interposto o recurso especial.
+A ilegibilidade do comprovante decorreu da digitalização que não reproduziu de modo fiel o conteúdo dos autos físicos, razão pela qual não caberia a intimação da agravante para o recolhimento em dobro das custas, nem tampouco a decretação da deserção do recurso, por ter a parte comprovado que as custas originárias eram legíveis.
+Verifica-se do compulsar dos autos, que a recorrente intimada a regularizar as custas recursais, juntou aos autos o comprovante de pagamento das despesas recursais que foi recolhida em 31/07/2013 e apresentada quando da interposição do Recurso Especial nos autos físicos em 01/08/2013, demonstrando que o comprovante de pagamento sempre foi legível, que o recolhimento das custas recursais foi realizada de forma regular e apresentada junto ao Recurso Especial protocolado nos autos físicos em 01/08/2013, o que afastaria a determinação do recolhimento em dobro, uma vez que o recolhimento sempre existiu e a ilegibilidade do comprovante de pagamento se deu por conduta decorrente da falha de digitalização dos autos no TRF1 por ocasião da migração para o PJE e remessa ao STJ.
+ ..
+A prova ulterior do valor recolhido no seu devido tempo, não sujeita o recorrente à sanção do recolhimento dobrado (art. 1.007, § 4º, do CPC), que deve ser reservada apenas para o caso de ausência de qualquer pagamento no prazo para recorrer" Nos termos do § 4º do art. 1.007 do CPC, o recorrente que não comprovar o recolhimento do preparo e do porte de remessa e retorno no ato de interposição do recurso será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção.
+Isso significa dizer, que para evitar a deserção, o recorrente deve provar o recolhimento das despesas recursais no ato de interposição do recurso, situação essa que restou comprovada nos autos, quando a parte novamente demonstrou ao juízo que não havia vício no recolhimento apresentado no protocolo do Recurso Especial em 01/08/2013, situação essa comprovada inclusive na certidão de legibilidade emitida pelo TRF1, a requerimento da agravante, pois o comprovante sempre foi legível, mas, em razão de falha na digitalização dos autos no TRF1 para a remessa ao STJ o comprovante de pagamento das custas recursais restou ilegível.
+ ..
+Desta forma, analisando o art. 1007 § 4º do CPC e a obrigação do recolhimento em dobro é possível verificar que esse contempla duas situações distintas. A primeira decorre de uma interpretação literal do art.
+1.007, § 4º, do Novo CPC: a recorrente não recolheu qualquer preparo e interpôs o recurso, o que não é o caso dos autos, pois o recolhimento foi efetuado tempestivamente.
+A segunda, embora não consagrada expressamente no texto legal, cuida do recorrente que recolheu o preparo e deixou de comprovar o recolhimento no ato de recorrer, situação essa também que não se aplica ao caso dos autos, pois o recolhimento foi efetuado, mas teve sua legibilidade comprometida em razão da digitalização dos autos no TRF1.
+Nesse prisma, no caso em tela, em razão da existência do comprovante de pagamento legível quanto da interposição do recurso especial na origem, não haveria razão para a intimação da recorrente, para o recolhimento e dobro, nem tampouco o reconhecimento da deserção, tendo em vista que a parte demonstrou que o erro de legibilidade era inexistente quanto juntou aos autos o comprovante original de pagamento, que foi considerado como ilegível na análise do Recurso Especial pelo STJ, demonstrado que o depósito recursal havia sido regularmente efetuado.
+Ainda no tocante à intimação para o recolhimento em dobro do preparo não comprovado no ato de recorrer, é imperioso destacar que não caberia o recolhimento em dobro, mas somente uma vez mais, pois o preparo inicial já havia sido realizado.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado (fls. 363/376e). Apresentou, para tanto, osdocumentos de fls. 377/382e.
+Transcorreu, in albis, o prazo para EMPREENDIMENTOS KENNEDY LTDA apresentar impugnação (certidãode fl. 388e).
+Não exercido o juízo de retratação (fl. 390e), os autos foram a mim redistribuídos (fl. 392e).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. CONTRATOS. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO MONOCRÁTICA. INADMISSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O presente agravo interno revela-se manifestamente inadmissível, porquanto, no momento de sua protocolização, por provável erro, já ocorrera o fenômeno da preclusão consumativa, diante da anterior interposição de recurso com idêntico teor, inclusive submetido a julgamento na mesma assentada.
+III - Agravo interno não conhecido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+O Agravo Interno (fls. 363/376e) revela-se manifestamente inadmissível, porquanto, no momento de sua protocolização, por provável erro, já ocorrera o fenômeno da preclusão consumativa, diante da anterior interposição do recurso de fls. 345/358e, inclusive submetido a julgamento na mesma assentada.
+Consoante o magistério de Nélson Nery Júnior e Rosa Maria Andrade Nery, "diz-se consumativa a preclusão, quando a perda da faculdade de praticar o ato processual decorre do fato de já haver ocorrido a oportunidade para tanto, isto é, de o ato já haver sido praticado e, portanto, não pode tornar a sê-lo" (Código de Processo Civil Comentado e Legislação Extravagante, 18ª ed., São Paulo, Editora Revista dos Tribunais, 2019, p. 726, nota 5 ao art. 223).
+Nesse sentido, é pacífica a jurisprudência do Supremo Tribunal Federal e desta Corte, consoante precedentes assim ementados:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. INADMISSIBILIDADE: PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+A interposição cumulativa de dois recursos contra a mesma decisão enseja o conhecimento apenas do primeiro protocolizado, com a conseqüente preclusão consumativa em relação ao segundo. Precedentes.
+(AI 629.337 AgR, Relatora: Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 28/10/2008, DJe-079, DIVULG 29/04/2009, PUBLIC 30/04/2009, EMENT VOL-02358-06 PP-01079).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. EXTEMPORANEIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. IMPROVIMENTO.
+1.- Apresentados dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2.- É extemporâneo o recurso de Embargos de Divergência que foi interposto e ratificado antes da publicação do Acórdão dos Embargos de Declaração.
+3.- O conhecimento dos embargos de divergência exige a demonstração do dissídio jurisprudencial, mediante o cotejo analítico entre os acórdãos paradigma e recorrido e por meio da comprovação de que foram adotadas soluções diversas em litígios semelhantes, nos moldes preconizados pelo arts. 266, § 1º, c/c 255, §§ 1º e 2º, do RISTJ.
+4.- Agravo regimental improvido.
+(AgRg nos EREsp 983.690/SP, Rel. Ministro SIDNEI BENETI, CORTE ESPECIAL, julgado em 18/12/2013, DJe 03/02/2014).
+Ante o exposto, NÃO CONHEÇO do Agravo Interno de fls. 363/386e.
