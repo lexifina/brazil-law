@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de agravo interno interposto pela UNIÃO contra decisão que conheceu de seu agravo para não conhecer do recurso especial, nos termos da seguinte ementa:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. RENOVAÇÃO DE PORTE DE ARMA DE FOGO. INDEFERIMENTO. RAZOÁVEL DURAÇÃO DO PROCESSO CRIMINAL. PRINCÍPIO DA RAZOABILIDADE. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. PORTE DE ARMA DE FOGO. REQUISITOS. AUSÊNCIA DE CUMPRIMENTO. REEXAME DO CONJUNTO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL INTERPOSTO PELA UNIÃO (fl. 338).
+2. Em suas razões recursais, a parte agravante, em síntese,sustenta a não incidência das Súmulas 283 do STF e 7 do STJ, afirmando, respectivamente, o seguinte:
+"Percebe-se, pois, que o recurso especial enfrentou o fundamento do acórdão recorrido no tocante à duração prolongada do processo criminal. Uma vez que a duração do processo não constitui requisito previsto em lei para o (in) deferimento do porte de arma, o Tribunal de origem contrariou a legislação, criando exceção não prevista em lei" (fl. 353, grifei).
+O objeto do recurso especial não é comprovar, perante essa instância especial, o descumprimento dos requisitos legais para a renovação do registro de arma de fogo. Não se trata de discutir quais requisitos foram ou não preenchidos. O que busca perante essa C. Corte é, diante dos fatos já estabelecidos no acórdão recorrido, lograr a reforma do "decisum", uma vez que não está em conformidade com os arts. 4 º, 5 º e 6º, IV, da Lei n. 10.826/2003".
+Não se trata, portanto, de rever o conjunto fático-probatório dos autos, um a vez que os fatos já estão estabelecidos (fls. 353/354, grifei).
+3.Requer, ao final, o provimento do presente agravo interno, para que seja provido o recurso especial.
+4. A parte agravada não apresentou impugnação (fl. 362).
+5. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PORTE DE ARMA DE FOGO. RENOVAÇÃO. INDEFERIMENTO. RAZOÁVEL DURAÇÃO DO PROCESSO CRIMINAL. PRINCÍPIO DA RAZOABILIDADE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 283/STF. MERA ANÁLISE DOS FATOS ESTABELECIDOS NO DECISUM. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. As razões da irresignação da parte recorrente não foram aptas a atacar os fundamentos adotados pelo acórdão recorrido, os quais são suficientes, por si só, à manutenção do julgado. Incidência da Súmula 283/STF, por analogia.
+2. A revisão da conclusão a que chegou o Tribunal de origem,de que, à luz da razoável duração do processo criminal,"a lentidão da justiça"não poderia prejudicar o direito do agravado em obter o porte de arma de fogo, demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial.
+3. Nos termos da jurisprudência do STJ, é vedada a análise de fatos e provas em recurso especial, ante o enunciado da Súmula 7 do STJ: "A pretensão de simples reexame de provas não enseja recurso especial". Precedentes do STJ.
+4. Agravo interno da UNIÃO a que se nega provimento.
+VOTO
+1. Não merece reforma a decisão agravada.
+2. A despeito das alegações da parte agravante, razão não lhe assiste, porquanto os fundamentos trazidos no recurso não foram suficientemente aptos para infirmar a decisão agravada.
+3. A decisão agravada conheceu do agravo para não conhecer do recurso especial com suporte na incidência das Súmulas 283 do STF e 7 do STJ.
+4. Na espécie dos autos, observo que o Tribunal local, aplicando o princípio da razoabilidade, concluiu que "a lentidão da justiça" não poderia prejudicar o direito do agravado em obter o porte de arma de fogo, em acórdão assim fundamentado:
+Na espécie, o impetrante responde à ação penal nº 0015366-75.2007.8.26.0506 em curso perante a 1ª Vara Criminal do Foro de Ribeirão Preto, de modo que sua situação, em princípio, amolda-se ao § 2º do art. 5º, combinado com o art. 4º, I, da Lei nº 10.826/2003. Foi esse o motivo pelo qual a administração pública negou-lhe a pretendida renovação do porte da arma de fogo (PISTOLA MARCA GLOCK, calibre 380, com número RCC 388, concedido pelo SINARM).
+(..)
+O autor é Agente de Segurança Penitenciaria Classe V, QSAP - da Secretaria de Administração Penitenciaria, classificado no CDP - ASP NAYAN XAVIER RIBEIRO DE RIBEIRÃO PRETO - SP, o que é o suficiente para considerá-lo exposto a situações de conflito com os sentenciados, gerando-lhe fundada situação de insegurança pessoal e de sua família. Sucede que é justo a Lei nº 10.286/2003, que dispõe o seguinte: "Art. 6º É proibido o porte de arma de fogo em todo o território nacional, salvo para os casos previstos em legislação própria e para: VII - os integrantes do quadro efetivo dos agentes e guardas prisionais, os integrante s das escoltas de presos e as guardas portuárias..".
+É certo que o autor responde a processo criminal acusado do delito do art. 1º, inciso II, cc § 4º, inciso, I, da Lei nº 9.455/97.
+Mas também é verdade que esse feito (0015366-75.2007.8.26.0506, da 1ª Vara Criminal Estadual de Ribeirão Preto) ébastante antigo (2007) e não há notícia que esteja em vias de se ultimar.
+O impetrante é acusado de haver imputada a detentos punições indevidas e por isso responde, com outros indivíduos, pelo crime de tortura, tendo sido absolvido na instância administrativa.
+Ora, se o Judiciário não consegue atender ao princípio da razoável duração do processo criminal, não parece lícito impedir que um funcionário público que teria o direito de portar arma porque desempenha até o presente função perigosíssima - expondo-se à sanha de criminosos vingativos - reste impossibilitado de renovar o porte (que já detinha) da arma de fogo de natureza "não exclusiva", justamente porque o Judiciário não resolve a lide criminal (denúncia recebida em 11/11/2014 e processo no aguardo da ultimação de prova oral da acusação desde 2017), fazendo com que ele permaneça, há mais de uma década, como indivíduo suspeito de prática de crime hediondo.
+Não é o caso de se invocar o princípio da presunção da inocência, longe disso, porque o assunto tem sede no Direito Administrativo.
+O caso é que um servidor público exercente de cargo e funções de alto risco, sujeito a violências e vinditas que podem ocorrer fora do ambiente de trabalho, vê-se privado de arma de defesa pessoal - que usaria apenas fora do horário de expediente, como é da lei - porque o Judiciário não consegue, até 2020, resolver uma ação penal em que o mesmo é réu, com investigações ocorridas em 2007 e denúncia oferecida em 11/11/2014.
+O caso envolve, sim, a apreciação da razoabilidade, pois não é correto que a lentidão da Justiça(que não resolve se o cidadão é inocente ou culpado, e nesse caso, em que grau) prejudique o exercício de um direito que a lei prevê para os agentes penitenciários consistente em portar arma de fogo para defesa pessoal fora do horário de expediente.
+Pelo exposto, DOU PROVIMENTO à apelação do impetrante para conceder a segurança (fls. 249/250).
+5. Em nova análise da matéria, verifica-se que, de fato, não houve impugnação específica dos fundamentos adotados no acórdão recorrido sobrea razoável duração do processo criminal e a aplicação do princípio da razoabilidade.
+6. Assim,  não  havendo  o  debate  a  respeito  de  questão  suficiente  à  manutenção  do  resultado  do  julgamento,  incide no caso,  por  analogia,  o  disposto  na  Súmula  283  do  STF,  in  verbis:  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles".  Cito recentes julgados desta Primeira Turmaacerca do tema:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. PENHORABILIDADE DE IMÓVEL. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - (..)
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - (..)
+IV - Agravo Interno improvido(AgInt no REsp 1939683/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 06/04/2022, sem destaques no original).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RAZÕES RECURSAIS QUE NÃO INFIRMAM FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. IMPUGNAÇÃO TARDIA. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ.
+1. O recurso especial não impugna fundamento basilar que ampara o acórdão recorrido, qual seja, o de que, segundo o art. 6º, parágrafo único, I, do Decreto-Lei 41.904/97, é de competência exclusiva do Poder Público a abertura ou o fechamento de acesso a estabelecimentos comerciais e outros que não estejam compreendidos no objeto da concessão e dependerão de autorização do Poder concedente, a pedido da concessionária. Aplicação da Súmula 283/STF.
+2. (..)
+4. Agravo interno não provido (AgInt no AREsp 1630144/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 07/04/2022- sem destaques no original).
+7. Melhor sorte não assiste àagravante quando afirma que busca apenas a modificação do julgado"diante dos fatos já estabelecidos no acórdão recorrido".A decisão do Tribunal de origem está fundamentada narazoável duração do processo criminal, no sentido de que "a lentidão da justiça"não poderia prejudicar o direito do agravado, que inclusive foi absolvido no processo administrativo, em obter o porte de arma de fogo.Assim,a modificação desse entendimentodemandaria o reexame dos fatos e provas constantes nos autos.
+8. Como é sabido, nos termos da jurisprudência do STJ, é vedadaa análise de fatos e provas em recurso especialante o enunciado da Súmula 7 do STJ: "Apretensão desimples reexame de provas não enseja recurso especial". Nesse sentido, são os precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVOLVIMENTO DE MATÉRIA FÁTICA. INVIABILIDADE. AÇÃO RESCISÓRIA. DUPLA CONDENAÇÃO EM HONORÁRIOS. POSSIBILIDADE.
+1. A pretensão de reexame de fatos e provas esbarra na Súmula 7 desta Corte.
+2. (..)
+4. Agravo interno não provido (AgInt no REsp 1653883/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 12/04/2022 - sem destaques no original).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. IRREGULARIDADE FORMAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. IMPUGNAÇÃO TARDIA. DESCABIMENTO.
+1. (..)
+4. A alteração das conclusões adotadas pela Corte de origem acerca da natureza da operação realizada pela ora recorrente, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. (..)
+7. Agravo interno não provido (AgInt no REsp 1746832/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/03/2022, DJe 31/03/2022 - sem destaques no origem).
+9. Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+10. Ante o exposto, nega-se provimento ao agravo interno.
+11.É como voto.
