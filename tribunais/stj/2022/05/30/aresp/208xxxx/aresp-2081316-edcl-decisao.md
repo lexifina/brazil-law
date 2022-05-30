@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ADRIANA MARONI à decisão de fls. 1525/1526, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A r. decisão objurgada contemplou que o Recurso Especial interposto às fls. 1.436-1.448 seria intempestivo, dado que a decisão que o ensejou fora publicada no dia 23/03/2021 e a insurgência recursal fora protocolada apenas no dia 20/04/2021 e, que, ainda, a Embargante não teria comprovado a sua tempestividade.
+Entretanto, com todo o acatamento devido, a Embargante entende que a r. decisão monocrática se omitiu ao fato de que a Embargante pormenorizou a tempestividade do seu recurso, senão vejamos: (fl. 1529).
+ ..
+Ou seja, a Embargante indicou que "não houve expediente nos dias: 26.03, 27.03, 28.03, 29.03, 30.03, 31.03, 01/04, 02/04, 03/04, 04/04, 10/04, 11/04, 17/04, 18/04 e 21/04, por se tratarem de feriados e sábado e domingo", juntando, ato contínuo, o provimento emanado pelo Egrégio Tribunal de Justiça de São Paulo, o qual estabeleceu a não computação de prazos nos dias 26,27,28,29,30,31/03 e que nos dias 01 e 02/04, foram feriados.
+O provimento do Egrégio Tribunal de Justiça de São Paulo fora juntado no mesmo ato de interposição do Recurso Especial (fls. 1.449-1.450) (fl. 1530).
+Alega ainda:
+Também com todo o acatamento devido, a Embargante entende que a r. decisão monocrática vergastada se omitiu ao entender que o Agravo de Decisão Denegatória de Recurso Especial de fls. 1.501-1.511 teria sido interposto de modo intempestivo e sem a comprovação da respectiva tempestividade.
+Analisando os autos, podemos verter "que a intimação da r. decisão ocorreu em 23.06.2021 (quarta-feira) e que não houve expediente no dia 09.07.2021, em razão de feriado local, tem-se que o prazo passou a fluir em 24.06.2021 (quinta-feira) e se encerrará em 15.07.2021 (quinta-feira)".
+Às fls. 1.512-1.514, novamente, a Embargante colacionou o provimento emanado pelo Egrégio Tribunal de Justiça de São Paulo, atestando a existência do feriado e a não computação de prazo (fl. 1530).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+No caso, os calendários, ou mera relação de feriados, juntados às fls. 1449/1450 e 1512/1514, sem o inteiro teor dos respectivos atos normativos, não tem o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
