@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos a decisão que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte embargante sustenta, em síntese:
+Ocorre que em nenhum momento a v. decisão se manifestou à respeito da divergência jurisprudencial, incidindo em omissão, o que deverá ser aclarado pelo Relator, já que é devido o pronunciamento específico à respeito do tópico suscitado no recurso especial e no próprio agravo.
+Afinal, a falta de análise do tópico que demonstra a divergência jurisprudencial e consideração aos argumentos expendidos, levou a omissão apontada que aqui reside, gera igualmente negativa de vigência ao preceito contido no art. 489, §1º, notadamente os incisos I, II, IV, V, VI do Código de Processo Civil, bem como ao art. 93, IX da CF/88, entre outros dispositivos legais mencionados no corpo dos presentes embargos e do próprio recurso interposto.
+Ademais, quando o Relator impôs o óbice da Súmula n. 7/STJ para analisar o recurso interposto, em nenhum momento considerou toda a argumentação dos tópicos 2.2 e 2.3. do AREsp e sua devida correlação com o recurso especial, afinal, em nenhum momento se manifestou a v. decisão monocrática a respeito da ofensa relatada aos arts. 186 e 927 do CC/02, arts. 47 e 51 inc. I do CDC/90 e da própria inaplicabilidade das súmulas 07 e 211 do STJ, afinal a v. decisão as aplicou sem ponderar qualquer argumento trazido pela recorrente/agravante.
+Agindo de tal forma, a decisão embargada, no entanto e com todo respeito, ignorou os fundamentos e argumentos trazidos pela recorrente/agravante, apenas reproduzindo argumentação do acórdão do Tribunal local, sem explicar ou transcorrer por quais fundamentos nega os preceitos trazidos pela ora Embargante.
+Requer, ao final, o acolhimento dos Embargos com efeito modificativo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.4.2022.
+A irresignação não merece prosperar.
+Com efeito, aincidência da Súmula 7/STJ impede o conhecimento do recurso lastreadotambémpela alínea "c" do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS. 1. VIOLAÇÃO AO ART 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INAPLICABILIDADE DO DISPOSTO NO ART. 1.025 DO CPC/2015. 3. NOVAÇÃO. PRESENÇA DOS REQUISITOS LEGAIS. ANIMUS NOVANDI. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE TERMOS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, sob pena de aplicação, por analogia, da Súmula 282/STF bem como da Súmula 211/STJ.
+2.1. A incidência do art. 1.025 do CPC/2015 exige o reconhecimento, nesta instância, da negativa de prestação jurisdicional, arguida no recurso especial, o que não ocorreu no caso em apreço.
+3. Reverter a conclusão do colegiado originário (acerca da inexistência dos requisitos autorizadores da novação, para então acolher a pretensão recursal quanto à ofensa ao art. 360 do CC/2002) demandaria o revolvimento do acervo fático-probatório dos autos e de cláusulas contratuais, o que é vedado dada a natureza excepcional da via eleita, consoante o enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1.778.733/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 30/3/2022, grifei)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. PEDIDO DE GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. BENEFÍCIO NÃO CONCEDIDO PELO TRIBUNAL ESTADUAL. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489, 1.022 e 1.025 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º).
+3. O Tribunal de Justiça confirmou decisão que não concedeu o benefício de assistência judiciária gratuita ao ora agravante, sob o entendimento de que os documentos juntados demonstram incompatibilidade com o alegado estado de necessidade para o benefício pretendido. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ.
+4. É inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.969.720/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25/4/2022, grifei)
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
