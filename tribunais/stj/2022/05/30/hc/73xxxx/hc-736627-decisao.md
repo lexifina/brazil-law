@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deCARLOS ALBERTO DE ALMEIDAem que se apontacomo autoridadecoatorao Tribunal de Justiça do Estado de São Paulo (Ação Penal n.0000849-85.2018.8.26.0601).
+Em primeiro grau, o paciente foi condenadoàs penas de 39 anos, 9 meses e 23 dias de reclusão em regimefechado e de 45 dias-multa, pela prática dos crimes descritos nos seguintes artigos do Código Penal: a) 180, caput (1 ano de reclusão e 10 dias-multa); b) 157, § 2º, II e V, e § 2º-A, I(11 anos e 23 dias de reclusão e 25 dias-multa); c) 159, § 1º, por duas vezes, na forma do art. 70 (23 anos e 3 meses de reclusão); e d) 288, parágrafo único (1 ano e 6 meses de reclusão). Foi condenado ainda, por infração ao art. 16, parágrafo único, IV, da Lei n.10.826/2003, às penas de3 anos de reclusão e de 10 dias-multa, em concurso material.
+Interposta apelação defensiva, o Tribunal de origemdeu parcial provimento ao recurso a fim de absolver o pacienteda imputação da prática do crime previsto no art. 288 do Estatuto Repressivo e reduzir suas penas para 38 anos, 3 meses e 23 dias de reclusão, mantida, no mais, a sentença.
+Interpostos embargos declaratórios, os quais, à unanimidade, foram rejeitados.
+Interpostosrecursos especial e extraordinário, os quais não foram conhecidos, por serem intempestivos.
+Interposto agravo, não se conheceu do AREsp n.1.843.201/SP, certificando-se o trânsito em julgado em 24/3/2021.
+Nas razões do presente writ,o paciente, de própriopunho, alegando cerceamento de defesa, pleiteia a revisão do processo e nova aplicação da pena.
+Os autos foram remetidos à Defensoria Pública do Estado de São Paulopara manifestação, tendo aquele órgão se pronunciado e sugerido a submissão dos autos ao TJSPpara nova apreciação, na forma de revisão criminal.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual(AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame da impetração.
+Em consulta, verifica-se que não há, no STJ, julgamento de mérito passível de revisão criminal em relação a essa condenação, pois do AREsp n. 1.843.201/SP não se conheceu.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 6/4/2021; AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+No mesmo sentido, a orientação do STF: AgRg no HC n. 134.691/RJ, relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 1º/8/2018; AgRg no HC n. 149.653/SP, relator Ministro Dias Toffoli, Segunda Turma, DJe de 6/2/2018; AgRg no HC n. 144.323/SP, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 30/8/2017; e HC n. 199.284/SP, relator Ministro Marco Aurélio, Primeira Turma, DJe de 16/8/2021.
+Também não há flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
