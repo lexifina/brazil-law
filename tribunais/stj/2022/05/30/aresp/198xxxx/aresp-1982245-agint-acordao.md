@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MUNICÍPIO DE UMIRIM interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CDA. REQUISITOS.
+PREENCIMENTO. REEXAME. IMPOSSIBILIDADE. MATÉRIA FÁTICA.
+SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega oagravante que:a) o fundamento que ensejou à não admissão do Agravo em Recurso Especial não merece prosperar, uma vez que os fundamentos da decisão agravada, foram especificamente impugnados, não havendo o que se falar, sob qualquer aspecto, em ausência de "rebate específico a todos os fundamentos da decisão agravada", como mencionado no acórdão ora agravado;b) o que se pretende com o presente agravo interno em agravo em recurso especial é a exata adequação jurídica concernente a não aplicação do comando legislativo exarado no disposto nos artigos 202 e 203 do Código Tributário Nacional no presente caso, vez que a base da presente execução, a cédula de dívida ativa, encontra- se em desconformidade com os requisitos legais exigidos, estando assim eivada de nulidade formal que por sua vez ensejam a nulidade do título; ec) não é possível identificar ao longo do acervo do próprio acordão impugnado, com a clareza que se espera, violação ao disposto constante no artigo 24 da lei 3.820/60, uma vez que restou evidenciado por este Recorrente que a unidade de saúde contava à época com a presença de profissional farmacêutico devidamente credenciada ao seu Conselho, no quadro de funcionários do hospital de pequeno porte, não estando comprovado em nenhuma das alegações da parte recorrida, que de fato o Município procedeu com a afronta a supracitada legislação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EMBARGOS À EXECUÇÃO. INFRAÇÃO. CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE CDA.REQUISITOS.PREENCIMENTO. REEXAME.MATÉRIA FÁTICA.SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Arevisão do entendimento do Tribunal de origem, no sentido de quenão foi demonstrado nos autos que determinada profissional habilitada estava exercendo sua atividade na unidade de saúde no período da ocorrência do fato gerador, ensejaria incursão no acervo fático-probatório, o que é vedado, em sede de recurso especial,ante o óbice da Súmula 7/STJ.
+2. ACorte de origem, realizando juízo de natureza fática, assentou a regularidade da CDA, de modo que o acolhimento da pretensão recursal esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+A insurgência não prospera.
+Quanto à alegada violação ao art. 24 da Lei 3.820/60, adecisão recorrida entendeu que o Tribunal de origem, soberano na análise dos elementos probatórios dos autos, concluiu que a multa aplicada em desfavor do Município deve ser mantida, uma vez quenão ficoudemonstrado nos autos que determinada profissional habilitada estava exercendo sua atividade na unidade de saúde no período da ocorrência do fato gerador.
+O agravante afirma que não é possível identificar ao longo do acervo do próprio acordão impugnado, com a clareza que se espera, violação ao disposto constante no artigo 24 da lei 3.820/60, uma vez que restou evidenciado pelo recorrente que a unidade de saúde contava à época com a presença de profissional farmacêutico devidamente credenciada ao seu Conselho, no quadro de funcionários do hospital de pequeno porte, não estando comprovado, em nenhuma das alegações da parte recorrida, que de fato o Município procedeu com a afronta a supracitada legislação.
+Ocorre que o acórdão do Tribunal de origem, ao julgar a controvérsia,afirmou expressamente que não ficou demonstrado nos autos a relação da profissional, cujo cadastrono CRF/CEo Município apresentou,com a unidade de saúde fiscalizada ou mesmo que esta atuava no período da ocorrência do fato gerador.In verbis:
+(..) O art. 24 da Lei nº 3.820/60, que fundamentou a cobrança da multa em desfavor do Município, exercícios 2014 e 2015, aplicada pelo Conselho Regional de Farmácia do Ceará (vide id"s. 4007970 e 4007973), dispõe que os estabelecimentos que exploram serviços para os quais são necessárias atividades de profissional farmacêutico deverão provar perante os Conselhos Federal e Regionais que essas atividades são exercidas por profissional habilitado e registrado.
+No caso concreto, o Município se limita a afirmar que as atividades farmacêuticas na unidade de saúde em questão sempre foram exercidas por farmacêutico habilitado e registrado, trazendo aos autos, como prova de sua alegação, apenas o cadastro da profissional Maria de Lourdes de Alencar Siebra no CRF/CE. Não há demonstração, contudo, da relação da profissional com a unidade de saúde fiscalizada ou mesmo que atuava no período da ocorrência do fato gerador (fl. 117-e).
+Dessa forma,a revisão desse entendimento, a fim de conhecer da alegação de insubsistência da infração, esbarraria no óbice da Súmula 7/STJ.
+Melhor sorte não socorre oagravante com relação a suposta violação aos arts. 115, 116 e 202, II e III, e 203 do CTN e 2º, § 5º, da Lei 6.830/1980.
+A Corte de origem, realizando juízo de natureza fática, concluiu que o título executivoestá regular, uma vez queindicado o termo inicial dos juros de mora e o fundamento legal das verbas acessórias.
+Assim, acolher o argumento da parte de que acédula de dívida ativaencontra- se em desconformidade com os requisitos legais exigidos,esbarra no óbice da Súmula 7/STJ, uma vez que demandaria incursão no conjunto probatório dos autos, o que é inviável em sede de recurso especial ante o óbice previsto na Súmula 7/STJ.
+Nesse cenária,a decisão recorrida deve ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
