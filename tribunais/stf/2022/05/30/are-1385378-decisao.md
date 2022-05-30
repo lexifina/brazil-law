@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL. GRUPO ECONÔMICO.AUSÊNCIA DE INTERESSE COMUM NO FATO GERADOR DO TRIBUTO EXECUTADO.ILEGITIMIDADE PASSIVA QUE SE RECONHECE. INVIABILIDADE DE PENHORA ANTES DACITAÇÃO. AGRAVO PROVIDO.I - Agravo de instrumento manejado por BRASIL ADMINISTRAÇÃO DE IMÓVEIS E OUTROS, na sede uma execução fiscal inaugurada por instância da UNIÃO/FAZENDA NACIONAL, onde alegam sofrer os efeitos de um redirecionamento da cobrança nº 0004635-58.2011.4.05.8311 ajuizado em face de ND COMÉRCIO LTDA. e OUTROS, perante 22ª Vara Federal de Pernambuco. Alegam, em resumo i)ilegitimidade passiva, advinda de redirecionamento, pois não compõem o grupo econômico com as executadas originais; ii) o juízo da execução já estava suficientemente garantido por bem imóvel quando adveio o redirecionamento; iii) foi efetuada constrição patrimonial (bloqueio de ativos através do BACENJUD) antes do procedimento da sua citação.II - Em contraposição, a FAZENDA aduziu os seguintes pontos: i) a intempestividade do agravo; ii) aviabilidade de ampliação do polo passivo do feito executório; iii) a inaplicabilidade do art. 158-A do CTN ao presente caso, advindo também a inaplicabilidade da Súmula 560 do STJ; iv) a indisponibilidade patrimonial da AGRAVANTE decorreu do poder geral de cautela que arma a prestação jurisdicional.III - O litisconsorte tem prazo em dobro para recorrer. Logo, tempestivo é o agravo, mesmo que apresentado para além da quinzena legal, pois a decisão açoitada foi tomada em autos físicos, embora o presente recurso tenha sido aviado por meio eletrônico. CPC/2015, art. 229.IV - Dá margem ao redirecionamento de uma execução fiscal para empresa dita integrante de grupo econômico, a evidência de que existe interesse comum entre a devedora originária e aquela que é alvo do reencaminhamento da cobrança judicial, no que diz respeito ao fato gerador do tributo executado. CTN,art. 128. Inexistindo essa comunhão de interesses, in concreto , não há base para o redirecionamento.V - A chave da compreensão jurídica do redirecionamento da execução forçada, sob o pálio de extensão da responsabilidade dos integrantes do suposto grupo econômico de fato é a presença da pessoa (física ou jurídica), " que tenha interesse comum na situação que constitua o fato gerador da obrigação principal " (CTN, art. 124, I) ou que decorra de expressa designação legal (CTN, art. 124, II).
+
+    VI - O interesse comum que se especula, para os fins do art. 124, I, do CTN, não é o mero interesse econômico e genérico , bastante presente em empresas que laboram no mesmo ramo ou mesmo que exploradoras de atividades diferentes, inspirando objetivos ou alvíssaras de negócios cruzados, por exemplo.VII - O que justifica o redirecionamento da cobrança de tributos, sob a flâmula da solidariedade , é aidentidade de interesse no fato gerador específico que deu margem à obrigação tributária principal ,originadora, por conseguinte, de débito tributário regularmente lançado e, passo adiante, da ação executiva fiscal. Posicionamento do STJ: AgRg no AREsp. 603.177/RS, Rel. Min. BENEDITOGONÇALVES, DJe 27.3.2015; AgRg no REsp. 1.433.631/PE, Rel. Min. HUMBERTO MARTINS, DJe13.3.2015; REsp 1.433.631/PE, NAPOLEÃO MAIA, 19.06.2015.VII - Cabe à FAZENDA NACIONAL, dotada de competência constitucional para cobrar o tributo, fazer prova de que fora frustrado o seu intento de perseguir o devedor original para constrangê-lo a quitar o débito fiscal e por isso mesmo estava chamando à responsabilidade outrem que tivesse " interesse comum na situação que constitua o fato gerador ", não bastando similitudes de denominação,coincidência de integrantes do corpo acionário ou atuação em um mesmo ramo negocial, por exemplo. Seo título executivo é dotado de certeza, exigibilidade e liquidez, apurados em regular processo administrativo, não pode transmudar-se, ao querer da FAZENDA em uma cártula "ao portador", a ser colada à primeira firma que aparentar meios patrimoniais para suportar a execução.VII - Para além do interesse da FAZENDA de ver satisfeitos os seus créditos, de inescondível feição social e basilar para o sustento das necessidades do Estado, está o princípio da legalidade , de feição garantista, que assegura ao súdito o direito de só ser desfalcado do seu patrimônio se a lei assim o determinar . É primado da Constituição, tanto no art. 5º, inciso II ("ninguém será obrigado a fazer ou deixar de fazer alguma coisa, senão em virtude de lei"), como, mais especificamente, art. 150, que no inciso primeiro veda aos entes estatais "exigir ou aumentar tributo sem lei que o estabeleça". E na lei está dito que o redirecionamento só pode ser voltado para a pessoa " que tenha interesse comum na situação que constitua o fato gerador da obrigação principal " (CTN, art. 124, I).IX - Em regra, a constrição patrimonial de pessoa executada só é viável após a citação para o pagamento,sem sucesso na quitação da dívida. A invocação do poder geral de cautela para o prévio bloqueio de ativos via BACENJUD só é possível em casos excepcionais e com a devida justificação, o que não ocorre na espécie. Posição da Quarta Turma do TRF5 (AGTR 145245/PE, RUBENS CANUTO, DJe 10.07.2017e AGTR 08062017120154050000, EDILSON NOBRE, j. 29.01.2016).X - Agravo provido.
+
+    Opostos os embargos de declaração, foram acolhidos em parte.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso II; 150, inciso I da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a alegada violação do princípio da legalidade seria, se ocorresse, indireta ou reflexa, o que não enseja reexame da matéria em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que dispõe in verbis:
+
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade[...] quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+
+    Nesse sentido, os seguintes precedentes: ARE nº1.172.505/MG-ED, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 6/5/19; ARE nº 1.175.218/MG-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 20/5/19 e ARE nº ARE nº 1.160.836/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 1º/2/19.
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 30 de maio de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
