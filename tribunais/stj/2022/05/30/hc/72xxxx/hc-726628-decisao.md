@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 44):
+HABEAS CORPUS  RECEPTAÇÃO, ASSOCIAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO  EXCESSO DE PRAZO  INOCORRÊNCIA  INSTRUÇÃO ENCERRADA  SÚMULAS 52 DO STJ e 17 do TJMG  AUSÊNCIA DE CONSTRANGIMENTO ILEGAL  ORDEM DENEGADA. Uma vez encerrada a instrução criminal, com o oferecimento de alegações finais pelas partes, não há falar em excesso de prazo, conforme Súmula 52, do STJ.
+O paciente responde pela prática dos crimes previstos no art. 180, caput, 288 e 311, todos do Código Penal.
+Alega a defesa, em suma, a ocorrência de excesso de prazo, aduzindo que a prisão dura cerca de 158 dias e não houve o encerramento da instrução, aguardando-se, atualmente, a apresentação de laudo pericial para posterior abertura de prazo para as alegações finais.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida (fls. 94/95).
+Foram prestadas as informações(fls. 99/229).
+O Ministério Público Federal opinapeladenegação da ordem (fls. 248/249).
+Incialmente, quanto aos fundamentos do decreto preventivo, a matéria já foi examinada no HC 707.733/MG, o qual foi indeferido em 9/12/2021,porquanto não verificadailegalidade.
+Quanto ao suposto excesso de prazo, em detida análise dos documentos colacionados aos autos, não se verifica constrangimento ilegal apto a fundamentar orelaxamento da constrição cautelar.
+Consta no acórdão proferido pelo Tribunal a quo (fl.46):
+ .. "Data venia", não assistir razão ao impetrante, pois, conforme se verifica pelas informações prestadas (ordem 1 6), a instrução processual encerrou-se em 27/01/2022, estando na fase de alegações finais.
+E, com o cediço, nesta fase processual, eventual excesso de prazo ocorrido não mais autoriza a concessão da ordem pleiteada, pois o constrangimento porventura havido se encontra superado A propósito, a Súmula n.º 52 do STJ dispõe sobre o assunto  .. .
+Consta nos autos que o paciente foi preso em flagrante, e teve a sua prisão em flagrante convertida em preventiva no dia30/9/2021.Em 1/10/2021, foi realizada audiência de custódia, tendo sido mantida a prisão preventiva do paciente. Adenúncia foi ofertada em 9/10/2021, tendo sida recebida no dia 15/10/2021.Aresposta à acusação foi apresentada no dia 11/11/2021. Aaudiência de instrução e julgamento foi designada para o dia 10/1/2022, na ocasião foi requerida a revogação da prisão preventiva do paciente, no entanto, o pedido foi indeferido em 12/1/2022.Em 27/1/2022, foi dada continuação a audiência de instrução e julgamento, oportunidade em que foram inquiridas todasdas partes, tendo a defesa formulado novo pedido de revogação da preventiva do paciente. O pleito foianalisado e indeferido em 2/2/2022.Em 9/3/2022 a DEPOL encaminhou o resultado da perícia realizada nos aparelhos celulares apreendidos. Assim, ofeito aguardaapenas a apresentação das alegações finais pelas partes, conforme informações prestadas pela autoridade coatora àsfls. 99/100.
+No que concerne ao excesso de prazo, é importante salientar que aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida de coação.
+Consoante informado pelo Juízo de origem e pelo Tribunal estadual, a audiência de instrução foi finalizada em 27/1/2022 e, em 9/3/2022,a DEPOL encaminhou o resultado da perícia realizada nos aparelhos celulares apreendidos, sendo estaa única diligência que faltava,de modo que, desde 14/3/2022,o feito está nafase de apresentação dasalegações finais.
+Desse modo, não evidenciada mora estatal na persecução criminal, em que a sucessão de atos processuais infirma a ideia de paralisação indevida daprópria investigação, ou de culpa do Estado persecutor, não se vêdemonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Além disso, estando os autos na fase de apresentação dealegações finais, fica superado o aventado excesso de prazo para a formação da culpa, incidindo ao caso a Súmula n. 52 deste Superior Tribunalde Justiça,segundo a qual, "Encerrada a instrução criminal, ficasuperada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
