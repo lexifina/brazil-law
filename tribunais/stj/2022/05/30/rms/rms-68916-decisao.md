@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, com pedido de concessão de efeito suspensivo, interposto pelo Estado de São Paulo contra acórdão às fls. 444/452, proferido à unanimidade pela 9.ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, resumido na seguinte ementa:
+MANDADO DE SEGURANÇA ORIGINÁRIO.
+Pretensão de anulação de sentença transitada em julgado proferida pelo Colégio Recursal do Juizado Especial da Fazenda Pública, em razão de valores que ultrapassam o teto dos juizados. Controle da competência dos Juizados Especiais por meio de mandado de segurança. Admissibilidade. Precedentes do Superior Tribunal de Justiça. Impetração que, no entanto, foi alcançada pela decadência. Termo a quo a ser contado da ciência, pelo interessado, do ato impugnado. Inteligência do artigo 23 da Lei nº 12.016/2009. Acórdão impugnado publicado em 06.07.2020. Trânsito em julgado em 28.07.2020. Mandado de segurança impetrado em 04.07.2021. Decadência reconhecida. Extinção do processo na forma do artigo 487, inciso II, do Código de Processo Civil. (fl. 276).
+Nas razões recursais, fls. 289/309, o recorrente questiona a decadência apontada pela Corte Bandeirante ao argumento de que "a admissão do mandado de segurança para controle da observância da jurisdição da justiça comum posteriormente ao trânsito em julgado se fundamenta na impossibilidade de que decisões de órgãos judiciários desprovidos de jurisdição em situações excepcionais de grave teratologia e ofensa à ordem jurídica na qual são impostas condenações de caráter permanente, como no caso dos autos" (fl. 296) e que "no caso concreto a obrigação foi imposta ao estado com periodicidade mensal e duração indefinida, ostentando natureza de verdadeira obrigação de trato sucessivo, razão pela qual o prazo para impetração do writ se renova mês a mês" (fl. 298). No mais, discorre sobre questões a latere, como a viabilidade da ação mandamental para impugnação de atos judiciais e "teratológicas" ou do mérito da impetração, como a defesa da tese de usurpação da competência da Justiça Comum e ofensa à Súmula vinculante n. 37.
+Requer o Estado, por fim, "a concessão de efeito suspensivo (art. 1.029, § 5º), tendo em vista que a execução provisória do julgado encontra óbice nas normas de remédio constitucional (artigos 7º, III e 14 da lei federal n. 123.016/2009, artigo 2º-B da Lei Federal n. 9.494/1997, artigos 300, § 3º, 519 e 1.050 do Código de Processo Civil e artigos 1º e 4º da Lei Federal n. 8.437/1992) e, sobretudo, viola o entendimento firmado pelo Supremo Tribunal Federal na Súmula Vinculante 37" (sic. fls. 289).
+Recurso sem contrarrazões (fl. 326).
+Representação ex lege.
+Recurso tempestivo.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O êxito do recurso ordinário interposto contra acórdão que denega a segurança vai condicionado à demonstração de erro - de procedimento ou de aplicação do direito - verificado na prolação do aresto impugnado.
+Na hipótese, queixa-se o Estado recorrente de que a Corte estadual não teria bem aplicado o direito à espécie ao declarar a decadência da impetração.
+Ocorre que, ao assim decidir, o Tribunal Bandeirante em nada se afastou da pacífica jurisprudência desta Corte Superior no que concerne à matéria.
+Com efeito, mesmo em se tratando de mandado de segurança impetrado contra ato judicial - teratológico ou não - o prazo decadencial tem sempre como marco inicial a publicação do ato apontado como coator.
+A propósito:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. SÚMULA 267/STF. DECISÃO JUDICIAL RECORRÍVEL. NÃO CABIMENTO DO WRIT. DECADÊNCIA DA IMPETRAÇÃO.
+ ..
+4. Além disso, uma vez que o mencionado ato coator foi proferido em maio de 2017 e o mandamus impetrado em setembro de 2019, evidente a decadência da impetração, porquanto escoado o prazo de 120 dias previsto no art. 23 da Lei 12.016/2009, não merecendo acolhida a tese de que o marco inicial para a propositura do writ ocorreu na data em que o Agravo Interno nos Embargos de Divergência foram parcialmente providos.
+5. Agravo Interno não provido.
+(AgInt no MS 25.418/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 18/03/2020)
+AGRAVO INTERNO. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. PRAZO DECADENCIAL. FLUÊNCIA. DECADÊNCIA CONFIGURADA.
+I - É extemporâneo o mandado de segurança impetrado após o prazo de 120 (cento e vinte) dias previsto no art. 23 da Lei n. 12.016/2009.
+II - O ato apontado como coator foi publicado no Diário Oficial Eletrônico em 27/5/2014 e a impetração do mandado de segurança ocorreu em 17/12/2014. Inobservância ao prazo decadencial.
+III - Agravo interno improvido.
+(AgInt nos EDcl no RMS 49.971/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 05/04/2017)
+No que concerne à suposta relação de trato sucessivo, absolutamente escorreita a decisão do Tribunal recorrido, ao afastar tal alegação ao fundamento de que o ato judicial impugnado foi único e de efeito concreto, e não se confunde com suas consequências no plano da execução.
+Ademais, esta Corte tem reiteradamente afirmado que a aplicação da chamada teoria do trato sucessivo requer ato omissivo continuado, o que, à toda evidência, não é a hipótese dos autos. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO DO TCDF EM TOMADA DE CONTAS ESPECIAL. ATO ÚNICO E DE EFEITOS CONCRETOS. DECADÊNCIA DO DIREITO À IMPETRAÇÃO.
+1. Cuida-se, na origem, de mandado de segurança impetrado por policial militar para impugnar obrigação de ressarcimento de valores ao erário, determinada pela Corte de Contas do DF em Tomada de Contas Especial.
+2. O impetrante indicou, como ato coator, acórdão do Tribunal de Contas do Distrito Federal, proferido em 14 de abril de 2011, sob alegação de "inviabilidade do ressarcimento da verba recebida de boa-fé", autorizada pelo Governo do Distrito Federal.
+3. "A teoria do trato sucessivo restringe-se às hipóteses de impetração contra ato omissivo ilegal da autoridade coatora, devendo o ato comissivo, seja de supressão ou de redução de vencimentos, ser atacado dentro do prazo de que cuida o artigo 18 da Lei nº 1.533/51, atualmente art. 23 da Lei 12.016/09, que devem ser interpretados em harmonia com a natureza e vocação específica do mandado de segurança. Precedentes do STJ e do Supremo" (REsp 1.195.628/ES, Rel. Ministro Castro Meira, Segunda Turma, DJe 1/12/2010).
+4. Expedida a decisão impugnada em agosto de 2011, nasceu nesse mesmo momento o direito de se discutir em juízo o alegado direito à não devolução dos valores, aí residindo o marco inicial do prazo para a impetração do writ, pelo que é manifestamente extemporânea a impetração, ocorrida apenas em março de 2013.
+5. Recurso conhecido para, de ofício, declarar a decadência do direito à impetração.
+(RMS 45.275/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 16/12/2021)
+Por fim, acrescento que a Primeira Turma desta Corte examinou recurso ordinário análogo, também interposto pelo Estado de São Paulo, ao qual negou provimento, após rejeitar a mesma tese aqui suscitada. O aludido aresto acha-se guarnecido pela seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL APÓS O PRAZO DECADENCIAL. IMPOSSIBILIDADE. RELAÇÃO DE TRATO SUCESSIVO. INEXISTÊNCIA. DECADÊNCIA CONFIGURADA.
+1. Mesmo em se tratando de mandado de segurança impetrado contra ato judicial - teratológico ou não -, o prazo decadencial de cento e vinte dias, independentemente da natureza do ato impugnado, terá sempre como marco inicial a publicação do ato apontado como coator.
+2. No que concerne à invocada relação de trato sucessivo, absolutamente escorreita a decisão do Tribunal recorrido, no que afastou tal alegação sob o fundamento de que o ato judicial impugnado foi único e de efeito concreto, não se confundindo com suas consequências no plano da execução da sentença. Ademais, esta Corte tem reiteradamente afirmado que a aplicação da chamada teoria do trato sucessivo requer ato omissivo continuado, o que, a toda evidência, não se confunde com a hipótese dos autos, na qual se combate concreta decisão judicial.
+3. A decadência, como desenhada no art. 23 da Lei n. 12.016/2009, traduz-se em impedimento processual imposto ao impetrante que, por sua inércia, deixa transcorrer o prazo de cento e vinte dias para o ajuizamento da ação de segurança.
+4. Recurso ordinário a que se nega provimento.
+(RMS 68.341/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 27/04/2022)
+Também por isso não há nenhuma razão suficientemente forte para dar ao presente caso desfecho diverso.
+Eis porque não merece nenhum reparo, em qualquer de seus fundamentos, o acórdão recorrido, visto que em tudo se amolda ao entendimento jurisprudencial deste STJ.
+ANTE O EXPOSTO, e à vista da manifesta improcedência do presente recurso ordinário, decido-o de plano e nego-lhe provimento, com fundamento no disposto no art. 934, VIII, do CPC c/c art. 34, II, "b" do RISTJ, prejudicado, com esta decisão, o exame do pedido de concessão de efeito suspensivo.
+Publique-se.
