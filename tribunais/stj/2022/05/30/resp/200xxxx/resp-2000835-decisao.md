@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A. com fulcrona alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIROassim ementado (e-STJ fls. 158/159):
+PROCESSO CIVIL. AÇÃO COLETIVA. AÇÃO INDIVIDUAL. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. LEGITIMAÇÃO.
+Ação de obrigação de fazer cumulada com indenizatória fundada na falta de acessibilidade da estação ferroviária de Coelho da Rocha ao 1º Autor portador de deficiência física extinta sem resolução do mérito por ilegitimidade ativa.
+Afasta-se a ilegitimidade ativa pois os Autores postulam direito subjetivo individual. Quanto ao pedido para obrigar a Apelada a adaptar a estação ferroviária às condições de acessibilidade, de acordo com o microssistema que rege a tutela coletiva, a ação coletiva não obsta o ajuizamento da ação individual com o mesmo objeto, pois impossível impedir o acesso ao Judiciário e o direito de a parte não se submeter aos efeitos da coisa julgada eventualmente formada naquela ação.
+Em julgamento sob a sistemática dos recursos repetitivos, no entanto, o E. Superior Tribunal de Justiça consolidou o entendimento no sentido da pertinência em suspender a ação individual quando ajuizada ação civil pública com o mesmo objeto de modo a garantir a efetividade e economia processual.
+Por fim, manifesta a absoluta distinção entre a causa de pedir nesta lide relativa a responsabilidade civil e indenização por transtornos gerados pela má prestação do serviço de transporte público e ação coletiva sobre o direito de acessibilidade nas estações ferroviárias, de modo que nada justifica a extinção do processo pela ilegitimidade da parte, tampouco suspender o feito em relação ao pleito indenizatório.
+Sentença cassada. Processo suspenso em relação ao pedido para obrigar a Apelada a adaptar a estação Coelho da Rocha às condições de acessibilidade até o julgamento da açãocoletiva e determinado o regular prosseguimento do feito quanto ao pedido indenizatório.
+Recurso provido.
+Embargos de declaração rejeitados (e-STJ fls. 174/175).
+Em suas razões, a parte recorrente aponta violação dos arts. 81, parágrafoúnico,e 104 do CDC edos arts. 313, V, "a", 927, III,e 1.022, II,do CPC/2015.
+Aduznegativa de prestação jurisdicional, e, no mérito, defendeque osrecorridosnão possuemlegitimidade ativa para propositura da ação que visa tutela de direito coletivo.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 244/247.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Com efeito, forçoso convir que incide a Súmula n. 284 do STF quando a parte recorrente limita-se a sustentar violação do art. 1.022, II, do CPC/2015 de forma genérica, sem especificar em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado (EDcl na Rcl 28.431/DF, rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 09/08/2017, DJe 16/08/2017).
+No mérito, o Tribunal de origem reformou a sentença e reconheceu a legitimidade dosautores, nos termos da seguinte motivação (e-STJ fls. 159/162):
+Ação de obrigação de fazer cumulada com indenizatória fundada na falta de acessibilidade da estação ferroviária de Coelho da Rocha ao 1ºApelante, portador de deficiência visual.
+Afasta-se a ilegitimidade ativa dos Apelantes para propositura da ação, pois postulam direito subjetivo individual relativamente ao pleito indenizatório.
+No tocante ao pedido para obrigar a Apelada a adaptar a estação Coelho da Rocha às condições de acessibilidade, ao contrário do registrado na sentença, as ações coletivas não obstam o ajuizamento da ação individual, pois impossível impedir o acesso ao Judiciário para discutir direito próprio, ainda que de natureza coletiva, certo que nos termos do artigo 104 do Código de Defesa do Consumidor, integrante do sistema de tutela coletiva nacional, a parte tem o direito de não se submeter aos efeitos da coisa julgada eventualmente formada na ação coletiva.
+ ..
+Por fim, manifesta a distinção entre a causa de pedir nesta lide relativa a responsabilidade civil e indenização por transtornos gerados pela má prestação do serviço de transporte público e a ação civil pública sobre o direito de acessibilidade nas estações ferroviárias, de modo que não se justifica a extinção do processo por ilegitimidade da parte, tampouco a suspensão do feito em relação ao pedido indenizatório.
+Nestes termos, dá-se provimento ao recurso para cassar a sentença e suspender o processo no tocante ao pedido para obrigar a Apelada a adaptar a estação ferroviária às condições de acessibilidade até o julgamento definitivo da ação coletiva e determinar o prosseguimento regular do feito quanto ao pleito indenizatório.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias no sentido da legitimidade ativa dosautores, demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, a teor da Súmula n. 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDORES PÚBLICO. LICENÇA-PRÊMIO. CÔMPUTO. PARA ABONO DE PERMANÊNCIA E POSTERIOR CONVERSÃO EM PECÚNIA.IMPOSSIBILIDADE. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. CUMPRIMENTO DA SENTENÇA. DECISÃO QUE JULGA IMPROCEDENTE E EXTINGUE A IMPUGNAÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO.INTERPOSIÇÃO DE APELAÇÃO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO APLICAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+ ..
+VII - Quanto à legitimidade ativa da parte exequente, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+VIII - Agravo interno improvido.(AgInt no REsp 1884189/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 31/05/2021, DJe 02/06/2021)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
