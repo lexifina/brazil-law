@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA NACIONAL AGRO INDUSTRIAL - COONAI contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, relatado pelo Des. ADÍLSON DE ARAÚJO, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INTERPOSIÇÃO DE DECISÃO QUE MANTEVE O PROSSEGUIMENTO DA PENHORA DO FATURAMENTO DA EXECUTADA E ORDENOU O DEPÓSITO DOS VALORES APURADOS.ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO NA SENTENÇA. NULIDADE. INOCORRÊNCIA.VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (CF), NÃO CONFIGURADA. RECURSO IMPROVIDO. Se a decisão agravada apresenta fundamentação suficiente para compreensão do convencimento do juiz que embasou o prosseguimento da penhora do faturamento, não padece de vício que a torne nula.
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INTERPOSIÇÃO DE DECISÃO QUE MANTEVE O PROSSEGUIMENTO DA PENHORA DO FATURAMENTO DA EXECUTADA E ORDENOU O DEPÓSITO DOS VALORES APURADOS.ALEGAÇÃO DE QUE A PENHORA INVIABILIZARÁ SUA ATIVIDADE. AUSÊNCIA DE COMPROVAÇÃO.
+RECURSO IMPROVIDO. Não é nova a alegação de falta de dinheiro em caixa e prejuízo de sua atividade caso mantida a penhora de faturamento, cuidando-se de mais uma tentativa de obstar o cumprimento da ordem judicial amplamente debatida e mantida anteriormente em ambos os graus de jurisdição.
+Nesse contexto, mera alegação de supostos atos ilícitos cometidos por seu funcionário sem prova cabal de que o prosseguimento da penhora de faturamento realmente inviabilizará o funcionamento da cooperativa não justifica a interrupção pretendida. A pandemia do COVID-19 é notória, mas suas consequências devem ser comprovadas caso a caso, não se admitindo solução genérica para abrandar a obrigação do devedor em detrimento do credor. Valeanotar que o pagamento de débitos trabalhistas não tem o condão de isentar a executada da penhora já determinada, mormente porque é dever da parte cumprir as determinações judiciais sob pena de sofrer as consequências legais da recusa deliberada. Assim, há de ser mantida a ordem de depósito dos valores da penhora de faturamento já apurados pelo administrador, na forma da decisão agravada(e-STJ, fls. 973/974).
+Inconformada, COONAIinterpôs recurso especial com base no art. 105, III, alíneas a, da CF, apontando a violação aos arts.489, § 1º, III e IV e 1.022, inciso II e parágrafo único II, do NCPC;ao sustentar, em síntese, negativa de prestação jurisdicional por omissão e ausência de fundamentação do aresto recorrido.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo (e-STJ, fls. 1.075/1.077).
+Nas razões do presente agravo, COONAI repisou as razões do recurso especial, sustentando a ocorrência de violação do arts. 489 e 1.022 do NCPC.
+Foiapresentada contraminuta (e-STJ, fls. 1.115/1.122).
+É o relatório.
+Decido.
+Para melhor examinar acontrovérsiasuscitada, CONHEÇO do agravo para determinar a sua autuação como recurso especial (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE FATURAMENTO.AGRAVO CONHECIDO. AUTUAÇÃO COMO RECURSO ESPECIAL.
