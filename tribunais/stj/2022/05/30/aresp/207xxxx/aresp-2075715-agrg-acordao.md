@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA ANALISADA EM HABEAS CORPUS ANTERIORMENTE DECIDIDO. FUNDAMENTO NÃO REBATIDO NO REGIMENTAL. SUM. 283/STF. DESPACHO DE INADMISSIBILIDADE. SÚMULAS 7 E 83 DO STJ. FUNDAMENTO INATACADO. SUM. 182/STJ.
+1. A decisão agravada destacou que a matéria aqui arguida - ocorrência de bis in idem na dosimetria - foi apreciada no julgamento do HC 712011/MS. Tal fundamento, contudo, não foi impugnado nas razões do regimental, o que atrai o óbice do Enunciado n. 283 da Súmula do STF.
+2. Inadmitido o recurso especial em face da incidência das Súmulas 7 e 83 do STJ, deixou o agravante de impugnar o segundo fundamento, atraindo a incidência da Súm. 182 do STJ.
+3. Nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe 19/2/2020).
+4. Agravo regimental não conhecido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão que, com base na Súm. n. 182/STJ, não conheceu do agravo em recurso especial interposto por LUIS ANTÔNIO GUGEL, condenado a 5 (cinco) anos de reclusão, em regime inicial fechado, mais 500 (quinhentos) dias-multa, por infração ao art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do regimental, afirma que foram impugnados todos os fundamentos da decisão agravada e que o recurso especial preenche os requisitos para seu conhecimento e julgamento pelo STJ.
+Reitera a alegação de contrariedade aos arts. 33, 44, 59 e 69 do Código Penal, sustentando a ocorrência de bis in idem pois foi sopesada a moduladora da quantidade da droga como fundamento para exasperação da pena-base, para negar o benefício do tráfico privilegiado, bem como para fixar o regime prisional fechado.
+Pugna, ao final, pela reconsideração da decisão ou seja o feito submetido à apreciação da turma julgadora provendo o recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo não comporta conhecimento.
+Isto porque a decisão agravada destacou que a matéria aqui arguida - ocorrência de bis in idem na dosimetria - foi apreciada no julgamento do HC 712011/MS. Tal fundamento, contudo, não foi impugnado nas razões do regimental, o que atrai o óbice do Enunciado n. 283 da Súmula do STF.
+No mais, inadmitido o recurso especial em face da incidência das Súmulas 7 e 83 do STJ, deixou o agravante de impugnar o segundo fundamento, atraindo a incidência da Súm. 182 do STJ.
+Vale destacar que, nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe 19/2/2020)
+Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Inadmitido o apelo extremo com base no verbete sumular n. 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+3. O entendimento desta Corte Superior é o de que "a incidência da Súmula n. 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+4. Nos termos da orientação desta Casa, "a confissão, ainda que parcial, ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para fins de atenuar a pena" (HC n. 350.956/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/8/2016, DJe 15/8/2016).
+5. Agravo regimental desprovido. Concessão de habeas corpus de ofício. (AgRg no AREsp 1814381/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/04/2022, DJe 02/05/2022)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME PRATICADO EM CONCURSO DE AGENTES. CULPABILIDADE EXACERBADA. INCREMENTO DA PENA-BASE. POSSIBILIDADE. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. APLICAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. A circunstância de o réu ter-se unido a outras pessoas com o objetivo de cometer crime permite a valoração negativa da circunstância judicial da culpabilidade na primeira fase da dosimetria da pena.
+4. Agravo regimental desprovido. (AgRg no AREsp 1805103/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 05/04/2022, DJe 11/04/2022)
+Não é demais lembrar que a matéria aqui arguida foi apreciada no julgamento do HC n. 712011/MS, oportunidade em que destaquei:
+Dessa forma, extrai-se que o regime inicial fechado foi estabelecido com base na expressiva quantidade da droga apreendida - 188kg de maconha -, critério que também foi sopesado para fixar as penas, fundamento idôneo e suficiente para o recrudescimento, a teor do disposto no art. 33, §§ 2º e 3º, do Código Penal, c/c o 42 da Lei n. 11.343/2006.
+Afinal, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a valoração negativa da quantidade e natureza dos entorpecentes são fatores suficientes para a determinação do regime inicial de cumprimento da pena privativa de liberdade, independentemente de tais fatores terem sido utilizados, ou não, para exasperar a pena-base ou modular o redutor.
+Diante do exposto, não conheço do agravo regimental.
+É como voto.
