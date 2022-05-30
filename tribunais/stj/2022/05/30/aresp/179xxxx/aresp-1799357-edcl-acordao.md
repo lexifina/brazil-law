@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  NECINHA  SANTOS  MOURA  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RESPONSABILIDADE  CIVIL.  AUTARQUIA  MUNICIPAL.  AÇÃO  DE  INDENIZAÇÃO.  QUEDA  EM  VIA  PÚBLICA.  FRATURAS  MÚLTIPLAS.  PROVAS.  INSUFICIÊNCIA.  REEXAME.  SÚMULA  Nº  7/STJ.  ART.  1.022  DO  CPC/2015.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  No  caso,  a  Corte  local  reconheceu  que  a  prova  produzida  nos  autos  é  insuficiente  para  demonstrar  a  conduta  da  agravada  como  causadora  da  queda  sofrida  pela  autora.
+4.  Na  hipótese,  a  reforma  do  acórdão  proferido  na  origem,  tal  como  pretendida  pela  agravante,  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  vedado  na  estreita  via  do  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido"  (fl.  377,  e-STJ).
+Em  suas  razões,  a  embargante  alega  que  o  acórdão  do  Superior  Tribunal  de  Justiça  deixou  de  apreciar  aspectos  relevantes  ao  deslinde  da  controvérsia  e  que  acarretaram  a  incidência  do  óbice  da  Súmula  nº  7/STJ.
+Insiste  no  argumento  de  que  defeituosa  a  recomposição  do  asfalto,  sendo  " (..)  inequívoco  o  reconhecimento  da  responsabilidade  da  Ré,  não  havendo  que  se  falar  na  necessidade  de  revolvimento  do  conteúdo  fático  probatório"  (fl.  387,  e-STJ).
+Postula,  ao  final,  o  acolhimento  dos  aclaratórios  a  fim  de  sanar  as  omissões  apontadas.
+Devidamente  intimada,  a  parte  impugnou  o  recurso  às  fls.  392-395  (e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC/2015.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.  AÇÃO  DE  INDENIZAÇÃO.  QUEDA  EM  VIA  PÚBLICA.  FRATURAS  MÚLTIPLAS.  RESPONSABILIDADE  CIVIL  DO  ESTADO.  PROVAS.  INSUFICIÊNCIA.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Na  hipótese,  o  acordão  estadual  consignou  que  a  prova  produzida  nos  autos  é  insuficiente  para  demonstrar  a  conduta  da  agravada  como  causadora  da  queda  sofrida  pela  autora.
+3.  No  caso,  o  acolhimento  da  pretensão  da  embargante,  a  fim  de  reformar  o  acórdão  estadual,  demandaria  o  reexame  de  matéria  fático-probatória,  procedimento  inviável  em  recurso  especial  em  virtude  do  disposto  na  Súmula  nº  7/STJ.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Com  efeito,  verifica-se  que  as  questões  suscitadas  não  constituem  omissão  ou  contradição,  mas  mero  inconformismo  com  os  fundamentos  adotados  pelo  órgão  colegiado,  o  que  inviabiliza  o  seu  exame  no  atual  momento  processual.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  de  2015,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprir  omissão  de  ponto  ou  questão  acerca  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  artigo  489,  §  1º,  do  CPC/2015,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+No  caso  dos  autos,  a  embargante  reafirma  as  alegações  apresentadas  no  agravo  interno  e  sustenta  que  o  acórdão  desta  Corte  Superior  incorreu  em  omissão  ao  deixar  de  enfrentar  as  teses  suscitadas.
+Todavia,  não  há  omissão  a  ser  sanada.
+De fato,  o  acórdão  embargado  ressaltou  que  não  houve  comprovação  de  nexo  causal  necessário  para  imputar  à  Administraçã  o  Pública  a  responsabilidade  pelo  evento  danoso.
+A  propósito,  confira-se  a  seguinte  passagem  do  acórdão  combatido:
+"(..)
+Narra  a  autora  que  no  dia  anterior  ao  da  ocorrência,  ou  seja,  em  28.01.2016,  funcionários  do  SEMAE  estiveram  em  frente  ao  local  do  acidente  para  promover  reparos,  ao  que  supõe  a  autora  em  razão  de  vazamentos  que  ali  ocorriam,  de  modo  que  realizaram  "escavação  profunda"  (fl.  79)  na  via.  Assim  sendo,  em  29.01.2016,  ao  transitar  pelo  local,  a  terra  que  cobrir  o  local  cedeu,  vindo  a  sofrer  fraturas  em  seu  pé  esquerdo,  como  demonstra  a  documentação  juntada  aos  autos  (fls.  24/26,  29/30,  35/45).
+O  réu  instaurou  sindicância  por  meio  do  Processo  nº  000445/2016  para  apurar  possíveis  danos  causados  à  autora,  ao  qual  chegou  à  conclusão  de  ausência  de  vício  na  prestação  do  serviço  por  parte  da  autarquia  (fls.  76/112).
+A  prova  produzida  nos  autos  é  insuficiente  para  demonstrar  a  conduta  da  ré  efetivamente  causadora  da  queda  sofrida  pela  autora.  As  imagens  juntadas  pela  autora  às  fls.  20/23  não  demonstram  o  local  com  terra  onde  teria  ocorrido  a  queda  e  sequer  indicam  o  logradouro  do  Município  de  Piracicaba.  As  margens  indicam,  na  verdade,  a  ação  de  recomposição  asfáltica,  sem  que  se  tenha  dimensão  do  suposto  desnível  que  propiciou  as  fraturas  no  pé  da  autora.
+(..)
+Não  há  comprovação  do  nexo  causal  necessário  para  imputar  à  Administração  Pública  responsabilidade  pelo  evento"  (fls.  274-275,  e-STJ).
+Dessa  maneira,  não  é  possível  ao  Superior  Tribunal  de  Justiça  reexaminar  o  entendimento  exarado  na  origem,  porquanto  teria  que,  necessariamente,  rever  o  contexto  fático-probatório  dos  autos,  procedimento  inviável  nesta  via  extraordinária,  consoante  disposto  na  Súmula  nº  7/STJ.
+Nesse  contexto,  não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem,  ainda  que  por  argumentos  distintos  daqueles  apresentados  pelas  partes,  adota  fundamentação  suficiente  para  decidir  integralmente  a  controvérsia.
+Sobre  o  tema:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  AÇÃO  DE  COBRANÇA.  AQUISIÇÃO  DE  GADO.  EMBRIÃO  DE  SEMOVENTE.  FALECIMENTO  POR  PROBLEMAS  CONGÊNITOS.  EXCEÇÃO  DE  CONTRATO  NÃO  CUMPRIDO.  NÃO  CONFIGURAÇÃO.  ADIMPLÊNCIA  DA  OUTRA  PARTE.  TRIBUNAL  A  QUO.  COMPROVAÇÃO  DO  DEFEITO  GENÉTICO.  ÔNUS  DA  PROVA  DE  FATO  IMPEDITIVO,  MODIFICATIVO,  EXTINTIVO  DO  DIREITO  DO  AUTOR,  DO  QUAL  O  RÉU,  ORA  AGRAVANTE,  NÃO  SE  DESINCUMBIU.  REVERSÃO  DO  JULGADO.  IMPOSSIBILIDADE.  INCIDÊNCIA  DAS  SÚMULAS  5  E  7/STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  O  Tribunal  de  origem,  à  luz  dos  princípios  da  livre  apreciação  da  prova  e  do  livre  convencimento  motivado,  bem  como  mediante  análise  do  contexto  fático-probatório  dos  autos,  afirmou  expressamente  que  o  recorrente  não  se  desincumbiu  do  seu  ônus  probatório,  quanto  à  alegação  do  descumprimento  do  contrato  pelos  recorridos,  e  que  os  autores,  ora  agravados,  comprovaram  a  existência  de  problemas  congênitos  do  animal.
+2.  A  modificação  do  entendimento  lançado  no  v.  acórdão  recorrido  demandaria  interpretação  de  cláusulas  contratuais  e  revolvimento  de  suporte  fático-probatório  dos  autos,  o  que  é  inviável  em  sede  de  recurso  especial,  a  teor  do  que  dispõem  as  Súmulas  5  e  7  deste  Pretório.
+3.  Agravo  interno  não  provido"  (AgInt  no  AREsp  876.079/PR,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  18/8/2016,  DJe  8/9/2016).
+Desse  modo,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Nesse  sentido:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REQUISITOS  DO  ART.  1.022  E  INCISOS  DO  CPC  DE  2015.  OMISSÃO  NÃO  CONSTATADA.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Depreende-se  do  artigo  1.022,  e  seus  incisos,  do  novo  Código  de  Processo  Civil  que  os  embargos  de  declaração  são  cabíveis  quando  constar,  na  decisão  recorrida,  obscuridade,  contradição,  omissão  em  ponto  sobre  o  qual  deveria  ter  se  pronunciado  o  julgador,  ou  até  mesmo  as  condutas  descritas  no  artigo  489,  parágrafo  1º,  que  configurariam  a  carência  de  fundamentação  válida.  Não  se  prestam  os  aclaratórios  ao  simples  reexame  de  questões  já  analisadas,  com  o  intuito  de  meramente  dar  efeito  modificativo  ao  recurso.
+2.  A  parte  embargante,  na  verdade,  deseja  a  rediscussão  da  matéria,  já  julgada  de  maneira  inequívoca.  Essa  pretensão  não  está  em  harmonia  com  a  natureza  e  a  função  dos  embargos  declaratórios  prevista  no  art.  1.022  do  CPC.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  874.797/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  4/8/2016,  DJe  9/8/2016).
+"PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  RECURSO  INTERPOSTO  SOB  A  ÉGIDE  DO  CPC/2015.  OBSCURIDADE,  CONTRADIÇÃO,  OMISSÃO  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.
+1.  Rejeitam-se  os  embargos  declaratórios  quando,  no  acórdão  embargado,  não  há  nenhum  dos  vícios  previstos  no  art.  1.022  do  CPC/2015.
+2.  Embargos  de  declaração  rejeitados  com  aplicação  de  multa"  (EDcl  no  RCD  nos  EDcl  nos  EDcl  no  AgRg  no  AREsp  471.799/RJ,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  TERCEIRA  TURMA,  julgado  em  18/8/2016,  DJe  24/8/2016).
+Ademais,  ressalta-se  que  a  motivação  contrária  ao  interesse  da  parte  ou  mesmo  omissa  em  relação  a  pontos  considerados  irrelevantes  pelo  julgador  não  autoriza  o  acolhimento  dos  declaratórios.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
