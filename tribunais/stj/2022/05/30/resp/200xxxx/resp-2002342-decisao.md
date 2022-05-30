@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIELA TORRES SILVESTRI, com respaldona alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja controvérsia gira em torno do termo inicial do auxílio-acidente antecedido de auxílio-doença.
+Passo a decidir.
+A questão, objeto do apelo extremo, foi submetida à Primeira Seção dessa Corte Superior para ser julgada pela sistemática dos recursos repetitivos no julgamento do REsp 1.729.555/SP e REsp 1.786.736/SP, pela sistemática dos recursos repetitivos (Tema 862).
+Na ocasião, o Colegiado, por maioria, vencido este relator, fixou a tese de que "otermo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei n. 8.213/1991, observando-se a prescrição quinquenal da Súmula 85 do STJ" (REsp1.729.555/SP, relatora a Ministra Assusete Magalhães, julgado em 09/06/2021, DJe de 1º/07/2021).
+O referido julgado foi assim ementado, no que interessa:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA DE NATUREZA REPETITIVA. AUXÍLIO-ACIDENTE DECORRENTE DA CESSAÇÃO DO AUXÍLIO-DOENÇA. FIXAÇÃO DO TERMO INICIAL. PRECEDENTES DO STJ FIRMADOS À LUZ DA EXPRESSA PREVISÃO LEGAL DO ART. 86, § 2º, DA LEI 8.213/91. TESE FIRMADA SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 1.036 E SEGUINTES DO CPC/2015. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+ ..
+II. A controvérsia em apreciação cinge-se à fixação do termo inicial do auxílio-acidente, decorrente da cessação do auxílio-doença, na forma dos arts. 23 e 86, § 2º, da Lei 8.213/91.
+III. O art. 86, caput, da Lei 8.213/91, em sua redação atual, prevê a concessão do auxílio-acidente como indenização ao segurado, quando, "após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia".
+IV. Por sua vez, o art. 86, § 2º, da Lei 8.213/91 determina que "o auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria".
+V. Assim, tratando-se da concessão de auxílio-acidente precedido do auxílio-doença, a Lei 8.213/91 traz expressa disposição quanto ao seu termo inicial, que deverá corresponder ao dia seguinte ao da cessação do respectivo auxílio-doença, pouco importando a causa do acidente, na forma do art. 86, caput e § 2º, da Lei 8.213/91, sendo despiciendo, nessa medida, para essa específica hipótese legal, investigar o dia do acidente, à luz do art. 23 da Lei 8.213/91.
+VI. O entendimento do STJ - que ora se ratifica - é firme no sentido de que o auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, mas, inexistente a prévia concessão de tal benefício, o termo inicial deverá corresponder à data do requerimento administrativo. Inexistentes o auxílio-doença e o requerimento administrativo, o auxílio-acidente tomará por termo inicial a data da citação.  ..
+VII. Prevalece no STJ a compreensão de que o laudo pericial, embora constitua importante elemento de convencimento do julgador, não é, como regra, parâmetro para fixar o termo inicial de benefício previdenciário.
+ ..
+VIII. Tese jurídica firmada: "O termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei 8.213/91, observando-se, se for o caso, a prescrição quinquenal de parcelas do benefício."
+ ..
+X. Recurso julgado sob a sistemática dos recursos especiais representativos de controvérsia (art. 1.036 e seguintes do CPC/2005 e art. 256-N e seguintes do RISTJ). (REsp n. 1.729.555/SP e REsp n. 1.786.736/SP, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgados em 09/06/2021, DJe 01/07/2021) (Grifos acrescidos).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
