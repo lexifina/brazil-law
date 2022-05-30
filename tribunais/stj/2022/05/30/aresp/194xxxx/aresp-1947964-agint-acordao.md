@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO DPVAT. VALOR DO PAGAMENTO. PERCENTUAL DA LESÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+VILMAR ALVES DA COSTA (VILMAR) promoveu ação de cobrança contra da SEGURADORA LIDER DOCONSORCIODO SEGURO DPVAT S.A. (SEGURADORA), alegando que, em razão de acidente de trânsito, sofreu fraturas e lesões de alta intensidade que lhe acarretaram sequelas definitivas, tendo incapacidade funcional permanente, bem como o direito ao recebimento da indenização correspondente a 100% do valor indicado no art. 3º, inciso II, da Lei nº 6.194/74.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar ao pagamento do valor de R$ 6.750,00 (seis mil, setecentos e cinquenta reais), acrescido de correção monetária, bem como das custas e despesas do processo, bem ainda em honorários advocatícios da parte contrária arbitrados em 20% do valor da condenação (e-STJ, fls. 332/334).
+A apelação interposta pela SEGURADORA não foi provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão da relatoria do Desembargadora LÍGIA ARAÚJO BISOGNI, assim ementado:
+AÇÃO DE COBRANÇA Indenização de seguro DPVAT Laudo realizado por perito do IMESC que concluiu que o autor apresenta comprometimento patrimonial físico estabelecido em 50% segundo tabela DPVAT e obtido pelo cálculo Fluência da correção monetária da indenização a partir do evento danoso - Súmula 580 do E. STJ Precedentes desta Egrégia 34ª Câmara D. Privado Verba honorária mantida Sentença mantida Recurso não provido (e-STJ, fl. 376).
+Irresignada, a SEGURADORA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação do art. 3º, § 1º, da Lei nº 6.194/1974, ao sustentar que (1) a indenização do seguro DPVAT deve ser proporcional à lesão sofrida para os casos de invalidez permanente, devendo ser considerado tanto o segmento do corpo humano afetado quanto grau de extensão da perda anatômica e/ou funcional, o que foi ignorado no caso em comento; e(2) indicou dissídio em relação ao tema (e-STJ, fls. 382/402).
+Foram apresentadas as contrarrazões (e-STJ, fls. 436/461).
+O apelo nobre não foi admitido em virtude de (1) ser aplicável a Súmula nº 7 do STJ; e (2) ausência de comprovação do dissídio (e-STJ, fls. 468/470).
+O agravo em recurso especial daí decorrente foi conhecido para não conhecer do recurso especial em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. APELAÇÃO. AÇÃO DE COBRANÇA. SEGURO DPVAT. VALOR DO PAGAMENTO. PERCENTUAL DA LESÃO. NECESSIDADE DE ANÁLISE DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 522 - com destaque no original).
+Nas razões do presente agravo interno, a SEGURADORA, repisando os argumentos das razões recursais, alegou a ausência de violação da Súmula nº 7 do STJ, por não haver necessidade de reexame dos fatos e das provas.
+Não houve impugnação ao recurso (e-STJ, fl. 538).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO DPVAT. VALOR DO PAGAMENTO. PERCENTUAL DA LESÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Na hipótese, a decisão recorridaconsignou, em relação a alegação de que a indenização do seguro DPVAT deve ser proporcional à lesão sofrida para os casos de invalidez permanente, que o Tribunal local afirmou que o laudo pericial realizado pelo IMESC concluiu que o autor "apresenta perda parcial funcional incompleta de membro inferior direito de média repercussão, consoante se vê dos seguintes trechos:
+A alegação do autor é no sentido de que, em 23 de agosto de2014, em decorrência de acidente de trânsito na direção de veículo automotor, foi vítima de lesão corporal de natureza grave, fazendo jus ao recebimento de indenização por invalidez permanente.
+Pretendeu o autor a indenização no valor R$ 13.500,00 (treze mil e quinhentos reais), sob a alegação de incapacidade total.
+Todavia, o laudo pericial realizado pelo IMESC concluiu que o autor "apresenta perda parcial funcional incompleta de membro inferior direito de média repercussão, portanto, conforme Lei nº6194/74, faz jus a indenização no valor de 50% da importância segurada" (fls. 271).
+Aliás, tal porcentagem restou confirmada pelo laudo complementar de fls. 309/315, portanto, conforme atestou o perito, a condenação final imposta à ré foi somente da quantia de R$ 6.750,00 (e-STJ, fl. 377).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. PERCENTUAL DA INDENIZAÇÃO EQUIVALENTE AO DANO PERCEBIDO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Nos termos da Súmula 474/STJ, "A indenização do seguro DPVAT, em caso de invalidez parcial permanente do beneficiário, será paga de forma proporcional ao grau da invalidez".
+2. O eg. Tribunal de origem concluiu que o ora agravante sofreu "dano corporal parcial incompleto de grau leve" no tórax, devendo receber indenização securitária parcial e proporcional ao referido dano. A pretensão de alterar tal entendimento, para entender que o dano torácico seria total e ensejaria indenização integral, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula 7/STJ.
+3. A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.402.598/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 23/4/2019, DJe 22/5/2019)
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE CORREÇÃO MONETÁRIA SOBRE O VALOR PAGO DO SEGURO DPVAT. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. RESP 1.483.620/SC. CORREÇÃO MONETÁRIA. PAGAMENTO CONFORME O PRAZO LEGAL DE 30 DIAS. INCIDÊNCIA AFASTADA. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Ação de cobrança de correção monetária sobre o valor pago do Seguro DPVAT.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reconhecimento do prequestionamento pressupõe que a parte recorrente, após o manejo dos embargos de declaração na origem, também aponte nas razões do recurso especial violação ao art. 1022 do CPC/2015 por negativa de prestação jurisdicional, o que não ocorreu na espécie.
+4. Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a apelante não comprovou o transcurso do prazo de 30 (trinta) dias entre o pedido administrativo e a concessão do valor segurado pela ré"; e que "todos os requisitos para o pagamento do seguro foram observados pela apelada/requerida" (e-STJ fl. 140), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+5. O REsp 1.483.620/SC (2ª Seção, DJe de 02/06/2015), julgado sob o rito dos recursos repetitivos, fixou a tese de que "a incidência de atualização monetária nas indenizações por morte ou invalidez do seguro DPVAT, prevista no § 7º do art. 5º da Lei n. 6194/74, redação dada pela Lei n 11.482/2007, opera-se desde a data do evento danoso."
+6. O §7º do art. 5º da Lei 6.194/74, dispositivo legal indicado na referida tese afirma expressamente quanto à incidência da correção monetária que "os valores correspondentes às indenizações, na hipótese de não cumprimento do prazo para o pagamento da respectiva obrigação pecuniária, sujeitam-se à correção monetária segundo índice oficial regularmente estabelecido".
+7. O TJ/SE, ao entender que "somente no caso de a seguradora proceder ao pagamento administrativo do seguro após o decurso do prazo de 30 dias da entrega dos documentos necessários pelo segurado é que se configurará a mora a ensejar, dentre outros, a correção monetária cuja contagem retrocederá à data do evento danoso" (e-STJ fl. 140), conforme estabelecido pelo REsp 1.483.620/SC (2ª Seção, DJe de 02/06/2015), alinhou-se ao entendimento do STJ.
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+9. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1.815.106/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 15/6/2020, DJe 18/6/2020)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
