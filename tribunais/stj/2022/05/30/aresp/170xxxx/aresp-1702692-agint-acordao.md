@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por GUILHERME FONTES BARRETO, contra decisão de fls. 239/241, e-STJ proferida pela Presidência desta Corte Superior, que negou provimento ao agravo em recurso especial.
+Em suas razões, o agravante pretende o afastamento da Súmula 7/STJ, porquanto a modificação das conclusões adotadas pela Corte estadual acerca da negativa de gratuidade judiciária não implicaria em reexame de matéria fática ou probatória.
+Intimada, a parte agravada apresentou impugnação (fls. 259/266, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CONFIGURADA. GRATUIDADE JUDICIÁRIA. REEXAME DA PROVA. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n.
+7/STJ).
+2. A incidência da Súmula 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece provimento.
+Os argumentos jurídicos trazidos nas razões do presente agravo não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida:
+Trata-se de agravo apresentado por GUILHERME FONTES BARRETO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO INTERLOCUTÓRIA QUE INDEFERE O BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. APLICAÇÃO DO DISPOSTO NO ART.99, §2" DO CPC. ELEMENTOS QUE EVIDENCIAM AUSÊNCIA DOS PRESSUPOSTOS LEGAIS DE CONCESSÃO DA BENESSE. INDEFERIMENTO QUE SE IMPÕE.
+I - Nos termos do art. 98 do CPC a pessoa física ou jurídica com insuficiência de recursos pode requerer, por direito, à gratuidade da Justiça na forma da lei, através de simples petição, nos autos do próprio processo.
+II - O Juiz, no entanto, poderá indeferir o pedido se houverem elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade (art. 99, §2º do CPC).
+III - Caso em que orecorrente, instado a comprovar sua hipossuficiência pelo Juízo de Origem, não se dignou a fazê-lo, ajuizando o recurso a superior instância onde também não fez prova de sua carência financeira, ensejando a confirmação do indeferimento do benefício pleiteado.
+Recurso conhecido e desprovido. Decisão unânime. (fls. 114/115)
+Quanto à controvérsia, alega violação dos arts. 98, 99, §§ 2º e 3º, do CPC, bem como divergência jurisprudencial, no que concerne à necessidade de concessão da gratuidade da justiça, trazendo os seguintes argumentos:
+O juízo de piso, de ofício e sem embasamento probatório algum, afirmou que os documentos colacionados pelo Recorrente não serviriam para comprovar sua condição de miserabilidade, visto que, ao seu entender, apenas a juntada das declarações de imposto de renda ou extratos bancários seriam aptos a tal pleito.
+Ainda que devidamente expostas pelo Recorrente as suas razões para que fosse beneficiado pela gratuidade de justiça, destacando a crise financeira que atesta o agronegócio e sendo esta sua fonte de sobrevivência, o d. Julgador de piso entendeu por indeferir o pedido de gratuidade de justiça.
+ ..  In casu, ilustres Ministros, o Recorrente é um empresário que extrai por meio de sua atividade, com muito esforço, o sustento de si próprio e de sua família (educação, alimentação, saúde, lazer, energia, água, combustível, internet, condomínio etc.). Ou seja, a escassa e comprometida renda provinda dos lucros/faturamento do Recorrente é responsável tanto pela manutenção do negócio, como também da dignidade e sobrevivência de toda a família.
+Demais disso, evidente que o Recorrente não possui condições de arcar com as despesas processuais para o exercício do seu direito fundamental de defesa, conforme se comprova pela própria natureza da demanda de origem (Execução nº 201711801759), em que demonstra a insuficiência de recursos disponíveis e as execuções sofridas decorrentes da frustrada atividade comercial que exercia a época das contratações dos empréstimos.
+É de se salientar, oportunamente, que o Recorrente não é obrigado a tornar público as declarações de imposto de renda, tampouco os extratos da sua conta corrente, notadamente porque protegidas por sigilo constitucional, entretanto, assim o fez com relação às suas contas bancárias, de modo a atestar a sua insuficiência de recursos.
+Ante tais argumentos, a arquitetura hermenêutica para negar o direito constitucional e federal a este Recorrente afronta aos princípios básicos para a manutenção do Estado que se diga democrático e de direito, devendo este Colendo Tribunal desconstituir o julgado viciado, a fim de que seja reformada no sentido de conceder o benefício da justiça gratuita com fulcro nos arts. 98, 99, §§2 º e 3º, e seguintes do Código de Processo Civil, sob pena de violação ao direito a acesso à justiça e ampla defesa. (fls. 130/138)
+É o relatório. Decido.
+Quanto à controvérsia pela alínea "a", incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório. Incidência da súmula 7/STJ (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 16/8/2016).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/3/2019; AgInt no AREsp 842.261/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 8/3/2018; AgInt no AREsp 1.297.646/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 5/8/2019.
+Quanto à controvérsia pelo dissídio jurisprudencial, não se revela cognoscível a interposição do apelo nobre com base na alínea "c", do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição de ementas, sendo absolutamente indispensável o efetivo cotejo analítico entre o aresto impugnado e os acórdãos paradigmas, declinados ao exame da identidade ou similitude fática entre estes, nos moldes legais e regimentais, mister não desincumbido pelo postulante no caso em apreço.
+Na mesma direção, já se pronunciou o Superior Tribunal de Justiça: "É entendimento pacífico do STJ que a parte deve proceder ao cotejo analítico entre os julgados confrontados e transcrever trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente a mera transcrição de ementas. (AgInt no AREsp n. 945.538/AL, relator Ministro Marco Buzzi, Quarta Turma, DJe 20/11/2017).
+Nesse sentido, os seguintes julgados: AgInt nos EREsp 1.416.320/SE, relatora Ministra Regina Helena Costa, Primeira Seção, DJe 27/2/2019; AgInt nos EAREsp 407.728/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe 18/4/2018; AgRg no AREsp 692.989/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/2/2019; AgInt nos EAREsp 313.624/MG, relator Ministro Francisco Falcão, Corte Especial, DJe 28/9/2018; e AgRg nos EAREsp 1.061.728/PE, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe 15/8/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Reafirmo a decisão agravada no sentido de que a revisão das conclusões do acórdão recorrido quanto ao indeferimento da gratuidade judiciária exigiria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+Nesse panorama, a incidência da Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
