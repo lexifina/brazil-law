@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por COOPERATIVA AGROINDUSTRIAL ALFA contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos dos artigos 21-E, V, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), porquanto a parte agravante absteve-se de impugnar o único fundamento da decisão agravada, a qual foi proferida nos seguintes termos (e-STJ fls. 276/278):
+ ..
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+ ..
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+ ..
+Não foram opostos embargos de declaração.
+Sustenta a parte agravante que (e-STJ fls. 281/286):
+ ..  entende que não apreciar a ascensão do Recurso Especial, ao menos por violação à Lei Federal, é um equívoco.
+ ..
+Entendemos que a Recorrente fez a sua parte no momento oportuno, ingressando com a demanda executiva dentro do prazo processual. Não conseguiu obter bens passíveis de penhora, porém, requereu o arquivamento administrativo do feito, para posterior retomada.
+Percebe-se que a Agravante não foi omissa em buscar o seu direito, uma vez que usou de todos os meios para dar seguimento ao regular andamento processual.
+Em uma análise mais profunda, conclui-se que a devedora se utilizou da inexistência de bens para obter a quitação integral da dívida.
+Pelo fato de a empresa Recorrente não ter sido intimada antes de o Juiz extinguir o feito, entendemos que não é caso de aplicação da prescrição intercorrente.
+Diferentemente do alegado na decisão agravada, houve impugnação ao art. 485, II e III e § 1º dá conta da alegada violação à Lei Federal.
+Ora, o dispositivo acima prevê que cabe ao Juiz intimar pessoalmente a parte para, no prazo de 05 dias, suprir a falta.
+No caso dos autos, a Apelante não foi intimada do arquivamento administrativo, para dar andamento ao feito.
+Essa violação, sem sombra de dúvidas é caso típico de afronta à Lei Federal, conforme prevê o art. 105, III, "a" da Constituição da República.
+Ante a esse exposto, entende-se que preenchidos os requisitos necessários à análise da matéria de direito levantada no Recurso Especial Interposto, o que viabiliza a admissibilidade da presente irresignação.
+ ..
+Diante desse breve exposto, percebemos que é norma intimar pessoalmente a parte para dar andamento ao processo, para, em caso de inércia, posterior extinção do feito.
+No caso dos autos, reitera-se que não houve a prévia notificação da Apelante para dar andamento ao processo, sob pena de extinção dele.
+Assim, entendemos que houve clara violação de Lei Federal, o que viabilizaria o Recurso Especial interposto, além do fato de que a empresa vem amargando prejuízos financeiros com o não recebimento desses haveres, aliado ao fato de que vive uma insegurança jurídica pela não admissibilidade do seu recurso.
+ ..
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 280/286).
+A Coordenadoria de Processamento de Feitos de Direito Privado desta Corte Superior certificou que " ..  não foi aberta vista para impugnação ao agravo interno, uma vez que a parte agravada está sem representação nos autos  .. " (e-STJ fl. 288).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do estatuto processual civil de 2015. Precedentes.
+3. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a aplicação do verbete sumular n. 182 do Superior Tribunal de Justiça não foi combatida nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 (correspondentes aos artigos 544, § 4º, I, e 545 do Código de Processo Civil de 1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão.
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga o Superior Tribunal de Justiça a conhecer de todos os fundamentos do recurso especial.
+Confira-se a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - sem destaques no original).
+Nessa mesma linha de raciocínio, o seguinte precedente que elucida a aplicação do verbete sumular n. 182 desta Corte Superior, neste caso, ante a ausência de impugnação específica de todos os pontos analisados na decisão recorrida, no que diz respeito ao agravo interno interposto:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE COMPRA E VENDA. DECADÊNCIA. INAPLICABILIDADE. LESÃO. PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. RETORNO AO STATUS QUO ANTE. AGRAVO INTERNO SEM IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE.
+ ..
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018).
+3. Idêntico raciocínio, por critério lógico, deve ser utilizado no julgamento do agravo interno interposto contra decisão em sede de agravo em recurso especial, máxime porque os argumentos do recurso colegiado devem impugnar justamente a temática dos pressupostos de admissibilidade apreciados no decisum unilateral, pressupostos estes, conforme salientado alhures, inseparáveis por natureza.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt no AREsp n. 1.144.143/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 1º/7/2019 - sem destaques no original).
+Em face do exposto, não conheço do agravo interno.
+É como voto.
