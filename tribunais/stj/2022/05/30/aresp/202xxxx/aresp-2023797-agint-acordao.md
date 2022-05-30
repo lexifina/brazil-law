@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BASE DE CÁLCULODOS VALORES DEVIDOS. COISA JULGADA. REDISCUSSÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ.AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciaçãomanifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489, § 1º, IV, e 1.022 do CPC/2015.
+2. É entendimento desta Corte Superior que, "na fase de cumprimento de sentença, não se admite a rediscussão das matérias decididas no título judicial, sob penas de violação à coisa julgada." (AgInt no AREsp 1259494/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020)."
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BRADESCO VIDA E PREVIDÊNCIA S/A, inconformada com a decisão de fls. 277/280, que conheceu do agravo para não conhecer do recurso especial, em razão da ausência de violação aos arts. 489, § 1º, IV, e 1.022, I, do CPC/2015 e incidência da Súmula 83/STJ.
+Em suas razões, a agravante aponta que não cabia o julgamento monocrático do presente feito, reiterando que o acórdão foi omisso ao não apreciar corretamente a controvérsia e os argumentos suscitados nos autos referentes à necessidade de observar que o beneficio de invalidez corresponde a 30% do salário nominal do participante. Acrescenta que é prevista a dedução de imposto de renda e que não se aplica a Súmula 83/STJ, porque não configura ofensa à coisa julgada se o título possibilita mais de uma interpretação. Por fim, afirma ser cabível a impugnação de erros claros nos cálculos que embasaram o cumprimento de sentença.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BASE DE CÁLCULO DOS VALORES DEVIDOS. COISA JULGADA. REDISCUSSÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489, § 1º, IV, e 1.022 do CPC/2015.
+2. É entendimento desta Corte Superior que "na fase de cumprimento de sentença, não se admite a rediscussão das matérias decididas no título judicial, sob penas de violação à coisa julgada." (AgInt no AREsp 1259494/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020)."
+3. Agravo interno desprovido.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.023.797 - MS (2021/0360326-3)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+BRADESCO VIDA E PREVIDÊNCIA S/A
+ADVOGADOS
+:
+RENATO CHAGAS CORRÊA DA SILVA - MS005871
+GAYA LEHN SCHNEIDER PAULINO - MS010766
+AGRAVADO
+:
+SELMA SILVA FERREIRA
+ADVOGADOS
+:
+TATIANA ALBUQUERQUE CORREA KESROUANI - MS005758
+ROSANA SILVA PEREIRA - MS011100
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Em que pese a irresignação, não se verifica omissão no acórdão de origem, na medida em que adotou fundamentação suficiente e decidiu integralmente a controvérsia no tocante ao percentual do benefício de invalidez e à possibilidade de dedução do imposto de renda, in verbis:
+"Em sede de embargos à declaração - em que a parte já havia trazido a discussão sobre a possibilidade de cálculo sobre o valor nominal e não sobre a remuneração -, a conclusão acerca da base de cálculo da condenação foi reforçada, tendo claramente este Tribunal de Justiça consignado que o acórdão "não deixa dúvidas de que não se trata do valor nominal do salário, mas da remuneração percebida na referida data" (fls. 281/288), rejeitando os embargos. Agora, o agravante insiste na alegação de que o cálculo deve ser feito pelo valor nominal, e não pela remuneração, o que é inadmissível pela flagrante violação à coisa julgada material, prevista nos arts. 502 e 503 do Código de Processo Civil. Desta forma, deve ser mantida a decisão do magistrado que não acolheu a alegação de excesso de execução neste ponto, tendo em vista que o cálculo sobre o valor da remuneração da agravada está em estrita concordância com a condenação exequenda. No que toca ao pedido de que sejam deduzidos os valores a título de Imposto de Renda, diante da existência de norma neste sentido em Proposta de Acordo supostamente realizada entre as partes, entendo que também não deve prosperar. Isso porque, de todo o resumo acima exposto, verifica-se que em nenhum momento durante o trâmite da ação de cobrança a parte ré, Bradesco Vida e Previdência S. A, apresentou tal questão à apreciação." (e-STJ, fl. 639).
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Ademais, a Corte de origem afirmou que não há que se reconhecer, em sede de cumprimento de sentença, tema que já foi tratadoe rejeitado na ocasião da fase de conhecimento ou que foi tratado apenas nessa oportunidade, sob pena de violação à coisa julgada material, in verbis:
+"Também oportuno consignar o entendimento consolidado do Superior Tribunal de Justiça no sentido de que "a execução de título judicial deve ser realizada nos termos da condenação exposta na sentença exequenda, sendo defeso ao juízo da execução modificar o que foi decidido no título executivo, sob pena de violação da coisa julgada." (AgInt no AREsp 983.773/MS, Rel. Ministro LUIS FELIPESALOMÃO, QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018), muito embora seja possível, em determinadas circunstâncias, dar-lhe uma interpretação razoável, o que não é, todavia, o caso presente, diante dos claros termos do acórdão proferido por este Tribunal, como antes já destacado. Postas estas premissas, os termos da condenação foram bem delimitados em sede de acórdão que proveu recurso de apelação para julgar procedentes os pedidos, ao assim constar na parte dispositiva: Ante o exposto, conheço do recurso interposto por SELMA SILVAFERREIRA e lhe dou provimento para reformar a sentença objurgada, julgando totalmente procedentes os pedidos formulados pela autora na inicial, condenando a ré ao pagamento do benefício renda fixa previsto no Plano Coletivo de Previdência Privada, a contar de 12/04/2011, no valor mensal equivalente à remuneração da autora na mesma data, de forma vitalícia, sendo que os valores retroativos serão acrescidos de correção monetária pelo IGPM/FGV e juros de mora de 1% ao mês a contar da citação. Em sede de embargos à declaração - em que a parte já havia trazido a discussão sobre a possibilidade de cálculo sobre o valor nominal e não sobre a remuneração -, a conclusão acerca da base de cálculo da condenação foi reforçada, tendo claramente este Tribunal de Justiça consignado que o acórdão "não deixa dúvidas de que não se trata do valor nominal do salário, mas da remuneração percebida na referida data" (fls. 281/288), rejeitando os embargos. Agora, o agravante insiste na alegação de que o cálculo deve ser feito pelo valor nominal, e não pela remuneração, o que é inadmissível pela flagrante violação à coisa julgada material, prevista nos arts. 502 e 503 do Código de Processo Civil. Desta forma, deve ser mantida a decisão do magistrado que não acolheu a alegação de excesso de execução neste ponto, tendo em vista que o cálculo sobre o valor da remuneração da agravada está em estrita concordância com a condenação exequenda. No que toca ao pedido de que sejam deduzidos os valores a título de Imposto de Renda, diante da existência de norma neste sentido em Proposta de Acordo supostamente realizada entre as partes, entendo que também não deve prosperar. Isso porque, de todo o resumo acima exposto, verifica-se que em nenhum momento durante o trâmite da ação de cobrança a parte ré, Bradesco Vida e Previdência S. A, apresentou tal questão à apreciação. Nem mesmo em sede de contestação, oportunidade em que se limitou a arguir preliminar de inépcia da inicial, e, no mérito, a defender a ausência de comprovação de invalidez e a legalidade do contrato, além de, subsidiariamente, discorrer sobre a aplicação de juros e correção monetária (fls. 69/83). A ré, ora agravada, nada dispôs acerca de necessidade de aplicação da "Proposta de Acordo" com norma prevendo descontos de valores de imposto de renda, motivo pelo qual não pode inaugurar tal questão em sede de cumprimento de sentença, haja vista que deveria ter sido discutida pela parte nos autos de conhecimento, quando lhe oportunizada a defesa e o contraditório (arts. 336 e 341 do CPC)." (e-STJ, fls. 639/640)
+Não se desconhece o entendimento deque inexiste ofensa à coisa julgada quando é conferida melhor interpretação ao título executivo, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. OFENSA AO ART. 535 DO CPC/73 NÃO CONFIGURADA. CORREÇÃO DOS CÁLCULOS. ALTERAÇÃO DO ENTENDIMENTO.INVIABILIDADE. SÚMULA 7 DO STJ. ÍNDICES DE CORREÇÃO. ALTERAÇÃO DO TÍTULO EXEQUENDO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa ao art. 535 do CPC/73 o fato de o col.Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia. 2. O Tribunal de origem, analisando elementos fático-probatórios dos autos, concluiu que os cálculos apresentados pelo credor, na fase executiva, estavam em conformidade com o conteúdo do título executivo judicial, mormente no que diz respeito aos valores a serem amortizados. Rever os cálculos apresentados pelo credor, na via estreita do recurso especial, encontra óbice na Súmula 7/STJ.
+3. Esta Corte de Justiça consagra entendimento de que não há ofensa à coisa julgada quando o juízo da execução confere ao título executivo judicial a interpretação que melhor viabilize o seu cumprimento. Precedentes.
+4. É defeso alterar, em sede de impugnação de cumprimento de sentença, os índices determinados para a atualização monetária do débito judicial, por se tratar de discussão acobertada pelo manto da coisa julgada.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 219.669/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 12/04/2019)
+Contudo, depreende-se da decisão recorrida que o acórdão transitado em julgado não possui obscuridade com relação ao cálculo sobre o valor nominal, tema que foi tratado especificamente em sede de embargos de declaração, tampouco com relação à dedução de imposto de renda, que foi formulada exclusivamente em sede de cumprimento de sentença.
+Nesse sentido, a decisão de origem, ao indeferir a rediscussão de matérias decididas no título judicial, está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. REVALORAÇÃO JURÍDICA. INEXISTÊNCIA DOS ÓBICES PREVISTOS NAS SÚMULAS 5 E 7, DO STJ. PREVIDÊNCIA PRIVADA.EXPURGOS INFLACIONÁRIOS. COMPENSAÇÃO COM OS VALORES PAGOS. PREVISÃO EXPRESSA NO TÍTULO EXECUTIVO JUDICIAL. ALTERAÇÃO. IMPOSSIBILIDADE. COISA JULGADA. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra nos óbices previstos nas Súmulas 5 e 7, do STJ, quando se exige somente o reenquadramento jurídico das circunstâncias de fato e cláusulas contratuais expressamente descritas no acórdão recorrido.
+3. Na fase de cumprimento de sentença, não se admite a rediscussão das matérias decididas no título judicial, sob penas de violação à coisa julgada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1259494/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020)
+Ante todo o exposto, nega-se provimento ao agravo interno.
+É como voto.
