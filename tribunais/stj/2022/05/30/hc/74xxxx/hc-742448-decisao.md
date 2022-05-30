@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ADALTO CORDEIRO JUNIORcontra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0002221-28.2014.8.26.0660).
+Consta nos autos que o Paciente foi condenado à pena de 1 (um) ano, 11 (onze) meses e 10 (dez)dias de reclusão, em regime inicial fechado, além do pagamento de 194 (cento e noventa e quatro) dias-multa, pela prática do crime previsto no art. 33,capute § 4.º, c.c. o art. 40, inciso VI, ambos da Lei n. 11.343/2006,em razão da apreensão de 2,37g de cocaína e 5,9g de crack.
+Irresignadas, apelaram as Partes. O Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao recurso doParquetpara fixar a pena-base em 1/6 (um sexto) acima do mínimo legal, redimensionando a reprimenda para 2 (dois) anos, 3 (três)meses e6 (seis) dias de reclusão, em regime inicial fechado, além do pagamento de 226 (duzentos e vinte e seis) dias-multa.
+Nestewrit, a Defesa alega que não foi apresentada fundamentação idônea para a fixação do regime inicial fechado.
+Sustenta a possibilidade de substituição da pena privativa de liberdade por restritivas de direitos.
+Requer, liminarmente e no mérito, a fixação do regime inicial aberto.
+É o relatório. Decido.
+Em consulta ao sistema de informações processuais do Superior Tribunal de Justiça, constatei que, noHC 741.724/SP, foi formulada idêntica pretensão à veiculada no presente feito, em favor do mesmo Acusado. Naquelewrit, em decisão prolatada no dia17/05/2022, não conhecida impetração, contudo,concedi a ordem dehabeas corpus,de ofício,para, reformando o acórdão impugnado, fixar a pena-base no mínimo legal, reduzindo a pena do Paciente para 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão e 194 (cento e noventa e quatro) dias-multa, à razão do valor mínimo legalmente estabelecido, e, por conseguinte, fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+Trata-se esta impetração, portanto, de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem a mesma decisão, inexistindo alteração fático-processual que justifique a reapreciação do julgado.
+Conclui-se, assim, pela inadmissibilidade domandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DECAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EMWRITANTERIORMENTE IMPETRADO, DE COMPETÊNCIA DESTA CORTE. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
