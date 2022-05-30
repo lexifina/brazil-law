@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte (fl. 371, e-STJ):
+TRIBUTÁRIO. APELAÇÃO. EXCLUSÃO DO SIMPLES NACIONAL. COMERCIALIZAÇÃO DE CIGARROS ESTRANGEIROS. AUTORIA E MATERIALIDADE DEMONSTRADOS. LEI COMPLEMENTAR Nº 123/2006. AUSÊNCIA DE IRREGULARIDADE.
+1. De acordo com o Boletim de Ocorrência nº 1066/2009, em diligência realizada no dia 25/06/2009, policiais civis aprenderam no estabelecimento da apelada 28 maços de cigarro da marca "EIGHT" e 24 maços da marca "MILL".
+2. A Agência Nacional de Vigilância Sanitária (ANVISA), em seu sítio eletrônico, disponibiliza a relação de marcas de cigarro autorizadas a serem comercializadas no território nacional. Segundo a lista, atualizada até 30/12/2019, a marca EIGHT e a marca MILL não estão ali relacionadas, do que se conclui serem produtos estrangeiros e introduzidos no mercado nacional de forma irregular.
+3. O Auto de Infração nº 0810900/01697/09, quando afirma que as mercadorias estavam desprovidas de " documentação comprobatória de sua introdução regular no País", está em perfeita consonância com o rol de marcas de cigarros autorizadas pela ANVISA. E, estando configurada a prática de contrabando e/ou descaminho, correto o Ato Declaratório Executivo DRF/RPO/SP nº111, de 11 de maio de 2010, que excluiu a recorrida do Simples Nacional.
+4. A análise da incidência, ou não, do princípio da insignificância, não se mostra relevante para a resolução da presente lide, uma vez que a causa de exclusão tipificada no inciso VII, do art. 29, da Lei Complementar nº 123/2006, é "comercializar mercadorias objeto de contrabando ou descaminho", e não ser condenado por esses delitos.
+5. Tendo em vista a presente decisão, cabível a condenação da parte autora ao pagamento de honorários advocatícios.
+6. In casu, em que pesem as peculiaridades do caso em concreto, e sempre respeitando o grau de zelo do profissional, lugar de prestação do serviço, o trabalho realizado, a natureza e a importância da causa, verifica-se que a solução da lide não envolveu qualquer complexidade. Assim, os valores devem ser fixados em R$ 1.000,00, devidamente atualizados, aplicando-se a regra prevista no § 4º, do art. 20, do CPC/1973.
+7. Apelação da União provida.
+Os Embargos de Declaração foram rejeitados (fl. 431, e-STJ).
+A parte agravante, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 334 do CP; 29, VII, da LC 123/2006; 373, II, e 1.022, I e II, do CPC. Afirma que houve negativa de prestação jurisdicional. Sustenta ser indevida a exclusão do Simples Nacional, porquanto o acórdão recorrido foi "proferido à margem das provas produzidas nos autos e pautado por meras presunções" (fl. 467, e-STJ). Aduz, em suma (fl. 463, e-STJ):
+Dessa feita, estando o v. acórdão recorrido lastreado apenas no auto de apreensão para concluir pela aplicação da sanção prevista no art. 29, inciso VII, da LC nº 123/2006, a sua reforma é medida que se impõe, ainda mais quando caberia à União Federal provar existência de fato impeditivo, modificativo ou extintivo do direito do autor, a teor do disposto no art. 373, inciso II, do CPC, aqui também violado.
+(..) No caso, houve a aplicação de regra punitiva contra a recorrente cujo acórdão que a confirmou está fundado apenas no auto de apreensão de mercadoria e em boletim de ocorrência a ele anexo, ou seja, pautado em meras presunções, além de contrariar todas as demais provas produzidas nos autos, daí sua flagrante nulidade.
+Contrarrazões apresentadas às fls. 518-522, e-STJ.
+O recurso foi inadmitido na origem (fls. 531-537, e-STJ), o que deu ensejo à interposição do Agravo de fls. 540-556, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.4.2022.
+A irresignação não merece prosperar.
+Inicialmente, constato que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+A alegação de violação do art. 334 do CP ao fundamento de que seria imprescindível condenação transitada em julgada não comporta conhecimento, haja vista que o dispositivo legal não possui comando normativo apto a sustentar a pretensão invocada, o que atrai a incidência da Súmula 284/STF. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) ALEGADA INFRINGÊNCIA AO ART. 104 DO CDC. DISPOSITIVO DE LEI QUE NÃO POSSUI COMANDO NORMATIVO CAPAZ DE SUSTENTAR A TESE RECURSAL DE JULGAMENTO EXTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..) IV. O art. 104 do CDC, citado pelo agravante, nas razões do Recurso Especial, não apresenta conteúdo normativo suficiente para sustentar a tese recursal de julgamento extra petita. Na forma da jurisprudência, "incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido" (STJ, AgInt no REsp 1.530.047/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 02/05/2019).
+(..) VII. Agravo interno improvido.
+(AgInt no AREsp 1832073/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 28/03/2022, DJe 30/03/2022)
+O Tribunal de origem, com base nos elementos de convicção dos autos, concluiu ser hipótese de exclusão do Simples Nacional, tendo em vista a seguinte fundamentação (fls. 350-360, e-STJ):
+O entendimento acima explicitado deve ser adotado também neste caso concreto.
+De acordo com o Boletim de Ocorrência nº 1066/2009, em diligência realizada no dia 25/06/2009, policiais civis aprenderam no estabelecimento da apelada 28 maços de cigarro da marca "EIGHT" e 24 maços da marca "MILL". O histórico foi assim narrado (ID Num. 90236016 - Pág. 40):
+Policiais Civis após denúncia da ABCF- Associação Brasileira de Combate a Falsificação, efetuaram diligencias e lograram em apreender no estabelecimento acima mencionado os objetos acima descritos, os quais estavam expostos para comercialização.
+Os objetos foram apreendidos em auto próprio.
+Encaminhado o Boletim de Ocorrência ao Fisco, foi lavrado o Auto de Infração nº 0810900/01697/09, tendo a apelada sido autuada nos seguintes termos (ID Num. 90236016 - Pág. 35):
+Apreensão de cigarros, ou charutos ou fumo de procedência estrangeira por encontrar-se desprovida de documentação comprobatória de sua introdução regular no País.
+Cigarros estrangeiros encaminhados a esta Delegacia da Receita Federal pela Delegacia de Polícia de Monte Alto - SP, por meio do Oficio nº 1140/2009, de 4.08.09, o qual encaminhou também boletim de ocorrência (BO) e auto de exibição e apreensão, todos com cópia em anexo.
+Posteriormente, sobreveio o Ato Declaratório Executivo DRF/RPO/SP nº111, de 11 de maio de 2010, excluindo a apelada do " Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, tendo em vista a constatação de comercialização de mercadorias objeto de contrabando ou descaminho", com eficácia a partir de 01/06/2009 (Num. 90236016 - Pág. 63).
+O fundamento jurídico utilizado para excluir a recorrida do Simples foi o inciso VII do art. 29 da Lei Complementar nº 123:
+(..)
+É evidente que a alteração das conclusões adotadas pela Corte regional, como defendido nas razões recursais, requer análise de fatos e provas, o que não se admite em Recurso Especial. Consoante a orientação do STJ, "a avaliação do êxito do autor ou do réu em comprovar suas alegações (art. 373 CPC/15 - 333 do CPC/73), ou seja, se cumpriu ou não seu ônus de prova, demanda o reexame fático-probatório, o que é inadmissível na via especial, a teor da Súmula 7/STJ" (AgInt no AREsp 1.484.941/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 10/9/2019). Na mesma linha:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+(..) 3. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1753984/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022, grifei)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SIMPLES NACIONAL. EXCLUSÃO. REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado n. 3 do Plenário do STJ).
+2. A Corte de origem entendeu que "a exclusão do SIMPLES ocorreu por infração ao artigo 14, V, da Lei 9.317/1996, no período de maio/2001 a dezembro/2005, conforme constou do Ato Declaratório Executivo DRF/STS 17/2007, com efeitos a partir de 01/06/2001, nos termos do artigo 15, V, da Lei 9.317/1996" (e-STJ fl. 280). Ressaltou que a prática reiterada resultou de fatos ocorridos entre maio/2001 e dezembro/2005.
+3. Rever a premissa fática pela qual ficou assentado o entendimento das instâncias ordinárias demandaria o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1061863/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 02/03/2021)
+Como se vê, a solução do tema não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Por fim, consigne-se que, consoante a jurisprudência do STJ, a necessidade do reexame da matéria fática inviabiliza o Recurso Especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OMISSÃO NÃO CONFIGURADA. AÇÃO DE INDENIZAÇÃO. MULTA. DANOS MORAIS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+(..) 4. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+5. Agravo Interno não provido.
+(AgInt no REsp 1954972/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/04/2022, DJe 25/04/2022)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial somente com relação à preliminar de violação do art. 1.022 do CPC e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
