@@ -1,0 +1,71 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fl. 199, e-STJ):
+ADMINISTRATIVO E PROCESSUAL CIVIL. MÉDICOS OPTANTES PELA JORNADA DE 40 HORAS. ADICIONAL POR TEMPO DE SERVIÇO - ATS (ANUÊNIO). INCIDÊNCIA SOBRE VENCIMENTO BÁSICO. PADRÃO-BASE CORRESPONDENTE À DUPLA JORNADA DE 20 (VINTE) HORAS. PRECEDENTES. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA.
+1. A sentença, proferida em maio de 2015, julgou procedente o pleito da autora, médica da UFPB, condenando a ré a lhe pagar a parcela referente ao Adicional por Tempo de Serviço (Anuênios) sobre o vencimento básico referente à dupla jornada de vinte horas de trabalho e os valores atrasados desde 21.11.2008, em respeito à prescrição quinquenal, incidindo sobre as diferenças juros e correção monetária conforme o Manual de Cálculos da Justiça Federal. A sentença ainda condenou a ré em honorários advocatícios fixados em 5% sobre o valor da condenação. Ambas as partes apelaram, a autora quanto à condenação em honorários, pugnando pela majoração do percentual fixado.
+2. A questão cinge-se ao direito dos servidores médicos, optantes pela jornada de quarenta horas semanais, à percepção do adicional de tempo de serviço - ATS (anuênio) calculado sobre o vencimento básico referente a cada uma das jornadas de vinte horas.
+3. Quanto à alegada prescrição do fundo de direito, registre-se que a pretensão de revisão do valor dos anuênios incorporados para que seja calculado levando-se em conta as duas jornadas de trabalho de 20 horas semanais constitui relação jurídica de trato sucessivo, de forma que apenas as parcelas vencidas antes do quinquênio anterior ao ajuizamento da ação encontram-se prescritas, nos termos da Súmula 85 do STJ (08007229820164058201, DESEMBARGADOR FEDERAL LUIZ BISPO DA SILVA NETO (CONVOCADO), 3ª TURMA - TRF5, JULGAMENTO: 20/08/2020; REsp 1865032/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA - STJ, DJe 01/06/2020).
+4. No mérito, a jurisprudência desta Corte Regional e do STJ pacificou o entendimento de que o adicional por tempo de serviço dos médicos sujeitos à jornada semanal de trabalho de 40 (quarenta) horas deve incidir sobre o vencimento básico do cargo efetivo, considerado o padrão-base correspondente à dupla jornada de 20 (vinte) horas, e não a apenas a uma delas. Nesse sentido: 08064256320144058400, DESEMBARGADOR FEDERAL ALEXANDRE LUNA FREIRE, 1ª TURMA, JULGAMENTO: 08/11/2018; 08063764920144058100, DESEMBARGADOR FEDERAL IVAN LIRA DE CARVALHO (CONVOCADO), 1ª TURMA, JULGAMENTO: 24/05/2018; 08020489620164058200, DESEMBARGADOR FEDERAL ELIO WANDERLEY DE SIQUEIRA FILHO, 1ª TURMA, JULGAMENTO: 16/11/2017; 08035584720164058200, DESEMBARGADOR FEDERAL PAULO MACHADO CORDEIRO, 2ª TURMA, JULGAMENTO: 16/03/2021; 08007229820164058201, DESEMBARGADOR FEDERAL LUIZ BISPO DA SILVA NETO (CONVOCADO), 3ª TURMA, JULGAMENTO: 18/06/2020; 08005249220154058202, DESEMBARGADOR FEDERAL FERNANDO BRAGA DAMASCENO, 3ª TURMA, JULGAMENTO: 12/04/2018; 08029773220164058200, DESEMBARGADOR FEDERAL CARLOS VINICIUS CALHEIROS NOBRE (CONVOCADO), 4ª TURMA, JULGAMENTO: 28/04/2020; AgInt no REsp 1541579/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/08/2018; AgRg no AREsp 735.173/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 07/10/2015.
+5. Condenações impostas à Fazenda Pública oriundas de relações jurídicas não tributárias. STF: RE Repercussão Geral nº. 870.947/SE. STJ: REsp Repetitivo nº. 1495146/MG. Correção monetária pelo IPCA-E. Juros moratórios pelos índices de remuneração da caderneta de poupança.
+6. Na sessão do dia 03/10/2019, o Plenário do STF rejeitou os Embargos de Declaração no RE nº 870.947/SE, decidindo por não modular os efeitos da decisão anteriormente proferida que definiu o IPCA-E, e não mais a TR, como o índice de correção monetária dos débitos judiciais da Fazenda Pública, mesmo no período da dívida anterior à expedição do precatório.
+7. Quanto ao apelo da demandante, o § 4º do art. 20 do CPC/1973, vigente à época da prolação da sentença, possibilitava a fixação da verba honorária por apreciação equitativa nas causas em que fosse vencida a Fazenda Pública, sendo consentâneo com os parâmetros estabelecidos no § 3º do citado dispositivo o percentual arbitrado pelo Juízo sentenciante, mormente tendo em conta o caráter repetitivo da demanda.
+8. Apelações de ambas as partes improvidas. Honorários advocatícios majorados em 10%, com base no § 11 do art. 85 do CPC (honorários recursais).
+Os Embargos de Declaração foram rejeitados(fl. 235, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE E OMISSÃO NÃO CONFIGURADAS.
+1. Embargos de declaração interpostos pela UFPB contra acórdão desta Primeira Turma, que negou provimento aos apelos de ambas as partes, mantendo sentença que julgara procedente o pleito da autora, médica da UFPB, condenando a autarquia-ré a pagar à servidora a parcela referente ao Adicional por Tempo de Serviço (Anuênios) sobre o vencimento básico referente à dupla jornada de vinte horas de trabalho e os valores atrasados desde 21.11.2008, em respeito à prescrição quinquenal, incidindo sobre as diferenças juros e correção monetária conforme o Manual de Cálculos da Justiça Federal.
+2. A embargante alega que o acórdão padece de: 1) obscuridade, porque, com a nova estrutura remuneratória fixada pela Lei 12.702/2012, os médicos optantes pela jornada de 40 horas semanais, como a autora, têm vencimentos fixados em valores diferentes dos que têm jornada de 20 horas semanais, de modo que, sob pena de negativa de vigência aos arts. 41 e 103 da referida norma, não pode o ATS ser calculado sobre os vencimentos de cada jornada de 20 horas; 2) omissão, pois não enfrentou a alegação de que a autora fez apenas um concurso, ocupa apenas um cargo, pelo que, obviamente, o adicional de tempo de serviço deve ser calculado sobre o valor dos vencimentos percebidos nesse cargo.
+3. O aresto, contudo, não incorreu nos apontados vícios, porquanto se baseou na jurisprudência desta que Corte Regional e do STJ, pacificou o entendimento de que o adicional por tempo de serviço dos médicos sujeitos à jornada semanal de trabalho de 40 (quarenta) horas deve incidir sobre o vencimento básico do cargo efetivo, considerado o padrão-base correspondente à dupla jornada de 20 (vinte) horas, e não a apenas a uma delas (cf. item 4 da ementa do acórdão) Tal entendimento, já consolidado, abarcaas questões aventadas nos embargos.
+4. De todo modo, acrescente-se apenas que a Lei nº 12.702/2012 fixou novo padrão remuneratório, mas, em seu anexo XLVII, manteve o vencimento básico duplo para o ocupante do cargo com jornada de 40 (quarenta) horas semanais (08020489620164058200, AC, Desembargador Federal Elio Wanderley de Siqueira Filho, 1ª Turma, Julgamento: 16/11/2017).
+5. Embargos de declaração improvidos.
+A parte recorrente aponta violação aos arts. 1º do Decreto 20.910/1932; 1º,§ 3º, da Lei 9.436/1997; 4º da Lei 8.216/1991; e 41 e103 da Lei 12.702/2012. Defende que "configurou-se,in casu, a prescrição do próprio fundo do direito" (fl. 256, e-STJ).
+Aduz, ainda, que "não há respaldo legal para se calcular o adicional por tempo de serviço do RECORRIDO sobre os vencimentos do cargo de MÉDICO que ocupa, em duplicidade, pelo simples fato de estar exercendo jornada de quarenta horas semanais e, não de vinte horas" (fl. 257, e-STJ).
+Sem contrarrazões, conforme certidão de fl. 268, e-STJ.
+O Recurso Especial foi admitido na origem (fl. 269, e-STJ).
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.4.2022.
+A irresignação não merece acolhida.
+A insurgente sustenta que foram violados os arts. 1º do Decreto 20.910/1932; 1º, § 3º, da Lei 9.436/1997; 4º da Lei 8.216/1991; e 41 e 103 da Lei 12.702/2012, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.Assim, é inviável o conhecimento da irresignação nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/3/2017)
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/4/2017)
+Ademais, a Corte a quo decidiu a controvérsia nos seguintes termos (fls. 208-209 e 244, e-STJ):
+A questão cinge-se ao direito dos servidores médicos, optantes pela jornada de quarenta horas semanais, à percepção do adicional de tempo de serviço - ATS (anuênio) calculado sobre o vencimento básico referente a cada uma das jornadas de vinte horas.
+Quanto à alegada prescrição do fundo de direito, registre-se que a pretensão de revisão do valor dos anuênios incorporados para que seja calculado levando-se em conta as duas jornadas de trabalho de 20 horas semanais constitui relação jurídica de trato sucessivo, de forma que apenas as parcelas vencidas antes do quinquênio anterior ao ajuizamento da ação encontram-se prescritas, nos termos da Súmula 85 do STJ (08007229820164058201, DESEMBARGADOR FEDERAL LUIZ BISPO DA SILVA NETO (CONVOCADO), 3ª TURMA - TRF5, JULGAMENTO: 20/08/2020; REsp 1865032/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA - STJ, DJe 01/06/2020).
+No mérito, a jurisprudência desta Corte Regional e do STJ pacificou o entendimento de que o adicional por tempo de serviço dos médicos sujeitos à jornada semanal de trabalho de 40 (quarenta) horas deve incidir sobre o vencimento básico do cargo efetivo, considerado o padrão-base correspondente à dupla jornada de 20 (vinte) horas, e não a apenas a uma delas. Nesse sentido: 08064256320144058 400, DESEMBARGADOR FEDERAL ALEXANDRE LUNA FREIRE, 1ª TURMA, JULGAMENTO:08/11/2018; 08063764920144058100, DESEMBARGADOR FEDERAL IVAN LIRA DE CARVALHO (CONVOCADO), 1ª TURMA, JULGAMENTO: 24/05/2018; 08020489620164058200, DESEMBARGADOR FEDERAL ELIO WANDERLEY DE SIQUEIRA FILHO, 1ª TURMA, JULGAMENTO: 16/11/2017; 08035584720164058200, DESEMBARGADOR FEDERAL PAULO MACHADO CORDEIRO, 2ª TURMA, JULGAMENTO: 16/03/2021; 08007229820164058201, DESEMBARGADOR FEDERAL LUIZ BISPO DA SILVA NETO (CONVOCADO), 3ª TURMA, JULGAMENTO: 18/06/2020; 08005249220154058202, DESEMBARGADOR FEDERAL FERNANDO BRAGA DAMASCENO, 3ª TURMA, JULGAMENTO: 12/04/2018; 08029773220164058200, DESEMBARGADOR FEDERAL CARLOS VINICIUS CALHEIROS NOBRE (CONVOCADO), 4ª TURMA, JULGAMENTO: 28/04/2020; AgInt no REsp 1541579/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 14/08/2018; AgRg no AREsp 735.173/PB, Rel.Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 07/10/2015.
+(..)
+Assim, nego provimento às apelações de ambas as partes.
+(..)
+O aresto, contudo, não incorreu nos apontados vícios, porquanto se baseou na jurisprudência desta Corte que Regional e do STJ, pacificou o entendimento de que o adicional por tempo de serviço dos médicos sujeitos à jornada semanal de trabalho de 40 (quarenta) horas deve incidir sobre o vencimento básico do cargo efetivo, considerado o padrão-base correspondente à dupla jornada de 20 (vinte) horas, e não a apenas a uma delas(cf. item 4 da ementa do acórdão) Tal entendimento, já consolidado, abarca as questões aventadas nos embargos.
+De todo modo, acrescente-se apenas que a Lei nº 12.702/2012 fixou novo padrão remuneratório, mas, em seu anexo XLVII, manteve o vencimento básico duplo para o ocupante do cargo com jornada de 40 (quarenta) horas semanais (08020489620164058200, AC, Desembargador Federal Elio Wanderley de Siqueira Filho, 1ª Turma, Julgamento: 16/11/2017).
+Assim, nego provimento aos embargos.
+Contudo, a recorrente não ataca a argumentação transcrita. Dessa maneira, tratando-se de fundamentos aptos, por si sós, a manter odecisumcombatido, aplica-se, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".Nesse sentido:
+PROCESSUAL CIVIL (..) FUNDAMENTO INATACADO DO ARESTO RECORRIDO. SÚMULA 283/STF. (..)
+(..)
+2. A falta de combate a fundamento específico da decisão agravada justifica a impossibilidade de análise do recurso especial ante o óbice da Súmula 283/STF.
+(..)
+(AgInt no REsp 1.205.543/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 13/12/2017)
+PROCESSUAL CIVIL (..) FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. (..)
+(..)
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+(..)
+(AgInt no REsp 1.612.058/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 13/10/2017)
+CIVIL. PROCESSUAL CIVIL. (..) FUNDAMENTAÇÃO INATACADA. SÚMULA 283/STF. (..)
+(..)
+2. Não se conhece do recurso especial quando o acórdão tem múltiplos fundamentos autônomos e o recurso não abrange todos eles. Inteligência da Súmula 283/STF.
+(..)
+(AREsp 1.415.474/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 22/3/2019)
+PROCESSUAL CIVIL. (..) APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. (..)
+(..)
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp 1.761.984/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 4/2/2019)
+Diante do exposto,não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
