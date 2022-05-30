@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIARIA - ALVORADA IV - SPE LTDA contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer cumulada com reparação por dano material e compensação por dano moral, ajuizada pelo agravado, em face da agravante, devido ao atraso na entrega de unidade imobiliária, na qual pleiteia a condenação da agravante ao pagamento de multa por descumprimento contratual e compensação por dano moral, assim como seja a agravante condenada à obrigação de fazer consistente na transferência de propriedade do imóvel.
+Sentença: julgou parcialmente procedentes os pedidos, para: (i) condenar a agravante a ressarcir o agravado da quantia de R$ 600,00 (seiscentos reais) a título de reparação por dano material; (ii) condenar a agravante à a restituição dos valores destinados ao pagamento da taxa "juros de obra", relativa ao período de atraso na obra (01 mês e 24 dias); (iii) condenar a agravanteao pagamento da multa contratual; (iv) condenar a agravanteao pagamento de compensação por danos marais, no valor de R$ 6.000,00 (seis mil reais).
+Acórdão: deu parcial provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE REPETIÇÃO DE INDÉBITO. PEDIDO CUMULADO DE INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DA OBRA. DANOS MATERIAIS. JUROS DE OBRA. AUSÊNCIA DE INTERESSE DA CAIXA ECONÔMICA FEDERAL. LEGITIMIDADE PASSIVA AD CAUSAM DA CONSTRUTORA. MULTA MORATÓRIA.
+I - À decisão publicada a partir do dia 18/03/2016, aplicam-se as normas do Código de Processo Civil de 2015 (CPC/2015).
+II - Inexiste abusividade na cláusula contratual que difere a entrega da obra para 180 (cento e oitenta) dias após o prazo avençado. Não só se trata de prática comum no ramo da construção civil, como também, no caso em espécie, a disposição contratual foi redigida de forma clara, a permitir a compreensão do leitor, não se enquadrando nas situações elencadas nos artigos 51 e 54, ambos do Código de Defesa do Consumidor.
+III - Conforme entendimento consolidado deste E. TJRS, a chamada "fase de construção" é extremamente prejudicial ao promissário comprador, uma vez que retarda a amortização do valor objeto do financiamento. Assim, caracterizado o diferimento da quitação do contrato de empréstimo, em razão de mora por parte da requerida, deve ser mantida sua condenação à devolução dos chamados "encargos de obra", peio período em que prolongada indevidamente a fase em discussão. Nessa senda, não se discutindo a legalidade da cobrança, mas a responsabilização da requerida por seu ressarcimento, deflagra-se a legitimidade desta, bem como a ausência de interesse da Caixa Econômica Federal no feito, o que acaba por afastar as preliminares aventadas.
+IV - Em caso de atraso na entrega do imóvel pela construtora, o promissário comprador apenas se torna responsável pelas dívidas a este vinculadas (condomínio, IPTU, etc.) após a respectiva imissão na posse do bem.
+V - Por força do Princípio da isonomia, possível a fixação de cláusula penal moratória em favor do promissário comprador, nos casos emque háestipulação contratual em favor da promitente vendedora, mormente pela incidência da legislação consumerista.
+VI - Os incômodos decorrentes do inadimplemento contratual, por si só, não caracterizam o dano imaterial.
+VII - Ante o resultado do julgamento, devem ser majorados os ônus sucumbenciais fixados em primeira instância, nos termos do art. 85, §11, do CPC/2015. Apelações cíveis parcialmente providas. Unânime. (e-STJ Fls. 427/428)
+Recurso especial: alega violação doart. 360 do CC, bem como dissídio jurisprudencial.
+Decisão unipessoal: não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que aagravantenão impugnou todos os fundamentos utilizados pelo TJ/RS para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, aagravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pelaagravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que esta não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à agravantedemonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
