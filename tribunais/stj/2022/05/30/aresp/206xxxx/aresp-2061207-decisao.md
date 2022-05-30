@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial e baseou-se, para isso,na ausência de afronta aos artigos 489 e 1.022 do CPC e na incidência da Súmula 7/STJ.
+Defende LIGHT Serviços de Eletricidade S.A.:
+Deverá, assim, ser reformada a decisão agravada, haja vista que não pode o Poder Judiciário adotar entendimento manifestamente contrário à lei federal, além de estar em descompasso com a jurisprudência deste Colendo Superior Tribunal, conforme ocorre no presente caso, sob pena de causar à LIGHT danos irreparáveis.
+ ..
+Ao revés do que dispôs a decisão ora agravada, o problema posto não é de reexame de provas ou fatos, hábil a obstar o prosseguimento do Recurso Especial, com base na Súmula 7 do STJ, mas sim de controle, por parte do c. STJ, da explícita violação à legislação pátria acerca legitimidade do atuar das concessionárias de serviços público em instalar equipamentos necessários para o oferecimento de energia dos próprios consumidores.
+Não obstante, é preciso ressaltar que só compete à e. Corte inferior examinar a admissibilidade do Recurso Especial interposto, verificando se os seus requisitos técnicos e formais encontram-se presentes, podendo admitir o recurso em um juízo de admissibilidade prévio, e apenas negar seguimento ao recurso quando o acórdão recorrido estiver em conformidade com o entendimento do Superior Tribunal de Justiça e exarado no regime de recursos repetitivos (NCPC, art. 1030, I, b), o que não se aplica à decisão ora agravada.
+ ..
+Além de evidentemente ingressar no mérito do Apelo Especial e usurpar competência atribuída a este C. Superior Tribunal de Justiça, o entendimento do Tribunal de Justiça a quo torna morta a disposição contida nos artigos 489 e 1.022 do CPC/ 15.
+ ..
+Ao se negar esclarecer as questões apontadas pela Agravante, o Tribunal Local deixou de analisar que " Em suma, a embargante agiu em exercício regular do direito, e também amparada no Art. 153 do Código Civil, mas o v. acórdão, com todas as vênias, não apreciou tais questões, incorrendo, assim, em omissão." .
+ ..
+O error in judicando consiste na inadequação dos juízos fáticos- jurídicos apresentados em uma decisão judicial, tais como valoração inadequada da prova e/ ou dissonância das provas produzidas nos autos etc. , de natureza substancial que provoca a injustiça do ato judicial e, uma vez reconhecido, deve acarretar na substituição da decisão viciada por outra decisão em sede recursal, valendo dizer que o laudo pericial deixou claro que a Concessionaria não agiu com qualquer ilegalidade e tão somente no seu regular exercício de direito.
+Isto porque o Recurso Especial aponta concreta violação aos referidos dispositivos de lei federal relativos legitimidade dos atos da Agravante ao instalar a Câmara Transformadora para possibilitar o fornecimento de energia ao Condomínio Agravado., tanto sentença e no acórdão recorrido, matéria exclusivamente de direito, cuja análise não demanda revolvimento de matéria fática ou probatória, vedada pelo enunciado da Súmula 7/ STJ.
+Nesse passo, conforme exaustivamente demonstrado ao longo do feito, não é razoável que a Concessionária Recorrente seja compelida a pagar pela instalação de Câmara Transformadora de energia elétrica do condomínio Agravado, cuja finalidade é viabilizar o fornecimento de energia ao próprio Agravado.
+Até porque não é razoável imaginar que o proprietário que não consentiu com a utilização de seu imóvel demore mais de 20 (vinte) anos para ajuizar ação pleiteando "extinção do comodato".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28 de abril de 2022.
+A ação foi proposta contra o uso gratuito, por parte da concessionária, do espaço do condomínio onde se encontra instalada uma "unidade transformadora de energia" que possibilita o fornecimento de energia elétrica àquele e a condomínios vizinhos.
+O debate sobre a ocupação gratuita de espaço para acomodar o transformador foi decidido sob a perspectiva de "comodato de fato",entabulado tacitamente entre as partes. É plausível, em igual extensão, o argumento de que havia mera tolerância na ocupação do espaço,e por issoseu desfazimento. A revisão do entendimento acima não foi prequestionada e esbarra também no óbice da Súmula 7/STJ.
+A polêmica sobre a "legitimidade do atuar das concessionárias de serviços públicos em instalar equipamentos necessários para o oferecimento de energia dos próprios consumidores"sem a devida contraprestação pelo uso do espaçotambém foi resolvidacom a fixação de aluguel, porque "não existe fundamento para forçar o condomínio a tolerar a ocupação" sem ônus pela concessionária.
+O Tribunal consignou no acórdão Integrativo:
+A concessionária ré embargou de declaração (index. 529), alegando que o acórdão seria contraditório porque reconheceu a impossibilidade de o condomínio receber aluguel por período retroativo de ocupação de espaço, e, ainda assim, teria fixado aluguel para a utilização do espaço pela LIGHT a contar da citação.
+Também alegou que o acórdão seria omisso, por ausência de enfrentamento de todas as teses recursais.
+ ..
+Como se vê, o acórdão embargado, embora reconhecendo a impossibilidade de recebimento de aluguéis, pelo condomínio autor, em relação a período pretérito de ocupação de espaço para acomodação de transformador, expressamente consignou que o demandante possui o direito inafastável de se opor à perpetuação da ocupação gratuita, e desfazer o comodato de fato anteriormente estabelecido.
+Nada há de contraditório, pois.
+Em acréscimo, o acórdão concluiu inexistir fundamento para forçar o condomínio a tolerar a ocupação gratuita de parte de sua área com equipamento de alta tensão que também atende a imóveis vizinhos.
+Neste cenário, inexistem os vícios suscitados pela parte embargante, sendo certo que o julgador, por seu turno, não está obrigado a citar todos os dispositivos legais elencados pelas partes, quando encontrar fundamento suficiente a decidir, como se mostrou a hipótese dos autos.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota argumentos suficientes para decidir de modo integral a controvérsia, apenas sem acatar a tese defendida pela recorrente.
+Da leitura atenta do voto condutor, vê-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição,obscuridade ou erro materiala serem sanados. Por conseguinte, conclui-senão ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+Os demais artigos ditos violados não têm o condão de modificar o julgado. Portanto,a deficiência das razões do Recurso Especial apontam que incide sobre a hipótese, por analogia, o óbice constante da Súmula 284/STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso existam nos autos honorários de advogado previamente fixados pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
