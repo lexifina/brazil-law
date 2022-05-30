@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDUARDO PRUDENTE BETTAcontra decisão de e-STJ fls. 495/500 que conheceu do agravo e não conheceu do recurso especial, por incidência das Súmulas n. 284/STF, 7/STJ e 279/STF.
+Nas presentes razões, o embargante sustenta a existência de contradição na decisão embargada, aduzindo, para tanto, que"a tese defensiva fora cuidadosamente dividia em capítulos, demonstrando e indicando os artigos violados, oportunidade em que a r. decisão ora embargada merece ser reformada para deixar de incidir a Súmula 284 do STF" (e-STJ fl. 504). Alega, ainda, que "não há que se falar em revolvimento de matéria fática, mas sim aplicabilidade do Direito em frontal ofensa à legislação pátria" (e-STJ fl. 505).
+É o relatório.
+Decido.
+Sem razão o embargante. Com efeito, anoto que "apenas a contradição internaentre os fundamentos e o dispositivo do julgadoautorizam os embargos de declaração, por prejudicarem sua coerência lógica, não a contrariedade entre a prestação jurisdicional e o entendimento sustentado pela parte" (EDcl no HC n. 223.071/ES, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/2/2016, DJe 29/2/2016).
+No caso dos autos, não há que se falar em contradição entre os fundamentos da decisão e o seu dispositivo.
+De fato, o decisum foi coeso ao consignar que não conhecia do recurso especial em razão dos seguintes fundamentos: i)"a defesa deixou de apontar quais dispositivos legais amparavam a tese recursal, o que representa inafastável deficiência ao impedir a exata compreensão da controvérsia, atraindo a aplicação da Súmula n. 284/STF" (e-STJ fl. 498); e ii) "a mudança da conclusão alcançada no acórdão impugnado, de modo a absolver o ora recorrente, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que oTribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n.7/STJ e 279/STF)" (e-STJ fls. 498/499).
+Vale lembrar que o cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+Assim sendo, a alegação de vício da decisão não prospera, não havendo que se falar na presença dos vícios elencados no referido art. 619 do CPP.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
