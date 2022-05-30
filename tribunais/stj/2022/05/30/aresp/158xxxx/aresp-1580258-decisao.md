@@ -1,0 +1,17 @@
+DECISÃO
+ALEXANDRE GURGEL DE SÁ agrava da decisão que inadmitiu seu recurso especial, interposto em face de acórdão do Tribunal Regional Federal da 5ª Região.
+No apelo inadmitido, fundamentado no art. 105, III, "a", da CF, o insurgente apontou violação do art. 619 do CPP, ao argumento de omissão do acórdão em analisar as questões apontadas pela defesa no apelo.
+O reclamo foi inadmitido na origem - em virtude de não demonstração da violação do dispositivo apontado -, o que ensejou o agravo de fls. 2.089-2.094, no qual a parte impugna o óbice indicado e renova as teses do especial.
+O Ministério Público Federal postulou o não provimento do agravo (fls. 2.118-2.124).
+Decido.
+O agravo é tempestivo e impugnou a inadmissibilidade do recurso especial. Contudo, não comporta provimento, pois está correta a apreciação feita pela Corte Federal.
+A jurisprudência desta Corte é firme em assinalar que "não há falar em violação do art. 619 do CPP se as teses  ..  foram afastadas de forma fundamentada, ainda que de maneira contrária aos interesses da parte" (AgRg nos EDcl no AREsp n. 1.562.086/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/10/2020).
+Verifica-se do acórdão combatido que o TRF5 aduziu expressamente que o indeferimento da oitiva da testemunha da defesa se deu em razão da preclusão e apontou a contribuição do recorrente para a prática delitiva, nos seguintes termos:
+ ..
+A Autoria e a Materialidade estão suficientemente demonstradas, a se ver que os recursos federais na o foram integralmente destinados ao Objeto do Convênio nº 25412001 firmado entre o Ministe"rio da Sau"de e a Fundac a o Aproniano Sa", da qual o Re"u era Diretor Administrativo e Financeiro, conforme Fiscalizac a o realizada pelo Departamento Nacional de Auditoria, os Depoimentos colhidos em Jui"zo e documentos alusivos a "doac o es".
+Os recursos, da ordem de R$ 800.000,00, seriam aplicados na compra de medicamentos e material me"dico-ciru"rgico, que seriam destinados, por meio de doac o es, a Entidades atuantes na a"rea de sau"de no Estado de Alagoas, aferindo a Instruc a o Probato"ria que algumas das doac o es foram ficti"cias ou forjadas.
+A Tipicidade resta caracterizada e, nesse sentido, reporto-me ao Parecer da douta Procuradoria Regional da Repu"blica: "E" cedic o tanto na doutrina como na jurisprude ncia que uma vez inserido o tipo penal do crime de peculato no capi"tulo referente aos crimes praticados por funciona"rio pu"blico contra a Administrac a o Pu"blica em geral, na o se procura apenas proteger o patrimo nio desta u"ltima, mas tambe"m a moralidade administrativa, cujo dano sofrido na o se repara mediante a simples devoluc a o de valores apropriados indevidamente. Afasta-se, assim, a alegac a o de presenc a de dano ao era"rio como condic a o para a configurac a o do crime de peculato, tendo em vista que, no caso em tela, a moralidade administrativa foi lesada."
+Com efeito, o Peculato abrange tanto a apropriac a o de bens mo"veis como o desvio destes bens das finalidades que lhes sa o institucionalmente previstas (fls. 2.037-2.038).
+Deveras: "ausente a apontada violação dos arts. 619 do CPP, 489, § 1º, VI, e 1.022, II, parágrafo único, do CPC, pois o Tribunal de origem enfrentou todos os pontos relevantes ao deslinde da controvérsia, não se evidenciando negativa de prestação jurisdicional" (AgRg no AREsp n. 1.917.506/CE, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 2/3/2022).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
