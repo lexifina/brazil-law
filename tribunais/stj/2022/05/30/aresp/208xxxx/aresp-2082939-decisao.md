@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo contra decisão que negou seguimento ao Recurso Especial, por estar o acordão em consonância com o Tema 132/STJ, e não o admitiu quanto àofensa aos arts.489 e 1.022 do CPC.
+Defende o Banco do Brasil S.A.:
+Ressalte-se que a decisão recorrida não possui fundamento sobre o acolhimento ou desacolhimento da prova pericial produzida. Não se desconhece que o juiz é soberano na análise das provas produzidas nos autos (livre convencimento motivado), contudo, cumpre ao magistrado dar as razões de seu convencimento, sempre vinculado à prova dos autos.
+Na hipótese de e desconsiderar uma prova legitimamente produzida, compete ao juiz indicar, de modo satisfatório, o seu convencimento, algo que inocorreu na sentença de primeira instância, sendo a omissão perpetrada pelo Tribunal a quo, pois nas decisões não se vislumbra motivação suficiente que indique a recusa do laudo pericial, a fim de legitimar decisão que o contraria.
+Em razão da ausência de apreciação de tais argumentos, dentre outros, resta clara a negativa de prestação jurisdicional e ausência de fundamentação do acórdão recorrido, motivo pelo qual pugna-se pela subida do recurso especial, bem como pelo seu provimento.
+Contraminuta às fls. 1.056-1.063, e-STJ, em que se pugnapelo desconhecimento do Agravo em virtude do não recolhimento da multa aplicada no Agravo Interno, ou pelo seu desprovimento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27 de abril de 2022.
+Verifico que houve aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC, quando do julgamento do Agravo Interno na origem (fls. 1.008-1.021, e-STJ). Não há nos autos a comprovação do pagamento.
+Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, exceção feita à Fazenda Pública e ao beneficiário da justiça gratuita, que farão o pagamento ao final.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, "o prévio recolhimento da multa prevista no art. 557, § 2º, do CPC/73 é pressuposto objetivo de admissibilidade do recurso, não sendo possível o seu conhecimento sem o devido pagamento. Entendimento que se aplica mesmo às hipóteses em que o recorrente é beneficiário da justiça gratuita, pois tal benesse não afasta a responsabilidade por penalidades processuais legais por atos de procrastinação ou litigância de má-fé ocorridos no curso da lide" (AgRg no AREsp 237.403/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe 15.8.2019).
+O entendimento acima é aplicável também aos casos em que o Agravo contra Recurso Especial inadmitido aguardou o julgamento do Agravo Interno para seu prosseguimento.
+Ademais, o Agravotambém não mereceria provimento. A sentença consignou:
+Da análise dos autos, impõe-se reconhecer que, dentre as rubricas que integraram a base de cálculo do imposto objeto da lide, todas constituem fato gerador do ISS, pelo que se mostra devida a incidência do imposto.
+O Tribunal de origem referendou a decisão consignando no acórdão integrativo:
+Concluiu-se no julgamento do recurso de apelação que, diante do entendimento de cabimento da interpretação extensiva da referida lista para efeitos de incidência do ISS sobre os serviços bancários, o fato de a perícia ter identificado serviços que não contém previsão expressa na lei não é suficiente para afastar a incidência do ISS sobre os serviços da apelante.
+A parte pretende instaurar nova discussão sobre questão já apreciada, com a qual não concorda, o que se mostra incabível em sede de embargos declaratórios. Não vislumbro qualquer omissão obscuridade, contradição ou erro material a ensejar o acolhimento dos embargos.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Da leitura atenta do voto condutor, vê-se que o Tribunal de origem manifestou-se de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais orecorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+Verifica-se, outrossim, que a interpretação extensiva da qual resulta simplesmente a inclusão, nos itens já constantes da listade serviços congêneres de mesma natureza, distintos em geral apenas por sua denominação, não configura recusa à prova pericial produzida. Correta, portanto, a afirmação do acórdão no sentido de que "o fato de a perícia ter identificado serviços que não contém previsão expressa na lei não é suficiente para afastar a incidência do ISS sobre os serviços da apelante".
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
