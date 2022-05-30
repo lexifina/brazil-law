@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de minha lavra que conheceu do Recurso Especial para negar-lhe provimento, ante o óbice da Súmula 7 desta Corte (fls. 649-653, e-STJ).
+Os agravantes reiteram que o Tribunal de origem valorou erroneamente as provas carreadas aos autos, visto que fazem jus ao benefício pleiteado. Postulam a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PENSÃO POR MORTE. INVALIDEZ PRÉVIA AO FALECIMENTO DO INSTITUIDOR. AUSÊNCIA DE COMPROVAÇÃO. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão monocrática que conheceu do Recurso Especial para negar-lhe provimento, ante o óbice da Súmula 7 desta Corte (fls. 649-653, e-STJ). Os agravantes reiteram que o Tribunal de origem valorou erroneamente as provas carreadas aos autos, visto que fazem jus ao benefício pleiteado.
+2. No presente Agravo, as partes se limitam a repetir os argumentos já suscitados anteriormente, alegando que foi comprovada a invalidez prévia ao falecimento do instituidor da pensão. Ocorre que o Tribunal de origem é expresso ao constatar o contrário, transcrevo (fl. 551, e-STJ): "No caso vertente, além de inexistir evidência material da invalidez de Jucicleide antes de 2001, a prova documental demonstrou que ela ingressou no mercado de trabalho em 2003, com apenas 22 (vinte e dois) anos de idade, e manteve dois vínculos empregatícios relativamente duradouros até 2010, quando passou a usufruir do benefício de auxílio-doença, razão pela qual é pouco crível que a incapacidade laboral constatada pelo vistor oficial já estivesse presente em 2001. Desse modo, à míngua de comprovação da eclosão da invalidez antes do óbito, a coautora Jucicleide deve ser excluída do rol de dependentes válidos do segurado instituidor".
+3. Para desconstituir o entendimento da Corte a quo, reconhecer o termo inicial da invalidez implicaria nítida reanálise do conjunto fático-probatório, o que é inviável devido à Súmula 7 do STJ. Nesse sentido: AgInt nos EDcl no REsp 1.806.952/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe 28.8.2020.
+4. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.4.2022.
+A irresignação não merece prosperar.
+No presente Agravo, as partes se limitam a repetir os argumentos já suscitados anteriormente, alegando que foi comprovada a invalidez prévia ao falecimento do instituidor da pensão. Ocorre que o Tribunal de origem é expresso ao constatar o contrário, transcrevo (fl. 551, e-STJ):
+No caso vertente, além de inexistir evidência material da invalidez de Jucicleide antes de 2001, a prova documental demonstrou que ela ingressou no mercado de trabalho em 2003, com apenas 22 (vinte e dois) anos de idade, e manteve dois vínculos empregatícios relativamente duradouros até 2010, quando passou a usufruir do benefício de auxílio-doença, razão pela qual é pouco crível que a incapacidade laboral constatada pelo vistor oficial já estivesse presente em 2001.
+Desse modo, à míngua de comprovação da eclosão da invalidez antes do óbito, a coautora Jucicleide deve ser excluída do rol de dependentes válidos do segurado instituidor.
+Reitero, portanto, que desconstituir o entendimento da Corte a quo, a fim de reconhecer o termo inicial da invalidez, implicaria nítida reanálise do conjunto fático-probatório, o que é inviável devido à Súmula 7 do STJ. Assim:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. DEPENDENTE. INVALIDEZ ANTES DA MORTE DO SEGURADO. COMPROVAÇÃO PERÍCIA ESPECIALIZADA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando o restabelecimento de pensão por morte. Na sentença, julgou-se improcedente o pedido inicial. No Tribunal a quo, a sentença foi anulada para determinar o retorno dos autos à instância ordinária, a fim de que seja realizada a produção de prova pericial por médico especialista. Nesta Corte, não se conheceu do recurso especial.
+II - A jurisprudência desta Corte Superior é pacífica no sentido de que, em se tratando de dependente maior inválido, basta a comprovação de que a invalidez é anterior ao óbito do segurado. Nesse sentido: (AgInt no REsp n. 1.689.723/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2017, DJe 5/12/2017 e REsp n. 1.551.150/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/10/2015, DJe 21/3/2016).
+III - Desta forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Verifica-se que a irresignação do recorrente, acerca da comprovação ou não da invalidez, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que "não há como precisar se a incapacidade é preexistente ao óbito do instituidor da pensão (20/05/1998), requisito necessário à concessão do benefício pleiteado, razão pela qual se faz necessária a realização de perícia médica judicial (fl. 589)".
+V - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+VI - Agravo interno improvido.
+(AgInt nos EDcl no REsp 1.806.952/PB, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28/8/2020).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
