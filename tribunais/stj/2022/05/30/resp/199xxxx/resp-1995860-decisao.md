@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado (fls. 535-541, e-STJ):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO PELA FAZENDA PÚBLICA. LEI Nº 9.494/1997, ART. 1º-D. RESSALVA. REQUISIÇÃO DE PEQUENO VALOR. HONORÁRIOS SUCUMBENCIAIS.
+1. Em julgamento realizado pelo Pleno do egrégio Supremo Tribunal Federal, foi declarada a constitucionalidade do disposto no referido art. 10-D da Lei nº 9.494/1997, ressalvando a garantia de condenação da Fazenda Nacional na hipótese de execução nos casos de pagamento por meio de Requisição de Pequeno Valor. (RE 420816, Relator(a): Min. CARLOS VELLOSO, Relator(a) p/ Acórdão: Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, julgado em 29/09/2004, DJ 10-12-2006 PP-00050 EMENT VOL-02255-04 PP-00722).
+2. Restou esclarecido, no julgamento de embargos de declaração opostos contra o decisum acima mencionado, que: "Execução, contra a Fazenda Pública, não embargada: honorários advocatícios indevidos na execução por quantia certa (CPC, art. 730), excluídos os casos de pagamento de obrigações definidas em lei como de pequeno valor (CF/88, art. 100, caput e § 30). Embargos de declaração: ausência de contradição a sanar no acórdão embargado: rejeição. 1. Na medida em que o caput do art. 100 condiciona o pagamento dos débitos da Fazenda Publica à "apresentação dos precatórios" e sendo estes provenientes de uma provocação do Poder Judiciário, é razoável que seja a executada desonerada do pagamento de honorários nas execuções não embargadas, às quais inevitavelmente se deve se submeter para adimplir o crédito. 2. O mesmo, no entanto, não ocorre relativamente à execução de quantias definidas em lei como de pequeno valor, em relação às quais o § 3º expressamente afasta a disciplina do caput do art 100 da Constituição.". (RE 420816 ED, Relator(a): Min. SEPUL VEDA PERTENCE, Tribunal Pleno, julgado em 21/03/2007, DJe-004 DIVULG 26-04-2007 PUBLIC 27-04-2007 DJ 20-04-2007 PP-00086 EMENT VOL-02272-05 PP-00946 RCJ v. 21, n. 136, 2007, p. 113)
+3. Desta feita, este egrégio Tribunal, na esteira dos precedentes acima mencionados, reconhece que é correta a condenação da Fazenda Nacional em honorários sucumbenciais em execuções cujos créditos são passíveis de satisfação mediante Requisição de Pequeno Valor, como no presente caso. Assim, devidos os honorários advocatícios aos apelantes.
+4. Tenho firmado o entendimento de que a referida verba honorária tem característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+5. Ademais, entendo que a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos.
+6. Nesse sentido, os honorários advocatícios sucumbenciais devem guardar observância aos princípios da razoabilidade e da equidade, razão pela qual devem ser fixados considerando-se o previsto nos incisos I a V do § 30 c/c o Inciso I do § 40 do art. 85 do NCPC, cujo montante deverá ser apurado no momento processual oportuno.
+7. Apelação provida.
+Embargos de Declaração rejeitados (fls. 550-555, 572-576, e-STJ).
+Aponta-se, em preliminar, violação do art. 1.022, II, do CPC/2015, por omissão; e, no mérito, dos arts.1º-Dda Lei 9.494/1997; e 85, § 7º, do CPC/2015.Alega-se, em suma, que não são cabíveis honorários nas execuções por RPV não embargadas(fls. 581-592, e-STJ).
+Admitiu-se o intento (fls. 651-652, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.5.2022.
+Oacórdãoestá em consonância com o entendimento do STJ de que são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor (RPV).
+Por essas razões, também não há ofensa ao art. 1.022, II, do CPC/2015,revelando-se desnecessária a análise de todos os pontos levantados, uma vez que seriam incapazes de infirmar a conclusão adotada, nos termos do art. 489, § 1º, IV, do CPC/2015.Veja-se precedentes, com grifos inclusos:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA FASE DE CUMPRIMENTO DE SENTENÇA. ART. 85, § 1º, DO CPC. OBRIGAÇÃO DE PEQUENO VALOR. PAGAMENTO POR RPV. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+1. Na hipótese dos autos, extrai-se do acórdão vergastado que o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça de que são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+2. Agravo Interno não provido.(AgInt no AREsp 1.461.383/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.10.2019)
+PROCESSUAL CIVIL. EXECUÇÃO DE OBRIGAÇÃO DE PEQUENO VALOR. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. INCIDÊNCIA.
+1. Consoante o entendimento desta Corte, são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+2. Agravo interno não provido.(AgInt no REsp 1.503.410/SC, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 27.6.2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÕES NO JULGADO. ALEGAÇÕES DEFICIENTES. SÚMULA 284/STF. EXECUÇÃO CONTRA A FAZENDA PÚBLICA.CRÉDITOS DE HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO DE VERBA IDÊNTICA NESSA NOVA FASE. POSSIBILIDADE. QUANTIA SUJEITA AO REGIME DA REQUISIÇÃO DE PEQUENO VALOR - RPV.
+(..)3. De acordo com a jurisprudência desta Corte Superior, são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+4. Recurso especial conhecido em parte e, nessa extensão, provido.(REsp 1.548.485/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 3.4.2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA.RECURSO ESPECIAL PROVIDO. ART. 1º-D DA LEI N. 9.494/97. EXECUÇÃO NÃO EMBARGADA CONTRA A FAZENDA PÚBLICA. PAGAMENTO POR RPV. HONORÁRIOS.CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+(..)III - O Superior Tribunal de Justiça tem orientação pacificada segundo a qual são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, cujo pagamento é feito por meio de Requisição de Pequeno Valor - RPV.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.(AgInt no REsp 1.547.254/SC, Rel. Min. Regina Helena Costa, Primeira Turma,DJe 24.5.2017)
+Ante o exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
