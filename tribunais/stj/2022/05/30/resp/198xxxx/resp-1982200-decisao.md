@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto porIDAIR CIRILO com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado, in verbis:
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. APELAÇÃO NÃO CONHECIDA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE HOMOLOGOU CÁLCULOS DA CONTADORIA DO JUÍZO SEM EXTINGUIR O PROCESSO. INTERPOSIÇÃO DE APELAÇÃO NO LUGAR DO AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. INEXISTÊNCIA DE DÚVIDA OBJETIVA.
+1. Recurso de apelação interposto em face da decisão que homologou os cálculos apresentados pela Contadoria do Juízo em sede de cumprimento de sentença em mandado de segurança e determinou a efetivação do depósito dos valores apurados.
+2. Em se tratando de decisão que não colocou fim ao processo, o recurso cabível seria o agravo de instrumento, conforme teor do parágrafo único do art. 1.015 do CPC.
+3. A jurisprudência do STJ sempre inadmitiu a aplicação do princípio da fungibilidade recursal no caso de erro grosseiro, o que se verifica no caso em tela, vez que o impetrante interpôs apelação em fase de decisão interlocutória, cujo recurso cabível encontra-se claramente definido pelo CPC, não havendo que se falar na existência de dúvida objetiva.
+4. Apelação do impetrante não conhecida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violadosos arts. 203, §1º, 489, 1.022 e1.025 do CPC/2015, sustentando, em síntese, que é cabível o recurso de apelação contra decisão que determina o arquivamento dos autos e extingue o processo deexecução em facedafazenda pública.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O recurso especial deve ser provido.
+O entendimento adotado pelo Tribunal de origem está em dissonânciacom a jurisprudência desta Corte Superior, a qual firmou entendimento no sentido de que o provimento que determina a baixa earquivamentoda execução, como na hipótese dos autos, tem natureza de sentença, porquanto coloca termo ao processo e,portanto, deve ser atacada porapelação(AgInt no REsp 1.572.856/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 11/6/2018).
+Por oportuno, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. RECURSO EM FACE DE DECISÃO QUE DETERMINOU O ARQUIVAMENTO DO FEITO EXECUTIVO COM A RESPECTIVA BAIXA. NATUREZA TERMINATIVA. RECURSO CABÍVEL. APELAÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "O entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, segundo a qual o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação" (AgInt no REsp 1.572.856/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 11/6/2018).
+3. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ, aplicável tanto ao recurso especial pela alínea a como pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp 1611768/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/09/2021, DJe 03/11/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO QUE DETERMINOU O ARQUIVAMENTO DA EXECUÇÃO CONDICIONADO À PRECLUSÃO RECURSAL. CABIMENTO DO RECURSO DE APELAÇÃO. RECURSO PROVIDO.
+1. De acordo com a jurisprudência desta Corte, o recurso cabível contra decisão que extingue o processo de execução e determina o arquivamento dos autos é a apelação. Precedentes.
+2. A decisão do Juízo de primeiro grau constituiu pronunciamento judicial que pôs fim à fase executiva do processo, tanto é que determinou o arquivamento do feito, condicionado apenas à preclusão recursal.
+3. Não se pode afastar o cabimento do recurso de apelação apenas pelo fato de a decisão ter mencionado a necessidade de aguardar a preclusão. Tal providência  aguardar a preclusão antes do arquivamento  deve sempre ser adotada quando houver a presença de interesse recursal, a fim de assegurar o direito ao contraditório e à ampla defesa, bem como evitar arquivamento precipitado dos autos.
+4. Assim, como a decisão determinou o arquivamento do processo, independentemente de qualquer outra providência, deve-se reconhecer o cabimento do recurso de apelação, nos moldes da jurisprudência desta Corte.
+5. Recurso especial provido para determinar a devolução dos autos à origem a fim de que seja processado e julgado o recurso de apelação.
+(REsp 1740778/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 23/09/2021, DJe 14/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. PROVIMENTO JUDICIAL QUE, EM LIQUIDAÇÃO DE SENTENÇA, EXTINGUE O PROCESSO. RECURSO CABÍVEL. APELAÇÃO.
+1. Consoante orientação deste Superior Tribunal de Justiça, "ao dispor que "Da decisão de liquidação caberá agravo de instrumento", o art. 475-H do CPC está disciplinando o que comumente ocorre, ou seja, que a decisão se limite a resolver o incidente de liquidação, fixando o quantum debeatur a ser objeto da execução forçada subsequente. Todavia, se o ato judicial proferido no âmbito do incidente de liquidação extingue o próprio processo, determinando inclusive o arquivamento dos autos, sua natureza já não será de simples decisão interlocutória que "decide a liquidação", mas de verdadeira sentença (CPC, art. 162, § 1º), contra a qual o recurso cabível será o de apelação (CPC, art. 513)" (REsp 1090429/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 20/05/2010, DJe 26/05/2010) 2. Agravo interno não provido.
+(AgInt no AREsp 1054164/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial paradeterminar a devolução dos autos à origem a fim de que seja processado e julgado o recurso de apelação.
+Publique-se. Intimem-se.
