@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por AUTO POSTO SÃO SEBASTIÃO LTDA e OUTROS em face de decisão proferida pelo em. Presidente do STJ, que não conheceu do agravo em recurso especial.
+Os agravantes sustentam, em síntese, que foram impugnados os fundamentos da decisão agravada.
+Requerem, ao final, a reconsideração da decisão ou sua reforma pelo Órgão Colegiado (fls. 264-277).
+A parte agravada apresentou impugnação às fls. 281-288.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.016.711 - RS (2021/0345884-0)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+AUTO POSTO SAO SEBASTIAO LTDA
+AGRAVANTE
+:
+DALVI SCUDELLA
+AGRAVANTE
+:
+ELAINE CHESINI SCUDELLA
+AGRAVANTE
+:
+ELOI ANTONIO SCUDELLA
+AGRAVANTE
+:
+JANETE FROZZA SCUDELLA
+ADVOGADO
+:
+CARLOS EDUARDO DE LA TORRES DIAS - RS054063
+AGRAVADO
+:
+AM/PM COMESTÍVEIS LTDA
+ADVOGADOS
+:
+GUILHERME PEDERNEIRAS JAEGER - RS049175
+CHRISTIAN PFEIFER KOELLN - RS077104
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Na hipótese, o recurso especial não foi admitido pelo Tribunal de origem, em razão da ausência de afronta ao art. 1.022 do CPC/2015 e por estar o acórdão recorrido em consonância com o entendimento desta Corte Superior.
+Nas razões do agravo em recurso especial, todavia, os agravantes não impugnaram especificamente todos os fundamentos da decisão agravada.
+Para que se possa reformar a decisão que não admite o recurso especial, é necessário que a parte agravante impugne, de forma específica, os fundamentos do decisum agravado, de modo a demonstrar expressamente o desacerto do julgado.
+Isso, porque o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar a razão pela qual a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando).
+A inobservância dessa regra atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015, verbis:
+"Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+A propósito, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO MINISTRO PRESIDENTE QUE NÃO ADMITIU RECURSO ESPECIAL. PARTE QUE DEIXOU DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo.
+2. Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação.
+3. Continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+4. Agravo interno não provido."
+(AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 18/10/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados não deve, de fato, ser conhecido.
+2. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp 1956994/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 09/05/2022, DJe 11/05/2022)
+Cabe ressaltar que, por ocasião do julgamento dos EAREsps 701.404, 746.775 e 831.326, concluído na sessão do dia 19/9/2018, a Corte Especial, com a ressalva do entendimento pessoal desta relatoria em sentido contrário, consolidou a orientação de que, para se viabilizar o conhecimento do agravo em recurso especial, é necessário que o recorrente impugne especificamente a integralidade dos fundamentos da decisão agravada, autônomos ou não, o que não ocorreu na espécie.
+Considerando a missão uniformizadora do Superior Tribunal de Justiça, impõe-se a manutenção da decisão agravada, porque proferida segundo o entendimento adotado pela Corte Especial.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
