@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Supermix Concreto S/A, contra decisão que negou provimento ao recurso especial, sob a incidência das Súmulas 7 do STJ e 356 do STF.
+Nas razões dos embargos de declaração, a parte sustenta que "requer seja saneada a omissão (art. 1.022, II c/c art. 489, IV e V do CPC) no que tange à existência de prequestionamento dos arts. 231, § 1º do Decreto-Lei nº 1.598/77; 77, I, do Decreto n. 6759/09; 289, §1º, do Decreto n. 3.000/99 e 1.187, II, do Código Civil (fls. 1860/1861), devidamente realizado pela Embargante nas contrarrazões ao recurso de apelação, nos termos do Enunciado nº 356 da Súmula do STF e do art. 1.013 do CPC.  .. Nunca houve discussão sobre a matéria probatória; só a de direito! Por isso a decisão monocrática de fls. 2551/2554 é novamente omissa, já que baseando-se em dois vocábulos desconexos ("conjunto probatório"), pretendeu alterar o contexto dos demais períodos do acórdão que dera a conotação única e exclusiva de que faltava sustentação legal para o direito pretendido pela Recorrente, em flagrante violação ao art. 489, §3º do CPC." (fls. 2.569/2.570).
+Transcorrido in albis o prazo para impugnação (fl. 2.578).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o estatuído no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para corrigir erro material.
+Conforme constou na decisão agravada, complementada quando do julgamento dos aclaratórios, não houve o prequestionamento dos arts. 231, § 1º do Decreto-Lei n.º 1.598/77; 77, I, do Decreto n. 6759/09; 289, §1º, do Decreto n. 3.000/99 e 1.187, II, do Código Civil, e a parte ora embargante sequer os mencionou nos aclaratórios opostos para suprir eventual omissão, sendo inafastável o óbice da Súmula 356/STF no ponto.
+Ademais, o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial e a aplicação da norma federal no caso dos autos, não sendo suficiente, para tanto, que a questão tenhasido suscitada pela parte nos recursos que aviaram perante aquele Sodalício.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. PRINCÍPIO DA MENOR ONEROSIDADE DO DEVEDOR.
+ART. 620 DO CPC. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Inviável a apreciação de ofensa a dispositivos constitucionais (5º, inciso XXII, e 170 da Constituição Federal), uma vez que não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição Federal.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+3. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto, o que não ocorreu.
+ ..  Agravo interno improvido.
+(AgInt no REsp 1595460/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/08/2016, DJe 17/08/2016)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA.COMPLEMENTAÇÃO DE APOSENTADORIA. REPETIÇÃO DO INDÉBITO.IRPF INCIDENTE SOBRE BENEFÍCIO DE APOSENTADORIA COMPLEMENTAR. CONTRIBUIÇÕES VERTIDAS PELA PARTE AUTORA.PERÍODO ENTRE 1989 E 1995. FORMA DE APURAÇÃO.PREQUESTIONAMENTO. TRIBUNAL DE ORIGEM. NECESSIDADE DE EFETIVO DEBATE DAS QUESTÕES. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. AFASTAMENTO PELO TRIBUNAL A QUO.
+1. Não é suficiente, para fins de prequestionamento, a menção pelo Tribunal de origem de que dá por prequestionados os dispositivos legais suscitados pelos apelantes, sendo necessário o efetivo debate das questões levantadas no recurso especial. Incidência da Súmula 211/STJ.
+ ..  4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1172079/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+Ademais, no caso, o decisum ora embargado foi expresso em asseverar as razões pelas quais o apelo nobre não seria passível de provimento, destacando a necessidade de reexame de provas com a consequente incidência da Súmula 7 do STJ na hipótese.
+É ver (fl. 2.553):
+Assim, ao contrário do que entendeu a douta sentenciante, do conjunto probatório, denota-se que a empresa apelada não conseguiu demonstrar o direito à dedução dos valores referentes ao frete/transporte da base de cálculo do ISS incidente sobre serviços de concretagem, mormente porque, a teor dos arts. 3 º da Lei nº6.830/80 e 204 do CTN, a certidão de divida ativa é título executivo extrajudicial que goza de certeza e liquidez, presunção afastada somente por prova robusta. Portanto, cabe ao executado comprovar a inexigibilidade do titulo cobrado, o que não ocorreu no caso em análise.
+Nesse contexto, se inexiste previsão legal para a dedução dos valores referentes ao transporte/frete, não há como serem deduzidos da base de cálculo do ISSQN e, por conseguinte, deve prevalecer a autuação fiscal de glosa dos valores indevidamente deduzidos da base de cálculo do tributo.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegada obscuridade do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material a ser corrigido, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. INTUITO PROTELATÓRIO. MULTA.
+1. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento, ausentes in casu.
+3. O inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+4. A insurgência revela o propósito manifestamente protelatório e a utilização indevida dos aclaratórios, justificando a incidência da sanção prevista no art.538, parágrafo único do CPC.
+5. Embargos de Declaração rejeitados, com fixação de multa de 1% sobre o valor da causa.
+(EDcl no AgRg nos EDcl no AgRg no REsp 1.317.962/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/12/2014, DJe 02/02/2015)
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade, contradição ou erro material.
+2. A contradição que autoriza os embargos de declaração é aquela interna do acórdão, verificada entre sua fundamentação e conclusão.
+3. Resumindo-se irresignação do embargante ao seu mero inconformismo com o resultado do julgado, desfavorável à sua pretensão, não há nenhum fundamento que justifique a interposição de embargos.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AREsp 10.023/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 07/08/2012, DJe 20/08/2012)
+Ainda na linha de nossa jurisprudência, "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/05/2016, DJe 31/05/2016).
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
