@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FILIPE FOGIATTO MARTINScontra acórdão prolatado pela 3ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 542e):
+ADMINISTRATIVO. MILITAR LICENCIADO. PERÍCIA. CAPACIDADE PLENA, TANTO PARA AS ATIVIDADES MILITARES COMO CIVIS. REINTEGRAÇÃO PARA TRATAMENTO MÉDICO - IMPOSSIBILIDADE.1. Na espécie, restou comprovado que o ex-militar licenciado foi considerado em perícia médica judicial que possui plena capacidade física laboral, tanto para atividade militar como para o trabalho civil, sendo assim incompatível com os requisitos da reintegração.2. Nos termos do artigo 397 do Código de Processo Civil, o documento apresentado não se trata de documento novo, mas sim de uma prova que o apelante não apresentou em momento adequado, querendo o fazer quando melhor lhe convier o que é inviável do ponto de vista processual.
+Opostos embargos de declaração, foram rejeitados (fls. 554/559e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos ao art. 535 do Código de Processo Civil, alegando-se, em síntese, que:
+embora provocado, o tribunal de origem não se manifestou acerca de questão relevante àsolução da controvérsia;
+ao deixar de analisar documento - que consiste em fato superveniente - o tribunal de origem nega a própria prestação jurisdicional, uma vez que impede que prova essencial para aos autos seja analisada; e
+com efeito,o Recorrente tomou conhecimento da existência de fato novo superveniente, com força modificativa da decisão, em face do reconhecimento da UNIÃO da incapacidade do Recorrente em data posterior à dilação probatória e que se apresentou contraditório ao que o perito apontou como período suficiente à recuperação.
+Com contrarrazões (fls. 580/590e), o recurso foi admitido (fl. 593e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+O Recorrente sustenta a existência de omissãono acórdão recorrido não supridano julgamento dos embargos de declaração, porquanto não houve manifestação quanto ao fato/elemento probatório novo.
+Ao prolatar o acórdão recorrido, o tribunal de origem enfrentou a controvérsia apresentada nos seguintes termos (fl. 538e):
+Ressalto que o documento acostado pela parte autora afirmando que o autor aindaprecisaria de nova avaliação médica não se trata de documento novo, mas sim de prova cuja produção não foi postulada pelo apelante em momento adequado, querendo o fazer em momento que melhor que convenha, ou seja, após improcedência do pedido de reforma, o que é inviável do ponto de vista processual, nos termos do artigo 397 do Código de Processo Civil. Portanto, não conheço do documento.
+Gizo que o documento tem data anterior à prolação da sentença, e era de conhecimento do autor, não havendo, pois, motivos para a reforma da sentença.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Com efeito, haverá contrariedade ao art. 535 do Código de Processo Civil quando a omissão disser respeito ao pedido, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1.284.814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1.365.736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+E depreende-se da leitura do acórdão recorrido que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
