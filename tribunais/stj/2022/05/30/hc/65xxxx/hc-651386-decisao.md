@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deCARLOS AFONSO ZAIDAN FILHOem que se aponta como autoridade coatoraTribunal Regional Federal da 5ª Região(Apelação Criminal n.0810679-83.2017.4.05.8300).
+Consta dos autos que o paciente foi condenado, pela prática docrime de peculato-furto, àpenade 6 anos e 8 meses de reclusão no regime inicial semiaberto e ao pagamento de 37,5 salários mínimos.
+A apelação interposta na origem foi desprovida nos termos do acórdão de fls. 139-153.
+A defesa impetrou o presentehabeas corpus,alegando que o paciente está sofrendo constrangimento ilegalem razão da aplicação indevida, durante a terceira fase do processo dosimétrico, da fração de 2/3 a título de crime continuado,ensejandoexcesso na condenação penal. Esclarece que deveria ter sido aplicado o percentual de 1/4, tendo em vista a configuração de apenas 4 infrações penais.
+Requer o redimensionamento da pena após a redução do percentual de 2/3 a 1/4, adequando-se a sentença condenatória.
+As informações foram prestadas às fls. 160-171 e 172-213.
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 215-217).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Segundo aorientação do STJ, "por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetriada penaé passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório" (AgRg noHCn. 661.709/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 25/3/2022).
+No caso, o Tribunal de origem considerou como proporcional o incremento de 2/3 na terceira fase de aplicação da pena, tendo em vista a continuidade delitiva,consubstanciada, segundo disposto na sentença, em 33 repetições dacondutareferenteà emissão de notas frias,o que, conforme o relator do caso, está em consonância com a jurisprudência do STJ, pois o quantum de majoraçãobaseou-se no número de infrações cometidas. É o que se vê do seguinte trecho do acórdão (fl. 148):
+Quanto ao incremento da continuidade delitiva, a sentença aplicou o incremento na fração máxima - 2/3 (dois terços), consideradas as 33 repetições nas condutas dos réus (referentes às notas frias), o que soa em consonância com entendimento atual do STJ, que em se tratando deem se tratando de continuidade delitiva, aplica-se a fração de aumento de 1/6 pela prática de 2infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações;  para 6 infrações e 2/3 para 7 ou mais infrações.
+Em princípio ediante dos limites impostos na via estreita dohabeas corpus, o entendimento firmado pela Corte de origem está de acordo com a jurisprudência pacífica do STJ de quea fração de aumento depenapelacontinuidade delitivadeve corresponder ao número de infrações penais cometidas. Nesse sentido, fixou-se a tesede que se deve "aplicar 1/6 pela prática de 2 infrações;1/5, para 3 infrações; 1/4, para 4 infrações; 1/3, para 5 infrações;1/2, para 6 infrações; e2/3,para 7 ou mais infrações"(REsp 1.732.778/GO, relator Ministro Jorge Mussi, Quinta Turma,DJe de 22/8/2018).
+Assim, ainda que a defesa afirme que a emissão de notas frias, por si só, não leva àpresunção da prática de infração e, por consequência, não se prestaria paracaracterizaro locupletamento ilícito dos valores tributários, certo é que o Tribunal a quo, com base no conjunto fático-probatório dos autos e na fundamentação utilizada na sentença condenatória, reconheceu a prática de 33 infrações penais em continuidade delitiva, justificando, portanto, a aplicação do incremento em seu patamar máximo de 2/3.
+Acrescente-se que a defesa não logrou êxito em infirmar, de forma categórica,a conclusão adotada no acórdão impetrado.
+Dessa maneira, torna-se inviável rever o entendimento da Corte de origem por demandar necessária dilação probatória, o que é vedadona via estreita dohabeas corpus.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
