@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor deTIAGO GOMES DANTAS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado àspenas de9 anos e 4 meses de reclusão, emregime inicial fechado, e ao pagamento de 1.399dias-multa,como incurso nos arts. 33,caput, e 35 da Lei n. 11.343/2006, sendo-lhe negado o recurso em liberdade.
+Nesta Corte, sustenta a defesa excesso de prazo no julgamento da apelação, uma vez que o paciente está encarcerado desde o dia 15/05/2020e o apelo defensivo foi interposto no dia 27/04/2021, sem que haja previsão de seu julgamento.
+Aduz, ainda, que não foi apresentada fundamentação idônea para a manutenção da sua prisão preventiva.
+Requer, assim, a revogação da prisão preventiva, com a fixação de medidas cautelares diversas.
+Pedido liminar indeferido (e-STJ, fl. 74).
+Informações prestadas (e-STJ, fls. 77-118).
+O Ministério Público Federal opinou pelo não conhecimento da impetração e, caso conhecida, pela denegação da ordem pleiteada (e-STJ, fls. 122-124).
+É o relatório.
+Decido.
+A irresignação não comporta acolhimento.
+Inicialmente, cumpre destacar que a tese de ausência de fundamentação válida para a prisão cautelarconstituimera reiteração do pedido formulado noHC 613656/SP, de minha relatoria, que não foi conhecido, em decisão publicada no dia 02/02/2021. Segundo se infere, háidentidade de partes e da causa de pedir, impugnando os dois feitos a prisão cautelar decretada no processo originário n.1500202-89.2020.8.26.0651, o queconstitui óbice ao seu conhecimento.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ .. .
+(HC 400.229/SP, Rel.Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+No mais, não merece acolhimento o pedido de relaxamento da prisão cautelar.
+Alei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade, para que se verifique a ocorrência de constrangimento ilegal imposto ao réu.
+Consoante informações prestadaspelo Tribunal de origem e conforme verificado em consulta processual eletrônica no site daquela Corte, aapelação da defesa foi remetida ao juízo de 2º grauno dia 27/07/2021. Em seguida, foi distribuída ao relator, na data de06/08/2021, e foi ofertado parecer pela Procuradoria Geral de Justiça no dia 17/08/2021. Nesta mesma data, o processo foi concluso ao Relator, onde se encontra atualmente.
+Destarte, conforme se infere,ofeito segue trâmite razoável, sendo iminente o deslinde do feito.
+Anote-se, ainda, que, consoante entendimento pacificado nesta Corte, eventual excesso de prazo no julgamento da apelação deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória, que, in casu, foi de 9 anos e 4 meses de reclusão.
+Sobre o tema, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. RECEPTAÇÃO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RÉU CONDENADO À PENA DE 27 ANOS DE RECLUSÃO, EM REGIME FECHADO. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo. Assim, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. O paciente foi condenado à pena de 27 anos de reclusão pela prática dos crimes de roubo majorado e receptação, sendo-lhe negado o direito de recorrer em liberdade./ Desse modo, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena. Destarte, diante das circunstâncias peculiares do caso em tela, tem-se que a persecução penal tramita dentro do princípio da razoabilidade, sem registro de qualquer evento relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão.
+3. Embora tenha transcorrido prazo aproximado de 1 ano para o julgamento da apelação interposta, houve contínua movimentação do feito - a apelação ajuizada pelo causídico de Matheus foi recebida pelo Juiz a quo aos 27 de junho de 2018. O Ministério Público apresentou as contrarrazões aos 31 de julho seguinte. Ademais, aos 26 de setembro e 26 de novembro subsequentes, o patrono reiterou as razões recursais e requereu o imediato processamento do feito. A defesa do corréu Almir opôs embargos de declaração e, posteriormente, ajuizou apelação da aludida r. sentença, tendo o Magistrado recebido o recurso aos 16 de janeiro transato, determinando que fossem apresentadas as razões recursais e, após, as contrarrazões pelo Parquet.
+4. Agravo regimental improvido."
+(AgRg no HC 506.431/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/06/2019, DJe 05/08/2019).
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. NEGATIVA DE RECORRER EM LIBERDADE. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RECOMENDAÇÃO PARA CELERIDADE NO JULGAMENTO.
+1. A alegação de ilegalidade da negativa do direito de recorrer em liberdade da sentença penal condenatória não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+2. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+3. Esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória.(Precedentes)
+4. Na presente hipótese, o paciente foi condenado a uma pena total de 10 anos, 10 meses e 20 dias pela prática dos delitos de tráfico de drogas interestadual em associação criminosa que foi flagrada transportando 3,217kg (três quilogramas, duzentos e dezessete gramas) de cocaína. Está dentro dos limites da razoabilidade, portanto, o prazo de 24 meses desde o aviamento do recurso de apelação até a presente data, mormente se considerado serem 7 corréus com patronos distintos e o feito já se encontrar concluso para o relator.
+5. Ordem denegada, com recomendação."
+(HC 499.713/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/05/2019, DJe 18/06/2019).
+Ante o exposto, denegoohabeas corpus,com recomendação ao Tribunal de Justiça de São Paulo para que imprima celeridade no exame do apelo defensivo.
+Publique-se. Intimem-se.
