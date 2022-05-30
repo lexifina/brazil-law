@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  Agravo  Interno  interposto  pela  FAZENDA  NACIONAL  em  face  de  decisão  monocrática  de  minha  relatoria,  assim  ementada:
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  VIOLAÇÃO  AO  ART.  535,  II,  DO  CPC/1973  NÃO  CONFIGURADA.  AÇÃO  ANULATÓRIA  DE  DÉBITO  FISCAL.  TRIBUTO  SUJEITO  A  LANÇAMENTO  POR  HOMOLOGAÇÃO.  VERIFICAÇÃO  DA  OCORRÊNCIA  DA  PRESCRIÇÃO.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  CONSTANTE  DOS  AUTOS.  IMPOSSIBILIDADE.  APLICAÇÃO  DA  SÚMULA  7/STJ.  AGRAVO  EM  RECURSO  ESPECIAL  DA  FAZENDA  NACIONAL  A  QUE  SE  NEGA  PROVIMENTO  (fl.  624).
+2.  A  parte  insurgente,  nas  razões  do  agravo  interno  (fls.  632/634),
+refuta  os  fundamentos  da  decisão  agravada,  alegando  negativa  de  prestação  jurisdicional,  tendo  em  vista  que  o  acórdão  foi  omisso  quanto  à  observância  das  datas  de  efetiva  constituição  dos  créditos  tributários,  pois  eles  foram  constituídos  por  meio  de  autos  de  infração,  e  não  com  a  entrega  das  declarações  pelo  devedor  (fl.  633).
+3.  Requer,  ao  final,  seja  reconsiderada  a  decisão  agravada  ou,  se  assim  não  entender  Vossa  Excelência,  que  o  feito  seja  submetido  a  julgamento  pela  Turma,  para  que  seja  conhecido  e  provido  seu  recurso  especial  (fl.  634).
+4.  Houve  impugnação  ao  recurso  (fls.  642/648).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  VIOLAÇÃO  AO  ART.  535,  II,  DO  CPC/1973.  INEXISTÊNCIA.  OMISSÃO  NO  JULGADO  PROFERIDO  PELA  CORTE  A  QUO.  NÃO  OCORRÊNCIA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  há  que  falar  em  violação  ao  art.  535,  II,  do  CPC/1973  (art.  1.022,  II,  do  CPC/2015)  quando  a  matéria  em  exame  foi  devidamente  enfrentada  pelo  Tribunal  de  origem,  que  emitiu  pronunciamento  de  forma  clara  e  fundamentada,  ainda  que  em  sentido  contrário  à  pretensão  da  parte  agravante.
+2.  Os  elementos  utilizados  pela  Corte  a  quo  para  formação  do  convencimento  foram  devidamente  expostos  na  decisão.  Dessa  forma,  não  pairam  dúvidas  acerca  da  suficiência  da  motivação  adotada  e  da  inexistência  de  mácula  ao  dispositivo  legal  referido.
+3.  Não  há,  portanto,  ausência  de  análise  da  insurgência  recursal,  e,  sim,  exame  que  conduziu  a  resultado  diverso  do  que  a  parte  pretendia.  Isso  não  configura  vício  da  prestação  jurisdicional.
+4.  A  parte  recorrente  pode  discordar  do  acórdão  a  quo  por  entender  que  a  fundamentação  utilizada  é  inadequada  à  controvérsia.  A  hipótese,  entretanto,  não  é  de  omissão,  contradição  ou  obscuridade,  mas  de  descontentamento  da  parte  com  a  decisão  proferida.
+5.  Agravo  interno  desprovido.
+VOTO
+1.  A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+2.  Não  há  como  acolher  a  alegada  tese  de  violação  ao  art.  535,  II,  do  CPC/1973  (art.  1.022,  II,  do  CPC/2015),  visto  que  o  Tribunal  de  origem  apreciou  todas  as  questões  relevantes  ao  deslinde  da  controvérsia  de  modo  integral  e  adequado,  ainda  que  sob  ótica  diversa  daquela  do  ora  recorrente,  não  havendo  falar  em  negativa  de  prestação  jurisdicional.
+3.  Alega  a  parte  ora  agravante  que  "o  acórdão  foi  omisso  quanto  à  observância  das  datas  de  efetiva  constituição  dos  créditos  tributários,  pois  eles  foram  constituídos  por  meio  de  autos  de  infração,  e  não  com  a  entrega  das  declarações  pelo  devedor"  (fl.  633).
+4.  Ocorre  que  o  Tribunal  de  origem,  no  enfrentamento  da  matéria  sub  judice,  consignou:
+No  caso  dos  autos,  embora  tivesse  constado  das  CDA"s  notificações  pelos  Correios  em  28/12/2001  e  28/03/2003  (fls.  42/56),  os  créditos  exequendos  foram  constituídos  mediante  declaração  da  empresa  em  29/05/1998,  27/05/1998  e  03/02/1998  (fls.  58,  61,  65).
+(..)
+Assim,  levadas  em  consideração  as  datas  de  entrega  das  declarações  de  rendimentos  à  Receita  Federal,  resulta  insofismável  o  transcurso  do  lapso  temporal  de  cinco  anos,  uma  vez  a  ação  fora  ajuizada  em  09/03/2007  (autos  em  apenso)  e  os  processos  administrativos  relativos  às  CDA"s  70.7.06.011426-82  e  70.06.06.056002-20  somente  foram  protocolados  em  23/11/2006  (fls.  87  e  101)  -  (fls.  633/634  -  sem destaques no original).
+5.  Dessarte,  como  se  verifica  de  forma  clara,  não  se  trata  de  omissão,  mas  sim  de  inconformismo  direto  com  o  resultado  do  acórdão,  que  foi  contrário  aos  interesses  da  parte.
+6.  Ressalte-se  que  a  mera  insatisfação  com  o  conteúdo  da  decisão  embargada  não  enseja  embargos  de  declaração.  Esse  não  é  o  objetivo  dos  aclaratórios,  recurso  que  se  presta  tão  somente  a  sanar  omissões  decorrentes  da  ausência  de  análise  dos  temas  que  lhe  forem  trazidos  à  tutela  jurisdicional,  no  momento  processual  oportuno,  conforme  o  art.  535, II,  do  CPC/1973  (art.  1.022,  II,  do  CPC/2015).  A  propósito:
+TRIBUTÁRIO  E  PROCESSUAL  CIVIL.  ALEGADA  VIOLAÇÃO  AO  ART.  535  DO  CPC/1973.  INEXISTÊNCIA  DE  VÍCIOS,  NO  ACÓRDÃO  RECORRIDO.  INCONFORMISMO.
+(..)
+5.  Não  se  configura  a  alegada  ofensa  ao  art.  535  do  CPC/1973,  uma  vez  que  o  Tribunal  a  quo  julgou  integralmente  a  lide  e  solucionou,  de  maneira  amplamente  fundamentada,  a  controvérsia,  em  conformidade  com  o  que  lhe  foi  apresentado.
+6.  O  simples  descontentamento  da  parte  com  o  julgado  não  tem  o  condão  de  tornar  cabíveis  os  Embargos  de  Declaração,  que  servem  ao  aprimoramento  da  decisão,  mas  não  à  sua  modificação,  que  só  muito  excepcionalmente  é  admitida.  In  casu,  fica  claro  que  não  há  vícios  a  serem  sanados  e  que  os  Aclaratórios  veiculam  mero  inconformismo  com  o  conteúdo  da  decisão  embargada,  que  foi  desfavorável  à  recorrente.
+7.  Recorde-se,  ademais,  que  o  órgão  julgador  não  é  obrigado  a  rebater,  um  a  um,  todos  os  argumentos  trazidos  pelas  partes  em  defesa  da  tese  que  apresentaram.  Deve  apenas  enfrentar  a  demanda,  observando  as  questões  relevantes  e  imprescindíveis  à  sua  resolução.
+8.  Agravo  conhecido  para  conhecer  do  Recurso  Especial,  apenas  quanto  à  ofensa  ao  art.  535  do  CPC  e,  nessa  parte,  negar-lhe  provimento  (AREsp  1.579.801/BA,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  DJe  25/06/2020).
+7.  Ademais,  como  consignado  na  decisão  agravada,  a  partir  dos  elementos  constantes  do  aresto  objurgado,  aplicar  posicionamento  distinto  do  proferido  pela  Corte  a  quo  acerca  da  prescrição,  como  postulado  nas  razões  recursais,  implicaria,  necessariamente,  reexame  da  matéria  fático-probatória,  o  que  é  obstado  a  este  Tribunal  Superior,  conforme  determinado  na  Súmula  7/STJ:  A  pretensão  de  simples  reexame  de  prova  não  enseja  Recurso  Especial.
+8.  Pelas  considerações  expostas,  neg  o  provimento  ao  agravo  interno.
+9.  É  como  voto.
