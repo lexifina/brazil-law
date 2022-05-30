@@ -1,0 +1,25 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. NOVA INCIDÊNCIA DA SÚMULA N. 182/STJ. 2. AGRAVO NÃO CONHECIDO.
+1. A petição recursal do agravante esbarra mais uma vez no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foi impugnada sua incidência na decisão agravada. A não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por LUIS DOMINGOS DA SILVA contra decisão monocrática do Presidente, Ministro Humberto Martins, que não conheceu do agravo em recurso especial, em virtude do óbice do verbete n. 182 da Súmula do Superior Tribunal de Justiça.
+O agravante aduz, em um primeiro momento, que "a simples manifestação genérica de que não fora impugnado todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial, não poderá gerar obstáculo ao processamento do Agravo em Recurso Especial". Afirma, outrossim, que "o cabimento do recurso especial é manifesto" e reitera os termos do recurso especial.
+Pugna, assim, pelo provimento do agravo regimental.
+O Ministério Público Federa se manifestou, às e-STJ fls. 526/527, pelo não provimento do agravo regimental, nos seguintes termos:
+AGRAVO REGIMENTAL EM AGRAVO EMRECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DETODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INCIDÊNCIA DA SÚMULA Nº 182/STJ.
+- Pelo não provimento do Agravo Regimental.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+A insurgência não merece prosperar.
+Com efeito, a petição recursal do agravante esbarra mais uma vez no óbice do enunciado n. 182 da Súmula desta Corte, porquanto não foi devidamente impugnada sua incidência na decisão agravada, limitando-se o agravante a afirmar que "a simples manifestação genérica de que não fora impugnado todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial, não poderá gerar obstáculo ao processamento do Agravo em Recurso Especial".
+Como é cediço, a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é possível conhecer do presente agravo.
+A propósito:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. NÃO INFIRMADO O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. O pedido de reconsideração de decisão monocrática que não conhece de agravo em recurso especial deve ser recebido como agravo regimental, em atenção ao princípio da fungibilidade. 2. A decisão agravada não conheceu do agravo em recurso especial interposto porque não foram infirmados todos os fundamentos da decisão que não admitiu o apelo nobre na origem, atraindo a incidência da Súmula n. 182/STJ. 3. Nas razões do regimental, não foi impugnada essa fundamentação, mas apenas veiculados argumentos relativos ao mérito do recurso especial, o que faz incidir, uma vez mais, o óbice da Súmula n. 182/STJ. 4. Agravo regimental não conhecido. (RCD no AREsp 2069624/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/04/2022, DJe 29/04/2022)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO. 1. Diante da ausência de previsão regimental de pedido de reconsideração contra decisão de Relator e, em homenagem aos princípios da fungibilidade recursal e da instrumentalidade das formas, recebe-se o pedido de reconsideração como agravo regimental. 2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgRg na RvCr 5.110/DF, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/6/2020, DJe 4/8/2020). 3. Agravo regimental não conhecido. (AgRg no HC 715.829/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2022, DJe 25/03/2022)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
