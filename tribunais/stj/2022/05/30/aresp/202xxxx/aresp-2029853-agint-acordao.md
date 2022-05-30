@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAPA INCORPORADORA IMOBILIARIA PORTO ALEGRE II SPE S.A. contra decisão desta relatoria, assim ementada (e-STJ, fl. 309):
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. BENS IMÓVEIS. 1. ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. 2. RESTITUIÇÃO DAS PARCELAS PAGAS. SÚMULAS N. 5 E 7 DO STJ. 3. MULTA. AUSÊNCIA DE MÁ-FÉ OU INTUITO PROTELATÓRIO PELA INTERPOSIÇÃO DE RECURSO CABÍVEL. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante assevera a não incidência da Súmula n. 284/STF, tendo em conta que a rejeição dos embargos de declaração interpostos perante o Tribunal de origem implica em violação ao art. 1.022 do CPC/2015, considerado que tratou de forma suficiente clara a matéria em debate.
+Sustenta a inaplicabilidade das Súmulas n. 5 e 7 do STJ, sob a alegação de que não há necessidade de revolvimento de matéria fático-probatória, nem de interpretação de cláusulas contratuais, e sim de nova qualificação jurídica dos fatos constantes dos autos.
+Assegura a não incidência da Súmula n. 543/STJ, haja vista que os fundamentos da decisão recorrida foram devidamente expostos no recurso interposto e que o julgado encontra-se em desacordo com os dispositivos da legislação federal.
+Sem impugnação ao recurso (fl. 327, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. IMÓVEIS. OMISSÃO DA DECISÃO RECORRIDA. SÚMULA 284/STF. RESTITUIÇÃO DAS PARCELAS PAGAS. SÚMULA 543/STJ. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do Código de Processo Civil de 2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão foi omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. No que se refere à devolução dos valores pagos, observa-se que "o STJ possui firme o entendimento no sentido de que na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ) (AgInt no AREsp 2027173/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/04/2022, DJe 04/05/2022)
+3. A revisão das conclusões estaduais demandaria necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+De fato, conforme asseverado na decisão agravada, em relação à alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, constata-se a total ausência de discriminação dos pontos omissos e/ou contraditórios, incidindo, no caso, o óbice da Súmula n. 284 do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. SÚMULA N. 284 DO STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 1.022 do CPC/2015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, para alterar a conclusão da Corte estadual a respeito da extensão do acordo celebrado entre as partes, seria necessária nova análise de matéria fática, inviável em recurso especial ante o óbice das mencionadas súmulas.
+4. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+5.A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211 do STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.405.029/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021)
+No que se refere à devolução dos valores pagos, observa-se que "o STJ possui firme o entendimento no sentido de que na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ) (AgInt no AREsp 2027173/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/04/2022, DJe 04/05/2022)
+Na espécie, o Tribunal estadual, observadas as peculiaridades da causa, assim se manifestou (e-STJ, fls. 160-161):
+Compulsando os autos, verifica-se que é incontroverso que o contrato foi rescindido diante da impossibilidade de obtenção do financiamento por parte do promitente comprador (autor/apelante), de modo que não houve inadimplemento da construtora (ré/apelada).
+No caso, o apelante insurge-se quanto aos termos da rescisão, especificamente em razão do índice de correção monetária, defendendo que deveria ser aplicado o INCC, e à retenção de parte dos valores pagos operada pela vendedora no ato da devolução.
+Além das alegações de abusividade, o apelante sustenta não ter recebido quaisquer valores decorrentes do termo de rescisão, o qual previa o pagamento em 30 parcelas mensais de R$ 2.068,29, a contar de abril de 2018, corrigidas monetariamente pelo IPCA.
+Nesse particular, a ré/apelada não contestou especificamente, e tampouco manifestou-se de forma expressa em contrarrazões a esse respeito, uma vez que a matéria foi devolvida a julgamento em grau recursal.
+Outrossim, diante da alegação de ausência de pagamento, o ônus de comprová-lo era da parte ré/apelada, nos termos do artigo 373, II, CPC, trazendo aos autos os respectivos recibos, por exemplo.
+Tendo em vista que a ré deixou de fazer prova do pagamento, o fato tornouse confesso, de modo que cabível a determinação de devolução dos valores, que deverá, no entanto, se dar em uma única parcela, nos termos da Súmula 543 do Superior Tribunal de Justiça:
+(..)
+É cabível, portanto, a devolução dos valores, porém, de forma parcial, considerando que a construtora não estava inadimplente, tendo a rescisão se dado pela impossibilidade do financiamento pelo comprador/autor.
+Com efeito, conforme se extrai do termo de rescisão contratual (fls. 43/44), a vendedora declarou ter recebido do comprador o total de R$ 77.560,92 (cláusula primeira), tendo as partes acertado a devolução da importância de R$ 62.048,74 (cláusula segunda), o que significa que houve a retenção no percentual de 20%, embora esta previsão não tenha constado de forma expressa no documento.
+Nesse contexto, ao contrário do afirmado pela agravante, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. ATRASO NA ENTREGA DAS CHAVES. RESCISÃO. RELAÇÃO DE CONSUMO. REQUISITOS. TEORIA FINALISTA. VERIFICAÇÃO. DESCABIMENTO. SÚMULAS N. 282 DO STF E 211 E 7 DO STJ. LEGITIMIDADE PASSIVA AD CAUSAM. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULAS N. 211 DO STJ E 284, 282, E 283 DO STF. RESCISÃO. DEVOLUÇÃO INTEGRAL DAS QUANTIAS PAGAS. SÚMULAS N. 282 E 356 DO STF E 83 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF e 211 do STJ.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+5. No caso, para acolher a pretensão de descaracterizar a relação de consumo entre as partes e, por consequência, afastar as disposições do CDC, seria imprescindível nova análise da matéria fática, inviável em recurso especial. Pelos mesmos motivos, é inviável averiguar, em recurso especial, a questão da legitimidade passiva ad causam da agravante.
+6. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor" (Súmula n. 543/STJ), situação idêntica à destes autos. Aplicação da Súmula n. 83/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.969.503/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/04/2022, DJe 08/04/2022)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
