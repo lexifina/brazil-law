@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Paulo de Tarso Sanseverino.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELAIZE BOM DESPACHO DA SILVA E OUTROS em face de decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. EXTINÇÃO DO PROCESSO POR FALTA DE RECOLHIMENTO DAS CUSTAS INICIAIS. PEDIDO DE GRATUIDADE DA JUSTIÇA INDEFERIDOEM RECURSO NÃO DOTADO DE EFEITO SUSPENSIVO. NEGATIVA DE PRESTAÇÃOJURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS APONTADOS. SÚMULA 211/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE AMPARARIA A TESE CENTRAL DO RECURSO ESPECIAL. SÚMULA 284/STF.
+RECURSO ESPECIAL DESPROVIDO.
+Os agravantes sustentam, em síntese, que a decisão agravada não merece subsistir, porque (a) o Tribunal de origem foi omisso quanto ao argumento de que "não poderia haver o indeferimento da petição inicial por ausência de recolhimento de custas iniciais diante da pendência do julgamento do recurso pertinente ao direito à assistência judiciária gratuita", (b) "o acórdão objeto do recurso especial não dirimiu a questão adequadamente, restando maculado pelo vício de clara omissão, em nítida afronta ao disciplinado pelo art. 1.022, inc. II, do CPC" e(c) a questão atinente à irresignação quanto ao indeferimento benefício da assistência judiciária gratuita foi transferida para o recurso apelatório, em analogia ao disciplinado pelo art. 1.009, § 1º, do CPC.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL.PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. EXTINÇÃO DO PROCESSO POR FALTA DE RECOLHIMENTO DAS CUSTAS INICIAIS. PEDIDO DE GRATUIDADE DA JUSTIÇA INDEFERIDO EM RECURSO NÃO DOTADO DE EFEITO SUSPENSIVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE PARTE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS APONTADOS. SÚMULA 211/STF.DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+VOTO
+Eminentes colegas. Oagravo interno não mereceprosperar.
+Inicialmente, registro que adecisãoagravada, além da matéria ora impugnada,consignou que(a) o pedido deremessa dos autos à Justiça Comum Federal para processar e julgar o presente processo não pode ser conhecido, pois, de acordo com a jurisprudência desta Corte, mesmo as matérias de ordem pública (incompetência absoluta), cognoscíveis de ofício, devem ser prequestionadas de modo a viabilizar o acesso à via especial e (b) com relação a tese central defendida no recurso especial - prematuridade da extinção da ação face à pendência do julgamento de recurso em que se discute o direito da parte autora ao benefício da gratuidade da justiça -, exsurge deficiente a fundamentação recursal, pois as razões recursais não indicaram os dispositivos da legislação infraconstitucional que amparariam a tese recursal, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+Osagravantes, contudo,deixaram de impugnar especificamente os fundamentos da decisão agravada acima elencados, razão pela qual o agravo interno não pode ser conhecido quanto a taisquestões, em razão do disposto no art. 1.021, § 1º, do CPC:"na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Sobre o que remanesce, melhor sorte não assiste aos agravantes.
+Isso porque, aausência de qualquer novo subsídio trazido, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Quanto à apontada violação aoart.1.022, II, do CPC, consoante aludido na decisão agravada,não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que, ainda que seja possível a rediscussão do cabimento da justiça gratuita por meio de recurso próprio, isso não exime a parte autora de recolher as custas iniciais quando o benefício foi indeferido em primeiro grau e não obteve a concessão de efeito suspensivo em grau recursal.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Com efeito, o julgador não é obrigado a decidir a lide à luz dos preceitos arrolados pelas partes.
+Assim, onão acolhimento das teses ventiladas pelos agravantes não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes para respaldar a conclusão alcançada, como no caso.
+Ademais, as apontadas omissões (ausência de exame doteor dos comprovantes de renda juntados aos autos, que comprovam a hipossuficiência financeira dos autores, e deindicação dos elementos que supostamente evidenciam a falta de preenchimento dos pressupostos legais para a concessão da gratuidade da justiça) são questões exclusivamente atinentesao pedido de concessão da gratuidade da justiça, objeto de recurso diverso.
+Assim, inexiste violação aoart. 1.022, II, do CPC.
+Desse modo,quanto à apontada violação ao art. 98 do CPC,o recurso especial, de fato, não pode ser conhecido, pois, sobre a matéria de que trataessanorma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+O mesmo óbice incide quanto à apontada violação ao art. 1.009, § 1º, do CPC.
+Como se sabe, o prequestionamento da matéria pressupõe o efetivo debate da matéria pelo acórdão recorrido, o que não ocorreu.
+Convém lembrar que "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese" (AgInt no AREsp 1733343/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021).
+Ademais,sublinha-se que a ausência do prequestionamento da matéria não é condição para que haja reconhecimento de negativa de prestação jurisdicional, e vice-versa.
+Não configura omissão o fato de o Tribunal a quo não ter emitido pronunciamento acerca de determinado dispositivo requerido pela parte, uma vez que o órgão julgador, em encontrando fundamentos para a sua decisão (inovação recursal), não está obrigado a se manifestar sobre questão que entenda impertinente e/ou desnecessária para o deslinde da controvérsia, como ocorreu no caso.
+Com essas considerações, não merece reparos a decisão agravada.
+Ante o exposto, conheço parcialmente do agravo interno para, nesta parte,negar-lhe provimento.
+Advirto novamente que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+É o voto.
