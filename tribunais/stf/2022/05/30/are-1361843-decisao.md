@@ -1,0 +1,59 @@
+Decisão:
+
+    Vistos.
+
+    Ministério Público do Estado do Paraná interpõe agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao art. 5º, inciso LXVIII, da Constituição, considerada a concessão de habeas corpus de ofício pelo STJ para rever a pena que fora aplicada no caso concreto.
+
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Quinta Turma Criminal do Superior Tribunal de Justiça assim ementado:
+
+    “HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. DOSIMETRIA DA PENA. PRIMEIRA FASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. QUANTUM DE EXASPERAÇÃO. NECESSIDADE DE REDIMENSIONAMENTO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+
+    1. O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+
+    2. O habeas corpus não é o instrumento jurídico adequado para apreciar pedidos de absolvição ou de readequação típica da conduta por envolver, no mais das vezes, a necessidade de examinar de modo aprofundado o conjunto probatório coletado durante a instrução.
+
+    3. Nesse caso, tomando por base as conclusões das instâncias ordinárias sobre a matéria fática, cujo revolvimento é inviável nessa via angusta do habeas corpus, é evidente a inviabilidade do reconhecimento da insuficiência probatória, tal como pretendem os impetrantes.
+
+    4. A revisão da dosimetria da pena somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC n. 304.083/PR, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+
+    5. Neste caso, a pena-base foi majorada em razão da avaliação desfavorável da culpabilidade, das circunstâncias e das consequências do crime. As instâncias antecedentes apresentaram fundamentação idônea para dar esteio à apreciação negativa desses vetores, de modo que não há que se falar em constrangimento ilegal por esse motivo.
+
+    6. Entretanto, as instâncias antecedentes impuseram acréscimo em fração superior à usualmente adotada por esta Corte, cuja jurisprudência é no sentido de adotar o parâmetro de 1/6 (um sexto) para cada circunstância negativamente valorada, fração eleita em observância aos princípios da razoabilidade e proporcionalidade, ressalvada a apresentação de motivação concreta, suficiente e idônea que justifique a necessidade de elevação em patamar superior, o que não ocorre no caso destes autos.
+
+    7. Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a pena imposta ao paciente, nos termos explicitados no voto.”
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    Ouvida a douta PGR, manifestou-se pelo não provimento do recurso em parecer que apresenta a seguinte ementa:
+
+    “Recurso extraordinário com agravo. Inconformismo do Ministério Público do Estado do Paraná dirigido contra a superação pela Quinta Turma do STJ do entrave à admissibilidade de habeas corpus, que fora manejado como substitutivo de revisão criminal, para, em virtude da constatação de flagrante ilegalidade nas frações eleitas para o aumento da pena-base em decorrência da valoração negativa de três circunstâncias judiciais, reduzi-las de 1/8 para 1/6 em relação a cada vetorial, o que culminou na redução da pena imposta ao ex-Prefeito do Município de Formosa do Oeste, pela prática dos crimes tipificados no artigo 1º, inciso I, do DecretoLei nº 201/1967, peculato-apropriação e peculato-desvio, em continuidade delitiva, de 19 anos e dois meses para 10 anos de reclusão. Recurso extraordinário não admitido na origem. Irresignação que não merece prosperar. Hipótese dos autos em que o esforço argumentativo do Agravante não logrou infirmar o óbice apontado pela decisão agravada, porque a orientação adotada pela Quinta Turma do STJ, pela excepcional viabilidade de concessão de ordem de habeas corpus de ofício em hipótese de flagrante ilegalidade, teratologia ou abuso de poder na decisão atacada, a despeito do manejo da impetração como sucedâneo do recurso cabível, em evidente burla ao sistema recursal, está alinhada ao entendimento da Suprema Corte sobre o tema. Conforme entendimento inaugurado pela Primeira Turma do STF, ainda que inadequada a via eleita, porque utilizada a impetração como substitutivo da via recursal cabível, “Nada impede, entretanto, que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo (art. 102, inciso II, alínea a, da CF), analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.”, HC 107521, Relator Ministro Dias Toffoli, Primeira Turma, julgado em 19/2/2013, DJe de 22/3/2013. Inviável, ademais, infirmar a conclusão do STJ de que fora excessivo e destoante do entendimento jurisprudencial sobre o tema, inclusive em hipóteses ainda mais graves, o patamar eleito para o incremento da pena-base em razão da valoração negativa da culpabilidade, das circunstâncias e das consequências do crime. Flagrante ilegalidade demonstrada por minudente fundamentação amparada no confronto entre o caso dos autos e os parâmetros de proporcionalidade adotados em situações semelhantes. Parecer pelo não provimento do agravo.”
+
+    Examinados os autos, decido.
+
+    Verifica-se que o Tribunal a quo ateve-se ao exame da legislação infraconstitucional, no caso do Código Penal. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Anota-se:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. RECURSO DESPROVIDO. 1. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. (RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013). 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 4. Agravo regimental a que se nega provimento.” (ARE nº 935186-AgR/SP, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 17/5/16)
+
+    Anote-se, outrossim, que, para se chegar a entendimento diverso do acórdão recorrido, necessário seria o reexame aprofundando de fatos e provas, intimamente ligados ao mérito da ação penal, o que é vedado nesta via extraordinária, consoante o enunciado da Súmula nº 279/STF.
+
+    Nesse compasso, colho julgados:
+
+    “Agravo regimental em agravo de instrumento. 2. A ausência de notificação, considerado o disposto no art. 514 do CPP, trata de nulidade relativa e deve ser arguida oportunamente. 3. Alegação de nulidade da interceptação telefônica. Análise de fatos e provas em recurso extraordinário. Impossibilidade. Súmula 279. 4. Análise da inidoneidade da dosimetria da pena. Matéria infraconstitucional. 5. Ausência de argumentos suficientes para infirmar a decisão recorrida. 6. Agravo regimental a que se nega provimento” (AI nº 842.198/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 25/5/11 grifei).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Penal. 3. Ofensa ao artigos 5º, incisos XXXV, XXXVII, XLVI, LIII, LIV e LV; 93, inciso IX; e 109, IV, da CF. 4. Alegações: a) violação ao princípio do juiz natural; b) incompetência da Justiça Federal; c) negativa de prestação jurisdicional; d) cerceamento de defesa; e) inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação e f) violação ao princípio de individualização da pena. 5. Violação ao princípio do juiz natural por impedimento da Relatora. Ofensa reflexa. Questão apreciada no julgamento do HC 131.120/RR. Nulidade não configurada. 6. Incompetência da Justiça Federal: o STF adota entendimento de que é dela a competência para julgamento dos crimes praticados nos casos em que as verbas públicas federais sejam transferidas a ente federativo, sujeitas à prestação de contas e a controle da União. Precedentes. Aferição de eventual lesão a bem jurídico estadual. Súmula 279. 7. Negativa de prestação jurisdicional. Ausência de fundamentação nas decisões proferidas pelas instâncias antecedentes. Inexistente (Tema 339, AI-QO-RG 791.292). Prestação jurisdicional concedida nos termos da legislação vigente. 8. Cerceamento de defesa e inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação. Súmulas 279 e 284. Tema 660, ARE-RG 748.371. 9. Violação ao princípio de individualização da pena. Súmulas 282 e 356. Tema 182, AI 742.460/RJ RG. 10. Agravo regimental a que se nega provimento.” (ARE nº 1000420-AgR/RR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/3/17).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO EM FACE DE RECURSO ESPECIAL. QUESTÃO QUE JÁ CONSTAVA DO ACORDÃO DE SEGUNDO GRAU. PRECLUSÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. É inadmissível o agravo regimental que não impugna todos os fundamentos da decisão agravada. Precedentes. 2. O sistema constitucional vigente, que prevê o cabimento simultâneo de recurso extraordinário e recurso especial contra o mesmo acórdão dos tribunais de segundo grau, preconiza que, da decisão do STJ no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa daquela resolvida pela instância ordinária. Precedentes. 3. Não há ilegalidade no regime gravoso fixado com lastro em circunstâncias judiciais desfavoráveis, conforme inteligência dos artigos 33 e 59, ambos do Código Penal. 4. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 5. Agravo regimental desprovido.” (ARE nº 951702-AgR/DF, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 4/11/16).
+
+    Por fim, anoto que o acórdão recorrido está em conformidade com o entendimento no sentido de que “Nada impede, (...), que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo (art. 102, inciso II, alínea a, da CF), analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia.” (HC 107521, de minha relatoria, Primeira Turma, DJe de 22/3/13).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 30 de maio de 2022.
+
+Ministro Dias Toffoli
+
+Relator
+
+Documento assinado digitalmente
