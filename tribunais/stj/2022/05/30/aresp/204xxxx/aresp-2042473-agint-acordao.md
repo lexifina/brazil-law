@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO INDENIZATÓRIA. NEXO CAUSAL. ROMPIMENTO. OCORRÊNCIA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3.Agravo interno não provido.
+RELATÓRIO
+GABRIEL CARDOZO NUNES(GABRIEL) promoveuação de indenização por danos materiais e morais contra PATRÍCIA MACHADO FERREIRA ME (PATRÍCIA ME), narrando que, aos 3/1/2018, efetuou reparo em seu celular Samsung no estabelecimento desta empresa. Explicou que foi necessária a substituição de uma peça denominada combo display tela, tendo o conserto custado o valor de R$ 850,00 (oitocentos e cinquenta reais). Alegou que, passados 30 (trinta dias) da devolução do aparelho, ele colidiu levemente com outro objeto e teve sua tela amplamente danificada, o que acarretou a substituição de novas peças. Sustentou que, tendo procurado outra empresa, esta lhe informou que a peça anteriormente trocada por PATRÍCIA ME não seria original. Requereu, assim, a procedência do pedido.
+Em primeira instância, opedidofoijulgadoimprocedente. Na ocasião, GABRIEL foi condenadoao pagamentodas custas processuais e dos honorários advocatícios fixados em 10% sobre o valorda causa, devendo-se observar, contudo, o benefício da justiça gratuita deferido.
+Os embargos de declaração opostos por PATRÍCIA ME foram acolhidos apenas para esclarecer a omissão quanto ao pedido de aplicação da pena de litigância de má-fé, que foi indeferido, sem alteração do resultado do julgamento.
+A apelação interposta por GABRIELnão foi provida pelo Tribunal deJustiça de Santa Catarina, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS EMATERIAIS. SUBSTITUIÇÃO DE TELA DE CELULAR POR PRODUTOSUPOSTAMENTE NÃO ORIGINAL. RELAÇÃO DE CONSUMO. RESPONSABILIDADE CIVIL OBJETIVA. QUEBRA DO NEXO DECAUSALIDADE. DECURSO DE 30 (TRINTA) DIAS APÓS RETIRADA DOAPARELHO DA ASSISTÊNCIA TÉCNICA. NOVA AVARIA NA TELADECORRENTE DE COLISÃO SOFRIDA. ARTIGO 14, CAPUT, E §3º, II,DO CODECON. SENTENÇA MANTIDA. RECURSO DESPROVIDO (e-STJ, fl. 158).
+Inconformado, GABRIELmanejourecurso especial com fulcro no art. 105, III,a, da CF, alegando violação dos arts. 186 e 927 do CC/2002. Sustentou(1) haver clarividente cometimento de ato ilícito por parte de PATRÍCIA ME; e(2) que ele comprovou o prejuízo sofrido, uma vez que PATRÍCIA ME não empregou componentes novos no reparo de seu aparelho, o que acarretou um dano mais extenso.
+O apelo nobre não foi admitido em virtude daincidência da Súmula nº 7 do STJ.
+Em decisão monocrática da relatoria do Ministro Presidente do STJ, o agravo em recurso especial não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Em juízo de retratação, em decisão monocrática da minha relatoria, o agravo em recurso especial foi conhecido para não conhecer do apelo nobre, a teor da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. NEXO DE CAUSALIDADE. NÃO COMPROVAÇÃO. ALTERAÇÃO DO CONCLUÍDO PELO TRIBUNAL ESTADUAL.REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 240 - destaque no original).
+Nas razões do presente agravo interno, GABRIEL alegouque(1)não é caso de incidência da Súmula nº 7 do STJ, pois não se pretende o reexame de fatos e de provas, mas sim a aplicação da norma infraconstitucional da forma correta; (2) seu aparelho sofreu um dano mais extenso, porque PATRÍCIA ME não se utilizou de peças originais no reparo de seu celular; (3) ficou comprovado seu prejuízo; e(4) foram violados os arts. 186 e 927 do CC/2002.
+Não houve impugnação ao recurso (e-STJ, fl. 256).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO INDENIZATÓRIA. NEXO CAUSAL. ROMPIMENTO. OCORRÊNCIA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+GABRIELalegou afronta aos arts. 186 e 927 do CC/2002. Sustentou que PATRÍCIA ME cometeu ato ilícito, pois não se utilizou de peças originais no reparo de seu celular, o que acabou ocasionando danos mais extensos em seu aparelho.
+Sobre o tema em debate, o Tribunal estadual assim decidiu:
+Na hipótese em testilha, é público e notório, e portanto, incontroverso, que o apelante, " ..  após 30 (trinta) dias da devolução do aparelho, este colidiu levemente num outro objeto, e já teve a sua tela amplamente danificada  .. ", nada obstante o imputa ao fato de que encaminhou o seu celular a " ..  outra empresa, agora denominada WORLD CELL, que lhe informou que a peça trocada pela empresa SOS CELULARES não seria uma peça original, razão pela qual um singelo impacto já ocasionou o referido dano" (evento 38, p. 3/7).
+Sem maior delonga, até porque demonstradoictu oculi,não se verifica nenhuma responsabilidade civil da apelada, diante do rompimento do nexo causal, já que, conforme confessado pelo apelante, este colidiu com o seu aparelho celular num outro objeto, e que assim, quando ocorreu, já estava em posse dele após trinta dias de sua retirada da assistência técnica respectiva.
+Lembra Carlos Roberto Gonçalves, com o fundamento na doutrina de Salvatier, que "" ..  um dano só produz responsabilidade, quando ele tem por causa uma falta cometida ou um risco legalmente sancionado"". (Direito civil brasileiro:
+responsabilidade civil. 4 ed. São Paulo: Saraiva, 2009. v. IV. p. 330)
+A toda evidência inexiste o nexo causal, ainda mais quando, segundo os fatos apresentados, denota-se, com a devida vênia, a culpa, quiçá, exclusiva, ou, do apelante, ou, de terceiro, com quem colidiu o seu aparelho celular, pelo que ainda atrai a exclusão de responsabilidade do artigo 14, § 3º, II do Código de Defesa do Consumidor.
+É bom que se diga que o apelante já estava com o aparelho celular 30 (trinta) dias após o conserto realizado pela apelada, o que demonstra tempo, mais do que, su ciente, para se concluir que a dani cação da sua tela não decorreu porque a peça substituída não teria sido por uma outra original, mas sim devido à colisão, o que, aliás, não disse "onde" e "como", fazendo, aqui, economia de palavras.
+A propósito, apesar de o apelante dizer que lhe foi informado de que a peça substituída não seria original, por constatação da segunda assistência técnica, é certo que sequer trouxe uma declaração nesse sentido.
+Porque não presente o nexo causal, por consequência, não se tem por caracterizada a responsabilidade civil, pelo que dispensa a análise dos danos moral e material(e-STJ, fl. 160).
+O Tribunal de Justiça de Santa Catarina, soberano na análise das provas, concluiu que não ficou caracterizada a responsabilidade civil de PATRÍCIA ME, porque ausente o nexo causal.
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJSCquanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+Sobre o tema, confiram-se os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. FALHA NO SERVIÇO HOSPITALAR. INFECÇÃO POR VÍRUS DA HEPATITE B. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. RESPONSABILIDADE OBJETIVA DO HOSPITAL. NEXO CAUSAL NÃO AFASTADO. SÚMULA 7/STJ. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Na hipótese, não ficou configurado cerceamento de defesa, pois a autora comprovou que não era portadora de Hepatite B antes de realizar o procedimento cirúrgico e transfusões de sangue no hospital demandado e este não logrou êxito em demonstrar o rompimento do nexo causal em relação à contaminação da paciente durante a internação hospitalar.
+2. A reforma do acórdão recorrido, quanto ao rompimento do nexo causal, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "o termo inicial dos juros de mora, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, flui a partir da citação" (AgInt no AREsp 1.510.104/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/11/2019, DJe de 12/12/2019).
+4. Agravo interno parcialmente provido para dar parcial provimento ao recurso especial quanto ao termo inicial dos juros de mora.
+(AgInt no REsp 1.957.275/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 21/2/2022, DJe 10/3/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS E ESTÉTICOS. ACIDENTE NO EMBARQUE DE COMPOSIÇÃO FÉRREA. NEXO CAUSAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de compensação por danos morais e indenização por danos materiais e estéticos.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.948.921/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 11/10/2021, DJe 15/10/2021)
+Assim, como GABRIELnão demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimentodo apelo nobre.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
