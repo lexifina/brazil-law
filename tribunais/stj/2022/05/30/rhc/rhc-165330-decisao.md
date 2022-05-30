@@ -1,0 +1,12 @@
+DECISÃO
+O presente recurso, interposto porJonas da Silva Melocontra acórdão do Tribunal de Justiça do Ceará (Habeas Corpusn. 0624909-49.2022.8.06.0000), não merece provimento.
+Aqui, busca o recorrente, de fato, a determinação de expedição de guia de execução definitiva sem o seu recolhimento obrigatório ao cárcere.
+Com efeito, como bem anotou a Corte estadual, a expedição da referida guia ao condenado à pena privativa de liberdadeestá condicionada à sua prisão, conforme disposto nos arts. 105 da Lei n. 7.210/1984 e 674 do Código de Processo Penal.Assim, somente após o cumprimento do decreto de prisãoa defesa poderia pleitear ao Juízo das execuções a apreciação de benefícios inerentes à execução da pena.
+Contudo, de fato, em algumas situações, alei cria lacuna que deixa o reeducando em uma espécie de limbo jurídico, em que se encontra impossibilitado de requerer benefícios a qualquer autoridade judiciária, o que afronta a garantia constitucional contida no art. 5º, XXXV, da Constituição Federal. Nesse contexto, tem-se entendido nesta Corte Superior que, em circunstâncias excepcionais e específicasqueimpliquem o recálculo da pena ou a fixação do regimemais brando de seu cumprimento (detração), é possível que a condição do prévio recolhimento ao cárcere para início da execução seja afastada. Nesse sentido:EDcl no AgRg no AgRg no AREsp n. 1.814.171/SP,Ministro João Otávio de Noronha, Quinta Turma, DJe 22/11/2021.
+Na hipótese, contudo, a excepcionalidade apontada não se encontra evidente, pois,mesmo sendo necessário o recolhimento do recorrente ao cárcere, deve ser assegurada a sua colocação no regime inicial apontado na sentença, qual seja, o semiaberto.
+Assim, não verificada qualquer situação configuradora de abuso de poder ou de ilegalidade flagrante, deve-se aguardar o cumprimento do mandado de prisão para a expedição da guia de execução, nos termos da legislação vigente. Nesse sentido: AgRg no RHC n. 148.294/CE,Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 16/11/2021;eAgRg no RHC n. 144.223/RJ, de minha relatoria, Sexta Turma, DJe 21/6/2021.
+Em face do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. EXECUÇÃO. PLEITO DE EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA SEM RECOLHIMENTO DO SENTENCIADO.COMPROVAÇÃO DE SITUAÇÃO EXCEPCIONAL A AFASTAR OS ARTS. 105 DA LEI N. 7.210/1984 E 674 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Recurso improvido.
