@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Cuida-se de agravo internomanejado por Centrais Elétricas Brasileiras S/A - Eletrobrascontra decisão de fls. 1.190/1.191, que não conheceu do agravo em virtude da incidência do obstáculo da Súmula 182/STJ.
+A parte agravante sustenta, em síntese, que "o Recurso mereceria conhecimento pelo entendimento desvirtuado do TRF4 Região na aplicação de entendimento que não consta do Resp. 1003955/RS, que deve observar os itens 7, 8 e 8-c do Resp. 1003955/RS, tendo julgado de forma diversa, não se apoiou no Repetitivo, de forma que devem ser afastadas as referências a sumula 07 e a sumula 182 do STJ" (fl. 1.201).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Aberta vista à parte agravada, Landis Gyr Equipamentos de Medição Ltda. apresentou impugnação às fls. 1.408/1.410, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO DO TRIBUNAL DE ORIGEM. SÚMULA 182/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Inviável a apreciação do agravo que deixa de atacar, especificamente, os fundamentos da decisão que não admitiu, na origem, o apelo nobre. Incidência, na espécie, da Súmula 182/STJ.
+2. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de agravo manejado por Centrais Elétricas Brasileiras S/A - Eletrobrás contra decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região que negou seguimento ao recurso especial, "no que se refere à alegada incorreção do período e dos índices de incidência da correção monetária e dos juros remuneratórios e moratórios" (fl. 1142), com base no art. 1.030, I, b, do CPC; e, quanto à tese de que "as Assembleias Gerais referidas não apenas autorizaram a antecipação da conversão do crédito em ações como realizaram referidas capitalizações" (fl. 1141), inadmitiu o recurso tendo em vista que o exame da questão suscitada demandaria revolvimento do conjunto fático-probatório dos autos, incidindo, à espécie, o óbice da Súmula 7/STJ.
+A agravante sustenta que "está equivocada a decisão porque a Eletrobras recorreu ao STJ apenas em relação à pura tese de direito de violação de aplicação da lei - art. 543-C do CPC (atual 1.036 CPC/15), e não de fatos" (fls. 1162/ 1163) .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 7/STJ.
+Em relação à apontada incidência da Súmula 7/STJ, conquanto a parte agravante tenha sustentado que "não há que se falar em debate sobre fatos, mas sim apenas análise de pura tese de direito" (fl. 1162), cingiu-se a defender a não ofensividade à referida súmula, à míngua de demonstrar a particularidade do caso dos autos suficiente para afastar o óbice apontado, deixando, portanto, de impugnar especificamente o fundamento adotado pela decisão agravada para inadmitir o recurso especial.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+Conforme já assinalado na decisão agravada, o compulsar da petição de agravo em recurso especial (fls. 1.154/1.167) revela que não houve adequada refutação aos alicerces do juízo de prelibação consistente no óbice da Súmula 7/STJ.
+Realmente, a parte agravante cingiu-se a defender que: (i) "está equivocada a decisão porque a Eletrobras recorreu ao STJ apenas em relação à pura tese de direito de violação de aplicação da lei - art. 543-C do CPC (atual 1.036 CPC/15), e não de fatos, bem como da divergência interpretativa jurisprudencial" (fls. 1.161/1.162); e (ii) "não há que se falar em debate sobre fatos, mas sim apenas análise de pura tese de direito" (fl. 1.162).
+Ressalte-se que a defesa da questão de mérito no caso concreto não é suficiente para refutar referido fundamento adotado para não conhecer do seu agravo, uma vez que a decisão ora agravada nem sequer chegou a incursionar na matéria de fundo do recurso.
+De toda sorte, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO PROVIDO. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECLUSÃO. PRECEDENTES. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado.
+2. Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que não admitiu, na origem, o recurso especial. Precedente.
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente por ocasião do manejo de agravo interno, além de caracterizar inovação no recurso, não tem o condão de afastar a aplicação do referido verbete sumular n. 182 desta Corte Superior, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.587.824/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 26/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APRECIAÇÃO DE MATÉRIA DE ORDEM PÚBLICA ARGUIDA NO RECURSO ESPECIAL. IMPOSSIBILIDADE. BARREIRA DO CONHECIMENTO NÃO SUPERADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. MULTA. LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015, para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil.
+III - A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes das Turmas componentes da 1ª Seção.
+IV - A orientação desta Corte consolidou-se no sentido da impossibilidade de análise do mérito do Recurso Especial, ainda que verse sobre questão de ordem pública, quando esse sequer tenha ultrapassado a barreira do conhecimento. Precedentes das Turmas componentes da 1ª e 2ª Seções.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Inaplicabilidade da multa por litigância de má-fé (arts. 17, VII e 18, § 2º, do Código de Processo Civil de 1973 e 80, IV e VII, e 81 do estatuto processual civil de 2015), porquanto ausente demonstração de que a parte recorrente agiu com culpa grave ou dolo.
+Precedente do Supremo Tribunal Federal.
+VII - Agravo Interno não conhecido.
+(AgInt no AREsp 939.302/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 20/11/2019)
+EM FACE DO EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
