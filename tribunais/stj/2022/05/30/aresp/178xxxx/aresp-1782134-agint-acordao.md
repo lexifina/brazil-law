@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 341/353) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos sob os seguintes fundamentos: (a) falta de indicação do dispositivo de lei federal que teria sido violado (Súmula n. 284/STF), no que diz respeito ao cerceamento de defesa,e (b) aplicação dasSúmulas n. 211 do STJ e 284 do STF, devido aos argumentosgenéricos desenvolvidos em torno do vício no título executivo, além de não ter havido manifestação sobre conteúdo normativo do art. 28, § 2º, I e II, da Lei n. 10.931/2004, circunstância que impediriao exame da controvérsia, ante a ausência de prequestionamento.
+Em suas razões, osagravantes alegamque, "diante da flagrante violação à Lei Federal, não merece prosperar a respeitável decisão proferida"(e-STJ fl. 350).
+Também haveria cerceamento de defesa em razão do julgamento monocrático, com violaçãodo princípio da colegialidade.
+O agravado apresentou impugnação (e-STJ fls. 357/366), requerendo o não conhecimento ou o desprovimento do agravo, bem como a aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.JULGAMENTO MONOCRÁTICO. POSSIBILIDADE.FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1.É permitido "ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal (..)" (EDcl no REsp n. 1.269.844/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018).
+2. É inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, CPC/2015).
+3. Agravo interno não conhecido.
+VOTO
+A insurgência não merece ser acolhida.
+Os agravantes não trouxeramnenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 336/339):
+Trata-se de agravo nos próprios autos impugnando decisão que não admitiu o recurso especial com fundamento nas Súmulas n. 282 e 284 do STF (e-STJ fls. 291/293).
+O acórdão do TJGO está assim ementado (e-STJ fl. 218):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CONTRATO DE ABERTURA DE CRÉDITO FIXO. FORÇA EXECUTÓRIA. VIA ELEITA ADEQUADA. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. CORREÇÃO MONETÁRIA. EXIBIÇÃO DOCUMENTO. PERÍCIA CONTÁBIL. ÔNUS SUCUMBENCIAIS. 1- O Contrato de Abertura de Crédito Fixo, entabulado com Instituição Financeira, assinado pelo devedor, fiador e por duas testemunhas, é título hábil a embasar ação de execução, conforme dicção do art. 784, inciso III, do Código de Processo Civil. Desse modo, tenho que a via eleita pelo exequente/embargante, fora adequada ao fim que pretende, executar o título extrajudicial firmado entre as partes. 2- No que se refere à limitação dos juros aos ditames do artigo 192, §3º, da CF, no patamar de 12% a. a., ressalto que a questão encontra-se prejudicada, visto que, nos temos da cláusula décima do contrato firmado entre as partes, evento 01, fora acordado juros de 8,24%ao ano, de modo que a contratação se deu aquém do que almeja a parte executada, revelando-se já alcançada a pretensão vindicada, nos termos do artigo 195, do RITJGO. Igualmente, a matéria atinente à exibição do contrato também encontra-se prejudicada, eis que a execução baseia-se, tão somente, no contrato colacionado aos autos no evento 01. 3- No que pertine à capitalização de juros, tenho como presente nos autos prova da expressa previsão contratual trazida pela instituição financeira, visto que há estipulação no contrato bancário de cobrança do juros pelo método exponencial, que nada mais é do que capitalização de juros, nos termos do contrato colacionado no evento 01, cláusula décima, válida é sua cobrança, nos termos do que já proclamou o STJ. 4- Em relação, à alegação de abusividade da cláusula que instituiu a TR como fator de correção monetária, saliento que, nos termos declinados na sentença recorrida, não vislumbrei no contrato exequendo e, tampouco na planilha de cálculos apresentada pelo exequente nos autos de origem, evento 01, qualquer estipulação acerca deste encargo, de modo que não há que se falar em alteração ou afastamento deste encargo, eis que não contratado e, muito menos cobrado da executada. 5- Por fim, no que tange ao pedido de perícia contábil, ressalto não haver guarida a insurgência defendida pela apelante, eis que o contrato firmado entre as partes já estabelece todos os parâmetros para apuração do quantum debeatur, apurável por simples cálculo aritmético dos encargos que estão bem especificados no contrato, especialmente por não haver tido qualquer revisão do mesmo. 6- Em razão da improcedência recursal, os honorários advocatícios estabelecidos na instância singela devem ser majorados, nos termos do artigo 85, § 11º, do CPC, para 15 % (quinze por cento) do valor dado à causa, nos mesmos parâmetros adotados na sentença, observada a gratuidade concedida à autora. RECURSO APELATÓRIO CONHECIDO, MAS IMPROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 242/244).
+Nas razões do especial (e-STJ fls. 261/275), fundamentadas no art. 105, III, "a", da CF, a parte agravante aponta violação do Decreto n. 22.626/1933 e dos arts. 2º do CDC, 28, § 2º, I e II, da Lei n. 10.931/2004, bem como divergência jurisprudencial, argumentando que:
+(..) uma vez acompanhada dos extratos relativos à movimentação bancária do cliente, ainda que derive de contrato de abertura de crédito em conta corrente nas modalidades crédito rotativo ou cheque especial, a Cédula de Crédito Bancário NÃO constitui título hábil a aparelhar processo de execução, preenchendo os requisitos de liquidez, certeza e exigibilidade (e-STJ fl. 272),
+(..) Ao julgar antecipado a lide, quando ainda existem situações de fatos a serem provadas tem -se que, tacitamente, foi indeferida a produção de provas PERICIAL, solicitada pela parte apelante, ora recorrente, em sua exordial, nos embargos declaratórios e Apelação, ocasionando verdadeiro cerceamento de defesa, que torna nulo o acórdão de primeira instância e acórdão de segunda instância, como bem tem decidido o Supremo Tribunal Federal, (fl. 273)
+A parte agravada apresentou resposta aos recursos (e-STJ fls. 283/289 e 325/327).
+É o relatório.
+Decido.
+Quanto ao alegado cerceamento de defesa, a parte não indica qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. AFASTAMENTO. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284 DO STF. PERDAS E DANOS. PROVAS. FALTA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. LEGITIMIDADE PASSIVA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+ ..
+2. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1741073/SP, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CERCEAMENTO DE DEFESA E DO CONTRADITÓRIO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 282, 284 E 356 DO SUPREMO TRIBUNAL FEDERAL. DANOS MORAIS. REDUÇÃO DO VALOR. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. NÃO PROVIDO.
+ ..
+3. A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento do Enunciado da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1785510/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Além disso, não houve manifestação quanto ao tema, tampouco sobre o conteúdo normativo do art. 28, § 2º, I e II, da Lei n. 10.931/2004, atrelado aos genéricos argumentos desenvolvidos em torno do título executivo, circunstância que impede o exame da controvérsia, ante o óbice das Súmulas n. 211 do STJ e 284 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)
+o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+É permitido "ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal (..)" (EDcl no Resp n. 1.269.844/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018).
+Em obediência ao princípio da dialeticidade recursal, o agravo previsto no art. 1.021 do CPC/2015 deve refutar, de forma específica, os motivos apresentados pelo relator para negar provimento ao agravo em recurso especial, conforme o parágrafo primeiro do mesmo dispositivo legal.
+No agravo interno, a parte agravante insurge-se contra o resultado que lhe foi adverso sem, entretanto, proceder à impugnação dos fundamentos da decisão monocrática.
+Deixando a parte recorrente de rebater especificamente cada ponto da decisão ora agravada, incide novamente a Súmula n. 182/STJ.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PETIÇÃO DE AGRAVO INTERNO. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Na espécie, a agravante não impugnou o fundamento adotado na decisão agravada, no sentido de que o agravo em recurso especial não poderia ser conhecido ante a falta de impugnação aos fundamentos adotados na decisão proferida pelo Presidente do Tribunal a quo que negou seguimento ao seu recurso especial. Desse modo, a pretensão à reconsideração não pode ser conhecida, em observância da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 882.607/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/4/2016, DJe 3/5/2016.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
