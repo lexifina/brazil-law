@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor deLUISFERNANDO ROGRIGUES FERRAZ contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do Recurso em Sentido Estrito n. 1.0261.21.001010-2/001.
+Depreende-se dos autos que o Paciente foi preso preventivamente em janeiro de 2020, sendo posteriormente pronunciado, em 26/08/2021, como incurso no art. 121, § 2.º, incisos I e IV, c.c o art. 14, inciso II, ambos do Código Penal, tendo em vista sua suposta participação, juntamente com o Corréu, na tentativa de homicídio da vítima Ryan Henrique Batista, que levou oito disparos de arma de fogo, por motivo torpe e mediante recurso que lhe dificultou a defesa do ofendido.
+Contra a sentença de pronúncia foi interposto pela Defesa recurso em sentido estrito, que foi desprovido pelo Tribunal de origem (fls. 52-54).
+Nestewrit, a Parte Impetrante alega, em suma,a ausência de fundamentação idônea e dos requisitos legais para a manutenção da custódia provisória, bem como que há excesso de prazo na prisão preventiva, haja vista que o Paciente se encontra segregado provisoriamente há mais de 2 (dois) anos e 5 (cinco) meses, sem que tenha sido submetido a julgamento perante o Tribunal do Júri.
+É o relatório.
+Decido.
+De início, em relação à ausência de fundamentação idônea e dos requisitos para a manutenção da prisão preventiva, verifico não ser possível analisar a viabilidade da referida insurgência, diante da instrução deficitária do writ, visto que a Parte Impetrante não acostou aos autos a cópiada decisão primeva que decretou a prisão preventiva do Paciente, o que inviabiliza a análise do constrangimento ilegal suscitado.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso). No caso, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus pressupõe prova pré-constituída do direito alegado, não há como apreciar o mérito do writ.
+No mesmo sentido: " é  pacífico o entendimento desta Corte Superior no sentido de que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Precedentes" (AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020).
+Ressalto que não há óbice ao manejo denovowritpara a análise da referida controvérsia,desde que seja juntada a documentação faltante.
+De outra parte, observo que o alegado excesso de prazo não foi debatido pelo Tribunal de origem no aresto ora impugnado, o que impede a análise da questão por esta Corte Superior.
+A propósito: " m atéria que não foi analisada no Tribunal estadual não pode ser objeto de análise desta Corte Superior, sob pena de indevida supressão de instância"(AgRg no HC 597.244/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/08/2020, DJe 18/08/2020).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTOS E REQUISITOS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
