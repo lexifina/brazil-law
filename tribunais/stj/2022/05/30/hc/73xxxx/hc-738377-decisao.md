@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Maria Eduarda Gonçalves Brenner, em que se aponta como autoridade coatora a Nona Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que a paciente foipresa em flagrante, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido decretada a prisão preventiva pelo Juiz de Direito da 1ª Vara Criminal da comarca de Votorantim/SP.
+Em sede de habeas corpus, a defesa apontou ausência dos requisitos para a segregação cautelar. A Nona Câmara Criminal do Tribunal de Justiça de São Paulo denegou a ordem (fls. 158/163).
+Esta, a ementa do julgado (fl. 159):
+Habeas Corpus" - Tráfico de Drogas - Decretação da Prisão Preventiva -Paciente surpreendida em poder de 50 porções de cocaína, 15 porções de maconha e 07 porções de crack - Descabimento da concessão de liberdade provisória ou substituição da custódia cautelar por outras medidas - Decisão do MM. Juiz que se fundamentou no caso concreto - Necessidade de acautelamento da ordem pública demonstrado Existentes os requisitos necessários para a segregação cautelar, sua manutenção é de rigor -Constrangimento ilegal não verificado - Ordem denegada. "Alega-se que a Paciente está submetida a constrangimento ilegal, visto que "não há nos autos do processo, qualquer elemento a evidenciar a manutenção da prisão preventiva. Afinal, a gravidade abstrata do delito não ostenta motivo legal suficiente ao enquadramento em uma das hipóteses que cabível se revelaria à prisão cautelar.
+No presente writ, a defesa aponta ilegalidade na prisão e requer sejam aplicadas as medidas cautelares diversas da prisão (fls. 3/18).
+Decisão deste Relatordeferindo a liminar (fls. 170/173).
+Parecer ministerialopinando pela concessão da ordem (fls. 180/182).
+É o relatório.
+A instância ordinária entendeu que a paciente está envolvida em graves fatos e que, como foram apreendidas porções de crack e de cocaína, a sua liberdade poderia trazer consequências prejudiciais aos usuários. Quando decretada a prisão preventiva, o Magistrado entendeu queahediondez da mercancia de entorpecentes traz especial gravame à sociedade e alavanca uma série de outros crimes, notadamente crimes patrimoniais violentos, além de as substâncias entorpecentes encontradas ostentarem grandiosa potencialidade lesiva à saúde pública(fl. 96).
+Verifica-se que não houve, de fato, concreta fundamentação para a manutenção da segregação cautelar, além da própria gravidade abstrata do crime. Pelo que consta dos autos, o suposto delito não foi cometido com violência à pessoa ou grave ameaça,a quantidade de drogas não se mostra extremamente elevada, para justificar a imprescindibilidade da medida restritiva da liberdade, nos termos do art. 312 do Código de Processo Penal e também não existequalquer dado indicativo de que a acusada esteja envolvida de forma profunda com a criminalidade. No caso, não há idônea fundamentação para a manutenção da prisão. Dessa forma, mostra-se possível a aplicação de outrasmedidas cautelares mais brandas.
+Ante o exposto, concedo a ordempara revogar a prisão da paciente e substituir a prisão preventiva por medidas cautelares a serem implementadas pelo Juízo de origem (Processo n. 1500268-59.2022.8.26.0567, em curso na 1ª Vara Criminal de Votorantim/SP), salvo se estiver presa por algum outro motivo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. AUSÊNCIA DE CONCRETOS FUNDAMENTOS. GRAVIDADE ABSTRATA E QUANTIDADE DE DROGAS. PARECER MINISTERIAL FAVORÁVEL. REVOGAÇÃO DA PRISÃO.
+Ordem concedidanos termos do dispositivo.
