@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  por MÉTRICA CONSTRUÇÕES LTDA. contra  decisão  monocrática proferida pela Presidência do Superior Tribunal de Justiça (fls. 497/499), que conheceu do agravo para não conhecer do recurso especial.
+2.  A parte insurgente, nas razões do agravo interno  (fls.  504/510),  refuta os fundamentos da decisão agravada, alegando que a decisão merece reforma eis que ignorou trecho principal do recurso dedicado exclusivamente a demonstração do dispositivo legal sobre o qual houve divergência, isto é, o próprio cotejo analítico (fl. 507).
+3.  Requer,  ao  final, seja provido o presente agravo interno a fim de que seja dado provimento ao Recurso Especial para REFORMAR o v. acórdão recorrido para se estabelecer que a base de cálculo do ITBI deve corresponder ao valor da arrematação do imóvel adquirido em leilão extrajudicial, conforme entende a jurisprudência dominante e recente dos Tribunais pátrios, na qual o v. acórdão recorrido divergiu (fl. 510).
+4.  Houve  impugnação  ao  recurso  (fls.  514/515).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ITBI. RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. FALTA DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça entende que mesmo a interposição do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo de lei federal que teria sido interpretado de forma divergente pelos julgados confrontados, o que não ocorreu na hipótese dos autos.
+2.Afalta de indicação clara e precisa do dispositivo de lei federal alegadamente afrontado implica deficiência na fundamentação do recurso especial. Aplicável o óbice da Súmula 284 do STF.
+3. Além de não indicar qual dispositivo de lei federal teria sido violado, a parte recorrente deixou de realizar o necessário cotejo analítico entre o julgado impugnado e os paradigmas apresentados, com a devida transcrição de trechos dos acórdãos para identificar as circunstâncias que assemelhariam os casos confrontados, o que impossibilita a análise da alegação de divergência.
+4. Agravo interno desprovido.
+VOTO
+1. A despeito das alegações da parte agravante, razão não lhe assiste.
+2. Da análise das razões do recurso especial, verifica-se que a ora agravante não indicou, de forma clara e precisa, que artigo de lei federal foi contrariado pelo acórdão recorrido, atraindo o teor da Súmula 284 do STF. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. DISPOSITIVO LEGAL VIOLADO. INDICAÇÃO. AUSÊNCIA.
+(..)
+4. O Superior Tribunal de Justiça entende que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado implica deficiência na fundamentação do recurso especial (Súmula 284 do STF).
+5. Agravo interno desprovido (AgInt no AREsp. 1.485.035/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 26/09/2019).
+3. A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+4. Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+5. Destaca-se que a mera citação de passagem de dispositivos legais no corpo das razões recursais não satisfaz tal requisito, já que é impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. MinistroMAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018).
+6. Registre-se que o apelo especial interposto com fundamento na alínea "c" do inciso III do art. 105 da Carta Magnatambém requer a indicação precisa do dispositivo legal a respeito do qual se alega a divergência interpretativa, o que não ocorreu na hipótese dos autos.
+7. Além disso, épacífico nesta Corte Superior que a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+8.O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RISTJ), como o que se afigura no presente caso, impede o conhecimento do recurso especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal. Confira-se oseguinte julgado:
+PROCESSUAL CIVIL. CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E O DISPOSITIVO DO JULGADO. PREVALÊNCIA DO DISPOSITIVO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O Superior Tribunal de Justiça possui ampla jurisprudência no sentido de que, em hipóteses de existência de contradição entre a fundamentação e o dispositivo da sentença prolatada, deve prevalecer o último, em respeito ao art. 504 do Código de Processo Civil: "Não fazem coisa julgada: I - os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença; II - a verdade dos fatos, estabelecida como fundamento da sentença."
+2. A divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente. O recorrente limitou-se a transcrever ementas de decisões desta Corte, sem, ao menos, delimitar um acórdão paradigma.Nesta conjuntura, é inviável o recebimento do presente recurso pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. Agravo Interno não provido(AgInt no REsp 1.899.102/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/03/2021).
+9. Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+10. Pelas considerações expostas, nego provimento ao agravo interno.
+11. É como voto.
