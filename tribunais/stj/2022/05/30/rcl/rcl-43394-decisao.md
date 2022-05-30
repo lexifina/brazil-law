@@ -1,0 +1,43 @@
+DECISÃO
+FÁTIMA APARECIDA GOMES ANTUNES e CARLOS DA SILVA ANTUNES (FÁTIMA e CARLOS) propuseram reclamação pretendendo cassar acórdão proferido pela Décima Segunda Turma Recursal do Juizado Especial Federal da 3ª Região - Seção Judiciária do Estado de São Paulo.
+Para tanto, relata que ajuizou ação pretendendo o pagamento de expurgos inflacionários sobre sua caderneta de poupança, que fora extinta sem resolução do mérito por ausência de prova da titularidade da conta, em desrespeito a orientação firmada no Tema nº 411 do STJ, segundo o qual é ônus do banco juntar aos autos extratos das contas vinculadas ao autor da ação.
+Informa que a sentença foi mantida em recurso inominado e não conhecido a irresignação dirigida à Turma Nacional de Uniformização - TNU.
+Daí a apresentação desta reclamação, para que seja observado e aplicado o Tema Repetitivo nº 411 do STJ, aplicando-se a inversão do ônus da prova para determinar que a instituição financeira forneça os documentos necessários para a instrução do feito.
+É o relatório.
+DECIDO.
+Esta reclamação foi ajuizada em 24 de maio de 2.022, quando já em vigor a Resolução STJ/GP nº 3, de 7/4/2016, que atribuiu às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar o pedido aqui formulado.
+Merece ser destacado, por oportuno, que a Segunda Seção do Superior Tribunal de Justiça já teve a oportunidade de se pronunciar sobre a validade e higidez do referido ato normativo.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO RECLAMADO. JUIZADO ESPECIAL. COMPETÊNCIA DOS TRIBUNAIS ESTADUAIS. RESOLUÇÃO N. 3/2016. DECISÃO MANTIDA.
+1. A Resolução n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas, do respectivo Tribunal de Justiça, a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações que visam a dirimir divergência entre acórdão prolatado por turma recursal estadual e jurisprudência do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl 39.961/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, DJe 26/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. DIVERGÊNCIA ENTRE ACÓRDÃO DE TURMA RECURSAL E PRECEDENTE DO STJ. COMPETÊNCIA. CORTE LOCAL. RESOLUÇÃO STJ N. 3/2016.
+1. A Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação a processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22, de 16/03/2016.
+2. Conforme prevê a Resolução STJ n. 3/2016, a partir de 7 de abril de 2016, é da competência das Câmaras Reunidas ou da Seção Especializada dos Tribunais de Justiça a apreciação de reclamação destinada a dirimir divergência entre acórdão prolatado por Turma Recursal e a jurisprudência do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl na Rcl 40.605/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 03/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. DECISÃO DE TURMA RECURSAL. RESOLUÇÃO STJ/GP N. 3/2016.
+1. O art. 1º da Resolução STJ/GP n. 3 de 7 de abril de 2016 dispõe que é da competência dos tribunais de justiça estaduais o processamento e julgamento das reclamações "destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+2. A decisão do TJ/MG que declarou a inconstitucionalidade da Resolução n. 3/2016 do STJ não vincula esta Corte Superior, além do que, conforme bem salientado pelo Ministro Moura Ribeiro na decisão que proferiu na Rcl n. 36.419/MG (DJe 21/9/2018), "a declaração de inconstitucionalidade da Resolução nº 3/2009 do STJ se deu no citado julgamento da Arguição de Inconstitucionalidade nº 1.000.16.039708-0/001, em controle incidental pelo TJ/MG, de modo que somente vale entre as partes do referido processo e naquele caso concreto, permanecendo hígida, portanto, a sua vigência e observância".
+3. Agravo interno não provido.
+(AgInt na Rcl 37.170/MT, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe 07/05/2019)
+A mesma orientação é dada às reclamações que se insurgem contra julgados proferidos pelos Juizados Especiais Federais, que têm como órgão uniformizador a Turma Nacional de Uniformização.
+A propósito:
+PROCESSUAL CIVIL. RECLAMAÇÃO CABIMENTO. ACÓRDÃO PROFERIDO PELA TURMA RECURSAL DOS JUIZADOS ESPECIAIS DO PARANÁ. INCOMPETÊNCIA DO STJ. INSURGÊNCIA. ARGUMENTOS JÁ ANALISADOS NA DECISÃO MONOCRÁTICA.
+I - Trata-se de agravo interno interposto contra monocrática que decidiu reclamação, "tendo por fundamento o disposto no artigo 988 e seguintes do CPC c/c o art. 187 do RISTJ".
+II - Aduz o reclamante que: "No mandado de segurança n. 5054035-89.2018.4.04.7000, a demanda foi julgada pela 1ª Turma Recursal do Juizado Especial Federal do Paraná, cuja decisão foi objeto de pedido de uniformização de interpretação de lei para a Turma Nacional de Uniformização, o qual foi negado seguimento. Opostos embargos de declaração, estes foram rejeitados e ,em desfavor dessa decisão, apresenta-se a presente reclamação.
+III - Aduz o reclamante que a decisão reclamada teria negado seguimento ao agravo à Turma Nacional de Uniformização, por estar em consonância com a jurisprudência predominante no TNU, e que o acórdão proferido no mandado de segurança deve ser cassado, porque contraria a jurisprudência do STJ.
+IV - Entende cabível a presente reclamação, já que o entendimento da colenda Turma Recursal de origem, bem como da Turma Nacional de Uniformização, destoam das decisões proferidas por este Tribunal Superior, e pleiteia o reclamante seja acolhida a presente reclamação e sejam cassadas as decisões proferidas pela colenda 1ª Turma Recursal do Paraná e pela Turma Nacional de Uniformização nos Autos n. 5054035-89.2018.4.04.7000.
+V - Vê-se, portanto, que o reclamante visa, em verdade, à cassação do acórdão proferido no mandado de segurança pela 1ª Turma Recursal do Paraná.
+VI - Nada obstante, no julgamento da Questão de Ordem no AgRg na Rcl n. 18.506/SP, a Corte Especial deste Sodalício aprovou proposta de resolução sobre a delegação de competência para o processo e julgamento das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência deste Tribunal Superior.
+VII - Por tal razão, a Resolução n. 12/2009, que regulava o processamento das aludidas reclamações no âmbito do Superior Tribunal de Justiça, foi revogada por meio da Emenda Regimental 22, de 16.3.2016.
+VIII - Sobreveio a Resolução n. 3, de 7/4/2016, dispondo sobre a competência para processar e julgar as mencionadas ações constitucionais, cujo art. 1º encontra-se assim redigido: "Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes (s.g.)."
+IX - No caso dos autos, como visto, a reclamante se insurge contra acórdão proferido pela Turma Recursal dos Juizados Especiais do Paraná, o que revela a incompetência do Superior Tribunal Sodalício para apreciar a presente ação constitucional.
+X - Ainda que assim não fosse, igualmente descabida a reclamação contra decisão proferida pelo Presidente da Turma Nacional de Uniformização por contrariedade a jurisprudência dominante no STJ. Nesse sentido: AgInt na Rcl n. 33.658/SP, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 13/12/2017, DJe 1º/2/2018.) XI - Agravo interno improvido.
+(AgInt na Rcl n. 39.390/PR, relator Ministro Francisco Falcão, Primeira Seção, DJe de 3/8/2020.)
+Nessas condições, NEGO SEGUIMENTO ao pedido formulado no âmbito do Superior Tribunal de Justiça.
+Remetam-se os autos ao Presidente da Turma Nacional de Uniformização, independentemente do trânsito em julgado desta decisão.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. ATO RECLAMADO PROVENIENTE DE TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL. RESOLUÇÃO STJ Nº 3/2016. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REMESSA DOS AUTOS PARA A TURMA NACIONAL DE UNIFORMIZAÇÃO.
