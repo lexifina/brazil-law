@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto, contra decisão proferida pelo Presidente do STJ, assim fundamentada, in verbis:
+"Cuida-se de agravo em recurso especial apresentado por MARCELLE AZEREDO MACHADO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça" (fls. 684/686e).
+Inconformada, sustenta a parte agravante que:
+"Em que pesa a R. decisão do I. M. Presidente ter afirmado que não haveria sido combatidos as questões referentes ao prequestionamento e a súmula 7 na decisão que inadmitiu o recurso especial, a mesma não deve prosperar, já que o Agravante rebateu especificamente ambos os pontos em seu recurso de agravo em recurso especial., como a simples colagem das partes do recurso manejado podem comprovar.
+(..)
+Desta forma, carece de razão a R. decisão de não conhecimento dos Agravo em Recurso Especial, visto que os pontos em que o I. M. Presidente afirma não terem sido combatidos na peça recursal, foram combatidos na peça recursal, inclusive trazendo as respectivas colagens demonstrando inequivocamente que a decisão se deu em equívoco, havendo respeito ao Princípio da Dialeticidade Recursal" (fls. 8/9e - avulso).
+Por fim, requer o "provimento ao presente recurso, a fim de que reforme a decisão agravada para admitir o Recurso Especial, sendo julgado o seu mérito para declarar nulo todo o processo por violação a artigos 337, § 1º e § 2º (litispendência e coisa julgada), o princípio da legalidade e da vinculação ao edital convocatório (STJ - REOMS 61949 ES 2005.50.01.004103), violação dos princípios da moralidade, razoabilidade e proporcionalidade), princípio do devido processo legal e princípios da ampla defesa e do contraditório (arts. 3, 4 e 7º do CPC e art. 5, LIV e LV) e da violação do princípio da acesso a justiça (art. 3º do CPC e art. 5, XXXV da CF/1988, retornando o processo para o juízo de primeiro grau, para que se proceda a citação do Réu e se dê o regular prosseguimento do feito, ouvindo-se a testemunha que participou do mesmo concurso que a Agravante, nas mesmas condições, se lesionando no mesmo buraco, no mesmo dia e na mesma pista, a qual conseguiu o direito de prosseguir com o concurso, direito a qual já está assegurado com o transito em julgado do acórdão proferido pelo E. TJRJ" (fl. 9e - avulso).
+Impugnação da parte agravada, a fl. 19e, pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. INTERPOSIÇÃO ALÉM DO PRAZO LEGAL. ART. 1.070 DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão, objeto deste Agravo interno, foi disponibilizada em 18/02/2022, no Diário de Justiça eletrônico, considerando-se publicada em 21/02/2022. O presente recurso foi interposto em 17/03/2022, quando já escoado o prazo legal, em 16/03/2022, conforme certificado nos autos.
+III. Descumprido, portanto, o prazo de quinze dias úteis, para a interposição do Agravo interno, previsto no art. 1.070 do Código de Processo Civil vigente, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+IV. Agravo interno não conhecido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): O presente recurso não deve ser conhecido, por ser manifestamente intempestivo.
+De início, a respeito da vigência do novel diploma processual, é importante ressaltar que, observando o disposto na Lei 810/49 e na Lei Complementar 95/98, o Plenário do Superior Tribunal de Justiça, na sessão realizada dia 02/03/2016 (Ata de Julgamento publicada em 08/03/2016), por unanimidade, aprovou o Enunciado Administrativo 1, firmando a posição de que a vigência do novo Código de Processo Civil, instituído pela Lei 13.105, de 16 de março de 2015, iniciou-se em 18 de março de 2016.
+De igual modo, na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ também sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater.
+Tal entendimento restou assim firmado:
+"Enunciado Administrativo nº 3: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso, a decisão agravada foi publicada na vigência do CPC/2015.
+Dentre as disposições gerais sobre prazos processuais, são relevantes, para o julgamento do presente recurso, os arts. 1.003 e 1.070 do CPC vigente:
+"Art. 1.003. O prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o Ministério Público são intimados da decisão.
+(..)
+§ 5º. Excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de 15 (quinze) dias.
+§ 6º. O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+"Art. 1.070. É de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal".
+Por sua vez, orienta o art. 219 do mesmo Diploma Processual:
+"Art. 219. Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis.
+Parágrafo único. O disposto neste artigo aplica-se somente aos prazos processuais".
+Da interpretação sistemática dos supracitados dispositivos processuais - arts. 219, 1.003, § 5º, e 1.070 do CPC/2015 -, conclui-se que é de 15 (quinze) dias úteis o prazo para interposição de Agravo interno.
+In casu, verifica-se, de plano, a intempestividade do presente Agravo interno. Isso porque a decisão, objeto deste recurso, foi disponibilizada em 18/02/2022, no Diário de Justiça eletrônico, considerando-se publicada em 21/02/2022, conforme certidão de fl. 688e.
+O presente recurso, no entanto, somente foi interposto em 17/03/2022 (fl. 3e - expediente avulso), intempestivamente, portanto.
+De fato, como o prazo para a interposição é de 15 (quinze) dias úteis, contado a partir da publicação da decisão agravada e iniciando-se com o término da suspensão do lapso recursal, a parte recorrente teria prazo para recorrer até o dia 16/03/2022, conforme certidão de fl. 15e - avulso.
+Ante todo o exposto, não conheço do Agravo interno.
+É como voto.
