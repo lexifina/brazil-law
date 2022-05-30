@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HUBNER FUNDIÇÃO DE ALUMÍNIO LTDA. contra a decisão (e-STJ fls. 778/779) em que determinei a devolução dos autos à origem para observância das disposições dos arts. 1.039 e 1.040 do CPC/2015.
+A parte embargante sustenta a ocorrência de erro material no julgado, aduzindo que "ao concluir pelo sobrestamento dos autos com base no Tema nº 756 e a remessa ao Tribunal de origem, a r. decisão embargada incorreu em um erro de premissa fática, uma vez que a matéria objeto do presente Recurso, na verdade, foi analisada de forma definitiva pelo STF no julgamento do Tema nº 244 de Repercussão Geral" (e-STJ fl. 782).
+A parte embargada não apresentou impugnação (e-STJ fl. 792).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, há erro material a reparar, eis que a questão posta em debate, de fato, não se amolda àquela julgada em sede de repercussão geral no Tema n. 756 do STF, mas se encontra analisada, de forma definitiva, pela Corte Suprema, quando do julgamento do Tema n. 244, que tratou da limitação temporal para o aproveitamento de créditos de PIS E COFINS.
+Na ocasião, o Supremo Tribunal Federal, julgando oRE 599.316/SC, rel. MinistroMARCO AURÉLIO, DJe 6/10/2020, firmou a seguinte tese: "Surge inconstitucional, por ofensa aos princípios da não cumulatividade e da isonomia, o artigo 31, cabeça, da Lei nº 10.865/2004, no que vedou o creditamento da contribuição para o PIS e da COFINS, relativamente ao ativo imobilizado adquirido até 30 de abril de 2004."
+Esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, ACOLHO os embargos de declaração, para corrigir o erro material acima identificado e, em consequência, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
