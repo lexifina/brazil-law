@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JÉSSICA PONTES MILAN "contra ato ilegal praticado pelo JUÍZO DA 6ª VARA CRIMINAL DA COMARCA DE CAMPO GRANDE/MS no proc. nº. 0815857- 74.2022.8.12.0001".
+Os Impetrantes narram que o Ministério Público requereu a decretação da prisão preventiva da Paciente, investigada por integrar organização criminosa, responsável pela prática de crimes contra a vida, patrimônio e incolumidade pública.
+Salienta que o Juízo de primeiro grau decretou a prisão cautelar da Paciente.
+Na sequência, indeferiu-se o pedido de prisão domiciliar formulado em favor da Paciente.
+Aponta que embora "a ora paciente não tenha impetrado o writ na corte de origem, o mesmo não se fez em razão da notoriedade das denegações realizadas anteriormente das acusadas que respondem ao mesmo processo que a paciente e que detêm das mesmas condições pessoais, inclusive com filhos menores de 12 anos" (fl. 7).
+Destaca a ausência dos requisitos necessários à manutenção da prisão cautelar.
+Salienta a possibilidade de substituição da prisão preventiva pela prisão domiciliar, tendo em vista que "a paciente é mãe de 02 (dois) filhos menores de 12 anos de idade, com 02 (dois) anos e 11 (onze) meses e outro com 8 (oito) anos e 5 (cinco) meses e preenche os requisitos necessários para tal cautelar, previstos no artigo 318, V, do Código de Processo Penal" (fl. 12).
+Enfatiza a possibilidade de extensão dos efeitos da decisão proferida nos autos do HC n. 742.596/MS em favor da Paciente.
+Requer, em liminar e no mérito, a concessão da ordem para a revogação da prisão cautelar.
+É o relatório. Decido.
+Não há, neste writ, nenhum elemento que comprove a impetração de habeas corpus ou a interposição de recurso perante o Tribunal a quo para tratar dos temas arguidos na impetração. Assim, é manifesta a incompetência do Superior Tribunal de Justiça para conhecer do pedido originariamente.
+Com igual conclusão confiram-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS, IMPETRADO CONTRA ATO DE JUIZ DE DIREITO. INVIABILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DESTA CORTE PARA JULGAMENTO DE ATOS DE TRIBUNAL SUJEITO A SUA JURISDIÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inviável o conhecimento por esta Corte Superior de alegação de constrangimento ilegal praticado por juiz de direito, uma vez que, na forma do art. 105, I, alínea "c" da Carta da República, possui competência para atos emanados de Tribunal sujeito a sua jurisdição.
+2. Agravo regimental improvido." (AgInt no HC 418.953/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 12/12/2017.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. REVOGAÇÃO DA PRISÃO PREVENTIVA. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. ATO COATOR PRATICADO POR JUIZ DE PRIMEIRA INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+Não compete a esta Corte apreciar habeas corpus impetrado contra ato de juiz de primeira instância. (Precedente).
+Agravo regimental desprovido." (AgRg no HC 330.195/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/11/2015, DJe 25/11/2015.)
+No mais, não verifico a possibilidade de extensão dos efeitos da decisão proferida no HC n. 742.596/MS, em que deferi o pedido liminar a uma das investigadas para substituir a prisão preventiva pela prisão domiciliar, tendo em vista que, no caso da Corré, houve prévio debate do tema no âmbito das instâncias de origem, sendo reconhecido, inclusiveno Tribunal de origem, os requisitos elencados no art. art. 318-A do Código de Processo Penal, segundo o qual, " a  prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que: não tenha cometido crime com violência ou grave ameaça a pessoa;", ou "não tenha cometido o crime contra seu filho ou dependente".
+No caso da ora Paciente, embora instrua os autos com a certidão de nascimento da infante, não se verifica a presença de ato coator, pois o tema na perspectiva em que deduzido na presente impetração não foi objeto de prévio debate perante as instâncias de ordinárias.
+É imprescindível que o Juízo de primeiro grau ou a Corte de origem sejam provocados a analisar a presença dos pressupostos previstos no art. 318-A do Código de Processo Penal para que esta Corte seja instada a verificar a possibilidade de concessão da ordem nos termos pleiteadosem favor daPaciente.
+Acrescento, outrossim, que permitir a extensão dos efeitos do deferimento de pedido liminar em ação constitucional autônoma causaria a anomalia processual de se admitir o processamento de habeas corpus no âmbito desta Corte amparado em decisão precária, sendo que os fundamentos para o deferimento do pedido liminar são de ordem subjetiva, porquanto comprovado pela Paciente no HC n. 742.596/MS os requisitos elencados na legislação para a obtenção da prisão domiciliar.
+Nesse contexto, não há possibilidade de se admitir o processamento da impetração.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇAPARA APRECIAR E JULGAR ORIGINARIAMENTE A ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. EFEITO EXTENSIVO DA DECISÃO QUE DEFERIU O PEDIDO LIMINAR NO HC. 742.596/MS. DISTINÇÃO DAS SITUAÇÕES. EXISTÊNCIA DE PRÉVIO DEBATE NO CASO DA CORRÉ. PRISÃO DOMICILIAR FUNDAMENTADAEM REQUISITOS DE ORDEM SUBJETIVA. IMPOSSIBILIDADE DE EXTENSÃO. PETIÇÃO INICIALLIMINARMENTEINDEFERIDA.
