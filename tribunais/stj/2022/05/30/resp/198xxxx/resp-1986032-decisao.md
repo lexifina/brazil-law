@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaHENRIQUE STEFANI TRANSPORTE E LOGÍSTICA LTDA. e QUERODIESEL TRANSPORTES E COMERCIO DE COMBUSTIVEIS LTDA. contra acórdão assim ementado:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA - CPRB. BASE E CÁLCULO. EXCLUSÕES. LEI 12.546/11. ART.8º.
+O contribuinte não tem o direito de excluir o ICMS e o PIS/COFINS da base de cálculo da contribuição previdenciária substitutiva, instituída pela Lei nº 12.546, de 2011.
+Passo a decidir.
+A questão jurídica referente à exclusão dos valores relativos ao PIS e à COFINS da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB) será enfrentada pelo Supremo Tribunal Federal, em virtude do reconhecimento da repercussão geral da matéria (RE 1.341.464, Tema 1.186).
+Encontrando-se o tema afetado à repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/0 5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, rel. Ministro Benedito Gonçalves, DJe 17/03/2016.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a sua respectiva baixa, para que, após a publicação do acórdão proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015, negue seguimento ao recurso, caso a decisão recorrida coincida com a orientação emanada pelo Tribunal Superior ou proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
