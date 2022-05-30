@@ -1,0 +1,19 @@
+DECISÃO
+ADRIANO CEZARIO NASCIMENTO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paranáno Agravo em Execução n. 4000670-38.2022.8.16.0014.
+Inconformado com a aplicação do lapso de 2/5 para a progressão de regime prisional, o condenado por tráfico de drogas (sem incidência do art. 33, § 4º, da Lei n. 11.343/2006) busca a retificação da guia penal, pois considera que o crime em apreço, depois das alterações da Lei n. 13.964/2019, não é mais equiparado a hediondo, devendo incidir a fração de 1/6 para o deferimento da referida benesse.
+Decido.
+A Lei nº 13.964/2019, conhecida como "Pacote Anticrime", não conceituou os crimes equiparados a hediondos, sendo certo que o art. 112, § 5º, da LEP, foi expresso ao assinalar (princípio da legalidade), que "não se considera hediondo ou equiparado, para os fins deste artigo, somente o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006", na sua forma privilegiada.
+O art. 2º, da Lei n. 8.072/1990 continua a elencar os crimes equiparados a hediondos, para todos os fins, a saber, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo, insuscetíveis de fiança e sujeitos a tratamento mais severo na lei penal.
+O art. 5º, XLIII, da CF também prevê a natureza mais grave dos crimes de tortura, tráfico ilícito de entorpecentes e drogas afins e terrorismo, declarando serem passíveis de tratamento legal diferenciado. Confira-se:
+Art. 5º - XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem.
+Em relação ao tráfico ilícito de entorpecentes, antes das inovações do Pacote Anticrime, o condenado era transferido a regime mais brando após cumprir 2/5 da pena, se primário, ou 3/5, se reincidente. A atual redação do art. 112 da LEP não revogou o caput do art. 2º, da Lei n. 8.072/1990; apenas modificou o percentual previsto em seu § 2º, sem afastar a natureza equiparada a hedionda do delito previsto no art. 33, caput, da Lei n. 11.343.2006. Continua a existir tratamento diferenciado entre o crime em apreço e os comuns.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+Aplica-se ao caso a regra especial do art. 112, V e VII, da LEP e a interpretação sistemática da norma em apreço em conjunto com os arts. 2º, caput , da Lei n. 8.072/1990 e 5º, XLIII, da CF, o que está em conformidade com o princípio da proporcionalidade, em face da natureza mais grave do delito.
+É possível a solução monocrática do habeas corpus, por decisão monocrática do Relator, pois a Quinta e a Sexta Turmas já decidiram que as alterações promovidas pelo Pacote Anticrime na Lei 8.072/1990 não retiraram a equiparação do tráfico de entorpecentes a crime hediondo, uma vez que a própria Constituição Federal assegurou que o delito em apreço, a tortura e o terrorismo são merecedores de tratamento penal mais severo. (v.g.: HC n. 729.332/SP, de Relatoria do Ministro Reynaldo Soares da Fonseca, julgado em 19/4/2022 e o AgRg no HC 729.256/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 02/05/2022).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
