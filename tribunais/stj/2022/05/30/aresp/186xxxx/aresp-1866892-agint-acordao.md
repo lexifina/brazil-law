@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por EDK MINERAÇÃO LTDA contra decisão que negou provimento ao agravo em recurso especial, em virtude da ausência de omissão  no acórdão recorridoe incidência da Súmula 7 do STJ.
+Nas razões do presente agravo interno, a parte ora agravante sustenta, em síntese, que há omissão no acórdão recorrido e que não há necessidade de revolverfatos e provas, mas sim sua revaloração.
+Pede a reforma da decisão.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE EQUIPAMENTOS INDUSTRIAIS. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015.VÍCIO REDIBITÓRIO. SÚMULA 7/STJ. INCIDÊNCIA.REVALORAÇÃO DA PROVA. AFASTAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1.O Tribunaldeorigem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte comnegativaou ausênciade prestação jurisdicional.
+2.Modificar o entendimento do Tribunal local (acerca das premissas que levaram à conclusãodainexistência de vício redibitório) não prescindiria do reexame de matéria fático-probatória, o que é inviável devido ao óbicedaSúmula 7/STJ, não sendo caso, também, derevaloração da provaproduzida.
+3. Agravo interno não provido.
+VOTO
+2.Não se viabiliza o recurso especial pela indicada violação dos arts. 489, §1º, IV e §2º, 1.022 do CPC. Isso porque, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+3.No pertinente à existência de vício redibitório, o Tribunal de origem, após a análise dos elementos fático-probatórios dos autos, consignou que a perícia técnica não concluiu pela existência de vício redibitório, de maneira oposta ficou expresso que as irregularidades advieram do manuseio, manutenção e higienização.
+Conforme ficou consignado na decisão agravada, para que se possa conhecer do especial, como pretende o agravante, torna-se imprescindível reexaminar o conjunto fático-probatório constante dos autos, o que é vedado em sede de recurso especial, conforme enuncia a Súmula n. 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Cumpre ressaltar que a revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial, como bem observou o E. Ministro Felix Fischer: "A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial. Entretanto, na hipótese dos autos, para reverter a conclusão da Corte local, a fim de que se reconheça a presença dos pressupostos que ensejam a demanda reintegratória, necessário seria o reexame das provas colacionadas aos autos, providência vedada a esta Corte Superior, em sede de recurso especial. " (AgRg nos EDcl noAREsp 51.977/RS, QUARTA TURMA, julgado em 19.04.2016). Confira-se a ementa do julgado:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO AUTOR.
+1. Rever a conclusão do Tribunal a quo acerca da configuração dos requisitos ensejadores da procedência ou improcedência da tutela possessória demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+2. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial. Entretanto, na hipótese dos autos, para reverter a conclusão da Corte local, a fim de que se reconheça a presença dos pressupostos que ensejam a demanda reintegratória, necessário seria o reexame das provas colacionadas aos autos, providência vedada a esta Corte Superior, em sede de recurso especial.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 51.977/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2016, DJe 29/04/2016)
+Entretanto, na hipótese dos autos, para que se reconheça a presença do vício redibitório, necessário seria o reexame das provas colacionadas aos autos, prática que é vedada a esta Corte Superior. Assim, não obstante o inconformismo do recorrente, deve ser mantida a decisão ora agravada.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
