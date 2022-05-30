@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (fls. 250-251, e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. REMESSA OFICIAL. CABIMENTO. JORNADA DE TRABALHO E PISO SALARIAL DO CIRURGIÃO-DENTISTA, SERVIDOR ESTATUTÁRIO, CELETISTA OU CONTRATADO POR MUNICÍPIO. LEI Nº 3.999/61. APLICABILIDADE.
+1. O CONSELHO REGIONAL DE ODONTOLOGIA DA PARAÍBA ajuizou ação contra o MUNICÍPIO DE PIRPIRITUBA/PB, objetivando a condenação do réu em obrigação de fazer, consistente na observância do piso salarial e da jornada de 20 (vinte) horas, segundo a Lei nº 3.999/61, para o cargo de cirurgião-dentista, para os servidores estatutários, celetistas e contratados pela Edilidade.
+2. O Juízo a quo julgou procedente a pretensão, em sentença que submeteu à remessa necessária, inexistindo a interposição de apelação pela Municipalidade vencida.
+3. De acordo com o art. 496, I, do CPC/2015, está sujeita ao duplo grau de jurisdição obrigatório, não produzindo efeito senão depois de confirmada pelo Tribunal a sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e as suas respectivas autarquias e fundações de direito público.
+4. No entanto, não haverá remessa necessária, quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 100 (cem) salários mínimos, no caso de sentença proferida contra Municípios que não sejam capitais de Estados (como é o caso de Pirpirituba/PB) e as suas autarquias e fundações de direito público (inciso III do § 3º do art. 496 do CPC/2015).
+5. No caso, a remessa deve ser conhecida, considerando que a condenação imposta ao réu é ilíquida (Súmula nº 490 do STJ), não havendo como mensurar o impacto econômico decorrente do acolhimento da pretensão autoral, além do que o valor atribuído à causa, de R$ 100.000,00 (cem mil reais), equivale a mais de 100 (cem) vezes o salário mínimo vigente à época do ajuizamento da ação, de R$ 998,00 (novecentos e noventa e oito reais).
+6. A Constituição Federal de 1988 estabelece que a competência para dispor sobre a organização para o exercício de profissões é privativa da União, cabendo-lhe a edição de normas gerais no âmbito nacional, de observância obrigatória em todas as unidades da federação, inclusive nos Municípios.
+7. Nessa toada, nos termos do art. 37 da Carta Política, os cargos, empregos e funções públicas são acessíveis a todos os brasileiros que preencham os requisitos estabelecidos em lei. A lei, no caso concreto, é a de âmbito nacional, ou seja, a Lei nº 3.999/61, que disciplina a categoria profissional de odontólogo e fixa o piso salarial equivalente a 3 (três) salários mínimos.
+8. Precedentes da 1ª e da 3ª Turmas desta Corte Regional.
+9. A autonomia municipal não está sendo violada pela regra da legislação federal, uma vez que o Município poderá fixar os parâmetros mínimos para o salário base dos odontólogos, desde que observe as limitações da regra nacional. Não há aqui que se falar em princípio da especialidade, pois estamos diante de competências constitucionais distintas. In casu, a União fixa as regras mínimas, observando as características nacionais, enquanto o ente municipal, respeitando os limites federais, poderá criar regras com atenção às especialidades locais.
+10. Não há que se falar em violação à Súmula Vinculante nº 4, pois não há nenhuma vedação para a utilização de múltiplos do salário mínimo, como piso salarial, desde que este não seja atrelado para fins de atualização monetária. Assim, o desiderato da norma constitucional do art. 7º, IV, não está sendo violado. Entendimento do STF.
+11. Remessa oficial não provida.
+Os Embargos de Declaração não foram conhecidos (fls. 340-354, e-STJ).
+O Município recorrente alega que houve ofensa aos arts. 4º, 6º, 8º, § 2º, 18 e 21 da Lei 3.999/1961. Afirma, em síntese, que a referida lei aplica-se apenas aos profissionais celetistas da categoria, e não aos servidores estatutários.Logo, não há que falar em vinculação do piso salarial ao salário-mínimo, pois o diploma que prevê tal regra é a Lei 3.999/1961.
+Contrarrazões às fls. 392-411, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.4.2022.
+A irresignação não merece prosperar.
+Ao dirimir a controvérsia, o Tribunal local consignou (fls. 246-249, e-STJ):
+Com efeito, a Constituição Federal de 1988 estabelece que a competência para dispor sobre a organização para o exercício de profissões é privativa da União, cabendo-lhe a edição de normas gerais no âmbito nacional, de observância obrigatória em todas as unidades da federação, inclusive nos Municípios.
+Nessa toada, nos termos do art. 37 da Carta Política, os cargos, empregos e funções públicas são acessíveis a todos os brasileiros que preencham os requisitos estabelecidos em lei. A lei, no caso concreto, é a de âmbito nacional, ou seja, a Lei nº 3.999/61, que disciplina a categoria profissional de odontólogo e fixa o piso salarial equivalente a 3 (três) salários mínimos.
+(..)
+Ademais, observo que a autonomia municipal não está sendo violada pela regra da legislação federal, uma vez que o Município poderá fixar os parâmetros mínimos para o salário base dos odontólogos, desde que observe as limitações da regra nacional. Não há aqui que se falar em princípio da especialidade, pois estamos diante de competências constitucionais distintas. In casu, a União fixa as regras mínimas, observando as características nacionais, enquanto o ente municipal, respeitando os limites federais, poderá criar regras com atenção às especialidades locais.
+Por derradeiro, não há que se falar em violação à Súmula Vinculante nº 4, pois não há nenhuma vedação para a utilização de múltiplos do salário mínimo, como piso salarial, desde que este não seja atrelado para fins de atualização monetária. Assim, o desiderato da norma constitucional do art. 7º, IV, não está sendo violado.
+Nessa conjuntura, observa-se quea questão foi decidida sob o prisma exclusivamente constitucional, o que torna inviável ao STJ rever o entendimento consignado na origem, sob pena de usurpar a competência do STF. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MERA INSATISFAÇÃO COM O DESLINDE DA CONTROVÉRSIA. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS NO JULGADO.
+1. Os embargos declaratórios somente são cabíveis para modificar o julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar eventual erro material na decisão.
+2. O embargante não aponta nenhuma omissão, contradição, obscuridade ou erro material nas razões recursais, buscando somente modificar o acórdão embargado.
+3. O Tribunal de origem concluiu que o STF, ao julgar o RE n. 363.852/MG, declarou inconstitucional as alterações trazidas pelo art. 1º da Lei n. 8.540/1992, que deu nova redação aos arts. 12, V e VII, 25, I e II, e 30, IV, da Lei n. 8.212/1991.
+4. Tendo o acórdão recorrido amparo em fundamentos eminentemente constitucionais, não compete ao STJ conhecer da proposição formulada no recurso especial, sob pena de invadir a competência exclusiva do STF.
+5. A revisão de entendimento a quo amparado no conjunto fático-probatório dos autos é vedada, em recurso especial, pela Súmula 7/STJ.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.429.089/PR, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 22/5/2014)
+Ainda que assim não fosse, os dispositivos da Lei 3.999/1961 apontados como violados não foram analisados pelo órgão julgador. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por ofendidos não foram apreciados pelo Tribunal a quo, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Por fim, embora a parte ora recorrente tenha oposto Embargos de Declaração, não indicou, no presente recurso, eventual afronta ao art. 1.022 do CPC, o que impossibilita o exame de possíveis vícios previstos no artigo.
+Ante o exposto, não conheço do Recurso Especial.
+Por fim, caso existam nos autos honorários de advogado previamente fixados pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
