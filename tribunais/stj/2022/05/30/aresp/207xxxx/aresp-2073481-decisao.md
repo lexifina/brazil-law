@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por EUROPAR VEICULOS LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. IMISSÃO DE POSSE C/C PERDAS E DANOS. VEÍCULO AUTOMOTOR. Pretensão deduzida pela empresa adquirente do veículo em face da possuidora do automóvel, ex-cônjuge do alienante. Improcedência em primeiro grau. Inconformismo. Não acolhimento. REIVINDICAÇÃO DE BEM MÓVEL. Transferência da propriedade que só ocorre mediante tradição efetiva. A entrega de documentos não caracteriza tradição. Inequívoca má-fé do alienante, que vendeu o bem à apelante após indeferimento de seu pedido de reintegração de posse. Apelante que adquiriu o bem sem prévia vistoria. Automóvel que sempre esteve na posse da apelada. Ausência de prova do pagamento do preço. Recibo apresentado de forma extemporânea, e sem indicação segura da data de sua emissão. Recorrente, que, a despeito de atuar no ramo de compra e venda de veículos, estranhamente não tomou as medidas necessárias para assegurar a lisura do negócio Pretensão inicial improcedente. Sentença mantida. Honorários majorados. RECURSO NÃO PROVIDO" (fl. 198, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 219/223, e-STJ).
+No especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.267, parágrafo único, do Código Civil e 1.022 do Código de Processo Civil de 2015, argumentando, em síntese, a possibilidade de imissão na posse de automóvel fundada na tradição simbólica, com base no recibo de compra do veículo devidamente assinado pelo antigo proprietário, devendo ser presumida a boa-fé do terceiro adquirente.
+Apresentadas contrarrazões às fls. 290/313 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Como observado, antes de alienar o bem à apelante, EDUARDO ajuizara ação de reintegração de posse em face da apelada ADRIANA e, em 29/10/2018, teve ciência de que a liminar fora indeferida.
+Em 20/11/2018, ou seja, um mês após ter ciência da rejeição do pedido liminar, EDUARDO alienou a coisa à apelante, de sorte que a má-fé do vendedor é inequívoca.
+A conduta da recorrente, por sua vez, causa estranheza porque refoge daquilo que ordinariamente acontece em negócio envolvendo a compra e venda de veículo. O bem foi adquirido sem prévia avaliação, já que sempre esteve na posse da apelada.
+Em se tratando de empresa que desenvolve atividade de compra e venda de veículo, a formalização da compra sem vistoria prévia e detalhada milita em seu desfavor. Ainda que se conheça o veículo, o estado atual da parte mecânica, interior e funilaria são decisivos para concretização do negócio e definição do preço.
+Também não fez buscas acerca de demandas judiciais envolvendo o carro e o vendedor. Se o tivesse feito, teria se deparado com a ação promovida pelo alienante em face da ora ré.
+Instada a prestar esclarecimentos acerca da avaliação, a apelante alegou ter vistoriado o veículo quando EDUARDO o levara até a loja (fls. 178 e 181/183).
+Ocorre que tal alegação, desprovida de suporte probatório, vai de encontro dos elementos de prova constantes nos autos, já que, como consignado, o bem sempre esteve na posse da apelada, ao menos desde 18/10/2018, quando EDUARDO ajuizou ação de reintegração de posse.
+Igualmente, não há provas de que a apelante tenha quitado o preço e de que o alienante tenha, de fato, recebido R$ 83.000,00 pela venda.
+Ao prestar informações acerca do pagamento, a recorrente declarou que quitou o preço "por moeda corrente e o referido pagamento está provado pelo respectivo recibo emitido pelo vendedor do veículo".
+A alegação nada esclarece, porquanto, por disposição legal (artigo 315, do CC), todas as dívidas em dinheiro devem ser pagas em moeda corrente, sendo nulas as convenções de pagamento em ouro ou moeda estrangeira (artigo 318, do CC).
+Não é usual efetuar o pagamento em moeda quando se pretende pagar importância considerável, como aquela necessária para quitar o preço do carro. E não é crível que a loja tenha efetuado o pagamento antes de receber o carro e tê-lo em seu poder.
+O recibo juntado a fls. 187 não tem valor probatório, neste processo, quer porque foi apresentado de forma extemporânea (artigos 434 e 435, do CPC), quer porque não se pode assegurar que a quitação tenha sidoemitida na data aposta, ao tempo da negociação.
+(..)
+Logo, a data aposta no recibo não tem eficácia perante a apelada, tampouco se presta a embasar o convencimento deste Juízo, uma vez que se mostra improvável que o alienante EDUARDO tenha recebido R$ 83.000,00 em espécie.
+Como ponderou a própria apelante, o ordenamento processual é informado pelo princípio da persuasão racional, e as circunstâncias que pautaram a compra e venda não podem ser ignoradas: o alienante não detinha a posse do automóvel; a coisa foi adquirida para comercialização futura sem prévia vistoria e, por fim, não há prova do efetivo pagamento. Não há verossimilhança nas alegações do apelante porque contrariam o senso comum.
+A ausência de restrições anotadas no CRV não exime a apelante de demonstrar que tomou as medidas cabíveis visando assegurar a lisura do negócio, especialmente neste caso, no qual o automóvel não lhe fora entregue imediatamente.
+Assim, considerando que "a propriedade das coisas não se transfere pelos negócios jurídicos antes da tradição" (art. 1267, do CC), e que há fundadas dúvidas acerca da validade e eficácia do negócio que embasa a pretensão, é caso de se manter a r. decisão de primeiro grau, por estes e por seus próprios e jurídicos fundamentos" (fls. 200/203, e-STJ - grifou-se).
+De início, no tocante à violação do art. 1.022 do Código de Processo Civil de 2015, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, extrai-se das razões recursais que a recorrente não refutou os fundamentos adotados pela Corte local a respeito das dúvidas quanto à validade e eficácia do negócio jurídico, da ausência de verossimilhança das alegações e inexistência de valor probatório do recibo juntado aos autos.
+Assim, havendo fundamento suficiente no julgado que não foi objeto de impugnação pela recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANO MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM INDENIZATÓRIO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial que não impugna fundamento do acórdão recorrido sufi ciente para mantê-lo não deve ser admitido, a teor da Súmula nº 283 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.701.796/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALHA NA PRESTAÇÃO DE SERVIÇO DE DESPACHANTE. DISPONIBILIZAÇÃO DO PRODUTO PELO FABRICANTE. DANO SOFRIDO PELO CONSUMIDOR. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.528.136/RR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para 20% (vinte por cento) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
