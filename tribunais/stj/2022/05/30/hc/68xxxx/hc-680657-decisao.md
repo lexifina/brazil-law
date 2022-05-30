@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefíciode PAULO ROBERTO CASSEMIRO, condenado, ao lado de Weverton Luis Valentim, como incurso no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, à pena de 9 anos, 3 meses e 4 dias de reclusão, em regime inicial fechado, mais 925 dias-multa (Ação Penal n. 1500695-37.2018.8.26.0360, da 2ª Vara da comarca de Mococa/SP), apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Busca-se, inclusive em caráter liminar, a absolvição do paciente, por falta de provas suficientes de autoria, ou, subsidiariamente, a redução da pena imposta, com a aplicação do redutordo art. 33, § 4º, da Lei n. 11.343/2006, no grau máximo e a fixação da pena-base no mínimo legal.
+O pedido liminar foi indeferido (fls. 157/158).
+Depois de prestadas informações, os autos seguiram ao Ministério Público Federal, que opinou de acordo com esta ementa (fl. 195):
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. REQUERIMENTOS DE ABSOLVIÇÃO OU REVISÃO NA DOSIMETRIA DA PENA COM O DEFERIMENTO DA MODALIDADE PRIVILEGIADA DO TRÁFICO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO.ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Incensurável o parecer escrito pelo Subprocurador-Geral da República Nívio de Freitas Silva Filho, o qual também adoto como razão de decidir.
+Afinal, ohabeas corpusnão deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro, o qual permite à parte prejudicadapor decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional. Foi essa a linha de raciocínio do Ministro Rogerio Schietti Cruz sobre a frequente impetração dehabeas corpustanto em caráter substitutivo de todas as modalidades recursaiscomo de forma contemporânea ao manejo do recurso cabível(HC n. 707.301/SP, DJe 23/11/2021).
+De qualquer forma, destaco que, ainda que fosse possível superar o óbice verificado, não seria o caso de concessão da ordem pleiteada, porquanto a pretensão de absolvição esbarra na necessidade de ampla incursão no acervo fático-probatório e, no que tange à dosimetria da pena, resta inviabilizada a aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, em razão da reincidência do ora paciente, e autoriza a exasperação da pena-base a circunstância de ter sido apreendida grande quantidade de droga (809,09 g de cocaína).
+Pelo exposto, não conheço deste habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUSSUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INVIABILIDADE DE PROFUNDA INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. REQUISITO DA PRIMARIEDADE NÃO PREENCHIDO. AUMENTO DA PENA-BASE JUSTIFICADO (EXPRESSIVA QUANTIDADE DE DROGA). INEVIDENTE CONSTRANGIMENTO ILEGAL. DESCABIMENTO DO WRIT. PARECER ACOLHIDO.
+Habeas corpus não conhecido.
