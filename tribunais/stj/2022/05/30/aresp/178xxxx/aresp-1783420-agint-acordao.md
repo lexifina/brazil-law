@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 414/433) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Os embargos de declaração foram rejeitados (e-STJ fls. 410/412).
+Em suas razões, o agravante alega que o art. 3º da LINDB é norma de ordem pública e, portanto, não é necessário o prequestionamento para a análise por esta Corte. Em relação aos arts. 330, I, e 485, I e IV, do CPC/2015, afirma que foram devidamente prequestionados, ainda que de forma implícita.
+Quanto ao art. 398 do CC, refuta a incidência das Súmulas n. 7 e 211 do STJ e 284 do STF, alegando que não busca reexame de provas, que houve o prequestionamento implícito e que demonstrou corretamente a ofensa ao dispositivo legal invocado.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foram apresentadas contrarrazões (e-STJ fls.437/441).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmulas n. 282 e 356 do STF).
+2. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou a prova para concluir pela ocorrência de dano moral. Alterar tal conclusão é inviável em recurso especial ante o óbice da mencionada súmula.
+5. Agravo interno a que se nega provimento.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1.783.420 - SP (2020/0286878-0)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+DARLAM CARLOS LAZARIN
+ADVOGADO
+:
+DARLAM CARLOS LAZARIN (EM CAUSA PRÓPRIA) - SP276015
+AGRAVADO
+:
+MIGUEL PEREIRA GOMES
+ADVOGADO
+:
+DAYANE SILVEIRA VIDAGO - SP319986
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+O agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 385/391):
+Cuida-se de agravo apresentado por DARLAM CARLOS LAZARIN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+APELAÇÃO AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANO MORAL E RECONVENÇÃO SENTENÇA DE PROCEDÊNCIA DA AÇÃO PRINCIPAL E DE IMPROCEDÊNCIA DA RECONVENÇÃO INCONFORMISMO DO ADVOGADO RÉU RECONVINTE COMPROVAÇÃO DE QUE O DEPÓSITO DO VALOR DEVIDO FOI PARCIALMENTE REALIZADO AO SEU CLIENTE - SENTENÇA REFORMADA EM PARTE AÇÃO PRINCIPAL QUE É PARCIALMENTE PROCEDENTE E RECONVENÇÃO QUE É IMPROCEDENTE - DANOS MORAIS CONFIRMADOS A FAVOR DO AUTOR - QUANTUM INDENIZATÓRIO QUE COMPORTA REDUÇÃO EM ATENÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - ALTERAÇÃO DOS ÔNUS DA SUMCUMBÊNCIA - RECURSO PROVIDO EM PARTE (fl. 258).
+Quanto à primeira controvérsia, alega violação do art. 3º da Lei 4657/1942, no que concerne à necessidade de "revaloração dos documentos juntados aos autos" (fl. 292), para que a ação proposta pelo recorrido em desfavor do recorrente seja julgada improcedente, já que deve se considerar "o pagamento integral efetuado no momento da distribuição da ação" (fl. 293). Traz os seguintes argumentos:
+ ..  é incontroverso nos autos que o recorrente depositou o numerário, conforme comprovante as fls. 87, na conta bancária indicada pelo recorrido em telegrama enviado as fls. 18/19, no mesmo dia da propositura da presente ação, e da mesma forma, apresentou prestação de contas pelos serviços prestados conforme fls. 84/85.
+O recorrente enfatiza que a decisão recorrida trouxe acervo suficiente para nova valoração, baseado na afirmação de que "o recorrido precisou recorrer a esta Corte de Justiça para que houvesse o recebimento do valor a que fazia jus". Entretanto não havia necessidade alguma de se recorrer ao poder judiciário para recebimento do numerário, pois este já havia sido pago.
+Assim, merece ser revalorada a premissa para considerar o pagamento integral efetuado no momento da distribuição da ação, e consequentemente ser reformada a decisão do Tribunal de Justiça de São Paulo, devendo ser julgada ação improcedente (fl. 293).
+ ..  é incontroverso o depósito por parte do recorrente e a ignorância do recorrido com relação a esse depósito.
+Assim, o artigo 3º do Decreto-Lei nº 4.657/1942 (Lei de Introdução ao Código Civil) foi violado, pois, não se pode atribuir responsabilidade ao recorrente pela inercia do recorrido em verificar sua conta. Além do mais, teve todo tempo possível para desistir da ação, e não o fazendo demonstra má-fé (fl. 293).
+Quanto à segunda controvérsia, alega violação do art. 398 do CC, no que concerne ao não cabimento da aplicação da Tabela Prática de Atualização do Tribunal de Justiça de São Paulo, na espécie, e sim da Tabela Prática de Débitos Trabalhistas do TST. Traz os seguintes argumentos:
+ ..  os cálculos apresentados pelo recorrente as fls. 85, teve como índice de atualização utilizado a Tabela Prática de Débito Trabalhistas do TST, tendo em vista a causa versar sobre verbas trabalhistas, datado da data de levantamento (18/10/2016) até a data do efetivo pagamento (05/11/2018).
+O acórdão recorrido atribuiu cálculos efetuados pela Tabela Prática do Tribunal de Justiça de São Paulo, para cômputo da atualização do débito e pagamento realizados nos autos, daí a pequena diferença entre o valor depositado R$ 23.849,16 e o valor calculado R$ 24.941,47, com diferença a maior para o recorrido de R$ 1.092,31.
+Assim, tem-se que o pagamento efetuado pelo recorrente foi integral, e correspondente ao valor devido, pois não havia processo judicial e não havia motivo para aplicação de índice de atualização monetária pela Tabela Prática do Tribunal de Justiça de São Paulo, mas sim, pela Tabela Prática de Débitos Trabalhistas do TST (fl. 294).
+Quanto à terceira controvérsia, alega violação do art. 398 do CC, no que concerne à necessidade de alteração do termo inicial da correção monetária. Traz os seguintes argumentos:
+ ..  levando em consideração a aplicação da Tabela Prática de Débitos Trabalhistas do TST e o pagamento integral e correspondente ao valor devido, em 05/11/2018, tem-se que o termo inicial da correção monetária é a data de pagamento efetuado pelo recorrente, ou seja, 05/11/2018 e não a data de levantamento 18/10/2016 como decidido no acórdão recorrido.
+O recorrente jamais praticou qualquer ato ilícito pelo incontroverso depósito efetuado em 05/11/2018, com os valores já calculados pelo índice de atualização da Tabela Prática de Débitos Trabalhistas do TST, desde a data do levantamento até a data da distribuição da ação. Tal fato descaracteriza a mora, e viola frontalmente a segunda parte do artigo 398 do Código Civil, pois o referido artigo estabelece a mora de quem comete ato ilícito (fl. 294).
+Quanto à quarta controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 398 do CC, no que concerne ao não cabimento de indenização por danos morais em favor do recorrido, por ausência de mora. Traz os seguintes argumentos:
+ ..  cai por terra o argumento do Tribunal de Justiça de São Paulo, que condenou o recorrente o pagamento de R$ 5.000,00 a título de danos morais, tendo em vista que ausente a mora, também é ausente o ato ilícito, e assim não há qualquer obrigação de indenizar (fl. 295).
+Quanto à quinta controvérsia, alega violação dos arts. 330, I e 485, I e IV, do CPC, no que concerne à inépcia da inicial pela ausência de interesse de agir da parte recorrida. Traz os seguintes argumentos:
+A demanda é inepta, uma vez que ausente o interesse de agir por parte do recorrido, desse modo, como é cediço, o interesse de agir é requisito para o exercício regular da ação.
+Sendo que ausente um dos requisitos das condições da ação, tem-se que ela desagua na inépcia, devendo ser indeferida a petição inicial nos termos do Art. 330, I do Código de Processo Civil, in verbis:
+ .. .
+Nesse sentido, é importante frisar que o recorrido aceitou o depósito incontroverso efetuado pelo recorrente as folhas 96 dos autos:
+ .. .
+Outrossim, conforme observa-se, o pagamento foi integral conforme demonstrado no item anterior 2.2, desta forma não há que se falar em interesse de agir, uma vez que o recorrente já PAGOU o recorrido, não estando inadimplente em absolutamente nada (fl. 295).
+ ..  o recorrido buscou a Tutela Jurisdicional Estatal, pleiteando uma "Obrigação de Fazer", estando esta já cumprida, ainda que seja no momento da distribuição da ação, fato que afasta uma das condições da ação, impedindo o conhecimento do mérito pelo poder judiciário.
+Tal pleito configura Falta de Interesse de Agir na modalidade adequação, tendo em vista que intentou medida judicial diversa, pois inexiste qualquer obrigação a fazer e a demanda perdeu seu objeto com o depósito incontroverso efetuado (fl. 296).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a alegada violação do art. 3º da Lei 4657/1942 não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que art. 398 do CPC não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF". (AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020.)
+Confiram-se também os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018.
+Ademais, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Quanto à terceira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Já a titulo de correção monetária sobre o valor de R$19.026,13 entre outubro de 2016 a novembro de 2018, tem-se o valor adicional de R$1.158,80. Assim sendo, o valor total devido é de R$19.026,13  R$4.756,54 (juros de mora de 1% ao mês)  R$1.158,80 (correção monetária), resultando no valor total de R$ 24.941,47 (fl. 276).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à quarta controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que o art. 398 do CPC não possui comando normativo suficiente para amparar a tese recursal.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  a parte autora sofrera imenso dissabor em somente receber parte do valor devido mais de dois anos depois, tendo sim sofrido dano moral (fl. 261).
+Incide então o óbice da Súmula n. 7 do STJ), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Quanto à quinta controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a alegada violação dos arts. 330, I e 485, I e IV, do CPC não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+O conteúdo jurídico dos arts. 3º da LINDB e 330, I, e 485, I e IV, do CPC/2015 não foi objeto de análise pela Corte estadual, de modo que não há falar em prequestionamento, sequer implícito. Correta a aplicação das Súmulas n. 282 e 356 do STF, portanto.
+Esclareça-se que referido requisito de admissibilidade é exigido inclusive para as matérias de ordem pública. Nesse sentido:
+AGRAVO INTERNO. PLANO OU SEGURO DE SAÚDE EMPRESARIAL E PROCESSUAL CIVIL. PREQUESTIONAMENTO. IMPRESCINDIBILIDADE. LEGITIMIDADE PASSIVA DA ESTIPULANTE. AUSÊNCIA.
+1. "Segundo pacífica jurisprudência deste Superior Tribunal, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento" (AgInt nos EDcl no AgInt no AREsp 1481503/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022).
+2. A "jurisprudência do STJ é firme no sentido de que a empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp nº 1.575 435/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 3/6/2016).
+3. A "Segunda Seção reconheceu, em sede de recurso repetitivo, a inexistência de direito adquirido do aposentado ao regime de custeio do plano de saúde coletivo empresarial vigente à época do contrato de trabalho, assegurada a possibilidade de substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores (REsp n. 1.816.482/SP, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/12/2020, DJe 1/2/2021)" (EDcl nos EDcl no AgInt no REsp 1765274/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/08/2021, DJe 25/08/2021).
+4. Agravo interno não provido.
+(AgInt no REsp 1639281/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2022, DJe 29/04/2022)
+O art. 398 do CC/2002 foi invocado pela parte para alegar que (i) a atualização monetária deveria ocorrer pela Tabela do TST, (ii) "levando em consideração a aplicação da Tabela Prática de Débitos Trabalhistas do TST e o pagamento integral e correspondente ao valor devido, em 05/11/2018, tem-se que o termo inicial da correção monetária é a data de pagamento efetuado pelo recorrente, ou seja, 05/11/2018 e não a data de levantamento 18/10/2016 como decidido no acórdão recorrido" (e-STJ fl. 294), e (iii) diante da existência de depósito, não praticou nenhum ato ilícito, o que descaracteriza a mora e afasta a ocorrência de dano moral.
+O dispositivo invocado tem a seguinte redação:
+Art. 398. Nas obrigações provenientes de ato ilícito, considera-se o devedor em mora, desde que o praticou.
+Referida norma não tem conteúdo normativo apto a dar suporte às teses referentes à correção monetária, tampouco para discutir a respeito da mora. Dessa forma, inafastável a Súmula n. 284 do STF.
+Ademais, para alterar a conclusão do Tribunal de origem, de que "a parte autora sofrera imenso dissabor em somente receber parte do valor devido mais de dois anos depois, tendo sim sofrido dano moral" (e-STJ fl. 261), seria necessário o reexame de matéria fática, inviável em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
