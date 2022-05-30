@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pelo ITAÚ UNIBANCO S.A. contra decisão de inadmissibilidade dorecurso especial apresentado em desafio a acórdãoproferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO REVISIONAL - CONTRATO DE CONTA CORRENTE - PRESCRIÇÃO - INOCORRÊNCIA -AJUIZAMENTO ANTERIOR DE AÇÃO DE PRESTAÇÃO DE CONTAS - OCORRÊNCIA DE INTERRUPÇÃO DO PRAZO PRESCRICIONALCOM A CITAÇÃO VÁLIDA - DECISÃO MANTIDA - RECURSOCONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 86-90).
+Nas razões do recurso especial, a parte agravante alegou violação do art. 202, I, do CC, defendendoque "a ação que tem o condão de interromper o prazo prescricional é aquela que tem como objetivo discutir ou declarar direito sobre o objeto da relação (no caso, o contrato), sendo que a ação de prestação de contas, como se sabe, tem finalidade específica.Isso se justifica pela própria jurisprudência deste STJ no sentido de ser incabível pedidos revisionais em ação de prestação de contas, o que afasta a interrupção do prazo prescricional".
+Contrarrazões apresentadas às fls. 116-136 (e-STJ).
+É o relatório. Decido.
+Conforme entendimento desta Corte Superior, a citação do réu em outra demanda, ainda que extinta sem resolução do mérito, interrompe a prescrição, nos termos do art. 202, I, do CC/2002.
+A propósito:
+Direito Processual Civil. Efeitos da citação válida. Código de Processo Civil, art. 219. Ação proposta, mas pedido julgado improcedente. Inequívoco exercício do direito. Inércia descaracterizada. Prazo prescricional interrompido.
+I. Para o art. 219 do Código de Processo Civil, "a citação válida torna prevento o juízo, induz litispendência e faz litigiosa a coisa; e, ainda quando ordenada por juiz incompetente, constitui em mora o devedor e interrompe a prescrição". Quanto à interrupção da prescrição, a lei não distingue entre pedido julgado procedente e aquele declarado improcedente. Evidenciado o inequívoco exercício do direito e a boa-fé do autor, ainda que com a propositura de ação incabível, interrompe-se o prazo prescricional.
+II. Embargos de divergência conhecidos, mas rejeitados.
+(EREsp 54.788/SP, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, Rel. p/ acórdão Ministro HUMBERTO GOMES DE BARROS, SEGUNDA SEÇÃO, julgado em 27/09/2006, DJ de 06/11/2006, p. 300)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PROPOSITURA DE DEMANDA REVISIONAL DE CLÁUSULAS CONTRATUAIS. INTERRUPÇÃO DA PRETENSÃO EXECUTIVA. REINÍCIO. TRÂNSITO EM JULGADO DA SENTENÇA PROFERIDA NA DEMANDA PROPOSTA PELO DEVEDOR. ART. 202, V, DO CÓDIGO CIVIL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão da Corte local encontra-se em harmonia com a jurisprudência consolidada nestes Sodalício, no sentido de a citação válida interrompe a prescrição, cujo prazo reinicia a partir do trânsito em julgado da decisão judicial que pôs fim ao processo que acarretou referida interrupção. Precedentes.
+2. O acórdão estadual afastou a ocorrência da prescrição, sob o argumento de que o negócio jurídico, que origina o débito objeto da execução, foi objeto de discussão em ação revisional anteriormente proposta, interrompendo o prazo prescricional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.204.157/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2018, DJe de 02/05/2018, g.n.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSÊNCIA. SÚMULA 284/STF. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO VÁLIDA OCORRIDA EM ANTERIOR AÇÃO REPARATÓRIA E COMPENSATÓRIA.
+1. Ação ajuizada em 21/07/2014. Recurso especial concluso ao gabinete em 16/09/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir se i) houve a negativa de prestação jurisdicional na hipótese; e ii) a citação válida ocorrida em anterior ação indenizatória - em que litigaram o recorrido e a Viação Redentor S/A - ensejou a interrupção da prescrição em relação à recorrente (Telemar Norte Leste S/A).
+3. Ausentes os vícios do art. 535 do CPC/73, rejeitam-se os embargos de declaração.
+4. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+5. A interrupção da prescrição dá-se quando o titular do direito manifesta por uma das formas previstas em lei a intenção de exercê-la ou quando o devedor manifesta inequivocamente o reconhecimento daquele direito.
+6. A ratio essendi dos arts. 219 do CPC/73 e 202, I, do CC/02 é, de fato, favorecer o autor que já não mais se encontra na inércia pela proteção do seu direito (REsp 1.402.101/RJ, 4ª Turma, DJe 11/12/2015).
+7. A citação válida, ainda que operada em ação extinta sem julgamento do mérito, interrompe o curso do prazo prescricional. Precedentes.
+8. Se a jurisprudência deste STJ consolidou-se no sentido de que a citação válida gera a interrupção do prazo prescricional até mesmo nas hipóteses de extinção do processo sem resolução de mérito - à exceção das situações de negligência das partes e abandono da ação, frisa-se -, mais razão ainda há de ter a interrupção do prazo prescricional quando há o ajuizamento de ação anterior que culminou em julgamento com resolução de mérito da lide, como ocorre na espécie.
+9. Imperioso faz-se reconhecer que: i) o prazo prescricional foi interrompido em virtude da citação válida ocorrida no bojo da ação ajuizada em face da Viação Redentor S/A, nos termos do art. 219 do CPC/73; ii) a prescrição recomeçou a fluir a partir do julgamento definitivo daquela ação, nos termos do art. 202, parágrafo único, do CC/02, o que, na hipótese, se deu em 21/03/2014; e iii) em tendo a presente ação sido ajuizada em 21/07/2014, isto é, após exatos 4 (quatro) meses do trânsito em julgado da primeira ação ajuizada em face da Viação Redentor S/A, não há que se falar em ocorrência da prescrição, tendo em vista que a pretensão de reparação civil prescreve em 3 (três) anos, na forma do art. 206, § 3º, V, do CC/02.
+10. Recurso especial parcialmente conhecido e, nessa parte, não provido.(REsp 1.636.677/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/02/2018, DJe de 15/02/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE, AMPARADA NA SÚMULA 83 DO STJ, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DAS AUTORAS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, mesmo tendo sido extinta sem resolução de mérito a ação anteriormente proposta, a citação no prazo e na forma da lei processual é suficiente a obstar a suscitada prescrição e viabilizar o prosseguimento do feito. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.652.436/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/08/2018, DJe de 17/08/2018, g.n.)
+O Tribunal de origem afastou a alegação de prescrição da demanda revisional de contrato bancário, por entender que a citação promovida em anterior ação de prestação de contas interromperao curso do prazo prescricional, mesmo tendo sido julgada improcedente em relação à pretensão revisional nela embutida.
+Desse modo, constatadaa conformidade entre o acórdão recorrido e a jurisprudência desta Corte, é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
