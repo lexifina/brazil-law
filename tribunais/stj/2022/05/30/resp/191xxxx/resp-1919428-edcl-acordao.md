@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pelo ESTADO DO ESPÍRITO SANTO ao acórdão de minha relatoria, assim ementado (fl. 686):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 54 DA LEI 9.784/1999. APLICAÇÃO POR ANALOGIA NO ÂMBITO ESTADUAL. NATUREZA DE LEI LOCAL. SÚMULA 280/STF.
+1. Como cediço, "com vistas nos princípios da razoabilidade e da proporcionalidade, este Superior Tribunal de Justiça tem admitido a aplicação, por analogia integrativa, da Lei Federal n. 9.784/1999, que disciplina a decadência quinquenal para revisão de atos administrativos no âmbito da administração pública federal, aos Estados e Municípios, quando ausente norma específica, não obstante a autonomia legislativa destes para regular a matéria em seus territórios" (REsp 1.251.769/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/9/2011).
+2. A Lei 9.784/1999, ao ser aplicada por analogia no âmbito da Administração Pública dos Estados e Municípios, assume natureza de lei local, o que inviabiliza o reexame das conclusões firmadas pelo Tribunal de origem em virtude do óbice da Súmula 280/STF. Nesse sentido: AgRg no AREsp 713.381/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 26/10/2015.
+3. Agravo interno não provido.
+Sustenta o embargante a existência de omissões no julgado.
+Nesse sentido, afirma que a primeira omissão está no fato de que(fl. 700):
+Olvidou o acórdão ora embargado de considerar que o vício atacado acumulação indevida de cargos públicos configura-se ato manifestamente inconstitucional, o qual não se convalida com o decurso do tempo, de modo que não incide a decadência prevista no art. 54 da Lei n. 9.784/1999. O acórdão, portanto, contém vícios sanáveis pela oposição de embargos de declaração, como se demonstrará a seguir.
+Segue afirmando que (fls. 701/702):
+Também não houve (omissão 2) análise dos precedentes citados no recurso, no sentido de que o STF e a Colenda Primeira Seção do STJ, em casos idênticos, transpuseram a barreira da Súmula 280/STF e entenderam que atos inconstitucionais jamais se convalidam no tempo.
+Com efeito, constatada uma inconstitucionalidade, pode aAdministração, A QUALQUER TEMPO, revisitá-la.
+Por fim, requer o acolhimento dos embargos de declaração, com efeitos infringentes, a fim de que seja conhecido e provido o recurso especial.
+Sem impugnação (fl. 711).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios emquestão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou consignadaa impossibilidade de abertura da via especial, uma vez que o art. 54 da Lei 9.784/1999, quando aplicado aos entes da Federação por analogia, assumenatureza de lei local, o que atrai ao óbice da Súmula 280/STF. Senão vejamos (fls. 691/693):
+Como cediço, "com vistas nos princípios da razoabilidade e da proporcionalidade, este Superior Tribunal de Justiça tem admitido a aplicação, por analogia integrativa, da Lei Federal n. 9.784/1999, que disciplina a decadência quinquenal para revisão de atos administrativos no âmbito da administração pública federal, aos Estados e Municípios, quando ausente norma específica, não obstante a autonomia legislativa destes para regular a matéria em seus territórios" (REsp 1.251.769/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/9/2011).
+Dito isto, uma vez aplicado o referido diploma legal na esfera estadual, este assume para todos os efeitos natureza de lei local, o que, via de consequência, impossibilita a revisão das conclusões firmadas pelo Tribunal a quo, tendo em vista o óbice da Súmula 280/STF.
+Nesse sentido, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO DO DISTRITO FEDERAL. APRECIAÇÃO DE ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. LEIS 8.112/90 E 9.784/99, APLICADAS A SERVIDORES DO DISTRITO FEDERAL, POR FORÇA, RESPECTIVAMENTE, DAS LEIS DISTRITAIS 197/91 E 2.834/2001. NATUREZA DE LEI LOCAL. LEI ORGÂNICA DO DISTRITO FEDERAL. DIREITO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição da República, sendo defeso o seu exame, no âmbito do Recurso Especial, ainda que para fins de prequestionamento, conforme pacífica jurisprudência do STJ.
+II. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a Lei Orgânica do Distrito Federal tem caráter de norma local, sendo inviável a análise de seus dispositivos na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, aplicável por analogia" (STJ, AgRg no REsp 1.382.420/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/10/2013).
+III. É assente o entendimento desta Corte no sentido de que, "ausente lei local específica, a Lei 9.784/99 pode ser aplicada de forma subsidiária no âmbito dos demais Estados-Membros, tendo em vista que se trata de norma que deve nortear toda a Administração Pública, servindo de diretriz aos seus demais órgãos" (STJ, AgRg no Ag 1.196.717/DF, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJe de 22/03/2010). Contudo, a Lei Distrital 2.834/2001 aplicou, no âmbito do Distrito Federal, as regras previstas na Lei Federal 9.784/99. Diante desse quadro, em última análise, o conhecimento do Recurso Especial implicaria o exame de lei local, o que é vedado, pela Súmula 280/STF.
+IV. O entendimento deste Tribunal consolidou-se no sentido de que "a Lei Federal 8.112/90, aplicável aos servidores públicos do Distrito Federal por força da Lei Distrital 197/91, é materialmente local, atraindo, por analogia, o óbice contido no Enunciado 280, da Súmula do STF. Dentre os precedentes: AgRg no AREsp 175.332/DF, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 19/3/2013; AgRg no AREsp 191.422/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/5/2014" (STJ, AgRg no AREsp 347.948/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 30/09/2014).
+V. Agravo Regimental improvido.
+(AgRg no AREsp 713.381/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 26/10/2015) - Grifo nosso
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+Nessa perspectiva, consoante pacífica jurisprudência desta Corte, "se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido:EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017"(EDcl no AgInt no AREsp 1.905.150/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28/04/2022).
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+É como voto.
