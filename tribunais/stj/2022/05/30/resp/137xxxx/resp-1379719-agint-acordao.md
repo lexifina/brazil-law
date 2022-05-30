@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.DIÁRIA DE ASILADO. COISA JULGADA. SÚMULA N. 283/STF.CÁLCULO COM BASE NO VALOR INTEGRAL DA DIÁRIA PREVISTA NO ART. 29 DA LEI N. 8.237/1991.DESCABIMENTO.
+1. Não se conhece do recurso especial quando o recorrente deixa de combater, de modo específico, as razões constantes do acórdão impugnado para justificar que não mais existe, no ordenamento, a parcela remuneratóriautilizadacomo parâmetro pelo título judicial transitado em julgado para calcular o valor devido ao militar inativo do Exército. Incidência da Súmula n. 283/STF.
+2. De acordo com a jurisprudência do STJ, os militares que recebem "a parcela denominada "diária de asilado", conforme os arts. 37, 148, 149 e 150 da Lei 4.328/64, não têm direito de substituí-la pelo valor integral fixado a título de "diária", segundo o disposto no art. 29 da Lei 8.237/91, porquanto esta última destina-se tão somente a cobrir despesas com pousada, alimentação e locomoção urbana dos servidores militares ativos que se deslocam da sede em caráter eventual ou transitório" (REsp n. 734.641/RJ, relatorMinistro Arnaldo Esteves Lima, Quinta Turma, julgado em 7/6/2005, DJ de 22/8/2005, p. 345).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interpostocontra decisão que não conheceu do recurso especial (e-STJ, fls. 389-392).
+A parte agravante aduz, em suma, a inaplicabilidade dos óbices, na medida em que se discute o cumprimento da coisa julgada.
+Requer, assim, a submissão do feito ao colegiado.
+Sem impugnação.
+Processo com prioridade legal (art. 1.048, I, do CPC/2015, c/c o art. 71 da Lei n. 10.741/03) epreferência legal (art. 12, § 2º, VII, do CPC/2015, combinado coma Meta n. 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017").
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.DIÁRIA DE ASILADO. COISA JULGADA. SÚMULA N. 283/STF.CÁLCULO COM BASE NO VALOR INTEGRAL DA DIÁRIA PREVISTA NO ART. 29 DA LEI N. 8.237/1991.DESCABIMENTO.
+1. Não se conhece do recurso especial quando o recorrente deixa de combater, de modo específico, as razões constantes do acórdão impugnado para justificar que não mais existe, no ordenamento, a parcela remuneratóriautilizadacomo parâmetro pelo título judicial transitado em julgado para calcular o valor devido ao militar inativo do Exército. Incidência da Súmula n. 283/STF.
+2. De acordo com a jurisprudência do STJ, os militares que recebem "a parcela denominada "diária de asilado", conforme os arts. 37, 148, 149 e 150 da Lei 4.328/64, não têm direito de substituí-la pelo valor integral fixado a título de "diária", segundo o disposto no art. 29 da Lei 8.237/91, porquanto esta última destina-se tão somente a cobrir despesas com pousada, alimentação e locomoção urbana dos servidores militares ativos que se deslocam da sede em caráter eventual ou transitório" (REsp n. 734.641/RJ, relatorMinistro Arnaldo Esteves Lima, Quinta Turma, julgado em 7/6/2005, DJ de 22/8/2005, p. 345).
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte insiste que o cumprimento da coisa julgada é apenas o que se exige, mas ignora que o parâmetro adotado pelo título exequendo deixou de existir no ordenamento. Eis o teor do voto, transcrito pela decisão agravada, no ponto (e-STJ, fl. 390):
+Ressalta-se, por pertinente, que o pedido da ação movida pelo impetrante e outros, em 1987, buscava o recebimento da diferença entre as diárias de asilado e o auxílio-invalidez, ou seja, buscavam eles readquirir as perdas impostas em seus proventos, por meio da manutenção do critério "30 diárias de alimentação". No entanto, se não há como afastar o beneficio da esfera patrimonial do autor, não há como deixar de reconhecer que não mais existe o critério ou "parâmetro" (diária de alimentação) mencionado no "Voto-Vogal"(fl. 97/100).  .. .
+Com efeito, a rubrica "alimentação", que, como já mencionado, servia de base para cálculo da diária de asilado, passou a integrar a diária do art. 29 da Lei 8.237/91, o que deixou a antiga diária de asilado sem a sua base de cálculo. A nova parcela remuneratória passou a englobar as despesas com hospedagem/pousada, alimentação e locomoção .. .
+Ainda arrematou-se, mais à frente (e-STJ, fl. 391):
+Considerando que o parágrafo único do art. 29 da Lei 8.237/91 determinava a redução da diária em 50% (cinquenta por cento) para os casos que não exigiam pernoite do militar, ou seja, que não exigiam hospedagem/pousada, forçosa é a conclusão de que a metade do valor fixado para a diária seria consumido com essa rubrica. Logo, a outra metade da parcela, isto é, os outros 50% (cinquenta por cento) seriam empregados para dar suporte aos gastos com as duas outras rubricas, quais sejam, locomoção e alimentação. Assim, o cálculo da diária de asilado não mais corresponderia ao valor da diária prevista na legislação (pós 1991), multiplicado por 30 (trinta) dias, uma vez que o critério ou parâmetro "diária de alimentação" não mais existe isoladamente na legislação remuneratória dos militares.  .. .
+Daí a conclusão da decisão agravada:
+O recurso especial não discute de forma específica a revogação do parâmetro do valor devido. Isto é, não discute como a parcela que defende corresponderia à "diária de asilado" prevista na legislação de 1964, de longa data revogada. Em especial, nada discute acerca da distinção afirmada pela origem entre aquela - que dizia respeito unicamente à alimentação - e a atual "diária" dos militares, que incorpora também despesas de deslocamento e hospedagem.
+Nesse contexto, estácorreta a aplicação do óbice da Súmula n. 283/STF, com o seguinte teor: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+A insistência da parte é para que a diária atualmente existente corresponda à de asilado, mas não há base legal para dita compreensão. É o que se extrai da jurisprudência desta Corte, já citada no Juízo singular:
+ ..  1. Esta Corte Superior de Justiça já firmou entendimento no sentido de que, "Os servidores militares reformados do antigo Distrito Federal que recebem a parcela denominada "diária de asilado", conforme os arts. 37, 148, 149 e 150 da Lei 4.328/64, não têm direito de substituí-la pelo valor integral fixado a título de "diária", segundo o disposto no art. 29 da Lei 8.237/91, porquanto esta última destina-se tão-somente a cobrir despesas com pousada, alimentação e locomoção urbana dos servidores militares ativos que se deslocam da sede em caráter eventual ou transitório." (REsp 734.641/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 07/06/2005, DJ 22/08/2005 p. 345).
+2. Agravo regimental a que se nega provimento.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.210.995/RJ, relatorMinistro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/5/2018, DJe de 24/5/2018).
+ ..  1. O Superior Tribunal de Justiça firmou a compreensão de que os beneficiários da diária de asilado, prevista pela Lei n. 4.328/1964, não têm direito de substituí-la pelo valor integral da diária prevista no art. 29 da Lei n. 8.237/1991, que se destina a cobrir despesas com pousada, alimentação e locomoção urbana dos militares ativos que se deslocam da sede em caráter eventual ou transitório.
+ ..
+(AgRg no REsp n. 945.711/RJ, de minha relatoria, SEXTA TURMA, julgado em 18/6/2013, DJe de 28/6/2013).
+ ..  1. Os servidores militares reformados do antigo Distrito Federal que recebem a parcela denominada "diária de asilado", conforme os arts. 37, 148, 149 e 150 da Lei 4.328/64, não têm direito de substituí-la pelo valor integral fixado a título de "diária", segundo o disposto no art. 29 da Lei 8.237/91, porquanto esta última destina-se tão-somente a cobrir despesas com pousada, alimentação e locomoção urbana dos servidores militares ativos que se deslocam da sede em caráter eventual ou transitório.
+2. Recurso conhecido e improvido.
+(REsp n. 734.641/RJ, relatorMinistro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 7/6/2005, DJ de 22/8/2005, p. 345).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
