@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Dramane Traore, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o HC n. 21264060320218260000 (fls. 383/384):
+HABEAS CORPUS DELITOS DE ASSOCIAÇÃO CRIMINOSA, LAVAGEM DE CAPITAIS, EXTORSÃO E ESTELIONATO (LEI 12.850/2013, ART. 2º, §§ 3º E 4º, III; CP, ARTS. 158, § 1º E 171, § 4º; LEI 9.613/98, ART. 1º, §§ 1º, 2º E 4º) IMPETRAÇÃO VISANDO IMPUGNAR A DECRETAÇÃO DA CUSTÓDIA PREVENTIVA DA PACIENTE E O POSTERIOR INDEFERIMENTO DE PLEITOS DE REVOGAÇÃO DA CUSTÓDIA ALEGAÇÕES DE FALTA DE MOTIVAÇÃO DO DECRETO PRISIONAL DIANTE DE CONDIÇÕES PESSOAIS FAVORÁVEIS, NÃO SE DEMONSTRANDO OS REQUISITOS DO ARTIGO 312 DO CPP E APONTANDO- SE A POSSIBILIDADE DE IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS ALÉM DE EXCESSO DE PRAZO. DECRETO PRISIONAL E SUCESSIVAS DENEGAÇÕES DE BENESSES QUE SE MOSTRAM MOTIVADOS, SATISFEITA A EXIGÊNCIA CONSTITUCIONAL (CF, ART. 93, IX) E VEDADO O EXAME DA MATÉRIA FÁTICA NESTA VIA. DESCABIMENTO DAIMPETRAÇÃO DECRETAÇÃO DE PRISÃO PREVENTIVA JUSTIFICADA, NO CASO, COMO MEIO DE INTERROMPER AS ATIVIDADES ILÍCITAS E CERCEAR A ATUAÇÃO DE GRUPO CRIMINOSO, COM VISTAS A PROTEGER A ORDEM PÚBLICA ESTELIONATOS AFETIVOS COMETIDOS MEDIANTE REDE SOCIAL E EXTORSÕES, DESTINANDO-SE OS VALORES OBTIDOS À LAVAGEM DE DINHEIRO COMPLEXIDADE DA ORGANIZAÇÃO CRIMINOSA EVIDENCIADA PELO NÚMERO DE INTEGRANTES E ESPECIALIZAÇÃO DE TAREFAS ALÉM DO SEU "MODUS OPERANDI", EVIDENCIADA A GRAVIDADE CONCRETA DOS FATOS ESTADO DE LIBERDADE DO PACIENTE QUE INDICARIA A POSSIBILIDADE DE NOVOS DELITOS, NEM SE MOSTRANDO EFICIENTE A SÓ IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS ANDAMENTO PROCESSUAL REGULAR DIANTE DAS PECULIARIDADES DO FEITO, DESCABIDO O EXERCÍCIO DE PREVISÃO DE APENAMENTO FUTURO CONSTRANGIMENTO ILEGAL INOCORRIDO ORDEM DENEGADA.
+Alega-se que o paciente está sendo processado por supostos crimes tipificados no art. 2º, §§ 3º e 4º, III, da Lei n. 12.850/2013; art. 171, § 4º, do Código Penal, por 12 vezes; art. 158, § 1º, do Código Penal, por 5 vezes; e art. 1º, §§ 1º, 2º e 4º, da Lei n. 9.613/1998, por várias vezes, em continuidade delitiva.
+Afirma-se que, ainda que se considere que o paciente tenha movimentado valor acima de 500 mil reais em suas contas bancárias, fato é que a sua suposta função na organização continua sendo a de correntista;desta forma, a sua liberdade, de forma alguma colocaria em risco a ordem pública, pois não teria condições de praticar os crimes sem a ajuda dos outros réus que estão presos. Salientando, ainda, que não há nos autos nenhuma prova de que o paciente efetivamente aplicou qualquer golpe ou teve contato com as vítimas, sendo certo que não será mais útil para a organização, já que todas as suas contas bancárias estão bloqueadas judicialmente (fls. 5/6).
+Requer-se a revogação da prisão cautelar imposta ao paciente.
+A liminar foi indeferida (fls. 399/405).
+Informações prestadas (fls. 417/432).
+Parecer do Ministério Público Federal (fl. 434).
+É o relatório.
+O writ perdeu o objeto.
+Conforme bem observado pelo Parquet federal, segundo as informações prestadas pela autoridade coatora, o Juízo de primeiro grau, no dia 27/8/2021 - após a impetração deste writ -, revogou a prisão preventiva do paciente, determinando a expedição de alvará de soltura (fl. 434).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS.ASSOCIAÇÃO CRIMINOSA, LAVAGEM DE CAPITAIS, EXTORSÃO E ESTELIONATO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REVOGAÇÃO DA PRISÃO EM PRIMEIRO GRAU. PERDA DE OBJETO.
+Writ prejudicado.
