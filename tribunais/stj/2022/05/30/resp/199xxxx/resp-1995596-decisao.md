@@ -1,0 +1,21 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS PÚBLICOS. ART. 118, § 2º, DA LEI 8.112/90. REGIME ESTATUTÁRIO. ART. 37, XVI, C, DA CF/88. PROFISSIONAL DE SAÚDE. COMPATIBILIDADE DE HORÁRIOS.IMPOSSIBILIDADE.INVERSÃO  DO  JULGADO.  INVIABILIDADE.  REEXAME  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de recurso especial interposto porVANDILEIDE MUNIZ DA SILVA, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+ADMINISTRATIVO. AÇÃO RESCISÓRIA. EMPREGADO PÚBLICO. PROFISSIONAL DA SAÚDE. ACUMULAÇÃO. CARGA HORÁRIA SUPERIOR A 60 HORAS SEMANAIS. EMPREGOS EM CIDADES DISTINTAS. PARECER GQ-145 DAAGU REVOGADO. LIMITAÇÃO DA CARGA HORÁRIA EM SUPOSTA AFRONTA AO NOVO PARECER DA AGU. VIOLAÇÃO A NORMA LEGAL. AUSÊNCIA. IMPROCEDÊNCIA DO PEDIDO(fl.473).
+2. Os embargos de declaração opostos foram rejeitados (fls. 501/503).
+3. Nas razões do seurecurso especial (fls. 518/539), a parte recorrentesustenta, além de divergência jurisprudencial, violação do art.118, § 2º,da Lei 8.112/1990.Alega: (a)possui o direito a acumular os vínculos empregatícios existentes com a Universidade de Pernambuco, com o cargo da EBSERH/PB - Hospital Universitário Lauro Wanderley, para o qual foi aprovada e convocada.
+4. Devidamente intimada (fl. 542), a parte recorridaapresentou as contrarrazões (fls. 543/570).O recurso especial foi admitido na origem(fl.573).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+8. Trata a questão posta na presente demanda acerca da possibilidade de cumulação de cargos na área de saúde, ainda que a carga horária cumprida pela parte autora ultrapasse o limite de 60 horas semanais fixado peloAcórdão TCU 2.133/2005 e pelo Parecer GQ 145/1998 da Advocacia-Geral da União.
+9. Nos termos da norma constitucional expressa e do art. 118 da Lei 8.112/1990, é vedada a acumulação remunerada de cargos públicos, ressalvados os casos previstos no art. 37, XVI,da Constituição Federal, dentre eles o de dois cargos ou empregos privativos de Profissionais de Saúde, desde que haja compatibilidade de horários e que os ganhos acumulados não excedam o teto remuneratório previsto no art. 37, XI, da Lei Maior.
+10. Assim, de acordo com os citados dispositivos, os requisitos exigidos para a cumulação de cargos na área de saúde são a compatibilidade de horários e a observância, em qualquer caso, do teto de vencimentos e subsídios previstos no inciso XI do art. 37 da CF.
+11. Porém, nos exatos termos do acórdão recorrido, o tribunal de origem assim se manifestou sobre o tema:
+Mesmo que se considere a revogação do Parecer GQ-145, a autora não tem direito subjetivo à pretendida acumulação, dado que não pode pretender impor à EBSERH que seu horário de trabalho no cargo seja compatível com a escala do outro cargo ocupado.
+Ademais, ainda que o fosse, a EBSERH não estaria impedida de, a qualquer momento, efetuar modificação nos horários.
+(..).
+Ademais, os hospitais de lotação sequer estão localizados na mesma cidade, fato que milita a favor da inexistência de comprovação da compatibilidade de horários, verificada no julgado rescindendo (fls. 473).
+12. O Tribunal de origem reconheceu que não existe comprovação da compatibilidade de horários,pois os hospitais sequer estão localizados na mesma cidade, o que torna inviável a acumulação dos cargos. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não navaloração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+13. Ante ao exposto, não conheço do recurso especial
+14. Publique-se. Intimações necessárias.
