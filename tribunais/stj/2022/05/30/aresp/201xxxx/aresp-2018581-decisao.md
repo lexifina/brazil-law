@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de RIO PARANÁ COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO INTERNO. RECURSO DE APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE CONHECEU E DEU PARCIAL PROVIMENTO AO RECURSO PARA INVERTER O ÔNUS DA SUCUMBÊNCIA.
+RECURSO DE AGRAVO INTERNO DO RECORRENTE. PRESCRIÇÃO INTERCORRENTE. RECURSO CONTRÁRIO AO ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA EM JULGAMENTO DE INCIDÊNCIA DE ASSUNÇÃO DE COMPETÊNCIA.
+RAZÕES RECURSAIS INAPTAS A DEMONSTRAR A NECESSIDADE DE ANÁLISE DO RECURSO PELO ÓRGÃO COLEGIADO. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A DECISÃO AGRAVADA ESTARIA INCORRETA OU QUE O INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA SERIA INAPLICÁVEL AO CASO DOS AUTOS. PRETENSÃO DE REDISCUTIR OS FUNDAMENTOS ENFRENTADOS NO PRONUNCIAMENTO MONOCRÁTICO.
+AGRAVO INTERNO CONHECIDO E NÃO PROVIDO." (e-STJ fl. 495)
+Embargos de declaração rejeitados (e-STJ fl. 516/519)
+Nas razões do recurso especial, o agravante alega ofensa aos artigos 14 e 1.056 do CPC e, por via de consequência, dos arts. 267, III, §1º e 791, III, do CPC/73, sustentando que: 1) não se pode aplicar de forma retroativa novos julgados a situações passadas, em detrimento da segurança jurídica e boa-fé objetiva; 2) não houve intimação pessoal para dar prosseguimento ao feito, nos termos do que exigia o CPC/73, sendo impossível, portanto, o reconhecimento da prescrição, considerando que o processo estava suspenso por ausência de bens penhoráveis.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quanto à alegação de que seria necessária a aplicação dos arts. 14 e 1.056, a Corte de origem consignou:
+"Além disso, a decisão monocrática esclareceu os motivos pelos quais não seria aplicável o artigo 1.056 do CPC, veja-se: "a prescrição restou consumada em outubro de 2015. O CPC/15 entrou em vigor em 18/03/2016, quando a prescrição já estava consumada, não incidindo a regra do artigo 1.056 do diploma processual, nos termos do que restou decidido no julgamento do Incidente de Assunção de Competência nº 1.604.412/SC" (e-STJ fl. 497) (grifei)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÃO DE ERROR IN JUDICANDO E ERROR IN PROCEDENDO. AFASTADAS. NULIDADES DO ART. 1022 DO CPC/2015.INEXISTÊNCIA. MERO DESCONTENTAMENTO DA PARTE. REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são via adstrita à complementação e aperfeiçoamento do julgado, não se destinando a rediscussão de questões enfrentadas e decididas.
+2. No caso concreto, diversamente do sustentado, não se alterou o acórdão acerca do termo inicial do prazo prescricional, limitando-se o acórdão embargado a reconhecer a existência de nulidade insuperável em razão da inobservância pelas instâncias ordinárias do imprescindível contraditório.
+3. O termo inicial do prazo prescricional, previsto no art. 1.056 do CPC/2015, tem por finalidade concretizar a irretroatividade da norma processual e sua aplicação imediata aos processos pendentes. Desse modo, extrair-lhe interpretação que viabilize a reabertura de prazo prescricional consumido na vigência do revogado CPC/1973 contraria sua ratio essendi, além de atentar contra a segurança jurídica e o direito adquirido.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1422606/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/10/2018, DJe 10/10/2018) (grifei)
+Além disso, quanto à alegação de que não houve intimação pessoal para dar prosseguimento ao feito, nos termos do que exigia o CPC/73, o Tribunal de origem expressamente consignou o seguinte:
+"Por fim, como constou na decisão monocrática, o contraditório foi observado, tendo a parte agravante sido intimada para se manifestar, veja-se: "O juízo oportunizou o contraditório, determinando a manifestação do apelante sobre a prescrição intercorrente (mov. 42) e, após manifestação (mov. 45.1), sobreveio a sentença de extinção"" (e-STJ, fls.498)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. NULIDADE NÃO CONFIGURADA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. Em observância ao disposto no art. 278 do Código de Processo Civil, cabe à parte alegar nulidade na primeira oportunidade em que couber falar nos autos, sob pena de preclusão.
+3. No caso, o Tribunal de origem concluiu que não ficou configurada a alegada nulidade do feito, sob o argumento de falta de oportunidade de oferecimento de contestação, porque constou expressamente no mandado de intimação que o prazo para contestar começaria a fluir da data da audiência conciliatória, mesmo na hipótese de não comparecimento da parte. Ademais, a ré foi devidamente citada e constituiu procuradora nos autos, que foi intimada de todas as decisões proferidas no processo. A modificação de tal entendimento demandaria o revolvimento do suporte fático-probatório dos autos, o que é vedado no recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1747835/RS, de minha Relatoria, QUARTA TURMA, julgado em 20/09/2021, DJe 15/10/2021) (grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor atualizado do débito.
+Publique-se.
