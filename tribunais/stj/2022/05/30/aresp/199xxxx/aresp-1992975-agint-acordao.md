@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto porJORGE ROBERTO TAKEUTIcontra decisão que conheceudo agravo para não conhecer dorecurso especial.
+Ação:de reintegração de posse ajuizada por ADRIANA EUNICE BATISTA DOS SANTOS em face do agravante.
+Sentença:julgou procedente a demanda para determinar a reintegração de posse da agravada no imóvel descrito na inicial, devendo o agravante recuar o muro para dentro de seu próprio terreno
+Acórdão:negou provimento à apelação do agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE.  REQUISITOS DO ART. 561 DO CPC. POSSE ANTERIOR DEMONSTRADA. NULIDADE DA SENTENÇA. INOCORRÊNCIA. VALIDADE DA CITAÇÃO POR EDITAL. INEXISTÊNCIA DE NULIDADE POR AUSÊNCIA DE AUTOCOMPOSIÇÃO. APELO IMPROVIDO. 1. Não há que se falar em nulidade da sentença por suposta ausência de fundamentação, visto que o Juízo a quo corretamente ponderou todas as circunstâncias narradas neste autos. 2. Exauridas as tentativas de localizar a parte, a citação por edital está devidamente lastreada no disposto no art. 256, II e §20, do CPC, motivo pelo qual não há que se falar em nulidade do ato citatório efetuado e consequente reabertura do prazo para contestação. 3. Não obstante os ditames do Código de Processo Civil sejam voltados à ideia de cooperação entre as partes, ressalta-se que o Recorrente, em nenhuma de suas manifestações, realiza proposta de acordo ou muito menos apresenta indícios nesse sentido, não podendo, portanto, arguir suposto vício para qual concorreu e, com isso, locupletar-se da própria torpeza. 4. Considerando as circunstâncias narradas pela Recorrida, pessoa idosa, no sentido de que almejou procurar o Apelante por diversas oportunidades para se insurgir contra o esbulho praticado, não prospera a . alegação do Recorrente no sentido de que a parte nunca deteve a posse da área. 5. Entende-se demonstrada a posse anterior da Apelada, estando preenchidos os pressupostos do art. 561 do CPC para a proteção possessória vindicada. 6. Inobstante permitida sua alegação em sede de Contestação pela Súmula nº. 237 do Supremo Tribunal Federal, não se vislumbra a presença dos requisitos para o deferimento da usucapião especial "urbana requerida pelo Apelante, prevista no art. 1.240 do CPC, na medida em que a parte não se utiliza do bem para sua moradia ou de sua família, consoante exige o supracitado dispositivo. 7. Insubsistente a pretensão do Apelante em conversão da obrigação em perdas e danos, visto que este não demonstra que o valor da construção (muro) é superior ao da área invadida, -" sendo insuficiente a utilização do valor da causa indicado pela Apelada como parâmetro para esta finalidade. 8. Apelo conhecido e improvido. 9. Unanimidade.
+Embargos de declaração:opostos pelo agravante, foram rejeitados.
+Recurso Especial:alega violação dos arts. 464 e 479 CPC e 1258 do CC. Sustenta que não houve a comprovação da posse e da turbação ou esbulho. Aduz que sendo a área objeto de litígio inferior à vigésima parte do imóvel supostamente invadido, e tendo o agravante agido de boa-fé, deveria ter sido oportunizada a indenização por perdas e danos.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial em virtude da incidência das Súmulas 283/STF e 7/STJ.
+Agravo interno: o agravante alega que ambos os óbices aplicados não se aplicam no caso em espécie. Sustenta que o cabimento da conversão da condenação em perdas e danos foi devidamente levantado, o que afastaria a incidência da Súmula 283/STF. Aduz que a pretensão recursal não demanda o reexame de provas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE.ELEMENTOS DA PROTEÇÃO POSSESSÓRIA. CARACTERIZAÇÃO. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.PERDAS E DANOS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1.O reexame de fatos e provas em recurso especial é inadmissível.
+2.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, no tocante à matéria da forma da apreciação das provas produzidas a fim de comprovar a posse e a turbação ou esbulho, e os requisitos para a proteção possessória, tem-se que a Corte de origem decidiu a partir do exame das circunstâncias fático-probatórias dos autos, de modo que sua revisão fica inviabilizada ante a incidência do óbice da Súmula 7/STJ.
+De outro lado, no que se refere à pretensão da conversão da obrigação em perdas e danos, o acórdão recorrido sintetizou seu não cabimento, nos termos do art. 1258 do CC, por não ter sido demonstrado que o valor do muro construído fora de seu terreno é superior ao da área invadida.
+Este fundamento não foi impugnado nas razões do recurso especial, que, quanto ao tema, se limitou a alegar a possibilidade de conversão em perdas e danos, em se tratando a área invadida inferior à sua vigésima parte.
+Assim, deve ser mantida a incidência do óbice da Súmula 283/STF.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
