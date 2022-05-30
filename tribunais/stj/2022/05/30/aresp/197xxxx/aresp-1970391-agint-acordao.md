@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto VISION MED ASSISTENCIA MEDICA LTDA,contra decisão que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: revisional de contrato de plano de saúde movida por ANNA DE SOUZA VINHAS, em fase de cumprimento de sentença, contra a agravante, na qual pleiteia a exclusão do valor a título de reajuste por faixa etária.
+Decisão interlocutória: rejeitou a exceção de pré-executividade.
+Acórdão: negou provimento ao agravo de instrumento da agravante, nos termos da ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO PROVISÓRIA DE TÍTULO JUDICIAL. OBRIGAÇÃO DE FAZER E APLICAÇÃO DA MULTA POR DESCUMPRIMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO QUE REJEITOU O INCIDENTE PROCESSUAL. DECISUM QUE SE MANTÉM. 1. Execução provisória. Obrigação de fazer consubstanciada na revisão das mensalidades do plano de saúde. Exclusão do valor a título de reajuste por faixa etária e pagamento de multa por descumprimento da obrigação de fazer. 2. Objeção de não executividade. Pretensão da Empresa operadora do plano de saúde de afastar a execução provisória em seu desfavor. 3. Tese defensiva de contrato de plano de saúde transferido à UNIMED à época do descumprimento da obrigação. 4. A questão acerca da execução provisória contra a UNIMED - Rio encontra-se superada, não podendo ser objeto de discussão. 4. Julgamento monocrático em sede de agravo de instrumento interposto nos autos da execução provisória decidindo no sentido de não ser possível autorizar a execução provisória em nome da UNIMED-Rio. 5. Trânsito em julgado do decisum. Impossibilidade de rediscutir matéria em sede impugnação ao cumprimento de sentença. Preclusão. 6. Recurso a que se nega provimento.(e-STJ fl. 38)
+Recurso especial: alega violação dos arts. 109, 494 e 505 do CPC/15. Alega que as matérias deduzidas na exceção de pré-executividade são de ordem pública, e por isso cognoscíveis de ofício. Alega primeiramente que o pedido formulado é impossível de ser cumprido. Aduz que a impossibilidade é consubstanciada na proibição pela Administração Pública de a agravante operar qualquer plano de saúde individual. Assevera que a própria parte autora declara nos autos que a obrigação está sendo cumprida. Aduz que nos autos consta declaração da alienação da carteira. Sustenta que a decisão que julgou o agravo de instrumento modificou a sentença, pois determinou o cumprimento do julgado em 10 dias, em detrimento da sentença que condicionou o cumprimento ao trânsito em julgado. Assevera ainda o enriquecimento sem causa da parta agravada. Pede a inclusão da Unimed Rio na ação, visto que esta foi a adquirente dos planos de saúde. Por derradeiro, alega que sobreveio modificação no estado de fato de contrato, devendo a sentença ser revista.
+Decisão Monocrática: conheceu do agravo para não conhecer do recurso especial interposto pela agravante, com fundamento no art. 932, III, do CPC/15 (e-STJ fls. 224/227).
+Agravo interno: alega, que "eventual responsabilidade da recorrente, somente pode se dar com relação ao período anterior à cessão da carteira de planos de saúde individual, ou seja, até o dia 30/09/2013, não podendo ser imputado o descumprimento da obrigação a esta recorrente." (e-STJ fl. 233)
+Assevera ainda que "Percebe-se também que não foi e não será necessário reexaminaras provas que integram a lide. Trata-se apenas de estabelecer a melhor aplicação do direito. Com efeito, o substrato fático encontra-se incontroverso". (e-STJ fl. 235)
+Sustenta ainda que a questão alegada foi prequestionada pelo Tribunal de origem, não havendo necessidade de oposição de embargos declaratórios.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. Açãorevisional de contrato de plano de saúde.
+2. É inepta a petição de agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pela parte agravante, com fundamento no art. 932, III e IV, "a", do CPC/15, em razão da incidência de; (i) Súmula 284/STF (ausência de indicação dos dispositivos violados); (ii) Súmula 282/STF; (iii) Súmula 7/STJ.
+Todavia, nas razões do agravo interno, a parte agravante limitou-se a alegar genericamente a ausência de incidência das referidas súmulas de inadmissibilidade, sem impugnar, de forma consistente, os fundamentos invocados pela decisão agravada para a admissibilidade do recurso especial que interpusera.
+Imperioso frisar que o afastamento dos óbices deve ocorrer com a devida explicação por parte da parte recorrente do porquê de sua não aplicação de maneira concreta na hipótese em análise.
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo interno, tendo em vista a ausência de impugnação específica e consistente de todos os fundamentos contidos na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
