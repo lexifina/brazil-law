@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/05/2022 a 30/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 381-384, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 280 do STF.
+A agravante sustenta, em suma (fl. 397, e-STJ):
+Preliminarmente, no que diz respeito à limitação global, a Resolução SEFA nº 652/2017, que serve como baliza para estipular o montante máximo estipulado para utilização4 de créditos do SISCREDI desde 2017, determina que o limite para utilização não poderá superar R$ 196.609.920,00 (cento e noventa e seis milhões, seiscentos e nove mil e novecentos e vinte reais).
+Entretanto, é inconstitucional a limitação imposta em desobediência à Constituição Federal e à Lei Kandir, bem como diante da inobservância do princípio primal das relações tributárias, qual seja, o princípio da não cumulatividade.
+Ocorre que o Estado do Paraná aponta um limite máximo para utilização de créditos de ICMS a serem compensados através de créditos do SISCRED em observância ao disposto na Resolução SEFA nº 652 /2017, determinando para tanto, um limite de ICMS que não poderá ser superior a R$ 196.609.920,00 (cento e noventa e seis milhões, seiscentos e nove mil e novecentos e vinte reais) 8 .
+No entanto, a limitação é ilegal por ausência de previsão legislativa em leis que paranaenses e federais que poderiam lhes servir de suporte.
+Nesse sentido, é inviável qualquer limitação ao direito do contribuinte à transferência dos créditos fiscais acumulados sem que conste da lei federal.
+Eis que, em que pese a liberdade de legislar dos Estados, ela não pode superar a lei maior que traz as diretrizes para o tema.
+Em detalhes, apontou a Agravante no Recurso Especial a necessidade de prescindir de uma fixação de limitação global e anual ao contrário da determinação proveniente da legislação paranaense consubstanciada na Resolução SEFA nº.
+652/2017 que indeferira o pedido de creditamento de créditos acumulados do SISCRED.
+(..)
+Há, portanto, uma evidente inadequação da legislação estadual ante a legítima possibilidade de a Empresa contribuinte usufruir do benefício da compensação tributária no que diz respeito aos créditos acumulados do SISCREDI.
+Atentemo-nos, ao cerne da questão para o qual não pode a lei complementar limitar o direito à compensação de creditamento do ICMS, a despeito de haver previsão constitucional estabelecendo o princípio da não cumulatividade.
+Aduzida ainda em sede de Recurso Especial a ilegalidade da Resolução SEFA nº 652/2017, a qual compõe o substrato para a limitação global, visto que não há embasamento para a sua instituição sequer na Lei Complementar que compõe o substrato do ICMS (Lei Complementar nº 87/1996) e sequer na Lei Orgânica do ICMS no Paraná Lei nº 11.580/1996.
+Da maneira geral, houve a afronta a uma sequência de dispositivos que foram entendidos por violados quando da interposição do Recurso Especial:
+artigos 5º, LXIX, 150, I e III, "b" e "c" e 155, §2º, XII da CR/88, artigos 23, 25, 41 e 45 da Lei Orgânica do ICMS/PR nº 11.580/1996, artigo 25, 1º, II, da Lei Complementar nº 87/1996 - Lei Kandir e art. 79 do CTN.
+O Recurso Especial deu uma atenção especial à violação direta ao artigo 25, §1º, II 13 da Lei Kandir, posto que inexiste neste regramento qualquer limitação anual para a utilização de créditos de ICMS acumulados.
+No mais, a título de esclarecimento e curiosidade, o Portal de Perguntas Frequentes 14 da Secretaria de Fazenda do Estado do Paraná indica para quem são cabíveis as possíveis as transferências dos créditos do SISCRED.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. TRIBUTÁRIO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. ICMS. LIMITE GLOBAL ANUAL DE VALORES PASSÍVEIS DE APROVEITAMENTO NO SISTEMA DE CONTROLE DA TRANSFERÊNCIA E UTILIZAÇÃO DE CRÉDITOS ACUMULADOS (SISCRED). VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. ACÓRDÃO RECORRIDO QUE DECIDIU A CONTROVÉRSIA COM BASE EM LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. SÚMULA 280/STF.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Com relação à suposta contrariedade ao artigo 25, § 1.º, II da LC 87/96, verifica-se que o julgado recorrido analisou a questão com supedâneo em normas locais (no caso Lei Estadual 11.580/1996, a Resolução SEFA 652/2017, Decreto 2865/2015, Decreto 6080/2012), registre-se que a sua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário".
+5. A pretensão recursal de aplicação do artigo 25, § 1.º, II da LC 87/96, em detrimento da interpretação dada à legislação estadual pertinente, constitui conflito entre a lei local e a federal, questão que só pode ser solucionada pelo Supremo Tribunal Federal, pois trata-se, em última análise, de matéria constitucional relacionada ao pacto federativo.
+6. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 25 de abril de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, esbarra-se no óbice da Súmula 280 do STF.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Com relação à suposta contrariedade ao artigo 25, § 1.º, II da LC 87/96, verifica-se que o julgado recorrido analisou a questão com supedâneo em normas locais (no caso Lei Estadual n. 11.580/1996, a Resolução SEFA n. 652/2017, Decreto n. 2865/2015, Decreto 6080/2012), registre-se que a sua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. OFENSA AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO MANIFESTA. AUSÊNCIA. CONCLUSÃO LÓGICO-SISTEMÁTICA DO DECISUM. PRECEDENTES. INADEQUAÇÃO DA VIA ELEITA. LEI LOCAL. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+IV - O manejo do recurso especial reclama violação ao texto infraconstitucional federal, sendo defeso ao Superior Tribunal de Justiça reexaminar a aplicação de legislação local, a teor do verbete Sumular 280/STF.
+V- Agravo interno desprovido.
+(AgRg no Ag 715.367/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 21/02/2006, DJ 13/03/2006 p. 361).
+A pretensão recursal de aplicação do artigo 25, § 1.º, II da LC 87/96, em detrimento da interpretação dada à legislação estadual pertinente, constitui conflito entre a lei local e a federal, questão que só pode ser solucionada pelo Supremo Tribunal Federal, pois trata-se, em última análise, de matéria constitucional relacionada ao pacto federativo.
+Nesse sentido:
+"TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. INEXISTÊNCIA DE BITRIBUTAÇÃO. ACÓRDÃO RECORRIDO QUE DECIDIU A CONTROVÉRSIA COM BASE EM LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. SÚMULA 280/STF. 1. O Tribunal de origem, no enfrentamento da matéria, concluiu que não houve bitributação, porquanto o Decreto Estadual 13.188/2007 "não prevê cobrança antecipada de tributo; pelo contrário, extrai-se da sua redação que tão somente determina o momento do encerramento do diferimento do ICMS" (fl. 612, e-STJ). 2. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exige a análise de dispositivos de legislação local, qual seja, do Decreto Estadual 13.188/2007, pretensão insuscetível de ser apreciada em Recurso Especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário"). 3. Consigne-se, ademais, que, consoante a jurisprudência do STJ, "conflito entre lei local e federal só pode ser resolvido pelo Supremo Tribunal Federal, pois trata, em última análise, de matéria constitucional relacionada ao pacto federativo. Emenda Constitucional 45/2004 (art. 102, III, "d", da CF)" (AgRg no REsp 1.415.073/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13.11.2015). 4. Recurso Especial não conhecido." (REsp 1772327/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/12/2018, DJe 17/12/2018)
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1472530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/10/2014, DJe 31/10/2014).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
