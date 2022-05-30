@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com fulcro no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por FRANCISCO FURTADO DE VASCONCELOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verifica-se que a parte recorrente foi intimada do acórdão recorrido em 09/02/2022, sendo o recurso em mandado de segurança interposto somente em 07/03/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei n. 8.038/90 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. (AgInt no AREsp 1.740.116/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2020.)
+A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o dia de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Ressalte-se que a apresentação de calendário judicial do Tribunal de origem não supre a necessidade de apresentação de documento idôneo para fins de comprovação da tempestividade do recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO QUANTO AO CUMPRIMENTO DO PRAZO RECURSAL POR DOCUMENTO IDÔNEO. ÔNUS DO AGRAVANTE. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Para efeito de aferição da tempestividade recursal, a jurisprudência deste Tribunal Superior tem entendido que a comprovação da tempestividade do recurso deve ser realizada por meio de documentação idônea (cópia da lei, ato normativo ou certidão oficial do órgão de origem), não sendo suficiente a juntada de notícia ou calendário extraídos do sítio eletrônico do Tribunal ou a mera alegação de suspensão de prazo nas razões do recurso (EDcl no AgInt nos EDcl no AREsp n. 1.661.491/SP, Ministro Manoel Erhardt (Desembargador convocado do TRF/5), Primeira Turma, DJe 16/2/2022).
+2. Agravo regimental improvido.
+(AgRg no AREsp 2027488/SP, Min. Relator SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2022, DJe 09/05/2022)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
