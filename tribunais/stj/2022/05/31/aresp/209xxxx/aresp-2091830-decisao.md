@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 387/389).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 284):
+EMENTA:AGRAVO INTERNO  PRELIMINAR  PRECLUSÃO TEMPORAL  QUESTÃO NÃO SUSCITADA ANTERIORMENTE  MATÉRIA NÃO ABORDADA NA DECISÃO RECORRIDA  AGRAVO DE INSTRUMENTO  PEÇAS OBRIGATÓRIAS E ESSENCIAIS  AUSÊNCIA  INSTRUÇÃO DEFICIENTE  SEGUIMENTO NEGADO  RECURSO NÃO PROVIDO. - Não podem as partes introduzir no Agravo Interno questões não discutidas antes da decisão atacada e que nela não foram abordadas, se a lei impõe o dever de impugnação especifica. -No ato de interposição do agravo de instrumento é dever do recorrente instrui-lo com as peças obrigatórias e essenciais para a sua formação, nos termos do art. 1.017, Ido CPC. - A aplicação da multa prevista no art. 1.021, §4º, do CPC, não é automática, já que não se trata de mera decorrência lógica do não provimento do agravo interno em votação unânime. - Preliminar de preclusão temporal rejeitada. - Decisão mantida. - Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 302/308),fundamentadono art. 105, III, "a", da CF, a parte alegou violação do art. 1.017, I, do CPC/2015, porque (e-STJ fl. 306):
+ .. nos documentos juntados de n.º 1 a 7 temos suprido todo o rol taxativo, com exceção da "contestação" que NÃO EXISTE nos autos em tela.
+ .. NÃO HOUVE POR PARTE DO AQUI RECORRENTE A JUNTADA DE CONTESTAÇÃO NAQUELES AUTOS.
+Sobre o apontamento de que o Recorrente "deixou de juntar cópia (..)dos Embargos à Arrematação, bem como da petição de fls. 488/503-TJ, e das peças processuais entre as fls. 511v/532-TJ, ainda que intimado a fazê-lo", vale ressaltar que tais peças não interferem na análise do pleito. Os Embargos de Arrematação tratam de matéria diversa ao que se busca em Agravo de Instrumento.
+No agravo (e-STJ fls. 392/398), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 403/407 (e-STJ).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 289/295):
+A propósito, transcrevo o que constou do referido decisum (documento nº 27 - sequencial 004), porquanto elucidativa da vexa ta quaestio, evitando-se repetição desnecessária:  ..
+O agravante deixou de juntar cópia da petição inicial, da contestação, da decisão com batida, dos Embargos à Arrematação, bem como da petição de fls. 488/503-TJ, e das peças processuais entre as fls. 511v/532-TJ, ainda que intimado a fazê-lo.
+E, como se sabe, a ausência das peças obrigatórias previstas no art. 1.017, I, do C P C , leva á inadmissibilidade do agravo de instrumento, logo, não sendo possível a apreciação do presente recurso.
+ .. Conforme já explanado na decisão combatida, o Agravo de Instrumento (sequencial 004) interposto pelo ora agravante não foi conhecido e teve o seguimento negado, em virtude da ausência de peças obrigatórias e essenciais, pressuposto inerente à sua admissibilidade (art. 1.017, 1, do CPC).
+Ressalta-se, porém , que, atenta ao que dispõe o art. 1.017,§3º, do C P C , foi oportuniza da ao agravante complementar a instrução do Agravo de Instrumento (sequencia 1004  documento nº 8), procedendo à juntada das respectivas peças faltantes e essenciais à com preensão da controvérsia trazida à baila, conforme determina o art. 932, parágrafo único, do aludido Codex.
+Todavia, o agravante deixou de colacionar ao sequencial 004 todas as peças pendentes, bem como aquelas essenciais para a análise daquele recurso, conforme confessa à ordem nº 1. Ou seja, ele não cuidou de sanar o vicio no prazo por mim concedido.
+Modificar o entendimento do acórdão impugnado quanto à ausência de provas obrigatórias e essenciais, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTENRO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO CONTRA DECISÃO PROFERIDA EM EXECUÇÃO PROVISÓRIA. INTIMAÇÃO PARA JUNTADA DE PETIÇÃO E CONTESTAÇÃO DO PROCESSO DE ORIGEM. INTERPRETAÇÃO DA DECISÃO DO JUÍZO DA EXECUÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. CONTROVÉRSIA CUJA SOLUÇÃO DEPENDE DO REEXAME FÁTICO-PROBATÓRIO E QUE DEVE SER JULGADA PELO TRIBUNAL DE JUSTIÇA COMPETENTE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015, quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. É da parte agravante o ônus de instruir, adequadamente, o agravo de instrumento, não competindo a este Tribunal Superior, na via do recurso especial, investigar a essencialidade da peça que deveria ser juntada ao agravo de instrumento, notadamente quando a lei a qualifica como obrigatória, a exemplo da petição inicial e da contestação. Precedentes.
+4. No caso dos autos, considerada a premissa de que a parte fora intimada para regularizar a instrução do agravo de instrumento, mas não o fez no prazo assinalado, não se pode concluir por eventual violação dos arts. 932 e 1.017 do CPC/2015, sem o reexame das petições, decisões e documentos constantes do processo, providência caracterizadora de reexame fático-probatório. Observância da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.986.552/MG,Relator MinistroBENEDITO GONÇALVES,PRIMEIRA TURMA, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. INTERESSE PÚBLICO PRIMÁRIO. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO. PEÇAS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ INEXISTÊNCIA DE TÍTULO EXECUTIVO HÁBIL ACERCA DO MONTANTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A jurisprudência desta Corte é no sentido de que a falta de uma das peças obrigatórias, no agravo de instrumento, impede o conhecimento do recurso, não se revelando cabida a conversão do julgamento em diligência para complementação do traslado ou juntada posterior. Cabe outrossim, ao Tribunal de origem a tarefa de verificar a essencialidade de cada documento, sendo inviável a reapreciação de tal matéria em sede de recurso especial, por demandar o revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7/STJ.
+V - O Tribunal de origem consignou não se verificar, nos autos, título executivo hábil a fundamentar a execução proposta pela Agravante, portanto, rever tal entendimento demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 1.740.946/RJ, Relatora MinistraREGINA HELENA COSTA,PRIMEIRA TURMA, DJe de 20/11/2019.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
