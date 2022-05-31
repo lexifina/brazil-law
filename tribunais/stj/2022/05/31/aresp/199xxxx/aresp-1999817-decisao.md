@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. (BANCO DO BRASIL) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PESQUISA NOS SISTEMAS INFORMATIZADOS. SISBAJUD. RENOVAÇÃO. RAZOABILIDADE E INDÍCIOS DE ALTERAÇÃO DO STATUS FINANCEIRO. NÃO DEMONSTRADOS. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+1. Autoriza-se a renovação das diligências nos sistemas informatizados do Poder Judiciário, como Sisbajud, InfoJud, RenaJud e eRIDIF, que constituem ferramentas acessórias de auxílio à parte para localização de bens e satisfação da dívida, se demonstrados indícios de alteração da situação financeira dos devedores ou se a medida foi realizada há tempo considerável.
+2. Não sendo demonstrados indícios da alteração da situação financeira do devedor ou ainda sem ter transcorrido prazo considerável desde a última pesquisa aos sistemas informatizados, incabível a reiteração da diligência.
+3. Recurso conhecido e não provido (e-STJ, fl. 289).
+Os embargos de declaração opostos por BANCO DO BRASIL foram rejeitados (e-STJ, fls. 318/323).
+Irresignado, BANCO DO BRASIL interpôs recurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 854 e 1.022, II, do NCPC, aosustentar (1) omissão do acórdão recorrido pois o Tribunal não se manifestou sobre o princípio da razoabilidade com vistas ao direito do credor de utilizar de todos os meios à sua disposição para satisfazer seu crédito, o que justifica a reiteração da consulta ao sistema de ativos financeiros, atual SISBAJUD após o transcurso de lapso temporal razoável, o qual atualmente quase ultrapassa 2 (dois) anos; e (2) o indeferimento do pedido de busca de bens via sistema SISBAJUD afronta diretamente o direito do Recorrente como credor de utilizar da penhora online como meio de tentar obter a satisfação do seu crédito.
+O recurso não foi admitido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (e-STJ, fls. 370/372).
+Nas razões do presente agravo, BANCO DO BRASILalegouque não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 393/395).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da violação do art. 1.022 do NCPC.
+Nas razões do recurso especial, BANCO DO BRASIL apontou omissão do acórdão pois o Tribunal não se manifestou sobre o princípio da razoabilidade com vistas ao direito do credor de utilizar de todos os meios à sua disposição para satisfazer seu crédito, o que justifica a reiteração da consulta ao sistema de ativos financeiros, atual SISBAJUD após o transcurso de lapso temporal razoável, o qual atualmente quase ultrapassa 2 (dois) anos.
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+(2) Da alegada violação do art. 854 do NCPC.
+Por sua vez, BANCO DO BRASIL sustentou queo indeferimento do pedido de busca de bens via sistema SISBAJUD afronta diretamente o direito do Recorrente como credor de utilizar da penhora online como meio de tentar obter a satisfação do seu crédito.
+O ora insurgente então interpôs agravo de Instrumento buscando a reforma da decisão para que fossem promovidas novas medidas necessárias para a satisfação do seu crédito e cumprimento do objeto da ação, porém, o TJDFT negou provimento ao recurso, aos seguintes fundamentos:
+Não vislumbro razões para modificar o entendimento anteriormente exarado, porquanto fundamentado na Jurisprudência deste Egrégio Tribunal de Justiça.
+Explico.
+Com efeito, ao tratar das provas e diligências relativas ao processo, o artigo 368 do Código de Processo Civil define que "as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz", no entanto, o parágrafo único do artigo 370 concede ao Magistrado a possibilidade de indeferir as diligências inúteis ou meramente protelatórias.
+Outrossim, não existe qualquer limite legal ao número de pesquisas realizadas nos sistemas informatizados.
+Nesse sentido, a Jurisprudência assentou-se pela possibilidade de reiteração da constrição on-line, desde que a medida seja pautada pelos Princípios da Proporcionalidade e da Razoabilidade, ou seja, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta.
+Esse, no entanto, não é o caso dos autos. Na presente demanda, a última consulta aos sistemas informatizados foi realizada em 10/10/2019, ou seja, há pouco mais de um ano, restando infrutífero o resultado, conforme os documentos acostados aos autos.
+Dessa forma, não entendo ser este prazo razoável para realização de nova diligência, não se mostrando razoável inferir que os resultados serão positivos.
+Importa notar ainda que o agravante não apresentou qualquer indício de alteração da situação financeira dos devedores.
+Embora todos os sujeitos processuais, inclusive o Magistrado, devam cooperar entre si na busca pela efetiva prestação jurisdicional, em atenção ao Princípio da Cooperação ou Colaboração, previsto no artigo 6º, do Código de Processo Civil, o deferimento de requerimentos reiterados e imotivados para que o Juiz realize a diligência prevista no artigo 854 do Código de Processo Civil, representaria a transferência do ônus de responsabilidade do exequente para o Poder Judiciário.
+Além disso, significaria a imposição de uma grande carga de atividades que demandam tempo e disponibilidade do Julgador, gerando, inclusive, risco de comprometimento da atividade fim do Órgão Judicante, qual seja, a prestação jurisdicional (Acórdão n.775877, 20130020277755AGI, Relator:
+ANGELO CANDUCCI PASSARELI, 5ª Turma Cível, Data de Julgamento: 02/04/2014, Publicado no DJE: 07/04/2014. Pág.: 580).
+Por fim, apesar de ter havido inovação no sistema SisbaJud, houve pesquisa recente ao sistema BacenJud e não foram apresentados quaisquer elementos aptos a demonstrar a probabilidade de êxito da diligência (e-STJ, fls. 291/292).
+Assim o fazendo, o acórdão recorrido encontra-se em conformidade com o entendimento firmando nesta Corte, no sentido de que é possível a reiteração do pedido da pesquisa via sistema BACENJUD, desde que observada a razoabilidade.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ELETRÔNICA. SISTEMA BACENJUD. PEDIDO DE REITERAÇÃO.POSSIBILIDADE, DESDE QUE OBSERVADO O PRINCÍPIO DA RAZOABILIDADE. AUSÊNCIA, NO CASO, DE MOTIVAÇÃO IDÔNEA DA EXEQUENTE. PROVIDÊNCIA INDEFERIDA A PARTIR DA ANÁLISE DE FATOS E PROVAS. SÚMULA 7 DO STJ.AGRAVO REGIMENTAL DA AUTARQUIA FEDERAL A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça já se manifestou acerca da possibilidade de reiteração do pedido de penhora eletrônica, via sistema Bacenjud, desde que observado o princípio da razoabilidade.
+2. Este Tribunal Superior já se manifestou no sentido de que a reiteração, ao juízo, das diligências relacionadas à localização de bens pelo sistema Bacen-Jud depende de motivação expressa da exequente, sob pena de onerar o juízo com providências que cabem ao autor da demanda (AgRg no REsp. 1.254.129/RJ, Rel. Min.
+BENEDITO GONÇALVES, DJe 9.2.2012).
+3. Verifica-se que o exequente não trouxe qualquer fato novo que justificasse o deferimento da constrição requerida. Ademais, a reversão da conclusão alcançada na instância ordinária não se revela possível em sede de Recurso Especial, dada a necessidade do revolvimento de fatos e provas, circunstância objetada pelo Enunciado 7 da Súmula de jurisprudência desta Corte.
+4. Agravo Regimental da Autarquia Federal a que se nega provimento.
+(AgRg no REsp 1.511.575/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, j. 19/2/2019, REPDJe 26/2/2019, DJe 25/2/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.MONITÓRIA. CUMPRIMENTO DE SENTENÇA. REITERADOS PEDIDOS DE DESARQUIVAMENTO. TENTATIVA DE PENHORA ON LINE. FALTA DE RAZOABILIDADE.
+1. De acordo com precedentes desta Corte, admite-se a reiteração do pedido de penhora on line, via sistema Bacenjud, desde que observado o princípio da razoabilidade, o que não ocorreu no caso.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 415.638/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 7/11/2013, DJe 14/11/2013)
+Incide sobre o tema o óbice da Súmula nº 568 do STJ.
+Ademais, para acolhimento do apelo nobre, a fim de modificar o fundamento de que não se verifica na espécie a razoabilidade da realização de novas diligências junto ao sistema INFOJUD, pois não foi demonstradaa modificação da situação econômica do executado, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que faz incidir na espécie, o óbice da Súmula nº 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA ON LINE.SISTEMA BACENJUD. PEDIDO DE REITERAÇÃO.POSSIBILIDADE, DESDE QUE OBSERVADO O PRINCÍPIO DA RAZOABILIDADE. AUSÊNCIA, NO CASO, DE MOTIVAÇÃO IDÔNEA DA EXEQUENTE. PROVIDÊNCIA INDEFERIDA.ALTERAÇÃO DO JULGADO QUE DEMANDA ANÁLISE DE FATOS E PROVAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1.  ..
+2. É entendimento das Turmas que compõe a Primeira Seção desta Corte Superior de que é cabível a renovação de pedido de penhora eletrônica desde que observado o princípio da razoabilidade e presentes indícios que apontem modificação da situação econômica da parte executada. Precedentes: AgInt no REsp. 1.479.999/PR, Rel.Min. GURGEL DE FARIA, DJe 28.6.2018; REsp. 1.653.002/MG, Rel.Min. HERMAN BENJAMIN, DJe 24.4.2017.
+3. No caso dos autos, o segundo pedido foi indeferido pelo Magistrado de piso, cuja decisão foi mantida pelo Tribunal Regional, mormente porquanto, da análise das circunstâncias fáticas da causa, constatou-se que não houve alteração da situação econômica do executado. Com efeito, verifica-se que a reversão da conclusão alcançada na instância ordinária não se revela possível em sede de Recurso Especial, dada a necessidade do revolvimento de fatos e provas, circunstância obstada pela Súmula 7/STJ. Precedentes: AgInt no REsp. 1.600.344/RS, Rel. Min. SÉRGIO KUKINA, DJe 19.10.2016; AgRg no REsp. 1.406.895/PE, Rel. Min. OG FERNANDES, DJe 18.12.2013.
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp 1024444/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 29/4/2019, DJe 10/5/2019)
+Nessas condições, CONHEÇO do agravo para CONHECER, EM PARTE, o recurso especial, NEGANDO-LHE PROVIMENTO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO VERIFICADA.REITERAÇÃO DO PEDIDO DE DILIGÊNCIA VIA INFOJUD. AUSÊNCIA DE DEMONSTRAÇÃO DA MODIFICAÇÃO DA SITUAÇÃO ECONÔMICA DA PARTE DEVEDORA. INDEFERIMENTO DO PEDIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
