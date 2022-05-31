@@ -1,0 +1,58 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTAS GRAVES E MÉDIAS. LAUDO DESFAVORÁVEL DO EXAME CRIMINOLÓGICO. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. A Corte de origem negou ao apenado a concessão à progressão de regime com base na indicação de argumento idôneo, qual seja, a ausência do requisito subjetivo, ante o cometimento de faltas graves e médias, durante o cumprimento de pena, bem como o laudo desfavorável do exame criminológico.
+2. Embora o paciente tenha cumprido o requisito temporal para progressão do regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, não se verificando, portanto, o alegado constrangimento ilegal. Precedentes.
+3. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426.201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, Dje 12/6/2018).
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por APARECIDO SANTOS DE SOUZA contra decisão de minha Relatoria, que não conheceu do habeas corpus (e-STJ, fls. 79-82).
+Nas razões recursais (e-STJ, fls. 84-107), a defesa alega, em suma, constrangimento ilegal decorrente do indeferimento do pedido de progressão ao regime semiaberto. Aduz que estão presentes os requisitos objetivo e subjetivo e que o paciente não comete uma falta grave desde 2009.
+Ressalta que o paciente se encontra preso há 25 anos e que a negativa de concessão do benefício faz a pena ter caráter perpétuo, o que é vedado pela Constituição da República.
+Afirma que o resultado do exame criminológico se demonstrou vago, não podendo ser interpretado como desfavorável à progressão de regime.
+Requer a concessão da ordem, para que o paciente seja colocado em regime prisional intermediário.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTAS GRAVES E MÉDIAS. LAUDO DESFAVORÁVEL DO EXAME CRIMINOLÓGICO. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. A Corte de origem negou ao apenado a concessão à progressão de regime com base na indicação de argumento idôneo, qual seja, a ausência do requisito subjetivo, ante o cometimento de faltas graves e médias, durante o cumprimento de pena, bem como o laudo desfavorável do exame criminológico.
+2. Embora o paciente tenha cumprido o requisito temporal para progressão do regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, não se verificando, portanto, o alegado constrangimento ilegal. Precedentes.
+3. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426.201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, Dje 12/6/2018).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece prosperar, devendo ser mantida a decisão ora agravada em seus exatos fundamentos.
+No caso dos autos, o Tribunal de origem confirmou a decisão de primeiro grau, que indeferiu a progressão do apenado ao regime semiaberto, às seguintes considerações:
+" ..
+E, no presente caso, verifica-se que o agravante desconta as penas de 36 anos, 10 meses e 15 dias de reclusão, pela prática de três crimes de homicídio qualificado, com término de cumprimento previsto para 18/06/2033. Consta, ainda, que, durante o desconto de suas penas, incidiu na prática de 1 falta disciplinar de natureza média e 3 de natureza grave, inclusive por ter feito funcionários reféns, com a utilização de réplica de arma de fogo, tendo, na oportunidade, empreendido fuga da unidade prisional (fls. 12/18). O MM. Juízo a quo, então, entendeu por bem indeferir o pedido relativo à sua progressão ao regime semiaberto, uma vez que o sentenciado não preenche o requisito subjetivo, pois, além de registrar a prática de crimes gravíssimos, cometidos com violência à pessoa, também apresenta exame criminológico a ele desfavorável. Nesse diapasão, há motivos suficientes para o indeferimento da benesse perseguida, tal como consignado pelo Magistrado singular, em decisão amplamente fundamentada. De mais a mais, importante sublinhar que o Magistrado não está vinculado a qualquer laudo; as ponderações dos exames realizados prestam-se, tão somente, a orientar o Juízo, diante de todos os demais elementos de convicção reunidos, podendo ele, pois, nos termos do que preceitua o art. 182, do CPP, no tocante ao resultado dos laudos produzidos, "aceitá-lo ou rejeitá-lo, no todo ou em parte.", sendo certo que pode o Magistrado utilizar-se dos diversos elementos constantes nos autos para formar sua opinião. Isto porque não se pode resumir a atividade jurisdicional como sendo de chancelaria, de modo a ser o Poder Judiciário mero órgão burocrático ratificador de documentos emitidos pela direção da unidade prisional ou mesmo pelos profissionais que elaboram o exame criminológico." (e-STJ, fls. 71-72 , grifou-se).
+Da leitura trecho acima transcrito, observa-se que o Tribunal de origem entendeu pelo indeferimento do benefício, com base na ausência do requisito subjetivo, consubstanciado no cometimento de faltas média e graves durante o cumprimento da pena, bem como laudo desfavorável do exame criminológico, demostrando, assim sua inaptidão ao convívio em sociedade.
+Não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, é cediço que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando, in casu, o alegado constrangimento ilegal.
+Ademais, o "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, DJe 12/6/2018).
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIA. VIA IMPRÓPRIA. AGRAVO NÃO PROVIDO.
+ ..
+2. A Corte de origem negou ao apenado a concessão aos benefícios com base na indicação de argumento idôneo, qual seja, a ausência do requisito subjetivo, ressaltando a necessidade de avaliação diante do cometimento de faltas graves durante o cumprimento de pena, incluindo o cometimento de novo delito durante gozo de benefício concedido.
+3. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, DJe 12/6/2018).
+4. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+5. Agravo regimental desprovido." (AgRg no HC 645.621/SP, deste Relator, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PROGRESSÃO AO REGIME ABERTO. INDEFERIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - A jurisprudência desta Corte Superior é uníssona no sentido de que o cometimento de faltas graves ou de novos crimes no curso da execução da reprimenda constitui fundamento idôneo para negar a progressão de regime, ante a ausência de preenchimento do requisito subjetivo.
+ ..
+VI - Desta forma, verifica-se que o v. acórdão combatido está em consonância com a jurisprudência desta Corte Superior de Justiça, não restando configurada a ilegalidade apontada.
+Agravo regimental desprovido." (AgRg no HC 608.909/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. AUSÊNCIA. FATOS NOVOS. HISTÓRICO PRISIONAL DESFAVORÁVEL. HABITUALIDADE DELITIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte considera que a existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo.
+2. Configura-se legítimo o indeferimento da progressão prisional, baseado em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico conturbado da agravante, que, beneficiada em execução penal anterior, cometeu nova prática delitiva, demonstrando, assim, a sua habitualidade em ilícitos penais.
+3. Agravo regimental improvido." (AgRg no HC 566.791/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020)
+Por fim, vale acrescentar que a realização do exame criminológico prévio à apreciação do pedido de progressão de regime é faculdade discricionária do julgador, cabendo-lhe a análise acerca da necessidade ou não de sua realização, em decisão motivada.
+Ilustrativamente:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME INDEFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITO SUBJETIVO AUSENTE. EXAME CRIMINOLÓGICO ANTERIOR DESFAVORÁVEL. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. Nos termos da Súmula 439/STJ, consolidou-se o entendimento que, para a análise do pedido de progressão de regime, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. Cumpre ao julgador verificar, em cada caso, acerca da necessidade, ou não, do exame criminológico, podendo dispensá-lo ou, ao contrário, determinar a sua realização, desde que mediante decisão concretamente fundamentada na conduta do apenado no decorrer da execução.
+3. In casu, as instâncias ordinárias concluíram pela necessidade de novo exame criminológico para análise da progressão de regime, tendo em vista que o anterior foi desfavorável a concessão benefício.
+4. Agravo regimental improvido." (AgRg no HC 389.404/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/10/2017, DJe 09/10/2017).
+Todavia, no caso dos autos, não se observa a existência de debate, nas instâncias originárias, sobre a questão, de modo que é inviável ao STJ a análise da questão, sob pena de supressão de instância e incursão no arcabouço fático-probatório, providência obstada na via eleita.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
