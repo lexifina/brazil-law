@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7/STJ e n. 283/STF(e-STJ fls. 321/326).
+O acórdão recorrido encontra-seassim ementado (e-STJ fls. 249/250):
+APELAÇÃO CÍVEL. GRATUIDADE JUDICIÁRIA. DIFÍCIL SITUAÇÃO ECONÔMICA. CARTÃO DE CRÉDITO CONSIGNADO. DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. RESERVA DE MARGEM CONSIGNÁVEL (RMC). NULIDADE CONTRATUAL INEXISTENTE. DANO MORAL NÃO CONFIGURADO. LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO DA VERDADE DOS FATOS. FALTA ÉTICA DO PATRONO DA PARTE AUTORA. MATÉRIA DE APRECIAÇÃO E DA ORDEM DOS ADVOGADOS DO BRASIL.
+GRATUIDADE JUDICIÁRIA. O BENEFÍCIO SERVE ÀQUELE QUE NECESSITA DO SERVIÇO DE JURISDIÇÃO E NÃO TEM CONDIÇÕES DE ARCAR COM DESPESAS PROCESSUAIS E HONORÁRIOS, SEM PRIVAÇÃO DO PRÓPRIO SUSTENTO OU DE SUA FAMÍLIA.
+EM CONSONÂNCIA COM O ENTENDIMENTO MAJORITÁRIO DESTA CÂMARA, DEVE SER MANTIDO O BENEFÍCIO DA GRATUIDADE JUDICIÁRIA, AINDA QUE A PARTE TENHA SIDO CONDENADA ÀS PENAS DE LITIGÂNCIA DE MÁ-FÉ.
+RESERVA DE MARGEM CONSIGNÁVEL. A CLÁUSULA QUE PREVÊ A RESERVA DE MARGEM CONSIGNÁVEL PARA OPERAÇÕES COM CARTÃO DE CRÉDITO ESTÁ PREVISTA NA RESOLUÇÃO Nº 1.305/2009DO CONSELHO NACIONAL DE PREVIDÊNCIA SOCIAL. CONTRATO ASSINADO PELA PARTE AUTORA, COM AUTORIZAÇÃO PARA DÉBITO DAS PARCELAS EM SEU BENEFÍCIO PREVIDENCIÁRIO. AUTORA UTILIZOU CARTÃO PARA DIVERSAS COMPRAS EMESTABELECIMENTOS COMERCIAIS. PROVA DOS AUTOS NÃO INDICA FALTA DE INFORMAÇÕES SUFICIENTES SOBRE A CONTRATAÇÃO DOS SERVIÇOS DE CARTÃO DE CRÉDITO, SEM BASE PARA A ANULAÇÃO DO CONTRATO. LITIGÂNCIA DE MÁ-FÉ. REPUTA-SE
+LITIGANTE DE MÁ-FÉ AQUELEAGE DE FORMA TEMERÁRIA E QUE TENTA ALTERAR A VERDADE DOS FATOS PARA OBTER ÊXITO EM EMPREITADA PROCESSUAL. CASO EM QUE A PARTE AUTORA AFIRMOU NÃO TER CONTRATADO CARTÃO DE CRÉDITO CONSIGNADO. TODAVIA, VEIO AOS AUTOSO CONTRATO ASSINADO, ASSIM COMO FATURAS DE DIVERSAS COMPRAS. AÇÃO FORA DOS LIMITES ESTABELECIDOS PELO ARTIGO 5º DO CÓDIGO DE PROCESSO CIVIL.
+EXPEDIÇÃO DE OFÍCIO À OAB. ALEGAÇÃO DE FALTA DE ÉTICA DOPATRONO DA PARTE AUTORA. MATÉRIA DE ATRIBUIÇÃO DA ORDEM DOS ADVOGADOS DO BRASIL. EXPEDIÇÃO DE OFÍCIO NÃO É PUNIÇÃO.
+APELAÇÃO NÃO PROVIDA.
+Os embargos de declaração foram acolhidos"para que conste do dispositivo e da ementa que foi dado parcial provimento à Apelação interposta"(e-STJ fls. 282/286).
+Nas razões do recurso especial (e-STJ fls. 293/308),fundamentado no art. 105, III, "a", da CF, a partealega violação dos arts. 80, I, II e VI, 926, do CPC/2015, 6º, III e V, do CDC.
+Requer o afastamento da multa por litigância de má-fé, pois (e-STJ fls. 300/301):
+(..) não há razão em negar provimento ao apelo e condenar a parte recorrente ao pagamento de multa por litigância de má-fé, pois não se encontram preenchidos nenhum dos requisitos do art. 80, I, II e VI do CPC que ensejariam a litigância de má-fé, já que a parte recorrente apenas se socorreu ao Judiciário pelo fato de estar sendo lesada ao ver descontados de seu benefício previdenciário valores referente a um empréstimo diverso do que fora de fato contratado e que, ainda por cima, não abatem a totalidade do valor da parcela, ou seja, restou devidamente comprovada a lesão aodireito da parte recorrente, não havendo possibilidade de estar litigando de má-fé.
+Afirma ainda que (e-STJ fl. 306):
+No que toca à expedição de ofício à OAB/RS determinada pelo Juízo a quo e mantida no v. acórdão ora recorrido, ressalta-se que o mero ajuizamento de diversas ações similares patrocinadas pelo mesmo advogado não enseja, por si só, em violação ao Código de Ética da OAB, a justificar a expedição de ofício à OAB, devendo ser acolhido o pedido do recorrente no ponto, para tornar sem efeito a determinação de expedição de ofício à OAB/RS - Subseção de Panambi.
+No agravo (e-STJ fls. 334/343), afirmaa presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 347/353(e-STJ).
+É o relatório.
+Decido.
+De início, verifica-se que o entendimento do Tribunal de origem quanto à necessidade de expedição de ofício à OAB/RS não pode ser desconstituído apenas com base na indigitada ofensa aosarts. 6º do CDC e 926 do CPC/2015, porque anorma em referência nada dispõe a respeito do assunto.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RECONHECIMENTO DE MATERNIDADE POST MORTEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS SUCESSORES DA AUTORA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+2. O Tribunal local concluiu que o único propósito da insurgente em se ver declarada mãe registral do de cujus é de cunho patrimonial.Alterar o entendimento do acórdão recorrido, neste ponto, demandaria o reexame do conjunto fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+3. A indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.467.671/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2022.)
+O Tribunal de origem, diante das peculiaridades da controvérsia, entendeu que(e-STJ fls. 247/248):
+Postula a parte Autora/Apelante pelo afastamento da condenação em litigância de má-fé.
+No entanto, é caso de manter a sentença também neste aspecto. A conduta processual perpetrada pelo Recorrente se multiplica no âmbito do Poder Judiciário, que envida custos e esforços para cumprir seu mister e atender o jurisdicionado na solução do seu conflito.
+Esse tipo de demanda que promove chicana e a indevida utilização da estrutura de Justiça. Cria obrigação de decisão por parte do Judiciário, à vista da indeclinabilidade da Jurisdição e, em via de consequência, faz postergar análises importantes relativamente a casos que demandam real atenção.
+No caso, houve claro arrepio aos ditames dos incisos I, II e VI do artigo 80 do Código de Processo Civil.
+A Apelante afirmou jamais ter contratado o cartão de crédito consignado objeto da presente lide, que originou os descontos em seu benefício previdenciário.
+Todavia, o Banco Apelado demonstrou que a Autora assinou o "Termo de Adesão ao Cartão de Crédito INSS" (Evento 10,CONTR2, dos autos originários), bem como realizou diversas compras com o cartão, ao longo de vários meses.
+Lançou, assim, mão do acesso à Jurisdição de forma temerária e divorciada do conteúdo ético, sabendo injusta sua intenção de demandar.
+Poder-se-ia atribuir a propositura da demanda à dificuldade de compreensão do panorama fático-jurídico por parte da Autora em relação ao contrato assinado. Entretanto, a manutenção do propósito ardiloso após o esclarecimento fático, especialmente por estar representada por Advogado, mostra utilização indevida dos serviços jurisdicionais.
+Ao assim agir, abusou do direito de acesso à Justiça. Ao manter-se firme no propósito injusto, produziu alegações que ofenderam o dever de agir de acordo com a boa-fé, conforme ditado no artigo 5º do Código de Processo Civil.
+Diante do contexto fático-processual, considerando os documentos carreados e o firme no propósito de alcançar o que não lhe cabe, litigou a parte Apelante imbuída de má-fé. A condenação nas penas de litigância de má-fé é a consequência natural.
+Modificar o entendimento do acórdão impugnado quanto à litigância de má-fé, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A insuficiência das razões recursais, dissociadas dos fundamentos da decisão recorrida, impõem o reconhecimento da incidência da Súmula 284 do STF, por analogia.
+3. Na hipótese, o Tribunal de origem decidiu pela aplicação da multa estabelecida no § 4º do art. 1.021 do CPC/2015 em razão de o agravo interno ser manifestamente inadmissível, entendimento que se amolda à jurisprudência desta Corte Superior. Incidência da Súmula 83/STJ.
+4. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.984.081/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 13/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO E LIBERAÇÃO DE VALORES EM FAVOR DA AGRAVANTE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que "(..) não se vislumbra a alegada falha na prestação do serviço, uma vez que o banco requerido demonstrou nos autos a contratação do empréstimo consignado no benefício previdenciário da autora (f. 96/99), assim como que o valor lhe foi disponibilizado, mediante transferência bancária para conta de sua titularidade". A pretensão de alterar tal entendimento demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+3. "Rever a conclusão adotada no v. Acórdão recorrido sobre a caracterização da litigância de má-fé do agravante demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório" (AgInt no AREsp 1.399.945/MS, Rel. Min. Raul Araújo, Quarta Turma, julgado em 21/03/2019, DJe de 02/04/2019).
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1669456/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
