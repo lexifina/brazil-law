@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO FEDERAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. APELAÇÃO. ADUANEIRO. IMPORTAÇÃO. DESEMBARAÇO ADUANEIRO. PARAMETRIZAÇÃO DA DI. CANAL VERMELHO. PROSSEGUIMENTO DO DESPACHO ADUANEIRO. EXCESSO DE PRAZO. RETENÇÃO DE MERCADORIAS. DESPESAS PORTUÁRIAS DE ARMAZENAGEM E DEMURRAGE. HONORÁRIOS.
+Opostos embargos de declaração, foram acolhidos para a alteração da base de cálculo dos honorários advocatícios.
+A parte recorrente alega violação dos arts. 44 a 54 do Decreto-Lei n. 37/1966 e dos arts 186, 187,188 e 927 do Código Civil, sustentando, em síntese (fls. 336/346):
+O acórdão regional violou frontalmente a legislação federal, como demonstrará a União. Não houve, no caso, ilegal retenção de mercadorias pela Fiscalização, não havendo se cogitar em ressarcimento de despesas por parte da União.
+ ..
+O despacho aduaneiro é um procedimento complexo que se inicia por meio da declaração apresentada pelo importador/exportador e se finaliza com o desembaraço aduaneiro. O entendimento de que deve ser concluído no exíguo prazo de 8(dias) não se afigura razoável, sobretudo quando o procedimento não depende apenas da Administração, mas também do importador/exportador, do permissionário do recinto alfandegado, dos órgãos intervenientes (ANVISA, MAPA, etc), e dos prestadores de serviço de perícias.
+Pelo exame dos autos é possível notar que a DI 16/1290238-5 foi desembaraçada conforme prevê a legislação, não podendo a União ser responsabilizada pelas despesas de armazenamento, até porque o atraso decorreu da demora da própria autora em apresentar a documentação necessária ao desembaraço aduaneiro.
+ ..
+Ao condenar a União a "indenizar" ao demandante as despesas de despesas portuárias com o prolongamento da armazenagem e demurrage (sobre estadia de containers) que sobrevieram em decorrência do procedimento de fiscalização aduaneira, o v. acórdão deixou ainda de considerar o disposto no artigo 927 c/c os artigos 186, 187 e 188, do Código Civil  .. a retenção da mercadoria importada no âmbito de conferência aduaneira não tem o condão de fazer presumir a existência de dano no sentido legal, porquanto o ato decorreu da própria legislação aplicável pertinente  ..  cabe pontuar que as taxas de armazenagem e demais encargos decorrentes da estadia do bem em recinto alfandegado devem ser entendidos como ônus do negócio jurídico, a ser suportado pelo importador, pois entendimento contrário implicaria em impedir, na prática, toda a fiscalização de mercadoria importada, pois se ao final a importação for tida como regular, a União teria de arcar com tais valores.
+Cumpre registrar que, após a interposição do recurso, a FN pede desistência parcial, quanto às pretensões relacionadas aos arts. 85 e 1.022 do CPC/2015 (fls. 413/418).
+Contrarrazões apresentadas pela parte recorrida, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 445/447).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 292/306):
+Trata-se de ação ordinária ajuizada por GALAXY PARTICIPACOES,IMPORTACAO E EXPORTACAO LTDA em face da UNIÃO - FAZENDA NACIONAL, objetivando o prosseguimento do despacho aduaneiro de importação e a liberação das mercadorias objeto da DI 16-1290238-5 e o ressarcimento das despesas portuárias suportadas em razão da retenção das mercadorias.
+ ..
+Tem o administrado direito de ver apreciado seu pleito em tempo razoável, sob pena de tê-lo inviabilizado. O administrado não pode estar sujeito a delongas imotivadas.
+Pois bem.
+Atualmente o despacho aduaneiro de importação encontra regulamentação na IN/SRF 680/2006, que não dispõe acerca de prazo específico para conclusão do procedimento.
+Para tanto, deve-se adotar o prazo geral previsto no art. 4º do Decreto n. 70.235/72 que prevê o prazo de 08 (oito) dias para o "servidor executar os atos processuais", salvo disposição em contrário.
+Embora se trate de um prazo impróprio, já que não prevê qualquer sanção pelo seu desatendimento, deve ser observado pela administração pública, como forma de dar segurança às atividades do contribuinte.
+ ..
+A DI 16/1290238-5 foi registrada em 19.08.2016 (evento1 - out5) e a mercadoria desembaraçada em 07.10.2016 (evento17 - inf2), ou seja após transcorridos 49 dias do registro.
+O dano material sofrido pela autora decorre da imotivada retenção das mercadorias objeto da importação entre a data limite para conclusão do despacho aduaneiro, no caso contados oito dias do registro da declaração de importação, e o efetivo desembaraço das mercadorias, sem qualquer motivo que justificasse o atraso;
+ ..
+No caso dos autos, a União não demonstrou a ocorrência de qualquer fato de natureza extraordinária que pudesse justificar o não cumprimento do prazo de oito dias para conclusão do desembaraço aduaneiro. Limitou-se a afirmar que o atraso decorreu da demora da própria autora apresentar a documentação necessária ao desembaraço.
+Caberia à União, no entanto, demonstrar quantos dos 49 dias que o processo de desembaraço aduaneiro tramitou, foram utilizados pelo importador para cumprimento das exigências.
+Mas isso não o fez.
+A autora, por seu turno, juntou aos autos cópia das telas do Siscomex referente a DI 16/1290238-5, apontando o tempo gasto com cada exigência fiscal, que ao final, somam 06 dias (evento34 - out2).
+O valor da indenização deve ser apurado na fase de liquidação de sentença, correspondendo às despesas de armazenagem e demurrage proporcionalmente ao número de dias de duração do procedimento de desembaraço que ultrapassaram os oito dias previstos para a conclusão do processo.
+ ..
+A alegação de que o atraso decorreu da demora da própria autora em apresentar a documentação necessária ao desembaraço aduaneiro não merece prosperar, na medida em que os documentos juntados pela empresa (cópia das telas do Siscomex referente a DI 16/1290238-5) demonstram detalhadamente que o tempo gasto com as exigências fiscais totaliza 06 (seis) dias (E.34, OUT2).
+Desse modo, caracterizado o excesso de prazo na conclusão do desembaraço aduaneiro, deve ser, nesse ponto, mantida a decisão ora revista.
+ ..
+Diante do excesso de prazo para a conclusão do despacho aduaneiro objeto da presente ação pela autoridade aduaneira, a parte autora teve que suportar despesas adicionais indevidas, para as quais não deu causa, logo, tais desembolsos são decorrência lógica da indevida retenção das mercadorias importadas, devendo, pois, haver a indenização pelo responsável.
+ ..
+A sentença condenou a União ao pagamento de honorários advocatícios arbitrados em R$5.000,00 (cinco mil reais), nos termos do artigo 85, § 8º, do Código de Processo Civil.
+A apelante alega, todavia, que a verba honorária deve ser fixada com base no proveito econômico obtido pela parte autora, que, no caso em apreço, corresponderia à soma do valor da causa com o montante relativo às despesas portuárias de armazenagem e demurrage suportadas.
+ ..
+A pretensão da autora nos presentes autos, além do ressarcimento das despesas incorridas com a armazenagem portuária, é de que seja declarada a ilegalidade do ato de retenção das mercadorias importadas.
+Sendo assim, o proveito econômico abrange o valor total das mercadorias importadas e não apenas as despesas decorrentes da retenção ilegal, razão pela qual é adequada a fixação de honorários advocatícios sobre o valor atribuído à causa.
+ ..
+Para a fixação dos honorários, entendo aplicável ao caso os percentuais mínimos das faixas de valores indicadas no artigo 85, §3º,do Código de Processo Civil, observando-se ainda os critérios dispostos nos §§2ºe 5º do aludido artigo.
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fls. 399/408):
+Considero que essas alegações estão refutadas pelo acórdão, porque já afastadas em primeiro grau pelo julgador monocrático, cujas razões foram transcritas e adotadas pelo voto condutor. Entretanto, à vista do decidido no REsp 1.893.716, esclareço que houve prática ilegal por parte da autoridade aduaneira e que dela resultaram despesas a serem ressarcidas à impetrante/apelada.
+Primeiro tenha-se presente que a irresignação ante o prazo de oito dias, que a embargante afirma não ser razoável para conclusão do desembaraço aduaneiro, diz diretamente com o mérito da lide, não configurando matéria omitida nem discussão admissível em embargos de declaração.
+Logo, o que cabe analisar é a afirmação de que não houve conduta ilícita na demora de 49 dias para finalização do desembaraço das mercadorias.
+É certo que o despacho aduaneiro "se inicia por meio da declaração apresentada pelo importador/exportador e se finaliza com o desembaraço aduaneiro", mas, tendo em vista que, no entender do julgado embargado, esse procedimento deve observar o prazo de oito dias, deveria haver justificativa documentada pela União para alegar que esse prazo foi desrespeitado por culpa do administrado/importador.
+ ..
+Ora, o despacho aduaneiro é um procedimento documentado, caso em que a União poderia apresentar com clareza os eventos ocorridos para demonstrar quais condutas da empresa importadora deram causa à demora.
+Não apenas não comprovou, senão que sequer descreveu quaisquer circunstâncias dessa natureza.
+Por isso, a extrapolação do prazo constitui conduta ilícita que lhe impõe dever de ressarcir os danos decorrentes.
+Quanto à verba honorária, com razão a embargante, pois o acórdão desviou-se do critério legal previsto no § 2º do art. 85 do CPC, segundo o qual os honorários serão fixados entre o mínimo de dez e o máximo de vinte porcento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa. Há valor de condenação na presente demanda.
+Não ignoro que o pedido formulado na lide foi mais abrangente, como destacou o julgador singular, mas não há sentido em considerar que o proveito econômico obtido com o provimento judicial que coíbe a extrapolação do prazo para conclusão do despacho aduaneiro possa ser equiparado ao valor das mercadorias importadas. Embora se tenha configurado retenção indevida, ilegal, tratou-se de situação temporária, decorrente de procedimento indevidamente elastecido, sem que a empresa importadora tenha sido nem mesmo ameaçada de privação das mercadorias.
+Não tendo estado em lide a propriedade sobre os bens importados, o montante relativo a seu valor não pode ser considerado proveito econômico da demanda.
+Acolho, portanto, os embargos de declaração quanto ao ponto, conferindo-lhes efeito infringente para que a verba honorária incida sobre o valor da condenação, mantida a observância das alíquotas mínimas das faixas previstas no § 3º do art. 85 do CPC. Para que não haja dúvidas, esclareço que isso em nada influi sobre os termos em que fixados os honorários recursais.
+Pois bem.
+Conforme estabelecido pelos arts. 186, 187 e 927 do Código Civil, aquele que, por ação ou omissão, cometer um ato ilícito ou, no exercício abusivo de um direito, causar dano a outro, fica obrigado a repará-lo. E, na linha de pacífico entendimento jurisprudencial do Supremo Tribunal Federal - STF, a responsabilidade civil das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviço público baseia-se no risco administrativo, sendo objetiva, e depende dos seguintes requisitos: ocorrência do dano; ação ou omissão administrativa; existência de nexo causal entre o dano e a ação ou omissão administrativa e ausência de causa excludente da responsabilidade estatal. A propósito, o STF tem decidido pela responsabilidade objetiva, mesmo nos casos de omissão do ente estatal, à luz do artigo 37, § 6º, da Constituição Federal, não se exigindo a demonstração de culpa ou dolo do agente púbico.
+Sobre o tema, mutatis mutandis, confiram-se: RE 109.615, Rel. Min. Celso De Mello, Primeira Turma, julgado em 28/05/1996, DJ 02-08-1996; ARE 847.116 AgR, Rel. Min. Luiz Fux, Primeira Turma, julgado em 24/02/2015, DJe047; RE 841526, Rel. Min. Luiz Fux, Tribunal Pleno, julgado em 30/03/2016, DJe-159; RE 591874, Rel. Ricardo Lewandowski, Tribunal Pleno, julgado em 26/08/2009, DJe-237.
+No caso dos autos, o acórdão recorrido está em conformidade com a pacífica orientação jurisprudencial e não revela, por isso, qualquer ilegalidade.
+Com efeito, a situação fática descrita pelo acórdão recorrido revela o fato de a parte autora ter suportado despesas, maiores do que aquelas que seriam devidas normalmente, em razão de o procedimento de desembaraço aduaneiro ter-se prolongado de forma imotivada, de tal sorte que estão presentes a conduta omissiva, o nexo e o dano.
+A propósito, destacam-se os registros fático-probatórios segundos os quais fora oportunizada à União a comprovação da adequação do tempo total do procedimento aduaneiro, de 49 dias; e que não foi demonstrada qualquer razão para a demora no procedimento, notadamente ao tempo em que a parte autora demonstrou ter cumprido as exigências necessárias, em 6 dias.
+Nesse cenário, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois eventual conclusão pela ausência de responsabilidade da União depende do exame de provas, providência inadequada no recurso especial.
+Com relação aos arts. 44 a 54 do Decreto-Lei n. 37/1966, nota-se não terem comando normativo apto a ensejar eventual alteração do acórdão recorrido. Observância da Súmula 284 do STF.
+Ante o exposto, não conheço do recurso especial; e majoro em 1% os honorários advocatícios de sucumbência,respeitados os limites e os critérios previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
