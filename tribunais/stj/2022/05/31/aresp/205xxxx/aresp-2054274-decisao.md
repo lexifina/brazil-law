@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por MARINA BARBOSA FORSANdesafiando acórdão proferido pelo Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 377):
+EMENTA: APELAÇÃO CÍVEL - PRELIMINAR DE NÃO CONHECIMENTO PARCIAL DO APELO, POR INOVAÇÃO RECURSAL_MATÉRIA ARGUÍDAANTERIORMENTE PELA RECORRENTE - REJEIÇÃO - EMBARGOS À EXECUÇÃO - NOTA PROMISSÓRIA - EMISSÃO EM BRANCO - PREENCHIMENTO POSTERIOR - POSSIBILIDADE - INTELIGÉNCIA DA SÚMULA Nº387, DO STF - EXCESSO DE EXECUÇÃO - INDICAÇÃO DO VALOR DEVIDO E APRESENTAÇÃO DE MEMÓRIA DE CÁLCULO - INOCORRÊNCIA - INEXISTÊNCIA DE PROVA DO PAGAMENTO DA DÍVIDA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+- Não há que se falar em inovação recursal se a Apelante argui questões que foram suscitadas e discutidas anteriormente no processo, a teor do que dispõe o art. 1.013, §11, do CPC!2015.
+- Nos termos da Súmula nº387, do Supremo Tribunal Federal, "a cambial emitida ou aceita com omissões, ou em branco, pode ser completada pelo credor de boa-fé antes da cobrança ou do protesto".
+- Conforme preconiza o art. 917, § 3º, do CPC, quando o excesso de execução for o fundamento dos Embargos do Devedor, deverá a parte Autoradeclarar, na Petição Inicial, o valor que entende devido, além de apresentar memória de cálculo.
+- Não tendo a Embargante indicado o importe que reputa ser excessivo, limitando-se a tecer considerações genéricas acerca de uma suposta abusividade, sem comprovar efetivamente o pagamento, ainda que parcial, do quantum exequendo, os Embargos devem ser rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 398-405), aagravantealegou, com fulcro naalíneaado permissivo constitucional,violação ao art. 940do CC/2002.
+Sustentou, em síntese, excesso de execução e vício do título de crédito, pois a nota promissória que ampara a execução teria sido assinada em branco e o preenchimento ocorrido posteriormente pela credora com lançamento de valores excessivos.
+Aduz que já realizou o pagamento da dívidae pugna pela devolução em dobro dos valores cobrados indevidamente.
+Contrarrazões apresentadas (e-STJ, fls. 415-420).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+O Tribunal local dirimiu a questão posta nos autos sob os seguintes fundamentos (e-STJ, fls. 383-391- sem destaqueno original):
+Conforme relatado, a Embargante sustenta que a referida Nota Promissória foi assinada em branco, tendo a Embargada; em momento posterior e em evidente abuso de confiança, inserido o importe de R$51.690,00 (cinquenta e um mil, seiscentos e noventa reais).
+De acordo com o art. 373, do Digesto Processual Civil, o ônus da prova compete à parte Requerente, ora Embargante, no que tange aos fatos constitutivos do seu direito, e à Postulada, Embargada, quanto aos fatos modificativos, extintivos ou impeditivos da pretensão inaugural.
+(..)
+Contudo, na espécie, além de a Recorrente não haver se desincumbido do ônus que lhe incumbia, de evidenciar o ulterior preenchimento do título pela Apelada, convém asseverar que tal conduta, por si só, não acarreta a invalidade da Nota Promissória.
+É que, conforme disposto na Súmula nº 387, do Col. Supremo Tribunal Federal, "a cambial emitida ou aceita com omissões, ou em branco, pode ser completada pelo credor de boa-fé antes da cobrança ou do protesto".
+(..)
+Ora, cabia à Embargante a demonstração de que a ulterior complementação dos elementos do título teria se dado de forma abusiva, a evidenciar a má-fé da Recorrida, ônus do qual a Apelante não se desincumbiu.
+É bem de se ver que, em sua Exordial (fls. 02110), MARINA BARBOSA FORSAN apenas informa que a Embargada "abusou da sua confiança" e inseriu um " valor absurdo" na Nota Promissória (fI. 04), sem, contudo, indicar qual seria o montante correto, se limitando a apenas tecer considerações genéricas acerca do alegado excesso de execução.
+(..)
+Nesse contexto, considerando que a Nota Promissória poderia haver sido preenchida pela Embargada até o momento da apresentação para pagamento, em virtude de Mandato tácito outorgado a ela pela Embargante, perdem relevâncias as alegações de que a inserção da quantia (R$51.690,00 - cinquenta e um mil, seiscentos e noventa reais) ocorreu ulteriormente à emissão do título, bem como que essa complementação estaria com maior nitidez e distinção de cor, em relação aos demais elementos existentes na cártula (fl. 237).
+Ora, tal fato apenas comprova que a Embargada preencheu algunscampos da Nota Promissória no ato da sua emissão, mas postergou a complementação da inserção dos demais dados para momento ulterior, o que, aliás, é plenamente possível e regular, notadamente quando não há evidências da existência de má-fé por parte da Recorrida, ao praticar tal conduta.
+Assim, deve ser reconhecida a higidez da Nota Promissória, que se encontra à fI. 09, dos autos em apenso.
+É que, pela simples leitura da cártula, percebe-se que a sua emissão se deu em 1310912013, com vencimento em 1311212013 (fI. 09, dos autos em apenso). Já as Notas Fiscais carreadas às fls. 1521184 se referem às compras realizadas entre 1610412010 e 0610312012, ou seja, emperíodo anterior à assinatura da Nota Promissória.
+Tal fato, aliás, foi reconhecido pela própria Embargante, que, instada a se manifestar sobre as Notas Fiscais juntadas pela Embargada, afirmou que as transações comerciais ocorreram antes da emissão do título executivo (fI. 190).
+Especificamente quanto ao alegado excesso de execução, não assiste razão à Recorrente, haja vista que, nos termos do art. 917, do CPC, quando tal matéria for o fundamento dos Embargos à Execução, na Petição Inicial, caberá à Embargante declarar o valor que reputa acertado, além de apresentar memória de cálculo:
+(..)
+Na espécie, não havendo a Embargante indicado o valor queentendia devido, por meio de memória de cálculo, apresentada juntamentecom a Inicial, deve ser mantida a rejeição do Incidente, haja vista que aNota Promissória colacionada à fI. 09, dos autos em apenso,consubstancia obrigação liquida, certa e exigível.
+Outrossim, não merece acolhimento a alegação de que o excesso de execução abrangeria a totalidade do débito (fI. 239), haja vista que, em tal contexto, caberia à Embargante trazer aos autos prova do pagamento realizado à Embargada, ônus do qual ela não se desincumbiu.
+Anoto que, nos termos dos arts. 319, 320, "caput", e 324, do Código Civil, a demonstração do adimplemento de determinada quantia, notadamente da cifra indicada em Nota Promissória, se faz mediante oresgate do títuloou, no caso de liquidação fracionada, por meio de anotação lançada na cártula ou por recibo à parte, em que a Credora concede a quitação da importância eventualmente amortizada.
+Do excerto acima transcrito, depreende-se que a Corte local afastou a alegação de nulidade da nota promissória, sob o entendimento de que o títulopode ser completadopelo credor de boa-fé antes da cobrança.
+Noutro ponto, ainda reconheceu o Tribunal estadual que, tendo a ora agravante alegadoexcesso de execução, por entender que a quantia pleiteada é superior à do título,deveria terdeclaradoo valor que entendia correto,apresentando demonstrativo discriminado e atualizado de seu cálculo, ou, em caso de quitação, a prova do pagamento,mas não o fez.
+Todavia, analisando os argumentos expostos nas razões do recurso especial, constata-se que arecorrente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, situação que impede o prosseguimento do recurso excepcional.
+Nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial, é "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários em favor do advogado da parte recorrida,nos termos do art. 85, § 11, do CPC/2015, pois já fixados no limite máximoprevisto pelo § 2º do mesmo artigo pelas instâncias ordinárias.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA.PREENCHIMENTO POSTERIOR. REGULARIDADE. INOCORRÊNCIA DE PAGAMENTO OU EXCESSO DE EXECUÇÃO.FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
