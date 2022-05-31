@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EDUARDO LUIZ SIEPIERSKI eOUTRA, comamparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de
+reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Acre, assim ementado (fl. 718, e-STJ):
+CIVIL E PROCESSO CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CONTRATO DE CÂMBIO. LEGITIMIDADE PASSIVA DOS FIADORES. PRAZO PRESCRICIONAL QUINQUENAL. INOCORRÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO COM A CITAÇÃO DOS DEVEDORES SOLIDÁRIOS. DESÍDIA DO CREDOR NÃO VERIFICADA. IMPUGNAÇÃO AOS EMBARGOS. INTEMPESTIVIDADE. IRRELEVÃNCIA. INAPLICABILIDADE DOS EFEITOS DA REVELIA. SENTENÇA MANTIDA.
+1. Tratando-se dos títulos em execução de contratos de câmbio, tipo exportação, cujas garantias vêm pactuadas em escritura pública de outorga de hipoteca e fiança, e sendo juntado aos autos o respectivo instrumento onde consta serem os Apelantes fiadores e terceiros intervenientes dos contratos firmados com o banco Apelado, não há que se falar em ilegitimidade passiva.
+2. Incide, no caso de pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular, a prescrição quinquenal, à luz do art. 206, § 5º, 1, do CC/2002. A citação dos coexecutados ensejou a interrupção da prescrição também em relação aos Apelantes, diante da natureza solidária da obrigação pelo pagamento dos contratos objeto da execução (art. 204, § 1º, do CC e art. 240, § 1º do CPC/2015).
+3. A prescrição intercorrente somente incide quando o credor permanece inerte por prazo superior ao da prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do CC/2002. Ou seja, não basta o mero decurso do prazo prescricional previsto na legislação civil vigente para o reconhecimento da prescrição intercorrente, mas o reconhecimento de desídia do credor na satisfação do seu direito, o que não se verifica no caso concreto.
+4. A boa-fé objetiva, especialmente no âmbito das relações jurídicas contratuais, tem como uma de suas eficácias justamente a de geração de deveres anexos e de proteção, que servem de baliza para a verificação das situações de exercício jurídico inadmissível, e geram efeito inclusive nas fases pré e pás-contratual.
+5. Manifesta intempestividade da impugnação aos embargos à execução que não tem relevância para o deslinde do feito, porquanto inaplicáveis os efeitos da revelia. Precedentes. 6. Apelação desprovida.
+Nas razões do recurso especial (fls. 730/744, e-STJ), osrecorrentes apontaram, além de dissídio jurisprudencial, violação aos artigos 320 e 798 do Código de Processo Civil/15; 77 e 77 do Decreto nº 57.633/1966; 206, § 3º do Código Civil.Sustentaram, em síntese: i)ter havido ofensa àteoria da asserção, no sentido de que as condições da ação devem ser analisadas de acordo com os documentos carreados junto à petição inicial. "No caso, a Execução Fiscal não foi instruída com a escritura de fiança e que o referidoodocumento somente foi juntado em 16.06.2016 (fls. 302/312), ou seja, após 09(nove) anos, do ajuizamento da Execução, foi reconhecida a legitimidade passiva do fiador para responder pela execução"; ii) é de três anos o prazo de prescrição aplicado no caso, tendo em vista trata-se de pretensão relativa à execuçãode nota promissória.
+Contrarrazões (fls. 762/801, e-STJ), e após decisão de admissão do recurso especial (fls. 802/805, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, quanto à alegada violação aos artigos 320 e 798do CPC/15, noque dizrespeito àtempestividade ou preclusão do ato de juntada da escritura de fiançapela parte exequente/recorrida, nota-se que o conteúdo normativodos dispositivos tidos como violados, não fora objeto de exame pelo Tribunal aquo, e sequer restaram interpostos embargos de declaração, o que obsta oconhecimento da insurgência por esta Corte de Justiça, ante a ausência dorequisito do prequestionamento (Súmulas ns. 282 e 356 doSTF).
+Para que se configure o prequestionamento da matéria, há que se extrair doacórdão recorrido pronunciamento sobre as teses jurídicas em torno dosdispositivos legais tidos por vulnerados, a fim de que se possa, nainstância especial, abrir discussão sobre determinada questão de direito,definindo-se, por conseguinte, a correta interpretação da legislaçãofederal.
+Vale lembrar que, no caso específico, deveria o recorrente ter manejado osembargos de declaração para sanar a omissão do tribunal local e,persistindo a omissão, ter invocado, no recurso especial, violação ao art.1.022 do CPC/15, o que não ocorreu.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DENOME EMPRESARIAL CUMULADA COM INDENIZATÓRIA, MARCA E NOME DE DOMÍNIO. ART.461, § 4º, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E356/STF. MULTA. OFENSA AO ART. 461, § 6º, DO CPC/1973. REVISÃO DE MATÉRIAFÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃOPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recursoespecial, mas não debatido e decidido nas instâncias ordinárias, tampoucosuscitado em embargos de declaração, porquanto ausente o indispensávelprequestionamento. Aplicação, por analogia, das Súmulas282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 631.332/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,
+julgado em 14/03/2017, DJe 28/03/2017)
+2. A Corte local, ao afastar a ocorrência de prescrição, adotou osseguintes fundamentos (fls. 722, e-STJ):
+Defendem os Apelantes a tese da prescrição, alegando a fluência de prazo superior a 03 (três) anos, entre o vencimento da dívida e a citação pessoal dos Apelantes, por desídia do Apelado.
+Conforme registrado na sentença, o banco Apelado promoveu a execução de contratos de câmbio, tipo exportação, cuja inadimplência se verificou em dezembro de 2004, deflagrando-se, naquele ano, a contagem do prazo prescricional, que é de 05 (cinco) anos, por se tratar de "pretensão de cobrança de dividas líquidas constantes de instrumento público ou particular", nos termos do art. 206, § 5º, inciso 1, do Código Civil/2002, conforme jurisprudência desta Corte de Justiçai.
+No caso, a demanda foi ajuizada em 31/08/2007 (p. 01), antes, portanto, do termo final do prazo prescricional, tendo o Juízo de origem determinado a citação dos executados no endereço informado na petição inicial, que são os mesmos constantes dos respectivos instrumentos contratuais. Em 30/05/2008 foi juntada aos autos a carta precatória devidamente cumprida, por meio da qual foram citados os executados/fiadores Jan Siepierski Filho e Nair de Medeiros Siepierski (p. 102).
+Com efeito, estabelece o art. 204, § 1º, do CC que a interrupção operada contra o devedor solidário envolve os demais e seus herdeiros. A Corte Superior 2 inclusive tem precedente sobre o tema quando, tratando dos efeitos da citação do fiador em relação ao devedor principal, assenta a interrupção em relação aos devedores solidários, na forma do art. 240, § 1º do CPC/2015.
+Portanto, tem-se que a citação dos coexecutados ensejou a interrupção da prescrição também em relação aos Apelantes, diante da natureza solidária da obrigação pelo pagamento dos contratos objeto da execução.
+A jurisprudência desta Corte firmou o entendimento no sentido de que após a vigência do Código Civil de 2002, o prazo prescricional passou a ser de cinco anos, na forma do art. 206, § 5º, inciso I ("prescreve em cinco anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular").
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1.CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIASORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO.IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DÍVIDA LÍQUIDA.INCIDÊNCIA DO PRAZO PRESCRICIONAL QUINQUENAL. ART. 206, § 5º, I, DO CÓDIGOCIVIL. PRECEDENTE. 3. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Aplica-se a prescrição quinquenal, prevista no art. 206, § 5º, I, doCódigo Civil, às ações de cobrança em que se pretende o pagamento dedívida líquida constante de instrumento particular. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1215860/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 26/06/2018, DJe 29/06/2018)
+Assim, estando o acórdão recorrido em consonância com a orientação desta
+Corte Superior, inarredável a incidência do verbete sumular 83/STJ,aplicável às alíneas a e c do permissivo constitucional.
+Ademais, a conclusão em sentido contrário ao que restou expressamente consignado noacórdão hostilizado - acerca da não ocorrência da prescrição -, enseja,indubitavelmente, o revolvimento do conjunto fático-probatório dos autos,não se limitando à revaloração de provas, o que é vedado pela Súmula 7desta eg. Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. AÇÃODE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSUMIDOR POR EQUIPARAÇÃO.APLICABILIDADE DO CDC. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTACORTE. SÚMULA 83/STJ. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE.NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudênciadesta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do SuperiorTribunal de Justiça, que abrange os recursos especiais interpostos com
+amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+2. A revisão das conclusões estaduais - acerca do termo inicial dacontagem da prescrição, bem como da responsabilidade da insurgente pelosdanos materiais e morais a que foi condenada - demandaria,necessariamente, o revolvimento do acervo fático-probatório dos autos,providência inviável na via estreita do recurso especial, ante o óbicedisposto na Súmula 7/STJ.
+(..)
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1157514/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 26/06/2018, DJe 29/06/2018)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c a Súmula 568/STJ, negoprovimento ao recurso especial, majorando em 10% (dez por cento) o valor doshonorários sucumbenciais fixados pelo Tribunal de origem, com base no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
