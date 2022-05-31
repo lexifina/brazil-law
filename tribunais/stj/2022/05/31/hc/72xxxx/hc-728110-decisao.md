@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ISABELLA GUIMARAES SILVEIRA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, proferido na Apelação n. 1501907-38.2018.8.26.0637, assim ementado:
+"PENAL. APELAÇÃO CRIMINAL. TRÁFICO INTERNACIONAL DE DROGAS.DOSIMETRIA DA PENA. PENA-BASE. CAUSA DE AUMENTO DECORRENTE DA TRANSNACIONALIDADE FIXADA NO MÍNIMO LEGAL. CAUSA DE DIMINUIÇÃO DE PENA DO ARTIGO 33, § 4º, DA LEI 11.343 /2006. REGIME INICIAL ABERTO.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO.REQUISITOS PREENCHIDOS.
+1. A materialidade do delito restou comprovada pelo laudo em substância. A autoria e o dolo restaram claramente demonstrados nos autos. A acusada foi presa em flagrante, transportando quase quatro quilogramas de cocaína.
+2. Não há fundamento legal para que seja desconsiderado ou desvalorizado o depoimento de policial, colhido mediante compromisso e garantido o contraditório, como material probatório.
+3. Pena-base fixada acima do mínimo legal. Art. 42 da Lei 11.343/06. O intuito de obter proveito econômico não pode ser considerado em desfavor do réu por ser elementar do tráfico de drogas. As circunstâncias do crime são normais à espécie delitiva e não devem ser valoradas em desfavor da ré. A conduta da ré não produziu qualquer consequência extrapenal, na medida em que a droga foi apreendida.
+4. Ainda que a ré tenha sido presa em flagrante, deve ser beneficiada com a confissão que, inclusive, foi levada em consideração para o convencimento do magistrado inexistindo razão para que a atenuante seja afastada ou seja reduzido seu patamar de diminuição.
+5. Mantida a aplicação da causa de aumento decorrente da transnacionalidade, no percentual mínimo, pois presente apenas uma das causas de aumento do art. 40 da Lei n.º 11.343 /06.
+6. Art. 33, §4 da Lei 11.343/06. As circunstâncias denotam que os fatos apurados na denúncia constituíram evento isolado na vida da ré. Destarte, do cotejo de todo o conjunto probatório, inclusive depoimento pessoal da ré, conclui-se que, longe de integrar organização criminosa ou se dedicar a esse tipo de atividade, a sentenciada tem características que a colocam como cidadã inserida na sociedade.
+7. A simples alegação, sem qualquer comprovação nos autos, por óbvio, não pode caracterizar a alagada coação. Não há como acolher a tese defensiva de que a ré agiu sob coação resistível, sem qualquer indício que aponte nesse sentido.
+8. Mantidos o regime inicial semiaberto e a substituição da pena privativa de liberdade por penas restritivas de direito.
+9. Regime inicial aberto incompatível com a prisão preventiva.
+10. Apelações a que se nega provimento"(fls. 108/109).
+Infere-se dos autos que a paciente foi condenada, em primeiro e segundo graus, pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico de drogas), a 3 anos e 10 meses de reclusão, em regime inicial aberto, mais 388 dias-multa, substituída a pena por duas restritivas de direito.
+No presente writ, a impetrante sustenta, em síntese, que a paciente preenche todos os requisitos exigidos à aplicação da causa especial de diminuição de pena (art. 33, §4º, da Lei n. 11.343/06) em seu patamar máximo; houve inidoneidade na substituição da pena por duas restritivas de direitos e desproporcionalidade na pena pecuniária e na de multa.
+Requer a concessão da ordem nesse sentido.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela concessão parcial da ordem (fls. 1.091/1.097).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+A primeira controvérsia diz respeito à fração de aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, a qual é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+No caso, o Tribunal a quo manteve a aplicação da referida minorante no patamar de 1/3, sob a seguinte fundamentação:
+" ..
+Insurge-se a defesa quanto ao patamar de redução da pena adotado na sentença (1/3). A defesa pretende seu reconhecimento no patamar máximo.
+Saliento que a ré associou-se, de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, cumprindo papel de importância na cadeia do tráfico internacional de drogas e para o êxito da citada organização, pelo que não deve ser beneficiada com o patamar máximo de redução da pena" (fls. 105/106).
+A causa de diminuição de pena em questão foi aplicada em 1/3tendo em vista que as circunstâncias do delito evidenciaram que a paciente possui maior grau de envolvimento com o comércio de drogas.
+A fundamentação apresentada mostra-se válida, não havendo motivos para impedir que o contato mais íntimo do paciente com o tráfico seja considerado parâmetro na escolha da fração do § 4º do art. 33 da Lei n. 11.343/06.
+Nesse sentido:
+REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. DOSIMETRIA DA PENA. QUANTIDADE E NATUREZA DA DROGA.PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE. ART. 42 DA LEI N. 11.343/06.TRÁFICO PRIVILEGIADO. MINORANTE DE PENA. TRANSPORTADOR DE GRANDE QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE. FRAÇÃO DE 1/6. CABIMENTO.INSURGÊNCIA DESPROVIDA.
+1. Na fixação da pena-base dos crimes previstos na Lei n. 11.343/06 deve-se considerar, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância entorpecente, consoante o disposto no art. 42 da referida norma legal.
+2. O Tribunal de origem manteve a fixação da pena-base em 7 meses e 15 dias acima do mínimo legal, ante a natureza e quantidade da droga apreendida, o que constitui fundamento idôneo, não havendo que se falar em ilegalidade ou excesso na espécie.
+3. Nos termos da jurisprudência deste Sodalício, "a atuação da recorrente na condição de "mula", embora não seja suficiente para denotar que integre, de forma estável e permanente, organização criminosa, é considerada circunstância concreta e elemento idôneo para valorar negativamente a conduta do agente, na terceira fase da dosimetria, modulando-se a aplicação da causa especial de diminuição de pena pelo tráfico privilegiado, por ter conhecimento de que auxilia o crime organizado no tráfico internacional" (AgRg no AREsp 784.082/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/05/2017, DJe 26/05/2017).
+4. Na hipótese dos autos, o Tribunal de origem justificou a aplicação da minorante do tráfico na fração mínima de 1/6, uma vez que as circunstâncias demonstram um maior grau de envolvimento do réu com a organização criminosa.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 812.691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 14/03/2018).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA.CAUSA DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/06.FRAÇÃO MÍNIMA. FUNDAMENTAÇÃO IDÔNEA. MAIOR ENVOLVIMENTO COM O CRIME.REITERAÇÃO DA CONDUTA DELITIVA. REVISÃO DO PATAMAR DE DIMINUIÇÃO.REEXAME DE PROVAS. REGIME INICIAL FECHADO DEVIDAMENTE FUNDAMENTADO.QUANTIDADE E NATUREZA DA DROGA  42 PORÇÕES DE CRACK.CIRCUNSTÂNCIAS DA APREENSÃO. GRAVIDADE CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa de diminuição de pena em questão foi aplicada em 1/6, tendo em vista as circunstâncias do delito evidenciarem que o paciente possui maior grau de envolvimento com o comércio de drogas.
+O Tribunal a quo, inclusive, afirmou que houve a prática reiterada do delito em local de ponto de tráfico, além de considerar a quantidade e a natureza da droga.
+A fundamentação apresentada, concernente ao poder discricionário do magistrado, mostra-se válida, não havendo motivos para impedir que o contato mais íntimo do paciente com o tráfico seja considerado parâmetro na escolha da fração do § 4º do art. 33 da Lei n.11.343/06.
+2. A reforma do entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. A quantidade e natureza da droga demonstra a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena. No caso, o acórdão considerou a natureza da droga (42 porções de crack) e as circunstâncias da apreensão.
+4. Agravo regimental desprovido.
+(AgRg no HC 619.271/SC, de minha Relatoria, QUINTA TURMA, DJe 01/03/2021).
+Por fim, verifica-se que Corte estadual não analisou as questões referentes à inidoneidade na substituição da pena por duas restritivas de direito e na desproporcionalidade da pena de multa, tendo ressaltando, inclusive, em sede de embargos de declaração, que os temas não foram objeto do recurso de apelação (fl. 85). Assim, a sua apreciação, diretamente por este Tribunal Superior, acarreta indevida supressão de instância.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO DE PENA E SUBSTITUIÇÃO. SUPRESSÃO DE INSTÂNCIA. VEDAÇÃO AO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO INSUFICIENTE. ORDEM CONHECIDA EM PARTE E, NESSA EXTENSÃO, CONCEDIDA.
+1. Mostra-se inviável a análise, diretamente por esta Corte Superior de Justiça, da pretendida fixação de regime inicial mais brando de cumprimento de pena e da substituição da sanção reclusiva por medida restritiva de direitos, tendo em vista que essas matérias não foram examinadas pelo Tribunal de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+2. O Juiz sentenciante, ao negar o direito de recorrer em liberdade ao acusado, deixou de fundamentar concretamente a necessidade da custódia preventiva, à luz do art. 312 do Código de Processo Penal e conforme própria determinação do art. 387, § 1º, do mesmo diploma processual.
+3. Ordem parcialmente conhecida e, nessa extensão, concedida para assegurar ao paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do Código de Processo Penal.
+(HC 396.325/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 09/04/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
