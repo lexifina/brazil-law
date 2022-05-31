@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, porque o acórdão recorrido está em consonância com a jurisprudência do STJ e por ausência de demonstração do dissídio jurisprudencial (e-STJ fls. 1.084/1.087).
+O acórdão recorrido está assim ementado (e-STJ fl. 950):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMÓVEL ONDE SEDIADAS AS RECUPERANDAS OFERECIDO EM ALIENAÇÃO FIDUCIÁRIA. PROCEDIMENTO EXTRAJUDICIAL DE CONSOLIDAÇÃO DA PROPRIEDADE ULTIMADO ANTES MESMO DE DEFERIDO O PROCESSAMENTO DO FEITO RECUPERACIONAL. CRÉDITO NÃO SUJEITO À RECUPERAÇÃO JUDICIAL. ART. 49, § 3º, DA LEI Nº 11.101/05. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. ART. 47 DA MESMA LEI.
+SOLUÇÃO CONCILIADORA, NO SENTIDO DE MANTER AS RECUPERANDAS NA POSSE DO BEM AO LONGO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL, CONDICIONADA AO PAGAMENTO DE ALUGUEL À AGRAVANTE (PROPRIETÁRIA), SOB PENA DE INVIABILIZAR O SOERGUIMENTO DA EMPRESA.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+No recurso especial (e-STJ fls. 995/1.004), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e violação dos arts. 26, §§ 1º e 7º, 27, §§ 5º e 6º, da Lei n. 9.514/1997, 49, §3º, e 6º, § 4º,da Lei n. 11.101/2005.
+Informa que, nadata do ajuizamento da recuperação judicial, a propriedade do imóvel estava consolidada em seu favor, pois o devedor, apesar de intimado, deixou de pagar o débito, sendo o bem levado a leilão e, "em razão do leilão negativo do imóvel, a dívida foi liquidada" (e-STJ fl. 998).
+Defende que "o acórdão de origem viola ainda o art. 49, caput e § 3º, c/c art. 6º, § 4º, da Lei 11.101/2005, tendo em vista que a parte final do aludido dispositivo apenas ressalva a retirada de bens alienados fiduciariamente e de capital essenciais à atividade empresarial durante o stay period, sendo que, conforme visto, a dívida já encontrava-se quitada e não mais havia a alienação fiduciária sobre o imóvel na data do ajuizamento da recuperação judicial, bem como o Recorrente já possuía o domínio pleno sobre este imóvel, razão pela qual é irrelevante a essencialidade deste imóvel" (e-STJ fl. 999).
+No agravo (e-STJ fls. 1.120/1.127), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.140/1.150).
+O MPF opinou pelo conhecimento e pelanegativa de provimento do agravo.
+É o relatório.
+Decido.
+Nos termos da jurisprudência do STJ,"os credores cujos créditos não se sujeitam ao plano de recuperação não podem expropriar bens essenciais que afetem o patrimônio da sociedade recuperanda" (AgInt nos EDcl no TP n. 2.746/MT, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA,DJe de 26/10/2020). No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ARRESTO DETERMINADO POR OUTRO JUÍZO EM BENS CONSIDERADOS ESSENCIAIS PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO RECUPERACIONAL. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Segunda Seção, "há absoluta convergência, entre doutrina e jurisprudência, que, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não de algum bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação do patrimônio da recuperanda, o que tem o condão, inclusive, de impedir a retirada de bens essenciais, ainda que garantidos por alienação fiduciária, da posse da sociedade em recuperação (art. 49, § 3º, da LRF)" (CC 153.473/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 26/06/2018).
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no CC n. 169.116/MA, Rel.Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em ,DJe de 24/3/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. BENS DADOS EM GARANTIA FIDUCIÁRIA. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. BENS ESSENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. SÚMULA 83/STJ.
+1. Hipótese em que a Corte a quo entendeu, observando o princípio da preservação da empresa, que os bens objetos do litígio, mesmo que oferecidos como garantia fiduciária, não poderiam ser retirados da posse da recuperanda, por serem essenciais à manutenção das atividades empresariais.
+2. O acórdão recorrido está em harmonia com a jurisprudência do STJ, segundo a qual o credor titular da posição de proprietário fiduciário ou detentor de reserva de domínio de bens móveis ou imóveis não se sujeita aos efeitos da recuperação judicial (Lei 11.101/2005, art. 49, § 3º), ressalvados os casos em que os bens gravados por garantia de alienação fiduciária cumprem função essencial à atividade produtiva da sociedade recuperanda (AgInt no AgInt no AgInt no CC 149.561/MT, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/08/2018, DJe 24/08/2018).
+3. Estando o acórdão recorrido em consonância com a jurisprudência firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.660.732/MG, Rel.Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em ,DJe de 22/9/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA DE BENS ESSENCIAIS À ATIVIDADE EMPRESARIAL. PRESERVAÇÃO DA EMPRESA.
+1. A Segunda Seção do STJ já decidiu que, apesar de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial (art. 49, §3º, da Lei 11.101/05).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.475.536/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em ,DJe de 27/8/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Compete ao juízo da recuperação judicial a prática de atos de execução (constritivos/expropriatórios) deduzidos em face do patrimônio da empresa recuperanda, mesmo após o transcurso do prazo de 180 dias de suspensão, previsto no art. 6º, § 4º, da Lei 11.101/05.
+2. Segundo orientação jurisprudencial firmada por esta Corte Superior de Justiça, os credores cujos créditos não se sujeitam ao plano de recuperação, mesmo aqueles garantidos por alienação fiduciária, não podem expropriar bens essenciais à atividade empresarial, sob pena de subvertendo-se o sistema, conferir maior primazia à garantia real em detrimento do princípio da preservação da empresa. 2.1.Em razão de os imóveis dados em garantia fiduciária constituírem o local onde são exercidas atividades de administração, gerenciamento, plantio e produção de maçãs (objeto social das recuperandas), não se revela possível a consolidação da propriedade fiduciária em favor da parte credora.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1677661/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/10/2020, DJe 23/10/2020.)
+Registre-se que, ao contrário do alegado pela parte, o art. 49, § 3º, da Lei n. 11.101/2005 não se aplica apenas ao credor fiduciário, mas também ao credor proprietário.
+Em tais condições, o acórdão recorrido está em conformidade com a jurisprudência desta Corte, incidindo a Súmula n. 83 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
