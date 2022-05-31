@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por BANCO ITAÚ UNIBANCO S/A., em face da decisão que em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo nobre (art. 105, III, alínea"a", CF) desafiou acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado (fl. 271, e-STJ):
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA EM AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - SENTENÇA QUE PRONUNCIOU A OCORRÊNCIA DA PRESCRIÇÃO QUINQUENAL E EXTINGUIU O FEITO - QUESTÃO DECIDIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA POR MEIO DE REPRESENTATIVO DE CONROVÉRSIA - RESP Nº1.273.643/PR-FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS - IRRESIGNAÇÃO DO BANCO - PLEITO DE MAJORAÇÃO - ACOLHIMENTO PARCIAL- RECURSO CONHECIDO E PROVIDO.
+Embargos de declaração rejeitados (fls. 286/294, e-STJ).
+Nas razões de recurso especial (fls. 296/304, e-STJ), oagravante pugna pela majoração dos honorários advocatícios, nos termos do artigo 20, §§ 3º e 4º, do CPC.
+Contrarrazões às fls. 313/325, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 330/331, e-STJ), dando ensejo ao presente agravo (fls. 335/344, e-STJ), por meio do qual oagravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Contraminuta às fls. 348/350, e-STJ.
+É o relatório.
+Decido.
+A pretensão não merece acolhimento.
+1. Insurge-se o agravante com relação ao valor fixado a título de honorários advocatícios.
+Nos termos da jurisprudência destaCorte Superior, fixada a verba honorária de acordo com a apreciação equitativa do julgador, não será suscetível de reexame em sede de recurso especial, a teor da Súmula 7 do STJ, excetuados os casos de fixação empatamar exorbitante ou irrisório, o que não ocorreu na espécie.
+Nesse sentido, precedentes:
+PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA CONTRA A FAZENDA PÚBLICA. VALOR DA CAUSA, DA CONDENAÇÃO OU DO VALOR FIXO. MODIFICAÇÃO. SÚMULA 7/STJ.  ..  2. A fixação da verba honorária de sucumbência cabe às instâncias ordinárias, uma vez que resulta da apreciação equitativa e avaliação subjetiva do julgador ante as circunstâncias fáticas presentes nos autos, razão pela qual insuscetível de revisão em sede de recurso especial, a teor da Súmula 7/STJ. 3. O afastamento do óbice apontado somente é possível quando a verba honorária é fixada em patamar exorbitante ou irrisório, o que não ocorreu na espécie, ante a justificação do tribunal para fixá-la em patamar condizente com o caráter menos complexo da exceção de pré-executividade (1% sobre o valor da execução).  ..  Agravo regimental improvido. (AgRg no REsp 1572665/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/04/2016, DJe 19/04/2016)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. QUANTUM. RAZOABILIDADE DOS FIXADOS EM FAVOR DO INSTITUTO RESSEGURADOR. SÚMULA Nº 7 DO STJ. RECURSO DO INSTITUTO RESSEGURADOR NÃO CONHECIDO. PREJUDICADO O RECURSO ADESIVO. 1. A verba honorária fixada de acordo com a apreciação equitativa do juiz não será suscetível de reexame em sede de recurso especial, a teor da Súmula 7 desta Corte. (AgRg no AREsp 155.733/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 21/8/20130. 2. O montante arbitrado em favor do instituto ressegurador não é irrisório, na medida em que remunera condignamente o patrono e representa aproximadamente 1% do valor da lide secundária estabelecida pela denunciação da lide. Incidência da Súmula nº 7 do STJ.  ..  4. Recurso do instituto ressegurador não conhecido, prejudicado o da seguradora. (REsp 1511879/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/12/2015, DJe 05/02/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTINTA EM RAZÃO DE PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. REVISÃO. SÚMULA 7 DO STJ. 1. Nas causas em que não há condenação e nas execuções os honorários advocatícios devem ser arbitrados conforme apreciação equitativa do juiz, no termos do § 4º do art. 20 do CPC. 2. Ressalvadas as hipóteses de notória exorbitância ou manifesta insignificância, os honorários advocatícios fixados por critério de equidade não se submetem a controle por via de recurso especial, já que tal demandaria reexame de matéria fática. Aplicação da Súmula 7/STJ. 3. Agravo regimental a que se nega provimento. (AgRg no AREsp 574.272/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/03/2015, DJe 23/03/2015)
+Inafastável, portanto, oóbicedaSúmula7 do STJ.
+2. Do exposto, nega-seprovimento ao agravo.
+Publique-se.
+Intimem-se.
