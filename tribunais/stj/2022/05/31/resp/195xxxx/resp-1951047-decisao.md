@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONFECÇÕES CUNHA LTDA. e outros (CONFECÇÕES CUNHA e outros), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal Tocantinense, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. AUSÊNCIA DE RISCO DE DANO GRAVE OU DE DIFÍCIL REPARAÇÃO. ALEGAÇÃO DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. QUESTÕES DE FATO DE DIREITO E OS MOTIVOS QUE FORMARAM A CONVICÇÃO DO JUIZ EXPRESSAMENTE ANALISADOS. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE PREVISÃO NO CONTRATO. CONSTITUIÇÃO EM MORA DO DEVEDOR. DESNECESSIDADE. CAPITALIZAÇÃO DE JUROS EXPRESSAMENTE PREVISTA EM CONTRATO. POSSIBILIDADE DE CAPITALIZAÇÃO MENSAL DE JUROS. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Não se vislumbra a necessidade de atribuição de efeito suspensivo ao recurso interposto, posto que não demonstrado fundamentação relevante e risco de dano grave ou de difícil reparação.
+2. A sentença combatida apresentou regularmente todos os requisitos estabelecidos pela legislação (artigo 489, CPC), analisando de forma objetiva, as questões de fato e de direito, trazendo ainda, expressamente, os motivos que formaram a convicção do juiz.
+3. No caso em análise, forçoso constatar que o contrato não prevê a comissão de permanência, nem há qualquer indicativo de que sejam cobrados encargos de inadimplência além daqueles estipulados na Cláusula Décima Sétima, o que prejudica o pleito de seu decote ou limitação.
+4. Deve ser afastada a alegada necessidade de constituição em mora, pois a sentença recorrida foi proferida em estrita consonância com o entendimento perfilhado pela jurisprudência, vez que a cédula de crédito bancário é título executivo extrajudicial apto a aparelhar a via executiva.
+5. É pacífico o entendimento da jurisprudência de que é permitida a capitalização de juros com periodicidade mensal, desde que expressamente pactuada, nos contratos firmados com instituições bancárias e financeiras após a vigência da MP 1.963-17/2000, reeditada sob o nº 2.170/2001.
+6. Recurso conhecido e não provido (e-STJ, fls. 260/261).
+Opostos embargos de declaração por CONFECÇÕES CUNHA e outros, foram rejeitados (e-STJ, fls. 312/313).
+Nas razões do presente recurso, CONFECÇÕES CUNHA e outros alegaram violação dos arts. 11, 489, §1º, e 1.022 do NCPC, bem como dissídio jurisprudencial, ao sustentarem que o acórdão vergastado foi omisso quanto ao pedido de esclarecimento se a cobrança de juros compensatórios, juros de mora e multa contratual não enseja cumulação de comissão de permanência com os demais encargos da mora e de qual seria a natureza da cobrança cumulada dos encargos (e-STJ, fls. 326/336).
+Foram apresentadas contrarrazões (e-STJ, fls. 341/345).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Da ausência de omissão
+Nas razões do seu recurso, CONFECÇÕES CUNHA e outros alegaram a violação dos arts. 11, 489 e 1.022, do NCPC em virtude da omissão acerca do pedido de esclarecimento se a cobrança de juros compensatórios, juros de mora e multa contratual não enseja cumulação de comissão de permanência com os demais encargos da mora e de qual seria a natureza da cobrança cumulada dos encargos.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre o tema da cumulação de permanência, entendendo que não houve cobrança de tal rubrica, a qual sequer consta do contrato, confira-se:
+No tocante à cobrança da comissão de permanência, cabe consignar que é possível, desde que pactuada e não cumulada com nenhum outro encargo de mora.
+Entretanto, no caso em analise, forçoso constatar que o contrato não prevê a comissão de permanência, nem há qualquer indicativo de que sejam cobrados encargos de inadimplência além daqueles estipulados na Cláusula Décima Sétima, o que prejudica o pleito de seu decote ou limitação.
+Dessa maneira, deve ser mantido os encargos pelo inadimplemento conforme contratado(e-STJ, fl. 252).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Ademais, quanto à suposta ausência de esclarecimento da "natureza" da cumulação dos encargos da mora, as razões do recurso especial não se mostram suficientes à compreensão da suposta omissão apontada por CONFECÇÕES CUNHA e outros, em evidente alegação genérica de contrariedade ao referido dispositivo nesse ponto.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C REPARAÇÃO DE DANOS MORAIS. 1. OFENSA AO ART. 1.022. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. EXISTÊNCIA DE RELAÇÃO JURÍDICA E EXIGIBILIDADE DO DÉBITO COMPROVADOS. EQUÍVOCO NO VALOR. DANO MORAL NÃO CARACTERIZADO. ALTERAÇÃO. SÚMULA N. 7/STJ. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 4. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se ao caso o óbice da Súmula 284/STF.
+2. O Tribunal estadual, ao dirimir a controvérsia, concluiu pela exclusão da anotação restritiva no nome da recorrente. Para acolher a pretensão recursal (quanto à existência de relação jurídica, a impossibilidade de declaração da inexigibilidade do débito e a não configuração de dano moral), demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. O prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+4. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+5. Agravo interno improvido.
+(AgInt no AREsp 1.949.215/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/02/2022, DJe 23/02/2022)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de BANCO DA AMAZÔNIA S.A., limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. CUMULAÇÃO DE ENCARGOS DA MORA. VIOLAÇÃO DOS ART. 11, 489 E 1.022 DO NCPC. INEXISTÊNCIA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
