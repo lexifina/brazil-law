@@ -1,0 +1,92 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por IRMANDADE DA SANTA CASA DE MISERICORDIA DE GARÇAem face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelaora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 424, e-STJ):
+Agravo Interno (art. 1.021 do CPC)- Decisão monocrática desta Relatoria que indeferiu a concessão dos benefícios da gratuidade de justiça em sede recursal com determinação para o recolhimentodo preparo - Ausência de argumentos novos capazesde alterar a convicção. Recurso não provido, com aplicação de multa.
+Sem oposição de embargos declaratórios.
+Nas razões de recurso especial (fls. 373-391,e-STJ), alegou ainsurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal:(i) art. 1.022 do CPC, ante a negativa de prestação jurisdicional;(ii)98 do CPC, sustentando, em síntese, que houve a devida comprovação das condições que permitem a concessão da gratuidade de justiça; (iii) art. 1.021, §4º do CPC,afirmando ser necessária a exclusão da multa aplicada ao agravo interno, ante a ausência de intuito protelatório.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 705-715 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+A pretensão recursal merece prosperar, em parte.
+1.De início, em relação à tese de ofensa ao art. 1.022 do CPC/15, arecorrente sustenta que a decisão seria omissa pois teria partido de premissa equivocada.
+Todavia, não foram opostos embargos declaratórios na origem, o que inviabilizaa pretensão recursal.
+Isto porque, para que possa ser reconhecida a negativa de prestação jurisdicional, é necessário, dentre outros requisitos, que tenham sido opostos os aclaratórios na origem. Neste sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AO ART. 489, § 1º, IV, E ART. 1022, II, AMBOS DO CPC/2015. REAJUSTE DE 28, 86%. COMPENSAÇÃO EM FACE DAS LEIS Nº 8.622/93 E 8.627/93 ALEGADA EM SE DE EMBARGOS À EXECUÇÃO. SUPOSTA OMISSÃO QUANTO AOS LIMITES DO TÍTULO EXECUTIVO. AUSÊNCIA DE PREVISÃO DE COMPENSAÇÃO. IRRELEVÂNCIA. FUNDAMENTO AUTÔNOMO APRESENTADO PELO TRIBUNAL DE ORIGEM PARA MANTER O JULGADO, AINDA QUE O TÍTULO EXECUTADO NÃO PREVISSE A COMPENSAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o provimento do recurso especial por contrariedade ao art. 1022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir a anulação ou reforma do julgado; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+ ..
+6. Embargos de declaração acolhidos para integralização do julgado, sem efeitos modificativos.
+(EDcl no AgInt no REsp 1659455/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO INTERNO. REINTEGRAÇÃO DE POSSE. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO ART. 535 DO CPC/1973. SÚMULA Nº 284/STF.
+PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DISSÍDIO JURISPRUDENCIAL. ARTIGO DE LEI. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Em homenagem ao princípio da fungibilidade recursal, os presentes embargos de declaração são recebidos como agravo regimental.
+2. Inviável a análise de ofensa ao art. 535 do Código de Processo Civil de 1973, visto que não foram opostos declaratórios contra o acórdão impugnado na via do recurso especial, o que atrai o óbice da Súmula nº 284/STF.
+ ..
+6. Agravo interno não provido.
+(EDcl no REsp 1593380/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. RESPONSABILIDADE OBJETIVA. INDENIZAÇÃO. OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. ATROPELAMENTO EM VIA FÉRREA. CULPA CONCORRENTE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+ ..
+2. Não há que se falar em ofensa ao art. 535 do CPC/73 se, não apreciadas as matérias trazidas no bojo do acórdão de embargos infringentes, não foram opostos embargos de declaração pela parte interessada.
+ ..
+4. Agravo regimental improvido.
+(AgRg no AREsp 744.234/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. SÚMULA N. 284/STF. TEORIA DA APARÊNCIA. VALIDADE DA CITAÇÃO. SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO ATACADA. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Se não foram opostos embargos de declaração ao acórdão recorrido, é descabida a alegação, no recurso especial, de ofensa ao art. 535 do CPC. Incidência da Súmula n. 284/STF.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1076478/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/08/2013, DJe 20/08/2013)
+Assim, seja pela ausência de oposição de embargos declaratórios, seja pela insuficiência de fundamentação recursal, o recurso especial, neste ponto, encontra óbice na Súmula 284/STF.
+2. Insurge a recorrente, ainda, quanto à violação ao art. 98 do CPC, argumenta quecomprovouas condições que permitem aconcessão da gratuidade de justiça.
+No particular, decidiu o Tribunal de piso:
+A agravante não logrou demonstrar sua hipossuficiência econômica, ainda que temporária.
+Com o devido respeito, não se verifica nas razões do presente agravo interno qualquer fundamento novo a ser rebatido.
+Como se vê, os argumentos expendidos neste agravo não passam de reiteração dos anteriores, sendo, portanto, insuficientes para a reforma do despacho, pois não foram capazes de infirmá-lo, motivo por que deve ser mantido por seus próprios fundamentos.
+Colaciono, ainda, alguns fundamentos da decisão monocrática mantida:
+Em que pese a natureza da agravante, trata-se de entidade que ainda assim cobra por parte dos serviços prestados e, portanto, aufere lucros.
+Com efeito, cuida-se de entendimento alinhado à jurisprudência do STJ, cristalizada na Súmula 481 desta Corte, segundo a qual é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica, com ou sem fins lucrativos, somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA. SÚMULA N. 481/STJ. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade. Súmula 481 do STJ.
+2. No caso, o Tribunal de origem, com base nas provas coligidas aos autos, concluiu por manter a decisão monocrática que indeferiu o benefício da gratuidade de justiça. Alterar tal conclusão e acolher a pretensão recursal demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico.
+4. Agravo interno não provido.
+(AgInt no AREsp 1976408/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe 07/03/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO RURAL. ADITIVOS DO CONTRATO. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. AUSÊNCIA DE RELAÇÃO DE CONSUMO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR DA CAUSA. OBSERVÂNCIA DO RESP 1.746.072/PR. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se aplica o Código de Defesa do Consumidor a pessoa jurídica, nas hipóteses em que o produto adquirido ou o serviço contratado for utilizado para implementação da atividade econômica explorada pela adquirente contratante. Precedentes.
+2. A concessão do benefício de gratuidade da Justiça a pessoa jurídica depende da comprovação da precariedade de sua situação financeira, inexistindo presunção de insuficiência de recursos.
+Súmula 481/STJ.
+3. Conforme entendimento da Segunda Seção desta Corte, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+4. O entendimento adotado no v. acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1902932/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 17/12/2021)
+Ademais, como se vê, diante do conteúdo fático-probatório constante dos autos, o órgão julgador afirmou que a insurgente não apresentou documentos suficientes para comprovar sua incapacidade de arcar com os custos processuais.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Neste sentido, vejam-se os precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+2.1. Tendo a Corte local entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.975.716/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE DO ESPECIAL. RECONSIDERAÇÃO. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. SÚMULAS N. 7 E 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula n. 481 do STJ). A parte, apesar de intimada, não comprovou a hipossuficiência e teve o pedido indeferido. Aplicação da Súmula n. 83 do STJ.
+2. Ademais, o recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem concluiu estarem ausentes os requisitos para a concessão do benefício da justiça gratuita.
+Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.765.701/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/5/2021.)
+Inafastáveis, portanto, os óbices das Súmulas 7 e 83 do STJ.
+3.Por fim, no tocante àpretensão recursal quanto averificação acerca do cabimento da aplicação da multa prevista no art. 1.021, § 4º, do NCPC, sustenta a recorrente a inexistência do intuito protelatório.
+No particular, oTribunal de origem negou provimento a agravo interno e condenou a parte agravante ao pagamento de multa de 1% sobre o valor dado à causa, nos seguintes termos (fls. 426 e-STJ):
+Como se vê, os argumentos expendidos neste agravo não passam de reiteração dos anteriores, sendo, portanto, insuficientes para a reforma do despacho, pois não foram capazes de infirmá-lo, motivo por que deve ser mantido por seus próprios fundamentos.
+Sendo manifesta, portanto, a improcedência do agravo interno, de rigor a condenação da agravante na pena prevista no artigo 1.021, § 4º, do Código de Processo Civil, fixando-se multa de 1% sobre o valor atualizado da causa1.
+No entanto, quanto à aludida penalidade, cumpre esclarecer que a Segunda Seção desta Corte Superior firmou o entendimento de que a multa prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório.
+Confira-se, por oportuno, a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO. 1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada. 2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia. 3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada. 4. Agravo interno parcialmente conhecido e, nessa extensão, improvido. (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. OMISSÃO NÃO VERIFICADA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO QUANTO À PROCEDÊNCIA DO PEDIDO DE COBRANÇA. IMPOSSIBILIDADE DE REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.  ..  3. A aplicação da multa prevista nos arts. 259, § 4º, do Regimento Interno do STJ e 1.021, § 4º, do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre no presente caso.  ..  5. Agravo interno improvido. (AgInt no AREsp 1427673/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019)
+No caso em tela, embora tenha sido negado provimento ao agravo interno manejado, não se verifica o intuito meramente protelatório.
+Ademais, a parte apenas utilizou-se do recurso cabível à impugnação da deliberação monocrática que lhe foi desfavorável, no intuito de esgotar instância e obter a decisão colegiada, que é da natureza da segunda instância.
+4. Do exposto, com fulcro no artigo 932 do CPC/2015 e na Súmula 568/STJ, conheço do agravo para, de plano,darparcial provimento ao recurso especial apenas para afastar a multa do artigo 1021, § 4º, do CPC/15, imposta pelo Tribunal de origem
+Publique-se.
+Intimem-se.
