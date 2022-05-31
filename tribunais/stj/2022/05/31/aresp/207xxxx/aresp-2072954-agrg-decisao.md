@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo regimental de folhas 1.067/1.070 interposto por MILTON LUIZ MOREIRAem face de decisão do MINISTRO PRESIDENTE do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ quenão conheceu dos seusembargos de declaração, eis que intempestivos (fl. 1.063).
+No presente regimental, a Defesa alega que é possível o recebimento dos embargos de declaração de fls. 1.042/1.053 como se agravo regimental fosse, porquanto seu teor é eminentemente infringente. Ressalta que os embargos tratam justamente da tempestividade do agravo em recurso especial, que foi o óbice aventado pelo MINISTRO PRESIDENTE para não conhecer do recurso, razão pela qual é aplicável o princípio da fungibilidade.
+O MINISTÉRIO PÚBLICO FEDERAL - MPF apresentou parecer, pugnando pelo conhecimento e provimento do agravo regimental para que os embargos de declaração sejam conhecidos como se agravo regimental fosse (fls. 1.078/1.084).
+É o relatório.
+Decido.
+A decisão agravada não conheceu dos embargos de declaração, pois intempestivos (fl. 1.063). De fato, os aclaratórios foram opostos após o prazo legal de 2 dias. Contudo, verifica-se que o recurso integrativo tem propósito eminentemente infringente e foi apresentado no prazo legal de 5 dias do agravo regimental (22/03/2022 - fl. 1.053), de modo que devem ser recebidos como se agravo regimental fosse.
+Nesse sentido (grifo nosso):
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO DE EXECUÇÃO PENAL. OPERAÇÃO SAÚDE. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. REVERSÃO DO JULGADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7/STJ.
+1. É entendimento desta Corte Superior que o recurso de embargos de declaração, quando oposto com o intuito de conferir efeitos infringentes à decisão embargada e quando inexistir obscuridade, contradição ou omissão, seja recebido como agravo regimental em nome da economia processual, da celeridade e do princípio da fungibilidade; assim, os presentes embargos são recebidos como agravo regimental.
+2. Esta Corte Superior de Justiça, ao interpretar o conteúdo do art. 71 do Código Penal, adotou a teoria mista, ou objetivo-subjetiva, segundo a qual, para o reconhecimento da continuidade delitiva, faz-se necessário o preenchimento de requisitos de natureza objetiva (pluralidade de ações; mesmas condições de tempo, lugar e modo de execução do delito) e subjetiva (unidade de desígnios).
+3. Contudo não é possível verificar se houve ou não unidade de contexto e de desígnios sem o revolvimento do acervo fático-probatório dos autos, o que constitui tarefa inviável na via eleita. Incidência da Súmula n. 7/STJ.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no AgRg no AREsp n. 1.949.385/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 8/4/2022.).
+Assim, com estas considerações, reconsidero a decisão agravada, com fundamento no art. 258, § 3º, do Regimento Interno do STJ, para receber os embargos de declaração como agravo regimental, o qual será julgado oportunamente.
+Publique-se.Intimem-se.
