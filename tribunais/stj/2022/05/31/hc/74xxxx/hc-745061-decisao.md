@@ -1,0 +1,9 @@
+DECISÃO
+O paciente, acusado portráfico de drogas, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de origem, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este renovado liminarmente neste Superior Tribunal.
+Em que pesem os argumentos externados no habeas corpus, observo que o caso possui algumas especificidades que impedem a concessão do pedido inicial. Deveras, extrai-se da decisão constritiva a menção à expressiva quantidade de droga apreendida (8 kg de cocaína), situação que, initio litis, já justiifca a constrição.Além disso, assinalou o referido decisum que o paciente ostenta antecendentes criminais, circunstância que indica o risco real de reiteração delitiva.
+Conforme entendimento desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Por fim,"tendo sido o auto de prisão em flagrante submetido ao juiz para homologação, e convertido em prisão preventiva, fica superada a falta daaudiênciadecustódia,que tem como finalidade apresentar a pessoa presa em flagrante ao juiz para que este decida sobre a necessidade ou não da prisão processual" (RHC n. 63.199/MG, Rel. MinistroNefi Cordeiro, DJe de 3/12/2015, destaquei), situação que parece se enquadrar na hipótese.
+À vista do exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau.
+Depois, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se e intimem-se.
