@@ -1,0 +1,35 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1010421-83.2022.8.11.0000
+AGRAVANTE:
+UNIMED NORTE MATO GROSSO COOPERATIVA TRABALHO MEDICO
+AGRAVADO:
+RUDIMAR FELICETTI
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo recursal interposto por UNIMED NORTE MATO GROSSO COOPERATIVA TRABALHO MEDICO contra a decisão interlocutória proferida pelo Juízo da 1a Vara Cível da Comarca de Sorriso/MT, Dra. Paula Saide Biagi Messen Mussi Casagrande, que nos autos de Ação Judicial de Obrigação de Fazer c/c Pedido de Concessão de Tutela de Urgência em Caráter Liminar, c/c Indenização Moral no 1004294-09.2022.8.11.0040 ajuizada por RUDIMAR FELICETTI deferiu o pedido de antecipação de tutela veiculado na inicial, para que, no prazo de 24 horas, a ora agravante disponibilize o procedimento indicado com aplicação de injeções intraoculares seriadas de antiangiogênico - EYLI, enquanto se fizer necessário segundo a prescrição médica (id. 84061670 – Autos de origem), sob pena de multa diária fixada em R$ 5.000,00 (cinco mil reais), limitada a 30 (trinta) dias.
+A agravante aduz em síntese que desde que fora solicitado “o tratamento ocular quimioterápico com anti-angiogênico (por sessão) – Eylia 40mg/ml sol inj ct 1 fa vc trans x 0,278 nk one genérica – sob indicação clínica: Degeneração macular relacionada a idade de forma exsudativa em olho esquerdo, o beneficiário/Agravado, fora devidamente informado em sede administrativa, que NÃO há cobertura para a referida medicação, ante a ausência de cumprimento dos requisitos estabelecidos pela Agência Nacional de Saúde Suplementar – ANS”. (sic)
+Informa que “o Agravado não preencheu os critérios estabelecidos pela Diretriz de Utilização - DUT no 74, transcrita no Anexo II, da Resolução Normativa RN no 465/2021 ANS, isto é, o tratamento ocular é de cobertura obrigatória quando o olho tratado no início do tratamento preencher todos os critérios do Grupo I e nenhum dos critérios do Grupo II” (sic).
+Destaca, ademais, que “a restrição para atendimentos conforme o pretendido é baseada no regramento firmado entre as partes e nas normas estabelecidas pela Agência Nacional de Saúde Suplementar - ANS, órgão regulador e fiscalizador das operadoras de planos de saúde”. (sic)
+Com esses argumentos, pleiteia a suspensão “in limine” do “decisum”.
+Preparo recolhido, conforme id. 129980698.
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC.
+Constata-se pela leitura do recurso interposto, que a agravante postula, de início, a concessão de efeito suspensivo à decisão vergastada, que lhe impôs a disponibilização do procedimento indicado com aplicação de injeções intraoculares seriadas de antiangiogênico - EYLI, enquanto se fizer necessário segundo a prescrição médica (id. 84061670 – Autos de origem), sob pena de multa diária fixada em R$ 5.000,00 (cinco mil reais), limitada a 30 (trinta) dias.
+Exige-se para a concessão dessa medida, a demonstração da probabilidade de provimento do recurso (fumus boni iuris) e o risco de dano grave, de difícil ou impossível reparação (periculum in mora), consoante preconiza o parágrafo único do art. 995 do CPC.
+Na espécie dos autos, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, não se verifica os pressupostos autorizativos para o sobrestamento dos efeitos da decisão agravada.
+Ausente, de pronto, a relevância das alegações da agravante, pois a princípio deve prevalecer a proteção da vida, da saúde e da dignidade do agravado, de modo que deve ser fornecido o tratamento prescrito pelo médico que assiste o paciente, sendo evidente aqui o caráter de urgência.
+Isso porque, embora a agravante argumente que o tratamento pleiteado não se insere dentro da obrigatoriedade de fornecimento de acordo com o Rol da ANS, verifica-se através do laudo médico subscrito pelo Dr. Maurício Donatti, encartado no Id. 84061670 dos autos de origem, a urgência que o caso requer, posto que o agravado apresenta quadro clínico de descolamento pigmentar da retina e fluído intra retiniano em região macular central do olho esquerdo, compatível com membrana neovascular subretiniana, com risco de evolução para cegueira irreversível.
+Sendo assim, evidente a urgência do tratamento vindicado, capaz de assegurar a saúde e a qualidade de vida do agravado, beneficiário do Plano de Saúde, não se verificando, a princípio, a verossimilhança das alegações da agravante capaz de suspender a decisão recorrida.
+Nesse sentido, inclusive, é o entendimento deste Sodalício, in verbis:
+“RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA – PLANO DE SAÚDE – DETERMINAÇÃO DE FORNECIMENTO DE MEDICAMENTO – RECUSA DA OPERADORA – PERIGO DE DANO E PROBABILIDADE DO DIREITO CONSTATADOS – ART. 300 DO CPC – RECUSA INDEVIDA – DECISÃO MANTIDA – RECURSO CONHECIDO E DESPROVIDO.
+Segundo orientação do Superior Tribunal de Justiça, o plano de saúde pode estabelecer as doenças que terão cobertura contratual, todavia, não lhe é permitido restringir o tipo de tratamento, medicamento ou procedimento indicado por médico considerado essencial para a cura de tais doenças.
+A negativa de custeio do medicamento mostra-se ilegítima, tendo em vista que este é o único remédio capaz de assegurar a saúde e a qualidade de vida do beneficiário do plano de saúde, evitando lesões irreversíveis e a progressão da doença que lhe acomete, conforme parecer médico.
+A obrigatoriedade do plano de saúde cobrir tratamentos caracterizados como de urgência e emergência está expressamente estabelecida no art. 35-C da Lei n° 9.656/98.
+O argumento de que o tratamento não consta no rol de procedimentos da ANS não constitui óbice à pretensão da parte autora, tendo em vista que o aludido rol é meramente exemplificativo, contendo apenas o mínimo obrigatório de procedimentos a serem cobertos pelo plano de saúde.” (TJMT - AI 1005385-65.2019.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, DES. DIRCEU DOS SANTOS, Terceira Câmara de Direito Privado, Julgado em 31/07/2019, Publicado no DJE 01/08/2019).
+Outrossim, a agravante não demonstrou o prejuízo de difícil ou incerta reparação que exija o deferimento da medida neste momento, porque em caso de improcedência do pedido veiculado na demanda originária, possui mecanismos adequados para busca de eventual prejuízo financeiro que venha a suportar em razão do tratamento oferecido ao ora agravado.
+Logo, se mostra prudente manter os efeitos da decisão de Primeiro Grau até o julgamento do mérito recursal.
+Diante do exposto, ausentes os pressupostos legais (fumus boni iuris e periculum in mora), INDEFIRO o pretendido efeito suspensivo.
+Intime-se o agravado para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Cuiabá, 31 de maio de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
