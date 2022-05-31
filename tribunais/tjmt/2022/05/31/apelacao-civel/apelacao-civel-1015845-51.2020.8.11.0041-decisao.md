@@ -1,0 +1,40 @@
+PODER JUDICIÁRIO
+DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+1015845-51.2020.8.11.0041
+APELANTE: GILBERTO DOS SANTOS MATOS
+APELADO: PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+DES. RUBENS DE OLIVEIRA SANTOS FILHO
+DECISÃO MONOCRÁTICA
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA – SEGURO DPVAT – SEGURO DPVAT – ACIDENTE OCORRIDO NA VIGÊNCIA DA LEI N. 11.482/2007 - LIMITE LEGAL DE ATÉ R$ 13.500,00 - APURAÇÃO DO GRAU DA LESÃO - UTILIZAÇÃO DA TABELA ANEXA À LEGISLAÇÃO – SÚMULA 474 DO STJ – ENQUADRAMENTO NA SITUAÇÃO QUE MAIS SE ASSEMELHA AO CASO EM CONCRETO - INVALIDEZ PERMANENTE CARACTERIZADA – TRÊS LESÕES - OBSERVÂNCIA À GRADUAÇÃO E AO TETO MÁXIMO DEFINIDO (ART. 3o, II, DA LEI No. 6.194/74) – MAJORAÇÃO DEVIDA PARA R$ 13.500,00 – HONORÁRIOS – VALOR ADEQUADO – MANUTENÇÃO - SENTENÇA REFORMADA EM PARTE – RECURSO PARCIALMENTE PROVIDO.
+O valor do seguro DPVAT deve ser estabelecido com observância ao grau de invalidez registrado no laudo pericial e ao percentual constante na Tabela anexa à legislação, cuja cobertura máxima é de até R$ 13.500,00 para a hipótese de acidente ocorrido após a Lei n. 11.482/2007.
+Para o cálculo do quantum a ser indenizado, é necessário enquadrar a lesão à situação mais similar possível daquelas constantes na Tabela da Lei 11.482/2007.
+Havendo mais de uma sequela, o autor faz jus a ambas, ressalvada a necessidade de verificação individual do grau de repercussão e ao teto máximo indenizatório previsto na Lei no. 6.194/74.
+A quantia definida na sentença para a verba honorária de forma razoável e proporcional não comporta alteração.
+“O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema” (Súmula 568 do STJ).
+Apelação Cível em Ação de Cobrança de Seguro Obrigatório julgada parcialmente procedente, com a condenação da requerida a pagar R$ 8.940,75, atualizados com juros de mora de 1% ao mês a partir da citação e correção monetária pelo INPC a contar da data do acidente, bem como com os honorários fixados em 10% dobre o valor da condenação.
+O apelante aduz que o juízo de origem desconsiderou o limite da tabela anexa à Lei no. 6.194/74 pois a lesão ocorreu no segmento cervical da coluna vertebral, devendo portanto ser aplicado o teto máximo indenizatório para o cálculo, e não os 25% utilizados na sentença. Diz que tem para receber R$ 10.125,00 referente a essa lesão.
+Busca ainda a majoração dos honorários para R$ 2.000,00.
+Contrarrazões no id. 128159852.
+É o relatório.
+O apelante ingressou com Ação de Cobrança de Seguro Obrigatório em razão de acidente de trânsito em 19/01/2020 que resultou em sua invalidez permanente, julgada parcialmente procedente para determinar à apelada o pagamento R$ 8.940,75, acrescidos de juros legais de 1% ao mês a partir da citação e correção monetária pelo INPC a contar da data do ocorrido, e também das custas e honorários advocatícios de 10% sobre o valor da condenação.
+Aduz que o juízo de origem desconsiderou o limite da tabela anexa à Lei no. 6.194/74 pois uma de suas lesões ocorreu na estrutura cervical, devendo portanto ser aplicado o teto máximo indenizatório para o cálculo. Diz que tem para receber R$ 10.125,00 em relação a essa sequela.
+No caso dos autos, a reparação se submete à Lei n. 11. 482/2007, regra adotada no momento do acidente (15/10/2018), que estabelece o limite de R$ 13.500,00, conforme a gravidade da lesão. É necessário calcular a extensão do dano, ou seja, o grau de invalidez dele decorrente. Inclusive o STJ já pacificou a matéria na Súmula 474:
+“A indenização do seguro DPVAT, em caso de invalidez parcial do beneficiário, será paga de forma proporcional ao grau da invalidez” (Súmula 474 do STJ).
+É necessário calcular a extensão do dano, ou seja, o grau de invalidez dele decorrente.
+O apelante foi submetido à perícia médica (id. 128159836), que atestou invalidez permanente média (50%) em membro superior esquerdo, média (50%) em ombro direito e intensa (75%) em segmento cervical da coluna vertebral.
+É mais adequado, nestes autos, o enquadramento da última sequela como “Lesões de órgãos e estruturas crânio-faciais, cervicais, torácicos, abdominais, pélvicos ou retro-peritoneais cursando com prejuízos funcionais não compensáveis, de ordem autonômica, respiratória, cardiovascular, digestiva, excretora ou de qualquer outra espécie, desde que haja comprometimento de função vital”. Dessa forma, a quantificação também é de 100% sobre o teto indenizatório, contudo o autor tem direito a 75% desse montante, ou seja, R$ 10.125,00.
+No que tange à primeira, para “Perda anatômica e/ou funcional completa de um dos membros superiores e/ou de uma das mãos” a quantificação é de 70% sobre o teto indenizatório, porém o apelado faz jus a 50% desse valor, ou seja, R$ 4.725,00.
+Por fim, em relação à segunda sequela, para “Perda completa da mobilidade de um dos ombros, cotovelos, punhos ou dedo polegar” utiliza-se para o cálculo 25% sobre o teto indenizatório, porém o autor tem direito a 50% desse quantum, o que equivale a R$ 1.687,50.
+Por conseguinte, os cálculos totalizam R$ 16.537,50.
+Contudo, é cediço que a Lei no. 6.194/74 estabelece o limite de R$ 13.500,00 (art. 3o, II), que é, portanto, o valor devido ao apelante.
+Com isso, a indenização estipulada na primeira instância comporta majoração para esse valor, com atualização, como mencionado na sentença.
+Nesse sentido:
+APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA DE SEGURO ( DPVAT ) – ALTERAÇÃO DE POLO PASSIVO – TODAS AS SEGURADOS SÃO LEGÍTIMAS PARA QUITAR PAGAMENTO – PRELIMINAR REJEITADA - DUAS LESÕES – CÁLCULO CORRETO - REEMBOLSO DE DESPESAS MÉDICAS - NEXO CAUSAL - DEMONSTRAÇÃO – CORREÇÃO MONETÁRIA – A PARTIR DO EVENTO DANOSO – RECURSO DESPROVIDO. É pacífico o entendimento de que todas as seguradoras que fazem parte do consórcio responsável pelo pagamento das indenizações decorrentes de danos causados por acidente de trânsito são legítimas para quitar a indenização securitária. Comprovada a incapacidade moderada no membro superior direito e no ombro direito, é correta a sentença que estabelece o valor sobre as duas lesões . Restando suficientemente comprovado o nexo causal entre o acidente e a nota fiscal que demonstra o pagamento de “rx” do ombro e “rx” da clavícula bem como a compra de tipoia; portanto, correta a condenação da seguradora no pagamento das despesas médicas (DAMS). A correção monetária se dá desde a data do sinistro. (N.U 0012561-96.2013.8.11.0041, , SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 05/04/2016, Publicado no DJE 12/04/2016)
+Por fim, quando as honorários de sucumbência, o montante definido na sentença para essa verba está nitidamente em conformidade com o entendimento desta Corte, uma vez que os 10% sobre o valor da condenação equivalem a R$ 1.350,00 e são suficientes para recompensar com dignidade e equilíbrio o desempenho do profissional, mas sem gerar-lhe enriquecimento ilícito, bem como ao reconhecimento da importância do advogado para o funcionamento da Justiça.
+A propósito:
+RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT – INVALIDEZ PARCIAL PERMANENTE – INDENIZAÇÃO PROPORCIONAL – BAIXO VALOR DA CAUSA E DA CONDENAÇÃO – CASO CONCRETO QUE IMPÕE A FIXAÇÃO POR APRECIAÇÃO EQUITATIVA - MAJORAÇÃO - ART. 85, §§ 8o E 11, CPC - RECURSO PROVIDO. Em observância aos parâmetros legais que norteiam a matéria, atendidos os critérios da razoabilidade e em prestígio ao exercício da advocacia, impõe-se a fixação dos honorários advocatícios por apreciação equitativa, com fulcro no artigo 85, §8o, do CPC, cuja majoração também atende ao disposto no §11 do mesmo artigo. (N.U 0036568-50.2016.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, GUIOMAR TEODORO BORGES, Quarta Câmara de Direito Privado, Julgado em 31/07/2019, Publicado no DJE 05/08/2019)
+Pelo exposto, dou parcial provimento ao Recurso em razão do entendimento dominante acerca do tema (Súmula no. 568 do STJ) para majorar o valor devido do seguro DPVAT para R$ 13.500,00, atualizados nos termos consignados na sentença.
+Cuiabá, 31 de maio de 2022.
+Des. Rubens de Oliveira Santos Filho
+Relator
