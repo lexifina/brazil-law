@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "c", da CF, interposto por GABER LOPES contra acórdão assim ementado (e-STJ fl. 601):
+APELAÇÃO. PLANO DE SAÚDE COLETIVO POR ADESÃO. PRESCRIÇÃO. PRAZO DECENAL À LUZ DE SUPERVENIENTE JULGAMENTO PROFERIDO PELO C. SUPERIOR TRIBUNAL DE JUSTIÇA. REEMBOLSO DE DESPESAS COM CIRURGIA. Plano de saúde. Inocorrência de prescrição. Pretensão autoral de reembolso de custos médicos hospitalares em razão de cirurgia realizada em hospital não credenciado. Cobertura integral. Impossibilidade. Reembolso das despesas médicos hospitalares que deverá ocorrer utilizando-se como parâmetro os preços praticados por nosocômio integrante da rede credenciada (hospital, médicos e auxiliares), pois caso o tratamento se desse pela rede conveniada, seria de incumbência do plano de saúde arcar com os custos respectivos. Sentença reformada. Recurso parcialmente provido.
+Em suas razões (e-STJ fls. 626/650), a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 12, VI, da Lei n. 9.656/1998, pois (e-STJ fls. 632/648):
+ .. entendeu que não restou demonstrada a situação de urgência e emergência, conforme seria ônus do Recorrente comprovar.
+Todavia, à mesma situação, a Terceira Turma do Superior Tribunal de Justiça, na ocasião do julgamento do Resp n. 1.575.764/SP, fixou entendimento de que é desnecessária a demonstração de tal circunstância  ..
+O Acórdão que julgou a Apelação Cível n. 0009940-79.2017.8.16.0031, proferido pela 8ª Câmara Cível do Tribunal de Justiça do Paraná, que ora se presta como Paradigma, determinou o ressarcimento integral dos valores despendidos pelo beneficiário de plano de saúde, em razão de tratamento médico realizado fora da rede credenciada, porque a companhia não disponibilizou hospital apto na área de abrangência.
+ ..  forçoso concluir que em determinadas moléstias, como o caso do Autor, a urgência ou emergência do tratamento está na própria natureza da doença, ou seja, "in re ipsa", dispensando atestado médico.
+Contrarrazões apresentadas às fls. 659/669 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 603/606):
+Na espécie, não há nenhuma prova a indicar que o médico do autor tenha recomendado a realização da cirurgia no Hospital Israelita Albert Einstein em São Paulo, não evidenciado referido nosocômio seja o único com capacidade técnica no mercado para a execução do procedimento. Também não configurado que os hospitais conveniados ao plano de saúde não dispunham de capacitação técnica para o tratamento preceituado ao apelante.
+Tampouco evidenciada situação de urgência ou emergência. E, nesse tópico, o ônus da prova era do autor.
+Muito embora não se questione a gravidade da doença (neoplasia de próstata fl. 53), não há relatório médico indicativo de urgência ou emergência e o autor, por sua vez, confessa na inicial que realizou o procedimento cirúrgico de forma particular (fl. 03),ou seja, em estabelecimento não credenciado ao plano e fora da área de abrangência contratual.
+Assim, deve ser respeitado o contrato firmado entre as partes, com a escolha de nosocômio credenciado, pois não há como impor à operadora a realização da cirurgia em hospital não conveniado.
+ ..  Por outro lado, não se pode olvidar que a ré, em sede de contestação não indicou hospital conveniado apto para a realização da cirurgia reclamada na inicial, e sim para o procedimento convencional (fls. 87).
+Não obstante, o autor é beneficiário do plano de saúde, operado pela ré e o tratamento indicado tem cobertura contratual.
+ ..  Dessa forma, é obrigação contratual da ré cobrir o procedimento cirúrgico prescrito pelo médico do autor em hospital conveniado.
+Portanto, deve arcar com o pagamento das despesas médico-hospitalares, considerando-se os preços praticados pelos profissionais (hospital, médicos e auxiliares) credenciados a ser apurado em liquidação de sentença, pois caso o tratamento se desse pela rede conveniada seria de incumbência do plano de saúde arcar com os custos respectivos.
+ .. DOU PARCIAL PROVIMENTO ao recurso, para julgar parcialmente procedente o pleito, condenando a ré a arcar com o pagamento das despesas médico-hospitalares, com a cirurgia prescrita pelo médico do autor, praticados pelos profissionais(hospital, médicos e auxiliares) credenciados, considerando-se os preços da tabela vigente na data do desembolso de cada despesa, com incidência de correção monetária a partir da mesma data, bem como juros de mora a partir da citação.
+O entendimento está de acordo com a jurisprudência do STJ, segundo a qual se admite "o reembolso de despesas médico-hospitalares realizadas pelo beneficiário do plano de saúde, com internação em estabelecimento não conveniado, em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada), limitado aos preços e tabelas efetivamente contratados com a operadora de saúde" (AgInt no AREsp 1742335/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021). Confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RITO ORDINÁRIO. SEGURO SAÚDE. REEMBOLSO. LIMITAÇÃO À TABELA DO PLANO CONTRATADO. POSSIBILIDADE. INCIDÊNCIA. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta Corte Superior possui jurisprudência consolidada de que é lícita a cláusula que limita o valor de reembolso de despesas médicas suportadas pelo beneficiário em conformidade com a tabela da administradora do plano de saúde, restrição válida inclusive nos casos de urgência e emergência.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.799.007/RS, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021.)
+Destaca-se que nos Recursos Especiais n. 1.575.764/SP en. 1.760.955/SP apontados como paradigma os valores foram limitados à tabela praticada pelo plano de saúde.
+Incide, portanto, a Súmula n. 83 do STJ.
+Por fim,a tese de urgência in re ipsaconstitui indevida inovação recursal em sede especial, o que a jurisprudência desta Corte Superior não admite, até porque implica ausência de prequestionamento. Sob tal aspecto:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA DEMANDADA.
+1. Consoante se observa dos embargos declaratórios opostos em face do acórdão estadual ora recorrido, a agravante não ventilou a tese, agora defendida, de novidade da prova. A matéria, portanto, não foi objeto de apreciação pela instância ordinária, quando do exame do recurso integrativo, carecendo do devido prequestionamento e constituindo em indevida inovação recursal.
+2. Incide, na hipótese, o enunciado da Súmula 7 do STJ, porquanto a Corte Estadual, mediante o exame de provas e contratos, reconheceu a vinculação da agravante como integrante da associação de moradores.
+3. É incabível a majoração dos honorários em grau recursal, a teor do art. 85, §§ 11, do CPC, quando a instância especial fora inaugurada em momento anterior à vigência da nova norma. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AREsp n. 366.050/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
