@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por Unimed Nordeste RS Sociedade Cooperativa de Serviços Médicos Ltda.desafiando decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneasae c, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fl. 1.010):
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. REDUÇÃO DO VALOR DA MENSALIDADE. CONCESSÃO EM ANTECIPAÇÃO DE TUTELA. POSTERIOR REVOGAÇÃO. AUSÊNCIA DE MORA. NÃO INCIDÊNCIA DOS JUROS MORATÓRIOS.
+I. Preliminar. Não conhecimento da impugnação. Não tendo a questão do não conhecimento da impugnação, por não terem os impugnantes apresentado o cálculo do valor que entendem devido, sido objeto da decisão agravada, não pode ser analisada por esta Corte, sob pena de supressão de um grau de jurisdição. Ademais, verifica-se que os impugnantes apresentaram emenda à petição inicial da impugnação, na qual apontaram o valor que entendem devido. Preliminar rejeitada.
+II. Em se tratando de valores que deixaram de ser pagos por conta de antecipação de tutela, posteriormente revogada, deverão ser acrescidos unicamente de correção monetária pelo IGP-M, a partir da data do vencimento de cada mensalidade, não havendo a incidência de juros moratórios porque os agravantes não estão constituídos em mora. AGRAVO PROVIDO.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 1.049-1.056).
+Nas razões do recurso especial, a recorrente alegou dissídio jurisprudencial e ofensa aos arts.302, 489, § 1º, IV, 520, II, 1.022, II, do CPC/2015; 397, parágrafo único, do CC/2002.
+Arguiu nulidade por ausência de fundamentação e negativa de prestação jurisdicional.
+Sustentou a possibilidade de incidência de juros de mora sobre os valores a serem restituídos em virtude de tutela antecipada posteriormente revogada. Enfatizou que a parte recorrida tem o dever de complementar os valores recolhidos a menor em cada prestação durante o período em que perduraram os efeitos da decisão provisória.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.104-1.110).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência das Súmulas n. 7 do STJ, bem como pela ausência de ofensa aos arts. 489 e 1.022 do CPC/2015.
+Irresignada, arecorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls.1.160-1.164 (e-STJ).
+Brevemente relatado, decido.
+Não se reconhece a apontada violação do art. 1.022, incisos I e II, do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque resolveu a celeuma em sentido contrário ao postulado pela recorrente.
+De acordo com a jurisprudência desta Casa, o magistrado não está obrigado a se manifestar acerca de todos os fundamentos assinalados pelas partes, quando já houver decidido a controvérsia com base em outras justificativas.
+Assinala-se que o acórdão recorrido expressamente enfrentou todas as questões suscitadas pelo recorrente, mormente ao que se referea incidência de juros de mora sobre os valores devolvidos, conforme se colhe dos excertos da decisão recorrida (e-STJ, fls. 1.010-1.021):
+Pois bem. Primeiramente, importante ressaltar que a insurgência recursal está adstrita apenas a possibilidade de incidência dos juros moratórios. E, neste ponto, adianto que assiste razão aos agravantes. Acontece que em se tratando de valores que deixaram de ser pagos por conta antecipação de tutela, posteriormente revogada, deverão ser acrescidos unicamente de correção monetária pelo IGP-M, a partir da data do vencimento de cada mensalidade, não havendo a incidência de juros moratórios, porque os agravantes não agiram de má-fé e não estão em mora.
+(..)
+Ante o exposto, rejeito a preliminar contrarrecursal e dou provimento ao agravo de instrumento para afastar a incidência dos juros moratórios aos valores devidos pelos agravantes.
+Observa-se que a Corte de origem julgou a demanda em conformidade com o entendimento do STJ no sentido deser incabível a incidência dejurosde mora sobre os valores devolvidos em virtude de antecipação de tutela posteriormenterevogada. Incidência da Súmula n. 83 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE MORA. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+SÚMULA N. 7/STJ.REVOGAÇÃODETUTELA ANTECIPADA.OBRIGAÇÃO DE PAGAR VALORES.JUROSMORATÓRIOS. DESCABIMENTO. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o julgamento de questões cujo exame imprescinde do revolvimento do acervo fático-probatório dos autos.
+1.1. Diante da expressa afirmação contida no acórdão de que o agravado não agiu de má-fé e não se encontra em mora, a revisão desse entendimento esbarra no óbice da Súmula n. 7/STJ.
+2. A jurisprudência do STJ consolidou entendimento no sentido de que a obrigação decorrente darevogaçãodo provimento antecipatório não permite reconhecer que a parte se encontra em mora com eficácia "ex tunc", "posto que não há ato voluntário ou omissão atribuída ao beneficiário que tenha ensejado o atraso na devolução dos referidos valores" (AgInt nos EDcl no AREsp 1336912/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/09/2019, DJe 18/09/2019).
+2.1. "Não havendo fato ou omissão imputável ao devedor, não incorre este em mora" (CC/2002, art. 396).
+2.2. "Para caracterização ou permanência em mora, é necessário que haja exigibilidade da prestação e inexecução culposa. (..) Ademais, os valores recebidos precariamente, como no caso, por envolver execução provisória, são legítimos enquanto vigorar o título judicial antecipatório" (AgInt no AREsp 1436079/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/5/2019, DJe 31/5/2019).
+2.3. No caso concreto, o agravado efetuou o pagamento a menor das mensalidades de seu plano de saúde porque amparado por decisão judicial proferida em sede de antecipação de tutela. Em tais circunstâncias, tem-se por aplicável o entendimento firmado nesta Corte Superior, segundo o qual "é incabível a incidência dejurosmoratórios sobre valores a serem devolvidos em virtude derevogaçãode decisão que antecipou os efeitos da tutela por não haver, no caso, fato ou omissão imputável ao autor da ação de revisão de benefício" (EDcl no AgInt nos EDcl no REsp 166.4475/SC, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 25/5/2020, DJe 28/5/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.938.355/RS. Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/3/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL (2015). AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. ALEGADO CERCEAMENTO DE DEFESA/NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO DEMONSTRADO. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA-ALIMENTAÇÃO RECEBIDO EM PROVIMENTO JURISDICIONAL PROVISÓRIO POSTERIORMENTEREVOGADO.DEVOLUÇÃO. CABIMENTO. PRESCINDIBILIDADE DE NOVA AÇÃO. INCIDÊNCIA DEJUROSDE MORA. INVIABILIDADE. NÃO HÁ COMO RECONHECER FATO OU OMISSÃO IMPUTÁVEL AOS DEVEDORES. DUPLA CONFORMIDADE. NÃO DEMONSTRADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.172.199/RS. Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJE 21/8/2020).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - PREVIDÊNCIA PRIVADA - COMPLEMENTAÇÃO DE APOSENTADORIA - DEVOLUÇÃO DE VALORES RECEBIDOS EM RAZÃO DE PROVIMENTO JUDICIAL POSTERIORMENTEREVOGADO- ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15.
+1.1. Na hipótese, verifica-se omissão no acórdão embargado quanto ao pleito de não incidência dejurosmoratórios sobre valores a serem devolvidos em virtude darevogaçãoda decisão que antecipou os efeitos da tutela.
+1.2 É incabível a incidência dejurosmoratórios sobre valores a serem devolvidos em virtude derevogaçãode decisão que antecipou os efeitos da tutela por não haver, no caso, fato ou omissão imputável ao autor da ação de revisão de benefício.
+2. É inviável a análise de tese alegada apenas em embargos de declaração, por se caracterizar inovação recursal. Ademais, consoante a remansosa jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão não dispensa o prequestionamento. Precedentes.
+2. Embargos de declaração acolhidos parcialmente para sanar a omissão apontada.
+(EDcl no AgInt nos EDcl no REsp n. 1.664.475/SC. Relator Ministro Marco Buzzi, Quarta Turma, DJe 28/5/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.REVOGAÇÃODETUTELA ANTECIPADA.DEVOLUÇÃO DE VALORES RECEBIDOS.JUROSMORATÓRIOS. NÃO INCIDÊNCIA. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Esta Corte firmou entendimento de ser incabível a incidência dejurosde mora sobre os valores devolvidos em virtude de antecipação de tutela posteriormenterevogada,por inexistir, no caso, fato ou omissão imputável ao autor da ação de revisão de benefício previdenciário. Incidência da Súmula n. 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.558.621/RS. Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 13/2/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.2. REDUÇÃO DO VALOR DA MENSALIDADE. CONCESSÃO EM ANTECIPAÇÃO DE TUTELA. POSTERIOR REVOGAÇÃO. AUSÊNCIA DE MORA. NÃO INCIDÊNCIA DOS JUROS MORATÓRIOS. SÚMULA N. 83 DO STJ.3. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
