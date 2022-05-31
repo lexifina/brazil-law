@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de ERICA STEFANIE ALVES DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 1500176-45.2020.8.26.0537.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância,às penas de 2 (dois) anos e 4 (quatro) meses de reclusão e ao pagamento de 11 (onze) dias-multa, em regime inicial fechado, pela prática do delito constante do art. 155, § 4º, inciso IV, caput, do Código Penal (fls. 164-172).
+Inconformada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, em v. acórdão assim ementado:
+"APELAÇÃO FURTO QUALIFICADO - Materialidade e autoria delitivas nitidamente demonstrada Crime impossível Não ocorrência O fato de haver câmeras de vigilância ou funcionários não acarreta em ineficácia absoluta do meio Compensação reincidência e confissão (Erica) Impossibilidade Regimes fixados mantidos - Recurso desprovido." (fl. 224).
+Dai o presentewrit, onde a impetrante alega, em síntese, a ocorrência de constrangimentoilegal na negativa de compensação integral entre a confissão e a reincidência, bem como fixação do regime mais gravoso e não substituição da pena corporal por restritiva de direitos.
+Requer, assim, a concessão da ordem para " ..  compensar integralmente a agravante da reincidência com a atenuante da confissão espontânea e para fixar o regime inicial aberto ou, alternativamente, o semiaberto com fundamento na Súmula nº 269 desta Corte Superior para o início do cumprimento da pena privativa de liberdade e substitui-la por restritivas de direitos." (fl. 14).
+O pedido liminar foi indeferido às fls. 246-247.
+Informações prestadas às fls. 251-252.
+O Ministério Público Federal, às fls. 277-281, manifestou-se pelo não conhecimento dowrite concessão da ordem de oficio, em parecer assim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. FURTO QUALIFICADO. SENTENÇA CONDENATÓRIA A 2 ANOS E 4 MESES DE RECLUSÃO RATIFICADA EM SEGUNDO GRAU. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA SIMPLES.AUSÊNCIA DE PREPONDERÂNCIA DA AGRAVANTE SOBRE A ATENUANTE.EXEGESE DO ARTIGO 67 DO CP. REGIME INICIAL FECHADO EQUIVOCADAMENTE FIXADO. POSSIBILIDADE DE REGIME PRISIONAL INICIAL SEMIABERTO. PARECER POR NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO E CONCESSÃO DE ORDEM DE OFÍCIO SEGUNDO HODIERNA JURISPRUDÊNCIA PÁTRIA." (fl. 277).
+É o breve relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte de origem manteve o apenamento de primeiro grau em decisão assim motivada:
+"Na primeira etapa, o magistrado sentenciante fixou a pena-base no mínimo.
+Em seguida, presentes as atenuantes da menoridade (ISABELA) e confissão (ambas) e a agravante da reincidência em relação a ERICA (fls. 103), exasperou a sanção desta última ré na fração de 1/6.
+Aqui, ao contrário do que alegado, a reincidência, nos termos do art. 67 do CP, é preponderância, não havendo que se falar em compensação entre tais circunstâncias.
+A confissão, além de neste caso ser usada mais para justificar o crime do que para demonstrar arrependimento, tal atenuante sucumbe frente à reincidência, circunstância que, conforme se depreende da leitura do artigo 67 do Código Penal, objetivamente, é circunstância preponderante no concurso de agravantes e atenuantes genéricas, excetuando-se às ligadas aos motivos determinantes do crime ou personalidade do agente. Contudo, não é o caso da confissão, pois se trata de circunstância posterior e se dá em razão da conveniência do réu no processo." (fl. 229, grfei).
+Ocorre que, interpretando o art. 67 do Código Penal, o Superior Tribunal de Justiça entende que a atenuante da confissão e a agravante da reincidência são igualmente preponderantes, razão pela qual devem ser compensadas, via de regra.
+Ademais, a Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT, firmou entendimento no sentido de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência", nos termos da seguinte ementa:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido" (REsp n. 1341370/MT, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013).
+Desse modo, evidenciada flagrante ilegalidade, a compensação integral entre as referidas circunstâncias é medida que se impõe, redimensionando a reprimenda final dapaciente, com a compensação entre a atenuante da confissão e a agravante reincidência, para 2 (dois)anos de reclusão, mais pagamento de 10 (dez)dias-multa, mantidos os demais termos da condenação.
+Quanto ao regime prisional, fixo o semiabertopara início de cumprimento da pena, nos termos do Enunciado da Súmula n. 269 desta Corte Superior que estabelece:"É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Por fim, inviável a substituição da pena corporal por restritiva de direitos em razão da reincidência ostentada e pornão se mostrar socialmente recomendável a medida, nos termos do art.44, incisos II e III, do Código Penal.
+Ante o exposto, não conheço do presente habeas corpus.
+Contudo, concedo a ordem, de ofício, para compensar integralmente a incidência de atenuante da confissãocom a agravante da reincidência, redimensionando a pena dapaciente para 2anos de reclusão, em regime semiaberto, mais pagamento de 10 dias-multa, mantidos os demais termos da condenação.
+P. e I.
