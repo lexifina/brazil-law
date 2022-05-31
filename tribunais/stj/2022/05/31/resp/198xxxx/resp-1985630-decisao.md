@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea do permissivo constitucional contra acórdão assim ementado (fl. 229):
+Apelação Criminal - Tráfico Ilícito de Entorpecentes. Materialidade delitiva e autoria demonstradas - Prova Depoimentos de policiais civis - Validade - Inexistência de motivos para incriminarem o réu injustamente.
+PENAS corretamente fixadas
+RECURSO DESPROVIDO.
+O recorrente foi condenado às penas de 5 anos de reclusão, em regime fechado, e 500 dias-multa, por ofensa ao art. 33, caput, da Lei nº 11.343/2006.
+Neste recurso, aponta ofensa aos arts. 44 e 33, § 2º, "b", do Código Penal e 33, § 4º, da Lei de Drogas.Pugna, ao final, pelo reconhecimento do tráfico privilegiado e consequente fixação do regime aberto ou semiaberto, com substituição da pena corporal por restritiva de direitos.
+Manifestou-se o Ministério Público Federal pelo provimento recursal.
+Acerca da aplicação da minorante prevista na Lei de Drogas, assim se manifestou o Tribunal local (fls. 232-233):
+ .. Na terceira fase, não era mesmo hipótese de reconhecimento do redutor previsto no art. 33, § 4º, da Lei 11.343/06, pois, como já constou na r. sentença, pela própria confissão do acusado, não se tratava da prática de um comércio ilícito eventual, pois ele mesmo admitiu que estava traficando há algumas semanas, inclusive informando detalhes sobre o valor de cada entorpecente.
+ ..
+É de se considerar que a quantidade de entorpecentestambém demonstra a personalidade distorcida do acusado que, nem sequer se preocupava com o mal que iriam causar aos seus semelhantes, vendendo cocaína e maconha.
+ ..
+Assim, além de a quantidade de entorpecentes demonstrar a dedicação do recorrente ao comércio espúrio, ante o terrível mal que ele causava à sociedade antes de ser preso, não era mesmo caso de concessão do redutor previsto no § 4º, do art. 33, da Lei nº 11.343/2006. ..
+Como visto, as instâncias ordinárias denegaram o benefício em apreço, uma vez que o réu admitiu que traficava há algumas semanas, além da quantidade de entorpecentes apreendida em seu poder.
+Contudo, como bem observado pelo representante do Ministério Público Federal, "a quantidade encontrada em poder do réu (47,6gramas de maconha e 12,5 gramas de cocaína) não se revela expressiva a ponto de obstar o reconhecimento da minorante. De igual modo, a alegação extrajudicial noticiando que estava traficando no local há algum tempo não é suficiente para, por si só, concluir cabalmente que ele se dedica a atividades criminosas, notadamente em se tratando de réu primário" (fl. 288).
+No sentido acima: "O fato de a acusada haverconfessadoque estava traficando drogas há, aproximadamente, 15 dias, em razão de dificuldades financeiras, não autoriza, por si só, concluir que ela seria dedicada a atividades criminosas; primeiro, porque o período de duas semanas não é tão extenso a ponto de, isoladamente, levar à conclusão de que alguém se dedica, com certa frequência e anterioridade, aotráfico de drogas; segundo, porque não há menção a nenhum outro elemento concreto dos autos a evidenciar eventual propensão da paciente à prática do narcotráfico, tampouco apreensão de apetrechos destinados à traficância habitual, tais como balança de precisão ou anotações relativas àcontabilidadedotráfico de drogas(HC n. 616.045/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020).
+Ademais, trata-se de réu primário,com bons antecedentes, além de possuir menoridade relativa (fl. 232), sendo que o fato de confessar- extrajudicialmente-que traficava há algumas semanas, não evidencia, de maneira contundente, que se dedicava a atividades criminosas.
+De igual modo, a quantidade de entorpecentes- 47,6 gramas de maconha e 12,5 gramas de cocaína (fl. 231)- não se mostra excessiva.
+Passa-se, assim, ao redimensionamento das penas.
+Como relatado alhures, fixada a pena definitiva do recorrente no total de 5 anos de reclusão e 500 dias-multa, aplica-se o redutor previsto na Lei de Drogas no seu patamar máximo (2/3), diante da inexpressiva quantidade de entorpecentes e não comprovação de sua dedicação às atividades ilícitas, arbitrando-a em 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Pelos mesmos fundamentos, deve ser alterado o regime inicial de cumprimento da pena para o abertoe, ainda, substituída a pena corporal por restritiva de direitos. Nesses termos: "Reduzida a reprimenda, e tendo em vista aprimariedadedo agente e a fixação da pena-base no mínimo legal em virtude da análise favorável das circunstâncias judiciais do art. 59 do Código Penal, é cabível na espécie a fixação doregime aberto,bem como asubstituiçãoda pena privativa de liberdade por restritivas de direitos"(REsp n. 1.986.321/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 8/4/2022).
+Ante o exposto, dou provimento ao recurso especial para fixar a pena do recorrente em1 ano e 8 meses de reclusão, e 166 dias-multa, determinar o regime inicial aberto e substituir a pena corporal por restritivas de direitos, a serem estabelecidas pelo juízo da execução.
+Publique-se.
+Intimem-se.
