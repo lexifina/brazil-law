@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER (BRASIL) S. A.  SANTANDER , com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paraibano, assim ementado:
+CONSUMIDOR. AÇÃO DE COBRANÇA. SENTENÇA DE EXTINÇÃO COM JULGAMENTO DO MÉRITO. FUNDAMENTO DE QUE O ACESSÓRIO SEGUE A SORTE DO PRINCIPAL. APELAÇÃO. PEDIDO DE DEVOLUÇÃO DOS VALORES OBTIDOS PELA INSTITUIÇÃO FINANCEIRA À TÍTULO DE JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS BANCÁRIAS DECLARADAS ILEGAIS EM AÇÃO ANTERIOR. DEVER DE RESTITUIÇÃO SIMPLES DO INDÉBITO. PROVIMENTO PARCIAL DO APELO.1. Declarada por sentença a ilegalidade de tarifas bancárias em ação anterior, com determinação de restituição dos valores pagos, é devida, também, a repetição de indébito em relação aos encargos contratuais que incidiram sobre as aludidas tarifas durante o período contratual. 2. A devolução somente poderá ser determinada na forma simples, diante da não demonstração de malícia da instituição financeira, o que não restou demonstrado nos autos. 3. Recurso parcialmente provido (e-STJ, fl. 209).
+Opostos embargos de declaração por SANTANDER, foram rejeitados (e-STJ, fls. 240/252).
+Nas razões do presente recurso, SANTANDER alegou violação dos arts. 1.022 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) o acórdão recorrido foi omisso quanto às alegações de que (i) os juros constituíram pedidos formulados na ação inicial, ainda que por indução (art. 337, §§1º, 2º e 4º do NCPC); (ii) não houve atendimento ao art. 323 do CC; (iii) a coisa julgada impõe o reconhecimento da imutabilidade das questões deduzidas como também das que poderiam ter sido deduzidas; e (iv) não incidiram juros no contrato de arrendamento mercantil, dada a natureza da referida modalidade contratual, pelo que indevida a pretendida restituição; e (2) opera-se a coisa julgada sobre a restituição de juros remuneratórios incidentes sobre tarifas já declaradas ilegais (e-STJ, fls. 255/271).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar na parte em que conhecido.
+(1) Da violação do art. 1.022 do NCPC
+No presente recurso, SANTANDER alegou a violação do art. 1.022, do NCPC em virtude da omissão quanto às alegações de que (i) os juros constituíram pedidos formulados na ação inicial, ainda que por indução (art. 337, §§1º, 2º e 4º do NCPC); (ii) não houve atendimento ao art. 323 do CC; (iii) a coisa julgada impõe o reconhecimento da imutabilidade das questões deduzidas como também das que poderiam ter sido deduzidas; e (iv) não incidiram juros no contrato de arrendamento mercantil, dada a natureza da referida modalidade contratual, pelo que indevida a pretendida restituição.
+Com razão.
+De fato, em seus embargos de declaração SANTANDER requereu a manifestação do Tribunal estadual quanto às teses de que (i) os juros constituíram pedidos formulados na ação inicial, ainda que por indução (art. 337, §§1º, 2º e 4º do NCPC); (ii) não houve atendimento ao art. 323 do CC; (iii) a coisa julgada impõe o reconhecimento da imutabilidade das questões deduzidas como também das que poderiam ter sido deduzidas; e (iv) não incidiram juros no contrato de arrendamento mercantil, dada a natureza da referida modalidade contratual, pelo que indevida a pretendida restituição.
+Da acurada análise do acórdão que julgou os aclaratórios verifica-se que o Tribunal estadual não tratou sobre o tema visto que apenas consignou:
+Nos termos do acórdão embargado, especificamente no id. 6658485, restou expressamente consignado o motivo da restituição dos juros incidentes sobre as tarifas declaradas ilegais em ação anterior. Veja-se:
+"No caso em análise, tenho que assiste razão ao recorrente em pleitear a restituição dos juros incidentes sobre as tarifas declaradas nulas em ação anterior.
+Com efeito, no contrato de adesão, os juros remuneratórios obedecem a regra de que o acessório segue a sorte do principal. In casu, observa-se que a cobrança de certos valores contratualmente previstos foi reputada ilegal em sentença contida no processo citado, proferida em Juizado Especial.
+Conforme o disposto no art. 184 do Código Civil leciona que "respeitada a intenção das partes, a invalidade parcial de um negócio jurídico não o prejudicará na parte válida, se esta for separável; a invalidade da obrigação principal implica a das obrigações acessórias, mas a destas não induz a da obrigação principal".
+Dessa forma, não há como existir cobrança de juros sobre as tarifas se estas deixaram de existir.
+Nesse contexto, considerando que sobre estes valores incidiram juros remuneratórios no percentual previsto no contrato, vez que referidas despesas não foram cobradas de uma só vez no início da relação, mas sim diluídas nas parcelas mensais a cargo do consumidor por integrarem o Custo Efetivo Total (CET) do contrato, a restituição de tais encargos deveria ser acompanhada dos juros remuneratórios sobre elas incidente, contabilizando-se que a data de incidência de tais juros flui do início ao fim das prestações pagas pelo consumidor.". Grifei.
+Desta forma, verifica-se que não há omissão, contradição ou obscuridade a ser sanada no acórdão, eis que a controvérsia se limitava em analisar a devolução dos reflexos (juros) que a cobrança das tarifas declaradas abusivas em ação anterior ocasionaram neste contrato, circunstância que restou enfrentada no acórdão (e-STJ, fls. 244/245).
+O tema também não foi tratado no acórdão de e-STJ, fls. 207/233.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal estadual a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.932.995/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/02/2022, DJe 16/02/2022)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao Tribunal Paraibano para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. FINANCIAMENTO. JUROS REMUNERATÓRIOS. TARIFAS ILEGAIS. ART. 1.022 DO NCPC. OMISSÃO QUANTO À ANÁLISE DE TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. RETORNO DOS AUTOS PARA JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
