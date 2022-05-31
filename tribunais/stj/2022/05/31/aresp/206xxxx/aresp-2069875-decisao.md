@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência dasSúmulasn. 7 do STJ e 283do STF (e-STJ fls. 372/375).
+O acórdão recorrido está assim ementado (e-STJ fl. 310):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. EMBARGOS À EXECUÇÃO. DECLARAÇÃO DE INEXISTÊNCIA DA DÍVIDA. DESCABIMENTO. BOA-FÉ OBJETIVA.
+1. Embora o comportamento da instituição financeira, ao apontar como devido valor inferior ao avençado, possa ter criado, inicialmente, a expectativa de quitação da parcela, tal comportamento não pode ser interpretado como renúncia da credora ao valor excedente. Trata-se de expectativa que não pode ser tomada por legítima, na medida em que a boa-fé objetiva, à luz do disposto no artigo 422 do Código Civil, impõe a ambos os contratantes o dever de recíproca cooperação a fim de se alcançar o fim almejado pelo contrato.
+2. Em sendo os valores indicados pela credora substancialmente e evidentemente inferiores àqueles previstos no pacto - e mesmo incompatíveis com o seu comportamento anterior -, incumbia à devedora, até mesmo para o fim de mitigar o seu prejuízo com o eventual acréscimo de encargos de mora - em atenção ao já consagrado pela doutrina e jurisprudência duty to mitigate the loss -, alertar a instituição financeira acerca do referido descompasso. APELAÇÃO DESPROVIDA.
+No recurso especial (e-STJ fls. 320/330), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial,ofensa ao art. 422 do CC/2002, sustentando, em síntese, a inaplicabilidade da teoria doduty to mitigate the loss.
+Segundo argumenta, ficou comprovada "a justa expectativa e legitima confiança no fato do devedor pagar as parcelas exatamente conforme informado pela credora por vinte e cinco meses, ou seja, por mais de dois anos" (e-STJ fl. 326).
+No agravo (e-STJ fls. 385/389), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 395/409).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado(e-STJ fls. 307/309):
+Na hipótese em tela, contudo, entendo que o erro cometido pelo preposto da instituição financeira - embora possa ter criado, inicialmente, a expectativa de quitação da parcela -não pode ser interpretado como renúncia da credora ao valor excedente. A expectativa, in casu, não pode ser tomada por legítima, na medida em que a boa-fé objetiva, à luz do disposto no artigo 422 do Código Civil1, impõe a ambos os contratantes o dever de recíproca cooperação a fim de se alcançar o fim almejado pelo contrato.
+(..)
+Com efeito, em sendo os valores indicados pela credora substancialmente e evidentemente inferiores àqueles previstos no pacto - e mesmo incompatíveis com o seu comportamento anterior, porquanto o equívoco na apuração do valor devido passou a ocorrer apenas a partir da 15ª parcela do contrato -, incumbia à devedora, até mesmo para o fim de mitigar o seu prejuízo com o eventual acréscimo de encargos de mora - em atenção ao já consagrado pela doutrina e jurisprudência duty to mitigate the loss -, alertar a instituição financeira acerca do referido descompasso. E, em não o fazendo oportunamente - o que, repito, lhe era plenamente possível, na medida em que, conforme referido pelo juízo a quo, se trata de empresa de considerável porte -, não poderá se escusar da obrigação, uma vez constatado, a tempo, o erro pela instituição
+Para alterar os fundamentos acima transcritos e reconhecer a inaplicabilidade da teoria do duty to mitigate the loss, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
