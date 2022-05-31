@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por RUMO MALHA SUL S.Aem face de decisão proferida peloTribunal de Justiça do Estado do Rio Grande do Sul, que negou admissibilidade arecurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. OBRIGAÇÃO DE FAZER. PRETENSÃO INDENIZATÓRIA. EXTINÇÃO DO PROCESSO. INDEFERIMENTO DA INICIAL. PEDIDO GENÉRICO. QUANTIFICAÇÃO DOS DANOS. INDIVIDUALIZAÇÃO FÁTICA DA ORIGEM DO PREJUÍZO. DIALETICIDADE RECURSAL.
+1. Não prospera a alegação contrarrecursal de inépcia por ausência de dialeticidade entre as razões de apelação e a sentença combatida, visto que a ocasional repetitividade dos argumentos oferecidos pela recorrente, agora em sede de apelo, decorre da temática da pretensão inicial em cotejo com o conteúdo da decisão ora combatida, pois relacionados aos requisitos da petição inicial, isto é, matéria eminentemente de direito.
+2. O Código de Processo Civil estabelece, como regra, que o pedido inicial deve ser certo e determinado, ressalvando as hipóteses de pedido genérico quando não for possível determinar, desde logo, as consequências do ato ou do fato ilícito, sendo autorizado, nessa situação, a eventual condenação do réu ao pagamento de quantia ilíquida que, a requerimento do interessado, será objeto de posterior liquidação.
+3. Caso em que foram indicados os elementos fáticos que permitirão, no decorrer do processo, a adequada quantificação do prejuízo patrimonial a partir de sua origem, quais sejam: queda dos contrapesos da ponte, deixando a mesma em uma posição fixa, sem possibilidade de içamento do seu vão móvel, que permitiria a passagem de embarcações pelo local; não funcionamento do vão móvel da ponte, de forma contínua e ininterrupta; impedimento de dar andamento ao negócio de transporte e atender às demandas de clientes, perda da oportunidade de fazer o transporte do minério; redução patrimonial pela impossibilidade de operar no local.
+4. Segundo o art. 292, § 3º, do CPC/15, a atribuição de valor da causa que, evidentemente, não corresponda ao conteúdo patrimonial da ação deve ser corrigida pelo juiz, inclusive de ofício, por arbitramento, sem que tal justifique o indeferimento da inicial.
+5. Sentença de indeferimento da inicial na origem.
+APELAÇÃO PROVIDA.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base nas alíneas "a" dopermissivo constitucional, orecorrente aponta violação aos arts. 324, § 1º, II, 489, III e IV, e 1022, I e II, do CPC, sob os argumentos de queo Tribunal de origem não sanou as omissões apontadas nos embargos de declaração, bem como concluiu pela possibilidade da postulação de pedido genérico, uma vez que, embora a recorrida não tenha estimado de forma precisa os danos que alicerçam seus pedidos indenizatórios, apontou precisamente os fatos que dão origem a tais pedidos.
+Para tanto sustenta quea possibilidade de realização de pedido genérico demanda situação de extrema dificuldade de mensuração do quantum, ou a necessidade de realização de cálculos contábeis complexos ou prévia prova pericial.
+Aduz que "No caso em tela, evidente que a mensuração do quantum dos supostos prejuízos sofridos não se apresenta extremamente difícil, ou depende de complexos cálculos ou produção de prova pericial. O que se visualiza no caso em apreço é a mera renitência da Recorrida em comprovar a existência de obrigações, bem como informar quais não poderão ser cumpridas em razão da suposta inoperância do vão". (fl. 94)
+A inadmissão do recurso especial se fez à consideração de que não houve a alegada afronta aos arts. 489 e 1022 do CPC, bem como incide naespécie os óbices sumulares 7 e 83do STJ.
+Nas razões de agravo postula o processamento do recurso especial hajavista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+Sem razão a parte recorrente quanto à alegada violação aos arts. 489 e 1.022 do CPC, sob a alegação de que o Tribunal de origem não entregou a devida prestação jurisdicional ao julgar os embargos de declaração.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC.
+No que diz respeito à alegada violação ao artigo 324,§ 1º, II, do CPC, o Tribunal de origem, soberano nos elementos probatórios dos autos, concluiu pela possibilidade do pedido genérico, consignando expressamente que embora a recorrida não tenha estimado de forma precisa os danos que alicerçam seus pedidos indenizatórios, apontou precisamente os fatos que dão origem a tais pedidos.
+A propósito, os seguintes trechos do acórdão recorrido:
+(..)
+No caso em tela, embora a parte autora apelante não tenha estimado de forma precisa os danos que alicerçam seus pedidos indenizatórios, apontou precisamente os fatos que dão origem a tais pedidos, a saber:
+(..)
+Assim, foram indicados os elementos fáticos que permitirão, no decorrer do processo, a adequada quantificação do prejuízo patrimonial a partir de sua origem, quais sejam: queda dos contrapesos da ponte, deixando a mesma em uma posição fixa, sem possibilidade de içamento do seu vão móvel, que permitiria a passagem de embarcações pelo local; não funcionamento do vão móvel da ponte, de forma contínua e ininterrupta; impedimento de dar andamento ao negócio de transporte e atender às demandas de clientes, perda da oportunidade de fazer o transporte do minério; redução patrimonial pela impossibilidade de operar no local.
+Com efeito, embora não quantificados os danos, inclusive porque necessária a instrução do feito para aquilatar a dimensão do eventual prejuízo, a parte autora apresentou devidamente individualizada a sua origem, conforme acima referido.
+Nesse contexto, observa-se que o acórdão recorrido baseou-se em fatos e provas, de modo que,a alteração das conclusões adotadas pela Corte de origemconforme a pretensão recursal, demandaria, necessariamente, novo exame do acervofático-probatório constante dos autos, providência vedada em recursoespecial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022 do CPC. INEXISTÊNCIA. PEDIDO GENÉRICO. REVISÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO E SUFICIENTE DO ACÓRDÃO DE ORIGEM. INCIDÊNCIA DA SÚMULA 283/STF.
+1. Não merece prosperar a tese de violação dos arts. 489, § 1º, e 1.022 do CPC, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões suscitadas pela parte recorrente.
+2. O acórdão combatido rechaçou o amoldamento da hipótese à exceção disposta no inciso II do § 1º do artigo 324 do Código de Processo Civil. Assim, atestar a correção desse entendimento, mediante avaliação da efetiva inviabilidade de quantificação do valor indenizatório supostamente devido, encontra óbice na Súmula n. 7/STJ.
+3. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.799.848/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 16/6/2021.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. PRETENSÃO DE INDENIZAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PEDIDO GENÉRICO. ACÓRDÃOBASEADO NOS FATOS E PROVAS DOS AUTOS. REVISÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
