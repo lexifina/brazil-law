@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por NOBRE SEGURADORA DO BRASIL S.A, contra decisão que negou seguimento a recurso especial, sob os seguintes fundamentos (fls. 991-992, e-STJ): incidência das Súmulas 7/STJ e 83/STJ.
+Em suas razões de agravo, buscando destrancar o processamento do apelo nobre (fls. 1064-1068, e-STJ), a parte recorrente sustenta tão somente a inaplicabilidade da Súmula 7/STJ.
+Contraminuta às fls. 1076-1080 (e-STJ).
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1.Com efeito, a agravante deixou de impugnar a incidência da Súmula 83/STJ.
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do NCPC:
+Art. 932.Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ouque não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ,"à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira ademonstrarque o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja,não bastaque façaalegações genéricasem sentido contrário às afirmações do julgado contra o qual se insurge"(AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+E, ainda, "Inexistindo impugnação específicaao decisum impugnado,restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+A propósito, com relação ao óbice da Súmula 83/STJ, sua impugnação se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, providência não atendida pelo agravante.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DA SÚMULA 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO. 1. Em que pese ao agravante ter sustentado a inaplicabilidade da Súmula 83/STJ por se tratar de recurso amparado na alínea "a" do permissivo constitucional, a fundamentação expendida não foi apta a cumprir o requisito da dialeticidade. 2. Cabia ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada. Poderia ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos. Precedentes. 3. O óbice contido na Súmula 83/STJ também se aplica aos recursos especiais interpostos com base na alínea "a" do permissivo constitucional. Precedentes. 4. Agravo interno a que se nega provimento. (AgInt no AREsp 827.751/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/05/2019, DJe 14/05/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. LIQUIDAÇÃO. AN DEBEATUR. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ E ART. 932, III, DO CPC. 1. Para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes. 2. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1182583/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2018, DJe 23/10/2018)  grifou-se
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 182/STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
