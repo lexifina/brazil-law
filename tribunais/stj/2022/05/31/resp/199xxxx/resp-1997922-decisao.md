@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Cabreuva Empreendimentos Imobiliários Ltda. eMelnick Even Cedro Empreendimento Imobiliário SPE Ltda. contra os acórdãos de fls. 340-347 e 382-385 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementados:
+APELAÇÃO CÍVEL. AÇÃO DE RESOLUÇÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. RESTITUIÇÃO DAS PARCELAS PAGAS. RETENÇÃO. JUROS DE MORA. ÍNDICE DE CORREÇÃO. A resolução contratual por desistência do promitente comprador justifica a retenção de percentual das parcelas pagas que se arbitra em vinte por cento. A correção monetária pelo INCC-DI, conforme o contrato, incide a partir de cada desembolso e os juros de mora incidem a partir da citação. Apelação cível da parte demandante provida e apelação cível da parte demandada parcialmente provida. Unânime.
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE. Os embargos de declaração só se podem justificar nas causas típicas, previstas na lei processual, de obscuridade, omissão, contradição ou erro material. Justifica-se o parcial acolhimento dos embargos de declaração para sanar obscuridade no acórdão embargado. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS. UNÂNIME.
+Nas razões do recurso especial (e-STJ, fls. 395-409), apontam as insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 104, 413, 421 e 422 do CCB; e 141 do CPC/2015. Sustentam, em síntese, que o percentual de retenção sobre os valores pagos deve serde 25% (vinte e cinco por cento).
+Contrarrazões àfl. 421 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 436-438), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+A jurisprudência desta Corte é no sentido de que, nos casos de rescisão de contrato de compra e venda de imóvelpor interesse do promitente comprador, firmado antes da Lei 13.786/2018, o percentual de retenção sobre os valores pagos deve serde 25% (cinte e cinco por cento).
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. REVELIA. EFEITOS QUE NÃO ABRANGEM MATÉRIA DE DIREITO. RESCISÃO POR CULPA DO COMPRADOR. RETENÇÃO DE 25% DOS VALORES PAGOS. INDENIZAÇÃO POR FRUIÇÃO. VALOR. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento firmado pelo Tribunal a quo, no sentido de que os efeitos da revelia não abrangem às questões de direito, tampouco implicam a procedência do pedido da parte adversa, está em sintonia com a jurisprudência deste Superior Tribunal de Justiça. Aplicável, portanto, à espécie, o óbice da Súmula 83 desta Corte.
+2. A Segunda Seção do STJ, no julgamento do REsp n. 1.723.519/SP (28.8.2019), de relatoria da Ministra ISABEL GALLOTTI, firmou o entendimento no sentido de que, nos contratos firmados antes da Lei n. 13.786/ 2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção, definido anteriormente no julgamento dos EAg n. 1.138.183/PE, por ser adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato.
+3. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da abusividade do valor da indenização pela fruição do imóvel, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.988.820/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/5/2022.)
+Dessa forma, a decisão recorrida não refletiu o entendimento deste Tribunal, razão pela qual merece reforma.
+Diante do exposto, conheço dorecurso especial e dou-lhe provimento para revisar o percentual de retenção, arbitrando-o em 25% (vinte e cinco por cento) sobre o valor pago.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DE VALORES PAGOS. PERCENTUAL DE RETENÇÃO DEVINTE E CINCO POR CENTO. PROCEDÊNCIA. RECURSO ESPECIAL CONHECIDO E PROVIDO.
