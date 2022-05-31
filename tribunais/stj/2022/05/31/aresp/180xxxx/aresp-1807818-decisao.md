@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por PETRÓLEO BRASILEIRO S.A. PETROBRAS, com fundamento naalíneaa do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio de Janeiroassim ementado (e-STJ, fl. 1.287):
+Apelação Cível. Ação declaratória e indenizatória. Contrato de Afretamento Marítimo. Competência das varas empresariais, nos termos do art. 91, I, letra "g", e do art. 50, I, letra "h", do CODJERJ. Indisponibilidade das embarcações, por falta do Certificado de Autorização de Afretamento -CAA, do Atestado de Inscrição Temporária -AIT e do Cartão de Tripulação de Segurança-CTS. Clausula contratual clara em imputar à PETROBRAS a responsabilidade pela renovação das autorizações e Certificados dos Afretamentos -CAA. Inadimplemento contratual. Restituição de valores retidos a título de pagamento de despesas de combustíveis, taxa de afretamento e serviços. Jurisprudência e Precedentes citados:0246906-03.2016.8.19.0001 - APELAÇÃO-Des(a). EDSON AGUIAR DE VASCONCELOS - Julgamento: 12/06/2019 -DÉCIMA SÉTIMA CÂMARA CÍVEL; 0409040-74.2016.8.19.0001 - APELAÇÃO-Des(a). GILBERTO CLÓVIS FARIAS MATOS -Julgamento: 18/12/2018 - DÉCIMA QUINTA CÂMARA CÍVEL. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.358-1.364).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, e 1.022 do novo CPC.
+Esclareceu que se opôs ao acórdão que, eivado de omissões e erro na aplicação do direito, firmou ser da insurgente o dever de providenciar a documentação relativa ao negócio -Certificado de Autorização de Afretamento (CAA) e do Certificado de Liberação de Embarcação (CLE).
+Afirmou que, embora opostos embargos de declaração, não foram analisados os argumentos no sentido da impossibilidade de enriquecimento sem causa (arts. 884 a 886 do CC);respeito ao princípio do pacta sunt servanda (art. 421 do CC);sujeição ou não da recorrente às penalidade do art. 25 da Resolução n. 2.919/2013 - ANTAQ (frete em embarcação que esteja sem a autorização dessa agência reguladora); incidência da Resolução Normativa n. 1/2015 da ANTAQ e aplicação ao caso da Lei n. 9.432/1997.
+Requereu o provimento do recurso especial (e-STJ, fls. 1.366-1.383).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 1.428-1.433).
+Contraminuta apresentada (e-STJ, fls. 1.438-1.446).
+Brevemente relatado, decido.
+Não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º , IV, e 1.022 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A segunda instância, apreciando a legislação que regula ocontrato de afretamento marítimo (Lei n. 9.432/1997), aResolução Normativa n. 1-ANTAQ, aResolução n. 1/2015, quedispõe sobre a emissão do Certificado de Autorização de Afretamento (CAA)e Certificado de Liberação de Embarcação (CLE), bem como o teor dos contratos entabulados entre as partes, firmou que seria da insurgente o dever de providenciar as referidas e obrigatórias certificações e, inclusive,eventual renovação.
+Veja-se (e-STJ, fls. 1.294-1.299):
+No que tange ao mérito, em que pese inicialmente pareça causa de grande complexidade, certo é que o objeto é simples, pois se refere a eventual descumprimento de contrato de afretamento marítimo celebrados entre as partes.
+O contrato de afretamento marítimo é regulado pela Lei 9.432/97e prevê, após a verificação de que inexiste ou não há disponibilidade de embarcação de bandeira brasileira do tipo e porte adequados para a execução do contrato, a concessão de autorização para que embarcações estrangeiras possam celebrar tais contratos. Vejamos o art. 9 da Lei 9.432/97, in verbis:
+ ..
+Complementando a legislação acima, a Resolução Normativa nº. 01-ANTAQ, de 13/02/2015, atribui a Agência Nacional de Transportes Aquaviários a concessão de autorização para que empresa brasileira de navegação venha afretar embarcação estrangeira, para tanto, criando alguns critérios que no momento são dispensáveis para a solução do litígio.
+Tal Resolução, em seu artigo 2º, traz definições que facilitam o entendimento sobre o contrato celebrado entre as partes:
+Art. 2º -Para os fins desta Norma consideram-se:
+ ..
+E não é só, o procedimento de circularização, também estabelecido na Resolução 01/2015, dispõe sobre a emissão do Certificado de Autorização de Afretamento -CAA e - Certificado de Liberação de Embarcação -CLE:
+ ..
+Portanto, é forçoso concluir que, as embarcações estrangeiras contratadas por empresas brasileiras de navegação - EBN necessitam de autorização pela ANTAQ e somente podemoperar após a emissão do Certificado de Autorização de Afretamento - CAA e do Certificado de Liberação de Embarcação - CLE.
+A questão de mérito é aferir de qual dos contratantes é a responsabilidade para providenciar tais documentos.
+É incontroverso que as partes celebraram três contratos de afretamentos, são eles:Embarcação IBIZA-Instrumentos Contratuais Jurídicos nºs E&P nº2050.0072527.11-2; Embarcação ILHÉUS -Instrumentos Contratuais Jurídicos nºs E&P nº 2050.0072523.11.2; Embarcação MARESIAS -Instrumentos Contratuais Jurídicos nºs E&P nº 2050.0072530.11.2. Compulsando-se os respectivos contratos, restou cristalina a obrigação da afretadora (Petrobras), ora apelante, para providenciar o Certificado de Autorização de Afretamento - CAA), conforme as cláusulas 4.3.1 e4.3.2. (fls. 64, fls. 390 e fls. 716) que se encontram presentes em todos os contratos:
+ ..
+É importante destacar, ainda, que os CCAs possuam a validade de 12 meses, sendo necessária a renovação. Tal obrigação também é da apelante, conforme cláusula contratual prevista em todos os contratos(fls. 64, fls. 390 e fls. 716): vejamos: Cláusula 4.3.3.
+ ..
+O contrato tem natureza de negócio jurídico bilateral e, por isso, a relação jurídica que dele deriva é resultante da convergência de vontade de duas ou mais partes, postas uma em face da outra, em igualdade de condições, perante o Direito e a sociedade.
+Partes essas que pactuam as cláusulas da avença conforme seu livre acordo de vontades, quanto à funcionalidade do negócio celebrado.
+Assim, o contrato está ligado à ideia de vontades livremente manifestadas, que fomentam aqueles efeitos jurídicos determinados pelas partes, conforme sua causa negocial e nos limites da ordem pública.
+Diante das cláusulas contratuais pactuadas, a obrigação de providenciar tais autorizações é da apelante, incidindo o princípio da pacta sunt servanda. Recentes julgados deste Egrégio Tribunal manifestaram-se no mesmo sentido, in verbis:  .. .
+Portanto, não há omissão ou erro no aresto estadual. A questão foi solucionada a luz do regramento legal relativa ao negócio e dos contratos entabulados entre as partes. Dessa forma, não há vício algum a ocasionar a anulação do acórdão.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. AUSÊNCIA DE OMISSÕES OU ERRO NO JULGAMENTO ESTADUAL. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO, APRECIANDO O REGRAMENTO LEGAL RELATIVO AO NEGÓCIO JURÍDICO E O TEOR DOS CONTRATOS ENTABULADOS ENTRE AS PARTES. INEXISTÊNCIA DE NULIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
