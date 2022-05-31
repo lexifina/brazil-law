@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por Cooperativa de Crédito Mútuo dos Professores e Funcionários da Universidade de Caxias do Sul - Sicredi Cooperucs contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o agravado opôs embargos à execução, julgados improcedentes.
+Interposta apelação pelo agravado, a Décima Sexta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 221):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. APLICAÇÃO DE ENCARGO NÃO PREVISTO NO CONTRATO. EXCESSO RECONHECIDO. SUCUMBÊNCIA. DECAIMENTO MENOR DA EMBARGADA.
+É incontroverso nos autos que foi aplicada correção monetária sobre o débito por índice não previsto no contrato, de modo que, em observância ao princípio do pacta sunt servanda, vai reconhecido o excesso na execução e extirpada a aplicação de tal encargo dos cálculos. Muito embora reconhecido o excesso, o decaimento da cooperativa embargada é mínimo, de modo que deverá arcar o embargante proporcionalmente com os ônus de sucumbência.
+APELO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do Código de Processo Civil de 2015; e 395 e 397 do Código Civil.
+Asseverou a existência de contradição, no que se refere ao afastamento da correção monetária, e omissões no aresto relevante ao julgamento da lide, notadamente quanto à correção monetária além de ser devida por decorrência de lei, encontrar-se prevista contratualmente, razão pelas quais deve o devedor responderpela atualização do débito em decorrênciado seu inadimplemento.
+Afirmou a impossibilidade de afastamento de qualquer índice de correção ao contrato em comento, tendo em conta que esta serve para recomposição do poder de compra em razão da inflação do período e que a utilização do IGP-M se mostra mais benéfico ao executado;
+Contrarrazões às fls. 420-423 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 489-492 (e-STJ), com pedido de majoração da verba sucumbencial, prevista no art. 85, § 11, do CPC/2015.
+Brevemente relatado, decido.
+De fato, verifica-se, das razões de embargos de declaração, que a recorrente suscitou omissões no julgado, conforme se observa do trecho a seguir transcrito (e-STJ, fls. 229-234):
+Nota-se que no item "a" dos ENCARGOS MORATÓRIOS consta a incidência da CORREÇÃO MONETÁRIA, porém esta pelo "Certificados de Depósito Interfinanceiro (CDI)".
+Diante disso, há contrariedade no acórdão proferido quando alega "exsurge ser impossível impor ao devedor encargo com o qual não se obrigou", quando este se obrigou sim, com a contratação de correção monetária pelo CDI, conforme acima demonstrado.
+Excelências, o que ocorreu foi apenas a substituição da correção monetária do CDI, índice mais gravoso, para o IGP-M, índice mais benéfico para o embargante, para facilitar um possível acordo entre as parte e pôr fim a demanda.
+Ora, afastar a aplicação do IGP-M é sim afastar o princípio da Pacta Sunt Servanda e deixar de observar a lei, pois fica o débito sem qualquer correção monetária, para repor a perda inflacionária, mesmo tal encargo ter sido contratado pelas partes.
+O v. acórdão, na forma como proferido, apresenta também omissão, pois deixou de observar o que determina a Legislação Civil, nos termos dos artigos 395 e 367 do Código Civil Brasileiro, "in verbis":
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores monetários segundo índices oficiais regularmente estabelecidos, e honorários advocatícios.
+Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor.
+Portanto, descortina-se que a correção monetária é devida não só por estar prevista em contrato, mas também quando verificado o inadimplemento da obrigação. Sua incidência decorre de lei e sua aplicação independe da vontade das partes.
+(..)
+Portanto, mostra-se contraditório o v. acórdão quando afirma que o devedor não contratou o encargo da CORREÇÃO MONETÁRIA, sendo impossível aplicar encargo que não contratou, extirpando do cálculo da dívida o índice do IGP-M, vez que no contrato firmado entre as partes há sim o encargo da CORREÇÃO MONETÁRIA.
+Ainda, não foi observado pela Douta Relatora, incorrendo em omissão, o que determina na legislação civil, consubstanciado nos artigos 395 e 367 do Código Civil Brasileiro, que as dívidas devem ser acrescidas de correção monetária para repor as perdas inflacionárias, sendo que a embargada, ora embargante, apenas utilizou o índice que menos agrava a situação do devedor.
+Ademais, se não bastasse todo o argumento acima, a ora embargante de declaração, ingressou com a ação executiva aplicando o IGP-M como correção monetária vez que o CDI não é considerado pelo Judiciário, conforme o entendimento desse Tribunal de Justiça, inclusive com jurisprudência dessa 16ª Câmara Cível,
+(..)
+Assim, nota-se claramente que a ora embargante de declaração apenas alterou o índice de correção monetária, mas este foi sim contratado pelas partes. A substituição foi em função de que o IGP-M é menos gravoso ao executado e pelo fato do Judiciário considerar a CDI ilegal.
+A decisão, da forma como proferida, apresenta contradição e omissão, vez que a correção monetária foi sim contratada pelas partes, apenas com a substituição do seu índice, e não houve a observação da legislação civil, nos termos dos artigos 395 e 367 do Código Civil, que, extirpando o IGP-M do cálculo do débito, a dívida não terá correção monetária.
+Deverá a Douta Relatora manifestar-se quanto aos argumentos e artigos de lei ora suscitados no presente recurso, para fins de prequestionamento, caso não haja as devidas correções necessárias no v. acórdão proferido.
+Assim, tendo em vista que as matérias foram oportunamente suscitadas pela recorrente, o Tribunal local deveria ter examinado as alegações que, a esse respeito, foram-lhe submetidas. A recusa, amparada em inadequados fundamentos, resultou em indevida omissão sobre relevantes matérias, razão pela qual a rejeição dos embargos de declaração importou em inequívoca violação do art. 1.022 do CPC/2015.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos. Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgInt no AREsp 1.624.710/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2021, DJe 09/06/2021)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp 1.908.213/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021)
+Tendo em vista o reconhecimento da alegada violação do art. 1.022 do NCPC, fica prejudicada, por ora, a apreciação das demais alegações feitas pela parte recorrente.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Por fim, em atenção ao requerimento formulado pela parte contrária, não é cabível a fixação de honorários recursais no presente caso, pois o recurso especial é decorrente de agravo de instrumento interposto, e como não são cabíveis honorários sucumbenciais na origem, também não o são nesta instância extraordinária (cf. EDcl no AgInt no REsp 1.573.573/RJ, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 4/4/2017, DJe 8/5/2017).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. MATÉRIA RELEVANTE ARGUIDA E REITERADA. FALTA DE DELIBERAÇÃO. RECONHECIMENTO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
