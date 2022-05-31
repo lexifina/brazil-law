@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deADMILSON VILLARIM FILHO, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba nos autos da Ação Penal Originárian. 2003316-08.2014.815.0000.
+Consta nos autos que o Paciente, que possui foro por prerrogativa de função no Tribunal de Justiça (Defensor Público estadual), foi condenado como incurso no art. 171,caput, do Código Penal, àpenade3 (três) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, bem como à perda do cargo público ocupado (fls. 31-48).
+Os embargos de declaração opostos ao acórdão que julgou procedente a notícia-crime não foram conhecidos por intempestividade (fls. 49-58). A Defesa opôs novos aclaratórios que foram rejeitados.
+Em seguida, interpôs o recurso especial, que foi inadmitido pelo Tribunal de Justiça de origem porque firmado por advogada não mais habilitada nos autos, sendo, então, determinada a certificação do trânsito em julgado, considerando a não interposição de recursos pelo Defensor Público representante do Paciente. A revisão criminal impugnando a decisão que não conheceu do apelo raro não foi conhecida.
+Nas razões desta impetração, sustenta-se, em síntese a prescrição de pretensão punitiva estatal, porque entre a data do fato, o dia 08/11/2010, e a data do trânsito em julgado da condenação para a Defesa, no dia 19/12/2018, transcorreuo prazo prescricional de 8 (oito) anos,nos termo do art.109,inciso IV, c.c. o art. 110, do Código Penal.
+Busca o Impetrante (fl. 8):
+"1. Suspender liminarmente a aplicação de toda e qualquer medida que implique o imediato cumprimento do acórdão condenatório, até o julgamento do mérito do presente writ.
+2. Declaração da extinção da punibilidade do Paciente pela ocorrência da prescrição retroativa, com a inteligência do artigo 111 do CP, entre a data do crime até o trânsito em julgado do Acórdão Condenatório.
+3. Alternativamente, Declaração da extinção da punibilidade do Paciente pela ocorrência da prescrição retroativa, com a inteligência dos artigos 110 do CP, cumulado com Súmula 220 do STJ cumulado com artigo 117 do CP.
+4. Alternativamente, prescrição da pena acessória, com base na legislação da DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA, que impõe prazo prescricional diverso e mais benigno ao Paciente."
+É o relatório.
+Decido.
+No acórdão proferido pela Corte local não houve manifestação meritóriasobre aalegada extinção de punibilidade, razão pela qual é vedada a apreciação da matériapelo Superior Tribunal de Justiça, sob pena de indevidasupressão de instância.
+Ressalto que a jurisprudência doSuperior Tribunal de Justiça "é pacífica no sentido de que,ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/09/2019, DJe 10/10/2019)" (STJ, AgRg no HC 666.908/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021).
+Cito, ainda, o seguinte julgado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INCOMPETÊNCIA ABSOLUTA. AUSÊNCIA DE MARCO INTERRUPTIVO VÁLIDO. PRESCRIÇÃO. MATÉRIAS NÃO SUBMETIDAS À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. As matérias relativas à incompetência absoluta da Justiça Estadual e, por conseguinte, ao reconhecimento da prescrição, na tese ausência de marco interruptivo válido, não foram examinadas pelo Tribunal de origem, o que obsta a apreciação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+2. De acordo com a jurisprudência desta Corte Superior, "até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária" (AgRg no HC n. 395.493/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. A prescrição constitui matéria de ordem pública, podendo ser conhecida de oficio, mas às vezes pressupõe fatos, como no caso, onde se alega incompetência da Justiça Estadual, que devem ser examinados de forma inaugural (e contrastada) na instância de origem.
+4. Agravo regimental improvido."(AgRg no HC n. 680.616/ES, Rel.Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1.ª Região), SEXTA TURMA, DJe 29/11/2021.)
+De outrolado,não constato, no caso, flagrante ilegalidadeapta a ensejar a concessão dehabeas corpusde ofício, notadamente porque o Impetrante olvidou-se da existência dosmarcos interruptivosdaprescrição entre o crime e o trânsito em julgado da condenação, previstos nos incisos I e IV doartigo 117 do Código Penal (recebimento da denúncia e publicação da sentença e acórdão condenatório recorríveis),que claramenteimpediram a perda da pretensão punitiva estatal, ao defender a tese de extinção da punibilidade.
+Anteo exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, NÃO CONHEÇO dohabeas corpus.
+Publique-se.Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TESE DE EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL PASSÍVEL DE CORREÇÃO DE OFÍCO.HABEAS CORPUS NÃO CONHECIDO.
