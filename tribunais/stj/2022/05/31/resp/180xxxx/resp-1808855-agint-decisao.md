@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interno manejado pelo DISTRITO FEDERAL em face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE HIPÓTESE DE APRECIAÇÃO EQUITATIVA. FIXAÇÃO DOS HONORÁRIOS COM BASE NO § 3º DO ART. 85 DO CPC/2015. PRECEDENTE. QUESTÃO FIXADA PELA CORTE ESPECIAL DO STJ EM RECURSO ESPECIAL REPETITIVO. TEMA 1.076. BASE DE CÁLCULO. VALOR DA CAUSA. AUSÊNCIA DE CONDENAÇÃO E IMPOSSIBILIDADE DE AFERIÇÃO DO PROVEITO ECONÔMICO. RECURSO ESPECIAL PROVIDO.
+O agravante insurge-se contra a decisão agravada alegando, em síntese, que o entendimento fixado no REsp 1.746.072/PR e no Tema 1.076 não se aplicam ao caso dos autos, justamente porque seria inestimável o valor econômico do proveito econômico obtido no que concerne à observância de formalidade no devido processo administrativo fiscal, de modo que os honorários devem sim ser fixados com base no § 8º do art. 85 do CPC/2015.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante o órgão colegiado.
+Impugnação às fls. 492-552 e-STJ.
+É o relatório. Passo a decidir.
+A irresignação merece parcial acolhida.
+No âmbito do julgamento do Tema 1.076 pela Corte Especial do STJ, foramacolhidas as seguintes teses:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Por ocasião do julgamento repetitivo foi determinado o retorno dos autos à origem para aferição da adequação do julgado recorrido ao quanto decidido por esta Corte.
+Assim, a fim de evitar incorreta aplicação do direito ao caso concreto, e considerando, sobretudo, que não cabe a este STJ analisar o contexto fático-probatório dos autos, entendo que a medida mais adequada é, na mesma esteira do que foi decidido no recurso repetitivo, acolher o presente agravo interno para tornar sem efeito a decisão agravada e determinar o retorno dos autos à origem para realizar, senecessário, o juízo de adequação previsto no art. 1.040, II, do CPC/2015 a fim de verificar a conformidade ou não do acórdão recorrido ao quanto fixado na tese definida no Tema 1.076 em recurso especial repetitivo.
+Ante o exposto, com fulcro nos arts. 1.021, § 2º, e 1.040 do CPC/2015 c/c o art. 259 do RISTJ, CONHEÇO do presente agravo interno para, em juízo de retratação, tornar sem efeito a decisão de fls. 469-473 e-STJ e determinar o retorno dos autos à origem para os fins dos arts. 1.039, 1.040 e seguintes do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE AFERIÇÃO DA ADEQUAÇÃO DO ACÓRDÃO RECORRIDO AO QUANTO DECIDIDO PELO STJ NO TEMA 1.076 EM RECURSO ESPECIAL REPETITIVO. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, TORNAR SEM EFEITO A DECISÃO AGRAVADA E DETERMINAR O RETORNO DOS AUTOS À ORIGEM PARA OS FINS DOS ARTS. 1.039, 1.040 E SEGUINTES DO CPC/2015.
