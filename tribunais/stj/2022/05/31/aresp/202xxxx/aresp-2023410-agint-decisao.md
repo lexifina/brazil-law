@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE SANTA BRANCAem face de decisão da Presidência deste Superior Tribunal que não conheceu do agravo em recurso especial, por incidência da Súmula n. 182/STJ.
+Os embargos declaratórios opostos foram rejeitados.
+Nas suas razões, a parte agravante insurge-se contra a decisão agravada, afirmando ter refutado os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Requer, assim, a reconsideração da decisão agravada ou que seja o feito submetido a julgamento no órgão especial.
+É o relatório.
+Passo a decidir.
+De fato, com razão a parte agravante.
+Com efeito, a agravante impugnou os fundamentos da decisão do Tribunal de origem que inadmitiu o recurso especial. Nesse contexto, reconsidero a decisão de fls. 415/417(e-STJ)e passo à análise do agravo em recurso especial.
+O Tribunal de Justiça do Estado de São Paulojulgou agravo de instrumento interposto pela agravante, conforme a seguinte ementa:
+AGRAVO DE INSTRUMENTO. Decisão que rejeitou pedido de revogação dos benefícios da gratuidade processual. Pretensão de reforma. Inadmissibilidade. Agravante que não trouxe aos autos documento comprobatório da alteração da situação econômica dos beneficiários. Presunção de veracidade da declaração de pobreza. RECURSO DESPROVIDO.
+Nas razões do recurso especial, oagravante alega violação doart. 98, §§ 2º e 3º, do CPC/2015, insurgindo-se contra a manutenção dos benefícios da justiça gratuita, no caso concreto. Assevera (e-STJ, fls. 389/390):
+Assim, contrariamente ao que entendeu o v. acórdão recorrido, o patrimônio dos requeridos que foram encontrados pela pesquisa de fls. 349 são mas que suficientes para infirmar a declaração de pobreza, e revoga-la.
+Frise-se que, ao contrário do que afirma o v. acórdão, conforme se verifica do documento de fls. 349 (pesquisa RENAJUD), apenas um veículo encontra-se com restrição, e não dois como se afirmou.
+Outrossim, tal restrição não retira a capacidade de demonstração do poder aquisitivo dos recorridos, visto que, mesmo que se retirasse o veículo restrito, o montante do patrimônio dos recorridos ainda seria considerável e absurdamente superior ao montante devido.
+Continuando, também não se sustenta o fundamento do v. acórdão de que seria necessário modificação significativa nas condições econômicas para que fosse afastado os benefícios da justiça gratuita concedidos Isso porque, o § 3º do artigo 98 do CPC não exige que seja demonstrado modificação significativa nas condições econômicasdos agraciados com a concessão da justiça gratuita, mas apenas que se demonstre que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, o que foi plenamente demonstrado através da pesquisa de fls. 349, conforme visto.
+Segue transcrição:
+Art. 98..
+§ 3º Vencido o beneficiário, as obrigações decorrentes de sua sucumbência ficarão sob condição suspensiva de exigibilidade e somente poderão ser executadas se, nos 5 (cinco) anos subsequentes ao trânsito em julgado da decisão que as certificou, o credor demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, extinguindo-se, passado esse prazo, tais obrigações do beneficiário.
+Ademais, mesmo que assim não fosse, o que se admite apenas para fins de argumentação, restou demonstrado que os recorridos tem patrimônio suficiente para arcar com as despesas processuais e com os honorários advocatícios, sendo que, o indeferimento da revogação da justo iça gratuita aos recorridos, constitui flagrante violação ao artigo 98, §§2º e 3º do CPC.
+Pondere -se, por oportuno, que o momento em que os bens listados às fls. 349 foram adquiridos, se antes ou depois de concedido os benefícios da justiça gratuita, é irrelevante para aferição dos critérios, uma vez que se adquiridos antes, não se poderia ter concedido os benefícios, e, se adquiridos após, restará comprovada a modificação na situação financeira, que ensejará a revogação dos benefícios concedidos. Assim, de todo modo que se analise o caso, é fato que os recorridos não atendem os critérios para concessão do benefício da justiça gratuita, não se sustentando o fundamento da r. decisão, mantida pelo v. acórdão, que "seria necessário que os veículo encontrados em nome dos Recorridos tivessem sido adquiridos após a concessão da gratuidade da justiça" para que se pudesse deferir o pedido de sua revogação.
+Foram apresentadas contrarrazões.
+O TJSP assimse pronunciou sobre a pretensa revogação dos benefícios da justiça gratuita (e-STJ, fls. 381):
+No mérito, entretanto, não vislumbro hipótese de acolhimento do inconformismo. Anota-se que a documentação trazida pela agravante não foi capaz de comprovar que os agravados poderiam litigar sem o benefício em questão, sobretudo porque a simples constatação de ainda existirem veículos em nome dos agravados, dois deles com restrições e outros dois com mais de trinta anos de fabricação não infirma a declaração de pobreza.
+A presente impugnação, para que comportasse acolhida,deveria se fundar em alteração significativa das condições econômicas da parte contrária, ou seja, em demonstração do desaparecimento das circunstâncias que ensejaram a concessão do benefício, o que inexistiu.
+Nesse contexto, a modificação das conclusões do acórdão recorrido demandaria o revolvimento do acervo fático-probatório dos autos, consubstanciado na análise das condições econômico-financeiras dos recorridos, para fins de manutenção ou revogação dos benefícios da assistência judiciária gratuita. Dessa forma, incidente o óbice da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182/STF. DECISÃO RECONSIDERADA. REEXAME DE MATÉRIA DE FATO. INADMISSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
