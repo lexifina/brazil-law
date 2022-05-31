@@ -1,0 +1,64 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparona alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISassim ementado (e-STJ, fl. 271):
+REEXAME NECESSÁRIO - AÇÃO PARA RESTABELECIMENTO DE BENEFÍCIO PREVIDENCIÁRIO - AUXÍLIO-DOENÇA - COMPROVAÇÃO DA INCAPACIDADE TOTAL E PERMANENTE PARA O EXERCÍCIO DA ATIVIDADE LABORATIVA ENTÃO EXERCIDA PELO SEGURADO - PERÍCIA OFICIAL - NECESSIDADE DE SUBMISSÃO A PROCESSO DE REABILITAÇÃO PARA OUTRA ATIVIDADE LABORATIVA - MANUTENÇÃO DO BENEFÍCIO ATÉ A REABILITAÇÃO DO SEGURADO - ALTA PROGRAMADA - NÃO CABIMENTO - JUROS DE MORA - ÍNDICE DA CADERNETA DE POUPANÇA - CORREÇÃO MONETÁRIA - INPC - HONORÁRIOS DE ADVOGADO - AUSÊNCIA DE CONDENAÇÃO LÍQUIDA - PERCENTUAL A SER FIXADO QUANDO LIQUIDADO O JULGADO - NÃO INCIDÊNCIA SOBRE PRESTAÇÕES VINCENDAS - ALTERAÇÃO DE OFÍCIO - POSSIBILIDADE.
+- O art. 59 da Lei nº 8.213/91, que trata do auxílio-doença, não faz distinção entre incapacidade total ou parcial, abrangendo, assim, as duas hipóteses.
+- Comprovada a incapacidade total e permanente do segurado para a atividade profissional então exercida, bem como a possibilidade de recuperação para exercer outra atividade laborativa mediante reabilitação, tem direito ao recebimento do auxílio-doença até a finalização desse procedimento administrativo.
+- A cessação do benefício, na forma como estabelece o art. 62 da Lei n. 8.213/91, somente poderá ocorrer mediante procedimento administrativo com contraditório, no qual poderá o beneficiário ser submetido à perícia médica, ainda que não tenha requerido a prorrogação do benefício por desídia.
+- As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91, sendo que os juros de mora devem incidir segundo a remuneração oficial da caderneta de poupança.
+- Se não há condenação líquida, os honorários de advogado devem ser fixados segundo a regra do art. 85, § 4º, II, do NCPC, de modo que o percentual deve ser estabelecido quando liquidado o julgado.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 304-316).
+Defende, em síntese, que o dispositivo do art. 1.022, II, do CPCnão foi respeitado pelo órgão julgador, que deixou de se manifestar sobre a indevida exigência de prévia submissão a processo de reabilitação profissional para a cessação do benefício, possibilitando, assim, a realização de perícia de elegibilidade pelo INSS e eventual cessação administrativa do benefício.
+Sustenta que não se pode afastar a possibilidade de cessação do auxílio por incapacidade temporária (auxílio-doença) independentemente da submissão do segurado a processo de reabilitação profissional, caso o INSS constate que houve a recuperação de capacidade laborativa para a mesma função antes exercida, sob pena de violação dos arts. 60, § 1º, e 101 da Lei n. 8.213/1991 e 71 da Lei n. 8.212/1991.
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 331-334).
+É o relatório.
+Verifica-se, de início, que não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal de origem haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ououtra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSUFICIÊNCIA DA PENHORA. REFORÇO. INTIMAÇÃO NECESSÁRIA. AUSÊNCIA. RECURSO REPETITIVO RESP 1.127.815/SP. NÃO SURPRESA. ART. 10 DO CPC/2015. PROVIMENTO.
+1. Não se configurou a ofensa ao art. 1.022, II, do CPC/2015, pois o Tribunal de origem julgou integralmente a lide e refutou, ao seu ver, a aplicação do precedente aventado.
+2. O Tribunal regional confirmou sentença que extinguiu Embargos à Execução fiscal apenas em virtude da insuficiência do valor penhorado.
+3. Não obstante, o próprio precedente usado pela Corte de origem como fundamento decisório, o REsp 1.127.815/SP, expressamente diz no item 9 de sua ementa que cabe ao juiz, antes da sentença terminativa, abrir prazo para que a parte reforce a penhora. Tal providência prestigia o contraditório, a ampla defesa e o princípio da não surpresa, hoje positivado no art. 10 do CPC/2015.
+4. "A insuficiência de penhora não é causa bastante para determinar a extinção dos embargos do devedor, cumprindo ao magistrado, antes da decisão terminativa, conceder ao executado prazo para proceder ao reforço, à luz da sua capacidade econômica e da garantia pétrea do acesso à justiça" (REsp 1.127.815/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 14/12/2010).
+5. Recurso Especial provido, para que o juízo de origem oportunize o reforço da penhora.
+(REsp n. 1.809.124/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/6/2019, DJe de 1º/7/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 489, § 1º, IV, DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. PRESENÇA DE CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. À luz do princípio da causalidade, aquele que deu causa à instauração do processo deve responder pela verba honorária de sucumbência.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+4. Hipótese em que a Corte de origem se manifestou, de maneira clara e fundamentada, ao consignar expressamente ser do Judiciário o equívoco na efetivação de penhora não requerida na execução fiscal, sendo certo, ainda, que o conhecimento do recurso especial encontra óbice na Súmula 7 do STJ, uma vez que os embargos à execução foram extintos por ausência de interesse de agir, sem que se pudesse imputar a causalidade ao exequente.
+5. Agravo interno desprovido.
+(AgInt n. AREsp 1.364.626/PE, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/5/2019, DJe de 12/6/2019).
+Quanto à questão de fundo, oTribunal de origem assim se manifestou sobre o termo final do benefício:
+Diante disso, é necessária a realização de outra prova pericial, a qual deverá ser feita na via administrativa, como parte inerente ao procedimento de reabilitação da parte autora, ainda que não tenha sido requerida a prorrogação do benefício em questão. (e-STJ, fl. 283).
+Não há violação, pelo acórdão embargado, do direito da parte ré à discricionariedade quanto à forma como se dará o procedimento de reabilitação, pois somente foi exigido que a sua instauração, a tempo e modo oportunos, garanta à parte autora o devido processo legal e contraditório, que são direitos constitucionalmente assegurados. (e-STJ, fl. 308)
+No caso, verifica-se que o acórdão recorrido concluiu que o benefício deve ser suspenso ou cancelado apenas quando verificado, na via administrativa, a reabilitação do segurado.
+Ao contrário do que sustenta o recorrente, não ficou estabelecida de que forma essa reabilitação deveria ocorrer, nem se limitou a atuação administrativa do INSS. O que foi estabelecido foi, tão somente, a necessidade de que a reabilitação seja demonstrada via perícia.
+Assim sendo, não ficou demonstrada, nas razões do recurso especial, a violação de lei federal, uma vez que o dispositivo apontado não tem comando normativo capaz de amparar a tese recursal e de infirmar o juízo consignado no acórdão recorrido, fazendo incidir ao caso, o teor da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa aos arts. 458 e 535 do CPC/73, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A incompatibilidade da fundamentação recursal com os dispositivos apontados como violados, e a ausência de alegação de violação à norma com carga normativa suficiente para alterar o acórdão recorrido, atrai o óbice da Súmula 284 do STF. Precedentes.
+3. No caso, o entendimento adotado pela Corte de origem em relação às conclusões do laudo pericial não podem ser alteradas por esta Corte Superior, em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. A ausência de impugnação específica a fundamento capaz de, por si só, manter hígido o acórdão recorrido enseja a aplicação, por analogia, do óbice da Súmula 283/STF.
+5. Nos termos da jurisprudência sedimentada nesta Corte, a indenização por danos morais e materiais fixada em montante inferior ao pedido não configura sucumbência recíproca, por considerar-se que o valor deduzido na petição inicial ostenta caráter meramente estimativo. Precedentes.
+6. Fixados os honorários sucumbenciais dentro dos limites de 10% e 20% previstos no art. 20, § 3º, do CPC/73, é inviável a pretensão voltada ao redimensionamento da verba por esta Corte , a teor da Súmula 7 do STJ. Precedentes.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 638.830/PE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 24/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. CORREÇÃO MONETÁRIA. ALEGAÇÃO DE CONSTITUCIONALIDADE DO ART. 5º DA LEI N. 11.960/2009 QUE ESTABELECEU A TAXA REFERENCIAL (TR) COMO ÍNDICE DE CORREÇÃO MONETÁRIA DOS DÉBITOS DA FAZENDA PÚBLICA. MATÉRIA CONSTITUCIONAL (RE N. 870.947/SE). AUSÊNCIA DE COMANDO NORMATIVO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Caso em que a União desde a origem se insurge contra sentença que julgou improcedentes os embargos à execução, e considerou pertinente o IPCA-E como índice de correção monetária.
+2. O dispositivo legal apontado como violado não possui comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, circunstância que atrai, por analogia, a incidência da Súmula n. 284/STF.
+3. Por fim, o pedido de sobrestamento do feito encontra-se prejudicado. Isso porque, recentemente (3/10/2019), o Plenário do STF concluiu o julgamento do RE n. 870.947/SE, onde, por maioria, rejeitou todos os embargos de declaração e não modulou os efeitos da decisão anteriormente proferida, conferindo eficácia prospectiva à declaração de inconstitucionalidade do índice previsto no artigo
+1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009, proferida pelo Plenário no presente leading case.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.340.176/PB, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/11/2019, DJe de 20/11/2019.)
+PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. É inadmissível Recurso Especial cuja fundamentação seja deficiente. Incidência, por analogia, da Súmula 284/STF.
+2. No caso concreto, a tese defendida pela empresa é de que o acórdão hostilizado não enfrentou "as questões de fato e de direito e não enfrentou também as questões principais que a recorrente submeteu ao Judiciário". Afirma que a perícia realizada constatou que 90% do crédito lançado foi extinto, mas que o acórdão hostilizado adotou fundamentação incongruente com o que foi demandado ao órgão julgador.
+3. A leitura do acórdão hostilizado evidencia que a decisão judicial contém os elementos essenciais, isto é, a motivação e o dispositivo.
+4. A irresignação da recorrente não diz respeito à falta dos elementos essenciais do ato judicial, mas ao vício consistente na alegada omissão e na suposta valoração de questões estranhas às que teriam sido submetidas ao pronunciamento jurisdicional.
+5. Nesse sentido, é forçoso reconhecer que a norma do art. 489, II e III, do CPC não possui aptidão para infirmar o acórdão recorrido, uma vez que os vícios apontados não se referem ao dispositivo legal que disciplina os elementos essenciais da decisão, mas sim à norma que regulamenta os defeitos do ato judicial. Aplicação da Súmula 284/STF.
+6. Recurso Especial não conhecido.
+(REsp n. 1.697.162/MG, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe de 19/12/2017.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, §4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
