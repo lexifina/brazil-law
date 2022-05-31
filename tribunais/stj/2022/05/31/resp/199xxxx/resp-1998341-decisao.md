@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL SA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 102/108, e-STJ):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA RURAL. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUALPROVISÓRIO DE SENTENÇA COLETIVA DE AÇÃO CIVIL PÚBLICA. -LIQUIDAÇÃO DE SENTENÇA. A sentença coletiva originária de ação civil pública, ora em cumprimento individual provisório, prescinde de prévia liquidação na hipótese dos autos, considerando que o título executivo previu os parâmetros para apuração do indébito e foi devidamente comprovada a legitimidade ativa e a existência de contrato de cédula rural pignoratícia firmado pelas partes na vigência do Plano Collor I, pelo que não há óbice ao processamento do cumprimento de sentença, na forma do art. 509, § 2º, do CPC, entendimento que está de acordo com o que decidido no REsp 1.798.280/SP. Desprovido, no ponto.- PROVA PERICIAL. Esta Câmara tem o entendimento no sentido de ser desnecessária, em ações versando sobre diferenças de correção monetária do Plano Collor I, em Cédulas Rurais, a apuração do quantum debeatur mediante perícia, todavia, neste caso, é pertinente a realização de prova pericial, diante da disparidade entre o valor postulado pela parte autora e aquele que o réu entende como devido. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. UNÂNIME.
+Nas razões do apelo extremo (fls. 116/140, e-STJ), o Recorrente aponta ofensa aos artigos 489 e 1.022 do CPC; 95, 97 e 98 do CDC. Sustenta, em síntese: (i)negativa de prestação jurisdicional; e(ii) a inexigibilidade do título executivo pela falta de prévia liquidação da sentença.
+Contrarrazões ofertadas às fls. 195/201, e-STJ.
+O apelo extremo foi admitido na origem (fls. 204/208, e-STJ), ascendendo os autos a esta Corte Superior.
+É o relatório.
+Decido.
+O inconformismo merece parcial provimento.
+1.Consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+Assim, a apontada violação ao art. 1.022 não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A DESERÇÃO. INSURGÊNCIA DO AGRAVANTE.
+1. Verificada a concessão da gratuidade da justiça ao recorrente,
+deve ser afastada a deserção.
+2. Segundo a reiterada jurisprudência deste Superior Tribunal de Justiça, não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes
+4. Agravo interno provido para, de plano, conhecer e negar provimento ao agravo em recurso especial. (AgInt no AREsp 1610904/SP, minha relatoria, QUARTA TURMA, julgado em 26/10/2020, Dje 29/10/2020)
+2. Com relação à alegada inexigibilidade do título executivo pela falta de prévia liquidação da sentença coletiva, assiste razão à parte recorrente.
+Segundo a orientação jurisprudencial do STJ, é necessária a prévia liquidação de sentença proferida em ação coletiva para apuração não apenas do valor devido como também da titularidade do crédito pleiteado, sob pena, inclusive, de indeferimento liminar do pedido de execução do título executivo judicial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. 1. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. RECONHECIMENTO. 2. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REGULARIZAÇÃO DO PROCEDIMENTO. POSSIBILIDADE. 3. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência da Segunda Seção do STJ, "a instituição financeira depositária é parte legítima para figurar no pólo passivo da lide em que se pretende o recebimento das diferenças de correção monetária de valores depositados em cadernetas de poupança, decorrentes de expurgos inflacionários dos Planos Bresser, Verão, Collor I e Collor II" (REsp 1.147.595/RS  art. 543-C do CPC/1973 , Rel. Min. Sidnei Beneti, Segunda Seção, julgado em 8/9/2010, DJe 6/5/2011).
+2. Há necessidade de prévia liquidação de sentença proferida na ação coletiva para apuração do an debeatur e do quantum debeatur, sob pena, inclusive, de indeferimento liminar do pedido de execução do título executivo judicial. Entendimento firmado no REsp n.1.247.150/PR (art. 534-C do CPC/1973). É possível que as instâncias ordinárias regularizem o vício formal, notadamente quando ausente qualquer prejuízo para a instituição financeira devedora.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 648.540/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019) grifos nossos
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1.247.150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011).
+2. Se há a necessidade de apurar a titularidade do crédito e o montante devido a título de condenação dos expurgos inflacionários, revela-se notório o devido respeito ao procedimento de prévia liquidação da sentença coletiva, nos temos do art. 475-A do CPC de 1973. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1580295/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe 14/04/2016)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.
+IRRESIGNAÇÃO DA AGRAVADA.
+1. Em sendo a sentença proferida em sede de ação coletiva, a qual condenou o banco ao pagamento de expurgos inflacionários sobre caderneta de poupança, desprovida da liquidez necessária ao cumprimento do comando sentencial, forçoso se mostra a apuração da titularidade do crédito e do quantum debeatur mediante a liquidação de sentença, individualizando-se a parcela devida à exequente. Súmula 83/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 467.435/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/10/2015, DJe 26/10/2015) grifos nossos
+No caso dos autos, o Tribunal de origem considerou desnecessária a prévia liquidação da sentença, com fundamento na possibilidade de apuração do débito mediante simples cálculos aritméticos.
+Desse modo, constatada a divergência entre o acórdão recorrido e a jurisprudência do STJ, nos termos já declinados, é impositivo o provimento do recurso especial no tópico, afastada, por conseguinte, a multa decorrente do art. 523, § 1º, do CPC/15.
+3. Do exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento, para determinar a realização de liquidação da sentença proferida na ação civil pública previamente à sua efetiva execução.
+Publique-se. Intimem-se.
