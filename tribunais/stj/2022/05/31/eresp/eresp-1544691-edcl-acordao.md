@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 25/05/2022 a 31/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração opostos por Laurence Ferro Gomes Raulino em face de acórdão da Segunda Seção, de minha relatoria, que negou provimento ao agravo interno do ora insurgente, mantendo o indeferimento liminar dos embargos de divergência, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RETENÇÃO DE PERCENTUAL DE VENCIMENTOS DO CREDOR QUE PASSOU A FIGURAR COMO DEVEDOR NOS AUTOS DO CUMPRIMENTO DE SENTENÇA, APÓS O DESCUMPRIMENTO DE ORDEM DE RESTITUIÇÃO DE VALORES INDEVIDAMENTE LEVANTADOS DA CONTA JUDICIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS COTEJADOS.
+1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+2. Nessa perspectiva, uma vez não constatada a existência de similitude fático-jurídica entre os julgados confrontados, sobressai a impossibilidade de conhecimento dos embargos de divergência, cujo escopo é tão somente a uniformização da jurisprudência interna corporis e não a análise acerca do acerto ou desacerto da decisão embargada.
+3. Agravo interno não provido.
+Em suas razões, o embargante aponta: (i) erro material no julgado, ante a inaplicabilidade da Súmula 168/STJ, porque existentes precedentes da Terceira Turma (posteriores ao acórdão da Corte Especial proferido nos autos do EREsp 1.582.475/MG) adotando a tese de que "a flexibilização mencionada no EREsp só pode ser aplicada nos casos em que os rendimentos excederem 50 salários mínimos, tendo em vista que o CPC adotou um critério objetivo para análise da matéria, não havendo que se falar em análise subjetiva fora dos parâmetros legais, sob pena de esvaziamento completo da norma" (fl. 815); e (ii) "omissão quanto à existência de qualquer distinção entre um cumprimento de sentença e uma decisão que visa "dar efetividade à decisão judicial" que, na essência, significam a mesma coisa, demonstrando inegável similitude fática" (fl. 817).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do CPC de 2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel Codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não merece guarida o reclamo.
+Nos termos do artigo 1.022 do CPC de 2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel Codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+No caso, não se vislumbra qualquer vício de fundamentação no acórdão embargado que, além de atestar a falta de similitude fático-jurídica entre os arestos confrontados, considerou aplicável a Súmula 168/STJ à espécie, nos seguintes termos:
+Como de sabença, a admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+No caso, contudo, não se verifica a similitude fático-jurídica entre os arestos confrontados.
+Com efeito, no acórdão embargado, a constrição de percentual do salário da parte não ocorreu a título de execução de crédito, mas sim de forma a dar efetividade a diversas determinações judiciais de restituição de quantias levantadas indevidamente no âmbito do cumprimento de sentença, conforme se depreende do seguinte excerto do voto condutor:
+No caso em apreço, constou do acórdão proferido pelo TJDFT que a perícia oficial realizada nos autos apurou um quantum infinitamente inferior ao que foi levantado pelo autor, sendo devida a devolução do valor levantado (e-STJ, fls. 511/512).
+A controvérsia dos autos, dessa forma, não se refere à constrição sobre verba salarial pela simples cobrança de dívida, mas sim de determinação judicial de restituição de valores que não pertencem a LAURENCE e outros e foram indevidamente por eles levantados.
+Portanto, não é possível permitir que a impenhorabilidade seja utilizada para impedir que o credor tenha o direito ao recebimento de tutela jurisdicional capaz de dar efetividade a seus direitos materiais.
+No paradigma, por sua vez, a penhora de percentual da remuneração da parte foi requerida para fins de cobrança da dívida objeto de execução.
+Diante desse quadro, uma vez não constatada a existência de similitude fático-jurídica entre os julgados, sobressai a impossibilidade de conhecimento dos embargos de divergência, cujo escopo é tão somente a uniformização da jurisprudência interna corporis e não a análise acerca do acerto ou desacerto da decisão embargada.
+Ainda que assim não fosse, verifica-se que o conhecimento dos embargos de divergência encontra óbice na Súmula 168/STJ, segundo a qual:
+Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Isso porque a tese esposada no acórdão embargado encontra amparo na jurisprudência da Corte Especial no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no artigo 833, IV, do CPC de 2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, desde que preservado o suficiente para garantir a sua subsistência digna e a de sua família (EREsp 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 3.10.2018, REPDJe 19.3.2019, DJe 16.10.2018; e EREsp 1.518.169/DF, relator Ministro Humberto Martins, relatora para acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 3.10.2018, DJe 27.2.2019).
+ ..
+Consequentemente, não merece reforma a decisão monocrática que indeferiu liminarmente os embargos de divergência.
+Nesse quadro, é certo que os restritos limites dos embargos de declaração não permitem a reapreciação do pedido, revelando-se descabido o efeito modificativo pretendido pela embargante, que somente é possível em casos excepcionais e uma vez comprovada obscuridade, contradição, omissão ou erro material do julgado, o que não ocorreu na hipótese.
+3. Ante o exposto, rejeito os embargos de declaração.
+É como voto.
