@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado contra decisão da Presidência desta Corteque não conheceu do agravo em recurso especial.
+O agravante aduz não ser caso de aplicação da Súmula n. 182/STJ, porquanto houve o efetivo combate dos argumentos da decisão pelaqual foi negado seguimento ao recurso especial.
+É o relatório.
+Há de se reconhecer que os fundamentos da decisão, que inadmitiu o recurso especial, foram minimamente confrontados no agravo em recurso especial, cabendo o afastamento do enunciado sumular n. 182/STJ.
+Ante o exposto, reconsidero a decisão da Presidência para conhecer do agravo e determinar sua convolação em recurso especial, o que possibilitará o mais amplo debate sobre o tema referido nos autos, qual seja, honorários em ação em que se discute recursodo FUNDEF.
+Publique-se. Intimem-se.
+Após o trânsito, enviem-se os autos ao MPF para oferecimento de parecer.
