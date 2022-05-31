@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIANE FROTA ARAUJO contra decisão do Tribunal de Justiça do Estado de Rondônia, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a" e "c", da Constituição Federal, em oposição a acórdão assim ementado:
+"Revisão Criminal. Reexame de provas. Ausência de novas provas. Redução da pena. Inexistência de contrariedade a texto expresso da lei. Improcedência.
+Improcede a revisão criminal quando ausentes provas novas que justifiquem a redução da pena, bem como diante da inexistência de contrariedade ao texto expresso da lei ou a evidência dos autos." (e-STJ, fl. 73).
+A defesa aponta, além da existência de dissídio jurisprudencial, ofensa ao art. 386, VII, do CPP, alegando que as provas não são suficientes para manter a condenação pelo crime previsto no artigo 33, caput, da Lei 11.343/2006 (3º fato), diante da ausência dematerialidade delitiva.
+Caso não seja esse o entendimento, pleiteia seja aplicada a regra do art. 71 do Código Penal, tendo em vista que o 1º, 2º e 3º fatos contidos na denúncia referem-se a transações envolvendo a comercialização, entrega e fornecimento de drogas. Aduz, quanto ao ponto, que o aresto impugnado contraria o art. 621, III, do CPP.
+Requer: a) absolvição da recorrente em relação ao 3º fato da denúncia; ou b) seja reconhecida a continuidade entre os delitos de tráfico ilícito de drogas (artigo 33, caput, da Lei 11.4343/06) e, consequentemente, a unificação de penas, na forma do artigo 71 do Código Penal (e-STJ, fls. 101-140).
+Foram apresentadas as contrarrazões (e-STJ, fls. 145-153).
+O recurso foi inadmitido em razão da incidência do óbice da Súmula 7/STJ (e-STJ, fl. 155). Daí este agravo (e-STJ, fls. 157-186).
+O Ministério Público Federal manifestou-se "pelo conhecimento e não provimento do agravo em recurso especial" (e-STJ, fls. 207-213).
+É o relatório.
+Decido.
+A pretensão recursal merece parcial acolhimento.
+Consoante se verifica dos autos, a recorrente foi condenada, nos seguintes termos:
+- à pena de 05 (cinco) anos e 03 (três) meses de reclusão, além do pagamento de 525 (quinhentos e vinte e cinco) dias-multa, art. 33, caput, da Lei 11.343/06 (1º fato);
+- 05 (cinco) anos e 09 (nove) meses de reclusão, além do pagamento de 575 (quinhentos e setenta e cinco) dias-multa, art. 33, caput, da Lei 11.343/06 (2º fato);
+- 05 (cinco) anos e 03 (três) meses de reclusão, além do pagamento de 525 (quinhentos e vinte e cinco) dias-multa, art. 33, caput, da Lei 11.343/06, (3º fato);
+- 3 (três) anos de reclusão e pagamento de 700 (setecentos) dias-multa (4º fato).
+Foi reconhecido o concurso material, previsto no art. 69, do CP, para unificar as penas, totalizando 19 (dezenove) anos e 03 (três) meses de reclusão, além do pagamento de 2.325 (dois mil trezentos e vinte e cinco) dias-multa.
+Inicialmente, cumpre destacar que a revisão criminal, preconizada no artigo 621 do Código de Processo Penal, será admitida: i) por contrariedade à lei ou provas constantes dos autos; ii) sentença condenatória se fundamentar em prova falsa; e iii) novosfatos denotarem modificação da situação para inocência ou redução de pena.
+Quanto à suscitada ausência de materialidade delitiva em relação ao crime de tráfico de drogas, descrito no 3º fato da inicial acusatória, o Tribunal a quo, ao apreciar o pedido revisional, concluiu que:
+"Consoante a lição de Guilherme de Souza Nucci, sentença contrária à evidência dos autos, prevista no inciso I, do art. 621, do CPP, deve ofender frontalmente as provas constantes dos autos.
+ ..  O objetivo da revisão não é permitir uma "terceira instância" de julgamento, garantindo ao acusado mais uma oportunidade de. ser absolvido ou ter reduzida sua pena, mas, sim, assegurar-lhe a correção de um erro judiciário. Ora, este não ocorre quando um juiz dá a uma prova uma interpretação aceitável e ponderada. Pode não ser a melhor tese ou não estar de acordo com a turma julgadora da revisão, mas daí aceitar a ação rescisória somente para que prevaleça peculiar interpretação é desvirtuar a natureza do instituto. (Manual de Processo Peni31e Execução Penal, 2016, pág. 891)
+No entanto, anoto que a tese de ausência de materialidade delitiva, pela falta de apreensão da droga, foi exaustivamente debatida na sentença condenatória, colacionando o magistrado decisões do Superior Tribunal de Justiça, no sentido de que a ausência de apreensão da droga não torna a conduta atípica se existirem outros elementos de provas aptos a comprovarem o crime de tráfico de drogas.
+Além disso, a decisão de primeiro grau e os argumentos trazidos pela defesa foram examinados quando do julgamento do recurso de apelação, deixando a revisionanda, agora em sede de revisão, de invocar qualquer fato novo que pudesse ensejar a reapreciação do mérito, de modo que não há fundamento legal para postular a revisão.
+Reforço também que as decisões que mantiveram a condenação da revisionanda pelo 3º fato descrito na denúncia, mesmo sem a apreensão da droga, não são absurdas, pois o Informativo 501, da Sexta Turma do Superior Tribunal de Justiça, no bojo do HC 131.455 - MT, tendo como relatora a ministra Maria Thereza de Assis Moura, entendeu que:
+ ..  a ausência de apreensão da droga não torna a conduta atípica se existirem outros elementos de prova aptos a comprovarem o crime de tráfico. No caso, a denúncia fundamentou-se em provas obtidas pelas investigações policiais, dentre elas a quebra de sigilo telefônico, que são meios hábeis para comprovar a materialidade do delito perante a falta da droga, não caracterizando, assim, a ausência de justa causa para a ação penal.
+(..)
+E ainda, considerando a ação revisional no caso condenação pelo crime de tráfico de drogas sem a apreensão de droga, já decidiu o STJ:
+(..)
+Assim, verifico que, tanto por ocasião da sentença condenatória quando no julgamento da apelação, houve uma análise minudente e profunda dos elementos probatórios colacionados aos autos, em que se demonstrou os motivos pelos quais a condenação da revisionanda seria justa e harmônica com as provas produzidas, razão pela qual não há razões para o conhecimento dessa ação revisional, em que se discute, novamente, matéria que já foi exaustivamente analisada." (e-STJ, fls. 91-93).
+Todavia, de acordo com o entendimento desta Corte Superior, a apreensão de drogas e a constatação da natureza entorpecente da substância por laudo toxicológico são imprescindíveis para demonstrar a materialidade do delito descrito no art. 33, caput, da Lei n. 11.343/2006 (REsp 1865038/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/8/2020, DJe 04/9/2020; EREsp 1.544.057/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/10/2016, DJe 9/11/2016; AgRg no REsp 1657417/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/11/2019, DJe 19/12/2019).
+Desse modo, tendo em vista que, em relação ao 3º fato narrado na denúncia, nenhuma substância entorpecente foi apreendida com a recorrente, imperativa a sua absolvição.
+De outra parte, no tocante à aplicação da continuidade delitiva, o acórdão recorrido destacou que, "após a análise das provas, tanto na sentença condenatória de primeiro grau como no julgamento do recurso de apelação, entenderam os magistrados que os fatos se deram em concurso material, não tendo sido apresentado pela revisionanda o descobrimento de qualquer fato inédito no sentido de que os fatos foram praticados nas mesmas condições de tempo, lugar e maneira de execução" (e-STJ, fl. 94).
+Como se vê, quanto a esse ponto, a Corte Estadual entendeu ser incabível o presente pedido revisional, por não se adequar às hipóteses trazidas pelo art. 621 do Código de Processo Penal. Destacou que a matéria foi exaustivamente analisada no curso da ação penal, tanto pelo juízo singular quanto pelo Tribunal, não tendo a recorrente trazido nenhuma prova nova, limitando-se tão somente a um novo pleito de reexame do julgado.
+Com efeito, de acordo com a jurisprudência desta Corte Superior, é descabida a utilização de revisão criminal como segundo recurso de apelação.
+Nesse sentido:
+" ..
+1. Firme o entendimento deste Superior Tribunal de Justiça no sentido de que é inadmissível a utilização do instituto da revisão criminal como um novo recurso de apelação, de forma a propiciar reanálise da prova já existente dos autos.
+Omissis.
+3. Agravo regimental não provido." (AgRg no AREsp 14.228/MS, Relator Ministro JORGE MUSSI, QUINTA TURMA, DJe 11/6/2013)
+" ..
+1. É assente o entendimento nesta Corte de que o pedido de revisão criminal não pode se fundar na precariedade das provas carreadas aos autos, sob pena de se travestir em novo recurso de apelação. Antes, deve se evidenciar a ocorrência de qualquer uma das hipóteses previstas no art. 621, do Código de Processo Penal.
+2. Agravo regimental não provido." (AgRg no REsp 1380897/SC, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 08/10/2013, DJe 14/10/2013)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo e dou parcial provimento ao recurso especial, tão somente para absolver a ré quanto ao 3º fato narrado na denúncia e, em consequência, redimensionar a sua pena para 14 anosde reclusão, além de 1800 dias-multa, mantidos os demais termos do acórdão.
+Publique-se. Intimem-se.
