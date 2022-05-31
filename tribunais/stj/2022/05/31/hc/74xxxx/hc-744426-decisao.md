@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrada em face de acórdão assim ementado (fl. 107):
+"Habeas Corpus" - Paciente condenado como incurso no artigo 33, "caput" da Lei nº 11.343/2006, sendo-lhe negado o apelo em liberdade - Alegação de insuficiência de fundamentação, em afronta ao artigo 93, inciso IX, da Constituição Federal - Idêntica causa de pedir deduzida em impetração anterior, pendente de julgamento - Alegação de inocência - Matéria que demanda aprofundada análise das provas, insuscetível de apreciação na estreita via do "habeas corpus" - Previsão de recurso específico, já interposto pela defesa Inviável admissão do "writ" - Petição inicial indeferida - Ordem não conhecida.
+Consta dos autos que o paciente foi condenado como incurso no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal,às penas de 10 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado e ao pagamento de 24 dias-multa.
+Sustenta a Defesa a inexistência dos requisitos previstos no artigo 312 do Código de Processo Penal para a manutenção da prisão preventiva, bem como que a decisão não é fundamentada.Afirma que na sentença condenatória foi vedado o direito de recorrer em liberdade, sem a devida fundamentação.
+Requer, liminarmente, a concessão da ordem de habeas corpus, para que possa recorrer em liberdade até o esgotamento das vias recursais ou, alternativamente, seja imposto ao paciente o recolhimentodomiciliar com monitoramento eletrônico ou, ainda, seja a ordem concedida de ofício.
+Com efeito, as matérias referentes à prisão preventiva e a vedação de recorrer em liberdade não foramobjeto de análise pelo colegiado do Tribunal de origem (fls. 106-109), razão pela qual não poderá ser conhecido, nesta parte, por indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
