@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por ISAAC JOAO GONCALVES eJ. GONÇALVES COMÉRCIO DE PESCADOS LTDA em face de Ministro deste Superior Tribunal de Justiça, com objetivo de compelir a autoridade impetrada a examinarpetições formalizadasno bojodoREsp nº 1.745.033/RS.
+Segundo afirmam, permanecemsem apreciação duas petições. Na primeira,protocoladaem28 de março de 2022,postulamo deferimento de tutela provisória incidental com objetivo de atribuir efeito suspensivo ao acórdão prolatadono REsp nº 1.745.033/RS. Com relação à segunda,pendente de análise desde 4 de maio de 2022, reputaminobservada a preferência legal assegurada aoidoso na tramitação dos processos judiciais.
+Apontam violados os prazos estipulados no art. 226 do CPC earts. 110 e 111 do RISTJ. Invocam o art. 4º do CPC a versar sobre razoável duração do processo.
+Ao final, requerem "aprocedência sentencial do Mandado de Segurança, demandando ao Ministro Relator da Segunda Turma, Dr. Herman Benjamin, a análise imediata de tais pedidos ora citados e datados em28/03/2022 e 04/05/2022, vinculados ao RESP 1745033, onde HÁ PRAZOEXTRAPOLADO DE FORMA DESARRAZOADA, por mais de 50 (cinquenta)dias" (e - STJ fl. 5).
+É, no essencial, o relatório. Decido.
+A jurisprudência desta Corte Superior é uníssona no sentido de ser inadmissível a impetração do mandado de segurança contra ato jurisdicional, salvo em caso de teratologia ou flagrante ilegalidade, conforme os seguintes precedentes da Corte Especial, transcritos a título ilustrativo:
+AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO JUDICIAL DE MINISTRO RELATOR DESTA CORTE. INDEFERIMENTO LIMINAR. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA NA DECISÃO SINGULAR AMPARADA EM NORMA REGIMENTAL E NA JURISPRUDÊNCIA CONSOLIDADA DESTE SODALÍCIO. RECURSO IMPROVIDO.
+1. Nos termos da jurisprudência remansosa deste Sodalício, não cabe impetração de mandado de segurança contra ato judicial proferido por relator ou pelos órgãos fracionários desta Corte Superior, exceto quando houver flagrante ilegalidade ou teratologia. Precedentes.
+2. No caso em exame, o mandamus foi impetrado contra decisão monocrática proferida por relator da Quarta Turma, com amparo no Enunciado n. 2/STJ, no artigo 255, § 4º, II, do RISTJ e na jurisprudência consolidada deste Tribunal Superior.
+3. O ato apontado como coator foi, posteriormente, confirmado no respectivo Colegiado, por unanimidade.
+4. Agravo regimental improvido.
+(AgRg no MS 23.509/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 07/02/2018, DJe 20/02/2018)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. INDEFERIMENTO LIMINAR DO WRIT. ATO COATOR. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. SÚMULA 202/STJ. INAPLICABILIDADE. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A utilização do mandado de segurança para impugnar decisão judicial só tem pertinência em caráter excepcionalíssimo, quando se tratar de ato manifestamente ilegal ou teratológico, devendo a parte demonstrar estarem presentes os requisitos genéricos do fumus boni iuris e do periculum in mora.
+2. Na hipótese, não se verifica a ocorrência de ato abusivo ou ilegal, tampouco a existência de direito líquido e certo amparável pelo mandado de segurança, na medida em que foi impetrado contra decisão devidamente fundamentada, com motivação clara e consistente, que, embora em dissonância com a pretensão da ora impetrante, está em perfeita sintonia com a jurisprudência desta Corte de Justiça.
+3. O enunciado da Súmula 202 do STJ socorre apenas o terceiro que não teve condições de tomar ciência da decisão que lhe prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação que não ocorre na hipótese dos autos. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no MS 22.882/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 06/09/2017, DJe 14/09/2017)
+Em que pesem os argumentos dos impetrantes, não se verifica, na espécie, teratologia apta a justificar a impetração. É que os prazos mencionados pelos impetrantes, constantes nos art. 226 do CPC e art. 110 do RISTJ, são direcionados aos juízes e funcionam como parâmetro para a prática dos atos processuais. Não há, portanto, ilegalidade ou abusividade, tampouco constitui direito líquido e certo dos impetrantes, dada a natureza jurídica de prazos impróprios.
+Ademais, vale frisar que esta Corte Superior repudia apostura baseada no desvirtuamento da natureza especialíssima do mandamus.Confiram-se:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. WRIT COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. TERATOLOGIA E ILEGALIDADE NÃO VERIFICADAS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. O mandado de segurança não serve como sucedâneo recursal, daí porque não é cabível sua impetração em casos em que há recurso próprio, previsto na legislação processual, apto a resguardar a pretensão do impetrante, mesmo que sem efeito suspensivo, salvo a hipótese de decisão teratológica ou flagrantemente ilegal, o que não restou demonstrado.
+2. No caso, ainda pende de julgamento embargos de declaração opostos pela parte ora agravante/impetrante contra o ato impugnado (acórdão da Terceira Turma devidamente fundamentado, apesar de em sentido inverso ao pleiteado pela impetração, não configurando, portanto, ato teratológico ou flagrantemente ilegal).
+3. Agravo interno a que se nega provimento.
+(AgInt no MS 23.159/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 29/11/2017, DJe 05/12/2017)
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. WRIT IMPETRADO EM FACE DE DECISÃO DA TERCEIRA TURMA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE.
+1. "A orientação desta Corte é pacífica sobre o descabimento de Mandado de Segurança contra ato jurisdicional dos órgãos fracionários ou de Relator desta Corte Superior, a menos que neles se possa divisar flagrante e evidente teratologia  .. ". (AgRg no MS 21.096/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 05/04/2017, DJe 19/04/2017).
+2. "Somente o recurso típico (não a ação de mandado de segurança) pode questionar o acerto de um julgado proferido e revisar os seus termos para corrigir alegado error in judicando" (AgRg no MS 22.653/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 07/12/2016, DJe 15/12/2016).
+3. Agravo interno não provido.
+(AgInt no MS 23.506/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 20/11/2017, DJe 27/11/2017)
+Ante o exposto, considerando o manifesto descabimento do presente writ, indefere-se liminarmente o mandado de segurança, nos termos do caput do artigo 10 da Lei n. 12.016/09 e do artigo 212 do RISTJ.
+Sem condenação em honorários, nos termos da Súmula n. 105/STJ.
+Publique-se. Intimem-se.
