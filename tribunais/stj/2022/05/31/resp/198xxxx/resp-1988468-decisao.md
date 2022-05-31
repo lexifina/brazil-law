@@ -1,0 +1,55 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fl. 480):
+PREVIDENCIÁRIO. PROCESSO CIVIL. REAFIRMAÇÃO DA DER.
+A reafirmação da data de entrada do requerimento administrativo (DER), antes inclusive admitida pela administração previdenciária (IN 77/2015), tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, como fato superveniente, após o ajuizamento da ação ou da própria decisão recorrida, de ofício ou mediante petição da parte.
+Os embargos de declaração foram acolhidos parcialmente, com efeitos modificativos (e-STJ, fls. 512-516).
+Defende a autarquia, em síntese, que não foi apreciada pela Corte de origem a tese levantada pelo embargante acerca da impossibilidade de condenação em honorários advocatícios sobre o valor da condenação, nos termos da decisão proferida pelo STJ no REsp n. 1.727.063/SP, violando-se o art. 1.022, II, do CPC.
+Além disso, apesar de a Turma julgadora teradotado a tese firmada peloSTJ para reconhecer a possibilidade de reafirmação da DER, não teria seguidoos parâmetros estabelecidos quanto à condenação em honorários advocatícios, contrariando os arts. 85 e927, III, do CPC, c/c o art. 389 do Código Civil.
+Sem contrarrazões, o recurso especial foi admitido na origem(e-STJ, fls. 539-541).
+É o relatório.
+Verifica-se, de início, que não merece prosperar a tese de violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal de origem haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSUFICIÊNCIA DA PENHORA. REFORÇO. INTIMAÇÃO NECESSÁRIA. AUSÊNCIA. RECURSO REPETITIVO RESP 1.127.815/SP. NÃO SURPRESA. ART. 10 DO CPC/2015. PROVIMENTO.
+1. Não se configurou a ofensa ao art. 1.022, II, do CPC/2015, pois o Tribunal de origem julgou integralmente a lide e refutou, ao seu ver, a aplicação do precedente aventado.
+2. O Tribunal regional confirmou sentença que extinguiu Embargos à Execução fiscal apenas em virtude da insuficiência do valor penhorado.
+3. Não obstante, o próprio precedente usado pela Corte de origem como fundamento decisório, o REsp 1.127.815/SP, expressamente diz no item 9 de sua ementa que cabe ao juiz, antes da sentença terminativa, abrir prazo para que a parte reforce a penhora. Tal providência prestigia o contraditório, a ampla defesa e o princípio da não surpresa, hoje positivado no art. 10 do CPC/2015.
+4. "A insuficiência de penhora não é causa bastante para determinar a extinção dos embargos do devedor, cumprindo ao magistrado, antes da decisão terminativa, conceder ao executado prazo para proceder ao reforço, à luz da sua capacidade econômica e da garantia pétrea do acesso à justiça" (REsp 1.127.815/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 14/12/2010).
+5. Recurso Especial provido, para que o juízo de origem oportunize o reforço da penhora.
+(REsp n. 1.809.124/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/6/2019, DJe de 1º/7/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 489, § 1º, IV, DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. PRESENÇA DE CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. À luz do princípio da causalidade, aquele que deu causa à instauração do processo deve responder pela verba honorária de sucumbência.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+4. Hipótese em que a Corte de origem se manifestou, de maneira clara e fundamentada, ao consignar expressamente ser do Judiciário o equívoco na efetivação de penhora não requerida na execução fiscal, sendo certo, ainda, que o conhecimento do recurso especial encontra óbice na Súmula 7 do STJ, uma vez que os embargos à execução foram extintos por ausência de interesse de agir, sem que se pudesse imputar a causalidade ao exequente.
+5. Agravo interno desprovido.
+(AgInt n. AREsp n. 1.364.626/PE, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/5/2019, DJe de 12/6/2019).
+Quanto à questão de fundo, oTribunal de origem assim se manifestou sobre a fixação dos honorários advocatícios:
+A sucumbência parcial da parte autora, determinada pela concessão do benefício somente mediante o cômputo de lapso de tempo considerável após a DER, impõe a sua condenação ao pagamento da parcela correspondente aos ônus sucumbenciais(e-STJ, fl. 486).
+No presente caso, havia interesse de agir em relação à especialidade do interregno de 03/12/1998 a 05/02/2014 por ocasião do ajuizamento da ação, que foi reconhecido administrativamente no curso da ação, razão pela qual a sucumbência foi reconhecida como recíproca na sentença.
+O acórdão manteve a sucumbência como recíproca também em razão da reafirmação da DER. Todavia, o reconhecimento tardio da especialidade impõe a condenação do INSS na verba. Logo, a sucumbência da autarquia não decorreu unicamente da reafirmação da DER(e-STJ, fl. 515).
+Observa-se que a decisão manteve a sucumbência recíproca em virtude de período que não havia sido reconhecido como especial, inclusive, a atribuição da sucumbência à autora em razão da reafirmação da DER.
+Nesse contexto, verifica-se que as alegações estão dissociadas da argumentação do acórdão recorrido, o que implica a deficiência de fundamentação, atraindo a incidência da Súmula n. 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MULTA APLICADA PELA ANS. COBRANÇA DE HONORÁRIOS DE INSTRUMENTADOR CIRÚRGICO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). INEXISTÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS DE LEI. RAZÕES RECURSAIS DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. ACÓRDÃO EM CONSON NCIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES.
+I - Na origem, trata-se de ação ajuizada contra a Agência Nacional de Saúde Suplementar - ANS, objetivando a nulidade de penalidades aplicadas em processo administrativo - multa no valor de R$ 80.000,00 (oitenta mil reais). O Tribunal Regional Federal da 4ª Região negou provimento à apelação, mantendo a sentença que julgou improcedente o pedido. Nesta Corte, o recurso especial foi parcialmente conhecido e improvido.
+ ..
+VII - De todo modo, as razões recursais apresentadas pela recorrente estão dissociadas dos fundamentos do acórdão recorrido. No recurso especial, a recorrente insurge-se quanto à negativa de vigência dos referidos dispositivos legais, ante aplicação do Código de Defesa do Consumidor in casu, o que não se constata na análise do decisum objurgado. Assim, aplica-se, na espécie, ainda, o verbete sumular n. 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+VIII - O mesmo ocorre com relação à suscitada contrariedade dos arts. 926 e 927, caput e § 4º, do CPC/2015, na medida em que os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido, porquanto inexiste súmula acerca da matéria objeto da ação, dando ensejo, de igual modo, à incidência do óbice sumular n. 284/STF.
+IX - Por fim, no que se refere à indicada ofensa ao art. 12, II, "c", da Lei n. 9.656/1998, verifica-se que o acórdão recorrido, ao aplicar o entendimento consolidado pelo Tribunal Regional Federal da 4ª Região, no sentido de que as operadoras de planos de saúde, em caso de internação hospitalar, possuem obrigação de cobertura de despesa relacionada aos honorários de instrumentador cirúrgico, pois intrínseco ao procedimento realizado, encontra-se em consonância com o entendimento jurisprudencial desta Corte, senão vejamos: REsp 1.822.089/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 5/11/2019 e REsp 1.821.860/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 27/8/2019, DJe 30/8/2019.
+X - Agravo interno improvido.
+(AgInt no REsp n. 1.853.540/PR, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/6/2020, DJe de 26/6/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RAZÕES RECURSAIS DISSOCIADAS DO ARESTO DO TRIBUNAL DE ORIGEM. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ANTECIPAÇÃO DE TUTELA CONCEDIDA AUSÊNCIA DE PRONUNCIAMENTO DEFINITIVO. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. ASTREINTES. ART. 537, § 1º, DO CÓDIGO DE PROCESSO CIVIL. MODIFICAÇÃO DE OFÍCIO. CABIMENTO. PRECEDENTES. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando as razões recursais encontram-se dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, da Súmula n. 284/STF.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no AREsp n. 1.571.937/PA, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 6/4/2020, DJe de 13/4/2020).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes:
+1) no caso de ter sido aplicado, na origem, o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva;
+2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma;
+3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento).
+Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelos arts. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
