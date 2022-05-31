@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DELSON ANTÔNIO BUENO e OUTRO à decisão de fls. 673/674, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Como se pode notar, o e. Ministro Presidente, cita o §6º referindo-se a responsabilidade dos Embargados em comprovarem a ocorrência de feriados.
+Concessa máxima vênia, é necessário que se esclareça que a suspensão dos prazos não se deu pela decorrência de feriados, mas sim pela pandemia de COVID-19, que se alastrava pelo mundo inteiro.
+Desse modo, é cediço que dias antes da interposição do Recurso Especial, qual seja dia 06/05/2021, o Brasil vivia ainda, a chamada "segunda onda" da pandemia da COVID-19, pandemia que afetou consideravelmente o Poder Judiciário do país e que culminou na suspensão de prazos processuais por todos os tribunais existentes no território brasileiro, não sendo diferente no Tribunal de Justiça de Minas Gerais, onde teve origem o presente processo.
+Sendo assim, sabedores da responsabilidade de respeitar o prazo estipulado para a interposição do Recurso Especial, os ora Embargantes, anexaram juntamente com o recurso, a PORTARIA CONJUNTA Nº 1.181/PR/2021 do Tribunal de Justiça de Minas Gerais (fls. 634-635), que em seu artigo 2º, §§2 2 , 3º e 4º, determina que: (fl. 679).
+ ..
+Outrossim, para que se possa entender o contexto ao qual encontravam-se os prazos processuais, importante destacar e anexar a Portaria nº 1.175 do Tribunal de Justiça de Minas Gerais. (fl. 680).
+ ..
+Como se pode observar, pela cronologia das portarias publicadas pelo Tribunal de Justiça de Minas Gerais, novamente anexas nesta oportunidade, cristalino que no momento da publicação do Acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, qual seja dia 14/04/2021, os prazos, inclusive, os dos processos físicos criminais com réu solto estavam suspensos, portanto, o Recurso Especial interposto está indubitavelmente tempestivo.
+ ..
+A publicação do acórdão ocorreu no dia 14/04/2021, época em que os prazos se encontravam suspensos pela Portaria n. 1.175/2021 do TJMG.
+Em 22/04/2021 (quinta-feira) os prazos foram retomados pela portaria n. 1.181/2021 do TJMG.
+Assim, o prazo de 15 (quinze) dias para a interposição de Recurso Especial, se norteou no artigo 1.003, §5º, do Código de Processo Civil, cumulado com o artigo 798 do Código de Processo Penal.
+Em vista disso, patente que o último dia do prazo do recurso especial seria o dia 06/05/2021, data em que de fato foi interposto via Protocolo Postal (fl. 681).
+ ..
+Cumpre registrar ainda, que além de contraditória a r. Decisão é omissa, visto que a despeito de no tópico "1. DA TEMPESTIVIDADE.", entabulado no recurso especial, deixar expresso a existência e juntada das Portarias de suspensão do prazo, na apreciação do recurso por V. Exa., ao nosso sentir, não houve ciência, assim como qualquer menção quanto ao importante teor das Portarias n 2 1.181/PR/2021 e n 2 1.175/2021, que foram absolutamente desprezadas (fl. 682).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por esta Corte, não bastando a mera menção ao feriado local nas razões recursais.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NOVO CPC. PRAZO LEGAL DE 15 (QUINZE) DIAS. CÔMPUTO EM DIAS CORRIDOS. INTEMPESTIVIDADE. ARTIGO 798 DO CPP. INSURGÊNCIA IMPROVIDA.
+1. Após a entrada em vigor da Lei n.º 13.105/2015, a Terceira Seção desta Corte Superior assentou entendimento no sentido de que, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, em razão de disposição específica do art. 798 do Código de Processo Penal.
+2. No caso, a decisão proferida em Juízo Prévio de Admissibilidade foi publicada no Diário da Justiça Eletrônico em 18.12.2017, tendo início o prazo para interposição do agravo em recurso especial no primeiro dia útil subsequente, in casu, 2.1.2017, mostrando-se intempestivo o reclamo protocolado somente em 23.1.2018.
+3. A despeito da informação contida na peça recursal sobre a suspensão dos prazos no Tribunal a quo, não trouxe o agravante nenhum documento idôneo do respectivo Sodalício a respaldar sua alegação, não se desincumbindo, pois, de seu ônus. 4. A comprovação de suspensão do prazo deve ser realizada por meio de documento idôneo capaz de evidenciar a prorrogação do prazo do recurso.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1259368/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 17/8/2018.)
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que de fato não ocorreu. Registre-se que o documento juntado às fls. 634/635 é insuficiente para afastar a intempestividade do recurso, uma vez que apenas prevê a retomada dos prazos para os processos físicos, não informando o início da suspensão.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Além disso, a jurisprudência referente ao CPC de 1973 admitia a comprovação posterior da tempestividade. (AgInt no REsp 1735131/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2019; e EDcl no AgRg no AREsp 1238085/CE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 28/3/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso. (AgRg no AREsp 1686121/SE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/6/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
