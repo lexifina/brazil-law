@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 452/456) opostos à decisão desta relatoria que negou provimento a agravo em recurso especial (e-STJ fls. 446/449).
+A parte embargante sustenta que a decisão é omissa quanto à valoração errônea da prova pelo Tribunal de origem e que não haveria falar em incidência da Súmula n. 7 do STJ. Assevera que a controvérsia dispensa a interpretação de cláusula contratual, bastando a distinção jurídica do ato de alienar e do ato de onerar.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Extrai-se da decisão embargada que a possibilidade de alienação dobem imóvel decorreu de peculiaridades do caso, bem como da interpretação de cláusulas contratuais. No caso concreto, oTRFda 4ª região, com base nas disposições contratuais, ratificou a intepretação de cláusula, realizadapelo magistrado de primeiro grau, que considerou legítima a contratação de empréstimocom garantia por alienação fiduciária de imóvel pela sócia administradora. Além disso, o Tribunal assentouque "os sócios, por deliberaçãounânime, autorizaram a sócia Kénia onerar imóveis da sociedade, ou seja, a cláusula,ao contrário do que pretende fazer crer a inicial, permitia previamente queadministradora constituísse a alienação fiduciária sobre o imóvel" (e-STJ fl. 361).
+Assim, verifica-se que o Tribunal a quo julgou a lide com respaldo emampla análise contratual, cujo reexame é vedado em âmbito de recurso especial, ante oóbice da Súmula n. 5 do STJ.
+Como dito anteriormente, o magistrado de primeiro grau havia indeferido tutelade urgência requerida pelo recorrente, pois constatou que o imóvel onerado não fazparte do seu acordo de retirada do quadro societário e que, mesmo intimada, nãoprestou os devidos esclarecimentos acerca de eventual ajuste que envolvesse o bem.
+Consignou, também, que a participação ínfima do sócio, com apenas 1% (umpor cento) das cotas sociais, demonstra que permanência no quadro societário serviaao atendimento de formalidade legal para a constituição de sociedade empresária,de forma que essa "interpretação também é mais condizente com o percentual dequotas sociais distribuídos entre os sócios, sendo mais lógico que a sócia com maiorpercentual de quotas (99%) tenha igualmente maior poder diretivo" (e-STJ fl. 361).
+Modificar o entendimento do TRF4 quanto à possibilidade dealienação fiduciária de bem imóvel pela sócia majoritária e administradora dasociedade empresária, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor daSúmula n. 7/STJ.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
