@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pela incidência da Súmula 7 do STJ.
+Sustenta o agravante que "não está se tratando de REEXAME de prova, e, sim, da VALORAÇÃO DA PROVA que NÃO OCORREU DE MANEIRA ADEQUADA, razão pela qual o entendimento pode ser ALTERADO sem a violação do teor da Súmula 07 do STJ" (fl. 1032); ereprisa as razões já expendidas no recurso especial.
+Requer o provimento do agravo para que se dê seguimento ao recurso especial.
+Apresentada contraminuta (fls. 1053-1057), manifestou-se o Ministério Público Federal pelo não provimento do agravo.
+O Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos (fls. 1013-1018):
+Trata-se de recurso especial interposto com fundamento no art. 105,inciso III, alínea "a", da Constituição Federal, contra acórdão proferido porÓrgão Colegiado desta Corte, ementado nos seguintes termos:
+PENAL. PROCESSUAL PENAL. INÉPCIA DA DENÚNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DUPLICATA SIMULADA. ARTIGO 172 DO CÓDIGO PENAL. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. CONDENAÇÃO MANTIDA. DOSIMETRIA DA PENA. EXIGIBILIDADE DE CONDUTA DIVERSA. ATENUANTES DE CONFISSÃO E CIRCUNSTÂNCIA RELEVANTE. INAPLICABILIDADE. CONTINUIDADE DELITIVA. PENAL DE MULTA. MULTA. PROPORCIONALIDADE. REDUÇÃO DE OFÍCIO.
+1. Não é inepta a denúncia que descreve o fato delituoso com todas as suas circunstâncias, qualifica o acusado, promove a classificação jurídica do delito e apresenta rol de testemunhas (art. 41 do Código de Processo Penal).
+2. Não há falar em cerceamento de defesa, quando o juiz indefere as provas consideradas por ele como irrelevantes, impertinentes ou protelatórias.
+3. A emissão de duplicata relativa a negócio jurídico inexistente, com o objetivo de auferir vantagem pecuniária perante a Caixa Econômica Federal, configura o delito previsto no artigo 172 do Código Penal.
+4. O conjunto probatório e as circunstâncias que permearam os fatos autorizam a certeza de autoria e dolo do acusado, consistente na vontade livre e consciente de emitir duplicatas em que ele, na condição de responsável pela empresa emitente, sabia que eram simuladas, pois não correspondiam a mercadorias e/ou serviços efetivamente negociados, apresentando para desconto em prejuízo à CEF.
+5. Devidamente comprovadas a materialidade e a autoria, e sendo o fato típico, antijurídico e culpável, deve ser mantida a sentença para condenar o acusado pela prática do delito de duplicata simulada.
+6. "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena." (HC 107.409/PE, 1.ª Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012), devendo o ser tomado em conta os princípios da necessidade e eficiência,decompostos nos diferentes elementos previstos no art. 59 do Código Penal, principalmente na censurabilidade da conduta.
+7. Não é possível a redução da pena aquém do mínimo legal por força da atenuante da confissão, nos termos da Súmula231/STJ.
+8. Descabida a aplicação da atenuante do art. 66 do CP, uma vez que, além de a Defesa não ter feito prova nesse sentido, tampouco estabeleceu a relação supostamente existente entre o ato ilícito e a manutenção dos dependentes do acusado.
+9. Sendo sessenta e sete as duplicatas emitidas de forma simulada, faz-se razoável que o aumento da pena, por força da continuidade delitiva, dê-se no patamar de 2/3, a teor do entendimento consolidado pelo Superior Tribunal de Justiça.
+10. "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena." (HC 107.409/PE, 1.ª Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012), devendo o ser tomado em conta os princípios da necessidade e eficiência, decompostos nos diferentes elementos previstos no art. 59 do Código penal, principalmente na censurabilidade da conduta.
+11. A fixação da pena de multa obedece ao sistema bifásico, devendo guardar proporcionalidade com a sanção corporal imposta.
+12. O valor de cada dia-multa deve levar em conta a situação econômica do condenado, podendo ser aumentada até o triplo, caso o máximo previsto se mostre ineficaz, em razão da condição econômica do réu. Inteligência dos arts. 49, § 1º e 60, § 1º, ambos do Código Penal.
+13. Não tendo a pena de multa tarifação expressa no tipo, deve-se tomar como balizadores as penas mínimas e máximas de todo o Código Repressivo.
+14. Apelação criminal desprovida e, de ofício, reduzida a pena de multa.
+A parte recorrente sustenta que o acórdão negou vigência aos artigos 65, III, a e 66 do Código Penal e 386, VI e VII do Código de Processo Penal. Alega a atipicidade da conduta e requer a absolvição. Alternativamente requer a aplicação de atenuante por ter agido em favor de seus empregado sem razão das dificuldades financeiras.
+Decido.
+A sistemática dos recursos excepcionais impõe que o exame levado a efeito pelos Tribunais Superiores fique adstrito às questões de direito, uma vez que os temas de índole fático-probatória exaurem-se com o julgamento nas vias ordinárias. Isto importa em dizer que o exame da matéria fática e das provas é efetivado com profundidade e se esgota no segundo grau de jurisdição.
+Assim, a pretensão recursal não merece trânsito, porque a reanálise a respeito da comprovação da conduta delitiva e das alegadas dificuldades financeiras demandaria invariavelmente o reexame de todo o acervo fático-probatório, medida vedada em recurso especial por óbice da Súmula nº 07 doSTJ ("a pretensão de simples reexame de prova não enseja recurso especial"). Nesse sentido:
+ ..
+Ante o exposto, não admito o recurso especial.
+Contudo, ao se insurgir contra a decisão agravada, o agravante deixou de refutar, fundamentadamente, as razões deduzidas no decisum que inadmitiu o recurso especial, limitou-se alegar a não incidência da Súmula 7 do STJ,pois "não está se tratando de REEXAME de prova, e, sim, da VALORAÇÃO DA PROVA que NÃO OCORREU DE MANEIRA ADEQUADA, razão pela qual o entendimento pode ser ALTERADO sem a violação do teor da Súmula 07 do STJ" (fl. 1032); e a reprisar as razõesjá expendidas no recurso especial.
+Vale lembrar que, ao recorrente, incumbe demonstrar o equívoco da decisão em face da qual se insurge, não bastando a impugnação genérica, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+Incide, por analogia, a Súmula 182/STJ, segundo a qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
