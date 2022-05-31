@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJRS assim ementado (e-STJ fl. 448):
+AGRAVO DE INSTRUMENTO. PROPRIEDADE INTELECTUAL. COBRANÇA DE DIREITOS AUTORAIS PELO ECAD. CUMPRIMENTO DE SENTENÇA. CÁLCULO EXEQUENDO. JUROS DE MORA. AMORTIZAÇÃO A PARTIR DO DEPÓSITO OU PENHORA, SOB PENA DE OBRIGAR O DEVEDOR A CONTINUAR ARCANDO COM JUROS DE MORA MESMO APÓS O ADIMPLEMENTO.
+DECISÃO MANTIDA. À UNANIMIDADE, NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 480/484).
+Nas razões do recurso (e-STJ fls. 494/528), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, alegando que o acórdão recorrido foi omisso "ao deixar de lançar a norma legal vigente que conduziu à conclusão lançada, deixando, ainda, de enfrentar os pontos sinalados nas razões de agravo apresentadas pelo ora recorrente, posto que há norma legal processual expressa e vigente a assegurar, em favor do credor que move o processo de execução, que a quitação do montante devido somente ocorra com a entrega do dinheiro, não havendo previsão de que essa quitação ocorra mediante depósito judicial" (e-STJ fl. 505).
+Argumenta que (e-STJ fls. 506/507):
+Como sinalado pelo recorrente nos aclaratórios apresentados, ao determinar que no cálculo seja amortizado o montante penhorado na data do bloqueio online, na memória de cálculo para apuração do montante devido haverá sobre esse montante a incidência dos mesmos critérios aplicáveis à correção do montante principal, ou seja, incidência de correção monetária pelo IGP-M acrescido de juros de 1% ao mês.
+Vale consignar, que enquanto o montante bloqueado estiver depositado em conta judicial, de fato estará sendo corrigido pelos índices da Caderneta de Poupança até o seu levantamento pelo exequente. Por outro lado, quando do levantamento, o montante levantado não corresponderá aquele apurado na memória de cálculo, posto que as formas de correção não são aplicadas de forma igual.
+O ora recorrente, em atenção a questão supra ressaltada apontou a existência de omissão cujo aclaramento foi perseguido, requerendo o necessário pronunciamento do Colegiado Estadual quanto a forma de apuração do montante devido e índices a ser aplicados sobre os valores depositados em conta judicial.
+Indica também divergência jurisprudencial e ofensa ao art. 904, I, do CPC/2015, porqueo débito considera-se satisfeito na data do levantamento do valor,e não nadata da penhora, sustentandoque,"durante esse período, o valor constrito e o devido sofreram diferentes formas de correção e incidência de juros, razão pela qual não há que se falar em "satisfação do débito exequendo" na data das penhoras realizadas em 06.02.2015, posto contrariar o supracitado artigo" (e-STJ fl. 516).
+Argumenta que a penhora on-lineé realizada apenas com o intuito de garantir o juízo, e não com o intuitode saldar a dívida, de modo que o devedor deve responder pela diferença dos índices de correção.
+Foram apresentadas contrarrazões (e-STJ fls. 639/645)
+Exercido juízo de admissibilidade positivo na origem (e-STJ fls. 666/669), os autos subiram a esta Corte.
+É o relatório.
+Decido.
+O acórdão recorrido foi assim fundamentado (e-STJ fl. 450):
+Sem razão a parte agravante.
+Conforme manifestação do Serviço de Contadoria desta Corte, juntado à folha 430 dos autos eletrônicos, o cálculo apresentado pelo recorrente mostra-se equivocado, pois adota premissa incorreta, devendo ser observado que a amortização dos valores a partir do depósito ou da penhora on line , e não na data do levantamento, já que esta última forma obrigaria o devedor a continuar arcando com juros de mora mesmo após o adimplemento, parcial ou não, o que acabaria por desvirtuar o caráter de penalidade por inadimplemento dos juros de mora.
+Isso posto, nego provimento ao agravo de instrumento.
+A parte opôs embargos de declaração apresentando os seguintes fundamentos (e-STJ fls. 459/460):
+Na esteira do artigo 489, §1º, verifica-se que o v. acórdão incorreu em omissão ao deixar de lançar a norma legal vigente que conduziu à conclusão lançada, deixando, ainda, de enfrentar os pontos sinalados nas razões de agravo apresentadas pelo ora embargante, posto que há norma legal processual expressa e vigente a assegurar, em favor do credor que move o processo de execução, que a quitação do montante devido somente ocorra com a entrega do dinheiro, não havendo previsão de que essa quitação ocorra mediante depósito judicial.
+Nesse aspecto invocou-se a premissa do artigo 904, inciso I do novo CPC:
+Art. 904. A satisfação do crédito exequendo far-se-á:
+I - pela entrega do dinheiro;
+É imperioso ressaltar que o julgamento havido nos autos do REsp 1348640, apontado pela contadoria, trata de caso que não guarda similitude com a hipótese dos autos, posto que a discussão travada nos presentes autos diz respeito à forma de amortização do débito bem como a definição da forma de correção a ser aplicada para a apuração de eventual saldo devedor.
+(..)
+No julgado em referência não há qualquer indicação da forma de cálculo da amortização em feito executivo em que ocorre penhora online.
+Como sinalado pelo embargante em suas razões recursais, ao determinar que no cálculo seja amortizado o montante penhorado na data do bloqueio online, na memória de cálculo para apuração do montante devido haverá sobre esse montante a incidência dos mesmos critérios aplicáveis à correção do montante principal, ou seja, incidência de correção monetária pelo IGP-M acrescido de juros de 1% ao mês.
+Note-se que enquanto o montante bloqueado estiver depositado em conta judicial, de fato estará sendo corrigido pelos índices da Caderneta de Poupança até o seu levantamento pelo exequente. Por outro lado, quando do levantamento, o montante levantado não corresponderá aquele apurado na memória de cálculo, posto que as formas de correção não são aplicadas de forma igual.
+E nesse ponto reside a omissão cujo aclaramento é perseguido, sendo necessário o pronunciamento deste Colegiado quanto a forma de apuração do montante devido e índices a ser aplicados sobre os valores depositados em conta judicial.
+Contudo, referidos argumentos, mormente a aplicabilidade do dispositivo invocado e a diferença entre os critérios de correção monetária, relevantes para o julgamento da lide, não foram analisados pela Corte estadual no julgamento dos embargos de declaração (e-STJ fls. 480/484).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo análise dos declaratórios referente a ponto relevante, que possa alterar a conclusão do juízo embargado, impõe-se a anulação do acórdão recorrido para novo exame do recurso pelo órgão julgador.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO AO ART. 1.022 DO CPC DE 1973. OCORRÊNCIA. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Hipótese em que o Tribunal de origem, não obstante provocado pela parte, não se manifestou sobre a alegação de concessão ex officio de efeito suspensivo aos embargos da devedora por ocasião do julgamento do agravo de instrumento interposto pelo credor, uma vez que os embargos foram recebidos sem efeito suspensivo na origem e inexiste recurso da parte contrária. Configuração de omissão relevante.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt nos EDcl no AREsp 1640867/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE EMPRÉSTIMO. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM. NULIDADE DA CONTRATAÇÃO DO SEGURO. VENDA CASADA. AUSÊNCIA DE EXAME. VIOLAÇÃO DO ART. 1.022 DO CPC/2015.
+1. Ofende o art 1.022 do CPC/2015 acórdão que, a despeito da oposição de embargos de declaração, não examina matéria essencial ao deslinde da controvérsia.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1811803/MA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020.)
+CIVIL, EMPRESARIAL, FAMÍLIA E PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA CUMULADA COM COMINATÓRIA E INDENIZAÇÃO POR DANO MORAL. JULGAMENTO CONJUNTO COM AÇÃO INDENIZATÓRIA PELA PERDA DE UMA CHANCE. OMISSÃO VERIFICADA.VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC.ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a existência de provas que poderiam demonstrar a conduta ilícita da sociedade empresária.
+4. Recurso especial conhecido e parcialmente provido.
+(REsp 1780404/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 03/12/2019, DJe 13/12/2019.)
+Em tais condições, o acórdão recorrido deve ser anulado, retornando os autos ao Tribunal de origem para novo julgamento dos embargos de declaração.
+Ficam prejudicadas as demais questões do recurso especial.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados.
+Publique-se e intimem-se.
