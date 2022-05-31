@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 83do STJ (e-STJ fls. 334/336).
+O acórdão recorrido está assim ementado (e-STJ fl. 300):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C LUCROSCESSANTES E NULIDADE DE CLAÚSULA ABUSIVA. APLICAÇÃO DO CDC. TEORIA FINALISTA MITIGADA. LUCROSCESSANTES DEVIDOS. PREJUÍZO PRESUMIDO. JUROS DEMORA DA CITAÇÃO. ÔNUS DA SUCUMBÊNCIA DA PARTEVENCIDA. RECURSO CONHECIDO E IMPROVIDO. SENTENÇAMANTIDA.
+1. Aos contratos de compra e venda aplica-se o Código de Defesa do Consumidor - CDC, mesmo não sendo o adquirente destinatário final do bem e apenas possuindo o intuito de investir ou auferir lucro, conforme aplicação da teoria finalista mitigada e evidencia de boa-fé da parte. Precedentes.
+2. A jurisprudência do STJ se firmou no sentido de que "o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador".
+3. Os juros de mora tem como termo inicial a citação, data em que aparte requerida tem ciência da pretensão do autor de obter os valores que lhes eram devidos.
+4 . Em resistindo o demandado à pretensão do demandante, os honorários são devidos, dada a prevalência do princípio da causalidade.
+5. Apelação conhecida e improvida. Sentença mantida.
+Nas razões do recurso especial (e-STJ fls. 307/318), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aoart. 403 do CC/2002, sustentando que, "no que compete à pretensão de fixação de alugueres a título de indenização pelo período em que a Recorrida supostamente ficou privada de usar do imóvel, torna-se inviável o pleito, ante a ausência de provas, sendo impossívelseu reconhecimento hipotético/presumido como fez o E. TJTO" (e-STJ fl. 316).
+Contrarrazões apresentadas (e-STJ fls. 326/328).
+No agravo (e-STJ fls. 347/363), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 366).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 292):
+Assim, no que tange à indenização por lucro cessante, incabível se falar em sua prova concreta, uma vez que é pacífico o entendimento jurisprudencial do e. Superior Tribunal de Justiça que "a demora na entrega do imóvel na data previamente acordada resulta no dever de reparação por lucros cessantes pela não fruição do imóvel durante o tempo em que a vendedora permaneceu em mora, por presunção de prejuízo do promitente comprador" (AgInt no REsp 1801537/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/09/2019).
+Logo, correto o entendimento do magistrado singular em condenar o apelante a reparar a apelada a quantia devida a título de lucros cessantes.
+Adecisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que há prejuízo presumido no caso de inadimplemento contratual por atraso na entrega de imóvel. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. CULPA DO VENDEDOR CONFIGURADA. DEVOLUÇÃO DA INTEGRALIDADE DOS VALORES PAGOS CUMULADA COM LUCROS CESSANTES ATÉ A IMISSÃO NA POSSE DO COMPRADOR. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+2. A jurisprudência do STJ firmou o entendimento, em recurso repetitivo, de que, no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 27/9/2019 (Tema 996). Incidência da Súmula 568 do STJ.
+3. No caso dos autos, a Corte de origem consignou expressamente que a rescisão contratual decorreu de culpa exclusiva da vendedora, haja vista o descumprimento dos prazos contratados. A modificação quanto à responsabilidade pela rescisão contratual demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1761193/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVO LEGAL TIDO POR VIOLADO E EM TORNO DO QUAL HAVERIA DISSÍDIO JURISPRUDENCIAL COM CONTEÚDO NORMATIVO INSUFICIENTE PARA FUNDAMENTAR A PRETENSÃO RECURSAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. JUROS DE MORA. INDICAÇÃO DE OFENSA A DISPOSITIVOS NÃO PREQUESTIONADOS. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. APLICAÇÃO DA SÚMULA Nº 283 DO STF. LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA DA LESÃO. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula nº 284 do Supremo Tribunal Federal.
+3. Nos termos da Súmula nº 211 do STJ, considera-se não prequestionado o tema que, a despeito dos embargos de declaração opostos pela parte, não foi devidamente examinado pelo órgão julgador.
+4. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+5. O STJ firmou o entendimento de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes. Incidência da Súmula nº 568 do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no REsp 1879425/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois, na origem, a verba honorária foi estabelecida no percentual legal máximo.
+Publique-se e intimem-se.
