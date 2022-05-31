@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 238):
+APELAÇÃO. COMPRA E VENDA DE AUTOMÓVEL. RESCISÃO CONTRATUAL DECORRENTE DE VÍCIO OCULTO. LEGITIMIDADE PASSIVA DA FINANCIADORA. Verificação. A instituição financeira figurou no compromisso como credora fiduciária. Há litisconsórcio passivo necessário. É hialina a dependência entre os contratos de compra e venda e o de financiamento, apta a identificá-los como coligados. De fato, ambas as transações representam uma única operação econômica, não obstante sua autonomia formal. Nesse diapasão, estando diante de clara cadeia de consumo pautada pela solidariedade de fornecedores, é dever da instituição financeira zelar pela regularidade do bem. Portanto, a participação da credora fiduciária se mostra indispensável à rescisão da avença para o retorno das partes ao status quo ante, o que justifica a sua pertinência subjetiva para permanecer na demanda e o resultado do julgamento exposto pelo I. Juízo a quo. RESCISÃO DOS CONTRATOS. Dependência dos contratos. Rescisão da compra e venda e do contrato de financiamento. Dever da vendedora arcar com o ônus do contrato de financiamento. SUCUMBÊNCIA. Reciprocidade. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 256/260).
+O recurso especial (e-STJ fls. 262/280), fundamentado no art. 105, III, "a" e "c", da CF, aponta dissídio jurisprudencial e violação dos arts. 14, § 3º, II, e 18 do CDC. A parte recorrente alega ilegitimidade passiva da instituição financeira.
+Afirma a "ausência de acessoriedade entre o contrato de financiamento e o contrato de compra e venda do veículo. Impossibilidade de instituição financeira - "banco de varejo" - ser responsabilizada por vício em veículo objeto de contrato de financiamento bancário" (e-STJ fl. 267).
+Foram apresentadas contrarrazões (e-STJ fls. 337/348).
+É o relatório.
+Decido.
+O Tribunal a quodecidiu a questão da legitimidade nos seguintes termos (e-STJ fls. 240/242):
+É certo que a instituição financeira figurou na aquisição do veículo automotor na qualidade credora fiduciária (fls.21/22 e 27). Não há, assim, como se desvincular a compra do automóvel com o financiamento bancário, de modo que a rescisão deve atingir ambos.
+Aliás, não se vislumbra a possibilidade de rescindir o compromisso de compra e venda, permanecendo íntegro o contrato de financiamento, com cláusula de alienação fiduciária. Trata-se de litisconsórcio passivo necessário.
+(..)
+Ora, é hialina a dependência entre os contratos de compra e venda e o de financiamento, apta a identificá-los como coligados. De fato, ambas as transações representam uma única operação econômica, não obstante sua autonomia formal.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REDIBITÓRIA CUMULADA COM RESCISÃO CONTRATUAL E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL DA INSTITUIÇÃO FINANCEIRA AO PAGAMENTO DA INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a jurisprudência do STJ, "o banco não está obrigado a responder por defeito de produto que não forneceu, tão somente porque o consumidor o adquiriu por meio de financiamento bancário" (AgInt no REsp 1.597.668/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 26/8/2016).1.2. A responsabilidade solidária entre a instituição financeira e a concessionária de automóveis somente se perfaz quando existe vinculação entre ambas, isto é, a instituição financeira atua como "banco da montadora", integrando a cadeia de consumo e, portanto, sendo responsável pelo defeito no produto, o que não é o caso dos autos, em que que a instituição financeira tão somente viabilizou o financiamento do veículo defeituoso, sem nenhuma vinculação com a revendedora de automóveis, tendo atuado somente como "banco de varejo".
+2. Agravo interno improvido.
+(AgInt no REsp 1836512/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE LANCHA. RESCISÃO CONTRATUAL POR INADIMPLEMENTO DO VENDEDOR. INEXISTÊNCIA DE CARÁTER ACESSÓRIO ENTRE OS CONTRATOS DE COMPRA E VENDA E DE FINANCIAMENTO. AFASTAMENTO DA RESPONSABILIDADE SOLIDÁRIA DA INSTITUIÇÃO FINANCEIRA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não existe, em regra, caráter acessório entre os contratos de compra e venda de bem de consumo e o de financiamento bancário com arrendamento mercantil destinado a viabilizar a aquisição do mesmo bem, de maneira que a instituição financeira não pode ser responsabilizada solidariamente pelo inadimplemento do vendedor.
+2. "A jurisprudência desta Corte reconhece a autonomia entre os contratos de compra e venda de veículo e de financiamento concedido por instituição financeira para sua aquisição, motivo pelo qual o cancelamento do primeiro não impede a exigibilidade das obrigações assumidas pelo consumidor perante a instituição financeira" (AgInt nos EDcl no REsp 1.292.147/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 02/06/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1351672/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/05/2019, DJe 24/05/2019.)
+Assim, ao decidir pela legitimidade para responder pelo vício, a Corte local destoa do entendimento firmado no STJ.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para reconhecer a ilegitimidade da instituição financeirapelo vício oculto do automóvel.
+Publique-se e intimem-se
