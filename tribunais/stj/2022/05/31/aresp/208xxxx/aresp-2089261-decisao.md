@@ -1,0 +1,17 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paranáque negou provimento ao apelo defensivo para manter a condenação do recorrente pela prática dos crimes dos arts. 33 da Lei n. 11.343/2006,14da Lei n. 10.826/2003 e 146, § 1º, do CP.
+Aponta a defesa a violação dos art.5º, inciso XI da Constituição Federal, 65, inciso III, alínea "d"; e 146,§ 1º do Código Penal; 157, § 1º; 241; 245; 564, inciso I, do Código de Processo Penal; e 8º, item 4 da Convenção Americana de Direitos Humanos.
+No presente recurso alega que "deve ser levado em conta que a previsão de comprovação do feriado local existe somente no Código de Processo Civil, que é aplicado subsidiariamente ao Código de Processo Penal. Além disso, a tempestividade restou demonstrada no momento da interposição pelo Sistema PROJUDI (Processo Eletrônico), que não emitiu alerta de decurso de prazo, porque já havia computado o feriado local" (e-STJ fl. 645).
+Contrarrazões às e-STJ fls. 611/619.
+Manifestação do Ministério Público Federal pelo não provimento do agravo às e-STJ fls. 752/760.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Contudo, o recurso especial apresenta-se extemporâneo.
+Isto porquea intimação do acórdão que julgou os embargos de declaração opostos pelo ora agravante foi expedida no dia 16/12/2021. Todavia, como ele não procedeu à leitura da intimação dentro do prazo de 10 (dez) dias, sua intimação automática se deu em 26/12/2021 (domingo), sendo prorrogada para o primeiro dia útil subsequente 27/12/2021 (segunda-feira), o prazo para interposição do recurso especial teve início em em 28/12/2021 (terça-feira) efindou em 11/1/2022 (terça-feira). Contudo, o recurso foi interposto somente no dia 25/1/2022, ou seja, após o prazo legal.
+Nessa linha, o seguinte julgado :
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CONTAGEM EM DIAS CORRIDOS. COMPROVAÇÃO POSTERIOR DE SUSPENSÃO DO EXPEDIENTE FORENSE. IMPOSSIBILIDADE.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c o art. 1.003, § 5º, do CPC, e também do art. 798 do CPP ("Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.") 2. Constitui ônus do recorrente, no ato da interposição do recurso, comprovar sua tempestividade, conforme o art. 1.003, § 6º, do CPC, inclusive, a ocorrência de feriados locais e a suspensão do expediente forense, sendo incabível a comprovação posterior.
+3. Agravo regimental improvido(AgRg nos EDcl no AREsp 1.963.108/CE, Rel. Ministro OLINDO MENEZES - Desembargador convocado do TRF 1ª Região -, Sexta Turma, DJe 2/3/2022).
+Registre-seque compete à parte a contagem correta dos prazos processuais na forma legal e regimental previstas, não se podendo aceitar a alegação de que foi induzido a erro em virtude de informação constante dositedo Tribunal de origem (ut,AgRg no AREsp n. 1.801.356/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, DJe de 22/11/2021).
+Ante o exposto, com fulcro no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
