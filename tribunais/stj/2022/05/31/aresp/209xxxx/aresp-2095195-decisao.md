@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal eincidência da Súmula n. 7 do STJ(e-STJ fls. 194/195).
+O acórdão recorrido está assim ementado (e-STJ fl. 168):
+APELAÇÃO CÍVEL - Interposição contra sentença que julgou procedente ação de busca e apreensão. Julgamento antecipado nos termos do artigo 355. inciso I, do Código de Processo Civil. Ausência de designação de audiência para fins de conciliação, que não implica em nulidade do processo. Sentença devidamente fundamentada, alinhada à disciplina do artigo 489 do Código de Processo Civil. Nulidade não reconhecida. Procedimento de retomada do bem que observa fielmente os termos do Decreto-Lei n.º 911/69. Honorários advocatícios majorados nos termos do artigo 85, § 11, do Código de Processo Civil. Sentença mantida. Apelação não provida.
+Nas razões do recurso especial (e-STJ fls. 176/190), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegaofensa ao art. 489do CPC/2015, por negativa de prestação jurisdicional, destacando "anulidade da sentença proferida pelo juízo de primeiro grau em razão da ausência de relação entre o precedente invocado pelo juízo e o caso que se está julgando"(e-STJ fl. 181).
+Asseveraafronta ao art. 536, § 2º, do CPC/2015, aduzindo a nulidade do auto de busca e apreensão, visto que cumprido por apenas 1 (um) oficial de justiça. Acrescenta que "o oficial de justiça certificou que o apelante não fora localizado, razão pela qual não fora citado, estando o veículo em posse de terceiro, pessoa essa não identificada no auto de busca e apreensão, tampouco na certidão, pelo oficial de justiça"(e-STJ fl. 183).
+Indica ainda contrariedade aos arts. 3º, I, 4º, VII, e 5º, LXXVIII, da CF e 334 do CPC/2015, argumentando cerceamento de defesa por ausência de designação de audiência de conciliação.
+No agravo (e-STJ fls. 199/217), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 219).
+É o relatório.
+Decido.
+Inicialmente, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF/1988).
+Não há falar em ofensa ao art. 489 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto ao alegado cerceamento de defesa, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 169/170):
+O artigo 355, inciso I, do Código de Processo Civil, autoriza ao juízo proceder ao julgamento antecipado da lide, nos casos em que a dilação probatória se mostra prescindível.
+Os documentos trazidos aos autos mostraram-se suficientes para o seguro julgamento do feito, considerando-se que a questão, relacionada à alienação fiduciária, é exclusivamente de direito. Não havia, de fato, necessidade de se determinar a instrução probatória, na medida em que se cuida de causa simples, em que o pedido consiste na retomada do bem.
+O fato de o MM. Magistrado não haver designado audiência para conciliação não implica em nulidade do processo e/ou em cerceamento de defesa, mesmo porque, como já explanado, a matéria exclusiva de direito possibilitava o julgamento antecipado da lide.
+(..)
+Ademais, não houve, por parte da autora, disposição no sentido da conciliação, como se verifica em suas contrarrazões.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de quenão houve, por parte da autora, disposição no sentido da conciliação. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, modificar o entendimento do acórdão impugnado quanto à inexistência de cerceamento de defesa, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+No que se refere à tese de nulidadedo auto de busca e apreensão, o Tribunal de origem consignou que(e-STJ fl. 171):
+Importante salientar que nada há de irregular na diligência do oficial de justiça, que seguiu fielmente aos termos estabelecidos no Decreto-Lei n.º 911/69. Equivoca-se o réu ao requerer a aplicação das normas previstas no Código de Processo Civil, tendo em vista tratar-se de procedimento especial, e regido, desta forma, pelo Decreto-Lei n.º 911/69.
+O TJSP decidiua demanda com base no princípio da especialidade. Portanto, ainsurgência quanto à norma aplicávelnão pode ser sustentada apenas com base no art. 536, § 2º, do CPC/2015, o qual não regula a matéria. Incidente, dessa forma, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
