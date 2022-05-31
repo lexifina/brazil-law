@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S.A. contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, porquanto não teriam sido impugnados, especificamente, os fundamentos adotados pelo Tribunal de Justiça do Estado de São Paulo concernentes à incidência daSúmula284/STF.
+Nas razões recursais, a agravante afirma ter alegado, de modo específico, a inaplicabilidade dasúmula supracitada, justificando-se, assim, a superação do entendimento manifestado pela Presidência desta Corte Superior.
+Em nova análise, verifico haver plausibilidade nas razões recursais quanto à impugnação realizada, motivo pelo qual, com fulcro no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 112-114(e-STJ) e passo a novo exame do recurso.
+No recurso especial, interposto com arrimo nas alíneas a e c do permissivo constitucional, a recorrente visa à reforma do acórdão proferido pela Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (e-STJ fl. 40):
+Agravo de instrumento. Ação de cobrança. Fase de cumprimento de sentença. Insurgência da agravante contra decisão que rejeitou a sua impugnação, por considerar válida a citação realizada na fase de conhecimento. Carta de citação enviada ao endereço onde estava instalada pessoa jurídica do mesmo conglomerado empresarial, situado em condomínio edilício, e recebida sem ressalva, o que faz presumir que quem a recebeu era o funcionário responsável pelo recebimento de correspondências. Citação efetuada em conformidade com o disposto nos §§ 2º e 4º do art.248 do Código de Processo Civil. Validade do ato. Aplicação da teoria da aparência. Decisão mantida. Recurso a que se nega provimento.
+Cinge-se a controvérsia quanto à nulidade na citação no âmbito de cumprimento de sentença.
+Interposto agravo de instrumento, o Tribunal estadual manteve a decisão proferida pelo Juízo de primeiro grau e o entendimento acerca da validade da citação, com base na teoria da aparência.
+No acórdão recorrido, o Tribunal de origem asseverou que, pelo fato depertencer aora recorrenteao mesmo grupo econômico e tendo em vista que o aviso de recebimento fora assinado, sem nenhuma ressalva, por pessoa identificada, a citação deveria ser reputada como válida, consoante a teoria da aparência.
+Inconformada, a recorrente opôs embargos de declaração, os quais foram rejeitados (e-STJ fl. 51):
+Embargos de Declaração. Vícios do art. 1.022 do CPC inexistentes. Manifesta pretensão da parte de ter nova apreciação da matéria, a que não se prestam os embargos de declaração. Prequestionamento. Inadmissibilidade. Inteligência do art. 1.025 do CPC. Embargos rejeitados.
+Daí sobreveio este recurso especial, no qual a insurgente alega violação aos arts. 239 e 242 do Código de Processo Civil de 2015.
+Arecorrente assevera que a citação foi realizada sem observância da adequação legal, não podendo ser reputada válida. Ademais, argumenta que não há nenhuma indicação de quem de fato recebeu a correspondência de citação, tampouco se tinha poderes para fazê-lo, bem como que a afirmação de que o referido aviso de recebimento seria dotado de fé pública não se adequa ao caso sob julgamento.
+Por fim, requer que seja reconhecida a nulidade da citação.
+Brevemente relatado, decido.
+A irresignação manifestada pela recorrente não merece prosperar.
+No que concerne à aplicação da tese da teoria da aparência, não é possível apreciá-la emrecurso especialquando o Tribunal local, por ocasiãoda análise do caso concreto, entende ser válida a citação feita a empresa pertencente ao mesmo grupo econômico. Nesse ponto, o presente recurso esbarra no óbice da Súmula n. 7/STJ.
+Ademais, esta Corte Superior há muito consolidou o entendimento quanto à validade da citação de pessoa jurídica quando as empresas pertencem ao mesmo grupo econômico, ouquando realizada na sede ou filial por uma pessoa que não recusa ter poderes para tanto. Destarte, o entendimento adotado pelo Tribunal local encontra-se em consonância com o deste Superior Tribunal.
+Confira-se (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEORIA DA APARÊNCIA. EMPRESAS DO MESMO GRUPO ECONÔMICO. CITAÇÃO VÁLIDA. RECEBIMENTO POR FUNCIONÁRIO DA EMPRESA. REEXAME DE PROVAS. SÚMULAS 7 E 83/STJ.
+1. Não é possível apreciar tese sobre a inaplicabilidade da teoria da aparência na hipótese em que a Corte de origem entende que a citação é válida pois a empresa que recebeu a citação faz parte do grupo econômico da empresa citada, pois para avaliar tal assertiva seria necessária a incursão no contexto fático- probatório dos autos.
+2. O entendimento da Corte de origem, no que concerne à aplicação da teoria da aparência para considerar a citação válida, está em consonância com a jurisprudência do STJ que se posiciona no sentido de que tendo o Tribunal de origem concluído que as empresas pertencem ao mesmo conglomerado econômico, deve ser reconhecida a aplicação da Teoria da Aparência, a qual é amplamente aceita nesta Corte.
+3. Agravo interno não provido.
+(AgInt no AREsp 1860959/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2022, DJe 27/04/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. CITAÇÃO. TEORIA DA APARÊNCIA. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. Conforme jurisprudência do Superior Tribunal de Justiça, em atenção à teoria da aparência, considera-se válida a citação da pessoa jurídica na sede ou filial da empresa a uma pessoa que não recusa ter poderes para tanto. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1922468/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. PARTE FIXA. QUOTA LITIS. CONTRATAÇÃO. LEGITIMIDADE. EXIGÊNCIA ANTECIPADA. ILEGITIMIDADE. REVELIA. NÃO CONFIGURAÇÃO. ARTIGOS 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE OMISSÕES. SÚMULA 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Nos termos da jurisprudência sedimentada nesta Corte, com base na teoria da aparência, considera válida a citação realizada na pessoa de quem se identifica como representante da empresa e recebe o ato sem ressalvas.
+3. Os argumentos utilizados pela parte agravante a fim de reconhecer a revelia da parte agravada somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, não cabendo a esta Corte, reavaliar o conjunto probatório dos autos, ante o óbice da Súmula 7/STJ.
+4. Na hipótese, rever a conclusão do acórdão recorrido no tocante à forma de pagamento dos honorários advocatícios constantes do contrato firmado com o agravado, demandaria o reexame do conjunto fático-probatório dos autos, bem como a interpretação das cláusulas contratuais, procedimentos inviáveis no âmbito do recurso especial, visto o óbice das Súmulas nºs 5 e 7/STJ.
+5. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1243805/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+No que diz respeito a esse ponto, aplica-se a Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo, mediante juízo de reconsideração,para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 239 E 242 DO CPC/2015NÃO CONFIGURADA. CITAÇÃO VÁLIDA. SÚMULAS 7 E 83/STJ. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
