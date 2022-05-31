@@ -1,0 +1,7 @@
+DECISÃO
+O paciente alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 1406395-47.2022.8.12.0000, em que foi mantida a decisão que determinou sua transferência para o Presídio Anísio Lima.
+Busca a superação da Súmula n. 691 do STJ, dado que "é visível o constrangimento sofrido pelo Paciente, sendo que o mesmo tem sua permanência amparada por decisão judicial, para ser mantido em carceragem especial para policiais civis, que é carceragem da 3ª Delegacia de Polícia da Capital - Campo Grande - MS, até o trânsito em julgado de sua ação penal" (fl. 18).
+Todavia, em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, em 24/5/2022, foi julgado o mérito do habeas corpus originário, oportunidade em que o Desembargador relator não conheceu do mandamus.
+A esse respeito, urge consignar que, " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF. O novo ato coator desafia impugnação própria" (AgRg no HC n. 447.377/RJ, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 28/8/2018, grifei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
