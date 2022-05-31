@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por BAGGIO CONSTRUÇÕES CIVIS LTDA. contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e da ausência de negativa de prestação jurisdicional (e-STJ fls. 3.304/3.307).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 2.949):
+Apelação Cível. Ação de Cobrança. Reconvenção e reintegração de posse. Sentença de procedência parcial. Irresignação de ambas as partes. Esbulho não verificado. Rescisão. Retorno ao estado anterior. Julgamento extra petita. Não aplicação.
+1. Conforme consolidada jurisprudência do STF, reafirmada em julgamento sob regime de repercussão geral (AI-RG-QO 791.292/PE) a decisão deve ser fundamentada, sem determinar, contudo, o exame pormenorizado de cada Hipótese atendida na espécie. uma das alegações ou provas.
+2. Conforme adverte (Carlos Roberto Gonçalves Direito Civil Brasileiro. Vol.. São Paulo: Saraiva, 2004, p. 161 -III - Contratos e Atos Unilaterais destacado): A resolução por inexecução voluntária decorre de comportamento culposo de um dos contraentes, com prejuízo ao outro. Produz efeitos ex tunc, extinguindo o que foi executado e obrigando ainda o inadimplente ao pagamento de restituições recíprocas e da cláusula penal, convencionada para o caso de total perdas e dano, inadimplemento da prestação (cláusula penal compensatória), em garantia de alguma cláusula especial, ou para evitar o retardamento (cláusula penal moratória), conforme os arts. 475 e 409 a 411 do Código Civil.
+3. Com a rescisão as partes retornam ao estado anterior, sem que tal deliberação se configure sentença extra-petita. Precedente: STJ, REsp 1471838/PR, Rel. Min. Ricardo Villas Bôas Cueva da Terceira Turma, julgado em 09/06/2015, DJe 26/06/2015.
+4. A parte consumidora não pode ser obrigada a aceitar imóvel comprometido, conforme conclusão do perito.
+5. Ocorrendo divergência entre a impugnação da parte o do perito oficial, é razoável que o juiz se louve do laudo do perito por ele indicado, já que isento e desinteressado na causa. Precedente: TJPR, Apel. Cív.0020759-73.2014.8.16.0001, minha relatoria, j. 02.12.2019) 6. Recurso 1 conhecido e provido em parte e recurso 2 prejudicado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 3.150/3.163).
+Nas razões do recurso especial (e-STJ fls. 3.236/3.263), interposto com fundamento no art. 105, III, "a",da CF, a parte alega ofensa aos arts.18 a 20 do CDC, 141, 326, 329, II, 492, 489, § 1º,II e III, 1.013 e 1.022 do CPC/2015 e 884 do CC/2002.
+Sustenta a ocorrência de negativa de prestação jurisdicional "ao deixar de apreciar, expressamente, os argumentos da Recorrente quanto à impossibilidade de alteração do pedido já no final da instrução do feito" (e-STJ fl. 3.244), pois "como é notório, afigura-se incabível a modificação do pedido ou da causa de pedir após a citação, ou ainda, o saneamento do feito, implicando em clara ofensa ao contraditório e a ampla defesa da parte adversa" (e-STJ fl. 3.246). Afirma a "ausência de manifestação da integralidade da prova pericial realizada" (e-STJ fl. 3.249)
+Destacaque "os Réus/Reconvintes, ora Recorrentes, foram claros e objetivos em indicar que postulavam pelo recebimento de indenização decorrente dos vícios, nada dispondo sobre a vontade de enjeitar os serviços prestados, nem mesmo como pedido alternativo/subsidiário" (e-STJ fl. 3.245), ocorrendodecisão extra petita.
+Ressaltaque, "ainda que a resolução do contrato por inadimplemento recíproco implique no retorno das partes ao status quo ante, é evidente que os Contratantes OMIR e ESPÓLIO DE ANA AMÉLIA devem adimplir o percentual da obra já edificada, sob pena de vultuoso enriquecimento sem causa" (e-STJ fl. 3.248).
+Contrarrazões apresentadas (e-STJ fls. 3.271/3.291).
+No agravo (e-STJ fls. 3.342/3.351), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 3.364/3.371 (e-STJ).
+É o relatório.
+Decido.
+Da negativa de prestação jurisdicional
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, oTribunal de origem assim se manifestou (e-STJ fl. 2.959):
+Na espécie, entre adotar o laudo do perito do juízo, o qual não teve a nomeação rechaçada e a impugnação indicada pela apelante - donde vem sua isenção e atuação desinteressada -deve optar-se pelo laudo oficial, o qual está fundamentado, valendo rememorar que a apelante não trouxe laudo para fazer frente ao que disse o nomeado, cingindo sua expert manifestação em impugnação genérica, ausente de vigor para afastar o laudo oficial.
+A construtora até disse que seria necessária nova perícia, para apurar a concretude da obra indicada; porém no apelo nada disse sobre tal circunstância, o que afasta por completo o argumento.
+Destarte, tenho como correta a perícia, bem como acolho suas conclusões como razão de decidir.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Da decisão extra petita
+A decisão consignou (e-STJ fl. 2.961):
+O caso elencado acima não implica julgamento posto que resultante da extra petita, fórmula aberta da pura rescisão do contrato: estou convencido que frente ao que as partes trouxeram, não há outra alternativa de se resolver a pendenga.
+E o TJPRcomplementa na decisão dos embargos de declaração (e-STJ fl. 3.093):
+Assim, certo é que a instrução do feito se prestou a medir a extensão dos danos da obra, e, ainda que inicialmente o pleito tenha sido pela a violação à "correção dos defeitos" norma técnica pela embargante (que como fornecedora detinha responsabilidade, nos termos dos artigos 3º, 18, 39 do Código de Defesa do Consumidor), mormente aquela que importa em risco à segurança, enseja a possibilidade de escolha por quem encomendou a obra, se por seu recebimento com abatimento no valor ou sua rejeição.
+Diante disso, não há que se falar em excesso do ou mesmo em enriquecimento decisum ilícito dos embargados porque frente à fórmula aberta da pura rescisão (que se trata da aplicação, pelo juiz, de um princípio orientador à solução do caso concreto, e não de um conceito jurídico indeterminado como afirmaram os embargantes) a resolução contratual é cláusula presumida em todos os contratos, isto é, tanto em contratos de compra e venda quanto de construção, ou empreitada, ou qualquer outro, há sempre a possibilidade de cessar-se a relação contratual, não subsistindo, também aqui, quaisquer vícios.
+A ausência de impugnação de fundamento do acórdão recorrido suficiente para mantê-lo impede o conhecimento do recurso diante da incidência da Súmula n. 283/STF.
+No caso concreto, arecorrente não refutou a assertiva dequea resolução contratual é cláusula presumida em todos os contratos, fundamento no qual se baseou o Tribunal de origem para negar provimento à apelação. Portanto, aplicável a súmula mencionada.
+Do adimplemento da obra realizada
+O Tribunal de origem destacou (e-STJ fl. 2.960):
+Não me parece palatável aceitar que os consumidores aceitem imóvel sem condições de segurança pela construção realizada. É direito então dos réus a rescisão do negócio, voltando as coisas ao estado anterior, sem qualquer multa porque aqui reconhecida a culpa recíproca.
+E a autora deve devolver tudo o que recebeu, eis que realizou construção ineficaz ao fim que se destina, sendo indevido ficar com alguma coisa quando não executou o serviço. Entendimento contrário é aceitar enriquecimento sem causa.
+Modificar o entendimento do acórdão impugnado quanto à construção realizadademandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DEOBRANOVA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSTRUÇÃO DE CONDOMÍNIO DE PRÉDIOS. DANOS NOIMÓVELVIZINHO. LEGITIMIDADE PASSIVA DE PARTICIPANTE DO EMPREENDIMENTO. REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A empresa que veicula propaganda do empreendimento e ostenta tapumes naobracom placa indicativa de seu nome, fazendo crer ser responsável pelo empreendimento, é parte legítima para compor o polo passivo da ação fundada nos danos da construção, com base na teoria da aparência. Precedentes.
+2. Evidenciado, pela prova dos autos, que aedificaçãodo empreendimento imobiliário por parte das rés concorreu eficazmente para os danos constatados noimóvelresidencial dos autores, causando insegurança e uma série de outros transtornos.Quantificação e valoração dos danos materiais pela prova pericial, sem possibilidade de revisão no âmbito estreito do recurso especial, em razão do óbice disposto na Súmula 7 desta Corte.
+3. Quanto à caracterização do dano moral, o acórdão recorrido ressaltou que o sofrimento imposto aos autores foi excessivo, notadamente por serem pessoas idosas, que tiveram, por longo período de tempo, efetivo embaraço e insegurança, diferenciando a situação experimentada de um mero dissabor ou aborrecimento comumente tolerável emobrase construções.
+4. Somente é possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que não ocorreu no caso em exame.
+5. Agravo interno não provido.
+(AgInt no REsp 1512069/SP, Rel. Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região - , QUARTA TURMA, julgado em 25/9/2018, DJe 28/9/2018.)
+Da prova pericial
+A decisão destacou (e-STJ fl. 3.094):
+Em continuidade, quanto à alegação de que "o v. Acórdão lastreou suas razões de decidir, mais uma vez, ao contrário do que em um único trecho da longa prova pericial realizada" entenderam os embargantes, todo o compêndio probatório foi utilizado para que se atestasse a imprestabilidade da obra em discussão.
+Veja-se que, embora apenas um excerto tenha sido reproduzido, desde o primeiro laudo apresentado pelo perito oficial é possível identificar-se a existência de vícios na execução da obra.
+Para analisar apretensão recursal acerca das provas periciais apresentadas, seria imprescindívela incursão em aspectos fático-probatórios dos autos, atividade inviável em recurso especial, tendo em vista o óbice da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo deBAGGIO CONSTRUÇÕES CIVIS LTDA.
+Publique-se e intimem-se.
