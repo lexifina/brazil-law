@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interpostocontra decisão que não admitiu o recurso especial apresentado por CENTRAL DOS EVENTOS PROMOÇÃO E ENTRETENIMENTO LTDA., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 222):
+AGRAVO INTERNO - PROCESSUAL CIVIL - INTEMPESTIVIDADE DO APELO -NEGADO SEGUIMENTO AO RECURSO. A consulta referida nos §§ 1º e 2º do artigo 5º da Lei 11.419/2006,deverá ser feita em até 10 (dez) dias corridos contados da data do envio da intimação, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo." Não observado o prazo de 15 (quinze dias) dias previsto no art. 1001, §5º, do CPC, para interposição do apelo, deve ser negado seguimento ao recurso, nos termos do art. 932, do diplomar processual civil, por intempestivo.
+Nas razões do recurso especial (e-STJ, fls. 228-236), a recorrente alegou violação aoart. 219 do Código de Processo Civil de 2015.
+Sustentou, em síntese, queo prazo de 10 (dez) dias para acessar o teor do despacho/decisão que determina a intimação do advogado da parte é um prazo processual, razão pela qual deverá ser contado em dias úteis e não em dias corridos.
+Argumentou que "a determinação da contagem do prazo inserido no § 3º do art. 5º da Lei nº 11.419/2006, em dias corridos foi derrogada pelo CPC/2015 que é comando legal cronologicamente posterior" (e-STJ, fls. 233-234).
+O Tribunal de Justiça deixou de admitir o recurso especial, tendo sido interposto agravo em recurso especial às fls. 320-324 (e-STJ).
+Brevemente relatado, decido.
+O Tribunal de origem deixou assentado os seguintes fundamentos para consignar a intempestividade apelação (e-STJ, fl. 224):
+Verifica-se da análise dos autos que, razão não assiste a agravante, uma vez que, nos termos do §3º do art. 5 da Lei 11.419/2006, a contagem dos dias é feita de forma corrida contados da data do envio da intimação.
+ ..
+Dito isso, depreende-se que o conteúdo do recibo está correto, uma vez que, a decisão foi publicada em 04/08/2020 (terça-feira), ciência pela parte recorrente em 17/08/2020 (segunda-feira), embargos de declaração opostos em 21/08/2020 (sexta-feira), com decisão publicada em 19/09/2020. Transcurso de prazo nos termos da Lei 11.419/2006 em 01/10/2020 (quinta-feira). Apelação interposta em 26/10/2020 (segunda-feira), após o decurso do prazo processual que ocorreu em 23/10/2020 (sexta-feira). Dessa forma, uma vez que o recurso encontra-se intempestivo, correta a decisão que negou seguimento ao apelo.
+Consoante análise dos autos, verifica-se que a solução adotada pelo Tribunal de origem encontra-se em harmonia com a orientação firmada por essa Corte Superior de Justiça, no sentido de que, nostermos do § 3º do art. 5º da Lei n. 11.419/2006, o prazo para a efetivação daintimação eletrônicaficta é de 10 (dez) dias corridos.
+Nessa linha, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMUNICAÇÃO ELETRÔNICA DOS ATOS PROCESSUAIS. LEI N. 11.419/2006. RECORRENTE INTIMADO TACITAMENTE APÓS 10 (DEZ) DIAS DO ENVIO DA INTIMAÇÃO ELETRÔNICA. RECURSO INTERPOSTO INTEMPESTIVAMENTE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. QUESTÃO DE ORDEM NO RESP 1.813.684/SP. CORTE ESPECIAL. POSSIBILIDADE RESTRITA AO FERIADO DA SEGUNDA-FEIRA DE CARNAVAL.
+1. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Nos termos do art. 5º, §§ 1º e 3º, da Lei n. 11.419/2006, que dispõe sobre a informatização do processo judicial, "considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização", sendo que a referida consulta "deverá ser feita em até 10 (dez) dias corridos contados da data do envio da intimação, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo".
+3. Considerando que o agravo em recurso especial/recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local quando de sua interposição, não há como ser afastada a sua intempestividade.
+4. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, admitiu-se a comprovação posterior da tempestividade dos recursos dirigidos ao STJ apenas em relação ao feriado da segunda-feira de carnaval.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.954.744/PR, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 23/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. CONSUMAÇÃO DA INTIMAÇÃO ELETRÔNICA DO AGRAVANTE PELO DECURSO DE PRAZO DO ART. 5o DA LEI 11.419/2006. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Consoante entendimento desta Corte "a intimação eletrônica é considerada como realizada no dia em que o intimando efetuar a consulta eletrônica ou, não sendo esta realizada no prazo de 10 (dez) dias corridos, contados da data do envio, deverá ser considerada como realizada tacitamente no último dia do prazo dos 10 (dez) dias previstos para consulta" (AgRg no AREsp 1.147.557/MS, Rel. Min. FELIX FISCHER, DJe 30.5.2018).
+2. No caso dos autos, a intimação do agravante foi disponibilizada no sistema no dia 15.4.2020 (fls. 803), iniciado o prazo para acesso em 16.4.2020, ocorrendo a intimação tácita no dia 27.4.2020. O prazo para interposição do recurso especial se iniciou em 28.4.2019 e se consumou em 19.5.2020. Verifica-se que o recurso especial foi interposto somente em 25.5.2020 (fls. 806/815), fora do prazo legal.
+3. Agravo interno a que se nega provimento.
+ AgInt no AREsp 1.797.283/DF, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, DJe 24/06/2021
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. CPC/2015. VIGÊNCIA. ART. 5º, § 3º, DA LEI Nº 11.419/2006. TERMO INICIAL.INTIMAÇÃO FICTA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 (quinze) dias (arts. 1.042, caput, e 1.003, § 6º, c/c art. 219, caput, do CPC/2015).
+3. É de 10 (dez) dias corridos, a partir da data do envio da intimação, a contagem do prazo, nos termos do art. 5º, § 3º, da Lei nº 11.419/2006, que trata da intimação eletrônica ficta.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.188.358/PB, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 11/6/2018.)
+Como se depreende, o acórdão impugnado encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência do enunciado n. 83 da Súmula desta Corte.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.INTIMAÇÃO ELETRÔNICA.CONSULTA.ART. 5º, § 3º DA LEI 11.419/2006. PRAZO DE 10 DIAS CORRIDOS. CONSONÂNCIA COM A JURISPRUDÊNCIA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
