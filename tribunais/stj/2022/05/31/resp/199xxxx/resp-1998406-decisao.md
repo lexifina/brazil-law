@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALESSANDRA DE FATIMA KALAB e outras (ALESSANDRA e outras), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Mineiro, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE ENCARGOS LOCATÍCIOS. IPTU. LEGITIMIDADE DAS LOCADORAS. CASSAR A SENTENÇA. FEITO MADURO. APLICAÇÃO DO ARTIGO 1.013, §3º DO CÓDIGO DE PROCESSO CIVIL. PRESCRIÇÃO RECONHECIDA. -Sendo os proprietários e locadores do imóvel os verdadeiros responsáveis pelo débito cobrado pela Prefeitura Municipal referente ao IPTU, não há dúvidas quanto à legitimidade deles para o ajuizamento da ação de cobrança proposta contra o locatário, principalmente, quando este assumiu a responsabilidade pelo pagamento em contrato. -As obrigações do locatário inerentes à relação contratual, como alugueis e acessórios (IPTU, água e luz), podem ser cobradas pelo período de três anos previsto no inciso I, do § 3º do art. 206 do Código Civil. -Não se pode admitir a vinculação do locatário ad aeternum com o imóvel locado e com as obrigações decorrentes do contrato de locação. Diferentemente do proprietário, que responde pelas obrigações da propriedade por um período maior ou enquanto for dono (propter rem), o locatário não tem a mesma responsabilidade (e-STJ, fl. 279).
+Nas razões do presente recurso, ALESSANDRA e outras alegaram violação doart. 206, §3º, I, do CC, bem como dissídio jurisprudencial, ao sustentarem que a prescrição trienal para cobrança de diferença de IPTU - no valor de R$ 56.057,14 (cinquenta e seis mil, cinquenta e sete reais e quatorze centavos)  deve ser contada a partir da revisão do lançamento do tributo ocorrida em 2017, embora encerrada a locação em momento pretérito (e-STJ, fls. 294/311).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Do prazo prescricional para cobrança do IPTU pelo locador
+Nas razões do presente recurso, ALESSANDRA e outras afirmaram a violação do art. 206, §3º, I, do CC, bem como dissídio jurisprudencial, ao sustentarem que a prescrição trienal para cobrança de diferença de IPTU - no valor de R$ 56.057,14 (cinquenta e seis mil, cinquenta e sete reais e quatorze centavos)  deve ser contada a partir da revisão do lançamento do tributo ocorrida em 2017, embora encerrada a locação em momento pretérito.
+Sobre o tema o Tribunal estadual consignou que os alugueis e acessórios submetem-se ao mesmo prazo de três anos, confira-se:
+De fato, as obrigações do locatário inerentes à relação contratual, como alugueis e acessórios (IPTU, água e luz),podem ser cobradas pelo período de três anos previsto no inciso I, do § 3º do art. 206 do Código Civil.
+ ..
+Não se pode admitir a vinculação do locatário ad aeternumcom o imóvel locado e com as obrigações decorrentes do contrato de locação. Diferentemente do locador/proprietário, que responde pelas obrigações da propriedade por um período maior ou enquanto for dono (propter rem), o locatário não tem a mesma responsabilidade.
+ ..
+Portanto, no caso dos autos, entendo que razão assiste à apelada quando diz que os débitos decorrentes do IPTU só poderiam ser cobrados até agosto de 2015. Depois disso, ela não estava mais obrigada a débitos decorrentes daquela relação contratual, sejam eles principal ou acessórios, como o caso do IPTU.
+Não se desconhece que Prefeitura Municipal de Belo Horizonte só realizou a revisão de valores entre os anos de 2016 e 2017, porém, caberá às proprietárias a responsabilidade pelo débito, já que, elas sim, estão vinculadas a toda e qualquer obrigação inerente ao exercício da propriedade do imóvel.
+Ressalte-se, todavia, que o Superior Tribunal de Justiça já firmou entendimento no sentido de que o prazo prescricional para a cobrança de valores referentes ao IPTU contra o proprietário do imóvel é de cinco anos, contados da exação (TEMA 980, STJ). E isso, registro, reforça o meu entendimento de que os valores não são devidos pela apelada. Afinal, se o prazo prescricional que recai sobre o dono do imóvel é contado do vencimento anual de arrecadação, nada mais justo a aplicação da mesma lógica para a contagem do prazo contra o locatário (e-STJ, fls. 285/288).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que o prazo prescricional para cobrança de encargos acessórios de contrato de locação, nos quais se enquadra o IPTU, é o mesmo da obrigação principal.
+Confiram-se os seguintes precedentes:
+RECURSOS ESPECIAIS. CIVIL E PROCESSUAL CIVIL. LOCAÇÃO. EXECUÇÃO DE OBRIGAÇÕES ACESSÓRIAS DO CONTRATO DE LOCAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EMBARGOS À EXECUÇÃO. INTEMPESTIVIDADE. PRAZO PRESCRICIONAL DA PRETENSÃO DE COBRANÇA DE OBRIGAÇÕES ACESSÓRIAS DO CONTRATO DE LOCAÇÃO. REGRA ESPECÍFICA. INTELIGÊNCIA DO INCISO I DO § 3º DO ARTIGO 206 DO CÓDIGO CIVIL. PRAZO PRESCRICIONAL DE TRÊS ANOS.
+1. O comparecimento espontâneo do devedor na execução, com a apresentação de exceção de pré-executividade, supre a necessidade de citação formal.
+2. Não tem direito à devolução do prazo para oposição de embargos à execução o devedor que comparece espontaneamente na execução e apresenta exceção de pré-executividade, deixando escoar o prazo legal de 15 dias (art. 738 do CPC). Precedente específico.
+3. Inadmissível o recebimento de exceção de pré-executividade como embargos à execução, porquanto as matérias previstas na exceção impedem dilação probatória e podem ser verificadas de ofício pelo juízo, enquanto, nos embargos, o executado poderá alegar o rol taxativo de matérias de defesa previstas no artigo 745 do CPC.
+4. O prazo prescricional para o exercício da pretensão de cobrança de prestações derivadas de obrigações acessórias ao contrato de locação (obrigações acessórias, como luz, água, condomínio, IPTU) é o mesmo da obrigação principal, que é de três anos. Inteligência da regra específica do artigo 206, § 3.º, I, do Código Civil.
+5. RECURSOS ESPECIAIS DESPROVIDOS.
+(REsp n. 1.511.681/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe de 13/11/2015.)
+Portanto, se escoado o prazo trienal para cobrança do principal, também há que se considerar esgotado o lapso prescricional para exigir do locatário valores relativos ao IPTU.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CERA INGLEZA INDÚSTRIA E COMÉRCIO LTDA., limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE LOCAÇÃO. IPTU. PRESCRIÇÃO. ACESSÓRIO. PRAZO PRESCRICIONAL DO PRINCIPAL. PRECEDENTE.RECURSO ESPECIAL NÃO PROVIDO.
