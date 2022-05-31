@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Sul América Companhia de Seguro Saúdecontra decisão que não admitiu o recurso especial, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 251):
+APELAÇÕES CÍVEIS. Ação de obrigação de fazer c/c declaratória positiva e indenização com pedido de tutela de urgência antecipada. Plano de saúde. Sentença de parcial procedência. Inconformismo. Não acolhimento. Empresas Rés que não implementaram o plano de saúde da Autora, sob alegação de que ela omitiu doença pré-existente no preenchimento da declaração de saúde. Autora e seu filho, que precisam de acompanhamento médico, foram indevidamente privados de terem plano de saúde. Danos morais configurados, não podendo ser considerado o indevido cancelamento do plano de saúde como mero aborrecimento ou descumprimento contratual. Indenização bem fixada em R$ 10.000,00 (dez mil reais) que se mostra razoável a reprimir o ato, sem aviltar ou implicar em enriquecimento de quem a recebe. Sentença mantida.Decisão bem fundamentada. Ratificação, nos termos do artigo 252, do Regimento Interno. RECURSOS NÃO PROVIDOS.
+Nas razões do recurso especial, arecorrentealegou violação aos arts. 421 e 766 do CC/2002.
+Sustentou, em síntese, que a falta de implementação do plano pleiteado pela recorrida ocorreu por sua culpa exclusiva, ao ter omitido doença pré-existente no preenchimento de sua declaração de saúde, mantendo-se inerte após os contatos realizados para a implementação do plano.
+Contrarrazões apresentadas às fls. 283-288 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial (e-STJ, fls. 293-295).
+Brevemente relatado, decido.
+Na hipótese, observa-se que o acórdão recorrido decidiu pela manutenção da decisão unipessoal, com base nos seguintes fundamentos (e-STJ, fls. 253-256 - sem grifo no original):
+Respeitado profundamente entendimento diverso, os Recursos interpostos não comportam provimento, devendo a r. sentença ser mantida pelos seus próprios e jurídicos fundamentos.
+Trata-se de "Ação de obrigação de fazer c/c declaratória positiva e indenização com pedido de tutela de urgência antecipada" proposta por "LETICIA ARINE DE MELO" em face de "SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE" e "QUALICORP ADMINISTRADORA DE BENEFÍCIOS S/A".
+Para tanto, alegou a Autora, em síntese, que em contato com a Corretora de Seguros, procurou assinar Contrato de Plano de Saúde, para si e seu filho recém-nascido, pagando a taxa associativa a um Sindicato no valor de R$ 49,80 (quarenta e nove reais e oitenta centavos).
+Aduziu ter recebido, via e-mail, um token para acesso eletrônico ao portal do Plano de Saúde a fim de assinar digitalmente o Contrato e preencher oquestionário de saúde obrigatório, o que foi feito e, assim, concretizado com sucesso o Contrato de Adesão.
+Afirmou ter pago o valor de uma parcela, com desconto, no dia 23 de outubro de 2019 e posteriormente, receberia outro boleto bancário, com vencimento em 01 de novembro de 2019, correspondente à primeira mensalidade.
+Alegou, ainda, que recebeu e-mail no qual as Empresas Requeridas declinaram do Contrato por motivo de desinteresse comercial, levando a crer que o desinteresse está atrelado ao fato de ter inserido no questionário, informação acerca de cirurgia reparadora, a qual foi submetido seu dependente.
+Por estas razões, ajuizou a Demanda, objetivando, em síntese, seja declarado válido o negócio jurídico firmado entre as Partes, sendo as Empresas Requeridas compelidas a implantarem o plano de saúde.
+Pediu a condenação das Empresas Requeridas ao pagamento de indenização a título de danos morais no importe de R$ 50.000,00 (cinquenta mil reais).
+Pleiteou, ademais, a condenação das Empresas Rés a restituírem os valores pagos.
+Os Recursos serão julgados conjuntamente.
+Inicialmente, esclareça-se que relações como a tratada nestes Autos estão protegidas pelo Código de Defesa do Consumidor, que visa o atendimento das necessidades dos consumidores, hipossuficientes em relação às Operadoras de Plano de Saúde.
+No caso em tela, o cerne da argumentação das Empresas Rés, ora Apelantes, é de que o plano de saúde da Autora não foi implementado por culpa exclusiva dela, que omitiu doença pré-existente no preenchimento de sua declaração de saúde, e que mesmo tendo a área técnica estabelecido contato com a Segurada para confirmar e implementar cobertura parcial temporária, o contato não foi efetivo e a proposta não foi implantada.
+Contudo, não assiste razão às Empresas Rés, pois a Autora já havia iniciado o pagamento das parcelas.
+Ademais, as Empresas Requeridas não se desincumbiram do seu ônus probatório, nos termos do art. 373, II, do Código de Processo Civil.
+Não colacionaram aos Autos qualquer prova no sentido de que a Autora tenha omitido informação no momento da contratação.
+Acertada, portanto, a r. sentença de Primeiro Grau (fl. 165):
+"Tratando-se de relação de consumo, deveriam as Requeridas ter comprovado que a Autora omitiu informações, doença pré-existente não declarada na proposta, porém, não trouxeram aos Autos qualquer documento a comprovar suas alegações, sequer trouxeram a proposta na qual alegam que a Autora omitiu informações, embora tal ônus lhes coubessem. Desta forma, não havendo qualquer prova de que a Autora tenha omitido qualquer informação no momento da contratação, devem as Requeridas providenciar a implementação do plano de saúde Sul América Plano Exato QC, no valor ajustado contratualmente, em favor da Autora e seu dependente Noah Arine, o que já foi devidamente cumprido, conforme informado pela Autora a fls. 147 e comprovado através dos documentos de fls. 148/154."
+A partir dos trechos acima transcritos, depreende-se que o Tribunal originário reconheceu a ilegalidade na recusa da recorrente em providenciar a implementação do plano de saúde, por entendernão haver comprovação da omissão de alguma informação nomomento da assinatura do contrato.
+Desse modo, inexiste informação no processo capaz de concluir que a segurada tenhaagido com má-fé no momento da celebração do pacto.
+Nesse contexto, em virtude de o posicionamento do Tribunal estadual estar amparado no conjunto fático-probatório dos autos, fica vedado ao STJ rever o entendimento acolhido, ante a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte agravada em 2% sobre o valorda condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. IMPLEMENTAÇÃO. RECUSA INDEVIDA. AUSÊNCIA DE MÁ-FÉ DO SEGURADO. REVISÃO. SÚMULA 7/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
