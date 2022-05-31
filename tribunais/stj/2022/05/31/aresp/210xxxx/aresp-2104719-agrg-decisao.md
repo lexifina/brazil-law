@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo regimental interposto porANDREA BERNARDINO DE ARAÚJO,contra decisão monocrática da lavra do Ministro Presidente HUMBERTO MARTINS quenão conheceu do agravopor ausência de impugnação dos fundamentos da decisão de admissibilidade (e-STJ fls. 420/421).
+Em seu agravo regimental (e-STJ fls. 424/435), a parte recorrente alega que houve impugnação específica de todos os fundamentos da decisão agravada.
+Manifestação do Ministério Público Federal, às e-STJ fls. 444/446, pelo não provimento do agravo.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado da Paraíba, cuja ementa é a seguinte(e-STJ fls. 281):
+APELAÇÃO CRIMINAL. CONDENAÇÃO POR PECULATO. ACUSADA QUE SE APROPRIA DE VENCIMENTOS A QUE NÃO FAZIA JUS, POR NÃO HAVER TRABALHADO. AUTORIA E MATERIALIDADE INCONTESTES. DESPROVIMENTO DO RECURSO. 1. Arguição de atipicidade em razão do entendimento firmado no STJ sobre a atipicidade da conduta do servidor público que recebe seus vencimentos sem a devida contraprestação de serviços. 2. Análise casuística que demonstra que não há subsunção da paridade de circunstâncias que possam submeter o caso presente ao entendimento consolidado pela jurisprudência. Apelante que acumulou indevidamente dois cargos, com incompatibilidade de horários. Valores apropriados que não eram seus por direito. 3. Por todo conjunto probatório, autoria e materialidade delitivas comprovadas, ainda mais quando a apelante assinou sua folha de frequência nos dois locais (Guarabira e Pilõezinhos) como se estivesse trabalhando em ambos ao mesmo tempo. 4. Desprovimento do recurso.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 340/355).
+Nas razões do recurso especial (e-STJ fls. 327/339),fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente violação dos artigos 13 e 312 do CP.Sustentaa ausência de provas acerca do dolo, pois não houve nenhum desejo de se apossar dos valores em benefício próprio.
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada,conheçodo agravo.
+O recurso não merece acolhida.
+OTribunala quo, em decisão devidamente motivada, entendeu que,do caderno instrutório, emergem elementos suficientemente idôneos de prova a enaltecer a tese de autoria delitiva imputada peloparquetao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelodelitodoartigo 312 do CP(e-STJ fls. 284/288).
+Dessa forma,rever os fundamentos utilizados pelo Tribunalde Justiça, para decidir pelaabsolvição,tendo em vistaa ausência de dolo na conduta delitiva,como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula7/STJ.
+Ante o exposto,reconsideroa decisão agravada às e-STJ fls. 420/421, ecom fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ,conheçodo agravo paranão conhecerdo recurso especial.
+Intimem-se.
