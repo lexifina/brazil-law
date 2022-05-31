@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra o acórdão assim ementado (fls. 81-82):
+EMENTA: HABEAS CORPUS. CRIMES DE TENTATIVA DE HOMICÍDIO QUALIFICADO E POSSE IRREGULAR DE ARMA DE FOGO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. POSSIBILIDADE. REQUISITOS PRESENTES. DECRETO FUNDAMENTADO. NÃO REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DESCABIMENTO. CONDIÇÕES PESSOAIS. IRRELEVÂNCIA. ORDEM DENEGADA EM DEFINITIVO.
+1 - O decreto de prisão preventiva encontra amparado nos requisitos preconizados nos artigos 312 e 313 do Código de Processo Penal, existindo nos autos provas da materialidade dos crimes (art.121, § 2º, incisos II e VI c/c art. 14, II ambos do Código Penal Brasileiro e também o crime descrito no art. 12 da Lei nº 10.826/2003) e indícios suficientes de autoria.
+2 - Destarte presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do CPP, não há que se falar em revogação da prisão preventiva, uma vez que esta se revela indispensável para a garantia da ordem pública, em especial quando a decisão que decretou a segregação cautelar encontra-se devidamente fundamentada.
+3 - Por sua vez, a não realização de Audiência de Custódia, durante a situação excepcional de emergência em saúde pública causada pela pandemia da Covid-19, não implica ilegalidade ou nulidade da Prisão, quando observadas as garantias constitucionais (Resolução nº 62/20 do CNJ), bem como quando devidamente justificada, o que, no casoespecífico o foi, conforme se constada pela justificada apresentada pelo Julgador singular. Observância ao teor do Ofício Circular TJTO nº. 120/2021 - Presidência/ASPRE.
+4 - Conforme entendimento consolidado, eventuais condições pessoais favoráveis, tais como ser tecnicamente primário, ocupação lícita e residência fixa, não tem o condão de, por si só, garantir a paciente a revogação da prisão preventiva, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+5 - A garantia da ordem pública e o perigo gerado pelo estado de liberdade são requisitos que, quando presentes, indicam a insuficiência e inadequação de medidas cautelares diversas da prisão.
+6 - Parecer do Órgão de Cúpula Ministerial pela denegação da ordem.
+7 - Ordem denegada em definitivo.
+Consta dos autos que o paciente foi preso em flagrante delito no dia 6/1/2022, pela suposta prática da conduta tipificada no art. 121,caput,c/c art. 14, inciso II, ambos do Código Penal (tentativa de homicídio) e no artigo 12 da Lei 10.826/03 (posse irregular de arma de fogo de uso permitido).
+A impetrante argumenta que a apreciação judicial do flagrante e a suahomologação realizou-se em 7/1/2022, todavia, tal manifestação deveria ter ocorrido no prazo de 24 horas do flagrante, logo a ilegalidade é latente, diante do excesso de prazo para a realização da audiência de custódia e análise do flagrante pelo juízo.
+Salienta a ausência de fundamentação do decreto prisional, e que agravidade abstrata do crime não pode ser motivo suficiente para se decretar uma prisão preventiva e ainda que não há indícios de que o paciente em liberdade ponha em risco a instrução criminal, a ordem pública ou mesmo a ordem econômica, mesmo porque elepossui bons antecedentes criminais, endereço certo e oferta de emprego fixo, o que afasta o argumento de que ele solto poderia se evadir do distrito da culpa.
+Ao final, pugna pela concessão de medida liminar, sustentando presentes os requisitos legais para tanto, para que seja determinada a imediata liberdade do paciente, com a expedição do competente alvará de soltura.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Ao prestar informações, o juízo de primeiro grau consignou que foi concedida liberdade provisória ao paciente em 16/3/2022 (fls. 117/118).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
