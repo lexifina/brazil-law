@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDIO DUARTE DOS SANTOS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 3.ª Região no julgamento dos Embargos de Declaração na Apelação Criminal n.0002633-57.2017.4.03.6114.
+Consta nos autos que oRecorrente foi condenadocomo incursono art. 289, § 1.ºdo Código Penal, àpenade 3(três)anos de reclusão, em regime inicial aberto, convertida a pena privativa de liberdade em restritivas de direitos, e pagamento de 10 (dez) dias-multa.
+Houve apelação somente defensiva, a que o Tribunal de origem negou provimento. Vieram embargos de declaração defensivos, rejeitados em acórdão com a seguinte ementa (fls. 537-538; sem grifos no original):
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL.ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP.MANIFESTAÇÃO CONTRÁRIA DO MINISTÉRIO PÚBLICO FEDERAL. OMISSÃO NÃO VERIFICADA. EMBARGOS DESPROVIDOS.
+1. O embargante alega, em síntese, que há omissão no acórdão em razão da necessidade de aplicação do art. 28-A do CPP.
+2. A tese lançada nos embargos de declaração é, em sua essência, apartada do próprio objeto a que estava restrito o julgamento da apelação.
+3. A norma que regula o ANPP traz, em seu bojo, carga de conteúdo processual e material, o que permite sua incidência não só aos casos em que ainda não houve ajuizamento da ação penal, como também aos processos em andamento, já que se revela mais benéfica ao réu (art. 5.º, XL, da Constituição Federal).
+4. O oferecimento de ANPP não é direito público subjetivo do investigado. Ao revés, tal instituto constitui poder-dever do titular da ação penal, a quem cabe analisar a possibilidade de sua aplicação.
+5. Para processos iniciados antes da entrada em vigor da nova regra, se está em primeiro grau, o réu não pode aguardar a sentença para depois pleitear o acordo. Se está em grau recursal, não pode aguardar a manifestação do Tribunal para só então vir a Juízo manifestar seu interesse pelo ANPP.
+6. Admitir que o acusado ou a acusada aguardem o julgamento e, apenas na hipótese de um resultado que não lhes seja favorável, pleiteiem o ANPP, significa distorcer completamente o objetivo da legislação em baila, que tem como meta evitar a persecução penal, até porque, dado o seu caráter negocial, o ANPP deve observar os princípios da autonomia, da lealdade, da eficiência, do consenso, da boa-fé e da paridade de armas. E não tendo oMinistério Público Federal ou a defesa do acusado comparecido aos autos para informar o interesse quanto ao ANPP, não cabia qualquer manifestação desta Corte quanto ao tema, dado esse caráter negocial do ANPP, que pressupõe a atuação da defesa e da acusação (ao Poder Judiciário cabe a verificação das condições e sua viabilidade e, se o caso, a homologação judicial).
+7. Não se alegue que não foi oportunizado o ANPP à defesa.Intimada do julgamento, quedou-se inerte, preferindo aguardar o desfecho do julgado, para, só então, ciente de um resultado contrário às suas pretensões, se manifestar pela via dos declaratórios.
+8. Nenhuma omissão, obscuridade ou contradição contamina o aresto embargado. Sem que sejam adequadamente demonstrados quaisquer dos vícios elencados no artigo 619 do Código de Processo Penal, não devem ser providos os embargos de declaração.
+9. Embargos conhecidos e desprovidos."
+Nas razões do recurso especial, aponta-se ofensa ao art. 28-A do Código de Processo Penal, sob o argumento de que é aplicável ao caso o acordo de não persecução penal.
+Pede-se o provimento do recurso, "para o fim de se oportunizar a realização do acordo de não persecução penal" (fl. 557).
+Oferecidas contrarrazões (fls. 562-575), admitiu-se o recurso na origem (fls. 579-582).
+O Ministério Público Federal manifesta-se pelo desprovimento do recurso (fls. 597-606).
+É o relatório. Decido.
+A pretensão de aplicação do acordo de não persecução penal ao caso em apreço é manifestamente improcedente, pois, nos termos da jurisprudência desta Corte Superior, "oacordo de não persecução penal, inovação inserida em nosso ordenamento jurídico pelo art. 28-A, do Código de Processo Penal -CPP, tem sua retroatividade limitada aos processos em que ainda não houve o recebimento da exordial acusatória"(AgRg no HC 619.465/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA,DJe 17/09/2021).
+No mesmo sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ANPP. RETROATIVIDADE. IMPOSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DO DEFENSOR NATURAL. NÃO OCORRÊNCIA. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. "Consoante entendimento pacificado no âmbito desta Corte, a possibilidade de aplicação retroativa do instituto relativo ao acordo de persecução penal, previsto no art. 28-A do CPP, inserido pela Lei n. 13.964/2019, somente é possível aos processos em curso até o recebimento da denúncia, situação não verificada na espécie."(AgRg no AREsp n. 1.561.858/RS, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 11/5/2021, DJe 18/5/2021). .. "(AgRg no HC 629.473/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/08/2021, DJe 24/08/2021, sem grifos no original.)
+No caso concreto, já havia sido recebida a denúncia (fl. 188), quando entrou em vigor a Lei n. 13.924/2019.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. ART. 1.º, INCISO I, DA LEI N. 8.137/1990. ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO CABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. SENTENÇA CONDENATÓRIA PROLATADA. RECURSO ESPECIAL DESPROVIDO.
