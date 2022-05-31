@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloMunicípio de Parauapebas, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTribunal de Justiça do Estado do Paráassim ementado:
+APELAÇÃO CIVEL E REMESSA NECESSÁRIA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AFASTADA PRELIMINAR DE PERDA DO OBJETO. COMPROVAÇÃO DE TODOS OS REQUISITOS EXIGIDOS PARA A CARACTERIZAÇÃO DA RESPONSABILIDADE CIVIL DO ESTADO. DIAGNOSTICO MÉDICO EQUIVOCADO EM CRIANÇA. FALHA NO SERVIÇO PÚBLICO. OBRIGAÇÃO DE INDENIZAR PRESENTE NO ART 37, § 6º, DA CF/88. REFORMA DA SENTENÇA PARCIAL NO TOCANTE À MULTA DIÁRIA, DANOS MATERIAIS E REDUÇÃO DO VALOR ARBITRADO. RECURSO CONHECIDO, PROVIDO À UNANIMIDADE.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 499-510).
+Defende o insurgente, em síntese: i) desproporcionalidade da condenação (art. 884 do Código Civil/2002); e ii) nulidade por vício de fundamentação acerca da aplicação da multa (arts. 489 e 1.022 do Código de Processo Civil/2015).
+Apresentadas contrarrazões (e-STJ, fls. 552-561), o recurso especial foi admitido na origem (e-STJ, fls. 562-563).
+É o relatório.
+Inexiste a nulidade aludida. O acórdão dos aclaratórios consignou (e-STJ, fl. 502):
+ ..  a petição datada de 11/11/2009, informando que foi cumprida a liminar de 05/11/2009, ratifica o diagnóstico de hanseníase e a desnecessidade de tratamento em outro local, tendo em vista a doença ser comum nesta região. Ou seja, mantém o diagnóstico errado em desconformidade com o laudo pericial, não resolvendo o problema de saúde do menor.
+Portanto, bem ou mal, o Tribunal de origem externou sua compreensão da causa.
+No que tange à proporcionalidade da condenação em danos morais, a parte recorrente aponta acórdão do TJMG em situação símile, em que a condenação por diagnóstico incorreto por hanseníase, mantido por 6 meses, resultou em indenização de R$ 10 mil, em 2013 (aproximadamente 15 salários mínimos). No presente caso, o menor permaneceu com diagnóstico equivocado por 28 dias, tendo-se fixado a compensação em R$ 60 mil, em 2020 (cerca de 60 salários mínimos). Em outro paradigma, o diagnóstico incorreto, que não identificou fratura, com consequências laborais por 2 meses, resultou em indenização de R$ 10 mil, em 2018 (cerca de 10 salários mínimos).
+O acórdão registrou, em suas razõespara fixação do dano, essencialmente, o estigma social sofrido pelos portadores de hanseníase, com as consequências psicológicas para o paciente. Tendo em vista o caráter transitório do diagnóstico equivocado, bem como os precedentes aludidos, é de se concluir pela efetiva desproporcionalidade da condenação na hipótese.
+Por tal fundamento, deve-se reconhecer o valor de R$ 60 mil por diagnóstico incorreto experimentado por período inferior a um mês. Em consequência, adota-se o parâmetro jurisprudencial de 10 salários mínimos vigentes à época da publicação da presente decisão, isto é, R$ 11 mil (onze mil reais).
+Ante o exposto, com fulcro no art. 932, IV e V, do CPC/2015, c/c o art. 255, § 4º, II e III, do RISTJ, dou parcial provimento ao recurso especialparareduzir a condenação em danos morais a R$ 11 mil (onze mil reais).
+Publique-se. Intimem-se.
