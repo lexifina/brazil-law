@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 51, e-STJ):
+AGRAVO DE INSTRUMENTO - Exceção de Pré- Executividade - Extinção da ação sem resolução do mérito em relação à agravante pela sentença - Acórdão que deu provimento em parte à apelação sem referência à recorrente, mas somente às corrés - Extinção do cumprimento de sentença em favor da recorrente - Recurso provido.
+Nas razões do recurso especial, a parte ora agravante alega violação aoart. 504, I, II, do Código de Processo Civil de 2015. Sustenta, em síntese, a ocorrência da violação à coisa julgada e defende a legitimidade passiva da parte recorrida para figurar na demanda. Defende "fazer coisa julgada tão somente o dispositivo do acórdão, pouco importando os motivos e a verdade dos fatos, que constituem base para o dispositivo" (fl. 81, e-STJ).
+Foram apresentadas contrarrazões às fls. 103/106, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem assim se manifestou sobre a matéria (fls. 53/54, e-STJ):
+A r. sentença de fls. 28/35 dos autos principais, excluiu da lide as corrés PAULICOOP e RGL e julgou improcedente a ação em relação a Cooperativa Habitacional Nova Era. Conforme verifica-se da apelação interposta pela agravada, juntada às fls. 29/41 deste instrumento, o recorrente pleiteou a reforma integral da sentença, para que se reconhecesse a responsabilidade solidária das requeridas em relação ao cumprimento da obrigação e eventuais perdas e danos em seu benefício (fls. 40/41).
+O V. Acórdão de fls. 37/42 dos autos principais (Rel. Des. TEIXEIRA LEITE), deu provimento em parte à apelação unicamente para afastar a condenação por dano moral, reformando a sentença para "condenar as rés na devolução de todos os valores pagos pela compradora".
+Todavia, melhor apreciando, o Acórdão só faz referência à Cooperativa Habitacional Nova Era e à Paulicoop, não havendo qualquer menção à agravante, cuja atuação não foi bem esclarecida na petição inicial e que, conforme a sentença, não integrou a elação contratual.
+Pelo exposto, DÁ-SE PROVIMENTO ao agravo de instrumento para extinguir-se o cumprimento de sentença em relação à RGL- Imóveis, Incorporações e Empreendimentos Ltda, acolhendo-se a exceção de pré-executividade, condenando a agravada em honorários advocatícios em seu favor fixados em R$ 1.000,00, em conformidade com o art. 85, § 2º, do CPC/2015.
+Observo, entretanto, que, conforme jurisprudência deste Superior Tribunal de Justiça, os argumentos relativos à existência de violação à coisa julgada não podem ser apreciados sem o reexame do acervo fático-probatório dos autos, o que se veda em recurso especial, a teor da Súmula 7/STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
