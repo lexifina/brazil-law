@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por STEFANINI CONSULTORIA E ASSESSORIA EM INFORMÁTICA S.A. (STEFANINI)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da relatoria do Des. PAULO AYROSA,assim ementado:
+PROCESSUAL CIVIL ALEGAÇÃO DE DECISÃO SURPRESA NÃO OCORRÊNCIA MATÉRIA TRATADA EM TODO O DESENROLAR PROCESSUAL PRELIMINAR REJEITADA. A vedação da decisão surpresa prevista no Código de Processo Civil de 2015, vem aperfeiçoar o exercício do contraditório e da ampla defesa, evitando-se que ela seja proferida com fundamento não discutido e contra a parte que não foi ouvida. No caso, desde a petição inicial e em quase todas as peças processuais apresentadas pelas partes, fez-se referência aos termos do acordo firmado entre as partes, de modo que a apelante teve diversas oportunidades de se manifestar a respeito, situação que afasta qualquer alegação de decisão-surpresa.
+PRESTAÇÃO DE SERVIÇOS AÇÃO DE COBRANÇA CONTRATO PARA DESENVOLVIMENTO DE APLICATIVO INADIMPLEMENTO CONTRATUAL POR PARTE DA RÉ COMPROVAÇÃO APLICAÇÃO DO ART. 476 DO CÓDIGO CIVIL SENTENÇA REFORMADA RECURSO PROVIDO.
+I Considerando-se que restou evidenciado nos autos o cumprimento pela autora das obrigações assumidas decorrentes da proposta de criação e desenvolvimento do aplicativo ALLIANZ PARQUE, contando inclusive com aprovação da ré para emissão da fatura de pagamento, ao final, inadimplida, de rigor a procedência da ação;
+II Em razão da ausência de pagamento pela ré dos serviços prestados pela autora, cabível a aplicação do princípio exceptio non adimpleti contractus, de modo que realmente não estava obrigada a fornecer para a requerida os códigos e chaves para implantação do APP, condição que deve cumprir após o recebimento da condenação imposta nestes autos(e-STJ, fl. 28).
+Os embargos de declaração opostos por STEFANINIforam rejeitados (e-STJ, fls. 433/438).
+Irresignada, STEFANINIinterpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 476 do CC/02; 1º,§ 2º, da Lei nº 6.899/81; e 1.022, III, do NCPC, ao sustentar (1) a existência de erro material no acórdão recorrido, pois, se um dos pedidos não foi acolhido, a hipótese é deprocedência parcial e não integral do pedido;(2)que a regra da exceção do contrato não cumprido não foi aplicada corretamente no caso, uma vez que a autora da ação de cobrança, ora recorrida, "não apenas não entregou o aplicativo, como não comprovou que este se encontrava pronto para uso, tanto na versão IOS como na versão Android, o que era indispensável para pretender receber pelo serviço prestado, o qual, ademais, como longamente mencionado e percebido pela sentença de primeiro grau, demorou a ser executado" (e-STJ, fl. 446). Ademais, para exigir o pagamento, deveria a parte demandante, ao menos, ter comprovado que o aplicativo foi de fato desenvolvido e atendia às necessidades/especificações da ora recorrente, o que não aconteceu; e (3) não se tratando de ação de execução para cobrança de quantia líquida e certa, a correção monetária deve incidir a partir do ajuizamento da ação.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo (e-STJ, fls. 459/461).
+Nas razões do presente agravo, STEFANINIalegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 476/486).
+É o relatório.
+Decido.
+O recurso comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação aoart. 1.022 do NCPC
+Nas razões do recurso especial, STEFANINI sustentou, preliminarmente, a existência de erro material no acórdão recorrido, pois, se um dos pedidos não foi acolhido, a hipótese é de procedência parcial e não integral do pedido.
+Assiste razão àrecorrente.
+A forma como a controvérsia foi resolvida gera questionamentos e impede que o STJ examine a matéria em virtude do indispensável prequestionamento do tema nela contido e de suas nuances que, no caso, envolve juízo de valor acerca de questão fática, a impedir a aplicação do prequestionamento ficto, nos termos do que dispõe o art. 1.025 do NCPC.
+No caso em tela, a questão assume especial relevância, tendo em vista que, na petição inicial, a autora, ZUP I. T. SERVIÇOS TECNOLOGIA E INOVAÇÃO S.A., atribuiu à causa a importância de R$ 263.303,44 (duzentos e sessenta e três mil, trezentos e três reais e quarenta e quatro centvos), aqual se afigura bem superior ao valor da condenação imposta pelo Tribunal paulista.
+Assim, tendo o recurso especial sido interposto por ofensa aoart. 1.022, III, do NCPC e, em face da relevância da questão suscitada, se revela necessário o debate acerca do ponto acima destacado, de modo que a prestação jurisdicional seja dada de forma completa àrecorrente.
+Nesse sentido, confiram-se os seguintes precedentes desta egrégia Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA. RESCISÃO CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. ART. ART. 1.022 DO CPC/2015. OMISSÃO. OFENSA CONFIGURADA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Há ofensa ao art. 1022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo interno no agravo em recurso especial não provido para manter o não conhecimento do agravo em recurso especial de LUIZ CARLOS STOCKER e o conhecimento e provimento do recurso especial de COMPANHIA DE SEGUROS ALIANÇA DO BRASIL.
+(AgInt no REsp nº 1.711.626/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 2/8/2018, DJe de 10/8/2018, sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO.ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA.DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp nº 1.708.003/BA, Rel. Ministro LÁZARO GUIMARÃES, Rel. p. acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 7/8/2018, DJe de 21/8/2018, sem destaque no original)
+É condição sine qua non ao conhecimento do especial que as questões de direito e de fato ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado.
+Assim, recusando-se o Tribunal bandeirantea se manifestar sobre a questão alegada, terminou por negar prestação jurisdicional àrecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à Corte estadual para que seja sanado o erro material destacado.
+Nessas condições, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial de STEFANINI. para reconhecer ofensa ao art. 1.022, III, do NCPC, determinando o retorno dos autos ao TJSPpara que analise a questão trazida nos embargos de declaração acima especificada, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECUSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. DESENVOLVIMENTO DE APLICATIVO. VIOLAÇÃO DOART. 1.022 DO NCPC. OCORRÊNCIA. ALEGAÇÃO DE ERRO MATERIAL ENVOLVENDO QUESTÃO RELEVANTE LEVANTADA NOS ACLARATÓRIOS. RECUSA DE ENFRENTAMENTO DO TEMA. NEGATIVA DA COMPLETA PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO
