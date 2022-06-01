@@ -1,0 +1,14 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENHORA EM CONTA CORRENTE. AUSÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃOREJEITADOS.
+1. Trata-se de Embargos de Declaração no Recurso Especial opostos por JULIANO SAMMY BARBOSA DOS SANTOScontra decisão de minha relatoria, ementada nos seguintes termos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL.EXECUÇÃO FISCAL. PENHORA REALIZADA SOBRE VALOR DEPOSITADO EM CONTA CORRENTE. NATUREZA SALARIAL NÃO COMPROVADA.REEXAME VEDADO. SÚMULA 7/STJ. RECURSO ESPECIAL DO CONTRIBUINTE DESPROVIDO. (fl. 86)
+2. A embargante alega haver omissão na decisão embargada no que concerne à adesão à transação tributária.
+3. Requer sejam acolhidos os presentes Embargos de Declaração, com fins de suprir a omissão apontada.
+4.É o relatório.
+5. O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+6. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+7. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8.Na vertente hipótese, verifico não estarem presentes os vícios descritos no art. 1022 do CPC/2015 porquanto a solução da controvérsia foi dada na medida da pretensão deduzida, qual seja, aanálise acerca da possibilidade de levantamento da penhora dos valores constantes em conta bancária da parte embargante. Tal pretensão não obteve êxito em razão de necessitar dereexame de contexto fático-probatório, o que é vedado em recurso especial a teor da Súmula 7/STJ.
+9. Cabe pontuar, ademais, que o argumento relativo à transação tributária não foi apresentado nas razões do recurso especial, razão pela qual não há que se falar em omissãoquando a questão não foi oportunamente suscitada.
+10. Diante do exposto, rejeitam-se os Embargos Declaratórios opostos por JULIANO SAMMY BARBOSA DOS SANTOS.
+11. Publique-se. Intimações necessárias.
