@@ -1,0 +1,22 @@
+DECISÃO
+1. UNIMED DE TAUBATÉ interpõe agravo interno (fls. 641-649) contra decisão que julgouprejudicado o seu agravo em recurso especial (fls. 584-603), visto que o apelo nobre interposto pela outra parte - S.P.A. SAÚDE - SISTEMA DE PROMOÇÃO ASSISTENCIAL - foi parcialmente provido, para reformar em parte o acórdão recorrido e afastar o reembolso integral, todavia deve a recorrente arcar com o pagamento dos honorários médicas, com o tratamento do beneficiário do plano de saúde, considerando-se os preços praticados pelos profissionais (hospital, médicos e auxiliares) credenciados, a serem apurados em fase de liquidação de sentença, acarretando, em consequência, a respectiva perda de objeto.
+Sustenta a agravante que o assunto discutido no recurso especial quanto à ilegitimidade passiva da ora agravante não foi apreciado.
+Sem impugnação, consoante certidão à fl. 655.
+É o relatório.
+DECIDO.
+2. Observa-se que, de fato, o assunto tratado não foi apreciado, razão pela qual se há que reconsiderar a decisão de fls. 631-632.
+Passe, pois, ao reexame do agravo em recurso especial(fls. 584-603),contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 528):
+AÇÃO DE INDENIZATÓRIA PROPOSTA CONTRA PLANO DE SAÚDE. CIRURGIA DE CATARATA E IMPLANTAÇÃO DE LENTE INTRAOCULAR. RECUSA DE COBERTURA PARA O MATERIAL SOLICITADO. ABUSIVIDADE. DOENÇA PREVISTA NO CONTRATO. INADMISSIBILIDADE DE NEGATIVA DE FORNECIMENTO DOS INSUMOS NECESSÁRIOS AO PROCEDIMENTO CIRÚRGICO. REEMBOLSO DAS DESPESAS DEVE SE DAR DE FORMA INTEGRAL. PRECEDENTES DA CÂMARA. DANOS MORAIS NÃO CONFIGURADOS. AUSÊNCIA DE PREJUÍZO À SAÚDE DA AUTORA. MERO DESCUMPRIMENTO CONTRATUAL IMPASSÍVEL DE GERAR O DEVER DE INDENIZAR. SENTENÇA MANTIDA. RECURSOS DESPROVIDOS.
+Alega a recorrente violação dos artigos 17 e 330, inciso II, do Código de Processo Civil, sustentando que tais disposições legais "não foram analisadas e julgados em sede de sentença e em acordão." Argumenta que não é parte legítima para constar no polo passivo, pois "NÃO é a operadora de saúde responsável por autorizar, negar, ou até mesmo receber quaisquer valores da recorrida, sendo ela beneficiária do Sistema Paulista de Assistência".
+Aduz ainda ofensa ao artigo 2º, I, da Lei 9.656/98, tendo em vista que o acórdão violou o seu texto, para responsabilizar o prestador pela negativa emitida pela operadora, matéria essa afeta à corré SPE.
+Sustenta que é parte ilegítima para responder pelademanda, porque foi contratada pela S.P.A. SAÚDE - SISTEMA DE PROMOÇÃO ASSISTENCIAL apenas como rede credenciada.
+Desta forma, não poderia ser considerada solidariamente ao pagamento da diferença no valor do reembolso de R$ 11.656,27 que ainda restavam para atingir o custeio total das despesas de implantação de lente intraocular, cujo montante total perfazia a quantia de R$ 20.000,00, sendo que apenas R$ 8.343,73 haviam sido reembolsados pela corré SPE até então.
+Sem apresentação de contrarrazões ao recurso especial, consoante certidão à fl. 567, o recurso foi inadmitido na origem (fls. 578-581), tendo sido em seguida interposto agravo em recurso especial (fls. 584-603) e ascendendo os autos a esta Corte.
+Quanto à controvérsia travada no recurso especial, o Tribunal de origem reconheceu a legitimidade passiva da recorrente com base nos seguintes fundamentos:
+Inicialmente, afasto a preliminar de ilegitimidade passiva apresentada pela corré UNIMED.
+A requerida faz parte da relação jurídico contratual em debate; o fato de a corré S.P.A. SAÚDE intermediar a contratação entre a autora e a rede de prestadores de serviçosdisponibilizada pela UNIMED não afasta a relação obrigacional estabelecida entre estas últimas.
+Aliás, a carteira do plano de saúde da autora foi emitida pela UNIMED TAUBATÉ (fls. 22/23) e a recusa em autorizar o procedimento se deu através de seu sítio eletrônico (fls. 26/29).
+Desse modo, patente a responsabilidade da codemandada.
+Com efeito, a revisão dos fundamentos que ensejaram esse entendimento e a análise da pretensão recursal pelas alíneas ae cdo permissivo constitucional exigiriam reapreciação do conjunto probatório e interpretação de cláusula contratual, o que é vedado em recurso especial, ante o teor das Súmulas 5 e 7 do STJ.
+Ante o exposto, reconsidero a decisão de fls. 631-632 para, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+Publique-se. Intimem-se.
