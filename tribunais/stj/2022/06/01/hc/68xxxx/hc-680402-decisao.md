@@ -1,0 +1,12 @@
+DECISÃO
+CARLOS TAIAN GONÇALVES RODRIGUES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 0086770-88.2020.8.21. 7000).
+Consta dos autos que o paciente foi condenado à pena de 11 anos e 8 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput e 35, ambos da Lei n. 11.343/2006.
+A defesa aduz, em síntese, que "nas sucessivas decisões judiciais de prorrogações não foi demonstrada a imprescindibilidade da medida, bem como os indícios suficientes de autoria e de materialidade dos crimes, estando as mesmas carentes de fundamentação idônea, tendo em vista que não houve preocupação em aferir a contemporânea necessidade da medida, além de terem deixado também de apontar para indícios suficientes de autoria e materialidade delitiva, antes se limitando a fazer remissão das decisões pretéritas" (fl. 7).
+Requer, assim, seja reconhecida a nulidade da decisão judicial de quebra de sigilo telefônico e das sucessivas prorrogações e, por consequência, seja absolvido o paciente.
+Prestadas as informações (fls. 133-222), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 229-235).
+Decido.
+Conforme se depreende dos autos, a tese defensiva de nulidade das interceptações telefônicas por inidoneidade da fundamentação das decisões que as autorizaram não foi analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+Nesse sentido, aliás, foi o parecer do Ministério Público Federal, in verbis (fl. 232): "De início, verifica-se que a tese suscitada pela defesa não pode ser analisada nesta oportunidade por essa Corte Superior, sob pena de indevida supressão de instância e desprestígio às instâncias ordinárias, uma vez que não foi debatida pelo Juízo de origem nem pelo TJRS, tal como aduz a defesa, consoante informações dos autos".
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
