@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A-EM RECUPERAÇÃO JUDICIAL em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL - ACIDENTE FERROVIÁRIO - VÍTIMA, COM 18 ANOS DE IDADE, QUE AO ATRAVESSAR PASSAGEM IRREGULAR FOI ATROPELADA POR LOCOMOTIVA DA RÉ - ÓBITO - RESPONSABILIDADE CIVIL OBJETIVA DA CONCESSIONÁRIA DE TRANSPORTE PÚBLICO - FATO, DANO E NEXO CAUSAL - COMPROVAÇÃO - EXCLUDENTES - INOCORRÊNCIA - FALHA NA PRESTAÇÃO DO SERVIÇO - DEVER DE INDENIZAR - IRMÃO DA VÍTIMA QUE POSSUI LEGITIMIDADE PARA POSTULAR ANTE O DANO REFLEXO DE TERCEIRO (DANO MORAL EM RICOCHETE) - DESPESAS COM FUNERAL DEMONSTRADAS - DANO MORAL CONFIGURADO - VERBA COMPENSATÓRIA ARBITRADA ABAIXO DO RAZOÁVEL MERECENDO SER MAJORADA - CULPA CONCORRENTE CONSIDERADA NO AUMENTO - JUROS FIXADOS CORRETAMENTE DE ACORDO COM A SÚMULA Nº 54 DO C. STJ - INEXISTÊNCIA DE COMPROVAÇÃO DE DEPENDÊNCIA ENTRE OS GENITORES E A VÍTIMA - SENTENÇA PARCIALMENTE REFORMADA - RECURSOS CONHECIDOS, SENDO O PRIMEIRO PARCIALMENTE PROVIDO E O SEGUNDO DESPROVIDO.
+- Cuida a hipótese de demanda ajuizada por Simone dos Santos Ramos e Outros em face da Supervia Concessionária de Transporte Ferroviário S.A, em que alegam que no dia 18/06/2018, a vítima Rafael dos Santos Ramos, filho e irmão dos autores, com 18 anos de idade, teria sido violentamente atropelado e morto por locomotiva de propriedade da Ré quando atravessava por passagem irregular localizada entre as estações de Inhoaíba e Cosmo.
+- Sentença que julgou parcialmente procedente a pretensão autoral. Inconformismo manifestado por ambas as partes.
+Rejeição.
+- Responsabilidade civil contratual objetiva da concessionária prestadora de serviço público. Aplicação do § 6º do art. 37 da Constituição da República e do artigo 14 da Lei nº 8.078/90.
+- Dinâmica dos fatos que restou comprovada ante o exame do registro de ocorrência em conjunto com o depoimento da testemunha da Ré (ouvida como informante).
+- Comprovação do fato, do dano e do nexo de causalidade entre a conduta do preposto da Transportadora e o evento danoso.
+- Transportadora Ré que não se desincumbiu do ônus de provar nenhuma das excludentes de responsabilidade invocadas. Dever de indenizar aos Autores pelos danos materiais e morais suportados.
+- Verba compensatória fixada na sentença abaixo do razoável, majorada para de R$ 25.000,00 (vinte cinco mil reais) para R$ 50.000,00 (cinquenta mil reais) para cada genitor e de R$ 10.000,00 (dez mil reais) arbitrado para o irmão da vítima para R$ 25.000,00 (vinte cinco mil reais), valores aumentados para melhor atender aos princípios da razoabilidade e da proporcionalidade.
+- Sentença parcialmente reformada.
+- Recursos conhecidos. Primeiro recurso parcialmente provido e segundo apelo desprovido. Elevação dos honorários advocatícios arbitrados em favor do patrono da parte Autora, na forma do artigo 85, § 11 do Código de Processo Civil." (fls. 547/548)
+Contrarrazões às fls. 598/602,
+É o relatório.
+Com efeito, trata-se, na origem, de ação de indenização fundada na responsabilidade civil de concessionária de serviço público por danos causados em razão de falha na prestação do serviço, matéria de direito público cuja competência para processamento e julgamento é das Turmas que compõem a Segunda Seção do STJ, na forma do art. 9º, VIII, do Regimento Interno desta Corte.
+Diante do exposto, determino a redistribuição deste feito a um dos eminentes Ministros que compõem a eg. Primeira Seção.
+Publique-se.
