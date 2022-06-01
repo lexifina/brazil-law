@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto porLIBERTY SEGUROS S/A, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 509):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA REGRESSIVA. REPERCUSSÃO GERAL. EXTRAVIO DE MERCADORIA. TRANSPORTE AÉREO INTERNACIONAL. LIMITES DA RESPONSABILIDADE CIVIL. CONVENÇÃO DE MONTREAL. REGIME DE INDENIZAÇÃO TARIFADA.
+1. Ação de cobrança regressiva.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 636.331/RJ, sob o regime da repercussão geral, consolidou o entendimento de que, "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor". Diante da tese fixada pelo STF, é necessária a reorientação da jurisprudência anteriormente consolidada nesta Corte Superior.
+3. Agravo interno não provido.
+Sustenta o recorrente a violação do art. 178 da Constituição Federal, e afirma a repercussão geral da matéria recorrida (e-STJ fls. 520-548).
+Alega que a aplicação das Convenções de Varsóvia e de Montreal ao presente caso, que trata especificamente de descumprimento de contrato de transporte aéreo de carga, e não de passageiros, além de destoar da tese fixada no Tema n. 210/STF, contraria o aludido dispositivo constitucional.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas(e-STJ fls. 578-610).
+É o relatório.
+Ao julgar o RE n. 636.331, o Supremo Tribunal Federal firmou o entendimento de que "Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema n. 210/STF).
+Confira-se, por oportuno, a ementa do acórdão:
+Recurso extraordinário com repercussão geral. 2. Extravio de bagagem. Dano material. Limitação. Antinomia. Convenção de Varsóvia. Código de Defesa do Consumidor. 3. Julgamento de mérito. É aplicável o limite indenizatório estabelecido na Convenção de Varsóvia e demais acordos internacionais subscritos pelo Brasil, em relação às condenações por dano material decorrente de extravio de bagagem, em voos internacionais. 5. Repercussão geral. Tema 210. Fixação da tese: "Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor". 6. Caso concreto. Acórdão que aplicou o Código de Defesa do Consumidor. Indenização superior ao limite previsto no art. 22 da Convenção de Varsóvia, com as modificações efetuadas pelos acordos internacionais posteriores. Decisão recorrida reformada, para reduzir o valor da condenação por danos materiais, limitando-o ao patamar estabelecido na legislação internacional. 7. Recurso a que se dá provimento.
+(RE 636331, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 25/05/2017, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-257 DIVULG 10-11-2017 PUBLIC 13-11-2017)
+Na espécie, verifica-se que o acórdão recorrido concluiu que "quanto à alegação de que a Convenção de Montreal não se aplica ao transporte de cargas, urge salientar que o posicionamento da 2ª Turma do Supremo Tribunal Federal é no sentido de que "a Convenção  de Montreal  se aplica a transporte internacional de pessoas, bagagem ou carga, efetuado em aeronaves, compreendendo todo o período durante o qual a carga se acha sob custódia do transportador" (ARE 1.164.624 ED-AgR, DJe 16/6/2020)" - e-STJ fl. 513.
+Por outro lado, em pesquisa à base de jurisprudência da Suprema Corte, é possível encontrar precedentes segundos os quais a discussão sobre pretensão indenizatória relativa a avarias em transporte internacional de carga não é abrangida pelatese firmada no Tema n. 210/STF.
+Confira-se:
+Agravo regimental nos segundos embargos de declaração no recurso extraordinário. Direito Civil. Transporte aéreo internacional de mercadorias. Carga avariada. Indenização. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+1. A ação em questão, na qual se discute pretensão indenizatória decorrente de avarias em transporte internacional de carga, é distinta daquela tratada no julgamento do tema nº 210 da Repercussão Geral. Precedentes.
+2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos para a análise do efetivo valor do prejuízo em discussão. Incidência da Súmula nº 279/STF.
+3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(RE 1242964 ED-segundos-AgR, Relator(a): DIAS TOFFOLI, Primeira Turma, julgado em 08/03/2021, PROCESSO ELETRÔNICO DJe-064 DIVULG 07-04-2021 PUBLIC 08-04-2021)
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE AÉREO DE CARGA. MERCADORIAS DANIFICADAS. SEGURADORA. AÇÃO DE REGRESSO. DANO MATERIAL. LIMITAÇÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. CONVENÇÃO DE VARSÓVIA. RE 636.331. TEMA 210 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.
+(AI 822191 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 15/02/2019, ACÓRDÃO ELETRÔNICO DJe-038 DIVULG 22-02-2019 PUBLIC 25-02-2019)
+Constata-se, assim, que há, em princípio, divergência com relação ao entendimento firmado pelo Supremo Tribunal Federal sobre o tema.
+Ante o exposto, nos termos do art. 1.030, V, a, do Código de Processo Civil, admite-se o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO CIVIL E PROCESSUAL CIVIL. TRANSPORTE AÉREO DE CARGA. CONVENÇÃO DE MONTREAL. APLICABILIDADE.APARENTEDIVERGÊNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSOADMITIDO.
