@@ -1,0 +1,14 @@
+DECISÃO
+Na Pet 00366373/2002, o BANCO SANTANDER (BRASIL) S/Arequer a redistribuição do feito a um dos Ministros integrantes da Segunda Seção, por se tratar de feito que envolvediscussão atrelada à recuperação judicial do Grupo Oi,conforme decidido noCC 153.998/DF (fls. 853/854e).
+A OI MOVEL S.A opõe-se ao pedido, aduzindo estar a controvérsia dos autos adstrita à garantia de um débito em sede de Execução Fiscal, matéria de Direito Público (fls. 855/858e).
+O pedido de redistribuiçãonão comporta acolhimento.
+De acordo com o caput do art. 9º do Regimento Interno do STJ, a competência das Seções e das respectivas Turmas é fixada em função da relação jurídica litigiosa.
+A Corte Especial do STJ, ao julgar o CC 92.367/RS (Rel. p/ acórdão Ministra NANCY ANDRIGHI, DJe de 12/03/2009), bem como o CC 92.120/SP (Rel. Ministra NANCY ANDRIGHI, DJe de 17/09/2009), proclamou que, nos termos do art. 9º do RISTJ, para a definição da competência no âmbito do STJ, basta que se proceda a uma análise precisa da relação jurídica litigiosa posta a desate.
+Com efeito, no julgamento do CC 153.998/DF, mencionado pela parte requerente, a Corte Especial definiu caber à Segunda Seção do Superior Tribunal de Justiça o julgamento de"conflito de competência entre o juízo da recuperação judicial e o da execução fiscal, seja pelo critério da especialidade, seja pela necessidade de evitar julgamentos díspares e a consequente insegurança jurídica"(STJ, CC 153.998/DF, relatora Ministra Laurita Vaz, relatora para o acórdão Ministra Nancy Andrighi, DJe de 22/9/2020).
+Referido conflito de competência foi suscitado pelo juízo da Execução Fiscal, ante auma decisão do juízo da Recuperação Judicial determinando a suspensão de todas as ações e execuções em curso contra integrante do Grupo Oi.
+De outro lado, na hipótese dos autos, a instituição bancária defende, em síntese, que a transação firmada entre o credor e o devedor (Anatel e Oi Móvel S.A.), sem a anuência do fiador, o desonera da obrigação.
+A discussão, portanto, refere-se ao indeferimento dopedido de desentranhamento de Carta de Fiança formulado pelo Banco Santander, em sede deExecução Fiscal de dívida não tributária, diante desuposta novação ocorrida no âmbito da recuperação judicial da Oi.
+Não obstante haja referência, no acórdão e no Recurso Especial, aoPlano de Recuperação Judicial da Oi, a essência da controvérsia ora trazida a esta Corte é, na verdade, o disposto na Lei 13.988/2020, adotada como principal fundamento peloacórdão recorrido, sendo matéria eminentemente de Direito Público.
+Em sentido similar, veja-se a deliberação monocrática na Pet no AREsp 2087019/RJ, Rel. Ministro Gurgel de Faria, DJe de 26/05/2022.
+Ante o exposto, indefiro o requerimento de fls. 853/854e, tendo em vista tratar-se de matéria afeta ao Direito Público e, portanto, de competência desta Seção para julgamento, nos termo do art. 9º, § 1º, XIV, do RISTJ.
+I.
