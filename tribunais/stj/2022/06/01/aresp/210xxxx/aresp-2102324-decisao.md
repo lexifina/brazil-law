@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FERNANDO APARECIDO DA SILVA, GILENALDO LIRA DE CARVALHO e SIDNEY LUIZ BRANDÃO (FERNANDO e outros)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da relatoria do Des. CARLOS DIAS MOTTA, assim ementado:
+CONDOMÍNIO. Ação de obrigação de não fazer. Sentença de parcial procedência. Apelos do réu e dos autores. Limitação de uso de certas áreas comuns (piscina, churrasqueira e quadra) a locatários cujo prazo contratual seja inferior a 30 (trinta) dias, aprovado em assembleia geral extraordinária. Possível a limitação do uso das áreas comuns em caso de locação de curto período, com vistas a garantir a segurança e o sossego dos condôminos. Precedentes desta E. Câmara e do C. STJ. Em matéria condominial, a vontade da maioria é soberana, desde que respeitada a lei e a convenção do condomínio. Os condôminos podem utilizar a coisa comum conforme sua finalidade. Norma condominial que pretende evitar o desvio de finalidade do condomínio e sua utilização com intenção hoteleira/comercial. Inexistência de abusividade ou ilegalidade na disposição normativa aprovada por maioria, não havendo que falar em condenação do réu a não cumpri-la. Sentença reformada. Apelo do réu provido e apelo dos autores desprovido(e-STJ, fl. 236).
+Os embargos de declaração opostos por FERNANDO e outrosforam rejeitados (e-STJ, fls. 252/255).
+Irresignados, FERNANDO e outrosinterpuseramrecurso especial com base no art. 105, III, alíneac, da CF, apontando divergência jurisprudencial com precedente do Tribunal de Justiça de Santa Catarina, quanto à interpretação dos arts. 1.335, II, do CC/02 e 23 da Lei nº 8.245/91,no que tange à possibilidade de utilização de áreas comuns por locatários de curtos períodos (inferiores a trintadias), sob pena de restrição indevida do direito de propriedade dos locadores e transgressão à legislação vigente, ainda que haja deliberação em Assembleia Geral Extraordinária pela maioria dos moradores.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo (e-STJ, fls. 297/298).
+Nas razões do presente agravo, FERNANDO e outrosalegaramque não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 310/317).
+É o relatório.
+Decido.
+Diante da relevância daquestão exposta, para melhor examinar atesesuscitada, DOU PROVIMENTO ao presente agravo, determinando a sua conversão em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. LOCAÇÃO DE IMÓVEL RESIDENCIAL POR PRAZO INFERIOR A 30 DIAS. RESTRIÇÃO DE ACESSO A ÁREAS COMUNS. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
