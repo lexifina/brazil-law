@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SANTANDER BRASIL S.A em face de decisão desta relatoria, que deu parcial provimento ao recurso especial.
+O embargante sustenta, em síntese, que " o  reclamo devolveu a esta C. Corte o conhecimento de três teses, das quais duas foram integralmente acolhidas, sendo, via de consequência, parcialmente acolhida a impugnação do Santander - o que enseja o arbitramento de honorários de sucumbência, nos termos do art. 85, §1º, do CPC 2 , e da remansosa jurisprudência deste C. STJ" (fl. 481).
+Impugnação às fls. 485/492.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Na espécie, o banco recorrente aponta omissão da decisão singular quanto à fixação dos honorários de sucumbência, consequência natural do acolhimento parcial do apelo e, pois, da impugnação ao cumprimento de sentença.
+Com efeito, " n os termos da jurisprudência desta Corte Superior, no caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, é cabível o arbitramento de honorários advocatícios em benefício do executado. Entendimento consolidado pela Corte Especial no julgamento do Recurso Especial Repetitivo 1.134.186/RS" (AgInt no AREsp n. 1.888.178/MS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/12/2021.).
+Ainda no mesmo sentido:
+(..) "1. Nos termos da jurisprudência desta Corte Superior, firmada no julgamento do REsp 1.134.186/RS, sob a sistemática dos recursos repetitivos, a fixação dos honorários em favor do executado/impugnante é possível quando o acolhimento da impugnação ao cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado. 1.1. No caso em tela, consoante se depreende da decisão agravada na origem, houve o acolhimento parcial da impugnação ao cumprimento de sentença, resultando na redução da quantia executada.(..)" (AgInt no REsp n. 1.843.515/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020.)
+No caso, como houve acolhimento parcial da impugnação ao cumprimento de sentença, com a redução também parcial da dívida, devem os aclaratórios serem acolhidos para fixar os honorários em favor dos advogados do banco em 10% (dez por cento) do proveito econômico obtido, na forma do art. 85, § 2º, do CPC/15.
+Ante o exposto, acolhem-se os embargos de declaração com efeitos infringentes para fixar os honorários de sucumbência em 10% (dez por cento) do proveito econômico obtido por meio da impugnação ao cumprimento de sentença.
+Publique-se.
