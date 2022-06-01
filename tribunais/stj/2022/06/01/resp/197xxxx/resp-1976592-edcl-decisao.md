@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelaCOMPANHIA HIDRO ELÉTRICA DO SÃO FRANCISCOcontra decisão da minha lavra em queconheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento (e-STJ fl.1.330/1.336).
+Sustenta a parte embargante que o julgado padece de omissão, poisnão se manifestou sobre amulta aplicada nos embargos de declaração, requerendo aexcluída a penalidade imposta pelo Tribunal de origem com fundamento no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+Impugnação às e-STJ fls. 1.45/1.357.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, verifico que entre os pedidos trazidos ao final do recurso especial, a parte insurgente requereu,in verbis(e-STJ fls. 1.245/1.246):
+Diante do exposto, impende, data venia, que seja admitido e provido o presente Recurso Especial, para reformar a decisão a quo, para:
+ ..
+V. Reformar a decisão que condenou a Recorrente em multa por opor supostos embargos protelatórios, recurso aviado na tentativa de sanar a omissão no que pertine ao tema honorários sucumbenciais.
+Todavia, observa-se da leitura dasrazões do apelo nobre, que a parte recorrente nãodesenvolveu nenhumatese para justificar a exclusão da multapor embargos de declaração manifestamente protelatórios, tampouco apontou o dispositivo supostamente contrariado, circunstância que demonstra a deficiência da fundamentação e atrai o óbice da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE HOMOLOGA CÁLCULOS EM CUMPRIMENTO DE SENTENÇA. NATUREZA DE DECISÃO INTERLOCUTÓRIA. CABIMENTO DE AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. DISPOSITIVO TIDO POR VIOLADO QUE NÃO CONTÉM COMANDO NORMATIVO APTO A DESCONSTRUIR ATESEDEDUZIDA NO ACÓRDÃO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida negou provimento ao recurso especial sob o fundamento de que: (i) o art. 203, § 1º, do CPC não possui comando normativo apto a sustentar atesedefendida no recurso especial, qual seja, a possibilidade de aplicar-se o princípio da fungibilidade no caso em que a parte apresenta apelação contra decisão que julgou improcedente a impugnação ao cumprimento de sentença; e (ii) o Estado, embora fundamente seu recurso na alínea a do permissivo Constitucional, afirma a existência de divergência jurisprudencial.
+Ocorre que também não indica o dispositivo a que se tenha dado interpretação divergente, tampouco cumpre os requisitos para a demonstração do dissídio. Pela deficiência na fundamentação do julgado consignou-se a incidência da Súmula 284/STF.
+2. Inicialmente, importa afirmar que a decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada em apelação, enquanto aquela que julga o mesmo incidente, sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento. Aplicação do princípio da fungibilidade impossibilitada ante a existência de erro grosseiro.
+3. Não indicação de forma inequívoca do dispositivo legal supostamente violado pelo acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, consoante aSúmula 284do Supremo Tribunal Federal, segundo a qual é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+4 . Agravo interno a que se nega provimento. (AgInt no REsp 1941574/MA, RelatorMinistro MANOEL ERHARDT - DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, DJe 04/05/2022).
+AGRAVO INTERNO NO RECURSO ESPECIAL -AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Segundo a jurisprudência deste Superior Tribunal de Justiça, se a situação exposta ultrapassar o mero dissabor, com peculiaridades analisadas pelo Tribunal de origem, no sentido de que o atraso na entrega do imóvel adquirido foi por longo período, é possível a condenação em danos morais, situação esta evidenciada na hipótese.
+Incidência da Súmula 83 do STJ. Precedentes.
+2. Rever o entendimento do Tribunal de origem, no sentido de aferir a ausência de demonstração de danos morais indenizáveis, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3. A falta de indicação pela parte recorrente dodispositivolegal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor daSúmula 284do STF, aplicável por analogia. Precedentes.
+4. Agravo interno desprovido. (AgInt no REsp 1924062 / RJ, RelatorMinistro MARCO BUZZI, QUARTA TURMA, DJe 06/05/2022).
+Registre-se, por oportuno, que os embargos de declaração têm fundamentação restrita, visando sanar vício de integração observado no julgado embargado, não servindo para complementar fundamentos ou indicar dispositivos não suscitados oportunamente nas razões do recurso especial, dada a inovação recursal e apreclusão consumativa.
+Ante o exposto, ACOLHO os embargos de declaraçãopara sanar omissão quanto àmulta fixada nos segundosembargos de declaração, sem efeito infringentes.
+Publique-se. Intimem-se.
