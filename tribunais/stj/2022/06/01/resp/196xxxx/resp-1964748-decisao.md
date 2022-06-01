@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEX DOMINGUES DA LUZ, com fulcro no art. 105, inciso III, alíneaa, da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Paraná proferido no julgamento do Agravo de Execução Penaln.000310-86.2021.8.16.0031.
+Consta dos autos que oRecorrente cumpre pena de 14 (quatorze) anos e 3 (três) meses de reclusão, pela prática do crime previsto no art. 121, § 2.º, incisos III e IV, do Código Penal, tendo sido expedida a guia de execução definitiva em 09/07/2020 (fls. 40-41).
+O Juízo de primeiro grau indeferiu pedidoderemição da pena pelo período trabalhado durante ocumprimento de condições cautelares diversas da prisão (fls. 39-40).
+Irresignada, a Defesainterpôs agravo em execução penal, ao qual a Corte de origem negou provimento (fls. 39-42).
+Sustenta-se, nas razões do presenterecurso, violação doart. 126 da Lei n.7.210/1984(fl. 52),pleiteando a remição da pena pelo período de trabalho realizado durante a monitoração eletrônica.
+Afirma queo Apenado, "no curso do cumprimento da sua segregação cautelar, sob monitoração eletrônica, laborou junto a Prefeitura Municipal de Cruz Machado, na função de auxiliar de serviços gerais" e, " c onforme se observa dos documentos juntados, o empregador não chegou a dar baixa na CTPS nos períodos de prisão do apenado, entretanto, considerando as anotações de férias, é possível verificar que Alex esteve efetivamente empregado durante todo o período desde o ano de 2016 -portanto, isso inclui o período de 30/05/2018 a 12/07/2020" (fl. 55).
+Ao final, pede oprovimento do presente recurso, a fim de "conceder a remição de pena à Alex, referente ao período de trabalho oportunamente elencado, nos termos da fundamentação supra" (fl. 58).
+Foram apresentadas contrarrazões (fls. 69-73). O apelo nobre foi admitido (fls. 79-80).
+O Ministério Público Federal apresentou parecer, opinando pelo provimento do recurso especial, em parecer que recebeu a seguinte ementa (fl. 91; grifei):
+"RECURSO ESPECIAL. EXECUÇÃO. REMIÇÃO PELO TRABALHO. PERÍODO DE LABOR ANTERIOR AO INÍCIO DA EXECUÇÃO, MAS POSTERIOR À PRÁTICA DO DELITO. POSSIBILIDADE. VIOLAÇÃO AO ARTIGO 126 DA LEP CONFIGURADA. PROVIMENTO DO RECURSO."
+É o relatório.
+Decido.
+O acórdão recorrido está calcado nas seguintes razões de decidir (fl. 41; grifei):
+"Não há previsão legal para aplicação da remição da pena relativa à atividade laboral pelo tempo de prisão provisória. Tal benefício depende da inserção do réu no sistema prisional - seja cautelarmente ou após a condenação, com posterior cumprimento de horas de trabalho, nos moldes do art. 126, caput, da LEP.
+Como bem analisou a ilustre Procuradora de Justiça, doutora ELZA KIMIESANGALLI, "a concessão da remição por tempo de trabalho realizado entre a data do crime e o início da execução configura um excesso na execução, na medida em que dácréditos ao apenado, que sequer sabe se será condenado."(mov. 12.1, TJ).
+Com isso, o pedido da defesa não comporta acolhimento."
+É certo que a jurisprudência desteSuperior Tribunal de Justiça está fixada no sentido"da impossibilidade de remição do tempo de trabalho executado, quando o labor tenha sido realizado em data anterior à prática do delito cuja condenação se executa, sob pena de se permitir espécie de crédito de pena ao reeducando, o que não se admite"(AgRg no HC 433.572/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 03/11/2020).
+Contudo, nas hipóteses em que"o labor tenha sido realizado em data posterior à prática do delito cuja condenação se executa, ainda que anterior ao início da execução, é possível a aplicação do instituto"(HC 420.257/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/04/2018, DJe 11/05/2018).
+No mesmo sentido:
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.EXECUÇÃO PENAL. VIOLAÇÃO DO ART.128 DA LEP. REMIÇÃO PELO TRABALHO EM PERÍODO ANTERIOR AO INÍCIO DA EXECUÇÃO. POSSIBILIDADE SE POSTERIOR À PRÁTICA DO DELITO. PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. O agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+2.Reafirmo o entendimento consolidado nesta Corte, no sentido de que é possível aplicar-se a detração penal dos dias trabalhados no cômputo da pena de processo diverso daquele no qual efetivou-se a atividade laboral, exigindo-se, para tanto, que o crime ao qual se deseja a detração seja anterior à execução na qual implementou-se os dias remidos (AgRg no HC n. 326.443/SP, Quinta Turma, Ministro Jorge Mussi, DJe de 11/5/2017).
+3. Agravo regimental improvido."(AgRg no HC 678.573/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/09/2021, DJe 30/09/2021; sem grifos no original.)
+Outrossim, em parecer ofertado para instruir o feito, assim consignou o Ministério Público Federal (fl. 94):
+" ..  na hipótese em apreço, verifica-se que o recorrente foi preso por medida cautelar no dia 24/10/2017 e solto no dia 30/05/2018, ocasião em que foi substituída a prisão por medidas cautelares diversas (monitoração eletrônica). O trabalho em questão foi realizado no período de 30/05/2018 a 12/07/2020, ou seja, em momento posterior à prática do delito cuja condenação se executa (2017), de modo que, nesta hipótese, ainda que anterior ao início da execução (07/11/2020), é possível a remição da pena pelo trabalho relativamente ao delito praticado anteriormente."
+Ante o exposto, em menor extensão, DOU PROVIMENTO ao recurso especial paradeterminar que o Juízo das Execuções Criminais reconheçaa remição do tempo de trabalho exercido pelo Recorrente, sobmonitoração eletrônica,em data posterior à prática do delito cuja condenação se executa, e anterior ao início da execução.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DA PENA.TRABALHO REALIZADO EM PERÍODO ANTERIOR AO INÍCIO DA EXECUÇÃO E POSTERIOR À PRÁTICA DO DELITO.PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PROVIDO.
