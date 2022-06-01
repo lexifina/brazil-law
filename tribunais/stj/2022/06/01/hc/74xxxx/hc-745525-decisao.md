@@ -1,0 +1,7 @@
+DECISÃO
+CARLA FABIANE RODRIGUES MOREIRA, acusada dos crimes de homicídio qualificado e corrupção de menores,alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+Em extensa petição, o impetrante busca a revogação da prisão preventiva da paciente ou sua substituição por uma das medidas do art. 319 do CPP. Aponta a ausência de indícios razoáveis de autoria delitiva e afirma não estar justificado o periculum libertatis.
+Ainicial domandamusnão veio acompanhada de cópia integral do acórdão recorrido e do andamento processual, o que é relevante, pois a ação penal estava comaudiência de instrução designada para 9/3/2022. A prisão preventiva da suspeita foi decretada em 21/9/2020 e não diviso a juntada de decisõesque reexaminaram sua manutenção ou indeferiram pedidos de liberdade provisória. Os impressos são essenciaispara a resolução da controvérsia e o remédio constitucional não comporta conversão em diligência para se corrigir o vício em sua instrução.
+Ação constitucional de natureza mandamental, o writ tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exigeprova pré-constituída das alegações, pois não comporta dilação probatória. Era obrigatório à defesaapresentar documentossuficientes para se permitir a aferição da pretensa ilegalidade, sob pena de não conhecimento do remédio constitucional, ônusque não cumpriu.
+À vista do exposto, com fundamento no art. 210 do RISTJ,indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
