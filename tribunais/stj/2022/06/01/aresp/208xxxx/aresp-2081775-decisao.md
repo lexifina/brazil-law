@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GOL LINHAS AEREAS S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+REPRESENTAÇÃO COMERCIAL. Ação de indenização por tempo de serviço. Reconvenção para haver fretes não repassados pela autora-reconvinda. Procedência parcial do pedido objeto daquela demanda e procedência integral do que é objeto desta. Apelação das partes.
+Hipótese de não caracterização de representação comercial. Contrato de agência. Queixosa que a rigor tinha a tarefa de embarque e desembarque de cargas transportadas por via aérea pela ré-reconvinte. Eventual captação de clientela para a contratação de transportes aéreos que era atividade apenas acessória e opcional. Indevida pretensão à indenização por tempo de serviço por rescisão injusta da contratação em causa.
+Alegação de não repasse de fretes. Natureza da relação jurídica entre as partes que reclama prévia prestação de contas. Impossibilidade material de poder a autora- reconvinda aferir o alegado não repasse de dinheiro a título de frete pago diretamente a ela no importe reclamado. Prestação de contas parciais dadas no curso da execução do contrato. Negócios praticados pelas partes que, embora se exaurissem na relação estabelecida com terceiros já de plano, porém permaneciam pendentes entre elas, com prestação de contas apenas parcial. Carência assim da ação de conhecimento para haver quantia líquida e certa. Apuração unilateral. Carência de ação manifesta, por falta de interesse de agir na modalidade de escolha da via eleita.
+Sucumbência recíproca das partes em igual proporção. Verba honorária fixada por equidade.
+APELAÇÃO DE CADA PARTE PROVIDA PARCIALMENTE.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto noart.1º da Lei n.13.966/2019, alegando que a relação contratual existente entre as partes não possui natureza de representação comercial, tampouco de agência, mas sim defranquia.
+Contrarrazões ao recurso especial às fls. 2.376/2.389.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Quanto aoartigo1º da Lei n. 13.966/2019 apontadono recurso especial, verifica-se que seuconteúdonormativonão foi objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. No mais, alterar o v. acórdão, quanto à verificação da espécie contratual, demandaria, necessariamente,incursão no acervo fático-probatório dos autos e na interpretação de cláusulas contratuais. Contudo, tal medida encontra óbice nas Súmulas 5 e 7 do STJ.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
