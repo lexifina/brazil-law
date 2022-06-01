@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por HUGO ENEAS SALOMONE, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Agravo de instrumento - Execução Fiscal - IPTU - Exercícios de 2011, 2012, 2013, 2015 e 2016 - Exceção de pré-executividade rejeitada - Pretensão à reforma da decisão - Inadmissibilidade - Ação proposta contra quem ostentava condição de proprietário do imóvel tributado à época do ajuizamento - Ausência de registro do instrumento particular de compra e venda no Cartório Imobiliário - Vendedor e comprador que podem ser tidos como contribuintes do IPTU no caso concreto - Faculdade do Município-exequente eleger o sujeito passivo com vistas a facilitar o procedimento de arrecadação, tendo optado por ambos (promitente vendedor e compromissário comprador) - Súmula 399, do C. STJ em consonância com art. 34, do CTN e art. 1.245, do Código Civil Ilegitimidade passiva ad causam não configurada - Dever de observância do entendimento contido nos REsps nº 1.111.202/SP e 1.110.551/SP em sede de demandas repetitivas(art. 927, do CPC/2015) - Ausência de contrariedade ao art. 23, da Lei de Introdução às Normas do Direito Brasileiro - Decisão mantida - Agravo desprovido" (fl. 35e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 68/73e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - APELAÇÃO - Alegação de omissão - Ocorrência - Questão sobre a prescrição que havia sido julgada prejudicada, em razão do reconhecimento da ilegitimidade passiva pelo voto-vencido - Afastamento da ilegitimidade pelo voto majoritário que tornou necessária a análise da prescrição - IPTU - Exercícios de 2011 a 2013 - Títulos executivos que apontam que houve o rompimento de acordo de parcelamento em 2015 - Interrupção do prazo prescricional, nos termos do
+art. 174, IV do CTN - Feito executivo ajuizado em 2018 dentro do lustro quinquenal, considerando o reinício do prazo com o inadimplemento da parte - Alegação afastada - Demais argumentos que buscam mera rediscussão de matéria já apreciada - Ausência dos requisitos do art. 1.022, do CPC/2015 - Prequestionamento - Desnecessidade de menção expressa a dispositivos legais - Aplicação ao caso do art. 1.025, do CPC/2015 - Embargos acolhidos, sem efeitos modificativos do julgado" (fl. 75e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 34 e 174 do CTN, sustentando, além da ocorrência da prescrição, que não possui legitimidade para ser contribuinte do IPTU por não ser proprietário do imóvel objeto da exação.
+Contrarrazões a fls. 88/92e.
+Inadmitido o Recurso Especial (fls. 93/94e), foi interposto o presente Agravo (fls. 97/106e).
+Não houve contraminuta.
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento apresentado pela parte ora agravante, com o objetivo de de reformar decisão que rejeitou exceção da pré-executividade.
+O Tribunal local negou provimento ao recurso.
+Daí a interposição do presente apelo Especial.
+Inicialmente, quanto à alegação de prescrição, verifica-se que no acórdão recorrido o julgador faz referência a circunstância que interrompeu o prazo prescricional, qual seja, o parcelamento do tributo.
+Todavia, em suas razões recursais, a parte, além de não fazer referência a este fundamento, sequer tece comentários acerca do contexto cronológico do processo.
+Assim, incide ao ponto, as Súmulas 283 e 284, ambas do STF.
+No mais, a Segunda Turma deste Superior Tribunal de Justiça firmou entendimento de que "tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU, cabe à legislação municipal estabelecer o sujeito passivo do IPTU" (AgInt no REsp n. 1.950.739/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 4/5/2022).
+Tendo isso em mente, colho do acórdão recorrido os seguintes trechos:
+"Como se vê, no caso vertente, o Município-exequente optou por promover execução fiscal apenas contra o promitente vendedor, cujo nome constava como proprietário no Cartório de Registro de Imóveis, portanto, seguindo orientação daquele sodalício, pois não houve registro no Cartório Imobiliário do título translativo.
+Assim sendo, a formalização da venda por meio de instrumento particular não registrado não tem o condão de transferir a propriedade do imóvel ao adquirente, que ocorre apenas com o registro do título translativo no Cartório Imobiliário, com fundamento no art. 1.245, do Código Civil:
+"Transfere-se entre vivos a propriedade mediante o registro do título translativo no Registro de Imóveis. § 1.º - Enquanto não se registrar o título translativo, o alienante continua a ser havido como dono do imóvel. (..)".
+(..)
+Insta consignar que o Município-exequente, em impugnação à exceção de pré-executividade, alegou corretamente que, se não efetivado o registro do instrumento particular, poderia promover a ação executiva contra aquela cujo nome consta na matrícula do imóvel no Cartório Imobiliário como proprietário.
+Dessa forma, entendo descabida a alegação de ilegitimidade passiva ad causam, que há de ser afastada, devendo o feito prosseguir regularmente, respeitado o entendimento do i. Relator" (fls. 38/40e)
+Dessa forma, irretratável o acórdão recorrido.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para conhecer parcial do Recurso Especial e, nesta extensão, negar-lhe provimento.
+I.
