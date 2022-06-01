@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MAYCON DA SILVA CARVALHOcontra decisão que negou seguimento ao recurso especial, por sua vez manejado em combate a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL C/C PEDIDO DE TUTELA PROVISÓRIA. PROTESTO INDEVIDO. PLEITO DE MAJORAÇÃO DO DANO MORAL. QUANTUM INDENIZATÓRIO MAJORADO PARA R$ 15.000,00 DIANTE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO E DOS PRECEDENTES DESTA C. CÂMARA. PEDIDO DE MUDANÇA DA BASE DE CÁLCULO DA VERBA HONORÁRIA. IMPOSSIBILIDADE. PROVEITO ECONÔMICO OBTIDO NÃO EQUIVALE AO VALOR DA DÍVIDA DECLARADA INEXISTENTE. MANUTENÇÃO EM PERCENTUAL SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. REMUNERAÇÃO ADEQUADA AOS CAUSÍDICOS. RECURSO PARCIALMENTE PROVIDO.
+Sustenta, em síntese, violação do art. 85, § 2º, do CPC, sob o argumento de que"A natureza dúplice da sentença no caso concreto, declaratória e condenatória, enseja que se considere na fixação dos honorários advocatícios o proveito econômico obtido" (Fl. e-STJ 199) - o qual"não se limita à condenação, pois esta (indenização), depende do provimento daquela (declaratória), portanto devendo os honorários sucumbência albergar ambos" (Fl. e-STJ 200).
+É o relatório.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
