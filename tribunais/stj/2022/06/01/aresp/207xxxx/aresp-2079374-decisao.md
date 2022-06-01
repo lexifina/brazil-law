@@ -1,0 +1,12 @@
+DECISÃO
+Vistos.
+Decido.
+Verifica-se que a Corte a quo decidiu a matéria com fundamentos unicamente constitucionais, o que impede a análise das alegações relativas à mesma matéria nesta Corte. É o que se percebe dos seguinte trechos do acórdão:
+Na hipótese dos autos, observa-se que a gratificação de qualificação pretendida, instituída pela Lei 12.778/2012, é vantagem concedida a todos os servidores ativos que atingirem os critérios objetivos estabelecidos para sua concessão. Logo, tendo em conta os precedentes judiciais acima transcritos, bem como o fato de que a limitação prevista no § 4º do art. 13-B da Lei n. 10.410/2002 viola a garantia à paridade remuneratória assegurada pela Emenda Constitucional n. 41/2013, chega-se à conclusão de que o servidor, aposentado com direito à paridade, também possui direito de receber a gratificação de qualificação instituída pelas Leis n. 12.778/2012 e n.13.324/2016, desde que comprovada a obtenção do título correspondente antes da inativação, o que restou demonstrado pelo autor, ocupante de cargo de nível superior, portador de diploma de doutorado, concluído em 04 de março de 2004, conforme documento anexado ao processo administrativo(Evento 1, OUT10, Página 3).
+Considerando que o recurso especial foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado Administrativo n. 3/STJ, fl.) e que não foi interposto recurso extraordinário, é cabível a aplicação do previsto no art. 1.032 do Código de Processo Civil, segundo o qual:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
+Ante o exposto, concedo prazo de 15 dias para que a parte recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Apresentadas as razões, abra-se vista para a parte recorrida apresentar contrarrazões no mesmo prazo de 15 dias.
+Após, cumpridas as diligências, remeta-se o recurso ao Supremo Tribunal Federal para o juízo de admissibilidade previsto no art. 1.032 do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
