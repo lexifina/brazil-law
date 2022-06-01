@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, ante a incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 314/317).
+O acórdão recorrido está assim ementado (e-STJ fl. 256):
+ADMINISTRATIVO E PROCESSUAL CIVIL. MARCAS E PATENTES. INSTITUTO NACIONAL DE PROPRIEDADE INDUSTRIAL-INPI. (I) LEGALIDADE NO REGISTRO.
+- A proteção conferida pelo registro, nos termos do art. 130 da LPI, assegura ao titular da marca o direito de cessão de seu registro ou pedido de registro, de licenciar o uso e de zelar pela sua integridade material ou reputação da marca. A proteção concedida às marcas busca resguardar o investimento do empresário e proteger os consumidores.
+- Quando as marcas, embora similares, pertencem a empresas de atuação em ramos comerciais distintos, não se configura o prejuízo ao consumidor e ao marketing de cada uma delas, razão pela qual não há que se falar em anular o registro da marca como pretendido pela parte autora.
+No recurso especial (e-STJ fls. 268/288), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta violação doart. 124, V e XIX, da Lei n. 9.279/1996 argumentando que (e-STJ fls. 286/288):
+No caso concreto, quanto ao mérito, os aspectos registrais discutidos na presente ação foram submetidos ao exame da Diretoria de Marcas deste Instituto (DIRMA) - veja-se evento 9 do feito de origem, setor responsável pela análise da correção dos registros de marca.
+Em parecer técnico, a Diretoria de Marcas do INPI concluiu pela improcedência das alegações da autora, opinando pela manutenção do indeferimento do pedido da marca "COOPER A1", referente ao processo 822.430.959. Esclareceu que a marca COOPER A1 reproduz com acréscimo a marca A1 de terceiros para assinalar produtos idênticos e semelhantes, pertencentes ao segmento alimentício, o que certamente causará confusão ou associação indevida, o que é vedado pelo art. 124, XIX, da Lei n. 9.279/96:
+(..)
+Salientou a DIRETORIA DE MARCAS que ainda que fosse afastada a colidência da marca COOPER A1 pelas anteriores COOPER, deveria ser mantido o indeferimento em decorrência de novo impedimento, qual seja, a colidência com o registro da marca anterior A1 de terceiros.
+Por fim, salientou a DIRETORIA DE MARCAS, no que diz respeito a alegação da autora de que utiliza a expressão COOPER A1 desde 1999, que a proteção de elemento característico ou diferenciador de título de estabelecimento ou nome de empresa já estava previsto no art. 124, V, da Lei n. 9.279/96:
+(..)
+Assim, o INPI defende, pois, a tese de que o ato administrativo praticado, o indeferimento do pedido da marca "COOPER A1", referente ao processo 822.430.959, se mantém válido, regular, legal e legítimo, não comportando qualquer correção, muito menos anulação ou nulidade, eis que se insere na competência exclusiva do contestante. Imperativa, pois, a reforma da decisão proferida, sob pena de violação ao disposto no artigo 124, V e XIX, da Lei nº 9.279/96.
+No agravo (e-STJ fls. 325/351), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 355/365).
+É o relatório.
+Decido.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar as razões pelas quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 514, II, do CPC), a fim de permitir ao órgão julgador cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, em relação ao argumento de que deveria ser indeferido o registro da marca COOPER A1 em razão de anterior registro da marca A1, o Tribunal de origem adotou os seguintes fundamentos da sentença (e-STJ fl. 262):
+Assim, à luz do entendimento da autoridade administrativa, ainda que em hipótese fosse afastada a colidência da marca "COOPER A1" pelas anteriores "COOPER", "deveria ser mantido o indeferimento em decorrência de novo impedimento legal, qual seja, a colidência com o registro da marca anterior "A1" (812.903.196), de terceiros." (evento 9 - INF2 - item 26 - fl. 5) Ocorre que esse fato novo não foi ventilado no processo administrativo que indeferiu o pedido da autora naquela esfera, já que a questão veio à lume somente com a contestação da Autarquia, de modo que não teve a demandante a oportunidade de apresentar defesa naquela via acerca desse ponto específico.
+Diante de tal quadro, é de se reconhecer a ilegalidade da decisão administrativa que indevidamente entendeu pela colidência da marca "COOPER A1" pelas anteriores "COOPER", em razão dos fundamentos aqui expendidos, ressalvada a apreciação e exame do novo impedimento legal por fundamento diverso por parte da autoridade administrativa, após ser assegurado o exercício do amplo direito de defesa da postulante ao registro.
+O pedido, portanto, é procedente em parte.
+No entanto, o recurso especial apresentou argumentos dissociados dos fundamentos do acórdão recorrido, o que impede o conhecimento do especial, ante a incidência, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
