@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei, com pleito liminar, manejado por ANTONIO LUIZ CARVALHO DUARTE DA SILVA,com fulcro no art. 18, § 3º, da Lei n. 12.153/2009, contraacórdão prolatado pela 2ª Turma Cível e Criminal do TJ/SPassim ementado (e-STJ fl. 210):
+Piso salarial nacional Estado de São Paulo legislação aplicável lei 11.738 de 2018 e Decreto Estadual 64.798 de 2020 matéria já definida em legislação própria recurso provido.
+A parterequerente aduz, em síntese, que o aresto combatido interpretou o art. 2º, § 1º, da Lei n. 11.738/2008em desconformidade como entendimento da Turma Recursal do Estado do RS.
+Destaca o julgado proferido no REsp 1.426.210/RS.
+Ao final, pleiteia a atribuição de efeito suspensivo ao presente pedido, com a determinação de suspensão de feitos que contenham a mesma discussão.
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º , e 19 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de quetrata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante previsto nos referidos dispositivos, bem como no art. 67, parágrafo único, VIII-A do RISTJ, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; (iii) quando a Turma de Uniformização contrariar súmula desta Corte.
+Feito esse registro,tenho queo presente pedido não deve ser conhecido.
+Com efeito, conforme a jurisprudência do STJ, deve-se demonstrar a divergência mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, o que,in casu, não ocorreu.
+A propósito:
+PROCESSO CIVIL E ADMINISTRATIVO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 18, § 3º, DA LEI N.
+12.153/2009. JUIZADO ESPECIAL. FAZENDA PÚBLICA. SERVIDOR.
+MAGISTÉRIO ESTADUAL. PROMOÇÃO. PRESCRIÇÃO. DISSÍDIO NÃO COMPROVADO. INOBSERVÂNCIA DE REQUISITOS FORMAIS.
+1. Nos termos do artigo 12, § 4º do Provimento nº 7/2010 do Conselho Nacional de Justiça, para a comprovação do Incidente de Uniformização de Jurisprudência faz-se necessária a realização da prova da divergência "mediante certidão, cópia do julgado ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou seja, pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados".
+2. Na espécie, o agravante não se desincumbiu do ônus de realizar o necessário cotejo analítico entre os julgados postos em confronto, o que impede o conhecimento do incidente. 3. Agravo regimental não provido. (AgRg na Pet 10.598/AC, Relator Ministro BENEDITO GONÇALVES, S1 - PRIMEIRA SEÇÃO Data do Julgamento 22/10/2014, DJe 29/10/2014).
+Ainda, impende consignar que o PUIL não é cabível contra a alegação de contrariedade à jurisprudência deste Tribunal que não está sedimentada em súmula, como na hipótese dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI.DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE
+1. Nos termos dos arts. 18 e 19 da Lei 12.153/2009 cabe Pedido de Uniformização de Interpretação de Lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material; quando as Turmas de diferentes Estados derem à lei federal interpretações divergentes; ou quando a decisão proferida contrariar súmula do Superior Tribunal de Justiça.
+2. No caso dos autos, a Turma de Uniformização do Sistema dos Juizados Especiais não julgou o mérito da questão, porque não conheceu do Pedido de Uniformização a ela dirigido. Não houve, portanto, análise do art. 257, § 7º, do CTB pela Turma de Uniformização do Sistema dos Juizados Especiais, de modo que não é cabível o Pedido de Uniformização no Superior Tribunal de Justiça.
+3. Ademais, a jurisprudência do Superior Tribunal de Justiça entende que o Pedido de Uniformização de Jurisprudência nos Juizados Especiais da Fazenda Pública é admissível somente quanto há afronta a súmula do Superior Tribunal de Justiça.
+4. Agravo Interno não provido.
+(AgInt no PUIL 1.941/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 29/06/2021, DJe 1º/07/2021).
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CONTRARIEDADE À JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO.SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS.AUSÊNCIA.
+1. Nos termos dos arts. 18 e 19 da Lei n. 12.153/2009, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; e (iii) quando a orientação das Turmas de Uniformização contrariar súmula desta Corte.
+2. Hipótese em que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido, uma vez ausente similitude fática entre os julgados confrontados e amparado em alegação de contrariedade à jurisprudência deste Tribunal que não está sedimentanda em súmula. (AgInt no PUIL 176/RS, minha Relatoria, PRIMEIRA SEÇÃO, julgado em 26/09/2018, DJe 25/10/2018).
+Ante o exposto, com base no art. 34, XVIII, "a", doRISTJ, NÃO CONHEÇO do pedido de uniformização. Fica PREJUDICADO o pleitoliminar.
+Publique-se. Intimem-se.
