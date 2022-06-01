@@ -1,0 +1,20 @@
+DECISÃO
+TATIANA RARINE ARCANJO alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 000042-32.2022.8.26.0502.
+A impetrante busca a conversão do encarceramento da paciente em prisão domiciliar, com base no inciso III do art. 117 da LEP, pois é mãe de três crianças menores de 12.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 48-55).
+Decido.
+Extrai-se dos autos que a paciente compre pena total de 23 anos, 10 meses e 29 dias de reclusão, em regime fechado, pela prática dos crimes de roubo qualificado, tráfico de drogas e falta identidade, com término previsto para 2/1/2042.
+Nos autos da execução penal n. 0011583-04.2018.8.26.0502 a defesa pleiteou a concessão de prisão albergue domicinal, alegando ser mãe de três crianças. Em 15/12/2021 o Juízo da execução indeferiu o pedido, porquanto "não se enquadram nas diretrizes do benefício os crimes praticados pela sentenciada que os praticou com violência ou grave ameaça à pessoa" (fl. 26).
+Irresignada, a defesa interpôs agravo em execução, ao qual o Tribunal de origem negou provimento.
+Sobre a hipótese, como bem salientei em voto-vista proferido no julgamento do RHC n. 145.931(Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 16/3/2022), a prisão domiciliar durante a execução definitiva é excepcional, assim como a aplicação do art. 117 da LEP aos apenados dos regimes fechado e semiaberto. A privação de liberdade, em regra, deve ser cumprida em estabelecimento adequado, consoante a previsão do Código Penal. É um remédio amargo que, não se pode negar, pode trazer consequências para a convivência familiar.
+Somente quando, em contato com a realidade concreta, o Juiz das Execuções verificar que a mulher é imprescindível ao esperado desenvolvimento educacional, ético e de saúde da criança e não ostentar perfil de acentuada periculosidade - por exemplo, não ter cometido crime com resultado morte, violência ou grave ameaça contra pessoa, ser primária e não integrar organização criminosa - ter-se-á como possível e desejável priorizar o melhor interesse da prole e deferir a medida humanitária.
+Logo, há de se ter como incabível a automática concessão do benefício, nos mesmos moldes do HC n. 143.641/SP, sem percuciente análise de periculosidade (natureza e circunstâncias do crime, primariedade etc.) da sentenciada e de suas condições pessoais, para atender os melhores interesses da prole.
+No presente caso, apesar da comprovação da paciente ser mãe de crianças menores de 12 anos (fls. 23-25), mostra-se inviável o acolhimento do pleito de prisão domiciliar, em razão da prática de crime mediante violência ou grave ameaça, e, principalmente, não haver sido demonstrada a imprescindibilidade da genitora nos cuidados das crianças.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. CONDENAÇÃO DEFINITIVA. AGRAVANTE ATUALMENTE EM REGIME FECHADO. PLEITO DE SUBSTITUIÇÃO DA CUSTÓDIA POR PRISÃO DOMICILIAR. MÃE DE MENOR DE 12 (DOZE) ANOS DE IDADE. NÃO DEMONSTRADA SITUAÇÃO DE EXCEPCIONALIDADE. AGRAVO DESPROVIDO.
+1. A Agravante encontra-se em cumprimento definitivo da reprimenda total de 9 (nove) anos de reclusão, atualmente no regime fechado, pela prática dos delitos de tráfico de drogas e associação para tal finalidade, com término previsto para 21/12/2029. O Juízo da Execução Penal indeferiu o pedido de substituição da custódia pela prisão domiciliar.
+2. Na espécie, não procede a pretensão formulada no presente recurso, pois, consoante a jurisprudência desta Corte, embora a mãe seja indispensável à criação de seus filhos, o benefício previsto no art. 117 da LEP não possui aplicação automática, sendo necessário que a apenada comprove ser a única responsável pelos cuidados do filho menor ou deficiente físico ou mental, o que não ocorreu no caso, como ressaltado pelas instâncias ordinárias.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 737.926/SC, relatora Ministra Laurita Vaz, 6ª T., DJe de 23/5/2022)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
