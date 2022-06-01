@@ -1,0 +1,13 @@
+DECISÃO
+1. Cuida-se de agravo interposto por EDIÇÕES ADUANEIRAS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÍVIDA C.C. INDENIZAÇÃO POR DANOS MORAIS."Contrato de Prestação de Serviços de Comunicação Multimídia". Empresa demandante que reclama declaração de inexigibilidade do débito formado pela multa rescisória e indenização moral. Demandada que é citada e apresenta contestação nos autos, além de pedido reconvencional.SENTENÇA de improcedência da Ação e de procedência da Reconvenção. APELAÇÃO da demandante, que insiste no acolhimento do pedido inicial, pugnando subsidiariamente pela redução do "quantum" indenizatório arbitrado na Vara de origem. EXAME: Ausência de impugnação específica ao fundamento deduzido no julgado. Razões recursais que não guardam relação de pertinência com a sentença recorrida.
+Configuração de ofensa ao princípio da dialeticidade, com violação do artigo 1.010 do Código de Processo Civil.Aplicação do artigo 932, inciso III, do mesmo "Codex".RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts.2º, 6º, inciso IV e 51, inciso IV, do CDC, 422 e 423, do CCe 1º, § 1º, da Lei n.13.874/2019.
+Pugna pela concessão de efeito suspensivo.
+É o relatório.DECIDO.
+2. As matérias referentes aos artigos 2º, 6º, inciso IV e 51, inciso IV, do CDC, 422 e 423, do CC e 1º, § 1º, da Lei n.13.874/2019não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Ante o exposto, nego provimento ao agravo. Prejudicada a análise do pedido de efeito suspensivo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
