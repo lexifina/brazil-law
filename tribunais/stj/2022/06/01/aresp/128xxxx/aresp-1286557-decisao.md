@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RONALDO HIRATA contra decisão exarada pela il. Primeira Vice-Presidência do eg. Tribunal de Justiça do Estado do Paraná(TJ-PR) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejadocom arrimo nas alíneas "a" e "c" do permissivo constitucionalem face dev. acórdão assim ementado (fls. 67):
+"DIREITO CIVIL E DIREITO AUTORAL. AÇÃO INIBITÓRIA C/C INDENIZAÇÃO. EXTINÇÃO POR AUSÊNCIA DE ILEGITIMIDADE PASSIVA - REFORMA - RESPONSABILIDADE SOLIDÁRIA DO SITE "MERCADO LIVRE"- IMPOSSIBILIDADE DE SE EXIGIR CONTROLE PRÉVIO QUE NÃO SE CONFUNDE COM ILEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA DEMANDA INIBITÓRIA - ARTIGO 104 DA LEI 9.610/1998 - SENTENÇA NULA - PROVIMENTO DO RECURSO. CAUSA MADURA - JULGAMENTO DO FEITO - ARTIGO 515, §3º, DO CPC/1973 (ART. 1.013, §3º, I, DO NOVO CPC) - MÉRITO - CONTRATO DE EDIÇÃO DE OBRA - ANÚNCIO DE VENDA DE OBRA EM FORMATO NÃO PREVISTO EM CONTRATO E POR TERCEIRO NÃO AUTORIZADO - PEDIDO DE REMOÇÃO ATENDIDO PELA RÉ PROPRIETÁRIA DO SITE DE VENDAS - AUTOR QUE NÃO SE DESINCUMBIU DE PROVAR QUE O MESMO ANÚNCIO FOI MANTIDO -DANO MATERIAL - TELAS DO SITE QUE REVELAM A VENDA DE, PELO MENOS, UM EXEMPLAR NÃO AUTORIZADO - DEVER DE INDENIZAR - INEXISTÊNCIA. RECURSO CONHECIDO E PROVIDO, COM SUBSEQUENTE JULGAMENTO DO MÉRITO DA CAUSA."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 145-155).
+Nas razões do recurso especial (fls. 159-173), RONALDO HIRATA aponta, preliminarmente, violação ao art. 1.022 do CPC/15, afirmando que o eg. TJ-PRnão sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica ofensa ao art. 114, III, "a", da Lei n. 9.610/98;aoart. 3ºdo Código de Defesa do Consumidor (CDC); aos arts. 186 e 947 do Código Civil; e ao art. 497, parágrafo único, do CPC/15,ao argumento, entre outros, de que o "(..) produto comercializado pela RECORRIDA possui vício inegável de qualidade, a obra anunciada é ilegal, produzida em desconformidade coma lei e com a autorização do autor, restando o consumidor final enganado quanto ao bem que está adquirindo. Enquanto fornecedora a RECORRIDA é responsável pelos danos causados na comercialização do objeto, devendo ser condenada a pagar a devida indenização ao Autor, ora RECORRENTE"(fls. 167- destaques no original).
+Assevera, também, que está comprovada a negligência da ora Recorrida, pois "(..)se furtou de retirar de sua página online o anúncio do e-book fraudulento mesmo depois de receber notificação extrajudicial da RECORRENTE a informando quanto ao objeto ilícito do anuncio" (fls. 168- destaques no original).
+Aduz que "(..) como o julgado fundamenta-se na impossibilidade de aferir o valor do dano ou o nexo com a negligencia, por se tratar de e-book cuja cópia não enfrenta limites ou registros de venda, o artigo103, parágrafo único, da lei de direitos autorais prevê a condenação ao pagamento do valor de 3000 (três mil) exemplares a título de sanção civil quando não for possível mensurar o número de exemplares contrafeitos"(fls. 169).
+Alega, ainda, que o"(..)artigo 497 Parágrafo Único do CPC é taxativo quanto a irrelevância de demonstrar o dano ou demonstrar a existência de culpa ou dolo quando restar comprovado que a tutela inibitória é para inibir ou fazer cessar prática de ilícito" (fls. 492).
+Foram apresentadas contrarrazões (fls. 196-231) pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (fls. 251-254), motivando o manejo do agravo em recurso especial (fls. 257-271) em testilha.
+Também foi oferecida contraminuta (fls. 275-302), pelo desprovimento do agravo.
+É o relatório. Decido.
+O recurso em apreço não merece prosperar.
+Inicialmente, rejeita-se a alegada violação ao art. 1.022 do CPC/2015, uma vez que o eg. Tribunal de Justiça do Estado do Paraná (TJ-PR) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se os recentes julgados:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DE HONORÁRIOS PERICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REDUÇÃO DA VERBA FIXADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 5 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1984936/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/04/2022, DJe 19/04/2022 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. ART. 1.022, I E II, DO CPC/2015. CONTRADIÇÕES E OMISSÕES. INEXISTÊNCIA. EMBARCAÇÃO PENHORADA. PROPRIEDADE. ORA AGRAVADO. NÃO COMPROVAÇÃO. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Todas as matérias foram devidamente enfrentadas pelo Tribunal de origem de forma fundamentada, sem as apontadas contradições e omissões. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp 1528322/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021 - g. n.)
+Melhor sorte não socorre ao recurso no tocante à alegada violação ao art. 497, parágrafo único, doCPC/15, na medida em que o eg. TJ-PRassentou que aora Recorridaretirou do sítio eletrônico o questionado anúncio, como se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 79):
+"Com o intuito de comprovar que o anúncio não foi removido, o autor instruiu o feito com duas atas notariais, lavradas em 04.09.2013 e 07.10.2013,nas quais foram colacionadas as imagens do site da requerida que indicam a existência de anúncios denominados "E-book Tips Hirata"(movs. 1.4/1.5). No entanto, não há nestes documentos qualquer indicação do endereço digital (URL) ou mesmo do número do anúncio. Note-se que a identificação exata do item anunciado é essencial para que o pleito inicial seja acolhido, vez que, conforme já dito, a determinação de remoção se restringe apenas àquele anúncio reclamado, não podendo se exigir a remoção prévia de novos itens disponibilizados para o comércio virtual.
+(..)
+De mais a mais, a requerida juntou à contranotificação, com data de 09.10.2013 (mov. 41.14), uma tela indicando que o produto #500007160 foi desabilitado, ou seja, removido.
+Deste modo, tem-se que, além de não serem as atas notariais aptas a desincumbirem o autor do ônus da prova de que o mesmo anúncio fora mantido, a requerida demonstrou a existência de sua remoção, de modo que o pedido de condenação à obrigação de não fazer não pode ser acolhido." (g. n.)
+Avançando, o apelo tampouco merece acolhida no tocante aos demais dispositivos legais. No caso, o eg. TJ-PR, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não foram comprovados os alegados danos materiais e morais. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 76-80):
+"Infere-se dos autos que o postulante é autor da obra denominada "Tips - Dicas em Odontologia Estética", cuja reprodução e divulgação foi autorizada à Editora Artes Médicas LTDA., conforme contrato de edição de seq. 14.2. Restou estabelecido neste documento que a edição seria de 2.000 exemplares, podendo a editora proceder à comercialização da obra de forma impressa (livro) e (ou) digital em mídia CD -Room.
+Deste modo, qualquer divulgação da obra por meio e pessoa não autorizados é vedada, tendo em vista a proteção da propriedade intelectual da da pela Lei nº 9.61011998, merecendo destaque os artigos 28 e 29:
+(..)
+Postula o autor a condenação da ré ao pagamento de indenização, a fim de reparar não apenas os prejuízos sofridos com a perda dos royaltes na venda dos livros, como também os danos morais.
+O dano material no caso dos autos restou caracterizado, tendo em vista que nas telas indicadas na peça exordial (1.1) consta a existência de uma (01) venda do livro através do anúncio ilegal objeto desta demanda ("Produto novo - 9 vendido- Distrito Federal - Brasilia"). Embora certo que o autor sofreu prejuízo material, vez que deixou de auferir lucro decorrente da venda de ao menos um exemplar autorizado, conforme contrato firmado com a editora de seq. 14.2, por outro lado não restou demonstrado, como acima ficou esclarecido, que tal venda tenha decorrido de recusa da requerida em remover o anúncio. Assim, não se pode falar em indenização por dano material.
+No tocante ao pedido de indenização por danos morais, segue a mesma sorte.
+Considerando que o anúncio foi removido antes do ajuizamento da demanda, tem-se que não há dano moral a ser indenizado. Ademais, em que pese ter o anúncio sido disponibilizado por um período determinado, caberia ao autor demonstrar de forma concreta no que consistiu o dano sofrido, ou seja, como se deu o abalo de ordem moral e psicológica decorrente da existência e manutenção do anúncio ilegal, o que não se verifica neste feito."
+(g. n.)
+Nesse contexto, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconizaaSúmulan. 7 do STJ.
+Finalmente, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CONCORRÊNCIA DESLEAL. AUSÊNCIA DE CONSTATAÇÃO. DANO MORAL NÃO CONFIGURADO. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. É inviável conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1715078/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DANO MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1815468/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+(..)
+4. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1761381/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Com supedâneo no art. 85, § 11, do CPC/15, majoro os honorários advocatícios devidos ao Agravado de R$ 1.000,00 (mil reais) para R$ 1.100,00 (mil e cem reais).
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b", do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
