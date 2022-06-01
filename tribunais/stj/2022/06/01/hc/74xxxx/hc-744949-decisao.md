@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCELO HENRIQUE DOS SANTOS BEZERRAem que se aponta como autoridade coatora oTribunal de Justiça do Estado de São Paulo(HC n. 2087405-74.2022.8.26.0000).
+Opaciente teve a prisão em flagrante - ocorrida em 20/4/2022- convertida em preventiva por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006 (fl. 49).
+O decreto prisional fundou-se na quantidade, variedade enocividade dos entorpecentes apreendidos - 15,61g de maconha;0,33g de cocaína; e 11,72g de crack -, além da apreensão da quantia de R$ 335, em espécie(fl. 49).
+Impetrado writ originário, foi indeferido o processamento do habeas corpus (fl. 47).
+A defesa apontaque o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar, sendo baseadana gravidade abstrata do delito (fls. 4-5).
+Pondera queo paciente é primário, possui endereço fixo e trabalho lícito (fls. 4 e 7).
+Aduz que a decisão possui fundamentação deficiente e inidônea (fl. 7).
+Pontuaque, caso o paciente seja condenado, fará jus ao regime inicial menos gravoso (fl. 15).
+Afirma que o paciente não oferece risco à instrução processual, à aplicação da lei penal ou à garantia da ordem pública (fl. 20).
+Ressalta que para o caso concreto é adequada a aplicação de medida cautelar diversa da prisão (fl. 40).
+Requer a revogação da prisão preventiva e a concessão demedidas cautelares alternativas com a expedição de alvará de soltura em favor do paciente.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 49-52):
+No caso dos autos, o d. Magistrado de Primeiro Grau, ao converter a prisão em flagrante em prisão preventiva, ressaltou2 que "o acusado foi preso portando grande quantidade e diversidade de drogas, entreelas maconha, cocaína e crack. Some-se isso ao fato, que deque a espécie da droga apreendida cocaína possui alto poder viciante. Deste modo, a segregação é necessária para que se resguarde a ordem pública. Havendo prova da existência do crime e indícios suficientes de autoria, a manutenção do acusado no cárcere é medida que se impõe a fim de se garantir a ordem pública, máxime perante a sociedade local e diante da situação atual do País, em que tanto se discute a questão da impunidade, sendo prematura a liberação sem a dissipação dos efeitos da conduta perpetrada".
+Observa-se que a gravidade concretada conduta, pela natureza e quantidade de drogas apreendidas e o modus operandi indicam a real periculosidade do paciente e o risco real de reiteração delitiva, fundamentos esses que autorizam a prisão preventiva.
+ ..
+Este é o caso dos autos onde a decisão, ainda que sucinta, encontra-se suficientemente fundamentada.
+O paciente está sendo acusado da prática do delito de tráfico de drogas.
+Conforme inteligência do artigo 312 do Código de Processo Penal, só é possível a decretação da prisão preventiva quando presentes os pressupostos e circunstâncias que autorizariam a medida extrema.
+Presentes estão os pressupostos da prisão preventiva.
+O boletim de ocorrência, auto de busca e apreensãoe o laudo de constatação preliminarque restou positivo para a presença dos elementos ativos (maconha, crack e cocaína), comprovam que as substâncias são entorpecentes.
+Quanto à destinação, ante a quantidade e diversidade de drogas apreendidas 17 porções de maconha (15,61g), 15 porções de cocaína (0,33g) e 74 pedras de crack (11,72g), e a importância de R$ 335,00, em dinheiro, embora não sejam provas absolutas, indicam a destinação para terceiros.
+ ..
+Existem também fortes indícios de autoria, conforme prova oral colhida no inquérito, merecendo destacar os depoimentos de Anderson Adriano Ferreira e Alan Aires Vieira, ambos policiais militares, que relataram que o paciente, ao notar a aproximação da viatura, empreendeu fuga do local (via pública) onde estava. Dito comportamento chamou a atenção ensejando perseguição. Abordado, foi constatado que ele trazia uma "pochete" e dentro dela os entorpecentes apreendidos nos autos e o valor de R$ 335,00, em dinheiro.
+Ora, estão presentes as circunstâncias ensejadoras da prisão preventiva.
+No caso concreto, a variada quantidade de drogas apreendidas (17 porções de cocaína, além de 26 porções individuais de maconha e 117 porções de crack), e o fato de o paciente possuir antecedentes criminais pela prática do crime de tráfico de drogas, indicam a profissionalização do negócio, o que coloca em risco a saúde pública, demonstrando maior periculosidade do agente, visto o maior ataque ao bem jurídico saúde pública, justificando a prisão cautelar para garantia da ordem pública.
+A medida, portanto, decorre de circunstâncias bem explicitadas nos autos, e não de mera gravidade abstrata atribuída pela lei ao tipo penal. Ademais, o Tribunal a quo destacou, motivadamente, a inaplicabilidade das medidas cautelares alternativas (art. 319 do CPP) ao caso.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se queaquantidade, a variedade e a nocividade dosentorpecentes apreendidos (15,61g de maconha, 0,33g de cocaína e 11,72g de crack)bem como os maus antecedentesforam considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Acrescente-se que a "desproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via eleita, a antecipação da análise quanto a possibilidade de cumprimento de pena em regime menos gravoso que o fechado" (RHC n. 96.728/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 3/9/2018).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
