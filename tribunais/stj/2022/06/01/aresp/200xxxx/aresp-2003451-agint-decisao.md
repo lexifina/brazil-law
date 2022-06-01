@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-sede agravo interno interposto por ALBINO JULIO SHIESLESKIcontra decisão prolatada pelo Ministro Presidente desta Corte, que conheceu do agravo para não conhecer do recuso especial, sob o fundamento da ausência de ofensa ao art. 1.022 do CPC/2015 e da aplicação dasSúmulas7 do STJ e 284 do STF.
+Alega a parte agravante que não há quefalar na incidência dos referidos óbices sumulares, bem como defende a negativa de prestação jurisdicional.
+Ao final, busca a reforma da decisão agravada, no sentido de dar provimento ao recurso especial.
+Sem impugnação.
+Passo a decidir.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando a nova análise da insurgência.
+Trata-se de agravo interposto porALBINO JULIO SHIESLESKIcontra decisão que não admitiu recurso especial que desafia acórdão assim ementado (e-STJ fl. 77):
+AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+RENDA INCOMPATÍVEL COM DECLARAÇÃO DE INSUFICIÊNCIA ECONÔMICA. INDEFERIMENTO. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+Declaratórios rejeitados (e-STJ fls. 98/100).
+Na sua insurgência, a parte recorrente aponta violação dos arts. 98,99, 489 e1.022 do CPC/2015, defendendo, além de negativa de prestação jurisdicional, a impossibilidade de arcar com as despesas processuais.
+Contrarrazões às e-STJ fls. 211/213.
+Pois bem.
+É assente na jurisprudência deste STJ de que a simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunçãoiuristantum, é suficiente ao deferimento do pedido de gratuidade de justiça quando não ilidida por outros elementos dos autos. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. GRATUIDADE D JUSTIÇA. INDEFERIMENTO PELO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL SOBRE O TEMA. RECOLHIMENTO DAS CUSTAS RECURSAIS. DESNECESSIDADE. PRECEDENTE DO CORTE ESPECIAL. ALEGAÇÃO DE NULIDADE PROCESSUAL. AUSÊNCIA DE INTIMAÇÃO PARA CONTRARRAZÕES DO AGRAVO DE INSTRUMENTO. ALEGAÇÃO EM EMBARGOS DE DECLARAÇÃO. POSSIBILIDADE. PRIMEIRO MOMENTO DE ATUAÇÃO DA PARTE NOS AUTOS. RECURSO ESPECIAL PROVIDO.
+1. Em decisão recente, a Corte Especial deste Tribunal passou a entender ser " desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita.." Na compreensão de não haver "lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício." (AgRg nos EREsp 1222355/MG, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 04/11/2015, DJe 25/11/2015)
+2. Para o deferimento do pedido de assistência judiciária, a lei contenta-se com a comprovação da condição de hipossuficiência, por meio de simples afirmação do estado de pobreza feita pela parte, nos termos do art. 4º, da Lei nº 1.060/50, com a redação dada pela Lei nº 7.510/86, que determina que a "A parte gozará dos Benefícios da Assistência Judiciária, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou de sua família".
+3. Se a parte recorrida alega, em tempo oportuno (primeira oportunidade em que se manifestou nos autos, que não fora intimada para apresentar contrarrazões ao agravo de instrumento, incorrendo o feito em nulidade, incumbiria à Corte de origem examinar a alegação, ainda que em embargos de declaração. Hipótese de violação frontal ao art. 535 do CPC.
+4. Recurso especial provido.
+(REsp 1.559.787/MG, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA TURMA, julgado em 18/02/2016, DJe 25/02/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO PELO MAGISTRADO. APRECIAÇÃO.
+CIRCUNSTÂNCIAS FÁTICAS. AUSÊNCIA DE OMISSÃO. ART. 535 DO CPC.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. O STJ vem entendendo que, para a concessão dos benefícios da assistência judiciária gratuita, basta que o postulante afirme não possuir condições de arcar com as custas e despesas processuais sem prejuízo ao sustento próprio e de sua família, ressalvado ao juiz indeferir a pretensão, se tiver fundadas razões para tanto, conforme reza o art. 5º da Lei 1.060/1950.
+3. O magistrado pode indeferir ou revogar o benefício, havendo fundadas razões acerca da condição econômico-financeira da parte ou, ainda, determinar que esta comprove tal condição, haja vista a declaração de hipossuficiência de rendas deter presunção relativa de veracidade, admitindo prova em sentido contrário.
+4. No caso dos autos, o Tribunal de Justiça do Estado do Rio Grande do Sul, no voto condutor do aresto, da lavra do Desembargador Jorge Alberto Schreiner Pestana, assentou que não está presente o estado de miserabilidade necessário para a concessão do benefício.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 363.687/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/04/2015, DJe 01/07/2015),
+In casu, o acórdão hostilizado, para além de não ter indicado nenhum elemento que infirmasse a declaração prestada, considerou apenas o parâmetro de R$ 8.101,56 de renda (deduzindo os descontos obrigatórios, a contribuição social e o IRPF). Nesse ponto, confira-se o seguinte trecho do aresto atacado (e-STJ fl. 79):
+O CPC/2015 dispõe, em seu artigo 99, parágrafo 3º, que se presume verdadeira a alegação de insuficiência econômica deduzida por pessoa natural, podendo o juiz indeferir o pedido (parágrafo 2º do mesmo artigo) de gratuidade da justiça se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade.
+Tal presunção, no entanto, não é absoluta.
+Esta Turma considera como parâmetro o valor de R$ 5.000,00 para análise da presunção de insuficiência. No caso, excluídos os descontos obrigatórios, IRPF e contribuição social, os rendimentos alcançam R$ 8.101,56, superando aquele patamar. Logo, ausente o requisito para antecipação da tutela recursal.
+Destaque-se que esta Corte Superior vem rechaçando a adoção única desse critério, uma vez que não representa fundadas razões para denegação da gratuidade de justiça. Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. O0 PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA DEVE SER ANALISADO COM BASE NOS ELEMENTOS CONCRETOS EXISTENTES NOS AUTOS. NÃO É POSSÍVEL A FIXAÇÃO DE CRITÉRIOS ALEATÓRIOS, NÃO PREVISTOS EM LEI. AGRAVO REGIMENTAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, não encontra amparo legal o critério adotado pelo Tribunal de origem para a concessão da gratuidade judiciária, qual seja, a renda mensal inferior a 10 salários mínimos. Precedentes: AgInt no AgInt no AREsp. 868.772/SP, Rel. Min. SÉRGIO KUKINA, DJe 26.9.2016; EDcl no AgRg no AREsp. 753.672/RS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 29.3.2016; AgRg no REsp. 1.403.613/RS, Rel. Min. HERMAN BENJAMIN, DJe 6.12.2013. 2. Agravo Regimental do particular a que se nega provimento. (AgRg no REsp 1.486.056/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 20/04/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. LEI 1.060/1950. ADOÇÃO DE CRITÉRIO NÃO PREVISTO EM LEI. RENDA LÍQUIDA INFERIOR A 10 SALÁRIOS MÍNIMOS. NECESSÁRIO RETORNO DOS AUTOS À ORIGEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame da controvérsia não encontra óbice na Súmula 7/STJ, porquanto não exige o reexame do conjunto fático, haja vista limitar-se à questão exclusivamente de direito,in casu, à legalidade do critério adotado pelo Tribunal de origem a fim de deferir o benefício da assistência judiciária gratuita.
+2. O Tribunal de origem decidiu que a recorrida faz jus à assistência judiciária gratuita porquanto aufere renda inferior a 10 (dez) salários mínimos, o que possibilitaria presumir o seu estado de miserabilidade. Contudo, o critério adotado como parâmetro para o deferimento do benefício vindicado não encontra amparo na Lei 1.060/1950. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 353.863/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/09/2013).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 257/263e,com base no art. 253, II, parágrafo único, do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial para deferir à parte recorrente os benefícios da justiça gratuita.
+Publique-se. Intimem-se.
