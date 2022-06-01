@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FREDERICO LUIZ DE SOUZA MEDEIROS PINHEIRO DO AMPARO - preso cautelarmente no dia 31/1/2022 pela suposta prática do crime de porte de arma de fogo com numeração suprimida - contra decisão monocrática do Tribunal de Justiça do Estado do Rio de Janeiro (0010234-70.2022.8.19.0000).
+Nas razões do presente habeas corpus, a defesa alega, em síntese, ausência de motivos idôneos para a decretação da prisão preventiva do paciente. Sustenta que a medida foi aplicada sem apoio nas hipóteses previstas no art. 312 do CPP esem a demonstração a efetiva imprescindibilidade.
+Ressalta, ademais, que o acusado é primário e que a prisão se mostra desproporcional, sendo possível a aplicação de outras cautelares mais brandas, como as insertas no art. 319 do CPP.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva ou a substituição por outras medidas alternativas.
+É o relatório, decido.
+Não há como prosseguir a irresignação. Isso porque a defesa não manejou previamente o recurso adequado para obter um provimento jurisdicional do colegiado e atrair a competência desta Corte, nos termos do art. 105, II, da Constituição Federal.
+Como cediço, "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Ministro MARCO AURÉLIO, Rel. p/ acórdão Ministro ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Ministro MARCO AURÉLIO, Rel. p/ acórdão Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Ministro ALEXANDRE DE MORAES, Primeira Turma, julgado em 6/12/2019, DJe 18/12/2019).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
