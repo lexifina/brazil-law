@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, por aplicação das Súmulas n. 7 e 83 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 1.336):
+AGRAVO DE INSTRUMENTO. DECISÃO PROFERIDA EM CUMPRIMENTO DE SENTENÇA. PENHORA DE PARTE DO SALÁRIO DO DEVEDOR. POSSIBILIDADE. DIGNIDADE DA PESSOA HUMANA PRESERVADA. RECURSO DESPROVIDO.
+1. A insurgência do recorrente centra-se contra decisão do juízo de primeira instância que determinou a penhora de 20% de seu salário, visando à quitação de débito.
+2. A resposta ao recurso de apelação não é via processual adequada para a formulação de qualquer pedido condenatório ou de reforma da decisão ao Colegiado.
+3. Sabe-se que regra da impenhorabilidade do salário (art. 833, IV, CPC), a partir do julgamento do REsp. 1.430.709 pelo Superior Tribunal de Justiça, passou a comportar relativização, deixando-se, a literalidade apenas para casos excepcionais. Desse modo, a regra de proteção ao salário, que se preocupa com a dignidade da pessoa do devedor, deve ser interpretada também de modo a permitir a satisfação do crédito do credor, preservando-se, também, a dignidade do credor. Sob pena de se fomentar o entendimento no sentido de que assalariado somente paga suas dívidas se lhe bem aprouver.
+4. É admissível a penhora de parte do salário do devedor para pagamento de dívida, de modo que não comprometa sua subsistência nem a de sua família, preservando-se, dessa maneira, os postulados do mínimo existencial e da dignidade da pessoa humana.
+5. Recurso desprovido.
+Os embargos de declaração não foram providos (e-STJ fls. 1.363/1.369).
+No recurso especial (e-STJ fls. 1.377/1.390),interposto com fundamento no art. 105, III, "a" e "c", da CF, orecorrente alegou, além de divergência jurisprudencial, ofensa aoart. 833, IV,doCPC/2015.
+Insurgiu-secontra odeferimento,pela Corte local, dapenhora mensal de 20% (vintepor cento) do seu salário para pagamento de dívida oriunda de ação monitória.
+Defendeu a impenhorabilidade absoluta dos seus rendimentos, pois não fora reconhecido o caráter alimentar da dívida etampouco o montante percebido ultrapassaria 50 (cinquenta) salários-mínimos.
+Requereu a imediata desconstituição da penhora mensal de sua verba salarial.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.420/1.422 (e-STJ).
+No agravo (e-STJ fls. 1.425/1.432), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 1.444/1.447).
+Juízo negativo de retratação (e-STJ fl. 1.450).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos,assim entendeu(e-STJ fl. 1.340):
+Ora, não se nega o cuidado que teve a magistrada de primeira em preservar a dignidade do devedor ao afirmar que a liberação dos valores bloqueados na conta do agravante, correspondente a 80% dos valores encontrados em conta preserva o mínimo existencial e, ao mesmo tempo, permite a quitação do débito.
+De outro turno, a decisão determinou a penhora de 20% dos rendimentos líquidos mensais do devedor, ora recorrente, até que quite integralmente o débito. Mais uma vez, verifico a prudência na decisão recorrida, pois, o recorrente aufere renda bruta mensal superior a R$ 24.000,00, de modo que, mesmo abatidos os descontos compulsórios, 80% desse valor líquido, preserva a dignidade do devedor e de sua família.
+Destarte, tenho que é admissível a penhora de parte do salário do devedor para pagamento de dívida, de modo que não comprometa sua subsistência nem a de sua família, preservando-se, dessa maneira, os postulados do mínimo existencial e da dignidade da pessoa humana.
+A Segunda Seção desta Cortereafirmou que, "Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art.833,IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (AgInt nos EREsp n. 1.701.828/MG, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/6/2020, DJe 18/6/2020). No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO PARA DECLARAR A IMPENHORABILIDADE DA APOSENTADORIA - INSURGÊNCIA DAS AGRAVADAS.
+1. De acordo com o entendimento mais recente do STJ, é possível relativizar a regra da impenhorabilidade dos vencimentos, subsídios, salários e proventos de aposentadoria (art. 833, IV, do CPC/15), desde que assegurado ao devedor e a sua família a subsistência digna. Precedentes.
+2. Agravo interno provido para, de plano, conhecer do recurso especial e negar-lhe provimento, mantendo o acórdão recorrido que autorizou a penhora parcial dos proventos de aposentadoria .
+(AgInt nos EDcl no REsp n. 1.808.430/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL.PENHORA. RENDIMENTOS. SUBSISTÊNCIA DO DEVEDOR. APRECIADA PELO TRIBUNAL DE ORIGEM. PENHORA DE PERCENTUAL DE RENDIMENTO.INVIABILIDADE DE REANÁLISE. SÚMULA 7/STJ.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. Inviabilidade alterar a conclusão do aresto recorrido de que existe particularidade no caso concreto a permitir a relativização da penhora de verba remuneratória para atingir 10% por cento dela, porque demandaria incursão pela seara fático-probatória. Incidência da súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.773.483/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORA. SALÁRIO. PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios. Fica ressalvada, porém, a hipótese em que, com base na regra geral do artigo 833, IV, do CPC/2015, a penhora de salários é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família. Precedente da Corte Especial.
+3. Na hipótese dos autos, o tribunal de origem fixou o percentual da penhora sobre salários considerando que o valor remanescente garantiria a sobrevivência digna da devedora, estando em consonância com a recente jurisprudência desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.645.585/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2020, DJe 24/11/2020.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Por fim,não há como alteraroacórdão impugnado,que, entendendo pela ausência derisco de comprometimento do mínimo essencial à subsistênciadaparteexecutada e de sua família, deferiu a penhorade 20% (vinte por cento) dos seus vencimentos líquidos mensais. Isso porquedissentir das conclusões do TJDFTexigiria o reexamedo acervo fático-probatório dos autos, providência vedada nesta sederecursal, a teor da Súmula n. 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15.NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. EXCEÇÃO DO § 2º DO ART. 833 DO CPC/2015. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR. PENHORA DA REMUNERAÇÃO DO DEVEDOR. MANUTENÇÃO DA SUBSISTÊNCIA DIGNA. AVALIAÇÃO CONCRETA.POSSIBILIDADE. ART. 833, IV, DO CPC/2015. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. As exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV e X, do CPC/2015, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar. Precedente da Corte Especial.
+4. É possível, no entanto, a penhora com fundamento no art. 833, IV, do CPC/2015, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família. Precedente da Corte Especial.
+5. Alterar o decidido no acórdão recorrido que, com base no acervo fático probatório concluiu que "a penhora de 15% (quinze por cento) incidente sobre a renda líquida auferida pelos agravantes, até a quitação do débito, revela-se adequada e não compromete a subsistência de ambos", demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.914.389/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/08/2021, DJe 02/09/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE PROVENTOS. DÉBITO RELATIVO A HONORÁRIOS ADVOCATÍCIOS. IMPENHORABILIDADE E EXCEÇÕES. SITUAÇÃO EXCEPCIONAL.SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça fixou o entendimento de que a exceção à impenhorabilidade prevista no § 2º do art. 833 do CPC não abarca créditos relativos a honorários advocatícios, porquanto não estão abrangidos pelo conceito de "prestação alimentícia".
+2. Também é assente na Corte Especial do STJ o entendimento de que a regra geral de impenhorabilidade de salários, vencimentos, proventos etc. (art. 833, IV, do CPC) pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. No caso em apreço, o Tribunal de origem concluiu que a penhora de 5% da remuneração bruta mensal do agravante não prejudica a subsistência dele e de sua família, de forma que rever esse entendimento e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.886.436/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/06/2021, DJe 21/06/2021.)
+PROCESSUAL CIV IL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. FUNDAMENTAÇÃO GENÉRICA.SÚMULA N. 284/STF. SALÁRIO. PENHORABILIDADE. ART. 833, IV, CPC/2015.SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma.
+3. "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp n. 1.582.475/MG, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 3/10/2018, REPDJe 19/3/2019, DJe 16/10/2018).Incidência da Súmula n. 83 do STJ.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que a penhora não afeta a subsistência familiar. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.752.642/SP, de minha relatoria, QUARTA TURMA, julgado em 03/05/2021, DJe 06/05/2021.)
+A incidência da Súmula n. 7 do STJ obsta o conhecimento do recursoespecialinterposto também pela alínea "c" do permissivo constitucional,poisimpede que se verifique a similitude fática entre osacórdãosconfrontados. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDOLIMINAR.INDEFERIMENTO. REEXAME. SÚMULAS N. 7/STJ E 735/STF.DISSÍDIOJURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE.
+(..)
+2 Não cabe, em recurso especial, reexaminar matéria fático-probatória(Súmula n. 7/STJ).
+3. O recurso especial não pode ser conhecido com fundamento na alínea "c"do inciso III do artigo 105 da Constituição Federal, porquanto o óbice daSúmula n. 7 do Superior Tribunal de Justiça impede oexame do dissídiojurisprudencial quando, para a comprovação da similitude fática entre osjulgados confrontados, é necessário o reexame de fatos e provas.Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.533.250/MT, Rel. Ministra MARIA ISABEL GALLOTTI,QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
