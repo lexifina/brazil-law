@@ -1,0 +1,30 @@
+DECISÃO
+1. Cuida-se de agravo interposto por IGOR FERNANDES PEREIRA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO Cumprimento de sentença Pedido de informações junto ao sistema InfoJud sobre a vida financeira do executado Alegação de quebra de sigilo fiscal Possibilidade Hipótese em que o pedido se reveste de legalidade, já que a exequente trouxe aos autos fatos que modificaram a situação econômica do agravante Decisão mantida - Recurso não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts. 299 do CP e 19, II, 278 e 405 do CPC, alegando em síntese,
+Contrarrazões ao recurso especial às fls. 250/265.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+Quanto aos arts. 299 do CP e 405 do CPC, apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem, nem mesmo implicitamente, apesar da interposição dos embargos de declaração objetivando suprir eventual omissão quanto a esse ponto.
+Ressalte-se que não basta a alegação de prequestionamento implícito, pois para que se configure o prequestionamento da matéria, deve-se extrair do acórdão recorrido manifestação direta sobre as questões jurídicas em torno dos dispositivos legais tidos como violados, única forma de se abstrair a tese jurídica a ser examinada e decidida.
+Com efeito, a jurisprudência assente nesta Corte orienta-se no sentido de que não é suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, ou indicada como não violada pelo Tribunal a quo, mas sim que a respeito tenha havido debate no acórdão recorrido.
+Ainda que a suposta violação de lei federal tenha surgido no julgamento do acórdão recorrido, é necessária a oposição de embargos de declaração para que o Tribunal de origem manifeste-se sobre a questão sob o enfoque dado pelo recorrente, sob pena de não se ter por satisfeito o requisito do prequestionamento, nos termos das Súmulas 282 e 356 do Colendo Supremo Tribunal Federal, aplicáveis, por analogia.
+Mesmo após a oposição de embargos de declaração, o Tribunal de Justiça a quo nada acrescentou ao acórdão impugnado a este respeito, deixando, assim, de suprir a necessidade de prequestionamento da matéria objeto do especial.
+Persistindo a omissão, como no presente caso, e sendo relevante, no seu entender, para a solução da controvérsia, deveria a parte ora recorrente ter apontado, nas razões do recurso especial, afronta ao art. 1022 do CPC, sob pena de perseverar o óbice da ausência de prequestionamento, providência a que se furtou.
+Incide, portanto, na espécie o óbice da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Frise-se, por oportuno, que para fins de prequestionamento, é indispensável que o Tribunal de origem ao analisar o recurso interporto, exprima um juízo de valor, apreciando a matéria e o mérito da insurgência à luz da disposição traçada no artigo de lei federal tido por violado, não bastando alegar que considera prequestionados os referidos artigos.
+A simples oposição de embargos de declaração, sem que a Corte Estadual emita qualquer pronunciamento sobre os temas neles insertos, não é o suficiente para esgotar a instância de origem e prequestionar os dispositivos legais sobre os quais não se pronunciou. Nesse caso, afigura-se indispensável que a parte oponha os competentes aclaratórios e, se acaso permanecer omisso o pronunciamento, o recurso especial deve trazer alegação, também, de ofensa ao art. 1.022 do CPC/2015.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. QUESTÃO SUPOSTAMENTE SURGIDA NO JULGAMENTO DO TRIBUNAL DE ORIGEM. PREQUESTIONAMENTO. NECESSIDADE. SÚMULAS 282 E 356 DO STF. AUSÊNCIA. NÃO CONHECIMENTO. AGRAVO NÃO PROVIDO.
+1. A ausência de prequestionamento acerca do tema inviabiliza o conhecimento do recurso especial.
+2. Ainda que a questão federal tenha surgido somente no acórdão recorrido, entendendo a parte recorrente pela existência de algum vício deveria ter oposto embargos de declaração a fim de suprir a exigência do indispensável prequestionamento e viabilizar o conhecimento do recurso especial em relação aos referidos dispositivos legais.
+3. Caso persistisse tal omissão, imprescindível a alegação de violação do art. 535 do Código de Processo Civil, quando da interposição do recurso com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+4. Agravo regimental não provido, com aplicação de multa" (AgRg no AREsp 608.044/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/02/2015, DJe 13/02/2015, g.n.).
+_______ .
+3. No mais, quanto aos artigos 19, II e 278 do CPC apontados no recurso especial, verifica-se que seus conteúdos normativos, também,não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. Ante o exposto, nego provimento ao agravo.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se. Intimem-se.
