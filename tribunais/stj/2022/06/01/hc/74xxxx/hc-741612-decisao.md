@@ -1,0 +1,16 @@
+DECISÃO
+RODRIGO CABRAL DA SILVA alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 5023064-42.2022.8.24.0000, em que foi determinada a prévia realização de exame criminológico.
+Assere a defesa que "a jurisprudência dessa Corte Cidadã é consolidada no sentido de que o crime cometido ou a quantidade da pena não são motivos para decretar a realização do exame criminológico" (fl. 4).
+No caso vertente, o Juízo singular, ao condicionar a análise do pleito de progressão à realização de exame criminológico, salientou que "o apenado cometeu crime com violência física diretamente aplicada à vítima perpetrada junto com outros indivíduos, mesmo após cessada eventual resistência" (fl. 9).
+A esse respeito, esta Corte Superior possui o entendimento de que " a  gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal" (HC n. 429.176/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/3/2018, grifei).
+Na hipótese, o Tribunal a quo entendeu devida a postergação da análise do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado cometeu crimes graves, o que, sem maiores detalhamentos, não justifica a negativa da benesse ou a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+II - O entendimento desta Corte é no sentido de que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamentos idôneos para obstar a progressão de regime.
+III - In casu, ao cassar o benefício concedido pelo Juízo da Execução Penal, o eg. Tribunal de Justiça se valeu do argumento de que o paciente teria cometido faltas graves, porém não as individualizou, o que impede a sua utilização como argumento para afastar o merecimento do apenado.
+IV - O v. acórdão valeu-se, ainda, da gravidade dos crimes pelos quais o paciente foi condenado e de afirmações genéricas no sentido de que o paciente "tem evidente tendência à prática de crimes graves" porém, realizado exame criminológico, não foi indicado qualquer elemento que possa indicar que o paciente apresenta traço de personalidade que o impeça de receber o benefício da progressão de regime.
+Habeas corpus não conhecido. Ordem concedida de ofício para cassar a decisão do eg. Tribunal a quo, fazendo prevalecer a progressão de regime concedida pelo d. Juízo da Execução Penal, confirmando a liminar (HC n. 443.838/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/6/2018, grifei).
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de afastar a exigência de realização de exame criminológico e conceder ao paciente a progressão ao regime semiaberto.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
