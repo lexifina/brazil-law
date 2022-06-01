@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VILMAR MARCELO BUENO (VILMAR) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra v. acórdão do TJ/PR, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - NOTA PROMISSÓRIA - EMPREITADA PARA CONSTRUÇÃO DE IMÓVEL - SENTENÇA DE IMPROCEDÊNCIA.
+1. Da alegada ausência de prestação jurisdicional - Não ocorrência - Questões necessárias ao deslinde do feito foram efetivamente analisadas pelo julgador "a quo" - "Se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte" (STJ - AgRg no Ag 1391151/RS)
+2. Ausência de contrato escrito - Compra de material de construção efetuada pelo dono da obra no comercio local - Modalidade de empreitada contratada que se revela de lavor, uma vez que a obrigação de fornecer os materiais não se presume; resulta da lei ou da vontade das partes (art. 610, §1º do Código Civil) - Considerando a modalidade da empreitada, os gastos relativos à aquisição de materiais que não comprovam pagamento ao prestador de serviços.
+3. Excesso de execução não comprovado - "Ausente prova da vinculação entre o pagamento realizado e a dívida executada, deve ser rejeitada a alegação de excesso de execução feita com base nesse fundamento" (TJPR -Ap Civ. 0010988-77.2018.8.16.0083) - Depósitos bancários anteriores à emissão do título não comprovam pagamento parcial do débito.
+4. Honorários recursais - Impossibilidade - Limite de 20% (vinte por cento),previsto no art. 827, §2º, do Código de Processo, ressalvada a benesse da assistência judiciária gratuita já deferida. RECURSO NÃO PROVIDO (e-STJ, fl. 626).
+Os embargos de declaração opostos por VILMAR foram rejeitados (e-STJ, fls. 661/665).
+Inconformado, VILMAR interpôs recurso especial, com amparo no art. 105, III, a, da CF, alegando violação dos arts. 884 e 940 do CC/2002, 371, 489 e 1.022 do NCPC.
+O apelo nobre não foi admitido (e-STJ, fls. 705/707).
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da lavra do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão agravada.
+Nas razões do presente agravo interno, VILMAR alegou que impugnou a não incidência da Súmula nº 7 do STJ.
+Não houve impugnação ao recurso (e-STJ, fl. 766).
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à nova análise do recurso especial.
+O recurso não comporta provimento.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Não merece respaldo a assertiva de que o v. acórdão não teria se manifestado sobre as provas constantes nos autos, especialmente quanto ao valor devido e confessado, uma vez que o Tribunal local consignou, expressamente, no julgamento dos aclaratórios:
+Ora, a prova documental é clara quanto ao valor devido, sendo incongruente a alegação do devedor de que previamente quitou parte da dívida e depois assinou uma nota promissória, prometendo pagar valor já adimplido.
+Destaca-se que não há se falar na prevalência de modalidade de prova, haja vista que o ordenamento jurídico pátrio se filia ao sistema de persuasão racional, de modo que o julgador aprecia livremente as provas colhidas, atendendo aos fatos e circunstâncias dos autos (CPC, art. 371 c/c 375).
+Por consequência, nota-se que a decisão embargada está devidamente fundamentada e acompanhada do entendimento jurisprudencial a respeito da matéria.
+Portanto, inexistem os vícios alegados (e-STJ, fl. 663).
+Desta forma, não há que se falar em negativa de prestação jurisdicional, pois o tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Assim, constata-se que não há quaisquer dos vícios elencados no art. 1.022 do NCPC.
+Ademais, constata-se que o acórdão recorrido foi devidamente fundamentado, não se podendo falar em violação dos arts. 489, § 1º, e 1.022 do NCPC, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+Outrossim, o Tribunal estadual, quanto a alegação de violação dos arts. 884 e 940 do CC/2002, no que concerne ao excesso de execução, julgou nos seguintes termos:
+Pois bem. Da análise dos autos, denota-se que tanto o exequente, ora recorrido, quanto o executado, ora recorrente, informam que a nota promissória deriva da contratação de empreitada para construção de imóvel descrito no "ORÇAMENTO DISCRIMINATIVO - CONSTRUÇÃO" (mov.1.7 a 1.17 dos autos de execução e mov. 1.13 dos autos de embargos à execução).
+Nas razões trazidas pelos litigantes, observa-se que o embargado/apelado alega que o valor descrito no título executado decorre da contratação de mão-de-obra para a execução da empreitada para construção e ampliação do imóvel. Por sua vez, o embargante/recorrente alega que o contrato é misto, mão-de-obra e material, cabendo ao empreiteiro/recorrido a obrigação de fornecimento dos materiais de construção.
+Depreende-se dos autos que, além do próprio título executado, a principal prova documental trazida pelos contendentes é o referido orçamento da construção. No entanto esse documento não se confunde com o contrato, pois ali está descrito apenas custo da obra e não as obrigações das partes quanto construção do imóvel.
+ ..
+No presente caso, não foi apresentado o contrato escrito celebrado entre as partes. Logo, não se verifica, de plano, qual foi a modalidade de empreitada contratada.
+Contudo, as provas documentais (mov. 1.14, contrato de financiamento celebrado entre o embargante/recorrente e a Caixa Econômica Federal e os comprovantes de gastos diretos do embargante para a aquisição de materiais de outros fornecedores que não o embargado, mov. 1.23 a mov.1.78) demonstram que foi o embargante/recorrente quem efetuou a compra de todo o material de construção durante o período da relação negocial.
+Da mesma forma, as provas testemunhais indicam que foi o embargante (dono da obra) que adquiriu no comércio o material para a construção. Vejamos o testemunho da Sr. Márcia Muller Efiko, proprietária da Comercial Casa Grande (mov. 76.6):
+ ..
+Ademais, o próprio embargante/recorrente reconhece que o contrato é de mão de obra, como indica item "2) " do documento trazido no evento nº 13.14 (notificação encaminhada pelo dono da obra ao engenheiro).
+Portanto, as provas coligidas aos autos atestam que aquisição dos materiais para a construção ficou a cargo do dono da obra, ora recorrente, que escolheu seus fornecedores e efetuou a compra dos produtos. Conforme previsto no já citado art. 610, §1º do Código Civil, "a obrigação de. Portanto, o simples fornecer os materiais não se presume; resulta da lei ou da vontade das partes "orçamento não implica em obrigação específica as partes, pois apresenta apenas o custo estimado da obras, não se verifica qualquer ofensa ao disposto no art. 408, do CPC. 7
+Desse modo, o embargante/recorrente não logrou êxito em demonstrar que a aquisição dos materiais era de responsabilidade do empreiteiro ora recorrido, não comprovou a empreitada mista, ou seja, nesse ponto, não lançou fato extintivo, modificativo ou extintivo do direito do embargado/recorrido, nos termos do artigo 373, II do CPC. 8
+Por consequência, diante das provas dos autos, verifica-se que a nota promissória que lastreia a ação executiva deriva da contratação de empreitada de lavor ou de mão-de-obra, inexistindo a obrigação de fornecimento de material.
+ ..
+Considerando que se trata de contrato de lavor, restam afastadas as alegações do recorrente de que teria efetuado o pagamento total do débito, por ter despendido gastos superiores ao valor global constante no orçamento.
+Isso porque, considerando que a modalidade de empreitada é por mão-de-obra, os valores relativos ao custo de material, as taxas e emolumentos relacionados à construção do imóvel são de responsabilidade do dono da obra e isso inclui o pagamento da Guia da Previdência Social- GPS (mov.1.23), relativa ao recolhimento do INSS da construção:
+ ..
+Quanto à alegação de que o embargante que assumiu serviços que estavam incluídos no orçamento e deveriam ter sido realizados pelo recorrido, vale ressaltar que, diante da ausência de contrato escrito ou de outras provas nesse sentido, não se pode afirmar que a limpeza do imóvel, a terraplanagem e a pintura fossem obrigação do embargado.
+ ..
+Por conseguinte, não se reconhece o pagamento parcial da dívida, pois os valores depositados ao embargado/recorrido não se referem ao débito ora discutido, restando afastado o alegado excesso de execução.
+Logo, é o justo título que baseia os autos de execução, não incorrendo o exequente/recorrido em má-fé, não sendo aplicável ao caso a penalidade prevista no arts. 884 e 940, do Código Civil (e-STJ, fls. 631/635)
+Desse modo, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ARTS. 1.022 E 489 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. FALTA DE DEMONSTRAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS NºS 283 E 284/STF. MATÉRIA DE FATO. REEXAME. SÚMULA Nº 7/STJ.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+2. Na hipótese, quanto ao prazo decadencial e ao alegado excesso de execução, não houve impugnação objetiva e direta do fundamento central do acórdão recorrido. Incidência das Súmulas nºs 283 e 284/STF.
+3. O acolhimento da pretensão do embargante, a fim de reconhecer excesso de execução e desequilíbrio atuarial, demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.354.963/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONCESSÃO DE BENEFÍCIO DA PREVIDÊNCIA PRIVADA E COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EXCESSO DE EXECUÇÃO E ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULA 211/STJ. MARCO DA VIGÊNCIA DO BENEFÍCIO. INVERSÃO DO JULGADO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. ALEGAÇÃO DE PRESCRIÇÃO. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula 211/STJ). Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+3. No caso, acolher as teses recursais e alterar a convicção a que chegou a Corte de origem (quanto ao direito de a autora receber o benefício discutido nos autos retroativamente à data da morte do segurado) exigiria o reexame do conjunto fático-probatório dos autos e a análise de termos contratuais, o que é vedado, no âmbito do recurso especial, devido ao óbice das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.926.284/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 15/12/2021.)
+Nessas condições, DOU PROVIMENTO ao agravo interno para CONHECER do agravo em recurso especial e NEGAR PROVIMENTO ao apelo nobre.
+Deixo de majorar os honorários advocatícios, em razão do limite de 20% estabelecido no art. 85, §§ 2º e 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PROVA PERICIAL. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E NEGAR PROVIMENTO AO APELO NOBRE.
