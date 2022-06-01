@@ -1,0 +1,20 @@
+DECISÃO
+LENICE APARECIDA ALVES DA ROCHAalega sofrer coação ilegal em virtude de acórdão proferido peloTribunal de Justiça do Estado de Santa Catarina(HC n. 5063646-21.2021.8.24.0000).
+A defesa busca a concessão deprisão domiciliar à insurgente, haja vista ser ela mãe de uma criança menor de 12anos de idade, que precisa de seus cuidados. Entende que os fundamentos aduzidos no acórdão não são suficientes para afastar a concessão do pleito.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Segundo os autos, a paciente foi presa temporariamente e, logo depois, teve a custódia convertida em preventiva.
+Na ocasião, o Magistrado de primeiro grau registrou que, em cumprimento a mandado de busca e apreensão em desfavor do corréu Cristian de Almeida - companheiro da acusada-,foi apreendido aparelho celular de propriedade da insurgente, no qual foram encontradas conversas, via aplicativo WhatsApp, "envolvendo assuntos relacionados à compra e venda de drogas, inclusive ficando claro no teor das conversas que o casal integra a facção criminosa do Primeiro Grupo Catarinense (PGC)" (fl. 267).
+Descreveu haver no aparelho conversas relativas ànegociação de drogas e armas e "conversas com seu próprio filho adolescente JOÃO VITOR PETTERS onde este solicita drogas para consumo e LENICE informa que CRISTIAN providenciará" (fl. 268).
+Também, asseverou que a acusadaostenta inquérito policial pelo delito de receptação e que responde a ação penal por tráfico de drogas, na qual já foi condenada.
+Aviado pleito de prisão domiciliar, o Juízo primevo indeferiu o pedido, diante da falta de comprovação de que "os filhos menores dependem, única e exclusivamente das respectivas genitoras, o que inviabiliza o deferimento da benesse" (fl. 913). Também, mencionou (fl. 913): "a gravidade dos fatos e a suposta conduta das requerentes - altamente reprovável - que seriam, em tese, integrantes de organização criminosa de grande porte, como já salientado anteriormente, reforça a inviabilidade da concessão da prisão domiciliar".
+O Tribunal de origem, ao denegar a ordem lá requerida, destacou ser possível a manutenção da custódia da ré, tendo em vista o papel que ela "desempenha na organização criminosa, e o fato de que, segundo a imputação inicial, ela teria envolvido um dos filhos no esquema delitivo" (fl. 1.132).
+No caso, a despeito da alegação de imprescindibilidade da ré aos cuidados de sua filha menor de 12 anos de idade, depreende-se que as instâncias ordináriasindicarammotivação suficiente para indeferir a prisão domiciliar, ao salientar a periculosidade da insurgente - que participade organização criminosa eresponde a outros procedimentos criminais-e ao assinalar que a agenteenvolviaseufilho adolescente nas práticas criminosas.
+Tais circunstânciasimpedem a substituição da custódia preventiva peladomiciliarou por outras medidas alternativas (arts. 282, 318 e 319 do CPP). A propósito:
+ ..
+4. A gravidade concreta das condutas perpetradas evidencia a presença do periculum libertatis e demonstra a exigência cautelar para a preservação da medida extrema da acusada. Interceptação das comunicações telefônicas e o afastamento do sigilo de dados financeiros indicam que a ré - cujo companheiro está segregado na mesma cela do líder da facção - movimentou contas bancárias receptoras dos proveitos das extorsões, por meses.
+5. A despeito da alegada imprescindibilidade dos cuidados da paciente à criança com 12 anos de idade, nota-se que o líder da organização treinava o filho mais velho da ré, para o desempenho dos mesmos golpes, com o seu consentimento.
+6. Em virtude das particularidades do caso em comento, muito embora primária, não se revelam adequadas e suficientes à acusada as providências diversas do cárcere (art. 282 c/c art. 319 do CPP).
+7. Ordem conhecida em parte e, nessa extensão, denegada. (HC n. 718.887/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe28/3/2022)
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
