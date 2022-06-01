@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado:
+APELAÇÃO. CONEXÃO. MESMA CAUSA DE PEDIR E PEDIDO. REUNIÃO DE PROCESSOS. NECESSIDADE. SEGURANÇA JURÍDICA. IPTU/TLP.RESSARCIMENTO. OCUPANTE. POSSIBILIDADE. INDENIZAÇÃO.FRUIÇÃO DO IMÓVEL. DESCABIMENTO. COMPORTAMENTO CONTRADITÓRIO. TOLERÂNCIA. OCUPAÇÃO IRREGULAR. LONGO PERÍODO. PROTEÇÃO DA PROPRIEDADE. DESÍDIA.
+1. Nos termos do artigo 55, parágrafo 2º, inciso I, do Código de Processo Civil, reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir. 1.1. A reunião dos feitos evita sejam proferidas decisões conflitantes ou contraditórias, preservando, desse modo, a segurança jurídica. Preliminar afastada.
+2. É obrigação dos réus ressarcirem o proprietário os valores despendidos com o pagamento do IPTU/TLP, durante o período em que ocuparam o imóvel, sob pena de enriquecimento sem causa.
+3. No caso, descabe indenização por fruição do imóvel, diante da desídia do apelante em tomar providências para a retomada do imóvel, o qual permaneceu ocupado irregularmente por vários anos, em decorrência do desinteresse do titular do domínio na proteção da propriedade, devido a declaração de indisponibilidade em Ação de Improbidade Administrativa. 4.2. O ordenamento jurídico veda seja o proprietário beneficiado por seu comportamento contraditório e sua incúria.
+4. Recurso conhecido e parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022 do CPC de 2015 e 884 do CC.
+Defende a necessidade de pronunciamento "acerca da licitude em se cobrar do ocupante do imóvel, sem qualquer título, que invadiu ou "adquiriu" supostos direitos de invasor pela ocupação ilegal do bem".
+Alega que, "se o recorrente é o legítimo proprietário e os recorridos permanecem ocupando o imóvel; não há dúvidas acerca da necessidade de recebimento de indenização pelo tempo de fruição. Em verdade, entender de forma diversa, acabará ocasionando o enriquecimento sem causa, o que é vedado pelo nosso ordenamento jurídico,  .. ".
+É o relatório.DECIDO.
+2. De início, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. No mais, amatériareferenteaoartigo 884 do CC (enriquecimento sem causa)não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+4. Ainda que assim não fosse,o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante e verificar o alegado enriquecimento sem causa, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula n. 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
