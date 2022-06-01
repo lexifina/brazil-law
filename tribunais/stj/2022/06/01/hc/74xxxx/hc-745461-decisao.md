@@ -1,0 +1,9 @@
+DECISÃO
+JEFFERSON NASCIMENTO DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo noAgravo em Execução n. 0000151-89.2022.8.26.0520.
+A impetrante busca a retificação do cálculo das penas do paciente, pois, em que pese a concessão da ordem para afastar a exigência doexame criminológico para progressão ao regime semiaberto, o estudo de periculosidade foi realizado e o Juiz da VEC considerou asua datacomomarco inicial para o reeducando progredir ao regime aberto.
+Decido.
+O writ comporta pronta solução, pois existe jurisprudência pacífica destaCorte sobre o tema. A Quinta e a Sexta Turmas sãofirmesem assinalar que o termo para nova progressão de regimeretroage à data em que preenchido o último requisito pendente do art. 112 da LEP, seja ele o objetivo ou o subjetivo, à vista da natureza declaratória da decisão concessiva do benefício.
+No caso concreto, no bojo do HC n. 670.168/SP, foi concedido habeas corpus ao reeducando para afastar aexigência não fundamentada do exame criminológico.Assim, porque reputada ilegal adeterminação do estudo de periculosidade,não é possível considerar a data da sua realizaçãopara ocálculo de novo benefício do art. 112 da LEP.
+Se oreeducando possuía bomcomportamento carcerário no diaem queimplementou o requisito objetivo do art. 112 da LEP, este é o termo iniciala ser considerado parafins de novaprogressão de regime.
+À vista do exposto, concedo o habeas corpuspara determinar a retificação do cálculo das penas do paciente.O Juiz da VEC deverá observar como data-base para nova progressãoo dia em que o reeducando implementou orequisito objetivo para pedir a transferência ao regime semiaberto, quando ostentava boa conduta carceráriae estavam implementados ambos osrequisitos do art. 112 da LEP.
+Publique-se e intimem-se.
