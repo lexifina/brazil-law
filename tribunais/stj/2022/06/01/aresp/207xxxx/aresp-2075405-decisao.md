@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por FONTEBOM CORRETORA DE SEGUROS DE VIDA LTDA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO INTERNO. DECISÃO MONOCRÁTICA DO RELATOR QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO, CONFIRMANDO DECISÃO INTERLOCUTÓRIA DE INDEFERIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE, POR DEIXAR DE RECONHECER A PRESCRIÇÃO INTERCORRENTE. DECISÃO FUNDAMENTADA NO ENTENDIMENTO EXTERNADO PELO STJ, EM JULGAMENTO DE RECURSO REPETITIVO SOBRE O TEMA (RESP Nº 1.340.553/RS, REL. MAURO CAMPBELL MARQUES,DJ 16/10/2018). RAZÕES RECURSAIS SEM APTIDÃO PARA INFIRMAR OS FUNDAMENTOS DA DECISÃO AGRAVADA, QUE FICA MANTIDA. RECURSO DESPROVIDO" (fl. 422e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 485, II e III, do CPC/2015 e do art. 40 da Lei 6.830/80, sustentando a ocorrência da prescrição intercorrente.
+Contrarrazões a fls. 159/166e.
+Inadmitido o Recurso Especial (fls. 183/186e), foi interposto o presente Agravo (fls. 261/276e).
+Contraminuta a fls. 204/217e.
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento apresentado pela parte ora agravante, com o objetivo de reformar decisão que rejeitou exceção de pré-executividade, ao fundamento de que ocorrida a prescrição intercorrente.
+O Tribunal local negou provimento ao agravo de instrumento.
+Daí a interposição do presente Recurso Especial.
+Vejamos o que consignado no acórdão recorrido:
+"A partir da subsunção do caso em concreto ao repetitivo exarado pelo STJ, é de se concluir que os créditos tributários objeto da presente ação executiva não se encontram maculados pela prescrição, como exposto.
+Tais créditos restaram presumidamente constituídos em 2005 (mov. 1.2) e a ação foi ajuizada em 31/07/2009 - de modo que não se pode falar em prescrição do próprio crédito. Quanto à citação, esta ocorreu somente em 21 de maio de 2019, quando a executada foi intimada por Carta com Aviso de Recebimento.
+No entanto, referida paralisação, aí encontrada, deu-se exclusivamente pela inércia do Poder Judiciário, uma vez que, expedido o mandado de citação em 10 dezembro de 2009, este nunca foi juntado aos autos (e isto não é providência incumbida à parte). Diferentemente do que insiste a agravante e como já externado na decisão ora recorrida, a Fazenda Pública tomou conhecimento da não citação do executado em 19 de dezembro de 2016 (mov. 3) com a digitalização dos autos, momento no qual teve início a suspensão do processo por um (1) ano, consoante determina o repetitivo julgado pelo STJ.
+Findo o prazo de suspensão em 19 de dezembro de 2017, passou a fluir a contagem do prazo de prescrição, a qual no caso em espécie, não restou consumada.
+Ainda que seja vedada a eternização da execução fiscal, fato é que os autos permaneceram paralisados em cartório por mais de 6 anos, de 2009, com a expedição do mandado, que nunca retornou, até dezembro de 2016, com a digitalização do processo, quando foram remetidos para intimação da Procuradoria municipal. O exequente não pode agora, portanto, ser penalizado por inércia que não lhe pode ser atribuída.
+Ademais, como já externado inicialmente, o início do prazo prescricional está atrelado à intimação da Fazenda Pública, nos termos do que se decidiu no referido Recurso Repetitivo nº 1.340.553/RS.
+Assim, o argumento trazido pela agravante, no sentido de que a Fazenda Pública permaneceu inerte por cerca de 9 anos e não diligenciou nos autos, não tem aptidão para infirmar os fundamentos externados na decisão agravada, uma vez que, como já exposto, não foi preenchido o requisito que enseja o reconhecimento da prescrição intercorrente, qual seja, o decurso do prazo igual ou superior a 5 anos, após o término da suspensão do trâmite processual por 1 ano ante a ciência da Fazenda Pública quanto à não localização do devedor e de bens" (fl. 426e)
+Da leitura do trecho colacionado depreende-se que foi expressamente ressaltado que a paralisação do feito deu-se em razão da demora na digitalização do feito, ou seja, em virtude dos mecanismos inerentes ao judiciário.
+Dessa forma, aplica-se ao caso a Súmula 106/STJ: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
