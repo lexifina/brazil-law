@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDNA CANESI DO AMARAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO EMBARGOS DE TERCEIRO PEDIDO DE SUSPENSÃO DA PENHORA SOBRE O IMÓVEL EM LITÍGIO PLEITO ALTERNATIVO EM RÉPLICA I - Não se mostra plausível a modificação da r. sentença, ao argumento de que a i. Magistrada de Primeiro Grau, ao julgar improcedente o pedido contido nos embargos, não considerou o pleito alternativo da meação; III - Os embargos não são acolhidos, pois o seu pedido era a liberação do bem, o que não é possível, já que a cota parte da embargante sempre esteve resguardada. RECURSO NÃO PROVIDO (fl. 117).
+Alega violação do art. 86 do CPC, no que concerne à necessidade de que na espécie seja reconhecida a sucumbência recíproca das partes. Traz os seguintes argumentos:
+ ..  na contestação o Embargado havia sustentado que "o Artigo 843 do CPC, permitia a venda do imóvel penhorado em hasta pública, reservando-se a quota-parte do cônjuge meeiro, correspondente à metade do valor da venda do imóvel".
+E mais, que "o Agravo de Instrumento nº 2189107-34.2020- 8.26.0000 em trâmite nessa Egrégia Câmara de Direito Privado, permitiu a penhora e a alienação do referido imóvel, pelo que, pediu a improcedência dos Embargos de Terceiro".
+Estes, doutos Julgadores, FORAM OS DOIS ÚNICOS FUNDAMENTOS DA CONTESTAÇÃO que foram amplamente demolidos conforme demonstrado acima.
+Finalmente, a Apelante demonstrou e pediu a condenação na sucumbência do embargado, nos seguintes termos:
+ ..
+Assim, Doutos Julgadores, a conclusão lógica é que os Embargos de Terceiro jamais poderiam ter sido julgados improcedentes, uma vez que o Embargado SUCUMBIU NA SUA TESE DE QUE A MEAÇÃO DO CÔNJUGE SERIA EQUIVALENTE À METADE DO PRODUTO DA ALIENAÇÃO DO BEM E NÃO A METADE DO VALOR DE AVALIAÇÃO, COMO RECONHECEU A SENTENÇA APELADA" (fls. 146-148).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
