@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, suscitante, e o JUÍZO FEDERAL DA 4ª VARA CÍVEL DE SÃO PAULO-SJ, suscitado.
+De acordo com os autos, ROSANGELA APARECIDA DE MORAIS, ajuizou ação de obrigação de fazer com pedido de tutela provisória de urgência de natureza antecipado c/c reparação de danos materiais e morais, em desfavor de CEALCA (CENTRO DE ENSINO ALDEIA DE CARAPICUÍBA LTDA), FALC - FACULDADE DE ALDEIA DE CARAPICUÍBA e ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU (UNIG), objetivando a validação de seu diploma, bem como indenização decorrente dos danos materiais e morais narrados na inicial (fls. 4/13e).
+A ação foi proposta perante a Justiça Federal, que declinou de sua competência, reconhecendo sua incompetência absoluta, nos termos do art. 109, I, da Constituição Federal e da Súmula 150 do STJ (fls. 829/831e).
+O Juízo Estadual suscitou o presente Conflito Negativo de Competência, com base na tese firmada pelo STF no Tema 1.154e (fls. 487/489).
+De fato, sobre o tema, o Supremo Tribunal Federal, no julgamento do Tema 1.154 da repercussão geral , firmou a seguinte tese: "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DA 4ª VARA CÍVEL DE SÃO PAULO-SJ, suscitado, para o processamento do feito.
+I.
