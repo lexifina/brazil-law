@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso ordinário, interposto por ROSELY JUSTINO PINTO, com fundamento no art. 105, II, b, da Constituição Federal, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins, proferido em sede de agravo interno, reconheceu a incompetência daquela Corte Estadual e manteve decisão monocrática que denegou mandado de segurança, ao entendimento de incidência da Súmula 376/STJ, nos termos da seguinte ementa (fl. 206, e-STJ):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. DECISÃO PROFERIDA NO ÂMBITO DOS JUIZADOS ESPECIAIS. COMPETÊNCIA DE UMA DAS TURMAS RECURSAIS PARA APRECIAÇÃO DO FEITO.
+APLICAÇÃO DO ENUNCIADO DA SÚMULA 376 DO STJ. NEGADO PROVIMENTO.
+1. No sistema instituído pela Lei n.º 9099/95, apenas duas espécies de recursos foram colocados à disposição do jurisdicionado, quais sejam: recurso inominado (art. 41) e embargos de declaração (art. 48). Com esse entendimento é de se ressaltar que a dinâmica instituída pela legislação especial é diferenciada e deve ser seguido o regramento por ela instituído.
+2. Decisão combatida através de agravo interno que determinou a remessa dos autos a uma das Turmas Recursais, uma vez que decisões proferidas no âmbito dos Juizados Especiais devem ser apreciadas pelo Colegiado correspondente. A Súmula n. 376, do STJ atribui competência às Turmas Recursais para julgar Mandado de Segurança. Súmula 376. STJ: "Compete a turma recursal processar e julgar o mandado de segurança contra ato de juizado especial".
+3. Recurso de agravo interno conhecido. Provimento negado.
+Nas razões do recurso ordinário (fls. 225, 241, e-STJ), sustenta a recorrente que impetrou o mandado de segurança com o objetivo de realizar o controle de competência da Turma dos Juizados Especiais Cíveis, que reconheceu de ofício a incompetência das Turmas Recursais de Juizados Especiais para processar e julgar a ação de indenização por danos morais decorrentes de falha na prestação do serviço (fato do produto ou do serviço) por ela ajuizada, razão pela qual não se aplicaria ao caso o enunciado da Súmula 376/STJ, conforme entendimento jurisprudencial pacífico desta Corte Superior de Justiça. Afirma, ainda, que o aresto hostilizado, ao negar provimento ao agravo interno, aplicou-lhe a penalidade prevista no art. 1021, § 4º, do CPC, "pelo simples fato da votação para munutenção da decisão combatida ter sido unânime" (fl. 237, e-STJ), sem, contudo, tecer fundamentação concreta, como, por exemplo, que a interposição do recurso ocorrera de forma abusiva ou protelatória. Por fim, insurge-se contra a não apreciação do pedido concessão do benefício da assistência judiciária gratuita formulado na petição inicial do mandado de segurança e reiterado nas razões do agravo interno. Sustenta, no ponto, grave omissão do julgador, uma vez que a "relatora simplesmente ignorou o requerimento e determinou que fosse providenciado o recolhimento do preparo, sob pena de não conhecimento do recurso, por deserção" (fls. 237-238, e-STJ), fato que a levou a recolher as respectivas custas, por receio de prejudicar o processamento do recurso. Ressalta, assim, fazer jus aos benefícios da assistência judiciária gratuita, em razão de sua situação financeira, conforme declaração de hipossuficiência juntada aos autos, acompanhada de outros documentos comprobatórios de tal condição.
+Contrarrazões apresentadas às fls. 272-283 e 285-290, e-STJ).
+O Ministério Público Federal ofertou parecer no sentido do provimento do recurso ordinário (fls. 303-308, e-STJ).
+É o relatório.
+Decido:
+A irresignação merece prosperar.
+1. Com efeito, consolidou-se, no âmbito da jurisprudência deste Tribunal Superior, a orientação assente de que se admite a impetração do writ perante os Tribunais de Justiça dos Estados para o exercício do controle de competência dos juizados especiais, ficando a cargo das Turmas Recursais, a teor do que dispõe a Súmula nº 376/STJ, os mandados de segurança que tenham por escopo o controle de mérito dos atos de juizado especial.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. COMPETÊNCIA. JUIZADOS ESPECIAIS. SÚMULA 376/STJ. CONTROLE DE MÉRITO DOS ATOS DE JUIZADO ESPECIAL.
+ ..
+3. Consoante a jurisprudência do STJ, admite-se a impetração de Mandado de Segurança perante os Tribunais de Justiça dos Estados para o exercício do controle de competência dos juizados especiais, ficando a cargo das Turmas Recursais, conforme dispõe a Súmula 376 do STJ, o Writ que tenha por escopo o controle de mérito dos atos de juizado especial. Precedente: RMS 46.955/GO, Rel. Min. Moura Ribeiro, Terceira Turma, DJe 17/8/2015.
+4. A necessidade da realização de prova pericial, por si só, não afasta a competência dos Juizados Especiais. Confira-se: RMS 39.071/MG, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 15/10/2018.
+5. A averiguação quanto ao mérito (necessidade ou não de prova pericial) remete à solução da competência às Turmas recursais de acordo com a Súmula 376/STJ e com o decidido pelo Tribunal a quo.
+6. Agravo Interno não provido.
+(AgInt no RMS 66.360/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2021, DJe 10/12/2021)  grifou-se
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. COMPETÊNCIA. ATOS DOS JUIZADOS ESPECIAIS.TRIBUNAL DE JUSTIÇA. POSSIBILIDADE. RMS 17.524/BA. VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL.
+ ..
+4. O entendimento do STJ é pela competência dos Tribunais de Justiça para realizar o controle de competência de seus Juizados Especiais. Tal entendimento consiste numa excepcionalidade à Súmula 376/STJ, que define que: "Compete a turma recursal processar e julgar o mandado de segurança contra ato de juizado especial". Tratando-se de excepcionalidade, esta limita-se às hipóteses em que se pretende equacionar e fazer cumprir a competência dos Juizados segundo a definição dada pela Constituição Federal e disciplinada pelo art. 3º da Lei 9.099/1995, conforme se depreende do RMS 17.524/BA. No mesmo sentido:
+AgInt no RMS 57.649/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 17.12.2019, DJe 3.2.2020; AgInt no RMS 57.285/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.9.2019, DJe 18.9.2019; RMS 59.378/CE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5.9.2019, DJe 11.10.2019.
+ ..
+7. Recurso Ordinário em Mandado de Segurança não provido.
+(RMS 61.323/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/05/2020, DJe 11/09/2020) grifou-se
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. WRIT CONTRA DECISÃO EM TURMA RECURSAL SOBRE COMPETÊNCIA DE JUIZADO ESPECIAL. ADMISSIBILIDADE. CAUSA MADURA. INAPLICABILIDADE.
+1. "A jurisprudência do STJ admite a impetração de mandado de segurança para que o Tribunal de Justiça exerça o controle da competência dos Juizados Especiais Cíveis e Criminais, vedada a análise do mérito do processo subjacente" (RMS 33.155/MA, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 29.8.2011).
+2. Inaplicável a regra da causa madura aos Recursos Ordinários em Mandado de Segurança. Precedentes do STJ.
+3. Recurso Ordinário parcialmente provido para determinar o processamento do writ no Tribunal de origem.
+(RMS 59,378/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2019, DJe 11/10/2019)  grifou-se
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. JUIZADO ESPECIAL. CONTROLE DE COMPETÊNCIA. MANDADO DE SEGURANÇA. CABIMENTO. IMPETRAÇÃO. TRIBUNAL DE JUSTIÇA. AÇÃO DE OBRIGAÇÃO DE FAZER. PORTABILIDADE. PLANO DE SAÚDE. COMPETÊNCIA. JUIZADO ESPECIAL. VALOR DA CAUSA. PERÍCIA. COMPLEXIDADE DA CAUSA. NÃO DEMONSTRAÇÃO. PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA.
+ ..
+3. Consolidou-se, no âmbito da jurisprudência deste Tribunal Superior, a orientação no sentido de que se admite a impetração de writ perante os Tribunais de Justiça dos Estados para o exercício do controle de competência dos juizados especiais, ficando a cargo das Turmas Recursais, a teor do que dispõe a Súmula nº 376/STJ, os mandados de segurança que tenham por objetivo o controle de mérito dos atos de juizado especial.
+ ..
+8. Recurso ordinário não provido.
+(RMS 48.413/MS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/06/2019, DJe 06/06/2019) grifou-se
+Assim, conforme afirmado pela recorrente na petição inicial do mandado de segurança, "o writ tem como objetivo o reconhecimento da competência dos Juizados Especiais Cíveis e, consequentemente, das Turmas Recursais, por meio do controle de competência, a fim de viabilizar o julgamento de mérito do Recurso Inominado interposto nos autos do processo nº 0005807-772018.8.27.2706" (fl. 5, e-STJ), de modo que compete ao Tribunal de Justiça estadual o processamento e julgamento da ação mandamental, na esteira da jurisprudência desta Corte.
+2. Ademais, à guisa de complementação, uma vez cassado o aresto hostilizado, a multa processual aplicada à recorrente, com fundamento no art. 1021, § 4º, do CPC, fica desconstituída.
+3. Por fim, com a baixa dos autos para o rejulgamento do agravo interno, deverá o Tribunal de Justiça local proceder à análise do pedido de concessão do benefício de assistência judiciária gratuita, como entender de direito.
+4. Do exposto, dá-se provimento ao recurso ordinário, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
