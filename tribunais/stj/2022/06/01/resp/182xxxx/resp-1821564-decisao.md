@@ -1,0 +1,15 @@
+DECISÃO
+ANTONIO SANDERLEI DOS SANTOS LIMA agrava da decisão que inadmitiu seu recurso especial, interposto em face de acórdão do Tribunal Regional Federal da 1ª Região.
+No apelo inadmitido, fundamentado no art. 105, III, "a", da CF, o insurgente apontou negativa de vigência aos arts. 61 do CPP e 109, V, e 117, IV, ambos do CP.
+O Ministério Público Federal postulou pelo desprovimento do recurso especial (fls. 649-650).
+Decido.
+Aduz a defesa ocorrência da prescrição da pretensão punitiva, tendo em vista que, entre a sentença condenatória e a presente data, haveriam transcorrido mais de 4 anos, uma vez que o acórdão confirmatório da condenação não tem condão de interromper o prazo prescricional.
+Não assiste razão à defesa nesse último ponto.
+Sobre o tema, relembro que o Plenário do Supremo Tribunal Federal compreendeu que o Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão, para fins de interrupção da prescrição. Por isso, o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, de acordo com o art. 117, IV, do Código Penal.
+O referido decisum foi exarado, por maioria, no julgamento do Habeas Corpus n. 176.473/RR, de relatoria do Ministro Alexandre de Moraes, o qual fixou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+Todavia, em que pese o acórdão confirmatório da sentença seja considerado como marco interruptivo, verifica-se a ocorrência da prescrição da pretensão punitiva.
+O recorrente foi condenado pelo delito previsto no art. 312 do CP a 2 anos e 4 meses de reclusão e 60 dias-multa, tendo os 4 meses sido acrescidos em razão da continuidade delitiva, motivo pelo qual a prescrição desse delito passa a regular-se pela pena imposta, cujo prazo é de 4 anos, conforme disposto nos arts. 109, V, e 110, § 1º, ambos do CP.
+Os fatos datam de maio de 2008, a denúncia foi recebida em 13/8/2010 (fl. 285), a sentença condenatória foi publicada 28/4/2014 (fl. 458) e o acórdão que confirmou a condenação, em sessão realizada no dia 5/3/2018 (fl. 543), e o acórdão que acolheu os embargos, em sessão realizada no dia 12/6/2018 (fl. 544).
+Assim, constata-se que, entre a data da sentença (28/4/2014) e a acórdão dos aclaratórios (12/6/2018) - já que "a análise dos embargos de declaração tempestivos e considerados admissíveis integra o julgamento de mérito da ação penal" (HC n. 401.091/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 23/10/2017)  -, transcorreram mais de 4 anos, circunstância que evidencia a ocorrência de causa extintiva da punibilidade, consistente na prescrição da pretensão punitiva estatal relacionada ao crime imputado ao recorrente.
+À vista do exposto, dou provimento ao recurso especial e declaro extinta a punibilidade de Antonio Sanderlei Dos Santos Lima, nos termos do art. 117, IV, do CP, pelo delito previsto no art. 312 do CP.
+Publique-se e intimem-se.
