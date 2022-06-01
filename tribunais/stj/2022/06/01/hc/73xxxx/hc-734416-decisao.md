@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor deDAYANNAGOMESLEANDROapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n.1.0000.22.025094-8/000).
+Depreende-se dos autos que, no dia 21/7/2021, foi decretada a prisão preventiva da paciente - e de outros corréus-pela prática, em tese,do crime do art. 35, c/c o art. 40, IV, ambos da Lei n. 11.343/2006 (associação para o tráfico de drogas majorado pelo emprego de armas de fogo).
+Segundo a denúncia, foram apreendidos aproximadamente 9kg (nove quilos) de maconha, 900g (novecentos gramas) decrack, 167g (cento e sessenta e sete gramas) de cocaína, além de outras 30 porções decrack. Apurou-se que "a associação criminosa composta pelos denunciados se utilizava de armas de fogo, como forma de intimidação da população local, bem como as utilizava para a prática de outros crimes"(e-STJ fl. 201).
+Impetrado habeas corpus na origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fl. 175):
+"HABEAS CORPUS" - ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - ALTERAÇÃO FÁTICA - PRISÃO PREVENTIVA - DESPROPORCIONALIDADE - REGIME PRISIONAL A SER FIXADO EM CASO DE CONDENAÇÃO - EXAME PREMATURO DA MATÉRIA DE FUNDO - INVIÁVEL PELA VIA DO "WRIT" - PEDIDO DE EXTENSÃO DE EFEITOS - IMPOSSIBILIDADE - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. Deve ser afastada, de plano, a alegação de desproporcionalidade da custódia cautelar em relação à futura pena a ser aplicada, por não ser possível analisar, nesse momento processual, o eventual regime prisional a ser fixado em caso de condenação, por implicar exame prematuro da matéria de fundo, inviável pela via do "habeas corpus". É inaplicável a extensão de efeitos da decisão que concedeu prisão domiciliar em favor de outro paciente quando constatada a ausência de identidade fática e jurídica em relação ao paradigma apontado.
+Daí o presentewrit, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Assere que "a paciente é mãe, não de uma, mas de duas crianças menores de 12 anos .. . Ademais, conforme também comprovado, é imprescindível para a continuidade do tratamento médico de C.R.L. que, conforme relatório colacionado na presente e documentação médica anexa, necessita de cuidados constantes para que seu frágil estado de saúde não apresente agravamentos importantes"(e-STJ fl. 10).
+Requer, liminarmente, que "seja determinada a substituição da prisão preventiva da paciente por prisão domiciliar, determinando o recolhimento do Mandado de Prisão preventiva existente.Alternativamente, requer que se conceda a extensão de benefícios dados à corré C.L.C. (doc. 10).No mérito:  requer que  sejam estabilizados os efeitos da medida liminar, concedendo a ordem pleiteada" (e-STJ fl. 17).
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou denegação dowrit.
+É o relatório.
+Decido.
+Depreende-se dos autos que o presente writé mera reiteração do pedido formulado no RHC n. 153.304/MG, também de minha relatoria, no qual recentementeproferi decisão negando provimento ao recurso.Assim, está patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
