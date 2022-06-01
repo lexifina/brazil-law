@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIARIOS S.A, contra decisão que deu parcial provimento ao recurso especial, para afastar a condenação da recorrente ao pagamento de danos emergentes, mantendo-se os ônus da sucumbência conforme determinado na origem.
+Nas razões dos aclaratórios (fls. 655-661), a parte embargante aponta a existência de contradição e omissão no julgado "quanto à impossibilidade de os juros de mora serem fixados em 1% ao mês, diante da aplicabilidade da taxa SELIC", bem como "quanto à circunstância incontroversa de que a matéria referente à indenização por danos morais decorrentes do atraso na entrega do imóvel foi expressamente tratada no v. acórdão recorrido, estando, portanto, devidamente prequestionada."
+É o relatório.
+DECIDO.
+2. Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se desde logo que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração, enumerados no art. 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo omissão a ser sanada.
+Confira, por oportuno, excerto do referido julgado:
+2. Inicialmente, observa-se que a matéria referente à indenização por danos morais decorrentes do atraso na entrega do imóvel, não foi objeto de discussão no acórdão recorrido, e o recorrente, nos embargos de declaração opostos às fls. 525-530, não levantou esse tema a fim de suprir eventual omissão. Portanto, não se configura o prequestionamento, o que impossibilita a apreciação de tal questão na via especial (Súmulas 282 e 356/STF).
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+ ..
+4. Por fim, no que se refere aos encargos moratórios invertidos, a Corte de origem assim dispôs (fls. 550-551):
+Em relação aos encargos moratórias invertidos, estabeleceu-se tão somente que a multa de 2% (dois por cento), prevista na cláusula 7 do contrato, deverá incidir mensalmente sobre as prestações adimplidas pelos consumidores no período de mora da ré, com acréscimo dos consectários legais ali previstos, a ser calculada em liquidação de sentença.
+Portanto, além de se tratar de questão atinente à previsão contratual, o tema igualmente não se amolda à análise devida em sede de juízo de retratação.
+O entendimento do Tribunal de piso se coaduna com o entendimento dessa Corte Superior no sentido de que "Somente na ausência de convenção em sentido contrário, a partir da vigência do Código Civil de 2002, os juros moratórios devem incidir segundo a variação da Taxa Selic" (AgInt no AREsp 1.129.884/AM, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2017, DJe de 02/02/2018).
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA. DIREITO CIVIL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. PROMESSA DE COMPRA E VENDA DE IMÓVEL NÃO REGISTRADA. AUSÊNCIA DE CIÊNCIA INEQUÍVOCA DO CONDOMÍNIO. RESPONSABILIDADE DO PROPRIETÁRIO E PROMITENTE-VENDEDOR. REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. TAXA SELIC PARA JUROS DE MORA AFASTADA DEVIDO À CONVENÇÃO EXPRESSA. CONSONÂNCIA DO ACÓRDÃO COM O ENTENDIMENTO DESTE SODALÍCIO. AGRAVO CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial é tempestivo. Novo exame do feito.
+2. Considera-se deficiente a fundamentação do recurso especial que alega violação do art. 1.022 do CPC sem demonstrar, de forma clara e objetiva, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido. Incidência da Súmula 284/STF.
+3. Conforme Tema 886/STJ, "Havendo compromisso de compra e venda não levado a registro, a responsabilidade pelas despesas de condomínio pode recair tanto sobre o promitente vendedor quanto sobre o promissário comprador, dependendo das circunstâncias de cada caso concreto; c) Se restar comprovado: (i) que o promissário comprador imitira-se na posse; e (ii) o Condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador."
+4. Na hipótese, o Tribunal a quo, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela legitimidade e responsabilidade do promitente-vendedor, proprietário do imóvel, pelas taxas condominiais devido à ausência de ciência inequívoca do condomínio quanto à transferência do bem. Pretensão de alterar esse entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+5. "Somente na ausência de convenção em sentido contrário, a partir da vigência do Código Civil de 2002, os juros moratórios devem incidir segundo a variação da Taxa Selic" (AgInt no AREsp 1.129.884/AM, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2017, DJe de 02/02/2018).
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e desprover o recurso especial.
+(AgInt nos EDcl no AREsp 1596382/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. ENTREGA DO IMÓVEL. ATRASO. RESCISÃO. COMISSÃO DE CORRETAGEM. RESTITUIÇÃO AO AUTOR. JUROS MORATÓRIOS. TAXA CONTRATADA. SELIC. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso de rescisão contratual por culpa da construtora, o comprador deve ser restituído da comissão de corretagem.
+3. O Superior Tribunal de Justiça consolidou o entendimento de que, na vigência do Código Civil de 2002, os juros moratórios devem ser pagos com base na taxa Selic, a não ser que outra taxa tenha sido contratada.
+4. Agravo interno não provido.
+(AgInt no REsp 1863961/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/06/2021, DJe 30/06/2021)
+O acórdão recorrido, portanto, encontra respaldo na jurisprudência da Casa, o que atrai a incidência da Súmula 83 do STJ.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+3. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
