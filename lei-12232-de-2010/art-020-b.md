@@ -1,0 +1,3 @@
+Art. 20-B. Para fins desta Lei, os serviços de comunicação institucional compreendem os serviços de relações com a imprensa e de relações públicas, assim definidos:
+I - relações com a imprensa: ação que reúne estratégias organizacionais para promover e reforçar a comunicação dos órgãos e das entidades contratantes com seus públicos de interesse, por meio da interação com profissionais da imprensa; e
+II - relações públicas: esforço de comunicação planejado, coeso e contínuo que tem por objetivo estabelecer adequada percepção da atuação e dos objetivos institucionais, a partir do estímulo à compreensão mútua e da manutenção de padrões de relacionamento e fluxos de informação entre os órgãos e as entidades contratantes e seus públicos de interesse, no Brasil e no exterior.
