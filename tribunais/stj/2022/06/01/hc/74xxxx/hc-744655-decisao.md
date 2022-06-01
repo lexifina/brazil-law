@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 703):
+HABEAS CORPUS Homicídio qualificado (artigo 121, § 2º, II e IV, do CP) Pleito de liberdade provisória. Pressupostos da segregação cautelar presentes. Paciente portador de mau antecedente. Inócuas outras medidas do artigo 319 do CPP Alegação de excesso de prazo para a formação da culpa. Inocorrência. Seguimento regular da ação penal. Peculiaridades do caso Ausente demonstração de desídia estatal Questão superada pelo encerramento da instrução. Súmulas nºs 52 e 64 do C. STJ Constrangimento ilegal não caracterizado Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente e pronunciado como incurso nas penas do art. 121, § 2º, II e IV, c/c art. 29, ambos do Código Penal.
+No presente writ, o impetrante alega que o paciente não foi preso em flagrante, mas que se apresentou espontaneamente, apontando a similitude fático-processual com o corréu, que responde ao processo em liberdade, de modo que requer a revogação da prisão preventiva.
+Na origem, os autos do processo 1500052-28.2021.8.26.0052 encontram-se conclusos para sentença, conforme informação processual eletrônica extraída do site do Tribunal a quo em 30/5/2022.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+No entanto, não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada nos seguintes termos (fl. 380):
+De outro lado, a instrução processual (destinada à correta apuração da verdade), em casos como o destes autos, reclama a custódia preventiva do indiciado RONIE, ora acusado, que, certamente, em liberdade, prejudicará o bom andamento do processo.
+Ressalte-se que, logo após os fatos, RONIE foragiu. Além disso, não se pode ignorar a existência de passagens criminais pelo acusado RONIE por porte ilegal de arma de fogo e tráfico de drogas (fls. 235), que evidenciam o risco concreto de reiteração delitiva.
+Quanto às medidas cautelares diversas da prisão, observo que se mostram, ao menos por ora, insuficientes, dada a gravidade do crime objeto desta ação, praticado com extrema violência contra a vítima, e que, a princípio, denota periculosidade incompatível com a confiança no autuado, necessária à efetividade daquelas medidas.
+Nestes termos, para a garantia da ordem pública e por ser necessário à instrução criminal, DECRETO A PRISÃO PREVENTIVA de RONIE JOSÉ DA SILVA
+Ao indeferir o pedido de revogação, o magistrado de primeiro grau consignou que (fl. 459):
+Em relação ao pedido de revogação da prisão preventiva do corréu RONIE, reporto-me à recente e concretamente fundamentada decisão de fls. 414, sendo imperiosa a manutenção da custódia cautelar, para a garantia da ordem pública, tendo em vista a gravidade dos fatos (homicídio praticado contra agente federal) e a possibilidade concreta de reiteração delitiva (fls. 395/400 - existência de anotações criminais pretéritas).
+Como se vê, os excertos apresentam fundamentação que devem ser entendidos como válidos para a prisão preventiva, tendo em vista, além da gravidade dos fatos, a reiteração delitiva do paciente, com passagens criminais por porte ilegal de arma de fogo e tráfico de drogas.
+Nesse sentido, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Por fim, no tocante à alegação de similaridade fático-processual com o corréu, vê-se que não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação das questões por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
