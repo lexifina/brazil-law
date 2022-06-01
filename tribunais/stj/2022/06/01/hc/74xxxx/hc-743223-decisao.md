@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RODRIGO PIVA VERONESI, contra atopraticado no transcurso dos autos do Recurso Especialn. 1.0518.15.010786-1/002, interposto no Tribunal de Justiça do Estado de Minas Gerais.
+Consta neste feitoque o ora Paciente foi condenado, em primeiro grau de jurisdição, "como incurso nas sanções do art. 180 do Código Penal, às penas definitivas de 01 (um) ano de reclusão, em regime aberto, substituída por prestação de serviços à comunidade, e 10 (dez) dias-multa, no valor unitário mínimo" (fl. 18)
+O Sentenciado interpôs recurso de apelação, que foi parcialmente provido pelaCorte local, "apenas para reconhecer a atenuante da confissão espontânea em favor do acusado, sem, contudo, reduzir a pena fixada, bem como a fim de conceder-lhe a suspensão do pagamento das custas processuais, mantidos os demais termos da r. sentença" (fl. 23).
+Neste habeas corpus, a parte Impetrante sustenta quea Defensoria Pública Estadual não interpôs recurso de agravo contra a decisão em que o recurso especial não fora admitido, a despeito do desejo do Paciente de recorrer -o que alegadamente constitui nulidade.
+Requer-se, liminarmente, a expedição de salvo conduto e, no mérito, a reabertura do prazo recursal para a Defensoria Pública.
+É  o  relatório.  Decido.
+O Impetrante pretende seja reaberto o prazo para a interposição de agravo em recurso especial. Ocorre que a Defensoria Pública foi cientificada da decisão que não admitiu em recurso especial em 06/05/2022 (fl. 4). Portanto, em razão da prerrogativa da contagem em dobro dos prazos recursais, no caso ainda não transcorreram 30 dias para a interposição.
+Cito o seguinte precedente,mutatis mutandis:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. DEFENSORIA PÚBLICA. PRAZO EM DOBRO. PETIÇÃO INTERPOSTA APÓS O LAPSO RECURSAL DE TRINTADIAS.INSURGÊNCIA DESPROVIDA.
+1. Nos termos do art. 5º da Lei n. 11.419/2006 e do art. 21 da Resolução n. 185do CNJ, nos processos judiciais eletrônicos a intimação dos atos processuais se efetiva com a consulta eletrônica realizada pela parte, que deve ocorrer em até 10 dias corridos, contados da data em que enviada a comunicação, inclusive no que se refere aos entes que gozam da prerrogativa da notificação pessoal, como ocorre com a Defensoria Pública, sob pena de considerar-se a intimação automaticamente realizada no término desse prazo.Precedentes.
+2. In casu, aintimação eletrônica da decisão que não admitiu o recurso especial foi enviada para a Defensoria Pública em 7.11.2019 e tacitamente efetuada em 18.11.2019, tendo o período recursal- 15 dias, contados em dobro- se exaurido em 18.12.2019, ao passo que o agravofoi interposto apenas em 19.12.2019, sendo, portanto, manifestamente intempestivo.
+3. Agravo regimental desprovido."(STJ, AgRg no AREsp n. 1.690.161/AL, relator Ministro Jorge Mussi, Quinta Turma, DJe de 16/9/2020; sem grifos no original.)
+Assim, não há interesse de agir na hipótese. A Defesa não indicou a constituição de ato coator, pois a conjuntura narrada na inicial (termo do prazo recursal) não tem reflexo na situação concreta dos autos.
+Nesse sentido, cito julgado,mutatis mutandis:
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.EXECUÇÃO PENAL. COMETIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. REAVALIAÇÃO DE ELEMENTOS DE AUTORIA E MATERIALIDADE. INADEQUAÇÃO DA VIA ELEITA. PERDA DOS DIAS REMIDOS NÃO DETERMINADA PELA JURISDIÇÃO ESTADUAL. AUSÊNCIA DE ATO COATOR, NO PONTO. MANIFESTAÇÃO DA PROCURADORIA-GERAL DA REPÚBLICA ACOLHIDA. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DOWRITQUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. O pedido de desconstituição da falta disciplinar, sob a alegação de que o Agravante não estaria envolvido em ato de subversão, não pode ser analisado. Na via eleita, por sua estreiteza, não é possível o revolvimento de fatos e provas. Precedentes do STF e do STJ.
+2.Não há interesse de agir no que diz respeito à alegação defensiva quanto à perda dos dias remidos, não determinada pela Jurisdição Estadual.
+3. Agravo regimental desprovido."(STJ, AgRg no HC 528.931/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/11/2020, DJe 27/11/2020; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento no art. 34, inciso XX, c.c. o art. 210, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. PEDIDO DE REABERTURA DE PRAZO PARA A INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL.PERÍODO QUE AINDA NÃO CHEGOU AO SEU TERMO.AUSÊNCIA DE ATO COATOR. INTERESSE DE AGIR NÃO DEMONSTRADO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
