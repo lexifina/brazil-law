@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUARA DOS SANTOS PEREIRA em que se aponta como autoridade coatora Desembargador do Tribunal de Justiça do Estado de Santa Catarina.
+Neste writ, o impetrante sustenta, em síntese, que: a) não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP; b) é suficiente a imposição de medidas cautelares diversas da prisão; c) a paciente é primária, de bons antecedentes e tem residência fixa; d) trata-se de mãe de uma criança com apenas 2 (dois) anos de idade e, por isso, tem direito à prisão domiciliar; e) deve haver "a extensão da decisão que concedeu a liberdade provisória a correu no mesmo processo" (e-STJ, fl. 6).
+Pleiteia "seja cassada a decisão que decretou a prisão preventiva, aplicando àpaciente a prisão domiciliar, expedindo-se alvará de soltura, ou que seja revogada a prisão preventiva, impondo-se as medidas cautelares que se fizerem necessárias" (e-STJ, fl. 23).
+É o relatório.
+De início, cumpre ressaltar que esta Corte tem entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Ocorre que, no tocante ao pedido de revogação da prisão preventiva em razão da ausência dos seus pressupostos, não se verifica, de plano, a ocorrência de flagrante ilegalidade apta a justificar a superação do referido óbice e o processamento desde writ para pronunciamento antecipado desta Corte.
+Quanto ao pedido de prisão domiciliar, por sua vez, é manifesta a ausência de interesse de agir desta impetração, pois, em consulta ao sítio eletrônico do Tribunal de origem (Processo n. 5051566-19.2022.8.24.0023), verifica-se que, em 27/5/2022, o Juízo de primeiro grau determinou a extensão dos efeitos dadecisão que beneficiou corré para substituir a segregação preventiva imposta à ora paciente por prisão domiciliar, ordenando, inclusive, a expedição de alvará de soltura.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
