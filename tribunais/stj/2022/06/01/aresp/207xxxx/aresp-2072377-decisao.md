@@ -1,0 +1,42 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JCA EMPREENDIMENTOS IMOBILIARIOS LTDA eIPE-OMNI INCORPORACAO E CONSTRUCAO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR DO DÉBITO PARA GARANTIR O CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS. CPC, ART. 523, § 1º.
+I. Não traduz pagamento voluntário apto a excluir a incidência da multa de 10% e dos honorários advocatícios de 10% previstos no artigo 523, § 1º, do Código de Processo Civil, depósito do valor do débito feito pelo executado com o objetivo de garantir o juízo e evitar a continuidade do cumprimento de sentença até o julgamento da impugnação apresentada.
+II. Agravo de Instrumento desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto noart. 523, §§, do CPC.
+Sustenta, em síntese, queo depósito do valor integral,no tempo e modo legais (conforme reconhecido no acórdão vergastado), não deixa margem à incidência de multa e honorários, e nem tampouco das penalidades sobre a totalidade do débito.
+Contrarrazões ao recurso especial às Fls. e-STJ 93-98.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3.É imprescindível que, no recurso especial fundado na alínea "a" do permissivo constitucional, sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo Tribunal de origem, cuidando a parterecorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento da recorrentequanto à indicação clara e específica do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinentea demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo Tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto.
+Com efeito, não basta a indicação genérica do dispositivo supostamente violado sem que se especifique qual o comando normativo está sendo afrontado,se o art. 523 do CPC emseu caput ou parágrafos- e, em sendo o caso destes, em qual dos parágrafos.
+Efetivamente, há deficiência na fundamentação recursal por negativa genérica de lei federal se os dispositivos tidos por violados encerram vários incisos ou parágrafos e a recorrente não especifica qual teria sido vulnerado pelo acórdão recorrido, e nem tampouco apresenta argumentos específicos para cada um dentre todos os possíveis no bojo de sua alegação quanto à "clara violação do acórdão recorrido ao Art. 523, §§, do CPC" (Fl. e-STJ 70).
+O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO MINISTRO PRESIDENTE DESTA CORTE PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DO DISPOSITIVO SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Os arts. 36 e 37 do CTN, tidos por contrariados, são normas cuja interpretação também depende dos preceitos estabelecidos nos seus incisos e parágrafos - nenhum apontado como violado.
+2. Com efeito, não basta a indicação genérica do dispositivo supostamente violado sem que se especifique qual o comando normativo está sendo afrontado, se seu caput, incisos ou parágrafos.
+Efetivamente, há deficiência na fundamentação recursal por negativa genérica de lei federal se os dispositivos tidos por violados encerram vários incisos ou parágrafos e a parte recorrente não especifica qual teria sido vulnerado pelo acórdão recorrido.
+Incidência da Súmula 284 do STF.
+3. Agravo Interno da Empresa desprovido.
+(AgInt no AREsp n. 1.504.650/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 29/11/2019) g.n.
+_____________________________________________________________
+PROCESSUAL CIVIL. ADMINISTRATIVO. INTERPOSIÇÃO SIMULTÂNEA DE RECURSOS. INVIABILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE NOVO RECURSO ESPECIAL. PREJUDICIALIDADE AO APELO NOBRE ANTERIORMENTE INTERPOSTO. PRECEDENTES. ALEGAÇÃO GENÉRICA DO DISPOSITIVO SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Dada a reforma da sentença por maioria e em atenção ao princípio da unirrecorribilidade, o único recurso do qual poderiam se valer os agravantes era dos Embargos Infringentes, o que conduz à inviabilidade de conhecimento do recurso especial interposto simultaneamente, mormente ante o fato de os recorrentes manejarem novo apelo nobre ao invés de o reiterar.
+2. A questão da multa diária não foi objeto do recurso especial passível de conhecimento, o que conduz à configuração de inovação recursal a suscitação de tal temática nas razões do regimental.
+3. Há de se observar que o caput dos arts. 16 e 44 da Lei 4.771/65, tidos por contrariados, não alberga a tese do recorrente de que é legítimo o cômputo da Área de Preservação Permanente na parte que integra a Área de Reserva Legal, porquanto o primeiro limita-se a estabelecer a possibilidade se supressão de florestas e formas de vegetação nativa, nos termos integrativos de seus incisos e parágrafos - nenhum apontado por violado -, enquanto o segundo possui comando genérico dirigido ao proprietário ou possuidor de imóvel rural, norma cuja interpretação também depende dos preceitos estabelecidos nos incisos e parágrafos.
+4. Com efeito, não basta a indicação genérica do dispositivo supostamente violado sem que se especifique qual o comando normativo está sendo afrontado, se seu caput, incisos ou parágrafos. Incidência da Súmula 284/STF.
+5. "Há deficiência na fundamentação recursal (negativa genérica de lei federal), se os dispositivos tidos por violados encerram vários incisos ou parágrafos e a recorrente não especifica qual teria sido vulnerado pelo acórdão recorrido. Aplicação da Súmula 284-STF" (REsp 32.582/SP, Rel. Ministro FERNANDO GONÇALVES, SEXTA TURMA, julgado em 02/12/1997, DJ 02/02/1998, p. 135).
+Agravo regimental improvido.
+(AgRg no REsp n. 1.396.737/SP, relator Ministro Humberto Martins, Segunda Turma, DJe de 13/11/2015)  g.n.
+_____________________________________________________________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INCLUSÃO DA ESPOSA NO POLO PASSIVO DECORRENTE DA AÇÃO DE DESAPROPRIAÇÃO INDIRETA QUE OSTENTA NATUREZA REAL. ROL DE DISPOSITIVOS AFRONTADOS, SEM INDIVIDUALIZAÇÃO. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. O recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 583.401/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/3/2015) g.n.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
