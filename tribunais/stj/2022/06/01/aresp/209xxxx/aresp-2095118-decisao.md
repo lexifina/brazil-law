@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLINI DOR CLINICA MEDICA S/S e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PRESTAÇÃO DE SERVIÇOS - Atendimento médico-hospitalar - Ação de cobrança de honorários médicos - Sentença de improcedência - Apelo dos autores - Adoção dos fundamentos da sentença como razões de decidir, nos termos do artigo 252 do Regimento Interno deste Tribunal de Justiça - Serviços prestados sem anuência expressa da paciente e sem prévia elaboração de orçamento - Apelação desprovida
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 884, 885 e 886 do CC e dissídio jurisprudencial, no que concerne à existência de enriquecimento sem causa, pois comprovada a contratação da parte recorrente e a desnecessidade de apresentação de orçamento prévio, trazendo os seguintes argumentos:
+Ora, ao julgar a ação improcedente, a 29ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo premiou a inadimplente que se beneficiou do serviço prestado e não o pagou, ou seja, deu um calote nos recorrentes com o aval do Poder Judiciário. Trata-se de uma decisão teratológica!
+Assim decidindo, a C. Câmara contrariou esse dispositivo legal que proíbe o enriquecimento sem causa.
+Ao se beneficiar dos serviços prestados pelos recorrentes sem a devida contrapartida, o pagamento, a recorrida acabou se enriquecendo ilicitamente. Tudo com o beneplácito do Judiciário. Verdadeira ilegalidade promovida pelo v. acórdão recorrido.
+ ..
+Os Termos de fls. 20/21 e 22/23, assinados pela recorrida como responsável/devedor, são claros ao responsabilizá-la pelo pagamento de todo o seu tratamento, conforme item 1:
+ ..
+De outra parte, esses mesmos documentos demonstram a contratação dos recorrentes, uma vez que no seu item 4, esclarecem que os honorários médicos não integram a conta hospitalar, uma vez que a prestação de seus serviços tem caráter particular:
+ ..
+Não obstante a aplicação do Código de Defesa do Consumidor nesta ação, a prestação de serviços médico-hospitalares possui particularidades que permitem o afastamento de várias obrigações, dentre elas a apresentação de orçamento prévio, para o próprio interesse do consumidor. (fls. 225-230).
+É, no essencial, o relatório. Decido.
+No que diz respeito à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Dos documentos de fls. 20/21 e 22/23 se extrai que a ré tinha ciência de que os serviços médicos prestados no Hospital Albert Einstein não estavam incluídos na conta hospitalar e, portanto, de que posteriormente teria que arcar com tais custos.
+Ocorre, porém, que não há comprovação de que a prestação dos serviços contou com a expressa autorização da paciente e nem de que a ela foi apresentado prévio orçamento.
+Não se desconhece que a natureza dos serviços médicos, sobretudo em ambiente hospitalar, muitas vezes dificulta a formalização da relação contratual e a até mesmo a obtenção da anuência do paciente ou de alguma pessoa da família.
+ ..
+Em resumo, a ausência de contrato entre as partes, de orçamento prévio e, sobretudo, da obtenção da expressa autorização da ré para a prestação dos serviços, a ratificação da sentença é medida que se impõe. (219-220).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Outrossim, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
