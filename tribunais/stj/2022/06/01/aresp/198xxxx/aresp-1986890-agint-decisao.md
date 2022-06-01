@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE SÃO PAULO - SP contra decisão da Presidência em que se conheceu do agravo para, com base na Súmula 7 do STJ e no fundamento constitucional do acórdão recorrido, não se conhecer de recurso especial.
+A parte agravante alega, em síntese, que o fundamento para a defesa da existência de incidência de ISS sobrecessão de direito de uso de marcatem fundamento na previsão do item 3.02 da Lista anexa da Lei complementar n. 116/2003.
+Passo a decidir.
+Exerço juízo de retratação.
+O Plenário do Supremo Tribunal Federal reconheceu a existência de repercussão geral da discussão jurídica acerca da "Incidência do Imposto Sobre Serviços (ISS) na cessão de direito de uso de marca" (Tema 1.210do STF), a ser decidida nos autos do RE1.348.288.
+Por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, RECONSIDERO a decisão às e-STJ fls. 502/505, tornando-a sem efeito, e DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
