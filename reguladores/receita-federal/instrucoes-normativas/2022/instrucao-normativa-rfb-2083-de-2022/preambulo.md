@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2083, de 23 de maio de 2022
+Altera a Instrução Normativa RFB nº 1.394, de 12 de setembro de 2013, que dispõe sobre a isenção do Imposto sobre a Renda e de contribuições aplicável às instituições que aderirem ao Programa Universidade para Todos.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 8º da Lei nº 11.096, de 13 de janeiro de 2005, resolve:
