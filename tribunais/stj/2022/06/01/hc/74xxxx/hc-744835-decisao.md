@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PETERSON EVARISTO ALVES contra decisão proferida pelo Desembargador Relator do HCn. 2094192-22.2022.8.26.0000 em trâmite noTribunal de Justiça do Estado de São Paulo.
+Consta nos autos que o Paciente foipreso preventivamente em 24 de agosto de 2021, acusado dasuposta prática dos delitos de feminicídio tentado e de homicídio tentado.
+Narra a parte Impetrante que o Acusadofoi detidonaSanta Casa de São Roque, mas transferido "para ala psiquiátrica do CHS Sorocaba, até que obteve alta e foi transferido para o CDP Sorocaba" (fl. 3).
+A Defesa impetrou habeas corpus, que teve seu pedido liminar indeferido às fls. 16-17.
+Nas razões destewrit, a parteImpetranteafirma que aPaciente sofre de constrangimento ilegal porsuposto excesso de prazo na elaboração de laudo médico. Sustenta que "por não se trata de causa complexa, a demora na liberação do laudo pericial revela-se atentatória à dignidade da justiça, devendo refletir na suspensão da preventiva concedida" (fl. 8).
+Assevera, ainda, que ascondições favoráveis do Paciente que "possui ensino superior, e trabalho fixo, trata-se de pessoa íntegra, de bons antecedentes e que jamais respondeu a qualquer processo crime conforme certidão negativa que junta em anexo" (fl. 8).
+Formula, ao final, a seguinte pretensão(fl. 10):
+"2. Requer ainda que seja imediatamente suspensa a prisão preventiva do paciente até que seja expedido o laudo pericial do IMESC.
+3. Requer a transferência do paciente para uma prisão especial, por se tratar de bacharel em Design Gráfico, subsidiariamente caso não tenha possibilidade por não haver prisão especial, pugna que o paciente cumpra a prisão em sua residência/domiciliar."
+É o relatório. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos.
+Com efeito, verifico que o Impetrante nãojuntou aos autos as cópias das peças processuais necessárias à compreensão da controvérsia, como a cópia do decreto de prisão preventiva e de eventuaisreavaliações,da decisão que deferiu o pedido de laudo pericial do IMESC, bemcomo docomprovante de graduação que ensejaria uma prisão diferenciada.
+Ocorre que, como se sabe, a"adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX -Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, o pedido não pode ser conhecido, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto, no mais, que não há óbice ao manejo de novowritpara a análise da controvérsia, desde que instruído adequadamente com a documentação devida.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
