@@ -1,0 +1,47 @@
+DECISÃO
+BANCO BRADESCO FINANCIAMENTOS S.A. (BRADESCO) propôs ação de busca e apreensão em face de DIRLEI MARIA MOSER (DIRLEI).
+A sentença julgou procedente o pedido inicial (e-STJ, fls. 123/128).
+O Tribunal de Justiça de Santa Catarina deu provimento ao recurso de apelação manejado por DIRLEI, para julgar improcedentes os pedidos iniciais, em acórdão assim ementado:
+APELAÇÃO CÍVEL  AÇÃO DE BUSCA E APREENSÃO  CÉDULA DE CRÉDITO BANCÁRIO (FINANCIAMENTO DE VEÍCULO)  SENTENÇA DE PROCEDÊNCIA  RECURSO INTERPOSTO PELA PARTE CONSUMIDORA.
+PRETENDIDA IMPROCEDÊNCIA DA DEMANDA  ARGUMENTAÇÃO NO SENTIDO DE QUE, ANTES MESMO DO AJUIZAMENTO DA "ACTIO" (30/07/2019), HOUVE QUITAÇÃO DA PARCELA MENCIONADA NA NOTIFICAÇÃO EXTRAJUDICIAL (14/4/2019)  EXAME DO CADERNO PROCESSUAL QUE EVIDENCIA A CIRCUNSTÂNCIA RELATADA PELA AGORA RECORRENTE  ADIMPLEMENTO DA PRESTAÇÃO QUE DEU AZO À NOTIFICAÇÃO EXTRAJUDICIAL COMPROVADO  REFORMA DO PRONUNCIAMENTO JUDICIAL APELADO IMPOSITIVO  NECESSIDADE DE RECONHECIMENTO DA INEXISTÊNCIA DE MORA  PEDIDO EXORDIAL JULGADO IMPROCEDENTE  NECESSIDADE DE DEVOLUÇÃO DO BEM À RÉ  HIPÓTESE DE INVIABILIDADE DE CUMPRIMENTO PELA VENDA QUE CULMINA DA CONDENAÇÃO DA AUTORA AO PAGAMENTO DOS ENCARGOS PREVISTOS NO ART. 3º, § §6º E 7º, DO DECRETO-LEI N. 911/1969  ÔNUS SUCUMBENCIAIS INVERTIDOS.
+É cediço que a constituição do devedor em mora constitui pressuposto processual da ação de busca e apreensão fundada no Decreto-Lei 911/1969.
+No caso "sub judice", em tese, estaria comprovada a mora mediante ato cientificatório assinado e recebido pela parte acionada no endereço informado quando da formalização do contrato.
+Nada obstante, resta evidenciado nos autos que, antes mesmo do ajuizamento da "actio", a ré efetuou pagamento da parcela de 14/5/2019 que deu ensejo à demanda.
+Sob esse prisma, inexistindo mora, é de ser julgada improcedente a presente ação de busca e apreensão (CPC, art. 487, I), com consequentedeterminação de devolução do veículo à parte ré.
+HONORÁRIOS ADVOCATÍCIOS RECURSAIS  INTEGRAL PROVIMENTO DO RECLAMO  ESTIPÊNDIO PATRONAL DEVIDO AO PROCURADOR DA PARTE VENCEDORA QUE DECORRE DA REDISTRIBUIÇÃO DA SUCUMBÊNCIA  DESCABIMENTO DE MAJORAÇÃO  ENTENDIMENTO ASSENTADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DOS EDCL. NO AGINT NO RESP. 1573573 / RJ.
+Em caso de integral provimento da insurgência, o estipêndio patronal devido ao causídico da parte vencedora decorre da redistribuição da sucumbência promovida pelo julgado, não havendo falar no estabelecimento de honorários recursais(e-STJ, fls. 187/188).
+Os embargos de declaração interpostos porBRADESCO foram acolhidos, com efeitos infringentes, para o fim de restabelecer a sentença de primeiro grau, nos termos do seguinte sumário:
+EMBARGOS DECLARATÓRIOS EM APELAÇÃO CÍVEL  AÇÃO DE BUSCA E APREENSÃO  SENTENÇA DE PROCEDÊNCIA E ACÓRDÃO DE IMPROCEDÊNCIA DA "ACTIO"  RECURSO DA CASA BANCÁRIA.
+ALEGADA OMISSÃO NO ARESTO RELATIVO À COMPROVAÇÃO DA CONSTITUIÇÃO EM MORA DA DEMANDADA ATRAVÉS DA NOTIFICAÇÃO EXTRAJUDICIAL QUE INFORMOU A NECESSIDADE DE ADIMPLEMENTO DAS PARCELAS VENCIDAS E VINCENDAS  REGULARIDADE DO ATO NOTIFICATÓRIO  CARTA REGISTRADA ENCAMINHADA E RECEBIDA NO ENDEREÇO DA DEVEDORA QUE APONTA O INADIMPLEMENTO NÃO SÓ DA PRESTAÇÃO N. 2, QUITADA ANTES DO AJUIZAMENTO DA DEMANDA, COMO TAMBÉM DAS PARCELAS SUBSEQUENTES  PORTANTO, NOTIFICAÇÃO QUE SE PRESTA À COMPROVAÇÃO DA MORA DA ACIONADA EM RELAÇÃO À FALTA DE PAGAMENTO DAS DEMAIS PRESTAÇÕES  MANUTENÇÃO DA SENTENÇA DE PRIMEIRO GRAU  ACLARATÓRIOS PROVIDOS.
+Consoante o art. 1.022 do Código de Processo Civil, é cabível a oposição de embargos declaratórios contra as decisões judiciais em que se constate a ocorrência de obscuridade, contradição, omissão ou erro material, sendo inviável o manejo visando à rediscussão de assertivas outrora analisadas.
+No caso "sub judice", a notificação extrajudicial encaminhada pela instituição financeira serviu para cientificar a devedora quanto ao débito da parcela com vencimento em "14/05/2019 e demais subsequentes".
+Dessarte, em que pese a parcela vencida em maio de 2019 tenha sido quitada antes do ajuizamento da demanda, não há negar o fato de o ato notificatório demonstrar a impontualidade das prestações referidas no petitório inicial e no demonstrativo de débito colacionado aos autos.
+Logo, válido o ato notificatório, tem-se por devidamente constituída em mora adevedora, merecendo manutenção a sentença de primeiro grau que julgou procedente a demanda.
+Desse modo, os aclaratórios devem ser acolhidos com efeitos infringentes(e-STJ, fls. 218/225).
+Em seu recurso especial, manejado com base nas alíneasaecdo permissivo constitucional,DIRLEI alegou dissídio interpretativo e ofensa aosarts. 113, 187, 421 e 422, 1.425, todos do CC/02;942, VII, e 387, § 2º, ambos do NCPC; e 1º, § 7º, 2º, § 2º, e 3º,§ 2º, todos do DL nº 911/69(e-STJ, fls. 235/249).
+O apelo nobre não foi admitido pelo TJSC porincidência daSúmulanº 284 do STF (e-STJ, fls. 266/268).
+Ainda inconformado,DIRLEI manifestou o presente agravo, em cujas razões, além de reiterar o seu apelo nobre, aduziu, em síntese, que (i) aquestão federal está bem delineada na petição do Recurso Especial, não havendo qualquer motivo razoável para impedir seu conhecimento pelo Superior Tribunal de Justiça; (ii) todas as alegações de violação a dispositivo de lei federal, bem como o dissídio jurisprudencial foram deduzidos de modo inteiramente, conforme os requisitos legais, regimentais e sumulares; e (iii) de forma alguma viga este fundamento, pois a configuração da fundamentação no Recurso Especial não depende da menção expressa dos dispositivos legais tidos por vulnerados, mas bastando apenas que a matéria correspondente tenha sido enfrentada pelo Acórdão recorrido(sic., e-STJ, fls. 275/281).
+A contraminuta foi apresentada (e-STJ, fls. 290/297).
+É o relatório.
+DECIDO.
+O recurso não comporta conhecimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, poisDIRLEI não infirmou seus esteios, na medida em que não refutou de forma arrazoada o óbice pela incidência daSúmulanº 284 do STF, ao caso.
+Em suma,DIRLEI limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Na espécie, como se sabe, DIRLEI, além de indicar as normas tidas por violadas,deveria ter explicitado os motivos pelos quais o Tribunal catarinense teria violado tais dispositivos de lei, de modo a afastar a deficiência de fundamentação do recurso especial (Súmula nº 284 do STF), o que não foi feito.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apeloextremo, ônus do qual não se desincumbiu a parte insurgente.Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Nessas condições, nos termos do art. 932, III, do NCPC,NÃO CONHEÇOdo agravo.
+Considerando a aplicabilidade das regras do NCPC e o não conhecimentodorecurso,MAJOROem 5% (cinco por cento)os honorários advocatícios anteriormente fixadosemfavor deBRADESCO, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partesde que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC.AGRAVO NÃO CONHECIDO.
