@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ALEXANDRE CARLOS MARQUES CARVALHO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. CONTRATO DE FINANCIAMENTO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. PAGAMENTO DO DÉBITO APÓS A CITAÇÃO. CONDUTA QUE IMPORTA EM RECONHECIMENTO JURÍDICO DO PEDIDO. EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DO MÉRITO. ARTIGO 487, INCISO III, ALÍNEA "A", DO CPC. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 3º, §6º, DO DECRETO-LEI 911/69. IMPOSSIBILIDADE. AUSÊNCIA DE IMPROCEDÊNCIA DO PEDIDO. REQUISITO ESSENCIAL PARA A INCIDÊNCIA DA PENALIDADE. RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente, dissídio jurisprudencial,em relação a interpretação do artigo 3º,§6º, do Decreto -Lei nº 911/69, uma vez que o acórdão objurgado afastou a aplicação da multa ante a improcedência da pretensão.
+Contrarrazões ao recurso especial às fls. 90-93.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+O Tribunal de origem ao apreciar o feito reconheceu que houve a purgação da mora com o pagamento integral da obrigaçãoe por consequência lógica julgado improcedente a pretensão e por isso manifestamente descabida a aplicação da multa.
+Compulsando os autos observa-se que foi proferida sentença de procedência do pedido inicial, de busca e apreensão, pela qual foram consolidadas, em favor do credor, a propriedade e a posse plena e exclusiva do bem alienado fiduciariamente, em razão da parte devedora não ter quitado a integralidade do débito, que abrangia as parcelas vencidas e vincendas, mas tão somente uma prestação, o que não seria suficiente para a purgação da sua mora.
+O acórdão que julgou a apelação interposta pelo devedor entendeu que houve purgação da mora com o pagamento integral do débito.
+A decisão impugnada, por sua vez, consignou queapesar da agravante fundamentar seu pedido na alegação de que a ação teria sido julgada procedente, o que não ocorreu, tem razão a respeito da impossibilidade de aplicação da multa, já que a ação não foi julgada improcedente.
+3. Logo, inviável a apreciação do pedido pela alínea "c" do permissivo constitucional, uma vez ser impossível analisar a similitude fática entre as causas, pois para apreciar a alegação da parte de que a causa foi julgada improcedente seria necessário o reexame de provas, ante o entendimento da Corte de origem em sentido contrário, o que éinviável em razão da Súmula 7/STJ e por tal razão a apreciação da pretensão com base na alínea "c", resta prejudicada.
+Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
