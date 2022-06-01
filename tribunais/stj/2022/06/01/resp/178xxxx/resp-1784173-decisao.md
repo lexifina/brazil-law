@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se derecurso especial interposto contra acórdão doTJSP assim ementado (e-STJ fl. 129):
+RECUPERAÇÃO JUDICIAL. STAY PERIOD. PRORROGAÇÃO JUSTIFICADA. REDUÇÃO, TODAVIA, DO LAPSO DA PRORROGAÇÃO. RECURSO PARCIALMENTE PROVIDO.
+Prorrogação dostay perioddeferida. Prazo que admite prorrogação, desde que não haja conduta desidiosa da empresa em recuperação judicial, do que não cuida o caso dos autos. A prorrogação não se aplica aos créditos extraconcursais cedidos em alienação fiduciária. Nego provimento provido, com observação. (sic)
+Cuida-se, na origem, de agravo de instrumento interposto por BANCO SAFRA S.A. contra decisão que, nos autos da recuperação judicial das recorrentes, deferiu o pedido de dilação do prazo de suspensão, para o processamento da recuperação judicial (stay period), por mais 180 (cento e oitenta) dias.
+Alegou o então agravante a ilegalidade da prorrogação do prazo previsto no art. 6º, § 4º, da Lei n. 11.101/2005, bem como aimpossibilidade de submissão de seus créditosao comando da decisão agravada, uma vez que os contratos celebrados com as recuperandas "e dos quais se originaram os créditos do Banco Safra são garantidos por cessão fiduciária de recebíveis em garantia, devidamente registrada no ofício de títulos e documentos da sede das Agravadas em data anterior ao ajuizamento de seu pedido de Recuperação Judicial - circunstância que torna os créditos do Agravante manifestamente extraconcursais, a teor do que dispõe o art. 49, § 3º, da Lei 11.101/05"(e-STJ fl. 9).
+O recurso foi desprovido, nos termos da ementa transcrita, mas com observação "no sentido de que ostaynão se aplica aos créditos extraconcursais especialmente cedidos em alienação fiduciária" (e-STJ fl. 138).
+Os embargos de declaração foram rejeitados (e-STJ fls. 155/160).
+Nas razões recursais (e-STJ fls. 163/183), fundamentadas no art. 105, III, "a" e "c", da CF, as recorrentesapontam dissídio jurisprudencial e ofensa aos arts. 6º, § 4º, 47 e 49, § 3º, da Lei n. 11.101/2005, sustentando, em síntese, "que o prazo de suspensão das ações contra empresa em recuperação judicial destina-se também aos créditos extraconcursais" (e-STJ fl. 177), inclusive àqueles cedidos em alienação fiduciária.
+Foram apresentadas contrarrazões (e-STJ fls. 237/246).
+As recorrentes, intimadas, por meio do despacho de fls. 273/274 (e-STJ), para que se manifestassem se persistia o interesse no julgamento do recurso, diante da possível perda do seu objeto, quedaram-se silentes, consoante certidões de fls. 276/77 (e-STJ).
+Tendo em vista a inércia da parte recorrente, que deixou transcorrer in albis o prazo assinalado, bem como odecurso do prazo de suspensão para o processamento da recuperação judicial em discussão,constata-se a superveniente falta de interesse processual, por perda de objeto.
+Ante o exposto, JULGO PREJUDICADO o recurso por perda de objeto.
+Publique-se.
