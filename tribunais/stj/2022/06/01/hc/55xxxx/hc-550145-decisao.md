@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CARLOS RIBEIRO DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n.0021744-27.2017.8.19.0042, de relatoria do Desembargador Cláudio Tavares de Oliveira Júnior).
+Depreende-se dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicialmente fechado, e ao pagamento de 1.200 dias-multa, pela prática dos delitos tipificados nos arts. 33, caput e 35, caput, da Lei n. 11.343/2006 (e-STJ fl. 34), pois, nos termos da peça acusatória, juntamente com outro corréu, foi surpreendido na posse de 24,8g (vinte e quatro gramas e oito decigramas) de cocaína distribuídos em 62 (sessenta e duas) cápsulas tipo "eppendorf" (e-STJ fls. 20/23).
+Interposta apelação, os desembargadores da Oitava Câmara Criminal do Tribunal de Justiça negaram provimento ao recurso defensivo (e-STJ fls.29/43). Recebeu o acórdão esta ementa (e-STJ fls. 29/34):
+APELAÇÃO. CONDENAÇÃO PELOS DELITOS DE TRÁFICO DE DROGAS E DE ASSOCIAÇÃO PARA A SUA PRÁTICA.RECURSOS DAS DEFESAS PUGNANDO PELA ABSOLVIÇÃO, POR FRAGILIDADE DO ACERVO PROBATÓRIO.ALTERNATIVAMENTE, REQUEREM A APLICAÇÃO DO REDUTOR DE PENA, PREVISTO NO ARTIGO 33, § 4º, DA LEI Nº 11.343/06, E REDUÇÃO DA REPRIMENDA, ASSIM COMO A CONCESSÃO, AO RÉU CARLOS, DO DIREITO DE APELAR EM LIBERDADE. O ACUSADO LUIZ FERNANDO PEDE, AINDA, A INCIDÊNCIA DA ATIPICIDADE DA CONDUTA QUANTO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO E A CONVERSÃO DA SANÇÃO CORPORAL POR RESTRITIVA DE DIREITOS.APELOS DEFENSIVOS A QUE SE NEGA PROVIMENTO.
+Do pedido de absolvição.
+Sorte não assiste às defesas técnicas, quando requerem a absolvição dos acusados.
+A materialidade e a autoria delitivas de mercancia ilícita de substância entorpecente e de associação para a sua prática foram absolutamente comprovadas na hipótese dos autos, especialmente, pelos depoimentos prestados em Juízo, aos quais corroboram as demais provas do processo.
+Ao prestar depoimento em Juízo, sob o crivo do contraditório, os policiais militares responsáveis pelas prisões, narraram detalhadamente os fatos, esclarecendo que estavam subindo o Morro do Alemão, em Petrópolis, quando se depararam com os dois acusados e estes se assustaram com a chegada da guarnição.
+Durante a revista pessoal, os militares encontraram com Carlos, dentro de sua calça, um saco, contendo cerca de 60 cápsulas de cocaína. Já com Luiz Fernando nada foi encontrado. Ao serem indagados, disseram que compraram a substância com "Dico" e "Lolão", para revenda." Já a testemunha Eliana Araújo Carneiro disse que é proprietária de uma clínica de reabilitação para dependentes químicos, onde o réu Carlos esteve internado por quatro meses, não completando o tratamento.
+Nos seus interrogatórios, os apelantes afirmaram que a droga lhes pertencia, sendo metade de cada um, para uso pessoal.
+Em que pesem as alegações do acusado Carlos, no sentido de que a sentença se baseou em uma "suposição genérica" ao considerar as declarações da testemunha de defesa Eliana, cumpre ressaltar que a referida testemunha, apenas, confirmou que o réu é dependente químico e, conforme bem destacado na sentença, "não é incomum que os pequenos traficantes se valham da atividade de tráfico para conservara o seu vício".
+A senhora Eliana, ao ser inquirida pelo Juízo, esclareceu, inclusive, que não tinha condições de informar sobre as atividades do acusado fora da clínica, podendo responder, somente, sobre o que ocorre dentro da casa de recuperação, a qual administra.
+Por sua vez, importa destacar a validade das declarações das testemunhas policiais, especialmente, quando os relatos dos agentes da lei encontram-se em harmonia com as demais provas dos autos, o que se verifica no presente feito. Incidência do Enunciado nº 70 da Súmula da Jurisprudência Predominante do Tribunal de Justiça doEstado do Rio de Janeiro, verbis: O fato de restringir-se a prova oral a depoimentos de autoridades policiais e seus agentes não desautoriza a condenação.
+Portanto, diante do irrefutável conjunto fático probatório coligido nos autos, correto se mostra o juízo de reprovação, o que torna, pois, impossível a absolvição dos apelantes da pena do delito previsto no artigo 33 da Lei nº 11.343/06, com base na ausência de provas alegada pelas defesas.
+Igualmente, as circunstâncias fáticas delineadas revelam, com clareza, o animus associativo, consistente no acordo de vontades entre os réus, com caráter de estabilidade, de modo permanente, para a consecução de um fim comum, não havendo de se falar em atipicidade da conduta delituosa.
+In casu, os recorrentes foram presos no interior do Morro do Alemão e, ao serem abordados, ambos admitiram aos policiais militares que estavam juntos e que venderiam a droga no bairro do Bonfim, em Petrópolis. Os réus disseram, ainda, que não era a primeira vez que compravam o material ilícito naquela comunidade para revender.
+Quanto ao pedido do apelante Carlos, de desclassificação para uso pessoal de drogas, cumpre consignar que o agir pelo acusado não se adequa à tipificada no artigo 28 da Lei de Drogas.
+Isto porque, fosse ele mero usuário de drogas, não estaria com a quantidade de material ilícito apreendido pelos policiais, qual seja, 24,8g (vinte e quatro gramas e oito decigramas) de Cloridrato de Cocaína, divididos em 62 (sessenta e duas) cápsulas, ostentando os dizeres "CV TIM MAIA 5", o que torna sua versão ainda mais inverossímil de consumo próprio.
+Assim, a condenação pelos delitos de tráfico de drogas e de associação para a sua prática é medida que se impõe.
+Da aplicação da causa especial de diminuição de pena, prevista no artigo 33, § 4º, da Lei nº 11.343/06.
+Igualmente, não merece acolhimento a pretensão recursal defensiva.
+In casu, a quantidade de cocaína apreendida não pode ser considerada ínfima, aliada às circunstâncias da prisão, que não são favoráveis aos réus, pois evidenciam a dedicação dos dois a atividades criminosas.
+Segundo as testemunhas de acusação, o Morro do Alemão, onde os recorrentes se encontravam transportando o material ilícito, é um dos lugares cadastrados como pertencente a organizações criminosas da Capital.
+Note-se que a regra excepcional do artigo 33, § 4º, da Lei 11.343/2006 destina-se ao pequeno traficante, aquele que inicia sua vida no comércio ilícito de entorpecentes, geralmente para viabilizar seu próprio consumo, e não para os que, comprovadamente, já fazem do crime seu meio habitual de vida.
+Ressalte-se, ainda, que a primariedade e a ausência de maus antecedentes dos apelantes, não autorizam, por si sós, a aplicação da causa de diminuição de pena, considerando as circunstâncias da prisão em flagrante e a condenação pela prática do crime inserto no artigo 35 da Lei de Drogas.
+Da dosimetria.
+Não merece retoque as penas aplicadas, eis que fixadas no mínimo legal, sem alteração nas fases intermediárias, ante a ausência de circunstâncias modificadoras.
+Do regime prisional.
+Não pode prosperar o pleito de abrandamento.
+Quanto ao regime prisional, no caso em exame, diante das circunstâncias do caso concreto e do quantum da reprimenda, deve ser mantido o regime inicial fechado, pois afigura-se o mais adequado para atender a finalidade da pena, cujos aspectos repressivos e preventivos ficariam sem efeitos na hipótese de um regime mais brando, ante a possibilidade dos réus não serem suficientemente intimidados a não mais delinquirem.
+Da substituição da pena privativa de liberdade por restritiva de direitos.
+A substituição da pena privativa de liberdade por restritiva de direitos dependeria do preenchimento dos requisitos previstos no art. 44, do Código Penal, o que, in casu, não ocorre, somando-se ao quantum da reprimenda estabelecida aos réus.
+Do direito de recorrer em liberdade.
+Por derradeiro, o douto Magistrado a quo, ao negar aos réus o direito de apelarem em liberdade, afirmou que assim o fazia por permanecerem inalteradas as circunstâncias fáticas que motivaram a sua prisão cautelar, ratificando a presença dos requisitos autorizadores presentes no art. 312, do CPP.
+Assim, não merece prosperar o inconformismo da defesa do acusado Carlos, vez que, na hipótese em testilha, a permanência do recorrente no cárcere restou motivada em sentença penal condenatória.
+DESPROVIMENTO DOS RECURSOS.
+Neste writ, a defesa aponta constrangimento ilegal decorrente da condenação do paciente pelo delito de associação para o tráfico de drogas.
+Sustenta que "ainda pende de análise recursal, o que o torna presumidamente inocente, nos termos do artigo 5º, LVII da Constituição Federal, já que não houve o trânsito em julgado" (e-STJ fl. 14).
+Ressalta que "o paciente é presumidamente inocente nos termos da Constituição Federal, posto que pende análise de Recurso Especial no processo nº 0021744-27.2017.8.19.0042" (e-STJ fl. 15), além de, no caso, não estarem presentes os requisitos ensejadores da prisão preventiva.
+Reforça que "há fortes indícios em matéria probatória de que o paciente não detinha o animus associandi para a prática do crime do artigo 35 da Lei de Drogas, de modo que os próprios policiais em audiência confirmaram a tese defensiva, inclusive disseram que não detinham conhecimento de que ambos os envolvidos no crime exerciam a traficância, tratando-se, pois, de abordagem fortuita em comunidade do município de Petrópolis-RJ" (e-STJ fl.15), além de o próprio Ministério Público estadual, em suas contrarrazões, ter opinado pela aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, o que afasta a condenação pela associação para fins de tráfico de entorpecentes.
+Dessa forma, requer, liminarmente, a soltura do paciente. No mérito, postula ele "responda ao processo em liberdade, posto que é presumidamente inocente e não estão presentes os requisitos da prisão preventiva" (e-STJ fl. 19).
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento dohabeas corpus.
+É o relatório.
+Decido.
+Em consulta ao sítio processual desta Corte superior, constata-se que a defesa do paciente interpôs agravo em recurso especial (AREsp n. 1.649.350/RJ) contra decisão que inadmitiu o recurso especial.
+O agravo em recurso especial não foi conhecido em 14/2/2020, com trânsito em julgado em 27/2/2020.
+Dessa forma, nota-se que a condenação tornou-se definitiva, não havendo falar em prisão preventiva ou direito de recorrer em liberdade.
+Ante o exposto,não conheçodohabeas corpus.
+Publique-se. Intimem-se.
