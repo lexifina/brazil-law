@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. HOMOLOGAÇÃO DO LAUDO PERICIAL. Observa-se que o perito procedeu ao cálculo dentro dos parâmetros das decisões transitadas em julgado, explicando o método utilizado para cumprir as determinações judiciais. Mostrando-se corretas as conclusões do perito e, por consequência, a homologação do valor apresentado. Agravo de instrumento desprovido.
+A parte agravante sustenta ofensa aos arts. 5º doDecreto-Lei n. 413/1969 e 473, IV, do Código de Processo Civil.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto à alegada violação do art. 5º do Decreto-Lei n. 413/1969, pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+No que se refere ao art. 473, IV, do Código de Processo Civil, assim se manifestou a Corte de origem, inverbis:
+Primeiramente, há de se por em destaque, que a sentença de Mov. 1.2 e o acórdão de Mov. 14.1, ora em liquidação, devem ser fielmente cumpridos, sem restrições, até porque não se admite qualquer discussão, uma vez que já restaram definitivamente julgados.
+Em segundo lugar, ressalto que na execução do múnus que lhe fora confiado, o Senhor perito judicial elaborou laudo pericial, com demonstrativo de cálculo ,indicando com clareza a metodologia utilizada, bem como, procedeu aos esclarecimentos referente as manifestações das partes.
+Dessa feita a perícia judicial, de forma técnica, em relação à comissão de permanência, nos esclarecimentos de Mov. 195.1, aponta que:
+"(..)Pois bem, a resposta para o questionamento anterior é que, muito embora o Réu não tenha especificado a cobrança de comissão de permanência, em seus demonstrativos, para chegar ao valor final indicado originalmente pelo Réu, este Perito teve que atualizar o saldo devedor utilizando-se no período de comissão de permanência de 1,357615%a. m. (média), juros moratórios de 1% a. a. e multa contratual de 10%. Ora, se o Réu não tivesse cobrado comissão de permanência, evidente que o cálculo do APÊNDICE V não chegaria a saldo zero, mesmo valor do demonstrativo original do Réu.
+Diante do exposto, novamente este subscritor afirma que seus cálculos periciais apresentados não necessitarem de nenhuma eventual adequação, pois estes consideram as previsões contratuais e as decisões proferidas na presente demanda.(..)."
+Dessa feita, observa-se que o perito procedeu ao cálculo dentro dos parâmetros das decisões transitadas em julgado, explicando o método utilizado para cumprir as determinações judiciais. Mostrando-se corretas as conclusões do perito e, por consequência, a homologação do valor apresentado, apontando o crédito do agravado.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
