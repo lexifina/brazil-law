@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo Estado de Goiás, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal
+Na origem, foi interposto agravo de instrumento pelo Estado de Goiáscontra decisão proferida pelo Juízo da 6ª Vara da Fazenda Pública Estadual da Comarca de Goiânia, nos autos do cumprimento de sentença ajuizada contra si pelo Sindicato dos Peritos Criminais e Médicos Legistas do Estado de Goiás - SINDPERICIASGO e pela Associação dos Peritos em Criminalística do Estado de Goiás - ASPECGO, em razão da rejeição da impugnação executiva apresentada pelo ente estatal, determinando o cumprimento das obrigações de fazer constante dospedidos da inicial.
+O Tribunal de Justiça do Estado de Goiásnegou provimento ao agravo, conforme a ementa a seguir (fl. 65):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTODE SENTENÇA. PRELIMINAR DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AFASTADA. AUSÊNCIA DE OBRIGAÇÃO DE FAZER. MATÉRIA ACOBERTADA PELO MANTO DA COISA JULGADA. EXCESSO DE EXECUÇÃO. INEXISTÊNCIA DE PLANILHA E PROVAS DE PAGAMENTO DAS DIFERENÇAS REMUNERATÓRIA. DECISÃO MANTIDA.
+1. Não há ofensa ao princípio da dialeticidade se as razões recursais impugnam os fundamentos de decidir constantes da decisão agravada.
+2. Observa-se que não há mais o que se questionar acerca dos percentuais da perda remuneratória dos substituídos, pois se trata de questão preclusa, não podendo agora ser arguida nesta fase do processo, onde se busca tão somente o cumprimento da sentença, a qual inclusive foi clara e expressa em julgar procedentes os pedidos iniciais, logo os percentuais descritos pelos agravados (0,15% e 0,12%) devem ser incorporados aos vencimentos dos beneficiados pela sentença, tendo em vista a coisa julgada.
+3. Malgrado o agravante alegue a existência de excesso na execução, não juntou planilha detalhando o pagamento das perdas concedidas por meio de sentença transitada em julgado. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Opostosembargos de declaração, foram estes rejeitados.
+Contra a decisão cuja ementa encontra-seacima transcrita, foi interposto recurso especial,sustentandoviolação dos arts. 489 e 1.022CPC/2015, sob argumento de omissão no julgado.
+Sustenta ainda violação doart. 803 do CPC/2015, aduzindo para tanto que o "a ausência de definição quanto à certeza e liquidez da obrigação constitui questão de ordem pública, na forma do artigo 803 do CPC, que não foi abordado no acórdão." (fl. 142)
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo orecorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+Contrarrazões apresentadas pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que oagravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Da análise do acórdão, no que tange a indicada violação dos arts. 489 e 1.022do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação deste Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados."(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação doembargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais,verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nodispositivolegal apontado como violado, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe:
+Súmula n. 211
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
