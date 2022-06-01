@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Lucas Henrique Mateus da Silva Rodrigues, réu em ação penal que apura a prática do crime de tráfico de drogas (0,59 g de crack - fl. 138).
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo - no HC n. 2275928-41.2020.8.26.0000 (fls. 227/231), que manteve a tramitação da Ação Penal n. 1503367-35.2020.8.26.0073, da 2ª Vara Criminal da comarca de Avaré/SP.
+Alega-se constrangimento ilegal consistente em ausência de justa causa para prosseguimento da ação penal, ao argumento de insignificância do tráfico de drogas, e possibilidade de desclassificação da conduta delitiva para o delito de porte de entorpecente para consumo pessoal (art. 28 da Lei n. 11.343/2006).
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, para rejeitar a denúncia e trancar a ação penal ou, subsidiariamente, seja procedida à desclassificação da imputação inicial do art. 33 para o art. 28 da lei de drogas (fl. 11).
+Em 5/2/2021, foi indeferido o pedido liminar (fls. 237/238).
+Prestadas informações pelo juízo de primeiro grau (fls. 242/244), o Ministério Público Federal opinou pelo não conhecimento do presente writ (fl. 249).
+É o relatório.
+Busca a impetração o trancamento de ação penal - que apura a prática do crime de tráfico de drogas (0,59 g de crack - fl. 138) -, ao argumento de ausência de justa causa para prosseguimento da ação penal, por aplicação do princípio da insignificância, e, subsidiariamente, a desclassificação da conduta.
+Inicialmente, registre-se que, após consulta ao endereço eletrônico do Tribunal estadual, foi prolatada sentença na Ação Penal n. 1503367-35.2020.8.26.0073, condenando o paciente à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, substituída pelas penas restritivas de direito de prestação de serviços à comunidade e prestação pecuniária, e ao pagamento de 166 dias-multa.
+Assim, prejudicada a alegação de ausência de justa causa, uma vez que, independentemente da causa de pedir - se por inépcia da denúncia, ausência de justa causa, ou atipicidade da conduta -, o pedido do presente writ é o trancamento da ação penal, que se encontra superado, pois vigora novo título jurídico (sentença condenatória) que deve ser impugnado pela via processual adequada, e na Corte de origem (AgRg no RHC n. 103.769/RJ, Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, DJe 15/2/2022).
+Ademais, não se conhece da alegação remanescente, uma vez que, como é de conhecimento, em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus concomitantemente com a interposição de apelação. Precedentes (AgRg no RHC 96.688/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 15/5/2018, DJe de 23/5/2018) - (AgRg no RHC n. 161.035/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/3/2022).
+Outrossim, tem-se que o Ministério Público Federal, em seu parecer, registrou que (fl. 249):
+O Ministério Público Federal vem, nos autos do processo em epígrafe, manifestar-se pelo não conhecimento do presente writ, por ser substitutivo de recurso próprio. A decisão vergastada deve ser mantida. A atipicidade da conduta de tráfico de entorpecentes, por aplicação do princípio da insignificância, é inadmissível, eis que trata-se de delito hediondo. Nesse sentido é o entendimento do STJ.
+Conclui-se, então, que razão não assiste à impetração, pois não se logrou demonstrar o constrangimento ilegal alegado.
+Em razão disso, acolhendo o parecer ministerial, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. JUSTA CAUSA. TRÁFICO DE DROGAS (0,59 G DE CRACK). ALEGAÇÃO DE INSIGNIFICÂNCIA. TRANCAMENTO DA AÇÃO PENAL. SUPOSTA ATIPICIDADE DA CONDUTA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. PEDIDO PREJUDICADO. DESCLASSIFICAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MATÉRIA PENDENTE DE EXAME PELA CORTE LOCAL EM SEDE DE APELAÇÃO. LIMINAR INDEFERIDA. PARECER PELO NÃO CONHECIMENTO DO PRESENTE WRIT. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER ACOLHIDO.
+Ordem denegada.
