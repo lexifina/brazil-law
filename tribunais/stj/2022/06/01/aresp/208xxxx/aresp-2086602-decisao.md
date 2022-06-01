@@ -1,0 +1,25 @@
+DECISÃO
+1. Cuida-se de agravo interposto por NOTRE DAME INTERMEDICA SAUDE S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado:
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. PLANO DE SAÚDE.RECUSA DE COBERTURA DE TRATAMENTO DE URGÊNCIA.EXIGÊNCIA DE CUMPRIMENTO DE PRAZO DE CARÊNCIA.ILICITUDE CARACTERIZADA. DANO MORAL CONFIGURADO.QUANTUM INDENIZATÓRIO. REDUÇÃO. NÃO CABIMENTO.MANUTENÇÃO DA SENTENÇA.
+1. De acordo com a Súmula 597 do colendo Superior Tribunal de Justiça, "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação".
+2. Evidenciado que o tratamento cirúrgico prescrito ao autor ostenta caráter de urgência, mostra-se ilícita a recusa de cobertura por parte da administradora do plano de saúde, fundamentada na necessidade de cumprimento de prazo decarência.
+3. A recusa de cobertura de procedimento cirúrgico em caráter de urgência configura circunstância apta a causar abalo de ordem moral passível de indenização.
+4. Arbitrado o valor da indenização por danos morais em patamar compatível com as condições pessoais das partes e a extensão do dano experimentado pela parte ofendida, tendo sido atendidos os princípios da razoabilidade e da proporcionalidade, não há razão para que seja reduzido o quantum indenizatório fixado.
+5. Apelação conhecida e não provida. Honorários recursais majorados.
+Nas razões do recurso especial, aponta a parte recorrente ofensaao disposto no artigo 944 do CC.
+Alega, em síntese, que os danos morais foram fixados de forma exorbitante (R$ 10.000,00 - dezmil reais), pugnando pela sua redução.
+É o relatório.DECIDO.
+2. Em relação ao pedido de redução do quantum indenizatório, de acordo com a jurisprudência consolidada no Superior Tribunal de Justiça, a revisão do montante indenizatório por danos morais importa no reexame de provas, o que é defeso nesta fase recursal ante o óbice da Súmula n. 7/STJ. Todavia, a excepcional intervenção desta Corte é admitida quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA CONSTRUTORA.
+1. Não se configura a violação ao art. 535 do CPC/73, quando o Tribunal local pronuncia-se de forma fundamentada sobre as questões postas para análise, ainda que contrariamente aos interesses da parte recorrente.
+Precedentes.
+2. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ. Precedentes.
+3. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 826.605/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018).
+No presente caso, entendo que a quantia fixada pelo Tribunal de origem, qual seja, R$ 10.000,00 (dezmil reais), além de atender as circunstâncias do caso concreto, não escapa à razoabilidade, nem se distancia dos parâmetros adotados por este Tribunal Superior.
+3. Ademais, a jurisprudência desta Corte está sedimentada no sentido de ser incabível a revisão do montante indenizatório estabelecido a título de danos morais com base em dissídio jurisprudencial, porquanto, ainda que haja grande semelhança nas características externas e objetivas, haverá distinção no aspecto subjetivo dos julgados confrontados (v.g. AgRg no AREsp 816.086/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 17/3/2016, DJe 29/3/2016; e AgRg no AREsp 231.854/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/11/2016, DJe 16/11/2016).
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
