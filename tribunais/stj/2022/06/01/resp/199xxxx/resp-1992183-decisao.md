@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUNIÃOcom fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a União, em 20/10/2020, interpôs agravo de instrumento contra decisão que, em cumprimento individual de sentença coletiva no valor de R$ 291.382,28 (duzentos e noventa e um mil, trezentos e oitenta e dois reais e vinte e oito centavos), rejeitou prejudicial de prescrição suscitada pelo ente público.
+OTRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOnegou provimento ao agravo de instrumento do ente público, ficando consignado que asrazões do recurso não merecem acolhimento porque se trata de repetição de argumentos já expressamente rejeitados por decisão judicial transitada em julgado. Cuida-se, pois, de questões tornadas imutáveis pela preclusão, não sendo cabível nova discussão a seu respeito.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. DUPLICIDADE DE EXECUÇÕES E PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. QUESTÕES PRECLUSAS. REPETIÇÃO. INCABIMENTO. COISA JULGADA. IMPROVIMENTO.
+1. Agravo de instrumento interposto pela UNIÃO FEDERAL contra decisão do Juízo da 2ª Vara Federal de Pernambuco, que rejeitou a alegação de duplicidade de execuções e afastou a prejudicial de prescrição suscitada pelo ente público agravante.
+2. Não existe relação de dependência ou de prejudicialidade entre as execuções promovidas pelo próprio substituto e aquelas promovidas pelos substituídos individualmente. Na hipótese de improcedência do pedido formulado na execução coletiva que versa sobre direitos ou interesses individuais homogêneos, aplica-se a regra do § 2º do art. 103 do Código de Defesa do Consumidor, segundo o qual somente a sentença de procedência do pedido formulado em ação coletiva tem efeitos erga omes, não sendo essa a hipótese dos autos.
+3. Em suas razões recursais, a União alega, em síntese, que: a) os exequentes pretendem executar título judicial proferido na Ação Rescisória nº 1091, junto ao STJ, que transitou em julgado em 30.08.2006, sendo que o cumprimento de sentença somente foi proposto em 2019, ou seja, mais de 13 anos após o trânsito em julgado do mencionado título executivo judicial; b) o Sindicato que representa os substituídos já havia promovido ação de execução, que foi extinta quando da apreciação dos embargos, por ter sido reconhecida a prescrição intercorrente, com o respectivo trânsito em julgado das sentenças prolatadas nos processos de execução/embargos que foram desmembrados em grupo de 10 (dez) representados, de forma que resta inconteste a prescrição dos créditos exequendos.
+4. A decisão agravada foi clara ao estabelecer que não haveria duplicidade de execuções e que existem decisões judiciais transitadas em julgado que afastam a existência de duplicidade de execução e a prescrição da pretensão executória.
+5. As razões do recurso, portanto, não merecem acolhimento exatamente porque se trata de repetição de argumentos já expressamente rejeitados por decisão judicial transitada em julgado. Cuida-se, pois, de questões tornadas imutáveis pela preclusão, não sendo cabível nova discussão a seu respeito
+6. Agravo de instrumento improvido.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, aUNIÃOinterpôs o presente recurso especial, apontando violação dos arts. 103 e 104 do CDC; dos arts. 485, 502, 503, 505, 507, 508 e 1.022, todos do CPC/15; e dos arts. 1º e 2º do Decreto nº 20.910/32.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da preclusão acerca da discussão referente à prescrição da pretensão executória e à alegada duplicidade de demandas, uma vez que os ora exequentes já teriam sido anteriormente substituídos em Execução Coletiva promovida pelo Sindicato, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
