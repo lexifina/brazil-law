@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Carlos Daniel Oliveira da Silva, em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (Processo n. 1500092-92.2021.8.26.0542) que o paciente foi condenado à pena de 8 anos, 10 meses e 20 dias de reclusão, em regime fechado, e 21 dias-multa, pela prática do crime tipificado no art. 157, § 2º, II, e § 2º-B, do Código Penal, e absolvido da imputação a ele feita como incurso noart. 16, caput, da Lei 10.826/2003, com fundamento no art. 386, III, do Código Penal. (fls. 17/21).
+Em sede de apelação, a Terceira Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso defensivoe deu parcial provimento ao apelo ministerial para condenar o paciente à pena de 15 anos, 9meses e 2dias de reclusão, em regime fechado, e 41dias-multa, por violação do art. 157, §2º, II e V, e § 2º-B, do Código Penal, e art. 16, caput, da Lei n. 10.826/2003, na forma do art. 69, caput, do Código Penal (fls. 22/53).
+No presente writ, a defesa alega que não houve concreta fundamentação para elevação da pena-base e que é devido o redimensionamento da pena. Requer, também,a absolvição do paciente, pelo delito do art. 16 da Lei de Armas,ou a desconsideração do aumento da pena-base pelo art.157, § 2º-B, do Código Penal, por entender que tenha havido bis in idem.
+Parecer ministerialopinando pela inexistência de ilegalidade no acórdão estadual(fls. 111/121).
+É o relatório.
+Inicialmente, quanto ao pedido de absolvição pelo delito previsto no art. 16 da Lei de Armas, não há como serem examinadas as provas novamente, em sede de habeas corpus, de modo que fica mantida a condenação por taldelito.
+Quando à dosimetria relativa ao delito de roubo circunstanciado, confira-se o acórdão hostilizado (fls. 48/53):
+ ..  1ª Fase. Malgrado seja primário e não possua antecedentes criminais, considerando que o crime de roubo foi cometido mediante emprego de arma de fogo de uso restrito, com espeque no art. 157, § 2º-B, do Código Penal, deve ser aplicada a pena-base no dobro previsto no caput do dispositivo legal, ou seja, 8 (oito) anos de reclusão e 20 (vinte) dias-multa. Vê-se ainda que as consequências do crime de roubo foram exacerbadas, mormente caracterizadas pelo alto valor dos bens subtraídos da empresa-vítima, com levado prejuízo por ela arcado - quase R$ 48.000,00 (quarenta e oito mil reais) -, devendo ser também sopesada tal circunstância na fixação da pena-base. .. Assim, a pena-base, em relação ao delito de roubo, deve ser novamenteelevada no percentual de 1/6 (um sexto), chegando-se a 9 (nove) anos e 4 (quatro) meses de reclusão, e 23 (vinte e três) dias-multa.
+ ..
+A elevação da pena-base, no dobro, em razão do uso de arma de fogo, mostrou-se bastante desproporcional. No caso, o aumento, na fração de 1/6, faz-se suficiente no presente caso, portanto, 4 anos e 8 meses de reclusão, e 11 dias-multa. Pelas consequências, deverá ser mantido o aumento na fração de 1/6, chegando agora ao patamar de 5anos e 5meses de reclusão e 12dias-multa.
+Na terceira fase, foram reconhecidas duas causas de aumento, concurso de pessoas e restrição de liberdade da vítima, e a pena foi elevada na fração de 11/30. Para aterceira fase, mostra-se devido que o aumento da pena seja feito na fração de 2/3, e a pena se torna definitiva em 9 anos de reclusão e 20dias-multa.
+Para o delito de posse de arma de fogo de uso restrito, a pena-base foi fixada no mínimo legal, ou seja, 3 anos de reclusãoe 10dias-multa. Na segunda fase, não foram reconhecidasagravantes e atenuantes genéricas.À míngua decausas de aumento e diminuição das penas, essa se tornou definitiva.
+Com a aplicação do concurso material, a pena total do paciente passa a ser de12 anos de reclusão e 30 dias-multa.
+Ante o exposto, concedo parcialmentea ordema fim deredimensionar a pena do paciente para12 anos de reclusão, em regime fechado, e 30 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E POSSE DE ARMA DE USO RESTRITO.DOSIMETRIA. REDIMENSIONAMENTO DA MAJORAÇÃO FEITA PARA APENA-BASE. PACIENTE PRIMÁRIO E SEM ANTECEDENTES. BEM SUBTRAÍDO DE ELEVADO VALOR.
+Ordem parcialmente concedida nos termos do dispositivo.
