@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JBL NEW AGENCIA DE TURISMO LTDA contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fl. 210):
+Ementa: Agravo de instrumento. Rejeição à impugnação ao cálculo apresentado pela contadoria judicial. Decisão impugnada devidamente motivada. Cálculo apresentado em consonância com o acordo judicial homologado. Decisão mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 240/244).
+As razões do recurso especial, fundamentadas na alínea "a" do permissivo constitucional, apontam a violação (i) do art. 535 do CPC/73, uma vez que o v. acórdão estadual seria omisso quanto à necessidade de devolver o valor residual; (ii) dos arts. 413, 421 e 884 do CC/02, uma vez que o acordo firmado entre as partes decorreria do descumprimento do contrato de compra e venda de 12 veículos, prevendo a devolução de 7 veículos e pagamento de R$ 381.000,00 por 5 veículos, além do pagamento de R$ 380.000,00 a título de valor residual, montante este que está pendente de pagamento.
+Decisão que inadmitiu o recurso especial às fls. 437/438.
+Não foi apresentada contraminuta (certidão de fl. 452).
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Além disso, o recorrente aponta a violação dos arts. 413, 421 e 884 do CC/02, uma vez que o acordo firmado entre as partes decorreria do descumprimento do contrato de compra e venda de 12 veículos, prevendo a devolução de 7 veículos e pagamento de R$ 381.000,00 por 5 veículos, além do pagamento de R$ 380.000,00 a título de valor residual. Registra que estaria pendente de pagamento a devolução deste valor residual garantido. O eg. TJ-SP, por sua vez, concluiu que não há equívoco nos cálculos realizados pela contadoria judicial, que foram feitos conforme o acordo firmado pelas partes. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fls. 211/212):
+No mais, cinge-se a discussão a respeito da observância do cálculo elaborado pela contadoria ao seguinte acordo judicial celebrado entre as partes:
+"INICIALMENTE, pelo conciliador foi feita a proposta de conciliação, obtendo êxito, tendo as partes chegado à seguinte composição amigável:01) Quanto ao primeiro contrato referente aos cinco ônibus, firmado em 15 de julho de 2008,arequerida pagará a quantia de R$ 381.000,00,até o dia 05/05/2010, em única parcela. Com a efetivação deste pagamento a requerentes e compromete a transferir os veículos à requerida. Caso não seja efetuado o pagamento será expedido mandado de busca e apreensão dos bens a requerimento da autora;(..)03) ComrelaçãoaovalorresidualdoscontratosarequeridapagaráaimportânciadeR$380.000,00 em 17 (dezessete) parcelas, sendoas16 primeiras, mensais e consecutivas, no valor de R$ 10.000,00, vencendo-se a primeira em 15/04/2010 e a 17a parcela, no valor de R$220.000,00 no dia 15/08/2011." (fls. 149).
+Da leitura dos itens "1" e "3" do ajuste, verifica-se que os débitos neles apontados são diversos, tendo formas distintas descumprimento.
+Quanto ao item "1", inadimplida a obrigação de pagamento de R$ 381.000,00 por cinco veículos, logrou-se êxito na retomada de três deles, remanescendo, então, o débito relativo a 2/5desse valor; já no tocante ao item "3", adimplida a primeira parcela, na importância de R$ 10.000,00, subsiste a dívida de R$ 370.000,00.
+Nesse sentido, o cálculo trasladado
+a fls. 118. Inalterável, pois, o r. decisum combatido. (fl.212)
+Com efeito, o eg. Tribunal estadual não afastou a devolução do valor residual garantido, mas apenas analisou o acordo firmado entre as partes para definir a quantia a ser paga. Nessa perspectiva, para modificar o entendimento firmado pelo eg. TJ-SP, no sentido de que não há irregularidade no cálculo da contadoria, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o recurso especial, a teor da Súmula n. 7/STJ.
+Diante do exposto, conheço do agravo para desprover o recurso especial.
+Publique-se.
