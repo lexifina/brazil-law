@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus,impetrado em benefício de GUILHERME BRUM, contra acórdão da 2ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul (Recurso em Sentido Estrito n.5018165-53.2021.8.21.0021).
+Extrai-se dos autos, que o paciente foi pronunciadopela suposta prática do delito, tipificado no art. 121, § 2º, incisos I e IV do Código Penal, ocasião em que foi mantida sua prisão preventiva.
+Buscando a revogação da custódia, bem como a despronúncia do paciente ou o afastamento das qualificadoras, a defesa interpôs recurso em sentido estrito, que foi parcialmente provido tão somente para afastar a qualificadora prevista no inciso I do § 2º, do art. 121 do Código Penal.
+No presentewrit, a defesa alega que o paciente encontra-se preso preventivamente desde 29/5/2019, e que a manutenção da prisão na decisão de pronúncia não foi devidamente motivada. Alega que, o afastamento dequalificadora e a despronúncia de 2 corréus configuram fatos novos que justificam a revogação da prisão.
+Requer, assim, a expedição de alvará de soltura, inclusive mediante aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+Owritencontra-se deficientemente instruído, não tendo sido juntada cópia do decreto preventivo e dadecisão de pronúncia. A ausência de tais peçasinviabiliza o conhecimento do pedido, uma vez que não é possível examinar os fundamentos utilizados para a decretação/manutenção da custódia.
+É de se ressaltar que, o rito do habeas corpus, pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal, é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ademais, os fundamentos para a manutenção da custódia por ocasião da pronúncia já foram objeto de apreciação por esta Corte, no bojo do RHC n.164.229/RS, de modo que se trata de mera reiteração de pedido.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça,indefiro liminarmente o pedido.
+Intimem-se.
