@@ -1,0 +1,4 @@
+RESOLUÇÃO CMN Nº 4.925, DE 24 DE JUNHO DE 2021
+Altera a Resolução nº 4.676, de 31 de julho de 2018, que dispõe sobre as condições gerais e os critérios para contratação de financiamento imobiliário pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e disciplina o direcionamento dos recursos captados em depósitos de poupança, e a Resolução nº 3.919, de 25 de novembro de 2010, que dispõe sobre a cobrança de tarifas pela prestação de serviços por parte das instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 24 de junho de 2021, com base nos arts. 3º, inciso V, e 4º, incisos VI, VIII e IX, da referida Lei, e 7º do Decreto-Lei nº 2.291, de 21 de novembro de 1986,
+R E S O L V E U :
