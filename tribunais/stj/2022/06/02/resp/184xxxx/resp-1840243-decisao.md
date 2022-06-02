@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 896):
+Previdência privada. Pretensão de revisão da complementação de aposentadoria fundada na aplicação do regulamento vigente ao tempo da adesão, quando foram os benefícios concedidos na vigência de regras novas. Aplicação do artigo 17, parágrafo único, da Lei Complementar 109, de 29 de maio de 2001. Sentença de improcedência confirmada. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 923/930).
+Nas razões recursais (e-STJ fls. 933/992), fundamentadas no art. 105, III, "a" e "c", da CF, os recorrentes apontam dissídio jurisprudencial e ofensa aos arts. 535 e 538 do CPC/1973, 13, § 1º, 17 e 68, §§ 1º e 2º,da LC n. 109/2001, 2º, § 2º, e 468 da CLT, 6º, V, 39, XIII, 47, 48 e 51do CDCe 6º da LINDB, sustentando: (a) negativa de prestação jurisdicional, (b) legitimidade passiva da patrocinadora, e (c) direito ao cálculo da suplementação nos termos determinados pelo regulamento vigente na data da adesão.
+As recorridas apresentaram contrarrazões (e-STJ fls. 1.188/1.205 e 1.252/1.261).
+O recurso foi admitido na origem (e-STJ fls. 1.313/1.316).
+É o relatório.
+Decido.
+O Tribunala quodecidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.Assim, não incorreu em omissão, contradição ou obscuridade.Desse modo, quanto à alegada afronta ao art. 535do CPC/1973, não lheassiste razão.
+Em relação à alegada ofensa aos arts.2º, § 2º, e 468 da CLT, 6º, V, 39, XIII, 47, 48 e 51 do CDC e 6º da LINDB, observa-se que as matérias versadas nos dispositivos em questão não foramtratadas pelo acórdão recorrido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ.
+Cabe ainda anotar que este Tribunal possui jurisprudência firmada no sentido de que "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas" (Súmula n. 563/STJ).
+No julgamento do Recurso Especial n. 1.370.191/RJ, Relator Ministro LUIS FELIPE SALOMÃO (DJe de 1º/8/2018), submetido à sistemática dos recursos repetitivos (Tema n. 936/STJ), a Segunda Seção definiu as seguintes teses, para os fins do art. 1.036 do CPC/2015: "I - A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. II - Não se incluem no âmbito da matéria afetada as causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador."
+Além disso, a Segunda Seção, ao julgar o REsp n. 1.435.837/RS (Tema n. 907/STJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, DJe 7/5/2019), fixou a seguinte tese, para os fins do art. 1.040 do CPC/2015: "O regulamento aplicável ao participante de plano fechado de previdência privada para fins de cálculo da renda mensal inicial do benefício complementar é aquele vigente no momento da implementação das condições de elegibilidade, haja vista a natureza civil e estatutária, e não o da data da adesão, assegurado o direito acumulado."
+Incide, portanto, a Súmula n. 83/STJ.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  recurso especial .
+Publique-se eintimem-se.
