@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  em  face  de  acórdão  com  a  seguinte  ementa:
+Agravo  de  instrumento  execução  de  título  extrajudicial  -  Cédula  de  Crédito  Bancário  com  garantia  de  cessão  fiduciária  de  duplicatas  devedora  principal  que  se  encontra  em  recuperação  judicial  decisão  proferida  na  origem  determinando  a  suspensão  da  execução  insurgência  manifestada  pelo  credor  alegação  de  que  seu  crédito  não  se  sujeita  aos  efeitos  da  recuperação  judicial,  pois  garantido  por  cessão  fiduciária  (art.49,§3º,  LFR)  questão  que  pende  de  análise  pelo  magistrado  de  piso  impossibilidade  de  conhecimento  sob  pena  de  supressão  de  um  grau  de  jurisdição.  Prosseguimento  das  ações  e  execuções  em  face  dos  avalistas/devedores  solidários  cabimento  -  Súmula  581  do  STJ.  recurso  parcialmente  conhecido  na  parte  em  que  é  provido.
+Alega-se  violação  dos  artigos  49,  §  2º,  59  e  61,  §  2º,  da  Lei  11.101/05,  sob  o  argumento  de  que  a  aprovação  do  plano  de  recuperação  judicial  enseja  a  novação  da  dívida  e  que,  de  qualquer  modo,  há  previsão  neste  para  a  liberação  das  garantias  prestadas  por  terceiros.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+O  acórdão  estadual  deu  parcial  provimento  ao  recurso  da  instituição  financeira  para  permitir  a  persecução  da  dívida  em  face  do  outro  recorrente,  Rogério  Nogueira  Bezerra,  na  qualidade  de  garante  da  dívida.
+Para  tanto,  aplicou  o  entendimento  firmado  no  verbete  n.  581  da  Súmula  desta  Casa,  fundamento  este  que  deixou  de  ser  impugnado  pelos  recorrentes,  o  que  por  si  só  atrai  a  incidência  do  verbete  n.  283  da  Súmula  desta  Casa.
+Não  fosse  isso,  não  há  notícia  no  acórdão  local  de  que  tenha  havido  aprovação  do  plano  de  recuperação  judicial,  mas  apenas  o  deferimento  desta.
+Além  disso,  esta  Corte  tem  firmado  o  entendimento  no  sentido  de  que  somente  com  a  aprovação  do  credor  específico  da  cláusula  em  questão  é  que  se  admite  a  liberação  da  garantia  prestada,  do  que,  reitere-se,  não  há  notícia.
+A  propósito:
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  RECUPERAÇÃO  JUDICIAL.  PLANO  DE  SOERGUIMENTO  EMPRESARIAL.  SUPRESSÃO  DE  GARANTIAS  REAIS  E  FIDEJUSSÓRIAS.  APROVAÇÃO  EM  ASSEMBLEIA-GERAL.  EXTENSÃO  A  CREDORES  DISCORDANTES,  OMISSOS  OU  AUSENTES.  IMPOSSIBILIDADE.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  supressão  de  garantias,  reais  e  fidejussórias,  previstas  em  plano  de  recuperação  judicial  aprovado  em  assembleia-geral  de  credores,  vincula  apenas  aqueles  que  assentiram  expressamente  com  a  medida,  não  se  estendendo,  portanto,  aos  credores  discordantes,  omissos,  ou  ausentes  à  deliberação.
+2.  A  Lei  da  Recuperação  Judicial  assenta  que  a  novação  nela  estabelecida  não  acarreta  prejuízo  das  garantias  reais  e  fidejussórias,  porque  a  supressão  ou  a  substituição  delas  somente  será  admitida  mediante  aprovação  expressa  do  credor  titular  da  respectiva  garantia  (arts.  50,  parágrafo  único,  e  59  da  Lei  11.101/2005),  daí  por  que  reconhecem  a  doutrina  e  a  jurisprudência  desta  Corte  o  caráter  "sui  generis"  do  instituto.
+3.  Negado  provimento  ao  agravo  interno.
+(AgInt  no  REsp  n.  1.932.219/SP,  relator  Raul  Araújo,  Quarta  Turma,  DJe  de  1/2/2022.)
+Tem  incidência,  assim,  também  os  verbetes  n.  284  da  Súmula  do  Supremo  Tribunal  Federal  e  83  deste  Tribunal  Superior.
+Diante  do  exposto,  nego  provimento  ao  recurso  especial.
+Intimem-se.
