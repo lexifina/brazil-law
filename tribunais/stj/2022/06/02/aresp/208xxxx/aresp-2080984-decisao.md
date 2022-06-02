@@ -1,0 +1,32 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIMED FEDERAÇÃO INTERFEDERATIVA DAS COOPERATIVAS MÉDICAS DO CENTRO-OESTE E TOCANTINS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. PRORROGAÇÃO DA SUSPENSÃO DO PROCESSO POR SE ENCONTRAR EM FASE DE LIQUIDAÇÃO. IMPOSSIBILIDADE. PRAZO JÁ PRORROGADO UMA VEZ. DECISÃO MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+1-O artigo 76 da Lei nº. 5.764/71 dispõe que "a publicação no Diário Oficial, da ata da Assembleia Geral da sociedade, que deliberou sua liquidação, ou da decisão do órgão executivo federal quando a medida for de sua iniciativa, implicará a sustação de qualquer ação judicial contra a cooperativa, pelo prazo de 1 (um) ano, sem prejuízo, entretanto, da fluência dos juros legais ou pactuados e seus acessórios".
+2-O § único do art. 76 da Lei nº 5.476/71, possibilita que "decorrido o prazo previsto neste artigo, sem que, por motivo relevante, esteja encerrada a liquidação, poderá ser o mesmo prorrogado, no máximo por mais 1 (um) ano, mediante decisão do órgão citado no artigo, publicada, com os mesmos efeitos, no Diário Oficial".
+3-In casu, verifica-se que referido prazo já foi prorrogado uma vez pelo magistrado a quo na decisão proferida no evento 117 dos autos originários. Assim, não há mais como suspender a presente ação baseado no dispositivo legal retro, razão porque o processo de cumprimento de sentença deve ter continuidade.
+4-Assim, é de rigor a manutenção da decisão vergastada, ao menos em uma análise perfunctória, pois não há demonstração inequívoca do fumus boni iuris e nem do periculum in mora.
+5- Decisão mantida. Recurso conhecido e improvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente defende ter o acórdão recorrido concedido ao art. 76, da Lei nº 5.764/71 interpretação diversa da conferida peloTribunal de Justiça do Estado do Rio Grande do Sul.
+Sustenta que"há divergência de entendimento jurisprudencial quanto à matéria de fundo nos casos paradigma e paragonado, tendo em vista que a 2ª Turma da 1ª Câmara Cível do Tribunal de Justiça do Estado do Tocantins divergiu do entendimento consolidado pela 18ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, onde se concluiu que estando decidido, em Assembléia Geral, que há motivo relevante para o não encerramento da liquidação e que, por conseqüência, há necessidade de prorrogação da suspensão, é o que basta, a meu ver, para a concessão do benefício, razão pela qual o entendimento assentado do acórdão paradigma se mostra mais aproximado da vontade do legislador, devendo, portanto, prevalecer no caso em debate" (Fl. e-STJ 196).
+Defende, no mais, ser "necessário que sejam suspensos os atos tendentes à expropriação de bens da devedora no curso do processo, isso, pois, até que se tenha por concluído o trabalho de arrecadação geral de bens e de identificação completa do passivo existente, providencia essa que está a Liquidante providenciando e que somente não foi integralmente cumprida até o presente momento, por motivos de força maior, em especial em decorrência dos impactos negativos trazidos pela pandemia do COVID-19 que severamente comprometeu o bom andamento dos trabalhos liquidatórios"(Fl. e-STJ 197).
+Contrarrazões ao recurso especial às Fls. e-STJ 212-216.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Em que pesem os argumentos apresentados pela recorrente, verifica-se que a decisão objurgada se encontra em consonância com a Jurisprudência desta Corte Superior - segundo a qual,a aprovação da liquidação extrajudicial pela assembleia geral implica a suspensão das ações judiciais contra a cooperativa pelo prazo de um ano, prorrogável por, no máximo, mais um ano, sendo incabíveis adicionais prorrogações.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL DE SOCIEDADE COOPERATIVA. SUSPENSÃO DAS AÇÕES EM ANDAMENTO. PRAZO DE UM ANO DO ART. 76 DA LEI 5.764/1971.PRORROGAÇÕES SUCESSIVAS. DESCABIMENTO. CARÁTER EXCEPCIONAL DA REGRA EM COMENTO. INVIABILIDADE DE INTERPRETAÇÃO ANALÓGICA COM O "STAY PERIOD" DA RECUPERAÇÃO JUDICIAL. DESCABIMENTO.
+1. Controvérsia em torno da suspensão de um cumprimento de sentença contra uma cooperativa em regime de liquidação extrajudicial para além do prazo de um ano, prorrogável por mais um ano, previsto no art. 76 da Lei 5.764/1971.
+2. Nos termos do art. 76 da Lei 5.764/1971, a aprovação da liquidação extrajudicial pela assembleia geral implica a suspensão das ações judiciais contra a cooperativa pelo prazo de um ano, prorrogável por no máximo mais um ano.
+3. Inviabilidade de aplicação ao caso das razões de decidir dos precedentes relativos à prorrogação do "stay period" da recuperação judicial de empresas, pois a recuperação judicial de empresas, por se submeter à supervisão judicial, não guarda semelhança com a liquidação extrajudicial da cooperativa.
+4. Caráter excepcional da regra do art. 76 da Lei 5.764/1971 por atribuir a uma deliberação privada o condão de suspender a prestação da atividade jurisdicional. Doutrina sobre o tema.
+5. Inviabilidade de interpretação analógica ou extensiva da regra legal "sub examine", em respeito ao princípio fundamental da inafastabilidade da jurisdição (art. 5º, inciso XXXV, da CF).
+6. Caso concreto em que a liquidação extrajudicial foi aprovada em 2011, estando há muito superado o prazo legal de suspensão das ações judiciais.
+7. Reforma do acórdão recorrido para se determinar o prosseguimento do cumprimento de sentença.
+8. RECURSO ESPECIAL PROVIDO.
+(REsp 1833613/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/11/2020, DJe 20/11/2020)  g.n.
+Assim, estando o acórdão recorrido em harmonia com a Jurisprudência deste STJ, tem-se que a aplicação do óbice expresso na Súmula 83/STJ é medida que se impõe.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
