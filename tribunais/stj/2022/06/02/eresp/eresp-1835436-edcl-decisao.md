@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática de minha, que não conheceu dos embargos de divergência, ante a ausência de cotejo analítico dos arrestos e similitude fática entre os acórdãos em discussão.
+Nas razões dos aclaratórios, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+Ocorre que, para além da matéria de mérito suscitada no Embargos de Divergência, subsiste o fato de que em 05/11/2021 houve afetação do Tema 1112 do STJ.
+A Segunda Seção desta Corte afetou a referida questão à sistemática de recursos repetitivos (Recursos Especiais n. 1.874.811/SC e n. 1.874.788/SC -Tema 1012), assim delimitada a controvérsia:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. SEGURO DE VIDA EM GRUPO. CLÁUSULASRESTRITIVAS. DEVERDE INFORMAÇÃO. ESTIPULANTE E/OU SEGURADORA.
+1. Delimitação da controvérsia: definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015. Ademais, foi determinada a suspensão da tramitação de processos, nos termosdo artigo 1.037, inciso II, do CPC/2015.
+ ..
+Na origem, trata-se de ação de cobrança com pedido de liminar de exibição de documento ajuizada por Cristiano Paulo Hermann em face de Itaú Seguros S/A.Na sentença julgou-se improcedente o pedido. No Tribunal de origem manteve-se os termos da sentença. Interposto recurso especial, este teve seguimento.
+Em decisão monocrática, da lavra do e. Min. MARCO BUZZI, deu-se parcial provimento ao recurso especial, a fim de reformar parcialmente o acórdão recorrido, reconhecendo a responsabilidade da seguradora em prestar informações ao segurado sobre a existência de cláusulas restritivas, bem como determinar o retorno dos autos à Corte de origem para que, verificando eventual falha no cumprimento desse dever, prossiga no julgamento do apelo como entender de direito.
+A decisão foi mantida em sede de agravo interno.
+Contudo, em sede de embargos de declaração, o recurso foi acolhido com efeitos infringentes, para prover o agravo interno e negar provimento ao recurso especial do segurado.
+Seguiu-se a interposição de embargos de divergência.
+Em decisão monocrática de minha lavra, indeferiu-se liminarmente os embargos de divergência, determinando-se a redistribuição dos autos à Segunda Seção para exame da divergência restante.
+É o relatório. Decido.
+Verifico que a matéria versada no apelo foi submetida a julgamento pelo rito dos recursos repetitivos - REspn. 1.874.811/SC, REsp n. 1.874.788/SC - Tema nº 1.112/STJ.
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei n. 11.672/2008), isto é, a criação de mecanismo que possibilite às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+ ..
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/5/2012.)
+Ocorre entretanto, que pende de julgamento na Primeira Seção desta Corte o EDcl no AgInt no REsp 1.690.138/RS, Rel. Min. Herman Benjamin, que aprecia questão referente à possibilidade de reconsideração de decisões proferidas antes do julgamento de recurso especial repetitivo, quando a matéria e apreciada antes da afetação.
+Pelo exposto,determino o sobrestamento dos autos na Coordenadoria de Processos Originários, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão dos respectivo recurso excepcional representativo da controvérsia e do recurso especial indicado acima, encaminhem os autos conclusos.
+Publique-se. Intimem-se.
