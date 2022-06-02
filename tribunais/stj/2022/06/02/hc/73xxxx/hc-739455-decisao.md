@@ -1,0 +1,26 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor deAna Paula Silva Santos- presapreventivamente e denunciadapela suposta prática do crime de furto qualificado (Processo n.1502325-70.2021.8.26.0604, em curso na 2ª Vara Criminal de Sumaré) -, com alegação de constrangimento ilegal na revogação da prisão domiciliar anteriormente concedida à paciente, requer-se, em liminar e no mérito, a concessão de liberdade à acusada.
+Insurge-se a defesa conta o acórdão prolatado pelo Tribunal de Justiça de São Paulo no HC n.2037993-77.2022.8.26.0000.
+Indeferi o pedido liminar (fls. 246/247).
+Informações prestadas (fls. 251/252).
+Parecer do Ministério Público Federal, escrito peloProcurador Regional da República, no exercício de Subprocurador-Geral da República, Marcus Vinicius Aguiar Macedo, opinando pela denegação da ordem (fls. 264/267).
+É o relatório.
+A ordem não comporta concessão.
+Observa-se, da decisão de primeiro grau, que a paciente quebrou as condições da cautelar anteriormente concedida, já queela não foi localizada, em duas oportunidades, nos endereços por ela mesma informados (páginas 132 e 153). Na realidade, ela sequer poderia alterar o seu endereço, sem autorização judicial(fl. 23). Também ponderou o Juízo processante que (fl. 23 - grifo nosso):
+ .. Além disso, como também apontado pela acusação, a própria defesa deixa claro o descumprimento da prisão domiciliar, anunciando que a acusada não estava no local, ao ser procurada pelo oficial de justiça, pois havia ido buscar a filha na escola (páginas 158/159). Em razão de tudo isso, desnecessário alongar em elucubrações sobre o descumprimento ou não da medida imposta. A quebra da cautelar aplicada está mais do que clara nos autos. Lembra-se que, decorrido mais de um ano do recebimento da denúncia, até o momento não foi possível a designação de audiência, ante a não localização da acusada, que está em prisão domiciliar, para ser citada. Ela, como se vê, segue agindo com verdadeiro escárnio à Justiça, o que não pode mais ser tolerado.
+ ..
+Conforme afirmei na decisão às fls. 246/247, na esteira da orientação jurisprudencial consolidada nesta Corte, o descumprimento das condições estabelecidas quando da concessão da prisão domiciliarconsubstancia fundamentação idônea para a decretação da prisão preventiva:
+HABEAS CORPUS.PROCESSO PENAL. TRÁFICO DE DROGAS. ARTS. 16, CAPUT, DA LEI N.º 10.826/2003, E 288, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. DECRETAÇÃO DA PRISÃO PREVENTIVA JUSTIFICADA NO DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR. FUNDAMENTAÇÃO IDÔNEA. ORDEM DE HABEAS CORPUS DENEGADA.
+1.Hipótese em que a prisão preventiva foi decretada em razão do descumprimento das condições da prisão domiciliar, consistente em saídas da Paciente sem autorização da área de recolhimento domiciliar estabelecida pelo Juízo de origem.
+2. A Sexta Turma do Superior Tribunal de Justiça, ao apreciar o HC 491.905/SE, Rel. Ministro ROGERIO SCHIETTI CRUZ (julgado em 09/04/2019, DJe 25/04/2019), assentou queo ordenamento jurídico não concedeu às pacientes gestantes ou mães de crianças "um bill de indenidade, ao ponto de deixá-las imunes à atuação estatal, livres para, por exemplo, expor seus filhos a perigo, praticar novos crimes, descumprir condições impostas pelo Juízo ou se envolverem em qualquer outra situação danosa à ordem pública, à ordem econômica, à conveniência da instrução criminal ou prejudicial à aplicação da lei penal"(sem grifos no original).
+3. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão.
+4. A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+5. Ordem de habeas corpus denegada.
+(HC n. 532.930/PR, Ministra Laurita Vaz, Sexta Turma, DJe 03/12/2019 - grifo nosso)
+Com efeito, estou de acordo com a opinião do parecerista, no sentidode queo encarceramento cautelar da Paciente encontra-se justificado em elementos concretos, uma vez que se evidenciou que ela, há mais de 1 (um) ano, vem obstando o seguimento da marcha processual, alterando o seu endereço e se ausentando do local onde deveria permanecer em prisão domiciliar, sem qualquer autorização judicial(fl. 266).
+Portanto, não hámanifesta ilegalidade no afastamento da prisão domiciliar, especialmente quanto evidenciado o descumprimento reiterado das condições da prisão domiciliar, como no presente caso  .. em que a ré vem reiteradamente descumprindo as condições impostas durante a audiência de custódia  .. (HC 488.826/PR,Ministro Nefi Cordeiro, Sexta Turma, julgadoDJe 3/5/2019 - citado no parecer).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO DOMICILIAR REVOGADA. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. DECRETAÇÃO DA PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA CUSTÓDIA POR MEDIDAS CAUTELARES. INEFICÁCIA. PARECER ACOLHIDO.
+Ordem denegada.
