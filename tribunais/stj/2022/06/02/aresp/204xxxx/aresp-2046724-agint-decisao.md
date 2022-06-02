@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 490/492 e-STJ, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial.
+A agravante sustenta, em síntese, que os fundamentos do juízo de admissibilidade foram impugnados.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - AUSÊNCIA DE VÍCIOS NA MANIFESTAÇÃO DE VONTADE - PRÁTICA DE ATO ILÍCITO PELO BANCO NÃO CONFIGURADA - LITIGÂNCIA DE MÁ-FÉ - MANTIDA - APELO NÃO PROVIDO. Não é possível falar em prática de ato ilícito pelo banco ao efetuar os descontos mensais em seu benefício previdenciário, tampouco de nulidade do referido instrumento contratual, quando demonstrada a legalidade do contrato celebrado entre as partes, inexistindo assim, direito a ser indenizada por danos materiais e morais. Sentença mantida. Apelo não provido.
+A parte agravante sustenta que o acórdão estadual é omisso, e que não litigou com má-fé, motivo por que deve ser afastada a multa aplicada sob tal pretexto.
+Quanto à alegada violação aos arts. 489, § 1º, IV, e 1.022, I, II, do Código de Processo Civil, sem razão arecorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Relativamente à litigância de má-fé, assim se manifestou a Corte de origem:
+Na espécie, verifica-se que a instituição financeira requerida logrou êxito em demonstrar a regularidade da contratação do empréstimo, diante da apresentação do contrato, razão pela qual não há que se falar em reforma da sentença. Além disso, houve a demonstração da disponibilização do valor, o que acaba por tornar desnecessária a apresentação de todos os extratos de conta.
+(..)
+Não se pode perder de vista um dos princípios basilares do ordenamento jurídico brasileiro, qual seja, o da boa-fé, sendo certo que não parece aceitável que o autor busque a declaração de inexistência da relação jurídica entre as partes, bem como o arbitramento de indenização por dano moral, quando assinou o contrato a rogo, e através dele expressamente anuiu com a forma de realização dos descontos que agora questiona.
+(..)
+Ora, a tese de inexistência de contratação de empréstimo a embasar os descontos, exsurgindo a certeza da vontade deliberada de enganar o juízo, com intencional alteração da verdade dos fatos, cabalmente evidenciada no processo, demonstra tratar-se a demandante de litigante de má-fé. Dito isso, ante às peculiaridades da demanda e à alegação inverídica de que a parte nunca recebeu qualquer valor do empréstimo consignado que pretende anular, importa em alteração da verdade dos fatos, pelo que, tem-se que deve ser mantida a sentença.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos em face da gratuidade de Justiça.
+Intimem-se.
