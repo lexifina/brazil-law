@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto em face de acórdão com a seguinte ementa (fl. 656):
+RECURSO DE AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - GRATUIDADE DA JUSTIÇA - INDEFERIDA NA ORIGEM - PESSOA JURÍDICA -HIPOSSUFICIÊNCIA NÃO COMPROVADA - NECESSIDADE DE EFETIVA COMPROVAÇÃO DE INSUFICIÊNCIA DE RECURSOS - PARCELAMENTO FACULTADO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Não milita em favor da pessoa jurídica a presunção iuris tantum de veracidade da declaração de pobreza.
+Segundo precedentes jurisprudenciais do Superior Tribunal de Justiça, na interpretação do artigo 5º, inciso LXXIV, da Constituição Federal, há a necessidade de demonstração cabal, por parte da pessoa jurídica, da hipossuficiência,consoante dispõe a Súmula nº 481: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+Constatada a dificuldade momentânea da pessoa jurídica, cabível a concessão do parcelamento das custas judiciais consoante a regra trazida pelo art. 98, inciso 6º, do CPC/15.-
+Os embargos de declaração opostos foram rejeitados (fls. 702/718).
+Nas razões do especial, aponta a parte recorrente ofensa aos artigos 99, §2º, 489e 1.022, II, do Código de Processo Civil, bem como divergência jurisprudencial,alegando a ocorrência de negativa de prestação jurisdicional e, no mérito, sustenta que não poderia ser indeferido o benefício da gratuidade da justiça sem a abertura de vista à parte para comprovação do estado denecessidade.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar, não observo a existência devício no acórdão, senão julgamento contrário aos interesses darecorrente.
+O Tribunal de origem deixou claro que foi oportunizado à parte a comprovação do estado de necessidade. Leia-se (fl. 662):
+No caso sub judice, da análise dos documentos colacionados aos autos, sem maiores delongas, verifica-se que é caso de desprovimento do recurso.
+Isso porque, não restou evidenciada, indene de dúvidas, a alardeada hipossuficiência econômica da recorrente, pois, uma vez que intimada para apresentar documentos comprobatórios da hipossuficiência financeira (ID 89666962), necessário que está fizesse juntar ao instrumento informações essenciais como balancetes atualizados e outros aptos para tanto, ou qualquer outro documento que comprove renda efetiva dos sócios da agravante, o que,conforme manifestação da mesma (ID 91134477), não o fez.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à insuficiência probatória da hipossuficiência econômica capaz de conferir a benesse da gratuidade judiciária, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Lembro, por oportuno, que "nos termos da jurisprudência do Superior Tribunal de Justiça, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (CPC/2015, art. 99, § 3º)" (AgInt no AREsp 1458322/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25.9.2019).
+Ademais, a alteração de premissa fática do acórdão quanto à observância do § 2º do art. 99 do CPC etambém quanto à comprovação doestado de necessidade da recorrente no caso concreto,demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontra óbice na Súmula n. 7/STJ.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
