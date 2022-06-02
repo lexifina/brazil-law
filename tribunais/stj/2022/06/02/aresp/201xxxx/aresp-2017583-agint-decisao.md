@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por EURICO DE ALBUQUERQUE TUONOcontra decisão singular da Presidência desta Corte Superior, que não conheceu dorecurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em virtude da sua deserção (fls. 205/206).
+Nas razões do seu agravo interno, oagravanteafirmaque foicomprovado o pagamento do preparo e apresentada a guia com o correto código de barras.
+Verifico que, de fato, após o despacho do Tribunal de origem determinando a apresentação da guia correta, nos termos do art. 1.007, § 7º, do Código de Processo Civil/2015, o agravante juntou aos autos as guias de custas e pagamento comprovando, portanto,o recolhimento correto do preparo (fls. 141/142), motivo pelo qual reconsidero a decisão de fls. 205/206, de lavra da Presidência do Superior Tribunal de Justiça, tornando-a sem efeito.
+Assim, conheço do agravo e passo à análise do recurso especial.
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (fl. 89):
+EXECUÇÃO. Penhora. Benefício previdenciário. Possibilidade. Honorários advocatícios sucumbenciais. Verba alimentar. Aplicação da exceção à regra de impenhorabilidade de pensão. Inteligência do artigo 833, § 2º, do CPC. Precedentes do STJ e desta Câmara. DECISÃO MANTIDA. RECURSO NÃO PROVIDO
+Nas razões do recurso especial, orecorrenteaponta, a par de dissídio jurisprudencial, a violação doart. 833, IV, do Código de Processo Civil/2015, sustentando a impenhorabilidade dos valores provenientes da aposentadoria.
+Alega, ainda, a negativa de vigência aos arts. 7º, VI, 37, X, da Constituição Federal em virtude da irredutibilidade de vencimentos e subsídios.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+De início, destaco que ajurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+No mérito, observo que o Tribunal de origem negou provimento ao agravo de instrumento interposto pelorecorrente, sustentando que (i) odisposto nos incisos IV e X do caput do art. 833 do CPC/2015não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem; e (ii) estava ausente qualquer comprovação de que a penhora comprometeria a sobrevivência do recorrente. Confira-se:
+Entretanto, o crédito exequendo decorre de condenação ao pagamento de honorários sucumbenciais e que, portanto, também possui caráter alimentar, do que resulta exceção à regra geral de impenhorabilidade, nos termos do § 2º do artigo 833 do CPC: "§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º e no art. 529, § 3º".
+ ..
+No que se refere à crise decorrente da pandemia causada pelo covid-19, tem-se que a excepcionalidade do momento alcança ambas as partes, não se justificando, assim, a reforma da decisão que favoreceria apenas o devedor.
+Portanto, nenhum reparo comporta a decisão recorrida, que já observou inclusive o limite do percentual de 30% para a constrição a fim de garantir a subsistência do agravante  .. (fls. 90/92).
+Com efeito, verifico que o acórdão recorrido está em consonância com a jurisprudência do STJ, que firmou o entendimento de que a regra geral da impenhorabilidade de salários, vencimentos, proventos, entre outros (art. 833, inciso IV, do Código de Processo Civil) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família. A propósito, confira-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE SALÁRIO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DA IMPENHORABILIDADE DE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE.
+1. A jurisprudência desta Casa preconiza que a regra geral da impenhorabilidade de salários, vencimentos, proventos, entre outros (art. 833, inciso IV, do CPC) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. No caso, tendo a Corte de origem, com fundamentos arrimados no contexto fático-probatório dos autos, enfatizado a inviabilidade de novos descontos na remuneração da parte recorrida, sob pena de ofensa ao princípio da dignidade humana, infirmar tal entendimento encontra óbice na Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.808.082/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28.3.2022, DJe de 30.3.2022)
+Além disso, anoto que rever a conclusão do Tribunal de origem, o qual entendeu que não houve comprovação de que a penhora traria prejuízo ao recorrente, demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, conheço do agravo interno e nego provimento ao recurso especial.
+Intimem-se.
