@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela UNIVERSIDADE FEDERAL DO PARANÁ - UFPR contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que, em parte, negou seguimento ao recurso especial por aplicação do Tema 1.009/STJ e, no restante,não o admitiu com amparo nos óbices descritos nas Súmulas n. 7 e 83 do STJ e no descabimento da assertiva de violação da Constituição da República.
+A agravante aduz que, " .. da transcrição dos precedentes invocados pela Vice-Presidência para inadmitir o recurso com base na Súmula n. 83, verifica-se que todos eles são relacionados à arguição de violação do art. 1º, parágrafo único, e art. 21da Lei n. 7.347/85 (alegação de inadequação da via eleita)" (e-STJ, fl. 1.104).
+Destaca que a decisão não examinou a assertiva de violação do art. 1.022 do CPC.
+Referindo-se aos honorários de sucumbência fixados, registra que: a) " .. este ponto levantado versa exclusivamente sobre forma de aplicação da regra do art. 18 da LACP, não implicandoqualquer sorte de revolvimento probatório, a ponto de atrair a aplicabilidade da Súmula n. 07 deste STJ" (e-STJ, fl. 1.106); b) " .. o TRF4 simplesmente aplicou uma interpretação - que se entende equivocada - da regra do art. 18, no sentido de que seria possível a condenação da entidade pública nos consectários de sucumbência na sede da ação civil pública" (e-STJ, fl. 1.106); c) " .. no próprio bojo do recurso especial restam transcritos inúmeros precedentes deste Superior Tribunal de Justiça, todos eles convergindo para o entendimento veiculado no recurso especial, no sentido de que seria indevida a incidência de honorários sucumbenciais em razão da aplicação do princípio da simetria" (e-STJ, fl. 1.106).
+Quanto ao último ponto, indica os julgamentos proferidos no AgInt no AREsp n. 1.410.128/RS (DJe de 24/4/2020) e no REsp n. 1.833.259/SC (DJe de 2/3/2020).
+Defende ainda a possibilidade do conhecimento da matéria pertinente aos juros de mora, apontando o precedente proferido no AgInt nos EDcl no REsp n. 1.921.608/SP (DJe de 10/9/2021).
+Contraminuta às e-STJ, fls. 1.118-1.136.
+É o relatório.
+Ante o exposto, preenchidos os requisitos legais, com base no art. 253, parágrafo único, II, "d", do RISTJ, dou provimento ao agravo e determino a reautuação do feito como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do recurso especial, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
