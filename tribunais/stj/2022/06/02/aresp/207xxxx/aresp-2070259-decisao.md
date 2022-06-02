@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte:
+DIREITO PROCESSUAL CIVIL -AGRAVO DE INSTRUMENTO -EXECUÇÃO FISCAL - DESBLOQUEIO DE VALOR - AUSÊNCIA DE TRANSFERÊNCIA PARA A CONTA JUDICIAL - JUROS E CORREÇÃO MONETÁRIA - QUESTÃO NÃO DEDUZIDA NO MOMENTO OPORTUNO - PRECLUSÃO TEMPORAL - SUMULA 254 DO STF - AUSÊNCIA DE SIMILITUDE FÁTICA - RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa aos arts. 489, 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 322, § 1º, do CPC/2015; 11, § 3º, da LEF; bem como, 5º, XXXV, LV, 93, IX, da CF/88, porquanto:
+Isso porque, em que pese não se tratar os autos de condenação ou ordem de pagamento, diz respeito a valores bloqueados em conta bancária do Embargante, e que ao final, o próprio fisco Municipal pleiteou pela extinção da execução fiscal, assim, o único prejudicado na presente demanda é a Recorrente, que por longos anos amargou o prejuízo de não usufruir das quantias que lhe pertenciam.
+Como se observa, a matéria trazida à baila (JUROS E CORREÇÃO MONETÁRIA) afiguram-se como de ordem pública, podendo ser alegadas e apreciadas a qualquer tempo, e em qualquer grau de jurisdição, PORTANTO, DEVERIAM SER OBJETO DE APRECIAÇÃO PELO NOSSO COLENDO TJMG, porém, sequer houve fundamentação quanto a este ponto.
+Fato é que, os juros e a correção monetária, os quais devem incidir sobre a quantia bloqueada, foram questionados pela Recorrente no Juízo de Primeiro Grau, conforme se infere da petição acostada ao evento21dos autos, portanto, improcede, repise-se, a fundamentação de preclusão temporal (evento JPe30 -Doc.11).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 1228/1232, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que:
+No mais, constou na sentença que julgou extinta a execução fiscal (doc. 15) o seguinte:
+"Considerando que às. Fls. 47/50 foi realizado pela 1ª. Vara da Fazenda Municipal de Contagem bloqueio via Bacenjud e não houve a transferência para conta judicial, proceda o desbloqueio do valor constrito".
+A leitura do referido trecho da sentença demonstra, de forma inequívoca, que a agravante teve ciência de que o valor desbloqueado não seria atualizado, uma vez que não houve transferência para conta judicial. Além disso, o valor estava bloqueado na própria conta da recorrente, portanto, tinha ciência de que não estava sendo corrigido.
+Assim, se a agravante pretendia discutir eventual responsabilidade do exequente para atualização do valor bloqueado, deveria ter deduzido a questão na apelação (docs. 16 a 18) aviada contra a sentença que extinguiu a execução.
+Se não o fez e, repise-se, tinha ciência da ausência de correção, resta clara a ocorrência de preclusão temporal, não cabendo a discussão da questão neste momento processual.
+Por outro lado, o caso dos autos não se trata de condenação ou de ordem de pagamento - mas de simples desbloqueio de valor em conta da própria recorrente, assim, não há como falar na aplicação da súmula 254 do Supremo Tribunal Federal.
+Preliminarmente, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489, 1.022 do CPC/2015.
+No mérito, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  (..) demonstra, de forma inequívoca, que a agravante teve ciência de que o valor desbloqueado não seria atualizado, uma vez que não houve transferência para conta judicial. Além disso, o valor estava bloqueado na própria conta da recorrente, portanto, tinha ciência de que não estava sendo corrigido  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+A corroborar com esse entendimento, destacam-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Não há falar em omissão, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, não cabendo confundir omissão com entendimento diverso do perfilhado pela parte.
+2. A conclusão do Tribunal de origem acerca de ter havido homologação de laudo pericial, preclusão consumativa e desnecessidade de produção de nova prova pericial, decorreu do exame dos elementos constantes nos autos, de modo que não pode ser revista em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt na TutPrv no REsp 1536408/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 24/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. AVALIAÇÃO REALIZADA POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. DISCUSSÃO SOBRE A NECESSIDADE DE NOMEAÇÃO DE AVALIADOR OFICIAL. ACÓRDÃO RECORRIDO FULCRADO NAS PECULIARIDADES DO CASO CONCRETO. REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+1. É certo que a orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que o art. 13, § 1º, da Lei 6.830/80 deve ser aplicado, ainda que a avaliação tenha sido efetuada por oficial de justiça, ou seja, "impugnada a avaliação, pelo executado, ou pela Fazenda Pública, antes de publicado o leilão, o juiz, ouvida a outra parte, nomeará avaliador oficial para proceder a nova avaliação", conforme dispõe o preceito legal referido.
+2. No entanto, em caso análogo, a Segunda Turma/STJ mitigou a regra prevista no art. 13, § 1º, da Lei 6.830/80, aplicando o óbice da Súmula 7/STJ, na hipótese em que o Tribunal de origem afirmou inexistir situação concreta apta a invalidar a avaliação realizada pelo oficial de justiça avaliador (REsp 1259854/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2011, DJe 01/09/2011).
+3. No presente caso, considerando que o Tribunal afirmou que, "neste momento, deve ser prestigiada a presunção de legitimidade do laudo produzido pela auxiliar do juízo, não havendo elementos mínimos a autorizar, por ora, nova avaliação do imóvel", é imperioso concluir que a análise da alegada afronta ao art. 13, § 1º, da Lei 6.830 encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1524901/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Por fim, registro a impossibilidade de conhecimento das alegações relativas à ofensa a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+Cumpre esclarecer que os óbices aplicados impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, a e b, do RISTJ e Súmula 568/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. ALEGADA AUSÊNCIA DE PRECLUSÃO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
