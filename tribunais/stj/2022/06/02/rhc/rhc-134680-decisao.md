@@ -1,0 +1,17 @@
+DECISÃO
+Recurso ordinário interposto por Roberto Carlos Rivero Salazar contra o acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, que denegou o HC n.00449222920208190000 (fls. 60/61):
+HABEAS CORPUS. ARTIGO 282, PARÁGRAFO ÚNICO; ARTIGO 299; E ARTIGO 307, N/F DO ARTIGO 69, TODOS DO CÓDIGO PENAL. POSTULA-SE A CONCESSÃO DA LIBERDADE DO PACIENTE, ALEGANDO- SE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DE REFERIDA MEDIDA; ESTAR O PACIENTE VULNERÁVEL AO VÍRUS DO "COVID - 19", POR SER ASMÁTICO, ALÉM DE POSSUIR CONDIÇÕES PESSOAIS FAVORÁVEIS À CONCESSÃO DO "WRIT".
+Noticiam os autos, que o paciente foi denunciado pela prática das condutas descritas no artigo 282, parágrafo único; artigo 299; e artigo 307, n/f do artigo 69, todos do Código Penal. Registre-se, por importante, que a medida prisional foi decretada de modo suficientemente motivado, em atenção ao disposto no art. 315 do CPP, observado o inciso IX do art. 93, da CR/88, inferindo-se a adequação da cautela ao caso, e a necessidade de sua imposição, presentes os requisitos da segregação ergastular, que se mostra adequada e necessária para acautelar o meio social e a própria credibilidade da justiça, garantindo-se, assim, a ordem pública, a conveniência da instrução criminal e a aplicação da Lei Penal, na forma do artigo 312 do Código de Processo Penal. Ajunte-se, que o juízo a quo, mais próximo das provas, e, por consequência, mais apto para aferir a necessidade da segregação, relatou a gravidade, em concreto, das condutas delituosas perpetradas pelo paciente, ressaltando, que "os elementos constantes dos autos demonstram que o custodiado realizava consultas e procedimentos médicos sem habilitação técnica, com habitualidade, colocando em alto risco, inclusive de mor- te, uma quantidade indeterminada de pessoas." Assevere-se, que as alegadas condições pessoais por si só, não autorizam a revogação da prisão preventiva, presentes elementos que autorizem a segregação. Por fim, relativamente à concessão da liberdade do paciente em razão do risco do COVID-19, a Recomendação do Conselho Nacional de Justiça, expedida em prol de medidas preventivas à propagação da referida, não impõe a revogação das prisões cautelares ou aplicação de medidas alternativas automaticamente, devendo o magistrado avaliar cada caso, conforme suas especificações, acrescentando-se, que no caso concreto, a própria impetrante noticiou que o paciente foi acometido pela Covid-19 em abril do ano corrente, já tendo recebido alta e encerrado o tratamento.
+INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM CONHECIDA E DENEGADA.
+Aponta-se a ausência de fundamentação concreta para a manutenção da prisão cautelar e que, em razão da pandemia de Covid-19, seria mais adequado que o recorrente cumprisse prisão domiciliar.
+A liminar foi indeferida (fls. 167/168).
+Informações prestadas (fls. 172/176).
+Parecer do Ministério Público Federal (fls. 178/181).
+É o relatório.
+O recurso perdeu o objeto.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que, em 26/1/2021, foi proferida decisão,revogando a prisão cautelar, sendo concedidaa liberdade mediante a substituição da prisão pelas cautelares do art.319, incisos I e IV, do CPP.
+Ante o exposto, julgo prejudicado o recurso ordinário.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PRISÃO PREVENTIVA. SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS CAUTELARES PREVISTAS NO ART.319, I E IV, DOCPP.
+Recurso prejudicado.
