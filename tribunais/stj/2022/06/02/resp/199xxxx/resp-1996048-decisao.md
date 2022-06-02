@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por RUDINEI MARQUES DE MELO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (e-STJ, fls. 440-449):
+"APELAÇÕES CRIMINAIS - RÉU SOLTO - CRIMES DE EXTORSÃO (CP,ART. 158, CAPUT) E DANO QUALIFICADO (CP, ART. 163, PARÁGRAFO ÚNICO, IV) - SENTENÇA DE PARCIAL PROCEDÊNCIA (ABSOLVIÇÃODO PRIMEIRO DELITO) - INSURGÊNCIAS DO MINISTÉRIO PÚBLICO E DO RÉU.
+RECURSO MINISTERIAL - PLEITO PELA REFORMA DA SENTENÇA- ALEGAÇÃO DE QUE HÁ EVIDÊNCIAS SUFICIENTES PARA A CONDENAÇÃO DO RÉU PELO CRIME DE EXTORSÃO - NÃO ACOLHIMENTO - ELEMENTARES DO TIPO PENAL NÃO VERIFICADAS -GRAVE AMEAÇA NÃO CONFIGURADA - CONDUTA ATÍPICA -SENTENÇA MANTIDA.
+"O núcleo do tipo é o verbo constranger, que tem o significado de obrigar, coagir alguém a fazer, tolerar que se faça ou deixar de fazer alguma coisa. Esse constrangimento, da mesma forma que aquele previsto pelo art. 146 do Código Penal, deve ser exercido com o emprego de violência ou grave ameaça. Além disso, o agente, segundo o entendimento doutrinário predominante, deve atuar com uma finalidade especial, que transcende ao seu dolo, chamada de especial fim de agir, aqui entendida como o intuito de obter para si ou para outrem indevida vantagem econômica. Dessa forma, o agente deve constranger a vítima, impondo-lhe um comportamento - positivo ou negativo -, determinando que faça, tolere que se faça, ou mesmo deixe de fazer alguma coisa, a fim de - que, com isso, consiga, para ele ou para outrem, indevida vantagem econômica, que deve ser entendida em um sentido mais amplo do que a coisa móvel alheia exigida no delito de roubo. Qualquer vantagem de natureza econômica, gozando ou não do status de coisa móvel alheia, ou seja, passível ou não de remoção, poderá constituir a finalidade especial com que atua o agente" (Rogério Greco).
+APELO DA DEFESA - PEDIDO DE SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITOS, CONSISTENTE EM PRESTAÇÃO PECUNIÁRIA, POR MULTA - PEDIDO
+NÃO ACOLHIDO - DISCRICIONARIEDADE DO MAGISTRADO.
+Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos." Existindo duas possibilidades de sanções substitutivas e não havendo o legislador definido os critérios a serem adotados na escolha, compete ao magistrado realizar a opção no exercício do seu juízo discricionário  .. " (STJ,Min. Maria Thereza de Assis Moura). RECURSOS CONHECIDOS E DESPROVIDOS."
+Em suas razões recursais, a defesa aponta violação do art. 44, § 2º, do CP. Aduz para tanto, em síntese, que não houve fundamentação idônea para a escolha que lhe foi maisdesfavorável na substituição da pena corporal por restritiva de direito de prestação pecuniária, no lugar de uma pena de multa.
+Com contrarrazões (e-STJ, fls. 474-478), o recurso especial foi admitido na origem (e-STJ, fls. 481-483).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso especial e, se conhecido, desprovido(e-STJ, fls. 500-508).
+É o relatório.
+Decido.
+No mérito, a insurgência prospera.
+Com efeito, consoante o entendimento deste STJ, a escolha dentre as duas opções elencadas pelo art. 44, § 2º, do CP nos casos de reprimendas corporais superiores a 1 anodeve ser sempre motivada pelo magistrado. Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. RECEPTAÇÃO.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. MULTA. FUNDAMENTAÇÃO CONCRETA. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos casos de condenação superior a 1 ano, é possível a substituição da pena privativa de liberdade por uma pena restritiva de direitos e multa ou por duas penas restritivas de direitos, nos termos do art. 44, § 2º, do Código Penal.
+3. Cabe ao magistrado, ao decidir pela substituição da pena previstas no art. 44, § 2º, do Código Penal, apresentar fundamentação idônea de modo a justificar o motivo de sua escolha pela pena restritiva de direitos.
+4. Dessa maneira, não apresentado fundamentos concretos que justifiquem a escolha menos benéfica ao réu, a ordem deve ser concedida para determinar a substituição por uma pena restritiva de direitos e multa.
+5. Agravo regimental improvido".
+(AgRg no HC 557.107/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020)
+"RECURSO ESPECIAL. PENAL. FURTO SIMPLES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. EXIGÊNCIA DE FUNDAMENTAÇÃO PARA A ESCOLHA DA SANÇÃO SUBSTITUTIVA. CONVERSÃO POR MULTA. POSSIBILIDADE. PENA INFERIOR A UM ANO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS.
+1. Este Superior Tribunal de Justiça assentou sua jurisprudência no sentido de que a substituição da pena privativa de liberdade igual ou inferior a 1 (um) ano deve acompanhar a literalidade da disposição normativa contida na primeira parte do parágrafo 2º do art. 44 do Código Penal, ou seja, a substituição deve se dar por multa ou por uma pena restritiva de direitos.
+2. Existindo duas possibilidades de sanções substitutivas e não havendo o legislador definido os critérios a serem adotados na escolha, compete ao magistrado realizar a opção no exercício do seu juízo discricionário, que não dispensa a devida fundamentação de modo individualizado nas circunstâncias do fato e do processo, em obséquio ao princípio do livre convencimento motivado e ao mandamento constitucional inserto no artigo 93, inciso IX da Carta da República.
+3. Realizada a conversão pela sanção substitutiva menos favorável sem motivação concreta, deve ser acolhido o pleito recursal para determinar a substituição da pena por multa, mormente porque foram consideradas favoráveis todas as circunstâncias judiciais, tanto que a pena-base restou fixada no mínimo legal.
+4. Recurso provido".
+(REsp 1546553/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/10/2015, DJe 23/10/2015)
+Tal ônus não foi atendido pelas instâncias ordinárias, que se limitaram a afirmar a natureza discricionária da escolha, em desacordo com a jurisprudência deste Tribunal Superior sobre o tema.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ,dou provimentoao recurso especial,a fim de substituir as penas privativas de liberdade dos recorrentes por uma restritiva de direitos e multa, para cada um deles.
+Determino o retorno dos autos ao TJ/SC para que este escolha a sanção restritiva aplicável e arbitre a multa.
+Publique-se. Intimem-se.
