@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por Edson José Dias e Luiz Alberto da Silva contra decisão que negou seguimento a recurso especial manejadoem face de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul,assim ementado (fl. 128):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO EXTINÇÃO DA AÇÃO - PRESCRIÇÃO INTERCORRENTE - ARBITRAMENTO DE HONORÁRIOS - PRETENSÃO DE MAJORAÇÃO - IMPOSSIBILIDADE - RECURSO DESPROVIDO.
+Extinta a ação de execução em razão de prescrição intercorrente, à qual não deu causa o exequente, incabível a fixação de honorária em favor da parte devedora, que foi quem efetivamente deu causa à ação, conforme precedentes do STJ(REsp 1769201/SP4ªTurma. Rel. Min Maria Isabel Gallotti. J. 12/03/2019. ale 20/03/2019) e desta Corte (AC 0550125-39.1990.8.12.0006, 1ªCâmara Cível, rel. Des. Marcelo Câmara Rasslan. J. 12/03/2019. DJ 26"03/2019).
+Opostos embargos de declaração, foram eles rejeitados (fls. 153/157).
+Nas razões do recurso especial, a parterecorrente aponta violação doartigo 85, caput e§ 2º, do Código de Processo Civil, bem como dissídio jurisprudencial.
+No mérito, aduz que "o feito ficou suspenso por mais de 13 (treze) anos e 05 meses e 26 dias ininterruptos, sem que nesse interregno a parte promovesse qualquer ato para o andamento processual, não tratando-se (sic) meramente de transcurso de lapso temporal analisado de forma isolada, mas sim de desídia do recorrido na condução da execução", motivo pelo qual deve haver condenação em verba honorária.
+Alega que, "diferente do sustentado no voto do relator, houve bens que faziam frente à dívida. Todavia, o recorrido ficou inerte em dar andamento ao feito, inclusive dar continuidade à execução em relação aos 02 veículos alienados fls.29/31, que poderia solicitar a penhora da cota-parte já paga pela executada, dos veículos financiados, com certeza garantiria a execução na época do seu trâmite".
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que ele não merece ser provido, senão vejamos.
+Ao solucionar a controvérsia, o Tribunal de origem adotou os seguintes fundamentos:
+Consoante orientação da Corte Superior, nos casos de prescrição intercorrente por ausência de bens passíveis de penhora, a sucumbência deve ser resolvida com base no princípio da causalidade, verbis:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO.PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE.
+1. Declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação.
+2. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente.
+3. Recurso especial a que se nega provimento. (REsp 1769201/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, j. em 12/03/2019).
+Importante salientar a fundamentação do voto da Ministra Maria Isabel Gallotti no referido julgado:
+Com efeito, o fato de o exequente não localizar bens do devedor não pode significar mais uma penalidade em desfavor daquele que, embora tenha decisão meritória favorável, não vem a obter êxito prático com o processo.
+Do contrário, o devedor que não apresentou bens suficientes ao cumprimento da obrigação ainda sairia vitorioso na lide, fazendo jus àverba honorária em prol de sua defesa, o que se revelaria teratológico, absurdo, aberrante.
+Não fosse o suficiente, tem-se que o sistema processual civil consagra os princípios da efetividade (art. 4º), da boa-fé processual (art.
+5º) e da cooperação (art. 6º), tudo no intento de que a prestação jurisdicional seja não somente rápida e correta, mas também eficaz, efetiva.
+A parte move a execução no intento de que haja a satisfação da obrigação e de que a seu título seja dada eficácia.
+Se não houve satisfação por impossibilidade material, por ausência de cooperação por parte do devedor, não há de se fazer com que o exequente arque com os ônus, eis que não deu causa ao processo.
+Logo, não se revela razoável que os executados, além de fugirem da responsabilidade de satisfazer a obrigação voluntariamente assumida perante o credor, venham se beneficiar de ônus que deu causa.
+Com efeito, como os apelantes deixaram de quitar as obrigações que assumiram no tempo e modo devidos, evidente que não têm direito a honorários de sucumbência.
+A propósito, julgados desta Câmara Cível:
+..
+Veja-se que não houve desídia do banco recorrido no transcorrer do processo, na medida em que os únicos bens encontrados pelo meirinho foram dois veículos alienados fiduciariamente, ou seja, não foram localizados bens livres edesembaraçados.
+Desse modo, a sentença que deixou de fixar honorários sucumbenciais em favor dos executados deve ser mantida por seus próprios fundamentos.
+É entendimento desta Corte Superior que, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor, que não cumpriu a obrigação de satisfazer dívida líquida e certa.
+Nesse sentido, confiram-se os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARAÇÃO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. JUÍZO DE ADMISSIBILIDADE IMPLÍCITO. POSSIBILIDADE. PRECEDENTES. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS ATENDIDOS. DISSENSO INTERPRETATIVO NOTÓRIO. MITIGAÇÃO DOS PRESSUPOSTOS DOS ARTS. 1.029, § 1º, DO CPC/2015 E 255, § 1º, DO RISTJ. MÉRITO. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE LOCALIZAÇÃO DE BENS PENHORÁVEIS. ÔNUS SUCUMBENCIAIS. RESPONSABILIDADE DO DEVEDOR. PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA DA SEGUNDA SEÇÃO DO STJ. DECISÃO MANTIDA.
+..
+6. O entendimento da Segunda Seção do STJ é de que "a decretação da prescrição intercorrente por ausência de localização de bens penhoráveis não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente" (AgInt nos EDcl nos EAREsp n. 957.460/PR, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/2/2020, DJe 20/2/2020).
+7. Agravo interno a que se nega provimento.(AgInt nos EDcl no REsp n. 1.900.464/MS, relator Ministro AntônioCarlos Ferreira, Quarta Turma, DJe de 19/5/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, "declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente" (REsp 1.769.201/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/03/2019, DJe de 20/03/2019).
+2. Agravo interno desprovido.(AgInt nos EDcl no AREsp n. 1.857.706/MS, relator Ministro Raul Araújo, Quarta Turma, DJe de 13/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. PRESCRIÇÃO INTERCORRENTE RECONHECIDA NA ORIGEM. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE SUPERIOR. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.AGRAVO INTERNO DESPROVIDO.(AgInt no AREsp 1670425/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/11/2021, DJe 25/11/2021)
+Incide, assim, a Súmula 83 do STJ.
+Ademais, rever o entendimento do Tribunal de origem acerca da existênciade bens penhoráveis requer, necessariamente, a revisão do acervo fático-probatório contidonos autos, o que não é possível em face do óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a
+quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ficando essa obrigação sob condição suspensiva de exigibilidade em caso de beneficiário da gratuidade da justiça.
+Intimem-se.
