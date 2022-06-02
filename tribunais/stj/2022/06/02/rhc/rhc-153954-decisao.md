@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ORLANDO DOS SANTOS FERREIRAcontra acórdão do Tribunal de Justiça do Maranhão, assim ementado:
+PENAL. PROCESSO PENAL. FURTO DE SEMOVENTES. TRANCAMENTO DA AÇÃO PENAL. FALTA DE JUSTACAUSA PARA A INSTAURAÇÃO DA AÇÃO PENAL. IMPOSSIBILIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃOIDÔNEA À LUZ DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. PACIENTE FORAGIDO. GARANTIA DAAPLICAÇÃO DA LEI PENAL. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM DENEGADA.
+1. A alegação de ausência de justa causa, apta a ensejar o trancamento da ação penal, só pode ser reconhecida quando, sem a necessidade de exame aprofundado e valorativo dos fatos, indícios e provas, restar inequívoca e prontamente demonstrada, pela impetração, a atipicidade flagrante do fato, a ausência de indícios a fundamentarem a acusação ou, ainda, a extinção da punibilidade.2. É entendimento pacífico na doutrina e na jurisprudência pátria que a justa causa capaz de determinar o trancamento da Ação Penal é aquela perceptível ictu oculi, onde a ilegalidade é patente e evidenciada pela simples enunciação dos fatos.
+2. A prisão da paciente encontra-se devidamente consubstanciada na garantia da ordem pública e da aplicação da lei penal, bem como por conveniência da instrução processual garantia da aplicação da lei penal.
+3. In casu, os autos encontram-se pendentes de citação do acusado, que se encontra em local incerto e não sabido.
+4. Ordem conhecida e denegada. Unanimemente. (e-STJ, fl. 114)
+Irresignada, a defesa alega a ausência de justa causa. Defende que a imputação carece de indícios mínimos de autoria. Nesse sentido, afirmaque o recorrente é acusado do abigeato tão somente por ter abandonado o local de trabalho sem comunicação prévia à empregadora.Assim, pede o trancamento da ação penal.
+Subsidiariamente, requer a substituição da prisão preventiva por medidas cautelares diversas da prisão.
+A Subprocuradoria-Geral da República manifestou-se pelo parcial provimento do recurso.
+É o relatório.
+Decido.
+Nos termos do entendimento consolidado desta Corte, "o trancamento da ação penal na via estreita do habeas corpus somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito." (HC 510.410/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/08/2019, DJe 30/08/2019.)
+Quanto à alegação de ausência de justa causa,o Tribunal de origem anotou que o pleito esbarra nos limites cognitivos do habeas corpus:
+Para o trancamento da Ação Penal pela via do mandamus, a falta de justa causa deve ser evidenciada prima facie, pela simples enunciação dos fatos, eis que, vedado o exame aprofundado de provas em sede de habeas corpus.
+In casu, o paciente encontra-se acusado do furto de 186 (cento e oitenta e seis) bovinos na Fazenda Tocantins, local em que o mesmo exercia a função de vaqueiro e caseiro.
+O exame aprofundado das provas, consoante requerido pelo impetrante, importaria, sem sombra de dúvidas, em revolvimento de toda a moldura fático-probatória delineada no curso da Ação Penal que ora se inicia, sendo tal providência inaceitável na via estreita de remédio heróico.
+É certo que o habeas corpus é um instrumento constitucional de proteção do direito de locomoção. Todavia, o seu rito especial, no qual não há espaço para dilação probatória, impossibilita a sua utilização para o deslinde de temas que envolvam longa indagação sobre matéria de fato controvertida.
+Com efeito, a alegação de ausência de justa causa só pode ser reconhecida quando, sem a necessidade de exame aprofundado e valorativo dos fatos, indícios e provas, restar inequívoca e prontamente demonstrada, pela impetração, a atipicidade flagrante do fato, a ausência de indícios a fundamentarem a acusação ou, ainda, a extinção da punibilidade.
+Com a devida vênia, tal análise é absolutamente incabível pela via estreita do remédio heróico.(e-STJ, fl. 120)
+De fato, "afastar a conclusão das instâncias ordinárias demandaria amplo reexame da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus e do respectivo recurso ordinário." (RHC 109.716/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/05/2019, DJe 14/05/2019.) Além disso, não se infere manifesta ilegalidade na persecução penal a ensejar a concessão da ordem de ofício. Aqui, cumpre notarque, ao contrário do que sugere a defesa, o desaparecimento do vaqueiro e caseiro, juntamente com 84bovinos da fazenda de que cuidava, somado à palavra da vítima e de testemunhas quanto à autoria é suficientepara configurara justa causa.
+Em relação à prisão, melhor sorte não socorre ao recorrente.
+Na hipótese, a medida restritiva da liberdade está fundamentada na garantia da ordem pública e na necessidade de se assegurar a aplicação da lei penal:
+A custódia cautelar fundamenta-se nos requisitos da prisão preventiva, elencados no art. 312 do Código de Processo Penal, principalmente na garantia da ordem pública, ante a gravidade do crime em comento, bem como a periculosidade demonstrada pelo acusado. Fundamenta-se ainda, para assegurar a instrução criminal, a prisão preventiva visa a preservar a prova processual, eis que evadiu-se o réu do distrito da culpa. (e-STJ, fl. 122)
+Com efeito, importa ressaltar que a fundamentação do acórdão recorrido encontra amparo na jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGAS. PACIENTE FORAGIDO. AGRAVO IMPROVIDO.
+1. O decreto prisional apresenta fundamentação concreta baseada na quantidade de droga apreendida (1.065g de maconha), bem como no fato de que o paciente evadiu-se da abordagem policial, estando atualmente foragido.
+2. Havendo a indicação de fundamento concreto para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 162.727/SP, relator Ministro Olindo Menezes (desembargador Convocado do Trf 1ª Região), Sexta Turma, DJe de 20/5/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRELIMINAR DE NULIDADE POR VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE REJEITADA. DECISÃO MONOCRÁTICA DE ACORDO COM JURISPRUDÊNCIA DOMINANTE. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE ELUCIDAÇÃO DOS FATOS E ENCERRAMENTOS DA INVESTIGAÇÃO CRIMINAL. MODUS OPERANDI. GRAVIDADE CONCRETA. ARMA DE FOGO. RESTRIÇÃO DA LIBERDADE DA VÍTIMA. AGENTES FORAGIDOS. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. INADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. "Nos termos da jurisprudência desta Quinta Turma, a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 117.337/CE, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/11/2019, DJe 28/11/2019).
+5. Condições subjetivas favoráveis não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+7. Agravo regimental conhecido e não provido.
+(AgRg no RHC n. 161.501/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2022.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
