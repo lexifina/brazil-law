@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimentoarecurso especial, no qual se alega violação doart. 81 do Código de Processo Civil. O acórdão recorrido estáretratadonaseguinteementa (fl. 68):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença de verbas sucumbenciais ajuizado em Embargos de Terceiro - Impugnação interposta pela executada (agravante) alegando impossibilidade de execução da sucumbência, tendo em vista a suspensão de sua exigibilidade, nos termos do art. 98, §§ 2º e 3º do CPC - Argumento inadmissível, pois evidente o erro material da r. sentença, ao mencionar o referido dispositivo legal, pois a agravante/executada tinha ciência de que não era beneficiária da justiça gratuita, agindo de má-fé - Alegação, ainda, de ilegitimidade ativa do executado, por não ser sucessor do credor originário (Banco Bamerindus) - Inadmissibilidade - Comprovação em Ata da Assembleia Geral Extraordinária e demais documentos acerca da alteração da denominação do Banco Bamerindus do Brasil S. A. para Banco Sistema S. A. - Decisão mantida, condenando a agravante o pagamento de multa por litigância de má-fé - RECURSO IMPROVIDO, com observação.
+Sustenta a parte agravante que o fato gerador que ensejou a aplicação da pena por litigância de má-fé ocorreu na fase de cumprimento de sentença.
+Afirma que a multa deve ser fixada com base no valor constante do cumprimento de sentença, e não com base no valor dos embargos de terceiro.
+Assim posta a questão, passo a decidir.
+Incidem os enunciados n. 282 e 356daSúmula do STFquantoà questão da base de cálculo da multa por litigância de má-fé,pois é estranha aojulgado recorrido, a elafaltandooindispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
