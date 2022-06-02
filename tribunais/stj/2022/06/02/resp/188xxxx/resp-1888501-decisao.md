@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por Otavio Luciano Camargo Sales de Magalhães, noqual se alega violação doart.833, IV e X, do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 342):
+INDENIZAÇÃO - PENHORA DE NUMERÁRIO ORIUNDO DE EMPRÉSTIMO CONSIGNADO - POSSIBILIDADE - VERBA SEM NATUREZA SALARIAL - INEXISTÊNCIA DE IMPEDIMENTO LEGAL (ART. 833, DO CPC) - DECISÃO MANTIDA - GRATUIDADE PROCESSUAL - PROVA DA HIPOSSUFICIÊNCIA - BENESSE CONCEDIDA - AGRAVO PARCIALMENTE PROVIDO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 386):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - INEXISTÊNCIA -DESNECESSÁRIO O ESGOTAMENTO DE TODA A MATÉRIA ARTICULADA -ARESTO COM FUNDAMENTAÇÃO BASTANTE - EMBARGOS EJEITADOS.
+Afirma o recorrente que "o empréstimo consignado não perde a natureza salarial, por se tratar de financiamento onde o agente financeiro tem a certeza do adimplemento face ao desconto direto na fonte pagadora" (fl. 365).
+Assevera que "tal modalidade de empréstimo, evidentemente, tem as mesmas características do próprio salário, sendo certo que autorizar sua penhora nada mais é que permitir a penhora de salário, pela via transversa" (fl. 365).
+Sustenta que "o valor bloqueado é proveniente de empréstimo consignado, contraído para subsidiar as necessidades básicas do agravante, além de quitar dívidas antigas na praça de Muzambinho, onde o agravante é alvo de constantes cobranças administrativas e judiciais" (fl. 368).
+Requer seja declarada a "impenhorabilidade do numerário bloqueado na conta corrente do recorrente, posto que oriundo de empréstimo bancário com desconto efetuado diretamente em folha de pagamento, além do que, inferior a 40 salários mínimos (..)" (fl. 378).
+Assim posta a questão, passo a decidir.
+No caso dos autos, verifico que a Corte local consignou que a constrição alcançou tão somente valor proveniente de empréstimo tomado pelo recorrente, que não tem natureza salarial, bem como entendeu que não foi demonstrado que tal dinheiro seria vertido para o pagamento de dívidas que interessariam ao recorrente, conforme se extrai dos seguintes trechos (fls. 343/344):
+(..)
+De plano, defere-se a gratuidade processual ao Recorrente, EX VI do quanto disposto no Art. 99, caput, do CPC, além dos documentos anexados às fls. 171/193.
+Com efeito, os valores percebidos para estudos, em razão da sua natureza salarial, não podem ser penhorados, pois que se destinam a amparar quem se dedica exclusivamente aos projetos.
+Ainda que assim pudesse ser considerado, verifica-se da ordem de bloqueio ONLINE, no entanto, que a constrição alcançou tão somente valor proveniente de empréstimo tomado pelo Recorrente - motivo de sua verdadeira irresignação.
+No entanto, nem assim razão detém; é que a verba que tal não ostenta natureza salarial, conforme entendimento jurisprudencial a respeito, ou porque não está nem mesmo elencada no rol das impenhorabilidades do Art. 833 do CPC, e nem tampouco fora demonstrado que tais dinheiros seriam vertidos para o pagamento de dívidas que interessariam ao insurgente.
+Destarte, ao contrário do quanto defendido. "não tem natureza salarial o produto de empréstimo obtido em instituição financeira ainda que seu pagamento seja efetivado mediante desconto em folha de pagamento, caso dos chamados créditos consignados. O desconto em folha é apenas fórmula criada para garantir aos bancos o recebimento do mútuo, propiciando em contrapartida um oferecimento de menor taxa de juros. O produto do empréstimo, todavia, pode ser aplicado livremente, quer como complemento da renda para cobertura de despesas domésticas, como na realização de despesas de natureza meramente voluptuárias." (AI nº 0273111-24.2009.8.26.0000; 9ª Câmara de Direito Privado; Rel. DES. GALDINO TOLEDO, julgado em 09/03/2010).
+Nesse sentido, recentemente se pronunciou esta Colenda Corte Bandeirante:
+(..)
+Por último, nem mesmo importa que o valor obtido seja inferior a 40 salários mínimos; ver que tal limite deve ser observado apenas para constrição de conta poupança.
+Em arremate, o alegado excesso da constrição não fora objeto da decisão vergastada, inviabilizando sua apreciação nesta Instância, mormente porque a Magistrada A QUO consignou que o crédito está definitivamente constituído (fls. 12).
+(..)
+Com efeito, observo que o acórdão recorrido está em consonância com a jurisprudência do STJ, que firmou o entendimento de que os valores decorrentes de empréstimo consignado, depositados na conta salário do executado, não tem natureza salarial, não havendo que se falar em impenhorabilidade. A propósito, confiram-se:
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO EXTRAJUDICIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. VALORES DECORRENTES DE EMPRÉSTIMO CONSIGNADO. DEPÓSITO EM CONTA SALÁRIO. NATUREZA SALARIAL NÃO CONFIGURADA. IMPENHORABILIDADE AFASTADA. JULGAMENTO: CPC/2015.
+1. Ação de execução de título extrajudicial ajuizada em 2018, da qual foi extraído o presente recurso especial, interposto em 25/05/2020 e concluso ao gabinete em 08/04/2021.
+2. O propósito recursal é decidir sobre a penhora de valores oriundos de empréstimo consignado, depositados na conta salário do executado.
+3. É incabível a interposição de recurso especial fundada em suposta violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O fato de o pagamento das parcelas incidir diretamente sobre a contraprestação recebida como fruto do trabalho não equipara os valores oriundos de empréstimo consignado aos vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios, montepios, ou às quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, aos ganhos de trabalhador autônomo e aos honorários de profissional liberal, aos quais o legislador conferiu a proteção da impenhorabilidade (art. 833, IV, CPC/2015).
+5. Se nem mesmo o salário e verbas assemelhadas, que têm natureza alimentar, gozam de impenhorabilidade absoluta, não é razoável que se confira tal blindagem aos valores decorrentes de empréstimo consignado, apenas porque se encontram depositados na conta salário do devedor.
+6. Hipótese em que, diferentemente do decidido pela Terceira Turma no REsp 1.820.477/DF, (julgado em 19/05/2020, DJe 27/05/2020), o Tribunal de origem, ao analisar o conjunto fático-probatório dos autos, registrou que a penhora recaiu sobre valores cuja origem não foi comprovada pelo devedor, não havendo, pois, falar em impenhorabilidade.
+7. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp n. 1.931.432/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/6/2021.)
+RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. DESCONTO. FOLHA DE PAGAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PENHORABILIDADE. REGRA. IMPENHORABILIDADE. EXCEÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia principal a definir se os valores oriundos de empréstimo consignado em folha de pagamento, depositados em conta bancária do devedor, recebem a proteção da impenhorabilidade atribuída aos salários, proventos e pensões, conforme disposto no art. 833, IV, do CPC/2015.
+3. A quantia decorrente de empréstimo consignado, embora seja descontada diretamente da folha de pagamento do mutuário, não tem caráter salarial, sendo, em regra, passível de penhora.
+4. A proteção da impenhorabilidade ocorre somente se o mutuário (devedor) comprovar que os recursos oriundos do empréstimo consignado são necessários à sua manutenção e à da sua família.
+5. Na hipótese, o Tribunal de origem não analisou a necessidade do empréstimo para a manutenção do devedor e da sua família, limitando-se a concluir pela possibilidade da penhora do numerário em conta bancária, não havendo nos autos elementos que permitissem ao julgador verificar a condição financeira do devedor.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.820.477/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/5/2020.)
+Anoto, ademais,que rever as conclusões do Tribunal de origem, de que tal verba não ostenta natureza salarial e de que não fora demonstrado que tal dinheiro seria revertido para o pagamento de dívidas que interessariam ao recorrente, demandaria o reexame do acervo fático dos autos, procedimento que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
