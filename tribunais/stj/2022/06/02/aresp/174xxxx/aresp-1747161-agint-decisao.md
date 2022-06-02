@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por American Airlines Inc. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 837):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC/2015. PROGRAMA DE FIDELIDADE. CRÉDITO DE MILHAS. RELAÇÃO DE CONSUMO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REEXAME DE CLÁUSULAS E CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 848-879), a agravante defende a violação dos art. 489 do CPC/2015, aduzindo que o Tribunal de origem deixou de enfrentar os argumentos exarados na apelação e respectivas contrarrazões. Sustenta a violação dos demais artigos apontados no recurso especial, quais sejam, arts 67, 186, 286 e 422 do Código Civil de 2002; 1º, 2º e 51 do CDC; e 10, 141, 192 e 371 do Código de Processo Civil de 2015, afirmando que a parte não pode ser surpreendida com decisão fundada em fatos e circunstâncias a respeito das quais não tenha, previamente, tomado conhecimento. Alega ter demonstrado a violação dos dispositivos apontados, não incidindo as Súmulas n. 283 e 284/STF e não se tratar de reexame de cláusulas ou provas, devendo ser afastada a incidência das Súmulas n. 5 e 7/STJ. Por fim, repisa os argumentos do recurso especial.
+Foi apresentada impugnação (e-STJ, fls. 882-907).
+Brevemente relatado, decido.
+Com efeito, emmelhor análisedos autos, verifica-se haver plausibilidade nas alegações da agravante, reconhecendo que a matéria de fundo merece uma análise mais acurada.
+Dessa forma, dou provimento ao agravo, mediante juízo dereconsideração,para determinar a conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja mais bem examinada, com fulcro no art. 34, XVI, do RISTJ.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PROGRAMA DE FIDELIDADE. CRÉDITO DE MILHAS. RELAÇÃO DE CONSUMO. AGRAVO PROVIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONVERTER EM RECURSO ESPECIAL.
