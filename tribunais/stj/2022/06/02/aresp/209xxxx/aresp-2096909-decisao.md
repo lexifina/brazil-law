@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 208/209).
+O acórdão recorrido está assim ementado (e-STJ fls. 242/243):
+APELAÇÃO. Ação monitória em fase de cumprimento de sentença. Sentença de extinção em decorrência do plano de recuperação judicial da demandada. Insurgência da credora contra a extinção do feito e sua condenação ao ônus de sucumbência. Sem razão. Ação monitória proposta em decorrência de débito trabalhistas pagos pela recorrente na qual foi condenada em solidariedade com a demandada. Entendimento do STJ no sentido de estarem sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos. Mantida a sentença, inclusive quanto à condenação ao ônus integral da sucumbência mantida. Honorários majorados. Apelo não provido.
+No recurso especial (e-STJ fls. 189/197), fundamentado no art. 105, III, "a", da CF, arecorrentealegou que (e-STJ fl. 194):
+(..) houve expressa violação de lei federal, com relação ao art. 702,§ 8º, do CPC determina a constituição do título executivo judicial, para que assim se possa perseguir os créditos devidos e ainda, ao art. 523 do CPC, que dispõe sobre o rito do cumprimento de sentença, o qual foi seguido pela Recorrente, causando enorme instabilidade e insegurança jurídica no sistema judiciário.
+Aduziu ofensa ao art. 10 do CPC/2015, destacando a configuração do cerceamento de defesa decorrente da "extinção do incidente do cumprimento de sentença e a condenação em desfavor da Recorrente na verba sucumbencial" (e-STJ fl. 194).
+Sustentou contrariedade aos arts. 49 e 59 da Lei n. 11.101/2005, visto que ocrédito não está sujeito à recuperaçãojudicial.
+No agravo (e-STJ fls. 212/216), afirmaa presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Primeiramente, o Tribunal de origem não apreciou o conteúdo dos arts. 10, 523 e 702, § 8º, do CPC/2015, estando ausente o prequestionamento. Aplicando-se a Súmula n. 282/STF.
+Quanto à sujeição do crédito à recuperação judicial, entendeu o TJSP que (e-STJ fls. 182/183):
+Verifica-se que a sentença trabalhista foi prolatada em 30/04/2012 e em seu teor menciona a recuperação judicial da apelada, conforme documento de fls. 29/45 juntado na ação monitória proc. 1018903-67.2017.8.26.0100. A ação de recuperação judicial da apelada foi ingressada em 22/03/2012, portanto, antes de constituído o crédito trabalhista, embora o pleito tenha sido deferido em 09/09/2014.
+A sentença na ação monitória foi prolatada em 31/01/2019 e transitou em julgado em 30/5/2019. Em caso similar, envolvendo ação monitória em fase de cumprimento de sentença na qual se constituiu o crédito proveniente do pagamento de débitos trabalhistas cujas partes são pessoas jurídicas,o Superior Tribunal de Justiça tem decidido que o crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve-se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória ou homologatória de acordo eventualmente ter sido proferida e/ou transitada em julgado em momento posterior ao deferimento do pedido(..) Diante do exposto, (..) dou provimento ao recurso especial, reformando o aresto recorrido, para submeter o recebimento do crédito da presente demanda ao plano de recuperação judicial. (decisão monocrática proferida em 14/04/2020 no Recurso Especial nº 1.869.310-SP, relator ministro Raul Araújo).
+O acórdão recorrido foi proferido em observância à jurisprudência do STJ que entende que, parasubmissão aos efeitos da recuperação judicial, a existência do crédito é determinada pela data do seu fato gerador.
+Nesse sentido:
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação anulatória e de reparação de danos pela inclusão indevida em cadastro restritivo de crédito. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial,considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido.
+(REsp n. 1.840.531/RS, RelatorMinistro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 17/12/2020.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
