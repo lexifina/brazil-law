@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por CONDE DE BRAGANCA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA, CONCAL CONSTRUTORA CONDE CALDAS LTDAcontra decisão do Tribunal de Justiça do Estado do Rio de Janeiroque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fls. 883/884):
+DIREITO DO CONSUMIDOR -INCORPORAÇÃO IMOBILIÁRIA -ATRASO NA ENTREGA DO IMÓVEL -SENTENÇA DE PROCEDÊNCIA PARCIAL - IRRESIGNAÇÃO DA AUTORA - RELAÇÃO JURÍDICA QUE POSSUI INDISCUTÍVEL NATUREZA CONSUMERISTA, A ENSEJAR A APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR-PROMESSA DE COMPRA E VENDA DE UNIDADE RESIDENCIAL IMOBILIÁRIA - ENTREGA DAS CHAVES FORA DO PRAZO CONTRATUAL DE TOLERÂNCIA DE 180 DIAS -FALHA NA PRESTAÇÃO DO SERVIÇO - PEDIDO DE DANO MATERIAL JULGADO PROCEDENTE. CLÁUSULA DE INVERSÃO DA MORA APLICÁVEL AO CASO VERTENTE, POR FORÇA DA ORIENTAÇÃO FIRMADA POR OCASIÃO DOJULGAMENTO DO RESP Nº 1.614.721 -DF, DA LAVRA DO MIN, LUIS FELIPE SALOMÃO, CUJA TESE FOI A SEGUINTE: "No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial."DANO MORAL IN RE IPSA, DERIVADO DO PRÓPRIO EVENTO LESIVO E REVELADO PELA FRUSTRAÇÃO NA JUSTA EXPECTATIVA CRIADA PELA CONSUMIDORA EM RECEBER DE RECEBER O IMÓVEL ADQUIRIDO NOS MOLDES PROMETIDOS, APÓS O CUMPRIMENTO DE TODAS AS OBRIGAÇÕES ASSUMIDAS CONTRATUALMENTE -NEGA-SE PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 416, 476, 884e 944 do CC/02, além de divergência jurisprudencial.
+Pede a reforma do acórdão por entender, em síntese, que:
+(i) não há que se falar em dano moral indenizável, pois "durante o período de mora imputado exclusivamente às recorrentes - 30.12.2012 a 20.12.2013 -, e que comprovadamente não houve estava, na verdade estava a recorrida inadimplente com o saldo devedor, antes mesmo de findar o prazo para entrega do empreendimento" - fl. 962, mesmo que assim não fosse, o simples atraso na entrega da unidade imobiliárianão é suficiente para reparação;
+(ii) "se não há prova documental a amparar o pleito de danos emergentes, incabível a solução dada pela instância ordinária. De fato, não há falar em condenação da recorrente sem que os recorridos tenham apresentado prova constitutiva de seu direito" - fl. 964 e
+(iii) não cabe a condenação ao pagamento de multa moratória, cláusula penal, tendo em vista ser bis in idem com os danos emergentes.
+É o relatório.
+Passo a decidir.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
