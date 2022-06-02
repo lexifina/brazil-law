@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de GILMAR DA MOTA PEREIRA, contra acórdão do Tribunal de Justiça do Estado do Tocantins.
+Consta dos autos que o paciente foi presoem flagrante, em face da suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ, alega a defesa, em suma, que a apreensão de 26g de crack não justifica a prisão preventiva do paciente.
+Assevera que, "mesmo diante da reincidência, quando evidente a pequena quantidade de droga, e perfeitamente possível a aplicação das medidas cautelares diversas da prisão" (e-STJ, fl. 5).
+Requer a revogação da prisãopreventiva, com a imposição de medidas cautelares diversas da prisão.
+Foram prestadas informações (e-STJ, fls. 34-46).
+O Ministério Público Federal opinou pela denegação da ordem(e-STJ, fls. 50-53).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, convém anotar que, conforme informações prestadas pelo Juízo de primeiro grau, em 25/3/2022, foi prolatada sentença que condenou opaciente nas sanções doart. 33, caput, da Lei n. 11.343/2006,à pena de 7 anos de reclusão e 500 dias-multa, no regime inicial fechado, em razão da reincidência, art. 33, §2º, alínea"c", do Código Penal, sendo indeferido o benefício do apelo em liberdade, pois permanecem os motivos da prisão preventiva, bem como esteve preso durante toda a instrução criminal.
+Entretanto, a jurisprudência da Quinta Turma desta Corte já se manifestou que a sentença penal condenatória superveniente, que não permite ao condenado o recurso em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+Por oportuno, vejamos o que consta no referido decreto constritivo:
+" ..
+Para a decretação da prisão preventiva, exige-se a presença de dois requisitos, quais sejam, fumus comissi delicti, consubstanciado na prova do ilícito e de indícios de autoria;e periculum libertatis, concernente na imprescindibilidade da constrição à liberdade de locomoção a partir da presença do suporte fático normativo autorizadores da prisão preventiva.
+Sob tal contexto, é de se asseverar que dúvidas não se apresentam acerca da prática de um atuar antijurídico que, à primeira vista, se adequa à modalidade do crime tipificado no art. 33 da Lei nº 11.343. Denotam-se indícios suficientes da existência da materialidade delitiva.
+No ponto, o auto de prisão em flagrante, per si, já demonstra a presença do fumus comissi delicti, evidenciada pela leitura dos depoimentos colhidos durante o procedimento inquisitivo e da própria confissão do increpado, que foi preso portando cerca de 200g do entorpecente conhecido como crack.
+Neste trilhar, passo agora à análise dos pressupostos relativos ao periculum libertattis, os quais se circunscrevem à garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal (art.312 CPP).
+Trata-se do crime de tráfico de drogas, visto que o flagrado foi encontrado com uma grande quantidade do entorpecente. Conforme o auto de constatação preliminar da substância (evento 1, PORT4):
+Crak/COCAÍNA, Descrição: vários pedaços de substância entorpecentes característicos de Crack, Aparência: pedras, Cor: amarelada.
+1º QUESITO - Qual a natureza e a quantidade do material apreendido e apresentado para exame  RESPOSTA:
+Pedras de Crack em quantidade suficiente para cerca de 120 (cento e vinte) disponibilidades de uso.
+Por certo que referida conduta não pode ser tolerada pelo Poder Judiciário ante a lógica e gravidade que encerra.
+ ..
+No caso em análise, as circunstâncias fáticas em que o indiciado foi preso demonstram, a princípio, o envolvimento deste no crime de tráfico de drogas, o que é inconteste ante a notícia dos autos.
+Ora, a ordem pública não enseja proteção apenas quando se está diante de iminente revolta popular, distúrbio, tumulto ou confusão social.
+O que se tem visto é o aumento considerável do número de delitos motivados pelo consumo de drogas. Diversos furtos, roubos e até homicídios tendo como causa determinante a alimentação do vício pelas drogas.
+Aí se denota o papel do Estado, enquanto responsável por salvaguardar a segurança pública e o bem-estar social, especialmente pela atuação das polícias e do Poder Judiciário.
+Situações como a dos autos, quando reveladas, merecem pronta resposta, à altura tanto dos danos já causados quanto dos iminentes, sob pena de, pouco a pouco, saturar os limites da vulnerabilidade aceitável pelos cidadãos e promover o verdadeiro caos social.
+ ..
+A manutenção da segregação do autuado, em tese, além de evitar o cometimento de novos crimes, conserva a tranquilidade no meio social.
+ ..
+Ora, o flagrado foi encontrado com uma quantidade exorbitante de entorpecentes, suficientes para 120 usos. Há que se considerar, também, que os depoimentos colhidos apontam para a regularidade na prática do crime de tráfico de drogas, com fortes indícios de não ser uma prática isolada (evento 1, AUD/INTER3, f. 3):
+Que já foi usuáiro de drogas e sabe que Gilmar faz comércio da mesma na região; Que a olho nu identifica quuantidade de droga avaliada em aproximadamente R$ 2.000,00 (dois mil reais); Que nega estar usando entorpecentes e que não sabia que Gilmar estava portando drogas naquele momento. Nada mais disse e nem lhe foi perguntado.  ..
+Ademais, verifica-se que o flagrado possui execução penal vigente sob os autos nº 0009400-22.2015.8.27.2706, condenado pelo crime de roubo majorado e cumprindo pena em regime semiaberto, da qual restam 7 anos e 1 mês a serem cumpridos.
+Mesmo o fato de estar cumprindo pena decorrente da condenação em dois outros crimes não impediu o flagrado de novamente violar a lei penal, o que evidencia sua periculosidade e alta propensão para a prática de ilícitos, caracterizando fundada probabilidade de reiteração criminosa caso não permaneça segregado.
+Nesse diapasão, no presente caso, as condições pessoais do acusado e a forma com que foi praticado o delito, indicam que nenhuma das medidas previstas no art. 319 será suficiente para evitar o cometimento de novos crimes pelo indiciado, cuja liberdade representa risco à ordem pública neste momento.
+ ..
+Destarte, estão presentes os requisitos fáticos e normativos para a continuidade da segregação cautelar do investigado, razão pela qual denoto que a prisão preventiva se faz necessária, não havendo outra medida cabível para a sua substituição neste momento.
+Do exposto, com fulcro no artigo 310, inciso II, c/c artigo 312, ambos do Código de Processo Penal, CONVERTO a custódia efêmera oriunda do flagrante delito EM PRISÃO PREVENTIVA, tendo vista a presença dos pressupostos (indícios de autoria e prova da materialidade), condição de admissibilidade (crime doloso punido com pena privativa de liberdade máxima superior a quatro anos e reincidência) e fundamento (garantia da ordem pública), revelando-se, ainda, inadequadas as medidas cautelares diversas da prisão, pelo que determino a manutenção da sua prisão, agora por decorrência da prisão preventiva." (e-STJ, fls. 9-14; sem grifos no original)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, pois, além de o paciente ter sido preso em flagrante com 26g de crack,ele "possui execução penal vigente sob os autos nº 0009400-22.2015.8.27.2706, condenado pelo crime de roubo majorado e cumprindo pena em regime semiaberto, da qual restam 7 anos e 1 mês a serem cumpridos."(fl. 13).
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Do mesmo modo, vale anotar que "A persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019)
+Pelos mesmos motivos acima delineados, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
