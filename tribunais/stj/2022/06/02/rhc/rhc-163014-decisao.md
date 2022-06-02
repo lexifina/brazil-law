@@ -1,0 +1,20 @@
+DECISÃO
+RAPHAEL DOUGLAS PEREIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+A defesa pretende a soltura do paciente - acusado da suposta prática do crime de tráfico de drogas - ou a aplicação de medidas cautelares alternativas à prisão, sob os argumentos de ausência de requisitos e fundamentos para justificar a manutenção da custódia preventiva e de desconsideração das condições pessoais do acusado.
+O Ministério Público Federal pugna pelo provimento parcial do recurso para converter a prisão preventiva em cautelares diversas (fls. 115-119).
+Decido.
+O Juízo de Direito, ao converter a prisão em flagrante do paciente em preventiva, ofereceu os seguintes fundamentos:
+ ..
+A segregação cautelar é conveniente à instrução criminal, uma vez que ainda é necessária averiguar a dinâmica dos fatos, tendo em vista que a expressiva quantidade de drogas apreendidas indica a possível participação em empreitada criminosa de maior vulto. Devido ao exposto, na formados arts. 282, 310, II, 311, 312 e 313, inciso I, todos do CPP, CONVERTO a prisão em flagrante do custodiado RAPHAEL DOUGLAS PEREIRA em prisão preventiva. Expeça-se o necessário mandado de prisão (fl. 27, grifei).
+Sobre a matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a prisão preventiva do réu, ao destacar, sobretudo, a expressivaquantidade de droga apreendida - "três barras, 31 porções, 33 buchas de substância semelhante a maconha", segundo APF (fl. 56), perfazendo um total de 6.453,68 g - monta que denota habitualidade da conduta delitiva e a periculosidade do agente, além de ser possível indicativo de "participação em empreitada criminosa de maior vulto"(fl. 27).
+Ao denegar a ordem de habeas corpus, o TJMG asseverou que:
+ ..
+A princípio, não há flagrante ilegalidade ou teratologia na decisão impugnada, que reconheceu a gravidade concreta do delito em tese praticado pelo paciente, sendo imprescindível a sua segregação cautelar para a garantia da ordem pública e para a conveniência da instrução criminal, evidenciada pela quantidade de substância proscrita apreendida, aproximadamente 6.453,68g, de maconha (fl. 21, destaquei).
+É pacífico o entendimento desta Corte de que "a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (AgRg no HC n. 550.382/RO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/3/2020, grifei).
+Saliento, ainda, que este Superior Tribunal de Justiça assim entende: "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019, grifei).
+Nas hipóteses em que a dinâmica dos fatos, a quantidade da droga apreendida e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada - ainda que cometida sem violência e grave ameaça a pessoa  -, tais dados são suficientes para demonstrar a necessidade de garantia da ordem pública e, por isso mesmo, constituem fundamento idôneo para a prisão provisória.
+Pelos mesmos motivos, inadequada a substituição da custódia por medidas cautelares.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
