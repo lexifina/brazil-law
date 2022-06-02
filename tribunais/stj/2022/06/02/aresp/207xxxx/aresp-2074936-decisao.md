@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL  AÇÃO DE INTERDITO PROIBITÓRIO  PIVÔ DE IRRIGAÇÃO  REQUISITOS DO ART. 567 DO CPC PRESENTES  POSSE E AMEAÇA DEMONSTRADAS  SENTENÇA MANTIDA  RECURSO NÃO PROVIDO. O Interdito Proibitório é Ação preventiva que visa impedir agressão à posse, a qual deve estar demonstrada pelo autor, assim como a ameaça de turbação ou esbulho.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especial, a recorrente aponta violação aos artigos 561 do Código de Processo Civil/2015, e 1.196 do Código Civil, ao argumento de que "inexistindo atos de turbação de posse a sentença deve ser reformada para julgar improcedente a ação".
+Na espécie, o presente recurso foi interposto contra o acórdão que negou provimento à apelação proposta pelo ora recorrente, mantendo, assim, a sentença exarada em ação de interdito proibitório, cujo pleito foi julgado procedente para determinar que o réu se abstenha de molestar a posse do autor, sob pena de multa diária de R$ 500,00 - quinhentos reais,até o limite conferido à lide, além de condená-lo às custas e aos honorários advocatícios de 10% - dez por cento, sobre o valor atualizado da causa.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+O objeto do feito é um pivô de irrigação do qual o apelante alega ser o proprietário e que o apelado teria vendido para terceiros.
+Este último ajuizou a presente Ação com a finalidade de garantir a posse desse produto, pois, segundo assinala, teria ficado com ele no momento da divisão da sociedade de fato que mantinha com o apelante, seu irmão.  .. .
+A Nota Fiscal de Id n. 93622451, pág. 1, mostra que o pivô central marca Valley, série 2228 e ano de fabricação 2003, foi adquirido pelo apelante e outro, já o documento de Id n. 93622452, pág. 2, atesta que o apelado é quem o declarava no Imposto de Renda.
+O Instrumento Particular de Promessa de Compra e Venda de Imóvel Rural (Id n. 93622453, pág. 9, até Id n. 93622454, pág. 9) revela que o apelado se comprometia, naquele ato, a vender as terras ali descritas e também o pivô em referência (Id n. 93622454, pág. 1), e ambos seriam entregues (cláusula quarta) no primeiro dia subsequente ao término da colheita do milho safra 2015.
+Nesse intervalo, o apelante notificou Ivo Paulo Brown (pai dos compradores e quem estava na posse da área descrita no contrato) de que o pivô lhe pertencia e que ele deveria ser procurado para tratar da venda com quem de direito ou devolvê-lo, sob pena de adoção das medidas judiciais pertinentes.
+Em seguida, o comprador Djmny Cleophas Braun notificou o apelado a respeito do sucedido e disse que a avença previa a entrega do pivô livre de qualquer ônus, e que, como ainda não detinha a posse definitiva, pois se confirmaria somente após a colheita do milho, conforme convencionado, o vendedor deveria resolver a questão.
+Assim, embora já vigente o Contrato de Promessa de Compra e Venda, a transmissão da posse ainda não havia se aperfeiçoado. Dessa forma, o apelado é parte legítima para ajuizar Ação de Interdito Proibitório, com amparo no art. 567 do CPC, que assegura esse direito ao possuidor direto ou indireto (que é o seu caso).
+Ademais, é incontroverso que o pivô está instalado na área pertencente ao autor e que é objeto do mencionado Contrato, o que ratifica sua posse anterior à do apelado e, repita-se, a posse indireta até a colheita do milho.
+As testemunhas arroladas informam que as partes são irmãos e herdaram terras do pai, as quais foram divididas, mas trabalhavam em sociedade (de fato), que foi desfeita.
+Acrescentam que, no entanto, nenhum deles é capaz de confirmar de maneira contundente como se deu a distribuição dos bens no rompimento da sociedade.
+O que se tem por incontroverso é que o pivô estava instalado nas terras sobre as quais o apelado detinha a posse e a propriedade, e constou no Contrato de Promessa de Compra e Venda, cuja posse indireta ainda mantinha por força da já transcrita cláusula quarta.  .. .
+Por conseguinte, comprovada a posse indireta do autor/apelado e o receio de violação à sua posse, configurado na notificação extrajudicial em que o apelante noticia ao pai do comprador que o pivô lhe pertence e que a ele deve ser efetuado o pagamento, em clara ameaça a um dos institutos da posse, que é a de dispor do bem, o Interdito é o meio jurídico a ser utilizado pelo detentor para sua defesa.
+Como se vê, o acórdão recorrido reconheceu o cabimento do interdito proibitório diante da ameaça à posse na espécie, à luz do conjunto fático-probatório dos autos, de sorte que para modificá-lo, conforme as alegações desenvolvidas no recurso especial, seria necessário revisitar tal arcabouço, o que é vedado em sede de recurso especial, em razão do óbice erigido pela Súmula 7/STJ, que também inviabiliza a análise do dissídio jurisprudencial. A propósito: "A pretensão de simples reexame de prova não enseja recurso especial".
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
