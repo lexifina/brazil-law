@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional pelo APEOESP  SINDICATO DOS PROFESSORES DO ENSINO OFICIAL DO ESTADO DE SÃO PAULO com fundamento no art. 105, II, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA PELO SINDICATO DOS PROFESSORES DO ENSINO OFICIAL DO ESTADO DE SÃO PAULO (APEOESP) - ENTIDADE QUE CONGREGA MERA FRAÇÃO OU PARCELA DA CATEGORIA ATINGIDA PELA LEI QUESTIONADA - DIPLOMA NORMATIVO CUJA REPERCUSSÃO NÃO SE RESTRINGE À ESFERA JURÍDICA DOS ASSOCIADOS DA REQUERENTE - ILEGITIMIDADE AD CAUSAM ATIVA - RECONHECIMENTO - PROCESSO EXTINTO, SEM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 485, INCISO VI, DO CPC. Sindicato que congrega mera fração ou parcela de categoria profissional não ostenta legitimidade ativa para provocar a fiscalização abstrata de constitucionalidade que atinge o interesse de outras classes não representadas pela entidade requerente.
+Na origem, a parte ora recorrente ajuizou ação direta de inconstitucionalidade, com pedido de medida cautelar, contra o Presidente da Câmara do Município de Hortolânida/SP.
+Valor dado à causa: R$ 100.000,00 (cem mil reais), em junho de 2020.
+No presente recurso especial, alega-se a presença da legitimidade ativa para a causa, sustentando-se, em síntese:
+(..) a Lei 3.748, de 09 de junho de 2020, do Município de Hortolândia alterou o regime próprio de previdência municipal, e com diversos vícios de constitucionalidade, afetando assim, o interesse da categoria que o recorrente representa, e por força do artigo 90 da carta magna bandeirantes, o recorrente possui legitimidade para propor a presente ação de direta de inconstitucionalidade.
+Foram apresentadas contrarrazões pela improcedência do recurso.
+Parecer ministerial pelo não conhecimento, ou, caso conhecido, pelo não provimento do recurso.
+É o relatório. Decido.
+Tratando-se de recurso ordinário constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que julgou extinta, sem resolução de mérito, ação direta de inconstitucionalidade, tem-se que o recurso é manifestamente incabível.
+Conforme bem assentado no parecer ministerial, cujos fundamentos adoto, não há, nas circunstâncias do caso, previsão constitucional para o cabimento de tal recurso, uma vez que foi ele vinculado às hipóteses expressas nas normas do art. 105, II, a, b e c, da CF, e 1.027, II, do CPC, e nenhuma delas corresponde à situação em análise, uma vez que não se trata, nos autos, de decisão denegatória a julgar habeas corpus decidido em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, nem de mandado de segurança decidido em única instância por alguma das referidas Cortes. Muito menos está-se diante de causa nas quais são partes Estado estrangeiro ou organismo internacional, de um lado, e Município ou pessoa residente ou domiciliada no país, de outro.
+Assim, não havendo previsão constitucional ou legal de cabimento, o recurso não deve ser conhecido.
+Tratando-se de erro grosseiro é incabível a aplicação do princípio da fungibilidade.
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
