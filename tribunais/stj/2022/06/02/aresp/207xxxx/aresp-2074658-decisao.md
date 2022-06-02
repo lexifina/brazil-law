@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+CIVIL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUTADO. BENS. INCLUSÃO. GRUPO ECONÔMICO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AGRAVO CONHECIDO E NÃO PROVIDO.
+1. O art. 50 do Código Civil estabelece como pressupostos da desconsideração da personalidade jurídica o prejuízo ao credor e o abuso da personalidade mediante desvio de finalidade ou confusão patrimonial.
+2. As informações colhidas em consulta realizada na documentação constante dos autos do cumprimento de sentença, do qual originou o presente Agravo de Instrumento, revelam que a empresa, ora agravante, e a empresa executada no processo principal possuem os mesmos administradores.
+3. Da documentação que instrui o processo principal não pairam dúvidas da formação do grupo econômico familiar, constituído pelas empresas alcançadas pelo descortinamento da personalidade jurídica determinado no processo executivo.
+4. Prescindível análise aprofundada da confusão patrimonial para ensejar a desconsideração da personalidade jurídica, quando evidentes prejuízos a terceiros.
+5. Agravo de Instrumento conhecido e não provido.
+Alegou-se, no especial, violação dos artigos133, § 4º, do Código de Processo Civil; 49 e 50do Código Civil; e 267 da Lei 6.404/76, sob o argumento de que não foram demonstrados os requisitos para a desconsideração da personalidade jurídica.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte Superior tem entendimento no sentido de que, pelo direito comum, a desconsideração da personalidade jurídica depende da demonstração do abuso da personalidade, que se verifica pelo desvio de finalidade ou pela confusão patrimonial.
+No caso dos autos, o Tribunal local consignou que:
+"Em consulta realizada no sistema de processo eletrônico deste egrégio Tribunal de Justiça, precisamente nos autos do processo principal, constata-se a certidão simplificada expedida pela Junta Comercial do DF do CNPJ da empresa Grupo OK Construções e Incorporações LTDA - EPP (empresa executada), na qual figura os nomes de dois sócios da agravante (Luiz Estevão de Oliveira e Fernanda Meireles Estevão de Oliveira) e, embora não conste participação deles no capital social da empresa (ID 46459384 do processo de referência), os mesmos constam como ADMINISTRADORES da executada (ID 46459384 do processo de referência). Registre-se, ainda, que na certidão da Junta Comercial do DF, vislumbra-se do CNPJ da agravante, o nome de Cleucy Meireles de Oliveira como ADMINISTRADORA também desta empresa (ID 46459404 do processo de referência). Observa-se das certidões da Junta Comercial do Distrito Federal, expedidas em 04/10/2019, que as duas empresas, em que pese a indicação de endereços distintos, possuem os mesmos ADMINISTRADORES que são: Cleucy Meireles de Oliveira, Luiz Estevão de Oliveira e Fernanda Meireles Estevão de Oliveira" (e-STJ, fl. 76).
+Concluiu, assim, que "da documentação que instrui o processo principal, não pairam dúvidas da formação do grupo econômico familiar constituído pelas empresas alcançadas pelo descortinamento da personalidade jurídica determinado no processo executivo. Portanto, sobejamente evidenciado o abuso da personalidade jurídica das empresas em questão, conforme preceitua o art. 50 do Código Civil" (e-STJ, fl. 77).
+Esta Corte Superior, todavia, tem se posicionado no sentido de que a ausência de bens, o encerramento irregular das atividades ou a simples formação de grupo econômico não são, por si sós, suficientes para a desconsideração da personalidade jurídica da sociedade nos termos do artigo 50 do Código Civil.
+A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS AUSENTES. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.021.508/RS, relator Luis Felipe Salomão, Quarta Turma, DJe de 19/4/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. FALÊNCIA. CRÉDITO. HABILITAÇÃO. GRUPO ECONÔMICO. SOLIDARIEDADE. INEXISTÊNCIA. NÃO PROVIMENTO.
+1. A existência de grupo econômico não autoriza, por si só, a solidariedade obrigacional ou a desconsideração da personalidade jurídica.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.738.588/DF, relatora Maria Isabel Gallotti, Quarta Turma, DJe de 25/11/2021.)
+O acórdão local, que concluiu não ser necessária se aprofundar nos fatos que poderiam ensejar a desconsideração da personalidade jurídica à vista da existência de prejuízos causados a terceiros destoa da jurisprudência desta Casa, nos termos dos precedentes supra.
+Diante do exposto, conheço do agravo e dou provimento ao recurso especial para afastar a desconsideração da personalidade jurídica, ressalvada a possibilidade de ulteriordesconsideração, caso configurados os seus pressupostos legais.
+Intimem-se.
