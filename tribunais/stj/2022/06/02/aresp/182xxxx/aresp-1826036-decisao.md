@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 5 e 7 do STJ (e-STJ fls. 472/480).
+O acórdão do TJRJestá assim ementado (e-STJ fl. 429):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL, CUMULADA COM PEDIDOS DE RESTITUIÇÃO DE INDÉBITO E DE REPARAÇÃO DE DANOS. - Autor que objetiva a resilição unilateral de contrato de promessa de compra e venda de imóvel negociado com as rés, com a restituição de 90% dos valores por ele pagos durante a vigência do contrato, bem como a condenação das demandadas ao pagamento de verba compensatória de danos morais. - Preliminar de ilegitimidade passiva ad causam da primeira ré que não merece acolhida, haja vista ter havido participação da referida sociedade durante a vigência do contrato firmado com o autor, conforme comprovaram os documentos juntados aos autos, sendo perfeitamente aplicável, portanto, a norma disposta no artigo 7º, parágrafo único, do CDC. - Constatação de que não houve falha na conduta das rés, mas mera desistência em adquirir o imóvel pelo autor. - Possibilidade de desistência do consumidor em contratos de promessa de compra e venda de imóveis, nos termos do artigo 6º, inciso V, do CDC, e do enunciado nº. 543, da súmula do STJ. - Entendimento jurisprudencial no sentido de que, havendo desistência dos promitentes compradores, se mostra cabível a retenção de determinados percentuais por eles pagos, a fim de permitir ao vendedor fazer frente às despesas da negociação frustrada.
+Os embargos de declaração foram rejeitados (e-STJ fls. 447/452).
+Nas razões do recurso especial (e-STJ fls. 454/458),fundamentado no art. 105, III, "a", da CF, asrecorrentes alegaramviolação:
+(a) do art. 1.022 do CPC/2015, porque "o Tribunal deveria se manifestar sobre os temas cogitados, ter declarado se presentes, ou não, as omissões obscuridades apontadas, fundamentadamente e não, vênia concessa, negar a prestação jurisdicional, sem maior fundamentação, mediante texto, nitidamente, padronizado e genérico" (e-STJ fl. 456),
+(b)do art. 6º da LINDB, ante impossibilidade revisão judicial das condições contratuais livremente pactuadas, e
+(c) doart. 724 do CC/2002, argumentando que teriamdireito à cobrança da comissão de corretagem do compradordo imóvel, ora recorrido, porque ele teria desistidoposteriormente à concretização do negócio.
+Sem contrarrazões (e-STJ fl. 471).
+No agravo (e-STJ fls. 500/510), afirmam presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 514/516).
+É o relatório.
+Decido.
+As contradições, omissões e obscuridades que fundamentaram a alegação de negativa de prestação jurisdicional sustentada pela recorrente são genéricas, porque não discriminam a forma em que o acórdão recorrido teria incorrido nos apontados vícios.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A propósito, "a mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+A Corte local não se manifestou quanto aoart. 6º da LINDB. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em taldispositivocarece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O TJRJentendeu que não houve a concretização do compromisso de compra e venda imobiliário,motivo por que indeferiu o pedido das empresas de cobrança da comissão de corretagem, segundo se infere do trecho a seguir (e-STJ fls. 436/437):
+A alegação de que os valores pagos a título de comissão de corretagem deveriam ser excluídos da verba a ser devolvida ao autor não merece amparo. Isso porque, ainda que seja válida a transferência ao consumidor desta obrigação, por força do julgamento repetitivo do STJ, o fato é que a comissão de corretagem somente é devida com a efetiva concretização da compra e venda, o que, como se pode verificar no caso, não ocorreu.
+Logo, não há que se falar em exclusão desta verba (comissão de corretagem) dos valores a serem devolvidos ao autor, estando, na verdade, correta a sentença ao incluí-la no cálculo do montante a ser restituído.
+A respeito de tais razões de decidir, suficientes para manter o acórdão impugnado, as recorrentes não se manifestaram, motivo pelo qual incide, por analogia, a Súmula n. 283 do STF como óbice ao recurso.
+Para entender que o ato negocial teria se concretizadoe, por conseguinte, deferir a comissão de corretagem às recorrentes, seria necessária nova interpretação de cláusulas contratuais, além do reexame de fatos e provas, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
