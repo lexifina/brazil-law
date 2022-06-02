@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - RECURSO DA PARTE AUTORA - AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EMFOLHA DE PAGAMENTO C. C. REPETIÇÃO DE INDÉBITO E DANOS MORAIS- MÉRITO RECURSAL - DETERMINAÇÃO DE EMENDA DA INICIAL PARAA JUNTADA DE EXTRATOS BANCÁRIOS - PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO - INÉPCIA - RECURSO CONHECIDO E NÃO PROVIDO. Tendo em vista que a parte autora, apesar de intimada, não atendeu aos requisitos descritos no artigo 320 do CPC/15, deixando de juntar aos autos os extratos bancários solicitados pelo magistrado de primeiro grau, inarredável se torna a manutenção da sentença que reconheceu a inépcia da peça inaugural, extinguindo o feito sem exame do mérito.
+Alega-se violação dos artigos 489, 1.022, 6ºe 373, II, do Código de Processo Civil e 104 do Código Civil sob o argumento de que o acórdão estadual é omisso, que os documentos juntados com a inicial são suficientes ao deslinde da controvérsia e que caberia ao recorrido a juntada de eventuais documentos que fizessem necessários.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao mais, o Tribunal local manteve a sentença extintiva por descumprimento da determinação judicial de emenda da inicial.
+Independentemente, portanto, de quem deveria trazer os documentos, cabia à parte atender ao comando judicial ou proceder como de direito para reverter a referida determinação, sob pena de, de fato, extinguir-se o feito, o que está de acordo com o entendimento desta Casa.
+A saber:
+AGRAVO REGIMENTAL. EXECUÇÃO. CONFISSÃO DE DÍVIDA. SÚMULA 300/STJ. PROCESSO EXECUTÓRIO NÃO INSTRUÍDO COM O PRIMITIVO CONTRATO. DISCUSSÃO DE CLÁUSULAS CONTRATUAIS ORIGINÁRIAS. POSSIBILIDADE. SÚMULA N. 286/STJ. EMENDA À PETIÇÃO INICIAL DETERMINADA NO JUÍZO DE PRIMEIRO GRAU. APLICAÇÃO DO ART. 616 DO CPC. INÉRCIA DA PARTE. EXTINÇÃO DO PROCESSO. PRECEDENTES. RECURSO IMPROVIDO. DECISÃO MONOCRÁTICA MANTIDA.
+1. A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido da executividade do instrumento de confissão de dívida, ainda que oriundo de contrato de abertura de crédito, restando tal entendimento sumulado, nestes termos: "Enunciado n. 300: O instrumento de confissão de dívida, ainda que originário de contrato de abertura de crédito, constitui título executivo extrajudicial.".
+2. Não menos robusta, é a compreensão no âmbito desta Corte quanto a possibilidade de se revisar os contratos e suas cláusulas, para afastar eventuais ilegalidades, ainda que tenha havido quitação ou novação, a teor do que informa o verbete sumular nº 286/STJ: "A renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores".
+3. Nessa trilha, o juízo de primeiro grau, considerando a possibilidade de discussão do crédito, oportunizou ao credor que apresentasse o contrato do qual se originou a dívida exeqüenda, medida que está em perfeita consonância com a orientação dada à espécie por este Sodalício.
+4. O recorrente não cumpriu a determinação, de modo que, quedando-se inerte a parte interessada, correta a extinção do processo.
+5. Agravo improvido
+(AgRg no REsp n. 871.400/SC, relator Hélio Quaglia Barbosa, Quarta Turma, DJ de 12/3/2007, p. 253.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE REVISÃO DE CONTRATO. AUSÊNCIA DE INDICAÇÃO DO VALOR INCONTROVERSO NA INICIAL. INTIMAÇÃO PARA EMENDA DA INICIAL. DESCUMPRIMENTO. INÉPCIA. INDEFERIMENTO DA INICIAL. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "O descumprimento da determinação judicial para a emenda da inicial impõe o indeferimento da petição, com a extinção do processo sem a resolução do mérito" (AgInt no AREsp 1.254.657/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/06/2020, DJe de 03/08/2020).
+2. No presente caso, a parte autora descumpriu o disposto no art. 330, § 2º, do CPC/2015, deixando de discriminar, na petição inicial da ação de revisão de contrato de empréstimo/financiamento, os valores incontroversos. Devidamente intimada, a autora não emendou a inicial no prazo estabelecido pelo Juízo a quo, razão pela qual a inicial foi indeferida. Incidência da Súmula 83/STJ.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.767.940/RS, relator Raul Araújo, Quarta Turma, DJe de 1/12/2021.)
+Está, pois, o acórdão local em consonância com o entendimento desta Casa, o que atrai as disposições do enunciado n. 83 da Súmula.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
