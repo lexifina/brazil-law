@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por BENEDITO PAULO BASSOUTO e NILCE MARSAL DOS SANTOS, contra a decisão de fls. 664-668, (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (fls. 443-445, e-STJ, grifos no original):
+1) DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL (COHAB) C/C PERDAS E DANOS. ALEGADA CONCORDÂNCIA COM O PEDIDO PRINCIPAL E IMPOSSIBILIDADE DA SENTENÇA ACOLHER O PEDIDO SUCESSIVO. NÃO OCORRÊNCIA. PEDIDO DE INDENIZAÇÃO PELO USO DO BEM DURANTE O INADIMPLEMENTO. FIXAÇÃO DE ALUGUÉIS. NÃO CABIMENTO. PREVALÊNCIA DA CLÁUSULA PENAL COMPENSATÓRIA CONTRATADA.
+a) Constando da fundamentação como pedido principal da COHAB a rescisão do contrato e indenização por perdas e danos (fixação de aluguéis mensais) e, como pedido sucessivo, a rescisão do contrato e o perdimento das 39 parcelas pagas como forma de indenização, a inversão da ordem deles, no tópico "dos pedidos" da inicial, não tem o condão de transmudar a inequívoca intenção da Autora de, primeiro, obter a rescisão e pagamento de indenização.
+b) Assim, o fato dos Réus-Apelantes concordarem com o perdimento das parcelas pagas - que eles sequer desembolsaram, pois confessadamente, mesmo contra expressa proibição contratual, alienaram o imóvel no dia imediatamente posterior à assinatura do contrato -, não tem o condão de impedir que o Julgador, ao analisar o pedido, faça-o de acordo com a ordem lógica em que foi apresentada.
+c) Em decorrência, descabe decidir sobre percentual e retenção devido à COHAB-CT porque, apesar de desautorizados pelo contrato, os pagamentos foram confessadamente efetuados por terceira pessoa, que não integrou a lide.
+d) Existindo pedido expresso de indenização por perdas e danos e a contratação de cláusula penal compensatória (10% sobre o saldo devedor existente no momento da infração), esta deve prevalecer sobre a outra disposição contratual que trata da possibilidade de "indenização pelo uso do bem", especialmente se não demonstrado nos autos a ocorrência de danos significativos ou depredação do imóvel, capazes de esvaziar a compensação prevista na cláusula penal.
+e) Diante do pedido expresso de indenização e, existindo disposição contratual válida e vigente, não impugnada por nenhuma das Partes, incumbe ao Julgador aplicar o direito ao caso concreto ("da mihi factum,dabo tib iius"), não havendo que se falar em decisão surpresa, nem tampouco "extra" ou "ultra petita".
+2) APELO A QUE SE NEGA PROVIMENTO. SENTENÇA CORRIGIDA, DE OFÍCIO, NOS TERMOS DA FUNDAMENTAÇÃO.
+Os embargos de declaração opostos foram desacolhidos (fls. 547-555, e-STJ).
+Nas razões do recurso especial (fls. 556-583, e-STJ), os recorrentes alegaram que o acórdão impugnado incorreu em violação dos arts. 487, 1.022 do Código de Processo Civil de 2015; 405, 413 do Código Civil de 2002; e 1º, § 2º, da Lei 6.899/1981.
+Sustentaram, em suma:
+(i)negativa de prestação jurisdicional, ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia;
+(ii)apesar de os recorrentes terem concordado com os pedidos principais da parte recorrida, quais sejam: resolução do contrato e perdimento das parcelas pagas, o Tribunal de origem os condenou, indevidamente, ao pagamento de alugueis no período de vigência do contrato;
+(iii)impossibilidade de aplicação de juros e correção monetária em relação às parcelas inadimplidas, tendo em vista que o contrato celebrado entre as partes não contém essa previsão; e
+(iv)excesso no valor da cláusula penal, motivo pelo qual deve ela ser reduzida.
+Em juízo de admissibilidade (fls. 664-668, e-STJ), a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não configurada a alegada violação ao art. 1.022 do CPC/2015 porquanto as questões trazidas pelos recorrentes foram analisadas, de forma fundamentada; e b) aplicação das Súmulas 5 e 7/STJ para revisão das conclusões estaduais.
+Irresignados (fls. 941-975, e-STJ), aduzem os agravantes que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 981-991 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+A jurisprudência desta Casa dispõe no sentido de que a solução integral da controvérsia, com fundamento suficiente - situação facilmente constatável in casu -, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. NÃO OCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. SUCUMBÊNCIA. REVISÃO. NÃO CABIMENTO. SÚMULA Nº 7 DO STJ. CORREÇÃO MONETÁRIA. DESEMBOLSO DE CADA PARCELA. PRECEDENTES. SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em ofensa aos arts. 489 e 1022 do NCPC quando o Tribunal estadual enfrenta todos os aspectos essenciais à resolução da causa, de forma ampla, clara e fundamentada. Ademais, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+3. A alteração das conclusões do acórdão recorrido quanto a quem teria dado causa à instauração da demanda, para fins de fixação do ônus sucumbenciais, exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. É firme a jurisprudência desta Corte em afirmar que, em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide sobre cada desembolso.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido (AgInt no AREsp n. 1.973.085/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/5/2022).
+Em relação às matérias tidas por omissas, o tribunal de origem assim consignou (fl. 453-461, e-STJ, sem grifos no original):
+Os Apelantes não têm razão, contudo, a sentença comporta correção, de ofício.
+(..)
+O Juízo a quo considerou a ordem apresentada na fundamentação, porque mais lógica e, de fato, é mesmo. Portanto, descabe a alegação dos Apelantes de que teriam concordado com o pedido principal de perdimento das quantias pagas.
+(..)
+Segundo informaram-na contestação, o contrato com a COHAB-CT foi firmado em 10/02/1993 e, em 11/02/1993, ou seja, já no dia seguinte, venderam o apartamento à Mercedes Ferreira de Souza, outorgando-lhe procuração para "responder" pelo imóvel.
+Portanto, a concordância com o perdimento das parcelas pagas (39 no total, segundo informa a COHAB-CT), não poderia mesmo ser acolhida, pois estariam abrindo mão de valores que não despenderam e sobre os quais não têm nenhum direito.
+Por isso não é devida qualquer restituição aos Apelantes, não havendo que se falar tampouco em retenção em favor da COHAB-CT. Segundo consta nos autos, a autora dos pagamentos teria sido, provavelmente, Mercedes Ferreira de Souza.
+(..)
+Veja-se que a cláusula penal compensatória é estipulada para servir como indenização no caso de total inadimplemento da obrigação principal, ou seja, tem a finalidade de prefixação das perdas e danos (TARTUCE, Flávio. Manual de direito civil -volume único. 8º ed. Rio de Janeiro: Forense, 2018, p. 454). Devido a essa natureza, não se pode cumular multa compensatória prevista em cláusula penal com indenização por lucros cessantes (aluguéis), porque possuem o mesmo fundamento: o inadimplemento da obrigação. Precedente desta Corte (TJPR -18ª C. Cível -0034291-80.2011.8.16.0014 -Londrina -Rel.: Desembargador Péricles Bellusci de Batista Pereira -J. 27.03.2019).
+Na hipótese, embora a cláusula 28ª mencione apenas "infração contratual", ao fixar como base de cálculo da multa o saldo devedor "vigente na época da sanção", evidencia o caráter compensatório da sanção, haja vista que, para os casos de mera impontualidade no pagamento, a cláusula décima sexta já estipulou os encargos devidos, inclusive multa de 10% sobre o valor da prestação vencida:
+(..)
+Assim, as próprias Partes já acordaram previamente o valor que entenderam suficiente para recompor os prejuízos experimentados em caso de inadimplemento -10% (dez por cento) do valor do saldo devedor em aberto -, não havendo que se falar na fixação dos aluguéis.
+(..)
+Embora a COHAB-CT não tenha pleiteado o recebimento da cláusula penal, e os Apelantes pretendam, apenas, afastar o valor dos aluguéis ou reduzir-lhes o percentual, a previsão existente no contrato não pode simplesmente ser ignorada, mormente se há expresso pedido indenizatório na inicial.
+(..)
+Ao venderem o bem imediatamente no dia seguinte à assinatura do contrato, resta evidenciado que os Réus-Apelantes o fizeram apenas com o intuito de obter lucro com a venda do imóvel para terceiros, pois, se fosse caso de desinteresse no negócio na ocasião, bastaria que o contrato com a COHAB-CT não fosse assinado, ficando o apartamento desde logo livre e desembaraçado para servir de moradia à outra família inscrita no programa.
+(..)
+Assim sendo, cabe a correção da sentença, de ofício, a fim de que seja aplicada ao caso a sanção prevista na cláusula vigésima oitava.
+(..)
+Cabe ressaltar que não se trata de julgamento extra ou ultra petita, mas do atendimento do pedido formulado tomando por base o contrato existente, e contra o qual não se insurgiram as partes. Dito de outra forma, da mihi factum, dabo tibi ius.
+(..)
+Quanto aos juros e correção monetária, faz-se certo que o saldo devedor existente quando do primeiro inadimplemento, deverá ser corrigido na forma prevista na cláusula décima sexta, por se tratar de contrato vinculado ao Sistema Financeiro da Habitação.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, nãohavendo falar em omissão, contradição, obscuridade ou ausência defundamentação, mas sim em julgamento adverso ao pretendido pela parterecorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampoucode nulidade do aresto estadual.
+Ademais, reverter a conclusão do Tribunal de origem para assim acolher a pretensão recursal nos moldes em que pretendido, demandaria necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, dado os óbices das Súmulas 5 e 7/STJ.
+Diante do exposto, conheço do agravo para negar provimento a recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL (COHAB) C/C PERDAS E DANOS.VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
