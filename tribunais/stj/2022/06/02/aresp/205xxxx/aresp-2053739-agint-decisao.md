@@ -1,0 +1,55 @@
+DECISÃO
+Em vista das razões de agravo interno, que indicam que houve impugnaçãoaos fundamentos da decisão que não admitiu o recurso especial, reconsidero a decisãode fls. 499/501, proferida pela Presidência desta Corte, tornando-a sem efeito, e passoà nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 288):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO. DPVAT. JULGAMENTO IMPROCEDENTE DA LIDE. PAGAMENTO ADMINISTRATIVO FORA DO PRAZO. AUTOR NÃO COMPROVOU FATO CONSTITUTIVO DO SEU DIREITO. INEXISTÊNCIA DE CORREÇÃO MONETÁRIA. RECURSO DO AUTOR. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 85, § 8º, 927, III, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta que o acórdão recorrido não observou existência de precedente obrigatório, firmado em recurso repetitivo, REsp 1.486.620/SC,no qual o STJ teria definido quea correção das indenizações do seguro DPVAT incide desde o dia do evento danoso.
+Argumenta que "mesmo que o pagamento tenha ocorrido dentro do prazo de 30 dias (o que não é o caso), a correção é devida a partir do evento danoso. Resta evidenciado que nesse tempo entre o acidente e o pagamento houve inflação, logo não há como deixar de reconhecer a incidência da correção monetária" (fl. 336).
+Defende que "em sua contestação a ré não contestou o fato do autor ter direito à correção desde o acidente. O art. 311, IV do CPC determina então julgamento por fato incontroverso. Destaca-se que a ré, mesmo após o julgamento do REsp que determinou o pagamento com correção nada faz" (fl. 339).
+Afirma que "a decisão deve ser reformada por tratar-se de precedente obrigatório nos termos do art. 927, III, 926, 988, § 5º II ao tratar sobre Reclamação do CPC/2015" (fl. 339).
+Aduz que "tendo em vista o valor irrisório dos honorários com a correção a incidir da data do evento danoso, faz-se necessário readequá-los, nos termos do art. 85, § 8º, do CPC".
+Assevera que "O precedente é perfeito ao caso, pois trata de DPVAT com termo inicial de correção da data do acidente, de decisão do STJ, idêntica ao caso (mesma ratio decidendi). Sendo o termo inicial da correção a data do evento danoso, a presente lide é de parcial procedência da parte autora, portanto, a ré deverá arcar com os ônus de sucumbência" (fl. 351).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está assim fundamentado (fls. 288/290):
+Cinge-se o presente recurso a combater a sentença que julgou improcedente o pedido inicial, reconhecendo a inexistência de direito à complementação à indenização do seguro obrigatório DPVAT, bem como à correção monetária do valor pago administrativamente desde a data do sinistro.
+Passo à análise do mérito recursal.
+Sem delongas, a insurgência não merece acolhida, pelas razões que passo a expor.
+O artigo 5º, § 7º, da Lei Federal nº 6.194/1974, estabelece que apenas quando não atendido o prazo, para o pagamento da indenização securitária, incidirá juros de mora e correção monetária. Confira-se:
+(..)
+Incide, portanto, a correção monetária sobre a obrigação pecuniária devida, caso o procedimento administrativo não seja concluído, no prazo de 30 (trinta) dias após o recebimento da documentação necessária à apuração do sinistro.
+In casu, verifica-se que o sinistro ocorreu em 21/06/2015, tendo sido feito o registro da ocorrência na delegacia em 25/08/2015, enquanto o pagamento da cobertura foi efetuado em 07/10/2015 e 27/07/2016.
+No entanto, além de o autor não demonstrar a data em que procedeu ao requerimento administrativo, pleiteando a indenização securitária, verifica-se que o prazo foi interrompido em razão de exigências documentais, e não há nos autos comprovação da data em que a documentação foi corretamente entregue.
+Assim, uma vez não comprovado nos autos o fato constitutivo do direito do autor, ora apelante, qual seja, desídia da seguradora ao pagamento administrativo, não há que se falar em incidência de atualização monetária ao valor pago.
+(sem destaques no original)
+De início, verifica-se que as razões do recurso especial não impugnaram o fundamento central do acórdão recorrido, suficiente, por si só, para manutenção do julgado, qual seja, o fato de que o autor não comprovou o fato constitutivo do seu direito (desídia da seguradora ao pagamento administrativo), de modo que incide o óbice da Súmula 283/STF.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter aconclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, ateor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recursoextraordinário quando a decisão recorrida assenta em mais de um fundamentosuficiente e o recurso não abrange todos eles""(AgInt nos EDcl no AREsp n.1.317.285/MG, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Outrossim, o entendimento do Tribunal de origem não diverge da jurisprudência desta Corte Superiorno sentido de que "O entendimento consolidado na Súmula n. 580/STJ e no REsp n. 1.483.620/SC se aplica quando a seguradora não paga o valor da indenização no prazo de trinta dias, a contar da data de entrega da documentação. Precedentes (Súmula n. 83/STJ)" (AgInt no REsp 1727082/SP, RelatorMinistro Antonio Carlos Ferreira, Quarta Turma, DJe 30/5/2019). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DPVAT. CORREÇÃO MONETÁRIA. CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. "A correção monetária incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal, de modo que a mora da seguradora imporia a reparação das perdas ensejadas pela inflação e a recomposição do seu montante efetivo ao longo do tempo" (AgInt no AREsp 1.338.095/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 05/11/2018).
+(..)
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.762.436/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 12/5/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AÇÃO CONDENATÓRIA  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO REQUERENTE.
+1. A ausência de enfrentamento das teses recursais, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, no termo da Súmula 211/STJ.
+1.1. Nos termos da jurisprudência desta Corte Superior, a aplicação do artigo 1.025 do CPC/15 exige que a parte recorrente tenha oposto aclaratórios na origem e apontado, no recurso especial, violação ao artigo 1.022 do mesmo diploma e indicado de forma clara e específica, o vício existente no acórdão recorrido.
+2. Nos termos da jurisprudência do STJ, a indenização do seguro DPVAT deverá ser acrescida de correção monetária somente quando não for paga em até 30 (trinta) dias, contados da entrega dos documentos. Incidência da Súmula 83/STJ.
+2.1. Para se rever a conclusão das instâncias ordinárias - no sentido de que a indenização foi paga no prazo legal - seria necessário o reexame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.723.270/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 10/5/2021.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE COBRANÇA. SEGURO DPVAT. CORREÇÃO MONETÁRIA. SEGURO OBRIGATÓRIO. PAGAMENTO ADMINISTRATIVO. PRAZO LEGAL DE TRINTA DIAS. OBSERVÂNCIA. PRECEDENTES. RETORNO DOS AUTOS A ORIGEM. RECURSO DA PARTE AUTORA PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A Súmula nº 580/STJ dispõe que "a correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7º do art. 5º da Lei nº 6.194/1974, redação dada pela Lei nº 11.482/2007, incide desde a data do evento danoso".
+3. O entendimento sumulado não se aplica quando o pagamento administrativo for efetuado dentro do prazo legal de 30 (trinta) dias, quando não será devida a correção monetária, recomposição restrita às hipóteses de pagamento administrativo a menor ou de descumprimento do prazo legal, o que não é o caso dos autos.
+4. No caso, as instâncias de origem informaram a data em que o pagamento administrativo ocorreu, mas não esclareceram em que dia foi apresentado o respectivo requerimento. Desse modo, não sendo possível verificar o cumprimento do prazo de 30 (trinta) dias sem revisar fatos e provas, o que é vedado pela Súmula nº 7 do STJ, faz-se necessário o retorno dos autos ao Tribunal estadual para que seja rejulgado a questão à luz do entendimento fixado por este STJ.Em consequência, fica prejudicado o agravo em recurso especial interposto pela parte autora.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.899.728/PR, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/9/2021.)
+Na hipótese dos autos, oTribunal de origem concluiu pela inexistência de provas de que o pagamento do seguro DPVAT ocorreu após o prazo legal. Assim, modificar oentendimento do acórdão recorrido para acolher a pretensão do recurso especial demandaria o reexame do conjunto fático-probatório dosautos, procedimento vedado em recurso especial, nos termos da Súmula 7 do STJ.
+Com relação ao pedido de majoração dos honorários advocatícios, além da ausência de prequestionamento acerca do tema, o que impede, por si só, o conhecimento do recurso em razão da incidência da Súmula 211/STJ, está ausente também o interesse em recorrer do ponto, uma vez que a parte autora, ora recorrente, teve seu pedido julgado improcedente, não tendo sido condenada ao pagamento de honorários em razão da concessão do benefício da justiça gratuita (fl. 234).
+Assim, as razões do recurso estão dissociadas dos fundamentos do acórdão recorrido, de modo que incide também o óbice da Súmula 284/STF.
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando atese sustentada já foi afastada no exame do recurso especial pela alínea "a" do art.105, III, da Constituição Federal em razão do óbice da Súmula 7/STJ.
+Ademais, falta identidade entre os paradigmas apresentados e osfundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual oTribunal de origem deu solução à causa.
+Em face do exposto, reconsidero a decisão de fls. 499/501, ficando, porconseguinte, prejudicado o agravo interno de fls. 504/521, e nego provimentoao agravo em recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, em razão da ausência de prévia fixação na origem (fl. 234).
+Intimem-se.
