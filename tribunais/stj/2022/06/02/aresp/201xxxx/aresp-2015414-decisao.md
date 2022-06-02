@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AntônioCarlos da Cruzcontraacórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assimementado:
+ACIDENTÁRIA - EVENTO TÍPICO - LESÃO NAMÃO ESQUERDA - PREJUÍZO FUNCIONAL AFASTADO PELA PERÍCIA - IMPROCEDÊNCIA e DO PLEITO. "Atestado pela perícia médica, de forma cabal eó taxativa, que a sequela que acomete a mão esquerda do autor não repercute na sua capacidade de trabalho, não há que se cogitar de indenização no âmbito da infortunística". Sentença reformada em sede do reexame º ón necessário.
+Em suas razões de recurso especial, sustenta orecorrente malservação do art. 86 da Lei 8.213/91, porquanto, é possível a concessão do benefício de auxílio-acidente ainda que mínima a lesão sofrida pelo segurado, porquanto o benefício independe do grado de redução da capacidade laboral.
+O prazo para apresentação de contrarrazões ao recurso especialtranscorreu in albis.
+Não admitido o recurso na origem em razão do óbice da Súmula 7/STJ, ascenderam os autos por interposição de agravo em recurso especial.
+É o relatório. Decido.
+Presente os pressupostos de admissibilidade, passo ao exame do nobre apelo.
+A questão recursal gira em torno do preenchimento dos requisitospara concessão de benefício por incapacidade parcial, o auxílio-acidente.
+No mérito, o Tribunal a quojulgouimprocedente o pedido de concessão de auxílio-acidente em razão da não comprovação da incapacidade laboral, ainda que mínima. No entender doTribunal,após realizar diligências importantes, tendo inclusive renovado perícia,a sequela apontadanão daria ensejo àalegada redução da capacidade laboral.
+A propósito:
+De fato, dos dados apurados no exame físicovê-se que não logrou a perícia encontrar perturbações funcionais oucomprometimentos decorrentes do evento traumático na mão atingida,estando preservados o mecanismo de pinça, a força muscular de preensão, assim como o movimento de garra manual (ver fls. 191/193).
+Ao contrário, o coto se encontra bem constituído, sem sinais de sofrimento álgico, vascular e/ou neurológico a ponto de justificar a existência de sequelas de natureza impeditiva para o trabalho ou que demande a necessidade de maior esforço físico(ver fls. 191/193).
+Na espécie, não há como modificar os aludidos fundamentos, pois, uma concluído pelaausência de comprometimento da capacidade laboral, a inversão dojulgado demandaria o reexame dos mesmos fatos e provas, o que é vedadona instância especial ante a incidência da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. REDUÇÃO DA CAPACIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. A concessão do auxílio-acidente deve observar os requisitos do art. 86 da Lei n. 8.213/1991, ou seja, além da lesão, a necessidade de que a sequela acarrete uma diminuição efetiva e permanente da capacidade para a atividade que o segurado habitualmente exercia, sendo esse o entendimento firmado pela Terceira Seção, que detinha a competência regimental para apreciar os recursos em matéria previdenciária antes da Emenda Regimental n. 14/2011, no julgamento dos REsps n. 1.108.298/SC e n. 1.109.591/SC.
+2. Caso em que não há como modificar a conclusão da instância ordinária sem esbarrar no óbice da Súmula 7 do STJ, pois o acórdão recorrido considerou que a lesão de que foi vítima a recorrente não diminuiu a capacidade para seu labor habitual.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.757.537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/4/2022.)
+PROCESSUAL CIVIL . RECURSO ESPECIAL. AUXÍLIO-ACIDENTE.
+ALEGADA VIOLAÇÃO DOS ARTS. 128 e 333, II, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. CONTRIBUINTE INDIVIDUAL. AUXÍLIO-ACIDENTE. BENEFÍCIO INDEVIDO. SÚMULA 83/STJ. RECURSO ESPECIAL DO PARTICULAR NÃO CONHECIDO.
+1. Os arts. 128 e 333, II, do CPC/1973 não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+2. Além disso, a alegada violação do art. 333, II, do CPC/1973 é impertinente no presente caso. Isso porque o referido dispositivo dispõe sobre a distribuição do ônus da prova, tendo como finalidade indicar quem é o responsável pela produção da prova (aspecto subjetivo) e também trazer regra de julgamento a ser aplicada pelo juiz no momento de proferir a sentença na hipótese da prova se revelar insuficiente (aspecto objetivo). Ocorre que, no caso em análise, a Turma julgadora, com amparo nas alegações e nos documentos apresentados pelo próprio autor, concluiu que ele prestava serviços na qualidade de autônomo na época do acidente, o que seria impeditivo para a concessão do auxílio-acidente pleiteado, não havendo, assim, cenário de insuficiência probatória.
+3. Não há qualquer ilegalidade no julgamento de improcedência do pedido com base nas provas produzidas pelo próprio demandante, haja vista o princípio da comunhão das provas, segundo o qual, uma vez trazida aos autos, a prova passa a ser do processo, e não de quem a produziu.
+4. Quanto a eventual cerceamento do direito de produção de provas, verifico que a matéria, além de não ter sido apreciada pela Corte local, carecendo do necessário prequestionamento, também exigiria, para ser reconhecida, o reexame do contexto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+5. Registre-se que o acórdão impugnado encontra-se em consonância com a orientação deste Tribunal Superior, ao assentar que o trabalhador autônomo (atualmente classificado como contribuinte individual) não faz jus ao auxílio-acidente, nos termos do art. 18, § 1º, da Lei 8.213/1991 (seja na sua redação atual ou na anterior à dada pela Lei Complementar 150/2015).
+6. Recurso especial não conhecido.
+(AgRg no REsp n. 1.608.920/SP, relator Ministro Manoel Erhardt (desembargador Convocado do Trf5), Primeira Turma, DJe de 24/3/2022.)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 255, § 4º, I e III, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE.REQUISITOINCAPACIDADE LABORAL. SÚMULA 7/STJ. AGRAVO CONHECIDO ERECURSO ESPECIAL NÃO CONHECIDO.
