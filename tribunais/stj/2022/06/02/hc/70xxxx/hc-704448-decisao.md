@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALDO DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta nos autos que o paciente foi condenado à pena de 1 ano e 4 meses de reclusão, em regime semiaberto, pela prática do crime previsto no art. 140, §3º, do Código Penal, tendo sido declarada extinta sua punibilidade em relação ao delito descrito no art. 147 do Código Penal, pela ocorrência da prescrição da pretensão punitiva (e-STJ, fls. 113-125).
+Interposta apelação, a Corte estadual negou provimento ao apelo da defesa, em aresto assim ementado:
+"APELAÇÃO CRIME. INJÚRIA RACIAL. ART. 140, § 3º, DO CÓDIGO PENAL. AUTORIA E MATERIALIDADE DEMONSTRADAS. CONDENAÇÃO MANTIDA.
+Acusado ofendeu a vítima e utilizou expressões ligadas à raça com o intuito de ofendê-la, havendo dolo de ofender a honra subjetiva, por meio de depreciação de elemento ligado à raça. Prova testemunhal soma-se à palavra da vítima. Condenação mantida.
+AGRAVANTE DA REINCIDÊNCIA. BIS IN IDEM. INOCORRENTE.
+O agravamento da pena pela reincidência, devidamente caracterizada, não ofende o princípio do ne bis in idem. Constitucionalidade declarada pelo Supremo Tribunal Federal, conforme precedente.
+APELO DESPROVIDO. UNÂNIME." (e-STJ, fl. 184).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 201-205).
+Neste writ, a defesa alega a ocorrência de constrangimento ilegal na dosimetria da pena imposta ao paciente, as instâncias ordinárias, ao reconhecerem a agravante da reincidência, teriam operado um aumento no patamar de 1/3 sem motivação idônea para tanto, em desconformidade com a jurisprudência dos Tribunais Superiores.
+Requer, liminarmente, que seja redimensionada a reprimenda imposta ao paciente, aplicando a fração de 1/6 para aumentar a pena pela reincidência.
+Indeferida a liminar (e-STJ, fl. 218), o Ministério Público Federal opinou pelo não conhecimento da ordem, mas pela concessão de habeas corpus, de ofício (e-STJ, fls. 267-271).
+É o relatório.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Para permitir a análise dos critérios utilizados na dosimetria da pena, faz-se necessário expor excertos da sentença condenatória e do acórdão da apelação, respectivamente:
+" ..  Dosimetria.
+1ª Fase (Pena-Base):
+Analisando as circunstâncias do art. 59 do Código Penal, tem-se que a culpabilidade do réu, entendida como grau de reprovação da conduta face às particularidades do caso, é a comum aos crimes de mesma espécie.
+O réu não ostenta maus antecedentes, nos termos da Súmula nº 241 do STJ, visto que o réu possui condenação com trânsito em julgado anteriormente ao cometimento do fato descrito na denúncia (processo nº 154/2.12.0000894-3), de forma que servirá para caracterizar a reincidência na fase específica.
+Não há elementos nos autos que permitam valorar negativamente a conduta social e/ou personalidade do agente.
+Os motivos, por outro lado, são os inerentes à natureza do delito.
+As circunstâncias e consequências do crime, a seu turno, são as ordinárias do delito em espécie, não havendo como valorá-las negativamente.
+Por fim, a conduta da vítima não auxiliou em nada no cometimento do delito.
+Dessa forma, com base nas circunstâncias judiciais do art. 59 do Código Penal acima analisadas, bem como pelo critério de necessidade e suficiência para prevenção e reprovação do crime, fixo a pena-base para o delito do art. 140, §3º, da Código Penal em 01 (um) ano de reclusão e 10 (dez) dias-multa.
+2ª Fase (Pena Provisória):
+Inexistem atenuantes.
+O réu, todavia, ostenta condenação penal com trânsito em julgado anteriormente ao fato narrado nestes autos (fls. 59/64), pelo delito de porte ilegal de arma de fogo de uso permitido (processo nº 154/2.12.0000894-3), razão pela qual incide a agravante de reincidência, prevista no inciso 1 do artigo 61 do Código Penal, pelo que aumento a pena em 04 (quatro) meses, motivo pelo qual a pena provisória resta fixada em 01 (um) ano e 04 (quatro) meses de reclusão e 12 (doze) dias - multa.
+3ª Fase (Pena Definitiva):
+Não há causas de aumento e diminuição, de forma que consolido a pena definitiva em 01 (um) ano e 4 (quatro) meses de reclusão e 12 (doze) dias-multa.
+Detração
+Não há detração a ser realizada.
+Do Regime de Cumprimento da Pena:
+Em observância aos critérios previstos no art. 59 do CP e considerando a regra prevista no art. 33, §2º, "b", fixo o regime inicial de cumprimento da pena de reclusão como sendo o semiaberto." (e-STJ, fls. 22-124).
+" ..  Assim, mantenho a condenação.
+No tocante à agravante da reincidência, entendo ser completamente descabida a tese defensiva.
+A referida agravante deve ser mantida; a uma, porque devidamente caracterizada no caso concreto (processo nº 154/21200008943); a duas, em razão de ter previsão legal determinando o agravamento (art. 61, I, do CP); e, por fim (e mais importante), porque não constitui ofensa ao princípio ne bis in idem, pois deixar de punir com maior rigor o indivíduo que volta a delinquir em detrimento daquele que nunca teve qualquer envolvimento criminal configuraria, aí sim, ofensa aos princípios constitucionais da igualdade e da individualização da pena." (e-STJ, fl. 183).
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório
+No tocante à segunda fase da dosimetria, o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE ABSOLVIÇÃO QUANTO AO DELITO DE ASSOCIAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA FIXADA ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DO ENTORPECENTE. DISTRIBUIÇÃO EM VÁRIAS LOCALIDADES. FUNDAMENTOS SUFICIENTES. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. ATENUANTE DA CONFISSÃO. PERCENTUAL DE APLICAÇÃO. PROPORCIONALIDADE.
+1. A análise da tese recursal de não configuração, no caso, do delito de associação para o tráfico de entorpecentes, notadamente quanto à alegada ausência de ânimo associativo, demanda o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. Precedentes.
+2. Em respeito às diretrizes balizadas no art. 42 da Lei n. 11.343/2006, o Tribunal a quo se firmou em fundamentos suficientes e idôneos para exasperar a pena-base, salientando que o recorrente transportava para comercialização, cocaína, com peso líquido de 625g (seiscentos e vinte e cinco gramas) e pasta base de crack, com peso líquido de 1,930kg (um quilo, novecentos e trinta gramas), além de ter cometido o ilícito em diversas localidades, circunstâncias que evidenciam o maior desvalor na conduta.
+3. A condenação pelo crime de associação para o tráfico configura circunstância que, por si só, constitui óbice à concessão da minorante do § 4º do art. 33 da Lei de Drogas. Precedentes.
+4. O Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena em razão da incidência das agravantes e das atenuantes genéricas. Diante disso, a doutrina e a jurisprudência pátrias anunciam que cabe ao magistrado sentenciante, nos termos do princípio do livre convencimento motivado, aplicar a fração adequada ao caso concreto em obediência aos princípios da razoabilidade e da proporcionalidade. E, no caso, tem-se por proporcional a diminuição de 1 ano, operada em decorrência do reconhecimento da atenuante da confissão.
+5. Agravo regimental a que se nega provimento." (AgRg no REsp 1672672/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 7/11/2017, DJe 14/11/2017, grifou-se);
+"HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedente.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CIRCUNSTÂNCIA ATENUANTE PREVISTA NO ART. 65, III, D, DO CP. QUANTUM DE REDUÇÃO NÃO ESPECIFICADO NO CÓDIGO PENAL. DISCRICIONARIEDADE VINCULADA. DESPROPORCIONALIDADE. CONFISSÃO PARCIAL DA PRÁTICA DELITIVA. IRRELEVÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+1. Se a confissão do agente é utilizada como fundamento para embasar a conclusão condenatória, a atenuante prevista no art. 65, inciso III, alínea d, do CP, deve ser aplicada em seu favor, pouco importando se a admissão da prática do ilícito foi espontânea ou não, integral ou parcial, ou se houve retratação posterior em juízo.
+2. O quantum de diminuição pelo reconhecimento da atenuante da confissão espontânea não está estipulado no Código Penal, de forma que devem ser observados os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena.
+3. Na hipótese, as instâncias de origem reduziram a pena do paciente em 2 (dois) meses de forma desproporcional, sendo patente, pois, o constrangimento ilegal imposto, devendo ser aplicada a redução de 1/6 (um sexto) em razão da confissão espontânea.
+CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. AFASTAMENTO. CONDENAÇÃO PENDENTE DE TRÂNSITO EM JULGADO. FUNDAMENTAÇÃO INSUFICIENTE. PEQUENA QUANTIDADE DA DROGA APREENDIDA. APLICAÇÃO NA FRAÇÃO DE 1/2 (METADE). CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Para a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. In casu, as instâncias de origem afastaram a incidência do benefício, com base em condenação ainda não definitiva, pela prática do mesmo delito. Entretanto, a quantidade da referida droga não é elevada, atraindo a sua incidência.
+3. Assim, mostra-se razoável e proporcional ao caso a redução da reprimenda em 1/2 (metade).
+REGIME INICIAL. DESPROPORCIONALIDADE AO QUANTUM FINAL DA PENA. ALTERAÇÃO PARA O MODO ABERTO.
+Reduzida a pena privativa de liberdade para patamar inferior a 4 (quatro) anos, possível o estabelecimento do regime inicial aberto, ainda que existente circunstância judicial desfavorável.
+SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REQUISITOS PREVISTOS NO ART. 44 DO CÓDIGO PENAL. NÃO PREENCHIMENTO.
+1. A substituição da sanção reclusiva por restritivas de direito é possível quando se encontram preenchidos os requisitos subjetivos e objetivos previstos no art. 44, do Código Penal.
+2. Não há falar em coação ilegal quando o pleito da conversão é indeferido porque não satisfeitos os requisitos legais, diante das circunstâncias do caso.
+3. Habeas Corpus não conhecido. Ordem concedida de ofício, a fim de redimensionar a pena imposta para 2 (dois) anos e 6 (seis) meses de reclusão e multa, em regime inicial aberto." (HC 408.154/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/9/2017, DJe 27/9/2017, grifou-se).
+In casu, as instâncias ordinárias não apresentaram qualquer justificativa para a aplicação da agravante na fração de 1/3, até porque foi indicado apenas um título condenatório transitado em julgado para caracterizar a reincidência do réu.
+Nesse passo, evidenciada flagrante ilegalidade em relação à segunda fase da dosimetria, passa-se à nova análise da pena aplicada ao paciente.
+Na primeira etapa, a pena-base ser foi fixada no mínimo legal, em 1 ano de reclusão. Na fase intermediária, reconhecida a reincidência do réu e reduzida a fração de aumento para 1/6, resta a reprimenda consolidada em 1 ano e 2 meses de reclusão, ante a ausência de causas de aumento e de diminuição de pena.
+Ante o exposto, não conheço do writ, mas concedo habeas corpus, de ofício, a fim de reduzir a pena imposta ao paciente, fixando-a em 1 ano e 2 meses de reclusão, mantida, no mais, a sentença condenatória.
+Publique-se. Intimem-se.
