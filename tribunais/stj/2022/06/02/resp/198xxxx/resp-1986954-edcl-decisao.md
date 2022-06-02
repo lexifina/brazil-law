@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DENNISON DE OLIVEIRA contra a decisão de fls. 334/337, que negou provimento ao seu recurso especial com base na aplicação da Súmula 83/STJ. A decisão embargada, para tanto, afastou a ocorrência de negativa de prestação jurisdicional e verificou que o entendimento do Tribunal de origem a respeito da possibilidade de penhora sobre salário com a fixação de percentual capaz de garantir a subsistência digna do devedor e de sua família, com base na regra geral do artigo 833, IV, do CPC, além das exceções previstas no § 2º.
+O embargantealega, em síntese, a existência de omissãona decisão embargadaem relação à divergência jurisprudencial apontada no recurso especial. Afirma que o entendimento não é pacífico, pois foram apresentados julgados com conclusão diversa com a mesma base fática. Aponta, ainda, que dois dos precedentes apontados na decisão embargada não se aplicam ao caso, pois cuidam de honorários advocatícios.
+Intimada, aembargadanão se manifestou nos autos (fl. 356).
+A decisão embargada foi clara no sentido de aplicar o entendimento atual desta Corte a respeito do tema.
+De outro lado, quanto ao tratamento emprestado ao crédito decorrente de honorários advocatícios, anoto que "em recente julgamento, a Corte Especial deste Tribunal Superior, ao analisar o Recurso Especial n. 1.815.055/SP, firmou entendimento no sentido de que os honorários advocatícios de sucumbência não se enquadram nas hipóteses de exceção previstas no § 2º do artigo 833 do CPC/15 a permitir a penhora de verba de natureza salarial"(AgInt no REsp n. 1.974.510/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 6.5.2022).
+Na realidade, toda a argumentação desenvolvida pelo embargante objetiva derruir a aplicação da Súmula 83/STJ ao caso.
+A pretensão doembargante, portanto, não é o esclarecimento ou correção de vício, mas a modificação da conclusão da decisão embargada, mediante a revisão dos seus fundamentos, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
