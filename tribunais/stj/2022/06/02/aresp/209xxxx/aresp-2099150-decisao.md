@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por AZEVEDO & TRAVASSOS ENGENHARIA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PENHORA DE FATURAMENTO - Execução de título extrajudicial - Decisão que deferiu a penhora 15% do faturamento da executada - Modalidade de penhora prevista no artigo 835, X do CPC - Possibilidade - Execução que tramita há quase três anos - Tentativas de localização de outros bens que restaram infrutíferas - Percentual elevado, colocando em risco a continuidade das atividades empresariais - Penhora reduzida para 10% do faturamento líquido - Decisão reformada - RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, alega violação dos arts. 805, caput e parágrafo único, 835, IV e V, e 866, caput e §§ 1º, 2º e 3º do CPC, no que concerne à ilegalidade da penhora sobre o faturamento da empresa recorrente, e, subsidiariamente, à redução do percentual imposto. Colaciona os seguintes argumentos:
+A Azevedo & Travassos, rumo aos 100 anos, se consolida como uma das mais antigas e tradicionais empresas de engenharia em operação no Brasil e, assim como muitas empresas do mesmo ramo no Brasil, vem enfrentando uma violenta crise econômica e financeira desde 2014, e, com muita dificuldade, tem conseguido manter-se em recuperação na sua potência mínima, sobretudo na atual conjuntura em que a Pandemia se alastrou mundialmente.
+ ..
+No caso em questão, por mais que a penhora tenha sido diminuída de 15% para 10%, ainda causará prejuízos à Recorrente, pois atualmente não tem faturamento, sendo imperiosa a reforma da r. decisão ora Recorrida.
+ ..
+Observa-se da análise dos autos que foram encontrados bens móveis e imóveis da Recorrente. A d. Juíza de piso deferiu pesquisas de bens móveis pelo sistema Renajud (fls. 392), mas o Exequente, ora Recorrido,  não se interessou  apenas porque os veículos localizados possuem restrições (petição de fls. 400/401). Ora., I. Julgadores, as meras restrições não significam que os veículos não são bens exequíveis e que não possuem crédito para saldar o débito.
+ ..
+Veja-se que, mesmo fazendo menção ao artigo 835 do CPC às fls. 432/433, requereu a penhora de faturamento, medida absolutamente extrema, que não pode ser autorizada, sobretudo no momento atual de grave crise ocasionada pela Pandemia.
+ ..
+A penhora de faturamento deferida, além de ilegal nos termos dos artigos mencionados, poderá implicar a quebra da Recorrente. Frise-se que a argumentação tecida até aqui encontra guarida na jurisprudência de diversos Tribunais, que vem reconhecendo que apenas é permitia a penhora de faturamento, limitada ao percentual de 5%, se a executada não tiver outros bens, situação absolutamente distinta da situação destes autos. (fls. 490-499).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não há violação ao art. 835 do CPC, pois a sequência de ativos listados no referido dispositivo é de observância preferencial e não cogente.
+Além disso, diligenciou-se amplamente em busca de bens penhoráveis durante toda a execução, que já tramita há quase três anos, restando infrutíferas as demais tentativas.
+Não se há falar em aplicação do art. 805 do CPC, pois o Princípio da menor onerosidade somente tem lugar quando a parte devedora indica outros meios igualmente eficazes e menos gravosos para cumprimento da obrigação, o que não ocorre no caso dos autos.
+Assim, possível a constrição de percentual do faturamento, amparada pelo artigo 835, X do CPC.
+Todavia, o percentual deferido (15%) se mostra elevado e pode comprometer a continuidade das atividades empresariais, de modo que deve ser reduzido.
+ ..
+Desse modo, reforma-se a decisão agravada para que a penhora recaia sobre 10% (dez por cento) do faturamento mensal da sociedade empresária executada, deduzidas as despesas trabalhistas e tributárias, percentual que não tem o potencial de inviabilizar o prosseguimento das atividades empresariais (fls. 472-473, grifos meus).
+Logo, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Destarte: "O Tribunal paulista, soberano na análise das provas dos autos, concluiu que a penhora do faturamento da empresa, apesar de ser medida excepcional, se justifica no caso, tendo em conta que não foram localizados bens idôneos para garantir a execução. Rever tal conclusão demandaria o reexame das provas dos autos, o que é inviável na estreita via do recurso especial, a teor do que dispõe a Súmula nº 7 do STJ." (AgInt no AREsp n. 1.638.284/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/12/2020.)
+A propósito: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
