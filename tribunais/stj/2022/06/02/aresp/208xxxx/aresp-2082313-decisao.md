@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fls. 125/126):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO.RECONHECIMENTO. VINCULAÇÃO AOS EXATOS TERMOS DA SENTENÇA TRANSITADA EM JULGADO. ASTREINTES.AFASTAMENTO. AUSÊNCIA DE INTIMAÇÃO PESSOAL PARA O CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. RECURSO DESPROVIDO.
+1. Agravo de instrumento contra decisão que acolheu em parte a impugnação ao cumprimento de sentença para, ao reconhecer excesso de execução, determinar que os honorários advocatícios sejam calculados com base na proporção de 40% sobre os 15% da condenação, bem como para afastar a cobrança das astreintes fixadas em R$30.000,00, ante sua inexigibilidade por falta de intimação pessoal dos executados. 1.1. O recorrente pretende a reforma da decisão para que seja rejeitada a impugnação ao cumprimento de sentença, argumentando, em suma, que: a) estava preclusa a oportunidade para alegar o excesso de execução; e b) foi equivocado o afastamento da multa ante a inaplicabilidade da Súmula 410/STJ ao caso.
+2. A execução de título judicial deve observar os estritos limites da coisa julgada.Porquanto. Nos termos do art. 503 do CPC, a sentença tem força de lei nos limites da lide e das questões decididas, restando impossibilitada a interpretação extensiva do decisium. 2.1. Como a fase de cumprimento deve ser realizada na estreita medida do que foi decidido na sentença, inexiste impedimento de que o magistrado determine a correção dos cálculos para ajustar à condenação, sob pena de ofensa à coisa julgada. 2.2. Na planilha de cálculo apresentada pelo exequente, os honorários advocatícios foram calculados em 15% sobre o valor total da condenação. Todavia, considerando a sucumbência recíproca, mas não proporcional, os honorários advocatícios sucumbenciais devem ser calculados em 15% sobre 40% do valor da condenação. 2.3. Portanto, embora intempestiva a impugnação apresentada pela devedora, agiu com acerto o magistrado a quo aodeterminar a correção dos cálculos dos honorários apresentados pelo exequente.
+3. De acordo com a Súmula 410/STJ, "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer". 3.1. No caso, não há quaisquer registros de intimação pessoal dos devedores para o cumprimento da obrigação de fazer, razão pela qual correta a exclusão das astreintes.
+4. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489,505,507, 525, caput,§ 1º e§ 11,1.022, inciso II, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta negativa de prestação jurisdicional, diante da ausência de manifestação expressa sobre os pontos levantados em sede de embargos de declaração.
+No mérito, afirma que é indevido o afastamento da intempestividade daimpugnação ao cumprimento de sentença, uma vez que foimanejada com atraso de 1 (um) ano e 3 (três) meses.
+Alega a violação ao instituto da preclusão, ao argumento de que "adecisão que acolheu a impugnação intempestiva revisitou o cálculo apresentado na petição de cumprimento de sentença, decisões que aplicaram multa e até mesmo o crédito de honorários de sucumbência que já havia sido levantado e quitado nos autos, sem qualquer insurgência no momento oportuno da parte executada" (e-STJ, fl.264).
+Apontadivergência jurisprudencial com julgados do STJ e do TJSP, no sentido de que a impugnação ao cumprimento de sentença extemporânea se trata de peça juridicamente inexistente, ainda que se trate de matéria de ordem pública.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis apenas quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Consoante entendimento pacífico desta Corte Superior, não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Esclareça-se que, nos termos da jurisprudência consolidada deste Superior Tribunal de Justiça, não se exige do julgador a análise de todos os argumentos das partes para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos encontram-se objetivamente fixados nas razões do acórdão recorrido. Confira-se (fls.146/150):
+PRECLUSÃO DA ALEGAÇÃO DE EXCESSO DE EXECUÇÃO
+A execução de título judicial deve observar os estritos limites da coisa julgada, uma vez que, nos termos do art. 503 do CPC, a sentença tem força de lei nos limites da lide e das questões decididas, restando impossibilitada a interpretação extensiva do decisium.
+Como a fase de cumprimento deve ser realizada na estreita medida do que foi decidido na sentença, inexiste impedimento de que o magistrado determine a correção dos cálculos para ajustar à condenação, sob pena de ofensa à coisa julgada.
+No mesmo sentido, colacionam-se os seguintes julgados desta Corte:
+(..)
+Na planilha de cálculo apresentada pelo exequente (ID26554522/0736217-02), os honorários advocatícios (R$3.867,26) foram calculados em 15% sobre o valor total da condenação (R$25.781,79).
+Todavia, considerando a sucumbência recíproca, mas não proporcional, os honorários advocatícios sucumbenciais devem ser calculados em 15% sobre 40% do valor da condenação (IDs 26554515 e 26554518/0736217-02).
+Portanto, agiu com acerto o magistrado a quo ao determinar a correção dos cálculos dos honorários apresentados pelo exequente.
+AFASTAMENTO DA MULTA PELO DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER
+De acordo com a Súmula 410/STJ, "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+O enunciado vinculante relaciona-se com a multa fixada em razão do descumprimento de determinação judicial. Ou seja, é necessária a intimação pessoal apenas nas hipóteses em que as astreintes forem fixadas por decisão judicial cominatória.
+Confiram-se os precedentes que deram origem à referida súmula:
+(..)
+No caso, foram impostas duas multas aos réus/executados, uma contratual, reconhecida na fase de conhecimento, e outra de caráter cominatório, incidente a partir da fase de execução.
+A sentença exequenda condenou os réus à multa contratual de R$15.000,00 (item 3 da condenação). Além disso, ao condenar os réus à obrigação de transferir, no prazo de 15 dias, a titularidade do financiamento, previu multa diária (astreintes), adotando os mesmos parâmetros da multa contratual:
+R$150,00 diários, com valor limitado a R$15.000,00 (item 4 da condenação).
+Como relatado acima, a multa contratual foi devidamente incluída nos cálculos apresentados pelo exequente quando da deflagração da fase executória. Ademais, em razão do disposto no título judicial, o cumprimento de sentença foi recebido com a previsão da incidência das astreintes (R$150,00 diários, com limite de R$15.000,00), as quais, diante da omissão dos devedores, restaram majoradas para R$30.000,00.
+A devedora apresentou impugnação, em que contestou tão somente a incidência das astreintes de R$30.000,00, anuindo, portanto, com a incidência da multa contratual de R$15.000,00.
+A decisão agravada excluiu as astreintes com fundamento na ausência de intimação pessoal dos devedores, ao passo que nada determinou sobre a multa contratual, que permanece como parcela do débito exequendo. Tanto é assim que a planilha de débito apresentada pelo exequente após a decisão agravada inclui referida multa no cálculo da dívida (ID82268062/0736217-02).
+Considerando que, de fato, não há quaisquer registros de intimação pessoal dos devedores para o cumprimento da obrigação de fazer, correto o afastamento da multa pelo descumprimento de determinação judicial.
+Dessa forma, irretocável a decisão agravada.
+No que toca à apontada ofensa aos arts.505, 507 e 525, capute §§ 1º e 11, do CPC, verifico que o acórdão recorrido afastou o reconhecimento dapreclusão, uma vez que a execução deve observar os limites da coisa julgada, de maneira que inexiste impedimento de que o magistrado determine a correção dos cálculos para ajustar à condenação.
+Com efeito, oentendimento firmado no acórdão recorrido está em consonância com a jurisprudência do STJ, segundo o qualos cálculos apresentados pelo credor devem guardam estreita sintonia com os parâmetros estabelecidos na sentença exequenda, de forma que cabeao juiz rever os cálculos apresentados pelo credorpara adequá-los ao título executivo, razão pela qual a tese de preclusão não atinge o juiz. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CÁLCULOS. READEQUAÇÃO. POSSIBILIDADE. NÃO OCORRÊNCIA DE VIOLAÇÃO À COISA JULGADA. RECURSO NÃO PROVIDO.
+1. De acordo com precedentes do Superior Tribunal de Justiça, a preclusão não atinge o juiz, o qual tem o dever de zelar pela correta execução do título judicial. Até mesmo de ofício, pode o juiz rever os cálculos apresentados pelo credor, para adequá-los ao título executivo, de modo que não merece acolhida a tese de preclusão.
+2. Ademais, verificar se houve a apontada ofensa à coisa julgada demandaria reexame provas, providência vedada nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.679.792/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 2/3/2021.)
+Incide, portanto, o óbice da Sumula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Sem majoração de honorários advocatícios, porquanto não fixados na origem.
+Intimem-se.
