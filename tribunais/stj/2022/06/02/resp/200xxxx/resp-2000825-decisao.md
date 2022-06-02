@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interpostoporJULIO CESAR PEÇANHA DE OLIVEIRAcontra acórdão prolatado, por unanimidade, pela 20ªCâmara Cível do Tribunal de Justiça do Estado do Rio de Janeirono julgamento de agravo de instrumento, assim ementado (fls. 54/58e):
+AGRAVO DE INSTRUMENTO. AÇÃO ORIGINÁRIA QUE OBJETIVA AADPTAÇÃO DA ESTAÇÃO DE TREMÀS NECESSIDADES DOS PORTADORESDE DEFICIÊNCIA FÍSICA. DECISÃO AGRAVADA QUE INDEFERE O PEDIDO DE SUSPENSÃO DO PROCESSO INDIVIDUALFORMULADO PELA SUPERVIAATÉ O JULGAMENTO DA AÇÃO COLETIVAQUE VERSA SOBRE A MESMA MATÉRIA. JURISPRUDÊNCIA DO STJ, RESP 1.110.549/RS, PELA SISTEMÁTICA DE RECURSO REPETITIVO,QUE AUTORIZA SUSTAR O ANDAMENTO DAS AÇÕES INDIVIDUAIS NO AGUARDO DO JULGAMENTO DA AÇÃO COLETIVA. ATUALIZAÇÃO DA INTERPRETAÇÃO DOS ARTIGOS 81 E 104 DO CDC. PRINCÍPIO DA EFETIVIDADE DA JURISDIÇÃO. REFORMA DA DECISÃO. SUPENSÃO DO FEITO QUE SE IMPÕE. PROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados (fls. 66/71e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts.81 e 104 do Código de Defesa do Consumidor eart.1.030 do Código de Processo Civil,alegando-se, em síntese, que (fls. 79/80e):
+Não existe nenhuma dificuldade em perceber, DE PRONTO, que o acórdão deste recurso ementado acima trata de situaçãoTOTALMENTE DESCOMPATILIZADA com o processo do recorrente, pois nele se suspendeu os processos relativos as ações individuais propostas contra um banco referente a correções, E QUE A DECISÃO DO STJ DARÁ SOLUÇÃO PARA TODOS OS PROCESSOS INDIVIDUAIS, DIRÁ TERÃO OU NÃO DIREITO AO PEDIDOS, e no caso do recorrente a peleja é outra e disputado em outro campo, posto que, colocando as matrizes de acesso para os deficientes, EM NADA, COMO JÁ SE ESCREVEU, IRÁ TOCAR NO DIREITO QUE DISCUTE, DE TER SIDO HUMILHADO E DE ESTAR SENDO HUMILHADO.
+Comcontrarrazões (fls. 107/121e), o recurso foi admitido(fls. 133/135e).
+O Ministério Público Federal manifestou-se às fls. 150/154e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual o ajuizamento daação coletiva sobre a lide geradora de processos multitudinários provoca a suspensão das as ações individuais no aguardo do julgamento da ação coletiva.
+Nesse sentido:
+RECURSO REPETITIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COLETIVA. MACRO-LIDE. CORREÇÃO DE SALDOS DE CADERNETAS DE POUPANÇA. SUSTAÇÃO DE ANDAMENTO DE AÇÕES INDIVIDUAIS. POSSIBILIDADE.
+1.- Ajuizada ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais, no aguardo do julgamento da ação coletiva.
+2.- Entendimento que não nega vigência aos aos arts. 51, IV e § 1º, 103 e 104 do Código de Defesa do Consumidor; 122 e 166 do Código Civil; e 2º e 6º do Código de Processo Civil, com os quais se harmoniza, atualizando-lhes a interpretação extraída da potencialidade desses dispositivos legais ante a diretriz legal resultante do disposto no art. 543-C do Código de Processo Civil, com a redação dada pela Lei dos Recursos Repetitivos (Lei n. 11.672, de 8.5.2008).
+3.- Recurso Especial improvido.
+(REsp n. 1.110.549/RS, relator Ministro Sidnei Beneti, Segunda Seção, DJe de 14/12/2009.)
+Neste julgado, também, restou consignado que peculiaridades da demandanão seriam consideradas dada a multiplicidadede questões eventualmente impugnadas. Assim, as questões incidentais deverão aguardar futura movimentação processual.
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária.
+Posto isso, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
