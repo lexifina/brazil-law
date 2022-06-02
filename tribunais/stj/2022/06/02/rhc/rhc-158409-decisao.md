@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recursoordinário em habeas corpus, sempedido liminar, interposto por LUCAS GEGLIO DA SILVAcontra acórdão do Tribunal Regional Federal da 3.ª Regiãoproferido no HC n.5018699-94.2021.4.03.0000.
+Extrai-se dos autos que Paciente foi preso temporariamente em 22/05/2021, acusado dos crimes de furto qualificado e de associação criminosa na chamada Operação Sem Herança.O Ministério Público ofereceu denúncia contra o Paciente pela suposta prática dos crimes previstos "no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal por 04 (quatro) vezes, em concurso formal impróprio, nos moldes do art. 70, in fine, do Código Penal, em concurso material (art. 69 do CP) com o crime de associação criminosa qualificada majorada, previsto no art. 8º c/c o art. 1º, II, "a"e "b", ambos da Lei nº 8.072/1990, e no art. 288, parágrafo único, do Código Penal" (fl. 211), bem como requereu a prisão preventiva. Em 26/05/2021, o Juízo a quo recebeu a exordial acusatória e converteu a prisão temporária em preventiva (fls. 285-296).
+Os pedidos de liberdade provisória foram indeferidos.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte de origem, que denegou a ordem.
+Nas razões recursais, o Recorrentealega que a prisão preventiva é ilegal, porque não existem fundamentos suficientes de autoria para a manutenção da cautelar.Requer, portanto, a revogação da prisão preventiva.
+O Ministério Público Federal, em parecer de fls. 633-642, manifestou-se pelo desprovimento do recurso.
+É o relatório.Decido.
+No HC n. 743.340/SP, a Defesa do ora Recorrenteformulou idêntica pretensão relativa à custódia cautelar, bem como apontou suposto excesso de prazo e irregularidades processuais.Ao apreciar o referido writ, afirmei que as teses defensivas relativas ao excesso de prazo e às irregularidades processuais se enquadravam como supressão de instância, em razão da faltade análise pelo Corte Federal, bem como refutei a suposta ausênciade requisitos para a prisão preventiva, como se observa da seguinte ementa:
+"HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. EXCESSO DE PRAZO E SUPOSTAS IRREGULARIDADES PROCESSUAIS. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. RÉU PERMANECEU FORAGIDO POR TRÊS MESES. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. PRESENÇA DOS REQUISITOS DA SEGREGAÇÃO PROCESSUAL. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM."
+Portanto, a presente insurgênciaé mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas a mesma matéria.
+Concluo, assim, pela inadmissibilidade do recurso, por se tratar demera reiteração de pedido já formulado em writ anteriormente analisado nesta Corte. No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, NÃO CONHEÇO dopedido recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. PEDIDO ANALISADO NO JULGAMENTO DO HC N. 743.340/SP.RECURSO NÃO CONHECIDO.
