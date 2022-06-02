@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANGELO JOÃO GUERRA - ESPÓLIO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que possui a seguinte ementa (e-STJ fl. 606):
+TRIBUTÁRIO. ITR. ISENÇÃO. ÁREA DE RESERVA LEGAL.
+A isenção do Imposto Territorial Rural (ITR) referente à área de reserva legal está condicionada à averbação dessa área no registro imobiliário, como ato constitutivo, de modo a possibilitar a conferência pelo órgão ambiental competente da localização e do perímetro da área de reserva legal.
+Jurisprudência do STJ.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 627/633).
+Nas razões de recurso (e-STJ fls. 638/653), inicialmente, a parterecorrente aponta violação dos arts. 11, 489, II, § 1º, III, IV, e V, e1022do CPC/2015, argumentando que o Tribunal de origem, mesmo com a oposição de embargos de declaração, teria sido omisso em "analisaro pedido com base nos fatos e provas produzidas pelo contribuinte que garantem o direito pleiteado", pois, enquanto o "r. acórdão menciona apenas a ausência de averbação da área de Reserva Legal, ignorou o fato de que a averbação vem comprovado na matrícula do imóvel, juntada aos autos desde a exordial" (e-STJ fl. 643).
+No ponto, acrescenta que (e-STJ fls. 644/646):
+não se trata, portanto, de inexistência da averbação, mas sim de clara e evidente omissão e análise dos fatos e provas, pois, no tocante à existência de averbação considerada necessária para concessão da isenção tributária do ITR, está devidamente comprovada. O recorrente demonstrou que, em razão da existência da averbação, tem direito à isenção.
+ ..
+o acórdão não enfrentou, em nenhum momento, a questão central levantada pelo contribuinte nos Embargos de Declaração, qual seja a existência de averbação da área de utilização limitada comprovada através da matricula juntada aos autos, fato que, conforme entendimento do STJ, é suficiente para garantir a isenção do ITR para a área de Reserva Legal, nos termos do art. 16 da Lei n. 4.771, de 1965 (vigente à época dos fatos), com a redação dada pela Medida Provisória n. 2.166-67/2001, c/c alínea "a" do inciso II do § 1º do art. 10 da Lei n.9.393/96.
+No mérito, entende que o julgado recorrido teria transgredido o art. 10,§ 1º, II, "a", da Lei n. 9.393/1996, que condicionada a isenção do ITR à averbação da área de utilizaçãolimitada na matrícula do imóvel (e-STJ fl. 651). Diz que há, nos autos, a averbação da área junto à matrícula do imóvel nos termos exigidos pelo entendimento do STJ, juntada aos autos desde a exordial.
+As contrarrazões foram oferecidas às e-STJ fls. 663/665.
+O recurso foi admitido às e-STJ fl. 669.
+Passo a decidir.
+O Tribunal de origem, ao examinar a questão, assim decidiu(e-STJ fls. 608/609):
+O STJ, ao dar provimento ao Agravo em REsp nº 373.823, entendeu que a isenção do Imposto Territorial Rural (ITR) referente à área de reserva legal está condicionada à averbação dessa área no registro imobiliário, como ato constitutivo, de modo a possibilitar a conferência pelo órgão ambiental competente da localização e do perímetro da área de reserva legal.
+A União objetiva seja afastada a declaração de nulidade dos lançamentos e materializados nas CDA"s nºs 00.8.09.000159-75 00.8.09.000158-94, relativos à cobrança de ITR dos exercícios de 2003 e 2004, reformando-se a decisão que, por consequência, decretou extinta a execução fiscal nº 5000775-48.2010.404.7107.
+Uma vez que o contribuinte não procedeu à averbação das áreas de preservação permanente à margem da matrícula do imóvel, em tempo hábil, é dizer, anteriomente à declaração tributária, não há falar em possibilidade de isenção do pagamento do ITR.
+Os pontos relativos à desnecessidade de apresentação da ADA e do direito à isenção acerca das áreas de preservação permanente foram mantidos pelo STJ quando do julgamento do citado REsp.
+Destarte, deve ser reformada a sentença apenas quanto à isenção relativa à área de reserva legal.
+O juiz singular fixou a verba honorária em 10% do valor dado à causa. Considerando que a União foi vencedora, agora, em 1/3 dos pedidos, cabe lhe condenar ao pagamento de 6% do valor dado à causa. Cabe à parte embargante, ora apelada, o pagamento de 4% do valor dado à causa.
+A mesma proporção deve ser observada para o pagamento de custas processuais.
+Ante o exposto, voto por dar parcial provimento à apelação da União e à remessa oficial.
+Ao examinar os embargos de declaração o Tribunal consignou que (e-STJ fl. 632):
+o voto condutor do acórdão, no que é pertinente, está suficientemente fundamentado. O acórdão é inteligível, dele podendo se extrair perfeitamente as razões pelas quais se reconheceu a improcedência do recurso. O fato de a embargante discordar das razões não implica qualquer dos aventados vícios.
+Aqui, na verdade, a embargante busca a rediscussão do tema, objetivo ao qual não se prestam estes embargos de declaração (art. 1.022 do Código de Processo Civil - Lei nº 13.105, de 2015).
+Ademais, ao contrário do que sustenta a recorrente, é despicienda a interposição de embargos de declaração com a finalidade específica de prequestionamento, porquanto se consideram incluídos no acórdão os elementos que a embargante suscitou, ainda que os embargos de declaração sejam inadmitidos ou rejeitados. Veja-se o teor do art. 1.025 do Código de Processo Civil - Lei nº 13.105, de 2015:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que que o os embargante suscitou, para fins de pré-questionamento, ainda embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ante o exposto, voto por negar provimento aos embargos de declaração.
+Pois bem.
+O recurso merece parcial acolhimento, uma vez que o Tribunal de origem, alertado pelo recorrente em sede de embargos de declaração acerca da omissão na análise da existência da averbação na matrícula do imóvel da Área de Reserva Legal, passível de repercutir nas demais questões decididas no acórdão, quedou-se silente em analisá-lo.
+Ao examinar os embargos de declaração,a Corte de origem decidiu que (e-STJ fl. 632):
+o voto condutor do acórdão, no que é pertinente, está suficientemente fundamentado. O acórdão é inteligível, dele podendo se extrair perfeitamente as razões pelas quais se reconheceu a improcedência do recurso. O fato de a embargante discordar das razões não implica qualquer dos aventados vícios.
+Aqui, na verdade, a embargante busca a rediscussão do tema, objetivo ao qual não se prestam estes embargos de declaração (art. 1.022 do Código de Processo Civil - Lei nº 13.105, de 2015).
+Ademais, ao contrário do que sustenta a recorrente, é despicienda a interposição de embargos de declaração com a finalidade específica de prequestionamento, porquanto se consideram incluídos no acórdão os elementos que a embargante suscitou, ainda que os embargos de declaração sejam inadmitidos ou rejeitados. Veja-se o teor do art. 1.025 do Código de Processo Civil - Lei nº 13.105, de 2015:
+ ..
+Ante o exposto, voto por negar provimento aos embargos de declaração.
+Ainda que o julgado embargado tenha referido à não averbação das áreas de preservação permanente "em tempo hábil, é dizer, anteriormenteà declaração tributária, não há falar em possibilidade de isenção do pagamento do ITR", não fez referência expressa à Áreade Reserva Legal.
+Por força dos arts. 489, § 1º, 927, § 1º, e 1.022, parágrafo único, do CPC/2015, os órgãos judiciais estão obrigados a se manifestar, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador. Nessa linha, se a integração pedida por meio dos aclaratórios é negada pelo órgão julgador, há violação dos referidos dispositivos.
+A respeito: EDcl no AgInt no REsp 1.584.428/RS, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 22/05/2017; e REsp 1.661.018/RS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 02/05/2017.
+Na hipótese dos autos, está caracterizada a violação dos incisoIIdo art. 1.022 do CPC/2015, pois o acórdão dos aclaratórios deixou de se pronunciar acerca da questão levantadana petição de embargos (a averbação na matrícula do imóvel da Área de Reserva Legal) e que, se reconhecido, pode, inclusive, resultar na alteração do julgado.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios, determinando o retorno dos autos ao Tribunal de origem, a fim de que este reaprecie os embargos de declaração e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
