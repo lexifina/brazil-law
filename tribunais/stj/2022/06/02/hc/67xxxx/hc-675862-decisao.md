@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor deANTÔNIO CAMPOS ROCHA JÚNIOR contra decisão indeferitória de liminar no Tribunal de Justiça de Minas Gerais (HC n. 1.0000.21.111840-1/000.)
+O paciente foi denunciado pelaprática dos delitos previstos nos arts. 2º, caput, da Lei n. 12.850/2013,4º, II, a e b, da Lei n. 8.137/1990, por várias vezes,e1º, caput, §§ 2º, I, e 4º, da Lei n. 9.613/1998, investigados na Operação Conexus.
+Nesta via, a defesa sustenta estar configurado constrangimento ilegal pelo indeferimento de reabertura de prazo para resposta à acusaçãoapós a juntada de novos documentos pelo Ministério Público.
+Afirmater sido marcada audiência de instrução e julgamento para 28/6/2021, por videoconferência, sem que o Juízo processante tenha indicado previamente "quais testemunhas e réus serão ouvidos, ao passo que os processos em conjunto contam com 100 (cem) testemunhas arroladas e 11(onze) acusados" (fl. 4).
+Enfatizaa necessidade desuspensão da audiência de instrução e julgamento designada, a fim de que sejaoportunizada reabertura de prazo para complementação das respostas à acusação,sob pena de ofensaà Súmula Vinculante n. 14 do STF.
+Requer, liminarmente, a suspensão da audiência de instrução.No mérito, pleiteia a reabertura do prazo de 30 dias para que as defesas possam complementar suas respostas à acusação, tendo em vista a juntada de novos elementos indiciários aos autos.
+Liminar deferida.
+Prestadas informações, o Ministério Público manifestou-se pela denegação da ordem.
+É o relatório. Decido.
+O presente habeas corpus está prejudicado.
+A presente impetração tem por objeto decisão que indeferiu a medida liminar. Em 17/9/2021, o Tribunal a quo julgou o mérito do habeas corpusoriginárionos termos da seguinte ementa:
+HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA (CARTEL), ADULTERAÇÃO DE COMBUSTÍVEL, FALSIDADE IDEOLÓGICA, LAVAGEM DE DINHEIRO, SONEGAÇÃO FISCAL - INTERCEPTAÇÃO TELEFÔNICA - DISPONIBILIZAÇÃO PELA ACUSAÇÃO APÓS A APRESENTAÇÃO DA RESPOSTA ESCRITA - ADITAMENTO À RESPOSTA - OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DA PARIDADE DE ARMAS - AIJ POR MEIO DE VIDEOCONFERÊNCIA - LEGALIDADE - PANDEMIA (COVID-19) - DESIGNAÇÃO DE DUAS AUDIÊNCIAS DE INSTRUÇÃO PARA O MESMO DIA - POSSIBILIDADE - CONSTRANGIMENTO ILEGAL EVIDENCIADO EM PARTE - CONCESSÃO PARCIAL DA ORDEM.
+- Se o acesso à integralidade das interceptações telefônicas se dá após a resposta escrita, do art. 396-A, do Código de Processo Penal, a abertura do prazo para aditamento à resposta deve ser franqueado à defesa, sob pena violação aos princípios da ampla defesa, do contraditório e da paridade de armas.
+- A princípio não há flagrante ilegalidade na decisão que designa audiência de instrução e julgamento por meio de videoconferência, mormente diante do quadro pandêmico vivenciado pela Covid-19. Além disso, recentemente o STF admitiu a realização de audiência de custódia por meio de videoconferência (ADI-MC 6.841/DF), além de previsões legais a respeito, como o interrogatório do acusado (art. 185, do CPP), a oitiva de testemunhas (art. 222, §3º, do CPP), e mesmo na fase executiva, por ocasião da audiência de justificação (art. 52, da LEP).
+- A designação de duas audiências de instrução e julgamento para o mesmo dia, referente a duas ações penais conexas na origem, não se mostra flagrantemente ilegal ou teratológica.
+Neste contexto, segundo a jurisprudência doSTJ, o julgamento definitivo do habeas corpus originário resulta na perda do objeto daquele impetrado na instância superior em queé impugnada a decisão indeferitória da liminar na origem (AgRg no HC n. 577.622/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2020).
+Na mesma direção, confiram-se os precedentes a seguir: AgRg no HC n. 586.777/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 9/9/2020;  AgRg no HC n. 586.353/PE, relator Ministro Ribeiros Dantas, DJe de 24/8/2020; e AgRg no HC n. 573.958/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 2/6/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
