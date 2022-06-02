@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu o recurso especial com amparo na suficiência do acórdão recorrido enos óbices descritos nas Súmulas n. 7 e 83 do STJ e 282 e 356 do STF.
+O agravante reafirma a violação dos arts. 489, § 1º, IV, e 1.022 do CPC, sustentando que a questão dos falecimentos não foi examinada no acórdão recorrido, tal como os dispositivos legais indicados.
+Alega a configuração do prequestionamento, ainda que implícito, fazendo a transcrição de excerto do julgado e destacando a oposição dos embargos declaratórios.
+Questiona a aplicação da Súmula n. 83/STJ, dizendo que: a) " .. constitui óbice apenas para os recursos interpostos pela alínea "c" do inciso III, art. 105 da CF/88, por divergência jurisprudencial" (e-STJ, fl. 216); b) " .. a pretensão da consolidação da jurisprudência em favor da tese contrária àquela aduzida pela parte recorrente, ora agravante, não resiste a um exame mais acurado do extrato dos julgados apresentados, que não se relacionam de forma integral com a tese recursal ora desenvolvida, bem como não foram proferidos em sede de julgamento pelo rito dos recursos repetitivos, se constituindo em julgados isolados das 1º e 2º Turmas do Superior Tribunal de Justiça, que podem não refletir no entendimento da 1º Seção  .. " (e-STJ, fl. 217); c) " ..  o sindicato possui legitimidade para atuar como substituto processual da categoria na fase de conhecimento e na execução de sentença; legitimidade esta que não se estende para atuar como substituto processual dos sucessores de servidor falecido, ainda que pensionistas" (e-STJ, fl. 219).
+Defende ainda que o exame da tese não demanda o reexame de fatos e provas.
+Contraminuta às e-STJ, fls. 260-268.
+É o relatório.
+Ante o exposto, preenchidos os requisitos legais, com base no art. 253, parágrafo único, II, "d", do RISTJ, dou provimento ao agravo e determino a reautuação do feito como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do recurso especial, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
