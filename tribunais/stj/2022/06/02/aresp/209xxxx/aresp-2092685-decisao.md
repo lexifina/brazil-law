@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por RAPHAEL DA SILVA CAMPOSem face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 1.145, e-STJ):
+APELAÇÕES CÍVEIS  PRELIMINAR - OFENSA AO PRINCÍPIO DA DIALETICIDADE  NÃO OCORRÊNCIA -AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS  CONTRATO DE TELEFONIA  SALDO REMANESCENTE APURADO - DÍVIDA POSTERIORMENTE RECONHECIDA  AUSÊNCIA DE PROVA DO PAGAMENTO - DÉBITO  COBRANÇA E NEGATIVAÇÃO LEGÍTIMA  EXERCICIO REGULAR DO DIREITO  DANOS MORAIS -INSCRIÇÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO  DANOS MORAIS  INEXISTÊNCIA  SENTENÇA REFORMADA. Verificado que os argumentos deduzidos no apelo impugnam as razões de decidir da sentença, não há que se falar em ofensa ao princípio da dialeticidade. A responsabilidade, dever de reparar o dano, decorre de um ato ilícito. Se o autor não nega a relação jurídica havida entre as partes, posteriormente, reconhece a existência da dívida em aberto e não com prova o pagam ento da fatura, a inscrição do seu nome no cadastro de proteção ao crédito se trata de exercício regular do direito da operadora de telefonia Não há que se falar em condenação em danos morais se a inscrição do nome do autor nos cadastros de restrição ao crédito foi legítima, face o reconhecimento da dívida e a inadimplência.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 1.187-1.196,e-STJ).
+Nas razões de recurso especial (fls. 1.199-1.209,e-STJ), alegou o insurgente que o acórdão recorrido violou os arts. 4º, 6º e 14 do CDC, sustentando, em síntese, a falha na prestação de serviço da recorrida.
+Contrarrazões às fls. 1.216-1.220,e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 1.242-1.258,e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 1.262-1.264,e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1.Cinge-se a controvérsia recursal quanto à violação aos arts.4º, 6º e 14 do CDC, afirma o recorrente, em síntese, que houve falha na prestação de serviço da recorrida, visto que, não houve a correta disponibilização das informações ao consumidor.
+No particular, decidiu o Tribunal de piso:
+No caso dos autos, verifico que o autor não nega a relação jurídica havida com a ré. Pelo contrário, afirma que possuía duas linhas telefônicas com a operadora de telefonia  Telefônica Brasil S/A VIVO.
+Do documento intitulado VIVO NEGOCIA (doc. 8) verifico que, em bora em um primeiro momento a atendente da operadora tenha afirmado que o ún ico débito existente era o referente a linha 38 30145514 e que em relação a linha 30144344 não havia faturas (p.1 em 27/03/2020), foi constatado débito no valor de R$ 114,40 (p.2, 01/04/2020).
+Ainda que o autor tenha contestado o valor e afirm ado que já havia negociado o débito, observo que em 08/04/2020 o demandante informou que gostaria de "negociar o débito pelo menor valor possível".
+Ademais, dos documentos 36 a 38 verifico que foram apresentados registros de utilização do número no período correspondente a fatura em aberto. Decorre que o autor não contestou tal relatório, apenas alegou que esses documentos não tinham o condão de com provar os fatos sustentados na inicial.
+Assim, embora tenha, a princípio, havido uma falha na prestação de serviço por parte da operadora, que havia informado que não havia débito em aberto, a conduta do autor, em buscar a renegociação do débito em aberto, demonstra o reconhecimento da dívida e, por consequência, afasta a ilegalidade da conduta imputada ré.
+AfinaI, o erro da informação não anulou o débito que, restou, por fim, reconhecido elo próprio autor, ainda que quisesse modificar seu valor. Ora, se o próprio autor reconhece, ainda que em momento posterior, a existência de débito em aberto e não com prova a quitação da obrigação assumida, não há como reconhecer a irregularidade da cobrança e da inscrição.
+Dessa forma, não vislumbro razões para atribuir ao réu, neste caso, a falha na prestação de serviços e a culpa pela inclusão do nome do autor nos cadastros de proteção ao crédito. Pelo contrário, a inscrição do nome do autor nos cadastros de restrição ao crédito foi legítima.
+O réu agiu em exercício regular do direito.
+O Tribunal local, diante das peculiaridades  do  caso  concreto  e  a  partir  da  análise  do  conteúdo  fático-probatório  dos  autos, reformou o entendimento firmado em primeira instância, concluindo pela ausência de falha na prestação de serviço pela recorrida. Derruir  as  conclusões  contidas  no  decisum  e  acolher  a  pretensão  recursal  para  verificar  a  ocorrência  ou  não  de ato ilícito apto à indenização por danos morais  ,  na  hipótese,  ensejaria  o  necessário  revolvimento  das  provas  constantes  dos  autos,  providência  vedada  em  sede  de  recurso  especial,  ante  o  óbice  estabelecido  pela  Súmula  7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. AÇÃO INDENIZATÓRIA POR DANOS PATRIMONIAIS E MORAIS. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DE SERVIÇOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL.
+1. A decisão recorrida, pois compulsando os autos verifica-se que, de fato, a parte agravante impugnou a parte da decisão recorrida fundamentada no óbice da Súmula 7/ STJ, não sen do o caso, portanto, de aplicação da Súmula 182/STJ.
+2. As conclusões do acórdão recorrido no tocante à existência do ato ilícito apto a gerar o dever de indenizar, assim como o valor arbitrado a título de danos morais, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. A majoração dos honorários advocatícios em 15% (quinze por cento) sobre o percentual já arbitrado, de 11% ( onze por cento), não afronta o limite estabelecido pelo Código de Processo Civil.
+4. Agravo interno provido, para reconsiderar a decisão agravada.
+Agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.896.158/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/5/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS DISPOSITIVOS INDICADOS. CERCEAMENTO DO DIREITO DE DEFESA. SERVIÇOS DE TELEFONIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 11, 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A análise das razões apresentadas pela recorrente - quanto ao cerceamento de defesa e à falha na prestação de serviço de telefonia por deficiência no dever de informação - demandaria o reexame da matéria fática e do conteúdo contratual, o que é vedado em sede de recurso especial (Súmulas n. 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.805.213/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/10/2021.)
+Inafastável, portanto, o óbice da Súmula 7 do STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
