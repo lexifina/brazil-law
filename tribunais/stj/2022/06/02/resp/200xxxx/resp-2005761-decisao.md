@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que, em parte, negou seguimento ao recurso especial à luz das orientações firmadas nos Temas 611 e 905 do STJ e 810 do STF e, no restante, inadmitiu-o com amparo na natureza constitucional de sua fundamentação.
+O agravante afirma violação, pelo aresto impugnado, do art. 1º do Decreto n. 20.910/1932. Defende que, "no caso presente, uma vez reenquadrado o instituidor da pensão na carreira criada pela Lei 10.410, vigente desde sua publicação, em 14/1/2002, e sendo esta a lei que criou distorções quanto ao reenquadramento, como dispõe o voto condutor, a ser sanada nesta ação judicial, o prazo fatal para a ação passou a ser a data de 14/1/2007. Proposta a ação apenas em 2010, fulminado pela prescrição o direito da autora" (e-STJ, fl. 405).
+Registra que apontou contrariedade aos arts. 12, capute§§ 2º, e 7ºda Lei n. 10.410/2002; 1ºda Lei n.10.472/2002;1º da Lei 10.775/2003 e ao Decreto 4.293/2002. Argumenta que se apontou, "inclusive, que o v. acórdão regional se afasta da da jurisprudência do Eg. STJ, o que atesta o caráter infraconstitucional da matéria" (e-STJ, fl. 405).
+Repisa considerações pertinentes ao mérito do recurso especial e, ao final, anota que, "do voto condutor na Turma, observa-se que há, sim, fundamento infraconstitucional na decisão, de modo que se faz necessária a interposição do recurso especial - STJ, Súmula 126" (e-STJ, fl. 417). Faz transcrições do julgado para demonstrá-lo.
+Sem contraminuta.
+É o relatório.
+Ante o exposto, preenchidos os requisitos legais, com base no art. 253, parágrafo único, II, "d", do RISTJ, dou provimento ao agravo e determino a reautuação do feito como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do recurso especial, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
