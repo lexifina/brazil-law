@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ECOLOG SERVICOS AMBIENTAIS LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. RESPONSABILIDADE CIVIL POR VÍCIO DO PRODUTO. SENTENÇA QUE RECONHECEU A DECADÊNCIA EM RELAÇÃO AOS PEDIDOS DE DANOS MATERIAIS E JULGOU IMPROCEDENTE A PRETENSÃO DE DANOS MORAIS. ACERTO DO DECISUM, QUE SE MANTÉM.
+PEDIDO DE APLICAÇÃO DO CDC AO CASO. Não conhecimento. Sentença que foi explícita ao esclarecer que a relação em comento possuiu natureza consumerista, por aplicação da teoria finalista mitigada, e, consequentemente, foram aplicadas as normas da Lei nº 8.078/1990 para o deslinde da controvérsia.
+PRETENSÃO DE AFASTAMENTO DA DECADÊNCIA EM RELAÇÃO AOS DANOS MATERIAIS. Não acolhimento. Com acerto, asseverou o magistrado sentenciante que os pedidos de instalação da "proteção de ciclista" e de ressarcimento pelos defeitos apresentados no produto adquirido diziam respeito a vícios do produto -e a não fatos do produto. Consequentemente, aplicável ao caso o prazo decadencial de 90 dias previsto no art. 26, inc. II, do CDC, e não o seu art. 27, de cinco anos, como pretendeu o apelante.
+REQUERIMENTO DE DANOS MORAIS. Desprovimento. Princípios informadores da tutela protetiva ao consumidor que não o dispensam de fazer prova mínima dos fatos constitutivos do direito por si invocado. Súmula nº 330/TJRJ. Caso concreto em que o apelante não se desincumbiu de seu ônus probatório. Acerto do juízo de improcedência. Majoração dos honorários para R$ 1.500,00 pela sucumbência recursal. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto noart. 27 do CDC.
+Sustenta, em síntese: a)que o caso não trata de vício de produto, e sim fato do serviço - haja vista o serviço contratado não ter sido efetivamente finalizado; b) ter a recorrida entregue a recorrenteum implemento do veículo sem a proteção do ciclista -requisito fundamental para o tipo de produto que fora adquirido; e c) ter havido ofensa à segurança do consumidor.
+Contrarrazões ao recurso especial às Fls. e-STJ 369-373.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. O Tribunal de origem,soberano no exame do acervo fático-probatório dos autos, constatou, em análise concretado caso apresentado, que a ocorrência relatada no bojo do presente processoconfigura um vício do produto - e não um fato do produto, como pretendidopela ora recorrente.
+Ocorre que tendo essa verificação se dado in concreto, decerto que para infirmá-la seria necessário promover o revolvimento dos elementos fático-probatórios da hipótese - o queencontra óbice na Súmula 7 desta Corte (que veda "a pretensão de simples reexame de prova").
+4. Inobstante, registre-seque, apesar de sua insurgência, a ora recorrente não apresentou qualquer fundamentação apta a refutar a conclusão alcançada pela Corte a quo. Haja vista ter cingido suas razões à genérica alegação de que o caso trataria de um defeito, em razão de ter-lhe sido entregue"um implemento do veículo sem a proteção do ciclista, requisito fundamental para o tipo de produto que fora adquirido" (Fl. e-STJ 354) - a qual não se mostra apta a evidenciar um eventual equívoco no exame do caso pelo Tribunal de origem.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
