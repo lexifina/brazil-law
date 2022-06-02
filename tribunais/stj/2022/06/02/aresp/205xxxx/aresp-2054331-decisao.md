@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TEREZINHA MARIA DE JESUS SANTOS contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Paraná, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DANOS MATERIAIS. PERÍCIA TÉCNICA. JUIZADO ESPECIAL FEDERAL. VALORDA CAUSA. COMPETÊNCIA. ABSOLUTA. PROVA PERICIAL. POSSIBILIDADE. DECLINAÇÃO DE COMPETENCIA. PRINCÍPIO DANÃO SURPRESA. ART. 10 DO CPC. AFRONTA. INEXISTÊNCIA.
+A necessidade de realização de perícia técnica e a complexidade da causa não são suficientes para a modificação da competência do Juizado Especial Federal para apreciar o feito, que, diga-se, é absoluta, e se dá pelo valor atribuído à causa, sendo cabível ao autor indicar o valor da causa compatível com o conteúdo econômico da ação. A Lei n.º 10.259/2001 não exclui de sua competência as disputas que envolvam exame pericial.
+O art. 10 do CPC/2015 faz referência expressa ao princípio da não surpresa. Assim, em regra, o magistrado não pode decidir com base em algum fundamento que as partes não tiveram oportunidade de se manifestar. Contudo, a norma do art. 10 do CPC/2015 não pode ser considerada de aplicação absoluta, porque o sistema processual brasileiro desvincula a necessidade de atos processuais da realização de diligências desnecessárias. Assim, a declaração - em si considerada - atinente à declinação de competência absoluta não implica prejuízos a requerente. Afinal, a decisão judicial não se manifesta quanto ao mérito da controvérsia. Esse deverá ser devidamente analisado (caso não haja preliminares ou prejudiciais de mérito)pelo juízo competente após o transcurso do devido processo legal. Ou seja, a declaração de incompetência não traduz risco ao eventual direito subjetivo da requerente. Na verdade, a declinação de competência absoluta prestigia o princípio do juiz natural e, consequentemente, o escopo político do processo (STJ - RMS 61.732/SP).
+Irresignada, TEREZINHA MARIA DE JESUS SANTOSinterpôsrecurso especial com base no art. 105, III,a, da CF, apontando violação dos arts. 9º,10e 105 do NCPC e3ºda Lei nº 9.099/95, alegando que(1) o deslocamento da competência para o Juizado Especial Cível sem abrir prazo para manifestação contrariou o princípio da não surpresa; (2) o valor da causa foi atribuído por advogado sem poderes para renunciar o direito sobre o qual se funda a ação; e (3)a complexidade da demanda, cuja instrução processual implica dilação probatória de ordem técnica, não permite o deslocamento da competência para os Juizados Especiais Federais.
+O recurso não foi admitido pelo Tribunal de Justiça do Paraná por incidir, no caso, o teor da Súmula nº 7 do STJ(e-STJ, fls. 213/217).
+Nas razões do presente agravo, TEREZINHA MARIA DE JESUS SANTOSrefutaoreferidoóbicede prelibação (e-STJ, fls. 231/243).
+Foiapresentada contraminuta (e-STJ, fls. 266/273).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Do princípio da não surpresa
+Nas razões do presente recurso, TEREZINHA MARIA DE JESUS SANTOS afirmou a violação dos arts. 9º e10do NCPC,sustentando queo deslocamento da competência para o Juizado Especial Cível sem abertura de prazo para manifestação contrariou o princípio da não surpresa..
+Contudo, da acurada análise do acórdão recorrido, é possível verificar que o TJPRconsignou que:
+No concernente ao princípio da não surpresa, a agravante também não merece apoio, já que a decisão que averigua os requisitos legais e constitucionais para o julgamento da causa não viola o artigo 10 do CPC/15, pois as questões atinentes aos requisitos/pressupostos de conhecimento de qualquer medida processual, seja de ação, de defesa ou mesmo de natureza recursal, são sempre conhecidas previamente pela parte, uma vez que decorrem da lei (Dura lex sed lex), daí porque sua eventual aplicação pelo juiz jamais poderá causar surpresa na parte alcançada pela decisão. Ao enfrentar a questão quanto ao declínio de competência o STJ afastou afronta ao art. 10 do CPC (e-STJ Fl.168).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+(2) Da falta de poderes dos patronos para renunciar parte do direito pretendido
+Nas razões de seu recurso, TEREZINHA MARIA DE JESUS SANTOSafirmou a violação doart. 105 do NCPC,sustentando que o valor da causa foi atribuído por advogado sem poderes para renunciar o direito sobre o qual se funda a ação.
+Todavia, verifica-se que o TJPRnão emitiu pronunciamento sobre o tema e não foram opostos embargos de declaração para sanar a omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial, em virtude da falta de prequestionamento.
+Incide, quanto ao ponto, o óbice dasSúmulas nºs282 e 356 do STF, por analogia.
+(3) Da complexidade da causa e do descolamento da competência
+Nas razões do presente recurso, TEREZINHA MARIA DE JESUS SANTOS afirmou a violação doart.3ºda Lei nº 9.099/95, sustentando que a complexidade da demanda não permite o deslocamento da competência para os Juizados Especiais Federais.
+Contudo, da acurada análise do acórdão recorrido, é possível verificar que o TJPRconsignou que:
+(..)se o valor da ação ordinária é inferior ao limite de sessenta salários mínimos previstos no artigo 3º da Lei 10.259/2001, como é o caso, aliado à circunstância de a demanda não se encontrar no rol das exceções a essa regra, deve ser reconhecida a competência absoluta do Juizado Especial Federal, sendo irrelevante o grau de complexidade da demanda ou o fato de ser necessária a realização de perícia técnica, pois nos Juizados Especiais Federais é permitida (e-STJ Fl.166).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+DISPOSITIVO
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. DECLINAÇÃO. DECISÃO SURPRESA. AFASTAMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283 DO STF. INCIDÊNCIA. PATRONO SEM PODERES PARA RENUNCIAR DIREITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULASN.os 282 E 356 DO STF.DESLOCAMENTO DA COMPETÊNCIA. JUIZADOS ESPECIAIS FEDERAIS. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283 DO STF. INCIDÊNCIA.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
