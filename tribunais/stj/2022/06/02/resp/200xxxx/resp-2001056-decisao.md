@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado por Seraphim, Zandona, Montanheiro & Portella Advogados, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ªRegião, assim ementado (fl. 685):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PROCESSO DE CONHECIMENTO. RECONHECIMENTO DO DIREITO À COMPENSAÇÃO. OPÇÃO PELA RESTITUIÇÃO.POSSIBILIDADE. ENTENDIMENTO SUMULADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. O entendimento desta Corte é no sentido de que não há que se falar em violação da coisa julgada quando a sentença proferida no processo de conhecimento determina a compensação, mas o exequente opta pelo recebimento mediante precatório. Nesse sentido: Numeração Única: 0011054-
+79.2006.4.01.3300 AC 2006.33.00.011061-4 / BA; APELAÇÃO CÍVEL. Relator: DESEMBARGADOR FEDERAL REYNALDO FONSECA. Convocado: JUÍZA FEDERAL MARIA CECÍLIA DE MARCO ROCHA (CONV.). Órgão: SÉTIMA TURMA. Publicação: 13/02/2015 e-DJF1 P. 2716. Data Decisão: 03/02/2015
+2. Matéria sumulada no Superior Tribunal de Justiça pelo verbete nº 461: "O contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado".
+3. Apelação a que se dá provimento.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 706/711.
+A parte recorrente aponta violação aos arts. 1.022 do CPC e 22, §4º, da Lei 8.906/94. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca da retenção dos honorários advocatícios e; (II) "o contrato de honorários foi devidamente juntado com a inicial de cumprimento de sentença, ou seja, em período anterior a expedição do mandado de levantamento ou precatório" (fl. 758).
+Contrarrazões apresentadas às fls. 680/685.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrentecom o objetivo de ver sanada a omissão, opôs embargos declaratórios, sustentando acerca daseguintetese (fls. 697/698):
+Excelência, seria intocável v. acórdão, não fosse a omissão no que se refere ao pedido de revisão da sentença visando a possibilidade de separação dos honorários advocatícios quando da expedição de precatório.
+É que uma vez reconhecida a possibilidade de restituição via precatório, não há mais que se falar em prejudicial para o deferimento do pagamento dos honorários advocatícios diretamente à Sociedade de Advogados. Isso porque, em relação a esta possibilidade, o artigo 22, §4º, da Lei nº 8.906, de 4 de julho de 1994 (Estatuto da Advocacia e a Ordem dos Advogados do Brasil- OAB) é clara ao dispor:
+Art 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.
+§ 4o Se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a serrecebida pelo constituinte, salvo se este provar que já os pagou.
+A considerar a inexistência de prejudicial ao pedido, a literalidade do artigo 22, §4º. do Estatuto da Advocacia e a Ordem dos Advogados do Brasil- OAB, resta clara a possibilidade da Sociedade de Advogados requerer que o valor devido a título de honorários advocatícios contratuais sejam deduzidos do montante total e, consequentemente, pago diretamente a si.
+Assim sendo, considerada a omissão apontada no r. Acórdão, qual seja da omissão em relação aos honorários advocatícios, não restam dúvidas quanto ao cabimento dos embargos de declaração.
+Contudo, o Tribunal de origem quedou silente sobre a tese dos honorários advocatícios, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ora, reconhecida a violação aos art. 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do apelo especial (REsp 1.185.288/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJe 17/5/2010).
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
