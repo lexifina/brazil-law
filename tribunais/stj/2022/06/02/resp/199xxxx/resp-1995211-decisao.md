@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL INIDÔNEA. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (CÓDIGO DE PROCESSO CIVIL, ARTIGO 485, INCISO IV). PRELIMINAR DAS CONTRARRAZÕES. COMUNICAÇÃODE INTERPOSIÇÃO DO RECURSO PREVISTA NO ARTIGO 1.018 DO CÓDIGO DE PROCESSO CIVIL. DILIGÊNCIA DISPENSADA EM CASO DE AUTOS ELETRÔNICOS, NA FORMA DO § 2º DO ALUDIDO DISPOSITIVO. NO CASO, A NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇO DECLINADO NO CONTRATO RESTOU FRUSTRADA, NÃO TENDO A INSTITUIÇÃO FINANCEIRA AUTORA PROMOVIDO OUTRAS TENTATIVAS DE NOTIFICAÇÃO PRÉVIA AO AJUIZAMENTO DAAÇÃO. EXTINÇÃO DO FEITO, NA FORMA DO 485, INC. IV, DO CPC. AGRAVO DE INSTRUMENTO PROVIDO. AÇÃO EXTINTA.
+Alega-se violação dos artigos 2º, § 2º, e 3º do Decreto-Lei 911/69, 113 e 422 do Código Civil, 4º, 10, 85, 139, IX, 188, 277, 319, 320 e 321 do Código de Processo Civil, associada adissídio jurisprudencial, sob o argumento de que é válida a notificação da mora enviada ao devedor de contrato de alienação fiduciária, de modo que foi equivocada a extinção do processo e a imputação dos ônus de sucumbência à recorrente.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local reformou decisão do juízo de primeiro grau para declarar extinto o processo de busca e apreensão.
+Consignou a Corte de origem que "foi enviada notificação extrajudicial ao endereço declinado pelo fiduciante no contrato, isto é, Rua Pedro Rodrigues Silveira, n. 376, ap.03, Bairro Guarani, Parobé/RS (Evento 1, Contr6, da origem). Entretanto, verifica-se que foram três tentativas de entrega da notificação no endereço do contrato, as quais restaram frustradas pela indicação de "ausente". (Evento 1, Not7, da origem)" (e-STJ, fl. 109).
+Concluiu, assim, que "a não perfectibilização da diligência notificatória, deveria a parte autora/agravada ter exaurido os meios para a notificação do devedor, esgotando diligências pertinentes e, quiçá, promovido o protesto do título. Porém, in casu, a única diligência prévia ao ajuizamento da ação constituiu-se da notificação extrajudicial infrutífera. Dessa forma, não foi comprovada nos autos a constituição em mora do consumidor" (e-STJ, fl. 109).
+O entendimento desta Casa perfilha no sentido de que a notificação enviada ao endereço contratual do devedor, ainda que recebida por terceiro, banda para a sua constituição em mora.
+Não se pode, todavia, presumir a má-fé do fiduciante na hipótese de não haver quem receba a notificação por encontrar-se ausente.
+Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR. MORA NÃO CONFIGURADA. APLICAÇÃO DA SÚMULA 83/STJ.
+1. Esta Corte Superior tem remansoso entendimento no sentido de que a entrega da notificação no endereço contratual do devedor fiduciante, ainda que recebida por terceira pessoa, é bastante para constituí-lo em mora.
+2. Assim, nos termos da jurisprudência desta Corte acima indicada, a notificação apresentada não tem validade para constituição em mora se não foi entregue no endereço do devedor, não podendo ser presumida sua má-fé por encontrar-se ausente no momento da entrega.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.929.336/RS, relatora Maria Isabel Gallotti, Quarta Turma, DJe de 1/12/2021.)
+Do acórdão supra citado colhe-se o seguinte excerto do voto condutor:
+"Ocorre que, conforme salientado pela própria agravante, no caso em exame a notificação não foi entregue no endereço do devedor sob a justificativa de que encontrava-se "ausente". Nesse casos a jurisprudência desta Corte considera que a notificação apresentada não tem validade para constituição em mora, pois não foi entregue no endereço do devedor, não podendo ser presumida sua má-fé por encontrar-se ausente no momento da entrega."
+O Tribunal local agiu, portanto, de acordo com o entendimento desta Casa ao extinguir o processo por ausência de pressuposto processual e imputar a sucumbência à recorrente.
+Incidência, na hipótese, das disposições do enunciado n. 83 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
