@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno, contra decisão monocrática de minha lavra, que deu provimento ao recurso especial, para o fim de que o Tribunal de origem examine os embargos à execução propostos pelo Estado de Minas Gerais, somente em relação ao tópico que foi apresentado com a inicial dos embargos à execução.
+Nas razões do agravo interno, o Estado de Minas Gerais sustenta, em síntese, os seguintes argumentos:
+ ..
+Na verdade, o entendimento atual da Corte é no sentido de que o Recurso Especial Repetitivo 1.387.248 deve ser mitigado quando se tratar de obrigação contra a Fazenda Pública, permitindo a complementação dos dados após a impugnação.
+ ..
+Foi apresentada contrarrazões ao agravo interno (fls. 418-442).
+Na origem, oEstado de Minas Gerais apresentou impugnação ao cumprimento de sentença nos autos em que contende com Vinícius Soares Cardoso, processo n. 1978195-96.2010.8.13.0024, alegando excesso de execução.
+O pedido foi acolhido, com a extinção da execução, com resolução de mérito, diante da demonstração de inexistência de horas extras devidas ao exequente (fls. 169-171), decisão mantida em grau recursal, pelo Tribunal de Justiça do Estado de Minas Gerais.
+É o relatório. Decido.
+Assiste razão ao agravante.
+De fato, o entendimento do Superior Tribunal de Justiça é no sentido de que o interesse na proteção do patrimônio público justifica a realização dedistinguishingquanto ao rigor da apresentação da impugnação dos cálculos de liquidação, exclusivamente no momento da petição de impugnação ou dos embargos à execução, podendo a fazenda pública apresentar memória de cálculo do valor devido, com as justificativas técnicas pertinentes.
+Nesse sentido;
+PROCESSUAL CIVIL. EXCESSO À EXECUÇÃO. FAZENDA PÚBLICA DEVEDORA. MEMÓRIA DE CÁLCULO. APRESENTAÇÃO NA PETIÇÃO DE IMPUGNAÇÃO OU NOS EMBARGOS À EXECUÇÃO. POSSIBILIDADE DE ADITAMENTO. RECURSO REPETITIVO. RESSALVA EM RELAÇÃO AO PODER PÚBLICO. PROTEÇÃO DO PATRIMÔNIO PÚBLICO.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem que negou provimento à Apelação afirmando ser necessária a apresentação de memória de cálculo apontando o excesso à execução.
+2. Não se desconhece a jurisprudência do STJ que exige da Fazenda Pública a apresentação da memória dos cálculos quando apresenta impugnação ou Embargos à Execução. Precedentes: Aglnt no AREsp 604.930/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2017, DJe 7/3/2017; AgRg no AREsp 51.050/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 3/12/2015, DJe 15/12/2015;AgRg no REsp 1.505.490/RS, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF Ia Região), Primeira Turma, julgado em 23/6/2015, DJe 4/8/2015.
+3. Ocorre que o STJ, no julgamento do Recurso Especial Repetitivo 1.387.248, utilizado como paradigma pelo recorrente, em caso concreto que litigava particulares, tendo a Fazenda Nacional como amicus curiae, firmou a seguinte tese jurídica: "Na hipótese do art. 475-L, § 2o, do CPC, é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial."
+4. No referido paradigma o STJ reafirmou a necessidade de quem apresentar impugnação ou Embargos do Devedor, questionando o valor do crédito, indicar o valor que entende devido, bem como os critérios de cálculo utilizados, com o objetivo de definir a parcela incontroversa e delimitar o objeto da discussão na execução do título executivo judicial. Também foi definido que o momento para apresentação das memórias dos cálculos seria na petição de impugnação ou dos Embargos, não se admitindo emenda à petição posteriormente.
+5. No referido julgado a União requereu que a tese firmada não abrangesse a Fazenda Pública. O paradigma considerou as peculiaridades fáticas e jurídicas existentes quando a União, Estados, Municípios e o Distrito Federal figuram como devedores nos processos de Execução (lato sensu), muitas vezes não dispondo dos mesmos meios técnicos (representação judicial) e materiais para a defesa dos seus interesses em relação aos particulares.
+6. O interesse na proteção do patrimônio público justificaria a realização do discrimen quanto ao rigor da apresentação da impugnação dos cálculos de liquidação exclusivamente no momento da petição de impugnação ou dos Embargos à Execução.
+7. Assim, ora decide-se pela aplicação da ressalva existente no precedente firmado no Recurso Especial Repetitivo 1.387.248, para possibilitar que a Fazenda Pública, após intimada, apresente a memória do cálculo do valor devido, com as justificativas técnicas pertinentes ao caso.
+8. Recurso Especial provido.
+(REsp n. 1.732.079/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/5/2018.)
+Ante o exposto, reconsidero a decisão agravada, para,com esteio no art. 255, § 4º, II, do RISTJ, conhecerdo recurso especial para negar-lhe provimento.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
