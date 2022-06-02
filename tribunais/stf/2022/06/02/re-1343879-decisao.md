@@ -1,0 +1,21 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+
+    Apelação Cível. Direito Constitucional e Administrativo. Autora que exerceu a função de técnica em enfermagem, no período de 19.11.2009 a 14.03.2014. Pleiteia indenização por danos morais, 13º salário, férias, adicionais de insalubridade e noturno e piso salarial equiparado ao cargo paradigma. Sentença que julgou parcialmente procedentes os pedidos. Apelação interposta pelo Estado. Parcelas pleiteadas que, embora não previstas na legislação infraconstitucional pertinente, são direitos sociais assegurados constitucionalmente a todos os trabalhadores e, portanto, extensíveis à autora. Adicional noturno previsto expressamente na CRFB, bem como sua extensão aos empregados públicos, inexistindo distinção quanto ao regime de plantão. O fato de a autora exercer sua função em regime de plantão não afasta seu direito ao recebimento do aludido adicional, consoante entendimento consolidado no Supremo Tribunal Federal no verbete sumular 213. Atividade exercida pela autora que a expunha a agentes biológicos, pondo em risco sua saúde e integridade física, a se mostrar evidente o direito ao adicional de insalubridade. Lei Estadual nº1.270/87, recepcionada pela Carta de 88, já fazia tal previsão e, ainda, estabelecia como parâmetro o limite previsto na Consolidação das Leis Trabalhistas. Quanto ao piso salarial correspondente ao cargo paradigma, além de a parte autora não haver comprovado previsão em seu contrato de trabalho, tão pouco em legislação estadual pertinente, ausente previsão Constitucional ao que se vê do parágrafo 3º do art. 39 da CRFB, que não compreende a equiparação ao piso salarial previsto no inciso V do art. 7º da mesma Carta. No que pertine às férias proporcionais, os contracheques que instruem a inicial às fls.37, 50/51, 62/63 e 74/75 demonstram o recebimento da verba correspondente. Quanto à correção monetária incidente nas condenações judiciais da Fazenda Pública, o julgamento conjunto das ADIs 4357 e 4425 declarou a inconstitucionalidade da aplicação do art.1º-F da lei 9.494/97 para fins de correção monetária na fase executiva, modulados os efeitos temporais da decisão. Superveniente julgamento do RE 870.947/SE com repercussão geral, estendeu os efeitos do julgamento das ADIs de modo que a correção pelo índice ali determinado compreenda toda a condenação. Entendimento seguido pelo STJ que, por ocasião do julgamento do REsp 1.492.221/PR ratificou a inaplicabilidade do art.1º-F da Lei 9.494/97 para fins de correção monetária das condenações judiciais da Fazenda, adotando-se, então, o Índice de Preços ao Consumidor Amplo Especial – IPCAE. Por fim, quanto ao termo inicial de incidência dos juros de mora, a norma do art.405 do CC determina que se dê na citação. Hipótese que não comporta reexame necessário ante a interposição do recurso, a teor na inovação trazida pelo CPC/15. Reforma da sentença para afastar a condenação do réu ao pagamento de férias proporcionais e da diferença de piso salarial ao cargo paradigma, bem assim para determinar que os juros de mora incidam a contar da citação.
+
+    RECURSO PARCIALMENTE PROVIDO.
+
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 37, caput, IX e X, e 39, caput, e §3, da CF.
+
+    O Supremo Tribunal Federal, ao julgar o RE 1.066.677-RG, sob a sistemática da repercussão geral, firmou a tese de que “Servidores temporários não fazem jus a décimo terceiro salário e férias remuneradas acrescidas do terço constitucional, salvo (I) expressa previsão legal e/ou contratual em sentido contrário, ou (II) comprovado desvirtuamento da contratação temporária pela Administração Pública, em razão de sucessivas e reiteradas renovações e/ou prorrogações” (Tema 551).
+
+    Diante do exposto, com base no art. 932, V, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário, para determinar o retorno dos autos à origem, a fim de que seja proferido novo julgamento, tomando como premissa o Tema 551 da repercussão geral.
+
+    Publique-se.
+
+          Brasília, 02 de junho de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
