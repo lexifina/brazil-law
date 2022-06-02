@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAIMOM TOCCOLINI, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 816-886):
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. LATROCÍNIO. ART. 157, § 3, PARTE FINAL, DO CÓDIGO PENAL. RESISTÊNCIA. ART. 329, CAPUT, DO CÓDIGO PENAL. MATERIALIDADE E AUTORIA COMPROVADAS. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA CRIME CONTRA A VIDA. INIMPUTABILIDADE NÃO VERIFICADA. CONDENAÇÃO MANTIDA. PENAS REVISADAS. PRISÃO PREVENTIVA MANTIDA".
+Em suas razões recursais, a parte recorrente aponta violação doart. 65, III, "d", do CP. Aduz para tanto, em síntese, que a confissão espontânea, mesmo quando parcial, deveria atenuar a pena na segunda fase da dosimetria.
+Com contrarrazões (e-STJ, fls. 888-890), o recurso especial foi admitido na origem (e-STJ, fls. 893-896).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 911-916).
+É o relatório.
+Decido.
+A insurgência prospera.
+Com efeito, nos termos da Súmula 545/STJ, a confissão - mesmo a parcial, como no caso dos autos - sempre atenua a pena do réu, quando utilizada para fundamentar sua condenação:
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO DO CRIME DE CORRUPÇÃO DE MENOR.DESCABIMENTO. DELITO FORMAL. ENTENDIMENTO FIRMADO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA RESP N. 1.127.954/DF. SÚMULA 500/STJ.ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.IMPOSSIBILIDADE DO RECONHECIMENTO DA ATENUANTE PREVISTA NO ART. 65, III, D, DO CP. CONFISSÃO ESPONTÂNEA. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Inviável a pretensão absolutória, com base na simples alegação de desconhecimento da idade do menor envolvido. Na espécie, ficou efetivamente comprovada, nos autos, não só a menoridade do adolescente, mas, também, a sua efetiva presença na cena do crime, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte Superior.
+2. Consoante dispõe a Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação. No caso, o réu não confessou a prática delitiva, ainda que parcialmente, sendo, portanto, descabido falar em incidência da atenuante do art. 65, III, d, do Código Penal.
+3. Agravo regimental improvido".
+(AgRg no AREsp 1640414/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/06/2020, DJe 18/06/2020)
+Apenas o seupesoé que comporta diminuição pela natureza parcial; afinal, embora o réu faça jus à atenuante, as específicas características de sua confissão demandam valoração diferenciada, à luz da individualização da pena e do princípio da isonomia, porque não se encontra na mesma situação jurídica do acusado que confessou completamente. Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. CONFISSÃO QUALIFICADA. REDUÇÃO INFERIOR A 1/6. POSSIBILIDADE. HOMICÍDIO PRIVILEGIADO. QUANTUM DE ATENUAÇÃO DA PENA MOTIVADO. MAIORES INCURSÕES SOBRE O TEMA QUE DEMANDARIAM REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Quanto à redução pela confissão espontânea, o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+2. Nos moldes da jurisprudência desta Corte, "embora haja admitido ter produzido as lesões na vítima, o réu afirmou que agiu sob a excludente da legítima defesa, circunstância que justifica a incidência da atenuante da confissão espontânea em patamar inferior a 1/6" (AgRg no HC 622.225/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2020, DJe 24/11/2020).
+ ..
+6. Agravo regimental desprovido".
+(AgRg no HC 629.152/SC, de minha relatoria, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+No caso dos autos, o Tribunal local afirma que o réu confessou a elementar da violência do latrocínio, quando se referiu ao disparo de arma de fogo (fl. 858), ainda que não tenha admitido os demais aspectos do latrocínio e não tenha se referido à resistência. Por isso, embora a reprimenda do latrocínio comporte redução, a sanção pela resistência deve permanecer inalterada, já que não foi confessada - nem parcialmente - pelo réu, como se extrai do acórdão recorrido.
+À luz dessas considerações, refaço a dosimetria da pena do delito de latrocínio praticado pelo recorrente.
+Na primeira etapa, mantenho a pena-base em 21 anos e 2 meses de reclusão (e-STJ, fl. 863). Na segunda,aplico a atenuante da confissão no patamar de 1/12 - metade da fração de 1/6 geralmente utilizada por este STJ, tendo em vista a natureza parcial da admissão dos fatos pelo réu (AgRg no AgRg no AREsp 1520256/SC, Rel. Ministro JORGE MUSSI, julgado em 17/10/2019, DJe 28/10/2019) -, totalizando19 anos, 4 meses e 25 dias de reclusão. Esta passa a ser a pena definitiva, já que ausentes majorantes ou minorantes.
+Proporcionalmente, reduzo a pena pecuniária a19 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ,dou provimentoao recurso especial, para fixar a pena de SAIMOM TOCCOLINI pelo crime de latrocínio em 19 anos, 4 meses e 24 dias de reclusão e 19 dias-multa.
+Ficam mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
