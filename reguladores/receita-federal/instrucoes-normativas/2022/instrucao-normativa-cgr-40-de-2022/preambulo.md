@@ -1,0 +1,3 @@
+Instrução Normativa CGR nº 40, de 19 de maio de 2022
+Regulamenta a Portaria PGFN nº 3.050, de 6 de abril de 2022, que dispõe sobre o programa COMPREI e instala o escritório avançado de gestão do programa na Coordenação-Geral de Estratégias de Recuperação de Créditos.
+O COORDENADOR-GERAL DE ESTRATÉGIAS DE RECUPERAÇÃO DE CRÉDITOS, no uso das atribuições que lhe confere o art. 85, do Regimento Interno da Procuradoria-Geral da Fazenda Nacional, aprovado pela Portaria nº 36, de 24 de janeiro de 2014, do Ministro de Estado da Fazenda, e o art. 28 da Portaria PGFN nº 3.050, de 6 de abril de 2022, que dispõe sobre o programa Comprei, resolve:
