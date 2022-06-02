@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DAY BY DAY SUGAR REPRESENTAÇÕES LTDA. com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+1. Discute-se no apelo nobre, dentre outras questões, a incidência daprescriçãotrienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária - SATI -, ou atividade congênere - artigo 206, parágrafo 3º, inciso IV, do CC.
+A Segunda Seção do Superior Tribunal de Justiça (STJ) decidiu submeter a procedimento de revisão/distinção o Tema 938com o propósito de definir se a referida teseé aplicável às hipóteses em que o pedido de restituição da comissão de corretagem tem base não na abusividade de cláusula contratual, mas na suposta culpa da construtora pela resolução do contrato, e definir, também, se o prazo prescricional aplicável é trienal ou decenal,tendo sido determinada a suspensão dos processos, nos termos do art. 1037, II, do CPC/15.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I- se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II- se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Sobre o tema: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Ante o exposto, determino a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo da revisão do Tema 938 e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Publique-se.
+Intimem-se.
+Cumpra-se.
