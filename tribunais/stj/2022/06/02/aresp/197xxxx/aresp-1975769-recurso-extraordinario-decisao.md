@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto porFABIOLA KALINA BERNARDES SOARES, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 973):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o não conhecimento do agravo por ter a parte agravante deixado de rebater as Súmulas nº 7 do STJ e 284 do STF, ausência de afronta ao art. 1.022 do CPC e ofensa ao princípio da unirrecorribilidade, óbices aplicados pelo TJRJ para obstar a subida do recurso especial. Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.3. Agravo interno não conhecido.
+Sustenta a recorrente que "aConstituição federal, em seu artigo 5º, inciso XXXV, garante o acesso de todos ao Poder Judiciário. Por sua vez, a concessão da gratuidade da Justiça é vista de forma a não tolher esse acesso (artigo 5º, inciso LXXIV, CF)" (e-STJ fl. 988).
+Alega que,"no que se refere ao arbitramento de verbas indenizatórias por danos extrapatrimoniais, este Egrégio Tribunal tem repetidamente se acentuando no sentido de que a indenização deve ser suficiente para restabelecer o bem-estar da vítima e desestimular o ofensor a cometer nova falta, coibindo o enriquecimento sem causa ao ofendido" (e-STJ fl. 990).
+Aduz, ainda, haver o prequestionamento da matéria.
+Requer, inicialmente, o benefício de gratuidade de justiça.Ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (e-STJ fl. 998).
+É o relatório.
+Nos termos dos arts. 102, § 3º, da Constituição Federal, e 1.035, § 2º, do Código de Processo Civil, o recorrente deve demonstrar a repercussão geral das questões constitucionais discutidas no caso, tratando-se de requisito formal indispensável à admissão do recurso extraordinário.
+Confira-se:
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+(..)
+§ 3º No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros.
+Art. 1.035. O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
+(..)
+§ 2º O recorrente deverá demonstrar a existência de repercussão geral para apreciação exclusiva pelo Supremo Tribunal Federal.
+Na espécie, da leitura das razões recursais (e-STJ fls. 985/993), verifica-se que a recorrente não se desincumbiu do ônus de alegar a repercussão geral da matéria tratada no apelo extremo, o que enseja a sua inadmissibilidade, consoante vem decidindo o Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. INEXISTÊNCIA DE PRELIMINAR FORMAL E FUNDAMENTADA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. O recorrente não apresentou preliminar formal e fundamentada de repercussão geral na petição de recurso extraordinário. 2. Agravo regimental a que se nega provimento com aplicação da multa prevista no art. 1.021, § 4º, do CPC, observado o disposto no art. 1.021, § 5º, do mesmo diploma legal. Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+(ARE 1067322 AgR-segundo, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 31/08/2020, PROCESSO ELETRÔNICO DJe-228 DIVULG 14-09-2020 PUBLIC 15-09-2020)
+No mesmo diapasão:
+Agravo regimental no recurso extraordinário com agravo. 2. Constitucional, Penal e Processo Penal. 3. Estelionato. Art. 171, caput, do Código Penal. 4. Não aplicação, no caso, do contido no § 5º do art. 171 do Código Penal, acrescentado pela Lei 13.964/2019. 5. Pressuposto de admissibilidade do recurso extraordinário. Ausência de preliminar formal e fundamentada de repercussão geral. Art. 102, § 3º, da Constituição Federal, c/c o art. 1.035, § 2º, do Código de Processo Civil. 6. Autoria e materialidade. Alegações que dizem respeito à legislação infraconstitucional e ao necessário reexame do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 7. Tema 660, da sistemática da repercussão geral da questão constitucional. 8. Precedentes. 9. Agravo regimental não provido.
+(ARE 1230095 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020)
+Com igual orientação:
+EMENTA: DIREITO PENAL. AGRAVO INTERNO EM RECURSO EXTRARDINÁRIO COM AGRAVO. AUSÊNCIA DE PRELIMINAR FORMAL E FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. A parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas, o que atrai a incidência do art. 327, § 1º, do RI/STF. Nessa linha, vejam-se: ARE 650.948, Rel. Min. Ricardo Lewandowski; AI 849.474, Rel. Min. Ayres Britto; e AI 848.658, Rel. Min. Luiz Fux. 2. Agravo interno a que se nega provimento.
+(ARE 1277645 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020)
+Por fim, fica prejudicada a análise do pedido de gratuidade de justiça,visto que já foi concedida em primeira instância (e-STJ fls. 757 e 761).
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA. REQUISITO INDISPENSÁVEL. RECURSO NÃO ADMITIDO.
