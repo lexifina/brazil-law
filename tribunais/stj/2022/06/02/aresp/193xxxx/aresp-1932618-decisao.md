@@ -1,0 +1,47 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA JOSEFINA RODONTARO SANSONE contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim ementado:
+Agravo de instrumento - execução de título extrajudicial - pleito suspensão do passaporte do executado - inadmissibilidade - medida coercitiva que refletiria em esfera jurídica diversa da patrimonial - de qualquer forma, não há comprovação de que a providência seria eficaz para a satisfação do crédito perseguido.
+Nomeação do executado como depositário fiel do bem penhorado - possibilidade - veículos que já contam com restrição de transferência, medida efetiva e que protege terceiros, pois impede a tradição do bem, obstando futura alienação.
+Decisão mantida - Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto noart. 139, caput e inciso IV, do CPC.
+Sustenta, em síntese, ser cabível a apreensão do passaporte da parte recorrida como medida coercitiva -"uma vez que há farta demonstração de que o Recorrido possui patrimônio considerável, mas que se encontra "blindado" por meio da criação fraudulenta de pessoas jurídicas" (Fl. e-STJ 90).
+Defende, no mais: (i) que "é da própria natureza da norma insculpida no art. 139, inciso IV, do CPC, que a medida coercitiva constitua meio indireto a forçar o pagamento"(Fl. e-STJ 90); (ii)que "está mais do que corroborado que o Recorrido esconde seu patrimônio por meio de empresas que formam verdadeiro conglomerado familiar"(Fl. e-STJ 91); e (iii) que a medida requerida"é adequada, pois a apreensão do passaporte poderá efetivamente pressionar o Recorrido a pagar a dívida; é necessária, uma vez que nenhuma outra medida executiva surtiu efeitos; e, é proporcional no sentido estrito, na medida em que sua não adoção privilegiará o Recorrido, que há anos vem adotando práticas fraudulentas para lesar credores e que poderia muito bem, em razão de sua idade, ter um emprego sem prejudicar terceiros, em detrimento da Recorrente, senhora idosa cujos únicos recebíveis consistem em sua parca aposentadoria, tanto que é beneficiária da gratuidade da Justiça" (Fl. e-STJ 94-95).
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à Fl. e-STJ 153.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3.Verifica-se ter a Corte de origem indeferidoa decretação da medida coercitiva pretendida pela recorrente sob os seguintes fundamentos:(a) que "a apreensão de passaporte do executado é providência que não possui relação intrínseca com o cumprimento da obrigação, não havendo o menor indício de prova de que, efetivada a medida ora pretendida, seria a providência eficaz na quitação da dívida" (Fl. e-STJ 76); e (b) que "Ademais, cuida-se de situação que acabaria por atingir esfera jurídica diversa da patrimonial, o que não pode ser aceito, nos termos do art. 789 do CPC" (Fl. e-STJ 76).
+Ou seja, constatou o Tribunal a quo,em detida análise do caso concreto,não ser possível ter por eficaz, e, consequentemente, por adequada, a medida de apreensão de passaportepleiteada - haja vista não vislumbrar que ela ensejará a quitação da dívida.
+Dessa forma, percebe-se quea decretação da medida coercitiva pugnada demandaria o revolvimento de matéria fáticaa atrair o óbice da Súmula nº 7/STJ. Porquanto só assim para afastar o mencionado entendimento da Corte estadual.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. SUSPENSÃO DO DIREITO DE DIRIGIR E APREENSÃO DO PASSAPORTE DO DEVEDOR. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte Superior, as medidas de satisfação do crédito devem observar os princípios da proporcionalidade e da razoabilidade, de forma a serem adotadas as providências mais eficazes e menos gravosas ao executado.
+Precedentes.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que as medidas de apreensão do passaporte e suspensão da CNH do executado são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1805273/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 06/11/2019) g.n.
+_____________________________________________________________
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE MORTE EM ACIDENTE DE TRÂNSITO. CUMPRIMENTO DE SENTENÇA. MEDIDA COERCITIVA ATÍPICA. ART. 139, IV, DO CPC/2015. SUSPENSÃO DA CNH. REVISÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO EM RELAÇÃO AOS CRITÉRIOS QUE AUTORIZARAM O DEFERIMENTO DA MEDIDA. DESCABIMENTO. SÚMULA 7/STF. RECURSO DESPROVIDO.
+1. Nos termos do art. 139, IV, do CPC/2015, incumbe ao juiz "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária."
+2. Para que o julgador se utilize de meios executivos atípicos, a decisão deve ser fundamentada e sujeita ao contraditório, demonstrando-se a excepcionalidade da medida adotada em razão da ineficácia das que foram deferidas anteriormente.
+3. No caso, segundo assinalou o órgão julgador, após esgotados os meios típicos de satisfação da dívida, a fim de reforçar os atos tendentes ao cumprimento da obrigação reconhecida pelo título judicial, optou o magistrado por eleger medida indutiva e coercitiva que cons iderou adequada, necessária, razoável e proporcional. Esse entendimento foi encampado pelo Tribunal local, que ainda ressaltou o fato de que o executado possui alto padrão de vida, incompatível com a alegada ausência de patrimônio para arcar com o pagamento da indenização decorrente do acidente que provocou.
+4. Para se ultrapassar a conclusão alcançada no tocante ao juízo de adequação, efetividade, razoabilidade e proporcionalidade da medida, a fim de acolher a tese recursal, seria necessário o reexame das circunstâncias fático-probatórias da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal, aplicável, também, em relação aos recursos interpostos com amparo na alínea c do permissivo constitucional (AgInt no REsp n. 1.679.274/PE, Relatora a Ministra Regina Helena Costa, DJe de 5/12/2017).
+5. Agravo interno desprovido.
+(AgInt no REsp 1785726/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/08/2019, DJe 22/08/2019) g.n.
+4. No mais, consoante a jurisprudência deste STJ, "é incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n. 7/STJ" (STJ, AgInt no REsp 1.490.617/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/05/2016).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 5/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ. PREJUDICADO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação Revisional de Saldo em Contrato de Financiamento c/c Reconhecimento de Direito de Recebimento de Seguro e Apuração de Saldo Final.
+2. A existência de fundamento do acórdão recorrido não impugnado
+quando suficiente para a manutenção de suas conclusões  impede a apreciação do recurso especial.
+3. Alterar o decidido no acórdão impugnado, no que se refere à tese atinente à ausência de responsabilidade no pagamento indenizatório, bem como da própria existência do seguro contratual, haja vista a recusa da seguradora da proposta formulada pelo segurado, envolve o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, impede o conhecimento do recurso especial.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1974202/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/04/2022, DJe 27/04/2022)  g.n.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
