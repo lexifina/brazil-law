@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por PARQUE DO SERIDO EMPREENDIMENTOS IMOBILIARIOS LTDA com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados:
+a) REsp n. 1.663.643/DF, proferido pela Segunda Turma, relativo à necessidade de retorno dos autos ao tribunal de origem para manifestação acerca os pontos essenciais ao deslinde da controvérsia; e
+b) REsp n. 1.211.952/RS, proferido pela Segunda Turma, no sentido de que "a distribuição proporcional da sucumbência recíproca não depende, apenas, da diferença entre o proveito econômico pleiteado e o percebido, mas do quantitativo de pedidos deferidos e indeferidos" (fls. 1243).
+Requer, desse modo, o provimento dos presentes embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recurso não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Constatada a referida irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o óbice. Porém, embora regularmente intimada, a embargante limitou-se a trazer o o comprovante de pagamento, desacompanhado da guia de recolhimento das custas devidas ao STJ (fls. 180/182).
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, mutatis mutandis, os seguintes precedentes: AgInt no AREsp 1.667.577/ES, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020; AgInt no REsp 1.870.574/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 22/9/2020.
+Por fim, verifica-se que às fls. 1284/1287 a parte juntou a guia de recolhimento com o fim de regularizar o preparo, no entanto, esta não pode ser aceita em razão da preclusão.
+Assim, os embargos de divergência não foram devida e oportunamente preparados.
+Ademais, a título argumentativo, observa-se que o primeiro paradigma apresentado, REsp n. 1.663.643/DF, versa em torno da violação do art. 1.022 do Código de Processo Civil de 2015, o que, nos termos da jurisprudência pacificada desta Corte, é incabível em razão das situações fáticos-processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+A propósito, mutatis mutandis:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. INEXISTÊNCIA DE TESES A CONFRONTAR. AGRAVO DESPROVIDO.
+1. Na aplicação do art. 619 do CPP e dos arts. 489, § 1º, e 1.022 do CPC de 2015, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, inexistindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+2. A reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, não é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais, como ocorreu no caso em exame.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AgRg nos EREsp 1492472/PR, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 04/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE DESPROVEU AGRAVO INTERNO, MANTENDO DECISÃO DO RELATOR QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL PELA CORTE DE ORIGEM.
+SUBSEQUENTES EMBARGOS DE DECLARAÇÃO REJEITADOS. ALEGADA DIVERGÊNCIA POR SUPOSTAMENTE NÃO TEREM SIDO SANADAS OMISSÕES. INEXISTÊNCIA DE DISSÍDIO. SOLUÇÃO CASUÍSTICA. DIVERGÊNCIA INDEMONSTRADA. AUSÊNCIA, ADEMAIS, DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 315 DO STJ. PRECEDENTES. MATÉRIA CONSTITUCIONAL. PRETENDIDO PREQUESTIONAMENTO. IMPROPRIEDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não merece reparo a decisão agravada da Presidência, porquanto " a  Corte Especial deste Tribunal Superior no sentido da inadequação de confrontar em embargos de divergência julgados que interpretem o art. 535 do CPC/1973  atual art. 1.022 do CPC/2015  e o art. 619 do Código de Processo Penal, pois ausentes a necessária similitude fática e jurídica das teses confrontadas. Nesse sentido: AgInt nos EAREsp 865.770/MA, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 13/08/2019, DJe 22/08/2019; AgInt nos EAREsp 98.905/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/08/2018, DJe 28/08/2018; AgRg nos EAREsp 540.925/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/03/2017, DJe 21/03/2017" (AgRg nos EAREsp 1260579/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 02/10/2019, DJe 08/10/2019).
+(..)
+4. Agravo interno desprovido.
+(AgInt nos EDv nos EAREsp 1520395/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 16/12/2020, DJe 18/12/2020)
+Por fim, quando ao paradigma REsp n. 1.211.952/RS, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial, no ponto, em razão da aplicação da Súmula 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 10% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
