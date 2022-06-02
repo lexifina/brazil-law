@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial, manejado pelo ESTADO DE MINAS GERAIS, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 537):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPVA. ALIENAÇÃO FIDUCIÁRIA. ILEGITIMIDADE NÃO CONFIGURADA. SUJEITO PASSIVO DA OBRIGAÇÃO. PREVISÃO LEGAL. RESPONSABILIDADE SOLIDÁRIA. LEI ESTADUAL n.º 14.937/2003. REGULARIDADE. MULTA. PREVISÃO LEGAL. CONFISCO. NÃO CARACTERIZADO. STF. INCIDÊNCIA DE JUROS. CTN.
+A jurisprudência é pacífica quanto à legitimidade passiva do credor fiduciário, detentor da propriedade resolúvel do automóvel nos termos do art. 1.631 do CC, para compor o polo passivo de execução fiscal relativa à cobrança de IPVA até 2014, desde que a lei assim estabeleça.
+A inércia da União em exercer sua competência concorrente para editar Lei Complementar disciplinando o IPVA de acordo com o art. 146, III, da Constituição Federal de 1988, induz o Estado ao exercício da competência plena para legislar sobre a matéria, com base no artigo 24, §3º da Carta Magna.
+A Lei Estadual n. 14.937/2003, que prevê a solidariedade entre credor e devedor da alienação fiduciária em garantia, em relação ao IPVA, está em consonância com os preceitos da Constituição Federal (art. 155, III) e do Código Tributário Nacional (art. 121, II).
+Inexiste confisco na multa imposta ao credor inadimplente com a obrigação principal, desde que observe a legalidade e não ultrapasse 100% do valor principal, conforme precedente do STF (RE 748257 AgR). A penalidade passa a integrar a obrigação principal na constituição do crédito e como tal deve ser atualizada com juros e correção monetária.
+Recurso conhecido e parcialmente provido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 597/607.
+A parte recorrente aponta violação aos arts. 1.022, II e parágrafo único, do CPC; 1.368-B do Código Civil; 6º, 110 e 123 do CTN. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca das questões neles suscitadas; e (II) "o acórdão da apelação, surpreendentemente, muito embora tenha reconhecido que há previsão expressa na legislação mineira da solidariedade entre credor fiduciário e devedor fiduciante pelos débitos de IPVA e que tal previsão está rigorosamente de acordo com as regras da CF/88 e do CTN, afastou legitimidade da instituição financeira a partir de 2015. Claras ofensas às normas federais perpetradas pelo acórdão ao afastar a legitimidade do credor fiduciário para responder pelos débitos de IPVA a partir de 2015 em razão da entrada em vigor do artigo 1368-B, do Código Civil" (fl. 617), bem como que "a propriedade fiduciária pode ser fato gerador do IPVA, na forma da lei, a partir da sua constituição, inexistindo preceito constitucional que limite a possibilidade de tributação da propriedade de veículos às hipóteses de propriedade plena" (fl. 629).
+Sem contrarrazões, conforme certidão de fl. 635.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas eapreciouintegralmente a controvérsia posta nos autos;não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, o Tribunal a quo assim deliberou ao dirimir a contenda (fls. 541/548):
+Conforme se observa, a impossibilidade de imputação da responsabilidade tributária ao credor fiduciário, que não detém a posse plena do bem móvel, foi inserida no Código Civil no ano de 2014, pelo art. 102 da Lei n. 13.043/14 de 14 de novembro de 2014.
+Lado outro, extrai-se da CDA que instrui a Execução Fiscal, que as obrigações inadimplidas venceram entre janeiro/2012 e janeiro/2015 e que o crédito foi inscrito no dia 02/10/2015.
+Destarte, não há que se falar em violação de norma inexistente à época dos fatos, qual seja, o art. 1.368-B do Código Civil Brasileiro.
+Isto é, vigia na data do fato gerador ocorrido até dezembro/2014 o art. 1.361 do mesmo diploma legal que prevê:
+ ..
+Desse modo, resta caracterizada a legitimidade passiva do apelante para integrar a demanda, pois se trata de instituição financeira que, na condição de credora fiduciária, detém o domínio do veículo como propriedade resolúvel, nos termos da norma civil vigente até 2014.
+Somado a isso, acrescente-se que o Estado de Minas Gerais, exercendo sua competência tributária, editou a Lei Estadual n.º 14.937/03, dispondo, em seus arts. 4º e 5º, sobre o contribuinte do IPVA e aqueles que são solidariamente responsáveis pelo pagamento deste tributo, determinando que:
+ ..
+Nos termos do art. 1.361 do Código Civil, vigente à época do fato gerador, a constituição da propriedade fiduciária enseja o desdobramento da posse, tornando o devedor possuidor direto da coisa. Logo, ante o desdobramento é possível a imposição do pagamento do IPVA ao credor fiduciário.
+Destaque-se que este Tribunal já analisou a Lei Estadual, concluindo pela constitucionalidade em se atribuir ao credor fiduciário a legitimidade passiva para pagamento de IPVA. O julgado restou assim ementado:
+ ..
+Portanto, o credor fiduciário é parte legítima para figurar no polo passivo de execução fiscal para cobrança de IPVA.
+ ..
+Assim, independentemente da natureza garantidora do instituto, prevendo a legislação tributária estadual a responsabilidade solidáriada instituição financeira juntamente com o proprietário do veículo pelo
+pagamento do IPVA, deve ser mantida a instituição financeira no polo
+passivo da execução fiscal cujos créditos decorrem de fatos geradores
+anteriores à alteração do CPC em 2014.
+Logo, há responsabilidade de credores fiduciários quanto aos fatos geradores que ocorreram no período compreendido desde o ano 2004 até 2014 (cf. art. 1.361 do CC c/c art. 5º da Lei Estadual n. 14.937/2003).
+Noutro giro, considerando que a norma que alterou o Código Civil em 2014 será aplicada aos fatos geradores apurados a partir de 2015 e que a CDA de ordem 4 indica os vencimentos das dívidas de 2012 a 2015, o pedido é parcialmente procedente.
+Ao que se tem, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário").
+Outrossim, é cediço que o eventual conflito entre lei local e lei federal inviabiliza a análise de recurso especial. Nesse sentido, já se decidiu que "não compete ao Superior Tribunal de Justiça, em Recurso Especial, apreciar a existência de conflito entre lei local e lei federal ou dispositivo constitucional, sob pena de incorrer em usurpação de competência própria do STF, constante do art. 102, III, d, da Constituição Federal" (AgInt no REsp 1.778.730/MA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/5/2020). Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.179.947/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/6/2020; AgInt no AREsp 1.512.200/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/12/2019; AgRg no AREsp 709.544/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 6/9/2019.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego provimento.
+Publique-se.
