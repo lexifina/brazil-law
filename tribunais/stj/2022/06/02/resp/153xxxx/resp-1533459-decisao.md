@@ -1,0 +1,13 @@
+DECISÃO
+Vistos.
+Trata-se de recurso especial interposto contra acórdão cujo tema aborda as relações de posse e ocupaçãotradicional indígena com base nas regras estabelecidas no art. 231 da Constituição da República.
+É o relatório. Decido.
+Verifico que a discussão contém tema com repercussão geral reconhecida pelo Supremo Tribunal Federal, em sessão do Plenário Eletrônico de 22.02.2019, já sob a vigência do Código de Processo Civil de 2015 (TEMA 1.031, Recurso Extraordinário n. 1.017.365/SC), consoante a ementa abaixo:
+CONSTITUCIONAL. ADMINISTRATIVO. POSSE INDÍGENA. TERRA OCUPADA TRADICIONALMENTE POR COMUNIDADE INDÍGENA. POSSIBILIDADES HERMENÊNTICAS DO ARTIGO 231 DA CONSTITUIÇÃO DA REPÚBLICA. TUTELA CONSTITUCIONAL DO DIREITO FUNDAMENTAL INDÍGENA ÀS TERRAS DE OCUPAÇÃO TRADICIONAL.
+1. É dotada de repercussão geral a questão constitucional referente à definição do estatuto jurídico-constitucional das relações de posse das áreas de tradicional ocupação indígena à luz das regras dispostas no artigo 231 do texto constitucional.
+2. Repercussão geral da questão constitucional reconhecida.
+Outrossim, com base no artigo 1.035, § 5º, do Código de Processo Civil, nos termos do pedido, houve expressa determinação desuspensão nacional dos processos judiciais, notadamente ações possessórias, anulatórias de processos administrativos de demarcação, bem como os recursos vinculados a essas ações, sem prejuízo dos direitos territoriais dos povos indígenas, modulando o termo final dessa determinação até a ocorrência do término da pandemia da COVID-19 ou do julgamento final da Repercussão Geral no Recurso Extraordinário 1.017.365 (Tema 1031), o que ocorrer por último, salvo ulterior decisão em sentido diverso
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após tal providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Tribunal superior, para a análise das questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso atéa ocorrência do término da pandemia da COVID-19ou a publicação do acórdão do Recurso Extraordinário acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
