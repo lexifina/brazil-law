@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus interposto por Marcos Elivelton Benites Meireles, Gabriel Grassotti Rocha e Ryan da Silva Moreira, no qual se aponta como órgão coator o Tribunal de Justiça do Rio Grande do Sul (Habeas Corpus n. 5000253-13.2022.8.21.0052/RS - fls. 64/69).
+Infere-se dos autos que os recorrentes foram presos em 4/1/2022 e denunciados pela prática dos crimes descritos no art. 157, § 2º, II, e § 2º-A, I, c/c o art. 61, II, c e j,ambos do Código Penal (1º fato) e art. 330, c/c o art. 61, II, j,e na forma do art. 29, todos do Código Penal (2º fato), na forma do art. 69, caput, do Código Penal (fls. 3/8).
+Inconformada, a defesa impetrou habeas corpus, cuja ordem foi denegada pela Corte de origem, por meio de acórdão assim ementado (fl. 68):
+HABEAS CORPUS. CRIMES CONTRA O PATRIMÔNIO. ROUBO MAJORADO. CRIMES PRATICADOS POR PARTICULAR CONTRA A ADMINISTRAÇÃO EM GERAL. DESOBEDIÊNCIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO QUANTO À APLICAÇÃO DA LEI PENAL. AFASTAMENTO.
+Materialidade e autoria dos crimes de roubo majorado e desobediência imputados aos pacientes suficientemente demonstradas pelos elementos informativos juntados ao feito. Necessidade e adequação da preventiva para garantia da ordem pública. Afastado o fundamento de assegurar a aplicação da lei penal, porque insuficiente para adotá-lo a ausência de endereço fixo dos suplicados no distrito da culpa. Periculosidade evidenciada pelo modus operandi adotado e risco concreto de que, soltos, reiterem condutas ilícitas. Motivação idônea à manutenção da prisão, que se revela necessária, suficiente e adequada, inviabilizada sua substituição por cautelares do artigo 319 do Código de Processo Penal.
+PRISÃO DOMICILIAR HUMANITÁRIA. INDEFERIMENTO. CONSTRANGIMENTO ILEGAL INOCORRENTE.
+Indemonstrado estado de saúde extremamente debilitado por motivo de doença grave, nos termos do artigo 318, inciso II, do Código de Processo Penal, tampouco impossibilidade de que eventual tratamento médico seja alcançado no interior de estabelecimento prisional. Indeferimento que não acarreta constrangimento ilegal.
+ORDEM DENEGADA.
+Daí a presente impetração, na qual a defesa alega existência de constrangimento ilegal, consistente, em síntese: (i) na ausência de requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; e (ii) na possibilidade, in casu, da aplicação de medidas cautelares diversas,diante da ausência de comprovação da violência e da condição de primariedade dos agentes(fl. 83).
+Requer, liminarmente e no mérito, a concessão da liberdade provisória ou, subsidiariamente, a substituição da prisão preventiva por outras medidas cautelares ou prisão domiciliar.
+Despacho de admissibilidade à fl. 94.
+Contrarrazões às fls. 98/105.
+É o relatório.
+O presente recurso não comporta conhecimento.
+Isso porquenão se conhece da matéria relativa aos fundamentos e requisitos da prisão preventiva e, por consequência, da possibilidade de substituição para medidas cautelares alternativas ouprisão domiciliar, por instrução deficiente, quando não consta dos autos o decreto primitivo - constou apenas o termo de audiência (fl. 144). Nesse sentido, os seguintes precedentes: AgRg no HC n. 726.822/SP, Ministro Joel Ilan Paciornick, Quinta Turma, DJe 25/4/2022; AgRg no RHC n. 108.082/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/3/2022; AgRg no RHC n. 154.348/CE, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 19/11/2021;RHC n. 77.382/RN, Ministra Maria Thereza de Assis Mora, Sexta Turma, DJe 22/2/2017 eHC n. 365.406/MA, Ministro Felix Fischer, Quinta Turma, DJe 10/2/2017.
+Ante o exposto, não conheço do presente recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIMES DE ROUBO MAJORADO E DESOBEDIÊNCIA. PRISÃO PREVENTIVA. PLEITO DE SUBSTITUIÇÃO PARA MEDIDAS CAUTELARES ALTERNATIVAS OU PRISÃO DOMICILIAR. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. INVIABILIDADE DE EXAME DA PRETENSÃO.
+1. É deficiente a instrução do habeas corpus e, por consequência, do respectivo recurso ordinário, se, pretendendo a substituição da prisão preventiva por medidas cautelares alternativas ou prisão domiciliar, não consta dos autos a cópia do decreto primitivo, que é, por óbvio, a gênese da controvérsia aqui suscitada. Precedentes.
+2. Recurso não conhecido.
