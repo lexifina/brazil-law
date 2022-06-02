@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por ANDREA SCHNITZER DE LA FUENTE, contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fls. 1430):
+AÇÃO DE INTERDIÇÃO.
+I. Apelo circunscrito ao pleito de majoração da remuneração mensal da curadora, de R$ 5.000,00 (cinco mil reais) para R$ 15.000,00 (quinze mil reais). Acolhimento parcial que se impõe.
+II. Remuneração que deve ser compatível com a complexidade da atividade e proporcional à importância dos bens administrados, nos termos do art. 1.752 e 1.774 do Código Civil.
+III. Circunstâncias do caso concreto, como a complexidade da função e a qualidade do trabalho exercido, que justificam a exasperação. Consideração, de qualquer sorte, de que a curadora que reside em outro estado, exercendo a curatela de forma remota, não apresenta dedicação exclusiva à atividade compartilha responsabilidades com terceiros. Necessidade de readequação da remuneração mensal da representante ao importe de R$ 10.000,00 (dez mil reais), mais adequado ao trabalho exercido. Precedentes.
+IV. Retroação da remuneração fixada. Impossibilidade. Ausente comprovação do exercício de atividade remunerada antes da assunção do múnus público. Inexistência de prejuízo.
+SENTENÇA REFORMADA EM PARTE. APELO PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, interposto com fulcro na alínea ae c do permissivo constitucional, a recorrentealega ofensa aosarts. 749, parágrafo único, do CPC; 884,1.752, 1.774 e 1.781do CC/2,bem como dissídio jurisprudencial.
+Insurge-se contra o termo inicial da remuneração majorada, a título do encargo de curatela, deduzindo que a sua incidência deve se dar da data da publicação da decisão que nomeou a curadora provisória.
+Assevera quea ausência de remuneração para o exercício provisório do encargo caracteriza enriquecimento sem causa.
+Aponta, assim, que "o efeito retroativo, fundamento do v. acórdão recorrido, pressupõe a inexistência de pedido anterior, o que não ocorreu no caso dos autos, haja vista pedido expresso desde a inicial. A situação aqui, pois, é de reconhecimento do direito do curador provisório de receber remuneração desde a sua nomeação, se assim expressamente requer a contraprestação" (e-STJ Fls. 1452/1453).
+Contrarrazões à e-STJ Fls. 1504/1517.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente,veja-se o quanto manifestado na origem quanto à argumentação atinente ao termo inicial e efeito retroativo da majoração da remuneração doencargo de curadorno caso concreto (e-STJ Fls. 1431/1434):
+Cinge-se a controvérsia ao pleito de majoração da remuneração da apelante, como curadora nomeada da apelada, visando que passe de R$ 5.000,00 (cinco mil reais) para R$ 15.000,00 (quinze mil reais).
+(..)
+Sabe-se, de saída, que a remuneração do curador deve ser compatível com a complexidade da atividade e proporcional aos bens administrados, conforme o disposto no art. 1.752 do Código Civil, aplicável à curatela, nos termos do art. 1.774 do mesmo Codex.
+(..)
+No caso dos autos, verifica-se que, pela complexidade da função exercida notadamente ante o amplo patrimônio da interdita apelada,próximo a R$ 90 milhões (fl. 82), e os múltiplos frutos dele decorrentes e em virtude da qualidade do trabalho exercido pela apelante, a remuneração mensal arbitrada em R$ 5.000,00 (cinco mil reais) é, de fato, insuficiente.
+De qualquer sorte, deve-se considerar também que, além da apelante, também foi nomeada curadora M. I. S, sendo certo que a curatela compartilhada atenua a responsabilidade assumida pela recorrente.
+Ademais, é certo que a apelante reside em Salvador/BA, enquanto que a tutelada se encontra em São Paulo/SP. Desta forma, ressalvadas algumas viagens por ano, o exercício do múnus pela recorrente ocorre de forma remota, notadamente por meio de contato telefônico, o que evidentemente não lhe exige dedicação integral, sendo possível o exercício de atividade remunerada ou a dedicação a outros projetos de seu interesse. Daí porque a alegação da apelante de que seu projeto de dedicação aos estudos para concurso público restou prejudicado em virtude dos cuidados com a tia não justifica o acolhimento do pleito. Além disso, é sabido que a nomeação a um cargo público é um evento futuro e incerto, não se admitindo que seja a recorrente indenizada por dano meramente hipotético. De outra parte, consta do processo que a interditanda é assistida em suas necessidades diárias por diversos profissionais que estão à sua disposição, sem prejuízo do exercício da curatela de forma direta pela curadora M. I.
+Em suma, ponderando as circunstâncias de fato descritas, notadamente sobre a ocupação temporal do múnus ao qual nomeada e a qualidade com que o exerce, tem-se que a verba fixada comporta exasperação para o montante de R$ 10.000,00 (dez mil reais).
+Por fim, não há que se falar em retroação do pagamento, dada a ausência de comprovação do exercício de atividade remunerada pelacuradora antes de assumir o múnus público, de modo que nenhum prejuízo financeiro decorrente da curatela restou demonstrado.
+Sobre a questão, vale a transcrição do Parecer da Douta Procuradoria de Justiça: "Assim, muito embora a curatela exercida pela apelante seja até o momento satisfatória, não se pode transformar o referido encargo em uma profissão. Tampouco se pode remunerá-la com base nas possibilidades financeiras da interdita, mas sim de acordo com as demandas advindas da curatela. Dessa forma, o valor da remuneração deve simplesmente custear os gastos com a atividade desempenhada, justamente conforme o fixado. E tampouco há que se falar em remuneração pelo exercício do encargo enquanto provisório, posto que a apelante não comprovou que desempenhava atividade remunerada anterior àquele momento e tampouco qualquer prejuízo"(fls. 1398).(..) (g.n.)
+Nesse passo, quanto à apontada ofensa aoart.884 do CC/2, bem como quanto à tese dereconhecimento do direito do curador provisório em receber remuneração desde a sua nomeação,notadamente considerando o momento oportuno do pedido,o recurso especial não pode ser conhecido.
+Isso porquanto não houve qualquer emissão de juízo pelo acórdão recorrido acerca de tais teses, nem sequer a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 282/STF.
+Consigne-se que a agravante sequer apontou, nas razões de seu recurso, suposta negativa de prestação jurisdicional, de sorte que a análise de eventual omissão quanto a tais matérias resta obstada nesta Corte.
+De toda sorte, cabível apontar, ainda, queainsurgência recursal não refuta todos osfundamentos dispostos no excerto supracitado e que sustentam o acórdão recorrido, precipuamente quanto à impossibilidade deremuneração pelo exercício do encargo enquanto provisório, considerandoa ausência de comprovação de eventual prejuízo oude desempenho de atividade remunerada anterior.
+Logo, a teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+De outra parte, ainda que assim não fosse,elidir as conclusões do aresto impugnado quanto à possibilidade de modificação do termo inicial da remuneração arbitrada e ao exercício do encargo pela agravante, para fins defixação para a curatela exercida de forma provisória, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Saliente-se, por fim, que o mesmo óbice (Súmula 7/STJ) aplica-se ao alegado dissídio jurisprudencial, não se podendo falar em similitude fática para fins de sua comprovação.
+Nesse passo, esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei, como ocorreu na espécie.
+Destarte, inviável a pretensão da recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à multa.
+Ante o exposto, CONHEÇO do agravo paraNÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE INTERDIÇÃO. CURATELA. REMUNERAÇÃO. RETROATIVIDADE.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF.REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
