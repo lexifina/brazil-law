@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALINE MARÍLIA DE ANDRADE em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 1.242):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO PROPOSTA POR ADQUIRENTE DE IMÓVEL CONSTRUÍDO SOB O REGIME DE CONSTRUÇÃO POR ADMINISTRAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS TIDOS POR VIOLADOS. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, IMPROVIDO.
+Em suas razões, sustenta a embargante que a decisão embargada incorreu em erro material, uma vez que o recurso especial interposto é contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Ressalta, ainda, que houve o pronunciamento a respeito dos dispositivos apontados como malferidos, não cabendo o argumento de falta de prequestionamento.
+Busca, assim, que sejam sanadas as questões apontadas.
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERROMATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA.IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL.DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART.1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do EnunciadoAdministrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecemacolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou àrediscussão do julgado que não conheceu dos primeiros embargos dedeclaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituirprática processual abusiva e protelatória, por ausência dos víciosprevistos no art. 1.022 do NCPC e pela ausência de recolhimento prévio damulta aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicadaa multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre ovalor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nosEDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRATURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERROMATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existênciade obscuridade, contradição, omissão ou erro material (CPC/2015, art.1.022). É inadmissível a sua oposição para rediscutir questões tratadas edevidamente fundamentadas na decisão embargada, já que não são cabíveispara provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível aapreciação de matéria constitucional na via eleita, sob pena de usurpaçãoda competência do eg. Supremo Tribunal Federal, nos termos do que dispõe oart. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe04/05/2020).
+De fato, compulsando os autos, constata-se que houve erro material na decisão embargada, motivo pelo qual os aclaratórios merecemser parcialmente acolhidos.
+Assim sendo, na decisão recorrida, onde consta (e-STJ, fl. 1.242):
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ALINE MARÍLIA DE ANDRADE, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fls. 1.123-1.124):
+Leia-se:
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ALINE MARÍLIA DE ANDRADE, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fls. 1.123-1.124):
+Lado outro, na hipótese dos autos, conforme consignado na decisão embargada, verifica-se que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre os arts. 374, III e IV, e 400 do Código de Processo Civil de 2015, 58, I, da lei n. 4591/1964 e 6º, VI, 18 § 1º, III e 20, III, do Código de Defesa do Consumidor. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula 211 do STJ.
+Dessa forma, a decisão embargada resolveu satisfatoriamente a questão deduzida no processo, sem incorrer em qualquer dos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios quanto a esse ponto, pois não ficou demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015. Pelo contrário, está nítida a intenção infringente do presente recurso, no qual pretendea reversão da decisão embargada.
+Diante do exposto, acolho parcialmente os embargos de declaração, a fim de sanar o erro material apontado.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. ERRO MATERIAL. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS PARA SANAR ERRO MATERIAL.
