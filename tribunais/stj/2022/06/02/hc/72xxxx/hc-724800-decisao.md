@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedidoliminar, impetrado em face de acórdão assim relatado (fl. 32):
+1. Insurge-se o réu Carlos Costa contra a r. sentença prolatada pelo MM. Juiz de Direito, Dr. RODRIGO CÉSAR MULLER VALENTE, cujo relatório ora se adota, que o condenou como incurso no artigo 33, caput, da Lei no. 11.343/06, às penas de 7 anos de reclusão, em regime inicial fechado, e 700 dias-multa, no valor unitário mínimo legal.
+Postula a Defesa, em suas razões, a absolvição por insuficiência de provas para a condenação. Subsidiariamente, requer a fixação da pena-base no mínimo legal, o afastamento da agravante da recidiva, a aplicação do redutor previsto no artigo 33, § 4º, da Lei nº. 11.343/06, o abrandamento do regime prisional e a substituição da pena privativa de liberdade por restritivas de direitos.
+Oferecidas as contrarrazões, sobreveio r. parecer da douta Procuradoria Geral de Justiça pelo não provimento do apelo.
+É o relatório.
+Constados autos que o paciente foi condenado à pena de 7anos de reclusão, em regime inicial fechado, e ao pagamento de 700 dias-multa, como incurso no art. 33,caput, da Lei 11.343/2006.
+Inconformada, a defesainterpôs recurso de apelação perante a Corte de origem, tendo sido parcialmente provido para afastar a agravante de reincidência, reduzindo a pena para 6 anos de reclusãoe o pagamento de 600dias-multa, mantido, no mais, a sentença condenatória.
+No presentehabeas corpus, alega a ocorrência de constrangimento ilegal ao argumento de que houve ilicitude na apreensão das drogas, pois efetuada mediante violação de domicílio.
+Requer a concessão da ordem, inclusive liminarmente, para reconhecer a ilicitude da apreensão das drogas, pois efetivada mediante violação de domicílio, com a consequente desentranhamento dos autos das provas ilícitas e as delas derivadas.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, se conhecido, que seja denegada a ordem.
+De pronto, verifica-se que a tese de nulidade das provas em razão da violação de domicílio não foi submetida à apreciação do Tribunal de Justiça, o que impede a análise da matéria diretamente por esta Corte, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ARTS. 312 DO CPP. PERICULUM LIBERTATIS . MOTIVAÇÃO IDÔNEA. INVASÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. No caso, o Magistrado registrou que com o investigado foram apreendidos, inicialmente, 8 comprimidos de ecstasy e que, na sua casa, foram encontradas outras 1.211 pílulas da mesma substância.Destacou, ainda, que o agente "teria oferecido o valor de R$ 15.000, 00 (quinze mil reais) para que a guarnição não o apresentasse à autoridade policial, no intuito de se furtar à aplicação da lei penal".
+3. No que se refere à invasão do domicílio, a despeito das alegações feitas no writ, da detida leitura do acórdão proferido pela Corte local, observo que a essa questão não foi analisada na origem, o que atrai a indevida supressão de instância.
+4. Agravo regimental não provido.
+(AgRg no HC 662.923/PA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/06/2021, DJe 17/06/2021)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO DE DROGAS. NULIDADE. INVIOLABILIDADE DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE. DOSIMETRIA. REINCIDÊNCIA. SÚMULA N. 636/STJ. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE.MULTIRREINCIDÊNCIA. AUSÊNCIA DE DESPROPORCIONALIDADE NA FRAÇÃO DE 1/3 UTILIZADA. MINORANTE DO ART. 41 DA LEI N. 11.343/2006.REVOLVIMENTO DE MATERIAL FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Não se pode conhecer da irresignação quanto à ilicitude de prova pela invasão de domicílio sem fundadas razões pois, a par de a questão não ter sido adequadamente discutida na Corte local nem ter sido objeto de embargos de declaração para sanar eventual omissão, não se desimcumbiu a defesa de instruir adequadamente os autos, não constando sequer cópia do auto de prisão em flagrante.
+2. "A folha de antecedentes criminais é documento suficiente a comprovar os maus antecedentes e a reincidência" (Súmula n. 636, TERCEIRA SEÇÃO, DJe 27/6/2019).
+3. Não há ilegalidade na ausência de compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea quando o réu é multirreincidente, como no caso, em que o agravante possuía, quando da sentença, três condenações anteriores transitadas em julgado.
+4. As instâncias ordinárias, tendo em vista os elementos de prova colhidos na instrução, concluíram que o paciente não faria jus ao benefício contido no art. 41 da Lei n. 11.343/2006, por ter feito vaga referência a outro envolvido que nem sequer foi encontrado.Para infirmar tal conclusão, seria necessário revisitar o material fático-probatório dos autos, procedimento incompatível com os limites cognitivos do writ. Precedente.
+5. Agravo regimental desprovido.
+(AgRg no HC 462.544/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA.
+1. A apontada nulidade do feito por suposta violação ao postulado da inviolabilidade de domicílio, previsto no art. 5º, inciso XI, da Constituição, não foi objeto de apreciação pelo Tribunal de origem por ocasião do julgamento do recurso de apelação, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Agravo regimental desprovido.
+(AgRg no HC 409.039/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/06/2018, DJe 01/08/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
