@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 67):
+AGRAVO EM EXECUÇÃO PENAL PEDIDO DE CASSAÇÃO DA DECISÃO DE 1º GRAU QUE DEFERIU O BENEFÍCIO DA PROGRESSÃO DE REGIME INSURGÊNCIA COM BASE EM ALEGADA AUSÊNCIA DO REQUISITO SUBJETIVO OCORRÊNCIA GRAVIDADE DOS CRIMES, HISTÓRICO DESCOMPROMISSADO E LONGA PENA A CUMPRIR A INDICAR A NECESSIDADE REALIZAÇÃO DE EXAME CRIMINOLÓGICO - DECISÃO REFORMADA - RECURSO PROVIDO, COM DETERMINAÇÃO.
+Consta dos autos que o paciente teve deferido ao seu favor, pelo Juízo das execuções, o pedido de progressão para o regime semiaberto.
+Irresignado, o Ministério Público interpôs agravo em execução, o qual foi provido para cassar a referida decisão.
+Daí o presentemandamus, no qual sustenta a impetrante, em suma, constrangimento ilegal pelo fato de o paciente permanecer"cumprindo sua pena privativa de liberdade em regime mais rigoroso do que o cabível, aguardando a vinda do sempre demorado exame criminológico, quando já satisfez de forma incontestável os requisitos objetivo e subjetivo para fazer jus à progressão para o regime semiaberto" (fl. 6).
+Aduz que a Corte local incorreu em ilegalidade posto ser indevido submetero paciente ao exame criminológico para, depois, progredi-lo, sendo que o mesmo já satisfaz os requisitos necessários.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento dowrit.
+A controvérsia restou assim tratada na primeira instância (fl. 49):
+Trata-se de pedido de progressão para o regime semiaberto. Juntou-se aos autos informações da Penitenciária. O Ministério Público opinou contrariamente à concessão do benefício e pede realização de exame criminológico. A defesa reiterou a inicial.
+É o relatório.
+Fundamento e decido.
+O pedido é procedente.
+O lapso temporal exigido foi resgatado e existe anotação de bom comportamento carcerário.
+Por outro lado, as demais informações constantes dos autos indicam que também ostenta o requisito subjetivo para a progressão prisional, inclusive em razão da boa conduta carcerária atual e da inexistência de falta disciplinar. Além disso, o "boletim informativo" emitido pela unidade prisional não foi impugnado pelo Ministério Público. Apresenta mérito suficiente para a progressão de regime, que lhe dará estímulo para a sua recuperação social.
+Ademais, por tudo que foi exposto, também não há necessidade da realização de exame criminológico, não tendo sido apontado nenhum motivo concreto recente que justificasse a realização de tal exame, conforme critérios previstos na Súmula Vinculante 26 do STF.
+NaCorte a quo a decisão monocrática foi cassada nos seguintes termos (fls. 68-72):
+WAGNER foi condenado pelo cometimento de três roubos circunstanciado e furto qualificado à pena total de 18 (dezoito) anos, 05 (cinco) meses e 22 (vinte e dois) dias, em regime inicial fechado, com o término de cumprimento da pena previsto para 07/12/2035, conforme Boletim Informativo (fls. 22/30).
+Durante a execução, postulou a concessão do benefício da progressão ao regime semiaberto, o que foi deferido pelo d. Magistrado a quo, sob o fundamento de que ele preencheu os requisitos objetivo e subjetivo (fls. 37/39).
+ .. .
+Por outro lado, quanto ao requisito subjetivo, ressalto que o atestado de boa conduta carcerária, por si só, não se mostra aceitável para avaliar o mérito do condenado, pois "ingressando no meio carcerário o sentenciado se adapta, paulatinamente, aos padrões da prisão.  ..  estimulado pela necessidade de se manter vivo e, se possível, ser aceito no novo grupo. Portanto, longe de estar sendo ressocializado para a vida livre, está, na verdade, sendo socializado para viver na prisão. É claro que o preso aprende rapidamente as regras disciplinares na prisão, pois está interessado em não sofrer punições."
+Aliás, o "atestado comprobatório de comportamento carcerário", apesar de o nome induzir a ideia de uma avaliação completa, por expressa determinação regulamentar reflete apenas a disciplina do condenado, ou seja, mera constatação "stricto sensu", nos termos do artigo 85 e 88 da Resolução SAP - 144, de 29 de junho de 2010, que institui o Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo:
+ .. .
+Ocorre que "comportamento carcerário" deve ser avaliado de forma ampla, ou seja, não somente o desempenho disciplinar individual.
+Nesse sentido, observo que WAGNER não foi submetido ao exame criminológico, perícia complementar necessária no caso para avaliar se o sentenciado preenche os requisitos subjetivos mínimos para concessão do amplo benefício almejado, especialmente quando se está diante do cometimento de crimes que envolveram grave ameaça ou violência contra as vítimas.
+ .. .
+Relembro que o sentenciado, reincidente, cometeu delitos gravíssimos, com reiteração na prática de crimes patrimoniais, envolvendo grave ameaça ou violência exercida contra as vítimas, de modo que aparenta fazer do crime seu meio de vida, além de denotar maior periculosidade.
+No mais anotada a longa pena a cumprir (término previsto para 07/12/2035) e o histórico prisional descompromissado, com anotação de três faltas disciplinares graves, inclusive com anotação de abandono da unidade prisional, maior cautela é necessária para o deferimento de benefício tão amplo, sobretudo quanto ao requisito subjetivo, para que demonstre estar reabilitado, merecendo retornar ao convívio social.
+Com efeito, nos termos da jurisprudência desta Corte, desde a Lei 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico, como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. EXIGÊNCIA. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. SÚMULA 439/STJ. RECOMENDAÇÃO N. 62/CNJ. VULNERABILIDADE NÃO COMPROVADA.
+1.O acórdão proferido pelo Tribunal a quo guarda harmonia com o entendimento desta Corte, ao considerar que o art. 112 da Lei de Execução Penal - LEP, alterado pela Lei n. 10.792/2003, não aboliu a realização do exame criminológico para avaliar o requisito subjetivo do apenado, sendo permitida a sua realização, desde que haja fundamentação concreta, demonstrando a necessidade da avaliação. Entendimento da Súmula 439/STJ.
+2. Quanto à alegada situação de pandemia em relação ao novo coronavírus, inviável o acolhimento da pretensão defensiva, porquanto não há nos autos elementos aptos a comprovar que o agravante esteja no grupo de risco para a Covid-19, bem como que se encontra em situação de comprovada vulnerabilidade.
+3. Agravo regimental improvido. (AgRg no HC 678.448/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+Das transcrições, importantedestacar que a Corte local trouxefundamentoconcretopara autorizar a realização do exame criminológico, ao indicar que o paciente ostenta 3 faltas disciplinares, frisando, inclusive, que uma delas foi a de abandono da unidade prisional.
+Nahipótese dos autos, portanto, revela-se devidamente justificada adeterminação derealização doexame criminológico, na medida em que presentes fundamentos idôneos, calcados emintercorrências no curso da execução - destacando-se que a última falta grave foi cometida em 12/3/2019 e reabilitada em 5/4/2020 (fl. 41).
+Assim, a possibilidade de determinação da realização de exame criminológico, sempre que julgada necessária pelo magistrado competente, ou mesmo pelo Tribunala quo, como no caso, é pacificamente reconhecida pela jurisprudência deste Superior Tribunal, desde que por decisão fundamentada. Confiram-se:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. REQUISITO SUBJETIVO. DETERMINADA REALIZAÇÃO DE PRÉVIO EXAME CRIMINOLÓGICO. FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 439/STJ. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula n. 439 desta Corte: " a dmite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+2. A Corte estadual entendeu ser necessária a prévia realização de exame criminológico para aferir o requisito subjetivo da progressão de regime em virtude da prática de falta grave, pelo Apenado, durante a execução da pena (participação em movimento para subverter a ordem e a disciplina) e do descumprimento das condições impostas no curso de livramento condicional anterior (prática de novo delito).
+3. Não se verifica, na hipótese em apreço, nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de prévio exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior.
+4. Ordem denegada. (HC 614.591/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME/LIVRAMENTO CONDICIONAL. PRÉVIO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo denegou a ordem na origem, mantendo a decisão que determinou a prévia realização de exame criminológico, sob o fundamento de que o apenado ostenta "diversas faltas disciplinares de natureza grave em seu desfavor, a última delas com reabilitação prevista apenas para 12 de novembro de 2022". Inteligência da Súmula n. 439/STJ.
+2. Agravo regimental desprovido. (AgRg no HC 632.422/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/03/2021, DJe 05/04/2021)
+Portanto, não há ilegalidade a ser sanada, uma vez que o acórdão está em total conformidade com a jurisprudência deste Superior Tribunal de Justiça.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
