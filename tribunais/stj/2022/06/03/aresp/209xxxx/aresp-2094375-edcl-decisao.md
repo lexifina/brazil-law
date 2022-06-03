@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALDA COBALCHINI E OUTRO à decisão de fls. 1011/1012, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Considerando a pandemia que assolava o Brasil, foi editado Provimento do Conselho Superior da Magistratura nº 2564/2020 que, no seu artigo 25, diz: (fl. 1014).
+ ..
+Posteriormente ao Provimento CSM 2564/2020, que trata de prazo processuais e de peticionamento em processos físicos, foi editado o Provimento CSM nº 2583/2020, em 26/10/2020.
+A contagem de prazo em processos físicos, penais, só poderiam iniciar posteriormente à publicação do Provimento CSM 2583/2020, que regulamentou o peticionamento em processos físicos (fl. 1015).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por esta Corte, providência que não foi cumprida.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO ÂMBITO DO TRIBUNAL DE ORIGEM. COMPROVAÇÃO DEFICIENTE NO ATO DE INTERPOSIÇÃO DO RECURSO. PRAZO EM DOBRO. NÚCLEO DE PRÁTICA JURÍDICA DE UNIVERSIDADE PARTICULAR. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c/c os arts. 1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos aptos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015. Precedentes.
+3. Na espécie, em que pese o agravante, nas razões do regimental, tenha demonstrado a juntada, no ato de interposição do recurso especial, de inúmeras Portarias Conjuntas expedidas pelo Tribunal a quo, por meio das quais os prazos processuais foram suspensos no âmbito daquela Corte, sucessivamente, a contar de 16/3/2020, em decorrência das medidas temporárias de prevenção ao contágio do novo coronavírus (COVID-19), a defesa não logrou comprovar até que data os prazos permaneceram suspensos, não sendo possível inferir quando esses voltaram a fluir, o que evidencia a inobservância do disposto no art. 1.003, § 6º, do CPC/2015.
+4. Ademais, este Superior Tribunal possui entendimento consolidado no sentido de que "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência" (AgRg no AREsp 1809965/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/3/2021, DJe 5/4/2021).
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.060.628/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/5/2022.)
+Registre-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
