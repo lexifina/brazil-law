@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Condomínio de Produtores Rurais Fussae Hidai Shimada e outros, contra decisão de fls. 490/494, que deu provimento ao recurso especial do ora embargante, para reconhecer a legitimidade passiva da União no caso dos autos.
+A parte embargante sustenta, em síntese, que "reconhecida a legitimidade da União Federal para figurar no polo passivo da lide declaratória, a Embargante entende que é importante e necessário deixar claramente delimitada a responsabilidade exclusiva da União Federal pela oportuna devolução do indébito de Salário-Educação reconhecido em favor da ora Embargante, cuja recuperação será realizada mediante dedução de ação judicial própria, em respeito às Súmulas nº 269 e nº 271/STF, e pelo reembolso das custas processuais" (fl. 498).
+Ausente a impugnação, cf. certidão de fl. 511.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que foram dirimidas, fundamentadamente, as questões submetidas, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento contrário ao que a parte entende ser correto com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1.678.312/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe 13/4/2021).
+No caso, a questão posta em apelo nobre, a saber, a legitimidade passiva da União Federal, foi expressamente decidida de forma favorável ao ora embargante, nos limites postos em apelo nobre. Questões pertinentes à decorrência lógico-legal do provimento do recurso ou que tratem da responsabilização exclusiva do ente público, como agora pretende ver declarado nos embargos, deverão ser apresentadas perante o juízo de piso.
+Fato é que inexiste vício de obscuridade ou, em verdade, de qualquer tipo, a justificar a oposição de aclaratórios. A decisão foi exposta de forma clara, coesa e completa, em resposta precisa às alegações e pedidos trazidos no apelo nobre.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
