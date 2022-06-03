@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Município de Ouro Branco, desafiando decisão que deu provimento ao recurso especial por ele interposto, sob os fundamentos de que é cabível a condenação da União ao pagamento de verba sucumbencial nas ações em que a edilidade visou à inclusão da multa instituída no art. 8º da Lei 13.254/2016 na base de cálculo do Fundo de Participação dos Municípios (FPM), tendo sido fixada a verba advocatícia em R$ 5.000,00 (cinco mil reais).
+Inconformada, a parte agravante, em suas razões, sustenta que o montante arbitrado a título de honorários advocatícios deve obedecer aos critérios objetivos fixados no art. 85, §§ 2º e 3º, do CPC. Aduz, em acréscimo, que a hipótese dos autos não autoriza a fixação da referida verba com base na equidade.
+A parte agravada apresentou impugnação (fls. 540/543), na qual solicita o não provimento do agravo interno.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência merece acolhimento.
+Sobre o percentual devido a título de honorários sucumbenciais, cumpre dizer que este Sodalício decidiu recentemente, sob asistemática dos recursos repetitivos, o Tema 1.076, estabelecendo aseguinte tese jurídica:
+"A fixação dos honorários por apreciaçãoequitativa não é permitida quando os valores da condenação, da causa ou oproveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC- a depender da presença da Fazenda Pública na lide -, os quais serãosubsequentemente calculados sobre o valor: (a) da condenação; ou (b) doproveito econômico obtido; ou (c) do valor atualizado da causa". ii)Apenas se admite arbitramento de honorários por equidadequando, havendoou não condenação: (a) o proveito econômico obtido pelo vencedor forinestimável ou irrisório; ou (b) o valor da causa for muito baixo"
+(REsp1.850.512/SP, Rel. Min. Og Fernandes, Corte Especial, julgado em16/3/2022)
+Desse modo, verifica-se que a decisão agravada, ao fixar a verba advocatíciapor equidade em demanda cujo valor envolvido não é irrisório ouinestimável, não guarda sintonia com o entendimento adotado por esteSuperior Tribunal de Justiça, merecendo, pois, reforma nesse ponto.
+ANTE O EXPOSTO, dou provimento ao agravo interno, para estabelecer que a verba sucumbencial devida ao Município agravante deve corresponder a 8% (oito por cento) do valor da causa atualizado, nos termos do art. 85, § 3º, II, do CPC.
+Publique-se.
