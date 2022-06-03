@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Agro Trafo Mineração, Agricultura, Pecuária e Administradora de Bens S. A Incorporador do RF Reflorestadora S/A, contra decisão de fls. 939/942, que conheceu parcialmente e, no ponto, negou provimento aorecurso especial da ora embargante em razão dos seguintes fundamentos: (I)ausência de violação ao art. 535 do CPC; (II)violação à norma legal meramente reflexa, pois imprescindível a análise de dispositivos infralegais; (III)aplicação da Súmula 283/STF; (IV)incidência da Súmula 7/STJ; e (V)não cumprimento dos requisitos de demonstração do dissídio jurisprudencial.
+A parte embargante sustenta, em síntese, que "a Decisão ora embargada não se debruçou sobre as alegações deduzidas no Recurso Especial (art. 1.022, II, do CPC/2015), cuja análise leva à conclusão de que não há óbice nas Súmulas nº 283/STF e nº 7/STJ" (fl. 945). Reitera, quanto ao mais, os motivos pelos quais entende que o acórdão recorrido comporta reforma.
+Ausente a impugnação, cf. certidão de fl. 956.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que foram dirimidas, fundamentadamente, as questões submetidas, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento contrário ao que a parte entende ser correto com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1.678.312/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 22/3/2021, DJe 13/4/2021).
+Frise-se, mais, que o julgador não fica obrigado a examinar todas as questões invocadas, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise das alegações que pareçam para a parte significativas, mas que, para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se: REsp 1.752.136/RN, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 24/11/2020, DJe 1/12/2020.
+No caso, a violação ao art. 535 do CPC/73 foi expressamente abordada na decisão ora embargada, veja-se (fls. 940/941):
+Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foramsubmetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com contradição ou ausência de prestação jurisdicional.
+No mais, tem-se a simples divergência da embargante com relação ao não provimento doapelo e à incidência das Súmulas 7/STJ, 283/STF e demais óbices de conhecimento aplicados.
+Ainda que a parte discorde da solução adotada e entenda que o apelo nobre é passível de conhecimento e de provimento, fato é que essa discordância não se traduz em vício de fundamentação apto a justificar a oposição de aclaratórios.
+Inexistem, portanto, vícios a serem sanados.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
