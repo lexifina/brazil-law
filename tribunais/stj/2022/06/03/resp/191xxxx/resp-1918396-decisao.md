@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fulcro no art. 105, III, alínea"a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado:
+"APELAÇÃO CRIMINAL  TRÁFICO ILÍCITO DE ENTORPECENTES  ABSOLVIÇÃO  IMPOSSIBILIDADE  AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS  REDIMENSIONAMENTO DA PENA  NECESSIDADE  DECOTE DA MAJORANTE DO ART. 40, III, DA LEI DE DROGAS  CABIMENTO  REGIME FECHADO  MANUTENÇÃO  RECURSO PARCIALMENTE PROVIDO. - Comprovadas a materialidade e a autoria delitivas, e inexistindo causas de exclusão da ilicitude ou da culpabilidade, mister seja mantida a condenação do apelante pela prática do delito de tráfico ilícito de entorpecentes. -Tendo em vista que apenas uma das circunstâncias judiciais foi considerada desfavorável, possível a redução da pena-base aplicada na sentença. - Necessário proceder ao decote da causa de aumento de pena prevista no art. 40, inciso III, da Lei n.11.343/06, vez que não há provas nos autos de que o apelante tentasse alcançar, com o tráfico, um dos frequentadores do local mencionado na exordial. - Inviável a fixação do regime inicial aberto, pois as penas se concretizaram em patamar superior a 04 (quatro) anos, e por ser o acusado reincidente." (e-STJ, fl. 201).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 231-236).
+O recorrente aponta negativa de vigência ao art. 40, III, da Lei n. 11.343/2006.
+Alega, em suma, que, para a incidência damajorante em comento, não se exige a prova da exata destinação da droga,bastando que o crime de tráfico se consume nas imediações dos locais elencados no inciso III do art. 40 da Lei n.11.343/06, o que ocorreu no caso em questão.
+Requer, portanto, o restabelecimento da causa de aumento de pena prevista no art. 40, III, da Lei n. 11.343/2006 (e-STJ, fls. 244-262).
+Foram apresentadas as contrarrazões (e-STJ, fls. 266-269).
+Admitido o recurso (e-STJ, fls. 271-273), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 286-289).
+É o relatório.
+Decido.
+A irresignação merece amparo.
+Consoante se verifica dos autos, o Tribunal a quo afastoua causa de aumento prevista no art. 40, III, da Lei n. 11.343/06, com base nos seguintes fundamentos:
+"Já na etapa derradeira, razão assiste à defesa quanto ao decote da majorante do art. 40, III, da Lei n.11.343/06.  Aduz a denúncia que o local em que o acusado guardava e efetuava a venda das drogas era "nas imediações de uma praça, local destinado à prática de diversão e lazer" (f. 02D-v).
+Entretanto, não se pode afirmar, pelas provas constantes dos autos, que o mesmo estivesse, ao menos, tentando alcançar, com o tráfico, um dos frequentadores da praça mencionada na exordial. Além disso, o próprio Parquet afirmaque o local já era conhecido como ponto de venda de drogas.
+Com efeito, referida causa de aumento tem por finalidade penalizar ainda mais o agente que tenta alcançar as pessoas que frequentam os locais determinados no referido dispositivo. Entretanto, a simples proximidade física, sem relação com a prática do crime, não autoriza a aplicação da referida majorante. Com tais fundamentos, decoto da condenação a causa de aumento de pena prevista no inciso III, do art. 40, da Lei n.11.343/06."(e-STJ, fl. 207)
+Todavia, diversamente do afirmado na origem, o Superior Tribunal de Justiça tem posicionamento consolidado de que, para a incidência da causa de aumento em questão, é suficiente a prática do delito nas imediações dos locais especialmente protegidos, sendo desnecessário que a distribuiçãoe venda da droga tenham como destinatários os frequentadores destes locais.
+Confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE DROGAS. DELITO COMETIDO NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO. INCIDÊNCIA DA MAJORANTE PREVISTA NO ART. 40, III, DA LEI Nº 11.343/06. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prática do delito de tráfico de drogas na proximidade de estabelecimentos elencados no inciso III, do art. 40, da Lei n.º 11.343/06, (instituição de ensino) já é suficiente para a aplicação da majorante, sendo desnecessária a prova de que o ilícito visava atender aos frequentadores desses locais.
+2. Agravo regimental não provido." (AgRg no REsp 1.349.357/RS, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 24/04/2014, DJe 30/04/2014)
+"RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE DROGAS. CAUSA DE AUMENTO DA PENA. ART. 40, INCISO III, DA LEI Nº 11.343/2006. INFRAÇÃO COMETIDA NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO EM UMA MADRUGADA DE DOMINGO. AUSÊNCIA DE EXPOSIÇÃO DE UMA AGLOMERAÇÃO DE PESSOAS À ATIVIDADE CRIMINOSA. INTERPRETAÇÃO TELEOLÓGICA. AFASTAMENTO DA MAJORANTE.
+1. A causa de aumento de pena prevista no art. 40, inciso III, da Lei n.º 11.343/2006 tem natureza objetiva, não sendo necessária a efetiva comprovação de mercancia na respectiva entidade de ensino, ou mesmo de que o comércio visava a atingir os estudantes, sendo suficiente que a prática ilícita tenha ocorrido em locais próximos, ou seja, nas imediações do estabelecimento.
+2. A razão de ser da norma é punir de forma mais severa quem, por traficar nas dependências ou na proximidade de estabelecimento de ensino, tem maior proveito na difusão e no comércio de drogas em região de grande circulação de pessoas, expondo os frequentadores do local a um risco inerente à atividade criminosa da narcotraficância.
+3. Na espécie, diante da prática do delito em dia e horário (domingo de madrugada) em que o estabelecimento de ensino não estava em funcionamento, de modo a facilitar a prática criminosa e a disseminação de drogas em área de maior aglomeração de pessoas, não há falar em incidência da majorante, pois ausente a ratio legis da norma em tela.
+4. Recurso especial improvido.
+(REsp n. 1.719.792/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 26/3/2018, grifou-se)
+Desse modo, apenadeveser readequada, nos seguintes termos:
+Na segunda etapa do cálculo, a pena estava estabelecida em06 (seis) anos de reclusão e 600 (seiscentos) dias-multa. (e-STJ, fl. 207)
+Assim, na terceira fase do cálculo da pena, presente a causa de aumento prevista no art. 40, III, da Lei n. 11.343/06, aumento a pena em 1/6, perfazendo a mesma o total de 07 (sete) anos de reclusão, além do pagamento de 700 dias-multa.
+Fica mantido o acórdão recorrido, no tocante ao regime inicial fechado, bem como a impossibilidade de substituição de pena corpórea para restritiva de direitos.
+À vista do exposto, com fulcro no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restabelecer amajorante do art. 40, III, da Lei 11.343/2006, e, assim, redimensionar a pena privativa de liberdade para 7 anos de reclusão, e pagamento de 700 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
