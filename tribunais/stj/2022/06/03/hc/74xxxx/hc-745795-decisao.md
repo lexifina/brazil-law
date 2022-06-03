@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Narram os autos que os pacientes foram condenados pela prática do crime previsto no art. 121, caput, do CP.
+Sustenta a defesa, em síntese, que"há razão aos Postulantes em requerer que a Ação pela qual foram injustamente condenados, seja revista, e analisada por esta Corte em face da violação de direitos a estes inerentes com fulcro nos artigos 482, parágrafo único, 483, inciso II, e § 3º, inciso II, do mesmo artigo, 490, parágrafo único, e 497, inciso IX, todos do Código de Processo Penal, além de vulnerar o artigo 5º, inciso LIV e LV da CF/88" (fl. 6).
+Aduz, ainda, que"O prejuízo a Paciente está configurado na medida em que seus recursos não foram analisados, assim, o cerceamento de defesa é evidente, portanto deve ser expedido salvo conduto em razão deste Remédio Constitucional impetrado. O objetivo deste Habeas Corpus é Fazer com que o Recurso Especial dos Pacientes seja analisado e julgado, não importando o resultado, pois tal fim é a conseqüência. " (fl. 9).
+Requer, liminarmente e no mérito, a concessão da ordem,"para que o MM. Juiz a quo não expeça mandado de prisão em face dos pacientes, e que ao fim seja o Recurso Especial Admitido e julgado" (fl. 10).
+O rito dohabeas corpusdemanda prova documental pré-constituída do direito alegado pelo impetrante.
+No caso, a defesa não instruiu os autos com as cópias da sentença condenatória e do acórdão recorrido, documentos indispensáveisà exata compreensão da controvérsia.
+Com efeito, é pacífico o entendimento desta Corte que ohabeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo-se prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Dessa forma, a ausência de peças essenciaisao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presentewrit, impetrado por profissional legalmente habilitado. A propósito, os seguintes precedentes: PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020; AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
