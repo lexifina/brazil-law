@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por ELVIS ALESSANDRO DANTAS, em face do v. acórdão proferido peloeg.Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos prisão preventiva e denúnciapela suposta prática dos crimes do"artigo288, caput, por duas vezes, na forma do artigo 69, caput, do Código Penal (FATOS 1 e 4); no artigo 155, § 4º, incisos II e IV, por diversas vezes, na forma do artigo 71, caput, do Código Penal (FATO 2); no artigo 1º, caput, da Lei nº 9.613/1998, por diversas vezes, na folina do artigo 71, caput, do Código Penal (FATO 3); no artigo 155, § 4º, incisos II e IV, por 111 (cento e onze) vezes, na forma do artigo 71, caput, do Código Penal (FATO 5); no artigo 1º, caput, da Lei nº 9.613/1998, por 111 (cento e onze) vezes, na forma do artigo 71, caput, do Código Penal (FATO 6); todos conjugados com osartigos 29, caput, e 69, caput, do Código Penal" (fls. 448-449).
+A defesa impetrouhabeas corpusperante o eg. Tribunala quo,visando a liberdade do recorrente, cuja ordem foi denegada em v. acórdão não ementado.
+Daí o presenterecurso, no qual o recorrente repisa os argumentos lançados nowritoriginário,reafirmando a existência de constrangimento ilegal consubstanciado na necessidade de desmembramento da ação penal diante da ausência de justa causa e de individualização das condutas na denúncia.
+Aduz, ainda,inidoneidade do decreto prisional por ausência de fundamentação e excesso de prazo na formação da culpa.
+Pondera pelo risco sanitário imposto pela pandemia causada pelo Sars-CoV-2.
+Requer, ao final, a concessão da ordem para o desmembramento da ação penal, o relaxamentoou revogação da prisão preventiva, e, subsidiariamente, a substituição por medidas cautelares diversas previstas no art. 319 do CPP.
+A liminar foi indeferida às fls. 435-436 e as informações foram prestadas às fls. 448-467.
+O Ministério Público Federal manifestou-se, às fls. 469-473, pelo desprovimento do recurso, em parecer ementado nos seguintes termos:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, FURTO QUALIFICADO, LAVAGEM DE DINHEIRO.AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PREVENTIVO E DE RISCO DE CONTAMINAÇÃO PELO NOVO CORONAVÍRUS NO AMBIENTE PRISIONAL. MATÉRIAS NÃO ANALISADAS PELO EG. TRIBUNAL A QUO, EXAME. INVIABILLIDADE.SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA. INSTRUÇÃO ENCERRADA. SÚMULA 52/STJ. FEITO COMPLEXO, COM DIVERSIDADE DE FATOS DELITUOSOS E 5 RÉUS. PRINCIPIO DA RAZOABILIDADE.APLICAÇÃO. DESCRIÇÃO PORMENORIZADA DA CONDUTA DE CADA RÉU. CRIMES DE AUTORIA COLETIVA. DESNECESSIDADE.DESMEMBRAMENTO DO FEITO EM RELAÇÃO AO RECORRENTE.DECISÃO INDEFERITÓRIA DEVIDAMENTE FUNDAMENTADA.NECESSIDADE DE EXAME APROFUNDADO DO MATERIAL FÁTICO- PROBATÓRIO PARA INVERSÃO DO JULGADO. PARECER PELO CONHECIMENTO PARCIAL E NESTA EXTENSÃO PELO DESPROVIMENTO DO RECURSO"(fl. 469).
+É o relatório.
+Decido.
+No que se refere à pretensão de desmembramento da ação penal por ausência de individualização da conduta, verifica-se do v. acórdão ora combatido que a matéria ora suscitada, sob o viés delineado na impetração (inépcia da denúncia por ausência de individualização da conduta), sequer fora analisada pelo eg. Tribunal a quo,igualmentequanto à aventada inidoneidade do decreto prisional e risco sanitário causado pela pandemia, dada a reiteração da matéria. Assim sendo, fica impedida esta eg. Corte de apreciar as questões, sob pena de indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PARA O SEMIABERTO. MANUTENÇÃO DO PACIENTE EM REGIME MAIS RIGOROSO. PLEITO DE REGIME ABERTO. AUSÊNCIA DE POSTULAÇÃO EM 1º GRAU. ILEGALIDADE INEXISTENTE. TEMA NÃO ENFRENTADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+2. A questão referente à manutenção do paciente no regime mais gravoso do que aquele judicialmente determinado não foi apreciada pelas instâncias ordinárias, o que impede seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+3. Agravo regimental em recurso ordinário em habeas corpus improvido."
+(AgRg no RHC 48623/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 04/09/2014).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO-CABIMENTO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DESTE SUPERIOR TRIBUNAL DE JUSTIÇA: MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DO STJ, EM CONSONÂNCIA COM O DO STF. RECEPTAÇÃO QUALIFICADA, ADULTERAÇÃO DE SINAL IDENTIFICADOR E FORMAÇÃO DE QUADRILHA. NÃO RECONHECIMENTO DO DIREITO DE APELAR EM LIBERDADE. INDICAÇÃO DE JUSTIFICATIVA CONCRETA PARA A MANUTENÇÃO DA PRISÃO PROCESSUAL. PACIENTE SEGREGADO DESDE O FLAGRANTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO, NO PONTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO APRECIADA PELO JUÍZO DAS EXECUÇÕES. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. O pedido de progressão de regime não foi formulado perante o Juízo das Execuções, razão pela qual não pode ser conhecido originariamente por esta Corte, sob pena de indevida supressão de instância.
+6. Ausência de ilegalidade flagrante que permita concessão da ordem de ofício.
+7. Ordem de habeas corpus não conhecida".
+(HC 220.468/PE, Quinta Turma, Relª. MinªLaurita Vaz, DJe 17/04/2013).
+Lado outro, segundo informações prestadas àfl. 94, os autos da Ação Penal n. 1536331-87.2019.8.26.0050 estão na fase de memoriais, de modo que, em relação ao pedido de reconhecimento de excesso de prazo para a formação da culpa, incide, pois, o enunciado da Súmula n. 52 desta Corte Superior: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Nesse sentido o seguinte precedente deste Tribunal Superior:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO PROCESSUAL. ALEGAÇÕES FINAIS DA DEFESA. SÚMULA 52/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+2. No caso, não se verifica excesso de prazo na duração do processo, visto que o feito está em fase de apresentação das alegações finais da defesa desde 30/8/2019, de modo a incidir o verbete da Súmula 52 desta Corte Superior, uma vez que a instrução processual encontra-se encerrada.
+3. Ademais, apesar de o recorrente estar preso desde 18/11/2018, a custódia cautelar, no momento, não se revela desproporcional às penas em abstrato do delito a ele imputado.
+4. Agravo regimental improvido." (AgRg no RHC 112.571/AL, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 16/09/2019- grifei.)
+Ante o exposto, nos termos do art. 34, XI, do RISTJ, julgo prejudicado o recurso ordinário em habeas corpus, na parte conhecida.
+P. e I.
