@@ -1,0 +1,8 @@
+DECISÃO
+ERICK LUAN PACHECO SIQUEIRA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+A impetrante assinala ser ilegal a condenação do paciente por desacato, em violação ao direito de expressão,o que teria contrariado o art. 13 da CADH. Aponta a ilegalidade na dosimetria da pena. Requer, em liminar eno mérito, a absolvição e a redução da sanção aplicada ao sentenciado.
+De plano, verifico que não foi trazida à colação cópiade acórdão proferido pelo Tribunal de origem, com o prévio exame da controvérsia, o que impede a exata compreensão do caso e inviabiliza a inauguração da competência constitucional desta Corte, nos termos doart. 105 da CF, para conhecer e processar o habeas corpus.
+Ação constitucional de natureza mandamental, o writ tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É obrigatório ao impetrante apresentar impressossuficientes para se permitir o exame do remédio constitucional, que demanda prova pré-constituída das alegações.Nessa diretriz, menciono: " ..  2. Na espécie, deixou-se de proceder à demonstração, mediante documentação comprobatória suficiente, de que o auto de constatação do dano realizado seria inidôneo, eis que ausente a peça, cabendo ao impetrante a escorreita instrução do habeas corpus, indicando, por meio de prova pré-constituída, o alegado constrangimento ilegal. 3. Habeas corpus não conhecido." (HC n. 166.551/RS, Rel. Min. Maria Thereza de Assis Moura, 6ª T., DJe17/6/2013).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
