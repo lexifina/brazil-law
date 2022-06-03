@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VITOR CARDOSO ALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que denegou a ordem postulada no HC n. 2048347-64.2022.8.26.0000.
+Depreende-se dos autos que o paciente foi denunciado pela prática, em tese, do crime previsto no artigo 121, § 2º, incisos I, III, IV e VI, e § 2º A, inciso I, ambos do Código Penal (e-STJ fls. 30/33).
+Relata que a denúncia foi recebida em 9/11/2021, e o Juízo de primeiro grau designou a audiência da primeira fase do júri para a data de 18/4/2022 e, na peça de resposta à acusação, o paciente requereu o encaminhamento de quesitos ao perito judicial, bem como a oitiva da assistente da defesa, Dra. Raquel Barbosa Cintra, sem a necessidade de intimação prévia por parte do Juízo.
+Contudo, o Juízo da 1ª Vara do Júri da Comarca da Capital do Estado de São Paulo, nos autos da Ação Penal n. 1500389-52.2021.8.26.0008, indeferiu o pedido de oitiva em juízo da assistente técnica da defesa.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local, requerendo a concessão da ordem para que seja deferida a oitiva da perita técnica da defesa em audiência.
+No entanto, em sessão de julgamento realizada no dia 31/3/2022, a 15ª Câmarade Direito Criminal do Tribunal de Justiça de São Paulo, à unanimidade, denegou a ordem, em acórdão assim ementado (e-STJ fl. 11):
+"HABEAS CORPUS" - Homicídio qualificado (artigo 121, § 2º, I, III, IV e VI, e § 2º-A, I, do Código Penal) - Alegação de cerceamento de defesa em razão do indeferimento de oitiva das assistentes técnicas. Inocorrência. O Juiz é o único destinatário da prova e a ele compete, com exclusividade, a decisão de sua pertinência ou não. Oitiva que poderá ser determinada, a critério do juízo, após a conclusão dos trabalhos do perito oficial. Inteligência dos artigos 155, 159, §§ 4º e 5º, II; 251, 400, § 1º e 411, § 2º do CPP. Precedentes do C. STJ - Constrangimento ilegal não caracterizado - Ordem denegada.
+Daí o presente habeas corpus substitutivo de recurso ordinário, no qual a defesa insiste no pleito que foi rechaçado pela Corte local, consistente no cerceamento de defesa e na violação à paridade de armas entre acusação e defesa em razão do indeferimento da oitiva da assistente técnica da defesa, a qual, segundo o alegado, é de suma importância para a instrução criminal e pode comprovar a inocência do paciente.
+Ao final, requer, liminarmente e no mérito, seja concedida a ordem para determinar o deferimento do pedido de oitiva, em audiência, da perita técnica da defesa.
+O pedido liminar foi indeferido (e-STJ fls. 55/60).
+Contra essa decisão, a defesa interpôs agravo regimental,reiterando, em síntese, os mesmos fundamentos contidos na inicial domandamus, consistente no cerceamento de defesa e na violação à paridade de armas entre acusação e defesa em razão do indeferimento da oitiva da assistente técnica da defesa, a qual, segundo o alegado, é de suma importância para a instrução criminal e pode comprovar a inocência do paciente (e-STJ fls. 45/47).
+No entanto, em sessão de julgamento realizada no dia 26/4/2022, a Quinta Turma do STJ, à unanimidade, não conheceu do agravo, em acórdão assim ementado (e-STJ fl. 54):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. AGRAVO INTERPOSTO CONTRA DECISÃO DE RELATOR QUE, MOTIVADAMENTE, INDEFERE O PEDIDO LIMINAR. NÃO CABIMENTO. PRECEDENTES. RECURSO NÃO CONHECIDO.
+1. Nos termos da jurisprudência desta Corte, não cabe agravo regimental contra decisão do Relator que, fundamentadamente, indefere pedido liminar em habeas corpus. Precedentes.
+2. Agravo regimental não conhecido.
+O Ministério Público Federal opinou pelo reconhecimento da perda superveniente do objeto do presente habeas corpus, em parecer assim ementado (e-STJ fl. 65):
+HABEAS CORPUS SUBSTITUTIVO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DO INDEFERIMENTO DO PEDIDO DE OITIVA EM JUÍZO DA ASSISTENTE TÉCNICA DA DEFESA. AUDIÊNCIA REALIZADA. HABEAS CORPUS PREJUDICADO.
+É o relatório. Decido.
+Conforme a manifestação ministerial, verifica-se a manifesta a supervenienteperda de objetoda presente impetração, pois, conforme pesquisa realizada perante o site do TJSP, nos autos da Ação Penal n. 1500389-52.2021.8.26.0008, em trâmite na 1ª Vara do Júrida Comarca de São Paulo/SP,foi realizada,18/4/2022, audiência de instrução, oportunidade na qual foram ouvidas as testemunhas arroladas pela acusação e pela defesa, a qual desistiu da oitiva de testemunhas e de diligências anteriormente requeridas, sem nada dizer sobre a oitiva da perita técnica, objeto do presente writ.
+Ao final, o Juízo de primeiro grauhomologou o pedido de desistência formulado pela defesa edesignou data para realização de novaaudiência para oitiva de um perito e interrogatório do paciente,sendo-lhe, ainda, concedida liberdade provisória.
+No ponto, extrai-se do parecer ministerial que (e-STJ fl. 66):
+A presente ordem de habeas corpus deve ser julgada prejudicada.
+Pesquisa realizada ao andamento da ação penal originária (autos n. 1500389-52.2021.8.26.0008) revelou que, em 18/04/2022, foi realizada audiência de instrução, oportunidade em que foram ouvidas as testemunhas arroladas pela acusação e pela defesa. Na mesma oportunidade, foi concedida a liberdade provisória do ora paciente e a defesa desistiu da oitiva de testemunhas e de diligências anteriormente requeridas, sem nada dizer sobre a oitiva da perita técnica, objeto do presente writ.
+O pedido de desistência foi homologado pelo Juízo de origem, que designou nova audiência para oitiva de um perito e interrogatório do réu, que ocorrerá em 05/12/2022. Não houve objeção pela defesa, conforme ata da audiência.
+Assim, resta patente a perda superveniente do objeto do presente habeas corpus.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
