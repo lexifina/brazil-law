@@ -1,4 +1,4 @@
-Art. 20. A jornada de trabalho do advogado empregado, no exercício da profissão, não poderá exceder a duração diária de quatro horas contínuas e a de vinte horas semanais, salvo acordo ou convenção coletiva ou em caso de dedicação exclusiva.
+Art. 20. A jornada de trabalho do advogado empregado, quando prestar serviço para empresas, não poderá exceder a duração diária de 8 (oito) horas contínuas e a de 40 (quarenta) horas semanais.
 § 1º Para efeitos deste artigo, considera-se como período de trabalho o tempo em que o advogado estiver à disposição do empregador, aguardando ou executando ordens, no seu escritório ou em atividades externas, sendo-lhe reembolsadas as despesas feitas com transporte, hospedagem e alimentação.
 § 2º As horas trabalhadas que excederem a jornada normal são remuneradas por um adicional não inferior a cem por cento sobre o valor da hora normal, mesmo havendo contrato escrito.
 § 3º As horas trabalhadas no período das vinte horas de um dia até as cinco horas do dia seguinte são remuneradas como noturnas, acrescidas do adicional de vinte e cinco por cento.

@@ -1,0 +1,2 @@
+Art. 22-A. Fica permitida a dedução de honorários advocatícios contratuais dos valores acrescidos, a título de juros de mora, ao montante repassado aos Estados e aos Municípios na forma de precatórios, como complementação de fundos constitucionais.
+Parágrafo único. A dedução a que se refere o caput deste artigo não será permitida aos advogados nas causas que decorram da execução de título judicial constituído em ação civil pública ajuizada pelo Ministério Público Federal.

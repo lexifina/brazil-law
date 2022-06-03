@@ -1,0 +1,6 @@
+Art. 24-A. No caso de bloqueio universal do patrimônio do cliente por decisão judicial, garantir-se-á ao advogado a liberação de até 20% (vinte por cento) dos bens bloqueados para fins de recebimento de honorários e reembolso de gastos com a defesa, ressalvadas as causas relacionadas aos crimes previstos na Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), e observado o disposto no parágrafo único do art. 243 da Constituição Federal.
+§ 1º O pedido de desbloqueio de bens será feito em autos apartados, que permanecerão em sigilo, mediante a apresentação do respectivo contrato.
+§ 2º O desbloqueio de bens observará, preferencialmente, a ordem estabelecida no art. 835 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).
+§ 3º Quando se tratar de dinheiro em espécie, de depósito ou de aplicação em instituição financeira, os valores serão transferidos diretamente para a conta do advogado ou do escritório de advocacia responsável pela defesa.
+§ 4º Nos demais casos, o advogado poderá optar pela adjudicação do próprio bem ou por sua venda em hasta pública para satisfação dos honorários devidos, nos termos do art. 879 e seguintes da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).
+§ 5º O valor excedente deverá ser depositado em conta vinculada ao processo judicial.

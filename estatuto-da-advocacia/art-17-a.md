@@ -1,0 +1,1 @@
+Art. 17-A. O advogado poderá associar-se a uma ou mais sociedades de advogados ou sociedades unipessoais de advocacia, sem que estejam presentes os requisitos legais de vínculo empregatício, para prestação de serviços e participação nos resultados, na forma do Regulamento Geral e de Provimentos do Conselho Federal da OAB.

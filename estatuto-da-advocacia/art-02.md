@@ -1,4 +1,5 @@
 Art. 2º O advogado é indispensável à administração da justiça.
 § 1º No seu ministério privado, o advogado presta serviço público e exerce função social.
 § 2º No processo judicial, o advogado contribui, na postulação de decisão favorável ao seu constituinte, ao convencimento do julgador, e seus atos constituem múnus público.
+§ 2º-A. No processo administrativo, o advogado contribui com a postulação de decisão favorável ao seu constituinte, e os seus atos constituem múnus público.
 § 3º No exercício da profissão, o advogado é inviolável por seus atos e manifestações, nos limites desta lei.

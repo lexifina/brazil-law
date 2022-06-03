@@ -17,4 +17,6 @@ XV - colaborar com o aperfeiçoamento dos cursos jurídicos, e opinar, previamen
 XVI - autorizar, pela maioria absoluta das delegações, a oneração ou alienação de seus bens imóveis;
 XVII - participar de concursos públicos, nos casos previstos na Constituição e na lei, em todas as suas fases, quando tiverem abrangência nacional ou interestadual;
 XVIII - resolver os casos omissos neste estatuto.
+XIX - fiscalizar, acompanhar e definir parâmetros e diretrizes da relação jurídica mantida entre advogados e sociedades de advogados ou entre escritório de advogados sócios e advogado associado, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício;
+XX - promover, por intermédio da Câmara de Mediação e Arbitragem, a solução sobre questões atinentes à relação entre advogados sócios ou associados e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal.
 Parágrafo único. A intervenção referida no inciso VII deste artigo depende de prévia aprovação por dois terços das delegações, garantido o amplo direito de defesa do Conselho Seccional respectivo, nomeando-se diretoria provisória para o prazo que se fixar.
