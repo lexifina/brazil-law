@@ -1,1 +1,1 @@
-Art. 85. O Instituto dos Advogados Brasileiros e as instituições a ele filiadas têm qualidade para promover perante a OAB o que julgarem do interesse dos advogados em geral ou de qualquer dos seus membros.
+Art. 85. O Instituto dos Advogados Brasileiros, a Federação Nacional dos Institutos dos Advogados do Brasil e as instituições a eles filiadas têm qualidade para promover perante a OAB o que julgarem do interesse dos advogados em geral ou de qualquer de seus membros.
