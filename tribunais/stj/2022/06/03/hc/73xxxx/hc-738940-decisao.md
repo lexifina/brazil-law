@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  favor  de  ANDRE  RAMOS  em  que  se  aponta  como  autoridade  coatora  o  Tribunal  de  Justiça  do  Estado  de  São  Paulo nos autos da Apelação n.0003041-15.2012.8.26.0079 e da Revisão Criminal n.0006996-82.2021.8.26.0000.
+Extrai-se dos autos  que,  em 13/07/2016,  o  Paciente  foi  condenado  à  pena  reclusiva  de  8  (oito) anos,  3  (três) meses  e  16  (dezesseis)  dias,  mais  pagamento  de  20  (vinte) dias-multa,  como  incurso  no  crime  previsto  no  art.  157,  parágrafo  2.º,  inciso  II,  do  Código  Penal.
+A  sentença  foi  mantida  na  íntegra  pela  Corte  local  no  julgamento  da  Apelação  n.  0003041-15.2012.8.26.0079.
+Em seguida, o Tribunal local indeferiu o pedido revisionaln. 0006996-82.2021.8.26.0000 de Marcos LeandroOliveira Santos (fls. 56-90).
+No  presente  writ,  a  parte  Impetrante  menciona  os  predicados  do  Paciente,  o  qual  é  réu  primário,  pai  de  família,  com  residência  fixa  no  distrito  da  culpa  e  profissão  definida.  Aduz  que  foi  desproporcional  a  pena  fixada.
+Objetiva a aplicação do art. 580 do Código de Processo Penal, com a extensão  do  juízo  absolutório  referente  ao  Corréu  Marcos,  efetuado  no  julgamento  do  acordão  da  apelação.
+Requer "que SEJA CONCEDIDA DEFINITIVAMENTE A ORDEM, ratificando a liminar, para que não chegue acontecer nos autos a expedição de mandado de prisão em desfavor da paciente, paciente esta que possui trabalho lícito com profissão definida na área da saúde, endereço fixo" (fl. 19).
+É  o  relato  do  necessário.  Decido.
+O  writ  não  merece  trânsito,  ante  a  caracterização  de  litispendência.
+No  presente  writ  a  Defesa  impugna  o  acórdão  condenatório  proferido  na  Apelação  n.  0003041-15.2012.8.26.0079  (fls.  40-55).  Dessa  forma,  nestes autos e  em  impetração  anterior,  qual  seja,  o  HC  679.538/SP,  Rel.  Ministra  LAURITA  VAZ  (em  que  também  se  impugna  o  mesmo  acórdão ),  há  identidade  de  partes  e  de  causa  de  pedir.
+Ocorre  que  não  podem  ser  analisados  habeas  corpus  nos  quais  se  verifica  litispendência,  constatada  exatamente  quando  há  igualdade  de  partes,  de  objeto  e  de  causa  petendi.
+Isso  porque  o  reconhecimento  do  referido instituto  visa  precipuamente  à  economia  processual  e  ao  "propósito  de  evitar  a  ocorrência  de  decisões  contraditórias"  (STJ,  REsp  88.354/SP,  Rel.  Ministro  HUMBERTO  GOMES  DE  BARROS,  PRIMEIRA  TURMA,  DJ  02/09/1996).
+Destaco  ainda  os  seguintes  precedentes,  mutatis  mutandis:
+"RECURSO  ORDINÁRIO  EM  HABEAS  CORPUS.  AÇÃO  DE  RESCISÃO  CONTRATUAL  CUMULADA  COM  REINTEGRAÇÃO  DE  POSSE.  REITERAÇÃO  DE  PEDIDO  FORMULADO  EM  HABEAS  CORPUS  ANTECEDENTE.  LITISPENDÊNCIA.
+1.  Configura  litispendência  a  reiteração  de  pedido  idêntico  ao  formulado  em  habeas  corpus  antecedente  que  ainda  se  encontra  em  curso.
+2.  Recurso  ordinário  não  provido."  (STJ,  RHC  36.788/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  06/06/2013,  REPDJe  02/08/2013. )
+"AGRAVO  REGIMENTAL  EM  RECURSO  ORDINÁRIO  CONSTITUCIONAL  EM  HABEAS  CORPUS.  REITERAÇÃO  DE  TESE.  IDENTIDADE  DE  PARTES,  DE  OBJETO  E  DE  CAUSA  PETENDI.  PRETENSÃO  DEFENSIVA  JÁ  VENTILADA  EM  WRIT  ANTERIORMENTE  IMPETRADO.  LITISPENDÊNCIA  CONFIGURADA.  AGRAVO  DESPROVIDO.
+1.  Não  podem  ser  analisados  habeas  corpus  e  recurso  ordinário  em  habeas  corpus  nos  quais  se  constata  litispendência,  instituto  que  se  configura  exatamente  quando  há  igualdade  de  partes,  de  objeto  e  de  causa  petendi.
+2.  É  certo  que  o  Agravante  alega  que  o  pedido  que  deve  ser  analisado  pelo  Superior  Tribunal  de  Justiça  é  o  formulado  no  recurso  cabível  (como  no  caso,  em  que  a  presente  via  de  impugnação  foi  interposta  na  origem  concomitantemente  a  writ  impetrado  nesta  Corte).  Todavia,  a  Sexta  Turma  do  Superior  Tribunal  de  Justiça  não  impõe  óbice  ao  conhecimento  do  habeas  corpus  substitutivo  de  recurso  ordinário.  Dessa  forma,  deve  ser  processado  tão  somente  o  pedido  que  primeiramente  foi  recebido  pelo  STJ.
+3.  A  despeito  de  não  se  vedar  a  possibilidade  da  impetração  de  mandamus  originário,  nessa  hipótese  a  Defesa  pode  eventualmente  ter  de  arcar  com  o  ônus  de  o  recurso  ordinário  -  embora  trate-se  da  adequada  via  de  impugnação  -  não  ter  seu  mérito  analisado  (vide  RHC  37.895-RS,  Rel.  Min.  LAURITA  VAZ,  QUINTA  TURMA,  Informativo  STJ  n.º  539,  15  de  maio  de  2014).
+4.  Agravo  regimental  desprovido."  (STJ,  AgRg  no  RHC  126.237/SP,  Rel.  Ministra  LAURITA  VAZ,  SEXTA  TURMA,  julgado  em  02/06/2020,  DJe  15/06/2020.)
+Ante  o  exposto,  INDEFIRO  LIMINARMENTE  a  petição  inicial,  com  fundamento  no  art.  34,  inciso  XX,  c.c.  o  art.  210,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  .
+Publique-se.  Intimem-se.
+EMENTA
+  HABEAS  CORPUS.  REITERAÇÃO  DE  TESE.  IDENTIDADE  DE  PARTES,  DE  OBJETO  E  DE  CAUSA  PETENDI.  PRETENSÃO  DEFENSIVA  JÁ  VENTILADA  EM  WRIT  ANTERIORMENTE  IMPETRADO  NESTA  CORTE.  LITISPENDÊNCIA  CONFIGURADA.  PETIÇÃO  INICIAL  INDEFERIDA  LIMINARMENTE.
