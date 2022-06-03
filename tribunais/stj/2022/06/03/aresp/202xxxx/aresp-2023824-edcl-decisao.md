@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VANESSA DOS SANTOS em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que "No presente caso, nota-se que a decisão embargada deixou de analisar o pedido de justiça gratuita (fls. 430/431)" (fl. 489, e-STJ).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+Consigne-se que não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Com efeito, é despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual, pois, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte peticionante das custas processuais referentes aos atos anteriores. Isso porque, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 29/5/2012).
+Sendo a interposição do recurso especial o último ato oneroso praticado pela parte no processo, da qual foi isenta de recolher custas, não há que se cogitar a concessão da gratuidade neste momento, pois não há mais custas a serem recolhidas depois disso, e a condenação em honorários de advogado não pode mais ser elidida (Mutatis Mutandis, AgRg na PET no Ag 1136278/RJ, Rel. Min. Ari Pargendler, Corte Especial, DJe 16/08/2010).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
