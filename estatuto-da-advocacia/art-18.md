@@ -1,2 +1,7 @@
 Art. 18. A relação de emprego, na qualidade de advogado, não retira a isenção técnica nem reduz a independência profissional inerentes à advocacia.
-Parágrafo único. O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego.
+§ 1º O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego.
+§ 2º As atividades do advogado empregado poderão ser realizadas, a critério do empregador, em qualquer um dos seguintes regimes:
+I - exclusivamente presencial: modalidade na qual o advogado empregado, desde o início da contratação, realizará o trabalho nas dependências ou locais indicados pelo empregador;
+II - não presencial, teletrabalho ou trabalho a distância: modalidade na qual, desde o início da contratação, o trabalho será preponderantemente realizado fora das dependências do empregador, observado que o comparecimento nas dependências de forma não permanente, variável ou para participação em reuniões ou em eventos presenciais não descaracterizará o regime não presencial;
+III - misto: modalidade na qual as atividades do advogado poderão ser presenciais, no estabelecimento do contratante ou onde este indicar, ou não presenciais, conforme as condições definidas pelo empregador em seu regulamento empresarial, independentemente de preponderância ou não.
+§ 3º Na vigência da relação de emprego, as partes poderão pactuar, por acordo individual simples, a alteração de um regime para outro.
