@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso interposto porÂngelo Pinheiro da Silva, em que se impugna o acórdão proferido pelo Tribunal de Justiça de Goiás, que denegou o HC n. 5224440-73.2022.8.09.0137.
+Consta dos autos que o recorrente, ao lado de outracorré, foi preso em flagrante pela suposta prática detráfico de entorpecentes, bem como teve a sua prisão posteriormente convertida em preventiva (fls. 101/104).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem e convalidou a segregação cautelar (fls. 152/160).
+Daí o presente recurso, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica.
+Ressaltam-se as condições pessoais favoráveis do recorrente, como primariedade, trabalho lícito e endereço fixo.
+Requer-se, assim, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do recurso (fls. 198/200).
+É o relatório.
+Pelos percucientes fundamentos,também adoto como razões de decidir o parecer do Ministério Público Federal,in verbis(fls.198/200- grifo nosso):
+ ..
+No caso dos autos, foram analisadas as circunstâncias fáticas conformadoras da necessidade de imposição da medida constritiva, nos exatos termos do que determina o art. 312 do Código de Processo Penal, com destaque especial para a quantidade da droga apreendida - 100 tabletes de cocaína (110,455 kg) e 99 kg de pasta-base de cocaína. (fl. 156). Com efeito, "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente." (AgRg no HC n. 650.042/SP, Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 4/5/2021, DJe 7/5/2021)  g. n. .
+Ademais, "indevida a aplicação de medidas cautelares diversas da prisão quando a segregação encontra-se justificada e mostra-se imprescindível para acautelar o meio social, evidenciando que providências menos gravosas não seriam suficientes para garantir a ordem pública." (HC n. 474.402/SP, Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/3/2019, DJe 19/03/2019) g. n. . Observamos, ainda, que é sólida a jurisprudência do STJ no sentido de que a presença de condições pessoais favoráveis, a exemplo da primariedade, dos bons antecedentes, da residência fixa e da ocupação lícita, não é suficiente para informar a desnecessidade de imposição da prisão preventiva quando houver a assunção de elementos a recomendar a adoção da medida excepcional.
+ ..
+Em relação à custódia cautelar do recorrente, diza jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+O Tribunal local, ao denegar a ordem, convalidando a constrição cautelar, concluiu que (fls. 155/156 - grifo nosso):
+ ..
+Recebidos os autos, o juiz singular, após manifestação ministerial, homologou a prisão em flagrante e, em audiência de custódia, a convolou em preventiva.
+Destacou a presença da materialidade da infração penal e dos indícios de autoria, consubstanciados nos depoimentos e demais documentos que instruíram o auto de prisão em flagrante. Ressaltou, ainda, que a prisão preventiva é necessária para garantir a ordem pública e para assegurar a aplicação da lei penal.
+Nesse sentido, destacou "a relevante quantidade de drogas apreendias 100 tabletes de cocaína (110,455 kg) e 99 kg de pasta-base de cocaína, revelarem, em princípio, não se tratar de traficância amadora ou eventual, mas de empreitada criminosa organizada. Ademais, a grande quantidade de drogas que foram apreendidos e seu valor alto valor de avaliação, trazem certa plausibilidade para a existência de organização criminosa.".
+Mencionou, ainda, a insuficiência da aplicação de medidas cautelares diversas da segregação.
+Nessa esteira, observo que, no caso dos autos, a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a gravidade concreta da conduta e a maior periculosidade do paciente.
+Sobrelevo gravidade do crime em questão está evidenciada pelos indícios de mercancia de droga, notadamente em razão da quantidade de substância entorpecente apreendida com o paciente - 100 tabletes de cocaína (110,455 kg) e 99 kg de pasta-base de cocaína, o que demonstra sua enorme reprovabilidade.
+ ..
+Assim, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, principalmente a enorme quantidade de drogas apreendida, 110,455 kgde cocaína e 99 kg de pasta-base de cocaína e omodus operandi.Tudo a revelar e indicar a necessidade da manutenção da medida extrema.
+Ressalto, ainda, que, na jurisprudência deste Superior Tribunal, há vários julgados dispondo que a necessidade de manutenção do cárcere constitui importante instrumento de que dispõe o Estado para desarticular organizações criminosas. A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (HC n. 371.769/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2017).
+Nessa linha: HC n. 512.622/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 31/5/2019; e HC n. 504.220/MG, Ministro Jorge Mussi, Quinta Turma, DJe 31/5/2019.
+Da atenta análise dos autosverifica-seque não há flagrante ilegalidade a ser sanada, na medida em que, como é cediço, esta Casa considera a gravidade concreta do crime, aferida pelo seumodus operandi,fundamentação idônea suficiente para a decretação da custódia preventiva.
+A propósito, já decidiu esta Cortequea custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do recorrente está evidenciada no modus operandi do ato criminoso(AgRg no HC n. 692.701/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/10/2021).
+Emais: AgRg no HC n. 685.668/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/11/2021; e HC n. 685.080/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/9/2021.
+Ademais, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOSREQUISITOS LEGAIS. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 625.286/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 19/3/2021 - grifo nosso)
+Por fim, eventuais condições pessoais favoráveis do recorrente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto,nego provimentoao recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. TRÁFICODE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE DE DROGA APREENDIDA (110,455KG DE COCAÍNA E 99 KG DE PASTA-BASE DE COCAÍNA).MODUS OPERANDI.INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Recurso improvido.
