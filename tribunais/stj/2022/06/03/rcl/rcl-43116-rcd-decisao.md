@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de pedido de reconsideração apresentado por SEBASTIÃO GOMES DE OLIVEIRA, JOSÉ TALVANE PEREIRA DOS SANTOS, MARIO SÉRGIO SILVA, ANTÔNIA FARIAS DOS SANTOSe ANDRÉIA BRAZ DE FRANÇA SOAREScontra adecisão de fls. 214-217, que deferiu o pedido de liminar proposto pelo Município de Belo Monte (AL) e determinou a suspensão dos efeitos da decisão reclamada, proferida pelo Desembargador José Carlos Malta Marques, do Tribunal de Justiça do Estado de Alagoas, que, nos autos da Suspensão de Liminar de n. 0802184-93.2022.8.02.0000, suspendeu os efeitos da decisão proferida pelo Desembargador Ivan Vasconcelos Brito Júnior nos autos do Processo n. 0700059-31.2022.8.02.0070, até o trânsito em julgado da referida ação.
+Os requerentes sustentam a inexistência de usurpação de competência do Superior Tribunal de Justiça para apreciar o pedido de suspensão de liminar formulado pelo reclamado.
+Asseveram que inexistem requisitos para a concessão da liminar, bem como informam que os serviços para os quais foram abertos os créditos suplementares através do Decreto n. 09/2022 não correspondem a nenhum dos serviços alegadamente prejudicados pela ausência de autorização prévia listados pelo gestor municipal na exordial desta reclamação.
+O Município de Belo Monte apresentou impugnação ao pleito de reconsideração às fls. 503-518.
+É, no essencial, o relatório. Decido.
+A reclamação é destinada à preservação da competência do Superior Tribunal de Justiça e à garantia da autoridade das suas decisões (art. 105, I, f, da Constituição Federal).
+Conforme decisão de fls. 214-217, verifiquei a ocorrência de usurpação da competência do Superior Tribunal de Justiça e ainda a presença do fumus boni iuris consubstanciado na impossibilidade da administração em realizar o pagamento de despesas correntes essenciais, tais como a folha de salário de servidores das áreas de saúde, educação, assistência social e da própria prefeitura.
+Não obstante o esforço argumentativo da parte em tentar a reconsideração da decisão suspensiva, não relatou nenhum fato novo nem argumentação jurídica que pudessem infirmar o raciocínio jurídico diverso do desenhado na decisão questionada.
+Ante o exposto, indefiro o pedido de reconsideração da decisão de fls. 221-454.
+Publique-se. Intimem-se.
