@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BATERIAS DUREXCELL LTDA em face de decisão sintetizada na seguinte ementa (fl. 1902 e-STJ):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+A parte embargante assevera que a decisão embargada incorreu em omissão porque não se manifestou sobre teses importantes suscitadas oportunamente que demonstram a presença irrefragável de ilegalidade.
+O Município de Leópolis apresentou impugnação às fls. 1922/1929 e-STJ.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Para que os aclaratórios, que são recurso de fundamentação vinculada possam prosperar, faz-se necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição, omissão ou - como previsto na novel legislação - erro material em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+No caso, o embargante aponta omissãosobre teses importantes suscitadas oportunamente que demonstram a presença irrefragável de ilegalidade.
+Ocorre que, em verdade, não há falar em vícios na hipótese, pois a decisão embargada analisou a integralidade do apelo tendo concluído pelo conhecimento do agravo para conhecimento parcial do recurso especial e, nessa extensão, pelo seu improvimento:
+Ademais, verifica-se que o Tribunal de origem, soberano na análise do conjunto fático probatório dos autos e com base nas particularidades do caso concreto, após minuciosa e detalhada consideração das circunstâncias fáticas e jurídicas atinentes à espécie, concluiu que ausente o dever de indenizar, pois, "Nada obstante a nulidade dos atos questionados, a detida leitura dos fatos demonstra que se por um lado foram demonstrados fortes indícios de dano ambiental, por outro não logrou êxito a parteapelante em demonstrar qualquer indício da alegada perseguição política".
+Com efeito, o acolhimento da pretensão recursal de que as decisões prolatadas nas ações anteriores imporiam o reconhecimento do dever de indenizar, de que houve conduta antijurídica do Município e de que não houve exercício lícito do poder de polícias, demandaria o revolvimento do conjunto fático probatório dos autos, esbarrando no óbice da Súmula 7/STJ.
+Verifica-se, portanto, que não houve negativa de prestação jurisdicional - omissão - quanto aos temas apontados, mas sim resultado diverso daquele pretendido pelo ora embargante. A propósito, importa destacar que o não conhecimento do apelo impede a análise do mérito.
+Assim, verifica-se que o embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Como já explicitado inicialmente, os declaratórios apenas são cabíveis nos casos de omissão, obscuridade ou contradição, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL AÇÃO CIVIL PÚBLICA. APP. REMOÇÃO DE EDIFICAÇÕES. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTENTE. CITAÇÃO. JULGAMENTO EXTRA PETITA. PRESCRIÇÃO. RESTRIÇÃO ADMINISTRATIVA. PRETENSÃO DE REEXAME
+FÁTICO- PROBATÓRIO. SÚMULA N. 7/STJ.
+ ..
+V - Com relação à alegada omissão acerca da inexistência de curso d"água, verifica-se que a matéria não constou dos embargos de declaração opostos, o que inviabiliza essa parcela de inconformação.
+VI - A oposição de embargos de declaração, com fundamento nas omissões acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. No mesmo diapasão, destacam-se: AgInt no AREsp 1.323.892/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2018, DJe 22/11/2018 e AgInt no REsp 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017.
+ ..
+X - Agravo interno improvido.
+(AgInt no AREsp 1128424/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/12/2019, DJe 11/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+2. A segunda instância, analisando o contrato assinado entre as partes, concluiu que não se tratou de novação, mas sim de mera tolerância da locadora. Também estipulou-se que a confissão de dívida visou à quitação de débitos pretéritos, sem a intenção de novar, porquanto não se verificou a busca pela substituição de uma dívida por outra, mas o simples parcelamento da dívida anterior. Essas conclusões foram fundadas na análise de fatos, provas e termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ por quaisquer das alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ante o exposto, rejeito os embargos de declaração, por ausência dos vícios previstos na lei processual.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. INCONFORMISMO DO EMBARGANTE. EFEITOS INFRINGENTES. INVIABILIDADE. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
