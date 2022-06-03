@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado às penas de 6anos e 8meses de reclusão, em regime fechado, e 667dias-multa, por ofensa ao art. 33, caput, da Lei nº 11.343/2006.
+Neste recurso, aponta negativa de vigência aos arts. 33, § 4º, Lei nº 11.343/2006,e 33, § 2º, "c", do Código Penal, pugnando, ao final, pela aplicação do redutor previsto na lei citada e alteração do regime prisional para o semiaberto.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Acerca do tráfico privilegiado, extrai-se do acórdão recorrido (fl. 604-605):
+ .. No caso dos autos, o magistrado a quo não reconheceu a causa de diminuição do tráfico privilegiado, pautando-se na quantidade de entorpecente encontrada na posse do acusado:
+"(..) Traçadas estas premissas, tenho que o réu Sandro não faz jus à minorante em epígrafe, porquanto foi contratado e aceitou, em troca de vultosa quantia de dinheiro, realizar a empreitada de transportar entorpecentes em região de fronteira com o Paraguai, utilizando-se de uma estrada vicinal para furtar as fiscalizações policiais, sendo que as drogas foram acondicionados em veículo preparado para tal finalidade, bem como contava com o auxílio de batedores, de modo que, assim agindo, mesmo que momentaneamente, atuou na condição de integrante de organização criminosa voltada ao comércio de entorpecentes.".
+Constata-se que apesar do réu ser primário e possuir bons antecedentes, no tocante ao requisito não se dedicar às atividades criminosas não restou preenchido.
+A análise deve ser mais criteriosa e envolve uma apreciação subjetivado magistrado que, a partir dos elementos de convicção existentes nos autos, deverá concluir se o agente é "dedicado às atividades criminosas".
+A expressão "se dedicar às atividades criminosas" é bastante genérica e pouco elucidativa, de modo que cada caso deve ser analisado individualmente, a fim de se descobrir, através do seu contexto peculiar, se o agente faz da atividade criminosa o seu estilo habitual de vida.
+No caso dos autos, verifica-se que o apelante foi flagrado enquanto transportava em seu caminhão 11,615 Kg de maconha, o que por si já afasta a possibilidade de concessão da benesse, consoante entendimento firmado na Corte Superior:
+ ..
+Outrossim, é certo que o envolvimento de outras pessoas no preparo da droga, armazenamento do caminhão, no deslocamento realizado pelo réu a fim de buscar o entorpecente e o fato do crime ter sido praticado próximo à fronteira com o Paraguai, evidenciam, ainda que de forma indireta e transitória, a participação dele em atividades criminosas.
+Assim, inviável o reconhecimento do tráfico privilegiado em favor do acusado. ..
+Como visto, denegou-se a minorante em apreço diante da quantidade de droga apreendida (mais de 11 mil quilos e meio de maconha), ressaltando-se, ainda, que "o envolvimento de outras pessoas no preparo da droga, armazenamento do caminhão, no deslocamento realizado pelo réu a fim de buscar o entorpecente e o fato do crime ter sido praticado próximo à fronteira com o Paraguai, evidenciam, ainda que de forma indireta e transitória, a participação dele em atividades criminosas".
+No entanto, dos fatos narrados, configura-se a conduta do réu, ora recorrente, como "mula do tráfico".
+"Mulas do tráfico" são pessoas usadas por traficantes para transportar drogas por fronteiras policiadas, sejam estas interestaduais ou, até mesmo, entre países diversos, mediante o pagamento de certa quantia em espécie, o que se constata no feito em apreço.
+Sobre a questão, entende esta Corte que a respectiva condição, por si só, não afasta a incidência do art. 33, § 4º, da Lei nº 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6, uma vez que, mesmo como transportadores e premidos de necessidade, os acusados se deixaram cooptar pelo tráfico. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. FIXAÇÃO DA FRAÇÃO MÍNIMA. MULA. RELEVANTE QUANTIDADE DA DROGA. FUNDAMENTO IDÔNEO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/06, podendo, contudo, autorizar a aplicação da minorante em 1/6, com fundamento na expressiva quantidade de droga apreendida - 232 kg de maconha.
+2. Agravo regimental improvido. (AgRg no HC n. 593.052/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 2/9/2020.)
+Logo, fixada, na origem, a pena definitiva do réu em 6 anos e 8 meses de reclusão, e 667 dias-multa, aplicando-se o patamar de 1/6 referente ao tráfico privilegiado, chega-se ao total de 5 anos, 6 meses e 20 dias de reclusão, e 555 dias-multa.
+Com relação ao regime inicial fechado, infere-se que imposto nos exatos termos do art. 33, § 3º, do Código Penal e pacífico entendimento jurisprudencial deste Tribunal, por sopesar circunstância judicial desfavorável, qual seja, a expressiva quantidade de droga apreendida (AgRg no HC 619.206/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/02/2021, DJe 26/02/2021).
+Ante o exposto, dou provimento parcial ao recurso especial para alterar a pena final atribuída ao recorrente ao total de5 anos, 6 meses e 20 dias de reclusão, e 555 dias-multa, mantendo-se, no mais, o acórdão condenatório.
+Publique-se.
+Intimem-se.
