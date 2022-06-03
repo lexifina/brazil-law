@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelaUNIÃOcontra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, a parte autora, em 11/9/2019, interpôsagravo de instrumento em face da decisão que, em cumprimento de sentença contra a Fazenda Pública, determinou a devolução de valores levantados pela parte exequente, na quantia de R$ 266.735,37 (duzentos e sessenta e seis mil, setecentos e trinta e cinco reais e trinta e sete centavos).
+O TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOdeuprovimento ao agravo de instrumento da parte autora, ficando consignado que até que se firme o posicionamento a ser adotado em relação à RAV pela Terceira Turma, inclusive quanto ao fato de serem ou não devidos tais valores, não é razoável que se exija a devolução do montante já sacado pela parte exequente.
+O referido acórdão foi assim ementado, in verbis:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. UNIÃO. DEVOLUÇÃO DE VALORES. RAV.
+Até que se firme o posicionamento a ser adotado em relação à RAV pela Terceira Turma, inclusive quanto ao fato de serem ou não devidos tais valores, não é razoável que se exija a devolução do montante já sacado pela parte exequente.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, UNIÃOinterpôs recurso especial, apontando violação dos arts.294, 300 e 1.022 do CPC/15; dos arts. 46, §§ 1º a 3º, e 114, ambos da Lei nº 8.112/90; do art. 9ºda Lei nº 8.460/92; do art. 29 da Lei nº 11.094/05; dos arts. 876, 884, 885 e 886, todos do Código Civil; dos arts. 53, 54 e 59, todos da Lei nº 9.784/99; do art. 1º, § 3º, da Lei nº 8.437/92; e dos arts. 21 e 28 da Lei nº 9.868/99.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base nos enunciados nº 7 da Súmula do STJ e nº 284 da Súmula do STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relatorMinistro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator MinistroMauro Campbell Marques, DJe de 10/9/2014.
+Quanto à devolução dos valores, assim se manifestou a Cortea quo, à fl. 50,in litteris:
+Da leitura das peças do cumprimento de sentença de origem, vê-se que este tem por objeto diferenças vencimentais a título de Retribuição Adicional Variável - RAV, reconhecidas na Ação Coletiva nº 0002767-94.2001.01.3400 (2001.34.00.002765-2).
+Com efeito, não foi deferida a medida suspensiva postulada no Agravo de Instrumento nº 5016587-96.2019.4.04.0000, tendo sido, apenas, determinada a intimação da contraparte para apresentação de resposta ao recurso, para agilizar o trâmite do mesmo enquanto se aguarda definição acerca de projeto de conciliação que envolve as verbas executadas.
+De outro lado, além de estar sendo desenvolvido o mencionado projeto de conciliação, versando sobre os processos que têm por objeto as diferenças da Retribuição Adicional Variável devidas aos Técnicos do Tesouro Nacional, não há, até o momento, posicionamento definitivo acerca da matéria.
+Desta sorte, até que se firme o posicionamento a ser adotado em relação à RAV pela Terceira Turma, inclusive quanto ao fato de serem ou não devidos tais valores, não é razoável que se exija a devolução do montante já sacado pela parte exequente.
+Isto posto, defiro o pedido de efeito suspensivo postulado, para suspender a devolução dos valores já recebidos pela parte agravante/exequente, nos termos da fundamentação."
+Com efeito, pela análise das razões do recurso especial interposto pelo ente público, verifica-se que o argumento principal utilizado pela Corte de origem de forma suficiente para manter a decisão proferida,mais especificamente, a necessidade de se aguardar a definição pela Terceira Turma daquele Tribunal acerca das diferenças da Retribuição Adicional Variável - RAV -, não foi frontalmente rebatido,o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
