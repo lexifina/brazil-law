@@ -1,0 +1,13 @@
+DECISÃO
+FRANCISCO RENTAO DE OLIVEIRA e LENON ROQUE ALVES DOMINGOSopõem embargos de declaração contra decisão de fls. 213-214, por meio da qual indeferi liminarmente o habeas corpus.
+Em suas razões, os insurgentes apontam que haveria omissão nodecisumembargado, porquanto teria deixado de se manifestar acerca de pleito subsidiário de "afastamento da qualificadoradescrita no artigo 121, § 2º, inciso III, do Código Penal, diante da sua manifesta improcedência" (fl. 218).
+Argumentam, ainda, que, "com a manutenção da segunda pronúncia que incorreu em reformatio in pejus indireta, entende-se que a d. Autoridade Coatora se debruçou sobre a quaestio juris" (fl. 218).
+Requerem "o acolhimento destes aclaratórios, ainda que lhe sejam prestados efeitos infringentes, para restabelecer o trâmite do presente writ, com a consequente análise do pedido liminar de sobrestamento do processo de origem" (fl. 218).
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, entendo que assiste razão parcial aos embargantes. De fato, odecisumimpugnado deixou de se manifestar acerca do pedido subsidiário: "para que seja afastada a qualificadora descrita no artigo 121, § 2º, inciso III, do CP, diante de sua manifesta improcedência" (fl. 9).
+Por tal razão, os aclaratórios devem ser acolhidos, em parte, a fim de sanar a referida omissão, mantida a conclusão da decisão combatida.
+Com efeito, a despeito de constar na inicial destewrito referido requerimento, a defesa não indicou as razões pelas quais entende ser manifestamente improcedente a qualificadora referente ao emprego de meio que possa resultar perigo comum, circunstânciaque inviabiliza o exame do pleito.
+Quanto ao ponto remanescente, noto que a irresignação dos embargantes se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque, de fato, a matéria alusiva à nulidade por indevidareformatio in pejusnão foi tratada pelo Tribunal de origem, o que impede sua análise por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+À vista do exposto, acolho parcialmenteos embargos de declaração, sem atribuição de efeitos infringentes, para sanar a omissão indicada pelos insurgentes.
+Publique-se e intimem-se.
