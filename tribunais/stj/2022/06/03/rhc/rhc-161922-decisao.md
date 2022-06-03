@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpusinterposto por Luiz Gustavo de Oliveira Siqueiracontra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (HC n.1.0000.22.034563-1/000 - fls. 164/174), que manteve incólume a segregação cautelar decretada pelo Juízo de primeiro grau, em razão da suposta prática do crimede roubo circunstanciado (Processo n. 5019047-91.2022.8.13.0024 - fls. 39/41).
+O recorrentealega falta de fundamentação idônea no decreto prisional. Argumenta, em resumo, que, a despeito da alegada reincidência,não é a condenação em um crime contra patrimônio, contra a vida, contra saúde pública, e, sim, os crimes dos arts.298 e 306 da Lei n. 9.503/1997. Além disso, a gravidade do crime é sempre uma condição necessária, mas nunca uma condição suficiente para a decretação e manutenção de prisão preventiva (fl. 183).Aduz que não há nenhum fundamento razoável para não se aplicar medida cautelar diversa da prisão preventiva, como por exemplo, o monitoramento eletrônico; além disso, o réu possui residência fixa, além de ser primário (fl. 184).
+Nesses termos, pretende a revogação da custódia, com ou sem a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 320/321), informações prestadas (fls. 325/326 e 333/565),o Ministério Público Federal opinou pelo não provimento do recurso (fls. 567/571).
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo de primeiro grau decretou a prisão preventivacom base em fundamentação idônea e harmônica com o entendimentodesta Casa, qual seja,a reincidência do ora recorrente e a gravidade concreta do crime de roubo duplamente majorado.
+Ora, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) -(HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Ademais, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias suanecessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS.ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. REINCIDÊNCIA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
