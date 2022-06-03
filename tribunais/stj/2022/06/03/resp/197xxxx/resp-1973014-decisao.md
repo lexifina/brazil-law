@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ELISABETH PEDRO DOS SANTOS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 23/06/2016.
+Concluso ao gabinete em: 13/12/2021.
+Ação: cobrança, ajuizada por ELISABETH PEDRO DOS SANTOS, em face de BANCO DO BRASIL S/A e ECONOMUS INSTITUTO DE SEGURIDADE SOCIAL.
+Sentença: julgou improcedente a demanda, resolvendo o mérito com fundamento no artigo 269, I, segunda parte do CPC, e, ainda, condenou a recorrente ao pagamento das custas e dos honorários, estes fixados em R$ 1.000,00 para cada recorrido, com fundamento no artigo 20, § 4º do Código de Processo civil, suspendendo-se a exequibilidade da sucumbência enquanto perdurar o estado de pobreza que autorizou a concessão da justiça gratuita, nos termos do art. 12 da Lei nº 1.060/50.
+Acórdão: negou provimento à Apelação interposta pela recorrente, nos termos da seguinte ementa:
+"Previdência privada - Suspensão processual descabida - Ilegitimidade passiva da instituição financeira reconhecida de ofício - Inexistência de solidariedade com a patrocinadora do plano - Ação julgada extinta sem resolução de mérito contra o Banco do Brasil S/A - Saldamento de plano de previdência em caráter irrevogável e adesão a novo plano de previdência - Complementação da aposentadoria indevida sem a correlata contribuição - Inadmissibilidade - Apelo improvido." (e-STJ fl. 1170)
+Embargos de Declaração: opostos, pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 368, 369, 423, 424, CC/02, 1.022, I, II, CPC/15, 47, 51, IV, XV, Lei 8.078/90, 28, I, Lei 8.212/91, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) o que se pretende é o recebimento das diferenças decorrentes do recálculo da base de composição salarial da recorrente, com a integração de todas as verbas de natureza salarial reconhecidas na reclamatória trabalhista, incluindo as horas extras que compõem a base de cálculo da complementação de aposentadoria, de acordo com o Plano de Benefícios Definidos (BD), mostrando-se devidas de acordo com a previsão do artigo 12, Inciso VII, do Regulamento Geral do recorrido; e, ii) apesar de a recorrente ter optado por aderir ao PrevMais e efetuar o saldamento do plano de benefício definido, este fato não impede a discussão acerca do salário real de benefício do plano anterior, pois segundo o regimento do próprio PrevMais, o benefício saldado da optante seria proporcionalmente acumulado (art. 42, § 2º); e, iii) a relação de previdência privada fechada ou aberta se sujeita aos princípios do Código de Defesa do Consumidor (Súmula 321 do STF), uma vez que o plano tem a natureza de um verdadeiro contrato de adesão e sua interpretação deverá ser feita da maneira mais favorável ao consumidor; e, iv); a questão do custeio deverá ser analisada a partir da aplicação de princípios jurídicos, pois não poderão os recorridos alegarem ausência de custeio, já que tal não ocorreu por conta das ilegalidades praticadas pelo banco recorrido.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da concordância da recorrente com os valores recebidos quando do saldamento do plano anterior, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 368, 369, 423, 424, CC/02, 47, 51, IV, XV, Lei 8.078/90, 28, I, Lei 8.212/91, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "infere-se do teor da preambular, do documento juntado às fls. 31, das contestações e das razões recursais, que a recorrente, em 31 de julho de 2006, concordou com o saldamento do plano de previdência privada que integrava, nos moldes do artigo 58 e parágrafos do Regulamento vigente, deixando de recolher as contribuições previdenciárias desde então", bem como de que "a recorrente aderiu a um novo plano de previdência, denominado Prevmais, dando quitação aos valores recebidos atinentes ao plano anterior", além de que "a recorrente deixou de recolher as contribuições previdenciárias quando se desligou do antigo plano", assim também de que "é inadmissível a percepção de suplementação de benefício sem a correlata contribuição", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (e-STJ fls. 927) para R$ 3.000,00, observada a concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial conhecido em parte e, nessa extensão, não provido.
