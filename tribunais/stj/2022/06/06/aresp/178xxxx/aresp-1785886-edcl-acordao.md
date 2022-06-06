@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SIEMENS HEALTHCARE DIAGNÓSTICOS LTDA. contra acórdão da Primeira Turma assim ementado:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+A parte alega, em resumo, omissão no julgado embargado quanto "ao fato de que o e. STF reconheceu tacitamente o cabimento de mandados de segurança para discutir a exigibilidade do DIFAL/ICMS objeto da ação de origem", (e-STJ fl. 699), no julgamento do Tema 1.093 do STF, pois a Corte Excelsa teria selecionado, como processo representativo da controvérsia, recurso extraordinário originário de writ, adentrando no mérito da questão para afastar a cobrança do DIFAL/ICMS.
+Acrescenta que "de mesmo modo, a matéria, inclusive, já foi julgada pelo STJ pela sistemática dos recursos repetitivos no REsp 1.119.872/RJ (Tema 430/STJ), pelo qual foi expressamente reconhecida a possibilidade de invocação de inconstitucionalidade de norma como fundamento para o pedido" (e-STJ fl. 700).
+Impugnação apresentada às e-STJ fls. 715/717.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015).
+2. Hipótese em que não há no acórdão embargado nenhuma situação que dê amparo ao recurso integrativo, pois o caso dos autosnão se adequa aos precedentes obrigatórios apontados pelo recorrente, o que afasta a alegação de omissão decorrente da inobservância desses.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), vícios esses inexistentes na espécie.
+A fundamentação empregada no acórdão recorrido foi clara ao expor o motivo pelo qual se manteve a decisão agravada em que foi negado provimento ao agravo interno. Entretanto,em atenção àargumentaçãotrazida peloembargante, faço as seguintes ponderações.
+Quanto à alegação de que o Supremo Tribunal Federal teria, de forma tácita, no julgamento do Tema 1.093 do STF, reconhecido que o mandado de segurança serve para debater a temática, ao selecionar, comorepresentativos da controvérsia, recursos extraordinários originários dewrit,cabe registrar que, no caso dos autos, o recurso especial veio pautado exclusivamente na violação do art. 1º da Lei n. 12.016/2009, dispositivo que, ao contrário do que sustenta oembargante, não foi objeto de exame pelo Supremo Tribunal Federal.Ou seja:a Corte Excelsa não enfrentou a questão relacionada ao cabimento do mandado de segurança em que se aponta, como causa de pedir, a declaração de inconstitucionalidade do Convênio ICMS n. 93/2015 e da Lei estadual n. 8.041/2015, por meio dos quais teria sido instituída a exigência do diferencial de alíquota de ICMS sobre operações originadas em outros Estados da Federação destinadas a consumidores finais não-contribuintes do ICMS situados no Estado destinatário.
+Ademais, o Tema repetitivo 430 do STJ (REsp 1.119.872/RJ) trataespecificamentedo não cabimento demandado de segurança quando se questionaconstitucionalidade da alíquota de 25% do ICMS sobre operações relativas à aquisição de energia elétrica e serviços de telecomunicações, por constituir impetração contra lei em tese. Em outras palavras,defineque, diante da particularidade do caso, aplica-se o entendimento consubstanciado na Súmula 266 do STF.
+Como se vê, a situação enfrentada nos autos, em que se pretende afastar a cobrança do DIFAL/ICMS pelo Estado de Sergipe, é distinta daquela analisada no referido julgado submetido ao rito dos recursos especiais repetitivos.
+Nessecontexto, não háfalar em omissão no julgado embargado em razão da nãodeterminação de devolução dos autos ao TJSE para exercício do juízo de conformação com o Tema 1.093 do STF nem tampouco por não ter sidoaplicadaa tese jurídica fixada no Tema 430 do STJ, posto que esses precedentesnão se adequam aopresente caso.
+Forçoso convir que os argumentos defendidos, na verdade, manifestam o inconformismo do embargante com o desfecho do recurso anterior, sendo certo que eventual reforma do julgado embargado não condiz com a natureza integrativa dos aclaratórios.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO DO JULGADO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, obscuridade e erro material existente no julgado.
+2. A parte embargante insiste no exame da matéria relativa à "necessidade de haver uma prévia oitiva da parte acerca do julgamento antecipado" da lide, para se manifestar sobre possível produção de provas. Contudo, como restou consignado no acórdão embargado e na decisão agravada, o referido tema não foi examinado pelo aresto objeto dos embargos de divergência, diante do óbice da Súmula 7/STJ.
+3. Pretende o embargante, portanto, a revisão do julgado que lhe foi desfavorável, a fim de que as questões suscitadas sejam solucionadas de acordo com as teses que julgam corretas. Tal pretensão, entretanto, não se coaduna com a finalidade dos embargos de declaração, que vincula a demonstração de alguns dos vícios previstos no art. 1.022 do CPC-2015.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1185079/AM, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 13/10/2016).
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. 1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional. 2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC. 3. Embargos de declaração rejeitados. (EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 24/02/2016, DJe 04/03/2016)
+Por fim, advirto o embargante que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
