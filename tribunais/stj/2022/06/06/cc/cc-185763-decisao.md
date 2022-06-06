@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, instaurado por TRANSBRASILIANA TRANSPORTE E TURISMO LTDA - EM RECUPERAÇÃO JUDICIAL E OUTRO, apontando como suscitados o r. Juízo de Direito da 4ª Vara Cível de Goiânia/GO, onde se processa sua recuperação judicial (processo nº 0115033.97.2016.8.09.0051), e o Juízo da Vara do Trabalho de Açailândia/MA, onde tramita a reclamação trabalhista n.º 0016633-85.2017.5.16.0013, ajuizada por DANIEL PEREIRA COSTA.
+Alegam que o r. Juízo de Direito da 4ª Vara Cível de Goiânia/GO deferiu pedido de processamento da recuperação judicial, pelo que, desde então, este seria competente para decidir sobre o pagamento de créditos sujeitos aos efeitos da recuperação.
+Aduzem, contudo, que perante o r. juízo suscitado tramita execução provisória de crédito trabalhista a despeito da atratividade do juízo da recuperação judicial.
+Pedem, em caráter liminar, o sobrestamento da referida execução trabalhista e, no mérito, a declaração de competência do juízo da recuperação judicial da 4ª Vara Cível de Goiânia/GO.
+Às fls. 377/379, este signatário deferiu, em parte, o pedido liminar.
+Informações prestadas às fls. 392/549.
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão. (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020)
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. A matéria versada no presente conflito é iterativa no âmbito da Segunda Seção que, em hipóteses similares, reconhece a competência do juízo universal para julgar as causas em que estejam envolvidos interesses e bens da empresa em recuperação, inclusive para o prosseguimento dos atos de execução, pois o destino do patrimônio da suscitante, em processo de recuperação judicial, não pode ser afetado por decisões prolatadas por juízo diverso daquele competente para a recuperação, sob pena de prejudicar o funcionamento da empresa, comprometendo, assim, o sucesso do plano de recuperação, ainda que transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei n.º 11.101/2005), encontrando-se, portanto, demonstrada a plausibilidade jurídica do pedido.
+Nesse sentido, confira-se:CC 146.657/SP, Rel. Min. MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016; RCD no CC 131.894/SP, Rel. Min. RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/02/2014, DJe 31/03/2014; AgInt no CC 146.036/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15 c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo da4ª Vara Cível de Goiânia/GO.
+Publique-se. Intimem-se.
