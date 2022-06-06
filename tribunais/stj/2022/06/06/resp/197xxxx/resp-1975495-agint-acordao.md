@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por CERES FUNDAÇÃO DE SEGURIDADE SOCIAL, contra decisão unipessoal que conheceu parcialmente do recurso especial interposto pelo agravado e, nesta parte, deu-lhe provimento.
+Agravo de instrumento: interposto por ISMAR DO NASCIMENTO, em face da agravante, contra decisão proferida nos autos de ação ordinária, em fase de cumprimento de sentença que: reconheceu excesso no cumprimento de sentença e delimitou a obrigação de restituição dos valores ao período de 08/03/1999 a 29/09/2010; determinou a correção dos valores pelo INPC até a data da oferta da impugnação e, a partir desta, determinou que o saldo devedor deverá corrigido pela SELIC; condenou a agravante ao pagamento da quantia de 10% a título de honorários advocatícios sucumbenciais, em face do acolhimento parcial da impugnação; e aplicou a multa 10% sobre o montante da condenação, na forma do disposto no artigo 523, § 1º, do CPC/15, por não ter ocorrido o cumprimento espontâneo da obrigação de pagamento no prazo legal.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravado, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL, PROCESSUAL CIVIL E PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO DIANTE DA PRECLUSÃO DA MATÉRIA EM DISCUSSÃO. REJEIÇÃO. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. DECISÃO LIMINAR. PROVISORIEDADE. BENEFÍCIO PREVIDENCIÁRIO. REPETIÇÃO DE VALORES. POSSIBILIDADE. CORREÇÃO MONETÁRIA.
+1. Não há que se falar em não conhecimento do agravo de instrumento se as questões apresentadas no recurso foram apreciadas na decisão agravada. Preliminar rejeitada.2. A determinação de suspensão do processamento de todos os processos que versem acerca da questão submetida à revisão pertinente ao Tema 692/STJ é inaplicável à espécie, na medida em que já houve o trânsito em julgado do título objeto do cumprimento de sentença, e o caso dos autos não trata de beneficiário do Regime Geral da Previdência Social - RGPS.
+3. O prazo prescricional subordina-se à teoria da actio nata, segundo a qual a prescrição não pode correr antes de o titular do direito ter conhecimento do ato ou fato do qual decorre seu direito de exigir. 3.1. Na hipótese em tela, o direito alegado pela exequente tornou-se plenamente conhecido em toda sua extensão, imutável e certo apenas com o trânsito em julgado do acórdão que revogou a decisão liminar, data que deve ser adotada como termo inicial do prazo prescricional
+4. Uma vez que a legislação não indica prazo prescricional específico para a pretensão de ressarcimento de valores pagos por força de decisão judicial liminar que não foi posteriormente confirmada, incide a regra do prazo geral de 10 (dez) anos estabelecido no art. 205 do Código Civil.
+5. As verbas abrangidas pelo cumprimento de sentença originário decorrem de provimento liminar marcado pela provisoriedade e, ainda que tenham caráter alimentar, é devida a restituição, tanto em razão da reversibilidade da medida, de que as partes tinham ciência, como em atenção à vedação ao enriquecimento sem causa. Precedentes do STJ.
+6. A jurisprudência deste Tribunal de Justiça entende que o índice que melhor reflete a desvalorização da moeda e que deve ser utilizado como fator de correção é o INPC.
+7. Agravo de instrumento desprovido.
+Decisão monocrática: conheceu parcialmente do recurso especial interposto pelo agravado e, nesta parte, deu-lhe provimento, devido à incidência da Súmula 568/STJ.
+Razões do agravo: Nas razões do presente recurso a agravante argumenta que a sua pretensão seria de restituição de pagamentos indevidos em sede de previdência privada, decorrentes da revogação da tutela antecipada, bem como que haveria causa jurídica, de modo que o art. 206, §1º, IV, do CC/02 seria inaplicável. Assim, por não haver prazo específico no CC/02, deveria ser aplicada a prescrição decenal.
+Aduz ainda que o art. 206, §1º, IV, do CC/02 não teria sido prequestionado (Súmula 211/STJ), que incidiria a Súmula 7/STJ, que o recurso especial teria se baseado em fundamentos constitucionais e que deveria ser aplicado o entendimento de que o termo inicial seria o trânsito em julgado da última decisão.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Agravo de instrumento interposto contra decisão que reconheceu excesso no cumprimento de sentença e delimitou o período relativo à obrigação de restituição dos valores pagos em virtude de concessão de tutela antecipada.
+2. A pretensão de ressarcimento de valores pagos por força de tutela antecipada, posteriormente revogada, submete-se ao prazo prescricional trienal previsto no art. 206, § 3º, IV, do CC/2002, cujo termo inicial é a data do trânsito em julgado da sentença proferida na ação principal. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo interno no recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu parcialmente do recurso especial interposto pelo agravado e, nesta parte, deu-lhe provimento, devido à incidência da Súmula 568/STJ.
+Veja-se o que constou na decisão quanto ao ponto (e-STJ fls. 537/543):
+Recurso especial: alega violação dos arts. 489, 523 e 1.022, do CPC/15 e dos arts. 189, 190, 205, 206, §3º, II e IV, e 1.707, do CC/02, bem como dissídio jurisprudencial.
+(..)
+- Julgamento: CPC/15
+(..)
+- Do prazo prescricional aplicável à espécie e do termo inicial (Súmula 568/STJ)
+A jurisprudência do STJ também perfilha entendimento no sentido de que a pretensão de ressarcimento de valores pagos por força de tutela antecipada, posteriormente revogada, como na hipótese dos autos, submete-se ao prazo prescricional trienal previsto no art. 206, § 3º, IV, do CC/2002, cujo termo inicial é a data do trânsito em julgado da sentença proferida na ação principal.
+Nesse sentido: REsp 1.645.759/SC, 3ª Turma, DJe de 26/04/2021; REsp 1685603/RS, 3ª Turma, DJe de 27/09/2019; AgInt no REsp 1.678.210/SP, 3ª Turma, DJe de 02/08/2019; AgInt nos EDcl no REsp 1.557.342/RS, 4ª Turma, DJe de 22/03/2019.
+Na hipótese, o Tribunal de origem entendeu que o prazo prescricional seria de 10 anos (e-STJ, fls. 346/347), em dissonância com o entendimento dominante sobre o tema nesta Corte.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para determinar à Corte de origem a aplicação do prazo prescricional trienal, analisando os termos inicial e final e eventuais hipóteses de interrupção.
+1. Da Súmula 568/STJ
+Conforme consignado pelo Tribunal de origem, a hipótese dos autos versa sobre a pretensão de ressarcimento de valores pagos por força de liminar. Ao decidir acerca do prazo prescricional aplicável, o Tribunal de origem consignou o seguinte:
+II) PRESCRIÇÃO DOS VALORES PAGOS DURANTE A VIGÊNCIA DA DECISÃO LIMINAR - TERMO INICIAL E PRAZO APLICÁVEL
+O agravante alega que, distintamente do que entendeu o Juízo de Primeiro Grau, a pretensão de a agravada reaver os valores pagos decorrentes da tutela antecipada nasceu no momento em que referida tutela foi revogada, ou seja, em 29.09.2010.
+Não lhe assiste razão.
+O prazo prescricional subordina-se à teoria da actio nata, segundo a qual a prescrição não pode correr antes de o titular do direito ter conhecimento do ato ou fato do qual decorre seu direito de exigir.
+O direito alegado pela agravada, que sustentou não serem devidos os reajustes nos benefícios previdenciários, tornou-se plenamente conhecido em toda sua extensão, imutável e certo apenas com o trânsito em julgado do acórdão que revogou a decisão liminar, data que deve ser adotada como termo inicial do prazo prescricional, conforme entendeu o Juízo de Primeiro Grau.
+Inobstante o entendimento externado por esta Relatoria por ocasião da decisão que apreciou a concessão de efeito suspensivo, o prazo quinquenal previsto no art. 75, da Lei Complementar n. 109/2001, é inaplicável porque o caso em análise não versa sobre o direito do beneficiário às prestações não pagas nem reclamadas na época própria, mas sim sobre a repetição do pagamento de benefício previdenciário com reajustes a maior, realizados em decorrência de decisão liminar que não foi posteriormente confirmada.
+O Superior Tribunal de Justiça perfilha orientação no sentido de que o art. 206, § 3º, inc. II, do Código Civil, é inaplicável à pretensão de contribuições indevidamente pagas, haja vista a existência de causa jurídica para o enriquecimento sem causa.
+Uma vez que a legislação não indica prazo prescricional específico para a pretensão de ressarcimento de valores pagos por força de liminar, incide a regra do prazo geral de 10 (dez) anos estabelecido no art. 205 do Código Civil.
+Proposto o cumprimento de sentença originário aos 12.03.2020, verificado o termo inicial do prazo prescricional de 10 (dez) anos em setembro do ano 2015, conclui-se não ter ocorrido a prescrição da pretensão da agravada. (e-STJ, fls. 346/347)
+No caso específico dos autos, contudo, relacionado à pretensão de ressarcimento de valores pagos por força de liminar, em razão da inexistência de prazo legal prescricional expresso, entendeu-se pela incidência do prazo geral de dez (10) anos previsto no art. 205 do Código Civil, de modo que não resta configurado qualquer erro material. (e-STJ, fls. 398/399)
+Com efeito, não há qualquer equívoco na aplicação da Súmula 568/STJ, tendo em vista que, de fato, o acórdão proferido pelo TJ/DFT, ao concluir pela aplicação do prazo prescricional decenal na hipótese de ressarcimento de valores pagos por força de liminar (e-STJ, fls. 346/347 e 398/399), divergiu do entendimento adotado por esta Corte Superior de que a pretensão de ressarcimento de valores pagos por força de tutela antecipada, posteriormente revogada, como na hipótese dos autos, submete-se ao prazo prescricional trienal previsto no art. 206, § 3º, IV, do CC/2002, cujo termo inicial é a data do trânsito em julgado da sentença proferida na ação principal.
+Nesse sentido: REsp 1.645.759/SC, 3ª Turma, DJe de 26/04/2021; REsp 1685603/RS, 3ª Turma, DJe de 27/09/2019; AgInt no REsp 1.678.210/SP, 3ª Turma, DJe de 02/08/2019; AgInt nos EDcl no REsp 1.557.342/RS, 4ª Turma, DJe de 22/03/2019.
+Inviável, portanto, a inaplicabilidade da Súmula 568/STJ.
+Ressalte-se ainda que, diante da fundamentação acima, não prospera a alegação da agravante de que, quanto ao ponto, incidiriam as Súmulas 7 e 211/STJ e que o recurso especial teria se baseado em fundamentos constitucionais. Da mesma forma, resta clara a aplicabilidade do entendimento desta Corte Superior à hipótese sob julgamento.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
