@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de segundos embargos de declaração opostos contra acórdão, assim ementado (fl. 1.027):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Registra-se que os embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+O embargante aponta omissão no acórdão embargado quanto aos argumentos relativos à tese de violação dos arts. 489 e 1.022, I e II, do CPC/2015, especificamente em relação à não manifestação pelo Tribunal de origem a respeito da não aplicação da modulação operada pela Suprema Corte, no julgamento do RE 593.849/MG, aos Estados de São Paulo e Pernambuco. De outro lado, alega que o tema não demanda interpretação pelo STJ do precedente firmado em sede de repercussão geral pelo STF, mas apenas a sua aplicação ao caso concreto, sendo viável a análise da violação do art. 927, III, do CPC/2015.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1.Registra-se que os embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2.Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3.Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4.Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Como já consignado no acórdão ora embargado, houve expressa manifestação a respeito do não acolhimento da tese de violação dos arts. 489, 927, III e1.022 do CPC/2015, conforme se observa do seguinte trecho(fl. 1.002):
+De início, não há falar em violação dos arts. 489 e 1.022 do CPC/2015, tendo em vista que órgão julgador, de forma clara e coerente, externou fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No tocante à tese de violação do art. 927, III, do CPC/2015, verifica-se que a parte recorrente pretende que seja analisada por esta Corte a correta aplicação de precedente firmado em repercussão geral pelo STF. Ocorre que tal medida enseja análise de matéria constitucional, o que é vedado em sede de recurso especial.
+Ademais, registre-se que o Tribunal de origem expressamente se pronunciou a respeito da tese de inaplicabilidade da modulação dos efeitos do RE593.849/MG ao Estado de São Paulo, ao consignar que (fls. 547/548):
+"(..) Do mesmo modo, correto o indeferimento do pedido de restituição dos recolhimentos em relação ao período anterior ao julgamento do RE nº 593.849, porquanto restou consignado expressamente na referida decisão que seus efeitos operariam para o futuro:
+"6. Altera-se parcialmente o precedente firmado na ADI 1.851, de relatoria do Ministro Ilmar Galvão, de modo que os efeitos jurídicos desse novo entendimento orientem apenas os litígios judiciais futuros e os pendentes submetidos à sistemática da repercussão geral"
+E não há que se atribuir efeito vinculante às discussões laterais transcritas no bojo do Acórdão, visto que os efeitos do precedente judicial são extraídos apenas de sua ratio decidendi, que, no presente caso, não segregou o Estado de São Paulo da limitação temporal determinada no julgado.
+Veja-se que, ao tempo do julgamento do RE nº 593.849, o Estado de São Paulo já havia restringido, de forma significativa, o direito à devolução das diferenças entre a base de cálculo efetiva e a presumida, em razão da regra imposta pelo §3º, do artigo 66-B, da Lei nº 6.374/89; e a razão de ser da presente ação não é outra senão a vigência dessa regra, que, afora por exceções meramente hipotéticas, instituíra regime que igualava o Estrado de São Paulo àqueles que não possuem legislação alguma permitindo essa operação. Alcançados os demais Estados pela modulação, não há como excluir de seu âmbito de incidência o Estado de São Paulo.
+(..)
+Por fim, quanto ao pedido de atualização monetária dos eventuais valores a serem restituídos, tem-se que é admitida a sua incidência no caso em que for realizada a repetição pela via do precatório, na forma determinada pelo Supremo Tribunal Federal no Tema nº 810, ressalvada a aplicação imediata, ao caso, de qualquer modulação operada pelo Pretório Excelso em seu julgado.
+Entretanto, em relação à atualização de créditos escriturais, o artigo 38, §2º, da Lei nº 6.374/89, veda expressamente a sua incidência, porquanto dispõe que a escrituração dos créditos será pelo seu valor nominal, não havendo, portanto, qualquer previsão legal que ampare o pedido da autora nesse caso."
+Como se vê, ao contrário do que alega a embargante, não há qualquer omissão no v. Acórdão que exija declaração, tendo em vista que restaram devidamente consignados no julgado os motivos pelos quais a modulação operada no julgamento do RE nº 593.849/MG deve incluir em seu âmbito de incidência o Estado de São Paulo, bem como não há possibilidade de aplicação de correção monetária a créditos escriturais.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido. O que ocorreu, na verdade, foi julgamento contrário aos interesses da parte recorrente.
+Ante o exposto, rejeito os embargos de declaração.
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+É como voto.
