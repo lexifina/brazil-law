@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 843):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RESPONSABILIDADE CIVIL OBJETIVA. FUNDAMENTO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+O agravante alega quenão há deficiência de fundamentação do recurso quanto à violação dos artigos 489, §1º, IV, e 1.022, II do CPC/2015, que se encontra respaldada na ausência de manifestação da Corte de origemsobre os artigos alegados como violados no recurso especial, quais sejam: artigos 186, 927,951 e 43 do CC (responsabilidade do ente público); artigos 944, parágrafo único, e 884do CC (valor do dano moral) e artigo 477, §1º, do CPC/2015 (intimação para manifestação sobre o laudo pericial).
+Aponta que a ausência de prequestionamento do artigo 951 do CC relaciona-se com a negativa de prestação jurisdicional apontada, de modo que ou se reconhece que os referidos dispositivos foram prequestionados ou deve ser provido o recurso para determinar que o Tribunal a quo manifeste-se expressamente sobre a questão.
+Sustenta não incidir o óbice da Súmula 7/STJcom relação à violação dos artigos 477, §1º, do CPC/2015 e 944 e 884 do CC. Isso porque, segundo aduz: (a) a constatação da falta de intimação para manifestação sobre o laudo pericial não importa em modificação do panorama fático, mas mera qualificação jurídica aos fatos delimitados no Tribunal de origem; e (b)oSTJ exerceo controle das indenizações elevadas.
+Por fim, assevera quenão se pretende a análise de violação de norma constitucional, mas aviolação do artigo 43 do Código Civil, que prevê a responsabilidade das pessoas jurídicas de direito público, sendo certo que em caso de erro médico somente estará presente o nexo causal entre o resultado e a conduta médica quando se estiver caracterizada a imperícia, a imprudência ou a negligência (artigos 186, 927 e 951 do CC).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. ERRO MÉDICO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.CERCEAMENTO DE DEFESA E VALOR DA INDENIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.RESPONSABILIDADE CIVIL OBJETIVA. FUNDAMENTO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+4. A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que houve intimação da parte quanto ao laudo pericial ede que o valor fixado a título de indenização atende à dupla vertente da reparação civil (reprimenda pedagógica do ofensor e compensação do ofendido), considerando ainda a capacidade econômica das partes.
+5. Assimdelineados os fatos, inviável rever a conclusão do Tribunal a quo, no âmbito do recurso especial, sem o reexame da matéria fático-probatória. Aplicação da Súmula 7/STJ.
+6. Acontrovérsia relativa à responsabilidade objetiva do Estado foi dirimida com fundamento constitucional, especificamente com base no artigo 37, § 6º, da Constituição Federal, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+7. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados noagravo internonão se vislumbram razões para reformar a decisão agravada.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Contudo, verifica-se queo recorrente, ora agravante,limitou-se a afirmar de forma genérica a ofensa aosartigos 489, §1º, IV, e 1.022, II do CPC/2015,sem demonstrar qual questão de direito, relacionada aos dispositivos legais elencados,não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem.
+É dizer, o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+O agravante sustenta ter atendido o requisito do prequestionamento.
+O prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se pronunciou a respeito do artigo951 do CC eda tese indicada no recurso especial, não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+No que diz respeito aoart. 477, §1º, do CPC, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que houve intimação da parte quanto ao laudo pericial (fl. 673):
+De forma diversa do alegado pelo Município Apelante, após a juntada do laudo pericial, foi proferido despacho no indexador 436 para que as partes se manifestassem sobre o laudo de indexador 425.
+A intimação eletrônica do Segundo Apelante consta no indexador 438, certificado no indexador 442.
+Logo, não assiste razão ao Município Apelante na questão levantada.
+De semelhante maneira, fixou que o valor fixado a título de indenização atende àdupla vertente da reparação civil (reprimendapedagógica do ofensorecompensação do ofendido), considerando ainda a capacidade econômica das partes (fls. 675-676).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre as questões demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DE CABO DE ENERGIA ELÉTRICA. MORTE DE MENOR POR ELETROCUSSÃO. DEVER DE INDENIZAR DA CONCESSIONÁRIA. VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. A modificação do entendimento firmado no sentido de que a concessionária é responsável pelo evento danoso, na estreita via do recurso especial, encontra óbice na Súmula 7 desta Corte 2. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ. A parte agravante não demonstrou que o valor arbitrado no caso seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.900.659/PI, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 28/4/2022)
+Por fim, da leitura do acórdão recorrido, verifica-se quecontrovérsia relativa à responsabilidade objetiva do Estadofoi dirimida com fundamento constitucional, especificamente com base noartigo 37, § 6º,da Constituição Federal, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
