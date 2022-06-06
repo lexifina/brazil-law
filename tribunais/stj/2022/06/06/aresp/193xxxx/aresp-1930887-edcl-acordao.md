@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GAFISA SPE-85 EMPREENDIMENTOS IMOBILIÁRIOS LTDA, contra acórdão que, nos termos de minha relatoria, por unanimidade, não foi provido o agravo interno, assim ementado (e-STJ, fl. 580):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO NÃO PROVIDO.
+Em suas razões recursais a parte alega que "demonstrou-se de forma expressa que existe distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula n. 83 do STJ, já que a decisão agravada apega-se apenas aos lucros cessantes por atraso na entrega da obra e resta inobservada que também é arguida a tese, em tópico específico do recurso especial, de impossibilidade de cumulação dos lucros cessantes com clausula penal." (e-STJ, fl. 590).
+Assevera, ainda, que o "considerando que o acórdão embargado é, data vênia, omisso quanto a impugnação específica a incidência da súmula 83/STJ ou pelo menos obscuro, já que não se apresentam os fundamentos do porque não se considera a impugnação feita pela Embargante, como feita de forma efetiva, individualizada, específica, e fundamentada com a distinção clara entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula n.83 do STJ" (e-STJ, fl. 590).
+Sem impugnação, certidão de fl. 595.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+Eminentes colegas, os presentes embargos de declaração não devem ser acolhidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Nas razões do declaratório, a parte afirmou que "o acórdão embargado é, data vênia, omisso quanto a impugnação específica a incidência da súmula 83/STJ ou pelo menos obscuro, já que não se apresentam os fundamentos do porque não se considera a impugnação feita pela Embargante, como feita de forma efetiva, individualizada, específica, e fundamentada com a distinção clara entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula n.83 do STJ" (e-STJ, fl. 590).
+Ocorre que após a reanálise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, qual seja: Súmula 83/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Destaco, ainda, que nenhuma das alegações lançadas no agravo em recurso especial constitui impugnação específica para fins de rebatimento da Súmula n. 83 do STJ, que, segundo entendimento desta Corte Superior, exige a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial foi superado pela jurisprudência do STJ, ou que exista distinção entre amatéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula n. 83 do STJ.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+No caso dos autos, a parte ora embargante extrapolou os limites da cognição neste segundo recurso integrativo ao pleitear manifestação sobre eventual omissão quanto a inaplicabilidadeda Súmula n. 83 do STJ, questão que não havia sido suscitada nos primeiros aclaratórios.
+Tratando-se, portanto, de segundos embargos de declaração com o mesmo conteúdo já exaustivamente debatido, impõe-se reconhecer que a interposição possui o caráter manifestamente protelatório, sendo de rigor a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Ante o exposto, voto no sentido de REJEITAR os embargos de declaração.
+Condeno a parte ora embargante a pagar à ora embargada multa processual que arbitro em 2% do valor atualizado da causa, ex vi do art. 1.026, § 2º, do CPC/2015.
+Advirta-se quanto ao disposto no art. 1.026, § 3º, do CPC/2015.
+É o voto.
