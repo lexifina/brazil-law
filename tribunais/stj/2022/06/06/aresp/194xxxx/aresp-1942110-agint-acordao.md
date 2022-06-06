@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  manejado  peloINSTITUTO NACIONAL DO SEGURO SOCIALcontra  a  decisão  de fls.  320/324,  que  conheceu de seu agravo para não conhecer do recurso especial nos termos da seguinte ementa:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. APOSENTADORIA POR INVALIDEZ. CONCESSÃOJUDICIAL. TRÂNSITO EM JULGADO. CANCELAMENTO ADMINISTRATIVO. IMPOSSIBILIDADE. NECESSIDADE DE AÇÃO REVISIONAL. ACÓRDÃO EM SINTONIA COM A ORIENTAÇÃO DO STJ SOBRE O TEMA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DA AUTARQUIA FEDERAL(fls. 320/324).
+2.  Em  suas  razões  (fls.  328/331),  a parte  agravante  requer o sobrestamento do recurso, argumentando, em suma, o seguinte:
+Contudo, esclarecimentos precisam ser feitos uma vez que a matéria está suspensa por deliberação do Supremo Tribunal Federal. Posto que a tese apresentada teve a repercussão geral reconhecida Pelo Plenário Virtual do STF, no RERG nº 1.347.526/SE, correspondente ao Tema nº 1.196 da Repercussão Gera do Supremo Tribunal Federal: "REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL E PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. DATA DE CESSAÇÃO DO BENEFÍCIO (DCB). MEDIDAS PROVISÓRIAS 739/2016 E 767/2017. LEI 13.457/2017. CONTROVÉRSIA SOBRE A CONSTITUCIONALIDADE FORMAL. ALEGADA VIOLAÇÃO DOS ARTIGOS 62, CAPUT E § 1º, INCISO I, ALÍNEA B, E 246 DA CONSTITUIÇÃO FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL. Decisão: O Tribunal, por unanimidade, reputou constitucional a questão. O Tribunal, por unanimidade, reconheceu a existência de repercussão geral da questão constitucional suscitada". (DJe de 23/02/2022)".
+3.  Não  houve  impugnação  ao  recurso  (fl.  334).
+4.  É  o  relatório.
+EMENTA
+  PROCESSUAL  CIVIL  E  PREVIDENCIÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  APOSENTADORIA POR INVALIDEZ. CONCESSÃO JUDICIAL. TRÂNSITO EM JULGADO. CANCELAMENTO ADMINISTRATIVO. IMPOSSIBILIDADE. NECESSIDADE DE AÇÃO REVISIONAL. ALEGADA NECESSIDADE DE SOBRESTAMENTO DO FEITO.MATÉRIA DIVERSA DOTEMA EM REPERCUSSÃO GERAL 1.196/STF.AGRAVO  INTERNO  DESPROVIDO.
+1.  Amatéria retratada nos autos é diversa da questão que será apreciada sob a sistemática da repercussão geral nos autos doRE 1.347.526, Tema 1.196/STF, a saber: a definição da constitucionalidade da Medida Provisória 739/2016, substituída pelaMedida Provisória 767/2017 e convertida na Lei 13.457/2017, as quaisalteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado paraa duração do benefício de auxílio-doença.
+2. O caso dos autos versa sobreaposentadoria por invalidez, não havendo, pela própria natureza do benefício,fixação automática dadata de cessação do benefício (DCB) pela Corte de origem, embora o acórdão tenha ressaltado a possibilidade de submissão do segurado a revisões periódicas para avaliação da persistênciada incapacidade laborativa, nos termos do art. 101 da Lei 8.213/1991.
+3.  Agravo  interno a  que  se  nega  provimento.
+VOTO
+1.  O  recurso  não  merece  prosperar.
+2.  Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+3.  Na espécie, a insurgênciadeclinada no recurso especial volta-se contra a seguinte determinação da Corte de origem:
+Dessa forma, de rigor a concessão do benefício de aposentadoria por invalidez a partir da citação da autarquia (em 18/04/2016, cf. fl. 85), compensando-se os valores recebidos a título de auxílio-doença quando da liquidação do julgado.
+ ..
+Registre-se que a autarquia poderá verificar a persistência da incapacidade laborativa ora instalada, por intermédio de perícias administrativas periódicas, nos moldes do artigo 101 da Lei 8.213/91.
+Todavia, a cessação do benefício só poderá ser feita através de nova ação judicial, servindo o laudo médico administrativo apenas para instruir o pedido. Somente assim será possível a modificação do ora julgado, conforme prevê o artigo 505, inciso I, do CPC/2015 (fl. 253 - sem destaques no original).
+4. Constata-se, portanto, que a matéria retratada nos autos é diversa da questão que será apreciada sob a sistemática da repercussão geral nos autos doRE 1.347.526, Tema 1.196/STF, a saber: a definição da constitucionalidade da Medida Provisória 739/2016, substituída pelaMedida Provisória 767/2017 e convertida na Lei 13.457/2017, as quaisalteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado paraa duração do benefício de auxílio-doença.
+5. O caso dos autos versa sobre aposentadoria por invalidez, não havendo, pela própria natureza do benefício, fixação automática da data de cessação do benefício (DCB) pela Corte de origem, embora o acórdão tenha ressaltado a possibilidade de submissão do segurado a revisões periódicas para avaliação da persistência da incapacidade laborativa, nos termos do art. 101 da Lei 8.213/1991.
+6. Assim, tendo em vista que se trata de matérias diversas,não cabe o sobrestamento do feito.
+7.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  do INSTITUTO NACIONAL DO SEGURO SOCIAL.
+8.  É  como  voto.
