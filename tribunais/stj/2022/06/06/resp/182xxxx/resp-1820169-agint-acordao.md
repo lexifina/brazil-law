@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravointernointerpostopor A Serenata Ltda. contra decisão monocrática proferida por este signatário, a qual deu provimento ao reucrso especial interposto por A.F. & C. Eventos - Eireli a fim de fixar os honorários sucumbenciais em 10% sobre o valor atualizado da causa, nos termos da seguinte ementa (e-STJ, fls. 682-685):
+RECURSO ESPECIAL. AÇÃO MONITÓRIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APLICAÇÃO DO ART. 85, § 2º, DO CPC/2015. REGRA GERAL OBRIGATÓRIA. PRECEDENTES. RECURSO ESPECIAL DE A. F. & C EVENTOS EIRELI PROVIDO.
+Opostos embargos de declaração (e-STJ, fls. 688-693), foram rejeitados (e-STJ, fls. 722-725).
+Em suas razões (e-STJ, fls. 739-748), a agravante sustenta a deserção do recurso especial interposto pela ora agravada, já que não foram recolhidas as custas judiciais exigidas pelo TJMG, sendo inadmissível a sua complementação ou, caso se admita, que fossem recolhidas em dobro.
+Aduz, ainda, incidir o óbice da Súmula 7/STJ na matéria tratada no apelo excepcional provido, pois a análise da questão demandaria o reexame de provas, o que é inadmissível nesta instância extraordinária.
+Impugnação às fls. 751-762 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. DESERÇÃO. INEXISTÊNCIA. HONORÁRIOS SUCUMBENCIAIS. FUNDAMENTO JURÍDICO PARA FIXAÇÃO. REEXAME DE PROVAS. AUSÊNCIA. AGRAVO DESPROVIDO.
+1.Conforme entende a Corte Especial do STJ, o não pagamento de alguma das verbas que compõem o preparo do recurso comporta intimação para complementação, aplicando-se a regra do art.1.007, § 2º, do CPC/2015.
+2.Verificar o fundamento jurídico em que fundamentou o acórdão recorrido para fixação dos honorários advocatícios não enseja o reexame de provas, sendo inaplicável o óbice da Súmula 7/STJ.
+3.Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Com efeito, oportuno relembrar que, após a entrada em vigor do CPC/2015, a comprovação do recolhimento do preparo deverá ser realizada no momento da interposição do recurso, mas caso essa regra seja desrespeitada, a parte deverá ser intimada para recolher em dobro o valor das custas, sob pena de deserção, conforme determina o art. 1.007,capute § 4º, do CPC/2015.
+De outro lado, nas hipóteses em que o preparo é recolhido de forma insuficiente, a parte recorrente será intimada para complementar o valor,dispensado, contudo, do recolhimento em dobro, nos termos do art. 1.007,§ 2º, do CPC/2015.
+Destaca-se que essa segunda regra é aplicável aos casos em que o recurso é protocolado sem o comprovante de pagamento das custas locais, juntando-se apenas a guia de recolhimento exigidas por este Tribunal Superior, pois houve o recolhimento de uma parcela das custas devidas, porém de forma incompleta.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. DESERÇÃO. PREPARO. AUSÊNCIA DE PAGAMENTO DO PORTE DE REMESSA E RETORNO. VIGÊNCIA DO CPC/1973. INTIMAÇÃO PARA COMPLEMENTAÇÃO. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 844.440/MS, firmou entendimento de que o não pagamento de alguma das verbas que compõem o preparo do recurso comporta intimação para complementação.
+2. Na hipótese, o agravante deixou de recolher o porte de remessa e retorno, não tendo sido intimado para a complementação das custas antes da aplicação da pena de deserção.
+3. Agravo interno provido para reconsiderar a decisão e, em nova análise, dar provimento ao recurso especial, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda à intimação da parte recorrente para complementar o preparo da apelação, sob pena de deserção. (AgInt no AREsp 475175/SP, Rel. Min. Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe 16/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015.PREPARORECURSAL. FALTA DE APRESENTAÇÃO DO COMPROVANTE DE PAGAMENTO DAS CUSTAS JUDICIAIS LOCAIS, NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO,PARA SANAR O VÍCIO, EM CINCO DIAS. DESCUMPRIMENTO. DESERÇÃO. SÚMULA 187/STJ. INTEMPESTIVIDADE. FERIADOLOCALNÃO COMPROVADO, NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC/2015. PRECEDENTES DO STJ E DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, a petição de Recurso Especial foi protocolada, na origem, sem o comprovante do pagamento das custas locais.Intimadoa complementar opreparo,no prazo fixado, nos termos do art. 1.007, § 2º, do CPC/2015, sob pena de não conhecimento do recurso, deixou o ora agravante de fazê-lo, adequadamente, pelo que é de se declarar deserto o Recurso Especial.
+(..)
+XIV. Agravo interno improvido.(AgInt no AREsp 1766863/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 19/10/2021, DJe 22/10/2021)
+Diante dessas considerações, não há que se falar em deserção do recurso especial, pois, como bem ponderou a presidência da Corte estadual no julgamento dos embargos de declaração, é "pacificado no Superior Tribunal de Justiça o entendimento de que, constatado o recolhimento do preparo em valor inferior ao devido, deve a parte ser intimada para pagar o complemento, nos termos do artigo 1.007, § 2º, do Código de Processo Civil, sob pena de deserção; o pagamento em dobro só é aplicado quando a parte não houver recolhido qualquer valor, nos termos do artigo 1.007, §4º, do Código de Processo Civil, o que não ocorreu no caso em tela" (e-STJ, fl. 605).
+Quanto ao mérito do recurso especial, também não prospera o argumento aduzido pela insurgente acerca da incidência da Súmula 7/STJ, pois a matéria tratada nos autos é apenas de direito, sendo prescindível o reexame de provas.
+Destaca-se que a controvérsia discutida no apelo excepcional diz respeito à aplicação, ou não, do art. 85, § 2º, do CPC/2015 à espécie, ou seria possível adoção da regra prevista no § 8º do mesmo dispositivo.
+Assim, analisando o tema unicamente de direito, a decisão monocrática reconheceu a necessidade de arbitramento dos honorários sucumbenciais em 10% sobre o valor da causa, o que, inclusive, segue a jurisprudência pacífica do STJ, a qual foi recentemente reafirmada pela Corte Especial no Tema 1.076/STJ, com a fixação das seguintes teses:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública nalide-, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Ademais, os precedentes trazidos pela insurgente, em que se aplicou a Súmula 7/STJ, não se assemelham à presente hipótese, pois naqueles julgados a pretensão dos recorrentes era única e exclusivamente rever o montante dos honorários advocatícios, e não rever o fundamento jurídico da condenação às verbas sucumbenciais, como se verifica na presente hipótese.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
