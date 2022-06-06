@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADEVAIR CEVADA DE MORAES à decisão de minha lavra, que deu parcial provimento ao recurso especial tão somente para anular o acórdão do Tribunal de origem que haviam rejeitado os embargos declaratórios opostos contra o acórdão recorrido.
+Sustenta a parte embargante a existência de omissão no julgado.
+Nesse sentido, argumenta que "a decisão monocrática embargada é omissa quanto às teses de violação das normas dos artigos 493e 494, inciso II, do CPC, levantadas nas Razões do Recurso Especial, as quais não foram analisadas, certo é que tratam de questões relevantes para o deslinde da lide, por isso precisa ser esclarecida" (fl. 3.067).
+Daí porque requer (fl. 3.068):
+1-) o acolhimento dos Embargos de Declaração para sanar a omissão da tese de violação do artigo 494, inciso II, do CPC, cometido pelo juízo de piso, dando efeitos modificativos para nulificar a decisão integrativa (Id 45667457, pág. 1/2) a sentença, determinado o retorno dos autos ao juízo singular e analise o prejudicado Embargos de Declaração opostos (Id45667452pág.1/5 até Id 45667455 pág.1/3) observando a correta interpretação da referida norma federal violada, a ser dada por esta Corte Superior de Justiça, ou;
+1.1 -) o acolhimento dos Embargos de Declaração fins de sanar o vício do inciso II, do art. 1.022, do CPC, para determinar ao Tribunal local que também se manifeste sobre a violação do artigo 494, inciso II, do CPC, seguindo a interpretação desta norma federal violada, dada por esta Corte Superior de Justiça, e;
+2-)o acolhimento dos Embargos de Declaração para sanar omissão, determinando ao Tribunal local que também se manifeste a respeito da violação do artigo 493 do CPC, consubstanciado no fato superveniente "decisão administrativa RD nº 37.16 de 28/07/2016"(Id 45667471pág. 2/5 até Id 45667473 pág. 1/3),se esta foi exarada com enfoque nas alegações finais e põe termo ao julgamento meritório do PAD, pois caso positivo, constitui direito do Recorrente de auferir as verbas alimentares até a data da sua intimação sobre tal decisum, quando inaugurou-se a fase recursal administrativa.
+Impugnação às fls. 3.075/3.079.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+No caso concreto, como consignado na decisão embargada, à exceção da tese de julgamento ultra petita, em violação ao art. 492 do CPC, todas as demais teses arguidas devolvidas ao Tribunal de origem pela parte ora embargante foram adequadamente apreciadas.
+De fato, especificamente em relação ao art. 494, II, do CPC, observa-se que a irresignação da parte embargante refere-se, ao fim e ao cabo, com a solução dada pelo Juízo de 1º Grau ao mérito da controvérsia, posteriormente confirmada pelo próprio Tribunal a quo.
+Desse modo, onão colhimento da tese de ofensa ao art. 1.022, II, do CPC, no que se refere à alegada omissão do Tribunal de origem em relação ao art. 494, II, do CPC, não caracteriza omissão deste julgador.
+A seu turno, considerando-se que o recurso especial foi parcialmente provido para determinar o retorno dos autos à origem, para rejulgamento dos embargos de declaratórios, restaram prejudicadas as demais teses recursais deduzidas pela parte recorrente, ora embargante, inclusive a de afronta ao art. 494, II, do CPC, porquanto não houve ainda o esgotamento das Instâncias ordinárias, na forma exigida pelo art. 105, III, da Constituição da República.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
