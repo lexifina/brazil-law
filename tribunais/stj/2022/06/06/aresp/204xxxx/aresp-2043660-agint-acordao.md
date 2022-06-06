@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto porUNIMED CAMPO GRANDE MS COOPERATIVA DE TRABALHO MEDICOcontra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Ação:de obrigação de fazer ajuizada por MARILDA TORRES DE DEUS em face da agravante, visando a cobertura de rizotomia com radiofrequência refrigerada para tratamento de dor crônica.
+Sentença:julgou parcialmente procedente a demanda para condenar a agravante a realizar o procedimento cirúrgico prescrito e no pagamento de compensação por danos morais no valor de R$ 10.000,00.
+Acórdão:negou provimento à apelação da agravante, nos termos da seguinte ementa:
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DEFAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - PRELIMINAR - JULGAMENTO ANTECIPADO - DESNECESSIDADE DEPRODUÇÃO DE OUTRAS PROVAS QUE AS JÁ CONSTANTES DOS AUTOS - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - REJEITADA - MÉRITOPLANODESAÚDE- APLICAÇÃODOCÓDIGODE DEFESA DOCONSUMIDOR - POSSIBILIDADE - PREVISÃO CONTRATUAL PARA O TRATAMENTO DA DOENÇA - GRAVIDADE DO QUADRO DE SAÚDE DAPACIENTE COMPROVADA POR MEIO DE EXAMES E LAUDO PERICIALJUNTADO AOS AUTOS - URGÊNCIA COMPROVADA - DANOS MORAISCONFIGURADOS - SENTENÇA MANTIDA - RECURSO IMPROVIDO. O Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento antecipado da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente.
+É possível a exclusão da cobertura de certos procedimentos médicos por parte do plano de saúde, desde que haja respeito à legislação regente da matéria, não se podendo esquecer que a tais contratos se aplicam as previsões contidas no Código de Defesa do Consumidor. Mas, em que pese a possibilidade de limitação, importante considerar que devida a cobertura securitária quando previsto o tratamento da doença no contrato firmado entre as partes.
+Possível a condenação do plano de saúde ao pagamento de indenização por danos morais quando demonstrada ser ilegal e abusiva a negativa de tratamento, quando a prescrição médica indicar que essa metodologia é essencial para a tentativa de cura da paciente, uma idosa, que sofre com dores incapacitante e que necessita com brevidade do atendimento indicado.
+Embargos de declaração:opostos pela agravante, foram rejeitados.
+Recurso Especial:alega violação dos arts. 369 do CPC, 188, I, do CC. Sustenta a ocorrência de cerceamento de defesa em virtude de não ter sido oportunizada a produção de prova pericial a fim de verificar a adequação do tratamento proposto. Defende que a recusa de cobertura não se configura em ato ilícito, mas mero exercício regular de um direito. Aponta dissídio jurisprudencial quanto à condenação em danos morais e sobre a taxatividade do rol de coberturas obrigatórias editado pela ANS.
+Decisão unipessoal: conheceu do agravo para conhecer em parte do recurso especial negar-lhe provimento, em virtude da incidência da Súmula 7/STJ no apontado cerceamento de defesa, e da Súmula 568/STJ quanto ao tema dos danos morais.
+Agravo interno: o agravante alega que a pretensão não demanda o reexame de provas e que a recusa de cobertura do tratamento pleiteado deu-se em exercício regular de um direito, haja vista não estar prevista a terapia no rol de coberturas obrigatórias da ANS. Desse modo, não há falar em ato ilícito gerador de danos morais.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO DE DOR CRÔNICA. RECUSA DE COBERTURA INDEVIDA. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. DANOS MORAIS. SÚMULA 568/STJ.
+1.O reexame de fatos e provas em recurso especial é inadmissível.
+2.A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+De início, a pretensão relativa ao reconhecimento do cerceamento de defesa ante a falta de produção de prova apta a demonstrar a necessidade e adequação do tratamento prescrito não foi conhecida ante a aplicação do óbice da Súmula 7/STJ.
+Esta decisão não merece reforma, haja vista que a Corte de origem afastou a alegação de cerceamento de defesa a partir do exame de que o processo contava com todos os documentos necessários para a formação do livre convencimento do magistrado.
+Ademais, esta Corte Superior de Justiça firmou entendimentono sentido de que "é o médico ou o profissional habilitado - e não o plano de saúde - quem estabelece, na busca da cura, a orientação terapêutica a ser dada ao usuário acometido de doença coberta" (REsp 1.679.190/SP, julgado em 26/9/2017, DJe de
+02/10/2017), sendo abusiva a recusa de cobertura deprocedimento, medicamento ou material necessáriopara assegurar o tratamento de doenças previstas no contrato. Desse modo a pretensão de produção de prova a fim de demonstrar a falta de necessidade ou indicação da terapêutica proposta não se mostrava cabível.
+Quanto ao mérito,esta Corte Superior de Justiça firmou entendimento no sentido de que a negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente.
+No caso dos autos, a Corte de origem manteve a condenação em danos morais com base no reconhecimento da abusividade da recusa de cobertura do tratamento do beneficiário que necessitava de cuidados com a maior brevidade possível, tendo causado agravamento do estado psíquicoe emocional da paciente.
+Assim, nos termos da jurisprudência atualizada desta Corte Superior de Justiça, autorizado o reconhecimento da ocorrência dos danos morais. Nesse sentido: AgInt nos EDcl no AREsp 1590645/PE, 3ª Turma, DJe18/06/2021 e AgInt no REsp 1899943/SP, 4ª Turma DJe 09/06/2021.
+Não merece reparos, portanto,a decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
