@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deJOSÉRAIMUNDO ARAUJO DOS SANTOS em que se aponta como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS nojulgamento do HCn. 4000178-92.2020.8.04.0000, cujo acórdão foi assim ementado:
+HABEAS CORPUS. CONSTITUCIONAL.PROCESSUAL PENAL. ART. 121 do CP.CONSTRANGIMENTO ILEGAL POR EXCESSO DEPRAZO. INOCORR NCLA. SÚMULA Nº 52, DO STJ.1. EsteÓrgão fracionário orienta-se pelo princípio da razoabilidade.quanto ao invocado excesso de prazo, segundo o qual somente adesídia da autoridade processante na condução do feito é que oconfigura, coisa que não ocorre no caso concreto. Ausência deconstrangimento ilegal. 2. Verificando-se que a instruçãoprocessual encontra-se encerrada, restando apenas aapresentação dos memoriais para a prolatação da sentença, restasuperada a alegação de excesso de prazo. Súmula nº 52. do STJ.2. Ordem de habeas corpus conhecida e denegada, emconsonância com o parecer ministerial.
+Na inicial (fls. 3-10), a defesa alega que foi oferecida denúncia genérica, sem a individualização da conduta dos acusados; que os depoimentos colhidos são contraditóriose não corroboram a acusação feita, de modo que seria caso de absolvição do réu diante dainsuficiência de prova para a condenação (art. 386, VII, do CPP).
+Argumenta que o TJAM não se pronunciou acerca da tese de falta de individualização da conduta dosréus.
+Discorre acerca da responsabilidade penal no crime de rixa.
+Requer a concessão da ordem de habeas corpuspara anular o processo a partir da denúncia, determinando-se "a baixa do inquérito policial em diligência, para investigação conclusiva e individualização e tipificação de cada réu" (fl. 9).
+O pedido de liminar foi indeferido às fls. 320-321.
+As informações foram prestadas às fls. 326-330,331-337 e 340-373.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writem parecer assimementado:
+Habeas corpus. Homicídio triplamente qualificado.Alegada inépcia da denúncia. Tese que não foi objeto daimpetração originária. Inovação. Inadmissibilidade, sob pena deindevida supressão de instância. Ademais, sobrevindo sentençade pronúncia, resta superada a alegação de inépcia da denúncia,conforme dispõe a jurisprudência do STJ. Ausência deilegalidade.
+Parecer pelo não conhecimento do writ.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+A matéria relativa àsuposta inépcia da denúnciapor falta de individualização da conduta dos réus não foi apreciada pelas instâncias ordinárias, fato reconhecido na própria inicial deste writ(fls. 7-8).Assim, o exame dessa questão pelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Também não se verifica hipótese autorizadora daatuaçãoex officio, tendo em vista asuperveniência da decisão de pronúncia em 30/11/2020 (fl. 342), ficando prejudicada qualquer análise de eventual inépcia da denúncia.
+Neste sentido, confiram-se precedentes:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRECLUSÃO DA TESE DIANTE DA PROLAÇÃO DE PRONÚNCIA CONFIRMADA PELO TRIBUNAL A QUO. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, a Defesa limitou-se a reprisar os argumentos do recurso ordinário em habeas corpus, o que atrai o Enunciado Sumular n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+III - Ademais, em que pese entendimento diverso da combativa defesa, inviável a análise da tese de inépcia da denúncia, porquanto preclusa diante do prolação de sentença de pronúncia confirmada pelo Tribunal a quo há muitos anos atrás.
+Agravo regimental desprovido(AgRg no RHC n. 162.830/RJ, relator Ministro Jesuíno Rissato,Quinta Turma, DJe de 3/5/2022.)
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. TESE SUPERADA. AUSÊNCIA DE JUSTA CAUSA. REVOLVIMENTO DE MATÉRIA FATICO-PROBATÓRIA. INVIABILIADE. EXCESSO DE LINGUAGUEM NA PRONÚNCIA. INEVIDÊNCIA. AFASTAMENTO DAS QUALIFICADORAS. IMPOSSIBILIDADE. PREVENTIVA. FUNDAMENTOS E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. NECESSIDADE DE GARANTIA DE APLICAÇÃO DA LEI PENAL. RÉU PERMANECEU FORAGIDO POR CERCA DE CINCO ANOS.
+1. A orientação do Superior Tribunal de Justiça é de que a superveniência da decisão de pronúncia prejudica a análise da tese de inépcia da denúncia.
+2. Infirmar a conclusão da instância ordinária, que entendeu pela existência de suporte probatório mínimo de autoria e materialidade, é revolvimento probatório, vedado na via do habeas corpus (RHC n. 74.318/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe de 1º/9/2016).
+3. Não incorre em excesso de linguagem a pronúncia que se limita a demonstrar a justa causa para submeter o acusado a julgamento pelo Tribunal do Júri e a existência do crime e dos indícios suficientes de sua autoria.
+4. Constatado que as qualificadoras possuem suporte nos elementos fáticos e probatórios dos autos, não há se falar em manifesta improcedência dessas, motivo pelo qual não podem ser decotadas, devendo sua efetiva incidência ser aferida pelo Conselho de Sentença. (AgRg nos EDcl no AREsp n. 1.810.672/AP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/05/2021).
+5. As alegações relacionadas à prisão preventiva do paciente não foram apreciadas pela Corte de origem no acórdão hostilizado, o que afasta a competência do Superior Tribunal de Justiça para análise da matéria, sob pena de incorrer em indevida supressão de instância.
+6. Inevidência de ilegalidade manifesta na custódia cautelar. Prisão amparada, sobretudo, na necessidade de garantia da aplicação da lei penal, ante o risco de nova fuga do réu que permaneceu foragido por cerca de cinco anos.
+7. Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada(HC n. 626.173/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2021.)
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
