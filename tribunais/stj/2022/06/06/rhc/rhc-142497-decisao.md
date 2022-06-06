@@ -1,0 +1,35 @@
+DECISÃO
+Valho-me do preciso relatório elaborado pelo Parquet (e-STJ fl. 401):
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por Leandro Vicentim contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem anteriormente lá impetrada, nos termos da seguinte ementa (fl. 365):
+HABEAS CORPUS - Alegação de nulidade em decisão que limitou o número de testemunhas arroladas pela defesa em resposta à acusação - Decisão calcada no art.
+401, do CPP - Jurisprudência do STJ - Paciente que responde ao processo em liberdade - Ausência de ato do Juízo que imponha ao paciente ilegal constrangimento em sua liberdade de locomoção - Ordem denegada - (voto n.º 43427).
+Sustenta o recorrente, em síntese, a ocorrência de flagrante constrangimento ilegal decorrente da decisão que limitou em 8 (oito) o número de testemunhas a serem arroladas pela defesa.
+É, em síntese, o relatório.
+Decido.
+Pugna o recorrente pela declaração de nulidade, por cerceamento ao seu direito de defesa, ao argumento de que é ilegal a limitação de testemunhas arroladas pela defesa.
+Sem razão.
+O art. 401 do Código de Processo Penal prevê que aspartes podem arrolar no máximo oito testemunhas no procedimento ordinário, nos seguintes termos:
+Art. 401.Na instrução poderão ser inquiridas até 8 (oito) testemunhas arroladas pela acusação e 8 (oito) pela defesa. (Redação dada pela Lei nº 11.719, de 2008).
+§ 1oNesse número não se compreendem as que não prestem compromisso e as referidas. (Incluído pela Lei nº 11.719, de 2008).
+§ 2oA parte poderá desistir da inquirição de qualquer das testemunhas arroladas, ressalvado o disposto no art. 209 deste Código. (Incluído pela Lei nº 11.719, de 2008).
+A oitiva de testemunhas além do número máximo permitido pela legislação durante a instrução criminal é faculdade do órgão julgador, que deverá fazer a apreciação adequada do pedido, pautando-se pela garantia da ampla defesa e do contraditório, sempre.
+No caso em análise, acerca da aventada nulidade por indeferimento da oitiva de testemunhas além do previsto na legislação de regência, assim se manifestou o Tribunal de origem (e-STJ fls. 370/371):
+Neste contexto, diante do fato criminoso descrito pela denúncia, observando-se a ampla defesa e o contraditório e debruçando-se sobre a resposta à acusação, delimitou o Juízo o número de testemunhas a serem ouvidas.
+E tal decisão se deu de modo fundamentado, explanado que diante do fato criminoso como imputado, desnecessária é a oitiva das mais de oito testemunhas arroladas pela defesa, já que "embora na denúncia tenham sido elencados cinco fatos supostamente criminosos, tratam- se de fatos idênticos, contra a mesma vítima, de modo que a indicação de doze testemunhas pela defesa se mostra desarrazoada".
+Da leitura da denúncia confirma-se que foram imputados cinco fatos criminosos ao paciente, perpetrados na mesma data, mediante o mesmo "modus operandi" e em face da mesma vítima, o que leva à conclusão de que não há necessidade da oitiva de todas as doze testemunhas arroladas pela defesa.
+Observado o estrito âmbito deapreciação em sede de habeas corpus, não se mostra a r. decisão alvejada como afrontosa ao art. 401, do CPP, proferida que foi com vistas a sanear o feito e imprimir regular processamento com observância da disciplina legal acerca do rito tomado, bem como da ampla defesa e do contraditório. (Grifei.)
+Ora, tratando-se de cinco fatos criminosos, perpetrados na mesma data, contra a mesma vítima, com o mesmo modus operandi, entendo que adecisão que rejeitou a oitiva das testemunhas encontra-se devidamente fundamentada e que não impede o recorrente de exercer seu amplo direitoà defesa.
+Nesse particular, destaco que, "embora se cuide de direito, isso não impede que o juiz da causa examine a pertinência da prova requerida (ver, por exemplo, art. 400, § 1º, CPP), tendo em vista que cabe a ele a condução do processo, devendo, por isso mesmo, rejeitar as diligências manifestamente protelatórias." (OLIVEIRA, Eugênio Pacelli de; in: Curso de Processo Penal. 10ª ed. Rio de Janeiro: Lumen Juris, 2008. p. 294).
+Exatamente no mesmo sentido, a pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA E ASSOCIAÇÃO CRIMINOSA. NÚMERO MÁXIMO DE TESTEMUNHAS. REGRA. ART. 401 DO CPP. FEITO COMPLEXO: ELEVADO NÚMEROS DE RÉUS E PROLONGADO PERÍODO DA ATIVIDADE CRIMINOSA. CERCEAMENTO DE DEFESA. LIMITAÇÃO DO ROL DE TESTEMUNHAS. EXCEÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO. RECURSO PARCIALMENTE PROVIDO.
+1. A legislação processual penal dispõe que o número máximo de testemunhas que podem ser arroladas pelas partes varia conforme o procedimento adotado. Quanto ao procedimento comum ordinário, o art. 401, caput, do CPP fixa esse número máximo em 8 testemunhas.
+2. O número máximo de testemunhas as quais poderão ser arroladas pela defesa deve, em regra, variar não só de acordo com o número de réus, mas também conforme o número de fatos supostamente delituosos imputados a cada réu. 3. No caso ora analisado, a recorrente foi denunciada, juntamente com outros 16 acusados, pela suposta prática dos crimes de corrupção passiva, na forma do art. 71 (crime continuado), e de associação criminosa, em concurso material, por fatos ocorridos entre 2007 a 2011. Assim, diante da complexidade da causa, com elevado números de réus e de prolongado período da atividade criminosa, entendo plausível a ampliação do número de testemunhas a serem indicadas pela defesa, fixando-o em 16 testemunhas, além da imputação de dois delitos narrados na denúncia.
+4. Com amparo na faculdade expressamente conferida ao magistrado pelo art. 209, caput, do Código de Processo Penal, as demais testemunhas indicadas pela defesa poderão ser ouvidas na qualidade de testemunha do juízo, em observância ao princípio da busca da verdade real, se assim entender o Juiz.
+5. Recurso parcialmente provido para que seja permitido à defesa da recorrente a apresentação de rol com 16 (dezesseis) testemunhas, podendo as demais serem ouvidas como testemunhas do juízo, se assim entender o magistrado.
+(RHC n. 92.874/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/11/2018.)
+ .. LIMITAÇÃO DO NÚMERO DE TESTEMUNHAS A SEREM OUVIDAS NA INSTRUÇÃO PROCESSUAL. POSSIBILIDADE. AUSÊNCIA DE CERCEAMENTO DO DIREITO DE DEFESA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. Consoante a jurisprudência pacífica deste Tribunal Superior, a quantidade de pessoas a serem inquiridas na instrução processual, prevista no artigo 401 do Código de Processo Penal, somente deve ser excepcionada quando as particularidades do caso concreto assim exigirem, peculiaridade que não se encontra presente na espécie, em que o recorrente é acusado de praticar os crimes previstos nos artigos 90 da Lei 8.666/1993 e 154-A do Código Penal em concurso formal, vale dizer, em um único contexto fático. Precedente.
+2. Recurso desprovido.
+(RHC n. 81.838/RS, relator Ministro Jorge Mussi, Quinta Turma, DJe de 5/4/2017.)
+Tal o contexto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
