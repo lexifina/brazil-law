@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por VEJA ENGENHARIA ADMINISTRADORA E INCORPORADORA DE IMOVEIS LTDA contra decisão da Presidênciadeste Superior Tribunal de Justiça que não conheceu do recurso especial interposto em razão doóbiceda Súmula284/STF.
+No presente recurso, aparteagravantesustentaque (e-STJ, fls. 422/423):
+É cristalino que a parte recorrente/agravante não pode sofrer o previsto na Súmula 284/STF, pois em seu Recurso Especial e no Agravo de Instrumento apresentou toda a fundamentação pertinente à exata compreensão da controvérsia, apontando os artigos que protegem seu direito e foram feridos e os transcreveu para dentro da petição, em sua integralidade, não havendo qualquer deficiência, como tenta valer crer a decisão monocrática.
+A controvérsia é clara, a decisão combatida contrariou a Súmula 410/STJ, ou seja, manteve a cobrança de multa pelo descumprimento de obrigação de fazer sobre devedor que não foi intimado pessoalmente, isto foi devidamente abordado e indicado durante o Recurso Especial e também durante o Agravo de Instrumento em Recurso Especial.
+ ..
+Está clara a afronta ao direito do agravante, há a indicação clara dessa afronta ao direito do agravante tanto no Recurso Especial quanto no Agravo de Instrumento em Recurso Especial. Foi citado, fundamentado e exposto
+Mais, o agravante fundamentou todo o recurso interposto, com artigos (devidamente transcritos e não apenas os citando), com jurisprudências, com doutrina, ou seja, o Recurso Especial está devidamente fundamentado, embasado por todos os meios pertinentes e longe romper com o determinado na Súmula STF, devendo sim ser admitido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídiotrazido pelaparteagravante, capaz de alterar a conclusão da decisão ora agravada,faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada,não conheceu do recurso especial pelos seguintes fundamentos(e-STJ, fl. 414):
+Mediante análise dos autos, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com efeito, da leitura do recurso especial,verifica-se quenão há a indicação dedispositivos legais aptos a ampararem a tese recursal e não foram trazidos argumentos suficientes para demonstrarem, de forma específica e pormenorizada, a violação aos dispositivos legais citados.
+Nessa esteira, destaca-se que "nas razões de recurso especial, o recorrente deve indicar, com clareza e objetividade, osdispositivoslegais tidos por violado, bem como apresentar argumentos pertinentes a fim de explicitar a forma em que tais normas foram ofendidas. Do contrário, como ocorre na espécie, em que feita apenasmeramenção adispositivoslegais, o recurso deixa de ser conhecido por deficiência em sua fundamentação, com incidência da Súmula284/STF."(AgRg no AREsp 229.429/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/11/2012, DJe 28/11/2012).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE CITAÇÃO DO ARTIGO DE LEI VIOLADO. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. COMPRA E VENDA DE VEÍCULO. TRANSFERÊNCIA DA PROPRIEDADE NÃO EFETUADA. MULTA. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+2. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+3. De acordo com o entendimento jurisprudencial deste Tribunal Superior, o antigo proprietário do veículo é responsável solidário pelas penalidades relacionadas às infrações de trânsito quando deixar de comunicar aos órgãos oficiais a transferência da propriedade do bem.
+4. No caso em exame, atestando o Tribunal de origem que ambas as partes foram responsáveis pelas falhas na transferência do veículo e na comunicação aos órgãos oficiais acerca do negócio jurídico, descabe ao Superior Tribunal de Justiça a revisão de tal fundamento, ante a incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1864507/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021, grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TEMPESTIVIDADE. FUNDAMENTAÇÃO DO RECURSO. DEFICIÊNCIA. SÚMULA Nº 284/STF. BEM DE FAMÍLIA. IMPENHORABILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DIVERGÊNCIA. NÃO DEMONSTRAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Entende-se por deficientemente fundamentado o recurso especial quando a tese defendida não se encontra amparada por nenhum dispositivo legal ou quando o artigo de lei invocado não guarda pertinência temática. Súmula nº 284/STF.
+3. Na hipótese, acolher a pretensão recursal quanto à impenhorabilidade do bem de família demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+4. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+5. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+6. Agravo interno não provido.
+(AgInt no AREsp 1829180/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/10/2021, DJe 15/10/2021)
+No mais, destaca-se que "no julgamento do recurso especial, é incabível a análise de violação desúmula,visto que oenunciadosumular não se insere no conceito delei federal.Incidência daSúmulanº 518/STJ."(AgInt no REsp 1951216/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/02/2022, DJe 02/03/2022).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PERDAS E DANOS. 1. VIOLAÇÃO A SÚMULA. DESCABIMENTO. SÚMULA N. 518/STJ. 2. DISPOSITIVO DE LEI TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 4. LITISPENDÊNCIA E COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. MÁ-FÉ CARACTERIZADA. POSSIBILIDADE DA RESTITUIÇÃO DAS QUANTIAS COBRADAS INDEVIDAMENTE EM DOBRO. APLICAÇÃO DO ART. 940 DO CC/2002. ALTERAÇÃO. SÚMULAS N. 5 E 7/STJ. 6. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 7. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 8. AGRAVO DESPROVIDO.
+1.Não cabe ao Superior Tribunal de Justiça apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, o recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela incidência da Súmula 284/STF.
+3. O acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior, segundo a qual não existe julgamento fora dos limites da demanda quando o julgador examina o pedido com base na interpretação lógico-sistemática de toda a petição inicial.
+4. Na hipótese, a revisão das conclusões estaduais (acerca da ocorrência da litispendência e da coisa julgada em relação à ação ajuizada pelos agravados) demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+5. Nos termos da jurisprudência do Superior Tribunal de Justiça, a aplicação da penalidade prevista no art. 940 do CC/2002 exige a comprovação do dolo.
+5.1. A Corte de origem entendeu que houve a má-fé da agravante, portanto, a revisão do julgado importa necessariamente no reexame de provas e de cláusulas contratuais, o que é vedado em âmbito de recurso especial, ante o óbice dos enunciados n. 5 e 7 da Súmula deste Tribunal.
+6. O acolhimento das teses levantadas pela agravante (inexistência de hipóteses para fixação dos honorários advocatícios por equidade, assim como da alteração do valor da condenação arbitrada) exigiria rever as conclusões alcançadas pelo Tribunal de origem, o que é inviável em recurso especial, por implicar reexame das provas contidas nos autos. Incidência da Súmula n. 7/STJ.
+7. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+8. Agravo interno desprovido.
+(AgInt no AREsp 1898914/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021, grifei.)
+Assim, em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo àaplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, doCPC/2015).
+É o voto.
