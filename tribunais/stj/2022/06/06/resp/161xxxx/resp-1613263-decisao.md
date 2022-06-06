@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESPÓLIO DE NAIDE THEREZINA FERNANDES CASTRO e outro, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (fls. 450/451):
+Embargos à arrematação- Bem imóvel - Embargante que, na condiçãode meeira do executado, substituída no curso da ação por seu espólio, nãotem legitimidade ativa - Art. 746 do CPC - Cônjuge do executado que, para defender a sua meação, deve utilizar-se da via dos embargos de terceiro, medida, aliás, adotada pela embargante - llegitimidade ativa do espólio mantida.
+Embargos à arrematação - Bem imóvel - Arrematação efetuada em benefíciodo crédito pertencente à exequente "Jaupavi"" nãodo crédito pertencente ao Banco Santander"" - instituiçãofinanceira que não é parte legítima para figurar no polo passivo da ação.
+Embargos à arrematação - Ato realizado na pendência de ação de embargos de terceiro - Alegação de nulidade da arrematação que não pode prevalecer - Embargos de terceiro que não têm o condão de suspender a execução quando opostos pelo cônjuge, objetivando preservar a sua meação e na hipótese de os bens penhorados não comportarem cômoda divisão - Situação retratada no caso em tela - Efeito suspensivo, ademais, que foi atribuído aos embargos de terceiro posteriormente à própria arrematação, bem como à sentença apelada.
+Penhora - Bem imóvel - Arrematação que deve incidir sobre a totalidade do bem , dada a sua indivisibilidade, reservada ao cônjuge do executado a metade do produto da alienação - Aplicação do art. 655-B do CPC. Embargos à arrematação- Bem imóvel - Pretensão à nova avaliação do bem - Questão resolvida mediante decisão monocrática deste relator, prolatada no Agravo de Instrumento nº2184001-04.2014.8.26.0000, mantida pela turma julgadora no Agravo Regimental nº2184001-04.2014.8.26.000/50000 - Alegação de preço vil afastada - Preço da arrematação que, de acordo com o respectivo auto, correspondeu a 60,01% da avaliaçãoatualizada do imóvel - Rejeição liminar dos embargos à arrematação mantida - Apelo dos embargantes desprovido
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam, a par de dissídio jurisprudencial, aviolação dosarts. 655-B e746, do Código de Processo Civil/1973, sustentando a impossibilidade de arrematação da fração ideal que não foi penhorada, bem como a existência de preço vil, uma vez que é necessária a reavaliação do bem.
+Alegam que há negativa de vigência do art. 686, I, do CPC/73 pois o edital de praça foi publicado sem a reserva da meação.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+No presente recurso, os recorrentessustentama impossibilidade de arrematação da fração ideal que não foi penhorada;a existência de preço vil, uma vez que é necessária a reavaliação do bem; ea nulidade do edital.
+Sobre os temas,o Tribunal de origem consignouque (i) era possível a arrematação da totalidade do bem em virtude da sua indivisibilidade; (ii) o produto da arrematação foi reservado à meeira; (iii) o edital informou corretamente que o bem seria alienado na sua integralidade; e (iv) não era possível a discussão sobre a avaliação do imóvel que já havia sido realizado em outro recurso, afastando, ainda, a existência de preço vil. Confira-se:
+2.4. Por outro lado, mesmo que a penhora tivesse recaído apenas sobre a parte ideal pertencente ao executado Horácio de Lima Castro (fls. 116, 129), a arrematação do imóvel deveria incidir, realmente, sobre a totalidade do bem, dada a sua indivisibilidade (fl. 267).
+ ..
+No caso em tela, do produto da alienação do imóvel, isto é, R$ 105.000,00 (fl. 267), foi reservada à meeira, por intermédio de depósito judicial, a quantia de R$ 52.500,00 (fl. 266).
+Com isso, caiu por terra a alegação de nulidade do edital (f1.312), o qual descreveu, corretamente, o imóvel a ser alienado na sua totalidade (f1. .216).
+ ..
+2.6. Inviável determinar-se nova avaliação do imóvel constrito (f1. 318).
+Essa questão foi resolvida mediante decisão monocrática prolatada por este relator, datada de 4.12.2014, no Agravo de lnstrumento no2184001-04.2014.8.26.0000, mantida pela turma julgadora no Agravo Regimental no 2184001-04.2014.8.26.000/50000, julgado em 25.2.2015.
+ ..
+Por consequência, não se pode reconhecer que o preço da arrematação tivesse sido vil (fl. 316).
+Saliente-se que constou do pertinente auto que o preço da arrematação correspondeu a 60,01% da avaliação atualizada do imóvel (f1. 267)  ..  (fls. 454/455 - sem destaques no original)
+Nos termos da jurisprudência desta Corte, é possível a penhora e arrematação de bem indivisível, desde que reservada eventual meação do cônjuge.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTE. 2.CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. PENHORA DE BEM IMÓVEL INDIVISÍVEL. COPROPRIEDADE. ALIENAÇÃO JUDICIAL DO BEM POR INTEIRO. POSSIBILIDADE. DESDE QUE OBSERVADO O VALOR DE RESERVA DA MEAÇÃO. 6. AGRAVO DESPROVIDO.
+ ..
+3.Quanto à penhora do imóvel de matrícula 5.597, as ponderações do Colegiado local foram feitas com base na apreciação fático-probatória da causa, portanto, a revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal, não sendo caso de revaloração.
+4. É iterativa a jurisprudência desta Corte, quanto à impossibilidade de conhecimento do recurso especial, também sob o prisma da alínea c do permissivo constitucional, em virtude da incidência da Súmula n. 7/STJ, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Com efeito, no que concerne à penhora do imóvel de matrícula 305, o entendimento consignado no acórdão recorrido coaduna com a jurisprudência do Superior Tribunal de Justiça, a qual se firmou no sentido da admissibilidade de excussão de bem indivisível de propriedade do casal, para responder por dívida exclusiva de apenas um dos cônjuges, desde que observado o valor de reserva da meação.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.898.878/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/10/2021- sem destaque no original.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE TERCEIRO. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 165 E 535 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEVIDA. ALEGAÇÃO DE DIVISIBILIDADE DO IMÓVEL. INOVAÇÃO EM SEDE DE EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF. ALIENAÇÃO DE IMÓVEL INDIVISÍVEL. MEAÇÃO RESGUARDADA AO CÔNJUGE, NOS TERMOS DO ART. 655-B DO CPC. AGRAVO IMPROVIDO.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão (CPC, art. 535), sendo inadmissível a sua interposição para rediscutir questões tratadas e devidamente motivadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A questão referente à divisibilidade do imóvel foi alegada apenas em sede de embargos de declaração, razão pela qual não foi analisada pela Corte Estadual. Portanto, carece de prequestionamento, nos termos das Súmulas 282 e 356/STF.
+3. Nos termos do art. 655-B do CPC, tratando-se de penhora em bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 557.399/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 3/8/2015.)
+Com isso, os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte.
+Quanto ao mais, rever as conclusões do Tribunal de origem quanto à ausência de nulidade do edital e depreço vil,demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado nesta fase de recurso.
+Dessa forma, incidem sobre o tema, os óbices das Súmulas 7 e 568 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
