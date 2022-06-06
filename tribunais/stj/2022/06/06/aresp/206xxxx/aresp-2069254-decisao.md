@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo, manejado por COOPERATIVA DE CRÉDITO, POUPANCA E INVESTIMENTO UNIVALES - SICREDI UNIVALES MT/RO e OUTRO, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 257):
+Apelação. Embargos à Execução. Cooperativas. Tributação. ISSQN. Atos atípicos/impróprios.
+1. Conforme jurisprudência do STF, a determinação constitucional de adequado tratamento tributário a ato cooperativo não veda a incidência de impostos sobre as sociedades cooperadas.
+2. Não incide o ISS sobre as atividades próprias de cooperativa. Por outro lado, as atividades de natureza empresarial, decorrentes de relação jurídica negocial (atos cooperativos atípicos/impróprios), estão sujeitas à incidência do tributo porque não se qualificam como atos cooperativos puros.
+3. Apelo não provido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 247/251.
+A parte recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 79 e 87 da Lei 5.764/71. Sustenta, em resumo, que "a interpretação extensiva do artigo 79, Lei nº 5.764/71, permite que não somente as operações realizadas entre a cooperativa e seu associado e entre as cooperativas entre si sejam atos cooperativos, mas também as operações realizadas entre as cooperativas e terceiros" (fl. 298).
+Sem contrarrazões, conforme certidão de fl. 403.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o Tribunal não debateu sobre a tese de que "a interpretação extensiva do artigo 79, Lei nº 5.764/71, permite que não somente as operações realizadas entre a cooperativa e seu associado e entre as cooperativas entre si sejam atos cooperativos, mas também as operações realizadas entre as cooperativas e terceiros" (fl. 298), apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Com efeito, o Tribunal a quo solucionou a controvérsia asseverando que "tratando-se de operações praticadas entre cooperativa e terceiros (atos atípicos ou impróprios) a regra é a incidência tributária, porque não se tem, na espécie, ato cooperativo puro" (fl. 248). Assim, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+Nessa linha de raciocínio, citam-se os seguintes julgados: Agint no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020; Agint no AREsp 1.419.058/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19/9/2019 e Agint no AREsp 1.004.149/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 11/6/2018.
+Ademais, colhe-se do acórdão recorrido o seguinte trecho (fl. 249):
+No caso em comento, como fartamente evidenciado nos relatórios detalhados (ids.1988605, 1988607, 1988608, 1988609, 1988610, 1988611, 1988613, 1988614 e 1988615), os atos tributados decorrem de relação jurídica negocial, portanto, são atos cooperativos atípicos/impróprios, sujeitos, portanto, à incidência do ISSQN.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+De igual modo, orecurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPCe 255, § 1º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
