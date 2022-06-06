@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE ROBERTO MAZZUCCA CURY e OUTRO à decisão de fls. 612/613, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Quando da interposição do Recurso Especial, os Recorrentes demonstraram, inclusive juntando documento comprovando feriado local, a tempestividade do recurso. Ocorre que foi decidido de forma monocrática que os Recorrentes interpuseram o recurso de forma intempestiva, isto é, fora do prazo de 15 dias, não sendo conhecido o recurso interposto.
+ ..
+O art. 1.003, § 6º, do CPC, dispõe que a parte comprovará a ocorrência de feriado local no ato da interposição do recurso. O contido no § 6º do referido artigo foi devidamente cumprido pelos Recorrentes, como se vê às fls. 492/522 - e-STJ, de modo que deve ser corrigido o erro material e a contradição havida na decisão monocrática (fl. 615).
+ ..
+Como já relatado no RESP, o v. acórdão de fls. 479 foi publicado no DJE na data de 30/08/2021. Consequentemente, o prazo recursal teve início em 31/08/2021, sendo o prazo fatal a data de 22/09/2021, levando em consideração a suspensão dos prazos processuais nos dias 06 e 07 de setembro de 2021 (emenda de feriado, e feriado nacional), de acordo com o documento emitido pelo E. Tribunal de Justiça do Rio de Janeiro e anexado com o recurso supracitado. Logo, tempestivo o Recurso Especial interposto pelos Recorrentes (fl. 616).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntado às fls. 492/522, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
