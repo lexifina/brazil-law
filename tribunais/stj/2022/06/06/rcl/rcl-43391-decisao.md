@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por AMCOR EMBALAGENS DA AMAZÔNIA LTDA, "com fundamento, entre outros, nos artigos 105, inciso I, alínea "f" da Constituição da República Federativa do Brasil de 1988 ("CF"), nos artigos 988, inciso II, e seguintes do Código de Processo Civil ("CPC"), e nos artigos 187 e seguintes do Regimento Interno do Superior Tribunal de Justiça ("STJ")" (nas fl. 3).
+A reclamação é proposta em face do d. Juízo de Direito da20ªVara Cível e de Acidentes de Trabalho da Comarca de Manaus/AM, nos autos daAção Indenizatórianº0647385-74.2018.8.04.0001,movida por CAMARGO FERRAZ METALURGIA INDUSTRIAL S.A.contra a reclamante e contra a ALCOA ALUMÍNIO S.A,visando garantir a autoridade de decisão desta relatoria nos autos do Recurso Especial nº1.948.963/AM, assentando que:
+"Assim, o fundamento adotado pelo acórdão estadual para invalidar a eleição de foro, acerca de eventual necessidade de perícia técnica, não deve prevalecer tendo em vista a existência de prova pericial já produzida, bem como não foi demonstrada a hipossuficiência da sociedade empresária, ora recorrida, com análise de relevantes evidências de dificuldades no acesso ao Poder Judiciário, notadamente por se tratar de discussão acerca de contrato de fornecimento de produtos e de locação de galpão industrial firmados entre pessoas jurídicas.
+Desta forma, não estando devidamente justificado o afastamento da cláusula de eleição de foro, esta deve prevalecer" (grifou-se, na fl. 79/83).
+Afirma a reclamante que "o juiz de origem, mesmo após ter declarada a sua incompetência para julgar o feito (doc. 05), acabou por dar andamento no processo, rejeitando embargos de declaração das partes que pendiam de julgamento IGNORANDO, DE FORMA PROPOSITADA, A DETERMINAÇÃO DESSE COLENDO SUPERIOR TRIBUNAL (doc. 03)" (na fl. 11).
+Prossegue afirmando que a Decisão Reclamada, proferida pelod. Juízo de Direito da 20ª Vara Cível e de Acidentes de Trabalho da Comarca de Manaus/AM, "desrespeitou o quanto decidido por esse C. STJ nos autos do REsp 1948963/AM, vez que o magistrado de origem continua a decidir nos autos, como se competente fosse, em total desrespeito ao quanto decidido pelo Ministro Raul Araújo e, por conseguinte, em desrespeito à cláusula de eleição de foro pactuada, razão pela qual se faz necessária a sua cassação" (grifou-se, na fl. 13).
+Requer, liminarmente, seja determinada a suspensão da decisão reclamadae, nomérito, seja dadoprovimento àreclamação.
+É o relatório.
+Passo a decidir.
+O descumprimento de decisão desta Corte,ainda que em sede perfunctória, está configurada.
+Com efeito, esta relatoria, no julgamento monocrático do Recurso Especial nº1.948.963/AM, decidiu que, "não estando devidamente justificado o afastamento da cláusula de eleição de foro, esta deve prevalecer", e que, porvia de consequência,um dos Juízos da Comarca de São Paulo/SPcomo ocompetente.
+No entanto, pelo que se depreende no exame dos autos, od. Juízo de Direito da 20ª Vara Cível e de Acidentes de Trabalho da Comarca de Manaus/AM, contraria essa superiordeterminação, praticando atos decisóriosao invés de enviaros autos para o Juízocompetente.
+Ante exposto, admito o processamento da reclamação e defiro a liminar paradeterminar a suspensão da ação originária em evidêncianos autos, de nº0647385-74.2018.8.04.0001 (na fl. 42).
+Solicitem-se informações ao d. Juízo reclamado.
+Intimem-se osinteressados para que, querendo, se manifestem no prazo de15 (quinze)dias úteis.
+Após, sendo necessário, conforme o art. 178/CPC, oMinistério Público Federalserá ouvido.
+Publique-se.
