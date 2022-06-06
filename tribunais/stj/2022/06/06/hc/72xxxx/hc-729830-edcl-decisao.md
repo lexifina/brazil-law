@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA APARECIDA RODRIGUES DA SILVA, em face da decisão monocrática de minha lavra (fls. 131-140), que não conheceu do presente habeas corpus.
+Nas razões destes embargos, a defesa sustenta que " ..  apesar da clara exposição no sentido do afastamento da negativação das consequências do crime pelo fundamento adicional da ausência de prejuízo ao INSS, em virtude de decisão judicial posterior concedendo a mesma aposentadoria por outros motivos, não houve por parte deste Exmo. Relator manifestação em sua decisão quanto a este ponto." (fl. 1345).
+Requer, assim, o acolhimento do incidente aclaratório, a fim de que sejasanadaaomissão apontada.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Pretende o embargante que seja sanada a contradição e a omissão apontadas, a fim de que seja analisado o Acórdão dos Embargos Infringentes e ora Ato Coator.
+Destaque-se, inicialmente, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Nesse compasso, entendo que não assiste razão ao embargante, quanto a omissão demonstrada.
+No tocante as consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal.
+Na hipótese, diferentemente do alegado pelaembargante, a negativação da vetorial consequências do crime, pelo v. acórdão impugnado,ocorreu única e exclusivamente em razão do desgaste moral ocasionado à imagem da autarquia previdenciária, em decorrência da ação da paciente: Vejamos:
+"No que concerne à pena aplicada à ré Maria Aparecida Rodrigues da Silva, dou razão ao MPF, porquanto fixada a pena-base em patamar que não se mostra coerente com a análise das circunstâncias judiciais realizada, em que se destacaram, negativamente, as consequências do crime, no caso concreto e em detrimento da imagem da autarquia previdenciária. Assim, aumento a pena-base para 1 ano e 9 meses de reclusão e 30 dias-multa. Em seu desfavor, a circunstância agravante reconhecida na sentença, art. 61, II, letra g, do CP, tornando-a definitiva em 2 anos e 3 meses de reclusão. Com o aumento do que está previsto no § 3º, do art. 171, do CP, torno definitiva a pena em 3 anos de reclusão e 40 dias-multa, à razão de 1/30 do valor do salário mínimo vigente à época dos fatos."
+Assim, "a inserção de dados falsos por funcionário público, para o fim de concessão indevida de benefícios previdenciários, traz prejuízos sistêmicos e não inerentes ao tipo penal, podendo comprometer a concessão de benefícios às gerações futuras, além de macular a imagem da Previdência Social" (AgRg no REsp 1750956/SC, Rel. MinistroReynaldo Soares da Fonseca, Quinta Turma, DJe 26/10/2018, grifei).
+Desse modo, asconclusões constantes da decisão embargada não encerranenhumvícioacima mencionado. As razões dos aclaratórios revelam, na verdade, o inconformismo da parte com o desfecho da causa e objetivam puramente a rediscussão da matéria que já foi analisada por essa Corte Superior.
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
