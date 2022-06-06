@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Tocantins desafiando decisão da Presidência da Corte, que conheceu do agravo para não conhecer do recurso especial, sob ofundamentode incidência dos óbices das Súmulas 280e 284/STF.
+A parte agravante, em suas razões, sustenta que "não háse cogitar da aplicação dos óbices das Súmulas 284 e 280 do STF, pois os fundamentos do acórdão foram efetivamente atacados, tendo em vista que as alegações do Recurso Especial confrontam, de forma direta e específica, todos os fundamentos do acórdão exarado pelo Egrégio TJTO.Além disso, houve claro prequestionamento da matéria de direito relativamente à violação aos artigos 1º e 9º do Decreto 20.910/32, não sopesando dúvida que possuem comando normativo para amparar a tese recursal.Os dispositivos legais tidos por violados são do Decreto 20.910/32, o que revela inaplicável ao caso o enunciado da Súmula 280/STF, segundo a qual "Por ofensa a direito local não cabe recurso extraordinário"." (fl. 292)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. REPOSIÇÃO SALARIAL. OCORRÊNCIA DE PRESCRIÇÃO. LEIS LOCAIS. EXAME. NECESSIDADE. SÚMULA 280/STF. INCIDÊNCIA.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, a análise de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir o fundamento principal adotado pela decisão recorrida.
+Verifica-se que o voto-condutor do acórdão, examinando a questão, concluiu, inverbis (fls. 176/179):
+(..) o Estado sustenta em síntese que não há valores a serem pagos ao autor porque a revisão geral de 4,68% mencionada na exordial foi absorvida pela majoração dos subsídios da PM, implementada em 1º de julho de 2011, que já estava prevista pelo reajuste específico e escalonado da PM, constante no Anexo I da Lei Estadual nº 2.328/2010.
+Portanto, a justificativa principal do Estado é a de que o percentual da revisão geral em comento foi absorvido pelo reajuste escalonado já previsto para os servidores da PM, consoante o Anexo I da Lei Estadual nº 2.329/2010, de modo que, em 1º de julho de 2011, os bombeiros militares obtiveram um acréscimo remuneratório inclusive superior ao valor já revisado com os 4,68% incrementados na tabela de subsídios vigente em 1º de outubro de 2010.
+(..)
+A matéria não é nova no âmbito desta Corte, que por diversas vezes reiterou o posicionamento de que o apelante deve cumprir com pagamento dos valores não adimplidos, relativos à data-base regida pela Lei Estadual nº 2.426, de 11 de janeiro de 2016.
+(..)
+O quadro fático delineado nos autos não demanda maiores digressões, na medida em que consta que o acordo inicialmente previa a implementação do percentual da revisão no mês de junho de 2015 e que o pagamento do retroativo seria realizado em 12 (doze) vezes na folha de pagamento dos servidores, sendo posteriormente alterado o número de parcelas da reposição principal pelo governo do estado para 16 (dezesseis), e o passivo complementar em 03 (três) parcelas a partir do mês de julho, o que de toda forma não ocorreu, pois só foram realizados 04 (quatro) dos repasses referentes ao passivo principal e 02 (dois) do complementar, sendo oportuno consignar que dispensa-se a fase de liquidação da sentença, quando a apuração do valor da condenação não depender de conhecimento técnico ou de alegação e prova de fato novo, mas de meros cálculos aritméticos.
+Não prospera ainda o pedido subsidiário de reconhecimento da prescrição das parcelas anteriores aos 5 anos da data da propositura da ação, uma vez que, conforme já decidiu este Tribunal, "o valor cobrado, alusivo a data-base de 2011, foi objeto de acordo, no qual o estado se comprometeu a efetivar o pagamento do benefício aos servidores em 16 (dezesseis) parcelas mensais e consecutivas, a partir de maio de 2015, logo, o marco inicial da prescrição é o prazo final previsto para o pagamento no Acordo" (APELAÇÃO CÍVEL Nº 0000284-87.2019.8.27.2726/TO. RELATOR: DESEMBARGADOR MARCO VILLAS BOAS. Julgado em 29 de abril de 2020).
+Nesse contexto,ainda que se afaste a aplicação doóbicedaSúmula284/STF, está correto o decisum ao estabelecer que a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, a análise de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
