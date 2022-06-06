@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ADRIANA LÚCIA BIANCHI desafiando acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0620711- 66.2022.8.06.0000).
+Foi a recorrente presa em flagrante, em 4/12/2019, pela suposta prática dos crimes previstos nos arts. 157, § 2º, I e II, e 157, § 3º, II, do Código Penal (roubo circunstanciado e latrocínio).A prisão em flagrante foi convertida em preventiva.
+Contra essa decisão insurgiu-se a defesa.Entretanto, o Tribunal de Justiça do Estado do Ceará denegou a ordem de habeas corpus.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública o excesso de prazo na formação da culpa.
+Destaca que "não existe qualquer razoabilidade estando a paciente encarcerada há mais de 812 dias, esperando meramente a realização de uma diligência requerida pela Acusação após a colheita de toda a prova oral, no caso a juntada aos autos do laudo cadavérico da ofendida e as certidões de antecedentes criminais" (e-STJ fl. 47).
+Sublinha que, "da análise detalhada da tramitação do feito, é possível se chegar à conclusão  de  que todos os prazos constantes em lei foram absurdamente extrapolados por culpa que não pode, de maneira alguma, ser atribuída à Defesa" (e- STJ fl. 48).
+Diante dessas considerações, pede, liminar e definitivamente, o relaxamento da custódia cautelar, com a correspondente expedição de alvará de soltura.
+Liminar indeferida às e-STJ fls. 110/112.
+Prestadas as informações, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 157/163).
+É o relatório.
+Decido.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a constatação da violação à garantia constitucional acima referida não se realiza de forma puramente matemática; demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Na espécie, tem-se que o constrangimento ilegal não está configurado, já que se está diante de paciente custodiadaem 4/12/2019, de ação penal complexa que conta com quatro réus eque apura a suposta prática dos graves crimes de roubo majorado e latrocínio, e, além da necessidade da expedição de cartas precatórias para a oitiva de testemunhas, houve a postergação do início da instrução em razão da pandemia de covid-19, bem como a redistribuição do feito em virtude da alteração da competência da Vara (e-STJ fl. 27).
+As informações prestadas pelo Juízo de primeiro grau noticiam, por sua vez, que três audiências de instrução já se realizaram, estando os autos aguardando juntada do laudo de exame cadavérico solicitado pela acusação, após o que será dado vista às partes, abrindo-se,possivelmente, prazo para a apresentação de alegações finais (e-STJ fl. 147), o que sinaliza que o processo se aproxima do fim.
+Portanto, tem-se que o feito vem sendo impulsionado devidamente pelo Juízo e tramita normalmente, não podendo se ignorar os reflexos causados pelopanorama pandêmico na atividade judiciária, de modo que não há falar em desídia ou inércia por parte de julgador, mas sim em situação excepcional que afeta o sistema como um todo.
+Assim, ao menos por ora, não há falar em desídia ou morosidade estatal, o que conduz à conclusão de que inexiste a alegada ilegalidade por excesso de prazo.
+A propósito, mutatis mutandis:
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO.PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. ASFIXIA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. PANDEMIA.AGENTE QUE NÃO INTEGRA GRUPO DE RISCO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO CONFIGURADO.
+ ..
+6. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+7. No caso em exame, o feito vem tendo regular andamento, avizinhando-se o encerramento da instrução. Ademais, o pequeno atraso para o seu término justifica-se em razão da necessidade de expedição de cartas precatórias, além da excepcional suspensão da realização de audiências em virtude da necessidade de conter o avanço da Covid-19, o que já está sendo flexibilizado por intermédio da videoconferência.
+8. Ordem denegada.
+(HC 594.186/SP, de minha relatoria, SEXTA TURMA, julgado em 6/10/2020, DJe 13/10/2020.)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO NÃO CONFIGURADO. PLURALIDADE DE RÉUS. CARTAS PRECATÓRIAS.INSISTÊNCIA DA DEFESA. PROXIMIDADE DO ENCERRAMENTO DA INSTRUÇÃO CRIMINAL.
+ ..
+3. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+4. No caso em exame, o réu está custodiado desde 18/8/2017, e está designada a data de 12/6/2019 para realização de audiência de instrução e julgamento, o que denota o avizinhamento do encerramento da instrução.
+5. Ademais, o pequeno atraso para o seu término se deve à complexidade do feito, a que respondem 3 réus, com necessidade de expedição de 3 cartas precatórias, além da insistência de oitiva de uma testemunha pela defesa mesmo não havendo sido localizada após expedição de carta precatória.
+6. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.8. Ordem denegada.
+(HC 497.414/SP, de minha relatoria, SEXTA TURMA, julgado em 4/6/2019, DJe 11/6/2019.)
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada. Eis a ementa do aludido parecer (e-STJ fl. 157):
+CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. LATROCÍNIO. PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA. CRIME PRATICADO COM REQUINTES DE CRUELDADE. EXCESSO DE PRAZO NÃO CONFIGURADO EM RAZÃO DA PLURALIDADE DE RÉS. PROVA ORAL ENCERRADA - SÚMULA 52/STJ. PRESENTES OS PRESSUPOSTOS PARA A PRISÃO PREVENTIVA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER PELO NÃO PROVIMENTO DO RECURSO.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
