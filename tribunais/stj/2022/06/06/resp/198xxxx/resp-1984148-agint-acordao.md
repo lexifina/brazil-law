@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Banco do Brasil S.A. eBB. Leasing S.A. Arrendamento Mercantil interpuseramrecurso especial contra os acórdãos de fls. 150-176 e 295-301 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementados:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO DE HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL APROVADO EM ASSEMBLEIA GERAL DE CREDORES. POSSIBILIDADE DE ANÁLISE PELO PODER JUDICIÁRIO QUANTO À SUA LEGALIDADE OU EVENTUAL VIOLAÇÃO DE DIREITOS FUNDAMENTAIS DOS CREDORES. HIPÓTESE EM QUE AS CLÁUSULAS INSERTAS NO PLANO DE RECUPERAÇÃO JUDICIAL ESPELHAM A LIBERDADE NEGOCIAL DAS PARTES INTERESSADAS. AUSÊNCIA DE OFENSA A MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE SUPRESSÃO DE GARANTIAS REAIS OU FIDEIJUSSÓRIAS (STJ - REsp 1700487 / MT). PRINCÍPIO DAPRESERVAÇÃO DA EMPRESA EM RECUPERAÇÃO QUE DEVE SER PRESTIGIADO. PRECEDENTES. DESPROVIMENTO DO RECURSO.
+EMBARGOS DE DECLARAÇÃO. EFEITO INFRINGENTE LIMITADO À CORREÇÃO DOS VÍCIOS APONTADOS NO ARTIGO 1.022 DO CPC. AUSÊNCIA DE OMISSÃO NO DECISUM. PROPÓSITO DE PREQUESTIONAMENTO DE MATÉRIA FEDERAL. ENFRENTAMENTO DE TODAS AS QUESTÕES RELEVANTES PARA O COMPLETO JULGAMENTO DA CAUSA. DESPROVIMENTO DOS EMBARGOS.
+Nas razões do recurso especial (e-STJ, fls. 337-367), apontaram os insurgentes a existência de violação dos arts. 489, § 1º, e 1.022, II, do CPC/2015; 49, § 1º, 50, § 1º, 59, 61, caput e § 1º, e 73 da Lei 11.101/2005; 104, 122, 166, II, e 884 do CCB; e 1º da Lei 6.899/1981. Sustentaram, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) nulidade da homologação do plano de recuperação por (a)indevida exoneração de coobrigados,(b) promover enriquecimento sem causa,(c) usurpação de competência,e (d) o plano conter cláusulas puramente potestativas.
+Foram apresentadas contrarrazões às fls. 431-452 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 458-459), ascenderam os autos a esta Corte. Em decisão monocrática de fls. 665-667 (e-STJ), esta relatoria conheceuparcialmente do recurso especial e, nessa extensão, deu-lhe provimento parcial.
+Daí sobreveio este agravo interno (e-STJ, fls. 671-697), no qual defendem BSM Engenharia S.A. eGrupo Tensor Equipamentos S.A., ambas em recuperaçãojudicial, a não ocorrência de negativa de prestação jurisdicional.
+Impugnação às fls. 844-850 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DO PLANO. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA PARCIALMENTE. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Embora defendam os agravantes não ter ocorrido negativa de prestação jurisdicional, deixaram dedemonstrar ter havido, no acórdão recorrido, manifestação suficientesobre os pontos considerados omitidos.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se peloconhecimento apenas parcial do recurso especial, tendo em vista a prejudicialidade da análise da tese de nulidade da homologação do planoe, na parte conhecida, pelo seu provimento parcial, uma vez constatada a ocorrência de negativa de prestação jurisdicional parcial.
+Veja-se às fls. 666-667 (e-STJ):
+Primeiramente, cinge-se o recurso sobre a ocorrência de negativa de prestação jurisdicional. Defendem os recorrentes que o Tribunal de origem omitiu-se sobre os seguintes argumentos: enriquecimento sem causa; existência de disposições puramente potestativas; não observância dos precedentes vinculantes invocados; e nulidade da cláusula que confere prazo para purgação mora.
+Quanto à nulidade da cláusula que confere prazo para purgação mora, verifica-se que houve manifestação suficiente por parte do Tribunal de origem.
+Veja-se às fls. 173-175 (e-STJ):
+Por último, não assiste razão às Agravantes ao alegarem a nulidade da cláusula que prevê a possibilidade de purga da mora, antes da decretação da falência, em caso de descumprimento das obrigações previstas no plano de recuperação judicial. Decerto, nos termos do artigo 73, IV da Lei 11.101/05, o descumprimento das obrigações insertas no PRJ importa na convolação da recuperação em falência (cf. artigo 61, § 1º da LRJ). In casu, a cláusula ora impugnada não impede que haja a convolação da recuperação em falência, ou tampouco condiciona a sua ocorrência à prévia consulta à assembleia de credores. ..  Na hipótese sub studio, o plano de recuperação judicial apenas prevê um prazo de trinta dias para que as Empresas recuperandas possam purgar asua mora e honrar fielmente as obrigações previstas no PRJ, em caso de seu eventual inadimplemento. E, uma vez cumprida integralmente a obrigação, alcança-se o resultado pretendido em benefício de seu credor e, de outro lado, impede-se a convolação em falência. Trata-se de medida afinada com o propósito de preservação da empresa em recuperação, que se pode extrair da sua lei de regência..
+Nesse ponto, não assiste razão aos recorrentes, quando defendem a ocorrência de negativa de prestação jurisdicional, porquanto a questão considerada omitida foi apreciada pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+Já com relação às demais omissões, com razão os recorrentes.
+Observa-se que, de fato, a Corte local não se manifestou sobre tais argumentos e, embora os recorrentes tenham provocado o TJRJ através dos aclaratórios (e-STJ, fls. 262-272), este permaneceu silente, conforme se nota da ementa acima colacionada.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não das teses invocadas, elas deveriam ser analisadas pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência. A análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Na presente insurgência, defendemas agravantesa não ocorrência de negativa de prestação jurisdicional sem, contudo, demonstrar ter havido, no acórdão recorrido,manifestação suficiente sobre os pontos considerados omitidos.
+Vale ressaltar que alguns trechos invocados pelas agravantes nem sequer pertencem ao acórdão recorrido.
+Dessa forma, prevalecem os fundamentos da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
