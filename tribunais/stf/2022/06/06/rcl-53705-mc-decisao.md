@@ -1,0 +1,77 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, ajuizada por Empresa de Saneamento de Mato Grosso do Sul S.A - Sanesul, em face de ato do Juízo da 3ª Vara Cível da Comarca de Corumbá/MS, no Cumprimento de Sentença nº 0804023-24.2020.8.12.0008 que, ao denegar a aplicação do Regime de Fazenda Pública à reclamante, sociedade de economia mista, prestadora de serviço público essencial e não concorrencial, teria desrespeitado a autoridade das decisões proferidas por esta Corte nos julgamentos das ADPFs 387, 437 e 556, e também na Reclamação nº 45.615.
+
+    Assevera-se que, no cumprimento de sentença de uma ação de danos morais em que se obteve êxito em face da ora reclamante, o juízo de primeiro grau determinou o pagamento sem considerar tratar-se de Sociedade de Economia Mista possuidora dos mesmos privilégios da Fazenda Pública para pagamento de dívidas.
+
+    Articula-se com a possibilidade de se conceder, à parte reclamante, as prerrogativas da Fazenda Pública uma vez que “é sociedade de economia mista prestadora dos serviços públicos de abastecimento de água e esgotamento sanitário e o seu capital é integralmente público (o Estado de Mato Grosso do Sul édetentor de 99,91% das ações da reclamante e a Agesul – Agência Estadual de Gestão de Empreendimentos de Mato Grosso do Sul -, autarquia pública estadual, é detentora dos 0,09% restantes)”(eDoc 1, p. 2).
+
+    Afirma-se que “os dividendos são pagos na forma de juro sobre capital próprio e, no caso, esses valores são usados, pelo Estado, como aumento do capital social da reclamante” (eDoc 1, p. 2).
+
+    Salienta-se que esta Corte, no julgamento do Tema 253 da repercussão geral firmou a orientação no sentido de que os privilégios da Fazenda Pública são inextensíveis às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham como objetivo distribuir lucros aos seus acionistas, diferentemente da reclamante, que presta os serviços em forma de monopólio.
+
+    Nesse contexto, requer a concessão de medida liminar para suspender o ato impugnado e, no mérito, requer seja julgada procedente a ação para que sejam aplicadas, à reclamante, as prerrogativas da Fazenda Pública, dentre elas, o regime de precatórios.
+
+    É o relatório. Decido.
+
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+
+    Inicialmente, e em relação a alegada violação às Reclamação 45.615, de relatoria do Ministro Ricardo Lewandowski, mostra-se inviável a reclamação por esbarrar na firme jurisprudência desta Suprema Corte que considera incabível seu manejo fundada em afronta a paradigma sem efeito vinculante e relativo a processo do qual o reclamante não participou. Vejam-se, por todos, os seguintes julgados:
+
+    Direito Constitucional e Processual Civil. Agravo Interno em Reclamação. Alegação de afronta ao direito objetivo. Inadmissibilidade. 1. A reclamação a esta Corte só é cabível quando se tratar de usurpação de sua competência ou de ofensa à autoridade de suas decisões (art. 102, I, l, da Constituição). A alegação de ofensa ao direito objetivo ou a enunciado de súmula sem efeito vinculante não dá ensejo à propositura de reclamação. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (Rcl 6563 AgR, Rel. Min. Roberto Barroso, Primeira Turma, julgado em 20.04.2018).
+
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL. AFRONTA À DECISÃO TOMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. PROCESSO DE ÍNDOLE SUBJETIVA DA QUAL NÃO FIGUROU COMO PARTE O RECLAMANTE. DECISÃO QUE NÃO TEM EFEITO VINCULANTE E EFICÁCIA ERGA OMNES. SUCEDÂNEO DE RECURSO. NECESSIDADE DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO. 1. A tese jurídica definida por esta Suprema Corte é no sentido de que não cabe reclamação constitucional, com a finalidade de preservar autoridade de decisão, por inobservância de súmula da jurisprudência predominante do Supremo Tribunal Federal destituída de efeito vinculante ou decisão tomada no âmbito de julgamento de recurso extraordinário com repercussão geral reconhecida, sem o necessário esgotamento das instâncias ordinárias. 2. O acórdão paradigma foi prolatado em processo de índole subjetiva, desprovido de eficácia erga omnes e efeito vinculante, no qual não figurou como parte o reclamante. 3. Para a aplicação de norma jurídica, resultante de processo interpretativo levado a cabo em julgamento de recurso extraordinário com repercussão geral reconhecida, faz-se necessário o percusso, e esgotamento, das instâncias ordinárias, por meio da sistemática recursal, cuja finalidade é assegurar o controle do erro e acerto da aplicação do direito. 4. O manejo de reclamação, ação constitucional de fundamentação vinculada, é restrito às hipóteses expressamente previstas nos arts. 102, I, l, e 103-A, § 3º, da Constituição da República, de modo que é incabível a sua utilização como sucedâneo de recurso ou atalho processual. 5. Agravo regimental conhecido e não provido. (Rcl 20.631 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 13.3.2017). (grifou-se)
+
+    Confiram-se, ainda, em igual sentido: Rcl 26.998, Rel. Min. Alexandre de Moraes, DJe 26.5.2017; Rcl 27.073, de Rel. Min. Gilmar Mendes, DJe 25.5.2017; Rcl 26.986, Rel. Min. Celso de Mello, DJe 25.5.2017; Rcl 10.266 AgR, Rel. Min. Marco Aurélio, DJe 11.2.2015, dentre outros.
+
+    Passa-se a análise da alegada violação às ações de controle concentrado: ADPFs 387, 437 e 556
+
+    Convém ressaltar que a controvérsia relativa à aplicabilidade do regime de precatórios às entidades da Administração Indireta prestadoras de serviços públicos essenciais foi tratada por esta Corte no Tema 253 da sistemática da repercussão geral, cujo piloto é o RE-RG 599.628, de relatoria do Ministro Ayres Britto e com redação para acórdão do Ministro Joaquim Barbosa, Tribunal Pleno, DJe 17.10.2011:
+
+    “FINANCEIRO. SOCIEDADE DE ECONOMIA MISTA. PAGAMENTO DE VALORES POR FORÇA DE DECISÃO JUDICIAL. INAPLICABILIDADE DO REGIME DE PRECATÓRIO. ART. 100 DA CONSTITUIÇÃO. CONSTITUCIONAL E PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL CUJA REPERCUSSÃO GERAL FOI RECONHECIDA. Os privilégios da Fazenda pública são inextensíveis às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham como objetivo distribuir lucros aos seus acionistas. Portanto, a empresa Centrais Elétricas do Norte do Brasil S.A. - Eletronorte não pode se beneficiar do sistema de pagamento por precatório de dívidas decorrentes de decisões judiciais (art. 100 da Constituição). Recurso extraordinário ao qual se nega provimento.”
+
+    Por sua vez, no âmbito do julgamento da ADPF 387, da relatoria do Ministro Gilmar Mendes, Tribunal Pleno, DJe 25.10.2018, concluiu-se:
+
+    “Arguição de descumprimento de preceito fundamental. 2. Ato lesivo fundado em decisões de primeiro e de segundo graus do Tribunal Regional do Trabalho da 22ª Região que determinaram bloqueio, penhora e liberação de valores oriundos da conta única do Estado do Piauí, para pagamento de verbas trabalhistas de empregados da Empresa de Gestão de Recursos do Estado do Piauí S/A (EMGERPI). 3. Conversão da análise do pedido de medida cautelar em julgamento de mérito. Ação devidamente instruída. Possibilidade. Precedentes. 4. É aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Precedentes. 5. Ofensa aos princípios constitucionais do sistema financeiro e orçamentário, em especial ao da legalidade orçamentária (art. 167, VI, da CF), aos princípios da independência e da harmonia entre os Poderes (art. 2º da CF) e ao regime constitucional dos precatórios (art. 100 da CF). 6. Arguição de descumprimento de preceito fundamental julgada procedente.”
+
+    Nesse sentir, ao julgar a ADPF-MC 437, ação pela qual se buscava o reconhecimento da sujeição de execução de decisões judiciais proferidas contra a EMATERCE, empresa pública integrante da estrutura administrativa do Poder Executivo, ao regime de precatórios previsto no art. 100 da Constituição da República, bem como a inviabilidade da constrição das contas públicas do Estado do Ceará para satisfazer a execução de decisões judiciais proferidas em face da estatal, a Min. Rosa Weber, ao deferir em parte o pedido de liminar, assim consignou:
+
+    “12. Verifico a prevalência, no âmbito do Tribunal Regional do Trabalho da 7ª Região, do entendimento de que incabível a sujeição da Empresa de Assistência Técnica e Extensão do Ceará (EMATERCE) ao regime de precatórios assegurado pelo art. 100 da Lei Maior às Fazendas Públicas Federal, Estaduais, Distrital e Municipais, por se tratar de ente dotado de personalidade jurídica de direito privado.
+
+    A teor do art. 173, § 1º, II, da Constituição da República, a empresa pública ou a sociedade de economia mista que explora atividade econômica de produção ou comercialização de bens ou de prestação de serviços está sujeita ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários.
+
+    (…)
+
+    Extraio da documentação trazida aos autos que a EMATERCE, embora constituída sob a forma de empresa pública, não explora atividade econômica em sentido estrito, em regime de mercado. Antes, desempenha atividade de Estado, em regime de exclusividade e sem finalidade de lucro, dependendo integralmente do repasse de recursos públicos. A teor do art. 80, II, da Lei nº 13.875/2007 do Estado do Ceará, que procedeu à reestruturação da Administração Estadual, a Empresa de Assistência Técnica e Extensão Rural do Ceará – EMATERCE integra a estrutura administrativa do Poder Executivo, tendo por finalidades institucionais ‘a promoção e execução da política agrícola estadual, compreendendo o desenvolvimento das atividades relativas à assistência técnica e à extensão rural sustentável do Estado, utilizando processos educativos que assegurem a apropriação de conhecimento e informações a estes produtores e suas organizações, bem como regulamentar os regulares atendimentos técnicos e integrados nas gestões municipais e entidades privadas quando componentes de políticas subsidiadas com recursos públicos’.”
+
+    Ao julgar a ADPF 556, de relatoria da Ministra Cármen Lúcia, a Corte concluiu:
+
+    ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. CONSTITUCIONAL. ADMINISTRATIVO. FINANCEIRO. DECISÕES JUDICIAIS DE BLOQUEIO, PENHORA, ARESTO E SEQUESTRO DE RECURSOS PÚBLICOS DA COMPANHIA DE ÁGUAS E ESGOTOS DO RIO GRANDE DO NORTE CAERN. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO ESSENCIAL. APLICABILIDADE DO REGIME DE PRECATÓRIOS. PRECEDENTES. INDEPENDÊNCIA ENTRE OS PODERES. LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO PARCIALMENTE CONHECIDA E, NESTA PARTE, JULGADA PROCEDENTE.
+
+    1. Não autoriza análise de ato questionado por arguição de descumprimento de preceito fundamental quando se cuidar de ofensa reflexa a preceitos fundamentais. Precedentes.
+
+    2. A Companhia de Águas e Esgotos do Rio Grande do Norte CAERN é sociedade de economia mista, prestadora de serviço público em regime não concorrencial e sem intuito primário de lucro: aplicação do regime de precatórios (art. 100 da Constituição da República). Precedentes.
+
+    3. Decisões judiciais de bloqueio, penhora, aresto e outras formas de constrição do patrimônio público de empresa estatal prestadora de serviço público em regime não concorrencial: ofensa à legalidade orçamentária (inc. VI do art. 167 da Constituição), à separação funcional de poderes (art. 2º da Constituição) e à continuidade da prestação dos serviços públicos (art. 175 da Constituição). Precedentes.
+
+    4. Arguição parcialmente conhecida e, nesta parte, julgada procedente para determinar a suspensão das decisões judiciais que promoveram constrições patrimoniais por bloqueio, penhora, arresto, sequestro e determinar a sujeição ao regime de precatórios à Companhia de Água e Esgoto do Rio Grande do Norte CAERN.
+
+    Assentadas as premissas teóricas, depreende-se, como premissa fática, que a reclamante é sociedade de economia mista, presta serviço público essencial, cujo objeto social é a exploração de serviços públicos e sistemas privados de abastecimento de água, bem como serviços relacionados à proteção do meio ambiente e aos recursos hídricos.
+
+    Assim, em uma análise preliminar, verifica-se a presença do fumus boni iuris porquanto há aparente violação aos processos paradigmas já citados. Igualmente, também estaria suficientemente configurado o periculum in mora, dado o fundado receio de que a decisão ora combatida venha a produzir efeitos de cunho executivo, de incerta reversibilidade, caso haja penhora para pagamento de verbas trabalhistas. Além disso, constata-se elevado risco de comprometimento do patrimônio e das receitas da sociedade reclamante.
+
+    Destarte, defiro a liminar para, até o julgamento do mérito desta reclamação, suspender os efeitos de medidas de execução judicial dos débitos contra a Sociedade de Economia Mista em comento, autorizando, de todo modo, tendo em vista o prazo constitucional, a expedição de requisição de pagamento.
+
+    Requisitem-se as informações à autoridade reclamada, no prazo legal, nos termos do artigo 989, inciso I, do CPC.
+
+    Ainda, cite-se a beneficiária do ato reclamado, conforme disposto no artigo 989, inciso III, do CPC, a fim de que apresentem contestação, no prazo legal.
+
+    Findos os prazos, remetam-se os autos à Procuradoria-Geral da República, para oferta de Parecer.
+
+    Publique-se. Intime-se. Comunique-se.
+
+    Brasília, 6 de junho de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+  Documento assinado digitalmente
