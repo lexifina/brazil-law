@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de pedido de extensão formulado por EDILBERTO TEIXEIRA NETO, no qual se busca a extensão da ordem concedida em favor do corréu JOSE ANTONIO DE MOURA na decisão de fls. 287/290.
+Extrai-se dos autos que o requerente teve a prisão preventiva decretada em 28/9/2021, na denominada "Operação Balada", na qual se apura a prática dos delitos de organização criminosa, tráfico de drogas e de armamentos e lavagem de dinheiro. Posteriormente, foi denunciado pela suposta prática dos crimes previstos no art. 2º, caput, §§ 2º e 4º, IV, da Lei n. 12.850/2013 e no art. 35 da Lei n. 11.343/2006 (organização criminosa e associação para o narcotráfico).
+Em 1/6/2022,o Juízo de primeiro grau, no feito n. 0175064- 83.2021.8.13.0702, concedeu a liberdade provisória ao acusado, mediante a aplicação de medidas cautelares alternativas, entre elas a fiança, que foi arbitrada no valor de R$ 30.000,00 (trinta mil reais).
+Em 7/4/2022 deferi liminar para reduzi o valor da fiança arbitrada ao corréu, e, em 12/5/2022 concedi a ordem, de ofício, confirmando a liminar deferida.
+Daí o presente pedido de extensão, no qual o requerente afirma que se encontra em situação idêntica à do corréu e faz jus à redução do valor da fiança arbitrada, em consonância com o art. 580 do CPP, ante a incidência da aplicação do princípio da isonomia.
+Alega que o requerente não recolheu a fiança arbitrada e não tem condições de arcar com o valor fixado
+Pugna, assim, pela extensão da ordem concedida em favor do corréu, para que seja reduzida a fiança arbitrada.
+É o relatório.
+Decido.
+Conforme se observa dos autos o ora requerente encontra-se na mesma situação fático-processual verificada pelo corréu, tendo em vista que o Juízo de primeiro grau, em ação penal relativa à denominada "Operação Balada" deferiu a liberdade provisória em seu favor, em 1/6/2022, mediante a aplicação de medidas cautelares alternativas, entre elas a fiança, arbitrada em R$ 30.000,00 (trinta mil reais), a ser recolhido no prazo de 30 dias (fls. 326/327). Assim, nos termos do art. 580 do CPP, o requerente faz jus à extensão da ordem concedida no presentemandamus.
+Diante do exposto, defiro o pedido apenas para estender ao ora requerente a ordem concedida ao corréu, reduzindo o valor arbitrado a título de fiança no feito n. 0175064-83.2021.8.13.0702 para R$ 15.000,00 (quinze mil reais).
+Publique-se.
+Intimem-se.
