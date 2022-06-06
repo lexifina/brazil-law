@@ -1,0 +1,15 @@
+DECISÃO
+A Federação Nacional dos Sindicatos de Trabalhadores em Saúde, Trabalho, Previdência e Assistência Social FENASPS, por meio da petição de fls. 1.016/1.021, requer sua intervenção no feito na qualidade deamicus curiae.
+O pedido, contudo, não pode ser admitido,pois o processo já foi incluído na pauta de julgamento do próximo dia 08/06/2022.
+Nesse sentido,confira-se o seguinte trecho do julgamento proferido noEDcl nos EDcl no AgInt no RE nos EDcl no AgRg nos EREsp 1091363/SC, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 01/02/2019, DJe 07/03/2019:
+Não é possível o deferimento de pedido de ingresso de amicus curiae na hipótese em que o pedido é protocolado posteriormente à inclusão do processo em pauta para julgamento, segundo a jurisprudência do Supremo Tribunal Federal.
+Nessa mesma linha, confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA PETIÇÃO EM RECURSO ESPECIAL. PEDIDO DO AGRAVANTE DE INGRESSO NA LIDE COMO AMICUS CURIAE. DEMANDA JÁ JULGADA. INTEMPESTIVIDADE. AUSÊNCIA DE EXCEPCIONALIDADE NA POSTULAÇÃO. DESCABIMENTO DO PLEITO DE INGRESSO. INDEFERIMENTO DETERMINADO PELA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do STF na matéria, especialmente por ocasião do julgamento da ADI 4.071 e da ACO 779/RJ, admite o ingresso de amicus curiae até a inclusão do feito em pauta. No julgamento do AgRg na ACO 779, Rel. Ministro Dias Toffoli, admitiu-se a possibilidade, em tese, do ingresso na lide de amicus curiae após a inclusão do feito em pauta desde que haja demonstração de uma situação excepcional.
+2. No caso dos autos, o pedido de ingresso não ocorreu apenas depois da inclusão do feito em pauta, mas após o próprio julgamento efetivado. Ademais, ainda que se admitisse que a atual demanda se encontra na mesma situação processual daquela que fora julgada pelo STF, não há nesta qualquer situação de excepcionalidade, por duas razões básicas: o requerente não fundamentou qualquer excepcionalidade a ser considerada; e a questão posta para análise reduz-se a um tema estritamente jurídico, não exigindo a manifestação de experts na área técnica ou científica.
+3. Por fim e a corroborar a absoluta ausência de excepcionalidade, bem como a não ocorrência de qualquer prejuízo ao agravante na submissão de suas ponderações ao debate, com o decisório proferido após a interposição do presente agravo regimental, a questão foi sobrestada até o julgamento do REsp 1.492.221/PR.
+4. Assim, com o julgamento do citado recurso especial na sessão de 22/2/2018, publicado o acórdão em 20/3/2018, ficou delimitada a tese jurídica buscada pelo ora agravante nestes autos, motivo pelo qual a sua inadmissão nesta lide não lhe provocou qualquer prejuízo dada a possibilidade de debate do tema que foi efetivado naquele apelo nobre.
+5. Agravo regimental a que se nega provimento.
+(AgRg na PET no REsp n. 1.270.439/PR, relator Ministro Og Fernandes, Primeira Seção, julgado em 25/4/2018, DJe de 4/5/2018.)
+Ante o exposto, indefiro o pedido
+Publique-se.
