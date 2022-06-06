@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  pelo ESTADO DO RIO GRANDE DO SUL contra  decisão  monocrática proferida pela Presidência do Superior Tribunal de Justiça (fls. 276/279), que conheceu do agravo para não conhecerdo recurso especial, tendo em vistaser incabível o recurso especial contra acórdão com fundamento eminentemente constitucional.
+2.  A parte insurgente, nas razões do agravo interno  (fls.  283/288),  refuta os fundamentos da decisão agravada, alegando que a pretensão trazida ao exame do STJ diz, tão só, com dispositivo de lei federal (infraconstitucional) em que a Corte de origem se apoiou para afastar a falta de interesse de agir por não ter a parte formulado o requerimento administrativo para obter a isenção do imposto sobre a renda(fl. 284).
+3.  Requer,  ao  final, a reforma da decisão monocrática agravada, a fim de que seja afastado o óbice processual e de que seja conhecido e provido o recurso especial (fl. 288).
+4.  Houve  impugnação  ao  recurso  (fl.  291).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA APRECIADA PELA CORTE DE ORIGEM SOB ENFOQUE CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Ainda que o recorrente aponte violação a dispositivos infraconstitucionais, quando o Tribunal de origem soluciona a controvérsia sob enfoque constitucional (direito fundamental ao acesso à justiça - art. 5º, XXXV, da CF; direito fundamental de eficácia plena - art. 5º,§ 1º, da CF), a eventual reforma do acórdão recorrido compete ao Supremo Tribunal Federal, sob pena de usurpação dacompetência inserta no art. 102, III,da Constituição Federal.
+2. Agravo interno desprovido.
+VOTO
+1. A despeito das alegações da parte agravante, razão não lhe assiste.
+2. O  Tribunal  de  origem, no enfrentamento da matéria sub judice,  lançou  os  seguintes  fundamentos:
+Eminentes Colegas, entende este Tribunal que não fica o cidadão obrigado a esgotar avia administrativa para que tenha interesse processual e, assim, ingresse em juízo, mormente quando há expressa previsão constitucional de livre acesso ao Judiciário.
+Aliás, prescindível até mesmo que haja prévio pedido administrativo, ainda mais em se tratando de questão diretamente ligada à vida e à saúde do cidadão, como a isenção do imposto de renda por doença grave.
+Por outro lado, a formulação de requerimento administrativo não exclui a possibilidade da parte, se necessário for, buscar o Poder Judiciário frente à omissão dos entes federados.
+Sobre o tema, cito julgados desta Primeira Câmara Cível, precisamente no sentido de não estabelecer restrição ao direito fundamental do acesso à justiça positivado no art. 5º, XXXV, da CF/88:
+(..)
+De outro lado, a tese fixada no Tema 350 do STF1 (RE nº 631.240/MG)está relacionadas à questão de concessão de benefícios previdenciários e não do direito à isenção tributária, como na espécie, situação que por si só já justificaria necessidade de maior ônus argumentativo para "expansão" da tese, no mínimo para demonstrar que o entendimento lá encampado é compatível, por exemplo, com a isenção tributária.
+Destaco que se está a tratar de direito fundamental de eficácia plena (art. 5º, § 1º, da CF/88) que garante o acesso ao judiciário e em situação concreta que é reiteradamente objeto de litígio, ainda que com requerimento administrativo e até mesmo laudo dessa esfera, conforme farta jurisprudência desta Corte de Justiça.
+Exalto também que o direito do contribuinte à isenção em questão não surge a partir do requerimento administrativo, da recusa na esfera administrativa ou mesmo laudo realizado nesse âmbito, mas sim da data em que diagnosticada a patologia, como segue:
+(..)
+Tal circunstância demonstra que não é a recusa administrativa que faz nascer o direito de ação ou mesmo preencher o requisito do interesse de agir do contribuinte à desoneração, e mais, desvela o litigio presumido da questão, já que comezinha a posição do Fisco de tentar restringir o benefício a partir da data do pedido administrativo, mormente em se tratando de doença não expressamente listada no art. 6º, XIV, da Lei 7.713/88, como é o mal de Alzheimer.
+(..)
+Não descuro dos julgados do Superior Tribunal de Justiça (AgInt no REsp1652049/SC e REsp 1734733/PE) que sinalizam a aplicação da tese firmada no Tema 350 do Supremo Tribunal Federal a questões tributárias, mas ressalto que essa extensão aplicativa da tese não está explicitamente reconhecida na decisão vinculativa da Corte Suprema e nem vem afirmada em precedente de observância obrigatória da Corte Superior.
+De outro lado, entendo imprescindível o processamento do feito na origem, uma vez que a discussão envolve questão de fato, em que o duplo grau de jurisdição somente é garantido nos meios ordinários de jurisdição (1º e 2º grau), de modo que se deve primar pelo efetivo contraditório, sem julgamento antecipado do feito.
+De qualquer forma, em observância ao pedido de tutela de urgência promovido na origem e diante da probabilidade do direito e do periculum in mora (art. 300 do CPC/15)decorrente do atestado médico apresentado (evento 1 - atestado médico 5), que atesta a doença e a situação de alienação e interdição da recorrente, defiro a pretensão antecipada para determinar a suspensão dos descontos de imposto de renda nos proventos da apelante.
+Assim sendo, caracterizado o interesse de agir do contribuinte em buscar a isenção por força da doença grave, imperiosa a reforma da sentença para que o feito retome sua regular tramitação, com o deferimento da tutela de urgência para sustar os descontos de imposto de renda sobre os proventos da apelante (fls. 125/129 - sem destaques no original).
+3. Assim, ainda que o agravante aponte violação a dispositivo infraconstitucional, conforme se observa na leitura do acórdão recorrido, a Corte de origem, ao julgar a controvérsia, fundou seu entendimento em preceito de natureza constitucional (direito fundamental ao acesso à justiça - art. 5º, XXXV, da CF; direito fundamental de eficácia plena - art. 5º, § 1º, da CF), o que afasta a possibilidade de análise da pretensão recursal na via do recurso especial, sob pena de usurpação da competência do STF, por expressa determinação do art. 102, III, da Constituição Federal. Nesse sentido:
+PROCESSUAL CIVIL. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese concreta, não se mostra viável o conhecimento do Recurso Especial, sendo inaplicáveis os precedentes do STJ a respeito do tema. O acórdão hostilizado não solucionou a lide com base na exegese da legislação federal, mas sim na sua compatibilidade com a Constituição Federal de 1988. Com efeito, a Corte de origem consignou que, conforme entendimento fixado no STF no julgamento do RE 237.965, o art. 1º da Lei 5.724/1971 seria inconstitucional.
+2. O Recurso Especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme. Não é, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, segundo dispõe o art. 102, III, da Carta Magna.
+3. Agravo Interno não provido (AgInt no AREsp 1.739.782/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/07/2021).
+4. Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+5. Pelas considerações expostas, nego provimento ao agravo interno.
+6. É como voto.
