@@ -1,0 +1,69 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu orecurso especial interposto por AMANIS INDÚSTRIA E COMÉRCIO DE EQUIPAMENTOS PARA ILUMINAÇÃO EIRELI, com amparo no art. 105, III, "a", da CF/1988, em oposição a acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJ, fl. 149):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. CDA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. NULIDADE NÃO CONFIGURADA. ENCARGOS LEGAIS. DECRETO-LEI Nº 1.025/69. RECURSO IMPROVIDO.
+I. Inicialmente, no tocante à alegada nulidade da Certidão da Dívida Ativa - CDA, a teor do disposto no artigo 204 do CTN, reproduzido pelo artigo 3º da Lei n.º 6.830/80, a Dívida Ativa regularmente inscrita goza de presunção juris tantum de certeza e liquidez, podendo ser ilidida por prova inequívoca a cargo do sujeito passivo ou de terceiro a que aproveite.
+II. Verifica-se que foram especificados na CDA os fundamentos legais da dívida, a natureza do crédito, a origem, a quantia principal e os encargos, não havendo qualquer omissão que as nulifique.
+III. Ainda, no que concerne aos encargos legais previstos no Decreto-Lei nº 1.025/69, o Superior Tribunal de Justiça já proferiu entendimento atestando a sua legalidade.
+IV. Apelação da parte embargante improvida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 178-183).
+Alega a parte recorrente a existência de violação dos arts.1.022 do CPC; 202,e 203 do CTN; e 2º, § 5º, da LEF, argumentando, em síntese, ausência dos requisitos essenciais de validade da CDA.
+Asseveraque o colegiado local, não obstante a oposição de embargos declaratórios, não sanou a omissão apontada.
+A negativa de admissibilidade teve por fundamento oóbicedaSúmula n. 7 do STJ.
+É o relatório.
+Impugnados os fundamentos da decisão agravada, passo à análise do recurso especial.
+Não assiste razão àparteinsurgenteno ponto em que aduzcontrariedade aoart. 1.022, II, do CPC, porquanto o acórdão combatido fundamentou claramente seu posicionamento, consignando, expressamente, que:(e-STJ, fl. 147):
+Outrossim, não prospera as alegações de inconstitucionalidade e ilegalidade das contribuições sociais em cobro.
+No caso em tela, não restou comprovado nenhuma irregularidade na Certidão da Dívida Ativa - CDA, de modo que não prosperam as alegações da parte embargante.
+Ainda, no que concerne aos encargos legais previstos no Decreto-Lei nº 1.025/69, o Superior Tribunal de Justiça já proferiu entendimento atestando a sua legalidade.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhumvício passível de exame em embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE SOLIDÁRIA.MINERAÇÃO DE CARVÃO. RECUPERAÇÃO AMBIENTAL DA ÁREA DEGRADADA.INEXISTÊNCIA DE VÍCIO DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO.
+1. O presente recurso especial decorre de agravo de instrumento interposto contra decisão proferida em sede de cumprimento de sentença, em que imputada à ora recorrente a responsabilidade solidária pela recuperação ambiental de área "órfã", sob o entendimento de que os danos ambientais ocorridos no local resultaram das atividades por ela exercida.
+2. Não há falar em ofensa ao art. 489, II, e § 1º, IV, do CPC/2015, tendo em vista que o acórdão recorrido apresentou fundamentação adequada no sentido de que não foram apresentados elementos suficientes para infirmar a conclusão da decisão agravada de que tanto a ora recorrente como uma outra carbonífera contribuíram para o dano ambiental em questão, conclusão essa baseada nos documentos juntados aos autos e corroborados por depoimentos de testemunhas.
+3. Também não falar em ofensa arts. 494, II, e 1.022, II, do CPC/2015, tendo vista que, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que as provas dos autos indicam que tanto a Coque Catarinense como a Carbonífera Treviso contribuíram para a degradação da área "órfã", seja pela erosão de depósitos de rejeitos, seja pela utilização desse material no aterramento de áreas baixas e recobrimento primário de estradas.
+ ..
+5. Recurso especial não provido.
+(REsp n. 1.722.488/SC, relator MinistroMauro Campbell Marques, Segunda Turma, DJe de 29/5/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunala quoapreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.595.272/SC, relator MinistroMauro Campbell Marques, Segunda Turma,DJe de 8/6/2016.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II, do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp n. 884.151/PA, relator MinistroNapoleão Nunes Maia Filho, Primeira Turma, DJe de 13/6/2016.)
+Quanto ao mais, éassente o entendimento de que a inscrição da dívida ativa gera a presunção de liquidez e certeza desde que contenha todas as exigências legais.Na hipótese dos autos, verifica-se que o Tribunal de origem entendeu que estariam presentes todos os requisitos legais autorizadores de validadeda CDA.
+Confira-se (e-STJ, fls. 144-147):
+Inicialmente, no tocante à alegada nulidade da Certidão da Dívida Ativa - CDA, a teor do disposto no artigo 204 do CTN, reproduzido pelo artigo 3º da Lei n.º 6.830/80, a Dívida Ativa regularmente inscrita goza de presunção juris tantum de certeza e liquidez, podendo ser ilidida por prova inequívoca a cargo do sujeito passivo ou de terceiro a que aproveite. No caso concreto, a CDA acostada aos autos preenche, a contento, os requisitos exigidos pelos artigos 202 do CTN e 2º, § 5º, da Lei nº 6.830/80, in verbi: ..
+Verifica-se que foram especificados nas CDAs os fundamentos legais da dívida, a natureza do crédito, a origem, a quantia principal e os encargos, não havendo qualquer omissão que as nulifique.
+ ..
+Outrossim, não prospera as alegações de inconstitucionalidade e ilegalidade das contribuições sociais em cobro. No caso em tela, não restou comprovado nenhuma irregularidade na Certidão da Dívida Ativa - CDA, de modo que não prosperam as alegações da parte embargante.
+Para afastar o entendimento a que chegou a Corte local, de modo a albergar as peculiaridades do caso e verificar os requisitos de validade da CDA,como sustentado norecurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na viaespecial, por óbice da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Em outros casos, este foi o entendimentodo STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSAAOSART.489, 926 E 1.022 DO CPC/2015 NÃO CONFIGURADA. EXECUÇÃO FISCAL. CDA. NULIDADE. AUSÊNCIA DE REQUISITOS LEGAIS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO VEDADA.SÚMULA 7/STJ. EMENDA OU SUBSTITUIÇÃO DO TÍTULO EXECUTIVO EM QUESTÃO.IMPOSSIBILIDADE.
+ ..
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "No caso presente e de forma frequente no Município - agravante, observa-se que a CDA não menciona qualquer legislação referente aos tributos e, de outro lado, é imprecisa quanto à atualização monetária, multa e juros o que dificulta, sobremaneira, o exercício do direito de defesa do executado, além de prejudicar o controle judicial sobre o ato administrativo.  ..  Assim, era mesmo de rigor o reconhecimento da nulidade da CDA, já que "admitir certidão de dívida ativa sem a satisfação das poucas exigências legais, representa não apenas a violação ao princípio da estrita legalidade, que rege a Administração Pública, mas, num contexto mais amplo, do princípio do devido processo legal processual (e seus corolários: ampla defesa e contraditório) e substancial"".
+3. Outrossim, no julgamento dos Embargos de Declaração, o Tribunal a quo esclareceu que "ao contrário do que aduz o embargante, era nítida a nulidade da CDA por falta de menção a qualquer legislação referente aos tributos. Impossível, assim, conforme fundamentação trazida na decisão agravada, a substituição da CDA".
+4. Com efeito, o STJ tem decidido reiteradamente que não cabe apreciar se a CDA que instrui a Execução Fiscal preenche os requisitos formais para instauração do feito, por demandar revisão da matéria fático-probatória, vedação contida na Súmula 7/STJ.
+ ..
+6. Agravo conhecido para conhecer parcialmente do Recurso Especial, apenas em relação ao art. 1.022 do CPC/2015, e, nessa parte, não provido.
+(AREsp n. 1.588.954/SP,relator MinistroHerman Benjamin, Segunda Turma, DJe de 19/5/2020.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. INFRAÇÃO ADMINISTRATIVA. NULIDADE DA CDA. SUBSTITUIÇÃO. POSSIBILIDADE. AUSÊNCIA DE IRREGULARIDADES OU PREJUÍZO À DEFESA DA RECORRENTE. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. AUSÊNCIA DE INDICAÇÃO DO PRECEITO LEGAL. SÚMULA 284/STF. RECURSO DO QUAL NÃO SE CONHECE.
+1. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, enfatizou que, apesar da existência de nulidade na CDA, a União procedeu a sua substituição em tempo hábil, tendo sido sanada a irregularidade, "sem qualquer prejuízo à defesa da executada/embargante" (fl. 517, e-STJ).
+2. Para modificar o entendimento firmado no acórdão recorrido, verificando se a substituição da CDA causou prejuízo à defesa da recorrente, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme a Súmula 7 do STJ.
+3. É inadmissível o Recurso Especial que se fundamenta na existência de divergência jurisprudencial, mas se limita, para a demonstração da similitude fático-jurídica, à mera transcrição de ementas e de trechos de votos, tampouco indica qual preceito legal fora interpretado de modo dissentâneo. Hipótese, por extensão, da Súmula 284/STF.
+4. Recurso Especial não conhecido.
+(REsp n. 1.670.547/RS,relator MinistroHerman Benjamin, Segunda Turma, DJe de 30/6/2017.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 535 DO CPC. INEXISTÊNCIA DE VIOLAÇÃO. EXECUÇÃO FISCAL. SUBSTITUIÇÃO DA CDA. ANÁLISE QUANTO À ALTERAÇÃO DO LANÇAMENTO. SÚMULA 7/STJ.
+1. Não viola o art. 535, II, do CPC o acórdão que decide de forma suficientemente fundamentada, não estando a Corte de origem obrigada a emitir juízo de valor expresso a respeito de todas as teses e dispositivos legais invocados pelas partes.
+2. A divergência instaurada entre o que se afirma no recurso especial e o que se consignou no acórdão recorrido - quanto à alegação da recorrente de que a substituição da CDA operou a alteração do lançamento - demandaria inadmissível incursão em seara fático-probatória, em desconsideração à Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.479.230/PR, de minha relatoria, Segunda Turma, DJe de 12/11/2015.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado, na origem, o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelos arts. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
