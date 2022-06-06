@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de embargos de declaraçãoopostos peloMUNICÍPIO DE BELO HORIZONTEcontraacórdão prolatado pela Primeira Turma, assimementado (fls. 1.751/1.752):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL ESTATAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA 284/STF.
+1. Não se verifica a ocorrência de ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No caso concreto, o Tribunal a quo, com arrimo no acervo probatório dos autos, consignou que o ente municipal falhou no exercício do poder de polícia, ao não coibir, ante a falta de alvará, o funcionamento do estabelecimento comercial, concorrendo, assim, para a produção dos danos decorrentes do infausto evento relatado nos autos (incêndio ocorrido na casa de shows denominada "Canecão Mineiro", em Belo Horizonte, no ano de 2001, que provocou a morte de sete pessoas e ferimentos em mais de trezentos frequentadores que lá se encontravam).
+3. Desse modo, considerando-se as premissas fáticas estabelecidas no acórdão recorrido, a alteração das conclusões adotadas pela Corte de origem, em ordem a afastar a responsabilidade da municipalidade, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Relativamente às teses de que seria indevida a cumulação entre danos morais e estéticos e, ainda, de que os valores das indenizações referentes aos prejuízos de ordem moral teriam alcançado patamares exorbitantes, cumpre observar que o município recorrente, nas razões de seu especial apelo, não amparou o inconformismo na violação de qualquer normativo federal. Destarte, a ausência de indicação de regramento pretensamente afrontado acarreta na deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+5. Agravo interno dos autores provido para negar provimento ao recurso especial do Município de Belo Horizonte.
+Irresignada, a parte embargante argumenta que "a decisão embargada incorreu em omissão, porque: (i) não se debruçou sobre a alegação do embargante no sentido de que o Superior Tribunal de Justiça reconheceu, em casos relacionados ao mesmo incêndio do Canecão Mineiro, a ausência de responsabilidade civil do Município de Belo Horizonte; (ii) deixou de apontar, com base em elementos concretos, a inaplicabilidade dos precedentes firmados pelo STJ no julgamento dos REsp nº 716.674/MG e 888.420/MG." (fl. 1.775).
+O recurso foi impugnadoàs fls. 1.783/1.788.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveisembargos de declaração nas hipóteses de obscuridade, contradição, omissãoou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão,pois o acórdão embargado enfrentou e decidiu, de maneira integral e comfundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto dealegada contradição no julgado combatido, traduzem, na verdade, oinconformismo da parte com a decisão tomada, buscando rediscutir o quedecidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação daparte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos dedeclaração nas hipóteses de obscuridade, contradição, omissão ou erromaterial na decisão embargada. Entretanto, no caso dos autos, não se verifica a existência de nenhumdesses vícios, pois o acórdão embargado enfrentou e decidiu, de maneiraintegral e com fundamentação suficiente, toda a controvérsia posta norecurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado que a revisão daspremissas fáticas estabelecidas no acórdão recorrido, visandoafastar a responsabilidade municipal, ensejaria o reexame da matéria fática constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Tal conclusão inclusive foi amparada em julgado desta Corte, em que a Segunda Turma aplicou o referido verbete sumular em situação análoga ao caso concreto.Em acréscimo, decidiu-se que, em virtude da incidência da Súmula 7/STJ, a análise da divergência jurisprudencial restou prejudicada.
+Desse modo, não podem ser acolhidos embargos de declaração que, a pretextode alegada omissão no julgado, traduzem, na verdade, o inconformismo daparte com a decisão tomada, buscando rediscutir o que decidido já foi.Nesse panorama, inexistente qualquer vício no acórdão embargado, conformeexige o art. 1.022 do CPC/2015, impõe-se a rejeição do pleito integrativo.Nesse mesmo rumo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMAGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃOCONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissãoou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual eranecessária manifestação, mas apenas a discordância da parte com a solução apresentada no julga mento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo nomesmo julgado, gerando ilogicidade ao texto. Mas desse problema não seressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um porcento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRASEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
