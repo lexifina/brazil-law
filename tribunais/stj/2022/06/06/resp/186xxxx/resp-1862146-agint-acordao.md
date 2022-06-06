@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+BRUNO MIRANDA RIBEIRO ajuizou ação de indenização por danos materiais e morais c/c obrigação de fazer contra SANTA BEATRIZ CONSTRUTORA LTDA. (SANTA BEATRIZ), SAN ISIDRO RJ EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (SAN ISIDRO) E W3 ENGENHARIA LTDA. (W3) decorrente do atraso na entrega de imóvel e irregularidade no terreno.
+Em primeira instância, o pedido foi julgado parcialmente procedente (e-STJ, fls. 552/559).
+O Tribunal de Justiça do Rio de Janeiro deu parcialprovimento aos recursos de apelação interpostos por SANTA BEATRIZ, SAN ISIDRO e W3, em acórdão assim ementado:
+APELAÇÕES CÍVEIS. DIREITO DO CONSUMIDOR. COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE SOLIDÁRIA DOS RÉUS. VÍCIO NA PRESTAÇÃO DO SERVIÇO. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR (ARTS. 7º, PARÁGRAFO ÚNICO, 18 E 25, §1º). ATRASO NA ENTREGA DA OBRA E IRREGULARIDADE CONSTANTE NO TERRENO DO IMÓVEL (GRAVAME) QUE IMPEDIU, ATÉ O MOMENTO DE SER SANADO O VÍCIO APONTADO, A CONTRATAÇÃO DE FINANCIAMENTO BANCÁRIO PARA FINS DE CUMPRIMENTO DA OBRIGAÇÃO DE PAGAR IMPOSTA AO ADQUIRENTE DO BEM. PRESENTES OS PRESSUPOSTOS DA RESPONSABILIDADE CIVIL, IMPÕE-SE A DEVIDA REPARAÇÃO A TÍTULO DE DANOS MATERIAIS E MORAIS, SENDO ESSE ÚLTIMO CONFIGURADO EM RAZÃO DO ATRASO DA OBRA, BEM COMO PELA PERDA DO TEMPO ÚTIL NA TENTATIVA DE SOLUCIONAR AS QUESTÕES PENDENTES PARA O ADIMPLEMENTO CONTRATUAL POR PARTE DAS RECORRENTES. VALOR FIXADO EM R$ 8.000,00 QUE SE MOSTRA RAZOÁVEL E QUE NÃO DISCREPA DO QUE VEM SENDO JULGADO POR ESTA CORTE.SALDO DEVEDOR QUE NÃO DEVE SERATUALIZADO, EIS QUE O DEMANDANTE NÃO DEU CAUSA AO ATRASO, IMPUTANDO-SE A MORA AO CREDOR.PRECEDENTES DO TRIBUNAL E DESTA COLENDA CÂMARA. COM RELAÇÃO À COTA CONDOMINIAL PAGA INDEVIDAMENTE PELO DEMANDANTE, SOMETE SERÃO RESSARCIDOS AQUELAS CUJOS PAGAMENTOS EFETIVAMENTE FORAM COMPROVADOS NO BOJO DOS AUTOS DA PRESENTE AÇÃO. NO TOCANTE AO JUROS DE MORA, TANTO NO QUE TANGE À COBRANÇA INDEVIDA DO SALDO DEVEDOR QUANTO A RELATIVA À COTA CONDOMINIAL COBRADA ANTES DA ENTREGA DAS CHAVES, EM SE TRATANDO DE RESPONSABILIDADE CIVIL CONTRATUAL, INCIDEM A PARTIR DA CITAÇÃO E NÃO DO SEU DESEMBOLSO.RECURSOS A QUE SE DÁ PARCIAL PROVIMENTO(e-STJ, fls. 691/692).
+Os embargos de declaração opostos por SANTA BEATRIZ foram rejeitados (e-STJ, fls. 778/783).
+Inconformadas, SAN ISIDRO e W3 interpuseramrecurso especial com fulcro no art. 105, III, a e c, da CF apontando violação dos arts. 1.022, I e II, do NCPC, alegando a ocorrência de omissão do acordão recorrido.
+Suscitou dissídio jurisprudencial para defender a incidência de correção monetária sobre o saldo devedor, bem como a inexistência de danos morais na espécie.
+O recurso especial foi admitido pelo Tribunal de Justiça do Rio de Janeiro(e-STJ, fls. 905/908).
+Decisão do então Ministro Presidente desta Corte para não conhecer do recurso especial em razão de sua intempestividade(e-STJ, fls. 936/937).
+Os embargos de declaração opostos por SAN ISIDRO e W3 foram rejeitados (e-STJ, fls. 997/1.000).
+Irresignadas, SAN ISIDRO e W3 interpuseramo presente agravo interno alegando que a intimação eletrônica deve prevalecerem relação apublicação no DJe, sendo o recurso especial tempestivo (e-STJ, fls. 1.003/1.014).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. RECURSO ESPECIAL. INTEMPESTIVIDADE. ALEGAÇÃO DE INTIMAÇÃO ELETRÔNICA. IMPOSSIBILIDADE. PREVALÊNCIA DA PUBLICAÇÃO PELO DIÁRIO DE JUSTIÇA ELETRÔNICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.No caso dos autos, verifica-se que a intimação eletrônica foi no dia 14/8/2019 (quarta-feira - e-STJ, fl. 794).Portanto, como o prazo recursal para a interposição do recurso especial se iniciou em 15/8/2019 (quinta-feira), com término aos 4/9/2019 (quarta-feira), e sua interposição somente se deu aos 15/9/2019, deve ser reconhecida a sua intempestividade, já que interposto fora do prazo de 15 dias, nos termos dos arts. 219, caput, e 1.003, § 5º, do NCPC, sem a demonstração da ocorrência de feriados locais, no momento oportuno e por documento idôneo.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo internofoiinterpostocontra decisãopublicadana vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+A tese de SAN ISIDRO e W3 de que seu recurso especial foi interposto dentro do prazo não deve prevalecer,mesmo considerando-se a data de intimação eletrônica.
+No caso dos autos, verifica-se que a intimação eletrônica foi no dia14/8/2019 (quarta-feira - e-STJ, fl. 794).
+Portanto, como o prazo recursal para a interposição do recurso especial se iniciou em 15/8/2019 (quinta-feira), com término aos 4/9/2019 (quarta-feira), e sua interposição somente se deu aos 15/9/2019, deve ser reconhecida a sua intempestividade, já que interposto fora do prazo de 15 dias, nos termos dos arts. 219, caput, e 1.003, § 5º, do NCPC, sem a demonstração da ocorrência de feriados locais, no momento oportuno e por documento idôneo.
+Dessa forma, não sendo a linha argumentativa apresentada capaz de demonstrar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
