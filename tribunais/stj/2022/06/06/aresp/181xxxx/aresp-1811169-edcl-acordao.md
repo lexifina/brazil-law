@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por GLÓRIA VALÉRIA CORREA MOURA ALVES e HENRIQUE PEREIRA ALVES a acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fl. 1.119):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE PROPRIETÁRIOS DE LOTES. TAXA DE MANUTENÇÃO. FATO GERADOR EM LOTEAMENTO FECHADO. HIPÓTESE FÁTICA NÃO ABRANGIDA POR RECURSO REPETITIVO (TEMA 882/STJ). POSSIBILIDADE DE COBRANÇA NO CASO CONCRETO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo entendimento do Superior Tribunal de Justiça, "a razão de decidir do precedente julgado segundo a ótica dos repetitivos (REsp 1.439.163/SP) pressupõe condomínio de fato, uma vez que o condomínio de direito, constituído nos moldes da Lei nº 4591/64 e os loteamentos disciplinados pela Lei nº 6.766/79 representam fato gerador autônomo para cobrança (AgInt no REsp 1.923.833/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+2. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 1.134-1.222), os insurgentes destacam a existência de erro material no julgado embargado, porquanto inadvertidamente entendeu que o acórdão recorrido teria legitimada a cobrança de contribuições associativas após a edição da Lei 13.465/2017, todavia esse foi o entendimento defendido pela sentença. Afirmamque a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios foi no sentido da legitimidade de todas as taxas cobradas pela associação embargada.
+Sustentamtambém a existência de contradições. Para tanto, argumentam que a associação embargada não é a loteadora do condomínio, que não é regularizada, que inexiste lei ou manifestação de vontade para legitimar a cobrança de taxas e que não há contrato padrão averbado no cartório de registro de imóveis.
+Enfim, desenvolvem esforço argumentativo para que seja aplicado o Tema 882/STJ ao caso em apreço, repisando as teses defensivas expostas nos recursos anteriores, com citação de julgados desta Corte Superior sobre a matéria.
+Impugnação apresentada às fls. 1.225-1.230 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. A contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, situação de nenhuma forma depreendida no julgado embargado.
+3. Embargos de declaração rejeitados.
+VOTO
+Há de se ter presente que esta espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, vícios ausentes no caso em análise.
+Ao contrário do defendido pelos embargantes, não se vislumbra erro material no decisum embargado.
+Para estancar qualquer dúvida arespeito, transcreve-se o seguinte trechodo acórdão embargado (e-STJ, fls. 1.126, sem grifo no original):
+Como se pode notar, a sentença julgou parcialmente procedentes os pedidos, e entendeu devida a cobrança das taxas, tendo em vista a ciência dos réus da necessidade de acarem com a manutenção das áreas e serviços de interesse comum dos proprietários do loteamento. Porém, ante a inexistência de prova de pagamento realizada pelos réus, bem como da alteração legislativa, considerou devida a exigibilidade da taxa associativa a partir da vigência da Lei 13.465/2017.
+O colegiado local, por sua vez, ao julgar a apelação interposta por ambas as partes, desproveu o apelo dos réus e deu provimento ao recurso do autor para condenar os requeridos ao pagamento das prestações vencidas do condomínio a partir da vigência da Lei 13.465/2017, bem como as que se venceram até a presente data e que não foram pagas, corrigidas a partir de cada vencimento, acrescidas de juros de mora a partir da citação.
+Como se pode notar, o que foi esclarecido no julgado é exatamente o que ressalvamos insurgentes: o Juízo de primeiro grau considerou devida a exigibilidade da taxa associativa a partir da vigência da Lei 13.465/2017, e o TJDFT determinou que a cobrança da taxa deveria abarcar as que venceram até a data da vigência da referida lei, bem como as posteriores, ou seja, todas as taxas cobradas pela associação embargada.
+Já em relação às alegadas contradições no julgado, cumpre esclarecer que a contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, situação de nenhuma forma depreendida no julgado embargado.
+O acórdão recorrido foi claro ao consignar que o Tema 882/STJ não se aplica ao caso em exame.
+Na oportunidade, foi destacado que o referido tema foi proferido em discussão que envolvesituação em que abarca vias públicas e propriedades privadas, onde os imóveis eram regularizados, escriturados e registrados perante o cartório competente, e a constituição das associações se deram em momento posterior, com a criação de condomínio, de fato, em prol dos interesses da coletividade - circunstância quedistingue dos casos em que o condomínio fechado é oriundo de uma propriedade particular (em áreas comuns, que sofreram parcelamentos irregulares do solo), como a hipótese apresentada nos autos.
+O acórdão embargado foi muito bem fundamentando, citando diversos precedentes para corroborar a conclusão alcançada, inclusive com citação de julgado recente desta Terceira Turma (REsp n. 1.955.551/SP,Rel. Ministro Ricardo Villas Bôas Cueva,DJe 31/3/2022), no qual se concluiu, em situação semelhante à do presente feito, pela higidez da cobrança realizada pela associação de moradores, tendo em vista que "os réus anuíram à cobrança mediante instrumento particular de compromisso de compra e venda".
+Assim, depreende-se das razões apresentadas que os embargantes não se conformam com a decisão, buscando, por via imprópria, a reforma do resultado do julgamento.
+Todavia, a atribuição de efeitos infringentes aos embargos somente se faz possível em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de algum dos vícios apontados, o que não é a situação dos autos.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1.814.590/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/09/2021, DJe 01/10/2021)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
