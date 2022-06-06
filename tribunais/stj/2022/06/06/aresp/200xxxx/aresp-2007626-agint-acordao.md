@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAMPERJ -CAIXA DE ASSISTÊNCIA DO MINISTÉRIO PÚBLICO DO RIO DE JANEIRO contra decisão monocrática assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TUTELA ANTECIPADA. NATUREZA PRECÁRIA DA DECISÃO. SÚMULA 735 DO STF. ATENDIMENTO AOS REQUSITOS DO ART. 300 DO CPC/2015. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, a agravante sustenta ser equivocadaa incidência da Súmula 7 do STJ, afirmando que
+Não houve, portanto, o enfrentamento das questões trazidas pela ora agravante, mantendo-se as omissões acima apontadas, dados que podem infirmar a conclusão adotada, qual seja, a presença dos requisitos para a manutenção da tutela concedida, pois é manifesta a ausência de fumus boni iuris e periculum in mora, exigido pelo art. 300 do CPC, pressupostos para o deferimento de tutela antecipada.
+Impugnação às fls. 246/252, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSENTE. TUTELA DE URGÊNCIA. DEFERIMENTO. SÚMULA 735 DO STF. CONCESSÃO DE MEDIDA LIMINAR. CONFIGURAÇÃO DOS REQUISITOS. SÚMULA 7 DO STJ.
+1. Não há falar em negativa de prestação jurisdicional diante do enfrentamento das questões relevantes devolvidas à Corte de origem, não consubstanciando qualquer eiva presente no art. 1.022 do CPC a tomada de posição contrária à sustentada pela parte.
+2. A jurisprudência desta Corte é pacífica no sentido de que, em regra, não cabe recurso especial contra decisão que aprecia pedido liminar, nos termos da Súmula 735/STF.
+3.Não é possível, em julgamento de recurso especial, o exame dos requisitos autorizadores para a concessão de medida liminar, ante a incidência da Súmula 7/STJ.
+4. AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, a nova irresignação recursal não merece acolhida.
+Insta sublinhar que, não obstante os argumentos declinados pela parte, as razões trazidas em agravo interno não contêm fundamentos suficientes a desconstituir a decisão recorrida.
+Na hipótese dos autos, não há falar em negativa de prestação jurisdicional, tendo o acórdão manifestado, de modo claramente racional, as razões pelas quais reconhecera a pretensão do autor para que fosse concedida a antecipação de tutela consistente no fornecimento de tratamento integral de reabilitaçãoconforme prescrição médica.
+Transcrevo o trecho pertinente da fundamentação apresentada no acórdão recorrido:
+No caso dos autos, verifica-se que o primeiro Agravado (PEDRO), hoje, um adolescente, com 17 anos de idade, de acordo com o relatório médico (índice 000062 -dos autos principais), é portador de deficiência física permanente, devido a paralisia cerebral de forma mista, com hemiplegia dupla e distonia (CID G80.2) associada à disartria de fala (CID R47), deficiência intelectual (CID F71.1) e epilepsia (CID G 40.0), decorrentes de intercorrências no período neonatal: prematuridade, hemorragia intracraniana grau 4 e asfixia perinatal, necessitando de tratamento multidisciplinar de reabilitação neurofuncional, neuromusculoesquelético e psicomotor complexo e contínuo.
+Infere-se, ainda, que a segunda Agravada (CARLA), genitora do adolescente, era reembolsada de todas as despesas com o tratamento do primeiro Agravado (PEDRO), desde os primeiros meses de vida, ou seja, há aproximadamente 16 anos.
+Assim, na cognição sumária própria da apreciação de pedidos formulados em caráter liminar, é de se concluir que estão presentes o periculum in morae o fumus boni iuris a autorizar o deferimento da tutela antecipada, uma vezque, em que pese a criação do "Programa Camperj Especial", no qual a Agravante oferece modalidades terapêuticas para pessoas com necessidades especiais, não ficou comprovada a existência de profissionais capacitados para o complexo tratamento exigido para o primeiro Agravado (PEDRO), mostrando-se, pois, indispensável o custeio integral dos profissionais que já o atendem, sob pena de restringir o objeto principal do contrato firmado entre as partes, que é o acesso à saúde e a manutenção da vida do beneficiário.
+Ademais, não nos parece razoável, e, repise-se, num juízo de cognição sumária, que, depois de tantos anos, ocorra a troca dos profissionais que vêm acompanhando o adolescente, sem que isso venha a afetar o seu tratamento, já tão difícil. (e-STJ fl. 121)
+Dessa forma, consoante os trechos acima transcritos, verifica-se que o Tribunal de origem não foi omisso nas proposições trazidas pelo agravante.
+A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese.
+Por outro lado, não é dado a esta Corte Superior perscrutar os elementos de prova juntados e/ou analisados pela instância a quo de modo a concluir pela presença ou ausência dos requisitos para a concessão da tutela de urgência, revelando-se atraído o enunciado 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. TUTELA DE URGÊNCIA ANTECIPADA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULA 7/STJ E 735 /STF. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula n. 735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno improvido. (AgInt no AREsp 1740126/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REGISTRO DE ESCRITURAS DE COMPRA E VENDA. TERCEIROS INTERESSADOS. PRÁTICA DE ATO ATENTATÓRIO POR PARTE DA AGRAVADA. AUSÊNCIA. POSTERGAÇÃO DA MEDIDA DE URGÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 735/STF E 7/STJ. APLICAÇÃO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+3. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl nos EDcl no AREsp 1633400/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2021, DJe 09/06/2021)
+Assim, resta patente que a pretensão da recorrente não merece guarida, devendo ser mantida incólume a decisão agravada em virtude dos referidos fundamentos
+Ante o exposto, voto no sentido de NEGAR provimento ao agravo interno.
+É voto.
