@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 31/05/2022 a 06/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  Embargos  de  Declaração  opostos  por THEREZINHA MENDES, ALCINDA OLIVEIRA DE SOUZA, HILDA APARECIDA ALVES, HILDA PINHEIRO DA SILVA, IOLANDA ALVES EROZA  contra  acórdão  proferido  por  esta  egrégia  PrimeiraTurma,  assim  ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. LEGITIMIDADE. AÇÃO COLETIVA PROPOSTA POR ASSOCIAÇÃO DE CLASSE. LEGITIMIDADE. TÍTULO COLETIVO. ASDNER. REAJUSTE DE 3,17%. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Trata-se de recurso especial interposto pelos servidores visando à reforma do acórdão, a fim de que seja reconhecida a legitimidade ativa dos exequentes.
+2. A alteração das conclusões adotadas pela Corte de origem, a fim de verificar o alcance do título executivo e a consequente violação à coisa julgada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Confiram-se, ainda, as seguintes decisões monocráticas proferidas em situação semelhante: REsp 1.914.033, Rel. Ministro Gurgel de Faria, DJe 24/02/2021; REsp 1.905.228, Rel. Ministro Benedito Gonçalves, DJe 23/2/2021; REsp 1.881.594, Rel. Ministro Gurgel de Faria, DJe 27/10/2020; REsp 1.880.821, Rel. Ministro Hermann Benjamin, DJe 2/9/2020; REsp 1.610.830, Rel. Ministra Regina Helena Costa, DJe 19/9/2019.
+2. Agravo interno dos particulares que se nega provimento (fls. 329).
+2.  O  embargante  alega  queapesar de não ter sido juntada, ao tempo da propositura da ação de conhecimento, a documentação necessária, a associação autora, regularizou a sua legitimidade ativa, mediante a apresentação da Ata de Assembleia-Geral Extraordinária às fls. 317/319, em que foi possibilitada, à interpretação conferida ao art. 284 do Código de Processo Civil de 1973, a emenda da inicial (fl.342). Aduz quenão há que se falar em aplicação do RE 573.232, pois consta nos autos da ação coletiva às fls. 317/319 ata da assembleia, com autorização expressa para a representação dos filiados em Juízo.
+3.  É  o  relatório.
+EMENTA
+ADMINISTRATIVO.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ORDINÁRIO.  LEGITIMIDADE. AÇÃO COLETIVA PROPOSTA POR ASSOCIAÇÃO DE CLASSE. LEGITIMIDADE. TÍTULO COLETIVO. ASDNER. REAJUSTE DE 3,17%. VIOLAÇÃO À COISA JULGADA. INCIDÊNCIA DA SÚMULA 07/STJ.  INEXISTÊNCIA  DOS  VÍCIOS  PREVISTOS  NO  ART.  1.022  DO  CPC/2015.  EMBARGOS  DECLARATÓRIOS  DO  SERVIDOR  REJEITADOS.
+1.  O  art.  1.022  do  CPC/2015  é  peremptório  ao  prescrever  as  hipóteses  de  cabimento  dos  Embargos  de  Declaração;  trata-se,  pois,  de  recurso  de  fundamentação  vinculada,  restrito  a  situações  em  que  patente  a  incidência  do  julgado  em  obscuridade,  contradição  ou  omissão,  hipóteses  não  verificadas  no  caso  em  comento.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+1.  O  art.  1.022  do  CPC/2015  é  peremptório  ao  prescrever  as  hipóteses  de  cabimento  dos  Embargos  de  Declaração;  trata-se,  pois,  de  recurso  de  fundamentação  vinculada,  restrito  a  situações  em  que  patente  a  incidência  do  julgado  em  obscuridade,  contradição  ou  omissão.
+2.  Destarte,  infere-se  que,  não  obstante  pacífica  a  orientação  acerca  da  natureza  recursal  dos  Declaratórios,  singularmente,  não  se  prestam  ao  rejulgamento  da  lide,  mediante  o  reexame  de  matéria  já  decidida,  mas  apenas  à  elucidação  ou  ao  aperfeiçoamento  do  decisum  em  casos  nos  quais  eivado  de  obscuridade,  contradição  ou  omissão.
+3.  Com  efeito,  os  Embargos  de  Declaração  não  podem  ser  utilizados  com  a  finalidade  de  sustentar  eventual  incorreção  do  decisum  hostilizado  ou  de  propiciar  novo  exame  da  própria  questão  de  fundo,  em  ordem  a  viabilizar,  em  sede  processual  inadequada,  a  desconstituição  de  ato  judicial  regularmente  proferido.
+4.  No  caso  dos  autos,  constaram  expressamente  do  acórdão  embargado  as  razões  pelas  quais  não  encontra  amparo  a  pretensão  recursal.
+5.  Em  adição,  extrai-se  do  acórdão  proferido  pela  Corte  de  origem  o  seguinte:
+A legitimidade de parte é matéria de ordem pública, cognoscível de ofício em qualquer tempo ou grau de jurisdição (art. 267,§ 3o., e 471, II, do CPC).
+O Supremo Tribunal Federal, no julgamento do RE 573232, conforme a sistemática prevista no art. 543-B do CPC/73, consolidou entendimento no sentido de que "As balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial".
+(..).
+Conclui-se, assim, que somente o associado cujo nome se encontra na lista juntada na ação de conhecimento e que tenha autorizado expressamente a associação para ingressar com a respectiva ação judicial possui legitimidade ativa para executar a ação coletiva em questão. Veja-se decisões recentes do egrégio STJ sobre a matéria:
+(..).
+Portanto, considerando que os exequentes não se encontram relacionados no rol de subsituídos quando do ajuizamento da ação coletiva 2000.70.00.001932-1, deve ser reconhecida a sua ilegitimidade ativa para a respectiva execução.
+A alegação de houve deliberação em assembléia geral da ASDNER, autorizando a propositura de ação coletiva pleiteando o reajuste de 3,17%, não tem o condão de alterar o entendimento supra, eis que a assembléia em questão ocorreu em 10/09/2003, ou seja, em data bem posterior ao ajuizamento da ação coletiva ns2000.70.00.001932-1. Também, sem razão os exequentes ao alegarem a existência de determinação expressa no título executivo abrangendo todos os servidores da categoria, pois a sentença exequenda apenas validou a autorização para os associados elencados às fls. 317-319 da ação de conhecimento(fls. 34/37).
+6.  Com  base  nessas  considerações,  rejeitam-se  os  presentes  Embargos  Declaratórios  .
+7.  É  como  voto.
