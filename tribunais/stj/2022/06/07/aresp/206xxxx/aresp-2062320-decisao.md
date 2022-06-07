@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+AGRAVODEINSTRUMENTO. EMBARGOSÀ EXECUÇÃO. Não acolhimento ao argumento de que imprescindível a garantia do juízo, em atenção à expressa previsão legal da Lei das Execuções Fiscais. Alegação de que o processamento dos embargos à execução prescinde de penhora integral, e há constrição parcial em dinheiro nos autos e indicado bem à penhora, rejeitado pela exequente. Inadmissibilidade. Matéria decidida pela C. Turma Especial de Direito Público deste Egrégio Tribunal de Justiça no julgamento do IRDR nº 2020356-21.2019.8.26.0000, em que fixada a tese no sentido de que o recebimento dos embargos à execução fiscal fica condicionado à garantia integral do juízo, nos termos do artigo 16, § 1º, da Lei n.º 6.830/80. Decisão mantida. Recurso não provido.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 16, § 1º, da Lei nº 6.830/80, "no sentido de que não é necessária a garantia integral do juízo para procedibilidade dos embargos à execução fiscal, até porque em muitos casos os devedores sequer têm bens para garantir o Juízo".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 206/207, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que:
+Compulsando os autos dos embargos à execução n.º 1001919-74.2018.8.26.0681, verifica-se que houve penhora pelo sistema BacenJud de R$ 141.614,39 (em junho de 2018), e que, à vista do valor do crédito perseguido (R$ 1.588.996,67, em 13.5.2017), mostra-se insuficiente ao processamento dos embargos.
+ ..
+Constituem os embargos à execução uma forma de defesa que pode ser oposta pela parte executada, desde que observadas as normas legais e, no que concerne à necessidade da garantia do juízo, tem-se que, em se tratando de execução fiscal de crédito de ICMS, é condição essencial para a apreciação dos embargos, nos termos do disposto no parágrafo primeiro, do artigo 16, da Lei de Execuções Fiscais, cujo texto não deixa margem alguma de dúvida ao estipular que "não são admissíveis embargos do executado antes de garantida a execução".
+Constatada a incidência da lei específica nas execuções fiscais, cabe ao embargante oferecer bem à penhora para garantir a execução, sob pena de não apreciação dos embargos oferecidos.
+ ..
+E o tema da necessidade da garantia integral da dívida, como condição ao recebimento dos embargos à execução, encontra-se assentado neste E. Tribunal de Justiça, consoante decidido no bojo do IRDR nº 2020356-21.2019.8.26.0000, julgado 06.06.2020.
+Por seu turno, o recorrente aduz que "não é necessária a garantia integral do juízo para procedibilidade dos embargos à execução fiscal, até porque em muitos casos os devedores sequer têm bens para garantir o Juízo".
+Verifica-se que as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido o dispositivo legal indicado; bem como, o recorrente traz à baila julgados, porém, sem demonstrar, com clareza, a correlação da presente lide com os arestos transcritos nas razões recursais. Incidência da Súmula 284/STF:"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF (POR ANALOGIA). AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
