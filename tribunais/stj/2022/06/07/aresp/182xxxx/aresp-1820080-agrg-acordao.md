@@ -1,0 +1,71 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA APTAS A AMPARAR A EXASPERAÇÃO DA PENA-BASE. PRECEDENTES. PLEITO PELA EXCLUSÃO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO I, DA LEI N. 11.343/2006. DROGA PROVENIENTE DO PARAGUAI. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Está fundamentado, de forma adequada, o aumento operado na primeira fase da dosimetria, em razão da natureza e expressiva quantidade de droga apreendida, conforme o que determina o art. 42 da Lei n. 11.343/2006.
+2. O entendimento adotado pelo Tribunal Regional está em harmonia com a jurisprudência do STJ, no sentido de que demonstrado nos autos, após exauriente persecução criminal, que o estupefaciente apreendido teve como origem, ou tinha como destino, país estrangeiro, tem-se por imperativa a incidência da causa de aumento de pena prevista no art. 40, I, da Lei de Drogas, consoante inteligência da Súmula 607/STJ, conjugada à dicção do art. 70, caput, da Lei n. 11.343/2006.
+3. Rever a conclusão das instâncias ordinárias, com o intuito de decotar a causa de aumento da pena prevista no art. 40, inciso I, da Lei n. 11.343/2006, implicaria no reexame do acervo fático-probatório, providência inviável em recurso especial, nos termos do Enunciado n. 7 da Súmula do STJ.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por DELFIO VITOR ADORNO DE OLIVEIRA contra decisão de minha lavra, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, nos termos da seguinte ementa (fl. 1.305):
+"AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA APTAS A AMPARAR A EXASPERAÇÃO DA PENA-BASE. PRECEDENTES. PLEITO PELA EXCLUSÃO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO I, DA LEI N. 11.343/2006. DROGA PROVENIENTE DO PARAGUAI. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO."
+Sustenta a Defesa, nas razões do agravo regimental, que a exasperação da pena-base, em relação à quantidade de drogas apreendidas, feriu o princípio da proporcionalidade, considerando-se os parâmetros usualmente utilizados pelos Tribunais.
+Argumenta, ainda, no tocante à alegada afronta ao art. 40, inciso I, da Lei n. 11.343/2006, que " n ão há violação ao teor da Súmula nº 07 do Superior Tribunal de Justiça porque o Recurso Especial se limita a pedir a reavaliação jurídica do fato "abordagem em região fronteiriça" (atestado pelas instâncias inferiores) como apto a atrair a aplicação da majorante" (fl. 1.323).
+Pugna, assim, pela reforma da decisão agravada e, caso assim não entenda, requer a submissão do recurso ao julgamento do Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA APTAS A AMPARAR A EXASPERAÇÃO DA PENA-BASE. PRECEDENTES. PLEITO PELA EXCLUSÃO DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO I, DA LEI N. 11.343/2006. DROGA PROVENIENTE DO PARAGUAI. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Está fundamentado, de forma adequada, o aumento operado na primeira fase da dosimetria, em razão da natureza e expressiva quantidade de droga apreendida, conforme o que determina o art. 42 da Lei n. 11.343/2006.
+2. O entendimento adotado pelo Tribunal Regional está em harmonia com a jurisprudência do STJ, no sentido de que demonstrado nos autos, após exauriente persecução criminal, que o estupefaciente apreendido teve como origem, ou tinha como destino, país estrangeiro, tem-se por imperativa a incidência da causa de aumento de pena prevista no art. 40, I, da Lei de Drogas, consoante inteligência da Súmula 607/STJ, conjugada à dicção do art. 70, caput, da Lei n. 11.343/2006.
+3. Rever a conclusão das instâncias ordinárias, com o intuito de decotar a causa de aumento da pena prevista no art. 40, inciso I, da Lei n. 11.343/2006, implicaria no reexame do acervo fático-probatório, providência inviável em recurso especial, nos termos do Enunciado n. 7 da Súmula do STJ.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Em que pesem os argumentos suscitados pela Defesa, entendo que a decisão recorrida não merece nenhum reparo.
+Primeiramente, ressalto que a Corte Regional exasperou a pena-base, em relação ao delito do tráfico de drogas, calcado nas seguintes razões de decidir ( fls. 1.122-1.123; grifo nosso):
+"Tráfico de drogas. A sentença fixou a pena-base para o delito de tráfico de drogas em 8 (oito) anos e 4 (quatro) meses de reclusão e 833 (oitocentos e trinta e três)dias-multa.
+ ..
+Assiste razão à acusação.
+Na primeira fase da dosimetria da pena para o delito do art. 33 da Lei n.11.343/06, a natureza e a quantidade da droga são elementos importantes para aferir a quantidade da pena inicial a ser aplicada ao crime de tráfico, conforme expressa previsão legal no art. 42 da Lei n. 11.343/06. Considerando a natureza e a expressiva quantidade de droga apreendida (494,25Kg de maconha), é justificável a fixação da pena acima do mínimo legal, de maneira que se adequa ao caso a pena-base estabelecida na sentença, que é mantida em 8 (oito) anos e 4 (quatro) meses de reclusão e 833 (oitocentos e trinta e três) dias-multa."
+Como já dito na decisão agravada, está fundamentado, de forma adequada, o aumento operado na primeira fase da dosimetria, em razão da natureza e quantidade de droga apreendida - 494,25 kg de maconha. Foi observado, na verdade, o que determina o art. 42 da Lei n. 11.343/2006.
+Menciono os seguintes precedentes prolatados em situações semelhantes:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DE ENTORPECENTE. PROPORCIONALIDADE. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. AUSENTE MOTIVAÇÃO VÁLIDA. APLICAÇÃO. AGRAVO DESPROVIDO.
+1. Hipótese na qual a Corte local considerou, nos termos do art. 42 da Lei n. 11.343/2006, a quantidade de droga apreendida (7,2 kg de maconha) para estabelecer a pena-base em 8 anos de reclusão, o que não se mostra desproporcional.
+ ..
+4. Recurso não provido. (AgRg no HC 713,390/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. ELEVADA QUANTIDADE DE DROGA. FUNDAMENTO VÁLIDO. CAUSA DE DIMINUIÇÃO DE PENA. VIVÊNCIA DELITIVA. AGRAVO IMPROVIDO.
+1. Na primeira fase da dosimetria - art. 59 do CP - o acórdão utilizou-se da expressiva quantidade do entorpecente - 17,96 kg de maconha - para exasperar a pena-base em 2/3, nos termos do art. 42 da Lei de Drogas, o que reflete o aumento de 3 anos e 4 meses sobre o mínimo legal de 5 anos, perfazendo-se em 8 anos e 4 meses de reclusão.
+ ..
+4. Agravo regimental improvido." (AgRg no HC 622.663/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021.)
+De outra banda, no que diz respeito ao pleito para decotar a majorante prevista no art. 40, inciso I, da Lei de Drogas, o acórdão recorrido baseou-se na seguinte fundamentação (fls. 1.122-1.123, grifei):
+"Na terceira fase de individualização da pena, o Juízo entendeu inexistira quo causas de aumento ou diminuição de pena, tornou definitiva em 8 (oito) anos e 4 (quatro) meses de reclusão, e 833 (oitocentos e trinta e três) dias-multa.
+A sentença pontou que não houve evidência de transnacionalidade, acrescentando que o processo foi distribuído para a Justiça Federal por conexão com o delito de rádio, não pela evidência de operação transnacional de narcotraficância.
+ ..
+Consta dos autos que a abordagem policial se deu nas proximidades do município de Amambai (MS), região próxima à fronteira com o Paraguai, havendo a introdução de expressiva quantidade de droga trazida do país vizinho em território nacional.
+Cumpre anotar que para a configuração da transnacionalidade do delito, não é exigível que o agente ou o entorpecente ultrapasse as fronteiras do País. O delito, com essa causa de aumento, pode ocorrer no território nacional, desde que haja elementos indicativos de que o fato se relacione com o estrangeiro.
+Portanto, na terceira fase da dosimetria da pena, incide a causa de aumento em 1/6 (um sexto), perfazendo a pena de 9 (nove) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, e 971 (novecentos e setenta e um) dias-multa, a qual torno definitiva.
+Como se pode observar, o entendimento adotado pelo Tribunal Regional está em harmonia com a jurisprudência do STJ, no sentido de que demonstrado nos autos, após exauriente persecução criminal, que o estupefaciente apreendido teve como origem, ou tinha como destino, país estrangeiro, tem-se por imperativa a incidência da causa de aumento de pena prevista no art. 40, I, da Lei de Drogas, consoante inteligência da Súmula 607/STJ, conjugada à dicção do art. 70, caput, da Lei n. 11.343/2006.
+Em casos análogos:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS.  ..  ART. 40, I, DA LEI N. 11.343/2006. TRANSPOSIÇÃO DE FRONTEIRA. IRRELEVÂNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. DESLOCAMENTO PARA A JUSTIÇA COMUM E EXCLUSÃO DA CAUSA DE AUMENTO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. "Para a incidência da causa especial de aumento de pena prevista no inciso I do art. 40 da Lei de Drogas, é irrelevante que haja a efetiva transposição das fronteiras nacionais, sendo suficiente, para a configuração da transnacionalidade do delito, que haja a comprovação de que a substância tinha como destino/origem localidade em outro País" (AgRg no AREsp 377.808/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 22/9/2017).
+ ..
+5. Agravo regimental desprovido." (AgRg no REsp 1.788.018/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/09/2019, DJe 16/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS.  ..  RECURSO NÃO PROVIDO.
+ ..
+6. Para a incidência da causa especial de aumento de pena prevista no inciso I do art. 40 da Lei de Drogas, é irrelevante que haja a efetiva transposição das fronteiras nacionais, sendo suficiente, para a configuração da transnacionalidade do delito, que haja a comprovação de que a substância tinha como destino/origem localidade em outro País.
+ .. " (AgRg no AREsp 377.808/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/09/2017, DJe 22/09/2017; grifos diversos do original.)
+Além disso, rever a conclusão das instâncias ordinárias com o intuito de decotar a causa de aumento de pena, demandaria no reexame do acervo fático-probatório, providência inviável em recurso especial, nos termos do Enunciado n. 7 da Súmula do STJ, do seguinte teor: "A pretensão de simples reexame de prova não enseja recurso especial".
+Sobre o tema, confiram-se:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL (RECONSIDERAÇÃO) NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. VIOLAÇÃO AO ART. 40, I, DA LEI N. 11.343/06. CIRCUNSTÂNCIAS FÁTICAS QUE EVIDENCIAM A TRANSNACIONALIDADE. SÚMULA N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CONCLUSÃO DIVERSA QUE ESBARRA NO ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.
+1. De acordo com o entendimento desta Corte, a transnacionalidade do tráfico pode ser comprovada por circunstâncias diversas da transposição de fronteira que evidenciem a origem da droga proveniente de outro país. Súmula n. 83 do STJ.
+2. O Tribunal a quo demonstrou a existência de elementos suficientes para a condenação do recorrente pela transnacionalidade do tráfico de drogas. Conclusão diversa a respeito da referida causa de aumento demanda inevitável revolvimento das provas carreadas aos autos, procedimento inviável na instância especial, consoante Súmula n .7 do STJ.
+3. Agravo regimental desprovido." (AgRg no AgRg no AREsp 1.992.057/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, Julgado em 08/03/2022; DJe 14/03/2022).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. ART. 42 DA LEI N. 11.343/2006. POSSIBILIDADE. PATAMAR DE 2/5 (DOIS QUINTOS) SOBRE O MÍNIMO LEGAL. QUANTUM PROPORCIONAL. FUNDAMENTAÇÃO IDÔNEA. AFASTAMENTO DA CAUSA ESPECIAL DE AUMENTO DE PENA RELATIVA À TRANSNACIONALIDADE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. MODALIDADE PRIVILEGIADA DO DELITO. CAUSA DE REDUÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTUM DE REDUÇÃO. MINORANTE CONCEDIDA NO MÍNIMO LEGAL. PECULIARIDADES DO CASO. FUNDAMENTAÇÃO IDÔNEA. POSTULAÇÃO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - "Desse modo, demonstrada a transnacionalidade do tráfico de drogas nas instâncias ordinárias, é certo que a desconstituição das premissas fáticas, com o fim de reconhecer o decote da causa de aumento de pena, demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ" (AgRg no REsp n. 1.797.518/CE, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 16/04/2021, grifei).
+ ..
+Agravo regimental desprovido."(AgRg no REsp 1.936.315/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe 24/08/2021).
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
