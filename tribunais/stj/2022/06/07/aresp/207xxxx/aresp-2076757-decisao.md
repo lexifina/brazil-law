@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT, em face de decisão proferida pelo Tribunal Regional Federal da 4ª Região,que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. CASO EM QUE COMO O VALOR EXECUTADO NÃO DECORRE DE CONDENAÇÃO JUDICIAL DE NATUREZA TRIBUTÁRIA, NÃO HÁ FALAR EM APLICAÇÃO DA SELIC. MANTIDA A DECISÃO RECORRIDA, QUE FIXOU O IPCA-E COMO ÍNDICE DE CORREÇÃO MONETÁRIA, E A TAXA DE JUROS APLICÁVEL À CADERNETA DE POUPANÇA. TEMA 905/STJ. ACOLHIMENTO EM PARTE DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA QUE IMPÕE A FIXAÇÃO DE HONORÁRIOS SOBRE A PARCELA DO DÉBITO IMPUGNADA E CUJA EXIGIBILIDADE FOI CONFIRMADA NA APRECIAÇÃO DA IMPUGNAÇÃO. AGRAVO INTERNO PREJUDICADO. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, interposto com base naalíneaa do permissivo constitucional, orecorrente apontaofensa aos arts. 85, §§ 1º, 7º e 11,141, 492 e 1.022, do CPC, sob o argumento de que o Tribunal de origem não se manifestou sobre questões suscitadas nos embargos de declaração e manteve os critérios de cálculo adotados na decisão monocrática agravada, na qual foi determinadaa utilização do índice de correção monetária do IPCA-e mais juros de mora da poupança, tendo em vista que, no caso concreto, deve ser adotada apenas da TAXA SELIC.
+Sustenta quea decisão, ao negar a aplicação da Taxa Referencial, bem como não restabelecer os cálculos originários apresentados pela parte exequente (Taxa SELIC) está a proferir decisão nula de pleno direito, dado que confere a parte interessada um valor acréscimo de consectários legais que sequer eram cogitados pela mesma ao propor a execução.
+Aduz que ,conforme resta nítido dos autos executivos, há modificação de critérios de correção monetária realizada pelo juízo da causa, em favor da parte exequente e em prejuízo do erário público, enquanto que, inicialmente,o exequente buscava apenas e tão somente aplicar a SELIC sobre o indébito.
+Por fim, afirma que o Tribunal de origem concluiu para a manutenção dos honorários advocatícios a favor da parte exequente que estes teriam origem na execução propriamente dita e não na rejeição ao cumprimento de sentença.
+Afirmaque,no caso em tela, o Tribunal recorrido, ao manter a decisão de 1º grau, aponta para a fixação de honorários advocatícios em relação ao quantum apurado após o julgamento da impugnação ao cumprimento de sentença.
+A inadmissão do recurso especial se fez à consideração de que incide o óbice da Súmula 7/STJ.
+Nas razões de agravo, postulao processamento do recurso especial, haja vista tercumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade, passo ao exame do especial.
+A pretensão não merece acolhida.
+Quanto à alegada violação ao art. 1.022 do CPC, cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa ao art.1.022 do CPC.
+No que tange à correção monetária, observa-se queo Tribunal de origem, além de consignar que oscritérios de atualização monetária fixados na decisão recorrida estão em conformidade com o que foi decidido pelo STJ no julgamento do Tema 905, fundamentou também que não havia que se falar em aplicação da SELIC porquanto o valor executado não decorria de condenação judicial de natureza tributária.
+Cumpre asseverar que esta segunda fundamentação utilizada pelo Tribunal a quo para afastar a pretensão recursal e formar seu convencimento é apta, por si só, para manter o decisum combatido e, não houve contraposição recursal sobre esteponto, de modo que aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DISTRIBUIÇÃO POR DEPENDÊNCIA. ALEGAÇÃO DE NULIDADE. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF.
+1. A Corte de origem consignou: "Embora, em rigor, não tenha ocorrido pedido das partes, a embargante não logrou demonstrar, objetivamente, qualquer prejuízo que tenha lhe causado a distribuição para a 2ª Vara Federal das Execuções Fiscais de Porto Alegre, agora denominada 19ª Vara Federal de Porto Alegre. Além disso, é de se ressaltar que a providência da distribuição tem caráter administrativo, não interfere no processamento e julgamento autônomo dos embargos do devedor, não acarretando prejuízo algum ao direito de defesa".
+2.Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. A jurisprudência desta Corte Superior é no sentido de que o reconhecimento de eventual nulidade processual exige a comprovação de prejuízo à defesa, o que, no caso, verifica-se não ter ocorrido, atraindo a incidência do princípio pas de nullité sans grief. p 4. Agravo Regimental não provido. " (AgRg no REsp 1481334/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/12/2014, DJe 03/02/2015)
+Quanto ao tema dos honorários advocatícios, assim consignou o Tribunal de origem:
+(..)
+Em síntese, no caso de débito a ser pago por precatório, é a rejeição da impugnação que torna devido os honorários ao exequente, que devem incidir apenas sobre a parcela do débito impugnada e confirmada como devida no julgamento da impugnação.
+Da mesma forma como já referido para o caso da RPV, na hipótese de precatório a verba honorária em favor do exequente também deve incidir uma única vez (vedado o bis in idem) sobre a parcela do crédito que lhe serve de base de cálculo (débito impugnado e confirmado na impugnação).
+Assim, embora, como já referido, seja a rejeição da impugnação que torne devidos os honorários ao exequente, se o juízo fixou estes, no início da execução, estes ficam apenas ratificados com a rejeição da impugnação, sendo inadequada uma nova condenação.
+No caso dos autos, o pagamento ocorrerá por precatório.
+Portanto, o acolhimento em parte da impugnação ao cumprimento de sentença impõe a fixação de honorários sobre a parcela do débito impugnada e cuja exigibilidade foi confirmada na apreciação da impugnação.
+Assim, infere-se que o entendimento do acórdão recorrido está em sintonia com a jurisprudência do STJ,segundo a qual, de acordo com o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, que enseje expedição de precatório, desde que por ela impugnado o pedido de cumprimento de sentença, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.(REsp n. 1.886.829/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 30/3/2022.)
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Inexiste negativa de prestação jurisdicional quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da parte recorrente.
+2. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+3. A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório.
+4. Hipótese em que houve impugnação à execução, o que determina a necessidade de fixação de honorários advocatícios.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.909.929/SE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 24/2/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ART. 85, § 7º, DO CPC/2015.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao art. 85, § 7º, do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.881.747/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 24/11/2021.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SUPOSTA VIOLAÇÃO AO ARTIGO 1022 DO CPC. NÃO OCORRÊNCIA.CORREÇÃO MONETÁRIA.NÃO IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015. CABIMENTO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
