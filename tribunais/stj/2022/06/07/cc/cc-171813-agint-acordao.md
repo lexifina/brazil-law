@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 01/06/2022 a 07/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto por RHAIZA CHRISTO RAMOScontra decisão que determinou o sobrestamento do recurso extraordinário, nos termos da seguinte ementa (e-STJ fl. 714):
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL. DISPENSA DE EMPREGADO PÚBLICO POR NÃO APROVAÇÃO EM ESTÁGIO PROBATÓRIO. CONSOLIDAÇÃO DAS LEIS TRABALHISTAS. AÇÃO JUDICIAL PARA A DISCUSSÃO DE VERBAS TRABALHISTAS E DO PROCESSO DE DESLIGAMENTO. COMPETÊNCIA. REPERCUSSÃO GERAL RECONHECIDA. TEMA 606/STF. RECURSO SOBRESTADO.
+Os embargos de declaração opostos pela agravante na sequência foram rejeitados (e-STJ fls. 734-737).
+Sustenta a parte agravante que o Tema606/STF não se aplica no caso, "visto que o leading case trata-se de fatos e processos ocorridos antes da EC 45/04, que ampliou a competência da Justiça do Trabalho e passou a reger que seria da Justiça Especializada a competência para julgar as causas entre os empregados públicos e a Administração Pública quando este vínculo fosse regido pela CLT" (e-STJ fl. 746).
+Acrescenta que "no presente processo o vínculo Celetista (fato incontroverso) iniciou em 2013 e as ações discutidas nesse Conflito de Competência foram protocoladas após a 45/2004" (e-STJ fl. 748).
+As contrarrazões foram apresentadas (e-STJ fls. 847-854).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO.DIREITO PROCESSUAL. DISPENSA DE EMPREGADO PÚBLICO POR NÃO APROVAÇÃO EM ESTÁGIO PROBATÓRIO. CONSOLIDAÇÃO DAS LEIS TRABALHISTAS. AÇÃO JUDICIAL PARA A DISCUSSÃO DE VERBAS TRABALHISTAS E DO PROCESSO DE DESLIGAMENTO. COMPETÊNCIA. TEMA 606/STF. SOBRESTAMENTO DO FEITO. RECURSO NÃO PROVIDO.
+1. Nos autos do RE n.655.283 RG/DF, o Supremo Tribunal Federal fixou a tese de que a natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão(Tema606/STF).
+2. Nas razões do recurso extraordinário, o agravadoalegao acórdão recorrido, ao estabelecer a competência da Justiça do Trabalho para processar e julgar a ação proposta pela agravante, via da qual discute a regularidade do processo que resultou a sua dispensa pela não aprovação no estágio probatório e as verbas rescisórias a que tem direito, além de ofender os arts. 5º, XXXV, LIII, LIV e LV, 39,caput, e 109 da Constituição Federal, contrariou a tese estabelecidapela Suprema Corte.
+3. Ocorre que o Pleno do Supremo Tribunal Federal ainda não finalizou o julgamento do recurso extraordinário, o que impõe a manutenção do sobrestamento deste recurso, a teor do contido no art. 1.030, III, do Código de Processo Civil.
+4. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão sobre os embargos de declaraçãofoi publicada em 18/3/2022 (e-STJ fl. 738), cumpre atestar a tempestividade da insurgência, pois interposta no dia 7/4/2022(e-STJ fl. 844), ou seja, dentro do prazo recursal.
+A matéria processual em questão não é pacífica. De um lado, há julgados do Supremo Tribunal Federal e desta Corte Superior de Justiça, inclusive de minha Relatoria, segundo os quais a determinação de sobrestamento é irrecorrível por não possuir carga decisória. De outro lado, verifica-se que o sobrestamento do presente recurso extraordinário foi determinado com base no art. 1.030, III, do Código de Processo Civil, in verbis:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+ ..
+III - sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;
+Por sua vez, o art. 1.030, § 2º, do Código de Processo Civil preceitua que, da decisão proferida com fundamento nos incisos I e III, caberá agravo interno, nos termos do art. 1.021.
+Assim, havendo expressa previsão legal quanto ao cabimento do presente recurso, deve-se analisar seu mérito.
+Consoante consignado na decisão agravada, nos autos do RE n. 655.283 RG/DF, pelo regime da repercussão geral, o Supremo Tribunal Federal tratou do Tema 606/STF, fixando a seguinte tese:
+A natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanênciano emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º.
+Nas razões do recurso extraordinário, a parte alega a violação dos arts. 5º, XXXV, LIII, LIV e LV, 39, caput, e 109, todos da Constituição Federal (e-STJ fls. 564-580).
+Alega que o acórdão recorrido, ao estabelecer a competência da Justiça do Trabalho para processar e julgar a ação proposta pela recorrida, via da qual discute a regularidade do processo que resultou a sua dispensa pela não aprovação no estágio probatório e as verbas rescisórias a que tem direito, além de ofender os dispositivos constitucionais apontados, contrariou o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário n. 655.283 RG/DF, pelo sistema da repercussão geral, de que o desfazimento do vínculo de trabalho de empregados públicos regidos pela Consolidação das Leis Trabalhistas - CLT apresenta natureza público-administrativa e não de direito privado, o que justifica a competência da Justiça Federal comum.
+Ocorre que o Pleno do Supremo Tribunal Federal ainda não finalizou o julgamento do recurso extraordinário, o que impõe a manutenção do sobrestamento deste recurso, a teor do contido no art. 1.030, III, do Código de Processo Civil.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
