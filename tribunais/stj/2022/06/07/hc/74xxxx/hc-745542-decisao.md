@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deJorge Batista Silva Nicomedio - preso preventivamente pela suposta prática do delito de furto qualificado -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que negou provimento ao writ ali impetrado (HC n.0022741-63.2022.8.19.0000), mantendo a prisão preventiva do paciente, na ação penal em trâmite no Juízo de Direito da 1ª Vara Criminal da comarca de Niterói/RJ(Autos n.0072796-15.2022.8.19.0001).
+Aqui, alega a defesa, em síntese, constrangimento ilegal consistente na decretaçãoda prisão preventiva dopacienteao argumento de insuficiência de fundamentação, bem como de violação dos princípios da proporcionalidade e homogeneidade das medidas cautelares.
+Postula, em liminar e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a substituição por medidas cautelares do art. 319 do CPP.
+É o relatório.
+Não há constrangimento ilegal a ser sanado por esta via.
+Com efeito,ao manter a segregação cautelar do paciente,a Corte estadual logrou demonstrar elementos concretos a evidenciar a periculosidade do agente ao destacar queo magistrado pode se valer da narrativa em concreto dos fatos imputados para concluir sobre o risco que a liberdade do agente poderia acarretar, o que ocorreu na hipótese em tela, em que a autoridade justificou na motivação que o paciente ostenta ".. diversas anotaçõescriminais, dentre elas condenações por delitos patrimoniais aptas a configurar a reincidência específica..". Vê se que ainda há ações penais em curso contra o paciente, tendo a autoridade, ao final da decisão, alertado para a necessidade de citação do paciente ".. nas anotações 06, 08, 09 e 10 de sua FAC"(fls. 35/36 - grifo nosso), inferindo-se daí motivação suficiente para a sua manutenção, em consonância com a jurisprudência desta Corte Superior de Justiça.
+Quanto à desproporcionalidade da prisão preventiva em relação ao regime inicial que eventualmente venha a ser aplicado,cumpre esclarecer que esta Corte tem jurisprudência pacífica quanto à impossibilidade de se realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença(RHC n. 162.518/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 20/5/2022).
+Por tais razões, nos termos do art. 210 do RISTJ,indefiro liminarmentea inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO.PACIENTEREINCIDENTE E QUE APRESENTA DIVERSAS ANOTAÇÕES CRIMINAIS. FUNDAMENTAÇÃO CONCRETA.PRINCÍPIO DA HOMOGENEIDADE NÃO VIOLADO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
