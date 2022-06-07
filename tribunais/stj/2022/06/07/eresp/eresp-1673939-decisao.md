@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pelas Centrais Elétricas Brasileiras S.A. (Eletrobrás), contra acórdão da Primeira Turma, relator o Ministro Napoleão Nunes Maia Filho, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONDENATÓRIA.EMPRÉSTIMO COMPULSÓRIO. JUROS REMUNERATÓRIOS. AGRAVO INTERNO DAS CENTRAIS ELÉTRICAS BRASILEIRAS S.A. A QUE SE NEGA PROVIMENTO.
+1. O entendimento desta Corte é de que os juros remuneratórios do empréstimo compulsório sobre energia elétrica são devidos à razão de 6% (seis por cento) ao ano, e serão devidos até o efetivo pagamento.
+2. No caso, o Tribunal de origem consignou que não houve a conversão, razão pela qual os juros são devidos até o seu efetivo pagamento. Assim, verifica-se que o acórdão está em consonância com o entendimento desta Corte. Nesse sentido: AgInt no AREsp. 870.360/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 13.2.2017; AgInt no AREsp. 869.823/PR, Rel. Min. HERMAN BENJAMIN, DJe 29.9.2016; EDv nos EAREsp. 790.288/PR, Rel. Min. GURGEL DE FARIA, DJe 2.9.2019.
+3. Agravo Interno da ELETROBRÁS a que se nega provimento.
+Alega a embargante que a decisão da Primeira Turma diverge do entendimento firmado pela Primeira Seção e pela Segunda Turma, nos julgados apresentados como paradigmas.
+Sustenta, em síntese, que os juros remuneratórios não podem incidir sobre a diferença de correção monetária após a 143ª Assembleia Geral, porquanto nessa data se consolida a dívida, passando a incidir, tão somente, os juros moratórios.
+Admitido o recurso, sobreveio impugnação da recorrida e parecer do MPF pelo desprovimento do recurso.
+É o relatório. Decido.
+A 1ª Seção, no julgamento dos embargos de declaração nos EAREsp n. 790.288/PR, interpretando os julgados repetitivos sobre a matéria, firmou compreensão segundo a qual, salvo quanto ao montante correspondente à fração do inteiro de ação não convertido, o termo final dos juros remuneratórios, previstos no art. 2º do Decreto-lei n. 1.512/1976, é a data das respectivas assembleias gerais extraordinárias as quais autorizaram as conversões dos créditos em ações.
+Neste diapasão, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. TERMO FINAL. DATA DAS RESPECTIVAS ASSEMBLEIAS GERAIS EXTRAORDINÁRIA QUE AUTORIZARAM AS CONVERSÕES DOS CRÉDITOS EM AÇÕES. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A 1ª Seção, no julgamento dos embargos de declaração nos EAREsp n. 790.288/PR, interpretando os julgados repetitivos sobre a matéria, firmou compreensão segundo a qual, salvo quanto ao montante correspondente à fração do inteiro de ação não convertido, o termo final dos juros remuneratórios, previstos no art. 2º do Decreto-lei n. 1.512/1976, é a data das respectivas assembleias gerais extraordinárias as quais autorizaram as conversões dos créditos em ações.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1952988/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 06/04/2022).
+TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA - ECE. JUROS REMUNERATÓRIOS. INCIDÊNCIA ATÉ A DATA DA CONVERSÃO EM AÇÕES. PRECEDENTE DA PRIMEIRA SEÇÃO.
+1. A Egrégia Primeira Seção, ao julgar os EDcl nos EAREsp 790.288/RS, consolidou a compreensão de que a incidência dos juros remuneratórios, como previstos no art. 2º e § 2º do Decreto-Lei n. 1.512/76, na hipótese de restituição do empréstimo compulsório, não podem ultrapassar a data da respectiva Assembleia Geral Extraordinária autorizadora da conversão dos créditos dos consumidores industriais de energia em ações do capital social da Eletrobrás.
+2. Agravo interno não provido.
+(AgInt no AREsp 601.160/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/12/2021, DJe 09/12/2021).
+Ante o exposto, com fundamento no art. 34, XVIII, c, do RISTJ, dou provimento aos embargos de divergência, dando provimento ao recurso especial, para que o termo final da incidência dos juros remuneratórios seja fixado na data da 143ª Assembleia Geral (AGE).
+Publique-se. Intime-se.
