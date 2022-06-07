@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porVALTER SCHAEFERcontra a decisão de fls. 55-57, quenão conheceudo habeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estadode Santa Catarina (HC n. 5056682-12.2021.8.24.0000).
+Orecorrenteteve a prisão preventiva decretada a pedido do Ministério Público (fl. 42), por suposta prática dos delitos descritos nos arts. 288, caput, e 180, § 1º (por duas vezes), na forma do art. 69, todos do Código Penal (fl. 44).
+Nas razões deste recurso,insiste que está sendo vítima de constrangimento ilegal, pois não há contemporaneidade dos fatos que justifique a decisão de prisão preventiva, estando em liberdade provisória desde 28/1/2021.
+Afirma que"AS ALEGADAS "NOVAS RECEPTAÇÕES"TRATAM DO MESMO CRIME DE RECEPTAÇÃO QUAL O PACIENTE SE ENCONTRAVA EM LIBERDADE PROVISÓRIA" (fl. 66),não havendo, portanto, nada de novo e contemporâneo que justificasse a decretação da prisão preventiva.
+Requer seja o presente agravo recebido e julgado procedente para a concessão da ordem.
+Contrarrazões apresentadas às fls. 81-87 e 89-85.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. RECEPTAÇÃO QUALIFICADA.PRISÃO PREVENTIVA. CONTEMPORANEIDADE. TEMPO HÁBIL. INTERRUPÇÃO DA ATUAÇÃO DE ORGANIZAÇÃO CRIMINOSA. CRIME PERMANENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1.Não há falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessária à decretação, em tempo hábil, de prisão preventiva devidamente fundamentada.
+2.Dada a natureza permanente do crime de organização criminosa, não há falar em ausência de contemporaneidade.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Conforme a jurisprudência do STJ, não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessáriaàdecretação, em tempo hábil, de prisão preventiva devidamente fundamentada (HC n. 620.306/SP,relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 27/11/2020).
+A esse respeito ainda, o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Em juízo de cognição sumária, não há que se falar em ausência de contemporaneidade na custódia cautelar porque as instâncias ordinárias ressaltaram que diante da complexidade da suposta organização criminosa as investigações precisaram se aprofundar, de modo que ainda subsistiria o periculum libertatis, o que também indica que não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal.
+4. Agravo regimental desprovido. (AgRg no HC n. 648.784/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 24/8/2021.)
+A propósito, assim se manifestou o Tribunala quo(fls. 49-50):
+A alegada falta de contemporaneidade da medida, por ter sido o paciente posto em liberdade provisória há mais de 9 (nove) meses, "desde 28 de janeiro de 2021, por decisão proferida pela própria Autoridade Coatora", antes do decreto prisional, sem que existisse novo fato a justificá-lo, não prospera, tampouco afasta a necessidade da prisão.
+Segundo a denúncia, o paciente e demais envolvidos, "em data não precisa, porém pelo menos desde meados de outubro de 2020, até 18 de dezembro de 2020", "cientes da ilicitude de suas condutas e com vontade orientada à prática delitiva, associaram-se entre si, de forma estável e com o fim de praticar, reiteradamente, os crimes de furto e receptação".
+Ao indeferir o pedido de revogação da prisão preventiva, sua excelência esclareceu que "nada obstante este juízo tenha concedido liberdade provisória ao denunciado, no APF nº 5002101-45.2021.8.24.0033, em 28/01/2021, destaco que aquela análise foi feita isoladamente com relação ao crime de receptação ocorrido no dia 27/01/2021. Já a prisão preventiva decretada nestes autos, nove meses depois (1º/10/2021), versa sobre contexto fático mais abrangente, envolvendo outros crimes, tipificados nos artigos 288,caput, artigo 180, § 1º (carga do dia1º.11.2020) e artigo 180, § 1º (carga do dia 13.12.2020), todos do Código Penal, na forma do artigo 69 do mesmo diploma legal. Dessa feita, não há falar em decisões divergentes ou em descumprimento da liberdade provisória outrora concedida, mesmo porque o contexto de associação em tese para a prática de crimes leva a se concluir diferentemente acerca da necessidade de garantia da ordem pública, pelo que o fato deixaria de ser isolado, mas praticado em reiteração e associação, o que, com a prisão se objetiva obstar" (ev. 39 dos autos n. 5024957-03.2021.8.24.0033).
+Além disso, o delito de associação criminosa é conduta permanente, cuja consumação de protrai no tempo, não havendo motivo para se falarem ausência de contemporaneidade a justificar a prisão.
+De acordo com esta Câmara Criminal, tais delitos "são infrações cuja consumação se prolonga no tempo em razão da natureza permanente. Por essa razão, não há falta de contemporaneidade na decisão que decreta a prisão preventiva do paciente após longa investigação a fim de fazer cessar as atividades de organização criminosa voltada também à prática de tráfico de drogas" (TJSC,Habeas CorpusCriminal n. 5010586-36.2021.8.24.0000, do Tribunal de Justiça de Santa Catarina,rel. Getúlio Corrêa, Terceira Câmara Criminal, j. 06-04-2021).
+Além disso, a natureza permanente do crime de organização criminosa e o fundado risco de reiteração delitiva afastam a alegação de ausência de contemporaneidade, como concluiu o Tribunal a quo.
+Sobre o tema, o STJ fixou o entendimento de que "a contemporaneidade da cautelar deve ser aferida, não tomando por base apenas a data dos fatos investigados, mas, igualmente, levando em conta a permanência de elementos que indicam que os riscos-aos bens que se buscam resguardar com sua aplicação -ainda existem. Nesse sentido, a gravidade da conduta aliada à periculosidade dos pacientes, bem como a contínua atividade da organização criminosa evidenciam a contemporaneidade da prisão" (AgRg no HC n. 628.892/MS, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/3/2021).
+Inviável, portanto, ateserecursalsuscitada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
