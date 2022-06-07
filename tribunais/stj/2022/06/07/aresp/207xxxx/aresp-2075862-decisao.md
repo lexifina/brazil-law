@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por FEDERAÇÃO DAS EMPRESAS DE TRANSPORTES DE PASSAGEIROS DO ESTADO DO RIO DE JANEIRO FETRANSPORem face de decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DECISÃO QUE DETERMINOU AOS AGRAVADOS A PUBLICAÇÃO DA PORTARIA Nº 1.448/2019. PORTARIA QUE IMPLICA NO REAJUSTE TARIFÁRIO DO TRANSPORTE COLETIVO. AUSÊNCIA DE COMPROVAÇÃO DO DIREITO DO AGRAVADO. O PRESIDENTE DO DETRO/RJ, DENTRO DE SUA COMPETÊNCIA, PODE ENTENDER PELA INCORREÇÃO DOS VALORES APONTADOS, OU PELA AUSÊNCIA DE DEFASAGEM TARIFÁRIA, E NÃO PUBLICAR A PORTARIA PRETENDIDA PELA AGRAVADA. INTELIGÊNCIA DO ART. 7º, INCISO V, DO DECRETO ESTADUAL Nº 36.690/2004. NÃO CABE AO PODER JUDICIÁRIO SUBSTITUIR, POR VIA OBLÍQUA, A VONTADE DO ADMINISTRADOR, ATRAVÉS DE UMA DECISÃO LIMINAR, OBRIGANDO O PRESIDENTE DO DETRO/RJ A PUBLICAR A MINUTA DA PORTARIA, CONTENDO A REVISÃO DOS REAJUSTES TARIFÁRIOS CUJO EFEITO REPERCUTIRÁ E AFETARÁ O INTERESSE DA COLETIVIDADE QUE, EVIDENTEMENTE, SE SOBREPÕE AOSINTERESSES DAS PARTES, SEM EXISTIR UMA PROVA PERICIAL CONTÁBIL OU ATUARIAL IMPARCIAL, QUE DEMONSTRE A VIOLAÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO A JUSTIFICAR A REVISÃO DO REAJUSTE. NECESSIDADE DE INSTRUÇÃO DO FEITO COM A PRODUÇÃO PROBATÓRIA PERTINENTE. REFORMA DA DECISÃO. AGRAVO DE INSTRUMENTO PROVIDO.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação aos arts. 300, 489, § 1º, IV, e 1.022, do CPC, 29 V, da Lei nº 9.069/95, e 61, § 1º, da Lei Estadual nº 5.427/09.
+Em síntese, aduz que o Tribunal de origem deixou de se manifestar sobre questões relevantes suscitadas nos aclaratórios, e que faz jus ao reajuste tarifário anual do transporte rodoviário intermunicipal, pugnandopela necessidade de homologação do valor correto da tarifa, por se tratar de ato administrativo vinculado, bem como pela possibilidade do Poder Judiciário determinar a prática do referido ato pela Administração, de modo a se manter a tutela provisória incidental.
+A inadmissão do recurso especial se fez à consideração de que incide na espécie os óbices das Súmulas 735 do STF e 7 do STJ, além de que o Tribunal de origem efetivamente examinou todas as questões versadas nos autos, não havendo que se falar em violação dos arts. 489 e 1022 do CPC.
+Nas razões de agravo postula o processamento do recurso especial haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A pretensão não merece acolhida.
+Isso porque, quanto à alegada violação aos arts. 489 e 1.022 do CPC, sob a alegação de que o Tribunal de origem não se manifestou sobre todas as teses incorrendo em ausência de prestação jurisdicional, cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fls. 275/277e-STJ) :
+(..)
+No que tange aos segundos embargos de declaração, à embargante não lhe assiste razão.
+A embargante alega que o acórdão se confundiu em relação aos termos reajuste e revisão tarifária.
+Na realidade, o acórdão em nenhum momento mencionou a palavra revisão tarifária ou reajuste tarifário, e sim, em revisão do cálculo do reajuste tarifário, justamente, porque a embargante se insurgiu com o reajuste da tarifa fixada originariamente pela Portaria nº 1448 de 06 de fevereiro de 2019 (fls.798/832).
+A embargante requereu, administrativamente, a revisão e correção dos cálculos descritos na Portaria nº 1.448/2019, conforme documentos de fls.834/880 dos autos originários.
+O Presidente do DETRO/RJ elaborou uma Minuta de nova Portaria, com objetivo de corrigir o erro material constatado na planilha tarifária utilizada para a fixação do reajuste tarifário pela Portaria nº 1.448/19.
+O DETRO/RJ é autarquia estadual, vinculado à Secretaria de Estado de Transportes, e tem como, uma de suas finalidades, a elaboração de planilhas de custos para os cálculos tarifários, assegurando aos operadores remuneração que resguarde o equilíbrio econômico-financeiro, conforme dispositivos da Lei Estadual nº 1221/87, abaixo colacionados:
+(..)
+O Regimento Interno do DETRO/RJ (Decreto Estadual nº 36.690/2004) também preconiza como uma das atribuições da autarquia estadual, a elaboração deplanilhas de custos para os cálculos tarifários e autorizar sua valoração, assegurando aos operadores remuneração que resguarde o equilíbrio econômico-financeiro, conforme previsão contida no inciso IX, do art.4º do Decreto nº 36.690/2004.
+Diante do disposto no art.7º, inciso V do sobredito Decreto, ao Presidente do DETRO/RJ, compete:
+(..)
+Conforme consta em documentos de fls.2330, o assessor da Diretoria Técnica-Operacional encaminhou, no dia 19.09.2019, os autos do processo administrativo, solicitando a aprovação e publicação da minuta da Portaria, contendo a revisão do cálculo do reajuste tarifário estabelecido na Portaria nº 1448/2019, conforme requerido pela embargante.
+Ocorre que diante dos dispositivos supramencionados, o Presidente do DETRO/RJ, dentro de sua competência, pode entender pela incorreção dos valores apontados, ou pela ausência de defasagem tarifária, e não publicar a portaria pretendida pela embargada.
+Ademais, não cabe ao Poder Judiciário substituir, por via oblíqua, a vontade do administrador, através de uma decisão liminar, obrigando o Presidente do DETRO/RJ a publicar a minuta da Portaria, contendo o novo cálculo do reajuste tarifário cujo efeito repercutirá e afetará o interesse da coletividade que, evidentemente, se sobrepõe aos interesses das partes, sem existir uma prova pericial contábil ou atuarial imparcial, que demonstre a violação do equilíbrio econômico-financeiro do contrato a justificar a revisão do reajuste.
+O acórdão em nenhum momento vedou o reajuste tarifário pretendido pela embargante, e sim, apenas determinou a realização da prova pericial a fim de que fosse calculado e estabelecido o valor correto do reajuste tarifário, resguardando, por conseguinte, a supremacia do interesse público e a probidade da Administração Pública (art.62, §3º da Lei nº 8.666/93).
+Portanto, não merece guarida a assertiva de violação da Lei nº 9.069/95.
+No mais, não há que se falar em omissão em relação ao disposto no art.294, p.u. do CPC/15, até porque, o acórdão em nenhum momento ventilou aimpossibilidade do deferimento da tutela de urgência em caráter incidental.
+Não obstante, é necessária a produção da prova pericial imparcial a fim de ser apurado o valor correto do reajuste tarifário, o que não ocorre, evidentemente, em sede de cognição sumária.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC.
+No tocante à suposta violação ao artigo 300 do CPC/2015, é firme o entendimento do STJ no sentido de não ser possível, por meio da via especial, a verificação do acerto ou não da concessão ou indeferimento de antecipação de tutela, em virtude da presença dos seus requisitos (fumus boni iuris e periculum in mora), porquanto tal análise demanda a revisão dos elementos fático-probatórios acostados nos autos, providência expressamente vedada pela Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM CONTRA DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. PRETENSÃO DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. PRONUNCIAMENTO NÃO DEFINITIVO INIDÔNEO À VIOLAÇÃO DA LEGISLAÇÃO FEDERAL. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Não se tratando de pronunciamento definitivo, não se pode considerar ocorrida a violação da legislação federal, incidindo, no caso, por aplicação analógica, a Súmula 735 do STF, segundo a qual não cabe recurso extraordinário contra acórdão que defere ou concede medida liminar.
+2. Outrossim, a verificação do preenchimento ou não dos requisitos necessários para a antecipação de tutela, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em recurso especial.
+3. Portanto, não é possível, em situações deste jaez, a mitigação da Súmula 735/STF, quando ausentes os requisitos do art. 300 do CPC, cuja verificação demandaria reapreciação do acervo fático-probatório da causa.
+4. Agravo interno da empresa a que se nega provimento.
+(AgInt no AREsp n. 1.996.993/GO, relator Ministro Manoel Erhardt (desembargador Convocado do Trf5), Primeira Turma, DJe de 3/5/2022.)
+Por fim, quanto à alegada violação ao artigo 61, § 1º, da Lei Estadual nº 5.427/09,observa-se queo Tribunal de origem, ao tratar das questões que lhe foram submetidas,apreciou a questãocom base em análise da Lei Estadual nº 1.221/87e Decreto Estadual nº 36.690/2004,de modo que, nesse contexto, o deslinde da controvérsia conforme pretende a recorrente, passa necessariamente, pelo exame das indicadas legislaçõeslocais, medida vedada na via estreita do Recurso Especial, a teor da Súmula 280/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TARIFA DE ÁGUA E ESGOTO. COBRANÇA. LEGISLAÇÃO LOCAL. ANÁLISE NA VIA DO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. APLICAÇÃO.
+ ..
+2. O recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não se presta para a análise de eventual infringência a lei local, conforme a inteligência da Súmula 280 do STF.
+3. Caso em que a controvérsia foi julgada nas instâncias originárias à luz da interpretação de legislação local, qual seja, o Decreto Estadual n. 41.441/1996, a partir do qual se considerou que o agravado se enquadrava na categoria mista (prédio com unidades residenciais e comerciais) para fins de cobrança das tarifas de água e esgoto.
+4. Agravo desprovido.
+(AgRg no AREsp 100.266/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2016, DJe 08/06/2016)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ARTS. 489 E 1022 DO CPC. NÃO OCORRÊNCIA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INDEFERIMENTO. VERIFICAÇÃO DOS REQUISITOS. SÚMULA 7/STJ. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE DIREITO LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
