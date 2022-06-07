@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por Orides Barionuevo contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial em razão da sua intempestividade (fls. 1.113/1.114).
+Inconformada, defende a parte agravante que "Quanto à tempestividade do recurso especial, constata-se do primeiro tópico do recurso especial denominado "TEMPESTIVIDADE", que o acórdão recorrido foi disponibilizado no dia 11.10.19 (sexta-feira), tendo o prazo de 15 dias para a interposição de recurso especial começado a fluir no dia 14.10.19 (segunda-feira).O agravante destacou também que no 28 de outubro - dia do funcionário público - não houve expediente no Tribunal de Justiça do Estado, conforme Resolução GP nº 01/85 do TJSC que versa sobre o expediente nos foros judicial e extrajudicial  .. No mesmo ato do protocolo do recurso especial, o agravante juntou aos autos referida Resolução, que inclusive consta como destaque no índice do processo no site do STJ (e-STJ Fl.980)  .. Desta forma, o recorrente comprovou, no ato da interposição do recurso, a ocorrência de feriado local, em cumprimento ao comando do § 6º do art. 1.003 do CPC."(fls. 1.119/1.120).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 1.113/1.114 ), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
