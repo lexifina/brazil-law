@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado peloInstituto Nacional doSeguro Social- INSS, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fls. 686-687):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. REAFIRMAÇÃO DA DER. POSSIBILIDADE. TEMPO ESPECIAL. AGENTES NOCIVOS. RECONHECIMENTO. TEMPO RURAL. REGIME DE ECONOMIA FAMILIAR. COMPROVAÇÃO. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA. TEMAS 810 DO STF E 905 DO STJ. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 76 TRF4. ARTIGO 85 CPC. CUSTAS PROCESSUAIS. ISENÇÃO.
+1. É devido o reconhecimento do tempo de serviço rural, em regime de economia familiar, quando comprovado mediante início de prova material corroborado por testemunhas.
+2. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+3. Comprovado o tempo de serviço/contribuição suficiente e implementada a carência mínima, é devida a aposentadoria por tempo de serviço/contribuição, a contar da data de entrada do requerimento administrativo, nos termos dos artigos 54 e 49, inciso II, da Lei 8.213/1991, bem como efetuar o pagamento das parcelas vencidas desde então.
+4. É possível a reafirmação da DER para o momento em que restarem implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos artigos 493 e 933 do CPC/2015, observada a causa de pedir.
+5. A correção monetária das parcelas vencidas dos benefícios previdenciários será calculada conforme a variação do IGP-DI de 05/96 a 03/2006, e do INPC, a partir de 04/2006.
+6. Os juros de mora devem incidir a contar da citação (Súmula 204 do STJ), na taxa de 1% (um por cento) ao mês, até 29 de junho de 2009. A partir de 30 de junho de 2009, os juros moratórios serão computados, uma única vez (sem capitalização), segundo percentual aplicável à caderneta de poupança.
+7. Quando a concessão do benefício ocorre mediante reafirmação da DER, os juros de mora deverão ser calculados a contar da data da reafirmação (Incidente de Assunção de Competência, TRF4, processo nº 50079755.2013.4.04.7003, 5ª Turma, Relator Desembargador Paulo AfonsoBrum Vaz, juntado aos autos em 18/4/2017).
+8. Custas processuais e honorários advocatícios divididos em igual proporção, em face da recíproca sucumbência, fixados em conformidade com o disposto na Súmula 76 deste Tribunal e de acordo com a sistemática prevista no artigo 85 do Código de Processo Civil de 2015, suspensa a exigibilidade das verbas relativamente à parte autora em face da A.J.G.
+9. O INSS é isento do pagamento das custas processuais quando demandado na Justiça Federal e na Justiça do Estado do Rio Grande do Sul.
+Os embargos de declaração opostosforam desacolhidos.
+O recorrente alega ofensaaosarts.85, caput, 927, III, e1.022, II, do Código de Processo Civil. Afirma, em síntese, que não foram observados os parâmetros do Tema n. 995 do STJ e que, portanto, devem ser afastados oshonorários advocatícios.
+Assevera, ainda,queo dispositivo do art. 1.022, II, do CPCnão foi respeitado pelo órgão julgador, porquantoo Tribunal local recusou-se a enfrentar ponto omisso no acórdão, motivopelo qual deve ser anulada a decisão, retornando os autos para pronunciamento sobre as questões abordadas nos embargos de declaração.
+O Tribunal de origem admitiu o recurso especial.
+É o relatório.
+Não assiste razão ao insurgenteno ponto em que aduzcontrariedade aoart. 1.022, II, do CPC/2015, porquanto o acórdão combatido fundamentou claramente seu posicionamento, consignando, expressamente, que seria hipótese de condenação em honorários umavez que também houvepedido diversono caso em análise.
+No ponto, o seguinte trecho do acórdão que(e-STJ, fl. 707):
+Honorários advocatícios e custas processuais.Os honorários advocatícios devem ser fixados no patamar mínimo de cada uma das faixas de valor, considerando as variáveis previstas nos incisos I a IV do §§ 2º e 3º do artigo 85 do CPC/2015, incidente sobre as parcelas vencidas até a data do acórdão (Súmulas 111 do Superior Tribunal de Justiça e 76 do Tribunal Regional Federal da 4ª Região).
+No caso dos autos, houve modificação da sucumbência em razão da concessão do benefício mediante reafirmação da DER. De todo modo, considero que as partes sucumbiram em parcelas equivalentes, tendo em conta que, na DER, de fato, a parte autora não possuía direito ao benefício requerido. Por outro lado, é sabido que a Autarquia não acolhe a tese de preenchimento dos requisitos concessórios no curso da ação.
+No que concerne aos honorários advocatícios, não assiste razão aorecorrente, vistoqueo acórdão combatido entendeu que oINSS ficou parcialmente vencido. Desse modo, reexaminar a decisão do Tribunal de origem acerca dadistribuição da sucumbênciapara cada parte implicaria violação da Súmula n. 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+No ponto:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS.INEXISTÊNCIA. SUCUMBÊNCIA RECÍPROCA. CARACTERIZAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A distribuição dos ônus sucumbenciais, quando verificada a existência de sucumbência recíproca, deve ser pautada pelo exame do número de pedidos formulados e da proporcionalidade do decaimento de cada uma das partes em relação a cada um desses pleitos. Precedente.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.893.322/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA,DJe de 24/5/2021).
+PROCESSUAL CIVIL. HONORÁRIOS. SUCUMBÊNCIA PARCIAL. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA.
+I - Quanto aos honorários, considerando o provimento parcial do recurso especial, correta a decisão que manteve em 10% sobre a condenação ou proveito econômico obtido, calculados da decisão em que o direito foi reconhecido (in casu, a sentença), nos termos da Súmula n. 111/STJ, fixando-se proporcionalmente ao objeto atendido.
+II - Considerando que houve sucumbência parcial, as partes devem arcar, de modo proporcional, com os respectivos ônus, com a distribuição da sucumbência, nos termos do art. 86 do CPC/15, c/c o art. 85, § 14, que deve ser de 80% para o autor e 20% para a autarquia. Nesse sentido é a jurisprudência desta Corte: EDcl no REsp 1.765.004/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/9/2019, DJe 20/9/2019; AgInt nos EDcl no REsp 1.673.886/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 12/12/2017, DJe 19/12/2017).
+III - Agravo interno improvido.
+(AgInt no REsp n. 1.720.162/SP, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/4/2020).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
