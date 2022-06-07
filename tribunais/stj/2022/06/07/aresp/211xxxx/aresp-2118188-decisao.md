@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se deagravo interposto por ODA AUTO CENTER LTDA e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ODA AUTO CENTER LTDA e OUTRO, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. 232 não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não consta autenticaçãobancária. Nesse sentido:AgInt no AREsp n. 2.017.752/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7/4/2022.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer às fls. 258/259 o comprovante de pagamento referente à guiaanteriormente apresentada, sem, contudo, realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º do CPC.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
