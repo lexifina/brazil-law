@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DANIEL IVAN DAROZ e JOSÉ LUIZ D AROZ agravam da decisão de fls. 1.085-1.089, que negou provimento ao recurso especial.
+Os insurgentes reiteraram a tese de "irregularidade da Requisição de Informações sobre Movimentação Financeira" (fl. 1.091), realizada de maneira açodada, fora das hipóteses legais. Explicam que o "sigilo bancário guarda proteção constitucional, conforme art. 5º, inciso XII, sendo afastado apenas com autorização judicial" (fl. 1.092), o que não ocorreu na espécie.
+Para os acusados, não era possível o "compartilhamento de informações protegidas por sigilo bancário pela Receita Federal sem intervenção do Judiciário" (fl. 1.094).
+Requerem a reforma do julgado e o provimento do recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME TRIBUTÁRIO. PROCESSO ADMINISTRATIVO FISCAL. REQUISIÇÃO DIRETA DE INFORMAÇÃO DA RECEITA FEDERAL ÀS INSTITUIÇÕES FINANCEIRAS. COMPARTILHAMENTO COM O MINISTÉRIO PÚBLICO SEM INTERVENÇÃO DO PODER JUDICIÁRIO. POSSIBILIDADE. REPRESENTAÇÃO FISCAL PARA FINS PENAIS.VIOLAÇÃO FEDERAL NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.Os agentes fiscais tributários podem requisitar diretamente das instituições financeiras dados bancários sobre os contribuintes, durante procedimento fiscal em curso, quando tais informaçõessejam consideradas indispensáveis pela autoridade competente.
+2. No julgamento do RE n. 601.314/SP (Tema n. 225), o Supremo Tribunal Federal decidiu que "o art. 6º da Lei Complementar 105/01 não ofende o direito ao sigilo bancário, pois realiza a igualdade em relação aos cidadãos, por meio do princípio da capacidade contributiva, bem como estabelece requisitos objetivos e o translado do dever de sigilo da esfera bancária para a fiscal".
+3. A partir da fixação do Tema n. 990,de repercussão geral, decidiu-se serconstitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil, que define o lançamento do tributo, com os órgãos de persecução penal para fins criminais, sem a obrigatoriedade de prévia autorização judicial, devendo ser resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional.
+4. O acórdão recorrido está conforme a jurisprudência sobre o tema.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a decisão agravada.
+DANIEL IVAN DAROZeJOSÉ LUIZ DAROZreiteram a assertiva de que o acórdão doTribunal Regional Federal da3ª Região, que anulou a decisão de rejeição dadenúncia, violou oart. 157 do CPP, pois houve quebra de sigilo bancáriopromovida diretamente pela Receita Federal, que não poderia compartilhar dados sigilosos com o Ministério Público sem autorização judicial. Pedem, por isso, o restabelecimento da decisão de primeiro grau.
+Infere-se dos autos que, iniciado o procedimento fiscal,a Receita Federal (fl. 943):
+ ..  diante da omissão para apresentar documentação e esclarecimentos quanto à origem de valores creditados nas contas correntes, incompatíveis com os dados declarados ao fisco, solicitoudiretamente às instituições financeiras tais elementos e, de posse de tais informações bancárias, logrou apurar os dados que fundamentaram a constituição do crédito tributário.
+Os réus foram denunciados por incursão noart. 1º, I e II, da Lei n. 8.137/1990, em continuidade delitiva, porque, na qualidade de representantesda empresa Rigor Alimentos Ltda., omitiram informações das autoridades fazendárias relativas aos anos-calendários de 2002, 2003 e 2004, bem como fraudaram a fiscalização tributária, ao ocultar operações em livro exigido pela lei fiscal.
+O cerne da questãoestá relacionado à comprovação da materialidade delitiva da sonegação fiscal, pois o conjunto probatório que fundamenta a denúncia estaria lastreado no lançamento definitivoe em informações de movimentação bancária obtidos pela Receita Federal ecompartilhadoscom o Ministério Público, por meio de "representação fiscal para fins penais" (fl. 1.042).
+O Tribunal de origem decidiu (fl. 1.033, grifei):
+ ..  a partir do julgamento do RE nº 601.314/SP (Pleno, Rel. Min. Edson Fachin ,j.24.02.2016, Repercussão Geral, DJe-198, DIVULG 15.09.2016 PUBLIC16.09.2016),o Supremo Tribunal Federal decidiu ser possível o compartilhamento dos dados obtidos pela Receita Federal do Brasil para fins de instrução processual penal, motivo pelo qual esta Quarta Seção acatou tal jurisprudência e passou a considerar legítimo o compartilhamento de informações obtidas pela Receita Federal, com fundamento no art. 6º da LeiComplementar nº 105/2001.
+O acórdão recorrido está conforme ajurisprudência desta Corte, firme em assinalar, segundo precedente do Supremo Tribunal Federal, que é constitucional ocompartilhamentode relatórios de inteligência financeira e de procedimentos fiscalizatórios da Receita Federalcom órgãos de persecução penal para fins penais, sem prévia autorização da Justiça.
+Os agentes fiscais tributários podem requisitar das instituições financeiras dados bancáriossobre os contribuintes sem intervenção do Poder Judiciário,desde que exista processo administrativo instaurado ou procedimento fiscal em curso e tais informações sejam consideradas indispensáveis pela autoridade competente.
+No julgamento do RE n. 601.314/SP, cuja repercussão geral foi reconhecida, consignou-se que o "art. 6º da Lei Complementar n. 105/2001 não ofende o direito ao sigilo bancário, pois realiza a igualdade em relação aos cidadãos, por meio do princípio da capacidade contributiva, bem como estabelece requisitos objetivos e o translado do dever de sigilo da esfera bancária para a fiscal". Este Superior Tribunal também possui Recurso Especial repetitivo sobre a matéria (REsp n. 1.134.665/SP, Tema n. 275).
+Eventualcontrovérsia sobre o caráter indispensável da requisição dos dados bancários, inserido na análise da autoridadecompetente (e não do contribuinte), não foi decidida noacórdão recorrido, que se limitou a analisar a questão atinente "ao emprego dessa prova para fins de instrução de processo-crime" (fl. 956).
+Nesse limite, o julgado recorrido está conforme a jurisprudência das Cortes Superiores. Aplica-se ao caso asSúmulas n. 83 e 568, ambas do STJ. Confira-se:
+ ..  A Sexta Turma, por ocasião do julgamento do HC 422.473/SP, da relatoria do Ministro Sebastião Reis Júnior, passou a adotar a orientação do Supremo Tribunal Federal de que é possível a utilização de dados obtidos pela Secretaria da Receita Federal, em regular procedimento administrativo fiscal, para fins de instrução processual penal.
+2. Agravo regimental improvido.
+(AgRg no AREsp 1208106/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/6/2019).
+ ..
+1. A Sexta Turma desta Casa, no julgamento do HC n. 422.473/SP, da relatoria do Ministro Sebastião Reis Júnior, alterou seu entendimento a partir da jurisprudência do Supremo Tribunal Federal, passando a compreenderpela possibilidade de utilização de dados obtidos pela Secretaria da Receita Federal, em regular procedimento administrativo fiscal, para fins de instrução processual penal.
+Precedentes.
+ ..
+3. Desse modo, estando o acórdão recorrido em harmonia com a jurisprudência desta Corte Superior, é caso de aplicação do disposto no enunciado 83/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp 1359408/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/8/2021).
+Prevalece a compreensão de que:
+ ..  Não há se falar em ofensa ao princípio da reserva de jurisdição,em virtude do compartilhamento com o Ministério Público para fins penais, de dados bancários legitimamente obtidos pela Receita Federal e compartilhados no cumprimento de seu dever legal,sem autorização judicial, por ocasião do esgotamento da via administrativa fiscalizatória, em virtude da constatação de possível prática de crime tributário. Dessarte, não há se falar em prova ilícita. Precedentes do STF e do STJ  ..
+(AgRg nos EDcl no AREsp 1361814/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/5/2020).
+ ..  1. O entendimento de que é incabível o uso da chamada prova emprestada do procedimento fiscal em processo penal, tendo em vista que a obtenção da prova (a quebra do sigilo bancário) não conta com autorização judicial contraria a jurisprudência consolidada do Supremo Tribunal Federal de que é possível a utilização de dados obtidos pela Secretaria da Receita Federal, em regular procedimento administrativo fiscal, para fins de instrução processual penal (HC n. 422.473/SP, de minha relatoria, Sexta Turma, DJe 27/3/2018).
+2. No julgamento do RE n. 601.314/SP, cuja repercussão geral foi reconhecida, consignou-se queo "art. 6º da Lei Complementar n. 105/2001 não ofende o direito ao sigilo bancário, pois realiza a igualdade em relação aos cidadãos, por meio do princípio da capacidade contributiva, bem como estabelece requisitos objetivos e o translado do dever de sigilo da esfera bancária para a fiscal".
+ .. não há se falar em ofensa ao princípio da reserva de jurisdição, em virtude do compartilhamento com o Ministério Público para fins penais, de dados bancários legitimamente obtidos pela Receita Federale compartilhados no cumprimento de seu dever legal, sem autorização judicial, por ocasião do esgotamento da via administrativa fiscalizatória, em virtude da constatação de possível prática de crime tributário (AgRg no REsp n. 1.558.157/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/10/2018).
+ ..
+(REsp 1797992/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 24/5/2019).
+À vista do exposto,nego provimento ao agravo regimental.
