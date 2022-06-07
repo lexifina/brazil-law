@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de MATHEUS COIMBRA CORREAem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 1516556-37.2019.8.26.0228.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, §4º, da Lei Federal n. 11.343/06 (tráfico privilegiado), à pena de 04 anos e 02 meses de reclusão, em regime inicial semiaberto, e 410 dias-multa (fl. 107).
+Recurso de apelação interposto pela Defesa foi desprovido (fl. 208). O acórdão ficou assim ementado:
+Apelação da Defesa Tráfico de Drogas Provas suficientes à condenação Materialidade e autoria comprovadas Circunstâncias reveladoras do crime de tráfico de entorpecentes Apreensão de significativa quantidade de cocaína, crack e maconha Negativa do acusado isolada do conjunto probatório Depoimentos harmônicos dos policiais militares responsáveis pela abordagem Fatores que, associados à prova produzida, levam à conclusão de que os entorpecentes eram destinados ao consumo de terceiros Condenação mantida Pena-base acertadamente fixada no mínimo legal Redutor previsto no artigo 33, § 4º, da Lei nº 11.343/2006, aplicado em benefício do acusado, sem a interposição de recurso pelo representante do Ministério Público Mantida a fixação de regime inicial semiaberto, ante a resignação do representante do Ministério Público Impossibilidade da fixação de regime aberto e da substituição da pena privativa de liberdade por pena restritiva de direitos Mercês incompatíveis com delitos de singular gravidade Necessidade de maior repressão ao tráfico de entorpecentes Recurso de apelação desprovido (fl. 200).
+Em sede de recurso especial (fls. 265/277), a Defesa apontou violação ao art. 33, §4º, da Lei Federal n. 11.343/06, sustentando a (..) aplicação da causa de diminuição de pena prevista no §4º do art. 33 da Lei de Drogas em seu patamar de metade, redimensionando-se a sanção aplicada (fl. 276).
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO(fls. 285/292).
+O recurso especial foi inadmitido no TJ em razão de: a) deficiência da fundamentação e; b) óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ(fls. 295/296).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 301/308).
+Contraminuta do MP (fls. 314/320).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 333/336).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+OTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOmanteve a pena nos seguintes termos do voto do relator (fls. 203/204):
+"A pena-base foi acertadamente fixada no mínimo legal, em 05 anos de reclusão e 500 dias-multa em seu mínimo unitário a míngua de maus antecedentes, e permaneceu inalterada na fase seguinte, eis que ausentes circunstâncias agravantes ou atenuantes.
+Na terceira etapa, por entender presentes os requisitos previstos no artigo 33, § 4º, da Lei nº 11.343/2006, o Magistrado reduziu a pena do acusado em 1/6.
+Observo a impropriedade da pretensão da defesa quanto à aplicação do redutor em patamar superior, eis que o réu não comprovou o exercício de atividade lícita, não parecendo crível que estivesse de posse designificativa quantidade e variedade de entorpecentes, de valor considerável, sem que a tanto não estivesse ligado a outros indivíduos versados na mesma criminalidade, ou ao menos que já atuasse há bom tempo no comércio ilegal de entorpecentes.
+Por óbvio, os requisitos previstos pelo legislador no artigo 33, § 4º, da Lei nº. 11.343/2006 devem ser analisados separadamente. Do contrário, bastaria que a norma exigisse o preenchimento do requisito da primariedade para que o agente fosse agraciado com a redução da pena."
+Observa-se que a Corte de origem justificou a fração de diminuição no patamar de 1/6 (um sexto), em razão da não comprovação de atividade lícita, assim como pela quantidade e variedade dos entorpecentes apreendidos com o agravante.
+Conforme entendimento desta Corte, a natureza e a quantidade das drogas apreendidas, desde que não utilizadas na primeira fase da dosimetria, podem justificar a modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 (AgRg no AgRg no AREsp n. 1.900.979/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021)
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. DIRETRIZES FIRMADAS NO ERESP 1.887.511/SP. USO APENAS SUPLETIVO DA QUANTIDADE E DA NATUREZA DA DROGA NA TERCEIRA FASE. PROPOSTA DE REVISÃO DE POSICIONAMENTO. MANUTENÇÃO DO ENTENDIMENTO CONSOLIDADO HÁ ANOS PELAS CORTES SUPERIORES. ACOLHIDO NO ARE 666.334/AM PELO STF. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. APLICAÇÃO DO REDUTOR EM 1/6. ORDEM CONCEDIDA.
+(..)
+3 - podem ser utilizadas para modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 quaisquer circunstâncias judiciais não preponderantes, previstas no art. 59 do Código Penal, desde que não utilizadas na primeira etapa, para fixação da pena-base. (grifos no original).
+(..)
+6. Portanto, diante da orientação consolidada há tempos pelas Cortes Superiores, proponho mantermos o posicionamento anterior, conforme acolhido no ARE 666.334/AM, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena.
+(..)
+(HC n. 725.534/SP, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 1/6/2022).
+Considerando que a quantidade e a variedade dosentorpecentes apreendidos não foramutilizados para elevação da pena-base, revela-se idôneo o emprego da referida fundamentação para modular a fração de diminuição prevista no §4º do art. 33 da Lei n. 11.343/06.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
