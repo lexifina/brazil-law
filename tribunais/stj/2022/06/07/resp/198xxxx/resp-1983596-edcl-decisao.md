@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos porZULEIDE EVALTI SIMÕES em face dadecisão (Fls. e-STJ 475-477), que negou provimento ao recurso especial interposto, assim ementada:
+RECURSO ESPECIAL - APELAÇÃO - PRAZO PRESCRICIONAL - SEGURO FACULTATIVO - TEMA/IAC 2 - INCIDÊNCIA
+1. Nos termos da tese assentada no IAC n. 2 - STJ: "É ânuo o prazo prescricional para exercício de qualquer pretensão do segurado em face do segurador - e vice-versa - baseada em suposto inadimplemento de deveres (principais, secundários ou anexos) derivados do contrato de seguro, ex vi do disposto no artigo 206, § 1º, II, "b", do Código Civil de 2002 (artigo 178, § 6º, II, do Código Civil de 1916)" - Tema/IAC 2.
+2. Recurso especial a que se nega provimento.
+Nas razões do presente declaratório,sustentaa ora embargante, em síntese: a)que"restou obscura a análise acerca da aplicação do direito intertemporal, visto que a situação retratada nos autos, teve origem durante a vigência do Código Civil de 1916, Lei n. 3.071/16" (Fl. e-STJ 480); b)defender, primeiramente,a aplicabilidade dos prazos prescricionais previstos no Código Civil de 1916 - tendo em vistao princípio "tempus regit actum" -, e, subsidiariamente, a aplicação da regra geral estampada no art. 205 do Código Civil de 2002; e c) serem aplicáveis, à espécie, tanto o art. 14 do vigenteCPC, quanto o art. 177, do CC/16.
+É o relatório.
+DECIDO.
+2. O artigo 1.022, do vigente Código de Processo Civil, prescreveclaramente as quatro hipóteses de cabimento dos embargos de declaração - restritas àssituações em que patente a existência, no julgado combatido, de: (i) obscuridade;(ii) contradição;(iii) omissão - incluídas, aqui, as condutas descritas no § 1º do artigo 489 do CPC, caracterizadoras decarência de fundamentação válida;e (iv) o erro material.
+Todavia, não se vislumbra, na hipótese, a existênciade quaisquer dos referidos víciosa ensejar o acolhimento dos presentes embargos de declaração. Porquanto, em que pese ter a recorrente asseverado haver obscuridade no decisum objurgado quanto à análise da aplicação do direito intertemporal à espécie, observa-se que tal matéria não foi abordada pela decisão agravada em razão de não ter sido impugnada no recurso por ela decidido.
+3. No recurso especial fundado na alínea "a" do permissivo constitucional,é imprescindível quesejam inequivocamente particularizadosos normativos federais supostamente contrariados pelo tribunal de origem, cuidandoarecorrentede demonstrarde que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+Outrossim, as razões declinadas no recurso especial devem concordar com anormatividade da disposição legal impugnada, sob pena da fundamentação apresentada ser tidapor deficiente - a ensejar a aplicação daSúmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+4. In casu, observa-se ter a parte impugnado, em seu especial, apenas anormadoart. 205 do CC/02 - que nada traz, em seu núcleo perceptivo, sobre direito intertemporal. O que, por si só, já elucida a ausência de impugnação sobre eventual incidência, no caso, de direto intertemporal (cuja previsão se encontra no art. 2.028 do CC).
+Inobstante, observa-se que muito embora tenha a parte registrado em seu recurso datas anteriores ao atual Codex Civilista, decerto que isso não configura efetiva impugnação da matéria - que demanda fundamentação clara e específica a esse respeito.
+Sem embargo, registre-seque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, não cabendo ao relator, por esforço hermenêutico, extrairda argumentação apresentada a ofensa legal que teria ou não havido, bem comoqual dispositivo teria ou não sido supostamente contrariado.
+5. Assim sendo, revela-se patente que a matéria atinente ao direito intertemporal configura indevida inovação recursal a inviabilizar sua análise ante a notória ausência de prequestionamento.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. VEDAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. "A jurisprudência desta Corte é pacífica no sentido de que é vedada a inovação recursal em sede de embargos de declaração, ainda que sobre matéria considerada de ordem pública, haja vista o cabimento restrito dessa espécie recursal às hipóteses em que existente vício no julgado" (EDcl no REsp 1.776.418/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/02/2021, DJe de 11/02/2021).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1827049/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/03/2022, DJe 07/04/2022)  g.n.
+_____________________________________________________________
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. JUSTIÇA DO TRABALHO E COMUM FEDERAL. AÇÃO RECLAMATÓRIA TRABALHISTA. PLEITOS RELACIONADOS AO CONTRATO DE TRABALHO. REFLEXO NAS CONTRIBUIÇÕES PARA O PLANO DE PREVIDÊNCIA PRIVADA. CUMULAÇÃO DE PRETENSÕES DE NATUREZAS DISTINTAS. SÚMULA 170/STJ. COMPETÊNCIA DA JUSTIÇA ESPECIALIZADA NOS LIMITES DE SUAS ATRIBUIÇÕES.
+1. Como amplamente cediço nesta Corte, é vedada a inovação recursal em sede de embargos de declaração, cujo acolhimento pressupõe omissão no julgamento acerca de questão oportunamente suscitada pelas partes, o que não ocorreu na hipótese dos autos.
+2. Compete à Justiça do Trabalho processar e julgar ação trabalhista que discute alterações promovidas no contrato de trabalho e a natureza de verbas recebidas do empregador.
+3. Compete à Justiça Comum o julgamento de ação relacionada a contrato firmado com entidade de previdência complementar, o qual possui natureza eminentemente civil.
+4. Havendo cumulação de pedidos envolvendo matérias de diferentes competências, deve a ação prosseguir perante o juízo onde foi inicialmente proposta, nos limites de sua competência, sem prejuízo do ajuizamento de nova demanda, com o pedido remanescente, no juízo próprio. Entendimento da Súmula nº 170/STJ.
+5. Embargos de declaração parcialmente acolhidos para dar parcial provimento ao agravo interno.
+(EDcl no AgInt no CC 144.513/PB, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 27/10/2017) g.n.
+6. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRAZO PRESCRICIONAL - SEGURO FACULTATIVO - INCIDÊNCIA DO TEMA/IAC 2. ALEGAÇÃO DE OBSCURIDADE SOBRE MATÉRIA DE DIREITO INTERTEMPORAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
