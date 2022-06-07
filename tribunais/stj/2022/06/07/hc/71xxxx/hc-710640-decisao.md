@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se dehabeas corpus substitutivo de recurso próprio,impetrado em benefício deANDERSON GOMES DE BARROS, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, proferido no julgamento do Agravo em Execução n. 4000782-20.2021.8.16.0021.
+Extrai-se dos autos que o Juízo das execuções indeferiu o pleito defensivo de realização de nova avaliação psiquiátrica e de concessão de prisão domiciliar ao paciente.
+Irresignada, a defesa interpôs agravo em execuçãoperante o Tribunal de origem, o qual negou provimento ao recurso, nos termos do acórdão que restou assim ementado:
+"RECURSO DE AGRAVO EM EXECUÇÃO. PEDIDO LIMINAR. CONCESSÃO DE PRISÃO DOMICILIAR. IMPOSSIBILIDADE. RECURSO QUE NÃO POSSUI EFEITO SUSPENSIVO. MÉRITO. REALIZAÇÃO DE NOVA AVALIAÇÃO MÉDICA DO REEDUCANDO. PORTADOR DE DOENÇA MENTAL. ESQUIZOFRENIA. DESNECESSIDADE. SENTENCIADO DEVIDAMENTE ASSISTIDO. SUBMISSÃO A TRATAMENTO MEDICAMENTOSO. ALTAPSIQUIÁTRICA. DEVIDO TRATAMENTO MÉDICO PRESTADO PELOESTABELECIMENTO PRISIONAL. PRESERVAÇÃO DAINTEGRIDADE FÍSICA E PSÍQUICA DO SENTENCIADO. RECURSOCONHECIDO E DESPROVIDO."(fls. 19)
+No presentewrit, a impetrante relata que o paciente desenvolveu patologia mental no curso do cumprimento da pena.
+Afirma que o acórdão impugnado é carente de fundamentação, pois considerou que o paciente estava recebendo o tratamento médico adequado na Penitenciária Estadual Thiago Borges de Carvalho, quando, na verdade, está inserido no Complexo Médico Penal de Pinhais.
+Alega que "a realização de avaliação médica é direito do preso, não só sob o aspecto administrativo, mas também, e principalmente, na avaliação de eventual concessão de benefícios executórios, como no caso, o decreto de indulto" (fl. 11).
+Sustenta que o paciente não recebe qualquer consulta médica desde fevereiro de 2021, não havendo laudo médico que ateste o grau de sua doença.
+Requer, assim, que se determine ao Juízo da Vara de Execuções Penais que nomeie peritomédico para realização da avaliação psiquiátrica do reeducando.
+A liminar foi Indeferida(fls. 56/57) e, em sua manifestação, opinou o Ministério Público Federal pelo não conhecimento dohabeas corpus, conforme parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.
+- 2ª Preliminar: conhecimento de ofício; ausência de competência. Precedentes: STJ (HC nº 245.731/MS; HC nº 248.757/SP).
+- 3ª Preliminar: não conhecimento das questões suscitadas ou, mesmo de ofício, da ordem, sob pena de contrariar o art.105, inciso III, "a", "b"e "c"da CF.
+- Parecer pelo não conhecimento da ordem." (fl. 99)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, cinge-se a controvérsia sobre a necessidade da concessão da prisão domiciliar ao apenado, pois acometido de doença mentalno curso da execução da pena, bem como pleiteia a parte impetrante que seja nomeado perito para que realize avaliação psiquiátrica no paciente.
+Quanto aos temas, o Tribunal de origem consignou:
+"Por primeiro, não obstante os argumentos lançados pela defesa, não vislumbro a possibilidade de deferimento da liminar pleiteada para a concessão de prisão domiciliar.
+Isto porque, o artigo 197 da Lei de Execuções Penais assenta que o recurso de agravo não possui efeito suspensivo, in verbis: "Art. 197. Das decisões proferidas pelo Juiz caberá recurso de agravo, sem efeito suspensivo".  ..
+De outro lado, em relação ao pedido defensivo de realização de nova avaliação psiquiátrica para realização de efetivo diagnóstico de saúde, a fim de atestar eventual doença mental que possa estar acometendo o reeducando, compulsando os autos de execução penal - SEEU - Processo:0000429-57.2019.8.16.0170 - é possível verificar que o reeducando ANDERSON GOMES DE BARROS já na Unidade de Saúde Prisional (USSP) "(..) está sendo acompanhado pela equipe da Unidade de Saúde do Sistema Prisional (USSP), passou por avaliação médico psiquiátrico no dia 06/04/2021.
+Retornou na USSP dia 08/04/2021, bom estado geral de saúde, eupenico, deambulando, recusou-se a receber medicamento receitado pelo médico da unidade ( ..)" (mov. 121.1).
+Outrossim, foi encaminhado ao Complexo Médico Penal para tratamento de doença psiquiátrica, cuja documentação de mov. 189.2 atesta que o "interno saiu do surto psicotico,postura sendo que em 08/02/2021 obteve a respectiva alta. tranquila. alta psiquiatrica com receita e medicação", Ainda, é de se consignar que a última prescrição médica é do dia 27/08/2021, de modo que o agravante vem recebendo, dentro do estabelecimento prisional, adequado tratamento médico necessário para seu quadro de saúde, devendo ser destacado, ademais, que há médico psiquiatra disponível na PETBC (Penitenciária Estadual Thiago Borges de Carvalho).
+Portanto, uma vez que o agravante está devidamente assistido, recebendo tratamento medicamentoso para sua patologia mental, bem como tendo recebido alta psiquiátrica e, ainda, havendo médico psiquiatra disponível na Penitenciária Estadual Thiago Borges de Carvalho, é de se ressaltar que, mesmo doente, todos os cuidados estão sendo tomados, a fim de preservar a integridade física e psíquica do sentenciado, razão pela qual desnecessária a realização de nova avaliação médica do reeducando.
+Por conseguinte, não demonstrada a necessidade para concessão da medida, nego provimento ao recurso de agravo em execução penal."(fls. 20/21, grifamos)
+Da leitura do aresto impugnado, constata-se que a Corte de origem entendeu não ser o caso de concessão da prisão domiciliar ao paciente ou da determinação de nova avaliação psiquiátrica, haja vista que, das informações obtidas da unidade prisional em que se encontra custodiado, verificou-se que o apenado está obtendo tratamento adequado para o seu quadro de saúde, tanto medicamentoso, quanto psiquiátrico, haja vista a existência de médico especialista na penitenciária.
+De modo que, a revisão do entendimento a que chegou a Corte de origem demandaria a revisão do contexto fático-probatório dos autos, providência inviável em sede dehabeas corpus.
+Ademais, em consultaà página eletrônica do SISTEMA DE EXECUÇÃO ELETRÔNICO UNIFICADO - SEEU (seeu.pje.jus.br), constatou-se do andamento do PEC n.0000429-57.2019.8.16.0170, que, por decisão proferida no dia 27/04/2022, oJuízo de origem determinou o encaminhamento de ofício à PETBC (Penitenciária Estadual Thiago Borges de Carvalho)para que o paciente fossesubmetido "a exame médico, necessária e expressamente constando, de modo detalhado, suas doenças, respectivos CIDs, índice de risco de morte, e possibilidade de tratamento efetivo na unidade prisional".
+No dia 04/05/2022, oJuízodaexecução, de posse das informações atualizadas prestadas pela unidade prisional em que o apenado se encontra custodiado, bem como do seu estado de saúde, indeferiu o novo pedido de prisão domiciliar formulado em favor do paciente, ante a inexistência de situação excepcional que justificasse a concessão da benesse.
+Desse modo, verifica-se a perda superveniente do objeto dapresente irresignação.
+Ressalte-se que, havendo alteração na situação fática ou na saúde do apenado, a defesa sempre poderá pleitear junto ao Juízo da execução que sejam tomadas as devidas providências.
+Ante o exposto, julgo prejudicado o presentehabeas corpus.
+Publique-se.
+Intimem-se.
