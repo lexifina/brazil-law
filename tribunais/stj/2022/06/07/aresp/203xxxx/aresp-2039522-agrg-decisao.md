@@ -1,0 +1,35 @@
+DECISÃO
+HÉRCULES CHAVES DE SÁ CASTRO interpõeagravo regimental contra decisão proferida peloPresidentedo STJque não conheceu do agravo em face da Súmula n. 182 do STJ.
+Alegaque impugnou especificamente todos os óbices constantes da decisão que negou seguimento ao apelo extremo.
+Requer a reconsideração da decisão ou a submissão do recurso à Turma para conhecimentoe provimento.
+O Ministério Público Federal opinapelo desprovimentodo regimental (fls. 273-277).
+É o relatório. Decido.
+Razão assiste à parteagravante, mostrando-se suficiente a argumentação apresentada paraafastar o óbice da Súmula n. 7 do STJ.
+Assim, na forma do art. 258, § 3º, do RISTJ,reconsidero a decisão de fls. 252-253e passo anova análise das razões do agravo.
+Trata-se de agravo em recurso especial interpostocontra decisão que inadmitiu recurso especial em decorrência da incidência daSúmulan. 7 do STJ, repita-se, óbice devidamente impugnado.
+Nas razões do recurso especial (fls. 184-190), fundamentadono art. 105, III, a, da Constituição Federal, a parte agravanteaponta violação do art. 386, III, do Código de Processo Penal,argumentando que "não há que se falar em tipicidade do crime de porte ilegal de arma de fogo, vez que o aludido delito fora absorvido pelo crime de disparo de arma de fogo na medida em que os fatos imputados  .. ocorreram no mesmo contexto e guardam nexo de dependência entre si" (fl. 189).
+Requer o provimento do recurso com a reforma do acórdão e aplicação do princípio da consunção.
+Foram apresentadas as contrarrazões pelo Ministério Público estadual (fls. 195-201).
+No que diz respeito à questão,o Tribunal de origem assim decidiu(fls. 167-168):
+Embora haja certa divergência doutrinária sobre o tema, existindo quem não firme essa relação de maior e menor gravidade como requisito do princípio em comento, como o faz Alberto Silva Franco, entendo que, para fins de consunção deve, sim, haver essa relação, sob pena de se permitir que o cometimento de um crime mais grave fique impune.
+Do contrário, a morte de alguém (homicídio) praticada para fins de viabilizar a subtração de coisa móvel sua (furto) ficaria sem a correspondente sanção, o que se revela inimaginável, tanto que, para esta hipótese em particular, foi criada figura típica específica, a do final do § 3º do art. 157 do CP (latrocínio).
+Ora, se a ofensa a um bem jurídico praticada pelo "crime meio" não for alcançada pelo âmbito de proteção do tipo penal que tutela o bem jurídico violado pelo "crime fim", a sanção aplicada a este em nada contribuirá para a tutela daquele primeiro bem jurídico, cuja ofensa permanecerá sem a devida resposta estatal.
+Nota-se, pois, que a aplicação do princípio da consunção pressupõe uma relação de maior e menor gravidade entre os fatos envolvidos, contudo, não só, devendo ser considerado o momento consumativos de ambos; conforme bem lembrou o representante ministerial em seu parecer, o qual peço vênia para transcrever parcialmente, dada a propriedade com que tratou o tema:
+Conforme ressabido, só se pode aplicar o princípio da consunção quando na conduta do agente se encontra elemento volitivo determinante.
+O simples fato (conduta) de possuir arma de fogo, é crime, classificado como permanente, abstrato e de mera conduta (independe de resultado) o que significa dizer que, tenha ou não o agente praticado qualquer outro delito com tal instrumento, o porte ilegal de arma já está caracterizado e consumado. E isto ocorre porque a incolumidade pública, bem jurídico aqui tutelado, já foi violada com a simples conduta.
+Sendo assim, somente se pode falar em aplicação do princípio daconsunção quando o agente adquire ou apossa-se da arma exclusivamente, especificamente, de forma imediata e/ou circunstancial, para praticar um determinado crime (homicídio, roubo, disparo de arma de fogo), classificado como instantâneo, material, de conduta e resultado, e efetivamente executa a ação. E isto é assim porque, nesta hipótese, não há violação da incolumidade pública, objeto jurídico da norma que pune o porte ilegal de arma.
+Aqui sim o porte da arma terá sido apenas um meio para atingir o bem jurídico protegido pela norma atinente ao crime fim, de forma que por este será absorvido.
+Destarte, em sendo distintos os momentos consumativos dos delitos, não vejo como o crime de disparo possa absorver o de porte de arma de fogo, pelo que rejeito também esta tese recursal.
+Ajurisprudência desta Corte firmou-se no sentido de que, para a aplicação do princípio da consunção aos crimes de porte ilegal e de disparo de arma de fogo, é necessário que a prática dos fatos típicos ocorra no mesmo contexto, bem como que hajanexo de dependênciaentre as condutas, considerando-se o porte ilegal comocrime-meio para a execução do disparo da arma de fogo.
+No caso,o Tribunal de origem concluiu que os delitos ocorreram em momentos diversos.Assim, a revisão dessaconclusãoexige o revolvimento dos elementos fático-probatórios dos autos, providência inviável em razão do disposto na Súmula n. 7 do STJ.
+Nesse sentido, os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. POSSE DE ARMA DE FOGO DE USO PERMITIDO. DISPARO DE ARMA DE FOGO. PRINCÍPIO DA CONSUNÇÃO AFASTADO. CONTEXTOS FÁTICOS DISTINTOS. REVALORAÇÃO JURÍDICA DE FATOS INCONTROVERSOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, incabível a absorção do crime de posse ilegal de arma pelo de disparo de arma de fogo, mediante aplicação do princípio da consunção, notadamente diante dos contextos fáticos distintos a evidenciar ocorrência de designíos autônomos, pois o posse ilegal da arma precedeu, em muito, à prática do disparo.
+1.1. Conclusão alcançada com base em revaloração jurídica de fatos incontroversos, razão pela qual inaplicável o óbice da Súmula n. 7 do STJ.
+2. Agravo regimental desprovido.(AgRg nos EDcl no REsp n. 1.942.292/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/5/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE DE ARMA DE FOGO E DISPARO. CONSUNÇÃO. CONTEXTOS FÁTICOS DISTINTOS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Aplica-se o princípio da consunção aos crimes de porte ilegal e de disparo de arma de fogo ocorridos no mesmo contexto fático, quando presente nexo de dependência entre as condutas, considerando-se o porte crime-meio para a execução do disparo de arma de fogo.
+2. Concluindo o Tribunal de origem, com apoio no conjunto probatório dos autos, que os crimes de posse e de disparo de arma de fogo não foram praticados no mesmo contexto fático, porquanto se aperfeiçoaram em momentos diversos e com desígnios autônomos, a reversão do julgado encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido.(AgRg no AREsp n. 1.211.409/MS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 21/5/2018.)
+Ante o exposto, com fundamento no art. 258, § 3º,do RISTJ, reconsidero a decisão agravada para conhecer do agravo em recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
