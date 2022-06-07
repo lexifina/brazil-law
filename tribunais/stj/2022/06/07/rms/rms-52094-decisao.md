@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança com pedido liminar interposto por HENRIQUE ANTONIO ITABORAI ECHETERNACHT, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 246):
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - AGENTE DE SEGURANÇA SOCIEDUCATIVO - ELIMINAÇÃO DE CANDIDATO - CONTRAINDICAÇÃO NA QUARTA FASE - ILEGITIMIDADE PASSIVA - SECRETÁRIO ESTADUAL DE PLANEJAMENTO E GESTÃO - SECRETÁRIO ESTADUAL DE DEFESA SOCIAL - RECONHECIDA - ATO IMPUGNADO PROFERIDO PELA COMISSÃO - IMPOSSIBILIDADE DE APLICAÇÃO DA TEORIA DA ENCAMPAÇÃO - SEGURANÇA DENEGADA.
+- Autoridade coatora, no mandado de segurança, é aquela que detém poder e competência de decisão, aquela da qual emana o ato ilegal ou abusivo de poder e a legítima capaz de restaurar a situação anterior.
+- Considerando que o ato impugnado pelo presente writ, qual seja, contraindicação do candidato e desprovimento de seu recurso administrativo, foi emanado pela Comissão de Avaliação de Idoneidade e Conduta Ilibada, o reconhecimento da ilegitimidade passiva dos Secretários Estaduais de Planejamento e Gestão e de Defesa Social.
+- Inadmite-se a aplicação da Teoria da Encampação quando a retificação da autoridade coatora importar em modificação da competência jurisdicional (precedentes do STJ).
+Na origem, o recorrente impetrou o mandado de segurança contra ato dos Secretários de Estado de Planejamento e Gestão (SEPLAG)e de Defesa Social (SEDS), consubstanciado na sua exclusão do concurso público para o provimento do cargo de agente de segurança socioeducativo, regido pelo Edital SEPLAG/SEDS n. 09/2013.
+Aduziu, em síntese, que foi contraindicado na 4ª etapa do referido certame - por ter participado de acidente de trânsito que teve vítima fatal-, destacando "que no momento do acidente o impetrante estava de carona, conforme declaração ocorrida no IPM aberto pelo Comando da Aeronáutica" (e-STJ fl. 12)
+No presente recurso, sustenta o recorrente que (e-STJ fls. 282/284):
+ .. a execução da quarta e sexta etapas, são de responsabilidade da SEDS, ora recorrida, conforme consta no item 1.4.2, supra mencionado.
+Logo, embora a análise dos recursos seja competência da Banca Examinadora, nos moldes do item 13.8 do Edital, inexorável destacar que a própria Banca será formada conforme as diretrizes da Secretaria de Estado de Defesa Social - SEDS, que, repita-se, é o órgão responsável pela execução do Curso de Formação.
+ .. embora a análise dos recursos seja competência da Banca Examinadora, nos moldes do item 13.8 do Edital, inexorável destacar que a própria Banca será formada conforme as diretrizes da Secretaria de Estado de Defesa Social - SEDS, que, repita-se, é o órgão responsável pela execução do Curso de Formação.
+Ao final, sustentando a presença dos requisitos de urgência, pleiteia, em caráter liminar, que lhe seja assegurado o direito de continuar no concurso público.
+Contrarrazões foram apresentadas às e-STJ fls. 298/304.
+Liminar indeferida (e-STJ fls. 351/352).
+O Ministério Público Federal manifestou-se pelo provimento do recurso para que o Tribunal de origem prossiga no julgamento do writ (e-STJ fls. 365/369).
+Passo a decidir.
+Da análise dos autos, verifica-se que o recorrente impetrou o mandado de segurança contra ato dos Secretários de Estado de Planejamento (SEPLAG) e Gestão e de Defesa Social (SEDS), consubstanciado na sua exclusão do concurso público para o provimento do cargo de agente de segurança socioeducativo, regido pelo Edital SEPLAG/SEDS n. 09/2013, tendo sido contraindicado na 4ª etapa do referido certame - comprovação de idoneidade e conduta ilibada.
+O Tribunal de origem denegou a ordem, ao entendimento de que as autoridades indicadas como coatoras não teriam legitimidade passiva.
+Não obstante os argumentos expendidos pela Corte a quo, da análise dos autos, verifica-se que a Secretaria de Estado da Defesa Social - SEDS é a responsável pela organização e execução da quarta e da sexta etapas do certame, consoante se extrai dos seguintes itens do Edital (e-STJ fls. 58 e 77/78):
+1.4.2 A quarta e sexta etapa será de responsabilidade da SEDS.
+ ..
+13.3.1 A SEDS poderá estabelecer convênio com outra entidade, integrante ou não do sistema de Defesa Social, a critério da Administração Pública, para proceder integral ou parcialmente à execução da etapa de Comprovação de Idoneidade e Conduta Ilibada.
+ ..
+13.10 A constatação, a qualquer tempo, de qualquer registro em desfavor do candidato, relacionado aos fatores de contraindicação, especificados no item 13.4.1 do presente Edital, ou outro fator que implique em desabono de conduta e/ou inidoneidade, ensejará a contraindicação do candidato, ficando reservado à SEDS, por meio de manifestação da Comissão de Análise de Idoneidade e Conduta Ilibada, o direito de considerá-lo contraindicado e, consequentemente, eliminado do concurso.
+Esse entendimento foi, inclusive, confirmado nas informações prestadas no writ originário pelo Secretário de Estado de Planejamento e Gestão, nos seguintes termos (e-STJ fls. 144/142):
+O mandado de segurança individual, preconizado no art. 5o, LXIX, da Constituição da República, regulamentado pela Lei n.º 12.016/2009, é ação civil de rito sumário especial, destinada a afastar ofensa a direito subjetivo individual líquido e certo, privado ou público, através de ordem corretiva ou impeditiva da ilegalidade, ordem esta a ser cumprida pela autoridade coatora, em atendimento à notificação judicial.
+De acordo com o ari. 6º, § 2o, da nova Lei do Mandado de Segurança, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática
+ ..
+De fato, de acordo com o item 1.4.2 do edital, a Secretaria de Estado de Defesa Social - SEDS é a responsável pela organização" e execução da quarta e sexta etapas do concurso SEPLAG/SEDS n.º 09/2013:
+ ..
+O item 13.10 do edital, do mesmo modo, é inequívoco ao prever que compete à SEDS considerar contraindicado o candidato em desfavor de quem pesar um dos fatores especificados no -item 13.4.1 ou outro fator que implique desabono de conduta-e/ou inidoneidade:
+ ..
+Portanto, as regras editalícias comprovam que o ato que desclassificou o impetrante na quarta fase do certame não foi praticado no âmbito da SEPLAG, sendo descabida a inclusão do titular desta Pasta no pólo passivo da ação mandamental.
+Repisa-se . que a realização da 4a etapa do certame é de responsabilidade da SEDS, de modo que a SEPLAG não tem competência para interferir das deliberações tomadas nessa fase do processo seletivo de servidores.
+Assim, equivocado se. mostra o direcionamento do writ ao Secretário de Estado de Planejamento e Gestão, autoridade a quem não pode ser atribuído o ato impugnado pelo impetrante, sendo o caso de denegação da segurança, nos termos do art. 6o, § 5o, da Lei n.º 12.016/2009 c/c o art. 267, VI, do Código de Processo Civil.
+Destaca-se que, por óbvio, inexiste vínculo hierárquico entre o Secretário de Estado de Planejamento e Gestão e os órgãos da Secretaria de Estado de Defesa Social responsáveis pela fase de comprovação de idoneidade e conduta ilibada, circunstância que torna inaplicável a teoria da encampação.
+Consoante o entendimento desta Corte, a autoridade coatora que detém legitimidade para figurar no polo passivo de ação mandamental é aquela que tenha praticado o ato impugnado, consoante o disposto na Lei n. 12.016/2009. Nesse sentido: AgInt no RMS 54.264/SP, Relatora Ministra REGINA HELENA COSTA, Primeira Turma, DJe 25/04/2018; RMS 54.873/GO, Relator Ministro HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2017.
+In casu, da análise do edital do certame, conforme destacado anteriormente, não há dúvida quanto à legitimidade do Secretário de Estado de Defesa Social para figurar como autoridade coatora.
+Registre-se, por fim, que, não tendo sido analisado o mérito na instância de origem, não deve ser aplicado o imediato julgamento previsto no art. 1.013, § 3º, do CPC2015, sob pena de supressão de instância. Nesse sentido: RMS 051.598/PR, Relator Ministro SÉRGIO KUKINA, DJe 30/08/2018.
+Ante o exposto, nos termos do art. 34, XVIII, "c", do RISTJ, DOU PROVIMENTO ao recurso ordinário para, reconhecendo a legitimidade passiva do Secretário de Estado de Defesa Social, cassar o aresto recorrido, determinando o retorno dos autos ao Tribunal de origem, para que prossiga no julgamento do mandado de segurança, como entender de direito.
+Publique-se. Intimem-se.
