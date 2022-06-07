@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especialinterposto por BANCO ITAUCARD S.A., com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado da Paraíbaassim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PROCEDÊNCIA PARCIAL. INCONFORMISMO. PRELIMINAR. FALTA DE INTERESSE DE AGIR. UTILIDADE DO PROVIMENTO JUDICIALEVIDENCIADA. REJEIÇÃO. PREJUDICIAIS DE MÉRITO. COISA JULGADA. INOCORRÊNCIA. DEMANDAS DIVERSAS. REJEIÇÃO. PRESCRIÇÃO TRIENAL DA PRETENSÃO. PRAZO DECENAL CONTADO DA DATA DA ASSINATURA DA AVENÇA. PRECEDENTES DO STJ. LAPSO TEMPORAL OBSERVADO. REJEIÇÃO. MÉRITO. PEDIDO DE DEVOLUÇÃO DOS VALORES OBTIDOS PELA INSTITUIÇÃO BANCÁRIA A TÍTULO DE JUROS INCIDENTES SOBRE TAXA JÁ DECLARADA ILEGAL EM PROCESSO DIVERSO. APLICAÇÃO DOS PRINCÍPIOS DA GRAVITAÇÃO JURÍDICA E DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. DEVOLUÇÃO DOS VALORES. DESPROVIMENTO.- Afirmando a parte necessitar da intervenção estatal para ver reconhecido o direito que alega e verificando-se que o provimento jurisdicional, sendo favorável, trar-lhe-á benefícios, tem-se evidente o interesse de agir, por estarem presentes a necessidade e, principalmente, a utilidade na atuação do Judiciário.
+- A coisa julgada ocorre quando a sentença judicial se torna irrecorrível, ou seja, não admite mais a interposição de qualquer recurso. Assim sendo, operando-se a coisa julgada, caso uma das partes tente rediscutir a matéria em um novo processo, havendo identidade de causa de pedir e pedido, a parte contrária e, até mesmo o magistrado, ex officio, poderá alegar a exceção da coisa julgada, impedindo que seja proferido um novo julgamento sobre a matéria.
+- Se as causas a que se refere o apelante não são idênticas, por não haver equivalência de pedidos, deve-se rechaçar a prefacial de coisa julgada.- Como relatado a presente demanda consiste em pleito de restituição de valores indevidamente pagos em contrato de financiamento de veículo automotor. Nesse contexto, conforme entendimento pacificado na jurisprudência pátria, o prazo prescricional aplicável é o geral, preceituado pelo artigo 205 do Código Civil, ou seja, de 10 anos a contar da data da assinatura do contrato.- Na hipótese, não houve o transcurso do prazo de dez anos entre a data da assinatura do contrato e o momento do ajuizamento da demanda, motivo pelo qual não há que se falar em prescrição.- Seguindo a lógica do princípio da gravitação jurídica - segundo o qual o acessório segue o principal -, uma vez declarada a abusividade de cláusula contratual, com a consequente devolução do valor com base nela indevidamente cobrado, a condenação na restituição dos juros remuneratórios incidentes sobre a taxa indevida é consectário lógico dentro da ideia da vedação ao enriquecimento sem causa"(fl. 163/165e-STJ).
+Nas razões do especial, orecorrentesustentaviolação doart. 337, § 4º, do Código de Processo Civil de 2015.
+Aduz violação à coisa julgada.
+Menciona que
+"(..) a causa de pedir e o pedido formulados na ação proposta abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento. Logo, se está a repetir, agora, ação idêntica à outra já definitivamente julgada" (fls. 256/257 e-STJ).
+Contrarrazões às fls. 283/299 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com relação ao argumento de violação à coisa julgada, o Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Na hipótese, verifica-se que é inegável o interesse de agir do promovente, uma vez que restou configurada a necessidade de ajuizar demanda judicial para obtenção de pagamento dos valores indevidamente cobrados, referentes a acréscimos/juros, em relação à tarifa declarada judicialmente abusiva, em referência ao contrato debatido no processo nº3002887-69.2013.815.2001.
+Aqui ressalte-se que o pedido formulado nesta ação para ver reconhecido o caráter indevido dos juros remuneratórios, auferidos pela instituição bancária, sobre o montante pecuniário já declarado abusivo, deve ser, de fato, postulado no âmbito de demanda cognitiva própria e não em cumprimento de sentença ou mesmo em sede recursal naquela demanda, já que não foi reconhecido de forma expressa sentença e no título executivo judicial.
+A diversidade de substrato material entre a demanda julgada no JuizadoEspecial e nesta ação é de tal forma evidente que várias são as decisões judiciais deste próprio Tribunal de Justiça do Estado da Paraíba, afastando as preliminares de ausência de interesse de agir e de incidência da coisa julgada"(fl. 171e-STJ).
+Areforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA. INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MULTA DECENDIAL. JUROS DE MORA. DESCABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ.SÚMULA 83/STJ. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. REVISÃO.
+INCIDÊNCIA DA SÚMULA 7/STJ. JUSTIÇA GRATUITA. REVOGAÇÃO DO BENEFÍCIO. ALTERAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+(..)
+3. O acórdão recorrido reconheceu que o título executivo judicial não determinou a incidência dos juros de mora para a multa decendial, concluindo, em consequência, sem implicar ofensa à coisa julgada, que houve excesso de execução. Alterar essas conclusões demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. No caso, o Colegiado estadual, após a análise das particularidades da causa, concluiu que a situação de insuficiência de recursos para arcar com as despesas processuais deixou de existir, revogando os benefícios da justiça gratuita deferidos aos autores. Diante desse cenário, reverter a aludida convicção demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula 7/STJ.
+5. Agravo interno desprovido"
+(AgInt no AREsp 1.646.878/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/8/2020, DJe 1º/9/2020).
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinzepor
+cento) sobre o valor da condenação - fl. 206e-STJ, os quais devem ser majorados para o patamar de 17% (dezessetepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
