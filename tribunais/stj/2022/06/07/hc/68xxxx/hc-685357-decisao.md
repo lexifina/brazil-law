@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de CESAR FELIPE RODRIGUES MOURA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0006829-84.2021.8.26.0996.
+Consta dos autos que o Juízo das Execuções Penais reconheceu, em 14/05/2021, que a conduta do Apenado, consubstanciada em proferir "palavras de baixo calão para o agente penitenciário",tipifica emfalta disciplinar de natureza média(fls. 68-69).
+O Ministério Público interpôs agravo em execução penal, que foi provido pelo Tribunal estadual em acórdão assim ementado (fl. 74):
+"Agravo em Execução Penal do Ministério Público - Falta grave apurada em sindicância - Atos de desobediência e indisciplina no interior da penitenciária - Consistentes depoimentos dos servidores públicos - Falta disciplinar de natureza grave, a teor do artigo 50, inciso VI, combinado com o artigo 39, incisos II e V, da LEP - Perda de 1/6 dos dias remidos e interrupção do prazo para a progressão de regime - Consequências legais da prática de falta grave - Necessidade de novo cálculo da pena - Recurso de agravo em execução provido, com determinação."
+Neste writ, a parteImpetrante sustenta, em suma, que a conduta supostamente praticada pelo Reeducando é atípica, porquanto não está prevista no art. 50 da Lei de Execução Penal. Alega, ainda, que"a Lei de Execução Penal trouxe rol taxativo para infrações disciplinares de natureza grave, sendo que tal conduta não está presente neste rol, tratando-se de clara atipicidade" (fl. 9).
+Requer a concessão da ordem para restabelecer a decisão do Juízo da Execução Penal.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento dohabeas corpus (fls. 97-101).
+É o relatório. Decido.
+OJuízo singular, ao reconhecerque o Pacientepraticouafalta disciplinar de natureza média, concluiuo que se segue (fls. 68-69):
+"Consta nos autos que, na data do fato, o sentenciado proferiu palavras de baixo calão para o agente penitenciário.
+O sentenciado, ouvido em declarações na presença de advogado, negou os fatos. (fl. 198)
+Os agente penitenciários reiteraram o referido comunicado do evento. (fls. 195/196)
+O procedimento administrativo respeitou os requisitos legais.
+Entretanto, reputo que o ato praticado pelo sentenciado não pode ser tipificado como falta grave, pois consiste em simples falta média, prevista no inciso I do artigo 45 da Resolução SAP 144 de 29/06/2010, que estabelece, in verbis:
+ ..
+Em análise do procedimento observa-se que a conduta do sentenciado não restou em maior gravidade para a segurança da unidade."
+O Tribunal de origem, por sua vez, ao reformar o decisum, consignou aseguinte motivação(fls. 75-77; sem grifos no original.):
+"O incidente ocorrido em 22 de fevereiro de 2020,apurado em procedimento disciplinar e classificado como falta grave pelas autoridades administrativas, decorreu de atos de desobediência e indisciplina por parte do agravado.
+Os agentes penitenciários João Paulo Aguiar e Ivan Aparecido Cecílio esclareceram que na data em questão realizavam as suas funções quando o agravado e o detento Diego Carvalho Fontes dos Santos, aparentemente sem motivo, passaram a intimidá-los dizendo "Aí seu funcionário, na rua é outra situação, é tudo comigo.. seu carrasco, filho da puta, quero ver quem pode mais na rua, desgraçado, vou te pegar lá fora é bom você saber com quem tá mexendo".
+Ouvido em sindicância, o agravado negou o ato de desrespeito imputado a ele, alegando uma acusação injusta por parte dos funcionários.
+ ..
+Contudo, a meu ver, assiste razão ao representante do Ministério Público, eis que a conduta efetivamente caracteriza falta de natureza grave, consistente em ato de desrespeito aos agentes penitenciários, a teor do que dispõe o artigo 50, inciso VI, combinado com o artigo 39, incisos II e V, ambos da Lei de Execução Penal.
+Conforme esclareceram os agentes penitenciários, o agravado proferiu ameaças contra os funcionários, em voz alta e de forma despropositada, implicando risco à ordem e à disciplina do presídio, conduta que caracteriza ato de desobediência e desrespeito aos servidores públicos que ali trabalhavam.
+Vale ressaltar que os relatos dos servidores públicos envolvidos na ocorrência são coerentes e não foram confrontados por qualquer outra prova, não se observando qualquer discrepância capaz de gerar suspeitas em seus depoimentos, mesmo porque não consta dos autos que eles tivessem algum motivo para injustamente acusarem o sentenciado.
+A palavra de agentes de segurança penitenciária e de outros agentes do serviço público não pode ser infirmada sem motivo comprovado. O simples fato de exercerem a função de segurança não lhes retira a possibilidade de prestar depoimento em processo administrativo ou em juízo, nem afasta automaticamente a credibilidade de suas narrativas.
+Portanto, tais agentes não estão impedidos de depor, nem se pode lançar suspeição sobre suas declarações se para tanto não existirem razões plausíveis.
+Destarte, respeitado o entendimento em contrário, parece bem caracterizada a prática de falta disciplinar de natureza grave, a teor do artigo 50, inciso VI, combinado com o artigo 39, incisos II e V, todos da Lei nº 7.210 de 1984.
+ .. "
+Como se percebe, ao contrário do afirmado pela Defesa, o acórdão impugnadoencontra-se devidamente fundamentado eamparadoem base empírica idônea, consubstanciadaem procedimentoadministrativo disciplinar em que se apurouconduta grave praticada peloPaciente,que se comportou de modo desobediente.
+Ademais,esta Corte Superior possui precedentes considerando que atos atentatórios àdisciplina prisionalconstituemfalta disciplinar de natureza grave, expressamente prevista, nos termos do art. 50, incisoVI, c.c. o art. 39, incisoII,da Lei de Execução Penal. Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ART. 50, VI, C.C ART. 39, I E II, AMBOS DA LEI DE EXECUÇÃO PENAL - LEP. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ALTERAÇÃO DA DATA-BASE PARA CONCESSÃO DE NOVOS BENEFÍCIOS. RECONHECIMENTO IDÔNEO DOS CONSECTÁRIOS DA PRÁTICA DE INFRAÇÃO DISCIPLINAR. PERDA DOS DIAS REMIDOS DEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O afastamento da falta grave praticada pelo ora paciente (art. 50, VI, c/c art. 39, I e II, ambos da Lei de Execução Penal - LEP) demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+2. Ademais, "consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência aos agentes penitenciários constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais"(HC n. 377.551/SP, QUINTA TURMA, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 28/3/2017).
+3. O entendimento desta Corte Superior de Justiça é no sentido de que o cometimento de falta grave pelo apenado (a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; (b) autoriza a regressão de regime e (c) a revogação de até 1/3 dos dias remidos (art. 127 da LEP).
+4. Por último, no caso, a perda do tempo remido no grau máximo encontra-se devidamente fundamentada na natureza e nas circunstâncias da infração cometida pelo apenado, em consonância com o art. 127 c/c o art. 57 da LEP.
+5. Agravo regimental desprovido." (AgRg no HC n. 732.365/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 19/5/2022;sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. APREENSÃO DE MATERIAIS PROIBIDOS. FALTA GRAVE CONFIGURADA. DESCLASSIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS. CABIMENTO. FUNDAMENTAÇÃO CONCRETA. AGRAVO DESPROVIDO.
+1. Conforme precedentes desta Corte Superior, condutas como desobediência ao servidor ou às ordens recebidas constitui falta de natureza grave, nos termos do art. 50, inciso VI, da Lei de Execução Penal.
+2. "Não há que se falar em atipicidade ou desclassificação da falta grave atribuída ao paciente para outra de natureza média ou leve, sobretudo porque isso demandaria o revolvimento de matéria fático-probatória, o que é inadmissível na via estreita do habeas corpus" (AgRg no HC 425.059/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+3. De acordo com o entendimento desta Corte, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127, o que se verifica na hipótese.
+4. Agravo regimental desprovido." (AgRg no HC 497.509/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/10/2019, DJe 28/10/2019; sem grifos no original.)
+Ainda que assim não fosse," o  habeas corpusnão é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas"(AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020).
+Assim, o caso em análise não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGOa ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃOPENAL. DESOBEDIÊNCIA. CARACTERIZAÇÃO. FALTA GRAVE. RECONHECIMENTO DEVIDAMENTE FUNDAMENTADO.CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
