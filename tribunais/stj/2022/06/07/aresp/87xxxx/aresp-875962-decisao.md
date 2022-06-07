@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravointerposto por JOÃO LUIS GABRIEL contra decisão monocrática proferida pela Vice-Presidência do Tribunal de Justiça do Estado do Espírito Santo, que não admitiu o processamento do recurso especial interposto.
+A controvérsia foi bem sumariada pelo Ministério Público Federal, cujo excerto transcrevo a seguir(e-STJ, fls. 182/183):
+Trata-se de agravo de inadmissão de recurso especial interposto por JOÃO LUIS GABRIEL contra aresto do Tribunal de Justiça do Estado do Espírito Santo que julgou improcedente sua revisão criminal, com esta ementa (e-STJ, fls. 59/62):
+"REVISÃO CRIMINAL. CRIME DE LESÃO LEVE.SITUAÇÕES DESCRITAS NO ARTIGO 551, "C", DO CPPM E, ANALOGICAMENTE, NO ART. 621, III, DO CPP. NÃO DEMONSTRAÇÃO. TERCEIRA VIA RECURSAL.IMPOSSIBILIDADE. IMPROCEDÊNCIA DA AÇÃO. Deve ser julgada improcedente a revisão criminal quando, além de não ter sido demonstrada a situação descrita no art. 551, "c", do CPPM, e analogicamente, no art. 621, III, do Código de Processo Penal, está sendo utilizada como uma terceira via recursal. Precedentes deste Tribunal. Pedido Revisional julgado improcedente".
+O agravante foi condenado a 3 meses de detenção em regime aberto por prática de crime tipificado no artigo 209, caput, do CPM, sendo beneficiado por suspensão condicional da pena por 2 anos, na forma do art. 84, do CPM (e-STJ fl. 60), não sendo sequer conhecida sua primeira revisão criminal e a destes autos julgada improcedente, sendo opostos embargos declaratórios, também rejeitados (e-STJ fls. 78/84).
+A defesa interpôs recurso especial (e-STJ fls. 88/104) com base no artigo 105, inciso III, alínea a, da CF/88, por violação aos artigos 431, §4º, e 551, alínea c, do CPPM, já que o juízo singular não remarcara audiência em que o réu não comparecera por enfermo, pedindo a anulação da ação penal nº 024.07.058495-8.
+Contrarrazoado (e-STJ, fls. 111/113) e inadmitido na origem (e- STJ, fls. 115/117) por incidência da Súmula 7/STJ, adveio este agravo (e-STJ, fls. 122/129), contraminutado (e-STJ, fls. 168/169)  ..
+Ao se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 182/184).
+É o relatório.
+Decido.
+Presente a impugnação defensivado único fundamento utilizado para não admitir o recurso especial, conheço do agravo.
+O recurso especial, contudo,não merece ser conhecido.
+O acórdão recorrido assim consignou ao julgar a revisão criminal proposta pelo ora recorrente (e-STJ fls. 61/62):
+ ..  o recorrente aduz que deve ser anulada a audiência ocorrida na data de 16.10.2008, por ter o mesmo se ausentado, por motivo justificado pela apresentação de atestado médico, fato que teria cerceado o seu direito de defesa, bem como teria violado o que determina o artigo 431, § 40, do CPPM.
+Ocorre que, consoante já me manifestei no julgamento da revisão criminal de no 0024694-83.2013.8.08.0000, o vício apontado pelo requerente, de que o magistrado sentenciante deveria tê-lo intimado novamente para comparecer à audiência em que voluntariamente faltou inexiste, visto que o dispositivo acima invocado não determina que o magistrado obrigatoriamente redesigne a audiência.
+Concluo dessa maneira porque, no caso dos autos, o autor foi interrogado, conforme se denota às fls, 86/87, ocasião em que lhe oportunizado fazer as ponderações que entendia serem importante para a ação e embora tenha o mesmo faltado a audiência ocorrida dia 16.10.2008, conforme consignou o Magistrado às fls. 104/11 sua defesa técnica se fazia presente, de modo que resta afasta qualquer alegação de eventual prejuízo, até mesmo porque não houve prova quanto a tal ponto.
+Além disso, a pretensa nulidade não foi questionada em nenhuma das fases do processo, mas tão somente nesta via, com o objetivo de revolver a matéria já definitivamente julgada por esta Corte.
+De outro giro, também não subsiste a tese de ocorrência de prejuízo na carreira do revisionante, sob o argumento de que não teria sido intimado para se manifestar se aceitava o benefício da suspensão condicional da pena, vistoque consta a sua ciência da sentença de fls. 131/137, bem como de seu defensor, na data de 11.05.2009 (fls.138-verso/139), as quais foram confirmadas pela certidão de fl. 139 - verso, tanto que foi interposto recurso de apelação 3 (três) dias depois (fl. 143), porém sem qualquer irresignação quanto a isso.
+Logo, não restou demonstrada a situação descrita no artigo 551, "c", do CPPM e, analogicamente; a prevista no artigo 621, III, do CPP,restando patente a intenção do autor de rediscutir a causa, revolvendo a matéria fática e usando a revisão criminal para se alcançar uma terceira via recursal, o que é vedado pelo ordenamento jurídico  ..
+Do trecho acima colacionado, verifico que ofundamentoem destaque, suficienteà manutenção do acórdão recorrido, não foiimpugnadode forma específica, nas razões recursais, sendo forçoso o reconhecimento do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em
+mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.597.699/SC, relatora Ministra MARIA THEREZA DE ASSIS
+MOURA, SEXTA TURMA, julgado em 1º/9/2016, DJe 12/9/2016.)
+Com efeito, mutatis mutandis, "o entendimento pacífico no âmbito da Terceira Seção é o de que compete a esta Corte o julgamento da ação de revisão criminal tão somente quando a questão objeto do pedido revisional tiver sido analisada na ocasião da apreciação do recurso especial"(RvCr n. 1.788/RS, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 23/4/2014, DJe de 29/4/2014.).
+Ademais, como bem pontuou o Parquet Federal, "o Tribunal a quo (e-STJ, fls. 59/62), com arrimo fático- probatório, afastou nulidade do julgamento de ação penal que tramitou na Vara da Auditoria Militar capixaba pois, embora ausente o réu audiência havida em 16/10/2008, sua defesa técnica fez-se presente, inexistindo eiva processual alguma e nem cerceamento ou prejuízo à defesa que, ademais, não se demonstrou, trazendo a lume o brocardo pas de nullité sans grief" (e-STJ fl. 183).
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
