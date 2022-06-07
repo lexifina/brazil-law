@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos declaratórios (fls. 397/399) opostos por MARCOS EDUARDO GARCIA contra decisão de minha lavra que conheceu em parte de seu recurso especial e, com fundamento na Súmula n. 568 do STJ, deu-lhe provimento para redimensionar a pena do embargante para 1 ano de detenção e 4 dias-multa e 1 ano e 8 meses de reclusão, em regime inicial aberto (fls. 387/394).
+O embargante alega que, quando do redimensionamento de sua pena, foi considerada a continuidade delitiva na terceira fase da dosimetria, a qual já tinha sido afastada pelo Tribunala quo.
+Requer, destarte, o afastamento da continuidade delitiva na terceira fase do procedimento dosimétrico.
+É o relatório.
+Decido.
+Com razão a parte,há equívoco no julgado.
+De fato, verifica-se que o Tribunal de origem afastou a continuidade delitiva na terceira fase da dosimetria nos seguintes termos do voto do relator:
+"Nada obstante, há de se reconhecer que o decreto de censura deve apenas subsistir em relação ao estelionato e à corrupção de menor perpetrados aos 05 de fevereiro de 2021, ocasionando dano no valor de R$ 390,06. Isso porque o que a denúncia traz são transgressões consumadas cometidas "nos dias 13, 21 (por duas vezes), todos de janeiro de 2021 e por duas vezes no dia 04 e também por duas vezes no dia 05, todos de fevereiro de 2021" (fls. 145).
+E isso não se correlaciona com as provas reunidas no feito, tendo em vista que: i) a operação fraudulenta realizada aos 13 de janeiro não se consumou, uma vez que as mercadorias não foram entregues pelo Supermercado Guarani (vide anotação constante do documento a fls. 62 e declarações da representante da empresa/vítima); ii) as compras relacionadas na proemial como efetivadas nas datas de 21 de janeiro, 04 e 05 (aqui, apenas atinente àquela que somou R$ 428,68) de fevereirode 2021 sucederam, na realidade, no dia anterior ao ali consignado, com entrega agendada para o dia subsequente (conforme documentos acostados a fls. 49/50, 63/5, 73/4, 77/8,81/2, 85/6).
+Ora, o réu se defende dos fatos que lhe são assacados na exordial acusatória. Então - e qualquer flexibilização quanto a isso fulmina o direito de defesa - o apelante não poderia ter sido condenado pela prática de crime consumado, quando este não ultrapassou as bordas da consumação, ou perpetrado em data diversa da constate da denúncia.
+Enfim, o panorama delineado é revelador de autoria e materialidade delitivas. No entanto, a condenação de Marcos Eduardo exsurge como medida de rigor somente no que concerne às infrações associadas à operação datada de 05 de fevereiro de 2021 e que causou prejuízo no valor de R$ 390,06 (fls. 56/7 e 71/2)." (fls. 329/330)
+Passo à correção da dosimetria da pena.
+Na primeira fase, a pena-base do delito de estelionato deve ser de 1 ano de reclusão e 4 dias-multa e a do delito de corrupção de menor deve ser de 1 ano de reclusão.
+Na segunda fase, considerando a agravante prevista no art. 65, II, "j", do CP e a atenuante prevista no art. 65, I, do CP, faço a compensação entre ambas e mantenho as penas fixadas na primeira fase.
+Na terceira fase, quanto ao delito de estelionato, concedida abenesse prevista no §1º do art. 171 do CP, substituo por detenção a pena reclusiva cominada ao delitoe reduzo-a em 2/3, resultando em 4 meses de detenção e 1 dia-multa. A pena do delito de corrupção de menor fica totalizada em 1 ano de reclusão.
+Ante o exposto, acolho os presentes embargos de declaração para alterar as penas de MARCOS EDUARDO GARCIA para 4 meses de detenção e 1 dia-multa e 1 ano de reclusão, ambas em regime inicial aberto, haja vista a ausência de circunstâncias judiciais negativas.
+Publique-se. Intimem-se.
