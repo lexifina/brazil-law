@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAIMUNDO NONATO COSTA NETO E ELCIMERI DE MARIA MARQUES PEREIRA (RAIMUNDO E ELCIMERI) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Maranhão, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. FURTO EM VEICULO. CALÇADA DO ENTORNO LATERAL. ESTACIONAMENTO PRIVATIVO NÃO CONFIGURADO. AUSÊNCIA DO DEVER DE GUARDA DO BEM. ATO ILÍCITO PRATICADO PELO SUPERMERCADO. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE DANOS MORAIS E MATERIAIS. 1. Ao se verificar que o veículo que teve sua janela avariada e furtados bens de seu interior encontrava-se estacionado na calçada que acompanha o entorno do supermercado, em sua lateral, sendo local de livre acesso às pessoas, não possuindo qualquer indicação de que esta somente poderia ser utilizada, de forma exclusiva, apenas pelos clientes deste estabelecimento, não há que se falar em estacionamento privativo. 2. Considerando que o conjunto probatório é favorável ao empreendimento comercial, no sentido de apontar que não há o dever de guarda sobre os veículos estacionados em espaço público (calçada) que não é destinado apenas para esta clientela, conclui-se não configurada conduta abusiva apta a configurar o dever de indenizar os danos morais e materiais suportados pelos consumidores, impondo-se a reforma da sentença. 3. 1" Apelação conhecida e provida. 2 Apelação prejudicada. 4. Unanimidade. (e-STJ, fl. 299)
+Os embargos de declaração opostos por RAIMUNDO eELCIMERIforam rejeitados(e-STJ, fls. 322/327).
+IrresignadosRAIMUNDO E ELCIMERIinterpuseram recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando além de dissídio jurisprudencial a violação dos arts. 489, II, e 1.022, I e II, do CPC, ao sustentar (1)ausência de fundamentaçãoe negativa de prestação jurisdicional consubstanciados em omissão sobre: (1.1) o depoimento da testemunha de MATEUS SUPERMERCADOS S.A. (SUPERMERCADO); e (1.2)o tipo de área em que construído o estacionamento, se pública ou privada.
+O recurso não foi admitido pelo Tribunal de Justiça do Maranhão(e-STJ, fls. 429/433).
+Nas razões do presente agravo, RAIMUNDO E ELCIMERIaduzem que devidamente configuradas a alegada omissão e a negativa de prestação jurisdicional.
+Foiapresentada contraminuta (e-STJ, fl. 553).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Da ausência de violação dosarts. 489 e 1.022do CPC
+Nas razões do seu recurso, RAIMUNDO E ELCIMERIalegaram a violação dos arts. 489 e1.022do CPC em virtude da (1) ausência de fundamentação e negativa de prestação jurisdicional consubstanciados em omissão sobre: (1.1) o depoimento da testemunha de MATEUS SUPERMERCADOS S.A. (SUPERMERCADO); e (1.2) o tipo de área em que construído o estacionamento, se pública ou privada.
+Contudo, verifica-se que o TJMAse pronunciou sobre os temas consignando que as provas dos autos comprovaram que a área seriapública, não havendo responsabilidade do Supermercado, confira-se:
+Sucede que as questões mencionadas nos Declaratórios não revelam qualquer vício a ser sanado no Acórdão, cujo entendimento restou devidamente fundamentado no sentido de afastar, no caso, a responsabilidade do Embargado pelos fatos noticiados na exordial.
+Isso porque restou ressaltado que para a responsabilidade por danos ocasionados por furto de veículo ou de objetos contidos em seu interior, é necessário verificar, previamente, se o demandado obrigou-se, direta ou indiretamente, a promover a segurança do veículo estacionado em frente de sua sede.
+Destacou-se, pois, que se faz necessário que seja analisado se entre as partes existe, ou não, um contrato de depósito, mesmo que seja informal e tácito, já que a indenização só pode emergir diante do descumprimento de um dever por ação ou omissão ilícita da empresa demandada, concluindo-se, no caso, que não houve a inobservância de uma obrigação de vigilância e de guarda sobre o veículo estacionado pelos Embargantes.
+Do mesmo modo, restou observado que o conjunto probatório é favorável ao Supermercado Embargado que revela se tratar a calçada de área pública, sem qualquer indicativo de que se trata de uso de estacionamento privativo para os clientes do supermercado.
+Ao contrário do que defende o Embargante, inexiste qualquer omissão que possa alterar o entendimento já firmado por esta Quinta Câmara Cível Isolada que, de forma unânime, concluiu pelo provimento do 1º Apelo para reformar a sentença recorrida, uma vez que acolheu o entendimento de que a área em questão situa-se em calçada, em local de livre acesso às pessoas, não possuindo qualquer indicação de que esta somente poderia ser utilizada, de forma exclusiva, apenas pelos clientes deste estabelecimento.
+Verifica-se, nesse sentido, que houve expressa manifestação e enfrentamento da matéria tida por omissa, não tendo este Tribunal de Justiça silenciado acerca das teses ventiladas e debatidas nos autos, e nem poderia, pois para reformar a conclusão esposada pelo Juízo a quo era necessário superar os argumentos utilizados para reconhecer a inexistência de dolo e a caracterização de conduta ímproba (e-STJ, fl. 325)
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022).
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios porque fixado no patamar máximo permitido em lei.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.ARTS. 489 E 1022 DO CPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
