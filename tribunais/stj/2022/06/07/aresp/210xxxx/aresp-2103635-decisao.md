@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por FREDERICO FRANCE LAIA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - REDUTOR DO § 4º DO ARTIGO 33 DA LEI DE DROGAS - INCABIMENTO. O fato de o agente responder a ações penais e de existir prova de que ele vem praticando o delito de tráfico ilícito de drogas há certo tempo impede a incidência do benefício do § 4º do artigo 33 da Lei n.º 11.343/06. Precedentes do Superior Tribunal de Justiça.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 33, § 4º, da Lei n. 11.343/2006, no que concerne à inexistência de dedicação a atividades criminosas, e consequente necessidade de aplicação da causa de diminuição referente ao tráfico privilegiado, trazendo os seguintes argumentos:
+Inicialmente, não há que se falar em envolvimento com a criminalidade por parte do recorrente, já que é primário e possui bons antecedentes (fl. 222).
+Não restou comprovado que o réu pertencesse à organização criminosa ou se dedicasse a atividades ilícitas (fl. 222).
+Conforme a análise da certidão de antecedentes criminais (CAC fl. 55) não há nenhum procedimento transitado em julgado contra o acusado no que tange a pratica do delito de tráfico de drogas, não podendo se afirmar a sua dedicação a tal tipo de atividade ilícita (fl. 222).
+Condenar o recorrente pelo fato de o mesmo responder ações penais por fatos superiores fere a presunção de não culpabilidade do agente, sendo esta conduta inconstitucional e vedada pelo supremo tribunal de justiça (fl. 225).
+É, no essencial, o relatório. Decido.
+Com relação ao recurso apresentado, quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Preso em flagrante, com o agente foram apreendidos 23 porções de cocaína (pesando 19,05 g) e 01 arbusto (pé) de maconha, conforme laudos toxicológicos de fs. 74/75 e 76/77 (fl. 211).
+De acordo com os depoimentos prestados em juízo, f. 94 (mídia), do condutor do flagrante, militar Guilherme Augusto, o réu confessou a ele e à sua equipe que o material apreendido era destinado à venda, e que ele vinha exercendo o tráfico "para ajudarem sua renda" (fl. 211).
+Daí já se vê que os fatos narrados na denúncia, objeto deste processo, não são algo isolado na vida do agente. Ele vem praticando o comércio de drogas como forma de enxertar sua renda; e isso evidencia dedicação a atividades criminosas (fl. 211).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
