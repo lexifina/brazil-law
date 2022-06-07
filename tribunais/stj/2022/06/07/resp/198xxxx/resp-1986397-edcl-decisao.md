@@ -1,0 +1,63 @@
+DECISÃO
+Vistos.
+Fls. 382/386e: Trata-se de Embargos de Declaração opostos pela ORDEM DOS ADVOGADOS DO BRASIL - SEÇÃO MINAS GERAIS/MGcontra decisão que deu provimento ao Recurso Especial da Embargante, para denegar a segurança (fls. 373/380e).
+Alega haver omissão na decisão embargada, porquanto não fixou os honorários recursais em favor da Embargante, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Sem impugnação (fl. 390e).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustenta o Embargante que há omissão a ser suprida, nos termos do art. 1.022, II, do Código de Processo Civil.Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição;ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não seconsiderar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+No caso, não resta configurada a incidência de nenhuma das hipóteses previstas no art. 1.022 do Código de Processo Civil, razão pela qual se impõe a rejeição dos embargos declaratórios.
+Por primeiro, a Embargante apontaomissão na decisão embargada, porquanto não fixados os honorários recursais em favor da Embargante.
+Adecisão embargada deu provimento ao Recurso Especial da Embargante, para denegar a segurança pretendida pela Embargada, impetrante da presente ação mandamental(fls. 06/24e e e fls. 373/380e).
+Ademais, o tribunal de origem não fixou os honorários de sucumbência (fl. 280e):
+Honorários advocatícios incabíveis na espécie (art. 25, da Lei 12.016/2009). Custas ex lege.
+Isso posto, dou provimento à apelação para, reformando a sentença, conceder a segurança, determinando à Ordem dos Advogados do Brasil a inscrição do impetrante, observando-se a restrição contida no art. 30, inciso I da Lei 8.906/94.
+Primeiramente, o art. 25 da Lei n. 12.016/2009 dispõe:
+Art. 25. Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé.
+Ademais, o enunciado da Súmula 105 desta Corte prevê:
+Na ação de mandado de segurança não se admite condenação em honorários advocatícios.
+(Súmula n. 105, Corte Especial, julgado em 26/5/1994, DJ de 3/6/1994, p. 13885.)
+Por outro lado, no que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Portanto, segundo a jurisprudência desta Corte, a majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários, ou seja, só é cabível nos feitos em que for admissível a condenação em honorários na instância a quo.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NÃO FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA PELA CORTE DE ORIGEM. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2.Incabível a fixação de honorários recursais se não houve condenação anterior em honorários advocatícios nas instâncias ordinárias.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.937.563/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PREMISSA EQUIVOCADA.CABIMENTO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Na esteira da jurisprudência do STJ, cabem Embargos de Declaração para os fins ordinários (correção dos vícios de omissão, obscuridade ou contradição) e, em caráter excepcional, para adequar o julgamento à orientação firmada no julgamento de recursos repetitivos ou superação de premissa equivocada (esta última a situação do caso concreto). 2. Hipótese em que o acórdão embargado acolheu os Embargos de Declaração da União para determinar a aplicabilidade do § 11 do art. 85 do CPC/2015 e majorar "em 5% os honorários advocatícios (fixados pela instância de origem em R$ 800,00 (oitocentos reias) (fl 689, e-STJ), considerando que a atuação recursal da embargante consistiu unicamente na apresentação de contrarrazões".
+3. De fato, o art. 85, § 11, do CPC/2015, ao prescrever que "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+4. In casu, ao julgar o Agravo de Instrumento interposto pela União, o Tribunal de origem não fixou honorários sucumbenciais, não sendo cabível, portanto, tal majoração.
+5. Embargos de Declaração acolhidos, com efeitos modificativos, para reconhecer a inaplicabilidade do art. 85, § 11, do CPC/2015 à hipótese em exame.
+(EDcl nos EDcl no REsp n. 1.644.080/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2017, DJe de 19/12/2017.)
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou a sua revisão mediante embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ACÓRDÃO DO STJ. AUSÊNCIA DE TERATOLOGIA. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REDISCUSSÃO DAS QUESTÕES DECIDIDAS.DESCABIMENTO.
+1. Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. No caso, não estão presentes quaisquer dos vícios de fundamentação no aresto embargado, o qual reconheceu o descabimento do mandado de segurança impetrado contra acórdão da Terceira Turma do STJ, haja vista a inexistência de teratologia do ato judicial impugnado.
+3. Está evidenciado o exclusivo propósito do embargante de rediscutir o mérito das questões já decididas pelo órgão colegiado, o que não se admite na estreita via aclaratória.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no MS 25.187/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 20/11/2019, DJe 26/11/2019).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no MS 25.432/DF, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 11/02/2020, DJe 26/02/2020).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se aju sta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro m aterial do julgado.
+Posto isso, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se
