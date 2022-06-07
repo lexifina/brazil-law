@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN (FUNCORSAN), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE REVISÃO CONTRATUAL. MÚTUO. EMPRÉSTIMOS CONTRAÍDOS JUNTO À FUNDAÇÃO CORSAN. DEMONSTRADA A PRÁTICA DE NOVAÇÃO SUCESSIVA. PRESCRIÇÃO. NÃO CONFIGURADA. JUROS REMUNERATÓRIOS. LIMITAÇÃO EM 12% AO ANO. CAPITALIZAÇÃO. NÃO VERIFICADA A OCORRÊNCIA. DETERMINADA A COMPENSAÇÃO E EVENTUAL REPETIÇÃO DO INDÉBITO.
+NEGARAM PROVIMENTO AOS APELOS. UNÂNIME (e-STJ, fl. 230).
+Os embargos de declaração opostos por FUNCORSAN não foram acolhidos (e-STJ, fls. 249/253).
+Inconformada, FUNCORSAN manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando, além de divergência jurisprudencial, a violação do art. 205 do CC/02, sustentando que o prazo prescricional aplicável para cada um dos contratos deve ser contado a partir da assinatura de cada pacto e não do vencimento ordinário da avença ou do último pagamento realizado.
+As contrarrazões foram apresentadas (e-STJ, fls. 291/304).
+O apelo nobre foi admitido pelo TJRS (e-STJ, fls. 307/320).
+Nesta Corte, o recurso especial não foi provido em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL CIVIL.RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO CPC/15. AÇÃO REVISIONAL. CONTRATO DE MÚTUO.RENEGOCIAÇÃO DE EMPRÉSTIMOS. TERMO INICIAL DO PRAZO PRESCRICIONAL. ÚLTIMO CONTRATO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA Nº 283 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. RECURSO ESPECIAL NÃO PROVIDO(e-STJ, fl. 334).
+Nos embargos de declaração, FUNCORSAN sustentou equívocosmateriais constatados na decisão embargada, já que o fundamento do acórdão recorrido no tocanteas renovações contratuais foi expressamente combatidos nas razões do recurso especial e a divergência jurisprudencial foi devidamente demonstrada, estando evidenciada a similitude fática entre o acórdão recorrido e o acórdão paradigma, exarado por esta Corte.
+Apresentada impugnação (e-STJ, fls. 348/363).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nos presentes embargos de declaração, FUNCORSAN sustentou equívocos materiais constatados na decisão embargada, já que o fundamento do acórdão recorrido no tocante as renovações contratuais foi expressamente combatidos nas razões do recurso especial e a divergência jurisprudencial foi devidamente demonstrada, estando evidenciada a similitude fática entre o acórdão recorrido e o acórdão paradigma, exarado por esta Corte.
+Entretanto, razão não assiste àembargante.
+A decisão embargada não padece dos equívocos materiais apontados pela FUNCORSAN.
+Com efeito, o reconhecimento de que oentendimento do TJRS não estava em conformidade com a jurisprudência desta Corte no tocante ao termo inicial do prazo prescricional para o caso em que se busca a revisão de cláusulas contratuais, por si só, não levava ao provimento dorecurso especial, na medida em que a Corte Estadual entendeu que, no caso dos autos, houve novação dos débitos originalmente pactuados e, nesse casos, o prazo prescricional deveria ser contado a partir do vencimento do último contrato.
+Assim, considerando que esse fundamento não foi de fato impugnado especificamente nas razões do recurso especial, pois, na ocasião, a FUNCORSAN somente alegou a violação do art. 205 do CC/02, não há como afastar o entendimento da Corte Estadual de que no caso em que há renegociação dos empréstimos o prazo começaria a contar do último contratopara reconhecer que o termo inicial do prazo prescricional seria a data de cada contrato.
+Quanto ao dissídio jurisprudencial, conforme consignado na decisão agravada,não foi devidamente demonstrado tendo em vista a ausência de similitude fática, na medida em que a questão do termo inicial do prazo prescricional para o caso em que houve sucessiva renegociaçãoda obrigação principalnão foi analisada no acórdão indicado como paradigma.
+Além do mesmo, a Súmula nº 283 do STF também se aplica a esse ponto.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC, merecendo ser mantida incólume a decisão embargada, que conta com fundamentação lógica, clara e suficiente.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previnoque a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURADA. PRETENSÃO DEREJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
