@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUL AMERICA COMPANHIA DE SEGURO SAÚDE, com fundamento no art. 105, inciso III, alínea"a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+""APELAÇÃO. PLANO DE SAÚDE. FORNECIMENTO DE HOME CARE. Ação de obrigação de fazer. Sentença de procedência. Inconformismo da ré. Não acolhimento. Necessidade de tratamento em home care que ficou suficientemente justificada, tendo em vista a delicada situação de saúde da autora, e visando a redução de risco de contaminações em razão de sua permanência em ambiente hospitalar. Negativa do tratamento prescrito que é abusiva. Aplicação das Sumulas nº 90 e 102 deste Tribunal. Precedentes. Sentença confirmada. Sucumbência recursal da ré. NEGADOP ROVIMENTO AO RECURSO". (v.36377)"(fl. 299, e-STJ).
+No especial (fls. 307/318,e-STJ), a recorrente alega violação dos arts. 10 da Lei nº 9.656/98 e 757 do Código Civil.
+Aduz, em síntese, "o custeio do serviço de home care, não está previsto no rol de procedimentos, razão pela qual não há qualquer obrigatoriedade de custeio do mesmo pela Seguradora". (fl. 313, e-STJ).
+Além disso, afirma que "há expressa exclusão contratual em relação ao serviço de internação domiciliar pleiteado" (fl. 314, e-STJ).
+Contrarrazões (fls. 325/336, e-STJ).
+O recurso foi admitido na origem (fls. 337/339,e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Sobre a cobertura do tratamento médico requerido pela parte adversa, o tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)O pedido inicial foi instruído com relatório médico que expõe as condições da autora de forma detalhada e prescreve a necessidade de cuidados em home care com médico, enfermagem, nutricionista e fisioterapeuta, além de equipamentos hospitalares e dieta enteral (fls. 26/27).
+O relatório médico que instrui a inicial não foi impugnado pela requerida, gozando de presunção de veracidade, além de ter sido expedido por médica da rede credenciada da própria operadora. A alegação de vedação contratual ao atendimento em regime de home care não pode ser acolhida, uma vez suficientemente fundamentada a necessidade do tratamento domiciliar. Este Tribunal possui entendimento pacificado a respeito, consubstanciado na Súmula nº 90, nos seguintes termos:
+"Havendo expressa indicação médica para a utilização dos serviços de "home care", revela-se abusiva a cláusula de exclusão inserida na avença, que não pode prevalecer".
+(..)
+A alegação de que tal modalidade de atendimento não encontraria amparo junto ao rol da ANS também não justifica a negativa.
+Também prevalece nesta Câmara entendimento no sentido de que a eventual ausência de previsão em rol de cobertura obrigatória não constitui escusa suficiente para negativa de cobertura de tratamento de doença coberta pelo contrato, sob risco de esvaziamento de seu objeto"(fls. 301/303,e-STJ).
+A Terceira Turma desta Corte Superior reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da ANS, reputando abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+Isso porque compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir sobre o tratamento, mas custear as despesas de acordo com a melhor técnica.
+Assim, ainda que admitida a possibilidade de conter o contrato de plano de saúde cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento de doença coberta pelo plano.
+Confiram-se:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto no rol da ANS encontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+7. AGRAVO INTERNO DESPROVIDO"(AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 22/6/2020, DJe 26/6/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer cumulada com reparação por danos morais, fundada na negativa de cobertura de medicamento.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato. Precedentes.
+4. Agravo interno no recurso especial não provido"(AgInt no REsp 1.849.149/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 30/3/2020, DJe 1º/4/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. 1. TRATAMENTO PRESCRITO PELO MÉDICO. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. SÚMULA 83/STJ. 2. LIMITAÇÃO DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, a jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde". E o "fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor" (AgRg no AREsp 708.082/DF, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe 26/2/2016).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2.1. Cumpre ressaltar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos declaratórios na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício.
+3. Agravo interno improvido"(AgInt no AREsp 1.471.762/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 23/3/2020, DJe 30/3/2020).
+Incide, portanto, a Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 17% (dezessetepor cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
