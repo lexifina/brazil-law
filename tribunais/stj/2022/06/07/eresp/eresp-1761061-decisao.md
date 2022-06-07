@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos pelo Hospital e Maternidade Santa Joana S.A., contra acórdão assim ementado pela Terceira Turma da Corte:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. PLANO DE SAÚDE. AÇÃO DE COBRANÇA. PARTO DE EMERGÊNCIA SEGUIDO DE INTERNAÇÃO EM UTI. PARTURIENTE TRANSFERIDA DE HOSPITAL CONVENIADO.INGRESSO NO HOSPTIAL DE DESTINO COMO PACIENTE PARTICULAR. EXISTÊNCIA DE PUBLICIDADE NO SITE DO HOSPITAL ACERCA DE ATENDIMENTO PELO CONVÊNIO MÉDICO. VINCULAÇÃO DA PUBLICIDADE. ART. 30 DO CDC. ABUSIVIDADE DA CONDUTA DO HOSPITAL DE DESTINO DE ADMITIR INJUSTIFICADAMENTE A PARTURIENE COMO CLIENTE PARTICULAR. IMPROCEDÊNCIA DO PEDIDO DE COBRANÇA. REEXAME DE PROVAS. INEXISTÊNCIA. MERA REQUALIFICAÇÃO JURÍDICA DE FATOS. PREQUESTIONAMENTO IMPLÍCITO. OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS.ARBITRMENTO POR EQUIDADE. DESCABIMENTO. PROVEITO ECONÔMICO ESTIMÁVEL PELO VALOR DA COBRANÇA.
+1. Controvérsia de fundo pertinente à cobrança de despesas relativa a parto e UTI neonatal oferecidos, em caráter de urgência, por hospital supostamente conveniado ao plano de saúde da paciente.
+2. Existência de publicidade no site do hospital informando sobre o atendimento pelo plano de saúde ao qual pertencia a paciente, conforme constou no acórdão recorrido, não sendo necessário reexame de provas quanto a esse ponto.
+3. Nos termos do art. 30 do CDC, "toda informação ou publicidade, suficientemente precisa, veiculada por qualquer forma ou meio de comunicação com relação a produtos e serviços oferecidos ou apresentados, obriga o fornecedor que a fizer veicular ou dela se utilizar e integra o contrato que vier a ser celebrado".
+4. Apreciação da controvérsia pelo Tribunal de origem com base no Código de Defesa do Consumidor, tendo-se concluído pela condenação da paciente e da operadora, solidariamente, ao pagamento das despesas médicas.
+5. Prequestionamento implícito do art. 30 do CDC, na medida em que o Tribunal de origem constatou a existência da publicidade e extraiu desse fato a conclusão pela responsabilidade solidária da operadora, não se exigindo o chamado prequestionamento numérico.
+6. Requalificação jurídica dos fatos no âmbito desta Corte Superior para se declarar abusiva a conduta do hospital de admitir, injustificadamente, a paciente como particular, a despeito da publicidade do atendimento via plano de saúde, julgando-se improcedente o pedido de cobrança contra a paciente e prejudicada a denunciação da lide à operadora de plano de saúde.
+7. Arbitramento de honorários advocatícios com base no proveito econômico da demanda, correspondente ao valor da cobrança, sendo descabida a pretensão de arbitramento por equidade.
+8. AGRAVO INTERNO DESPROVIDO.
+A título de comprovação da alegada divergência, traz acórdão da Segunda Turma - AREsp n. 1.148.437/SC -, no qual se concluiu que, para fins de prequestionamento, é necessário que haja a devida análise, debate, julgamento e emissão de juízo de valor da matéria e da disposição federal invocada, não sendo suficiente apenas a menção esparsa à questão, sem enfrentamento do tema, tal qual no acórdão ora embargado.
+É o relatório. Decido.
+De início, cumpre ressaltar que o art. 266 do RISTJ sobre o cabimento dos embargos de divergência, assim prescreve:
+Art. 266. Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo:
+I - os acórdãos, embargado e paradigma, de mérito;
+O aresto tido por paradigma, constatada a ausência de prequestionamento implícito, não examinou a matéria relativaa dispositivos da Lei de Introdução às Normas de Direito Brasileiro, ou seja, não houve o debate de mérito, no que o recurso não preenche o respectivo requisito do art. 266 do RISTJ.
+Ademais, oacórdão embargado foi claro ao considerar acerca do prequestionamento implícito, in casu, " ..  na medida em que o Tribunal de origem constatou a existência da publicidade e extraiu desse fato a conclusão pela responsabilidade solidária da operadora, não se exigindo o chamado prequestionamento numérico".
+Nesse panorama, não se verifica nenhuma divergência de entendimento: ao contrário.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
