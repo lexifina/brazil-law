@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BSM ENGENHARIA S.A. e outra (BSM ENGENHARIA e outra) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunalde Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CRÉDITOS RESULTANTES DE CONTRATOS DE ARRENDAMENTO MERCANTIL. DECISÃO JUDICIAL OBSTANDO O RESSARCIMENTO DO ARRENDANTE. REFORMA PARCIAL DO DECISUM. OS CRÉDITOS DECORRENTES DE ARRENDAMENTO MERCANTIL E ALIENAÇÃO FIDUCIÁRIA EM GARANTIA NÃO ESTÃO SUJEITOS ÀRECUPERAÇÃO JUDICIAL, MAS PODE SER LIMITADO, NO INTUITO DE PRESERVAR A EMPRESA EM RECUPERAÇÃO JUDICIAL, O PERCENTUAL DE DESCONTOS EFETIVADOS DIRETAMENTE EM SUA CONTA BANCÁRIA. PRORROGAÇÃO PORMAIS DE 180 DIAS DO PRAZO DE SUSPENSÃO DAS AÇÕES EEXECUÇÕES EM FACE DAS EMPRESAS EM RECUPERAÇÃO JUDICIAL (ART. 6º, §4º DA LEI 11.101/05). POSSIBILIDADE. INTERPRETAÇÃO SISTEMÁTICA COM OS DEMAIS DISPOSITIVOS DA LEI DE FALÊNCIA E RECUPERAÇÃO JUDICIAL. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. PRECEDENTES DESTA PRIMEIRA CÂMARA CÍVEL NO ÂMBITO DO MESMO PROCESSO DE RECUPERAÇÃO JUDICIAL. HONORÁRIOS DO ADMINISTRADOR JUDICIAL FIXADOS EM 3% SOBRE O CRÉDITO SUBMETIDO À RECUPERAÇÃO JUDICIAL. OBSERVÂNCIA DOS CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE PELO MM. JUÍZO DE ORIGEM. AUSÊNCIA DE LITIGÂNCIA DE MÁ-FÉ A CARGO DAS EMPRESAS EM RECUPERAÇÃO JUDICIAL. PROVIMENTO PARCIAL DO AGRAVO DE INSTRUMENTO(e-STJ, fl. 3.293).
+Osembargos de declaração opostos por BSM ENGENHARIA e outra foram rejeitados (e-STJ, fls. 3.274/3.730).
+Irresignados, BSM ENGENHARIA e outra interpuseram recurso especial com base no art. 105, III, alíneaa da CF, apontando a violação aos arts. 1.022, I e II, do NCPC; e 4º, 6º, § 4º, 7º, § 1º, 8º, 18, 47, 49, caput, §§ 1º e 2º,51, III, e 172 da Lei nº 11.101/05, ao sustentar(1)negativa de prestação jurisdicional consubstanciada em obscuridade quanto à aplicação da parte final do art. 49, § 1º, da Lei nº 11.101/05 no que se refere a suspensão das medidas executivas sobre os bens de capital essenciais à sua atividade - stay period; e (2)que as instituições financeiras devem ser impedidas de promoverdébitos nas contas bancárias das Recuperandas para pagamento de créditos listados na recuperação judicial, independente da natureza dos contratos, inclusive ou ao menos durante o stay period (e-STJ, fls. 3.745/3.761).
+O recurso não foi admitido pelo TJRJ(e-STJ, fls. 3.821/3.827).
+Nas razões do presente agravo,BSM ENGENHARIA e outra alegaramque não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 3.865/3.881).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperarpara o retorno dos autos ao TJRJ a fim de que sejam analisadasas questões trazidas nos embargos de declaração.
+(1) Da negativa de prestação jurisdicional
+O TJRJ, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional consubstanciada emobscuridade quanto à aplicação da parte final do art. 49, § 1º, da Lei nº 11.101/05 no que se refere a suspensão das medidas executivas sobre os bens de capital essenciais à sua atividade - stay period.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJRJa se manifestar sobre aquestãofederalterminou por negar prestação jurisdicional aos Recorrentes.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Ante o exposto, CONHEÇO do agravo deBSM ENGENHARIA e outra e DOU PROVIMENTOseu recurso especial, determinando o retorno dos autos ao TJRJ para que analise as questõestrazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.BSM ENGENHARIA E OUTRA. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OBSCURIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
