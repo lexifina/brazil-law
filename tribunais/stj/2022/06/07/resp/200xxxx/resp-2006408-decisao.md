@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por PAULO HENRIQUE GARCIA DE SOUZA E OUTROS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que não admitiu o recurso especial com amparo no óbice descritos nas Súmulas n. 282 e 356 do STF e 7 e 211 do STJ.
+Os agravantes aduzem que, "no caso em apreço, bastaria uma leitura acurada da decisão de piso na medida em que o juízo fez constar, não só todo o teor da coisa julgada, como também a data em que constituído o título exequendo" (e-STJ, fl. 509).
+Ademais, " .. a decisão recorrida indica ausência de prequestionamento, desconsiderando os efeitos do art. 1.025, do CPC, e a firme jurisprudência do STJ, de que havendo indicação de violação ao art. 1.022, do CPC, tem-se por imperativa a análise e admissibilidade do prequestionamento implícito" (e-STJ, fl. 512).
+Dizem que " .. a conclusão do acórdão recorrido contraria o art. 508 e art. 535, VI, do CPC, pois referidas matérias deixaram de ser alegadas na fase de conhecimento, tendo em vista que a coisa julgada se formou apenas em 28/2/2007, sendo certo, que o acórdão recorrido admitiu como premissa que a regra imposta não havia sido até então discutida, restando assim em violação à própria coisa julgada que estabeleceu a compensação exclusiva com os aumentos decorrentes da Lei n. 8.622/93 e 8.627/93" (e-STJ, fl. 516).
+Outrossim, " .. a regra imposta de não aplicar o reajuste sobre as gratificações de forma uniforme com base na indireta compensação com o complemento do salário mínimo configura fato antecedente à própria coisa julgada e se encontra preclusa  .. " (e-STJ, fl. 516).
+Argumentam que o julgado " .. contraria as normas que classificam as gratificações como vencimentos e remuneração, a teor do art. 41, da Lei 8.112/90, c/c art. 1º, II e III, da Lei 8.852/94, pois sendo a base do reajuste geral os vencimentos e a própria remuneração não se pode cogitar em deixar sem o idêntico reajuste as gratificações que possuem como base de cálculo os vencimentos" (e-STJ, fl. 520).
+Contraminuta às e-STJ, fls. 559-577.
+É o relatório.
+Ante o exposto, preenchidos os requisitos legais, com base no art. 253, parágrafo único, II, "d", doRISTJ, dou provimento ao agravo e determino a reautuação do feito como recurso especial para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do recurso especial, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
