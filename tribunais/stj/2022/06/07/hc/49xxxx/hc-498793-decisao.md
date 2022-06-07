@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DALCI FILIPETTO e CASSIO FILIPETTO apontando como autoridade coatora o Tribunal Regional Federal da 4ª Região (HC n. 0016072-30.2011.4.04.0000).
+Depreende-se dos autos que foi impetrado prévio writ na origem, no qual se insurgiu a defesa contra a quebra de sigilo da correspondência e das comunicações telegráficas, de dados e telefônicas, que foi determinada em primeiro grau.
+A ordem, contudo, foi denegada em acórdão assim ementado (e-STJ fl. 9):
+PROCESSO PENAL. HABEAS CORPUS. TRANCAMENTO DO INQUÉRITO POLICIAL. INTERCEPTAÇÃO TELEFÔNICA. REQUISITOS. LEGALIDADE. DENÚNCIA ANÔNIMA. RENOVAÇÕES SUCESSIVAS. RAZOABILIDADE.
+1. Para o deferimento do pedido de quebra do sigilo é suficiente o juízo de probabilidade acerca da prática da infração penal e da necessidade medida para o resultado útil da investigação. Atendidos tais requisitos para autorizar a interceptação telemática, a prova obtida por tal meio deve ser considerada lícita, já que produzida em conformidade com as normas de direito material.
+2. Hipótese em o pedido de interceptação telefônica, não se deu com base apenas na denúncia anônima, mas à vista de investigações preliminares conduzidas pela polícia federal, as quais apresentavam fortes indicativos de envolvimento dos pacientes com principal investigado.
+3. Não há ilegalidade na sucessiva prorrogação de prazo para as interceptações telefônicas, porque, enquanto for necessária à colheita de provas, a interceptação telefônica deve ser renovada.
+Daí a presente impetração, em que reitera a defesa a tese de que as interceptações determinadas são ilegais, razão pela qual pugna pelo reconhecimento de sua ilicitude.
+Requer, liminarmente, seja determinada a suspensão do andamento dos inquéritos e dos processos oriundos da denominada Operação Saúde.
+Liminar indeferida às e-STJ fls. 400/401.
+Informações prestadas.
+Parecer ministerial pelo não conhecimento da impetração, às e-STJ fls. 438/442.
+É, em síntese, o relatório.
+Decido.
+Como bem salientado pelo Ministério Público Federal, "o pedido formulado no presente writ já foi objeto de análise e deliberação pelo Supremo Tribunal Federal, não havendo falar, a essa altura, no seu exame por essa Augusta Corte." (e-STJ fl. 442).
+Na oportunidade, o Supremo Tribunal Federal deixou bem registrado que:
+Nesse ponto, as peças que instruem este processo não evidenciam nenhuma ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva. Tal como afirmado pelo Ministério Público Federal, "a medida foi decretada tendo por base elementos concretos que indicavam, com razoável segurança, a existência de crimes graves (estelionato, formação de quadrilha, fraude em licitações públicas, falsificação de medicamentos e corrupção ativa e passiva) que estavam sendo praticados por um grupo criminoso, cuja investigação não podia ser feita com a preterição de medidas mais invasivas, mas que se revelavam absolutamente necessárias, tendo em conta o tipo de crime praticado e o modo de sua execução (..)". No mesmo sentido, dou especial importância às seguintes passagens do acórdão proferido pelo TRF4:
+"O Juiz a quo afastou fundamentadamente o sigilo de dados e de comunicações telefônicas dos pacientes, com base em indícios de autoria e materialidade apontados pela autoridade policial, à vista de investigações preliminares conduzidas pela polícia federal, as quais apresentavam fortes indicativos de envolvimento dos investigados com Alberto Folador Neto (principal investigado). O início da investigação, e notadamente a interceptação telefônica, não se iniciam com base apenas na denúncia anônima".
+Quanto à impossibilidade de "a interceptação das comunicações telefônicas ultrapassar -- num período de normalidade institucional -- o prazo de sessenta dias", o Ministério Público Federal se pronunciou no sentido de que "os embargantes buscam inovar a matéria suscitada perante esse Pretório Excelso, em tentativa de supressão de instância, uma vez que a impugnação ao tempo de duração das interceptações só foi apreciada, até o momento, pela Corte Regional".
+Correto o parecer Ministerial que acolho como razões de decidir. Com efeito, verifico que a autoridade impetrada deixou de analisar a referida matéria. O que impede seu exame por esta Corte, sob pena de supressão de instâncias. Nessa linha, veja-se o HC 128.006 AgR, Relª. Minª. Cármen Lúcia.
+Ainda que assim não fosse, o TRF4 deixou consignado que a "continuidade das diligências foi necessária em face da complexidade dos fatos investigados. Com efeito, o prazo pelo qual perduraram as interceptações mostra-se razoável, tendo conta toda a investigação realizada, que culminou no desbaratamento de esquema criminoso envolvendo dezenas de pessoas em inúmeros municípios e centenas de fraudes a licitações". De modo que nesse ponto também não visualizo ilegalidade flagrante que justifique o pronto acolhimento da pretensão defensiva.
+Consta do sítio eletrônico do STF que a decisãotransitou em julgado em 23/3/2019, dia subsequente ao término do prazo recursal.
+Assim, já havendo deliberação acerca da validade das medidas adotadas no inquérito, não é possível nova análise perante esta Corte Superior.
+Tal o contexto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
