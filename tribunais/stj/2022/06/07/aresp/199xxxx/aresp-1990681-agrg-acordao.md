@@ -1,0 +1,73 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DELITO DO ART. 297, § 4.º, DO CÓDIGO PENAL. TIPIFICAÇÃO POR MERA INEXISTÊNCIA DE REGISTRO DO VÍNCULO EMPREGATÍCIO NA CARTEIRA DE TRABALHO E PREVIDÊNCIA. PRECEDENTES. NÃO INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento declinado na decisão ora agravada passou ao largo da necessidade de reexame de fatos e provas. Não há falar no obstáculo da Súmula n. 7 deste Tribunal.
+2. A jurisprudência deste Superior Tribunal de Justiça, sedimentada no sentido de que, " t ratando-se de crime omissivo próprio, em que se consuma com a contratação do empregado sem as anotações na sua carteira de trabalho - CTPS, tal como evidenciado nas instâncias ordinárias, deve ser reconhecida a tipicidade da conduta" (AgRg no REsp n. 1.852.359/PA, Relator Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por TARCISIO PEREIRA GERALDINO contra decisão de minha lavra, por meio da qual conheci e dei provimento ao recurso especial da Acusação para afastar a absolvição do ora Agravante, nos termos da seguinte ementa (fl. 1763):
+"AGRAVO EM RECURSO ESPECIAL. PENAL. DELITO DO ART. 297, § 4.º, DO CÓDIGO PENAL. TIPIFICAÇÃO POR MERA INEXISTÊNCIA DE REGISTRO DO VÍNCULO EMPREGATÍCIO NA CARTEIRA DE TRABALHO E PREVIDÊNCIA. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER E DAR PROVIMENTO AO RECURSO ESPECIAL."
+Nas razões do regimental, a Defesa alega que o apelo nobre da Acusação demandou a revisão de matéria fático probatória, relativa à ausência de dolo do Agravante na prática da conduta delitiva, esbarrando, assim, no óbice da Súmula n. 7 desta Corte. Requer, assim, a manutenção da absolvição do Réu (fls. 1773-1774).
+Requer, assim, a reconsideração da decisão ora agravada ou a apresentação do feito ao colegiado da Sexta Turma (fl. 1775).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DELITO DO ART. 297, § 4.º, DO CÓDIGO PENAL. TIPIFICAÇÃO POR MERA INEXISTÊNCIA DE REGISTRO DO VÍNCULO EMPREGATÍCIO NA CARTEIRA DE TRABALHO E PREVIDÊNCIA. PRECEDENTES. NÃO INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento declinado na decisão ora agravada passou ao largo da necessidade de reexame de fatos e provas. Não há falar no obstáculo da Súmula n. 7 deste Tribunal.
+2. A jurisprudência deste Superior Tribunal de Justiça, sedimentada no sentido de que, " t ratando-se de crime omissivo próprio, em que se consuma com a contratação do empregado sem as anotações na sua carteira de trabalho - CTPS, tal como evidenciado nas instâncias ordinárias, deve ser reconhecida a tipicidade da conduta" (AgRg no REsp n. 1.852.359/PA, Relator Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020).
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Está contido nos autos que o Recorrente foi absolvido em primeiro grau da imputação do delito do art. 297, § 4.º, do Código Penal (fls. 811-816).
+À apelação do Ministério Público a Corte federal de origem, por maioria de votos, negou provimento (fls. 1617-1628).
+Os embargos de declaração do Parquet foram rejeitados (fls. 1666-1670).
+Nas razões do apelo nobre, a Acusação aponta, além de dissídio jurisprudencial, violação ao art. 297, § 4.º, do Código Penal, aduzindo, em suma, que a simples omissão do Agente quanto ao dever de registrar o contrato de trabalho na CTPS de seus empregados já expõe a fé pública a risco de dano, sendo, assim, suficiente para caracterizar o mencionado crime (fls. 1684-1691).
+Contrarrazões às fls. 1698-1705.
+O apelo nobre não foi admitido (fls. 1711-1716).
+Foi interposto agravo às fls. 1722-1732.
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 1753- 1761).
+Por meio da decisão de fls. 1763-1766, conheci e dei provimento ao recurso especial do Ministério Público para afastar a absolvição do Agravante e determinar que a Corte de origem proceda à individualização da pena a ser imposta.
+Daí a interposição do presente agravo regimental pela Defesa (fls. 1763-1766).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+Pontuo que, ao contrário do asseverado pela Defesa, o entendimento declinado na decisão ora agravada passou ao largo da necessidade de reexame de fatos e provas, uma vez que, para a configuração do delito, não há necessidade de aferição da existência de dolo do Agente, pois " t ratando-se de crime omissivo próprio, em que se consuma com a contratação do empregado sem as anotações na sua carteira de trabalho - CTPS, tal como evidenciado nas instâncias ordinárias, deve ser reconhecida a tipicidade da conduta" (AgRg no REsp n. 1.852.359/PA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020).
+No mérito, a Corte de origem manteve a absolvição do Agravante da imputação do delito do art. 297, § 4.º, do Código Penal com apoio nestes termos (fls. 1617-1621):
+""II. FUNDAMENTAÇÃO.
+De início, cumpre salientar que o delito imputado ao acusado encontra-se previsto no artigo 297, §4º, do Código Penal é, como crime omissivo, tipifica a conduta do empregador que deixa de registrar, nos documentos pertinentes a relação trabalhista ou naqueles destinados a produzir efeitos perante a Previdência Social, o nome do segurado e seus dados pessoais, a remuneração, a vigência do contrato de trabalho ou de prestação de serviços.
+A partir dos elementos presentes no Inquérito Policial no 110/2011, verifico que, de fato, não houve a devida anotação na Carteira de Trabalho e Previdência Social quanto aos seus vínculos laborais mantidos no período indicado na inicial. Tal circunstancia foi confirmada nos autos da ação trabalhista mencionada nos autos.
+Ademais, o próprio acusado, em seu interrogatório, tanto na fase inquisitiva como em Juízo, admitiu não ter procedido a anotação do contrato de trabalho na CTPS dos trabalhadores no período questionado.
+No entanto, ao analisar o Art. 297, §4o, CP, não observo que a simples omissão de anotação de contrato na Carteira de Trabalho já preencha o tipo penal descrito em voga.
+Há, nesse contexto, um cenário que precisa ser redefinido no que se refere a tipicidade. Mas e necessário, de antemão, que essa seja dividida em dois grandes níveis de valoração:
+1) Subsunção ou adequação formal da conduta e do resultado naturalístico a letra da lei. (Tipicidade formal)
+2) Dimensão axiológica (ou valorativa), o fato formalmente típico deve ser objetivamente imputável ao agente e gerador de uma ofensa (lesão ou perigo concreto de lesão) ao bem jurídico protegido. (Tipicidade material)  1  Sendo incontestável que a conduta em questão se enquadra perfeitamente ao ato previsto em abstrato na norma extraída do Art. 297, §4o, CP, no que tange a sua tipicidade formal.
+Entretanto, não é possível afirmar que há uma adequação do critério valorativo.
+A propósito, o artigo "Deixar de registrar empregado não é crime", que corrobora com o meu entendimento, no qual o autor Damásio de Jesus cita lição de Luiz Flavio Gomes, faz as seguintes ponderações: "Não basta, assim, no delito de falsidade a simples declaração falsa ou a simples falsificação. Fundamental é a possibilidade (concreta) de prejudicar terceiros, até porque, repita-se, nullum crimen sine iniuria.A mera realização formal do tipo legal já não é suficiente para a adequação típica (em sentido material). A subsunção formal do fato à descrição típica não é suficiente para a existência do delito, que não se esgota na immutatio veri. O descompasso entre a realidade efetiva e a realidade declarada não significa mais que o primeiro requisito do falso ideológico. Mas o delito somente se configura com um quid pluris que se expressa na concreta potencialidade lesiva, sem a qual o que se materializa é exclusivamente um "simulacro" exterior de uma conduta punível"  2 O acusado desobedeceu a norma ao não realizar as devidas anotações na Carteira de trabalho dos obreiros e isso teoricamente bastaria para a infração penal. O juízo de tipicidade e, consequentemente, de antijuridicidade corresponderia, assim, a um mero juízo de desvalor da ação ou mesmo da simples intenção do agente. Esse, a meu ver, e um modo de ver o mundo em termos exageradamente prevencionistas. Logo, o negativo da concepção analisada e o fato de v aler-se do Direito Penal como instrumento de prima ratio para atingir esses fins preventivos hipertrofiados. Ha outras formas e outros instrumentos para se evitar riscos.  3  ..
+Dessa forma, e inegável que dentro dessa lógica o caso em questão já fora abordado na esfera trabalhista, o que, por certo, não inviabiliza o preenchimento do tipo penal em geral. Contudo, como e cediço, o Direito Penal só deve ser invocado quando os demais ramos do Direito forem insuficientes para proteger os bens considerados importantes para a vida em sociedade.  6  Em outras palavras, constitui-se a aplicação do princípio da subsidiariedade do Direito Penal ao entender que somente as lesões mais graves aos bens jurídicos tutelados devem repercutir em âmbito penal para evitar um preventismo exagerado.
+ ..
+Nesse ponto, não entendo que a conduta realizada seja capaz de ferir gravemente o bem jurídico tutelado. Por essa razão, que, também, entendo não haver o preenchimento da tipicidade material.
+Assim, não verifico a efetiva vulneração ao bem jurídico tutelado, qual seja, a fé pública, haja vista o documento público - Carteira de Trabalho e Previdência Social - não ter perdido sua autenticidade. Dessa forma, não háse falar em falsidade material. De igual modo, não havendo a anotação de quaisquer dados não há como se afirmar, peremptoriamente, que se pretendia alterar ideologicamente a realidade.
+ ..
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO ao recurso de apelação do MPF, na forma da fundamentação supra."
+Ao decidir nesses termos, a Corte de origem o fez em franca divergência com a jurisprudência deste Superior Tribunal de Justiça, sedimentada no sentido de que, " t ratando-se de crime omissivo próprio, em que se consuma com a contratação do empregado sem as anotações na sua carteira de trabalho - CTPS, tal como evidenciado nas instâncias ordinárias, deve ser reconhecida a tipicidade da conduta" (AgRg no REsp n. 1.852.359/PA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020).
+Ainda no mesmo sentido, mutatis mutandis:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. CRIME DE REDUÇÃO A CONDIÇÃO ANÁLOGA À DE ESCRAVO E AUSÊNCIA DE ANOTAÇÃO EM CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. ALEGADA OMISSÃO. DEVIDA TUTELA JURISDICIONAL. TRANCAMENTO DA AÇÃO PENAL. CARÊNCIA DE JUSTA CAUSA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. PREENCHIMENTO DOS REQUISITOS DO ART. 41 DO CPP. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AUSÊNCIA DE ANOTAÇÃO NA CTPS. CONDUTA TÍPICA. RECURSO NÃO PROVIDO.
+ ..
+7. É típica a conduta do agente que deixa de anotar na carteira de trabalho o contrato dos trabalhadores, não constituindo mera infração administrativa.
+8. Recurso em habeas corpus não provido."(RHC n. 79.208/PA, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 30/08/2017, sem grifos no original.)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. AUSÊNCIA DE ANOTAÇÃO EM CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. TIPICIDADE, NA ESPÉCIE. RECURSO IMPROVIDO.
+1. Havendo no Estatuto Repressivo um tipo penal que responsabiliza criminalmente quem deixa de anotar na carteira de trabalho o contrato profissional celebrado com o empregado, impossível concluir que a previsão de sanções administrativas na Consolidação das Leis do Trabalho seria suficiente para punir quem assim procede.
+2. Na espécie, a denúncia descreveu que o acusado mantinha 6 (seis) trabalhadores em seu carvoeiro, por muito tempo, sem o devido registro, conduta que se subsume ao tipo previsto no § 4º do artigo 297 do Código Penal.
+3. Agravo regimental a que se nega provimento."(AgRg no REsp n. 1.569.987/PA, Relator Ministro Jorge Mussi, Quinta Turma, DJe 09/09/2016, sem grifos no original.)
+"AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. DIREITO PENAL. ART. 229 DO CP. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA MEDIANTE OMISSÃO DE REGISTROS EM CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. CTPS. INDÍCIOS DE DOLO E DE MATERIALIDADE DO CRIME. ADOÇÃO DO PARECER MINISTERIAL COMO RAZÃO DE DECIDIR. MATÉRIA CONSTITUCIONAL. STF. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. INEXISTÊNCIA DE PREVISÃO NO RISTJ.
+ ..
+3. O agente que omite dados ou faz declarações falsas na Carteira de Trabalho e Previdência Social atenta contra interesse da autarquia previdenciária e estará incurso nas mesmas sanções do crime de falsificação de documento público, nos termos dos § 3º, II, e § 4º do art. 297 do Código Penal.
+ ..
+5. Agravo regimental improvido."(AgRg nos EDcl no REsp n. 1.351.592/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 05/08/2014, sem grifos no original.)
+"RECURSO ESPECIAL. PENAL. DELITO DO ART. 297, § 4.º, DO CÓDIGO PENAL. CRIME INSTANTÂNEO DE EFEITOS PERMANENTES. CONSUMAÇÃO. MOMENTO DA CONTRATAÇÃO SEM REALIZAR OS REGISTROS NECESSÁRIOS. MOMENTO CONSUMATIVO ANTERIOR À VIGÊNCIA DA NORMA PENAL INCRIMINADORA. CONDUTA ATÍPICA. RECURSO DESPROVIDO.
+1. O delito do art. 297, § 4.º, do Código Penal é omissivo próprio e configura-se como crime instantâneo de efeitos permanentes, pois o momento consumativo é o da contratação do empregado sem realizar as devidas anotações na Carteira de Trabalho e Previdência Social no prazo legal.
+ ..
+4. Recurso especial desprovido."(REsp n. 1.359.302/GO, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 25/11/2013, sem grifos no original.)
+No caso, o acórdão consignou expressamente que o ora Agravante deixou de proceder à anotação dos vínculos laborais de alguns trabalhadores rurais nas respectivas Carteiras de Trabalho e Previdência Social (fls. 1617-1618).
+Portanto, a decisão agravada deve ser mantida intacta por seus próprios termos, por ser absolutamente convergente com a jurisprudencial sedimentada nesta Corte Superior de Justiça.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
