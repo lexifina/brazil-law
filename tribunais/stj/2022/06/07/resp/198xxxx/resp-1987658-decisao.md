@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LOTE 01 EMPREENDIMENTOS S/A e OUTRO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 23/08/2021.
+Concluso ao gabinete em: 01/04/2022.
+Ação: de cobrança, ajuizada por JOÃO GUSTAVO TRINCA, em face das recorrentes, fundada no atraso na entrega de imóvel.
+Sentença: julgou procedente os pedidos, para condenar as recorrentes ao pagamento do valor mensal equivalente a 0,5% do preço de compra previsto contratualmente, até a entrega efetiva das unidades condominiais, pelo período da mora (de 01/112015 até 30/12/2016), além do ressarcimento dos valores pagos pelo recorrido a título de IPTU, referentes aos anos anteriores à entrega dos imóveis, bem como das custas, despesas processuais e honorários de advogado fixados em 10% da condenação.
+Acórdão: deu parcial provimento à apelação interposta pelas recorrentes, apenas para apontar o valor de R$ 3.272,26 como devido a título de ressarcimento de IPTU, nos termos da seguinte ementa:
+AÇÃO DE COBRANÇA - Contrato de promessa de compra e venda de imóvel - Ação julgada parcialmente procedente para reconhecer a mora das rés por atraso na entrega do imóvel - Inconformismo das corrés.
+PRAZO DE TOLERÂNCIA - Atraso na entrega da obra, para além do prazo de tolerância de 180 dias previsto no contrato - Descumprimento contratual, que dá suporte ao ressarcimento dos prejuízos alegados - Entendimento alinhado ao decidido pela Turma Especial de Direito Privado no IRDR nº 0023203-35.2016.8.26.0000 (Tema 1).
+LUCROS CESSANTES - Pretensão ao recebimento - Verba devida, em virtude da injusta privação do uso do bem ou dele obter os frutos correspondentes, dada a demora no cumprimento da obrigação contratualmente assumida pelo empreendedor, ainda que se trate de um lote - Descumprimento contratual que dá suporte ao ressarcimento dos prejuízos alegados, independentemente de comprovação de alugueis desembolsados com outro imóvel - Entendimento alinhado ao decidido pela Turma Especial de Direito Privado no IRDR nº 0023203-35.2016.8.26.0000 (Tema 1) - Sentença mantida.
+DESPESAS de IPTU - Transferência, pelo contrato, para o comprador - Verbas indevidas por estes, antes da entrega efetiva dos lotes - Valores impugnados em contestação - Apontamento, no entanto, do valor certo a ser ressarcido ao autor - Sentença reformada apenas nesse ponto, para esse fim.
+JUROS DE MORA - Incidência a partir da citação - Inteligência do art. 240 do CPC Recurso das rés, com alegação de ser devido somente a partir do trânsito em julgado - Termo este que prevalece quando inexiste mora por parte da construtora/vendedora - Correção, portanto - Sentença mantida.
+HONORÁRIOS ADVOCATÍCIOS Fixação em 10% sobre o valor da condenação - Pedido de redução - Impossibilidade - Fixação no patamar mínimo, nos termos do artigo 85, § 2º, do CPC - Sentença mantida, com elevação da verba a 15% do mesmo valor (art. 85, § 11, do CPC). Apelo parcialmente provido.
+Recurso especial: alega violação do art. 18, V, da Lei 6.766/1979, dos arts. 346, 349, 402, 403 e 884, do CC/02, do art. 34 do CTN, bem como dissídio jurisprudencial.
+Sustenta que não haveria que se falar em condenação por lucros cessantes, tendo em vista a ciência do recorrido em relação ao prazo para duração das obras, o qual teria sido cumprido, bem como a inexistência de provas acerca dos danos sofridos.
+Aduz ainda que o recorrido teria ciência da sua responsabilidade pelo pagamento do IPTU, de modo que deveria ser afastada a respectiva condenação.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 346 e 349, do CC/02 e do art. 34 do CTN, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da invalidade e inaplicabilidade do prazo de 48 meses defendido pelos recorrentes para entrega do imóvel, da ocorrência de atraso na entrega do imóvel e de lucros cessantes, bem como da abusividade das cláusulas relativas ao IPTU e da responsabilidade das recorrentes quanto ao seu pagamento, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+- Da Súmula 568/STJ
+Ainda que assim não fosse, no que se refere à aos lucros cessantes, as duas Turmas de Direito Privado do STJ entendem que é cabível a condenação ao pagamento de lucros cessantes nos casos de descumprimento do prazo para entrega de imóvel objeto de compromisso de compra e venda, presumindo-se o prejuízo do promitente comprador. Nesse sentido: EREsp n. 1.341.138/SP, 2ª Seção, DJe de 22/5/2018.
+Ainda nesse sentido: AgInt no REsp n. 1.926.473/SP, 3ª Turma, DJe de 22/09/2021; AgInt no AREsp n. 1.818.562/RJ, 4ª Turma, DJe de 1/9/2021; AgInt no REsp 1783184/RJ, 3ª Turma, DJe de 27/09/2019; AgInt no AREsp 970.022/MG, 4ª Turma, DJe de 12/09/2019; AgInt no AREsp 1021640/AM, 4ª Turma, DJe de 01/07/2019; AREsp 1.075.056/MA, 4ª Turma, DJe 18/08/2017; AgInt no AREsp 1.059.699/DF, 3ª Turma, DJe 18/08/2017.
+Na hipótese, o Tribunal de origem entendeu pelo cabimento da condenação por lucros cessantes, em razão do atraso na entrega do imóvel, independentemente da cláusula penal ou de comprovação de efetivos desembolsos com aluguéis ou da finalidade do negócio (e-STJ, fls. 336/337), em consonância com o entendimento dominante sobre o tema nesta Corte.
+Aplica-se a Súmula 568/STJ quanto ao ponto.
+No que se refere à responsabilidade pelas despesas condominiais e IPTU, as duas Turmas de Direito Privado do STJ entendem que "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt nos EDcl no REsp 1839792/RJ, 3ª Turma, DJe de 17/08/2020).
+Ainda nesse sentido: AgInt no REsp 1829925/SP, 4ª Turma, DJe de 23/02/2021; AgInt nos EDcl no REsp n. 1.961.537/SP, 3ª Turma, DJe de 18/03/2022; e AgInt no REsp n. 1.953.733/SP, 4ª Turma, DJe de 24/3/2022.
+Na hipótese sob julgamento, o Tribunal de origem entendeu que estaria correta a condenação das recorrentes ao ressarcimento dos valores pagos a título de IPTU, destacando que o recorrido somente poderia ser responsabilizado pagamento dos impostos a partir do momento em que passou a ter concretamente a posse e o efetivo uso e gozo do bem (e-STJ, fls. 337/338).
+Diante da consonância com o entendimento dominante sobre os temas nesta Corte, aplica-se a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor da condenação (e-STJ, fls. 339) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança, fundada no atraso na entrega de imóvel.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. É cabível a condenação ao pagamento de lucros cessantes nos casos de descumprimento do prazo para entrega de imóvel objeto de compromisso de compra e venda, presumindo-se o prejuízo do promitente comprador. Precedentes.
+7. As despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse. Precedentes.
+8. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+9. Recurso especial não conhecido, com majoração de honorários.
