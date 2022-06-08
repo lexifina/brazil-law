@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDUARDO REQUIÃO DE MELLO E SILVA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO PAULIANA. EXECUÇÃO FISCAL. FRAUDE CONTRA CREDORES. DOAÇÃO DE BENS DE ASCENDENTE PARA DESCENDENTE. PRESUNÇÃO DO "CONSILIUM FRAUDIS". ART. 159 DO CC. ALEGAÇÃO DE ESTRUTURAÇÃO DE SUCESSÃO PATRIMONIAL NÃO É CRÍVEL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. JUIZ DESTINATÁRIO DA PROVAS. APELO CONHECIDO E DESPROVIDO.
+Quanto à primeira controvérsia, alegam violação do art. 489, § 1º, inciso I, do Código de Processo Civil. Aduzem a ocorrência de negativa prestação jurisdicional, trazendo os seguintes argumentos:
+Ora, quando da interposição do recurso de apelação, os recorrentes insurgiram-se, preliminarmente, contra o capítulo da r. sentença proferida pelo MM. Juízo de 1º Grau, em que este afirmou que o feito comportava julgamento antecipado do feito, sob a seguinte fundamentação:
+ ..
+Ora, conforme se verifica da passagem acima, o MM. Juízo a quo não efetivamente analisou o pedido de produção de provas formulado pela parte apelante, limitando-se a repetir o enunciado normativo contido no artigo 355, I, do Código de Processo Civil:
+Art. 355. O juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando:
+I - não houver necessidade de produção de outras provas;
+ ..
+Desta forma, tal capítulo da r. sentença é nulo, na forma do artigo 489, §1º, I, do Código de Processo Civil, uma vez que limitou-se "à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida".
+Por sua vez, em sendo o direito à prova um corolário inafastável do contraditório, garantia constitucional inafastável, tal vício de nulidade espraia-se por toda a sentença, fulminando-a de nulidade.
+Por sua vez, o v. acórdão limitou-se a afirmar que o juiz é o destinatário das provas e reafirmar que não seria necessária dilação probatória no presente caso.
+Ocorre, todavia, que nenhum dos argumentos trazidos pelo E. Tribunal de Justiça do Paraná serve para afastar o vício formal contido na r. sentença recorrida, qual seja a total ausência de fundamentação no capítulo atinente ao julgamento antecipado.
+Daí ser inequívoca a ofensa ao artigo 489, §1º, I, do Código de Processo Civil (fls. 3.812-3.813).
+Quanto à segunda controvérsia, alegam violação dos arts. 1.997 e 2.003 do Código Civil. Sustenta que, "em se tratando de adiantamento de herança, os bens recebidos por doação ainda assim deveriam ser colacionados em eventual processo de inventário, o que importaria na sua regular sujeição em processos de cobranças de dívida em face do doador, não havendo qualquer ilegalidade nesse sentido" (fl. 3.814).
+É, no essencial, o relatório. Decido.
+Na espécie, quanto a ambas as controvérsias, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que as questões nelas suscitadas não foram examinadas pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
