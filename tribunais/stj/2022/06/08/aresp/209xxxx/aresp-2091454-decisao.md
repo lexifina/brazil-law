@@ -1,0 +1,46 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BENEDITA DE OLIVEIRA DA SILVA, contra inadmissão, na origem, de recurso especial fundamentado naalínea"a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+COMPRA E VENDA IMOBILIÁRIA. CONSIGNAÇÃO EM PAGAMENTO. Preliminar de falta de interesse recursal rejeitada.Inadimplemento da compradora . Se havia mora, a recusa ao recebimento de quantia foi correta, a justificar a ação da credora/vendedora. Improcedência do pedido consignatório.
+RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. Justiça gratuita indeferida.Inexistentes elementos comprobatórios da insuficiência financeira da agravante para arcar com as custas e despesas processuais, sem prejuízo de sua atividade . Súmula 481 do STJ. Inteligência do art.98 do CPC. Adimplemento substancial do preço que impede a resolução do contrato . Promitente vendedora que deverá buscar a satisfação de seu crédito por outros meios.
+Recurso da COIIAB parcialmente provido, prejudicado o da Benedita de Oliveira da Silva.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 1007/1019).
+Nas razões recursais alega a parte recorrente violação aos arts. 1007, § 2º do CPC e304, 334, 421 e 422 do CC, sustentando, em síntese, violação ao princípio da isonomia, posto ter ocorrido tratamento diferenciado à recorrida, uma vez quedeveria ter sido concedido a faculdade prevista no § 2º do art. 1.007, sob pena de julgar deserto o Recurso interposto em caso de não atendimento; e que cumpriuintegralmente o contrato de mútuo habitacional, sendo ilícita a conduta da recorrida de exigir um suposto saldo residual, pugnando, assim, pela procedência da Ação Consignatória e reconhecimentode que houve a quitação integral do débito.
+Aduz
+Estreme de dúvidas que o v. acórdão violou previsão expressa do Código de. Processo Civil, além de ter concedido tratamento diferenciado à Recorrida COI IAB, na medida em que reconheceu que esta NÃO faz jus ao beneficio da justiça gratuita, contudo, conheceu o recurso interposto e possibilitou o recolhimento do preparo em 05 (cinco) dias sob pena de inscrição na divida ativa. Ora. NÃO HÁ TAL PREVISÃO NA LEGISLAÇÃO.(e-STJ fl. 1026).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Acerca da alegada violação ao princípio da isonomia, verifica-se que o Tribunal de origem, em sede de embargos de declaração, fundamentou sua decisão com base no princípio da celeridade processual, nestes termos:
+Inicialmente, é de ser mantido o prazo de 5 (cinco) dias,conferido para que a embargada recolhesse o valor de preparo, sob pena de inscrição na dívida, não para reproduzir um tratamento diferenciado à parte, mas para conferir celeridade ao processo que já se encontrava poraproximadamente 1 (um) ano aguardando julgamento . Observa - se que foiprovidenciado o recolhimento do preparo, pela embargada (fls. 889/894).
+É de ser relevado que o processo civil deve observar as normasfundamentaisconsagradas do artigo 1ºao 11 do novo Codex.
+Com efeito, preceitua o artigo 1º que o processo civil será ordenado, disciplinado e interpretado conforme os valores e as normasfundamentaisestabelecidos na Constituição da República Federativa doBrasil, observando-se as disposições deste Código.
+Deve ser considerado, também, o previsto no artigo 4º de que as partes têm o direito de obter em prazo razoável a solução integral do mérito, incluída a atividade satisfativa.
+Importante destacar, nessa linha, e à luz do disposto no art. 61, do novo Codex, que todos os sujeitos do processo devem cooperar o entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.(e-STJ fls. 1012/1013).
+Contudo, contra esse fundamento a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, violação ao princípio da isonomia, posto ter ocorrido tratamento diferenciado à recorrida, uma vez que deveria ter sido concedido a faculdade prevista no § 2º do art. 1.007, sob pena de julgar deserto o Recurso interposto em caso de não atendimento.
+Diante desse contexto, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto àsdemais questões suscitadas, o Tribunal de origem considerando as particularidades do caso concreto e o contexto fático probatório, concluiu pela improcedência da ação consignatório e o pagamento substancial da dívida, neste termos:
+Quanto ao mérito, Benedita de Oliveira da Silva adquiriuo imóvel residencial situado na Rua Lupércio, nº 215, na cidade de Marília, a ser pago em 300 prestações mensais (fls. 18/20).
+A adquirente confessa o inadimplemento a partir 257º prestação, afirmando, contudo, que tentou pagar as parcelas em atraso, porém a vendedora se recusa a receber, cobrando suposto débito de R$ 11.000,00, razão pela qual ajuizou a presente consignação em pagamento.
+A vendedora, por sua vez, ajuizou ação de rescisão contratual cumulada com reintegração de posse em razão do inadimplemento contratual da compradora (apenso).
+O artigo 335 do Código Civil especifica as hipóteses em que é admitida a consignação em pagamento.
+Os fatos que autorizam a consignação têm por fundamento, essencialmente, a mora do credor (incisos I e II) ou circunstâncias inerentes à pessoa do credor que impedem o devedor de satisfazer a obrigação, tais como a dúvida sobre a quem se deve pagar (incisos III a V).
+Vale ressaltar que a causa precípua da ação consignatória é a mora do credor e não a do devedor, não se podendo ignorar o fato de que, no momento da propositura desta ação, a inadimplência da adquirente devedora já havia se aperfeiçoado, como admitido na própria peça inicial.
+Apenas a recusa injusta autoriza a consignação. Se havia mora, a negativa de recebimento da prestação pecuniária mostrou-se correta, a justificar a ação de rescisão contratual.
+A ação consignatória é de âmbito restrito e visa a prevenir a mora e as consequências jurídicas decorrentes da inadimplência, fato que não se verifica no caso em comento, uma vez que a inadimplência já está caracterizada.
+Por outro lado, o pleito rescisório está lastreado no inadimplemento das últimas 44 (quarenta e quatro) parcelas, as quais foram depositadas no curso da demanda consignatória, ainda que desatualizadas e sem incidência de juros moratórios, a diminuir significativamente o saldo devedor proveniente do contrato em questão.
+Isto é, o principal da dívida foi depositado judicialmente, operando-se o adimplemento substancial da obrigação, descabida a rescisão do contrato, impondo-se remeter o credor para outros meios de satisfação doseu crédito.(e-STJ fls. 982/984).
+Assim, afastar a conclusão do Tribunal de origem, quanto a caracterização da mora e, consequente, improcedência da consignatória, bem como a ocorrência de adimplementosubstancial da dívida,demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula nº 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. SUSPENSÃO. NÃOCABIMENTO. ART. 535 CPC/1973. AUSÊNCIA DE OMISSÕES. INDICAÇÃO DE DISPOSITIVOS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. DESÍDIA DO CREDOR. BENS PASSÍVEIS DE PENHORA. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+2. A alegada existência de bens passíveis de penhora constituem questões eminentemente fáticas, razão pela qual o acolhimento da pretensão veiculada no apelo especial, demandaria o revolvimento de matéria fático-probatória, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+3. É pacífico o entendimento do STJ no sentido de que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução, o que não se verificou na espécie. Rever a informação lançada pelo acórdão recorrido implica adentrar em matéria fática, vedada pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1206682/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 20/03/2018, DJe 26/03/2018)
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). COMPRA E VENDA IMOBILIÁRIA. CONSIGNAÇÃO EM PAGAMENTO. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA Nº 283 DO STF. PEDIDO CONSIGNATÓRIO. IMPROCEDÊNCIA. MORACARACTERIZADA. ADIMPLEMENTO SUBSTANCIAL QUE IMPEDE A RESOLUÇÃO DO CONTRATO.REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
