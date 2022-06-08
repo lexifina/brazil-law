@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por Itaú Unibanco S.A., por meio do qual pretende adiantar a tutela do recurso especial, para o efeito de suspender os efeitos da decisão originalmente agravada, que reclassificou seu crédito, primitivamente com garantia real, decorrente de alienação fiduciária que garante duas cédulas de crédito bancário, para crédito quirografário, de modo que não poderia votar na assembleia geral de credores prevista para 10.2.2017 na Classe II.
+Subsequentemente, neguei provimento ao Agravo em Recurso Especial 1.051.702/MS (DJe de 14.12.2021), no qual houve a cessão do crédito em favor de DARP JIVE Fundo de Investimento em Direitos Creditórios Não Padronizados, feito conexo e principal em relação ao presente, decisão que transitou em julgado em 17.2.2022.
+Registro que o processo conexo, o REsp 1.629.470/MS, foi julgado favoravelmente ao cedente (DJe de 17.12.2021), ainda que no referido processo constecomo cessionário DJF Fundo de Investimento em Direitos Creditórios Não-Padronizados,havendo impugnação à admissibilidade negativa do recurso extraordinário interposto por meio de Agravo em Recurso Extraordinário, o que transfere para o Supremo Tribunal Federal a avaliação de eventual suspensividade do julgado.
+Assim resumida a questão, passo a decidir.
+Como é curial, a mera decisão nos autos principais já acarreta a perda de objeto do processo acessório, dele dependente, o que se torna ainda mais evidente após o trânsito em julgado da subjacente causa principal no STJ.
+Em face do exposto, determino o arquivamento da presente tutela provisória, que ficou prejudicada, nos termos acima.
+Intimem-se.
