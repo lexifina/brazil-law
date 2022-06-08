@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. RERCURSO ESPECIAL TIRADO DE AGRAVO DE INSTRUMENTO. NOTÍCIA DE SENTENÇA MERITÓRIA SUPERVENIENTE. PERDA DE OBJETO DO RECURSO ESPECIAL.
+1. Trata-se de recurso especial de ARMANDO MARIANTE CARVALHO JUNIOR E OUTROS, manejado com acórdão do Tribunal Regional Federal da 3ª Região que julgou agravo de instrumento em ação de improbidade administrativa.
+2. Após os autos atracarem neste Superior Tribunal de Justiça, as partes recorrentes noticiam que foi proferida sentença meritória na origem. De fato, acostam o documento às fls. 18.092/18.139 e 18.144/18.191, que indica a sentença emitida nos autos de origem.
+3. No referido julgado, a parte dispositiva foi emitida nos seguintes termos:
+Ante o exposto, i) o processo, com RESOLVE-SE apreciação do mérito, nos termos do CPC, 487, II, c/c a Lei8429/1992, artigo 23, § 8º (com as alterações da Lei14.230/2021), em razão do reconhecimento da prescrição intercorrente quanto à pretensão sancionadora, referente às condutas imputadas aos requeridos na inicial (Lei 8429/1992 ,artigo 10, caput e incisos II, VI e VII; e, artigo 11, caput e inciso I); e ii) o processo, sem apreciação do mérito, RESOLVE-SE por falta de interesse de agir superveniente, nos termos do CPC, 485, VI, em relação à pretensão de ressarcimento de dano ao erário (fl. 18.190).
+4. Muito embora não se desconheça que o tema da aplicabilidade retroativa da Lei 14.230/2021 esteja na pauta de repercussão geral da Corte Suprema (Tema 1.199), dúvida não há de que eventuais discussões acerca desse objeto estão transferidas para eventual recurso de apelação que seja manejado contra a sentença em referência.
+5. Consoante abordado, o recurso especial tem, como origem, agravo de instrumento tirado de decisão interlocutória. Com o advento da sentença, o recurso especial perdeu seu objeto.
+6. Pelo exposto, julga-se prejudicado o recurso especial, por perda de objeto, nos termos do art. 34, XI, do RISTJ.
+7. Publique-se. Intimações necessárias.
