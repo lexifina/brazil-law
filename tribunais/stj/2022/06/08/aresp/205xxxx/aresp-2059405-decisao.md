@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravocontra a decisão que inadmitiu o recurso especial interposto por GUSTAVO DE LIMA NORATO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação criminal. Roubo. Aplicação da pena. Causas de aumento. Concurso de agentes. Emprego de arma. Cuidando- se de fatos posteriores à vigência da Lei 13.654, e comprovada a arma de fogo empregada a sua conformação mais cotidiana, cabe estimar em dois terços o acréscimo correspondente a ser aplicado na última etapa do cômputo da pena, ainda que se cuide, também, de ilícito produzido em concurso de agentes (Código Penal, artigo 68, parágrafo único)." (e-STJ, fl. 183)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 214).
+Em suas razões recursais, o recorrente aponta violação do art. 157, § 2º-A, I do Código Penal.
+Aduz para tanto que não "muito embora as vítimas tenham relatado o uso de arma de fogo, isso por si só não é prova contundente a incidir a referida causa de aumento" (e-STJ, fl. 248).
+Afirma que "o aumento por uso de arma de fogo é de natureza objetiva, ou seja, tem por fundamento o perigo que representa à incolumidade física da vítima. Assim, impossível a condenação quando não comprovada a lesividade do objeto" (e-STJ, fl. 248).
+Pleiteia, ainda, seja reconhecida a negativa de vigência ao art. 33, §2º, "b" do CP, bem como àsSúmulas n.269 e 440 do STJ e 718 e 719 do STF, sob o argumento de que a fixação do regime mais gravoso se assentou na gravidade abstrata da conduta, e não em sua gravidade concreta (e-STJ, fl. 251).
+Com contrarrazões (e-STJ, fls. 267-274), o recurso especial foi inadmitido na origem (e-STJ, fls. 280-281), ao que se seguiu a interposição de agravo (e-STJ, fls. 294-300).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 332-336).
+É o relatório.
+Decido.
+A pretensão recursal merece parcial acolhimento.
+No tocante à incidência da causa de aumento prevista no art. 157, §2º-A do CP - violência exercida com emprego de arma de fogo -, merece destaque o seguinte trecho do julgado:
+"E não há que se afastar a incidência do emprego de arma.
+Primeiro, porque tal previsão legal não padece de qualquer inconstitucionalidade, seja formal ou material, o que vem sido amplamente decidido pelos Tribunais, inclusive por esta Segunda Câmara, a qual vem diuturnamente aplicando o aludido dispositivo nos casos de roubo que aqui aportam após a vigência da Lei 13.654/18. Com efeito, o legislador ordinário, valendo-se dos seus critérios de política de segurança e dos seus poderes como representantes do povo, entendeu pelo recrudescimento da norma em apreço, sancionando mais severamente quem pratica roubo com emprego de arma de fogo ou explosivo, elevando-se a exposição de bens jurídicos relevantes da vítima. Não cabe, aqui, imiscuir-se o Judiciário nesse debate que, como dito, é próprio de política criminal. Ou seja, ainda que tenha ocorrido aumento significativo de pena, não parece, realmente, que houve enrijecimento desproporcional ou desarrazoado, embora reconheça-se as preocupações da Defesa técnica do réu.
+Segundo porque já consolidado na jurisprudência dos Tribunais Superiores que a configuração dessa causa de aumento prescinde da apreensão do artefato ou sua perícia, bastando que haja prova inequívoca de seu uso, o que, no caso em tela, se deu pelo seguro depoimento da vítima que até mesmo empenhou seu possível calibre." (e-STJ, fls. 186-188, grifou-se).
+A conclusão do Tribunal de origem se alinha à diretriz da Terceira Seção desta Corte Superior que, por ocasião do julgamento dos Embargos de Divergência 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do revogado inciso I do § 2º do art. 157 do CP (atual §2º-A, I, do mesmo art. 157), quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há comprovação testemunhal atestando o seu emprego. A esse respeito, convém a transcrição dos seguintes precedentes:
+" ..
+7. No que diz respeito à alegada impossibilidade de incidir a causa de aumento pelo uso da arma de fogo, em virtude da sua não apreensão e perícia, tem-se que é assente o "entendimento firmado por esta Corte no julgamento do EREsp n. 961.863/RS, segundo qual a apreensão e perícia da arma é desnecessária para evidenciar essa causa de aumento de pena se há outros elementos de prova que evidenciem o emprego do artefato" (AgRg no HC 664.344/TO, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 02/06/2021).
+ .. .
+11. Agravo regimental improvido".
+(AgRg no AgRg no AREsp 1969888/AC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2021, DJe 29/11/2021)
+" ..
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é dispensável a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º-A, I, do art. 157 do Código Penal, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como no caso concreto, em que há declaração das vítimas.
+ .. .
+3. Agravo regimental desprovido".
+(AgRg no HC 675.941/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021)
+Ressalte-se que, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela insuficiência de provas no tocante ao uso da arma de fogo, na forma pretendida, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7/STJ.
+De outra parte, no tocante àpretensão de alteração do regime prisional, razão assiste ao recorrente.
+Com efeito, as instâncias ordinárias não apresentaramfundamentos concretos extraídos dos autos, para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei, baseando-se, tão somente, nagravidade abstrata do delito de roubo circunstanciado.
+De acordo com o entendimento desta Corte Superior, consoante determinam os arts. 33, §§ 2º e 3º, e 59, ambos do Código Penal, o regime prisional será estabelecido com observância do quantum de pena aplicada, da primariedade e da análise das circunstâncias judiciais, em respeito ao princípio da individualização da pena, considerando, ainda, que tal regime seja necessário e suficiente para reprovação e prevenção do crime.
+No caso, verifica-se quea pena-base do recorrente foi estabelecida no mínimo legal, de modo que não é possível a fixação doregime inicial mais grave do que aquele previsto em lei, nos moldes das Súmulas 718 e 719 do Supremo Tribunal Federal bem como da Súmula 440/STJ, que assim dispõem:
+Súmula 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Súmula 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Súmula 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Assim, tendo em vista queo réu restou condenado à pena de seis (6) anos e oito (8) meses de reclusão, o regime inicial deve ser o semiaberto, conforme preceitua o art. 33, §2º, "b", do Código Penal.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b" e "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim defixar o regime inicial semiaberto, nos termos da fundamentação.
+Publique-se. Intimem-se.
