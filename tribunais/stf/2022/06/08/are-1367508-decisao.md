@@ -1,0 +1,43 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 3, p. 1):
+
+    “EMENTA. RECURSO INOMINADO. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL E ADMINSTRATIVO. DESIGNAÇÃO PARA O EXERCÍCIO DE OFICIALA REGISTRAL EM CARÁTER INTERINO. NETUREZA PRECÁRIA DO CARGO QUE NÃO ENSEJA DIREITO ADQUIRIDO. AUTORA ALMEJA TITULARIDADE DA SERVENTIA SEM PRÉVIO CONCURSO PÚBLICO. IMPOSSIBILIDADE. INEXISTÊNCIA DE DIREITO ADQUIRIDO. ART. 37 E 236 DA CONSTITUIÇÃO FEDERAL. SENTENÇA MANTIDA. RECURSO INOMINADO CONHECIDO E NÃO PROVIDO.”
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 1º, III; 5, caput, V, XXXV, XXXVI, LIV e LV; 37, §6º; 60, §4º; 66, §4º; 96, II; 97 da Constituição Federal.
+
+    Nas razões recursais, sustenta-se, em suma, que a recorrente foi aprovada para o cargo de oficiala de registro civil do cartório de Ibicuitaba-CE e deve ser mantida no cargo (eDOC 4).
+
+    O Tribunal de origem inadmitiu o extraordinário ante a ausência de prequestionamento e pela deficiência na fundamentação da preliminar de repercussão geral (eDOC 6).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Verifica-se que as razões de decidir do Tribunal de origem, especificamente em relação à ausência de direito de permanecer no cargo de oficiala de registro civil de cartório sem a prévia aprovação em concurso público, estão em consonância com a cristalizada jurisprudência do Supremo Tribunal Federal acerca da matéria. Nesse sentido, cito reiterados julgados:
+
+    “Ementa: DIREITO CONSTITUCIONAL. AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. SERVENTIA EXTRAJUDICIAL. EFETIVAÇÃO DE SUBSTITUTO SEM CONCURSO PÚBLICO. VAGA SURGIDA APÓS A PROMULGAÇÃO DA CONSTITUIÇÃO DE 1988. 1. A aquisição do direito à efetivação, previsto no art. 208 da CF/1969, subordinava-se à existência de vaga. Na hipótese, a vacância do cargo ocorreu na vigência da Constituição de 1988, que passou a exigir expressamente prévia aprovação em concurso público para o ingresso na atividade notarial e de registro. Jurisprudência pacífica do STF. 2. O Plenário desta Corte confirmou, recentemente, o entendimento de que o prazo decadencial quinquenal do art. 54 da Lei nº 9.784/1999 não se aplica à revisão de atos de delegação de serventia extrajudicial editados após a Constituição de 1988, sem a observância do requisito previsto no seu art. 236, § 3º (MS 26.860, Rel. Min. Luiz Fux). 3. Agravo regimental a que se nega provimento.” (MS 28560-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 9.12.2016)
+
+    “EMENTA: MANDADO DE SEGURANÇA. ADMINISTRATIVO ATO DO CONSELHO NACIONAL DE JUSTIÇA. DECLARAÇÃO DE VACÂNCIA DE SERVENTIA: REMOÇÃO APÓS A CONSTITUIÇÃO DA REPÚBLICA DE 1988. EXIGIBILIDADE DE CONCURSO PÚBLICO. PRECEDENTES. MANDADO DE SEGURANÇA DENEGADO.” (MS 28839, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 10.12.2014)
+
+    “Ementa: CONSTITUCIONAL. MANDADO DE SEGURANÇA DE COMPETÊNCIA ORIGINÁRIA DO STF. PEDIDO DE DESISTÊNCIA FORMULADO APÓS A INTERPOSIÇÃO DE RECURSO CONTRA O JULGAMENTO MONOCRÁTICO DO MÉRITO. MATÉRIA PACIFICADA. DESISTÊNCIA NÃO HOMOLOGADA. SERVENTIA EXTRAJUDICIAL. PROVIMENTO, MEDIANTE REMOÇÃO, POR PERMUTA, SEM CONCURSO PÚBLICO. ILEGITIMIDADE. ART. 236, E PARÁGRAFOS, DA CONSTITUIÇÃO FEDERAL: NORMAS AUTOAPLICÁVEIS, COM EFEITOS IMEDIATOS, MESMO ANTES DA LEI 9.835/1994. INAPLICABILIDADE DO PRAZO DECADENCIAL DO ART. 54 DA LEI 9.784/1999. PRECEDENTES DO PLENÁRIO. LIMITAÇÃO DOS EMOLUMENTOS. APLICABILIDADE DO ART. 37, XI, DA CONSTITUIÇÃO, AOS INVESTIDOS INTERINAMENTE NA DELEGAÇÃO. AGRAVO NÃO PROVIDO. 1. A jurisprudência do STF é no sentido de que o art. 236, caput , e o seu § 3º da CF/88 são normas autoaplicáveis, que incidiram imediatamente desde a sua vigência, produzindo efeitos, portanto, mesmo antes do advento da Lei 8.935/1994. Assim, a partir de 5/10/1988, o concurso público é pressuposto inafastável para a delegação de serventias extrajudiciais. As normas estaduais editadas anteriormente, que admitem a remoção na atividade notarial e de registro independentemente de prévio concurso público, são incompatíveis com o art. 236, § 3º, da Constituição, razão pela qual não foram por essa recepcionadas. 2. É igualmente firme a jurisprudência do STF no sentido de que a atividade notarial e de registro, sujeita a regime jurídico de caráter privado, é essencialmente distinta da exercida por servidores públicos, cujos cargos não se confundem. 3. O Plenário do STF, em reiterados julgamentos, assentou o entendimento de que o prazo decadencial de 5 (cinco) anos, de que trata o art. 54 da Lei 9.784/1999, não se aplica à revisão de atos de delegação de serventias extrajudiciais editados após a Constituição de 1988 sem o atendimento das exigências prescritas no seu art. 236. 4. É legítima, portanto, a decisão da autoridade impetrada que considerou irregular o provimento de serventia extrajudicial, sem concurso público, decorrente de remoção, com ofensa ao art. 236, § 3º, da Constituição. Jurisprudência reafirmada no julgamento do MS 28.440 AgR, de minha relatoria, na Sessão do Plenário de 19/6/2013. 5. Aplica-se a quem detém interinamente a serventia extrajudicial a limitação do teto, prevista no art. 37, XI, da Constituição. Precedentes. 6. Agravo regimental a que se nega provimento.” (MS 29032-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 7.6.2016)
+
+    “Ementa: CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ACÓRDÃO DO CONSELHO NACIONAL DE JUSTIÇA. CONCURSO PÚBLICO. SERVENTIA JUDICIAL. ANULAÇÃO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INOCORRÊNCIA. DECADÊNCIA ADMINISTRATIVA. INAPLICABILIDADE. ORDEM DENEGADA. 1. Não procede a arguição de nulidade formulada pela impetrante, fundada em suposta ausência de notificação para integrar o PCA em questão, haja vista a sua absoluta ciência do procedimento administrativo, seja na qualidade titular interina do cargo de Escrivão do Cível da Comarca de Fazenda Rio Grande/PR, seja na qualidade de postulante ao referido cargo. 2. A orientação jurisprudencial desta SUPREMA CORTE firmou-se no sentido de que o prazo decadencial previsto no art. 54 da Lei 9.784/99 não alcança situações flagrantemente inconstitucionais, sob pena de subversão das determinações insertas na Constituição Federal. 3. Ordem denegada.” (MS 30294, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe 10.6.2019)
+
+    “Ementa: CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. SERVENTIA EXTRAJUDICIAL. PROVIMENTO, MEDIANTE REMOÇÃO, SEM CONCURSO PÚBLICO. ILEGITIMIDADE. ARTIGO 236 E PARÁGRAFOS DA CONSTITUIÇÃO FEDERAL: NORMAS AUTOAPLICÁVEIS, COM EFEITOS IMEDIATOS, MESMO ANTES DA LEI 9.835/1994. PRECEDENTES DO PLENÁRIO: MS 28.371, Min. JOAQUIM BARBOSA, DJe de 27/2/2013 e MS 28.279, Min. ELLEN GRACIE, DJe de 29/4/2011. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (MS 31128-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe 13.3.2018)
+
+    “Ementa: DIREITO CONSTITUCIONAL. AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. PERMUTAS E REMOÇÕES ENVOLVENDO TITULARES DE SERVENTIAS EXTRAJUDICIAIS. CONCURSO PÚBLICO. 1. Com o advento da Constituição de 1988, o concurso público é inafastável tanto para o ingresso nas serventias extrajudiciais quanto para a remoção e para a permuta (dupla remoção simultânea). Precedentes. 2. O Plenário desta Corte já assentou que o prazo decadencial quinquenal do art. 54 da Lei nº 9.784/1999 não se aplica à revisão de atos de delegação de serventia extrajudicial editados após a Constituição de 1988, sem a observância do requisito previsto no seu art. 236, § 3º. Precedentes. 3. Agravo regimental a que se nega provimento.” (MS 28301-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 10.2.2017)
+
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 8 de junho de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
