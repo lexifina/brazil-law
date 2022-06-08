@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSÉ EDERSON RIBEIRO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Tribunal estadual manteve a decisãoque indeferiu o pleito de detração de pena, relativa a processo pelo qual foi anteriormente condenado, apontando que o período é anterior ao cometimento do delito pelo qual cumpre pena.
+Neste writ, a defesa alega que que o paciente ficou preso de 16/09/2004 até 22/10/2007 e que por conta disso faria jus a detração de pena, no tocante à 3 (três anos) anos 1 (um) mês e 6 (seis) dias, tendo em vista que o sentenciado esteve preso irregularmente neste período.
+Sustenta que a impossibilidade no pedido "deve ser superado, pois em que pese orientação jurisprudencial sobre o tema, repisamos que é necessário trabalharmos com a concepção do overruling deste posicionamento, em detrimento dos direitos fundamentais estampados na Constituição Federal, em especial a presunção da inocência, com espeque no princípio da dignidade humana" (e-STJ, fl. 70)
+Requereu, inclusive liminarmente, seja determinado o computo de 3 (três anos) anos 1 (um) mês e 6 (seis) dias, no restante de sua atual pena, com base no tempo em que o sentenciado esteve preso irregularmente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Pretende a impetração, em apertada síntese, a detração de penas não reconhecidas pelo Tribunal de origem.
+No caso, conforme se extrai dos autos, a detração foi afastada com fundamentação adequada pelo Tribunal de origem, na medida em que o término de cumprimento de pena do paciente, referente ao primeiro delito praticado (porte de drogas), ocorreu em 22/10/2007, ocasião em que expedido o correspondente alvará de soltura, tendo sido declarada a extinção de sua punibilidade relativa a tal delito. Já o delito de homicídio qualificado foi cometido em 30/12/2008, ou seja, em data posterior à extinção de punibilidade referente ao delito anteriormente praticado.
+Consta do acórdão atacado (e-STJ, fl. 72) "o delito de homicídio qualificado, praticado pelo agravante, foi cometido posteriormente ao término da segregação anterior do reeducando, não podendo ser utilizada, pois, para fim de detração do referido período."
+No que diz respeito à detração, nos termos do art. 42 do Código Penal, computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, prisão administrativa e o de internação em hospital de custódia e tratamento psiquiátrico.
+O art. 111, caput, da Lei de Execuções Penais reforçou a possibilidade de detração, ao estabelecer a sua aplicabilidade na unificação de penas impostas em processos distintos.
+"Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+Nesse passo, a jurisprudência desta Corte, há muito, firmou entendimento de ser possível a detração do tempo de prisão processual ordenada em outro processo em que o sentenciado foi absolvido ou foi declarada a extinção da punibilidade, desde que em relação a crimes cometidos anteriormente à custódia cautelar, cujo lapso temporal se pretende descontar.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE PORTE DE DROGAS PARA CONSUMO PRÓPRIO. DESCLASSIFICAÇÃO. DETRAÇÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE ABSOLVIÇÃO OU EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE RAZÕES NOVAS. AGRAVO DESPROVIDO.
+1. O direito à detração da prisão cautelar requer o preenchimento dos seguintes requisitos: absolvição ou declaração de extinção da punibilidade, e que a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado, conforme firme entendimento jurisprudencial desta Corte Superior. Precedentes.
+2. O agravado teve sua conduta ilícita desclassificada de crime de porte de drogas para consumo próprio, e condenado à pena de advertência, situação que afasta o direito ao benefício pleiteado.
+3. Agravo regimental desprovido" (AgRg no REsp n. 1.687.762/DF, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/3/2018).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DETRAÇÃO DA PENA. PRISÕES CAUTELARES ANTERIORES AO COMETIMENTO DOS CRIMES PELOS QUAIS O PACIENTE CUMPRE PENA. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. A jurisprudência desta Corte Superior admite a detração do tempo de prisão processual ordenada em outro processo em que o sentenciado fora absolvido ou declarada a extinção de sua punibilidade, bem como na hipótese em que o tempo de custódia cautelar efetivado seja por crime anterior ao período pleiteado.
+2. Hipótese em que o pedido de detração se refere a períodos de prisões anteriores à data do delito pelo qual o apenado cumpre pena.
+3. Habeas corpus não conhecido" (HC n. 316.859/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/12/2016).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRISÃO CAUTELAR RELATIVA A PERÍODO ANTERIOR AO DELITO. INCIDÊNCIA DA DETRAÇÃO. IMPOSSIBILIDADE. VEDAÇÃO DO PRINCÍPIO DA "CONTA CORRENTE". AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Tendo em vista as particularidades dialogais que entremeiam o delito e seu contexto cronológico, é difícil admitir-se que o sujeito, de antemão, já possa ter "remido a culpa" por fato ainda vindouro, sob pena de se consagrar o indevido princípio da "conta corrente".
+2. Agravo regimental a que se nega provimento" (AgRg no REsp n. 1.036.459/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 28/6/2011).
+Nesse contexto, portanto, não se constata flagrante ilegalidade que possa ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
