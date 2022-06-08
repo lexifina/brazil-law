@@ -1,0 +1,19 @@
+DECISÃO
+MATEUS TAVARES GARCIAalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0001249-39.2022.8.26.0026.
+Pugna aimpetrante para que seja restabelecida a decisão que deferiu ao paciente a progressão ao regime semiaberto, independentemente da realização de exame criminológico.
+Decido.
+Infere-se dos autos que o Magistrado da execução deferiu ao paciente a progressão ao regime semiaberto, oportunidade na qual entendeu que "não há necessidade da realização de exame criminológico, não tendo sido apontado nenhum motivo concreto recente que justificasse a realização de tal exame, conforme critérios previstos na Súmula Vinculante 26 do STF" (fl. 17).
+O Tribunal a quo cassou o decisum supra, pois"há fundada dúvida acercado merecimento e do preparo do sentenciado para a progressão de regime, pelo cometimento de crimes graves, mediante violência e grave ameaça" (fl. 30, grifei). Entendeu que " a própria dinâmica dos fatos aponta, por si só, para eventual periculosidade por parte do reeducando, tendo em vista a patente gravidade do crime perpetrado pelo sentenciado, ensejando o reconhecimento de sua personalidade desajustada e digna de correção" (fl. 29, destaquei)
+A esse respeito, esta Corte Superior possui o entendimento de que " a  gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal" (HC n. 429.176/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 14/3/2018, grifei).
+Na hipótese, o Tribunal estadual entendeu devida a postergação da análise do benefício sob o fundamento de que o atestado de bom comportamento carcerário não é suficiente para aferir o preenchimento do requisito de ordem subjetiva, porquanto o sentenciado cometeu crime grave, o que, sem maiores detalhamentos, não justifica a negativa da benesse ou a determinação da produção da prova pericial, uma vez que não reflete a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+II - O entendimento desta Corte é no sentido de que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamentos idôneos para obstar a progressão de regime.
+III - In casu, ao cassar o benefício concedido pelo Juízo da Execução Penal, o eg. Tribunal de Justiça se valeu do argumento de que o paciente teria cometido faltas graves, porém não as individualizou, o que impede a sua utilização como argumento para afastar o merecimento do apenado.
+IV - O v. acórdão valeu-se, ainda, da gravidade dos crimes pelos quais o paciente foi condenado e de afirmações genéricas no sentido de que o paciente "tem evidente tendência à prática de crimes graves" porém, realizado exame criminológico, não foi indicado qualquer elemento que possa indicar que o paciente apresenta traço de personalidade que o impeça de receber o benefício da progressão de regime.
+Habeas corpus não conhecido. Ordem concedida de ofício para cassar a decisão do eg. Tribunal a quo, fazendo prevalecer a progressão de regime concedida pelo d. Juízo da Execução Penal, confirmando a liminar.
+(HC n. 443.838/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/6/2018, grifei)
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca do delito cometido pelo reeducando, a impor-lhe patente constrangimento ilegal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de afastar a exigência de realização de exame criminológico e restabelecer a decisão que concedeu ao paciente a progressão ao regime semiaberto.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
