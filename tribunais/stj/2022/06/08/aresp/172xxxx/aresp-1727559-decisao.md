@@ -1,0 +1,57 @@
+DECISÃO
+Tratam-se de agravos interpostos por EMPRESA FOLHA DA MANHÃ S/A e pela FAZENDA NACIONAL contra a decisão que inadmitiu os sues recursos especiais.
+Os recursos especiais foram interpostos contra a seguinte decisão:
+PROCESSUAL CIVIL E TRIBUTÁRIO - AGRAVOS INTERNOS - AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO FISCAL - PRESCRIÇÃO: MATÉRIA DE ORDEM PÚBLICA - DECADÊNCIA: INOCORRÊNCIA - PRESCRIÇÃO: OCORRÊNCIA PARCIAL - ENCARGOS DO DECRETO-LEI IV. 1.025/69.
+1. A prescrição é matéria de ordem pública. No caso concreto, a prescrição do crédito tributário não foi arguida na petição inicial dos embargos à execução. Todavia, tratando-se de questão de ordem pública, é viável a análise, no atual momento processual.
+2. Quando o tributo é objeto de declaração pelo contribuinte, a ausência de pagamento dispensa outra formalidade, para a constituição do crédito declarado, permitindo a imediata inscrição na dívida ativa.
+2. A Súmula tf. 436, do Superior Tribunal de Justiça: "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco".
+3. Não houve decadência.
+4. Houve prescrição parcial, quanto aos créditos constituídos em 13 de maio de 1999.
+5. A União foi intimada para se manifestar quanto à existência de causas suspensivas ou interruptivas da prescrição tributária, nos termos do artigo 10, do Código de Processo Civil.
+6. É regular o reconhecimento da prescrição parcial dos créditos.
+O feito decorre de execução fiscal no valor de R$ 1.699.287,46.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a recorrente EMPRESA FOLHA DA MANHÃ S/A indica como violados os arts. 156, V, e 150, § 40, do Código Tributário Nacional, e artigo 18 da Lei no 10.833/2003, entendendo ter ocorrido a decadência.
+Afirma que a execução fiscal tem origem na cobrança de débitos declarados em DCTF nos dias 13/05/199 e 13/08/1999.
+Alega que a tese pela qual "a entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco", não se aplica no caso entelado, uma vez existir jurisprudência no sentido de que a referida tese não se aplica às DCTF"s entregues antes de 31.03.2003, quando passou a viger a Lei 10.833/2003, período em que era exigível a homologação de ofício.
+Sustenta ainda que: "se considerado que os débitos objeto de cobrança não são aqueles declarados pela Recorrente, uma vez que houve a antecipação parcial do tributo, dever-se-ia aplicar a contagem do lapso decadencial consubstanciada no artigo 150, § 40, do Código Tributário Nacional, em detrimento do seu artigo 173, I".
+Finalmente, apontou malferimento do art. 85, §3º do CPC e art. 2º da LINDB, afirmando, em suma, ser aplicável a escala de honorários ali prevista, não sendo possível a cobrança de 20% referida no Decreto-lei 1025/1969. Afirma, em suma, que até o advento do novo CPC a previsão de aplicação dos encargos no patamar de 20% encontrava correspondência na legislação de regência, não sendo mais viável a referida fixação no novo diploma legal.
+RECURSO ESPECIAL DA FAZENDA NACIONAL
+A fazenda nacional afirma a ofensa aos arts. 204 do CTN e 3º da Lei 6830/1980, afirmando, em síntese, que o relator para desconstituir parcela do débito pela prescrição não levou em consideração que poderiam ocorrer no presente caso causas suspensivas do prazo prescricional.
+Contrarrazões pela manutenção da decisão recorrida.
+Após decisum que inadmitiu os recursos especiais foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que os agravantes, além de atender aos demais pressupostos de admissibilidade, impugnaram a fundamentação da decisão agravada, de rigor o conhecimento dos agravos, passando-se ao exame dos recursos especiais interpostos.
+RECURSO ESPECIAL DA EMPRESA FOLHA DA MANHÃ S/A
+No tocante à alegação de decadência verifica-se que a tese do recorrente pela necessidade de homologação de ofício no período anterior à edição da Lei 10.833/2003, bem assim da aplicação do art. 150 do CTN, observe-se que as referidas teses não foram abordadas no acórdão recorrido, mesmo após a oposição de embargos de declaração, o que atrai o comando das súmulas 211/STF e 282/STF.
+Por outro lado, no tocante aos honorários advocatícios, observe-se que a tese de aplicação do art. 85,§ 3º não foi ventilada no acórdão recorrido, atraindo o óbice da súmula 282/STF. Por outro lado,este Superior Tribunal de Justiça, tem jurisprudência firmada pela legalidade da incidência do encargo legal de 20%, afastando a natureza de honorários advocatícios, conforme se vislumbra das seguintes ementas:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS ADVOCATÍCIOS. PARCELAMENTO PREVISTO NA LEI N. 11.941/2009. NÃO INCLUSÃO DA VERBA HONORÁRIA NO DÉBITO CONSOLIDADO. DESISTÊNCIA DA AÇÃO JUDICIAL. PROCESSO EM CURSO. ART. 462 DO CÓDIGO DE PROCESSO CIVIL. LEI N. 13.043/2014. APLICAÇÃO. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento na 2º Turma deste Superior Tribunal de Justiça segundo o qual o fato de o encargo legal não se equiparar a honorários advocatícios, por si só, não permite inferir que o parcelamento fundado na Lei n. 11.941/2009 autoriza a Fazenda Pública incluir no montante parcelado os valores referentes aos honorários previdenciários e a não inclusão desses honorários no valor consolidado, nas hipóteses em que a lei exclui o encargo legal, atende à finalidade buscada pelo legislador da lei referida - incentivar a adesão ao programa de parcelamento fiscal.
+III - Quanto à condenação em verba honorária da parte que desiste da lide, a Medida Provisória n. 651/2014, convertida na Lei n. 13.043/2014, em seu art. 38, parágrafo único e inciso II, excluiu a condenação em honorários advocatícios do aderente ao programa de parcelamento instituído pela Lei n. 11.941/2009 que desiste da demanda, renunciando ao direito sobre o qual se funda a ação, após 10.07.14, bem como nos casos em que não houve pagamento da referida verba.
+IV - Esta Corte adota o posicionamento no sentido de que a Lei n. 13.043/2014 é aplicável aos processos em curso por força do disposto no art. 462 do Código de Processo Civil.
+V - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+VI - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.519.629/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/12/2016, DJe de 3/2/2017.)
+PROCESSUAL CIVIL E FALIMENTAR. CLASSIFICAÇÃO DE CRÉDITOS. ENCARGO LEGAL INSCRITO EM DÍVIDA ATIVA DA UNIÃO. NATUREZA JURÍDICA. CRÉDITO NÃO TRIBUTÁRIO. PREFERÊNCIA CONFERIDA AOS CRÉDITOS TRIBUTÁRIOS. EXTENSÃO.
+1. Nos termos do art. 1º do DL n. 1.025/1969, o encargo de 20% inserido nas cobranças promovidas pela União, pago pelo executado, é crédito não tributário destinado à recomposição das despesas necessárias à arrecadação, à modernização e ao custeio de diversas outras (despesas) pertinentes à atuação judicial da Fazenda Nacional.
+2. Por força do § 4º do art. 4º da Lei n. 6.830/1980, foi estendida expressamente ao crédito não tributário inscrito em dívida ativa a preferência dada ao crédito tributário.
+3. O encargo legal não se qualifica como honorários advocatícios de sucumbência, apesar do art. 85, § 19, do CPC/2015 e da denominação contida na Lei n. 13.327/2016, mas sim como mero benefício remuneratório, o que impossibilita a aplicação da tese firmada pela Corte Especial no RESP 1.152.218/RS ("Os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência, seja pela regência do Decreto-Lei n. 7.661/1945, seja pela forma prevista na Lei n. 11.101/2005, observado, neste último caso, o limite de valor previsto no artigo 83, inciso I, do referido Diploma legal").
+4. Para os fins do art. 1.036 do CPC/2015, firma-se a seguinte tese:
+"O encargo do DL n. 1.025/1969 tem as mesmas preferências do crédito tributário devendo, por isso, ser classificado, na falência, na ordem estabelecida pelo art. 83, III, da Lei n. 11.101/2005."
+5. Recurso especial da Fazenda Nacional provido.
+(REsp n. 1.521.999/SP, relator Ministro Sérgio Kukina, relator para acórdão Ministro Gurgel de Faria, Primeira Seção, julgado em 28/11/2018, DJe de 22/3/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ARTIGO 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. TRIBUTÁRIO. REQUISITOS DE VALIDADE DA CDA. REEXAME DE PROVAS. SÚMULA 7/STJ. REDUÇÃO DA MULTA FISCAL. NATUREZA CONFISCATÓRIA. MATÉRIA CONSTITUCIONAL. APLICAÇÃO DA TAXA SELIC. DECRETO-LEI 1.025/69. INCIDÊNCIA NAS EXECUÇÕES FISCAIS. OBSERVÂNCIA DO RECURSO ESPECIAL REPETITIVO 1.143.320/RS.
+1."É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(Súmula 284/STF) 2."Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+5. É legal a incidência da Taxa SELIC para a cobrança de tributos federais, a partir de 1º de janeiro de 1995, a teor do disposto na Lei 9.065/95.
+6. A jurisprudência do STJ firmou-se no sentido da legalidade da incidência do encargo legal de 20% previsto no Decreto-Lei nº 1025/69, que substitui, nos embargos, a condenação do devedor em honorários advocatícios (REsp 1.143.320/RS, Rel. Min. Luiz Fux, Primeira Seção, DJe 21.5.2010, julgado pela sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ).
+7. Agravo interno não provido.
+(AgRg no REsp n. 1.574.610/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/3/2016, DJe de 14/3/2016.)
+RECURSO ESPECIAL DA FAZENDA NACIONAL
+A tese apresentada pela recorrente não foi analisada pelo Tribunal a quo não sendo obtido o necessário prequestionamento da matéria constante do dispositivo legal apresentado. Incidência da súmula 282/STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial da FAZENDA NACIONAL e com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial da EMPRESA FOLHA DA MANHÃ S/A e, nessa parte, negar-lhe provimento
+Publique-se. Intimem-se.
