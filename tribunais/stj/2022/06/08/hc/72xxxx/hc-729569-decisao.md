@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JOSE LUIS JACQUES DE SOUSA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que, no julgamento daApelação n.5001039-19.2020.8.24.0125, manteve a pena pelo tráfico de drogas em5 anos de reclusão,no regime inicial semiaberto (art. 33, caput,da Lei n. 11.343/06).
+O impetrante requer, em liminar e no mérito, a aplicação do § 4º do art. 33 da Lei de Drogas, com o consequente abrandamento do regime e a substituição da pena por restritiva de direitos. Argumenta que o paciente é primário, sem antecedentes e a referida minorante teria sido afastada com base apenas na quantidade de droga apreendida.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 525/530).
+É o relatório.
+Decido.
+Primeiramente, verifico que o habeas corpus não merece ser conhecido, poisfoi impetrado em substituição ao recurso próprio. Nesse sentido: HC 358.398/SP,Relator Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016.
+Também não se mostra cabível a concessão da ordem, de ofício, uma vez que a apreensão de elevada quantidade de droga acondicionada de forma fracionada, um simulacro de arma de fogo e duas balanças de precisão impedem a aplicação do § 4º, por demonstrarema dedicação do paciente a atividades criminosas.Confiram-se, a propósito, os seguintes trechos da denúncia e da sentença condenatória, respectivamente:
+" ..
+Diante da flagrante situação de narcotraficância existente,os Policiais Militares ingressaram na residência e abordaram o denunciado JOSELUIS JACQUES DE SOUSA, sendo que, após buscas no local, encontraram eapreenderam um pote em cima de uma mesa com "6 petecas de maconha, 2buchas de cocaína pequenas, uma porção maior de 30g de cocaína, um pacotecom cerca de 100 comprimidos de ecstasy" (auto de exibição e apreensão de fl. 9e boletim de ocorrência de fls. 3/4), drogas que o denunciado tinha em depósito eguardava. sem autorização ou em desacordo com determinação legal ouregulamentar (Portaria n. 344. de 12.05.1998. da Secretaria de VigilânciaSanitária do Ministério da Saúde. enquadradas na Lista F1-Lista dasSubstâncias Entorpecentes de uso proscrito no Brasil).
+Ainda, com o apoio do canil de Balneário Camboriú (K9), osagentes públicos localizaram "um saco com mais 655 comprimidos de ecstasy"enterrado em uma trilha nos fundos do imóvel, que o denunciado JOSE LUISJACQUES DE SOUSA tinha em depósito e guardava. sem autorização ou emdesacordo com determinação legal ou regulamentar.
+Também diversos documentos e pertences do denunciadoJOSE LUIS JACQUES DE SOUSA foram apreendidos no local, além de "447,00reais; 1 simulacro de arma de fogo sem ponta, laranja; 03 telefones celulares,sendo OI Samsung branco, OI samsung azul e OI Ig preto; 2 balanças deprecisão", esses últimos objetos são conhecidamente utilizados para ofracionamento e pesagem do entorpecente destinado ao comércio (auto deexibição e apreensão de fl. 9).
+ .. "(fl. 105)
+" ..
+Seguindo, afasto a aplicação da causa de diminuição de pena prevista no § 4º do art.33 da Lei de Drogas, considerando a expressiva quantidade e diversidade dos entorpecentes apreendidos, aliado às demais circunstâncias do caso concreto, donde se pode concluir que o agente se dedica às atividades criminosas.
+ .. " (fl. 390).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS E IDÔNEAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE SE DEDICAVA A ATIVIDADES CRIMINOSAS. BIS IN IDEM. NÃO OCORRÊNCIA. REGIME PRISIONAL MAIS GRAVOSO. VALORAÇÃO NEGATIVA DA QUANTIDADE E VARIEDADE DOS ENTORPECENTES APREENDIDOS. POSSIBILIDADE. ILEGALIDADES NÃO CONFIGURADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n.11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2. Hipótese em que a Corte local afastou o redutor com base em elementos concretos e idôneos extraídos dos autos, os quais indicam que o paciente se dedicava a atividades criminosas. Afinal, além da expressiva quantidade de entorpecentes - 27,45g de cocaína, 2,00445kg de crack e 1,03431kg de maconha -, também foi apreendida balança de precisão e outros petrechos para embalagem das drogas, o que denota a dedicação habitual do paciente à traficância.
+3. Não ocorre bis in idem quando o julgador fixa a pena-base acima do mínimo legal em razão da quantidade e natureza das drogas apreendidas e afasta o redutor do art. 33, § 4º, da Lei n. 11.343/2006 motivado pela dedicação do agente a atividades criminosas, evidenciada pelas circunstâncias da apreensão, com destaque para a expressiva quantidade de entorpecentes apreendidos.Precedentes.
+4. A valoração negativa da quantidade, natureza e diversidade dos entorpecentes constitui fator suficiente para a determinação de regime inicial de cumprimento da pena privativa de liberdade mais gravoso.
+5. Agravo regimental não provido.
+(AgRg no HC 684.033/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/10/2021)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
