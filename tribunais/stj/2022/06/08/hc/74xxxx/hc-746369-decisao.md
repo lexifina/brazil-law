@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de YAGO HENRIQUE DA SILVAem que se aponta como autoridade coatora oTribunal de Justiça do Estado de Minas Gerais(HC n. 1.0000.22.111305-3/000).
+Opaciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público(fl. 23) e foi denunciadopor suposta prática do delito descrito nos arts. 33, caput, e 35,caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na variedadee nocividade dos entorpecentes apreendidos - 15 buchas de maconha, 11 pinos de cocaína e 4 pés de maconha-no quintal dacasa do paciente, além da apreensão da quantia de R$ 27,00 em espécie.
+Impetrado writ originário, a ordem foi denegada.
+A defesa aponta que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.Pondera queé primário, menor de 21 anos, ostenta bons antecedentes,possui residência fixa e trabalho lícito.
+Assevera ser suficiente a aplicação de medidas cautelares alternativas em substituição à segregação cautelar.
+Aduz que,caso o paciente seja condenado, a pena imposta será em regime menos gravoso.
+Requer a concessão da liberdade provisória ao paciente e a expedição de alvará de soltura em favor do mesmo, com a aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 74):
+Depreende-se dos autos haver sido o paciente denunciado pela suposta prática dos delitos previstos no art.33, caput, e art. 35 da Lei 11.343/0, sendo apreendidas em seu poder 15 (quinze) buchas de maconha, quantia em dinheiro de R$27,00 (vinte e sete reais), 11 (onze) pinos de cocaína e, no quintal de sua residência, 04 (quatro) pés de maconha.
+Analisando detidamente os autos, constata-se que, contrariamente ao afirmado em impetração, a decisão constritiva de liberdade restou amplamente fundamentada, embasando-se o magistrado na gravidade concreta do delito perpetrado.
+Decerto, no caso vertente, a censurabilidade e a gravidade da conduta justificam o decreto prisional, inexistindo situação de constrangimento ilegal.
+Dessa forma, as circunstâncias do caso concreto recomendam o indeferimento da ordem para resguardar a ordem pública, nos moldes do disposto no art. 312 do CPP, extraindo-se do decisum toda a ratio deduzida pelo julgador a convencê-lo da necessidade da custódia cautelar, em atendimento ao disposto no art. 93, IX, da CR/88.
+A medida, portanto, decorre de circunstâncias bem explicitadas nos autos, e não de mera gravidade abstrata atribuída pela lei ao tipo penal. Ademais, o Tribunal a quo destacou, motivadamente, a inaplicabilidade das medidas cautelares alternativas (art. 319 do CPP) ao caso.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se quea variedadee a nocividade dosentorpecentesapreendidos (15 buchas de maconha, 11 pinos de cocaína e 4 pés de maconha)no quintal dacasa do pacienteforam consideradas pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Acrescente-se que a "desproporcionalidade da prisão preventiva somente poderá ser aferida após a sentença, não cabendo, na via eleita, a antecipação da análise quanto a possibilidade de cumprimento de pena em regime menos gravoso que o fechado" (RHC n. 96.728/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 3/9/2018).
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
