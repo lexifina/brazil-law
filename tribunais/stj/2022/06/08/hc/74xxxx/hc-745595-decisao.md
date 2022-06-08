@@ -1,0 +1,43 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Joel Porfírio da Silva- cumprindo pena nos autos da Execução Penal n.3597859-34.2010.8.21.0021(em curso na Vara Adjunta de Execuções Criminais da comarca de Ijuí/RS)-, sob alegação de constrangimento ilegal no acórdão exarado no julgamento do Agravo de Execução Penal n.5009026-58.2022.8.21.7000(Tribunal de Justiça do Rio Grande do Sul), que manteve a decisão do Juízo da execução, no sentido deindeferir o pedido de unificação e, consequentemente, de reconhecimento da continuidade delitiva, requer-se, em liminar e no mérito, seja reconhecida a continuidade delitiva (art. 71 do CP) com a consequente unificação e redução das penas impostas em condenações distintas.
+É o relatório.
+A jurisprudência desta Corte consolidou o entendimento de que, para fins de reconhecimento da continuidade delitiva, o Código Penal adotou a teoria mista, segundo a qual se afigura imprescindível o preenchimento de requisitos de ordem objetiva (mesmas condições de tempo, lugar e forma de execução) e subjetiva (unidade de desígnios ou vínculo subjetivo entre os eventos) - RHC n. 43.601/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 18/6/2014; AgRg no REsp n. 1.258.206/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/4/2015; e HC n. 264.649/PR, Ministro Walter de Almeida Guilherme (Desembargador convocado do TJ/SP), Quinta Turma, DJe 27/11/2014.
+Aliás, não é outra a orientação do Supremo Tribunal Federal:
+ ..
+3. Nos termos da jurisprudência desta Corte, abalizada por parcela da doutrina especializada, são requisitos necessários para caracterização da continuidade delitiva, à luz da teoria objetivo-subjetiva: (a) a pluralidade de condutas; (b) a pluralidade de crimes da mesma espécie; (c) que os crimes sejam praticados em continuação, tendo em vista as circunstâncias objetivas (mesmas condições de tempo, lugar, modo de execução e outras semelhantes); e, por fim, (d) a unidade de desígnios. 4. No caso, as instâncias ordinárias apresentaram fundamentação jurídica idônea no sentido de que ficou comprovado que o paciente agiu movido por desígnios diferentes. Sendo esse o quadro, é inviável proceder ao reexame do suporte probatório que fora levado em consideração para rejeitar a existência do elemento subjetivo. Precedentes.  ..
+(HC n. 110.002/RJ, Ministro Teori Zavascki, Segunda Turma, DJe 19/12/2014)
+No caso dos autos, a Corte de origem, ao examinar as circunstâncias fáticas, rechaçou a incidência da continuidade delitiva, por não vislumbrar como preenchidos os requisitos objetivo e subjetivo e, ainda, por entender que o réu é habitual na prática delitiva(trecho extraído do acórdão exarado no julgamento doAgravo de Execução Penal n.5009026-58.2022.8.21.7000- grifo nosso)
+ ..
+Informações obtidas mediante consulta a sistema informatizado à disposição desta Corte revelam que a ação penal nº 0000196- 09.2018.8.21.0121 trata de tráfico de drogas cometido na data de 15-9-2015 na cidade de Santa Bárbara do Sul/RS, ocasião em que o apenado foi flagrado pela Brigada Militar trazendo consigo, para fins de mercancia, uma porção de Cannabis sativa (maconha) nas ruas do Município, restando apreendida a substância.
+De seu turno, o feito nº 0012447-88.2015.8.21.0016 envolve crime de tráfico de drogas cometido em Ijuí/RS, em 23-9-2015. O agravante foi preso em flagrante, em via pública, na posse de 221 gramas de Cannabis sativa (maconha), com objetivo de venda.
+Inegável, portanto, que as condenações supra decorrem de delitos com traços em comum praticados em datas próximas. Contudo, ocorreram em Municípios distintos e inclusive longes um do outro, estando a cidade de Ijuí/RS mais de 70 quilômetros de distância da localidade de Santa Bárbara do Sul/RS, como se pode inferir da imagem abaixo extraída da rede mundial de computadores:
+ ..
+Logo, não há falar que tenham decorrido de unidade de desígnios por parte do agente criminoso, despontando como crimes independentes, inobservado o aproveitamento das circunstâncias do mais remoto à prática do subsequente, decorrendo em realidade da aspiração do apenado ao tráfico de entorpecentes, inexistindo similitude de lugar necessária ao reconhecimento do benefício.
+Por este motivo apenas já mereceria o reeducando tratamento penal mais rigoroso, incontestável o elevado grau de reprovabilidade de seu comportamento, demonstrada, não bastasse isso, a utilização da senda criminal como meio de vida, a revelar verdadeira habitualidade delitiva, anotadas três outras condenações definitivas, uma das quais envolvendo tráfico de drogas e outra o crime de latrocínio sob a forma consumada, circunstância que também inviabiliza a concessão do pleiteado benefício.
+ ..
+Acerca da exigência, para além da implementação dos requisitos objetivos previstos no artigo 71 do Código Penal, de que entre as condutas haja ligação de tal modo que se possa evidenciar que as investidas subsequentes não passaram de mera continuação da originária, é a jurisprudência do Supremo Tribunal Federal, do Superior Tribunal de Justiça e deste Órgão Fracionário, do qual cito o seguinte precedente:
+ ..
+Assim, inviável o reconhecimento da ficção relativa ao crime continuado e a unificação das penas - conclusão a que também chegou o ilustre Procurador de Justiça Glênio Amaro Biffignandi em seu parecer (Evento 9, PARECER1) cujo trecho reproduzo, passando a integrar o presente como razões de decidir, com o que evito tautologia:
+ ..
+Em uma análise dos dados relacionados aos processos cujas penas pretende, o recorrente, ver unificadas, é possível observar que se trata de crimes de tráfico de drogas, praticados em 15/09/15 e 23/09/15, respectivamente nos municípios de Santa Bárbara e Ijuí.
+De pronto verifica-se que, embora os crimes em comento sejam da mesma natureza e tenham sido praticados em curto espaço de tempo, não atendem a todos os requisitos legais - insculpidos o artigo 71 do Código Penal, uma vez que perpetrados em lugares distintos.
+Todavia, este não é o único óbice ao pretendido reconhecimento da continuidade delitiva.
+O histórico pessoal do apenado - como bem destacado pelo juízo da execução - retrata a sua nítida tendência de cometer crimes.
+O relatório da Situação Processual Executória atesta que, além das condenações em comento - cujas penas pretende a defesa ver unificadas -, Joel cultiva outras três (03) sentenças penais condenatórias pretéritas, uma delas por crime idêntico.
+As condenações pelas quais o recorrente pretende ver reconhecida a continuidade, em verdade, não se mostram isoladas em sua vida. Antes o contrário; refletem sua reiteração na prática delitiva, denotando, inclusive, que Joel adotou a prática de crimes - notadamente de tráfico de drogas - como meio e vida.
+Destarte, e diante das características subjetivas evidenciadas pelo recorrente não há como se afirmar que as condenações em comento possam refletir a unidade de desígnio necessária para caracterizar a continuidade delitiva como, aliás, bem apanhado pelo Juízo da Execução  .. .
+Com efeito, no que se refere à interpretação da lei (art. 71 do CP), não há falar em ilegalidade no acórdão hostilizado; ao contrário, o aresto guarda perfeita harmonia com a jurisprudência consolidada nesta Corte.
+No mais, não há como rediscutir as conclusões do acórdão, calcadas no exame de circunstâncias fáticas, uma vez que tal providência é inviável em sede dehabeas corpus(cognição sumária).
+Nesse sentido, confira-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. CONTINUIDADE DELITIVA. REEXAME DE PROVAS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+4. Com efeito, a continuidade delitiva somente se configura quando as circunstâncias de modo, tempo e lugar da prática dos ilícitos apresentam relação de semelhança e unidade de desígnios, acarretando o reconhecimento do desdobramento da prática criminosa.
+5. Na espécie, a rediscussão da matéria mostra-se incompatível com a via mandamental eleita, porquanto, para se invalidar a conclusão da instância originária, torna-se imprescindível a reavaliação do contexto fático probatório. Precedentes desta Corte.
+6. Inexistência, portanto, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+7. Habeas corpus não conhecido.
+(HC n. 468.388/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/12/2018)
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRETENDIDA APLICAÇÃO DA CONTINUIDADE DELITIVA. ACÓRDÃO A QUO QUE ADOTOU A TEORIA MISTA. ENTENDIMENTO QUE GUARDA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE E DO STF. REEXAME. INADMISSIBILIDADE. COGNIÇÃO SUMÁRIA.
+Ordem denegada.
