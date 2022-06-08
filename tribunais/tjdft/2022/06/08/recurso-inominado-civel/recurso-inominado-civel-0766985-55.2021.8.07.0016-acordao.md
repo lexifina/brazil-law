@@ -1,0 +1,189 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+
+Processo N.
+RECURSO INOMINADO CÍVEL 0766985-55.2021.8.07.0016
+
+RECORRENTE(S)
+EDSON SOARES DE LIMA
+
+RECORRIDO(S)
+BRB BANCO DE BRASILIA S.A.
+
+Relator
+Juiz CARLOS ALBERTO MARTINS FILHO
+
+Acórdão Nº
+1427793
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. PROCESSO CIVIL. PRAZO PARA CONTRARRAZÕES. DUPLA INTIMAÇÃO. TERMO “A QUO”. INTIMAÇÃO POR MEIO ELETRÔNICO. CONSUMIDOR. IDOSO. BANCÁRIO. FRAUDE. ORIENTAÇÃO/INSTRUÇÃO PARA PROCEDIMENTOS REALIZADOS NO APARELHO CELULAR. TRANSFERÊNCIAS BANCÁRIAS REALIZADAS POR MEIO DE APLICATIVO DE CELULAR. OPERAÇÕES INCOMUNS. QUEBRA DE PERFIL NÃO IDENTIFICADA. EVIDENTE INDÍCIO DE FRAUDE. INEFICÁCIA DO SISTEMA ANTIFRAUDES. INOBSERVÂNCIA AO DIREITO DE INFORMAÇÃO ACERCA DOS PRODUTOS E SERVIÇOS PRESTADOS. CULPA EXCLUSIVA DO CONSUMIDOR NÃO COMPROVADA. FALHA NA PRESTAÇÃO DO SERVIÇO. FORTUITO INTERNO. RISCO DA ATIVIDADE ECONÔMICA. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. SÚMULAS 297 E 479 DO STJ. DANOS MATERIAIS COMPROVADOS. RESTITUIÇÃO DEVIDA. DANO MORAL CONFIGURADO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. Recurso inominado interposto pelo autor contra sentença que julgou improcedente os pedidos deduzidos na inicial consistentes na condenação do réu na obrigação de restituir os valores transferidos da sua conta corrente de forma fraudulenta, bem como ao pagamento de indenização por danos morais. A improcedência dos pedidos fundou-se na falta de provas e na ausência de verossimilhança dos fatos narrados na inicial.
+
+2. Nas razões recursais, o autor ressalta que a ligação não tinha indícios de falsidade, porquanto a pessoa que se apresentou como preposta do BRB conhecia seus dados pessoais (nome completo, data de nascimento, RG e CPF, agência onde tinha conta).
+
+3. Assevera que constou na petição inicial a informação de que sofreu danos financeiro em virtude de transferências fraudulentas. Acrescenta que o réu confirmou, em contestação, que o autor fez contato com o banco para informar a ocorrência das operações fraudulentas realizada por estelionatários.
+
+4. Refuta a conclusão exposta na sentença de que a narrativa constante no boletim de ocorrência é diversa da apresentada na petição inicial. Sustenta que a causa de pedir constante na petição inicial não pode ser analisada isoladamente, mas, sim, em conjunto com as provas apresentadas pelo autor.
+
+5. Alega que o golpe aplicado pelos estelionatários só foi possível porque conheciam os seus dados pessoais e bancários, o que evidencia o nexo causal da conduta do BRB, consistente na falha de segurança quanto ao sigilo das informações constantes no seu cadastro junto ao banco, e os danos financeiros, conforme narrado na petição inicial e no boletim de ocorrência.
+
+6. Acrescenta que o banco autorizou e efetivou as transferências fraudulentas que destoavam do perfil quando comparadas com as realizadas de forma rotineira pelo correntista. Informa que, em virtude do golpe, ficou privado de prover o sustento próprio e de sua família, inclusive para aquisição de medicamentos, realização de exames e consultas médicas, até a data de recebimento do seu salário, do mês subsequente.
+
+7. Requer a reforma da sentença para condenar o réu ao pagamento de danos materiais e morais.
+
+8. A relação jurídica estabelecida entre as partes é de natureza consumerista, haja vista as partes estarem inseridas nos conceitos de fornecedor e consumidor, conforme disposto nos artigos 2º e 3º do CDC e assentado no enunciado da súmula nº 297 do STJ, in verbis: "O Código de Defesa do Consumidor é aplicável às instituições financeiras".
+
+9. Nesse passo, a controvérsia deve ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor, que por sua vez regulamenta o direito fundamental de proteção do consumidor (CF, art. 5º, XXXII).
+
+10. Sobre o assunto o Superior Tribunal de Justiça editou a Súmula 479, segundo a qual: "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+
+11. Consigne-se, de acordo com a Lei Geral de Proteção de Dados, Lei 13.709/2018, as instituições financeiras devem zelar pela segurança e sigilo dos dados de seus usuários.
+
+12. É dever da instituição financeira, ao disponibilizar e lucrar com a prestação de serviços no mercado de consumo, fornecer mecanismos seguros para a realização das operações de forma a evitar danos aos usuários do serviço, em especial a utilização fraudulenta de dados pessoais dos consumidores.
+
+13. Nesse viés, a atuação indevida de terceiro (fraude) não rompe o nexo causal entre a conduta da instituição financeira e os danos suportados pelo consumidor, porquanto trata-se de fortuito interno (teoria do risco da atividade), relacionado os riscos inerentes ao exercício da atividade lucrativa desempenhada pelo banco (art. 14, §3º, II, CDC e Súmula 479 do STJ).
+
+14. Registre-se que a culpa exclusiva de terceiros, capaz de elidir a responsabilidade objetiva do fornecedor de produtos ou serviços, é somente aquela que se enquadra no gênero de fortuito externo (evento que não tem relação de causalidade com a atividade do fornecedor).
+
+15. Presentes os requisitos da verossimilhança da alegação e reconhecida a hipossuficiência técnica do consumidor quanto à elucidação dos fatos, a inversão do ônus da prova é medida imperativa, de forma a consolidar o encargo probatório do réu em comprovar a inexistência de defeito na prestação do serviço e culpa exclusiva da vítima (art. 6º, VIII, CDC).
+
+16. Nessa perspectiva,cumpre ao autor provar o fato, o dano e o nexo causal com a conduta do agente (verossimilhança) e, ao réu, o ônus de demonstrar a ocorrência de excludente de ilicitude a afastar o nexo de causalidade e a responsabilidade objetiva, conforme disposto no artigo 14, §3º, do CDC.
+
+17. A despeito da falsidade do atendimento, há verossimilhança nas alegações do autor de que a partir da ligação realizada em nome do banco, foi convencido da legitimidade das orientações para realização de procedimentos de verificação, já que advinda de preposto do banco que conhecia seus dados pessoais e da existência da conta corrente junto ao BRB.
+
+18. Conforme a narrativa constante na petição inicial e na ocorrência policial (ID 35062963), não infirmada pelo réu, o autor recebeu ligação em nome do BRB a fim de confirmar a realização de transferência atípica em sua conta. Ante a negativa de realização da operação a ligação foi transferida para outra suposta funcionária do banco.
+
+19. Por orientação da suposta preposta do banco, o autor foi convencido a realizar a instalação do Antivírus Desktop remoto AnyDesk, para a verificação de eventual existência de vírus. Com a instalação do programa os estelionatários passaram a ter acesso remoto ao telefone do autor, a partir do qual foram realizadas transferências fraudulentas via Pix. Constatadas as referidas transferências o correntista fez contato com a Central de Atendimento do BRB.
+
+20. O réu, por sua vez, confirma que, no dia dos fatos, foram realizadas cinco transferências via Pix, quais sejam: R$ 1,00, 17h49; R$ 1,50, 17h51; R$ 10,00, 18h01; R$ 9.896,30, 18h06; R$ 4.800,00, 18h18 (ID 35062967). Além disso, admite que, no dia dos fatos às 19h02, o autor entrou em contato com a Central de Atendimento do banco para relatar o ocorrido (ID 35062966, pág. 2)
+
+21. Necessário destacar que o autor recebeu a ligação em seu celular, de modo que se houve fraude decorreu de ausência do dever de cautela e segurança com o sigilo dos dados pessoais do cliente e dos negócios jurídicos com ele firmado, a viabilizar o acesso indevido por terceiros, e, portanto, de falha na prestação do serviço do réu, pelo qual deve responder (art. 14 do CDC).
+
+22. O fato de o autor, realizar os procedimentos indicados por suposta funcionária do banco, a qual, ressalta-se, tinha ciência do seu nome, número do celular e da existência conta corrente, certamente, confere credibilidade aos estelionatários, não só para o autor, mas também para o homem médio, de que a verificação era necessária.
+
+23. Demais disso, não se mostra razoável presumir que o consumidor, idoso (67 anos) saiba e/ou perceba a diferença entre os atendimentos oficiais e o falso gerado a partir de contato pelo seu telefone celular.
+
+24. No contexto em que os fatos ocorreram, a falsidade da ligação não poderia ser facilmente percebida e não havia motivos para o autor duvidar do atendimento realizados por supostas prepostas do réu. Desse modo, não seria exigível do autor a adoção de medidas excepcionais a fim de identificar a fraude praticada, bastando-lhe atuar com as precauções de praxe e agir de acordo com o que se espera nessas situações.
+
+25. Embora o réu afirme a ausência de responsabilidade pela fraude, certo é que possui o dever de segurança quanto aos dados dos clientes e às informações dos contratos, cuja possibilidade de acesso por pessoas mal-intencionadas contribuiu para a realização da fraude, em evidente prejuízo ao consumidor.
+
+26. O fato de os estelionatários deterem tecnologia capaz de violar os sistemas de segurança do réu e obter acesso aos dados pessoais e bancários da vítima, demonstra falta de zelo na adoção de sistemas tecnológicos capazes de evitar os danos causados em razão do vazamento de dados cujo sigilo não pode ser violado.
+
+27. Importante considerar, ainda, a eventual participação de prepostos da instituição financeira que, de forma ilícita, repassam informações sigilosas dos clientes, a evidenciar, outrossim, a falha na prestação dos serviços, seja por atuação direta da instituição ou de outros atores inseridos na cadeia dos serviços, porquanto traz credibilidade aos estelionatários.
+
+28. O réu sustenta que os fatos ocorreram por culpa exclusiva do consumidor no dever mínimo de cautela na guarda de suas credenciais. No entanto, a mera alegação de regularidade das operações financeiras e culpa exclusiva da vítima, desacompanhada de documentos ou quaisquer outros elementos de prova a infirmar os documentos e os fatos narrados na inicial, não isenta o banco da responsabilidade pelos danos causados aos consumidores por fraudes ou delitos praticados por terceiros, posto que decorrem do risco do empreendimento, e caracterizam-se como fortuito interno.
+
+29. Com efeito, a utilização do aplicativo de celular com aposição de senha, por si só, não afasta o risco de fraude. Isso porque a presunção de segurança das transações bancárias realizadas via aplicativo não é absoluta, de modo que caberia ao réu demonstrar, por outros meios de provas à sua disposição, a ausência de responsabilidade.
+
+30. Os elementos de prova demonstram que a segurança dos sistemas tecnológicos utilizados pelo banco, foram incapazes de identificar e apontar como suspeitas de fraude as operações contestadas, já que, em curto espaço de tempo (entre 17h49 e 18h18), foram realizadas cinco transferências via Pix da conta do autor (de R$ 1,00 às 17h49; R$ 1,50 às 17h51; R$ 10,00 às 18h01; R$ 9.896,30 às 18h06; R$ 4.800,00 às 18h18), que, segundo o autor, diferem, em muito, do seu perfil de movimentação bancária.
+
+31. Ressalta-se as transferências totalmente atípicas, nos valores de R$ 1,00 e R$ 1,50, seguidas de outras, de R$ 9.896,30 e R$ 4.800,00, de molde a evidenciar claro indício de fraude ou operação ilícita.
+
+32. Vale dizer: caso fossem seguros e eficientes os sistemas tecnológicos utilizados pelo réu, haveria plenas condições deidentificar e apontar como suspeita de fraude as transferências totalmente atípicas, no valor de R$ 1,00 e R$ 1,50, que fogem do perfil de qualquer usuário.
+
+33.  O réu alega que as operações efetivadas foram autorizadas eram compatíveis com o perfil de movimentação da conta do autor. Contudo, deixou de demonstrar o perfil do correntista, o que poderia ser feito, por exemplo, com a apresentação de extratos da referida conta bancária.
+
+34. Ademais, não há notícia de que a instituição financeira tenha adotado providências a fim de apurar se as operações foram realizadas pelo consumidor antes de autorizar e repassar o crédito das transações contestadas, o que também configura a falha na prestação dos serviços prestados pelo banco (art. 14 do CDC).
+
+35. A utilização indevida dos dados do autor e do aplicativo do banco para a realização de transação bancária por terceiro de má-fé, evidencia a falha na prestação do serviço quanto ao dever de sigilo no tratamento dos dados pessoais e bancários, bem como em seus sistemas de autenticação do usuário.
+
+36. Além do mais, conforme o artigo 6º, III, do CDC, é dever do fornecedor fazer chegar aos consumidores, de forma simples, clara e acessível, as informações relevantes referentes aos seus produtos e serviços, em especial quanto aos meios verificação/prevenção de fraudes.
+
+37. No caso, não restou comprovado que o autor foi informado adequadamente (art. 6º, III, CDC) e, principalmente, que compreendeu as orientações, acerca dos meios verificação/prevenção de fraudes, o que poderia ser feito, por exemplo, com o envio de e-mails ou documentos assinados pelo consumidor.
+
+38. O descumprimento do dever de prestar informações ao consumidor, como no caso concreto, configura falha na prestação de serviço a ensejar a responsabilização do réu pelos danos decorrentes da ausência de informações.
+
+39. O réu insiste na tese de inexistência de defeito na prestação de serviços, mas não logrou êxito em comprovar tais alegações. Ao contrário, já que agiu sem cautela ao deixar de adotar as medidas seguras de prevenção, mesmo diante de fortes indícios de fraude, o que poderia ter evitado o prejuízo material sofrido pelo autor.
+
+40. Assim, não há como reconhecer a ruptura do nexo causal, já que o réu, ao deixar de (i) assegurar direito básico do consumidor à informação clara, adequada e acessível; (ii) garantir a segurança dos dados pessoais e bancários de seu usuário; (iii) adotar mecanismos e protocolos eficazes na identificação de movimentações financeiras suspeitas; (iv) disponibilizar acesso a meios eficazes de atendimentos ao consumidor e (v) adotar os procedimentos recomendados pelo Banco Central para prevenção, verificação e devolução do valor do Pix realizado mediante fraude; concorreu para a implementação do dano (ainda que na modalidade omissiva), pois a fraude ocorreu em razão de golpe aplicado por estelionatários, decorrente da falha de segurança nos serviços oferecidos pelo banco.
+
+41. Caberia à instituiçãofinanceira demonstrar a inexistência de defeito na prestação do serviço, no sentido de que possuem mecanismos de segurança hábeis a evitar ou minimizar os danos causados aos consumidores nas hipóteses de fraudes praticadas por terceiros.
+
+42. Todavia, não se desincumbiudo ônus de demonstrar fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, II, do CPC), o que reforça a verossimilhança dos fatos narrados e comprovados pelodemandante.
+
+43. Configurada a defeituosa prestação dos serviços (art. 14, §1º, I e II, CDC), responde o réu pelos danos causados, porquanto a fraude cometida por terceiro não pode ser considerada ato isolado e exclusivo do infrator, apta a excluir o nexo de causalidade entre a conduta do fornecedor e os danos causados ao consumidor.
+
+44. Certo é que as fraudes como a dos autos são de conhecimento das instituições financeiras e não se efetivariam sem o acesso aos dados do autor, tampouco, de forma alheia às estruturas tecnológicas e procedimentos utilizados, bem como poderia ser evitada/minorada com o reforço das medidas de segurança, como, por exemplo, a verificação biométrica largamente utilizada nos sistemas de autenticação de usuário.
+
+45. Evidente que, mesmo ciente das inúmeras fraudescomautilização indevida do aplicativo do banco, aodisponibilizar a opçãodesse meio para realização de operaçõessem a adoção de mecanismos mais seguros, o banco assume o risco pelos danos decorrentes das fraudes, mormente nas relações contratuais celebradas com idoso (64 anos) que, sabidamente, é mais exposto às práticas delituosas como a narrada na inicial.
+
+46. Se de um lado, a instituição financeira se beneficia com a redução dos custos e com a propagação das operações bancárias realizadas remotamente, sem contato direto com funcionários do banco (aumento na lucratividade da atividade), de outro, sujeita-se mais facilmente a ocorrência de fraudes, devendo por elas responder.
+
+47. Por outras palavras, pela dimensão dos lucros que as instituições financeiras auferem com os serviços prestados, certo é que assumem os riscos a eles inerentes (dever de cuidado objetivo), inclusive pela utilização indevida do aplicativo por estelionatários, não sendo razoável que pretendam transferir aos consumidores, hipossuficientes, os ônus/prejuízos resultantes das atividades econômicas que exploram, notadamente por meio de alegações sem nenhum suporte probatório (art. 373, inciso II, CPC).
+
+48. É dever da instituição financeira, que lucra com a prestação de serviços no mercado de consumo, oferecer mecanismos seguros para a realização das operações bancárias de forma a evitar danos aos usuários do serviço, em especial a utilização fraudulenta de dados pessoais dos consumidores.
+
+49. O uso indevido do aplicativo do bancofaz incidir sobre a instituição financeira responsabilidade pelo ato, porquanto a fraude cometida por terceiro não pode ser considerada ato isolado e exclusivo do infrator, apta a excluir o nexo de causalidade entre a omissão do fornecedor e o dano sofrido peloconsumidor.
+
+50. Trata-se de fortuito interno, pois a fraude em questão se inclui no risco da atividade econômica exercida pelas instituições financeiras, especialmente porque ausente demonstração de qualquer circunstância capaz, em tese, de afastar a responsabilidade objetiva do réu (art. 14, §3º, I e II, CDC e súmula 479 do STJ).
+
+51. Diante da comprovação do dano e da ausência de excludentes que afastem a responsabilidade do réu, sobretudo em se tratando de consumidor idoso (67 anos), verifica-se que o autor faz jus à restituição correspondente ao valor total das transferências realizadas mediante fraude (art. 6º, VI, CDC).
+
+52. Concernente ao dano moral indenizável, observa-se que, no caso em comento, restou configurado.
+
+53. O dano moral decorre do abalo a qualquer dos atributos da personalidade, em especial à dignidade da vítima, desencadeada pelo evento (art. 5º, V e X, CF).
+
+54. O autor teve seus dados pessoais vazados e os valores de seu trabalho subtraídos de sua conta. Além disso, ao buscar auxílio do banco, lhe foi dito que nada poderia ser feito e que a culpa pelo ocorrido era exclusivamente sua.
+
+55. As operações realizadas mediante fraude, certamente, causaram desequilíbrio nas finanças do autor, que ficou impossibilitado de cobrir as despesas mensais de sua família.
+
+56. O réu, ciente da fraude edos reclames do autor, deixou de adotar as medidas necessárias e possíveis capazes de evitar a transferência ou, se o caso, para promover a devolução do Pix, a redundar em incontestes transtornos e aborrecimentos ao consumidor, mormente em razão do valor expressivo das transferências realizadas mediante fraude (R$ 14.636,30).
+
+57. Supera os limites do mero dissabor e evidencia aviolação de direito de personalidade a realização de transferências bancárias mediante fraude praticada por terceiro com a utilização indevida dos dados do autor, seguida de atitude desidiosa do fornecedor em resolver o problema extrajudicialmente, a despeito do prejuízo material decorrente da falta de segurança dos sistemas tecnológicos utilizados no fornecimento dos serviços.
+
+58. Na seara da fixação do valor da reparação devida, mister levar em consideração a gravidade do dano, a peculiaridade do lesado, além do porte econômico da lesante. Também não se pode deixar de lado a função pedagógico-reparadora do dano moral consubstanciada em impingir ao réu uma sanção bastante a fim de que não retorne a praticar os mesmos atos, sem, contudo, gerar enriquecimento sem causa.
+
+59. Sopesados todos estes elementos, razoável e proporcional arbitrar o valor da reparação por danos morais em R$ 5.000,00 (cinco mil reais).
+
+60. Dessarte, a reforma da sentença para condenar o réu ao pagamento de indenização pelos danos materiais e morais, é medida que se impõe.
+
+61. Por fim, quanto à alegação de que as contrarrazões foram apresentadas intempestivamente, sem razão o autor/recorrente. Isso porque, o prazo para apresentar contrarrazões ao recurso inominado em sede de Juizados Especiais Cíveis é o mesmo do previsto para a interposição de recurso inominado, qual seja, 10 (dez) dias úteis, contados da data em que a parte teve ciência do ato, a teor do que dispõe o artigo 12-A c/c o art. 42, ambos da Lei nº 9.099/95.
+
+62. No caso em exame, verifica-se a ocorrência de duplicidade de intimação acerca da interposição do recurso inominado e do prazo para apresentar contrarrazões (publicação no Diário de Justiça eletrônico e intimação por meio eletrônico).
+
+63. O artigo 5º da Lei nº 11.419/2006, que disciplina a informatização do processo judicial, dispõe que: “Art. 5º As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico. §1º Considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização”.
+
+64. No mesmo sentido, o artigo 5º, caput e §1º, da Portaria GC 160 DE 11 de outubro de 2017, dispõe que: “Art. 5º. A comunicação eletrônica “via sistema” dos atos processuais substitui qualquer outro meio de publicação oficial, à exceção dos casos previstos em lei. § 1º Considera-se aperfeiçoada a citação ou a intimação, ensejando o início da fluência dos respectivos prazos, no momento em que o destinatário consultar efetivamente o ato processual no sistema PJe, a partir do "login" e da senha disponibilizados.”.
+
+65. Assim, o prazo começa a fluir a partir da ciência (expressa ou tácita) do ato processual pelo patrono no Portal Eletrônico do Tribunal, independente da publicação no diário oficial ou via carta registrada.
+
+66. Conforme informações constantes na aba de “expedientes” do sistema PJe (origem), tem-se que o réuregistrou ciência da intimaçãono dia 05/05/2022, às 12h49, passando o prazo a ser computado no próximo dia útil seguinte, 06/05/2022, e encerrando-se no dia 19/05/2022, em conformidade com o disposto no § 1º, do artigo 5º da Portaria GC 160 de 11 de outubro de2017. Desse modo, as contrarrazões apresentadas em 05/05/2022 são tempestivas.
+
+67. Recurso conhecido e parcialmente provido.
+
+68. Sentença reformada para condenar o réu a responder pelos danos materiais causados ao autor, no valor de R$ 14.696,30, que deverá ser acrescido de juros de 1% ao mês, a partir da citação (art. 405 do CC), e correção monetária, a contar do desembolso (Súmula 43 do STJ); bem como pagar o montante de R$ 5.000,00 (cinco mil reais), a título de reparação pelos danos extrapatrimoniais, acrescido de juros de 1% ao mês, a partir da citação (art. 405 do CC), e correção monetária, a contar desta decisão (Súmula 362 do STJ).
+
+69. Sem custas processuais e honorários advocatícios, ante a ausência de recorrente integralmente vencido (art. 55, Lei nº 9.099/95.
+
+70. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n.º 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, CARLOS ALBERTO MARTINS FILHO - Relator, EDI MARIA COUTINHO - 1º Vogal e DANIEL FELIPE MACHADO - 2º Vogal, sob a Presidência do Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA, em proferir a seguinte decisão: CONHECIDO. PARCIALMENTE PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 08 de Junho de 2022
+
+Juiz CARLOS ALBERTO MARTINS FILHORelator
+
+RELATÓRIO
+
+Dispensado o relatório. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz CARLOS ALBERTO MARTINS FILHO - Relator
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+A Senhora Juíza EDI MARIA COUTINHO - 1º Vogal Com o relator
+
+O Senhor Juiz DANIEL FELIPE MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PARCIALMENTE PROVIDO. UNÂNIME.
