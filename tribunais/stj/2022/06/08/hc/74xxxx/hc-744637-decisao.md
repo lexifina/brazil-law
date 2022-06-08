@@ -1,0 +1,11 @@
+DECISÃO
+CLAUDENIR CORREIA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+O paciente foi condenado a 7 meses de detenção, no regime aberto, e ao pagamento de 10 dias-multa. Constou da sentença a proibição, por2 meses, de se obter a permissão ou habilitação para dirigir veículo automotor, ante a incursão noart.306, § 1º,I, da Lei n. 9.503/1997. A Defensoria Pública sustente ser possível a substituição da pena privativa de liberdade por restritiva de direitos, pois as circunstâncias judiciais foram todas favoráveis ao réu.
+Decido.
+Constou da sentença: "diante da pena fixada, bem como pela reincidência do acusado em crime doloso, não se encontram preenchidos os requisitos do art. 44 e 77 do Código Penal" (fl. 518).
+A defesa não arguiu, na petição da apelação, que a substituição da pena privativa de liberdade por restritiva de direitos é socialmente recomendável ao réu reincidente não específico. Nesse contexto, diante da preclusão consumativa, a matéria deixou de ser enfrentada pelo Tribunal de Justiça. O habeas corpus é substitutivo de recurso especial e a questão não está prequestionada.
+Está caracterizada a indevida supressão de instância e nem sequer de ofício é possível, em habeas corpus, acrescer fundamentação inédita para suprir a ausente análise sobre a suficiência de aplicação de penas substitutivas ao réu reincidente não específico. Seria preciso compulsar os dados de sua conduta e de sua anterior condenação.
+O"art. 44, II, do Código Penal, deve ser interpretado de forma conjunta com o § 3º do mesmo dispositivo, ou seja, asubstituiçãodas penas deve sersocialmente recomendável,acrescendo-se que o réu não pode ser reincidente específico"(AgRg no AREsp n. 2.006.280/SP, relator Ministro Olindo Menezes (desembargador Convocado do Trf 1ª Região), Sexta Turma, DJe de 1/4/2022). A atividade, sujeita a certa margem de discricionariedade motivada, precisava ter sido realizada na origem.
+Assim, ointuito de debater matéria sujeita a certa discricionariedade judicial, não ventilada em embargos de declaração à sentença nemtrazidainicialmente na apelaçãoreveste-se de indevida supressão de duas instâncias, impedindo o seu conhecimento do habeas corpus.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
