@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE JOAQUIM FRANCISCO DOS SANTOS contra decisão do Tribunal de Justiça do Paraná que inadmitiu o recurso especial que interpusera em virtude de manifesta intempestividade.
+Nas razões do agravo, a parte agravante sustenta, em síntese, a tempestividade do recurso especial, tendo em vista que "o próprio despacho que nega seguimento ao recurso indica que o recesso forense que elasteceu o prazo recursal encontra-se previsto no artigo 2º do Decreto Judiciário nº 642/2021do TJ/PR, não há prejuízo na análise da tempestividade pelo Egrégio Tribunal Superior. Mesmo que presente o prejuízo, frisa-se que é possível a demonstração da tempestividade por feriado local em Agravo Regimental, sendo esta a jurisprudência deste Tribunal" (e-STJ Fl. 975).
+É o breve relatório.
+Passo a decidir.
+A irresignação da parte agravante não merece guarida, em razão da patente intempestividade do recurso especial interposto.
+Compulsando os autos, contata-se que, ao contrário do que que pretende fazer crer a parte agravante, a intimação do acórdão recorrido se deu em 16/12/2021 (e-STJ, fl.929).
+Desse modo, o prazo para a interposição do recurso especial teve início no dia 17/12/2021 e se encerrou em 09/02/2021. Contudo, a parte ora agravante somente manejou o apelo especial em 10/02/2022 (fl. 931, e-STJ), portanto, fora do prazo legal de 15 (quinze) dias úteis, nos termos dos arts. 219 e 1.003, § 5º, do CPC/2015.
+Cumpre esclarecer que se encontra pacificado nesta Corte, que a eventual ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, Relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Com efeito, aCorte Especial deste Superior Tribunal de Justiça, recentemente, por ocasião do julgamento do Recurso Especial n. 1.813.684/SP, reafirmou que é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso.
+Eis a ementa do acórdão:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MODULAÇÃO DOS EFEITOS DA DECISÃO. NECESSIDADE. SEGURANÇA JURÍDICA. PROTEÇÃO DA CONFIANÇA.
+1. O novo Código de Processo Civil inovou ao estabelecer, de forma expressa, no § 6º do art. 1.003 que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A interpretação sistemática do CPC/2015, notadamente do § 3º do art. 1.029 e do § 2º do art. 1.036, conduz à conclusão de que o novo diploma atribuiu à intempestividade o epíteto de vício grave, não havendo se falar, portanto, em possibilidade de saná-lo por meio da incidência do disposto no parágrafo único do art. 932 do mesmo Código.
+2.Assim, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso.
+3. Não se pode ignorar, todavia, o elastecido período em que vigorou, no âmbito do Supremo Tribunal Federal e desta Corte Superior, o entendimento de que seria possível a comprovação posterior do feriado local, de modo que não parece razoável alterar-se a jurisprudência já consolidada deste Superior Tribunal, sem se atentar para a necessidade de garantir a segurança das relações jurídicas e as expectativas legítimas dos jurisdicionados.
+4. É bem de ver que há a possibilidade de modulação dos efeitos das decisões em casos excepcionais, como instrumento vocacionado, eminentemente, a garantir a segurança indispensável das relações jurídicas, sejam materiais, sejam processuais.
+5. Destarte, é necessário e razoável, ante o amplo debate sobre o tema instalado nesta Corte Especial e considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, que sejam modulados os efeitos da presente decisão, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+6. No caso concreto, compulsando os autos, observa-se que, conforme documentação colacionada à fl. 918, os recorrentes, no âmbito do agravo interno, comprovaram a ocorrência de feriado local no dia 27/2/2017, segunda-feira de carnaval, motivo pelo qual, tendo o prazo recursal se iniciado em 15/2/2017 (quarta-feira), o recurso especial interposto em 9/3/2017 (quinta-feira) deve ser considerado tempestivo.
+7. Recurso especial conhecido.(REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe 18/11/2019) - g.n.
+Assim, percebe-se que se mostra cristalina a intempestividade do recurso especial interposto.
+Por fim, Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 17% sobre o valor atualizado da causa, observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). RECURSO ESPECIAL INTEMPESTIVO.RECONHECIMENTO DA INTEMPESTIVIDADE.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
