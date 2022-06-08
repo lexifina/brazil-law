@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por STEMAC S/A GRUPOS GERADORES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - Sentença de procedência - Irresignação da ré Negativação indevida do nome da pessoa jurídica autora, referente a débito que já estava pago Fato incontroverso - Dano moral que se configura in re ipsa, ainda que se trate de pessoa jurídica - Fixação em R$5.000,00, consoante os princípios da proporcionalidade e razoabilidade - Sentença mantida - Recurso desprovido, com majoração da verba honorária.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 944 do CC, no que concerne à necessidade de reduzir o quantum arbitrado a título de indenização por danos morais, trazendo o(s) seguinte(s) argumento(s):
+Necessário frisar primeiramente que de há muito consolidou-se entendimento neste Egrégio Superior Tribunal de Justiça da possibilidade de revisão de valores arbitrados a título de Danos Morais, quando estes destoam da razoabilidade e da proporcionalidade.
+ ..
+Por conseguinte, não pode ser mantida a condenação imposta à parte Recorrente na monta de R$ 5.000,00 (cinco mil reais), sob o ponto de vista dos Princípios da Razoabilidade e Proporcionalidade.
+A título de argumentação, mostra-se temerária a fixação do quantum em montante elevado com relevo ao aspecto punitivo, uma vez que esta eventual opção do julgador por verdadeira punição determina como consequência imediata a descaracterização de propósito do instituto do dano moral que é unicamente o ressarcimento e/ou satisfação, violando- se desta forma, o princípio da proporcionalidade.
+ ..
+E o caso em tela está a demonstrar que a condenação, No montante em que fora arbitrada, mostra-se absurda e temerária, não estando configurado sequer o dano moral a ponto de dar sustentação ao pleito veiculado.
+Com efeito, para a fixação da verba indenizatória, imperiosa é a aplicação das regras contidas no atual Código Civil, que, acerca da matéria, determina, in verbis:
+ ..
+No caso concreto, há que se notar que diferentemente do apontado pelo Eminente Relator do Apelo do qual emerge a decisão vergastada, não se configura Dano Moral in re ipsa quando se trata de Pessoa Jurídica.
+ ..
+Não há nos autos e nas decisões protestadas elementos que autorizem a conclusão que a Pessoa Jurídica Recorrida tenha experimentado Danos Morais (à imagem) na monta de R$ 5.000,00 (cinco mil reais).
+Aliás, distoa da Jurisprudência do Superior Tribunal de Justiça em casos análogos, envolvendo protestos reputados como indevidos face a Pessoa Juridica o quantum arbitrado no valor de R$ 5.000,00 (cinco mil reais), não tendo havido no Acórdão impugnado apontamento de elementos que fizessem crer ser legítima condenação em tal monta.
+A jurisprudência do Superior Tribunal de Justiça em casos análogos, além de prever a possibilidade de revisão do quantum indenizatório quanto se mostrar excessiva a condenação, traz em casos análogos valores muito abaixo daqueles apontados na origem, que são absolutamente indevidos.
+Assim, caso seja mantida a condenação da parte Recorrente ao pagamento dos aludidos danos morais suportados pela Recorrida, requer- se, desde já, a reforma da decisão recorrida e a redução do quantum arbitrado, que segue os parâmetros da Jurisprudência dessa Corte (fls. 144-149).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com fulcro em tais premissas, em cotejo com os princípios da razoabilidade e proporcionalidade e correlato subprincípio da proibição do excesso, a compensar os abalos experimentados pela autora, sem constituir em enriquecimento sem causa, o montante de R$ 5.000,00, a título de danos morais, revela-se adequado ao caso concreto (fl. 134).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
