@@ -1,0 +1,7 @@
+DECISÃO
+GUILHERME VINICIUS VALTERalega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O recorrente, segregado provisoriamente desde 9/5/2022, por suspeita de tráfico de drogas, pede a revogação ou a substituição da prisão preventiva, por considerar que não estão presentes seus requisitos ensejadores e que a medidaé desproporcional ao caso concreto, ante a pequena quantidade de droga apreendida e as suas condições pessoais favoráveis.
+O remédio constitucional não está instruído comcópia da decisão que decretou a prisão preventiva, com o auto de flagrante, a denúncia ou outro documento que permita a esta Corte compulsar a quantidade de droga apreendida e a dinâmica dos fatos tidos como delituosos. Os impressos são essenciais para se identificar a aventada ilegalidade ao direito de locomoção, pois a parte assinala o vício de fundamentação do periculum libertatis e a desproporcionalidade do emprego da cautela máxima em face das especificidades do caso concreto.
+A ação constitucional de natureza mandamental tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exigeprova pré-constituída das alegações, pois não comporta dilação probatória. Era obrigatório ao postulanteapresentar documentos para a correta instrução do recurso ordinário em habeas corpus, sob pena de não conhecimento do remédio constitucional, ônusque não cumpriu.
+À vista do exposto, não conheço do recurso ordinário.
+Publique-se e intimem-se.
