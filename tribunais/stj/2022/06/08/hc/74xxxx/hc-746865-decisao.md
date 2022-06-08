@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado, em favor de VANDERLAN WESLEY BARBOSA UBERTI, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, proferido na Apelação Criminal n.5002187-26.2014.8.21.0039, assim ementada:
+"APELAÇÃO. TRÁFICO DE ENTORPECENTE. CRIME E AUTORIAS COMPROVADOS. PROVA. PALAVRA DO POLICIAL. VALOR. CONDENAÇÕES MANTIDAS.
+Os depoimentos dos policiais envolvidos nas diligências que culminaram com a acusação da prática de um crime por parte dos apelantes devem ser analisados como os de qualquer outra pessoa. Não se imagina que, sendo o policial uma pessoa idônea e sem qualquer animosidade específica contra o agente, vá a juízo mentir, acusando falsamente inocentes.
+Aqui, em prova convincente, os policiais militares informaram que receberam informações sobre duas pessoas que estavam vendendo entorpecentes. Foram até o local e, avistando as pessoas com as características dadas, fizeram a prisão do apelantes. Revistados, encontraram com eles porções de maconha e de cocaína. Ou seja, ficou comprovado que os recorrentes estavam traficando entorpecentes na ocasião.
+PENA. PUNIÇÃO APLICADA SEM ERRO OU ABUSO. CONFIRMADA. Sobre a pena-base e acréscimos ou reduções em face às agravantes e às atenuantes, sua aplicação é muito subjetiva. Tanto que as Cortes Superiores têm orientado no sentido que se deve, tanto quanto possível, aceitar aquela fixada na sentença. Sua alteração só deve acontecer, quando se verificar grave erro na imposição da reprimenda.
+No caso, como se vê da decisão em exame, não houve erro ou abuso da autoridade judicial, quando fixou as penas dos apelantes. Deste modo, seguindo-se a orientação referida acima, elas são mantidas como aplicadas. Apelos desprovidos." (fls. 20/21)
+Consta dos autos que o Tribunal a quo condenou o paciente, com incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas) àpena de 4 anos e 2 meses de reclusão, em regime semiaberto, por ter em posse, junto ao corréu, 17 torrões de maconha e duas buchas de cocaína.
+Daí o presente writ, no qual o impetrante aduz fundamentação inidônea para a concessão do benefício do art. 33, § 4º,da Lei 11.343/06 em apenas 1/6, alegando que o mesmo faria jus ao percentual máximo da benesse, de 2/3, graças aos seus bons antecedentes e pela baixa quantidade de droga apreendida.
+Requer, em liminar e no mérito, a aplicação da minorante do art. 33, § 4º, da Lei acima no patamar máximo de 2/3.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+O paciente foi preso por trazer consigo, para fins de comercialização e difusão ilícita a terceiros, 17 torrões de maconha e 2 buchas de cocaína,razão pela qual foi condenado por tráfico ilícito de drogas, no qual o Tribunal a quo realizou a dosimetria agora em discussão:
+"Quanto ao acusado Vanderlan salientou que agiu com vontade livre.. Não possui antecedentes (fl. 178). Personalidade normal. A conduta social.. O motivo era a venda.. As circunstâncias são comuns à espécie delituosa. As consequências são nefastas..
+"Destarte, com base nos vetores do art. 59 do Código Penal e art.42 da Lei 11.343/2006, fixo a pena-base no mínimo legal, ou seja, 05 anos de reclusão..
+"..
+"Condeno-o, também, ao pagamento de 500 dias-multa..
+"Por ser primário e não fazer do crime o seu meio de vida, viável a aplicação da redução prevista no art. 33, § 4º, da Lei 11.343/06 e, portanto, considerando a quantidade de entorpecentes apreendidos, diminuo a reprimenda em um sexto, restando finalizada em 04 anos e 02 meses de reclusão, e 416 dias-multa.. ""(fl. 27)
+Na hipótese dos autos, os fundamentos apresentados pelas instânciasordináriasestão em consonânciacom o entendimento atualmente predominante nestaCorte, no sentido de que, em relação à minorante previstano § 4º do art. 33 da Lei n. 11.343/06,diante da "falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico"(AgRg no AREsp 1.976.007/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/02/2022).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
