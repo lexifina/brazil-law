@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo de Direito da 2ª Vara Criminal de Várzea Grande/MT em face do Juízo de Direito da Vara Única de Descanso/SC, nos autos de inquérito em que se apura a prática, em tese, do crime de estelionato (art. 171 do Código Penal).
+Consta nos autos que a fraude perpetrada envolve compra e venda de veículo sem ocorrespondente pagamento, com entrega mediante apresentação de comprovante de transferência falso.
+O Juízo suscitante manifestou entendimento no sentido de que o crime se perfaz no local de domicílio da vítima, segundo recente alteração jurisprudencial. O Juízo suscitado, por sua vez, entende que o crime se consumou no local onde supostamente ocorrida a transferência e depósito dos valores.
+Na linha de precedentes do STJ, o Ministério Público Federal se manifestou pelo reconhecimento da competência do juízo suscitado.
+É o relatório.
+O conflito merece ser conhecido, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição desta Corte, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+A controvérsia cinge-se, como já dito, à fixação da competência para o julgamento de crime de estelionato.O tema sempre foi objeto de inúmeras discussões doutrinárias e diferentes posições jurisprudenciais. A Terceira Seção do Superior Tribunal de Justiça possuía entendimento no sentido de que, na prática desse tipo de estelionato, o crime se consuma no momento em que os valores entram na esfera de disponibilidade do autor (CC 169.053/DF, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, DJe 19/12/2019; CC 171.455/MG, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, DJe14/12/2020).
+Ocorre que recente modificação legislativa logrou colocar uma pá de cal sobre a controvérsia, já que a atual redação do art. 70, §4º, do Código de Processo Penal, modificado pela Lei n. 14.155/2021, estabelece que a competência, na hipótese, deve ser definida pelo local do domicílio da vítima. Confira-se:
+Art. 70. A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+(..)
+§ 4º Nos crimes previstos no art. 171 do Decreto-Lei n.º 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção. (Incluído pela Lei n.º 14.155, de 2021).
+A modificação legislativa apontada já provocou a desejada alteração no posicionamento dos componentes da Terceira Seção, a exemplo da decisão prolatada no Conflito de Competência nº 176961/MG, monocraticamente julgado pelo Ministro Sebastião Reis em 29/6/2021. Comungo do entendimento de Sua Excelência, uma vez que a atual redação do art. 70 do CPP não deixa margem para dúvidas.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara Única de Descanso/SC para a condução do inquérito e, se for o caso, da subsequente ação penal.
+Cientifiquem-se os Juízos suscitante e suscitado.
+Estando esta decisão em consonância com o entendimento do Ministério Público Federal, nada mais havendo, ao arquivo.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO STJ PARA SOLUÇÃO DO CONFLITO. CONHECIMENTO. ESTELIONATO. DEPÓSITO FRAUDULENO. ART. 70, §4º, DO CÓDIGO PENAL, MODIFICADO PELA LEI 14.155/2021. COMPETÊNCIA DO LOCAL DE DOMICÍLIO DA VÍTIMA.
+1. O Superior Tribunal de Justiça é competente para o julgamento de conflito entre Juízos vinculados a Tribunais diversos, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+2. Conforme a nova redação do §4º do art. 70 do Código de Processo Penal, inserido pela Lei n. 14.155/2021, nos crimes de estelionato praticados mediante depósito, emissão de cheques sem fundo ou transferência de valores, a competência será definida pelo local do domicílio da vítima.
+3. Conflito conhecido com o reconhecimento da competência do Juízo de Direito da Vara Única de Descanso/SC, o suscitado.
