@@ -1,0 +1,27 @@
+DECISÃO
+Trata-sede habeas corpus com pedido liminar impetrado em favor de JONATA PHELYPE DA SILVA, KLEBER PEREIRA DO NASCIMENTO e NEIMERSON ALVES DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0019253-57.2021.8.17.9000).
+Depreende-se dos autos que os pacientes foram presos em flagrante, custódia essa convertida em preventiva, em razão da suposta prática dos crimes de receptação e adulteração de sinal identificador de veículo automotor.
+Impetrado habeas corpus na origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fl. 19):
+HABEAS CORPUS. PRISÃO PREVENTIVA. RECEPTAÇÃO.ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR.CONCURSO MATERIAL E DE PESSOAS. DECRETO DE PRISÃO DE OFÍCIO. EXISTÊNCIA DE REQUERIMENTO POR PARTE DO ÓRGÃO MINISTERIAL CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+Nestewrit, sustenta a defesa que, "no caso em tela, sem que houvesse qualquer pedido formulado pelo representante do Ministério Público, a magistrada decretou a prisão preventiva dos réus" (e-STJ fl. 9).
+Aduz que "a Juíza de primeira instância, confessadamente, "discordou frontalmente" da decisão do Juízo de custódia e, sem provocação do representante ministerial, reformou a decisão anterior, decretando a preventiva dos pacientes. O procedimento adotado pelo Juízo singular representa, igualmente, verdadeira subversãoe desprezo ao sistema recursal vigente em nosso ordenamento jurídico. Ora, concedida a liberdade provisória ao acusado, a revisão dessa decisão pelo Poder Judiciário deve ser feita pela segunda instância em sede de recurso em sentido estrito, a ser interposto pelo Ministério Público" (e-STJ fls. 9/10).
+Busca, inclusive liminarmente, a expedição de alvarás de soltura em favor dos pacientes (e-STJ fls. 3/12).
+O pedido liminar foi indeferido (e-STJ fls. 111/113).
+Informações prestadas (e-STJ fls. 118/121 e 125/128).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 130/134).
+É o relatório.
+Decido.
+Insurge-se a defesa contra a prisãopreventiva imposta aos pacientes, sob o argumento de que a restrição das liberdades foi decretada de ofício.
+Na espécie, o colegiado estadual destacou que (e-STJ fl. 18):
+A impetrante alega que a restrição da liberdade fora decretada sem que houvesse requerimento do Ministério Público, em suposta ofensa ao art. 311 do Código de Processo Penal.
+No entanto, da leitura dos autos se observa que o órgão ministerial, nos autos originários, requereu a conversão da prisão em flagrante em preventiva, nos seguintes termos:
+ ..  com fundamento nos arts. 311 e 312 do Código de Processo Penal, bem como levando em consideração a gravidade do crime, as circunstâncias do fato e, principalmente, as condições pessoais do agente, pugno pela homologação do flagrante e a imediata conversão da prisão em flagrante de em prisão preventiva de Kleber Pereira do Nascimento, Jonata Phelype da Silva, Neimerson Alves dos Santos, pois a adoção de qualquer outra cautelar, dentre as previstas no art. 319 do CPP (com redação alterada pela Lei nº 12.403, de 04 de maio de 2011), por certo, resultará ineficaz. ..  (destaques acrescidos)
+O cerne do caso em questão não gira, portanto, em torno da possibilidade do decreto de prisão de ofício pelo magistrado, como quis dar a entender a impetrante. Na verdade, o Ministério Público pugnou pela prisão preventiva.
+Nesse sentido, o argumento de que a segregação cautelar foi decretada de ofício não merece prosperar.(Grifei.)
+A mais disso, o Ministério Público estadual assim se manifestou em seu parecer (e-STJ fl. 31):
+ .. em consulta ao Sistema Arquimedes (do Ministério Público), constatou que a representante do Parquet, na primeira instância, nos autos originários, requereu a conversão da prisão em flagrante em preventiva, assim se manifestando, in fine: "com fundamento nos arts. 311 e 312 do Código de Processo Penal, bem como levando em consideração a gravidade do crime, as circunstâncias do fato e, principalmente, as condições pessoais do agente, pugno pela homologação do flagrante e a imediata conversão da prisão em flagrante de em prisão preventiva de Kleber Pereira do Nascimento, Jonata Phelype da Silva, Neimerson Alves dos Santos, pois a adoção de qualquer outra cautelar, dentre as previstas no art. 319 do CPP (com redação alterada pela Lei nº 12.403, de 04 de maio de 2011), por certo, resultará ineficaz ".
+Assim, vê-se que, in casu, a autoridade impetrada houve por decretar a prisão cautelar dos pacientes, ante representação oriunda do Ministério Público, na forma acima referenciada.(Grifei.)
+Nota-se que, emaudiência de custódia, oParquetpugnou pela conversão da prisão em flagrante em preventiva.
+Logo, não se verifica o alegado constrangimento ilegal apto a justificar a concessão da liberdade aos pacientes, notadamente porque o Juízo de primeiro grau destacou que "no caso presente tem-se que os Pacientes possuem um histórico, inclusive desde a menoridade penal, em crimes, principalmente voltados para o tráfico de drogas e homicídios, além de, recentemente, terem sido beneficiados por outros Juízoscom a liberdade mediante monitoramento eletrônico e, ao voltarem a cometer crimes, por si só, jáimporta na revogação do benefício, além de constar nos autos a conexão dos três com indivíduo de alta periculosidade" (e-STJ fl. 126).
+Ante o exposto,denego a ordem.
+Publique-se. Intimem-se.
