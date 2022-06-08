@@ -1,0 +1,88 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.REMESSA NECESSÁRIA CÍVEL 0702499-72.2022.8.07.0001JUIZO RECORRENTE(S)VALENTINA SAADE PERIGORECORRIDO(S)FUNDACAO BRASILEIRA DE EDUCACAO FUBRAERelatorDesembargador ESDRAS NEVES Acórdão Nº1430325
+
+EMENTA
+
+REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. ENSINO MÉDIO. CONCLUSÃO. APROVAÇÃO EM VESTIBULAR. AVANÇO NOS ESTUDOS. TEORIA DO FATO CONSUMADO. A impetrante, aprovada em vestibular, obteve, em liminar, posteriormente confirmada por sentença, provimento favorável para ser submetida à avaliação de aprendizagem e receber o respectivo certificado de conclusão do Ensino Médio para fins de matrícula na Universidade. Na hipótese, deve ser aplicada a teoria do fato consumado, em respeito aos princípios da estabilidade das relações sociais e da segurança jurídica, tendo em vista que a reversibilidade da demanda somente causaria prejuízos desnecessários aos direitos sociais alcançados pela impetrante, que já estava prestes a concluir o ensino médio e possuía 18 anos completos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ESDRAS NEVES - Relator, ALFEU MACHADO - 1º Vogal e LEONARDO ROSCOE BESSA - 2º Vogal, sob a Presidência do Senhor Desembargador ALFEU MACHADO, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Junho de 2022
+
+Desembargador ESDRAS NEVESRelator
+
+RELATÓRIO
+
+Trata-se de REEXAME NECESSÁRIO em Mandado de Segurança, com pedido liminar, impetrado por VALENTINA SAADE PÉRIGO, em face do ato do DIRETOR DO CENTRO DE ENSINO TECNOLOGICO DE BRASILIA - CETEB DE BRASÍLIA, que negou à impetrante a antecipação da aplicação das provas de conclusão e a consequente emissão de certificado de conclusão do ensino médio.
+
+Em suas considerações iniciais, a impetrante alega que já completou 18 anos e logrou aprovação em 3 processos seletivos dificílimos e conceituados, incluindo o curso de Direito da PUC/SP. Destaca que é aluna com altas habilidades/superdotação, conforme declaração de avaliação psicológica com resultado do teste de inteligência e de maturidade que nela foi aplicado (ID 34811394). Sustenta que a negativa de matrícula em curso supletivo para a conclusão do ensino médio é ato abusivo e arbitrário, pois já cursou 1 semestre do terceiro ano do ensino médio em sua escola, dado que estuda em escola internacional, cujo calendário é diferente do brasileiro, tendo iniciado o primeiro semestre do terceiro ano do ensino médio em agosto de 2021.
+
+O pedido liminar foi deferido (ID 29988580).
+
+Notificado (34811467), o impetrado não prestou informações.
+
+A impetrante comunicou a execução da ordem (ID 34811468).
+
+O Juízo da Sétima Vara Cível de Brasília confirmou o pedido liminar e concedeu a segurança pleiteada, para determinar à autoridade coatora a aplicação de todas as provas do supletivo à parte autora e, caso seja aprovada, deve o réu expedir certificado de conclusão do nível médio (ID 34811482).
+
+Não houve recurso voluntário.
+
+Sem manifestação da Procuradoria de Justiça, porquanto ausentes os requisitos do artigo 178, do Código de Processo Civil.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ESDRAS NEVES - Relator
+
+Presentes os pressupostos legalmente exigíveis, conheço da remessa necessária.
+
+Compulsando os autos, tenho por escorreita a sentença.
+
+Em 30 de julho de 2021, foi publicado o acórdão de mérito do Incidente de Resolução de Demandas Repetitivas – IRDR 13, nos autos do processo 0005057-03.2018.8.07.0000, que firmou a seguinte tese:
+
+De acordo com a Lei de Diretrizes e Bases da Educação Brasileira (Lei nº 9.394/1996), a Educação de Jovens e Adultos – EJA (ensino supletivo) está reservada ao estudante jovem e adulto que não teve acesso ou continuidade nos ensinos fundamental e médio pelo sistema regular de ensino na idade própria, não podendo, pois, ser utilizado, independentemente da idade do aluno matriculado no ensino regular, como forma de avanço escolar e fórmula de obtenção de certificado de conclusão de ensino médio para fins de matrícula em instituição de ensino superior, devendo a progressão ser obtida sob a forma da regulamentação administrativa própria.
+
+Frise-se que o IRDR 13, até a presente data, não transitou em julgado, tendo em vista a interposição de recursos de natureza extraordinária após a publicação do acórdão.
+
+Em sua ratio decidendi, o relator, Desembargador Teófilo Caetano, assim fundamentou:
+
+(...) Alfim, merece ser registrado que, caso o estudante seja beneficiado por medida liminar, sendo-lhe, então, assegurada matrícula e submissão às provas inerentes ao exame supletivo do ensino médio, e, aprovado, com lastro nesse atestado, fora viabilizada sua matrícula no curso superior para o qual lograra aprovação em certame seletivo, a situação de fato estabelecida, acaso consumada a matrícula e cumprido ao menos um semestre seletivo, poderá ser preservada segundo cada caso concreto. Essa situação, a prevalecer a tese a ser alinhada, se tornará impassível de ser consumada, não podendo a questão, ademais, ser sumariada, pois envolve situação de fato a ser ponderada em cada caso concreto. A verdade é que, ainda que eventualmente não assistisse ao aluno o direito que invocara de se submeter às provas inerentes ao exame supletivo do ensino médio, sobeja que, restando concedida a liminar postulada, conseguira obter o certificado de conclusão do ensino médio e, com lastro nesse atestado, se o caso, poderá se matricular no curso superior para o qual lograra aprovação em certame seletivo. Com efeito, começando a frequentar o curso superior, a ratificação do provimento antecipatório se afiguraria, de qualquer sorte, como imperativo de direito destinado a resguardar uma situação de fato que, derivando de um pronunciamento jurisdicional, se aperfeiçoara e se consolidara no tempo, rendendo ensejo à aplicação da Teoria do Fato Consumado como forma de serem resguardadas, inclusive, a estabilidade e segurança das relações jurídicas e das decisões judiciais. Assegurada a matrícula no curso de nível superior para o qual o aluno se habilitara via decisão liminar, soa extravagante se rejeitar o pedido sem atentar para o fato de que o decidido interferira substancialmente na sua vida escolar, uma vez que, tendo em vista o transcorrer do tempo, o estudante já teria ingressado no mencionado curso, salvo se não se valera da tutela que lhe fora assegurada. Essa regressão, obviamente, não condiz com o princípio da segurança jurídica, atraindo a incidência da teoria do fato consumado. Aludida teoria fora construída justamente para preservar situações criadas pela Administração ou até mesmo via de decisão judicial em que a regressão ao estágio anterior causaria mais danos sociais e à parte do que a preservação do que fora estabelecido. E é o que se divisa em situação similar, pois, conforme pontuado, ao aluno fora concedido o direito de se submeter às provas do exame supletivo, e, aprovado, se matriculara no curso de nível superior para o qual se habilitara em exame vestibular, tudo em razão da decisão liminar que o beneficiara. Assim, caso cassada a decisão, refletiria na cassação do título de conclusão do ensino médio, o que afetaria não só o candidato, mas os próprios direitos sociais que lhe são assegurados, e o decoro do Judiciário, posto que se causaria prejuízo inexorável ao estudante, maculando-o de forma indevida, e também ao próprio Judiciário, que criara uma situação de fato, que se deve preservar, para agora se reverter. E isso porque, obtido o certificado de conclusão, a reversão da medida ensejaria a cassação de um diploma de conclusão de ensino médio com a repercussão de que ensejaria o retorno do aluno ao 3º ano do ensino médio. Isto é, criar-se-ia um fato inusitado, tornando imperativa a consolidação do fato criado com a liminar concedida, com a ressalva pontuada. Assim, aliás, vem, em situações análogas, apregoando o colendo Superior Tribunal de Justiça, corte constitucionalmente encarregada de ditar a derradeira exegese em se tratando de direito federal infraconstitucional e velar pela uniformidade da sua interpretação e aplicação, conforme testificam as ementas abaixo transcritas:
+
+“DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. INSCRIÇÃO. EXAME SUPLETIVO. APROVAÇÃO NO VESTIBULAR. DETERMINAÇÃO JUDICIAL. APLICAÇÃO. TEORIA DO FATO CONSUMADO. (...) 4. Sucede que a ora recorrente, amparada por provimento liminar, logrou aprovação no exame supletivo, o que lhe permitiu ingressar no ensino superior, já tendo concluído considerável parcela do curso de Direito. 5. Consolidadas pelo decurso do tempo, as situações jurídicas devem ser respeitadas,sob pena de causar à parte desnecessário prejuízo e afronta ao disposto no art. 462 do CPC. Aplicação da teoria do fato consumado. Precedentes. 6. Recurso especial provido. (STJ, 2° Turma, REsp. 1262673/SE, rel. Min. Castro Meira, data da decisão: 18/08/2011, data da publicação: 30/08/2011).
+
+“ADMINISTRATIVO. RECURSO ESPECIAL. CURSO SUPERIOR. SEGUNDO GRAU NÃO-CONCLUÍDO À ÉPOCA DO VESTIBULAR. FATO SUPERVENIENTE. REGULARIZAÇÃO COM A APRESENTAÇÃO DO CERTIFICADO. APLICAÇÃO DO ART. 462 DO CPC. VASTIDÃO DE PRECEDENTES. 1. A conclusão de Curso de 2º Grau, com apresentação do competente Certificado, deve ser aceito como fato superveniente a sanar a irregularidade porventura existente quanto à apresentação de Certificado apresentado anteriormente, mormente quando o aluno já logrou aprovação no Vestibular e encontra-se no meio do Curso Universitário. Deve-se, neste caso, aplicar-se o disposto no art. 462 do CPC. 2. Por força de liminar concedida em mandado de segurança, o impetrante efetivou sua matrícula em curso superior antes de ser certificado no ensino médio. Na hipótese, ainda que, à época da matrícula, não tenham sido comprovados os requisitos necessários ao ingresso na Universidade, a subseqüente conclusão do segundo grau impõe a aplicação da teoria do fato consumado, que deve ser considerada quando a irreversibilidade da situação decorre da demora no julgamento da ação.” (REsp nº 611797/DF, Rel. Min. TEORIALBINO ZAVASCKI, DJ de 27/09/2004). 3. “As situações consolidadas pelo decurso de tempo devem ser respeitadas, sob pena de causar à parte desnecessário prejuízo e afronta ao disposto no art. 462 do CPC. Teoria do fato consumado. Discussão acerca da matrícula em curso superior na hipótese de ausência de conclusão do 2º grau à época, cujo direito de matrícula foi assegurado por força de liminar. Situação consolidada. Segundo grau concluído.” (REsp nº 365771/DF, Rel. Min. LUIZ FUX, DJ de 31/05/2004). 4. Vastidão de precedentes das 1ª e 2ª Turmas e da 1ª Seção desta Corte Superior. 5. Recurso especial não provido.” (STJ, 1ª Turma, Recurso Especial nº 2004/0129197-0/PE, Reg. Int. Proces. 677217, relator Ministro José Delgado, data da decisão: 04/11/2004, publicada no Diário da Justiça de 13/12/2004, pág. 265);
+
+“ADMINISTRATIVO. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. ENSINO SUPERIOR. IDADE INFERIOR AO LIMITE MÍNIMO. CONCLUSÃO DO SEGUNDO GRAU E INGRESSO NA FACULDADE POR IMPOSIÇÃO DE LIMINARES. FATO CONSUMADO. REVERSÃO INADMISSÍVEL. PRECEDENTES. - 1. O impetrante, com idade inferior ao limite mínimo legal, concluiu o curso supletivo do segundo grau e, obtendo êxito no exame vestibular, ingressou na Universidade por força de liminares concedidas em mandados de segurança. - 2. Consolidada a situação jurídica do recorrente, tanto mais por já se encontrar no terceiro ano letivo do curso de Arquitetura, não há como se possa revertê-la, aplicando-se a teoria do fato consumado. - 3. Recurso ordinário conhecido e provido.” (STJ, 2ª Turma, Recurso Ordinário em Mandado de Segurança nº 2002/0104943-7/PR, Reg. Int. Proces. 15229, relator Ministro Francisco Peçanha Martins, data da decisão: 02/08/2005, publicada no Diário da Justiça de 26/09/2005, pág. 269).
+
+Ademais, esse é o entendimento perfilhado por esta Corte de Justiça em situações análogas, consoante denotam, dentre inúmeros outros, os precedentes adiante ementados:
+
+“REMESSA OFICIAL. MANDADO DE SEGURANÇA. ENSINO MÉDIO. CONCLUSÃO. APROVAÇÃO EM VESTIBULAR. AVANÇO NOS ESTUDOS. TEORIA DO FATO CONSUMADO. I - A Resolução nº 1/2012 do Conselho de Educação do Distrito Federal - CEDF veda, expressamente, a concessão de avanço nos estudos objetivando a conclusão da educação básica. II - O impetrante, aprovado em vestibular, obteve, em liminar, posteriormente confirmada por sentença, provimento favorável para ser submetido à avaliação de aprendizagem e receber o respectivo certificado de conclusão do Ensino Médio para fins de matrícula na Universidade. Aplicação da teoria do fato consumado. III - Remessa oficial desprovida.” (Acórdão nº 1155736, 07078778820188070020, Relator: VERA ANDRIGHI, 6ª Turma Cível, data de julgamento: 20/2/2019, publicado no DJE: 25/3/2019. Pág.: Sem Página Cadastrada.)
+
+“DIREITO CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. REMESSA DE OFÍCIO. APROVAÇÃO EM VESTIBULAR. MÉRITO ACADÊMICO. VALORIZAÇÃO DA CAPACIDADE INTELECTUAL DO ESTUDANTE. EJA. EXAME FINAL. APROVAÇÃO EMCURSO SUPERIOR. ACESSO A EDUCAÇÃO. GARANTIA CONSTITUCIONAL. REMESSACONHECIDA E DESPROVIDA. SENTENÇA MANTIDA. 1. O art. 5º, inciso LXIX, da Constituição Federal dispõe sobre o Mandado de segurança. Por sua vez, a Lei nº 12.016/2009 diz que conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.2. O art. 38, § 1º, da Lei nº 9.394 de 1996, que exige a idade mínima de dezoito anos para a concessão do certificado de conclusão do ensino médio por meio de ensino supletivo, deve ser interpretado em consonância com a Constituição Federal, que garante, nos termos do art. 208, inciso V, o acesso aos níveis mais elevados de ensino de acordo com o mérito de cada indivíduo 3. Com o deferimento da tutela antecipada e a consequente aprovação do impetrante e a certidão de conclusão do ensino médio, justifica-se a aplicação da teoria do fato consumado. Em razão disso, deve ser confirmada por sentença a medida que antecipou os efeitos da tutela.4. REMESSA NECESSÁRIA CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.” (Acórdãon.1086470, 00001533820178070011, Relator: ROBSON BARBOSA DE AZEVEDO 5ª Turma Cível, Data de Julgamento: 05/04/2018, Publicado no DJE: 17/04/2018. Pág.: Sem Página Cadastrada.)
+
+“CIVIL E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. MATRÍCULA EM CURSO UNIVERSITÁRIO. ALUNO COM IDADE INFERIOR A DEZOITO ANOS. APROVAÇÃO EMVESTIBULAR. MATURIDADE INTELECTUAL DEMONSTRADA. CONCESSÃO DE LIMINAR.PRINCÍPIO DA SEGURANÇA JURÍDICA. OBSERVÂNCIA.1. A Lei de Diretrizes e Bases da Educação permite a progressão de séries, valorizando os aspectos qualitativos do educando, não apresentando apenas um único critério para promoção para uma nova etapa de ensino. Ao revés, faculta às instituições de ensino a escolha de critérios que possibilitem a progressão, a partir das condições pessoais do aluno.2. O princípio da segurança jurídica tem por finalidade impedir a desconstituição de atos ou situações jurídicas consolidadas, ainda que apresentem alguma desconformidade com a legislação de regência, de modo a evitar a instabilidade jurídica.3. Verificado que, por força de tutela antecipada concedida initio litis, a parte impetrante logrou concluir o ensino médio por meio de ‘avanço’ escolar e já se encontra matriculado em curso superior, deve ser prestigiado o princípio da segurança jurídica, a justificar o acolhimento da pretensão deduzida na inicial. 4. Apelação Cível conhecida e provida.”(Acórdão n.1066096, 20160110510528APC, Relator: NÍDIA CORRÊA LIMA 1ª TURMA CÍVEL, Data de Julgamento: 29/11/2017, Publicado no DJE: 12/12/2017. Pág.: 211-232)
+
+Acerca da questão, portanto, inviável que seja definida tese jurídica vinculante, pois a aplicação da teoria do fato consumado demanda e envolve questões de fato, devendo ser examinado cada caso concreto de forma isolada.
+
+No caso em análise, a impetrante já concluiu o exame supletivo para a conclusão do ensino médio, conforme IDs 34811469, 34811470 e 34811471.
+
+Destaca-se, ainda, que a impetrante possui 18 anos completos e que estuda em colégio internacional, o qual iniciou o ano letivo em setembro de 2021. Desse modo, na data da impetração do mandado de segurança já havia cursado o primeiro semestre do ano letivo relativo ao terceiro ano do ensino médio.
+
+Ainda, deve-se consignar que a impetrante conseguiu realizar sua matrícula na PUC de São Paulo, uma das universidades em que obteve aprovação (ID 34811405).
+
+Destarte, em hipóteses excepcionais como a do presente writ, deve-se adotar a teoria do fato consumado, em respeito aos princípios da estabilidade das relações sociais e da segurança jurídica, tendo em vista que a reversibilidade da demanda somente causaria prejuízos desnecessários aos direitos sociais alcançados pela impetrante, ao passo que sua manutenção está em consonância com os precedentes do Superior Tribunal de Justiça e desta Corte de Justiça.
+
+Ante o exposto, conheço do reexame necessário e a ele NEGO PROVIMENTO, para manter íntegra a r. sentença, tal como foi prolatada.
+
+É como voto.
+O Senhor Desembargador ALFEU MACHADO - 1º Vogal Com o relatorO Senhor Desembargador LEONARDO ROSCOE BESSA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
