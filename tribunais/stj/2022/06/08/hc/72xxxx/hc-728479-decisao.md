@@ -1,0 +1,23 @@
+DECISÃO
+Estes autos foram-me distribuídos em razão de conexão com o HC n. 543.108/SP.
+Trata-se de habeas corpus ajuizado em benefício de Leonardo Augusto Matias, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação criminal n.1500251-10.2019.8.26.0573 - fls. 39/75).
+Consta do autos que o Juízo de primeiro grau condenou o ora paciente como incurso nos arts. 33, caput, da Lei n. 11.343/2006 (5 anos e 10 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 583 dias-multa - 1.056,63 g de maconha - fl. 23) e 303 e 305 do Código de Trânsito Brasileiro (1 ano de detenção, a ser inicialmente cumprida em regime semiaberto, e à suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículoautomotor pelo prazo de 2 meses) - fls. 23/38.
+O Tribunal de origem, por sua vez, reduziu a reprimenda do crime de tráfico de drogas para 5 anos de reclusão e pagamento de 500 dias-multa, mantidas as demais cominações da sentença.
+Requer-se, em liminar e no mérito, a concessão da ordem para reduzir a pena do paciente, quanto ao crime de tráfico de drogas, mediante aplicação da causa especial de diminuição prevista no art. 33, § 4º, da Lei n.11.343/2006, bem como a fixação de um regime mais brando.
+Liminar indeferida (fls. 79/80), informações prestadas (fls. 83/143), o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 147/152).
+É o relatório.
+Verifica-se flagrante ilegalidade no afastamento do tráfico privilegiado, unicamente com base na quantidade do material entorpecente apreendido.
+Com efeito, seguindo farta orientação do Supremo Tribunal Federal, recentemente, a Terceira Seção do Superior Tribunal de Justiça reafirmou o entendimento de que o tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual e, ainda, de que a utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712) - (REsp n.1.887.511/SP, Ministro João Otávio de Noronha, Terceira Seção, DJe 1º/7/2021 - grifo nosso).
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pelas instâncias ordinárias, passo ao redimensionamento da reprimenda.
+Mantenho a pena, até a segunda fase, no quantum fixado pelo acórdão impugnado, qual seja, em 5 anos de reclusão, além do pagamento de 500 dias-multa (fls. 67/68).
+Naterceira fase, reduzo a reprimenda em 1/6, pois se trata do tráfico de pouco mais de 1 kg de maconha, totalizando4 anos e2 meses de reclusão, além do pagamento de 416 dias-multa.
+Com efeito, atese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534, Terceira Seção do STJ)-(AgRg no HC n. 690.866/MG, Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe 30/5/2022).
+Por fim, tratando-se de réu primário, que teve sua pena-baseestabelecida no mínimo legal (fls. 67/68), e a definitiva em 4 anos e 2 meses de reclusão, fixo o regime semiaberto para o início de seu cumprimento.
+Ante o exposto, concedoa ordem a fim de fixar a pena do paciente para o crime de tráfico de drogas em4 anos e 2 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 416 dias-multa.
+Nos termosdo art. 580 do Código de Processo Penal, estendo os efeitos desta decisãoaos corréusRenato Alves Vaz de Almeida e Mike Martins de Souza,em razão deostentarem idêntica situação fático-jurídica.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. ART. 33, 4º, DA LEI N. 11.343/2006. MINORANTE AFASTADA APENAS EM RAZÃO DA QUANTIDADE DADROGA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. MINORANTE. INCIDÊNCIA. NECESSIDADE. REGIME SEMIABERTO. FIXAÇÃO.
+Ordem concedida, com extensão aos corréus Renato Alves Vaz de Almeida e Mike Martins de Souza,nos termos do dispositivo.
