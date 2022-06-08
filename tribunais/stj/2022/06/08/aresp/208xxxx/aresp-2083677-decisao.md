@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por HERMINIO CONCEICAO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/10/2021.
+Concluso ao gabinete em: 28/04/2022.
+Ação: de reintegração de posse movida por CAIXA ECONÔMICA FEDERAL, contra o agravante, em razão do inadimplemento em sede de Contrato por Instrumento Particular de Arrendamento Residencial com Opção de Compra.
+Sentença: julgou procedente o pedido da agravada, para reintegrá-la definitivamente na posse do imóvel.
+Acórdão: negou provimento à apelação do agravado, nos termos da ementa:
+CIVIL E PROCESSUAL CIVIL CONTRATO VINCULADO AO PROGRAMA DE ARRENDAMENTO RESIDENCIAL (PAR) PRELIMINARES DE ILEGITIMIDADE ATIVA E DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO REJEITADAS FALTA DE PAGAMENTO DAS TAXAS DE ARRENDAMENTO ESBULHO POSSESSÓRIO LEI N 10188/2001 RESCISÃO CONTRATUAL QUESTÃO RELACIONADA À NOTIFICAÇÃO PESSOAL PRECLUSÃO TEMPORAL RECONHECIDA AÇÃO DE REINTEGRAÇÃO DE POSSE PROCEDÊNCIA.
+1. A informação constante do contrato de que, em nome do Fundo de Arrendamento Residencial, a CEF adquiriu a propriedade do imóvel e a redação do arts. 40., VI e 9º da Lei n. 10.188/2001 que contemploutodosS Os encargos de responsabilidadedo arrendatário, afasta as preliminares de ilegitimidade.ativa e de impossibilidade jurídica do pedido. 2. A Lei n. 10.188/2001 passou por todas as fases do processo legislativo previsto nos arts. 59 e seguintes da Constituição Federal de 1988, gozando, portanto, da presunção iuris tantum de constitucionalidade; tanto formal quanto material. 3. Segundo entendimento adotado por este Tribunal, em consonância com o. Superior Tribunal de Justiça (STJ). o ajuizamento da ação de reintegração de posse, no caso do programa instituído pela Lei n. 10.188/2001, deve ser precedido da, notificação prévia e pesoal do arrendatário, ainda que Constante cl usula resolutiva no contrato. Precedentes.
+4.Por outro..lado, já decidiu este Tribunal que "a, revelia consiste na nao apresentação de contestação pela parte que, regularmente citada, não oferece resposta tempestiva à pretensão iniclal do autor, gerando efeitos de ordem proce ssual atinentes ao prosseguimento do feito, como a preclusão da matéria defensiva (salvo as previstas no art. 303 combinada com o § 4º do art. 301 do CPC) e julgamento antecipado do feito no caso de acolhido seu efeito substancial, consistente na presunção de veracidade dos fatos lançados na Desembargador Federal Jirair Aram Meguerian, Sexta Turma, e-DJF1 de 11.05.2016). inicial" (AC 0018260-28.2012.4.01.3400/DF, Relator.
+5. Hiptese em que o réu, embora citado, deixou transcorrer in albis o prazo legal para apresentar a sua conte sitação, caracterizando, portanto, inovação recursal a alegação de que não teria sido notificada pessoalmente para purgar a mora, considerando, ademais, pessoalmente, a residencial. que foi cientificado respeito. da rescisão do contrato de arrendamento.
+6. Assim, tratando-se de contrato" firmado segundo as regras do Programa de Arrendamento Residencial para atendimento da necessidade de moradia da população de baixa renda (Lei n.. 10.188/2001), a falta de_ pagamento das taxas de condomínioe da IPTU constitui esbulho possessório, e motivo para a rescisão do contrato e para o ajuizamento da respectiva ação, de reintegração de posse, na forma do art. 9º.
+7. Sentença confirmada.
+8. Apelação não provida. (e-STJ fl. 224/225)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.013,1.022 do CPC/15; e 9º da Lei 10.118/01. Além de negativa de prestação jurisdicional, sustenta que a revelia não impede que a apelação tenha por objeto questões que a sentença efetivamente apreciou. Alega ainda que a notificação a que faz referência o art. 9º da Lei 10.118/01 deve ser feita pessoalmente, não sendo suficiente a entrega na portaria do condomínio.
+RELATADO O PROCESSO, DECIDE-SE
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do inadimplemento do contrato de arrendamento residencial com opção de compra e acerca da notificação recebida pessoalmente pelo agravante, informando-o sobre a rescisão do pacto, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Aliás, cumpre destacar ser insuficiente a mera alegação de omissão, pois incumbe ao recorrente demonstrar que o argumento reputado omitido é capaz de infirmar a conclusão adotada pelo órgão julgador e, ainda, não será declarada a nulidade sem que tenha sido demonstrado o efetivo prejuízo por ausência de análise de argumento deduzido pela parte, o que não ocorreu na presente hipótese.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao agravante, no dia 24/03/2017,ter pessoalmente assinado a notificação para rescisão do contrato de arrendamento (e-STJ fl. 219), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentir, a pretensão de ver reconhecida a violação do art. 1.013 do CPC/15 carece de interesse recursal por lhe faltar utilidade, uma vez que o TRF1, não obstante entender tratar-se de inovação recursal,se manifestou expressamente sobre a alegação de exigência de notificação pessoal deduzida pelo agravante ao reconhecer o recebimento pessoal da notificação por este.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, IV, "a",do CPC/15, CONHEÇO PARCIALMENTEdo recurso especial.
+Deixo de majorar os honorários advocatícios sucumbenciais visto que não foram arbitrados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE EM SEDE DE CONTRATO DE ARRENDAMENTO RESIDENCIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de reintegração de posse.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Modificar a conclusão do Tribunal de origem no sentido de que o agravante ter pessoalmente assinado a notificação para rescisão do contrato de arrendamento (e-STJ fl. 219) implica reexame de fatos e provas.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
