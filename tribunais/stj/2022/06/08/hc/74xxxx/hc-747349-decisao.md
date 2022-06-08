@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO MARADONA LINS CAMPOScontra decisão de Desembargador do Tribunal de Justiça do Estado de Pernambucoque denegou a medida de urgência pleiteada naquela instância, nos autos do HC n.0001416-67.2022.8.17.9480.
+O juízo de primeira instância considerouque a prisão preventiva seria necessária para garantir a ordem pública, diante dos indícios de que o ora paciente e ao menos os dois corréus, sendo um deles com maus antecedentes, embora denunciados por receptação qualificada, teriam efetivamente perpetrado um roubo circunstanciado, com a subtração de uma carreta e mediante ação que restringiu a liberdade da vítima por horas.
+O relatordo feito no segundo grau indeferiu o pedido liminar, avaliando a ausência de elementos que revelem airregularidade do ato apontado como coator.
+A defesa alega, em síntese, que a prisão preventiva é ilegítima, argumentando que a medida está fundada na gravidade abstrata do delito e que o regime de cumprimento de eventual condenação pelo crime de receptação qualificada evidencia a desproporcionalidade da custódia imposta nestes autos.
+Em liminar e no mérito, pede o relaxamento da prisão cautelar.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n.318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+No presente caso, não está configurada a ilegalidade flagrante que autorizaria a cognição de ofício da matéria.
+A prisão preventiva disputada nestes autos decorreu da observação de indícios de que o paciente, embora denunciado pelo crime de receptação qualificada, teria efetivamente perpetrado um roubo circunstanciado em que, associado a outros, inclusive pessoa com maus antecedentes, teria subtraído a carreta em que a vítima trabalhava e restringido a sua liberdade por horas(e-STJ fls. 16/18):
+Em consulta ao sistema Judwin, constatei que o autuado EDSON SANTANA DA SILVA, responde por processo criminal de delito de receptação (0002562-33.2020.8.17.0001), bem como outro processo criminal de natureza diversa (0000993-79.2019.8.17.0470).
+(..).
+Certo é que a gravidade do delito, por si só, não pode ensejar a decretação ou manutenção da prisão preventiva. Ocorre que embora conste na qualificação da denúncia o delito previsto no art. 180, § 1º, do Código Penal, da leitura das peças do inquérito e da própria inicial acusatória, vislumbra-se a ocorrência, em tese, do crime de roubo circunstanciado. Como constam nas narrativas, a testemunha Josenildo Aprigio Sobrinho, motorista da carreta apreendida com os acusados, relatou ter sido rendido por outros três homens não identificados, que ordenaram deixar a carreta em um determinado local, e permaneceu em poder destes por horas, tendo sua liberdade restringida.
+Ao que se vê, há indícios do cometimento de crime grave e o receio quanto à manutenção da ordem pública está fundamentado.
+Em resumo, não entendo configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Também écerto queas questões suscitadas pela defesa serão tratadas oportunamente pela instância de origem, por ocasião do julgamento de mérito do mandamus, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
