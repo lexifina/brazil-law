@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DARCI JOSÉ VEDOIN contra acórdão prolatado pela Sexta Turma desta Corte, de minha relatoria, que rejeitou os embargos de declaração. O acórdão está assim ementado (e-STJ fl. 5.760):
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+No caso, após ter sido dado provimento ao recurso especial interposto peloMinistério Público Federal, a parte ora embargante opôs dois recursos de embargos de declaração. Na sequência, interpôs agravo regimental. Após, mais dois embargos de declaração. Ou seja, este é o quinto recurso de embargos declaratórios, que contém alegações com o mesmo teor, a evidenciar a sua desarrazoada utilização e o abuso no direito de recorrer.
+Assim, em vista do caráter protelatório da presente insurgência, não se deve conhecer do recurso, e consequentemente, determinar a baixa dos autos independentemente de publicação.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS QUE SE VOLTAM CONTRA O ACÓRDÃO PROFERIDO EM AGRAVO REGIMENTAL E NÃO CONTRA O PROLATADO NO RECURSO INTEGRATIVO. REEXAME DA CAUSA. RECURSO PROTELATÓRIO. BAIXA DOS AUTOS À ORIGEM. EMBARGOS DE DECLARAÇÃO REJEITADOS. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO DETERMINADA.
+1. Constatado que o presente recurso integrativo se opõe às razões do decisum prolatado no agravo regimental e não do acórdão prolatado nos primeiros embargos, forçoso reconhecer sua intempestividade.Precedente.
+2. De qualquer forma, verifica-se que a irresignação resume-se a mero inconformismo com o resultado do julgamento, uma vez que todas as questões trazidas a esta Corte Superior foram devidamente examinadas pela Sexta Turma.
+3. Evidencia-se o caráter manifestamente protelatório na atuação da defesa, mediante a sucessiva interposição de recursos, em clara intenção de procrastinar, a qualquer custo, a submissão do réu a julgamento pelo Tribunal do Júri, em verdadeiro abuso do direito de recorrer.
+4. Na seara penal, nos casos peculiares em que é constatado o nítido caráter protelatório dos recursos, o Superior Tribunal de Justiça e o Supremo Tribunal Federal admitem a baixa definitiva dos autos, independentemente da publicação do acórdão e da apresentação de novas irresignações. Precedentes.
+5. Embargos de declaração não conhecidos. Determinada a imediata baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, e a certificação do trânsito em julgado do acórdão proferido no recurso especial, caso não haja interposição de recurso extraordinário.
+(EDcl nos EDcl no AgRg no AREsp n. 1.630.680/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/3/2022, negritos aditados.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. SÚMULA 182/STJ. CARÁTER PROTELATÓRIO. EMBARGOS REJEITADOS.
+1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no acórdão ou na decisão. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte.
+2. Não se verifica a ocorrência de omissão, na medida em que o acórdão embargado manteve a decisão que não conheceu do agravo em recurso especial, por incidir, no caso, o óbice da Súmula 182/STJ.
+3. Os embargos declaratórios reiteram os argumentos expendidos em anterior recurso, o qual foi devidamente apreciado pela Turma Julgadora, que rejeitou os primeiros embargos. Há, portanto, manifesto abuso do direito de recorrer.
+4. Não se verifica a ocorrência de contradição, cumprindo ressaltar que, "não ultrapassado o juízo de admissibilidade dos recursos, inviável a análise das questões de mérito neles deduzidas" (AgRg no AREsp 1.534.025/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/9/2019, DJe 07/10/2019).
+5. Embargos de declaração rejeitados, com determinação de certificação imediata do trânsito em julgado do feito e baixa dos autos.
+(EDcl nos EDcl no AgRg no AREsp n. 1.792.175/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/3/2022, negritos aditados)
+Ante o exposto, não conheço do recurso. Determino a baixa imediata dos autos, independente de publicação.
+Publique-se. Intimem-se.
