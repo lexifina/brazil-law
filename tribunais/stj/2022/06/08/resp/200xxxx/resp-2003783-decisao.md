@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado por A P S P DA Scom fundamento no art. 105, III,aec, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 672):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADACOM OBRIGAÇÃO DE NÃO FAZER. MAU CHEIRO EXALADO DA ESTAÇÃO DETRATAMENTO DE ESGOTO (ETE) LOCALIZADA NO JARDIM GUARAITUBA, EMCOLOMBO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO INTERPOSTO PELAPARTE AUTORA. MAU CHEIRO PROVENIENTE DE ESTAÇÃO DE ESGOTO QUE É INERENTE AOPROCESSO DE TRATAMENTO, O QUE NÃO EXCLUI A NECESSIDADE DEADOÇÃO DE MEDIDAS EFETIVAS PARA A SUA REDUÇÃO, SOB PENA DEOFENSA À INCOLUMIDADE DOS MORADORES. AUSÊNCIA DECOMPROVAÇÃO DE QUE AS MEDIDAS ADOTADAS FORAM EFETIVAS,PORQUANTO NÃO FOI REALIZADO O MONITORAMENTO DO AR. EXISTÊNCIADE POLUIÇÃO EM OUTROS PONTOS DA REGIÃO QUE NÃO AFASTA ARESPONSABILIDADE OBJETIVA DA RÉ PELA EMISSÃO DE MAU CHEIRO. TEORIA DO RISCO INTEGRAL. RESPONSABILIDADE PELA POLUIÇÃOATMOSFÉRICA VERIFICADA. PARTE AUTORA QUE COMPROVOU QUE FOIATINGIDA PELO MAU CHEIRO. DEMONSTRAÇÃO DE QUE, NA EPÓCA DEOPERAÇÃO, RESIDIA PRÓXIMO À ETE. SENTENÇA REFORMADA. DANOSMORAIS CONFIGURADOS. VALOR QUE DEVE ATENDER AOS PRINCÍPIOS DARAZOABILIDADE, PROPORCIONALIDADE E AO CARÁTER INIBITÓRIO DACONDUTA, BEM COMO ÀS PARTICULARIDADES DO CASO CONCRETO. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL E FIXAÇÃO DE HONORÁRIOSADVOCATÍCIOS, INCLUSIVE RECURSAIS. APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Opostos embargos declaratórios pela SANEPAR, foram rejeitados.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts.398 e 405 do CC, sustentado que, tratando-se de relação extracontratual, os juros de mora devem ter como termo inicial a data do evento danoso.
+É O RELATÓRIO. SEGUE AFUNDAMENTAÇÃO.
+A insurgência não merece prosperar.
+Com efeito, amatéria pertinente aos arts. 398 e 405 do Código Civilnãofoi apreciada pela instância judicante de origem, tampouco foram opostosembargos declaratórios para suprir eventual omissão. Portanto, ante afalta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alíneacdopermissivo constitucional, sendo certo que não foram atendidas asexigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
