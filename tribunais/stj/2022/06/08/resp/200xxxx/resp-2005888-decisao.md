@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 156):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. INSS. TAXA DE RESÍDUOS SÓLIDOS DOMICILIARES. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE COMPROVAÇÃO. PRESCRIÇÃO. CONSTITUCIONALIDADE.
+1. Consoante o decidido pelo Plenário do Superior Tribunal de Justiça na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Na hipótese em exame, aplica-se o Código de Processo Civil de 1973.
+2. Acolhida a alegação da municipalidade quanto à legitimidade do 1NSS para figurar no polo passivo da execução fiscal.
+3. Considera-se proprietário aquele que consta no competente Cartório de Registro de Imóveis, nos termos do artigo 1.245, § 1º, do Código Civil.
+4. E pacífica a jurisprudência do Superior Tribunal Superior quanto à legitimidade passiva tanto do promitente comprador quanto do proprietário, cabendo ao administrador público eleger o sujeito passivo do tributo para fins de facilitar a arrecadação.
+5. Execução fiscal para a cobrança de créditos referentes à taxa de resíduos sólidos domiciliares constituídos nas datas de vencimento, entre 25 de abril de 2003 e 19 de janeiro de 2006.
+6. O marco interruptivo da prescrição retroage à data da propositura da ação. Autuada a execução fiscal em 14 de abril de 2008, não se verifica a ocorrência de prescrição.
+7. O Supremo Tribunal Federal, por ocasião do julgamento do RE 576.321, de relatoria do Ministro Ricardo Lewandovski, em sede de repercussão geral firmou o entendimento de que as taxas cobradas em razão exclusivamente dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis são constitucionais.
+8. Inversão do ônus da sucumbência. Honorários advocatícios, a cargo do 1NSS, mantidos no mesmo valor fixado pela sentença, a teor do disposto no art. 20, § 30 e 4º do CPC/73.
+9. Apelação do Município de São Paulo provida.
+Embargos de declaração opostos e rejeitados (fl. 188).
+O recorrente aponta violação dos arts. 32, 34, 77 e 130 do CTN e art. 3º da LEF aduzindo argumentação no sentido de que não tem legitimidade passiva quanto à cobrança de taxa, uma vez que não é mais proprietário e usuário do imóvel, constando expressamente na CDA seu nome conjuntamente com a da compromissária e adquirente do imóvel, que é a usuária do serviço público de coleta domiciliar e a verdadeira devedora do tributo.
+Nas contrarrazões a fls. 206-215, o recorrido, além de apontar a presença de óbices sumulares, consigna que o recorrente não juntou Certidão que comprovasse o registro do referido compromisso de compra e venda e que, constando como inscrito no Cadastro Imobiliário Fiscal, não houve comunicação ao Município de que não seria usuário do serviço, conforme possibilita lei municipal.
+Inadmitido o apelo nobre na origem, deu-se provimento ao AREsp tão somente para determinar sua conversão em REsp, sem prejuízo de posterior exame de seus pressupostos de admissibilidade (fl. 270).
+É o relatório. Decido.
+A Corte Regional reconheceu a legitimidade do INSS, ao verificar que o recorrente: (i) não trouxe aos autos o instrumento particular de compromisso de compra e venda devidamente registrado e antes da ocorrência dos fatos geradores do tributo; (ii) a sua sujeição passiva está expressamente prevista em lei municipal (fls. 142/143):
+Acerca do sujeito passivo da taxa de resíduos sólidos domiciliares - TRSD dispõe o artigo 86 da Lei Municipal nº 13.478/2002:
+Art. 86. É contribuinte da Taxa de Resíduos Sólidos Domiciliares - TRSD o munícipe -usuário dos serviços previstos no art. 83, conforme definido nesta lei.
+§ 10. Para os fins previstos nesta Seção, serão considerados munícipes - usuários dos serviços indicados no artigo 83, as pessoas fisicas ou juridicas inscritas no Cadastro Imobiliário Fiscal do Município.
+§ 2ºAs pessoas inscritas no Cadastro Imobiliário Fiscal que não forem usuártas potenciais dos serviços previstos no artigo 83 deverão comunicar tal fato à Secretaria de Finanças do Município de São Paulo.
+§ 3º. A comunicação a que se refere o parágrafo anterior deverá ser feita, conjuntamente, pela pessoa inscrita no Cadastro Imobiliário Fiscal e pelo usuário real dos serviços, para fixação, no exercício seguinte, da responsabilidade deste pelo pagamento da Taxa.
+§ 40 A responsabilidade pelo pagamento da Taxa será exclusiva da pessoa fisica ou jurídica inscrita no Cadastro Imobiliário Fiscal do Município, enquanto não efetuada a fixação da nova responsabilidade tributaria prevista no parágrafo anterior.
+§ 5º. Após a fixação, pessoa inscrita no Cadastro Imobiliário Fiscal passará a responder pelo pagamento da Taxa subsidiariamente ao usuário indicado.
+Na hipótese em exame, merece ser acolhida a apelação do Município do Estado de São Paulo para reconhecer a legitimidade do 1NSS para figurar no polo passivo da execução fiscal, porquanto nada há nos autos a comprovar o devido registro no cartório de imóveis, no tocante à alegada alteração da propriedade do imóvel.
+Com efeito, a despeito de constar do título a indicação da Sra. Janaína Santana S Zoumbounelos, residente no endereço indicado na ação executiva, como compromissária/usuária o 1NSS não trouxe aos autos instrumento particular de compromisso de venda e compra, devidamente registrado no Cartório de Registro de Imóveis e antes da ocorrência dos fatos geradores do tributo.
+Por seu turno, considera-se proprietário aquele que consta no competente Registro de Imóveis, nos termos do artigo 1.245, § 10, do Código Civil:
+Art. 1.245. Transfere-se entre vivos a propriedade mediante o registro do título translativo no Registro de Imóveis.
+§ 1ºEnquanto não se registrar o título translativo, o alienante continua a ser havido como dono do imóvel.
+Esclarecido o conceito de proprietário, pode este ser considerado contribuinte conjuntamente com o possuidor, na qualidade de promitente - comprador. E pacífica a jurisprudência do Superior Tribunal Superior quanto à legitimidade passiva tanto do promitente comprador quanto do proprietário, cabendo ao administrador público eleger o sujeito passivo do tributo para fins de facilitar a arrecadação:
+Com efeito, "ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN. Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação."
+Assim delineados os fatos, no âmbito do recurso especial, inviável a modificação do entendimento firmado no acórdão com lastro no suporte fático-probatório dos autos, diante do óbice da Súmula 7/STJ. Outrossim, a questão da sujeição passiva foi analisada considerando disposição prevista em lei municipal, o que torna inadmissível o recurso especial quanto às normas infraconstitucionais aventadas, por força da Súmula 280/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TAXA DE COLETA DE LIXO. LEGITIMIDADE PASSIVA AD CAUSAM. REVISÃO DO JUÍZO. SÚMULA 7/STJ. LEI LOCAL. SÚMULA 280/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
