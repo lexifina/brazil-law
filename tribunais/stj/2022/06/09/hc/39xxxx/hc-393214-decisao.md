@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido liminarimpetrado em favor de ARIEL HEINDRICKSONno qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0010482-88.2016.8.24.0038).
+Consta dos autos que o paciente foi condenado, como incurso nos arts. 155, §§ 1º e 4º, incisos I e IV, e 180, caput, na forma do art. 69, todos do Código Penal, ao cumprimento da pena privativa de liberdade de 5 anos, 3 meses e 5 dias de reclusão, no regime inicial fechado, e ao pagamento de 182 dias-multa (e-STJ fls. 236/237).
+Irresignada, a defesa apelou, tendo o Tribunal de origem dado provimento ao recurso para reduzir a pena para 3 anos e 8 meses de reclusão, em regime aberto, e 24 dias-multa, tendo determinado, de ofício, a substituição da pena por duas restritivas de direitos.
+A Defensoria Pública alega a ocorrência de constrangimento ilegal em razão da: a) incidência da majorante do repouso noturno; e b) ausência de fundamentação idônea para a não substituição da pena privativa de liberdade por uma restritiva de direitos e multa.
+Requer, liminarmente, seja reconhecida a ilegalidade do acórdão e suspendidos "os efeitos da condenação em relação ao excesso de pena ora impugnado, até julgamento final do writ" (e-STJ fl. 10).
+A liminar foi indeferida (e-STJ fls. 347/348).
+Informações prestadas (e-STJ fls. 358/391).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 394/398).
+Em consulta ao SEEU (Processo n. 0018172-71.2016.8.24.0038), verifica-se que a execução penal do paciente ainda encontra-se ativa.
+É o relatório. Decido.
+Acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fls. 334/336):
+ ..
+Na fase derradeira, destaca-se que o fato de o crime ter ocorrido no período de repouso noturno, autoriza a elevação da pena na terceira fase da dosimetria. Isso porque, mesmo nos casos em que o furto é qualificado, é possível a aplicação do repouso noturno como causa especial de aumento na fase final da dosimetria (art. 155, § 1º, do Código Penal).
+O Superior Tribunal de Justiça e a Suprema Corte, inclusive, entendem que são compatíveis as qualificadoras do art. 155, § 4º, do Código Penal com a causa de aumento de pena prevista no § 1º do citado dispositivo, de modo que o aumento de 1/3 deve ser mantido (AgRg no AREsp 741482/STJ.
+Rel. Min. Reynaldo Soares da Fonseca, julgado em 8/9/2015; e HC n.123934/STF. Rela. Mina. Carmen Lúcia, julgado em 11/11/2014).
+Sendo assim, a pena relativa ao delito de furto (art. 155, §§ 1º e 4º, I e IV, do CP) fica reduzida para 2 anos e 8 meses de reclusão, além do pagamento de 14 dias-multa, no valor mínimo legal.
+ ..
+Prevista a hipótese do concurso material de crimes (art. 69, caput, do CP), reconhecida pelo Juízo a quo, a reprimenda final deve ser fixada 3 anos e 8 meses de reclusão, além do pagamento de 24 dias-multa, no valor mínimo legal.
+Viável a fixação de regime mais brando, qual seja, o aberto, para o resgate da pena, pois o réu é primário e conta com apenas uma circunstância judicial negativa (circunstâncias do crime: delito de furto cometido por meio de arrombamento - "destruição ou rompimento de obstáculo à subtração da coisa"), conforme prevê o art. 33, § 2º, do CP.
+ ..
+Por fim, preenchidos os requisitos legais do art. 44 do CP, substitui-se a pena corporal por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade - cuja forma de cumprimento deverá ser definida pelo juízo da execução - e prestação pecuniária, no importe de 1 (um) salário mínimo, em face da situação financeira do acusado demonstrada nos autos, nos termos do disposto no art. 44, § 2º, do CP.
+A propósito:
+ .. (Grifei.)
+Majorante do repouso noturno nos delitos de furto qualificado
+Acerca da controvérsia, cumpre destacar que a Terceira Seção desta Corte, por ocasião do julgamento do Recurso Especial n. 1.888.756/SP, submetido à sistemática dos recursos repetitivos (Tema 1.087), definiu quea causa de aumento de pena pela prática de furto no período noturno (art. 155, § 1º, do CP) não incidena forma qualificada do referido delito (art. 155, §4º, do CP)- REsp. 1.888.756/SP, Terceira Seção, relator Ministro João Otávio de Noronha, acórdão pendente de publicação).
+Assim, assiste razão à defesa, no ponto.
+Dessarte, mantidos os demais parâmetros dosimétricos estabelecidos, fica a pena do paciente, em relação ao delito de furto, consolidada em 2 anos de reclusão, mais 11 dias-multa.
+Substituição da pena privativa de liberdade por duas restritivas de direitos
+Consoante a orientação jurisprudencial desta Corte, "não existe direito subjetivo do réu em optar, na substituição da pena privativa de liberdade, se prefere duas penas restritivas de direitos ou uma restritiva de direitos e uma multa" (AgRg no HC n. 456.224/SC, Quinta Turma, relator Ministro JOEL ILAN PACIORNIK, DJe 1º/4/2019).
+Além disso, cumpre frisar que, " s e ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, §2º, 2ª parte do Código Penal" (AgRg no HC n. 415.618/SC, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 15/5/2018, DJe 4/6/2018), como no caso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. INEXISTÊNCIA. NÃO CABE AO TRIBUNAL ESTADUAL APRECIAR MATÉRIAS NÃO SUSCITADAS NAS RAZÕES RECURSAIS. PRECEDENTES. PLEITO DE APLICAÇÃO DO PRIVILÉGIO DO FURTO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SE PRESUMIR O PREENCHIMENTO DO REQUISITO REFERENTE AO PEQUENO VALOR DO BEM SUBTRAÍDO. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU EM OPTAR, NA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE, ENTRE DUAS PENAS RESTRITIVAS DE DIREITOS OU UMA RESTRITIVA DE DIREITOS EMULTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que,a despeito de se conferirao recurso de apelação efeito devolutivo amplo, esse é limitado ao que deduzido nas razões recursais ou nas contrarrazões. Consequentemente, não tendo sido apreciada pelo Tribunal a quoa controvérsia concernenteao disposto no art. 155,§ 2.º, do Código Penal, não pode esta Cortese manifestar sobre a questão,sob pena de indevida supressão de instância.
+2. Além disso, não é possível presumir, no caso concreto, o preenchimento do requisito do pequeno valor para a aplicação do privilégio, tendo em vista que não foi confeccionado o laudo de avaliação dos bens subtraídos. Com efeito, a ""ausência de laudo de avaliação da res furtiva impede a incidência do privilégio previsto no § 2º do art. 155 do CP, não sendo possível admitir, por mera presunção, que se trata de bem de pequeno valor" (REsp 1.715.100/MG, Rel. Ministro Reynaldo Soares da Fonseca, DJe 17/05/2018)" (STJ, AgRg no AREsp 1.823.639/MA, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO, SEXTA TURMA, julgado em 09/11/2021, DJe 16/11/2021). Ressalte-se, ainda, que a tese de presunção de pequeno valor das res furtivae não foi objeto de exame pelo Tribunal, impossibilitando a apreciação do tema por esta Corte Superior.
+3. Inexiste direito subjetivo do réu em optar, na substituição da pena privativa de liberdade, pela aplicação de uma pena restritiva de direitos e uma multa ou duas penas restritivas de direito.Precedentes.
+4. O crime previsto no art. 155, § 4.º, do Código Penal, prevê, em seu preceito secundário, pena privativa de liberdade cumulada com pena de multa, não sendo socialmente recomendável a aplicação de multa substitutiva.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 623.816/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS ATACADOS. AFASTAMENTO DA SUM. 182/STJ. FURTO QUALIFICADO. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS. PLEITO DEFENSIVO DE SUBSTITUIÇÃO POR UMA RESTRITIVA E MULTA. MULTA SUBSTITUTIVA QUE NÃO É SOCIALMENTE RECOMENDÁVEL, QUANDO O PRECEITO SECUNDÁRIO DO TIPO CRIMINAL JÁ PREVÊ A PENA AUTÔNOMA E CUMULATIVA DE MULTA. ENUNCIADO 171 DA SÚMULA DESTA CORTE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O agravo regimental é tempestivo e foi impugnada a decisão recorrida. Igualmente foram rebatidos os fundamentos do despacho de inadmissibilidade, razão pela qual afasto a incidência da Súm. n. 182/STJ.
+2. O agravante foi condenado pela prática do crime previsto no art. 155, § 1º e § 4º, inciso I, do Código Penal, sendo substituída a pena privativa de liberdade por restritivas de direitos - prestação de serviços à comunidade e prestação pecuniária.
+3. O delito em questão já prevê, no seu preceito secundário, a pena autônoma e cumulativa de multa. Desse modo, a decisão da origem está em consonância com a orientação jurisprudencial desta Corte, segundo a qual, se ao tipo penal é cominada pena de multa autônoma e cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva, prevista no art. 44, § 2º, do Código Penal.
+4. Nesse sentido, o enunciado n. 171 da Súmula desta Corte, segundo o qual, cominadas cumulativamente, em Lei Especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.
+5. Agravo regimental a que nega provimento.
+(AgRg no AREsp n. 1.924.095/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021.)
+Não vislumbro, portanto, o alegado constrangimento ilegal em relação à substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, concedo em parte a ordem para redimensionar a pena do paciente, em relação ao delito de furto qualificado, para 2 anos de reclusão e 11 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
