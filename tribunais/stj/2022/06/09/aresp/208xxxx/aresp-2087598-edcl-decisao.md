@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por M BIGUCCI COMÉRCIO E EMPREENDIMENTOS IMOBILIÁRIOS LTDA E OUTRO, à decisão de fls. 1336/1337, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Em que pese o costumeiro brilhantismo do D. Ministro Relator, temos que a decisão acima se encontra eivada de erro material quanto a decretação de deserção do Recurso Especial interposto.
+Inicialmente, cabe pontuar que o erro na indicação do processo de origem configura-se como erro material, de modo que não deveria ter sido destinatário do extremo formalismo aqui verificado.
+Não fosse suficiente, a r. decisão embargada também incorreu no referido erro material, pois, em que pese tenha constado equivocado número no campo processo de origem, não se pode ignorar que o valor recolhido não foi utilizado, ou seja, não foi destinado a nenhum recurso interposto, bem como atingiu sua finalidade: integrar os cofres desta Superior Instância.
+ ..
+Ante todo o exposto, evidente o erro material, requer sejam admitidos os presentes Embargos de Declaração, bem como sejam os mesmos julgados procedentes para sanar o vício apontado, mediante a revisão da r. decisão para admissão do Recurso Especial interposto, cabendo-se ressaltar que, neste ato, as custas foram novamente recolhidas, em dobro (Docs. Anexos) (fl. 1341).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição do recurso especial, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do Superior Tribunal de Justiça vigente à época, uma vez que a parte fez a indicação errônea do "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento (fl. 1222).
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que se quedou inerte (fls. 1333/1334).
+Deveria a parte ter efetuado a regularização efetuando um novo recolhimento com o número correto do processo de origem e, se fosse de seu interesse, pedir a restituição dos valores recolhidos indevidamente, nos termos da Instrução Normativa STJ/GDG n. 3 de 5 de abril de 2017.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Somente agora, em sede destes aclaratórios a parte trouxe comprovante de pagamento e guia de recolhimento em dobro com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Cortes Especial, DJe de 26/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
