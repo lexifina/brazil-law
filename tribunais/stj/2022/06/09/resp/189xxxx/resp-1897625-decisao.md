@@ -1,0 +1,41 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por PTG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIARIOS S.A e BROOKFIELD ENGENHARIA S A, interposto com fundamento nas alíneas "a"e "c" do permissivo constitucional, contrao acórdãodo Egrégio Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. EMPREENDIMENTO IMOBILIÁRIO. PROGRAMA "MINHA CASA MINHA VIDA".
+1. Ação proposta em julho de 2015, que reclama de atraso na entregadas chaves, cujo prazo findou-se em 30/03/2015,já computada a clausula de tolerância de 180 dias.
+2. Sentença de parcial procedência que condenou as rés, solidariamente, a pagar o valor de R$ 15.000,00 pelo dano moralsofridoea realizar o pagamento do valor mensal de 0,5% do valor do imóvelem sede de liquidação de sentença.
+3. Apelos da parte ré e da parte autora, sendo este último para majoração da indenização por dano moral para R$ 20.000,00, bem como para condenação das rés ao pagamento de dano material relativo aos alugueis pagos pela autora enquanto aguardava a entrega do imóvel e ao pagamento de 2% de multa e 1% de juros, a título de inversão das penalidades contratuais. Sentença mantida.
+4. Dano moral fixado em R$ 15.000,00 que se mantém. Valor fixado que bem atende aos princípios da proporcionalidade razoabilidade. Inteligência da Súmula 343 deste Tribunal.
+5. Dano material e pagamento de 2% de multa e 1% de juros, a título de inversão das penalidades contratuais requeridos pela parte autora são abarcados por cláusula contratual expressa que estabelece pagamento da parte ré à parte autora de indenização mensal no valor de 0,5% do preço do imóvel - cláusula 7.3.1.2.
+6. Recursos conhecidos e não providos.
+Nas razões do recurso especial, sustentou-se violados os arts. 489,VI, e 926 do CPC, além do dissídio jurisprudencial, pois o simples atraso na entrega de unidade imobiliária adquirida na planta não caracteriza dano moral, a não ser por situações excepcionais devidamente comprovadas nos autos, situação não retratada no acórdão. Pediu o provimento.
+Não houve contrarrazões.
+A Corte local admitiu o recurso.
+É o relatório.
+Passo a decidir.
+Discute-se essencialmente o direito ao pagamento de indenização por danos morais em razão do retardo na entrega de unidade imobiliária adquirida pelo demandantequando não se identifiquem particularidades tais a evidenciar o malferimento a interesses personalíssimos.
+Sustentou-se para a interposição do presente recurso especial a afronta aos arts. 489, VI, e 926 do CPC, os quais não foram prequestionados pelo acórdão recorrido, elemento a evidenciar a atraçãodo enunciado 282/STF, por analogia.
+Por outro lado, aduziu-se a existência de dissídio jurisprudencial acerca do direito à indenização por danos morais ante o atraso na entrega da obra.
+No entanto, aparte recorrente deixou de indicar, de forma inequívoca e com a devida precisão e clareza, sobre qual dispositivo de lei federal recairia a suposta divergência jurisprudencial, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+Aliás, os únicos dispositivos de lei federal referidos no recurso não foram objeto de exame nem pelo acórdão recorrido, nem pelo acórdão paradigma.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial 1.346.588/DF, reafirmou a necessidade de o recorrente identificar o dispositivo de lei federal com interpretação divergente, não sendo tarefa desta Corte Superior extrair das razões formuladas em relação à alínea "a" ou das transcrições levadas a efeito pela parte o texto legal sobre o qual pretenderia ela sustentar a existência de dissídio, o que claramente violaria o princípio da igualdade e do impulso oficial.
+Esta a ementa do referido julgado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quando o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido. (AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014)
+Convém relembrar que o recurso especial possui fundamentação vinculada, com forma e conteúdo próprios, e se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa.
+Ante o exposto, não conheço dorecurso especial.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 1%, totalizando 11% sobre o valor atualizado da condenação.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSOESPECIAL. DIREITO CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. AUSÊNCIA DE PREQUESTIONAMENTO E DE INDICAÇÃO DOS DISPOSITIVOS DE LEI SOBRE OS QUAIS JAZERIA O DISSÍDIO JURISPRUDENCIAL.
+1.A Corte Especial do Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial 1.346.588/DF, reafirmou a necessidade de o recorrente identificar o dispositivo de lei federal com interpretação divergente, não sendo tarefa desta Corte Superior extrair das razões formuladas em relação à alínea "a" ou das transcrições levadas a efeito pela parte o texto legal sobre o qual pretenderia ela sustentar a existência de dissídio, o que claramente violaria o princípio da igualdade e do impulso oficial.
+2. Ausente o prequestionamento dos dispositivos de lei alegadamente violados, tem-se por incidente o enunciado 282/STFe, ademais, não se indicando outros sobre os quais jazeria o dissídio, evidencia-se a atração do enunciado 284/STF, por analogia.
+3. RECURSO ESPECIAL NÃO CONHECIDO.
