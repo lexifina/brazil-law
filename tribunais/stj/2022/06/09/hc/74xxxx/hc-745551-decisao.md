@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Maicon Douglas Santos Soares, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que deu provimento ao Agravo em Execução Penal n.5240287-91.2021.8.21.7000 (fl. 15):
+AGRAVO EM EXECUÇÃO. CRIME DE TRÁFICO DE ENTORPECENTES. CRIME EQUIPARADO A HEDIONDO. DECISÃO CASSADA. A Lei n.13.694/2019 em nada alterou a qualificação hedionda do crime de tráfico de entorpecentes tipificado no caput do art. 33 da Lei n.º 11.343/2006. Recente decisão desta Corte afirmou: ALTERAÇÃO LEGISLATIVA. PACOTE ANTICRIME QUE AFASTOU A HEDIONDEZ DO TRÁFICO PRIVILEGIADO DO §4º DO ART. 33 DA LEI DE DROGAS, MAS MANTEVE A HEDIONDEZ DO TRÁFICO DO CAPUT DO ART. 33, DELITO PELO QUAL CUMPRE PENA O APENADO (Agravo de Execução Penal 51979465020218217000). Agravo provido.
+Sustenta-se, em síntese, que, após as alterações legislativas,não remanesce nenhum comando legal para equiparação do tráfico aodelito hediondo, salvo a vedação contida no art. 2º da Lei dos Crimes Hediondos que reproduziu a Constituição Federal para impedir a fiança e ser insuscetível de graça e anistia (fl. 9/10).
+Requer-se, em liminar e no mérito,a reforma da decisão atacada, determinando-se a aplicação da fração de 1/6 para os delitos de tráfico de drogas, pois tratam-se de delitos não hediondos e nem equiparados(fl. 13).
+É o relatório.
+O writ não merece prosseguir.
+Fato é que a tese deduzida na impetração não encontra guarida naorientação jurisprudencial sedimentada nas Turmas Criminais que integram a Terceira Seção desta Corte, no sentido de que a Lei n. 13.964/2019 não retirou o caráter hediondo do tráfico perpetrado fora da hipótese prevista no art. 33, § 4º, da Lei n. 11.343/2006, cuja equiparação encontra respaldo na própria norma constitucional:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, PARA QUE O TRÁFICO DE DROGAS NÃO SEJA CONSIDERADO COMO CRIME HEDIONDO OU EQUIPARADO PARA FINS DE PROGRESSÃO DE REGIME PRISIONAL. IMPOSSIBILIDADE. RÉU CONDENADO POR CRIME EQUIPARADO A HEDIONDO (TRÁFICO DE DROGAS). CONSEQUÊNCIAS DELETÉRIAS DA LEI N. 8.072/1990 NÃO AFASTADAS PELO PACOTE ANTICRIME. AGRAVO REGIMENTAL DESPROVIDO.
+1. A equiparação do crime de tráfico de drogas a crimes hediondos, assim como a tortura e o terrorismo,decorrem diretamente da Constituição Federal, não sendo adequado afirmar que o "Pacote Anticrime" afastou as consequências deletérias da Lei n. 8.072/1990 destes delitos.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 737.532/SP, Ministro Joel Ilan Paciornik,Quinta Turma, DJe 19/5/2022 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NATUREZA DO DELITO DE TRÁFICO DE DROGAS. LEI N. 13.964/2019. EQUIPARAÇÃO A DELITOS HEDIONDOS. MAIOR GRAVIDADE APONTADA PELA PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA DE 1988. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É consolidado que " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021).
+2. Diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo.Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas.
+3. Agravo regimental não provido.
+(AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz,Sexta Turma, DJe 16/5/2022 - grifo nosso)
+Ante  o  exposto,  com  base  no  art.  210  do  RISTJ,  indefiro  liminarmente  o  presente  habeas  corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. NATUREZA DO DELITO DE TRÁFICO DE DROGAS. LEI N. 13.964/2019. EQUIPARAÇÃO A DELITOS HEDIONDOS. MAIOR GRAVIDADE APONTADA PELA PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA DE 1988. PRECEDENTES DA QUINTA E DA SEXTA TURMAS DESTA CORTE.
+Habeas corpus indeferido liminarmente.
