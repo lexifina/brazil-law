@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto porPabrine Karolainy Hastenreter Luz,no qual se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou a ordem no writoriginariamente impetrado, nos termos da seguinte ementa (fl. 83):
+HABEAS CORPUS. ARTIGO 340 DO CP. TRANSAÇÃO PENAL. SUSPENSÃO DO CUMPRIMENTO EM RAZÃO DA PANDEMIA DO CORONAVÍRUS. CÔMPUTO DO PERÍODO COMO PENA EFETIVAMENTE CUMPRIDA. EXTINÇÃO DA PUNIBILIDADE. IMPOSSIBILIDADE. CARÁTER RESSOCIALIZADOR DA PENA. ORDEM DENEGADA.
+- Inviável computar o período de suspensão da transação penal, em razão ao cenário pandêmico ocasionado pelo coronavírus, como pena efetivamente cumprida, sob pena de frustrar as finalidades de retribuição e ressocialização da paciente, próprias da sanção penal.
+Requer a recorrente, em suma, seja declarada a extinção da punibilidade,em virtude do implemento das condições assumidas em sede de transação penal, notadamente pelo cômputo do período de suspensão das atividades em decorrência da pandemia da Covid-19(fl. 101).
+Recebidos os autos, oMinistério Público Federal ofereceu parecer pelo desprovimento do recurso(fls. 113/114).
+É o relatório.
+Não obstante as razões da defesa, a insurgência não prospera.
+O reconhecimento de cumprimento ficto de prestação de serviço à comunidade não merece acolhida, pois, para este Tribunal Superior, não é admissível, por ausência de previsão legal, que se considere como cumprida a pena daquele que já obtivera - por motivo de força maior e para não se expor a maior risco em virtude da pandemia - o benefício da suspensão da pena restritiva de direitos, sendo absolutamente necessário o efetivo cumprimento da pena como instrumento tanto de ressocialização do apenado como de contraprestação em virtude da prática delitiva, a fim de que o reeducando alcance o requisito necessário para a extinção de sua punibilidade (AgRg no HC n. 644.942/GO, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 8/6/2021, DJe 17/6/2021).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENA RESTRITIVA DE DIREITOS. SUSPENSÃO TEMPORÁRIA EM RAZÃO DA PANDEMIA DO NOVO CORONAVÍRUS. PEDIDO DE RECONHECIMENTO DO PERÍODO SUSPENSO COMO PENA CUMPRIDA. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. Não é admissível, por ausência de previsão legal, que se considere como cumprida a pena daquele que já obtivera - por motivo de força maior e para não se expor a maior risco em virtude da pandemia - o benefício da suspensão da pena restritiva de direitos, sendo absolutamente necessário o efetivo cumprimento da pena como instrumento tanto de ressocialização do apenado como de contraprestação em virtude da prática delitiva, a fim de que o reeducando alcance o requisito necessário para a extinção de sua punibilidade  ..  (AgRg no HC n. 644.942/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/06/2021, DJe 17/06/2021).
+2. Conforme o entendimento desta Corte, a suspensão do cumprimento das penas restritivas de direitos em razão da pandemia ocorreu apenas por motivo de força maior (evitar a exposição ao risco), sendo necessário o cumprimento das reprimendas a posteriori, para fins de ressocialização do apenado.
+3. No caso, não foi demonstrada a impossibilidade da retomada da pena restritiva de direitos, tendo em vista a decisão genérica do Juízo das execução e a retomada gradual de todas as atividades. A Recomendação n. 62/CNJ, deixa claro que se trata de suspensão, mas não de substituição dessas horas impeditivas por fictas. A suspensão pressupõe a retomada das penas restritivas de direitos posteriormente.
+4. Agravo regimental improvido.
+(AgRg no HC n. 687.533/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/9/2021, DJe 27/9/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. CUMPRIMENTO FICTO DE PENA ALTERNATIVA DURANTE O PERÍODO DE PANDEMIA. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O cumprimento da pena pela prestação de serviços à comunidade tem o fim de incentivar a ressocialização e tem como requisito intrínseco a contraprestação do apenado. É necessário, portanto, o efetivo cumprimento da pena, com a prestação das horas de trabalho correspondentes. Nessa linha, mulatis mutandis, o entendimento do Supremo Tribunal Federal e deste Superior Tribunal de Justiça: HC n. 124.520/RO, Rel. Min. MARCO AURÉLIO, DJ 15/5/2018 e AgRg no RHC n. 118.912/RO, Rel. Min. ANTONIO SALDANHA PALHEIRO, Dje 16/11/2020.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.934.076/GO, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/8/2021, DJe 16/8/2021)
+Ante o exposto, nego provimentoao recurso.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. EXECUÇÃO PENAL. REPRIMENDA RESTRITIVA DE DIREITOS.PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. SUSPENSÃO. COVID-19. PRETENSÃODEEXTINÇÃO DA PUNIBILIDADE. CUMPRIMENTO FICTO DE PENA ALTERNATIVA DURANTEO PERÍODO DE PANDEMIA. IMPOSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTOILEGAL NÃO EVIDENCIADO.
+Recurso improvido.
