@@ -1,0 +1,7 @@
+DECISÃO
+A defesa acoima de ilegal o acórdão proferido peloTribunal de Justiça do Estado de Minas Geraisque manteve a prisão preventiva do paciente.
+De plano, observo que o recurso não foi instruído com cópia da decisão que convolou a prisão em flagrante do acusado em custódia preventiva, o que inviabiliza o exame da ilegalidade suscitada nestes autos.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, destaco os seguintes julgados desta Corte: HC n. 555.157/RS, Rel. Ministro Leopoldo de Arruda Raposo (desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020.
+Ademais, oSTJ não tem competência para analisar pedido de extensão de decisão originalmente proferida por outro órgão jurisdicional. Nesse sentido, mutatis mutandis: RHC n. 70.232/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/5/2017; HC n. 71.162/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/2/2017; HC n. 20.706/TO, Rel. Ministro Vicente Leal, 6ª T., DJ 19/8/2002.
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
