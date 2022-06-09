@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional, no qual aponta o recorrente contrariedade aos arts. 116, I, e 119, VI, do Código Penal e 619 do Código de Processo Penal.
+Sustenta, em síntese, que a falta grave atribuída ao condenado deve ser apurada e homologadano prazo de três anos, não tornando a transcorrer o prazo prescricional após a referida homologação.
+Afirma, em reforço à sua tese, que "o prazo em questão (03 anos) deve ser considerado apenas na apuração da falta grave cometida -isto é, entre a data da falta e sua homologação; em sendo restabelecida a decisão homologatória da falta grave proferida pelo Juízo da Vara de Execuçõespor força da decisão exarada pelo Supremo Tribunal Federal nos autos doRE nº972.598/RS (Tema 941), restabelece-se, igualmente, o marco final a serconsiderado para fins de prescrição da pretensão punitivo-disciplinar" (fl. 183).
+Aduz, ainda,que "o processo foi expressamente sobrestado pela Vice-Presidência, nos termos do artigo 1.030, inciso III, do Código de Processo Civil, e tendo em vista o entendimento do SupremoTribunal Federal no sentido de que o sobrestamento do feito suspende o prazo prescricional, inocorrente a prescrição apontada pela Câmara local" (fl. 186).
+Alega, por fim,que "o voto proferido pelo eminente Desembargador-Relator, de conteúdo demasiadamente genérico, nãolevouem consideração relevantes questões jurídicas relacionadas ao tema em debate, estas em si suficientes para modificação do decidido, em flagrante inobservância aos deveres estabelecidos pelo artigo 489, parágrafo 1º, incisos III e IV, do Código de Processo Civil, já que trazida fundamentação que poderia ser aplicada a qualquer outra decisão" (fl. 187).
+Pugna, ao final, pelo afastamento da prescrição da falta grave atribuída ao recorrido.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo provimento recursal.
+Sobre o tema aqui trazido, assim se manifestou o Tribunal local (fl. 134):
+ ..  No caso dos autos que o apenado teria cometido crime no regime fechado no dia 26/12/2017.
+Neste sentido, a prescrição da pretensão para apuração de falta disciplinar cometido no curso da execução penal é de três anos, nos termos do art. 109, inciso VI, do Código Penal, aplicável à espécie, por analogia, conforme entendimento pacificado no Superior Tribunal de Justiça e no Supremo Tribunal Federal.
+Assim, verifico o decurso de mais de três anos entre a data das faltas graves (26/12/2017) e a presente data. ..
+No entanto, " o Superior Tribunal de Justiça - STJ reconhece a aplicação, por analogia, do prazo prescricional previsto no art. 109, inciso VI, do Código Penal, para apuração dasfaltas gravespraticadas no curso da execução penal. Desde a publicação da Lei n. 12.234, de 5/5/10, o prazo para que a infração disciplinar seja apurada ehomologadaem Juízo é de 3 anos, a contar do cometimento da referida falta disciplinar"(HC n. 499.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2019, DJe de 21/5/2019).
+Neste feito, cometida a falta grave em 26/12/2017, e reconhecida (homologada) em 19/9/2018 (fls. 14-15), não há falar-se em decurso do prazo prescricional de três anos.
+Prejudicado o exame relativo à contrariedade do art. 619 do CPP.
+Ante o exposto, dou provimento ao recurso especial para afastar a declaração de prescrição referente à falta grave cometida pelo recorrido, determinando que o Tribunal de origem dê continuidade ao julgamento do Agravo em Execução nº 70079697744 (fls. 131-138), como entender de direito.
+Publique-se.
+Intimem-se.
