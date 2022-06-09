@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Fabio Rodrigues Maia, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi presoem flagrante pela prática, em tese, do delito previsto no art.33, caput, da Lei n. 11.343/2006, em face da apreensão de 42,69 g de maconha.
+Em sede de habeas corpus, a defesa apontou excesso na manutenção da prisão e afirmou estarem ausentes os requisitos autorizadores da custódia cautelar. Pediu também a desclassificação para o art.28 da Lei de Drogas. AQuarta Câmara Criminal do Tribunal de Justiça de São Paulo denegou a ordem (fls. 32/39).
+Decisão deste Relatordeferindo a liminarpara, por ora, substituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto (fls. 42/44).
+Parecer ministerialopinando pela denegação da ordem (fls. 106/108).
+É o relatório.
+A defesa aponta que não houve fundamentação concreta para o decreto de prisão. O paciente foi preso em flagrante no dia 21/8/2021 e a prisão foi convertida em preventiva no mesmo dia.No caso, para determinar o encarceramento preventivo do acusado, o Juízo de origem analisou o fato de ser o réu reincidente específico na prática do crime de tráfico de drogas e estar em cumprimento de pena quando do flagrante (fl. 30). Como mencionado na decisão que concedera a liminar,a existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso denotam o risco de reiteração delitiva e constituem também fundamentação idônea a justificar a segregação cautelar (HC n. 473.991/SC, Ministra Laurita Vaz, Sexta Turma, DJe 4/2/2019). Entretanto, a quantidade de droga apreendida (42,69 g de maconha) não se mostra excessivae não indica uma maior periculosidade do acusado que justifique o encarceramento. Existem medidas alternativas à prisão que podem ser suficientes e evitar areiteração delitiva, já que o crime não foi cometido com violência ou grave ameaça à pessoa.
+Ante o exposto, concedo a ordem para determinar a substituiçãoda prisão preventiva por medidas cautelaresa serem fixadas pelo Juízo de origem, salvo se estiver preso por outro motivo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUPOSTA OCORRÊNCIA DE TRÁFICO DE DROGAS. 42,69 GDE MACONHA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REINCIDÊNCIA ESPECÍFICA.PEQUENA QUANTIDADE DE DROGAS. AUSÊNCIA DE PERICULOSIDADE OU DE GRAVE AMEAÇA À PESSOA. POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS ALTERNATIVAS.
+Ordem concedidanos termos do dispositivo.
