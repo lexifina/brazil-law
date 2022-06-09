@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por AGUINALDO VIEIRA DOS SANTOS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO - INDENIZATÓRIA - ACIDENTE DE VEÍCULO - Insurgência quanto ao indeferimento ao pedido de assistência judiciária gratuita - Pleito para reconsideração - Os argumentos reiteradamente trazidos foram rebatidos por decisão monocrática - Recurso desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 98, § 3º, 99, caput e § 3º, do CPC; e do art. 4º da Lei n. 1.060/1950, no que concerne à presença dos requisitos para a concessão do benefício da gratuidade de justiça ante a presunção de hipossuficiência da declaração de pobreza, trazendo os seguintes argumentos:
+Observa-se que o Legislador ao deliberar quanto ao §3º do artigo 99 do CPC, manteve o entendimento do artigo 4º da Lei nº 1060/50, onde ratificaram com o advindo do Novo CPC, a manutenção do entendimento da presunção de incapacidade econômica da pessoa natural.
+Ora a C. Câmara Julgadora, asseverou em seu entendimento de que a presunção de hipossuficiência trazida com a declaração de pobreza, não é absoluta mais sim relativa, fato que por si só infringe frontalmente a teor do §3º ora pugnado no presente clamor.
+Na verdade, dos fatos a presunção é objetiva, sendo somente obstada com a impugnação da parte contraria. (fl. 240).
+É, no essencial, o relatório. Decido.
+No que diz respeito à controvérsia, na espécie, não é cabível a interposição de recurso especial fundado em dispositivo de lei federal não vigente, seja em razão de a questão fática ou jurídica ter surgido após a sua revogação, seja por ser anterior à sua entrada em vigor.
+Nesse sentido: REsp 1.425.740/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 03/02/2016; AgRg no AREsp 605.044/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/02/2015; REsp 726.446/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29/04/2011.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+O Tribunal de Justiça de São Paulo já assentou ser necessária a comprovação (JTJSP 285/286 e 290/463) e que não é suficiente a declaração de pobreza (JTJSP 259/334; RT 833/213).
+Logo, não basta a simples afirmação, podendo o magistrado determinar à parte que comprove a insuficiência financeira.
+Depreende-se dos autos que os agravantes encartaram cópia da ação de inventário com arrolamento de bens consistente em imóveis, veículo e contas-poupança com saldo positivo (fls. 52/57).
+Daí, considerando os bens que integram o espólio, e a existência de ativo financeiro de plena liquidez, a razão do indeferimento do benefício requerido. (fl. 233).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
