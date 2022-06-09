@@ -1,0 +1,2 @@
+Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.471-26, de 1996, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:
