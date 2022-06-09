@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO HENRIQUE SILVA DOS REIS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - TENTATIVA DE HOMICÍDIO QUALIFICADO - ACUSADOS IMPRONUNCIADOS - RECURSO DO MINISTÉRIO PÚBLICO BUSCANDO A PRONÚNCIA - MATERIALIDADE INCONTROVERSA - INDÍCIOS SUFICIENTES DE AUTORIA - COMPETÊNCIA DO TRIBUNAL POPULAR - QUALIFICADORAS - MOTIVO TORPE E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA - MANIFESTA IMPROCEDÊNCIA NÃO DEMONSTRADA - RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 155 do CPP, no que concerne à nulidade de decisão de pronúncia fundada exclusivamente nos elementos de informação colhidos na fase policial, trazendo o(s) seguinte(s) argumento(s):
+A defesa não concorda com a decisão de pronúncia, na medida em que a mesma restou fundamentada em provas produzidas exclusivamente na fase inquisitorial, o que ofende o disposto no ad. 155 do CPP.
+ ..
+A Defesa se insurqe contra a decisão de pronúncia baseada em prova unicamente produzida no inquérito policial.
+ ..
+Verifica-se, no presente caso, que a pronúncia se baseou, exclusivamente, em provas colhidas na fase inquisitorial, o que afronta o devido processo legal, na medida em que tais elementos não foram produzidos sob o crivo do contraditório, o que é inadmissível.
+ ..
+Diante do exposto, a Defesa pugna provimento do recurso, para que sejam os Recorrentes impronunciados, mantendo-se a decisão de primeira instância, haja vista a impossibilidade da decisão de pronúncia ser fundamentada em elementos produzidos exclusivamente na fase de inquérito policial. (fls. 546/553).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja, a afirmação do acórdão recorrido de que os depoimentos prestados em juízo serviram de fundamento para a pronúncia do recorrente, veja-se:
+"Na audiência de instrução (mídia anexada à fI. 235), a testemunha S.A.M. afirmou que ficou sabendo pelo menor A.F.M. que os acusados foram os autores do crime em apuração.
+Por sua vez, na mesma ocasião, a testemunha A.C.A.S. confirmou as declarações que prestou na fase administrativa, no entanto, disse que as pessoas que viu conversando com o seu irmão não seriam os acusados presentes na audiência.
+A meu ver, conforme informações constantes do relatório de fls. 82184, a testemunha A.C.A.S. reconheceu os acusados como sendo os autores do crime, devendo ser registrado, ainda, que na fase inquisitiva ela informou ter medo de retaliações, o que pode justificar o não reconhecimento na audiência.
+Já o investigador de polícia Waldinei Bernardo da Silva, subscritor do relatório de fls. 82184, confirmou, em Juízo (mídia anexada à fI. 398v), que depois de ter sido informado acerca da autoria dos acusados, mostrou fotografias deles ás testemunhas, que os reconheceram como sendo os autores do crime. Acrescentou que a vitima também apontou os réus como autores do crime.
+Nesse quadro, evidentemente que se mostrou incorreta a decisão de impronúncia, devendo os réus ser submetidos ao julgamento popular, nos termos da acusação" (fls. 537/538).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
