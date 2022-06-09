@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno contra decisão que conheceu do conflito para declarar a competênciado Juízo da 18ª Vara do Trabalho de Porto Alegre-RS.
+O Agravante sustentaque  ..  "a Tese exarada (acima transcrita) muito claramente diz que se trata do "(..) recolhimento e o repasse de contribuição sindical ( )". Tratando-seou não de representação e base territorial (isto pouco importa para a solução do Conflito), trata-se do repasse da contribuição.Dessa forma, tendo em conta o exame meritório do Tema 994/STF (RE 1.089.282), bem assim que a monocrática agravada propõe solução contrária à tese ali assentada, não há dúvidas da necessidade da sua reconsideração ou reforma, ao final declarando-se competente a Justiça Comum (TJRS)" (fl. 1.876e).
+O Agravado,UGEIRM - SINDICATO DOS ESCRIVÃES, INSPETORES, INVESTIGADORES E COMISSÁRIOS DE POLÍCIA, atravessa petição às fls. 1.879/1.880e, declarando que "concorda e adere aos termos das razões de reconsideração ou reforma postos no indigitado recurso, requerendo seja provido para fins reconsideração ou reforma da decisão monocrática agravada, de modo que seja observada a tese do Tema 994/STF (RE 1.089.282), declarando-se como competente para a causa o Tribunal de Justiça do Estado do Rio Grande do Sul (suscitado)" (fl. 1.879e).
+Feito o breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Consoante se observa, há convergência de entendimento sobre a controvérsia enquadrar-se no recolhimento de contribuições sindicais de servidores públicos.
+De fato, o Juízo suscitante argumenta que "a questão envolve, incontroversamente, o recolhimento de contribuições sindicais de servidores públicos, ocupantes dos cargos de escrivão, inspetor e comissário de polícia" (fl. 1.779e).
+O Juízo suscitado, por sua vez, declinou da competência, sob o fundamento de que "nas ações de cobrança de sindicai movidas contra o Poder Público, desimporta, para fins de definição do juízo competente, aferir a naturezado vínculo jurídico existente entre a entidade pública e os seus servidores" (fl. 1.563/1.564.
+O parecer Ministerial é pela competência da justiça estadual, por tratar-se de "processamento e julgamento de ações propostas para discutir contribuição sindical obrigatória de servidores públicos" (fl. 1.829e).
+Havendo convergência de entendimento sobre a controvérsia, ao fim e ao cabo, versar sobre o recolhimento e o repasse de contribuição sindical de servidores público, impõe a observância da tese do Tema 994/STF, devendo ser adotado o entendimento firmado pela Suprema Corte, no referido tema, segundo o qual"Compete à Justiça Comum processar e julgar demandas em que se discute o recolhimento e o repasse de contribuição sindical de servidores públicos regidos pelo regime estatutário".
+Nesse cenário, de rigor a reconsideração da decisão defls. 1.857/1.860e, restabelecendo-se a decisão de fls. 1.833/1.835e restando, por conseguinte, prejudicado o agravo interno de fls. 1.874/1.877e.
+Posto isso, com fundamento no art. 1.021, § 2º, do CPC/2015, reconsidero a decisão de fls. 1.857/1.860e, restando, por conseguinte,restabelecida adecisão de fls. 1.833/1.835e,que, nos termos do art. 955, parágrafo único, I, do Código de Processo Civil, conheceudo conflito para declarar competente o Juízo suscitado - TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Prejudicado o exame doagravo interno de fls. 1.874/1.877e.
+Comunique-se aos Juízos suscitante e suscitados.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se.
