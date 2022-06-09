@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Antônio de Jesus Souza contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 2294388-42.2021.8.26.0000 (fls. 199/205).
+Narram os autos que o writ na origemfoi julgado após a prolação da sentença de primeiro grau, que julgou parcialmente procedente a ação penal e condenou o acusado pela prática do crime descrito no artigo 155, caput, do Código Penal (desclassificou para furto simples), às penas de um ano de reclusão e de dez dias-multa com valor unitário no mínimo legal cominado (fl. 214).
+Aqui, sustenta-se, em breve síntese, queo recorrente preenche todos os requisitos legais para o acordo de não persecução penal, e mesmo assim as autoridades coatoras (Ministério Público, Juíza "a quo" e 10ª Câmara Criminal do TJ/SP) negam a ele o benefício, requer-se que Vossas Excelências sanem essa ilegalidade e garantam ao recorrente o direito ao ANPP, com a manifestação motivada do Órgão Superior do Ministério Público, se entenderem necessário (fl. 240).
+Requer-se, ao final, o conhecimento e o provimento do recurso para reconhecer o direitodo recorrente em receber uma proposta de acordo de não persecução penal, com fundamento no art.28-Ado Código de Processo Penal(fl. 240).
+É o relatório.
+O recurso não merece provimento.
+Confiram-se, no que interessa, os seguintes trechos do acórdão impugnado (fls. 201/204):
+Em 29/3/2019, foi decretada a prisão preventiva do paciente e recebida a denúncia (fls. 67/69, do proc. crime).
+ ..
+A r. decisão de primeiro grau de jurisdição, que indeferiu o pleito de remessa dos autos à D. Procuradoria de Justiça, nos termos do art. 28-A, § 14, do Cód. de Proc. Penal, para manifestação sobre o não oferecimento de acordo de não persecução penal, está devidamente motivada, com consideração, em especial, da circunstância de ter sido a denúncia do processo crime oferecida antes do advento da Lei nº 13.964/2019.
+Assim, considerados os estreitos limites desta via jurisdicional, por encontrar razoável suporte doutrinário ejurisprudencial, a r. decisão de primeiro grau de jurisdição não enseja a caracterização de coação ilegal, ou seja, não pode ser tida como flagrantemente ilegal ou teratológica.
+Tal conclusão está em conformidade com a orientação jurisprudencial desta Corte Superior.
+Com efeito, no julgamento do HC n. 628.647/SC, em 9/3/2021, a Sexta Turma, por maioria de votos, alinhando-se ao entendimento da Quinta Turma desta Corte, firmou compreensão de que,considerada a natureza híbrida da norma, e diante do princípio "tempus regit actum" em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei n. 13.964/2019, desde que ainda não tenha ocorrido o recebimento da denúncia (AgRg no HC n. 689.079/SC, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 13/12/2021 - grifo nosso).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A FAUNA. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RETROATIVIDADE DO ART. 28-A DO CPP. LIMITE TEMPORAL. RECEBIMENTO DA DENÚNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acordo de não persecução penal é instituto mediante o qual o órgão acusatório e o investigado celebram negócio jurídico em que são impostas condições, as quais, se cumpridas em sua integralidade, conduzem à extinção de punibilidade do agente.
+2. O caráter predominantemente processual, em que pese ter reflexos penais, e a própria razão de ser do instituto - evitar a deflagração de processo criminal -, conduzem a se sustentar que sua retroatividade, diversamente do que ocorre com as normas híbridas com prevalente conteúdo material (de que é exemplo o dispositivo que condiciona a ação penal à prévia representação da vítima), deve ser limitada ao recebimento da denúncia, isto é, à fase pré-processual da persecutio criminis.
+3. No caso dos autos, a denúncia foi recebida em 4/9/2018 - antes das alterações promovidas pela Lei n. 13.694/2019, que entraram em vigor em 23/1/2020 - e a sentença condenatória já havia sido proferida e confirmada pelo Tribunal a quo, inclusive. Assim, ao se considerarem os marcos temporais mencionados, não havia possibilidade de oferecimento do ANPP e, portanto, não está caracterizada a infringência do art. 28-A do CPP.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.937.513/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/9/2021 - grifo nosso)
+Essa orientação, de fato, coaduna-se com o entendimento do Supremo Tribunal Federal, no qual foi fixada a tese segundo a qualo acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei n. 13.964/2019, desde que não recebida a denúncia (HC n. 191.464 AgR, Ministro Roberto Barroso, Primeira Turma, DJe 26/11/2020).
+Diante disso, cabível a negativa de provimento ao recurso, porquanto as disposições previstas nosarts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no RHC n. 155.189/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/11/2021).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS.FURTO. RECEBIMENTO DA DENÚNCIA. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). APLICAÇÃORETROATIVA. IMPOSSIBILIDADE. DENÚNCIA JÁ RECEBIDA QUANDO DA VIGÊNCIA DOINSTITUTO. PRECEDENTES. ILEGALIDADE MANIFESTA NÃO EVIDENCIADA.
+Recurso em habeas corpus improvido.
