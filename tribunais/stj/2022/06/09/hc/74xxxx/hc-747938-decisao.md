@@ -1,0 +1,11 @@
+DECISÃO
+EDNEI FERREIRA DE OLIVEIRA, condenado por lesão corporal e ameaça, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que a despeito da pena de 4 meses e 10 dias de detenção, impôs-lhe o regime semiaberto para o início do cumprimento da pena, o qual pretende a defesa seja liminarmente modificado para o mais brando.
+O caso enseja o julgamento antecipado do habeas corpus, visto que a questão nele ventilada encontra pacífica orientação desta Corte. Deveras, extrai-se do acórdão impugnado, no que interessa, que o regime semiaberto foi imposto ao paciente, nestes termos (fl. 222):
+ ..
+Regime prisional: O regime prisional adequado é o semiaberto, como medida necessária e suficiente para a prevenção e reprovação dos delitos, levando em consideração a reincidência do réu que demonstra sua personalidade voltada ao crime, exigindo maior rigor na penalização, atendendo o disposto nos §§ 2º e 3º, do art. 33, do Código Penal e na esteira do entendimento das Cortes Superiores:
+Como se observa, embora o paciente haja sido condenado ao cumprimento de pena que permitiria o regime aberto e as circunstâncias judiciais não tenham sido desfavoráveis, trata-se de réu reincidente.
+Ora, " c onsolidado neste Pretório o entendimento de que, embora o quantum inferior ou igual a 4 anos permita, em tese, a fixação do regime aberto, o fato do paciente ser reincidente, justifica a imposição de regime prisional mais gravoso, no caso o semiaberto" (AgRg no HC n. 738.656/SP, Rel. Ministro Joel Ilan Paciornik, DJe 19/5/2022).
+De fato, "diante da reincidência, não há ilegalidade na fixação do regime inicial semiaberto, mesmo que a pena seja estabelecida em patamar inferior a quatro anos de reclusão. Súmula 269/STJ. 3. Agravo desprovido. (AgRg no HC n. 711.008/SP, Rel. Ministro Ribeiro Dantas, DJe 14/2/2022).
+Nesse sentido, aliás, é o enunciado contido na Súmula 269 do STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Publique-se e intimem-se.
