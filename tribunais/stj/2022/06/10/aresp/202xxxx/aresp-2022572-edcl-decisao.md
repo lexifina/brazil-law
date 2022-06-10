@@ -1,0 +1,18 @@
+DECISÃO
+OI S.A. - Em Recuperação Judicial, parte ré, opõe embargos de declaração à decisão por meio da qual dei provimento ao seu recurso especial.
+A parte embargante sustenta que os honorários advocatícios foram arbitrados em quantia irrisória.
+Razão assiste à parte embargante, pois a verba honorária, na forma como arbitrada na decisão embargada, não condiz com a magnitude (proveito econômico) da pretensão deduzida na petição inicial e o tempo de tramitação da demanda.
+Dei provimento ao recurso especial nestes termos:
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para julgar improcedente o pedido inicial.
+ ..
+Ficam invertidos os ônus sucumbenciais estipulados na sentença, com honorários advocatícios de 10% sobre o valor atualizado da causa (R$ 1.500,00 - um mil e quinhentos reais, dado em junho de 2012, e-STJ fl. 115). Em caso de beneficiário da gratuidade da justiça, fica suspensa a exigibilidade das obrigações decorrentes de sua sucumbência.
+A demanda foi ajuizada em junho de 2012, ou seja, há dez anos. Além disso, é necessário considerar que a causa, não obstante discutir matéria em relação à qual a jurisprudência do Superior Tribunal de Justiça (STJ) está pacificada (direito à retribuição acionária baseada em contrato de participação financeira celebrado para aquisição de linha telefônica), apresenta a peculiaridade de ter sido ajuizada por cessionário, vindicando direitos correspondentes a 30 contratos. Nesse quadro, nota-se que ovalor atribuído à causa (R$1.500,00 - um mil e quinhentos reais, em junho de 2012), mesmo após atualizado até o presente momento, não reflete verdadeiramente a expressão econômica da pretensão nela deduzida, conclusão reforçada pela declaração da parte autora de que atribuiu tal valor " ..  para efeitos legais.  .. ".
+Conforme o artigo 85 da Lei 13.105/2015 (Código de Processo Civil - CPC), o valor da causa, atualizado, pode ser utilizado nas hipóteses em que não for possível mensurar o proveito econômico obtido, mas quando ele (valor da causa) for muito baixo, como ocorre neste caso, o juiz fixará o valor dos honorários por apreciação equitativa.Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU O PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL EM SEDE DE RECURSO ESPECIAL REPETITIVO.
+1. A Corte Especial, ao julgar o Tema Repetitivo 1076 (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), firmou as seguintes teses jurídicas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.918.134/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022.)
+Em face do exposto, acolho os embargos para fixar o valor dos honorários advocatícios em R$2.000,00 (dois mil reais).
+Intimem-se.
