@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quinta Turma desta Corte Superior que, por unanimidade, desproveu o agravo regimental do ora embargante(fls. 2177/2186). O acórdão embargado ficou assim ementado:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NULIDADE. INQUIRIÇÃO DE TESTEMUNHAS DA ACUSAÇÃO A DESTEMPO. PRECLUSÃO E AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INEXISTÊNCIA DE OMISSÃO. ART. 209 DO CÓDIGO DE PROCESSO PENAL - CPP. BUSCA DA VERDADE REAL. NULIDADES. ARGUIÇÃO EM MOMENTO OPORTUNO. NULIDADE PELA INVERSÃO DA ORDEM DE INTERROGATÓRIO. ARTIGO 400 DO CÓDIGO DE PROCESSO PENAL - CPP. PRECLUSÃO. INEXISTÊNCIA DE COMPROVAÇÃO DE PREJUÍZO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, o TJPR afastou o pedido de reconhecimento da nulidade na inquirição de testemunhas da acusação a destempo em razão da preclusão e da ausência de demonstração dos efetivos prejuízos, razão pela qual não adentrou na análise da ausência de motivação do juízo sentenciante. Assim, não houve omissão por parte do juízo originário.
+1.1. "A ne gativa de prestação jurisprudencial se configura apenas quando o Tribunal deixa de se manifestar sobre ponto suscitado e que seria indubitavelmente necessário ao deslinde do litígio e não quando decide em sentido contrário ao interesse da parte" (AgRg no REsp n. 1.638.488/PE, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/6/2018).
+2. A jurisprudência desta Corte Superior de Justiça possui o entendimento consolidado de que não configura nulidade a ouvida de testemunha indicada extemporaneamente pela acusação, como testemunha do Juízo, conforme estabelece o art. 209 do Código de Processo Penal, em observância ao princípio da busca da verdade real.
+2.1. No caso, ainda que se cogitasse prejuízo à defesa, a preclusão na alegação de qualquer nulidade encontra resguardo na jurisprudência desta Corte, pois, em respeito à segurança jurídica e à lealdade processual, ela, bem como qualquer outra falha ocorrida na instrução processual, devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+3. A nulidade decorrente da inversão da ordem do interrogatório - prevista no artigo 400 do Código de Processo Penal - também está sujeita à preclusão e demanda a demonstração de prejuízo.
+3.1. No caso concreto, a defesa não apontou a nulidade emmomento oportuno, à altura da audiência de instrução, ocorrendo o fenômeno da preclusão, somada a ausência de prejuízo consignada pelo juízo originário. E, para analisar a não comprovação de prejuízo pela defesa seria necessária a incursão no universo fático-probatório dos autos, o que encontra impeço na Súmula n. 7/STJ.
+4. Agravo regimental desprovido."
+Nos presentes embargos, a Defesa alega a existência de omissãono acórdãoquanto à afirmativa deque a nulidade por ausência de fundamentação representa NULIDADE ABSOLUTA, cognoscível de ofício, a qualquer tempo e grau de jurisdição. Na espécie, salienta quesuscitou a nulidade pelo meio processual adequado, qual seja, em revisão criminal, conforme expressa previsão do artigo 621, I, do Código de Processo Penal - CPP.
+Pugna, assim, pelo acolhimento dos embargos para que seja sanada a omissão.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. NULIDADE ABSOLUTA EXIGE COMPROVAÇÃO DE EFETIVO PREJUÍZO.EMBARGOS REJEITADOS.
+1. Na espécie, o acórdão embargado não ostenta nenhum dos vícios aludidos no art. 619 do Código de Processo Penal - CPP.
+2. Ajurisprudência desta Corte está firmada no sentidode que "o reconhecimento de eventual nulidade, relativa ou absoluta, exige a comprovação de efetivo prejuízo, vigorando o princípio pas de nulité sans grief, previsto no art. 563, do CPP (..)" (AgRg no AREsp n. 1.937.337/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/11/2021).
+3. Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no decisum.
+Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios, tendo sido explícito que oTJPR afastou o pedido de reconhecimento da nulidade na inquirição detestemunhas da acusação a destempo em razão da preclusão e da ausência de demonstração dos efetivos prejuízos suportados pela parte.
+Concluiu aquele juízo quea determinação de diligências pelo magistrado encontrava-se amparada no C. Proc. Penal, art. 209, não havendo se falar em afronta à Constituição Federal, art. 93, IX. Ressaltou, ainda, que"tampouco aqui houve insurgência opportuno tempore, e igualmente não foi demonstrado concreto e efetivo prejuízo, de sorte que aplicável, mais uma vez, a máxima pas de nullité sans grief".
+Assim, oacórdão recorrido não destoa da jurisprudência desta Corte de que "o reconhecimento de eventualnulidade,relativa ou absoluta, exige a comprovação de efetivo prejuízo, vigorando o princípio pas de nulité sans grief, previsto no art. 563, do CPP(..)" (AgRg no AREsp n. 1.937.337/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/11/2021).
+Ante o exposto, voto no sentido de rejeitar os embargos declaratórios.
