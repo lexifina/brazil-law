@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo da 3ª Vara Federal de São Bernardo do Campo - SJ/SP em desfavor do Juízo de Direito da 3ª Vara Cível da Comarca de Diadema/SP, extraído dos autos da ação de obrigação de fazer, cumulada com pedido de condenação em danos morais e tutela antecipada(Processo n. 5000788-33.2022.4.03.6338), ajuizada porJaqueline Alves de Sobral em desfavor de Diadema Escola Superior de Ensino, mantenedora da Faculdade Diadema - UNIESP, objetivando a expedição de diploma de nível superior.
+Extrai-se dos autos que a demanda foi originariamente propostaperante o Juízo da 3ª Vara Federal de São Bernardo do Campo SJ/SP, que determinou a expedição de carta precatória ao Juízo Estadual para proceder à intimação da parte ré, sediada naquele município.
+Distribuída a deprecata à 3ª Vara Cível da Comarca de Diadema/SP, foi exarada decisão recusando o cumprimento, com indicativo de sua incompetência absoluta, determinando a devolução da precatória ao Juízo Federal que suscitou o presente conflito ao argumento de que (e-STJ fls. 51-53):
+Trata-se de carta precatória cuja ação principal tramita perante o Foro Federal de São Bernardo do Campo. Contudo, há vários motivos para o não cumprimento do quanto solicitado. Senão, vejamos:
+1) O artigo 255 do Código de Processo Civil, assim preconiza:
+"Art. 255. Nas comarcas contíguas de fácil comunicação e nas que se situem na mesma região metropolitana, o oficial de justiça poderá efetuar, em qualquer delas, citações, intimações, notificações, penhoras e quaisquer outros atos executivos"
+E é justamente o que ocorre no presente caso.
+2) As Comarcas de Diadema e São Bernardo são agrupadas como contíguas pela E. Corregedoria Geral de Justiça, o que foi reafirmado pela Resolução 742/2016, publicada no DOE em 16/06/2016:
+"Art. 1º. Nas Comarcas agrupadas, nos termos do art. 23 da Lei Estadual nº 3.396/82 e desta Resolução, a jurisdição de cada Vara é extensiva ao território da outra do mesmo Grupo para a prática de atos e diligências processuais cíveis, criminais, de execuções fiscais e relativas à Infância e Juventude.
+§ 1º - Os atos e diligências processuais, nos agrupamentos previstos nos artigos 3º, 4º e 5º desta Resolução, deverão ser praticados diretamente pelo Juízo interessado, vedada a expedição de precatória, salvo motivo relevante mencionado no despacho que determinar a expedição e na carta expedida, observado ainda o disposto no art. 2º desta Resolução (grifos nossos).
+Art. 5º. Ficam agrupadas, para efeito de atos e diligências, nos termos desta Resolução, as Comarcas abaixo indicadas: ..GRUPO III: Diadema e São Bernardo do Campo".
+ ..
+O Juízo Federalsuscitou o presente conflito de competência afirmando a competência do Juízo estadual, ao fundamento de que "a sede deste Juízo é localizada em São Bernardo do Campo, município distinto do local do cumprimento da diligência - que, por outro lado, é sede de Vara da Justiça Estadual, a qual, por conseguinte, deve ser a responsável pelo seu cumprimento, nos termos do parágrafo único do artigo 237 do Código de Processo Civil. Nesse sentido é pacífica a jurisprudência do E. Superior Tribunal de Justiça, a exemplo:  .. " (e-STJ fl. 5).
+É o relatório. Passo a decidir.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+Com razão o juízo suscitante.
+A jurisprudência desta Corte, em casos análogos ao presente, é dominante no sentido de ser do juízo suscitado a competência para o cumprimento da carta precatória em questão.
+Entende-se que, "independentemente de haver Juízo federal com jurisdição sobre a comarca, "as cartas precatórias, citatórias, probatórias, executórias e cautelares, expedidas pela Justiça Federal, poderão ser cumpridas nas comarcas do interior pela Justiça Estadual"(CC Nº 140.671/SC, rel. Min. Marco Buzzi, Segunda Seção, DJe 21/9/2015).
+Na mesma linha confiram-se: CC Nº 149.433/SC, rel. Min. Moura Ribeiro, Segunda Seção, DJe 6/2/2017; CC Nº 148.953/SC, rel. Min. Maria Isabel Gallotti, Segunda Seção, DJe 7/12/2016 ; CC Nº 139.501/SC, rel. Min. João Otávio Noronha, Segunda Seção, DJe 25/6/2015.
+Ainda, as hipóteses de recusa de cumprimento da Carta Precatória constituem rol taxativo descrito no art. 267 do CPC/2015, verbis:
+Art. 267. O juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
+I - a carta não estiver revestida dos requisitos legais;
+II - faltar ao juiz competência em razão da matéria ou da hierarquia;
+III - o juiz tiver dúvida acerca de sua autenticidade.
+ ..
+Nesses termos, "ao Juízo deprecado somente é permitido devolver carta precatória quando não estiver revestida dos requisitos legais quando carecer de competência em razão da matéria ou da hierarquia ou, ainda, quando tiver dúvida acerca de sua autenticidade". (CC 174.482/MG, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, DJe 20/10/2020).
+No caso em exame, constata-se que a recusa do Juízo suscitante não está respaldada por nenhuma das hipóteses legais acima elencadas.
+No mesmo sentido, confira-se precedente desta Corte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL E JUÍZO ESTADUAL. CUMPRIMENTO DE CARTA PRECATÓRIA EM COMARCA ONDE INEXISTE VARA DA JUSTIÇA FEDERAL. COMPETÊNCIA DO JUÍZO ESTADUAL.
+1. O cumprimento de cartas precatórias expedidas pela Justiça Federal poderão serrealizadas perante a Justiça Estadual quando a Comarca não for sede de Vara Federal.
+2. De acordo com o art. 209 do Código de Processo Civil, a providência somente poderá ser recusada nas hipóteses em que a carta precatória não estiver revestida dos requisitos legais; quando o Juízo deprecado entenda carecer de competência em razão da matéria ou da hierarquia e quando tiver dúvida acerca da autenticidade do documento.
+3. No caso vertente, das razões invocadas pelo Juízo suscitante, não se verifica que a recusa tenha se dado por alguma das justificativas acima elencadas, o que firma a competência da Justiça Estadual para o prosseguimento do feito.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Criminal de São Vicente/SP, ora suscitante.
+(CC 125.261/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), TERCEIRA SEÇÃO, julgado em 27/02/2013, DJe 11/03/2013)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUIZADOS ESPECIAIS. CUMPRIMENTO DE CARTA PRECATÓRIA. OUVIDA DE TESTEMUNHA. APLICAÇÃO DO ART. 209 DO CPC.
+1 - Mesmo nos Juizados Especiais Cíveis, o juízo deprecado somente pode recusar o cumprimento de carta precatória, de forma motivada, com fundamento em uma das causas taxativamente previstas no rol do art. 209 do CPC.
+2 - Precedentes específicos desta Corte.
+3 - CONFLITO DE COMPETÊNCIA CONHECIDO PARA DETERMINAR A COMPETÊNCIA DO JUÍZO DE ARAÇATUBA.
+(CC 111.968/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 23/02/2011, DJe 04/03/2011)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO ESTADUAL E ESPECIAL FEDERAL. CARTA PRECATÓRIA DA JUSTIÇA FEDERAL. ART. 209 DO CPC. TAXATIVIDADE. EXECUÇÃO DE TÍTULO JUDICIAL. UNIÃO. AUTORA. JUIZADO ESPECIAL FEDERAL. IMPOSSIBLIDADE. ART. 6º, INCISOS I E II, DA LEI 10.259/01.
+1. O art. 209 do CPC, sendo taxativo, somente permite ao juízo deprecado recusar cumprimento à carta precatória, devolvendo-a com despacho motivado, quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou quando tiver dúvida acerca de sua autenticidade.
+2. A Lei nº 10.259/01 prevê, expressamente, que a União somente pode ser parte ré, e não autora, nos processos de competência dos Juizados Especiais Federais (art. 6º, incisos I e II).
+3. Tratando-se, pois, de execução de título judicial proposta pela União, não poderia o Juiz estadual recusar o cumprimento da carta precatória sob o fundamento da instalação de Juizado Especial Federal na respectiva comarca.
+4. Precedentes da Seção: CC 63.940/SP, Rel. Min. Castro Meira, DJU de 12.09.07; CC 48.125/SP, Rel. Min. Denise Arruda, DJ de 15.05.06.
+5. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara Cível de Catanduva/SP, o suscitado.
+(CC 87855/SP, 1ª Seção, Min. Castro Meira, DJ de 29/10/2007)
+Confiram-se, ainda, recentes decisões monocráticas proferidas em casos análogos aodos autos:CC 188.111/SP, Rel. Min. Benedito Gonçalves, DJe de 17/5/22;CC 179.745/SP, Rel. Min. Assusete Magalhães, 18/8/2021; CC 179.739/SP, Rel. Min. Gurgel de Faria, DJe de 16/6/2021; CC 179.754/SP, Rel. Min. Mauro Campbell Marques, DJe de 1º/6/2021; CC 176.242/SP, Rel. Min. Sérgio Kukina, Primeira Seção, DJe 16/12/2020.
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO do presente conflito para declarar competente o Juízo de Direito da 3ª Vara Cível da Comarca de Diadema/SP, suscitado, para o cumprimento da carta precatória.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO DEPRECANTE E JUÍZO DEPRECADO. CARTA PRECATÓRIA. RECUSA DE CUMPRIMENTO. HIPÓTESES ELENCADAS NO ART. 267 DO CPC/2015. PRECEDENTES. NÃO OCORRÊNCIA DE QUAISQUER DELAS NO CASO. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA TERCEIRA VARA CÍVEL DE DIADEMA - SP, O SUSCITADO.
