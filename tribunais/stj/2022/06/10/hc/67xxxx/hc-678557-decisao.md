@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar,impetrado em favor de FABRICIO LEMOS DOS SANTOS, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Agravo em Execução Penal n. 5048890-40.2021.8.21.7000.
+O Paciente, que se encontrava submetido ao cumprimento de pena privativa de liberdade no regime fechado, teve deferido pelo Juízo da Execução Penal o pedido de progressão para o regime semiaberto.O Tribunal de origem, no entanto, deu provimento ao recurso do Ministério Público, retornando o Apenado para o regime fechado, sob o entendimento de que não está comprovado que o Paciente preenche o requisito subjetivo necessário à progressão prisional.
+No presente writ, sustenta-se que o Reeducando preenche o requisito subjetivo para a progressão de regime e que o cometimento de novos crimes ou faltas no curso da execução penal não deve obstar o benefício penal. Alega que a realização de exame criminológico é medida excepcional e que somente tem cabimento em situação de real necessidade.
+Requer-se, liminarmente e no mérito, o restabelecimento do regime semiaberto ao Apenado.
+Em consulta ao andamento processual eletrônico, constatei que, em31/05/2022, o Magistrado singular reconheceu a prática de falta grave praticada pelo Paciente consistente no cometimento de novo delito, determinando a regressão de regime para o fechado, "nos termos do artigo 118, I, da LEP, que já restaria imposto pelo saldo da pena, nos termos do artigo 111 da LEP", oportunidade em que alterou a data-base para futuras progressões.
+Com a determinação de agravamento do regime de cumprimento da pena em razão de fato superveniente, tem-sequea conjuntura que levou ao pedido de progressão do modo carcerário formulado na hipótesenão mais subsiste. Assim, alterada a situação fática inicial, sobreveio a ausência de interesse de agir.
+Ante o exposto, JULGO PREJUDICADO o pedido dehabeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PROGRESSÃO DE REGIME PRISIONAL. POSTERIOR ALTERAÇÃO DA SITUAÇÃO FÁTICA. CONJUNTURA RELATADA NA INICIAL QUE NÃO MAIS PERSISTE. AUSÊNCIA SUPERVENIENTE DE INTERESSE DE AGIR. PEDIDO DEHABEAS CORPUSPREJUDICADO.
