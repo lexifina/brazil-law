@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LUIZ FERNANDO COSTA DA SILVA ou LUIZ FERNANDO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500530-68.2019.8.26.0161.
+Consta nos autos que o Paciente foi condenado às penas de9 (nove) anos e 2 (dois) meses de reclusão, em regime fechado, e 573 (quinhentos e setenta e três) dias-multa, pela prática, em concurso material, dos delitos do art. 16, parágrafo único, inciso VI, da Lei n.10.826/2003, e doart. 33,caput, da Lei n.11.343/06, em razão da apreensão de4.555,80g(quatro mil, quinhentos e cinquenta e cinco gramase oitenta centigramas) de maconha e 992,20g(novecentos e noventa e dois gramas e vinte centigramas) de cocaína.
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva.
+Nestewrit, o Impetrante alega que não houve fundamentação idônea para o afastamento da causa de diminuição prevista no § 4.º do art. 33 da Lei de Drogas, bem como para a fixação do regime fechado para início de cumprimento da pena.
+Requer, liminarmente, seja o Paciente colocado em liberdade e, no mérito, a aplicação da referida minorante e fixação de regime aberto.
+É o relatório. Decido.
+As matérias debatidas nestehabeas corpusjá foramobjeto de exame pelo Superior Tribunal de Justiça no julgamento do REsp n. 1.913.482/SP, de minha relatoria, o qual foi assim ementado:
+"RECURSO ESPECIAL.TRÁFICO DE DROGAS. INDIVIDUALIZAÇÃO DA PENA. SANÇÃO-BASE. ART. 42 DA LEI N. 11.343/2006. NATUREZAE QUANTIDADE DAS DROGAS APREENDIDAS. APTAS A AMPARAR A EXASPERAÇÃO DA BASILAR. PRECEDENTES. MINORANTE DO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. PLEITO DE APLICAÇÃO. ÓBICE DA SÚMULA N. 7/STJ. CRIME DO ART. 16, PARÁGRAFO ÚNICO, INCISO VI, DA LEI N. 10.826/2003. ARMA MUNICIADA. FUNDAMENTO INIDÔNEO PARA JUSTIFICAR A ELEVAÇÃO DA PENA-BASE. PLEITO DE DETRAÇÃO DO PERÍODO DE APRISIONAMENTO PROVISÓRIO. POSSIBILIDADE. REGIME INICIAL FECHADO. FUNDAMENTO CONCRETO. RECURSO ESPECIAL CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, PROVIDO PARCIALMENTE. "
+Desse modo, owritnão pode ser conhecido, pois se trata de mera reiteração de pedido já formulado e devidamente refutado em decisão proferida em recurso especial interposto contra o mesmo acórdão ora impugnado.
+A propósito, " é pacífico o entendimento firmado nesta Corte de que não se conhece dehabeas corpuscuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. CAUSA DE DIMINUIÇÃO PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006 E REGIME PRISIONAL.MATÉRIAS JÁ ANALISADAS NOS AUTOS DO RECURSO ESPECIAL N. 1.913.482/SP. REITERAÇÃO DE PEDIDO. INADMISSIBILIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
