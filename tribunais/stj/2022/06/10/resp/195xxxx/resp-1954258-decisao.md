@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional de Previdência do Servidor Municipal de São José dos Campos, com fundamento na alínea a do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pela Terceira Câmara de Direito Público, assim ementado (fls. 742-751):
+Apelação e Reexame Necessário. Mandado de Segurança. Servidor inativo. Gratificação de horas de trabalho coletivo - HTC. Pretensão de servidor público inativo, integrante do quadro da Secretaria de Educação do Município. Recebimento da Gratificação de horas de trabalho coletivo - HTC. Requerimento de suspensão pelo Tema nº 1.017. Inaplicabilidade. Prescrição do fundo do direito.
+Inocorrência. Artigo 3º do Decreto nº 20.910/32 e da STF, Súmula 443 e Súmula 85 do STJ. Natureza geral da verba remuneratória. Súmula 31 do TJSP. Ausência de desconto da respectiva contribuição previdenciária por erro da Administração. Presunção de boa-fé da servidora. Impetrante que não concorreu para o erro.
+Precedentes desta Corte. Recurso oficial e voluntário não providos.
+A recorrente em suas razões alega violação do artigo1º do Decreto n. 20.910/1932 ao argumento de que, entre o ato de aposentadoria da parte recorrida e o ajuizamento da ação objetivando a incorporação daGratificaçãode Horas de Trabalho Coletivo- HTC, transcorre o prazo de 5 (cinco) anos, encontrando-se prescrita a ação.
+Requer, ao final, o provimento do recurso, a fim de que seja reconhecida a prescrição da pretensão.
+Sem contrarrazões (cf. certidão de fl. 758).
+Nos autos do ARESP n. 1.885.189/SP, proferi decisão convertendo o agravo em recurso especial (fl. 914).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Na origem, a autora,servidora pública municipal aposentada,impetrou mandado de segurança em face do Instituto de Previdência do Servidor Público Municipal de São José dos Campos, objetivando receber a Gratificação de horas de trabalho coletivo HTC, instituída pela Lei Municipal n.4.488/1993.
+O Tribunal estadual negou provimento à apelação e à remessa necessária ao fundamento de que "a impetrante fazjus à implementaçãodo benefícioem seus proventos deaposentadoria,tal qual percebia quando na ativa", e que "a causa em apreço diz respeito a relação de trato sucessivo, daí porque não há prescrição de fundo do direito invocado. A prescrição, nessas relações, restringe-se às parcelas e volta-se àquelas vencidas antes do quinquênio que antecede a propositura da ação".
+Com efeito, evidencia-se que o entendimento firmado no acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte que se firmapelaprescriçãodo fundo do direito quanto a percepção daGratificaçãode Horas de Trabalho Coletivo (HTC), quando pagos na atividade, mas retirados dos proventos de aposentadoria. A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.SERVIDORPÚBLICO. PRETENSÃO DE RECEBIMENTO DE VANTAGEM QUE DEIXOU DE SER PAGA A PARTIR DA APOSENTADORIA.SUPRESSÃO. HIPÓTESE DEPRESCRIÇÃODE FUNDO DE DIREITO. ART. 1º DO DECRETO N. 20.910/1932. AGRAVO IMPROVIDO.
+1. Trata-se, na origem, de mandado de segurança, impetrado por servidora pública contra ato reputado ilegal que indeferiu a incorporação nos proventos de sua aposentadoria do valor correspondente ao título de Horas de Trabalho Coletivo (HTC), que era pago enquanto estava em atividade.
+2. Ao julgar os embargos de declaração, o acórdão impugnado afastou a ocorrência deprescriçãode fundo de direito, por entender tratar-se de caso deprescriçãode trato sucessivo, nos moldes da Súmula 85/STJ.
+3. A posição firmada pelo Tribunal de origem está em dissonância com a jurisprudência desta Corte de que firmou compreensão no sentido de que ocorre aprescriçãodo fundo de direito nos casos de supressão degratificação,vantagem ou benefício percebidos porservidorpúblico, por se tratar de ato único de efeito concreto.Precedentes.
+4. Hipótese diversa da analisada no Tema Repetitivo 1017, uma vez que ali se refere a verbas não pagas durante a atividade doservidore, no caso dos autos a verba deixou de ser paga por ocasião da aposentadoria da agravante.
+5. Agravo interno a que se nega provimento, mantendo-se a decisão agravada para determinar a devolução dos autos à origem, a fim de que se verifique a ocorrência ou não daprescriçãodo fundo do direito.
+(AgInt nos EDcl no AREsp 1787078/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 23/09/2021, DJe 14/10/2021)
+ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ.SERVIDORPÚBLICO.REESTABELECIMENTO DE VANTAGEM. APOSENTADORIA.PRESCRIÇÃODE TRATO SUCESSIVO. INOCORRÊNCIA.
+1. Hipótese de supressão de vantagem deservidorpelo ato de aposentadoria. Inaplicabilidade do Tema 1.017/STJ.
+2. "A jurisprudência desta Corte é firme no sentido de que, em se tratando de ato de efeito concreto que suprimiu vantagem recebida peloservidor,a contagem do prazo prescricional inicia-se a partir da sua publicação, não havendo falar em relação de trato sucessivo na espécie" (AgInt no REsp 1874802/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 17/11/2020).
+3. Agravo interno não provido.
+(AgInt no AREsp 1783189/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+No mesmo sentido, destaca-se as seguintes decisões, inclusive de minha relatoria, onde se reconheceu aprescrição do fundo do direito:EDcl no AREsp n. 1.645.035/SP, Ministro Francisco Falcão, DJe de 20/05/2022;AREsp n. 1.795.410/SP, Ministro Benedito Gonçalves, DJe de 24/03/2022;AREsp n. 1.783.189/SP, Ministro Mauro Campbell Marques, DJe de 26/02/2021.
+Ante o exposto, dou provimento ao recurso especial,a fim de denegar a segurança,nos termos do artigo 34, XVIII, c, do RISTJ,
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.SERVIDORPÚBLICO. PRETENSÃO DE RECEBIMENTO DE VANTAGEM QUE DEIXOU DE SER PAGA A PARTIR DA APOSENTADORIA. SUPRESSÃO.PRESCRIÇÃODO FUNDO DE DIREITO. PRECEDENTES. RECURSO PROVIDO.
