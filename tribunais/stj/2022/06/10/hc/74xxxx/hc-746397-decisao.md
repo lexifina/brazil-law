@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de RENILDO JOSE DA SILVA contra decisão do Desembargador Relator do Habeas Corpusn.2108144-68.2022.8.26.0000, do Tribunal de Justiça do Estado de São Paulo.
+Colhe-se nos autos que o Paciente foi condenado como incurso no art. 33,caput, da Lei n. 11.343/2006, às penas de 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e 389 (trezentos e oitenta e nove) dias-multa, porque, juntamente com outro,
+"agindo em concurso, previamente associados e com unidade de propósitos, transportavam e traziam consigo, para fins de tráfico e comercialização, 31 (trinte e uma) trouxinhas da droga Cannabis sativa L., conhecida popularmente como maconha, pesando 49,34g (quarenta e nove gramas e trinta e quatro centigramas), 24 (vinte e quatro) tubetes plásticos contendo cocaína, na forma de "crack". pesando 14,62g (quatorze gramas e sessenta e duas centigramas), 03 (três) trouxinhas também de "crack"e 20 (vinte) tubetes plásticos contendo cocaína, pesando 6,28g (seis gramas e vinte e oito decigramas), sem autorização e em desacordo com determinação legal e regulamentar." (Fl. 29; sem grifos no original)
+O Tribunal de origem deu parcial provimento ao recurso de apelação interposto pela Defesa, reduzindo as sanções do Paciente para1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, em regime semiaberto, e 194 (cento e noventa e quatro) dias-multa (fls. 47-55).
+Com o trânsito em julgado da condenação, foi determinada a expedição de mandado de prisão, observado o regime prisional fixado,e, após cumprido o mandado, da guia de recolhimento.
+A Defesa requereu, então, "ao juízo da 1ª. Vara Criminal de Itu, o sobrestamento do mandado de prisão e, expedição de guia de recolhimento a ser enviada ao DEECRIM 10 - Sorocaba (doc. 09), uma vez que, com a detração do período de prisão cautelar cumprida pelo paciente, este já faria jus ao regime aberto" (fl. 6).
+Diante do indeferimento da pretensão, a Defesa impetrouhabeas corpusperante a Corte de origem, tendo sido a ordem denegada emdecisãomonocrática proferida pelo Desembargador Relator (fls. 86-90).
+Nas razões destewrit, o Impetrante alega, em suma, que está justificada, na hipótese, a expedição da guia de execução, independentemente do cumprimento do mandado de prisão, tendo em vista que, no momento da prolação da sentença, o Paciente "já havia cumprido 07meses e 25 dias de prisão cautelar no regime fechado, preso em 02/04/2014 conforme se comprova com o B.O, foi solto em 27/11/2014 conforme Alvará de Soltura (doc. 07), quando sentenciado foi concedido a este o direito de recorrer em liberdade" (fl. 6).
+Requer, em liminar e no mérito, seja determinado o sobrestamento do mandado de prisão, determinando-se o envio da guia de recolhimento do Juízo das Execuções Criminais, para que o Paciente possa pleitear os benefícios da detração da pena e da progressão de regime.
+É o relatório. Decido.
+O presentewritfoi manejadocontra decisão monocrática do Desembargador Relatordo Tribunal de origem,que denegou liminarmente a ordem dehabeas corpus, e contra a qual ainda não foi interposto o cabível agravo interno.
+Assim, ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, já que ainda se encontra pendente o julgamento de apelação criminal na origem,impõe-se o não conhecimento da presente ação mandamental.
+A propósito, confiram-se,mutatis mutandis, os seguintes julgadosdesta Cortee doSupremo Tribunal Federal, respectivamente:
+" ..
+1. Hipótese em queopresentewritfoi manejado contra decisão singular do Desembargador Relator do Tribunal de Justiça do Estado de Minas Gerais, não tendo havido a interposição de agravo regimentalobjetivando a manifestação do Órgão Colegiado.
+2.Ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 556.467/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/03/2020, DJe 16/03/2020; sem grifos no original.)
+" .. .
+1.A jurisprudênciadesta Corte é pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instânciaanterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal,é incabível a impetração dohabeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA.NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1.Há óbice ao conhecimento dehabeas corpusimpetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+2. Inviável o exame de teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. Agravo regimental conhecido e não provido."(HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.2. Penal e Processual Penal. 3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c o art. 29, e art. 317, § 3º e 4º,"a"e"c", da Lei 4.898/1965). 4. Retirada do monitoramento eletrônico. 5.Habeas corpusimpetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.6. Agravo regimental a que se nega provimento."(HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.WRITMANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
