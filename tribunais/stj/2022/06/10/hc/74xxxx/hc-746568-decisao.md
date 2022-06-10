@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MARCELO JOSÉ MONTEIRO contra acórdão do Tribunal de Justiça do Estado de Pernambuco proferido no julgamento do HC n. 0022349-80.2021.8.17.9000.
+Consta dos autos que, em 21/10/2021, o Juízo de primeiro grau, apreciando requerimento formulado pela Autoridade Policial no âmbito da operação denominada "TARRAFA 2", decretou a prisão preventiva do Paciente e de outros Acusados pela suposta participação em estruturada organização criminosa "voltada à elaboração, planejamento, execução e obtenção de resultados com alto lucro econômico, provenientes de inúmeros crimes praticados pelos investigados, ora individualizados em suas condutas decorrentes da associação para o tráfico de drogas .. " (fl. 60).
+Inconformada com a decretação da custódia preventiva, a Defesa impetrou préviowritperante a Corte local, que denegou a ordem (fls. 21-30).
+Nestewrit, a Defesa alega a ausência dos requisitos legais e de fundamentação idônea para a prisão preventiva do Paciente.Sustenta que o Acusado ostenta condições pessoais favoráveis como ser primário, possuidor de bons antecedentes, com ocupação lícita, residência fixa, sendo possível a substituição da prisão preventiva por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.Aduz que a custódia cautelar é medida extrema, somente cabível quando insuficientes as medidas cautelares alternativas ao cárcere.
+Requer, em liminar e no mérito, a revogação da prisão preventiva com expedição de alvará de soltura em favor do Paciente.
+Pede, ainda, seja intimado o causídico para fins de sustentação oral.
+É o relatório. Decido.
+Registro que, noHC n. 746.373/PE, foi formulada idêntica pretensão à veiculada no presente feito, em favor do mesmo Paciente.Trata-se esta impetração, portanto, de merareiteraçãode pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnaremo mesmodecisume a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpusnos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.Assim, concluo pela inadmissibilidade domandamus, porquanto não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetradonesta Corte.
+No mesmo sentido,v.g.: AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019; HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 746.373/PE. LITISPENDÊNCIA. INADMISSIBILIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
