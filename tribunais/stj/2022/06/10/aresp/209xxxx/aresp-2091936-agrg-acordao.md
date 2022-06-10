@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimentalinterposto porWALLACE GOMES PEREIRAem face de decisão do MINISTRO PRESIDENTE do SUPERIOR TRIBUNAL DE JUSTIÇA-STJ que, com base nos artigos 21-E, V, do Regimento Interno do STJ-RISTJ, conheceu do agravo para não conhecer do recurso especial, porque apretensão recursal demandaria o reexame de provas (Súmula n. 7/STJ)(fls. 637/642).
+No presente regimental, a Defesa alega que a decisão é equivocada e viola direito do agravante; diz que versa sobre matéria de direito e revaloração jurídica. Aduz que "No presente caso não se faz necessário se debruçar na análise dos depoimentos das testemunhas ou sequer análise documental, põe-se a luz a qualificação jurídica dos fatos" (fl. 364)
+Pretende a reconsideração da decisão e o provimento do recurso especial.
+O MINISTÉRIO PÚBLICO FEDERAL - MPF pugnoupelo desprovimento do agravo regimental (fls. 378/381).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, a pretensão recursal, no sentido de reconhecer a fragilidade das provas para a condenação, demandaria o revolvimento fático-probatório dos autos, o que é vedado em recurso especial. Assim, inafastável a incidência da Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento capaz de modificar a decisão ora agravada, que ficamantida pelos seus próprios fundamentos.
+Consta dos autos que o ora agravante foi condenado pela prática do delito do art. 155, §§ 1º e 4º, incisos I e IV, c/c o art. 29, caput, ambos do CP, à pena de 2 anos e 8 meses de reclusão, e pagamento de 13 dias-multa, em regime inicial aberto, substituída a pena privativa de liberdade por duas restritivas de direitos (fl. 189).
+Pretende a defesa a absolvição do agravante sob a alegação de carência de provas aptas a deduzir a suposta prática delitiva.
+O Tribunal de origem manteve a sentença condenatória nos seguintes termos:
+"A materialidade e autoria delitiva restaram sobejamente comprovadas nos autos, mormente pelo registro do Boletim de Ocorrência nº 31370E/2017 (ev. 01, INQ1, fl 02, autos nº 0000856- 72.2017.827.2739); Laudo Pericial nº 382/2017 - vistoria em local de arrombamento (ev. 03 - LAU1, autos nº 0000856- 72.2017.827.2739), Laudo Pericial - Avaliação Direta em Objetos (ev. 03 - LAU1, fl.07, autos nº 0000856- 72.2017.827.2739), bem como o Auto de Exibição e Apreensão (ev. 01, INQ1, fl 13, autos nº 0000856- 72.2017.827.2739), além das provas orais colhidas durante a investigação e em juízo porquanto a matéria não se inclui nas razões do apelo, mesmo porque consta do processo a confissão do recorrente em Juízo.
+Vale destacar, ainda, que o próprio apelante admitiu a autoria do crime de furto perante a autoridade policial, narrando com riqueza de detalhes a dinâmica dos fatos (ev. 01, fls. 6-8, autos nº 0000856- 72.2017.827.2739). Somado isso, o boné encontrado nas imediações do estabelecimento comercial é de propriedade do recorrente, o qual decidiu confessar a prática do delito, uma vez que tinha por hábito usar referida chapelaria. Ademais, após a confissão do apelante, foram localizados alguns objetos furtados, os quais haviam sido escondidos "no mato", pelo próprio insurgente. O que corrobora a harmonização da confissão do réu aos demais fatos do acervo probatório dos autos.
+Além disso, conforme bem assentado pelo Ilustre Procurador de Justiça em seu parecer "Conforme Eugênio Pacceli de Oliveira (OLIVEIRA, Eugênio Pacelli. Curso de Processo Penal. 19. ed. São Paulo: Atlas, 2015, p. 411), a confissão do réu "constitui uma das modalidades de prova com maior efeito de convencimento judicial, embora, é claro, não possa ser recebida como valor absoluto". Prossegue advertindo que é necessário "se confrontar o conteúdo da confissão com os demais elementos de prova".
+Ademais, mostra-se válida a confissão obtida em sede inquisitorial, desde que em harmonia com os demais elementos probatórios do acervo processual. Ressaltando-se que, tais circunstâncias corroboram a confissão extrajudicial do apelante tornando patente a conduta dolosa, bem como as elementares do tipo descritos na denúncia.
+Veja-se que, o recorrente, na fase inquisitorial, confessou os fatos descritos na denúncia, o que não torna nula a confissão a não oitiva em sede judicial. Eis que, sua confissão encontra-se em harmonia com os demais fatos ocorridos nos autos, o que torna válida a confissão, conforme reconhecido na sentença.
+ ..
+Em conformidade com a jurisprudência do Superior Tribunal de Justiça, é plenamente possível a condenação baseada em confissão extrajudicial, ainda que retratada em juízo, desde que corroborada por outros depoimentos colhidos na fase instrutória, sendo esse o caso dos autos.
+ ..
+Verifica-se, portanto, que a suposta fragilidade do acervo probatório não foi evidenciada, tendo o Ministério Público se desincumbindo devidamente do ônus probatório, de forma apta a sustentar o decreto condenatório.
+Portanto, com a demonstração da existência da materialidade e autoria delitiva, incabível a absolvição sumária do réu/apelante, bem como não se acolhe o argumento do princípio do in dubio pro reo, especialmente porque os elementos probatórios são convincentes a sustentar a condenação.
+Afasta-se, pois, a tese absolutória aviada pela defesa técnica.
+Sendo assim, constato que sentença de primeira instância, não está a merecer qualquer reparo, uma vez que restou proferida em consonância à legislação de regência e arestos jurisprudenciais." (fls. 257/259)
+A r. sentença, por sua vez, está assim fundamentada:
+"A materialidade do crime de furto qualificado descrito na denúncia está comprovada através do Auto de Exibição e Apreensão, Termo de Entrega, Boletim de Ocorrência n.º 31370E/2017, Laudo Pericial de Vistoria em Local de Arrombamento e Laudo de Exame Pericial de Vistoria e Avaliação Direta em Objetos (Inquérito Policial n.º 0000856- 72.2017.827.2739).
+Da mesma forma, a autoria restou configurada através da prova oral colhida em juízo.
+A vítima Lucileide Bezerra de Sousa, ouvida judicialmente, narrou de forma circunstanciada a ocorrência do furto em seu estabelecimento comercial, aduzindo que pela manhã encontrou a porta arrombada e notou que vários objetos haviam sido subtraídos. Os agentes cortaram o cadeado e arrombaram a outra porta de madeira. Para realizar a manutenção das portas, gastou, em média, R$ 150,00 (cento e cinquenta reais). Alguns dos objetos subtraídos foram restituídos. Teve um prejuízo de R$ 1.000,00 (mil reais). Nas imediações do estabelecimento comercial, uma criança achou um boné. Entregou o boné na Delegacia. A partir disso, os policiais chegaram aos denunciados. Os objetos estavam escondidos no mato, etc.
+Verifica-se ainda que o réu Wallace Gomes Pereira, quando ouvido na fase policial, narrou detalhadamente como praticou o delito (evento 01 fls 6, 7 e 8, do IP nº 00008567220178272739).
+Deste modo, conquanto existam entendimentos de que uma sentença condenatória deva estar amparada exclusivamente por provas produzidas sob o crivo do contraditório e da ampla defesa, filio-me à corrente de que qualquer prova produzida na fase inquisitiva, desde que não seja a única prova existente nos autos, pode ser utilizada pelo julgador para fundamentar a edição de uma sentença condenatória.
+ ..
+Com amparo no epigrafado conjunto probatório é certo afirmar que Wallace Gomes Pereira envolveu-se na prática de um crime de furto qualificado pelo rompimento de obstáculo e concurso de pessoas, majorado pelo repouso noturno" (fls. 185/187)
+Dos trechos acima colacionados, verifica-se que a pretensão recursal, no sentido de reconhecer a fragilidade das provas para a condenação,demandaria o revolvimento fático-probatório dos autos, o que é vedado em recurso especial. Assim, inafastável a incidência da Súmula n. 7 desta Corte.A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E PELO CONCURSO DE PESSOAS E DE EMBRIAGUEZ AO VOLANTE. FUNDAMENTO SUFICIENTE. ACORDÃO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. INADMISSIBILIDADE DO RECURSO. INCIDÊNCIA DA SÚMULA 283/STF. PLEITO ABSOLUTÓRIO. SÚMULA 7/STJ.
+1. Presente fundamento suficiente para manter o acórdão impugnado, que não foi atacado nas razões recursais, incide o comando da Súmula 283/STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Ademais, a pretendida revisão do julgado, com vistas à (eventual) absolvição do imputado por insuficiência de provas, na medida em que não prescinde do reexame do conjunto probatório, não se coaduna com a via do especial, a teor da Súmula 07/STJ.
+3. Agravo improvido.
+(AgRg no AREsp 1.932.278/DF, Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO),SEXTA TURMA,DJe 11/3/2022).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ABSOLVIÇÃO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. PENA-BASE. CIRCUNSTÂNCIAS. MOTIVAÇÃO CONCRETA. TERCEIRA FASE. FRAÇÃO DE AUMENTO. CAUSAS DE AUMENTO. SÚMULA N. 443 DO STJ. NÃO VIOLAÇÃO. REGIME FECHADO. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para entender-se pela absolvição do recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp 1.498.574/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/5/2020).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
