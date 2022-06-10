@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto pelo Banco do Brasil S. A., com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 352):
+AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO  DECISÃO MONOCRÁTICA QUE APLICOU A FUNGIBILIDADE E CONHECEU O APELO INTERPOSTO  RECURSO NÃO PROVIDO. É possível relevar o equívoco na interposição do recurso quando o jurisdicionado for induzido a erro pelo magistrado, aplicando-se o princípio da fungibilidade recursal.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 373-376).
+Nas razões do recurso especial, apontou-seviolação dos arts.203, § 2º,1.015, parágrafo único e1.022do CPC/2015, (e-STJ, fls. 378-385).
+Sustentou-seque, mesmo após ter sido provocado com a oposição de embargos de declaração, o Tribunal local manteve-se inerte quanto à análise das questões suscitadas.
+Assim sendo, o acórdão recorrido distanciou-se da finalidade da norma, que é eliminar omissões porventura existentes nos julgados, tornando completa a prestação jurisdicional, que se entendeu ter sido deficiente por ausência de fundamentação.
+Aduziu-se, em suma, que, no caso, não épossível relevar o equívoco na interposição do recurso quando o jurisdicionado for induzido a erro pelo magistrado, não se podendo aplicaro princípio da fungibilidade recursal.
+Não foramapresentadas contrarrazões (e-STJ, fl. 395).
+O recurso especial não foi admitido na origem, o que provocou a interposição do presente agravo (e-STJ, fls. 397-398).
+Contraminuta ofertada (e-STJ, fls. 411-418).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pelas partes.
+Desse modo, tendo o acórdão recorridomotivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte de origemnão se pronunciou sobre o pleito doora recorrente- a impossibilidade de aplicação do princípio da fungibilidade recursal-, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão das partes.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Ao solucionar a lide, verifica-se que o Tribunal local levou emconsideração as seguintes particularidades do caso concreto(e-STJ, fls. 109-110):
+Os recorrentes interpuseram apelação cível contra decisão que julgou procedente a impugnação ao cumprimento de sentença apresentada pelo Banco do Brasil S/A.
+O apelo não foi conhecido diante de erro grosseiro e da impossibilidade de aplicação do princípio da fungibilidade recursal ao caso, haja vista que a apelação é o recurso cabível apenas contra decisão que acolhe a impugnação e extingue a execução, o que não se verifica na hipótese, pois o cumprimento de sentença prosseguirá.
+Os embargos de declaração foram rejeitados.
+Inconformados, os recorrentes interpuseram o presente agravo interno ressaltando haver entendimento jurisprudencial do STJ admitindo a aplicação da fungibilidade recursal após decisão interlocutória ter sido nomeada como sentença pelo juiz.
+O recurso merece provimento.
+Isso porque, nos termos da referida jurisprudência do STJ, aplica-se a fungibilidade em situações como a dos autos, em que a decisão foi nomeada como sentença no SAJ (fls. 193-196 dos autos principais) e assim registrada no andamento processual (f. 197 dos autos principais), levando os recorrentes à interposição do apelo em discussão.
+A conclusão adotada está em consonância com o que vem decidindo esta Corte Superior.
+Vejam-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOAGRAVO EM RECURSOESPECIAL - AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigirerromaterial.
+1.1. Verificada omissão no aresto impugnado, é impositivo o acolhimento dos aclaratórios.
+1.2. É admissível a atribuição de efeitos infringentes ao recurso integrativo no caso de esses decorrerem do saneamento do vício identificado. Precedentes.
+2. Segundo a jurisprudência desta Corte, é possível relevar o equívoco na interposição do recurso quando o jurisdicionado forinduzidoaerropelo magistrado, aplicando-se o princípio dafungibilidaderecursal. Precedentes. 2.1. Uma vez que o magistrado de piso proferiu decisão intitulada "sentença", fazendo referência até mesmo ao "trânsito em julgado" do ato jurisdicional, é cabível admitir o recurso de apelação como o competente agravo de instrumento.
+3. Embargos de declaração acolhidos com efeitos infringentes para conhecer do agravo e, de plano, dar provimento ao recurso especial. (EDcl no AgInt no AREsp 1593214/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/12/2020, DJe 16/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSOESPECIAL. AGRAVO DE INSTRUMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF.ERRONA INTERPOSIÇÃO DO RECURSO. PARTE INDUZIDA AERRO.SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor das Súmulas n. 283 e 284 do STF.
+3. Segundo a jurisprudência desta Corte, é possível relevar o equívoco na interposição do recurso quando o jurisdicionado forinduzidoaerropelo magistrado. Precedentes.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp 1566114/PR, Rel. Ministro ANTONIO CAROS FERREIRA, QUARTA TURMA, julgado em 23/03/2020, DJe 26/03/2020)
+Ademais, rever a conclusão a que chegou o Tribunal local acerca da ocorrência de indução a erro da parte agravadanão prescindiria do reexame do acervo fático-probatório dos autos, conduta vedada pelaSúmula 7/STJ.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSOESPECIAL. RECURSO INTERPOSTO NA ÉGIDE DO NCPC. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. DECISÃO ATACADA POR AGRAVO DE INSTRUMENTO. EQUÍVOCO ESCUSÁVEL. APLICAÇÃO DO PRINCÍPIO DAFUNGIBILIDADE.PRECEDENTES. SÚMULA Nº 83 DO STJ. ACÓRDÃO ESTADUAL QUE, COM SUPORTE NAS CIRCUNSTÂNCIAS FÁTICAS DA LIDE, CONCLUIU QUE A PARTE FOI INDUZIDA AERROPELO MAGISTRADO. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC E HONORÁRIOS RECURSAIS DO ART. 85, § 11º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Tribunal local aplicou o princípio dafungibilidadepor entender que o recorrido cometeu equívoco escusável, entendimento esse alinhado à jurisprudência desta Corte, incidindo ao caso a Súmula nº 83 do STJ.
+3. As convicções do acórdão recorrido sobre o fato de que o recorrido foiinduzidoaerroestão firmadas no exame das circunstâncias fáticas da lide, impossibilitando sua revisão na via especial diante do óbice da Súmula nº 7 do STJ.
+4. Em razão da improcedência do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa e a majoração dos honorários advocatícios em 2%, nos termos do art. 85, § 11º, do NCPC, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa e majoração da verba honorária.(AgInt no AREsp 966487/DF, Rel. Ministro MOURA RIBEITO, TERCEIRA TURMA, julgado em 28/3/2017, DJe 10/4/2017)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. APLICAÇÃO. PARTE LEVADA A ERRO POR ATO DO MAGISTRADO.PRECEDENTES. OCORRÊNCIA DE INDUÇÃO A ERRO. REEXAME DA CONCLUSÃO ESTADUAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.VIOLAÇÃO AO1.022 DO CPC/2015 NÃO CONFIGURADA. AGRAVO CONHECIDO PARA CONHECER EM PARTEDO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
