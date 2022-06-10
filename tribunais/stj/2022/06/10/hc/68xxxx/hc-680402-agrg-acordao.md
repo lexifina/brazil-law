@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CARLOS TAIAN GONÇALVES RODRIGUES interpõe agravo regimental contra decisão de minha relatoria, em que não conheci do habeas corpus.
+Consta dos autos que o paciente foi condenado à pena de 11 anos e 8 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput,e 35, ambos da Lei n. 11.343/2006.
+A defesa aduziu na impetração, em síntese, que "nas sucessivas decisões judiciais de prorrogações não foi demonstrada a imprescindibilidade da medida, bem como os indícios suficientes de autoria e de materialidade dos crimes, estando as mesmas carentes de fundamentação idônea, tendo em vista que não houve preocupação em aferir a contemporânea necessidade da medida, além de terem deixado também de apontar para indícios suficientes de autoria e materialidade delitiva, antes se limitando a fazer remissão das decisões pretéritas" (fl. 7).
+Neste regimental, afirma que, ao contrário do que constou na decisão agravada, "a tese suscitada foi devidamente analisada no recurso de apelação, conforme são destacados os trechos do julgado abaixo reproduzidos" e "foi também alvo de discussão em sede de embargos de declaração" (fls. 252-254).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. INIDONEIDADE DA FUNDAMENTAÇÃO DAS DECISÕES DE QUEBRA DE SIGILO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A apontada ilicitude das provas existentes em desfavor do acusado - porque, segundo a defesa, foi inidônea a fundamentação usada para decretar e prorrogar as interceptações telefônicas - não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Reitero que, conforme se depreende dos autos, a tese defensiva de nulidade das interceptações telefônicas por inidoneidade da fundamentação das decisões que as autorizaram não foi analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+Nesse sentido, aliás, foi o parecer do Ministério Público Federal, in verbis (fl. 232): "De início, verifica-se que a tese suscitada pela defesa não pode ser analisada nesta oportunidade por essa Corte Superior, sob pena de indevida supressão de instância e desprestígio às instâncias ordinárias, uma vez que não foi debatida pelo Juízo de origem nem pelo TJRS, tal como aduz a defesa, consoante informações dos autos".
+Consoante se extraidos trechos destacados pela própria defesa nos documentos que acostou a este regimental,a tese sustentada na apelação - e, portanto, analisada pelo Tribunal estadual - dizia respeito à falta de autorização judicial para alguns dos períodos interceptados, e não à inidoneidade da fundamentação das decisões. Veja-se (fl. 264, grifei): "Em razões conjuntas, os réus Carlos e Flaviane alegam, em preliminar, a ilicitude da prova decorrente das escutas telefônicas. Refere que "a grande maioria das escutas possuem autorização judicial, entretanto, há intervalos e nestes intervalos forma realizadas escutas", sem autorização, portanto".
+Tanto não foi analisadapela Corte estadual aquestão levantada no habeas corpusque a defesa lá opôs embargos de declaração sobre o tema,mas os aclaratórios não foram acolhidos peloTribunal local, justamente por não haver omissão sobre a tese, que não havia sido suscitada no recurso de apelação. Assim, não houve análise da instância de origem sobre a idoneidade da fundamentação das decisões judiciais que autorizaram as interceptações.
+À vista do exposto, nego provimento ao agravo regimental.
+Publique-se e intimem-se.
