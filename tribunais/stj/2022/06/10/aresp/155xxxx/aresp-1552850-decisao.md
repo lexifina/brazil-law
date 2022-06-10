@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado peloPOSTO ESTRADA DO FUTURO COMBUSTIVEIS LTDA. contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, da Constituição Federal.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos doart. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016).
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que o Tribunal de origem negou seguimento ao recurso especial em relação à alegação deimpossibilidade de aplicação da taxa SELIC einadmitiu-o quanto às demais tesescom base nosseguintesfundamentos: ausência de indicação de dispositivo federal quanto ao capítulo referente aocaráter confiscatório da multa eSúmula 7 do STJ, em relaçãoàs demais matérias.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente referidos fundamentos de inadmissão,limitando-se a afirmar que a interposição de agravo em recurso especial se justifica pela inexistência de fato impeditivo ou extintivo do poder de recorrer, trazendo questão meramente processual erepetindo as razões do apelo nobre.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Com efeito, não houve nenhumaimpugnaçãoao fundamento de quea tese recursal relativa ao caráter confiscatório da multa "apresenta razões exclusivamente de ofensa ao princípio constitucional da proibição do confisco, sem, no entanto, alegar violação a norma federal, de modo a afastar a competência do STJ para decidir a esse respeito" (e-STJ fl. 364).
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não se observa na espécie.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Deixo de majorar os honorários, nos termos do art. 85, § 11, do CPC/2015, porque afastada a sua condenação pelo Tribunal de origem, diante da presença dos encargolegal de 20%de que dispõe o Decreto-lei n. 1025/1969.
+Publique-se. Intimem-se.
