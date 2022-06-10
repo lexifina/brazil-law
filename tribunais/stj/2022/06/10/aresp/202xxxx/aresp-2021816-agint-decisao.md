@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo interno, interposto peloESTADO DO PARANÁ, em 12/04/2022, contra decisão do Presidente do STJ, publicada em 10/03/2022, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, que conheceu do Agravo para não conhecer do Recurso Especial.
+Inconformada, sustenta a parte agravante que:
+"A decisão agravada conheceu do agravo para não conhecer do recurso especial por suposta falta de pré-questionamento da tese recursal trazida pelo Estado do Paraná.
+Tem-se, contudo, que houve a expressa análise da questão federal controvertida - princípio da causalidade e responsabilidade pelos ônus sucumbenciais.
+De feito, o acórdão recorrido foi expresso em assim apreciar a questão quando do julgamento dos embargos de declaração (cf. fls. 333/334):
+Da análise dos autos, observa-se que a extinção da execução fiscal se deu em razão do reconhecimento da prescrição intercorrente, decorrente da inércia do exequente em perseguir os créditos tributários em tempo hábil.
+Conclui-se, portanto, que o apelante deu causa a extinção da presente execução, aplicando-se ao caso o princípio da causalidade. Sobre o tema, Theotônio Negrãopreleciona:
+"Aregra da sucumbência não comporta aplicação indiscriminada na determinação da parte responsável pelo pagamento de honorários advocatícios. Aqui, falamais alto o princípio da causalidade, ou seja, responde pelos honorários aparte que deu causa à instauração do processo. É certo que, na maioria das vezes, causalidade e sucumbência levam a soluções coincidentes; esta é o mais eloquente sinal daquela. Todavia, quando as soluções forem destoantes, prevalece aquela atrelada ao princípio da causalidade."(Código de Processo Civil e Legislação Processual em Vigor, 47ª ed. 2016, p. 185,comentários ao art. 85).
+Neste sentido já decidiu esta Câmara Cível:
+(..)
+Inequivocamente, o acórdão recorrido tratou dos ônus sucumbências sob a ótica do princípio da causalidade, pré-questionando a questão trazida no recurso especial. Observe-se que as razões do recurso especial apresentadas pelo Estado do Paraná impugnam especificamente os fundamentos do acórdão nos seguintes termos (cf. fls. 345/347):
+(..)
+Agrega-se, ainda, que a Corte Especial do STJ recentemente fixou entendimento no exato sentido pretendido pelo Recorrente, conforme se depreende pelos seguintes julgados da Turmas que compõem a 1ª Seção:
+(..)" (fls. 422/424e).
+Intimada, a parte agravada apresentou impugnação, fls. 429/439e, pugnando pelo não conhecimento ou, alternativamente, pelo improvimento do recurso.
+Assim, tendo em vista a relevância dos argumentos esposados pela parte agravante, reconheço que as razões recursais são suficientes para compreensão da controvérsia e reconsidero a decisão de fls. 415/417e.
+Na origem, trata-se de agravo de instrumento, ajuizado em sede de execução fiscal, contra decisão que não acolheu a exceção de pré-executividade oposta pela parte ora agravada.
+O Tribunal de origem deu provimento ao Agravo de Instrumento, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA - TRANSCURSO DO PRAZO DE SUSPENSÃO AUTOMÁTICA DE 1 (UM) ANO E DO LAPSO QUINQUENAL - ENTENDIMENTO FIRMADO PELO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA EM SEDE DE RECURSO REPETITIVO - RESP 1.340.553/RS - PRECEDENTES DESTA CÂMARA CÍVEL - LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA - MULTA AFASTADA - RECURSO PROVIDO" (fl. 302e).
+Opostos Embargos Declaratórios, pela agravada (fls. 315/322e), foram eles rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - ALEGAÇÃO DE OMISSÃO -INOCORRÊNCIA - AUSÊNCIA DE VÍCIOS NO JULGADO -INTELIGÊNCIA DO ARTIGO 1.022, DO CÓDIGO DE PROCESSO CIVIL - REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - EMBARGOS DE DECLARAÇÃO REJEITADOS" (fl. 331e)
+Nas razões do Recurso Especial, a parte agravante apontoucontrariedade aoart. 85, caput e § 10, do CPC/2015, uma vez que "não pode o executado se beneficiar do princípio da causalidade para tirar mais vantagens do que já teve com a extinção da execução por força da prescrição intercorrente. Seria premiar o devedor incauto em detrimento do erário público" (fl. 347e).
+Apresentadas contrarrazões (359/365e), restou inadmitido o recurso na origem (fls. 366/367e).
+Acerca da controvérsia ora trazida, relativa à aplicação da causalidade, assim se manifestou o tribunal de origem quanto à aplicação da verba honorária, in verbis:
+"Do exame das alegações e da fundamentação adotada, constata-se que a matéria relativa aos ônus sucumbenciais foi tratada nos seguintes termos, mov. 26.1:
+"Em face do exposto, voto pelo provimento do recurso, para o fim de reconhecer a ocorrência da prescrição intercorrente do crédito tributário objeto dos autos de execução fiscal n.º 00417-41.2006.8.16.0124,declarando, por consequência, extinto o processo, nos termos do disposto no artigo 487, inciso II, do Código de Processo Civil.
+Em razão disso, fica o exequente, ora agravado, responsável pelo pagamento das custas processuais e honorários advocatícios no importe de 10% sobre o valor atualizado do débito, nos termos do disposto no artigo 85, § 3º, inciso I, do Código de Processo Civil."
+Da análise dos autos, observa-se que a extinção da execução fiscal se deu em razão do reconhecimento da prescrição intercorrente, decorrente da inércia do exequente em perseguir os créditos tributários em tempo hábil.
+Conclui-se, portanto, que o apelante deu causa a extinção da presente execução, aplicando-se ao caso o princípio da causalidade" (fl. 333e).
+Com efeito, esta Corte possui entendimento no sentido de que "a alteração das conclusões adotadas pela Corte de origem acerca da aplicação do princípio da causalidade, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (STJ, AgInt no AREsp 856.134/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 04/11/2016).
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO PELA OCORRÊNCIA DE LITISPENDÊNCIA COM AÇÃO ANULATÓRIA ANTERIOR NA QUAL NÃO HOUVE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. ÔNUS SUCUMBENCIAIS QUE DEVEM SER SUPORTADOS PELA PARTE EMBARGANTE. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Rever o entendimento do Tribunal de origem, que concluiu que a recorrente deu causa à demanda, atribuindo-lhe o ônus da sucumbência, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de Recurso Especial, a teor da Súmula 7/STJ.
+2. Outrossim, a conclusão adotada pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior segundo a qual, havendo a extinção dos Embargos do Devedor em razão do reconhecimento de litispendência com a Ação Anulatória proposta anteriormente, em que não houve suspensão da exigibilidade do crédito tributário, os ônus da sucumbência devem ser suportados pela parte embargante. Nesse sentido: AgRg no REsp. 1.269.192/SC, Rel. Min. BENEDITO GONÇALVES, DJe 27.5.2013; REsp. 1.040.781/PR, Rel. Min. ELIANA CALMON, DJe 17.3.2009.
+3. Agravo Interno da Empresa desprovido"(STJ, AgInt no AREsp1.411.075/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA,DJe de 21/9/2020).
+"PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS. EMBARGOS À EXECUÇÃO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise dos fatos e provas produzidos na demanda, concluiu ser devido o arbitramento de honorários advocatícios porque deu "causa ao prosseguimento da execução indevidamente" (princípio da causalidade).
+2. Nesse contexto, para se adotar qualquer posição em sentido contrário ao que ficou expressamente consignado, seria necessário o reexame do conteúdo fático probatório dos autos, o que é vedado em grau de Recurso Especial, em atenção a súmula 7/STJ.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido" (STJ, REsp 1.652.724/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/04/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FIXAÇÃO DE HONORÁRIOS. EMBARGOS À EXECUÇÃO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido" (STJ, AgInt no AREsp 955.104/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/10/2016).
+Ante o exposto, reconsidero a decisão agravada e, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para nãoconhecerdo Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo emvista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
