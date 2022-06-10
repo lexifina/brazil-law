@@ -1,0 +1,16 @@
+DECISÃO
+ETIENNE WALLACE PASCUTI e MARCUS VINICIUS PRIORI MINHAROagravam de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paranána Exceção de Impedimento n. 0003481-63.2019.8.16.0040.
+Os agravantes ajuizaram exceção de impedimento em desfavor do então Juiz da Vara Criminal da Comarca de Altônia-PR. A pretensão foi indeferida pela Corte de origem.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 252 e 254 do Código de Processo Penal. Aduziu estarem presentes hipóteses de impedimento e de suspeição. Apontouque o referido magistrado atuou ex officio na produção de prova contra os investigados (intimação e aplicação de questionários e juntada de documentos), além de haver sido arrolado como testemunha na ação penal principal. Destacou, ainda, a atuação contrária do Juizaos investigados nso processos de natureza cível e da declaração de suspeição espontânea em outra comarca. Sustentou, por fim, a natureza exemplificativa do rol de hipóteses de suspeição previsto no art. 254 do CPP.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 2.017-2.023, pelo não conhecimento e, eventualmente, pelo nãoprovimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem consignou que (fls. 1.694-1.695):
+ ..  o magistrado excepto não presenciou a prática dos crimes, ou seja, não testemunhou as falsificações em tese praticadas antes das proposituras das ações indenizatórias, mas apenas, na qualidade de juiz devidamente investido em sua função jurisdicional na Comarca de Altônia, tomou conhecimento de indícios da ocorrência de ilícitos por parte dos excipientes e, a partir disso, segundo seu munus público e seu poder geral de cautela, adotou medidas visando elucidar a questão, sobretudo para averiguar a existência das condições da ação e dos pressupostos processuais, em especial, da capacidade postulatória dos advogados, cuja verificação, segundo entendimento doutrinário e jurisprudencial pacíficos, são aferíveis de ofício pelo julgador
+Afirmou também que "não se verifica qualquer conduta do magistrado na condução das ações cíveis ou na própria ação penal que denotem sua parcialidade, tendenciosidade ou perseguição aos requerentes" (fl. 1.698).
+A partir das conclusões apresentadas, tenho que a análise da pretensão implica a necessidade de revolvimento fático-probatório dos autos, para se desconstituir as premissasfirmadas no acórdão recorrido, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Por esse motivo,tambémfica inviabilizada a discussão, no âmbito da divergência jurisprudencial,quanto ànatureza taxativa das hipóteses de impedimento ouexemplificativa do rol de suspeição nos art. 252 e 254 do Código de Processo Penal, haja vista a ausência de fatos incontroversos, reconhecidos no acórdão impugnado,que permitam constatar asimilitude entre os casos.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
