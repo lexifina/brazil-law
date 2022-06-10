@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto porFAZENDA NACIONALcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal, que objetiva reformar o acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO,assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO - AGRAVO INTERNO - INCLUSÃO DO ICMS NA BASE DE CÁLCULO - INCONSTITUCIONALIDADE - APLICAÇÃO IMEDIATA DA TESE.
+1. O Supremo Tribunal Federal declarou a inconstitucionalidade da inclusão do ICMS na base de cálculo de cálculo do PIS e da COFINS, no regime de repercussão geral: RE 574706, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 15/03/2017, ACÓRDÃO ELETRÔNICO DJe-223 DIVULG29-09-2017 PUBLIC 02-10-2017.
+2. A pendência de embargos de declaração, no Supremo Tribunal Federal, não impede a imediata aplicação da tese. A eventual limitação dos efeitos da decisão, pelo Supremo Tribunal Federal, deverá ser objeto de recurso próprio, se for o caso.
+3. É cabível a compensação tributária, após o trânsito em julgado (artigo170-A, do Código Tributário Nacional), segundo os critérios legais vigentes à época da propositura da ação (REsp 1137738/SP, Rel. Ministro LUIZFUX, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 01/02/2010, no regime de que tratava o artigo 543-C, do Código de Processo Civil de1973).
+4. Agravo interno improvido.
+Naquela decisão, foi mantida a fixação dos honorários advocatíciosem 10% (dez por cento) sobre o valor atualizado da causa, nos termos do artigo 85, parágrafo 2º, incisos I a IV, do Código de Processo Civil (fl. 337).
+No presente recurso especial, o recorrente aponta como violadooart.85, parágrafo 4º, II,do CPC/2015, sustentando, em síntese, que:
+A irresignação da União se dá contra a fixação da verba honorária nos termos do parágrafo 3º do art.85, eis que incide sobre a condenação, já que esta é ilíquida, impondo-se tal definição somente após a liquidação do julgado, conforme determina o inciso II do §4º do art. 85 do CPC/15.
+ ..
+Verifica-se, no presente feito, que estamos diante de sentença não líquida, pelo que definir o percentual sobre o valor da condenação, sem que o mesmo conste dos autos, viola o inciso II, do parágrafo 4º, do artigo 85 do CPC/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Em juízo positivo de retratação,aturma julgadora, com vistas a aplicar a modulação dos efeitos delineada no RE 574.706, entendeu pela solução da controvérsia nos exatos termos do quanto decido pelo STFna repercussão geral de tema 69.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Inicialmente, ressalta-seque o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+Quanto ao mérito do recurso especial, assiste razão à parte recorrente.
+Segundo entendimento desta Corte Superior,proferida a sentença sob a égide do CPC/2015, e vencida a Fazenda Pública, os honorários advocatícios devem ser fixados com base nos parágrafos 3º e 4º da referida norma, sendo possível a definição dos percentuais aplicáveis somente quando da liquidação do julgado, de acordo com o art. 85, parágrafo 4º, inciso II, da Lei 13.105/2015.
+Por oportuno, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. SENTENÇA ILÍQUIDA. PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS A SER DEFINIDO EM LIQUIDAÇÃO. ART. 85, § 4º, II, DO CPC/2015. PRECEDENTES.
+1. Ausência de ofensa aos arts. 489 e 1.022 do CPC, uma vez que o acórdão recorrido se manifestou de forma clara e fundamentada, quando do julgamento dos embargos de declaração, no sentido de que, ainda que a apuração do proveito econômico da causa somente ocorra na fase de liquidação do julgado, o § 2º do art. 85 do CPC autoriza que os honorários sejam fixados desde já entre o mínimo de dez e o máximo de vinte por cento sobre ele. Não há que se falar, portanto, em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+2. A jurisprudência do Superior Tribunal de Justiça posicionou-se no sentido de que, nas causas em que a Fazenda Pública for parte, o estabelecimento do montante relativo aos honorários advocatícios está vinculado à necessidade de liquidez do decisum proferido, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial, de modo que a definição do percentual dos honorários sucumbenciais deve ocorrer somente quando da liquidação do julgado, de acordo com a redação do art. 85, § 4º, II, do CPC/2015.
+3. Recurso especial parcialmente provido.
+(REsp n. 1.878.908/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2021, DJe de 10/2/2021.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA ILÍQUIDA. ART. 85, § 4º, II, DO CPC/2015. PERCENTUAL QUE SERÁ FIXADO PELAS INSTÂNCIAS ORDINÁRIAS. HONORÁRIOS RECURSAIS. CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça posicionou-se no sentido de que o estabelecimento do montante relativo aos honorários recursais está vinculado à necessidade de liquidez do decisum proferido, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial. 2. Desse modo, justifica-se a definição do percentual dos honorários sucumbenciais somente quando da liquidação do julgado, de acordo com o art. 85, § 4º, II, da Lei 13.105/2015.
+3. Registre-se que a possibilidade de fixação de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada quando não imposta.
+4. Recurso Especial não provido.
+(REsp n. 1.844.891/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo e dou provimento ao recurso especial paradeterminar que a definição do percentual dos honorários sucumbenciais somente ocorra quando da liquidação do julgado, de acordo com o art. 85, parágrafo 4º, inciso II, do CPC/2015.
+Publique-se. Intimem-se.
