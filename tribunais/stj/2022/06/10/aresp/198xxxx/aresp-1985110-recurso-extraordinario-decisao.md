@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ADILSON BARBOSA CAETANO, com fundamento no art. 102,III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 1.655):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De fato, caracterizada a intempestividade do recurso especial. É que, considerando a data registrada na certidão de publicação do acórdão de origem como sendo em 7/1/2020, tem-se intempestivo o recurso especial protocolado apenas em 4/2/2020, ou seja, quando já expirado o prazo de 15(quinze) dias, previsto no art. 994, inciso VI, c/c. os arts. 1.003, § 5º e 1.029, to dos do Código de Processo Civil - CPC, bem como no art. 798 do Código de Processo Penal - CPP.
+1.1. O disposto no artigo 220 do CPC não se aplica no processo penal. Precedentes.
+2. Agravo regimental desprovido.
+Sustenta o recorrente a violação do art. 5º, XXXV e LXXVIII, da Constituição Federal, e afirma a repercussão geral do caso em tela.
+Aduzque "a questão submetida à ordem pública, não é o recurso ou modo empregado, para fim de substituir o recurso adequado à espécie, mesmo porque o Embargante poderia ter optado pelo Habeas Corpus, porém, preferiu respeitar o caminho recursal cabível em cada momento pertinente, perseguindo o reconhecimento de um direito material, o da confissão espontânea, porquanto intrinsecamente ligada a pena e ao direito subjetivo de punir, a individualização da pena, bem como, do devido processo legal, razão pela qual, a matéria, não a via eleita, remonta a ordem pública" (e-STJ fl.1.690).
+Acrescenta ser "o que se pretende, a título de esclarecimento, da apontada omissão, é saber se a causa de diminuição da pena prevista no art. 62, II, do Código Penal, de que trata a confissão espontânea, é ou não matéria de ordem pública " (e-STJ fl. 1.690).
+Requera admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às e-STJ fls. 1.699-1.706.
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário desproveu o agravo regimental, mantendo a decisão da Presidência deste Sodalício que não conheceu do agravo em recurso especial, em razão de sua intempestividade.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO. 1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional. 2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes. 3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO. 1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030,I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
