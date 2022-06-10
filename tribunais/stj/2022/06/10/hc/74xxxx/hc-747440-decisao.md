@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 167):
+APELAÇÃO. Tráfico de entorpecentes. Artigo 33, caput, da Lei 11.343/2006. Procedência. Recurso da defesa. Materialidade e autoria devidamente comprovadas pelo conjunto probatório carreado aos autos. O valor do depoimento testemunhalde servidores policiais, especialmente quando prestado cm juízo, sob a garantia do contraditório constitucional, reveste-se de inquestionável eficácia probatória. Reformada a r. sentença para reduzir a pena na fração de metade, ex-vi do artigo 33, § 4º, da Lei11.343/2006. Regime inicial fechado mantido, vencido orelator que fixava o aberto e substituía a pena privativa de liberdade por restritivas de direitos. RECURSO PARCIALMENTE PROVIDO.
+Consta dos autos condenação às penas de 5 anos de reclusão, em regime fechado, e 500 dias-multa, pela prática do delito de tráfico de drogas. Interposto recurso defensivo, houve parcial provimento para aplicação da minorante do tráfico, com redução da pena para 2 anos e 6 meses de reclusão e 250 dias-multa.
+Apontaoimpetrante, em suma, a nulidade de provas diante do acesso sem autorização judicial ao celular apreendido no momento da prisão.
+Requer, liminarmente e no mérito, o reconhecimento da nulidade com absolvição.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A matéria relativa à nulidade por acesso a celular sem autorização judicial não foi examinada pelo Tribunal a quo, constando do acórdão que houve apenas alegação de desclassificação ou abrandamento do regime (fl. 163). Além disso, a questão também não foi examinada na sentença e sequer suscitada nas alegações finais, havendo teses de falta de provas edesclassificação (fls. 134/136 e 138). Tal circunstância obsta a apreciação da questão por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância" (fl. 299).
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
