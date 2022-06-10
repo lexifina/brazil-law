@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+LUIZ CLEO FLORES GUIDOLIM interpõe agravo regimental contra decisão proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por incidência da Súmula n. 182 do STJ.
+O insurgente afirma não ter sido intimado para as audiências deprecadas e que,a teor da jurisprudência desta Corte, "a ausência de intimação pessoal do réu preso, bem como do advogado constituído, da prática de atos processuais, resultam em nítido prejuízo ao acusado por cerceamento de defesa, vício a ensejar o reconhecimento de nulidade processual" (fl. 815).
+Ademais, "a fundamentação da decisão que julgou a apelação interposta pelo réu é per relationem, o que não é admitido pelo Superior Tribunal de Justiça" (fl. 816). Finalmente, esta Corte "tem entendimento de que a valoração negativa de cada vetorial na primeira fase de aplicação da pena (art. 59, CP), é no sentido de exasperar a pena-base em 1/8" (fl. 818).
+Pleiteia, portanto, a reforma do decisum.
+EMENTA
+AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar efetivamente todasas causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. A teor dos julgados desta Corte, "adecisão de inadmissibilidade do recurso especial não é formada porcapítulosautônomos, mas por um único dispositivo, de modo que se o agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade"(AgRg no AREsp 2032402/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 6/5/2022).
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a decisão agravada, pois está correta a incidência da Súmula n. 182 do STJ.
+O réu foi condenado comoincurso no art. 14, da Lei nº 10.826/03, a3 anos de reclusão, em regime semiaberto, e 18 dias-multa.A defesa interpôs recurso especial, apontando a negativa de vigência aos arts. 5º, LV, e 93, IX, da Constituição da República, 315, § 2º,III, e 564, V, do CPP e 59 do CP. Argumentou:a) o processo é nulo, em decorrência da ausência de intimação do réu para comparecimento em audiências deprecadas; b) a rejeição da tese de nulidade no aresto de apelaçãonão está fundamentada, pois o Tribunalse limitou a transcrever a sentença, e c)o aumento da pena-base mostra-se desproporcional, já que extrapola a fração de 1/8 para cada vetorial negativa.
+O Tribunal de origem negou trânsito à insurgência em face dos seguintes óbices:
+a)não é cabível a tese de violação a dispositivos constitucionais no âmbito de recurso especial;
+b) quanto à pretensa nulidade do processo por falta de intimação do réu das audiências realizadas, incide a Súmula n. 283 do STJ, pois os seguintes fundamentos do aresto recorrido deixaram de ser refutados: i) o defensor foiintimado da expedição da carta precatória e incide a Súmula n. 273 do STJ e ii) não ocorrência de prejuízo à ampla defesa, visto ter sido assegurado aoréu a assistência de defensor dativo ou público nos atos deprecados;
+c) a tese de nulidade do acórdão (fundamentação per relationem) não está prequestionada e não foi ventilada em embargos de declaração, o que atrai as Súmulas n. 282 e 356, do STF;
+d) sobre a pena-base, a suaexasperação está conforme a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ), de que a ponderação das circunstânciasdo art. 59 do Código Penal não é uma operação matemática, em que se dá pesoabsolutoa cada uma delas.
+No agravo de fls. 792-797, a partereiterou as teses do recurso especial.Reafirmou a nulidade do processo por falta deintimação do réu preso para as audiências deprecadas. Não houve impugnação daSúmula n. 283 do STF, pois o agravante não demonstra terrefutado, no recurso especial,os fundamentos do aresto de apelação (intimação da defesa acerca da expedição das precatórias, incidência da Súmula n. 273 do STJ e falta de prejuízo à ampla defesa). Explicou, tão somente: "quando do oferecimento da denúncia, o agravante se encontrava recolhido em casa prisional" e "estava assistido pela Defensoria Pública  ..  devendo, ainda, ser conduzido para as audiências  .. , o que não ocorreu" (fl. 765).
+Quanto à tese de nulidade do acórdão em face de sua fundamentação per relationem, não foram refutadas as Súmulas n. 282 e 356do STF, pois o insurgente deixou de demonstrar o prequestionamento e se limitou a afirmar que a jurisprudência desta Corte não admite motivação por meio da qual se faz referência aos termos da sentença.
+Apenas em relação à pena-base, a defesa contradisse a Súmula n. 83 do STJ ao colacionarprecedente (HC n. 646.844/ES) desta Corte que aplica a fração de 1/8 por cada circunstância judicial negativamente valorada.
+Assim, não houve oposição às Súmulas n. 282, 283 e 356do STF, o que atrai a incidência da Súmula n. 182 do STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial:
+ ..  A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+ ..
+(EAREsp 746.775/PR, Relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia inadmitida, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Deveras:"a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg no AREsp 2032402/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 6/5/2022).
+À vista do exposto,nego provimento ao agravo regimental.
