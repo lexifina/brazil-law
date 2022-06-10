@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de reclamação constitucional, com pedido de liminar, ajuizada porINACIO VALENTIN DE MORAIS FILHO ouINACIO VALENTIM DE MORAES FILHO, apontando como reclamados oJUIZ DE DIREITO DA 1.ªVARA CRIMINAL DE GUARULHOS - SP e oTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O Reclamante foi condenado às penas de 6(seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, além de 680 (seiscentos e oitenta) dias-multa, como incurso noart. 33,caput, c.c. o art. 40, inciso VI, ambos da Lei n. 11.343/2006, em razão da apreensão de "70 (setenta) invólucros contendo cocaína e 81 (oitenta e um) invólucros contendo maconha".
+O recurso de apelação interposto pela Defesa foidesprovidopelo Tribunal de origem.
+No julgamento do HC n. 640.269/SP, não conheci dohabeas corpus, mas concedia ordem, de ofício, em extensão diversa, para determinar ao Tribunal de origem que apreciasseos argumentos deduzidos pela Defesa com relação à incidência da majorante prevista no art.40, inciso VI, da Lei n. 11.343/06, nos termos daquela decisão, que foi assim ementada:
+"HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. AFASTAMENTO DA CAUSADE AUMENTO DE PENA RELATIVA AO ENVOLVIMENTO DE ADOLESCENTE.MATÉRIA NÃO DEBATIDA NO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO PELA DEFESA. SUPRESSÃO DE INSTÂNCIA.TESES DEFENSIVAS FORMULADAS, MASNÃO APRECIADAS NO JULGAMENTO DA APELAÇÃO E DOS EMBARGOS DE DECLARAÇÃO. CONSTRANGIMENTO ILEGAL.HABEAS CORPUSNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO, EM EXTENSÃO DIVERSA,PARA DETERMINAR QUE O TRIBUNAL LOCAL EXAMINE AS TESES DEFENSIVAS."
+Daía inicial do presente feito, em que oReclamante alega, em suma, que os reclamados, embora tenham sido comunicados da concessão da ordem em 12/04/2022, "vem simplesmente ignorando a r. decisão proferida por este C. STJ, mantendo, portanto, o constrangimento ilegal combatido e já reconhecido" (fl. 6).
+Requer, liminarmente, seja assegurado ao Reclamante o direito de aguardar o julgamento do mérito da reclamação em liberdade ou seja determinado o imediato cumprimento da decisão. No mérito, busca seja afastada a causa de aumento de pena prevista no art. 40, inciso VI, da Lei n. 11.343/2006, ou, ao menos, seja dado imediato cumprimento à decisão desta Corte.
+É o relatório inicial.Decido o pedido urgente.
+O direito invocado pela Defesa não é de reconhecimento que se mostra prontamente inequívoco, motivo pelo qual o pedido de provimento urgente não pode ser acolhido.
+Com efeito,não se extrai da decisão alegadamente descumprida os efeitos pretendidos pela parte Reclamante, notadamente porque a decisão apenas determinou o exame da matéria pelo Tribunal de origem.
+Desse modo, não se constata de plano descumprimento. Eventual retardo para o cumprimento da ordem poderá ser esclarecido pelo Tribunal estadual, cabendo a verificação quando do exame do mérito, após a devida instrução do feito.
+Ante o exposto, INDEFIRO o pedido liminar.
+Solicitem-se informações ao Tribunal de Justiça do Estado de São Paulo, a serem prestadas dentrode 10 (dez) dias, nos termos do inciso I do art. 989 do Código de Processo Civil e do inciso I do art. 188 do RISTJ.
+Cite-se o Ministério Público do Estado de São Paulo, Interessado, que terá15 (quinze)dias para contestar, nos termos do inciso III do art. 989 do Código de Processo Civil e do inciso III do art. 188 do RISTJ.
+Após, ouça-se o Ministério Público Federal no prazo legal (art. 991 do Código de Processo Civil e art. 190 do RISTJ).
+Publique-se. Intimem-se.
