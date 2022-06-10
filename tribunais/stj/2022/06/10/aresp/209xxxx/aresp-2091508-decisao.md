@@ -1,0 +1,72 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que foi deferido o processamento do pedido de recuperaçãojudicial de CYRO REZENDE MASCHIETTO (CYRO), C. REZENDE MASCHIETTO TRANSPORTES - EIRELI EM RECUPERAÇÃO JUDICIAL (C. REZENDE) e RIO VERDE ADMINISTRADORA DE BENS LTDA. - EM RECUPERAÇÃO JUDICIAL (RIO VERDE).
+Narram os autos que BANCO RABOBANK INTERNATIONAL BRASIL S. A. (BANCO) opôs embargos de declaração, alegando a ilegitimidade de CYRO, produtorrural, que obteve empréstimo como pessoa física e não como pessoa jurídica.
+Em primeira instância, o d. Juízo rejeitou os aclaratórios, considerando que o produtor rural, inscrito nos cadastros competentes, fica equiparado ao empresário comum.
+Dessa decisão, BANCO interpôs agravo de instrumento, alegando que CYRO, quando contratou o empréstimo, não era empresário e que o empresário precisa obter registro regular.
+O agravo de instrumento interpostopelo BANCO não foi provido, de forma monocrática pelo Desembargador relator do feito.
+O agravo interno interposto pelo BANCO não foi providopelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. ALEXANDRE LAZZARINI, assim ementado:
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS EM FACE DE DECISÃO QUE NÃO CONHECEU DOAGRAVO DE INSTRUMENTO. INSURGÊNCIA DO CREDOR CONTRA DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. REGISTRO DE PRODUTOR RURAL. MATÉRIA DISCUTIDA EM OUTRO RECURSO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO (e-STJ, fl. 463).
+Inconformado, BANCOmanejou recurso especial, com amparo no art. 105, III, alíneaa, da CF, alegando violação dos arts. 7º e489, § 1º, V, do NCPC. Sustentou que (1) o aresto recorrido ficou desprovido de fundamentação, porque se limitou a afirmar que a tese trazida por ele já foi apreciada em duas oportunidades; e, (2) as partes merecem tratamento igualitário.
+Contrarrazões (e-STJ, fls. 475/497 e 572/877).
+O apelo nobre interposto pelo BANCOnão foi admitido em virtude do seguinte (1) ausência de ofensa aoart. 489 do NCPC; (2) ausência de contrariedade a dispositivo legal; e, (3) incidência daSúmulanº 7 do STJ.
+Seguiu-se o agravo em recurso especial interposto pelo BANCO, oportunidade em que elerebateu o óbiceindicado, tendo reiterado os termos do seu apelo nobre.
+Contraminuta (e-STJ, fls. 607/626).
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (e-STJ, fls. 640/643).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da eventual assertivade contrariedadeaoart. 489 do NCPC
+Inicialmente, BANCOalegouofensa aos art.489, § 1º, V,do NCPC.Sustentouqueo aresto recorridoficou desprovido de fundamentação, porque se limitou a afirmar que a tese trazida por ele já foi apreciada em duas oportunidades.
+Sobre o tema, a Corte localassim se manifestou:
+Isso porque, os mesmos argumentos trazidos na minuta recursal já foram abordados quando da rejeição dos embargos de declaração, como se vê:
+"Isso porque, nos termos do art. 932, III, do CPC/2015, incumbe ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Ora, a decisão combatida pelo agravo de instrumento foi mantida após análise da possibilidade de pedido de recuperação judicial por Cyro Rezende Maschietto, ou seja, a tese trazida pelo agravante, ora embargante, já havia sido afastada em duas oportunidades, inexistindo razão para novos debates sobre a mesma questão.
+Não há falar-se em novos argumentos, pois os apresentados nas razões recursais são idênticos aos trazidos pelas instituições financeiras credoras (Banco do Brasil e Banco Bradesco).
+No mesmo sentido, parecer da d. Procuradoria Geral de Justiça:
+"Não está demonstrado prejuízo ao embargante pela suposta omissão
+que inexistiu.
+Note-se que a pretensão de provar que o empresário rural individual teria se havido com fraude ao contratar empréstimo como pessoa física, não se presume e deve ser objeto de ação apropriada.
+Os embargos não comportam acolhimento, cuidando-se de mero inconformismo com o resultado do julgamento monocrático, opostos com intuito unicamente infringente.
+Ademais, é oportuno lembrar que "esse recurso não tem a função de viabilizar a revisão ou a anulação das decisões judiciais, como acontece com os demais recursos. Sua finalidade é corrigir defeitos omissão, contradição, obscuridade e erros materiais do ato judicial, os quais podem comprometer sua utilidade (art. 1.022)" (Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero in Curso de Processo Civil Tutela dos Direitos mediante Processo Comum, vol. 2, Ed. Revista dos Tribunais, 2015, pg. 538).
+Consigne-se, ainda, a manifestação judicial não está obrigada a satisfazer as conveniências das partes pavimentando o caminho para recursos, muito menos há obrigatoriedade de aludir aos dispositivos legais adotados por força da solução adotada pelo acórdão."
+Anote-se que a decisão que concedeu a recuperação judicial foi mantida, reconhecendo-se a possibilidade de composição do polo ativo por produtor rural com registro inferior a dois anos (e-STJ, fl. 464).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJSPemitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que os mesmos argumentos trazidos pelo ora agravante, já foram suscitados por outros bancos, devendo, assim, ser proferida a mesma decisão. Nesse sentido, como o tema já foi apreciado em outras duas oportunidades, não há realmente nada mais a esclarecer. Ficou, ainda, consignado que, caso entenda o BANCO ter havido fraude no contrato de empréstimo, deve ele recorrer a ação apropriada.
+O que se vê, na verdade, é a irresignação do BANCOcom o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto noart. 489 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no mencionado artigo.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEMANDA ANULATÓRIA. OMISSÃO, OBSCURIDADES OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. JULGADO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA VALIDADE DA ALIENAÇÃO DO IMÓVEL. SÚMULAS 5 E 7/STJ. RELEVANTE FUNDAMENTO DO ARESTO NÃO ATACADO NO APELO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão, obscuridades ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, II, § 1º, I a IV, e 1022, I e II, parágrafo único, I e II, do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A segunda instância concluiu que o julgamento antecipado da lide foi viável, porquanto não havia a necessidade de produção de outras provas, tendo em vista que os documentos constantes nos autos seriam suficientes para a resolução adequada do feito. Essas premissas a respeito da ausência de má-fé dos agravados e validade da transação entre os herdeiros e a construtora igualmente foram fundadas na análise fático-probatória da causa - óbice da Súmula 7/STJ.
+3. As conclusões a respeito da ausência de má-fé dos agravados e validade da transação entre os herdeiros e a construtora igualmente foram fundadas na análise fático-probatória da causa - aplicação do verbete sumular n. 7/STJ.
+4. Há fundamento do julgado que não foi objeto de ataque específico no recurso especial, embora seja suficiente para a manutenção de sua conclusão (Súmula 283/STF).
+5. O Tribunal de origem assentou ser cabível a averbação do contrato no registro imobiliário e assinalou a inviabilidade de nulidade da escritura de inventário e sobrepartilha, haja vista se tratar de sucessão hereditária. Tais conclusões também foram ancoradas em bases fáticas, a ocasionar o impedimento do texto da Súmula 7/STJ - por ambas as alíneas do permissivo constitucional.
+6. Acerca do pretendido julgamento estendido (art. 942 do CPC/2015), percebe-se a ausência de preenchimento dos requisitos legais, pois não há a suscitada divergência de entendimento entre os julgadores.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.918.626/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022)
+Da suposta afronta aosart. 7º doNCPC
+O BANCO alegouviolação doart. 7º do NCPC. Sustentou queas partes merecem tratamento igualitário.
+Cumpre ressaltar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que o BANCOnão apresentouargumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois limitou-se a dizer que as partes merecem tratamento igualitário.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. ALEGAÇÃO GENÉRICA DE CONTRARIEDADE A DISPOSITIVOS LEGAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A falta de indicação do artigo de lei eventualmente violado, bem como a arguição de ofensa ao dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, entender pela ocorrência de cerceamento de defesa, pela ausência de razoabilidade e proporcionalidade da decisão que fixou o pagamento de pensão vitalícia e pela redução do valor fixado a título de danos morais demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.829.293/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 30/8/2021, DJe 1º/9/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. PROVAS. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCÊNDIO EM TERMINAL DE ADMINISTRAÇÃO. DANOS MORAIS. INEXISTÊNCIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz (artigos 370 e 371), o qual preceitua que cabe ao magistrado dirigir a instrução probatória por meio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, demandaria a análise de fatos e provas dos autos, procedimento inadmissível em recurso especial, a teor do disposto na Súmula nº 7/STJ.
+6. No caso, o reexame do entendimento firmado pelas instâncias ordinárias, de que o incêndio ocorrido no terminal de administração da ora recorrida não gerou os danos morais alegados pela recorrente, demandaria a análise de circunstâncias fático-probatórias dos autos, o que obstado em recurso especial pela Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.704.662/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 30/8/2021, DJe 3/9/2021)
+Nessas condições,CONHEÇOdo agravo paraCONHECER EM PARTEdo recurso especial e, nessa extensão,NEGAR-LHE PROVIMENTO.
+Não obstantea aplicabilidade do NCPC, deixo de apreciar tema referente à majoração da verba honorária, considerando sua não fixação nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º,ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. ART. 489DO NCPC. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA.AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
