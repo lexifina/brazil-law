@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JORGE CARLOS NUNES PEREIRA, MICHELAS CARLAS BREGONCI TRANCOSO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado (e-STJ, fls. 670-379):
+PROCESSO PENAL. CONFLITO DE JURISDIÇÃO. 6ª VARACRIMINAL DE VILA VELHA E 3ª VARA CRIMINAL DEVILA VELHA. ESTELIONATO. AÇÕES PENAISDISTRIBUÍDAS A JUÍZO DISTINTOS. CONEXÃOPROBATÓRIA. INEXISTÊNCIA. CONTINUIDADEDELITIVA NÃO DEMONSTRADA. JUÍZO SUSCITADOCOMPETENTE.
+1 - Seguindo a orientação jurisprudencial firmada nesta Corte, e" certo que a similaridade fática não conduz à conexão dos crimes praticados, ainda que haja similitude entre as circunsta ncias em que os delitos ocorreram, tratam de eventos distintos.
+2 - Não se evidencia a conexão probatória, ate" porque tratam de processos que se encontram em fases diferentes, alguns devidamente instruídos e sentenciados, sendo admitido em nosso ordenamento pátrio a prova emprestada, caso realmente houvesse relação entre aos crimes. Nesse ponto, o enunciado n. 235 da súmula do STJ dispo es que a conexão não determina a reunião de processos, se um deles já foi julgado.
+3 - Impossível afirmar que há prevenção decorrente da continuidade delitiva, seja (sic) pelas dúvidas quanto às condiço es de tempo e lugar seja por tratarem de crimes distintos, seja por não ser possível a priori afirmar que uns devam ser havidos como continuação de outros, na forma do art. 71, do CP. Ademais, não há prejuízo de ulterior reconhecimento, inclusive pelo juízo da execução, na forma do art. 82 do CPP c/c art. 111da LEP. Reconhecida a competência do juízo suscitado
+Em suas razões recursais, as partes recorrentes apontam violação do art. 71 do CP e do art. 82 do CPPP. Aduzem para tanto, em síntese, ser competente o Juízo da 6ª Vara Criminal de Vila Velha, diante da existência de continuidade delitiva.
+Com contrarrazões (e-STJ, fls. 707-710), o recurso especial foi inadmitido na origem (e-STJ, fls. 712-710), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 756-762).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem não reconheceua continuidade delitiva sob o fundamento de que seriaimpossível afirmar que há prevenção decorrente da continuidade delitiva, seja pelas dúvidas quanto às condições de tempo e lugar, seja por tratarem de crimes distintas, seja por não ser possível a priori afirmar que uns devam ser havidos como continuação de outros (e-STJ, fl. 677).
+"Este Sodalício pacificou sua jurisprudência no sentido de que o reconhecimento da continuidade delitiva demanda o preenchimento cumulativo dos requisitos objetivos e subjetivos, negando a concessão do benefício quando evidenciada a presença de desígnios autônomos  .. " (HC 359.513/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 9/8/2016, DJe 24/08/2016).
+Com efeito, para verificar se há, no caso dos autos, elementos suficientes para perquirir se os delitos praticados pelo recorrente foram na modalidade continuada, no sentido de se afastar a conclusão a que chegou o Tribunal de origem, seria necessário, invariavelmente, o revolvimento do suporte fático-probatório dos autos para aferir o elemento subjetivo e concluir se o comportamento humano voluntário foi psiquicamente direcionado a finalidades autônomas, ou se há dolo unitário ou global, o que é vedado em sede de recurso especial, a teor da Súmula 7 deste Superior Tribunal de Justiça.
+Ademais, "é assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se estariam presentes ou não os requisitos indispensáveis ao reconhecimento da continuidade delitiva  .. " (AgRg no AREsp 1057738/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/03/2017, DJe 17/05/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ,conheçodo agravo para não conhecer dorecurso especial.
+Publique-se. Intimem-se.
