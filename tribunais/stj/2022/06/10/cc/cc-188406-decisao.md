@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 2ª Vara Criminal de Várzea Grande - MT,suscitante, em face do Juízo de Direito da 3ª Vara Criminal de Foz do Iguaçu - PR,ora suscitado, nos autos de inquérito policial instaurado para apurar a prática de suposto delito deestelionato,previsto no artigo 171, caput, do Código Penal Brasileiro.
+Extrai-se dos autos que(fls. 415):
+"Fabíola Dias Almeida atuava como cambista autônoma, frequentando faculdades de medicina no Paraguai, a fim de atrair estudantes brasileiros, que acabavam induzidos em erro ao efetuar transferências bancárias para a compra de guaranis, mas, não recebiam a contrapartida esperada (cf. fls. 384/385)."
+Diante disso, o Juízo de Direito da 3ª Vara Criminal de Foz do Iguaçu - PR, com apoio no parecer ministerial, declinou da competência para a Comarca de Várzea Grande - MT,por entender que acompetência é do local onde ocorreu a vantagem econômica, nos termos do artigo 70 do Código de Processo Penal(fls. 391 - 395).
+Recebidos os autos, oJuízo de Direito da 2ª Vara Criminal de Várzea Grande - MT, suscitou o presente conflito, sob a fundamentação de que em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção, sendo, portanto, competente o juízo de Foz do Iguaçu - PR, nos termos do art. 70, § 4º do CPP(fls. 407 - 408).
+O Ministério Público Federal opinou no sentido de conhecer o conflito para declarar a competência doJuízo de Direito da 3ª Vara Criminal de Foz do Iguaçu - PR,o suscitado(fls. 414- 417), consoante ementa a seguir transcrita:
+"CONFLITO DE COMPETÊNCIA. ESTELIONATO. TRANSFERÊNCIA BANCÁRIA FRAUDULENTA. LEI Nº 14.555/21. INCLUSÃO DO § 4º AO ARTIGO 70 DO CPP, QUE DEFINIU A COMPETÊNCIA DO LOCAL DO DOMICÍLIO DA VÍTIMA PARA O PROCESSAMENTO DA AÇÃO PENAL. APLICAÇÃO IMEDIATA. PLURALIDADE DE VÍTIMAS. COMPETÊNCIA DETERMINADA PELA PREVENÇÃO. PARECER PELO CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 3ª VARA CRIMINAL DE FOZ DO IGUAÇU/PR, ORA SUSCITADO."
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo, deve ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+O cerne do presente conflito cinge-se a verificar o juízo competente para processar e julgar a suposta prática do crime deestelionato,previsto no artigo 171, caput, do Diploma Penal.
+De acordo com a recente alteração legislativa, a Lei n.14.155de 27/02/2021, ao incluir o § 4º ao artigo 70 do Código de Processo Penal, fixou a competência para processamento e julgamento do delito deestelionatopraticado mediante transferência de valores como sendo o do local do domicílio da vítima, e em caso de pluralidade de vítimas, pela prevenção. Confira-se:
+"Art. 70. A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+(..)
+§ 4º Nos crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção."
+Analisando os autos entendo que tem razão o Juízo suscitante. Opresentecaso se amolda àdefinição decompetência por prevenção, diante da pluralidade de vítimas (primárias e secundária).
+Sobre o tema, transcrevo trecho do parecer ministerial de fl. 416:
+"No caso, como afirmou o MPPR, à fl. 388, as vítimas Vitória Correia Cavalcanti Nery, Ruhany Caroline de Lima Magalhães Melo, Camilla Kethleen de Oliveira Cunha e Waronildes de Oliveira Garcia residiam em Foz do Iguaçu porque estudavam medicina no país vizinho.
+Nesse contexto, um grupo de estudantes comunicou à autoridade policial brasileira a prática dos crimes de estelionato, perpetrados por Fabíola Dias Almeida, e as investigações tiveram início em Foz do Iguaçu/PR.
+A competência por prevenção dá-se quando, concorrendo dois ou mais juízes competentes, um deles antecede aos outros na prática de algum ato do processo ou medida a ele relativa, ainda que anterior ao oferecimento da denúncia (art. 83 do CPP). Assim, cumpre reconhecer a competência do Juízo da 3ª Vara Criminal de Foz do Iguaçu, eis que o IPL nº0001275-04.2022.8.16.0030 foi instaurado, originalmente, na Comarca de Foz do Iguaçu/PR, para a investigação do estelionato praticado por Fabíola Dias Almeida contra inúmeras vítimas."
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo de Direito da 3ª Vara Criminal de Foz do Iguaçu - PR, o suscitado.
+P. e I.
+EMENTA
+CONFLITODE COMPETÊNCIA. PROCESSO PENAL. ESTELIONATO.TRANSFERÊNCIA DE VALORES.PLURALIDADE DE VÍTIMAS. ART. 70, § 4º, DO CÓDIGO DE PROCESSO PENAL, COM A REDAÇÃO DADA PELALEI N. 14.155/21. PREVENÇÃO. COMPETÊNCIA DO JUÍZO SUSCITADO.
