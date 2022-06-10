@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deGABRIEL DO SANTOS ARAUJO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1504498-88.2019.8.26.0361).
+Em primeira instância, o paciente foi condenado às penas de 7 anos, 4 meses e 26 dias de reclusão em regimefechado e de 16 dias-multa, pela prática do crime previsto no 157, §§ 2º,II, e 2º-A, I, do Código Penal.
+Impetrado writ originário, o desembargador relator manifestou oposição ao julgamento virtual e o encaminhou para julgamento telepresencial, reforçando queamatéria restante, relativa à ordem das manifestações orais, seriadecididana sessão de julgamento.
+A defesa alega constrangimento ilegal, porquanto o desembargador relator não garantiuo direito de fala por último ao advogado do paciente, após a fala do membro do MP.
+Sustenta queé regra natural do contraditório que o pacientefale por último, para rebater os argumentos do acusador, advindo da não observância desse rito o risco deviolência deseu direito à ampla defesa e aocontraditório.
+Requer, liminarmente e no mérito, aconcessão da ordem para que, na sessãoque julgará a Apelação n. 1504498-88.2019.8.26.0361, em 11/7/2022,seja concedido à defesa o direito de fazer uso da palavra por último.
+É o relatório. Decido.
+Aponta-se como ato coator decisão monocrática do desembargador relator.
+O SuperiorTribunal de Justiça assentou jurisprudência no sentido de que "aprovocação desta jurisdição especial na via do habeas corpus ou do recurso ordinário exige o prévio esgotamento da jurisdição das instâncias ordinárias, requisito que impõe a necessidade de interposição do agravo regimental em face da decisão monocrática que indefere liminarmente a impetração na origem a fim de obter o pronunciamento definitivo do órgão colegiado competente"(AgRg no HC n. 623.589/RJ, relator Ministro Felix Fischer, Quinta Turma, DJe de 5/4/2021).
+Nos termos do art. 105, II, a, da Constituição Federal, a competência do STJ apenas é inaugurada após o exaurimento da instância antecedente, com "a finalização dos meios recursais submetidos à apreciação do órgão colegiado" (AgRg no HC n. 569.419/DF, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 16/6/2020).
+Na espécie, considerando a falta de prévio esgotamento da instância antecedente, ausente deliberação do órgão colegiado do Tribunal de origem sobre a matéria, o conhecimento desta impetração no STJ afrontaria inequivocamente as regras de competência constitucionalmente estabelecidas. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL A QUO. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. AGRAVO DESPROVIDO. 1. O habeas corpus foi impetrado contra decisão singular do Desembargador Relator que, em decisão terminativa, não conheceu do habeas corpus originário.  ..  2. Não foi conhecido o habeas corpus, pois, manejado contra decisão monocrática do Desembargador Relator, não houve a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado e, portanto, não ocorreu o exaurimento da instância ordinária. 3. Agravo desprovido. (AgRg no HC n. 579.342/SP, relatora Ministra Laurita Vaz, sexta Turma, DJe de 16/6/2020, destaquei.)
+Ante o exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
