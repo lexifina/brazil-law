@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRUNO RICARDO DE OLIVEIRAcom fundamento naalínea"a" do permissivo constitucional,contra acórdãodo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no Agravo em Execuçãon. 0012666-71.2017.807.0000.
+A controvérsia foi bem delineada no parecer ministerial,in verbis(e-STJ fls. 108/109):
+Trata-se de recurso especial interposto com base na alínea a do permissivo constitucional em face de acórdão da 1ª Turma Criminal do Tribunal de Justiçado Distrito Federal e dos Territórios que manteve a decisão do juízo das execuções penais que negara a Bruno Ricardo de Oliveira o benefício do indulto natalino previsto nos arts. 3º e 5º do Decreto Presidencial nº 8.940/2016.
+Narram os autos que o recorrente cumpre pena de 2 anos de reclusão em regime inicial aberto e 3 anos de reclusão em regime inicial fechado pelos crimes, respectivamente, de homicídio tentado e porte ilegal de arma de fogo de uso permitido.
+Segundo a corte local, o retromencionado decreto prevê literalmente que, nesses casos de infrações diversas, as penas devem ser somadas para análise dos requisitos objetivos impostos no decreto.. incabível cindir as penas dos crimes praticados com e sem violência e/ou ameaça à pessoa, com o fim de alcançar os requisitos para concessão do benefício.. o agravado ainda não cumpriu 2/3 das penas dos crimes que foram cometidos com violência..(fls. 69).
+Todavia, a defesa alega que tal entendimento viola o art. 11 do referido decreto, pois não lhe dá a melhor interpretação. Aduz que cada caso deve ser analisado de forma individualizada, com vistas à gravidade da conduta penal praticada..(fls. 82). Assim, para o crime de tentativa de homicídio, devem-se observar os lapsos temporais previstos no decreto: 1/3 para o delito de porte de arma de fogo de uso permitido(art. 3º, I) e  para o delito de homicídio tentado (art. 5º, II, a), de modo que cumpridos os lapsos temporais necessários, haja a devida concessão do benefício e, consequentemente, a extinção da punibilidade de forma total (fls. 82). Assim, requer a concessão do indulto.
+Contrarrazões às fls. 90/94. Decisão de admissibilidade às fls. 96/97.
+OParquetopinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O recurso não merece acolhida.
+É que o texto dodecreto invocado é taxativo no sentido de que, para a concessão de indulto, é necessário somar as penas dos delitos praticados, não havendo como aplicar o benefício apenas à condenação por crime sem violência ou grave ameaça, tal como pretende o recorrente.
+Destaque-se trecho do decreto:
+Art. 11. As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto até 25 de dezembro de 2016.
+O entendimento firmado pelo acórdão recorrido está em consonância com a sedimentada jurisprudência desta Corte Superior no sentido de que desvirtuar o teor do decreto presidencial implica em invasão de competência do Chefe do Poder Executivo.Citem-se os seguinte precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.EXECUÇÃO PENAL. INDULTO. DECRETO N.8.940/2016.UNIFICAÇÃO DE PENAS. AUSÊNCIA DE REQUISITO OBJETIVO. RECURSO NÃO PROVIDO.
+1. De acordo com a jurisprudência desta Superior Corte de Justiça, devem ser consideradas todas as penas impostas ao apenado  .. até a data de publicação do Decreto Presidencial para fins de análise do requisito objetivo do indulto e da comutação de penas(HC n. 414.174/SP, relator o Ministro Felix Fisher, Quinta Turma, DJe de 30/11/2017).
+2. No caso dos autos, na data prevista pelo Decreto n. 8.940/2016para aferição do requisito objetivo, qual seja, 25/12/2016, o sentenciado possuía 2 (duas) condenações a penas de reclusão, as quais, ao serem consideradas, evidenciam o não cumprimento do referido requisito, estabelecido nomencionado regramentopara gozo da benesse.
+3.Com efeito, conforme ressaltado pela Corte de origem, a decisão recorrida está absolutamente em consonância com o decreto pertinente a este caso.  .. há duas guias de execução, que devem ser unificadas para fins de comutação. Inviável falar em penas de naturezas distintas, porque, em sendo ambas de reclusão, elas podem perfeitamente ser somadas, sendo o regime adequado à nova realidade decorrente da unificação.
+4. Agravo regimental não provido.(AgRg no HC n. 533.883/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/5/2020, DJe de 2/6/2020, grifei)
+EXECUÇÃO PENAL. HABEAS CORPUS. EXECUÇÃO. DECRETO 8.940/2016. INDULTO. BASE DE CÁLCULO. PENA RESULTANTE DE COMUTAÇÕES ANTERIORES. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada a simples pretensão de reforma.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de indulto/comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal para a concessão do indulto, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade.
+3. Para a concessão de indulto, é de se considerar a pena originalmente imposta ao apenado, não sendo considerada, portanto, a pena remanescente em decorrência de comutações anteriores.
+4. Agravo Regimental a que se nega provimento.(AgRg no HC n. 429.125/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 19/4/2018, DJe de 11/5/2018, grifei)
+Não há se falar, pois, em violação ao disposto noart. 11 do Decreto Presidencial n.8.940/2016, aplicando-se ao caso, ainda, o disposto na Súmula n. 83 do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
