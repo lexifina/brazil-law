@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Marcus Venicius da Silva contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, no julgamento do HC n.2021428-38.2022.8.26.0000 (fls. 72/79), quemanteve a prisão preventiva decretada pelo Juízo de Direito da 1ª Vara Criminal da comarca de Araraquara/SP. A custódia foi reforçada quando da prolação da sentença que o condenou à pena de 6 anos e 8 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 16 dias-multa pelo crime de roubo circunstanciado (fls. 32/56).
+Insurge-se o recorrente contra a sentença condenatória, em que se nega a autoria delitiva. Sustenta que (fls. 93/94):
+Pois, o mesmo é primário, não concorreu para a infração penal, não participou do roubo qualificado, nunca usou armas de fogo, como bem exposto no dia dos fatos, alugou o carro de seu padrasto para terceiros, por R$ 100,00 (Cem Reais), e jamais concorreu na infração penal, existem testemunhas que viram ele emprestar o carro, e o mesmo em liberdade pode encontrá-los para testemunharem para a Justiça, onde ficará claro que elenão participou desse crime, é réu primário, possui bons antecedentes, e possuía registro em carteira, nunca o réu cometeu nenhum crime, os próprios demonstram falta de clareza nas provas testemunhais, depoimentos contraditórios, falta de provas claras como filmagens, ou reconhecimentos do réu dentre os mentores da ação criminosa. A verdade é que o réu inocente é mantido em custódia do Estado, enquanto o verdadeiro culpado encontra-se em Liberdade; devido ao Princípio Constitucional, do Direito à Liberdade, o réu deve aguardar seu processo em Liberdade, como prescinde nossa Constituição Federal, ele preenche os requisitos legais para tanto e não é ameaça para a Sociedade.
+Assim, pretende a expedição de alvará de soltura.
+Liminar indeferida (fls. 111/112), informações prestadas (fls. 115/143), o Ministério Público Federal opinou pelo não provimento do recurso (fls. 147/150).
+É o relatório.
+O recurso não pode ser conhecido, pois, para que fosse possível a discussão da autoria de delitiva, seria imprescindível o exame dos elementos fáticos da lide, o que não é possível na estreita via eleita, que possui rito célere e cognição sumária.
+Com efeito, atese de absolvição não comporta acolhimento, pois, em regra, tendo as instâncias ordinárias concluído pela presença de provas suficientes quanto à autoria, a inversão do julgado, de maneira a fazer prevalecer o pleito absolutório do Agravante, demandaria revolvimento das provas e fatos que instruem o caderno processual, inviável na via eleita(AgRg no HC n. 647.779/PR, Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe 31/5/2022).
+Ante o exposto, não conheço do recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. SENTENÇA CONDENATÓRIA. AUTORIA DELITIVA. DISCUSSÃO. IMPOSSIBILIDADE NA VIA ELEITA.
+Recurso não conhecido.
