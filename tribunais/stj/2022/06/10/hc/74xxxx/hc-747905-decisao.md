@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de correição parcial, com pedido liminar, impetrado em favor de WALT RAFAEL SOUSA DE ARAUJO, em face de suposta omissão do eg. Tribunal de Justiça do Estado do Pará.
+Daí o presente habeas corpus, no qual a d. Defesa, em suma, alega novo excesso de prazo no encaminhamento de seu recurso especial.
+Aduz que "impetrou quatro habeas corpus alegando negativa de prestação jurisdicional, tendo em vista a demora excessiva da Corte de origem em entregar a atividade jurisdicional e inaugurar a jurisdição da Corte Superior de Justiça" (fl. 4).
+Explica que, "Em 1/12/2021 fora impetrado o quinto habeas corpus contra a excessiva mora procedimental na condução dos autos de origem, situação que àquela altura já caracterizava patente negativa de prestação jurisdicional, uma vez que impossibilitava ilegalmente que a jurisdição da Corte Superior fosse inaugurada, registre-se, situação que inacreditavelmente permanece até o presente momento. (..)Douto Ministro Relator, já se passaram mais de 07 meses desde a concessão da medida liminar mencionada alhures e os autos ainda permanecem na origem, impossibilitando, desta feita, que a jurisdição do Superior Tribunal de Justiça seja inaugurada. No mais, passados mais de 01 ano e 10meses desde que o recurso de apelação fora julgado e, mesmo assim, os autos ainda permanecem na Corte de origem. Inacreditável! Vale mencionar que a Corte de origem utilizou 10 meses para julgar os embargos de declaração, situação reconhecida como ilegal pelo c. STJ quando do julgamento dos habeas corpus anteriores" (fls. 4-5).
+Requer, inclusive LIMINARMENTE, "se digne o eminente Ministro Relator a conceder um provimento liminar para que, antes da apreciação e julgamento do mérito deste habeas corpus, seja determinada a autoridade coatora que encaminhe imediatamente os autos da ação penal na origem ao Superior Tribunal de Justiça. Por ocasião do julgamento final, seja confirmada à liminar, isto é, reste definitivamente concedida a ordem de habeas corpus em favor do Paciente" (fl. 6).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de correição parcial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Nesta Corte Superior, tem-se que estajá é a quintaimpetração no mesmo sentido (HCs n. 669.797/PA, n. 643.027/PA,n. 654.685/PA e n. 710.052/PA).
+Em feitos conexos, inclusive, houve pedido deferido.
+Razões todas pelas quais, não conheço do writ. Concedo a ordem, de ofício, para determinar que a eg. Corte de origem confira o devido andamento ao processo do paciente na primeira oportunidade possível.
+Intime-se, com urgência, a origem.
+Comunique-sedesta decisãoa Corregedoria do respectivo Tribunal, para que acompanhe o andamento do feito.
+Após, vista dos autos ao d. Ministério Público Federal.
+P. I.
