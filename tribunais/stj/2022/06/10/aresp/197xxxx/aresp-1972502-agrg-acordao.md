@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 1055/1058, em que neguei provimento ao recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+A defesa do agravante sustenta que "(..)A discussão acerca da pretendida absolvição do Agravante por insuficiência de provas, art. 386, inciso VII, do Código de Processo Penal, não demanda revolvimento fático-probatório, mas tão somente revaloração dos elementos já estabelecidos por acórdão e sentença" (fl. 1063).
+Requer a reconsideração da decisão agravada ou a submissão do presente agravo ao órgão colegiado.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento firmado pelo Tribunal a quo, no sentido de absolver o agravante, por insuficiência probatória, inclusive com a aplicação do princípio do in dubio pro reo, demanda, necessariamente, o reexame das provas dos autos, providência vedada pela Súmula n. 7 do STJ.
+2 . Agravo regimental desprovido.
+VOTO
+O agravo regimental não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, nesse contexto, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (fls. 1056/1058):
+"OTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINSmanteve a condenação do recorrente nos seguintes termos do voto do relator (fls. 958/962):
+"De antemão, analisando os presentes autos, verifico que o pedido de absolvição quanto ao crime de roubo majorado pelo emprego de arma de fogo e concurso de pessoas, não comporta acolhimento, estando em descompasso com o escorço probatório amealhado ao feito. Explico.
+Em que pese o esforço argumentativo da defesa, a materialidade e autoria do crime de roubo encontram-se lastreadas em provas documentais e testemunhais suficientes, colhidas tanto na fase inquisitorial como judicial, entre as quais se destacam o auto de prisão em flagrante delito de Gilmar de Carvalho, um dos autores do crime, termo de reconhecimento, auto de exibição e apreensão dos valores subtraídos e do veículo utilizado na fuga e os termos de declarações obtidos pela autoridade policial (evento 1 - INQ3, autos de origem).
+No que diz respeito à autoria, esta também é inconteste diante da prova oral colhida durante a instrução criminal.
+Em juízo, o apelante negou ter praticado o crime narrado na denúncia, fazendo uso, no mesmo ato, do seu direito constitucional ao silêncio.
+Todavia, a tese de negativa de autoria não se sustenta, pois, em juízo, o também denunciado Gilmar de Carvalho afirmou o envolvimento de José Reginaldo (apelante), detalhando sua participação na empreitada criminosa, conforme se depreende a seguir:
+(..)
+Na audiência de instrução e julgamento (evento 101, autos de origem), os policiais militares que participaram da abordagem afirmaram que Gilmar, ao ser apreendido no dia seguinte, mencionou os nomes dos outros partícipes do delito, tal como se verificou anteriormente, não havendo indícios de que o corréu estivesse faltando com a verdade.
+As informações prestadas por Gilmar não se encontram divorciadas do escorço fático-probatório jungido aos autos, notadamente porque no interior do veículo (GM/CHEVROLET CORSA CINZA PÉROLA, PLACA HOS-9533) abandonado pelos meliantes após a consumação do delito, foram encontradas uma foto 3x4 do apelante, bem como uma conta telefônica de titularidade do recorrente José Reginaldo, com registros telefônicos para as cidades de Goiânia, Brasília, Blumenau e Porto Alegre.
+Veja-se, portanto, que a assunção da culpa por Gilmar de Carvalho(único partícipe encontrado pelos policiais e preso em flagrante delito) e a delação do recorrente, apontado como comparsa do delito de roubo majorado, constitui elemento probatório de confiança e autoriza a manutenção do édito condenatório, porquanto corroborado por outros elementos, em consonância, ainda, com a jurisprudência que rege a matéria. A propósito:
+(..)
+Como visto, as circunstâncias traçadas pelos depoimentos colhidos em juízo, em cotejo àqueles prestados na fase inquisitorial e às demais provas angariadas, elucidam a autoria do crime, servindo como importante elemento de convicção na condenação do acusado.
+Ademais, o recorrente não se desincumbiu de infirmar as provas insertas aos autos - precipuamente que não se encontrava nas circunstâncias de tempo e local do delito - sendo que os elementos probatórios nem de longe são frágeis quanto à autoria do delito de roubo majorado. Desta feita, conclui-se, em consonância com a manifestação ministerial, que a sentença recorrida não comporta reparos quanto à condenação do apelante pela prática do crime de roubo, apesar de o apelante tentar ilidir a pretensão acusatória, porquanto a materialidade e a autoria delitivas restaram sobejamente demonstradas."
+A revisão do entendimento firmado pelo Tribunala quo, no sentido de absolver o agravante, por insuficiência probatória, inclusive com a aplicação do princípio doin dubio pro reo, demanda, necessariamente, o reexame das provas dos autos, providência vedada pela Súmula n. 07 do STJ.
+Nesse sentido:
+RECURSO ESPECIAL. PENAL. ROUBO CIRCUNSTANCIADO. PRETENSÃO DE ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 07 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CO-AUTORIA E PARTICIPAÇÃO. CONFIGURAÇÃO DE CO-AUTORIA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. FUNDAMENTAÇÃO REMETIDA. IDENTIDADE DE CIRCUNSTÂNCIAS JUDICIAIS ENTRE CO-RÉUS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DOSIMETRIA. ART. 59 DO CÓDIGO PENAL. CULPABILIDADE, CONDUTA SOCIAL, CONSEQUÊNCIAS E CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. COMPORTAMENTO DA VÍTIMA. AUSÊNCIA DE MOTIVAÇÃO. RECONHECIMENTO DE DUAS CAUSAS ESPECIAIS DE AUMENTO DE PENA. ACRÉSCIMO FIXADO EM 2/5. AUSÊNCIA DE FUNDAMENTAÇÃO. ILEGALIDADE. SÚMULA N.º 443 DESTE TRIBUNAL. RECURSO PARCIALMENTE PROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Uma vez que o acórdão recorrido considerou suficientes as provas de autoria e materialidade para a condenação dos Recorrentes, infirmar tais fundamentos, com o escopo de serem absolvidos por insuficiência probatória, inclusive pela aplicação do princípio in dubio pro reo, é inviável no âmbito desta Corte Superior de Justiça, pois implicaria o reexame fático-probatório, o que atrai o óbice da Súmula n.º 07 desta Corte.
+(..)
+(REsp 1266758/PE, Rel. Ministra LAURITA VAZ, QUINTA TURMA,DJe 19/12/2011)."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
