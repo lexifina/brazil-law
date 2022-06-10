@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ALDO JOSÉPEREIRA DA SILVA JUNIOR interpõe agravo regimental contra a decisão de fls. 419-425, que conheceu do agravo para não conhecer do recurso especial.
+Em primeiro grau, o ora agravante foi condenadoàs penas de 5 anos de reclusão no regime semiaberto e 500 dias-multa,pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao recurso defensivo.
+No recurso especial, fundado na alínea a do permissivo constitucional, o agravante suscita violação do art. 28 da Lei n. 11.343/2006.Pugna pela desclassificação do crime para o delito de uso de entorpecentese,na alíneac, aponta violação do art. 33, §4º,da Lei n. 11.343/2006.Afirma fazer jus ao tráfico privilegiado.
+O apelo extremo foi inadmitido em razão da incidência da Súmula n. 7 do STJ, bem como daimpossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário.Aduz quenão é possível invocar dissídio com julgados do STF ousúmula, ainda que vinculante(fls. 394-399).
+A decisão ora agravada conheceu do agravo para não conhecer do recurso especial.
+O agravante sustenta que pretendetão somente a revaloração das provas dos autos, devendo ser afastada a aplicação da Súmula n. 7 do STJ.
+Reafirma que preenche os requisitos previstos no art.33, §4º, da Lei n. 11.343/2006. Apresenta entendimentos firmados pelo STJ com julgados em habeas corpus, além de expor divergência com decisões proferidas pelo STF.
+Requer, assim, o provimento do presente agravo regimental com a reconsideração da decisão agravada ou a submissão da pretensão a julgamento pelo colegiado.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 445-457).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. MATERIALIDADE. DESCLASSIFICAÇÃO PARA USO. REEXAME DE MATÉRIA DE PROVA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. PRECEDENTE EM HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão das conclusões do tribunal de origem sobre a desclassificação da conduta para o crime de uso de entorpecentes demanda o reexame do conjunto fático-probatório dos autos, procedimento inviável no âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+2. Não se admite como paradigma, para comprovar eventual dissídio, acórdão proferido em habeas corpus, em mandado de segurança, em recurso ordinário em habeas corpus, em recurso ordinário em mandado de segurança e em conflito de competência.
+3. A simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O Tribunal de origem, ao manter a sentença, que condenara o ora agravante pela prática do crime de tráfico de drogas, consignou que o contexto fático-probatório não deixava margens para dúvidas de que o fato narrado na denúncia não comportava a desclassificação para o delito de uso de entorpecentes, destacando os depoimentos dos policiais. Confira-se (fls. 323-329,destaquei):
+Irresignado com os termos da sentença, a recorrente interpôs o presente apelo, pugnando, em síntese, pela desclassificação da conduta para o tipo penal previsto no art. 28 da Lei nº 11.343/2006.
+De logo, destaco não assistir razão ao apelante, uma vez que uma vez que o conjunto probatório colhido no decorrer da instrução processual comprova o seu efetivo envolvimento na prática da traficância.
+Da análise dos autos não restam dúvidas acerca da autoria e da materialidade do delito, verificadas através do Auto de Apresentação e Apreensão (fl. 08), do Auto de Exibição e Apreensão (fl. 10), do Laudo de Exame de Constatação (fis. 14/15), do Laudo Pericial Criminal nº 3958/2018 - ILAF/MA (Material Branco Sólido) (fis. 53/57 e 75/79), bem como através dos depoimentos das testemunhas, ouvidas tanto na fase inquisitorial quanto em Juízo (fis. 02/03, 110/112 e 115-mídia audiovisual).
+O Laudo Pericial Criminal nº 3958/2018 - ILAF/MA (Material Branco Sólido) mostrou- se conclusivo quando à presença do alcaloide COCAÍNA na forma de SAL (cloridrato de cocaína, sulfato de cocaína e etc.), sendo apresentada massa bruta total de 2,987 g (dois gramas e novecentos e oitenta e sete miligramas) e massa líquida total de 2,471 (dois gramas e quatrocentos e setenta e um miligramas), não restando dúvida, portanto, quanto à materialidade delitiva.
+Quanto à autoria, as testemunhas Dowver Azevedo Crua Júnior e Ivo Fernando França Cutrim, policiais militares responsáveis pela prisão do apelante, forneceram detalhes acerca da abordagem e revista que resultaram no flagrante.
+Extrai-se dos depoimentos prestados pelo policias que o apelante foi abordado em atitude suspeita próximo a umas quitinetes onde costuma haver concentração de viciados.
+Além do que, os policiais relataram que a droga foi encontrada após busca domiciliar na residência do apelante, onde encontraram 08 (oito) papelotes de cocaína, escondidos dentro do guarda-roupas.
+Os militares afirmaram ainda que, no momento da prisão, o apelante teria confessado que a droga se destinava ao tráfico, inclusive relatando que cada trouxinha era vendida por R$ 20,00 (vinte reais).
+Como se pode observar, as testemunhas descreveram minudentemente a conduta do ora apelante, o que, aliado às demais provas, e a teor da mais abalizada jurisprudência, mostra-se suficiente à confirmação da autoria delitiva.
+Calha registrar que depoimentos de policiais podem servir de base para o decreto condenatório, consoante têm decidido reiteradamente os tribunais brasileiros, conforme demonstrado abaixo.
+ ..
+Embora o acusado afirme que a droga apreendida destinava-se a consumo próprio, tal alegação não se mostra verossímil, especialmente diante das contradições existentes em seu depoimento.
+Conforme muito bem ponderado na sentença condenatória, o próprio apelante confirmou ter comprado 03 (três) trouxinhas de cocaína por R$ 100,00 (cem reais), as quais foram transformadas em 08 (oito) papelotes, decorrendo daí o seu propósito de comercializar a substância.
+Ora, se o paciente confirma ter "batizado" a droga, misturando-a com outras substâncias com a finalidade de aumentar o seu volume, não resta dúvida de que a mesma teve diminuída sua capacidade psicotrópica, o que revela a finalidade de venda para terceiro e não para consumo próprio.
+Ademais, embora o apelante não tenha sido surpreendido fazendo a efetiva comercialização da substância entorpecente apreendida, o tipo do art. 33 da Lei 11.343/2006 é de ação múltipla, descrevendo 18 (dezoito) condutas típicas, bastando que a ação do agente esteja enquadrada em um dos verbos elencados no artigo para a configuração do delito.
+ ..
+Outrossim, o local onde foi feita a abordagem é conhecido como sendo de intenso tráfico de drogas, fato que aliado à forma de acondicionamento da droga e ao dinheiro trocado apreendido, levam à conclusão de que as substâncias entorpecentes se destinavam à venda.
+Portanto, conforme se depreende dos autos, a condenação do ora apelante se baseou em elementos probatórios seguros e idôneos, comprovando-se a prática do delito de tráfico, desta maneira, incabível o pleito pela desclassificação para o delito elencado no artigo 28 da Lei nº 11.343/2006.
+Diante da incidência da Súmula n. 7 do STJ, é inviável, em recurso especial, desconstituir o entendimento firmado pelas instâncias ordinárias, que, analisando a materialidade e a autoria do delito com base no acervo probatório e de modo fundamentado, decidiram pela condenação quanto à prática do delito de tráfico de entorpecentes, porquanto presentes as elementares do tipo penal.
+A propósito: AgRg no AREsp n. 1.840.915/SE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 21/5/2021; e AgRg no REsp n. 1.779.821/MG, relatorMinistro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/2/2021.
+Da mesma forma, o entendimento adotado pelo Tribunal a quo referente à inviabilidade de desclassificação do delito de tráfico de drogas (art. 33 da Lei n. 11.343/2006) para o de uso de entorpecentes (art. 28 da Lei n. 11.343/2006) não pode ser revisto pelo STJ por implicar reexame de provas (AgRg no AREsp n. 1.740.201/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 24/11/2020; e AgRg no AREsp n. 1.638.992/PA, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/5/2020).
+Ademais, quanto à divergência jurisprudencial apresentada e como bem consignou a decisão agravada, é assente neste Tribunal que não se admite como paradigma, para comprovar eventual dissídio, acórdão proferido pelo STF, nem súmula, ainda que vinculante.
+Nesse sentido: "não é admissível a realização do cotejo analítico com súmula, mas apenas com os julgados que a originaram" (AgInt no REsp n. 1.681.656/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/6/2019).
+Confiram-se os seguintes precedentes: AgRg no REsp n. 1.210.998/MS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/9/2015; AgInt no AREsp n. 903.411/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 6/2/2017; e AgInt no REsp n. 1.604.133/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 31/8/2016.
+Ressalte-se que também não é possível aalegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário.
+Neste sentido, menciono: AgRg no AREsp n. 1.777.305/PR, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 14/5/2021; AgRg no AREsp n. 1.648.090/GO, Quinta Turma, de minha relatoria, DJe de 14/12/2020; e AgRg no REsp n. 1.849.766/AC, relator Ministro Sebastião Reis Junior, Sexta Turma, DJe de 9/9/2020.
+Ainda, segundo a jurisprudência consolidada desta Corte, "a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório"(AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Portanto, o agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
