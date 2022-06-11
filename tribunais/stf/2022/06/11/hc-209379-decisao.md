@@ -1,0 +1,63 @@
+Decisão: Trata-se de habeas corpus impetrado em face de acórdão exarado pelo Superior Tribunal de Justiça sob a seguinte ementa (eDOC 11, grifei):
+
+    AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PEDIDO DE SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. SÚMULA 21/STJ. 1. Ausente a apontada violação do princípio da colegialidade, porquanto o julgamento monocrático encontra previsão no Regimento Interno do Superior Tribunal de Justiça, permitindo, ao relator, negar provimento a recurso contrário à jurisprudência dominante acerca do tema (art. 34, XVIII, b, do RISTJ). 2. Nos termos do disposto no art. 159, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, não há que se falar em sustentação oral em julgamento de agravo regimental. 3. Consta do decreto prisional fundamentação idônea, evidenciada na gravidade concreta do crime, pois as circunstâncias fáticas permitem concluir que o agravante foi o mandante da morte de sua ex-esposa, atingida pelas costas enquanto caminhava na companhia do filho de 11 anos, que presenciou os fatos. 4. A orientação pacificada nesta Corte Superior é no sentido de que não há lógica em deferir ao condenado o direito de recorrer solto quando permaneceu segregado durante a persecução criminal, se persistentes os motivos para a preventiva (HC 442.163/MA, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 21/6/2018, Dje 28/6/2018). 5. Inexiste constrangimento ilegal por excesso de prazo quando o feito, diante da pluralidade de réus e da complexidade da causa, aliadas à situação excepcional de pandemia, tramita de forma regular, não havendo indícios de desídia estatal. "Pronunciado o réu, fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução" (Súmula n. 21 do STJ). 6. Agravo regimental improvido.
+
+    Busca-se, em suma, a revogação da custódia preventiva do paciente ou, ao menos, a sua substituição por medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal, sob a assertiva de que, (i) além de presentes condições pessoais favoráveis à restituição da liberdade, (ii) ausente fundamentação idônea a lastrear a subsistência da constrição pessoal, bem como (iii) evidente o excesso de prazo na formação da culpa, que não pode ser atribuível à defesa, considerado o tempo de segregação até aqui suportado e “sobretudo quando inexiste perspectiva para o julgamento final”.
+
+    É o relatório. Decido.
+
+    1. Nada obstante todo o arrazoado defensivo, o writ não merece processamento. De tudo que o que se afere do caso, não há teratologia ou flagrante ilegalidade a despontar do acórdão prolatado pelo juízo a quo.
+
+    2. De plano porque já assentado jurisprudencialmente por esta Suprema Corte que “[c]ondições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar” (HC 161960 AgR, Relator(a): Min. Gilmar Mendes, Segunda Turma, julgado em 05.04.2019, grifei)
+
+    Da mesma forma, também pacífica a compreensão por esta Suprema Corte de que:
+
+    [...] 5. Se as circunstâncias concretas da prática do delito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes.
+
+    6. O perigo de dano gerado pelo estado de liberdade do acusado deve estar presente durante todo o período de segregação cautelar.
+
+    7. A contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal.
+
+    8. O Plenário deste Supremo Tribunal firmou entendimento no sentido de que o mero decurso do prazo de 90 (noventa) dias previsto no art. 316, parágrafo único, do Código de Processo Penal, não conduz à soltura automática do preso preventivamente. (HC 190.028 AgR, Primeira Turma, Relator(a) Min. Rosa Weber, DJe 11.02.2021)
+
+    No mesmo sentido, apenas à guisa de exemplo, HC 204865 AgR, Primeira Turma, Relator(a) Min. Roberto Barroso, DJe 01.12.2021; HC 206147 AgR, Segunda Turma, Relator(a): Min. Ricardo Lewandowski, DJe 25.10.2021; HC 202742 AgR, Segunda Turma, Relator(a): Min. Gilmar Mendes, DJe 31.08.2021; HC 200927, Primeira Turma, Relator(a): Min. Marco Aurélio, DJe 28.06.2021.
+
+    In casu, verifica-se que, a despeito da primariedade do paciente, a manutenção de sua custódia cautelar encontrou guarida nas próprias circunstâncias em que se aponta em tese haver sido perpetrado o delito; na própria gravidade concreta da execução do homicídio em apuração.
+
+    Afinal, pelo que se extrai do voto condutor do acórdão vergastado, o ora paciente foi pronunciado, em 10/5/2021, como incurso no artigo 121, parágrafo 2°, I, IV e VI, na forma do parágrafo 2°-A, I, e parágrafo 7°, III c/c artigo 62, I, ambos Código Penal, [...] em razão de fato ocorrido aos 15/08/2018, porque “teria planejado e ordenado a execução do delito, determinando as ações de PAULO MAURÍCIO e HAMIR, assim como teria monitorado a rotina da vítima, através de ligações telefônicas realizadas para o filho do casal”. De acordo com o apurado, até aquele momento, nos autos da ação penal, “O corréu PAULO MAURÍCIO, mancomunado com os demais, teria efetuado disparos de arma de fogo contra a vítima, ex-esposa do ora paciente, PEDRO PAULO, tirando-lhe a vida. A vítima foi atingida pelas costas, enquanto caminhava na companhia de seu filho de 11 (onze) anos, que, portanto, a tudo presenciou” (eDOC 10, pp. 6-8).
+
+      Nesse ponto, ao contrário do alegado pelos impetrantes, de especial relevo o fato de o paciente haver sido pronunciado, considerado que os pressupostos para esse decisum são exatamente a existência de prova da materialidade do crime e a existência de indícios de autoria em desfavor do imputado.
+
+    E, na situação posta sob exame, o que se observa é que, ao justificar a persistência da prisão, asseverou o juízo de primeiro grau o seguinte:
+
+    “(...) Deixo de reconhecer aos acusados o direito de aguardarem o julgamento em liberdade pelos seguintes motivos: Os réus tiveram decretadas suas prisões preventivas, respondendo ao processo recolhidos ao cárcere, sendo certo que permanecem íntegros e inalterados os motivos que justificaram a manutenção de suas custódias cautelar até a presente data. Finda a primeira fase da instrução, encontram-se pronunciados em um primeiro Juízo de admissibilidade, não havendo qualquer alteração favorável do quadro fático existente. Os fatos imputados aos réus possuem natureza de extrema gravidade, assim como as condições em que se deram, conforme se depreende dos depoimentos acima analisados. Assim, as circunstâncias indicam a necessidade da manutenção de sua prisão preventiva, para a garantia da ordem pública, a fim de impedir que novos crimes sejam praticados. Finalmente, in casu, observa-se não ser cabível a substituição da prisão preventiva dos acusados por qualquer das medidas cautelares introduzidas pela Lei nº 12.403/2011, as quais se mostram absolutamente insuficientes, inadequadas e insatisfatórias para assegurarem a ordem pública e a instrução criminal, já que não trazem maiores garantias de que poderiam impedir que os réus voltassem a praticar novos crimes e exercessem influência sobre as testemunhas, observando as circunstâncias concretas acima elencadas, razões pelas quais, com fundamento no artigo 312 e no artigo 413 § 3º, ambos do Código de Processo Penal, mantenho as prisões dos acusados (...)”
+
+    Então, o Tribunal de Justiça de origem compreendeu que, de fato, “O contexto fático autoriza e recomenda a manutenção da custódia preventiva do paciente e evidencia que outras medidas cautelares diversas da prisão não se mostram suficientes e adequadas à espécie, sendo certo que, ao menos por ora, as condições pessoais favoráveis não serão o bastante para desconstituir a medida restritiva regulamente determinada”.
+
+    Na mesma linha foram as razões expostas pelo Superior Tribunal de Justiça para rejeitar o pleito liberatório, que ainda ressaltou que (eDOC 10, p. 8):
+
+     [...] a manutenção da custódia cautelar nos casos em que o recorrente permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente ao entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal.
+
+    Nessa toada, o que se percebe é que os juízos antecedentes em nada se distanciaram das balizas decisórias assentadas pela jurisprudência deste Supremo Tribunal Federal sobre os temas que circundam a controvérsia posta sob exame. Estando a mantença da prisão alicerçada no modus operandi supostamente empregado para a conduta criminosa, a revelar a sua especial gravidade e a periculosidade do agente, não há que se falar em imposição de constrangimento ilegal.
+
+    3. Lado outro, no que concerne ao excesso temporal alegado, além das razões também já reconhecidas por esta Suprema Corte, no julgamento do referido HC 190.286, como suficientes a justificar natural maior elastecimento de toda a marcha processual - “complexidade do feito, com três réus e patronos distintos, instauração de incidente de insanidade mental de um dos corréus, além de diversos pleitos defensivos e da necessidade de expedição de várias cartas precatórias para oitiva de testemunhas”, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Rio de Janeiro, foi possível observar que o feito já se encontra na fase do art. 422 do Código de Processo Penal, não havendo que se falar em desídia do Juízo de primeiro grau.
+
+    Em verdade, como se extrai das próprias circunstâncias que envolvem o crime em apuração, a ação penal que figura como pano de fundo deste habeas corpus envolve delito grave e complexo, relacionados a atos supostamente praticados com viés de violência de gênero perpetrada em frente a criança, filho da vítima e supostamente de seu algoz, a dificultar as investigações e, por conseguinte, o fluxo natural de sua elucidação. À vista de tal particularidade, a marcha processual estabelecida pelo Juízo singular, até o momento, não destoa do razoável, a despeito do tempo de custódia cautelar suportado.
+
+    Notável, ainda, que a defesa do paciente “tenta demonstrar o alegado excesso de prazo da custódia cautelar tomando como parâmetro apenas os atos processuais que lhe dizem respeito. Todavia, essa circunstância, por si só, não autoriza a sua libertação. Isso porque os argumentos veiculados nestes autos foram examinados de forma global, levando-se em consideração todos os aspectos que pudessem configurar paralisação injustificada da ação penal, violadora do princípio da razoável duração do processo (art. 5º, LXXVIII, da CF)” (HC 207078 AgR, Relator(a): Min. Ricardo Lewandowski, DJe 04.11.2021).
+
+    De mais a mais, tal qual a compreensão do Superior Tribunal de Justiça, esta Suprema Corte também tem a orientação de que "Encerrada a instrução penal e pronunciado o réu, não há mais cogitar de excesso de prazo ou de fundamentação insuficiente da custódia preventiva" (HC 83956, Segunda Turma, Relator(a): Min. Ellen Gracie, DJe 28.05.2004. Nesse mesmo sentido: HC 203087 AgR, Primeira Turma, Relator(a): Min. Cármen Lúcia, DJe 25.09.2021; HC 194398 AgR, Segunda Turma, Relator(a): Min. Gilmar Mendes, DJe 23.04.2021; HC 184907 ED-AgR, Segunda Turma, Relator(a): Min. Cármén Lúcia, DJe 26.06.2020.
+
+    4. Por fim, como também já asseverado no writ anterior, no caso do paciente, medidas cautelares menos gravosas que a prisão não se mostram suficientes se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautela.
+
+    5. Dessarte, com espeque no art. 21, §1º, do RISTF, nego seguimento ao habeas corpus.
+
+    Publique-se e intimem-se.
+
+    Brasília, 11 de junho de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
