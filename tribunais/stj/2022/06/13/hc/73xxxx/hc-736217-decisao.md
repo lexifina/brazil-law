@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Marcus Alessandro de Oliveira Araújo, Edivan Ferreira do Rosario e Roberval Ferreira Leite - denunciados como incursos nos crimes de peculato, concussão, tráfico de drogas e associação para o mesmo fim, majorados, e participação em organização criminosa -, em que se aponta como autoridade coatora o Tribunal de Justiça da Bahia, que acolheu medida cautelar inominada ajuizada pelo Ministério Público (Autos n. 8012832-45.2022.8.05.0000), a fim de atribuir efeito suspensivo ao recurso em sentido estrito, interposto pelo Parquet contra a decisão do Juízo de Direito da Vara Criminal da comarca de Seabra/BA que concedeu a liberdade provisória aos pacientes (Autos n. 8001241-07.2020.8.05.0243).
+Alegam os impetrantes, em síntese, constrangimento ilegal no restabelecimento da prisão cautelar imposta nos autos da ação penal decorrente da denominada Operação Casmurro, aos argumentos de insubsistência dos fundamentos do decreto de prisão, uma vez que a instrução criminal se encontra encerrada, negativa de acesso aos autos da medida cautelar inominada, na qual foi atribuído efeito suspensivo ao recurso em sentido estrito interposto pelo Ministério Público contra a decisão que concedeu a liberdade provisória aos acusados, falta de cabimento da própria medida cautelar e incompetência do Desembargador Relator, em razão da inobservância de regra de prevenção.
+Postulam, ao final, a concessão liminar da ordem para que seja anulada a decisão do Desembargador Julio Cezar Lemos, diante da incompetência para o exame do feito, ou revogada a prisão preventiva.
+Em 9/5/2022, deferi o pedido liminar parasuspender os efeitos da decisão proferida nos autos da medida cautelar inominada ajuizada pelo Ministério Público (Autos n. 8012832-45.2022.8.05.0000) (fls. 351/353).
+O Ministério Público Federal opinou pela concessão da ordem (fls. 371/377):
+PENAL - PROCESSUAL PENAL - HABEAS CORPUS - REVOGAÇÃO DA PRISÃO PREVENTIVA - CONSTRANGIMENTO ILEGAL - INCOMPETÊNCIA DO JUÍZO - PREJUÍZO COMPROVADO - INOBSERVÂNCIA DA REGRA DE PREVENÇÃO - PRECEDENTES JURISPRUDENCIAIS. PARECER PELA CONCESSÃO DA ORDEM.
+É o relatório.
+O presente pedido se encontra prejudicado.
+Em consulta à página eletrônica do Tribunal de Justiça da Bahia, obtive a informação de que os autos do Recurso em Sentido Estrito e da Medida Cautelar Inominada n. 8012832-45.2022.8.05.0000 já foram redistribuídos à Desembargadora preventa para a análise do feito, circunstância que denota a perda do objeto da presente impetração.
+Em face do exposto, julgo prejudicado o presente writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. PECULATO, CONCUSSÃO, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM, MAJORADOS, E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. CONCESSÃO DE LIBERDADE PROVISÓRIA. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO PELO PARQUET ESTADUAL. DISTRIBUIÇÃO EQUIVOCADA. INOBSERVÂNCIA DE REGRA DE PREVENÇÃO. SUPERVENIÊNCIA DE REDISTRIBUIÇÃO DOS AUTOS À RELATORA PREVENTA. PERDA DO OBJETO.
+Writ prejudicado.
