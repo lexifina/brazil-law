@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo dedecisão que inadmitiu recurso especial interposto por SEBASTIÃO IBA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE RECONSIDERAÇÃO. RETRATAÇÃO. PRAZO RECURSAL. NÃO INTERRUPÇÃO E/OU SUSPENSÃO. PRECLUSÃO. RECURSO MANIFESTAMENTE INTEMPESTIVO.
+Nem a faculdade de retratação do juiz (art. 331 do CPC), nem o pedido de reconsideração tem o condão de alterar, interromper ou sobrestar o fluxo do prazo legal (art. 1.003, § 5º, do CPC), razão pela qual o agravo de instrumento é manifestamente intempestivo.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, o agravante alega violaçãodos arts. 272, § 8º, e 1.003, § 5º do CPC/2015, sustentando a tempestividade do agravo de instrumento interposto na origem. Assevera (e-STJ, fls. 164/165):
+O juízo de primeiro grau proferiu a decisão do evento 150, em que "supriu" a infração ao contraditório e rejeitou os pedidos formulados pelo recorrente no evento 144, mantendo a decisão do evento 137.
+Vejam, Excelências, que, na petição do evento 144, o recorrente atendeu o comando do § 8º do art. 272 do CPC, que dispõe que "aparte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido".
+Logo, tendo sido alegada a nulidade processual por falta de intimação, o recorrente praticou o ato que lhe cabia, qual seja, impugnar o pedido formulado pela União no evento 132.
+A petição do evento 144 também teve o intuito de submeter à apreciação do juízo a quo as matérias que, no entendimento do recorrente, infirmam o pedido da União do evento 122, a fim de evitar possível alegação de supressão de instância ao interpor o competente recurso.
+Ressalta-se que o juízo de primeiro grau reconheceu a existência de violação ao contraditório, tanto que consignou que estaria suprida pela petição do evento 144. Destaca-se o seguinte trecho da decisão do evento 150:
+Lado outro, a parte exequente apresenta manifestação contra o mérito da decisão de evento 137 com os mesmos argumentos já apresentados anteriormente em defesa dos cálculos de evento 55. Assim, eventual infração ao contraditório fica suprida com a petição de evento 144.
+Por esse motivo, o recorrente não renovou, em agravo de instrumento, a tese de violação da regra da não surpresa e dos princípios do contraditório e ampla defesa.
+Ora, se o juízo de primeiro grau reconheceu a violação ao contraditório, a decisão do evento 150 substituiu a do evento 144, até porque houve a reanálise dos pedidos da União e a análise dos argumentos e pedidos do recorrente, mantendo, porém, a primeira decisão (evento 144) pelos seus próprios fundamentos.
+Portanto, considerando-se que o agravo de instrumento também ataca a decisão do evento 150 dos autos de primeiro grau e tendo sido interposto dentro do prazo legal (15 dias, nos termos do art. 1.003, §5º, do CPC), não há que se falar em intempestividade, nem em preclusão em relação a essa decisão, ainda que se entenda que seria intempestivo o recurso contra a decisão do evento 137, o que se admite apenas para argumentar. Infere-se, pois, que o acórdão regional violou direta e literalmente os arts. 272, §8º, e 1.003, §5º, do CPC.
+Sendo assim, requer-se o reconhecimento da tempestividade do agravo de instrumento que ataca a decisão do evento 150 dos autos de primeiro grau e, por consequência, a cassação do acórdão recorrido, determinando-se o retorno dos autos ao TRF da 4ª Região, para que seja analisado o mérito do agravo de instrumento interposto pelo recorrente.
+Sustenta a afronta ao art. 494, I, do CPC/2015, pretendendo a análise, de ofício, de suposto erro material ocorrido nos cálculos da Contadoria Judicial.
+Foram apresentadas contrarrazões.
+A inadmissão do recurso por incidência da Súmula n. 83/STJ - daí o presente agravo.
+É o relatório.
+Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamentos da decisão agravada.
+A Corte local não se pronunciou sobre os arts. 272, § 8º, do CPC/2015 e 494, I, do CPC/2015, relativos a nulidade de intimação e análise de ofício de erro material. Dessa forma, ausente o requisito do prequestionamento, incidente o óbice da Súmula n. 211/STJ.
+Sobre a intempestividade do agravo de instrumento, no caso concreto, o Tribunal de origem assim se manifestou (e-STJ, fls. 93/94):
+Não há como admitir o recurso, por manifestamente intempestivo.
+O agravante insurge-se contra a decisão veiculada no evento 137 dos autos originários, que reconsiderou a decisão de evento 122 no tocante ao encontro de contas e revogou a ordem de remessa à Contadoria para retificação dos cálculos 113, excluindo os valores da TABELA 2 do evento37, bem como o valor de R$ 4.172,63, todos constantes da coluna "Taxa de Ocupação", com com prazo recursal iniciado em 24/11/2020 (00:00:00) e encerrado em 15/12/2021 (23:59:59).
+Em 27/11/2020, o recorrente aviou petição no evento 144 dos autos originários, na qual sustentou a nulidade da decisão do evento 137, por violação à regra da não surpresa e aos princípios constitucionais do contraditório e da ampla defesa, bem como arguiu a incorreção dos cálculos apresentados pela contadoria judicial no evento 114, pelos mesmos argumentos aqui expostos.
+Sobreveio, então, decisão do juízo a quo, rejeitando a alegação de violação ao princípio da não surpresa (ponto que não comportou insurgência do agravante no presente recurso), e, quanto ao mérito da irresignação, mantendo a decisão de evento 137 e indeferindo os pedidos de evento 144 dos autos originários, in verbis:
+A parte exequente impugna com a petição de evento 144 a decisão proferida no evento 137, aludindo violação ao contraditório e a não surpresa. Requer a declaração de nulidade da referida decisão. Quanto ao mérito, defendeu os cálculos de evento 55 (CALC2, 3 e 4).
+Intimada, a UNIÃO manifestou-se pela manutenção da decisão guerreada.
+Decido.
+Em que pese a alegação da autora de violação ao princípio da não surpresa, a discussão de evento 137 não é nova e vem sendo objeto de questionamentos pelas partes desde a impugnação aos cálculos de evento 55.
+Em fase de cumprimento da sentença, cabe ao juízo homologar ou não os cálculos do crédito a partir dos argumentos acostados por credor e devedor, apoiado, quando o for o caso, pelos cálculos da contadoria judicial.
+No caso, a decisão de evento 137 reconheceu erro material nas decisão preferidas anteriormente (eventos 122/128) por entender correta a argumentação da executada que a manutenção das decisões de eventos 122 e 128 permitiria excesso de execução e enriquecimento ilícito, nestes termos:
+"(..) De fato, a apuração do valor devido passa pelo encontro das contas do valor efetivamente pago pela autora, identificado pela coluna VALOR PAGO da TABELA 2, evento 37, com os valores originais de Taxa de Ocupação,demonstrados na coluna VALOR ORIGINAL da TABELA 2, evento 37. Assim, os valores constantes na coluna TAXA DE OCUPAÇÃO dos cálculos da contadoria judicial (evento 114), antes interpretados como devidos pela parte autora,tratam-se apenas dos valores originais da referida taxa a ser abatido dos valores pagos, os quais quitaram os débitos de 2007 a 2018 (EXTR2, evento 121).
+Também, ficou esclarecido que o valor de R$ 4.172,63 refere-se a somatória dos valores das competências de 2008,2009 e 2010 da tabela já mencionada.
+Dessa forma, a não realização do encontra das contas gera excesso de execução e enriquecimento ilícito, pois, como explicado pela UNIÃO, levaria a restituição do valor integral pago pela autora a cada competência.
+Demonstrado, então, o erro material na decisão de eventos 122/128.(..)"Lado outro, a parte exequente apresenta manifestação contra o mérito da decisão de evento 137 com os mesmos argumentos já apresentados anteriormente em defesa dos cálculos de evento 55. Assim, eventual infração ao contraditório fica suprida com a petição de evento 144.
+Quanto mérito da irresignação, mantenho a decisão de evento 137 e indefiro os pedidos de evento 144.
+Intimem-se. Após, cumpra-se a decisão de evento 137.
+Diante desse contexto, forçoso concluir que o agravo de instrumento interposto em 20/04/2021 é manifestamente intempestivo, porque nem a faculdade de retratação do juiz (art. 331 do CPC), nem o pedido de reconsideração tem o condão de alterar, interromper ou sobrestar o fluxo do prazo legal (art. 1.003, § 5º, do CPC).
+Estabelecida a premissa fática de que a pretensão do agravante já havia sido decidida em momento anterior, o entendimento adotado pela Corte local coincide com a jurisprudência do STJ no sentido de que pedido de reconsideração e faculdade de retratação não alteram a data de início do prazo para recorrer, mantendo-se, por isso, o entendimento de intempestividade do recurso interposto. No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL. AFIRMADA OFENSA AO ART. 535 DO CPC. NÃO CONFIGURAÇÃO. AGRAVO DE INSTRUMENTO NÃO CONHECIDO NA ORIGEM POR INTEMPESTIVIDADE. PEDIDO DE RECONSIDERAÇÃO NÃO INTERROMPE OU SUSPENDE O PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. NCPC. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 535 do CPC, não mereciam acolhida os embargos de declaração que tinham o nítido caráter infringente.
+2. O acórdão recorrido decidiu em harmonia com a jurisprudência desta eg. Corte Superior quando não conheceu do agravo de instrumento lá interposto por intempestividade, pois o pedido de reconsideração não interrompeu o prazo para interposição do recurso cabível. Precedentes. Inafastável a incidência da Súmula nº 83 do STJ.
+3. A alegada afronta à lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+4 Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+5. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp n. 607.870/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1/6/2016.)
+AGRAVO REGIMENTAL EM PEDIDO DE RECONSIDERAÇÃO EM AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. Segundo jurisprudência assente nesta Corte, o pedido de reconsideração não interrompe nem suspende o prazo para a interposição de recurso cabível.
+2. Agravo regimental não conhecido.
+(AgRg na RCDESP no Ag n. 926.807/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 27/2/2013.)
+Dessa forma, incidente o óbice da Súmula n. 568/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. PEDIDO DE RECONSIDERAÇÃO. RETRATAÇÃO. AUSÊNCIA DE INTERRUPÇÃODO PRAZO PARA RECURSO. INTEMPESTIVIDADE. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
