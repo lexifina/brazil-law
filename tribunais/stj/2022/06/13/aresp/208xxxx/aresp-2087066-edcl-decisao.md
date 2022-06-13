@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ EDUARDO FONTOURA BINI à decisão de fls. 1115/1116, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A afirmação de que o recorrente disse que possui a gratuidade da justiça é equivocada pois o direito do recorrente é a isenção de toda e qualquer despesa já concedida por todos os tribunais inclusive por todos os Tribunais Superiores, o que não é um pedido de assistência judiciária gratuita nos moldes do art. 98 do CPC e sim a isenção de toda e qualquer despesa garantida nas Leis 10.741/2003, na Lei 13.146/2015, na Lei 12.008/2009 e na Lei 7347/1985, a qual veda a fixação e ou cobrança de honorários de sucumbência ao idoso deficiente idoso portador de doença grave cujos artigos 18 e 19 estendem tal vedação ao recorrente deficiente mental e físico, idoso portador de doença grave (fls. 1126).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A jurisprudência desta Corte Superior entende que "as ações relativas ao Estatuto do Idoso são aquelas relativas a seus direitos, destinadas a proteção de saúde, integridade física, acesso a recursos financeiros e serviços públicos (art. 79, caput e incisos I a IV do Estatuto do Idoso), especialmente considerando a sua condição de hipossuficiente. Por isso é que, nessas ações, não há cobrança de taxas e emolumentos". (AgInt no AREsp n. 1.432.391/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/12/2019.)
+Todavia, o art. 88 da Lei 10.741/2003, que prevê a possibilidade de pagamento das custas processuais somente ao final do processo, está inserido no Capítulo III - Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos, ou seja, não é aplicável ao caso, tendo em vista que a execução de sentença individual não se enquadra nas hipóteses de incidência do referido dispositivo.
+A jurisprudência desta Corte Superior é nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DESCABIMENTO. BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. REQUERIMENTO NO CURSO DO PROCESSO. PETIÇÃO AVULSA. NECESSIDADE. AUSÊNCIA DE PREPARO. DESERÇÃO. ESTATUTO DO IDOSO. ART. 88 DA LEI N. 10.741/2003. APLICABILIDADE EM AÇÕES ESPECÍFICAS. AGRAVO NÃO PROVIDO.
+1.  ..
+4. "O art. 88 da Lei n. 10.741/2003, que prevê a possibilidade de pagamento das custas processuais somente ao final do processo, está inserido no "Capítulo III - Da Proteção Judicial dos Interesses Difusos, Coletivos e Individuais Indisponíveis ou Homogêneos", e a hipótese dos autos cuida-se de execução de sentença, que não se enquadra na previsão normativa encartada no Estatuto do Idoso".
+(AgRg no REsp 1282598/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 24/04/2012, DJe 02/05/2012).
+5. Agravo regimental não provido.
+(AgRg nos EDcl nos EDcl nos EREsp n. 1.155.764/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 25/5/2015.)
+Portanto, correta a decisão que não conheceu do recurso por deserção.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
