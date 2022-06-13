@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por J.M.E. EMPREENDIMENTOS PARTICIPAÇÕES E SERVIÇOS LTDA. - EM RECUPERAÇÃO JUDICIALà decisão (fls. 148/151 e-STJ)que deferiu parcialmente a liminar.
+Em suas razões, aembargante defende que"seja deferida a liminar determinando imediato levantamento das penhoras efetivadas sobre imóveis de propriedade da Suscitante" (fl. 157 e-STJ).
+Impugnação às fls. 209/216 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelorecurso especial foi publicado navigência do Código de Processo Civil de 2015 (Enunciados Administrativosnºs 2 e 3/STJ).
+Os embargos não merecem ser acolhidos.
+De início, cumpreregistrar que há nos autos duaspetições de embargos de declaração:nº 00393563/2022 (fls. 155/158 e-STJ) e nº 00393568/2022 (fls. 159/205 e-STJ),respectivamente.
+Dessa maneira, orecursode fls. 159/205 (e-STJ) não podeser conhecido, visto que a duplicidade de recursos da mesma parte com o objetivo deimpugnar a mesma decisão importa o não conhecimento do recurso interpostopor último, observando-se a preclusão consumativa e o princípio daunirrecorribilidade recursal.
+Assim sendo, passa-se à análise dos primeiros embargos de declaração (fls. 155/158 e-STJ).
+Conforme já disposto, indefiro o pedido de levantamento de eventuais valores constritos. Tratando-se de conflito de competência, não há falar em levantamentoda constrição realizada nos autos, mas, sim, de remessa dos bens ao juízocompetente, qual seja, o da recuperação, para que este adote as providências cabíveis. Essa é a linha adotada por mim nos EDcl no CC nº 115.524 (DJe 30.9.2011) etambém pelo Ministro Luis Felipe Salomão nos EDcl no CC nºs 112.300 (DJe 17.5.2011), 109.805 (DJe 10.2.2011) e 112.301 (DJe 2.2.2011).
+Ademais,esta Cortejá firmou entendimento de que, após o deferimento da recuperação, devem ser submetidos ao crivo do Juízo de falências e recuperação judicial quaisquer atos constritivos incidentes sobre o patrimônio das empresas recuperandas.
+Confiram-se:
+"CONFLITO DE COMPETÊNCIA. AGRAVO INTERNO. EXECUÇÃO FISCAL. RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS EXECUTÓRIOS CONTRA O PATRIMÔNIO DA RECUPERANDA. LEI N. 13.043/2014. MANUTENÇÃO DO ENTENDIMENTO DA SEGUNDA SEÇÃO.
+1. As causas em que figurem como parte ou assistente ente federal relacionado no inciso I, do art. 109, da Constituição Federal, são da competência absoluta da Justiça Federal ou de Juízo investido de jurisdição federal, não se sujeitando os créditos tributários federais à deliberação da assembleia de credores à qual submetido o plano homologado pelo juiz estadual.
+2. Contudo, conquanto o prosseguimento da execução fiscal e eventuais embargos, na forma do art. 6º, § 7º, da Lei 11.101/2005, deva se dar perante o juízo federal competente - ao qual caberão todos os atos processuais, inclusive a ordem de citação e penhora -, o controle sobre atos constritivos contra o patrimônio da recuperanda é de competência do Juízo da recuperação judicial, tendo em vista o princípio basilar da preservação da empresa. Precedentes.
+3. Com efeito, a Segunda Seção possui firme o entendimento de que embora a execução fiscal não se suspenda, os atos de constrição e de alienação de bens voltados contra o patrimônio social das sociedades empresárias submetem-se ao juízo universal, em homenagem ao princípio da conservação da empresa.
+4. A edição da Lei n. 13.304/2014, que instituiu o parcelamento especial em favor das empresas em recuperação judicial - benefício que, em tese, teria o condão de suspender a exigibilidade do crédito tributário da sociedade recuperanda - não alterou o entendimento pacificado na Segunda Seção sobre o tema. (AgRg no CC 136.130/SP, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 13/05/2015, DJe 22/06/2015).
+5. Agravo interno não provido." (AgInt no CC 159.771/PE, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/02/2021, DJe 30/03/2021)
+"CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. No caso de deferimento da recuperação judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts. 83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC."(CC 145.027/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 31/08/2016)
+"CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CARÁTER INFRINGENTE. AUSÊNCIA DE OMISSÃO. JUÍZO DA RECUPERAÇÃO JUDICIAL E JUÍZO TRABALHISTA. LEI N. 11.101/05. PRESERVAÇÃO DOS INTERESSES DOS DEMAIS CREDORES. MANUTENÇÃO DA ATIVIDADE ECONÔMICA. FUNÇÃO SOCIAL DA EMPRESA. INCOMPATIBILIDADE ENTRE O CUMPRIMENTO DO PLANO DE RECUPERAÇÃO E A MANUTENÇÃO DE AÇÕES INDIVIDUAIS. COMPETÊNCIA DO JUÍZO UNIVERSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. A controvérsia posta nos autos encontra-se sedimentada no âmbito da Segunda Seção desta Corte, que reconhece ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, relativa a fatos anteriores ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento."(EDcl no CC nº 129.226/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/04/2014, DJe 28/04/2014)
+Nesse contexto, ausentes quaisquer dos vícios ensejadoresdosaclaratórios, afigura-se patente o intuito infringente dapresenteirresignação, que objetiva não suprimir a omissão, afastar aobscuridade,eliminar a contradição, ou corrigir erro material, mas, sim,reformar ojulgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
