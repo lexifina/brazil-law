@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto peloESTADO DE ALAGOAScontra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, Márcia Duarte de Oliveira ajuizou ação ordináriacom valor da causa atribuído em R$ 48.863,40 (quarenta e oito mil, oitocentos e sessenta e três reais e quarenta centavos), em 15/06/2015, objetivando que o cálculo do pagamento de adicional de periculosidade seja feito pelo subsídio, e não pelo salário mínimo, bem como o pagamento das diferenças retroativas a junho de 2010.
+Após sentença que julgou procedentes os pedidos, o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS negou provimento à apelação do ente público e corrigiu ex officioos juros de correção monetária, dispensando o reexame necessário, ficando consignado que, a partir de 30/06/09, a correção monetária observará o índice TR e os juros de moradeverão ser aplicados, a partir do inadimplemento, ou seja, do efetivo prejuízo, no percentual de 6% (seis por cento) ao ano  ou 0,5% (zero vírgula cinco por cento) ao mês  , até 29/06/2009, data anterior à vigência da Lei nº 11.960/2009, que conferiu nova redação ao art. 1º-F da Lei nº 9.494/1997; e, após a sua vigência, em 30/06/2009, com base no índice de juros aplicados à caderneta de poupança.
+O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. AGENTE PENITENCIÁRIO.ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. CORREÇÃO.INCIDÊNCIA NAS FÉRIAS E 13º SALÁRIO. INEXISTÊNCIA DE PEDIDO E CONDENAÇÃO NESSE SENTIDO. AUSÊNCIA DE INTERESSE RECURSAL.PERCEPÇÃO DE ADICIONAL JUNTAMENTE COM SUBSÍDIO.POSSIBILIDADE. ART. 73, LEI ESTADUAL N.º 5.247/91. ART. 39, §§ 3º, 4º E 8º, CF/88. BASE DE CÁLCULO. MATÉRIA DECIDIDA EM INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA N.º 0500356-82.2015.8.02.0000.PAGAMENTO CONCILIÁVEL COM O REGIME DE SUBSÍDIO MÍNIMO DA CATEGORIA. OBSERVÂNCIA À LEI 7.817/2016. JUROS E CORREÇÃO REVISADOS DE OFÍCIO. REEXAME DISPENSADO. ART. 496, § 1º, CPC.DECISÃO UNÂNIME.
+Não foram opostosembargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, o ESTADO DE ALAGOASinterpôs recurso especial, apontando violação dos arts. 240 do CPC/15 e 405 do CC/02.
+Sustenta, em síntese, que o termo inicial da incidência de juros de mora é a citação válida no processo, não o inadimplemento da obrigação.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula nº 282/STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Essa Corte Superior, no julgamento dos EDcl no REsp nº 1.356.120/RS (Tema nº 611), de relatoria do Ministro Og Fernandes (DJe de 19/12/2014), firmou entendimento no sentido de que otermo inicial dos juros moratórios incidentes sobre diferenças remuneratórias cobradas em juízo por servidor público é a data da citação, mesmo após a alteração do art. 1º-F da Lei 9.494/97 pela Lei nº 11.960/2009.
+Confira-se:
+PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. SERVIDOR PÚBLICO. OBRIGAÇÃO ILÍQUIDA, JUROS DE MORA. CITAÇÃO. RECURSO ACOLHIDO COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também essa espécie recursal para se corrigir eventuais erros materiais do decisório impugnado.
+2. Há contradição e erro quanto aos limites da controvérsia quando o acórdão embargado expressamente limita o litígio ao exame do termo a quo dos juros moratórios e, não obstante, ingressa na análise dos índices devidos a esse título.
+3. Os aclaratórios devem ser acolhidos, com efeitos infringentes, explicitando-se que a tese sufragada sob o regime do art. 543-C cinge-se ao reconhecimento de que o art. 1º-F da Lei 9.494/97, com a redação da Lei 11.960/09, não modificou o termo inicial de incidência dos juros moratórios sobre as obrigações ilíquidas devidas pela Administração ao servidor público, aplicando-se, consequentemente, as regras constantes dos arts. 219 do CPC e 405 do Código Civil, os quais estabelecem a citação como o marco inicial da referida verba.
+4. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no REsp 1356120/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 10/12/2014, DJe 19/12/2014)
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. JUROS MORATÓRIOS. TERMO INICIAL.CITAÇÃO. ARTS 219 DO CPC E 405 DO CÓDIGO CIVIL. APLICAÇÃO.HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE DE ORIGEM COM BASE NO CRITÉRIO DA EQUIDADE. DESPROPORCIONALIDADE NÃO CARACTERIZADA.REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+(..)
+III - Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, o termo a quo da incidência dos juros moratórios sobre as obrigações ilíquidas devidas pela Administração ao servidor, aplica-se as regras constantes dos arts. 219 do CPC e 405 do Código Civil, os quais estabelecem a citação como o marco inicial da referida verba.
+(..)
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1734432/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/09/2018, DJe 10/09/2018)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, para fixar comotermo inicial dos juros de mora a citação válida.
+Publique-se. Intimem-se.
