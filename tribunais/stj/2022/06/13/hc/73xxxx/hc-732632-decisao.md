@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdãoassim ementado (fl. 58):
+AGRAVO EM EXECUÇÃO - Livramento condicional Deferimento do benefício com base em atestado de conduta carcerária - Insuficiência para ensejar a concessão do benefício, em face de sua amplitude - Necessidade de realização de exame criminológico para se aferir o merecimento do sentenciado para a liberdade antecipada - Recurso provido para anular a decisão e determinar a elaboração de exame criminológico prévio ao pronunciamento judicial.
+Consta dos autos que o Juízo das execuções deferiuao apenado o livramento condicional. Interposto agravo em execução pelo Ministério Público, o recurso foi provido para que antes de seconceder o benefício o paciente fosse submetido a exame criminológico.
+Sustentam os impetrantes, em síntese, que o paciente faz jus ao livramento condicional, porquanto cumpridos os requisitos legais. Alegama falta de fundamentação idônea para afastar o requisito subjetivo e determinar arealização de exame criminológico.
+Requerem, liminarmente, a suspensão dos efeitos do acórdão impetrado e, no mérito, que seja mantido o livramento condicional.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento do writ.
+A respeito da submissão a exame criminológico, colhe-se do acórdão (fls. 59/61):
+ ..  Extrai-se dos autos que o sentenciado cumpre pena total de 12 anos, 09 meses e 04 dias, com início de desconto em 31.08.2011 e término previsto para 22.08.2027, pela prática de tráfico ilegal de drogas, posse ilegal de arma de fogo de uso permitido e roubo majorado (fls. 57).
+Assim, a reiterada prática de crimes graves, bem como o registro de infrações disciplinares de natureza grave (fls. 59) e a prisão em flagrante quando no gozo de liberdade provisória enseja cautela na concessão de qualquer tipo de benefício.
+Com efeito, em tais casos, a aferição do mérito recomenda análise profunda da conduta carcerária do condenado, não sendo suficiente o simples atestado de bom comportamento para verificação das condições permissivas para o livramento condicional com o menor risco social.
+Nota-se, destarte, que o atestado de boa conduta carcerária não é suficiente para se aferir tais questões, eis que o diretor da penitenciária não descreve a conduta do agravado - considerada boa -, e não menciona o quão ressocializado já está, conforme nos ensina Manoel Pedro Pimentel, bem citado por Renato Marcão:
+ ..
+Aliás, o trabalho e a boa conduta carcerária são comportamentos que devem ostentar todos os reeducandos, sem que isso represente qualquer favor ou até mesmo mérito; é pura obrigação.
+Também não podemos resumir a atividade jurisdicional como sendo de chancelaria, de modo a ser o Poder Judiciário mero burocrático ratificador de documentos emitidos pela direção da unidade prisional.
+O nosso sistema de valoração das provas é baseado no livre convencimento motivado e, neste caso, cabe ao juiz ponderar tanto o deferimento da benesse, quanto a segurança da sociedade:
+ ..
+Por todo discorrido, é certo que o sentenciado não preenche o requisito de ordem subjetiva para concessão da progressão de regime, valendo observar que, no curso da execução, prevalece o princípio "in dúbio pro societate". Caso contrário, a vida em sociedade representaria um "laboratório" para testar a recuperação do preso.
+Insta consignar, ademais, ser entendimento da Corte Suprema que a confecção do exame criminológico ante o advento da Lei 10.792/03 não é mais obrigatória para fins de progressão de regime ou livramento condicional, sendo sua realização facultativa, se o juiz, mediante decisão fundamentada, vislumbrar a sua necessidade.
+Ademais, ao contrário do que se possa argumentar, considerar a gravidade dos crimes perpetrados pelo sentenciado, quando da análise da viabilidade da progressão de regime, não caracteriza bis in idem, uma vez que os delitos pelos quais condenado são resultado de sua personalidade e de como ele se determina socialmente. No caso, não fosse perigoso e violento, não se daria à prática de crime caracterizado, justamente, pela violência contra a pessoa.
+Ora, estes fatos não podem ser ignorados, uma vez que indicam que ele não é merecedor da benesse, já que, mutatis mutandis, "a progressão deve ser uma conquista do condenado pelo seu mérito" (Exposição de Motivos da LEP).
+Assim, ante a gravidade dos atos praticados e enorme periculosidade e nocividade demonstradas pelo agravado, entendo que o tempo que esteve preso não foi suficiente para se aferir, com a certeza necessária, que ele está apto ao livramento condicional.
+Desse modo, temerária se revela a concessão do benefício neste momento, sendo necessário que o sentenciado continue no regime em que se encontrava, demonstrando ao Estado que está preparado para vivenciar o livramento condicional.
+E, evidenciado de plano o não preenchimento do requisito subjetivo, tanto pela análise do caso concreto, do perfil social do sentenciado, da conduta carcerária e ressocialização, desnecessária a determinação de realização do exame criminológico, que é faculdade da autoridade judicial.
+Por esses motivos, inviável a concessão de tão amplo benefício, o qual se mostra prematura, dada a ausência de requisito subjetivo. ..
+Como se vê, entendeu o Tribunal de origem ser necessária a realização de exame criminológico, apontando, dentre outras considerações, "a reiterada prática de crimes graves, bem como o registro de infrações disciplinares de natureza grave (fls. 59) e a prisão em flagrante quando no gozo de liberdade provisória".
+Quanto ao exame criminológico para a análise do pedido de progressão de regime, o Superior Tribunal de Justiça consolidou o entendimento de que: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Súmula 439/STJ).
+Cumpre ao julgador verificar, em cada caso, acerca da necessidade, ou não, do exame criminológico, podendo dispensar ou, ao contrário, determinar a sua realização, desde que mediante decisão concretamente fundamentada.
+No caso, conforme asseverado na decisão impugnada, tem-se que o fundamento utilizado pelas instâncias ordinárias para indeferir o benefício é idôneo, porquanto o paciente ostenta faltagraverecente (16/3/2020 - fl. 32), tendo, inclusive, registro da prática de novo crime quando em liberdade provisória.
+Desse modo, não se verifica nenhuma ilegalidade a ser sanada pela via dohabeas corpus, pois a exigência de prévio exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior. Neste sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME INDEFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITO SUBJETIVO AUSENTE. EXAME CRIMINOLÓGICO ANTERIOR DESFAVORÁVEL. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. Nos termos da Súmula 439/STJ, consolidou-se o entendimento que, para a análise do pedido de progressão de regime, Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. Cumpre ao julgador verificar, em cada caso, acerca da necessidade, ou não, do exame criminológico, podendo dispensá-lo ou, ao contrário, determinar a sua realização, desde que mediante decisão concretamente fundamentada na conduta do apenado no decorrer da execução.
+3. In casu, as instâncias ordinárias concluíram pela necessidade de novo exame criminológico para análise da progressão de regime, tendo em vista que o anterior foi desfavorável a concessão benefício.
+4. Agravo regimental improvido.(AgRg no HC 389.404/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/10/2017, DJe 09/10/2017)
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
