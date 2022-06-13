@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedidoliminar, impetrado em favor de THIAGO PEREIRA DA SILVA GONÇALVES- condenado à pena "de 05 anos, 08 meses e 22 dias do Código Penal, em regime inicial fechado" (fl. 4), pela prática do crime de roubo circunstanciado-no qual se indica como Coator o Tribunal de Justiça do Estado de São Paulo, no qual foi interposta a Apelação Criminal n. 0022722-61.2014.8.26.0576.
+Requer-se, em suma, liminarmente e no mérito, provimento para que o Paciente "inicie o cumprimento da pena em regime semiaberto" (fl. 13).
+Ocorre que, ao consultar osautos conexos (EAREsp n. 1.855.580/SP), constateique na verdade a Defesa aponta ilegalidade cometida por esta Corte, a qual já concluiu que "foi devidamente fundamentado o regime mais gravoso para o início do cumprimento da pena privativa de liberdade, em razão da existência de circunstâncias judiciais desfavoráveis (consequências do delito), tendo sido a pena-base fixada acima do mínimo legal" (fl. 591, daqueles autos).
+Dessa forma, a competência para a análise da pretensão ora deduzida é do Supremo Tribunal Federal, nos termos do art. 102, inciso II, alínea a, da Constituição da República.
+Com igual conclusão, cito o seguinte precedente, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. INTERNACIONALIDADE. ART. 40, INCISO I, DA LEI N.º 11.343/2006. DIMINUIÇÃO DO QUANTUM DA MAJORANTE. NOVATIO LEGIS IN MELLIUS. ALEGADO CONSTRANGIMENTO ILEGAL DECORRENTE DE ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Foi o Superior Tribunal de Justiça que, ao conceder a ordem no HC n.º 107.923/SP, fixou o agravamento da pena em um terço (1/3) pela agravante prevista no art. 18, inciso I, da Lei n.º 6.368/76, após excluir a incidência da causa de aumento pela associação eventual para o tráfico.
+2.  ..  assim, nos termos do art. 102, inciso II, alínea a, da Constituição da República, é do Supremo Tribunal Federal a competência para julgar a presente impetração, onde se busca a aplicação retroativa do art. 40, inciso I, da Lei n.º 11.343/2006, que fixa o aumento da pena no mínimo de um sexto (1/6) para a agravante da internacionalidade.
+3. Agravo regimental desprovido." (STJ, AgRg no HC 124.763/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 01/09/2009, DJe 28/09/2009)
+No mais, apenas para que não se alegue omissão, a despeito da regra que decorre da combinação dos arts. 21-E, inciso IV, e 34, inciso I, todos do Regimento Interno do Superior Tribunal de Justiça, deixo de determinar o encaminhamento dos autos ao Supremo Tribunal Federal, em razão do trânsito em julgado da condenação, certificado à fl. 672 dos autos conexos.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. CONSTRANGIMENTO ILEGAL DECORRENTE DE ATO DO SUPERIOR TRIBUNAL DE JUSTIÇA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, INCISO II, ALÍNEA A, DA CONSTITUIÇÃO DA REPÚBLICA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
