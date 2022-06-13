@@ -1,0 +1,15 @@
+DECISÃO
+RÁDIO E TELEVISÃO RECORD S.A. formula pedido de tutela provisória de urgência para que sejaatribuído efeito suspensivo ao recurso ordinário interposto no Tribunal de Justiça do Estado de São Paulo contra acórdão assim ementado (fl. 485):
+MANDADO DE SEGURANÇA. Impetração contra ordem judicial para fornecimento da qualificação de seus funcionários, supostamente coautores de crimes contra a honra. Direito a não autoincriminação. Inadequação. Impetrante pessoa jurídica inimputável quanto aos crimes contra a honra. Inexistência de direito a não identificar suspeito de crime. Decadência não verificada. Autoria delitiva ainda incerta. Falta de justa causa para a investigação criminal e pedido de arquivamento dos autos. Não acolhimento. Suficientes indícios da materialidade delitiva. Pretensão legítima de que sejam identificados os autores do delito. Segurança denegada, cassada a liminar.
+Em suas razões (fls. 3-28), sustenta que o Tribunal de origem, ao caçar a liminar concedida no writimpetrado, convalidou decisão judicial ilegal proferida no bojo do Inquérito Policial n. 807/2019, que apura a suposta prática do delito de calúnia (art. 138 do CP) pelos editores chefee executivoda empresa.
+Ressalta a necessidade de resguardo do direito de não autoincriminação e aponta o não cabimentodeo inquérito policial continuar investigando fatos atípicos e já alcançados pela coisa julgada material.
+Aduz que a produção de prova ou de elemento informativo que ignora os direitos fundamentais implica a ilicitude material de todos os indícios e diligências que desse ponto tenham partido.
+Requer, assim, a concessão de efeito suspensivo ao RMS n. 2040149-72.2021.8.26.0000, sem justificação prévia (inaudita altera pars), a fim de se obstar a produção imediata dos efeitos do acórdão denegatório, sobrestando-se, por conseguinte, as investigações conduzidas no Inquérito Policial n. 807/2019 (Autos n. 1537431-77.2019.8.26.0050), até o julgamento final do recurso ordinário em mandado de segurança.
+Éo relatório. Decido.
+Conforme relatado, trata-se de pedido de concessão de tutela provisória de urgência para atribuição de efeito suspensivo ao recurso ordinário interposto no Tribunal de origem.
+O pedido de tutela provisóriafoi deferido (fls. 502-504) para sustar os efeitos da decisão que determinaraà RÁDIO E TELEVISÃO RECORD S.A. que fornecesse a qualificação dos editores indicados até ulterior apreciação do recurso ordinário em mandado de segurança pelo relator.
+Em sequência, o RMS foi recebido pelo STJ, autuado sob o número 66.973 e a mim distribuído. Compulsando os autos do referido recurso (RMS n. 66.973/SP), processo conexo à presente petição, verificou-se que, em 29/9/2021, foi homologado pedido de desistência formulado pela requerente, o que evidencia a perda de objeto deste feito.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, julgo prejudicado o pedido.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
