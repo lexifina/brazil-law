@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 492, e-STJ):
+APELAÇÃO. REMESSA NECESSÁRIA. IMPOSTO DE RENDA PESSOA FÍSICA. ALIENAÇÃO DE PARTICIPAÇÃO SOCIETÁRIA REALIZADA ATRAVÉS DE PERMUTA SEM TORNA. EQUIVALÊNCIA DE VALORES. AUSÊNCIA DE GANHO DE CAPITAL. INEXISTÊNCIA DE ACRÉSCIMO PATRIMONIAL. TRIBUTAÇÃO. INCABIMENTO. ALIENAÇÃO POR VENDA DE AÇÕES BONIFICADAS APÓS A REVOGAÇÃO DO DL 1.510/1976. TRIBUTAÇÃO DO GANHO DE CAPITAL.
+1. O ganho de capital é a diferença positiva entre o valor de alienação de bens ou direitos e o respectivo custo de aquisição.
+2. O contrato de permuta de ações sem torna discutido na presente demanda já foi apreciado por esta Corte na APELREEX n.º 5004153-57.2015.4.04.7100, restando demonstrado que as quotas sociais decorrentes da permuta realizada possuem valor equivalente às antigas ações existentes.
+3. Considerando que não houve acréscimo patrimonial, uma vez que o valor das ações são equivalentes e, por conseguinte, ausente o ganho de capital, é incabível a tributação pelo imposto de renda.
+4. De outra banda, a operação de venda de participação societária realizada em 2014, que incluiu ações bonificadas, não está contemplada na hipótese de isenção do Decreto-Lei 1.510/1976, porquanto este já havia sido revogado pela Lei 7.713/1988.
+Os Embargos de Declaração foram rejeitados (fl. 533, e-STJ).
+A parte recorrente alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 4º, "d", e 5º do Decreto-Lei 1.510/1976 e do art. 169 da Lei 6.404/1976. Sustenta, em suma, fazer jus à isenção também sobre as bonificações ocorridas após as alterações trazidas pela Lei 7.713/1988.
+Contrarrazões apresentadas às fls. 644-653, e-STJ.
+Decisão de admissibilidadeàs fls. 693-694, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.5.2022.
+A irresignação não merece prosperar.
+O Tribunal de origem, ao dirimir a controvérsia, assim se manifestou (fl. 532, e-STJ, grifei):
+Para as bonificações ocorridas na vigência do Decreto-Lei 1.510/1976, incide o regime de isenção, que no caso observará relação de proporcionalidade em relação às ações originárias. As bonificações ocorridas após a revogação da isenção pela Lei 7.713/1988, porém, encontram-se sujeitas à tributação, pois a isenção prevista na legislação revogada não possui ultra-atividade.
+Dessa maneira, o Colegiado regional se alinhou à orientação jurisprudencial do STJ de que "as bonificações ocorridas após a revogação, em 1º/1/1989, pelo art. 58 da Lei 7.713/1988, da isenção de imposto de renda prevista no art. 4º, "d", do Decreto-lei 1.510/1976, encontram-se sujeitas à tributação, pois a isenção prevista na legislação revogada não possui ultratividade" (AgInt no AREsp 1.596.266/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/10/2020). Confira-se:
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO. ALIENAÇÃO DE PARTICIPAÇÃO SOCIETÁRIA. BONIFICAÇÕES, DESDOBRAMENTOS E GRUPAMENTOS. CONTROVÉRSIA SOBRE O ALCANCE DA REGRA DE ISENÇÃO DO IMPOSTO DE RENDA, PREVISTA NO DECRETO-LEI 1.510/1976. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA FIRMADA PELO STJ. HIPÓTESE, NO ENTANTO, EM QUE A APLICAÇÃO DO DIREITO À ESPÉCIE PRESSUPÕE EXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. RECURSO ESPECIAL PARCIALMENTE PROVIDO, TÃO SOMENTE PARA CASSAR O ACÓRDÃO RECORRIDO, A FIM DE QUE O TRIBUNAL DE ORIGEM PROSSIGA, NO JULGAMENTO DA CAUSA, COM BASE NA ORIENTAÇÃO FIRMADA PELO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..) V. Na forma da jurisprudência do STJ, as bonificações ocorridas após a revogação, em 01/01/89, pelo art. 58 da Lei 7.713/1988, da isenção de imposto de renda prevista no art. 4º, d, do Decreto-lei 1.510/76, encontram-se sujeitas à tributação, pois a isenção prevista na legislação revogada não possui ultratividade. Precedentes (STJ, REsp 1.443.516/RS, Rel. p/ acórdão Ministro HERMAN BENJAMIN, DJe de 07/10/2016; AgInt nos EDcl no REsp 1.449.496/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017; REsp 1.690.802/SP Rel. Ministro HERMAN BENJAMIN, DJe de 22/04/2019). Esse mesmo tratamento tributário das bonificações deve ser dispensado aos desdobramentos ou grupamentos de ações, previstos no art. 12 da Lei 6.404/76.
+(..) II. Agravo interno improvido.
+(AgInt nos EDcl no REsp 1.529.098/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 24/9/2019)
+TRIBUTÁRIO. ALIENAÇÃO DE PARTICIPAÇÃO SOCIETÁRIA. BONIFICAÇÕES. AUMENTO DE CAPITAL SOCIAL POR INCORPORAÇÃO DE LUCROS E RESERVAS. INCIDÊNCIA DE IMPOSTO DE RENDA. DECRETO-LEI 1.510/1976. SUPERVENIÊNCIA DA LEI 7.713/1988. (..)
+4. A Segunda Turma do STJ adotou recentemente entendimento parcialmente diverso do acórdão recorrido, ao assentar que "o ganho de capital resultante das bonificações ocorridas na vigência do Decreto-Lei 1.510/1976 gozará da isenção, proporcionalmente em relação às ações originalmente adquiridas, mas é tributável quando ocorrido após a revogação da isenção, uma vez que não há previsão normativa conferindo ultratividade àquela forma de exclusão do crédito tributário" (REsp 1.443.516/RS, Rel. Ministro Mauro Campbell Marques, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 7/10/2016). 5. Assim, para as bonificações ocorridas na vigência do Decreto-Lei 1.510/1976, incide o regime de isenção, que no caso observará relação de proporcionalidade em relação às ações originárias. As bonificações ocorridas após a revogação da isenção pela Lei 7.713/1988, porém, encontram-se sujeitas à tributação, pois a isenção prevista na legislação revogada não possui ultratividade.
+6. No acórdão recorrido não constam informações sobre as datas em que ocorreram as bonificações e os desdobramentos das ações, de modo que os autos devem retornar ao Tribunal a quo para nova apreciação da lide, à luz da tese ora firmada.
+7. Agravo Interno parcialmente provido.
+(AgInt nos EDcl no REsp 1.449.496/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/6/2017)
+Dessume-se que o aresto recorrido está em sintonia com o atual posicionamento do STJ, razão pela qual não merece prosperar a irresignação.
+Diante do exposto, nego provimento ao Recurso Especial.
+Não há falar em aplicação do art. 85, § 11, do CPC/2015, porquanto não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança, conforme fixado na Súmula 105/STJ.
+Publique-se.
+Intimem-se.
