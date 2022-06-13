@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF contra a decisão que deu provimento ao recurso especial interposto pela parte adversa e determinou o retorno dos autos ao tribunal de origem para realizarnovo julgamento dos embargos de declaração (e-STJ fls. 788/790).
+Em suas razões, aagravante defende que a tese acerca da definição da natureza jurídica da verba CTVA se trata de inovação, porquanto trazida apenas nos aclaratórios.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+A parte contrária apresentou impugnação às fls. 822/824(e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DO BENEFÍCIO. CTVA.ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar da oposição de aclaratórios, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A irresignação não merece prosperar.
+Conforme registrado na decisão atacada, o tribunal de origem, apesar de provocado, deixou de examinar questão essencial ao deslinde da controvérsia, suscitada nos embargos de declaração, referente à necessidade de definição da natureza jurídica da verba CTVA.
+Além disso, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Assim, recusando-se a Corte de origem a se manifestar, fica impedido o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 1.022 do Código de Processo Civil de 2015 a fim de anular o acórdão recorrido para que seja suprida a omissão existente.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS.VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC.ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM.DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta noque concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido"(AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/9/2019, DJe 13/9/2019).
+Por fim, quanto aoexame da violação do artigo 1.022 do CPC/2015, registra-se que não cabe ao Superior Tribunal de Justiça avaliar a justiça da decisão, mas, sim, verificar se as instâncias ordinárias deixaram de sanar vícios que, em tese, poderiam alterar o resultado do julgamento se fossem supridos, como na hipótese.Ressalta-se quenão há falar em inovação recursal relativamente a declaratóriosopostos para alegarque a decisão foiomissa no tocante a questões pertinentes ao deslinde da controvérsia.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CREDIT SCORING. MATÉRIA DE DIREITO DEVIDAMENTE PREQUESTIONADA NOS EMBARGOS DE DECLARAÇÃO OPOSTOS. CONSTATADA VULNERAÇÃO AO ART. 535, II, DO CPC/1973. OMISSÃO DO TRIBUNAL DE ORIGEM. DEVOLUÇÃO DOS AUTOS À ORIGEM. INAPLICABILIDADE DA SÚMULA 83/STJ OU ALEGADA INOVAÇÃO RECURSAL. NEGADO PROVIMENTO.
+1. Não há falar em inovação recursal ou incidência da Súmula 83 do STJ no recurso especial, quando foram opostos embargos declaratórios pela ora agravada, com a alegação de que a decisão fora omissa no tocante a questões pertinentes ao deslinde da controvérsia, e, constatada infringência ao art. 535 do CPC/1973, foi determinado o retorno dos autos para manifestação do eg. Tribunal de origem sobre a questão.
+2. Agravo interno ao qual se nega provimento"
+(AgInt no AREsp 796.245/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 6/2/2018, DJe 16/2/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
