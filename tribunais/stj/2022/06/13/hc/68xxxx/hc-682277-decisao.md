@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Mixsael de Oliveira contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, proferido no julgamento daApelação Criminal n.º 1.0027.15.016990-5/001, assim ementado:
+"APELAÇÃO CRIMINAL  HOMICÍDIO QUALIFICADO  REDUÇÃO DA PENA-BASE  IMPOSSIBILIDADE  ISENÇÃO DAS CUSTAS  EFEITO DA CONDENAÇÃO  JUIZO DA EXECUÇÃO  RECURSO DESPROVIDO.
+1- Constatado que a pena foi bem dosada pelo MM. Juiz a quo, que justificou a sua fixação acima do mínimo legal, diante da valoração negativa da culpabilidade, dos antecedentes do réu e das consequências do crime, incabível a sua redução.
+2- A condenação ao pagamento das custas processuais é um efeito da condenação criminal, ainda que o réu seja pobre no sentido legal ou assistido pela Defensoria Pública, devendo o pedido de suspensão da exigibilidade ser realizado perante o juízo da execução, o qual possui melhores condições de averiguar a situação de hipossuficiência do acusado.
+V. V. Tratando-se de réu pobre no sentido legal, estando, inclusive, assistido pela operosa Defensoria Pública do Estado de Minas Gerais, deve ser dispensado das custas processuais.
+V. V. O prazo de cinco anos previsto no art. 64, I, do Código Penal, também deve ser respeitado na valoração dos antecedentes criminais, ao se estabelecer a pena base." (fl. 30)
+Os embargos infringentes e de nulidade foram rejeitados.
+Os embargos de declaração a seguir opostos foram acolhidos, apenas para a supressão de omissão, sem modificação do resultado de julgamento. Este julgado recebeu a seguinte ementa:
+"DIREITO PROCESSUAL PENAL - EMBARGOS DE DECLARAÇÃO - OMISSÃO - EXISTÊNCIA - MAUS ANTECEDENTES CONFIGURADOS - ACOLHIMENTO PARA SANEAMENTO DO VÍCIO.
+- Verificada a omissão apontada pela acusação, acolhem-se os embargos de declaração para saneamento do vício." (fl. 62)
+Consta dos autos que opaciente foi condenadopela prática do crime previsto no art. 121, §2º, incisos IV e VI, do Código Penal (homicídio duplamente qualificado), à pena de 18 (dezoito) anos e 09 (nove) meses de reclusão, noregime inicial fechado.
+No presente writ, a defesa objetiva, em síntese,a redução da pena-base com o afastamento dos maus antecedentes, ao argumento de que "pode se observar na CAC do paciente as condenações anteriores extintas, utilizadas para aplicação dos maus antecedentes na fixação da pena base são do ano de 2004" (fl. 9).
+A liminar foi indeferida por decisão de fls. 43/44.
+O Ministério Público Federal manifestou-se em parecer assim sumariado:
+"HABEAS CORPUS SUBSTITUTIVO. FEMINICÍDIO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. CONSEQUÊNCIAS. PRETENSÃODE AFASTAMENTO DE MAUS ANTECEDENTES. PRINCÍPIOS DAISONOMIA E DA INDIVIDUALIZAÇÃO DA PENA. AUMENTODECORRENTE DA REINCIDÊNCIA. DISCRICIONARIEDADE DOÓRGÃO JULGADOR. INEXISTÊNCIA DE CONSTRANGIMENTOILEGAL. NÃO CONHECIMENTO.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+2. A consideração de condenação anterior para fins de valoração negativa de maus antecedentes compõe a individualização da pena, que inclui as condições objetivas e subjetivas do agente, sejam elas favoráveis e desfavoráveis, e respeita o princípio da isonomia, que não tolera seja o sujeito com diversas condenações anteriores nivelado àquele que, até então, se conduzira socialmente sem nenhuma violação de norma penal.
+3. O Supremo Tribunal Federal, ao apreciar o mérito do Tema 150 da repercussão geral, no RE 593.818, fixou a tese de que "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal", o que ratifica a possibilidade de valoração dos maus antecedentes, especialmente em observância aos princípios da individualização da pena e da isonomia.
+4. No caso, o incremento da pena-base, considerando a intensa culpabilidade, evidenciada pelos golpes de faca na frente do filho do ex-casal; e as graves consequências do delito, uma vez que a vítima deixou dois filhos menores, além dos maus antecedentes, não se revela desproporcional, não comportando reparo a dosimetria.
+5. Parecer pelo não conhecimento do habeas corpus e, diante da ausência de ilegalidade, pela não concessão da ordem de ofício." (fl. 141)
+Éo relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Todavia, tenho por prudente verificara existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se, na presente impetração, a exclusão dos maus antecedentes, ao argumento do transcurso de longo tempo entre as condenações com penas cumpridas e o fato típico dos autos.
+Está assentado""neste Superior Tribunal de Justiça a orientação jurisprudencial de que as condenações alcançadas pelo período depurador de cinco anos podem configurar maus antecedentes. Não se olvida, todavia, que há julgados no sentido de que os registros da folha de antecedentes muito antigos não devem ser considerados maus antecedentes, em aplicação à teoria do direito ao esquecimento"(AgRg no HC 704.528/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe 21/3/2022). .. O computo do prazo do para aplicação do direito ao esquecimento em relação aos antecedentes é realizado entre extinção da pena anteriormente imposta e a prática do novo delito"(EDcl no AgRg no HC n. 696.253/SP, de minha relatoria, Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+Todavia, na hipótese dos autos o julgado atacado não mencionou a data em que houve a extinção da pena referente ao processo que gerou os maus antecedentes, o que impede a análise da questão sobre essa ótica, sob pena de indevida supressão de instância.
+Com efeito, o Tribunal de origemassentou, apenas, que o transcurso de cinco anos não impede o reconhecimento dos maus antecedentes, sem mencionar quando ocorreu a extinção da pena.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
