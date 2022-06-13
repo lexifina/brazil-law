@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 349):
+APELAÇÃO CRIMINAL. USO DOCUMENTO FALSO. RECEPTAÇÃO. DESCLASSIFICAÇÃO. CULPOSA. IMPROVIMENTO. CONDENAÇÃO. PENA. MANTIDAS. 1 - Demonstrada de forma satisfatória a prática dos delitos dos artigos 180 e 304 do Código Penal, mantida a condenação. 2 - Corretamente compensada a atenuante da confissão com a agravante da reincidência, permanecendo a reprimenda inalterada. Apelo improvido.
+O paciente foi condenado a pena de 4anos, 1 mês e 7 dias de reclusão, por receptação e uso de documento falso.
+A impetrante alega que o Tribunal de Justiça "manteveo aumento de pena em razão da circunstância judicial valorada negativamente (antecedentes) nos dois crimes, em fração superior a 1/6 (um sexto), sem fundamentação concreta para tanto" (fl. 4).
+Em liminar, busca obstar o trânsito em julgado e início do cumprimento da pena; no mérito, o redimensionamento da pena-base.
+Não havendo divergência da matéria no órgão colegiado, admissível seu examein liminepelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Na primeira fase, asentença assim fixou a dosimetria(fls. 262-266):
+Nos termos dos arts, 59 e 68 do Código Penal, passo a fazer à dosimetria da pena, ao acusado, observando-se o seguinte:
+1) Em relação ao crime de uso de documento falso:
+A) culpabilidade - como substrato do crime, a culpabilidade está evidenciada nos autos. Nesse sentido, trata-se de agente imputável, sendo-lhe exigível um comportamento nos moldes elencados no ordenamento jurídico, eis que o mesmo tinha potencial consciência de que atuava de forma contrária, não se verificando a inexigibilidade da conduta diversa. Para além disso, incidindo como circunstância judicial de fixação da pena-base, atento ao fato de não se poder verificar algo que aumente ou diminua a reprovabilidade social da conduta praticada, tenho esta circunstância como favorável;
+B) antecedentes -desfavorável, conforme analisado acima;
+C) conduta social - neutro, por não ter se comprovado nos autos o relacionamento social do acusado com a comunidade que integra. Deixo de valorá-la;
+D) personalidade - favorável, por não constar nos autos elementos suficientes para sua aferição - in dúbio pro reo;
+E) motivos - são os comuns à espécie. Assim, como são punidos pelo próprio tipo penal, não podem prejudicar novamente o agente, sob pena de bis in idem;
+F) circunstâncias - favoráveis, posto que próprias do delito;
+G) conseqüências - favoráveis ao acusado, uma vez que não extrapolaram sobremaneira a ofensa ao bem jurídico já tutelado pelo tipo penal; e
+H) comportamento da vítima  em nada contribuiu para a ocorrência do fato.
+Assim, considerando as circunstâncias do art. 59 do Código Penal acima analisadas, fixo a pena base em 02 (dois) anos e 06 (seis) meses de reclusão, pelo uso de documento falso.
+Quanto à verificação simultânea das circunstâncias da reincidência e da confissão espontânea, tenho que em razão de recente entendimento do STF, que afastou a relevância constitucional do tema, não mais deve prevalecer um aumento parcial decorrente da agravante haja vista que este magistrado seguia a anterior orientação jurisprudencial do próprio Supremo Tribunal Federalcaso em que a preponderância determinaria que o aumento respectivo deveria observar a exata metade de 1/6 (um sexto), ou seja, 1/12 (um doze avos). Nesse contexto, tenho que, como atual entendimento a ser aplicado neste momento, portanto, é o do Superior Tribunal de Justiça, o qual foi, inclusive prolatado sob regime de Recurso Repetitivo (art. 543-CPC/73) , e que também vem sendo seguido pelo Tribunal de Justiça do Estado de Goiás" , isto para proceder a compensação entre as circunstâncias, permanecendo, portanto, a pena intermediária idêntica à pena-base.
+Não existe outra circunstância agravante ou atenuante, bem como causa de diminuição e de aumento de pena.
+ISTO POSTO, e por tudo mais que dos autos constam, fixo a pena DEFINITIVA em 02 (dois) anos 06 (seis) meses de reclusão, para o crime de uso de documento falso.
+Não há pena de multa, nos termos da fundamentação acima exposta.
+2) Em relação à Receptação:
+A) culpabilidade - como substrato do crime, a culpabilidade está evidenciada nos autos. Nesse sentido, trata-se de agente imputável, sendo-lhe exigível um comportamento nos moldes elencados no ordenamento jurídico, eis que o mesmo tinha potencial consciência de que atuava de forma contrária, não se verificando a inexigibilidade da conduta diversa. Para além disso, incidindo como circunstância judicial de fixação da pena-base, atento ao fato de não se poder verificar algo que aumente ou diminua a reprovabilidade social da conduta praticada, tenho esta circunstância como favorável
+B) antecedentes - desfavorável, conforme analisado acima;
+C) conduta social - neutro, por não ter se comprovado nos autos orelacionamento social do acusado com a comunidade que integra. Deixo de valorá-la;
+D) personalidade - favorável, por não constar nos autos elementos suficientes para sua aferição - in dúbio pro reo;
+E) motivos - são os comuns à espécie. Assim, como são punidos pelo próprio tipo penal, não podem prejudicar novamente o agente, sob pena de bis in idem;
+F) circunstâncias - favoráveis, posto que próprias do delito;
+G) conseqüências - favoráveis ao acusado, uma vez que não extrapolaram sobremaneira a ofensa ao bem jurídico já tutelado pelo tipo penal; e
+H) comportamento da vítima  em nada contribuiu para a ocorrência do fato.
+Assim, considerando as circunstâncias do art. 59 do Código Penal acima analisadas, fixo a pena base em 01 (um) ano 04 (quatro) meses e 15 (quinze) dias de reclusão, pela receptação.
+Em relação a esse delito, não houve confissão espontânea por parte do acusado, o que impede a aplicação da atenuação determinada pelo art. 65, inciso III, alínea "d", do Código Penal.
+Por outro lado, configurada a reincidência dolosa do ora sentenciado (art. 63 do Código Penal), com fulcro no art. 61, inciso I, do Código Penal, procedo a majoração da reprimenda em 1/6 (um sexto), ou seja, aumento 02 (dois)meses e 22 (vinte e dois dias), alcançando o patamar de 01 (um) ano 07 (sete)meses e 07 (sete) dias de reclusão.
+Não existe outra circunstância agravante ou atenuante, bem como causa de diminuição e de aumento de pena.
+ISTO POSTO, e por tudo mais que dos autos constam, fixo a pena DEFINITIVA em 01 (um) ano 07 (sete) meses e 07 (sete) dias de reclusão, pela receptação.
+Não há pena de multa, nos termos da fundamentação acima exposta.
+3) Do concurso material:
+Finalmente, tendo em vista o disposto no art. 69, do Código Penal Brasileiro - concurso material - procedo a cumulação das penas aplicadas nos itens 1 e 2, totalizando 04 (quatro) anos 01 (um) mês e 07 (sete) dias de reclusão. A QUAL TORNO DEFINITIVA, na ausência de circunstâncias atenuantes ou agravantes a serem consideradas, bem como diante da inexistência de causa especial de aumento ou diminuição de pena.
+Acórdão (fl. 348):
+Para a receptação, a basilar foi elevada 4 (quatro) meses e 15 (quinze) dias, acima do mínimo decorrente da avaliação negativa dos antecedentes (três condenações definitivas com trânsito em julgado anterior a data do fato, autos nsº 201403239066, 201103972906 e 201202690097 - fls. 143/147).
+Na segunda fase, em razão da reincidência, conservo o aumento de 1/6 (um sexto), totalizando 1 (um) ano, 7 (sete) meses e 7 (sete) dias de reclusão, ante a ausência de outras causas modificadoras.
+Quanto ao uso de documento falso, fixou em 2 (dois) anos e 6 (seis) meses do mínimo, em razão dos maus antecedentes (certidão, fls. 143/147).
+Adiante, corretamente compensou a atenuante da confissão com a agravante da reincidência, permanecendo a reprimenda inalterada.
+Ausentes causas de aumento ou diminuição, totaliza a pena em 2 (dois) anos e 6 (seis) meses de reclusão.
+Somadas (art. 69, CP), tem-se a definitiva em 4 (quatro) anos, 1(um) mês e 7 (sete) de reclusão, em regime fechado, face a reincidência.
+Como cediço, inexiste critério puramente aritmético para a dosimetria da pena, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade regrada, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio.
+Esta Corte firmou entendimento de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve obedecer à fração de 1/6 sobre o mínimo legal, na falta de razão especial para afastar esse parâmetro. Confira-se: AgRg no HC 706.140/SP, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe 06/04/2022.
+No caso, vê-se que a basilar foi aumentada em 1/4para o crime de uso de documento falso, e 1/3para o crime de receptação, com a indicação de fundamentação concreta, uma vez que o paciente ostenta três condenações definitivas, anteriores aos fatos, sopesadas a título de maus antecedentes.Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+2. As instâncias ordinárias fixaram a pena-base do crime de homicídio duplamente qualificado em 16 anos de reclusão, valorando negativamente a vetorial dos antecedentes, tendo em vista a existência de duas condenações criminais transitadas em julgado, pelos crimes de roubo duplamente majorado e tráfico de drogas, em harmonia, portanto, com a jurisprudência desta Casa.
+3. A existência de duas condenações anteriores justifica a fixação da pena-base em 1/3 acima do mínimo legal para a circunstância judicial dos antecedentes (AgRg no HC n. 446.455/SP, de minha relatoria, Sexta Turma, DJe 20/02/2020).
+4. Adotada fundamentação concreta e idônea para o incremento da pena-base em fração superior a 1/6 (um sexto), não há falar em violação ao disposto no art. 59 do CP. No caso dos autos, as instâncias ordinárias valoraram negativamente a vetorial antecedentes com base em 2 (duas) condenações criminais transitadas em julgado ostentadas pelo recorrente (AgRg no REsp n. 1.942.930/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/10/2021).
+5. Agravo regimental improvido. (AgRg no HC 699.488/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 17/12/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. FURTOQUALIFICADO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO.PROPORCIONALIDADE. CIRCUNSTÂNCIAS JUDICIAIS REPROVADAS.ANTECEDENTES PENAIS E CONSEQUÊNCIAS DO CRIME.
+1. Segundo a jurisprudência desta Corte, a exasperação da pena- base, pelaexistência de circunstâncias judiciais negativas, deve seguir o parâmetro da fraçãode 1/6 (um sexto) para cada vetor desfavorável, em situações nas quais não háfundamentação específica que justifique a necessidade de elevação superior a essepatamar.
+2. No caso concreto, a exasperação da pena-base no total de 2/3 (doisterços) da pena mínima em abstrato deveu-se à reprovação de duas circunstânciasjudiciais, quais sejam, os antecedentes penais do agravante, maculados peloregistro de outras 3 (três) condenações criminais transitadas em julgado por fatosanteriores, bem como pelas consequências do crime patrimonial praticado.
+3. O vetor relativo aos antecedentes penais, marcado por 3 (três) registroscriminais desfavoráveis, representou, isoladamente, o incremento penal de 1/2(metade) no primeiro estágio dosimétrico, enquanto as consequências do delitoresultaram o acréscimo de 1/6 (um sexto).
+4. Verificado o atendimento ao postulado constitucional daindividualização da pena, não há falar-se em ofensa ao princípio daproporcionalidade.
+5. Agravo regimental desprovido." (AgRg no REsp 1.826.625/MG, Rel.Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/12/2019, DJe19/12/2019.)
+Deste modo, não há ilegalidade a ser reparada por esta Corte, contexto em queindefiroliminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
