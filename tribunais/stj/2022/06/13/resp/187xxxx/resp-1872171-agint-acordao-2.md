@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou recurso especial interposto contra acórdão proferido no Tribunal Regional Federal da 5ª Região, com o seguinte resumo de ementa:
+PROCESSUALCIVIL. ADMINISTRATIVO. AGRAVODEINSTRUMENTO. EXECUÇÃO DE SENTENÇA. CÁLCULOS UTILIZADOS. IMPOSSIBILIDADE DE ALTERAÇÃO DA SENTENÇA. RESPEITO À COISA ,JULGADA. AGRAVO DE INSTRUMENTO CONHECIDO E IMPROVIDO. DECISÃO MANTIDA. I. O cerne da questão está na discussão, em sede de cumprimento de sentença,-o (0após um tempo considerável depois do trânsito em julgado, no qual o Estado do RS"I-__(,)Ceará alega pretensos vícios da sentença, objeto da impugnação e de atos que a o precederam, que, pela inércia do próprio ente devedor, transitou em julgado. Computando os autos no sistema "Esaj", verifiquei o processo de conhecimento, no qual os agravados pleitearam uma Ação R, c. Ordinária, tendo este Tribunal de Justiça, em 1998, julgado procedente seus pedidos para ordenar ao requerido o direito a isonomia prevista no art.39,csiparágrafo primeiro da Constituição Federal, para com a implantação do Plano de Cargos e Carreiras para todos os servidores da Assembleia Legislativa do Estado do Ceará, com o pagamento da gratificação de 20% (vinte por cento),nível universitário, e de 60% (sessenta por cento), gratificação especial, conforme folhas72/75 do referido processo. A decisão transitou em julgado em 18/11/2013. III. Em sede de cumprimento de sentença, após o trânsito em julgado, o agravante propôs Embargos à Execução, alegando que os valores apresentados pela(-75Contadoria Oficial do Tribunal de Justiça do Ceará violaria os limites do título executivo transitado em julgado. O juizo singular refutou esta alegação, afirmando(,)(,)que a reabertura da instância, em tais condições, importaria em fazer letra morta da regra constitucional que protege a coisa julgada. Diante do alegado pelo Agravante, não vislumbro a possibilidade de alteração, após o trânsito em julgado, em respeito ao principio da coisa julgada e daa)segurança jurídica, os fundamentos e ditames do título judicial, ora em debate. o V. Agravo de Instrumento conhecido e improvido. Decisão mantida.
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+Foi protocolada nova petição de agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO. COISA JULGADA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de agravo de instrumento com pedido de efeito suspensivo interposto pelo Estado do Ceará contra despacho do MM. Juiz de Direito da 15º Vara da Fazenda Públicaque confirmou a expedição de precatório em favor dos agravados. A parte agravante requer, principalmente, a revisão dos valores do precatório, aduzindo que este fora expedido violando os limites do título executivo transitado em julgado.Não se conheceu do recurso especial.Foi protocolada nova petição de agravo interno.
+II - A interposição de mais de um recurso pela mesma parte contra a idêntica decisão inviabiliza o exame daquele que tenha sido protocolizado por último, haja vista a ocorrência de preclusão consumativa e a aplicação do princípio da unirrecorribilidade recursal.
+III - Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+A interposição de mais de um recurso pela mesma parte contra a idêntica decisão inviabiliza o exame daquele que tenha sido protocolizado por último, haja vista a ocorrência de preclusão consumativa e a aplicação do princípio da unirrecorribilidade recursal. Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE. ART. 66 DO CPC/2015. REQUISITOS. MANIFESTAÇÃO. JUÍZOS SUSCITADOS. AUSÊNCIA. CONFLITO. NÃO CONFIGURAÇÃO.
+1. A interposição de mais de um recurso pela mesma parte contra a idêntica decisão inviabiliza o exame daquele que tenha sido protocolizado por último, haja vista a ocorrência de preclusão consumativa e a aplicação do princípio da unirrecorribilidade recursal.
+2. A jurisprudência do Superior Tribunal de Justiça se orienta no sentido de que somente se instaura o conflito de competência quando 2 (dois) juízos se declaram competentes ou incompetentes para processamento e julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos.
+3. Agravo interno não provido.
+(AgInt no CC n. 172.209/MG, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/3/2022, DJe 30/3/2022.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
