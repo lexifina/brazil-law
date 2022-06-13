@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos pelo SINDICATO DOS TRABALHADORES DAS UNIVERSIDADES FEDERAIS DE PERNAMBUCO - SEÇÃO SINDICAL DA UNIVERSIDADE FEDERAL DE PERNAMBUCO - SINTUFEPE-SS/UFPE, contra acórdão que negou provimento ao agravo interno, nos termos da seguinte ementa (fl. 2.441):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ALCANCE DO TÍTULO EXEQUENDO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. No tocante ao alcance do título executivo, a alteração das conclusões firmadas no voto condutor, com o objetivo de acolher a alegada violação da coisa julgada, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno não provido.
+A embargante alega que houve omissão quanto a aplicabilidade da Súmula 7/STJ, uma vez que a análise da questão requer tão somente o exame da legislação que disciplina a matéria, prescindindo da análise de qualquer elemento fático-probatório.
+Aduz queolvidou o acórdão ora embargado que a questão debatida é eminentemente de direito, qual seja, a aplicabilidade do REsp repetitivo nº 1.235.513/AL (Tema 476 do STJ) aoscasosem que os substituídos já foram agraciados com aumentos decorrentes das Leis nº 8.622/93 e 8.627/93, para não haver "pagamento em duplicidade",não obstante inexistirprevisão no título executivo a esse respeito.(fl. 2.452)
+Ao fim,vem o embargante suscitar omissão do julgado, com base no art. 1.022, parágrafo único, II, c/c art. 489, §1º, VI e art. 927, III, do CPC/2015, uma vez que o entendimento aplicado pelo decisum regional vai de encontro com a tese firmada no julgamento do Tema 476 do STJ (REsp repetitivo nº 1.235.513/AL), já tendo sido demonstrado que não há qualquer empecilho à análise da alegação ventilada no excepcional. (fl. 2.454)
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Consoante jurisprudência consolidada desta Corte Superior de Justiça, a estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado expôs com clareza os fundamentos pelos quais manteve a aplicação da Súmula 7/STJ, conforme se extrai dafl. 2.445:
+(..)
+Acerca da compensação, o acórdão recorrido assim decidiu às fls. 1.392-1.393:
+(..)
+Já no que toca ao pedido de compensação ou dedução do reajuste de 28,86% com os índices deferidos pelas Leis nº 8.622/93 e 8.627/93, em uma análise prelibatória, entendi pela manutenção da decisão vergastada quanto a esse ponto, contudo, detendo-me melhor sobre a questão, penso merecer reproche a decisão de Primeiro Grau.
+O primeiro ponto a ser observado em casos que tais é o que concerne à inadmissibilidade do pagamento em duplicidade, a medida em que, se os servidores, como por exemplo, os docentes das Universidades, que já foram agraciados com reajustes de salários em percentuais até superiores aos 28,86%, não há falar em possibilidade de nova implantação, sem que se faça a insuperável detração. Não é demais lembrar que os 28,86% concernem a uma extensão a servidores civis de reajuste salarial concedido a servidores militares e, assim, impõe-se considerar, à guiza de isonomia, os reajustes percentuais que já incidiram na remuneração desses servidores civis.
+Note-se, a propósito, que não se cuida de afrontar o precedente do STJ em sede de REsp repetitivo (nº 1.235.513/AL), mercê do "distinguisting" que se impõe reconhecer, porquanto,no caso presente, não se cogita de genuína pretensão à compensação, afinal não se trata de pagamentos parciais que tivessem sido feitos e sim de valores que foram pagos acima da média (21,86% concedidos aos militares), que o Supremo Tribunal Federal entendeu extensivo aos servidores civis. Com efeito, considerando que as Leis nº 8.622/93 e 8.627/93 já concederam o reajuste de que se cuida, é de rigor proceder-se à detração na fase de cumprimento de sentença.
+Do que se observa na hipótese vertente, de fato, a alteração das conclusões adotadas pela Corte regional acerca do alcance do título executivo, com o objetivo de acolher a alegada violação da coisa julgada, demandaria, necessariamente, novo exame do acervo fático probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+(..)
+Ante o exposto, nego provimento ao agravo interno.
+Analisando as razões apresentadas pela embargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado, considerando que o acórdão embargado pronunciou-se de modo coeso e preciso acerca de todos os pontos levantados no recurso especial.
+Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+É de se anotar que contradição que autoriza embargos de declaração é aquela interna ao julgado, ou seja, é aquela existente entre os fundamentos da decisão e a conclusão a que se chegou.
+A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça, como se verifica, dentre inúmeros outros, do julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+O embargante, a toda evidência não demonstrou a existência de contradição interna do julgado.
+Como se nota, sob o pretexto de que há omissão no acórdão embargado, a embargante objetiva, por via transversa, alterar o resultado do julgado embargado promovendo novo julgamento da causa.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015.
+2. Hipótese em que o embargante repisa as razões do recurso especial, relacionadas à suposta violação dos art. 131, 475, 515 e 535, II, do CPC/1973, 1.228, §§ 4º e 5º, do Código Civil e 10 da Lei n. 10.257/2001.
+3. O acórdão embargado, após descrever a cronologia dos acontecimentos relativos à presente demanda, com base nos fatos incontroversos e devidamente delineados na origem, manifestou-se sobre todas as alegações do Estado do Acre, apresentando fundamentos suficientes e claros para rejeitar as preliminares suscitadas e as teses acerca da desapropriação judicial ou pro labore.
+4. In casu, a irresignação não objetiva a correção de eventual vício no aresto impugnado, mas sim o rejulgamento do recurso, com base em argumentos que demandam o reexame do contexto fático-probatório da lide, sendo nítido o caráter infringente dos declaratórios.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1442440/AC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/03/2019, DJe 09/04/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OPOSTOS ANTERIORMENTE AO JULGAMENTO PROFERIDO EM RECURSOS ESPECIAIS REPETITIVOS. SOBRESTAMENTO DO RECURSO PARA SE AGUARDAR O JULGAMENTO DO TEMA 905/STJ. IMPOSSIBILIDADE DE REJULGAMENTO DA CAUSA EM EMBARGOS DE DECLARAÇÃO. ENTENDIMENTO DA CORTE ESPECIAL. EDCL NOS EDCL NOS EDCL NO AGRG NOS ERESP 1019717/RS.
+I - Trata-se de embargos de declaração em que determinou-se o sobrestamento para se aguardar o julgamento de processos sob o rito dos recursos repetitivos cuja tese foi firmada no TEMA 905/STJ.
+II - A Corte Especial do STJ firmou entendimento de que não é possível a alteração do julgado, em embargos de declaração, para adequação ao decidido em recurso especial repetitivo, por configurar inovação recursal e reconhecimento indevido de omissão inexistente. Isto porque, o art. 1.022 no seu parágrafo único, I, do CPC/2015, pressupõe que tenha havido o julgamento do processo repetitivo, em repercussão geral ou incidente de assunção de competência, aplicável ao caso, antes da oposição dos embargos declaratórios. III - No referido julgamento, consignou-se as seguintes teses: "Assim, a jurisprudência consolidada desta Corte é de que na estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida"."A Corte Especial, ademais, já adotou o entendimento de que "a superveniente modificação do entendimento consignado no acórdão embargado não enseja o rejulgamento da causa, por serem os embargos de declaração de índole meramente integrativa"  .. . Não o bastante, segundo a orientação sedimentada do STJ, não é admissível a apreciação de tese que configure inovação recursal nos embargos de declaração, diante da ocorrência de preclusão consumativa". (EDcl nos EDcl nos EDcl no AgRg nos EREsp 1019717/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/09/2017, DJe 27/11/2017).
+IV - Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 536.719/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/09/2018, DJe 12/09/2018)
+Assim, ausentes os requisitos autorizadores dos embargos de declaração, não cabe, nesta sede, rediscutir o entendimento adotado pelo acórdão ora hostilizado.
+Ante o exposto, rejeitam-se os embargos de declaração.
+É o voto.
