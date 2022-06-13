@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por GUSTAVO HENRIQUE CARVALHO ALBERINI contra decisão de fls. 3.620-3.623, e-STJ, que negou provimento ao recurso especial.
+Em suas razões, afirma que não há falar em reexame do conjunto probatório, para o deslinde da controvérsia, o que afasta a incidência da Súmula 7/STJ.
+Reitera a negativa de vigência do artigo 1.022 do Código de Processo Civil, uma vez que não foram sanadas as omissões suscitadas nos embargos de declaração opostos pelo agravante na origem, no que se refere à complexidade da demanda e esforços despendidos pelo patrono, bem como acerca dos itens escolhidos da tabela de remuneração da OAB/MT.
+Repisa os argumentos do recurso especial, de que a verba honorária fixada na origem é irrisória e em desacordo com o trabalho realizado e o valor econômico da questão (R$ 50.000.000,00 - cinquenta milhões de reais).
+Intimada, a parte agravada apresentou impugnação, manifestou-se pela manutenção da decisão atacada, requerendo a aplicação da multa prevista nos arts. 80 e 81 do Código de Processo Civil (fls. 3.668-3.679, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. ALEGADA IRRISORIEDADE NO VALOR FIXADO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao art. 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida:
+"Trata-se de recurso especial interposto por GUSTAVO HENRIQUE CARVALHO ALBERINI, em face de acórdão com a seguinte ementa:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - EXTEMPORANEIDADE DA JUNTADA DE DOCUMENTOS PELO AUTOR - RECONHECIMENTO - DESCONSIDERAÇÃO - NECESSIDADE - SUSCITAÇÃO DE DÚVIDA - ILEGITIMIDADE PASSIVA EM RELAÇÃO A PROCESSO EM QUE FIGURA COMO PARTE EMPRESA DIVERSA - CONFIGURADA - HONORÁRIOS ADVOCATÍCIOS A SEREM FIXADOS COM BASE NA NATUREZA DO PROCESSO E O TRABALHO DESENVOLVIDO PELO CAUSÍDICO - REDUÇÃO/READEQUAÇÃO - CABIMENTO - VERBA SUCUMBENCIAL - REDUÇÃO/READEQUAÇÃO - IMPOSSIBILIDADE - SENTENÇA PARCIALMENTE REFORMADA - RECURSO DOS RÉUS PESSOA FÍSICA DESPROVIDO - RECURSO DA EMPRESA RÉ PARCIALMENTE PROVIDO.
+1. Somente é cabível a juntada extemporânea de prova apenas quando ateste fato antigo de ciência nova ou quando se tratar de documento novo ou restar comprovada a impossibilidade de acesso pela parte, o que não é o caso dos autos, razão pela qual não devem ser considerados/apreciados para julgamento da lide.
+2. Deve ser afastada a condenação da ré/apelante ao pagamento dos honorários advocatícios referentes à suscitação de dúvida na qual figura como parte empresa diversa.
+3. Comprovada a prestação de serviços em benefício da empresa ré, indiferente é a nulidade da contratação, sendo cabível a fixação de honorários pelos serviços prestados pelo autor/apelado.
+4. No entanto, embora devidos os honorários advocatícios, estes devem ser fixados observando-se a natureza do processo em que atuou o causídico, no caso, simples pedido de providência, não se confundindo com o negócio jurídico (compra e venda) firmado entre a ré/apelante e terceiros.
+5. Logo, os honorários advocatícios devem ser fixados observando-se os critérios equitativos, como: a natureza do processo, o grau de zelo do profissional, o trabalho realizado e o tempo exigido para o serviço do autor/apelado, bem como o que dispõe o art. 22, §2º, do Estatuto da OAB, de maneira que devem ser reduzidos para RS 4.000,00 (quatro mil reais), conforme dispõe a Tabela II, item 3, da Tabela de Honorários da OAB/MT.
+6. Resta caracterizada a falta interesse recursal dos réus/apelantes Jocimar Capitanio, Silvia Mathilde Capitanio e Carlos Gilberto Capitanio, porquanto, embora entenda que a verba sucumbencial deveria ter sido arbitrada com base no valor dado causa, tem-se que esse eqüivale a RS 1.000.00 (mil reais), o que conduziria à reforma da sentença para a fixação dos honorários em R$ 100,00 (cem reais), ou seja, em montante bem inferior ao fixado.
+7. Ou seja, inclusive para se evitar a reformatio in pejus, mantenho os honorários sucumbenciais, tais como fixados na sentença, ou seja, em 10% (dez por cento) sobre o valor da condenação, definido nesse julgado.
+Nas razões do especial, aponta o recorrente violação dos artigos 85 e 1.022 do Código de Processo Civil; e 22 da Lei 8.906/94, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão relativa à não obediência à tabela de honorários do Estatuto da Ordem dos Advogados.
+Sustenta que o arbitramento da prestação de serviços por ele exercida foi operado de forma inadequada e desproporcional.
+Afirma que cumpriu os termos contratuais na íntegra e que a cobrança objeto da ação é devida, devendo-se considerar o proveito econômico auferido à representada, R$ 50.000.000,00 (cinquenta milhões), conforme balizas preconizadas no artigo 85, § 2º, do CPC/15.
+O recurso foi admitido na origem, nos termos da decisão de fls. 3.607-3.608, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.De início, no que se refere à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses do recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à responsabilização da recorrida e o dever de indenizar seu patrono, tendo-se realizado um confronto de provas para a fixação do valor das verbas honorárias, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+A Corte estadual, ao analisar as circunstâncias fáticas contidas nos autos, no contrato e no conjunto probatório produzido, assim decidiu (fls. 3.420-3.421, e-STJ):
+No entanto, em que pese seja devida a verba honorária pelos serviços prestados, evidente que não deve prevalecer o valor arbitrado na sentença.
+Com efeito, o autor/apelado patrocinou a ré/apelante em uma suscitação de dúvida (n.º 980-54.2015.811.0093), realizada por Daniela Sauer Hermes, oficial titular do Cartório do 1º Ofício da Comarca de Feliz Natal (ID 5557868 - Pág. 2), de modo que, não há como deixar de reconhecer a exorbitância dos honorários arbitrados pelo sentenciante em 15 (quinze mil) sacas de milho, tipo exportação.
+Ora, o referido Pedido de Providência (suscitação de dúvida) possui natureza administrativa, ou seja, não há lide, o que afasta a fixação dos honorários nos moldes da sentença, até porque, se mantido, configurar-se-ia enriquecimento ilícito do autor/apelado.
+(..) Ocorre que, a defesa apresentada pelo autor/apelado nos autos da suscitação de dúvida em questão não se confunde com o negócio jurídico firmado pela ré e o Sr. Jocimar Capitanio, de maneira que não prevalece a forma de fixação pretendida e acolhida pelo sentenciante.
+Até porque, não há como afirmar que tem o autor/apelado participação na referida negociação, tampouco existir proveito econômico advindo em processo referente à suscitação de dúvida.
+Nesse contexto, tem-se que, embora devidos, os honorários advocatícios devem ser fixados observando-se a natureza do processo em que atuou o causídico, no caso, simples pedido de providência.
+(..) Assim, considerando que o autor/apelado apresentou defesa na suscitação de dúvida em questão e recurso de apelação da decisão nela proferida, entendo cabível o arbitramento da verba honorária em R$ 4.000,00 (quatro mil reais), conforme dispõe a Tabela II, item 3, da Tabela de Honorários da OAB/MT.
+Verifica-se que, ao contrário do alegado neste recurso especial, o Tribunal de origem, após minudente análise do conjunto fático-probatório e obrigações assumidas em contrato, reconheceu a inadimplência dos honorários convencionais, arbitrando-os com base na adequação e proporcionalidade dos serviços prestados.
+A revisão do entendimento desses pontos, nos moldes das questões factuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Confira-se:
+RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO E DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. OCORRÊNCIA DE REVOGAÇÃO EXPRESSA SEM PROVA DA CIÊNCIA DA CAUSÍDICA. POSTERIOR SUBSTABELECIMENTO COM RESERVA DE PODERES. PRESCRIÇÃO. RAZOABILIDADE DA VERBA HONORÁRIA ARBITRADA.
+1. (..)
+2. (..)
+3. Para reduzir os honorários advocatícios estabelecidos na origem, revelar-se-ia necessária a incursão no acervo fático probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, o que atrai o óbice da Súmula 7/STJ.
+4. Recurso especial de Maria Cecília Ribas Viera não provido.
+Reclamo de Mariza Ribas Bokel e outro parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1344123/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 7/11/2017)
+Diante do exposto, nego provimento ao recurso especial"
+Inicialmente, não procede a alegação de violação do art. 1.022 do Código de Processo Civil, uma vez que foram enfrentadas todas as questões importantes para o deslinde da controvérsia, de forma fundamentada, porém em sentido contrário ao pretendido, o que afasta a invocada negativa de prestação jurisdicional.
+No caso dos autos, o TJMT relatou que "a defesa apresentada pelo autor/apelado nos autos da suscitação de dúvida em questão não se confunde com o negócio jurídico firmado pela ré e o Sr. Jocimar .., de maneira que não prevalece a forma de fixação pretendida e acolhida pelo sentenciante. Até porque, não há como afirmar que tem o autor/apelado participação na referida negociação, tampouco existir proveito econômico advindo em processo referente à suscitação de dúvida. Nesse contexto, tem-se que, embora devidos, os honorários advocatícios devem ser fixados observando-se a natureza do processo em que atuou o causídico, no caso, simples pedido de providência".
+Encontra-se no acórdão estadual a conclusão de que "considerando que o autor/apelado apresentou defesa na suscitação de dúvida em questão e recurso de apelação da decisão nela proferida, entendo cabível o arbitramento da verba honorária em R$ 4.000,00 (quatro mil reais), conforme dispõe a Tabela II, item 3, da Tabela de Honorários da OAB/MT".
+Inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar sobre o grau de zelo do profissional que faz jus aos honorários sucumbenciais, natureza e importância da causa, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Quanto ao pedido da parte contrária, em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
