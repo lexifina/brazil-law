@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AÇÃO RESCISÓRIA. VALOR DA CAUSA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Tribunal de origem, em ação rescisória ajuizada a fim de desconstituir julgado proferido em ação por ato de improbidade administrativa, manteve decisão proferida de ofício pelo juízo de primeira instância retificando o valor da causa e determinando a complementação das custas inicias pelos autores, ora agravantes. Conforme consta do acórdão recorrido, há discrepância entre o valor da causa originária e o proveito econômico, devendo prevalecer esse último.
+2. No presente recurso especial, a parte recorrente aponta violação unicamente ao art. 292, II, e § 3º, do CPC/2015, defendendo que não há discrepância entre o valor da causa originária e o proveito econômico buscado na ação rescisória.
+3. Sendo assim, a discussão acerca do valor da causa demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+4. No tocante à suscitada divergência jurisprudencial, a parte recorrente não logrou êxito em demonstrar de forma satisfatória as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+5. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto pelo HOSPITAL E MATERNIDADE VITORIA T MISSEN LTDA e VILSON WATTE em face de decisão monocrática assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AÇÃO RESCISÓRIA. VALOR DA CAUSA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante defende que não pretende o revolvimento do conjunto fático-probatório dos autos, de modo que inaplicável a Súmula 7/STJ. A propósito, assevera que é evidente que toda a prova necessária ao enfrentamento das teses arguidas em sede de Ação Rescisória (violação ao art. 292, II, e § 3º, do CPC - fixação do valor da causa) já fora suficientemente delimitada e destacada pelo acórdão a quo (fl. 2078 e-STJ).
+A União apresentou contraminuta às fls. 2091/2093 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AÇÃO RESCISÓRIA. VALOR DA CAUSA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Tribunal de origem, em ação rescisória ajuizada a fim de desconstituir julgado proferido em ação por ato de improbidade administrativa, manteve decisão proferida de ofício pelo juízo de primeira instância retificando o valor da causa e determinando a complementação das custas inicias pelos autores, ora agravantes. Conforme consta do acórdão recorrido, há discrepância entre o valor da causa originária e o proveito econômico, devendo prevalecer esse último.
+2. No presente recurso especial, a parte recorrente aponta violação unicamente ao art. 292, II, e § 3º, do CPC/2015, defendendo que não há discrepância entre o valor da causa originária e o proveito econômico buscado na ação rescisória.
+3. Sendo assim, a discussão acerca do valor da causa demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+4. No tocante à suscitada divergência jurisprudencial, a parte recorrente não logrou êxito em demonstrar de forma satisfatória as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Como bem destacado, na hipótese dos autos, o Tribunal de origem, em ação rescisória ajuizada a fim de desconstituir julgado proferido em ação por ato de improbidade administrativa, manteve decisão proferida de ofício pelo juízo de primeira instância retificando o valor da causa e determinando a complementação das custas inicias pelos autores, ora recorrentes.
+No recurso especial, os recorrentes buscam o reconhecimento da tese de que não há discrepância entre o valor da causa originária e o proveito econômico buscado na ação rescisória, pois o valor indicado no acórdão recorrido não é definitivo, tampouco incontroverso.
+Com efeito, sobre o valor da causa nas ações rescisórias, há entendimento jurisprudencial consolidado segundo o qual este deve corresponder ao valor da causa originária corrigido monetariamente, salvo se ficar demonstrado que o proveito econômico perseguido pelo autor da demanda é superior àquele.
+A propósito, os seguintes julgados:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. BENEFÍCIO ECONÔMICO PRETENDIDO. AJUSTE.
+1. Esta Corte tem o entendimento de que, em regra, o valor atribuído à causa na ação rescisória deve corresponder ao da ação originária, corrigido monetariamente, sendo certo que, havendo discrepância entre o valor perseguido na ação originária e o benefício econômico a ser auferido com a procedência do pedido rescisório, a regra deve ser ressalvada.
+2. Hipótese em que o valor atribuído ao feito rescisório foi R$ 10.000,00 (dez mil reais), posteriormente retificado pra R$ 60.000, 00 (sessenta mil reais), enquanto a pretensão nele deduzida é a desconstituição de decisão na ação de conhecimento, a fim de ver aplicada a decadência do direito de revisão de benefício previdenciário do falecido cônjuge da requerida.
+3. Dissonância entre o valor atribuído à presente ação rescisória e o real benefício patrimonial pleiteado, notadamente levando-se em consideração o quantum atribuído à causa nos embargos à execução, cujo montante mais se aproxima do proveito econômico postulado no feito rescisório (R$ 866.165,65).
+4. Agravo interno desprovido.
+(AgInt na AR 6.281/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 18/08/2021, DJe 24/08/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. IMISSÃO DE POSSE. IMPUGNAÇÃO AO VALOR: ORIGINÁRIO CORRIGIDO OU PROVEITO ECONÔMICO.
+I - Empresa Força e Luz de Urutaí apresentou impugnação ao valor da causa, em feito rescisório ajuizado pela CELG Distribuição S/A - CELG D, versando sobre bens e instalações elétricas anteriormente pertencentes à impugnante, buscando a adequação do valor de acordo com o critério efetivo do benefício econômico, e não somente o valor da causa na ação originária rescindenda.
+II - A despeito de sustentar a importância de se atribuir o real valor da causa em feito rescisório, o Tribunal de Justiça Estadual a quo julgou improcedente a impugnação.
+III - A jurisprudência do STJ se firmou no sentido de que " ..  o valor da causa a ser atribuído na ação rescisória deve guardar identidade com o valor dado à demanda original rescindenda, salvo a hipótese de discrepância fundada no proveito econômico buscado, que prevalecerá" (REsp 1712475/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/08/2019).
+Precedentes: REsp 1811781/MS, Rel.
+Ministra Nancy Andrighi, Terceira Turma, DJe 20/02/2020, AR 6.000/CE, Rel. Ministro Francisco Falcão, Corte Especial, DJe 23/05/2019.
+IV - Inviável, entretanto, no âmbito do recurso especial, aferir o real proveito econômico para fins de especificar o valor da causa.
+V - Recurso especial provido, julgando procedente a impugnação ao valor da causa, com o retorno dos autos ao Tribunal a quo para determinar o respectivo valor.
+(REsp 1591793/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 01/06/2021, DJe 11/06/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VALOR DA CAUSA. BENEFÍCIO PATRIMONIAL PRETENDIDO. AUTONOMIA.
+1. Trata-se de recurso especial em impugnação ao valor da causa em que se objetiva atribuir à ação rescisória o valor do benefício patrimonial pleiteado na ação originária de indenização por danos morais.
+2. O valor da causa, na ação rescisória, deve corresponder à importância a ser obtida pela procedência total dos pedidos formulados. Entendimento majoritário da doutrina e posicionamento atual da Primeira Seção desta Corte, assentado no julgamento dos EREsp 383.817/RS, relator Ministro Teori Albino Zavascki (DJ 12.09.2005).
+3. Recurso especial provido.
+(REsp 913.751/DF, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 18/09/2007, DJ 04/10/2007, p. 195)
+A respeito do tema, manifestou-se o Tribunal de origem (fls. 1916/1925 e-STJ):
+A decisão agravada foi proferida a partir dos seguintes fundamentos:
+ ..
+Do valor da causa
+Acerca do valor da causa, é preciso trazer à lume que o art. 291 do CPC é inequívoco ao preconizar que a toda causa deverá ser atribuído um valor certo, mesmo que não possua conteúdo econômico imediatamente aferível. O art. 292, II, por seu turno, dispõe que o valor da causa na ação que tiver por objeto a rescisão de ato jurídico será o valor correspondente ao ato que se busca rescindir.
+Consoante consolidado entendimento firmado no âmbito do Superior Tribunal de Justiça, "o valor da causa em ação rescisória deve corresponder, em princípio, ao da ação originária, corrigido monetariamente. Havendo, porém, discrepância entre o valor da causa originária e o proveito econômico buscado na ação rescisória, deve prevalecer esse último".
+Colhe-se também da Corte Superior a orientação jurisprudencial no sentido de que a retificação do valor da causa, em ação rescisória, deve preceder ao julgamento de mérito, na medida em que é sobre aquele montante que incide o percentual do depósito prévio exigido pelo art. 968, II, do CPC, tratando-se, portanto, de condição de procedibilidade desta ação.
+Assim, inobstante tenham os requerentes atribuído à esta causa o valor da causa da ação originária devidamente atualizado, tendo em conta a previsão do art. 293 do CPC e o entendimento jurisprudencial acima assinalado é de se proceder, de ofício, à correção do valor da causa atribuído pelo demandante.
+Com efeito, uma vez que esta rescisória tem por escopo, em última instância, obstar o cumprimento do título executivo judicial que, no entender da parte exequente, impõe aos executados a obrigação de pagar o valor de R$ 784.683,49 (setecentos e oitenta e quatro mil seiscentos e oitenta e três reais e quarenta e nove centavos), deverá ser esse o valor da causa desta rescisória.
+Diante do que exposto, forte no art. 292, §3º, do CPC, corrige-se, de ofício, o valor da causa desta ação rescisória, o qual deverá corresponder a R$ 784.683,49 (setecentos e oitenta e quatro mil seiscentos e oitenta e três reais e quarenta e nove centavos).
+ ..
+Tem-se que as razões apresentadas pelos agravantes não se revelam suficientes a superar conclusão alcançada na decisão agravada.
+Como referido naquela decisão, a retificação de ofício do valor dado à causa vai ao encontro do entendimento externado pelo Superior Tribunal de Justiça ao qual também os agravantes fazem referência. Sendo o valor da causa requisito da peça inicial nos termos do art. 319, V, do CPC, sua fixação no âmbito da ação rescisória deverá representar, na hipótese de divergência entre o valor atualizado da causa originária e a efetiva repercussão econômica que busca obter, justamente os efeitos vinculados à pretensão que lhe é dirigida no momento da propositura do pedido rescisório. A admissão do raciocínio defendido pelos agravantes tornaria o requisito legal da peça inicial volátil dado que sujeito à modificação superveniente a partir de eventual retificação do montante obtido no âmbito do cumprimento de sentença, indo de encontro, portanto, à ordem processual e aos limites do juízo de admissibilidade da peça exordial.
+Verifica-se, portanto, que o Tribunal de origem manteve a decisão que retificou o valor da causa à consideração de que há discrepância entre o valor da causa originária e o proveito econômico, devendo prevalecer esse último. Com efeito, uma vez que esta rescisória tem por escopo, em última instância, obstar o cumprimento do título executivo judicial que, no entender da parte exequente, impõe aos executados a obrigação de pagar o valor de R$ 784.683,49 (setecentos e oitenta e quatro mil seiscentos e oitenta e três reais e quarenta e nove centavos), deverá ser esse o valor da causa desta rescisória (fl. 1924 e-STJ).
+No presente recurso especial, a parte recorrente busca prevalecer a tese de que não há discrepância entre o valor da causa originária e o proveito econômico buscado na ação rescisória. Sendo assim, é certo que a reforma do acórdão recorrido demanda, inexoravelmente, o revolvimento do conjunto fático-probatório dos autos, oque é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+A propósito, o presente agravo interno tão somente aduziu genericamente que é evidente que toda a prova necessária ao enfrentamento das teses arguidas em sede de Ação Rescisória (violação ao art. 292, II, e § 3º, do CPC - fixação do valor da causa) já fora suficientemente delimitada e destacada pelo acórdão a quo (fl. 2078 e-STJ). Com efeito, tal argumentação não é suficiente a evidenciar como os trechos do acórdão recorrido - acima descritos - permitem compreensão diversa à conclusão adotada pelo Tribunal de origem.
+No ponto, insta salientar que, não obstante a possibilidade reconhecida jurisprudencialmente de revaloração do contexto fático existente no acórdão recorrido, nem mesmo o ora agravante se desincumbiu em demonstrar como tal entendimento seria aplicável ao caso em análise, o que demonstrar tratar-se de argumentação genérica.
+No mesmo sentido:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VALOR DA CAUSA. VALOR DA AÇÃO ORIGINÁRIA OU DO BENEFÍCIO ECONÔMICO. PRETENSÃO DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que o valor da causa, no caso concreto, é aquele correspondente ao importe a ser obtido pela procedência integral da Ação Rescisória. Portanto, insuscetível de revisão o referido entendimento, por demandar reexame do conjunto fático-probatório, atraindo a aplicação da Súmula 7/STJ.
+2. O valor da causa em ação rescisória deverá corresponder ao da ação originária, corrigido monetariamente, ou, havendo discordância entre o valor da causa originária e o benefício econômico buscado na rescisória, prevalecerá este último.
+3. Neste sentido: AgRg no REsp 1430531/AL, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 25/03/2014, DJe 31/03/2014; Pet 8.707/GO, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 13/08/2014, DJe 29/08/2014 4. Agravo Regimental não provido.
+(AgRg no AREsp 502.123/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/11/2014, DJe 27/11/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+SERVIDOR PÚBLICO FEDERAL. AÇÃO RESCISÓRIA. REAJUSTE DE 28,86%. IMPUGNAÇÃO AO VALOR DA CAUSA. REVISÃO DOS CRITÉRIOS ADOTADOS PELO TRIBUNAL DE ORIGEM PARA FIXAÇÃO DO VALOR DA CAUSA. PECULIARIDADES ESPECÍFICAS DO CASO CONTRATO.
+FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+AGRAVO REGIMENTAL DA UNIÃO DESPROVIDO.
+1. No caso dos autos, o valor da causa foi fixado levando-se em conta a particularidade do caso concreto, ao argumento de que tendo subestimado o valor dos Embargos à Execução, não poderia agora, em sede de Ação Rescisória, a União atribuir o valor total pleiteado na execução do julgado.
+2. Contudo esse fundamento autônomo e suficiente à manutenção do aresto recorrido não foi impugnado nas razões do Recurso Especial, permanecendo, portanto, incólume. Dessa forma, aplicável, na espécie, por analogia, a Súmula 283 do STF.
+3. Agravo Regimental da UNIÃO desprovido.
+(AgRg no REsp 1430666/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/04/2015, DJe 30/04/2015)
+Por fim, convém ressaltar que a interposição do recurso especial pela alínea "c" do permissivo constitucional também exige que o recorrente cumpra o disposto nos arts. 1029 do CPC, e 255, § 1º, do RISTJ.
+Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, verifica-se que a ora recorrente não atendeu aos requisitos estabelecidos pelos dispositivos legais supramencionados, restando ausentes a similitude fática e o cotejo analítico entre os julgados mencionados.
+Sobre o dissídio jurisprudencial o presente agravo interno também não demonstrou como teria superado os óbices de conhecimento apontados. Ademais, frise-se, a impossibilidade de conhecimento pela incidência da Súmula 7/STJ é suficiente para a manutenção da decisão agravada.
+Assim, é descabido o recurso interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Nesse mesmo sentido, confira o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO PROFISSIONAL. ATIVIDADE BÁSICA. REGISTRO.
+REEXAME FÁTICO-PROBATÓRIO. DISSÍDIO JURISPRUDENCIAL.
+EXAME PREJUDICADO. IMPOSSIBILIDADE.
+1. A jurisprudência desta Corte entende que é a atividade básica da empresa que vincula o registro nos órgãos de fiscalização do exercício profissional.
+2. No caso dos autos, o tribunal a quo entendeu que a atividade-fim desenvolvida pela empresa não é privativa dos profissionais da engenharia, de modo que não haveria exigência de registro perante o conselho. Assim, a revisão da conclusão a que chegou o acórdão recorrido pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+3. Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+4. Agravo interno não provido.
+(AgInt no REsp 1943414/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 30/09/2021)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
