@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE DOMICÍLIO. INOVAÇÃO RECURSAL. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Segundo a jurisprudência desta Corte Superior de Justiça, é vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente (AgRg no REsp n. 1378508/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe de 7/12/2016).
+3. No caso dos autos, a pretexto da necessidade de afastar omissão no julgado, o embargante busca a apreciação de questão não incluída no objeto do agravo regimental perante esta Corte Superior, mas apenas nas razões dos embargos de declaração, ora apresentados, o que configura indevida inovação recursal, motivo pelo qual o tema não foi tratado acórdão ora embargado. Noutras palavras, ao examinar o inteiro teor do agravo regimental, observa-se que não houve a menção sobre a tese ora arguida (ilegalidade da invasão de domicílio), visto que a defesa se ateve à tese da não incidência da Súmula 7/STJ, na desclassificação do tráfico para a conduta do art. 28 da Lei nº 11.343/06.
+4. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração rejeitados.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por RODRIGO SILVA DE OLIVEIRA (e-STJ fls. 774/779) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 766):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO PARA A CONDUTA DO ART. 28 DA LEI Nº 11.343/06. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a enaltecer a tese de autoria delitiva imputada pelo parquet ao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelo delito do artigo 33 da Lei nº 11.343/06. Dessa forma, rever os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela desclassificação para o delito do art. 28 da Lei nº 11.343/06, tendo em vista que ausentes os elementos caracterizadores do tráfico de drogas, bem como a fragilidade de provas para se afirmar que o envolvido seja um traficante, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+2. Agravo regimental não provido.
+Sustenta a parte embargante a ocorrência de omissão, uma vez que deixou de analisar a ilegalidade da invasão de domicílio do acusado sem mandado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+De plano, destaco que os presentes aclaratórios não merecem acolhimento.
+Como é de conhecimento, sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Segundo a jurisprudência desta Corte Superior de Justiça, é vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente (AgRg no REsp n. 1378508/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe de 7/12/2016).
+No caso dos autos, a pretexto da necessidade de afastar omissão no julgado, o embargante busca a apreciação de questão não incluída no objeto do agravo regimental perante esta Corte Superior, mas apenas nas razões dos embargos de declaração, ora apresentados, o que configura indevida inovação recursal, motivo pelo qual o tema não foi tratado acórdão ora embargado.
+Noutras palavras, ao examinar o inteiro teor do agravo regimental, observa-se que não houve a menção sobre a tese ora arguida (ilegalidade da invasão de domicílio), visto que a defesa se ateve à tese da não incidência da Súmula 7/STJ, na desclassificação do tráfico para a conduta do art. 28 da Lei nº 11.343/06.
+Assim, esta Corte Superior, ao analisar o tema delimitado pela defesa, posicionou-se de forma clara, adequada e suficiente ao concluir que para decidir pela desclassificação para o delito do art. 28 da Lei nº 11.343/06, tendo em vista que ausentes os elementos caracterizadores do tráfico de drogas, bem como a fragilidade de provas para se afirmar que o envolvido seja um traficante, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Nesse panorama, não há falar em omissão, pois o tema ora levantado pela defesa se trata de indevida inovação recursal, não suscitada no agravo regimental apresentado, mas apenas neste momento processual.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
