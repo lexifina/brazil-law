@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ZELIA SANTIAGO COSTA DE LIMAcontra decisão que deferiu a atribuição de efeito suspensivo ao recurso extraordinário da União e determinou o envio dos autos à Primeira Seção para eventual juízo de retratação, nos termos do art. 1.040, II, do Código de Processo Civil(e-STJ fl. 1169-1204).
+Sustenta a embargante a necessidade de esclarecimento sobre a extensão do efeito suspensivo deferido, devendo ser explicitado se "poderá a União voltar ou não ao status quo ante à impetração do presente mandamus para declarar que a Portaria n. 1.389, de 23.8.2006 está anulada e assim, suspender a assistência médico-hospitalar provida pela Aeronáutica, e para de pagar os proventos mensais recebidos pela Embargante, que é idosa (nascida em 1 de novembro de 1944 -78 anos), e luta contra o câncer a mais de 10 anos, com sessões de quimioterapia, cirurgias e tratamentos altamente invasivos" (e-STJ fl. 1170).
+Além disso, alega a necessidade de intimação de todos os sucessores do autor da pensão - José Braz Santiago Pereira de Lima - para fins de regularização do polo passivo desta demanda, bem como a necessidade de observar o conteúdo da Instrução Normativa n. 2, de 29/9/2021, expedida pelo Ministério da Mulher, Família e Direitos Humanos, a partir da qual a União reconheceria a existência de irregularidades nos procedimentos de revisão anteriores.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados.
+As contrarrazões foram apresentadas(e-STJ fl. 1209).
+É o relatório.
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 6/5/2022 (e-STJ fl. 1167), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 13/5/2022 (e-STJ fl. 1204).
+O art. 1.022 do Código de Processo Civil disciplina que cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e para corrigir erro material.
+Da análise da decisão embargada, conclui-se que não há qualquer mácula a ser corrigida, uma vez que esta Vice-Presidência justificou adequadamente as razões pelas quais atribuiu efeito suspensivoao recurso extraordinário e determinou o retorno dos autos à Primeira Seção para eventual juízo de retratação.
+Com efeito, consignou-se que no julgamento do RE n. 817.338 RG/DF, o Supremo Tribunal Federal concluiu que "no exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria nº 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas" (Tema n. 839/STF).
+No caso, o acórdão objeto do recurso extraordinário apontou a decadência do direito da União rever o ato administrativo de concessão da anistia política, conforme o art. 54 da Lei n. 9.784/1999,anulando a Portaria n. 1.449, de 5/4/2013.
+Contudo, na edição do Tema n. 839/STF, o STF assentou que "odecurso do lapso temporal de 5 (cinco) anos não é causa impeditiva bastante para inibir a Administração Pública de revisar determinado ato, haja vista que a ressalva da parte final da cabeça do art. 54 da Lei nº 9.784/99 autoriza a anulação do ato a qualquer tempo, uma vez demonstrada, no âmbito do procedimento administrativo, com observância do devido processo legal, a má-fé do beneficiário".
+Assim, em princípio, o acórdão impugnado diverge de entendimento da Suprema Corte, firmado sob a sistemática da repercussão geral, o que acarreta a necessidade de reanálise do caso pelo Órgão julgador, conforme prevê a legislação processual vigente - art. 1.040, II, do CPC.
+Por sua vez, o efeito suspensivo foi atribuído ao recurso extraordinário, dado opericulum in morae ofumus boni iuris, evidenciados pela tese de repercussão geral fixada pelo STF e o fundamento apresentado pelo acórdão concessivo da segurança no caso concreto, suspendendo a eficácia deste provimento jurisprudencial, conforme prevê o art. 995 do CPC.
+Não se constata, portanto, nenhum defeito no julgado questionado, tendo esta Vice-Presidência demonstrado, de forma fundamentada, as razões pelas quais atribuiu o efeito suspensivo ao recurso extraordinário e determinou o envio dos autos à Primeira Seção, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020)
+No mesmo diapasão:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl nos EDcl nos EDcl no REsp 1338942/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/03/2020, DJe 13/03/2020)
+Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno deste Superior Tribunal de Justiça, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO.ATRIBUIÇÃO DE EFEITO SUSPENSIVO E ENVIO AO ÓRGÃO PROLATOR DO ACÓRDÃO RECORRIDO. ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL.VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
