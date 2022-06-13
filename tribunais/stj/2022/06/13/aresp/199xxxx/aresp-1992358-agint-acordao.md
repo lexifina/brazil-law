@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Beatriz Pio Torresdesafiando decisão da Presidência do Superior Tribunal de Justiça, que conheceu doagravo para não conhecer dorecurso especial, sob ofundamentode incidênciados óbicesdasSúmulas 126/STJ e 284/STF.
+Inconformada, a parte agravante, em suas razões, sustenta que "o Recurso Especialdemonstra ser cristalina a dependência econômica da Recorrente em perceber a mencionada pensão, uma vez que todas as suas despesas são pagas com os recursos dela proveniente. Ademais tem direito liquido e certo ao recebimento da pensão, até os 24 anos de idade, ou seja até a data de seu 25º aniversario, na data de 17/04/2024, haja vista estar cursando curso superior, pela aplicação analógica da Lei Federal n.º 9250/1995. Ademais a educação é direito de todos e dever do Estado e da família para o exercício da cidadania e sua qualificação para o trabalho (..)." (fl. 274)
+Aduz que "o recurso especial, não trata especificamente de matéria constitucional, mas sim de aplicação e verificação da declaração incidentalmente, a inconstitucionalidade do art. 2º, II, alínea "b", da Lei Complementar nº 30/01, que estabelecia que a pensão por morte seria paga a dependente de segurado até que ele completasse a idade de 21 anos, conforme se depreende do julgado transcrito acima.O Recurso Especial apresentado, permitea exata compreensão da controvérsia, no que tange apreciação do tema da pensão por morte, prevista na Lei Complementar Estadual nº 30/2001, sob o prisma constitucional. Assim, não subsiste os fundamentos do Relator, ao defender que a referida razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos." (fl. 278)
+As razões do recurso não foram impugnadas.
+Parecer do MPF, às fls. 299/305, opinando pelo não conhecimento do recurso.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL DO ACÓRDÃO. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. APLICAÇÃO.
+1. O Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.").
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Conforme asseverado no decisumdo Presidente destaCorte Superior, colheu-se do acórdão a seguinte fundamentação, inverbis (fls. 161/162):
+As duas relações jurídicas previdenciárias, benefício e custeio, estão intrinsicamente ligadas. Os recursos devem ser arrecadados pelo custeio e revertidos em benefícios, ou seja, só se pode pagar qualquer benefício se houver fonte de custeio para tanto. É o que dispõe o §5º do artigo 195 da Constituição Federal, segundo o qual:
+ ..
+No caso em exame, estender o benefício previdenciário da pensão por morte até que o agraciado complete 24 anos importaria em estender benefício previdenciário sem a correspondente fonte de custeio, o que é expressamente proibido pelo texto constitucional.
+Há, no voto da relatora, dois outros argumentos para a extensão do benefício: o primeiro é que seria dever do Estado, com base na regra da preservação da dignidade da pessoa humana a garantia da assistência a educação dos jovens. O segundo, apela para a necessidade do requerente de concluir seus estudos e aponta o direito a alimentos como regra a ser aplicada.
+ ..
+Por fim, há a questão do dever do Estado de prover a educação dos jovens como forma de garantir o respeito a dignidade da pessoa humana.
+Quanto a este argumento, o primeiro ponto a se observar é a reserva do possível.
+ ..
+No caso em exame, não há necessidade de abordar tais temas, por demais complexos, basta notar que, ainda que exista o direito subjetivo a exigir do Estado o cumprimento do dever de custear a educação dos jovens até a conclusão do ensino superior, tal direito não é de origem previdenciária e não pode ser satisfeito por via de benefício de pensão por morte, seria, se existisse, um direito de natureza assistencial nunca previdenciária.
+Com efeito, ainda que se afaste a aplicação do óbice da Súmula 284/STF, observa-se que oTribunal de origem se amparouem fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1702175/GO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1642570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
