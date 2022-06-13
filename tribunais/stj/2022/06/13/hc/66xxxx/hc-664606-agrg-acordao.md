@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. FUNDAMENTO INIDÔNEO. PENA REDIMENSIONADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente , as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+2. No caso, a circunstância judicial da culpabilidade foi considerada desfavorável com base em fundamentação vaga e genérica, sem que fossem indicados elementos que ultrapassassem as características ínsitas ao tipo penal.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão de minha lavra, ementada nos seguintes termos (fl. 70):
+"HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. FUNDAMENTO INIDÔNEO. QUANTIDADE, VARIEDADE E NATUREZA DOS ENTORPECENTES. MAIOR DESVALOR DA CONDUTA. EXASPERAÇÃO DEVIDA. ORDEM PARCIALMENTE CONCEDIDA."
+Consta dos autos que o Agravado foi condenado às penas de 14 (quatorze) anos de reclusão, em regime inicial fechado, e 1.350 (mil trezentos e cinquenta) dias-multa, como incurso "nas sanções dos artigos 33, caput, e 35, c/c art. 40, inciso VI, todos da Lei 11.343/2006" (fls. 16-31).
+Inconformado, o Sentenciado interpôs recurso de apelação, que foi desprovido pelo Tribunal estadual (fls. 32-49).
+Nas razões do writ, o Impetrante sustentou, em suma, ausência de fundamentação idônea para a exasperação da pena-base. Também argumentou que o aumento operado é desproporcional.
+Requereu, em liminar e no mérito, a concessão do pedido "redimensionando as penas-base ao patamar de 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias, em relação ao crime de tráfico de drogas, bem como ao patamar de 3 (três) anos, 4 (quatro)meses e 15 (quinze) dias, em relação ao crime de associação para o tráfico de drogas".
+A decisão de fls. 70-77 concedeu parcialmente a ordem de habeas corpus para afastar a valoração negativa da culpabilidade do agente, em relação a todos os delitos, e, assim, reduzir proporcionalmente o quantum de exasperação das penas-bases, redimensionando a reprimenda final imposta ao Paciente para 11 (onze) anos e 8 (oito) meses de reclusão e 1.350 (mil, trezentos e cinquenta) dias-multa, mantidos os demais termos dos éditos condenatórios.
+Neste agravo regimental, o Agravante se insurge contra a o afastamento da valoração negativa da culpabilidade do agente..
+Alega que "o Juízo de primeiro grau, dentro do critério da discricionariedade juridicamente vinculada, reportou-se a elementos concretos para valorar negativamente a culpabilidade do réu e a quantidade e natureza dos entorpecentes, de modo que as penas-base foram aumentadas com proporcionalidade e razoabilidade" (fl. 87).
+Aduz que " n o tocante à culpabilidade, verifico que a valoração negativa foi devidamente motivada pelo magistrado com base em elementos concretos, ante as graves consequências geradas pela prática delitiva" (fl. 87).
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. FUNDAMENTO INIDÔNEO. PENA REDIMENSIONADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente , as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+2. No caso, a circunstância judicial da culpabilidade foi considerada desfavorável com base em fundamentação vaga e genérica, sem que fossem indicados elementos que ultrapassassem as características ínsitas ao tipo penal.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+Inicialmente, cumpre registrar que, excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático- probatória.
+Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente , as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+A título de elucidação, transcrevo os fundamentos utilizados pelo Juízo singular para fixar a pena-base acima do mínimo legal (fls. 27-28; sem grifos no original):
+"DO DELITO DE TRÁFICO DE ENTORPECENTES (art. 33 DA LEI DE DROGAS)
+O acusado, quanto ao histórico criminal, não é reincidente.
+Conduta social e personalidade não foram esclarecidas.
+A motivação do crime reside no lucro fácil e ilícito.
+O tráfico de entorpecentes exige reprimenda suficiente, a fim de coibir sua prática, de conseqüências tão nocivas à comunidade, desestruturando famílias, ceifando jovens vidas e contribuindo, eficaz e indiscutivelmente, para os elevados índices de violência que assolam essa cidade, por fomentar homicídios, roubos e a venda ilegal de armas, entre outras ações criminosas.
+Os efeitos do tráfico de drogas denotam elevado grau de culpabilidade.
+Além disso, na dosimetria da pena, a quantidade e espécie de droga apreendida tem relevância, segundo o art. 42, da Lei de Tóxicos, inviabilizando, no caso em tela, a redução do art. 33, § 4º, da Lei de Tóxicos e autorizando a aplicação de pena acima do mínimo legal.
+Desse modo, pelo delito de tráfico, fixo a pena base em 07 (sete) anos de reclusão e 600 (seiscentos) dias-multa.
+ ..
+DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO (ART. 35 DA LEI DE DROGAS:
+O acusado, quanto ao histórico criminal, não é reincidente.
+Conduta social e personalidade não foram esclarecidas.
+A motivação do crime reside no lucro fácil e ilícito.
+O Delito de associação para o tráfico exige reprimenda suficiente, a fim de coibir sua prática, de conseqüências tão nocivas à comunidade, desestruturando famílias, ceifando jovens vidas e contribuindo, eficaz e indiscutivelmente, para os elevados índices de violência que assolam essa cidade, por fomentar homicídios, roubos e a venda ilegal de armas, entre outras ações criminosas.
+Os efeitos da associação para o tráfico denotam elevado grau de culpabilidade.
+Além disso, na dosimetria da pena, a quantidade e espécie de droga apreendida tem relevância, segundo o art. 42, da Lei de Tóxicos, inviabilizando, no caso em tela, a redução do art. 33, § 4º, da Lei de Tóxicos e autorizando a aplicação de pena acima do mínimo legal.
+Quanto ao delito do art. 35, da Lei nº 11.343/06, fixo a pena base em 05 (cinco) anos de reclusão e 700 (setecentos) dias-multa".
+O Tribunal de origem, por sua vez, destacou o seguinte (fl. 47; grifos diversos do original):
+"Na espécie, a magistrada a quo considerou desfavoráveis a diversidade, a natureza e a quantidade de drogas, bem como a culpabilidade do apelante, fixando a pena base, em relação ao tráfico de drogas, em 7 (sete) anos de reclusão, e em relação à associação para o tráfico, em 5 (cinco) anos de reclusão.
+In casu, tais circunstâncias foram valoradas de forma concreta e fundamentada pela magistrada sentenciante, o que autoriza a fixação da pena base acima do mínimo legal, abstratamente previsto para o tipo, não havendo reparos a serem feitos, notadamente diante da inexistência de qualquer razão que venha a mitigar a força exasperante das referidas circunstâncias judiciais apontadas."
+Como se observa, as penas-bases dos delitos de tráfico de drogas e associação para o tráfico foram fixadas, respectivamente, em 7 (sete) anos de reclusão e 600 (seiscentos) dias-multa e 5 (cinco) anos de reclusão e 700 (setecentos) dias-multa, em virtude da culpabilidade do agente e da quantidade, variedade e natureza de drogas.
+No que se refere à culpabilidade, reafirmo que tal circunstância judicial foi considerada desfavorável com base em fundamentação vaga e genérica. Ademais, não foram indicados elementos que ultrapassam as características ínsitas ao tipo penal.
+Confiram-se:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DAS PENAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. AFIRMAÇÕES CONCRETAS RELATIVAMENTE ÀS CIRCUNSTÂNCIAS DO CRIME E À CIRCUNSTÂNCIA ESPECIAL DO ART. 42 DA LEI N. 11.343/2006. CULPABILIDADE, CONSEQUÊNCIAS E PERSONALIDADE AFASTADAS. AFIRMAÇÕES GENÉRICAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI DE TÓXICOS). IMPOSSIBILIDADE. CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Na espécie, o Magistrado sentenciante afirmou ser acentuada a culpabilidade do paciente, pois conhecia a ilicitude do comportamento e os malefícios causados pela disseminação dos entorpecentes na sociedade. Entretanto, tal fundamentação não se mostra adequada para a exasperação da pena-base, pois a circunstância judicial em análise em nada se relaciona com a culpabilidade, terceiro substrato do crime. O art. 59 do Código Penal, ao anunciar a culpabilidade como circunstância judicial, objetiva avaliar o maior ou menor grau de reprovabilidade da conduta do acusado ou menosprezo especial ao bem jurídico violado. Desse modo, carente de fundamentação, no pormenor, o aumento da pena-base. Precedentes.
+ ..
+8. Ordem parcialmente concedida para reduzir a pena definitiva aplicada ao paciente a 12 anos, 8 meses e 24 dias de reclusão, mais pagamento de 1.738 dias-multa, mantidas as demais disposições do acórdão local"(HC 698.362/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA. PENA- BASE. ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Certo é que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade. Contudo, a concessão da ordem - nos termos em que delineados na decisão recorrida - em nenhum momento traduz inobservância ao princípio do livre convencimento motivado; trata-se, na verdade, de controle de legalidade dos critérios empregados pelas instâncias ordinárias na dosimetria da pena, bem como de correção - perfeitamente possível em habeas corpus.
+2. A simples condição de estrangeiro do réu e o fato de ele haver perpetrado o delito - deixando, com isso, de observar a legislação penal brasileira - não evidenciam, de per si, especial agressividade e/ou perversidade do agente, tampouco menor sensibilidade ético-moral, motivo pelo qual não há como subsistir a conclusão pela desfavorabilidade da circunstância judicial relativa à personalidade.
+3. A gravidade abstrata do delito cometido e os malefícios gerados pelo tráfico de drogas à sociedade como um todo são elementos inerentes ao próprio tipo penal violado (abstratamente considerado) e, portanto, não justificam a exasperação da pena-base.
+4. Agravo regimental não provido." (AgRg no HC 514.555/PI, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019; sem grifos no original.)
+No caso em análise, foi decotado o acréscimo da pena-base referente à culpabilidade do agente, mantendo-se, contudo, o aumento decorrente da valoração negativa da diversidade, quantidade e natureza de um dos entorpecentes apreendidos.
+Assim, concluir que as instâncias ordinárias não se valeram do melhor direito para valorar negativamente o vetor referente à culpabilidade do agente, não implica, no caso, reavaliar fatos e provas, mas apenas reconhecer que não foram indicados elementos que ultrapassam as características ínsitas ao tipo penal.
+Na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
