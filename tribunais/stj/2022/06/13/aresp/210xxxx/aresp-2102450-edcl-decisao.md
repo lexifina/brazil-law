@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SOLAR BARROCO INTERIORES LTDA, à decisão de fls. 1459/1460, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O RECONHECIMENTO DA TEMPESTIVIDADE DO RECURSO ESPECIAL DA EMBARGANTE NO PRESENTE CASO INDEPENDE DA COMPROVAÇÃO EXIGIDA A RESPEITO DO FERIADO LOCAL, HAVENDO ERRO MATERIAL E MANIFESTO EQUÍVOCO NA ANÁLISE PELO I. MINISTRO PRESIDENTE.
+Durante o PERÍODO DA CONTAGEM DO PRAZO NO PRESENTE CASO EXISTEM TRÊS FERIADOS DECRETADOS POR LEI FEDERAL, não havendo que se falar em intempestividade por ausência de comprovação de feriado local.
+Leis Federais:
+(i) Lei nº 5.010/1966 - art. 62, IV - Dias 1º e 2 de novembro;
+(ii) Lei 662/1949 - art. 1º - Dias 2 e 15 de novembro
+Dessa forma, CONSIDERANDO OS TRÊS DIAS ACIMA MENCIONADOS, AMPARADOS POR LEI FEDERAL, E INDEPENDEM COMPROVAÇÃO, O RECURSO ESPECIAL DA EMBARGANTE É TEMPESTIVO, equivocando-se o Juízo ao analisar os pressupostos processuais.
+ ..
+Por amor ao argumento, além dos 3 feriados reconhecidos por lei federal, que já tornam tempestivo o REsp da embargante, vale destacar, ainda, o próprio ato deste E. superior Tribunal de Justiça, a Portaria STJ/GP n. 325/2021, assinada por Vossa Excelência, que alterou a portaria n. 02/2021 que divulga os dias de feriado nacional e estabelece os dias de ponto facultativo no ano de 2021, que considerou o dia 29/10/21 (sexta-feira) ponto facultativo e sem expediente, reforçando a tempestividade do REsp interposto pela embargante (fl. 1463).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+É certo que os feriados nacionais de 2/11/2021 e 15/11/2021 não precisam ser comprovados. Porém, o dia 1º/11/2021 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Registre-se que as disposições da Lei n. 5.010/66, usada pelo ora embargante como fundamento para justificar a suspensão do expediente forense no dia 1º/11 não o socorrem, uma vez que a referida lei somente diz respeito à Justiça Federal e aos Tribunais Superiores, não se aplicando as suas disposições aos tribunais de justiça estaduais. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, DJe de 26/5/2020.)
+No mais, veja-se que para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
