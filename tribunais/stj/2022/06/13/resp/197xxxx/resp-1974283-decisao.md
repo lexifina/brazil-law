@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos pela empresa Rio Paranapanema Energia S/A, favorecida com o julgamento unipessoal que deu parcial provimento ao Recurso Especial para determinar a devolução dos autos ao Tribunal de origem e o subsequente reexame dos pontos específicos veiculados em Embargos de Declaração.
+A embargante registra satisfação com o acolhimento parcial do apelo nobre, mas reitera, na fl. 1.160, e-STJ, que "o acórdão do Tribunal a quo foi omisso quanto ao último critério (atividade do contribuinte)", de modo que também em relação a esse tema estaria configurado o aludido vício previsto no art. 1.022 do CPC.
+Não foi apresentada impugnação.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 4 de maio de 2022.
+Como se verifica do relato acima feito, a pretensão veiculada não diz respeito à existência de omissão na decisão embargada, mas à tese da empresa de que há omissão no acórdão do Tribunal de origem, no que diz respeito ao tema do tipo de atividade do contribuinte.
+É importante, a esse respeito, transcrever excerto da decisão embargada, que expressamente se reportou a esse ponto (daí inexistir omissão no julgamento do STJ), afastando a existência de omissão, ao fundamento de que o inconformismo da empresa diz respeito ao mérito, a ser apreciado em outro momento, mais oportuno (fl. 1.156, e-STJ):
+A leitura da argumentação veiculada nas razões do apelo nobre leva à conclusão pelo acolhimento parcial da tese de violação do art. 1.022 do CPC. Com efeito, após a prolação do acórdão que negou provimento à Apelação interposta pela empresa (a sentença no juízo de primeiro grau, mantida na Corte local, julgou improcedente o pedido deduzido nos Embargos do Devedor), a recorrente opôs Embargos de Declaração para apontar omissão relativamente aos seguintes pontos:
+a) é equivocada a premissa do Tribunal a quo (de que ocorreu a preclusão para discutir a nulidade da CDA) porque o acórdão proferido no Agravo de Instrumento 1.372.256-8 concluiu pela existência de vício formal na CDA, somente não a anulando porque considerou o vício sanável, ou seja, a ausência de indicação, no título extrajudicial, do número do processo administrativo não enseja a nulidade da CDA, em razão da possibilidade de sua correção. A recorrente alega que, apesar da oportunidade concedida ao ente público, este não promoveu a retificação da CDA até a prolação da sentença no juízo de primeiro grau, o que leva à nulidade da CDA, ao tempo do julgamento da Apelação;
+b) o estabelecimento empresarial encontra-se localizado em território que pertence parcialmente ao Município de Diamante do Norte e ao Município de Rosana, e o que está em discussão não é a possibilidade de tributação da parcela do imóvel situada em cada território, mas a ilegalidade consistente no fato de que o Município de Diamante do Norte lançou a taxa sobre a área integral do imóvel, ou seja, invadindo o espaço que encontra-se no território do Município de Rosana; e
+c) como o Município tributante adota, como parâmetros do lançamento, tanto a metragem da área como o tipo de atividade econômica exercida, tem-se que a Taxa seria fixada exclusivamente em razão da ocupação do solo, não possuindo o caráter de retributividade característico da Taxa de Localização e Funcionamento.
+O Tribunal de origem rejeitou os aclaratórios.
+Não obstante, a leitura do acórdão proferido na Apelação evidencia que somente o último questionamento (item "c", supra) foi adequadamente apreciado - ou seja, nesse aspecto o inconformismo da recorrente diz respeito ao mérito, inconfundível com os vícios da omissão, obscuridade ou contradição.
+Os questionamentos dos itens "a" e "b", entretanto, efetivamente não foram valorados de modo específico e revelam-se importantes para a solução da lide.
+Dessa forma, evidencia-se que o tema foi apreciado na decisão monocrática. Não é por outro motivo que a embargante, certamente por confusão involuntária, utiliza estes aclaratórios para argumentar que a omissão apontada estaria presente no acórdão do Tribunal de origem.
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
