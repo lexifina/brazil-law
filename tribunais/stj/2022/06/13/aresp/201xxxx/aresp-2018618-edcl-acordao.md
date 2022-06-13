@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Cuida-se de embargos declaratórios opostos a acórdão proferido pela Segunda Turma do STJ, conforme a seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. COBRANÇA RETROATIVA. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.. DECISÃO MANTIDA.
+1. Impossibilidade de conhecimento do recurso especial em relação à alegada ofensa ao art. 1.022 do CPC, a qual foi formulada de forma genérica, sem a especificação dos dispositivos legais ou teses sobre as quais o acórdão recorrido teria deixado de se manifestar. Dessa forma, em razão da deficiente fundamentação recursal no ponto, incide a Súmula 284 do STF.
+2. Não cabe rediscutir as nuances que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido para a autorização da cobrança retroativa, em razão da incidência do enunciado da Súmula 7 do STJ.
+3. Agravo interno não provido.
+A agravante alega omissão do acórdão embargado , asseverando (e-STJ, fl. 454):
+20. Não obstante toda a manifestação da EDP a demonstrar a regularidade da cobrança em questão, soma-se à cristalina manifestação a incidir na modificação do julgado e repelir os argumentos de decisões anteriores, o fato do único objetivo da embargante em todos os seus recursos interpostos até o momento ter sido o de buscar pronunciamento jurisdicional quanto a exclusividade da União para legislar sobre a matéria (artigos 21, XII, "b"; 22, IV; e, 175 da CF), bem como sobre o disposto na legislação federal sobre a hipótese concreta, que está em sentido diametralmente oposto ao que foi decidido até o presente momento, na forma da Resolução 414/2010 da ANEEL, nada mais.
+21. Todavia, em que pese todos os recursos interpostos nesse sentido, nenhuma das decisões proferidas até o momento enfrentou tal questão, incorrendo todas, inclusive a que ora é embargada, em manifesta afronta ao disposto no artigo 93,IX da Constituição Federal com relação a inobservância ao Princípio Constitucional que torna imprescindível a Fundamentação das Decisões Judiciais, bem como ao disposto no art. 5º, XXXV, também da CF, este relativo a impossibilidade de Negativa de Jurisdição/Acesso à Justiça.
+22. Nessa linha, servem os presentes aclaratórios para que essa e. 2ª Turma, em respeito ao disposto nos artigos 93, IX e 5º, XXXV, ambos da CF, possa abordar em suas razões de decidir, todos os argumentos legais fundamentados pela embargante,e, sendo o caso, altere as conclusões havidas até agora sobre a matéria; ou, não sendo esse o entendimento a ser adotado, que, ao menos, em respeito à súmula 98 deste STJ, sejam expressamente prequestionados os dispositivos da Constituição Federal acima apontados, quais sejam: artigos 93, IX e 5º, XXXV, como de direito.
+Requer a reconsideração do acórdão recorrido.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. REJULGAMENTO DA CAUSA. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. No presente caso, a embargante, a pretexto de suposta omissão, pretende o rejulgamento da causa, procedimento vedado na via eleita.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+Assim, os declaratórios são cabíveis nos casos estritamente previstos, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso. Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS DECLARATÓRIOS NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. INDICAÇÃO GENÉRICA. HIPÓTESES DE CABIMENTO. REJEIÇÃO.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos declaratórios interpostos que têm o propósito infringente.
+2. A reiteração em segundos embargos de declaração dessa mesma ordem de alegações, além de caracterizar o uso inapropriado dos aclaratórios com a finalidade de obter o rejulgamento da causa, também configura o manejo com intuito protelatório a ensejar a respectiva reprimenda processual.
+3. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no REsp 1507689/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 12/03/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. RFFSA. SOCIEDADE DE ECONOMIA MISTA. IMUNIDADE TRIBUTÁRIA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO.
+1. Hipótese em que ficou consignado que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em Recurso Especial.
+2. A Segunda Turma desproveu o recurso com motivação clara e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+3. A fundamentação da embargante denota mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados. (EDcl no REsp 1638232/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. OUTORGA DE LICENÇA PARA CAPTAÇÃO DE ÁGUA SUBTERRÂNEA. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO.
+I - Deu-se provimento ao recurso especial do Estado, por se considerar legal a limitação administrativa estabelecida no sentido de que, nos locais dotados de rede de abastecimento de água potável, os poços de água subterrâneas serão tolerados exclusivamente para suprimento com fins industriais ou para uso em floricultura ou agricultura.
+II - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+III - Conforme assentado pelo STJ, "a contradição que enseja os embargos de declaração é apenas a interna, aquela que se verifica entre as proposições e conclusões do próprio julgado, não sendo este o instrumento processual adequado para a correção de eventual error in judicando (..)" (EDcl no AgRg nos EREsp 1.191.316/SP, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 10/5/2013)" (STJ, EDcl no AgRg no REsp 1.533.638/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/9/2016).
+IV - Embargos de declaração rejeitados. (EDcl no REsp 1345403/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/05/2017, DJe 12/05/2017)
+No presente caso, a embargante, a pretexto de suposta omissão, pretende o rejulgamento da causa, procedimento vedado na via eleita.
+Com efeito, foi expressamente consignado no acórdão ora embargadonão ter havido ofensa ao art. 1.022 do CPC/2015 e não ser admitido o revolvimento do acervo fático-probatório dos autos, o que ocorreria, caso a insurgência quanto à cobrança retroativa fosse examinada nos moldes pretendidos pela agravante.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
