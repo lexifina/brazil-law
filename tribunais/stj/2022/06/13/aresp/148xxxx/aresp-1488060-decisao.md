@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto porRAFAEL CALDAS CASSIANO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPRA E VENDA - Ação indenizatória acolhida para abatimento do preço de aquisição de veículo automotor e fixação de indenização por dano extrapatrimonial - Apelação - Decurso do prazo de noventa dias para o ajuizamento da ação - Alegando diferença de cerca de 30% na potência do motor do veículo comprado, não poderia o autor argumentar que o vício indicado não seria aparente - Incidência do prazo decadencial de noventa dias, tal como previsto no art. 26, II, da lei 8078/90 - Ação julgada improcedente - Recurso provido"(e-STJ fl. 380).
+Nas razões do recurso especial (e-STJ fls. 386-398), orecorrenteapontaviolação doartigo26, § 3º, do Código de Defesa do Consumidor.
+Sustenta que, em se tratando de vício oculto, o direito de reclamar a regular reparação do dano inicia-se no momento em que ficar evidenciado o defeito,"pois como cristalinamente verificado, o vício contido no motor do automóvel objeto dacorrente lide é de natureza oculta ou de difícil constatação".
+Semascontrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Adespeito de todo o esforço argumentativo expendido peloagravante, extrai-se dos autos que sua pretensão se limita à reanálise, por esta Corte Superior, da questão relativa ao prazo decadencial para a reclamação do defeito referente à potência do motor do veículo novo.
+Conforme assinalado, o acórdão atacado encontra-se em harmonia com a jurisprudência do STJ no sentido de que, em se tratando de responsabilidade civil por vícios aparentes do produto ou de fácil constatação, o prazo decadencial é de 30 (trinta) ou 90 (noventa) dias para a reclamação por parte do consumidor, conforme se trate de produtos ou serviços não duráveis ou duráveis, nos termos do art. 26 do Código de Defesa do Consumidor.
+No caso dos autos, por se tratar de veículo novo, o prazo decadencial aplicável para reclamação do vício aparente no motor é de 90 (noventa) dias, conforme disposição do art. 26, incisos II, do CDC.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS MONITÓRIOS - PLEITO RECONVENCIONAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGANTE.
+1. O Código de Defesa Consumidor, em observância ao princípio da segurança jurídica, fixou limites no tempo para o consumidor reclamar de vícios (prazo decadencial previsto art. 26) e para pleitear indenização pela reparação de danos causados por fato do produto ou do serviço (prazo prescricional indicado no art. 27).
+2. Quando se tratar de responsabilidade civil por vícios do produto aparentes ou de fácil constatação, o prazo decadencial é de 30 ou 90 dias para a reclamação por parte do consumidor, conforme se trate de produtos ou serviços não duráveis ou duráveis, nos termos do art. 26 do Código de Defesa do Consumidor. Inaplicável a prescrição do art. 27 do mesmo Código, pois restrita à ação de indenização para reparação de danos.
+3. Agravo interno desprovido" (AgInt no AREsp 738.587/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 6/3/2018, DJe 13/3/2018).
+"RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. VENDA E COMPRA DE IMÓVEL. METRAGEM. PROPAGANDA. CONTRATO. DIFERENÇA. VÍCIO. PRODUTO DURÁVEL. PRAZO DECADENCIAL. ART. 26, II, DO CDC. INDENIZAÇÃO. DANOS MORAIS. PRESCRIÇÃO QUINQUENAL.
+1. O Código de Defesa do Consumidor estabeleceu limites temporais diferentes para a responsabilização civil do fornecedor. O art. 27 prevê o prazo prescricional de 5 (cinco) anos para a pretensão indenizatória pelos danos causados por fato do produto ou do serviço; e o art. 26, o prazo decadencial de 30 (trinta) ou 90 (noventa) dias para a reclamação, conforme se trate de vícios aparentes ou de fácil constatação de produtos ou serviços não duráveis ou duráveis.
+2. Segundo a jurisprudência desta Corte, se o produto apresenta vício quanto à quantidade ou qualidade, ou que lhe diminua o valor, estar-se-á diante de vício aparente ou de fácil constatação, de acordo com o art. 26 do Código Consumerista.
+3. No caso, decaiu em 90 (noventa) dias o direito de os autores reclamarem da diferença entre a metragem do imóvel veiculada em propaganda e a área do apartamento descrita na promessa de contra e venda.
+(..)
+5. Recurso especial parcialmente provido" (REsp 1.488.239/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 1º/3/2016, DJe 7/3/2016).
+"RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ENTREGA DE VESTIDO DE NOIVA DEFEITUOSO. NATUREZA. BEM DURÁVEL. ART. 26, INCISO I, DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRAZO DECADENCIAL DE NOVENTA DIAS. 1. A garantia legal de adequação de produtos e serviços é direito potestativo do consumidor, assegurado em lei de ordem pública (arts. 1º, 24 e 25 do Código de Defesa do Consumidor).
+2. A facilidade de constatação do vício e a durabilidade ou não do produto ou serviço são os critérios adotados no Código de Defesa do Consumidor para a fixação do prazo decadencial de reclamação de vícios aparentes ou de fácil constatação em produtos ou serviços.
+3. O direito de reclamar pelos vícios aparentes ou de fácil constatação caduca 30 (trinta), em se tratando de produto não durável, e em 90 (noventa) dias, em se tratando de produto durável (art. 26, incisos I e II, do CDC).
+4. O início da contagem do prazo para os vícios aparentes ou de fácil constatação é a entrega efetiva do produto (tradição) ou, no caso de serviços, o término da sua execução (art. 26, § 1º, do CDC), pois a constatação da inadequação é verificável de plano a partir de um exame superficial pelo "consumidor médio".
+5. A decadência é obstada pela reclamação comprovadamente formulada pelo consumidor perante o fornecedor de produtos e serviços até a resposta negativa correspondente, que deve ser transmitida de forma inequívoca (art. 26, § 2º, inciso I, do CDC), o que ocorreu no caso concreto.
+6. O vestuário representa produto durável por natureza, porque não se exaure no primeiro uso ou em pouco tempo após a aquisição, levando certo tempo para se desgastar, mormente quando classificado como artigo de luxo, a exemplo do vestido de noiva, que não tem uma razão efêmera.
+7. O bem durável é aquele fabricado para servir durante determinado transcurso temporal, que variará conforme a qualidade da mercadoria, os cuidados que lhe são emprestados pelo usuário, o grau de utilização e o meio ambiente no qual inserido. Por outro lado, os produtos "não duráveis" extinguem-se em um único ato de consumo, porquanto imediato o seu desgaste.
+8. Recurso provido para afastar a decadência, impondo-se o retorno dos autos à instância de origem para a análise do mérito do pedido como entender de direito" (REsp 1.161.941/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/11/2013, DJe 14/11/2013).
+Por outro lado, o acórdão, ao reconhecer o prazo decadencial, ressaltou que
+"O autor diz ter adquirido veículo em março de 2013 e só bem posteriormente, através da leitura de uma revista especializada, ficou sabendo que a potência do motor não era de 140CV, mas sim de 112CV.
+A leitura da revista ocorrera mais de um ano após a aquisição.
+Com a devida licença, se havia uma discrepância tão grande de potência de motor, beirando 30%, não se pode dizer que este apontado vício não seria aparente e, portanto, de fácil constatação.
+Tratando-se de automóvel esportivo, este atributo pertinente à potência do motor seria desde logo observado.
+A diferença é gritante, o que afasta a pretensão para abatimento de preço e mais ainda aquela pertinente a um injustificado sofrimento a nível moral.
+(..) Aplica-se, por conseguinte, a regra estabelecida no art. 26, II, da Lei 8078/90, pois, repita-se, uma diferença de 30% de potência do motor seria facilmente detectável a partir do momento da aquisição do veículo.
+Julga-se a ação improcedente, reconhecida a decadência, invertidos os ônus da sucumbência" (e-STJ fls. 382-384 - grifou-se).
+Dessa maneira, a revisão dos fundamentos do acórdão estadual demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Sobre o tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. VEÍCULO. DEFEITO NA PINTURA. VÍCIO APARENTE. PRODUTO DURÁVEL. REPARO. PRETENSÃO. SUBSTITUIÇÃO DO BEM OU DEVOLUÇÃO DO VALOR. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. ART. 26, II, DO CDC. DECADÊNCIA. 90 (NOVENTA) DIAS. OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça preleciona que, em se tratando de produto durável, o direito de reclamar os vícios aparentes ou de fácil constatação decai em 90 (noventa) dias, nos termos do art. 26, II, do Código de Defesa do Consumidor.
+4. Na hipótese, rever a conclusão do julgado no tocante à decadência do direito pleiteado demandaria o reexame do conjunto fático-probatório, procedimento inadmissível em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+5. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+6. Agravo interno não provido"(AgInt no AREsp n. 1.754.051/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/3/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, ficando cada parte responsável pelo pagamento da metade ao seu respectivo advogado.
+Dessa forma, fixo os honorários recursais em 1% (um por cento) sobre o valor da causa, a ser pago pelo recorrente ao advogado do recorrido, mantendo-se, no mais, a verba honorária na forma determinada na origem, observado o benefício da gratuidade da justiça
+Publique-se.
+Intimem-se.
