@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.456/1.468) interposto contra decisão desta relatoria, que deu provimento ao recurso, "a fim de determinar o retorno dos autos ao Tribunal de origem para exame das omissões apontadas" (e-STJ fl. 1.451).
+Em suas razões, a parte alega que o Tribunal de origem analisou todas as teses da parte recorrida, pelos seguintes fundamentos (e-STJ fls. 1.464/1.467):
+27. Por essas razões, vê-se que inexiste a omissão do TJCE sobre o traslado do testamento de fls. 14/15 (e-STJ), que aparece com a assinatura do tabelião, e que, mesmo que houvesse referida omissão, apenas por amor ao debate, não seria capaz de alterar substancialmente o resultado do acórdão da Corte local, tendo em vista a determinação do Poder Judiciário, acatando manifestação do Ministério Público, para se instaurar procedimento criminal em favor da apuração de possíveis crimes de falsidade de documento público e fraude processual pelo ora agravado (Benedito Arruda Carneiro).
+ ..
+29. Inexiste também a omissão ora apontada, a que foi levada a erro pelo agravado o Ministro Relator e, ainda que se aceitasse, não teria a força de infirmar o resultado do julgado pelo TJCE.
+ ..
+34. Ad argumentandum tantum, mesmo que se tratasse de omissão (que não fora pelas razões expostas), pode-se afirmar induvidosamente que uma análise desta questão não teria a força de mudança substancial do acórdão do TJCE, que somente se propôs a examinar a possibilidade ou não do cumprimento do testamento público de Domingos Arruda Carneiro.
+ ..
+35. Por fim, inexiste também omissão sobre a possibilidade de conversão do testamento público em particular, à luz do disposto no art. 170 do CC/2002.Primeiro, como se expôs, apenas devolveu-se ao Tribunal local análise estrita, em procedimento de jurisdição voluntária, de caráter administrativo, sem partes e lide, dos requisitos extrínsecos do pedido de cumprimento de testamento público, os quais não foram atendidos e, por conseguinte, o Poder Judiciário não exarou o "cumpra-se", enviando-o para o arquivo.
+ ..
+39. Como reforço argumentativo, seria verdadeiro contrassenso à ordem jurídica o TJCE apreciar a possibilidade de converter tal negócio jurídico em outro válido (art. 170/CC2002), tendo decidido por não cumprir o testamento, enviando-o para o arquivo, e reforçado a decisão do Ministério Público para, em procedimento criminal, investigar a prática dos possíveis delitos de falsificação de documento público e fraude processual, que ensejam real insegurança jurídica ao ato testamentário, pondo em direta dúvida a livre vontade do testador.
+40. Portanto, a questão posta não só inexiste como omissão, como, se apreciada fosse, pela linha decisória do acórdão, não teria força para infirmar o resultado do julgamento no TJCE. Confira-se trecho do acórdão da Corte estadual - e-STJ fl. 708:
+Assim, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Impugnação apresentada às fls. 1.473/1.480 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUCESSÕES. CUMPRIMENTO DE TESTAMENTO PÚBLICO. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÕES CONFIGURADAS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.449/1.452):
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 697):
+APELAÇÃO CÍVEL. SUCESSÕES. PEDIDO DE REGISTRO E CUMPRIMENTO DE TESTAMENTO PÚBLICO. COGNIÇÃO QUE SE LIMITA À ANÁLISE DE REQUISITOS EXTRÍNSECOS DE VALIDADE DO TESTAMENTO. INVIABILIDADE DE ANÁLISE DE ALEGADOS VÍCIOS RELATIVOS AO CONTEÚDO DO TESTAMENTO E DA CAPACIDADE E VONTADE DO TESTADOR. QUESTÃO QUE DESAFIA O AJUIZAMENTO DE AÇÃO PRÓPRIA NAS VIAS ORDINÁRIAS. REQUISITO DO INCISO III, ARTIGO 1.864 DO CC/002. FALTA DE ASSINATURA DO TABELIÃO NO TESTAMENTO. APRESENTAÇÃO DO MESMO TESTAMENTO COM NOVAS ASSINATURAS. ENSEJO À INVESTIGAÇÃO POLICIAL. POSSÍVEIS CRIMES DE FALSIDADE DOCUMENTAL E FRAUDE PROCESSUAL. INSEGURANÇA JURÍDICA. IMPOSSIBILIDADE DE FLEXIBILIDADE DO SISTEMA DE NULIDADES QUANTO À FALTA DE ASSINATURA DO TABELIÃO. TESTAMENTO INVÁLIDO. IMPOSSIBILIDADE DE EXARAR O "CUMPRA-SE". SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 978/990).
+Em suas razões (e-STJ fls. 712/733), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 535 do CPC/1973, tendo em vista os seguintes vícios:
+1) "a primeira contradição e, bem assim correlata omissão dos julgadores pode ser constada na fl. 698, item quatro, onde é feita a referência ao documento acostado às fls. 57, que sequer faz parte da inicial, pois a inicial trouxe para registro e cumprimento o documento de fls. 14 a 16 e, sobre este não houve, por parte da culta relatoria, nenhuma alusão, configurada neste ponto a omissão" (e-STJ fl. 717),
+2) "se mostrava imprescindível o ajuizamento de ação específica de anulação do testamento, porque o testamento existe e dele constando a assinatura do Tabelião e presente todos os demais pressupostos destacados em lei, contudo, se cré o decisor em possível situação de fraude ou de simulação e, pior, em prejuízo do testador, não pode decretar de ofício esta suposta fraude, sem o devido processo legal, exatamente porque a regra é a da prevalência da vontade do testador, salvo que, em ação própria o testamento venha a ser anulado e será anulado, com prazo prescritivo que só pode começar a correr depois de registrado judicialmente o testamento" (e-STJ fl. 718), e
+3) "não cuidou o acórdão que, acaso tratasse o testamento de um documento particular, de igual forma seria dispensável a assinatura do Tabelião, de sorte que, sendo indiscutível que o testamento foi corretamente lavrado, faltando apenas a assinatura do Tabelião, na via de seus arquivos, meramente internos, então não haveria óbice algum para própria conversão do negócio público em particular, tal qual prevê o disposto no artigo 170 do CCB, na medida em que todas as demais formalidades foram cumpridas, como a assinatura do testador e das testemunhas" (e-STJ fl. 724),
+(ii) arts. 170, 1.125, 1.126 e 1.864, III, do CC/2002, pois "a vontade do testador deve prevalecer sobre o defeito de forma pertinente à falta de assinatura do Tabelião, pois esta falha não tem o condão de invalidar a vontade do testador, que pode e deve perfeitamente subsistir a despeito deste vício formal" (e-STJ fl. 728).
+Contrarrazões apresentadas às fls. 754/843 (e-STJ).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve a omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitada pela parte, quais sejam:
+(i) Por qual motivo não foi considerado o traslado de testamento apresentado para registro de fls. 14/16 (e-STJ fls. 14/15), "cuja cédula testamentária foi apresentada em original, papel especial e com as declarações e assinatura do Tabelião" (e-STJ fl. 967). "O traslado do testamento apresentado para registro e cumprimento com a inicial pelo autor tem algum vício de forma " (e-STJ fl. 967),
+(ii) Necessidade de ação específica anulatória, "porque testamento existe e dele constando a assinatura do Tabelião e presentes todos os demais pressupostos destacados em lei, contudo, se crê o decisor em possível situação de fraude ou de simulação e, pior, em prejuízo do testador, não pode decretar de ofício esta suposta fraude, sem o devido processo legal, exatamente porque a regra é a da prevalência da vontade do testador, salvo que, em ação própria o testamento venha a ser anulado e será anulado, com prazo prescritivo que só pode começar a correr depois de registrado judicialmente o testamento" (e-STJ fls. 967/968), e
+(iii) "faltando apenas a assinatura do Tabelião, na via de seus arquivos, meramente internos, então não haveria óbice algum para própria conversão do negócio público em particular, tal qual prevê o disposto no artigo 170 do CCB, na medida em que todas as demais formalidades foram cumpridas, com a assinatura do testador e das testemunhas" (e-STJ fl. 973).
+Em suma, não se manifestou a Corte estadual a respeito (i) dos motivos pelo qual foi desconsiderado o traslado do testamento de fls. 14/16 (e-STJ fls. 14/15), (ii) da necessidade de ação anulatória específica, com prazo prescricional que se inicia com o registro do testamento, e (iii) da possibilidade de conversão do instrumento público em particular, nos termos do art. 170 do CC/2002.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a pontos relevantes, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Nesse sentido, a título de exemplificação, os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. AÇÃO DE RESOLUÇÃO DE COMPROMISSO DE COMPRA E VENDA. AÇÃO FUNDADA EM DIREITO PESSOAL. COMPETÊNCIA NÃO ANALISADA CORRETAMENTE. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022, II, DO CPC/15. OMISSÃO VERIFICADA.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Se a Corte de origem deixou de examinar alegação do agravado que pode alterar substancialmente o resultado do julgamento, evidencia-se a violação ao art. 1.022 do Código de Processo Civil, sendo necessário o retorno do autos para que o Tribunal estadual supra a omissão.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt nos EDcl no AREsp 1512050/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ANTERIOR. TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. INOVAÇÃO RECURSAL. NÃO CABIMENTO. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Incabível o exame de tese não exposta nas contrarrazões do recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1818817/RS, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021.)
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame das omissões apontadas.
+Publique-se e intimem-se.
+Com efeito, a Corte de origem, apesar de instada a se pronunciar em sede de embargos de declaração, manteve-se omissa em relação aos motivos pelos quais desconsiderou o traslado do testamento de fls. 14/16 (e-STJ fls. 14/15), à necessidade de ação anulatória específica e à possibilidade de conversão do instrumentopúblico em particular, nos termos do art. 170 do CC/2002.
+Se há pertinência jurídica quanto às teses, esta Corte Superior somente pode apreciar amatéria após expressamente analisadapelo Tribunala quo, inclusive em razão da necessidade deprequestionamento.
+Constatadas, portanto, as omissões do Colegiado estadual, era imprescindível o provimento do especial, com retorno dos autos à origem, para que o TJCE se manifeste sobre ospontos omitidos.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
