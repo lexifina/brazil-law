@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de GISELA ALVES DE CARVALHOem face de decisão proferida noTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 5003894-83.2020.4.04.7004/PR.
+Consta dos autos que aagravante foi condenadapela prática do delito tipificado no art. 334 do Código Penal - CP (descaminho), à pena de 01 ano, 04 meses e 15 dias de reclusão, em regime inicial semiaberto, além da inabilitação do direito de dirigir(fl. 179).
+Recurso de apelação interposto pela Defesa foi desprovido (fl. 284). O acórdão ficou assim ementado:
+PENAL. PROCESSO PENAL. ART. 334, CAPUT, DO CÓDIGO PENAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADEDELITIVA. AFASTADO. PAGAMENTO DOS TRIBUTOS E/OUPERDIMENTO DA MERCADORIA. EXTINÇÃO DA PUNIBILIDADE. INCABÍVEL. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. APELAÇÃO IMPROVIDA.1 . Esta Corte Superior entende incabível a aplicação do princípio da insignificância quando constatada a habitualidade delitiva nos crimes de descaminho, configurada tanto pela multiplicidade de procedimentos administrativos quanto por ações penais ou inquéritos policiais em curso. 2. Agravo regimental desprovido. (AgRg no REsp 1821514/RS, Rel. Ministro JOELILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019).2. O delito previsto no art. 334 do Código Penal é instantâneo, sendo suficiente para sua caracterização a mera entrada no país sem a documentação comprobatória da regularidade da operação, e o procedimento administrativo-fiscal adotado pela autoridade aduaneira é independente da esfera penal, de modo que, o pagamento do tributo iludido ou o perdimento das mercadorias, não conduz à extinção da punibilidade no delito dedescaminho.3 Devidamente comprovada a materialidade e a autoria delitiva, bem assim o dolo do agente, sendo os fatos típicos, antijurídicos e culpáveis, e inexistindo causas excludentes, resta evidenciada a prática do delito tipificado no artigo 334, caput, do Código Penal.4. Apelação improvida (fl. 285).
+Embargos de declaração opostos pelo Defesa foram rejeitados (fl. 313). O acórdão ficou assim ementado:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA DE SEUS PRESSUPOSTOS LEGAIS. INOVAÇÃO. PRECLUSÃO. PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃOREJEITADOS.1. Cabem embargos de declaração quando na decisão prolatada houver obscuridade, contradição, omissão ou, por construção pretoriana integrativa, erro material. Também não são cognoscíveis os embargos quando veiculados argumentos não levantados oportunamente nas razões de apelo, em razão da inovação recursal e da preclusão da matéria. 2. A tese invocada nos embargos não foi suscitada pela defesa quando de suas razões de apelação, constituindo-se, assim, em inovação na matéria submetida ao julgamento pelo órgão julgador. 3. É dispensável que o julgado se refira expressamente a todos os dispositivos legais e/ou constitucionais invocados pelas partes, bastando, para tal fim, o exame da matéria reputada pertinente, em obséquio ao princípio da livre convicção motivada. Nesse sentido: STF, AgR na AI 760095, 2ª Turma, Rel. Ministra Ellen Gracie, DJe 10-9-2010; e STJ, AgRg no REsp 1318586, 6ªTurma, Ministro Sebastião Reis Júnior, DJe 3-2-2016; AgRg nos EDcl no REsp1540866, 2ª Turma, Rel. Ministro Mauro Campbell Marques, DJe 12-2-2016. 4. Embargos de declaração rejeitados (fl. 314).
+Em sede de recurso especial (fls. 323/330), a Defesa apontou violação aosarts. 11, 1022, parágrafoúnico, II e 489, § 1º, IV, todos do CPC/2015, sustentando a ocorrência de omissão do julgado, porquanto não apreciado o pedido referente à inviabilidade da cassação do direito de dirigir.
+Contrarrazões doMINISTÉRIO PÚBLICO FEDERAL (fls. 341/354).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 283 do SUPREMO TRIBUNAL FEDERAL - STF (fls. 357/358).
+Em agravo em recurso especial, a Defesa impugnou oreferidoóbice(fls. 365/370).
+Contraminuta do MP (fls. 376/383).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do recurso especial (fls. 396/400).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Acerca do ponto supostamente omisso, oTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOconsignou o seguinte (fl. 311):
+"Relativamente ao tema acima suscitado, observa-se que não se trata de hipótese de omissão, contradição ou obscuridade no acórdão, porquanto a referida tese invocada no embargos não foi suscitada pela defesa quando de suas razões de apelação, constituindo-se em inovação na matéria submetida ao julgamento pelo órgão julgador."
+Atesedefensivareferenteao afastamento da inabilitação para dirigir veículonão constou nas razões do recurso de apelação, sendo ventiladas apenas na oposição dos embargos de declaração, o que impediu a manifestação da instância ordinária, pois configurada indevida inovação recursal. Assim, não há falar em omissão do julgado.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 1º, I, DA LEI N. 8.137/90. SONEGAÇÃO FISCAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRESTAÇÃO PECUNIÁRIA DECORRENTE DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. VIOLAÇÃO AOS ARTIGOS 44 e 45, AMBOS DO CÓDIGO PENAL - CP. 1) TRIBUNAL DE JUSTIÇA QUE REDUZ A PENA PRIVATIVA DE LIBERDADE MAS NÃO REDUZ A PENA DE PRESTAÇÃO PECUNIÁRIA. PROPORCIONALIDADE NÃO EXIGIDA. 2) NÃO CONSIDERAÇÃO DA CAPACIDADE ECONÔMICA. AUSÊNCIA DE PREQUESTIONAMENTO. 3) AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2.1. No caso em tela, a tese defensiva de inobservância da capacidade econômica para imposição da pena de prestação pecuniária não foi analisada porque configurou indevida inovação recursal, eis que não constou do recurso de apelação e foi suscitada apenas em embargos de declaração.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1466392/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA,DJe 19/12/2019).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PECULATO-FURTO. EMBARGOS DECLARATÓRIOS OPOSTOS CONTRA O APELO DEFENSIVO. AUSÊNCIA DE INTIMAÇÃO PARA O JULGAMENTO DOS EMBARGOS DECLARATÓRIOS. PREQUESTIONAMENTO. NECESSIDADE. ENUNCIADOS N. 282 E 356/STF.
+(..)
+VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. EIVA INEXISTENTE. ACÓRDÃO ESTADUAL QUE DECIDIU A QUESTÃO DE FORMA FUNDAMENTADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. No Recurso Especial, a parte pretende a declaração de nulidade do acórdão recorrido por ofensa ao art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado em relação às omissões apontadas pela agravante.
+2. Nos termos do entendimento consolidado nesta Corte, não é admissível a inovação de tese recursal nos embargos declaratórios opostos contra decisão proferida na apelação, o que afasta a alegação de afronta ao art. 619 do Código de Processo Penal.
+(..)
+2. Agravo regimental improvido.
+(AgRg no AREsp 696.540/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 24/08/2018).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
