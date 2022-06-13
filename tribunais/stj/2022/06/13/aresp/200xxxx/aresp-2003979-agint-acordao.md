@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência que não conheceu do Agravo em Recurso Especial da parte ora agravante por aplicação da Súmula 182/STJ (fls. 451-452, e-STJ).
+A insurgente requer a reforma da decisão anterior (fls. 456-459, e-STJ).
+Contrarrazões presentes (fls. 462-467, e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. PIS E COFINS. ZONA FRANCA DE MANAUS. VENDAS DE PRODUTOS. DESTINATÁRIOS. PESSOAS FÍSICAS OU JURÍDICAS.
+1. Apesar do que consignou a decisão monocrática da Presidência, o Agravo em Recurso Especial contém capítulo exclusivo que impugna a incidência da Súmula 83/STJ, no qual se assevera reiteradamente que "os precedentes indicados não têm o condão de caracterizar jurisprudência contrária à pretensão recursal", bem como que "não se pode falar que a jurisprudência é pacífica" (fls. 430-432, e-STJ). Logo, o Agravo Interno procede.
+2. Nas razões do Recurso Especial, aponta-se, em preliminar, ofensa ao art. 1.022 do CPC/2015, e, no mérito, aos arts. 2º, § 1º, da Lei 10.996/2004; 5º-A da Lei 10.637/2002; e 111 do CTN. Afirma-se, em suma, que "a lei que prevê alíquota zero tão somente sobre as receitas decorrentes de vendas de mercadorias que tenham como destinatárias pessoas jurídicas não autoriza a concessão da inexigibilidade sobre a receita das vendas destinadas a pessoas físicas" (fls. 399-403, e-STJ).
+3. A irresignação, todavia, não vinga. O acórdão recorrido está em consonância com orientação do STJ segundo a qual "o benefício fiscal conferido à Zona Franca de Manaus alcança as operações realizadas no âmbito dessa região, o que afasta a incidência do PIS e da Cofins, não havendo distinção quanto às vendas realizadas a pessoas físicas ou jurídicas" (AgInt nos EDcl no AgInt no AREsp 1.701.883/AM, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º.7.2021).
+4. Agravo Interno provido para conhecer do Agravo e não conhecer do Recurso Especial.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos ingressaram no Gabinete em 15.3.2022.
+Apesar do que consignou a decisão monocrática da Presidência, o Agravo em Recurso Especial contém capítulo exclusivo que impugna a incidência da Súmula 83/STJ, se assevera reiteradamente que "os precedentes indicados não têm o condão de caracterizar jurisprudência contrária à pretensão recursal", bem como que "não se pode falar que a jurisprudência é pacífica" (fls. 430-432, e-STJ). Logo, o Agravo Interno procede.
+Nas razões do Recurso Especial, aponta-se, em preliminar, ofensa ao art. 1.022 do CPC/2015, e, no mérito, aos arts. 2º, § 1º, da Lei 10.996/2004; 5º-A da Lei 10.637/2002; e 111 do CTN. Afirma-se, em suma, que "a lei que prevê alíquota zero tão somente sobre as receitas decorrentes de vendas de mercadorias que tenham como destinatárias pessoas jurídicas não autoriza a concessão da inexigibilidade sobre a receita das vendas destinadas a pessoas físicas" (fls. 399-403, e-STJ).
+A irresignação, todavia, não vinga.
+O acórdão recorrido está em consonância com orientação do STJ segundo a qual "o benefício fiscal conferido à Zona Franca de Manaus alcança as operações realizadas no âmbito dessa região, o que afasta a incidência do PIS e da Cofins, não havendo distinção quanto às vendas realizadas a pessoas físicas ou jurídicas" (AgInt nos EDcl no AgInt no AREsp 1.701.883/AM, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021).
+Na mesma linha, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. OPERAÇÕES DE VENDAS INTERNAS PARA PESSOAS FÍSICAS OU JURÍDICAS NA ZONA FRANCA DE MANAUS. INEXIGIBILIDADE DA CONTRIBUIÇÃO PARA O PIS E DA COFINS.
+1. "O acórdão recorrido atuou em perfeita harmonia com a pacífica orientação do Superior Tribunal de Justiça, segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alberga as operações realizadas no âmbito de tal região, afastando, nesses casos, a incidência da Contribuição do PIS e da COFINS sobre o faturamento ou receitas auferidas, não havendo que se falar em distinção quanto às vendas realizadas a pessoas físicas ou jurídicas, não contemplada na disciplina específica dessas contribuições" (AgInt no AREsp 1.601.738/AM, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14/5/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.744.673/AM, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/6/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ISENÇÃO DO PIS E DA COFINS SOBRE OPERAÇÕES ORIGINADAS DE VENDAS DE PRODUTOS PARA EMPRESAS SITUADAS NA ZONA FRANCA DE MANAUS. VENDA A PESSOAS FÍSICAS OU JURÍDICAS. ACÓRDÃO CONSONANTE COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Na presente hipótese, não se verifica a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu fundamentadamente as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Outrossim, o julgado impugnado está em conformidade com a jurisprudência do STJ, no sentido de que a venda de mercadorias para empresas situadas na Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro, em termos de efeitos fiscais, segundo interpretação do Decreto-Lei 288/1967, não incidindo a contribuição social do PIS nem da COFINS sobre tais receitas, sendo irrelevante o fato de se tratar de vendas realizadas a pessoas físicas ou jurídicas (AgInt no AREsp. 1.601.738/AM, Rel. Min. GURGEL DE FARIA, DJe 14.5.2020; AgInt no REsp. 1.881.153/AM, Rel. Min. REGINA HELENA COSTA, DJe 23.9.2020).
+3. Agravo Interno da Fazenda Nacional a que se nega provimento.
+(AgInt no AREsp 1.557.552/AM, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe 30/4/2021)
+Diante do exposto, dou provimento ao Agravo Interno para conhecer do Agravo e não conhecer do Recurso Especial.
+É como voto.
