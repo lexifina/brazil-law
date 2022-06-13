@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu parcialmente do Recurso Especial e negou-lhe provimento.
+Defende o Estado de Minas Gerais:
+O Recurso Especial foi admitido na origem, em relação à tese e ofensa ao art. 1.026, §2º do CPC (multa pela oposição de Embargos de Declaração), único capítulo da decisão ora agravada que será infirmado no presente Agravo Interno.
+(..)
+É necessário afastar a aplicação da multa imposta no julgamento dos Embargos de Declaração, já que a finalidade do recorrente, com a oposição dos Embargos, era que fosse sanadas omissões do acórdão (quanto ao índice de correção monetária a ser aplicado no caso concreto, tendo em vista o disposto no art. 1º da Lei 9494/97, bem como a jurisprudência do STF sobre o tema - TR e IPCA-E em períodos diferentes; bem como omissão a respeito da "culpa concorrente" da recorrida), inclusive para fins de prequestionamento, e pronunciamento expresso da Turma Julgadora a respeito das referidas questões.
+É o Relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA EM EMBARGOS DE DECLARAÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. NÃO DEMONSTRAÇÃO DO INTUITO DE PREQUESTIONAMENTO DE LEGISLAÇÃO FEDERAL.
+1. No que tange à imposição de multa pelo caráter protelatório dos Embargos de Declaração, o Superior Tribunal de Justiça entende que tal análise, em Recurso Especial, demanda revolvimento fático-probatório, a ensejar o óbice da Súmula 7/STJ. A propósito: AgInt nos EDcl no AREsp 1.771.282/MT, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 29.9.2021; e AgInt no REsp 1.851.731/AL, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 22.9.2021.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16 de maio de 2022.
+O Tribunal de origem consignou nos Embargos de Declaração (fls. 267-276, e-STJ):
+O que se vê das alegações produzidas pelo embargante é que entende ele que a Câmara de julgamento, à unanimidade, teria se equivocado na avaliação jurisdicional sobre o tema central que lhe foi submetido, entretanto, o que vejo é que os embargos aviados têm o único propósito de hostilizar e polemizar a decisão tal como produzida, declinando vícios que na verdade inexistem, de modo que se o embargante entende que a decisão produzida se mostra injusta, não será na via dos embargos declaratórios que obterá provimento jurisdicional colidente com aquele já manifestado, senão pela via do virtual recurso que pudesse aviar contra a decisão da turma julgadora, sendo oportuno lembrar a firme posição do Superior Tribunal de Justiça sobre idêntico tema:
+(..)
+Neste contexto, os embargos são manifestamente improcedentes e necessariamente protelatórios, buscando o que efetivamente não lhe seria lícito na via recursal, o que, aliás, tem sido uma constante neste Tribunal diante da leniência com que a norma jurídica vem tratando a hipótese da multa processual, que no caso em tela, deve ser aplicada como meio de contenção da ilícita ação processual buscada já que os embargos declaratórios não tem por escopo a modificação do julgado se não o seu aclaramento, expondo, portanto, as condições declinadas pelo art. 1026, § 2º, do Novo Código de Processo Civil.
+A irresignação não merece acolhida. No que tange à imposição de multa pelo caráter protelatório dos Embargos de Declaração, esta Corte entende que tal análise, em Recurso Especial, demanda revolvimento fático-probatório, a ensejar o óbice da Súmula 7/STJ. A propósito, AgInt nos EDcl no AREsp 1.771.282/MT, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 29.9.2021; e AgInt no REsp 1.851.731/AL, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 22.9.2021.
+Sabe-se que decisão contrária ao interesse da parte não equivale a decisão omissa para fins de oposição de Embargos de Declaração. Nesse panorama é que foi imposta a multa, diante dos termos do art. 1.026, § 2º, do CPC. (AgInt no AREsp 1951180/ES, Rel. Min. Francisco Falcão, Segunda Turma, DJe 1º.12.2021.)
+Ademais, embargar para prequestionar sem a presença de omissão, contradição ou obscuridade é manobra considerada procrastinatória. Embora a agravante tenha alegado que os Embargos eram desprovidos de intuito procrastinatório, não comprovou tal assertiva. Ela informa no seu recurso que "os Embargos interpostos pelo Estado não foram procrastinatórios, haja vista que apenas visaram a (i) esclarecer o ponto da culpa concorrente da Recorrida, questão que não foi considerada no julgamento da apelação e (ii) adequar o julgado à decisão proferida pelo Egrégio Supremo Tribunal Federal sobre a correta aplicação da Lei nº 11.960/09.". Contudo, não aponta possíveis dispositivos de lei federal tidos por não prequestionados.
+Por todo o exposto, nego provimento ao Agravo Interno.
+É como voto.
