@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Piracicabacontra decisão do Tribunal de Justiça do Estado de São Paulo, quenegou seguimento parcial e inadmitiu o apelo nobre com base nos seguintes fundamentos:(I)consonância do acórdão recorrido com o exposto noTema 132/STJ; e(II)aplicação da Súmula 7/STJ quanto à alegaçãoremanescente, relativa ao art. 166 do CTN.
+Nas razões do agravo interno, a parte sustenta que:(I)o acórdão recorrido foi omisso; e(II)"para aferir a aplicabilidade dos dispositivos legais apontados como violados, será necessário ao julgador compulsar os autos, tão somente para se constatar a inexistência de perícia ou cálculos do excesso de execução pela inclusão do ICMS na base de cálculo da COFINS. Ora, ainda que tal cotejo seja necessário, é fato que está longe de contrariar o disposto na Súmula nº 7 do Superior Tribunal de Justiça" (fl. 503). Reitera, quanto ao mais, as razões pelas quais entende que o acórdão recorrido comporta reforma.
+Contraminuta ao agravo às fls. 5.750/5.764.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a aplicação da Súmula 7/STJ.
+Com efeito, apesar de afirmar, genericamente, que"a interposição do recurso especial não rediscute o conjunto probatório (Súmula STF n. 279 e Súmula 07 do STJ)" (fl. 5.742), a parte não apontou, de modo específico, os motivos pelos quais, no seu entender, o óbice seria inaplicável ao caso, limitando-se a sintetizar e reeditar argumentos já expostos no apelo nobre.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar osEAREsp 701.404/SCe osEAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Além disso, no que concerne à consonância do caso a precedentes firmados em recurso repetitivo do STJ e em repercussão geral do STF, de se destacar que, nos termos de pacífica jurisprudência do STJ, o único recurso cabível contra essa parte da decisão é o agravo interno no âmbito da instância originária. Assim, também por esse motivo, impassível de conhecimento o presente recurso.
+ANTE O EXPOSTO,não conheço do agravo.
+Publique-se.
