@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que COMPANHIA AGROPECUÁRIA SANTA FÉ (SANTA FÉ) promoveu ação de cobrança contra SOCIEDADE ADMINISTRADORA E GESTÃO PATRIMONIAL LTDA., atual denominação de UNIÃO DAS INSTITUIÇÕES EDUCACIONAIS DO ESTADO DE SÃO PAULO - UNIESP (UNIESP).
+Na fase do cumprimento de sentença, o d. Juízo de primeira instância rejeitou as alegações da executada para suspensão da execução, acolhendo o pedido de inclusão no polo passivo.
+Contra essa decisão interlocutória, UNIESP interpôs agravo de instrumento sustentando a necessidade da instauração de incidente de desconsideração da personalidade jurídica, bem como a inexistência de sucessão empresarial e a ausência de fundamentação.
+O Tribunal de Justiça de São Paulo não proveu o recurso, nos termos do v. acórdão da DesembargadoraBERENICE MARCONDES CESAR, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. INCLUSÃO DA RÉ UNIESPS/A NO POLO PASSIVO. Manutenção. Celebração de Termo de Ajustamento de Conduta -TAC em que a Ré UNIESP tornou-se responsável pelas dívidas de suas mantenedoras, incluindo a Faculdade de Taquaritinga. FALTA DE FUNDAMENTAÇÃO. Não ocorrência. RECURSO DA RÉ NÃO PROVIDO (e-STJ, fl. 169)
+Os embargos de declaração opostos pela UNIESP foram rejeitados (e-STJ, fls. 186/195).
+Inconformada, UNIESP interpôs recurso especial, com fundamento no art. 105, III, alínea a, da CF, alegando violação dos arts. 11, 133, 134 e 489 do NCPC; 1.146 do CC/2002 e 93 da CF.
+O apelo nobre não foi admitido na origem em virtude de (1) que a assertiva de ofensa a dispositivos constitucionais não serve de suporte à interposição de recurso especial; (2) não demonstração da vulneração do dispositivo arrolado; e (3) incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude da incidência das Súmulas nºs 284 do STF e 7 do STJ, bem como ser incabível recurso especial quando visa discutir violação de norma constitucional.
+Ainda inconformada, UNIESP manejou agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de indicação do permissivo constitucional autorizador da interposição recursal inviabiliza o conhecimento do recurso especial, atraindo a aplicação da Súmula nº 284 do Supremo Tribunal Federal, por aplicação analógica.
+3 A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A alegada afronta a lei federal não foi demonstrada com clareza, pois a ausência dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+5. Agravo interno não provido (e-STJ, fls. 289/290 - com destaque no original).
+Nas razões dos presentes embargos de declaração, UNIESP, repisando os argumentos trazidos nas razões do agravo interno, alegou (1) não incidência da Súmula nº 284 do STF, pois houve a específica impugnação de todos os artigos da lei federal violados; e(2) inaplicabilidade da Súmula nº 7 do STJ, por não haver necessidade do reexame fático-probatório.
+Houve impugnação ao recurso (e-STJ, fls. 308/311).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da incidência das Súmulas nºs 284 do STF e 7 do STJ.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído pela incidência das Súmulas nºs 284 do STF e 7 do STJ.
+Ficou explicitado quenão houve a indicação do permissivo constitucional autorizador do recurso especial, devendo incidir a Súmula nº 284 do STF. Assim, a ausência de indicação do permissivo constitucional autorizador da interposição recursal inviabiliza o conhecimento do recurso especial, atraindo a aplicação da Súmula nº 284 do STF, por aplicação analógica.
+Salientou-seque, em relação a alegada violação dos arts. 133, § 1º, e 134, § 4º, do NCPC, no que tange à necessidade de instauração de incidente de desconsideração da personalidade jurídica e do art. 1.146 do CC/2002, relativo aausência dos elementos aptos a caracterizar a sucessão empresarial, o v. acórdão concluiu que resta evidente que a Executada UNIESP S.A, através do referido Termo de Ajustamento de Conduta, tornou-se sucessora empresarial das mantenedoras ali indicadas, pertencentes ao Grupo UNIESP, consoante se vê dos seguintes trechos:
+Assim, resta evidente que a Executada UNIESP S.A, através do referido Termo de Ajustamento de Conduta, tornou-se sucessora empresarial das mantenedoras ali indicadas, pertencentes ao Grupo UNIESP.
+Diante do que consta do termo expresso firmado com os órgãos públicos supracitados (§3º Para todos os fins legais, inclusive trabalhistas e tributários, a UNIESP S/A é a sucessora de todas as mantenedoras informadas nos termos do §1º) deve a Agravante responder de forma solidária com a Executada pelos débitos originados da locação do campus da Faculdade de Taquaritinga.
+Ressalta-se a existência de precedente prolatado pela 30ª Câmara de Direito Privado deste Tribunal de Justiça em caso idêntico, reconhecendo a sucessão pela UNIESP S/A (julgado constante da r. decisão ora agravada).
+Desta forma, resta prejudicada a análise da necessidade de instauração do incidente de desconsideração da personalidade jurídica, desnecessário uma vez que a UNIESP S/A sequer consta como sócia da Executada, bem como assumiu contratualmente a responsabilidade almejada pela Exequente (e-STJ, fls. 175/176).
+Ressaltou-se, ainda, que a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+Destacou-se, também, que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou os dispositivos de lei federal, devendo incidir a Súmula nº 284 do STF.
+Assim, diante da deficiência na fundamentação, aplica-se à hipótese o teor da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificado o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno UNIESP ao pagamento da multa de 2% sobre o valor atualizado da causaem favor de SANTA FÉ, nos termos do art. 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbenciais, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
