@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por POSTO REI DO LAGO LTDA. e OUTRO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CHEQUE. FRAUDADO (MOTIVO 35). ALEGAÇÃO DE ILICITUDE AO TÍTULO E AO DÉBITO QUE ESPELHA. VÍCIOS NA CÁRTULA. NÃO VERIFICADOS. LAUDO PERICIAL. CHEQUE ENTREGUE EM BRANCO. PLEITO DE NOVA PERÍCIA. DESACOLHIMENTO. 1. Ainda que seja apurada rasura na cártula, a mesma não irá desnaturar a obrigação constante, vez que os réus apesar de impugnar o valor do título não comprovou fato impeditivo ou modificativo do direito do autor e a assinatura foi autêntica em perícia técnica. 2. Restou comprovado em perícia grafotécnica que a assinatura do emitente foi oposta após o preenchimento do cheque. 3. Ao teor da Súmula 387 do Supremo Tribunal Federal "A cambial emitida e aceita com omissões, ou em branco, pode ser completada pelo credor de boa-fé, antes da cobrança ou do protesto." Logo, o preenchimento posterior dos cheques por terceiro, como na situação dos autos, mostra irrelevante. 4. Considerando que o laudo pericial e seu aditivo foram bastante robustos em afirmar que a cártula em contenda foi devidamente assinada pelo emitente, bem como tal fato ter se dado sobre o valor datilografado, demonstrando que o emitente estava ciente do que assinou, indefere-se pleito de nova perícia sobre a cártula, porquanto, evidente o seu caráter protelatório. 5. Restando sucumbentes os apelantes, também nesta instância recursal, majoro a verba honorária, arbitrada na origem em seus desproveitos, de 10% (dez por cento) para 12% (doze por cento), sobre o valor atualizado da causa. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA" (fl. 479, e-STJ).
+No especial, os recorrentes apontam violação dos arts. 464 e 489, I, II, IV, V, VI, do Código de Processo Civil de 2015, argumentando, em síntese:
+(i) que "a Corte local foi contraria prova dos autos, não sendo clara ao expor as razões pelas quais o pleito da parte recorrente não poderia ser acolhido, considerando que as questões pertinentes ao litígio não foram dirimidas mediante pronunciamento claro e fundamentado com a prova dos autos" (fl. 495, e-STJ); e
+(ii) que houve fraude do cheque, conforme demonstrado no laudo pericial, não sendo possível a cobrança do débito por meio da ação monitória, porquanto baseada em prova escrita adulterada.
+Apresentadas contrarrazões às fls. 511/515 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+In casu, o contraditório está adstrito à nulidade do título prescrito que aparelha a pretensão, já que, segundo afirmado na peça de defesa, a cártula fora devolvida pela instituição financeira por conter vícios inerentes à certeza de sua emissão, tais como rasura na datação e posterior preenchimento do título.
+Sob essa realidade processual, a questão fora dirimida pelo perito grafotécnico indicado pelo judiciário, cujo laudo comprovou ter sido o cheque assinado pelo réu, apesar de indicar que houve rasura no campo da data. Assim descrito no laudo (movimento 51, fl. 13 do 1º arquivo):
+(..)
+Ocorre que, apesar da possível rasura, fora atestado que o réu assinou o cheque (fl. 23):
+(..)
+Já em aditivo ao laudo (movimento 98, fl. 3), o perito confirmou que a assinatura oposta pelo emitente ocorreu após o preenchimento do título. In letteris:
+(..)
+Dessarte, a suposta rasura em nada impede a leitura dos dados indispensáveis ao cheque (artigo1º, Lei nº 7.357/1985) ou interfere a sua utilização, vez que restou demonstrado a assinatura do documento após a valoração do título. Assim, não há falar em invalidade do título, conforme pretende o apelante.
+(..)
+Sendo assim, considerando que a parte autora acostou ao feito prova escrita da dívida, revelando-se prescindível a discussão da causa debendi, já que o cheque possui natureza jurídica de título de crédito, consubstanciado em uma ordem de pagamento à vista, passível de circulação, sobre o qual recai presunção de certeza, é dos requeridos o ônus de comprovar as suas alegações feitas com o intuito de desconstituir ou modificar o título, por meio dos embargos monitórios, conforme artigo 373, inciso II, do Código de Processo Civil, o que não restou demonstrado nos autos.
+Outrossim, o preenchimento posterior dos cheques por terceiro, mostra-se irrelevante, tendo em vista o enunciado da Súmula 387 do Supremo Tribunal Federal: "A cambial emitida e aceita com omissões, ou em branco, pode ser completada pelo credor de boa-fé, antes da cobrança ou do protesto."
+(..)
+Desse modo, mesmo que seja atestada alguma alteração na data de emissão, a obrigação constante no título subsistiria.
+Quanto ao pedido subsidiário para nova perícia, insta considerar que, de igual modo, não assiste razão aos apelantes, vez que o laudo pericial e seu aditivo foram bastante robustos em afirmar que a cártula em contenda foi devidamente assinada pelo emitente, bem como tal fato ter se dado sobre o valor datilografado, ou seja, o emitente estava ciente do que assinou. Dessarte, trata-se de pedido meramente protelatório, motivo pelo qual não merece acolhida" (fls. 481/483, e-STJ - grifou-se).
+De início, não comporta conhecimento a alegada ofensa ao art. 489, I, II, IV, V, VI, do Código de Processo Civil de 2015, visto que não foram opostos embargos de declaração na origem.
+Não se pode falar em negativa de prestação jurisdicional ou que o acórdão recorrido não foi devidamente fundamentado se não foi oportunizada ao tribunal de origem a correção do vício.
+Configurada, portanto, a deficiência na fundamentação recursal quanto ao ponto, incide o óbice da Súmula nº 284/STF.
+A propósito:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATENDIMENTO HOSPITALAR. DEMORA. INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL OBJETIVA. AFASTAMENTO. DECISÃO SURPRESA. INEXISTÊNCIA. OFENSA AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ACLARATÓRIOS NA ORIGEM. SÚMULA N. 284/STF. INEXISTÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. CITAÇÃO DE PASSAGEM DE NORMATIVOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+(..)
+2. Inexistindo oposição de embargos de declaração na origem, para provocar a manifestação da Corte de origem sobre os vícios de fundamentação porventura existentes acórdão recorrido, fica obstado o conhecimento da preliminar de negativa de prestação jurisdicional (ofensa ao art. 1.022 do CPC/2015), pois tal proceder caracteriza fundamentação recursal deficiente e atrai, por analogia, a Súmula n. 284/STF.
+(..)
+10. Agravo interno a que se nega provimento" (AgInt no AgInt no AREsp n. 1.649.648/ES, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 30/11/2020).
+"CIVIL. PROCESSUAL CIVIL. ALIMENTOS. DECISÃO INTERLOCUTÓRIA QUE CONCEDE O BENEFÍCIO DA GRATUIDADE DA JUSTIÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. RECORRIBILIDADE IMEDIATA POR AGRAVO DE INSTRUMENTO. POSSIBILIDADE. CABIMENTO DO RECURSO EM FACE DE TODAS AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS EM LIQUIDAÇÃO E CUMPRIMENTO DE SENTENÇA, EXECUÇÃO E INVENTÁRIO, INDEPENDENTEMENTE DO CONTEÚDO DA DECISÃO. INCIDÊNCIA ESPECÍFICA DO ART. 1.015, PARÁGRAFO ÚNICO, DO CPC/2015. LIMITAÇÃO DE CABIMENTO DO RECURSO, PREVISTA NO ART. 1.015, CAPUT E INCISOS, QUE SOMENTE SE APLICA ÀS DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE DE CONHECIMENTO. VÍCIO DE FUNDAMENTAÇÃO DO ACÓRDÃO. OMISSÃO. NÃO OPOSIÇÃO DE ACLARATÓRIOS NA ORIGEM. QUESTÃO DEVIDAMENTE EXAMINADA A PARTIR DE PREMISSAS FÁTICO-PROBATÓRIAS IMUTÁVEIS.
+(..)
+6- Inexiste violação ao art. 489, §1º, IV, do CPC/2015, quando o alegado vício de fundamentação, se existente, caracterizaria omissão que não foi objeto de embargos de declaração opostos em face do acórdão recorrido, e quando a questão alegadamente omissa, na verdade, foi efetivamente enfrentada pelo acórdão recorrido, que se assentou em premissas fático-probatórias irretorquíveis no âmbito dos recursos de estrito direito.
+7- Recurso especial parcialmente conhecido e, nessa extensão, desprovido" (REsp n. 1.770.992/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 22/02/2019).
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COMPENSAÇÃO DE CRÉDITOS COMPROVADOS PELO RÉU. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Mediante análise do conjunto fático-probatório dos autos, tem-se que o eg. Tribunal de origem concluiu que são válidos os documentos apresentados pela ora recorrida, o que comprova o seu crédito, devendo ocorrer a compensação com os créditos reclamados na monitória pela ora recorrente. Nesse contexto, afigura-se inviável rever tal conclusão, tendo em vista o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp n. 894.524/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 14/3/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. CAUSA DEBENDI. DESNECESSIDADE. ENTENDIMENTO FIRMADO SOB O REGIME DO ART. 543-C DO CPC/73 - RESP 1.094.571/SP, REL. MINISTRO LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, JULGADO EM 04/02/2013, DJE 14/02/2013). SÚMULA 83 DO STJ. ENTENDIMENTO DA CORTE LOCAL QUANTO À VALIDADE DO TÍTULO. REEXAME. SÚMULA 7/STJ.
+1. "Para fins do art. 543-C do CPC: Em ação monitória fundada em cheque prescrito, ajuizada em face do emitente, é dispensável menção ao negócio jurídico subjacente à emissão da cártula."
+2. A convicção a que chegou o Tribunal a quo quanto à exigibilidade do título decorreu da análise do conjunto probatório. O acolhimento da pretensão recursal demandaria o reexame do mencionado suporte. Incide nesse ponto a Súmula STJ/7
+3. Agravo interno não provido" (AgInt no AREsp n. 703.885/SE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 1/3/2017).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. AÇÃO MONITÓRIA. CHEQUE ADULTERADO. VALIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática proferida pelo relator do feito no Tribunal. Princípios da economia processual e da fungibilidade.
+2. Incide a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama o reexame de provas que norteiam a demanda.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (EDcl no AREsp n. 101.987/SP, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 13/6/2014).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 12% (doze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado do recorrido, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
