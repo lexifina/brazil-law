@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte (fl. 453, e-STJ):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. AGÊNCIA NACIONALDE SAÚDE SUPLEMENTAR - ANS. RESSARCIMENTO AO SUS. ART.32 DA LEI 9.656/98. CONSTITUCIONALIDADE. ÍNDICE IVR.LEGALIDADE. ENCARGOS MORATÓRIOS.
+1. A Lei nº 9.656/98 foi promulgada com a finalidade de evitar oenriquecimento sem causa de operadoras privadas, quando seus associadosrecebem tratamento médico em instituições públicas. O valor que seriadespendido por tais empresas acaba sendo debitado dos cofres públicos,gerando prejuízos sociais imensuráveis para aqueles que têm o direitoconstitucional à saúde, mas não podem arcar com os gastos dos serviçoshospitalares privados. Nesse sentido é o artigo 32 da lei supracitada, por cujaconstitucionalidade a Corte já se manifestou.
+2. O IVR não ofende os comandos legais, na medida em quemantém o valor a ser ressarcido entre os limites estipulados no § 8º do art. 32da Lei nº 9.656/98: "os valores a serem ressarcidos não serão inferiores aospraticados pelo SUS e nem superiores aos praticados pelas operadoras deprodutos de que tratam o inciso I e o § 1ºdo art. 1ºdesta Lei". Dessarte, aforma de apuração do valor da indenização pelo IVR deve ser mantida, porqueestabelece uma conduta global e com o intuito de abarcar todas as despesasdecorrentes do atendimento pelo SUS dos pacientes das operadoras.Precedente da Turma.
+3. Em processo administrativo de ressarcimento ao SUS, os juros demora são devidos apenas após o vencimento da multa inadimplida pelodevedor, se este não interpuser recurso. No entanto, havendo interposição derecurso, hipótese em que a exigibilidade da multa resta suspensa até decisãoadministrativa definitiva, somente após este marco é que será possível aincidência de juros moratórios.
+Os Embargos de Declaração foram rejeitados (fl. 480, e-STJ).
+Nas razões do Recurso Especial, a agravante alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 1.022 do CPC; 32, §§ 3º e 4º, I e II, da Lei 9.656/1998; 61 da Lei 9.430/1996; 29, 30 e 37-A, §§ 1º e 2º, da Lei 10.522/2002; 389 e 406 do Código Civil; 5º do Decreto-Lei 1.736/1979; e 3º da Resolução ANS 46/2003. Defende:
+(..) a tese da autarquia é no sentido de que quanto à incidência de juros de mora e correção monetária, ela ocorre partir do evento originário, e não a partir da decisão final administrativa. As autoridades seguiram estritamente os procedimentos e critérios estabelecidos na lei e na resolução que disciplinam a matéria no âmbito da autarquia .
+A impontualidade, portanto, no pagamento do crédito, confere à ANS o direito da aplicação da multa e dos juros, em face da demora no cumprimento da obrigação.
+(..)
+Vale destacar que não foi a Resolução Normativa da ANS que determinou a incidência dos juros, mora e correção monetária desde a data de vencimento do crédito apurado, mas, sim, a Lei 9.430/96, artigo 61, aplicado aos créditos não tributários por força do comando do artigo 37-A, da Lei 10.522/2002, inserido pela Lei 11.941/2009.
+Com efeito, o artigo 37-A da Lei nº 10.522/2002 remeteu ao regramento instituído pela legislação específica de cada crédito a definição dos termos iniciais dos juros e da multa de mora, uma vez que estes se encontram previstos no artigo 61 da Lei nº 9.430/1996, deixando, em verdade, a cargo das normas aplicáveis a cada espécie de crédito o estabelecimento de seu vencimento.
+Contrarrazões às fls. 518-531, e-STJ.
+Decisão de inadmissibilidade do Recurso às fls. 534-541, e-STJ.
+Agravo em Recurso Especial às fls. 552-557, e-STJ.
+Contraminuta às fls. 565-579, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.4.2022.
+A irresignação não merece prosperar.
+Inicialmente, a parte sustenta que o art. 1.022 do CPC/2015 foi ofendido, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto,ante o óbice da Súmula 284/STF.
+Cito precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A alegação de afronta ao artigo 535 do CPC/73 (correspondente ao artigo 1.022 do CPC/15) se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2. Não há óbice à conversão da liquidação de sentença coletiva em ação ordinária, notadamente porque a liquidação foi frustrada em razão da superveniência de entendimento do próprio STJ, que, tendo fixado o prazo prescricional para o ajuizamento de ação coletiva em cinco anos, impediu a formação de título executivo. Embora os precedentes de reconversão de procedimento se apresentem em sentido inverso, possibilitando a alteração do procedimento ordinário em liquidação, a tese firmada sobre a temática se aplica ao caso em apreço, pelo que se tem reconhecido o entendimento dominante sobre o tema, na forma da Súmula 568 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 955.728/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 3/10/2019)
+Observo que a Corte de origemnão emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 29, 30 e 37- A da Lei 10.522/2002 e dos arts. 46 e 389 do Código Civil.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunala quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incidena espéciea Súmula 211/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA. AUSÊNCIA DE NULIDADE DE AUTO DE INFRAÇÃO. COMPETÊNCIA DO DNIT PARA APLICAR MULTAS DE TRÂNSITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA.
+1. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ).
+2. Ao persistir a omissão no acórdão recorrido, após o julgamento dos embargos de declaração, imprescindível a alegação de violação do art. 535 do Código de Processo Civil por ocasião da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.596.787/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 23/9/2016)
+No mais, o Tribunal Regional consignou:
+Por sua vez, a Resolução Normativa 338/15 da ANS, art. 42, dispõesobre o processo administrativo para apuração de infrações e aplicação desanções no âmbito da Agência Nacional de Saúde Suplementar, estabelecendoque os recursos terão efeito suspensivo, ficando suspensa a exigibilidade damulta, até o julgamento final do recurso administrativo, de modo que não háque se falar em mora.
+Dessa forma,analisando os dispositivos mencionadosconjuntamente, verifico que os juros de mora são devidos apenas após ovencimento da multa inadimplida pelo devedor, se este não interpuser recurso.
+No entanto, havendo interposição de recurso, hipótese em que a exigibilidadeda multa resta suspensa até decisão administrativa definitiva, somente apóseste marco é que será possível a incidência de juros moratórios.
+Assim, deve ser provido em parte o apelo da impetrante, a fimde afastar os juros moratórios durante o trâmite do processo administrativo emque se discutia as AIHs.
+Verifica-se que a instânciade origem dirimiu a controvérsia com base no disposto na Resolução Normativa 338/2015da ANS.
+Para efeito de admissibilidade do Recurso Especial, à luz de consolidada jurisprudência do STJ, o conceito de Lei Federal (art. 105, III, "a", da CF) compreende tanto atos normativos (de caráter geral e abstrato) produzidos pelo Congresso Nacional (lei complementar, ordinária e delegada), como medidas provisórias e decretos expedidos pelo Presidente da República. Nesse sentido: EDcl no REsp 663.562/RJ, Rel. Min. Castro Meira, Segunda Turma, DJ 7/11/2005; REsp 627.977/AL, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJ 7/12/2006; e EREsp 663.562/RJ, Rel. Min. Ari Pargendler, Corte Especial, Dj 18/2/2008.
+Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa a atos normativos secundários produzidos por autoridades administrativas, quando analisados isoladamente (sem vinculação direta ou indireta a dispositivos legais federais), tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos das autarquias, regimentos internos de Tribunais, súmulas (cf. Súmula 518/STJ) ou notas técnicas. Precedentes do STJ: REsp 88.396, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 13/8/1996; AgRg no Ag 573.274, Rel. Min. Franciulli Netto, Segunda Turma, DJ 21/2/2005; REsp 352.963, Rel. Min. Castro Meira, Segunda Turma, DJ 18/4/2005; REsp 784.378, Rel. Min. José Delgado, Primeira Turma, DJ 5/12/2005; AgRg no Ag 21.337, Rel. Min. Garcia Vieira, Primeira Turma, DJ 3/8/1992; REsp. 169.542/SP, Rel. Min. Sálvio de Figueiredo, Quarta Turma, DJ 21/9/1998; AgRg no REsp 958.207/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 3/12/2010; AgRg no REsp 1.430.240/RN, Rel. Min. Humberto Martins, Segunda Turma, DJe 26/8/2014.
+Por tudo isso,conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
