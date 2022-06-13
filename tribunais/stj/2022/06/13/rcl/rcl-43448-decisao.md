@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta pelo MUNICÍPIO DE NITERÓI, com fulcro no art. 988, II, do CPC/2015, contra decisão proferida pela 8ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiroque teria violado a autoridade de decisão desta Corte Superior firmado no julgamento do EAREsp 962.250/SP.
+O reclamante sustenta, em síntese, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública quando inexiste má-fé. A propósito, destaca ser esse o entendimento firmado pela Corte Especial doo STJ contra o qual teria havido violação de autoridade pelo juízo reclamado.
+Nesse sentido, afirma quea condenação da fazenda pública em honorários é inviável no caso em tela por força de entendimento consolidado acerca do que prevê o art. 18 da Lei 7.347/1985. Justamente nesse sentido que o Município opôs Embargos de Declaração, afinal, evidenciada a ausência de má-fé do poder público, devemos rememorar que a Corte Especial do STJ, nos Embargos de Divergência em Agravo em Recurso Especial Nº 962.250 - SP (2016/0205084-9) 3 , negou a pretensão da União de ver reconhecido o cabimento de condenação em honorários advocatícios de demandado em ação civil pública. Naquela oportunidade, o colegiado corroborouentendimento da 2ª turma (julgamento do AgInt no REsp 1.531.504), decidindo que, em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexiste má-fé, de igual sorte como ocorre com a parte autora (fls. 7 e 8e-STJ).
+Requer a procedência da Reclamação.
+É o relatório.
+Nos termos do art. 105, I, f, da CF/88, c/c o art. 187 do RISTJ, cabe reclamação da parte interessada ou do Ministério Público para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões.
+Por outro lado, o Código de Processo Civil de 2015 estabeleceu as hipóteses de cabimento de reclamação:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de enunciado de súmula vinculante e de precedente proferido em julgamento de casos repetitivos ou em incidente de assunção de competência.
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+A presente Reclamação está fundamentada no art. 105, I, f, da Constituição da República, e no art. 988, II, do CPC/2015, e tem como objetivo o reconhecimento da tese de que houve violação à autoridade de julgado do STJ (EAREsp 962.250/SP) que firmou jurisprudência no sentido de que não há falar em condenação ao pagamento de honorários advocatícios pelaparte requerida em ação civil pública quando não for demonstrada má-fé.
+Ocorre que a tese expendida não apresentaum julgado específico do STJproferido dentro do contexto dos autos sendo desrespeitado pelo Tribunal aquo. Ou seja, a pretensão da reclamação não é demonstrar a autoridade deuma decisão do STJ não sendo observada, mas sim uma divergência entre ojulgado impugnado e uma alegada orientação jurisprudencial do STJ.
+Ademais, a jurisprudência do STJ declara que a reclamação não pode ser utilizada como sucedâneo recursal, de modo que não é instrumento para dirimir divergências jurisprudenciais, mas sim para preservar a autoridade ou a competência do tribunal.
+No mesmo sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de reclamação contra decisão proferida pelos Juízes de Direito integrantes das Turmas Recursais da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, nos autos do Processo n. 71009959628. Na decisão do ministro relator do Superior Tribunal de Justiça, o pedido foi indeferido.
+II - Inicialmente se verifica que o reclamante deixou de juntar a decisão de seu processo na origem, aqui apontada como divergente de precedente do STJ.
+III - A presente reclamação se mostra totalmente descabida, a partir o entendimento firmado pela Corte Especial, no julgamento da Rcl n. 36.476/SP, em acórdão que considerou que não há coerência e lógica em se afirmar que o parágrafo 5º II do art. 988 do CPC, com a redação dada pela Lei n. 13.256/2016, veicularia uma nova hipótese de cabimento da reclamação (Rcl n. 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/2/2020, DJe 6/3/2020.
+IV - Assim, tem-se que a reclamação não tem cabimento como sucedâneo recursal, e seguindo entendimento desta Corte de que tal ação é destinada a preservar a competência do STJ ou garantir a autoridade de suas decisões, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada, não há que se dar seguimento à presente reclamação.
+V - Agravo interno improvido.
+(AgInt na Rcl n. 42.675/RS, relator Ministro Francisco Falcão, Primeira Seção, julgado em 17/5/2022, DJe de 19/5/2022.)
+RECLAMAÇÃO -AÇÃO DE COBRANÇA DE ALUGUÉIS JULGADA PARCIALMENTE PROCEDENTE EM PRIMEIRO GRAU DE JURISDIÇÃO EREFORMADA, EM PARTE, SEDE DE APELAÇÃO - GARANTIA DA AUTORIDADE DE DECISÃO PROFERIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA - INEXISTÊNCIA - INTUITO RECURSAL - INVIABILIDADE - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO.
+1. A reclamação amparada no art. 105, I, "f", da Constituição da República éremédio destinado a preservar a competência do Superior Tribunal de Justiça sempre que haja indevida usurpação por parte de outros órgãos judiciais ou para garantir a autoridade de suas decisões.
+2.O expediente jurídico não se qualifica como sucedâneo recursal, nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, tampouco é meio de uniformização jurisprudencial, eis que tais finalidades são estranhas à sua natureza, consoante adverte a jurisprudência da Segunda Seção. Precedentes.
+3. Na hipótese,não há nenhuma deliberação deste Superior Tribunal de Justiça - a envolver as partes interessadas - que possa ser objeto de proteção e garantia de sua eficácia,sendo inviável sua utilização, de maneira indevida e equivocada, como sucedâneo de recursos, em tese, cabíveis perante as instâncias ordinárias.
+4. Reclamação julgada improcedente.
+(Rcl n. 41.388/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 11/5/2022, DJe de 18/5/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NA RECLAMAÇÃO. ALEGADA CONTRARIEDADE À JURISPRUDÊNCIA DESTA CORTE. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. AGRAVO INTERNO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. Na vertente hipótese, o recorrente alega que a decisão prolatada na origem teria contrariado a jurisprudência desta Corte acerca da aplicação do instituto da decadência em demandas revisionais previdenciárias.
+2. A Reclamação, prevista no art. 105, I, f, da CF, não é a via adequada para preservar a jurisprudência do STJ, mas, sim, a autoridade de decisão tomada em caso concreto, envolvendo as partes postas no litígio do qual ela se origina, sob pena de tornar o instrumento processual mero sucedâneo recursal.
+3. É incabível a reclamação contra decisão de Turma Recursal dos Juizados Especiais Federais com a finalidade de discutir contrariedade à jurisprudência dominante ou sumulada do STJ.
+4. Dessa forma, não se revela caracterizada qualquer possibilidade de cabimento da Reclam ação, devendo ser mantida a decisão agravada que indeferiu liminarmente a presente ação, porquanto incabível para corrigir eventual incompatibilidade entre entendimento jurisprudencial desta Corte e a orientação adotada em caso concreto por Turma Recursal dos Juizados Especiais Federais.
+5. Agravo Interno do segurado a que se nega provimento.
+(AgInt na Rcl n. 31.462/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Seção, julgado em 29/3/2022, DJe de 31/3/2022.)
+Ante o exposto, nos termos do art. 330, I, c/c § 1º, I, do CPC/2015, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO.ALEGADA DIVERGÊNCIA ENTRE JULGADO RECLAMADO E ORIENTAÇÃO JURISPRUDENCIAL DO STJ. HIPÓTESE DE RECLAMAÇÃO. NÃOOCORRÊNCIA. DESOBEDIÊNCIA DE JULGADO DO STJ PARA O CASO DOS AUTOS.INEXISTÊNCIA. RECLAMAÇÃO LIMINARMENTE INDEFERIDA.
