@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MOISES DOS PRAZERES RODRIGUES, em face de acórdão proferido por esta E. Segunda Turma, de minha relatoria, cuja ementa é a seguinte:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INATACADO O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE DIALETICIDADE RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. A parte deixou de impugnar especificamente o fundamento da decisão que não conheceu do agravo em recurso especial.
+2. Inviável, pois, o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015 e do art. 259, § 2º, do RISTJ, ante o descumprimento do ônus da dialeticidade. Súmula 182/STJ. Precedentes.
+3. Agravo interno não conhecido.
+A parte embargante alegaomissão e manifesto erro de fato, sustentando que impugnou os limites da controvérsia e, por isso, não violou a Súmula 182/STJ (e-STJ fl. 497):
+01. O acórdãonão conheceu do agravo interno porque a parte embargante teria deixado de impugnar especificamente um dos fundamentos da decisão, devendo ser aplicada a Súmula nº 182/STJ.
+02. Entende o embargante que pelo principio da boa-fée da motivação dos atos judiciais que a delimitação inserida no agravo cinge-se na prevalência do principio da presunção da inocência em detrimento do principio da presunção da veracidade dos atos administrativos, tendo cumprido por conseguinte delimitado o recurso, cotejo este que deixou de ser analisado por esta Egrégia Corte, pugnando que tal erro de fato e omissão sejam corrigidos via aclaratórios.
+Ao final requer efeitos modificativos.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO. OMISSÃO INEXISTENTE. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida.
+2. O acórdão embargado consignou de forma clara e precisa que a parte não infirmou o fundamento (Súmula 182/STJ) da decisão que não conheceu do agravo em recurso especial.
+3. A análise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração prestam-se a garantir de forma plena o direito que tem o jurisdicionado a ver seus conflitos (lato sensu) apreciados pelo Poder Judiciário, direito que somente pode ser realmente satisfeito quando efetivamente garantida ao jurisdicionado a prestação jurisdicional feita por meio de decisões claras, completas, e coerentes (cf. ARRUDA ALVIM, Teresa. Embargos de Declaração  livro eletrônico : como se motiva uma decisão judicial. 3. ed. São Paulo: Revista dos Tribunais, 2018). Constituem um poderoso instrumento de colaboração no processo, permitindo um juízo plural, aberto e ponderado a partir de um diálogo que visa a um efetivo aperfeiçoamento da tutela jurisdicional (cf. MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz, MITIDIERO, Daniel. Código de Processo Civil Comentado  livro eletrônico . 4. ed. rev., atual e ampl. São Paulo: Thomson Reuters Brasil, 2018).
+Os aclaratórios são recurso de fundamentação vinculada. Seu cabimento fica adstrito à alegação específica de errores in procedendo. Ou seja, para que o recurso seja cabível, exige-se algo mais, exatamente o vício ou defeito específico (cf. FLÁVIO CHEIM, Jorge. Teoria Geral dos Recursos Cíveis  livro eletrônico . 3. ed. São Paulo: Revista dos Tribunais, 2017). Ocorre o error in procedendo (vício de atividade) quando o órgão judicante não observa as normas processuais que regulam as formas e modo de construção da decisão. De modo diverso, ocorre error in judicando (vício de juízo) quando o órgão julgador erra no conteúdo da decisão, se manifestando de modo dissonante das provas dos autos, ou valorando erroneamente, à luz do direito, os fatos considerados provados (cf. MEDINA, José Miguel Garcia. Curso de Direito Processual Civil Moderno  livro eletrônico . 4 ed. São Paulo: Revista dos Tribunais, 2018).
+Cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material (Art. 1.022 do CPC/2015).
+Decisão obscura é a decisão a que falta clareza concernente à redação da decisão, comprometendo a adequada compreensão da ideia exposta na decisão judicial. A decisão é contraditória quando encerra duas ou mais proposições ou dois ou mais enunciados inconciliáveis dentro de si. É omissa a decisão quando a apreciação do órgão jurisdicional dos fundamentos levantados pelas partes em seus arrazoados não é completa (cf. MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz, MITIDIERO, Daniel. Código de Processo Civil Comentado  livro eletrônico . 4. ed. rev., atual e ampl. São Paulo: Thomson Reuters Brasil, 2018).
+No que diz respeito àalegadaomissão e erro de fato, o julgamento deste Colegiado foi claro e preciso quanto à impossibilidade de conhecimento do agravo interno, porquanto a parte, nas razões recursais,nãoimpugnou a incidência da Súmula 182/STJ (e-STJ fls. 490/491):
+Como relatado, a Presidência desta Corte (e-STJ fls. 468/469) não conheceu do agravo porque a parte deixou de impugnar especificamente um dos fundamentos da decisão que inadmitiu o recurso especial: aplicação da Súmula 7 do Superior Tribunal de Justiça.
+Desse modo, a decisão ora combatida aplicou as disposições da Súmula 182/STJ. No presente agravo interno a parte deixou de impugnar o fundamento da decisão da Presidência desta Corte: a aplicabilidade da Súmula nº 182/STJ.
+Tal deficiência fere o princípio da dialeticidade e impede o conhecimento do agravo interno.
+Assim, aplica-se ao caso o princípio consolidado na Súmula 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+As razões do presente recurso, portanto, não foram suficientes para demonstrar o desacerto da decisão prolatada.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+Assim, não se pode imputar omissãoao julgamento desta Turma. Aanálise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+Oobjetivoe afinalidadedos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+No caso, esta Turmamanifestou-se sobre os pontos indispensáveis à solução do litígio: ausência de impugnação ao fundamento (Súmula 182/STJ) da decisão que não conheceu do agravo em recurso especial.
+Desse modo, a pretensão não deve ser acolhida, porquanto não há ovícioestampadonoart. 1.022, II, do Código de Processo Civil.
+Ante o exposto, rejeitoos embargos de declaração.
+É como voto.
