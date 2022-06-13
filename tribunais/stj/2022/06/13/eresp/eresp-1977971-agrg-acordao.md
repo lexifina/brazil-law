@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros João Otávio de Noronha e Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JUVINO LUIZ CAPELLO E OUTROS interpõem agravo regimental contra a decisão de fls. 9.313-9.315, que indeferiu liminarmente os embargos de divergência, porquanto não caracterizado o dissenso jurisprudencial, nos termos do art. 266 do RISTJ.
+Em suas razões e com o objetivo de ver processado os embargos, alega a defesa, em síntese, que a divergência ficou devidamente caracterizada e que houve equívoco na decisão impugnada, porquanto não examinou a "apontada divergência relacionada ao REsp nº 1.670.637/SP tal como exatamente foi colocada em debate, e, ainda, em face de ter deixado de enfrentar a alegada divergência relacionada à necessidade de fundamentação da decisão que determina a primeira quebra do sigilo telefônico, inclusive, mediante a técnica per relationem, em relação ao REsp nº 1.705.690/SP" (fl. 9.321).
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. QUEBRA DE SIGILO TELEFÔNICO. FUNDAMENTAÇÃO. INEXISTÊNCIA DE SIMILITUDE FÁTICA COM OS ARESTOS PARADIGMAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de similitude fática entre os arestos paradigmas e o acórdão objeto de embargos de divergência impede o seu processamento, nos termos do art. 266, § 4º, do RISTJ.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 9.313-9.315, destaques no original):
+JUVINO LUIZ CAPELLO e OUTROS opõem embargos de divergência contra acórdão proferido pela Quinta Turma desta Corte, da relatoria do Ministro Ribeiro Dantas, que negou provimento ao agravo regimental.
+Em suas razões, afirmam que a decisão embargada divergiu da proferida no REsp n. 1.670.637/SP, exarado pela Sexta Turma, na medida em considerou fundamentada decisão que "deferiu a quebra inicial do sigilo telefônico por apresentar fórmulas genéricas e mera repetição do texto de lei, assim como daquelas que deferiram a primeira, a segunda e a terceira prorrogação dessa medida, por serem uma cópia fiel da decisão primeva" (fl. 9.260).
+Requerem, diante disso, "o conhecimento e provimento do presente reclamo para, admitindo-se a divergência de entendimento entre as E. Turmas especializadas quanto ao assunto em debate, reformar a r. decisão recorrida e, por conseguinte, dar provimento ao recurso especial, a fim de reconhecer a ilegalidade da prova relativa à interceptação telefônica e anular o processo desde o seu início, em respeito ao artigo 5º da Lei nº 9.296/96" (fl. 581).
+Decido.
+Observo, ao contrário do que alegam os embargantes, que o dissídio jurisprudencial não ficou devidamente evidenciado, nos termos do art. 266 do RISTJ.
+Deveras, embora em ambos os casos (no acórdão impugnado e no paradigma) haja sido examinada a fundamentação das decisões que permitiram as interceptações telefônicas, verifica-se que no paradigma ficou devidamente esclarecido que a decisão inicial havia sido manuscrita, de forma inelegível e com um único parágrafo, de modo que foi possível deduzir trata-se de decisão despida de fundamentação (fl. 9.278), circunstância que se refletiu nos demais atos.
+Na hipótese dos autos, diferentemente do que ocorreu com o paradigma, houve decisão com fundamentação per relationem, que é aceita por esta Corte, nestes termos: "A respeito da interceptação telefônica, a decisão de fls. 87-90 (e- STJ) está adequadamente fundamentada, merecendo destaque o fato de que a técnica de fundamentação per relationem é plenamente admitida por este STJ quando exaurientes os fundamentos da manifestação processual anterior, como no presente caso" (fl. 9.178).
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Como se observa, há uma distinção entre o aresto apontado como paradigma e o proferido por esta Corte. No primeiro, a decisão inicial havia sido manuscrita, de forma inelegível e com um único parágrafo, de modo que foi possível deduzir trata-se de decisão despida de fundamentação. Já no acórdão objeto de divergência, houve a utilização de técnica per relationem.
+Registro, ainda, que em relação ao REsp n. 1.705.690/SP, é verificada a mesma situação, na medida em que no referido aresto as prorrogações foram consideradas inválidas porque inválido também seria a decisão primeva que deferiu a quebra de sigilo, nestes termos: "Diante da ausência de fundamentação casuística, em genérico decreto de quebra cabível a qualquer procedimento investigatório, é reconhecida a nulidade dessa decisão e das decisões subsequentes de prorrogação, assim como das provas derivadas, a serem aferidas pelo juiz do processo" (fl. 9.268).
+Logo, conforme firme orientação desta Corte, a ausência de similitude fática entre os arestos paradigmas e os acórdãos objeto de embargos de divergência impede o seu processamento, nos termos do art. 266, § 4º, do RISTJ.
+À vista do exposto, nego provimento ao agravo regimental.
