@@ -1,0 +1,73 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+No caso, a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de homicídio qualificado tentado, ocorrido no lar do casal e na presença do filho de 3 anos de idade, efetuado com golpes de faca no tórax e na mão da vítima. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+Denegada a ordem.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JAKSON RIBEIRO DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5008944-91.2022.8.24.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, do crime de tentativa de homicídio qualificado.
+Impetrado prévio habeas corpus na origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fls. 23/24):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DO DELITO DE HOMICÍDIO QUALIFICADO PELO MOTIVO FÚTIL, RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA E EM RAZÃO DE TER SIDO PRATICADO CONTRA MULHER (FEMINICÍDIO), NA FORMA TENTADA (ART. 121, §2º, INCISOS II, IV E VI, C/C ART. 14, INCISO II DO CÓDIGO PENAL). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INDEFERIMENTO DO PEDIDO DE REVOGAÇÃO. PREENCHIDOS OS PRESSUPOSTOS E REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS SUFICIENTES PARA SUSTENTAR A IMPUTAÇÃO FEITA AO PACIENTE. NECESSIDADE DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO, ALÉM DE ASSEGURAR A INTEGRIDADE FÍSICA DA VÍTIMA. DECISÕES DEVIDAMENTE FUNDAMENTADAS. BONS PREDICADOS QUE NÃO OBSTAM A MANUTENÇÃO DA PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR QUE NÃO FERE O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA APLICAÇÃO DE MEDIDAS CAUTELARES. PROVIDÊNCIA QUE, NA HIPÓTESE, NÃO SE MOSTRA SUFICIENTE. MANUTENÇÃO DA SEGREGAÇÃO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+1. Sempre que restarem presentes prova da materialidade e indícios de autoria, o juiz está autorizado a manter o réu segregado, para, dentre outras finalidades, assegurar a garantia da ordem pública e a conveniência da instrução (art. 312 do Código de Processo Penal).
+2. Inexiste ilegalidade na prisão quando a autoridade dita como coatora explicita suficiente e fundamentadamente as razões fáticas e jurídicas pelas quais determina ou mantém a prisão preventiva.
+3. Os predicados subjetivos do paciente não constituem óbice à manutenção da segregação cautelar, desde que presentes os requisitos da prisão preventiva.
+4. Se presentes os requisitos ensejadores do decreto preventivo, mostra-se incabível a aplicação de quaisquer das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea. Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer ao final (e-STJ fl. 10):
+a) A revogação da prisão preventiva por não se verificarem quaisquer das hipóteses do artigo 312 do Código de Processo Penal e em respeito aos princípios constitucionais, ao que determina em seu artigo 5º, LIV, LVII e LXVI;
+b) Concedida à medida pleiteada, requer a imediata expedição de alvará de soltura em favor do acusado, para que em liberdade responda o que lhe é imputado, comprometendo-se desde já a comparecer a todos os atos e convocações desse Juízo, conforme as disposições legais pertinentes;
+c) Por fim, requer a efetiva aplicação do disposto no artigo 5º, LXXVIII, da CF/88, qual seja, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação, tudo por ser medida da mais pura e lídima JUSTIÇA.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Destacou o Juízo de piso ao decretar a prisão preventiva do paciente (e-STJ fls. 29/30):
+Como se vê, para a decretação da prisão preventiva é necessária a presença de pressupostos, requisitos e condições de admissibilidade, os quais devem ser conjugados, alguns deles de forma cumulativa.
+E no caso, presentes todos os elementos que autorizam a prisão preventiva dos conduzidos, a qual se faz necessária, ante as circunstâncias dos fatos, sendo insuficientes a aplicação de medidas cautelares diversas.
+A MATERIALIDADE E OS INDÍCIOS DA AUTORIA do delito imputado está suficientemente evidenciadas nos autos, pelos depoimentos da vítima e dos policiais militares ouvidos na Delegacia de Polícia, os quais foram unânimes em afirmar categoricamente que o agente tinha a intenção de matar a vítima, a qual restou lesionada por faca no tórax e na mão, por sorte conseguindo desarmar o ofensor.
+O estado de liberdade do conduzido gera concreto PERIGO, de modo que necessária a prisão para a garantia da ordem pública e da própria vítima, a qual o indiciado tinha a intenção de matar, por suposta traição daquela, bem como, para assegurar a conveniência da instrução criminal, já que solto poderá ameaçar a vítima e as testemunhas do local dos fatos.
+A pena do feminicídio supera os 4 anos de reclusão.
+Ressalte-se que além da vítima afirmar que, caso não tivesse desarmado o indiciado e fugido, ele a teria matado, o policial Claudinei que atendeu a ocorrência foi categórico em afirmar que o conduzido lhe disse que: "chegou com a intenção de matar a vítima". Tais fatos ainda, ocorreram no lar do casal e enquanto o filho de 3 anos estava no quarto, o que caracteriza a total indiferença do indiciado quanto à sua família. (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de tentativa de homicídio qualificado, ocorrido no lar do casal e na presença do filho de 3 anos de idade, efetuado com golpes de faca no tórax e na mão da vítima.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se a indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente e seu comparsa, do qual se depreende emprego de agressão contra a vítima, o que denota sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+ ..
+4. Recurso ordinário desprovido.
+(RHC n. 70.507/BA, de minha relatoria, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. RECEPTAÇÃO. PORTE DE ARMA DE FOGO. ACÓRDÃO DE TRIBUNAL DE JUSTIÇA DENEGATÓRIO DE HABEAS CORPUS. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO AO INVÉS DE RECURSO ORDINÁRIO. ERRO GROSSEIRO. HOMENAGEM AO PRINCÍPIO DA AMPLA DEFESA. CONHECIMENTO DA SÚPLICA COMO IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ORDINÁRIO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM DENEGADA.
+ ..
+3. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, indicadores da periculosidade do paciente, que, "tripulando veículo em ocorrência de roubo e portando arma de fogo, diante da iminente abordagem policial, fugiram em alta velocidade, pelas ruas da cidade, e efetuaram disparos contra os policiais militares, abalroando outro veículo e vindo, por fim, a colidir o carro em um poste da via". O magistrado de primeiro grau destacou, ainda, "a necessidade da medida para assegurar a aplicação da lei penal e a instrução criminal, pois o indivíduo que tenta violentamente escapar da polícia não colaborará com a instrução criminal, tampouco aceitará eventual penalidade imposta", tudo a conferir lastro de legitimidade à custódia.
+4. Ordem denegada.
+(RHC n. 66.609/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/3/2016, DJe 10/3/2016, grifei.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, o recorrente praticou o crime de roubo mediante o uso de simulacro de arma de fogo, em concurso de agentes, com ameaças de morte à vítima, além de, na companhia dos corréus, ter transportado e conduzido um veículo que sabia ser objeto de outro roubo.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nos presentes autos.
+4. Recurso ordinário em habeas corpus desprovido.
+(RHC n. 58.952/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/5/2016, DJe 27/5/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. O mesmo entendimento é perfilhado por esta Corte Superior, a exemplo destes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+1. Conforme reiterada jurisprudência desta Corte Superior de Justiça, toda custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no art. 312 do Código de Processo Penal.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES. EMPREGO DE ARMA DE FOGO. SENTENÇA POSTERIOR. MANTIDOS OS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/8/2017, DJe 4/9/2017.)
+Ante o exposto, denego a ordem.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
