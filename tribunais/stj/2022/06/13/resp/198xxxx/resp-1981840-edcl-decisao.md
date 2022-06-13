@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que não conheceu de recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+Opostos embargos de declaração, a recorrente aponta vícios na decisão embargada, sustentando, resumidamente:
+Além do zelo da Embargante em citar o art. 884 do Código Civil nos Embargos de Declaração prequestionatórios, importante mencionar que tal argumentação não foi inovada pela Embargante somente nesta fase processual, até mesmo porque a fundamentação de ocorrência do enriquecimento ilícito da Embargada veio desde a petição inicial da Embargante, renovando-se em sede de apelação e de agravo interno!!
+Ainda, não é demais repisar que, após o julgamento dos Embargos de Declaração com fins prequestionatórios, ainda que o Tribunal a quo não tivesse se manifestado especificadamente sobre tal questão incorrendo em nova omissão, caso a Embargante opusesse novos embargos a fim de sanar suposta omissão, certamente seria aplicável multa à Embargante pois o Tribunal consideraria tal ato protelatório!!
+Logo, vislumbra-se que a argumentação de enriquecimento ilícito da Embargada não é nova nos autos deste processo, já tendo a Embargante alegado tal matéria nas instâncias inferiores, motivo pelo qual incorre a decisão embargada em pontual omissão, na medida em que deixou de observar tal detalhe.
+Por fim, a decisão embargada também padece de pontual omissão no que tange à ausência de fundamentação específica de alegação de violação dos demais dispositivos citados nas razões recursais da Embargante.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dosseguintes trechos da decisão:
+Gize-se, por oportuno, que a falta de exame de questão constante de normativo legal apontado pela Fazenda Nacional nos embargos de declaração não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda não é abordada pelo Sodalício, e a recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+Quanto aos demais artigos suscitados por violados, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que o parcelamento foi uma opção da agravante e que não cabe ao Poder Judiciário alterar, rever ou criar regras inéditas sobre o acordo realizado e cujas condições fixadas anuiu, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF  ..
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+Com efeito, verifica-se que a controvérsia foi apreciada com clareza e sem contradições, em decisão que examinou fundamentadamente os pontos indispensáveis ao desate da demanda, apontando as razões de convencimento, ainda que de forma desfavorável às pretensões da parte, como verificado na hipótese.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
