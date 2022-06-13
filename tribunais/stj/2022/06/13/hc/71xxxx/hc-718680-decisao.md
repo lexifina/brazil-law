@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado de acórdão assim ementado (fls. 156-157):
+HABEAS CORPUS. DELITO CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N.11.343/2006). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA.
+ALEGADA CARÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO. ILEGALIDADE EVIDENCIADA.
+MOTIVAÇÃO INIDÔNEA A SUSTENTAR A CUSTÓDIA. GARANTIA DA ORDEM PÚBLICA PAUTADA EM ABSTRAÇÕES SOBRE SUPOSTO RISCO À ORDEM PÚBLICA, POIS "EM VIRTUDE DE QUE, EM LIBERDADE, (O PACIENTE) TERIA OS MESMOS ESTÍMULOS RELACIONADOS COM O DELITO COMETIDO, QUIÇÁ MAIS FORTES PELA SENSAÇÃO DE IMPUNIDADE QUE A SOLTURA IMEDIATA LHE PROPORCIONARIA".
+AUSÊNCIA DE QUALQUER DADO CONCRETO A AMPARAR A CONCLUSÃO. FUNDAMENTO QUE PODE CALÇAR QUALQUER PRISÃO CAUTELAR.
+MANIFESTA AFRONTA À NORMA CONTIDA NO ART. 315, §2º, III, DOCP. NECESSIDADE DE REVOGAÇÃO DA PRISÃO PREVENTIVA.
+POR OUTRO VIÉS, SUBSTITUIÇÃO DO CÁRCERE POR OUTRAS MEDIDAS CAUTELARES, INCLUSIVE MONITORAMENTO ELETRÔNICO, EM RAZÃO DAS CIRCUNSTÂNCIAS FÁTICAS DO CASO. RISCO À ORDEM PÚBLICA EVIDENCIADO PELA QUANTIDADE E NOCIVIDADE DA DROGA APREENDIDA (CINCO TABLETES DEMACONHA (3.020G), UMA GARRAFA DE VIDRO, COM SUBSTÂNCIA SEMELHANTE A LANÇA PERFUME ("CHEIRINHO DE LOLÓ"), BEM COMO SETE COMPRIMIDOS DE ECSTASY (MDMA/MDA), PERMITINDO ATINGIR NÚMERO SIGNIFICATIVO DE USUÁRIOS, A DEMONSTRAR SUA PERICULOSIDADE EM RAZÃO DA HABITUALIDADE DA CONDUTAE, PORTANTO, DO RISCO DE REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA DA CONDUTA E PERICULOSIDADE DO PACIENTE.
+IMPETRAÇÃO CONHECIDA. ORDEM CONCEDIDA, EM PARTE.
+O paciente tevea prisão preventiva substituída por medidas cautelares alternativas, em decorrência dasuposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006,
+A impetrante sustenta que o paciente sofre constrangimento ilegal, em razão da ausência de fundamentação suficiente paraa aplicação da medida cautelar de recolhimentodomiciliar noturno e nos dias de folga.
+Aduz a desproporcionalidade e inadequação da medidacautelar, destacando que esta não guardaria pertinência com o caso concreto e se equipararia, materialmente, à prisão domiciliar.
+Assevera que o acusado é primário e com bons antecedentes, sendo desnecessária a medida.
+Requer, liminarmente e no mérito, seja revogada a medida cautelar de recolhimento domiciliar noturno e nos dias de folga.Subsidiariamente, seja determinada a detração do tempo de recolhimento domiciliar.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento deste habeas corpus (fls. 226-230).
+Inicialmente a matéria relativa àdetração relacionada com o recolhimento domiciliar não foi examinada pelo Tribunal de origem.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+No mais, observo que o ponto nodal da presente impetração  nulidadedo acórdão em relação àaplicação da medida cautelar de recolhimento domiciliar noturno e nos dias de folga não foi submetido àapreciação das instâncias ordinárias sob o mesmo enfoque com que deduzido nas razões destewrit, o que, contudo, não impede a concessão da ordem de habeas corpus, de ofício,se evidenciada ilegalidade flagrante.
+Da leitura do acórdão impugnado depreende-se que foram declinados os seguintes fundamentos para a fixação das medidas cautelares (fl. 163):
+Contudo, à vista do disposto no art. 282 do Código de Processo Penal, tendo havido pedido da parte nesta impetração (conforme norma contida no §2º do mesmo art. 282 do Código de Processo Penal), tendo em conta a natureza e circunstâncias concretas do crime em tese praticado (tráfico de drogas), com suposto comércio de quantidade significativa de droga de natureza diversas (cinco tabletes de maconha (3.020g), uma garrafa de vidro, com substância semelhante a lança perfume ("cheirinho de loló"), bem como sete comprimidos de ecstasy (MDMA/MDA), a evidenciar habitualidade da conduta, narcóticos estes capazes de atingir inúmeros usuários, mister se faz a imposição de medidas cautelares diversas da prisão.
+Ora, quantidade, variedade e nocividade das drogas apreendidas permite concluir pela periculosidade do paciente, a partir de dados concretos.
+Como se vê,as medidas alternativas à prisão estãofundamentadas tão somente no quantitativo das substâncias apreendidas em poder do autuado, a saber:"(cinco tabletes de maconha (3.020g), uma garrafa de vidro, com substância semelhante a lança perfume ("cheirinho de loló"), bem como sete comprimidos de ecstasy (MDMA/MDA)", de sorte que não há como justificar a constrição de liberdade antecipada do agenteem tais elementos.
+Nessa linha de intelecção, por tratar-se de elementar do tipo penal pelo qual foi preso o custodiado, não pode, por si só, a quantidade ou a variedade de drogas ser utilizada como motivo para fundamentar qualquer espécie de medida restritiva de liberdade, ainda que diversa da prisão preventiva, sem outros elementos que indiquem ou evidenciam a ligação do agente com o crime.
+Nesse contexto, e verificada a existência de constrangimento ilegal na espécie, deve ser concedida a ordem a fim de afastar as medidas cautelaresdecretadas em desfavor do paciente.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício,para afastar as medidas cautelares impostas contra o paciente, sem prejuízo de que seja decretada nova custódia, com base emfundamentaçãoconcreta.
+Comunique-se.
+Publique-se.
+Intimem-se.
