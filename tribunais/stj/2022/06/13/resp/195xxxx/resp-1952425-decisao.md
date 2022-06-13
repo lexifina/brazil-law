@@ -1,0 +1,49 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por COOPERATIVA DE NÚCLEOS HABITACIONAIS com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fl. 245):
+APELAÇÃO - RESOLUTÓRIA - Decadência - Direito à resolução que se extingue no mesmo prazo do crédito que lhe dá causa - Contagem do vencimento da última parcela - Prazo, porém, de 5 anos, de acordo com o art. 206, § 5º, I - Precedentes -- Sentença reformada - Recurso provido.
+Cuida-se na origem de ação de rescisão contratual c.c. reintegração de posse ajuizada porCOOPERATIVA DE NÚCLEOS HABITACIONAIS em desfavor deAPARECIDO FIRMINO DOS SANTOS E OUTRO.
+O juízo de primeiro grau julgou parcialmente procedente a demandada para declarar rescindido o contrato firmado entre as partes, com a perda das importâncias pagas pelos demandados, bem comodeterminar a desocupação do bem no prazo de 30 (trinta) dias,além de condenar os requeridos ao pagamento dos ônus sucumbenciais.
+Os demandadosinterpuseramrecurso de apelação.
+O Tribunal de Justiça de origem deu provimento ao recurso para reformar a sentença sob o fundamento de que o prazo para pleitear a resolução do contrato é quinquenal conformeprevisto no art.206, §5º, inciso I, do Código Civil, contado a partir do vencimento da última parcela acordadaconforme a ementa acima transcrita.
+Opostos embargos de declaração, esses restaram rejeitados nos seguintes termos (fl. 280):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO  AÇÃO DE RESOLUÇÃO DE COMPROMISSO DE VENDA E COMPRA JULGADA IMPROCEDENTE  DECADÊNCIA  ALEGAÇÃO DE INTERRUPÇÃO DO PRAZO. Embargos declaratórios em face de acórdão, proferido em sede de apelação, que reformou a sentença de procedência da ação de resolução de compromisso de venda e compra de imóvel, uma vez que houve a consumação da decadência, considerando a natureza de direito potestativo, e normas aplicáveis  Alegação de omissão e contradição acerca da interrupção do prazo  Inexistência  Ainda que não se aplique eventual interrupção ao instituto da decadência, na forma do artigo 207 do CC, tal se ato cogitaria uma única vez, não subsistindo as alegações da embargante  Pretensão a rejulgamento por via inadequada. Embargos rejeitados.
+Em suas razões de recurso especial, a recorrente alegou violação aos arts. 205 e 206, §5º, inciso I, ambos do Código Civil, uma vez que a pretensão de resoluçãodo contrato trata-se de pretensão de cunho pessoal, razão pela qual se submeteao prazo prescricional decenal descrito no art.205, do Código Civil.Acenou pela ocorrência de divergência jurisprudencial. Requereu o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+O Juízo de primeiro grau, corretamente, afastou a tese de prescrição levantada sustentando que a ação de rescisão contratual possui natureza pessoal e que, por isso, se submete ao prazo prescricional de 10 (dez) anos, nos termos do que dispõe o art.205, do Código Civil.
+De fato, a jurisprudência do Superior Tribunal de Justiça flui no sentido de queaplica-se o prazo prescricional decenal previsto no art. 205, do CC, na pretensãoenvolvendo rescisão contratual decorrentede inadimplemento.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+2. Não havendo na lei regra limitando o tempo para a decadência do direito de promover a resolução do negócio, a ação pode ser proposta enquanto não prescrita a pretensão de crédito que decorre do contrato.
+3. No caso, a pretensão veiculada é de resolução do contrato, reintegração na posse do bem imóvel litigioso e condenação da parte recorrida em perdas e danos, de modo que incide a prescrição decenal. Vencida a última parcela do preço em 10/12/2010 e tendo sido a petição inicial protocolada em 17/10/2018, é inequívoca a não ocorrência da prescrição.
+4. Agravo interno não provido.(AgInt no REsp n. 1.955.059/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO DA LEGISLAÇÃO FEDERAL VIOLADO. SÚMULA 284/STF. RESCISÃO CONTRATUAL. DECADÊNCIA. PRAZO DECENAL NÃO IMPLEMENTADO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. CONTRATO DE PROMESSA DE COMPRA E VENDA. DESCUMPRIMENTO. UTILIZAÇÃO DO BEM. TAXA DE FRUIÇÃO. FIXAÇÃO. PRESCRIÇÃO. TERMO INICIAL. PRINCÍPIO DA ACTIO NATA. DATA DA CONDENAÇÃO. INCORREÇÃO NO CÁLCULO DO VALOR. FALTA DE IMPUGNAÇÃO. SÚMULA 283/STF. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+2. O entendimento jurisprudencial vigente no STJ manifesta-se no sentido de que, nas demandas envolvendo rescisão contratual, a prescrição obedece ao prazo decenal do art. 205 do CC/2002.
+3. Concluindo o Tribunal local que a relação jurídica estabelecida entre as partes possui natureza contratual e pessoal e que o prazo prescricional decenal não foi implementado, fica o STJ impedido de rever o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+4. Em virtude de o entendimento do acórdão recorrido encontrar-se em harmonia com a jurisprudência deste Tribunal Superior, bem como pela aplicação do enunciado da Súmula 7/STJ, não é possível a apreciação da divergência jurisprudencial apontada.
+5. Segundo orientação deste Superior Tribunal, não há falar em julgamento fora dos limites da demanda quando o julgador, mediante interpretação lógico-sistemática, examina a pretensão deduzida em juízo como um todo.
+6. Atestando a instância originária, mediante análise fático-probatória, que a apreciação da ação considerou todos os pedidos incluídos na exordial, descabe a esta Corte Superior a modificação da conclusão, em virtude da incidência da Súmula 7/STJ.
+7. Aplicado o princípio da actio nata, o transcurso do lapso temporal só tem início com o inequívoco conhecimento da parte acerca do direito violado.
+8. Considerando que os fundamentos do acórdão recorrido não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+9. Reconhecido pelo Tribunal estadual que os insurgentes deixaram de impugnar a questão referente ao equívoco no cálculo da indenização por perdas e danos, ficada vedada a esta Corte a modificação da conclusão acolhida, já que esbarra na Súmula 7/STJ.
+10. Agravo interno desprovido.(AgInt no REsp n. 1.862.512/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. PRESCRIÇÃO. CADEIA DE PRESTADORES DE SERVIÇOS. CORRÉS. RESPONSABILIDADE SOLIDÁRIA. MATÉRIA DE FATO. INADIMPLEMENTO. RESOLUÇÃO DO CONTRATO. RESTITUIÇÃO DE VALORES. COMISSÃO DE CORRETAGEM. SÚMULAS NºS 5 E 7/STJ. DANOS MORAIS. OCORRÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça está sedimentada no sentido de que em demandas objetivando a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão da restituição de valores tem início após a resolução, sendo inaplicável o prazo prescricional trienal.
+3. No caso, a reforma do julgado estadual a fim de acolher a pretensão da recorrente, no sentido de que não atuou de forma conjunta na parceria comercial, demanda interpretação de cláusulas contratuais e do reexame de provas, atraindo a incidência das Súmulas nºs 5 e 7/STJ.
+4. O entendimento desta Corte Superior é de que todos os integrantes da cadeia de consumo respondem solidariamente pelos danos causados ao consumidor.
+5. Na espécie, cabível a restituição integral das parcelas pagas, incluindo a comissão de corretagem.
+6. Na hipótese, rever a conclusão do tribunal de origem para afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratual demandaria o reexame de matéria fática, procedimento inviável em recurso especial. Aplicação da Súmula nº 7/STJ.
+7. A necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Precedente.
+8. Agravo interno não provido.(AgInt no REsp n. 1.853.761/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021.)
+Ante o exposto, com arrimo no art. 932, inciso V, do Código de Processo Civil, conheço e dou provimento ao recurso especial para restabelecer a sentença de primeiro grau.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. PRESCRIÇÃO. NÃO OCORRÊNCIA.PRAZO DECENAL.
+1. A jurisprudência do Superior Tribunal de Justiça orienta-seno sentido da aplicação doprazo prescricional decenal previsto no art. 205, do CC nas pretensões decorrentes de inadimplemento contratual.
+2. RECURSO ESPECIAL CONHECIDO E PROVIDO.
