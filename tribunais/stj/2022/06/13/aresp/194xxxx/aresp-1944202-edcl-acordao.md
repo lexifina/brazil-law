@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ELECTRONIC ARTS NEDERLAND B. V. e outrascontra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+Em suas razões, as embargantes suscitam a necessidade de suspensão do processo até o julgamento do Recurso Especialn. 1.946.100/SP pela Segunda Seção deste Superior Tribunal de Justiça, assim como a análise da potencial afetação ao rito dos recursos repetitivos dosRecursos Especiais nº 1.972.534/SP, 1.972.786/SP, 1.979.206/SP e 1.971.326/SP.
+Afirmam, ainda, que "as fundamentações do v. acórdão de fls. 3017-3024 e-STJ e da r. decisão monocrática de fls. 2868-2870 e-STJ ignoram que, às fls. 2701-2706 e-STJ, as embargantes, nas próprias razões do agravo em recurso especial, evidenciaram, especificadamente, a violação dos dispositivos legais arroladose a inaplicabilidade da súmula nº 7,assim como ocorreu, mais minuciosamente ainda, nas razões do agravo interno, inclusive quanto à não incidência da súmula nº 284 do STF (fls. 2878-2884 e-STJ)" (e-STJ fls. 3032-3033).
+Defendem, por fim, que deve ser mantida a uniformidade com decisões de outros processos, nos quais esta Corte Superior conheceu do recurso interposto pelas ora embargantes.
+A parte embargada apresentou impugnação (e-STJ fls. 3042-3045).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2.º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão, contradição, obscuridade ou erro material que permitam a oposição dos aclaratórios.
+Com efeito, da leitura do acórdão embargado, verifica-se que esta Corte Superior expôs, de forma clara,fundamentada e sem proposições logicamente inconciliáveis entre si,o seu entendimento de que o agravo em recurso especial não pode ser conhecido, uma vez que a parterecorrente não impugnou especificamente os fundamentos da decisão então recorrida referentes aos óbices das Súmulas 7/STJ e 284/STF,conforme demonstram os seguintes trechos do julgado:
+"Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido peloagravantecapaz de alterar os fundamentos da decisão agravada faz subsistir incólume o entendimento nela firmado.
+Em atenção ao princípio da dialeticidade, esta Corte Superior tem manifestado reiteradamente que alegações genéricas não são suficientes para impugnar os fundamentos da decisão que inadmite recurso especial, sendo necessária argumentação específica, adequada às particularidades do caso concreto e apta a demonstrar o desacerto da decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+No caso sob apreciação, orecurso especial interposto pelas ora agravantes fora inadmitido, entre outros fundamentos, com base no entendimento do Tribunal de origem de que:
+(a) incide o óbice da Súmula 284/STF, pois, "no concernente à alegada infringência aos arts. 125, II, 355 e 373, II, do CPC,  ..  os recorrentes cingiram-se a uma mera citação, sem demonstrar, como seria de rigor, de que forma se configurou a violação" (e-STJ fl. 2689);
+(b) quanto à suposta ofensa aos artigos 82,capute § 2º, e 86,capute parágrafo único, do CPC, incide o óbice da Súmula 7/STJ, uma vez que, "observado o limite legal, a orientação judicial para o arbitramento da verba honorária advocatícia baseia-se em fatos e provas, sendo insuscetíveis de revisão pela via restrita do recurso especial" (e-STJ fls. 2690-2691).
+No entanto, da leitura das razões do agravo em recurso especial,extrai-se queas agravantes apenas expuseramalegações genéricas acerca da usurpação da competência da Corte estadual, dainaplicabilidade da Súmula 7/STJ edapossibilidade de revaloração da prova, deixando de relacionaresses temas, de maneira dialética e específica, com a necessidade de revolvimento do conjunto fático-probatório para a verificação da necessidade de revisão dos honorários advocatícios.
+De igual forma, as recorrentes nãose manifestaram acerca dos trechos do recurso especial em que supostamente teria sido demonstrada a violação dos artigos 125, inciso II, 355 e 373, inciso II, do Código de Processo Civil, de maneira a afastar concretamente a aplicação da Súmula 284/STF.
+Convém destacar, ainda, que, para viabilizar o prosseguimento do recurso interposto, a irresignação há de sertotal, objetiva e pormenorizada, isto é, todos os fundamentos da decisão de inadmissibilidade devem ser impugnados especificamente, não sendo suficiente a impugnação genérica ou parcial.
+Portanto, o agravo em recurso especial não pode ser conhecido.
+ ..
+Ademais, ressalta-se que a impugnação tardia,em sede de agravo interno, dos fundamentos apontados pela decisão de inadmissibilidade do recurso especial não é capaz de desconstituir os fundamentos da decisão monocrática ora agravada." (e-STJ fls. 3018-3022).
+Não há que se cogitar, ainda, de ofensa à uniformidade das decisões desta Corte Superior, uma vez que os pressupostos de admissibilidade recursal são aferidos na análise de cada caso concreto.
+Ademais, no tocante ao pedido de suspensão do processo, esse pleito fica prejudicado em razão do não conhecimento do agravo em recurso especial, que obstou o exame das matérias de fundo suscitadas pela agravante no recurso especial, em relação às quais recairia a alegada prejudicialidade.
+De fato, mesmo após o julgamento dorecursos especiais indicados pelas embargantes, na presente via, não será possível a aplicação ao caso datese eventualmente firmadanoparadigma, pois o agravo em recurso especial sequer foi conhecido, de forma que não se vislumbra a necessidade de sobrestamento.
+Assim, verifica-se que os presentes embargos de declaração, sem sequer identificaremcom precisãode que forma algum dos vícios previstos no art. 1.022 do CPC/2015 estaria configuradono caso concreto, em verdade, apenas traduzem inconformismo com o acórdão embargado, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado é contrário ao interesse da parte.
+Nesse contexto, tendo em vista o manifesto caráter protelatório dos embargos, aplico, com fulcro no art. 1.026, § 2º, do Código de Processo Civil de 2015, multa de 2% (doispor cento) sobre o valor atualizado da causa, advertindo-se para a possibilidade de majoração da multa, em caso de reiteração.
+Ante o exposto, rejeito os embargos de declaração e aplico multa de 2% (doispor cento) sobre o valor atualizado da causa.
+É o voto.
