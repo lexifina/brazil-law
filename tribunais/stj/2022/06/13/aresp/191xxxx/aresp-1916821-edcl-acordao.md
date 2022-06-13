@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Agravo conhecido para não conhecer do recurso especial interposto por Maria de Fatima de Jesus.
+O recurso visa reformar acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 305):
+APELAÇÃO. PRETENSAO DE REFORMA DE SENTENÇA JULGOU PROCEDENTE O PEDIDO MEDIATO. PRESSUPOSTO PROCESSUAL NEGATIVO. COISA JULGADA.
+Tríplice identidade. Elementos da ação. Configuração do pressuposto negativo. Objeto da ação. Condenação da SPPREV ao pagamento de diferenças de pensão por morte, na ordem de 92% dos vencimentos do falecido, desde a instituição do benefício (2012) até 9.2014. Ajuizamento de ação anterior, que tramitou sob o n. 1022351-82.2016.8.26.0100, onde foi rejeitado o pedido de pagamento das verbas pretéritas. Formação da coisa julgada material. Definitividade e imutabilidade da matéria de fundo que cobre a presente demanda. Impossibilidade de reapreciação do pedido já refutado em demanda anterior travada entre as partes. Configuração de pressuposto processual negativo. Extinção do processo, sem resolução do mérito. Sentença reformada.
+RECURSO PROVIDO.
+Na origem, trata-se de ação ajuizada por Maria de Fátima de Jesus contra a São Paulo Previdência -SPPREV objetivando o pagamento de complementação de pensão por morte.Na sentença,julgou-se procedente o pedido. No Tribunal a quo a sentença foi reformada para extinguir o processo, pela ocorrência da coisa julgada.Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, Maria de Fátima de Jesus apontaviolação dos arts. 503 e 504, ambos do CPC/2015. Sustentando a não ocorrência da litispendência ou da coisa julgada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão (fls. 390-391):
+PROCESSUAL CIVIL. ADMINISTRATIVO. PENSÃO POR FALECIMENTO. SPPREV. APELAÇÃO. PRETENSÃO DE REFORMA DE SENTENÇA. ENUNCIADO N. 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. ENUNCIADO N. 284/STF.
+I - Na origem, trata-se de ação de cobrança em desfavor da SPPREV, objetivando pagamento de pensão por morte à autora. Na sentença, o pedido foi julgado procedente. No Tribunal a quo, a sentença foi reformada.
+II - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Nesse sentido: REsp n. 1.814.142/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/6/2020; e EDcl no REsp n. 1.776.656/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/6/2020.
+III - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+IV - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse sentido: AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; e AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, nos seguintes termos (fl. 402):
+A despeito da Súmulas aplicadas ao caso, o "decisum" foi omisso deixando de apreciar as fundamentações e seus argumentos, todos constantes dos recursos, que amparam os pedidos da Embargante. Senão vejamos: Consta especificamente do recurso não provido que "houve inegável afronta ao disposto da Lei Federal nº 13.105/15, em seu artigo 504, na decisão de Segundo Grau, o que ensejou o oferecimento do Recurso Especial. Este dispositivo foi violado, pois de fato não deveria ter sido considerada a coisa julgada na presente ação pelos motivos exaustivamente dispostos nos recursos impetrados.
+É o relatório.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator MinistroJoão Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Amatériarelacionadaà coisa julgadafoitratadano acórdão embargado, não havendo razão para apontar a existência de omissão, conforme se percebe dos seguintes trechos (fls. 358-359):
+ ..  conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição. (..)
+..incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à presença ou ausência de identidade das partes, do pedido e da causa de pedir entre as demandas, para efeito de incidência do pressuposto processual negativo da coisa julgada.
+Cumpre esclarecer que os aclaratórios não se prestam o exame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PENSÃO POR FALECIMENTO. SPPREV. APELAÇÃO. PRETENSÃO DE REFORMA DE SENTENÇA. ENUNCIADO N. 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. ENUNCIADO N. 284/STF.ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada por Maria de Fátima de Jesus contra a São Paulo Previdência -SPPREV objetivando o pagamento de complementação de pensão por morte. Na sentença, julgou-se procedente o pedido. No Tribunal a quo a sentença foi reformada para extinguir o processo, pela ocorrência da coisa julgada. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - A matéria relacionada à coisa julgada foi tratada no acórdão embargado, não havendo razão para apontar a existência de omissão.
+V - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+VI -Embargos de declaração rejeitados.
