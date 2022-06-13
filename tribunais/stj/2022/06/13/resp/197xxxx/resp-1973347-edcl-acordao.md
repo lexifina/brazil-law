@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração interposto de acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISENÇÃO OU IMUNIDADE E REDUÇÃO NA BASE DE CÁLCULO DO ICMS. REFLEXOS NA TRIBUTAÇÃO DO IRPJ E DA CSLL. AUSÊNCIA DE PREQUESTIONAMENTO DA LEGISLAÇÃO FEDERAL. SÚMULA 211/STJ. ACÓRDÃO QUE INVOCOU PRECEDENTE JURISPRUDENCIAL DO STJ, RELATIVO AO CRÉDITO PRESUMIDO DE ICMS, E JUSTIFICOU A IMPOSSIBILIDADE DE SUA APLICAÇÃO AO CASO CONCRETO. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. É inadmissível Recurso Especial quanto à questão (art. 38, § 2º, do Decreto-Lei 1.598/1977, arts. 258, 259, 261, II, e 525 do RIR, art. 195-A da Lei 6.404/1965 e arts. 9º e 10 da LC 160/2017) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10.4.2017).
+3. O Tribunal de origem, para solucionar a lide, invocou precedente do STJ relativo ao tema da exclusão do crédito presumido de ICMS na apuração do IRPJ e da CSLL para justificar que a hipótese dos autos (utilização de incentivos "negativos", consistentes na isenção/imunidade ou redução na base de cálculo ou alíquota do ICMS) é diversa, não sendo possível aplicar o entendimento adotado nos EREsp 1.517.492/PR. A ausência de impugnação específica a esse fundamento, essencial para a solução da lide, atrai a aplicação da Súmula 283/STF. Precedentes do STJ.
+4. Agravo Interno não provido.
+A parte embargante afirma que o acórdão do Tribunal de origem não se pautou exclusivamente na análise do precedente do STJ, contido no julgamento dos EREsp 1.517.492/PR, mas sim em "precedentes do próprio Tribunal Regional Federal da 4ª Região no julgamento do Agravo de Instrumento nº 50225168-66.2020.4.04.0000/PR, da 2º Turma do TRF4, de relatoria do Des. Fed. Rômulo Pizzolatti" (fl. 5.369, e-STJ).
+Sustenta, ainda, que houve omissão a respeito do prequestionamento implícito no Agravo Interno ou, ao menos, no julgamento dos Embargos de Declaração opostos no Tribunal a quo. Por fim, defende que há contradição porque a fundamentação adotada para justificar a manutenção do entendimento pela incidência da Súmula 283/STF se originou "da necessidade de interação do Recurso Especial com o conteúdo do acórdão objeto de ataque pela parte" (fl. 5.372, e-STJ).
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Recebi os autos no Gabinete em 6 de maio de 2022.
+Inicialmente, deve ser afastado o vício de contradição no julgado, tendo em vista que sua configuração depende da demonstração de que há incompatibilidade lógica entre os fundamentos e a conclusão do julgado. Isso porque tal defeito no ato judicial caracteriza-se como vício interno, repita-se, aferível pela incoerência entre motivação e o dispositivo.
+A leitura do acórdão hostilizado revela que não há incongruência entre a fundamentação que foi adotada para justificar a incidência da Súmula 283/STF e a conclusão no sentido de não conhecer, no ponto, da pretensão recursal. A irresignação da parte, a esse respeito, diz respeito ao acerto ou não do julgado, mas em hipótese alguma ao vício da contradição, nos termos acima expostos.
+Em relação aos demais pontos, o que se verifica é a simples intenção de buscar a reforma do julgado, pois a argumentação da parte embargante busca contraditar o conteúdo do decisum. Note-se que a empresa não aponta temas que não foram analisados, mas rebate a apreciação do órgão colegiado a respeito do prequestionamento (tal qual delineado pelo art. 1.025 do CPC) e da incidência da Súmula 283/STF.
+Confira-se, sobre esse enfoque, o conteúdo do acórdão embargado (fls. 5.364-5.365, e-STJ):
+(..) a leitura do acórdão hostilizado evidencia que o Tribunal adotou, como fundamento para justificar o conteúdo da decisão colegiada, a exegese por ele dada ao precedente do STJ, atinente ao julgamento dos Embargos de Divergência 1.517.492/PR, e as razões que desautorizam sua utilização em relação à questão de fundo veiculada na presente demanda.
+Portanto, não houve o prequestionamento, mesmo em sua forma implícita, a qual somente dispensa a expressa indicação do dispositivo legal, mas não se caracteriza quando o conteúdo dos respectivos comandos normativos não é objeto de valoração.
+Relembro, ademais, que, para que se considere preenchido o requisito do prequestionamento segundo a norma do art. 1.025 do CPC, deveria a parte ter veiculado, nas razões do Recurso Especial, a tese de violação do art. 1.022 do CPC.
+(..)
+Por fim, a incidência da Súmula 283/STF deve ser mantida porque o conhecimento do Recurso Especial não depende apenas das alegações veiculadas nas razões recursais, exigindo, ao contrário, sua interação com o conteúdo do acórdão objeto de ataque pela parte sucumbente. E, conforme admitido pela agravante, o acolhimento da pretensão veiculada no Recurso Especial, no entendimento dela, decorreria apenas da análise, pelo STJ, dos dispositivos de lei federal, motivo pelo qual não haveria necessidade de impugnação ao fundamento utilizado no acórdão hostilizado. Note-se que, exatamente aqui, a agravante reconhece que não impugnou o fundamento adotado pelo órgão julgador, o qual, in casu, é suficiente para preservar o acórdão recorrido, tendo em vista que não houve o prequestionamento da legislação federal, nos termos acima explicitados.
+Com essas considerações, rejeito os Embargos de Declaração.
+É como voto.
