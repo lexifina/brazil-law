@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 497/499, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, uma vez que a parte agravante deixou de impugnar um dos fundamentos da decisão de inadmissibilidade (Súmula 7/STJ).
+O recurso especial foi interposto contra acórdão assim ementado (fl. 398):
+AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM RESCISÃO CONTRATUAL E COBRANÇA DE ALUGUÉIS E ENCARGOS - LOCAÇÃO NÃO RESIDENCIAL - AUTOR - ALEGAÇÃO - RÉS - ATRASO NO PAGAMENTO DOS LOCATIVOS - AJUSTE FIRMADO PELAS PARTES, NAS DEPENDÊNCIAS DA IMOBILIÁRIA, PARA ALTERAR A DATA DO VENCIMENTO DO PAGAMENTO DO ALUGUEL - FATO - RECONHECIMENTO - MORA - INEXISTÊNCIA.
+AUTOR - ALEGAÇÃO - RÉS - INFRAÇÕES CONTRATUAIS DIANTE DA AUSÊNCIA DE ADIMPLEMENTO DO IPTU, RETARDO NA TRANSFERÊNCIA DE TITULARIDADE DAS CONTAS DE CONSUMO, DA CONTRATAÇÃO DE SEGURO PARA O IMÓVEL E VEDAÇÃO DE VISTORIA POR FISCAL DA MUNICIPALIDADE - AFASTAMENTO - RÉS - QUITAÇÃO DO TRIBUTO E DAS FATURAS DE SERVIÇOS PÚBLICOS - DEMONSTRAÇÃO - IMÓVEL COM ALVARÁ DE FUNCIONAMENTO - FATO IMPLICAÇÃO DE REGULARIDADE DAS INSTALAÇÕES PARA O FUNCIONAMENTO PEDIDO INICIAL - IMPROCEDÊNCIA - SENTENÇA - MANUTENÇÃO.
+APELO DO AUTOR NÃO PROVIDO.
+Nas razões do agravo interno, a parte agravante sustenta que impugnou todos os fundamentos da decisão recorrida e apresentou "em suas razões recursais toda a matéria e fundamentos pelos quais o recurso especial preenchia todos os requisitos de admissibilidade e restou inadmitido de forma equivocada" (fl. 506).
+Argumenta que foi impugnada a inadmissão do recurso com base na Súmula 7/STJ, bem como "demonstrada toda a matéria trazida e ignorada que merecia aclaramento, matéria essa de direito, que independe de reexame do conjunto fático-probatório" (fl. 507).
+Defende que o recurso especial não trata de reexame de provas, mas de verificar se a correta valoração das provas foi observada ou não.
+Não houve impugnação da parte agravada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+O recurso especial não foi admitido na origem sob os seguintes fundamentos: inexistência de ofensa aos arts. 489 e 1.022 do CPC; não demonstrada violação aos arts. 22, VIII, da Lei nº 8.245/91; 3º, 7º, 8º e 11 do CPC; e incidência da Súmula 7/STJ.
+Da análise das razões despendidas no agravo em recuso especial, verifica-se que não houve impugnação específica e suficiente para infirmar o óbice da Súmula 7/STJ, limitando-se a parte agravante a afirmar que houve violação à legislação infraconstitucional sem demonstrar como seria possível acolher a pretensão do recurso sem reexame de fatos e provas.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19.9.2018, DJe 30/11/2018).
+Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PRECLUSÃO CONSUMATIVA. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Não tendo os insurgentes refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp 1902856/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+Saliente-se que não basta a mera alegação genérica aos fundamentos da decisão agravada, porquanto, à luz do princípio da dialeticidade, cabe ao agravante explicitar, de forma articulada e argumentativa, os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Relativamente à impugnação da Súmula 7/STJ, este Superior Tribunal de Justiça entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AREsp 1280316/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 21/5/2019, DJe 28/5/2019). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp 1970371/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+No caso concreto, as razões do agravo em recurso especial reiteram os argumentos de violação aos dispositivos de lei indicados, sem apresentar argumentação que demonstre como seria possível modificar o entendimento proferido pelas instâncias ordinárias sem nova análise do acervo fático-probatório.
+Assim, não houve impugnação específica e suficiente para infirmar todos os fundamentos da decisão de inadmissibilidade e, considerando que a parte agravante não apresentou argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
