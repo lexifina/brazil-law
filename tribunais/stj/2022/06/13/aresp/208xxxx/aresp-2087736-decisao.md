@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Estado do Rio de Janeiro, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA, CUMULADA COM PEDIDO DE REPETIÇÃO DE INDÉBITO. COBRANÇA DE ICMS POR DEMANDA DE ENERGIA ELETRICA CONTRATADA.
+- Sociedade autora que objetiva: I) ver reconhecido seu direito de recolhimento do ICMS apenas sobre a demanda de energia elétrica efetivamente consumida e não sobre suposta demanda contratada; II) a restituição do indébito tributário; e III) que seja reconhecido seu direito a compensação tributária.
+- Preliminar de ilegitimidade ativa ad causam que não merece acolhida, haja vista que a sociedade autora é a contribuinte de fato do ICMS, sendo, portanto, parte legítima para impugnar eventual valor cobrado indevidamente. Precedentes deste Tribunal.
+- Fato gerador do ICMS que, segundo o disposto no artigo 155, inciso II, da CRFB/88 é a efetiva circulação da mercadoria e não a mera reserva de demanda de energia elétrica contratada.
+- Enunciado nº. 391, da súmula do Superior Tribunal de Justiça, que pacificou o tema discutido nestes autos. - Controvérsia que, ainda, foi recentemente julgada pelo Supremo Tribunal Federal, o qual reconheceu que a merademanda de potência elétrica não é passível, por si só, de tributação via ICMS. Tema nº. 176, do STF.
+- Apelo adesivo interposto pela sociedade autora que merece acolhida, haja vista ter a demandante logrado êxito na maioria dos pedidos que formulou, fato que permite a aplicação da regra disposta no artigo 86, parágrafo único, do CPC/15, devendo o réu efetuar o pagamento integral das custas e taxas judiciais.
+- Honorários advocatícios sucumbenciais devidos pelo réu, que, todavia, devem ser fixados em posterior fase de liquidação de sentença, na forma do artigo 85, §4º, inciso II, do CPC/15. - Inaplicabilidade dos honorários sucumbenciais recursais previstos no artigo 85, §11º, do CPC/15, conforme entendimento constante no enunciado administrativo nº. 7, do STJ.
+CONHECIMENTO E DESPROVIMENTO DO RECURSO INTERPOSTO PELO RÉU. CONHECIMENTO E PROVIMENTO DO APELO ADESIVO INTERPOSTO PELA AUTORA.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega violação do art. 86 do Código de Processo Civil, aduzindo que houve sucumbência recíproca.
+Houve contrarrazões (e-STJ fls. 285/288).
+Sobreveio juízo negativo de admissibilidade pela incidência da Súmula n. 7/STJ.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 305/307).
+É o relatório. Passo a decidir.
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A insurgência não merece prosperar.
+Consoante sólida jurisprudência desta Corte Superior,não é possível, pela via do especial,a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir asucumbência recíprocaou mínima, uma vez que implicareexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7/STJ.
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. CORREÇÃO MONETÁRIA. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 284/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ALEGADA OFENSA AO ART. 55, III, DA LEI 8.666/93. CORREÇÃO MONETÁRIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS CLÁUSULAS CONTRATUAIS E DO ACERVO PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE, EM SEDE DE RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem,trata-se de Ação Ordinária, ajuizada pela parte ora agravante, em desfavor do Departamento de Estradas de Rodagem - DER, objetivando o recebimento de diferenças relativas à execução de contrato administrativo. O Tribunal de origem, por sua vez, reformou parcialmente a sentença, apenas quanto ao critério de fixação dos honorários sucumbenciais recíprocos.
+III. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à incidência da Súmula 284/STF -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+IV. No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos e das cláusulas contratuais, consignou que "os contratos administrativos estabelecem no item 5.5 (fls. 23 e 177) que "os valores das medições e de seu reajustamento serão atualizados monetariamente através da aplicação da taxa de variação da UFESP  Unidade Fiscal do Estado de São Paulo, a contar do 31º (trigésimo primeiro) dia da data da medição até o dia do efetivo pagamento bem como juros moratórios, estes à razão de 0,5% (meio por cento) ao mês, calculados pro rata temporer em relação ao atraso verificado, por motivo não imputável à CONTRATANDA"".
+V. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+VI. No caso, a controvérsia foi resolvida, pelo Tribunal de origem, à luz do exame das provas dos autos e das cláusulas contratuais, e, portanto, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa e do aludido contrato administrativo, o que é vedado, no âmbito do Recurso Especial, pelas Súmulas 5 e 7 desta Corte. Precedentes do STJ.
+VII. Do mesmo modo, o entendimento firmado pelo Tribunal a quo, quanto à caracterização de sucumbência recíproca, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+VIII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 1.801.321/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 30/3/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
