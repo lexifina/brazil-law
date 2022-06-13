@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão assim ementado (fl. 35, e-STJ):
+APELAÇÃO CIVEL.EXECUÇÃO FISCAL. PAGAMENTO EXTRAJUDICIAL DO DÉBITO. AUSÊNCIA DE TRIANGULARIZAÇÃO PROCESSUAL PEDIDO DE EXTINÇÃO PELO EXEQUENTE ANTES MESMO DO DESPACHO. INICIAL DA EXECUÇÃO. INCABÍVEL CONDENAÇÃOEM HONORÁRIOS PELO PRINCIPIO DA CAUSALIDADE. NECESSIDADE DE PRIVILEGIAR OS PRINCÍPIOS DOCONTRADITÓRIO E AMPLA DEFESA. PRECEDERES DO TJES.RECURSO CONIECIDO E DESPROVIDO.
+1. O pagamento do débito referente à CDA, depois do ajuizamento da execução, mas antes da efetivação da citação, com o subsequente pedido de extinção da execução pelo exequente, afasta a possibilidade de condenação do executado no pagamento dos honorários advocatícios, sob penade ofensa ao contraditório e a ampla defesa. Precedentes do TJES. - 2. Recurso conhecido e desprovido.
+Aclaratórios rejeitados (fls. 52-57, e-STJ).
+A parte recorrente alega divergência jurisprudencial e aduz:
+Como será demonstrado, o v acórdão proferido pelo E. TJES que manteve a r. decisão que deixou de condenar o executado em honorários advocatícios de sucumbência, viola o art. 85, § 10 do CPC e destoa do entendimento fixado por esse C. STJ no REsp 1.854.592 I SC.
+(..)
+Data maximavenia, o v. acórdão recorrido viola claramente o art. 85, § 10 do CPC ao deixar de fixar honorários advocatícios de sucumbência em demanda na qual a parte deu causa ao ajuizamento pelo não pagamento do crédito na época própria.
+(..)
+A violação perpetrada pelo v. acórdão recorrido ao art. 85, § 10 do CPC exsurge ainda mais clara quando considerada a firme jurisprudência desse C. STJ, no sentidode que os honorários sucumbenciais são devidos por quem deu causa à extinção da ação, ainda que não tenha ocorrido a citação.
+Admitiu-se a irresignação (fls. 83-86, e-STJ).
+É o relatório.
+Decido.
+Os autos ingressaram no Gabinete em 20.4.2022.
+O Apelo nobre procede.
+Observe-se trechodo acórdão questionado (fls. 33-42, e-STJ, grifou-se):
+Em que pese a irresignação do apelante, o pagamento do débito referente à CDA, depois do ajuizamento da execução, mas antes mesmo do próprio despacho inicial e, consequentemente, da citação, com o pedido expresso de extinção da execução pelo exequente, afasta a possibilidade de condenação do executado no pagamento dos honorários advocatícios, sob pena de ofensa ao contraditório e a ampla defesa.
+Ao contrário da posição da Corte estadual, o Superior Tribunal de Justiça possui entendimento de ser devida a condenação ao pagamento de honorários advocatícios quando a quitação extrajudicial do débito excutido ocorrer após o ajuizamento da ação executiva, mesmo antes de efetivada a citação, em homenagem ao princípio da causalidade, não devendo incidir a exceção prevista no art. 26 da LEF (AREsp 1.442.828, Rel. Min. Benedito Gonçalves,Primeira Turma, DJe 12.4.2019; AgInt no AREsp 1.067.906/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 13.12.2017; e Aglnt no AREsp 896.802/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6.10.2016).
+Assim, com fulcro no princípio da causalidade, o STJ entende que é a parte executada - inadimplente na obrigação debatida no feito - quem dá causa à execução.
+Nessa linha são os precedentes, com grifos acrescidos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO, NA VIA ADMINISTRATIVA, APÓS O AJUIZAMENTO DA AÇÃO, MAS ANTERIOR À CITAÇÃO DO EXECUTADO. CABIMENTO DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. RECURSO ESPECIAL DO MUNICÍPIO DE CAMARAGIBE/PE A QUE SE DÁ PROVIMENTO.
+1. Na origem, trata-se de Execução Fiscal objetivando a cobrança de débitos tributários municipais, integralmente quitados na esfera administrativa após o ajuizamento da demanda, mas antes da citação do devedor. Após requerimento da própria exequente, o feito foi extinto, nos termos do art. 924, inc. II, c/c o art. 925, ambos do CPC/2015, sem arbitramento de honorários advocatícios, sob o fundamento de que a aplicação da regra da causalidade demandaria a citação válida, o que foi mantido pelo Tribunal Estadual.
+2. São devidos honorários advocatícios ao ente público, nos casos em que a execução fiscal tenha sido extinta em decorrência do pagamento extrajudicial do crédito tributário, ainda que efetuado antes da citação do contribuinte.
+3. Isso, porque o pagamento extrajudicial do débito fiscal equivale ao reconhecimento da dívida executada e do pedido da execução, e, em homenagem ao princípio da causalidade, leva o executado a arcar com o adimplemento integral dos honorários advocatícios, por ter dado causa ao ajuizamento da ação, consoante previsto nos arts. 85, §§1º, 2º e 10 c/c art. 90 do CPC/2015.
+4. Desta feita, ainda que ausente a triangulação da relação jurídica, o simples ajuizamento da execução implicou despesas para a Fazenda exequente, que provocou o Judiciário para cobrança de valores a ela devidos, após a lavratura do auto de infração por conta do inadimplemento do contribuinte. Logo, a Fazenda exequente não pode ser prejudicada pelo exercício de um direito legítimo, qual seja, a propositura da execução fiscal para cobrança de débito fiscal líquido e certo, sendo impositiva a aplicação do ônus de sucumbência ao executado que confessou, reconheceu e pagou o débito. Precedentes: AgInt no REsp 1.927.753/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021; AgInt no AgInt no REsp 1.425.138/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 16/8/2019; e AgInt no REsp 1.848.573/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 5/6/2020.
+5. Recurso Especial do MUNICÍPIO DE CAMARAGIBE/PE provido, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento dos honorários advocatícios, nos termos do art. 85 do CPC/2015.
+(REsp 1.931.060/PE, Rel. Min. Manoel Erhardt, Primeira Turma, DJe 23/9/2021)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO EM DATA POSTERIOR AO AJUIZAMENTO DA EXECUÇÃO FISCAL E ANTERIOR À CITAÇÃO. CONDENAÇÃO DA FAZENDA AO PAGAMENTO DE HONORÁRIOS. IMPOSSIBILIDADE.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que são devidos honorários advocatícios pela parte executada à Fazenda Pública na hipótese de a execução fiscal ser extinta em decorrência do pagamento extrajudicial do crédito tributário, realizado posteriormente ao ajuizamento do feito, ainda que efetuado antes da citação da contribuinte.
+2. Precedentes: REsp 1.178.874/PR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 27/8/2010; AgInt no AREsp 1.067.906/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13/12/2017; e REsp 1.802.663/PA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29/05/2019.
+3. In casu, caberia à parte contribuinte arcar com os honorários sucumbenciais, sendo descabida a pretensão de que a Fazenda seja condenada ao pagamento dessa verba.
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.425.138/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/8/2019)
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO. SUCUMBÊNCIA. EXTINÇÃO DO PROCESSO. CAUSALIDADE. QUITAÇÃO DO DÉBITO EM DATA POSTERIOR AO AJUIZAMENTO DA EXECUÇÃO FISCAL E ANTERIOR À CITAÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+(..) 2. A condenação em honorários advocatícios deve observar critérios objetivos, sendo a sucumbência um deles, ao lado do princípio da causalidade. Este determina a imposição da verba honorária à parte que deu causa à instauração do processo ou ao incidente processual.
+3. No caso dos autos, o Estado do Rio de Janeiro ajuizou os Embargos alegando excesso de execução. Ocorre que, como os pagamentos que implicariam no alegado excesso, foram realizados após o ajuizamento da execução e antes da citação, bastaria a apresentação de simples petição no próprio processo de execução para pleitear a adequação do valor executado. Diante disso, não havia interesse do Estado do Rio Janeiro no ajuizamento dos Embargos à Execução, de forma que não deve prevalecer a condenação da ora agravante ao pagamento dos honorários sucumbenciais em favor da Fazenda estadual.
+4. Ademais, segundo a jurisprudência do STJ, os honorários advocatícios são devidos pela parte executada na hipótese de extinção da execução fiscal em decorrência do pagamento extrajudicial do quantum, após ajuizada a ação e ainda que não tenha sido promovida a citação. O pagamento do débito exequendo equivaleu ao reconhecimento da pretensão executória, devendo ser aplicado ao caso o art. 26 do CPC/73.
+5. Agravo Interno provido.
+(AgInt no AREsp 896.802/RJ, Rel. Min. Herman Benjamin, DJe 6/10/2016)
+Não obstante, por se tratar de medida ínsita às instâncias ordinárias, o efetivo arbitramento da verba sucumbencial deve ser realizado pela instância original, à qual compete a cognição e a consideração das situações de natureza fática.
+Dissídio pretoriano prejudicado.
+Diante do exposto, dou provimento ao Recurso Especial paradeclarar devidos os honorários advocatícios em prol do Recorrente, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
