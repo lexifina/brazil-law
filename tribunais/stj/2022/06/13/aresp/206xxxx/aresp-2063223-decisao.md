@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BIO RURAL COMÉRCIO E REPRESENTAÇÕES LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no qual se discute se, na execução, o depósito judicial do valor da obrigação, com a consequente incidência de juros e correção monetária a cargo da instituição financeira depositária, isenta o devedor do pagamento dos encargos decorrentes da mora, previstos no título executivo judicial ou extrajudicial, independentemente da liberação da quantia ao credor.
+A questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (revisão do Tema 677), nos autos da QO do REsp 1.820.963/SP, o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041, ambos do CPC/2015.
+Forte nessas razões, DETERMINO A DEVOLUÇÃO dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+Publique-se. Intimem-se.
