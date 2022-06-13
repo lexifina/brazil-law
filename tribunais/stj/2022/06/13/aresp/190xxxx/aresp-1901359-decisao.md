@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por CELG DISTRIBUIÇÃO S.A. - CELG Dcontradecisão que inadmitiu recurso especial. O apelo extremo, interposto com fundamento no artigo 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRESCRIÇÃO TRIENAL. NÃO APLICAÇÃO DO ART. 206, § 3º, III, DO CÓDIGO CIVIL. MÉRITO. LICITAÇÃO. REAJUSTE ANUAL EM CONTRATO ADMINISTRATIVO. EQUILÍBRIO ECONÔMICO. VINCULAÇÃO À PREVISÃO EDITALICIA E CONTRATUAL. CONDENAÇÃO CITRA PETITA. IMPOSSIBILIDADE DE CORREÇÃO DO VICIO. JUROS DE MORA. EXPRESSA PREVISÃO CONTRATUAL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA FASE RECURSAL. IMPOSSIBILIDADE.
+1. O pleito de reajuste ou atualização do valor do contrato administrativo está vinculado ao cumprimento da obrigação principal e não às obrigações acessórias, afastando a incidência do prazo prescricional trienal previsto no art. 206, § 3º, III, do Código Civil. Precedente.
+2. A 2a seção do STJ, em decisão no EREsp 1.280.825/RJ, definiu que se aplica o prazo de 10 anos (art. 205, do CPC) para prescrição nas controvérsias relacionadas à cobrança de dívida contratual, em que haja necessidade de apuração do quantum. De todo, o prazo prescricional não foi atingido, uma vez que o primeiro reajuste, previsto para depois de 12 (doze) meses de duração contratual (cláusula décima oitava do pacto), deveria ocorrer em julho de 2008, sendo que a ação foi ajuizada em junho de 2013. 3. A manutenção do equilíbrio econômico-financeiro inicialmente estabelecido com a aceitação da proposta pela Administração constituidireito do contratado garantido pela Constituição da República e pela Lei de Licitações.
+4. Nos termos da Lei Federal 10.192/2001, o reajuste do preço, com periodicidade anual, é o consequente lógico ao contrato administrativo, como forma de recomposição do equilíbrio econômico-financeiro de ajuste, desde que haja previsão expressa no edital de licitação e no instrumento contratual a este vinculado, circunstâncias verificadas na espécie.
+5. No caso em análise, a revisão dos termos originais do pacto, por meio de consecutivos aditivos contratuais, não alterou a previsão de reajustamento anual do preço previsto no edital, a qual permanece válida, de forma a ser preservada a recomposição, frente às perdas inflacionárias.
+6. In casu, somente se poderia afastar a pretensão autoral, relativamente ao recebimento dos valores decorrentes do reajustamento contratual, mediante a comprovação cabal do pagamento da dívida, o que não correu.
+7. Eventuais deduções legais (imposto de renda e as contribuições previdenciárias), a incidirem sobre o montante a ser pago, somente serão implementadas ao tempo do efetivo pagamento, cabendo à autoridade administrativa fazer a devida retenção.
+8. Não obstante ter restado constatado que a sentença foi citra petita, em relação à análise de um dos pleitos autorais, deixa-se de suprimir o vício, para evitar ocorrência de reformatio in pejus, eis que somente a ré apelou.
+9. Havendo expressa previsão contratual dispondo a respeito da incidência de juros moratórios, no percentual de 0,5% ao mês, no caso de inadimplência, tem a estipulação prevalência sobre a regra de caráter geral, proclamada no art. 405, do Código Civil (juros moratórios de 1% a mês), em respeito ao princípio do pacta sunt servanda.
+10. Descabe majorar os honorários advocatícios, neste grau recursal, em razão do acolhimento parcial das razões do apelo, conforme o entendimento sufragado pelo STJ (AREsp.1259419/G0). APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA"(fls. 1.271/1.272e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente aponta violação dos arts. 141, 492, 489, 1.013, 1.022 do Código de Processo Civil de 2015;206, 884 do Código Civil e 2º da Lei nº 10.192/2001.
+É o relatório.
+DECIDO.
+Cuida-se, na origem, de ação de cobrança fundada em contratoadministrativo originário de uma licitação.
+A matéria de fundo insere-se na competência das Turmas integrantes da Egrégia Primeira Seção, conforme disposto no art. 9º, § 1º, inciso X, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Dirimida a controvérsia pela Corte de origem com enfoque eminentemente constitucional, evidencia-se a inviabilidade do manejo do recurso especial, sob pena de usurpação da competência da Suprema Corte.
+2. In casu, em ação mandamental na qual se discute a desclassificação de empresa de certame licitatório em razão da presença em seu quadro societário de um deputado federal, o Tribunal local, com fulcro no art. 54, I, "a", da CF, entendeu que o contrato administrativo, ainda que antecedido de licitação, não traduz, em regra, contrato com cláusulas uniformes, como de adesão, pois existe margem negocial, de modo que a participação de um parlamentar no quadro societário "revela um inafastável potencial de influência decorrente dos predicados inerentes ao exercício do mandato - exatamente a circunstância que a Constituição Federal pretende impedir."
+3. Não se conhece de recurso especial fundado em divergência jurisprudencial (alínea "c" do art. 105, III, da CF) quando não demonstrado o alegado dissídio jurisprudencial, nos termos legais e regimentais.
+4. Agravo interno desprovido"
+(AgInt no AREsp n. 1.637.572/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/12/2021.)
+Ante o exposto, determino a redistribuição dos autos a uma das Turmas que compõem a Primeira Seção.
+Publique-se.
+Intimem-se.
