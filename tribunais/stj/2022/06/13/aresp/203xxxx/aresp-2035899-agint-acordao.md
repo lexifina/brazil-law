@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/06/2022 a 13/06/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 439/442) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 435/437).
+Em suas razões, a parte alega que "foi alegada violação aos arts. 489, §1º, IV, e 1.022, III, §ú, II, do NCPC (535, II, do ACPC) justamente pelo fato do TJSE não ter ventilado o art. 523, §1º, do CPC/2015" (e-STJ fl. 440).
+Afirma que, "se a obrigação ainda não foi considerada descumprida em razão da prorrogação do prazo, significa que os encargos do art. 523, §1º, do Novo CPC, também não poderiam incidir, pois ainda não se passou sequer o prazo para cumprimento da obrigação" (e-STJ fl. 440).
+Assim, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado, com o provimento do recurso especial na íntegra.
+Não foi apresentada impugnação (e-STJ fl. 446).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, é inviável agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 435/437):
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 243/248).
+O acórdão recorrido está assim ementado (e-STJ fls. 141/143):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - HOMOLOGAÇÃO DE ACORDO - OBRIGAÇÃO DE FAZER - AUSÊNCIA DE CUMPRIMENTO NOS PRAZOS ESTIPULADOS - AJUIZAMENTO DO CUMPRIMENTO DE SENTENÇA, VISANDO A COBRANÇA DA CLÁUSULA PENAL NO PERCENTUAL DE 20% DO VALOR CONSTANTE NO ITEM 1 DO ACORDO - IMPUGNAÇÃO AO CUMPRIMENTO JULGADA PARCIALMENTE PROCEDENTE, REDUZINDO A CLÁUSULA PENAL PARA O PERCENTUAL DE 10%, EM RAZÃO DO CUMPRIMENTO PARCIAL DA OBRIGAÇÃO DE FAZER, COM A CONCRETIZAÇÃO TÃOSOMENTE DA ESCRITURAÇÃO DAS TAREFAS, RESTANDO O DESMEMBRAMENTO IRRESIGNAÇÃO EXECUTADAS - DAS ALEGAÇÃO DE QUE TODOS OS ATOS QUE DEPENDIAM DELAS JÁ FORAM REALIZADOS, SENDO NECESSÁRIO QUE O EXEQUENTE/AGRAVADO PROCEDA PAGAMENTO AO DAS DESPESAS DA SUA COTA PARTE E DE SUA FAMÍLIA (PAI E IRMÃ ) E QUE ESTES NÃO TRANSFERIRAM AS SUAS ÁREAS PARA OS SEUS NOMES QUE - ALEGAÇÕES NÃO FORAM APRESENTADAS AO JUÍZO DE PRIMEIRO GRAU NOS AUTOS DO CUMPRIMENTO DE SENTENÇA QUE ORIGINOU O PRESENTE RECURSO - INOVAÇÃO RECURSAL - NÃO DO CONHECIMENTO RECURSO NESSE PONTO - TODAVIA, DIANTE DA PRORROGAÇÃ O DO PRAZO DE SESSENTA DIAS ESTIPULADO PELO JU Í ZO A QUO PARA O CUMPRIMENTO DA OBRIGAÇÃO DE FAZER NO Q UE PERTINE AODESMEMBRAMENTO DAS TAREFAS EM NOME DO EXEQUENTE/AGRAVADO, POR ESTA RELATORIA NOS AUTOS DO AGRAVO DE INSTRUMENTO Nº 202000713459, EM RAZÃO DA IMPOSSIBILIDADE DE CONCRETIZAÇÃO DO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER POR CONTA DO ESTADO DE CALAMIDADE NA SAÚDE NO ESTADO DE SERGIPE POR CAUSA DO CORONAVÍRUS, DEVE SER SUSPENSA A COBRANÇA DA CLÁUSULA PENAL QUE DEVERÁ SER EXIGIDA APÓS O TRANSCURSO DO PRAZO ESTIPULADO - RECURSO CONHECIDO EM PARTE, E NESTA, PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados(e-STJ fls. 307/324, 354/371 e 398/416).
+Nas razões do recurso especial (e-STJ fls. 218/230), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou, além dedivergência jurisprudencial,ofensa aos arts. 489 e 1.022 do CPC/2015, por negativa de prestação jurisdicional, destacando que(e-STJ fls. 222/223):
+Como o recorrido insistia (e ainda insiste) em primeiro grau em tentar arrancar dinheiro de um jeito ou de outro, foram opostos embargos de declaração perante o juízo de segundo grau (TJSE), a fim de deixar claro que, se o prazo para cumprimento daobrigação e o prazo para incidência da multa/cláusula penal foram prorrogados e deixaram de ser exigíveis neste momento, consequentemente, os encargos do art. 523,§1º, do Novo CPC, também estariam prorrogados e não poderiam ser exigidos neste momento (o que é uma consequência lógica). Todavia, o TJSE apenas decidiu que não haveria mais nada para se manifestar e que se trataria de mero inconformismo, tendo, assim, deixado de enfrentar a questão/matéria.
+Apontou ainda afronta ao art. 523, § 1º, do CPC/2015, sob o fundamento de que, "se a obrigação de fazer e a exigibilidade da cláusula penal por descumprimento da obrigação de fazer tiveram os seus prazos prorrogados, por uma mera questão de lógica, os encargos do art. 523, § 1º, do Novo CPC, também estariam prorrogados e não poderiam ser exigidos neste momento, pois os encargos do art. 523, § 1º, do Novo CPC, são exigidos e exigíveis caso não cumprida a obrigação de pagar, mas a obrigação de pagar deixou de ser exigível, motivo pelo qual os encargos do art. 523, §1º, do Novo CPC, também deveriam"(e-STJ fl. 227).
+No agravo (e-STJ fls. 253/259), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela parte recorrida(e-STJ fls. 574/580).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto ao art. 523, § 1º, do CPC/2015, extraem-se as seguintes razões de decidir do aresto impugnado(e-STJ fl. 323):
+As executadas, ora embargantes agravaram (Agravo de Instrumento nº 202000713459)e esta relatoria reconheceu a necessidade de dilação do prazo para realização do desmembramento, momento em que determinou que o termo inicial do prazo concedido pela Juíza singular incida a partir dos sessenta dias posteriores à data da publicação daquela decisão ou do término do estado de calamidade pública na saúde por causa do coronavírus no Estado de Sergipe, devendo ser considerado o que ocorrer primeiro.
+Por conseguinte, em razão da mencionada decisão, suspendeu a cobrança da multa, que deverá ser exigida após o transcurso do novo prazo decorrente da cláusula penal estipulado para o cumprimento da obrigação de fazer, referente ao desmembramento das tarefas em nome do exequente.
+Logo, resta claro que a decisão limitou-se a suspender a exigibilidade da multa prevista no acordo celebrado enquanto pendente o transcurso do prazo de 60 dias concedido, referente à cobrança da obrigação de fazer, motivo pelo qual não há que se falar em efeito retroativo apto a englobar a incidência das multas processuais previstas pelo não cumprimento do prazo estabelecido no art. 523, §1º do Código de Ritos Civil.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a decisão limitou-se a suspender a exigibilidade da multa prevista no acordo celebrado enquanto pendente o transcurso do prazo de 60 (sessenta)dias concedido, referente à cobrança da obrigação de fazer, motivo pelo qual não há falar em efeito retroativo apto a englobar a incidência das multas processuais previstas pelo não cumprimento do prazo estabelecido no art. 523, § 1º, do CPC/2015. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, com a adoção do referido entendimento - ausência de efeito retroativo da decisão-o conteúdo do523, § 1º, do CPC/2015 não foi analisado pela Corte local, pois desnecessário para a resolução da demanda. Incidente, portanto, a Súmula n. 211/STJ, por falta de prequestionamento.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, a parte recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Neste recurso, todavia, aparte recorrente limita-se a alegar genericamente que foiapontada a ofensa aos arts. 489 e 1.022 do CPC/2015, para suprir a omissão quanto à tese de violação doart. 523, § 1º, do CPC/2015.
+A parte agravante, portanto, não impugna de maneira satisfatória a conclusão de incidência da Súmula n. 283 do STF e dequeo conteúdo do art.523, § 1º, do CPC/2015 não foi analisado pela Corte local, pois desnecessário para a resolução da demanda.
+Assim, tendo deixado de rebater especificamente a decisão ora agravada, incide, por analogia, a Súmula n. 182/STJ:
+É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. ART. 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ENUNCIADO 182 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no Ag n. 1.155.777/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/5/2016, DJe 18/5/2016.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
