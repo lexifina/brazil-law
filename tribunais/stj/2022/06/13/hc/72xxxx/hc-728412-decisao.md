@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 35):
+Ao relatório da respeitável sentença, que ora se adota, acrescenta-se que Flávio Domingues de Barros foi absolvido da imputação relativa à prática do delito previsto no artigo 158, caput, do Código Penal, com fundamento no artigo 386, inciso II, do Código de Processo Penal (fls. 227/235).
+Apela o Ministério Público, pugnando pela condenação do acusado, nos termos da denúncia (fls. 240/248).
+O recurso foi devidamente contrariado (fls. 259/263), contando os autos com parecer da douta Procuradoria-Geral de Justiça, opinando pelo provimento do recurso do Ministério Público, para a condenação do réu, nos termos da denúncia (fls. 269/274).
+É o relatório.
+Consta dos autos que o Juízo de 1º grau absolveu o paciente pela prática do crime do art. 158 do CP, por não haver prova da existência do fato, nos termos do art. 386, II, do CP.
+Interposta apelação pelo Ministério Público, houve provimento para condenar o paciente pelo delito do art. 158 do CP às penas de 4 anos, 9 meses e 18 dias de reclusão, em regime semiaberto, e 12 dias-multa.
+Apontaoimpetrante, em suma, a nulidade do trânsito em julgado do acórdão pela falta de intimação pessoal do advogado nomeado em razão de convênio entre a OAB e a Defensoria Pública, bem como afastamento da condenação, com base em nulidade de audiência, por violação ao art. 210 do CPP, que prevê a incomunicabilidade, que foi alvo de argumentação na sentença absolutória, mas ignorado no acórdão condenatório.
+Requer, liminarmente e no mérito, a liberdade, afastamento do trânsito em julgado e da condenação.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público pelo não conhecimento, mas concessão, de ofício, para reconhecer a nulidade por falta de intimação.
+Inicialmente, amatéria relativa à nulidade por violação do art. 210 do CPPnão foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Por outro lado, das informações prestadas pelo TJSP, extrai-se (fls. 82/83):
+ .. Em atenção à solicitação, esclareço que diante da ausência de apresentação de patrono constituído pelo paciente, foi-lhe indicado o Advogado dativo, Dr. Roberto Perrone Júnior, para sua Defesa nos autos da Ação Penal nº 1502674-43.2019.8.26.0281, da Vara Criminal da Comarca de Itatiba, na qual o Ministério Público interpôs recurso de apelação contra a sentença que absolveu Flavio da imputação de infringência ao art. 158, caput, do Código Penal, com fundamento no art. 386, II, do Código de Processo Penal.
+Recebido o feito nesta Casa, foi cadastrado o Dr. Roberto Perrone Júnior como Defensor do ora paciente.
+Colhido o parecer da Procuradoria Geral de Justiça, a Décima Quarta Câmara de Direito Criminal, em julgamento virtual finalizado aos 29 de novembro de 2021, à unanimidade, deu provimento ao reclamo para condenar Flavio por infração ao art. 158, caput, do Estatuto Repressivo, por três vezes, na forma do art. 71 do mesmo Codex, às sanções de 04 anos, 09 meses e 18 dias de reclusão, em regime inicial semiaberto, e 12 dias-multa.
+O aresto foi disponibilizado no Diário da Justiça Eletrônico no dia 09 de dezembro seguinte, em que constou o nome do Defensor mencionado, e, cientificado o Ministério Público, decorreu o prazo recursal in albis para ambos, certificando-se o trânsito em julgado.
+Encaminho, para conhecimento, cópia de peças
+da aludida ação penal e da publicação no Diário da Justiça Eletrônico mencionados,
+além de senha para acesso ao processo em segunda instância.  ..
+Como se vê do excerto, com a interposição do apelo e recebidos os autos no Tribunal de origem,"foi cadastrado o Dr. Roberto Perrone Júnior como Defensor do ora paciente", e, após o julgamento do recurso, "O aresto foi disponibilizado no Diário da Justiça Eletrônico no dia 09 de dezembro seguinte, em que constou o nome do Defensor mencionado", com passagem do prazo recursal e certificação do trânsito em julgado.
+Destaca-se das informações prestadas, o documento de fls. 84/85 que atesta o convênio firmado entre a Defensoria Público e a OAB, com a indicação dedefensor dativo nomeado na pessoa de Roberto Perrone Júnior, bem com o de fl. 109, que demonstra aintimação da apelação n.1502674-43.2019.8.26.0281 via publicação no Diário de Justiça Eletrônico.
+Entende esta Corte que, " c onsoante determinam os arts. 370, § 4º, do Código de Processo Penal e 5º, § 5º, da Lei n. 1.060/1950, deve ser pessoal a intimação da Defensoria Pública e do defensor dativo de todos os atos do processo, sob pena de nulidade" (HC 383.563/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019). No mesmo sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO. INTIMAÇÃO PESSOAL DO PACIENTE ACERCA DO ACÓRDÃO PROFERIDO NO RECURSO DE APELAÇÃO CRIMINAL. DESNECESSIDADE. EXIGÊNCIA APENAS PARA SENTENÇA DE PRIMEIRO GRAU. EXECUÇÃO PROVISÓRIA DA PENA. INOCORRÊNCIA. PENA DEFINITIVA. ORDEM DENEGADA.
+1. "A jurisprudência firmada por esta Corte Superior de Justiça dispensa a intimação pessoal do réu do acórdão que julga a apelação, sendo suficiente a intimação pelo órgão oficial de imprensa, no caso de estar assistido por advogado constituído,ou pessoal, nos casos de patrocínio pela Defensoria Pública ou por defensor dativo, como ocorreu no caso" (HC 353.449/SP, QUINTA TURMA, Rel. Min. FELIX FISCHER, DJe 30/08/2016).
+2. Ocorrido o trânsito em julgado do acórdão condenatório, não há falar em execução provisória, mas, sim, em execução definitiva da pena.
+3.Habeas corpusdenegado. (HC 465.290/SP,Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/05/2019, DJe 20/05/2019).
+Ante o exposto, concedo ohabeas corpuspara anular o trânsito em julgado do acórdão de apelação n.1502674-43.2019.8.26.0281 e determinar que o Defensor Dativo seja intimado pessoalmente para tomar as medidas que entender cabíveis.
+Comunique-se.
+Publique-se.
+Intimem-se.
