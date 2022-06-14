@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/06/2022 a 14/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 363):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI, COM FUNDAMENTO NO ART. 18, § 3º, DA LEI 12.153/2009. DISSÍDIO NÃO COMPROVADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019). Em igual sentido: AgInt no AREsp 1.657.171/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/10/2020; AgRg no AREsp 535.444/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º/4/2019; REsp 1.773.244/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 5/4/2019; e AgInt no AREsp 1.358.026/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1º/4/2019.
+3. É entendimento pacífico desta Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados.
+4. Agravo interno não provido.
+O embargante, aduzindo a ocorrência de omissão, alega que referido acórdão repetiu a decisão recorrida, ignorando toda a fundamentação apresentada no agravo interno. Ressalta que oscasos comparados eram dos Juizados Especiais, nos quais o relatório é dispensado e a fundamentação deve ser sucinta.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, oacórdão embargado registrou, expressamente, que(fl. 366):
+De fato, malgrado as razões da agravante, consigna-se que "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019).
+Em igual sentido: AgInt no AREsp 1.657.171/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/10/2020; AgRg no AREsp 535.444/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º/4/2019; REsp 1.773.244/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 5/4/2019; e AgInt no AREsp 1.358.026/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1º/4/2019.
+Com efeito, é indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise.
+Vê-se, portanto, que a matéria objeto da controvérsia encontra-sedevidamente fundamentada e motivada, de modo que a pretensão do embarganteevidencia mero inconformismo, na medida em que, sob a pecha de omissão eobscuridade, objetiva o reexame dos seus argumentos, com o intuito clarode atribuir efeito infringente ao decisum, hipótese a que não se destina orecurso integrativo.
+Ressalte-se, ainda, que "a vedação constante do art. 1.021, § 3º, doCPC/2015 e o disposto no art. 489 do CPC/2015 não podem ser interpretadosno sentido de se exigir que o julgador tenha de refazer o texto da decisãoagravada com os mesmos fundamentos, mas com outras expressões, mesmo nãohavendo nenhum fundamento novo trazido pela parte recorrente na peçarecursal. O que o Código de Processo Civil de 2015 exige é que se adotefundamentação suficiente, que decida integralmente a controvérsia, talcomo no caso em análise" (AgInt no REsp 1.808.846/RS, Rel. MinistroFrancisco Falcão, Segunda Turma, DJe 7/5/2021). Em igual sentido: AgInt noREsp 1.920.641/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe31/8/2021.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de ProcessoCivil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
