@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+RODRIGO CASTRO ALVES NEVES agrava da decisão de fls. 446-453, em que conheci do agravo para dar provimento ao recurso especial interposto pelo Ministério Público do Estado de Goiás, para restabelecer a condenação do réu pela prática do crime previsto no art. 16 da Lei n. 10.826/2003.
+Assevera a defesa, em suas razões recursais, que "o recurso especial interposto pelo órgão ministerial interposto não satisfaz os requisitos genéricos e específicos de admissibilidade, estando, em verdade, manifestamente contrário ao entendimento do Enunciado nº 7 da Súmula do Colendo Superior Tribunal de Justiça.Isto porque o real objeto do feito é a reanálise das provas já produzidas.Inconformado com a aplicação do princípio da insignificância, busca o órgão acusador discutir novamente a valoração dada às provas, a fim de verificar se o comportamento é capaz de ameaçar de forma relevante o interesse tutelado pela norma penal" (fl. 461).
+Afirma, ainda, que, mesmo que "o acusado tenha sido encontrado em contexto de tráfico de drogas, ainda se tem a impossibilidade de dano aos bens jurídicos tutelados, diante da inexpressiva quantidade de munição, desacompanhada de instrumento bélico capaz de deflagrá-la, o que caracteriza a atipicidade material" (fl. 468).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONTEXTO DEPRÁTICA DE TRÁFICO DE DROGAS. NÃO INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Aposse irregular de munições por agente dotada de periculosidade (possui envolvimento com tráfico de drogas), mesmo sem arma de fogo a pronto alcance, reduz de forma relevante o nível de segurança pública, afigurando-se formalmente e materialmente típica a conduta. Afasta-se, portanto, a incidência do princípio da insignificância.
+2. Essa conclusãonão demanda o revolvimento de matéria fático-probatória, procedimento, de fato, vedado na via do recurso especial. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pela instância de origem para aplicar o mencionado princípio em relação ao crime do art. 16 da Lei n. 10.826/2003.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Especificamente no caso dos autos, a conclusão pelo afastamento do princípio da insignificância não demanda o revolvimento de matéria fático-probatória, procedimento, de fato, vedado na via do recurso especial. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pela instância de origem para aplicar o mencionado princípio em relação ao crime do art. 16 da Lei n. 10.826/2003.
+Nesse mesmo sentido, em situação similar, esta Corte Superior também já decidiu:
+2. A análise da demanda não exigiu o reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ, uma vez que a decisão limitou-se a revalorar juridicamente as situações fáticas constantes nos autos para o afastamento da aplicação do princípio da insignificância.
+ .. .
+7. Agravo regimental não provido.
+(AgInt no REsp n. 1.616.078/GO, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 5/12/2016)
+Segundo os argumentos explanados na decisão agravada, assentei que, embora o Superior Tribunal de Justiça tenha admitido excepcionalmente a incidência do princípio da insignificância em relação ao crime de posse ou porte ilegal de munições, não seria esse o caso dos autos, uma vez que, na hipótese, conquantotenha sido encontrada sob a guarda do réureduzida quantidade de munição (1 munição, de uso restrito, calibre .40), essa apreensão se deu em um contexto da prática de tráfico de drogas (7 porções de maconha pesando 70,825g).
+Tais informações foram extraídas do próprio acórdão recorrido, que assim consignou (fls. 360-362, grifei):
+O crime de tráfico de drogas, a materialidade e a autoria restaram comprovadas, auto de prisão em flagrante delito (fls.02/06), auto de exibição e apreensão (fl. 20), laudo pericial provisório e definitivo da substância entorpecente (fls. 21/23 e 128/131), depoimentos testemunhais.
+ .. .
+A despeito da negativa da autoria sustentada pelo processado, ao argumento de que "apenas é usuário, e que a droga foi implantada para condená-lo", está solteira da prova colhida nos autos da ação penal, inclusive pelas circunstâncias da apreensão, preso em flagrante delito trazendo consigo e mantendo em depósito quantidade significativa de entorpecentes, tornando certa a imputação oficial.
+ .. .
+Repudia-se a pretensão absolutória da imputação contra o processado, a violação do art. 33, caput, da Lei nº 11.343/06, ou mesmo a desclassificação para o uso, art. 28, da Lei de Drogas, à conta da insuficiência probatória, expondo os autos da ação penal a atuação na difusão de substância entorpecente, em razão dos elementos de convicção produzidos, inclusive depoimento testemunhal, razão do decreto adverso.
+Dessa forma, mostra-se evidenciada a desnecessidade dorevolvimento fático-probatório acostado aos autos para se concluir quea posse irregular de munições por agente dotada de periculosidade (possui envolvimento com tráfico de drogas), mesmo sem arma de fogo a pronto alcance, reduz de forma relevante o nível de segurança pública, afigurando-se formalmente e materialmente típica a conduta.
+Assim, constato que não há razões para modificar o entendimento firmado na decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
