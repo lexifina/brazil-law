@@ -1,0 +1,67 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME PREVISTO NO ART. 28 DA LEI N. 11.343/2006. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ENTENDIMENTO PACÍFICO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCONSTITUCIONALIDADE. VIA INADEQUADA. CRIME. DESPENALIZAÇÃO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL SEGUIDO PELA CORTE SUPERIOR DE JUSTIÇA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência de ambas as Turmas que compõem a Terceira Seção desta Corte Superior de Justiça é no sentido de que não se aplica o princípio da insignificância ao crime previsto no art. 28 da Lei n. 11.343/2006, tendo em vista que a pequena quantidade de entorpecente apreendida é circunstância inerente ao delito, além de se tratar de crime de perigo abstrato e presumido.
+2. A ação constitucional do habeas corpus não é via adequada para a arguição de inconstitucionalidade de dispositivo legal. Ademais, conforme jurisprudência do Supremo Tribunal Federal (RE n. 430.150/RJ), o porte de entorpecentes para consumo pessoal é crime, tendo apenas ocorrido a despenalização.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MAICON PEREIRA DA SILVA contra decisão monocrática de minha lavra, assim ementada (fl. 290):
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME PREVISTO NO ART. 28 DA LEI N. 11.343/2006. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ENTENDIMENTO PACÍFICO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCONSTITUCIONALIDADE. VIA INADEQUADA. CRIME. DESPENALIZAÇÃO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL SEGUIDO PELA CORTE SUPERIOR DE JUSTIÇA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO."
+Consta nos autos que o Recorrente foi condenado, em primeiro grau de jurisdição, "pela prática do crime previsto no Art. 28, caput, da Lei n.º 11.343/2006, fixando-lhe a pena de advertência sobre os efeitos nocivos da droga" (fl. 191; sem grifos no original).
+O Sentenciado interpôs recurso de apelação, o qual foi desprovido pela Turma Recursal do Colégio Recursal de São José do Rio Preto/SP (fls. 247-250).
+A Defesa impetrou habeas corpus perante o Tribunal de Justiça estadual, o qual, apesar de apreciar o mérito, indeferiu o processamento do writ (fls. 254-258).
+Nas razões do Recurso em Habeas Corpus, a Defesa sustentou, em suma, a necessidade de incidência do princípio da insignificância no crime de porte para consumo pessoal praticado pelo Agente, tendo em vista que ele foi surpreendido com apenas 2 (dois) gramas de maconha.
+Aduziu, ainda, que "o tipo penal previsto no artigo 28 da Lei Federal n.º 11.343/2006 é inconstitucional por violar o princípio da ofensividade e os direitos fundamentais privacidade e à autonomia individual" (fl. 266).
+Requereu, em liminar e no mérito, fosse reconhecida a atipicidade material da conduta do Paciente, ou declarada, de forma incidental, a inconstitucionalidade do art. 28, caput, da Lei n. 11.343/2006, absolvendo-o.
+Neguei provimento ao recurso ordinário às fls. 290-294.
+Nas razões deste agravo regimental, a Defesa reitera a fundamentação e os pleitos formulados na inicial do recurso.
+Pede, assim, a reconsideração da decisão impugnada ou a apreciação do feito pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME PREVISTO NO ART. 28 DA LEI N. 11.343/2006. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ENTENDIMENTO PACÍFICO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCONSTITUCIONALIDADE. VIA INADEQUADA. CRIME. DESPENALIZAÇÃO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL SEGUIDO PELA CORTE SUPERIOR DE JUSTIÇA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência de ambas as Turmas que compõem a Terceira Seção desta Corte Superior de Justiça é no sentido de que não se aplica o princípio da insignificância ao crime previsto no art. 28 da Lei n. 11.343/2006, tendo em vista que a pequena quantidade de entorpecente apreendida é circunstância inerente ao delito, além de se tratar de crime de perigo abstrato e presumido.
+2. A ação constitucional do habeas corpus não é via adequada para a arguição de inconstitucionalidade de dispositivo legal. Ademais, conforme jurisprudência do Supremo Tribunal Federal (RE n. 430.150/RJ), o porte de entorpecentes para consumo pessoal é crime, tendo apenas ocorrido a despenalização.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+No que interessa à solução da controvérsia, tem-se que o Colegiado estadual declinou as seguintes razões (fls. 255-257; sem grifos no original):
+"O impetrante sustenta que a conduta possui mínima ofensividade, nenhuma periculosidade social e inexpressiva lesão ao bem jurídico tutelado, devendo-se assim aplicar o princípio da insignificância.
+O argumento não se sustenta. É notório que os efeitos das drogas não alcançam somente a pessoa do usuário, mas toda a coletividade.
+O uso de entorpecentes acarreta mudança de comportamento, rompimento dos vínculos familiares, dificuldade para exercer atividades laborativas e, por vezes, a necessidade de sustentar o vício através da prática de crimes, fatos que não podem passar incólumes ao Direito Penal.
+E é bem por isso que não houve a descriminalização do porte de entorpecentes para uso pessoal, cujo tema tem grande relevância na esfera penal, porque reconheceu o Estado que não há outros meios eficazes de proteger o bem comum e de garantir os direitos fundamentais para a vida em sociedade.
+O delito de posse de drogas para consumo pessoal trata-se de crime de perigo abstrato ou presumido. A pequena quantidade de entorpecentes não retira o potencial ofensivo da conduta.
+O artigo 28 da Lei nº 11.343/06 está inserto em capítulo denominado "Dos crimes e das Penas", o que deixa claro a criminalização da conduta ali descrita.
+O fato de não haver cominação de pena privativa de liberdade ao delito de posse de drogas para consumo pessoal não afasta a sua natureza criminal. Por certo houve apenas aqui despenalização, a fim conferir ao usuário de drogas tratamento diverso daquele destinado ao traficante. É esse o entendimento firmado pelo C. Superior Tribunal de Justiça:  ..
+Logo, diante dos devastadores efeitos do uso de tais entorpecentes no tecido social, não há que se falarem ofensa ao Princípio da Ofensividade.
+Por fim, convém consignar que a discussão sobre a constitucionalidade ou inconstitucionalidade da criminalização do uso de entorpecentes pelo Supremo Tribunal Federal encontra-se pendente de apreciação definitiva até a presente data.
+Desta feita, de rigor é o reconhecimento da tipicidade da conduta prevista no artigo 28 da Lei de Drogas. Presente a hipótese do artigo 663 do Código de Processo Penal, deixa-se de requisitar informações e de colher a manifestação da Procuradoria Geral de Justiça."
+Não deve ser acolhido o pleito recursal.
+Com efeito, como afirmado na decisão agravada, a jurisprudência pacífica de ambas as Turmas que compõem a Terceira Seção desta Corte Superior de Justiça é no sentido de que não se aplica o princípio da insignificância ao crime previsto no art. 28 da Lei n. 11.343/2006, tendo em vista que a pequena quantidade de entorpecente apreendida é circunstância inerente ao delito, além de se tratar de crime de perigo abstrato e presumido.
+Exemplificativamente:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ART. 28 DA LEI N. 11.343/2006. TRANCAMENTO DA AÇÃO PENAL. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. DELITO DE PERIGO ABSTRATO OU PRESUMIDO CONTRA A SAÚDE PÚBLICA. PEQUENA QUANTIDADE. IRRELEVÂNCIA. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça tem posicionamento assente no sentido de que o crime de posse de drogas para consumo pessoal é de perigo abstrato ou presumido, não havendo necessidade de demonstração de efetiva lesão ao bem jurídico tutelado pela norma, isto é, a saúde pública. Precedentes.
+2. Nesse sentido, não há falar em incidência do postulado da insignificância em delitos desse jaez, porquanto, além de ser dispensável a efetiva ofensa ao bem jurídico protegido, a pequena quantidade de droga é inerente à própria essência do crime em referência.
+3. Agravo regimental desprovido." (AgRg no RHC n. 160.581/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. POSSE DE DROGA ILÍCITA PARA CONSUMO PESSOAL. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em razão da política criminal adotada pela Lei n. 11.343/2006, há de se reconhecer a tipicidade material do porte de substância entorpecente para consumo próprio, ainda que pequena a quantidade de drogas apreendidas, como na espécie.
+2. Conforme jurisprudência pacífica desta Corte Superior de Justiça, não se aplica o princípio da insignificância ao delito descrito no art. 28 da Lei nº 11.343/2006, em razão de se tratar de crime de perigo abstrato, contra a saúde pública, sendo, pois, irrelevante, para esse fim, a pequena quantidade de substância apreendida. Precedentes
+3. Agravo regimental não provido." (AgRg no RHC n. 147.158/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 01/06/2021; sem grifos no original.)
+Outrossim, o "habeas corpus não é o meio adequado para a arguição de inconstitucionalidade de dispositivo legal, devendo tal questão ser dirimida pela via processual adequada e perante o Tribunal competente, qual seja, o Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal. Aplicação analógica da Súmula 266/STF" (HC n. 152.128/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 21/02/2013; sem grifos no original).
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE DROGAS PARA CONSUMO PESSOAL. ART. 28 DA LEI N. 11.343/2006. INCONSTITUCIONALIDADE. INCOMPETÊNCIA DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Eventual questionamento acerca da constitucionalidade do art. 28 da Lei n. 11.343/2006 deve ser formulado perante o Supremo Tribunal Federal, diante da incompetência do Superior Tribunal de Justiça para tal exame.
+2. Agravo regimental não provido." (AgRg no HC n. 646.369/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 15/04/2021; sem grifos no original.)
+" ..  3. Não compete ao Superior Tribunal de Justiça a análise da alegada inconstitucionalidade do art. 28 da Lei n. 11.343/2006, sob pena de usurpação da competência atribuída à Corte Suprema.
+4. Ad argumentandum tantum, este Superior Tribunal de Justiça, alinhando-se ao "entendimento firmado pela Corte Suprema no julgamento do RE 430.150/RJ, sedimentou orientação de que a Lei n. 11.343/2006 não descriminalizou a conduta que tipificou no art. 28, que, portanto, continua a configurar crime. Ocorreu mera despenalização, assim entendida como a ausência de previsão, para o tipo, de pena privativa de liberdade como sanção" (HC 406.905/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/11/2017, DJe 13/11/2017)."
+5. Agravo regimental desprovido." (AgRg no HC n. 623.436/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/12/2021; sem grifos no original.)
+Ademais, registro, por oportuno, que conforme entendimento sedimentado pelo Supremo Tribunal Federal no julgamento do RE n. 430.150/RJ - seguido pelo Superior Tribunal de Justiça -, o porte de entorpecentes para consumo pessoal é crime, tendo apenas ocorrido a despenalização.
+Nesse sentido, cito o seguinte precedente:
+" ..
+III - O artigo 28 da Lei de Drogas, ainda que não preveja pena privativa de liberdade, permanece como crime. Não houve descriminalização da conduta, mas tão somente sua despenalização, vez que a norma especial conferiu tratamento penal mais brando aos usuários de drogas.
+IV - Com efeito, este Superior Tribunal de Justiça, alinhando-se ao "entendimento firmado pela Corte Suprema no julgamento do RE 430.150/RJ, sedimentou orientação de que a Lei n. 11.343/2006 não descriminalizou a conduta que tipificou no art. 28, que, portanto, continua a configurar crime. Ocorreu mera despenalização, assim entendida como a ausência de previsão, para o tipo, de pena privativa de liberdade como sanção" (HC 406.905/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/11/2017, DJe 13/11/2017)" (AgRg no HC n. 623.436/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2021).  ..
+Agravo regimental desprovido." (AgRg nos EDcl no AREsp n. 2.007.599/RJ, Rel. Ministro JESUÍNO RISSATO (desembargador Convocado do TJDFT), QUINTA TURMA, DJe 09/05/2022; sem grifos no original.)
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
