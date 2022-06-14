@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/06/2022 a 14/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  COMPANHIA  TRANSMISSÃO  DE  ENERGIA  ELÉTRICA  PAULISTA  -  CTEEP  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  indeferiu  liminarmente  os  embargos  de  divergência  (e-STJ  fls.  1.742/1.746).
+Naquela  oportunidade,  concluiu-se  pela  impossibilidade  de  exame  da  divergência  jurisprudencial  com  base  nos  seguintes  fundamentos:
+(i)  inexistência  de  similitude  fática  entre  os  acórdãos  confrontados,  pois  o  acórdão  embargado  não  julgou  o  mérito  da  causa,  e
+(ii)  inviabilidade  de  rever  os  critérios  de  conhecimento  do  recurso  especial  em  torno  da  suposta  violação  do  art.  1.022  do  Código  de  Processo  Civil  de  2015  por  depender  de  minuciosa  verificação  casuística  dos  acórdãos  confrontados.
+Referida  decisão  foi  integrada  pelo  julgamento  de  embargos  de  declaração,  opostos  pela  parte  recorrida  (e-STJ  fls.  1.867/1.869).
+A  agravante  ratificou  o  presente  recurso  à  fl.  1.871,  e-STJ.
+Em  suas  razões  (e-STJ  fls.  1.768/1.782),  afirma  que,
+"(..)  do  quanto  disposto  no  artigo  1.043,  inciso  III  do  Código  de  Processo  Civil,  é  embargável  o  acórdão  que  divergir,  em  Recurso  Especial,  de  julgamento  de  qualquer  outro  órgão  do  mesmo  tribunal,  podendo  ser  um  de  mérito  e  outro  que  não  tenha  apreciado  o  recurso,  sendo  certo  que  a  divergência  pode  ser  verificada  na  aplicação  do  direito  processual"  (e-STJ  fl.  1.771).
+Sustenta  que  a  pretensão  deduzida  no  recurso  especial  não  se  refere  à  lei  local,  mas,  sim,  a  preceitos  legais  previstos  na  legislação  processual  civil,  capazes  de  anular  o  julgamento  proferido  na  origem  por  negativa  de  prestação  jurisdicional.
+Aponta  a  desnecessidade  de  reanálise  de  matéria  fática-probatória  e  individualizada  para  concluir  que  houve  clara  ofensa  ao  artigo  535  do  Código  de  Processo  Civil  de  2015.
+Defende  que
+"(..)
+A  divergência  reside  no  julgado  proferido  pela  Terceira  Turma  do  STJ,  quando  do  julgamento  do  REsp  1.780.404/RJ,  sob  relatoria  Ministro  Moura  Ribeiro,  em  que  entendeu  por  bem  anular  acórdão  proferido  pelo  Tribunal  local  diante  da  negativa  de  prestação  jurisdicional  completa,  considerando  omissões  importantes  e  fundamentais  constantes  no  acórdão  proferido  pela  segunda  instância"  (e-STJ  fl.  1.773).
+Assevera  que  não  se  pode  manter  a  validade  de  um  acórdão  que  "(..)  possui  2  parágrafos  de  fundamentação,  que,  por  óbvio,  não  enfrentou  questões  relevantes  e  fundamentais  para  o  desfecho  da  lide"  (e-STJ  fl.  1.775).
+Assinala  que  o  recurso  especial  é  fundado  na  ofensa  aos  artigos  3º,  6º,  III,  165,  458,  II,  e  535,  II,  do  CPC/1973,  de  modo  que  não  há  falar  em  exame  de  lei  local  para  anular  o  acórdão  de  origem  por  negativa  de  prestação  jurisdicional.
+Ao  final,  requer  o  provimento  do  recurso.
+A  Fundação  CESP  apresentou  impugnação  às  fls.  1.830/1.836,  e-STJ.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO.  DISSÍDIO.  VIOLAÇÃO.  ARTIGO  535  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  1973.  NÃO  CABIMENTO.
+1.  Inviável  o  exame  de  divergência  jurisprudencial  em  torno  de  suposta  violação  do  artigo  535  do  Código  de  Processo  Civil  de  1973  por  depender  de  minuciosa  verificação  casuística  dos  acórdãos  confrontados.  Precedentes.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De  início,  cumpre  assinalar  que  a  Corte  Especial,  no  julgamento  do  EREsp  1.474.176/SP,  pacificou  o  entendimento  de  que,  no  agravo  interno,  a  ausência  de  impugnação  a  fundamentos  autônomos  não  acarreta  o  não  conhecimento  do  recurso,  mas,  tão  somente,  preclusão  do  tema.
+Na  presente  hipótese,  a  agravante  não  se  insurgiu  quanto  ao  fundamento  da  decisão  impugnada  de  que  não  cabem  embargos  de  divergência  no  caso  em  que  o  acórdão  recorrido  não  tenha  apreciado  o  mérito  ou  a  controvérsia,  de  modo  que  o  reconhecimento  da  preclusão  no  tocante  a  tal  tema  é  medida  que  se  impõe.
+Quanto  ao  mais,  como  consignado  na  decisão  atacada,  a  jurisprudência  desta  Corte  orienta-se  no  sentido  de  que  o  exame  de  violação  do  artigo  535  do  CPC/1973,  artigo  1.022  do  CPC/2015,  depende  de  uma  verificação  casuística  que  não  pode  ser  feita  em  embargos  de  divergência.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA.  DISSENSO  QUANTO  A  REGRAS  TÉCNICAS  DE  ADMISSIBILIDADE  DO  RECURSO  ESPECIAL.  IMPOSSIBILIDADE.  ACÓRDÃO  EMBARGADO  QUE  NÃO  APRECIOU  A  CONTROVÉRSIA  DE  MÉRITO.  SÚMULA  315/STJ.  DISCUSSÃO  ACERCA  DA  PRESTAÇÃO  JURISDICIONAL  APLICADA  AO  CASO  CONCRETO.  ART.  535  DO  CPC/73.  IMPOSSIBILIDADE.
+1.  Não  cabem  embargos  de  divergência  quando  o  acórdão  embargado  ou  o  paradigma  sequer  adentra  no  mérito  do  recurso  especial,  interpretando  os  pressupostos  de  admissibilidade  dessa  espécie  recursal.  Aplicação  analógica  da  Súmula  315/STJ.
+2.  Nos  termos  da  jurisprudência  vigente  nesta  Corte  Superior,  não  há  que  se  falar  em  dissídio  jurisprudencial  com  relação  ao  entendimento  firmado  em  acórdão  embargado  quanto  à  existência  ou  não  de  ofensa  ao  disposto  no  art.  535  do  CPC/73  (atual  art.  1.022  do  CPC/2015),  na  medida  em  que  a  verificação  de  ocorrência  ou  não  dos  vícios  elencados  nesse  dispositivo  processual  depende  das  circunstâncias  particulares  do  caso  concreto.
+3.  Agravo  interno  improvido"  (AgInt  nos  EDv  nos  EAREsp  1.174.233/MG,  Rel.  Ministra  NANCY  ANDRIGHI,  CORTE  ESPECIAL,  julgado  em  10/3/2020,  DJe  12/3/2020  -  grifou-se).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  QUE  INDEFERIU  LIMINARMENTE  OS  EMBARGOS.  CONFIRMAÇÃO.  AGRAVO  DESPROVIDO.
+1.  A  Corte  Especial,  no  julgamento  dos  EAREsp  324.073/SP,  firmou  orientação  de  que,  a  partir  da  vigência  do  CPC  de  2015,  deve  ser  mitigada  a  força  da  Súmula  315/STJ,  porquanto  a  inovação  prevista  em  seu  art.  1.043,  III,  passou  a  autorizar  os  embargos  de  divergência  quando,  embora  desprovido  o  agravo,  a  fundamentação  do  julgado  passar  pelo  exame  do  mérito  do  recurso  especial.  No  caso  em  exame,  contudo,  a  questão  de  fundo  discutida  no  apelo  especial  não  foi  analisada  por  este  Tribunal,  porque  presentes  óbices  formais  ao  conhecimento  do  tema  de  mérito,  de  maneira  que  é  devida  a  incidência  da  Súmula  315/STJ.
+2.  Na  aplicação  dos  arts.  489  e  1.022  do  CPC  de  2015,  a  constatação  de  ter,  ou  não,  havido  fundamentação  ou  omissão  no  acórdão  proferido  na  origem,  em  regra,  demanda  o  exame  das  peculiaridades  de  cada  caso  concreto,  inexistindo,  portanto,  dissídio  de  teses  a  ensejar  os  embargos  de  divergência.
+3.  Nos  termos  da  jurisprudência  desta  Corte  de  Justiça,  firmada  sob  a  égide  do  CPC  de  2015,  não  serve  para  embasar  embargos  de  divergência  a  apresentação  de  paradigmas  oriundos  de  ações  que  possuam  natureza  jurídica  de  garantia  constitucional,  tais  como  Habeas  Corpus,  Recurso  Ordinário  em  Habeas  Corpus,  Mandado  de  Segurança,  Recurso  Ordinário  em  Mandado  de  Segurança,  Habeas  Data  e  Mandado  de  Injunção.
+4.  Não  cabe  invocar  dissídio  com  arestos  de  outros  Tribunais,  tampouco  com  decisão  monocrática,  pois  os  embargos  de  divergência  servem  para  uniformizar  jurisprudência  interna,  ocorrida  no  âmbito  de  acórdãos  proferidos  pelo  Superior  Tribunal  de  Justiça.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  nos  EDv  nos  EAREsp  1.398.511/SP,  Rel.  Ministro  RAUL  ARAÚJO,  CORTE  ESPECIAL,  julgado  em  11/2/2020,  DJe  26/2/2020  -grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  DE  DIVERGÊNCIA  INDEFERIDOS  LIMINARMENTE.  INCIDÊNCIA  DA  SÚMULA  315/STJ.  MÉRITO  NÃO  EXAMINADO.  INVIABILIDADE  DA  APRECIAÇÃO  DE  DIVERGÊNCIA  DE  INTERPRETAÇÃO  DO  ART.  1.022,  DO  CPC.  PREMISSAS  FÁTICO-PROCESSUAIS  PRÓPRIAS  DE  CADA  CASO  CONCRETO  QUE  OBSTAM  COMPARAÇÃO.  AGRAVO  DESPROVIDO.
+I  -  Não  é  admissível  o  recurso  de  embargos  de  divergência  quando  o  recurso  especial  não  for  apreciado,  aplicando-se  a  súmula  315/STJ,  que  assim  preconiza:  "Não  cabem  embargos  de  divergência  no  âmbito  do  agravo  de  instrumento  que  não  admite  recurso  especial".
+II  -  Em  regra,  não  é  possível  recurso  de  embargos  de  divergência  quando  se  tratar  de  exame  sobre  violação  ao  artigo  1.022  do  CPC,  em  virtude  das  peculiaridades  de  cada  caso  concreto,  somente  se  fazendo  possível  quando  o  embargante  comprovar  cabalmente  a  identidade  das  teses  jurídicas  supostamente  violadas  na  origem,  bem  como  entendimentos  divergentes  neste  col.  Superior  Tribunal  de  Justiça,  o  que  inexistiu  na  hipótese.
+III  -  Agravo  interno  desprovido"  (AgInt  nos  EAREsp  1.331.055/PR,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  CORTE  ESPECIAL,  julgado  em  22/10/2019,  DJe  29/10/2019  -  grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
