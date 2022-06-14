@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESOBEDIÊNCIA. ORDEM DE PARADA POR PARTE DE POLICIAIS NO EXERCÍCIO DE ATIVIDADE OSTENSIVA. TIPICIDADE DA CONDUTA. MATÉRIA PACÍFICA NESTA CORTE SUPERIOR. RESP N. 1.859.933/SC (TEMA 1.060). AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do 1.859.933/SC (Tema 1060), relator Ministro Antonio Saldanha Palheiro, DJe de 1/4/2022 , pela sistemática dos recursos repetitivos, firmou orientação no sentido de que a desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro.
+2. No presente caso, a ordem de parada não foi dada por autoridade de trânsito, no controle cotidiano no tráfego local, mas emanada de policiais militares, no exercício de atividade ostensiva destinada à prevenção e à repressão de crimes, tendo a abordagem do recorrente se dado em razão de suspeita de atividade ilícita, o que configura hipótese de incidência do delito de desobediência tipificado no art. 330, do CP.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por KEVIN DE ALMEIDA e JOSÉ MIGUEL DA SILVA NETO (e-STJ fls. 520/546) contra decisão monocrática de e-STJ fls. 503/508, que deu provimento ao recurso especial do MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL para condená-los pelo delito do art. 330 do CP, determinando o retorno dos autos à Corte de origem para a realização da respectiva dosimetria da pena.
+A parte agravante alega que a desobediência à ordem de parada emitida pela autoridade de trânsito ou por seus agentes, ou mesmo por policiais ou outros agentes públicos no exercício de atividades relacionadas ao trânsito, não constitui crime de desobediência, porquanto prevista sanção administrativa específica no artigo 195 do Código de Trânsito Brasileiro (e-STJ fls. 532).
+Requer, assim, a reconsideração da decisão agravada.
+O feito foi suspenso em razão da questão delimitada (REsp n. 1.859.933/SC). Tendo sido o tema julgado pela 3ª Seção, retornaram os autos para julgamento.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+É que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do 1.859.933/SC (Tema 1060), relator Ministro Antonio Saldanha Palheiro, DJe de 1/4/2022 , pela sistemática dos recursos repetitivos, firmou orientação no sentido de que a desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro.
+Abaixo, a ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PENAL. CRIME DE DESOBEDIÊNCIA. ART. 330 DO CÓDIGO PENAL. ORDEM LEGAL DE PARADA EMANADA NO CONTEXTO DE ATIVIDADE OSTENSIVA DE SEGURANÇA PÚBLICA. TIPICIDADE DA CONDUTA. SUPOSTO EXERCÍCIO DO DIREITO DE AUTODEFESA E DE NÃO AUTOINCRIMINAÇÃO. DIREITOS NÃO ABSOLUTOS. IMPOSSIBILIDADE DE INVOCAÇÃO PARA A PRÁTICA DE DELITOS. RECURSO PROVIDO.
+1. O descumprimento de ordem legal emanada em contexto de policiamento ostensivo para prevenção e repressão de crimes, atuando os agentes públicos diretamente na segurança pública, configura o crime de desobediência, conforme foi reconhecido, no caso, pelo Juízo de primeira instância.
+2. O direito a não autoincriminação não é absoluto, motivo pelo qual não pode ser invocado para justificar a prática de condutas consideradas penalmente relevantes pelo ordenamento jurídico.
+3. Recurso especial representativo da controvérsia provido, com a fixação a seguinte tese: A desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro. (REsp n. 1.859.933/SC, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 9/3/2022, DJe de 1/4/2022.)
+No presente caso, a ordem de parada não foi dada por autoridade de trânsito, no controle cotidiano no tráfego local, mas emanada de policiais militares, no exercício de atividade ostensiva destinada à prevenção e à repressão de crimes, tendo a abordagem do recorrente se dado em razão de suspeita de atividade ilícita, o que configura hipótese de incidência do delito de desobediência tipificado no art. 330 do CP.
+Diante das provas produzidas na fase instrutória e dos depoimentos dos Policiais Militares, ficou devidamente comprovado que os recorridos, de forma consciente e voluntária, praticaram a conduta prevista no art. 330 do CP. De fato, foi essa a conclusão da Corte de origem, quando asseverou que realmente foram produzidas provas induvidosas no sentido de que os acusados, no momento em que transportavam a droga em seu carro (60kg de maconha), receberam ordem de parada e desatenderam-na, saindo em fuga até serem alcançados.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
