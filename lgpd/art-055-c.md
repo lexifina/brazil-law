@@ -3,5 +3,5 @@ I - Conselho Diretor, órgão máximo de direção;
 II - Conselho Nacional de Proteção de Dados Pessoais e da Privacidade;
 III - Corregedoria;
 IV - Ouvidoria;
-V - órgão de assessoramento jurídico próprio; e
+V - Procuradoria; e
 VI - unidades administrativas e unidades especializadas necessárias à aplicação do disposto nesta Lei.
