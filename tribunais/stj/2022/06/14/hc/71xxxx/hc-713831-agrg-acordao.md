@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. PRESCRIÇÃO.PRAZO TRIENAL. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Consoante a jurisprudência desta Corte, "a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010" (RHC n. 51.678/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/6/2016).
+III - Na espécie, a prática da falta grave ocorreu em 08/08/2019 e a decisão homologatória do seu reconhecimento se deu em 20/05/2021 (fls. 14-18). Portanto, não transcorreu o triênio necessário à consumação do prazo prescricional.
+IV - Não se aplica, ao presente caso, as alterações introduzidas na lei de regência, pela Lei nº 13.964, de 2019, uma vez que referida normanão dispõe acerca de prazos prescricionais das faltas disciplinares.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de WANDERSON PEREIRA DOS ANJOScontra decisão monocrática, a qualnão conheceu do habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça o Estado de Minas Gerai.
+No presente agravo, a defesa reitera que "transcorridos mais de 02 (anos) anos desde a data da decisão que reconheceu a suposta falta disciplinar, ultrapassado está o período previsto no art. 112, §7º da LEP. Analisando a matéria sob a ótica das alterações promovidas pelo "pacote anticrime", e a nova redação do §7º do art. 112 da LEP, permite-nos concluir que o agravante já havia cumprido o tempo de reabilitação, de modo que a falta grave a ele imputada não deveria ser homologada ante o decurso de 12 meses para a sua apuração, o que por si só, caracteriza o constrangimento ilegal a ser sanado por esta Corte".
+Postula, assim, a reconsideração da decisão, para que se reconheça a prescrição da falta grave imputada ao agravante diante do lapso temporal de 01 ano entre a sua ocorrência e homologação (art. 112, §7º da LEP),ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 622-633).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. PRESCRIÇÃO.PRAZO TRIENAL. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Consoante a jurisprudência desta Corte, "a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010" (RHC n. 51.678/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/6/2016).
+III - Na espécie, a prática da falta grave ocorreu em 08/08/2019 e a decisão homologatória do seu reconhecimento se deu em 20/05/2021 (fls. 14-18). Portanto, não transcorreu o triênio necessário à consumação do prazo prescricional.
+IV - Não se aplica, ao presente caso, as alterações introduzidas na lei de regência, pela Lei nº 13.964, de 2019, uma vez que referida normanão dispõe acerca de prazos prescricionais das faltas disciplinares.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa reitera que "transcorridos mais de 02 (anos) anos desde a data da decisão que reconheceu a suposta falta disciplinar, ultrapassado está o período previsto no art. 112, §7º da LEP. Analisando a matéria sob a ótica das alterações promovidas pelo "pacote anticrime", e a nova redação do §7º do art. 112 da LEP, permite-nos concluir que o agravante já havia cumprido o tempo de reabilitação, de modo que a falta grave a ele imputada não deveria ser homologada ante o decurso de 12 meses para a sua apuração, o que por si só, caracteriza o constrangimento ilegal a ser sanado por esta Corte".
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada,consoante a jurisprudência desta Corte,"aprescriçãodas faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010"(RHC n. 51.678/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 22/6/2016).
+Na espécie, a prática dafaltagraveocorreu em 08/08/2019e a decisão homologatória do seu reconhecimento se deu em 20/05/2021 (fls. 14-18). Portanto, não transcorreu o triênio necessário à consumação do prazo prescricional.
+A propósito, não se aplica, ao presente caso, as alterações introduzidas na lei de regência, pela Lei nº 13.964, de 2019, uma vez que referida norma também não dispõe acerca de prazos prescricionais das faltas disciplinares, tratando-sede ilação da defesa.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
