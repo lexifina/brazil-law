@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  LESÃO  CORPORAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DADECISÃO AGRAVADAPROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR DE JUSTIÇA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE. INCIDÊNCIA DO ENUNCIADO SUMULAR N.182/STJ.
+Nos termos da jurisprudência consolidada nesta eg. Corte Superior, cumpre à parteagravanteimpugnar especificamente os fundamentos estabelecidos na decisão monocrática agravada,o que não ocorreu no caso sob exame. Incidência do óbice da Súmula 182/STJ, segundo a qual é inviável o agravo que não impugnaespecificamente os fundamentos da decisão agravada.
+Agravo  regimental  não  conhecido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ALEX  JOSE  CARVALHO  contra  a  decisão  de  fls.  278-279,  na  qual  a  Presidência  desta  Corte  Superior  não  conheceu  do  agravo  em  recurso  especial,  por  ausência  de  impugnação  específica  aos  fundamentos  da  decisão  que  inadmitiu  o  apelo  nobre.
+Consta  dos  autos  que  o  juízo  singular  condenou  o  agravante  como  incurso  nas  sanções  do  art.  129,  §  9º  do  Código  Penal,  à  pena  de  3  (três)  meses  de  detenção,  no  regime  inicial  aberto.  (fls.  153-166).
+O  eg.  Tribunal  a  quo,  à  unanimidade  de  votos,  negou  provimento  à  apelação  criminal  da  Defesa,  nos  termos  da  ementa  seguinte  (fls.  220-226):
+"APELAÇÃO  CRIMINAL  -  Lesão  corporal  -  Materialidade  e  autoria  incontestes  -  Desconhecimento  da  lei  que  é  inescusável  -  Inteligência  do  art.  21,  do  Código  Penal  -  Exercício  do  poder  de  correção  dos  filhos  incompatível  com  a  conduta  imputada  -  Condenação  de  rigor  -  Pena  fixada  no  mínimo  legal  -  Regime  inicial  aberto  -  Impossibilidade  da  substituição  da  pena  corpórea  -  Inteligência  da  Súmula  588,  do  STJ  -  Sursis  que  não  deve  ser  concedido  já  que  mais  gravoso  que  a  própria  execução  da  pena  imposta  -  Recurso  desprovido."
+Ato  seguinte,  a  Defesa  opôs  embargos  de  declaração  (fls.  236-238),  os  quais  foram  rejeitados  pelo  Tribunal  a  quo  (fls.  240-242).  Eis  a  ementa  do  acórdão:
+"EMBARGOS  DE  DECLARAÇÃO  Efeitos  infringentes  Descabimento  Recurso  de  integração,  não  de  substituição  Embargos  declaratórios  rejeitados."
+Nas  razões  do  recurso  especial,  interposto  pela  Defesa  com  fulcro  na  alínea  a  do  permissivo  constitucional,  alegou-se  violação  ao  art.  77  do  Código  Penal.  Para  tanto,  mencionou  que:
+a)  "Com  a  interposição  do  recurso  de  Apelação,  o  PGJ  admitiu  o  sursis,  mas  o  provimento  fora  negado.  Nem  com  os  Embargos  de  Declaração  houvera  a  rejeição,  com  o  informe  de  que  seria  menos  tempo"  (fl.  234);
+b)  "A  afronta  ao  artigo  77  do  Código  Penal,  pois  negam  a  vigência  do  sursis,  deixando  de  lado  que  é  direito  subjetivo  do  condenado,  não  houvera  nem  no  juízo  de  primeiro  grau  e  nem  no  do  Egrégio  Tribunal  de  Justiça  a  presença  negativa  que  impossibilitariam  o  sursis"  (fl.  234);
+c)  "No  caso  em  tela,  o  Recorrente  por  estar  na  esfera  dos  requisitos  legais  admissíveis  do  sursis,  o  mesmo  o  requer  para  o  cumprimento"  (fl.  234);
+d)  "A  pena  base  é  menor  que  (02)  dois  anos,  portanto  não  há  presença  do  impedimento  da  Suspensão  Condicional  da  Pena;  primário,  trabalhador  formal,  residência  fixa,  direito  subjetivo  do  Recorrente"  (fl.  234).
+Apresentadas  as  contrarrazões  (fls.  250-254),  o  especial  foi  inadmitido  na  origem  pela  aplicação  da  Súmula  7  do  STJ  e  da  Súmula  283  do  STF.  (fls.  257-258).
+Foi  interposto  o  respectivo  agravo,  no  qual  o  insurgente  sustenta  a  não  incidência  dos  referidos  óbices  (fls.  261-262).  A  Contraminuta  foi  apresentada  pelo  Ministério  Público  (fls.  265-269).
+Na  decisão  de  fls.  278-279,  em  decorrência  da  não  impugnação  aos  fundamentos  da  decisão  que  inadmitiu  o  apelo  nobre,  a  d.  Presidência  deste  Superior  Tribunal  de  Justiça  não  conheceu  do  agravo  em  recurso  especial.
+Nas  razões  deste  recurso,  a  Defesa  juntou  aos  autos  documentação  estranha  e  nada  mencionou  sobre  a  decisão  monocrática  ora  agravada.  (fls.  286-362).
+Pelo  despacho  de  fl.  366  foi  determinada  a  redistribuição  dos  autos.
+Conforme  Termo  de  Distribuição  e  Encaminhamento  de  fl.  369  o  feito  foi  a  mim  atribuído.
+O  Ministério  Público  Federal  manifestou-se  pelo  não  conhecimento  do  agravo  regimental  (fls.  371-373).
+Por  manter  o  decisum,  trago  o  feito  a  julgamento  do  Colegiado.
+É  o  relatório.
+EMENTA
+PENAL. AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  LESÃO  CORPORAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DADECISÃO AGRAVADAPROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR DE JUSTIÇA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE. INCIDÊNCIA DO ENUNCIADO SUMULAR N.182/STJ.
+Nos termos da jurisprudência consolidada nesta eg. Corte Superior, cumpre à parteagravanteimpugnar especificamente os fundamentos estabelecidos na decisão monocrática agravada,o que não ocorreu no caso sob exame. Incidência do óbice da Súmula 182/STJ, segundo a qual é inviável o agravo que não impugnaespecificamente os fundamentos da decisão agravada.
+Agravo  regimental  não  conhecido.
+VOTO
+  O  presente  agravo  não  reúne  condições  para  ser  conhecido.
+A  Presidência  deste  eg.  Superior  Tribunal  de  Justiça  verificou  que  o  agravo  em  recurso  especial  deixou  de  impugnar  adequadamente  os  fundamentos  da  decisão  de  admissibilidade  do  feito  pelo  Tribunal  de  origem  para  não  admitir  o  recurso  especial,  especificamente:  (Súmula  n.  7  do  STJ  e  Súmula  n.  283  do  STF).
+Por  tal  razão,  foi  aplicada  a  regra  contida  no  art.  21-E,  inciso  V,  c/c  o  art.  253,  parágrafo  único,  inciso  I,  ambos  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  ocasionando  o  não  conhecimento  do  agravo  em  recurso  especial.
+Deve-se  ressaltar  que  cabe  ao  agravante  demonstrar  o  equívoco  da  decisão  em  face  da  qual  se  insurge,  sendo  imprescindível  a  impugnação  específica  a  todos  os  óbices  por  ela  apontados.
+O  agravante,  contudo,  nas  razões  deste  agravo  regimental,  nada  menciona  sobre  a  decisão  monocrática,  limita-se  a  juntar  a  documentação  referente  a  uma  pessoa  estranha  ao  processo,  deixando  novamente  de  desincumbir-se  do  ônus  de  infirmar  o  fundamento  da  decisão  monocrática  agravada  que  pretende  desconstituir.
+Tal  circunstância,  como  cediço,  atrai,  in  casu,  a  aplicação  do  enunciado  da  Súmula  n.  182  desta  Corte  Superior  de  Justiça,  que  dispõe,  verbis:  "É  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".
+Nos  termos  da  jurisprudência  desta  eg.  Corte  Superior  de  Justiça,  " a  não  impugnação  específica  e  pormenorizada  dos  fundamentos  da  decisão  agravada  inviabiliza  o  conhecimento  do  agravo,  por  violação  ao  princípio  da  dialeticidade,  uma  vez  que  os  fundamentos  não  impugnados  se  mantêm.  Dessarte,  não  é  suficiente  a  assertiva  de  que  todos  os  requisitos  foram  preenchidos  ou  a  insistência  no  mérito  da  controvérsia"  (AgRg  no  AREsp  n.  1.547.953/GO,  Quinta  Turma,  Rel.  Min.  Reynaldo  Soares  da  Fonseca,  DJe  de  04/10/2019).
+Assim,  verificada  esta  hipótese -  ausência  de  impugnação  dos  fundamentos  da  decisão  agravada - o  recurso  não  merece  ser  conhecido,  conforme  remansosa  jurisprudência  desta  Corte,  v.g.:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PRINCÍPIO  DA  COLEGIALIDADE.  VIOLAÇÃO  INOCORRENTE.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  182/STJ  APLICAÇÃO  POR  ANALOGIA.  AGRAVO  REGIMENTAL  NÃO  CONHECIDO.
+1.  Não  há  maltrato  ao  princípio  da  colegialidade,  pois,  consoante  disposições  do  Código  de  Processo  Civil  e  do  Regimento  Interno  desta  Corte,  o  relator  deve  fazer  um  estudo  prévio  da  viabilidade  do  recurso  especial,  além  de  analisar  se  a  tese  encontra  plausibilidade  jurídica,  uma  vez  que  a  parte  possui  mecanismos  processuais  de  submeter  a  controvérsia  ao  colegiado  por  meio  do  competente  agravo  regimental.  Ademais,  o  julgamento  colegiado  do  recurso  pelo  órgão  competente  supera  eventual  mácula  da  decisão  monocrática  do  relator.
+2.  Cabe  ao  agravante,  nas  razões  recursais,  atacar  especificamente  os  fundamentos  da  decisão  agravada,  sendo  inviável  o  regimental  que  deixa  de  fazê-lo  ou  apenas  formula  alusões  genéricas  aos  motivos  que  conduziram  ao  não  conhecimento  do  agravo  em  recurso  especial.  Incidência  da  Súmula  182/STJ.
+3.  Agravo  regimental  não  conhecido"  (AgRg  no  AREsp  n  1.021.378/MG,  Quinta  Turma,  Rel.  Min.  Reynaldo  Soares  da  Fonseca,  DJe  de  5/4/2017).
+AGRAVO  REGIMENTAL  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  NÃO  CONHECIMENTO.
+1.  É  inviável  o  agravo  regimental  ou  interno  que  deixa  de  atacar  os  fundamentos  da  decisão  agravada,  de  acordo  com  os  arts.  932  III  e  1.021,  §  1º,  do  Código  de  Processo  Civil  -  CPC  de  2015  e  a  Súmula  n.  182  do  Superior  Tribunal  de  Justiça.  Precedentes.
+2.  Agravo  regimental  não  conhecido"  (AgRg  no  AREsp  n.  979.894/PB,  Sexta  Turma,  Rel.  Min.  Nefi  Cordeiro,  DJe  de  21/6/2017).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação àdecisão monocrática deve ser clara e suficiente a demonstrar o equívocodos fundamentos utilizados para solucionar a questão em detrimento aosinteresses do ora agravante.
+Diante  do  exposto,  não  conheço  do  agravo  regimental.
+É  o  voto.
