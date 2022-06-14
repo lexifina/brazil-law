@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MAIK BRENO VIRGINIO interpõeagravo regimentalcontra a decisão de fls. 265-267, que negou provimento ao recurso ordinário emhabeas corpuspor ele interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais(Processo n. 1.0000.22.014410-9/000).
+Oagravantetevesuaprisãoem flagrante convertidaem preventiva pela prática dodelitodescritonoart.33, caput, daLei n. 11.343/2006.
+No presente writ,forammantidas as segregaçõescautelares para garantia da ordem pública,a fim de conter o risco de reiteração delitiva, tendo em vista a expressiva quantidade e variedade dos entorpecentes apreendidos, a existência de ações penais em cursoea impossibilidade de condições pessoais favoráveis dopaciente, por si sós,desconstituírema custódia cautelar.
+Oagravanteinsistena tese de que a decretação da prisão preventiva carece de fundamentação e de que não estão preenchidos os requisitos da custódia cautelar. Argumentaque a quantidade de drogas apreendidanão é suficiente para justificar a manutenção da prisão preventiva.
+Pondera que analisar a alegação de inovação na fundamentação do acórdão que manteve a segregação cautelar não configura supressão de instância.
+Requera reconsideração da decisão agravada ou o provimento do recurso e, consequentemente, a concessão da ordem para revogar acustódiacautelar, aplicando-se as medidas alternativas previstas no art. 319 do CPP.
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo regimental (fls. 315-324).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA.SUBSTITUIÇÃO POR MEDIDASCAUTELARES ALTERNATIVAS. NÃO CABIMENTO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS.AÇÕES PENAIS EM CURSO. SUPRESSÃO DE INSTÂNCIA. MATÉRIANÃO APRECIADAPELO TRIBUNAL DE ORIGEM.DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1.A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2.São fundamentos idôneos para a decretação da segregação cautelar nocaso de tráfico ilícito de entorpecentes a quantidade, a variedade ou anatureza das drogas apreendidas, bem como a gravidade concreta do delito,o modus operandi da ação delituosa e a periculosidade do agente.
+3. Inquéritos ou ações penais em curso evidenciam o maior envolvimento do agente com a prática delituosa, podendo ser utilizados para justificar a manutenção da segregação cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+4.O exame pelo Superior Tribunal de Justiça de matéria que não foiapreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+5. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. É o que se extrai dosseguintes excertos da decisão agravada (fl. 266):
+A propósito, assim se manifestou o Tribunal a quo (fls. 220-222, destaquei):
+Dito isso, sem a pretensão de se adentrar ao mérito da causa, bem como de revolver as provas dos autos, o que é incabível nesta sede, tem-se que, no presente caso, o delito de tráfico de drogas de que é acusado o paciente se revela de elevada gravidade concreta, eis ter sido apreendida grande quantidade de entorpecentes (60g de maconha, 1450 unidades de LSD e 3.005kg de ecstasy, conforme laudos acostados no documento de ordem n.º 03), o que demonstra peculiar reprovabilidade da conduta.
+ ..
+Não bastasse, infere-se da CAC e FAC acostadas ao feito (doc. de ordem n.º 03), que esse não é o primeiro envolvimento do agente com a Justiça, tendo em vista que ele responde a outras ações penais pela prática dos delitos de tráfico de drogas e associação para o tráfico, já tendo sido, inclusive, beneficiado com alvará de soltura em oportunidade anterior.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a apreensão de quantidade expressiva deentorpecente(60g de maconha, 1.450 unidades de LSD e 3.005kg de ecstasy) e a existência de ação penal em cursoforam consideradas pelo Tribunal de origem para a manutenção daprisãopreventiva, o que está de acordo com a orientaçãoda Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido,o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, omodus operandida ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Por fim,amatériarelativa à inovação na fundamentação do acórdão que manteve a segregação cautelar não foiapreciadapela instância de origem,também não foram opostos embargos de declaração para provocar referida manifestação. Assim, o Superior Tribunal de Justiça não pode apreciá-la, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, visto que oagravante não apresentouargumentos novos capazesde infirmar o decisum impugnado, mantenho-o por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
