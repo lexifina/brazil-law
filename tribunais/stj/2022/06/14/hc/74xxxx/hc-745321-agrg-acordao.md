@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O JULGAMENTO DO APELO DEFENSIVO. MATÉRIA ANTERIORMENTE SUBMETIDA AO SUPERIOR TRIBUNAL DE JUSTIÇA POR MEIO DE HABEAS CORPUS RECENTEMENTE JULGADO. MERA REITERAÇÃO NO ÂMBITO DO RECURSO ORDINÁRIO. AGRAVO DESPROVIDO.
+1. Não cabe ao Tribunal de origem a análise de eventual demora no julgamento do recurso de apelação. Sendo o ato coator imputado a Desembargador do Tribunal de Justiça, cabe a este STJ processar e julgar originariamente os habeas corpus, nos termos do art. 105, I, alínea "c", c/c alínea "a", da Constituição Federal. Assim, realmente não cabia o exame pelo Tribunal a quo da referida matéria, como bem destacou o acórdão impugnado.
+2. No entanto, o presente mandamus consiste em mera reiteração dos pedidos formulados nos HCs ns. 725.952/SP e 743.064/SP. Registre-se que o primeiro foi recentemente julgado por esta Corte (22/3/2022) e o segundo teve a liminar indeferida em 19/5/2022.
+3. Desse modo, a questão foi recentemente submetida a este Tribunal nos autos dos HCs ns. 725.952/SP e 743.064/SP, razão pela qual, o presente habeas corpus não merece ser conhecido.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por LEVI DA SILVA contra decisão de minha lavra que não conheceu do habeas corpus por se tratar de mera reiteração do HC n. 743.064/SP (e-STJ fls. 270/272).
+Em suas razões, a defesa insiste que o agravante está preso desde 11/11/2016 e que, embora tenha sido condenado à pena de 18 anos e 2 meses de reclusão, em , ainda aguarda o julgamento do apelo defensivo que foi recebido no Tribunal em 24/5/2018. Reitera que se passaram mais de 3 anos e não há previsão para o julgamento do recurso.
+Acrescenta que foi impetrado o HC n. 725.952/SP, nesta Corte, argumentando também a demora no julgamento do apelo defensivo e que a ordem não foi conhecida, mas foi recomendada ao Desembargador Relator que se desse prioridade ao julgamento do recurso, "o que motivou a presente impetração já que o constrangimento permanece." (e-STJ fl. 279). No ponto, assevera que o HC n. 725.952/SP afastou o alegado excesso de prazo, sob o fundamento de que "a lentidão no julgamento do apelo defensivo decorreu da demora dos corréus no atendimento das determinações judiciais, o que é inadmissível já que o Agravante não pode ser prejudicado pela morosidade dos defensores que representaram e representam os corréus na ação penal" (e-STJ fl. 280).
+Reitera que o writ originário anterior (HC n. 2281103-50.2019.8.26.0000) se insurgia contra os fundamentos para a negativa do apelo em liberdade e o mandamus ora impugnado (HC n. 2238874-07.2021.8.26.0000), tinha como objeto o reconhecimento do excesso de prazo para o julgamento da apelação, assim, conclui que "o v. acórdão ora combatido deveria ter sido sido conhecido pois ao contrário do firmado pelo Tribunal de São Paulo, NÃO é mera reiteração do HC nº 2281103-50.2019.8.26.0000." (e-STJ fl. 280).
+Argumenta, mais uma vez, que o agravante é único réu que está preso nesse processo e que já foi, inclusive, agraciado em 9/6/2021 com a progressão ao regime semiaberto.
+Conclui ser "teratológica a manutenção da prisão para aguardar o julgamento do apelo desde Maio de 2018 o que atrai a imediata atuação desse Superior Tribunal de Justiça" (e-STJ fl. 282).
+Diante disso, requer a retratação do decisum impugnado ou, caso contrário, seja o feito levado a julgamento perante a 5ª Turma desta Corte.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Verifica-se que a defesa não apresentou qualquer fato novo que altere o entendimento firmado na decisão anterior.
+Inicialmente, cumpre esclarecer que, ao contrário do que alega a defesa, o writ originário, no ponto em que se insurgia contra a demora para o julgamento do apelo defensivo, não foi conhecido não por ter sido considerado mera reiteração do HC anterior, mas sim, "por incompetência absoluta deste Egrégio Tribunal de Justiça do Estado de São Paulo, na medida em que versa sobre demora no julgamento de apelação criminal por esta Colenda Câmara de Direito Criminal" (e-STJ fl. 26).
+Com efeito, sendo o ato coator imputado a Desembargador do Tribunal de Justiça, cabe a este STJ processar e julgar originariamente os habeas corpus, nos termos do art. 105, I, alínea "c", c/c alínea "a", da Constituição Federal. Assim, realmente não cabia o exame pelo Tribunal a quo da referida matéria, como bem destacou o acórdão impugnado.
+Destarte, não se verifica, quanto ao ponto, flagrante ilegalidade capaz de ensejar a concessão da ordem de habeas corpus de ofício, para que a autoridade indicada como coatora julgue o mérito do remédio constitucional ali impetrado.
+Por outro lado, conforme exposto na decisão agravada, o presente mandamus consiste em mera reiteração dos pedidos formulados nos HCs ns. 725.952/SP e 743.064/SP. Registre-se que o primeiro foi recentemente julgado por esta Corte (22/3/2022) e o segundo teve a liminar indeferida em 19/5/2022.
+Desse modo, a questão foi recentemente submetida a este Tribunal nos autos dos HCs ns. 725.952/SP e 743.064/SP, razão pela qual, o presente habeas corpus não merece ser conhecido.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, DE MINHA RELATORIA, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/9/2015, DJe 22/9/2015).
+Diante do exposto, nego provimento ao agravo.
+É como voto.
