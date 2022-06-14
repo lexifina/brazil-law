@@ -1,0 +1,35 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+2. Hipótese em que o Tribunal de origem indeferiu a liminar, motivadamente, por não ter verificado de imediato o alegado constrangimento ilegal que justifique a antecipação do mérito.
+3. As possíveis ilegalidades apontadas pela defesa, aptas à mitigação da mencionada Súmula e a justificar manifestação antecipada deste Superior Tribunal de Justiça, não foram constatadas.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por GEAN VITOR FERREIRA ALVES de decisão do Ministro Presidente deste Tribunal Superior, que indeferiu liminarmente o writ, com fundamento na Súmula 691/STF.
+A defesa reitera que não há fundamento concreto para a prisão cautelar. Destaca a primariedade do paciente e a existência de emprego lícito. Argumenta, ainda, que "a quantidade de entorpecentes supostamente encontrada com o paciente é pequena, qual seja, 370g (trezentos e setentagramas) de maconha, sendo que na residência não foi encontrado nenhum apetrecho utilizado para o tráfico de drogas (balança de precisão, lista de contabilidade etc)".
+Requer assim a sua colocação em liberdade.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+2. Hipótese em que o Tribunal de origem indeferiu a liminar, motivadamente, por não ter verificado de imediato o alegado constrangimento ilegal que justifique a antecipação do mérito.
+3. As possíveis ilegalidades apontadas pela defesa, aptas à mitigação da mencionada Súmula e a justificar manifestação antecipada deste Superior Tribunal de Justiça, não foram constatadas.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O recurso não comporta provimento.
+A jurisprudência deste Tribunal Superior é firme no sentido de ser incabível habeas corpus contra decisão que indefere liminar, ressalvadas as hipóteses excepcionais de manifesta ilegalidade ou arbitrariedade, conforme entendimento firmado no Enunciado Sumular 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, a Corte de origem indeferiu o pleito liminar por não verificar, em um primeiro exame, o alegado constrangimento ilegal que justifique a antecipação do mérito.
+Na decisão de primeiro grau consta:
+Consta no flagrante que: "Após receber denúncias dando conta de que no Setor Mari Luiza Machado mais precisamente na rua José Ribeiro esq. com rua Elson Gomes Pereira havia dois indivíduos que estariam realizando a mercancia de drogas. Que foi iniciado patrulhamento pelo local quando foi possível visualizar os dois que foram alvos de denúncias. Que ao perceberem a presença dos policiais, eles tentaram empreender fulga, porém foram abordados logo em seguida. Que na tentativa de fulga Lucas que já é bastante conhecido no meio policial por ostentar antecedentes criminais diversos, dispensou algo no solo. Que ao realizar a varredura no local, os policiais encontraram três porções médias de maconha, pesando aproximadamente 80 gramas. Que me busca pessoal foi encontrado com Gean quatro porções de substância de maconha, pesando 132 gramas, em seu bolso. Que em entrevista os autores informaram que nas suas residências havia mais uma quantidade de drogas. Que a equipe se deslocou até as residências dos autores onde foi encontrado na casa de Gean meia peça de maconha, pesando aproximadamente 185 gramas. Que na casa de Lucas foi encontrada meia peça de maconha, pesando aproximadamente 230 gramas."
+ ..
+À luz destas três premissas é que se examina o caso concreto em relação GEAN VITOR FERREIRA ALVES:
+Quanto à primeira premissa (critérios de necessidade e adequação), a prisão preventiva se mostra necessária para evitar a reiteração delitiva, tendo em vista que atualmente, encontramos traficantes aliciando jovens, sem antecedentes, desprovidos de qualquer ação penal, para se tornarem suas mulas e, assim, não levantarem suspeita da segurança pública. Ora, o modos operandi é o mesmo que há alguns anos atrás era o utilizado com o aliciamento de mulheres-mães.
+Em relação à segunda premissa (pressupostos, hipóteses de cabimento e circunstâncias autorizadoras), há prova da existência dos supostos crimes previstos nos arts. 33 e 35, ambos da Lei nº11.343/06, e indício suficiente da autoria, conforme se extrai do auto de prisão em flagrante, do auto de exibição e apreensão e das declarações das testemunhas perante autoridade policial.
+Restam também evidenciadas a hipótese de cabimento elencada no art. 313, I, do CPP, em razão da natureza do crime, cuja pena privativa de liberdade máxima cominada é superior a quatro anos. Por sua vez, vislumbra-se a presença da circunstância autorizadora fundada na garantia da ordem pública (CPP, art. 312), em virtude da gravidade concreta da conduta, considerando o modus operandi e as circunstâncias do crime, assim como da ousadia e periculosidade do investigado. Tendo em vista, a grande quantidade de droga em posse do investigado e sua participação em uma possível rede de traficância. Por derradeiro, no tocante à terceira premissa (caráter excepcional), a fundamentação acimalastreada em elementos concretos aptos a legitimar a manutenção da prisão preventiva. Deste modo, indicando que a aplicação das medidas cautelares diversas da prisão são insuficientes para acautelar a ordem pública e assegurar a aplicação da lei penal.
+Ao que tudo indica, a custódia provisória encontra fundamento na ordem pública, dada a gravidade dos fatos. Assim, não se verifica, por ora, a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
