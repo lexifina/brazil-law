@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a).
+Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  BASF S.A. ao  acórdão  assim  ementado:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRODUÇÃO DE PROVAS. NECESSIDADE. REEXAME DE PROVA. SÚMULA Nº 7/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PEDIDO E DECISÃO JUDICIAL ANTERIOR. EXISTÊNCIA. REGULARIDADE FORMAL. FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES (FIP). NATUREZA JURÍDICA. CONDOMÍNIO ESPECIAL. COTAS. CONSTRIÇÃO JUDICIAL. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir: a) se houve negativa de prestação jurisdicional; b) se houve cerceamento de defesa em virtude do indeferimento do pedido de produção de provas; c) se um fundo de investimento pode sofrer os efeitos da desconsideração da personalidade jurídica e d) se estão presentes, na espécie, os pressupostos necessários para a aplicação do referido instituto.
+3. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. Modificar a conclusão do Tribunal de origem, soberano quanto à análise da necessidade ou não de se produzir outras provas além daquelas já produzidas, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial tendo em vista o óbice da Súmula nº 7/STJ.
+5. As normas aplicáveis aos fundos de investimento dispõem expressamente que eles são constituídos sob a forma de condomínio, mas nem todos os dispositivos legais que disciplinam os condomínios são indistintamente aplicáveis aos fundos de investimento, sujeitos a regramento específico ditado pela Comissão de Valores Mobiliários (CVM).
+6. Embora destituídos de personalidade jurídica, aos fundos de investimento são imputados direitos e deveres, tanto em suas relações internas quanto externas, e, não obstante exercerem suas atividades por intermédio de seu administrador/gestor, os fundos de investimento podem ser titular, em nome próprio, de direitos e obrigações.
+7. O patrimônio gerido pelo Fundo de Investimento em Participações (FIP) pertence, em condomínio, a todos os investidores (cotistas), a impedir a responsabilização do fundo por dívida de um único cotista, de modo que, em tese, não poderia a constrição judicial recair sobre todo o patrimônio comum do fundo de investimento por dívidas de um só cotista, ressalvada a penhora da sua cota-parte.
+8. A impossibilidade de responsabilização do fundo por dívidas de um único cotista, de obrigatória observância em circunstâncias normais, deve ceder diante da comprovação inequívoca de que a própria constituição do fundo de investimento se deu de forma fraudulenta, como forma de encobrir ilegalidades e ocultar o patrimônio de empresas pertencentes a um mesmo grupo econômico.
+9. Comprovado o abuso de direito, caracterizado pelo desvio de finalidade (ato intencional dos sócios com intuito de fraudar terceiros), e/ou confusão patrimonial, é possível desconsiderar a personalidade jurídica de uma empresa para atingir o patrimônio de outras pertencentes ao mesmo grupo econômico.
+10. Hipótese em que a desconsideração inversa da personalidade jurídica foi determinada com base em desvio de finalidade e confusão patrimonial, não constituindo o recurso especial a via processual adequada para modificar as conclusões do acórdão recorrido, obtidas a partir da análise da documentação juntada aos autos. Incidência da Súmula nº 7/STJ.
+11. No momento da constrição determinada pelo juízo da execução, como consequência da desconsideração inversa da personalidade jurídica do devedor, o fundo de investimento que teve o seu patrimônio constrito possuía apenas dois cotistas, ambos integrantes do mesmo conglomerado econômico, a revelar que o ato de constrição judicial não atingiu o patrimônio de terceiros.
+12. Recurso especial parcialmente conhecido e não provido."
+Em suas razões  (e-STJ  fls.  1.280-1.297), a embargante  afirma, em síntese, que o acórdão embargado foi omisso ao deixar de analisar que a verba honorária fixada em primeira instância estabeleceu como base de cálculo o valor da causa, quando deveria ter levado em consideração o valor do crédito atualizado perseguido pela BASF, que remonta, atualmente, a mais de R$ 200 milhões.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  (e-STJ  fls.  1.332-1.342).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  de  2015,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  a ora embargante não interpôs recurso contra o acórdão que fixou a verba honorária em percentual sobre o valor da causa.
+Diante desse contexto, como consequência donão provimento do recurso especial interposto pela ora embargada, compete a esta Corte, em observância ao art. 85, § 11, do CPC/2015, apenas majorar a verba honoráriafixadapelas instâncias ordinárias, sem modificar os critérios já estabelecidos.
+Por esse motivo,o percentual da verba honorária devida pela parte recorrente, ora embargada,foi majorado em 2% (dois por cento).
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
