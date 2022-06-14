@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO QUALIFICADO. PRESENÇA DE MAUS ANTECEDENTES. AUMENTO DA PENA-BASE. FIXAÇÃO DO REGIME FECHADO, APESAR DO QUANTUM FINAL ARBITRADO. ILEGALIDADE. INEXISTÊNCIA.
+1. Consoante a jurisprudência desta Corte, "a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado" (AgRg no AREsp n. 1.073.422/DF, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/8/2017, DJe 31/8/2017).
+2. A sanção inicial acima do mínimo legal, decorrente da presença de circunstância judicial desfavorável, permite a imposição de regime inicial mais gravoso do que o cabível, apesar do montante final da pena, não havendo falar-se em bis in idem. Precedentes do STJ.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão que não conheceu o recurso especial, porquanto incidente a Súmula nº 83/STJ.
+O agravante foi condenado às penas de 6 anos, 2 meses e 20 dias de reclusão, no regime fechado, e 15 dias-multa, nos termos do art. 157, § 2º, II, do Código Penal.
+Neste recurso, reitera os argumentos trazidos no recurso especial, pugnando pela fixação da pena-base no mínimo legal e pela alteração do regime prisional para o semiaberto.
+Manifestou-se o Ministério Público Federal pela manutenção da decisão agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão que não conheceu o recurso especial, porquanto incidente a Súmula nº 83/STJ.
+A decisão agravada deve ser mantida por seus próprios fundamentos. Confira-se (fls. 438-439):
+ ..  Extrai-se da sentença (fls. 279-280):
+ ..  Conforme se depreende da Folha de Antecedentes do acusado, constata-se que o réu ostenta uma condenação, já transitada em julgado, pelo crime de roubo (fls. 255).
+Considerando os maus antecedentes do réu, como aquilo que existiu antes da prática do fato criminoso em tela e sua conduta social como o comportamento desenvolvido pelo agente na comunidade em que vive, denotando seu modo de vida, deve a pena mínima ser exasperada em 1/6, de forma que fixo a pena-base em 04 anos e 08 meses de reclusão e 11 dias-multa, no valor unitário mínimo.
+ ..
+Considerando o total da pena aplicada e a gravidade da ação criminosa, fixo o regime inicial FECHADO para cumprimento da pena, nos termos do artigo 33, § § 2.º, alínea "b" e 3.º, do Código Penal. ..
+Como relatado alhures, sustenta o recorrente que o processo utilizado como "maus antecedentes" transitou em julgado para a defesa na data de 29/6/2018 (fls. 252-253), e o fato apurado na presente ação penal ocorrera no dia 21/9/2016, aduzindo que os dois processos tramitaram simultaneamente, não sendo possível utilizar ações penais em andamento para fins de exasperação da pena-base.
+Contudo, "nos moldes da jurisprudência do Superior Tribunal de Justiça, "a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base" (AgRg no HC n. 607.497/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/9/2020)" (AgRg no AREsp 748.987/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/02/2022, DJe 18/02/2022).
+No tocante ao regime prisional, entende esta Corte que "a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado". ..
+Como visto, entende esta Corte que ""a condenação definitiva por fato anterior ao crime descrito na denúncia, com trânsito em julgado posterior à data do ilícito de que ora se cuida, embora não configure a agravante da reincidência, pode caracterizar maus antecedentes e ensejar o acréscimo da pena-base" (AgRg no HC n. 607.497/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/9/2020)" (AgRg no AREsp 748.987/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/02/2022, DJe 18/02/2022), não havendo falar-se em ilegalidade decorrente do acréscimo da sanção inicial.
+No que se refere ao regime prisional, " s egundo pacífica jurisprudência desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado" (AgRg no HC n. 705.909/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 25/2/2022), inexistindo a ocorrência de bis in idem.
+Ante o exposto, nego provimento ao agravo regimental, mantendo incólume a decisão agravada.
+É o voto.
