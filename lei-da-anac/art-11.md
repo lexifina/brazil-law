@@ -8,3 +8,4 @@ VI - aprovar minutas de editais de licitação, homologar adjudicações, transf
 VII - aprovar o regimento interno da ANAC;
 VIII - apreciar, em grau de recurso, as penalidades impostas pela ANAC; e
 IX - aprovar as normas relativas aos procedimentos administrativos internos da Agência.
+Parágrafo único. (Revogado).

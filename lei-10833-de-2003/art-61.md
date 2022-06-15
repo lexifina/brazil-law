@@ -1,5 +1,5 @@
 Art. 61. Nas operações de exportação sem saída do produto do território nacional, com pagamento a prazo, os efeitos fiscais e cambiais, quando reconhecidos pela legislação vigente, serão produzidos no momento da contratação, sob condição resolutória, aperfeiçoando-se pelo recebimento integral em moeda nacional ou estrangeira de livre conversibilidade.
-Parágrafo único. O disposto neste artigo aplica-se também ao produto exportado sem saída do território nacional, na forma disciplinada pela Secretaria da Receita Federal do Brasil, para ser:
+§ 1º O disposto neste artigo aplica-se também ao produto exportado sem saída do território nacional, na forma disciplinada pela Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, para ser:
 I - totalmente incorporado a bem que se encontre no País, de propriedade do comprador estrangeiro, inclusive em regime de admissão temporária sob a responsabilidade de terceiro;
 II - entregue a órgão da administração direta, autárquica ou fundacional da União, dos Estados, do Distrito Federal ou dos Municípios, em cumprimento de contrato decorrente de licitação internacional;
 III - entregue, em consignação, a empresa nacional autorizada a operar o regime de loja franca;
@@ -11,3 +11,4 @@ VIII - entregue no País:
 a) para ser incorporado a produto do setor aeronáutico industrializado no território nacional, na hipótese de industrialização por encomenda de empresa estrangeira do bem a ser incorporado; ou
 b) em regime de admissão temporária, por conta do comprador estrangeiro, sob a responsabilidade de terceiro, no caso de aeronaves;
 IX - entregue no País a órgão do Ministério da Defesa, para ser incorporado a produto de interesse da defesa nacional em construção ou fabricação no território nacional, em decorrência de acordo internacional.
+§ 2º O disposto no caput deste artigo também se aplica às aeronaves industrializadas no País e entregues a prestador de serviços de transporte aéreo regular sediado no território nacional, de propriedade do comprador estrangeiro, na forma disciplinada pela Secretaria Especial da Receita Federal do Brasil.

@@ -7,3 +7,4 @@ I - as questões relacionadas à recomposição do equilíbrio econômico-financ
 II - o cálculo de indenizações decorrentes de extinção ou de transferência do contrato de concessão; e
 III - o inadimplemento de obrigações contratuais por qualquer das partes.
 § 5º Ato do Poder Executivo regulamentará o credenciamento de câmaras arbitrais para os fins desta Lei.
+§ 6º A existência de controvérsias sobre direitos patrimoniais disponíveis submetidas à arbitragem não impede o início do novo contrato de parceria.
