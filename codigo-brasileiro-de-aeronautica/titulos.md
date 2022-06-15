@@ -100,8 +100,6 @@ SEÇÃO II
 Do Arrendamento
 SEÇÃO III
 Do Fretamento
-SEÇÃO IV
-Do Arrendamento Mercantil de Aeronave
 CAPÍTULO V
 Da Hipoteca e Alienação Fiduciária de Aeronave
 SEÇÃO I
@@ -131,12 +129,13 @@ Introdução
 CAPÍTULO III
 Serviços Aéreos Públicos
 CAPÍTULO III
-Serviços aéreos
+DA EXPLORAÇÃO DE SERVIÇOS AÉREOS
 SEÇÃO IV
 Da Exploração de Serviços Aéreos
+CAPÍTULO IV
 CAPÍTULO V
 Do Transporte Aéreo
-SEÇÃO I
+Seção I
 Do Transporte Aéreo Internacional
 Da Designação de Empresas Brasileiras
 Da Designação e Autorização de Empresas Estrangeiras
