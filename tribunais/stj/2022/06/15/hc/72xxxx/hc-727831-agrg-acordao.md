@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EXECUÇÃO PENAL.AGRAVO REGIMENTAL NOHABEAS CORPUS. FALTA GRAVE. RECONHECIMENTO. PARTICIPAÇÃO DE MOVIMENTO PARA SUBVERTER A ORDEM OU A DISCIPLINA.INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE. ART. 50, I,DA LEP. ABSOLVIÇÃO. IMPOSSIBILIDADE. AMPLO REEXAME DA MATÉRIA FÁTICO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+I -O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No presente caso, as instâncias ordinárias concluíram, após a instauração e conclusão do devido procedimento administrativo disciplinar, que restou suficientemente demonstrado que, em 09/02/2019, o agravante aderiu a motim, para subverter a ordem ou a disciplina do estabelecimento prisional, tendo em vista os testemunhos uníssonos dos agentes penitenciários. Precedentes.
+III - Rever o entendimento do eg. Tribunala quopara afastar a falta grave imputada ao paciente, demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via dohabeas corpus.
+Agravo regimentaldesprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEX ALMEIDA GERMANOcontra a decisão de fls. 77-83, que não conheceu do habeas corpus.
+No presente agravo, a defesa reitera os argumentos de mérito, sustentando o descabimento doreconhecimento da conduta do apenado como falta grave, em razão da insuficiência probatória, da ausência de individualizaçãoda conduta praticada bem comoda violação ao princípio da proporcionalidade.
+Pondera, nesse sentido, que "os agentes que presenciariam os fatos narrados, apenas ratificaram o comunicado interno confeccionado há quase um ano, sem adicionar informação ou mesmo individualizar as condutas dos apenados", bem como que "O comunicado interno é confuso e não deixa claro o que de fato ocorreu, ou sequer especifica as condutas dos detentos comunicados, apenas afirmando que um deles (Gustavo) teria se negado a seguir procedimento".
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento, para fins de afastaro reconhecimento da falta grave imputada ao paciente(fls. 86-89)
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL.AGRAVO REGIMENTAL NOHABEAS CORPUS. FALTA GRAVE. RECONHECIMENTO. PARTICIPAÇÃO DE MOVIMENTO PARA SUBVERTER A ORDEM OU A DISCIPLINA.INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE. ART. 50, I,DA LEP. ABSOLVIÇÃO. IMPOSSIBILIDADE. AMPLO REEXAME DA MATÉRIA FÁTICO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+I -O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No presente caso, as instâncias ordinárias concluíram, após a instauração e conclusão do devido procedimento administrativo disciplinar, que restou suficientemente demonstrado que, em 09/02/2019, o agravante aderiu a motim, para subverter a ordem ou a disciplina do estabelecimento prisional, tendo em vista os testemunhos uníssonos dos agentes penitenciários. Precedentes.
+III - Rever o entendimento do eg. Tribunala quopara afastar a falta grave imputada ao paciente, demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via dohabeas corpus.
+Agravo regimentaldesprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Por estarem preenchidos os requisitos de admissibilidade, conheço do presente recurso.
+Em relação aos pedidos, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+In casu, conforme se apreende da decisão recorrida, após a instauração e conclusão do devido procedimento administrativo disciplinar, com fulcro na análise das provas produzidas, "a eg. Corte a quo, ao analisar as provas produzidas nos autos, em decisão bem fundamentada, constatou que restou suficientemente demonstrado que,em 09/02/2019 Alex Almeida Germano aderiu a motim para subverter a ordem ou a disciplina do estabelecimento prisional, tendo em vista os testemunhos uníssonos dos agentes penitenciários",entendendo que, na ausência de qualquer indício de quea palavra dos servidores prisionais não mereça guarida, sendo tais depoimentos válidos e merecedores de credibilidade e de fé pública, não se vislumbrao alegado constrangimento ilegal.
+Ademais, não há que se falar em ausência de individualização das condutas dos apenados, uma vez que, no comunicado interno ratificado pelos agentes prisionais constouque o paciente Alex Almeidaseguiu prontamente incitação de subversão proferida pelo detento Gustavo de Paula, gritando os dizeres "Tá na hora de quebrar isso aqui pavilhão", "Vamos abraçar família", resultando em "tumulto generalizado e chutes nas portas das celas", o que foi devidamente ratificado pelos agentes penitenciários, de modo a configurar desatendimento ao art. 50, I, da LEP.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA RÉ DO ACÓRDÃO QUE JULGOU A APELAÇÃO. INOCORRÊNCIA. ART. 392 DO CPP. APLICAÇÃO APENAS PARA SENTENÇA DE PRIMEIRO GRAU. INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA. AGRAVO DESPROVIDO.
+I - Esta Corte Superior de Justiça possui entendimento sedimentado de que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A jurisprudência firmada por esta Corte Superior de Justiça, bem como pelo Col. Supremo Tribunal Federal, dispensa a intimação pessoal do réu do acórdão que julga a apelação, sendo suficiente a intimação pelo órgão oficial de imprensa, no caso de estar assistido por advogado constituído, ou pessoal, nos casos de patrocínio por defensor dativo ou pela Defensoria Pública, como ocorreu no caso. (Precedentes).
+Agravo regimental desprovido" (AgRg no HC n. 516.786/RS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) , DJe de 22/10/2019) .
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
