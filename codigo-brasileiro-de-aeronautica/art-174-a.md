@@ -1,2 +1,2 @@
-Art. 174. Os serviços aéreos são considerados atividades econômicas de interesse público submetidas à regulação da autoridade de aviação civil, na forma da legislação específica.
+Art. 174-A. Os serviços aéreos são considerados atividades econômicas de interesse público submetidas à regulação da autoridade de aviação civil, na forma da legislação específica.
 Parágrafo único. As normas regulatórias da autoridade de aviação civil disporão sobre os serviços aéreos regulares e não regulares, observados os acordos internacionais dos quais a República Federativa do Brasil seja signatária.

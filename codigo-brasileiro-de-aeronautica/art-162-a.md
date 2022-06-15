@@ -1,0 +1,1 @@
+Art. 162-A. As prerrogativas decorrentes de licenças e de certificados de habilitação técnica poderão ser exercidas por seu titular, desde que atendidos os requisitos estabelecidos em regulamentação da autoridade de aviação civil.

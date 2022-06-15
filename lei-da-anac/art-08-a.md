@@ -1,0 +1,1 @@
+Art. 8º-A Nas infrações a preceitos da aviação civil, será solidária a responsabilidade da pessoa jurídica empregadora por atos de seus agentes ou empregados, bem como daquele que cumprir ordem exorbitante ou indevida do proprietário ou explorador de aeronave.
