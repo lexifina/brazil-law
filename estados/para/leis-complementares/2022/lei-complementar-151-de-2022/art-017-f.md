@@ -1,0 +1,2 @@
+Art. 17-F. Ao membro do Ministério Público de Contas do Estado que a requerer poderá ser concedida, sem prejuízo do subsídio, licença para frequentar curso de extensão, especialização, mestrado ou doutorado, e seus equivalentes, no país ou no exterior, pelo prazo máximo de 02 (dois) anos.
+Parágrafo único. A licença dependerá de prévia aprovação do Conselho Superior do Ministério Público de Contas do Estado, que disporá, em ato normativo, sobre os critérios e mecanismos gerais de controle de frequência e de aproveitamento nos cursos.

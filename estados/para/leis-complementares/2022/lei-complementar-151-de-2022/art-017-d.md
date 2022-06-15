@@ -1,0 +1,2 @@
+Art. 17-D. Pelo nascimento de filho, ao integrante da carreira do Ministério Público de Contas do Estado que a requerer será concedida licença-paternidade por 20 (vinte) dias consecutivos, sem prejuízo do subsídio.
+Parágrafo único. A licença de que trata este artigo tem início na data do nascimento do filho, devendo o interessado apresentar a certidão do seu competente registro até o término da licença.

@@ -1,0 +1,1 @@
+Art. 17-K. Ao membro do Ministério Público de Contas de Estado que a requerer poderá ser concedida, sem prejuízo do subsídio e mediante prévia aprovação do Colégio de Procuradores, licença para exercer cargo na diretoria de entidade de representação em nível nacional.

@@ -1,0 +1,1 @@
+Art.17-H. Ao membro do Ministério Público de Contas do Estado que a requerer, será concedida licença, por até 8 (oito) dias, sem prejuízo do subsídio, por morte do cônjuge ou companheiro, ou do parente por adoção ou consanguíneo na linha reta ou colateral até o segundo grau, devendo o requerente apresentar a certidão de óbito até 15 (quinze) dias após o falecimento.

@@ -1,0 +1,1 @@
+Art. 17-L. Além das licenças previstas neste capítulo, poderão ser concedidas ao membro do Ministério Público de Contas do Estado outras licenças previstas em lei, observados os requisitos e condições nela estipulados.

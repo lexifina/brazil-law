@@ -1,0 +1,3 @@
+Art. 17-A. A licença para tratamento de saúde por prazo inferior a 30 (trinta) dias será concedida ao membro do Ministério Público de Contas do Estado, mediante requerimento do interessado instruído com atestado médico.
+§ 1º O requerimento de que trata este artigo, quando não puder ser apresentado com antecedência, deverá ser protocolado até 72 (setenta e duas) horas após o início do tratamento ou atendimento de urgência ou emergência.
+§ 2º A prorrogação da licença para tratamento de saúde ou a sua concessão por prazo superior a 30 (trinta) dias dependerá de requerimento do interessado e de inspeção em órgão médico oficial, cujo laudo instruirá o pedido, aplicando-se, no que couber, o disposto no parágrafo anterior.

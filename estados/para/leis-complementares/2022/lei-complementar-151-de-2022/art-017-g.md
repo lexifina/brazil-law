@@ -1,0 +1,1 @@
+Art. 17-G. Ao membro do Ministério Público de Contas do Estado que a requerer será concedida licença, por até 8 (oito) dias, sem prejuízo do subsídio, por casamento, devendo o requerente apresentar prova do enlace até 15 (quinze) dias após a cerimônia.

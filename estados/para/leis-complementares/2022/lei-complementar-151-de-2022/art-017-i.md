@@ -1,0 +1,4 @@
+Art. 17-I. Após cada triênio ininterrupto de efetivo exercício no serviço público, o membro do Ministério Público de Contas do Estado fará jus a licença-prêmio de 60 (sessenta) dias, sem prejuízo do subsídio.
+§ 1º A licença-prêmio poderá ser fracionada em 2 (dois) períodos de 30 (trinta) dias e deverá ser requerida e gozada após completado o período aquisitivo.
+§ 2º As licenças-prêmios não usufruídas por necessidade do serviço poderão ser convertidas em pecúnia a pedido do membro, ou indenizadas por ocasião da exoneração, aposentadoria ou morte do membro do Ministério Público de Comas do Estado.
+§ 3º Somente poderão ser objeto de conversão em pecúnia as licenças-prêmio cujo período aquisitivo considere exclusivamente tempo de efetivo exercício enquanto membro do Ministério Público de Contas do Estado do Pará.
