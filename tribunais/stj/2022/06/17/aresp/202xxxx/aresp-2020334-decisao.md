@@ -1,0 +1,30 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ELISA LEVY MACEDO em face de decisão que inadmitiu recurso especial manejado,comfundamento no artigo 105, inciso III, alínea"a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. DECISÃO DE PROCEDÊNCIA DO PEDIDO. RECURSO OPOSTO CONTRA O CRITÉRIO UTILIZADO PARA FIXAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. IRRESIGNAÇÃO DA SEGUNDA RÉ.
+1. Cuida-se de agravo de instrumento oposto contra parte da decisão que majorou os honorários de sucumbência, em sede de embargos de declaração.
+2. Alegação de que os honorários devem ser fixados segundo a apreciação equitativa do magistrado. Rejeição.
+3. O arbitramento dos honorários segundo a apreciação equitativa é exceção à regra, aplicável quando feito não apresenta valor estimável, ou o proveito econômico é ínfimo, ou mesmo, quando o valor da causa se mostra muito baixo, circunstância não antevista nos autos.
+4. A primeira ré, na contestação, sustentou a necessidade de regularização do valor da causa, em razão do proveito econômico esperado pelo autor, vislumbrando, ab initio, o conteúdo econômico da demanda
+5. Os honorários de sucumbência devem ser fixados com base no valor atribuído à causa, quando a condenação não se reveste de conteúdo financeiro. Inteligência do contido no art. 85, § 2º, do CPC.
+6. A estrutura diferenciada do procedimento adotado na ação de exigir contas, não afasta o dever de a parte sucumbente adimplir as despesas processuais nas duas fases.
+7. Manutenção da decisão. Precedente desta Câmara Cível.
+8. NEGA-SE PROVIMENTO AO RECURSO.".
+Os embargos de declaração opostosforam rejeitados.
+Nas razões do recurso especial, a parte alega, em síntese, a violação do artigo85, § 8º,do Código de Processo Civil, aoargumentode que oshonorários advocatícios de sucumbência foram fixados de maneira exacerbada e desproporcional no caso, devendo ser arbitrados com base em critério de equidade.
+É o breve relatório.
+Passo a decidir.
+A insurgência recursal não merece ser acolhida, uma vez que o acórdão recorrido está em conformidade com a orientação desta Corte Superior.
+Na vigência do Código de Processo Civil de 1973, conforme previa o seu art. 20, § 4º, o arbitramento de honorários advocatícios de sucumbência poderia ser feito com base na equidade nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública e nas execuções, embargadas ou não.
+No entanto, esse tema recebeu tratamento distinto no Código de Processo Civil de 2015, ao estatuir critérios objetivos para orientar a atividade do julgador, limitando as hipóteses de aplicação da equidade. Com efeito, na vigência do novo diploma processual, consoante estabelece o seu art. 85, § 8º, a utilização da equidade é restrita aos casos em que o proveito econômico for inestimável ou irrisório ou quando o valor da causa for muito baixo.
+Nesse contexto, no julgamento do Tema Repetitivo 1076(REsps n. 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e1.906.618/SP,relator Ministro Og Fernandes, julgados em 16/3/2022, DJe de 31/5/2022), a Corte Especial deste Superior Tribunal de Justiça consolidou as seguintes teses:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.".
+Portanto, no caso sob apreciação,tendo em vista que a decisão que pôs fim à primeira fase da ação de prestação de contasfoi proferida sob a vigência do CPC/2015,o valor dos honorários advocatícios de sucumbência não poderia ser arbitrado pelo Tribunal de origem com base no critério da equidade por eventualmente se reputar que o montanteseriaelevado, razão pela qual não merece alteração o acórdão recorrido, no qual semanteve a fixaçãodos honorários no parâmetro mínimo legalmente estabelecido, isto é, 10% (dez por cento) sobre o valor da causa.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 10% sobre o valorda causa, em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 11% sobre o valor da causa é medida adequada ao caso.
+Ante o exposto, com base no art. 932, inciso IV, alínea "b", do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. NECESSIDADE DE OBSERVÂNCIA DO PARÂMETRO MÍNIMO DE 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO, DO PROVEITO ECONÔMICO OU DA CAUSA. POSSIBILIDADE DE UTILIZAÇÃO DA EQUIDADE COMO CRITÉRIO DE ARBITRAMENTO SOMENTE QUANDO O PROVEITO ECONÔMICO FOR INESTIMÁVEL OU IRRISÓRIO OU QUANDO O VALOR DA CAUSA FOR ÍNFIMO. TEMA 1076/STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADECOM A ORIENTAÇÃO DESTA CORTE SUPERIOR.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
