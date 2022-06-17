@@ -1,0 +1,14 @@
+DECISÃO
+SERGIO RICARDO DE AGUIARalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de São Paulo,na Apelação n. 1503429-80.2019.8.26.0309.
+Nesta Corte, a defesa sustenta ser ilegal a ordem de expedição de mandado de prisão em desfavor do paciente, por configurar execução provisória da pena, uma vez que a recente condenação - cujo acórdão publicou em 2/6/2022-ainda não transitou em julgado.
+Requer, liminarmente e no mérito, a suspensão do acórdão, a fim de evitar a expedição de mandado de prisão em desfavor do paciente.
+O pedido comporta acolhimento.
+O Supremo Tribunal Federal, nas ADCs n. 43, 44 e 54, decidiu que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso para o início do cumprimento da pena. Assim, segundo o referido aresto, o art. 283 do CPP está em conformidade com a garantia prevista no art. 5º, inciso LVII, da Constituição Federal.
+Odecisumproferido em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, e não pode, igualmente, ser objeto de ação rescisória (art. 26 da Lei n. 9.986/1999). Tem eficácia contra todos e efeito vinculante, inclusive em relação aos órgãos do Poder Judiciário.
+Logo, desde o referido julgamento, não se pode mais executar antecipadamente a reprimenda imposta em condenação penal, confirmada pelo Tribunal, nas hipóteses em que o acusado respondeu em liberdade o processo, até que haja o trânsito em julgado da sentença condenatória.
+No caso, o paciente respondeu solto ao processo (fl. 18) efoi absolvido, em primeira instância (fls. 20-25).
+A Corte estadual deu parcial provimento ao apelo da acusação, a fim de condenar o réu, pela prática dos delitos de tráfico de drogas e de posse de arma de fogo, determinando a expedição de mandado de prisão em seu desfavor. Confira-se (fls. 49-50):
+Ante o exposto, pelo meu voto ,DÁ-SE PARCIAL PROVIMENTO ao apelo interposto pelo Ministério Público do Estado de São Paulo para declarar o réu Sérgio Ricardo de Aguiar incurso no artigo 33, caput, da Lei nº 11.343/06 e artigo 16, parágrafo único, inciso IV, da Lei nº 10.826/06, ambos na forma do artigo69, do Código Penal, CONDENANDO-O ao cumprimento da pena de 08 (oito) anos de reclusão, em regime inicial fechado e o pagamento de 510 (quinhentos e dez dias-multa), fixado o valor unitário mínimo para seu cumprimento. Expeça-se mandado de prisão.
+Vê-se, portanto, que a ordem de prisão foi lastreada,exclusivamente, no exaurimento das instâncias ordinárias. Ademais, a defesa comprovou a recente publicação do referido decisum(fl. 52), a denotar que ainda está em aberto o prazo para a interposição de eventuais recursos extraordinários, o que configuraa ilegalidade suscitada na impetração.
+À vista do exposto,concedo a ordem, in limine, para afastar a execução antecipada da pena.
+Publique-se e intimem-se.
