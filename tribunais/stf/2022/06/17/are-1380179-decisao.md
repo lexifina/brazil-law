@@ -1,0 +1,53 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 3ª Turma - Fazenda Pública do Tribunal de Justiça de São Paulo, cuja ementa transcrevo (eDOC 5, p. 2):
+
+    “RECURSO INOMINADO. APLICAÇÃO DO TETO (SUBTETO) CONSTITUCIONAL. Ação declaratória cumulada com pedido condenatória da rés em obrigação de não fazer. Pretensão de policial militar inativo, Coronel da Reserva, ao reconhecimento do seu direito à não incidência do 'redutor salarial' sobre os valores incorporados e/ou recebidos a título de retribuição pelo exercício de docência (valor hora aula-hora incorporada), consoante a fundamentação de que o desempenho da função de professor nos cursos da Academia da Polícia Militar excepcionaria a aplicação do teto remuneratório (art. 37, XI,da CF) por se tratar de cumulação prevista na alínea 'b' do inciso XVI do art. 37 da Carta Magna. Inadmissibilidade. Distinguishing: matéria tratada nos presentes autos que não guarda relação com as situações examinadas pelo Supremo Tribunal Federal nos julgamentos do RE n. 602.043/MT (Tema 384) e do RE n. 612.975/MT (Tema 377). Devida a aplicação do teto (subteto) remuneratório sobre os valores incorporados pela função de professor (ou instrutor) em conjunto com os demais valores descritos nos vencimentos do autor, ora recorrido; totais esses que compõem, em conjunto, desde a sua reforma, os seus proventos. Regra prevista no art. 9º da LCE n. 731/93 e 'Disposições Transitórias' da LCE 1.249/14. Incorporação que pressupõe uma única de fonte de recebimento (vínculo): proventos. Inteligência da redação do parágrafo único do artigo 6º da LCE 207/1979 e parágrafo (§) 4º do art. 13 do Decreto n. 54.911/09, que regulamenta a LCE n. 1.036/08. Sentença reformada. Recurso provido para julgar a ação improcedente.”
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 37, XI e XVI; e 40 § 11, da Constituição Federal, com a redação dada pela EC n. 41/2003.
+
+    Nas razões recursais, sustenta-se, que “além da percepção da gratificação durante o exercício do magistério, os oficiais inativos incorporam a verba, nos termos do § 2º do art. 9º da LCE nº 731/1993, com a redação conferida pela LCE nº 1.249/2014. Além disso, mesmo em atividade, a incorporação da gratificação era possível, conforme previsão do art, 133 da Constituição Estadual (...).” (eDOC 7, p. 7).
+
+    Defende-se, que “no presente caso, de acordo com o precedente vinculante (CPC, art. 927 inciso II), devem-se observar as hipóteses de autorização constitucional de acumulação de cargos, a fim de que o teto remuneratório constitucional incida separadamente, em relação à remuneração percebida pelo servidor público, em decorrência de cada uma das atividades exercidas.” (eDOC 7, p. 8)
+
+    O Colégio Recursal Central dos Juizados Especiais do TJSP inadmitiu o recurso extraordinário, por entender que incide à espécie o óbice da súmula 280 do STF. (eDOC 10).
+
+    É o relatório. Decido.
+
+    O Tribunal de origem, quando do julgamento do recurso inominado, assim asseverou: (eDOC 5, pp. 4-9)
+
+    “ (...)
+
+    Em que pese a ratio da sentença de fls. 154/157 ter por fundamento as teses firmadas nos referidos julgados paradigmáticos (Temas 377 e 384), tem-se que a premissa adotada no julgamento do presente feito - de que o autor possuiria dois vínculos coma Administração, vínculos caracterizados pelos exercícios das funções de policial e magistério - desconsiderou particularidades da legislação estadual que - salvo melhor juízo - distinguem a controvérsia ora em debate daquelas examinadas pelo Supremo Tribunal Federal. Nessa seara, primeiramente, insta assinalar que o parágrafo único do artigo 6º da Lei Complementar 207/1979 (Lei Orgânica da Polícia do estado de São Paulo) dispõe ser "(...) considerado serviço policial, para todos os efeitos inclusive arregimentação, o exercido em cargo, ou funções de natureza policial, inclusive os de ensino a esta legados" como bem observou a Fazenda Pública nos presentes autos. Quanto à função de magistério desempenhada pelo policial militar nos termos do Decreto estadual n. 54.911/2009, que regulamenta a Lei Complementar n. 1036/08, o seu exercício (docência) não implica a investidura em cargo, emprego ou função pública, senão veja-se:
+
+    (...)
+
+    Note-se que - nos paradigmas julgados pela Excelsa Corte - se estava a apreciar a adequação (ou não) de se aplicar o limitador remuneratório sobre o total somado de remunerações percebidas por dois vínculos distintos e lícitos havidos junto à Administração, eis que diziam respeito ao RE 612.975/MT (Tema 377): tratava da incidência do teto (ou subteto) previsto no inciso XI do artigo 37 da Constituição Federal sobre a soma dos proventos do cargo de tenente coronel odontólogo da reservada Polícia Militar do Estado de Mato Grosso com a remuneração do posto de Odontólogo vinculado ao Sistema Único Saúde SUS (cargo público) e; - no RE 602.043/MT (Tema 384): tratava da incidência do teto (ou subteto) previsto no inciso XI do artigo 37 da Constituição Federal sobre a soma de duas remunerações percebidas cumulativamente por servidor no exercício de dois cargos de médico.
+
+    O caso ora em comento, pois, distingue-se dos casos supramencionados, visto tratar da aplicação de redutor aos vencimentos/proventos de policial militar ativo/inativo - que possui um único vínculo havido com a Administração, uma única investidura em cargo - a quem a lei estadual conferiu a possibilidade de exercer a docência nos cursos das academias da Polícia Militar, atividade essa que não perde a natureza de serviço policial, nos termos do parágrafo único do artigo 6º da Lei Complementar 207/79. II – Da incorporação dos valores recebidos a título de retribuição pecuniária pelos exercício da docência aos vencimentos do policial militar em atividade e quando de sua inatividade. Cumpre lembrar que o valor da hora-aula ministrada pelo policial nos cursos das academias da Polícia Militar (PMESP) será incorporado aos seus proventos, por ocasião de sua inatividade, razão pela qual sobre a retribuição pecuniária recebida a tal título, incidirá o desconto previdenciário, conforme dispôs a Lei Complementar n. 1.249/2014 (vide o inciso II do seu artigo 2º), senão veja-se a redação original e alterada do artigo 9º da Lei Complementar n. 731/93:
+
+    (...)
+
+    A Lei Complementar estadual n. 1.249/14, ademais, quanto à retribuição recebida por aula ministrada (média do valor hora-aula) por policial militar no período de 1º/01/2004 a 31/12/2013, em suas 'Disposições Transitórias', assim previu:
+
+    (...)
+
+    Como se não bastasse a legislação estadual pertinente à matéria prever a incorporação da retribuição recebida por aula ministrada aos vencimentos do policial militar e considerar tal atividade serviço policial para todos os efeitos, existe dispositivo legal expresso a determinar a incidência da gratificação pelo Regime Especial de Trabalho Policial, dos quinquênios e sexta-parte adquiridos pelo trabalho policial (a partir do ingresso) sobre os valores incorporados pelo desempenho da função de professor no período de 1º/01/2004 a 31/12/2013 (redação dos artigos 1º a 3º das Disposições Transitórias da LCE n. 1.249/2014). Incorporação que pressupõe, frise-se, uma única fonte de recebimento: sejam vencimentos ou proventos.
+
+    Não se pode deixar de destacar - ainda - que a LCE n. 1.249/14, em suas disposições transitórias, determinou a sujeição dos décimos incorporados pela docência exercida de 01/01/2004 a 31/12/2013 ao teto remuneratório disposto no art. 37, XI, da Constituição Federal- afinal prevê o inciso XII do artigo 115 da Constituição Estadual (SP).
+
+    (...)
+
+    Assim, o seguinte cenário pode ser vislumbrado, caso seja aplicada a tese firmada no julgamento dos Tema 377 e 384 pelo STF aos vencimentos dos policiais militares em atividade e inativos: - para os policiais militares em atividade ou inativos, tal como o autor - que tenham exercido a docência nos termos do artigo 9º da LCE 731/93, a despeito de ter havido uma única investidura (único vínculo) em cargo público - para efeito de cálculo do limite previsto no inciso XI do art. 37 da Carta Magna - na prática, seriam considerados em separado: - o total recebido pela "função militar", que engloba salário base, RETP, adicional de insalubridade, quinquênios, sexta-parte e correlatos valores reflexos (13º salário, férias e terço constitucional de férias) e; - o total dos valores incorporados a título de horas-aulas pelo exercício da função de magistério acrescido dos valores de RETP, quinquênios, sexta-parte, 13º salário, férias e terço constitucional sobre este(s) incidentes (para ilustrar, vide às fls. 16/96 e fls. 132/148, as rubricas 003.025, 004.241, 009.019,010.020). Destarte, embora ciente da decisão prolatada na Reclamação 45.774/SP, à qual foi negada seguimento pelo Excelso Min. Marco Aurélio do STF 3, e da jurisprudência dominante desta Corte Bandeirante 4, considerada a peculiaridade da legislação estadual pertinente à matéria, data máxima venia, entende-se que a matéria objeto da presente lide, pelas razões expostas, não guarda relação com a matéria examinada nos julgamentos dos Temas 377 e 384 de repercussão geral pelo STF, restando, portanto, devida a aplicação do teto (subteto) remuneratório sobre os valores incorporados pela função de professor (ou instrutor) em conjunto com os demais valores descritos nos vencimentos do autor, ora recorrido; totais esses que compõem - em conjunto - os seus proventos (vide fls. 57/96). Ante o exposto, dá-se provimento ao recurso para, reformada a sentença prolatada pelo MM. Juízo a quo às fls.154/157, julgar a ação improcedente.”
+
+    A parte recorrente, em suas razões recursais, por sua vez, sustenta que a controvérsia não envolve dois cargos públicos, o que afastaria a aplicação do art. 37, XVI, b, da Constituição. Para dissentir do entendimento do Tribunal de origem e chegar às conclusões pretendidas pelas parte recorrente, seria imprescindível analisar os fatos e provas constantes dos autos, bem como a legislação infraconstitucional pertinente, providências inviáveis de serem realizadas nesse momento processual (Súmulas 279 e 280/STF).
+
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso.
+
+    Deixo de aplicar o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+
+    Brasília, 17 de junho de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
