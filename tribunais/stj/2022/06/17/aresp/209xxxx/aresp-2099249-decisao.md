@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AÇÃO DE EMBARGOS À EXECUÇÃO - EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO POR ABANDONO - AUSÊNCIA DE INTIMAÇÃO PESSOAL DO AUTOR PARA IMPULSIONAR O FEITO - RECURSO PROVIDO - SENTENÇA CASSADA.
+Quanto à primeira controvérsia, alega violação do art. 1.022, inciso II, do Código de Processo Civil. Aduz a ocorrência de negativa de prestação jurisdicional, trazendo os seguintes argumentos:
+Na petição dos Embargos de Declaração (fls. 84/86), destacou-se que a Turma Julgadora não levou em conta as infrutíferas tentativas de intimação da parte autora, a qual não se desincumbiu do ônus de manter atualizado nos autos o seu endereço (art. 77, V, do CPC).
+Acentuou, conforme verificado à fl. 54, que foi devidamente expedida carta de intimação ao autor com o objetivo de que este promovesse a regular continuidade do processo, sob pena de extinção do feito. Mas que a entrega restou frustrada porque o destinatário foi identificado como "desconhecido".
+Enfatizou que ato contínuo, houve, ainda, a tentativa de intimação por mandado, registrada à fl. 55, que também restou frustrada. Na oportunidade, o oficial de justiça Carlos Soares Lopes, PJPI-22603-5, mostrou-se, sobretudo, diligente procurando-se informar a respeito do autor, Adão de Abreu Silva, junto aos moradores da localidade Lima de Igaratinga, em 28.06.2019 (fi. 56v. 0). No entanto, o oficial não obteve sucesso, sendo-lhe comunicado, pelos moradores e comerciantes locais, que o autor era desconhecido na região.
+Assim, ressaltou que embora não analisadas no julgamento, ficou demonstrado que ocorreram, por mais de uma vez, regulares tentativas de intimação do autor, inclusive pessoalmente por oficial de justiça.
+Apontou-se que o acórdão foi silente quanto ao disposto nos artigos 77 e 274 do CPC, a qual levaria a conclusão de que não foi efetivada a intimação devido ao descumprimento pelo próprio autor do dever legal de informar ao Juízo eventual modificação de seu endereço, colhendo vasta jurisprudência recente do Tribunal de origem nesse sentido.
+Com a devida vênia, não houve a emissão de juízo expresso acerca das aludidas questões (fls. 264-266).
+Quanto à segunda controvérsia, alega violação dos arts. 77, inciso V, 274, parágrafo único, e 485, inciso III, do Código de Processo Civil. Sustenta que as intimações à parte autora foram direcionadas ao endereço por ela fornecido na peça inicial, sendo as referidas intimações válidas, trazendo os seguintes argumentos:
+A Turma Julgadora, à unanimidade, deu provimento a apelação e reformou a sentença que extinguiu o processo sem resolução de mérito, com fundamento no art. 485, III, do CPC por inércia da parte na condução do feito por mais de 30 dias, quando instado a fazê-lo.
+Extrai-se do voto condutor do aresto:
+ ..
+Com a devida vênia, a conclusão adotada no v. acórdão viola frontalmente o disposto nos artigos 77 e 274 do CPC, in verbis:
+Art. 77. Além de outros previstos neste Código, são deveres das partes, de seus procuradores e de todos aqueles que de qualquer forma participem do processo:
+ ..
+V - declinar, no primeiro momento que lhes couber falar nos autos, o endereço residencial ou profissional onde receberão intimações, atualizando essa informação sempre que ocorrer qualquer modificação temporária ou definitiva;
+Art. 274. Não dispondo a lei de outro modo, as intimações serão feitas às partes, aos seus representantes legais, aos advogados e aos demais sujeitos do processo pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria.
+Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço.
+Ora, a intimação foi direcionada para o endereço constante da inicial tendo sido realizadas várias tentativas de localizar o autor, por carta (fl. 55) e inclusive por oficial de justiça (fl. 56), sem êxito, fazendo incidir o disposto nos arts.77, V e 274, parágrafo único do CPC.
+Assim sendo, a extinção do feito sem resolução do mérito, nos moldes do art. 485, III do CPC, se impõe, tendo em vista o autor ter se quedado inerte, mesmo depois de intimado a cumprir o despacho de f1 51-vº.
+Desse modo, a prevalecer os acórdãos recorridos remanescerá decisão apta a reduzir a obrigação da parte na condução do feito, assim como esvaziar o comando que presume a validade das intimações encaminhadas para o endereço constante dos autos - na hipótese, fornecido pelo autos -, em patente ofensa ao disposto nos arts.77, V, 274, parágrafo único e 485, III, do CPC, o que não pode prosperar (fls. 266-269).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração têm fundamentação vinculada, destinando-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material. Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp n. 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018, e EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp n. 1.491.187/SC, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 23/3/2018.
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos:
+De fato, restou consignado no acórdão embargado que a extinção do processo por desídia do autor depende de sua prévia intimação pessoal, não impondo o legislador a necessidade de intimação de seu Procurador. E que o processo se desenvolve por impulso oficial e a sua extinção, nas hipóteses previstas nos incisos II e III do art. 485, do CPC, pressupõe a existência de ato que deva ser praticado pela parte.
+Isso porque, a intimação pessoal da parte, exigida textualmente pelo Estatuto Processual Civil, visa a evitar a extinção nos casos em que a negligência e o desinteresse são apenas do Causídico, e não do sujeito processual propriamente dito. Ciente do fato, a parte poderá substituir o seu Procurador ou cobrar dele a diligência necessária para que o processo retome o curso normal.
+Restou consignado, também, que, na espécie, ao contrário do que decidiu a Juíza singular, quando da prolação da sentença, o embargado não foi intimado pessoalmente, conforme certificado à f. 56v.
+Assim, não tendo sido atendidos aos requisitos legais para a extinção do processo, sem resolução de mérito, com fulcro no art. 485, III, e seu §1º, do CPC, eis que ausente a intimação pessoal da parte autora para movimentar o feito processo, a cassação da sentença se impõe.
+Ressalte-se que a intimação do autor deve ser feita pessoalmente, e se não for possivel realiza-la por Mandado, porque o autor se mudou e seja desconhecido o seu endereço, por exemplo, poder-se-á recorrer aos Editais, data venia.
+Com efeito, é oportuno registrar a particularidade do caso concreto.
+Na exordial da "Ação Autônoma de Impugnação" manejada em face do Ministério Público do Estado de Minas Gerais, o embargado, - após qualificar-se, afirma que é "residente e domiciliado no "Sítio São José - Limas de Igaratinga, nesta Comarca" (Pará de Minas/MG).
+Doutra banda, o "AR" anexado às fl 54v. traz como endereço do autor, Adão de Abreu e Silva, "ZR Limas de Igaratinga, 0, Bairro Limas de Igaratinga, CEP: 35695000, Igaratinga/MG", e no campo "OCORRÊNCIA: Desconhecido", com base, evidentemente, na Certidão exarada pelo Oficial de Justiça Avaliador, à f. 56v.
+Não obstante, imperioso extrair do "MANDADO DE INTIMAÇÃO" de f. 56:
+"Pessoa a ser intimada:
+ADÃO DE ABREU E SILVA (..).
+Endereço:
+ZR Limas de Igaratinga, 0
+Limas de Igaratinga - CEP: 35644000 - São Gonçalo do Pará/MG".
+Constata-se, portanto, uma incongruência nos endereços relacionados ao embargado, descabendo falar em abandono da causa de sua parte (fls. 255-256).
+Assim, a alegada afronta do art. 1.022 do CPC não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos, fundamentando suficientemente e com clareza sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inexistentes omissões ou obscuridade no acórdão recorrido, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: AgInt no AREsp n. 1.652.952/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt no AREsp n. 1.606.785/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/8/2020; AgInt no AREsp n. 1.674.179/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 28/8/2020; AgInt no REsp n. 1.698.339/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgRg no AREsp n. 1.631.705/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; e AgRg no REsp n. 1.867.692/SP, relator Ministro Jorge Mussi, DJe de 18/5/2020.
+Quanto à segunda controvérsia, por sua vez, o acórdão recorrido assim decidiu:
+Ressalte-se que a intimação do autor deve ser feita pessoalmente, e se não for possivel realiza-la por Mandado, porque o autor se mudou e seja desconhecido o seu endereço, por exemplo, poder-se-á recorrer aos Editais, data venia.
+Com efeito, é oportuno registrar a particularidade do caso concreto.
+Na exordial da "Ação Autônoma de Impugnação" manejada em face do Ministério Público do Estado de Minas Gerais, o embargado, - após qualificar-se, afirma que é "residente e domiciliado no "Sítio São José - Limas de Igaratinga, nesta Comarca" (Pará de Minas/MG).
+Doutra banda, o "AR" anexado às fl 54v. traz como endereço do autor, Adão de Abreu e Silva, "ZR Limas de Igaratinga, 0, Bairro Limas de Igaratinga, CEP: 35695000, Igaratinga/MG", e no campo "OCORRÊNCIA: Desconhecido", com base, evidentemente, na Certidão exarada pelo Oficial de Justiça Avaliador, à f. 56v.
+Não obstante, imperioso extrair do "MANDADO DE INTIMAÇÃO" de f. 56:
+"Pessoa a ser intimada:
+ADÃO DE ABREU E SILVA (..).
+Endereço:
+ZR Limas de Igaratinga, 0
+Limas de Igaratinga - CEP: 35644000 - São Gonçalo do Pará/MG".
+Constata-se, portanto, uma incongruência nos endereços relacionados ao embargado, descabendo falar em abandono da causa de sua parte (fls. 255-256).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
