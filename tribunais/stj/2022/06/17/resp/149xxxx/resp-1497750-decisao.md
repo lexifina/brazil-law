@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial, interposto por CONDOMÍNIO EDIFÍCIO INTERNATIONAL AIRPORT FLAT, com amparo nasalíneas"a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação de ressarcimento de danos - Prescrição regulada pelo Código Civil - Prazo prescricional de três anos contados da entrada em vigor do Novo Código Civil - Aplicaçâo do art. 206, § 3º,V do Código Civil c.c. art. 2028 - Prescrição consumada - Recurso provido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 632/646, e-STJ), orecorrenteaponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos artigos 1º da Lei 4.591/64 e, ainda, 2º e 27 do Código de Defesa do Consumidor.
+Sustenta, para tanto: a) que o condomínio representa interesse dos diversos proprietários da unidades autonômas que o compõem;b) trata-se de relação de consumo, sendo, assim, aplicável, na hipótese, a lei consumerista.
+Contrarrazões (fls. 669/678, e-STJ), e após decisão de admissão do recurso especial (fls. 680/682, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. A controvérsia, ora devolvida, foi objeto de exame, no pretérito, pelo Superior Tribunal de Justiça.
+Com efeito, no julgamento doREsp 1.785.802/SP, esta Corte Superior firmou o entendimento de que: "oapart-hotel (flat services ou flats) é um prédio de apartamentos com serviços de hotelaria. No caso, é incontroverso que o empreendimento se destina a aluguéis temporários. Como não é permitido aos condomínios praticarem atividade comercial, e para haver a exploração da locação hoteleira, os proprietários das unidades devem se juntar em uma nova entidade, constituída comumente na forma de sociedade em conta de participação, apta a ratear as receitas e as despesas das operações, formando um pool hoteleiro, sob a coordenação de uma empresa de administração hoteleira. Na hipótese, é inegável que a promissária compradora era investidora, pois tinha ciência de que as unidades habitacionais não seriam destinadas ao próprio uso, já que as entregou ao pool hoteleiro ao anuir ao Termo de Adesão e ao contratar a constituição da sociedade em conta de participação para exploração apart-hoteleira, em que integraria os sócios participantes (sócios ocultos), sendo a Blue Tree Hotels a sócia ostensiva. Pela teoria finalista mitigada, a Corte local deveria ao menos aferir a sua vulnerabilidade para fins de aplicação do CDC" (REsp 1.785.802/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/2/2019, DJe de 6/3/2019).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES PAGOS. PROMESSA DE COMPRA E VENDA. EMPREENDIMENTO HOTELEIRO. RESCISÃO CONTRATUAL. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE. INVESTIDOR. TEORIA FINALISTA MITIGADA. VULNERABILIDADE. AFERIÇÃO. NECESSIDADE. REEXAME DE FATOS E PROVAS. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. COTEJO ANALÍTICO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de rescisão contratual cumulada com restituição de valores pagos.
+2. O adquirente de unidade imobiliária, mesmo não sendo o destinatário final do bem, poderá encontrar abrigo na legislação consumerista com base na teoria finalista mitigada se tiver agido de boa-fé e não detiver conhecimentos de mercado imobiliário nem expertise em incorporação, construção e venda de imóveis, sendo evidente sua vulnerabilidade. Precedentes.
+3. Alterar o decidido no acórdão impugnado no que se refere à indenização pelo aproveitamento e ocupação da unidade imobiliária, envolve o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.755.516/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/4/2021, DJe de 22/4/2021.)
+A incidência, portanto, da legislação consumerista, no caso, dever ser reconhecida, fluindo, portanto, o prazo prescricional do art. 27 do Código de Defesa do Consumidor, devendo, assim, ser restabelecido o acórdão de fls. 530/540 (e-STJ).
+2. Ante o exposto, dou provimento ao recurso especial para restabelecer o acórdão de fls. 530/540 (e-STJ).
+Publique-se. Intimem-se.
