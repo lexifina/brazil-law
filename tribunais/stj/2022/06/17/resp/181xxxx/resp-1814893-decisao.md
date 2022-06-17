@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SAFRA S/A, (BANCO SAFRA), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo tribunal paranaense, nos termos do acórdãoassim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. DECISÃO AGRAVADA QUE REVOGA DECISÃO ANTERIOR QUE HAVIA CONVERTIDO A AÇÃO DE BUSCA E APREENSÃO EM EXECUÇÃO. VEÍCULO DEVIDAMENTE LOCALIZADO. APREENSÃO PELA POLÍCIA. MULTAS E DESPESAS ADMINISTRATIVAS. RESPONSABILIDADE DO PROPRIETÁRIO. DIREITO DE REGRESSO CONTRAO DEVEDOR FIDUCIÁRIO. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. O Decreto-Lei 911/69 em seu artigo 4º. assevera que o credor poderá se valer da conversão do pedido de busca e apreensão para ação executiva apenas quando o bem alienado fiduciariamente não for encontrado ou não se achar na posse do devedor. No entanto, no caso dos autos, o veículo foi encontrado e apreendido pela polícia do Estado de São Paulo (mov. 131.1) porque o próprio agravante requereu o bloqueio via sistema RENAJUD.
+2. O agravante certamente que não ficará impossibilitado de buscar a satisfação integral de seu crédito, pois poderá prosseguir com rito do Decreto-Lei 911/69, com a alienação do veículo, apuração do saldo devedor e cobrança dos valores remanescentes.3. Com relação as multas e despesas administrativas do veículo, estas são de responsabilidade do agravante que é o efetivo proprietário do bem e que poderá exercitar o direito de regresso em face do devedor fiduciário para que ele arque com todas as multas e despesas no período em que o veículo esteve em sua posse(e-STJ, fl. 645).
+Nas razões do presente recurso, BANCO SAFRA alega violação aos arts. 505 do NCPC e4º e 5º do Decreto-Lei nº 911/69 ao sustentar que (1) houve preclusão pro judicato, não sendo possível decidir novamente sobre aconversão da ação em execução no que se referea um dos veículos alienados fiduciariamente, sendoamplamente admitida a conversão em ação executiva quando o bem dado em garantia for encontrado em condições inservíveis sequer à mínima amortização do débito, faculdade essa atribuída ao credor fiduciante (e-STJ, fls. 656/667).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1)Da preclusão
+BANCO SAFRA defende quehouve preclusão pro judicato, não sendo possível decidir novamente sobre a conversão da ação em execução no que se refere a um dos veículos alienados fiduciariamente, sendoamplamente admitida a conversão em ação executiva quando o bem dado em garantia for encontrado em condições inservíveis sequer à mínima amortização do débito, faculdade essa atribuída ao credor fiduciante.
+A questão foi assim analisada pelo Tribunal estadual:
+Isso porque não há que se falar em preclusão pro iudicato pelo simples fato do Magistrado ter revogado sua decisão anterior em que autorizou a conversão da ação de busca e apreensão em ação executiva com relação ao veículo AUDI.
+Ora, nada mais fez o julgador que utilizar de suas atribuições de presidente do processo e aplicar a lei.
+O Decreto-Lei 911/69 em seu artigo 4º. assevera que o credor poderá se valer da conversão do pedido de busca e apreensão para ação executiva apenas quando o bem alienado fiduciariamente não for encontrado ou não se achar na posse do devedor.
+No entanto, no caso dos autos, o veículo foi encontrado e apreendido pela polícia do Estado de São Paulo (mov. 131.1) porque o próprio agravante requereu o bloqueio via sistema RENAJUD.
+Logo, uma vez encontrado o bem, não há que se falar em sua apreensão ou mesmo em conversão em ação executiva, pois sendo o agravante o proprietário (propriedade resolúvel), basta se dirigir ao órgão e exercitar os poderes inerentes a sua condição.
+Além disso, o agravante certamente que não ficará impossibilitado de buscar a satisfação integral de seu crédito, pois poderá prosseguir com rito do Decreto-Lei 911/69, com a alienação do veículo, apuração do saldo devedor e cobrança dos valores remanescentes.
+Finalmente, com relação as multas e despesas administrativas do veículo, estas são de responsabilidade do agravante que é o efetivo proprietário do bem.
+ ..
+Contudo, o agravante poderá exercitar o direito de regresso em face do devedor fiduciário para que ele arque com todas as multas e despesas no período em que o veículo esteve em sua posse(e-STJ, fl. 648/649).
+Com efeito, esta Corte tem entendimento no sentido de que, em ação de busca e apreensão processada sob o rito do Decreto-Lei n. 911/69, o credor tem a faculdade de requerer a conversão do pedido de busca e apreensão em ação executiva, se o bem não for encontrado ou não se achar na posse do devedor, nos termos do art. 4º do referido Decreto-Lei(AgInt no AREsp n. 1.717.777/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/4/2021, DJe de 14/4/2021).
+Ademais, osrequisitos de admissibilidade, pressupostos processuais, assim também condições da ação constituem, genuinamente, matérias de ordem pública, não incidindo sobre elas o regime geral de preclusões, o que torna possível a reavaliação desses aspectos processuais desde que a instância se encontre aberta(AgInt no REsp n. 1.801.734/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe de 27/4/2022).
+Desse modo, tendo a decisão obedecido os parâmetros legais, não cabe ser alterada.
+Nessas condições,NEGO PROVIMENTOao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. BUSCA E APREENSÃO. CONVERSÃO EM AÇÃO EXECUTIVA. PRECLUSÃO PRO JUDICATO. INEXISTÊNCIA.RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
