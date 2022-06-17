@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto porMUNDO TRANSPORTES LTDA., com arrimo no artigo 105, inciso III, alínea"a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Geraisassim ementado:
+"CIVIL E PROCESSO CIVIL - EXECUÇÃO DE TITULO EXECUTIVO EXTRAJUDICIAL - DUPLICATA MERCANTIL VIRTUAL - PESSOA JURÍDICA - INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR -ABUSIVIDADE CONTRATUAL - AUSÊNCIA DE PROVA - TERMO INICIAL DOS JUROS DE MORA - VENCIMENTO DO TITULO EXECUTIVO EXTRAJUDICIAL. (INAPLICABILIDADE DO CDC) O Código de Defesa do Consumidor é inaplicável ao presente caso, pois os serviços e produtos disponibilizados pela empresa exequente/embargada, ora apelada, foram adquiridos pela empresa executada/embargante, ora apelante, para serem revertidos à sua atividade empresarial, não se configurando, pois, a relação de consumo - inteligência do art. 2º do Código de Defesa do Consumidor. (AUSÊNCIA DE PROVA DE ABUSIVIDADE CONTRATUAL) A posição do credor na execução é privilegiada, pois para fazer valer seu direito nada tem que provar, já que o titulo de que dispõe é prova cabal de seu crédito e é razão suficiente para levar a execução até as últimas consequências, sendo que, para pretender desconstitui-lo, diante da presunção legal de legitimidade que o ampara, toca ao embargante todo o ônus da prova.
+Apesar de alegar a suposta lesão contratual com a existência de cobrança de encargos abusivos no contrato por ela firmado com a empresa exequente/embargada, ora apelada, a empresa executada/embargante, ora apelante, não comprovou sua alegação, razão pela qual a rejeição dos embargos do devedor é medida que se impõe. (TERMO INICIAL DOS JUROS DE MORA) Em se tratando de obrigação positiva e liquida, como no caso dos autos - em que a divida da parte apelante está representada por meio de notas fiscais das quais foram extraídas notas fiscais eletrônicas de prestação de serviços e de venda de mercadorias - a mora opera-se ex re, consoante o disposto no art. 397 do Código Civil, ipsis litteris: "Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito emmora o devedor". Assim, considerando que os efeitos da mora incidem a partir da data de vencimento do titulo executivo extrajudicial, este deve ser o termo inicial de incidência dos juros de mora" (e-STJ fls. 101-102).
+Em suas razões (e-STJ fls. 110-116), arecorrente aponta violação dos artigos 7º, 10, 369, 370, 373, inciso II, do Código de Processo Civil de 2015.
+Sustenta, em síntese, que teria havido cerceamento do direito de defesa e violação aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo em vista o indeferimento de prova pericial.
+Decorrido sem manifestação o prazo para as contrarrazões(e-STJ fl. 123), e admitido o recurso na origem (e-STJ fls. 135-137), subiram os autos a esta colenda Corte.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Oconteúdo normativo dos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE RECURSAL. AGRAVO REGIMENTAL. MATÉRIA CONSTITUCIONAL. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Transcrição incorreta do nome da parte recorrente configura mero erro material, que ora se retifica, mantendo-se, contudo, o teor decisório do julgado.
+2. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+4. Ausência, nas razões de recurso especial, de indicação dos dispositivos legais tidos por violados. Incidência da Súmula 284/STF.
+5. Aplica-se a Súmula 282 do Supremo Tribunal Federal quando o Tribunal de origem não tiver emitido pronunciamento explícito ou implícito sobre a questão debatida nos autos.
+6. Embargos de declaração recebidos como agravo regimental, a que se nega provimento".
+(EDcl no Ag 1.160.667/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2012, DJe 29/05/2012 - grifou-se)
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. PREQUESTIONAMENTO. SÚMULA 282 E 356/STF. DANO MORAL. COMPENSAÇÃO DE CHEQUES EXTRAVIADOS. CADASTRO RESTRITO DE CRÉDITO. QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE.
+1.- O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável da própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais requisitos ao seu conhecimento. Não examinada a matéria objeto do especial pela instância a quo, incidem os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+2.- A intervenção do STJ, Corte de caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o país e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratológico, por irrisório ou abusivo.
+3.- Inocorrência de teratologia no caso concreto, em que, para o dano decorrente de compensação de cheques extraviados emitidos por terceiros, foi fixado o valor de indenização de R$ 27.250,00 (vinte e sete mil, duzentos e cinquenta mil reais) a título de dano moral, consideradas as forças econômicas do autor da lesão.
+4.- Agravo Regimental improvido".
+(AgRg no AREsp 151.897/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/05/2012, DJe 28/05/2012 - grifou-se)
+Ante o exposto,não conheço do recurso especial.
+Publique-se.
+Intimem-se.
