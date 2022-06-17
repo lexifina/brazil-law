@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VITAL FERREIRA DIAS MOREIRA e GUILHERME SABINO CALIXTA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1509730-24.2021.8.26.0228).
+Os pacientes foram condenados às penas de 5 anos e 4 meses de reclusão em regime semiaberto e de 13 dias-multa, pela prática do delito previsto no art. 157, § 2º, II e V, do Código Penal.
+À apelação ministerial foi dado provimento a fim de majorar as penas para 5 anos e 6 meses de reclusão em regime fechado.
+Neste writ, o impetrante aponta constrangimento ilegal diante da fixação do regime inicial fechado em dissonância com o enunciado daSúmulan. 440 do STJ e das Súmulas n. 718 e 719 do STF.
+Requer, liminarmente e no mérito, oregime semiaberto para início de cumprimento da pena.
+O pedido de liminar foi indeferido (fls. 365-366).
+Prestadas as informações (fls. 370-457), o Ministério Público Federal opinou pela denegação da ordem (fls. 461-462).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+O pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Acerca da questão, assim decidiu o Tribunal de origem (fl. 17):
+Quanto ao regime prisional, este deverá ser alterado para o fechado, considerando as circunstâncias concretas acima mencionadas, bem como diante da audácia e da periculosidade inerente ao roubo praticado em concurso de agentes e restrição da liberdade das vítimas, a fim de que a punição não seja inócua e seja necessária e suficiente à reprovação e prevenção do crime, nos termos do art. 33, par. 3º, do Código Penal.
+Relativamente à fixação do regime inicial para o cumprimento de pena, cumpre ressaltar que, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deve observar a quantidade da pena aplicada, bem como a primariedade do agente e a existência das circunstâncias judiciais desfavoráveis do art. 59 do Código Penal.
+Ademais, a jurisprudência do STJ firmou-se no sentido de que a gravidade abstrata do delito de roubo não constitui motivação suficiente, por si só, para justificar a imposição de regime prisional mais gravoso.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. PENA INFERIOR À OITO ANOS. REGIME FECHADO.GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Em relação ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+III - In casu, o regime fechado foi mantido somente com base em considerações vagas e genéricas relativas à majorante do crime, não sendo apresentado fundamento concreto para a imposição do regime mais gravoso. Desse modo, sendo o paciente primário e fixada a pena-base no mínimo legal, eis que favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto se mostra o mais adequado para o resgate das reprimendas, nos termos do art. 33, § 2º, "b", do Código Penal. Precedente.
+IV - O parágrafo 2º do art. 387 do Código de Processo Penal, acrescentado pela Lei n. 12.736/2012, determina que o tempo de prisão cautelar deve ser considerado para a determinação do regime inicial de cumprimento de pena, vale dizer, a detração do período de segregação cautelar deve ser considerada já no estabelecimento do regime inicial pela decisão condenatória. Ainda, tem-se que as alterações trazidas pelo diploma legal supramencionado não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência.
+V - Na hipótese, verifica-se a ocorrência do constrangimento ilegal, uma vez que a autoridade coatora analisou a questão da detração, apenas sob o prisma da progressão de regime, em contrariedade ao que determina o comando normativo.
+Habeas corpus não conhecido. Ordem concedida de ofício. (HC n. 625.511/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 17/2/2021.)
+Ressalte-se ainda o enunciado da Súmula n. 440 do STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Em igual sentido, as Súmulas n. 718 e 719 do STF.
+No presente caso, os pacientes fazem jus ao regime prisional intermediário, já que são primários e não existem circunstâncias judiciais desfavoráveis, tendo a pena-base sido fixada no mínimo legal.
+Ante o exposto,  não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para fixar o regime prisional semiaberto para ambos os pacientes, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
