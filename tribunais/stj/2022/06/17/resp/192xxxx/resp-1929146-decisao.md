@@ -1,0 +1,12 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. AFASTAMENTO DA MULTA DO ART.1.026,§ 2º, DO CPC/2015.EMBARGOS NÃO PROTELATÓRIOS. RECURSO ESPECIAL DO ESTADO A QUE SE DÁ PROVIMENTO.
+1.  Trata-se  de  recurso  especial  interposto  pelo  ESTADO  DE  MINAS  GERAIS,  com  fundamento  na  alínea  a  do  art.  105,  III,  da  Constituição  Federal,  no  qual  se  insurge  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  daquele  Estado,  assim  ementado:
+AGRAVO INTERNO - DECISÃO DE SOBRESTAMENTO - IRDR N. 10000160249835003/MG-TEMA 00051 - CARREIRA DO GRUPO DO MEIO AMBIENTE - LEI ESTADUAL N.15.461/2005 - INAPLICABILIDADE AO CASO - INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA N.1.0024.11.194659-6/003 - OBSERVÂNCIA. Especificamente para os Especialistas em Políticas e Gestão da Saúde existe a Lei n.15.462/05, assim como a decisão sedimentada por este tribunal em sede do julgamento do incidente de uniformização de jurisprudência nº 1.0024.11.194659-6/003, sendo inaplicável o sobrestamento com base no IRDR n. 10000160249835003/MG (Tema 51), devendo ser retratada a decisão que determinou a suspensão do feito.
+2.  Opostos  embargos  de  declaração, foram rejeitados (fls. 1103/1106).
+3.  Nas  razões  do  recurso  especial,  o  Estado  recorrente  postula  a  reforma  do  acórdão,  para  que  sejasuspenso o julgado até o julgamento doIRDR 1.0000.16.024483-5/003 (Tema 51). Entende, ainda, ser indevida a condenação à multa por oposição protelatória de declaratórios.
+4.  Com  as  contrarrazões,  sobreveio  juízo  parcial  de  admissibilidade  recursal  (fls.  1.182/1186).
+5.  É  o  relatório.
+6. Considerando que houve negativa de seguimento do recurso especial no tocante à suspensão do processo e concessão de efeito suspensivo ao recurso(fls. 1182/1186), esta decisão restringir-se-á somente à análise da questão da multa.
+7. A mera rejeição dos embargos declaratórios não é suficiente para a aplicação da multa prevista no art.1.026,§ 2º, do CPC/2015, que se justifica quando visível a intenção de retardar injustificadamente o andamento normal do processo, em prejuízo da parte contrária e do Judiciário. Tem-se, no caso, que os aclaratórios opostos não se revestiram de caráter protelatório, sendo impositiva a exclusão da multa aplicada na origem.
+8.Ante o exposto, dá-se provimento ao recurso especial do Estadopara afastar a multa do art.1.026,§ 2º, do CPC/2015.
+9. Publique-se. Intimações necessárias.
