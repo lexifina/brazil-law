@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quinta Turma desta Corte Superior que, por unanimidade, negou provimento aoagravo regimental, assim ementado:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. INOBSERVÂNCIA DO PROCEDIMENTO DOART. 226 DO CÓDIGO DE PROCESSO PENAL -CPP. EXISTÊNCIA DE OUTRAS PROVAS.VIOLAÇÃO DOART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. ELEMENTOS PROBATÓRIOS COLHIDOS NA FASE POLICIAL E JUDICIAL. DESCLASSIFICAÇÃO DO CRIME DE ROUBO PARA O DELITO DE RECEPTAÇÃO. IMPOSSIBILIDADE. PROVA DA AUTORIA E MATERIALIDADE DO CRIME DE ROUBO COMPROVADA.REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ.AGRAVO DESPROVIDO.
+1. No caso, ainda que o reconhecimento fotográfico não tenha seguido as regras do citado dispositivo legal, existem outros elementos probatórios nos quais o TJ se baseou para condenar os recorrentes, inclusive judiciais, razão pela qual se torna inviável o pedido de absolvição por ausência de provas, nos termos da jurisprudência desta Corte.
+2.Inexistente ofensa ao art. 155,caput, do Código de Processo Penal, uma vez que a condenação decorreu de elementos colhidos na fase policial que foram corroborados na fase judicial sob o crivo do contraditório.
+3. Tendo o Tribunala quoconcluído que o conteúdo fático-probatório carreado aos autos se mostrou suficiente para dar suporte à condenação dos ora recorrentes pela prática do crime de roubo, a pretensão recursal que objetiva a desclassificação da conduta imputada para o crime de receptação,demanda amplo reexame do acervo fático-probatório, providência vedada em sede de recurso especial em razão do óbice da Súmula n. 7/STJ
+4. Agravo regimental desprovido."
+Nos presentes embargos, a defesa alega omissão, "uma vez que o v. Acórdão embargado cita a existência de outras provas do roubo sem a constatação de que referidas provas são na verdade do crime de receptação" (fl. 915).
+Aduz que a constatação de que o crime em comento se tratade receptação não esbarra na Súmula n. 7do STJ.
+Sustenta que a liberdade dos embargantes está sendo ameaçada, porque não há provas produzidasjudicialmente de quecometeram o crime de roubo.
+Insiste na violação dos artigos indicados no recurso especial e busca o prequestionamento de matéria constitucional.
+Pugna pelo conhecimento e provimento dos embargos para queseja sanada a omissão levantada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.OMISSÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO.PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP,os embargos de declaração são cabíveis nas hipóteses de correção deomissão, obscuridade, ambiguidade ou contrariedade no decisum. Ainda,admite-se para correção de erro material, conforme art. 1.022, III, doCódigo de Processo Civil - CPC.
+2. Na espécie, o acórdão embargado não ostenta nenhum dosaludidos vícios. O embargante pretende, em verdade, a modificação doprovimento anterior, com a rediscussão da questão, o quenão se coaduna com a medida integrativa.
+3.Éinviável a apreciação, em embargos declaratórios, de suposta ofensa a dispositivos da Constituição Federal, uma vez que o prequestionamento de matéria essencialmente constitucional, por esta Corte Superior, ensejaria a usurpação da competência do STF. (EDcl no AgRg nos EAg 1.409.545/MG, Terceira Seção, relator Ministro Jorge Mussi, DJe de 7/3/2013).
+4. Embargos de declaração rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+O acórdão embargado não ostenta nenhum dos aludidos vícios, pois decidiu a questão acerca da autoria do delito de roubode forma clara e fundamentada, tendo consignado que"o conteúdo fático-probatório carreado aos autos se mostrou suficiente para dar suporte à condenação dos ora recorrentes pela prática do crime de roubo. Assim, a pretensão recursal que objetiva a desclassificação da conduta imputada para o crime de receptação, demanda amplo reexame do acervo fático-probatório, providência vedada em sede de recurso especial em razão do óbice da Súmula n. 7/STJ".
+Assim, a pretensão do embargante na modificação do provimento anterior, com a rediscussão da questão, não se coaduna com a medida integrativa, sequer para fins de prequestionamento. Precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA. MERA REDISCUSSÃO. PREQUESTIONAMENTO. IMPOSSIBILIDADE. MATÉRIA CONSTITUCIONAL.EMBARGOS REJEITADOS.
+1. A ausência, no acórdão, de quaisquer dos vícios elencados no art. 619 do Código de Processo Penal, torna inviável o acolhimento dos embargos declaratórios opostos.
+2. Na espécie, inexiste a omissão apontada, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, nesta via, rediscutir o entendimento adotado.
+3. Não cabe a esta Corte Superior manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDv nos EREsp 1746600/SC, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO,DJe 21/2/2020).
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO.OMISSÃO. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. NÃO CABIMENTO. OMISSÃO.INEXISTÊNCIA. REDISCUSSÃO. DISPOSITIVO CONSTITUCIONAL. PREQUESTIONAMENTO.EMBARGOS REJEITADOS.
+1. Apenas se admite embargos de declaração quando evidenciada deficiência no acórdão recorrido comefetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP.
+ ..
+3. Não se prestam os embargos de declaração para a rediscussão do acórdão recorrido quando revelado mero inconformismo com o resultado do julgamento.
+4. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 1281062/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA,DJe 9/3/2020).
+Por último, éinviável a apreciação, em embargos declaratórios, de suposta ofensa a dispositivos da Constituição Federal, uma vez que oprequestionamentode matéria essencialmenteconstitucional,por esta Corte Superior, ensejaria a usurpação da competência do STF. (EDclno AgRg nos EAg 1.409.545/MG, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO,DJe de 7/3/2013). No sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CÁLCULO DE ATUALIZAÇÃO EM PRECATÓRIO. HOMOLOGAÇÃO. IMPUGNAÇÃO. ALEGAÇÃO DE ERRO NA APLICAÇÃO DE CORREÇÃO MONETÁRIA E JUROS DE MORA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. SEGURANÇA DENEGADA. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. INADEQUAÇÃO DO USO DO MANDADO DE SEGURANÇA. RECURSO A QUE SE NEGOU SEGUIMENTO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MANUTENÇÃO DA DECISÃO EMBARGADA. EMBARGOS REJEITADOS.
+1. Estes embargos de declaração foram interpostos contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O mandado de segurança foi denegado pelo Tribunal de Justiça de Minas Gerais por ausência de prova pré-constituída do direito invocado. Hipótese em que o Município não se desincumbiu do ônus de comprovar suas alegações quanto ao desacerto dos cálculos homologados.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento a agravo interno asseverando que, no caso dos autos, não era cabível o mandado de segurança.
+4. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+5. É inviável a apreciação, em embargos declaratórios, de suposta ofensa a dispositivos da Constituição Federal, uma vez que o prequestionamento de matéria essencialmente constitucional, por esta Corte Superior, ensejaria a usurpação da competência do STF. (EDcl no AgRg nos EAg 1.409.545/MG, Terceira Seção, relator Ministro Jorge Mussi, DJe de 7/3/2013).
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no RMS 61.326/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA,DJe 23/3/2022).
+Ante o exposto, voto no sentido de rejeitar os presentes aclaratórios.
