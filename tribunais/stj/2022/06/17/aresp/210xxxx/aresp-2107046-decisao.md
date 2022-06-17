@@ -1,0 +1,92 @@
+DECISÃO
+CATIELE SCHINOFF DA SILVA (CATIELE) promoveu ação de cobrança contra BOLOGNESI EMPREENDIMENTOS LTDA. (BOLOGNESI), alegando a mora na entrega da unidade imobiliária adquirida, o que acarreta a procedência do pedido.
+Em primeira instância, o pedido foi julgado parcialmente procedente, tendo havido condenação em custas e em honorários advocatícios.
+Os embargos de declaração opostos por CATIELE foram rejeitados.
+A apelação interposta por BOLOGNESInão foi providapelo Tribunal de Justiça do Rio Grande do Sul,nos termosdo acórdãoassim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. LOTEAMENTO CHÁCARA DAS ROSAS. ATRASO NA ENTREGA DA OBRA. JUROS DE OBRA. LUCRO CESSANTE. SUCUMBÊNCIA RECURSAL. INCOMPETÊNCIA ABSOLUTA:A questão não perpassa pela aferição de cláusula de contrato imobiliário, mas sim pela indenização por atraso na obra. Ausente interesse da CEF na presente lide, uma vez que se trata de pedido indenizatório decorrente de culpa da construtora.
+ILEGITIMIDADE PASSIVA. JUROS DE OBRA: Com o atraso na entrega da obra restou a parte demandante onerada de forma indevida. Isso direciona a obrigatoriedade à apelante devendo devolver o valor cobrado, a título de juros de obra, vez que foi quem deu culpa ao atraso na entrega da obra.
+ATRASO NA ENTREGA DA OBRA: Induvidosa a ocorrência de atraso na obra, a qual estava prevista para janeiro de 2015, observada a cláusula de tolerância, sendo disponibilizado o imóvel em abril de 2015. A discussão travada no recurso no sentido de que a entrega do imóvel ocorreu dentro do prazo estipulado no contrato imobiliário havido com a Caixa Econômica Federal perde relevo diante da circunstância que o prazo de tolerância é aquele fixado no contrato particular havido entre as partes.
+JUROS DE OBRA: É lícito a parte autora exigir da construtora, face culpa reconhecida, indenização equivalente aos "juros de obra" pelo período de atraso entrega da obra e a posse do imóvel, quando já poderia estar amortizando o preço do contrato imobiliário. Orientação do Tema 996 do STJ.
+LUCRO CESSANTE: O descumprimento contratual por parte da promitente-vendedora gera a presunção de dano material, face não fruição do imóvel pelo adquirente, devendo os lucros cessantes corresponder ao valor mensal de um imóvel na forma da sentença. Sentença mantida. Apelo não provido.
+SUCUMBÊNCIA RECURSAL: O art. 85, §11º, do CPC estabelece que o Tribunal, ao julgar recurso, majorará os honorários fixadosanteriormente levando em conta o trabalho adicional realizado em grau recursal. Sucumbência recursal reconhecida e honorários fixados em prol do procurador da parte autora majorados.
+NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO (e-STJ, fls. 258/259).
+Os embargos de declaração opostos por BOLOGNESIforam rejeitados.
+Inconformado, BOLOGNESImanejourecurso especial, com amparo no art. 105, III, alíneaa, da CF, alegando violação dos arts. 485, VI, 489, § 1º, IV e 1.022, IIdo NCPC e 186 e 927 do CC/2002. Sustentouque (1) o aresto recorrido foi omisso, porque não fundamentou adequadamente à questão relativa a não ocorrência do atraso na entrega da obra; (2) não houve prática de ato ilícito, o que afasta a indenização por danos materiais; e, (3) não pode figurar no polo passivo, em virtude da ausência de legitimidade.
+Contrarrazões (e-STJ, fls. 360/363).
+O apelo nobre interposto por BOLOGNESInão foi admitido em virtude do seguinte (1) ausência de afronta aos arts. 489 e 1.022 do NCPC; (2) o aresto recorrido está em consonância com a jurisprudência do STJ - Tema nº 966; e,(3)incidência das Súmulas nºs 5 e 7 do STJ.
+Seguiu-se o agravo em recurso especial interposto por BOLOGNESI, oportunidade em que foram rebatidosos óbiceindicados, tendo havido reiteraçãodos termos do seu apelo nobre.
+Contraminuta (e-STJ, fls. 404/407).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da eventual assertivade contrariedadeaos arts. 489 e 1.022 do NCPC
+Inicialmente, BOLOGNESIalegouofensa aos arts. 489, § 1º, IV e1.022, II, do NCPC.Sustentou queo aresto recorrido foi omisso, porque não fundamentou adequadamente à questão relativa a não ocorrência do atraso na entrega da obra.
+Sobre o tema, a Corte local, ao julgar a apelação, assim se manifestou:
+O prazo para entrega da obra está previsto para novembro de 2014 (fls. 20), mas podendo o prazo ser prorrogado por 60 dias, independentemente dos motivos de força maior e casos fortuitos.
+A posse do bem se perfectibilizou em abril de 2015, conforme recebimento do imóvel (fls. 37).
+ ..
+ATRASO NA ENTREGA DO IMÓVEL.
+Resta induvidosa a ocorrência de atraso na conclusão da obra, a qual estava prevista para novembro de 2014, segundo proposta de compra e venda (fls. 20), inclusive admitido o prazo de tolerância de 60 dias inserido no item 2 (fls. 19), deveria ter sido entregue em janeiro de 2015, o que atrai a responsabilidade civil da parte demandada, na forma que orienta o Tema 996 do STJ.
+E, inclusive, o prazo a ser considerado é do contrato particular firmado entre as partes, ao invés daquele fixado em contrato imobiliário que sucede o anterior.
+No caso em tela, a discussão travada no recurso no sentido de que a entrega do imóvel ocorreu dentro do prazo estipulado no contrato imobiliário havido com a Caixa Econômica Federal perde relevo diante da circunstância que o prazo de tolerância é aquele fixado no contrato particular havido entre as partes.
+Considerando que o imóvel foi disponibilizado em abril de 2015, caracterizado atraso na entrega da obra de três meses, devendo a sentença no ponto ser mantida, porquanto não há espaço para interpretação conjunta dos contratos forma de analisar a existência de atraso ou não à entrega da obra (e-STJ, fls. 262 e 264).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJRSemitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido ficou caracterizado o atraso na entrega da obra por 3 (três) meses.
+O que se vê, na verdade, é a irresignação de BOLOGNESI com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. OBSCURIDADE OU CONTRADIÇÃO DO ACÓRDÃO. INEXISTÊNCIA. EXCEÇÃO DE IMPEDIMENTO. NECESSIDADE DE OPOSIÇÃO ANTES DO JULGAMENTO DO RECURSO SOB PENA DE PRECLUSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível para seu cabimento a demonstração de que a decisão embargada se mostrou obscura, contraditória ou omissa, ou ainda, que incorreu em erro material, conforme disciplina o art. 1.022, I, II e III, do NCPC. Portanto, a mera irresignação com o entendimento apresentado no decisum, objetivando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. É pacífica a jurisprudência desta Corte no sentido de que a exceção de impedimento deve ser oposta antes do julgamento do recurso pelo órgão colegiado, sob pena de preclusão, sendo, portanto, inadmissível que essa discussão venha a ser suscitada somente em embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg na MC 24.951/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 23/6/2016, DJe 1º/7/2016)
+Da suposta violação dosarts. 186 e 927 do CC/2002
+BOLOGNESI alegouafronta aos arts. 186 e 927 do CC/2002. Sustentou quenão houve prática de ato ilícito, o que afasta a indenização por danos materiais.
+No entanto, a Corte local, soberanana análise das provas, assentou ser devida a indenização por lucros cessantes, em virtude do descumprimento contratual por culpa de BOLOGNESI, nos seguintes termos:
+Evidenciado o descumprimento contratual, face culpa da promitente-vendedora, deve ela arcar com os ônus do seu inadimplemento, sendo certo que o dano advindo da não-fruição do imóvel deve corresponder aos frutos civis que o imóvel renderia, mensalmente, de forma presumida, ao promitente-comprador.
+Logo, a indenização deverá corresponder ao valor mensal de um imóvel semelhante, a ser apurado em liquidação de sentença, na forma da sentença, não havendo reparos a serem feitos (e-STJ, fl. 269).
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJRSquanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+A propósito, confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. AFRONTA AO ART. 591 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC. DANO MORAL. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+2. O eg. Tribunal de Justiça concluiu, com base no acervo fático-probatório carreado aos autos, "patente o descumprimento contratual com o atraso na entrega do imóvel, cabendo observar que o termo final estabelecido contratualmente era em 18 de fevereiro do ano 2010 e, ao menos, até a data da vistoria o serviço não havia sido entregue, em janeiro do ano 2013 (fls. 665/672)".
+3. A modificação do entendimento sufragado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.369.160/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DESCUMPRIMENTO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais em razão de descumprimento contratual.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.931.656/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/12/2021, DJe de 16/12/2021)
+Da assertiva de contrariedade ao art. 485 do NCPC
+Na hipótese, BOLOGNESI alegouviolação doart. 485, VI, do NCPC. Sustentou sua ilegitimidade para figurar no polo passivo da demanda.
+Quanto ao ponto, o Tribunal estadual, soberano na análise do contexto fático-probatório, levou em consideração, no caso concreto, as seguintes particularidades:
+O Contrato de Financiamento firmado com a Caixa Econômica Federal (fls. 23/35) prevê expressamente no item 3 (fls. 25) que a cobrança de encargos mensais incidentes sobre o financiamento, é devida a partir do mês subsequente à contratação firmada com a instituição financeira até a entrega da obra, cujo pagamento é de responsabilidade do devedor, no caso a autora.
+Nesse pensar, havendo atraso na entrega da obra, questão que será analisada em item próprio, restou a parte demandante onerada de forma indevida. Isso direciona a responsabilidade à apelante quanto à devolução do valor correspondente aos juros de obra, vez que foi quemdeu culpa ao atraso na entrega da obra e pagamento por mais tempo de juros de obra.
+Legitimidade que se reconhece e se reafirma (e-STJ, fls. 263/264).
+Ficou consignada, dessarte, a legitimidade de BOLOGNESI para figurar no polo passivo do presente feito.
+Dessa forma, conforme se nota, o TJRSassim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO COM OPÇÃO DE COMPRA. AÇÃO DE COBRANÇA. FIANÇA. LEGITIMIDADE PASSIVA. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. DÍVIDA LÍQUIDA E CERTA. JUROS DE MORA. VENCIMENTO DE CADA PARCELA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, acolher a tese pleiteada pela parte agravante, acerca da ilegitimidade passiva das partes, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que, em se tratando de dívida líquida e certa, os juros de mora incidem a partir do vencimento de cada parcela da obrigação.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.875.083/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. TRANSFERÊNCIA DE IMÓVEL. LEGITIMIDADE PASSIVA AD CAUSAM. VALOR DA ASTREINTE. REDUÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. As conclusões do Tribunal de origem no tocante à legitimidade passiva da ora recorrente, e obrigação dos ora recorrentes de outorgar a escritura do imóvel ao autor, estão amparadas na relação contratual estabelecida entre as partes, e nos elementos fático-probatórios dos autos. A revisão de tal entendimento é vedada em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. O acolhimento da tese da exceção do contrato não cumprido exigiria a revisão das conclusões alcançadas pelo Tribunal estadual, o que é inviável no âmbito do recurso especial, por demandar a interpretação de cláusulas contratuais e o reexame das provas contidas nos autos, atraindo a incidência das Súmulas 5 e 7 do STJ.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor das astreintes, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ. No caso, o montante estabelecido pela Corte local não se mostra excessivo, a justificar sua reavaliação.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.761.983/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022)
+Nessas condições,CONHEÇOdo agravo paraCONHECER EM PARTEdo recurso especial e, nessa extensão,NEGAR-LHEprovimento.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de BOLOGNESI, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º,ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE COBRANÇA. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OUERRO MATERIAL. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. DESCUMPRIMENTO CONTRATUAL. INDENIZAÇÃO POR DANOS MATERIAIS. CABIMENTO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.LEGITIMIDADE PASSIVA. CONFIGURAÇÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
