@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ITHALO SOUZA PEREIRA opõe embargos de declaraçãoa acórdão da Quinta Turma, assim ementado:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. IMPUGNAÇÃO APRESENTADA EM AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. A impugnação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, e não nas razões de agravo regimental, sob pena de preclusão consumativa.
+4. Agravo regimental desprovido.
+Oembargantealega que há vício de omissão, visto que houve enfrentamento substancial e satisfatório da matéria em debate, tendo sido desenvolvidas teses defensivas específicas e de forma pormenorizada no curso de todo o processo, inclusive em relação à decisão enfrentada, sendo suficientemente convincente para dar continuidade ao feito e proporcionar a efetiva prestação jurisdicional.
+Aduz que o Judiciário e suas Súmulas intransponíveis (7 e 182 do STJ)não devem servir de obstáculo para o exercício efetivo da ampla defesa, nem tão pouco da efetiva prestação jurisdicional. Cita jurisprudência.
+Defende que suas razões não foram genéricas, que houve impugnação capítulo por capítulo, de forma específica, de todos os fundamentos da decisão agravada.
+Requer sejasupridaaomissão apontada.
+O Ministério Público Federal opina pela rejeição dos embargos de declaração (fls. 709-713), tendo sido ratificadas suas razões pelo Ministério Público do Distrito Federal e Territórios (fl. 716).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. AUSÊNCIADE OMISSÃO. AGRAVO REGIMENTAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. EXAME DO MÉRITO. IMPOSSIBILIDADE. REQUISITOS DE ADMISSIBILIDADE RECURSAL NÃO SUPERADOS. FUNDAMENTAÇÃO SUFICIENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2.Os embargos de declaração não se prestam para provocar o reexame de matéria já apreciada.
+3.Considera-se suficientemente fundamentada a decisão que não admite agravo com base na incidência da Súmula n. 182 do STJ, por não terem sido especificamente impugnados os fundamentos da decisão agravada.
+4.Não configura vício de omissão a ausência de pronunciamento a respeito do mérito recursal na hipótese em que não superados os requisitos de admissibilidade do próprio recurso.
+5. Embargos de declaração rejeitados.
+VOTO
+O recurso não reúne condições de êxito.
+Nos termos do art.619do Código de ProcessoPenal,osembargosdedeclaraçãodestinam-se a desfazer ambiguidade, esclarecer obscuridade, eliminar contradição ou suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Não há falar em vício de omissão no votoque negouprovimento ao agravo regimental, uma vez que dele consta fundamentação suficiente parademonstrar que o embargantenão infirmou, específica e adequadamente, os fundamentos da decisão que inadmitirao recurso especial na origem. Observem-se trechos do julgado (fls. 694-695):
+A decisão que inadmitiu o processamento do recurso especial, proferida no Tribunal de origem, adotou como óbices a "Súmula 7/STJ e a impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandados de segurança ou recurso ordinário" (fl. 646).
+Diante de tal panorama, constatando-se que não foram impugnados especificamente referidos fundamentos e considerando-se o que dispõem os arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, concluiu-se pelo não conhecimento do agravo em recurso especial. Consequentemente, aplicou-se ao caso o comando da Súmula n. 182 do STJ, com o que discorda o agravante.
+Entretanto, diante das razões do agravo em recurso especial, como bem opinou o Ministério Público Federal, observa-se que não houve impugnação específica dos fundamentos eleitos.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020; e AgRg no AREsp n. 1.373.929/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/2/2019), o que não ocorreu na espécie.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Por fim, segundo a jurisprudência desta Corte, a impugnação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, sob pena de preclusãoconsumativa, razão pela qual não é cabível a impugnação somente nas razões de agravo regimental (AgRg nos EDcl no AREsp n. 1.856.037/RS, relator Ministro Olindo Menezes, Desembargador convocado do TRF1, Sexta Turma, DJe de 28/6/2021; AgRg no AREsp n. 1.796.538/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/4/2021; AgRg no AREsp n. 1.804.475/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 13/4/2021; e AgRg no AREsp n. 1.786.042/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1º/3/2021).
+Dessa forma, não tendo a parte agravante apresentado argumentos suficientes para a modificação do decisum agravado, mantenho-o por seus próprios fundamentos.
+Com efeito, consta do voto ora embargado, ante os óbices eleitos pela decisão de inadmissibilidade do recurso e as razões do respectivo agravo, que não houve impugnação específica de todos os fundamentos adotados.
+Tal situaçãoconstatadaatraiu o óbice da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), na mesma linha, aliás, dos arts. 932, III, do Código de Processo Civil e 253, I, do RISTJe na forma dos precedentes jurisprudenciais ali colacionados.
+Considera-se, pois, suficientemente fundamentada adecisão que não admite o agravo com base na Súmula n. 182 do STJ, por não terem sido atacados especificamente os fundamentos da decisão agravada.Ademais, ante a incidência do óbiceprocessual da Súmula n. 182 do STJ, é inviável qualquerconsideração a respeito da matéria de mérito objeto do recurso especial.
+In casu, não ocorreu ovíciomencionado. Efetivamente, nenhuma ambiguidade, obscuridade, contradiçãoou omissão existe no corpo da decisão que justifique a oposição deste recurso, que, como é cediço, não se presta para o reexame da causa.
+Ademais,verifica-se que o embargante apenas busca a análisedas questões de mérito na forma como alegada no apelo especial. Todavia, é assente no STJ que não configura vício de omissão a ausência de pronunciamento a respeito do mérito recursal na hipótese em que não superados os requisitos de admissibilidade do próprio recurso.
+Confiram-se precedentes: EDcl no AgRg no HC n. 577.501/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 9/9/2020; EDcl no AgRg nos EDcl no AREsp n. 1.599.453/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/8/2020; EDcl nos EDcl no AgRg no AREsp n. 1.479.440/CE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 12/9/2019 e EDcl no AgRg nos EDcl no AREsp n. 1.134.848/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/12/2017.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
