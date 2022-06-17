@@ -1,0 +1,22 @@
+DECISÃO
+WAGNER WILIAN DOMINGUES DA CRUZ agrava da decisão que inadmitiu o recurso especial por ele interposto, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul noRecurso em Sentido Estrito n.70084083518.
+Nas razões do especial, a defesa apontou a violação dos arts. 386, V, e 387, V e VII, do CPP, 5º, LIV e LV, da CF, ao argumento de que a pronúncia é absolutamente nula, porquanto fundada em prova derivada da ilícita.
+Aduz, ainda, que "a vítima jamais foi a uma audiência prestar depoimento na frente do juiz, onde as defesas poderiam confrontar o depoimento e judicializar a prova, sendo assim também trata-se de prova ilegal, pois o direito da ampla defesa foi tolhido" (fl. 1.785).
+O Tribunal de origem não admitiu o recurso, ante a incompetência do STJ para apreciar matéria constitucional, bem como o disposto naSúmula n. 284 do STF, uma vez que os dispositivos apontados como violados não guardam relação com as teses formuladas.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 1.903-1.912).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 1.856-1.863, grifei):
+Matéria constitucional
+A alegação de ofensa ao artigo 5º, incisos LIV e LV, da Constituição da República, foi deduzida em sede imprópria, pois se cuida de matéria que deveria ser veiculada em recurso extraordinário dirigido ao Supremo Tribunal Federal, a quem compete a guarda da Constituição da República.
+ ..
+Fundamentação deficiente
+A indicação incorreta da norma legal cuja vigência teria sido negada atrai a incidência do enunciado nº284 da Súmula do Supremo Tribunal Federal aplicável ao recurso especial interposto com base nas alíneas a e c do art. 105, inciso III, da Constituição da República, segundo o qual "É inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+O Recorrente não indicou corretamente os dispositivos legais que teriam sido violados pelo acórdão recorrido relativamente às alegações de que (I) "configurando o CD como prova contaminada por ser ilegal, respinga, querendo ou não, em todo o processo, anulando o feito, pois todo ele encontra-se eivado de vício, uma vez que a influência da prova emprestada foi fundamento importante para pronunciar os réus" (fl. 1.519), e (II) deve ser impronunciado, visto que (a) o depoimento da vítima foi colhido apenas em sede inquisitorial, e (b) indeferida a perícia requerida, o que caracterizou cerceamento de defesa, pois invocou os artigos 386, inciso V, e 387, incisos V e VII, do Código de Processo Penal, dispositivos referentes à sentença penal de mérito, os quais não abrangem os pedidos referentes à nulidade da prova derivada e à impronúncia.
+O agravante, contudo,limitou-se a afirmar que o recurso interposto estava devidamente fundamentado e que o Tribunal a quoproferiu "uma decisão padrão, que de fato não traz qualquer elemento que se aplica ao caso em tela" (fl. 1.878). Aduziu, ainda, que odecisumagravado colacionou precedentes que não retratam uma posição sedimentada do STJ.
+Portanto, a defesa não rebateuos fundamentos da inadmissão do recurso especial. Confira-se, a propósito, trecho do parecer do Ministério Público Federal a esse teor (fl. 1.911):
+De pronto, vê-se que o Agravante deixou de atacar especificamente todos os fundamentos da decisão que inadmitiu o apelo nobre, visto a ausência de impugnação, de forma específica, concreta e direta, dos óbices declinados na decisão agravada, tendo tão apenas, reiterado os mesmos argumentos expostos no Recurso Especial, de modo a atrair ao caso, a incidência da Súmula 182/STJ, o que impede o seguimento do apelo nobre.
+Deveras,a parte não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo aqual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
