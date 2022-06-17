@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo de GUILHERME AGNELLI DA COSTA SENAem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINAque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento daapelação criminal n. 0006299-22.2016.8.24.0023.0023/SC/S
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 171, caput, do Código Penal - CP (estelionato), à pena de 01 ano e02 meses de reclusão, em regime inicial aberto, e 11dias-multa, substituída por duas penas restritivas de direitos(fl. 2597).
+Recurso de apelação interposto pela Defesa foi desprovido (fl.3179). O acórdão ficou assim ementado:
+APELAÇÕES CRIMINAIS. CRIME CONTRA O PATRIMÔNIO. ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL). SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DAS DEFESAS E DA ACUSAÇÃO. 1. PRELIMINARES. 1.1. NULIDADE. ALEGAÇÃO DENULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE RECEBEU A DENÚNCIA. NÃO OCORRÊNCIA. NÃO É NULO O COMANDO JUDICIAL QUE RECEBE A INICIAL ACUSATÓRIA DEMANEIRA CONCISA. ATO QUE PRESCINDE DE FUNDAMENTAÇÃO. PRECEDENTES. PREFACIAL AFASTADA. 1.2. ACORDO DE NÃO PERSECUÇÃO PENAL. AÇÃO PENAL. PERSECUÇÃO PENAL JÁ ENCERRADA NO PRESENTE CASO. SENTENÇA CONDENATÓRIA PROLATADA. PREJUDICADA A FINALIDADE DO INSTITUTO NO ATUAL MOMENTO PROCESSUAL. PRECEDENTE DESTA CORTE. 2. MÉRITO.2.1 RECURSOS DOS ACUSADOS. INSUFICIÊNCIA PROBATÓRIA. CRIME DE ESTELIONATO. PRETENSÃO ABSOLUTÓRIA. INVIABILIDADE. MATERIALIDADE E AUTORIA DELITIVA AMPLAMENTE DEMONSTRADAS. PALAVRAS DA VÍTIMA E DEPOIMENTOS TESTEMUNHAIS FIRMES E SEGUROS. ACERVO PROBANTE ROBUSTO E HARMÔNICO QUE NÃO DEIXA DÚVIDAS DA AÇÃO DELITIVA PERPETRADA. CONDENAÇÃO MANTIDA. 2.2 RECURSO DOMINISTÉRIO PÚBLICO. ALMEJADA CONDENAÇÃO DOS ACUSADOSTAMBÉM NO CRIME DE ASSOCIAÇÃO CRIMINOSA. ACERVO PROBATÓRIO QUE NÃO INDICA ESTAREM OS ACUSADOS ASSOCIADOS DE FORMA ESTÁVEL E PERMANENTE PARA O FIM DECOMETEREM CRIMES. POLICIAIS CIVIS QUE AFIRMAM QUE NÃO HÁPROVAS DE QUE OS ACUSADOS AGIRAM DE FORMA CONJUNTA. ANIMUS ASSOCIATIVO NÃO DEMONSTRADO. ABSOLVIÇÃO MANTIDA. 3. DOSIMETRIA. ALMEJADA REDUÇÃO DO VALOR REFERENTE A PENA DE PRESTAÇÃO PECUNIÁRIA. MAGISTRADO QUE ESTABELECE DEZ SALÁRIOS MÍNIMOS. FUNDAMENTAÇÃO IDÔNEA. SENTENÇA MANTIDA. RECURSOSCONHECIDOS E DESPROVIDOS (fls. 3180/3181).
+Em sede de recurso especial (fls. 3189/3196), a Defesa apontou violação aos arts. 2º e28-A, caput e § 13, ambosdo CPP e arts. 2º, parágrafo único e 45, § 1º, do CP, sustentando a possibilidade do oferecimento do acordo de não persecuçãopenal e a redução do valor da prestação pecuniária.
+Contrarrazões àsfls. 3244/3250.
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ; e b) óbice da Súmula n. 83 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fls. 3272/3278).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 3303/3309).
+Contraminutas às fls. 3313/3318.
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do recurso especial (fls. 3379/3383).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Acerca da pretensão recursal, oTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINAconsignou o seguinte (fls. 3159/3178):
+1.2 Acordo de não persecução penal:
+O réu Guilherme requereu, nesta instância (evento 87), a intimação do representante do Parquet para que este ofereça o acordo de não persecução penal ao ora apelante.
+O pedido não merece acolhimento, uma vez que não estão preenchidos os requisitos legais previstos no art. 28-A do Código de Processo Penal, uma vez que o apelante não confessou o crime em comento.
+(..)
+Além de não preencher o requisito legal para aplicação do novo instituto do direito penal negocial, introduzido no ordenamento jurídico pátrio pela Lei n. 13.964/2019, esta Câmara firmou o entendimento de que após proferida a sentença condenatória, não é possível oferecer tal acordo, eis que encerrada a persecução penal, vejamos:
+(..)
+3. Dosimetria
+Os apelantes Guilherme e Jefferson pretendem a reforma da sentença para que a pena pecuniária seja reduzida ao mínimo, qual seja, para o patamar de 1 (um) salário mínimo, haja vista a ausência de fundamentação quando fixada na primeira instância.
+(..)
+No caso dos autos, entendo que o magistrado a quo fundamentou a decisão, ainda que de forma concisa, e ressaltou que tal medida é razoável e proporcional ao crime cometido e suas circunstâncias, mostrando-se adequadas ao cumprimento da repressão penal, no intuito de ressocialização dos indivíduos e indenização mínima à vítima lesada, vejamos:
+Com fundamento no art. 44 do Código Penal substituo a pena privativa de liberdade aplicada aos acusados por 02 (duas) restritivas de direito, consistentes na prestação de serviços à comunidade ou a entidade pública a ser designada pelo Juízo de Execução, pelo tempo da pena privativa de liberdade imposta, e na prestação pecuniária no valor de 10 (dez) salários-mínimos para cada réu em favor do estabelecimento vítima.
+Entendo que essas modalidades de penas restritivas são as mais adequadas ao caso concreto e são as socialmente recomendáveis em razão das condições pessoais dos réus. Ainda são razoáveis e proporcionais ao crime cometido e suas circunstâncias, bem como mostram-se adequadas ao cumprimento da repressão penal, visando, especialmente, a ressocialização dos indivíduos e a indenização mínima à vítima lesada.
+(..)
+Ainda, compulsando os autos nota-se que o apelante Guilherme qualificou-se, por ocasião de seu interrogatório judicial (evento 538 dos autos de origem), como empresário, dono de uma empresa de segurança eletrônica com renda mensal de R$ 5.000,00 (cinco mil reais). Já os acusados Jefferson e Paulo disseram, no interrogatório judicial (evento 549 e 525 dos autos de origem), serem cambistas/empresários, no entanto nada se apurou acerca da condição financeira deles.
+Desta forma, mantenho a sentença neste ponto, sendo que eventual dificuldade no pagamento poderá ser justificada no juízo de execução com vistas a possível parcelamento do valor.
+Conforme jurisprudência desta Corte "O acordo de não persecução penal, previsto no art. 28-A do CPP, aplica-se a fatos ocorridos antes da entrada em vigor da Lei n. 13.964/2019, desde que não recebida a denúncia" (AgRg no AREsp 1874801/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 06/08/2021).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE DESOBEDIÊNCIA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PLEITO DE ABSOLVIÇÃO. ORDEM LEGAL DE PARADA EMITIDA POR POLICIAIS RODOVIÁRIOS FEDERAIS NA ATIVIDADE OSTENSIVA DE REPRESSÃO A ILÍCITOS. USO DE FITA ADESIVA. ATIPICIDADE NÃO CONFIGURADA. NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES. ACORDO DE NÃO PERSECUÇÃO PENAL. LEI N. 13.964/2019. DENÚNCIA RECEBIDA. APLICAÇÃO RETROATIVA DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. DESCABIMENTO. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR UMA RESTRITIVA DE DIREITOS E MULTA. INDEFERIMENTO JUSTIFICADO. PRECEDENTES. HABEAS CORPUS DENEGADO. AGRAVO DESPROVIDO.
+(..)
+2. A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia. A partir daí, iniciada a persecução penal em juízo, como na espécie, não há falar em retroceder na marcha processual.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no HC 627.461/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 30/06/2021).
+No caso dos autos, além do recebimento da denúncia criminal, o agravantefoi condenadopela prática delitiva apontada na peça acusatória, o que afasta a aplicação do disposto no art. 28-A do CPP.
+O Tribunal a quo fixou o valor da prestação pecuniária com base em elementos do caso concreto, como a situação econômica doagravante e a expressividade econômica do ilícito, inviabilizando a pretensão de redução, ante a necessidade doreexame do conjunto fático-probatório dos autos, vedada pela Súmula n. 07/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTS. 297 E 203 DO CÓDIGO PENAL. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. MANUTENÇÃO DA POTENCIALIDADE LESIVA. INCIDÊNCIA DA SÚMULA N. 7/STJ. VALOR FIXADO A TÍTULO DE PRESTAÇÃO PECUNIÁRIA. ANÁLISE DAS PARTICULARIDADES DO CASO PELO TRIBUNAL DE ORIGEM. SÚMULA N. 7/STJ.
+(..)
+3. "Uma vez que o Tribunal de origem, ao fixar o quantum da prestação pecuniária, levou em consideração as peculiaridades do caso concreto, a pretensão recursal de proporcionalidade do valor imposto demandaria inviável reexame da matéria fático-probatória, descabido em sede de recurso especial, ante o óbice da Súmula 7 desta Corte Superior" (AgInt no AREsp n. 956.972/PR, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+4. Agravo regimental desprovido.
+(AgRg no REsp 1578350/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/12/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. 1) VIOLAÇÃO AO ART. 302 DO CÓDIGO DE PROCESSO PENAL - CPP. PRISÃO EM FLAGRANTE. AFASTAMENTO DA SITUAÇÃO DE FLAGRÂNCIA. NÃO CABIMENTO. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 2) VIOLAÇÃO AO ART. 19 DA LEI N. 7.492/86. OBTENÇÃO DE FINANCIAMENTO MEDIANTE FRAUDE. ABSOLVIÇÃO. NÃO CABIMENTO. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 3) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. MONTANTE FIXADO DE PRESTAÇÃO PECUNIÁRIA INCOMPATÍVEL COM A CAPACIDADE FINANCEIRA DO AGRAVANTE. REDUÇÃO QUE ESBARRA NO ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 4) AGRAVO DESPROVIDO.
+(..)
+3. A redução do montante fixado de prestação pecuniária demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem, com base na prova dos autos, concluiu pela capacidade econômica do réu.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1072890/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA,DJe 17/08/2018).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
