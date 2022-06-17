@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDUARDO MOREIRA XAVIER(EDUARDO)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+ADMINISTRATIVO. IMÓVEL EM CONSTRUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO.TAXA DE EVOLUÇÃO DE OBRA. COBRANÇA DEVIDA.
+- O cerne da controvérsia envolve a cobrança dos encargos inerentes à fase de construção, objeto do contrato de mútuo firmado com a CEF.
+- No tocante à alegada ilegitimidade da CEF para figurar no polo passivo da presente ação, na condição de agente financeiro, detém responsabilidade pelo cumprimento das obrigações que assume para com o mutuário relativas ao cumprimento do contrato de financiamento, dentre elas a cobrança dos encargos inerentes ao negócio celebrado, no caso, a taxa de encargos da fase de construção, nos termos e condições estipulados no contrato, razão pela qual lhe é imputável a responsabilidade pela eventual cobrança da denominada "taxa de obra", ou "taxa de construção", após exaurido o prazo estipulado no contrato para o término da construção. Precedentes desta 8ª Turma Especializada.
+- Em discussão travada no bojo do REsp 1729593/SP, restrita à possibilidade de incidência de juros de obra, no âmbito do PMCMV, não no período de construção, mas, sim, após o prazo ajustado no contrato para a conclusão das unidades, já incluído o período de tolerância, o eg. Superior Tribunal de Justiça assentou, sob a sistemática dos recursos repetitivos, que tal cobrança é ilícita.
+- No caso vertente, verifica-se que o prazo para construção e legalização da unidade habitacional seria de 19 meses (cf. tem C6 do contrato), podendo ser prorrogado por até 36 meses (cf. cláusula décima sexta). Assim, tendo sido o contrato celebrado em 27.09.2013, o prazo final para a conclusão das obras seria 27.04.2019 e, como afirmado pelo próprio autor, na inicial, a obra foi concluída em 10.2016, quando cessou a cobrança da taxa de construção, o que afasta a ilegalidade apontada.
+- Recurso do autor desprovido, com a majoração dos honorários advocatícios em 1% (um por cento) sobre o valor fixado pelo Juízo a quo , conforme prevê o artigo 85, § 11, do CPC/15, observada a condição suspensiva prevista no art. 98, §3º, do CPC/2015, por ser a parte apelante beneficiária da gratuidade de justiça(e-STJ, fl. 321).
+Os embargos de declaração opostos por EDUARDO foram rejeitados(e-STJ, fls. 368/370).
+Irresignado, EDUARDO interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação aos arts. 203, §§ 1º e 2º, 489, § 1º, IV, 1.009 e 1.022, II,III e parágrafoúnico, II, todos do NCPC, 423 do CC, e 47 do CDC. Sustentou, em síntese (1) negativa de prestação jurisdicionalquanto às seguintes questões: (1.1) a prorrogação do contratoaté 36 meses necessitaria de comprovação do caso fortuito e/ou força maior;e (1.2) que a conclusão da obra não ocorreu em 2016;(2) a ilegalidade da cobrançade juros e outros encargos após o termino do prazopara a conclusão da obra; e(3)que as cláusulascontratuaisdevem ser interpretadas de maneira mais favorável ao consumidor.
+O recurso não foi admitido pelo TRF2 (e-STJ, fls. 435/437).
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não foram atacados todos os fundamentos da decisão agravada (e-STJ, fls. 480/482).
+Irresignado, EDUARDO interpôs o presente agravo interno afirmando que, ao contrário do constou na decisão agravada, todos os fundamentos foram devidamente impugnados (e-STJ, fls. 484/487).
+Impugnaçãoapresentada (e-STJ, fls. 491/500).
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno e tendo em vista a impugnação a todos os fundamentos da decisão agravada, RECONSIDERO a decisão de, e-STJ, fls. 480/482 e passo ao exame do recurso especial.
+Do recurso especial
+(1) Da violação aos arts. 489,§ 1º, IV, e 1.022, II e III, do NCPC
+Nas razões do recurso especial, EDUARDO sustentounegativa de prestação jurisdicional quanto às seguintes questões: (1) negativa de prestação jurisdicional quanto às seguintes questões: (1.1) a prorrogação do contrato até 36 meses necessitaria de comprovação do caso fortuito e/ou força maior; e (1.2) que a conclusão da obra não ocorreu em 2016.
+Assiste razão ao recorrente.
+Verifica-se que a forma como a controvérsia foi resolvida gera questionamentos e impede que o STJ examine a matéria em virtude do indispensável prequestionamento do tema e de suas nuances que, no caso, envolve juízo de valor acerca de questão contratual e fática, a impedir a aplicação do prequestionamento ficto, nos termos do que dispõe o art. 1.025 do NCPC.
+Assim, tendo o recurso especial sido interposto por ofensa aos arts. 489, § 1º, IV, e 1.022, II, do NCPC e, em face da relevância das questões suscitadas, se revela necessário o debate acerca dos pontos acima destacados, de modo que a prestação jurisdicional seja dada de forma completa ao recorrente.
+Nesse sentido, confiram-se os seguintes precedentes desta egrégia Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA. RESCISÃO CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. ART. ART. 1.022 DO CPC/2015. OMISSÃO. OFENSA CONFIGURADA.1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Há ofensa ao art. 1022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo interno no agravo em recurso especial não provido para manter o não conhecimento do agravo em recurso especial de LUIZ CARLOS STOCKER e o conhecimento e provimento do recurso especial de COMPANHIA DE SEGUROS ALIANÇA DO BRASIL.
+(AgInt no REsp nº 1.711.626/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 2/8/2018, DJe de 10/8/2018, sem destaque no original).
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO.ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA.DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp nº 1.708.003/BA, Rel. Ministro LÁZARO GUIMARÃES, Rel. p. acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 7/8/2018, DJe de 21/8/2018, sem destaque no original).
+É condição sine qua non ao conhecimento do especial que as questões de direito e de fato ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado.
+Assim, recusando-se o TRF2 a se manifestar sobre as questões alegadas, terminou por negar prestação jurisdicional aorecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA.TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à Tribunal Federal para que seja sanada a omissão destacada, ficando prejudicado o exame das demais suscitadas.
+Nessas condições, CONHEÇO do agravo e DOUPROVIMENTO ao recurso especial para reconhecer ofensa aos arts. 489 e 1.022, II, do NCPC, determinando o retorno dos autos ao TRF2 para que analise as questõestrazidas nos embargos de declaração acima especificadas, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS CUMULADA COM REPETIÇÃO DO INDÉBITO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE.RECONSIDERAÇÃO. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DOART. 1.022 DO NCPC.OCORRÊNCIA. OMISSÃO A RESPEITO DE QUESTÃO RELEVANTE LEVANTADA NOS ACLARATÓRIOS. RECUSA DE ENFRENTAMENTO DO TEMA. NEGATIVA DA COMPLETA PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
