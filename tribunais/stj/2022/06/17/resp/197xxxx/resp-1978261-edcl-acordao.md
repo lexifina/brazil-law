@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a).
+Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  BASF S.A. ao  acórdão  assim  ementado:
+"RECURSOS ESPECIAIS. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REDIRECIONAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEVEDOR ORIGINÁRIO. FALÊNCIA. VIS ATTRACTIVA. EFEITOS LIMITADOS. PATRIMÔNIO DA MASSA FALIDA. CONSTRIÇÃO. INEXISTÊNCIA. JUÍZO FALIMENTAR. INCOMPETÊNCIA. LEGITIMIDADE PASSIVA. SUCESSÃO EMPRESARIAL E POSTERIOR DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NOVOS EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE. MEMÓRIA DE CÁLCULO. ATUALIZAÇÃO. IMPUGNAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A previsão de competência absoluta do juízo falimentar resulta da necessidade de se preservar o patrimônio da massa falida com vistas à satisfação dos interesses dos credores, observada a ordem legalmente prevista, e a garantir a par conditio creditorum.
+4. O redirecionamento da execução contra os sucessores da devedora originária, que não são insolventes, somado à absoluta inexistência de atos que possam comprometer o patrimônio da massa falida, é suficiente para afastar a competência do juízo falimentar.
+5. Nos termos do art. 109, § 3º, do Código de Processo Civil 2015 (art. 41, § 3º, do Código de Processo Civil 1973), estendem-se os efeitos da sentença proferida entre as partes originárias ao adquirente ou cessionário, de modo que ao sucessor são estendidos os efeitos da sentença proferida nos embargos à execução opostos pelo sucedido. Precedente.
+6. À semelhança do que ocorre na hipótese de sucessão de empresas, em que a sucessora é incluída no processo para atuar como se fosse a própria parte sucedida, a pessoa jurídica atingida pela desconsideração inversa da personalidade jurídica passa a integrar a relação processual na condição de parte.
+7. De acordo com a pacífica jurisprudência desta Corte Superior, a apresentação de memória atualizada de cálculo não exige nova citação, tampouco autoriza a oposição de novos embargos à execução, sendo admitida, contudo, a abertura de prazo para impugnação com vistas à correção de eventuais erros materiais.
+8. Recurso especial de HEBER PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL - não provido. Recurso especial de BASF S.A. parcialmente provido."
+Em suas razões  (e-STJ  fls.  2.342-2.360), a embargante  afirma, em síntese, que o acórdão atacado foi omisso quanto à sucumbência exclusiva da executada/embargante (HEBER), que, portanto, deve ser desde logo reconhecida, bem como quanto à necessidade de majoração da verba honorária nos moldes do art. 85, § 11, do Código de Processo Civil de 2015.
+Aduz que:
+"(..) (a) a não admissão dos embargos à execução opostos por HEBER já impõe necessidade de fixação de honorários de sucumbência; (b) haveria sucumbência mínima por parte da BASF mesmo na hipótese em que fosse necessária alguma correção na atualização da memória de cálculo; e (c) seria necessária a majoração dos honorários sucumbenciais recursais" (e-STJ fl. 2.348).
+Ao final, requer o acolhimento dos embargos declaratóriospara que JBS e ARNALDO sejam condenados ao pagamento de honorários sucumbenciais, fixados em em 20% (vinte por cento) do valor atualizado da execução, considerando ser este o valor do proveito econômico que se buscava com o ajuizamento dos embargos à execução.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  (e-STJ  fls.  2.397-2.403).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  de  2015,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No  caso  em  apreço,  o acórdão embargado deixou expressamente consignado que a redefinição das verbas de sucumbência somente será viável após o rejulgamento da demanda, nos limites estabelecidos por esta Corte Superior, que determinou o recebimento dos embargos à execução como simples impugnação aos cálculos e o retorno dos autos à origem para que, mediante cálculo do contador, seja verificada a existência de possíveis erros na atualização da memória de cálculo.
+A rigor, portanto, não há falar em omissão, haja vista que a matéria foi expressamente enfrentada pelo Órgão Colegiado.
+Isso não retira do magistrado de primeiro grau de jurisdição a incumbência de decidir sobre o cabimento dos honorários advocatícios na espécie, o grau de sucumbência de cada uma das partes, a base de cálculo e o percentual aplicável, observadaa pretensão inicialmente deduzida e aquela efetivamente alcançada, além de todo o trabalho realizado pelos advogados e o tempo exigido para o seu serviço (art. 85, § 2º, IV, do CPC/2015), inclusive em grau recursal.
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
