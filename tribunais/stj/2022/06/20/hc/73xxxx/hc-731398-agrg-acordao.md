@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGRAVANTE INCURSO NAS PENAS DOS ARTS. 33 DA LEI N. 11.343/2006 E 12 DA LEI N. 10.826/2003. SUPOSTA NULIDADE POR CERCEAMENTO AO DIREITO DE DEFESA. PEDIDO DE REDESIGNAÇÃO DE AUDIÊNCIA. IMPOSSIBILIDADE DE COMPARECIMENTO DO ADVOGADO. PREJUÍZO À DEFESA DO AGRAVANTE. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL A QUO. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA. PRECLUSÃO.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos Tribunais Superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Deveras, o agravante não se desincumbiu de demonstrar teratologia ou manifesta ilegalidade no ato impugnado que justificasse a atuação precoce desta Corte, contrariando as regras de competência e os princípios do devido processo legal substancial e do duplo grau de jurisdição.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Des. Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental manejado contra decisão que não conheceu do habeas corpus.
+Depreende-se dos autos que o agravante foi condenado à pena de 5 anos e 10 meses de reclusão, em regime semiaberto, e ao pagamento de 583 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, bem como a 1 ano e 2 meses de detenção, em regime semiaberto, mais 11 dias-multa, pela conduta prevista no art. 12 da Lei n. 10.826/2003 (e-STJ fls. 437/440).
+Segundo o apurado, ele possuía em depósito 4 "tijolos" de maconha, com peso de 98,77g (noventa e oito gramas e setenta e sete centigramas), além de um revólver da marca Smith Wesson, calibre. 38, e 4 cartuchos íntegros do mesmo calibre, do fabricante CBC (e-STJ fls. 136/137).
+Interposta apelação pelas partes, o Tribunal local negou provimento ao recurso defensivo e proveu parcialmente a insurgência do Ministério Público estadual, a fim de estabelecer o regime fechado para início de cumprimento da pena imposta pelo delito de tráfico de entorpecentes (e-STJ fls. 527/551).
+Perante o Superior Tribunal de Justiça, a defesa alegou, primeiramente, ser o caso de nulidade do processo, pois, como "o defensor constituído nos Autos não podia participar da audiência por ter mais duas audiências de processos em que os réus estavam presos na ocasião, das quais tinha sido intimado anteriormente da data e, mesmo assim, o nobre juiz não acatou o pedido e nomeou defensor "ad hoc" para acompanhar o réu no ato mais importante da instrução, ou seja, seu interrogatório (fls. 305-307 e 308-309)"; e pontuou ser, "assim, erro gravíssimo do juiz não acatar o pedido da defesa, mesmo sendo justificado e comprovado por documentos, dessa forma, tornando-se nulos quaisquer atos praticados pela defensora, nomeada pelo juízo, em favor do paciente" (e-STJ fl. 4).
+Reforçou que "a escolha de advogado da confiança do acusado representa um direito intimamente ligado à ampla defesa. Logo, o desrespeito a tal direito deve acarretar a nulidade do processo, uma vez que caracteriza cerceamento de defesa" (e- STJ fl. 5).
+Em decisão proferida às e-STJ fls. 747/750, este relator não conheceu da impetração, ao argumento de que não houve manifestação do Tribunal de origem sobre o tema.
+Manejado agravo regimental, o agravante obtempera que "é plenamente possível o reconhecimento da nulidade processual requerida pelo agravante, afinal, o seu direito de escolher advogado de sua confiança, para acompanhar todo o seu processo e defesa, foi rompido pela decisão do magistrado em não acatar o pedido da redesignação de audiência." (e-STJ fl. 754).
+Assim, pugna pela retratação da decisão objurgada ou apreciação da matéria pelo colegiado.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de razões aptas a infirmar as fundações da decisão recorrida.
+De fato, o conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos tribunais superiores, estabelecidas numerus clausus na Constituição Federal.
+Conforme destacado na decisão recorrida, consta do relatório do recurso julgado pelo Tribunal de origem que a defesa limitou-se ao seguinte pleito (e-STJ fl. 528):
+Washington, por sua vez e também inconformado com o édito condenatório, acena com a absolvição, ao argumento de que a prova colhida é frágil e precária. Subsidiariamente, busca, no tocante a imputação de tráfico, a desclassificação para o delito do artigo 28, da Lei de Drogas e, ainda, a redução das penas aos seus patamares mínimos (fls. 470/480).
+Não houve qualquer manifestação acerca da suposta nulidade processual, por cerceamento ao direito de defesa do agravante. Ressalte-se, inclusive, que tal silêncio atrai também o fenômeno da preclusão.
+Nesse palmilhar, há óbice processual ao conhecimento da impetração, tendo em vista que a instância antecedente, em nenhum momento, pronunciou-se sobre as matérias agitadas pela defesa, o que impede a sua apreciação, de forma originária, por este Sodalício.
+Perfilhando esse entendimento, destaco os seguintes precedentes:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. RECEPTAÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. REGIME INICIAL DE CUMPRIMENTO DE PENA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. TEMAS NÃO ENFRENTADOS NA ORIGEM. COGNIÇÃO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. PRISÃO CAUTELAR. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. MOTIVAÇÃO IDÔNEA. EXISTÊNCIA. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. Os temas referentes à possibilidade de alteração do regime inicial de cumprimento de pena e de substituição da pena privativa de liberdade por restritivas de direitos não foram apreciados pelo Tribunal a quo, o que impede sua cognição por esta Corte, sob pena de indevida supressão de instância.  ..
+3. Recurso ordinário em habeas corpus parcialmente conhecido e, nesta extensão, não provido. (RHC 77.007/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/02/2017, DJe 10/02/2017)
+HABEAS CORPUS. PRISÃO CAUTELAR. INDÍCIOS DE AUTORIA. REEXAME APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. FUNDAMENTAÇÃO. RESGUARDO DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. EXPRESSIVA QUANTIDADE DO ENTORPECENTE APREENDIDO. ESTADO DE SAÚDE DO PACIENTE E CONDIÇÕES DA UNIDADE PRISIONAL. MATÉRIAS NÃO ENFRENTADAS PELO TRIBUNAL ESTADUAL. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO.
+ ..  3. As questões referentes ao estado de saúde do paciente e às condições da unidade prisional não foram enfrentadas pela Corte a quo, o que impede sua análise diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+4. Parecer acolhido. Ordem denegada. Fica prejudicado o pedido formulado às fls. 401/406 (HC 376.502/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017)
+RECURSO EM HABEAS CORPUS. SONEGAÇÃO OU PRESTAÇÃO DE INFORMAÇÕES FALSAS (ART. 6º DA LEI Nº 7492/86). INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. DENÚNCIA QUE DESCREVE AS CONDUTAS DOS RECORRENTES. RESPONSABILIDADE DE PRESTAÇÃO DE INFORMAÇÕES PELO CARGO OCUPADO. REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE ESPECIFICAÇÃO DA INICIAL ACERCA DA CONTINUIDADE DELITIVA. SUPRESSÃO DE INSTÂNCIA. RECURSO IMPROVIDO.
+ ..  7. A alegação de ausência de especificação da inicial quanto ao pleito de aplicação da continuidade delitiva não foi objeto de exame pelo Tribunal a quo, sendo vedada a sua análise por essa Corte, sob pena de indevida supressão de instância.
+8. Recurso em habeas corpus improvido.
+(RHC 76.982/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. ARREPENDIMENTO POSTERIOR. RECONHECIMENTO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE REVOLVIMENTO DE PROVAS. REGIME INICIAL FECHADO.
+LEGALIDADE. SÚMULA N. 269 DO STJ. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito recursal referente ao arrependimento posterior não foi apreciado nas instâncias ordinárias - nem sequer integrou os pedidos defensivos em resposta à acusação, às alegações finais e às razões de apelação -, de forma que a sua apreciação diretamente por esta Corte Superior importaria em indevida supressão de instância.  ..
+4. Agravo regimental não provido.
+(AgInt no HC 323.418/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/06/2016, DJe 21/06/2016)
+Deveras, conforme já ressalvado na decisão guerreada, o agravante não se desincumbiu do ônus de demonstrar teratologia ou manifesta ilegalidade no ato impugnado que justificasse a atuação precoce desta Corte, contrariando as regras de competência e os princípios do devido processo legal substancial e do duplo grau de jurisdição.
+Tal o contexto, e ratificando os fundamentos contidos na decisão que não conheceu da impetração, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
