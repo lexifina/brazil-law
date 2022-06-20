@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto peloEstado da Paraíbadesafiando decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) embora a parte recorrente tenha apontado ofensa a dispositivos de lei federal, o inconformismo funda-se na análise de legislação local; e (II) a legitimidade do Estado da Paraíba foi assentada por meio da análise de premissas fáticas, atraindoa incidência da Súmula 7/STJ ao caso dos autos.
+Inconformada, a parte agravante sustenta que: (I) a Súmula 280/STF não é aplicávelna espécie, pois não há necessidade de analisar lei local, ressaltando que a discussão diz respeito à "da violação art. 17, do CPC/15, que exige legitimidade da parte para figurar no polo passivo da demanda" (fl.360); e (II) não há pretensão de reexame de fatos e provas, mas, apenas, da interpretação das normas que apontam para a ilegitimidade da parte agravante para figurar no polo passivo da ação proposta em primeiro grau de jurisdição.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao julgamento colegiado.
+A parte agravada não apresentou impugnação (fl. 367).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. AQUISIÇÃO DE VEÍCULO COM CHASSI ADULTERADO.ILEGITIMIDADE PASSIVA AD CAUSAMDO ESTADO DA PARAÍBA. INSURGÊNCIA QUE SE FUNDA NA ANÁLISE DE LEI LOCAL. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.SÚMULAS 280/STF E 7/STJ.
+1.Na origem, cuida-se de ação de procedimento ordinário ajuizada em desfavor do Estado da Paraíba e do Município de Campina Grande, com o fim de obter indenização pelos danos que a parte autora diz ter sofrido em decorrência da aquisição de veículo com número de chassi adulterado, leiloado pelos órgãos de trânsito.
+2. Na espécie, verifica-se que, conquanto o Estado da Paraíba tenha apontadoa legislação federal, o inconformismo em relação ao tema da alegada ilegitimidade passiva funda-se, em verdade, na análise da legislação local (Lei Estadual n.3.848/76), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+3. Ademais,a manutenção do agravante no polo passivo da demanda foi também assentada por meio de premissas fáticas. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer a ilegitimidade passiva do agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A insurgência não merece prosperar.
+Na origem, cuida-se de ação de procedimento ordinário ajuizada por João Pedro de Macedo, ora agravado, em desfavor do Estado da Paraíba e do Município de Campina Grande, com o fim de obter indenização pelos danos que a parte autora diz ter sofrido em decorrência da aquisição de veículo com número de chassi adulterado, leiloado pelos órgãos de trânsito.
+A sentença de piso julgou parcialmente procedente o pedido e condenou os réus ao pagamento de indenização à parte autora.
+Interposto apelo para o Tribunal de Justiça do Estado da Paraíba, o Colegiado estadual rejeitou a alegação de ilegitimidade do ente federativo e confirmou a sentença de primeira instância.
+Nas razões do recurso especial, o ora agravante apontou ofensa aos arts. 17 do CPC; 5º, I, do Decreto-Lei n. 200/67; 40, IV e 47 do CC, sustentando, em síntese, sua ilegitimidade para figurar no polo passivo da ação.
+A decisão agravada, por sua vez, concluiu que o acolhimento da insurgência recursal requer a análise de legislação localassim como o reexame de matéria fático-probatória, motivo peloqual foram aplicados os óbices previstos nas Súmulas 280/STF e 7/STJ.
+Nas razões do agravo interno, o Estado da Paraíba discorda de tais fundamentos.
+Sem razão, contudo.
+Ao rejeitar a preliminar de ilegitimidade passiva do Estado agravante, a Corte estadual consignou (fl. 265):
+Ainda em preliminar, arguiu o Estado da Paraíba sua ilegitimidade passiva ad causam, sob alegação de que "não consta nos autos, qualquer atuação de agente pertencente aos quadros funcionais do Estado, máxime em razão de que, todo o procedimento para mudança de características em automóveis é realizado pelo DETRAN, autarquia estadual, com personalidade jurídica própria, distinta do Estado", fl. 179.
+Com efeito, constata-se, de fato, que o DETRAN  Departamento Estadual de Trânsito do Estado da Paraíba é autarquia estadual, porém, vinculada a Secretaria do Estado da Segurança e da Defesa Social, motivo pelo qual o Estado da Paraíba é parte legítima para figurar no polo passivo da presente lide, como bem dito no parecer do Ministério Público, fls. 209/210:
+Em que pese as razões aduzidas pelo Estado da Paraíba de que não é parte legítima para figurar na lide, não lhe assiste razão, tendo em vista que caso os seus agentes tivessem agido diligentemente no momento da fiscalização do veículo e consequente liberação de documentos, teriam observado a adulteração no veículo, bem como poupado o autor dos constrangimentos e prejuízos sofridos.
+Da leitura do excerto supracitado e das razões do apelo nobre interposto (fl. 279), verifica-se que, conquanto a parte ora agravante aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na análise da legislação local (Lei Estadual n.3.848/76), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário."). Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ISS. BASE DE CÁLCULO. ACÓRDÃO RECORRIDO. REFORMA. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280/STF.
+1. O exame da controvérsia acerca da regularidade ou não da adoção da receita bruta como base de cálculo do ISS incidente sobre serviços de registros públicos, cartorários e notariais, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Leis municipais 11.331/2002, 13.0701/2003 e 14.865/2008), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+2. Agravo interno não provido.
+(REsp 1.610.844/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/10/2020, DJe 28/10/2020)
+Ademais, a manutenção do agravante foi também assentada por meio de premissas fáticas. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer a ilegitimidade passiva do agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
