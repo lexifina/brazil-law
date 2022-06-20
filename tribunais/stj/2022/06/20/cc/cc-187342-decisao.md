@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, suscitado pela USINA SANTA HELENA DE AÇÚCAR E ÁLCOOL S. A. - EM RECUPERAÇÃO JUDICIAL, em face do r. Juízo de Direito da 1ª Vara Cível de Santa Helena de Goiás-GO, onde se processa a sua recuperação judicial (Processo n.º 200805038366), e o r. Juízo da 3.ª Vara do Trabalho de Rio Verde/GO, perante o qual tramita a Reclamação trabalhista n.º 0010146-61.2020.5.18.0103, movida por SEVERINO ALFREDO DE LIMA.
+Afirma, em resumo, que embora tenha noticiado a existência de recuperação judicial em curso perante o Juízo de Direito da 1.ª Vara Cível de Santa Helena de Goiás/GO ainda assim teria o juízo trabalhista determinou a continuidade dos atos de penhora e expropriação de bens do ativo da empresa, rejeitando os pedidos para que tais deliberações se submetessem ao juízo perante o qual se processa a recuperação judicial.
+Postula, liminarmente, a suspensão dos efeitos da decisão proferida pelo juízo trabalhista, designando-se o Juízo da recuperação judicial para decidir sobre as questões urgentes, que afetam o seu patrimônio.
+No mérito, requer a confirmação da liminar, no tocante à competência do Juízo de Direito da 1ª Vara Cível de Santa Helena de Goiás/GO.
+Às fls. 119/121, este signatário deferiu, em parte, o pedido liminar.
+Informações prestadas às fls. 129/138.
+É o relatório.
+Decisão.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, envolvendo, de um lado, o Juízo da Recuperação Judicial e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e/ou expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+Nesse sentido, confiram-se: AgInt no CC n. 147.032/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/9/2017, DJe 19/9/2017; AgRg no CC n. 125.697/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 4/2/2013, DJe 15/2/2013; AgInt no CC n. 154.788/RJ, desta Relatoria, SEGUNDA SEÇÃO, julgado em 28/8/2019, DJe 2/9/2019; AgInt nos EDcl no CC 166544/MG , Rel. Min. Antonio Carlos Ferreira, DJe de 24/03/2020.
+E ainda, na mesma linha de cognição: CC n. 121.327/DF, Ministra NANCY ANDRIGHI, DJe 2/5/2012, CC n. 102.613/SP, Ministro MASSAMI UYEDA, DJe 7/10/2011, CC n. 118.574/SP, Ministro SIDNEI BENETI, DJe 27/10/2011, CC n. 118.524/SP, Ministro LUIS FELIPE SALOMÃO, DJe 4/5/2012, CC n. 120.454/SP, Ministra Maria Isabel Gallotti, DJe 30/4/2012.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do presente incidente e, por conseguinte, declaro a competência do r. Juízo da1ª Vara Cível de Santa Helena de Goiás-GO.
+Publique-se. Intimem-se. Oficiem-se.
