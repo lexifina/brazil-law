@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 526/530) interposto contra decisão desta relatoria, que negou provimentoao recurso (e-STJ fls. 520/523).
+Em suas razões, a parte alega que (e-STJ fls. 528/529):
+ ..  há de ser feito, na hipótese, um necessário "distinguishing".
+ .. há circunstância peculiar no caso concreto a afastar a incidência do entendimento desse colendo STJ de que a citação de parte ilegítima não tem o condão de interromper a prescrição.
+A circunstância peculiar é a seguinte, repise-se: o cheque cobrado pelo recorrente no âmbito da presente demanda foi a ele transmitido por endosso, não tendo ele, o agravante, portanto, presenciado a emissão e assinatura do cheque, tendo sido a ele transmitida a informação de que o cheque havia sido sacado por Hernani Corte.
+E quando esclarecido que a cártula não havia sido por ele sacada, mas por seu filho, em facedeste, sem demora, foi redirecionada a demanda pelo recorrente(a prescrição, como induvidoso, impõe negligência e inércia do credor, o que não se verificou na hipótese presente).
+ .. Assim, a aplicação da distinção não exige, na espécie, na visão do recorrente, o reexame de matéria fático-probatória, mas apenas a consideração de circunstância incontroversa na seara da instância originária, circunstância esta, reforce-se, que não foi questionada pela parte adversa ou pelo acórdão impugnado, e, sendo incontroversa, pode ser tomada em consideração no julgamento do recurso especial denegado.
+Assim, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado, com o provimento do recurso especial na íntegra.
+Impugnação apresentada às fls. 536/539 (e-STJ), na qual se requer a aplicação damulta do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUE. INTERRUPÇÃO DA PRESCRIÇÃO. CITAÇÃO NA FORMA DA LEI PROCESSUAL.LEGITIMIDADE PASSIVA.REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte,não há interrupção da prescrição se a citação não obedece à forma da lei processual (precedentes).
+2.O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que não havia controvérsia sobre a legitimidade passiva. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 520/523):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa aos dispositivos legais e incidência da Súmula n. 7 do STJ (e-STJ fls. 464/466).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 422):
+MONITÓRIA. EMBARGOS. CHEQUE. PRESCRIÇÃO DA PRETENSÃO. CARACTERIZAÇÃO. O prazo para ajuizamento de ação monitória contra o emitente de cheque sem força executiva é quinquenal, a contar do dia seguinte à data de emissão estampada na cártula. Caso concreto em que a citação do réu originalmente arrolado no polo passivo, em virtude da sua ulterior exclusão, com a consequente substituição do polo passivo pelo embargante apelante, não tem o condão de interromper a o prazo prescricional para o ajuizamento da presente ação monitória, uma vez que a citação, ainda que válida, foi operada em face de parte ilegítima para a demanda, inexistindo, ainda, dúvida sobre a legitimidade passiva na demanda, uma vez que restou incontroverso, pelas provas documentais e situação fática narradas nos autos, que o cheque questionado foi emitido pelo embargante apelante e não pelo sujeito que figurou originariamente como réu da demanda monitória.
+Precedentes do C. STJ e deste E. TJSP. Recurso do embargante provido. Recurso do embargado não provido.
+No recurso especial (e-STJ fls. 433/441), fundamentado no art. 105, III, "a", da CF, a parte alegou violação do art. 240, §§ 1º e 2º, do CPC/2015, porque (e-STJ fls. 436/438):
+ ..  a legitimidade passiva da demanda, na situação em tela, mostrava-se plenamente controvertida, sobretudo por ter recebido por endosso, o recorrente, a cártula cobrada, não tendo presenciado a assinatura do instrumento.
+De modo que moveu, então, o credor, a demanda monitória contra o primeirocorrentista indicado na cártula.
+E tão logo foi esclarecida a questão da legitimidade passiva, com a aplicação do disposto no art. 339 do CPC, veio a integrar o polo passivo da relação processual, sem demora, o recorrido, no lugar do réu originário.
+ ..  Promoveu a demanda injuntiva dentro do prazo quinquenal e, assim que resolvido o debate sobre a legitimidade passiva, integrou o recorrido ao processo, que logo foi citado, nada obstante ter ocorrido, essa citação, depois de escoado o referido prazo prescricional.
+Assim, tendo ocorrido, tão logo, essa citação do recorrido, retroagiu, a interrupção da prescrição, à data da propositura da ação, como estabelece o art. 240, §§ 1º e 2º, do CPC e bem decidiu o Juízo de primeiro grau de jurisdição.
+ ..  o entendimento desse egrégio STJ, trazido inclusive no corpo do acórdão recorrido, no sentido de que a demanda movida em face de parte ilegítima em regra não tem, por meio do despacho que ordena a citação, o condão de interromper a prescrição.
+Contudo, essa colenda Corte Superior, ao encampar a referida tese, ressalva situações em que a legitimidade passiva é de algum modo controvertida.
+No agravo (e-STJ fls. 469/489), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 494/510 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal local assim entendeu (e-STJ fl. 426 - grifei):
+ ..  o cheque foi emitido em 17/11/2010 (fls. 13/14), com a petição de alteração do polo passivo de fls. 54/55 dos autos apresentada em 16/11/2016, quando já se encontrava consumada a prescrição e sem que ainda tivesse ocorrido a citação válida do réu que seria o real legitimado para a demanda.
+E, ainda mais, vale consignar que no caso concreto a citação do réu originalmente arrolado no polo passivo (Sr. Hernani Corte), em virtude da sua ulterior exclusão, com a consequente substituição do polo passivo pelo ora embargante apelante (fls. 52 e 54/55), não tem o condão de interromper a o prazo prescricional para o ajuizamento da presente ação monitória, uma vez que a citação (fls. 26), ainda que válida, foi operada em face de parte ilegítima para a demanda, inexistindo, ainda, dúvida sobre a legitimidade passiva na demanda, uma vez que restou incontroverso, pelas provas documentais e situação fática narradas nos autos, que o cheque questionado foi emitido pelo embargante apelante e não pelo sujeito que figurou originariamente como réu da demanda monitória.
+Observa-se que a Corte de origem julgou a lide em consonância com o entendimento do STJ, no sentido de que não há interrupção da prescrição se a citação não obedece à forma da lei processual.
+Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO SERVIDOR PÚBLICO. IMPOSTO DE RENDA. RESTITUIÇÃO. AJUIZAMENTO DE AÇÃO INDENIZATÓRIA CONTRA PARTE ILEGÍTIMA. CITAÇÃO VÁLIDA. AUSÊNCIA DE INTERRUPÇÃO DA PRESCRIÇÃO. INTELIGÊNCIA DO ART. 202, INCISO I, DO CÓDIGO CIVIL/2002 E ART. 219, CAPUT E § 1.º, DO CPC/1973 (ATUAL ART. 240, § 1.º, DO CPC/ 2015). EMBARGOS DE DIVERGÊNCIA CONHECIDOS E ACOLHIDOS.
+1. Nos termos do § 1.º do art. 219 do CPC/1973, a citação válida, ainda quando ordenada por juiz incompetente, interrompe a prescrição, que retroagirá à data da propositura da ação. O § 1.º do art. 240 do CPC/2015, por sua vez, alinhado com a novo Código Civil, reza que a interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação.
+2. O inciso I do art. 202 do Código Civil/2002 condiciona o efeito interruptivo da prescrição, a partir do despacho que ordenar a citação, "se o interessado a promover no prazo e na forma da lei processual".
+3. É consequência inarredável das normas de regência que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual. Nessa segunda perspectiva, se a ação é endereçada à parte ilegítima, claramente não foi observada a forma da lei processual e, por conseguinte, não há falar em interrupção do prazo prescricional.
+4. Cumpre ressaltar que, no caso dos autos, não há falar em dúvida acerca da parte legítima - o que, eventualmente, poderia ensejar a mitigação desse entendimento acerca da interrupção do prazo prescricional -, porquanto as ações foram propostas apenas em face da União, parte já reconhecidamente ilegítima à época, em razão do julgamento do REsp n.º 989.419/RS, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 25/11/2009, DJe 18/12/2009, sob o rito dos recursos repetitivos (Tema 193) e da edição da Súmula n.º 447/STJ: "Os Estados e o Distrito Federal são partes legítimas na ação de restituição de imposto de renda retido na fonte proposta por seus servidores." (Súmula n.º 447, PRIMEIRA SEÇÃO, julgado em 28/04/2010, DJe 13/05/2010).
+5. Embargos de divergência conhecidos e acolhidos para, cassando o acórdão embargado da Segunda Turma, conhecer do agravo em recurso especial e dar provimento ao recurso especial do ESTADO DO PARANÁ, a fim de restabelecer a sentença de primeiro grau, que havia declarado a prescrição da pretensão dos Autores, com a consequente extinção do processo, com base no art. 269, inciso IV, do CPC/1973.
+(EAREsp n. 1.294.919/PR. Relatora Ministra Laurita Vaz, Corte Especial, DJe 13/12/2018 - grifei).
+Ademais, modificar o entendimento do acórdão impugnado quanto à ausência de controvérsia sobre a legitimidade passiva, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos§§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+De acordo com a jurisprudência desta Corte,não há interrupção da prescrição se a citação não obedece à forma da lei processual. Corroborando o entendimento:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRESCRIÇÃO. ALEGAÇÃO DE DEMORA POR CULPA DO PODER JUDICIÁRIO E INTERRUPÇÃO DO PRAZO PRESCRICIONAL. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 932 do CPC/2015 combinado com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. "É consequência inarredável das normas de regência que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual" (EAREsp 1.294.919/PR, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 05/12/2018, DJe de 13/12/2018).
+3. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.852.010/SE, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 7/10/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA. PRESCRIÇÃO MATERIAL RECONHECIDA DE OFÍCIO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE CITAÇÃO. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INÉRCIA. MATÉRIA DE PROVA. SÚMULA 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO NÃO PROVIDO.
+1. "É consequência inarredável das normas de regência que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual" (EAREsp 1.294.919/PR, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 05/12/2018, DJe de 13/12/2018)" (AgInt no AREsp 455.146/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe de 15/09/2020).
+2. Concluindo o Tribunal de origem pela falha exclusiva do exequente e inexistência de demora inerente ao Poder Judiciário, a modificação desse entendimento exige o reexame de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.731.734/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 31/8/2021.)
+No caso concreto, o Tribunal de origem analisou as provas contidas no processo, para concluir que não havia controvérsia quanto à legitimidade passiva.
+Para alterar esseentendimento, seria necessário o reexame do conjunto probatório do feito, o que é vedado em recurso especial, pela Súmula n. 7 do STJ.
+Diante da ausência de controvérsia quanto à legitimidade, não se observa a possibilidade dedistinguishingcom o entendimento de que a citação deve obedecer à forma da lei processual para a interrupção do prazo prescricional.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
