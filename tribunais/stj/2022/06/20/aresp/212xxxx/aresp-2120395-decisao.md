@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo manejado por T C D (MENOR), representado por J D A,contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 653):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS -ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) DO BAIRRO GUARAITUBA, EM COLOMBO - PEDIDO INICIAL JULGADO IMPROCEDENTE - INSURGÊNCIA DA AUTORA.
+AGRAVO RETIDO - RECORRENTE QUE PUGNA PELA EXPEDIÇÃO DE OFÍCIO AO TRIBUNAL REGIONAL ELEITORAL, COM O FITO DE DEMONSTRAR SUA LEGITIMIDADE - NÃO ACOLHIMENTO AD CAUSAM - TEORIA DA ASSERÇÃO - DILIGÊNCIA INÚTIL - OBSERVÂNCIA DO ARTIGO 370, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL.
+PRELIMINAR DE ILEGITIMIDADE ATIVA ARGUIDA EM CONTRARRAZÕES - TEORIA DA ASSERÇÃO - CONDIÇÃO DA AÇÃO QUE SE AFERE EM FACE DA OBJETIVA ALEGAÇÃO DA PARTE AUTORA - EXISTÊNCIA DO DANO QUE SE CIRCUNSCREVE AO EXAME DE MÉRITO - COMPROVANTE DE RESIDÊNCIA, OUTROSSIM, JUNTADO À PETIÇÃO INICIAL - AUTORA QUE DEMONSTROU RESIDIR PRÓXIMO À ESTAÇÃO DE TRATAMENTO DE ESGOTO - LEGITIMIDADE AD CAUSAM VERIFICADA - PRELIMINAR AFASTADA.
+RESPONSABILIDADE CIVIL - PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS EM DECORRÊNCIA DE MAU CHEIRO PROVENIENTE DA ATIVIDADE EXERCIDA PELA ETE - NÃO ACOLHIMENTO - AUSÊNCIA DE NEXO DE CAUSALIDADE ENTRE A CONDUTA DA RECORRIDA E O DANO ALEGADO PELA PARTE RECORRENTE - SENTENÇA MANTIDA.
+HONORÁRIOS ADVOCATÍCIOS - MAJORAÇÃO EM SEDE RECURSAL - OBSERVÂNCIA DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL.. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram estes rejeitados (fls. 700/706).
+Nas razões do recurso especial, a parte agravante aponta, além da divergência jurisprudencial, violação aosarts. 14, § 1º, da Lei n. 6.938/81;373, caput e §1º, do CPC; e927, caput e parágrafo único, do CC.
+Para tanto, sustenta que "aquele que desenvolve atividade poluidora responde objetivamente pelos danos causados ao meio ambiente e a terceiros, sendo suficiente a existência da ação lesiva, do dano e do nexo com a fonte poluidora ou degradadora para atribuição do dever de indenizar ou reparar tais danos" (fl. 714).
+Em acréscimo, aduz que "Em decorrência do dever de reparação e da aplicação da teoria do risco integral, bem como em respeito ao princípio da precaução, cabe ao poluidor o ônus de comprovar que sua atividade não causou os danos ambientais" (fl. 715).
+Contrarrazões apresentadas às fls. 757/773.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+Segundo a jurisprudência desta Corte, "Em que pese a responsabilidade por dano ambiental seja objetiva (e lastreada pela teoria do risco integral), faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp 1.596.081/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 22/11/2017).
+Ao apreciar a controvérsia, o Tribunal a quo asseverou (fls. 660/669):
+Prima facie, impende consignar que a parte Apelada, na condição de empresa de serviço público, responde objetivamente por eventuais danos causados a terceiros. Equivale dizer, eventual responsabilização não depende de prova de culpa.
+No entanto, ainda que para a responsabilização da Recorrida não seja necessária a constatação de culpa, deve haver comprovação do nexo causal entre eventual ato ilícito por ela praticado e o dano sofrido por terceiro.
+ ..
+E, no caso dos autos, não restou demonstrado o nexo de causalidade entre a atividade desenvolvida pela Apelada e o mau odor na residência da parte Apelante.Explica-se:
+De acordo com laudo pericial juntado aos autos (mov. 28.39 - fl. 11), "a ETE Guaraituba foi projetada para tratar o esgoto doméstico proveniente das moradias cujo efluente se caracteriza pelos seguintes pontos de geração: (a) vasos sanitários (fezes e urina), (b) ralo de chuveiro (água de banho), (c) pia de cozinha (água de lavagem de utensílios domésticos - sem restos de comida e sem gordura), (d) tanque de lavanderia (água de lavagem de roupas), (e) descarte de máquina de lavar roupas (água de lavagem de roupas). Quaisquer outros efluentes poderiam comprometer a eficiência e o resultado esperado para o tipo de tecnologia adotada na ETE Guaraituba".
+ ..
+Já no que diz respeito à emissão de odores durante o processo de tratamento dos efluentes, trata-se de uma condição natural e inerente à referido processo, conforme consignado no laudo pericial (mov. 28.39 - fl. 37):
+ ..
+Desta forma, tem-se que a ETE do Guaraituba estava exercendo sua atividade de forma regular, e que as medidas adotadas para a mitigação da emissão de odores - própria do exercício dessa atividade - cumpria a função esperada.
+Aliás, oportuno corrigir afirmativa da parte Recorrente no sentido de que a Apelada causou os danos no exercício da "atividade poluidora", na medida em que a atividade era justamente reversa, visando o tratamento dos efluentes do esgoto doméstico da região.
+Para além disso, verifica-se que antes da instalação da ETE do Guaraituba, o Rio Palmital - onde ocorria o lançamento do efluente tratado - já estava poluído e emitia maus odores.
+ ..
+Com efeito, o laudo pericial de forma expressa aludiu à pré-existência de um passivo ambiental derivado de fatores múltiplos, como ligações clandestinas de esgoto diretamente no leito do Rio Palmital, inclusive, ocupações irregulares nas imediações, existência de lixo na canal hídrico, de modo que somente por conjecturas se pode vincular a existência do mau cheiro à atividade da ETE Guaraituba, o que por certo soa insuficiente.
+Diante disso, infere-se que não restou evidenciado de modo bastante o nexo causal entre a conduta da Recorrida - consubstanciada no exercício da atividade de tratamento de esgoto -, e o dano alegado pela parte Recorrente - consubstanciado no mau cheiro na região onde reside.
+Como se vê, o acórdão recorrido decidiu a matéria em sintonia com a jurisprudência desta Corte Superior.
+Em relação à alegada necessidade de inversão do ônus da prova, ficou consignado no julgamentodos aclaratórios o seguinte (fs. 705/706):
+Sustenta a parte embargante, em síntese, que o Acórdão é omisso, tendo em vista que não aplicou a inversão do ônus da prova ao caso. Diante disso, requer seja sanada referida omissão.
+Contudo, razão não lhe assiste.
+Primeiro, porque essa inversão já foi determinada desde o reconhecimento da responsabilidade objetiva, afirmando-se, por conta disso, que à parte autora incumbia demonstrar tão somente a relação de causalidade.
+Depois porque, a partir daí, concluiu-se que os elementos de prova colhidos na instrução do processo, notadamente a prova pericial, eram suficientes para fins de análise do nexo causal entre a conduta da embargada e o eventual dano sofrido pela parte embargante, aliás, para oafastamento dessa relação de causalidade, razão pela qual a inversão do ônus da prova, já insitamente considerada, era inócua, não produzindo efeitos no processo diante do contexto probatório desfavorável à parte autora.
+A questão da distribuição do ônus da prova, assim, foi, ora implícita, ora expressamente tratada, orientando a inclinação da decisão embargada.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por derradeiro, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea a do permissivo constitucional.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe -se à parte recorrente o pagamento de honorários advocatícios equivalentes a 2 0% (vinte por cento) do valo r a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
