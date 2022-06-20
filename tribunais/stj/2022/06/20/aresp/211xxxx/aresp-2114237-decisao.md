@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EVA PAVÃO SEGOVIA (EVA)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Mato Grosso do Sul, assim ementado:
+EMENTA - APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PERDAS E DANOS. CONTRATO DE COMPRA E VENDA DE IMÓVEL - PRETENSÃO DE DECLARAÇÃO DE VALIDADE - REJEITADA - INCIDÊNCIA DA EXCEÇÃO DO CONTRATO NÃO CUMPRIDO - INADIMPLEMENTO DO COMPRADOR - NÃO COMPROVAÇÃO DO PAGAMENTO OU DA CONSIGNAÇÃO DO VALOR DEVIDO. CONTRATO EIVADO DE DIVERSOS VÍCIOS - VALIDADE NÃO RECONHECIDA. PEDIDO SUBSIDIÁRIO - DEVOLUÇÃO EM DOBRO DO VALOR DO SINAL - PARCIALMENTE ACOLHIDO - DEVOLUÇÃO SIMPLES. INCIDÊNCIA DE MULTA CONTRATUAL - AFASTADA. INDENIZAÇÃO PELAS BENFEITORIAS - ACOLHIDA - APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA. SENTENÇA REFORMADA EM PARTE. RECURSO PARCIALMENTE PROVIDO.
+Deve ser reconhecida a incidência da exceção do contrato não cumprido, em desfavor do comprador que, sem comprovar o pagamento da integralidade do preço avençado, pretende impor ao vendedor a outorga da escritura pública para transferência do imóvel.
+A meeira do falecido somente detém legitimidade para alienar a fração do imóvel correspondente à sua nomeação, e somente pode ceder os direitos hereditários dos herdeiros, caso estes outorguem procuração antes da celebração do negócio, o que não ocorreu no caso.
+Diante da aplicabilidade da exceção do contrato não cumprido, e também por força dos vícios existentes no contrato, que acometem a validade de grande parte da avença, tem-se por legítima a recusa da vendedora de outorgar a escritura definitiva, razão pela qual descabe falar em restituição em dobro dos valores pagos pelo comprador, bem como em incidência de multa contratual.
+Como forma de possibilitar que as partes retornem ao status anterior, assim como para evitar o enriquecimento indevido de qualquer das partes, deve o contrato se rescindido, cabendo à vendedora restituir ao comprador, de forma simples, os valores pagos por este pela aquisição do imóvel, cabendo ao referido comprador, por sua vez, conceder a posse do imóvel aos respectivos proprietários.
+O comprador, possuidor de boa-fé, tem direito a ser indenizado pelas benfeitorias necessárias, úteis e voluptuárias realizadas no imóvel ao tempo que permaneceu na posse do imóvel, a serem apuradas em liquidação de sentença (e-STJ, fl. 226).
+Os embargos de declaração opostos por EVA foram rejeitados (e-STJ, fls. 259/265).
+Irresignada, EVA interpôsrecurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 373, 489 e 1.022 do CPC/15, sustentando, em síntese, (1) negativa de prestação jurisdicional, visto que não houve apreciação das teses jurídicas ventiladas no recurso de apelação, fundamentais ao deslinde do feito, qual seja:"que não há recibos, extratos bancários ou qualquer outro documento que comprova o pagamento do sinal do contrato, ônus que cabia ao embargado comprovar de acordo com o artigo 373, Inciso, I, do CPC"(e-STJ, fl. 272); e (2) que não houve valoração quanto ao fato quenão há recibos, extratos bancários ou qualquer outro documento que comprova o pagamento do sinal do contrato, ônus que cabia ao recorrido comprovar.
+O recurso não foi admitido pelo TJMS (e-STJ, fls. 285/287).
+Nas razões do presente agravo, EVA alegouque não incidem os óbices apontados na decisão de inadmissibilidade.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+Inicialmente, EVA alegou ofensa aosarts. 489 e 1.022, II, do NCPC,visto que não houve apreciação das teses jurídicas ventiladas no recurso de apelação, fundamentais ao deslinde do feito, qual seja: "que não há recibos, extratos bancários ou qualquer outro documento que comprova o pagamento do sinal do contrato, ônus que cabia ao embargado comprovar de acordo com o artigo 373, Inciso, I, do CPC" (e-STJ, fl. 272).
+Sobre o tema, o acórdão impugnado assim se manifestou:
+No caso, ausente a omissão apontada.
+O acórdão analisou exaustiva e minuciosamente a alegação da suposta falta de comprovação do pagamento do sinal do contrato.
+Veja-se o que consta do acórdão (f. 237-238):
+"Entretanto, com relação ao pedido subsidiário de restituição em dobro dos valores pagos, indenização por benfeitorias e multa contratual, assiste parcial razão ao recorrente.
+Isso porque, em relação ao sinal (R$ 31.000,00), embora o recebimento tenha sido negado pela contestante/recorrida Eva, ainda que por seu procurador, consta do contrato, cláusula 4ª, a imissão da posse do requerente/comprador, tão logo da celebração da avença e do pagamento do sinal.
+Veja-se (f. 12):
+Conforme alegado pelo requerente, e não refutado pela requerida Eva, o requerente/comprador exerce a posse do imóvel desde a celebração do contrato, do que se pode concluir que houve o pagamento do sinal, no valor de R$ 31.000,00."
+Portanto, inexiste omissão no acórdão (e-STJ, fls. 263/264).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJMS emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+O que se vê, na verdade, é a irresignação de EVAcom o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto no art. 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no mencionado artigo.
+Sobre o tema, confira-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. OBSCURIDADE OU CONTRADIÇÃO DO ACÓRDÃO. INEXISTÊNCIA. EXCEÇÃO DE IMPEDIMENTO. NECESSIDADE DE OPOSIÇÃO ANTES DO JULGAMENTO DO RECURSO SOB PENA DE PRECLUSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível para seu cabimento a demonstração de que a decisão embargada se mostrou obscura, contraditória ou omissa, ou ainda, que incorreu em erro material, conforme disciplina o art. 1.022, I, II e III, do NCPC. Portanto, a mera irresignação com o entendimento apresentado no decisum, objetivando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. É pacífica a jurisprudência desta Corte no sentido de que a exceção de impedimento deve ser oposta antes do julgamento do recurso pelo órgão colegiado, sob pena de preclusão, sendo, portanto, inadmissível que essa discussão venha a ser suscitada somente em embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg na MC 24.951/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 23/6/2016, DJe 1º/7/2016)
+(2) Quanto a alegada contrariedade doart. 373do NCPC
+Quanto ao mérito, EVA alegou ofensa aoart. 373 do NCPC, sob o argumento de quenão houve valoração quanto ao fato que não há recibos, extratos bancários ou qualquer outro documento que comprova o pagamento do sinal do contrato, ônus que cabia ao recorrido comprovar.
+No entanto, ficou assentado que a Corte local, soberana na análise das provas, entendeu que EVA recebeu o valor do sinal, no valor deR$ 31.000,00 (trinta e um mil reais), havendo, pois, comprovação do fato constitutivo do direito do autor.
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJMS quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+A propósito, confiram-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL. DANOS MORAIS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. FALTA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Cuida-se de Agravo Interno contra decisum da Presidência do STJ que conheceu do Agravo para não conhecer do Recurso Especial.
+2. A Súmula 7 do STJ incide quanto à alegação de desrespeito ao art. 373, I e II, do CPC. O Tribunal local considerou que o autor comprovou os fatos constitutivos do direito alegado, motivo pelo qual se lhe deve indenização, por dano material e estético. Assim, a tese pleiteada pela recorrente exige rever os fundamentos do acórdão impugnado e proceder ao exame das provas, procedimentos vedados em Recurso Especial.
+3. A agravante nada argumentou quanto à fundamentação da decisão recorrida referente à aplicação das Súmulas 7 e 13 do STJ. Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. É insuficiente a assertiva de que todos os requisitos foram preenchidos ou a insistência no mérito da controvérsia.
+4. De outro lado, não há prequestionamento da alegação de ofensa ao art. 884 do CC. A matéria envolvendo a violação de lei federal tem que ser cifrada em termos de dispositivos contrariados, conforme disposição constitucional. É dizer, para que se configure o prequestionamento, não basta que a recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. "É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indica- dos e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto".
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.884.816/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/11/2021, DJe de 16/12/2021, sem destaques no original.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ART. 57, I, LEI Nº 9.615/1998 (LEI PELÉ). FEDERAÇÃO. ATLETAS PROFISSIONAIS. CONTRIBUIÇÃO SOBRE SALÁRIOS. ART. 373, I E II, DO CPC/2015. FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. COMPROVAÇÃO. REEXAME. SÚMULA Nº 7/STJ. JULGAMENTO EXTRA PETITA. SÚMULAS NºS 283 E 284/STF. ESTATUTO DA FEDERAÇÃO. SÚMULAS NºS 5 E 7/STJ. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na espécie, o tribunal local considerou que a autora/agravada comprovou os fatos constitutivos do direito alegado, sendo devida a cobrança da contribuição sobre os salários dos atletas destinados à federação, conforme disposição legal e do estatuto da entidade.
+3. Na hipótese, a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do estatuto da parte adversa, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Não há violação dos arts. 489 e 1.022 do CPC/2015, visto inexistir no acórdão recorrido omissão ou carência de fundamentação idônea.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.682.882/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/6/2021, DJe de 22/6/2021, sem destaques no original)
+Nessas condições, CONHEÇO do agravo para NÃOCONHECERdo recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de EVA, nos termos do art. 85, §§ 2º e 11, do NCPC, observada a justiça gratuita, se for o caso.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE COMPRA E VENDA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. FATO CONSTITUTIVO DIREITO DO AUTOR. COMPROVAÇÃO. INVERSÃO DE ENTENDIMENTO. PRETENSÃO QUE ENVOLVE O REEXAME DE FATOS E PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
