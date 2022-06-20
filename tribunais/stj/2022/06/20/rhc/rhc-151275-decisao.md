@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso emhabeas corpuscom pedido de liminar interposto por RAPHAEL ERNESTO ALVES DE MELO GOMES contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE (HCn. 0800430-52.2021.8.20.0000).
+Orecorrente foi condenado, em primeiro grau, às penas de 10 anos de reclusão, em regime inicial fechado, pela prática dodelitotipificadonoart. 157,§3º, última parte, c/c o art. 14, inciso II, do Código Penal. Interposto recurso de apelação, o colegiado estadual deu parcial provimento ao apelo defensivo apenas para afastar os antecedentes. A condenação transitou em julgado em 11/6/2018.
+Sustenta que o acórdão impugnado teria ignoradotoda a documentação juntada pela defesa que comprovaria que já se encontrava preso e à disposição da justiça desde o dia 16/9/2016 e, com isso, ficaria afastada a revelia.
+Requer, liminarmente e no mérito, o provimento do recursopara que seja afastado o constrangimento ilegal, reconhecendo-se a nulidade da decisão que decretou a sua revelia e, consequentemente, da sentença condenatória proferida em seu desfavor.
+Liminar indeferida à e-STJ fl. 158.
+Informações prestadas.
+Parecer ministerial pelo desprovimento do recurso, às e-STJ fls. 197/198.
+É, em síntese, o relatório.
+Decido.
+Do presente recurso ordinárionão se pode conhecer.
+Consta doacórdão guerreado que a impetração não foi conhecida porque (e-STJ fl. 68):
+Como se sabe, esta ação constitucional possui âmbito restrito, devendo ser manejado apenas quando, de fato, houver ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção, que a ilegalidade seja manifesta, cuja constatação seja de pronto evidenciada e independa de análise fático-probatório, certamente não é o caso dos autos.
+In casu, as teses trazidas pelo agravante têm por objetivo desconstituir a decisão que In casu decretou a revelia durante o trâmite da Ação Penal n. 0406794-88.2010.8.20.0001 na origem e, consequentemente, os termos do decreto condenatório, por sua vez já transitado em julgado em 11/06/2018.
+Da decisão recorrida, é possível identificar que tais pleitos não foram conhecidos, ID 8564466, por existir no ordenamento jurídico recurso próprio para o exame das respectivas pretensões apto a impugnar sentença penal transitada em julgado, conforme já assinalado no que ora pretende reforma. decisum Desse modo, é totalmente inviável o prosseguimento do presente , tendo em vista writ que as matérias aqui expostas requerem um exame aprofundado e revolvimento do conjunto fático-probatório dos temas ora questionados.
+Nessa tessitura, verifico que esta Corte não pode conhecer das questões agitadas pela defesa, tendo em vista a falta de manifestação do Tribunal de origem sobre as matérias.
+Assim, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamadohabeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela"inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev., ampl. e atual. Salvador: Ed. JusPodivm, 2016,p. 2.470).
+Percebe-se a incompetência desta Corte Superior para o processamento e julgamento destewrit, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça. Nesse sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. COGNIÇÃO. IMPOSSIBILIDADE. FIXAÇÃO DO REGIME ABERTO. IMPOSSIBILIDADE. EXISTÊNCIA DE ELEMENTOS CONCRETOS A FIGURAR EM DEMÉRITO DO PACIENTE. REGIME FECHADO. DESPROPORCIONALIDADE. PENA INFERIOR A 4 ANOS. REGIME SEMIABERTO. RAZOABILIDADE. PARCIAL CONHECIMENTO E, NESTA PARTE, CONCESSÃO DA ORDEM, EM MENOR EXTENSÃO.
+1. Não é possível a cognição do writ por este Sodalício quanto ao pleito de substituição da pena privativa de liberdade por restritivas de direitos, sob pena de indevida supressão de instância, porquanto não foi objeto de análise pelo Tribunal estadual.
+ ..
+3. Habeas corpus parcialmente conhecido e, nesta parte, concedido, em menor extensão, a fim de fixar o regime inicial semiaberto para o cumprimento da reprimenda corporal imposta ao paciente.
+(HC 398.456/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017.)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ART. 15 E 16 DA LEI N. 10.826/2003. ART. 2º, § 2º, DA LEI N. 12.850/2013. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. INÉPCIA DA PEÇA ACUSATÓRIA. TRANCAMENTO DA AÇÃO PENAL. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. PARECER ACOLHIDO. .. 3. A questão da inépcia da peça acusatória, assim como do trancamento da ação penal, não foi objeto de apreciação pela Corte estadual quando do julgamento do writ originário. Assim, a análise pelo Superior Tribunal de Justiça implicaria indevida supressão de instância.
+4. Ordem denegada.
+(HC 379.867/PI, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/6/2017, DJe 13/6/2017.)
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. .. SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ .. 10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância. ..
+(HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. CRIME DE TORTURA. NULIDADE DECORRENTE DO FATO DE O ADVOGADO DO PACIENTE, AO FINAL DA AÇÃO PENAL, TER PASSADO À CONDIÇÃO DE ASSISTENTE DA ACUSAÇÃO. SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL FECHADO. PREVISÃO LEGAL DECLARADA INCONSTITUCIONAL PELO STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ .. 2. As alegações de nulidade decorrente do fato de o advogado do paciente, ao final da ação penal, ter passado à condição de assistente da acusação não foi enfrentada no acórdão combatido, o que impede a análise da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. Precedentes. ..
+(HC 272.125/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgadoem 3/5/2016, DJe 12/5/2016.)
+Tal o contexto,não conheço do presente recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
