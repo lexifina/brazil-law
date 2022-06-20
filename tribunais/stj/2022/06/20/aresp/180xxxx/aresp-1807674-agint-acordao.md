@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno manejado por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra decisão de minha lavra assim ementada (e-STJ, fl. 2001):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). ACÃO DE ANULAÇÃO DE SENTENÇA ARBITRAL QUE RECONHECEU A PRESCRIÇÃO. PODER JUDICIÁRIO. ANÁLISE DE QUESTÕES LIMITADAS AO VÍCIO DA SENTENÇA ARBITRAL. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões recursais, a parte agravante alega que não incidemos óbices indicados na decisão monocrática e reprisam as razões de mérito do recurso especial.
+Reafirma a ocorrência de negativa de prestação jurisdicional por parte da Corte Estadual. Aponta que "ojulgamento da pretensão das Agravantes perpassa pelo exame e interpretação da legislação, com o fito de anular, como se pretende, uma decisão do Tribunal Arbitral contrária à ordem pública, tendo em vista que pronuncioua prescrição em afronta ao ordenamentojurídico brasileiro (e-STJ, fl.2016-2017), e independe de reexame do acervo fático-probatório da demanda.
+Insiste que a ofensa à ordem pública é apta a anulação da decisão arbitral e suscita divergência jurisprudencial acerca do tema.
+Tece considerações acerca das razões pelas quais entende pela inocorrência da prescrição da pretensão dos recorrentes, que é o mérito da sentença arbitral proferida.
+Impugnação apresentada à e-STJ, fls. 2047-2069.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DA SENTENÇA ARBITRAL. ALÁLISE PELO JUDICIÁRIO. LIMITES. VÍCIOS DA SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelaparteagravante, capaz de alterar a conclusão da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Dessa forma, o entendimento firmado na decisão monocrática recorrida deve ser mantido.
+De saída,consoante consignado na decisão ora agravada, não se constataa não ocorrência de nulidade por omissão, contradição, obscuridade, ou erro material, tampouco de negativa de prestação jurisdicional, no acórdão que, em suma, conclui, de maneira integral e com fundamentação suficiente e clara, as razões pela qual a apelação não merecia ser conhecida, destacando que, "é possível verificar que as razões de apelação das autoras não impugnaram os fundamentos da sentença (em relação à impossibilidade de se anular a sentença arbitral com base em interpretação dosatos e do direito consideradas equivocadas pelas autoras), pois se limitam a expor as razões pelas quais a prescrição foi analisada de forma incorreta pelo tribunal arbitral" (e-STJ, Fl. 1626).
+Confira-se trecho do acórdão recorrido, quanto ao ponto:
+No presente caso, é possível verificar que as razões de apelação das autoras não impugnaram os fundamentos da sentença (em relação à impossibilidade de se anular a sentença arbitrai com base em interpretação dos fatos e do direito consideradas equivocadas pelas autoras), pois se limitam a expor as razões pelas quais a prescrição foi analisada de forma incorreta pelo tribunal arbitral.
+Assim, deveriam as autoras demonstrar que o principal fundamento da sentença não é correto e que é perfeitamente possível anular a sentença arbitral, mesmo nas hipóteses de incorreta interpretação de fatos e de direitos, o que não foi feito.
+Na verdade, como dito, as autoras limitaram-se a reproduzir os fundamentos expostos em sua petição inicial, a fim de demonstrar que não se operou a prescrição.
+Perceba-se, então, que não foi apontado qualquer argumento para que se anule a sentença arbitral  mesmo chegando-se à conclusão de que houve error in iudicando em razão da inexistência de prescrição  , o que era estritamente necessário, diante do fundamento utilizado pela sentença, no sentido de que a interpretação equivocada dos fatos e dos fundamentos não configura hipótese de anulação da sentença arbitrai, sendo inviável a rediscussão de seu conteúdo (arts. 32 e 33 da Lei 9.307/96).
+Ou seja, ainda que se analise o mérito do recurso das autoras, por força do princípio da primazia de resolução do mérito (art. 4º do CPC), consubstanciado no art. 488 do CPC, o resultado seria o mesmo: a impossibilidade de revisão do conteúdo da sentença arbitrai, já que o error in iudicando não pode servir de fundamento para a demanda anulatória.
+Lado outro, extrai-se da leitura do trecho do acórdão supra transcrito que, a Corte Estadual não conheceu da apelação da parte ora recorrente, por entender que houve afronta ao princípio da dialeticidade, uma vez que não foram devidamente impugnados os fudamentos da sentença combatida, tendo a então apelante limitado-se a reproduzir os fundamentos expostos em sua petição inicial, a fim de demonstrar que não se operou a prescrição (e-STJ, fl. 1626).
+Nesse contexto, modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE EM APELAÇÃO. ANÁLISE DE SUA OBSERVÂNCIA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. " E mbora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015". (AgInt no REsp 1735914/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/8/2018, DJe de 14/8/2018)
+2. Analisando o acórdão proferido na origem, verifica-se que a Corte local manifestou compreensão no sentido de que ".. as razões recursais não atacam os fundamentos da sentença, de modo que, desrespeitado, na hipótese, o princípio da dialeticidade recursal, o presente recurso não pode ser conhecido, por lhe faltar requisito indispensável à regularidade formal" .
+3. Nota-se, pois, que a Corte local entendeu que houve afronta ao princípio da dialeticidade, uma vez que não foram devidamente impugnados os fundamentos da decisão então combatida.
+4. A revisão de tal posicionamento não se mostra viável em recurso especial, pois tal providência demandaria reincursão no acervo fático-probatório dos autos, esbarrando, assim, no óbice na Súmula 7/STJ.
+5. Agravo Interno não provido"
+(AgInt no AREsp 1.630.091/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 30/06/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE IMPUGNAÇÃO DA SENTENÇA. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGADA PREVALÊNCIA DO PRINCÍPIO DA DIGNIDADE HUMANA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+V. O entendimento firmado pelo Tribunal a quo, no sentido de que não houve impugnação dos fundamentos da sentença, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ. VI. Agravo interno improvido"
+(AgInt no AREsp 1.104.782/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 24/10/2017) g. n.
+Ademais, ainda quanto ao pleito relativo à nulidade da sentença arbitral, o acórdão recorrido, assentou que(e-STJ fls. 1627):
+(..) ainda que se analise o mérito do recurso das autoras, por força do princípio da primazia de resolução do mérito (art. 4º do CPC), consubstanciado no art. 488 do CPC, o resultado seria o mesmo:a impossibilidade de revisão do conteúdo da sentença arbitral, já que o error in iudicando não pode servir de fundamento para a demanda anulatória.
+Como se vê, o acórdão recorrido encontra-se em conformidade com ajurisprudência dessa Corte Superior, segundo a qual "o mero inconformismo quanto ao conteúdo meritório da sentença arbitral não pode ser apreciado pelo Poder Judiciário" (REsp 1636113/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe 05/09/2017).
+Confira-se, ainda, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA DE SENTENÇA ARBITRAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DAS AUTORAS.
+1. Na ação de invalidação/anulação de sentença arbitral, o controle judicial, exercido somente após a sua prolação, está circunscrito a aspectos de ordem formal. Precedentes.
+2. O indeferimento de realização de prova pericial pelo juízo arbitral não configura ofensa ao princípio do contraditório, mas consagração do princípio do livre convencimento motivado, sendo incabível, portanto, a pretensão de ver declarada a nulidade da sentença arbitral com base em tal argumento, sob pena de configurar invasão do Poder Judiciário no mérito da decisão arbitral.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1326436/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/11/2019, DJe 21/11/2019.);
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE NULIDADE DE SENTENÇA ARBITRAL. NULIDADE POR CARÊNCIA DE FUNDAMENTAÇÃO. CERCEAMENTO DE DEFESA POR INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. DECISÃO MANTIDA.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Na linha dos precedentes desta Corte, o controle judicial sobre a validade das sentenças arbitrais está relacionado a aspectos estritamente formais, não sendo lícito ao magistrado togado examinar o mérito do que foi decidido pelo árbitro.
+3. Não é possível falar em nulidade da sentença arbitral por carência defundamentação quando o árbitro, embora de forma sucinta, traz argumentos suficientes para embasar o resultado do julgamento.
+4. A sentença arbitral consignou que, muito embora a perícia técnica requerida tivesse o objetivo de certificar o valor de benfeitorias necessárias, úteis e voluptuárias, os documentos juntados aos autos somente indicavam a existência de benfeitorias voluptuárias, as quais poderiam ser levantadas pela parte interessada. Nesses termos, não é possível afirmar que o indeferimento da perícia mencionada tenha configurado cerceamento de defesa.
+5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei
+.6. Agravo interno não provido, com aplicação de multa."
+(AgInt no AgInt no AREsp 1143608/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/03/2019, DJe 20/03/2019, g. n).
+Por fim, note-se que, rever tais conclusões, na forma como posta no recurso especial, demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+Assim, em que pese o esforço argumentativo daparteno presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, do CPC/2015).
+É o voto.
