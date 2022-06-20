@@ -1,0 +1,6 @@
+DECISÃO
+MÁRCIO ANDRÉ SILVA BEZERRA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O apenado do regime semiaberto busca a concessão do livramento condicional. É de rigor reconhecer a perda o objeto deste writ, pois, ao que se tem, a individualização da pena foi modificada e existe registro, no andamento do processo eletrônico, de progressão ao regime aberto e expedição de alvará de soltura em benefício do reeducando, no dia 9/6/2022.
+De toda forma, é importante pontuar, obiter dictum,que o acórdão recorrido não se reveste de patente ilegalidade.O Tribunal indeferiu a passagem diretado regime intermediário ao livramento condicional, pois "o sentenciado praticou crime doloso no curso da execução, além de constar no seu histórico duas faltas graves".O julgamento está conforme a compreensãode que"nos termos do art. 83 do CP, não basta o não cometimento de falta grave nos último 12 meses (art. 83, "b", CP), sendo exigidos vários outros requisitos, dentre eles, o bom comportamento (art. 83, "a", CP), que é analisado por um conjunto de fatores durantetoda a execuçãoda pena" (AgRg no HC n. 710.831/SC, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 15/2/2022).
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
