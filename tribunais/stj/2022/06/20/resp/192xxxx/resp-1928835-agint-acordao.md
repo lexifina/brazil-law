@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 474):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC2015. NÃO OCORRÊNCIA. INADEQUAÇÃO DA VIA RECURSAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ILEGITIMIDADE UNIÃO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega que houve ofensa ao art.1.022, II, do CPC/2015, ao argumento de que o Tribunala quoomitiu-se quanto à ausência de responsabilização da União, tendo em vista a inexistência de nexo causal entre ato que possa ser a ela atribuído e o fato danoso.
+Sustenta que houve violação aos arts.15, 16, 17, 18, 24 e 26 da Lei n. 8.080/1990 e ao art. 944 do Código Civil. Isso porque aconduta omissiva foi imputada tão somente ao Hospital Santa Casa, credenciado ao SUS em Cianorte/PR, o quenão poderia atrair a responsabilização da União, "pois a discussão nos autos não é no sentido de determinar ao SUS que ofereça atendimento ao autor, mas sim de buscar indenização por ausência/deficiência de prestação de serviço de saúde, que teria ocasionado danos ao paciente. Não há imputação de ação ou omissão da União, nem mesmo de qualquer outro ente federal."Defendeque o fato de a União ser gestora do SUS não a insereno fato danoso ocorrido, sequer indiretamente.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART.1.022 DO CPC/2015. NÃO OCORRÊNCIA. ILEGITIMIDADE UNIÃO.FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Verifica-se que a controvérsia foi dirimida com fundamento constitucional,de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Isso porque o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que a questão da legitimidade da União foi tratadanos seguintes termos (fls. 339-341, e-STJ):
+Os fatos alegados envolvem a falha na estrutura do SUS, pois segundo a inicial, mesmo diante da urgência o paciente não obteve a cirurgia necessária (sutura de córnea) no Hospital Santa Casa credenciado ao SUS em Cianorte/PR, em tese, por falta de profissional disponível no momento para realizá-lo.
+O Supremo Tribunal Federal, em julgamento em 05.03.2015, sob a sistemática da repercussão geral (Tema 793), assim decidiu:
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente. Decisão: O Tribunal, por unanimidade, reputou constitucional a questão. O Tribunal, por unanimidade, reconheceu a existência de repercussão geral da questão constitucional suscitada. No mérito, por maioria, reafirmou a jurisprudência dominante sobre a matéria, vencidos os Ministros Teori Zavascki, Roberto Barroso e Marco Aurélio. Não se manifestou a Ministra Cármen Lúcia. (Repercussão Geral no Recurso Extraordinário 855.178, Plenário, Relator Ministro Luiz Fux, j.05/03/2015, sem o grifo no original)
+Outrossim, em Plenário, o STF, em 22.05.2019, fixou a seguinte tese de repercussão geral ao julgar os embargos de declaração opostos nesse mesmo recurso (RE 855.178, Tema 793):
+Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde e, diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+(..)
+Assim, diante da solidariedade entre os entes reafirmada pelo Supremo, deve-se reconhecer a legitimidade passiva da União, já que se trata de ação buscando ressarcimento por danos materiais e morais por suposta falha no atendimento prestado pelo SUS.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo1.022 do CPC/2015.
+Quanto a questão de fundo, consoante trecho supracitado, verifica-se que acontrovérsiafoi dirimida com fundamento constitucional, especificamente com base natese firmada no julgamento do RE 855.178(Tema 793/STF), de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
