@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que inadmitiu o recurso especial fundamentado no art. 105, III, a, da Constituição federal, que visa reformar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. BENEFÍCIO PREVIDENCIÁRIO. ALEGAÇÃO DE FRAUDE NO RECEBIMENTO DE VALORES. TEMAS 979 E 1.064/STJ. SOBRESTAMENTO DO EXECUTIVO FISCAL.
+1. A 1ª Seção do Superior Tribunal de Justiça afetou o REsp 1.381.734/RN (Tema 979) para julgamento pela sistemática dos recursos repetitivos, versando sobre a possibilidade de "devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da Administração da Previdência Social", com com determinação de suspensão, em todo o território nacional, do processamento dos processos pendentes, individuais ou coletivos que versem acerca da matéria (acórdão publicado no DJe de 16-8- 2017).
+2. Ademais, a 1ª Seção do Superior Tribunal de Justiça também deliberou afetar para julgamento pela sistemática dos recursos repetitivos os REsp 1.860.018/RJ e 1.852.691/PB (Tema 1.064), versando sobre a "Possibilidade de inscrição em dívida ativa para a cobrança dos valores indevidamente recebidos a título de benefício previdenciário: verificação da aplicação dos §§3º e 4º, do art. 115, da Lei n. 8.213/91 aos processos em curso", igualmente com determinação de suspensão, em todo o território nacional, do processamento dos processos pendentes, individuais ou coletivos que versem acerca da matéria (acórdão publicado no DJe de 22-9- 2020).
+3. Assim, a execução fiscal, na origem, deve permanecer suspensa até que o Superior Tribunal de Justiça decida a questão relativa aos Temas 979 e 1.064.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+O que se pretende é que o STJ verifique "se a tal esquema  fático , conforme delineado nas instâncias ordinárias, o tribunal inferior aplicou bem ou mal o direito federal" (A. de ASSIS. Manual dos Recursos. 6ª edição. São Paulo: RT, 2014, p. 832.)
+ ..
+Entender pela impossibilidade de levar em consideração os fatos do processo -tal como já delineados nas instâncias inferiores -seria simplesmente pretender que o recurso especial funcionasse como espécie de controle abstrato de legalidade, o que evidentemente não é o caso, uma vez que, nos moldes do art. 1.029 do CPC, a peça recursal conterá "a exposição do fato e do direito".
+Portanto, verifica-se que o recurso especial oferecido não quer reexaminar o contexto fático-provatório. O ponto em debate é a violação do artigo art. 115, § 3º, da Lei Federal 8.213/1991, com redação dada pela Lei Federal 13.494/2017.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. TRIBUTÁRIO. DÍVIDA ATIVA NÃO TRIBUTÁRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INCABÍVEL REEXAME FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento, objetivando reformar decisão interlocutória, para extinguir o feito executivo sem julgamento do mérito. No Tribunala quo, o agravo de instrumentofoi improvido.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "Portanto, verifica-se que somente a partir de 19/05/2017, foi autorizada legalmente constituição de crédito e inscrição em dívida ativa de débito relativo a benefício previdenciário ou assistencial pago indevidamente ou além do devido. .. Assim, neste aspecto, é de se reconhecer a legalidade da CDA ora executada, uma vez que a dívida alegada pelo exequente enseja cobrança pela via da execução fiscal.De outro lado, analisando os autos, constato que ao evento 96, determinei a suspensão do processo até o trânsito em julgado da ação5000419-20.2020.4.04.7134 ou eventual modificação da tutela provisória deferida."
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+Portanto, verifica-se que somente a partir de 19/05/2017, foi autorizada legalmente constituição de crédito e inscrição em dívida ativa de débito relativo a benefício previdenciário ou assistencial pago indevidamente ou além do devido.
+ ..
+Assim, neste aspecto, é de se reconhecer a legalidade da CDA ora executada, uma vez que a dívida alegada pelo exequente enseja cobrança pela via da execução fiscal.
+De outro lado, analisando os autos, constato que ao evento 96,determinei a suspensão do processo até o trânsito em julgado da ação5000419-20.2020.4.04.7134 ou eventual modificação da tutela provisória deferida.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
