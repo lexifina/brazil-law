@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SWISS RE CORPORATE SOLUTIONS BRASIL SEGUROS S/A contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea"a" da Constituição Federal.
+Agravo em recurso especial interposto em:01/09/2021.
+Concluso ao gabinete em:10/06/2022.
+Ação:deindenização por dano moral ajuizada por SOLON SALES DE MELO eMARIA ANUNCIADA ROCHA MELOem face de CONDOMÍMIO MANAÍRA SHOPPINGna qual requer o pagamento de indenização por danos morais em razão do seu filho, Suênio Rocha Melo, ter sido assinado nas dependências do promovido.
+Sentença:julgou parcialmente procedentes os pedidos.
+Acórdão:deu parcial provimento às apelaçõesinterpostas por SOLON SALES DE MELO e MARIA ANUNCIADA ROCHA MELO e pelo CONDOMÍMIO MANAÍRA SHOPPING,nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL DO PROMOVIDO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RELAÇÃO DE CONSUMO.ASSALTO COM RESULTADO MORTE DENTRO DO ESTACIONAMENTO DE SHOPPING CENTER. TROCA DE TIROS ENTRE ASSALTANTES E SEGURANÇA DO EMPREENDIMENTO.RESPONSABILIDADE DECORRENTE DO DEVER DE VIGILÂNCIA E POR ATO DO PREPOSTO. MORTE DO FILHO DOS AUTORES.DANO MORAL. REQUISITOS DA RESPONSABILIDADE CIVIL CONFIGURADOS. DEVER DE INDENIZAR.
+A disponibilização de estacionamento aos clientes em empreendimento comercial, seja gratuito ou oneroso, implica no dever de guarda e vigilância, os quais, se violados, caracterizam defeito na prestação do serviço, atraindo a responsabilidade objetiva pelos danos causados ao consumidor, nos termos do art. 14, do CDC.
+A ocorrência de assalto dentro de estacionamento de Shopping Center, implica na responsabilidade pelos danos morais causados.
+Tal entendimento encontra-se sumulado no verbete 130 do STJ: "A empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento". Assalto com resultado morte de uma das vítimas. Dano moral aos genitores configurado.
+DENUNCIAÇÃO À LIDE. AUSÊNCIA DE PARTICIPAÇÃO IMEDIATA DO SINISTRO À SEGURADORA. PUNIÇÃO DO ARTIGO 771 DO CC DE PERDA DA INDENIZAÇÃO SECURITÁRIA QUE NÃO É AUTOMÁTICA. PRECEDENTES DO STJ. AUSÊNCIA DE MÁ-FÉ DO PROMOVIDO OU DE PREJUÍZO À SEGURADORA EM DECORRÊNCIA DA NÃO COMUNICAÇÃO. PROVIMENTO PARCIAL DO RECURSO.
+A pena de perda do direito à indenização securitária inscrita no art. 771 do CC, ao fundamento de que o segurado não participou o sinistro ao segurador logo que teve ciência, deve ser interpretada de forma sistemática com as cláusulas gerais da função social do contrato e de probidade, lealdade e boa-fé previstas nos arts. 113, 421, 422 e 765 do CC, devendo a punição recair primordialmente em posturas de má-fé ou culpa grave, que lesionem legítimos interesses da seguradora.
+A jurisprudência tem entendido que o retardo na comunicação do sinistro por parte do segurado não exime a seguradora do pagamento da indenização, a nãoser que ela prove que, avisada oportunamente, teria sido possível evitar ou atenuar as consequências do ato danoso, situação não caracterizada na hipótese vertente. Procedência da denunciação à lide.
+APELAÇÃO CÍVEL DOS AUTORES. INSURREIÇÃO QUANTO AO VALOR DA INDENIZAÇÃO POR DANOS MORAIS. ASSALTO DO QUAL RESULTOU A MORTE DE FILHO. DANO MORAL POR RICOCHETE. FIXAÇÃO DA INDENIZAÇÃO QUE DEVE OBSERVAR A FUNÇÃO PREVENTIVA E PEDAGÓGICA DA INDENIZAÇÃO.
+MAJORAÇÃO. PROVIMENTO PARCIAL DO RECURSO.
+Ao fixar a indenização por danos morais o magistrado deve atentar para as funções compensatórias, punitiva e pedagógica do dano moral. Majoração." (fls. 1.732/1.734, e-STJ).
+Recurso especial:alega, além de dissídio jurisprudencial, violação doart.944, parágrafo único, do CC.
+Sustenta, em síntese,a redução do valor arbitrado a título de compensação pordanos morais, emobservância dos princípios da proporcionalidade e da razoabilidade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento:aplicação do CPC/2015.
+- Do pedido de revisão do valor da compensação por danosmorais
+Na hipótese dos autos, o valor da compensação por danosmorais foimajorada no2º grau de jurisdição em R$ 250.000,00, para cada genitor,emobservância ao binômio reparação/sanção,de tal modo que possa servir dealívio aos dessabores sofridos pelos ofendidos e de reprimenda ao agirdoofensor, com base no acervo fático-probatório dos autos.
+No tocante à fixação dos danos morais a serem suportados pela seguradora, ora recorrente, o acórdão recorrido assim se pronunciou:
+"(..)não configurada a má-fé do Condomínio Manaíra, especialmente porque este não poderia antever que seria acionado por danos morais, e não havendo demonstração de que a comunicação possibilitaria minimizar o dano ocorrido, deve ser aplicado o contrato de seguro, pararesponsabilizar a Seguradora, tendo em vista que estava em plena vigência a apólice do seguro nº 519000278 (25/05/2010 a 25/05/2011) na data do evento em 10 de outubro de 2010, havendo a previsão de abrangência de cobertura para danos morais até o montante de R$600.000,00, conforme a cláusula 4.1 (Id 6379475 - pág. 52) e cláusula particular IV (Id 6379475 - pág. 54).
+Portanto, estando vigente a apólice na data do sinistro, e havendo a abrangência do dano, deve ser provido, parcialmente, o Apelo do Promovido para julgar procedente o direito regressivo, a fim de obrigar a Seguradora SWISS RE CORPORATE SOLUTIONS BRASIL SEGUROS S/A (Sucessora por transferência da carteira de investimentos da Bradesco Auto/RE Companhia de Seguros), conforme documento de ID 6379484 - pág. 27, a realizar o pagamento da indenização ao qual foi condenado o Promovido até o montante previsto na apólice.
+Ante o exposto, PROVEJO, PARCIALMENTE, A APELAÇÃO CÍVEL DOSAUTORES E O APELO DO PROMOVIDO (CONDOMÍNIO MANAÍRA), para: 1) mantendo acondenação do Promovido, elevar a indenização por danos morais para o valor de R$250.000,00 (duzentos e cinquenta mil reais) para cada genitor, totalizando R$500.000,00 (quinhentos mil reais); 2) julgar procedente o pedido formulado na denunciação da lide, condenando a Seguradora SWISS RE CORPORATE SOLUTIONS BRASIL SEGUROS S/A ao pagamento da indenização, tendo em vista o limite previsto na apólice." (fls. 1.757/1.758, e-STJ).
+Alterar o decidido no acórdão impugnado quanto à redução do valorfixado a título de compensação por danos morais, exige o reexame de fatose provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 5% sobre o valor da condenação devidos pelo recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃODE INDENIZAÇÃO POR DANO MORAL.ALTERAÇÃO DO VALOR FIXADO. REDUÇÃO.DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação deindenização por dano moral.
+2.A revisão da compensação por danos morais só é viável em recursoespecial quando o valor fixado for exorbitante ou ínfimo. Salvo essashipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3.Agravo conhecido. Recurso especial não conhecido.
