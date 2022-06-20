@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO. PEDIDO DE ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE PELA VIA ELEITA.
+1. Consignou a instância de origem que ficou evidenciada a unidade de desígnios entre o agravante e sua visitante, que tentou ingressar no estabelecimento prisional portando entorpecente destinado a ele.
+2. Para infirmar a conclusão das instâncias de origem quanto à configuração da falta grave, seria impreterível o revolvimento do material fático-probatório dos autos, procedimento sabidamente incompatível com os estreitos limites de cognição da via eleita.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Des. Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por WESLEY SILVERIO ALVES DA SILVA contra a decisão de e-STJ fls. 117/120, por meio da qual deneguei liminarmente o habeas corpus.
+Depreende-se dos autos que foi instaurado procedimento administrativo visando apurar falta disciplinar consistente em posse de drogas, supostamente praticada no dia 19/11/2017. Consta que a companheira do agravante teria tentado entrar na unidade prisional portando 200g (duzentos gramas) de maconha para entregar a ele.
+O Juízo das execuções julgou o pedido improcedente e absolveu o agravante por falta de provas.
+Interposto agravo em execução pelo Ministério Público, o Tribunala quodeu provimento ao recurso "para reconhecer a falta cometida em 19.11.2017 como de natureza grave, anotando-se no prontuário; o reinício da contagem do lapso temporal para concessão da progressão de regime a partir da data da infração disciplinar, declarando-se ainda a perda de 1/3 dos dias eventualmente trabalhados e remidos" (e-STJ fl. 105).Eis a ementa do acórdão (e-STJ fl. 106):
+AGRAVO EM EXECUÇÃO PENAL  FALTA DISCIPLINAR DE NATUREZA GRAVE  PRÁTICA DE FATO PREVISTO COMO CRIME DOLOSO  RECONHECIMENTO - Imputa-se falta grave ao reeducando que pratica fato definido como crime no interior de estabelecimento prisional. RECURSO PROVIDO.
+No Superior Tribunal de Justiça, alegou a defesa nulidade do procedimento administrativo disciplinar, uma vez que o agravante não estava presente na oitiva das trêstestemunhas perante a comissão de sindicância.
+Sustentou falta de provas seguras da prática da infração disciplinar, postulando a absolvição do condenado nos termos da decisão de primeiro grau.
+Às e-STJ fls. 117/120, deneguei liminarmente o habeas corpus.
+No presente regimental, reitera a defesa o pleito de absolvição, argumentando que "a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (e-STJ fl. 124).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de argumentos capazes de infirmar as fundações da decisão recorrida.
+Objetiva a defesa o restabelecimento da decisão de primeiro grau, que absolveu o agravante nos seguintes termos (e-STJ fl. 64):
+Fls. 02/32 e 42:absolvoo sentenciado Wesley Silvério Alves da Silva, RG n.41.666.788, da falta que lhe foi imputada aos 19.11.2017, eis que não foram produzidos elementos que comprovassem que ele solicitou à sua companheira a droga apreendida, bem como ela negou em seu depoimento de fls. 42, que o reeducando tenha solicitado, dizendo, ainda, que ele apenas fez um comentário e ela quis agradá-lo levando a droga à unidade prisional. Anote-se, também, que o preso negou os fatos em sua oitiva (fls. 17), devendo ser prestigiada a negativa da autoria. Comunique-se à unidade prisional, dando-se ciência ao preso, servindode oficio, esta decisão.
+A Corte estadual deu provimento ao recurso do Ministério Público, explicitando os fundamentos a seguir transcritos (e-STJ fls. 106/108):
+O recurso comporta provimento.
+Segundo consta, no dia 19.11.2017, por volta das 09h30min, durante o horário de visitas, Jessica Tammy Rezende Silva, cadastrada como amásia e visitante do sentenciado Wesley Silvério Alves da Silva, portava um invólucro contendo cerca de 200g de maconha em seu órgão genital.
+ ..
+Jessica Tammy Rezende Silva, em interrogatório nos autos que apura o crime de tráfico de drogas, confirmou os fatos. Disse que espontaneamente retirou o invólucro de sua vagina quando indagada pelas Agentes de Segurança Penitenciária; pretendia entregar a droga ao seu companheiro e que queria agradá-lo (fls. 42).
+De outra parte, as Agentes de Segurança da Penitenciária Tereza Satic lmamura Sano e Maria José Gomes de Campos relataram que havia uma denúncia anônima dando conta de que a visitante Jessica Tammy Rezende Silva estaria trazendo entorpecentes, motivo pelo qual ela foi encaminhada para a revista. Indagada, ela confirmou que os fatos e se prontificou a retirar o invólucro de seu órgão genital (fls. 14/15).
+ ..
+Deste modo, não há no que se falar em falta de provas, visto que a própria amásia do agravado confessou que transportava a droga e que pretendida entregar a ele, não sustentando a alegação do sentenciado de desconhecimento do fato.
+Fantasiosa a versão da companheira do agravado no sentido de que pretendia vender a droga no interior do presídio para outros detentos, sem conhecimento do amásio, ou que ela tenha, por conta própria, trazido o entorpecente apenas para agradar o companheiro.
+Ora, Jessica Tammy estava no estabelecimento prisional para visitar o amásio, ora agravado, motivo pelo qual não se mostra verossímil que estivesse levando droga para outro detento que não o agravado.
+ ..
+Impende lembrar que os atos administrativos são dotados da presunção de legitimidade e veracidade, ou seja, eles são verdadeiros e produzidos de acordo com a lei até que se prove em contrário, não se olvidando que já havia notícia anônima sobre o fato de que a companheira do agravado iria ingressar no presídio com drogas durante o horário de visitas.
+Ora, como é sabido, uma das finalidades da pena é proporcionar uma harmônica integração social do condenado e sua reinserção social só será alcançada quando respeitar a lei, em especial, como reeducando, a Lei de Execução Penal.
+Desta forma, configurada a prática de disciplinar de natureza grave definida no artigo 52 da Lei de Execuções Penais.
+E estando a falta grave devidamente caracterizada, o agravado deve ser punido com suas consequências. (Grifei.)
+Importante destacar que não se desconhece a existência de julgados desta Corte no sentido de que, "em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relatorMinistro RIBEIRO DANTAS, QUINTA TURMA, DJe de 25/4/2017).
+No entanto, na espécie, consignou a instância de origem que ficou evidenciado que a companheira do ora agravante, cadastrada no seu rol de visitantes, tentou ingressar no estabelecimento prisional portando entorpecentes para entregar a ele, "não sustentando a alegação do sentenciado de desconhecimento do fato".
+Nessas circunstâncias, não vislumbrei a ocorrência de constrangimento ilegal a ensejar a concessão da ordem, visto que, na forma como descrita pela Corte a quo, a conduta praticada pelo agravante configura falta de natureza grave, não havendo que se falar, portanto, em violação do princípio da pessoalidade ou da responsabilização por ato de terceiro.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ALEGAÇÃO DE INCIDÊNCIA DA INFRAÇÃO POR ATO DE TERCEIRO. INOCORRÊNCIA. INDÍCIOS MÍNIMOS DE UNIDADE DE DESÍGNIOS. REVOLVIMENTO. DIAS REMIDOS. FRAÇÃO. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. "Em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos" (HC n. 372.850/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 25/4/2017). Na espécie, ficou evidenciada a existência de indícios mínimos de unidade de desígnios entre o agravante e sua visitante, que lhe enviou encomenda contendo entorpecentes em seu interior, constando dos autos que o recorrente possuía ciência do ato e estaria esperando a encomenda.
+2. Para infirmar as conclusões das instâncias ordinárias quanto à configuração da falta grave, seria impreterível o revolvimento do material fático-probatório dos autos, procedimento sabidamente incompatível com os estreitos limites de cognição da via eleita.
+3. Quanto aos dias remidos, a Corte de origem, conquanto sucintamente, fundamentou de modo suficiente a perda na fração de 1/3, notadamente em função da gravidade da infração e do fato de que a conduta demonstraria desprezo às normas que regem o comportamento de sentenciados no interior de uma unidade prisional, nos termos do art. 57 da LEP.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 662.703/SP, de minha relatoria, Sexta Turma, DJe de 14/3/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TENTATIVA DE INGRESSO NO PRESÍDIO COM APARELHO CELULAR. FALTA GRAVE. ATIPICIDADE DA CONDUTA. NÃO CONFIGURAÇÃO. COAÇÃO ILEGAL NÃO CONFIGURADA. PERÍCIA NO APARELHO CELULAR. DESNECESSIDADE. PERDA DOS DIAS REMIDOS. FRAÇÃO MÁXIMA DE 1/3 (UM TERÇO).AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA.INSURGÊNCIA PARCIALMENTE PROVIDA.
+1. Nos termos do art. 50, inciso VII, da Lei de Execução Penal, comete falta grave o condenado a pena privativa de liberdade que "tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo".
+2. Na espécie, a companheira do paciente, ao visitá-lo na unidade prisional, levou um micro aparelho celular em sua genitália com o objetivo de entregá-lo ao sentenciado, havendo indícios da unidade de desígnios entre eles, pois, "na delegacia a companheira do paciente confessou que iria entregar o celular ao paciente" (e-STJ fl. 120), o que afasta a tese de atipicidade por conduta de terceiro e caracteriza falta grave, permitindo, assim, a aplicação de sanções disciplinares, tal como procedido na origem.
+3.No tocante à alegada necessidade de perícia no objeto para a configuração da infração disciplinar, "a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que é prescindível a perícia do aparelho celular apreendido para a configuração da falta disciplinar de natureza grave" (HC 466.108/SP, Rel. Ministra LAURITA VAZ,SEXTA TURMA, julgado em 06/11/2018, DJe 03/12/2018).
+4. Consoante a jurisprudência pacífica desta Corte Superior de Justiça, é incabível a emissão de juízo de valor acerca da gravidade da prática disciplinar imputada ao condenado, procedimento que implicaria o revolvimento de matéria fático-probatória, vedado na via do habeas corpus, o que reforça a inexistência de coação ilegal passível de ser sanada na via eleita. Precedentes.
+5. Quanto à perda dos dias remidos, sabe-se que a decisão deve ser devidamente fundamentada no princípio da proporcionalidade e da razoabilidade, na natureza, nos motivos, nas circunstâncias e nas consequências do fato, a teor dos arts. 127 e 57 da LEP.
+6. As instâncias ordinárias deixaram de justificar adequadamente a perda dos dias remidos na fração máxima admitida em lei, de forma que a decisão não atende ao requisito da motivação suficiente dos pronunciamentos judiciais (art. 93, inciso IX, da CF/88).
+7. Agravo regimental parcialmente provido apenas para determinar que o Juízo da execução realize nova análise acerca da perda dos dias remidos pelo sentenciado ANTONIO FERNANDO DOS SANTOS, de forma fundamentada, com esteio na atual redação do art. 127 da LEP, conferida pela Lei n.12.433/2011.
+(AgRg no HC 501.489/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 1º/10/2019, DJe 10/10/2019, grifei.)
+Como antes analisado, para infirmar a conclusão da instância ordinária, no caso, seria impreterível o revolvimento do material fático-probatório dos autos, procedimento sabidamente incompatível com os estreitos limites de cognição da via eleita.
+Ante o exposto, nego provimento ao presente agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
