@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 254/265) interposto contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONTRIBUIÇÃOPREVIDENCIÁRIA. AUXÍLIO-ALIMENTAÇÃO. PAGAMENTO EM ESPÉCIE OU EM PECÚNIA. HABITUALIDADE. INCIDÊNCIA. PRECEDEBTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+O agravante sustenta, em suma, que a questão controvertida não foi enfrentada pelo STJ em sede do regime dos recurso repetitivos ou de assunção de competência, razão pela qual não seria a hipótese de julgamento monocrático do apelo nobre.
+Acrescenta que o recurso especial da agravada não foi claro sobe a existência ou não de habitualidade no pagamento do auxílio-alimentação, situação que faz pairar dúvidas a respeito da aplicação dos precedentes citados na decisão agravada sobre o caso concreto.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-ALIMENTAÇÃO. PAGAMENTO EM ESPÉCIE OU EM PECÚNIA. HABITUALIDADE. INCIDÊNCIA. PRECEDENTES.
+1. "Consolidou-se na Seção de Direito Público desta Corte Superior o entendimento de que incide Contribuição Previdenciária sobre a verba relativa ao desconto de adicional auxílio-alimentação, pago em espécie ou em pecúnia, com habitualidade". (AgInt no REsp 1894150/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/05/2021, DJe 09/06/2021).
+2.Agravo interno não provido.
+VOTO
+Cinge-se a controvérsia, na origem, de apelação interposta contra sentença que julgou parcialmente procedente a causa para afastar a exigibilidade da contribuição previdenciária sobre as rubricas dede aviso prévio indenizado, auxílio-doença/acidente (quinze primeiros dias), auxilio-transporte (inclusive em pecúnia) e auxilio-alimentação.
+O Tribunal de origem ao analisar a questão controvertida, negou provimento à apelação, sob o fundamento de que não incidiria a contribuição previdenciárias sobre as supramencionadas verbas.
+Em sede de recurso especial a Fazenda Nacional articulou requerimento defendendo a incidência da contribuição previdenciária sobre o auxílio-alimentação pago em pecúnia, acrescentando que esse é o caso dos autos.
+Pois bem.
+Antes de tudo, cumpre asseverar que o art. 932 do CPC/2015 elenca as atribuições dos magistrados relatores de processos no âmbito dos Tribunais.
+A propósito, confira-se:
+Art. 932. Incumbe ao relator:
+I - dirigir e ordenar o processo no tribunal, inclusive em relação à produção de prova, bem como, quando for o caso, homologar autocomposição das partes;
+II - apreciar o pedido de tutela provisória nos recursos e nos processos de competência originária do tribunal;
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+IV - negar provimento a recurso que for contrário a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;
+b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos;
+c) entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência;
+V - depois de facultada a apresentação de contrarrazões, dar provimento ao recurso se a decisão recorrida for contrária a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;
+b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos;
+c) entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência;
+VI - decidir o incidente de desconsideração da personalidade jurídica, quando este for instaurado originariamente perante o tribunal;
+VII - determinar a intimação do Ministério Público, quando for o caso;
+VIII - exercer outras atribuições estabelecidas no regimento interno do tribunal.
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.
+Efetivamente esse rol não é taxativo, tendo em vista que os relatores devem cumprir outras atribuições determinadas pelos Regimentos Internos dos Tribunais por força do art. 932, VIII, do CPC/2015.
+Embora a decisão monocrática não tenha mencionado nenhuma súmula ou representativo de controvérsia, cabe mencionar que o STJ, atento à dinâmica de seu papel constitucional e aos princípios processuais, autoriza, com base no art. 34, XVIII, do RISTJ, que o Ministros Relatores julguem monocraticamente os recursos e os pedidos contrários ao entendimento dominante do STJ sobre a matéria controvertida.
+No caso, a decisão monocrática indicou precedentes recentes das Primeira e Segunda Turma (Seção de Direito Público) que se adequam ao exame da hipótese ora examinada.
+Confira-se:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-ALIMENTAÇÃO. PAGAMENTO EM ESPÉCIE OU EM PECÚNIA. HABITUALIDADE. INCIDÊNCIA. 1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3). 2. Consolidou-se na Seção de Direito Público desta Corte Superior o entendimento de que incide Contribuição Previdenciária sobre a verba relativa ao desconto de adicionalauxílio-alimentação, pago em espécie ou em pecúnia, com habitualidade.3. Agravo interno desprovido. (AgInt no REsp 1894150/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/05/2021, DJe 09/06/2021). Grifou-se.
+PREVIDENCIÁRIO. AUXÍLIO-ALIMENTAÇÃO(TÍQUETE-ALIMENTAÇÃO). PAGAMENTO EM PECÚNIA. HABITUALIDADE. NATUREZA REMUNERATÓRIA. INCLUSÃO NA BASE DO SALÁRIO DE CONTRIBUIÇÃO PARA A APURAÇÃO DO SALÁRIO DE BENEFÍCIO. I - O auxílio-alimentação, também denominado como tíquete-alimentação, quando recebido em pecúnia e com habitualidade, sujeitando-se à incidência de contribuição previdenciária, deve integrar o salário de contribuição para a apuração do salário de benefício da recorrente. II - Nessa hipótese, a verba de caráter continuado e que seja contratualmente avençada com o empregado, ainda que informalmente, constitui-se em parte do salário do empregado, devida pelo seu labor junto ao empregador. Tal entendimento vai ao encontro do art. 458 do CLT e da Súmula n. 67 da Turma Nacional de Uniformização dos Juizados Especiais Federais. III - A natureza remuneratória da verba já vinha sendo observada para a finalidade de incidência da contribuição previdenciária, conforme diversos precedentes, v. g.: AgInt nos EDcl no REsp 1.724.339/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 18/9/2018, DJe 21/9/2018 e AgInt no REsp 1.784.950/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/2/2020, DJe 10/2/2020. IV - Recurso especial provido. (REsp 1697345/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 09/06/2020, DJe 17/06/2020). Grifou-se.
+Nesse sentido, verifica-se ainda:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. IMPOSSIBILIDADE DE EXCLUSÃO DOS DESCONTOS RELATIVOS À PARTICIPAÇÃO DO EMPREGADO NO CUSTEIO DO VALE-TRANSPORTE, AUXÍLIO-ALIMENTAÇÃO E AUXÍLIO SAÚDE/ODONTOLÓGICO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.1. O posicionamento do Superior Tribunal de Justiça é de que os descontos correspondentes à participação do empregado no custeio do vale-transporte, auxílio-alimentação e auxílio saúde/odontológico integram a remuneração do trabalhador e, por conseguinte, compõem a base de cálculo da contribuição previdenciária patronal e das contribuições destinadas ao RAT e a terceiros. Precedentes: AgInt no REsp 1946530/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022; AgInt no REsp 1955528/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/02/2022, DJe 02/03/2022; e AgInt no REsp 1936788/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/12/2021, DJe 09/12/2021.
+2. Agravo interno da contribuinte a que se nega provimento.
+(AgInt no REsp n. 1.955.670/RS, relator Ministro Manoel Erhardt (desembargador Convocado do Trf5), Primeira Turma, DJe de 11/5/2022). Grifou-se.
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. REINTEGRAÇÃO. PAGAMENTO DE VANTAGENS REMUNERATÓRIAS EM RELAÇÃO AO PERÍODO DE AFASTAMENTO ILEGAL DO CARGO. ABONO DE PERMANÊNCIA. AUXÍLIO-ALIMENTAÇÃO. INCLUSÃO DESSAS RUBRICAS NA BASE DE CÁLCULO. CABIMENTO. AGRAVO IMPROVIDO.1. Esta Corte Superior adota o entendimento segundo o qual, com a reintegração, devem ser assegurados todos os valores que o servidor público faria jus no período em que esteve ilegalmente afastado do cargo, restabelecendo-se, assim, o status quo ante. Cuida-se, portanto, da observância do princípio da restitutio in integrum, motivo pelo qual devem ser incluídas, na base de cálculo dos valores devidos, rubricas como o abono de permanência e o auxílio alimentação.2. Agravo interno improvido.(AgInt na ImpExe na ExeMS n. 20.553/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 8/3/2022). Grifou-se.
+Assim, observa-seque os argumentos do agravante não são suficientes para a alteração da decisão agravada no sentido de queov. acórdão de origem encontra-se em dissonância com a jurisprudência deste Tribunal Superior, o qualpossui orientação no sentido de que incide a contribuição previdenciária sobre o auxílio-alimentação pago habitualmente e em pecúnia.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
