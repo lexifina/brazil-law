@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática que conheceu do Agravo para não conhecer do Recurso Especial do ora agravante (fls. 549-559, e-STJ).
+A parte requer a reforma da decisão anterior (fls. 580-592, e-STJ). Contrarrazões presentes (fls. 595-599, e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. ENERGIA ELÉTRICA. RESOLUÇÃO DA ANEEL. CONVÊNIO ICMS 16/2015. NORMAS SECUNDÁRIAS. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que o Estado Agravante não foi capaz de comprovar sua alegação, assim julgando (fls. 204-211, e-STJ): "(..) Portanto, a parte impetrante não se enquadra na exigência normativa para obtenção da compensação de energia elétrica produzida por microgeração ou minigeração, que prevê potência instalada, respectivamente, menor ou igual a 75 KW e superior a 75 KW e menor ou igual a 1MW. De igual sorte, a parte impetrante não faz jus a isenção de ICMS para central geradora de energia elétrica que pretende instalar com potência instalada de 1,2MW. O Convênio do ICMS 16/2015 autoriza a isenção do tributo em casos em que a energia elétrica é produzida por microgeração ou minigeração com potência instalada menor ou igual a 75 KW e superior a 75 KW e menor ou igual a 1MW, nos termos do § 1º da Cláusula Primeira: (..)".
+2. Vê-se, portanto, que o Tribunal gaúcho decidiu que o impetrante ora agravado preenche os requisitos para fruição do benefício da isenção pretendida. Contrariar tal premissa demanda não só reexame probatório, vedado pela Súmula 7/STJ, como também a avaliação do teor do Convênio ICMS 16/2015, que é norma secundária produzida por autoridades administrativas, que não podem ser averiguadas via Recurso Especial.
+3. Pela mesma razão, descabe perscrutar a Resolução Normativa ANEEL 482/2012, cerne da argumentação recursal.
+4. "Extrai-se dos autos que o fundamento central do acórdão recorrido é o art. 218 da Resolução 414/2010 da ANEEL (com redação dada pela Resolução 479/2012). No entanto, o Recurso Especial não constitui, como regra, via adequada para julgamento de ofensa a resoluções, portarias ou instruções normativas quando analisadas isoladamente, sem vinculação direta ou indireta a dispositivos legais federais, por não estarem tais atos normativos compreendidos na expressão lei federal constante da alínea a do inciso III do artigo 105 da Constituição Federal." (AgInt no AREsp 1.255.309/SP, Rel. Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, DJe 29.4.2021).
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos ingressaram no Gabinete em 12.5.2022.
+O Agravo Interno não procede.
+O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que o Estado Agravante não foi capaz de comprovar sua alegação, assim julgando (fls. 204-211, e-STJ):
+No caso, conforme a prova documental carreada aos autos, a minigeradora de energia elétrica de fonte solar que o impetrante pretende instalar em sua unidade consumidora possui capacidade instalada de 1,2 MW, superior àquela prevista no art. 9º, do Regulamento do ICMS, com a redação do Decreto 52.964/2015: aplica-se somente à compensação de energia elétrica produzida por microgeração e minigeração, definidas na Resolução 482/2012 da ANEEL, cuja potência instalada seja, respectivamente, menor ou igual a 75 KW e superior a 75 KW e menor ou igual a 1 MW.
+Convém esclarecer que o Convênio ICMS 16/2015, que autorizou a concessão de isenção do tributo nos casos em que a energia elétrica é produzida por microgeração ou minigeração, prevê que a potência da fonte geradora deve possuir potência instalada menor ou igual a 75 KW e superior a 75 KW e menor ou igual a 1 MW, redação igual à reproduzida no art. 9º do RICMS.
+A isenção, ainda quando prevista em contrato, é sempre decorrente de lei que especifique as condições e requisitos para a sua concessão, os tributos a que se aplica, e, sendo o caso, o prazo de sua duração (art. 176 do CTN).
+Evidente, portanto, que o impetrante não preenche os requisitos para fruição do benefício da isenção pretendida na peça inicial.
+(..) Portanto, a parte impetrante não se enquadra na exigência normativa para obtenção da compensação de energia elétrica produzida por microgeração ou minigeração, que prevê potência instalada, respectivamente, menor ou igual a 75 KW e superior a 75 KW e menor ou igual a 1MW.
+De igual sorte, a parte impetrante não faz jus a isenção de ICMS para central geradora de energia elétrica que pretende instalar com potência instalada de 1,2MW.
+O Convênio do ICMS 16/2015 autoriza a isenção do tributo em casos em que a energia elétrica é produzida por microgeração ou minigeração com potência instalada menor ou igual a 75 KW e superior a 75 KW e menor ou igual a 1MW, nos termos do § 1º da Cláusula Primeira: (..)
+Vê-se que o Tribunal gaúcho decidiu que o impetrante ora agravado preenche os requisitos para fruição do benefício da isenção pretendida.
+Contrariar tal premissa demanda não só reexame probatório, vedado pela Súmula 7/STJ, como também a avaliação do teor do Convênio ICMS 16/2015, que é norma secundária produzida por autoridades administrativas, que não podem ser averiguadas via Recurso Especial.
+Pela mesma razão, descabe perscrutar a Resolução Normativa ANEEL 482/2012, cerne da argumentação recursal.
+Observem-se os precedentes, com grifos inclusos:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO. 1. RESOLUÇÃO E CIRCULAR DA SUSEP. NORMATIVO QUE NÃO SE CONFIGURA COMO LEI FEDERAL. (..) AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não constitui via adequada para a análise, nem sequer reflexa, de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea a do inciso III do art. 105 da Constituição Federal.
+(..) 4. Agravo interno desprovido.
+(AgInt no REsp 1850764/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 23.04.2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. ILUMINAÇÃO PÚBLICA. TRANSFERÊNCIA DE ATIVOS DAS CONCESSIONÁRIAS PARA OS MUNICÍPIOS (ATIVO IMOBILIZADO EM SERVIÇO - AIS). APRECIAÇÃO DO TEMA PELA CORTE DE ORIGEM COM ESTEIO EM RESOLUÇÃO DA ANEEL. EXAME NO RECURSO ESPECIAL. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Extrai-se dos autos que o fundamento central do acórdão recorrido é o art. 218 da Resolução 414/2010 da ANEEL (com redação dada pela Resolução 479/2012). No entanto, o Recurso Especial não constitui, como regra, via adequada para julgamento de ofensa a resoluções, portarias ou instruções normativas quando analisadas isoladamente, sem vinculação direta ou indireta a dispositivos legais federais, por não estarem tais atos normativos compreendidos na expressão lei federal constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+2. Impõe-se o não conhecimento do Recurso Especial quanto à alegação de afronta aos arts. 2º e 3º da Lei 9.427/1996; 29 da Lei 8.987/1995, porquanto seria meramente reflexa, sendo imprescindível para verificá-lo a analise da Resolução 414/2010, com redação dada pela Resolução 479/2012 da ANEEL.
+3. Agravo Interno desprovido. (AgInt no AREsp 1255309/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe 29.04.2021)
+Ante o exposto, nego provimento ao Agravo Interno.
+Ajuizar recurso protelatório ensejará reconhecimento de litigância de má-fé e aplicação das multas previstas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015.
+É como voto.
