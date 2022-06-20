@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno, interposto por TRANSTRIL COMÉRCIO E EXPORTAÇÃO LTDA, em face de decisão monocrática de minha relatoria(fls. 1.208/1.212, e-STJ), que conheceu do agravo para não conhecer do recurso especial da ora insurgente.
+O  apelo  extremo,  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de Minas Gerais,  assim  ementado  (fl.  1030,  e-STJ):
+Agravo de instrumento -Ação ordinária -Apuração e liquidação de créditos -Reserva de valores -Perícia contábil -Necessidade -Correta apuração do montante -Recurso a que se nega provimento. Uma vez delimitada a necessidade de perícia contábil para correta apuração dos valores devidos, sem a insurgência a tempo e modo pelo interessado, não se justifica a reserva de valores antes de realizada a diligência.
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa  aos  artigos  4, § 3º, e 130, caput, do Decreto-Lei nº 7.661/45 e 6º, § 3º, da Lei nº 11.101/2005.
+Sustenta,  em  síntese:
+  a)  ser detentora de crédito extraconcursal e fazer jus à reserva da quantia já calculada por perícia constante dos autos;
+b) ser "imprescindível a determinação da reserva do crédito devidamente apurado pelo i. Perito nos autos da Falência";
+c) que a decisão recorrida enseja "inquestionável prejuízo ao resultado útil do processo, possibilitando a Recorrente sofrer danos de improvável reparação, vez que o processo falimentar da Recorrida se encontra em estado avançado, tendo iniciado o pagamento dos créditos trabalhistas, embora, repita-se, a Transtril seja detentora de um crédito extraconcursal.".
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  competente  agravo  (fls.  1117/1120),  e-STJ
+Em decisão monocrática (fls. 1.208/1.212, e-STJ), conhecido agravo para negar provimento arecurso especial antea incidência das Súmulas 7 do STJ e 735/STF.
+Daí o presente agravo interno (fls. 1.216/1.239, e-STJ), no qual a parte agravante reitera as razões do recurso especial, bem como refuta os supramencionados óbices.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Para superar as conclusões a que chegou a Corte de origem, a fim de se reconhecer estarem presentes os requisitos necessários para o deferimento do pedido de tutela cautelar de urgência seria necessário o revolvimento das premissas fáticas que embasaram o aresto recorrido.
+2. É pacífico o entendimento desta Corte, em sintonia com o disposto naSúmula 735 do STF, de que, via de regra, "não é cabível recurso especialpara reexaminar decisão que defere ou indefere liminar ou antecipação detutela".
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. Consoante anteriormente decidido, aparte sustentouque estariampresentes os requisitos para o deferimento de reserva dos valores por ela titularizados em face da ora recorria. No particular, o Tribunal local concluiu pela ausência preenchimento dos requisitos autorizadores da medida, conforme se vê pelos trechos colacionados (fls. 1031/1033, e-STJ).
+Já na petição inicial, protocolada em Maio de 2013 (ordem 2), a parte autora pugnou pela concessão liminar da reserva de valores, ao argumento de que seu direito ao crédito seria clarividente, e que o processo falimentar da agravada já se encaminhava ao pagamento dos credores.
+O pedido foi indeferido em primeira instância, pronunciamento mantido incólume por esta Segunda Câmara Cível, ao fundamento de que os valores devidos à agravante dependiam de dilação probatória. Confira-se, por oportuno, a ementa do julgado:
+(..)
+Nesse viés, após a realização de perícia de engenharia florestal, para apuração da dimensão dos plantios (ordem 87), a agravante renovou o pedido de reserva de valores.
+Ocorre que, da análise dos autos, verifica-se que ainda pende a realização da perícia contábil requerida pela parte ré, deferida pelo juízo de origem ainda em 2017 (ordem 67), com a consignação de que somente seria realizada após a perícia de engenharia florestal (ordem 82):
+(..)
+Assim, considerando que a necessidade de realização de perícia contábil para a correta apuração dos valores é matéria estabilizada nos autos, não vislumbro razões para o atropelamento do procedimento, notadamente quando mantidas as razões pelas quais o primeiro pedido de reserva foi indeferido por este órgão fracionário.
+De mais a mais, não foi satisfatoriamente demonstrado o perigo de dano aos interesses da agravante caso seja previamente realizada a prova pericial, porquanto inexistentes quaisquer indícios de incapacidade financeira da massa falida para arcar com os valores devidos.
+Dessa forma, ausentes a probabilidade do direito e o perigo de dano, requisitos indispensáveis à concessão da tutela de urgência (artigo 300 do Código de Processo Civil), a manutenção da decisão agravada é medida que se impõe.
+Na hipótese, para desconstituir a conclusão do Tribunal a quo e analisar o preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional, tal como posta nas razões do apelo extremo, seria necessária a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ. Nesse sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA DEMONSTRADA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. ANTECIPAÇÃO DE TUTELA. REQUISITOS NÃO CONFIGURADOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO AUTÔNOMO DO ACÓRDÃO A QUO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.  ..
+4. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em regra, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação da norma que diga respeito ao mérito da causa. Precedentes.
+5. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, conclui pela ausência dos requisitos autorizadores da tutela antecipada. A alteração das conclusões a que chegaram as instâncias ordinárias demanda o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial (Súmula 7/STJ).
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1368435/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/06/2019, DJe 27/06/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO AGRAVO PARA RECONSIDERAR DELIBERAÇÃO ANTERIOR, PARA CONHECER DO AGRAVO E, DE PRONTO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Nos termos da orientação jurisprudencial consolidada por este Superior Tribunal de Justiça, é incabível, via de regra, o recurso especial em que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária. Incidência, por analogia, do enunciado contido na Súmula 735/STF.
+2. Para superar as conclusões a que chegou a Corte de origem, a fim de se reconhecer estarem presentes os requisitos necessários para o deferimento do pedido de tutela cautelar de urgência, previstos no art. 300, do CPC/15, seria necessário o revolvimento das premissas fáticas que embasaram o aresto recorrido. Incidência dos óbices das Súmulas 7 e 83/STJ.
+3. Agravo interno desprovido. (AgInt no AgInt nos EDcl no AREsp 1315614/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/05/2019, DJe 17/05/2019)  grifou-se
+PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. CONCESSÃO. REQUISITOS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO PURAMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. No que diz respeito ao deferimento da tutela de urgência, o Tribunal de origem consignou que "o aluno se encontra apto a ingressar no 1º ano do ensino fundamental, não justificando sua permanência na educação infantil pelo limite etário".
+2. A inversão do julgado necessita da análise dos requisitos previstos no art. 300 do CPC/2015, o que é inviável em Recurso Especial, por demandar o reexame da matéria fático-probatória, consoante o disposto na Súmula 7 do STJ.
+3. A questão jurídica controvertida da tutela de urgência pleiteada é unicamente de direito e puramente constitucional, o que exige a atuação do Supremo Tribunal Federal, guardião, em recursos excepcionais, das normas constitucionais pátrias.
+4. Recurso Especial não
+conhecido. (REsp 1718501/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2018, DJe 25/05/2018)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. COMPRA E VENDA IMÓVEL RURAL. TUTELA DE URGÊNCIA. ART. 300 CPC/2015. REQUISITOS. DEMONSTRAÇÃO. LIMINAR CONCEDIDA. INCIDÊNCIA SÚMULA 735/STF. REVISÃO. ENTENDIMENTO. VEDAÇÃO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO IMPROVIDO.
+1. É pacífico o entendimento desta Corte, em sintonia com o disposto na Súmula 735 do STF, de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes. Agravo regimental não provido. (AgRg no AREsp n. 581.358/RJ, Relator o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe 5/5/2015)".
+2. Para a revisão dos requisitos necessários ao deferimento da tutela de urgência, é necessário o revolvimento do conjunto fático-probatório dos autos, medida defesa em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.  ..
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1335857/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/03/2019, DJe 22/03/2019)  grifou-se
+No mesmo sentido, ainda, confira-se: AgInt no AREsp 738.273/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 24/04/2019; AgInt no AREsp 1250611/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018.
+Inafastável, portanto, o teor da Súmula 7/STJ.
+2. Destaca-se que revela-se incabível, em sede de recurso especial, o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada,
+Com efeito, entende esta Corte ser descabido, via de regra, o recurso especial que pretende o reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar. Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Aplicação, por analogia, da Súmula 735/STF, a saber: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+De rigor, portanto, a manutenção da decisão ora impugnada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
