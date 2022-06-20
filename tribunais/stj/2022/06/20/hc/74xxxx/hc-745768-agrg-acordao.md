@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trago àanáliseda Turma agravo regimental de JOSÉHENRIQUE DOS SANTOS PEREIRAcontra a decisão de fls. 159/163, mediante a qual indeferi liminarmente o pedido de habeas corpus, conforme esta ementa:
+HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. CAUSA ESPECIAL DE REDUÇÃO DA PENA.DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. REGIME PRISIONAL DEVIDAMENTE FIXADO. PRECEDENTES DO STJ E DO STF.INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+Argumenta o agravante, em resumo, que o presente remédio não é para discutir ou rever fatos, mas, sim, para adequar a dosimetria da pena que possui gritante ilegalidade. Defende também que foifixado regime inicial mais severosem qualquer justificativa que assegure tal medida. Requer seja o pleito analisado pelo colegiado.
+Não abri prazo para o agravado apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. RAZÕES QUE NÃO INFIRMARAM TODOS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica de todos os fundamentos do decisum combatido, que foram assim expostos (fls. 159/163):
+Trata-se dehabeas corpusajuizado em nome de JOSÉHENRIQUE DOS SANTOS PEREIRA,condenado pela prática do delito descrito no art. 33,caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, inicialmenteem regime fechado, e ao pagamento de 500 dias-multa (Processo n. 1500109-56.2020.8.26.0545, da 2ª Vara Criminal da comarca de Piracaia/SP),apontando-se como autoridade coatora oTRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Requer-se, em liminare no mérito, a concessão da ordem parareconhecer e aplicar a redutora do tráfico privilegiado em sua fração máxima, que o regime seja fixado mais brando, aberto, bem como a substituição da pena por restritiva de direitos; e,em caso de não reconhecimento da redutora, que seja fixado o regime mediano, semiaberto.
+É o relatório.
+Primeiramente, ao que parece, a sentença transitou em julgado em 3/2/2022.Nesse caso, o presentewrité sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal,julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido,HC n. 602.425/SC, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 6/4/2021; AgRg no HC n. 628.964/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/2/2021; AgRg no HC n. 521.849/SC,Ministra Laurita Vaz, Sexta Turma, DJe 19/8/2020; e AgRg no HC n. 632.467/SP, Ministro Felix Fischer, Quinta Turma, DJe 18/12/2020.
+De todo modo, ohabeas corpustem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso deapelação criminal, a recurso especial, a agravo em execução e arecurso em sentido estrito, tampouco deve vir com a pretensão de rediscutir fatos e provas, como na espécie.
+Tal procedimento seria indispensávelpara afastar a conclusão do Tribunal estadual de, no caso em apreço,negativa do redutor, com base na dedicação do réu às atividades criminosas e nos maus antecedentes(fl. 150). Conforme o acórdão ora combatido(fl. 153 - grifo nosso):
+ ..
+O processo nº 0002063-21.2014 (fls. 42/43 e consulta esaj) transitou em julgado em 15/02/2021. Portanto, não configura reincidência e simmaus antecedentes(já considerado na primeira fase da dosimetria).
+Em seguida, deve ser afastado o redutor concedido em Primeiro Grau, uma vez que osmaus antecedentesimpedem, expressamente, a concessão da benesse.
+Destaque-se, ainda, que ao ser ouvido em Juízo, JOSÉadmitiu não ter sido a primeira vez que transportou droga para outra pessoa, mais uma demonstração de dedicação ao tráfico.  ..
+Não está evidenciada nenhuma ilegalidade manifestadanem mesmo no que diz respeito ao regime aplicado, considerando, inclusive, a nossa jurisprudência, por exemplo:
+AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. MAUS ANTECEDENTES. REGIME E SUBSTITUIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como ser reconhecido o benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do réu, haja vista a vedação legal expressa da concessão desse redutor aos acusados possuidores de maus antecedentes.
+2. Consoante o enunciado na Súmula n. 636 do STJ, "A folha de antecedentes criminais é documento suficiente a comprovar os maus antecedentes e a reincidência.", tal como ocorreu no caso dos autos.
+3. Uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013),a escolha do regime inicial de cumprimento de pena deve levar em consideraçãoa quantidade da reprimenda imposta,a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal, com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+4. A Corte de origem manteve a imposição do regime inicial fechado, com base, justamente, nas peculiaridades do caso analisado, notadamente naexistência de maus antecedentese na elevada quantidade de drogas apreendidas, elementos que, de fato, justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada. Não há falar, portanto, em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ.
+ ..
+6.Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida também a negativa de substituição da pena privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP.
+7. Agravo regimental não provido.
+(AgRg no HC n. 736.513/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022 - grifo nosso).
+AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. REDUTOR DA PENA. INAPLICABILIDADE. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO ADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. " ..  a paciente possuimaus antecedentes, sendo, inclusive, a pena-base exasperada por conta dessa circunstância judicial desfavorável. Assim, ante o não preenchimento dos requisitos necessários, que são cumulativos,não há se falar em reconhecimento da redutora" (AgRg no HC 698.671/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 19/11/2021)..
+2. " ..  a fixação do regime fechado está concretamente fundamentada, haja vista aexistência de circunstâncias judiciais valoradas de forma negativa, o que efetivamente autoriza a escolha do regime mais gravoso" (AgRg no AREsp 1.664.921/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/8/2021).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 716.718/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/5/2022 - grifo nosso).
+No Supremo Tribunal Federal, o entendimento não é diferente, como se vê destes recentes julgados das duas Turmas:
+AGRAVO REGIMENTAL NOHABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRINCÍPIO DA COLEGIALIDADE. OFENSA NÃO CONFIGURADA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO.WRITSUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. ABSOLVIÇÃO. AUSÊNCIA DE PROVA DA AUTORIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DE DROGA APREENDIDA. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. REEXAME DE FATOS E PROVAS.MINORANTE DO ART. 33, §4º, DA LEI 11.343/2006. MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. REGIME PRISIONAL. SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. ALEGAÇÃO DEREFORMATIO IN PEJUS. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE OU ARBITRARIEDADE NÃO IDENTIFICADAS. INOVAÇÃO RECURSAL.
+1. Na dicção dos arts. 21, § 1º, e 192, do RISTF, que conferem ao Relator a faculdade de decidir monocraticamente o habeas corpus, inexiste ofensa ao princípio da colegialidade. Precedentes.
+2. Há óbice ao conhecimento dehabeas corpusimpetrado contra decisão monocrática - indeferitória, denegatória ou de não conhecimento de writ - do Superior Tribunal de Justiça, cuja jurisdição não se esgotou, ausente o manejo de agravo regimental. Precedentes.
+3. Inadmissível o emprego dohabeas corpuscomo sucedâneo de recurso ou revisão criminal. Precedentes.
+4. Para acolher a tese defensiva no sentido da ausência de prova da autoria delitiva, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes.
+5. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial, à míngua de previsão, no Código Penal, de rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena.
+6. A jurisprudência desta Corte entende que a invocação da natureza e da quantidade da droga, como fundamento da exasperação da pena-base, configura vetor suficiente a justificar a fixação da reprimenda acima do mínimo legal, tendo em conta o disposto no art. 42 da Lei 11.343/2006. Precedentes.
+7. Exasperação da pena-base devidamente fundamentada em critérios racionais e judicialmente motivados, e cuja resultante não se mostra flagrantemente desproporcional ao ponto de justificar, na via estreita do habeas corpus, a intervenção desta Suprema Corte.
+8. Inviável, como regra, a reavaliação das premissas fáticas ou a glosa de modelos de fixação da pena empregados pelos órgãos julgadores, ligados a aspectos discricionários da atividade dosimétrica. Precedentes.
+9.Aplicação da minorante do § 4º do art. 33 da Lei 11.343/2006 afastada pelas instâncias anteriores forte nos maus antecedentes do paciente. Precedentes.
+10.A fixação do regime inicial de cumprimento da pena não está condicionada somente aoquantumda reprimenda, mas também ao exame das circunstâncias judiciais do artigo 42 da Lei de Drogas e artigo 59 do Código Penal, conforme expressa remissão do art. 33, § 3º, do mesmo diploma legal. Precedentes.
+11. Inalterada a dosimetria da pena estabelecida pelas instâncias anteriores em patamar superior a 4 (quatro) anos de reclusão, incabível a substituição da pena privativa de liberdade por pena restritiva de direitos, nos termos do art. 44, I, do Código Penal.
+12. Inviável o exame de teses defensivas não analisadas pela Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+13. Alegação suscitada apenas por ocasião da interposição de agravo regimental configura inovação recursal, o que inviabiliza o conhecimento da matéria. Não se admite, em sede de agravo regimental, a ampliação objetiva da demanda, visando à análise de teses omitidas na impetração. Precedentes.
+14. Agravo regimental conhecido e não provido.
+(AgR no HC n. 208.260, Ministra ROSA WEBER, Primeira Turma, DJe 15/2/2022 - grifo nosso)
+AGRAVO INTERNO EMHABEAS CORPUS. TRÁFICO PRIVILEGIADO AFASTADO AO FUNDAMENTO DE DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO.HABEAS CORPUSINDEFERIDO.
+1. A conduta social,os maus antecedentes, a reincidência, o concurso de agentes, a quantidade de droga apreendida e as circunstâncias da apreensãosão elementos aptos a indicar a dedicação a atividade criminosa,fundamento idôneo para afastar a minorante do tráfico privilegiado.
+2.É inadmissível, na via estreita dohabeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva - ausência de dedicação a atividades criminosas -, do conjunto fático-probatório produzido pelas instâncias ordinárias.
+3. Agravo interno desprovido.
+(AgR no HC n. 210.774, MinistroNUNES MARQUES, Segunda Turma, DJe 28/4/2022 - grifo nosso)
+Ante o exposto,indefiro liminarmentea petição inicial (art. 210 do RISTJ).
+Caberia ao agravante, nas razões do regimental, rebater esses fundamentos, um a um, o que não se verifica da leitura da peça. Limitou-se a repetir, de forma bem genérica, a tese, refutada.
+É inviável, portanto, o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Ante o exposto, não conheço do agravo regimental.
