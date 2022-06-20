@@ -1,0 +1,87 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. DESCUMPRIMENTO DAS DECISÕES DO SUPREMO TRIBUNAL FEDERAL NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 664 E 484: PRECEDENTES. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada pelo Instituto Compartilha – Sameac (Sociedade de Assistência Maternidade Escola Assis Chateaubriand), em 14.6.2022, contra decisão proferida pelo Juiz de Direito da Segunda Vara Cível da comarca de Fortaleza/CE na Execução de Título Extrajudicial n. 0216904-47.2015.8.06.0001, pela qual teriam sido contrariadas as decisões prolatadas pelo Supremo Tribunal Federal nas Arguições de Descumprimento de Preceito Fundamental ns. 484 e 664. Consta da decisão reclamada:
+
+    “Ciente da decisão do Juízo Ad Quem, às fls. 1151/1165.
+
+    Com relação ao pedido de prejudicialidade externa, impende salientar que se sedimentou no Superior Tribunal de Justiça entendimento segundo o qual a ação revisional/declaratória intentada antes do ajuizamento da execução, por possuir natureza idêntica à dos embargos do devedor, deve acarretar a suspensão da execução, desde que garantido o juízo da execução. Julgados: (...)
+
+    No presente caso, a ação declaratória foi ajuizada após a ação executiva, além do mais o juízo executivo não encontra-se seguro, o que impede a suspensão do feito executivo pela prejudicialidade externa.
+
+    Ademais, não se verifica a relevância da fundamentação, na medida em que a pendência de ‘revisional ou declaratória’ não é fundamento bastante para suspender o feito executivo, pois, ao que se vê, a execução está bem aparelhada por título dotado de certeza, liquidez e exigibilidade.
+
+    Não obstante, não é justo com a parte exequente, tampouco razoável, permitir a paralisação do feito executivo sem, ao menos, estar garantida a execução, até porque a propositura da ação revisional/declaratória, por si só, não retira a certeza, liquidez e exigibilidade do título extrajudicial. Vejamos a jurisprudência: (…)
+
+    Desta forma, não merece prosperar a alegação de prejudicialidade externa com o objetivo de suspender a ação executiva, haja vista a inexistência de garantia do juízo.
+
+    Defiro o pedido da exequente, determinando-se a penhora das notas de empenho existentes em favor da parte executada, SAMEAC – SOCIEDADE DE ASSISTÊNCIA À MATERNIDADE ESCOLA ASSIS CHATEAUBRIAND (CNPJ nº 07.206.048/0002-80), perante os Municípios de Ipú-CE, Paracuru-CE e Santa QuitériaCE, até o limite da dívida ora executada, no valor de R$ 2.299.654,58 (dois milhões, duzentos e noventa e nove mil, seiscentos e cinquenta e quatro reais e cinquenta e oito centavos).
+
+    Intime-se a parte exequente, através do seu advogado, para proceder com o recolhimento das custas de expedição das cartas precatórias e diligências do Oficial de Justiça, para fins de intimação dos Municípios acima mencionados, através do seu procurador e, somente após o devido recolhimento, expeçam-se cartas precatórias determinando que os referidos Municípios procedam-se com a penhora na forma acima determinada, depositando-se em conta judicial vinculada ao presente processo, no prazo de 5 (cinco) dias, até ulterior deliberação.
+
+    Não há necessidade de sigilo da ordem, tampouco caráter de urgência, restando ausentes os requisitos para sua concessão. Após, apreciarei os demais pedidos. Intimem-se as partes acerca da presente decisão” (e-doc. 19).
+
+    2. A reclamante relata que “a SAMEAC foi criada em 1955, a partir de uma campanha popular idealizada pelos Diários e Rádios Associados do Ceará, para a construção da Maternidade Popular (Escola) Assis Chateaubriand” e que, “em janeiro de 1965 foi celebrado o primeiro Convênio entre a Universidade Federal do Ceará e a SAMEAC, estabelecendo que a Sociedade assumiria a responsabilidade de administrar a maternidade” (fl. 2).
+
+    Noticia que, “em maio de 1973, celebrou-se um novo Convênio entre a UFC e a SAMEAC, estendendo os serviços de gestão administrativa também para o Hospital Universitário Walter Cantídio, da Universidade Federal do Ceará (HUWC-UFC)” (fl. 2).
+
+    Afirma que “por uma desavença comercial, a empresa Esse Ene Comércio e Serviços Ltda passou a cobrar da reclamante em sede de execução valores correspondentes a prestação de serviço e locação de equipamento voltados ao funcionamento do hospital universitário da Universidade Federal do Ceará” (fl. 2).
+
+    Assevera que “a empresa ESSE ENE protocolou pedido de bloqueio de R$ 2.299.654,58 (dois milhões, duzentos e noventa e nove mil, seiscentos e cinquenta e quatro reais e cinquenta e oito centavos) nos empenhos que os municípios de Ipú, Paracuru e Santa Quitéria tinham em favor da reclamante” (fl. 3).
+
+    Assinala que, na decisão reclamada, determinou-se “a penhora dos empenhos que referidos municípios tinham em favor da reclamante” (fl. 3), apesar “de a relação entre Reclamante e os vertentes municípios [ser] constituída através de Termo de Fomento, tomando como base a Lei Federal nº 13019/2014, para fins de gestão da saúde no aspecto global, seja gestão hospitalar, gestão de UPA, gestão de Unidade Básica de Saúde, aquisição de insumos, manutenção da rede de saúde, folha de pagamento de servidores da saúde (médico(a)s, enfermeiro(a)s, serviços gerais), etc” (fl. 4).
+
+    Sustenta que “tal parceria tem como recurso único e exclusivo advindo do ente público, o qual nos termos do art. 51 da Lei 13019/2014 deverá ser depositado em conta única para sua movimentação financeira” (fl. 4) e que “relativa parceria fica adstrita a execução de projeto voltado a saúde municipal, tais como, gestão de Unidades Básicas de Saúde, Hospitais, Unidades de Pronto Atendimento – UPA, sendo repassado recurso ao Reclamante para empregar única e exclusivamente na referida gestão” (fl. 12).
+
+    Salienta que a decisão agravada ofende o decidido nas Arguições de Descumprimento de Preceito Fundamental ns. 484 e 664 (fl. 19).
+
+    Requer medida liminar, para “que seja SUSPENSA A DECISÃO proferida em sede da ação de execução nº 0216904-47.2015.8.06.0001 em trâmite na 2ª Vara Cível da Comarca de Fortaleza, sendo terminantemente proibido o bloqueio de empenhos, valores em conta específica da parceria ou outro meio que se faça menção a recursos transferidos pelo ente público a SAMEAC para mantença do termo de fomento, a fim de que seja respeitada a autoridade da decisão proferida pelo STF na ADFP 664/ES e 484/AP, até ulterior julgamento da presente reclamação” (fl. 24).
+
+    Pede a procedência da presente reclamação, “para declarar a impenhorabilidade de empenhos, valores em conta específica da parceria ou outro meio que se faça menção a recursos transferidos pelo ente público a SAMEAC para mantença do termo de fomento” (fl. 24).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    3. No parágrafo único do art. 161 do Regimento Interno deste Supremo Tribunal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    4. Põe-se em foco nesta reclamação se a autoridade reclamada teria contrariado as decisões proferidas pelo Supremo Tribunal Federal nas Arguições de Descumprimento de Preceito Fundamental ns. 484 e 664, ao determinar a penhora das notas de empenho pendentes em favor da reclamante perante os Municípios cearenses de Ipú, Paracuru e Santa Quitéria.
+
+    5. Em 4.6.2020, ao examinar a Arguição de Descumprimento de Preceito Fundamental n. 484/AP, Relator o Ministro Luiz Fux, este Supremo Tribunal declarou inconstitucionais medidas de constrição judicial proferidas pelo Tribunal Regional do Trabalho da 8ª Região, pelo Tribunal Regional Federal da 1ª Região e pelo Tribunal de Justiça do Estado do Amapá, em desfavor do Estado do Amapá, das Caixas Escolares ou das Unidades Descentralizadas de Execução da Educação UDEs, que recaiam sobre verbas destinadas à educação e para afastar a submissão ao regime de precatório das Caixas Escolares ou Unidades Descentralizadas de Educação, pela sua natureza jurídica de direito privado, de não integrar a Administração Pública, de não compor o orçamento público e da razão inspiradora da gestão descentralizada da coisa pública. É a ementa desse julgado:
+
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. INTERPRETAÇÃO JUDICIAL COMO OBJETO DE CONTROLE. POSSIBILIDADE. SUBSIDIARIEDADE. INEXISTÊNCIA DE OUTRO MEIO PARA SANAR A LESÃO OU AMEAÇA EM CARÁTER AMPLO. DECISÕES JUDICIAIS QUE RESULTARAM NO BLOQUEIO, PENHORA OU SEQUESTRO, PARA O FIM DE PAGAMENTO DE DÍVIDAS TRABALHISTAS, DE VERBAS DO ESTADO DO AMAPÁ, DAS CAIXAS ESCOLARES E DAS UNIDADES DESCENTRALIZADAS DE EXECUÇÃO DA EDUCAÇÃO – UDE S, DESTINADAS À MERENDA, AO TRANSPORTE DE ALUNOS E À MANUTENÇÃO DAS ESCOLAS PÚBLICAS. OFENSA AOS PRINCÍPIOS DA SEPARAÇÕES DOS PODERES E DO FOMENTO À EDUCAÇÃO. NATUREZA PRIVADA DAS UNIDADES EXECUTORAS. REPASSE DE VERBAS. DESCENTRALIZAÇÃO DA GESTÃO FINANCEIRA. NÃO CARACTERIZAÇÃO DAS PRERROGATIVAS DA FAZENDA PÚBLICA. NÃO SUJEIÇÃO AO REGIME DE PRECATÓRIO ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL CONHECIDA E JULGADO PARCIALMENTE PROCEDENTE O PEDIDO” (DJe 10.11.2020).
+
+    6. Na Arguição de Descumprimento de Preceito Fundamental n. 664, Relator o Ministro Alexandre de Moraes, este Supremo Tribunal declarou inconstitucionais as decisões judiciais pelas quais determinada a constrição de verbas públicas oriundas do Fundo Estadual de Saúde em contas vinculadas a contratos de gestão ou termos de parceria para a execução de ações de saúde pública:
+
+    “CONSTITUCIONAL. FINANCEIRO. CONSTRIÇÃO DE RECEITAS PÚBLICAS POR DECISÕES JUDICIAIS. RECURSOS DE FUNDO ESTADUAL DE SAÚDE DESTINADOS À EXECUÇÃO DE ATIVIDADES VIA CONTRATOS DE GESTÃO FIRMADOS PELO ESTADO DO ESPÍRITO SANTO COM ENTIDADES DE TERCEIRO SETOR. INDEPENDÊNCIA ENTRE OS PODERES E LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO JULGADA PROCEDENTE. 1. Decisões judiciais que determinam o bloqueio, penhora ou liberação, para satisfação de créditos trabalhistas, de receitas públicas oriundas do Fundo Estadual de Saúde objeto de contratos de gestão firmados entre o Estado do Espírito Santo e entidades de terceiro setor violam o princípio da legalidade orçamentária (art. 167, VI, da CF), o preceito da separação funcional de poderes (art. 2º c/c art. 60, § 4º, III, da CF), o princípio da eficiência da Administração Pública (art. 37, caput, da CF) e o princípio da continuidade dos serviços públicos (art. 175 da CF). Precedentes: ADPF 275, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 17/10/2018, DJe de 27/6/2019; ADPF 556, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 14/2/2020, DJe de 6/3/2020; ADPF 620-MC-Ref, Rel. Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 3/4/2020, DJe de 12/5/2020; ADPF 484, Rel. Min. LUIZ FUX, Tribunal Pleno, julgado em 4/6/2020, pendente publicação de acórdão; entre outros julgados. 2. Medida Cautelar confirmada e ação julgada procedente” (DJe 4.5.2021).
+
+    7. Na espécie em exame, a autoridade reclamada assentou:
+
+     “(...) Defiro o pedido da exequente, determinando-se a penhora das notas de empenho existentes em favor da parte executada, SAMEAC – SOCIEDADE DE ASSISTÊNCIA À MATERNIDADE ESCOLA ASSIS CHATEAUBRIAND (CNPJ nº 07.206.048/0002-80), perante os Municípios de Ipú-CE, Paracuru-CE e Santa QuitériaCE, até o limite da dívida ora executada, no valor de R$ 2.299.654,58 (dois milhões, duzentos e noventa e nove mil, seiscentos e cinquenta e quatro reais e cinquenta e oito centavos).
+
+    Intime-se a parte exequente, através do seu advogado, para proceder com o recolhimento das custas de expedição das cartas precatórias e diligências do Oficial de Justiça, para fins de intimação dos Municípios acima mencionados, através do seu procurador e, somente após o devido recolhimento, expeçam-se cartas precatórias determinando que os referidos Municípios procedam-se com a penhora na forma acima determinada, depositando-se em conta judicial vinculada ao presente processo, no prazo de 5 (cinco) dias, até ulterior deliberação” (fl. 2, e-doc. 19).
+
+    8. A reclamante recebe repasse de verbas públicas para prestação de serviços públicos de saúde, mediante contratos de gestão e termos de parceria para a execução de ações de saúde pública firmados com o Poder Público. O seu faturamento não está totalmente sob a proteção definida nos paradigmas de controle, restrita apenas aos recursos públicos recebidos para aplicação compulsória em educação, saúde ou assistência social.
+
+    Entretanto, no caso em exame, os elementos dos autos indicam que a penhora incidiu sobre as notas de empenho existentes em favor do Instituto Compartilha – Sameac (Sociedade de Assistência Maternidade Escola Assis Chateaubriand perante os Municípios cearenses de Ipú, Paracuru e Santa Quitéria, onde se encontram valores alusivos a termos de parceria para execução de ações de saúde pública e contratos de gestão da saúde dos referidos Municípios, o que contraria o assentado nas decisões invocadas como paradigmas.
+
+    Nesse sentido a jurisprudência deste Supremo Tribunal na matéria. Confiram-se, por exemplo, os seguintes julgados:
+
+    “RECLAMAÇÃO. CONSTITUCIONAL. DESCUMPRIMENTO DE DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL NS. 275/PB E 485/AP. RECLAMAÇÃO JULGADA PROCEDENTE” (Rcl n. 46.737, de minha relatoria, decisão monocrática transitada em julgado, DJe 7.7.2021).
+
+    “AGRAVO INTERNO. RECLAMAÇÃO CONSTITUCIONAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO DEVER DE DIALETICIDADE. APLICAÇÃO DO ART. 317, § 1º, DO RISTF. EXECUÇÃO. CONSTRIÇÃO DE VERBAS DO ESTADO DO RIO DE JANEIRO PARA SATISFAÇÃO DE DÉBITO TRABALHISTA. ALEGAÇÃO DE VIOLAÇÃO DO QUE DECIDIDO NAS ADPF’S 405, 664 E 485. PEDIDO DA RECLAMAÇÃO JULGADO PROCEDENTE. UTILIZAÇÃO DO INSTRUMENTO COMO SUCEDÂNEO DE RECURSO. INVIABILIDADE. AGRAVO INTERNO NÃO CONHECIDO. 1. Ausência de regularidade formal do recurso em apreço, ante a inexistência de impugnação específica dos fundamentos da decisão agravada, nos termos do art. 317, § 1º, do Regimento Interno do Supremo Tribunal Federal, do art. 1.021, § 1º, do CPC e da jurisprudência desta Casa. 2. O ato reclamado, ao determinar o bloqueio de receita do Estado do Rio de Janeiro para quitação de verbas trabalhistas devidas por empresas privadas (organizações sociais e empresas contratadas para a gestão de unidades estaduais de saúde) está em desacordo com a jurisprudência vinculante desta Suprema Corte. 3. Incabível a reclamação quando invocado como paradigma de controle decisório julgado destituído de efeito vinculante, tendo em vista que este vincula apenas as partes do processo, não podendo ser estendidos a terceiros alheios à relação jurídica processual, como na SL 47 AgR. 4. A reclamação constitucional não consubstancia sucedâneo recursal. Inviabilidade de acolhimento dos pleitos de declaração de inconstitucionalidade de lei ou de expedição de ofício a membro do Ministério Público para apurar conduta de autoridade pública. 5. Agravo interno não conhecido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor arbitrado à causa, se unânime a votação” (Rcl n. 45.276-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 11.5.2022).
+
+    “AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ADPF’S 114/PI E 275/PB. FUNDO ESTADUAL DE SAÚDE. CONTRATOS DE GESTÃO. TERCEIRO SETOR. CONSTRIÇÃO JUDICIAL. GARANTIA. PAGAMENTO. DÉBITO TRABALHISTA. IMPOSSIBILIDADE. OFENSA À AUTORIDADE DE DECISÃO DO STF. ADPF 664/ES. RECLAMAÇÃO JULGADA PROCEDENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – Esta Corte já decidiu que o bloqueio, penhora ou liberação para satisfação de créditos trabalhistas de receitas públicas oriundas do Fundo Estadual de Saúde, objeto de contratos de gestão firmados entre o Estado do Espírito Santo e entidades de terceiro setor, violam os princípios da legalidade orçamentária, da separação funcional de poderes, da eficiência da Administração Pública e da continuidade dos serviços públicos (art. 175 da CF). Precedentes. III – Agravo regimental a que se nega provimento” (Rcl n. 41.170-ED-segundos-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 17.6.2021 ).
+
+    Na espécie, a constrição de recursos públicos consistente na penhora de notas de empenho em favor do reclamante decorrentes de termos de parceria para execução de ações de saúde pública e atividades de gestão da saúde nos Municípios cearenses de Ipú, Paracuru e Santa Quitéria, como determinado pela autoridade reclamada, representa risco à regularidade da prestação dos serviços públicos hospitalares e descumpre as decisões proferidas pelo Supremo Tribunal Federal nas Arguições de Descumprimento de Preceito Fundamental ns. 484 e 664.
+
+    9. Pelo exposto, julgo procedente a presente reclamação para cassar a decisão questionada e determinar à autoridade reclamada a observância do que decidido nos julgamentos das Arguições de Descumprimento de Preceito Fundamental ns. 484 e 664 (parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 20 de junho de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
