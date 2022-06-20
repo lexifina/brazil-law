@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravointerposto por MARLY DA SILVEIRAcontra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que negou seguimento a seu recurso especialcom respaldo na alínea "a"do permissivo constitucional, em desafio aacórdão assim ementado (e-STJ fl. 642):
+PREVIDENCIÁRIO. TEMPO ESPECIAL. COISA JULGADA. OCORRÊNCIA.
+1. Havendo identidade de partes, de pedido e de causa de pedir, em relação ao período postulado como tempo especial, deve ser extinto o feito sem julgamento do mérito, face ao reconhecimento de existência de coisa julgada. 2. Inviabilidade de se acolher a tese da formação da coisa julgada secundum eventum probationis, fundada em novas provas, se o pedido foi examinado em ação anterior, que foi extinta, com julgamento de mérito.
+Embargos de declaração rejeitados (e-STJ fls. 682/689).
+Em suas razões, a parte autora aponta violação do art.1.022, II, parágrafo único, I e II, c/c o art. 489, § 3º,ambos do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 320,485, IV, 486, 502 e 503, § 2º,do CPC/2015, postulando, em suma, a relativização da coisa julgada, argumentando haver julgados desta Corte no sentido de que o precedente proferido no REsp n. 1.352.721/SP deve ser aplicado mesmo quando o primeiro processo é extinto com resolução de mérito.
+Sem contrarrazões. Após juízo negativo de admissibilidade pelo Tribunal de origem, o agravante formulou o presente agravo.
+Passo a decidir.
+De início, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No mérito, de igual modo, não assiste razão à parte insurgente.
+A Corte Especial, no julgamento do REsp n. 1.352.721/SP, consignou que "a ausência de conteúdo probatório eficaz a instruir a inicial, determinada pelo art. 283 do CPC/1973, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC), e possibilitando ao autor a chance de intentar novamente a ação (art. 268 do CPC)," desde que atendidos os elementos necessários a tal iniciativa (REsp n. 1.352.721-SP, rel. MinistroNapoleão Nunes Maia Filho, Corte Especial, julgado em 16/12/2015, DJe 28/04/2016).
+Idêntica compreensão foi reafirmada na Primeira Seção, com a ressalva de meu entendimento.
+É o que se lê do aresto infra:
+DIREITO PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA POR IDADE RURAL. AUSÊNCIA DE PROVA MATERIAL APTA A COMPROVAR O EXERCÍCIO DA ATIVIDADE RURAL. CARÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO.
+EXTINÇÃO SEM JULGAMENTO DO MÉRITO. RECURSO ESPECIAL DO INSS DESPROVIDO.
+1. Tradicionalmente, o Direito Previdenciário se vale da processualística civil para regular os seus procedimentos, entretanto, não se deve perder de vista as peculiaridades das demandas previdenciárias, que justificam a flexibilização da rígida metodologia civilista, levando-se em conta os cânones constitucionais atinentes à Seguridade Social, que tem como base o contexto social adverso em que se inserem os que buscam judicialmente os benefícios previdenciários.
+2. As normas previdenciárias devem ser interpretadas de modo a prestigiar os valores morais albergados pela Constituição Federal/1988; assim, deve-se procurar encontrar na hermenêutica previdenciária a solução que mais se aproxime do caráter social da Carta Magna, a fim de que as normas processuais não venham a obstar a concretude do direito fundamental à prestação previdenciária a que faz jus o segurado, quando preenchidos os requisitos próprios.
+3. A ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC), com a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa.
+4. Recurso Especial do INSS desprovido.
+(REsp 1352875/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 22/02/2017, DJe 20/03/2017) (Grifos acrescidos).
+No entanto, impende ressaltar que a excepcionalidade da flexibilização da norma processual reconhecida em ambos os julgados repetitivos aplicou-se ao processo em curso, ainda sem o trânsito em julgado, e não a demandas diversas, já alcançadas pelo efeito da imutabilidade, como na espécie.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECONHECIMENTO DE TEMPO ESPECIAL. RELAÇÃO JURÍDICA DE TRATO SUCESSIVO. COISA JULGADA SECUNDUM EVENTUM PROBATIONIS. NÃO CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.352.721/SP. RESSALVA DO PONTO DE VISTA DO RELATOR. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada observou o Recurso Especial Repetitivo 1.352.721/SP, julgado em 16/12/2015.
+2. Referido precedente vinculante não aproveita a situação do ora agravante, porque é dirigido ao processo civil em curso, ainda sem decisão transitada em julgado. No presente caso, a coisa julgada já se formou e sob a classificação de coisa julgada material. Este fenômeno não tem como ser alterado. A tese jurídica que propus naquele julgamento perante à Corte Especial ficou vencida, por isso não deve ser observada.
+3. Agravo interno não provido.
+(AgInt no REsp 1572373/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/09/2017, DJe 25/09/2017).
+No caso dos autos, o acórdão da instância ordinária consignouque a parte autora já havia ajuizado uma ação anterior, perante oJuizadoEspecial, com o mesmo pedido e causa de pedir, tendo aquela sido julgada improcedente, motivo pelo qual merece ser mantido. Incidência da Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
