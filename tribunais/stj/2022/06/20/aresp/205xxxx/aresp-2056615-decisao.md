@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo, manejado por CENTRAIS ELÉTRICAS BRASILEIRAS S.A, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 155):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. JUROS DE MORA. IMPUTAÇÃO. DEPÓSITOS JUDICIAIS PARA VIABILIZAR A OPOSIÇÃO DE IMPUGNAÇÃO. AMORTIZAÇÃO. DIFERENÇAS. REMUNERAÇÃO. LEI Nº 9.289, DE 1996.
+A parte recorrente aponta violação aos arts. 352, 354 e 355 do CC; e 805 do CPC. Sustenta, em resumo, que "o decisum negou vigência ao art. 355 do CPC, violando frontalmente o princípio da menor onerosidade da execução, bem como considerou que os juros de mora devem ser pagos antes dos juros remuneratórios, com fulcro no art. 354 do Código Civil" (fl. 169), sendo que "no caso concreto, restou consignado que se tratam de várias dívidas de natureza distintas, as quais, com a intimação ao pagamento do valor homologado, passaram a ter o mesmo termo de vencimento. Além disso, não houve imputação ao pagamento. Isso porque o cálculo apresentado pela Executada é tão somente mera parametrização, rubrica por rubrica, para o cálculo do valor incontroverso e não se confunde com o apontamento de qual débito deve ser quitado primeiramente" (fl. 173).
+Contrarrazões apresentadas às fls. 182/190.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na hipótese dos autos, a instância originária assim se manifestou quanto à ordem de imputação dos pagamentos (fls. 158/159):
+Em que pesem as alegações da parte agravante, a decisão agravada, ao estabelecer que a imputação de pagamento seja feita primeiro sobre os juros de mora e depois sobre os juros remuneratórios e principal,observou a sistemática estabelecida nos arts. 352-355 do Código Civil, já que,conforme entende esta Segunda Turma, os valores referentes a juros remuneratórios, nas ações em que se discute critérios de atualização na restituição do empréstimo compulsório de energia elétrica, equivalem ao valor do principal, devendo por isso serem satisfeitos após a imputação realizada sobre os juros moratórios (CC, art. 354: Havendo capital e juros, o pagamento imputar-se-á primeiro nos juros vencidos..). Confira-se a síntese dos seguintes julgados:
+ ..
+Assim, devem ser mantidas as diretrizes de cálculo estabelecidas pelo juízo da execução quanto à imputação do pagamento, caso em que não há motivos para reforma da decisão agravada no ponto.
+Como se vê, o Tribunala quo não dirimiu a controvérsia sob o enfoque dos argumentos da parte, calcados na aplicação do princípio da menor onerosidade e na tese de que o art. 354 do CC não trata de juros moratórios.Tampouco foram opostos embargos declaratórios para suprir eventual omissão, situação que atrai o óbice da Súmula 282/STF. Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AÇÃO CIVIL PÚBLICA. CUMULAÇÃO DE CONDENAÇÕES. OBRIGAÇÃO DE FAZER E DE INDENIZAR. POSSIBILIDADE. PRECEDENTES. COMODATO VERBAL. OCUPAÇÃO PRECÁRIA. FUNDAMENTOS BASILARES DO ACÓRDÃO RECORRIDO INATACADOS. SÚMULA 283/STF.
+1. Inexistindo, na Corte de origem, efetivo debate sobre a tese jurídica veiculada nas razões do recurso especial, resta descumprido o requisito do prequestionamento, conforme dispõe a Súmula 282/STF.
+2.  ..
+4. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 482.717/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 15/3/2016, DJe 29/3/2016)
+Ademais, é evidente que o debate pertinente ao cumprimento, ou não, dos requisitos de incidência do art. 355 do CC demanda, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
