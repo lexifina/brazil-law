@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIZA NUNES DO AMARAL, com respaldonas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado (e-STJ fls. 220/221):
+ADMINISTRATIVO. PENSÃO POR MORTE. EX-COMBATENTE. APLICAÇÃO DA LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR DA PENSÃO. LEI 8.059/90. FILHA INVÁLIDA. ÓBITO DA GENITORA PENSIONISTA. TRANSFERÊNCIA DE COTA-PARTE. IMPOSSIBILIDADE. APELAÇÃO IMPROVIDA.
+1. O cerne da controvérsia posta a deslinde é saber se a autora faz jus (ou não) a transferência de cota-parte da pensão deixada pela genitora e pensionista, na condição de filha inválida do ex-combatente, falecido em 02 de dezembro de 2016.
+2. Na hipótese vertente, a condição de ex-combatente é incontroversa, já que a genitora da demandante recebeu pensão especial de ex-combatente até a data de seu óbito, resta analisar se a filha inválida do falecido tem direito (ou não) à transferência da cota-parte do benefício antes percebido pela viúva.
+3. O douto Juiz monocrático julgou improcedente o pedido de transferência de cota-parte de pensão especial de ex-combatente.
+4. Cumpre esclarecer que é entendimento pacífico nos Tribunais que a lei que regula a pensão especial é aquela vigente por ocasião do óbito do ex-combatente.
+5.In casu, tendo o instituidor do benefício falecido em 02 de dezembro de 2016, consoante certidão deóbito acostada, deve ser aplicada a Lei 8.059/90.
+6. No caso dos autos, mesmo que se considere a autora como filha inválida do ex-combatente, não é possível a transferência da cota-parte do benefício percebido pela genitora da postulante, a teor do art. 14, Parágrafo único da Lei 8.059/90.
+7. Apelação do particular improvida.
+Em suas razões, a parte recorrente aponta, além de dissídio pretoriano (REsp651.431/RJ), violaçãodoart. 53, II, III e parágrafo único, do ADCT e dos arts. 1º, 3º e 20 daLei n. 8.059/1990, argumentando que possui o direito àreversão da totalidade do benefício instituído, pois atendidas as formalidades legais para a habilitação à totalidade da pensão e antea inconstitucionalidade do impeditivo à reversão da totalidade da pensão trazido pelo art. 14 daLei n. 8.059/1990.
+Contrarrazões às e-STJ fls. 302/309.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 319.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+No pertinente à alegação de violação do art. 53, II, III e parágrafo único, do ADCT, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. COMPENSAÇÃO TRIBUTÁRIA. PRECATÓRIO JUDICIAL. INEXISTÊNCIA DE LEI AUTORIZATIVA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE.
+1. Conforme entendimento firmado pelas turmas que compõem a Seção de Direito Público, para haver a compensação almejada, deve haver lei autorizando a compensação, não havendo, portanto, autoaplicabilidade do art. 170 do CTN, mas existência de norma para uniformizar o procedimento de compensação. Precedentes.
+2. "Não é possível, em sede de Recurso Especial, analisar matéria de compensação tributária em face do poder liberatório dos precatórios de que se trata o art. 78, § 2º, do ADCT da CF/88, por demandar interpretação de dispositivo de natureza constitucional, cuja competência é exclusiva da Suprema Corte, porquanto o referido dispositivo não se enquadra no conceito de lei federal, nos termos do art. 105, III, "a", da Constituição Federal. Precedentes do STJ (AgRg no AREsp 387.186/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/12/2013)." (AgRg no AREsp 72.525/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/09/2014, DJe 23/09/2014).
+Agravo regimental improvido.
+(AgRg no AREsp 834.726/SC, rel. Ministro HUMBERTO MARTINS, Segunda Turma,DJe 08/03/2016) (Grifos acrescidos)
+Mostra-se pertinente transcrever trecho do acórdão ora recorrido (e-STJ fl. 229):
+1. O cerne da controvérsia posta a deslinde é saber se a autora faz jus (ou não) a transferência de cota-parte da pensão deixada pela genitora e pensionista, na condição de filha inválida do ex-combatente José Ribeiro do Amaral, falecido em 02 de dezembro de 2016.
+2. Na hipótese vertente, a condição de ex-combatente é incontroversa, já que a genitora da demandante recebeu pensão especial de ex-combatente até a data de seu óbito, resta analisar se a filha inválida do falecido tem direito (ou não) à transferência da cota-parte do benefício antes percebido pela viúva.
+3. O douto Juiz monocrático julgou improcedente o pedido de reversão de pensão especial de ex-combatente.
+4. Cumpre esclarecer que é entendimento pacífico nos Tribunais que a lei que regula a pensão especial é aquela vigente por ocasião do óbito do ex-combatente.
+5. In casu, tendo o instituidor do benefício falecido em 02 de dezembro de 2016, consoante certidão deóbito acostada, deve ser aplicada a Lei 8.059/90, que regulamentou o art. 53, II do ADCT, em seus artigos 5º e 6º assim dispõe:
+ ..
+6. Pelo dispositivo acima transcrito depreende-se que, para fazer jus ao benefício em questão, a filha do instituidor maior de 21 anos tem que comprovar a sua condição de inválida, de maneira a evidenciar a dependência econômica em relação ao ex-combatente.
+7. No caso dos autos, mesmo que se considere a autora como filha inválida do ex-combatente, não é possível a transferência da cota-parte do benefício percebido pela genitora da postulante, a teor do art. 14, Parágrafo único da Lei 8.059/90, in verbis:  .. . (Grifos acrescidos)
+Em relação à alegada ofensa dos arts.1º, 3º e 20 da Lei n. 8.059/1990,o aresto recorrido está em conformidade com o entendimento do STJ de que a pensão especial instituída na vigência da Lei n. 8.059/1990, em favor de mais de um beneficiário, não comporta a reversão da cota-parte àquele que permaneça vivo, após o óbito do outro pensionista, por haver vedação legal expressa (AgRg no REsp 1.383.127/SC, rel. Ministro HERMAN BENJAMIN, Segunda Turma,DJe 18/06/2014).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PENSÃO POR MORTE DE EX-COMBATENTE. REVERSÃO. APLICAÇÃO DA LEI VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. PREENCHIMENTO DOS REQUISITOS LEGAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "No caso dos autos, o instituidor da pensão faleceu na vigência da Lei 8059/90. Portanto, não tem a autora direito reversão pleiteada."
+2. Com efeito, no tocante à reversão da pensão especial de ex-combatente, o Superior Tribunal de Justiça firmou o entendimento de que deve ser regida pelas normas vigentes na data do óbito do instituidor (tempus regit actum).
+3. Ao que se tem dos autos, o instituidor da pensão faleceu em 5.4.1992, ou seja, na vigência da Lei 8.059/1990, razão por que a parte recorrente não tem direito à reversão pleiteada. A alteração do entendimento contido no acórdão recorrido demanda reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Constato inicialmente que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado .
+4. Por fim, o Superior Tribunal de Justiça tem entendido que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1572985/PE, rel. Ministro HERMAN BENJAMIN, Segunda Turma,DJe 27/02/2020)(Grifos acrescidos)
+ADMINISTRATIVO. EX-COMBATENTE. PENSÃO ESPECIAL. LEI N. 8.059/1990. COTA-PARTE. REVERSÃO. IMPOSSIBILIDADE.
+1. A pensão especial instituída na vigência da Lei n. 8.059/1990 em favor de mais de um beneficiário não comporta a reversão da cota-parte àquele que permaneça vivo, após o óbito do outro pensionista, por haver vedação legal expressa.
+2. Agravo interno desprovido.
+(AgInt no REsp 1829896/PE, de minha relatoria, Primeira Turma, DJe 12/12/2019)(Grifos acrescidos)
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional.
+No que tange à alegação deinconstitucionalidade do art. 14, parágrafo único, da Lei n. 8.059/1990, da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre o tema,tampouco foram opostos embargos de declaração para fins de prequestionamento, incidindo, assim, as Súmulas 282 e 356 do STF.
+Nesse sentido:
+RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AÇÃO CIVIL PÚBLICA CONTRA EX-GOVERNADOR. LEGITIMIDADE PRIVATIVA DO PROCURADOR GERAL DE JUSTIÇA. INAPLICABILIDADE. INCONSTITUCIONALIDADE E RESTRIÇÃO DA APLICAÇÃO DO ART. 29, VIII, DA LEI N. 8.625/93. AUSÊNCIA PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PROVIDO.
+ ..
+V - A obrigatoriedade do ajuizamento de ação civil pública por improbidade administrativa pelo Procurador-Geral de Justiça se restringe aos casos em que o agente público réu, ao tempo da propositura da demanda, ocupe o cargo de Governador do Estado, de Presidente da Assembleia Legislativa ou de Presidente de Tribunal, o que não ocorre no presente caso.
+VI - No tocante à arguição de inconstitucionalidade do art. 29, VIII, da Lei n. 8.625/93, bem como ao pedido subsidiário de limitação de aplicação da referida norma ao âmbito criminal, não houve debate nem decisão sobre tais temas, razão pela qual deixo de conhecer das respectivas argumentações por ausência de prequestionamento. Súmulas n. 282 e 356/STF.
+VII - Recurso especial parcialmente conhecido, e, na parte conhecida, provido.
+(AREsp 1505206/AP, rel. Ministro FRANCISCO FALCÃO, Segunda Turma,DJe 22/10/2019) (Grifos acrescidos).
+PROCESSUAL CIVIL. INTERPOSIÇÃO SUCESSIVA DE DOIS AGRAVOS REGIMENTAIS. IMPOSSIBILIDADE DE CONHECIMENTO DO SEGUNDO EM FACE DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. PRETENSÃO DE RECONHECIMENTO DA INCONSTITUCIONALIDADE DE LEI MUNICIPAL EM RECURSO ESPECIAL. COMPETÊNCIA DO STF. QUESTÃO NÃO DISCUTIDA NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE EMISSÃO DE JUÍZO DE VALOR PELO ÓRGÃO JULGADOR. SÚMULA 282/STF. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO.
+1. Em razão do princípio da unirrecorribilidade recursal, não se pode conhecer do Agravo Regimental interposto por meio da petição de fls. 243-257, e-STJ, ante a preclusão consumativa ocorrida com a prévia interposição do presente Agravo Regimental (fls. 258-272, e-STJ).
+2. O agravante pretende que o STJ reconheça, em Recurso Especial, a inconstitucionalidade do art. 4º da Lei Municipal 11.772/95, que embasa o pedido de reajuste dos vencimentos dos recorridos, tendo em vista a existência de decisão nesse sentido proferida pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo.
+3. Refoge da competência do STJ realizar, em Recurso Especial, controle de constitucionalidade de lei municipal em face da Constituição Federal, sob pena de usurpar competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional. Precedentes do STJ.
+4. Não prospera o argumento de que o objeto do recurso versa matéria de ordem pública e, nessa condição, dela se pode conhecer a qualquer tempo e em qualquer grau de jurisdição. Os precedentes do Superior Tribunal de Justiça informam a necessidade de prequestionamento mesmo em questões desse jaez.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1559149/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma,DJe 05/02/2016)(Grifos acrescidos).
+Ademais, ainda quanto à aludida tese de inconstitucionalidade,cumpre destacarque, embora o recurso especial indique a violação dedispositivos de lei federal, a pretensão recursal busca o controle da higidez da atuação judicial da instância ordinária tendo por parâmetro tese constitucional, o que é processualmente inadequado.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. IPTU. INCIDENTE DE INCONSTITUCIONALIDADE VINCULADA À INTERPRETAÇÃO E À UNIFORMIZAÇÃO DO DIREITO INFRACONSTITUCIONAL FEDERAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 149, VIII E PARÁGRAFO ÚNICO, E DO ART. 156, I, AMBOS DO CTN. LEI. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA NECESSÁRIA. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+I - Na origem, trata-se de ação ordinária com pedido de tutela antecipada ajuizada pelo Sindicato da Indústria da Construção Civil do Estado do Ceará em desfavor do Município de Fortaleza, visando declarar a ilegalidade da revisão de lançamento de IPTU, cujo respectivo recolhimento já tenha sido efetuado. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi reformada.
+II - Quanto ao incidente de inconstitucionalidade suscitado, ressalte-se que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+III - Não cabe a esta Corte Superior o exame inaugural, no âmbito estreito do recurso especial, de suposta violação dos preceitos e dispositivos constitucionais, sequer para o fim de prequestionamento, cuja exegese compete, exclusivamente, ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal. Nesse sentido, são os precedentes: AgInt no REsp n. 1.604.506/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; e EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp 1.728.164/CE, rel. Ministro FRANCISCO FALCÃO, Segunda Turma,DJe 05/04/2019) (Grifos acrescidos).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSTO TERRITORIAL RURAL. PROGRESSIVIDADE EM FUNÇÃO DO TAMANHO DO IMÓVEL. INCONSTITUCIONALIDADE. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL.
+1. É inadmissível Recurso Especial quanto à questão (arts. 109 e 110 do CTN) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. A tese defendida na demanda - e o fundamento adotado no acórdão hostilizado - não diz respeito à interpretação da legislação federal, mas ao exame de sua compatibilidade com o art. 153, § 4º, I, da CF/1988. Em consequência, este apelo nobre não se revela o meio processual apto a promover a reforma do julgado.
+3. Recurso Especial não conhecido.
+(REsp 1.759.047/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma,DJe 11/03/2019)(Grifos acrescidos).
+De notar, por fim, que os óbices sumulares citados impedem também o conhecimento do recurso pela divergência jurisprudencial invocada (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
