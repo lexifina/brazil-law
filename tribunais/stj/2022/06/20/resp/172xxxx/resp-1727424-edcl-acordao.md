@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão desta relatoria, assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA. LIVRE CONVENCIMENTO DO MAGISTRADO. SÚMULA 7 DO STJ. CONVERSÃO DE JULGAMENTO EM DILIGÊNCIA. REEXAME. IMPOSSIBILIDADE. FUNDAMENTAÇÃO SUFICIENTE.1. Não há falar em ofensa ao art. 1.022 do CPC quando as controvérsias postas nos autos foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada e clara, apenas em sentido contrário ao pretendido pela parte recorrente. 2. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa. Precedentes.3. Modificar a conclusão do Juízo de piso e do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas, o que é vedado em face do teor da Súmula 7 do STJ.4. Conforme a dicção do § 3º do art. 938 do CPC, a possibilidade de conversão do julgamento em diligência decorre da necessidade de produção de prova, o que não se observa na hipótese vertente, na medida em que os documentos colacionados pelas partes foramconsiderados verídicos e suficientes pelo magistrado para a solução da controvérsia.5. Agravo interno não provido.
+Sustenta contradição no sentido de que a pergunta feita pelo embargante (se ele foi ou não investigado na Operação Monte Carlo) não foi respondida pelo Relatório Policial juntado pelo embargado, tendo o acórdão embargado, contudo, afirmado que sim. E afirma que há duas versões distintas do citado relatório nos autos.
+É o relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  RECURSO  ESPECIAL.  OMISSÃO.  NÃO  OCORRÊNCIA.  EFEITOS  INFRINGENTES.  IMPOSSIBILIDADE.  ART.  1.022  DO  NOVO  CPC.
+1.  A  pretensão  de  reformar  o  julgado  não  se  coaduna  com  as  hipóteses  de  omissão,  contradição,  obscuridade  ou  erro  material  contidas  no  art.  1.022  do  novo  CPC,  razão  pela  qual  inviável  o  seu  exame  em  sede  de  embargos  de  declaração.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+2. Com efeito, não há no acórdão embargado contradição nenhuma, tendo sido claramente expendido que "a perguntaque o recorrente insistentemente lança foi efetivamente respondida no relatório policial n. 169/2011", sendo desnecessária a produção de outras provas.
+Tal afirmação não foi intuída nesta instância especial, mas sim extraída da farta fundamentação do acórdão proferido na origem, com ampla cognição fático-probatória, sendo portanto inviável sua revisão em recurso especial ante a incidência da Súmula 7 do STJ.
+Confira-se a exaustiva e clara fundamentação:
+Consoante se extrai da sentença, houve o julgamento antecipado do mérito ante a existência de prova suficiente para a resolução da lide, tornando despicienda a expedição de ofício à Polícia Federal para reiterar o que já se encontrava devidamente demonstrado a partir da prova trazida pelos réus  excerto do relatório policial n. 169/2011, em que o nome do autor é expressamente mencionado na investigação  somado ao fato de que o ora recorrente colacionou aos autos o mesmo relatório, mas incompleto (fl. 292):
+ ..
+O Tribunal a quo corroborou a conclusão do Juízo de piso (fls. 430-433):
+ ..
+Dessarte, a alegação de cerceamento de defesa foi drasticamente afastada pela Corte estadual em razão de o julgamento antecipado do mérito ter ocorrido com base na suficiência das informações contidas nos autos, principalmente a parte do Relatório da Polícia Federal n. 169/2011 (do qual alguns excertos foram também apresentados pelo autor como demonstrativos de seu suposto direito), que expressamente menciona que o nome do autor, ora recorrente, foi citado na investigação criminal. Por isso que o magistrado indeferiu o requerimento do autor para aoitiva da autoridade policial responsável pela investigação, com vistas a apurar se o Recorrente teria sido citado ou não nas interceptações telefônicas, afinal, a prova documental era irrefutável e comprovou que a notícia foi veiculada nos exatos termos registrados naquele relatório.
+Assim, tendo as instâncias ordinárias dirimido o ponto essencial  e prejudicial a todos os demais argumentos do recorrente  com base no contexto fático-probatório dos autos, mostra-se inafastável a incidência da Súmula 7 do STJ, não merecendo prosseguir o recurso.
+As demais alegações do recorrente mostram-se inócuas ao seu desiderato, porquanto, em verdade, independentemente do momento ou da forma em que solicitada a oitiva da autoridade policial, consoante acima expendido, tal prova era totalmente desnecessária e, por óbvio, não precisava ser produzida, como bem salientado pelo Juízo singular, que procedeu ao julgamento antecipado do mérito.
+E, pela mesma razão, o Tribunal a quo recusou a aplicação do art. 938, § 3º, do CPC ante a inexistência de dúvida objetiva acerca das provas acostadas aos autos (fls. 429-431):
+ ..
+Impende salientar que o magistrado é o destinatário da prova e a ele cabe a análise sobre a necessidade de sua produção, sendo que a adoção de entendimento diverso pelo STJ, nesse mister, esbarra no óbice da Súmula 7 do STJ.
+Como se vê, não há nenhum vício no acórdão embargado, mas mera tentativa de rediscutir o mérito do recurso especial.
+3. Ante o exposto, rejeito os embargos de declaração.
+É o voto.
