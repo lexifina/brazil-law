@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelasLOJAS AMERICANAS S.A. contra acórdão da Primeira Turma em agravo interno assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.REEXAME DE PROVAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO. IMPUGNAÇÃO. AUSÊNCIA. LANÇAMENTO POR HOMOLOGAÇÃO. MÁ-FE DO CONTRIBUINTE. ANÁLISE. INVIABILIDADE.
+1.Inexiste ofensa aos arts.489, § 1º, IV e 1.022, I e II, do CPC/2015 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário aos interesses do recorrente.
+2.A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Hipótese em queo acórdão recorrido afastou a usurpação de atribuição para o lançamento (violação do art. 142 do CTN) ao fundamento de quea má-fé do contribuinte não constitui elemento essencial ao tributo, porém sua apreciação revela-se necessária para determinar o termo inicial da contagem da decadência conforme o art. 150, § 4º do CTN, o que não é atribuição exclusiva do agente fiscal e quepode ser apreciada de ofício pelo Poder Judiciárioa qualquer tempo egrau de jurisdição, motivação esta que não foi atacada no recurso especial, atraindo a aplicação daSúmula 283 do STF.
+4. Para se desconstituir a conclusão adotada pela Corte bandeirante relativamente à atuação do contribuinte com dolo (má-fé) no não recolhimento do tributo, seria necessário o reexame dos elementos probatórios constantes nos autos, o que é inviável em sede de recurso especial nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+A parte alega, em síntese, que o acórdão embargado, no tocante à manutenção doóbice da Súmula 283 do STF,foiomisso ao desconsiderar que os argumentos trazidos norecurso especial impugnam especificamente os fundamentos doacórdão do Tribunal bandeirante, pois, "justamente porque a má-fé do contribuinte não constitui elemento essencial ao tributo, revela-se ilegal sua apreciação pelo Poder Judiciário para fins de determinar o termo inicial da contagem da decadência, mormente porque esseexercício está reservado à autoridade administrativapelo art.142do Código Tributário Nacional" (e-STJ fl. 1.095).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o acórdão embargado não contém o vício apontado pela parte embargante, pois foram explicitadas, de forma clara e objetiva, as razões pelas quais foi negado provimento ao agravo interno, notadamente no que se refere à aplicação do óbice da Súmula 283 do STF ao conhecimento do recurso especial.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/2015, o que não se constata na espécie.
+Como registradono acórdão embargado ao aplicar o óbice da Súmula 283 do STF, aCorte bandeirante afastou a alegação de usurpação de atribuição para o lançamento tributário ao fundamento de que a verificação pelo Poder Judiciário do dolo, má-fé ou fraude na autuação do contribuinte no caso concreto, ao contrário do que defende do recorrente, interfere exclusivamente na definição do termo inicial para decadência (na forma da parte final do §4º do art. 150 do CTN), elemento cuja apreciação não é de exclusiva atribuição do agente fiscal  competente para o lançamento do credito tributário  e que, por possuir natureza de ordem pública, pode ser apreciado de ofício a qualquer tempo e grau de jurisdição.
+Entretanto, conforme jáassentado no julgado ora embargado, essefundamentonão foi impugnado pelo recorrente, que, nas razões de recurso especial, limitou-se a defender ailicitude da fundamentação apresentada pelo Tribunala quoao apreciar a questão da decadência para afastar a aplicação do art. 150, § 4º do CTN, reiterando a alegação de usurpação deatribuição exclusiva do agente tributário, em razão dalimitação do controle judicial dos atos administrativos (reservada à apreciação da legalidade do ato),sem adentrar na peculiaridade dos fundamentos adotadospelo TJSP (de que a matéria discutida é de ordem pública cognoscível pelo Judiciário e de que o tema relativo à má-fé do contribuinte não é elemento nuclear da autuação, não estando abrangido pela atribuição exclusiva do agente tributário para o lançamento).
+Aliás, isso é o que se observa, inclusive, do trecho do recurso especialtranscrito no bojo dos presentes embargos de declaração.
+Assim, não há falar em vício de omissão.
+Ponderado isso, constato que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo inviável o acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
