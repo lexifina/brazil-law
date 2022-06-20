@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de LUÍS ANDRÉ OLIVEIRA e MARÍLIA MARTINS SODRÉ contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da apelação criminal n. 0004922-03.2018.8.21.0064.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, às penas de 02 (dois) anos, 09 (nove) meses e 23 (vinte e três) dias de reclusão, em regime inicial aberto, mais o pagamento de 250 (duzentos e cinquenta) dias-multa, como incursos nas iras do art. 33, caput, § 4º, da Lei n. 11.343/2006, sendo a pena privativa de liberdade substituída por restritiva de direitos (fls. 24-43).
+Inconformadas, a defesa e a acusação interpuseram apelações - n. 0004922-03.2018.8.21.0064 - perante o eg. Tribunal de origem, que, por maioria, negou provimento ao recurso defensivo e proveu o apelo acusatório, a fim de redimensionar as penas dos pacientes em 05 (cinco) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial semiaberto, mais o pagamento de 500 (quinhentos) dias-multa, consoante voto condutor do v. acórdão de fls. 225-246.
+Opostos embargos infringentes n. 0005638-38.2022.8.21.7000 -, foram rejeitados (fls. 315-320).
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois os pacientes fazem jus à aplicação do tráfico privilegiado.
+Afirma que a quantidade da droga apreendida não é fundamento apto a afastar a benesse pleiteada.
+Sustenta que ação penal em andamento não pode obliterar a incidência da redutora.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 327-328).
+Informações prestadas às fls. 331-370.
+O Ministério Público Federal, às fls. 372-375, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. SUBSTITUTIVO. TRÁFICODE DROGAS. PENA. DOSIMETRIA. TRÁFICOPRIVILEGIADO. DEDICAÇÃO A ATIVIDADESCRIMINOSAS. AÇÃO PENAL EM CURSO. FUNDAMENTAÇÃO INIDÔNEA.
+- O Superior Tribunal de Justiça passou a adotar o entendimento do Supremo Tribunal Federal no sentido de que viola o art. 5º, LIV, da CF (princípio da presunção de não culpabilidade) o afastamento do benefício do art. 33, §4º, da Lei nº 11.343/2006 com base apenas em inquéritos e ações penais em curso.
+- Parecer pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício." (fl. 372).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a aplicação do tráfico privilegiado.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"No caso concreto, verifica-se que, o réu Luís André não possui bons antecedentes, inclusive responde a outro processo por delito idêntico (vide certidão de (ls. 24/205). Ademais, a quantidade de droga apreendida não pode ser considerada pequena, visto que seria capaz de produzir pelo menos 500 pedras de crack, podendo gerar um valor de aproximadamente R$ 5.00,00 (cinco mil reais), conforme informações prestadas pelos policiais em juízo. Dessa forma, tanto pela quantidade, como pelo valor envolvido, tem-se que Luis André não se trata de traficante de primeira, mas que se dedica a atividades criminosas, de modo que inaplicável a minorante prevista no §4 2 , do artigo 33, da Lei 11.343/06.
+ ..
+Com relação à minorante, avalio que também deve ser afastada para Marilia. Acontece que, além de ela ostentar outro processo criminal em andamento pela prática do mesmo delito, ela vinha sendo investigada havia aproximadamente um mês, período em que se constatou movimentação típica do narcotráfico no local e houve pelo menos uma situação que resultou em apreensão de entorpecentes. Nesse quadro, entendo ter restado demonstrada sua dedicação a atividades criminosas, o que obstaculiza a benesse.
+ ..
+No caso, além de o embargante ter sido preso com boa quantidade de crack (50g), ele responde a outro processo também envolvendo delito de tráfico de drogas.
+Tais situações demonstram sua dedicação à atividade criminosa, conforme entendimento do Superior Tribunal de Justiça" (fls. 241-242 e 317).
+Com efeito, "esta Quinta Turma, no julgamento do HC 664.284/ES, Rel. Ministro RIBEIRO DANTAS, ocorrido em 21/9/2021, DJe 27/09/2021, visando a uniformização do posicionamento de ambas as Turmas sobre o tema, decidiu que a causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020)" (AgRg no AREsp n. 1949204/AL, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 25/10/2021).
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, faço incidir o tráfico privilegiado, de modo a reestabelecer as penas impostas aos pacientes: 02 (dois) anos, 09 (nove) meses e 23 (vinte e três) dias de reclusão, em regime inicial aberto, mais o pagamento de 250 (duzentos e cinquenta) dias-multa, sendo a pena privativa de liberdade substituída por restritiva de direitos.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, reestabelecer as penas aplicadas aos pacientes pela sentença de primeiro grau - fls. 24-43 -, em seus exatos termos.
+P. e I.
