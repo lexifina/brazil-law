@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Hyundai Motor Brasil Montadora de Automóveis Ltdadesafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base na aplicação da Súmula 83/STJ, sob o fundamento de que o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Nas razões do agravo, a parte sustenta que "observa-se que, no presente caso, o entendimento da Primeira Seção não se encontra consolidado, havendo precedente favorável (REsp nº 1.714.071/RS) ao direito alegado pela Agravante -motivo pelo qual a Súmula nº 83/STJ é inaplicável ao presente caso. Ademais, tem-se que os argumentos apresentados no presente recurso especial são diversos daqueles analisados no precedente indicado pela decisão recorrida (REsp nº 1.861.806/SC)como demonstração da suposta orientação pacífica do e. STJ" (fl. 1.862).
+Contraminuta às fls. 1.929/1.937.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial. No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial atual não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgIntno REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, PrimeiraTurma, DJe 13/9/2019.
+No caso, além de o precedente indicado em agravo datar de anos anteriores ao adotado nos fundamentos dodecisumagravado, a parte aduziu, apenas genericamente, que os argumentos do seu apelo nobre diferiam daqueles analisados no outro julgado, o que não se presta à defesa de eventual superação de jurisprudênciadeste Superior Tribunal.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
