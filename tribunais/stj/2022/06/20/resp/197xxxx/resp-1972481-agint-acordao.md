@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pelo Ministro Relator, que negou provimento ao recurso especial interpostono REsp n. 1.972.481/DF(2021/0333077-8).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Ocorre que, diferentemente do aduzido pela decisão agravada, o acórdão recorrido efetivamente violou o art. 1.022, inciso I, II e III do CPC, pois não se atentou à MANIFESTA contradição apontada pelos recorrentes quanto ao percentual fixado a título de honorários de sucumbência na sua fundamentação, e o percentual fixado na sua parte dispositiva.
+ ..
+Note-se, no entanto, que o reconhecimento da contradição apontada com relação ao percentual de honorários fixados depende exclusivamente da leitura e análise do acórdão recorrido, isto é, não implica em qualquer revolvimento de fatos ou provas debatidos e produzidos nos autos que venha a justificar a aplicação da súmula 7 do STJ.
+ ..
+Assim exposto, impõe-se no caso concreto o afastamento da Súmula 284 do STF, especialmente porque os recorrentes indicaram expressamente os artigos violados, e indicaram expressamente os motivos pelos quais os referidos dispositivos foram violados no caso concreto, deixando claro a omissão e a contradição verificada no acórdão recorrido.
+ ..
+Dito isso, constatada a EFETIVA omissão do Tribunal em sanar a contradição do acórdão apontada nos embargos de declaração quanto ao percentual de honorários, o que resultou justamente na interposição do presente recurso especial com fundamento na violação ao art. 1.022, I e II do CPC, resta claro a existência do prequestionamento ficto, nos moldes do art. 1.025 do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO.REAJUSTE DE 28,86% CONCEDIDO AOS MILITARES E ESTENDIDO AOS SERVIDORES CIVIS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. INCIDÊNCIA DA SÚMULA N. 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA N. 284/STF.
+I - Na origem, trata-se de embargos contra execução diversa por título referente a servidores públicos, em que se reconheceuaos exequenteso direito a ter aplicado, em seus vencimentos, reajuste de 28,86%. Na sentença o pedido foi julgado parcialmente procedente. No Tribunala quo, a sentença foi parcialmente reformada.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+V - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+Diante do provimento do recurso, com a diminuição significativa da diferença entre valor apurado pela contadoria judicial e aquele indicado pelos embargados, impõe-se o reconhecimento da sucumbência da parte embargante, com a consequente condenação do INSS ao pagamento dos honorários.
+Todavia, tendo em vista a expressividade dos valores executados e o fato de que serão igualmente pagos os honorários arbitrados na fase de conhecimento, sem olvidar de que é a Fazenda Pública vencida na presente ação, revela-se razoável a sua fixação no patamar de 5%, sobre a diferença entre a conta apresentada pelo embargante e o valor apurado pela contadoria.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
