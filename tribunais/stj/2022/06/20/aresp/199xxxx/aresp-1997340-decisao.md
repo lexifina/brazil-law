@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelaCLEANBOX HIGIENIZAÇÃO DE CAIXAS LTDA. - EPP contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que não admitiu recurso especial fundado na alínea "a"do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl.479):
+PROCESSUAL CIVIL. APELAÇÃO. PARTE VENCEDORA. INTERESSERECURSAL. COISA JULGADA E PRESCRIÇÃO. VANTAGEM PRÁTICA. Decorrendo do reconhecimento da prescrição decisão de mérito, é de se reconhecer o interesse recursal da apelante, já que a extinção do processo pela proclamação da coisa julgada não obstaria novas demandas quanto à mesma relação jurídica.
+CONTRATO ADMINISTRATIVO. DIREITOS E DEVERES ASSENTES EMRESOLUÇÃO. REVOGAÇÃO DESTA. DECURSO DE MAIS DE 10 ANOS. ART.205, CC/02. PRESCRIÇÃO. Decorridos mais de dez anos da revogação da resolução em que assenta a pretensão da parte autora, resta inafastável a prescrição, já que superado o maior prazo prescricional previsto no vigente Código Civil, art. 205, alcançadas pela coisa julgada outras pretensões, assentes em regras puramente contratuais. APELO DA DEMANDADA CONHECIDO E PROVIDO, PREJUDICADO O DADEMANDANTE.
+Embargos de declaração rejeitados (e-STJ fls. 506/509).
+No recurso especial obstaculizado, a parte apontouviolação do art. 205 do CC, alegando, em suma, que o caso trata deato omissivo continuado, pois a lesão se renova mês a mês, por envolver obrigação de trato sucessivo, razão porque não há falar em prescrição(e-STJ fls. 520/528).
+Contrarrazõesàs e-STJ fls.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Parecer ministerial às e-STJ fls. 536/543.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+A pretensão recursal não pode ser conhecida, pois a parte autora não impugnou todos os fundamentos do acórdão recorrido.
+Apropósito, destaco os fundamentos que deram suporte ao acórdão recorrido (e-STJ fls. 477/478):
+Em relação à ocorrência de prescrição, com razão a Ceasa. Consoante se observa da inicial, a parte autora propôs a presente ação de obrigação de fazer postulando fosse o réu compelido ao cumprimento das obrigações postas na Resolução de Diretoria nº 07/2006, constante do anexo VII do Edital de licitação, com fixação de multa por dia de descumprimento, em valor a ser arbitrado pelo juízo(pedido "c", Evento 1).
+E em grau de recurso, alegou novamente pretender compelir o réu ao cumprimento das obrigações postas na Resolução de Diretoria nº 07/2006, constante do anexo VII do Edital de licitação, com fixação de multa por dia de descumprimento, em valora ser arbitrado pelo juízo.
+Ocorre, no entanto, que o período de vigência da mencionada Resolução encerrou em31.03.2009, com a edição da Resolução de Diretoria nº 02/2009 (Evento 18). Já apresente ação foi proposta em 11.11.2019, ou seja, mais de 10 anos após a nova normativa, superando, assim, o maior prazo prescricional previsto na atual legislação.
+E mesmo que se cuide de questão envolvendo eventual trato sucessivo da obrigação, ter-se-ia, aqui, a prescrição do próprio fundo de direito. Logo, merece provimento o recurso da Ceasa, restando prejudicado, assim, o interposto pela parte autora.(grifos originais).
+No recurso especial, por sua vez, a parte limitou-se a defender que a relação jurídica de trato sucessivo ou continuado não permite aplicar o art. 205 do CC, sem impugnar a alteração normativa citada no aresto recorrido para justificar a ocorrência da prescrição do próprio fundo do direito.
+A subsistência defundamentação apta, por si só, para manter o decisum combatido permite a aplicação, por analogia, do óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
