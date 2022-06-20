@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Jacqueline Yara Almeida Ramondot em face de decisão que negou provimento a agravo em recurso especial.
+Afirma que o acórdão estadual é omisso, porquanto não observou que "o núcleo da controvérsia recursal consiste no provimento monocrático recursal com base em fundamento que não foi levantado pela parte interessada em reiteradas oportunidades, pois não houve o acolhimento da preliminar de cerceamento de direito de defesa com base nos fundamentos sustentados no recurso apelatório (nulidade por ausência de expedição de ofício a instituição financeira), mas com base nos fundamentos trazidos nas fls. 365-368, isto é, após o recurso de apelação, traduzindo-se em uma verdadeira tentativa de procrastinar o processo através de uma pretensa nulidade de algibeira" (e-STJ, fls. 595/596).
+Defende, assim, que não houve reconhecimento de nulidade de ofício, mas com base em informações trazidas a após a interposição do recurso de apelação.
+Sustenta, por fim, que a parte se valeu da chamada nulidade de algibeira e que "não se pode falar em convalidação da decisão monocrática pela ulterior análise pelo Colegiado, notadamente porque é situação clara de usurpação da competência funcional do órgão colegiado, cerceando o direito do advogado da parte recorrente em realizar sustentação oral na ocasião do julgamento de apelação" (e-STJ, fl. 598).
+Pede, ao final, o provimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE ABSOLUTA. RECONHECIMENTO DE OFÍCIO. POSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 284/STF. DECISÃO MONOCRÁTICA. MÁCULA. PRONUNCIAMENTO COLEGIADO. SUPERAÇÃO. SÚMULA N. 83/STJ. NÃO PROVIMENTO.
+1. As nulidades absolutas podem ser conhecidas de ofício e a qualquer tempo nas instâncias ordinárias, razão pela qual é incompreensível a alegada violação ao princípio da dialeticidade. Incidência, na hipótese, do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. Eventual mácula na decisão do relator fica superada com o pronunciamento colegiado do órgão competente sobre a questão. Incidência do enunciado n. 83 da Súmula desta Corte.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PRELIMINAR EM CONTRARRAZÕES. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. REJEIÇÃO DA QUESTÃO PRÉVIA.
+- Não há que se acolher a preliminar de ofensa ao princípio da dialeticidade quando os argumentos constantes no recurso correspondem aos apreciados no decisum combatido.
+AGRAVO INTERNO. AÇÃO DE SOBREPARTILHA. DECISÃO MONOCRÁTICA QUE CASSOU A SENTENÇA E DETERMINOU O RETORNO DOS AUTOS AO JUÍZO A QUO. EMENDA À INICIAL. CONSTATAÇÃO DE VICIO PROCESSUAL. INEXISTÊNCIA DE INTIMAÇÃO DO PROMOVIDO PARA MANIFESTAÇÃO. NECESSIDADE. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE RECONHECIMENTO, INCLUSIVE, DE OFÍCIO. PRECEDENTES ATUAIS DOS TRIBUNAIS PÁTRIOS. MANUTENÇÃO DO R. DECISUM PELOS SEUS PRÓPRIOS TERMOS. DESPROVIMENTO DO RECURSO.
+- Da análise do decisum objurgado, verifico que este foi proferido, monocraticamente, em virtude do não conhecimento do recurso apelatório, sob o fundamento de que a análise da referida súplica restou prejudicada, de acordo com o regramento contido no artigo 932, inciso III, do Código de Processo Civil de 2015. Ora, é mister salientar que inexistiu o provimento do apelo no caso concreto, como suscitado pela agravante, mas sim a ausência de sua cognição, ante a inconteste prejudicialidade da irresignação.
+- Caso haja, de um lado, autorização para a autora emendar a inicial, após o oferecimento de contestação pelo demandado, para fins de especificação da causa de pedir e da adequação do pleito, nada mais justo do que assegurar ao requerido, em momento ulterior, oportunidade para apresentar suas razões e motivos de inconformismo em relação aos novos pedidos apresentados na emenda à peça inaugural, em uma espécie de aditamento à contestação. Evita-se, assim, que a flexibilização da estabilização objetiva da demanda produza qualquer prejuízo ao promovido.
+- Muito embora não tenha havido insurgência específica, no recurso apelatório, quanto à nulidade processual por ausência de intimação da parte adversa, a fim de se manifestar sobre os termos da emenda à exordial, vislumbro que a matéria pode ser cognoscível, inclusive, de ofício por este Julgador. Isso porque ela é considerada como de ordem pública, haja vista tratar de pressuposto de constituição de validade e desenvolvimento regular do processo.
+- Malgrado o Agravo Interno possua o chamado efeito regressivo, permitindo ao Julgador reconsiderar o decisório, mantenho a posição anterior pelos seus próprios fundamentos, que foram suficientes para dirimir a questão em disceptação.
+Alegou, na ocasião, violação dos artigos 239, § 1º, 231, VIII, 272, § 6º, 278, parágrafo único, 489, § 1º, IV e VI, 507, 932, V, a, b e c, 996, 1.002, 1.013, § 1º, e 1.022 do Código de Processo Civil, associada a dissídio jurisprudencial, sob o argumento de que o acórdão local é omisso; que o agravado, ao apelar para o Tribunal de origem, não atendeu ao princípio da dialeticidade; que o provimento do recurso de apelação só pode se dar monocraticamente nos termos da lei; que não foi levantado pelo então apelante a nulidade da sentença; e que não houve prejuízo apto à declaração de nulidade.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao princípio da dialeticidade e ausência de manifestação do agravado acerca da nulidade da sentença, os argumentos são incompreensíveis.
+Diz-se isso porque, como se sabe, as nulidades absolutas, tal como é um exemplo o cerceamento de defesa, não convalescem com o tempo e podem, nas instâncias ordinárias, ser reconhecidas de ofício, razão pela qual a ausência de manifestação da parte quando da interposição do recurso não impede o julgador de reconhecê-las.
+Assim:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE COBRANÇA C/C REVISIONAL DE CLÁUSULA CONTRATUAL. DANOS EMERGENTES E LUCROS CESSANTES. REQUERIMENTO DE PRODUÇÃO DE PROVAS PELA RECORRIDA. IMPRESCINDIBILIDADE DA PRODUÇÃO DE PROVA PERICIAL. AUSÊNCIA DE APRECIAÇÃO PELO JUÍZO DE ORIGEM. ACÓRDÃO QUE RECONHECE VÍCIO PROCESSUAL E ANULA A SENTENÇA DE OFÍCIO DETERMINANDO A REALIZAÇÃO DA INSTRUÇÃO. AUSÊNCIA DE PRECLUSÃO PARA O MAGISTRADO EM MATÉRIA PROBATÓRIA. FUNDAMENTAÇÃO CONSTITUCIONAL NÃO COMBATIDA.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 535 do CPC.
+2. Na espécie, o Tribunal de origem vislumbrou a ocorrência de cerceamento de defesa e consignou a necessidade de realização da instrução, anulando o processo, de ofício, visto que constatado o cerceamento de defesa. Rever tal posicionamento esbarraria na vedação contida na Súmula 7 do STJ.
+3. Julgado estadual, ademais, que possui fundamento constitucional não impugnado pela via processual própria (Súmula 126/STJ).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 791.697/MA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/11/2015, DJe 19/11/2015)
+Note-se que até mesmo posteriormente ao julgamento da apelação poderia a parte alegar nulidades de ofício em sede de embargos de declaração.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HOMOLOGAÇÃO DE CÁLCULOS PERICIAIS NA ORIGEM. JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE ALEGAÇÃO DA QUESTÃO PELO EXECUTADO EM EMBARGOS DE DECLARAÇÃO. RECURSO DESPROVIDO.
+1. Consoante a firme orientação jurisprudencial desta Corte Superior, a correção monetária e os juros de mora incidem sobre o objeto da condenação judicial e não se prendem a pedido feito em primeira instância ou a recurso voluntário dirigido ao Tribunal de origem. Por se tratar de matéria de ordem pública, cognoscível até mesmo de ofício, não está sujeita à preclusão, salvo na hipótese de já ter sido objeto de decisão anterior. Precedentes.
+2. No caso, o Tribunal de origem não se pronunciou sobre a alegação, deduzida pelo executado em embargos de declaração, de que os juros de mora não poderiam incidir no percentual de 1% ao mês no período anterior à vigência do CC de 2002, justificando-se, portanto, o reconhecimento de ofensa ao art. 535, II, do CPC/1973. 3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1615127/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019)
+Inafastável, pois, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+No que toca ao provimento monocrático da apelação, em que pese o argumento da parte sustendo a ocorrência de usurpação da competência funcional do órgão colegiado, motivo pelo qual não poderia haver convalidação de eventual mácula, não é esse o entendimento desta Casa, que trilha no caminho de que a apreciação do órgão colegiado supre eventual vício da decisão monocrática.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. 1. RECURSO APRECIADO MONOCRATICAMENTE PELO RELATOR. POSSIBILIDADE. DECISÃO. MÁCULA. JULGAMENTO COLEGIADO. SUPERAÇÃO. 2. DANOS MORAIS NÃO CARACTERIZADOS. DEFEITO DE CONSTRUÇÃO. QUEDA DE PERGOLADO. MERO ABORRECIMENTO. 3. AGRAVO INTERNO IMPROVIDO.
+1. Eventual mácula da decisão do relator, proferida com base no art. 932 do CPC/2015, fica superada com julgamento colegiado do recurso pelo órgão competente.
+2. Mero incômodo ou frustração não gera, por si só, indenização por dano moral.
+3. Agravo interno improvido.
+(AgInt no AREsp 1456551/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019)
+Não houve, ademais, falha na decisão monocrática porque, como se viu supra, é possível ao julgador o reconhecimento de ofício de nulidades absolutas enquanto não encerrada a jurisdição.
+A respeito, por fim, da ausência de prejuízo pela ausência de intimação do réu para se manifestar sobre a emenda da inicial, o mesmo enunciado n. 284 da Súmula do STF incide sobre a questão, na medida em que a autora, ora recorrente, teve seu pedido julgado procedente após o cumprimento da determinação para a indigitada emenda, cujos termos não teve ciência o ora agravado, de modo que a alegação de ausência de prejuízo é de todo incompreensível.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
