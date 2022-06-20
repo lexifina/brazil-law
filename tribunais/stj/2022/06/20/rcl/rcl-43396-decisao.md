@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por EMERSON RICARDO CADAMURO, "com fulcro nos artigos 988 e seguintes do CPC, em face do v. acórdão proferido pela MM. 7ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo" (na fl. 3), que "afronta a autoridade das decisões deste C. Superior Tribunal de Justiça" (na fl. 9), proferidas no julgamento da de casos corriqueiros.
+Requer liminarmente a suspensão do processamento da demanda originária e, no mérito, o acolhimento da reclamação para cassar o acórdão reclamado com oconsequente rejulgamento da lide.
+É o relatório.
+Passo à decisão.
+De início, destaque-se que a reclamação, nas vertentes constitucional e processual, destina-se à: (i) preservação da competência do Tribunal (Reclamação Constitucional-Competência) e à garantia da autoridade de suas decisões (Reclamação Constitucional-Autoridade) (CF, art 105, I, f; CPC, art. 988, I e II; RISTJ, art. 187), para (ii) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandasrepetitivas (Reclamação-IRDR) ou de incidente de assunção de competência(Reclamação-IAC) e (iii) garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo (Reclamação-RRC), nesse caso, quando esgotadas as instâncias ordinárias (CPC, art. 988, IV e § 5º, II).
+Todavia, o reclamante alega que o acórdão reclamando diverge de precedentesdesta Corte acerca da questão, lavrados nosjulgamentos corriqueirodo Superior Tribunal de Justiça, isto é, não formadoem precedentequalificado, tampouco em lide que lhe é referente subjetivamente, ou seja, da qual é parte ou terceiro interessado juridicamente.
+Contudo, a reclamação prevista noart. 988, § 5º, II, do Código de Processo Civil não se presta ao papel de sucedâneo recursal para compelir os Tribunais a observarem a jurisprudência corriqueira ou as Súmulas desta Corte,como é o caso dos autos.
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, "a", do RISTJ, não conheço da Reclamação.
+Publique-se.
