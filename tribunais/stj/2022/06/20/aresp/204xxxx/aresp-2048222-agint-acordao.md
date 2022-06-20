@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por SÉRGIO DE OLIVEIRA E DENÍVIA ROSA DOS SANTOS OLIVEIRA em face de decisão monocrática da lavra da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ, fls. 366):
+IMPUGNAÇÃO À JUSTIÇA GRATUITA - A declaração de impossibilidade de pagamento das custas processuais gera presunção de veracidade que pode ser afastada caso haja provas em sentido contrário - Impugnantes, contudo, que se fundaram em meros indícios, sem demonstrar de forma inequívoca que os réus possuem recursos financeiros suficientes BENEFÍCIO MANTIDO. ANULATÓRIA DE ATO JURÍDICO Decisão que indeferiu o pedido de arrematação e determinou nova avaliação dos imóveis Decisão que já foi objeto de agravos e de ações rescisórias, todos mantendo a decisão intacta Alegação de que foi juntado documento novo, a partir do qual fluiria o prazo da ação anulatória Não caracterização Documento que não foi capaz de infirmar a conclusão de necessidade de realização de nova perícia - Prazo decadencial de dois anos Artigo 179 do atual Código Civil Decisão proferida em 1º de fevereiro de 2017 Propositura da ação em 30 de julho de 2020 - Decadência operada Improcedência da ação - Sentença confirmada Aplicação do disposto no artigo 252 do Regimento Interno do Tribunal de Justiça - Verba honorária majorada, em atendimento ao artigo 85, parágrafo 11º do CPC - RECURSO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 372-383), a parte recorrente sustentou violação aos arts. 352, 902, 966, §4º, 486 e 975, §2º, do CPC/15 e 178 do Código Civil, alegando que o prazo prescricional para ajuizamento da ação rescisória é de cinco anos e o prazo para ajuizamento de anulatória é de quatro anos. Sustentou, ainda, que o prazo teve como termo inicial a data da descoberta da prova nova, qual seja, o comprovante de pagamento dos valores do leilão.
+Oferecidas as contrarrazões às fls. 407-414 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 415-418, e-STJ), o que ensejou o manejo do agravo (fls. 421-437, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 451-452), a Presidência desta corte conheceu do agravo para não conhecer do recurso especial ante a incidência da Súmula 284/STF.
+No presente agravo interno (e-STJ, fls. 455-510), os ora agravantes combatem o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 513-518 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATORIA DE NULIDADE - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Não merece reparos a decisão agravada que aplicou o óbice da Súmula 284/STF à presente controvérsia.
+Muito embora os recorrentes tenham indicado os artigos de lei federal que entendem terem sido objeto de violação, denota-se que suas razões estão dissociadas da fundamentação tecida no acórdão recorrido, o que torna inafastável a incidência do referido óbice.
+Em suas razões recursais, a parte recorrente sustentou violação aos arts. 352, 902, 966, §4º, 486 e 975, §2º, do CPC/15 e 178 do Código Civil, alegando que o prazo prescricional para ajuizamento da ação rescisória é de cinco anos e o prazo para ajuizamento de anulatória é de quatro anos. Aduziram, ainda, que o prazo teve como termo inicial a data da descoberta da prova nova, qual seja, o comprovante de pagamento dos valores do leilão.
+Entretanto, denota-se que o acórdão recorrido tem como principal fundamento o prazo decadencial de dois anos para ação anulatória, contados da data da publicação da decisão.
+Confira-se (e-STJ, fl. 367-369):
+Quanto ao mérito, o artigo 179 do Código Civil vigente estabelece o prazo de dois anos para a pretensão anulatória para a hipótese dos autos: "Art. 179. Quando a lei dispuser que determinado ato é anulável, sem estabelecer prazo para pleitear-se a anulação, será este de dois anos, a contar da data da conclusão do ato." A ação foi proposta em 30 de julho de 2020, decorridos quase 02 (dois) anos e 6 (seis) meses da data da decisão impugnada, esta proferida em 01 de fevereiro de 2017 (fls. 169) . Portanto, correta a decisão da magistrada de primeiro grau ao reconhecer a decadência do direito dos autores. Assim, conforme disposto pelo artigo 252, do Regimento Interno desta Corte, com a nova redação desde março de 2017, "Nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la, apreciando, se houver, os demais argumentos recursais capazes de, em tese, infirmar a conclusão adotada no julgamento". No caso em análise, a r. decisão constante de fls. 312/315 analisou, de forma detalhada e objetiva, todos os pontos controvertidos do conflito instaurado bem como as provas apresentadas e produzidas, chegando à bem fundamentada conclusão de improcedência da ação. Como bem apontado pela i. juíza em primeiro grau, "Reconheço a decadência. O prazo a ser observado é aquele estabelecido no artigo 179 do Código Civil, que assim dispõe: "Art. 179. Quando a lei dispuser que determinado ato é anulável, sem estabelecer prazo para pleitear-se a anulação, será este de dois anos, a contar da data da conclusão do ato". No caso dos autos, a decisão impugnada pelos autores foi proferida em 01/02/2017, enquanto a presente ação anulatória foi proposta apenas em 30/07/2020, ou seja, quando já esgotado o prazo decadencial de dois anos. (..) Cumpre destacar que a decisão impugnada já foi objeto de agravos de instrumento e ações rescisórias. Vê-se, pois, que os autores repetem nestes autos alegações já enfrentadas em outros pronunciamentos jurisdicionais, buscando apenas prolongar o desfecho da ação mencionada na inicial e, por consequência, evitar que o valor depositado seja transferido ao juízo da 4ª Vara Cível do Foro Regional do Jabaquara, que determinou a penhora no rosto dos autos que tramitam perante esta 2ª Vara Cível." (fls. 313/315).
+(..)
+A r. sentença, detalhada e precisa na análise da prova, merece integral ratificação a teor, inclusive, do disposto pelo artigo 252, do Regimento Interno desta Corte.
+Desse modo, tendo em vista que a questão foi decidida com base em fundamento diverso do argumento suscitado pelos insurgentes, resta caracterizada a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284/STF.
+Nesse sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE DE HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+(..)
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. O entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1616899/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+(..)
+3. Quando a parte apresenta razões dissociadas do que foi decidido pelo Tribunal de origem, incide a Súmula n. 284 do STF ante a impossibilidade de compreensão da controvérsia.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 970.977/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
