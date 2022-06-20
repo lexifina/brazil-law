@@ -1,0 +1,18 @@
+DECISÃO
+Neste writ, que se volta contra o acórdão do Tribunal de Justiça do Rio de Janeiro, que denegou a ordem no HC n. 0087779-56.2021.8.19.0000 (fls. 24/32), pretende-se, inclusive em caráter liminar, a suspensão da decisão proferida no Processo principal n. 0025492-15.2021.8.19.0014 em trâmite na 1ª Vara Criminal da comarca de Campos dos Goytacazes/RJ e a imediata concessão de liberdade aLucas Cordeiro Fonte- preso preventivamente em 7/10/2021 e denunciado pela prática do crime descrito no art. 121, § 2º, I, c/c o art. 14, II, todos do Código Penal -, sob os argumentos, em resumo, de ausência do exame de corpo de delito da vítima e do boletim médicoe da desnecessidade da custódia cautelar em face da presença dos predicados pessoais favoráveis - bons antecedentes, endereço certo e emprego fixo (fl. 13).
+Estes autos foram a mim distribuídos por prevenção (HC n. 737.716/RJ).
+É o relatório.
+Pelo exame dos autos, o presentehabeas corpus, novamente, não deve ser conhecido.
+Isso porque, conquantoafirmeoimpetrante a inexistência de decisão judicial da conversão da prisão em flagrante em preventiva, havendosomente o indeferimentodo pleito liberatório(liberdade provisória) quando do recebimento da denúncia (fl. 4),da atenta leitura da decisão de fls. 22/23 constata-se, pois, exatamente o contrário, tendo o Magistrado de piso, expressamente constatado que, não tendo havido nenhuma alteração do quadro fático desde a decisão que decretou a prisão preventiva, permanecem hígidos os fundamentos lá expostos para justificar a manutenção da custódia cautelar(fl. 22 - grifo nosso); logo, ao impetrante caberia, obrigatoriamente, a juntada ao presente writ dedocumento comprobatório de tal circunstância,peça essencialpara a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa, o que não ocorreu.
+Como é sabido, ohabeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante.
+Nesse sentido:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional dohabeas corpus(ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ: HC n. 437.808/RJ, Ministro Jorge Mussi, Quinta Turma, DJe de 28/6/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração dowrit, a Parte Impetrante impede a apreciação do mérito dowrit.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019).
+E ainda: HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; e HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012.
+Ante o exposto,não conheçodo presentehabeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS.CRIME DESCRITO NO ART. 121, § 2º, I, C/C O ART. 14, II, TODOS DO CP. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOESSENCIALÀANÁLISEDAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVAPRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. PRECEDENTES DESTA CORTE SUPERIOR.
+Habeas corpusnão conhecido.
