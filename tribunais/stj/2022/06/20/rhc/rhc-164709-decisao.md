@@ -1,0 +1,26 @@
+DECISÃO
+JOÃO VITOR DE CASTRO DIAS, JOSIANE APARECIDA MONTECINO TORRES, GABRIELA PIRES MARINHO, FELIPE LUAN FERREIRA ESTIGARRIBA, JEFFERSON MORAIS DO NASCIMENTO, JEFERSON TORRES SILVEIRA, EVANDRO CARLOS ROMERO APOLINÁRIO, MARCOS SUEL GOMES DA SILVA, VIVIEN CRYSTINA CONCEIÇÃO DA SILVA, PRISCILA BENITES, EDILSON FERREIRA BICALHO, ERIQUE JÚNIRO ROQUE DE OLIVEIRA, MARCELO FERNANDES FERREIRA, RAFAHEL MEGSON DE OLIVEIRA, DOUGLAS ALVES FRANCÇA, GEOVANE APARECIDO MONTECINO TORRES, JULIANO FERREIRA TAVARES e FÁTIMA FERREIRA BIBIANOalegam sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sulno HC n. 1400698-45.2022.8.12.0000.
+Nesta Corte, a defesa postula a revogação das prisões preventivas dos réus, decretadas pela suposta prática docrimede organização criminosa, em decorrência do excesso de prazo para o encerramento do feito.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+O Juízo singular, ao prestar informações, esclareceu que (fl. 205, grifei):
+Conforme consta da denúncia desde 17 de setembro de 2019 até 28 de fevereiro de 2020, os denunciados, em concurso de pessoas e unidade de desígnios, integraram, pessoalmente, organização criminosa, atuando com emprego de arma de fogo e com participação de adolescentes, para fins de comercialização de drogas e outros delitos correlatos.
+Consta, ainda, que as investigações ocorreram na denominada "Operação Panóptico", a qual demandou a participação de diversas forças policiais, a fim de realizar o mapeamento da suposta organização criminosa.
+A denúncia foi recebida em 18/05/2020 (f. 320) e os réus citados. Anote-se que a citação demandou grande lapso temporal, haja vista se tratar de ação com 29 (vinte) nove denunciados, presos em diversos Estabelecimentos Penais do Estado (Presídio Masculino local, Penitenicária Estadual de Dourados, Presídio de Segurança Máxima  Campo Grande, Presídio de Trânsito  Campo Grande, Gameleira  regime fechado  Campo Grande) e também um denunciado recolhido na cidade de Aparecida de Goiânia/GO.
+Já foi realizada audiência de instrução, sendo que a última realizou-se em 27/07/2021 e em seguida, a Defensoria Pública requereu perícia de voz em relação a seus assistidos.
+Em relação à realização da perícia de autenticação de voz/exame de comparação de locutor nas mídias de ligações telefônicas interceptadas nos áudios dos aplicativos de mensagens, informo que ainda não foi realizada.
+Salienta-se que este Juízo vem solicitando informações diretamente ao Núcleo de Perícias, sendo que a última informação, datada de 18/02/2022, através do ofício 643/ICHM/SEJUSP/2022, foi: ".. Procedida consulta em nosso banco de dados e arquivos e não foi localizada perícia com as informações descritas, bem como, não há registro de entrada da solicitação mencionada, até a presente data."
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que "a aferição de excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal, não podendo decorrer de análise puramente matemática, devendo ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar o curso da ação penal" (AgRg no RHC n. 152.530/BA, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 3/11/2021, grifei).
+Com base nos dados coletados, não constato delonga injustificada na tramitação processual. Isso porque, conforme elucidou o Juiz de primeiro grau e a Corte estadual, em que pese o trâmite do feito há pelo menos dois anos, trata-se de "ação penal complexa  que  resulta de um exaustivo trabalho de investigação  ..  em denominada "Operação Pan-óptico"" (fl. 135); a denúncia foi recebida em18/5/2020, os réus citados, a maioria deles por carta precatória; "múltiplos pedidos de revogação da prisão preventiva" (fl. 136).
+Consta ainda que a audiência de instrução e julgamento já se realizou e o feito aguarda realização de perícia de autenticação de voz, diligência requerida pela Defensoria Pública.
+Acerca da demora na realização da prova pericial, a instância ordinária informou também que "a magistradaa quo insistentemente endereçou pedidos de informações e urgência na realização da perícia à SEJUSP - MS e à Coordenadoria Geral de Perícias - Criminal" (fl. 137).
+Logo, em razão das peculiaridades do caso euma vez que há prognóstico de encerramento da instrução em data próxima, não identifico excesso de prazo. Nesse sentido:
+ ..
+3. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética.
+4. Havendo circunstâncias excepcionais a dar razoabilidade ao elastério nos prazos, como é o caso em análise, não há falar em flagrante ilegalidade.
+ ..
+6. Ordem denegada, com recomendação de celeridade no julgamento da ação penal.
+(HC n. 550.212/AL, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 30/6/2020, destaquei)
+Assim, vejo que a Corte de origem, ao entender pela ausência de ilegalidade na espécie, atuou em consonância com a jurisprudência do STJ.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
