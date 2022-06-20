@@ -1,0 +1,51 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. VALORES EM CONTA CORRENTE. IMPENHORABILIDADE. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgiracontra acórdão proferido pelo TRF da 3ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. BACENJUD. IMPENHORABILIDADE DA CONTA POUPANÇA ATÉ 40 SALÁRIOS-MÍNIMOS. EXTENSÃO A DEPÓSITOS EM CONTA CORRENTE E APLICAÇÕES FINANCEIRAS. APLICAÇÃO A PESSOAS JURÍDICAS COMO REGRA. AGRAVO DE INSTRUMENTO PROVIDO.
+1. O art. 835 do CPC e o art. 11 da Lei 6.830/80 estabelecem que a penhora de dinheiro é preferencial em relação aos demais bens existentes.
+2. O instituto da impenhorabilidade, atualmente previsto no art. 833 do CPC, visa garantir ao indivíduo um mínimo existencial digno, como consequência do princípio da dignidade da pessoa humana, protegendo, no caso do inciso X, o pequeno poupador.
+3. A impenhorabilidade da conta poupança até o valor de 40 salários-mínimos tem o objetivo de assegurar um saldo de investimento mínimo, decorrente das economias diárias da pessoa, que pode servir para cobrir eventuais gastos emergenciais não provisionados.
+4. É firme a jurisprudência pátria no sentido de que a impenhorabilidade de valores de até 40 salários-mínimos depositados em poupança se estende a depósitos em conta corrente e aplicações financeiras (STJ. AGRESP201502877278, 2ª TURMA, Rel. Min. MAURO CAMPBELL MARQUES, DJE 18/12/2015; TRF3. AI 00157470920164030000, 3ª Turma, Rel.Desembargador Federal CARLOS MUTA, e-DJF3 25/11/2016.)
+5. A impenhorabilidade dos bens relacionados na legislação processual é aplicável, nas devidas proporções, às pessoas jurídicas. Os itens essenciais à exploração da empresa, inclusive os recursos mantidos em conta corrente e poupança, são exemplos da limitação da responsabilidade patrimonial (art.833, V e X, do CPC).
+6. No caso de conta destinada ao pagamento de verbas trabalhistas, a isenção não decorre da natureza do valor - sem transferência aos credores, o dinheiro não assume caráter alimentar -, mas sim da vinculação à subsistência da sociedade empresária.
+7. Esta C. Turma já decidiu sobre a impenhorabilidade de valores de até 40 salários-mínimos depositados nas contas correntes e de poupança das pessoas jurídicas, como regra, ressalvando-se os casos de comprovada inatividade da empresa ou ausência de comprometimento da garantia de sua sobrevivência mínima (TRF3, AI 5015700-08.2020.4.03.0000, 3ª Turma, Rel.Desembargador Federal LUIS CARLOS HIROKI MUTA, j. 24/08/2020, e-DJR3).
+8. No presente caso, o bloqueio via Bacenjud se efetivou no valor de R$22.739,92, o que é inferior ao limite legal considerado impenhorável.
+9. Apesar das dificuldades financeiras, que se comprovam pelo balanço patrimonial juntado e outros documentos, a pessoa jurídica agravante ainda está em atividade. Desse modo, sendo o valor bloqueado o único montante disponível em dinheiro, configura-se o comprometimento da garantia de sobrevivência mínima da pessoa jurídica.
+10. Desta forma, o desbloqueio deve ocorrer em razão do pequeno valor bloqueado, sendo desnecessária a comprovação da origem ou destinação específica da verba. Nesse sentido, julgados desta E. Corte (TRF3, AI 5010665-04.2019.4.03.0000, 3ª Turma, Rel. Desembargador Federal ANTONIO CARLOS CEDENHO, j. 08/08/2019, e - DJF3 13/08/2019; TRF3, AI 00008203820164030000, 4ª Turma, Rel. Desembargadora Federal MÔNICA NOBRE, e-DJF3 18/07/2016).
+11. Agravo de instrumento provido (fls. 54/55).
+2. Os embargos de declaração opostos foram rejeitados (fls. 96/111).
+3. Nasrazões do seurecurso especial (fls. 117/131), a parte agravante sustentaviolação dos arts. 797, 833, X, 847 e 1.022 do CPC/2015 ao defender a manutenção da penhora realizada na execução. Aduz não haver comprovação de que os valores constritos sejam relativos aconta salário, bem como quea vedação à penhora se destina aos valores exclusivamente salariais, bem como a montante de até 40 salários mínimos existentes em poupança (de caráter exclusivo) - fl. 126.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 136/146).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 147/153),razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9.É deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 1.022 do CPC/2015 de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso, portanto, o óbice previsto na Súmula 284/STF, por analogia.
+10.Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+A impenhorabilidade da conta poupança até o valor de 40 salários-mínimos tem o objetivo de assegurar um saldo de investimento mínimo, decorrente das economias diárias da pessoa, o que pode servir para cobrir eventuais gastos emergenciais não provisionados.
+É firme a jurisprudência pátria no sentido de que a impenhorabilidade de valores de até 40 salários-mínimos depositados em poupança se estende a depósitos em conta corrente e aplicações financeiras:
+(..)
+A impenhorabilidade dos bens relacionados na legislação processual é aplicável, nas devidas proporções, às pessoas jurídicas.
+Os itens essenciais à exploração da empresa, inclusive os recursos mantidos em conta corrente e poupança, constituem exemplos da limitação da responsabilidade patrimonial (art. 833, V e X, do CPC)
+No caso de conta destinada ao pagamento de salários, a isenção não decorre da natureza da verba - sem transferência aos credores, o dinheiro não assume caráter alimentar -, mas sim da vinculação à subsistência da sociedade empresária.
+Na ausência de pagamento de mão de obra, a entidade deixará de funcionar, comprometendo-se a garantia de sobrevivência mínima extraída, proporcionalmente, do art. 833, V e X, do CPC.
+(..)
+Esta C. Turma já decidiu sobre a impenhorabilidade de valores de até 40 salários-mínimos depositados nas contas correntes e de poupança das pessoas jurídicas, como regra, ressalvando-se os casos de comprovada inatividade da empresa ou ausência de comprometimento da garantia de sua sobrevivência mínima.
+(..)
+No presente caso, o bloqueio via Bacenjud se efetivou no valor de R$22.739,92, o que é inferior ao limite legal considerado impenhorável.
+Ademais, consta dos autos que, apesar das dificuldades financeiras, que se comprovam pelo balanço patrimonial juntado e outros documentos, a pessoa jurídica agravante ainda está em atividade. Desse modo, sendo o valor bloqueado o único montante disponível em dinheiro, configura-se o comprometimento da garantia de sobrevivência mínima da pessoa jurídica(fls. 60/62- sem destaque no original).
+11. Como sevê, o Tribunal de origem reconheceu a impenhorabilidade dos valores bloqueados por configurar o comprometimento da garantia de sobrevivência mínima da pessoa jurídica. A parte recorrente, por sua vez, limitou-se a alegar, genericamente, que a vedação à penhora se destinava a valores exclusivamente salariais, bem como ser necessária a conciliação entre a proteção alimentar e a reparação ao erário.
+12. Dessa forma, constata-se que as razões do recurso especial se apresentamdissociadas do quadro fático doacórdão recorrido, razão pela qual atrai a incidência, por analogia, do enunciado sumular284/STF, que estabelece:é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL(..). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..)
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..)
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento(AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021 - sem destaques no original).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO.INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..)
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..)
+VIII - Agravo interno improvido(AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020 - sem destaques no original).
+13. Ainda que superado o óbice acima descrito, a pretensão não merece prosperar tendo em vista que dissentir das conclusões do acórdão recorrido para verificar a extensão docomprometimento causado pelo bloqueio dos valores demandaria, necessariamente, a revisão de premissas fático-probatórias dos autos, o que é vedado em recurso especial, na forma da Súmula 7/STJ.
+14. Diante dessas considerações, conheço do agravo para não conhecer do recurso especial daFAZENDA NACIONAL.
+15. Publique-se. Intimações necessárias.
