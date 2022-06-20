@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão do Tribunal de Justiça de Minas Gerais, que indeferiu a liminar no writ de origem.
+Constados autos que o paciente foi preso em flagrante, custódia convertida em preventiva, em razão da suposta prática do delito previsto no art. 155, caput, do Código Penal.
+No presente writ, aimpetrante alega que o juízo de primeiro grau converteu a prisão em flagrante em preventiva de ofício, em contrariedadeàmanifestação ministerial.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão e a expedição do competente alvará de soltura.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+Admite-se, entretanto, sua mitigação quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Na origem, a liminar foi indeferida nos seguintes termos (fl. 156):
+Não obstante as razões trazidas pela impetrante, a discussão arguida em sede liminar acerca da ilegalidade da prisão preventiva refere-se à mesma argumentação expendida na inicial.
+Da mesma forma, em uma análise preambular, permanecem inobservados a presença dos requisitos necessários à concessão da liminar, quais sejam a fumaça do bom direito e o perigo na demora, razão pela qual entende-se prudente o aguardo das informações a serem prestadas pelo juízo de primeiro de grau, para melhor análise da matéria.
+Assim, INDEFIRO O PEDIDO LIMINAR.
+Consta da decisão que converteu a prisão em flagrante em preventiva (fls. 141-149):
+Trata-se da comunicação da prisão em flagrante delito, em 27.05.2021, de Agnaldo da Silva Neves, pela prática, em tese, do delito capitulado pelo artigo 155, caput, do Código Penal.
+No presente caso, a materialidade do fato encontra-se satisfatoriamente comprovada ante a apreensão e restituição da res furtiva, havendo, ainda, indícios suficientes de autoria delitiva, consoante revelam os relatos reproduzidos nos autos até o presente momento.
+Não vislumbro nulidades aparentes na lavratura do APFD, que atendeu a todos os pressupostos de validade como medida constritiva da liberdade do autuado, outrossim, havendo perspectiva do estado de flagrância tal qual previsto no art. 302 do CPP, razão pela qual o homologo.
+O Ministério Público manifestou, em audiência de custódia, pela concessão da liberdade provisória ao autuado com aplicação de medidas cautelares diversas, entre elas a monitoração eletrônica, uma vez que o crime foi perpetrado sem utilização de violência ou grave ameaça.
+A Defensoria Pública assistindo o autuado pugnou pela concessão da liberdade provisória, alegando que embora o autuado seja reincidente o crime foi perpetrado sem violência ou grave ameaça, e na sua modalidade tentada. Ressaltou que a Autoridade Policial ficou fiança, não paga pela hipossuficiencia
+Conforme relatado, um motociclista visualizou um indivíduo subtraindo uma fruteira da loja Mafuá Móveis Rústicos, embarcando logo em seguida em um ônibus coletivo, ocasião em que comunicou o ocorrido para a funcionária da loja Lorena Keroliny, repassando, ainda, as características físicas e das vestimentas de tal indivíduo.
+Segundo consta no APFD, Lorena e outro funcionário da loja foram ao encalço do indivíduo, logrando êxito em abordar o autuado dentro do coletivo, na posse da fruteira subtraída, encaminhando-o de volta a loja, oportunidade em que acionaram a policia militar que efetuou a prisão do flagranteado.
+Da análise da CAC e FAC do autuado observa-se que ele ostenta péssimos antecedentes criminais é multirreincidente por crimes contra o patrimônio e está em cumprimento de pena.
+Ademais, conforme relatado no boletim de ocorrência às fls. 33v, o autuado possui mais de 40 registros policiais nos quais foi cadastrado como autor, além de ter sido beneficiado recentemente com liberdade provisória (17.05.2022).
+Dessa forma, o autuado demonstra tendência voltada à busca pelo lucro fácil e à prática de ilícitos, colocando em risco a ordem pública, havendo, ainda, risco (;) de nova reiteração delitiva.
+Não obstante existência de posicionamento diverso externado pelo Ministério Público durante a audiência de custódia realizada, entendo regular e legal a conversão da prisão em flagrante em preventiva pelo magistrado.
+ ..
+Logo, in casu, mesmo à percepção de aplicação das medidas cautelares previstas no art. 319, I a IX, do CPP, não verifico, após ponderados os critérios de necessidade e adequação preconizados no art. 282, incisos I e II, do CPP, a rigor do que dispõe o art. 321 do CPP, a viabilidade de aplicação de nenhuma daquelas medidas para rechaçar o recolhimento preventivo, eis que restam evidenciados o fumus comissi delicti e o periculum libertatis, inerentes à prisão preventiva, eis que a ordem pública foi vilmente atacada (art. 312, CPP).
+Ante o exposto, na forma do art. 310, inciso II, do Código de Processo Penal, converto a prisão em flagrante do autuado Agnaldo da Silva Neves em prisão preventiva, por entender que se fazem presentes o fumus comissi delicti (prova da materialidade do fato e indícios suficientes de autoria delitiva) e o periculum libertatis (necessidade de assegurar-se a ordem pública), inerentes à prisão preventiva (arts. 312 e 313, li, do CPP).
+Como se vê, o Juiz converteu a prisão em flagrante em preventiva mesmo com a manifestação favorável do Ministério Público para concessão da liberdade provisória, mediante a aplicação de medidas cautelares diversas da prisão, "entre elas a monitoração eletrônica, uma vez que o crime foi perpetrado sem utilização de violência ou grave ameaça".
+A Terceira Seção deste Superior Tribunal de Justiça, ao julgar o Recurso em Habeas Corpus n. 131.263/GO, alinhou-se ao entendimento do Supremo Tribunal Federal, pela impossibilidade de conversão da prisão em flagrante em preventiva de ofício pelo Juiz. A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E CORRUPÇÃO DE MENOR. CONVERSÃO EX OFFICIO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. DECRETAÇÃO DE OFÍCIO PELO JUIZ. IMPOSSIBILIDADE. LEI N. 13.964/2019. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção do STJ firmou o entendimento de que é vedada a conversão da prisão em flagrante em preventiva de ofício pelo juiz. À luz das inovações trazidas pela Lei n. 13.694/2019, o magistrado não poderá decretar a custódia cautelar sem que haja prévio requerimento do Ministério Público ou representação da autoridade policial. Ressalva de posicionamento pessoal diverso.
+2. Na hipótese, é acertada a decisão que revoga a prisão cautelar do agravado, haja vista que foi decretada ex officio pelo juiz.
+3. Agravo regimental não provido. (AgInt no RHC 143.732/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/06/2021, DJe 10/06/2021.)
+Assim postos os fatos, verifica-se manifesta ilegalidade apta a ensejar a mitigação da Súmula n. 691/STF, contexto em queconcedo liminarmente o habeas corpus, para determinar a soltura do paciente, se por outro motivo não estiver preso, que deve apresentar em juízo endereço atualizado para fins de intercâmbio processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
