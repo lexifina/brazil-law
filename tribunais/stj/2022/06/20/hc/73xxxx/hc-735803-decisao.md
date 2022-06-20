@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 96/97):
+Vistos.
+Ao relatório da respeitável sentença, que ora se adota, acrescenta-se que Luciano André Gomes do Nascimento foi condenado, por incurso no artigo 33, caput, da Lei nº 11.343/06, ao cumprimento de 5 (cinco) anos de reclusão, em regime semiaberto, e ao pagamento de 500 (quinhentos) dias-multa mínimos (fls. 169/174).
+Apela o réu, buscando a desclassificação da conduta para a prevista no artigo 28 da Lei nº 11.343/06 (fls. 182/187).
+Apela o Ministério Público, pugnando pelo afastamento da atenuante da confissão espontânea ou, ao menos, para que a agravante da reincidência prevaleça sobre a atenuante. No mais, requer a fixação do regime fechado (fls.190/203).
+Os recursos foram devidamente contrariados (fls. 208/221 e 226/232), contando os autos comparecer da douta Procuradoria-Geral de Justiça, opinando pelo desprovimento do recurso defensivo e pelo provimento do apelo do Ministério Público, para que a atenuante da confissão espontânea seja afastada e seja estabelecido o regime fechado (fls. 271/279).
+É o relatório.
+Narram os autos que o pacientefoi condenado à pena de 5 anose 10 meses de reclusão, em regime fechado, e 583dias-multa, como incurso nas sanções do art. 33 da Lei 11.343/06.
+Sustenta a defesa, em suma, que deve ser realizada a compensação integral entre a agravante da reincidência e a atenuante da confissão, estabelecendo-se a pena intermediária no piso mínimo legal.
+Aduz, ainda, que "considerando oquantumda pena eventualmente aplicada, na forma do art. 33 do Código Penal e da Súmula nº 440 do Superior Tribunal de Justiça", deve ser concedido o regime inicial semiaberto.
+A liminar foi indeferida.
+Foram prestadas informações.
+O Ministério Público Federal opinapela parcial concessão da ordem, de ofício.
+O Tribunal de origem afastou a atenuante da confissão espontânea pelos seguintes fundamentos (fls. 102-103):
+A pena-base foi fixada no mínimo legal de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no piso legal.
+Na segunda fase, caracterizaram-sea agravante da reincidência (processo nº 0005807-94.2013.8.26.0438 fls. 33/34) e a atenuante da confissão espontânea, que foram compensadas.
+Contudo, razão assiste ao Ministério Público quando pleiteia o afastamento da atenuante da confissão espontânea. De fato, ela não incide no caso, pois o acusado se retratou em Juízo, negando a traficância, acusando os policiais de o terem obrigado a dizer que estava comercializando drogas.
+Destarte, afasto a circunstância atenuante, permanecendo apenas a agravante, pela qual majoro a pena em 1/6, perfazendo 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, no piso legal.
+Na terceira fase, impossível a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/06, em razão da reincidência.
+O regime prisional foi estabelecido em semiaberto.
+Também neste ponto merece acolhida o recurso do Ministério Público, pois o acusado é reincidente e, portanto, nos termos do artigo 33, § 2º, alíneas "a", "b" e "c", do Código Penal, o regime deve ser o fechado.
+Ante o exposto, NEGO PROVIMENTO ao recurso de Luciano André Gomes do Nascimento e DOU PROVIMENTO ao apelo do Ministério Público para, afastando a atenuante da confissão espontânea e considerando sua reincidência, redimensionar sua pena para 5 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, e 583 (quinhentos e oitenta e três) dias-multa, no piso legal , mantendo, no mais, a r. sentença por seus próprios e jurídicos fundamentos.
+A dosimetria da pena foi assim realizada pelo magistrado sentenciante (fls. 52-53):
+No tocante às circunstâncias previstas no artigo 42, da Lei nº 11.343/06 e artigo 59, do Código Penal, nada há que justifique a fixação da pena acima do patamar mínimo legal, razão pela qual fixo a pena-base em 05 (cinco) anos de reclusão e multa no valor de 500 (quinhentos) dias-multa, fixada no patamar mínimo de 1/30 do salário mínimo, uma vez que ausentes nos autos elementos que permitam aferir a capacidade financeira do acusado.
+Incide no caso a circunstância agravante da reincidência, prevista no artigo 61, inciso I do Código Penal, por conta da condenação judicial cuja certidão se encontra às fls. 33/34 (processo nº 0005807-94.2013.8.26.0438). Contudo, também presente a circunstância atenuante da confissão espontânea, prevista no artigo 65, inciso III, "d" do Código Penal, por ter o réu confessado, ainda que parcialmente, a prática do delito na fase inquisitiva e perante os policiais militares, ocasião em que se usou tal afirmação no convencimento do juízo. No caso, aplico a compensação entre as circunstâncias atenuante e agravante, com a manutenção da pena em 05 (cinco) anos de reclusão e multa no valor de 500 (quinhentos) dias-multa.
+Ausentes causas de aumento de pena a se aplicar. Inviável, domesmo modo, a aplicação da causa de diminuição de pena prevista no artigo 33, § 4º da Lei nº 11.343/06, como delineado na fundamentação supra, razão pela qual torno definitiva a pena acima estabelecida.
+Tratando-se de crime equiparado a hediondo (art. 2º, § 1º, da Lei nº 8.072/90), excepcionalmente, pois o correto seria a fixação do regime fechado, considerando no presente caso as circunstâncias judiciais do artigo 42 da Lei nº 11.343/06 e do artigo 59 do Código Penal, o montante da pena imposta, o crime não envolver violência ou grave ameaça à pessoa e, principalmente, a pouca quantidade de droga apreendida (22,15 gramas de cocaína), bem como em razão do princípio da proporcionalidade, tenho que o réu deverá iniciar o cumprimento de sua pena no regime semiaberto.
+Inviável a substituição da pena privativa de liberdade por pena restritiva de direitos e a suspensão condicional da pena, seja por conta de estarem ausentes os requisitos previstos nos artigos 44 e 77 do Código Penal, seja porque o art. 2º, § 1º, da Lei nº 8.072/90, seja, finalmente, porque o artigo 44, "caput", da Lei nº 11.343/2006, é expresso ao proibir referido benefício, bem como não se considerar como apta para retribuição e prevenção da pena, a mencionada substituição no presente caso, além de verdadeira sensação de impunidade nesta interiorana cidade de Araçatuba-SP.
+DECIDO.
+Ante o exposto, JULGO PROCEDENTE o pedido do Ministério Público e o faço para CONDENAR o réu LUCIANO ANDRÉ GOMES DO NASCIMENTO, qualificado nos autos, como incurso no artigo 33, "caput", da Lei nº 11.343/06, à pena de 05 (cinco) anos de reclusão e multa no valor de 500 (quinhentos) dias-multa, fixada no patamarmínimo de 1/30 do salário mínimo, com regime semiaberto para o início do cumprimento.
+Com efeito, nos termos da Súmula 545 do STJ, a confissão espontânea do réu sempre atenua a pena, na segunda fase da dosimetria, ainda que tenha sido parcial, qualificada ou retratada em juízo, se utilizada para fundamentar a condenação, circunstância verificada na hipótese dos autos. Nesse sentido: AgRg no HC 672.882/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), Sexta Turma, julgado em 08/02/2022, DJe 15/02/2022.
+Assim, passo ao redimensionamento da pena:
+Na primeira fase da dosimetria, mantenho a pena-base em 5anos de reclusão e 500dias-multa.
+Na fase intermediária, compenso a atenuante da confissão espontânea com a agravante da reincidência, mantendo a pena em 5anos de reclusão e500 dias-multa, a qual torno definitiva ante a ausência decausas de aumento ou de diminuição. Nos termos do artigo 33, § 2º, "b" , do Código Penal, mantenhoo regime inicialfechado para o início de cumprimento da pena, haja vista a agravante da reincidência.
+Ante o exposto, concedo parcialmente o habeas corpus para fixar a pena do paciente em5 anos de reclusão, a sercumpridanoregime inicial fechado,e500 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
