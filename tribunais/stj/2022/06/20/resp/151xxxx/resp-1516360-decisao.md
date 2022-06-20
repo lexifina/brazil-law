@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ROSI MARI GIACOMONI BEUX, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim sintetizado (fl. 378, e-STJ):
+AÇÃO DE PRESTAÇÃO DE CONTAS - CONDOMÍNIO EDILÍCIO - PRELIMINAR DE CARÊNCIA DA AÇÃO - FALTA DE INTERESSE DE AGIR - AÇÃO PROPOSTA POR LOCATÁRIA - IMPOSSIBILIDADE - SENTENÇA REFORMADA - EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DO MÉRITO (ART. 267, VI, CPC) - LEVANTAMENTO DO VALOR CONSIGNADO A TÍTULO DE TAXA CONDOMINIAL - RECURSO PROVIDO.
+1 - Locatária de Condomínio Edilício não é condômina. De acordo como Código Civil, condômino são os proprietários ou os promitentes compradores e os cessionários de direitos relativos às unidades autônomas, consoante dispõe o art. 1.334, § 2º, do CC.
+2 - Na hipótese, a locatária Apelada, por força do Contrato de Locação ou autorização do proprietário (dono), exerce apenas a posse direta do apartamento 1.101 e não o direito à propriedade, o que lhe retira inexoravelmente o interesse judicial para insurgir-se, pessoalmente, quanto às contas administrada pelo Síndico desde 2003. Verificada a carência de ação por falta de interesse, impõe-se a extinção da demanda, sem resolução do mérito, com o consequente levantamento da quantia consignada por se tratar de taxa condominial incontroversa.
+Opostos embargos de declaração, esses foram rejeitados (fls. 410-419, e-STJ).
+Nas razões do recurso especial (fls. 426-455, e-STJ), a recorrente aponta ofensa ao art. 23, §2º da Lei 8245/91, art. 24, §4º da Lei 4.591/64 e 1.332 do CC, sustentando, em síntese, a legitimidade do inquilino/locatário para ajuizar ação de prestação de contas em face do condomínio.
+Contrarrazões às fls. 467-478, e-STJ .
+Após decisão de admissão do recurso especial (fls. 482-484, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismonão merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Cinge-se a controvérsia recursal no tocante à legitimidade do inquilino/ locatário na ação de prestação de contas.
+No particular, decidiu o Tribunal de piso (fls. 381-382, e-STJ):
+Ao contrário do afirmado pelo Apelante, a Apelada é locatária da unidade edilícia n. 1.101, conforme prova o documento de fl. 29. Inobstante isso, importa anotar que o locatário de Condomínio Edilício não é condômino. Na verdade, condômino são os proprietários ou os equiparados a dono, como é o caso dos promitentes compradores e os cessionários de direitos relativos às unidades autônomas, consoante dispõe ao art. 1.334, § 2º, do CC.
+A expressão "condomínio", pela sua origem e interpretação significa, exatamente, domínio em conjunto ou exercido juntamente com outrem, de maneira que denominação "condômino" é designada para o dono.
+Já a locatária, como é o caso da Apelada, por força do contrato ou autorização do proprietário (dono), exerce apenas a posse direta do apartamento 1.101 e não direito à propriedade, concluindo-se, pois que não é condômina, o que lhe retira inexoravelmente o interesse jurídico para insurgir-se, pessoalmente, quanto às contas do Síndico nomeado pelo Apelante desde 2003.
+Insta salientar que a Lei 4.591/64, que trata do Condomínio em Edificações e as Incorporações Imobiliárias prevê no art. 24, § 4º, que o locatário pode participar da Assembleia Geral, podendo manifestar sua vontade no tocante à administração da coisa comum, inclusive votar nas decisões que envolvam despesas ordinárias e desde que o condômino/locador não compareça.
+Desse modo, a locatária Apelada somente poderia participar da Assembleia e exercer direito de voto no que se refere, exclusivamente, ao orçamento e fixação das despesas ordinárias e do valor da taxa de condomínio mensal, não podendo votar quando se tratar de despesas e taxas extraordinárias, como é o caso de benfeitorias e obras excepcionais efetuadas no prédio, posto que se referem à valorização ou manutenção do valor da propriedade.
+Insta salientar que a participação do locatário em Assembleia Geral ainda é motivo de controvérsia. Discute-se se as normas relativas à disciplina do condomínio, como constantes da Lei 4.591/1964, permanecem em vigor diante da possível revogação tácita pelo Código Civil de 2002, que passou a disciplinar a matéria condominial.
+O art. 1.332 do Código Civil faz expressa menção à existência de lei especial de regulamenta o condomínio (Lei 4.591/1964), cujos artigos permanecem em vigor se for compatível com o Código Civil.
+Nessa toada, a meu ver, se o Código Civil dispôs que apenas os proprietários ou promissário compradores são condôminos, o inquilino, como é o caso da Apelada, não pode votar em Assembleia, ainda que a matéria diga respeito às despesas ordinárias.
+A recente jurisprudência dessa Corte Superior é no sentido de não reconhecer a legitimidade do locatário na ação de exigir contas. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONDOMÍNIO. AÇÃO DE PROCEDIMENTO COMUM AJUIZADA POR LOCATÁRIO. PRETENSÃO VINCULADA À RELAÇÃO JURÍDICA ENTRE O PROPRIETÁRIO LOCADOR E O ESTABELECIMENTO COMERCIAL. ILEGITIMIDADE ATIVA RECONHECIDA NA ORIGEM. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. RAZOABILIDADE. RECURSO DESPROVIDO.
+1. Nos termos do art. 18 do CPC/2015, correspondente ao art. 6º do CPC/1973, "ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico". Não existe norma que confira ao locatário legitimidade para atuar em Juízo na defesa dos interesses do condômino locador.
+2. O vínculo obrigacional estabelecido no contrato de locação dá-se entre o inquilino e o locador.
+3. A convenção realizada entre os particulares transfere a posse direta do imóvel e, eventualmente, o dever de arcar com obrigações propter rem, de titularidade do proprietário, mas não sub-roga o inquilino em todos os direitos do condômino perante o condomínio.
+4. No caso específico dos autos, a pretensão autoral está embasada em ocorrências inerentes à relação jurídica estabelecida entre o proprietário e o condomínio.
+5. O locatário não possui legitimidade para ajuizar ação contra o condomínio, no intuito de questionar o descumprimento de regra estatutária, a ausência de prestação de contas e a administração de estabelecimento comercial, cujo reconhecimento resultaria na necessidade de adequações de cota condominial e recomposição de prejuízos financeiros.
+6. Não havendo condenação, o valor dos honorários advocatícios deve ser arbitrado consoante apreciação equitativa do juiz, na forma prevista pelo art. 20, § 4º, e observados os critérios das alíneas "a", "b" e "c" de seu § 3º, todos do CPC/1973, dispositivos aplicáveis ao caso.
+7. No presente feito, o valor da verba honorária observou os parâmetros legais e os critérios de proporcionalidade e razoabilidade.
+8. Recurso especial a que se nega provimento.
+(REsp 1630199/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/08/2021, DJe 10/08/2021) - grifou-se.
+Dessa forma, o acórdão recorrido julgou em consonância com a jurisprudência desta Casa, o que atrai a incidência da Súmula 83 do STJ.
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
