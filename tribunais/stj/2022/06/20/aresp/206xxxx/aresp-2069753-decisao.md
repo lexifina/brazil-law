@@ -1,0 +1,19 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERALagrava de decisão que inadmitiu o processamento do recurso especial, interposto com fundamento nas alíneas "a" e"c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região no Recurso em Sentido Estrito n. 0025703-81.2018.4.01.3800.
+Em suas razões, afirma o Parquet que o exame do caso, ao contrário do consignado pela decisão agravada, prescinde do reexame de provas. Assinala, no recurso especial, que foi equivocada a rejeição da denúncia ofertada contra o agravado pela prática do delito de calúnia, porquanto, em tese, imputou falsamente ao Procurador da República Helder Magno da Silva a prática dos crimes de prevaricação, denunciação caluniosa e advocacia administrativa.
+Aduz que a rejeição da denúncia destoa da jurisprudência do STJ e viola o art. 41 do Código de Processo Penal, pois estariam presentes todos os requisitos processuais para a instauração da ação penal contra o acusado.
+Acrescenta que a inicial acusatória "não só especifica e detalha os atosde oficio, osentimento/interesse pessoal e demais elementares, como também baseia-se em sólida prova deautoria e materialidade, a qualfoi desconsiderada por ocasião do julgamento do RSE" (fl. 689) e que a análise do animus caluniandi deve ocorrer na fase instrutória, sob o crivo do contraditório.
+Requer o conhecimento e o provimento do recurso para reformar o acórdão recorrido e determinar o recebimento da denúncia.
+Contrarrazoado o recurso, foram os autos ao Ministério Público Federal, que se manifestou pelo não provimento do agravo (fl. 798).
+Decido.
+Em que pesem os argumentos externados no agravo, a decisão impugnada não merece reparos. Deveras, extrai-se do acórdão objeto do recurso especial a seguinte passagem (fls. 578-579, destaquei):
+Ao contrário do externado pelo MPF, compreendo que o ajuizamento das ações cíveis pelo denunciado não pode ser considerado como ofensivas à honra do Procurador Federal Helder Magno da Silva.
+Isso porque os crimes de calúnia, difamação e injúria, que atingem a honra objetiva e subjetiva da pessoa, exigem a presença do dolo específico - animus caluniandi, injuriandi e difamandi - para caracterização, o que não se verifica no relato dado nos autos. A meu ver, isso é bastante para concluir pela insuficiência de lastro probatório mínimo para respaldar a deflagração de uma ação penal. Nesse sentido, a fundamentação dada sentença, cujos termos acrescento às razões decidir deste voto:
+ ..
+Assim, frágeis e inconsistentes as provas que instruem a peça acusatória para fundamentar uma ação penal. Nem se diga que estes fatos poderiam ser esclarecidos na instrução processual penal. Pelo nosso atual sistema, investiga-se para, eventualmente, descobrindo-se indícios de autoria e materialidade, denunciar e não o contrário. Isto é, não se pode tornar alguém réu para depois verificar se há indícios ou prova de culpa.
+Frise-se que a máxima in dubio pro societatis, deve ser interpretada em consonância com o princípio da presunção de inocência, sob pena de constrangimento ilegal, haja vista as notórias conseqüências negativas da conversão de um indivíduo de investigado ao status de réu em uma ação penal.
+Não há como infirmar, na via escolhida, todo o quadro fático descrito pelo Tribunal de origem, o qual contradiz a argumentação do Ministério Público. É, pois, o caso de incidência do enunciadon. 7 da Súmula do STJ.
+Corretas, portanto, as ponderações do Ministério Público Federal em seu parecer, quando assinalou que:
+ ..  a discussão dos temas subjacentes implica necessariamente o revolvimento do conjunto fático-probatório dos autos, providência inadmissível na via estreita do apelo nobre, conforme Súmula 7/STJ(fl. 798).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b",do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
