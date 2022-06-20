@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que a fundamentação do Tribunal de origem não restou infirmada pela recorrente, o que atrai o óbice da Súmula 283/STF (por analogia); ademais, as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido os dispositivos legais indicados. Incidência da Súmula 284/STF (por analogia); bem como, o entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF (por analogia); por fim, a jurisprudência deste Superior Tribunal de Justiça é uníssona no sentido de que para avaliar os critérios adotados pela instância ordinária, que ensejaram a concessão ou não da tutela antecipada, é necessário o reexame do acervo probatórios dos autos, o esbarra no óbice da Súmula 7/STJ.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 353/356) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF (POR ANALOGIA). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF (POR ANALOGIA). DECISÃO LIMINAR. AUSÊNCIA DE DEFINITIVIDADE. RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA 735/STF (POR ANALOGIA). CRITÉRIOS PARA CONCESSÃO OU NÃO DE TUTELA ANTECIPADA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmulas 283 e 284/STF, por analogia).
+2. Não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF, por analogia.
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+A embargante alega, em síntese, que:
+É evidente, portanto, que embargante impugnou a integralidade dos fundamentos adotados pelo aresto, que incorreu em gravíssima ilegalidade ao afastar a possibilidade de garantia do juízo por meio de caução
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que a fundamentação do Tribunal de origem não restou infirmada pela recorrente, o que atrai o óbice da Súmula 283/STF (por analogia); ademais, as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido os dispositivos legais indicados. Incidência da Súmula 284/STF (por analogia); bem como, o entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF (por analogia); por fim, a jurisprudência deste Superior Tribunal de Justiça é uníssona no sentido de que para avaliar os critérios adotados pela instância ordinária, que ensejaram a concessão ou não da tutela antecipada, é necessário o reexame do acervo probatórios dos autos, o esbarra no óbice da Súmula 7/STJ.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Extrai-se do acórdão embargado:
+O ora agravante, em seu recurso especial, aduz que "o r. acórdão acabou por não levar em consideração o expresso teor da norma do art. 835, § 2º do Código de Processo Civil, que dispõe sobre a natureza do seguro garantia e o torna apto a garantir o pagamento futuro de eventual crédito em favor da FAZENDA PÚBLICA, equivalendo-o, para todos os fins, à efetiva garantia em dinheiro".
+Por seu turno, o Tribunal de origem decidiu que:
+O cerne da questão em pauta cinge-se à análise do acertamento da decisão de concessão de efeito suspensivo ao recurso, obstou a substituição da penhora por seguro garantia, e, determinou o desbloqueio de valores.
+ ..
+Ademais, no presente caso o Banco Bradesco S/A, embora tenha mencionado o princípio da menor onerosidade ao devedor, não cuidou de comprovar que a penhora realizada poderia inviabilizar sua atividade, ou ocasionaria outros prejuízos, a fim de justificar a substituição.
+Destarte, diante da ausência de fatos novos ou de argumentos capazes de demonstrar a necessidade de reforma da decisão impugnada, o desprovimento do presente agravo interno é medida imperativa.
+Pelo todo exposto, NEGO PROVIMENTO AO RECURSO, mantendo irretocável a decisão ora impugnada.
+Da leitura da petição do recurso especial, percebe-se que tal fundamento, hábil à manutenção do julgado, não restou infirmado pela recorrente, o que atrai o óbice da Súmula 283/STF, aplicável por analogia, que dispõe, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+ ..
+Ademais, as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido os dispositivos legais indicados. Incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Mesmo que assim não o fosse, o entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF, por analogia.
+Além disso, a jurisprudência deste Superior Tribunal de Justiça é uníssona no sentido de que para avaliar os critérios adotados pela instância ordinária, que ensejaram a concessão ou não da tutela antecipada, é necessário o reexame do acervo probatórios dos autos, o esbarra no óbice da Súmula 7/STJ.
+Como se constata, o aresto embargado contém fundamentação suficiente para demonstrar que a fundamentação do Tribunal de origem não restou infirmada pela recorrente, o que atrai o óbice da Súmula 283/STF (por analogia); ademais, as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido os dispositivos legais indicados. Incidência da Súmula 284/STF (por analogia); bem como, o entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF (por analogia); por fim, a jurisprudência deste Superior Tribunal de Justiça é uníssona no sentido de que para avaliar os critérios adotados pela instância ordinária, que ensejaram a concessão ou não da tutela antecipada, é necessário o reexame do acervo probatórios dos autos, o esbarra no óbice da Súmula 7/STJ.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
