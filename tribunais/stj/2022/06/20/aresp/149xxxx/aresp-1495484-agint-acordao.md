@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por REDE D"OR SÃO LUIZ S.A. contra a decisão (e-STJ fls. 491-497) que conheceu do agravo para negar provimento ao recurso especial.
+Na decisão ora atacada, afastou-se a alegação de julgamento extra petita, entendeu-se que ausente o prequestionamento e que o acórdão recorrido estaria em harmonia com o entendimento desta Corte no tocante a caracterizar ato ilícito indenizável a exigência de cheque caução como condição para atendimento emergencial
+Por fim, concluiu-se pela incidência das Súmulas nºs 5 e 7/STJno que tange à ocorrência de conduta abusiva e à pretensão de reduzir o valor da indenização por danos morais.
+Nas razões do presente recurso (e-STJ fls. 500-526), a agravante infirma cada um dos fundamentos da decisão agravada, pugnando por sua reforma.
+Ao final, defende a impossibilidade de majoração da verba honorária, porque, no caso concreto, a sentença foi proferida sob a égide do CPC/1973.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA.PREQUESTIONAMENTO. SÚMULAS Nº 282/STF E Nº 211/STJ. PLANO DE SAÚDE. CUSTEIO DO TRATAMENTO. CHEQUE CAUÇÃO. EXIGÊNCIA. DANO MORAL. CONFIGURAÇÃO. CONDUTA ABUSIVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. VIA ESPECIAL. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. VALOR DA INDENIZAÇÃO. REVISÃO. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. FIXAÇÃO AFASTADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça entende que os pedidos formulados devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análiseamplae detida da relação jurídica posta em exame. Precedentes.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor das Súmulas nºs 211/STJ e 282/STF.
+4. O entendimento doSuperior Tribunal de Justiça é firme no sentido de que a exigência de cheque caução como condição para atendimento emergencial caracteriza-se como ato ilícito indenizável.
+5. A aferição da conduta da ora agravante, se abusiva ou não, dependeria da interpretação de cláusulas contratuais e do reexame do contexto fático-probatório dos autos, procedimentos vedados emrecurso especial por força das Súmulas nºs 5 e 7/STJ.
+6. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, somente comporta revisão pelo Superior Tribunal de Justiça quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 5.000,00 (cinco mil reais), diante da especificidade do caso concreto.
+7. Proferida a sentença de mérito na vigência do CPC/1973, como na presente hipótese, fica afastada a fixação de honorários recursais nesta instância superior.
+8. Agravo interno parcialmente provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Quanto à alegada ofensa aos arts. 141 e 492 do CPC/2015,o acórdão recorrido afirmou que não houve afronta aos limites objetivos da pretensão inicial, porque os fatos narrados na inicial levaram à conclusão de que ambas as requeridas teriam contribuído para o evento em discussão.
+De fato, oentendimento desta CorteSuperior é firme no sentido de que os pedidos formulados pelas partes devem ser analisados com base emuma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO. COMPRA E VENDA. MAQUINÁRIO. ANULAÇÃO. DOLO DA VENDEDORA. ATO ILÍCITO. LUCROS CESSANTES. COMPROVAÇÃO. JULGAMENTO. EXTRA E ULTRA PETITA.AFASTAMENTO. INSTÂNCIA ORDINÁRIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. SÚMULA Nº 83/STJ. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE PROVAS.SÚMULA Nº 7/STJ. DISSÍDIO. INVIABILIDADE. (..) 3. Nos termos da jurisprudência desta Corte, os pedidos formulados pelas partes devem ser analisados a partir de uma interpretação lógico sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame. Súmula nº 83/STJ. 4. Agravo interno não provido" (AgInt no AREsp 1.659.412/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/3/2021, DJe 12/3/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM.DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA. (..) 4. A jurisprudência do STJ é firme no sentido de que o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido, compreendido como aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos". Precedentes. Incidência da Súmula 83/STJ. 5. Agravo interno desprovido" (AgInt no AREsp 584.516/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/6/2021, DJe 17/6/2021).
+Ressalta-se, ainda,quenão foram opostos declaratórios com a finalidade de sanar omissão porventura existente a respeito do teor literal dos pedidos iniciais em relação a cada uma das partes rés, como afirma a agravante.
+Quanto a esse ponto, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Além disso, não há como afastara aplicação da Súmula nº 211/STJ no que diz respeito aos artigos 153, 389, 394 e 397 do Código Civil; 784, I, do Código de Processo Civil de 2015 e 13 e 32da Lei nº 7.357/1985, haja vista os referidos artigos não terem sido objeto de debate pelas instâncias ordináriase, apesar de opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do Código de Processo Civil de 2015.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+No tocante à ocorrência do dano moral é firme o entendimento do Superior Tribunal de Justiça de que exigência de cheque caução como condição para atendimento emergencial caracteriza-seato ilícito indenizável.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. ATENDIMENTO MÉDICO-HOSPITALAR EMERGENCIAL. PENDÊNCIA DE AUTORIZAÇÃO DO PLANO DE SAÚDE. EXIGÊNCIA DE CHEQUE-CAUÇÃO. CONDUTA ABUSIVA. DANOS MORAIS.VALOR RAZOÁVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo o entendimento desta Corte de Justiça, enseja dano moral a conduta do hospital, atualmente tipificada como crime, que exige cheque caução para o atendimento emergencial de familiar, pois evidenciada a situação de vulnerabilidade do consumidor, que teve sua manifestação de vontade submetida a coação psicológica.Precedentes.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante.
+3. No caso, o montante fixado em R$ 8.000,00 (oito mil reais) não se mostra exorbitante nem desproporcional aos danos causados à vítima, que foi coagida a assinar um cheque-caução no valor de R$ 100.000,00 (cem mil reais) para garantir o atendimento emergencial do irmão, sob a justificativa de que o plano de saúde ainda não havia autorizado a realização do procedimento.
+4. Agravo interno a que se nega provimento"(AgInt no AREsp 1.498.998/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/9/2019, DJe 2/10/2019).
+Ademais, a reforma do julgado para se concluir acerca da abusividade da conduta da recorrente dependeria da interpretação de cláusulas contratuais e do reexame de matéria de prova (Súmulas nºs 5 e 7/STJ).
+No tocante ao valor fixado a título de indenização por danos morais, registre-se que, conforme consta da decisão agravada, o Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 5.000,00 (cinco mil reais).
+Referida quantia não destoa dos parâmetros adotados por esta Corte em casos análogos, consoante se colhe do seguinte precedente:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. EXIGÊNCIA DE CHEQUE CAUÇÃO PARA INTERNAÇÃO EM HOSPITAL. PRÁTICA ABUSIVA. DANO MORAL. REVISÃO DO VALOR. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 458 do Código de Processo Civil.
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp 644.649/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/3/2015, DJe 10/3/2015).
+Por fim, no que se refere ao arbitramento da verba honorária do art. 85, § 11, do CPC/2015, assiste razão à agravante.
+Com efeito, a Terceira Turma, quando do julgamento dos EDcl no AgInt no REsp nº 1.573.573/RJ, assim se manifestou:
+"(..) é necessário o preenchimento cumulativo dos seguintes requisitos:
+1. Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC";
+2. o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente;
+3. a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso;
+4. não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido;
+5. não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo;
+6. não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba."
+Além disso, a Corte Especial do Superior Tribunal de Justiça já consignou que
+"(..)
+O marco temporal para a aplicação das normas do CPC/2015 a respeito da fixação e distribuição dos ônus sucumbenciais é a data da prolação da sentença ou, no caso dos feitos de competência originária dos tribunais, do ato jurisdicional equivalente à sentença" (EDcl na MC 17.411/DF, Rel. Ministro Benedito Gonçalves, Corte Especial, julgado em 20/11/2017, DJe 27/11/2017).
+Desse modo, proferida a sentença de mérito na vigência do CPC/1973 (e-STJ fls. 213-221), como ocorreu na hipótese dos autos, não há falar em fixação de honorários recursais pelo STJ.
+Ante o exposto, dou parcial provimento ao agravo interno apenas para decotar da decisão agravada os honorários recursais fixados nesta instância superior, mantendo-se o valor estabelecido pelo juízo de primeiro grau.
+É o voto.
