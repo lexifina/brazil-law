@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUNIVERSIDADE FEDERAL DE PERNAMBUCO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 208):
+PROCESSUAL CIVIL E CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. MEDIDA CAUTELAR DE PROTESTO.INTERRUPÇÃO DO PRAZO. HABILITAÇÃO DE HERDEIROS. POSSIBILIDADE.
+1. Agravo de instrumento interposto contra decisão que, em embargos à execução, afastou a tese de prescrição da pretensão executória, tendo determinado o envio dos autos à Contadoria.
+2. O marco inicial da fluência do prazo prescricional ocorreu, em 02/03/2007, com o trânsito em julgado do título formado na Ação n. 99.0016987-5. A medida cautelar de protesto foi ajuizada, em 07/02/2012, dentro do prazo quinquenal do art. 1º do Decreto n. 20.910/1932 e da Súmula n. 150/STF, tendo a execução sido ajuizada em 2013, antes de 2 anos e 6 meses. Desse modo, não há que se falar em prescrição da pretensão executória.
+3. O prazo prescricional intercorrente não deve ser contado entre o óbito do ex-servidor, em 24/01/2004, e o pedido de habilitação de herdeiros, formulado, em 20/05/2013 , na inicial da execução.
+4. Agravo de instrumento desprovido.
+Nas suas razões, a parte recorrente aponta violação dos arts.261, 267, II, do CPC/1973, 313, I, 485, II,do CPC/2015, 196 e 199, I, do Código Civil, sustentando a prescrição da pretensão executóriaem virtude dademora para a realização dahabilitação dos sucessores.
+Contrarrazões às e-STJ fls. 232/245.
+Juízo positivo de admissibilidade pelo Tribunal de origem àe-STJ fl. 261.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+O STJ entende que a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal que imponhaprazo para a habilitação dos respectivos sucessores, não há quefalar em prescrição.Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. HABILITAÇÃO DE SUCESSORES.PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. MORTE DE UMA DAS PARTES.SUSPENSÃO DO PROCESSO. PRECEDENTES.
+I - Na origem, o presente feito decorre de agravo de instrumento interposto contra decisão que, em execução de sentença, indeferiu a habilitação dos ora agravados, como sucessores de Ivanildo José da Silva. O Tribunal a quo negou provimento ao recurso. Nesta Corte, o recurso especial foi provido.
+II - Inicialmente, cumpre ressaltar que a Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp n. 1.119.820/PI, Relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgRg no REsp n. 1.429.300/SC, Relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014).
+III - O cerne da fundamentação do acórdão recorrido, na origem, está na ocorrência de prescrição intercorrente da execução, por decurso do prazo de 5 anos para a habilitação dos sucessores, em razão do falecimento do autor da ação.
+IV - As turmas que integram a Primeira Seção tem jurisprudência no sentido de que a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Veja-se: AgInt no AREsp n. 929.097/PE, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 12/12/2017, DJe 18/12/2017; AgInt no REsp n. 1.645.120/CE, Rel.Ministra Assusete Magalhães, Segunda Turma, julgado em 21/11/2019, DJe 29/11/2019 e AgInt no REsp n. 1.509.529/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/6/2019, DJe 27/6/2019.
+V - Correta, portanto, a decisão que deu provimento ao recurso especial da parte.
+VI - Agravo interno improvido.
+(AgInt no REsp 1802229/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. MORTE DE UMA DAS PARTES. SUSPENSÃO DO PROCESSO.PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA N. 568/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição, obscuridade ou erro material.
+IV - A morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição.Precedentes.
+V - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de similitude fática entre os julgados confrontados.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1852107/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/04/2020, DJe 13/04/2020)
+O aresto hostilizado não diverge daorientação aludida.
+Assim, aplica-sena hipótesea Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
