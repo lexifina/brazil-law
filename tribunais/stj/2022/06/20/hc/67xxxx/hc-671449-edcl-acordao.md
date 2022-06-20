@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O Ministério Público Federalopõe embargos de declaração ao acórdão da Sexta Turma, que deu provimento ao agravo regimentalinterposto por Danilo de Sousa Monteiro, assim ementado (fl. 311):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. PLEITO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. AÇÃO PENAL EM CURSO. FUNDAMENTO INSUFICIENTE A JUSTIFICAR A EXCLUSÃO DA MINORANTE. NOVO POSICIONAMENTO.
+1. Na ausência das demais situações impeditivas da causa de diminuição da pena, tão somente a existência de ações penais sem trânsito em julgado não pode justificar a negativa de minorante, na esteira do entendimento, firmado sob a sistemática da repercussão geral.
+2. Para a Jurisprudência desta Corte Superior, a existência de ações penais em curso, por si só, não constitui fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei n. 11.343/06, constatada a primariedade e bons antecedentes da recorrente (AgRg no HC n. 679.839/SC, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 29/11/2021).
+3. O Supremo Tribunal Federal já se manifestou reiteradas vezes que inquéritos e processos em curso não devem ser aferidos em desfavor do agente na dosimetria da pena, sob pena de violação ao princípio da não culpabilidade. Apoiado nesse entendimento, vem decidindo ser inadmissível a utilização de ação penal em curso para afastar a causa de diminuição do art. 33, § 4º, da Lei de Drogas (AgRg no HC n. 698.026/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/12/2021).
+4. Agravo regimental provido a fim de determinar ao Juízo competente que aplique o redutor previsto no art. 33, § 4º, da Lei de Drogas, na fração de 2/3, além de reanalisar o regime de cumprimento da pena e a possibilidade de substituição da privativa de liberdade por restritivas de direitos.
+Alega o embargante, em suma, queo acórdão em referência merece reforma, uma vez que incorre em omissão que precisa ser sanada, qual seja, ausência de exame do caso à luz dos dispositivos constitucionais específicos, a saber, arts. 5º, caput, e incisos II, XLIII, XLVI e LVII, da CF/88 (fl. 319).
+Aduzqueo acórdão recorrido incorreu, outrossim, em ofensa ao princípio da proibição da proteção deficiente, cuja vigência vem sendo reconhecida pela Corte Suprema, como se extrai do julgamento do RE n. 418.376/MS4 (fl. 324).
+Afirma quea prevalecer o entendimento de que inquéritos ou ações penais em curso, ou ainda condenações, embora sem trânsito em julgado, não servem para fins de valorar o benefício previsto no art. 33, § 4º, da Lei nº 11.343/2006, então o dever de tutela do bem jurídico, imposto pelo texto constitucional, restará esvaziado (fl. 324).
+Defende, por fim, quea reforma do acórdão recorrido, portanto, é medida de rigor, para que seja dada vigência aos princípios da isonomia, legalidade, individualização da pena, da presunção de não culpabilidade e da proibição da proteção deficiente, tipificados no art. 5º, caput e incisos II, XLIII, XLVI e LVII, da CF/88.
+Requer, assim, que os presentes embargos sejamconhecidos e acolhidos, atribuindo-lhes efeitos infringentes, a fim de que o agravo regimental interposto pela outra parte seja desprovido (fl. 328).Subsidiariamente, que o acórdão que deu provimento ao agravo regimental seja integrado com o exame dos dispositivos constitucionais ora apontados como violados, para fins de prequestionamento (fl. 328).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS.ART. 619 DO CPP. INEXISTÊNCIA DE VÍCIOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO.
+1. Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional, por meio da complementação de julgado que se apresenta omisso, contraditório, ambíguo, obscuro ou com erro material (art. 619 do CPP).
+2. Na espécie, o próprio embargante afirma que o recurso integrativo tem como objetivo exclusivo o prequestionamento dedispositivos da Constituição Federal, para fins de posterior apresentação de recurso extraordinário ao Supremo Tribunal Federal.
+3. Consoante disposto no art. 105 da Constituição Federal, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+4. Embargos de declaração rejeitados.
+VOTO
+A pretensão não merece acolhida.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não tem caráter substitutivo, modificador ou infringente do julgado, mas, sim, integrativo ou aclaratório.
+Na espécie, a defesa não apontou a presença de nenhum desses vícios no acórdão embargado; objetiva tão somente a manifestação desta Sexta Turma acerca de dispositivo da Constituição Federalpara fins de prequestionamento.
+Ora, nos termos do entendimento pacífico desta Corte, a análise de matéria constitucional, mesmo com o cunho de prequestionamento, não é de competência desta Corte, mas, sim, do Supremo Tribunal Federal, por expressa determinação da Carta Magna, sendo inviável o seu exame, sob pena de usurpação da competência reservada ao Pretório Excelso (EDcl no AgRg no AREsp n. 1.946.644/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/4/2022).
+Vejam-se ainda:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. ANÁLISE DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando presente ao menos uma das hipóteses previstas no art. 619 do Código de Processo Penal, o que não se verifica na espécie.
+2. Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, analisar ofensa à Constituição Federal, sob pena de usurpação de competência atribuída ao STF.
+3. Embargos declaratórios rejeitados.(EDcl no AgRg no AREsp n. 2.012.265/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS NOS ACLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Descabida a análise pelo Superior Tribunal de Justiça de eventual ofensa a preceitos de ordem constitucional, nem mesmo para fins de prequestionamento, sob pena de usurpação à competência do Supremo Tribunal Federal, estabelecida pelo constituinte originário no art. 102, inciso III, da CF/88.
+4. Embargos de declaração rejeitados.(EDcl no AgRg no HC n. 654.112/ES, Ministra Laurita Vaz, Sexta Turma, DJe 25/4/2022)
+Impertinente, portanto, a pretensão do embargante.
+Em face do exposto,rejeitoos embargos de declaração.
