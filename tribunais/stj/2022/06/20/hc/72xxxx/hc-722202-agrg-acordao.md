@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trago àanáliseda Turma o agravo regimental de WESLEY BISPO DE ALMEIDAcontra a decisão de fls. 223/225, mediante a qual deneguei o pedido de habeas corpus, conforme esta ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL.DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME.EXAME CRIMINOLÓGICO. MOTIVAÇÃO IDÔNEA. PREENCHIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO.INADMISSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.PRECEDENTES. PARECER ACOLHIDO.
+Ordem denegada.
+O agravante insiste na tese suscitada na writ, no sentido de quenão há motivo idôneo parasubmissão ao exame criminológico(fl. 231). Requer sejaprovido o presente agravo regimental e, consequentemente, determinando-se o processamento, e a consequente concessão da ordem cassando-se a exigência da submissão ao exame criminológico para decisão do juízo, para deliberar sobre o pleito de progressão(fl. 232).
+Não abri prazo para o agravado apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, que foram assim expostos (fls. 223/225):
+Trata-se dehabeas corpusajuizado em nome deWESLEY BISPO DE ALMEIDA,no qual se apontacomo autoridade coatora oTRIBUNAL DE JUSTIÇA DE SÃO PAULO(Agravode Execução Penal n.0016983-64.2021.8.26.0996).
+Requer-se, em liminar,a progressão de regime ao paciente. Subsidiariamente, requer-se a concessão da liminar para restabelecer a progressão de regime até que o exame criminológico seja realizado e o pedido seja novamente apreciado pelo Juízo de piso (PEC n.0007063-55.2020.8.26.0041). No mérito, busca-se a concessão da ordem para deferir a progressão de regime ao paciente.
+Para tanto, alega-se, em resumo,quea fundamentação para a realização do exame criminológico deve se basear em elementos da execução da pena, de forma que a gravidade do crime ou a probabilidade de reincidência não são subsídios suficientes para a operação(fl. 7).
+Depois de indeferido o pedido liminar (fls.182/183) e de prestadas informações (fls. 187/214), o Ministério Público Federal opinou de acordo com esta ementa (fl. 218):
+HABEAS CORPUSSUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA, CONSONANTE COM O SUPREMO TRIBUNAL FEDERAL. RESTRIÇÃO AO USO DO REMÉDIO CONSTITUCIONAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. POSSIBILIDADE.FUNDAMENTAÇÃO CONCRETA. NECESSIDADE DE SE AFERIR O CUMPRIMENTO DO REQUISITO SUBJETIVO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO, INCABÍVEL NA VIA ESTREITA DOHABEAS CORPUS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. PARECER PELO NÃO CONHECIMENTO DOWRIT. NO MÉRITO, PELA DENEGAÇÃO.
+É o relatório.
+A ilegalidade passível de justificar a impetração dohabeas corpussubstitutivo deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Ora,éassente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delitoou em dados concretos da própria execução(AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n.523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No caso, pela leitura das peças que instruem este feito, a determinação para a realização de exame criminológico está devidamente motivada.
+Ao lado da referênciaà gravidade concreta da conduta pela qual fora condenado o paciente - praticou dois delitos contra o patrimônio, sendo um delescom violência e grave ameaça a idosa que contava com 80 anos de idade, com ingresso em sua residência, a qual foraagredida com socos-, houve a menção ao histórico prisional dele.
+Conforme o Tribunal,o paciente,após ter permanecido preso por largo período, e ser libertado, o sentenciado retomou a vida criminosa, reincidindo, o que constitui indicativo de que não houve assimilação ao processo de ressocialização(fl. 169). Salientando-se queo mérito do sentenciado não foi devidamente demonstradoe que a progressão para a modalidade prisional intermediária ainda se afigura prematura e temerária. Necessário, ao menos, que seja previamente realiza- do exame criminológico, através do qual será possível aferir, com maior precisão, o grau de assimilação da terapêutica penal, prevenindo-se assim, tanto quanto possível, novas investidas contra a sociedade(fl. 170).
+Como bem observado peloSubprocurador-Geral da República Francisco Rodrigues dos Santos Sobrinho,tendo sido concluído que, diante das peculiaridades e das circunstâncias concretas do caso em tela, não havia demonstração do preenchimento do requisito subjetivo e que seria necessária a realização do exame criminológico do ora Paciente, para que se avaliasse a progressão de regime, para se afastar tal conclusão, seria necessário o reexame de provas, incabível na via estreita do habeas corpus(fl. 220).
+Sobre o tema, ainda, oHC n. 433.642/SP, MinistroREYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/4/2018.
+Com base nos precedentes e no parecer ministerial,denegoa ordem.
+Caberia ao agravante, nas razões do regimental, rebater esses fundamentos, um a um, o que não se verifica da leitura da peça. Limitou-se a repetir, de forma bem genérica, a tese, refutada.
+É inviável, portanto, o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Ante o exposto, não conheço do agravo regimental.
