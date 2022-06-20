@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+FMF INDÚSTRIA E COMÉRCIO DE ESQUADRIAS LTDA. (FMF) promoveu ação de cobrança contra GEDBRAZIL INVESTIMENTOS IMOBILIÁRIOS LTDA. (GED), pleiteando o pagamento do valor de R$ 34.502,28 (trinta e quatro mil quinhentos e dois reais e vinte e oito centavos).
+GED contestou e reconveio.
+Em primeira instância, o pedido foi julgado improcedente e procedente a reconvenção (e-STJ, fls. 158/161).
+FMF interpôs recurso de apelação, que não foi provido pelo Tribunal de Justiça de São Paulo, em acórdão da relatoria do Des. SÁ DUARTE, assim ementado:
+COMPRA E VENDA DE BENS MÓVEIS E PRESTAÇÃO DE SERVIÇOS Fornecimento e instalação de esquadrias metálicas e acessórios Pretensão de cobrança formulada pela vendedora julgada improcedente, julgada procedente a reconvenção Ausência de entrega da totalidade dos produtos adquiridos e não conclusão dos serviços de instalação devidamente comprovadas nos autos Inadimplemento contratual da autora reconvinda (vendedora) Montante retido pela ré reconvinte compensado com os valores despendidos com terceiros para conclusão dos serviços, com saldo remanescente devido pela autora Multa contratual devida pela autora, porém, proporcionalmente à parte do contrato que deixou de ser cumprida Possibilidade de redução da multa, de ofício, nos termos do artigo 413, do Código Civil Apelação não provida, com alteração da r. sentença, de ofício, em relação ao valor da multa contratual (e-STJ, fl. 218).
+Os embargos de declaração de FMF foram rejeitados (e-STJ, fls. 235/238).
+Inconformada, FMF interpôs recurso especial com base no art. 105, III, a e c, da CF, alegando violação dos arts. 489, IV, e 1.022 do NCPC e dissídio jurisprudencial.
+O apelo nobre não foi admitido em virtude de (1) não ter sido demonstrada a ofensa aos arts. 489 e 1.022 do NCPC; (2) que o dissídio jurisprudencial não ficou configurado.
+Conheci doagravo em recurso especial daí decorrentepara negar provimento ao recurso especial, em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL NO NCPC. VIOLAÇÃO DOS ARTS. 489 E 1022 DO NCPC NÃO CONFIGURADA. ACÓRDÃO EXAMINOU AS QUESTÕES SUSCITADAS AINDA QUE DE FORMA CONTRÁRIA AO INTERESSE DA PARTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL (e-STJ, fl. 355 - com destaque no original).
+Ainda inconformada, FMF manejou agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE BENS MÓVEIS E PRESTAÇÃO DE SERVIÇOS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia
+5. Agravo interno não provido (e-STJ, fls. 387/388 - com destaque no original).
+Nas razões dos presentes embargos de declaração, FMF, repisando os argumentos trazidos nas razões do agravo interno, alegou contradição, poistoda a narrativa fática conduz à conclusão de que o direito àhomologação extrajudicial é devida.
+Houve impugnação ao recurso (e-STJ, fls. 407/419).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da ausência de violação dos arts. 489 e 1.022 do NCPC.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído pela ausência de violação dos arts. 489 e 1.022 do NCPC.
+Ficou explicitado quenão merecia respaldo a assertiva de que o v. acórdão não teria se manifestado sobre a entrega dos produtos adquiridos e a instalação foram concluídos, ocasião em que a retenção de 10%, deveria ter sido realizada em favor da recorrente  ..  o acórdão recorrido se equivocou ao entender que a devolução apenas caberia após a instalação, bem como não considerou os documentos de fls. 15, 25 e 31 que comprovam as afirmativas da recorrente, uma vez que o Tribunal local consignou, expressamente:
+As alegações deduzidas na apelação em nada abalam a r. sentença, destacando-se que não encontra respaldo nos elementos constantes dos autos a alegação da apelante no sentido de que a ausência da entrega de alguns itens não se confunde com a conclusão da instalação das Torres 01 e 02, na medida em que a não entrega da totalidade dos produtos e não conclusão dos serviços de instalação em ambas as torres restou bem demonstrada nos autos, considerando, sobretudo, o relatório de vistoria apresentado pela apelada, datado de 18.02.2017 (fls. 91/98), documento não impugnando pela apelante que, por sua vez, não comprovou a vistoria que alegou ter sido realizada a 10.11.2016.
+Há previsão contratual de que 10% do valor devido à apelante somente seria exigível após a conclusão da instalação com vistoria técnica (cláusula 3.2, letra "b" - fls. 14/15), conclusão que, como visto, não ocorreu, razão pela qual desprovida de qualquer fundamento a alegação da apelante no sentido de que a ausência de entrega de alguns produtos não se confunde com a conclusão da instalação.
+Daí porque correta a r. sentença ao julgar improcedente a pretensão da apelante de cobrança do valor referente aos 10% retidos pela apelada (e-STJ, fls. 221/222).
+Por oportuno, foi transcrito trecho do v. acórdão prolatado nos embargos de declaração:
+O que se constata é que a embargante pretende que prevaleça a interpretação do contrato que mais lhe favorece, discordando daquela constante do v. acórdão embargado, no qual foi analisada expressamente a questão das retenções de pagamentos, com base nas disposições da cláusula 3.2, letra "b" do contrato.
+Ressalte-se que, ao contrário do alegado pela embargante consta expressamente da referida cláusula contratual a previsão de restituição dos 10% retidos após a conclusão da instalação e não após a entrega dos produtos (fls. 14/15), de modo que não se trata, no caso, de contradição e obscuridade, mas do puro e simples inconformismo da embargante com o resultado do julgamento (e-STJ, fls. 237/238).
+Salientou-seque não haveria de se falar em negativa de prestação jurisdicional, pois o Tribunal local decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Assim, constatou-se que não houve quaisquer dos vícios elencados no art. 1.022 do NCPC.
+Ressaltou-se, ainda, que o acórdão recorrido foi devidamente fundamentado, não se podendo falar em violação dos arts. 489, § 1º, e 1.022 do NCPC, uma vez que o Tribunal estadual se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário a sua pretensão não caracteriza falta de prestação jurisdicional.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificado o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno FMF ao pagamento da multa de 2% sobre o valor atualizado da causaem favor de GED, nos termos do art. 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbenciais, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
