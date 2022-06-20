@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por ARMINDO GOMES DE ANCIAES contra a decisão de fls. 411/414, integrada às fls. 455/456, que negou provimento ao seu agravo em recurso especial com base na aplicação da Súmula 83/STJ e não ocorrência de negativa de prestação jurisdicional.
+O agravante insiste na ocorrência de negativa de prestação jurisdicional com a omissão do Tribunal de origem em analisar sua alegações acerca da previsão do acórdão exequendo no sentido da restituição do valor real que teria sido remunerado em caderneta de poupança. Defende, de outro lado, que não incide na hipótese o enunciado nº 83 da Súmula/STJ, tendo em vista que a remuneração da poupança equivale aos juros remuneratórios incluídos nos cálculos do valor devido. Após repisar seus argumentos anteriormente expendidos no recurso especial, o agravante requer a reforma da decisão para conhecimento e provimento do recurso.
+Intimado, o agravado pugnou pela manutenção da decisão (fl. 493/500).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXPURGOS. POUPANÇA. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. NÃO CABIMENTO NA FASE DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APLICAÇÃO DA SÚMULA 83 DO STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil.
+2. A jurisprudência desta Corte orienta que, não havendo disposição acerca de juros remuneratórios no título que condenou ao pagamento de expurgos inflacionários em caderneta de poupança, admitir sua inclusão nos cálculos importaria em patente violação à coisa julgada.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Depreende-se dos autos que o agravado ofereceu embargos na execução de sentença condenatória ao pagamento de expurgos inflacionários em caderneta de poupança que lhe move o agravante.
+O Tribunal de origem reconheceu a inexistência de expressa condenação no pagamento de juros remuneratórios, pelos seguintes fundamentos (fl. 170):
+Cuida-se, "in casu", de execução de sentença que condenou o Bacen ao creditamento do IPC (março/90), na caderneta de poupança do autor, conforme se verifica da leitura da sentença (fls. 70/77, autos principais), "in verbis": "ao pagamento do valor correspondente ao percentual de 85,24 %, devidos sobre o saldo da conta em março de 1990, tudo acrescido de correção monetária, desde a data dos expurgos, e com a incidência de juros sobre as parcelas já corrigidas até o efetivo pagamento.."
+O Acórdão de fls. 110/114 e Ementa (fl. 115) manteve a sentença,e transitou em julgado.
+Conforme se verifica, não houve previsão expressa de pagamento de juros remuneratórios, no título executivo, sendo certo que o Eg. STJ entende que, em assim sendo, não é possível a inclusão dos referidos juros na fase de execução.
+O acórdão recorrido recebeu a seguinte ementa (fls. 174/175):
+EMBARGOS À EXECUÇÃO. EXPURGOS. POUPANÇA. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. DESCABIMENTO NA FASE DE EXECUÇÃO. APELAÇÃO DO BACEN PROVIDA. VERBA HONORÁRIA FIXADA EM PATAMAR IRRISÓRIO, EM FAVOR DO EMBARGADO. CABIMENTO DA MAJORAÇÃO. APELAÇÃO ADESIVA PROVIDA.
+1 Cuida-se, "in casu", de execução de sentença que condenou o Bacen ao creditamento do IPC (março/90), na caderneta de poupança do autor, conforme se verifica da leitura da sentença (fls. 70/ 77, autos principais), "in verbis": "ao pagamento do valor correspondente ao percentual de 85,24 %, devidos sobre o saldo da conta em março de 1990, tudo acrescido de correção monetária, desde a data dos expurgos, e com a incidência de juros sobre as parcelas já corrigidas até o efetivo pagamento.."O Acórdão de fls. 110/114 e Ementa (fl. 115) manteve a sentença, e transitou em julgado. Conforme se verifica, não houve previsão expressa de pagamento de juros remuneratórios, no título executivo, sendo certo que o Eg. STJ entende que, em assim sendo, não é possível a inclusão dos referidos juros na fase de execução. Verifique-se: "AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS DE POUPANÇA. JUROSREMUNERATÓRIOS. INCLUSÃO DA FASE DE CUMPRIMENTO DE SENTENÇA. DESCABIMENTO. PRINCÍPIO DA FIDELIDADE AO TITULO.1. Limitação do cumprimento de sentença ao exato comando expresso no título executivo (princípio da fidelidade ao título). 2. Descabimento da inclusão, sem amparo no título executivo, de juros remuneratórios no cumprimento de sentença condenatória ao pagamento de expurgos inflacionários de caderneta de poupança. 3. AGRAVO REGIMENTAL DESPROVIDO." (AgRg no REsp 1172763/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO,TERCEIRA TURMA, julgado em 20/11/2012, DJe 23/11/2012). Deve ser retificada a planilha de fls. 50/51, de modo a que se excluam os juros remuneratórios ali contabilizados.
+2 - O maior sucumbente na causa foi o Banco Central do Brasil, vez que o mesmo apontou um excesso de execução em um valor de cerca de 33 mil reais. Considerando que a causa é singela, não tendo demandado grande labor jurídico, por parte dos causídicos, fixa-se a verba honorária (CPC, parágrafo 4º. do artigo 20) em 5% (cinco por cento) sobre o valor da causa (R$ 33.220,35,fl.5), em favor dos patronos de ARMINDO GOMES DEANCIAES.
+3 - Apelação do BANCO CENTRAL DO BRASIL provida. Apelação adesiva de ARMINDO GOMES DE ANCIAES provida.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (fls. 205/220).
+No recurso especial e no presente agravo interno, o agravante insiste nas alegações de ofensa aos artigos 67, 468, 471, 472, 473, 474 e 535 do Código de Processo Civil de 1973 e 186 e 927 do Código Civil. Sustenta a ocorrência de negativa de prestação jurisdicional e, no mérito, que é devida a inclusão de juros remuneratórios no cálculo do valor devido a título de restituição das diferenças depositadas em poupança decorrentes de expurgos inflacionários, sob pena de ofensa à coisa julgada e enriquecimento ilícito.
+Não prospera, porém, o recurso.
+Conforme se verifica no excerto acima transcrito, o acórdão estadual decidiu a questão por inteiro e de forma suficientemente fundamentada, o que afasta a ocorrência da alegada negativa de prestação jurisdicional.
+Conforme consignado na decisão agravada, o julgador não está obrigado a responder todos os questionamentos das partes, todavia, deve resolver o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, o que ocorreu no presente caso.
+De outro lado, não havendo disposição acerca de juros remuneratórios no título judicial, admitir sua inclusão nos cálculos importaria em patente violação à coisa julgada, como já se decidiu.
+Lembro, ainda, o entendimento deste Superior Tribunal no sentido de que "os juros remuneratórios não decorrem da correção monetária, mas dependem de expressa previsão do título judicial, bem como de pedido da parte, não havendo como eles serem deferidos de ofício" (REsp 1.123.036/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 17.11.2009).
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. JUROS REMUNERATÓRIOS NÃO FIXADOS EM SENTENÇA. INCLUSÃO NA FASE DE LIQUIDAÇÃO. OFENSA À COISA JULGADA. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1 - Segundo orientação fixada por este Superior Tribunal, diversamente do que sucede com os juros moratórios (Súmula nº 254/STF), ofende a coisa julgada a inclusão, em fase de liquidação, de juro remuneratório não expressamente fixado em sentença. Precedentes da Segunda Seção do STJ.
+2 - Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.339.464/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 28.10.2011);
+ADMINISTRATIVO - INCLUSÃO DE OFÍCIO DE JUROS REMUNERATÓRIOS EM CADERNETA DE POUPANÇA - INEXISTÊNCIA DE PEDIDO DA PARTE - IMPOSSIBILIDADE.
+1. Esta Corte, no julgamento de recursos especiais em que se discutia a possibilidade de inclusão de ofício de juros remuneratórios somente em fase de execução de sentença transitada em julgado, entendeu pela impossibilidade de sua concessão, em respeito à coisa julgada.
+2. Raciocínio que se aplica à presente hipótese, em que em apelação a instância de origem determinou a inclusão dos juros remuneratórios na composição da caderneta de poupança, sem que ela tivesse sido determinada pela sentença ou pleiteada na petição inicial.
+3. Os juros remuneratórios não decorrem da correção monetária, mas dependem de expressa previsão do título judicial, bem como de pedido da parte, não havendo como eles serem deferidos de ofício.
+4. Recurso especial provido.
+(REsp 1.123.036/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 17.11.2009);
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA N. 1998.01.016798-9 DE BRASÍLIA/DF. IDEC VS. BANCO DO BRASIL. JUROS REMUNERATÓRIOS. AUSÊNCIA DE CONDENAÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INCLUSÃO DA VERBA. IMPOSSIBILIDADE. COISA JULGADA.
+1. Não tendo havido condenação expressa ao pagamento de juros remuneratórios na ação civil pública n. 1998.01.016798-9 (Idec vs. Banco do Brasil), que tramitou na 12ª Vara Cível de Brasília/DF, descabe a inclusão dessa verba na fase de execução individual, sob pena de indevida ampliação do alcance objetivo da coisa julgada.
+2. Recurso especial provido. (REsp 1.349.971/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 15.9.2014);
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. JUROS REMUNERATÓRIOS. TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No cumprimento de sentença condenatória para pagamento de expurgos inflacionários de caderneta de poupança, é vedada a inclusão de juros remuneratórios quando não há expressa previsão no título executivo.
+3. Agravo interno não provido.
+(AgInt no REsp 1911962/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 17.8.2021).
+Enfatizo, por fim, o entendimento deste Superior Tribunal no sentido de que "os juros remuneratórios não decorrem da correção monetária, mas dependem de expressa previsão do título judicial, bem como de pedido da parte, não havendo como eles serem deferidos de ofício" (REsp 1.123.036/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 17.11.2009).
+Incide, portanto, a Súmula 83 do STJ à hipótese.
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
