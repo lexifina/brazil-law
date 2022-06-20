@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SPE RESERVA I EMPREENDIMENTO IMOBILIÁRIO S.A.contra a decisão (fls. 591/595 e-STJ), integradapor aquela proferida nos embargos de declaração (fls. 612/617 e-STJ), negou provimento aorecurso especial.
+Na oportunidade, as seguintes questões foram decididas:
+(i) inadmissível recurso especial por afronta a texto de súmulas;
+(ii)a jurisprudência do Superior Tribunal de Justiça permite a retenção no percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador;
+(iii)o reexame da conclusão da Corte local, de que os valores pagos a título de sinal, seguro e taxa de rateio estão incorporados no valor de venda do imóvel, demandaria a incursão nos aspectos fático-probatórios dos autos e nas cláusulas contratuais, procedimentoinviável em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ;
+(iv)a jurisprudência desta Corte éassente no sentido de que, "em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cadadesembolso" (AgInt no AREsp 208.706/RJ, Relator Ministro Raul Araújo, Quarta Turma,julgado em 22/8/2017, DJe 13/9/2017), e
+(v) incidência das Súmulas nºs 282, 283 e 284/STF.
+Em suas razões (fls. 620/644 e-STJ), a agravante alega quehouve a devida discussão acerca do leilão extrajudicial,da impossibilidade de rescisão e da necessidade de majoração da retenção determinadae que por issodevem ser afastados os óbices das Súmulas nºs 282, 283 e 284/STF.
+Sustenta que as matérias referentes à impossibilidade de devolução das arras assecuratórias (sinal) e dos valores pagos a título de seguro e rateio não decorrem de análise dos fatos ou do contrato, mas, sim, por força de lei.
+Afirma, ainda, que aincidência da correção monetária se dáa partir do ajuizamento da ação.
+Ao final, requer a reconsideração da decisão atacada.
+A parte contrária não apresentou impugnação (fls. 647/649 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL.COMPRA E VENDA DE IMÓVEL.FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NºS 283 E 284/STF. COMPRADOR. DESISTÊNCIA. SINAL. SEGURO. TAXA DE RATEIO. BASE DE CÁLCULO.ACERVO FÁTICO-PROBATÓRIO.REEXAME. SÚMULAS NºS 5 E 7/STJ. PERCENTUAL DE RETENÇÃO. PARÂMETROS DE RAZOABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.CORREÇÃO MONETÁRIA. TERMO INICIAL. DESEMBOLSO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Afalta de prequestionamento dos artigos apontados como violados, a ausência de impugnação dos fundamentos do aresto recorrido e a falta de correspondência entre os artigos alegadamente violados e a motivação do acórdãoatraem os óbices das Súmulas nºs 282, 283 e 284/STF.
+3. Na hipótese,rever a conclusão da Corte local, no sentido de que os valores pagos a título de sinal, seguro e taxa de rateio estão incorporados no valor de venda do imóvel, demandariao revolvimento fático-probatóriodos autos e o reexame das cláusulas contratuais, procedimentos inviáveis em recurso especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias do caso concreto.
+5. A modificação do percentual fixado na origem demanda interpretação de cláusula contratual e reexame do acervo fático-probatório dos autos, procedimentos inviáveis em recurso especial (Súmulas nºs 5 e 7/STJ).
+6.Otermo inicial da correção monetária das parcelas pagas a serem restituídas em virtude da rescisão do contrato de compra e venda é a data de cada desembolso. Precedentes.
+7. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Conforme consignado na decisão atacada,deinício, cumpre asseverar que não cabe recurso especial por afronta a texto de súmulas, pois estas não se enquadram no conceito de lei federal previsto no art. 105 da Carta da República.
+Nesse sentido: AgRg no AREsp 309.724/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 7/6/2013; AgRg no AREsp 234.600/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24/5/2013, eAgRg no REsp 1.267.276/RS, Rel. Ministra Assusete Magalhães, Sexta Turma, DJe 27/5/2013.
+No tocante à legalidade das cláusulas contratuais, a recorrente afirmou, nas razões recursais,que "o presente caso não é hipótese de resolução contratual, mas, sim, de resilição unilateral por parte dos compradores/recorridos" (fl. 395 e-STJ), e que não foi pactuada entre as partes nenhuma cláusula de arrependimento. Defendeu, ainda, a necessidade de ser determinada a inversão do ônus da prova para a comprovação da alegada perda superveniente de capacidade econômica do consumidor. Ademais, indicou contrariedade aos arts. 463, 474 e 475 do Código Civil.
+Eis os fundamentos do acórdão recorrido a respeito da possibilidade de rescisão do contrato:
+"(..) andou bem a sentença ao garantir ao consumidor a possibilidade de rescisão do contrato, uma vez que não se pode obrigar qualquer das partes a permanecer no contrato, revelando-se abusiva qualquer cláusula que a impeça.
+Destaque-se o posicionamento desta 26ª. Câmara Cível, aplicável por analogia à espécie, reconhecendo a impossibilidade da irretratabilidade do contrato de promessa de compra e venda com base no art. 32, § 2º, da Lei nº 4.591/64, por ter o pedido de rescisão do contrato se dado por impossibilidade financeira do autor de continuar honrando com o pagamento das parcelas, uma das motivações trazidas pela parte autora no presente caso concreto. Refira-se o aresto:
+(..)
+Mesmo nos casos em que o imóvel é dado em garantia, a Corte Superior vem admitindo a pretensão de desfazimento do negócio com restituição parcial dos valores pagos, sem necessidade de alienação do bem.
+(..)
+Nesse diapasão, considerando que ninguém é obrigado a permanecer no vínculo contratual indefinidamente, em observância ao princípio da autonomia da vontade, frise-se ser cabível a rescisão pretendida, não sendo possível se impor a perda do valor total pago ou de percentual desarrazoado, se o contrato não se aperfeiçoar, sob pena de enriquecimento sem causa da outra parte.
+Ademais, tem-se que a desistência do negócio jurídico por parte do comprador é risco inerente à atividade desenvolvida pela ré e, portanto, fato previsível que deve ser considerado quando do planejamento do empreendimento a ser executado"(fls. 347/349 e-STJ - grifou-se).
+Desse modo, a falta de prequestionamento dos artigos apontados como violados, a ausência de impugnação dos fundamentos do aresto recorrido e a falta de correspondência entre os artigos alegadamente afrontados e a motivação do acórdãoatraem os óbices das Súmulas nºs 282, 283 e 284/STF.
+Quanto à assertiva deque o imóvel foi leiloado por valor inferior ao débito e às despesas com o leilão, não havendo falar em devolução de valores aos adquirentes, ocorrendo a perda do objeto relativa à resilição contratual, a parte recorrente apontou a violação do art. 63 da Lei nº 4.591/1964.
+O tribunal de origem assim consignou a respeito da alegada perda do objeto:
+"(..)
+Por conseguinte, não há falar em perda do objeto, revelando-se inaplicável o artigo 63 da Lei 4.591/64, na forma pretendida pelo apelante, considerando a realização do leilão extrajudicial apenas em 28/11/2016 e notificação extrajudicial dos autores pela ré, em razão de alegado inadimplemento, quando já ciente a ré acerca da intenção dos autores de ver reconhecido seu direito à rescisão contratual, nos moldes da mencionada notificação do indexador 25.
+Ademais, tendo em vista que o disciplinamento das incorporações imobiliárias não implica na revogação ou afastamento do Código de Defesa do Consumidor, aplicável in casu a disciplina inserta no artigo 53 do CDC.
+Com efeito, a parte ré, seguramente sabedora da fragilidade do consumidor, que demonstrou zelo em desfazer um contrato que já não se via em condições de honrar, assumiu conduta repreensível, na medida em que deixou de observar o princípio do mutualismo contratual, para se prevalecer da vulnerabilidade do consumidor no mercado (art. 4º, inciso I, da Lei nº 8.078/90), pretendendo a perda total das prestações pagas.
+Acresce que, na espécie de contrato de que se trata, mostra-se possível ao credor negociar o bem objeto do distrato com terceiro, de maneira a, no mínimo, amenizar suas perdas.
+O que não se revela possível, diante da boa-fé objetiva e da sucessão de eventos supracitada, é se valer a ré do instrumento contratual para justificar a realização de leilão, em 2016, no qual, inclusive, a própria ré adjudicou o imóvel, a fim de quitar o débito dos autores, não lhes restituindo valor algum das parcelas pagas.
+A boa-fé objetiva serve como limitação contra os abusos de direito e impõe a adoção de conduta compatível com padrões sociais de lisura, honestidade e correção, devendo ser observada em todas as fases do contrato.
+No caso concreto restou comprovada a tentativa por parte dos autores de realizar o distrato tão logo inadimpliram, tentativa esta frustrada pela ré.
+Nesse contexto, percebe-se que, em realidade, o leilão noticiado pela ré notoriamente visa burlar o entendimento jurisprudencial consentaneamente aplicado às hipóteses de rescisão contratual por culpa dos compradores na aquisição de imóveis na planta" (fls. 344/347 e-STJ - grifou-se).
+Nesse contexto, observa-se que a tese da recorrente não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, extrai-se das razões recursais que a recorrente não refutou os fundamentos acima destacados e que foram adotados pela Corte local a respeito do referido tema.
+Assim, havendo fundamento suficiente no julgado combatido que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF,por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+De mais a mais, encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado,aplica-se, por analogia, o óbice previsto na Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO. AGRAVO. RAZÕES RECURSAIS DISSOCIADAS DO QUE RESTOU DECIDIDO NA DECISÃO AGRAVADA. SÚMULAS 283 E 284/STF. AGRAVO IMPROVIDO.
+1.- Estando as razões do Agravo Interno dissociadas do que restou decidido na Decisão agravada, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+2.- Agravo Regimental improvido" (AgRg no AREsp 279.074/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 25/4/2013).
+Cumpre atentar, ainda, querever a conclusão da Corte local, de que os valores pagos a título de sinal, seguro e taxa de rateio estão incorporados no valor de venda do imóvel, demandaria a incursão nos aspectos fático-probatórios dos autos e nas cláusulas contratuais, o que é inviável em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ.
+No caso dos autos, o compromisso de compra e venda foi rescindido a pedido do promitente comprador, tendo o tribunal de origem considerado razoável a retenção de 20% (vinte por cento) dos valores pagos sem a inclusão do seguro, da taxa de rateio e das arras pagas.
+É o que consta no seguinte trecho do acórdão recorrido:
+"(..)
+Por outro lado, é justo e razoável admitir-se a retenção, pelo vendedor, de parte das prestações pagas como forma de indenizá-lo pelos prejuízos suportados, notadamente as despesas administrativas realizadas com a divulgação, comercialização e publicidade.
+O percentual de retenção de 20% fixado na sentença se mostra razoável, não merecendo alteração, prestigiando-se o valor arbitrando pelo magistrado sentenciante, que possui melhor contato com as provas produzidas, e condições mais favoráveis para aferir, com precisão, o percentual mais adequado a ser retido pela ré.
+Isso porque, ainda que se revele justo e razoável admitir a retenção, pelo vendedor, de parte das prestações pagas como forma de indenizá-lo pelos prejuízos suportados, o percentual a restituir deverá guardar correspondência com os parâmetros estabelecidos pelos Tribunais para casos análogos, em prestígio ao equilíbrio contratual e à isonomia.
+(..)
+Registre-se, por oportuno, o entendimento sedimentado no verbete sumular de nº 543 do STJ.
+A alegação de que as arras deveriam ser retidas integralmente tampouco merece ser provida, sob pena de enriquecimento sem causa do promitente vendedor, conforme entendimento jurisprudencial do Superior Tribunal de Justiça a seguir colacionado, que se adequa perfeitamente à hipótese sob julgamento:
+(..)
+O mesmo entendimento se aplica quanto aos valores referentes ao seguro e despesas de rateio, ou seja, comprovado o pagamento pelos autores, devem ser incluídos como base de cálculo do percentual a ser restituído, já que compõem o montante vertido pelo promitente-comprador, sendo certo que, conforme salientado pelos autores em contrarrazões, estes nunca chegaram a receber as chaves do imóvel, tampouco ocupá-lo" (fls. 347/355 e-STJ).
+De fato, a jurisprudência desta Corte permite a retenção no percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO PELA FRUIÇÃO E PELAS DESPESAS INCIDENTES SOBRE IMÓVEL AFASTADA COM BASE NA INEXISTÊNCIA DE POSSE DIRETA DO COMPRADOR. AUSÊNCIA DE IMPUGNAÇÃO À SÚMULA 283/STF. PRECLUSÃO. RETENÇÃO DE PERCENTUAL DOS VALORES PAGOS EM CASO DE RESOLUÇÃO CONTRATUAL POR CULPA DO COMPRADOR. SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+(..).
+2. A jurisprudência desta Corte Superior está orientada no sentido de permitir a retenção no percentual entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador, bem como proibir a revisão do valor estabelecido nesta circunstância, por implicar reexame fático-probatório. Caso concreto no qual a multa contratualmente estabelecida para a supracitada hipótese foi reduzida pelo Tribunal de origem para 20% dos valores pagos, com base na suficiência reparatória do montante arbitrado.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido"(AgInt no AREsp 1.140.299/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. ATRASO NA ENTREGA DE IMÓVEL. DISTRATO. INICIATIVA DO COMPRADOR. RETENÇÃO ENTRE 10% E 25% DAS PRESTAÇÕES PAGAS.
+(..)
+5. Nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador, é admitida a flutuação do percentual da retenção pelo vendedor entre 10% a 25% do total da quantia paga. Precedentes.
+6. Agravo interno não provido"(AgInt no AREsp 1.537.311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2019, DJe 20/11/2019).
+Além disso,
+"(..) as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no REsp 1.197.860/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/12/2017, DJe 12/12/2017).
+Compete mencionar que a modificação do percentual fixado na origem demanda interpretação de cláusula contratual e reexame do acervo fático-probatório dos autos, procedimentos inviáveis em recurso especial (Súmulas nºs 5 e 7/STJ).
+Ainda no que diz respeito à majoração do percentual de retenção, defendeu a parte recorrente a aplicação da Lei nº 13.786/2018por entender que tem o direito de reter 50% (cinquenta por cento) ou, alternativamente, 30% (trinta por cento) dos valores pagos.
+Ocorre que tal assertiva não foi objeto de discussão pela Corte estadual, o que atrai o óbice da Súmula nº 282/STF.
+Registra-se que a deficiência na fundamentação recursal ficou evidenciada em relação a esse tema, visto que a recorrente não indicou especificamente quaisartigos de lei federal teriam sido contrariados pelo aresto recorrido, embora tenha se insurgido quanto à motivação da decisão, inviabilizando a compreensão da controvérsia posta nos autos.
+Consectariamente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Por fim, registra-se que a jurisprudência do STJ é assente no sentido de que, "em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cadadesembolso" (AgInt no AREsp 208.706/RJ, Relator Ministro Raul Araújo, Quarta Turma,julgado em 22/8/2017, DJe 13/9/2017).
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA COMBINADA COM INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.SÚMULA Nº 282/STJ. RESOLUÇÃO CONTRATUAL. CULPA DO COMPRADOR.PERCENTUAL RETIDO. REVISÃO. SÚMULA Nº 7/STJ. ARRAS CONFIRMATÓRIAS.RETENÇÃO. IMPOSSIBILIDADE. CORREÇÃO MONETÁRIA. TERMO INICIAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. A jurisprudência desta Corte permite a retenção no percentual entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador.
+5. Para rever a conclusão da corte local, de que mostra-se razoável a retenção de 20% (vinte por cento) dos valores pagos pelos recorridos, seria necessária a incursão nos aspectos fático-probatórios dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+6. As arras confirmatórias não podem ser objeto de retenção no caso de resolução contratual por inadimplemento do comprador, pois servem como garantia do negócio e são início de pagamento.
+7. A correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso quando houver rescisão de contrato de compra e venda de imóvel.
+8. Agravo interno não provido"(AgInt nos EDcl no AREsp 1.645.384/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2021, DJe 03/11/2021).
+Logo, a consonância doacórdão recorrido com o entendimento dominante desta Corte atrai a incidência da Súmula nº 568/STJ nos pontos acima especificados.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
