@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de embargos de declaração opostos por Maria da Conceição de Laracontra acórdão proferido pela Primeira Turma deste Sodalício, assim ementado (fls.831):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RAZÕES DO INCONFORMISMO ESTÃO DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. SÚMULA 284/STF.
+1. É inadmissível o agravo interno que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos na decisão agravada. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. ").
+2. Agravo interno não provido.
+Aparte embargante sustenta, em resumo, que o julgado restou omisso e contraditório, "pois insistir na aplicabilidade da teoria do risco integral e do princípio do poluidor-pagador interfere diretamente na constituição do "liame causal apto a vincular o resultado lesivo à conduta do agente tido como poluidor" (nexo causal)" (fl. 841).
+Aduz que "a jurisprudência da Corte Superior é pacífica no sentido de que deve haver inversão do ônus da prova, cabendo ao poluidor comprovar que não causou o dano ou que ele não decorre de sua atividade (nexo causal),aplicando-se a súmula 618/STJ" (fl. 842).
+Afirma que a discussão dos autos não busca rever o nexo causal, mas definir se cabe à parte autora a sua comprovação, sendo questão exclusivamente de direito.
+Requer, desse modo,o acolhimento dos aclaratórios com atribuição de efeitos infringentes,para que sejam sanados os víciosapontados, bem como o prequestionamento dos arts. 5º, X, 93, IX, 105, III, ae c, 225, § 3º, e170, V, VI, da Constituição Federal.
+Impugnação da embargada às fls. 847/850.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RESPONSABILIDADE CIVIL AMBIENTAL.DECISÃO COLEGIADA. INEXISTÊNCIA DE QUALQUER DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS.PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição e omissão da decisão recorrida ou, ainda, para correção de erro material.
+2. No caso, não se verifica a existência de qualquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios nojulgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Não cabe ao Superior Tribunal de Justiça examinar, no âmbito do recurso especial, nem sequer a título de prequestionamento, eventual violação a dispositivo constitucional, tarefa reservada ao Pretório Excelso.
+5.Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição e omissão da decisão atacada ou, ainda, para correção de erro material.
+Entretanto, no caso dos autos, não se verifica a existência de qualquer dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficoudevidamente consignadano acórdão hostilizado a aplicabilidade doóbicedaSúmula284/STF, uma vez que não há congruência entre o que restou consignado na decisão monocrática deste relator e as razões contidas no agravo interno.
+A propósito, confiram-se os seguintes excertos do acórdão embargado (fls. 834/836):
+No caso, verifica-se que, conforme acertadamente consignou a decisão ora fustigada, as razões do recurso especial (incabível imputar à parte autora o ônus da prova do nexo causal entre as ações da agravada e o dano ambiental) estão dissociadas da fundamentação do acórdão Regional (desnecessidade de inversão do ônus probatório, porque o processo contou com farta instrução probatória, com prova testemunhal e com laudo pericial de extrema especificidade), de forma que o recurso especial não pode ser conhecido no particular, nos termos da Súmula 284/STF.
+(..)
+Por outro lado, cumpre registrar que a decisão agravada, ao examinar a tese empreendida no recurso especial ("aplica-se a teoria do risco integral aos casos envolvendo danos ambientais, não cabendo excludentes, nem dependendo da culpa do agente poluidor" - fl. 713), decidiu que o acordão recorrido está em sintonia com a jurisprudência desta Corte Superior, que assevera, "Em que pese a responsabilidade por dano ambiental seja objetiva (e lastreada pela teoria do risco integral), faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp 1.596.081/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 22/11/2017).
+Nada obstante, nas razões do agravo interno, argumenta-se que "o entendimento consolidado da Corte Superior, em decorrência da teoria do risco integral e do próprio princípio do poluidor-pagador, é o de que deve haver a inversão do ônus da prova, como se vê dos seguintes acórdãos do STJ" (fl. 821).
+Como se vê, não há congruência entre o que restou decidido no decisum agravado e a tese recursal do agravo em tela, porque a afirmação de que a teoria do risco integral e o princípio do poluidor-pagador implicam a inversão do ônus probatório não tem o condão de arrostar a conclusão que alicerça a decisão agravada, qual seja, a de que, embora a responsabilidade pelo dano ambiental seja objetiva, é imprescindível estabelecer um liame causal apto a vincular o resultado lesivo à conduta do agente tido como poluidor.
+Destarte, a manifesta falta de correspondência entre o que restou decidido na decisão ora guerreada e as razões do agravo interno atrai, mais uma vez, a aplicação da Súmula 284/STF.
+Em relação à Súmula 7/STJ, também não há pertinência lógica entre a tese recursal e a decisão ora atacada, pois, enquanto a parte agravante afirma que "não há necessidade de revolver o conjunto fático-probatório dos autos", porque "o objeto do recurso especial, inclusive quanto ao dissídio jurisprudencial invocado, era tão somente o de se definir se, nesse caso, de responsabilidade ambiental, deve ou não haver a inversão do ônus da prova, que expressamente não foi invertido pelo acórdão recorrido, que atribuiu à parte autora o ônus relativo ao nexo causal" (fl. 820), o mencionado decisum se limitou a asseverar a impossibilidade de se revisar, em decorrência do óbice da Súmula 7/STJ, a conclusão adotada pelo Tribunal Regional acerca da inexistência do nexo de causalidade apto a ensejar a responsabilidade civil estatal. Assim, a incidência da Súmula 284/STF no particular é igualmente imperiosa.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes aclaratórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+Ressalte-se, por fim, que não cabe a esta Corte examinar, no âmbito do recurso especial, nem sequer a título de prequestionamento, eventual violação a dispositivo constitucional, tarefa reservada ao Pretório Excelso.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
