@@ -1,0 +1,78 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ORGANIZAÇÃO CRIMINOSA. PCC. ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ALEGAÇÕES DE BIS IN IDEM NA CONDENAÇÃO PELOS CRIMES DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA E DE IMPOSSIBILIDADE DE RECONHECIMENTO DE ORGANIZAÇÃO CRIMINOSA ARMADA POR AUSÊNCIA DE APREENSÃO DE ARMAS. QUESTÕES NÃO TRATADAS NA ORIGEM. SÚMULAS N. 282 E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, os agravantes deixaram de infirmar, nas razões do recurso especial, os fundamentos pelos quais o Tribunal de origem entendeu que eles efetivamente praticaram os delitos de associação para o tráfico e organização criminosa. Ademais, consoante reza o enunciado sumular 283/STF, aplicável aos recursos especiais por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Outrossim, atestada pelo Tribunal a quo a existência de elementos de prova suficientes para a condenação, não há como abraçar a tese defensiva de absolvição sem o efetivo revolvimento do acervo fático-probatório, providência vedada em recurso especial conforme o óbice prescrito pela Súmula n. 7/STJ.
+3. Ainda, quanto às alegações de ocorrência de bis in idem na condenação pelos crimes de associação para o tráfico de drogas e organização criminosa, e de impossibilidade de reconhecimento de organização criminosa armada por ausência de apreensão de armas com os ora recorrentes, da forma como debatidas no apelo extremo, verifico que não foram tratadas especificamente na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental de DIEGO PEREIRA BENTES, MARCOS FERREIRA DE SOUZA, MOHAMAD HASSAN ATRIS e REGINALDO REIS DA COSTA interposto contra decisão exarada no recurso em epígrafe (e-STJ fls. 3.307/3.314), por meio da qual dele não conheci, em virtude da incidência das Súmulas n. 283/STF e n. 7/STJ quanto ao pedido de absolvição dos crimes de associação para o tráfico e organização criminosa.
+Em suas razões, os agravantes aduzem, em síntese, que rebateram todos os argumentos do Tribunal de origem quanto à condenação e que a análise do pedido de absolvição não demandaria o revolvimento do conjunto fático-probatório, bem como requerem seja reconsiderada a decisão agravada ou, caso contrário, seja o mesmo submetido para julgamento ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida, in verbis (e-STJ fls. 3.309/3.314):
+No caso, o Tribunal de origem reconheceu a existência de elementos de prova suficientes para embasar o decreto condenatório, em desfavor dos recorrentes, nos seguintes termos (e-STJ fls. 2.349):
+Materialidade caracterizada por (i) todo o processo investigativo constante dos autos nº 0042456-19.2017.8.26.0050, contendo as quatro ações cautelares, em apenso digital próprio; e (ii) planilha contendo os nomes dos acusados relacionados à organização criminosa "PCC", f. 22/85 dos autos principais.
+E a respeito da cópia da planilha carreada, f. 22/85, não se vislumbra qualquer manipulação ou adulteração, tratando-se de cópia do que foi efetivamente apreendido, comprovado, ademais, pelos autos de exibição e apreensão decorrentes das medidas cautelares e de busca e apreensão em apenso.
+A posterior organização dos dados em forma relacionada possui mero caráter explanatório, não implicando em qualquer alteração ou manipulação de informações, até mesmo porque se encontram evidenciadas pelo lastro probatório investigativo já referido (autos nº 0042456-19.2017.8.26.0050).
+Daí que não se exige a apreensão de entorpecentes para caracterização da associação para o tráfico.
+Todavia, o severo envolvimento dos réus na traficância, como já caracterizado por r. sentenças condenatórias, reforça o quadro de associação que ora se verifica pelo acervo probatório material acima referido.
+Assim, a autoria, por seu turno, é incontestável.
+Tanto pelo sólido acervo investigativo, referido acima de forma sobejante, como por sua corroboração em sede judicial.
+Nesse sentido, há ainda as narrativas dos diligentes e competentes (i) Policial Civil Wagner, e (ii) Delegado Fernando, inquiridos por Deprecata, f. 1.561/1.562, estoriam exatamente a ação, em correspondência de detalhes, unicidade de entendimento e ação.
+Asseveram ter participado da apreensão de drogas e da planilha com nomes de integrantes do "PCC" na residência de Karina e Leandro, a respeito dos quais havia delações anônimas quanto à traficância.
+Apreendida a referida planilha, a Autoridade Policial desmembrou as investigações por regiões, a fim de facilitar a ação em diversos poios da Comarca.
+O Delegado destaca ter constatado que o averiguado Leandro, conhecido como "Léo exercia função na organização criminosa "PCC", atuando como "Sintonia de Cadastro" ou "Sintonia Financeiro", sendo responsável por manter e preservar os dados dos membros da organização, dentre os quais se verificam os acusados, além de diversos documentos de movimentação financeira do grupo, relacionados à traficância.
+Assevera que a referida organização criminosa se organiza geograficamente por divisão em "quebradas", cada qual com seu responsável, que apresenta relação de nome, apelido, "faculdades" (presídios em que esteve detido ou cumpriu pena), "batismo" (estabelecimento prisional em que se filiou à organização criminosa), "linha vermelha" (linha telefônica utilizada) e número de matrícula penitenciária.
+Dentre tais informações, havia referências aos acusados, cujos nomes, matrícula prisional, "faculdades" e "batismo" coincidiam com as informações reais constantes de seus cadastros junto ao Sistema de Administração Penitenciária e dados constantes de acervos de Delegacias, ou seja, da Secretaria de Segurança Pública.
+Destaca que, em seguida, recebeu informações a respeito da localização do acusado Edilson, momento em que diligenciou ao endereço declinado, onde apreendeu mais de 10 kg de entorpecentes, além de armas, sendo detidos outros agentes, embora Edilson já não estivesse mais no local.
+Por fim, assevera que os dados dos acusados, constantes da planilha apreendida, não apenas coincidiam com as informações individualizadas dos réus, como com seus envolvimentos na criminalidade e traficância.
+Evidentemente autênticos todos os relatos.
+O que só pode levar à certeza do quadro.
+Mas não é só.
+Afinal, o celular apreendido em poder do acusado Mohamad, f. 1.032/1.102. apresentava contabilidade da venda de drogas, fotos com grandes quantidades de narcóticos e de armas de uso restrito (até mesmo metralhadoras de fabricação caseira), de alto calibre, bem como de dinheiro e anotações da traficância. além de vídeos com o acusado Mohamad a manipular narcóticos.
+Como se vê. enfim, os elementos carreados trazem evidências materiais incontestáveis quanto ao envolvimento dos acusados em uma sólida organização criminosa, verdadeiramente associados, constando até mesmo informações de seu "batismo", ou seja, ingresso ã organização.
+Ademais, suas funções e o envolvimento na traficância dão conta certa da associação para o tráfico, que, como se viu, operando de forma vultosa e concatenada, corrobora a forma de ação associada para o fim de comércio de drogas, como atividade até mesmo fomentadora da estrutura da organização criminosa a que pertencem.
+Já os acusados, não apresentaram qualquer versão, valendo-se do direito constitucional ao silêncio.
+Daí que não há qualquer elemento capaz de inquinar de inverídicos os sólidos depoimentos das testemunhas policiais, que se viram corroborados pelo farto acervo documental.
+Daí que inexiste qualquer dúvida de que os acusados realmente praticaram todos os delitos imputados.
+Não há, enfim, e nem de longe, fragilidade probatória, "data vertia" do entendimento da origem.
+Ao reverso, ela é plena e categórica.
+E nada foi produzido pelas Defesas capaz de afastar tal conclusão.
+Afinal, todo o quadro relatado mostra que a situação de traficância não pode ser considerada isoladamente em relação a um todo, mas sim de maneira associada com os demais indivíduos da organização criminosa, até e para que pudesse aquela atividade ilícita ser desenvolvida.
+Por certo isolada ou não associada fosse a ação, não se teria tal quadro de traficância.
+E também restou plenamente caracterizada nos autos a prática de organização criminosa, agravada pelo emprego de arma de fogo, como se extrai dos autos, incluso com apreensão de elevada quantidade de armas de fogo, cediço, ademais que a organização criminosa "PCC" atua com ostensivo uso de armas de fogo.
+Condenação por todos os crimes, portanto, inevitável. (Grifei.)
+Quanto ao pleito de absolvição, não há como conhecer da insurgência recursal.
+Isso, porque verifico do exame do excerto referenciado que os fundamentos pelos quais a instância ordinária entendeu que os recorrentes teriam efetivamente praticado os delitos de tráfico de drogas e associação para o mesmo fim, ora destacados, suficientes, per se, à manutenção do acórdão recorrido, não foram impugnados especificamente pela defesa nas razões recursais, que se limitou a afirmar que eles deveriam ser absolvidos por não terem cometido conduta punível, uma vez que a única prova apresentada seria uma lista de nomes relacionados ao PCC. Desse modo, incide na espécie a Súmula n. 283/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1o, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULUTÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullíté sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.597.699/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.)
+Outrossim, ainda que se ultrapassasse tal óbice, não seria mesmo o caso de conhecimento do pleito recursal.
+Com efeito, se o Tribunal a quo afirmou expressamente, com base na análise do caderno probante do feito, que os recorrentes cometeram os delitos que lhes são ora imputados, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Nesse sentido:
+PENAL AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL ROUBO MAJORADO. ABSOLVIÇÃO. SÚMULA N. 7 DO STJ. RECONHECIMENTO PESSOAL ART. 226 DO CPP. NULIDADE. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. As instâncias de origem, após minuciosa análise do acervo fático- probatório carreado aos autos, produzido sob o crivo do contraditório, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do agravante pelos crimes de roubo e de corrupção de menores.
+2. Para entender-se pela absolvição, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. A jurisprudência deste Tribunal Superior entende que a inobservância das formalidades legais para o reconhecimento pessoal do acusado não enseja nulidade, por não se tratar de exigência, apenas recomendação, senão válido o ato quando realizado de forma diversa da prevista em lei, notadamente quando amparado em outros elementos de prova.
+4. Agravo regimental não provido. (AgRg no AREsp 1002962/SE, Rei. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/03/2017, DJe 16/03/2017)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. CONDENAÇÃO PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 386, VII, DO CÓDIGO DE PROCESSO PENAL. IN DÚBIO PRO REO. PLEITO ABSOLUTÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para alterara conclusão a que chegou as instâncias ordinárias, no sentido de que há, nos autos, elementos suficientes a ensejar a condenação da agravante, demandaria, necessariamente, o revolvimento do acervo fático- probatório, o que encontra óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo regimental não provido. (AgRg no AREsp 644.418/TO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/11/2015, DJe 01/12/2015)
+Ainda, quanto às alegações de ocorrência de bis in idem na condenação pelos crimes de associação para o tráfico de drogas e organização criminosa, e de impossibilidade de reconhecimento de organização criminosa armada por ausência de apreensão de armas com os ora recorrentes, da forma como debatidas no apelo extremo, não foram tratadas especificamente na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento.
+Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA. CONFISSÃO E REINCIDÊNCIA. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. RESP N. 1341370/MT. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. AGRAVO NÃO PROVIDO.
+1. A tese acerca da incidência da atenuante da confissão e sua posterior compensação com a agravante da reincidência não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282 do STF.
+ ..
+3. Agravo regimental não provido. Ordem de habeas corpus concedida de ofício para determinar a compensação da agravante da reincidência com a atenuante da confissão, redimensionando a pena para 9 anos, 7 meses e 6 dias de reclusão e 19 dias-multa, mantidos os demais termos da condenação. (AgRg no REsp 1.778.141/RO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/03/2019, DJe 25/03/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
