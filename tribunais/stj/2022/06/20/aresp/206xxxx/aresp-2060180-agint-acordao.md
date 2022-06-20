@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, na extensão conhecida, negar-lhe provimento, conforme a seguinte ementa:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. OMISSÃO. INEXISTÊNCIA. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno, o agravante insurge-se contra a incidência da Súmula n. 7/STJ quanto ao valor da indenização fixada pela Corte local e reitera a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, e a respectiva divergência jurisprudencial, sob o argumento de que não teriam sido enfrentadas as teses de irrisoriedade do valor da indenização e inaplicabilidade da sucumbência do autor da ação, a teor da Súmula n. 326/STJ. Assevera (e-STJ, fl. 641):
+A decisão ora agravada examinou o feito apenas pelas disposições dos artigos 489 e 1022 do CPC e se esqueceu de examinar as questões relativas aos artigos 186, 187, 927 do CC/02 e artigo 85, §§ 2º, 8º, 11º, do CPC/15, assim como deixou de avaliar o recurso sob o aspecto da alínea "c" do permissivo constitucional.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. OMISSÃO. INEXISTÊNCIA. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REEXAME DE MATÉRIA DE FATO. FUNGIBILIDADE INAPLICABILIDADE. DECISÃO MANTIDA.
+1.Inadmissívela interposição deagravo internopara análise de supostaomissão da decisão agravada, sendo osembargos de declaraçãoa via adequada para tal objetivo. Precedentes.
+2. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1022 do CPC/2015.
+3. Incabível o recurso especial que pretenda debater questões que envolvam dilação probatória fundamentada no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca modificar as conclusões do acórdão recorrido a respeito do valor da indenização, em razão da incidência do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):A irresignação não merece prosperar.
+Com efeito, não houve violação do art. 1.022 do CPC/2015, tendo em vista que a Corte local dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional, em especial no que se refere ao valor da indenização por dano moral estabelecido pelo Tribunal de origem.
+Quanto à suposta omissão da decisão agravada sobre a alegações de ofensa aos arts. 489 e 1.022 do CPC/2015 a respeito da fixação da verba honorária e da aplicação da Súmula n. 326/STJ, incabível o agravo interno.
+Nesse contexto, adequada seria a oposição de embargos declaratórios, não sendo cabível a aplicação do princípio da fungibilidade, a teor da jurisprudência do STJ. A propósito:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NA AÇÃO COMINATÓRIA EM DISSÍDIO DE GREVE. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRETENSÃO DE ANÁLISE DE QUESTÃO OMITIDA NA DECISÃO RECORRIDA. INADEQUAÇÃO DA VIA ELEITA. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. RECURSO NÃO CONHECIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - É incabível a interposição de agravo interno para análise de eventual omissão da decisão agravada, sendo os embargos de declaração a via adequada para tal objetivo.
+III - A aplicação do princípio da fungibilidade depende do preenchimento dos seguintes requisitos: i) dúvida objetiva quanto ao recurso a ser interposto; ii) inexistência de erro grosseiro; e iii) que o recurso interposto erroneamente tenha sido apresentado no prazo daquele que seria o correto. In casu, nenhum dos requisitos restou cumprido.
+IV - Agravo Interno não conhecido.
+(AgInt na Pet n. 10.997/DF, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 10/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. ALEGAÇÃO DE CONTRADIÇÃO E ERRO MATERIAL NA DECISÃO AGRAVADA. NÃO CABIMENTO. MATÉRIA OBJETO DE EMBARGOS DE DECLARAÇÃO POR EXPRESSA PREVISÃO LEGAL. AUSÊNCIA DE DÚVIDA OBJETIVA. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. INTERPOSIÇÃO DO RECURSO FORA DO PRAZO DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015.
+2. Dessa forma, por haver expressa previsão legal, inexiste dúvida objetiva, sendo configurado erro grosseiro a afastar a aplicação do princípio da fungibilidade recursal.
+3. Também não é possível aplicar o princípio da fungibilidade, uma vez que a UNIÃO foi intimada em 31/08/2020, tendo interposto o recurso somente em 13/10/2020, muito após o prazo legal para oposição dos embargos de declaração.
+4. Agravo interno não conhecido.
+(AgInt na ExeMS n. 20.774/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 21/3/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO DA DECISÃO AGRAVADA. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. NÃO PROVIMENTO.
+1. Se a parte alega omissão na decisão que negou seguimento ao recurso especial, deveria ter oposto os cabíveis embargos de declaração, no prazo legal. Não o fazendo, a matéria está preclusa, porquanto o agravo regimental não tem a função de suprir eventual ausência de manifestação na decisão agravada.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.902.061/AP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/3/2022.)
+Quanto à pretensão envolvendo redução do valor da multa imposta pelo agravado, inafastável a incidência da Súmula n. 7/STJ, diante da necessidade de análise das circunstâncias fáticas em que se deu a fixação da verba indenizatória.
+No caso concreto, o Tribunal Regional realizou juízo de natureza fática para redimensionar o valor da indenização.Tal juízo não pode ser modificado sem nova apreciação de matéria probatória, daí a incidência do óbice sumular ora questionado. Como a parte agravante não infirmou os fundamentos da decisão agravada, seu teor deve ser reiterado:
+Ao rejeitar os embargos declaratórios, afastando a pretensão de majoração da verba indenizatória, a Corte local assim se pronunciou (e-STJ, fls. 217/218):
+A responsabilidade da ré pelo evento, apontada na petição inicial, foi bem reconhecida na sentença uma vez que não logrou ela demonstrar a regularidade da emissão da conta de consumo que não teria sido paga e, por essa razão, objeto da inscrição desabonadora.
+Claro que o autor poderia ter sido mais explícito e, ao alegar que, na época, residia com a mãe, fazer mais, demonstrando, em boa-fé, que isso era real.
+De qualquer maneira, a ré não se acautelou quando da contratação com documentação satisfatória para a identificação adequada do ocupante do imóvel para onde forneceu a energia elétrica. Assim, sua obrigação de indenizar não comporta mais discussão.
+Apreciam-se, então, os pedidos de majoração/diminuição da indenização por danos morais e a questão do "dies a quo" da incidência dos juros da mora.
+No que se refere ao "quantum", assinala-se que deve se ter presente a moderação recomendada na doutrina e na jurisprudência, tanto para que se evite enriquecimento indevido de uma parte em detrimento de outra como, ainda, para que se observem os limites geralmente aceitos em casos análogos, de modo a que se chegue a um valor que,compensando a dor moral sofrida, contenha componente de punição e desestímulo, sem excesso nem aviltamento.
+Mais ainda, "deve o juiz: 1) punir pecuniariamente o infrator, pelo fato de haver ofendido um bem jurídico da vítima, posto que imaterial; 2) por nas mãos do ofendido uma soma, que não é o pretium doloris, porém o meio de oferecer oportunidade de conseguir uma satisfação.. ou seja um bem estar psíquico compensatório do mal sofrido, numa espécie de substituição da tristeza pela alegria.."(CAIO MÁRIO DA SILVA PEREIRA, "Direito Civil", Vol. II, nº 176).
+No caso, e levando-se em conta tais parâmetros e circunstâncias, tem-se por elevada a quantia fixada na r. sentença, a qual, então, fica aqui diminuída para mil reais; importância, ainda assim, adequada e suficiente como lenitivo.
+Aumentá-la seria causa de enriquecimento indevido ao autor, tanto mais na quantia astronômica pretendida, em tangenciamento a litigância de má-fé.
+Anote-se, por fim, que tem ele razão quanto ao termo inicial dos juros da mora, que deve ser o da inscrição desabonadora (primeira). Com efeito, o C. Superior Tribunal de Justiça já firmou posição no sentido de que, em casos de responsabilidade extracontratual, estes "fluem a partir do evento danoso" (Súmula 54do STJ, AgRg no AREsp nº 515.471 e AgRg no Ag 729.908).
+Para tais fins (diminuição da indenização e cômputo dos juros da mora desde a data do registro desabonador), então, é que se altera o que foi decidido; dado o sucumbimento em maior parte do autor, altera-se a disciplina da sucumbência (§§2º, 8º e 11 do Cód. de Proc. Civil): arcará ele (mantido o benefício de justiça gratuita) com um terço das despesas da taxa judiciária e a ré com o restante; pagará ele honorários de dois mil reais e ela de mil reais, com atualização desde hoje.
+No caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao reconhecer adequado o valor atribuído à indenização requerida.
+Em suma, as questões apresentadas pelo recorrentes foram examinadas de modo suficiente e fundamentado, por isso não é caso de acolher as alegações de que houve negativa de prestação jurisdicional ou vício de fundamentação.
+Nesse cenário, a modificação das conclusões do acórdão recorrido para majorar o valor fixado a título de indenização por danos morais, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
