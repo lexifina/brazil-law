@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno de decisão que conheceu do agravo para não conhecer do recurso especial, conforme a seguinte ementa:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO. CONEXÃO. PACTUAÇÃO. PRAZO PARA CUMPRIMENTO. INTERVENÇÃO DO MUNICÍPIO. AUSÊNCIA DE INTERESSE. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante insurge-se contra a incidência da Súmula n. 7/STJ, aduzindo a desnecessidade do reexame de matéria de prova para o enfrentamento das teses apresentadas no recurso especial. Assevera (e-STJ, fls. 876/877):
+(..). O primeiro fato incontroverso é a existências de diversos processos, distribuídos aleatoriamente, ainda que baseados no mesmo título executivo: um "acordo de transação" celebrado entre o Recorrente e os ocupante do imóvel situado à Avenida Francisco Bicalho, n. 49, Centro/RJ, mediante assistência da Defensoria Pública.
+O caso discutido nos autos é um deles, mas não é o primeiro. Desse modo, a Agravante requereu a redistribuição da sua Apelação à 23ª Câmara Cível, que julgou o primeiro Recurso versando sobre o tema, conforme demonstrado no Recurso Especial, por força do art. 930, parágrafo único, do CPC.
+Isto porque a conexão entre as ações é evidente, na forma do art. 55 inciso I, do CPC(execução de título extrajudicial relativa ao mesmo ato jurídico),o que torna imprescindível a redistribuição do presente processo à 23ª Câmara Cível.
+A não observância das previsões acima implica, também, em violação ao art. 926 do CPC, que impõe ao poder judiciário a obrigação de uniformizar sua jurisprudência, mantendo-a íntegra e coerente, o que não está ocorrendo, sendo apresentadas soluções jurídicas diametralmente opostas para casos idênticos, consoante demonstrado no Recurso Especial.
+No entanto, os fatos e argumentos acima citados foram ignorados pela 3.ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, implicando em violação direta e frontal aos artigos 930, parágrafo único, 55, inciso I, e 926, todos do CPC.
+O segundo fato incontroverso do qual se pretende a atribuição do devido valor jurídico é a existência de um negócio jurídico benéfico prevendo tão somente reassentamento dos ocupantes do imóvel situado à Avenida Francisco Bicalho, n. 49, Centro/RJ.
+Por ser um negócio jurídico que concede vantagens apenas a uma das partes, sendo considerado benéfico, o Código Civil impõe sua interpretação de modo literal e de acordo com a boa-fé e os usos do lugar de sua celebração, na forma dos artigos 113 e 114 do CC.
+Conforme amplamente confirmado pelas instâncias ordinárias, o acordo prevê a obrigação de reassentamento e não de adquirir um imóvel para o Recorrido.
+Outrossim, não há qualquer necessidade de prever expressamente a necessidade de reassentamento por meio de uma política pública específica, considerando que todos os processos similares da época tiveram o mesmo modus operandi.
+Assim sendo, certo é que a solução diversa, consistente na entrega de um imóvel na região do Porto e/ou bairros adjacentes à Agravada, violao disposto nos artigos 113 e 114 do Código Civil,por representar uma extensão indevida do acordo celebrado e interpretação dissonante dos usos do lugar de sua celebração.
+Por outro lado, é evidente que o acordo representa um negócio jurídico submetido a termo (artigo 131 do Código Civil). O "evento futuro e certo", no caso concreto, será atingido com a execução da próxima fase do Programa "Minha Casa, Minha Vida" na Região Portuária.
+Existe, portanto, uma condição resolutiva implícita no acordo de transação. Nega-se vigência àqueles dispositivos de lei federal quando se considera que os elementos acidentais do negócio jurídico podem vir a produzir efeitos apenas com disposição expressa.
+Por fim, e não menos importante, o último fato incontroverso é que o pagamento do auxílio moradia é operacionalizado pelo Município, sobre quem recai também o encargo de entregar as unidades habitacionais, sendo o condutor das políticas do "Minha Casa, Minha Vida" na região coberta pelo Projeto Porto Maravilha.
+Com base nesse fato, para afastar dúvidas a respeito do alcance do Acordo de Transação (e do modo de cumprir o dever de entregar o imóvel), a Agravante requereu a intimação do Município do Rio de Janeiro para que ingressasse no feito na qualidade de assistente(artigo 119 do Código de Processo Civil), recebendo o processo no estado em que se encontra, ou, então, de terceiro interessado na reforma do julgado (artigo 996 do CPC, parágrafo único), na medida em que a eficácia da sentença condenatória o atingirá diretamente.
+Requer a reconsideração da decisão agravada ou a sua apreciação pelo órgão Colegiado.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO. CONEXÃO. PACTUAÇÃO. PRAZO PARA CUMPRIMENTO. INTERVENÇÃO DO MUNICÍPIO. AUSÊNCIA DE INTERESSE. REEXAME DE MATÉRIA DE FATO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe rediscutir as questões que envolvamdilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar as teses defendidas no Recurso Especial, que buscama modificação das conclusões do acórdão recorrido a respeito da conexão entre as ações de execução e de conhecimento, sobre os limites do acordo firmado entre as partes e sobre e a participação de terceiro no processo,em razão da incidência do enunciado da Súmula 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): A insurgência não prospera.
+Quanto ao debate envolvendo a alegada ocorrência de conexão, a extensão e os limites do acordo celebrado entre as partes e a suposta necessidade de atuação do Município do Rio de Janeiro, no caso concreto,, o Tribunal de origem afirmou a inexistência de origem comumentre os processos, bem como a inexistência de termo ou condição no acordo objeto de execução, e ainda esclareceua ausência de participação do Município do Rio de Janeiro no mencionado acordo celebrado entre as partes, circunstância que afastaria a possibilidade de sua inclusão no processo, como pretendido pela agravante.
+Tal juízo não pode ser modificado sem nova apreciação de matéria fática, daí a incidência do óbice sumular ora questionado. Como a parte agravante não infirmou os fundamentos da decisão agravada, seu teor deve ser reiterado:
+Ao afastar a conexão requerida pelo agravante, o Tribunal de origem assim se pronunciou (e-STJ, fl. 559):
+(..) cumpre rechaçar a alegada conexão do presente feito com o processo nº 0071905-33.2018.8.19.0001, uma vez que, malgrado ser possível a existência de conexão entre processo de execução e ação de conhecimento, para tanto é necessário a mesma origem, o que não se verifica no caso em exame onde a embargada pretende a execução de título extrajudicial firmado unicamente entre as partes deste processo.
+Nesse cenário, a modificação das conclusões do acórdão recorrido demandaria o revolvimento do acervo fático-probatório, consubstanciado na verificação dos autos da ação de conhecimento em confronto com a ação de execução, a fim de verificar se a origem de ambos é comum, tal como alega a recorrente. Desse modo, incidente a Súmula n. 7/STJ.
+Sobre a intervenção do Município e a existência de obrigação a termo e condição, decidiu o TJRJ (e-STJ, fls. 560/562):
+Ao contrário do que sustenta o apelante, o acordo livremente celebrado entre as partes não traz qualquer condição, sendo claro na obrigação assumida e noprazo para seu cumprimento.
+(..)
+Como se vê da leitura do singelo acordo celebrado entre as partes, não há previsão de termo ou condição para o cumprimento da obrigação, que foi livremente assumida pelo embargante, com prazo para cumprimento e expressa previsão, apesar de desnecessária, da natureza de título executivo extrajudicial.
+Desse modo tem-se que o embargante assumiu obrigação de fazer, a ser cumprida em prazo certo, sem termo ou condição, não havendo qualquer vício de vontade, motivo pelo qual o título é exigível, vez que escoado o prazo sem satisfação da mesma.
+(..)
+No que se refere à insistente alegação de necessidade de intervenção do Município do Rio de Janeiro no presente feito, em que pese ser possível em tese, não se vislumbra qualquer das hipóteses para tanto, uma vez que o Município não participou da celebração do negócio jurídico executado e tampouco figurou como garantidor, não tendo sido demonstrado o seu interesse no feito.
+Isso porque, ao contrário do que pretende fazer crer o apelante, não há qualquer vinculação do acordo a uma política habitacional do Poder Público.
+Imperioso destacar que a parte embargante é sociedade de economia mista e, portanto, pessoa jurídica de direito privado, com personalidade própria que não se confunde com a do município.
+Conforme se infere do trecho transcrito, o acolhimento da pretensão da recorrente para reconhecer a existência de interesse do Município e também a previsão de termo e condição para cumprimento da obrigação, impõe a análise de matéria fático-probatória, vedada em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
