@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/06/2022 a 20/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno manejado por Estado do Tocantins em face de decisão de minha relatoria nestes termos sintetizado (e-STJ fl. 450):
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROGRESSÃO DE CARREIRA. REQUISITOS ATENDIDOS (DECLARADOS PELA PRÓPRIA ADMINISTRAÇÃO PÚBLICA). EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO ORDINÁRIO PROVIDO.
+Nas razões do agravo, o recorrente sustenta a impossibilidade de dar provimento do recurso ordinário que não deveria ter ultrapassado o juízo de admissibilidade. Argui ter norma local impedindo a concessão da progressão, razão pela qual o ato apontado coator não poderia ser considerado ilegal quando houve a impetração do mandado de segurança. A propósito, confira-se:
+Cumpre assinalar que a Medida Provisória nº 2 de 01/02/2019,publicada no DOE nº 5.291 de 01/02/2019, convertida na Lei nº 3.462 de 25/04/2019,publicada no DOE nº 5.345 de 25/04/2019, com alterações, suspendeu a concessão de progressões funcionais previstas nas leis dos diversos quadros de pessoal que integram o Poder Executivo Estadual a partir da data de entrada em vigor desta, pelo período de até 24 meses. Vejamos o seu inteiro teor:
+ ..
+Essa norma está em pleno vigor, pois o período foi prorrogado até 31/12/2021, pelo art. 3º da Lei nº 3.815, de 24/08/2021e não foi afastada do ordenamento jurídico via controle concentrado de constitucionalidade. Nesses termos, considerando que o impetrante busca, via mandamental, a implementação de direito que sustenta deter, não se vislumbra a existência de ato coator eivado de qualquer ilicitude.
+É que não poderia a autoridade impetrada, após o dia 01/02/2019, tê-lo implementado, porquanto impedida por instrumento normativo válido e vigente. Com efeito, não há falar-se em ato coator passível de ação mandamental, mesmo que sua entrada em vigor tenha se dado após o ajuizamento do writ pelo ora Agravado.
+Impugnação às e-STJ fls. 482/487.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.PROGRESSÃO DE CARREIRA. REQUISITOS ATENDIDOS (DECLARADOS PELA PRÓPRIA ADMINISTRAÇÃO PÚBLICA). EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO NÃO PROVIDO.
+1. O particular completou todos os requisitos para a sua promoção antes da vigência da LE/TO n. 3.462/2019, antes mesmo da Medida Provisória que deu origem à essa Lei.
+2. Dessa forma, não pode a Administração Pública, que já havia reconhecido o direito de progressão, conceder efeitos retroativos a uma lei estadual, a fim de violar um direito subjetivo já adquirido. Nesse sentido:AgInt no RMS 63.117/TO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 17/09/2020.
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O particular completou todos os requisitos para a sua promoção antes da vigência da LE/TO n. 3.462/2019, antes mesmo da Medida Provisória que deu origem à essa Lei.
+Por isso, a Administração Pública não deve impedir a progressão do servidor ao conceder efeitos retroativos a uma lei estadual, a fim de violar um direito subjetivo já adquirido. Nesse sentido, o parecer do Ministério Público Federal (sem destaques no original):
+7. Verifica-se da leitura Diário Oficial do Estado do Tocantins, à fl. 98-99, que o impetrante teve seu direito à progressão funcional reconhecido em sessão do Conselho Superior da Polícia Civil do Estado do Tocantins realizada em 31.10.2018, tendo o resultado da deliberação publicado na edição de nº 5.526, no dia 12.12.2018.
+8. O ato normativo que determinou a suspensão de progressões funcionais de várias carreiras do executivo estadual, Medida Provisória n.º 2,no entanto, apenas foi publicado no Diário Oficial do Estado nº 5.291 de 01.02.2019.
+9. Verifica-se, portanto, que o direito à progressão do impetrante já estava reconhecido e consolidado antes da entrada em vigor da MP nº 2, inclusive com publicação em Diário Oficial, de tal forma que não se pode simplesmente desconsiderar o ato administrativo exarado e devidamente assinado por autoridade competente, o Conselho Superior da Polícia Civil do Estado do Tocantins, e que goza de presunção de legalidade e veracidade.
+10. É certo que a própria Administração Pública Estadual reconhece o direito dos associados impetrantes, cujo pedido de publicação no Diário Oficial do Estado trata-se de mera formalidade de competência do Governador do Estado, a quem não compete fazer juízo de valor acerca da progressão funcional do servidor, tampouco se omitir quanto à efetivação do ato.
+Nesse sentido, cabe destacar precedente do STJ, em hipótese semelhante ao caso dos autos, já declarou que a progressão na carreira de militar, cujos requisitos foram preenchidos antes da MP n. 2/2019 (convertida na LE n. 3.642/2019), não pode ser alcançada pela vedação temporária nas progressões estaduais nessa prevista. A propósito:
+PROCESSUAL CIVIL. AGRAVOEM RECURSO EM MANDADO DE SEGURANÇA. MILITAR. PROGRESSÃO NA CARREIRA. REQUISITOS. RECONHECIMENTO PELA PRÓPRIA ADMINISTRAÇÃO ESTADUAL. EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. PRECEDENTES.
+1. Na espécie, o Estado do Tocantins se insurge contra decisão de minha lavra que deu provimento ao recurso em mandado de segurança da Associação de Praças Polícia e Bombeiros de Araguaína/TO, onde se imputou ao Estado inércia, em razão da ausência de publicação dos atos de progressões já reconhecidas pelo Comandante Geral da Policia Militar.
+2. A autoridade coatora, mesmo após tomar conhecimento da necessidade de implementação do ato de progressão funcional encaminhado pelo Comandante Geral da Polícia Militar do Tocantins, deixou de observar a publicidade, infringindo a regra prevista no artigo 37 da CF/1988.
+3. Não prospera a argumentação segundo a qual o pedido autoral esbarraria no óbice constante da Medida Provisória n. 002/2019, convertida na Lei Estadual n. 3.642/2019. Isso porque o Tribunal estadual denegou a segurança apenas por ausência de prova pré-constituída, e a decisão agravada foi proferida no sentido de que a remessa das portarias de progressão para publicação no Diário Oficial é de responsabilidade da autoridade impetrada, onde, por meio de Portaria do Comandante Geral da PM-TO, foi reconhecido o direito do impetrante. Ou seja, deu-se provimento ao recurso em mandado de segurança, em consonância com o parecer do Ministério Público Federal, no sentido de que a omissão estatal é latente; o direito ora vindicado vale por si só. Precedente.
+4. Agravo interno não provido.
+(AgInt no RMS 63.117/TO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 17/09/2020)
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
