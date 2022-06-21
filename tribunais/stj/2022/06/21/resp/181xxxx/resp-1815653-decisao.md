@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO e agravo em recurso especial interposto por ZUNZAL COMERCIO DE ALIMENTOS LTDA - SC.
+Os recursos especiais foram interpostos contra o acórdão abaixo ementado, in verbis:
+Agravo de Instrumento Decisão que indeferiu a nomeação de bens à penhora indicados pelo Executado Negativa genérica da Fazenda diante da não observância à ordem de preferência estabelecida pelo art. 11 da Lei de Execuções Fiscais Aflição ao princípio da menor onerosidade no caso concreto Agravo provido.
+Os embargos de declaração opostos foram rejeitados.
+O feito decorre de execução fiscal no valor de R$ 56.873,25.
+No seu recurso especial a FAZENDA DO ESTADO DE SÃO PAULO indica como violados os arts. 11 e 15, II da Lei 6830/1980 e art. 797 do CPC/2015.
+Sustenta, em síntese, ser indevida a decisão que aceitou o oferecimento de bens à penhora pelo executado, mesmo diante da recusa da Fazenda recorrente.
+Afirma que a referida decisão vai de encontro com o decidido no REsp repetitivo 1090898/SP e na súmula 406/STJ.
+No recurso especial de ZUNZAL COMÉRCIO DE ALIMENTOS LTDA - SC, o recorrente aponta como violados os arts. 55, § 2º, 1; 313, V, letra "a" e 995, todos do CPC/2015, alegando, in verbis:
+(..) prejudicialidade externa da Execução Fiscal originária decorrente da Ação Anulatória, visto que a primeira tem por objeto o pagamento de débito, enquanto que a segunda visa exatamente ao cancelamento do mesmo débito, pois que se as CDAs nºs 1.205.066.547, 1.205.067.690, 1.205.069.111 forem cancelada em razão de decisão proferida na Ação Anulatória a Execução Fiscal perderá o seu objeto.
+Após decisum que inadmitiu o recurso especial do contribuinte foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+RECURSO ESPECIAL DE ZUNZAL COMÉRCIO DE ALIMENTOS LTDA - SC.
+Sobre a alegada violação dos arts. 55, § 2º, 1; 313, V, letra "a" e 995, todos do CPC/2015, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais apontados no presente recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, indispensável para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da súmula 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Observe-se, ademais, que oTribunal a quo ao ventilar o art. 995 do CPC/2015, o fez para afastar sua interpretação utilizando elementos fáticos não apresentados no circunlóquio do acórdão recorrido. Nesse panorama, para a interpretação do referido dispositivo em confronto com a convicção exibida no julgamento recorrido seria impositivo ter acesso aos mesmos elementos fáticos utilizados pelo julgador para chegar à conclusão a que chegou, o que atrai o comando da súmula 7/STJ.
+RECURSO ESPECIAL DA FAZENDA NACIONAL
+Este Superior Tribunal de Justiça tem o entendimento pacificado no sentido de que excepcionalmente é possível mitigar a ordem de preferência dos bens para a garantia da execução, tendo em vista o princípio da menor onerosidade, cabendo o julgador avaliar à luz do caso concreto a necessidade de lançar mão do referido princípio. O exame dessa convicção do magistrado importa em reexame de conjunto probatório, o que é vedado no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Na hipótese dos autos, o Tribunal a quo ao aceitar o oferecimento de bens à penhora do executado, explicitou, in verbis:
+Tal penhora direta de ativos da empresa pode gerar danos de difícil reparação ao seu funcionamento, não havendo causa bastante para que deixe de efetuar tentativa de liquidação dos bens indicados, dentre aqueles que possuírem maior liquidez.
+Assim, para contrastar o referido entendimento seria necessário sindicar os elementos fáticos probatórios, atraindo o comando da súmula 7/STJ.
+Sobre o assunto, confira-se:
+PROCESSUAL CIVIL. DÍVIDA NÃO TRIBUTÁRIA. CARTA DE FIANÇA. LIQUIDAÇÃO MEDIANTE DEPÓSITO JUDICIAL. POSSIBILIDADE. MENOR ONEROSIDADE. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. TUTELA PROVISÓRIA PREJUDICADA.
+1. O Superior Tribunal de Justiça admite a liquidação de Carta de Fiança, mediante depósito judicial da quantia, com a ressalva de que o levantamento do valor depositado pelo exequente condiciona-se ao trânsito em julgado do feito, nos termos do art. 32, § 2º, da LEF.
+Precedentes.
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça, no sentido de que a verificação da ocorrência de violação ao princípio da menor onerosidade demanda necessário revolvimento do quadro fático-probatório delineado nos autos, providência vedada em sede de Recurso Especial pela Súmula 7 do STJ.
+3. A Lei n. 6.830/80, que dispõe sobre a cobrança judicial da dívida ativa da Fazenda Pública, aplica-se tanto à dívida ativa tributária, quanto à dívida ativa não tributária (AgInt no AREsp 1447307/RJ, rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 03/09/2019, DJe 09/09/2019).
+4. Agravo interno desprovido. Pedido de tutela provisória prejudicado.
+(AgInt no AREsp n. 1.843.540/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/10/2021, DJe de 22/10/2021.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE BEM À PENHORA. ORDEM DE PREFERÊNCIA. LEGÍTIMA RECUSA PELA UNIÃO FEDERAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SUMULA DO STJ. O ACÓRDÃO RECORRRIDO ESTÁ CONFORME O ENTENDIMENTO DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em execução fiscal, indeferiu a penhora de direitos referentes à cessão de crédito. No Tribunal a quo, o pedido foi indeferido.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "Portanto, a indicação de direitos decorrentes de cessão de crédito não observa a ordem do art. 11 da Lei 6.830/80 e pode ser recusada pela exequente, inexistindo direito à nomeação na hipótese.  ..  Destaca-se que o art. 805 do CPC, que versa sobre a menor onerosidade, deve ser analisado em cotejo com o art. 797, , do mesmo diploma legal, prevendo caput que a execução far-se-á no interesse do credor, de forma que a Fazenda Pública não é obrigada a aceitar bem oferecido à penhora que não obedeça à ordem estabelecida no art.11 da LEF."
+III - Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - De qualquer sorte, ainda que fosse superado esse óbice, o acórdão recorrido está conforme o entendimento do Superior Tribunal de Justiça, fixado em regime de recursos repetitivos, de que a parte exequente tem, seja quando da nomeação (art. 9º da Lei n. 6.830/1980), seja quanto da substituição de bens (art. 15 da Lei n. 6.830/1980), o direito de recusar bens oferecidos à penhora que não obedeçam à ordem do art. 11 da Lei n. 6.830/1980. (REsp 1.337.790/PR, relator Ministro Herman Benjamin, Primeira Seção, DJe 7/10/2013.) V - Agravo interno improvido.
+(AgInt no AREsp n. 1.921.257/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial da FAZENDA DO ESTADO DE SÃO PAULO e com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial de ZUNZAL COMÉRCIO DE ALIMENTOS LTDA - SC.
+Publique-se. Intimem-se.
