@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação das Súmulas n. 7 do STJ e 735 do STF (e-STJ fls. 464/468).
+O Tribunal de origem rejeitou preliminar e deu parcial provimento ao agravo dos recorridos, em julgado que recebeu a seguinte ementa (e-STJ fl. 351):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - AUSÊNCIA DE INTIMAÇÃO DOS ATUAIS PATRONOS - PREJUÍZO - INEXISTÊNCIA - TUTELA DE URGÊNCIA CAUTELAR - BLOQUEIO DE ATIVOS NAS CONTAS BANCÁRIAS DA PESSOA JURÍDICA - INDÍCIOS DE CONFUSÃO PATRIMONIAL - MEDIDA ASSECURATÓRIA DO PROVIMENTO FINAL - POSSIBILIDADE - BLOQUEIO DOS RECEBÍVEIS DE CARTÃO DE CRÉDITO - EQUIPARAÇÃO À PENHORA DE FATURAMENTO - REQUISITOS NÃO PREENCHIDOS. Havendo demonstração de que um dos patronos das partes executadas tomou ciência da tramitação do processo e podendo a medida cautelar ser deferida liminarmente, não há que se falar em nulidade do processo. As diversas tentativas mal sucedidas de constrição de bens do devedor somadas às provas de que foi constituída EIRELI, poucos meses depois da intimação para pagar o débito, autorizam a concessão da medida cautelar de bloqueio de ativos financeiros, com o objetivo de assegurar o provimento final do incidente de desconsideração da personalidade jurídica. Para fins de penhora, os recebíveis de cartão de crédito são equiparados ao faturamento da empresa, tornando necessário o preenchimento dos requisitos dispostos no art. 866 do CPC.
+Os embargos de declaração foram rejeitados (e-STJ fls. 392/396).
+No recurso especial (e-STJ fls. 401/420), fundamentado no art. 105, III, "a" e "c", da CF, as recorrentes apontaramviolação dos seguintes dispositivos:
+(i) arts. 272, § 2º, e 1.016, IV, do CPC/2015, pugnando pela declaração de nulidade absoluta do processo de cumprimento de sentença, e
+(ii) arts. 833, IV, e 866 do CPC/2015, defendendo a impenhorabilidade de honorários do profissional liberal. Sustentaramque (e-STJ fl. 412):
+Os Requeridos, reconheceram expressamente que a 1ª Recorrente "é herdeira necessária em conjunto com os agravantes", o que demonstra que há outros bens passíveis de penhora. Bens estes que deveriam ser perseguidos antes da adoção da medida excepcional de penhora de faturamento da pessoa jurídica, que sequer figura como parte no NULO processo de cumprimento de sentença.
+Aduziram, por fim, a necessidade de concessão de efeitosuspensivo ao recurso especial.
+Buscam, em suma, o provimento do recurso especial, a fim de (e-STJ fl. 419/420):
+ ..  reconhecer a violação aos arts. 272, § 2.º; art. 489, §1.º, inc. VI; art. 833, inc. IV; art. 866, caput e § 1.º; art. 1016, inc. IV, todos do CPC/15; além de demonstrada a ocorrência do dissídio pretoriano, com (a) a DECLARAÇÃO DE NULIDADE E/OU ANULAÇÃO do acórdão que julgou o agravo de instrumento, determinando-se que outro seja proferido em seu lugar; ou, ainda, (b) aplicando-se corretamente o direito federal à espécie e procedendo-se à correta valoração da prova, enfrentar diretamente o mérito das questões omissas apontadas, para reformar o acórdão recorrido, para revogar as medidas de constrição judicial levadas a efeito até o presente momento, com a determinação para imediata liberação das contas bancárias e a expedição de novo ofício ao Banco Cooperativo do Brasil S/A BANCOOB, proprietário da marca SIPAG, informando-o do cancelamento da ordem de bloqueio de recebíveis da pessoa jurídica ESTEFÂNIA MONTEIRO CONSULTÓRIO ODONTOLÓGICO LTDA EIRELI (CNPJ/MF N.º 34.267.348/0001-61), sob pena de violação do devido processo legal (CF/88, art. 5.º, inc. LIV).
+Contrarrazões apresentadas (e-STJ fls. 452/459).
+No agravo (e-STJ fls. 475/483), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 490/495).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+I - Da nulidade processual por ausência de intimação dos patronos
+O acórdão local afastou a nulidade processual nos seguintes termos (e-STJ fls. 356/357 - grifei):
+DA PRELIMINAR DE NULIDADE PROCESSUAL
+Em contraminuta, as Agravadas suscitam, preliminarmente, a nulidade do processo, alegando que, há anos, o antigo patrono, Dr. Luiz Guilherme de Salles substabeleceu, sem reserva, os poderes de representação a ele outorgados. Afirmam que os Agravantes tinham plena ciência dessa circunstância, mas omitiram tal informação quando do manejo do cumprimento de sentença.
+Acrescentam que tal omissão, além de provocar nulidade processual, fez com que os Recorrentes deixassem de inclinar corretamente o nome e o endereço completo dos advogados da parte Agravada, sendo este um dos requisitos de admissibilidade do agravo de instrumento, conforme art. 1.016 do CPC.
+Em análise dos documentos constantes dos autos eletrônicos, verifica-se que, em 25/07/2018, os Exequentes/Agravantes requereram o cadastramento dos advogados da Segunda Agravada, conforme manifestação abaixo:
+ ..
+Percebe-se, ainda, que os advogados Dr. Manoel de Souza Barros Neto e Dr. Rodrigo H. dos Santos Diniz integram o mesmo escritório do patrono subscritor da contraminuta, Dr. Silvio Augusto Tarabal Coutinho, sendo certo que, segundo a jurisprudência do Superior Tribunal de Justiça, basta que intimação seja feita em nome de um dos procuradores do mesmo escritório:
+ ..
+Volvendo ao caso, conforme noticiado pelas partes Agravantes, o advogado Dr. Rodrigo Henrique dos Santos Diniz acessou os autos do cumprimento de sentença nos dias 30/07/2018 e 15/01/2021, não socorrendo à Agravada, portanto, a alegação de que o processo foi manejado sem a sua ciência.
+Ademais, a medida discutida no presente recurso foi requerida em sede de tutela de urgência, cuja apreciação pode ser feita liminarmente.
+Em relação ao pressuposto de inadmissibilidade do agravo de instrumento, também não procedem as razões dos Agravados, tendo em vista que o referido vício, além de sanável, não impediu que os patronos fossem devidamente intimados para apresentação da contraminuta. Rejeito, portanto, a preliminar.
+Entretanto, da leitura do recurso especial, verifica-se que não houve ataque específico ao fundamento acima referido(de que o advogado Dr. Rodrigo Henrique dos Santos Diniz acessou os autos nos dias 30/07/2018 e 15/01/2021, tendo plena ciência do processo manejado), o que atrai a incidência da Súmula n. 283 do STF.
+Ademais, apenas a título de reforço,a Corte de origem também consignou que "a medida discutida no presente recurso foi requerida em sede de tutela de urgência, cuja apreciação pode ser feita liminarmente" (e-STJ fl.357). Outro ponto não impugnado pelas recorrentes.
+II - Do bloqueio de ativos
+O agravo em recurso especial não merece conhecimento quanto ao tema. A jurisprudência desta Corte está sedimentada no sentido de não ser cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, a qual está sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, o exame feito por esta Corte Superior restringe-se à análise dos dispositivos relacionados aos requisitos da tutela de urgência ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal. Precedentes.
+2. A concessão ou revogação da antecipação da tutela pela instância recorrida fundamenta-se nos requisitos da verossimilhança e do receio de dano irreparável ou de difícil reparação aferidos a partir do conjunto fático-probatório constante dos autos, sendo defeso ao Superior Tribunal de Justiça o reexame dos aludidos pressupostos, em face do óbice contido na Súmula 7 do STJ.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal." (AgRg no REsp 1159745/DF, Min. Humberto Martins, Segunda Turma, julgado em 11/05/2010, DJe 21/05/2010).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.292.463/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/8/2018, DJe 28/8/2018.)
+PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ACÓRDÃO QUE DEFERE MEDIDA LIMINAR. RECURSO ESPECIAL. INCABÍVEL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.256.809/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/5/2018, DJe 17/5/2018.)
+Aplica-se, por analogia, a Súmula n. 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Prejudicado o pedido de efeito suspensivo.
+Publique-se e intimem-se.
