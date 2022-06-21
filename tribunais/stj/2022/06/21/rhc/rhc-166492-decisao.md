@@ -1,0 +1,12 @@
+DECISÃO
+RODI CLEISON PROGENIO DE FREITASalegasofrer coação ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado do Paráno HC n. 0806301-94.2022.8.14.0000.
+Nestewrit, a defesa busca a revogação da medida demonitoramento eletrônico, diante da inexistência de fundamentação concreta para a utilização da medida.
+Decido.
+O Juízo de primeiro grau assim impôs a medida de monitoramento eletrônico:
+Isso posto, diante da inexistência de casa de albergado no Estado do Pará, fundamentado na balizada jurisprudência supracitada e no artigo 146-B, II da LEP, concedo ao(a) apenado(a) a possibilidade de , cumprir a pena em regime ABERTO DOMICILIAR com MONITORAMENTO ELETRÔNICO , f salvo se por outro motivo deva permanecer preso em outro regime icando sujeito às seguintes condições : previstas nos artigos 115 da LEP e 319 do CPP (fl. 20).
+A Corte de origem não conheceu do habeas corpus, pois "o art. 146-B, inciso IV, da LEP autoriza expressamente o monitoramento eletrônico do custodiado, na hipótese de concessão de prisão domiciliar. Ademais, o juízo estabeleceu a progressão do paciente para o regime aberto e, diante da inexistência de vaga em Casa de Albergado, lhe foi deferida Prisão Domiciliar mediante monitoração eletrônica com base na súmula vinculante nº 56 e RE 641.320/RS" (fl. 54).
+Sobre o tema, cumpre lembrar que, a decisão impugnadaestá em conformidade com a jurisprudência desta Corte, de que: "não há constrangimento ilegal a ser sanado, pois o art. 146-B, inciso IV, da LEP autoriza expressamente o monitoramento eletrônico do custodiado, na hipótese de concessão de prisão domiciliar. 3. Agravo regimental desprovido" (AgRg no HC n. 544.894/PA, Rel. MinistraLaurita Vaz, 6ª T., DJe 15/6/2020).
+Durante a prisão albergue domiciliar, "a manutenção do monitoramento eletrônico ao apenado agraciado com a progressão ao regime aberto não implica constrangimento ilegal, pois atende aos parâmetros referenciados na Súmula Vinculante 56" (AgRg no HC n. 691.963/RS, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 22/10/2021).
+As limitações impostas pelo equipamento eletrônico não são mais gravosas do que aquelas as que estaria submetido o reeducando em Casa de Albergado. A monitoração traduz a vigilância mínima necessária para aferir o cumprimento de pena fora de estabelecimento prisional e não implica em supressão de direitos do apenado ou em exposição a situação mais gravosa de execução.
+À vista do exposto,nego provimento ao recursoin limine.
+Publique-se e intimem-se.
