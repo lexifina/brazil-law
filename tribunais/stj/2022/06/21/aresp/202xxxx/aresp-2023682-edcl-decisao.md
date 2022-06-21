@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LEONARDO VELOSO DO PRADO e OUTROS, com fundamento no art. 1.022do Código de Processo Civil de 2015, à decisão (e-STJ fls. 639-643) que conheceu do agravo para dar provimento ao recurso especiala fim de fixar a verba honorária no percentual de 10% (dez por cento) sobre o valor atualizado da causa.
+Em suas razões, os embargantes requerem esclarecimento
+"(..) para que não restem dúvidas quanto ao R. julgado e a parte contrária venha valer-se de subterfúgios quando do cumprimento do comando judicial, necessário restar esclarecido que a incidência decorrerá sobre o valor da causa dado ao cumprimento da sentença e não ao valor atribuído ao processo originário" (fl. 647, e-STJ).
+Ao final, postulam o acolhimento dos presentes embargos de declaração, a fim de sanar o ponto omisso, para constar da parte dispositiva que o valor dos honorários advocatícios sucumbenciais, fixados no percentual de 10% (dez por cento), recairá sobre o valor atualizado da causa no cumprimento de sentença.
+Devidamente intimada, a parte contrária deixou transcorrer o prazo para impugnar o recurso (certidão de fl. 653, e-STJ).
+É o relatório.
+DECIDO.
+O recurso merece acolhida.
+De acordo com o disposto no artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão a respeito da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+A parte embargante aponta a existência de omissão, alegando que não está compreendido da leitura do comando judicial "que será considerado como valor da causa aquele atribuído ao débito cobrado no cumprimento de sentença e não o valor atribuído à causa do processo originário" (fl. 649, e-STJ).
+De fato, observa-se que houve omissão na decisão atacada acerca da questão apontada pelo embargante.
+Passa-se, portanto, à analise do ponto omisso.
+Cumpre assinalar que a Corte Especial deste Tribunal Superior, no julgamento do REsp 1.134.186/RS, sob a sistemática dos recursos repetitivos, consolidou entendimento de ser possível a fixação dos honorários em favor do executado/impugnante quando o acolhimento da impugnação ao cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado.
+Confira-se a ementa do julgado:
+"RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. 1. Para efeitos do art. 543-C do CPC:
+1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS).
+1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC.
+2. Recurso especial provido" (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 1º/08/2011, DJe 21/10/2011)
+No caso ora em debate, o acórdão destacou o seguinte:
+"(..) visam os recorrentes à reforma da sentença de primeira instância, por meio da qual a Juíza a quo, Drª. Lília Maria de Souza, acolheu a impugnação ao cumprimento de sentença, para reconhecer o cumprimento da obrigação por parte dos executados e julgar extinta a ação de execução, nos termos do art. 924, II do CPC.
+(..)
+Nas razões da insurgência (evento 25), batem-se os executados/apelantes pela reforma da sentença, no tocante aos consectários da sucumbência, argumentando que os honorários advocatícios só devem ser fixados pelo critério da equidade de forma subsidiária; que, in casu, como o valor atualizado da causa é de R$ 1.197.853,37 (um milhão, cento e noventa e sete, oitocentos e cinquenta e três reais e trinta e sete centavos), o qual, a seu ver, também corresponde ao valor do proveito econômico obtido, deve a verba honorária ser arbitrada entre 10% e 20% do referido valor, conforme dispõe o artigo 85, § 2º, do CPC.
+Ao dispositivo supramencionado, contudo, deve ser dada interpretação que não produza situação injusta e incongruente com o caso em análise, notadamente quando o valor da causa representa considerável quantia, como na hipótese em testilha, cujo montante atualizado perfaz o valor de R$ 1.197.853,37 (um milhão, cento e noventa e sete, oitocentos e cinquenta e três mil reais e trinta e sete centavos)" (fls. 523-525, e-STJ).
+Portanto, o reconhecimento do excesso de execução resultou na redução da quantia executada, que somente ocorreu com a apresentação da impugnação.
+Assim, o valor dos honorários advocatícios sucumbenciais deve ser fixado no percentual de 10% (dez por cento) sobre o proveito econômico obtido na impugnação ao cumprimento de sentença, nos termos do art. 85, § 2º, do CPC/2015.
+Nessesentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO EXECUTIVO JUDICIAL. COISA JULGADA. ALTERAÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. REDUÇÃO DO VALOR EXECUTADO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Com o trânsito em julgado da sentença, os litigantes ficam adstritos aos limites impostos pelo título judicial e não podem rediscutir o que não está assegurado na condenação na fase de cumprimento, sob pena de ofensa à coisa julgada.
+2. A Corte de origem consignou que não houve erro material ou omissão na sentença exequenda e que o título executivo judicial é claro quanto à base de cálculo dos honorários advocatícios a serem pagos por ambas as partes. A revisão desse entendimento exigiria o reexame da matéria fática, inviável em recurso especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, no caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, é cabível o arbitramento de honorários advocatícios em benefício do executado. Entendimento consolidado pela Corte Especial no julgamento do Recurso Especial Repetitivo 1.134.186/RS.
+4. No caso em tela, o reconhecimento do excesso de execução em sede de impugnação do cumprimento de sentença resultou na redução da quantia a ser executada, de modo que o executado faz jus à fixação de honorários advocatícios em seu favor, fixados em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial" (AgInt no AREsp 1.724.132/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2021, DJe 24/05/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO NOBRE DA PARTE ADVERSA. INSURGÊNCIA DA AGRAVANTE.
+1. Nos termos da jurisprudência desta Corte Superior, firmada no julgamento do REsp 1.134.186/RS, sob a sistemática dos recursos repetitivos, a fixação dos honorários em favor do executado/impugnante é possível quando o acolhimento da impugnação ao cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado.
+1.1. No caso em tela, consoante se depreende da decisão agravada na origem, houve o acolhimento parcial da impugnação ao cumprimento de sentença, resultando na redução da quantia executada. 2. Agravo interno desprovido"
+(AgInt no REsp 1.843.515/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 1º/06/2020, DJe 10/06/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. HARMONIA ENTRE O ACÓRDÃO EMBARGADO E A JURISPRUDÊNCIA CONSOLIDADA DO TRIBUNAL. SÚMULA 168/STJ. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO. LIBERAÇÃO DE PENHORA. NÃO EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. DESCABIMENTO.
+1. Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado (Súmula 168/STJ).
+2. Segundo a orientação firmada pela Corte Especial no REsp 1.134.186/RS, julgado sob a sistemática dos recursos especiais repetitivos, "apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC".
+3. A fixação dos honorários em favor do executado/impugnante, no entanto, apenas é possível quando o acolhimento da impugnação ao cumprimento de sentença resultar na extinção do procedimento executivo ou na redução do montante executado, do que não cuida a hipótese dos autos, em que a impugnação foi acolhida apenas para a liberação de penhora sobre veículo de propriedade de um dos executados.
+4. Agravo interno não provido"
+(AgInt nos EREsp 1.482.156/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 19/09/2018, DJe 24/09/2018).
+Ante o exposto, acolho os embargos de declaração, com efeitos integrativos, a fim deesclarecer que o valor dos honorários advocatícios deve ser fixado em 10% (dez por cento) sobre o proveito econômico obtido na impugnação ao cumprimento de sentença.
+Publique-se.
+Intimem-se.
