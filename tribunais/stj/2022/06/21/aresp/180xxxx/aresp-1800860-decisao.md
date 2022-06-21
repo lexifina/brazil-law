@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO contra a decisão que inadmitiu o recurso especial aviado contra o acórdão assim ementado, in verbis:
+Apelação - Prescrição - Taxas de Licença dos exercícios de 1996 a 1999 - Execução fiscal intentada antes da LC 118/2005 (09.05.2005) - Interrupção com a citação do devedor, a qual foi realizada por edital em 06/08/2007, - Prescrição consumada - Inaplicabilidade da súmula 106, STJ - Decisão reformada - RECURSO PROVIDO.
+O feito decorre de execução fiscal para cobrança do valor de R$ 3.663,15.
+O recorrente indicou ofensa aos arts. (art. 25 da Lei 6.830/80; arts. 927, III, e 1.022, I e II, do CPC/2015; e artigo 40 da Lei 6.830/80, afirmando, em resumo, que o procurador do Município não foi intimado pessoalmente.
+Adiante afirmou, em síntese, que não foi consumada a prescrição intercorrente tendo em vista que não foi intimado acerca da tentativa infrutífera de penhora.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+Na hipótese dos autos, entre o ajuizamento da execução e a ocorrência da citação editalícia transcorreu prazo superior a cinco anos o que implicaria na consumação da prescrição.
+Observe-se que na hipótese dos autos, o Tribunal a quo afastou a aplicação da súmula 106 do STF, observando que a demora não se deu por responsabilidade do poder judiciário.
+Sobre o assunto, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO. DEMORA NA CITAÇÃO DO DEVEDOR. CULPA EXCLUSIVA DO PODER JUDICIÁRIO. REVISÃO. CDA. REQUISITOS LEGAIS. VERIFICAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A orientação jurisprudencial firmada nesta Corte Superior, no julgamento do REsp 1.120.295/SP, repetitivo, é no sentido de que a interrupção do prazo prescricional só retroage à data da propositura da ação executiva quando a demora na citação é imputada exclusivamente ao Poder Judiciário, conforme hipótese prevista na Súmula 106 do STJ, sendo que, antes da vigência da LC 118/2005, somente a citação válida provocava o efeito interruptivo da prescrição, nos termos do art. 174, I, do CTN.
+3. Hipótese em que o recurso especial encontra óbice na Súmula 7 do STJ, pois, constatada a culpa da máquina judiciária pela demora na citação, o marco interruptivo retroagiu à data da propositura da ação.
+4. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.047.382/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/5/2021, DJe de 11/6/2021.)
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERRUPÇÃO. ART. 174 DO CTN. RETROAÇÃO À PROPOSITURA. INVIABILIDADE. SÚMULA 106/STJ. NÃO VERIFICADA INÉRCIA DO JUDICIÁRIO. SÚMULA 7/STJ.
+1. Nos termos do art. 174 do CTN, prescreve em cinco anos a ação de cobrança do crédito tributário, contados da sua constituição definitiva, somente sendo interrompida a prescrição nos seguintes casos: a) pela citação pessoal feita ao devedor; b) pelo protesto judicial; c) por qualquer ato judicial que constitua mora ao devedor; d) por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
+2. Com a entrada em vigor da Lei Complementar 118/2005, o art. 174, parágrafo único, I, do CTN foi modificado para indicar como uma das causas de interrupção da prescrição o despacho que determina a citação.
+3. A Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, submetido ao rito dos recursos repetitivos, consolidou entendimento segundo o qual, mesmo nas Execuções Fiscais, a citação retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1º, do CPC. 4. Da análise do voto condutor do recurso representativo da controvérsia, extrai-se que a interrupção da prescrição só retroage à data da propositura da ação quando a demora na citação é imputada exclusivamente ao Poder Judiciário nos termos da Súmula 106/STJ.
+5. No caso dos autos, conforme se depreende da leitura dos autos, a citação tardia não decorreu dos mecanismos inerentes ao Poder Judiciário. Logo, não há falar em violação do art. 219, § 1º, do CPC. Por fim, também não merece seguimento o presente recurso quanto à alegação de inércia do Poder Judiciário em efetuar a citação do devedor, pois essa análise demanda reexame do contexto fático-probatório dos autos, o que é vedado ao STJ, em Recurso Especial, por óbice da Súmula 7/STJ. Entendimento reiterado pelo Superior Tribunal de Justiça, inclusive em recurso repetitivo (art.
+543-C do CPC), no julgamento do REsp 1.102.431/RJ, relatoria Min. Luiz Fux.
+6. Agravo conhecido para não se conhecer do Recurso Especial.
+(AREsp n. 1.578.097/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/12/2019, DJe de 12/5/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
