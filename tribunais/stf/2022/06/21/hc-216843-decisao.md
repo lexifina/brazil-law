@@ -1,0 +1,138 @@
+DECISÃO
+
+HABEAS CORPUS. PROCESSUAL PENAL. REPETIÇÃO DE HABEAS CORPUS IMPETRADO NO SUPREMO TRIBUNAL FEDERAL. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Habeas corpus, com requerimento de medida liminar, impetrado, em 19.6.2022, por Bruno Leandro Dias, advogado, em benefício de Allan Lopes Balduno de Souza e Jefferson Lopes Balduno de Souza, contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça pela qual, em 22.4.2020, não conhecido o Habeas Corpus n. 561.420.
+
+O caso
+
+    2. Consta dos autos que os pacientes foram condenados às penas de oito anos de reclusão, em regime inicial fechado, e mil e duzentos dias-multa, pela prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006.
+
+    3. A Sétima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo deu parcial provimento às apelações dos pacientes para absolvê-los “unicamente quanto ao crime da Lei nº 11.343/06, art. 35, caput, com fundamento no CPP, art. 386, VII, expurgando-se as sanções respectivas, mantida, no mais, a sentença, expedindo-se, esgotados os recursos ordinários, mandados de prisão”.
+
+    4. A defesa impetrou o Habeas Corpus n. 561.420 no Superior Tribunal de Justiça. Em 22.4.2020, o Relator, Ministro Ribeiro Dantas, não conheceu da impetração.
+
+    5. Essa decisão é o objeto do presente habeas corpus, no qual o impetrante alega que “o V. Acórdão condenatório, ao mesmo tempo em que reconheceu expressamente a vida anteacta irreprochável do Paciente e a ausência de contumácia na atividade criminosa, bem como o seu não envolvimento com organizações criminosas (tanto que a pena-base foi fixada no mínimo legal) , deixou de aplicar o redutor previsto no § 4º do artigo 33 da Lei de Drogas sob o único e isolado fundamento da quantidade da droga supostamente apreendida, (07 (sete) tijolos e 09 (nove) porções individuais contendo a sustância entorpecente tetrahidrocannabinol (THC)), o que é insuficiente, por si só, para arredar a figura do tráfico privilegiado”.
+
+    Sustenta que “esse Colendo Tribunal, em mais de uma oportunidade, já se manifestou sobre a temática tratada, sempre reafirmando a impossibilidade de se eleger a quantidade da droga apreendida como motivo para rechaçar o reconhecimento da causa redutora de pena do crime de tráfico”.
+
+    Estes o requerimento e o pedido:
+
+    “Ante todo o exposto, requer o impetrante a concessão liminar da ordem de aplicação do redutor previsto no artigo 33, parágrafo 4º, da Lei nº 11.343/06, com a consequente fixação do regime aberto e substituição da privativa de liberdade por restritivas de direitos”.
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    6. Neste habeas corpus, pretende-se seja determinada a aplicação da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 aos pacientes no Processo n. 0024721-80.2012.8.26.0071, com a consequente fixação de regime inicial aberto e substituição da pena por restritivas de direitos.
+
+    Repete-se, na presente impetração, a pretensão apresentada nos Habeas Corpus ns. 176.287, 201.792 e 209.183, de minha relatoria, cujo seguimento foi negado em 3.10.2019, 24.5.2021 e 29.11.2021, respectivamente.
+
+    Esta a decisão de negativa de seguimento ao Habeas Corpus n. 176.287, transitada em julgado em 18.12.2019:
+
+    “(...) 7. Não há ilegalidade flagrante ou teratologia a ser sanada nesta via processual.
+
+    Ao proferir o julgado objeto da presente impetração, o Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, manteve a não incidência da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006:
+
+    ‘A sentença condenatória afastou a aplicação da minorante de que trata o art. 33, § 4º, da Lei n. 11.343/2006 nestes termos:
+
+    ‘Na terceira fase, necessário esclarecer que deixo de aplicar a causa de diminuição da pena prevista no art. 33, § 4º, da Lei 11.343/06, pois no caso dos autos, os réus não podem se valer de penas mais brandas, ainda que primários, diante da quantidade e variedade de drogas apreendidas e, em especial pela forma de acondicionamento e o local da apreensão, os quais não deixam dúvidas de que os réus não podem ser considerados traficantes esporádicos, mas sim demonstram que estão enveredados no mundo do crime, associados para a prática do tráfico de entorpecentes.’
+
+    A Corte de origem, quanto à causa de diminuição asseverou o seguinte:
+
+    ‘Ausentes agravantes ou atenuantes, na derradeira, a despeito da primariedade de ALLAN e JEFERSON, corretamente rechaçado o redutor do art. 33, § 4º, diante das particularidades - houve apreensão de grande quantidade e variedade de drogas (3,860G DE MACONHA, 7,790G DE COCAÍNA E 74,360G DE CRACK, APTAS A PRODUZIR CERCA DE 31 PORÇÕES DE COCAÍNA E 297 DE CRACK, CONSIDERANDO-SE O PESO DE 0,25MG CADA) -, pois dificilmente alguém consegue ter acesso a tais substâncias, sem se valer do crime organizado, destacando-se, ainda, as circunstâncias da apreensão, tais como o encontro de numerário e de embalagens para a preparação das drogas, indubitáveis indicadores de dedicação a atividades criminosas, lembrando-se que a mitigação não é direito subjetivo.’
+
+    Na hipótese dos autos, quanto à benesse prevista no § 4º do art. 33 da Lei n. 11.343/2006, os fundamentos utilizados pelas instâncias ordinárias para não aplicá-la ao caso concreto dizem respeito à dedicação dos pacientes à atividade criminosa, evidenciada sobretudo pela quantidade, variedade e natureza das drogas apreendidas, e ao fato de terem sido encontrados numerário e embalagens utilizadas na preparação das drogas. Portanto, a decisão está em consonância com o entendimento desta Corte’.
+
+    8. Consideradas os elementos fáticos apresentados nas instâncias antecedentes e que foram aproveitados para a conclusão no sentido de se ter por caracterizada a dedicação a atividades criminosas e afastada a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, a quantidade e a variedade dos entorpecentes apreendidos com o paciente (3,860 gramas de maconha, 7,790 gramas de cocaína e 74,360 gramas de crack), sua forma de acondicionamento e o local da apreensão, tanto se harmoniza com a jurisprudência deste Supremo Tribunal.
+
+    Ao julgar o Agravo Regimental no Habeas Corpus n. 161.482, a Primeira Turma deste Supremo Tribunal assentou: ‘A jurisprudência do Supremo Tribunal Federal chancela o afastamento da causa de diminuição (art. 33, § 4º, da Lei 11.343/2006) quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do acusado, b) o concurso eventual de pessoas, e c) a quantidade de droga’ (HC n. 161.482-AgR, Relator o Ministro Alexandre de Moraes, DJe 19.10.2018).
+
+    Na mesma linha, a Segunda Turma:
+
+    ‘(...) O entendimento do STF é o de que somente em situações excepcionais é admissível o reexame dos fundamentos da dosimetria da pena levada a efeito pelo juiz natural da causa a partir do sistema trifásico, o que, adianto, não se dá na espécie. III - Os Ministros integrantes da Quinta Turma do Superior Tribunal de Justiça assentaram que, ‘[n]o que tange à alegação de inexistência de provas para manutenção da condenação, o Tribunal de origem, com base no acervo probatório, firmou compreensão no sentido da efetiva prática do crime de tráfico ilícito de entorpecentes’. Ademais, consignaram que ‘a apreensão de elevada quantidade de entorpecente, aliada às circunstâncias em que ocorreu o delito, indicativas do tráfico habitual, são elementos que permitem concluir que há dedicação às atividades criminosas’’ (HC n. 157.258-AgR, Relator o Ministro Ricardo Lewandowski, DJe 4.10.2018).
+
+    ‘Agravo regimental no recurso ordinário em habeas corpus. 2. Tráfico de drogas. Artigo 33, caput, da Lei 11.343/2006. 3. Pretendido reconhecimento do tráfico privilegiado, nos termos do artigo 33, § 4º, da Lei 11.343/2006, que foi acertadamente rejeitado nas instâncias inferiores, diante da elevada quantidade da droga apreendida. Precedentes. 4. Manutenção da decisão agravada em face da ausência de argumentos suficientes a infirmar o decisum. 5. Agravo regimental a que se nega provimento’ (RHC n. 150.179-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 27.8.2018).
+
+    Nesse mesmo sentido: HC n. 128.919, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 13.8.2018, RHC n. 155.297-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 15.6.2018, entre outros.
+
+    9. Para rever a conclusão sobre a afirmativa de dedicar-se o paciente a atividade criminosa, mantida nas instâncias antecedentes, seria imprescindível o reexame dos fatos e das provas dos autos, ao que não se presta o habeas corpus.
+
+    Nesse sentido, por exemplo:
+
+    ‘AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPOSSIBILIDADE DO REEXAME NO WRIT DE FATOS E PROVAS NO TOCANTE À PARTICIPAÇÃO DO PACIENTE EM ORGANIZAÇÃO CRIMINOSA OU À VALORAÇÃO DA QUANTIDADE DA DROGA APREENDIDA, QUANDO UTILIZADOS COMO FUNDAMENTO PARA AFASTAR OU DOSAR, AQUÉM DO PATAMAR MÁXIMO, A CAUSA DE DIMINUIÇÃO DA PENA PELO TRÁFICO PRIVILEGIADO, PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. INVIABILIDADE DO REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA NA ESTREITA VIA DO WRIT. SOMENTE EM SITUAÇÕES EXCEPCIONAIS SE FAZ POSSÍVEL O NOVO EXAME DOS FUNDAMENTOS DA DOSIMETRIA DA PENA LEVADA A EFEITO PELO JUIZ NATURAL DA CAUSA A PARTIR DO SISTEMA TRIFÁSICO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - A orientação jurisprudencial desta Suprema Corte é firme no sentido de ser inadequada a via do habeas corpus para reexaminar fatos e provas no tocante à participação do paciente em organização criminosa ou à valoração da quantidade da droga apreendida, quando utilizados como fundamento para afastar ou dosar, aquém do patamar máximo, a causa de diminuição da pena pelo tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas. II - O entendimento do STF é o de que somente em situações excepcionais é admissível o reexame dos fundamentos da dosimetria da pena levada a efeito pelo juiz natural da causa a partir do sistema trifásico, o que, adianto, não se dá na espécie. III - Os Ministros integrantes da Quinta Turma do Superior Tribunal de Justiça assentaram que, ‘[n]o que tange à alegação de inexistência de provas para manutenção da condenação, o Tribunal de origem, com base no acervo probatório, firmou compreensão no sentido da efetiva prática do crime de tráfico ilícito de entorpecentes’. Ademais, consignaram que ‘a apreensão de elevada quantidade de entorpecente, aliada às circunstâncias em que ocorreu o delito, indicativas do tráfico habitual, são elementos que permitem concluir que há dedicação às atividades criminosas’. Dissentir dessa decisão demandaria o reexame de fatos e provas, o que, como visto, é inviável na via do habeas corpus. IV – Agravo regimental a que se nega provimento” (HC n. 157.258-AgR, Relator o Ministro Ricardo Lewandowski, DJe 4.10.2018).
+
+    ‘Agravo regimental em recurso ordinário em habeas corpus. Penal. Tráfico de drogas. Incidência da causa especial de diminuição de pena (art. 33, § 4º, da Lei de Drogas). Não ocorrência. Valoração negativa da natureza e da quantidade da droga (500 kg de maconha) e outras circunstâncias na terceira fase da dosimetria. Conclusão pelas instâncias ordinárias de que o agravante se dedicava a atividade criminosa. Impossibilidade de se revolverem fatos e provas, na via do habeas corpus, para se chegar a conclusão diversa. Precedentes. Regimental não provido’ (RHC n. 155.297-AgR, Relator o Ministro Dias Toffoli, DJe 15.6.2018).
+
+    ‘AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. DOSIMETRIA. AFASTAMENTO DA MINORANTE DO ARTIGO 33, § 4º, DA LEI 11.343/2006. (...) A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Pertinente à dosimetria da pena, encontra-se a aplicação da causa de diminuição da pena objeto do § 4º do art. 33 da Lei 11.343/2006. 3. A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a constatação de o paciente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demandaria o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. 4. Agravo regimental conhecido e não provido’ (HC n. 144.341-AgR, Relatora a Ministra Rosa Weber, DJe 27.9.2017).
+
+    10. Quanto ao regime prisional, o Tribunal de Justiça de São Paulo decidiu:
+
+    ‘O montante imposto impede as substituições do CP, art. 44 e, mesmo que assim não fosse, não seriam socialmente recomendáveis e suficientes à prevenção e repressão do delito de tráfico, que impulsiona uma verdadeira cadeia delitiva, assolando a sociedade de forma funesta, mercê da natureza destruidora e propulsora das substâncias apreendidas (cocaína, crack e maconha), cujo poder viciante assola seus dependentes que, para garantir o consumo, na maioria das vezes, praticam crimes patrimoniais.
+
+    Pelos mesmos motivos, impõe-se a manutenção do regime fechado, porque outro mais brando não atenderia à gravidade concreta da conduta, já exaustivamente explanada, não sendo o caso de determinação para realização de tratamento em clínica especializada na recuperação de dependentes químicos, como pretendido”.
+
+    O regime inicial fechado foi mantido pelo Ministro Ribeiro Dantas, que, ao não conhecer do Habeas Corpus n. 476.453, anotou:
+
+    “(...) não se evidencia ilegalidade na imposição do regime fechado pelo Tribunal de origem, pois, embora o quantum de pena aplicado aos pacientes (5 anos de reclusão) fora superior a 4 anos e inferior a 8 anos, tendo em vista a gravidade concreta do delito, evidenciada pela quantidade, diversidade e natureza de drogas apreendidas – 3,860g de maconha, 7,790g de cocaína e 74,360g de crack –, justificando a imposição de regime prisional mais gravoso, no caso o fechado, de acordo com o disposto no
+§ 3º do art. 33 do Código Penal e art. 42 da Lei n. 11.343/2006’.
+
+    Embora a pena de cinco anos de reclusão imposta aos pacientes permitisse a fixação de regime prisional inicial diverso do fechado, a quantidade, a variedade e a natureza dos entorpecentes apreendidos conduziu à fixação do regime inicial fechado, em consonância com a jurisprudência consolidada deste Supremo Tribunal:
+
+    ‘A fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada. Desde que o faça em decisão motivada, o magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do § 2º do art. 33 do Código Penal. Inteligência da Súmula 719/STF. 4. As particularidades do caso concreto apuradas pelos Juízos antecedentes – notadamente no tocante à quantidade de droga encontrada em poder do agravante (...) – constituem fundamentação idônea para a imposição de regime mais severo fechado, medida que se mostra adequada e necessária para a repressão e prevenção do crime’ (HC n. 161.482-AgR, Relator o Ministro Alexandre de Moraes, DJe 19.10.2018).
+
+    ‘HABEAS CORPUS. CONSTITUCIONAL. TRÁFICO INTERNACIONAL DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. PACIENTE ENVOLVIDO COM ORGANIZAÇÃO CRIMINOSA. CAUSA DE AUMENTO DO ART. 40, INC. I, DA LEI N. 11.343/2006. INEXISTÊNCIA DE BIS IN IDEM COM RELAÇÃO AO TIPO PENAL FIXADO NO ART. 33, CAPUT, DA LEI N. 11.343/2006. REGIME PRISIONAL INICIAL FECHADO ESTABELECIDO COM BASE EM FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO PELA PENA IMPOSTA.
+
+    1. Causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 afastada porque, com base no conjunto probatório dos autos, assentou ter o Paciente envolvimento com organização criminosa internacional. Premissa que para ser afastada demandaria o reexame de fatos e de provas, ao que não se presta o habeas corpus.
+
+    2. Inexistência de bis in idem na aplicação da causa de aumento pela transnacionalidade do delito prevista no art. 40, inc. I, da Lei n. 11.343/2006. Precedentes.
+
+    3. Regime prisional inicial fechado estabelecido por não guardar o Paciente vínculo com o distrito da culpa e pela quantidade e natureza do entorpecente apreendido. Fundamentação idônea.
+
+    4. Pena definitiva fixada em 5 anos e 10 meses de reclusão e 583 dias-multa. Não atendimento do disposto no art. 44, inc. I, do Código Penal. Impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+
+    5. Ordem denegada’ (HC n. 124.108, de minha relatoria, DJe 13.11.2014).
+
+    ‘HABEAS CORPUS. CONSTITUCIONAL. PENAL. TRÁFICO DE ENTORPECENTE. NATUREZA E QUANTIDADE DO ENTORPECENTE COMO FUNDAMENTO PARA FIXAÇÃO DO REGIME PRISIONAL INICIAL E PARA A NÃO SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ORDEM DENEGADA.
+
+    1. Possibilidade de fixar o regime inicial fechado e de afastar a substituição da pena privativa de liberdade por restritiva de direitos com base na quantidade e na natureza do entorpecente apreendido. Precedentes.
+
+    2. Ordem denegada” (HC n. 119.515, de minha relatoria, DJe 10.12.2013).
+
+    11. Embora a quantidade e a natureza dos entorpecentes não tenha sido utilizada para exasperar a pena-base, essas circunstâncias serviram de fundamento para afastar a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, o que possibilita sejam utilizadas para fundamentar também a fixação do regime inicial de cumprimento de pena.
+
+    A Segunda Turma deste Supremo Tribunal firmou entendimento no sentido de que ‘tanto a fixação do regime inicial de cumprimento da pena quanto a avaliação sobre a substituição da pena privativa de liberdade devem refletir as circunstâncias avaliadas ao longo de toda a dosimetria da pena, ou seja, das três fases, e não apenas da primeira etapa, sob pena de violação ao princípio da individualização da pena, o qual exige exame global, pois é nas três fases que agente e conduta são considerados, e não somente na fixação da pena-base’ (RHC n. 138.936, Relator o Ministro Dias Toffoli, Redator para o acórdão o Ministro Edson Fachin, Segunda Turma, DJe 20.3.2018).
+
+    Nessa mesma linha de entendimento, decidiu a Primeira Turma:
+
+    ‘Penal. Habeas Corpus substitutivo de Agravo Regimental e de Revisão criminal. Tentativa de roubo com emprego de arma de fogo e concurso de agentes. Regime inicial fechado. Ausência de teratologia, ilegalidade ou abuso de poder.
+
+    1. O habeas corpus não pode ser utilizado em substituição ao ao agravo regimental cabível na origem e à revisão criminal. Inadequação da via eleita. Precedentes.
+
+    2. Ausência de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem de ofício. Isso porque o emprego de arma de fogo, circunstância objetiva do caso concreto vinculada à maneira de agir do acusado, constitui fundamento idôneo para a imposição de regime inicial fechado, mesmo na hipótese de a pena-base haver sido fixada no mínimo legal. Não fosse a previsão legal de exacerbação da pena na terceira fase da dosimetria, a utilização de arma de fogo implicaria o aumento da sanção penal já na primeira etapa da dosimetria (pena-base), na medida em que, antes de limitar-se à chamada gravidade abstrata do delito, está relacionada ao maior desvalor da ação (HC 124.663-AgR, Rel. Min. Luís Roberto Barroso).
+
+    3. Habeas corpus não conhecido, revogada a liminar” (HC n. 132.802, Relator o Ministro Marco Aurélio, Redator para o acórdão o Ministro Roberto Barroso, Primeira Turma, DJe 20.9.2017). (...)
+
+    13. Pelo exposto, nego seguimento ao presente habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida”.
+
+    7. A repetição do que antes alegado em habeas corpus, com idêntico objetivo e com os mesmos dados objetos de apreciação e decisão, conduz ao não conhecimento desta nova impetração, na esteira da jurisprudência deste Supremo Tribunal:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. REPRODUÇÃO, SEM QUALQUER INOVAÇÃO, DE PEDIDO FORMULADO EM ANTERIOR IMPETRAÇÃO. INADMISSIBILIDADE.
+
+    1. É da jurisprudência do SUPREMO TRIBUNAL FEDERAL o entendimento de que é inadmissível a impetração que se traduz em mera repetição de pedido já formulado perante esta CORTE.
+
+    2. Agravo Regimental ao qual se nega provimento” (HC n. 199.594-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 12.5.2021).
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO NO TRIBUNAL DE JUSTIÇA. INADMISSIBILIDADE DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. REPETIÇÃO DE HABEAS CORPUS IMPETRADO NO SUPREMO TRIBUNAL FEDERAL. HABEAS CORPUS NÃO CONHECIDO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 198.652-AgR, de minha relatoria, Segunda Turma, DJe 22.4.2021)
+
+    Nessa linha de entendimento, por exemplo: RHC n. 144.339-AgR, Relatora Ministra Rosa Weber, Primeira Turma, DJe 15.12.2017; HC n. 134.651, de minha relatoria, Segunda Turma, DJe 16.6.2016; HC n. 126.835-AgR, Relator Ministro Roberto Barroso, Primeira Turma, DJe 18.8.2015; RHC n. 145.596-AgR, Relator Ministro Celso de Mello, Segunda Turma, DJe 23.10.2017; RHC n. 134.656-AgR, Relator Ministro Dias Toffoli, Segunda Turma, DJe 15.5.2017; RHC n. 130.578-AgR, Relator Ministro Ricardo Lewandowski, Segunda Turma, DJe 12.6.2017; RHC n. 118.992-ED, Relator Ministro Gilmar Mendes, Segunda Turma, DJe 28.3.2014.
+
+    8. Pelo exposto, nego seguimento ao presente habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Publique-se.
+
+    Brasília, 21 de junho de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
