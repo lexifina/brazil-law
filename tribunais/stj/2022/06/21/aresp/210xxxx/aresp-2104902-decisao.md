@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIS MARINO MARIANI NETO e OUTROS (LUIS e OUTROS) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, da lavra daExcelentíssimaSenhora Desembargadora Relatora, SANDRA GALHARDO ESTEVES,assim ementado:
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO DA RELATORA QUE CONCEDEU A TUTELA LIMINAR. Recurso prejudicado em razão do julgamento do mérito do agravo de instrumento.
+PROCESSO DE CONHECIMENTO. AÇÃO REVISIONALCONEXA COM AÇÃO DE EXECUÇÃO E EMBARGOS À EXECUÇÃO. AMPLA ORDEM DE EXIBIÇÃO DE TODOS OS CONTRATOS E DOCUMENTOS EXISTENTES ENTREAS PARTES. REFORMA PARCIAL DA DECISÃO PARA MANTER A ORDEM DE EXIBIÇÃO DE CONTRATOS ANTERIORES RELACIONADOS APENAS A RENEGOCIAÇÃO DE DÍVIDA, SEM NOVAÇÃO.
+O pedido de exibição de documento não se coaduna com as provas carreadas aos autos e, por derradeiro, mostra-se inoportuno com a ampla abrangência feita, mormente se considerado o objeto das ações conexas (ação de execução de título extrajudicial). Com exceção do contrato n.º 76570-1, os demais títulos executados não apontam a existência de relações jurídicas anteriores que embasassem a emissão das cédulas. Ao contrário, cada uma destas diz respeito às obrigações nelas representadas. Em contrapartida, no que diz respeito à renegociação de dívida, com indicação de anterior contrato, e sem novação, enquadra-se na situação descrita no enunciado da Súmula 286 do STJ: "A renegociação de contrato bancário ou a confissão de dívida não impede a possibilidade de discussão sobre eventuais ilegalidades nos contratos anteriores". Agravo interno prejudicado e agravo de instrumento parcialmente provido.
+Opostos embargos declaratórios foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DEVÍCIOS NO ACÓRDÃO. Os embargos de declaração objetivam a integração e aperfeiçoamento do ato jurisdicional, saneando obscuridade, contradição, omissão ou erro material, vícios inexistentes no caso concreto. Embargos de declaração rejeitados.
+Irresignados, LUISe OUTROSinterpuseramrecurso especial com base no art. 105, III,a, da CF, apontando a violação dos arts. 6º, 369, 370, 396, 397 e 399 do CPC, ao argumento de cerceamento de defesa, porquantoindeferida, no caso, a exibição dos diversos contratos de financiamento firmados, inclusive para amortização de dívidas relativas a contratos anteriores, em um encadeamento de operações com encargos abusivos que elevaram muito a dívida. Aduzem que arecusa na exibição seria injustificável no bojo da ação revisional por tratar-se de documentos comuns às partes.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo, por incidir, no caso, o teor da Súmula nº 7 do STJ(e-STJ, fls. 862/864).
+Nas razões do presente agravo, LUISe OUTROSrefutam os referidos óbices de prelibação (e-STJ, fls. 867/893).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Do cerceamento de defesa e indeferimento da exibição dos contratos omitidos
+LUIS e OUTROSafirmaram a violação dos arts.6º, 369, 370, 396, 397 e 399 do CPC, ao argumento de cerceamento de defesa, porquanto indeferida, no caso, a exibição dos diversos contratos de financiamento firmados, inclusive para amortização de dívidas relativas a contratos anteriores, em um encadeamento de operações com encargos abusivos que elevaram muito a dívida. Aduzem que a recusa na exibição seria injustificável no bojo da ação revisional por tratar-se de documentos comuns às partes.
+O TJSP rechaçou a tese de que os documentos omitidos faziam referência a contratos anteriores ao consignar que:
+Ocorre que o pedido de exibição de documento não se coaduna com as provas carreadas aos autos e, ainda, mostra-se inoportuno com a ampla abrangência determinada, mormente se considerado o objeto das ações conexas (ação de execução de título extrajudicial).
+(..)
+Com exceção do contrato n.º 76570-1, os demais títulos executados não apontam a existência de relações jurídicas anteriores que embasassem a emissão das cédulas. Ao contrário, cada uma destas diz respeito às obrigações nelas representadas, sem qualquer menção às obrigações anteriores. De rigor reconhecer inoportuna uma abrangente ordem de exibição de documentos e planilhas relacionados ao encadeamento de todas as relações jurídicas que porventura puderem existir entre as partes, e que não possuam vínculo com os títulos executados.
+Assim, rever as conclusões quanto a oportunidade, conveniência e obrigatoriedade na exibição dos documentos omitidosdemandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS DISPOSITIVOS INDICADOS. RELAÇÃO CONTRATUAL. DOCUMENTOS COMUNS E NECESSÁRIOS PARA EVENTUAL AJUIZAMENTO DE AÇÃO POSTERIOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. A análise das razões apresentadas pela parte recorrente - quanto à impossibilidade de exibição de documentos pretendidos pela parte recorrida - demandaria o reexame da matéria fática e do conteúdo contratual, o que é vedado em sede de recurso especial (Súmulas n. 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.912.654/RJ, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+DIREITO CIVIL E PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO RECONHECIDA. AUSÊNCIA DE JURISPRUDÊNCIA APTA A FUNDAMENTAR A APLICAÇÃO DA SÚMULA 568 DO STJ. EFEITOS INFRINGENTES. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. EXIBIÇÃO DE DOCUMENTOS. SEGURO DE VIDA EM GRUPO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DEVER DE INFORMAÇÃO. EXCLUSIVO DA ESTIPULANTE.
+(..)
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+(..)
+8. Embargos de declaração acolhidos com efeitos infringentes, para dar provimento ao agravo interno e negar provimento ao recurso especial da embargada.
+(EDcl no AgInt no REsp n. 1.892.113/SC, relatora MINISTRA NANCY ANDRIGHI, Terceira Turma, julgado em 1/6/2021, DJe de 8/6/2021.)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previnoque a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. DOCUMENTOS OMITIDOS. EXIBIÇÃO. DESNECESSIDADE. CERCEAMENTO DE DEFESA. AFASTAMENTO. OPORTUNIDADE. CONVENIÊNCIA E OBRIGATORIEDADE. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS DOS CONTRATOS. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
