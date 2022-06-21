@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ(e-STJ fls. 384/386).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 363):
+AGRAVO INTERNO - Insurgência contra decisão monocrática que indeferiu gratuidade de justiça e determinou recolhimentos - Ausência de documentação apta a amparar o pedido, nem mesmo diante da argumentação com a pandemia COVID-19 - Pedido de diferimento Ação que não consta do rol da Lei Estadual de Custas - Decisão mantida - Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 371/374).
+Nas razões do recurso especial (e-STJ fls. 285/298), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação doart. 99, § 2º, do CPC/2015.
+Sustenta que preenche os requisitos para concessão do benefício da justiça gratuita e que deve serintimada a comprová-los previamente à intimação para recolhimento das custas.
+No agravo (e-STJ fls. 392/401), afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A Corte Especial, quando do julgamento dos EREsp n. 603.137/MG, passou a adotar o entendimento jurisprudencial consagrado pelo STF, no sentido de que a pessoa jurídica, com ou sem fins lucrativos, somente faz jus ao benefício da assistência judiciária gratuita se demonstrar a impossibilidade de dispor de recursos para custeio das despesas processuais sem comprometimento do seu regular funcionamento. Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA SEM FINS LUCRATIVOS. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA.PRECEDENTE DA CORTE ESPECIAL. EMBARGOS ACOLHIDOS.
+1. O embargante alega que o aresto recorrido divergiu de acórdão proferido pela Corte Especial, nos autos do EREsp 690482/RS, o qual estabeleceu ser ônus da pessoa jurídica, independentemente de ter finalidade lucrativa ou não, comprovar que reúne os requisitos para a concessão do benefício da assistência judiciária gratuita.
+2. A matéria em apreço já foi objeto de debate na Corte Especial e, após sucessivas mudanças de entendimento, deve prevalecer a tese adotada pelo STF, segundo a qual é ônus da pessoa jurídica comprovar os requisitos para a obtenção do benefício da assistência judiciária gratuita, sendo irrelevante a finalidade lucrativa ou não da entidade requerente.
+3. Não se justifica realizar a distinção entre pessoas jurídicas com ou sem finalidade lucrativa, pois, quanto ao aspecto econômico-financeiro, a diferença primordial entre essas entidades não reside na suficiência ou não de recursos para o custeio das despesas processuais, mas na possibilidade de haver distribuição de lucros aos respectivos sócios ou associados.
+4. Outrossim, muitas entidades sem fins lucrativos exploram atividade econômica em regime de concorrência com as sociedades empresárias, não havendo parâmetro razoável para se conferir tratamento desigual entre essas pessoas jurídicas. 5. Embargos de divergência acolhidos.
+(EREsp n. 603.137/MG, Relator Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 2/8/2010, DJe 23/8/2010.)
+Tal orientação jurisprudencial foi cristalizada na Súmula n. 481/STJ, que assim dispõe: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+O acórdão recorrido, com base nos elementos de prova dos autos, indeferiu o benefício por ausência de documentos que comprovassem a alegada hipossuficiência (e-STJ fls. 365/366):
+Em relação às pessoas jurídicas, a presunção de miserabilidade não é aplicável, devendo fazer prova da hipossuficiência econômica (art. 99, §3º, CPC).
+Assim, não há exigência de intimação para comprovar incapacidade de arcar com custas processuais, pois somente haverá possibilidade dedeferimento da assistência judiciária gratuita quando houver a efetiva comprovação, de plano, da hipossuficiência financeira em detrimento de elementos contrários, o que não ocorreu no caso.
+Como fundamentado na decisão agravada, não há comprovação de que a agravante faça jus à gratuidade da justiça.
+E a despeito da atual conjuntura econômico-social, decorrente da pandemia relacionada à COVID-19, também deveria ser apresentado documentos completos a demonstrar não só alteração de receitas, mas principalmente de fluxo de caixa, ou de receitas suficientes a se concluir que a parte tenha sido profundamente afetada.
+Com relação ao pedido de diferimento, como fundamentado no indeferimento do pleito apresentado pela agravada, a ação proposta (declaratória de inexigibilidade de título) não consta no rol do art. 5º, da Lei Estadual nº 11.608/2003.
+A despeito dos argumentos do agravante, não se verifica fato ou fundamento sólido e suficiente para alteração do decidido.
+Alterar esse entendimento demandaria o indispensável revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, ante o disposto na Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA. NÃO COMPROVAÇÃO. REEXAME FÁTICOPROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..  2. Na hipótese, rever as premissas adotadas pelo tribunal de origem, que, a partir das circunstâncias fático-probatórias dos autos, concluiu que a agravante não comprovou a impossibilidade de arcar com o pagamento das custas, despesas processuais e honorários advocatícios, encontra o óbice da Súmula n. 7/STJ.
+3. É ônus da pessoa jurídica comprovar os requisitos para a obtenção do benefício da assistência judiciária gratuita, mostrando-se irrelevante a finalidade lucrativa ou não da entidade requerente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.683.818/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/2/2021, DJe 12/2/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REVISÃO DA HIPOSSUFICIÊNCIA ECONÔMICA DA PESSOA JURÍDICA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL EM PARTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..  2. Nos termos da Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais". Além disso, é relativa a presunção decorrente da declaração de hipossuficiência econômica, sendo possível o indeferimento da gratuidade de justiça quando encontrados elementos que coloquem em dúvida a condição financeira da parte requerente. Precedentes.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. As instâncias ordinárias, com base no acervo fático-probatório dos autos, consideraram inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+5. Agravo interno provido, a fim de conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp 1.714.898/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/12/2020, DJe 1/2/2021.)
+Ademais, o reexame fático-probatório dos autos impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. VENDA EXTRAJUDICIAL DO BEM MÓVEL. ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. PREÇO VIL. NÃO OCORRÊNCIA. EXAME, EM SEDE DE RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa está o art. 1.022 do CPC/2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa.
+2. Na espécie, o acórdão recorrido apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, n ão há falar, no caso, em negativa de prestação jurisdicional.
+3. O Tribunal estadual, avaliou os procedimento adotados no leilão extrajudicial e conclui pela sua adequação e respeito às normas processuais vigentes. A revisão do julgado estadual nesse ponto, demanda reexame de provas, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Não se pode conhecer do recurso pela alínea c, uma vez que aplicada a Súmula 7/STJ quanto à alínea a, resta prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+5. Agravo interno não provido.
+(AgInt no AREsp 1483200/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/09/2019, DJe 30/09/2019.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida (e-STJ fls. 191 e 312), observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
