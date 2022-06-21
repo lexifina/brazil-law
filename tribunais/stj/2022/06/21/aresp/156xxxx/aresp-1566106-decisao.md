@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto porMELTON ADMINISTRADORA DE BENS LTDAcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal, que objetiva reformar o acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,assim ementado:
+TRIBUTÁRIO. APELAÇÃO CÍVEL. ICMS. ENERGIA ELÉTRICA. CONTRATO DE COMPRA E VENDA FIRMADO EM AMBIENTE DE CONTRATAÇÃO LIVRE. LEGALIDADE DO DECRETO ESTADUAL 1.924/2015. CONSONÂNCIA COM A LEGISLAÇÃO TRIBUTÁRIA EM VIGOR. ATRIBUIÇÃO DE RESPONSABILIDADE, POR SUBSTITUIÇÃO TRIBUTÁRIA, DA EMPRESA DISTRIBUIDORA DE ENERGIA ELÉTRICA. CABIMENTO. BASE DE CÁLCULO DO IMPOSTO DE ACORDO COM A DECLARAÇÃO DO VALOR DEVIDO, COBRADO OU PAGO PELA ENERGIA ELÉTRICA CONSUMIDA NO MÊS ANTERIOR. CONTRIBUINTE QUE DEIXA DE ENTREGAR A DECLARAÇÃO (DEVEC). FISCO QUE ADOTA O VALOR DA ENERGIA PRATICADO PELO MERCADO CATIVO. PREVISÃO DO §3º DO ARTIGO 373-A INTRODUZIDO PELO DECRETO 1.924/2015. MAJORAÇÃO DA VERBA HONORÁRIA DE ACORDO COM O ART. 85, §11 DO CPC. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violados os arts.6º e 9º, parágrafo 1º, da LC 87/1996; e121, II, e128 do CTN, de que é ilegal a hipótese de substituição tributáriacriada peloDecreto 1924/2015, uma vez novas hipóteses só poderiam ser estabelecidas por lei em sentido estrito.
+Alega ainda ofensa aos arts. 3º, 108, parágrafo 1º, e 142 do CTN, sustentando, em síntese, que é impossível não se reconhecer a afronta que o Decreto 1924/2015infringeà legislação apontada, na medida em que cria base de cálculo por presunção e utiliza tributo como penalidade por descumprimento de obrigação acessória. Afirma, assim, que:
+(..) fixar a base de cálculo dessa substituição com base no "preço médio" das operações de compra fere o disposto no art. art. 9º, § 1º, inciso II, da LC 87/96 que deixa expresso a única base de cálculo possível nas operações em que a distribuidora de energia seja eleita como responsável por substituição, qual seja: o preço final praticado na operação,
+Portanto, se legal for a ST instituída, não há como não reconhecer, já nesse ponto, que o Decreto 1924/2015 fere a legalidade quando pretende instituir uma base para o cálculo da ST diversa daquela prevista na LC 87/96, em seu art. 9º supra.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula 280 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O acórdão recorrido, para decidir a controvérsia dos autosrelacionadaaos dispositivos legaisapontados,fundamentou-se nos seguintes elementos:
+O Decreto Estadual 1924/2015 promoveu alterações no Regulamento do ICMS e regulou o regime de substituição tributária nas operações de circulação de energia elétrica.
+ ..
+No que se refere à energia elétrica, a Lei Estadual 11.580/96 assim prevê:
+Art. 18. São responsáveis pelo pagamento do imposto:(..)§ 2º A responsabilidade a que se refere o inciso IV fica também atribuída:(..)II -às empresas geradoras ou distribuidoras de energia elétrica, nas operações internas e interestaduais com energia elétrica destinadas ao Estado do Paraná, na condição de contribuinte ou de substituto tributário, pelo pagamento do imposto, desde a produção ou importação até a última operação, sendo seu cálculo efetuado sobre o preço praticado na operação final.
+De se notar que a legislação estadual elegeu como sujeito passivo da substituição tributária, a empresa geradora ou distribuidora de energia elétrica, observando o artigo 9º, §1º, II da LC 87/96:
+ ..
+De se notar, portanto, que a legislação estadual observou a regra geral de incidência de ICMS sobre regime de substituição tributária nas operações de circulação de energia elétrica
+ ..
+Nesse sentido, não se pode falar que o Decreto feriu o princípio da legalidade, pois apenas regulamentou a forma de substituição tributária no que se refere às operações de circulação de energia elétrica.
+Importa destacar, ainda, que a distribuidora de energia elétrica é parte integrante da cadeia de circulação de energia elétrica, o que torna possível a sua responsabilidade, por substituição tributária, como previsto no artigo 373-A,Ido RICMS introduzido pelo Decreto Estadual 1924/2015.
+ ..
+Da mesma forma, não se pode falar em ilegalidade dos §§ 1º, 2º e 3º do art. 373-A do Decreto 1924/2015, vez que não implantou nova base de cálculo do ICMS, já que a base de cálculo está estabelecida no art. 8º, II da LC 87/96.
+Verifica-se que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais, quais sejam, Decreto Estadual1924/2015 eLei Estadual 11.580/1996. Sendo assim, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+Ademais, quanto à alegação de ilegalidade da base de cálculo do ICMS cobrado em substituição tributária, oreexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, qual seja, de que "não houve criação de novo tributo sem previsão legal,apenas estabeleceu condições de execução das normas relativas à substituição tributária", utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
