@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LEONARDO MAIA FERREIRA, acusado por tráfico de drogas, interpõe agravo regimental contra a decisão da Presidência de fls. 87-88, que indeferiu liminarmente o habeas corpus, com base na Súmula n. 691 do STF, por meio do qual pretendia a defesa a revogação da preventiva.
+Em suas razões, reitera o insurgente o argumento de ausência de fundamentação idônea para a manutenção da constrição cautelar, sobretudo diante da pouca quantidade de droga apreendida e das condições favoráveis ostentadas pelo acusado, que não possui envolvimento com organizações criminosas.
+Assinala, ainda, que "o fato de o Paciente responder a outro processo criminal, por si só, não é motivação suficiente para adoção da prisão preventiva, ainda mais se levarmos em consideração a pequena quantidade de drogas supostamente apreendida" (fl. 95).
+Requer, diante disso, a "concessão da ordem para relaxar a prisão preventiva do Paciente, na forma do art. 5º, inciso LXV, da Constituição Federal; ou, não sendo o caso de relaxamento, pela concessão de medidas cautelares alternativas ao cárcere, nos termos do art. 319, incisos I, II e V, do CPP" (fl. 97).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO DA CAUTELA EXTREMA. INOCORRÊNCIA. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do CPP. .
+2. Na espécie, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco real de reiteração delitiva, porquanto o insurgente responde pela pratica de homicídio tentado, circunstância que evidencia também a sua periculosidade.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 87-88):
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LEONARDO MAIA FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Consta dos autos que o paciente foi preso em flagrante no dia 08/05/2022, em razão da suposta prática do delito previsto no art. 33 da Lei n. 11.343/06. A prisão em flagrante foi convertida em preventiva.
+Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o Tribunal local, visando a soltura do paciente.
+Sustenta, em síntese, a insuficiência de fundamentação do decreto prisional, a desproporcionalidade da custódia cautelar, a possibilidade de aplicação de medidas cautelares menos gravosas e a existência de condições pessoais favoráveis ao paciente.
+Requer a concessão da ordem, liminarmente, para que seja substituída a prisão preventiva do paciente por medidas cautelares diversas do cárcere.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+ ..
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar." No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+De fato, não bastasse a questão suscitada neste habeas corpus não haver sido analisada pelo Tribunal de origem, visto que impugnada a decisão que indeferiu a liminar (incidência da Súmula n. 691 do STF), verifica-se, ainda, a inexistência que flagrante ilegalidade que autorize a superação do referido óbice sumular.
+De fato, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do CPP.
+No caso, embora a quantidade de droga apreendida não seja tão expressiva ("20 petecas de pedra de oxi, 04 petecas de maconha, além de uma peteca maior supondo-se que também seja maconha" - fl. 18), extrai-se da decisão constritiva que o insurgente "responde a processo por tentativa de homicídio (0005747-07.2019.8.14.0031), estando a vítima paraplégica, de modo que a um só tempo se descortinam a periculosidade do agente e a inocuidade das medidas cautelares diversas da prisão" (fl. 20, destaquei). Tal circunstância evidencia não só a sua periculosidade, mas a real possibilidade de reiteração delitiva.
+A esse respeito, urge consignar que a jurisprudência desta Corte Superior, lembrada pela decisão, é firme ao asseverar que " ..  maus antecedentes, reincidência ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública." (HC n. 556.419/SP, Rel. Ministro Antonio Saldanha Palheiro, DJe 18/3/2020). No mesmo sentido, ainda, os seguintes precedentes:
+ ..
+4. Ao decretar a custódia preventiva, o Juízo singular ressaltou o fundado risco de reiteração delitiva, porquanto, além da ação penal objeto deste writ, o réu registra em seu desfavor outros procedimentos criminais e, até mesmo, condenação definitiva, pela prática de delitos de mesma natureza (reincidência específica), circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para justificar a prisão cautelar.
+5. Ordem denegada (HC 468.845/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 24/10/2018, destaquei).
+ ..
+2. No caso dos autos, a decisão que decretou a custódia preventiva está suficientemente fundamentada pois, conforme consignado, o recorrente responde a vários processos por crimes patrimoniais, sendo que, no momento do delito ora apurado, cumpria pena no regime aberto com tornozeleira eletrônica, o que não impediu de praticar novo delito. Ademais, além da condenação não transitada em julgado pelo delito de roubo, explicitada no acórdão impugnado, o magistrado singular, ao prestar informações a este Superior Tribunal de Justiça, noticiou que o recorrente é reincidente específico, eis que condenado definitivamente em processo que tramitou na Comarca de Nova Era/MG.
+3. A reincidência do réu autoriza a segregação cautelar, nos termos do art. 313, II, do CPP, e justifica a custódia para garantia da ordem pública, como forma de evitar a reiteração delitiva, nos moldes do art. 312 do mesmo Código  ..  (RHC n. 98.973/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 24/8/2018, sublinhei).
+À vista do exposto, nego provimento ao agravo regimental.
