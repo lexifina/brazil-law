@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de MARCIO FERNANDES SALES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no julgamento do Agravo em Execução Penaln. 9000068-36.2016.826.0129.
+Depreende-se dos autos que o Juízo da Vara de Execuções Criminais, em virtude de falta grave cometida pelo apenado, ora paciente, determinou a perda de 1/3 (um terço) dos dias remidos (e-STJ fls. 55/56).
+Interposto agravo em execução, o Tribunal a quo negou provimento ao recurso nos termos do aresto acostado às e-STJ fls. 68/71.
+Neste writ, a defesa pontua que "aduzem a autoridade apuradora, o representante ministerial e o Juízo "a quo", que a conduta perpetrada pelo ora Paciente deve ser anotada como falta disciplinar de natureza grave, nos termos do artigo 50, inciso VI, c/c. o artigo 39, incisos II e V, ambos da Lei de Execução Penal, eis que caracterizou desobediência" e ressalta que, "compulsando os autos, verifica-se que a conduta de desobediência atribuída ao ora Paciente, na verdade, consiste MERAMENTE na conduta prevista no art. 44, inciso V, do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo (Resolução SAP nº 144/2010), haja vista que a referida conduta praticada pelo Paciente se limitou a "ADENTRAR NA CELA ALHEIA SEM AUTORIZAÇÃO"" (e-STJ fls. 9/10).
+Afirma que não foi comprovado que os agentes penitenciários deram ordem ao paciente, não havendo indícios do ato de desobediência por sua parte.
+Assere, também, que não configura falta disciplinar grave a conduta de entrar em cela alheia sem autorização.
+Sustenta que, caso não seja reconhecida a falta leve, deve ser aplicada ao reeducando a falta de natureza média, nos termos do art. 45, I, do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo (Resolução SAP n. 144/2010).
+Dessa forma, requer, liminarmente, a suspensão dos efeitos da decisão combatida até o julgamento deste habeas corpus. No mérito, postula a desclassificação da falta cometida para leve e, subsidiariamente, para a de natureza média (e-STJ fls. 3/27).
+Indeferido o pedido de liminar (e-STJ fls. 83/85; o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 91/93).
+É, em síntese, o relatório.
+Decido.
+Verifica-se que essa questão já foi analisada pela ocasião do julgamento do HC n. 465.317/SP, cuja ordem foi denegada em decisão de minha lavra publicada em 16/11/2018 e transitada em julgado.
+Dessa forma, o presente mandamusconstitui mera reiteração de pedido formulado emhabeascorpus, providência vedada pela jurisprudência desta Corte Superior. No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDOS JÁ FORMULADOS NO HABEAS CORPUS N. 701.258/RS, PREVIAMENTE IMPETRADO NO STJ. DESCABIMENTO. CONTEMPORANEIDADE. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO.
+1. Não há falar em ofensa ao princípio da colegialidade, em razão de se ter negado provimento ao recurso por meio de decisão unipessoal, pois o art. 210 do RISTJ dispõe que, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+3. No caso, a fundamentação da segregação cautelar já foi analisada no writ previamente impetrado perante esta Corte Superior de Justiça, tendo sido por mim asseverado que o delito  foi  cometido com notas de execução, com envolvimento de facções criminosas e que os agentes apresentam diversidade de antecedentes criminais, o que representa fundamento concreto para a manutenção da prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 161.267/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MERA REITERAÇÃO DE MANDAMUS JÁ JULGADO POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANÁLISE DE INSURGÊNCIA CONTRA SEUS PRÓPRIOS JULGADOS. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos formulados no HC 700.113/PR, o qual, não foi conhecido em decisão por mim proferida em 16/10/2021, após o que foram rejeitados os embargos de declaração opostos. Verifica-se que ambas as impetrações se insurgem contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010907-90.2018.8.16.0031 e trazem as mesmas alegações.
+2. Esta Corte Superior não é competente para julgamento das insurgências contra seus próprios julgados, razão pela qual não há falar em conhecimento da impugnação relativa ao julgamento do HC 700.113/PR.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022, grifei.)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
