@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/06/2022 a 21/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CLAYTON FRANCISCO DA PAZ contra acórdão da Corte Especial que acolheu anteriores aclaratórios, sem efeitos infringentes, assim ementado (e-STJ fl. 917):
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DEDECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. OMISSÃO. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE ANÁLISE. ACOLHIMENTO DOS ACLARATÓRIOS SEM EFEITOS MODIFICATIVOS.
+1. O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+2. Da leitura do acórdão embargado, constata-se a existência de omissão passível de ser sanada na via eleita, pois o ora embargante, nas razões do agravo regimental interposto, aventou a possibilidade de concessão de habeas corpus de ofício, tese que, de fato, não foi apreciada.
+3. Entretanto, destaca-se que a atuação da Vice-Presidência desta Corte Superior de Justiça é restrita às hipóteses descritas no art. 22 do Regimento Interno e limita-se à cognição inerente ao juízo de admissibilidade do recurso extraordinário, não comportando, portanto, a análise da pretendida concessão de habeas corpus de ofício.
+4. Embargos de declaração acolhidos, sem efeitos infringentes, para sanar a omissão apontada.
+Sustenta o embargante a existência de contradição no aresto embargado, tendo em vista que"o argumento da ausência de verificação da possibilidade de habeas corpus de ofício se apresenta como uma tese do Recurso Extraordinário, por afronta ao artigo 5º, incisos LV e LXVIII, não como um pedido direcionado à essa Colenda Corte" (e-STJ fl. 928).
+Requer o acolhimento dos aclaratórios, "com o fim de sanar a contradição apontada, para que, por consequência, seja provido o Agravo Regimental, determinando o envio dos autos para o Supremo Tribunal Federal para julgamento do Recurso Extraordinário" (e-STJ fl. 928).
+Impugnação às e-STJ fls. 1.210-1.216.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexiste qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou, fundamentadamente, as razões pelas quais manteve a decisão que negou seguimento ao recurso extraordinário.
+2. Não se prestam os aclaratórios para rediscutir matéria devidamente enfrentada e decidida pelo acórdão embargado. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, tendo em vista que o acórdão impugnado foi publicado em 22/4/2022 (e-STJ fl. 925), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 25/4/2022 (e-STJ fl. 929), ou seja, dentrodoprazo recursal.
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Da análise do acórdão impugnado, conclui-se que não há qualquer mácula a ser corrigida, uma vez que esta Corte Especialjustificou adequadamente as razões pelas quais acolheu os aclaratórios anteriores, sem efeitos infringentes, ratificando o acórdão que negou provimento ao agravo regimentalpara manter a decisão que negou seguimento ao recurso extraordinário.
+Com efeito, no acórdão de e-STJ fls. 883-890, consignou-se que,ao interpretar o art. 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos (e-STJ fl. 885).
+Asseverou-se quenesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n.791.292/PE) (e-STJ fl. 885).
+Afirmou-se que, na espécie, foram declinadas as razões pelas quais o colegiado negou provimento ao agravo regimental e rejeitou os embargos de declaração,razão pela qualos acórdãos encontrariam-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF (e-STJ fl. 886/888).
+Destacou-se, ainda,que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental, mantendo-se, mesmo que por fundamento diverso, adecisão da Presidência desta Corte, que não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos da decisão de admissibilidade(e-STJ fls. 888-889).
+Pontuou-se que, no RE n. 598.365 RG/MG, julgado na sistemática darepercussão geral, definiu-se que "a questão do preenchimento dospressupostos de admissibilidade de recursos da competência de outrosTribunais tem natureza infraconstitucional e a ela são atribuídos osefeitos da ausência de repercussão geral" (Tema 181/STF) (e-STJ fl. 889).
+Desta forma, assentou-se que, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não haveriarepercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação constitucional,aventada no recurso extraordinário (e-STJfl. 890).
+Nas razões dos primeiros embargos opostos, foi apontada a existência de omissão "relacionada a não verificação da possibilidade de concessão de habeas corpus de ofício no presente caso" (e-STJ fl. 895).
+Assim, no aresto de e-STJ fls. 917-922 consignou-se a existênciade omissão passível de ser sanada na via eleita, pois o ora embargante, nas razões do agravo regimental interposto, aventou a possibilidade de concessão de habeas corpus de ofício, tese que, de fato, não tinha sido apreciada (e-STJ fl. 920).
+No entanto,os aclaratórios foram acolhidossem efeitos modificativos, tendo em vista que, a atuação da Vice-Presidência desta Corte Superior de Justiça é restrita às hipótesesdescritas no art. 22 do RI/STJ e limita-se à cognição inerente ao juízo de admissibilidade do recurso extraordinário, não comportando, portanto, a análise da pretendida concessão de habeas corpus de ofício (e-STJ 920-921).
+Não se constata, portanto, nenhum defeito nos julgados questionados, tendo este colegiado demonstrado, de forma fundamentada, as razões pelas quais não é possível a admissão do recurso extraordinário, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Nos termos do artigo 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver, no acórdão, ambiguidade, obscuridade, contradição ou omissão, ou, então, retificar, quando constatado, eventual erro material do julgado.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa. Ademais, não há falar em omissão pela ausência de manifestação sobre o cabimento de habeas corpus de ofício, haja vista a competência da Vice-Presidência desta Corte, restrita ao juízo de admisibilidade recursal.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1469363/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 12/05/2020, DJe 15/05/2020)
+No mesmo diapasão:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. USURPAÇÃO DE COMPETÊNCIA DO PRETÓRIO EXCELSO. INOCORRÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição e suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento da parte.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+3. A negativa de seguimento ao recurso extraordinário à luz da sistemática da repercussão geral, com base no artigo 1.030, I, "a", do Código de Processo Civil, não implica em usurpação da competência do Pretório Excelso. (Questão de Ordem no AI 760.358/SE, Rel.
+Ministro GILMAR MENDES, DJe de 19/2/2010).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgInt no AREsp 1272022/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/05/2019, DJe 23/05/2019)
+Ante o exposto, rejeitam-se os embargos de declaração.
+É o voto.
