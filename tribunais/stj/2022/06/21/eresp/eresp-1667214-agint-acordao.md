@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/06/2022 a 21/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Verificada a diversidade da moldura fática entre os acórdãos confrontados, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento de embargos de divergência.
+2. "É impossível a admissão dos embargos de divergência quando inexiste, entre os acórdãos comparados, a adoção de teses dissonantes a respeito da mesma questão jurídica, mas, tão somente, conclusões distintas a respeito de diferentes molduras fáticas" (AgInt nos EDcl no AgInt nos EREsp 1.908.170/RJ, Rel. Ministra NANCY ANDRIGHI,SEGUNDA SEÇÃO, julgado em 15/03/2022, DJe de 17/03/2022).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto contra a decisão de fls. 1246/1250, desta relatoria, que inadmitiu liminarmente os embargos de divergência por ausência de similitude fática entre os acórdãos confrontados.
+Nas razões recursais, a agravante alega que, no caso, os embargos de divergência adotam como premissa a definição da natureza jurídica de uma sociedade que realiza a aquisição de grãos (insumos) para posterior produção" e que, por isso, embora o acórdão paradigma não seja "milimetricamente idêntico, também parte de idêntico pressuposto jurídico: sua solução jurídica pressupõe, a partir do direito positivo nacional, que empresa que realiza a aquisição de grãos (insumos) para posterior produção se enquadra na qualificação de agroindustrial e, não, como mera "cerealista", tal decidido pela v. acórdão embargado" (e-STJ, fl. 1256).
+Argumenta nos seguintes termos:
+"No caso, as circunstâncias tanto se identificam como se assemelham: a partir de idêntica atividade empresarial, houve a adoção de entendimentos antagônicos: um, ao analisar o pressuposto de julgamento em torno da natureza jurídica de empresa, concluiu que a aquisição de grãos (insumos) para posterior produção seria atividade de "cerealista"; o outro, "agroindustrial". Eis, portanto, o ponto de contato e frontal divergência entre o acórdão embargado e o acórdão paradigma.
+De ver que em ambos os casos confrontados, precipuamente, existe uma mesma questão autônoma, que por si só, define uma própria tese jurídica: a qualificação jurídica da empresa que adquire grãos para posterior produção.
+A definição dessa questão autônoma de qualificação jurídica define uma própria tese jurídica que, a partir da consequente hermenêutica do direito posto, emanará a aplicação de regra de decisão de fundo. E, quanto ao ponto, tal como exaustivamente demonstrado nas razões recursais, houve frontal e direta divergência quanto à exata caracterização jurídica de mesma atividade empresarial. Logo, a divergência evidenciada relaciona-se com a definição da própria natureza jurídica de certa atividade empresarial, cujo pressuposto, uma vez adotado, resultará na definição de uma tese jurídica." (e-STJ, fls. 1257/1258).
+Foi apresentada impugnação do recurso (e-STJ, fls. 1267/1275).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Verificada a diversidade da moldura fática entre os acórdãos confrontados, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento de embargos de divergência.
+2. "É impossível a admissão dos embargos de divergência quando inexiste, entre os acórdãos comparados, a adoção de teses dissonantes a respeito da mesma questão jurídica, mas, tão somente, conclusões distintas a respeito de diferentes molduras fáticas" (AgInt nos EDcl no AgInt nos EREsp 1.908.170/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 15/03/2022, DJe de 17/03/2022).
+3. Agravo interno a que se nega provimento.
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.667.214 - PR (2017/0086232-8)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+COOPERATIVA DE DESENVOLVIMENTO E PRODUÇÃO AGROPECUÁRIA - CODEPA
+ADVOGADOS
+:
+PAULO RENATO MOTHES DE MORAES E OUTRO(S) - RS059861
+BERNARDO DE MEDEIROS SANTOS - RS074157A
+AGRAVADO
+:
+FAZENDA NACIONAL
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Em que pesem os esforços empreendidos pela agravante, não há, nas razões recursais, argumentação capaz de modificar a decisão agravada.
+Os embargos de divergência foram opostos contra acórdão da colenda Segunda Turma, assim ementado:
+"TRIBUTÁRIO. RECURSO ESPECIAL. ART. 8º, §§ 1º, I, E 4º, I, DA LEI N.
+10.925/2004. CRÉDITO PRESUMIDO DE PIS E COFINS. ATIVIDADE QUE DEVE SE ENQUADRAR NO CONCEITO DE PRODUÇÃO. RECURSO PROVIDO.
+1. A controvérsia veiculada nos autos diz respeito ao enquadramento das atividades desenvolvidas pela sociedade empresária recorrida no conceito de produção para fins de reconhecimento do direito aos créditos presumidos de PIS e Cofins de que trata o art. 8º, §§ 1º, I, e 4º, I, da Lei n. 10.925/2004.
+2. Depreende-se da leitura de referidos normativos que (a) têm direito ao crédito presumido de PIS/PASEP e Cofins as pessoas jurídicas, inclusive cooperativas, que produzam mercadorias a partir de grãos de soja, milho e trigo adquiridos de pessoa física, cooperado pessoa física ou cerealista; e que (b) os cerealistas não têm direito ao crédito presumido.
+3. Conforme bem destacado no parecer do Ministério Público Federal nos autos do REsp 1.670.777/RS, "pelos termos da lei (art. 8º, caput, da Lei 10.925/04), verifica-se que o legislador entende por produção a atividade que modifica os produtos animais ou vegetais, transformando-os em outros, tais, por exemplo, a indústria de doces obtidos a partir da produção de frutas; a indústria de queijos e outros laticínios, obtidos a partir do leite".
+4. Para fazer jus ao benefício fiscal, a sociedade interessada deve produzir mercadorias, ou seja, deve realizar processo de industrialização a partir de grãos de soja, milho e trigo adquiridos de pessoa física, cooperado pessoa física ou cerealista, transformando-os em outros (v.g. óleo de soja, farelo de soja, leite de soja, óleo de trigo, farinha de trigo, pães, massas, biscoitos, fubá, polenta etc.).
+5. A análise dos autos, bem como dos fatos delineados pelo Tribunal a quo, denota que as atividades desenvolvidas pela recorrida - limpeza, secagem, classificação e armazenagem de produtos in natura de origem vegetal (e-STJ, fl. 641) - não ocasionam transformação do produto, enquadrando a sociedade na qualidade de mera cerealista e atraindo a vedação de aproveitamento de crédito a que se refere o § 4º, I, do art. 8º da Lei n. 10.925/1945.
+6. Inaplicabilidade do óbice da Súmula 7/STJ, pois a solução da controvérsia requer simples revaloração jurídica dos fatos já delineados pela Corte de origem, a qual foi categórica ao afirmar que as atividades objeto de análise para fins de creditamento em questão consistem apenas em limpeza, secagem, classificação e armazenagem de produtos in natura de origem vegetal, segundo demonstrado.
+7. Recurso especial provido.
+(REsp 1667214/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/10/2019, DJe 03/02/2020)
+Nas respectivas razões, a embargante alega que o aresto embargado divergiu dos seguintes precedentes desta Corte de Justiça: "(i) REsp 396.609/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 07/11/2002, DJ 17/03/2003 (ii) REsp 681.660/PR, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 23/08/2005, DJ 19/09/2005 (iii) REsp 207.570/PR, Rel. Ministro GARCIA VIEIRA, PRIMEIRA TURMA, julgado em 21/10/1999, DJ 29/11/1999 (iv) REsp 435.038/SC, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 19/08/2004, DJ 14/02/2005(v) REsp 1221170/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 24/04/2018".
+Em relação ao paradigma da Quarta Turma, afirma a similitude fática entre os acórdãos cotejados, pois "tanto o v. acórdão embargado (Segunda Turma) como o a r. decisão paradigma acima (Quarta Turma/STJ) versam sobre a mesma base fático-jurídica: dispor sobre natureza jurídica de empresas que compram soja de produtores rurais, fazendo incidir as consequências legais correspondentes". Afirma, assim, que há dissídio pretoriano: "(i) sobre o critério de interpretação da aplicabilidade prática do princípio da não cumulatividade do PIS/COFINS; e (ii) sobre a não incidência dos conceitos de IPI na interpretação da legislação do PIS/COFINS".
+Diversamente do alegado, contudo, verifica-se que, no que se refere à divergência de competência da egrégia Corte Especial, o aresto apontado como paradigma não encerra hipótese que autorize o confronto analítico com o julgamento proferido nos presentes autos.
+De fato, como apontado na decisão ora agravada, o acórdão embargado trata do enquadramento das atividades desenvolvidas pela sociedade empresária agravante no conceito de produção para fins de reconhecimento do direito aos créditos presumidos de PIS e Cofins de que trata o art. 8º, § 1º, I, e § 4º, I, da Lei 10.925/2004.
+O acórdão paradigma, por sua vez, examinou tão somente a existência ou não de relação de consumo no caso, especificamente a aplicabilidade do Código de Defesa do Consumidor a contrato de compra e venda de produto agrícola celebrado anteriormente ao advento da Lei 8.078/90.
+Nesses termos, portanto, é forçoso reconhecer que as questões jurídicas trazidas a confronto são diversas, não havendo o indispensável dissenso a respeito da solução da questão processual controvertida. Assim, o paradigma apresentado não é passível de caracterizar a divergência jurisprudencial suscitada pela parte embargante.
+A jurisprudência deste Tribunal Superior já pacificou entendimento de que somente "são cabíveis os Embargos de Divergência quando os arestos trazidos à colação firmaram posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (EREsp 443.095/SC, Segunda Seção, Rel. Min. CASTRO FILHO, DJ de 2/2/2004).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE ATO ADMINISTRATIVO. INDEFERIMENTO DE REGISTRO DE MARCA FARMACÊUTICA. ACÓRDÃOS TRAZIDOS À COLAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL INEXISTENTE. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. INCIDÊNCIA DA MULTA DO ART. 1.026, § 2º, DO CPC/2015.
+1. É impossível a admissão dos embargos de divergência quando inexiste, entre os acórdãos comparados, a adoção de teses dissonantes a respeito da mesma questão jurídica, mas, tão somente, conclusões distintas a respeito de diferentes molduras fáticas.
+2. Hipótese em que as conclusões dos acórdãos embargado e paradigma, acerca da distintividade das marcas farmacêuticas confrontadas e da potencialidade, ou não, de a convivência entre elas resultar em confusão ou associação indevida entre os consumidores, decorrem, exclusivamente, das particularidades fáticas de cada hipótese concreta trazida a julgamento perante este Tribunal, as quais são insusceptíveis de comparação em uma análise abstrata.
+3. A oposição de embargos de declaração manifestamente infundados - porquanto não indicado qualquer vício concreto de obscuridade, contradição, omissão ou erro material do julgado -, com nítido propósito de obstar o curso da marcha processual, atrai a incidência da multa prevista no art. 1.026, § 2º, do CPC/2015.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AgInt nos EREsp 1908170/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 15/03/2022, DJe 17/03/2022)
+PROCESSO CIVIL. DIREITO CIVIL. OBRIGAÇÕES. ESPÉCIES DE CONTRATOS. PREVIDÊNCIA PRIVADA. SIMILITUDE FÁTICA. IDENTIDADE ENTRE ACÓRDÃOS EM CONFRONTO. NÃO DEMONSTRADOS. INCIDÊNCIA DOS ARTS. 1.043 DO CPC/15 E 266 DO RISTJ. INCIDÊNCIA DO ART. 1.040 DO CPC/15. RESOLUÇÃO N. 8/2008 DO STJ. RETORNO DO FEITO. SOBRESTAMENTO. DIVERGÊNCIA. AUSÊNCIA. SUSPENSÃO DOS AUTOS. IMPOSSIBILIDADE. DEVOLUÇÃO DOS AUTOS À ORIGEM. CONTROVÉRSIA. DIVERGÊNCIA NÃO EVIDENCIADA.
+I - Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+II - Para a configuração do dissídio jurisprudencial, é imprescindível que se demonstrem a similitude fática e a identidade entre os acórdãos em confronto, nos termos dos arts. 1.043 do CPC/2015 e 266, § 4º, do RISTJ.
+III - Na hipótese, o acórdão embargado, com base nos termos do art. 1.040 do CPC/15 e invocando a Resolução n. 8/2008 do STJ, determinou o retorno do feito à origem em razão da controvérsia delineada nos autos estar sob análise de recurso sob o rito repetitivo - Tema 907.
+IV - O acórdão paradigma, a seu turno, cujo entendimento foi proferido em 2016, considerou que a " ..  devolução dos autos à Corte de origem é uma possível consequência da determinação de sobrestamento do recurso especial neste Superior Tribunal de Justiça  .. ".
+V - Não se verifica a divergência para os fins consignados pela embargante, com o intuito de driblar o sobrestamento do feito, objetivando o julgamento da matéria de mérito, cuja controvérsia encontra-se sob análise em feito de âmbito repetitivo.
+VI - Veja-se que a real pretensão da embargante é que os autos não sejam suspensos, reformando-se o acórdão embargado para que prevaleça a atual jurisprudência desta Corte em relação ao tema de mérito, a despeito da existência do representativo da controvérsia ainda não julgado.
+VII - Ora, a única eventual controvérsia entre o acórdão embargado e o apontado como paradigma está no fato da devolução ou não dos autos à origem. Enquanto o primeiro decidiu pela devolução, o segundo considerou que apenas o sobrestamento do recurso especial no STJ seria suficiente, e que a devolução dos autos à origem seria " ..  uma possível consequência da determinação de sobrestamento do recurso especial  .. ".
+VIII - Não evidenciada a divergência apontada, a hipótese se amolda ao seguintes precedente: EREsp n. 1.415.390/CE, Rel. Ministro Benedito Gonçalves, Corte EspeciaL, julgado em 21/6/2017, DJe 29/6/2017.
+IX - Agravo interno improvido.
+(AgInt nos EREsp 1703788/SE, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 26/03/2019)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
