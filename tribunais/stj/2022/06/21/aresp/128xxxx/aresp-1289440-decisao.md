@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por impossibilidade de exame de matéria constitucional, não cabimento para análise de violação de súmula, aplicação de entendimentode recurso especial repetitivo, incidência da Súmula n. 83 do STJ eausência de prequestionamento (e-STJ fls. 262/272).
+O acórdão recorrido está assim ementado (e-STJ fls. 129/130):
+AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. PEDIDO INDIVIDUAL DE CUMPRIMENTO DE SENTENÇA COLETIVA.IMPUGNAÇÃO JULGADA IMPROCEDENTE.
+1. Pedido de suspensão. Não há falar em suspensão do agravo em razão de ainda não haver transitado em julgado o REsp nº 1.438.263/SP (Tema 948). Nesse a discussão refere-se à legitimidade ativa de não associado para a liquidação/execução da sentença coletiva em que BANCO DO BRASIL S/A figure na condição de sucessor do BANCO NOSSA CAIXA S/A, não sendo essa a hipótese versada nos presentes autos. Também descabida a suspensão do recurso pela ausência do trânsito em julgado do REsp nº 1.370.899/SP (Tema 685), julgado em 21/05/2014 (termo inicial dos juros de mora). A Presidência deste Tribunal de Justiça, recentemente, expediu o Ato nº 021/2016-P, no qual ordenou a reativação, para processamento e julgamento, dos recursos suspensos em razão dos Atos 023/2013-P e 012/2014-P, porquanto houve o julgamento dos Recursos Especiais Repetitivos nºs 1.361.800- SP, 1.370.889-SP, 1.391.198-RS e do ARE nº 920.090-RS.
+2. Ilegitimidade ativa e abrangência nacional da sentença proferida na ação civil pública nº 1998.01.1.016798-9.Com o julgamento do REsp. nº. 1.391.198//RS, em 13/08/2014, representativo da controvérsia, nos termos do antigo artigo 543-C do CPC/73, ficou consolidado o entendimento que os poupadores detêm legitimidade ativa, independentemente de fazerem parte ou não dos quadros associativos do IDEC, aplicável por força da coisa julgada, indistintamente, a todos os detentores de conta poupança, independente de sua residência ou domicilio no Distrito Federal, de ajuizarem o cumprimento de sentença proferida na ação civil pública nº 1998.01.1.016798-9.
+3. Juros de mora. Os juros de mora, no cumprimento individual da sentença coletiva, são devidos a contar do ato citatório na ação deconhecimento. Tese consolidada no julgamento do REsp n.º 1.391.198/SP.
+4. Prescrição. No acórdão paradigma - REsp nº 1.388.000/PR, TEMA 877, transitado em julgado em 13/06/2016 -, restou decidido que: "O prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei nº 8.078/90". No caso concreto, não há falar em prescrição quinquenal, porquanto a ação civil pública nº 16.798-9/98 transitou em julgado em 27/10/2009, enquanto o presente cumprimento de sentença foi ajuizado em 24/10/2014.
+5. Juros remuneratórios. Descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento. (Recurso Especial nº 1.392.245/DF).
+DERAM PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO INTERPOSTO PELO RÉU.UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 237/240).
+Nas razões deste recurso (e-STJ fls. 278/306), a parte reitera as razões do especial.
+Contraminuta apresentada às fls. 364/399 (e-STJ).
+É o relatório.
+Decido.
+O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (art. 544, § 4º, I, do CPC/1973 e art. 932, III, do CPC/2015) e da aplicação, por analogia, da Súmula n. 182/STJ.
+No caso, não foram impugnados os fundamentos relativos à impossibilidade de exame de matéria constitucional, não cabimento do recurso para análise de violação de súmula e aplicação dos entendimentos firmados nos recursos especiais repetitivos n. 1.370.899/SP e 1.361.800/SP (tema n. 685), e 1.388.000/PR (tema n. 877).
+Assim, é inafastável a aplicação, por analogia, da Súmula n. 182 desta Corte.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
