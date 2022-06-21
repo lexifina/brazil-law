@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TARSO JOSÉ TRES e MARISA FÁTIMA SLAVIERO TREScontra decisão proferida no recurso em epígrafe, na qualconheciparcialmente do recurso especial e, nessa parte, dei-lhe provimento para cassar a decisão do Tribunal de origem quanto à determinação da execução provisória da pena, permitindo que os recorrentes aguardassem em liberdade o trânsito em julgado de suas condenações, ressalvada a possibilidade de estarem presos por outro motivo(e-STJ fls. 3.167/3.187).
+Inconformados, a defesa dos embargantes alega que"a condenação imposta aos Recorrentes encontra-se pautada em elementos informativos não confortados pela prova judicial produzida durante a instrução processual, sendo que tal situação não fora analisada por Vossa Excelência, quando a decisão aqui embargada" (e-STJ fl. 3.281).
+Requer, assim, sejaesclarecidaaquestãoora apontada.
+É o relatório.
+Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão, inexistentes no caso.
+De fato,a decisão embargada, ao decidir no ponto ora trazido, deve ser mantida, in verbis (e-STJ fls. 3.183/3.184):
+Outrossim, quanto ao pleito de absolvição, não há como conhecer da insurgência recursal.
+Isso porque, no ponto, a defesa, no apelo extremo, apenas afirma genericamente que "a condenação dos Recorrentes com base exclusivamente em provas produzidas no curso das investigações policiais, sem que tenha sido produzida nenhuma prova do fato e da autoria atribuída aos Recorrentes durante a instrução judicial, contraria e nega vigência ao disposto no artigo 155 do Código de Processo Penal, que veda expressamente a condenação com base na prova policial, devendo a formação da "livre convicção" do julgador estar fundamentada na prova produzida em contraditório judicial" (e-STJ fl. 2.770), mas não especificou quais circunstâncias embasariam sua tese, nem mesmo especificou à qual das imputações e dos crimes sereferia (se o do art. 90, ou do 91, ou do 96, todos da Lei n. 8.666/1993), o querepresenta inafastável deficiência recursal que impede a exata compreensão da controvérsia, atraindo a aplicação da Súmula 284/STF.
+Nesse sentido:
+ ..
+Ademais, ainda que se ultrapassasse tal óbice, verifico do exame do excerto referenciado que os fundamentos destacados, pelos quais a instância ordináriaentendeu que os recorrentes teriam efetivamente praticado os delitos ora imputados, suficientes, per se, à manutenção do acórdão recorrido, não foram impugnados especificamente pela defesa nas razões recursais, que limitou-se a afirmar que os recorrentes deveriam ser absolvidos pois o édito condenatório teria sido decretado com base exclusivamente em elementos informativos. Desse modo, incide na espécie a Súmula n. 283/STF.
+ ..
+Outrossim, não seria mesmo o caso de conhecimento do pleito recursal, pois , se o Tribunal a quo afirmou expressamente, com base na análise do caderno probante do feito, que o recorrente cometeu os delitos que lhe são ora imputados, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+Vale lembrar que o cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+Percebe-se, isso sim, que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
