@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃOEXECUTÓRIA.TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO.AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensãoexecutóriaé o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+III - Nos casos em que se discute o termo a quo para a contagem do prazo da prescrição da pretensão executória, mantém-se o entendimento consolidado pelo STJ, a quem compete uniformizar a interpretação da legislação infraconstitucional, pois, embora reconhecida a repercussão geral do tema no ARE n. 848.107/DF, o mérito ainda não foi apreciado pelo STF(AgRg no HC n. 717.946/RS, Quinta Turma, Rel. Min.João Otávio de Noronha, DJe de 20/5/2022.)
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática de minha relatoria, a qual não conheceu do habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça o Estado de São Paulo, mas concedeu a ordem de ofício,para declarar a extinção da punibilidade do paciente, pelo implemento da prescrição da pretensão executória.
+No presente agravo, a acusação aduz que "não se pode fazer uma interpretação literal do artigo 112, I, do Código Penal, que traz como termo inicial para a prescrição da pretensão executória a data do trânsito em julgado da decisão condenatória para o Parquet(e não para ambas as partes), uma vez que isso só fazia sentido em um cenário em que era admitida a execução provisória da pena".
+Nesse diapasão, sustenta que "o termo inicial da prescrição da pretensão executória é o trânsito em julgado da condenação para ambas as partes pois é a partir daí que o decisum pode vir a ser executado, obstada que é a execução provisória da pena".
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 198-206).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃOEXECUTÓRIA.TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO.AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensãoexecutóriaé o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+III - Nos casos em que se discute o termo a quo para a contagem do prazo da prescrição da pretensão executória, mantém-se o entendimento consolidado pelo STJ, a quem compete uniformizar a interpretação da legislação infraconstitucional, pois, embora reconhecida a repercussão geral do tema no ARE n. 848.107/DF, o mérito ainda não foi apreciado pelo STF(AgRg no HC n. 717.946/RS, Quinta Turma, Rel. Min.João Otávio de Noronha, DJe de 20/5/2022.)
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A acusação aduz que "não se pode fazer uma interpretação literal do artigo 112, I, do Código Penal, que traz como termo inicial para a prescrição da pretensão executória a data do trânsito em julgado da decisão condenatória para o Parquet(e não para ambas as partes), uma vez que isso só fazia sentido em um cenário em que era admitida a execução provisória da pena".
+Nesse diapasão, sustenta que "o termo inicial da prescrição da pretensão executória é o trânsito em julgado da condenação para ambas as partes pois é a partir daí que o decisum pode vir a ser executado, obstada que é a execução provisória da pena".
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, nos termos estabelecidos pelo art. 112, inciso I, do Código Penal, prevalece o entendimento, nas duas Turmas que compõem a Terceira Seção, que o marco inicial para verificação da prescrição da pretensão executória é o trânsito em julgado para a acusação.
+Na hipótese, o paciente foi condenado à pena de 03 meses de detenção, subsumindo-se, portanto, a prescrição ao prazo de 03 (três) anos, nos termos do art. 109, inciso VI, do Código Penal.
+Nesse diapasão, tem-se que o prazo para a extinção da punibilidade, pelo decurso do prazo da prescrição da pretensão executória, consumou-se em 04/05/2021, uma vez que entre o dia do trânsito em julgado para acusação (04/05/2018) e até a sobredita data não houve o início da execução da pena.
+A propósito:Nos casos em que se discute o termo a quo para a contagem do prazo da prescrição da pretensão executória, mantém-se o entendimento consolidado pelo STJ, a quem compete uniformizar a interpretação da legislação infraconstitucional, pois, embora reconhecida a repercussão geral do tema no ARE n. 848.107/DF, o mérito ainda não foi apreciado pelo STF(AgRg no HC n. 717.946/RS,Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 20/5/2022.)
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
