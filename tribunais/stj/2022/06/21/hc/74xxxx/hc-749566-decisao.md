@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Luciano Honório de Oliveira contra ato coator proferido pela Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do processo n. 1526159-52.2020.8.26.0500, deu parcial provimento ao recurso defensivo para redimensionar sua pena a6 anos, 1 mês e 10 dias de reclusão, em regime fechado, e 14 dias-multa, à razão mínima, pela práticade conduta descrita no art. 157, § 2º, II e V, e § 2º-A, I, c/c art. 14, II, todos do Código Penal.
+A impetrante alega, em síntese, que foi feita indevida combinação de causas de aumento, descritas nos §§ 2º e 2º-A do art. 157 do Código Penal sem qualquer fundamentação.
+Sustenta que, em recurso exclusivo da defesa, o Tribunal fundamentou o incremento de pena genericamente.
+Pede, em caráter liminar e no mérito, o afastamento da dupla majoração da pena na terceira fase da dosimetria ou, subsidiariamente, para que seja a pena majorada apenas em 1/3, nos termos da Súmula443/STJ (fls. 3/12).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração de plano da ilegalidade, ônus que recai sobre aimpetrante, a quem cumpre instruir o pedido de modo viável e coma prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local manteve a incidência das causas de aumento, ao seguinte fundamento (fl. 313):
+No caso, justifica-se a somatória das majorantes. O crime foi cometido por, no mínimo, três agentes, armados, que invadiram agência bancária, em plena luz do dia, disfarçados de médicos. Várias pessoas foram rendidas e mantidas reféns. Evidenciada, assim, a maior gravidade da conduta, pois, maior o poder vulnerante.
+Assim, de rigor o acréscimo de 3/8, pela presença de duas majorantes, quais sejam, concurso de agentes e restrição da liberdade das vítimas, seguido do aumento de 2/3 pelo emprego de arma, atingindo-se 9 anos e 2 meses de reclusão e 21 dias-multa, no valor unitário mínimo.
+Não se desconhece que a jurisprudência desta e. Corte Superior admite que a fração de aumento da pena do concurso de pessoas, incidente na terceira fase da dosimetria, seja absorvida pela fração de 2/3 (dois terços) concernente ao emprego de arma de fogo (art. 157, § 2º-A, inciso I, do Código Penal, com redação dada pela Lei n. 13.654/2018), considerando a proporcionalidade na fixação da reprimenda e, ainda, a não indicação de elementos concretos que demonstrem a maior gravidade do delito de forma a justificar a aplicação cumulada das frações de aumento do roubo, com base nas alterações provenientes da Lei n. 13.654/2018.
+Nesse sentido:
+"respeitada a proporcionalidade da pena no caso concreto, e a intenção da Lei n. 13.654/2018, afasta-se a majorante do art. 157, § 2.º, inciso II ("A pena aumenta-se de 1/3 (um terço) até metade se há o concurso de duas ou mais pessoas"), aplicando-se apenas a do art. 157, § 2.º-A, inciso I ("A pena aumenta-se de 2/3 (dois terços)" se a violência ou ameaça é exercida com emprego de arma de fogo"), ambas do Código Penal"
+(HC n. 472.771/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2018).
+Contudo, no caso concreto, as instâncias ordinárias fundamentaram, de forma idônea, a adoção do duplo patamar de acréscimo, notadamente ante o reconhecimento àutilização de disfarce de médicos e da submissão de inúmeras pessoas àcondição de reféns(fl. 313).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONCURSO DE AGENTES. USO DE ARMA DE FOGO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. INTERPRETAÇÃO DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO CONCORRENTE DAS CAUSAS DE AUMENTO. FUNDAMENTAÇÃO CONCRETA. DESPROPORCIONALIDADE. VIOLAÇÃO À SÚMULA N. 443/STJ. AUSÊNCIA.
+1. Hipótese em que a decisão agravada não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte. Não há falar-se em violação ao parágrafo único, do art. 68, do Código Penal, pois a sentença encontra-se devidamente fundamentada. As instâncias ordinárias aplicaram de forma cumulativa as duas frações de aumento previstas no art. 157, § 2º, II, e § 2º-A, I, exasperando a pena em 1/3 pelo concurso de agentes e, em seguida, em 2/3 pelo emprego de arma de fogo.
+2. É firme o entendimento dessa Corte Superior no sentido de que, a teor do art. 68, parágrafo único, do Código Penal, é possível aplicar cumulativamente as causas de aumento de pena previstas na parte especial, mediante fundamentação, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais.
+3. Caso em que o sentenciante justificou o cúmulo de causas de aumento de pena referentes à parte especial (art. 157, § 2º, II, IV e V, e § 2º-A, I, do Código Penal), nos termos do art. 68, parágrafo único, do referido código, salientando a maior reprovabilidade da conduta diante do concurso de três agentes, que agiam separadamente, com o emprego de arma de fogo, empreendendo fuga posteriormente.
+4. Incidência da majorante do art. 157, § 2º-A, I, do Código Penal, na medida em que, sendo o delito cometido com o emprego de arma de fogo, a elevação é arbitrada em índice fixo pelo legislador, não cabendo ao julgador, portanto, ponderar sobre o quantum da exasperação.
+5. Agravo regimental improvido.
+(AgRg no HC n. 676.447/SC, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 19/11/2021).
+Ante o exposto, indefiroliminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DOSIMETRIA DA PENA.ROUBO MAJORADO. §§ 2º E 2º-ADO ART. 157 DO CP.DESPROPORCIONALIDADE NA SOBREPOSIÇÃO DAS CAUSAS DE AUMENTO. NÃO OCORRÊNCIA. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DEMONSTRAM A MAIOR GRAVIDADE DO DELITO. CONCURSO DE AGENTES, UTILIZAÇÃO DE DISFARCE, INÚMEROS REFÉNS. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+Writ indeferido liminarmente.
