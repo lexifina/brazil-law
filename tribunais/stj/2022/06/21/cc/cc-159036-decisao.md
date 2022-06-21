@@ -1,0 +1,7 @@
+DECISÃO
+Às fls. 1.461-1.477e-STJ, Célia Cézar Vaz da Silva, Seres Salete Pessoa e Hipólito Ezequiel Paixão, que integravam a comissão provisória do Sindicato dos Servidores da Justiça do Trabalho do Paraná - SINJUTRA, alegam que os causídicos que lhes representam não constam da autuação do presente feito, o que acabou inviabilizandoa intimação da decisão que fixara a competência da Justiça Estadual. Por isso, requerem seja decretada a nulidade do referido ato judicial.
+É o breve relatório. Decido.
+Conforme se verifica do Termo de Recebimento e Autuação (e-STJ fl. 1.252), não foram devidamente cadastrados os advogados que representam os ora requerentes, quais sejam: Luiz Fernando Zornig Filho, Luiz Gustavo de Andrade e Daniel Medeiros Teixeira, a despeito de constarem dos instrumentos de representação processual (e-STJ fls. 633-635). Dessa forma, ressoa evidente a ocorrência de nulidade, na medida em que tais advogados, os quais indubitavelmente representam os requerentes, não foram intimados da decisão que elegeu competente a Justiça Estadual (e-STJ fl. 1.422).
+Ademais, sobreleva notar a conexão entre o presente incidente, o CC 159.009/PR e o CC 159.014/PR, razão pela qual a prudência recomenda o julgamento em conjunto dos processos em foco.
+Isso posto, revogo a decisão de fl. 1.422 e-STJ, tornando-a sem efeito. Outrossim, retifique-se a autuação do presente feito, a fim de que os causídicos supra passem a constar como advogados dos requerentes.
+Publique-se. Intime-se.
