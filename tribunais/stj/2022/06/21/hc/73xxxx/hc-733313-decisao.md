@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 37):
+Habeas Corpus: pretensão de progressão de regime prisional, franco de exame criminológico. Inadequação: caso de Agravo emExecução (art. 197, LEP). Exame criminológico: possibilidade de realização para exame do mérito, não havendo ilegalidade evidente que demande saneamento. Ordem não admitida.
+O paciente cumpre pena em regime fechado. Obtido o lapso temporal, requereu progressão de regime, mas a análise dopedidofoi condicionada à realização de exame criminológico.
+Daí o presentewrit, em que a defesa alega que a gravidade abstrata do delito e a pena remanescente não são fundamentos aptos a exigir a avaliação. Destaca que o paciente não cometeu qualquer falta disciplinar. Indica haver ofensa à razoável duração do processo, uma vez que não há previsão de data para a realização do exame, bem como "há informação expressa acerca da suspensão dos atendimentos, bem como da fila de espera de sentenciados aguardando a realização do exame, aproximadamente 4.000 (quatro mil) para apenas 2 profissionais disponíveis" (fl. 12). Além disso, "ainda é preciso lembrar que a unidade prisional onde o paciente está custodiado possui capacidade para 1244 pessoas mas, segundo a Secretaria de Administração Penitenciária, hoje conta com 2084 presos" (fl. 15).
+Liminarmente, pede para aguardar no regime semiaberto a realização do exame. No mérito, a determinação para que o pedido de concessão dobenefícioseja avaliado sem a necessidade de submissão à avaliação criminológica.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal sugeriu a concessão da ordem.
+A decisão de primeiro grau assim dispôs (fl. 30):
+- Inicialmente, homologo o cálculo de pág. 96/97 para que produza os efeitos legais. Oficie-se à Penitenciária solicitando expediente de praxe atualizado para fins de progressão ao regime semiaberto.
+Ainda, por considerar que os crimes atribuídos ao sentenciado são de maior gravidade (roubos majorados e extorsão), bem como a quantidade de pena imposta, com término previsto para 01/04/2058, determino a realização da avaliação preconizada pela Resolução SAP 88, de 28-4-2010, a fim de que o pedido de progressão ao regime semiaberto possa ser analisado de forma mais criteriosa.
+Acórdão (fl. 38):
+No mais, em que pese a Lei n. 10.792/2003 tenha retirado a obrigatoriedade do exame criminológico, como pressuposto para a concessão de benefícios executórios, sua realização ainda pode ser determinada para verificar o mérito do sentenciado, desde que devidamente fundamentada.
+Nesse sentido, em perfeita sintonia com a Súmula/STJ 439,1 desta C. Câmara:  ..
+Assim, na falta de ilegalidade evidente, nada há que reclame saneamento.
+Do exposto, pelo meu voto, não conheço da impetração.
+Como se vê, as instâncias ordinárias determinarama realização de exame criminológico apontando a gravidade dos delitos e a pena remanescente.
+Portanto, verifica-se ilegalidade flagrante na fundamentação do acórdão, pois não é idôneocondicionar esse benefício penal da progressão de regime à realização prévia do exame criminológicosob argumentação genérica, baseada na gravidade abstrata dos crimes, longevidade da pena, faltas disciplinares já reabilitadas, e na probabilidade de reincidência, não apontando elementos concretos extraídos da execução da pena que pudessem justificar a necessidade do exame técnico. Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DEFERIMENTO PELO JUIZ DA EXECUÇÃO PENAL. CASSAÇÃO PELA CORTE DE ORIGEM. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. PRECEDENTES. HABEAS CORPUS CONCEDIDO.
+1. Não é idôneo o Tribunal estadual cassar a decisão do Juiz da Execução Penal que concedeu a progressão de regime em favor do paciente, para condicionar esse benefício penal à realização prévia do exame criminológico, sob argumentação genérica, baseada na gravidade abstrata dos crimes, faltas disciplinares já reabilitadas, e na probabilidade de reincidência, não apontando elementos concretos extraídos da execução da pena, que pudessem justificar a necessidade do exame técnico.
+2. A jurisprudência das Cortes Superiores é tranquila na exigência de fundamento relacionado ao cumprimento da pena para a exigência do exame criminológico.
+3. As faltas graves indicadas não se verificam da Guia de Execução Penal de fls. 9-19, ao contrário, consta na decisão do Juiz de primeiro grau que "o sentenciado também ostenta o requisito subjetivo para o benefício, inclusive em razão da boa conduta carcerária atual e da inexistência de falta disciplinar". De todo modo, mesmo essas referidas faltas já teriam sido reabilitadas.
+4. Habeas corpus concedido, para restabelecer a decisão de primeiro grau de fls. 23-24, a fim de determinar a progressão do paciente ao regime prisional aberto e conceder a prisão Albergue Domiciliar, conforme as condições já estabelecidas pelo Juiz da Execução Penal.
+(HC 605.565/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 29/09/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO DO SENTENCIADO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. FUGA COMETIDA NO CUMPRIMENTO DE EXECUÇÃO ANTERIOR. IRRELEVÂNCIA. NÃO APRESENTAÇÃO DE ARGUMENTOS NOVOS PELO AGRAVANTE PARA INVALIDAR A DECISÃO AGRAVADA. MANUTENÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Esta Corte Superior é firme no entendimento de que a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios, porquanto o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena.
+2. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+3. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+4. Agravo regimental improvido.
+(AgInt no HC 554.750/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020)
+Ante o exposto, concedo o habeas corpus para determinar que o magistradode primeiro grau avalie o pedido de progressão de regimeindependente da realização do exame criminológico.
+Comunique-se.
+Publique-se.
+Intimem-se.
