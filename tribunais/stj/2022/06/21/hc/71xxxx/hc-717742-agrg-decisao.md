@@ -1,0 +1,10 @@
+DECISÃO
+GABRIEL BENTO VIEIRA agrava de decisão em que rejeitei os embargos declaratórios (fls. 339-346).
+Nesta oportunidade, a defesa afirma que " c omo verificado em sentença (e-STJ fls. 180), negativada apenas uma circunstância judicial (antecedentes), na primeira fase, a pena foi agravada em 1/6. Já na segunda fase da dosimetria penal, como antes referido, houve a compensação entre a reincidência e a confissão espontânea. Esses vetores não foram alterados em julgamento de apelação criminal pelo TJSC. Nesse passo, considerando-se o mesmo patamar de acréscimo escorreito em sentença, na fração de 1/6, ante a modalidade simples do delito, chega-se a uma pena de 1 ano e 2 meses de reclusão" (fl. 358).
+Decido.
+Em homenagem ao princípio da fungibilidade recursal, recebo o agravo regimental como embargos de declaração, a fim de integrar a decisão impugnada no tocante ao dispositivo da decisão atacada, diante do identificado erro material.
+De fato, a dosimetria operada pelo Juízo sentenciante, confirmada pela Corte local, majorou a pena-base em 1/6, tendo em vista a valoração negativa dos antecedentes. Na segunda fase, compensada a reincidência com a confissão espontânea, a reprimenda ficou estabelecida em 2 anos e 4 meses de reclusão, definitivamente assim estabelecida.
+Nesta Corte Superior, foi afastada a forma qualificada do delito, de modo que a pena-base do delito, na sua forma simples, é 1 ano de reclusão, que, exasperada em 1/6, resulta 1 ano e 2 meses de reclusão, diante da aludida compensação na segunda etapa e manutenção do quantum na terceira fase.
+No entanto, constato apenas o erro material quanto ao dispositivo da decisão ora embargada, que deve constar nos termos seguintes.
+À vista do exposto, acolho os embargos, sem efeitos infringentes, tão somente para o corrigir o erro material no dispositivo da decisão embargada, que deve constar nos seguintes termos: À vista do exposto, concedo parcialmente o habeas corpus a fim de desclassificar a conduta do paciente para o delito previsto no art. 155, caput, do Código Penal e fixar a pena de 1 ano e 2 meses de reclusão, além de 11 dias-multa.
+Publique-se e intimem-se.
