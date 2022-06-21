@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por: (i) ausência de violação doart. 1.022 do CPC/2015, e (ii) incidência das Súmulas n. 7 e 83do STJ (e-STJ fls. 411/429).
+O Tribunal de origem negou provimento ao agravo da recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 238):
+AGRAVO DE INSTRUMENTO EM AÇÃO MONITÓRIA - INVERSÃO DO ÔNUS PROBATÓRIO - DEVIDA - HIPOSSUFICIÊNCIA TÉCNICA E ECONÔMICA DA PARTE AGRAVADA DEMONSTRADAS - PRODUÇÃO DE PROVA PERICIAL E ENVIO DE OFÍCIO PARA TERCEIRO PARA OBTENÇÃO DE DOCUMENTO - PRECLUSÃO - INÉRCIA DA EMBARGANTE/AGRAVANTE QUE NÃO ESPECIFICOU OS DOCUMENTOS QUE PRETENDIA OBTER EM MOMENTO OPORTUNO - RECURSO CONHECIDO E DESPROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 260/265).
+No recurso especial (e-STJ fls. 267/283), com fundamento no art. 105, III, "a", da CF, a recorrente apontou:
+(i) Violação doart. 1.022, II, do CPC/2015, alegando a existência de omissão no que se refere às teses de que: (a) não localizou as informações referentes aos serviços prestados pela recorridase deque não possui o dever de guarda de tais documentos, (b) ausente a hipossuficiência das autoraspara a concessão do benefício da inversão do ônus da prova, bem como a ausência de relação de consumo no caso concreto, (c) "possui obrigação de guarda dos referidos documentos apenas enquanto não se consumar a prescrição no tocante aos atos neles consignados e que o prazo quinquenal aqui teria se consumado" (e-STJ fl. 274), (d) a interrupção da prescrição deve retroagir até a data da propositura da demanda, e não ao seu trânsito em julgado, e (e) "o v. acórdão recorrido deixou de analisar a alegação da recorrente no sentido de que ja havia especificado nos autos quais documento pretendia que o Banco Safra exibisse,quais sejam os pagamentos efetuados às recorridas no período da relação contratual, ou seja, de 7.7.2004 a 14.1.2011 (e-STJ fl. 276).
+(ii) Afronta aos arts. 195, parágrafo único, do CTN, 206, § 5º, e 1.194 do CC/2002 e 320 e 434 do CPC/2015, diante daimpossibilidade de guarda dos documentos em questão. Considerou que (e-STJ fl. 277):
+ ..  já não fosse suficiente a impossibilidade de apresentação, pela recorrente, dos referidos documentos, a questão aqui versa sobre a inexistência de dever legal que sobre o ônus de manutenção e guarda após o término do prazo prescricional, que, na verdade, são de obrigação legal e contratual de manter por parte das recorridas, que têm o dever de instruir a petição inicial com estes documentos, conforme previsão dos arts. 195, §único do CTN, arts. 206, §5º, I e 1.194 do CC/02 e arts. 320 e 434 do CPC/15.
+(iii) Ofensa ao art. 204 do CC/2002, visto que eventual interrupção da prescrição possui caráter personalíssimo.
+(iv) Negativa de vigência doart. 219, § 1º, do CPC/1973, discorrendo sobre a tese deque a interrupção da prescrição deve retroagir à data da propositura da demanda, e não ao seu trânsito em julgado, conforme entendeu o acórdão recorrido.
+Busca, em suma, o provimento do recurso especial, a fim de que, "reconhecida a violação aos arts. 195, § único, do CTN, arts. 204, 206, §5º, I e 1.194 do CC/02 e arts. 320 e 434, 489, VI do CPC/15 e art. 219, §1º do CPC/73, seja afastada a inversão do ônus da prova e a exibição de documentos pretendida pelas recorridas"(e-STJ fls. 282/283).
+Contrarrazões apresentadas (e-STJ fls. 294/301).
+No agravo (e-STJ fls. 307/326), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 333/340).
+É o relatório.
+Decido.
+Nos embargos de declaração (e-STJ fls. 244/249), foi requerida a análise da tese referente à violação doart. 219, § 1º, do CPC/1973, como se infere da leitura do seguinte excerto das razões recursais:
+17. O v. acórdão embargado, também aqui, deixou de manifestar-se sobre a aplicação da regra prevista no 219, § 1º, do CPC de 1973, vigente na época, no sentido de que a interrupção da prescrição deve retroagir à data da propositura da demanda, e não ao seu trânsito em julgado, conforme entendeu, equivocadamente, d.m.v., o v. acórdão embargado.
+18. Assim, confia a ora embargante, portanto, que estes embargos de declaração serão providos, a fim de que essa e. Câmara analise a aplicação, ao caso, da previsão contida no art. 204 do Código Civil no sentido de que "A interrupção da prescrição por um credor não aproveita aos outros", bem como da regra prevista no art. 219, § 1º, do CPC de 1973, vigente na época, no sentido de que a interrupção da prescrição deve retroagir à data da propositura da demanda, e não ao trânsito em julgado, efetuando, ainda, em relação a essas questões federais, o devido prequestionamento, mesmo que na forma do art. 1.025 do CPC/15.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC.
+1. Se a Corte de origem deixou de examinar alegação do agravado que pode alterar substancialmente o resultado do julgamento, evidencia-se a violação ao art. 535 do Código de Processo Civil, sendo necessário o retorno dos autos para que o Tribunal estadual supra a omissão.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.663.226/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/3/2018, DJe 4/4/2018.)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Os embargos de declaração são cabíveis quando houver no acórdão ou sentença, omissão, contrariedade ou obscuridade, nos termos do art. 535, I e II, do CPC/1973 (art. 1022 do atual CPC).
+2. No caso em tela, verifica-se omissão do acórdão do Tribunal de origem quanto ao ponto principal da ação de indenização por dano moral, consistente na alegação de que houve retenção indevida da totalidade dos salários do recorrente pela instituição financeira por longo período de tempo, o que daria ensejo à reparação por dano moral.
+3. Embargos de declaração acolhidos para, dando provimento ao recurso especial por afronta ao art. 535, II, do CPC/1.973, determinar o retorno dos autos ao Tribunal de origem, a fim de que se manifeste acerca dos pontos omissos ventilados pelo recorrente.
+(EDcl nos EDcl no AREsp n. 113.678/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/4/2018, DJe 20/4/2018.)
+Assim, é caso de reconhecer a violação doart. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao TJMS para novo julgamento dos embargos de declaração.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração (e-STJ fls. 260/265) e determinar o retorno dos autos ao Tribunal de origem, para exame da omissão apontada.
+Publique-se e intimem-se.
