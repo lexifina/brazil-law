@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se deagravo interposto por FRANCISCO VIEIRA DE OLIVEIRA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de FRANCISCO VIEIRA DE OLIVEIRA, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao(à) subscritor(a) do agravo e do recurso especial, Dr(a). Manoel Batista Dantas Neto.
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ademais, verifica-se que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos de lei local.
+O STJ já decidiu incidir, nestes casos, o óbice da Súmula n. 280/STF, aqui aplicada por analogia, uma vez que não é cabível a interposição de recurso especial alegando ofensa ou interpretação divergente de dispositivo de lei estadual ou municipal.
+Nesse sentido: "Incabível, na estreita via do recurso especial especial, examinar violação de direito local, por incidência da Súmula 280/STF". (AgRg no AREsp 1.539.944/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.854.792/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/6/2020; REsp 1.810.850/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/9/2019; AgInt no REsp 1.583.153/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/5/2019; AgInt no AREsp 1.264.067/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/10/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
