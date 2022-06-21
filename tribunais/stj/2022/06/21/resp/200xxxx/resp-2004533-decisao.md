@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementada (e-STJ, fl. 72):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA Nº94.00.08514-1/DF. PERÍCIA OU REMESSA À CONTADORIA JUDICIAL. DESNECESSIDADE.
+1. Sendo o juízo de primeiro grau o principal destinatário da prova produzida no feito, tem ele amplo poder para determinar a realização de diligências probatórias que tenham por finalidade embasar seu convencimento, cabendo a ele apreciar a prescindibilidade ou não do expediente probatório. Art. 370 do CPC/15.
+2. No caso em exame, contudo, despicienda a realização de perícia técnica, pois a controvérsia pode ser dirimida com elementos exclusivamente documentais, sendo desnecessária a perícia contábil almejada pelo executado.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados nos termos da seguinte ementa (e-STJ, fl. 99).
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE SENTENÇACOLETIVA. AÇÃO CIVIL PÚBLICA Nº 94.00.08514-1/DF. PERÍCIA OUREMESSA À CONTADORIA JUDICIAL. DESNECESSIDADE. INEXISTÊNCIA DAS HIPÓTESES DO ART 1.022 DO CPC. REDISCUSSÃO DA MATÉRIA.
+1. O recurso de embargos de declaração constitui-se em eficaz instrumento para o controle de qualidade do trabalho judicante, facultando ao julgador a correção de eventuais omissões, contradições ou obscuridades que comprometam o entendimento ou a completude da sua decisão. Por isso mesmo preconiza Pontes de Miranda que "os juízes e tribunais devem atender, com largueza, aos pedidos de declaração", complementando o STF, com destaque, que estes "consubstanciam verdadeira contribuição da parte em prol do devido processo legal".
+2. Os embargos de declaração, contudo, só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Não há "omissão", "contradição" ou "obscuridade" no acórdão que enfrenta deforma clara e objetiva as matérias suscitadas pelos litigantes, ainda que concluindo deforma diversa da pretendida. Inexistência das hipóteses dos art. 1.022 do CPC. PREQUESTIONAMENTO.
+4. O prequestionamento de normas constitucionais e infraconstitucionais ficou atendido nas razões de decidir do julgado, o que dispensa manifestação pontual acerca de cada artigo ventilado. Tampouco se negou vigência aos dispositivos normativos que resolvem a lide. Os embargos declaratórios, mesmo quando tenham por fim o prequestionamento, devem se embasar em uma das hipóteses elencadas no art. 1.022do CPC.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial (e-STJ, fls. 107-125), o recorrente aponta violação dos arts. 369, 373, I, 489, § 1º, IV, 509, II, 927, III, 1.022 e 1.025 do CPC/2015.
+Sustenta, em síntese, negativa de prestação jurisdicional e a necessidade de perícia contábil e de prévia liquidação de sentença.
+Apresentadas as contrarrazões (e-STJ, fls. 136-174), o apelo extremo foi admitido na origem (e-STJ, fls.177-181), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Primeiramente, cinge-se o recurso sobre a ocorrência de negativa de prestação jurisdicional, ante a falta de pronunciamento do Tribunal de origem quanto à necessidade de perícia contábil e de prévia liquidação de sentença pelo procedimento comum, bem como com relação à ausência de preparo recursal.
+Com efeito, a parte contrária agravou de instrumento contra decisão que deferiu o pedido para realização de perícia contábil, não tendo o insurgente levantado a questão da necessidade de liquidação prévia na sua petição de contrarrazões ao recurso, razão pela qual o Colegiado local não teria mesmo que se pronunciar sobre questão que nem sequer foi mencionada naquela oportunidade.
+Ademais, da leitura atenta ao inteiro teor do acórdão, observa-se que houve sim pronunciamento acerca da realização da periciacontábil, tendo o Tribunal de origem concluído pela sua desnecessidade.
+Assim, não se podefalar em falta de prestação jurisdicional quanto essas duas matérias.
+Contudo, conquanto esteja bem fundamentada, observa-se, de fato, que a Corte local não sanou a omissão no que tange à alegada ausência de preparo do recurso em razão da anulação da decisão que concedeu a assistência judiciária gratuita.
+Apesar de o recorrente ter provocado o Tribunal estadual através dos aclaratórios, e estes tenham sido rejeitados, não houve a necessária completude do julgado, consoante denota a ementa anteriormente colacionada.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, pois, independentemente do acerto ou não da tese invocada, esta deveria ter sido objeto de análise pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+Fica prejudicada a análise dos demais argumentos recursais diante da necessidade de novo pronunciamento sobre os embargos de declaração opostos perante o Tribunal local.
+Diante do exposto, douprovimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão acerca do preparo que lhe foi submetida pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. PREJUDICIALIDADE. RECURSO ESPECIAL PROVIDO.
