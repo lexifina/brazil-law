@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WASHINGTON GUIMARÃES ALVES interpõe agravo regimental contra decisão de minha relatoria, em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive o trâmite do processo em que é acusado da suposta prática do crime previsto no art. 33, caput, da Lei de Drogas.
+A defesa alega que "a decisão agravada partiu de falsas premissas, e não se atentou efetivamente para a diferença de pedidos e causa de pedir existentes entre este HC 743770/MG e o RHC 163.953/MG" (fl. 399), motivo pelo qual não haveria falar em mera reiteração de pedidos.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja analisado o mérito deste habeas corpus e, por conseguinte, sejam examinados "os argumentos trazidos na petição inicial relacionados à nulidade da busca domiciliar realizada no agravante" (fl. 399).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MERA REITERAÇÃO DE PEDIDOS. IMPOSSIBILIDADE DE CONHECIMENTO DO REMÉDIO HEROICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em consulta processual realizada na página eletrônica desta Corte Superior de Justiça, verifica-se a anterior interposição do RHC n. 163.953 pelo ora agravante, em que a defesa também sustenta, em relação à mesma ação penal objeto deste writ (Processo n. 0206866-62.2022), a ilicitude dos elementos de informação obtidos por meio de busca pessoal e do ingresso no domicílio do acusado. Ademais, aquele recurso também se insurge contra o acórdão proferido nos autos do HC n. 1.0000.22.032226-7/000. Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedidos, não se pode dele conhecer.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Em consulta processual realizada na página eletrônica desta Corte Superior de Justiça, verifico a anterior interposição do RHC n. 163.953 pelo ora agravante, em que a defesa também sustenta, em relação à mesma ação penal objeto deste writ (Processo n. 0206866-62.2022), a ilicitude dos elementos de informação obtidos por meio de busca pessoal e do ingresso no domicílio do acusado. Ademais, aquele recurso também se insurge contra o acórdão proferido nos autos do HC n. 1.0000.22.032226-7/000.
+Com efeito, não há dúvidas de que, no RHC n. 163.953, a defesa também sustenta a nulidade da busca domiciliar, ocasião em que traz os seguintes argumentos, dentre outros:
+a) "a imputação de delito da qual a pena máxima são 15 anos é prejuízo extremo e a impossibilidade de se opor a força estatal no momento da invasão de domicílio é de mesmo modo";
+b) "a colenda turma julgadora afirmou que há indícios de que houve autorização da companheira do paciente para o ingresso dos policiais no imóvel. É teratológico pensar nisso como argumento a descredibilizar a nulidade considerando que os militares afirmaram que a companheira do paciente chegou após a busca e apreensão";
+c) "entraram, realizaram a busca inconstitucional, encontraram material ilícito que não era de posse e/ou propriedade do paciente e somente após isso realizaram contato com a Marinete, que estava trabalhando e mesmo assim não autorizou a entrada";
+d) "o Tribunal recorrido também deixou de reconhecer a nulidade absoluta da busca inconstitucional que realizada no domicílio familiar do recorrente, desrespeitando sobremaneira a jurisprudência sedimentada deste e. STJ";
+e) "Tendo como referência o recente entendimento firmado por esta Corte, nos autos do HC N. 695.980/GO, o ingresso policial forçado em domicílio, resultando na apreensão de material apto a configurar o crime de tráfico de drogas, deve apresentar justificativa circunstanciada em elementos prévios que indiquem efetivo estado de flagrância de delitos graves, além de estar configurada situação que demonstre não ser possível mitigação da atuação policial por tempo suficiente para se realizar o trâmite de expedição de mandado judicial idôneo ou a prática de outras diligências";
+f) "No caso em tela, a violação de domicílio teve como justificativa o comportamento suspeito do acusado - que teria em tese empreendido fuga ao ver a viatura policial - circunstância fática que não autoriza a dispensa de investigações prévias ou do mandado judicial para a entrada dos agentes públicos na residência, acarretando a nulidade da diligência policial";
+g) "Veja-se o que o Policial Militar ISAAC SOUSA TITO, que comandava a guarnição da PMMG que realizou a busca inconstitucional no domicílio familiar do recorrente, bem como que efetuou sua prisão em flagrante, também inconstitucional (f. 24 dos autos TJMG - em anexo), afirmou, categoricamente, que o motivo da abordagem e busca realizada no imóvel do paciente se deu pelo fato dele ter "corrido" quando percebeu a presença policial".
+Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedidos, não se pode dele conhecer. Nesse sentido, confira-se o seguinte julgado, mutatis mutandis:
+ ..
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, a impetração de habeas corpus com objeto idêntico ao de recurso especial anteriormente interposto perante este Sodalício caracteriza indevida reiteração de pedido, o que obstaculiza o conhecimento do writ.(AgRg no HC 118.517/AC, Rel. Min. Jorge Mussi, DJe 25.04.2011)
+2. Habeas corpus não conhecido.
+(HC n. 217.454/SE, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), 6ª T., DJe 27/6/2012).
+Ressalto, por fim, que o referido recurso em habeas corpus - em que a defesa manifestou, inclusive, interesse em realizar sustentação oral - já está com parecer do Ministério Público Federal e o seu julgamento pendente por esta Corte, o que será realizado oportunamente.
+À vista do exposto, nego provimento ao agravo regimental.
