@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por PAULO ROBERTO BUENO E SOUZA FILHO contra a decisãoque, em juízo de reconsideração, não conheceu do agravo em recurso especial em virtude da ausência de impugnação específica dos fundamentos da decisão de admissibilidade proferida na origem (e-STJ fls. 456/458).
+Nesta oportunidade (e-STJ fls. 461/480), o agravante afirma, em síntese, que todos os fundamentos da decisão que inadmitiu o recurso especialforam devidamente impugnados.
+A parte contráriase manifestou às fls. 483/491 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Diante da manifestação doagravante, faz-se imperiosa a reconsideração da decisão de fls. 456/458 (e-STJ).
+Em melhor exame das razões do agravo em recurso especial, observa-se que o agravante, efetivamente, impugnou os fundamentos da decisão de admissibilidade do agravo, motivo pelo qual se faz uma nova análise do apelo nobre.
+No caso, o magistrado de piso julgou o pedido autoral improcedente por entender que a adjudicação compulsória não pode ocorrer na hipótese de o imóvel não possuirmatrícula.
+O Tribunal local, por sua vez, manteve a improcedência, mas por outros fundamentos, concluindo que não foram comprovados os requisitos para a adjudicação compulsória, ante a ausência de higidez do título, e que o pagamento não foi revertido em favor da agravada.
+Do exame dos autos, verifica-se que, não obstante a oposição de embargos declaratórios requerendo expressamente manifestação acerca de ter sido o contratofirmado por empregado de confiança da recorrida, tanto que o valor pago pela compra do lote - R$ 80.000,00 (oitenta mil reais) - está sendo cobrado por ela em ação trabalhista, o acórdão permaneceu silente.
+Trata-se de matéria relevante que demandava pronunciamento das instâncias ordinárias.
+O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação ao artigo 1.022 do Código de Processo Civil de 2015.
+Tanto é assim que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de aclaratórios, trate de tema não analisado pela instância de origem, porquanto ausente o requisito do prequestionamento.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido" (AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/09/2019, DJe 13/09/2019).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA SOBRE A PUBLICAÇÃO NO DJE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RESOLUÇÃO DE CONTRATO DE PARCERIA ENTRE ADVOGADOS. DIVISÃO DE HONORÁRIOS. CERCEAMENTO DE DEFESA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DANOS MORAIS E MATERIAIS. OMISSÃO CONFIGURADA. ART. 1.022, II, DO CPC/2015. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+1. A Quarta Turma desta Corte, no julgamento do AREsp 1.330.052/RJ, decidiu pela prevalência da intimação eletrônica sobre a publicação no Diário de Justiça. Agravo interno provido para afastar a intempestividade.
+2. Quanto à alegação de cerceamento de defesa, verifica-se a ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido, circunstância que atrai o óbice da Súmula 283/STF.
+3. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do recurso especial e dar-lhe parcial provimento, a fim de que a Corte de origem se manifeste sobre pontos omissos" (AgInt nos EDcl no AREsp 1.343.785/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/06/2019, DJe 28/06/2019).
+Ante o exposto, reconsidero a decisão de fls. 456/458 (e-STJ), tornando-a sem efeito,para determinar o restabelecimento da decisão de fls. 422/426 (e-STJ).
+Publique-se.
+Intimem-se.
