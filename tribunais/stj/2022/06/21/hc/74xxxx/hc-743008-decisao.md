@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de LUÍS EDUARDO SANTOS RIBEIRO, contra acórdão do Tribunal de Justiça do Estado da Bahia (Apelação Criminal n. 0319499-49.2018.8.05.0001).
+O paciente foi preso preventivamente e denunciado pela suposta prática do delito previsto no art. 157, § 3º, do Código Penal.
+A defesa alega excesso de prazona medida que o paciente encontra-se custodiado há mais de 3 anos e 4 meses, com recurso de apelação pendente de análisepor cerca de 9 meses, em razão da ausência das mídias integrais.
+Aduzque o pacienteestápreso desde 14/2/2019 e quesua custódia foimantidaem janeiro de 2020, quando da prolação da sentença condenatória, ou seja, há mais de 2 anos. Desde então, não houvereexameda necessidade da prisão.
+Requer a concessão da ordem para queo paciente seja colocado em liberdade e determinada a apreciação do recurso de apelação
+O pedido de liminar foi indeferido às fls. 59-60.
+O Ministério Público Federal manifestou-se "no sentido da denegação do habeas corpus, embora que com a recomendação ao Tribunal a quo para acelerar, no que for possível, sem prejuízo das diligências determinadas pelo Relator de origem, o julgamento do recurso de apelação" (fls. 106-113).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem prestou as seguintes informações (fls. 78-80):
+1. Cuida-se de Recurso de Apelação interposto por Michel da Silva Nascimento contra a sentença condenatória prolatada pelo MM. Juízo da 6" Vara Criminal de Salvador/BA, que condenou o réu pela prática do delito tipificado no art. 157, § 3º, parte final do Código Penal Brasileiro. A pena privativa de liberdade definitiva foi fixada em 29 (vinte e nove) anos e 6 (seis) meses de reclusão, cumprida inicialmente em regime fechado, com pagamento de 30 (trinta) dias-multa.
+ ..
+4. Por conseguinte, nas contrarrazões recursais, (id. n. 23408071), o Parquet pleiteou a manutenção, em sua integralidade, do comando decisório proferido pelo Juízo de Primeiro Grau.
+ ..
+5. Nesta Instância Superior, distribuídos os fólios à Primeira Turma da Segunda Câmara Criminal, coube-me, por sorteio, o encargo de Relator (id. n. 23407659).
+6. Na sequência, a Procuradoria de Justiça, em parecer opinativo (id. n. 23408074), salientou que "compulsando os autos, verifica-se que não acompanha o encarte físico a mídia com a gravação da audiência datada de 15/10/2019, oportunidade em que interrogados os apelantes." Ademais, se pronunciou " ..  pela conversão do feito em diligência, afim de que seja remetida mídia completa, contendo toda a prova oral carreada na instrução, inclusive os interrogatórios dos réus.".
+7. Após, foi requisitado por este Relator, em despacho de id. n. 23408075, que as mídias eletrônicas da mencionada audiência fossem devidamente colacionadas aos cadernos processuais.
+8. Em efeito reiterativo, foi proferido outro despacho (id. n. 26093140), assinalando a necessidade de juntar as mídias audiovisuais da audiência de instrução, em sua integralidade, aos fólios.
+9. Posteriormente, os autos retornaram sem o devido cumprimento da diligência. Assim, foi requerida com minuciosidade anecessidade das mídias respectivas para garantir uma análise ampla e devida, nos seguintes termos (id. n. 28492540):
+EMINENTE RELATOR, Urge chamar o feito à ordem, visto que os autos vieram a esta Procuradoria de Justiça sem estar devidamente inserido no sistema PJE MÍDIAS as gravações audiovisuais do depoimento da testemunha JOSÉ MARCOS CORREIA DOS SANTOS, colhido em audiência deprecada realizada em 23.07.2019 (id. 27248345).
+Ademais, verifica-se que foi determinada a intimação do sentenciado LUÍS EDUARDO SANTOS RIBEIRO quanto aos termos da sentença condenatória, entretanto esta restou não exitosa, na forma descrita na certidão de id. 27248483.
+Ante o exposto, esta Procuradoria de Justiça requer que seja requisitada ao Juízo de origem a inserção do referido arquivos no sistema PJE MÍDIAS, permitindo-se a ampla e devida análise dos elementos probatórios produzidos, bem como a intimação pessoal do sentenciado LUÍS EDUARDO SANTOS RIBEIRO.
+Cumpridas tais diligências, requer nova vista dos autos para emissão de parecer conclusivo.
+10. Por fim, em conformidade com o parecer ministerial do dia 12 de maio de 2022, foi proferido outro despacho por este Relator para o devido cumprimento das diligências (id. n. 29635480).
+Informo, ainda, que encaminho senha de acesso aos cadernos processuais.
+Verifica-se que opaciente foi condenado à pena de29 anos e 6meses de reclusão no regime inicialfechado,em razão da prática de crime gravíssimo (latrocínio), bem comoque o feito está tendo o prosseguimento normal, com a determinação de uma série de diligências necessárias ao deslinde das questões surgidas durante o trâmite processual.
+Além disso,trata-se de processo complexo, tendo em vista a pluralidade de réus, a grande quantidade de testemunhas e a própria natureza do crime cometido.
+Dessa forma, o entendimento da instância de origem está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, o prazo estabelecido na nova redação do art. 316, parágrafo único, do CPP para revisão da custódia cautelar - a cada 90 dias - não é " ..  peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRgno HC n. 580.323/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 15/6/2020).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
