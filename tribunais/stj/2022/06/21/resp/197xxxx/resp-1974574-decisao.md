@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 435):
+APELAÇÃO CÍVEL. JUSTIÇA GRATUITA. NÃO COMPROVAÇÃO DAS PARCAS CONDIÇÕES ECONÓMICO-FINANCEIRAS DO REQUERENTE. SENTENÇA DE INDEFERIMENTO MANTIDA. I- Para que seja deferida a assistência judiciária gratuita, não basta a simples declaração da parte de que não se encontra em condições econômicas para pagar as custas do processo e os honorários do advogado, sem prejuízo do sustento próprio ou da família. Deve, para tanto, ser comprovada a real necessidade da concessão do benefício, conforme disposição do artigo 5º, inciso LXXVI, da CR/88. lI- Ausente a prova da atual situação financeira do requerente e, revelados, nos autos, elementos consistentes acerca da possibilidade do requerente para arcar com as custas e despesas processuais, sem prejuízo de seu sustento, o indeferimento da benesse da justiça gratuita deve ser mantido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 635/643).
+No recurso especial (e-STJ fls. 646/661),fundamentado no art. 105, III, "a", da CF, o recorrente aponta ofensa aos arts. 9º da Lei n. 1.060/50 e 99 do CPC/2015, sustentando que a gratuidade dejustiça deferida nos autos principais se estende aos embargos de terceiro.
+Defende que o benefício dajustiça gratuitaabrange as causas a ele conexas.
+Reitera o pedido à esta Corte Superior argumentando com a sua hipossuficiência.
+Busca a concessão da gratuidade de justiça para todos os atos processuais, ou, alternativamente, de forma parcial, ou que lhe seja possibilitado o parcelamento das despesas processuais, segundo o art. 98, § 6º, do CPC/2015.
+Contrarrazões apresentadas às fls. 689/698 (e-STJ).
+O recurso foi admitido na origem, nos termos da decisão de fls. 706/709 (e-STJ).
+É o relatório.
+Decido.
+Ao analisar a matéria controvertida, em sede de embargos de declaração, o Tribunal de origem assim entendeu (e-STJ fls. 640/641):
+No caso em apreço, cumpre sanar a omissão cuja existência restou reconhecida pelo C. Superior Tribunal de Justiça, referente necessidade de uma manifestação do Tribunal quanto à alegação de necessidade de manutenção da Justiça Gratuita, deferida no processo principal, nos Embargos de Terceiro, nos termos do art. 90 da Lei n.º 1 .060/50, por se tratarem de processos conexos.
+Para uma melhor análise de tal controvérsia, faz-se mister examinar o artigo debatido, in verbis:
+Art. 91 . Os benefícios da assistência judiciária compreendem todos os atos do processo até decisão final do litígio, em todas as instâncias.
+Ora, da análise do referido artigo, depreende-se que este faz referência ao fato que a justiça gratuita compreende todos os atos do processo, e não todos os processos conexos a este. A análise da concessão do benefício da Justiça Gratuita leva em conta diversos fatores, como a renda aferida pela parte, o valor da causa, e a capacidade da parte de arcar com as custas e com os honorários daquele processo em específico.
+Desse modo, não é possível que se realize aqui uma interpretação ampliativa do conceito de "atos do processo" mencionado no artigo anterior, devendo a parte comprovar, em cada feito particular, que faz jus aos benefícios da gratuidade de justiça.
+Modificar o entendimento do acórdão impugnado quanto à ausência de comprovação da hipossuficiência financeira, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA COM FINS LUCRATIVOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. GRATUIDADE DE JUSTIÇA. IMPOSSIBILIDADE DE EXTENSÃO A OUTRAS DEMANDAS. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido contrário do buscado pela parte.
+2. Nos termos da jurisprudência recente desta Corte, "o benefício da gratuidade de justiça é concedido em cada processo, diante dos documentos e evidências juntados, não sendo de se cogitar de "vinculação" ou "extensão" automática a outros feitos" AgInt nos EDcl na Rcl 39.771/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 01/10/2020).
+3. No caso concreto, rever o afastamento da gratuidade da justiça realizado pelo Tribunal de origem implicaria revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.954.522/SP, de minha relatoria, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA E JURÍDICA. INDEFERIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (CPC/2015, art. 99, § 3º).
+3. O eg. Tribunal a quo não concedeu o benefício de assistência judiciária gratuita, sob o entendimento de que não foram evidenciados os motivos configuradores da hipossuficiência. Nesse contexto, considerando as circunstâncias do caso concreto, tem-se que a pretensão de alterar tal entendimento, a fim de reconhecer a hipossuficiência dos agravantes, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno provido para, em nova análise, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 1.983.350/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2022, DJe 25/04/2022.)
+Ademais, ressalta-se que"o benefício da gratuidade de justiça é concedido em cada processo, diante dos documentos e evidências juntados, não sendo de se cogitar de "vinculação" ou "extensão" automática a outros feitos". (AgInt nos EDcl na Rcl 39.771/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 01/10/2020).
+Por fim, indefiro o pedido de justiça gratuita formulado pela agravante na petição de recurso especial.No caso, não houve alteração no quadro fático-probatório delineado na origem e analisado pelo Tribunal estadual.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
