@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por OLIVEIRA NEVES SOCIEDADE INDIVIDUAL DE ADVOCACIA e NEWTON JOSÉ DE OLIVEIRA NEVES (OLIVEIRA E OUTRO, com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo (TJSP), relator MILTON CARVALHO, assim ementado:
+AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. AÇÃO DE COBRANÇA. Pretensão sujeita a prazo prescricional de cinco anos. Prazo que, nos termos do art. 25, V, da Lei 8.906/94, é contado da revogação do mandato.Precedentes. Agravados que tiverem ciência inequívoca da revogação do mandato em maio de 2006, mas somente ajuizaram a ação em 2019, quando já transcorrido integralmente o prazo prescricional. Extinção da ação, com resolução do mérito. Recurso provido. (e-STJ, fl. 52).
+Os embargos de declaração opostos por OLIVEIRA E OUTRO foram rejeitados (e-STJ, fls. 78/83).
+Nas razões do presente recurso, OLIVEIRA E OUTRO alegaram a violação dos arts. 489, § 1º, e 1.022, II, do CPC; e 125, 189 e 199, I, do CC, bem como dissídio jurisprudencial, ao sustentarem que (1) as razões demonstradas para o afastamento da prescrição (2) a existência de cláusula de êxito, no contrato de mandato, suspende o prazo prescricional até que o mandatário receba o benefício pleiteado.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar parcialmente.
+(1) Da ausência de omissão e negativa de prestação jurisdicional
+Verifica-se que o TJSP se pronunciou sobre os motivos pelos quais entendeu prescrita a pretensão, afastando o entendimento dos dispositivos legais postos em debate. Confira-se:
+Em que pesem os argumentos expostos pelos embargantes, não se vislumbra no venerando acórdão qualquer omissão, contradição, obscuridade ou erro material que justifique a oposição dos presentes embargos.
+Todas as questões relevantes para o julgamento do recurso foram minuciosamente apreciadas, de forma clara e coerente, e esta não é a via adequada para manifestar inconformismo quanto aos fundamentos da decisão.
+Com efeito, no venerando acórdão ficou decidido que:
+O artigo 25 da Lei 8.906/94 dispõe que: Prescreve em cinco anos a ação de cobrança de honorários de advogado, contado o prazo: I - do vencimento do contrato, se houver; II - do trânsito em julgado da decisão que os fixar; III - da ultimação do serviço extrajudicial; IV - da desistência ou transação; V - da renúncia ou revogação do mandato (realce não original).
+Ao caso em exame, portanto, aplica-se o termo inicial do prazo prescricional previsto no inciso V de referido dispositivo legal, uma vez que incontroverso que o mandato outorgado pela agravante aos agravados foi revogado.
+A circunstância de se tratar de honorários fixados por cláusula ad exitum é irrelevante e não altera esta solução. Isso porque, em primeiro lugar, a lei não faz tal distinção, e, em segundo lugar, a revogação do mandato antes de alcançada tal condição enseja o seu esvaziamento, especialmente porque não pode mais o advogado garantir para o cliente o sucesso na demanda, tendo o direito de exigir a remuneração proporcional ao trabalho que efetivamente desenvolveu.
+Como já entendeu esta C. Câmara, em caso análogo: Entretanto, se o mandato do advogado é revogado no curso da ação, antes que faça jus ao percentual da vantagem econômica obtida em favor de seu cliente, a cláusula "ad exitum" se esvazia, ficando o advogado apto a reclamar o arbitramento dos honorários pelos serviços até então prestados. Neste caso, o termo inicial da prescrição já não se identifica com o dia do recebimento da vantagem econômica da ação, mas com a revogação do mandato (TJSP; Apelação nº 1009469-35.2014.8.26.0011; Rel. Pedro Baccarat; 36a Câmara de Direito Privado; j. em 02/06/2016) (realce não original).
+Destarte, na medida em que os agravados tiveram ciência inequívoca da revogação do mandato pela agravante em maio de 2006, mas somente ajuizaram a ação de arbitramento de honorários quando já escoado o prazo prescricional quinquenal, em outubro de 2019, impõe-se reconhecer a extinção da pretensão formulada com fundamento na prescrição (fls. 54/55) (realces não originais).
+E em outro excerto foi salientado que: Não se desconhece o precedente do C. Superior Tribunal de Justiça, segundo o qual a cláusula de êxito seria condição suspensiva de exigibilidade que faz postergar no tempo o início da contagem prescricional (REsp 1632766/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, j. em 06/06/2017). Contudo, não se trata de precedente com força vinculante (fls. 57).
+Como se vê, todas as matérias suscitadas pelo embargantes já foram devidamente apreciadas no julgamento do agravo de instrumento e as alegações ora deduzidas veiculam mero inconfornnismo quanto ao acolhimento do recurso interposto pela embargada.
+Observa-se, assim, que os embargos têm nítido caráter infringente, pois buscam modificar, na essência, o que foi decidido, finalidade essa a que não se presta o recurso interposto.
+Com efeito, o caráter infringente pretendido somente se admite quando conjugado com alguma das hipóteses previstas no artigo 1.022 do Código de Processo Civil - quais sejam, omissão, contradição, obscuridade ou erro material  , o que não se verifica no caso. (e-STJ, fls. 80/81).
+Assim, considerando que houve manifestação suficiente acerca do tema em destaque, não há falar em omissão e negativa de prestação jurisdicional no julgamento.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022).
+Afasta-se, portanto, a alegada violação.
+(2) Do acórdão recorrido em desarmonia com a jurisprudência desta Corte
+O Tribunal de origem, ao julgar o agravo de instrumento, concluiu que prescrita a pretensão de OLIVEIRA E OUTRO, nos seguintes termos:
+Ao ofertar contestação, a agravante suscitou a preliminar de prescrição da pretensão, cujo termo inicial seria a data da revogação do mandato, que se deu, de maneira incontroversa, em maio de 2006.
+A respeitável decisão agravada rejeitou a preliminar, considerando que a cláusula ad exitum traz condição suspensiva, que somente se verificou com o pagamento feito pela Fazenda Nacional, motivando a interposição deste recurso.
+E, de fato, em que pese o respeitável decisório, o feito merecia solução diversa.
+O artigo 25 da Lei 8.906/94 dispõe que: Prescreve em cinco anos a ação de cobrança de honorários de advogado, contado o prazo: I - do vencimento do contrato, se houver; II - do trânsito em julgado da decisão que os fixar; III - da ultimação do serviço extrajudicial; IV - da desistência ou transação; V - da renúncia ou revogação do mandato (realce não original).
+Ao caso em exame, portanto, aplica-se o termo inicial do prazo prescricional previsto no inciso V de referido dispositivo legal, uma vez que incontroverso que o mandato outorgado pela agravante aos agravados foi revogado. (e-STJ, fls. 53/54).
+A conclusão adotada no TJSP encontra-se em desarmonia com a jurisprudência deste Superior Tribunal de Justiça, que já se pronunciou no sentido de que o prazo prescricional, nos contratos de mandato em que haja cláusula de êxito, tem início no momento em que seja proferido o benefício pleiteado pelo mandatário.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO. PROVEITO OBTIDO NA DEMANDA. PRESCRIÇÃO. TERMO INICIAL. PRINCÍPIO DA ACTIO NATA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Trata-se, na origem, de ação de arbitramento de honorários, na qual a remuneração pelos serviços advocatícios estava condicionada ao sucesso da demanda.
+3. O termo inicial do prazo de prescrição da pretensão ao recebimento de honorários advocatícios contratados sob a condição de êxito da demanda judicial, no caso em que o mandato foi revogado por ato unilateral do mandante antes do término do litígio judicial, à luz do princípio da actio nata, é a data do êxito da demanda, e não a da revogação do mandato.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.106.058/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 14/10/2019, DJe de 16/10/2019.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CLÁUSULA DE ÊXITO. CONDIÇÃO SUSPENSIVA. SUSPENSÃO DA INSCRIÇÃO DO ADVOGADO NOS QUADROS DA OAB. TERMO INICIAL DA PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA. 1. Cuida-se, na origem, de ação de arbitramento de honorários advocatícios, na qual se pretende o pagamento de honorários contratuais de êxito, por advogado que, em decorrência de condenação criminal, teve sua inscrição perante os quadros da OAB suspensa.
+2. A jurisprudência do STJ se firmou no sentido de que o prazo prescricional para a cobrança de honorários contratuais pactuados com cláusula de êxito somente tem início a partir do momento em que verificada a condição contratualmente prevista, sem qual "não se terá adquirido o direito" (art. 125 do CC/02). Nesse norte, e à luz da teoria da actio nata, o prazo começa a correr apenas quando obtido o sucesso na ação, ainda que haja a revogação ou cessação do mandato no curso da demanda. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.128.140/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 29/4/2019, DJe de 2/5/2019)
+Nessas condições, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO para afastar a prescrição da pretensão e determinar o retorno dos autos à origem para que prossiga no julgamento como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE MANDATO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. CLÁUSULA DE ÊXITO. CONTAGEM DO PRAZO. INÍCIO. SUCESSO NA AÇÃO. RECURSO CONHECIDO EM PARTE E, NESSA PARTE PROVIDO.
