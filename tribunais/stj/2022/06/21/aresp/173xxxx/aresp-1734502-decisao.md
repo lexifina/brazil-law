@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, em face de decisão que inadmitiu recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 266):
+APELAÇÃO AÇÃO CIVIL PÚBLICA Fornecimento de medicamento Sentença de procedência Direito à saúde Art. 196 da Constituição Federal Responsabilidade solidária de todos os entes federativos Multa diária excluída Sentença parcialmente reformada Recurso da Fazenda Estadual provido e recurso da Municipalidade parcialmente provido.
+Embargos de declaração opostos e rejeitados (fl. 287).
+No recurso especial, interposto com fulcro em ambas as alíneas do permissivo constitucional, o recorrente sustenta violação dos arts. 139, IV, 497, 536, § 1º e 537 do CPC/2015; arts. 84, §§ 4º e 5º e 11, do CDC; e art. 11 da Lei de Ação Civil Pública (Lei n. 7.347/19885) insurgindo-se contra a exclusão da multa diária pelo descumprimento da obrigação imposta, atinente ao fornecimento de medicamentos a pessoa carente. Alega dissídio jurisprudencial com julgado do STJ, no sentido do cabimento das astreintes por descumprimento de decisão judicial, sob ofensa do art. 461, § 5º, do CPC/1973.
+Contrarrazões a fls. 317-332.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/2015 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 3 do Plenário do STJ.
+Na espécie, a Corte Paulista consigna que a determinação para o fornecimento do medicamente foi cumprida dentro do prazo estabelecido, tendo o juízo a quo arbitrado a multa diária no caso de eventual descumprimento da obrigação, o que não ocorreu, de modo que "não há que se falar em aplicação da multa diária".
+Confira-se a referida fundamentação, in verbis (fl. 274):
+Embora o MM. Juízo a quo tenha arbitrado valor de multa diária para o caso de eventual descumprimento da obrigação, a satisfação da obrigação ocorreu dentro do prazo estabelecido na r. decisão (fls. 44/47), sendo assim, não há que se falar em aplicação de multa diária.
+Conforme se verifica nos autos, a ação civil pública foi proposta em 15/07/2016 e a tutela de urgência foi deferida no dia 12/08/2016, determinando o fornecimento do medicamento em 15 (quinze) dias. Segundo informação de fls. 78/84, houve atraso no fornecimento do medicamento em questão, por motivos administrativos, porém o fornecimento já havia sido regularizado em 29/07/2016, sendo assim não há que se falar em aplicação de multa diária, pois a determinação foi realizada dentro do prazo estabelecido pelo MM. Juízo a quo.
+Com efeito, verifica-se que não houve, em si, exclusão das astreintes; o que houve foi sua não aplicação pornão configurada hipótese de descumprimento da obrigação, que a autorizasse.
+Por primeiro, o recorrente cinge-se a razões dissociadas dos fundamentos do acórdão, os quais não foram especificamente impugnados, remanescendo incólume o entendimento expendido. Configurada a deficiência da fundamentação recursal, a teor das Súmulas 284/STF e 283/STF.
+Por segundo, assim delineados os fatos, inviável a modificação do acórdão no sentido das alegações recursais - quanto ao cabimento das astreintes pelo descumprimento da obrigação - sem o reexame do suporte fático-probatório dos autos, providência vedada no âmbito do recurso especial, a teor da Súmula 7/STJ.
+Por terceiro, inadmissível o recurso especial quanto aos dispositivos legais a respeito dos quais não houve juízo de valor pelo órgão julgador nos fundamentos adotados no acórdão, por falta do cumprimento do requisito do prequestionamento. Incidência das Súmulas 211/STJ e 282/STF.
+Por quarto, prejudicada a análise da divergência jurisprudencial, em razão da inadmissibilidade do recurso quando do exame da matéria pela alínea "a" do permissivo constitucional.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ASTREINTES. CUMPRIMENTO DA OBRIGAÇÃO NO PRAZO ESTABELECIDO PELO JUÍZO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. RAZÕES DISSOCIADAS. SÚMULA 284/STF. REVISÃO DO JUÍZO. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
