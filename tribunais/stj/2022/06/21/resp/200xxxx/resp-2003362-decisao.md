@@ -1,0 +1,27 @@
+DECISÃO
+Trata-sede recurso especial interpostocontra acórdão da Primeira Câmara de Direito Privado do TJSP.
+Na origem, a parterecorrida ajuizou ação objetivando cobertura de atendimento médico pelo plano de saúde.
+Em primeira instância, opedidofoi julgadoprocedente(e-STJ fls. 157/160).
+Foiinterpostaapelaçãopela parte ré, tendo o Tribunal de origem negado provimento ao recursoem acórdãoassim ementado(e-STJ fl. 456):
+PLANO DE SAÚDE - Ação de obrigação de fazer, visandocompelir a ré a custear os medicamentos quimioterápicosATEZOLIZUMABE e BEVACIZUMABE, conformeprescrição médica, necessário ao tratamento de neoplasiamaligna de rim, metastático - Recurso contra sentença deprocedência - Descabimento - Negativa de cobertura demedicamento quimioterápico fundada em uso off-label eexperimental, bem como na ausência de previsão no rol daANS - Recusa que não se sustém, obstada apenas em juízo- Abusividade reconhecida, sob pena de se frustrar opróprio objeto contratual - Incidência das súmulas nº 608do STJ e nº 95, 100 e 102 deste Tribunal de Justiça -Contrato de saúde não exclui cobertura para a patologia queacomete o autor, não sendo lícita, por conseguinte, anegativa do tratamento indicado como o adequado -Recurso desprovido.
+Sobreveio o recurso especial (e-STJ fls. 462/480),fundamentado no art. 105, III, "a", da CF, no qual a recorrente sustentou, além de divergência jurisprudencial,violação dos arts. 10, I e IX, da Lei n. 9.656/1998, 12 e 16 da Lei n. 6.360/1976, pois, em síntese, seria lícita a negativa de cobertura de medicamento fundada na aplicaçãooff-label, sem previsãono rol da ANS.
+É o relatório.
+Decido.
+O Tribunal de origem,ao considerar devida a cobertura pelo plano de saúde, entendeu que cabe apenas ao médico assistente indicar o tratamento mais adequado para o paciente, havendo cobertura contratual para a doença que atinge a parte autora esendo devido o custeio do medicamento para usooff-labelem quimioterapia, o qual detém registro na ANVISA(e-STJ fls. 277/284).
+A orientação adotada pelo Tribunal estadual concorda com a jurisprudência desta Corte Superior, segundo a qual é abusiva a negativa de cobertura de plano de saúde quando a doença do paciente não constar na bula do medicamento prescrito pelo médico que ministra o tratamento (usooff-label). Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.FORNECIMENTO DE MEDICAMENTO. USO OFF LABEL. RECUSA INDEVIDA. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+1. "A jurisprudência desta Corte é no sentido de que os planos de saúde podem, porexpressa disposição contratual, restringir as enfermidades cobertas, sendo-lhes vedado, no entanto, limitar os tratamentos a serem realizados, inclusive os experimentais. Considera-se abusiva a negativa de cobertura de plano de saúde quando a doença do paciente não constar na bula do medicamento prescrito pelo médico que ministra o tratamento (uso off-label)" (AgInt no REsp 1795361/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/8/2019, DJe 22/8/2019.)
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1536948/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. CERCEAMENTO DE DEFESA.SÚMULA 7/STJ. RECUSA DE CUSTEIO DE MEDICAÇÃO EXPERIMENTAL - USO OFF-LABEL. ABUSIVIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece do recurso que deixa de atacar especificamente todos os fundamentos da decisão combatida. Inteligência dos arts.544, § 4º, I, do CPC/1973; 253, I, do RISTJ; e 932, III, do CPC/2015.
+2. Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se suficientemente comprovada nos autos por outros elementos.
+3. O acórdão recorrido está em sintonia com o entendimento firmado pelo Superior Tribunal de Justiça segundo o qual é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1719128/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 12/03/2021.)
+Ainda nesse sentido, as seguintes decisões monocráticas, entre outras: REsp n. 1.914.400/SP, Relator Ministro LUIS FELIPE SALOMÃO, publicada em 23/2/2021, REsp n. 1.919.402/SP, Relator MinistroLUIS FELIPE SALOMÃO, publicada em 23/2/2021 e REsp n. 1.908.862, Relator Ministro RAUL ARAÚJO, publicada em 2/3/2021.
+Diante do exposto, NÃO CONHEÇO do recurso.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
