@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por BITENCOURTT & JORGE CONSULTORIA EM TRANSPORTES EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"Ação de cobrança. Cobrança de taxas de manutenção por associação de moradores. Sentença de improcedência. Inconformismodos autores. REsp 1.280.871/SP que firmou entendimento de que "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". Solução, no entanto, que não afasta a possibilidade de a associação ser ressarcida pelos gastos efetuados em benefício do proprietário, em pleito fundamentado no enriquecimento sem causa. Serviços prestados para manutenção que beneficiam a todos os proprietários ou locatários do bem. A alegação de que o status de associação desconfigura as cobranças não prospera. Condomínio travestido de associação. Comprovação da efetiva prestação e fruição dos serviços essenciais de segurança, manutenção e limpeza que causam inegável valorização do empreendimento e do imóvel dos réus. Exigência do pagamento restrito a 3 anos anteriores ao ajuizamento da ação. Artigo206, § 3º, IV, do Código Civil. Sentença reformada. Recurso a que se dá parcial provimento." (fl. 256, e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, a violação doartigo Art. 5º, II e XX, da Constituição Federal e dasLeis nº 4.591/1964 e nº 6.766/1979.
+A recorrente sustenta, em síntese, queas taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram.
+Contrarrazões às fls. 365/376 (e-STJ).
+É o relatório.
+DECIDO.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar nesta seara a violação de dispositivos constitucionais ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+No que tange às Leis nº 4.591/1964 e nº 6.766/1979, constata-se a deficiência na fundamentação recursal pela não indicação dos dispositivos legais que teriam sido violados, o que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ARTIGO 200 DO CÓDIGO CIVIL. APLICABILIDADE. DANO MORAL. REDUÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. PENSÃO MENSAL. PAGAMENTO EM PARCELA ÚNICA. AFASTAMENTO. DISPOSITIVO VIOLADO. NÃO INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO.
+(..)
+3. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental não provido" (AgRg no AREsp 580.041/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 3/2/2016- grifou-se).
+Por fim, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESCISÃO CONTRATUAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. (..)
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo interno não provido" (AgInt no AREsp 913.875/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/10/2016, DJe 25/10/2016).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
