@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 881/885, em que neguei provimento ao recurso especial, ao entendimento de que é possível a valoração negativa das consequências do crime, em razão do elevado valor da sonegação, incluindo-se os juros e multa, alémdo óbice contido na Súmula n. 7/STJ.
+A defesa repisa os argumentos expendidos no apelo especial, quanto à impossibilidade de se incluir juros e multa para aferir o valor sonegado, sendo necessário o afastamento da vetorial desabonadora e a redução do valor referente àprestação pecuniária.
+Requer a reconsideração da decisão agravada ou a submissão do presente agravo ao órgão colegiado.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA ORDEM TRIBUTÁRIA. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. VALOR SONEGADO. INCIDÊNCIA DE JUROS E MULTA. POSSIBILIDADE. REDUÇÃO DA PRESTAÇÃO PECUNIÁRIA.NECESSIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui o entendimento de que "(..) Nos crimes contra a ordem tributária, o montante do valor sonegado, se expressivo, é motivo idôneo para a exasperação da pena-base, a título de consequências desfavoráveis da conduta" (AgRg no REsp n. 1.913.320/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/3/2021).
+2. "(..) é possível considerar a incidência de juros e multa sobre o valor sonegado, a fim de corroborar a conclusão segundo a qual o montante do prejuízo causado ao erário ultrapassa o normal à espécie e, por conseguinte, é apto a justificar a elevação da pena-base a partir de valoração negativa do vetor consequências do delito" (REsp n. 1.848.553/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 11/3/2021).
+3. No caso dos autos, o valor sonegado alcançou um montante superior a R$ 1.000.000,00 (um milhão de reais), sendo motivo idôneo para o aumento da pena-base a título de consequências do crime.
+4. O Tribunal a quo fixou o valor da prestação pecuniária com base em elementos do caso concreto, inviabilizando a pretensão de redução, ante a necessidade de reexame do conjunto fático-probatório dos autos, vedada pela Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, nesse contexto, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (fls. 882/885):
+"OTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOmanteve a pena nos seguintes termos do voto do relator (fls. 762/765):
+VIII- As penas foram estabelecidas dentro dos parâmetros legais e com razoabilidade, não havendo á reparo a ser efetivado.
+O juiz sentenciaste fixou a pena-base acima do mínimo legal, à vista do elevado valor do débito (superiora 1 milhão de reais). Para a majoração, portanto, foram levadas em conta as consequências do crime. Não bastasse, impõe-se reconhecer o grau de culpabilidade, na medida em que a sonegação foi reiterada, durante longo período de tempo. Assim, o acréscimo, que era mesmo necessário à vista do disposto noartigo 59 do Código Penal.
+(..)
+Note-se que a sentença não determinou que o réu pagasse a divida da empresa, com inversão do agente sobre o qual recai a pena, mas apenas facultou que o valor da prestação pecuniária seja usado para abater o débito, o que só favorece o condenado, na medida em que faculta seja beneficiado com o ressarcimento em prejuízo de quem se enriqueceu com a sonegação por ele praticada. Ademais, a sentença lastreou-se nofato de que o réu é sócio-administrador da empresa.
+Esta Corte possui o entendimento de que(..) Nos crimes contra a ordem tributária, o montante do valor sonegado, se expressivo, é motivo idôneo para a exasperação da pena-base, a título de consequências desfavoráveis da conduta(AgRg no REsp n. 1.913.320/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/3/2021).
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. VALOR SUPRIMIDO. VALORAÇÃO NEGATIVA. POSSIBILIDADE.
+(..)
+2. Ademais, "é certo que o STJ admite a possibilidade de exasperação da pena-base em razão da valoração negativa das consequências do crime, quando o valor dos tributos subtraídos representa acentuado prejuízo a toda a sociedade" (AgRg no REsp n. 1.472.196/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/2/2017, DJe 2/3/2017).
+(..)
+4. Agravo regimental desprovido.
+(AgRg no HC n. 727.767/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 6/5/2022).
+Ademais, conforme entendimento desta Corte(..) é possível considerar a incidência de juros e multa sobre o valor sonegado, a fim de corroborar a conclusão segundo a qual o montante do prejuízo causado ao erário ultrapassa o normal à espécie e, por conseguinte, é apto a justificar a elevação da pena-base a partir de valoração negativa do vetor consequências do delito(REsp n. 1.848.553/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 11/3/2021).
+No caso dos autos, o valor sonegado alcançou ummontante superior a R$ 1.000.000,00 (um milhão de reais), sendo motivo idôneo para o aumento da pena-base a título de consequências do crime.
+O Tribunala quofixou o valor da prestação pecuniária com base em elementos do caso concreto, inviabilizando a pretensão de redução, ante a necessidade de reexame do conjunto fático-probatório dos autos, vedada pela Súmula n. 07/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTS. 297 E 203 DO CÓDIGO PENAL. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. MANUTENÇÃO DA POTENCIALIDADE LESIVA. INCIDÊNCIA DA SÚMULA N. 7/STJ. VALOR FIXADO A TÍTULO DE PRESTAÇÃO PECUNIÁRIA. ANÁLISE DAS PARTICULARIDADES DO CASO PELO TRIBUNAL DE ORIGEM. SÚMULA N. 7/STJ. 1. É possível que um crime de maior gravidade, assim considerado pela pena abstratamente cominada, seja absorvido, por força do princípio da consunção, por crime menos grave, quando utilizado, como mero instrumento para consecução deste último, sem mais potencialidade lesiva. 2. Afastar as conclusões das instâncias de origem no sentido de que remanesce potencialidade lesiva no documento demandaria revolvimento do contexto fático-probatório, o que encontra óbice no enunciado de n. 7 da Súmula de Jurisprudência deste Tribunal Superior.3. "Uma vez que o Tribunal de origem, ao fixar o quantum da prestação pecuniária, levou em consideração as peculiaridades do caso concreto, a pretensão recursal de proporcionalidade do valor imposto demandaria inviável reexame da matéria fático-probatória, descabido em sede de recurso especial, ante o óbice da Súmula 7 desta Corte Superior" (AgInt no AREsp n. 956.972/PR, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).4. Agravo regimental desprovido.
+(AgRg no REsp 1578350/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA,DJe 17/12/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. 1) VIOLAÇÃO AO ART. 302 DO CÓDIGO DE PROCESSO PENAL - CPP. PRISÃO EM FLAGRANTE. AFASTAMENTO DA SITUAÇÃO DE FLAGRÂNCIA. NÃO CABIMENTO. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 2) VIOLAÇÃO AO ART. 19 DA LEI N. 7.492/86. OBTENÇÃO DE FINANCIAMENTO MEDIANTE FRAUDE. ABSOLVIÇÃO. NÃO CABIMENTO. ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 3) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. MONTANTE FIXADO DE PRESTAÇÃO PECUNIÁRIA INCOMPATÍVEL COM A CAPACIDADE FINANCEIRA DO AGRAVANTE. REDUÇÃO QUE ESBARRA NO ÓBICE DO REVOLVIMENTO FÁTICO-PROBATÓRIO, CONFORME SÚMULA 7/STJ. 4) AGRAVO DESPROVIDO.
+(..)
+3. A redução do montante fixado de prestação pecuniária demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem, com base na prova dos autos, concluiu pela capacidade econômica do réu.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1072890/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 17/08/2018)."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
