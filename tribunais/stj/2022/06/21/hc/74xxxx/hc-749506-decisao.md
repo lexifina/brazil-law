@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+PENAL. "HABEAS CORPUS". FURTO QUALIFICADO TENTADO. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA.
+Pretendida a concessão de liberdade provisória, ainda que com imposição de medida cautelares diversas.
+Descabimento. A) A decretação da medida cautelar foi legítima, haja vista presentes os requisitos legais para tanto (artigo 313, I e II, do Código de Processo Penal). Contumácia delitiva a indicar insuficiência de medidas menos rigorosas. B) Decisão de conversão que se limita a verificar a viabilidade da manutenção da prisão, com observação da gravidade da conduta e periculosidade presumida do agente, de acordo com a necessidade da garantia da ordem pública, afastando, como possível, concessão de liberdade provisória.
+Constrangimento ilegal não configurado.
+Ordem denegada.
+Narram os autos que o paciente foi preso em flagrante, convertido em preventiva, pela supostaprática do crime previsto no artigo 155, §§ 1º e 4º, I, c.c. o art. 14, II, ambos do Código Penal.
+Sustenta a defesa, em suma, ausência dos requisitos autorizadores da prisão preventiva, requerendo, liminarmente e no mérito, a revogação do decreto prisional.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão foi assim decretada (fls. 68-69):
+Flagrante formalmente em ordem.
+Em análise detida das condições do autuado e das circunstâncias e gravidade do delito, em tese cometido pelo mesmo, em observância do quanto disposto no artigo 282, §6º do Código de Processo Penal, inviável, insuficientes e inadequadas as medidas cautelares previstas no artigo 319 do mesmo diploma legal.
+Não há que se falar em limitações inerentes à esta fase do conhecimento dos fatos pelo Juízo, uma vez que a materialidade delituosa vem comprovada pelo auto de prisão em flagrante e boletim de ocorrência que demonstram a ocorrência do fato criminoso, enquanto a autoria vem demonstrada pelos depoimentos das testemunhas juntadas nos autos, que apontam como sendo o averiguado o autor do crime de tentativa de furto.
+O autuado é reincidente em crimes patrimoniais e estava em cumprimento de pena no regime semiaberto, conforme folha de antecedentes e certidões de fls. 28/40, com diversas passagens pela Justiça Penal, a demonstrar que não se ajusta aos limites da lei, sendo assim insuficientes as demais medidas cautelares diversas da prisão.
+Apesar de o crime, em tese cometido, não ter sido empreendido mediante violência ou grave ameaça, a prisão cautelar é adequada ao caso concreto e as circunstâncias e gravidade do delito, em tese cometido pelos autuados, em observância do quanto disposto no artigo 282, §6º do Código de Processo Penal, torna inviável, insuficientes e inadequadas as medidas cautelares previstas no artigo 319 do mesmo diploma legal.
+Os crimes contra o patrimônio, ainda que se trata, in casu, de um furto, são daqueles que abalam a tranquilidade de toda a sociedade, tirando-lhe o merecido sossego e colocando em risco a ordem pública que não pode ficar à mercê de condutas de meliantes que não se enquadram em uma sociedade que intenta viver em paz.
+A conduta do autuado é clara em mostrar que solto, não se ajusta aos benefícios da lei, em especial àqueles que nesse momento poderiam ser-lhe concedidos artigo 319 do CPP- não fosse a falta de adequação social da conduta.
+Não se ignora que o Código de Processo Penal prevê a possibilidade de aplicaçãode medidas cautelares diversas da prisão (artigo 319). Entretanto, tais medidas se mostram insuficientes e inadequadas, já que o averiguado não se ajusta aos limites da lei.
+Dessa forma, a fim de garantir a ordem pública, entendo incabível o pedido de liberdade apresentado pela defesa.
+Assim, por todo o exposto, afasto as possibilidades de conceder ao autuado o benefício da liberdade provisória, por entender ausentes os requisitos do artigo 310, inciso I e III.
+Portanto, para a garantia da ordem pública, considerando máxima cominada, ouvido o Ministério Público, converto a prisão em flagrante de Clayton Rodrigo Firmino, em preventiva, uma vez que presentes os requisitos autorizadores do artigo 312 e os pressupostos do artigo 313, I do Código de Processo Penal.
+Como visto, o decreto de prisão apresenta fundamento que mostra-se idôneo para a custódia cautelar, porquanto consignado que "O autuado é reincidente em crimes patrimoniais e estava em cumprimento de pena no regime semiaberto, conforme folha de antecedentes e certidões de fls. 28/40, com diversas passagens pela Justiça Penal".
+Esta Cortetem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiroliminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
