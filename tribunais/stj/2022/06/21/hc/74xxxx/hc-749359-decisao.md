@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deVITOR FERREIRA INACIOem que se aponta como autoridade coatoraTribunal de Justiça do Estado de São Paulo(Apelação n. 0083942-47.2018.8.26.0050).
+O paciente foi condenado às penas de 5anosde reclusão em regime fechadoe de 50 dias-multa, pela prática do delito previsto no art. 157, § 3º, I, c/c o art. 14, II, do Código Penal. A pena-base foi fixada em 9 anos de reclusão e em 90 dias-multa, reconhecidas a menoridade relativa, diminuindo-se apena em 1/6, e a tentativa,diminuindo-se a pena em 1/3.
+Interpostasapelações,o recurso defensivo foi parcialmente provido parareduzir parcialmente a pena-base, enquanto o apelo acusatório foi acolhido para condenar o pacienteao cumprimento de 13anos e 4meses de reclusão e ao pagamento de 6 dias-multa, como incurso no art. 157, § 3º, II, do Código Penal.
+Nas razões do presente writ, a defesa aponta constrangimento ilegal em decorrência da condenação do paciente e daquantificação da pena.
+Alega que não háelemento robusto capaz de demonstrar a culpabilidade ao réu, fundadaapenas nas palavras da vítima e de policiais que nem sequer estavam presentes aos fatos.
+Sustenta que apena merece ser fixada abaixo do patamar mínimo, pois não lhe é negativaa maioria das circunstâncias judiciais, bem comoque a legislação de regência da dosimetria da pena não estabelece nenhumarestrição quanto ao decréscimo da pena ir aquém do mínimo previsto para a pena-base.
+Requer, liminarmente e no mérito, a absolvição do paciente, a diminuição da pena aplicada e a fixação de regime inicial mais brando para início de seu cumprimento.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual(AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame da impetração.
+No caso, a condenação sofrida pelopaciente é definitiva, pois, em consulta ao site do Tribunal de origem, verifica-se que foi certificado o trânsito em julgado da sentença condenatória em 16/10/2019;o presente writ, porém, foi impetrado somente em 13/6/2022.
+Observa-se ainda que não há, no STJ, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 6/4/2021; AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+No mesmo sentido, a orientação do STF: AgRg no HC n. 134.691/RJ, relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 1º/8/2018; AgRg no HC n. 149.653/SP, relator Ministro Dias Toffoli, Segunda Turma, DJe de 6/2/2018; AgRg no HC n. 144.323/SP, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 30/8/2017; e HC n. 199.284/SP, relator Ministro Marco Aurélio, Primeira Turma, DJe de 16/8/2021.
+Também não há flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
