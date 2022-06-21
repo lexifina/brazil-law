@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por incidência das Súmulas n. 5, 7 e 83 do STJ(e-STJ fls. 515/518).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 365):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL. CONTRATOS DE MÚTUO. EMPRÉSTIMOPESSOAL CONSIGNADO EM FOLHA DE PAGAMENTO. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. ABUSIVIDADECONFIGURADA, PORQUANTO AS TAXAS UTILIZADAS ULTRAPASSAM,EM MUITO, A TAXA MÉDIA DIVULGADA PELO BACEN, PARA A MESMAESPÉCIE DE CONTRATO, NAS DATAS DAS CONTRATAÇÕES, O QUEAUTORIZA A LIMITAÇÃO POSTULADA. DESCARACTERIZAÇÃO DAMORA. DECORRE DA COBRANÇA INDEVIDA DE ENCARGOS DAN O E M A L I D A D E . REPETIÇÃO DO INDÉBITOE COMPENSAÇÃO. VERIFICADA A COBRANÇA DE VALORESINDEVIDOS, POSSÍVEL A COMPENSAÇÃO DE VALORES E,POSTERIORMENTE, A REPETIÇÃO SIMPLES SE HOUVER SALDO EMFAVOR DA PARTE AUTORA. APELAÇÃO DESPROVIDA.
+Nas razões do recurso especial (e-STJ fls. 374/387),fundamentadono art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais: (e-STJ fls. 379/380):
+ ..  ABSOLUTAMENTE DESARRAZOADA A ESTIPULAÇÃO DE QUE,POR SIMPLESMENTE SUPERAR O PERCENTUAL DA TAXA MÉDIA DE MERCADODIVULGADA PELO BACEN, SERIA ABUSIVA.
+ .. embora o STJ autorize a relativização dos contratos, quando as taxas pactuadas se mostrarem MANIFESTAMENTE abusivas, para o reconhecimento da abusividade é insuficiente a alegação genérica de que ela superou a média do mercado, como equivocadamente fundamentou o tribunal de origem.
+No agravo (e-STJ fls. 527/552), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada(e-STJ fl. 555).
+É o relatório.
+Decido.
+No julgamento do Recurso Especial n. 1.061.530/RS (Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/3/2009), submetido à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), esta Corte Superior consolidou as seguintes orientações sobre juros remuneratórios em contratos bancários:
+(..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. (..)
+Portanto, não há óbice à revisão contratual, com fundamento no CDC (Súmula n. 297/STJ), nas hipóteses em que, após dilação probatória, ficar cabalmente demonstrada a abusividade da cláusula de juros, sendo insuficiente o fato de o índice estipulado ultrapassar 12% (doze por cento) ao ano (Súmula n. 382/STJ) ou de haver estabilidade inflacionária no período.
+A taxa média de mercado apurada pelo Banco Central para operações similares na mesma época do empréstimo pode ser utilizada como referência no exame do desequilíbrio contratual, mas não constitui valor absoluto a ser adotado em todos os casos. Com efeito, a variação dos juros praticados pelas instituições financeiras decorre de diversos aspectos e especificidades das múltiplas relações contratuais existentes (tipo de operação, prazo, reputação do tomador, garantias, políticas de captação e empréstimo, aplicações da própria entidade financeira etc.).
+Em seu voto, a Relatora destacou que a jurisprudência do STJ tem considerado abusivas, diante do caso concreto, taxas superiores a uma vez e meia, ao dobro ou ao triplo da média. Destaca a em. Ministra (fl. 24 do inteiro teor do acórdão supracitado):
+(..) A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos. (..).
+No caso, o acórdão recorrido asseverou que (e-STJ fl. 362):
+Os contratos em revisão foram firmados em fevereiro, novembro de dezembro de2016, com previsão de juros remuneratórios de 83,73% ao ano, 69,58% ao ano e 69,58% ao ano, respectivamente, enquanto a taxa média de mercado divulgada pelo BACEN, considerado o período e a natureza da contratação, era de 27,76% ao ano, 26,65% ao ano e 22,75% ao ano (25745 -Crédito pessoal consignado para trabalhadores do setor público). Portanto, as taxas contratadas extrapolam, em muito, a taxa média de mercado.
+Logo, impositiva a limitação dos juros remuneratórios, assim como postulado na inicial da ação e reconhecido na sentença.
+Imperioso reconhecer que o acórdão está conforme o recurso especial representativo da controvérsia ao limitar os juros remuneratórios, considerando a significativa discrepância percebida entre o índice estipulado e a taxa média de mercado (Súmula n. 83/STJ).
+Além disso, para alterar o desfecho conferido ao processo, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que não se admite em recurso especial, conforme orienta a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
