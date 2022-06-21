@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por EMANUEL ZANICHELLI e ERICA OLMOS LUCAS, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 617):
+Despesas condominiais. Ação de cobrança em fase de cumprimento de sentença. R. despacho que rejeitou alegação de nulidade da arrematação, por ausência de quitação do débito em aberto, acrescido de seus consectários legais. Agravo só dos executados. Não vislumbrada verossimilhança nos fundamentos trazidos pelos interessados, para a reforma da decisão, que fica mantida integralmente. Nega-se provimento ao recurso, tudo nos estreitos limites do agravo.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 632-639).
+Nas razões do recurso especial (e-STJ, fls. 642-664), os ora agravantes apontaram divergência jurisprudencial e violação do art. 903 do CPC/201, uma vez que não houve a suspensãoda arrematação diante da quitação integral do débito.
+Ao final, requereram a concessão de efeito suspensivo ao recurso.
+Contrarrazões não apresentadas (e-STJ, fl. 668).
+O Tribunal de origem inadmitiu o inconformismo, julgando prejudicado o pretendido efeito suspensivo (e-STJ, fls. 669-671).
+Daí o presente agravo, cujas razões veiculam argumentos pela admissibilidade do apelo extremo.
+Brevemente relatado, decido.
+Os insurgentes entendem que o Tribunal de origem incorreu em violação à legislação federal por não ter suspendido a hasta pública diante do pagamento integraldívida.
+Contudo, as assertivas da recorrente de que efetuou o pagamento da integralidade da dívida (remição) antes da data da assinatura do auto de arrematação, nos termos em que postas, atraem o óbice do enunciado n. 7 da Súmula desta Corte, pois o Tribunal estadual, diante das peculiaridades do caso, consignou que a purgação da mora foi realizada a destempo, quando já tinha sido lavrado o auto de arrematação.
+Confira-se, a propósito, a fundamentação do acórdão recorrido (e-STJ, fls. 618-619, sem grifos no original):
+A arrematação da unidade condominial geradora das despesas se deu sob a égide do novo Cód. de Proc. Civil, cujo art. 903, § 1º, incisos I a III, estabelece que a mesma somente não será considerada perfeita, acabada e irretratável, se vier a ser invalidada em razão da ocorrência de preço vil ou outro vício, declarada ineficaz se não observado o disposto no art. 804 (falta de intimação prévia do credor pignoratício, hipotecário ou anticrético) e, por fim, caso resolvida, por força do não pagamento do preço ou não prestação de caução.
+Tem-se claro, portanto, que eventual excesso de cobrança (não verificada nos autos) não constituiria fundamento para se reputar inválida a arrematação, tampouco obstaria a expedição da respectiva carta ao arrematante, ao contrário do que sustentam os agravantes.
+Aliás, dos autos se infere que o Condomínio exequente trouxe o cálculo para pagamento da quantia de R$ 14.302,58 em 08.08.16, fls. 133/134, mas tal valor, sem acréscimos legais, somente fora depositado pelos executados em27.10.17, fl. 396, ou seja, mais de um ano depois, de modo que a purgação da mora não poderia mesmo ter sido reconhecida.
+Além disso, o apartamento fora penhorado, e o oficial teve dificuldades para encontrar qualquer dos devedores para intimação, acabando por fazê-lo, após várias tentativas e idas ao edifício, por hora certa, na figura do porteiro, o que é curioso e sintomático.
+Por outro lado, a arrematação ocorreu em 30.10.17,por preço que não pode ser tido como vil, já que correspondente a quase 60% do quantum da avaliação, sendo ainda de se reiterar que a purgação da mora não havia sido feita até aquela oportunidade, pelo que já fora mencionado acima.
+E, o depósito da quantia de R$ 3.569,05, feito em 28.01.18 e tido como suposta quitação do débito exequendo não poderia ser aceito, pois providenciado a destempo, quando já lavrado auto de arrematação.
+Assim, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante reexame das circunstâncias fáticas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no acórdão recorrido, reavaliar o mencionado suporte.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. REMISSÃO REALIZADA A DESTEMPO. ARREMATAÇÃO PERFEITA, ACABADA E IRRETRATÁVEL. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
