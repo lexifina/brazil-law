@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por ausência de demonstração da ofensa ao dispositivo legal, incidência da Súmula n 7 do STJ e falta de cotejo analítico (e-STJ fls. 620/622).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 520):
+AÇÃO ESTIMATÓRIA. ENTREGA DE IMÓVEL COM MEDIDAS MENORES DO QUE AS PACTUADAS. MAGISTRADO QUE EXTINGUIU O FEITO SEM JULGAMENTO DE MÉRITO PELO RECONHECIMENTO DA DECADÊNCIA. INCONFORMISMO MANIFESTADO. INADMISSIBILIDADE. PRETENSÃO DE INDENIZAÇÃO PROPORCIONAL AO PREÇO EM RAZÃO DA ÁREA ENTREGUE A MENOR. DIREITO QUE SE ENCONTRA FUNDAMENTADO NO ARTIGO 500 DOCÓDIGO CIVIL. REGULAMENTAÇÃO ESPECÍFICA QUE DEVE SER OBSERVADA. ARTIGO 501 DO CÓDIGO CIVIL. DECADÊNCIA DO DIREITODO AUTOR VERIFICADO, UMA VEZ QUE PROPOSTA A DEMANDA MAIS DE UM ANO APÓS A ENTREGADAS CHAVES. EXTINÇÃO DO PROCESSO, COMFUNDAMENTO NO ART. 487, INCISO II DO CPC. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 529/539), fundamentadono art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação do art. 205 do CC/2002, porque (e-STJ fls. 531/532):
+ .. não há dispositivo de lei que tenha fixado prazo para o ajuizamento de ações indenizatórias por inadimplemento contratual, razão pela qual não pode haver aplicação por analogia, seja pelos artigos 500/501 do Código Civil ou qualquer outro.
+ .. há lacuna na legislação específica quanto ao prazo prescricional atinente à ação indenizatória por inadimplemento de natureza contratual. Desta forma, não havendo prazo específico para a fatalidade ao ajuizamento da ação, de rigor a aplicação do prazo geral de que trata o artigo 205 do CC.
+No agravo (e-STJ fls. 625/631), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 634/638 (e-STJ), na qual a parte requer aplicação de multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+Decido.
+Segundo a jurisprudência desta Corte Superior, "o direito de abatimento no preço do imóvel, decorrente da diferença de metragem entre a área real do bem e a constante do contrato, decai em 1 (um) ano, conforme art. 501 do Código Civil" (AgInt nos EDcl no AREsp n. 1.698.523/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/4/2021, DJe 14/4/2021).
+Do mesmo modo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. VAGA DE GARAGEM. DIFERENÇA ENTRE A METRAGEM REAL E A METRAGEM CONTRATADA. ABATIMENTO NO PREÇO DO IMÓVEL. PRAZO DECADENCIAL DE UM ANO. ART. 501 DO CÓDIGO CIVIL. AGRAVO NÃO PROVIDO.
+1. O direito de abatimento no preço do imóvel, decorrente da diferença de metragem entre a área real do bem e a constante do contrato, decai em um ano, conforme art. 501 do Código Civil. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.890.643/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/12/2020, DJe 1º/2/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356/STF. 2. VAGA DE GARAGEM ENTREGUE COM METRAGEM INFERIOR À PROMETIDA. INDENIZATÓRIA. DECADÊNCIA. PRAZO ANUAL. CONSONÂNCIA DO ENTENDIMENTO DO TRIBUNAL ESTADUAL COM A JURISPRUDÊNCIA DO STJ. 3. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DE MULTA. 4. AGRAVO INTERNO DESPROVIDO. (..)
+2. O entendimento adotado pelo acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior, no sentido de que "o direito de abatimento no preço do imóvel, decorrente da diferença de metragem entre a área real do bem e a constante do contrato, decai em 1 (um) ano, conforme art. 501 do Código Civil. Incide, portanto, o enunciado 83 da Súmula do STJ" (AgInt nos EDcl no AREsp 1.698.523/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/04/2021, DJe 14/04/2021).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.817.848/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2021, DJe 19/8/2021.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃODE RESSARCIMENTO POR COMPRA DE GARAGEM COM METRAGEM INFERIOR À CONTRATADA. ABATIMENTO PROPORCIONAL DO PREÇO. PRAZO DECADENCIAL DE UM ANO. PRECEDENTES. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.DISSÍDIO INTERPRETIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..) 2. Na linha dos precedentes desta Corte, o prazo que o consumidor dispõe para perseguir o abatimento proporcional do preço, em situações como a dos autos, é decadencial de um ano previsto no art. 501 do CC/02.
+3. Tendo o Tribunal paulista afirmado expressamente que a natureza da ação ajuizada pelo agravante é de abatimento proporcional do preço, afastase, por não se tratar de pretensão indenizatória, o prazo prescricional geral de 10 (dez) anos previsto no art. 205 do CC/02.
+(..) 7. Agravo interno não provido. (AgInt no AREsp n. 1.809.808/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/5/2021, DJe 28/5/2021.)
+Sobre a aplicação do prazo decadencial do art. 501 do CC/2002, a Corte de origem assentou que (e-STJ fls. 522/523):
+Sem qualquer dificuldade, colhe-se que o autor pretende indenização proporcional ao preço pela discrepância, a menor, na metragem da vaga garagem integrante do imóvel adquirido da ré; a considerar o preço por metro quadrado e, com base nisso, o valor que representa a diferença da metragem faltante.
+Assim, conquanto calculada como valor indenizatório, trata-se de pretensão de abatimento do preço em razão da área entregue a menor.
+ .. Ocorre, sem embargo, que para além da hipótese prevista no artigo 441 do Código Civil (defeito de qualidade), o Código Civil traz disposição específica para a hipótese de compra e venda ad mensuram de bem imóvel entregue com área inferior à prometida (defeito de quantidade)  ..
+Daí que, prevendo o ordenamento jurídico regulamentação própria para a hipótese de abatimento de preço pela diferença de área na compra e venda de bem imóvel, não pode o autor, à sua vontade, eleger a norma que lhe seja mais favorável.
+Até porque, no caso, não há que se cogitar de acidente de consumo. Recobre-se que fato do produto é aquele que extrapola o bem e atinge diretamente o consumidor. Por outro lado, o prazo decenal previsto no artigo 205 do Código Civil limita-se às hipóteses em que "a lei não lhe haja fixado prazo menor" o que, de todo modo, não corresponde ao caso dos autos.
+Com efeito, o artigo 501 do aludido diploma é expresso ao prever que "decai do direito de propor as ações previstas no artigo antecedente o vendedor ou o comprador que não o fizer no prazo de um ano, a contar do registro do título".
+Estando o acórdão impugnado conforme com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+Publique-se e intimem-se.
