@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JORGE LUIZ LASTEcontra decisão que negou seguimento ao recurso especial, por sua vez manejado em combate a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. AGRAVANTE QUE É SÓCIO DA BRAZCARNES. PEDIDO PARA QUE HAJA SUSPENSÃO IMEDIATA DOS PAGAMENTOS REALIZADOS NOS AUTOS PRINCIPAIS, E SUA INCLUSÃO NOS AUTOS HABILITANDO-O COMO CREDOR CESSIONÁRIO PREFERENCIAL AOS DEMAIS CREDORES CESSIONÁRIOS. CONTRAMINUTA EM QUE SE PEDE O NÃO CONHECIMENTO DO AI POR AUSÊNCIA DE COMBATE À DECISÃO RECORRIDA E QUE SEJA RECONHECIDA A SIMULAÇÃO ENTRE O AGRAVANTE E ÔIOVANE LASTE. CONTRATO DE CESSÃO DE DIREITOS E OBRIGAÇÕES FORMALIZADO ENTRE JORGE (CESSIONÁRIO) E ÔIOVANI (CEDENTE). CESSÃO QUE DEPENDE DE HOMOLOGAÇÃO JUDICIAL PARA SER EFICAZ. DECISÃO COMBATIDA QUE SE MOSTRA HÍGIDA. NECESSIDADE, ADEMAIS, DE O AGRAVANTE AGUARDAR O PAGAMENTO EM FAVOR DA EMPRESA BRAZCARNES. CRÉDITO FUTURO QUE NÃO PODER CONVERTIDO EM CRÉDITO PRESENTE.IMPOSSIBILIDADE DE SE RECONHECER O AGRAVANTE NA CONDIÇÃO DE CREDOR PRIVILEGIADO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente sustenta violação dos arts. 221, 288, 291 e 645, §1º, do CC, 129 e 221, XI, da Lei 6.015/73.
+É o relatório.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
