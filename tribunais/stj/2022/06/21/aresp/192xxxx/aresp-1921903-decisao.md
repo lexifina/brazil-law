@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GAIA REALIZAÇÕES IMOBILIÁRIAS LTDA. e ITABORAÍ SPE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (GAIA e outra)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR E RESPONSABILIDADE CIVIL. COMPRA E VENDA DE UNIDADE RESIDENCIAL NA PLANTA. ATRASO NA ENTREGA DO IMÓVEL. REVISÃO DE CLÁUSULAS E RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DA PARTE RÉ. Preliminar. Ilegitimidade passiva ad causam.Rejeição. Relação de consumo. Atraso incontroverso.Nem mesmo o prazo de carência de 180 dias foi respeitado. Possibilidade de rescisão. Não se trata de hipótese de mero arrependimento, já que a apelada demonstrou boa-fé ao efetuar os pagamentos das parcelas durante a fase de construção. Tese de caso fortuito que não elide a responsabilidade das rés, uma vez que se insere nos riscos inerentes ao desenvolvimento da atividade. A data da expedição do "habite-se" é mera autorização administrativa para ocupação do imóvel e não se confunde com o adimplemento da obrigação, o que se dá efetivamente com a imissão na posse do adquirente mediante a entrega das chaves. A conduta das rés é que deu causa ao desfazimento do contrato. Devolução integral dos valores pagos. Aplicação da Súmula 543, do STJ. Dano moral. Peculiaridades do caso concreto que autorizam o seu afastamento. O desfazimento do negócio jurídico trouxe, por via transversa, um benefício à parte apelada. É notório que a interrupção das obras pela PETROBRÁS no Complexo Petroquímico do Estado do Rio de Janeiro (COMPERJ) levou a cidade de Itaboraí, onde está localizado o empreendimento objeto da demanda, a uma situação de decadência econômica, queimpactou não só as atividades comerciais, mas também o mercado imobiliário, que sofreu uma queda considerável no preço dos imóveis. Não se vislumbra na hipótese consequências fáticas capazes de acarretar o sofrimento psicológico ou qualquer frustração pelo desfazimento do negócio, a ensejar o dever reparação. Sentença que se reforma em parte.Sucumbência mínima da parte autora. PROVIMENTO PARCIAL DO RECURSO (e-STJ, fls. 457/458).
+Os embargos de declaração opostos por GAIA e outraforam rejeitados (e-STJ, fls. 534/540).
+Irresignadas, GAIA e outrainterpuseram recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aoart. 1.022, II, do NCPC,ao sustentar omissão do acórdão recorrido em relação ao índice de correção monetária e ao percentual dos juros de mora que devem incidir sobre a condenação, não havendo que se falar em inovação recursal nos embargos de declaração, por se tratar de matéria que podeser apreciada até mesmo de ofício.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio de Janeiro (e-STJ, fls. 574/577).
+Nas razões do presente agravo, GAIA e outraalegaramque não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 447/451).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Da violação ao art. 1.022, II, do NCPC
+Nas razões do recurso especial, GAIA e outra indicaramomissão do acórdão recorrido quanto ao seu pedido de fixação do índice de correção monetária e do percentual dos juros de mora que devem incidir sobre a condenação, não havendo que se falar em inovação recursal nos embargos de declaração, por se tratar de matéria que pode ser apreciada até mesmo de ofício.
+Assiste razão às recorrentes.
+A forma como a controvérsia foi resolvida gera questionamentos e impede que o STJ examine a matéria em virtude do indispensável prequestionamento do tema nela contido e de suas nuances, por envolver questão fática, a impedir a aplicação do prequestionamento ficto, nos termos do que dispõe o art. 1.025 do NCPC.
+Assim, tendo o recurso especial sido interposto por ofensa aoart. 1.022, II, do NCPC e, em face da relevância daquestão suscitada, se revela necessário o debate acerca dopontoacima destacado, de modo que a prestação jurisdicional seja dada de forma completa àsrecorrentes.
+Nesse sentido, confiram-se os seguintes precedentes desta egrégia Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA. RESCISÃO CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. ART. ART. 1.022 DO CPC/2015. OMISSÃO. OFENSA CONFIGURADA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Há ofensa ao art. 1022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo interno no agravo em recurso especial não provido para manter o não conhecimento do agravo em recurso especial de LUIZ CARLOS STOCKER e o conhecimento e provimento do recurso especial de COMPANHIA DE SEGUROS ALIANÇA DO BRASIL.
+(AgInt no REsp nº 1.711.626/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 2/8/2018, DJe de 10/8/2018, sem destaque no original).
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO.ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA.DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp nº 1.708.003/BA, Rel. Ministro LÁZARO GUIMARÃES, Rel. p. acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 7/8/2018, DJe de 21/8/2018, sem destaque no original).
+É condição sine qua non ao conhecimento do especial que as questões de direito e de fato ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado.
+Assim, recusando-se o Tribunal fluminense a se manifestar sobre a questão alegada, terminou por negar prestação jurisdicional àsrecorrentes, não havendo que se falar em inovação recursal para matérias de ordem pública, como a que trata da incidência da correção monetária e dos juros de mora sobre o valor da condenação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. NÃO OCORRÊNCIA.REDIMENSIONAMENTO DOS ÔNUS DE SUCUMBÊNCIA.IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO- PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+2. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1379692/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/12/2019, DJe 05/12/2019 - sem destaque no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.PRESCRIÇÃO. MATÉRIA DE DEFESA. EMBARGOS DE DECLARAÇÃO.OMISSÃO.
+1. Se a questão for matéria de ordem pública, apresenta-se omisso o acórdão que não se manifesta a respeito de defesa alegada apenas nos embargos declaratórios.
+2. Agravo interno não provido.
+(AgInt no REsp 1.317.742/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 21/2/2017, DJe 24/2/2017 - sem destaque no original).
+É medida de rigor, portanto, o retorno dos autos à Corte estadual para que seja sanada a omissão destacada.
+Nessas condições, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial de GAIA e outrapara reconhecer ofensa aoart. 1.022, II, do NCPC, determinando o retorno dos autos ao TJRJpara que analise a questão trazida nos embargos de declaração acima especificada, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA SOBRE O VALOR DA CONDENAÇÃO. VIOLAÇÃO DOART. 1.022 DO NCPC. OCORRÊNCIA. OMISSÃO A RESPEITO DE QUESTÃO RELEVANTE LEVANTADA NOS ACLARATÓRIOS. RECUSA DE ENFRENTAMENTO DO TEMA. NEGATIVA DA COMPLETA PRESTAÇÃO JURISDICIONAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
