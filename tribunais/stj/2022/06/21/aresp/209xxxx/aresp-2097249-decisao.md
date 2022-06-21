@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA IZABEL DE ALMEIDA PERNAMBUCOcontra decisão que, na origem, não admitiu o processamento do recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, a seguir ementado (e-STJ, fls. 152-156):
+RESPONSABILIDADE CIVIL - Morte de cadela em clínica veterinária - Alegação de erro da atendente, que aplicou medicação intravenosa, sem perceber que havia bolhas de ar na seringa - Desinteresse na produção de prova pericial - Ônus da prova da autora - Artigo 373, I, do CPC - Exame necroscópico que indica a causa da morte, mas não aponta qualquer erro de procedimento - Obrigação de meio - Nexo causal que não seria preenchido com a pretendida oitiva de testemunhas - Afastamento da alegação de cerceamento de defesa - Improcedência - Sentença mantida- Recurso não provido.
+Os embargos de declaração opostos contra o acórdão foram rejeitados (e-STJ, fls. 179-182).
+Nas razões de recurso especial, interposto com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, arecorrentealegou a violação ao art. 489 do CPC/2015 e aos arts. 1º e 2º da Lei 5.517/1968..
+Sustentou que o acórdão foi proferido sem a devida fundamentação.
+Aduziu que a atividade de medicina veterinária é exclusiva de Médico Veterinário devidamente diplomado e, portanto, a aplicação de medicação intravenosa em animal seria ato privativo desse profissional, não sendo possível que seja realizado por enfermeira, razão pela qual há a responsabilidade de indenização.
+Foram apresentadas contrarrazões (e-STJ, fls. 186-199).
+O recurso especial não foi admitido na origem (e-STJ, fls. 200-202).
+Interposto o presente agravo, os autos foram remetidos a este Superior Tribunal.
+É o relatório. Decido.
+Consoante análise dos autos, a alegação de violação ao art. 489 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão do recorrente.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/201
+Sobre o tema principal, o Tribunal de Justiça consignou os seguintes fundamentos (e-STJ, fls. 154-155):
+No caso concreto, a autora adquiriu uma cadela da raça "spitz alemão anão - pomerânia" da ré, de nome "Dare", pelo preço de nove mil dólares americanos, a qual era perfeitamente saudável. Ocorre que, tendo o animal uma inflamação nas patas, a autora levou-a à clínica, e uma funcionária, sem o devido cuidado, ao aplicar medicação intravenosa, injetou ar na veia do animal, que sofreu uma parada cardiorrespiratória, vindo a óbito. Aduz ter sofrido danos materiais da ordem de R$ 140.700,00, relativo ao preço de aquisição, participação em campeonatos, o que incluía seu transporte, e lucros cessantes, visto que não pôde obter a cria do animal.
+A ré alega que a cadela não era matriz, porqueera portadora de "alopécia X", doença genética que desaconselha a reprodução para fins econômicos, que o animal deu entrada na clínica justamente para castração, mas que se encontrava já com sinais de adoecimento, o que postergou a intervenção, que seu estado evoluiu de forma prejudicial, apresentando a cadela "paralisia flácida ascende com progressão à tetraparesia", anorexia, diarreia e desidratação, e, afinal, até o óbito, e que não houve qualquer erro de procedimento da funcionária.
+O exame necroscópico revelou que o animal morreu em razão de parada cardiorrespiratória, e identificou como processo patológico principal congestão e edema pulmonar e, de forma secundária, degeneração hepática discreta (hipoxia) e dermatopatia (alopecia X) - fl. 33.
+ ..
+Intimada a produzir prova, a autora apenas solicitou a oitiva de testemunhas (fls. 108/109), que confirmariam questões envolvendo a aquisição do animal. Nas razões recursais, a autora alega que provaria que a seringa usada para a aplicação de medicação intravenosa continha bolhas. Ainda que houvesse tal confirmação, faltaria a prova do nexo causal. Em outras palavras, a autora teria que provar que o animal morreu em razão de uma alegada aplicação de medicação incorretamente realizada, e, como bem salientou a magistrada de primeiro grau, para isso caberia a produção de prova pericial, ainda que através de um exame indireto.
+Os serviços médico-veterinários são, como o serviço médico em geral, uma obrigação de meio, ou seja, apenas diante de patente erro de procedimento é que se reconhece a responsabilidade civil. Ademais, como em qualquer caso em que se discute o dever de indenizar, caberia a prova do nexo causal, ou seja, de que a incorreta aplicação da medicação via intravenosa foi a causa da morte do animal.
+Essa prova caberia à autora, que dela não se desincumbiu (artigo 373, I, do CPC).
+Não há impedimento a que a atendente aplique medicação no animal, desde que treinada para tanto, não sendo ato privativo do veterinário. Não há prova do erro da atendente, mas, principalmente, não há prova de que esse erro, caso existente, pudesse levar ao resultado danoso experimentado pela autora.
+Nesse passo, não há como reconhecer a responsabilidade da clínica.
+Como se observa do excerto transcrito, o Tribunal de Justiça, soberano na análise do acervo probatório constante dos autos, concluiu que a autora não logrou êxito em comprovar que o animal morreu em razão de uma suposta aplicação medicamentosa incorretamente realizada, principalmente porque não mostrou interesse na realização de qualquer prova pericial, única eventualmente apta a confirmar o nexo de causalidade.
+Dessa forma, alterar a conclusão alcançada pelo colegiado estadual demandaria reexame fático-probatório,conduta vedada no âmbito do recurso especial por força daSúmula7/STJ.
+Ademais, os dispositivos indicados como supostamente violados têm o seguinte teor:
+Art 1º O exercício da profissão de médico-veterinário obedecerá às disposições da presente lei.
+Art 2º Só é permitido o exercício da profissão de médico-veterinário:
+a) aos portadores de diplomas expedidos por escolas oficiais ou reconhecidas e registradas na Diretoria do Ensino Superior do Ministério da Educação e Cultura;
+b) aos profissionais diplomados no estrangeiro que tenham revalidado e registrado seu diploma no Brasil, na forma da legislação em vigor.
+Como se observa, não há qualquer determinação legal no sentido de competir exclusivamente ao médico veterinário a aplicação de medicamentos em animais.
+Assim, o conteúdo normativo dos artigos de lei alegadamente violados não se revela apto a amparar a tese recursal, atraindo o óbice da Súmula 284/STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL.CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.951.590/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/3/2022, DJe de 23/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE MARCA CUMULADA COM INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como violado. Incidência da Súmula 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.910.376/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022.) (sem grifo no original)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor doadvogado da parte recorrida em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MORTE DE CADELA EM CLÍNICA VETERINÁRIA. NEXO CAUSAL NÃO DEMONSTRADO. DESINTERESSE NA PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
