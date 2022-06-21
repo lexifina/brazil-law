@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JANAINA NETO MONTEIRO FIGUEIREDO, à decisão de fls. 909/910, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que há contradição neste entender, uma vez, que há nos autos procuração na fl. 34 dando a Dra Letícia Gomes Alvarenga poderes gerais e especiais para representar a Embargante, e na fl. 36 substabelecimento, onde cumprindo toda formalidade da lei a Dra Letícia compartilha com o Dr. Jefferson Queiroz de Sousa todos os poderes conferidos a ela.
+Observa-se que no respeitável acórdão é alegado que não há nos autos procuração ou substabelecimento conferindo poderes ao Dr Jefferson Queiroz, o que não condiz com a realidade conforme já mencionado.
+Assim, não há como negarmos que a Autora está devidamente representada nos autos por seus dois advogados, cumprindo todos os requisitos legais e consequentemente merecendo ver o seu recurso ser julgado (fls. 913/914).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo em recurso especial, Dr. Jefferson Queiroz de Sousa.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte (fl. 907).
+Não se desconhece da procuração e do substabelecimento juntados às fls. 33 e 35, respectivamente. No entanto, o instrumento de substabelecimento de fl. 35 não pode ser aceito, tendo em vista que não consta nele assinatura física nem eletrônica de sua substabelecente, Dra. Letícia Gomes Alvarenga, fato que foi ratificado pela informação enviada pelo Tribunal de origem à fl. 931. Desse modo, ao contrário do alegado pela parte, não há nos autos a cadeia completa de instrumentos de mandato outorgando poderes ao subscritor do agravo.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se,
