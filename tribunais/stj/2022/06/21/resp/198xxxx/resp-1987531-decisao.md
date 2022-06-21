@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por SALETE LOGELSO, com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"SEGURO. PLANO DE SAÚDE. PRETENDIDO CUSTEIO DE MEDICAMENTO ASSOCIADO A TRATAMENTO PRESCRITO À DEMANDANTE. REQUERIDA QUE SEQUER DEMONSTROU A EXISTÊNCIA DE CLÁUSULA EXPRESSA DE EXCLUSÃO. JURISPRUDÊNCIA DO STJ E DO TJSP, ADEMAIS,QUE VEM SE ORIENTANDO PELO RECONHECIMENTO DA ABUSIVIDADE DAS CLÁUSULAS DE EXCLUSÃO DE COBERTURA. PRECEDENTES DO STJ E SÚMULA Nº. 102 DO TJSP. DANOS MORAIS DECORRENTES DO COMPORTAMENTO DA RÉ. INADMISSIBILIDADE. INEXISTÊNCIA DE DANO MORAL ADVINDO DE MERO DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS, ADEMAIS,QUE NECESSITAM SER COMPROVADOS E NÃO APENAS PRESUMIDOS,COMO NA HIPÓTESE EM APREÇO. AUSÊNCIA DEFERIMENTO A DIREITOS DA PERSONALIDADE. SENTENÇA REFORMA, NESTE PONTO. RECURSO PARCIALMENTE PROVIDO"(fl. 186, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 222/230, e-STJ).
+Nas razões do recurso especial (fls. 233/257, e-STJ), além da divergência interpretativa, arecorrente aponta violação dos arts. 373, II, 934, 935, 937, I, e1.022, I e II, do Código de Processo Civil de 2015.
+Sustenta, em síntese, nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração.
+Além disso, afirma que anegativaindevida de fornecimento de medicamento acarretadano moralindenizável. Afirma que a jurisprudência desta Corte Superior quanto ao tema é oposta à orientação adotada pelo Tribunal de origem.
+Oferecidas as contrarrazões, orecurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Com efeito, oargumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No caso, a sentença julgou procedente a demanda para determinar o fornecimento do medicamento pleiteado e condenar a ré ao pagamento deindenizaçãopordanos morais,arbitrados no valor de R$ 8.000,00 (oito mil reais).
+O Tribunal de origem concluiu pelo parcial provimento da apelação, ao fundamento de que "é firme na jurisprudência o entendimento de que o inadimplemento contratual seja advindo da indevida negativa de cobertura, seja decorrente de eventual cancelamento arbitrário do contrato não dá azo à indenização por danos morais, mas apenas pelos eventuais prejuízos materiais, desde que devidamente comprovados" (fl. 190, e-STJ), excluindo a condenação àindenizaçãopelosdanos morais.
+Verifica-se que a conclusão adotada pela Corte estadual destoa da jurisprudência do Superior Tribunal de Justiça, firmada no sentido de que, ante o reconhecimento de que houve a recusa indevida decoberturapelo plano de saúde, deve ser reconhecido o direito ao recebimento deindenizaçãopordanos morais,pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COMINDENIZAÇÃOPORDANOS MORAIS.PLANO DE SAÚDE. CIRURGIA. RECUSA DECOBERTURA.INEXISTÊNCIA DE MÉDICO COOPERADO APTO À APLICAÇÃO DA TÉCNICA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DEVER DECOBERTURA.CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.DANO MORALCARACTERIZADO NAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É vedado, no agravo interno, apreciar questões que não foram objeto de impugnação no recurso especial, sob pena de indevida inovação recursal.
+3. O acórdão recorrido está em conformidade com o entendimento desta Corte no sentido de que o plano de saúde pode estabelecer as doenças que terãocobertura,mas não pode limitar o tipo de tratamento a ser utilizado pelo paciente.
+4. A jurisprudência do STJ preleciona que, em regra, a recusa indevida pela operadora de plano de saúde decoberturamédico-assistencial geradano moral,porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+5. Modificar o entendimento exarado pelo acórdão recorrido no sentido de que inexiste odano moral,demanda o necessário revolvimento do acervo fático-probatório, o que se mostra inviável em recurso especial em respeito ao enunciado da Súmula nº 7 do STJ.
+6. Agravo interno não provido" (AgInt no REsp 1.777.588/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.ATENDIMENTO HOME CARE.NEGATIVA.ABUSIVIDADE. DOENÇA COBERTA PELO PLANO. ENTENDIMENTO EM HARMONIA COM O STJ.DANO MORAL.OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. VALOR DAINDENIZAÇÃO.RAZOABILIDADE NA FIXAÇÃO. SÚMULA 7/STJ.
+1. Descabida anegativadecoberturade procedimento indicado pelo médico como necessário para preservar a saúde e a vida do beneficiário do plano de saúde. Precedentes do STJ.
+2. A recusa indevida pela operadora do plano de saúde em autorizar acoberturade Home Care devidamente prescrito para o tratamento de doença coberta pelo plano, configuroudanos moraisindenizáveis, pois agravou a situação de aflição psicológica e de angústia no espírito da paciente de 83 (oitenta e três) anos de idade, uma vez que, ao ter negada o tratamento requerido que se revelava essencial à melhora de seu estado de saúde, já se encontrava em condição de dor, abalo e saúde debilitada.
+3. Valorindenizatórioestabelecido pelo Tribunal de origem que não se mostra excessivo a justificar sua reavaliação em recurso especial.
+4. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+5. Agravo Interno não provido" (AgInt no AREsp 1.450.491/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVADECOBERTURA.RECUSA INJUSTIFICADA.DANO MORAL.RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 e 7/STJ.DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015.
+2. A jurisprudência do Superior Tribunal de Justiça reconhece o direito ao recebimento deindenizaçãopordanos moraisoriundos da injusta recusa decoberturapor parte do plano de saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada.
+3. Na hipótese, reverter a conclusão do tribunal local para acolher a pretensão recursal demandaria a análise e a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, procedimentos inviáveis ante a natureza excepcional da via eleita, conforme enunciado das Súmulas nºs 5 e 7/STJ.
+4. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a"quanto pela alínea "c"do permissivo constitucional.
+5. Agravo interno não provido" (AgInt no AREsp 1.554.269/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/03/2020, DJe 26/03/2020 - grifou-se).
+Ante o exposto, dou parcial provimento ao recurso especialpara restabelecer a sentença quanto à condenação àindenizaçãopelosdanos morais.
+Publique-se.
+Intimem-se.
