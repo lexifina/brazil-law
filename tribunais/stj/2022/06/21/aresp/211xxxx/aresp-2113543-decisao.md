@@ -1,0 +1,44 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CARLOS FERREIRA DE SOUZA, contra decisão denegatória do seguimento de recurso especial, por sua vez manejado com fundamento no art. 105, III, "a" e "c", da Constituição da República, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE PROTESTO E DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E ANTECIPAÇÃO DE TUTELA. DEMANDA JULGADA PROCEDENTE. ANÁLISE CONJUNTA DOS APELOS. INSURGÊNCIA. ILEGITIMIDADE PASSIVA. ACOLHIDA. PRECEDENTE RESP 1.213.256/RS. ENDOSSO-TRANSLATIVO. AUSÊNCIA DE VÍCIO FORMAL NA EMISSÃO DA CÁRTULA. RESPONSABILIDADE DO ENDOSSATÁRIO. ATO ILÍCITO CONFIGURADO. PROTESTO DE TÍTULO PRESCRITO. DANOS MORAIS DEVIDOS. QUANTUM INDENIZATÓRIO MANTIDO. SENTENÇA REFORMADA. REDISTRIBUÍDOS OS ÔNUS DE SUCUMBÊNCIA. RECURSO DE APELAÇÃO1 CONHECIDO E PROVIDO. RECURSO DE APELAÇÃO2. CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 524-531)
+Em suas razões recursais a parte recorrente aponta, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 186, 264 e 927 do Código Civil e art. 14 do Código de Defesa do Consumidor, sustentando que a recorrida CIA. BRASILEIRA DE DISTRIBUIÇÃO é parte legítima para figurar no polo passivo da demanda, além de ser solidariamente responsável pelos danos advindos da realização indevida do protesto.
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 584-586), decisão contra a qual foi interposto o presente agravo (fls. 591-602).
+É o relatório. Decido.
+2. A irresignação não merece prosperar.
+Inicialmente, anoto que, consoante a jurisprudência do Superior Tribunal de Justiça, responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco. A propósito:
+DIREITO CIVIL E CAMBIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DUPLICATA DESPROVIDA DE CAUSA RECEBIDA POR ENDOSSO TRANSLATIVO. PROTESTO. RESPONSABILIDADE DO ENDOSSATÁRIO. 1. Para efeito do art. 543-C do CPC: O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente a causa para conferir lastro a emissão de duplicata, responde pelos danos causados diante de protesto indevido, ressalvado seu direito de regresso contra os endossantes e avalistas. 2. Recurso especial não provido.
+(Segunda Seção, REsp 1.213.256/RS, Rel. Ministro LUÍS FELIPE SALOMÃO, DJe de 14.11.2011)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMERCIAL. PROTESTO INDEVIDO DE TÍTULO DE CRÉDITO PROMOVIDO. DANO MORAL. ENDOSSATÁRIO QUE RECEBEU O TÍTULO POR ENDOSSO TRANSLATIVO. RESPONSABILIDADE. SÚMULA N. 475/STJ. 1. "Responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas" (Súmula n. 475/STJ). 2. Agravo interno a que se nega provimento. (Quarta Turma, AgInt no AREsp 361.248/SP, minha relatoria, DJe de 2.6.2017)
+No caso, a Corte estadual afastou a responsabilidade da pessoa jurídica cedente por constatar que a transferência do título se deu mediante endosso translativo, bem como reconheceu que a cártula era isenta de vícios formais. Veja-se:
+Pois bem, sobre o tema da responsabilidade pelos danos causados diante de protesto indevido, foi firmada a tese no julgamento do REsp 1.213.256/RS, segundo o qual, "Para efeito do art. 543-C do CPC: O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente a causa para conferir lastro a emissão de duplicata, responde pelos danos causados diante de protesto indevido, ressalvado seu direito de regresso contra os endossantes e avalistas".
+(..)
+Inclusive, foi firmada a Súmula 475 do STJ, vejamos:
+"Responde pelos danos decorrentes de protesto indevido o endossatário que recebe por endosso translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando ressalvado seu direito de regresso contra os endossantes e avalistas."
+Cumpre ressaltar que somente em caso de vício formal no título de crédito, seja pela inexistência de causa para lastrear a emissão, simulação, ou até mesmo emissão fria do título, poderia o endossante ser responsabilizado numa eventual ação regressiva.
+, a apelante Companhia Brasileira de Distribuição afirmou, em sua peça recursal que o protesto do título foi In casu efetuado pela corré CRAL Cobrança e Recuperação de Ativos Ltda., cujo título foi endossado na forma translativa, ou seja, transferiu-se ao endossatário as consequências do direito nele incorporado.
+Também é certo que o título de crédito foi emitido desprovido de qualquer vício; inclusive o autor/apelante2 somente alegou a inexigibilidade da cártula ante a prescrição.
+Desta feita, carece ao apelante a responsabilidade solidária do título endossado.
+(..)
+Assim, diante de tais considerações, tendo em vista que ficou comprovado que houve o endosso-translativo e ausente qualquer vício na emissão da cártula, a ré apelante Cia Brasileira de Distribuição é parte ilegítima para figurar no polo passivo da demanda.
+Como destacou o acórdão recorrido, houve a efetiva transferência (cessão) do crédito, de modo que o cessionário responde pela higidez do título e pelos danos causados, ressalvado o direito de regresso contra o cedente. Incide, no ponto, a Súmula 83 do STJ.
+3. Ademais, para a desconstituição da conclusão do acórdão recorrido, notadamente para se considerar inexistente o endosso translativo e a ausência de vício formal no título, seria necessário reexaminar o conjunto fático-probatório dos autos, procedimento que, em recurso especial, esbarra na Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DUPLICATA. ENDOSSO TRANSLATIVO. PROTESTO. CANCELAMENTO. DANO MORAL. VALOR. LEGITIMIDADE PASSIVA. SÚMULAS NºS 7 E 475/STJ.
+1. Tendo o acórdão de origem consignado que o recorrente recebeu a duplicata via endosso translativo, assume este a responsabilidade por eventual dano causado pelo protesto indevido do título, embora lhe seja assegurado o direito de regresso contra o endossante, aplicando-se à hipótese os entendimentos firmados nas Súmulas nºs 7 e 475/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 176.325/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2014, DJe 24/11/2014)
+AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PROTESTO INDEVIDO. ENDOSSO TRANSLATIVO. OCORRÊNCIA. DEVER DE INDENIZAR. REEXAME DE MATÉRIA DE FATO.
+1. A tese defendida no recurso especial demanda o reexame do conjunto fático e probatório dos autos, vedado pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 358.636/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/11/2014, DJe 24/11/2014)
+4. Outrossim, não se pode conhecer do recurso pela alínea c, uma vez que aplicada a Súmula 7/STJ quanto à alínea a, resta prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+Nesse sentido:
+ADMINISTRATIVO. LIMITAÇÃO AO EXERCÍCIO DO DIREITO DE PROPRIEDADE. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. DEVIDA PRESTAÇÃO JURISDICIONAL. ART. 524 DO CÓDIGO CIVIL DE 1916. DIREITO DE INDENIZAÇÃO DE ÁREA DECLARADA DE PRESERVAÇÃO PERMANENTE. IMPOSSIBILIDADE DE REEXAME DA DECISÃO A QUO POR ESTA CORTE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. (..)
+2. (..)
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Agravo regimental improvido. (AgRg no AREsp 16879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2012, DJe 27/04/2012)
+5. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
