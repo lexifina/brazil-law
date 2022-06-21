@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior já se manifestou no sentido de que a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar, como na hipótese.
+2. Considerada a real possibilidade de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JEFERSON HENRIQUE DE MOURA contra a decisão de fls. 422-425, em que neguei provimento ao recurso ordinário em habeas corpus, nos termos da seguinte ementa (fl. 422):
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA CUSTÓDIA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DESCABIMENTO. RECURSO DESPROVIDO."
+Extrai-se dos autos que Recorrente, juntamente com outro suspeito, foi preso em flagrante em 21/03/2022, sob a acusação de prática do crime de furto qualificado, com posterior conversão em prisão preventiva. Segunda a denúncia, "tentaram subtrair, para proveito comum, seis lâminas roçadeiras, uma bomba de óleo caminhonete, uma bomba d"água caminhonete, um registro d"água e fiação elétrica, pertencentes à vitima Júlio César Amaral" (fl. 123).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 56-61).
+Nas razões do writ, o ora Impetrante sustentou a inexistência de fundamentação idônea e dos requisitos autorizadores para a decretação da prisão preventiva, bem como defendeu a aplicação de medidas cautelares diversas da prisão.
+Requereu a liberdade provisória do Acusado, com ou sem imposição de medidas cautelares diversas da prisão.
+A decisão de fls. 422-425 negou provimento ao recurso.
+Neste agravo, a Defesa alega ausência de adequação, de necessidade e de proporcionalidade para o decreto de prisão preventiva, na medida em que "o crime imputado de furto qualificado é na forma tentada, sendo certo que, em caso de eventual condenação, o regime de cumprimento da pena não será o fechado, o que não justifica a prisão cautelar" (fl. 433), bem como salienta que o delito não foi perpetrado com grave ameaça ou violência.
+Reafirma que seria adequada a aplicação de medidas cautelares diversas da prisão.
+Requer a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior já se manifestou no sentido de que a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar, como na hipótese.
+2. Considerada a real possibilidade de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+No que diz respeito aos requisitos da prisão preventiva, o Juízo de primeira instância entendeu que (fl. 215; grifos diversos do original):
+"Quanto ao requisito necessidade da custódia cautelar, também está presente, quando nada para resguardo da ordem pública, pois o conduzido, apesar de tecnicamente primário, foi condenado recentemente na Comarca de Pará de Minas pela prática de crime de tráfico de drogas, está sendo processado na mesma Comarca como autor de crimes de lesões corporais, ameaça e injúria, figura como investigado nesta Comarca pela prática de crimes de desobediência e receptação, está sendo processado, também em Itaúna, como autor de outro crime de receptação, além de registrar diversas outras incidências em suas CAC"s, de modo a evidenciar perseverança nas práticas criminosas e autorizar a conclusão de que, se for solto, encontrará os mesmos estímulos para continuar delinquindo e provocando danos à sociedade.
+Registro que, de acordo com informações de sua FAC, o conduzido foi beneficiado, em pelo menos duas oportunidades recentes, com a liberdade provisória, mas ainda assim voltou a delinquir, de modo que a decretação de sua prisão preventiva é medida de rigor para conter a sua notória reiteração criminosa(..) (sic, fl. 87, ordem 02)"
+O Tribunal de origem, por sua vez, consignou o que segue (fl. 215-216):
+"Tal qual o juízo a quo, entendo que a segregação do paciente é necessária, por ora, para a garantia da ordem pública, vulnerabilizada pelo risco de reiteração delitiva. Isso porque, da leitura da CAC (fls. 76/78, ordem 02), verifico que o paciente é investigado pelas supostas práticas dos crimes de desobediência e de receptação, bem como possuiu um processo em andamento pela prática, em tese, de outro crime de receptação. Constato, ainda, que o paciente foi beneficiado com a liberdade provisória em 16/12/2021, poucos meses antes dos fatos ora analisados.
+Essas informações revelam, portanto, que as medidas cautelares diversas da prisão não são suficientes para garantir a ordem pública diante do risco de reiteração delitiva do segregado.
+Não há que se falar, pois, em inidoneidade de fundamentação, uma vez que a jurisprudência do STJ considera o risco de reiteração delitiva como fundamentos aptos a amparar a decretação da custódia cautelar para garantia da ordem pública  .. ".
+Ao contrário do que alega a Defesa, constato que a prisão é adequada, necessária e proporcional, em razão do claro risco de reiteração delitiva, na medida que o Recorrente obteve liberdade provisória em 16/12/2021 e já cometeu, em tese, novo delito.
+Reafirmo que a decretação da prisão preventiva está suficientemente fundamentada, uma vez que o Acusado ostenta ações penais em andamento, por "supostas práticas dos crimes de desobediência e de receptação, bem como possuiu um processo em andamento pela prática, em tese, de outro crime de receptação" (fl. 215).
+A propósito, destaco os seguintes precedentes, mutatis mutandis:
+" ..
+4. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+5. Na presente hipótese, o decreto prisional evidenciou que o paciente estaria, à época dos fatos em tela, respondendo a outras duas ações criminais, evidenciando sua reiterada atividade delitiva. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública." (HC 699.913/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/04/2022, DJe 02/05/2022; sem grifos no original.)
+" ..
+III - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de que " ..  a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ." (RHC n. 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019)." (RHC 120.372/MG, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 11/02/2020, DJe 28/02/2020.)
+Por fim, reitero que, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta e o risco de reiteração delitiva, a presença dos pressupostos da prisão preventiva, entendo não ser possível a aplicação das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. Exemplificativamente: HC 550.688/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020; e HC 558.099/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 05/03/2020.
+Desse modo, na ausência de argumentos relevantes que infirmem as razões consideradas no julgado ora agravado, entendo que deve ser mantida a decisão recorrida.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
