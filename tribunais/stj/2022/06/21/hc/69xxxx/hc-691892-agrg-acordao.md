@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. FALTA GRAVE. PERÍODO DE 12 (DOZE) MESES ANTERIORES AO DECRETO. HOMOLOGAÇÃO POSTERIOR. IRRELEVÂNCIA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no REsp n. 1.364.192/RS, processado sob o regime dos recursos repetitivos, firmou o entendimento de que "não é interrompido automaticamente o prazo pela falta grave no que diz respeito à comutação de pena ou indulto, mas a sua concessão deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos"
+2. Diante dessa situação, não há constrangimento ilegal no indeferimento do benefício, pois a falta disciplinar foi praticada no prazo previsto no art. 5.º do Decreto n. 8.615/2015. Além disso, nos termos da jurisprudência do Superior Tribunal de Justiça, é prescindível a respectiva homologação no mesmo interregno, ou seja, pode ocorrer antes ou depois do ato presidencial.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por VANDERLEI DOS SANTOS contra a decisão de fls. 260-263, em que deneguei a ordem de habeas corpus nos termos da seguinte ementa (fl. 260):
+"HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. FALTA GRAVE. PERÍODO DE 12 (DOZE) MESES ANTERIORES AO DECRETO. HOMOLOGAÇÃO POSTERIOR. IRRELEVÂNCIA. AUSÊNCIA DO REQUISITO SUBJETIVO. ORDEM DE HABEAS CORPUS DENEGADA."
+Alega o Agravante, em síntese, que " o  texto legal é explícito no sentido de que não basta a prática de falta grave no período, sendo indispensável também a homologação e aplicação de sanção no referido interregno, de modo que a apuração e homologação tardia da falta grave não constitui óbice à concessão do indulto" (fls. 8-9).
+Pede a reconsideração da decisão agravada ou a submissão do feito ao Órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. FALTA GRAVE. PERÍODO DE 12 (DOZE) MESES ANTERIORES AO DECRETO. HOMOLOGAÇÃO POSTERIOR. IRRELEVÂNCIA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no REsp n. 1.364.192/RS, processado sob o regime dos recursos repetitivos, firmou o entendimento de que "não é interrompido automaticamente o prazo pela falta grave no que diz respeito à comutação de pena ou indulto, mas a sua concessão deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos"
+2. Diante dessa situação, não há constrangimento ilegal no indeferimento do benefício, pois a falta disciplinar foi praticada no prazo previsto no art. 5.º do Decreto n. 8.615/2015. Além disso, nos termos da jurisprudência do Superior Tribunal de Justiça, é prescindível a respectiva homologação no mesmo interregno, ou seja, pode ocorrer antes ou depois do ato presidencial.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não merece prosperar.
+Por oportuno, transcrevo o art. 5.º, caput, do Decreto Presidencial n. 8.615/2015:
+"A declaração do indulto e da comutação de penas previsto. neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei de Execução Penal, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2015."
+Como se vê, o referido dispositivo expressamente condicionou a declaração do indulto à inexistência de falta disciplinar de natureza grave no período de doze meses anteriores à edição do Decreto.
+Por outro lado, a Terceira Seção do Superior Tribunal de Justiça, no REsp n. 1.364.192/RS, processado sob o regime dos recursos repetitivos, firmou o entendimento de que "não é interrompido automaticamente o prazo pela falta grave no que diz respeito à comutação de pena ou indulto, mas a sua concessão deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos". Reproduzo a emenda do julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. EXECUÇÃO. FALTA GRAVE. PROGRESSÃO DE REGIME. INTERRUPÇÃO. PRAZO. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE EFEITO INTERRUPTIVO. COMUTAÇÃO E INDULTO. REQUISITOS. OBSERVÂNCIA. DECRETO PRESIDENCIAL.
+1. A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo.
+2. Em se tratando de livramento condicional, não ocorre a interrupção do prazo pela prática de falta grave. Aplicação da Súmula 441/STJ.
+3. Também não é interrompido automaticamente o prazo pela falta grave no que diz respeito à comutação de pena ou indulto, mas a sua concessão deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos.
+4. Recurso especial parcialmente provido para, em razão da prática de falta grave, considerar interrompido o prazo tão somente para a progressão de regime." (REsp n. 1.364.192/RS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 12/02/2014, DJe 17/09/2014.)
+Estabelecidas essas premissas - inexistência de falta grave nos últimos doze meses anteriores à edição do Decreto e a necessidade de observância dos requisitos nele previstos -, constato que, na espécie, o pleito de indulto foi negado, porque o Apenado, enquanto cumpria pena em regime mais brando, foi preso em flagrante em razão da suposta prática de novo crime doloso (tráfico de drogas) praticado em 02/12/2015, que resultou na Ação Penal n. 0040948-75.2015.8.16.0021 (fl. 191). O reconhecimento da falta grave pelo Juízo ocorreu em 28/03/2016 (fl. 223).
+Diante dessa situação, o indeferimento do benefício está a salvo de censura, pois a falta disciplinar foi praticada no prazo previsto no art. 5.º do Decreto n. 8.615/2015. Além disso, nos termos da jurisprudência do Superior Tribunal de Justiça, é prescindível a respectiva homologação no mesmo interregno, ou seja, pode ocorrer antes ou depois do ato presidencial.
+Ilustrativamente, cito os seguintes julgados:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO DE PENA. DECRETO 8.615/2015. PRÁTICA DE FALTA GRAVE NOS 12 (DOZE) MESES ANTERIORES À PUBLICAÇÃO DA NORMA.HOMOLOGAÇÃO POSTERIOR. AUSÊNCIA DE REQUISITO SUBJETIVO. POSSIBILIDADE. RECURSO PROVIDO.
+1. Nos termos da jurisprudência vigente nesta Corte Superior de Justiça, o Decreto Presidencial, ao estabelecer a exigência de ausência de prática de conduta indisciplinar nos 12 (doze) meses anteriores à publicação da norma, não condicionou sua incidência à existência de reconhecimento judicial.
+2. A Terceira Seção deste Superior Tribunal de Justiça, por meio do julgamento do ERESP n. 1.549.544/RS, unificou o posicionamento no sentido de considerar as faltas graves praticadas no período estabelecido pelos Decretos Presidenciais como impedimentos para concessão de indulto ou comutação de penas, mesmo que sua homologação ocorra após a publicação da norma. Precedentes
+3. In casu, tendo o condenado praticado falta grave nos 12 (doze) meses anteriores à publicação do Decreto 8.615/2015, resta não implementado o requisito subjetivo exigido pela norma, mesmo que o reconhecimento judicial só tenha ocorrido após o referido período.
+4. Recurso Provido." (REsp 1.658.963/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 31/08/2018; sem grifos no original.) "
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 8.615/2015. FALTA GRAVE. HOMOLOGAÇÃO POSTERIOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 1.549.544/RS, da relatoria do Ministro Felix Fischer, julgado em 14/9/2013, sufragou, por unanimidade, o mesmo entendimento do acórdão recorrido de que o prazo de doze meses a que se refere o Decreto Presidencial n. 8.615/2015 relaciona-se apenas ao cometimento da falta grave, e não à sua homologação judicial.
+2. Agravo regimental não provido." (HC 387.726/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 16/03/2017; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
