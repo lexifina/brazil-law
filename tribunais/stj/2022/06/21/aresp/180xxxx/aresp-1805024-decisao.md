@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por Waltter Thame de Oliveiracontra a decisão do Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido no Agravo de Execução Penal n. 0002031-69.2020.8.26.0041 (fls. 92/99):
+AGRAVO EM EXECUÇÃO PENAL - Superveniência de nova condenação - Unificação das penas - Incompatibilidade no cumprimento da pena restritiva de direitos e da privativa de liberdade, mormente em regime fechado - Conversão da pena restritiva de direitos é medida de rigor, em face do que dispõe o art. 44, § 5º, do CP - Agravo desprovido.
+No recurso especial, o agravante indica a violação dos arts. 44, § 5º, e 76, ambos do Código Penal, e181, § 1º, e, da Lei de Execução Penal, requerendo a reforma da decisão que determinou a reconversão da pena restritiva de direitos em privativa de liberdade (fl. 117).
+Apresentadas contrarrazões (fls. 122/131), o Tribunal de origem não admitiu o recurso com suporte na Súmula 283/STF (fls. 134/135).
+Contra essa decisão, a defesa interpõe o presente agravo (fls. 141/145).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 167/169).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que prospera a tese apresentada pelo agravante.
+Com efeito, não se desconhece o entendimento desta Corte Superior de que, na hipótese de superveniência de nova condenação, deve-se admitir a compatibilidade no cumprimento de penas privativas de liberdade, quando fixadas em regime aberto, com penas restritivas de direitos.
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PACIENTE QUE CUMPRIA PENA EM REGIME FECHADO. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO A PENAS RESTRITIVAS DE DIREITOS. UNIFICAÇÃO DE PENAS. SANÇÃO RESTRITIVA DE DIREITOS CONVERTIDA EM PRIVATIVA DE LIBERDADE. POSSIBILIDADE. FLAGRANTE ILEGALIDADE INEXISTENTE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Esta Corte Superior firmou entendimento no sentido de que deve se admitir a manutenção da pena restritiva de direitos, no caso de superveniência de nova condenação, desde que haja compatibilidade no cumprimento de ambas, ou seja, desde que a nova pena seja também restritiva de direitos, ou, se privativa de liberdade, que o regime fixado seja o aberto, com possibilidade de cumprimento da pena substitutiva. Entretanto, no caso dos autos, a pena restritiva de direitos foi fixada em condenação posterior.
+3. O paciente já se encontrava cumprindo pena de reclusão, em regime fechado, quando sobreveio a condenação, na qual se substituiu a pena privativa de liberdade por restritiva de direitos. Portanto, não se pode falar em descumprimento nem em condenação superveniente incompatível com o cumprimento da pena restritiva.
+4. Correta a decisão impugnada que, após a unificação, determinou a conversão da pena restritiva de direitos em privativa de liberdade, nos termos do que disciplina o art. 111, parágrafo único, da Lei de Execuções Penais.
+5. Habeas corpus não conhecido.
+(HC n. 323.430/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/2/2016 - grifo nosso)
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. CUMPRIMENTO SIMULTÂNEO ENTRE PENA RESTRITIVA DE DIREITOS E PENA PRIVATIVA DE LIBERDADE EM REGIME ABERTO. COMPATIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO PROVIDO. ORDEM CONCEDIDA. LIMINAR CONFIRMADA.
+In casu, foram impostas ao recorrente uma pena privativa de liberdade em regime aberto e duas reprimendas restritivas de direitos - prestação de serviços e pagamento de pecúnia. Não houve imposição de pena a ser cumprida em regime semiaberto ou fechado.
+A jurisprudência desta Corte Superior orienta no sentido da compatibilidade do cumprimento simultâneo da pena privativa de liberdade em regime aberto com as reprimendas restritivas de direitos, sendo indevida a conversão da sanção alternativa em corporal. Precedentes.
+Recurso em habeas corpus provido para, confirmando a liminar deferida, anular a decisão de fls. 23/27 e determinar ao Juízo das Execuções que refaça o cálculo das penas do recorrente, autorizando o cumprimento simultâneo das penas restritivas de direitos com a reprimenda corporal a ser cumprida em regime aberto.
+(RHC n. 65.613/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 23/9/2016 - grifo nosso).
+Todavia, o caso apresentadoamolda-se à nova jurisprudência do Superior Tribunal de Justiça, no sentido de que, sendo a condenação superveniente a reprimendas restritivas de direitos, ainda que o reeducando esteja em cumprimento de pena privativa de liberdade em regime fechado ou semiaberto, évedada a unificação automática, com a possibilidade da suspensão das penas alternativas.
+A reforçar, assim manifestou-se a Terceira Seção desta Corte Superior, ao firmar a seguinte tese: "Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente" (REsp - representativo da controvérsia - n. 1.918.287/MG, julgado em 27/4/2022 - grifo nosso).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, cassando a decisão que determinou a conversão da pena restritiva de direitos em privativa de liberdade.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 181, § 1º, E, DA LEP; 44, § 5º, E 76, AMBOS DO CP. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. CONDENAÇÃO A PENAS RESTRITIVAS DE DIREITOS. SUPERVENIÊNCIA. VEDADA A UNIFICAÇÃO AUTOMÁTICA, POSSIBILIDADE DE SUSPENSÃO DAS PENAS ALTERNATIVAS. NOVA JURISPRUDÊNCIA DA 3ª SEÇÃO DESTA CORTE SUPERIOR. RESP REPRESENTATIVO DA CONTROVÉRSIA N. 1.918.287/MG, JULGADO EM 27/4/2022.
+Agravo conhecido para dar provimento ao recurso especial.
