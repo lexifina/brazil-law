@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado por MARCELO ALVES BARBOSA E OUTRA por meio do qual defendem a impossibilidade de baixa do recurso ao Tribunal de origem e sobrestamento do feito, ao argumento de que o presente caso não se enquadra na discussão do Tema repetitivo n. 1.137.
+É o relatório.
+Decido.
+Conforme determinação prevista no art. 256-L do Regimento Interno do STJ, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e este Tribunal Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, na Corte a quo, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação.
+Com efeito, nos termos do entendimento desta Corte, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor adevoluçãodos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Nesse sentido: AgInt no AgInt no AREsp n. 1.647.696/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/3/2022, DJe de 30/3/2022.
+Ressalte-se que essadecisão éirrecorrível,tendo em vista que se trata de ato desprovido de conteúdo decisório e que não geraprejuízoàs partes. Outrossim, eventual argumentação de distinguish também pode ser formulada no Juízo a quo.Nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA EM FASE DECUMPRIMENTODESENTENÇA.EXPURGOSINFLACIONÁRIOS.DEVOLUÇÃODOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE PERMANEÇASUSPENSO O RECURSO ATÉ A PUBLICAÇÃO DOACÓRDÃO PARADIGMA. ATO DE SOBRESTAMENTO DESTITUÍDODE CARÁTERDECISÓRIO.IRRECORRIBILIDADE. INEXISTÊNCIADEPREJUÍZO.
+1. Ação civil pública em fase de cumprimento de sentença em razão de pagamento de diferenças remuneratórias relativas a depósitos mantidos em cadernetas de poupança.
+2. Conforme a jurisprudência do STJ, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor adevoluçãodos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão éirrecorrível,por não gerar nenhumprejuízopara a parte.
+Eventual argumentação de distinguish também pode ser formulada no juízo a quo. Precedentes.
+3. Não se deve conhecer do recurso de agravo interno impugnando a decisão quedeterminouadevoluçãodos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhumprejuízoàs partes, motivo pelo qual éirrecorrível.Precedentes.
+4. Agravo interno nos embargos de declaração no agravo em recurso especial não conhecido.
+(AgInt nos EDcl no AREsp n. 1.731.342/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. TEMA COM REPERCUSSÃO GERAL RECONHECIDA. ECONOMIA PROCESSUAL. SOBRESTAMENTO.
+1. O reconhecimento de repercussão geral pelo Supremo Tribunal Federal não impõe o imediato sobrestamento dos processos em andamento no Superior Tribunal de Justiça.
+2. A jurisprudência do STJ entende que, por medida de economia processual e para evitar decisões conflitantes, o reconhecimento da repercussão geral da matéria constitucional justifica o sobrestamento dos Recursos Especiais que tratem da mesma questão jurídica a ser definida pelo STF (artigos 543-B do Código de Processo Civil de 1973 e 1.036 do Código de Processo Civil vigente).
+3. "O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, por isso se trata de provimento irrecorrível" (RCD no REsp 1506883/DF, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 4.9.2018, DJe 10.9.2018).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 388.986/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/2/2019, DJe de 19/2/2019.)
+Ante o exposto,INDEFIROo pedido, confirmando, portanto,o comando exarado na decisão de fls. 323/324 (e-STJ), quedeterminouadevoluçãodos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
