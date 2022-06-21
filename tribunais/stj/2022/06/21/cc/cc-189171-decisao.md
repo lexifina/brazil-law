@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 3ª Vara Federal da Subseção Judiciária de Caxias do Sul/RS e o Juízo de Direito da 2ª Vara Cível Especializada em Fazenda Pública de Caxias do Sul/RS, extraído dos autos de ação de rito ordinário, com pedido de tutela antecipada,ajuizada por Salete Maria Adamicontra o Município de Caxias do Sul/RS e o Estado do Rio Grande do Sul, objetivando o fornecimento dos seguintes medicamentos: Sertralina 50 mg;Carbonato de cálcio 500 mg  colecalciferol (vitamina D) 400 UL; Prolia (denosumabe) 60 mg, 1 ampola subcutânea a cada 6 meses; Depura (vitamina D oral), 20 ml, 5 gotas via oral 1 vez ao dia; Lorax (lorezapam) 2 mg; Buscopan composto, para o tratamento de osteoporose (CID M81).
+Diante do requerimento da parte autora, de incluir a União no polo passivo da lide, a Justiça Estadual declinou da sua competência e determinou fossem os autos encaminhados à Justiça Federal (e-STJ fl. 373).
+O Juízo Federal, por sua vez, entendeu que, no caso de postulação de medicamento ou tratamento de saúde registrado na ANVISA, mas não padronizado pelo SUS, compete à parte autora indicar em face de qual pessoa jurídica de direito público quer litigar, não sendo o caso de litisconsórcio passivo necessário entre Município, Estado e a União. Assim, afirmou a incompetência da Justiça Federal e suscitou o presente conflito negativo de competência (e-STJ fls. 391-394).
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo oJuízo de Direito da 2ª Vara Cível Especializada em Fazenda Pública de Caxias do Sul/RS, o suscitado, a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
