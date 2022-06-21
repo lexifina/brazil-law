@@ -1,0 +1,50 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por SIMONE MICHELETTO LAURINO, TARKUS PROMOCOES, MARKETING, E EVENTOS LTDA, contra decisão que deu provimento ao recurso especial interposto pela parte embargada, para julgar procedentes os embargos de terceiro.
+Nas razões dos aclaratórios (fls. 497-521), a parte embargante aponta a existência deomissão no julgado acerca da justiça gratuitaconcedida àfl.344.
+Além disso, requerque "seja acolhido os presentes embargos de declaração para determinar a nulidade da decisão pela perda do objeto, e em caso de vencida a devolução do prazo para a apresentação da contra minuta do agravo, se vencida o suprimento da omissão quanto a justiça gratuita da embargante e a redução dos honorários advocatícios que deverão ser arbitrados em R$ 2.000,00."
+Contraminuta aos embargos de declaração apresentada pela parte embargada às fls. 527-613.
+É o relatório.
+DECIDO.
+2. De fato, observo que à fl. 344, o juízo de piso concedeuos benefícios da Justiça Gratuita à embargada, ora recorrente, devendo ser feita tal ressalva na decisão embargada.
+Quanto ao mais, não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se desde logo que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração, enumerados no art. 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindoomissão a ser sanada.
+Confira, por oportuno, excerto do referido julgado:
+2. O recurso especial pretende reconhecer a impossibilidade de seguradora, que não foi denunciada da lide no processo de conhecimento, movido por vítima de acidente em face de segurado, sofrer constrição judicial de seu patrimônio na fase de cumprimento de sentença.
+O acórdão recorrido assim dispôs a respeito da controvérsia (fls. 419-421):
+Nesse momento o que é obrigatório avaliar é se a seguradora pode ser responsável pelo que está sendo exigido por Simone, porque, afinal, o bloqueio da penhora atingirá parte de seu patrimônio para quitar dívida do segurado. O Tribunal analisa os fatos e confere primazia ao fato de não ter o segurado (Tarkus) denunciado a recorrente na lide, porque isso altera profundamente a tese de prescrição. A prescrição que a recorrente afirma ter acontecido (cita o art. 206, § 1º, II, "a", do CC) não foi produzida porque não corre prescrição se o fato prescricional não estiver constituído (princípio da actio nata).
+Ora, se a condenação da Tarkus foi transformada em definitiva no mês passado (outubro de 2020) não correu o prazo para que ela acionasse o seguro que lhe protege contra danos de sua atividade, o que significa que o fundo econômico (valor da apólice correspondente ao limite segurado) é algo disponível para o segurado e para as vítimas, o que confirma a legitimidade da penhora.
+É verdade que o segurador tem direito de questionar tudo o que diz respeito ao conceito de ilicitude (culpa ou dever objetivo) do segurado, tendo, inclusive, poder para intervir na ação em que a vítima reclama indenização. Não foi o que sucedeu e, agora, o que se permite é que a seguradora exerça esses direitos diante, evidentemente, da força da coisa julgada formada sobre o direito da recorrida de receber as indenizações e que ingresse com as ações adequadas contra o segurado, caso sinta que foi prejudicada pela falta de comunicação que não lhe permitiu integrar a lide. O que não é jurídico trabalhar é contra penhora (e talvez possível excussão do numerário da apólice depositado em ponto de espera de reclamação) porque não participou do processo. Isso não diz respeito a credora, que, com razão, está baseando sua pretensão em título judicial escorreito.
+A manutenção da penhora produz um efeito jurídico magnifico para as vicissitudes do seguro não acionado opportuno tempore pelo segurado. O nosso sistema ainda claudica (há uma incerteza e uma insegurança) sobre a possibilidade de a vítima pleitear a indenização prevista no seguro diretamente da seguradora.
+O jurista português J.C. MOITINHO DE ALMEIDA e que se tornou, com mérito, referência doutrinária em temas de seguro, cita em seu livro que a proibição da ação direta na Alemanha faz com que as vítimas "penhorar os direitos do segurador contra a segurada" (Contrato de seguro Estudos, Coimbra Editora, 2009, p. 26).
+Exatamente o que ocorreu aqui. O decisum preserva o direito da pessoa com razão e deve ser mantido.
+ ..
+Por fim, a questão do art. 787, § 2º, do CC. A recorrente afirma que a revelia da Tarkus e a falta de comunicação da demanda são faltas graves que ensejam a extinção do contrato de seguro, o que significa que o segurado perdeu o direito de receber as indenizações dos sinistros cobertos. Os embargos de terceiro que a seguradora maneja para excluir seu patrimônio (indenização ao segurado) está restrito ao conceito penhorabilidade e, até prova em contrário, o direito do seguro continua intocável. Não existe sentença judicial declarando que o segurado perdeu o direito. E diante do contexto, a solução adequada ou proporcional aos direitos, é a da preservação do seguro em todos os seus capítulos, excluindo a tese de que o direito foi resolvido por culpa do segurado, para que a obrigação se cumpra em relação a vítima do sinistro coberto, com a ressalva de a seguradora exigir do segurado, em ação de regresso, o reembolso. Essa é a decisão razoável porque vai permitir que em processo adequado, com cognição específica, possa segurado e seguradora resolverem seus litígios internos, sem que isso afete terceiros com expectativas legítimas (caso da recorrida).
+A jurisprudência quanto ao tema traçou entendimento de que é possível o ajuizamento de execução de sentença diretamente contra a seguradora que foi denunciada da lide no processo de conhecimento. Isso decorre do fato de que a denunciada ingressa no processo principal como assistente litisconsorcial, podendo exercer a ampla defesa, e, por isso mesmo, a coisa julgada também opera-se perante esta. Com efeito, o título judicial que emerge da sentença proferida na ação primária tem como legitimados o réu e o litisdenunciado, podendo o autor, portanto, executar o título em face de qualquer um deles.
+Nesse sentido, é a farta jurisprudência desta Corte:
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS. DENUNCIAÇÃO DA LIDE DA SEGURADORA. ACEITAÇÃO DA DENUNCIAÇÃO E CONTESTAÇÃO DO MÉRITO. CONDENAÇÃO DIRETA E SOLIDÁRIA DA SEGURADORA. CABIMENTO. PRECEDENTES.
+Em demanda onde se busca a indenização de danos materiais, aceitando o litisdenunciado a denunciação feita pelo réu, inclusive contestando o mérito da causa, exsurge a figura do litisconsórcio anômalo, prosseguindo o processo entre o autor de um lado e, de outro, como litisconsortes, o denunciado e o denunciante, que poderão vir a ser condenados, direta e solidariamente, ao pagamento da indenização. Esta, nos termos da jurisprudência uníssona deste Tribunal, é a interpretação a ser dada ao preceito contido no artigo 75, inciso I, do Código de Processo Civil.
+Recurso especial provido.
+(REsp 686.762/RS, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 29/11/2006, DJ 18/12/2006 p. 368);
+___________________________________
+SEGURO. Acidente de veículo. Insolvência do causador do dano.
+Cobrança contra sua seguradora. Legitimidade.
+Insolvente o causador do dano, o crédito do lesado reconhecido em sentença pode ser cobrado diretamente da sua seguradora, a quem fora denunciada a lide, no limite do contrato. Não é requisito para a execução do contrato de seguro para cobertura de danos resultantes de acidente de trânsito o prévio pagamento por parte do segurado, quando ficar demonstrada essa impossibilidade pela insolvência do devedor.
+Recurso não conhecido.
+(REsp 397.229/MG, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 02/05/2002, DJ 12/08/2002 p. 220);
+_________________________________
+Porém, tal não ocorre no caso dos autos, uma vez que a seguradora não participou da fase de conhecimento, de sorte que o título judicial então constituído, por óbvio, não pode lhe atingir.
+A jurisprudência do STJ admite tal providência apenas na fase de execução, se a seguradora tiver sido denunciada, dando-lhe a oportunidade de exercício da ampla defesa, de questionar a culpa do segurado no sinistro, bem como a cobertura do contrato de seguro.
+Em sentido análogo, confira-se o precedente:
+CIVIL. CONTRATO DE SEGURO. AÇÃO DIRETA MOVIDA POR VÍTIMA CONTRA A SEGURADORA SEM A PRESENÇA DO SEGURADO NA LIDE. IMPOSSIBILIDADE.
+I. Diversamente do DPVAT, o seguro voluntário é contratado em favor do segurado, não de terceiro, de sorte que sem a sua presença concomitante no pólo passivo da lide, não se afigura possível a demanda intentada diretamente pela vítima contra a seguradora.
+II. A condenação da seguradora somente surgirá se comprovado que o segurado agiu com culpa ou dolo no acidente, daí a necessidade de integração do contratante, sob pena, inclusive, de cerceamento de defesa.
+III. Recurso especial não conhecido.
+(REsp 256.424/SE, Rel. Ministro FERNANDO GONÇALVES, Rel. p/ Acórdão Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 29/11/2005, DJ 07/08/2006 p. 225).
+_________________________________
+Mostra-se descabida, portanto, a ordem para a seguradora depositar em juízo a verba relativa a eventual ressarcimento do segurado, porquanto não há título judicial exeqüível contra aquela.
+3. Ante o exposto, conheço do agravo e dou provimento ao recurso especial, para julgar procedentes os embargos de terceiro.
+Condeno o embargado ao pagamento das custas processuais e honorários advocatícios, que arbitro em 15% do valor da causa atualizado.
+Publique-se. Intimem-se.
+3. Ante o exposto, acolho osembargos de declaração, apenas para que seja observada aconcessão da gratuidade da justiça deferida em favor da embargada à fl. 344, mantendo, no mais, a decisão recorrida de fls. 492-495.
+Publique-se. Intimem-se.
