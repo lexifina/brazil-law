@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DO NASCIMENTOcontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. SENTENÇA DE IMPROCEDÊNCIA. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO.PLEITO DE REFORMA PARA QUE SEJARECONHECIDA A EXTINÇÃO E POSSIBILIDADE DE ALIENAÇÃO. ACOLHIMENTO. COISA COMUM E INDIVISÍVEL RECEBIDO POR HERANÇA, EM RELAÇÃO À QUAL NÃO HÁ CONSENSO ENTRE OS CONDÔMINOS QUANTO À INTENÇÃO DE DISSOLUÇÃO DA COPROPRIEDADE. PRESENÇA DOS REQUISITOS DO ART. 1.322 DO CÓDIGO CIVIL. DIREITO POTESTATIVO QUE NÃO GUARDA RELAÇÃO COM CRITÉRIOS DE CONVENIÊNCIA OU INTERESSE DE QUALQUER DOS CONDÔMINOS. REFORMA DA SENTENÇA PARA DECLARAR EXTINTO O CONDOMÍNIO. TODAVIA, RESGUARDADO O DIREITO DA RÉ EM SER RESSARCIDA PELAS BENFEITORIAS REALIZADAS NO IMÓVEL, A SEREM VERIFICADA SEM CUMPRIMENTO DE SENTENÇA. ÔNUS SUCUMBENCIAIS READEQUADOS. RECURSO CONHECIDO E PROVIDO. VISTOS, relatados e discutidos estes autos de Apelação Cível nº0007059-28.2017.8.16.0194"(e-STJ fl. 195).
+No recurso especial, arecorrente apontaviolação dos artigos 10, 2º,3º, 37, 43, 74, § 1º, 76,77 e 79, § 4º, da Leinº 10.741/2003. Sustenta, em síntese, que é assegurado ao idoso o direito à moradia.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Verifica-se que osdispositivos legais tido por violadosnão foramdebatidos pelo Tribunal de origem, tampouco houve interposição de embargos de declaração interpostos, razão pela qual incide na espécie a Súmula nº 282 do Supremo Tribunal Federal, aplicada por analogia.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. MIGRAÇÃO. 1. ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. 2. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. 3. MANUTENÇÃO DO BENEFICIÁRIO. COISA JULGADA. PLANO COLETIVO EXTINTO. DESCABIMENTO. PRECEDENTE. 4. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 5. AGRAVO INTERNO IMPROVIDO.
+1. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, por analogia, a Súmula n. 282/STF bem como a Súmula 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+3. De fato, o entendimento proferido pelo Tribunal de origem se deu em sintonia com a jurisprudência desta Corte Superior, a qual se firmou no sentido da impossibilidade de manutenção do usuário em plano de saúde extinto, o que atrai a incidência da Súmula 83/STJ, aplicável para ambas as alíneas do permissivo constitucional.
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno improvido"
+(AgInt no REsp 1.963.535/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2022, DJe 21/2/2022)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (dozepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
