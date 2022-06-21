@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE CARLOS FRANCISCO MADUREIRO, com fundamento no art. 105, inciso III, alíneasae c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono Agravo em Execução n.0003338-96.2021.8.26.0502.
+Consta dos autos que o Juízo de primeiro grau, verificando que, na espécie, não houve reincidência específica em crime hediondo,deferiu o pedido da Defesa para retificação do cálculo do lapso para a progressão de regime prisional, passando a aplicar o percentual de 40% (fls. 15-18).
+Irresignada a Acusação interpôs agravo em recurso especial, ao qual a Corte de origem deu provimento para cassar a decisão de primeiro grau (fls. 45-50).
+Sustenta a Defesa, nas razões do apelo nobre, além da existência de dissídio pretoriano, contrariedade ao art. 112, inciso V, da Lei de Execução Penal, com a redação dada pela Lei n. 13.964/2019.
+Pondera quedeve ser aplicado percentual de 40% (quarenta por cento) para a pretendida progressão de regime, tendo em vista não existir, na hipótese dos autos, reincidência específica em crime hediondo.
+Foram apresentadas contrarrazões (fls. 105-110).
+O Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo determinou o retorno dos autos ao órgão julgador para, querendo, exercer juízo de retratação (fl. 113).
+A 8.ª Câmara de Direito Criminal do Tribunal a quo manteve as conclusões do acórdão recorrido (fls. 118-124).
+O recurso especial foi parcialmente admitido (fls. 206-207). Foi interposto agravo (fls. 132-145).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento e provimento do apelo nobre (fls. 227-232).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 49-50):
+" .. considerando o entendimento consolidado por esta C. 8ª Câmara Criminal, no sentido de que, em atenção aos princípios da segurança jurídica, da isonomia e da proporcionalidade, a Lei nº 13.964/2019 deve ser interpretada de forma sistemática, já que visa recrudescer a legislação penal e processual penal, de forma que não podem ser equiparados, para fins de progressão de regime, o agente primário e o agente reincidente, independentemente da reincidência ser genérica ou específica em crime de natureza hedionda ou equiparada à hedionda, deixo de adotar o posicionamento contrário, para cassar a decisão que determinou a retificação do cálculo de penas, a fim de que seja mantido como requisito objetivo para a progressão deregime o cumprimento de, ao menos, 60% da pena, uma vez que se trata de condenado por crime equiparado à hediondo, reincidente."
+Com efeito, acerca da fração necessária para a progressão de regime dos condenados por crimes hediondos, esta Corte Superior possuía entendimento de que a interpretação cabívelpara o art. 2.º, § 2.º,da Lei n. 8.072/1990 (redação dada pela Lei n. 11.464, de 28/03/2007) era a de que, no caso de condenação por crime hediondo ou equiparado, será necessário, para a progressão de regime prisional, o cumprimento de 2/5 (dois quintos) da pena se o apenado fosse primário, e de 3/5 (três quintos) do total da pena, se reincidente, sendo irrelevante se a reincidência fosse específica ou não.
+Ilustrativamente:
+" ..
+1. A jurisprudência desta Corte firmou-se no sentido de que a Lei dos Crimes Hediondos não faz distinção entre a reincidência comum ou específica ao determinar a fração de 3/5 como lapso temporal para a progressão de regime, de modo que, unificadas as penas e constatada a reincidência, qualquer que seja ela (específica ou comum), para fins de progressão do regime, deverá ser aplicada a fração de 3/5 em relação aos crimes hediondos.
+2. Agravo regimental desprovido."(AgRg no REsp 1.780.929/RO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/08/2019, DJe 29/08/2019.)
+Com a entrada em vigor da Lei n. 13.964/2019, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal, cujo teor é o seguinte:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça;
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado,se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou
+c) condenado pela prática do crime de constituição de milícia privada;
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional."(sem grifos no original.)
+Como se observa, a situação do Apenado - condenado pela prática de crime hediondo e reincidente em decorrência de crimecomum- não encontra previsão específica na nova lei, razão porque, diante da lacuna legislativa, deverá o julgador integrar a norma, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, aplicando o percentual previsto para o Réu primário.
+Assim, ao contrário do que entendeu a Corte estadual, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Recorrente, tendo em vista que, de acordo com a literalidade do inciso VIIdo art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não corresponde à situação dos autos.
+Com efeito, na hipótese em exame, o Apenado alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 40% (quarenta por cento) da reprimenda, segundo o disposto no art. 112, inciso V, da Lei n.7.210/1984.
+Cumpre acrescentar, por fim, que a questão foi objeto de deliberação em recurso repetitivo, submetido a julgamento da Terceira Seção, cuja tese foi assim fixada:"É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante." (REsp 1.910.240/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/05/2021, DJe 31/05/2021).
+No mesmo sentido:
+" ..
+1. A Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime e modificou o art. 112 da Lei de Execução Penal. A norma é expressa ao afirmar que a porcentagem (60%) deve ser aplicada aos condenados reincidentes em crimes hediondos ou equiparados.
+2. No caso, como a situação atual da ora agravada (sentenciada pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido a condenação definitiva anterior pela prática de crime comum) não se ajusta expressamente a nenhuma das hipóteses da nova redação do referido art. 112, não há como aplicar de forma extensiva e prejudicial ao ora o percentual de 60%. Ante a omissão legislativa e o uso da analogia in bonam partem, é aplicável o percentual de 40%, previsto no inciso V. Tal compreensão foi firmada pela Terceira Seção, na data de 26/5/2021, em recurso especial representativo da controvérsia (REsp n. 1.910.240/MG, Ministro ROGERIO SCHIETTI CRUZ, DJe 31/5/2021).
+3. Agravo regimental improvido."(AgRg no HC n. 626.250/SP, Rel.Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022.)
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao recurso especial pararestabelecer a decisão de primeiro grau (fls. 15-18).
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO. PROGRESSÃO DE REGIME. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDENTE EM RAZÃO DE CONDENAÇÃO ANTERIOR POR DELITO COMUM. EXIGÊNCIA DE CUMPRIMENTO DE 3/5 (TRÊS QUINTOS). IMPOSSIBILIDADE. LEI N.13.964/2019.OMISSÃO LEGISLATIVA. ANALOGIAIN BONAM PARTEM.INCIDÊNCIA DO INCISO V DO ART. 112 DA LEI DE EXECUÇÃO PENAL.APLICÁVEL O PERCENTUAL DE 40% (QUARENTA POR CENTO), QUE CORRESPONDE À FRAÇÃO DE 2/5 (DOIS QUINTOS). TESE FIXADA EM RECURSO ESPECIAL REPETITIVO (RESP N. 1.910.240/MG - TEMA 1084/STJ). RECURSO ESPECIAL CONHECIDO E PROVIDO.
