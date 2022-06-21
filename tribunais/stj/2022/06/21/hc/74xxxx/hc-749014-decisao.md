@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que indeferiu o pedido liminar no writoriginário.
+Narram os autos que o paciente foi denunciado, em conjunto com outros agentes Fiscais de Renda, por suposta infração aos artigos 3º, II, da Lei 8.137/90 e 288 do CP, porque teria exigido da empresa PRYSMIAN pagamento de vantagem indevida para alterar autuações de infrações fiscais relativas a ICMS.
+Neste writ, argumenta a defesa, em suma, que o paciente sofre "constrangimento ilegal provocado por decisão do MM. Desembargador Relator que, nos autos do HC nº 2125737-13.2022.8.26.0000, em decisão teratológica e grave, manteve o agendamento dos interrogatórios em processo que, muito provavelmente, será anulado, uma vez (i) que o Ministério Público descartou provas como se lhe pertencessem, sem conceder acesso às defesas - que o requereram em inúmeras oportunidades - e (ii) que a acusação monopolizou por quase seis anos provas das quais o paciente sequer tinha conhecimento, subtraindo-lhe, portanto, a chance de explorá-las em todas as suas manifestações defensivas -desde a defesa do art. 514, do CPP(doc. 01)." (fl. 4).
+Afirma que o acesso da defesa aos documentosocorreu apenas em janeiro de 2022, posteriormente à resposta à acusação e à oitiva das testemunhas, circunstância que teria violado o direito à ampla defesa, ao contraditório e à paridade de armas.
+Objetiva a suspensão dos interrogatórios até o julgamento do habeas corpus pelo Tribunal de origem.
+Requer a concessão da medida liminar, determinando-se a suspensão do curso da ação penal n. 1021956-73.2015.8.26.0602, que tramita perante a 2ªVara Criminal da Comarca de Sorocaba/SP, até o julgamento da presente ordem de habeas corpus.
+Não havendo divergência da matéria no órgão colegiado, admissível seu examein liminepelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização dehabeas corpuscontra decisão que indeferiu a liminar emwritimpetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+Admite-se, entretanto, sua mitigação quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Na origem, a liminar foi indeferida pelo e. Relator, nos seguintes termos (fls. 10-20):
+Asseveram os impetrantes que no ano de 2016 foram cumpridos mandados de busca e apreensão por supostos crimes incursos no artigo 3º, inciso II, da Lei nº 8.137/90 c. c. art. 288, caput, do Código Penal, todavia a defesa não teve acesso a cópia dos documentos e conteúdo dos aparelhos apreendidos, embora formulados diversos pedidos de acesso.
+Alegam que o paciente sofre constrangimento ilegal decorrente do impedimento pela autoridade impetrada no acesso dos documentos cujo o acesso ocorreu apenas em janeiro de 2022, após apresentação da resposta à acusação e oitiva das testemunhas, violando-se o direito a ampla defesa, o contraditório e paridade de armas.
+Alegam que ao longo das quatro mil páginas que tiveram acesso descobriram que vários documentos foram descartados pela acusação sem que fossem realizadas cópias, bem como tiveram ciência da existência de provas que não foram disponibilizadas a defesa.
+Pleiteiam, em suma, a concessão da medida liminar para suspender a açãopenal (fls. 01/36).
+Indefiro a liminar alvitrada, pois não vislumbro de imediato o constrangimento ilegal, alegado.
+Os elementos de convicção trazidos à colação não revelam a existência de ilegalidade manifesta a ponto de justificar a antecipação do mérito, devendo-se ponderar que a medida liminar em Habeas Corpus é cabível quando o constrangimento ilegal é manifesto e detectado de imediato através do exame sumário das peças colacionadas aos autos, o que não ocorre no presente, tornando necessário um exame mais detido das informações e documentos, sendo prudente, portanto, reservar-lhe o exame do mérito ao juiz natural da causa, que é o órgão colegiado.
+Requisitem-se informações da autoridade judiciária apontada como coatora, em 48 horas, sobre o alegado, remetendo-se, em seguida, os autos a Douta Procuradoria de Justiça.
+Após, conclusos.
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular n. 691/STF, tendo em vista que a questão referente à nulidade, com o trancamentoou asuspensão do processo por cerceamento de defesa é passível de indeferimento do pedido liminar, devendo a apreciação da matéria ser realizada de modo mais aprofundado pelo Tribunal de origem, na análise do mérito.
+Ante o exposto,indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se
