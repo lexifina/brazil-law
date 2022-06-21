@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ATUALIZAÇÃO DE QUINTOS INCORPORADOS. MANUTENÇÃO DE PAGAMENTO APÓS JULGAMENTO ADMINISTRATIVO. ERRO OPERACIONAL. IRRELEVÂNCIA. TESE REPETITIVA N. 1.009/STJ. INAPLICABILIDADE. MODULAÇÃO TEMPORAL EXPRESSA. INVOCAÇÃO DE PRECEDENTE VINCULANTE MANIFESTAMENTE INAPLICÁVEL. VIOLAÇÃO DOS DEVERES DE COOPERAÇÃO, BOA-FÉ E LEALDADE PROCESSUAL. PRINCÍPIOCANDOR TOWARD THE COURT(CANDURA PERANTE A CORTE). DUTY TO DISCLOSE ADVERSE AUTHORITY(DEVER DE EXPOSIÇÃO DE PRECEDENTE VINCULANTE ADVERSO). DESCABIMENTO MANIFESTO DA INSURGÊNCIA. MULTA.
+1. O desconto de valores recebidos de boa-fé pelo servidor, quando decorrentes de erro operacional da administração, só é possível nos casos distribuídos após a publicação do acórdão em que se fixou a Tese de recurso repetitivo n. 1.009/STJ.
+2. Em sistemas processuais com modelo de precedentes amadurecido, reconhece-se a exigência não só de que os patronos articulem os fatos conforme a verdade, mas que exponham à Corte até mesmo precedentes contrários à pretensão do cliente deles. Evidentemente, não precisam concordar com os precedentes adversos, mas devem apresentá-los aos julgadores, desenvolvendo argumentos de distinção e superação. Trata-se do princípio da candura perante a Corte (candor toward the Court) e do dever de expor precedente vinculante adverso (duty to disclose adverse authority).
+3.O presente caso não exige tamanha densidade ética. No entanto,não se pode ter como razoável que a parte sustente a pretensão em precedente manifestamente contrário ao caso em tela, apontando-o como vinculante em hipótese que teve sua incidência patentemente excluída, por força de modulação, omitindo-se sobrea existência da exceção.
+4. A invocação do precedente vinculante na hipótese temporal expressamente excluída de sua incidência pelo próprio julgamento controlador configura violação dos deveres de lealdade, de boa-fé e de cooperação processual, ensejando a aplicação da multa do art. 1.021, § 4º, do CPC/2015, antemanifesta inadmissibilidade.
+5. Agravo interno a que se nega provimento, com imposição de multa, fixada em 5% do valor atualizado da causa.
+RELATÓRIO
+Trata-se de agravo internointerposto contra decisão quedeu provimento em parte ao recurso ordinário em mandado de segurança, unicamente para vedar a restituição dos valores de quintos atualizados recebidos pelo servidor, nos termos da modulação determinada pelo STF no Tema de repercussão geral n. 395(e-STJ, fls. 280-282).
+Diante de aclaratórios, esclareceu-se a especialidade da Tese n. 395/STF em relação àTese n. 1.009/STJ, bem como a inaplicabilidade desta à espécie, por haver dúvida da própria administração sobre os efeitos do julgado administrativo.
+A parte agravante aduz, em suma, que, após o julgamento pelo Conselho da Justiça Federal da interpretação administrativa aplicável sobre incorporação de quintos, a continuidade dos pagamentos configura erro operacional, inexistindo boa-fé do servidor.
+Defende a distinção deste caso - atualização de quintos - com a incorporação de quintos, esta objeto da tese do Supremo.
+Requer, assim, a submissão do feito ao colegiado.
+Impugnação às fls. 317-321(e-STJ), defendendo a inaplicabilidade da Tese n. 1.009/STJ, ante a modulação temporal,e o enquadramento do caso na Tese n. 531/STJ.
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/2015, combinado coma Meta n. 2/CNJ/2022- "Identificar e julgar, até 31/12/2022, pelo menos 99% dos processos distribuídos até 31/12/2017e 95% dos distribuídos em 2018").
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ATUALIZAÇÃO DE QUINTOS INCORPORADOS. MANUTENÇÃO DE PAGAMENTO APÓS JULGAMENTO ADMINISTRATIVO. ERRO OPERACIONAL. IRRELEVÂNCIA. TESE REPETITIVA N. 1.009/STJ. INAPLICABILIDADE. MODULAÇÃO TEMPORAL EXPRESSA. INVOCAÇÃO DE PRECEDENTE VINCULANTE MANIFESTAMENTE INAPLICÁVEL. VIOLAÇÃO DOS DEVERES DE COOPERAÇÃO, BOA-FÉ E LEALDADE PROCESSUAL. PRINCÍPIOCANDOR TOWARD THE COURT(CANDURA PERANTE A CORTE). DUTY TO DISCLOSE ADVERSE AUTHORITY(DEVER DE EXPOSIÇÃO DE PRECEDENTE VINCULANTE ADVERSO). DESCABIMENTO MANIFESTO DA INSURGÊNCIA. MULTA.
+1. O desconto de valores recebidos de boa-fé pelo servidor, quando decorrentes de erro operacional da administração, só é possível nos casos distribuídos após a publicação do acórdão em que se fixou a Tese de recurso repetitivo n. 1.009/STJ.
+2. Em sistemas processuais com modelo de precedentes amadurecido, reconhece-se a exigência não só de que os patronos articulem os fatos conforme a verdade, mas que exponham à Corte até mesmo precedentes contrários à pretensão do cliente deles. Evidentemente, não precisam concordar com os precedentes adversos, mas devem apresentá-los aos julgadores, desenvolvendo argumentos de distinção e superação. Trata-se do princípio da candura perante a Corte (candor toward the Court) e do dever de expor precedente vinculante adverso (duty to disclose adverse authority).
+3.O presente caso não exige tamanha densidade ética. No entanto,não se pode ter como razoável que a parte sustente a pretensão em precedente manifestamente contrário ao caso em tela, apontando-o como vinculante em hipótese que teve sua incidência patentemente excluída, por força de modulação, omitindo-se sobrea existência da exceção.
+4. A invocação do precedente vinculante na hipótese temporal expressamente excluída de sua incidência pelo próprio julgamento controlador configura violação dos deveres de lealdade, de boa-fé e de cooperação processual, ensejando a aplicação da multa do art. 1.021, § 4º, do CPC/2015, antemanifesta inadmissibilidade.
+5. Agravo interno a que se nega provimento, com imposição de multa, fixada em 5% do valor atualizado da causa.
+VOTO
+Como bem destaca a agravada, nem mesmo faz sentido debater a incidência da Tese de recurso repetitivo n. 1.009/STJ, na medida em que houve modulação temporal de sua incidência. Confira-se:
+ ..  1. Delimitação do Tema: A afetação como representativo de controvérsia e agora trazido ao colegiado consiste em definir se a tese firmada no Tema 531/STJ seria igualmente aplicável aos casos de erro operacional ou de cálculo, para igualmente desobrigar o servidor público, de boa-fé, a restituir ao Erário a quantia recebida a maior.
+2. No julgamento do Recurso Especial Repetitivo n. 1.244.182/PB (Tema 531/STJ), definiu-se que quando a Administração Pública interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, de boa-fé, cria-se uma falsa expectativa de que os valores recebidos são legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, o que está em conformidade com a Súmula 34 da Advocacia Geral da União - AGU.
+ ..
+5. Ou seja, na hipótese de erro operacional ou de cálculo não se estende o entendimento firmado no Recurso Especial Repetitivo n. 1.244.182/PB (Tema 531/STJ), sem a observância da boa-fé objetiva do servidor, o que possibilita a restituição ao Erário dos valores pagos indevidamente decorrente de erro de cálculo ou operacional da Administração Pública.
+ ..
+7. Modulação dos efeitos: Os efeitos definidos neste representativo da controvérsia, somente devem atingir os processos que tenham sido distribuídos, na primeira instância, a partir da publicação deste acórdão.
+ ..
+(REsp n.1.769.306/AL, relatorMinistro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/3/2021, DJe de 19/5/2021).
+Basta anotar, para verificar a exclusão do presente caso da hipótese, que o feito chegou a esta Corte em 2011.
+Portanto, ainda que verificado o mero erro operacional - o que não se chega a afirmar nesta oportunidade -, não haveria que falar em incidência da Tese n. 1.009-RR/STJ.
+A seu turno, na Tese n. 531-RR/STJ, afirmava-se:
+ ..  3. Com base nisso, quando a Administração Pública interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, cria-se uma falsa expectativa de que os valores recebidos são legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, ante a boa-fé do servidor público.
+ ..
+(REsp n. 1.244.182/PB, relatorMinistro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/10/2012, DJe de19/10/2012).
+A pretensão da agravante, de fazer incidir tese vinculante na hipótese expressamente rechaçada pelo próprio precedente, configura especial violação do dever de lealdade processual, positivo no atual Código. Transcrevo:
+Art. 5º Aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé.
+Art. 6º Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+A propósito desse dever das partes, já se manifestou esta Corte por sua aplicabilidade concreta:
+ ..  8 - Deixar de requerer diligências possíveis ao tempo da ação e atribuir responsabilidade instrutória ao magistrado, desrespeita a lealdade processual um dos deveres anexos criados pela boa-fé objetiva e direcionada a todos os partícipes do processo. Sua incidência no campo instrutória, indica ser dever das partes apontar todos os elementos probatórios, de forma a permitir que a parte ex adversa exerça o contraditório de forma eficaz.
+ ..
+(REsp n. 1.693.334/RJ, relatorMinistro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/12/2021, DJe de 14/12/2021).
+ ..  INFORMAÇÕES E FUNDAMENTAÇÃO JURÍDICA APRESENTADAS EM MEMORIAIS EM DIVERGÊNCIA COM A DEFESA TRAZIDA NOS AUTOS 15.  ..  Ressalta-se aqui a reprovabilidade da conduta, em descumprimento ao dever de lealdade processual das partes de expor os fatos em juízo conforme a verdade e de não alterá-los.
+ ..
+(RMS n. 60.635/BA, relatorMinistro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/3/2021, DJe de 14/4/2021).
+ ..  11. Como se vê, a solução da lide não demanda a retificação da CDA, mas a mera regularização no polo passivo do feito, devendo se sujeitar à legislação que disciplina o processo civil (especialmente o art. 321 do CPC), bem como aos princípios que o norteiam (notadamente o da primazia do mérito, evitando-se o emprego de subterfúgios incompatíveis com os princípios da boa-fé e da lealdade processual, usados para maliciosa e desnecessariamente extinguir o feito, sem resolução do mérito).
+12. Recurso Especial não provido.
+(REsp n. 1.780.156/RS, relatorMinistro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/10/2020, DJe de 18/12/2020).
+Em sistemas de precedentes mais maduros, como o norte-americano, há, nos próprios códigos de advocacia, obrigações éticas de apresentar não só a verdade dos fatos, mas a de enfrentamento expresso dos precedentes vinculantes que o advogado tenha conhecimento. Trata-se do princípio da "candura perante o tribunal" (candor toward the tribunal), mais precisamente, do dever de expor ao próprio tribunal a existência de precedente controlador desfavorável à sua tese (duty to disclose adverse authority) - evidentemente, para desconstruí-lo, invocando-se argumentos de distinção ou superação.Tais previsões constam nasModel Rules of Professional Conductda ABA, equivalente à OAB:
+(a) Um advogado não pode de forma consciente  ..
+(2) falhar em expor ao tribunal precedente da jurisdição controladora que saiba ser diretamente contrário à posição do cliente e não tenha sido exposta pelo patrono oposto  ..
+(ABA.Model Rules of Professional Conduct. 2020. Regra 3.3, (a)(2)).
+Naquele país, entende-se que a conduta corrói a integridade do processo jurisdicional e nem mesmo se escusa de sanção o advogado que deixa de identificar o precedente por pesquisa deliberadamente deficiente(STRASSER,Alan.Candor toward the tribunal: the duty to cite adverse authority. Practice points.  Chicago : ABA, 2021).
+Conquanto haja discussões sérias naquele ordenamento quanto ao que se possa considerar (e provar) como precedente vinculante conhecido pelo patrono, a jurisprudência identifica, como exemplo da hipótese,casos em que o advogado atuou no precedente (HUDSON JR., David.Lawyers have a duty to disclose adverse legal authority even if it hurts their case. ABA Journal. Chicago: ABA, 2019).
+Vê-se, portanto, que o amadurecimento do sistema de precedentes demanda uma postura comprometida com seriedade de todos os agentes, não só do Judiciário e dos julgadores, mas também das partes e dos advogados. Há que reconhecer que as lides não contribuem apenas para a solução dos casos concretos, senão também para a construção do direito e do capital jurídico de toda a sociedade (GICO JR., Ivo. A tragédia do Judiciário. Revista De Direito Administrativo, 2014, v. 267, 163-198).
+O caso, aqui, não chega a exigir tamanha densidade ética. No entanto,não parece haver dúvida de que a extensão temporal expressamente afirmada no precedente invocado deva ser de conhecimento do patrono da parte.Ao manejar pretensão patentemente contrária ao julgado repetitivo, especificamente contra a modulação expressamente afirmada, a parte incorre em abuso do direito de recorrer e viola a boa-fé processual, atraindo a incidência da multa do art. 1.021, § 4º, do CPC/2015. Nesse sentido:
+ ..  3. O agravo interno é manifestamente inadmissível ou infundado, diante da fixação da jurisprudência da Casa em sede de recurso repetitivo. Sendo assim, deve ser aplicada a multa prevista no art. 1.021, § 4º, do CPC/2015, em 1% (um por cento) sobre o valor corrigido da causa.
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 1.476.021/SC, relatorMinistro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 1º/3/2021, DJe de 4/3/2021).
+ ..  4. Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral ou sob o rito dos Recursos repetitivos (AgInt nos EDcl no REsp 1.373.915/AM, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 16/5/2019).
+5. Agravo interno não provido com aplicação de multa.
+(AgInt no REsp n. 1.919.006/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/2/2022, DJe de 24/2/2022).
+ ..  IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação.
+V - Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral ou sob o rito dos Recursos Repetitivos (Súmulas 83 e 568/STJ).
+VI - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt nos EDcl no REsp n. 1.373.915/AM, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/5/2019, DJe de 16/5/2019).
+ ..  3. "Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o regime da Repercussão Geral ou sob o rito dos Recursos repetitivos (Súmulas 83 e 568 do STJ)" (AgInt nos EDcl no REsp 1.373.915/AM, Rel. Ministra REGINA HELENA COSA, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 16/05/2019).
+4. Agravo interno desprovido com aplicação de multa.
+(AgInt no REsp n. 1.500.785/RS, relatorMinistro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/6/2021, DJe de 1º/7/2021).
+Assim, aplica-se a multa no patamar de 5% do valor atualizado da causa.
+Ante o exposto, nego provimento ao agravo interno, com imposição de multa, fixada em 5% do valor atualizado da causa.
+É como voto.
