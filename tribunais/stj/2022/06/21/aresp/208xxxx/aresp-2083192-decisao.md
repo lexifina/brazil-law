@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto por M JM e M V M, contra decisão que inadmitiu recurso especial. O apelo extremo,fundamentado no artigo 105, inciso III, alíneas "a" e "c", da ConstituiçãoFederal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIAPOR DANOS MORAIS E DANOS MATERIAIS. CANCELAMENTO DOSHOW DO CANTOR SHAWN MENDES. INOVAÇÃO RECURSAL. DANOSMATERIAIS NÃO CONFIGURADOS. DANOS MORAISAFASTADOS. AUSÊNCIA DE PROVA DO ABALO SOFRIDO. FRUSTRAÇÃO DE EXPECTATIVA. SENTENÇA REFORMADA. RECURSODAS AUTORAS NEGADO. RECURSO DA RÉ PROVIDO EM PARTE" (fl. 474 e-STJ).
+Os embargos de declaração opostos foram acolhidos, sem efeitos infringentes(fls.518/522e-STJ).
+No recurso especial (fls. 543/570 e-STJ), as agravantes apontam, além de divergência jurisprudencial,a violação dosartigos 489, § 1º,IV, 932, III, e 1.022 do Código de Processo Civil, 249, 389, 393, parágrafo único, e 402 do Código Civil e 14 e 35 do Código de Defesa do Consumidor.
+Afirmam que a apelação interposta pela parte contrária não deveria ter sido conhecida, pois não houve a impugnação específica de um dos fundamentos da sentença.
+Sustentam a tese de negativa de prestação jurisdicional.
+Defendem que "o cancelamento do show poderia ter sido evitado pela recorrida" porque "problemas nas cordas vocais de um Cantor após um show é, ou deveria ser, previsível por alguém que, como ela, é profissional na promoção de eventos do tipo" (fl. 552 e-STJ).
+Argumentam que, "mesmo que o problema nas cordas vocais configurasse fortuito, como entendeu o acórdão recorrido, isso não afastaria a violação ao artigo 393, caput, do Código Civil" (fl. 552 e-STJ).
+Alegam que a recorrida deve ser condenada ao ressarcimento das despesas extras que tiveram para assistir ao show do cantor em Buenos Aires, bem como das despesas com a ida a São Paulo para assistir ao show que foi cancelado.
+Afirmam, ainda,o cancelamento de um show configura dano moral in re ipsa.
+Com as contrarrazões (fls. 592/610 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se aoexame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado navigência do Código de Processo Civil de 2015 (Enunciados Administrativosnºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Inicialmente, no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. MANIFESTO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+2. A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+3. Embargos de Declaração rejeitados" (EDcl no AgRg no AREsp 840.702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016).
+De outro lado, verifica-se que, após detalhado exame do acervo fático probatório existente nos autos, a Corte local decidiu as questões referentes à responsabilidade da recorrida pelo cancelamento do show e às indenizações por danos materiais e morais pleiteadas pelos seguintes fundamentos:
+"(..)
+A controvérsia recursal versa sobre a condenação da ré ao pagamento de indenização a título de danos morais e materiais decorrentes do cancelamento do show do cantor Shawn Mandes na cidade de São Paulo.
+Na hipótese, a sentença reconheceu o dever de indenizar decorrente dos abalos sofridos pelas demandantes, em razão do cancelamento do evento, arbitrando em R$3.000,00 (três mil reais) o valor da indenização.
+Recorrem ambas as partes; as autoras buscando a reparação do valor da viagem a Buenos Aires, ou, subsidiariamente, da viagem a São Paulo, e a requerida visando à reforma total da decisão, com julgamento de improcedência.
+Pois bem.
+Em primeiro lugar, cumpre delimitar o objeto do recurso em razão da evidente inovação recursal.
+A inovação da tese defensiva em recurso é vedada porque ofende as garantias do devido processo legal e do duplo grau de jurisdição.
+Ocorre que, somente em sede recursal (evento 93), as autoras apresentaram pedido subsidiário referente ao reembolso do valor das despesas da viagem para São Paulo, sendo que, em momentos anteriores, a pretensão à indenização fundamentava-se somente nos gastos decorrentes da viagem a Buenos Aires. Tal fato pode ser evidenciado, inclusive, a partir da ausência dedocumentos referentes aos gastos despendidos em São Paulo nos autos, tendo em vista que as autoras limitaram-se a juntar a documentação referida à Buenos Aires.
+Ora, tal alegação constitui argumento novo, pois não fora deduzida na inicial, momento no qual a ação é, inclusive, delimitada pela causa de pedir e pelo o pedido; por esse motivo, não fora objeto de impugnação pela parte ré e, consequentemente, não fora objeto da sentença.
+Diante disso, voto por não conhecer do recurso quanto ao pedido de danos materiais referentes à viagem de São Paulo.
+No mérito, a relação contratual estabelecida entre as partes figura relação de consumo, sendo aplicáveis, portanto, as normas estabelecidas no Código de Defesa do Consumidor.
+Nesse sentido, conforme dispositivo do art. 14 do CDC, a responsabilidade do fornecedor de serviços é objetiva, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços. Isto é, em se tratando de responsabilidade civil objetiva, para fins da configuração do dever de indenizar, necessário demonstrar do nexo de causalidade entre o dano e a conduta imputada ao réu. E a conduta deve ser imputável, ou seja, não devem existir causas de exclusão da imputabilidade.
+E no caso, a impossibilidade física do cantor, fato incontroverso, é causa de exclusão de responsabilidade, força maior, já que imposssibilita a prestação contratada, tendo sido a devolução do valor do ingresso a conduta devida.
+A compra de um novo ingresso em localidade diversa foi opção das autoras, não podendo ser imputado o valor dos gastos à ré, já que sua obrigação era referente à relação contratual distinta, cuja prestação era o show de São Paulo, não de Buenos Aires.
+O fato de as autoras terem despesas de deslocamento para assistirem ao show não pode ser imputado à ré, seja porque não deu causa à frustração do evento, seja porque a obrigação não compreendia transporte, sendo o deslocamento ônus das autoras, que residem em local diverso do da apresentação.
+Nesse sentido, não deve ser atribuído à parte ré o ressarcimento por eventuais gastos decorrentes da ida a Buenos Aires, uma vez que tal ressarcimento implicaria impor à recorrente a obrigação de custear viagem usufruída pelas demandantes e serviços ofertados por terceiros e efetivamente utilizados, sem relação com a relação contratual entre as partes.
+Relativamente aos danos morais, tenho que deve ser reformada a sentença no ponto para afastar a condenação. De fato, a frustração das autoras é evidente, mas insuficiente para ensejar o dano moral indenizável, a apr de não decorrer de ato imputavel à re.
+Em que pese a autora alegue que sofreu abalo emocional decorrente da frustração do presente de aniversário da filha, faz-se necessário atentar ao fato de que ao fim, as mesmas assistiram ao show do cantor, ainda que em localidade e data distintas das que originalmente haviam planejado. Assim, o que restou foram as despesas, e não dor moral. E ademais disso, qualificar como abalo moral a frustração por não assistir a um show refoge do razoável.
+As próprias autoras em sede de apelação referem que o presente seria "ver seu ídoloao vivo", não havendo falar, portanto, em danos morais, tendo em vista que o presente da autora seria o ver a apresentação do cantor, o que se concretizou, mesmo com o cancelamento do evento em São Paulo.
+(..)
+Diante disso, deve ser reformada a sentença para afastar a condenação a título de danos morais na espécie" (fls. 470/472 e-STJ - grifou-se).
+Ademais, ao analisar os embargos de declaração opostos pela parte ora agravante, o Tribunal de origem afastou a preliminar de não conhecimento da da apelação por insuficiência de impugnação e acrescentou os seguintes fundamentos:
+"(..)
+No caso, de fato a preliminar contrarrecursal não foi expressamente enfrentada, de modo que vai agora examinada.
+Com efeito, não merece acolhimento a preliminar, por violação ao princípio da dialeticidade, uma vez que as razões impugnam suficientemente a decisão recorrida (evento 85 da origem), não sendo o caso de mera reprodução, como defende a ora embargante.
+Relativamente aos demais pedidos, contudo, verifico que não se enquadram em nenhuma das hipóteses precitadas. De fato, não se afigura obscuridade, contradição, omissão ou erro material no acórdão embargado, que analisou fundamentadamente a matéria controvertida devolvida à análise desta Câmara por ocasião do julgamento do recurso de apelação.
+Embora compreensível a intenção da parte embargante, é cediço que os embargos declaratórios, ainda que possam ter efeito infringente quando do suprimento da obscuridade, da contradição ou da omissão do julgado, não se destinam à pura e simples mudança da decisão.
+No mais, especialmente em relação à alegação de omissão quanto à indenização pelos danos materiais decorrentes da viagem a São Paulo, cumpre referir que, embora tenha sido acostadas as passagens aéreas, há que se atentar que não fora postulado, expressamente, nenhum pedido quanto a tais prejuízos na inicial.
+O acórdão embargado menciona corretamente a ausência de documentos "referentes aos gastos despendidos em São Paulo nos autos". Isso, porque "as autoras limitaram-se a juntar a documentação referida à Buenos Aires", tendo em vista que apresentaram uma tabela com os gasto despendidos em Buenos Aires, não fazendo qualquer referência aos despendidos em São Paulo.
+Nesse sentido, deve ser mantida a decisão no ponto que entendeu por estar configurada hipótese de inovação recursal, pelas razões já fundamentadas. Ademais, quanto ao prequestionamento, saliento que se tem por "incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade" (artigo 1.025 do CPC)" (fl. 519 e-STJ - grifou-se).
+Nesse contexto, rever o entendimento firmado pelas instâncias ordináriasdemandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Em reforço:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E FALTA DE FUNDAMENTOS NO JULGADO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. CONTRATO. APRESENTAÇÃO ARTÍSTICA. SHOW MUSICAL. INADIMPLEMENTO. CANCELAMENTO DO VOO EM VIRTUDE DE TER SIDO DETERMINADO O FECHAMENTO DO AEROPORTO PELA AUTORIDADE AERONÁUTICA. CONDIÇÕES CLIMÁTICAS PROIBITIVAS. FORTUITO EXTERNO E NÃO INTERNO. CONCLUSÃO DO ACÓRDÃO RECORRIDO TOMADA COM BASE NO CONTRATO E NAS PROVAS DO AUTOS. REJULGAMENTO POR ESTE COLEGIADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. UTILIZAÇÃO DESTA CORTE COMO TERCEIRA INSTÂNCIA REVISORA. DESCABIMENTO. DISSÍDIO INVIABILIZADO.
+1. Segundo entendimento sedimentado nesta Corte, não é omisso e nem desprovido de fundamentos o acórdão do Tribunal de origem que motiva adequadamente o julgamento, solucionando a controvérsia, mas não no sentido preconizado pela parte interessada.
+2. O STJ não é terceira instância revisora e nem pode o especial ser transmudado em uma verdadeira apelação da apelação.
+3. Arrimado o julgado objeto do recurso especial nas provas dos autos e nas cláusulas do contrato entabulado entre as partes para concluir que houve fortuito externo e não interno no caso concreto, a revisão desse entendimento, na via eleita, é descabida, pois encontra óbice nas Súmulas 5 e 7 desta Corte.
+4. Aplicados esses óbices sumulares, fica, em consequência, inviabilizado o pretendido dissento jurisprudencial, ainda mais se, como na espécie, limitam-se as razões do recurso à mera transcrição de ementas, sendo certo ainda que os arestos trazidos a título de paradigma a tal não se prestam, dada a ausência de similitude fática.
+5. Agravo interno não provido"(AgInt no AREsp n. 1.949.076/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/3/2022, DJe de 24/3/2022 - grifou-se).
+Ante o exposto,conheço do agravo para não conhecerdo recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em R$ 200,00 (duzentos reais), observado o benefício da gratuidade da justiça, se for o caso.
+Intimem-se.
+Publique-se.
