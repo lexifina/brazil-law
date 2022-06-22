@@ -1,0 +1,39 @@
+DECISÃO
+ECCIR Empresa de Construções Civis e Rodoviárias S. A.ajuizou açãocontra o Estado do Pará,pleiteando, em suma, a declaração de interrupção da prescrição do direito de cobrança de crédito referente a contrato para prestação de serviço de engenharia celebrado com a Secretaria de Estado de Transportes, e cuja a dívida foi reconhecida em 23/12/1994.
+A sentença julgou os pedidos procedentes, para declarar interrompida a prescrição relativa ao crédito contratual(fls. 162-164).
+O Tribunal de Justiça do Estado do Parámanteve a sentença, nos termos assim ementados (fls. 220-221):
+APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. AÇÃO ORDINÁRIA. ABANDONO DA CAUSA. PRELIMINAR REJEITADA. DECLARAÇÃO DERECONHECIMENTO DE DÍVIDA. INTERRUPÇÃO DE PRESCRIÇÃO. ACOLHIMENTO. DECRETO Nº 20.910/32. SENTENÇA MONOCRÁTICA QUENÃO MERECE REPAROS. RECURSO CONHECIDO E IMPROVIDO. EM SEDEDE REEXAME NECESSÁRIO, SENTENÇA MONOCRÁTICA MANTIDA EMTODOS OS SEUS TERMOS.
+I - A alegação de abandono da causa arguida pelo recorrente não merece acolhimento, visto que a ação ajuizada pela empresa recorrida foi sentenciada no dia 08 de novembro de 2005, portanto, não competia à apelada qualquer ato para impulsionar o andamento processual, visto que o feito já havia sido julgado. Ademais, logo após a prolação da referida sentença, o apelante opôs Embargos de Declaração ao decisum e este recurso demorou quase 13(treze) anos para ser julgado pelo Juízo Monocrático. Preliminar rejeitada;
+II - O Decreto nº 20.910/32, em seu artigo 1º, estabelece que as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem;
+III - In casu, o fato que originou a ação ajuizada pela empresa recorrida foi a Declaração de Reconhecimento de Dívida, assinada pelo Secretário de Transportes do Estado do Pará, em favor da empresa apelada, a qual foi subscrita no dia 23 de dezembro de 1994;
+IV - Outrossim, o termo final do lustro prescricional corresponderia à data de 23de dezembro de 1999, ou seja, 05 (cinco) anos contados da assinatura do referido documento. Entretanto, a apelada ajuizou a ação no dia 28 de outubro de 1999, ou seja, dentro do prazo que preceitua o art. 1º do Decreto nº 20.910/32, motivo pelo qual, a sentença monocrática, declarando interrompida a prescrição da Declaração de Reconhecimento de Dívida assinada pelo Secretário de Transportes do Estado do Pará em favor da empresa recorrida, não merece reparos;
+V - Recurso de apelação conhecido e julgado improvido.
+VI - Em sede de reexame necessário, sentença monocrática mantida em todos os seus termos.
+Estado do Pará interpôs recurso especial, com fundamento no art. 105, III, ae c, da Constituição Federal, alegando a violação dos arts. 274, parágrafo único, e 485, III, do CPC/2015, afirmando que, tendo sido a ação ajuizada em 8/11/2005, publicada a sentença em 16/11/2005, caberia à requerida impulsionar o feito. Diante da inércia da parte interessada, mesmo após intimação em 22/2/2016, evidente o abandono de causa pela recorrida.
+Suscitou divergência jurisprudencial com julgadosdesta Corte Superior, datadosde 2008, em que se entendeu pelo abandono da causa diante de inércia da parte interessada mesmo após intimação pessoal para manifestação.
+Não foramapresentadas contrarrazões.
+É o relatório. Decido.
+O reexame do acórdão recorridorevela que o fundamento apresentado naquele julgado, acerca da suposta ocorrência de abandono da causa, deu-se no sentido de que nada cabia à parte interessada providenciar nos autos, visto que a mora em impulsionar o feito deveu-se exclusivamente ao juízo de primeiro grau, que devia apreciar o recurso interposto pela ora recorrente. Confiram-se seus termos (fl. 223):
+Compulsando os autos, entendo que a alegação do recorrente não merece acolhimento, visto que a ação ajuizada pela empresa recorrida foi sentenciada no dia 08 de novembro de 2005, portanto, não competia à recorrida qualquer ato para impulsionar o andamento processual, visto que o feito já havia sido julgado.
+Ademais, logo após a prolação da referida sentença, o apelante opôs Embargos de Declaração ao decisum e este recurso demorou quase 13(treze) anos para ser julgado pelo Juízo Monocrático.
+Outrossim, não cabia à apelada, naquele momento, realizar qualquer ato processual, mas sim a autoridade de 1º grau, que deveria ter julgado o supramencionado recurso, independente da apresentação ou não de contrarrazões por parte da recorrida.
+Referido fundamento, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No tocante ao dissídio jurisprudencial, verifica-se que, conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+Da análise do recurso especial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata de morosidade no julgamento de recurso por parte de juízo de primeiro grau, os acórdãos paradigmas cuidam de inércia da parte interessada.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ARTS. 458 E 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRAZO PRESCRICIONAL. QUINQUÊNIO. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+(..)
+8. Segundo entendimento do Superior Tribunal de Justiça, há "divergência jurisprudencial quando os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhando, adotam posicionamentos dissonantes quanto ao direito federal aplicável" (AgRg no EREsp 1.235.184/RS, Rel. Ministro ARNALDO ESTEVES LIMA, Primeira Seção, julgado em 27/02/2013, DJe 06/03/2013), sendo certo que, no caso, não há similitude fática a ensejar o conhecimento do recurso especial pela suscitada divergência jurisprudencial.
+9. Agravo interno desprovido.
+(AgInt no REsp 1715878/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL. HOSPITAL PRIVADO CONVENIADO AO SUS. AGRAVO DE INSTRUMENTO. LEGITIMIDADE PASSIVA. SÚMULA 7/STJ. CHAMAMENTO AO PROCESSO DO MÉDICO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Por fim, no que toca a suposta divergência jurisprudencial, deve ser frisada a ausência de similitude fática entre a hipótese dos autos - prestação de serviços médicos pelo SUS em hospital privado - e aquelas dos recursos citados como paradigmas pela agravante, em que se discutiu a responsabilidade de hospitais por serviços prestados por médicos privados de planos de saúde, o que impossibilita o conhecimento da alegada divergência jurisprudencial.
+5. Agravo interno não provido.
+(AgInt no REsp 1827299/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/05/2020, DJe 08/05/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
