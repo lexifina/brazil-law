@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça do Peru solicita que se proceda à notificação das partes interessadas de resolução que reprograma a Audiência de Julgamento Oral para 11 de maio de 2022, às 9h00, "do mesmo modo a audiência se realizará mediante o sistema de tele trabalho, através do aplicativo Google Hangouts Meet.", na forma descrita no texto rogatório.
+Em razão da proximidade da data da audiência, julguei prejudicada a comissão e, determinei que se oficiasse à autoridade central para que solicite nova dataà Justiça de origem.
+Diante do silêncio da Justiça rogante, determino adevolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, sem prejuízo da reapresentação com nova data de audiência, independentemente do trânsito em julgado.
