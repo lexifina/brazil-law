@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ, fl. 83):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO ACIDENTÁRIA. ERRO NO CÁLCULO DA RMI DO BENEFÍCIO DEVIDO AO CÁLCULO INCORRETO DO SALÁRIO DE CONTRIBUIÇÃO PELA APLICAÇÃO DE ÍNDICES DE DEFLAÇÃO. INADMISSIBILIDADE. CORREÇÃO MONETÁRIA.
+O crédito acidentário submetido a precatório, calculado com aplicação do IGP-DI, deve ser atualizado pela UFIR/IPCA-E a partir da conta de liquidação até o pagamento.
+APLICAÇÃO DA LEI Nº 11.960/2009, A PARTIR DE SUA VIGÊNCIA, AOS PROCESSOS EM CURSO. ADMISSIBILIDADE. Entendimento pacificado pelo Superior Tribunal de Justiça e por esta E. Câmara.
+NÃO APLICAÇÃO A PARTIR SOMENTE DA EXPEDIÇÃO DO PRECATÓRIO. EMENDA CONSTITUCIONAL Nº 62/2009 E LEI Nº 11.960/2009.INCONSTITUCIONALIDADE PARCIAL DECLARADA PELO SUPREMO TRIBUNAL FEDERAL.
+Recurso provido em parte.
+Requer a autarquia seja decretada a nulidade do acórdão proferido no julgamento dos embargos declaratórios por violação do art. 535 do diploma processual civil.
+Na hipótese de ser afastada a mencionada afronta ao CPC, pleiteiaa reforma do acórdãorecorrido para determinar a aplicaçãoda TR como índice de atualização das parcelas em atraso a partir da Lei n. 11.960/2009, além da admissão da utilização dos índices de deflação na correção das bases de cálculo do benefício deferido à parte autora.
+Apresentadas contrarrazões (e-STJ, fls. 126-134), o recurso especial foi admitido na origem (e-STJ, fls. 209-210).
+É o relatório.
+Registro, de início, que não merece prosperar a tese de contrariedade ao art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal de origem haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão nemoutra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCURADOR DA FAZENDA NACIONAL. CUMULAÇÃO DE ADICIONAL POR TEMPO DE SERVIÇO COM SUBSÍDIO DA CATEGORIA. AUSÊNCIA DE DIREITO ADQUIRIDO. SUBSÍDIO FIXADO EM PARCELA ÚNICA. VIOLAÇÃO À COISA JULGADA. ANÁLISE. INCIDÊNCIA DA SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Verifica-se não ter ocorrido ofensa ao art. 535, I e II, do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O aresto regional não destoa da jurisprudência deste Superior Tribunal, firme no sentido de que os servidores federais não têm direito adquirido ao recebimento de adicionais ou vantagens pessoais após a edição da Lei 11.358/2006, que instituiu nova forma de remuneração por meio de subsídio fixado em parcela única.
+3. A alteração das conclusões adotadas pela Corte de origem, firmada no sentido de que "não há ofensa à coisa julgada material, na medida em que nem a sentença de primeiro grau, nem o acórdão que decidiu o mérito da causa afastou expressamente a limitação temporal até julho/2006, quando foi introduzida a remuneração na forma de subsídio dos membros da carreira de Procurador da Fazenda Nacional" (fl. 1.194), tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.555.927/SC, relatorMinistro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 31/8/2020, DJe de 4/9/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. CPC, ART. 535. OFENSA NÃO CARACTERIZADA. OFENSA À CONSTITUIÇÃO. NÃO CABIMENTO EM RECURSO ESPECIAL. DOMÍNIO. DISCUSSÃO SUPERADA. JUSTA INDENIZAÇÃO. SÚMULA N. 7/STJ.
+I - Não caracterizada a alegação de ofensa ao art. 535, II, do CPC/73, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de se constituir em empecilho ao conhecimento do recurso especial.
+II - Não cabe, em recurso especial, a alegação de ofensa ao texto constitucional, por se tratar de matéria da competência do Supremo Tribunal Federal.
+III - No recurso especial, embora se alegue descompasso entre o valor da indenização e o preço do bem expropriado, não se deduz nenhuma alegação especificamente nesse sentido. O recorrente pretende se valer de discussão superada a respeito do domínio, invocando normas que apenas enfatizam e definem o preceito constitucional da justa indenização (CF, art. 5º, XXIV).
+IV - A ação de anulação do título judicial, cujo ajuizamento foi invocado como obstáculo ao prosseguimento da execução, teve sua petição inicial liminarmente indeferida, em decisão que transitou em julgado.
+V - A revisão de fundamentos que determinaram, com base nos laudos, o valor da indenização, encontra óbice na Súmula n. 7/STJ.
+VI - Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.334.647/AM, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/11/2019, DJe de 18/11/2019).
+Quanto à questão de fundo, com o provimento do recurso de fls. 191-200, determinando-se a manutenção dos índices previstos no título executivo, deixo de conhecer do recurso em razão da ausência de interesse recursal pelaperda superveniente doobjeto.
+No ponto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. DECISÃO AGRAVADA QUE PROVERA O RECURSO ESPECIAL, INTERPOSTO POR CORRÉ, JULGANDO IMPROCEDENTES OS PEDIDOS, FORMULADOS NA AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL INTERPOSTO PELO AGRAVANTE, CORRÉU, JULGADO PREJUDICADO, POR PERDA DO OBJETO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. No caso, a decisão agravada, ao fundamento de que "os repasses realizados por Município à Confederação Nacional dos Municípios não constituem ilegalidade ou improbidade administrativa, mesmo ausente lei especifica autorizativa", deu provimento ao Recurso Especial, interposto pela corré, Confederação Nacional de Municípios, para o fim de julgar improcedentes os pedidos formulados na Ação Civil Pública, ajuizada pelo Ministério Público. Com a improcedência da ação, cujos efeitos alcançam o corréu, ora agravante, seu Recurso Especial fora julgado prejudicado, por perda do objeto. Nesse contexto, mostra-se nítida a ausência de interesse recursal do ora agravante, tendo em vista a ausência de necessidade e utilidade do exame de sua pretensão recursal.
+III. Na forma da jurisprudência, "o interesse recursal repousa no binômio necessidade e utilidade. A necessidade refere-se à imprescindibilidade do provimento jurisdicional pleiteado para a obtenção do bem da vida em litígio, ao passo que a utilidade cuida da adequação da medida recursal alçada para atingir o fim colimado" (STJ, REsp 1.732.026/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 21/11/2018).
+IV. Agravo interno não conhecido.
+(AgInt no AREsp 1.013.111/RJ, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/12/2019, DJe de 16/12/2019).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PEDIDO DE SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO INTERPOSTO NA ORIGEM APÓS O TRÂNSITO EM JUGADO DO RECURSO JULGADO SOB O RITO DO 543-B DO CPC/1973 NO SUPREMO TRIBUNAL FEDERAL. CONCLUSÃO DO JULGAMENTO DO RE 561.836/RN. PERDA DO OBJETO DO RECURSO ESPECIAL. AGRAVO REGIMENTAL DO ENTE FEDERATIVO NÃO CONHECIDO.
+1. Os Embargos Declaratórios, nos autos do RE 561.836/RN, foram rejeitados e ocorreu o trânsito em julgado em 3.8.2016. Dessa forma, observa-se a perda do objeto do Recurso Especial, tendo em vista o encerramento do julgamento do STJ.
+2. Agravo Regimental do Ente Federativo não conhecido.
+(AgRg nos EDcl no REsp n. 1.470.903/RN, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 29/4/2019, DJe de 8/5/2019).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
