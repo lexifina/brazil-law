@@ -1,0 +1,57 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR INATIVO. INSTRUTOR OU DOCENTE NA ACADEMIA DE POLÍCIA. ACUMULAÇÃO DE CARGOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: INCIDÊNCIA DAS SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Nona Câmara de Direito Público do Tribunal de Justiça de São Paulo:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO – MANDADO DE SEGURANÇA – SERVIDOR PÚBLICO – POLICIAL MILITAR INATIVO – CUMULAÇÃO DA FUNÇÃO DE INSTRUTOR OU DOCENTE NA ACADEMIA DE POLÍCIA – HONORÁRIOS – TETO REMUNERATÓRIO – INCIDÊNCIA SOBRE O SOMATÓRIO DA REMUNERAÇÃO DO CARGO E DA FUNÇÃO – INADMISSIBILIDADE – ILEGALIDADE – OFENSA A DIREITO LÍQUIDO E CERTO. 1. O mandado de segurança se destina à correção de ato ou omissão de autoridade, desde que ilegal e ofensivo a direito individual, líquido e certo do impetrante (art. 5º, LXIX, CF). 2. Tenente Coronel inativo da Polícia Militar que exerceu função de instrutor ou docente na Academia de Polícia. Cumulação legítima de cargo e função (art. 37, XVI, ‘b’, CF). Matéria pacificada no julgamento dos Temas nº 377 e nº 384 STF. Incidência do teto constitucional remuneratório que deve ser feita separadamente. Precedentes jurisprudenciais. Segurança concedida. Sentença mantida. Reexame necessário desacolhido. Recurso desprovido” (fl. 2, e-doc. 9).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado os incs. XI e XVI do art. 37 e o § 11 do art. 40 da Constituição da República. Argumenta que “o limite imposto pela Constituição da República refere-se ao valor total da remuneração prevista para o respectivo cargo e ao total dos proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza” (fl. 8, e-doc. 11).
+
+    Afirma que “não se aplica ao caso a tese firmada pelo Supremo Tribunal Federal nos Temas n. 377 e 384 de repercussão geral, sobretudo por dois motivos: a) tais precedentes se restringem às hipóteses de acumulação de dois vínculos do servidor em atividade com a Administração não abrangendo a situação de acumulação de proventos de servidor inativo, como no caso dos autos; b) os militares que exercem atividade docente na Academia de Polícia não possuem dois vínculos com a Administração e não percebem duas aposentadorias ao se inativarem” (fl. 9, e-doc. 11).
+
+    Salienta que, “no recentíssimo precedente tirado do julgamento do RE n. 602.584 em regime de repercussão geral (Tema 359), a Suprema Corte assentou que, para efeito do teto constitucional, deve ser considerado o ‘somatório de valores percebidos a título de remuneração, proventos e pensão’" (fl. 10, e-doc. 11).
+
+    Assinala “não h(aver) situação de acumulação de cargos, empregos ou funções. A parte autora era policial militar (servidor público efetivo) e, nessa condição de ocupante de cargo público, foi credenciada para eventualmente ministrar aulas em órgão da própria Polícia” (fl. 16, e-doc. 11).
+
+    3. O recurso extraordinário foi inadmitido pela incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (fls. 1-2, e-doc. 13).
+
+    No agravo, o agravante alega que “os honorários pagos em virtude de aulas ministradas nas academias de polícia, por se revestirem de nítido caráter remuneratório, devem ser somados às demais parcelas percebidas pelo servidor público, para fins de incidência do limite posto no artigo 37, XI, da CF/1988. Quanto ao ponto, reitera-se: nenhuma influência tem a decisão do Supremo Tribunal Federal nos recursos extraordinários nºs 602.043 e 612.975” (fl. 10, e-doc. 15).
+
+    Pede “seja dado provimento ao presente agravo para o fim de reformar a respeitável decisão denegatória de seguimento de recurso extraordinário, sendo admitido e apreciado, no mérito, o recurso extraordinário da recorrente, do qual se espera provimento” (sic, fl. 12, e-doc. 15).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    4. Razão jurídica não assiste ao agravante.
+
+    5. Na espécie, o Tribunal de origem assentou:
+
+    “No caso vertente, o apelado é Tenente Coronel PM reformado e exerceu função de docente junto a Unidades de Ensino da Polícia Militar e pelo exercício das funções de professor em curso legalmente instituído de aperfeiçoamento e especialização de servidores, seus proventos são acrescidos de honorários, conforme dispõe o art. 124, VIII, da Lei Estadual nº 10.261/68 (art. 1º, caput, Decreto nº 39.391/94), art. 9º da Lei Complementar nº 731/93 e Lei Complementar nº 1.249/2014. Neste cenário, o que se tem é acumulação de um cargo de Oficial da Polícia Militar, que é de nível superior e de natureza técnica policial, com a função de instrutor ou docente na Academia de Polícia Militar do Barro Branco. Acumulação legítima, diga-se de passagem, sob o prisma constitucional (art. 37, XVI, ‘b’), ainda que inadequada a forma de remuneração adotada pela Administração, o que não altera substancialmente a natureza jurídica da função exercida pelo apelante. Aliás, não por outra razão este E. Tribunal tem entendimento firmado de que a cumulação de cargo técnico de policial civil ou militar com a função de professor da Academia de Polícia ou da Academia da Polícia Militar do Barro Branco é lícita e dá ensejo a incidência isolada do teto constitucional sobre cada fonte de rendimento. Nesse sentido: Nesse sentido firmou-se a orientação do Tribunal e desta E. Câmara, conforme se infere da ementa dos seguintes venerandos arestos, oriundos de praticamente todas as Câmaras desta Seção de Direito Público: (…) Diante do entendimento amplamente majoritário desta Corte, incensurável a concessão da segurança para determinar que o redutor salarial incida de forma isolada” (fls. 4-8, e-doc. 8).
+
+    A conclusão do acórdão recorrido está em consonância com o entendimento firmado no julgamento dos Recursos Extraordinários ns. 612.975-RG e 602.043-RG (Temas 377 e 384), Relator o Ministro Marco Aurélio, nos quais este Supremo Tribunal firmou tese no sentido de que, “nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público” (DJe 8.9.2017).
+
+    6. Rever a conclusão sobre a natureza jurídica da remuneração e do vínculo do agravante com a Academia de Polícia Militar do Barro Branco demandaria a análise do conjunto fático-probatório e da legislação infraconstitucional aplicável à espécie, procedimentos incabíveis em recurso extraordinário com agravo. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ACUMULAÇÃO DE CARGOS. TETO REMUNERATÓRIO. INCIDÊNCIA. REMUNERAÇÃO DE CADA UM DELES. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 37, XI E XVI, ‘B’, E 102, CAPUT, I, DA CONSTITUIÇÃO DA REPÚBLICA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. RE 602.043-RG. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que ‘Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público’. Precedente: RE 602.043, Rel. Min. Marco Aurélio, Tribunal Pleno, Repercussão Geral, DJe 08.9.2017. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE n. 1.306.692-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 13.4.2021).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. DELEGADA DE POLÍCIA CIVIL E PROFESSORA DA ACADEMIA DE POLÍCIA – ACADEPOL. ACUMULAÇÃO DE CARGOS. TETO REMUNERATÓRIO. TEMAS 377 E 384 AFASTADOS PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO NA LEGISLAÇÃO LOCAL E NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.324.982-AgR, de minha relatoria, Primeira Turma, DJe 4.10.2021).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 5.12.2018. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS PÚBLICOS. NATUREZA DO CARGO. LCE 96/2010. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. PRECEDENTES. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à natureza do cargo em face das funções desempenhadas pela servidora, exija-se o reexame de legislação local aplicável à espécie (LCE 96/2010). Incidência da Súmula 280 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Incabível a fixação de honorários advocatícios em mandado de segurança, nos termos da Súmula 512 do STF” (RE n. 1.171.254-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 8.11.2019).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Acumulação de cargos públicos. Art. 37, XVI, b, da CF de 1988. 2. Definição das funções de magistério. ADI 3.722. 3. Necessidade de interpretação da legislação infraconstitucional pertinente, para a definição da natureza das atividades desenvolvidas pela agravada. Impossibilidade em sede recursal extraordinária. 4. Agravo regimental a que se nega provimento” (ARE n. 813.081-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 5.11.2015).
+
+    Nesse mesmo sentido, as seguintes decisões monocráticas proferidas em casos semelhantes ao presente: ARE n. 1.388.058, Relator o Ministro Luiz Fux, DJe 21.6.2022; ARE n. 1.375.251, Relator o Ministro Gilmar Mendes, DJe 23.5.2022 e ARE n. 1.375.343, Relator o Ministro Dias Toffoli, DJe 10.5.2022.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 22 de junho de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
