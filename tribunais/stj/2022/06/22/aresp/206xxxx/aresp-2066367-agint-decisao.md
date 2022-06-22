@@ -1,0 +1,39 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno interposto por FRANCISCO JACIR PERIN, reconsidero a decisão proferida às fls. 242/246 (e-STJ) e passo à nova análise do agravo em recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S. A., contra decisão denegatória do recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de Busca e Apreensão ajuizada por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S. A. em face de FRANCISCO JACIR PERIN.
+Sentença: julgou extinto o feito.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da ementa a seguir transcrita:
+"APELAÇÃO CÍVEL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. MORA NÃO CONSTITUÍDA. AVISO DE RECEBIMENTO (AR) QUE RETORNOU COM A INFORMAÇÃO DE AUSENTE. NECESSIDADE QUE A NOTIFICAÇÃO SEJA RECEBIDA NO ENDEREÇO, AINDA QUE NÃO SEJA NA PESSOA DO DEVEDOR. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE PRESSUPOSTO PARA O DESENVOLVIMENTO VÁLIDO DO PROCESSO. HONORÁRIOS RECURSAIS FIXADOS. RECURSO DESPROVIDO." (e-STJ, fl. 152)
+Recurso especial: alega ofensa ao art. 2º, §2º do Decreto-Lei 911/69, sustentando ser suficiente a comprovação da mora do devedor com o envio da notificação extrajudicial no endereço constante no contrato, e com a devolução por ausência.
+Decisão monocrática: conheceu do agravo para dar provimento ao recurso especial de AYMORÉ CREDITO, FINANCIAMENTO E INVESTIMENTO S.A, ora agravada.
+Agravo interno: alega que, ao contrário do decidido por esta relatoria, é imprescindível, para a comprovação da mora, o recebimento da notificação da AR pelo devedor, não bastando apenas o envio para seu endereço. Diz que não foram esgotados todos os meios de encontrá-lo, tendo em vista que as ARs foram enviadas em horários em que não estava em casa, mas que sempre residiu no local, não podendo ser prejudicado por isso. Diz que não restou comprovada a mora.
+Relatado o processo, decide-se.
+Julgamento: aplicação do CPC/2015.
+- Da Súmula 568 do STJ.
+Segundo o disposto no art. 2º, § 2º, do DL 911/69, na alienação fiduciária, "a mora decorrerá do simples vencimento do prazo para pagamento", referindo-se, portanto, ao seu autêntico caráter de mora ex re. Não obstante, a legislação de regência acrescentou uma formalidade legal para a documentação da mora, dispondo que a mesma "poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+A comprovação da mora, aliás, na forma referida, constitui pressuposto para que seja concedida a liminar de busca e apreensão do bem alienado fiduciariamente.
+O Tribunal de origem concluiu pela falta de notificação válida pelo recorrente no endereço indicado no contrato pelo devedor, por ausência de efetivo recebimento, conforme se verifica do trecho a seguir:
+"é desnecessário que a notificação seja recebida pessoalmente pelo devedor,sendo suficiente o mero encaminhamento da notificação, com aviso de recebimento entregue no endereço apontado no instrumento contratual. Em outras palavras: imprescindível que a, ainda que não seja na pessoa do devedor. notificação enviada seja recebida no endereço. No caso em exame, em que pese o credor tenha enviado notificação para o endereço 6 constante no Contrato a correspondência não foi entregue pelo motivo "ausente", não sendo 7 devidamente constituída, portanto, a mora: (..) Ressalte-se que inexiste informação de que a parte devedora tenha mudado de domicílio, muito pelo contrário, no Comprovante de Residência juntado no mov. 22.6, consta o mesmo endereço do Contrato de Financiamento. Assim, escorreita a decisão que extinguiu o feito, sem resolução de mérito, ante a falta de pressuposto para o desenvolvimento válido do processo e ausência de interesse processual." (e-STJ, fls. 153/154)
+Decidiu, portanto, nos conforme jurisprudência desta Corte sobre o tema, no sentido de ser necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor, ainda que o recebimento não seja feito pelo próprio devedor.
+A propósito, confiram-se os seguintes precedentes: AgInt no AREsp n. 889.096/PR, QUARTA TURMA, julgado em 04/08/2016, DJe de 12/08/2016; AgRg no AREsp n. 520.179/RS, TERCEIRA TURMA, julgado em 23/09/2014, DJe de 30/09/2014; AgInt no REsp n. 1.928.759/DF, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021; REsp 1.954.496/RS, QUARTA TURMA, DJe de 03/11/2021.
+Incide, portanto, a Súmula n. 568 do STJ.
+- Do reexame fático probatório
+Ademais, para dissentir das conclusões do acórdão recorrido, a fim de considerar válidas tanto a notificação quanto a constituição da parte devedora em mora, seria necessário reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, a teor da Súmula n. 7 do STJ.
+Sobre o tema: AgInt no REsp n. 1.911.754/RS, TERCEIRA TURMA, julgado em 11/05/2021, DJe 14/05/2021; AgRg no AREsp n. 357.407/RS, QUARTA TURMA, julgado em 03/12/2013, DJe 03/02/2014.
+- Do dissídio jurisprudencial
+Por fim, a falta da similitude fática, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio, uma vez que não caracterizada a identidade entre os casos trazidos como precedentes e o acórdão recorrido.
+Outrossim, a incidência das Súmulas 5 e 7/STJ, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+DISPOSITIVO
+Forte nessas razões, reconsidero a decisão agravada para, em novaanálise, CONHECER do agravo e, com fundamento no art. 932, III e IV, "a",do CPC/2015, bem como na Súmula 568/STJ, NEGAR PROVIMENTO ao recursoespecial deAYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição desterecurso, majoro os honorários fixados anteriormente (e-STJ fl. 155) para R$1.400,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar sua condenação ao pagamento das penalidades fixadas nosarts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COMPROVAÇÃO DA MORA DO DEVEDOR. NOTIFICAÇÃO EXTRAJUDICIAL. AVISO DE RECEBIMENTO (AR) COM INFORMAÇÃO "AUSENTE". AUSÊNCIA DE COMPROVAÇÃO DO EFETIVO RECEBIMENTO NO ENDEREÇO. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DISSIDIO PREJUDICADO. DECISÃO RECONSIDERADA.
+1. Ação de busca e apreensão de bem alienado fiduciariamente.
+2. O encaminhamento de notificação ao endereço do devedor informado no contrato, por meio de carta com aviso de recebimento, é suficiente para a comprovação da mora no contrato de alienação fiduciária, sendo desnecessário ao credor comprovar o efetivo recebimento da correspondência pelo seu destinatário.
+3. A jurisprudência desta Corte é firme no sentido de que, para a busca e apreensão nos contratos de alienação fiduciária, necessária a comprovação da mora por meio da notificação extrajudicial do devedor, realizada por intermédio de carta registrada enviada por Cartório de Títulos e Documentos, entregue no domicílio do devedor, dispensando-se a notificação pessoal. Precedentes.
+4. O reexame fático probatório é inadmissível em recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ acerca dos temas que se supõe divergentes impedem o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. Reconsiderando a decisão agravada, conheço do agravo para negar provimento ao recurso especial.
