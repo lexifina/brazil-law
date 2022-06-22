@@ -1,0 +1,13 @@
+DECISÃO
+PAULO HENRIQUE NOGUEIRA SOARES ALVESalega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão no HC n. 0821027-21.2021.8.10.0000.
+Nesta Corte, a defesa sustenta ser ilegal a negativa do direito de recorrer em liberdade, na sentença que condenou o acusado à pena de 10 anos de reclusão, em regime inicial semiaberto (fixado pela detração do período da custódia cautelar), mais, multa, como incurso no art. 158, §1º, do Código Penal, por considerar que "tal situação é incompatível com a prisão cautelar" (fl. 138).
+Ao proferiro acórdão combatido, a Corte estadual consignou que (fls. 133-134, grifei):
+Conforme se extrai dos autos, os impetrantes defendem "a inviabilidade da manutenção da prisão preventiva em sentença condenatória pela qual se fixa o regime semiaberto para início do cumprimento da pena privativa de liberdade", por representar a imposição de um regime prisional mais gravoso.
+Ocorre, todavia, que, segundo informado pela autoridade coatora, fora providenciada a expedição da guia de execução provisória e encaminhada à Vara de Execuções Penais para que o sentenciado possa ter direito aos benefícios da LEP.
+Desta feita, através de consulta ao Sistema SEEU - Sistema Eletrônico de Execução Unificado, contatei a existência do Processo de Execução nº 5000067-20.2022.8.10.0141, no qual, em 15.02.2022, foi exarado atestado de pena, demonstrando que atualmente o aqui paciente encontra-se cumprindo pena em regime semiaberto.
+Em assim sendo, não procede a alegação de que o paciente encontra-se submetido a um regime prisional mais gravoso que o estabelecido na sentença condenatória.
+Outrossim, considerando a expedição da competente guia de execução provisória do paciente, eventuais benefícios existentes em seu favor serão reconhecidos com o decorrer do tempo, inclusive já estando prevista a progressão para o regime aberto no dia 20.06.2022.
+Na hipótese, o decisum impugnado, ao reconhecer a compatibilização do regime estabelecido com a constrição cautelar, pelo Juízo da execução, até mesmo com a previsão da progressão para o regime aberto em data próxima, está em consonância com a jurisprudência desta Corte Superior.
+Ilustrativamente: "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime" (RHC n. 134.443/GO, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020, grifei).
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
