@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MATHEUS DAS GRAÇAS MAXIMIANOcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao apelo defensivo e manteve a condenação do paciente à pena de 2anos e 2meses de reclusão, em regime semiaberto, mais o pagamento de 217 dias-multa, como incurso no art. 33, caput, c/c§ 4º, da Lei n. 11.343/2006.
+Neste writ, a defesa alega que não há fundamento válido para o estabelecimento do regime mais severo e que é cabível a substituição da pena privativa de liberdade por restritivas de direitos.
+Aponta que a fixação do regime intermediário baseou-seapenas na gravidade abstrata e na hediondez do delito. Aduz, ainda,que o acusado foi punido duas vezes na sentença com a utilização da quantidade e variedade da drogapara majorar a pena-base e fixar o regime inicial semiaberto.
+Requer, em liminar e no mérito, a colocação dopaciente em regime aberto e a substituição da pena privativa de liberdade em restritivas de direitos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, cumpre destacar que a tese de que o paciente faz jus à prisão domiciliar não foiobjeto de impugnação no acórdão originário. Logo, é inviávelo conhecimento dos temasdiretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ .. .
+(HC 400.229/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+Por sua vez, asentença condenatória estabeleceu a dosimetria da pena nos seguintes termos:
+A culpabilidade, entendida como o grau de reprovação da conduta do agente, não extrapola os limites próprios ao grave crime em exame.
+Os antecedentes do réu revelam tratar-se de pessoa tecnicamente primária.
+A conduta social do agente não foi noticiada.
+A personalidade do acusado não pode ser levada em consideração, por inexistir elemento que a revele.
+Os motivos do crime são os próprios à espécie.
+As circunstâncias do delito apresentam relevo nesta dosimetria, pois se está diante de grande quantidade (129 porções) e variedade (maconha, crack e cocaína) de entorpecentes, dois deles notoriamente devastadores do sistema nervoso central dos usuários e de alto poder viciante (cocaína e crack).
+As consequências do crime são ínsitas ao tipo penal em exame, tais como o abalo e comprometimento da saúde pública.
+O comportamento da vítima não pode ser sopesado, tratando-se esta da própria sociedade.
+Pelas circunstâncias judiciais apuradas, bem como pela quantidade e diversidade de droga apreendida - art. 42, da Lei 11.343/06 -, fixo a pena-base um pouco acima do mínimo legal, totalizando, em, 07 (sete) anos de reclusão e pagamento de 700 (setecentos) dias-multa, à razão de um trigésimo do salário mínimo.
+Reconhecida a atenuante da menoridade, reduzo a pena em 06 (seis) meses e pagamento de50 (cinquenta) dias-multa, totalizando a pena, nesta fase, em 06 (seis) anos e 06 (seis) meses de reclusão e pagamento de 650 (seiscentos e cinquenta) dias-multa.
+Incidente a causa especial de diminuição de pena prevista no §4º do art. 33 da Lei n.
+11.343/06, conforme esposado na fundamentação, a redução há de ser operada em fração máxima (dois terços), ficando a reprimenda concretizada em 02 (dois) anos e 02 (dois) meses de reclusão e pagamento de 217 (duzentos e dezessete) dias-multa à razão de um trigésimo do salário-mínimo vigente na data dos fatos.
+Diante as circunstâncias altamente negativas, o regime inicial de cumprimento de pena seria o semiaberto.
+Incabíveis a substituição da pena privativa de liberdade por restritivas de direitos e sursis, por não se revelar suficiente e necessária à prevenção e repressão do crime (art. 44, II e III, e art. 77, I, ambos do Código Penal). (e-STJ, fls. 42-43)
+O Tribunal de origem manteve o regime intermediário sob a seguinte motivação:
+Observo que a magistrada sentenciante considerou desfavoráveis as circunstâncias do delito, havendo consignado:
+As circunstâncias do delito apresentam relevo nesta dosimetria, pois se está diante de grande quantidade (129 porções) e variedade (maconha, crack e cocaína) de entorpecentes, dois deles notoriamente desvastadores do sistema nervoso central dos usuários e de alto poder viciante (cocaína e crack) (fl. 240).
+É certo que, nos termos do disposto no art. 42 da Lei de Drogas, "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade dasubstância ou do produto, a personalidade e a conduta social do agente".
+Anoto que, embora a técnica de fixação da pena possa não ter sido a melhor, neis que as circunstâncias do delito é que foram desvaloradas, pela quantidade e natureza da droga apreendida, faz-se evidente que a MM. Juíza, por ocasião da fixação da pena basilar, tratando-se de crime de tráfico de drogas, considerou a quantidade e a variedade de droga apreendida, conforme estabelece o art. 42 da Lei n. 11.343/2006, impondo a pena acima do mínimo legal.
+Assim, não há qualquer reparo a ser feito na dosimetria da pena, porquanto o recrudescimento da pena-base promovido na sentença foi adequado e suficiente considerando a quantidade e a natureza da droga apreendida - 111,5g de cocaína (63 pedras de crack e 54 pinos de cocaína) e 11,10g de maconha (12 buchas) - sendo certo que foram observados os princípios da razoabilidade e da proporcionalidade.
+Do pedido de fixação do regime aberto e do pedido de substituição da pena corporal por restritivas de direitos.
+Melhor sorte não assiste ao recorrente quando pugna pela fixação do regime aberto e pela substituição da pena privativa de liberdade por restritivas de direito.
+Não obstante a primariedade e os bons antecedentes do recorrente, considerando a quantidade e a variedade de drogas apreendidas, tenho que deve ser mantida a fixação do regime semiaberto para o início do cumprimento da pena imposta ao recorrente, bem como negada a substituição da pena corporal por restritivas de direitos, eis que não atendido o requisito previsto no inciso III, art. 44, do Código Penal, não sendo recomendável tal substituição. (e-STJ, fls. 28-29)
+Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso dos autos, contudo, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, as circunstâncias judiciais da natureza e quantidade da droga apreendida (111,50g de cocaína 11,10g de maconha) foram valoradas negativamente na primeira fase da dosimetria para elevar a pena-base acima do mínimo legal, razão pela é cabível a impostição do regime mais severo.
+Ademais, descabe falar em bis in idem, pois a valoração da quantidade e natureza dos entorpecentesna dosagem da pena e na fixação do meio prisionaldecorre da própria literalidade da lei, conforme se depreende dos arts. 68 e 33 do CP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. REGIME SEMIABERTO. PENA DE 4 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. APREENSÃO DE 1.007,55 G. DE ENTORPECENTES. BIS IN IDEM NÃO CONFIGURADO. CONSTRANGIMENTO NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - In casu, embora a pena de 04 anos de reclusão comporte o regime aberto, a presença de circunstância judicial desfavorável, que embasou a fixação da pena-base acima do mínimo legal, qual seja, a apreensão de 1.007,55 g de Cannabis Sativa L, substância vulgarmente conhecida por maconha, permite o recrudescimento do regime imposto, nos termos do § 3º do art. 33 do Código Penal.
+III - Não há que se falar em bis in idem na ponderação das circunstâncias judiciais desfavoráveis tanto para elevar a pena, na primeira etapa dosimétrica, quanto para agravar o regime prisional inicial imposto, pois a própria lei dispõe que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 do Código Penal (art. 33, § 3.º, do Código Penal). (AgRg no HC n. 722.854/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/03/2022).
+Agravo regimental desprovido.
+(AgRg no HC n. 728.357/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. PLEITO DE FIXAÇÃO DO REDUTOR DA PENA NA FRAÇÃO MÁXIMA. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGADO BIS IN IDEM PELA SUPOSTA UTILIZAÇÃO SIMULTÂNEA DA NATUREZA E DA QUANTIDADE DE DROGA TANTO PARA ELEVAR A PENA-BASE QUANTO PARA NEGAR OU MODULAR O REDUTOR DA SANÇÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO REGIME SEMIABERTO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+ ..
+3. Não obstante o montante final da sanção tenha ficado em patamar aquém de 4 (quatro) anos de reclusão, a existência de circunstância judicial negativa justifica a fixação do regime semiaberto para o início do cumprimento da pena e autoriza a negativa da substituição da pena privativa de liberdade por restritivas de direitos.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.792.368/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe de 25/11/2021.)
+Do mesmo modo, vale anotar que a substituição da pena privativa de liberdade por restritivas de direito mostra-se insuficiente, em razão da falta do atendimento do pressuposto subjetivo (art. 44, III, do CP), especificamente a quantia e naturezadas drogas (HC 390.554/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
