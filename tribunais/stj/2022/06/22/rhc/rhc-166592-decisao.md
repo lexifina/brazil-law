@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Rogerio Salomão Saturninocontra acórdão do Tribunal de Justiça de Mato Grosso do Sul, assim ementado (fl. 118):
+EMENTA -HABEAS CORPUS - ESTATUTO DO DESARMAMENTO - PRISÃO PREVENTIVA - PEDIDO DE REVOGAÇÃO- PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA - NECESSIDADE PARA A GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL - PRESSUPOSTOS E FUNDAMENTOS DO ART. 312 DO CPP - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - NÃO RECOMENDADO - ORDEM DENEGADA.
+Havendo prova da existência do crime e indícios suficientes de autoria, justifica-se a manutenção da prisão preventiva para resguardar a ordem pública e a aplicação da lei penal, eis que o paciente foi preso em flagrante pelos delitos de porte/posse de armamentos de uso permitido e restrito durante o cumprimento de mandado de busca e apreensão decorrente de investigações que apuram seu envolvimento em crimes de organização criminosa; tortura e lavagem de dinheiro provenientes do tráfico de drogas. As condições pessoais favoráveis do paciente não bastam, por si só, para a concessão da liberdade provisória, mormente quando se encontram presentes os requisitos e pressupostos da prisão cautelar, elencados no art. 312 do Código de Processo Penal. Inviável a aplicação das medidas cautelares previstas no art. 319 do CPP quando a manutenção da prisão preventiva se mostrar mais recomendável.
+Narram os autos que, no dia 22/4/2022, o recorrente foi preso em flagrante pela prática, em tese, dos crimes de posse ilegal de arma de fogo de uso permitido e porte ilegal de munição de uso restrito, tendo o Juízo de Direito da Vara Única da comarca de Itaporã/MS convertido a prisão em flagrante em preventiva, sob o fundamento da garantia da ordem pública (fls. 27/31 -Autos n. 0004006-02.2022.8.12.0800).
+Inconformada, a defesa impetrou habeas corpus na colenda Corte de origem, que denegou a ordem (fls. 118/123 - Habeas Corpus n. 1405467-96.2022.8.12.0000).
+Aqui, o recorrente alega constrangimento ilegal na decretação e manutenção da prisão cautelar imposta, ao argumento de que,por ser o réu relativamente primário, atividade licita (comerciante), pai de família, trabalhador "provedor da família", residência fixa desde criança na cidade de Itaporã/MS, e por fim em respeito aos princípios Constitucionais e Processuais Penais (fl. 133).
+Postula, então, o conhecimento e o provimento liminar do recurso para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+É o relatório.
+Confira-se, no que interessa, a decisão que impôs a segregação cautelar do recorrente (fls. 27/28 - grifo nosso):
+ ..
+II.
+É sabido que, com o advento da reforma processual penal introduzida pela Lei n.12.403/2011, houve profundas e importantes alterações nas regras afetas à existência das prisões cautelares, dentre as quais podemos destacar àquela atrelada aos requisitos autorizadores daprisão preventiva.
+Isso porque, a nova lei processual passou a admitir a adoção da prisão preventiva, nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos, dentre outras hipóteses dispostas no art. 313 do Código de Processo Penal.
+Deflui-se, pois, que a manutenção da prisão preventiva, poderá ser adotada, sem análise dos demais requisitos fáticos previstos no art. 312, do mesmo diploma legal, desde que a pena máxima cominada ultrapasse 4 (quatro) anos.
+A prisão cautelar tem pressuposto na garantia da ordem pública e para assegurar a aplicação da lei penal.
+Primeiro porque o porte de arma de fogo é crime de perigo abstrato, segundo trata-se de munição de uso restrito, com poderoso calibre (9mm), tratando-se de crime equiparado a hediondo, incompatível, em via de regra, com a liberdade provisória.
+No caso dos presentes autos, considerando o modus operandi, o calibre do armamento e as circunstâncias concretas do caso, torna-se evidente, ao menos nesta fase do processo, que a substituição da prisão por qualquer das medidas cautelares previstas no artigo 319 do CPP não seria suficiente para garantir a ordem pública, o interesse processual e assegurar a aplicação da lei penal.
+Verifica-se ainda que o indiciado nos autos de nº 0000412-38.2022.8.142.0037, em trâmite na Comarca de Itaporã, teve sua prisão preventiva decretada por integrar organização criminosa, auxiliando, inclusive, em transações bancárias, de modo que resta indubitável a necessidade de se manter a segregação do acusado, a fim de assegurar garantir a ordem pública e para assegurar a aplicação da lei penal.
+Consigna-se também que não se concede a liberdade provisória, mesmo quando há condições favoráveis comprovadas, pois, por si mesmas, não garantem eventual direito em responder ao processo em liberdade, sobretudo quando presentes os requisitos que autorizam a segregação cautelar (TJMS, HC 1410890-81.2015.8.12.0000, rel. Des. Francisco Gerardo de Souza, julg. 5.10.2015).
+Não obstante, verifico estarem presente in casu os requisitos para a conversão do flagrante em prisão preventiva, que seja, fumus comissi delicti e periculum in libertatis, vez que a prática delituosa de porte de arma de fogo e de munição, inclusive de uso restrito representa à perturbação da paz social.
+Portanto, visando a garantia da ordem pública, a medida que se impõe a priori é aquela prevista no art. 312 e s/s do Códigode Processo Penal, não sendo possível, por ora, a aplicação de medida cautelar diversa, mesmo não tendo o indiciado antecedentes criminais, conforme se depreende de informações constantes nos autos.
+A propósito, acerca do tema, eis entendimento do E. Tribunal de Justiça do Mato Grosso do Sul estampado em precedente abaixo, corroborando ainda mais o que foi dito e fundamentado.
+ ..
+Da atenta análise dos trechos transcritosverifico queo único elemento concreto apontado pelo Magistrado singular consiste no fato de que o recorrente responde a uma ação penal pela prática do crime de participação em organização criminosa.
+No entanto, considerando que os crimes atribuídos não foram cometidos com violência ou grave ameaça à pessoa, bem como o fato de que o acusado é primário, entendo adequada e proporcional a substituição da prisão por medidas alternativas, consistentes em:
+a) comparecimento mensal em juízo para informar e justificar suas atividades;
+b) proibição de frequentar bares e festas; e
+c) proibição de se ausentar da comarca sem autorização judicial.
+Em face do exposto, dou provimento ao recurso para substituir a prisão preventiva imposta ao recorrente por medidas alternativas, previstas no art. 319, I, II e IV, do Código de Processo Penal, a serem implementadas e fiscalizadas pelo Magistrado singular.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS.POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E PORTE ILEGAL DE MUNIÇÃO DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
