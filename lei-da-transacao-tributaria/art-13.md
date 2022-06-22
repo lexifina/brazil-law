@@ -1,3 +1,3 @@
-Art. 13. Compete ao Procurador-Geral da Fazenda Nacional, diretamente ou por autoridade por ele delegada, assinar o termo de transação realizado de forma individual.
+Art. 13. Compete ao Procurador-Geral da Fazenda Nacional, quanto aos créditos inscritos em dívida ativa, e ao Secretário Especial da Receita Federal do Brasil, quanto aos créditos em contencioso administrativo fiscal, assinar o termo de transação realizado de forma individual, diretamente ou por autoridade delegada, observada a Lei Complementar nº 73, de 10 de fevereiro de 1993.
 § 1º A delegação de que trata o caput deste artigo poderá ser subdelegada, prever valores de alçada e exigir a aprovação de múltiplas autoridades.
 § 2º A transação por adesão será realizada exclusivamente por meio eletrônico.
