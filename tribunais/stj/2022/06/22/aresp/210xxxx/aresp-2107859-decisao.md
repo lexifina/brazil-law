@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATAÇÃO DE SEGURO OURO VIDA GRUPO ESPECIAL COLETIVO. DESCONTO EM DÉBITO AUTOMÁTICO. NEGATIVA DE PAGAMENTO DA INDENIZAÇÃO. AUSÊNCIA DE NOTIFICAÇÃO DE INADIMPLEMENTO E CANCELAMENTO DA APÓLICE. APLICAÇÃO DA S.616 DO STJ. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MORAL CONFIGURADO. MANUTENÇÃO DA SENTENÇA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 17 e 485, VI, do CPC, no que concerne à sua ilegitimidade passiva, trazendo os seguintes argumentos:
+No presente caso, o requerido não é parte legitima para figurar no polo passivo, haja vista que a relação jurídica existente é entre o Autor e a seguradora MAPFRE Assistência LTDA, pessoa jurídica de direito privado, inscrito no CNPJ sob o nº 68.181.221/0001-47.
+A seguradora MAPFRE Assistência LTDA é pessoa jurídica diversa do Banco do Brasil S/A, esta sociedade de economia mista, inscrita no CNPJ sob o nº 00.000.000/0001-91, possuindo desta forma, além de CNPJ"s distintos, sócios também distintos, não se estabelecendo nem no mesmo local.
+Assim, não podem recair sobre uma empresa as obrigações assumidas por outra.
+Destarte, a parte recorrente é parte manifestamente ilegítima para figurar no polo passivo da presente demanda.
+Da análise dos autos se infere que pretende a parte autora, dentre outras, obter reparação indenizatória diante da negativa de cobertura do seguro contratado junto a seguradora MAPFRE Assistência LTDA.
+Assim sendo importante destacar que a parte ré, enquanto corretora de seguros, data vênia, não possui qualquer responsabilidade sobre o presente caso, principalmente porque o que se discute é prestação de serviço de seguro, e não vício na prestação de serviço de corretagem.
+Como se sabe, as corretoras de seguros são empresas autorizadas a vender seguros, intermediando sua compra e venda, jamais assumindo, entretanto, risco relativo a sinistro previsto na apólice.
+Sendo assim, inviável responsabilizar a parte ré por eventual negativa indevida de cobertura, quando sequer fez parte da relação de direito material.
+Não bastasse isso, da análise da própria documentação colacionada pela parte autora se infere que a seguradora responsável pelo referido seguro é a seguradora MAPFRE Assistência LTDA, fato que corrobora com a alegação da parte ré de que a mesma não possui qualquer responsabilidade sobre os fatos alegados na inicial.
+Destarte, data vênia, se configura como ilógica a pretensão de se imputar diretamente a corretora de seguros, a responsabilidade por fato realizado por outro. Tal proposição fere o princípio da individualização, posto ultrapassar a figura sobre quem deveria recair a culpa, nos termos do que prescreve a Lei 8.078/90.
+ ..
+Vale lembrar que a relação existente entre consumidor e seguradora é autônoma e absolutamente independente.
+Ademais é sabido que em ações que versam sobre direito securitário, a seguradora deve compor a lide e responder a presente demanda, uma vez que foi ela quem contratou com o consumidor.
+Conclui-se, assim, ser única e exclusivamente da seguradora MAPFRE Assistência LTDA, a responsabilidade pela eventual recusa indevida da indenização - se é que é indevida, haja vista ser a única responsável pela administração do seguro contratado pela parte autora.
+Ora, clarividente que esta parte ré é ilegítima para figurar no polo passivo da presente lide, haja vista que não assumiu qualquer risco relativo à apólice do seguro contrato pela parte autora, motivo pelo qual, acaso venha a ser condenada a indenizar a mesma pelo sinistro, estará configurado enriquecimento sem causa!
+ ..
+Lado outro frisa-se que inexiste nos autos qualquer prova de que essa corretora de seguros tenha transgredido qualquer norma jurídica.
+Diante do exposto, nos termos dos fundamentos supracitados, requer seja reconhecida ilegitimidade passiva da parte ré, extinguindo o feito em relação a mesma, portanto, sem resolução do mérito, nos termos do que prescreve a norma do Art. 485, inciso VI do CPC (fls. 257/260).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No presente, a titular do seguro contratou pela estipulante FENAB, seguro ouro vida grupo especial com o Banco do Brasil S/A. Note-se, que consta da apólice de seguros que o mesmo é celebrado com BB Seguros com desconto do prêmio por débito automático na conta corrente autoral, existente junto a agência do réu. Assim, não há dúvida de que o Banco réu pode integrar a lide, tratando-se de obrigação solidária.
+Ressalte-se que o réu Banco réu, participou ativamente da contratação do seguro, integrando a cadeia de consumo (fl. 245).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
