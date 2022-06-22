@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 487/495) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. DECISÃO LIMINAR. AUSÊNCIA DE DEFINITIVIDADE. RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA 735/STF (POR ANALOGIA). CRITÉRIOS PARA CONCESSÃO OU NÃO DE TUTELA ANTECIPADA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A embargante aduz, em síntese, que:
+Todavia, data maxima venia, o v. acórdão deixou de considerar as alegações da Embargante apresentadas no agravo, especialmente no que tange a falta de análise das matérias de ordem pública, as quais comprovam a probabilidade do direito, e que devem ser analisadas a qualquer momento e em qualquer instância.
+Requer sejam acolhidos os embargos.
+É o relatório. Passo a decidir.
+A decisão embargada não se ressente do vício arguido.
+Relativamente ao ponto abordado pela embargante, o decisum em foco registrou o seguinte (fls. 483/484):
+Primeiramente, deixo de apreciar as questões atinentes à ilegitimidade de parte, prescrição e decadência, sob pena de supressão de instância, já que estas matérias não foram objeto de pronunciamento pelo juiz de primeiro, sendo que ainda é tempo dele se manifestar a respeito. O Superior Tribunal de Justiça firmou entendimento, sob o regime dos recursos repetitivos, de que o art.739-A do CPC/73 (art. 919 do atual CPC) é aplicável às execuções fiscais no que se refere à atribuição de efeito suspensivo.
+ ..
+Entendo que os argumentos articulados nos embargos executórios não são relevantes a ponto de ensejar a concessão de tutela provisória, nem de postergar o prosseguimento da execução fiscal, já que não estão definitivamente comprovados nos autos.
+Ademais, a execução provisória é faculdade do credor. Caso a Fazenda Pública enverede para tanto, a alegação de risco de lesão grave irreparável ou de difícil reparação esbarra no teor da norma insculpida no art. 520, I a IV do atual Código de Processo Civil.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015. Verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  "os argumentos articulados nos embargos executórios não são relevantes a ponto de ensejar a concessão de tutela provisória"  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Ademais, o entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF, por analogia.
+ ..
+Além disso, a jurisprudência deste Superior Tribunal de Justiça é uníssona no sentido de que para avaliar os critérios adotados pela instância ordinária, que ensejaram a concessão ou não da tutela antecipada, é necessário o reexame do acervo probatórios dos autos, o esbarra no óbice da Súmula 7/STJ.
+Como se constata, a decisão embargada contém fundamentação suficiente para demonstrar que não houve violação ao art. 1.022 do CPC/15, porquanto não houve omissão, obscuridade, contradição ou erro material; bem como, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  "os argumentos articulados nos embargos executórios não são relevantes a ponto de ensejar a concessão de tutela provisória"  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ; por fim, o entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos do Enunciado 735/STF.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Nesse sentido, o entendimento firmado sob a égide do CPC/1973, mas inteiramente aplicável ao caso em comento: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Com efeito, a embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Registre-se que os aclaratórios não se prestam a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, o seguinte precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA.
+1. "A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado" (EDcl nos EDcl no AgRg nos EDcl no REsp n. 790.903/RJ).
+2. Agravo regimental desprovido.
+(EDcl no AREsp 22.011/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/04/2015, DJe 23/04/2015)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CABIMENTO: OCORRÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS REJEITADOS.
