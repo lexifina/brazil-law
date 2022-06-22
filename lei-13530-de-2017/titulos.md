@@ -1,0 +1,18 @@
+" CAPÍTULO I
+DO FUNDO DE FINANCIAMENTO ESTUDANTIL"
+" Seção I
+Das Receitas do Fundo de Financiamento Estudantil "
+" Seção II
+Da Gestão do Fundo de Financiamento Estudantil "
+"CAPÍTULO II-A
+DO FUNDO GARANTIDOR DO FUNDO DE FINANCIAMENTO ESTUDANTIL"
+"CAPÍTULO III-A
+DAS RESPONSABILIDADES E DAS PENALIDADES"
+"CAPÍTULO III-B
+DO PROGRAMA DE FINANCIAMENTO ESTUDANTIL"
+" Seção I
+Das Fontes de Recursos "
+" Seção II
+Dos Agentes Financeiros Operadores de Crédito "
+"CAPÍTULO IV
+DISPOSIÇÕES GERAIS E TRANSITÓRIAS"
