@@ -1,0 +1,1 @@
+Art. 10-A. A transação na cobrança de créditos tributários em contencioso administrativo fiscal poderá ser proposta pela Secretaria Especial da Receita Federal do Brasil, de forma individual ou por adesão, ou por iniciativa do devedor, observada a Lei Complementar nº 73, de 10 de fevereiro de 1993.

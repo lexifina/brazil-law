@@ -1,6 +1,7 @@
-Art. 14. Ato do Procurador-Geral da Fazenda Nacional disciplinará:
+Art. 14. Compete ao Procurador-Geral da Fazenda Nacional, observado o disposto na Lei Complementar nº 73, de 10 de fevereiro de 1993, e no art. 131 da Constituição Federal, quanto aos créditos inscritos em dívida ativa, e ao Secretário Especial da Receita Federal do Brasil, quanto aos créditos em contencioso administrativo fiscal, disciplinar, por ato próprio:
 I - os procedimentos necessários à aplicação do disposto neste Capítulo, inclusive quanto à rescisão da transação, em conformidade com a Lei nº 9.784, de 29 de janeiro de 1999;
 II - a possibilidade de condicionar a transação ao pagamento de entrada, à apresentação de garantia e à manutenção das garantias já existentes;
 III - as situações em que a transação somente poderá ser celebrada por adesão, autorizado o não conhecimento de eventuais propostas de transação individual;
 IV - o formato e os requisitos da proposta de transação e os documentos que deverão ser apresentados;
-V - os critérios para aferição do grau de recuperabilidade das dívidas, os parâmetros para aceitação da transação individual e a concessão de descontos, entre eles o insucesso dos meios ordinários e convencionais de cobrança e a vinculação dos benefícios a critérios preferencialmente objetivos que incluam ainda a idade da dívida inscrita, a capacidade contributiva do devedor e os custos da cobrança judicial.
+V - (revogado).
+Parágrafo único. Caberá ao Procurador-Geral da Fazenda Nacional disciplinar, por ato próprio, os critérios para aferição do grau de recuperabilidade das dívidas, os parâmetros para aceitação da transação individual e a concessão de descontos, entre eles o insucesso dos meios ordinários e convencionais de cobrança e a vinculação dos benefícios a critérios preferencialmente objetivos que incluam ainda a sua temporalidade, a capacidade contributiva do devedor e os custos da cobrança.
