@@ -1,0 +1,35 @@
+DECISÃO
+Município de Palmasajuizou ação contra SOCIC - Sociedade Comercial Irmãs Claudino S. A.,pleiteando, em suma, sustação de esbulho possessório cometido pela recorrida e o cancelamento do registro de imóveis objeto de escritura pública de compra e venda firmado entre as partes e, conforme alega, desrespeitado pela recorrida.
+A sentença julgou os pedidos parcialmente procedentes, para cancelar o contrato e determinar que a autora restituísse à ré os valores pagos pelos terrenos(fls. 441-445).
+O Tribunal de Justiça do Estado do Tocantinsreformou a sentença, nos termos assim ementados (fls. 602-603):
+APELAÇÃO CÍVEL. AÇÃO DE CANCELAMENTO DE REGISTRO PÚBLICO IMOBILIÁRIO. ESCRITURA PÚBLICA DE COMPRA E VENDA COM PACTO DE RETROVENDA. APELANTE SUSCITA PRELIMINAR DE NULIDADE ABSOLUTA NO PROCESSO ADMINISTRATIVO. NOTIFICAÇÃO VIA EDITAL. AUSÊNCIA DE ESGOTAMENTO DA COMUNICAÇÃO POR OUTROS MEIOS. APELO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+1 - Compulsando o processo administrativo, verifico que o Secretário Municipal expediu edital de notificação, determinando o comparecimento do representante legal da empresa apelante para sanar as irregularidades apontadas. O presente edital foi publicado no Diário Oficial do Município de Palmas, do dia 13 de novembro de 2012.
+2 - Diante da inércia do notificado, o processo administrativo em análise foi extinto, com reversão da posse dos lotes 03 a 12, da Av. São Paulo/Via Marginal, QD-01, no Distrito Industrial de Taquaralto, no Município de Palmas/TO, consoante Portaria nº 090/2012.
+3 - A intimação por meio de publicação oficial, como feito nos autos administrativos, somente pode ser realizada quando os interessados forem indeterminados, desconhecidos ou com domicílio indefinido, fatos que não coadunam com as circunstâncias do caso em epígrafe. Além do mais, a entidade apelada não exauriu os meios possíveis de intimação do interessado, para então determinar a notificação via Diário Oficial.
+4 - Por conseguinte, denota-se a configuração de nulidade processual, especificamente na comunicação de atos processuais, a qual gerou prejuízos a parte apelante que não pode se manifestar sobre as alegações da entidade municipal de descumprimento do negócio jurídico celebrado. Logo, patente a violação ao devido processo legal e ao pleno exercício do contraditório e da ampla defesa.
+5 - Apelo conhecido e provido, com declaração de nulidade dos atos administrativos de extinção da certidão precária de reserva de Imóvel e Habilitação para Alvará de Construção, assim como a reversão da posse dos lotes descritos na inicial. Decisão unânime.
+Os embargos de declaração opostos foram rejeitados (fls. 638-641).
+Município de Palmasinterpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 489,§ 1º, III,e 1.022, II e III, do CPC/2015, por omissão no acórdão recorrido quanto à insuficiência do processo administrativo para se alcançar a pretensão posta nos autos, qual seja, a desconstituição da escritura pública firmada entre as partes. Isso porque a rigidez e o formalismo inerentes ao procedimento de desfazimento dos atos levados a registro público atraem a atuação judicial.
+Foram apresentadas contrarrazões (fls. 669-672).
+É o relatório. Decido.
+Em relação à indicada violação dos arts. 489, § 1º, III, e 1.022, II e III, do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, a imprescindibilidade de ajuizamento de ação para se alcançar a pretensão da autora, tendo o julgador abordado a questão àfl. 640 do acórdão integrativo, consignando a possibilidade/necessidade de se abrir novo processo administrativo para discutir as cláusulas contratuais pactuadas com a parte adversa:
+Consoante voto juntado nestes autos, o processo administrativo violou o devido processo legal e o pleno exercício do contraditório e da ampla defesa.
+Nesse contexto, a aplicação da cláusula de retrovenda é nula, em razão de vício processual.
+Na demanda originária, a parte autora pugnou, unicamente, pelo cancelamento do registro imobiliário, decorrente da retrovenda apreciada na decisão administrativa.
+Por conseguinte, se a aplicação da retrovenda foi considerada nula, com devolução da propriedade para o Município embargante, nulo está, por arrastamento, o processo originário que acolheu o pedido da inicial.
+Logo, a entidade municipal deve abrir novo processo administrativo para discutir o cumprimento das cláusulas contratuais pela parte adversa, sem violar o devido processo legal.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA. ERRO JUDICIÁRIO NÃO CARACTERIZADO. POSTERIOR ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. DANOS MORAIS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+(..)
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 941.782/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDORES, ANUÊNIOS. BASE DE CÁLCULO REAJUSTADA PELO ÍNDICE 28,86%. RECONHECIMENTO PELA CORTE DE ORIGEM. ÔNUS DE SUCUMBÊNCIA - SÚMULA 7 DO STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1385196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 10/09/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial, implicando, ainda, na majoração da verba honorária em 2%.
+Publique-se. Intimem-se.
