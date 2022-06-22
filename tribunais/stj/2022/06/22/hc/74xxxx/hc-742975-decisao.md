@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deGUILHERME HENRIQUE NUNESem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Processo n. 1500300-65.2022.8.26.0599).
+Consta dos autos que o paciente foi preso em flagrante delito no dia 25/2/2022pela suposta prática do crime descrito no art. 33 da Lei n. 11.343/2006. O flagrante foi convertido em prisão preventiva.
+Owritimpetrado na origem teve a ordem denegada nos termos do acórdão de fls. 30-35.
+Irresignada, a defesa impetrou o presentehabeas corpusalegando ilegalidade do flagrante, posto que derivado de violação de domicílio por parte dos policiais que efetivaram a prisão. Esclarece que os requisitos da prisão preventiva não estão preenchidos e que a quantidade de drogas apreendida é ínfima, o que autoriza a concessão daliberdade do paciente.
+Por fim, sustenta o aumento dos casos de contaminação pelacovid-19, o que autoriza a aplicação da Recomendação n. 62/2020 do CNJ e, por consequência, a substituição da prisão preventiva por cautelares diversas, conforme dispõe o art. 319 do CPP.
+Requer seja concedida a ordem para revogar a prisão preventiva do paciente ou, subsidiariamente, seja substituída a prisão por cautelares diversas.
+As informações foram prestadas às fls. 46-48 e 51-60.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 62-63).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na situação exposta nos autos nãoconstatoa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Sabe-se que aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, o Tribunalde origem entendeu estar justificada a prisão preventiva do paciente ante a demonstração dos indícios mínimos de autoria e materialidade, a necessidade de garantir a ordem pública e a repercussão danosa da conduta reiterada praticada, demonstrando o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 34):
+Assim, havendo indícios suficientes de autoria e provada materialidade e desde que a permanência do réu em liberdade possa dar motivo a novos crimes ou cause repercussão danosa no meio social, cabe ao Juiz manter a custódia cautelar como garantia da ordem pública, constituindo em verdadeira medida de segurança.
+Ora, o crime de tráfico de entorpecentes é muito grave porque destrói a vida dos jovens e suas respectivas famílias. O traficante, visando auferir lucro, não se importa com seus semelhantes, preferindo praticar o nefasto comércio a qualquer outra atividade lícita, que não prejudique as pessoas.
+É bom lembrar que o Superior Tribunal de Justiça já considerou que "a presunção de inocência, princípio constitucional(artigo 5º, LVIII), significa que a sanção penal somente pode ser executada após o trânsito em julgado da sentença condenatória. Não se confunde com a prisão cautelar, que antecede àquela. Assim, se explica por sua natureza processual." (RTJ 141/371).
+Não vislumbro, pelas provas acostadas aos autos, que seja caso de concessão das medidas cautelares previstas no art. 319, do CPP, tendo em vista a gravidade do crime e as circunstâncias do fato, eis que se revelam inadequadas e insuficientes, na espécie.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No que diz respeito à aplicação da Recomendação n. 62/2020 do CNJ, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação n. 62/2020 do CNJ.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
