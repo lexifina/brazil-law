@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Igor Ben Hur Reis e Souza - denunciado, juntamente com os corréus Eric Alves Ferreira e Diego Marques Pereira de Oliveira, como incurso no art. 2º da Lei n. 12.850/2013 e arts. 299, caput, 304 e 168, § 1º, III, todos do Código Penal (Ação Penal n. 0029908-63.2016.8.13.0080) - contrao acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça de Minas Gerais no HC n. 1.0000.18.129870-4/0000, que denegou a ordem, mantendo a decisão de primeiro grau relativa à medida cautelar de suspensão do exercício profissional. O acórdão tem esta ementa (fl. 512):
+EMENTA: HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, FALSIDADE IDEOLÓGICA E APROPRIAÇÃO INDÉBITA. MEDIDA CAUTELAR DE SUSPENSÃO DO EXERCÍCIO PROFISSIONAL DA ADVOCACIA. POSSIBILIDADE. INDEPENDÊNCIA ENTRE AS ESFERAS PENAL E ADMINISTRATIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+- Conforme precedente do Superior Tribunal de Justiça, não existe relação de dependência entre as esferas penal e administrativa, nem vedação no Estatuto da Advocacia que impeça a atuação cautelar na esfera jurisdicional quando verificados seus requisitos.
+- Não há que se falar em constrangimento ilegal se a decisão que impôs ao advogado a medida cautelar estiver fundamentada em dados concretos, em especial como forma de evitar a reiteração delituosa.
+Neste Tribunal Superior, o recorrente almeja, em síntese, o provimento do presente recurso para excluir/levantar a medida cautelar de suspensão profissional determinada por ordem judicial (fl. 548).
+Estes autos foram a mim distribuídos por prevenção do RHC n. 80.637/MG.
+Liminar indeferida (fls. 556/559).
+Pedido de reconsideração formulado às fls. 564/566, com indeferimento às fls. 581/583.
+Prestadas as informações (fls. 573, 576,579 e.587/722), o Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso (fls. 726/735).
+Informações complementares às fls. 741/953.
+Petição requerendo admissão no feito na condição de assistente (OAB/Conselho Federal - fls. 957/971).
+É o relatório.
+O presente recursose insurge contra a imposição da medida cautelar de suspensão do exercício profissional, nos autos da Ação Penal n. 0029908-63.2016.8.13.0080, em que figuraracomo denunciadopela prática, em tese, dos crimes descritos no art. 2º da Lei n. 12.850/2013, arts. 299, caput, 304 e 168, § 1º, III, todos do Código Penal.
+Pois bem. Com a superveniência de sentença condenatória e posterior realização do julgamento do recurso de apelação (n. 1.0080.16.002990-8/001), em 8/3/2022, rejeitando as preliminares defensivas e dando parcial provimento aos apelos defensivos, por unanimidade de votos, verifica-se o exaurimento do objeto do recursoem liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos da decisão de primeiro grau, mas do aresto que a substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 8/3/2022, tem-se por esvaído o objeto do remédio heroico.
+Com efeito, nos termos do entendimento adotado por este Sodalício: Com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+E ainda: AgRg no HC n. 291.055/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014; e AgRg no RHC n. 36.064/DF, Ministro Moura Ribeiro, Quinta Turma, DJe 23/9/2013.
+Tal a circunstância, julgo prejudicado o recurso(art.34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. CRIMES DESCRITOS NO ART. 2ºDA LEI N. 12.850/2013, ARTS. 299, CAPUT, 304 E 168, § 1º, III, TODOS DO CÓDIGO PENAL. MEDIDA CAUTELAR DE SUSPENSÃO DO EXERCÍCIO PROFISSIONAL DA ADVOCACIA. PLEITO DE REVOGAÇÃO DA MEDIDA. IMPETRAÇÃO QUE SE VOLTA CONTRA INDEFERIMENTO EM WRIT ORIGINÁRIO (HC N. 1.0000.18.129870-4/000). SUPERVENIENTE SENTENÇA CONDENATÓRIA E POSTERIORJULGAMENTO DO RECURSO DE APELAÇÃO, COM REJEIÇÃO DAS PRELIMINARES E PARCIAL PROVIMENTO AOS APELOS DEFENSIVOS PARA REDUÇÃO DA PENA. SUBSTITUIÇÃO DA DECISÃO DE PRIMEIRO GRAUPELO ACÓRDÃO (APELAÇÃO N. 1.0080.16.002990-8/001). NOVO TÍTULO JUDICIAL. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA INTERPOSIÇÃO RECURSAL. PERDA DO OBJETO.
+Recurso prejudicado.
