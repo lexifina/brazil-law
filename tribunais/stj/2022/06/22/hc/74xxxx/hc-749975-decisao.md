@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em benefício de REINALDO DOS SANTOS SILVA apontando como autoridade coatora o Desembargador relator Freitas Filho, do Tribunal de Justiça do Estado de São Paulo (HC n. 2130613-11.2022.8.26.0000).
+Consta dos autos que o ora paciente cumpre pena pela prática do delito previsto no art. 121, § 1º, do Código Penal (1ª execução) e no art. 157, § 3º, 2ª parte, c/c o art. 14, II, ambos do Código Penal (2ª execução), estando o término de cumprimento das reprimendas previsto para 19/7/2026. Formulado pedido de progressão para o regime aberto, o pleito foi indeferido em 24/8/2021, ante a necessidade da realização do exame criminológico, o qual concluiu pela prematuridade do benefício. Por esta razão, foi indeferido o pedido de progressão ao regime aberto, contudo, na mesma decisão, foi determinada a realização de avaliação psiquiátrica. O referido exame pericial foi realizado no dia 21/2/2022, porém o laudo ainda não foi juntado aos autos da execução.
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem buscando a concessão da progressão para o regime aberto, com a expedição do alvará de soltura. Nentanto, o pedido liminar foi indeferido (e-STJ fls. 318/320).
+Daí o presentewrit,no qual a defesa reitera os argumentos lançados perante o Tribunal de origem.
+Ressalta que"já se passaram mais de 07 (sete) meses e, até a presente data, não fora realizado o exame psiquiátrico pelo Instituto de Medicina Social e de Criminologia de São Paulo.",e acrescenta que,"por 03 (três) vezes, o ilustre Juiz de Primeiro grau solicitou a juntada do exame técnico nos autos de execução criminal, porém, como dito e redito, já se passaram mais de 07 (sete) meses e, até a presente data, não temos o julgamento do requerimento de progressão de regime formulado em favor do Paciente."(e-STJ fl. 8).
+Requer, ao final,"SEJA CONCEDIDA LIMINARMENTE A ORDEM DE HABEAS CORPUS EM FAVOR DO PACIENTE PARA O FIM DE QUE SEJE CONCEDIDA A PROGRESSÃO AO REGIME ABERTO EM FAVOR DO PACIENTE, SEM AO MENOS A NECESSIDADE DA COMPLEMENTAÇÃO DO EXAME CRIMINOLÓGICO;"(e-STJ fl. 12).
+É, em síntese, o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SÚMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.(AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.(AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
