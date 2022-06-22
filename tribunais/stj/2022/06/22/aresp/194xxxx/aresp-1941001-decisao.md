@@ -1,0 +1,28 @@
+DECISÃO
+Trata-sede agravo em recurso especial interposto por GUSTAVO ALVES DE SOUZA contra a decisão que inadmitiu o recurso especial em razão da incidência daSúmulan. 7 do STJe da Súmula n. 279do STF.
+Alegaoagravanteque os pressupostos de admissibilidade do recurso especial foram atendidos.
+Orecurso especial, fundadono art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro(Apelação n. 0017393-11.2017.8.19.0042).
+Orecorrenteapontaviolação doart. 59do Código Penal.Defende ser indevido o aumento da pena basesem que haja fundamentação idônea para a elevação da pena em relação aos vetores da culpabilidade, personalidade, conduta social e maus antecedentes.
+As contrarrazões foram apresentadas às fls. 280-288.
+O Ministério Público Federal opinoupelo conhecimentodo agravo para que seja dadoprovimento ao recurso especial (fls. 340-345).
+É o relatório. Decido.
+O recurso merece prosperar.
+No que diz respeito à dosimetria da pena, dispôs a sentença o seguinte (fl. 176):
+Isto posto, JULGO PROCEDENTE O PEDIDO formulado na denúncia para CONDENAR o acusado GUSTAVO ALVES DE SOUZA como incurso nas penas do artigo 155, §1º do Código Penal.
+Observadas as diretrizes dos artigos 59 e 68 do Código Penal, passo a fixar-lhe a pena.
+A culpabilidade do acusado, aferível no caso concreto, revela merecer reprimenda mais severa do que o habitual. Os motivos do crime não o justificam. As circunstâncias do delito foram as usuais da espécie. Os autos revelam que o acusado tem a personalidade voltada para a prática de crimes contra o patrimônio, com inclinação ao alheio. Quanto às consequências do delito, registre-se não ter persistido a lesão patrimonial, ante a não recuperação dos bens. Sua conduta social é censurável. O acusado é primário, mas seus antecedentes não são bons. Por tais motivos, fixo-lhe a pena-base em 03 anos de reclusão e pagamento de 30 dias-multa, sendo cada dia-multa à razão de 1/30 do salário mínimo vigente ao tempo dos fatos.
+OTribunal de origem negouprovimento ao recurso de apelação da defesa, mantendo os termos da condenação na forma como posta na sentença.
+É assente no Superior Tribunal de Justiça a orientação de que "a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena" (AgRg no AREsp n. 1.677.105/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2020).
+Ademais, o STJ também entende que o aumento da pena-base em virtude das circunstâncias judiciais desfavoráveis do art. 59 do CP depende de fundamentação concreta e específica que extrapole os elementos inerentes ao tipo penal.
+No presente caso, inexiste fundamentação idônea que justifique o aumento da pena-base.
+Como bem dispôs o Ministério Público Federal em seu parecer, que adoto como razõesde decidir (fls. 344-345):
+Como se observa, o Julgador não aponta qualquer dado concreto que torne a culpabilidade mais acentuada, de modo a merecer punição mais rigorosa, o mesmo ocorrendo em relação à personalidade e conduta social, certo que se o demérito destas vetoriais se deve às anotações em sua FAC, tanto mais quando não há registro de sentença condenatória transitada em julgado, tais registros não autorizam o recrudescimento da pena-base, segundo reiterada jurisprudência dessa Augusta Corte, sedimentada em sua Súmula 444, segundo a qual "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base".
+Aliás, o entendimento vigorante é no sentido de que mesmo as sentenças condenatórias transitadas em julgado somente podem ser valoradas negativamente, na primeira fase do cálculo, a título de maus antecedentes.
+Também não há que se falar em maus antecedentes pois, como já afirmado, embora a FAC de e-STJ fls. 115/126 registre a ocorrência de várias autuaçõespoliciais por crimes contra o patrimônio, não existe anotação de qualquer sentença condenatória transitada em julgado, por fato anterior ao crime em apuração.
+Manifesta, portanto, a ilegalidade da fixação da pena-base, porquanto a negativação das vetoriais culpabilidade, personalidade, conduta social e antecedentes se fez mediante motivação assaz genérica, valendo lembrar que a jurisprudência dessa Augusta Corte é firme no sentido de que "considerações genéricas e desvinculadas do contexto fático dos autos, assim como elementos inerentes ao próprio tipo penal não servem para o agravamento da pena".
+Devem, portanto, ser desconsideradas as vetoriais consideradas negativas, requantificando-se as penas e abrandando-se o regime.
+Passo assim à dosimetria da pena.
+Afastada a valoração negativa quanto àscircunstâncias judiciais, fixoa pena-base em 1 anode reclusão e10dias-multa.Não existem agravantes ou atenuantes. Na terceirafase, aumenta-se a pena em 1/3, considerando-se o fato do crime ter sido praticado durante o repouso noturno, pelo que a pena resta definitivamente fixada em 1 ano e 4meses de reclusão e em 13dias-multa.
+Considerando-se a primariedade do réu e a inexistência de circunstâncias judiciais negativas, fixa-se o regimeinicial aberto, a teor do que dispõe o art. 33, § 2º, c, do Código Penal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial,a fim de afastar a valoração negativa das circunstâncias judiciais e fixar o regime inicial aberto.
+Publique-se. Intimem-se.
