@@ -1,0 +1,14 @@
+DECISÃO
+O GRUPO DE ATUAÇÃO ESTRATÉGICA DAS DEFENSORIAS PÚBLICAS ESTADUAIS E DISTRITAL NOS TRIBUNAIS SUPERIORES - GAETS peticiona, às fls. 616/625, requerendo ahabilitação na qualidade de AMICUS CURIAEpara todos os efeitos legais, inclusive para fins de apresentação de memoriais e formulação de sustentação oral.
+Requer, ainda,vista com acesso integral aos autos a fim de elaborar memoriais e contribuir para a construção da tese a ser firmada por este E. Tribunal Superior.
+Sustenta quea matéria em questão possui elevado impacto social, de modo que a fixação de uma tese sobre o tema constitui matéria de inegável importância. Salienta quepoderácontribuir com o debate processual, trazendo dados e informações, realizando, ainda,diligênciasque esta E. Corte Superior entender relevantes para o melhor deslinde do feito.
+É o relato.
+Decido.
+O amicus curiaeé um terceiro que ingressa no processopara fornecer subsídios ao órgão jurisdicional para o julgamento da causa.
+Consoante o previsto no art. 138, caput, do Código de Processo Civil (CPC) de 2015, " o  juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação."
+É inegável a relevância da matéria tratada, isso porque transcende os interesses das partes envolvidas e"(..) envolve discussão se, para a configuração da circunstância majorante do §1º do art. 155 do Código Penal, basta que a conduta delitiva tenha sido praticada durante o repouso noturno; definir se há relevância no fato das vítimas estarem ou não dormindo no momento do crime, ou a sua ocorrência em estabelecimento comercial ou em via pública." (fl. 619).
+É também indiscutível aespecialização do Grupo requerente, com atuação específica junto aos Tribunais Superiores, razão pela qualentendo que o seu ingresso no feitoenriquecerá o debate, sem prejuízo do regular trâmite processual.
+Faço constar que este pedidofoi recebido neste Tribunal no dia 20/06/2022, às 19:57:48hs, e o feito está pronto para julgamento epautado desde o dia 01/06/2022, para a sessão de julgamento do dia 22/06/2022, às 14hs, razão pela qual não é possívelacesso integral aos autos para elaboração de memoriais.
+Assim, pelas razões acima apresentadas, defiro o pedido do GAETS de ingresso no feito como amicus curiae, limitandoseus poderes ao previsto no art. 138, §3º, do CPC/15, considerando que a sustentação oral já é modalidadeprevista e disponibilizada para a Defensoria Pública Estadual, parte integrante do presente feito.
+À Coordenadoria da Terceira Seção para as providências de praxe.
+Publique-se e intimem-se.
