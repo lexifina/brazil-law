@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GUILHERME PERACHI DOS SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado, como incurso nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, à pena de 2 anos e 6 meses de reclusão, no regime inicial aberto, em decorrência da apreensão de aproximadamente 14g (quatorze gramas) de cocaína.
+A apelação defensiva foi desprovida pelo Tribunal de origem (e-STJ fls. 196/209).
+Irresignada, a defesa interpôs recurso especial no qual requereu a desclassificação da conduta para o tipo previsto no art. 28 da Lei de Drogas ou, subsidiariamente, o reconhecimento da minorante do § 4º do art. 33 da mencionada lei, no seu patamar máximo.
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Conforme relatado, busca a defesa a desclassificação da conduta do agravante para a descrita no art. 28 da Lei n. 11.343/2006.
+Verifico, após a leitura do acórdão, que não foram indicadas provas suficientes para a imposição de condenação ao agravante pelo crime de tráfico de drogas.
+No caso, o Tribunal de origem manteve a conclusão de que o réu teria praticado o crime de tráfico de drogas, valendo-se dos seguintes fundamentos (e-STJ fls. 207/208):
+ ..  como se viu, os policiais, diante da informação de que o local seria um ponto de tráfico, foram até lá, onde encontraram o réu atrás do balcão atendendo no bar, observando os agentes que havia movimentação de entrada e saída de pessoas. Durante a revista, encontraram algumas porções de cocaína em poder do acusado e outras no chão do banheiro, somando 12 porções de cocaína, pesando 14,2 gramas, além da quantia de quinze reais. Disseram os policiais que o estabelecimento estava vazio, ficando claro que era utilizado para o comércio de drogas.
+Logo, não há dúvida de que realmente o réu praticava o tráfico ilícito de entorpecentes, conforme descrito na denúncia, sendo o dinheiro proveniente dessa atividade criminosa.
+Saliento que o tráfico de drogas é tipo múltiplo de conteúdo variado, havendo diversos verbos nucleares que o caracterizam; portanto, o flagrante do ato da venda é dispensável para sua configuração, quando restar evidente que a destinação dos entorpecentes é a comercialização  como no caso restou, nos termos acima expostos. Inviável, pois, a absolvição do réu e a desclassificação pretendida.
+Ademais, a expressiva quantidade de droga apreendida, sobremodo cocaína, ou seja, 14,2 gramas, que poderia render até 70 porções para a venda, não é compatível com a alegada destinação para consumo próprio. (Grifei.)
+Note-se que a condenação do agravante foi justificada na apreensão da droga em seu poder, na prisão em flagrante em local tido como ponto de venda de entorpecentes, bem como no depoimento prestado em juízo pelos policiais.
+Contudo, ainda que a palavra dos agentes policiais, como regra, autorize a imposição do decreto condenatório, entendo que, no caso em exame, as declarações não permitem concluir que ele tenha praticado o delito que lhe foi imputado na denúncia.
+De mais a mais, a apreensão da droga, por si só, insta consignar, não indica a realização do tipo inserto no art. 33, caput, da referida lei, notadamente se considerada a pequena quantidade que foi encontrada - aproximadamente 14g (quatorze gramas) de cocaína. Além disso, é importante destacar que não foram localizados petrechos comuns a essa prática, tais como balança de precisão, calculadora, entre outros.
+Em suma, baseou-se a sentença apenas na apreensão dos entorpecentes, cuja quantidade, a meu ver, ajusta-se ao que prescreve o art. 28 da Lei de Drogas, autorizando concluir que o réu a tinha para uso próprio ou até mesmo compartilhado. Noutro falar, como somente a posse da substância estupefaciente foi efetivamente provada nos autos, imperiosa a desclassificação da conduta narrada na exordial para o tipo inserto no art. 28 da Lei n. 11.343/2006.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial,a fim de desclassificar a imputação contida na denúncia para o tipo inserto no art. 28 da Lei n. 11.343/2006, devendo o Magistrado de primeira instância aplicar as penas nele cominadas como entender de direito.
+Publique-se. Intimem-se.
