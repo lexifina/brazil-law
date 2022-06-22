@@ -1,0 +1,2 @@
+Altera as Leis nºs 11.196, de 21 de novembro de 2005, e 10.865, de 30 de abril de 2004, para definir condições para a apuração do valor a recolher da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins) pelas centrais petroquímicas e indústrias químicas, e a Lei nº 14.183, de 14 de julho de 2021.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
