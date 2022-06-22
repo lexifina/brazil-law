@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da lavra do Desembargador relator FÁBIO TABOSA, assim ementado:
+Locação. Despejo por falta de pagamento. Cumprimento de sentença. Despejo devidamente executado, com entrega de parte dos bens a depositário, parte a representante da própria locatária e a outra parte sendo deixada no próprio imóvel, por dificuldades quanto à retirada imediata. Pretensão da ex-locatária de entrega de parte dos bens, bem como de constatação de outros que teriam ficado no imóvel, com vistas à possível remoção. Possibilidade, em parte, nos limites fixados no corpo do acórdão, ressalvando-se a necessidade de discussão entre as partes, quanto aos bens ainda existentes no local, em torno da pertinência da retirada. Decisão agravada reformada para tal fim. Agravo de instrumento da ré parcialmente provido.
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+Embargos de declaração. Oposição ao julgamento virtual. Ausência de nulidade se, pela natureza do recurso e pela matéria em julgamento, não comportava o recurso sustentação oral em sessão presencial, sendo dada prioridade, ante o reduzido espaço na pauta e o grande número de interessados em sustentações efetivas, aos recursos que efetivamente as comportem. Julgamento virtual que, por seu turno, não pode ser visto como intrinsecamente viciado ou prejudicial às partes, do ponto de vista do contraditório, do aprofundamento e da efetividade dos debates entre os julgadores. Vício não reconhecido.
+Embargos de declaração. Omissões. Inocorrência. Questões expressamente examinadas, nos limites do debate necessário. Erro de fato. Inocorrência. Escopo meramente infringente por parte da embargante. Fato superveniente. Matéria estranha ao recurso, a ser examinada junto à origem. Inexistência de lacunas por suprir. Embargos declaratórios rejeitados.
+Irresignado, ROSMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. interpôsrecurso especial com base no art. 105, III,a, da CF, apontando a violação dos arts. 149, 154, 218, 223, 489, § 1º, IV, 507 e 1.022, II,do CPC, alegando (1) omissão e negativa de prestação jurisdicional por parte do acórdão recorrido, que não se manifestou acerca da preclusão da pretensão de reivindicar bens que ficaram no imóvel e quanto aausência de comprovação da propriedade dos bens reivindicados; e (2) impossibilidade dediscussão acerca dos bens móveis deixados no imóvel após um ano e meio da lavratura do auto de despejo.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo por não configurar omissão e negativa de prestação jurisdicional e por incidir, no caso, o teor da Súmula nº 7 do STJ (e-STJ, fls. 151/153).
+Nas razões do presente agravo, ROSMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. refutaos referidos óbices de prelibação (e-STJ, fls. 156/173).
+Foiapresentada contraminuta (e-STJ, fls. 176/182).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da omissão e negativa de prestação jurisdicional
+Nas razões do seu recurso, ROSMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. alegou violação dos arts. 489 e 1.022 do NCPC, sob o argumento de que o Tribunal estadual não teria se manifestado acerca da preclusão da pretensão de reivindicar bens que ficaram no imóvel e quanto aausência de comprovação da propriedade dos bens reivindicados.
+Contudo, verifica-se que o TJSPdecidiu a lide de maneira clara e fundamentada, não havendo falar em violação dosart. 489 e 1.022 do CPC, mas tão somente julgamento contrário à pretensão do recorrente.
+Dessa forma, forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+(2) Da preclusão da reivindicação dos bens móveis
+Nas razões do presente recurso, ROSMEL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. afirmou a violação dos arts. 149, 154, 218, 223e 507do CPC, sob o argumento de impossibilidade de discussão acerca dos bens móveis deixados no imóvel após um ano e meio da lavratura do auto de despejo.
+A propósito do tema, o TJSPconsignou que:
+O v. acórdão enfrentou expressamente a questão da demorada ex-locatária em reclamar a devolução dos bens que se encontravam no imóvel locado, bem como da possível expectativa gerada de regularidade do auto de arrecadação, não havendo por evidente que se cogitar de preclusão quando não se está em face do exercício de qualquer prerrogativa processual, mas simplesmente da resolução de matéria de ordem substancial, em torno do destino dos bens deixados no imóvel locado.
+Tampouco se reabriu ou cogitou reabrir a discussão sobre benfeitorias passíveis de incorporação ao imóvel, como insinua a embargante, que finge não entender ou de fato não entendeu o v. acórdão, no qual expressamente se ressalvou o direito da locatária justamente à devolução de itens que não possam ser enquadrados na categoria de benfeitorias incorporadas.
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. BEM DE FAMÍLIA. IMPENHORABILIDADE. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+6. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.(..)
+8. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1.671.131/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 9/5/2022, DJe 11/5/2022)
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE DESPEJO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO.MÓVEIS REIVINDICADOS. PRECLUSÃO. AFASTAMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283 DO STF. ANALOGIA.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
