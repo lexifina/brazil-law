@@ -1,0 +1,37 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do processo AREsp n. 1.350.573/CE (fl. 420).
+Trata-se de agravo interposto por Thiago de Sousa Lima contra a decisão do Tribunal de Justiça do Ceará, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando o acórdão prolatado na Apelação Criminal n. 0111012-18.2016.8.06.0001, assim ementado (fls. 347/348):
+EMENTA: PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO POR IMPOSSIBILITAR A DEFESA DA VÍTIMA. TRIBUNAL DO JÚRI. RECURSO DEFENSIVO. PLEITO DE ANULAÇÃO DO JULGAMENTO. DECISÃO CONTRÁRIA ÀS PROVAS DOS AUTOS. DECISÃO DO TRIBUNAL POPULAR EM PERFEITA SINTONIA COM O CONJUNTO PROBATÓRIO. VALIDADE DOS DEPOIMENTOS TESTEMUNHAIS. PRESERVAÇÃO DA SOBERANIA DOS VEREDICTOS. SÚMULA Nº 6 DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. QUALIFICADORA NÃO MANIFESTAMENTE IMPROCEDENTE. IMPROVIDO. PRECEDENTE DO STJ. RECURSO CONHECIDO E IMPROVIDO.
+1. A defesa do recorrente, em suas razões recursais, busca desconstituir julgamento proferido pelo Tribunal do Júri ao argumento de que a decisão é manifestamente contrária às provas dos autos, uma vez que não haveria provas de autoria no crime em tela.
+2. A soberania do veredicto proferido pelo Conselho de Sentença do Tribunal do Júri está contida em cláusula pétrea prevista na Constituição Federal, especificamente no artigo 5º, inciso XXVIII, de modo que a anulação do julgamento somente pode ser reconhecida quando a decisão dos jurados contrariar, manifestamente, a prova dos autos, exegese do disposto no artigo 593 do CPP.
+3. No caso ora em tablado, tem-se que a decisão proferida pelo Conselho de Sentença não se mostra em desacordo com o conjunto probatório, alicerçando-se nos elementos fáticos narrados nos autos e nas provas colhidas em juízo.
+4. A materialidade delitiva restou devidamente comprovada por meio do auto de exame cadavérico que repousa à página 20/23, impossibilitando, assim, qualquer dúvida acerca da existência do crime.
+5. Já em relação à autoria, restou satisfeita em razão dos depoimentos das testemunhas ouvidas no decorrer da instrução criminal, a despeito da negativa de autoria suscitada pela defesa.
+6. A legislação em vigor admite como prova tanto a testemunha que narra o que presenciou, como aquela que ouviu. A valoração a ser dada a essa prova é critério judicial, motivo pelo qual não há qualquer ilegalidade na prova testemunhal indireta.
+7. Isso posto, não cabe a este Egrégio Tribunal, como é cediço, a revisão das decisões de mérito proferidas pelo Tribunal do Júri, posto que não se trata de caso de julgamento contra as provas dos autos, mas sim de juízo de valor atribuído pelos jurados a tais provas.
+8. Súmula 06: As decisões dos jurados, em face do princípio constitucional de sua soberania, somente serão anuladas quando inteiramente contrárias à prova dos autos.
+9. Outrossim, a qualificadora que impossibilitou a defesa da vítima (desprevenção-surpresa) apresenta-se suficientemente delineada no contexto probatório, não havendo que se cogitar de sua manifesta improcedência.
+10. Recurso conhecido e improvido.
+Nas razões do especial, apontou a Defensoria Pública estadual negativa de vigência do art. 593, III, d, do Código de Processo Penal, aduzindo, em suma, que a incidência da qualificadora revela-se manifestamente contrária à prova dos autos, requerendo, ao final, a cassação do acórdão recorrido (fls. 367/370).
+Sem contrarrazões (fl. 372), o recurso foi inadmitido na origem, por incidência da Súmula 7/STJ (fls. 380/383).
+Daí o presente agravo (fls. 391/403). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo, nos seguintes termos (fl. 422):
+ARESP. PENAL. CRIME DE HOMICÍDIO QUALIFICADO. FASE DO JÚRI. PEDIDO PARA EXCLUSÃO DE QUALIFICADORA. DECISÃO DO TRIBUNAL DO JÚRI QUE ACOLHEU A QUALIFICADORA. NECESSIDADE DE SE REEXAMINAR FATOS E PROVAS. SÚMULA N. 7/STJ.
+- Pretensão da defesa de reforma do acórdão recorrido que demanda novo juízo cognitivo sobre os fatos e provas; Súmula n. 7/STJ.
+- O parecer é pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a Defensoria Pública a exclusão da qualificadora da surpresa, ao argumento de decisão contrária às provas dos autos.
+Sobre o ponto, consignou o acórdão impugnado (fls. 355/356 - grifo nosso):
+ ..  Outrossim, a qualificadora que impossibilitou a defesa da vítima (desprevenção-surpresa) apresenta-se suficientemente delineada no contexto probatório, não havendo que se cogitar de sua manifesta improcedência. Os elementos probatórios dos autos são no sentido de que a vítima não esperava o ataque do seu agressor, que agiu de surpresa, impedindo que ela se defendesse.
+Ademais, caso fosse dado ao Tribunal de Justiça corrigir a pena imposta para afastar a qualificadora, restaria quebrado todo o sistema que garante a soberania dos veredictos, pois aqui já não se trataria de mera redução da pena, mas sim de nítido afastamento de qualificadora expressamente admitida pelos jurados, com indevida incursão no mérito da decisão, de resto vedada ao órgão ad quem:
+ ..
+Desta forma, resta hialino que a decisão hostilizada não se mostra contrária às provas dos autos. Longe disso, há elementos probatórios capazes de formar um juízo de convicção acerca da culpabilidade do réu, tal qual entendido pelo Conselho de Sentença.  ..
+Das transcrições acima infere-se que o Tribunal de origem concluiu que a qualificadora que impossibilitou a defesa da vítima (desprevenção-surpresa) apresenta-se suficientemente delineada no contexto probatório, não havendo que se cogitar de sua manifesta improcedência (fl. 348).
+Assim, analisar a demanda com vista à exclusão da qualificadora em questão implicaria o revolvimento do suporte fático-probatório dos autos, providência obstada pela Súmula 7/STJ.
+Na mesma linha: AgRg no AREsp n. 2.008.350/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/4/2022; REsp n. 1.902.104/RS, Ministro Olindo Menezes (Desembargador Convocado do TRF/1ª Região), Sexta Turma, DJe 11/10/2021; AgRg no AgRg no AREsp n. 1.863.493/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/6/2021; AgRg no AREsp n. 372.202/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/5/2017; AgRg no AREsp n. 973.343/SC, de minha relatoria, Sexta Turma, DJe 28/4/2017; e AgRg no AREsp n. 943.058/RN, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/8/2016.
+Imperioso registrar que decisão manifestamente contrária às provas dos autosé aquela que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório, não estando a Corte de Justiça autorizada a promover a anulação do julgamento realizado pelo Tribunal do Júri, simplesmente por discordar do juízo de valor resultado da interpretação das provas (HC n. 358.963/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/6/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, IV, DO CP. ALEGAÇÃO DE CONTRARIEDADE DA QUALIFICADORA COM AS PROVAS DOS AUTOS. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
