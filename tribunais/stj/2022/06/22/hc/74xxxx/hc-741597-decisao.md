@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALDO VARELA DE OLIVEIRAcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(Apelação n. 1.092.561/2).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 4 meses de reclusão, regime inicial semiaberto, e 13 dias-multa, pela prática do crime previsto noart.157, § 2º,incisos I e II, do Código Penal(e-STJfls. 14/19).
+Irresignado, o Ministério Públicointerpôs recurso de apelação, o qual foi provido para fixar o regime inicial fechado(e-STJfls. 20/21).
+No presente mandamus (e-STJfls. 3/10), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois fixou o regime inicial fechadoem manifesta afronta à Súmula 440/STJ, na medida em que não há gravidade concreta a justificar a aplicação de regime prisional mais gravoso. Afirma que o paciente é primário, as circunstâncias judiciais lhe são favoráveis e condenação não excede 8 anos, razão pela qual faz jus ao regime inicial semiaberto.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que o regime inicial seja alterado para semiaberto.
+O pedido liminar foi indeferido (e-STJ fls. 25/26).
+As informações foram prestadas às e-STJ fls. 30/41 e 4/48.
+O Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 50/53, opinou pelo não conhecimento dowrit, cuja ementa segue transcrita:
+HABEAS CORPUS SUBSTITUTIVO. NÃO CONHECIMENTO. ROUBO. CONDENAÇÃO. TRÂNSITO EM JULGADO. REGIME PRISIONAL. AUSÊNCIA DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
+- Paciente condenado pela prática do crime do art. 157, § 2º, I e II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e pagamento de 13 dias-multa. Trânsito em julgado da sentença para a defesa em 11/11/1997.
+- O Tribunal de Justiça do Estado de São Paulo deu parcial provimento à apelação acusatória, para alterar o regime prisional para o fechado. Trânsito em julgado do acórdão em julgado em 15/04/1998.
+- Ajuizada revisão criminal (Processo nº 0094206-26.2011.8.26.0000), o pedido foi indeferido em 08/03/2012 e arquivado definitivamente em 18/05/2018.
+- Competente seria o Tribunal de Justiça para processar e julgar eventual revisão criminal ajuizada em face do acórdão prolatado na apelação criminal ou da sentença condenatória com o trânsito em julgado, consoante previsão do art. 624, inciso II, do Código de Processo Penal.
+- Logo, não é possível a apreciação, por essa Colenda Corte Superior de Justiça, das questões suscitadas no habeas corpus, sem que haja pronunciamento do Tribunal de Justiça na sede própria da revisão criminal.
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção dopaciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa dopaciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, em síntese, o reconhecimento de constrangimento ilegal no estabelecimento do regime inicial fechado.
+Sobre o tema, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, segue a motivação apresentada pela Corte local para fixar o regime inicial fechado (e-STJ fl. 21):
+E nesse sentido decide a turma julgadora, a rigor nada sendo preciso acrescentar aos fundamentos deduzidos pela promotoria pública, ilustrados com jurisprudência segundo a qual para o crime de roubo, como na hipótese em exame, o regime prisional deve ser o fechado, ainda que primário o condenado.
+No mesmo sentido o valioso parecer de fls. 136/139, igualmente respaldado em jurisprudência desta Corte Criminal: não se justifica regime diverso do fechado, a não ser em circunstâncias excepcionais. Absolutamente não é o caso, tratando-se de episódio que contou com a presença de armas de fogo, usadas pelos réus em roubo contra mulher com quase 70 anos de idade, em saída de estabelecimento bancário, tudo conforme a esclarecedora prova dos autos, que teve inicio no auto de prisão em flagrante.
+Assim, extrai-se que, diversamente do alegado, a Corte local motivou suficientemente o regime prisional mais gravoso, com base nas circunstâncias específicas do delito, especialmente mais gravosas, tendo em vista que, além do concurso de pessoas e do uso de arma de fogo, o crime foi praticado com violência dirigida a pessoa idosa, com quase 70 anos de idade, o que denota a intensa reprovabilidade do delito e a maior periculosidade dos agentes.
+Nesse contexto, o regime inicial fechado para o cumprimento da pena aplicada ao crime de roubopossui lastro em fundamentação concreta e idônea.
+Em hipótese análoga, decidiu esta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. WRIT INDEFERIDO LIMINARMENTE. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. ROUBO COMETIDO CONTRA VÍTIMAS IDOSAS. AUSÊNCIA DE VIOLAÇÃO ÀS SÚMULAS 440/STJ E 718 E 719/STF. AGRAVO IMPROVIDO.
+1. Tendo sido fixado o regime inicial mais gravoso com a indicação de fundamentação concreta, evidenciada na expressa referência à gravidade da conduta imputada, praticada mediante grave ameaça e violência contra vítimas idosas, não há falar em ilegalidade.
+2. Havendo motivação suficiente e amparada em dados concretos do fato delituoso, justifica-se o regime prisional fechado, hipótese em que são inaplicáveis as Súmulas n. 440 do STJ e 718 e 719 do STF.
+3. Agravo regimental improvido.(AgRg no HC n. 669.051/SP, relator Ministro OLINDO MENDEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/9/2021, DJe de 17/9/2021.)
+Assim, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, sendo manifestamente improcedente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
