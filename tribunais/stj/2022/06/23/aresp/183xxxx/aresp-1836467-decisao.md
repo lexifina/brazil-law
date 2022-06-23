@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S.Acontra decisão do Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, Fl.213):
+EMENTA: APELAÇÃO CiVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CORPO ESTRANHO NO INTERIOR DE GARRAFA DE REFRIGERANTE. PRODUTO DE GENERO ALIMENTÍCIO. RELAÇÃO DE CONSUMO. VEROSSIMILHANÇA. INVERSÃO DO Ô NUS DA PROVA. RESPONSABILIDADE CIVIL OBJETIVA. DIREITO A SAÚDE. AUSÊNCIA DE INGESTÃO. IRRELEVÂNCIA. RISCO CONCRETO DE LESÃO A SAÚDE. DANO MORAL VERIFICADO. ARBITRAMENTO. FIXAÇÃO DO QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. CIRCUNSTANCIAS DO CASO EM CONCRETO. Tratando-se de produto alimentício, a simples existência de corpo estranho no mesmo caracteriza risco concreto de lesão à saúde, o que materializa, por si só, lesão aos direito da personalidade no âmbito da saúde. Em tal hipótese, opera-se a inversão do ônus da prova, tendo em vista a verossimilhança do direito alegado, ante a apresentação do produto com o corpo estranho. A fixação do quantum indenizatório a ser solvido a tal título deve ser feita com lastro nas circunstancias do caso em concreto e em observância aos princípios da razoabilidade e proporcionalidade. No caso, houve a comprovação de que o refrigerante lacrado possuía em seu interior, além do líquido a ele inerente, corpo estranho, impondo-se o acolhimento do pleito exordial.
+No recurso especial, interposto com fundamento nas alíneas ae c do permissivo constitucional, arecorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 489, §1º e 373, I e II do CPC/15;12 do CDC e 186 e 927 do Código Civil, sustentando, em síntese, a inexistência de dano moral na hipótese de aquisição de gênero alimentício com corpo estranho no interior da embalagem se não ocorre a ingestão do produto (e-STJ, Fl.246).
+Defende, ainda, a ausência de responsabilidade civil argumentando que não foram apresentadasprovas quanto ao suposto dano alegado, afirmando, que caberia ao Autor comprovar a efetiva existência do vício no produto fabricado.
+Insurge-se contra o valor indenizatório arbitrado bem como quanto ao termo inicial dos juros de mora.
+Devidamente apresentadas as Contrarrazões, sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, Fls.320-330).
+É o relatório.
+Decido.
+A pretensão recursal não comporta acolhida.
+De início, no que tange à negativa de prestação jurisdicional, se apresenta deficiente a fundamentação do recurso especial, mormente porquantoa alegação deofensa ao art. 489 do CPC/2015 ocorreu de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam carentes de fundamentação. Aplica-se, assim, o óbice da Súmula 284/STF, quanto ao ponto.
+Quanto ao mais, ficou estabelecido o seguinte pela Corte Estadual (e-STJ, Fls. 218-222):
+Segundo o art. 12, do CDC, considera-se produto defeituoso aquele que "não oferece a segurança que dele legitimamente se espera, levando-se em consideração as circunstâncias relevantes".
+No caso dos autos, não restam dúvidas da existência de um corpo estranho no refrigerante fabricado pela parte ré, ora Apelada, e adquirido pelo autor, ora Apelante, que o torna impróprio para o consumo, conforme se vê das fotografias colacionadas aos autos (fis 17-19), assim como do Termo de Audiência de Instrução e Julgamento (fls 119-121), em que se denota a apresentação do produto alimentício em sede de audiência, perante o Magistrado primevo, a procuradora da parte ré e a testemunha  funcionário da requerida  arrolada por esta, que corroborou a existência do referido corpo estranho por meio de seu depoimento, ouvido como informante.
+A meu ver, a disponibilização de produto impróprio para consumo, em razão da presença de corpo estranho no seu interior, afeta a segurança que rege a relação de consumo, mesmo sem a sua ingestão, haja vista que expõe o consumidor a risco concreto de lesão a sua saúde e segurança, o que ocasiona, em qualquer ser humano, um sentimento de repugnância e vulnerabilidade.
+(..)
+Pelo julgado acima colacionado, verifica-se que o entendimento mais atualizado do Colendo STJ superou a tese de que a mera aquisição de produto alimentício impróprio ao consumo, ante a ausência de ingestão, caracterizaria simples dissabor e aborrecimento cotidiano, não configurando dano moral, privilegiando, assim, a defesa da saúde, pois inegavelmente, a pessoa foi submetida a risco concreto de lesão ao direito à saúde.
+(..)
+Dito isso, ressalte-se ser prescindível a ingestão do produto alimentício impróprio ao consumo, pois a mera aquisição deste, com a constatação de corpo estranho em seu interior, configura a materialização de risco concreto a saúde, o que não se pode permitir, pois materializa por si só lesão moral, passível de indenização.
+Importante destacar, então, que a ingestão do referido produto teria influência tão somente quanto à extensão do dano e o valor a ser arbitrado em razão deste, mas, não, na sua existência.
+Logo, não assiste razão à Apelada em sua alegação de que a ausência de ingestão por parte da parte apelante implicaria na improcedência de seu direito.
+Com efeito, o acórdão recorrido, encontra-se em consonância com a jurisprudência recente do STJ, no sentido de quea disponibilização de produto considerado impróprio para consumo em virtude da presença de objeto estranho em seu interior afeta a segurança que rege as relações consumeristas na medida que expõe o consumidor a risco de lesão à sua saúde e segurança, razão pela qual o autor tem direito à compensação por dano moral.
+Esse é o entendimento recentemente adotado pela 2ª Seçãodo STJ, confira-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO PORDANOSMATERIAIS E MORAIS. AQUISIÇÃO DE ALIMENTO (SUCO INDUSTRIALIZADO) CONTENDOCORPO ESTRANHO. DANOMORAL CARACTERIZADO. IRRELEVÂNCIA DA EFETIVAINGESTÃODO PRODUTO.
+1. A Segunda Seção deste Tribunal, por ocasião do julgamento do REsp 1.899.304/SP (DJe de 04/10/2021), pacificou o entendimento de que a presença decorpo estranhoem alimento industrializad o, expondo o consumidor a risco concreto de lesão à sua saúde e à sua incolumidade física e psíquica, caracterizadanomoral indenizável, ainda que o produto contaminado não seja efetivamente consumido.
+2. Agravo interno não provido.
+(AgInt nos EDv no EResp 1877119/MG, Rel. Ministra NANCY ANDRIGHY, SEGUNDA SEÇÃO, julgado em 14/06/2022, Dje 17/06/2022).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO DESPROVIDO.
+1. "É irrelevante, para fins de caracterização dodanomoral, a efetivaingestãodocorpo estranhopelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado. (..) Essa distinção entre as hipóteses deingestãoou não do alimento insalubre pelo consumidor, bem como da deglutição do própriocorpo estranho,para além da hipótese de efetivo comprometimento de sua saúde, é de inegável relevância no momento da quantificação da indenização, não surtindo efeitos, todavia, no que tange à caracterização, a priori, dodanomoral" (REsp 1.899.304/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, j. em 25/8/2021, DJe de 04/10/2021).
+2. Aplica-se ao caso o teor da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado"
+3. Agravo interno a que se nega provimento.
+(AgInt no EResp 1901134/CE, Rel. Ministro RAUL ARAÚJO,SEGUNDA SEÇÃO, julgado em 17/05/2022, Dje 14/06/2022).
+Outrossim,para alterar a conclusão lançada no acórdão, no sentido de que não há prova das alegações do autor, seria necessário o reexame de fatos e provas, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+De outra ponta, quanto ao pedido de minoração do quantum indenizatório, o montante compensatório a título de dano moral deve ser fixado considerando o método bifásico, norteador doarbitramento equitativo exercido pelo juiz, o qual analisa o interesse jurídico lesado e as peculiaridades ocorridas no caso para a definição do valor.
+A propósito:
+TRÂNSITO. MORTE. DANO MORAL. QUANTUM INDENIZATÓRIO. DISSÍDIO JURISPRUDENCIAL. CRITÉRIOS DE ARBITRAMENTO EQUITATIVO PELO JUIZ. MÉTODO BIFÁSICO. VALORIZAÇÃO DO INTERESSE JURÍDICO LESADO E DAS CIRCUNSTÂNCIAS DO CASO.
+1. Discussão restrita à quantificação da indenização por dano moral sofrido pelo esposo da vítima falecida em acidente de trânsito, que foiarbitrado pelo tribunal de origem em dez mil reais.
+2. Dissídio jurisprudencial caracterizado com os precedentes das duas turmas integrantes da Segunda Secção do STJ.
+3. Elevação do valor da indenização por dano moral na linha dos precedentes desta Corte, considerando as duas etapas que devem ser percorridas para esse arbitramento.
+4. Na primeira etapa, deve-se estabelecer um valor básico para a indenização, considerando o interesse jurídico lesado, com base em grupo de precedentes jurisprudenciais que apreciaram casos semelhantes.
+5. Na segunda etapa, devem ser consideradas as circunstâncias do caso, para fixação definitiva do valor da indenização, atendendo a determinação legal de arbitramento equitativo pelo juiz.
+6. Aplicação analógica do enunciado normativo do parágrafo único do art. 953 do CC/2002.
+7. Doutrina e jurisprudência acerca do tema.
+8. RECURSO ESPECIAL PROVIDO.
+(REsp 959.780/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/04/2011, DJe 06/05/2011 - grifou-se)
+O Tribunal de origem diante dos elementos de fato e de prova delineados nos autos entendeu como razoável ovalor de R$ 5.000,00 (cincomil reais), a título de indenização por danos morais ao autor.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte fica limitada aos casos em que o quantum for irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição, o que não ocorre no caso dos autos.
+Nesse sentido, guardadas as peculiaridades do caso:
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE COMPENSAÇÃO POR DANO MORAL. AQUISIÇÃO DE CERVEJA COM CORPO ESTRANHO. NÃO INGESTÃO.EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E SEGURANÇA. FATO DO
+PRODUTO. EXISTÊNCIA DE DANO MORAL. VIOLAÇÃO DO DEVER DE NÃO ACARRETAR RISCOS AO CONSUMIDOR.
+1. Ação ajuizada em 19/07/2013. Recurso especial interposto em 28/05/2018
+e concluso ao Gabinete em 08/04/2019.
+2. O propósito recursal consiste em determinar se, para ocorrer danos morais em função do encontro de corpo estranho em alimento industrialização, é necessária sua ingestão ou se o simples fato de sua comercialização com corpo estranho ao produto vendido é suficiente para a configuração do dano moral.
+3. A aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana.
+4. Hipótese em que se caracteriza defeito do produto (art. 12, CDC), o qual expõe o consumidor à risco concreto de dano à sua saúde e segurança, em clara infringência ao dever legal dirigido ao fornecedor, previsto no art. 8º do CDC.
+5. Na hipótese dos autos, a simples comercialização de produto contendo corpo estranho possui as mesmas consequências negativas à saúde e à integridade física do consumidor que sua ingestão propriamente dita.
+6. Recurso especial provido.
+(REsp 1801593/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/08/2019, DJe 15/08/2019)Indenização por dano moral: R$ 10.000,00 (dez mil reais).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL DECORRENTE DE DEFEITOS REITERADOS EM VEÍCULO NOVO.REEXAME DE PROVAS. SÚMULA N. 7/STJ. VALOR INDENIZATÓRIO. REVISÃO.VALOR RAZOÁVEL. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, mediante análise soberana do contexto fático-probatório dos autos, entendeu estarem presentes elementos que caracterizam a indenização por danos morais. Nesse contexto, a modificação do referido entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+2. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1239255/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)Indenização por dano moral: R$ 15.000,00 (quinze mil reais).
+Desse modo, uma vez constatado, no caso concreto, que não houve desrespeito à razoabilidade na fixação do quantum indenizatório, o conhecimento do recurso especial encontra óbice na Súmula 7/STJ, pois necessária a revisão do conteúdo fático-probatório dos autos para acolher a minoração pretendida.
+Por fim, no que diz respeito ao termo inicial dos juros de mora, a decisão do Tribunal de origem encontra-se em consonância com a Súmula n.º 54 do STJ que assevera: "os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual".
+Destarte, inviável a pretensão da recorrente.
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o patamar fixado na origem encontra-se em seu limite máximo legal.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. AQUISIÇÃO DE PRODUTO (REFRIGERANTE) CONTENDO CORPO ESTRANHO EM SEU INTERIOR. NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E SEGURANÇA. FATO DO PRODUTO. DANO MORAL CONFIGURADO. PRECEDENTES DA SEGUNDA SEÇÃO DESTA CORTE. VALOR INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. REDUÇÃO. SÚMULA 7/STJ.TERMO INICIAL DO JUROS DE MORA. SÚMULA 54/STJ. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
