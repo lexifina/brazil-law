@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Embargos de Declaração interpostos contra decisão (fls. 262-267, e-STJ) que não conheceu do recurso.
+A parte agravante afirma (fls. 269-272, e-STJ):
+O acórdão ora embargado não conheceu do recurso especial interposto pelo INSS contra acórdão do Tribunal Regional Federal da 3ª Região que reconheceu a servidor da Autarquia o direito à progressão funcional no período anterior à Lei 13.324/16.
+Omitiu-se, contudo, quanto ao fato de que, em acórdão proferido em 08/02/2022 e publicado no DJe de 23/02/2022, a 1ª Seção do e. Superior Tribunal de Justiça afetou, como representativos de controvérsia, os Recursos Especiais nº 1.956.378, 1.956.379 e 1.957.603, delimitando a seguinte tese controvertida (Tema 1129): "i) interstício a ser observado na progressão funcional de servidores da carreira do Seguro Social: 12 (doze) ou 18 (dezoito) meses; ii) legalidade da progressão funcional com efeitos financeiros em data distinta daquela de entrada do servidor na carreira (início do exercício funcional); iii) exigibilidade de eventuais diferenças existentes em favor dos servidores quanto ao período de exercício da função até 01/01/2017, considerada a redação do art. 39 da Lei n.º 13.324/2016".
+Na oportunidade, foi determinada a suspensão do processamento dos recursos especiais e agravos em recursos especiais interpostos nos tribunais de segunda instância ou em tramitação no STJ.
+Ou seja, no momento da prolação da decisão embargada (19/04/2022), já se encontrava vigente a determinação de sobrestamento de todos os feitos que tratam da aplicação da progressão funcional de servidores do INSS.
+O acórdão embargado se omitiu, contudo, quanto à suspensão nacional de processos determinada no âmbito do Tema 1129. Daí o cabimento dos presentes embargos de declaração.
+Sem impugnação, conforme certidão de fl. 278, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.5.2022.
+Verifico que a matéria versada nos Aclaratórios foi submetida a julgamento no rito dos Recursos Repetitivos  REsp 1.956.378/SP, que cuida do Tema 1.129: "i) interstício a ser observado na progressão funcional de servidores da carreira do Seguro Social: 12 (doze) ou 18 (dezoito) meses; ii) legalidade da progressão funcional com efeitos financeiros em data distinta daquela de entrada do servidor na carreira (início do exercício funcional); iii) exigibilidade de eventuais diferenças existentes em favor dos servidores quanto ao período de exercício da função até 01/01/2017, considerada a redação do art. 39 da Lei 13.324/2016" .
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que faculte às instâncias de origem o exercício do juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC/2015.A propósito:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 256-I, C/C O ART. 256-E DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/9/2016. SERVIDOR DO INSS. PROGRESSÃO FUNCIONAL. INTERSTÍCIO. 12 (DOZE) OU 18 (DEZOITO) MESES. EFEITOS FINANCEIROS. LEIS Nº 10.855/2004, 11.507/2007 E 13.324/2016. DECRETO Nº 84.669/1980. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "i) interstício a ser observado na progressão funcional de servidores da carreira do Seguro Social: 12 (doze) ou 18 (dezoito) meses; ii) legalidade da progressão funcional com efeitos financeiros em data distinta daquela de entrada do servidor na carreira (início do exercício funcional); iii) exigibilidade de eventuais diferenças existentes em favor dos servidores quanto ao período de exercício da função até 01/01/2017, considerada a redação do art. 39 da Lei n.º 13.324/2016".
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I, c/c o art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016).
+3. Determinada a suspensão do processamento dos recursos especiais e agravos em recursos especiais interpostos nos tribunais de segunda instância ou em tramitação no STJ, devendo-se adotar, no último caso, a providência prescrita no art. 256-L do RISTJ.
+4. Acolhida a proposta de afetação do recurso especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta dos Recursos Especiais n. 1.956.378/SP, 1.956.379/SP e 1.957.603/SP).
+(ProAfR no REsp 1.956.378/SP, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO,DJe 23/2/2022)
+Por tudo isso, reconsidero a decisão de fls. 262-267, e-STJ, e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 eapós a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia, aquela Corte:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
