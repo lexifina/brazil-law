@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  favor  de  Valentim  Rossi,  apontando-se  como  autoridade  coatora  o  Tribunal  de  Justiça  de  São  Paulo  (Apelação  Criminal  n.  0000856-71.2017.8.26.0291).
+Narram  os  autos  que  o  paciente  foi  condenado  a  1  ano  e  2  meses  de  reclusão,  em  regime  inicial  fechado,  e  11  dias-multa,  pela  prática  do  crime  de  furto  simples.
+Neste  mandamus,  o  impetrante  alega,  de  início,  nulidade  do  processo,  em  razão  da  ausência  de  intimação  do  réu,  ora  paciente,  para  a  audiência  de  instrução  e  julgamento,  violando  o  art.  564  do  Código  de  Processo  Penal.
+Aduz,  ainda,  nulidade  da  sentença,  haja  vista  a  ausência  de  oitiva  do  acusado  em  sede  judicial,  violando  o  princípio  do  contraditório  e  da  ampla  defesa.
+Menciona  que  o  paciente  se  encontra  acamado  em  razão  de  recente  acidente  de  motocicleta  (fl.  12).
+Sustenta  ilegalidade  na  fixação  do  regime  inicial  aplicado  e  na  pena-base.
+Alega  que  deve  incidir,  no  caso,  o  princípio  da  insignificância,  pois  o  objeto  foi  recuperado,  houve  pedido  expresso  de  desculpas  por  parte  do  réu  e  o  objeto  era  de  pequeno  valor.
+Por  fim,  argumenta  que  a  conduta  narrada  na  denúncia  e  processada  nos  autos,  trata-se  de  furto  privilegiado,  ou  seja,  causa  de  diminuição  da  pena  (fl.  31)  ou  que  seria  o  caso  de  arrependimento  posterior.
+Requer,  em  liminar,  a  concessão  do  direito  de  aguardar  o  julgamento  deste  writ  em  liberdade.  No  mérito,  pugna  pela  absolvição  do  paciente  ou,  subsidiariamente,  pela  anulação  da  sentença  para  instaurar  o  contraditório  com  a  participação  do  paciente  na  audiência  de  instrução  e,  ainda,  subsidiariamente/alternativamente,  caso  não  seja  este  o  entendimento,  que  seja  fixado  o  regime  da  pena  em  aberto  ou  semiaberto,  conforme  fundamentações  expostas  .. .  Ainda,  alternativamente,  em  caso  de  não  acolhimento  dos  pedidos  acima,  requer-se  a  suspensão  do  mandado  de  prisão,  até  que  o  tratamento  médico  do  paciente  seja  concluído  ( fls.  35/36).
+A liminar foi indeferida.
+O pedido de fls. 425/427 restou prejudicado, uma vez que a medida liminar já havia sido analisada.
+Prestadas as informações de praxe, foi noticiado que a condenação transitou em julgadoem 14/2/2022, contudo, até o momento, o mandado de prisão não foi cumprido (fl. 436).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Paulo Eduardo Bueno, pela denegação da ordem (fls. 442/443).
+Às fls. 445/447, mediante a juntada da Petição Eletrônica n.00531471/2022, o impetrante requer a reconsideração do pedido liminar.
+É o relatório.
+Owritnão comporta conhecimento.
+Tendo em vista o trânsitoem julgado da condenação, o presentehabeas corpuspassa a ser substitutivo de revisão criminal.Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelopaciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EMHABEASCORPUS. WRITIMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+Contudo, diante da presença de constrangimento ilegal, a ordem pode ser concedida de ofício, o que não é o caso dos autos.
+Quanto à possibilidade de reconhecimento do princípio da insignificância, capaz de afastar a tipicidade penal, deve ser analisado, frente aos requisitos estabelecidos pelo Supremo Tribunal Federal, como a mínima ofensividade da conduta do agente, o reduzidíssimo grau de reprovabilidade do comportamento, nenhuma periculosidade social da ação, e a inexpressividade da lesão jurídica provocada; vetores, esses, que têm que estar presentes, cumulativamente, o que não ocorreu no caso dos autos.
+Segundo o acórdão impugnado, é impossível a aplicação do princípio da insignificância ou mesmo do privilégio (art. 155, § 2º, do Código Penal), no caso concreto, não só em razão do valor não desprezível da res furtivae (R$ 350,00 -fl. 8), considerando o proprietário do objeto, mas também por causa da maior periculosidade social da ação, porquanto se trata de réu reincidente e portador de maus antecedentes (FA de fls. 38/48 -Execuções 1 a 3), a demonstrar que faz do crime seu meio de vida(fl. 245 - grifo nosso).
+Então, sem razão a impetração, uma vez que o acórdão hostilizado está de acordo com o entendimento desta Corte Superior, seja em relação ao valor deres furtivae- R$ 350,00 (trezentos e cinquenta reais), equivalente a mais de 30% do salário mínimo vigente à época(AgRg no HC n. 732.619/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/5/2022, DJe 27/5/2022; e AgRg no HC n. 697.655/SC, Ministra Laurita Vaz, Sexta Turma, julgado em 26/10/2021, DJe 4/11/2021) - seja por ser o paciente reincidente (RHC n. 161.967/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/5/2022, DJe 6/5/2022; e AgRg no AREsp n. 1.905.015/RJ, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, julgado em 26/4/2022, DJe29/4/2022).
+No tocante ao pedido de suspensão do mandado de prisão até a conclusão do tratamento médico do paciente, com razão o nobre Subprocurador-Geral da República quando, em seu parecer, destacou quenão restou comprovado nos autos a impossibilidade de receber o tratamento adequado no estabelecimento prisional(fl. 443).
+A análise das demais questões demandaria a rediscussão da causa, implicando o revolvimento do conjunto fático-probatório,providência vedada na via estreita do habeas corpus.
+Ante o exposto,não conheçodo writ.Prejudicadoo pedido de fls. 445/447.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO.PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. VALOR DOOBJETOSUPERIOR A 10% DO SALÁRIO MÍNIMO. REINCIDÊNCIA E MAUS ANTECEDENTESDO PACIENTE. REPROVABILIDADE DA CONDUTA DO AGENTE. PRECEDENTES. SUSPENSÃO DO MANDADO DE PRISÃO ATÉ A CONCLUSÃO DO TRATAMENTO MÉDICO. AUSÊNCIA DE COMPROVAÇÃO DE SER IMPOSSÍVEL CONTINUAR O TRATAMENTO NO ESTABELECIMENTO PRISIONAL. DEMAIS ALEGAÇÕES.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL.
+Habeas corpusnão conhecido. Prejudicado o pedido de fls. 445/447.
