@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que inadmitiu recurso especialfundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado pelo Tribunal Regional Federal da 3.ª Região na Apelação Criminal n.007991-53.2005.4.03.6104/SP.
+Consta dos autos que o Agravado foi condenado como incurso no art. 337-A, incisos I, II e III, c.c. o art. 71, ambos do Código Penal, às penas de 4 (quatro) anos de reclusão, em regime inicial aberto, e 26 (vinte e seis) dias-multa, substituída a pena privativa de liberdade por penas restritivas de direitos (fls. 492-506).
+Irresignados, a Defesa e o Ministério Público recorreram ao Tribunal regional, que negou provimento à apelação acusatória e deu parcial provimento à apelação defensiva para redimensionar as frações de incidência de circunstâncias judiciais negativas e da atenuante da confissão espontânea, reduzindo a pena imposta para3 (três) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, e 16 (dezesseis) dias-multa, mantidas, no mais, as disposições da sentença condenatória (fls. 607-617).
+Nas razões do recurso especial, aponta-se ofensa aos arts. 49, 59 e 68 do Código Penal. A esse respeito, argumenta-se que deve ser majorada a pena de multa, pois "merece ser afastada a prática de se impor a mesma fração de aumento da pena corporal, a partir da pena mínima, à pena de multa mínima de apenas 10 dias-multa, mormente porque a pena de multa do delito deve acompanhar proporcionalmente o cálculo da pena privativa" (fl. 630).
+Assevera que, no caso concreto, "a cada avanço de 1 ano na pena corporal, que foi implementado in casu pelo colegiado, deveria corresponder, grosso modo, a incrementos sucessivos de 116 dias-multa (350 dias-multa/3)" (fl. 631).
+O Tribunal de origem não admitiu o recurso especial em razão do óbice da Súmula n. 7 desta Corte Superior(fls. 651-657).
+Nesta instância, a Subprocuradoria-Geral da República opinou pelo desprovimento do agravo em recurso especial (fls. 692-699).
+É o relatório. Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos de admissibilidade, razão pela qual passo à análise do recurso especial.
+A Corte regional, ao fixar a pena de multa, limitou-sea afirmar que esta seria calculada de acordo com o critério trifásico (fl. 613). Desse modo, o Tribunal de origemnão se manifestou sobre aquestão federal sob o enfoque trazido no recurso especial, qualseja, o cálculo da fração de incremento em face do intervalo existente entre os patamares mínimoe máximoabstratamente previstos para apenade multa.
+Ademais, não houvea oposição de embargos de declaraçãopara esclarecer o tema, razão pela qualo recurso especial não pode ser conhecido, pois a matéria carece de prequestionamento, nos termos das Súmulas n. 282 e 356/STF.
+A propósito:
+"RECURSO ESPECIAL. OPERAÇÃO MARGINATUS. MOEDA FALSA, PETRECHOS PARA FALSIFICAÇÃO DE MOEDA. ASSOCIAÇÃO CRIMINOSA, FALSA IDENTIDADE E CORRUPÇÃO DE MENORES. NEGATIVA DE VIGÊNCIA AO ART. 291 DO CP. ATIPICIDADE. IMPROCEDÊNCIA. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. SUPOSTA DESPROPORCIONALIDADE NA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. DOSIMETRIA QUE NÃO SEGUE CRITÉRIO MATEMÁTICO. DISCRICIONARIEDADE VINCULADA. FUNDAMENTAÇÃO CONCRETA PARA AUMENTAR A PENA. SUPOSTO BIS IN IDEM E INIDONEIDADE NA FUNDAMENTAÇÃO EMPREGADA. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. NEGATIVA DE VIGÊNCIA AO ART. 49 DO CP. SUPOSTA ILEGALIDADE NO CRITÉRIO UTILIZADO PARA FIXAR O VALOR DO DIA-MULTA. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO.
+ ..
+7. Não ocorrendo o debate do preceito federal dito violado, sob o enfoque dado pela parte em seu recurso especial, inexiste o prequestionamento necessário ao trânsito do recurso especial.
+8. Recurso especial parcialmente conhecido e, nessa parte, improvido." (REsp 1.758.958/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/09/2018, DJe 25/09/2018.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO. TRÁFICO DE DROGAS. COMPETÊNCIA DO JUÍZO. NULIDADE POR CERCEAMENTO DE DEFESA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PELO TRÁFICO PRIVILEGIADO. PREQUESTIONAMENTO. NECESSIDADE.
+ ..
+2. Inviável a análise, por este Sodalício, da alegada incompetência do Juízo, da existência de cerceamento de defesa e da diminuição da pena pelo tráfico privilegiado. Isso porque tais questões sob o enfoque apresentado pelo agravante não foram objeto de análise na instância de origem, incidindo o óbice previsto nas Súmulas n. 282 e 356, ambas do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 940.135/AC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/09/2018, DJe 12/09/2018.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. FIXAÇÃO DA PENA DE MULTA. FRAÇÕES DE MAJORAÇÃO. MATÉRIA NÃO DISCUTIDA SOB O ENFOQUE PRETENDIDO PELO RECORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
