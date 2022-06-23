@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se dehabeas corpus,com pedido liminar, impetrado em benefício de RINALDO FERRAREZI, contra acórdão doTribunal de Justiça do Estado de São Paulo,no julgamento da Cautelar Inominada Criminal n. 2298782-92.2021.8.26.0000 .
+Extrai-se dos autos que opaciente foi denunciadopela suposta prática dos delitos previstos no art. 32,caput, c/c o art. 15, II, "a", "c" e "m", da Lei n. 9.605/1998, por ao menos 991 (novecentos e noventa e uma) vezes (búfalos e cavalos), e art. 32, § 2º (causa de aumento decorrente da morte), c/co art. 15, incisoII, "a", "c" e "m", da Lei 9.605/1998, por ao menos 137 (cento e trinta e sete) vezes (búfalos e cavalos), na forma do art. 29 do Código Penal, além do art. 344 do Código Penal, por 7 (sete) vezes, na forma do art. 71, todos com observância do disposto no art. 69 do Código Penal.
+O pedido de prisão preventiva do paciente foi indeferido peloJuiz de primeiro grau e foram aplicadas medidas cautelares diversas, nos termos dos arts. 282, § 6º, e 319do Código de Processo Penal.
+Irresignado, oMinistério Público interpôs recurso em sentido estrito e ajuizou a Cautelar Inominada Criminal n. 2298782-92.2021.8.26.0000 pleiteando a atribuição de efeito suspensivo ao recurso e a reconsideração quanto à prisão preventiva do paciente. O Tribunal de origem deu provimento à medida cautelar inominada para conferir efeito ativo ao Recurso em Sentido Estrito interposto pelo Ministério Público, até seu julgamento, determinando a prisão preventiva do ora paciente e do corréu, ratificando a liminar anteriormente deferida,nos termos do acórdão que restou assim ementado:
+MEDIDA CAUTELAR INOMINADA. Concessão de efeito ativo a Recurso em Sentido Estrito interposto pelo Ministério Público. Maus tratamentos contra bubalinos e cavalos. Coação no curso do processo com emprego de armas e falsidade documental. Acolhimento. Conduta grave "in concreto". Insuficiência das medidas cautelares e o risco à ordem pública na soltura. Fazendeiro foragido após o decreto que ordenou a prisão. Ausência de provas de que integre o grupo de risco para o novo coronavírus. Segregação necessária. Real propensão à reiteração delitiva. Verificação de desnutrição. Medida cautelar concedida.(fl. 1.460).
+No presentewrit, a defesa alegaque não estão cumpridos os requisitos previstos no art. 312 do Código de Processo Penal e a ausência de fundamentação idônea da decisão que decretou a prisão preventiva, que não demonstrou os riscos que o paciente oferece.
+Argumenta queo Tribunal de origem ignorou, por completo, antes de conferir o efeito ativo ao Recurso em Sentido Estrito interposto pelo MP, a letra do § 3º do art. 282 do CPP, incluído pela Lei n. 12.403/2011, no sentido de determinar, previamente, a oitiva do ora paciente.
+Ressalta a adequação da aplicaçãodas medidas cautelares diversas da prisão no caso concreto,pois o paciente é primário, possui bons antecedentes e tem endereço fixo na cidade dos fatos.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, expedindo-se o devido alvará de soltura. Subsidiariamente, pleiteia o restabelecimento das medidas cautelares alternativas impostas pelo Juiz de primeiro grau.
+O pedido liminar foi indeferido (fls. 1493/1495). As informações foram prestadas pelas instâncias ordinárias (fls. 1499/1657 e 1658/1856).
+O Ministério Público Federal opinou pela denegação da ordem(fls. 1858/1866).
+É o relatório.
+Decido.
+O presentehabeas corpusencontra-se prejudicado.
+Isso porque, em consulta ao sítioeletrônico do Tribunal de origem, verificou-se que em11/5/2022, nos autos da Ação Penal n.1500384-60.2021.8.26.0095, que aqui se discute, o Magistrado de primeiro concedeu liberdade provisória ao paciente, mediante o cumprimento de medidas cautelares diversas da prisão, expedindo o alvará de soltura.
+Assim, diante do novo contexto fático, evidente a perda do objeto da presente impetração nesta Corte.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presentehabeas corpus.
+Publique-se.
+Intimações necessárias.
