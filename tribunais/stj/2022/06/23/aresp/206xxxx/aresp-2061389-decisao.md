@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porR.P.L. INVESTIMENTOS E PARTICIPAÇÕES LTDA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO DESPESAS CONDOMINIAIS CUMPRIMENTO DE SENTENÇA ARREMATAÇÃO.
+Assertiva de vileza do preço. Descabimento. RECURSO DESPROVIDO. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente, ora agravante, sustenta, em preliminar, que o Tribunal a quo negou vigência ao art. 1.022 do CPC/2015, pois deixou de esclarecer acerca da atualização do valor do imóvel, considerando anecessidade de atualização do valor quando da hasta pública, pois suprimidas do cálculo as quatro vagas de garagem.
+Defende ainda que o Tribunal a quo negou vigência aos arts. 891, parágrafo único, 903, do CPC/2015, pois a arrematação se deu quase um ano após sua avaliação, sem que tenha sido calculada a correção monetária.
+Apresentadas contrarrazões às fls. 788/791.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de açãode cobrança em que se buscou o pagamento de cotas condominiais inadimplidas, em fase de cumprimento de sentença.
+A questão recursal gira em torno do preço vil da arrematação.
+Em preliminar,não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à solução da lide, com fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade, de contradição, ou erro material no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Outrossim, relativamente ao preço vil obtido no ato de arrematação, cumpre asseverar que o Tribunal a quo delimitou que o tema foi tratado em autos de impugnação à avaliação, tendo sido afastada a alegação referente ao valor vil.
+Em suas razões, não desenvolveu a recorrente argumentação visando desconstituir referidafundamentação, ou seja, não impugnou especificamente a assertiva de que o tema fora tratado em impugnação à avaliação, atraindo, no caso, a inteligência da Súmula 283/STF.
+No mesmo sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLÊNCIA. PLANO DE SAÚDE. UTILIZAÇÃO DE DOCUMENTOS FALSIFICADOS. MAJORAÇÃO DO VALOR DO DANO MORAL. CABIMENTO. ADEQUAÇÃO DO VALOR. PARÂMETROS JURISPRUDENCIAIS. DANO PRESUMIDO. ABALO DE CRÉDITO. NULIDADE NA INTIMAÇÃO DA SENTENÇA. NULIDADE DE TODOS OS ATOS PROCESSUAIS SUBSEQUENTES. CONVALIDAÇÃO POR COMPARECIMENTO ESPONTÂNEO. PRECLUSÃO. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na espécie, não houve a demonstração clara e precisa dos motivos pelos quais o acórdão recorrido teria vulnerado o dispositivo apontado no apelo extremo para a manutenção do valor de condenação em honorários advocatícios de sucumbência, incidindo a Súmula nº 284/STF.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+3. Agravo interno não provido.
+(AgInt no AREsp 1929447/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/2/2022, DJe de 3/3/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO TÍTULO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela inexistência de fatos novos supervenientes aptos a provocar a reconsideração pretendida. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Nos termos da jurisprudência desta Corte, "ocorre a preclusão consumativa mesmo quando se tratar de matéria de ordem pública (liquidez do título executivo) que tenha sido objeto de anterior decisão já definitivamente julgada"(AgRg no REsp n. 1487080/PR, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/5/2015, DJe 28/5/2015). Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1150934/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/2/2022, DJe de 25/2/2022)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, posto que o recurso especial é oriundo de agravo de instrumento.
+Publique-se.
