@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7e 83 do STJ e 283/STF.
+Nas razões do especial, aponta a defesa violação dos arts. 157 e 240, § 1º,do CPP, além de divergência jurisprudencial.
+Sustenta que a condenação foi alicerçada em provas ilícitas, pois "o pedido de busca e apreensão, bem como o posterior deferimento do r. Juízo, tiveram como base denúncias e informações anônimas. Ou seja, as supostas investigaçõespreliminares foram baseadas, única e exclusivamente em delatio criminis inqualificada e nem ao menos indícios da prática de crimes foram vislumbradas" (fls. 1230-1231).
+Requer, assim, o provimento do recurso especial, a fim de absolver os agravantes. "Alternativamente, seja concedido habeas corpus de ofício" (fl. 1234).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Os recorrentes foram condenadospor infração aos arts.33, caput, e 35, caput, ambos da Lei 11.343/2006e ao art.180, caput, do Código Penal.
+O acórdão recorrido afastou a tese de nulidade ao entendimento de que"o Inquérito Policial não está baseado unicamente em denúncias anônimas, mas sim em uma complexa investigação policial, denominada "Operação Pétala", deflagrada a partir de diversos Boletins de Ocorrência envolvendo o tráfico de drogas na região da Vila Margarida, em Guaíra/PR, como se pode constatar do extenso relatório policial que fundamenta o pedido de busca e apreensão na residência dos réus".
+Segundo o acórdão, "Há, inclusive, informações trazidas por outros indivíduos que foram presos em razão de crimes de furto e tráfico de drogas que relataram que os apelantes operavam a venda de entorpecentes na região da Vila Margarida".O julgado destacou que, "Durante os meses de novembro e dezembro de 2020, a equipe policial observou as movimentações na referida região, identificando possíveis pontos de tráfico de drogas, dentre eles a residência dos acusados, razão pela qual foi deferida a medida de busca e apreensão no mov. 12.5 dos autos389-65.2021.8.16.0086".
+O acórdão dispôs, ainda, que a decisão que determinou a busca domiciliar"não carece de adequada fundamentação, nem foi proferida de modo genérico, como se pode verificar da leitura das 20 páginas que embasam a medida judicial deferida naquela oportunidade, em que o Magistrado explica de forma minuciosa todos os motivos que recomendavam o deferimento do pedido, bem como os indícios de prova amealhados na investigação policial" (fl. 1183).
+Das razões do recurso especial, observa-se que a defesa não impugnou os fundamentos do acórdão, acima transcritos, limitando-se a arguir a nulidade da busca e apreensão e da decisão que autorizou a medida, porquanto supostamente derivadas de meras denúncias anônimas.
+Assim, a ausência de impugnação aos fundamentos utilizados pelo acórdão para afastar a tese de nulidade impede o conhecimento do recurso pelo óbice da Súmula 283/STF. Confira-se:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. NULIDADES. OFENSA AO ART. 478, II, DO CPP. NÃO OCORRÊNCIA. SILÊNCIO DO ACUSADO. MERA REFERÊNCIA. QUESITAÇÃO NO JÚRI. IRREGULARIDADES. AUSÊNCIA DE IMPUGNAÇÃO IMEDIATA. PRECLUSÃO. EXISTÊNCIA DE FUNDAMENTOS SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO. NÃO ABRANGÊNCIA DE TODOS PELO RECURSO. INCIDÊNCIA DA SÚMULA N. 283/STF. AGRAVO DESPROVIDO.
+ ..
+4. Dessume-se do aresto vergastado que os fundamentos suficientes à manutenção do acórdão recorrido não foram impugnados, de forma específica, nas razões recursais, o que atrai, por analogia, a incidência do verbete n. 283 da Súmula do STF, quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.326.504/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, § 2º - CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus de ofício, opção exclusiva do relator, não pode se valer do reexame das provas.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
