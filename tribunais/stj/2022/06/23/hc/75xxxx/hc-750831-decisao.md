@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO BATISTA DA SILVAcontra decisão liminar de Desembargador do Tribunal de Justiça do Estado da Paraíba (HC n. 0811731-97.2022.8.15.0000).
+Segundo consta dos autos o paciente encontra-se preso preventivamente por ser apontado como integrante do grupo intitulado como "Nova OKD RB", que seria uma reestruturação da facção criminosa conhecida como OKD (Okaida), voltada ao tráfico de drogas.
+Na ação originária, a defesa postulou pela extensão dos efeitos da decisão que relaxou a custódia dos outros corréus, nos termos do artigo 580 do CPP, em face da existência de situação fático-processual idêntica. O Relator da ação originária indeferiu a liminar (e-STJ fls. 10/26).
+Nas razões da presente impetração, a defesa requer a extensão do benefício concedido aos corréus,nos termos do artigo 580 do CPP.
+Diante disso, pede, em liminar e no mérito, a concessão do benefício concedido aos corréus.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 25):
+ ..
+Da informação oferecida a este Juízo, num primeiro olhar, não vislumbro a presença da fumaça do bom direito, máxime pelo fato de que a prisão preventiva foi revista, na forma dos artigos 312, caput, e art. 313, inciso I, com redação dada pela Lei nº 13.964/2019, do CPP, tendo sido mantida por haver elementos que diferenciam a situação do paciente dos demais réus beneficiados com o relaxamento de suas prisões.
+Não obstante, a decisão, prima facie , parece se apoiar na materialidade dos crimes e nos indícios de autoria existentes em detrimento do paciente, de modo que o Juízo de origem aparentar demonstrar que o seu ato de segregar o paciente se revela na necessidade do resguardo da ordem pública em decorrência do modus operandi da ORCRIM e na periculosidade de seus agentes.
+Como cediço, a concessão de tutela de eficácia imediata (liminar) em habeas corpus constitui medida de extrema excepcionalidade, somente admitida nos casos em que demonstrada de forma manifesta a necessidade e urgência da ordem, bem como o abuso de poder ou a ilegalidade do ato impugnado.
+Na hipótese, tais circunstâncias não restaram evidenciadas de plano, vale dizer, as supostas ilegalidades declinadas na inicial não podem ser constatadas in limine , sem necessidade de melhor aprofundamento da matéria, motivo que torna impossível a concessão da medida emergencial.
+Ausente, portanto, um dos fundamentos essenciais ao deferimento da medida liminar de urgência, impossível a concessão da medida.
+Com efeito, admite-se a prisão preventiva quando as circunstâncias concretas do crime revelarem risco à ordem pública. (HC n. 118.844, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 19/11/2013, publicado em 19/12/2013).
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
