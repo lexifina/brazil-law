@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA JOSÉ DE ARAÚJO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO EM RECURSO DE APELAÇÃO - AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - MANTIDA CONDENAÇÃO EM MULTA POR LITIGÂNCIA DE MÁ-FÉ - PREQUESTIONAMENTO EXPRESSO DESNECESSÁRIO - RECURSO CONHECIDO E DESPROVIDO (fl. 182)
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 79 e 80, II, do CPC, no que concerne ao afastamento da litigância de má-fé, trazendo os seguintes argumentos:
+Entretanto, não litiga de má-fé quem se utiliza do processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito. Na realidade, o litigante de má-fé é aquele que busca vantagem fácil, alterando a verdade dos fatos com ânimo doloso.
+ ..
+Portanto, para a condenação por litigância de má-fé é indispensável a comprovação irrefutável do elemento subjetivo (dolo ou culpa grave) e do elemento objetivo (prejuízo causado à parte), não se admitindo a aplicação da multa pelo exercício do direito de ação, garantido pelo art. 5º, XXXV, da CF.
+Diante da ausência de comprovação de que o(a) recorrente tenha alterado a verdade dos fatos, com intuito de induzir o juízo em erro, e causar prejuízo à recorrida, não há que se falar em condenação por litigância de má-fé. (fl. 191)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Ainda, cumpre dizer que a penalidade é caracterizada pela conduta da parte que, no curso do processo, age de forma improba, maldosa, com dolo ou culpa, de modo a causar dano processual à parte contrária.
+ ..
+É certo que litigante de má-fé é aquele que altera, de forma consciente e temerária, a verdade dos fatos, a fim de obter vantagem sobre a outra parte.
+No presente caso, observa-se a conduta maliciosa da agravante, traduzida na propositura da presente demanda, em evidente tentativa de locupletamento ilícito, sustentando uma fraude inexistente.
+Assim, a conduta da requerente denota efetivamente sua deslealdade processual, nos termos do art. 80, inciso II, do CPC, de modo que deve responder pelo prejuízo ocasionado previsto no art. 81, caput, do CPC, às penas por litigância de má-fé. (fl. 184)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
