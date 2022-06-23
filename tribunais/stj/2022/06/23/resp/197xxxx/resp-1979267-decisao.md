@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA REGINA CARVALHO (MARIA REGINA), com fundamento no art. 105, III, alíneasa e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Goiás, assim ementado:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. EMBARGOS DE TERCEIRO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELAÇÃO DESPROVIDA. OMISSÃO CONFIGURADA. ART. 1.022, III DO CPC.
+1. Verificada a existência de omissão na decisão proferida, impositiva a respectiva correção, nos termos do art. 1.022, IIIDO CPC.
+2. Acolho os aclaratórios para sanar a omissão, mantendo o julgamento de desprovimento do recurso apelatório.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS EACOLHIDOS(e-STJ, fl. 668).
+Os embargos de declaração opostos por MARIA REGINAforam rejeitados (e-STJ, fls. 692/700).
+Nas razões do presente recurso,MARIA REGINA alegou além de dissídio jurisprudencial a violação aos arts. 489, § 1º, IV e V, 1.022, II e parágrafo único, I e II, e 1.023 do NCPC; e 593, II, 659, § 4º, do CPC/73,ao sustentar:(1) ausência de fundamentação e negativa de prestação jurisdicional consubstanciada nas seguintesomissões:
+ .. (i) a tese sustentada no recurso de apelação, com base na Súmula 375/STJ, e depois confirmada em sede de julgamento de caso repetitivo apreciado no REsp nº 956.943/PR, cuja tese aprovada consiste em que, inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz delevar o alienante à insolvência; (ii) o acórdão embargado se limitou a invocar precedentes do e. TJDFT e do e. TJRS, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos dos respectivos casos concretos; (iii) nas mesmas certidões imobiliárias utilizadas para tirar conclusões à respeito da compatibilidade dos preços dos imóveis com a realidade de mercado, o tribunal a quo outra vez ignorou que os imóveis foram avaliados pelo Estado de Goiás, em 2008, por 160.000,00 (cento e sessenta mil reais) e R$ 80.000,00 (oitenta mil reais), nos registros R15-8.175 e R11-15.879 (f. 23 e 24-v), demonstrando inequivocamente a compatibilidade do preço das alienações imobiliárias com o mercado, no ano de 2002; e (iv) a petição do embargado de f. 304-5, datada de 04/08/2015, nos autos da execução do título extrajudicial (Processo nº 200200544572 - apenso), demonstra que o pedido de avaliação judicial dos imóveis ainda se encontrava pendente. Somente essa avaliação poderia demonstrar com propriedade a relação dos preços praticados em 2002 com a evolução do mercado, evitando a situação paradoxal de os termos do acórdão embargado serem confrontados com dados oficiais que ainda serão colhidos no processo de execução. Caso o embargado/recorrido almejasse ter se desincumbido do seu ônus de comprovar qualquer descompasso do preço da aquisição dos imóveis pela embargante, deveria ter produzido prova pericial nos autos dos embargos de terceiro; e não deixado os embargos de terceiros serem julgados antecipadamente, no estado em que se encontrava o processo no momento do seu saneamento, contando com uma informação de 1999 e desconectada da realidade de mercado da época em que houve as alienações(e-STJ, fls. 718/719);
+(2) não foi comprovada a má-fé do terceiro adquirente; e (3)necessidade de ocorrência de citação válida e registro da penhora do bem alienado para caracterizaçãoda fraude à execução, devendo ser afastadaa constrição sobre os bens imóveis da sua propriedade(e-STJ, fls. 704/735).
+Foram apresentadas contrarrazões (e-STJ, fls. 825/839).
+É o relatório.
+Decido.
+O recurso de MARIA REGINA merece prosperar.
+(1) Da negativa de prestação jurisdicional
+O TJGO, ao analisar os embargos de declaração, incorreu nas omissões acima elencadas cujo enfrentamento seria relevante para a solução da controvérsia.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJGOa se manifestar sobre as questões federais terminou por negar prestação jurisdicional aRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Nessas condições,DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJGOpara que analise as questõestrazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE REGISTRO DA PENHORA.OMISSÕES.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
