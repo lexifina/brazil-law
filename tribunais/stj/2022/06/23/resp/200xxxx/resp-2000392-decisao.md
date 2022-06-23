@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. TRATAMENTO MÉDICO. FORNECIMENTO DE MEDICAMENTO. DIREITO À SAÚDE. DEVER DO ESTADO. NECESSIDADE DE PROVA PERICIAL. NÃO REALIZAÇÃO. ANULAÇÃO DA SENTENÇA.
+1. Apelação interposta pela União Federal em face de sentença que, confirmando a antecipação de tutela,reconheceu o dever dos Réus de fornecerem ao Requerente o medicamento Vidaza (Azacitidina), conforme prescrição médica, devendo a entrega ser condicionada à apresentação de receita e relatório médicos atualizados a cada 3 (três) meses.
+2. A Carta Magna de 1988 erige a saúde ao patamar de direito de todos e dever do Estado (art. 196). Daí aseguinte conclusão: É obrigação do Estado, no sentido lato(União, Estados, Distrito Federal e Municípios), assegurar às pessoas desprovidas de recursos financeiros o acesso ao tratamento necessário à cura de suas mazelas, em especial, as mais graves.
+3. Depreende-se, pois, que os aludidos Entes Federativos detêm responsabilidade solidária, de modo quequalquer um deles tem legitimidade para figurar no polo passivo das ações em que se busca atendimento médico, bem como o fornecimento de medicamentos, para aqueles impossibilitados de arcar com o tratamento necessário.
+4. Sobre o assunto, o col. STF já teve oportunidade de se pronunciar nesse mesmo sentido, ao julgar o RE 4.855.178/RG, em sede de Repercussão Geral. A divisão administrativa de atribuições entre tais Entes, prevista na Lei nº 8.080/90, não deve servir de empecilho à população para o acesso ao tratamento necessário à cura de suas doenças, não podendo restringir a responsabilidade solidária dos Entes da Federação.
+5.A parte Autora é portadora de Leucemia Mieoloide Aguda (C92.0), de alto risco, diagnosticada emabril de 2020, e por isso necessita fazer uso do medicamento Vidaza (Azacitidina), 75mg/m /dia, durantes sete dias por ciclo.
+6. Nos casos de fornecimento de medicamento ou realização de procedimento que não estão elencadosdentre aqueles de responsabilidade do SUS, esta egrégia Terceira Turma vem entendendo pela necessidade da realização de prova Pericial, uma vez que os documentos médicos juntados aos autos foram produzidos apenas pelo Especialista responsável pelo tratamento do Autor, de maneira que deve prevalecer as conclusões do Perito Médico Oficial, em razão da sua posição equidistante em relação às partes em litígio. Precedentes desta Corte Regional: Processo 0806429-34.2017.4.05.8000, Terceira Turma, Rel. Desembargador Federal Rogério Fialho, data da assinatura: 30/04/2019; e Processo 0800608-34.2017.4.05.8102, Terceira Turma, Rel. Desembargador Federal Fernando Braga Damasceno, data da assinatura: 17/05/2018.
+7.A parte Autora não se submeteu a qualquer espécie de Perícia, sendo necessária a decretação denulidade da sentença com o retorno dos autos à Vara de origem para tal mister.
+8. Ressalte-se, apenas, a necessidade da continuidade de fornecimento do medicamento à parteRequerente, nos moldes determinados na decisão que antecipou os efeitos da tutela, até o novo julgamento da demanda, em razão da urgência que o caso requer, ante o risco de morte da paciente.
+9. Sentença anulada, para determinar o retorno dos autos à Vara de origem. Prejudicada a Apelação.
+Embargos de Declaração rejeitados (fls. 397-400, e-STJ).
+O recorrente afirma que houve violação dos arts. 10, 370 e 371 do Código de Processo Civil (fls. 415-422, e-STJ).
+Contrarrazões às fls. 431-443, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.5.2022.
+O Tribunala quodirimiu a controvérsia nos seguintes termos (fl. 349, e-STJ):
+Compulsando os autos, verifica-se que a parte Autora é portadora de Leucemia Mieoloide Aguda (C92.0), de alto risco, diagnosticada em abril de 2020, e por isso necessita fazer uso do medicamento Vidaza (Azacitidina), 75mg/m /dia, durante sete dias por ciclo.
+Acontece que, nos casos de fornecimento de medicamento ou realização de procedimento que não estão elencados dentre aqueles de responsabilidade do SUS, esta egrégia Terceira Turma vem entendendo pela necessidade da realização de prova Pericial, uma vez que os documentos médicos juntados aos autos são produzidos apenas pelo Especialista responsável pelo tratamento da parte Autora, de maneira que deve prevalecer as conclusões do Perito Médico Oficial, em razão da sua posição equidistante em relação às partes em litígio.
+Ao assim decidir, o aresto recorrido afastou-se da jurisprudência do STJ firmada em julgamento repetitivo (Tema 106), com o seguinte teor:
+A concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos:
+i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS;
+ii) incapacidade financeira de arcar com o custo do medicamento prescrito;
+iii) existência de registro do medicamento na ANVISA, observados os usos autorizados pela agência.
+Esclareço ainda que, nos termos da jurisprudência do STJ, é possível a determinação judicial ao fornecimento de medicamentos com base em prescrição elaborada por médico particular, não se podendo exigir que a receita seja subscrita por profissional vinculado ao SUS.A propósito:
+CONSTITUCIONAL E ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE. FORNECIMENTO DE MEDICAMENTOS. DESNECESSIDADE DE PERÍCIA MÉDICA JUDICIAL.
+1. Hipótese em que a Corte a quo anulou a sentença que havia determinado o fornecimento de medicamento ao agravante, porque não houve a realização de perícia judicial, tendo o medicamento sido prescrito por médico que acompanha o paciente.
+2. O STJ, no julgamento do REsp 1.657.156/RJ, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe DJe 4/5/2018, submetido à sistemática dos recursos repetitivos, entendeu que a concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; ii) incapacidade financeira de arcar com o custo do medicamento prescrito; iii) existência de registro do medicamento na Anvisa, observados os usos autorizados pela agência.
+3. Dessa forma, não prospera a tese do acórdão recorrido de que todo medicamento pleiteado em juízo depende da realização de prévia perícia oficial, uma vez que o STJ admite o fornecimento de medicamentos com base em laudo do médico que assiste o paciente.
+4. Assim, o recurso deve ser provido, com o retorno dos autos para a instância de origem aferir a comprovação da necessidade do medicamento a partir dos parâmetros fixados pelo Superior Tribunal de Justiça no precedente repetitivo indicado acima.
+5. Agravo conhecido para dar provimento ao Recurso Especial.
+(AREsp n. 1.534.208/RN, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 6/9/2019)
+Dessa forma, não prospera a tese do acórdão recorrido de que todo medicamento pleiteado em juízo depende da realização de prévia perícia oficial, uma vez que o STJ admite o fornecimento de medicamentos com base em laudo do médico que assiste o paciente.
+Saliente-se que a revisão do entendimento do Colegiado regional, nesse particular, dispensa o revolvimento dos elementos fático-probatórios da controvérsia. Faz-se necessário apenas superar a tese jurídica de que todo medicamento pleiteado em juízo depende da realização de prévia perícia oficial.
+Assim, o recurso deve ser provido, com o retorno dos autos para a instância de origem aferir a comprovação da necessidade do medicamento a partir dos parâmetros fixados por esta Corte Superior no precedente repetitivo indicado acima.
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
