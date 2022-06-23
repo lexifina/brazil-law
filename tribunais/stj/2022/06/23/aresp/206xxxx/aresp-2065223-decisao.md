@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 83 do STJ e na ausência de comprovação do dissídio jurisprudencial.
+Nas razões do recurso especial, aponta a defesa violação do art. 33, § 4º, da Lei 11.343/2006, além de divergência jurisprudencial.
+Sustenta que o recorrente faz jus à minorante do tráfico privilegiado, entendendo preenchidos os requisitos legais.
+Requer, assim, o provimento do recurso especial, a fim de reconhecer a incidência da minorante e redimensionar a pena.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrente foi condenado, como incurso nos arts.14 e 16, ambos da Lei 10.826/2003 e art. 33, caput, c/c art. 40, III, ambos da Lei11.343/2006, na forma do art. 69 do CP, à pena total de 11anos e 3 meses de reclusão, em regime inicial fechado, e 645 dias-multa.
+Consoante jurisprudência do Superior Tribunal de Justiça, "A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no REsp 1918901/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/05/2021, DJe 20/05/2021).
+Ao afastar a minorante pretendida, considerou a sentença que "o contexto da prática delitiva revela a traficância organizada, não restando preenchidas as condições estatuídas no § 4ª do artigo 33 da Lei nº 11.343/2006" (fl. 737).O acórdão recorrido, ao manter tal entendimento, dispôs (fls. 954):
+Embora o agente, de fato, não registre outras anotações criminais pretéritas (mov. 278.1- AP), a conjuntura demonstra que ele se dedicava a atividades criminosas.
+Além da própria confissão do apelante quanto à sua atuação no abastecimento de tóxicos e armas de fogo, foram também encontradas uma elevada quantidade de material ilícito altamente nocivo, artefatos balísticos e acessórios, balança de precisão, camisetas com estampas da polícia civil, giroflex e dinheiro em espécie no apartamento e carro usados por ele.
+Todos esses elementos comprovam, sem dúvidas, que não se trata de uma prática recente, como faz crer o condenado, mas sim de uma ação repetida e organizada, não sendo o delito perpetrado ocasional.
+Vê-se que o redutor do art. 33, § 4º, da Lei 11.343/2006 restou afastado em razão da dedicação à atividade criminosa, configurada com esteio em elementos concretos extraídos dos autos-"confissão do apelante quanto à sua atuação no abastecimento de tóxicos e armas de fogo", "elevada quantidade de material ilícito altamente nocivo, artefatos balísticos e acessórios, balança de precisão, camisetas com estampas da polícia civil, giroflex e dinheiro em espécie no apartamento e carro usados por ele" -, contexto em que a inversão do acórdão, de forma a acolhero pleito defensivo, esbarra na Súmula 7 desta Corte, por implicar revolvimento fático-probatório. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO À ATIVIDADE CRIMINOSA. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ora agravante foi ao final condenada, como incursa nas sanções do art. 33, c/c o art. 40, I, ambos da Lei n. 11.343/2006, à pena total de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, além de 583 dias-multa, tendo sido apreendidos quase 5kg (cinco quilogramas) de cocaína.
+2. O Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, manteve a sentença no ponto em que não aplicou a causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Tóxicos, por entender pela existência de indicativos de que a agravante se dedicava a atividades criminosas. Inviável, no caso, o reexame da referida conclusão em recurso especial, ante o óbice previsto na Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.881.549/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/8/2021, DJe de 25/8/2021.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
