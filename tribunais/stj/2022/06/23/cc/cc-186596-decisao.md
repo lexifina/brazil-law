@@ -1,0 +1,67 @@
+DECISÃO
+Vistos.
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 1ª Vara Cível de Juazeiro do Norte/CE, em face do Juízo de Direito da Vara da Fazenda Pública de Juazeiro/BA, nos autos da Ação de Indenização de Danos Morais cumuladacom Obrigação de Fazern.8003705-67.2021.805.0146, ajuizada por Regilânia Oliveira Cambere contra o Município de Juazeiro do Norte/CE e o Hospital e Maternidade São Lucas, objetivando a fornecimento de DIU - Dispositivo Intrauterino e a condenação em danos morais decorrente de erro médico (fls. 17/41e).
+Ajuizada perante o Juízo suscitado, o qual reconheceu sua incompetência para processar e julgar a presente demanda, nos termos do art. 53, III, a, do Código de Processo Civil e declinou da competência (fl. 10e):
+A presente ação, foi ajuizada por REGILANIA OLIVEIRA CAMBEBE, em face de MUNICIPIO DE JUAZEIRO DO NORTE , pessoa jurídica de direito público interno, com sede em no Estado do Ceará, cujos motivos e fundamentos constam relatados na peça inaugural dos autos.
+Assim, entendo ser este Juizo incompetente para processar e julgar esta ação, nos termos do Art. 53, III, a, do CPC, devendo este processo ser enviado para o TJCE, com as garantias de estilo, após, baixa na distribuição.
+Intime-se a parte autora, através do patrono. Após, considerando que esta decisão não está elencada dentre as que admitem interposição de Agravo de Instrumento (CPC, art. 1.015), remetam-se os autos ao MM. Juizo competente.
+O Juízo suscitante, diante dos fundamentos, suscitou conflito (fls. 75/76e):
+Tenho que este juízo não é competente para conhecer e julgar esta lide.
+Isso porque o Juízo declinante deu-se por incompetente citando o prescrito no art. 53, III, "a" do CPC, afastando, assim, o determinado pela Súmula n.º 33 do STJ, o qual proíbe a declinação de ofício da incompetência relati- va, remetendo os autos para o Foro de Juazeiro do Norte/CE.
+Súmula 33 - A incompetência relativa não pode ser declarada de ofí- cio.
+Além disso, tratando-se de ação de reparação de danos, é pacífico na jurisprudência do STJ que tanto o domicílio do autor, quanto o local do fato, são competentes para a ação:
+  Não se pode perder de vista a vulnerabilidade de hipossuficência da parte autora, desempregada e domiciliada na cidade de Juazeiro-BA, comarca onde foi ajuizada a presente ação.
+Portanto, incabível o declínio de competência de ofício para esta Comarca, devendo o feito permanecer no juízo originário.
+Designeio Juízo suscitado, para resolver, em caráter provisório, eventuais medidas urgentes, solicitei informações e determineia abertura de vista ao Ministério Público Federal (fl. 165e).
+Informações prestadas (fls. 175/177e e fls. 84/164e).
+A Autora, ora Interessada, requereu providências, diante do descumprimento da decisão (fl. 165e) pelo Juízo suscitado (fls. 1700/172e).
+O Ministério Público Federal opinou pelo conhecimento do conflito para declarar a competência do Juízo suscitante(fls. 180/183e).
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+O art. 955, parágrafo único, I, do Código de Processo Civil determina ser possível o julgamento do conflito de competência por decisão monocrática quando a decisão fundar-se em tese firmada em Súmula do Supremo Tribunal Federal ou desta Corte.
+Nessa linha, cabe destacar o enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, a Autora propôs, perante o juízo de seu domicílio, na Comarca de Juazeiro/BA, aAção de Indenização de Danos Morais cumuladacom obrigação de fazer n. 8003705-67.2021.805.0146,contra o Município de Juazeiro do Norte/CE e o Hospital e Maternidade São Lucas, objetivando a fornecimento de DIU - Dispositivo Intrauterino e a condenação em danos moraisdecorrentesde erro médico (fls. 17/41e).
+Por entender que um Estado da Federação não pode julgar atos praticados por outro ente federado, o Juízo suscitado declinou da competência.
+O art. 52, parágrafo único, do Código de Processo Civil dispõe:
+Art. 52. É competente o foro de domicílio do réu para as causas em que seja autor Estado ou o Distrito Federal.
+Parágrafo único. Se Estado ou o Distrito Federal for o demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado.
+Dessa forma, pode aAutora ingressar com a ação no foro de seu domicílio, o Juízo da Comarca de Juazeiro/BA contra o Município de Juazeiro do Norte/CE.
+É que, tratando-se de competência relativa, somente o Requerido pode suscitar a incompetência do Juízo, mediante exceção; não sendo possível a declaração de ofício.
+Incide, portanto, o enunciado da Súmula 33 desta Corte, in verbis:
+A incompetência relativa não pode ser declarada de ofício.
+Por outro lado, o art. 52, parágrafo único, do Código de Processo Civil determina que se Estado ou o Distrito Federal for o demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado.
+Portanto, é necessário ressaltar que aprerrogativa processual prescrita no parágrafo único do art. 52 do CPC de 2015, ao estabelecer que, no caso de o Estado ou o Distrito Federal ser demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado, deve ser reconhecido, por consequência,a competência concorrente entre os juízos para o ajuizamento da ação, também para os entes federados municipais, em decorrência do princípio da simetria.
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. DEMANDA DE PARTICULAR CONTRA ESTADO DA FEDERAÇÃO. COMPETÊNCIA CONCORRENTE. FORO DO DOMICÍLIO DO AUTOR. OPÇÃO. PRECEDENTES DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara Cível e Fazenda Pública do Estado do Goiás da Comarca de Luziânia/GO e o Juízo de Direito da 1ª Vara Cível do Gama/DF, no âmbito de ação anulatória de auto de infração ajuizada por particular contra a Secretaria de Fazenda do Estado de Goiás. Nesta Corte, em decisão monocrática de minha lavra, declarou-se a competência do Juízo de Direito da 1ª Vara Cível do Gama/DF, suscitado.
+II - Nesse sentido, conforme delineado na decisão agravada, o art. 52, parágrafo único, do CPC/2015 apresenta regra de competência concorrente, independentemente dos limites territoriais do Estado-Membro demandado, devendo ser observada em conjunto com as disposições de organização judiciária do ente federado.
+III - Na hipótese, consoante esclarecido, a distribuição originária do feito ocorreu no foro do domicílio da parte autora, onde foi fixada e, posteriormente, declarada a competência territorial ora debatida, de acordo com precedentes desta Corte: AgInt no CC n. 163.985/MT, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 25/6/2019; AgInt no CC n. 157.479/SE, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 4/12/2018.
+IV - Com efeito, verifica-se que a irresignação da recorrente é limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o provimento do presente recurso.
+V - Agravo interno improvido.
+(AgInt no CC n. 184.123/GO, relator Ministro Francisco Falcão, Primeira Seção, julgado em 14/6/2022, DJe de 17/6/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA CONTRA O ESTADO DE MINAS GERAIS AJUIZADA NO ESTADO DE SERGIPE. POSSIBILIDADE. COMPETÊNCIA CONCORRENTE DO FORO DO DOMICÍLIO DO AUTOR. AGRAVO INTERNO DO ENTE ESTADUAL DESPROVIDO.
+1. Na hipótese dos autos, trata-se de ação ordinária contra o Estado de Minas Gerais ajuizada na Comarca de Aracaju/SE.
+2. A orientação jurisprudencial desta Corte é no sentido de que, conforme o art. 52 do Código de Processo Civil, é competente o foro de domicílio do réu para as causas em que seja autor Estado ou o Distrito Federal. Se Estado ou o Distrito Federal for o demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado (AgInt no CC 157.479/SE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 28/11/2018, DJe 04/12/2018). Precedentes.
+3. Agravo interno do Estado de Minas Gerais a que se nega provimento.
+(AgInt no REsp n. 1.852.858/SE, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO INDENIZATÓRIA. DEMANDA CONTRA ESTADO DA FEDERAÇÃO. COMPETÊNCIA CONCORRENTE. FORO DO DOMICÍLIO DO AUTOR. OPÇÃO.
+1. O art. 52, parágrafo único, do CPC/2015, ao enunciar que, se o Estado ou o Distrito Federal for demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado, estabelece a competência concorrente entre os juízos para o ajuizamento da ação, constituindo-se em verdadeira opção do seu promovente.
+2. No caso, levando em consideração que a distribuição originária do feito deu-se na comarca do domicílio do autor, evidencia-se a competência do suscitado.
+3. Impossibilidade de reconhecimento de ofício da incompetência relativa, a teor da Súmula 33 do STJ.
+4. A pendência de ação direta de inconstitucionalidade perante o STF não tem o condão de autorizar o sobrestamento do presente conflito, à míngua de previsão legal. Precedentes: AgInt no CC 158781/DF, de minha relatoria, PRIMEIRA SEÇÃO, DJe 21/03/2019; AgInt no CC 157479/SE, rel. Min. REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 04/12/2018 5. Agravo interno desprovido
+(AgInt no CC n. 163.985/MT, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 18/6/2019, DJe de 25/6/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS EM FACE DO ESTADO DE SERGIPE. ART. 52 DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO. DEMANDA EM FACE DE ESTADO OU O DISTRITO FEDERAL. FORO DE DOMICÍLIO DO AUTOR. CABIMENTO. COMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ. AJUIZAMENTO DE AÇÃO DIRETA DE CONSTITUCIONALIDADE. MATÉRIA CONEXA. SOBRESTAMENTO. AUSÊNCIA DE PREVISÃO LEGAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Autor ajuizou a Ação Declaratória de Inexistência de Débito cumulada com Indenização por Danos Morais em face do Estado de Sergipe no foro de seu domicílio, a Comarca de Pedreiras/MA. Por entender que um Estado da Federação não pode julgar atos praticados por outro, o Juízo do Estado do Maranhão declinou da competência.
+III - Conforme o art. 52 do Código de Processo Civil, é competente o foro de domicílio do réu para as causas em que seja autor Estado ou o Distrito Federal. Se Estado ou o Distrito Federal for o demandado, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou na capital do respectivo ente federado, restando competente, dessa forma, o Juízo de Direito da 1ª Vara da Comarca de Pedreiras/MA.
+IV - Tratando-se de competência relativa, somente o Requerido pode suscitar a incompetência do Juízo, mediante exceção, não sendo possível a declaração de ofício, a teor da Súmula 33 desta Corte.
+V - Verifico a ausência de fundamento legal que autorize a suspensão do processo em razão de ajuizamento de Ação Direta de Constitucionalidade sobre matéria conexa.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Honorários recursais. Não cabimento. VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt no CC n. 157.479/SE, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 28/11/2018, DJe de 4/12/2018.)
+Posto isso, nos termos do art. 955, parágrafo único, I, do Código de Processo Civil, conheço do conflito para declarar competente o Juízo suscitado,Juízo de Direito da Vara da Fazenda Pública de Juazeiro/BA.
+Comuniquem-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se.
