@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãodo Tribunal de Justiça do Estado de Mato Grosso do Sul cuja ementa é a seguinte (fl. 5.629, e-STJ):
+APELAÇÃO CÍVEL. E REEXAME NECESSÁRIO INDENIZAÇÃO - PERDAS E DANOS DURANTE A EXECUÇÃO DE CONTRATO - NÃO VERIFICADOS - SUCUMBÊNCIA - SENTENÇA RATIFICADA - RECURSO NÃO PROVIDO.
+Não sendo efetivamente demonstrados perdas e danos, inexisteindenização a respeito.
+Os Embargos de Declaração foram rejeitados (fl. 5.665, e-STJ).
+Nas razões do Recurso Especial, a agravante sustenta que ocorreu, em preliminar, ofensa aos arts. 489 e 1.022 do CPC;no mérito, aos arts.371, 375, e 479do Código de Processo Civil;395 do Código Civil; e 78, XV, da Lei 8.666/1993,além de divergência jurisprudencial.Defende (fls. 5.682-5.690, e-STJ):
+Desde a apelação foi demonstrado que o afastamento do que constava na prova pericial para denegar à recorrente o direito de ser indenizada pelos prejuízos que suportou pela ociosidade dos recursos mobilizados durante 330 dias, em razão dos obstáculos que surgiram em torno das jazidas de materiais que deveriam ser utilizadas durante as obras, fato de responsabilidade da recorrida, ofendia os arts. 371, 375 e 479 do Código de Processo Civil.
+Na apelação, também, a recorrente demonstrou a ofensa ao §3º do art. 85 do Código de Processo Civil no momento que foi definido o percentual dos honorários advocatícios em favor da recorrida. A sentença concluiu que as faixas indicadas nos incisos do §3º. do art. 85 só deveriam ser utilizadas nas decisões que fixassem honorários contra a Fazenda Pública, não nas situações que fosse em beneficio dessa.
+Ao julgar a apelação, o Tribunal de Justiça não se pronunciou sobre esses pontos, providência que se tivesse sido adotada poderia ter levado o julgamento a outro resultado. A omissão não foi sanada nem no julgamento dos embargos de declaração.
+(..)
+Não encontra fundamento na prova pericial a conclusão exposta no acórdão recorrido, repetida a partir da sentença, de que nos aditivos foram considerados "os custos adicionais com a ociosidade causada pelos eventos narrados" (fls. 5.019). O acórdão recorrido, assim como a sentença, desprezou a prova técnica para fazer valer conclusão pessoal sobre o litígio e desamparada de qualquer elemento probatório.
+Contraminuta apresentada às fls. 5.770-5.780, e-STJ.
+O MPF opinou pelo conhecimento do Agravo para que o Recurso Especial seja parcialmente conhecido e, nesta extensão, desprovido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATOS ADMINISTRATIVOS.OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO DA PARTE PELO NÃO ACATAMENTO DE SUAS TESES. APRECIAÇÃO DE PROVAS. LIVRE CONVENCIMENTO MOTIVADO.REANÁLISE DO CONJUNTO PROBATÓRIO.IMPOSSIBILIDADE. SÚMULA 7/STJ. FIXAÇÃO DE HONORÁRIOS CONTRA A FAZENDA PÚBLICA.ESCALA DE PERCENTUAIS. DEFINIÇÃO QUE DEPENDE DA APURAÇÃO DO VALOR DA CONDENAÇÃO EM LIQUIDAÇÃO DE SENTENÇA.VIOLAÇÃO AO ARTIGO 85 DO CPC.INEXISTÊNCIA. PARECER PELO CONHECIMENTO DO AGRAVO PARA QUE O RECURSO ESPECIAL SEJA PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.5.2022.
+Merece prosperar em parte a irresignação.
+Nos aclaratórios, a recorrente requereu a manifestação acerca dos seguintes pontos (fls. 5.639-5.640, e-STJ):
+Na apelação, a embargante demonstrou que a perícia atestou que os prejuízos suportados por ela em razão da impossibilidade de conclusão do objeto do contrato no prazo inicialmente previsto não foram ressarcidos por intermédio dos Termos Aditivos. A perícia foi enfática em afirmar que os prejuízos pela ociosidade dos recursos mobilizados enquanto não era solucionada a questão das jazidas não foram contemplados nos termos aditivos (11s. 4782- 4786).
+A embargante demonstrou que a conclusão da sentença não encontrava fundamento na prova pericial. Muito menos nas justificativas que antecederam os termos aditivos mencionados tanto pela sentença quanto pelo acórdão embargado. A sentença e o acórdão, portanto, não encontram apoio na prova documental juntada às tis. 404, 3.795-3799 e 3847- 3848.
+O acórdão embargado manteve a sentença que desprezou a prova técnica e documental para fazer valer conclusão pessoal sobre o litígio e desamparada de qualquer elemento probatório, o que ofendia a parte final do art. 375 do Código de Processo Civil.
+O acordão apenas repetiu o decido pela sentença, isto é, que seria "injustificável o pagamento de indenização por danos materiais, pois os imprevistos ocorridos nesse período, certamente foram objeto dos aditivos".
+A apelação não se manifestou sobre o pedido de que a sentença fosse modificada justamente porque não houve demonstração matemática e técnica de onde se extraiu essa conclusão.
+(..)
+No item 4.1.2 da apelação, fls. 4.967-4.968, em relação à fixação dos honorários de sucumbência favoráveis à embargada, a embargante apontou a violação pela sentença do §3º, incisos 1 a V, e ao §4º, inciso II. e §§ 5" e 6º do art. 85 do Código de Processo Civil.
+A apelação demonstrou que a sentença não observou em relação aos honorários fixados em favor da Fazenda Pública os percentuais definidos pelos incisos Ia V do §3º do art.85 do Código de Processo Civil. Ao fixar percentual devido em favor da Fazenda Pública, semque antes a sentença seja liquidada, o inciso II do §4ºdo art. 85 do Código de Processo Público também restou violado.
+A apelação apontou que as normas instituídas nos §§3º, incisos I a IV, 4º, inciso II, e 5º e 6º do art. 85 do Código de Processo Civil incidem também sobre os honorários que sejam devidos ao advogado da Fazenda Pública, portanto, não podia a sentença fixa-los no patamar único de 10% e sem que antes tenha sido liquidada a sentença que prevê o abatimento da parte que constitui o crédito da embargante.
+A apelação demonstrou que a sentença estava em confronto ao decidido pelo Superior Tribunal de Justiça:
+(..)
+A Corte estadual se manifestou especificamente sobre o primeiro ponto(fl. 5.631, e-STJ):
+Com referência aos atrasos dos pagamentos ocorridos na vigência do contrato, verifica-se que após seu requerimento, houve a devida compensação com opagamento de juros e correção monetária no montante de R$ 1.140.070, 45 (f. 4753-4574) o que obsta a alegação de prejuízo nesse sentido.
+(..)
+Concernente ao atraso decorrente da dificuldade na localização de jazidas minerais de boa qualidade, a apelante propôs a utilização de material fora das especificações do contrato sob a justificativa de que já o tinha feito em outras obras neste Estado e não houve nenhum problema, sem qualquer ônus para a apelada caso não fosse aprovada.
+Apesar de devidamente alertada (f. 3786-90) sobre o uso de material fora das especificações, continuou o utilizando e. assim, assumiu o risco integral pelo refazimento de trechos que apresentaram defeito, não podendo reclamar de prejuízos.
+Quanto à alegação de que os prejuízos com o problema das jazidas/ ociosidade não foi compensado pelos aditivos contratuais, não é o que consta nos autos.
+Observa-se que pediu aditamento do preço do contrato em 13.08.2005, no valor de R$ 5.355.629,82, o que foi plenamente acolhido (fls. 476, 3796-3808).
+Outrossim, à f. 3825, declarou que o montante acima mencionado seria suficiente para a conclusão da obra e não fez menção a qualquer prejuízo material remanescente advindos da redução do ritmo de trabalho.
+Se não bastasse, antes do término da execução da obra, solicitou um novo aditamento no valor de RS. 2.153.294,75 (f. 480) também atendido pela apelada.
+Ou seja, é evidente que os aditivos foram aprovados para restabelecer o equilíbrio econômico-financeiro do contrato diante das intemperes ocorridas quando da execução da obra.
+Outrossim, como restou definido na sentença à f. 4900 (..) trata-se de empresa experiente, especializada em execução de obras públicas de gratule porte. que tem pleno conhecimento dos componentes do preço dos serviços que presta, bem como dos imprevistos que podem ocorrer durante unta obra, fatores estes que evidentemente levouem consideração no momento da elaboração da planilha de cálculo para aditamento do valor do contrato.
+Com referência aos 330 dias em que teria havido redução do ritmo de trabalho, apontado pela perícia (f. 4782), é injustificável o pagamento de indenização por danos materiais, pois os imprevistos ocorridos nesse período, certamente foram objeto dos aditivos, até porque neles foram ajustados o valor do contrato.
+Nota-se que o primeiro e o quarto termo de Aditamento alteraram justamente o valor do contrato, fato que leva à conclusão de que, além do lucro e das despesas com a realização de novos serviços, os custos adicionais com a ociosidade causada pelos eventos narrados estão incluídos, até porque esta foi urna das justificativas para a elevação do valor do contrato.
+A respeito, consignou o magistrado (f. 4901-2):
+A Lei de Licitações prevê que tais alterações sejam efetuadas bilateralmente, exatamente para se evitar a excessiva onerosidade nas obrigações do contratado, dependendo o novo pacto sempre da manifestação de vontade das partes.
+(..)
+Todavia,sequer houve requerimento da REOUERENTE, durante a execução da obra, de outros acréscimos de valores, pelo que se confirma a tese de que os aditivos contratuais compensaram os imprevistos com as jazidas de Minérios, ou seja, a alegada ociosidade
+Considerando que o contrato administrativo, por parte da Administração, destina-se ao atendimento das necessidades públicas, maspor parte do contratado, objetiva uni lucro, através da remuneração, não é crível que a REQUERENTE aceitou continuar a executar a obra sem o prévio reajustamento do equilíbrio-financeiro, diante dos problemas que narrou.
+Logo, diante da compensação através dos aditivos de alteração do preço do valor do contrato, não há falar em indenização, devendo ser mantida a sentença.
+Quanto à condenação em honorários, ficou determinado (fl. 5.663, e-STJ):
+Já a condenação da apelante nos honorários advocatícios em favor do patrono da apelada foi fixada em 10% sobre o valor atualizado da causa, que por óbvio já está estabelecido, não havendo necessidade de esperar a liquidação da sentença.
+Ao julgar os Embargos de Declaração, contudo, oTribunal a quo manteve-se silente quanto ao argumento de que "as normas instituídas nos §§3º, incisos I a IV, 4º, inciso II,5º e 6º do art. 85 do Código de Processo Civil incidem também sobre os honorários que sejam devidos ao advogado da Fazenda Pública, portanto, não podia a sentença fixá-los no patamar único de 10%".
+De fato, houve omissão quanto à análise do ponto, que configura matéria relevante para o deslinde da controvérsia.
+Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos Embargos.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+(..)
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1.465.390/GO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 2/3/2021)
+Diante do exposto, dou parcial provimento ao Recurso Especial edetermino o retorno dos autos ao Tribunal de origem para que esta, emnovo julgamento dos Embargos de Declaração, se manifeste especificamente acerca do argumento de que "as normas instituídas nos §§3º, incisos I a IV, 4º, inciso II, e 5º e 6º do art. 85 do Código de Processo Civil incidem também sobre os honorários que sejam devidos ao advogado da Fazenda Pública".
+Publique-se.
+Intimem-se.
