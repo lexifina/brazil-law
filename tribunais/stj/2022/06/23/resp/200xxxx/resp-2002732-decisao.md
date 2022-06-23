@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "c", da Constituição, interposto por PEDRO DA ROSA JUNIOR em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. TAXAS E TARIFAS. IMPUGNAÇÃO À GRATUIDADE JUDICIÁRIA. REPETIÇÃO DE INDÉBITO. TARIFA DE CADASTRO. CARACTERIZAÇÃO DA MORA.
+TUTELA ANTECIPADA.
+DA APELAÇÃO DA FINANCEIRA.
+DOS JUROS REMUNERATÓRIOS. Estando a taxa pactuada pelas partes dentro dos limites previstos na média de mercado apurada pelo BACEN, a pactuação deve ser preservada.
+DA CAPITALIZAÇAO. É permitida a capitalização em periodicidade inferior à anual após a edição da Medida Provisória nº 2.170/2001, desde que expressamente pactuada. Precedentes. Súmulas 539 e 541 do STJ.
+(..)" (fl. 206)
+O recorrente aponta ofensa aos arts. 51, IV, § 1º, III, 6º, 47, 46, 52, I a III, do CDC, 28, § 1º, I, da Lei n. 10.931/2004 e dissídio jurisprudencial, sustentando, em síntese, (a) abusividade da taxa de juros remuneratórios, pois ultrapassa a "taxa média de mercado" e (b) impossibilidade de capitalização diária de juros, em contrato bancário, se ausente previsão expressa.
+Sem contrarrazões.
+É o relatório.
+Acerca da taxa de juros, o eg. TJRS, inicialmente, fixou:
+"(..) restou pactuada a taxa de juros remuneratórios de 2,74% ao mês e de 38,24% ao ano sobre o valor financiado. Por meio do site do Banco Central do Brasil é possível constatar que, quando da assinatura do contrato, a média de mercado estava apurada em 22,23%" (fl. 214)
+Em seguida, a Corte declarou a legalidade da taxa pactuada, tendo em vista que não ultrapassa o dobro da taxa média de mercado, segundo dados do Bacen, nestes termos:
+"Sopesando todas as circunstâncias supra, e observando que, no caso, a taxa prevista no contrato não supera o dobro da média divulgada pelo BACEN, inexiste abusividade, devendo prevalecer o ajuste celebrado entre as partes.
+Desta forma, de acordo com a jurisprudência predominante no STJ e nesta Corte de Justiça, dou provimento ao recurso, no ponto, para restabelecer a taxa de juros remuneratórios no percentual em que contratado." (fl. 215)
+Nesse tema, ao contrário do que sustenta o recorrente, a taxa média de juros bancários, publicada pelo Bacen, não é um limite fixo para a pactuação de mútuos, de modo que o reconhecimento da abusividade do encargo contratual depende da demonstração do manifesto excesso praticado pelo banco em face das circunstâncias do caso concreto.
+Ademais, consoante reiterados precedentes desta Corte, a reforma da conclusão do Tribunal de origem, acerca da abusividade da taxa de juros, demandaria investigar se o excesso praticado pelo banco é manifestamente desproporcional em relação à taxa média informada pelo Bacen, o que, porém, é vedado pelas Súmulas n. 5 e 7/STJ.
+"PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE MÚTUO. TAXA DE JUROS. ABUSIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. No julgamento do REsp 1.061.530/RS, realizado pela Segunda Seção deste Superior Tribunal sob a sistemática dos recursos representativos de controvérsia repetitiva, firmou a compreensão no sentido de que a estipulação de juros remuneratórios em taxa superior a 12% ao ano não indica, por si só, abusividade em face do consumidor, permitida a revisão dos contratos de mútuo bancário apenas quando fique demonstrado, no caso concreto, manifesto excesso da taxa praticada ante à média de mercado aplicada a contratos da mesma espécie.
+2. Na forma da jurisprudência desta Corte, "é inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios, no caso, são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial (Súmulas 5 e 7/STJ)" (AgInt no AREsp 1.486.943/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 30/8/2019).
+3. A seu turno, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese (AgInt nos EDcl no AREsp 1.814.166/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 15/12/2021).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.974.505/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Conforme decidido no Resp. n. 1.061.530/RS, submetido ao regime do art. 543-C do CPC/1973, a estipulação de juros remuneratórios em taxa superior a 12% ao ano não indica, por si só, abusividade em face do consumidor, permitida a revisão dos contratos de mútuo bancário apenas quando fique demonstrado, no caso concreto, manifesto excesso da taxa praticada ante à média de mercado aplicada a contratos da mesma espécie. 1.1 É inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios, no caso, são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial (Súmulas 5 e 7/STJ).
+2. Verificada, na hipótese, a existência de encargo abusivo no período da normalidade do contrato, resta descaracterizada a mora do devedor.
+3. Agravo interno desprovido." (AgInt no AREsp n. 1.486.943/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2019, DJe de 30/8/2019.)
+Quanto à capitalização de juros, segundo consta do aresto recorrido,
+"(..) a taxa de juros anual (38,24%) supera o duodécuplo da mensal (2,74%), que atinge o patamar de 32,88%, no que igualmente comprovada a contratação da capitalização dos juros em periodicidade inferior à anual. E isso, conforme citei acima (Súmula 541, STJ), é suficiente para a cobrança capitalizada.
+Não bastasse isso, há previsão expressa da capitalização e sua periodicidade (diária), conforme cláusula M, parte final, do contrato." (fl. 216)
+Havendo, pois, previsão expressa da capitalização diária de juros, rejeita-se a pretensão do recorrente de reforma do acórdão recorrido. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. CARACTERIZAÇÃO DA MORA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+3. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.638.011/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/5/2020, DJe de 4/6/2020, g.n.)
+Incidente, portanto, o óbice da Súmula n. 83/STJ (SÚMULA N. 83. Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.).
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
