@@ -1,0 +1,40 @@
+DECISÃO
+ISABELA MAMERE ALVAREZ FIORAVANTI (ISABELA ) ajuizou ação de obrigação de fazer c.c. tutela antecipada contra aUNIMEDCOOPERATIVA DE TRABALHO MÉDICO DE RIBEIRÃO PRETO(UNIMED), objetivando afiliar-se aos quadros da demandada como profissional da área médica, na especialidade de dermatologia.
+Ademanda foi julgada improcedente, nos termos do art. 487, I, do NCPC. (e-STJ, fls. 165/171).
+O Tribunal bandeirante deuprovimento ao apelo de ISABELA, nos termos do acórdão relatado pelo Des. MAURÍCIO PESSOA, assim ementado:
+Ação de obrigação de fazer com pedido de antecipação dos efeitos da tutela - Cooperativa médica - Processo seletivo público para admissão de médico cooperado - Limitaçãode vagas - Previsão estatutária - Irrazoabilidade - Sistema cooperativismo de liberdade de ingresso (Lei nº 5.764/71, art. 4º, I) - Hipótese em que a candidata apresentou documentos que a habilitam à condição de cooperado na especialidade pretendida - Precedentes do STJ e TJSP - Enunciado X do Grupo de Câmaras Reservadas de DireitoEmpresarial - Multa cominatória em caso de descumprimento do julgado - Sentença de improcedência - Reforma - Recurso provido.(e-STJ, fls. 246).
+Os embargos de declaração opostos por UNIMED foram rejeitados (e-STJ, fls. 313/321).
+O recurso aclaratório de ISABELA rejeitado (e-STJ, fls. 328/331).
+Inconformada, a UNIMEDinterpôs recurso especial, com base no art. 105, III,aec, da Constituição Federal, sustentando, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º, IV e 1022, II, e parágrafo único, II, do NCPC; 3º, 4º, I,21, II, e 29 da Lei nº 5.764/71.
+Alegou, em síntese, (1) a existência de omissão e falta de fundamentação no acórdão; (2)a legalidade da restrição da limitação de cooperados;(3)a aprovação no processo seletivo e do conselho médico da especialidade são condições estabelecidas no art. 3º, inciso IV, do estatuto social da Recorrente, aprovado pela ata de assembleia geral; e, (4) queISABELA não preenche a condição estabelecida no estatuto, sem a qual a mesma, por ora, não pode avançar no processo de ingresso aos quadros da cooperativa (e-STJ, fls. 271/291).
+Após o decurso do prazo sem que fossemapresentadas ascontrarrazões, orecurso especial foi admitido na origem (e-STJ, fls. 349/352).
+No âmbito do STJ, o recurso especial foi conhecido e provido em decisão monocrática de minha lavra nestes termos sintetizada:
+CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. OPERADORA DE PLANO DE SAÚDE. COOPERATIVA DE TRABALHO MÉDICO. NOVO ASSOCIADO. INGRESSO. EXIGÊNCIA DE APROVAÇÃO EM PROCESSO SELETIVO E REALIZAÇÃO DE CURSO. POSSIBILIDADE. CRITÉRIOS OBJETIVOS E IMPESSOAIS. VIABILIDADE. CAPACIDADE DE ABSORÇÃO. SITUAÇÃO FINANCEIRO-ESTRUTURAL. ESTUDOS TÉCNICOS. PRINCÍPIO DA PORTA ABERTA. RELATIVIZAÇÃO. ACÓRDÃO EM DESACORDO COM A ORIENTAÇÃO FIRMADA NO ÂMBITO DO STJ. REFORMA DO ACÓRDÃO. RECURSO ESPECIAL CONHECIDO E PROVIDO. (e-STJ, fl. 359)
+Nas razões dos presentes embargos de declaração,ISABELA sustentou que a decisão embargada padece de omissão e contradição porque (1) não teria apreciado o preenchimento dos requisitos para ingresso no quadro de cooperados; e(2) teria sido contraditória ao ao considerar que o seu ingresso teria um impacto negativo na capacidade econômica da cooperativa, já que este estaria condicionado ao pagamento de R$ 500.000,00 (quinhentosmil reais).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões dos presentes embargos de declaração, ISABELA sustentou que a decisão embargada padece de omissão e contradição porque (1) não teria apreciado o preenchimento dos requisitos para ingresso no quadro de cooperadose (2) teria sido contraditória ao ao considerar que o seu ingresso teria um impacto negativo na capacidade econômica da cooperativa, já que este estaria condicionado ao pagamento de R$ 500.000,00 (quinhentos mil reais).
+Contudo, a irresignação não merece prosperar.
+Quanto à tese (1), adecisão embargada foi clara ao consignar queum dos requisitos previstos no próprio estatuto social da cooperativa é a submissão do interessado a processo seletivo e que tal exigência, por si só, não viola o princípio da livre adesão às cooperativas.A propósito, transcreve-se:
+Como se nota, o entendimento mais recente firmado nesta Corte é de que mera exigência de processo seletivo, com previsão expressa no estatuto social, não viola o princípio da livre adesão às cooperativas. Isso porque os próprios dispositivos acima delineados relativizam a adesão voluntária devido à impossibilidade técnica de prestação de serviços ou condicionam à observância das disposições estatutárias. (e-STJ, fl. 366)
+Ademais, em relação à tese (2), o decisum,adotando os fundamentos do voto proferido peloem. Ministro RICARDO VILLAS BÔAS CUEVAno julgamento do Resp n. 1.901.911/SP, fez constar que a cooperativa não pode ser obrigada a absorver um contingente ilimitado de profissionais, mesmo que em descompasso com o mercado de trabalho. Isso porque a cooperativa éresponsável pelos atos de todos os profissionais que nela ingressam e deve preservar sua sustentabilidade financeira (e-STJ, fls. 363/364).
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS.OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de reparação por danos morais, em razão de violação de imagem.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, §2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no AREsp 1.698.701/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 18/12/2020)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições,REJEITOos embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.EMBARGOS DE DECLARAÇÃO EMRECURSO ESPECIAL.VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃOREJEITADOS.
