@@ -1,0 +1,65 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que FUNDAÇÃO DE ROTARIANOS DE SÃO PAULO (FUNDAÇÃO) promoveu execução contra JAIRO NANTES MARCONDES DO AMARAL (JAIRO), objetivando receber parcelas inadimplidas relativas à prestação de serviços educacionais.
+Narram os autos que foram infrutíferas as pesquisas realizadas nos sistemas BACENJUD, RENAJUD e INFOJUD e, por tal motivo, foi requerida a expedição de ofícios à Confederação Nacional das Empresas de Seguros Gerais, à Previdência Privada e Vida, à CNSEG, à BrasilPrev, Susep e Previ, pedido que foi indeferido.
+Dessa decisão, FUNDAÇÃO interpôs agravo de instrumento.
+O agravo de instrumentointerpostopela FUNDAÇÃOnão foiprovidopelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. SIMÓES DE VERGUEIRO,assimementado:
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FORAM INDEFERIDAS PESQUISAS ACERCA DA EXISTÊNCIA DE RECURSOS FINANCEIROS DE TITULARIDADE DO EXECUTADO JUNTO A CONFEDERAÇÃO NACIONAL DE EMPRESAS DE SEGUROS GERAIS, PREVIDÊNCIA PRIVADA E VIDA, SAÚDE SUPLEMENTAR, CAPITALIZAÇÃO (CNSEG), SUPERINTENDÊNCIA DE SECUROS PRIVADOS (SUSEP), SUPERINTENDÊNCIA NACIONAL DE PREVIDÊNCIA COMPLEMENTAR (PREVIC), E BRASILPREV SEGUROS E PREVIDÊNCIA PRIVADA S/A - ALEGAÇÃO DE INCORREÇÃO, COM PEDIDO DE REFORMA - PEDIDO DE EXPEDIÇÃO DE OFÍCIOS PARA PESQUISA RELATIVA A EXISTÊNCIA DE PREVIDÊNCIA PRIVADA EM NOME DOS DEVEDORES - FUNDO DE PREVIDÊNCIA PRIVADA QUE TEM CARÁTER ALIMENTAR, PORTANTO, IMPENHORÁVEL, TORNANDO ABSOLUTAMENTE DESNECESSÁRIA A EXPEDIÇÃO DE OFÍCIOS NA FORMA EM QUE REQUERIDA MANUTENÇÃO DA R. DECISÃO RECORRIDA - RECURSO NÃO PROVIDO (e-STJ, fl. 84).
+Inconformada, a FUNDAÇÃOmanejourecurso especial, com amparo no art. 105, III,aec,da CF, alegando violação dosarts. 139, I e 835 do NCPC, além de divergência jurisprudencial. Sustentou que (1) deve ser penhorado, preferencialmente, dinheiro; e, (2) é cabível a pesquisa da existência de valores em empresas de previdência privada.
+Sem contrarrazões (e-STJ, fl. 112).
+O apelo nobre não foi admitido em virtude do seguinte (1) ausência de ofensa aos dispositivos legais; (2)incidência da Súmula nº 7do STJ; e, (3) não comprovação da divergência jurisprudencial.
+Seguiu-se o agravo em recurso especial interposto pela FUNDAÇÃO, oportunidade em que foram rebatidos os óbices apontados, tendo havido reiteração dos termos do apelo nobre.
+Sem contraminuta (e-STJ, fl. 137).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da suposta afronta aos arts. 139 e 835 do NCPC
+A FUNDAÇÃOapontou ofensa aos arts. 139, I e 835 do NCPC. Sustentou que (1)deve ser penhorado, preferencialmente, dinheiro; e, (2) é cabível a pesquisa da existência de valores em empresas de previdência privada.
+Sobre o tema, a jurisprudência consolidada neste Superior Tribunal de Justiça adotou o entendimento de que cabe ao magistrado aferir, por meio da análise do caso concreto, a viabilidade da penhora dos valores depositados em fundo de previdência privada complementar.
+Confira-se a ementa do julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. IMPENHORABILIDADE. INDISPONIBILIDADE DE BENS DETERMINADA À LUZ DO ART. 36 DA LEI 6.024/74. MEDIDA DESPROPORCIONAL.
+1. O regime de previdência privada complementar é, nos termos do art. 1º da LC 109/2001, "baseado na constituição de reservas que garantam o benefício, nos termos do caput do art. 202 da Constituição Federal", que, por sua vez, está inserido na seção que dispõe sobre a Previdência Social.
+2. Embora não se negue que o PGBL permite o "resgate da totalidade das contribuições vertidas ao plano pelo participante" (art. 14, III, da LC 109/2001), essa faculdade concedida ao participante de fundo de previdência privada complementar não tem o condão de afastar, de forma inexorável, a natureza essencialmente previdenciária e, portanto, alimentar, do saldo existente.
+3. Por isso, a impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC.
+4. Ante as peculiaridades da espécie (curto período em que o embargante esteve à frente da instituição financeira e sua ínfima participação no respectivo capital social), não se mostra razoável impor ao embargante tão grave medida, de ter decretada a indisponibilidade de todos os seus bens, inclusive do saldo existente em fundo de previdência privada complementar - PGBL.
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.121.719/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/2/2014, DJe de 4/4/2014)
+Quanto ao ponto, o Tribunal estadual, soberano na análise do contexto fático-probatório, concluiu não ser caso de expedição de ofícios, conforme requerido, considerando que as informações pretendidas dizem respeito a valores impenhoráveis, em virtude de seu caráter alimentar (e-STJ, fls. 84, 86/88).
+Dessa forma, conforme se nota, o TJSPassim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. 2. PENHORA. UTILIZAÇÃO DO SALDO DO FUNDO DE PREVIDÊNCIA PARA FINS ALIMENTAR. AUSÊNCIA DE PROVA DOS AUTOS. REVISÃO. IMPOSSIBILIDADE, NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 3. ÔNUS DA PROVA. DISPOSITIVOS NORMATIVOS APONTADOS COMO MALFERIDOS INCAPAZES DE SUSTENTAREM A TESE DECLINADA NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Consoante a jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade ou não da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/2/2014, DJe 4/4/2014).
+2.1. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Não se admite o recurso especial, por fundamentação deficiente, quando o conteúdo normativo dos dispositivos legais apontados como violados não são aptos a lastrear a tese vertida no apelo.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.864.020/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/11/2021, DJe de 2/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/2015.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Segunda Seção, DJe de 4/4/2014).
+2.1. O Tribunal de origem, com fundamento nos fatos e nas provas dos autos, concluiu que o agravante não demonstrou o caráter alimentar dos valores recolhidos para a previdência complementar. Infirmar as conclusões da Corte local, a fim de se entender pela impenhorabilidade dos valores depositados no fundo de previdência privada, como pretende o agravante, encontra óbice na Súmula 7/STJ, pois exige o reexame de fatos e provas.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.919.780/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/11/2021, DJe de 25/11/2021)
+No tocante à divergência jurisprudencial indicada
+Ademais, quanto ao dissenso interpretativo invocado, cumpre ressaltar que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também seaplica aos recursos especiais interpostos pela alíneacdo permissivo constitucional.
+Confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. VALOR DA INDENIZAÇÃO. QUANTIA FIXADA DENTRO DOS PADRÕES DE RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. O valor fixado a título de indenização por danos morais pelas instâncias ordinárias, nos termos da jurisprudência deste Tribunal, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de proporcionalidade e de razoabilidade, os quais não se evidenciam no presente caso, de modo que a sua revisão encontra óbice na Súmula 7 do STJ.
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.546.853/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. BEM DE FAMÍLIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem manteve a impenhorabilidade do bem indicado por entender que os elementos constantes nos autos mostram que se trata de bem de família. Assim, para verificar a adequação e a suficiência dos elementos probatórios apresentados, seria imprescindível o reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.555.125/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 17/12/2019, DJe 19/12/2019)
+Nessas condições,CONHEÇOdo agravo paranãoNÃO CONHECERdo recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à majoraçãodos honorários advocatícios, em virtude de sua não fixação nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º,ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.EXECUÇÃO. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. VALORES DEPOSITADOS. PENHORA. NÃO CABIMENTO. CARÁTER ALIMENTAR. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE.INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
