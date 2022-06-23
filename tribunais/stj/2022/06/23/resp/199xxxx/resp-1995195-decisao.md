@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial fundado naalínea"a" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO . ERRO GROSSEIRO. JUÍZO DE ADMISSIBILIDADE REALIZADO PELO JUÍZO DE ORIGEM. IMPOSSIBILIDADE.
+1. Agravo de Instrumento manejado pelo SINTSEF/CE em face da decisão que, nos autos do cumprimento de sentença, julgou inadequado o recurso de apelação interposto pelo Agravante de decisão que extinguiu a execução em relação a alguns dos substituídos, determinando o prosseguimento da mesma quanto aos demais.
+2. Alega que pedido de tutela recursal tem como objeto tão somente fazer com que o recurso de apelação interposto pelo ora Agravante, para regular processamento e julgamento, tendo em vista que o juiz "a quo" julgou o referido recurso inadequado, erro material que merece reparo por esta C. Turma, tendo em vista que, reitere-se, fora interposto em face de decisão que, definitivamente, manteve a exclusão de um grupo de servidores da liquidação executada. Aduz, ainda, que o CPC, em seu art. 1010, § 3º prevê que os autos deverão ser remetidos pelo juiz ao tribunal, independentemente do juízo de admissibilidade, não sendo mais de responsabilidade do juiz de 1º grau a análise dos requisitos de admissibilidade de forma provisória, mas sim, responsabilidade exclusiva do Tribunal.
+3. O art. 1010, §3º, do CPC determina que, interposta a Apelação, os autos devem ser remetidos ao Tribunal independentemente de juízo de admissibilidade do juiz "a quo".
+4. Nessa senda, ainda que haja erro na escolha do recurso cabível, a norma cogente tornou obrigatória a remessa da apelação ao Tribunal. Logo, não há negar razão à parte agravante.
+5. Agravo de Instrumento provido, para determinar a remessa da Apelação a este Tribunal.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA.
+1. Embargos de Declaração opostos pela FUNASA, aduzindo omissão no acórdão, para insistir na1. possibilidade de reconhecimento de ofício do não cabimento da apelação interposta pelo Sindicato.
+2. Restou expressamente consignado no acórdão Embargado que o art. 1.010, § 3º, do CPC determina2. que, interposta a Apelação, os autos devem ser remetidos ao Tribunal independentemente de Juízo de Admissibilidade do Juiz "a quo". Nessa senda, ainda que haja erro na escolha do recurso cabível, a norma cogente tornou obrigatória a remessa da apelação ao Tribunal.
+3. O fato de não terem sido mencionados na decisão embargada todos os dispositivos legais e precedentes3. judiciais invocados pelo Embargante não configura afronta ao art. 489, § 1º, IV e VI, do CPC, especialmente quando a fundamentação apresentada não é capaz de infirmar a conclusão adotada pelo julgador no acórdão atacado. Embargos de Declaração improvidos.
+No recurso especial, a parte recorrente aponta violação dos arts. 1.022, II, c/c 489 §1º, do CPC, aduzindo que "..em que pese o teor da decisão proferida no recurso aclaratório, não restou efetivamente apreciada a matéria em confronto com os dispositivos violados. Veja-se que o acórdão dos embargos declaratórios tão somente diz que há intenção de se rediscutir o julgado. Os argumentos levantados pelo recorrente, quais sejam, a omissão quanto a impossibilidade de conhecimento da apelação, restaram sem enfrentamento no acórdão recorrido." (fl. 235 e-STJ).
+É o relatório. Decido.
+O Tribunal de origem, ao analisar a controvérsia, assentou que"O art. 1010, §3º, do CPC determina que, interposta a Apelação, os autos devem ser remetidos ao Tribunal independentemente de juízo de admissibilidade do juiz "a quo". Nessa senda, ainda que haja erro na escolha do recurso cabível, a norma cogente tornou obrigatória a remessa da apelação ao Tribunal. Logo, não há negar razão à parte agravante." (fl. 192 e-STJ)
+Em sede de aclaratórios, restou consignado que:
+Restou expressamente consignado no acórdão Embargado que o art. 1.010, § 3º, do CPC determina que, interposta a Apelação, os autos devem ser remetidos ao Tribunal independentemente de Juízo de Admissibilidade do Juiz "a quo".
+Nessa senda, ainda que haja erro na escolha do recurso cabível, a norma cogente tornou obrigatória a remessa da apelação ao Tribunal.
+Não merece modificação o acórdão embargado, portanto.
+O fato de não terem sido mencionados na decisão embargada todos os dispositivos legais e precedentes judiciais invocados pelo Embargante não configura afronta ao art. 489, § 1º, IV e VI, do CPC, especialmente quando a fundamentação apresentada não é capaz de infirmar a conclusão adotada pelo julgador no acórdão atacado.
+A alegada ofensa ao art 1.022 do CPC não merece prosperar, eis que o Tribunal de origem já havia se manifestado de forma clara e fundamentada sobre alegação a insurgência da recorrente.
+Ademais, a bem da verdade, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Da mesma forma, afasta-se a alegada afronta ao artigo 489do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. O aresto embargado contém fundamentação suficiente para demonstrar que não houve violação aos arts. 489 e 1.022 do CPC/2015;
+bem como, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  houve violação ao art. 58, § 4º, da Lei 8.213/91, "pois, novamente, a legislação exige a elaboração, manutenção e entrega do PPP aos trabalhadores sem quaisquer condicionantes"  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1864372/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.SERVIDOR PÚBLICO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. OFENSA AOSARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
