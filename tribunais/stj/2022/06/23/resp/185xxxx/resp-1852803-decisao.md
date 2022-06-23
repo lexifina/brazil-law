@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARGUS-EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio aacórdão proferido pelo Tribunal de Justiça do Estado do Paranáassim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE VALORES, INDENIZAÇÃO POR DANO MORAL E PEDIDO DE TUTELA ANTECIPADA.DECISÃO AGRAVADA QUE ACOLHEU A IMPUGNAÇÃO AO VALOR DA CAUSA, ACOLHEU OS EMBARGOS DE DECLARAÇÃO A FIM DE DETERMINAR O PROSSEGUIMENTO DO FEITO EM FACE DE AMBAS AS DEMANDADAS.
+AGRAVANTE QUE SUSTENTA A SUA AUSÊNCIA DE RESPONABILIDADE EM RELAÇÃO AO ATRASO NOS EMPREENDIEMNTOS, FUNDAMENTANDO QUE A LEI Nº 4.591/94 SÓ PREVÊ A RESPONSABILIZAÇÃO DO PROPRIETÁRIO QUANDO INICIADAS AS ALIENAÇÕES ANTES DA CONCLUSÃO DAS OBRAS. ENTENDIMENTO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE EGRÉGIO TRIBUANL PELA POSSIBILIDADE DE RESPONSABILIZAÇÃO DO PROPRIETÁRIO QUANDO ESTE EXERCE ATIVIDADES DE INCORPORAÇÃO IMOBILIÁRIA.IMPOSSIBILIDADE DE EXCLUSÃO DA CORRE DO POLO PASSIVO NESTE MOMENTO PROCESSUAL. PERDA DO OBJETO DO RECURSO DE AGRAVO INTERNO. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ, fls. 372-379).
+Em suas razões recursais, a parte recorrente alegaviolação doart.1.026, § 2º, do CPC/2015, defendendo a inexistência de caráter protelatório na oposição de embargos de declaração com o fim de prequestionamento, nos termos da Súmula 98/STJ.
+Contrarrazões não apresentadas (e-STJ, fl. 416).
+É o relatório. Decido.
+O § 2º do art. 1.026 do CPC dispõe que, "quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa".
+A condenação prevista no citado dispositivo legal pressupõe que os embargos de declaração sejam manifestamente protelatórios, ou seja, a aplicação da multa será cabível quando houver notório propósito de protelar a solução da demanda e a duração do processo.
+Efetivamente, na esteira dos precedentes desta Corte, os aclaratórios que objetivam prequestionar as matérias a serem submetidas às instâncias extraordinárias não se revestem de caráter procrastinatório, devendo ser afastada a multa prevista no art. 1.026, § 2º, do CPC/2015 (Súmula 98/STJ).
+Na hipótese dos autos, não há evidência do intuito de procrastinação na conduta processual da parte recorrente, uma vez que foi oposto apenas um recurso de embargos de declaração perseguindo o prequestionamento, circunstância que implica afastamento da multa do art. 1.026, § 2º, do CPC/2015.
+Diante do exposto,dou provimento ao recurso especial, a fim deafastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se.
