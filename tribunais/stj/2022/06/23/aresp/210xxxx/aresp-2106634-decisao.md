@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial,interpostopor GIODESC - IND. COM. IMP. E EXP. PROD. HOSPITALARES LTDA - EMPRESA DE PEQUENO PORTE, fundamentadonaalínea"a"dopermissivoconstitucional, contra acórdão proferido peloTribunal deJustiça doEstado do Paraná, assim ementado:
+AGRAVO INTERNO. DECISÃO QUE NEGOU SEGUIMENTO A RECLAMAÇÃO CÍVEL. INSURGÊNCIA DO RECLAMANTE. ALEGAÇÃO DE AFRONTA A SÚMULA 410 DO STJ. DESCABIMENTO. DECISÃO RECLAMADA QUE ENTENDEU QUE A MULTA APLICADA CORRESPONDE A CLÁUSULA PENAL, DISTINGUINDO-A DAS ASTREINTES. NÃO APLICABILIDADE DA SÚMULA, UMA VEZ QUE NÃO SE TRATA DE ASTREINTES. RECLAMAÇÃO QUE NÃO SERVE PARA REDISCUTIR O MÉRITO, NÃO SE PRESTANDO COMO SUCEDÂNEO RECURSAL. INADMISSIBILIDADE DA RECLAMAÇÃO.RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 133-136.
+Nas razões do recurso especial, a parte recorrente alega violação aos arts.523, §1º, e 1.022, II,do Código de Processo Civil de 2015, bem como aos arts.412 e 413 do Código Civil e à Súmula n. 410/STJ.
+É o relatório. Decido.
+O recurso especial é intempestivo.
+ACorte Especial do STJ, no julgamento doAgInt no AREsp 957.821/MS,aointerpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC/2015,firmou orientação de que o recorrente deve comprovar "aocorrênciadeferiado local no ato de interposição do recurso", de maneiraqueficainviabilizada a apresentação de documento hábil em momentoposteriorparademonstrar sua tempestividade.Eis a ementa do referidoacórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL.FERIADOLOCAL.COMPROVAÇÃO.ATO DEINTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre apossibilidadedea parte comprovar, em agravo interno, a ocorrência deferiado local,queensejou a prorrogação do prazo processual para ainterposição doagravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, éexpressonosentido de que "o recorrente comprovará a ocorrência deferiado localnoato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal,o§3º do seu art. 1.029 impõe, para tanto, que se tratede"recursotempestivo". 4. A intempestividade é tida pelo Código atualcomovíciograve e, portanto, insanável. Daí porque não se aplica àespécieodisposto no parágrafo único do art. 932 do CPC/15, reservadoàshipótesesde vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil,seja em atenção à nova orientação do STF, a jurisprudência construída
+peloSTJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado
+localno ato da interposição do respectivo recurso, ou seconsideraintempestivoo recurso, operando-se, em consequência, a coisajulgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS,Rel. Ministro RAUL ARAÚJO, Rel.p/acórdãoMinistra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017,DJe de19/12/2017)
+Por ocasião do julgamento do REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO,Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL,julgadoem2/10/2019,DJe 18/11/2019, esse entendimento foi reafirmado,mas houveamodulação de efeitosquanto ao feriado de segunda-feira deCarnaval,cujacomprovação, por documento idôneo, foi admitidaposteriormente nocasoderecursos interpostos até 18/11/2019, data dapublicação desteúltimojulgado (QO no REsp 1.813.684/SP, Rel. MinistraNancy Andrighi,julgado em3/2/2020).
+No caso dos autos, não foi obedecido o prazo para ainterposiçãodorecurso especial, que é de 15 (quinze) dias úteis, nostermos doart.1.003, § 5º, c/c 219,caput, do CPC/2015.
+Com efeito, a parte recorrente foi incontroversamente intimadadoacórdãorecorrido em30/09/2021(quinta-feira), conformecertidão defl. 140. Entretanto, o prazo recursal expirouem22/10/2021(sexta-feira),anteriormente à protocolização da petição dorecurso em25/10/2021 (segunda-feira). Issoporquenão houve comprovação, pordocumentoidôneoenoatodainterposição do recurso, dasuspensãodoexpedienteforensenodia 11/10/2021 (segunda-feira).
+Diante do exposto,conheço do agravo para não conhecer do recursoespecial.
+Publique-se.
