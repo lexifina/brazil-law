@@ -1,0 +1,6 @@
+Art. 32-A. As operações relativas aos combustíveis, ao gás natural, à energia elétrica, às comunicações e ao transporte coletivo, para fins de incidência de imposto de que trata esta Lei Complementar, são consideradas operações de bens e serviços essenciais e indispensáveis, que não podem ser tratados como supérfluos.
+§ 1º Para efeito do disposto neste artigo:
+I - é vedada a fixação de alíquotas sobre as operações referidas no caput deste artigo em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços;
+II - é facultada ao ente federativo competente a aplicação de alíquotas reduzidas em relação aos bens referidos no caput deste artigo, como forma de beneficiar os consumidores em geral; e
+III - é vedada a fixação de alíquotas reduzidas de que trata o inciso II deste parágrafo, para os combustíveis, a energia elétrica e o gás natural, em percentual superior ao da alíquota vigente por ocasião da publicação deste artigo.
+§ 2º No que se refere aos combustíveis, a alíquota definida conforme o disposto no § 1º deste artigo servirá como limite máximo para a definição das alíquotas específicas (ad rem) a que se refere a alínea b do inciso V do caput do art. 3º da Lei Complementar nº 192, de 11 de março de 2022.
