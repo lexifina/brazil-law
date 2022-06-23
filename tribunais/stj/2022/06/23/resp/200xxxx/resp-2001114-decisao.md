@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA.HABILITAÇÃO DE PENSIONISTA. IMPOSSIBILIDADE.
+1. Cuida-se de procedimento de habilitação formulado por IRIS RODRIGUES OLIVEIRA no qual se pleiteia o levantamento dos valores pagos em favor do falecido servidor NILSON GARCIA DE OLIVEIRA, havendo, nesse mesmo petitório, pedido de retenção dos honorários contratuais.
+2. O MM. Juiz "a quo" julgou procedente o pedido, devendo a requerente receber 100% do valor executado em favor do citado servidor, permanecendo depositado em juízo o valor restante, aguardando a habilitação da segunda pensionista.
+3. Inconformada, apela a União, alegando que o ex-servidor teria falecido há anos antes da propositura da ação ordinária nº 08021061520194058000. Assim, requereu a declaração de nulidade de todos os atos processuais, com devolução dos valores recebidos, se for o caso.
+4. Na hipótese, deve ser analisado se a Federação Nacional dos Policiais Federais - FENAPEF, autora da ação coletiva, possuía capacidade de substituir ou representar a pensionista ou não. Além disso, deve-se ainda ponderar a abrangência do título judicial, para se averiguar se a pensionista foi beneficiada ou não pela decisão exequenda.
+5. O servidor, instituidor da pensão recebida pela autora, faleceu em 10/08/2007, enquanto a ação coletiva foi proposta no ano de 2016, com o nome do falecido incluído na listagem anexada à petição.
+6. Verificado que a ação de conhecimento foi proposta após o falecimento do servidor instituidor da pensão, a pensionista carece de legitimidade para propor a execução de sentença, já que também não fez parte do processo de conhecimento.
+7. Apelação provida. Inverta-se o ônus da sucumbência.
+A parte recorrente afirma que a legislação federal foi ofendida. Aduz:
+A) DA VIOLAÇÃO AO ART. 240, ALÍNEA "A", DA LEI FEDERAL Nº 8.112/1990, BEM COMO AO ART. 18 DO CÓDIGO DE PROCESSO CIVIL DE 2015. FEDERAÇÃO QUE REPRESENTA OS INTERESSES DOS PENSIONISTAS, INDEPENDENTEMENTE DE AUTORIZAÇÃO.
+PRECEDENTES DESSA DOUTA CORTE ESPECIAL.
+(..)
+Com efeito, é cristalino que, independentemente do falecimento do servidor, seja antes ou durante a ação de conhecimento, havendo ele deixado pensionista, em razão da natureza do vínculo gerado pela pensão, a Federação, enquanto entidade representativa de classe, possui legitimidade extraordinária para representa-la, ainda que não tenha outorgado expressamente poderes para tanto ou mesmo que tenha se filiado a pensionista.
+Em casos assim, a morte do servidor não tem, pois, o condão de extinguir a legitimidade conferida à entidade sindical para pleitear verbas que seriam de titularidade dode cujus
+Neste cenário, convém destacar que a legitimidade em questão, relativa à propositura de ação coletiva por sindicado, como substituto processual, encontra amparo no âmbito constitucional, no art. 8º, III, da Constituição Federal/1988, que confere ampla e irrestrita liberdade às entidades sindicais para atuar nadefesa dos direitos e interesses individuais e coletivos da categoria, em sede judicial ou administrativa, senão vejamos:
+(..)
+Por outro lado, na seara infraconstitucional, a legitimidade extraordinária também está presente. Em primeiro lugar, tem-se a Lei Federal nº 8.112/1990, que, em seu art. 240, "a", o qual foi violado pelo Tribunal, confere ao servidor o direito de ser representado por sindicato, como substituto a quo processualin verbis
+(..)
+O dispositivo legal em questão deve ser combinado com o art. 18 do Código de Processo Civil, que, embora, genericamente, proíba que alguém pleiteie direito alheio em nome próprio, ressalva a possibilidade de legitimação extraordinário, mediante autorização legal, estando abaixo transcrito:
+(..)
+Convém explanar que a análise dos dispositivos acima expostos demonstra que a legitimidade da entidade sindical é ampla e irrestrita, não podendo haver óbice quanto à promoção da ação coletiva em regime de substituição processual.
+Pertinente ao caso, essa D. Corte Especial possui jurisprudência pacífica a respeito da possibilidade de representação dos pensionistas por entidade sindical de que fazia parte o instituidor da pensão.
+(..)
+B) DA VIOLAÇÃO AO ART. 5º DO CÓDIGO DE PROCESSO CIVIL. NULIDADE DE ALGIBEIRA. PROIBIÇÃO AOAPLICAÇÃO DOS VENIRE CONTRA FACTUM PROPRIUM INSTITUTOS DA E DAPRECEDENTES DESSA CORTE. SUPRESSIO SURRECTIO
+(..)
+Com efeito, conforme narrado, a recorrida, mesmo após o trânsito em julgado das questões decididas na fase de conhecimento e na fase de execução, que duraram quase duas décadas de efetiva marcha processual, após a expedição da requisição de pagamento em favor do e do depósito dos valores de cujus a ela relativos, tumultuando o processo, apresentou matéria atinente ao início da relação processual, o que não é concebível.
+Acontece que, em primeiro lugar, a tese da recorrida derivou da do servidor em evidência, data do óbito fato que era de seu conhecimento desde o começo da relação processual, porquanto o de cujus , não tendo trazido essa informação aos autos no tempo certo, por pertencia aos seus quadros de pessoal sua própria conveniência.
+É o relatório.
+Decido.
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+Na hipótese, deve ser analisado se a Federação Nacional dos Policiais Federais - FENAPEF,autora da ação coletiva, possuía capacidade de substituir ou representar a pensionista ou não. Além disso, deve-se ainda ponderar a abrangência do título judicial, para se averiguar se a pensionista foi beneficiada ou não pela decisão exequenda.
+O servidor, instituidor da pensão recebida pela autora, faleceu em 10/08/2007, enquanto a ação coletiva foi proposta no ano de 2016, com o nome do falecido incluído na listagem anexada à petição.
+Verificado que a ação de conhecimento foi proposta após o falecimento do servidor instituidor da pensão, a pensionista carece de legitimidade para propor a execução de sentença.
+O Apelo comportaacolhida.
+O aresto recorrido destoa da jurisprudência do STJ de queo sindicato possui legitimidade ativa para substituir os sucessores dos servidores falecidos, ainda que o óbito tenha ocorrido no curso da Ação de Conhecimento ou antes do ajuizamento da Execução.Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SINDICATO. LEGITIMIDADE ATIVA PARA REPRESENTAR PENSIONISTA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 568/STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que indeferiu os pedidos de habilitação e representação processual na execução de sentença. No Tribunal a quo, o agravo de instrumento foi parcialmente provido.
+II - O "título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual. Assim, impõe-se considerar que o Sindicato possui legitimidade ativa ad causam para substituir a pensionista, em execução de sentença, diante da natureza do vínculo que a pensão gera em relação ao servidor falecido, independentemente de seu óbito ter ocorrido antes do ajuizamento da execução." Nesse sentido: AgInt no REsp 1.740.853/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2019, DJe 22/4/2019.
+III - O sindicato, na qualidade de substituto processual, detém legitimidade para atuar judicialmente na defesa dos interesses da categoria que representa, independente de autorização expressa ou relação nominal. Nesse sentido: REsp n. 1.666.086/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017; AgInt no REsp n. 1.625.650/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/4/2017, DJe 24/4/2017; AgInt no REsp n. 1.555.259/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.
+IV - A legitimação extraordinária assegurada ao sindicato, para que este atue na defesa dos interesses dos seus substituídos, não se projeta para a fase de execução ou de cumprimento da sentença coletiva em proveito dos sucessores dos substituídos falecidos, exceto no caso de pensionistas, que preservam direitos decorrentes do vínculo que justifica a pretensão deduzida na ação principal, pois, em regra, com a morte cessa a substituição, restando aos demais sucessores o direito de, em nome próprio, buscar a satisfação da obrigação imposta pelo título executivo, após comprovada a sua legitimidade, em procedimento de habilitação, de acordo com o art. 687 do CPC/2015. Nesse sentido: AgInt no REsp n.1.740.853/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2019, DJe 22/4/2019 e REsp n. 1.769.366/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2018, DJe 12/3/2019.
+V - Considerando que a decisão agravada alinha-se com entendimento firme na jurisprudência do Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, segundo o qual "O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+VI - Agravo interno improvido.
+(AgInt no REsp n. 1.930.376/RS, relator Ministro Francisco Falcão, Segunda Turma,DJe de 25/5/2022.)
+PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE. SERVIDOR PÚBLICO. FALECIMENTO. PENSIONISTA. SUBSTITUIÇÃO. HABILITAÇÃO DOS SUCESSORES. PRESCRIÇÃO. INEXISTÊNCIA.
+1. Consoante o entendimento do STJ, o sindicato possui legitimidade ativa para substituir a pensionista e os sucessores dos servidores falecidos, ainda que o óbito tenha ocorrido antes do ajuizamento da execução.
+2. Esta Corte entende, ainda, que a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal que imponha prazo para a habilitação dos respectivos sucessores, não há que falar em prescrição.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.921.299/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 10/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA PROPOSTA EM SUBSTITUIÇÃO PROCESSUAL. LEGITIMIDADE DA PENSIONISTA PARA EXECUTAR O TÍTULO JUDICIAL. RECURSO NÃO PROVIDO.
+1. O STJ possui jurisprudência consolidada no sentido de que o sindicato possui legitimidade ativa para substituir os sucessores do servidores públicos falecidos, inclusive os seus pensionistas.
+Precedentes.
+2. Assim, a pensionista possui legitimidade para executar, em nome próprio, o título judicial formado em ação coletiva ajuizada pelo sindicato da categoria, em relação ao período posterior ao óbito do instituidor do benefício.
+3. A questão de haver ou não valores devidos à pensionista nesse período é questão que foge ao objeto do presente recurso especial, o que somente pode vir a ser discutido nos autos da execução/cumprimento de sentença.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.967.149/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 28/4/2022.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SINDICATO. LEGITIMIDADE ATIVA. SUBSTITUIÇÃO PROCESSUAL. PENSIONISTAS E SUCESSORES. DATA DO ÓBITO. IRRELEVÂNCIA.
+1. O acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte, firme no sentido de que "o sindicato possui legitimidade ativa para substituir a pensionista diante da natureza do vínculo que a pensão gera em relação à viúva do servidor, devendo esta ser incluída, portanto, na categoria representada pelo sindicato, sendo desnecessária sua efetiva filiação à entidade. Precedentes: REsp 1276388/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/11/2011; AgRg no REsp 1.224.482/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 15/10/2015." (AgInt no REsp 1596036/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/12/2017, DJe 12/12/2017).
+2. Ainda na linha de nossa jurisprudência, "o sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da execução. Nesse sentido: REsp 1.864.315/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/6/2020; AgRg no REsp 1.224.482/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 15/10/2015" (AgInt no REsp 1881628/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/11/2020, DJe 1º/12/2020).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.946.342/RS, relator Ministro Sérgio Kukina, Primeira Turma,DJe de 24/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. LEGITIMIDADE. SINDICATO. ÓBITO DO SERVIDOR NO CURSO DA AÇÃO DE CONHECIMENTO. POSSIBILIDADE.
+1. O sindicato possui legitimidade ativa para substituir os sucessores do servidores públicos falecidos. Por isso, ainda que o óbito tenha ocorrido no curso da ação de conhecimento, é possível o ajuizamento da execução pelo ente sindical. Precedentes.
+2. Não se justifica a limitação dessa possibilidade aos pensionistas. Tal como para os sucessores em geral, o pensionamento estabelece um vínculo jurídico entre beneficiários e administração distinto daquele existente com o servidor, que tinha um relação de trabalho.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.794/PE, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2022.)
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. AÇÃO COLETIVA. EXECUÇÃO DE SENTENÇA. FALECIMENTO DO SERVIDOR ANTES DO AJUIZAMENTO DA EXECUÇÃO. LEGITIMIDADE AD CAUSAM DO SINDICATO PARA REPRESENTAR O PENSIONISTA.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. O título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual. Impõe-se considerar que o Sindicato possui legitimidade ativa ad causam para substituir a pensionista, em execução de sentença, diante da natureza do vínculo que a pensão gera em relação ao servidor falecido, independentemente de seu óbito ter ocorrido antes do ajuizamento da execução. Precedentes: REsp 1.276.388/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/11/2011;
+AgRg no REsp 1.224.482/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 15/10/2015; AgInt no REsp 1.744.661/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/10/2018.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.942.607/PE, relator Ministro Herman Benjamin, Segunda Turma,DJe de 10/12/2021.)
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
