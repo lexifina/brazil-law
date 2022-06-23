@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo  do MUNICÍPIO DO RIO DE JANEIRO -RJ, em que objetivaadmissão  de  recurso especial interposto  contra  acórdão  do TJRJ assim  ementado:
+Apelação Cível. Execução Fiscal. Exceção de pré-executividade acolhida. Extinção do processo. Crédito tributário com a exigibilidade suspensa. Depósito integral realizado em outro processo. Art. 151, II, do CTN. Tema 271 do STJ. Sentença que se mantém. Negado provimento ao recurso.
+No  especial,  a  parte  alega  violação  dos  arts. 1022 do CPC/2015 e 151 do CTN.
+ Sustenta,  em  síntese (a) a existência de omissão no acórdão que desconsiderou as alegações do recorrente que o depósito judicial em questão não foi integral, uma vez que considerou o desconto por pagamento em cota única e (b) que a suspensão da exigibilidade do crédito tributário só ocorre quando do depósito do montante integral da dívida, não se aplicando ao caso concreto uma vez que promovido com descontos.
+O recurso especial foi inadmitido por ausência de vício de integração, por aplicação do óbice da Súmula 7 do STJ e por encontrar-se o acórdão em consonância com o precedente firmado em recurso repetitivo (TEMA 271 do STJ).
+Agravo que impugna estes fundamentos.
+Sem contraminuta .
+Passo a decidir.
+Inicialmente, registro que a parte da decisão a quo que negou seguimento ao recurso especial com fundamento no art. 1.030, I, "b", do CPC/2015 desafia recurso próprio (art. 1.030, § 2º, do CPC/2015) e, por isso, não pode ser objeto de revisão pela via do agravo em recurso especial, sendo, portanto, inviável o exame de eventual ofensa aos dispositivos legais que respaldam as alegações referentes à impossibilidade de ajuizamento de executivo fiscal enquanto pendente suspensão da exigibilidade do crédito tributário pelo depósito do montante integral do débito, nos termos do artigo 151, inciso II, do CTN (TEMA 271 do STJ), sendo certo que a menção aos outros óbices de admissibilidade também se refere a essa mesma questão, visto que o recurso especial defende, apenas, a suposta aplicação equivocada do referido precedente na espécie, notadamente quanto à compreensão alcançada pela Corte estadual de que a contribuinte não teria conseguido comprovar a promoção do depósito do montante integral da dívida na ação conexa.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  I,  do  RISTJ,  NÃO  CONHEÇO  do  agravo  em  recurso  especial.
+Uma vez promovida nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
