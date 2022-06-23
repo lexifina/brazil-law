@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ARUANÃ ENERGIA S.A. contra ato judicial por meio do qual declinei da competência para processar e julgar a causa e determinei a redistribuição a uma das Turmas da Primeira Seção (e-STJ, fls. 3431/3432).
+Em suas razões, ARUANÃ alega obscuridade ao se determinar a remessa dos presentes autos a uma das Turmas que compõem a Primeira Seção de Direito Público. Nessa linha, defende que a matéria objeto da ação é de direito privado.
+É o relatório. Decido.
+Os embargos de declaração não comportam conhecimento.
+O comando judicial atacado não desafia impulso recursal essencialmente por ser destituído de força causadora de gravame a ARUANÃ, nos termos dos arts. 203, § 3º, e 1001 do NCPC.
+Dessa forma, não há se falar, na hipótese vertente, em ato judicial de cunho decisório, mas em despacho de mero expediente, uma vez que se mostra, evidentemente, de impulsionamento do processo, sem resolver questão alguma, não possuindo carga de lesividade e tampouco ensejando o surgimento de questão incidente. A propósito:
+AGRAVO REGIMENTAL. DESPACHO QUE DETERMINA REDISTRIBUIÇÃO OU ATRIBUIÇÃO DOS AUTOS. IRRECORRIBILIDADE.
+É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, haja vista tratar-se de ato meramente ordinatório bem como inexistir conteúdo decisório apto a causar gravame às partes.
+Precedentes.
+Agravo regimental não conhecido.
+(AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 17/4/2013, DJe 25/04/2013)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REDISTRIBUIÇÃO DOS AUTOS. DESPACHO. IRRECORRIBILIDADE.
+1. O ato judicial que apenas determina a redistribuição do feito, não apresentando conteúdo decisório, tratando-se de despacho meramente ordinatório.
+2. Não cabe recurso contra despacho, conforme os arts. 504 do CPC/1973 e 1.001 do CPC/2015.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 501.680/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 2/2/2018)
+Nesse contexto, por se tratar de provimento judicial contra a qual não cabe recurso, não se pode cogitar do cabimento dos presentes embargos.
+Ademais, no caso de conflito relativo à competência interna das turmas desta Corte, o art. 9º do Regimento Interno estabelece como critério geral para sua fixação a "natureza da relação jurídica litigiosa". Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIÇO PÚBLICO. LITÍGIO ENTRE USUÁRIO E EMPRESA CONCESSIONÁRIA. TELEFONIA. DISCUSSÃO SOBRE ADEQUAÇÃO DO SERVIÇO. NATUREZA DE DIREITO PÚBLICO DA RELAÇÃO JURÍDICA LITIGIOSA. LEI GERAL DE TELECOMUNICAÇÕES. LEI DE CONCESSÕES. RESOLUÇÃO 632/2014, DA ANATEL. PRECEDENTES DA CORTE ESPECIAL.
+COMPETÊNCIA DAS TURMAS DA PRIMEIRA SEÇÃO DO STJ.
+1. Trata-se de Conflito Negativo de Competência suscitado pela Quarta Turma em face da Primeira Turma, no âmbito de Recurso Especial interposto no curso de Ação de Obrigação de Fazer c/c pedido indenizatório proposta por Riomídia Informática Ltda. contra Telemar Norte Leste S/A, tendo como causa de pedir a recusa da concessionária de serviço de telefonia em adequar o plano contratado à real necessidade de consumo da empresa usuária. RELAÇÃO JURÍDICA LITIGIOSA 2. Em se tratando de debate relativo à competência, o art. 9º do Regimento Interno do Superior Tribunal de Justiça estabelece como critério geral a "natureza da relação jurídica litigiosa".
+3. O Tribunal a quo reconheceu estar "caracterizada a falha na prestação do serviço de telecomunicações" e demonstrado o comportamento "desidioso da ré" (fl. 418). Desse modo, o conflito versa sobre o serviço público prestado, ainda que estejam em discussão aspectos relativos ao contrato.
+PRESTAÇÃO DE SERVIÇO PÚBLICO ADEQUADO E NORMAS PUBLICISTAS: LEI DE CONCESSÕES E LEI GERAL DE TELECOMUNICAÇÕES 4. A resolução do tema de fundo perpassa pela interpretação e aplicação da Lei de Concessões (Lei 8.987/1995) e, em particular, da Lei Geral de Telecomunicações (Lei 9.472/1997).
+5. A propósito, o leading case da Primeira Seção, que apreciou o tema da legalidade da assinatura básica do serviço de telefonia, possui fundamentação firmemente ancorada na Lei Geral de Telecomunicações (REsp 911.802/RS, Rel. Ministro José Delgado, Primeira Seção, DJe 1º/9/2008).
+6. Os contratos de prestação de serviços de telefonia - fixa e móvel - sofrem amplo influxo de normas de direito público e forte controle exercido pela Anatel, órgão regulador das telecomunicações.
+7. A prestação de serviço público adequado está diretamente relacionada ao respeito à Lei 8.987/1995 (Lei de Concessões), às normas contratuais e outras pertinentes (p. ex., o Código de Defesa do Consumidor), conforme o art. 6º da Lei de Concessões:
+"Art. 6º Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato".
+8. Se a controvérsia gira em torno da inadequação na prestação de serviço público concedido e da responsabilidade civil (contratual ou não) decorrente, não há como dissociar do caso concreto a natureza jurídica de Direito Público. O simples fato de haver discussão contratual entre usuário e concessionária de serviço público não atrai para o Direito Privado a relação jurídica litigiosa. Se fosse assim, toda a matéria de licitações, de índole eminentemente contratual, deveria também ser julgada pela Segunda Seção.
+JURISPRUDÊNCIA DA CORTE ESPECIAL DO STJ 9. Consoante a orientação assentada pela Corte Especial, é de Direito Público a relação jurídica litigiosa (art. 9º do RISTJ) entre usuário de serviço público e pessoa jurídica concessionária (CC 122.559/DF, Rel. Ministro Gilson Dipp, Corte Especial, DJe 25/9/2013; CC 108.085/DF, Rel.
+Ministro Aldir Passarinho Junior, Corte Especial, DJe 17/12/2010; CC 104.374/RS, Rel. Ministro Hamilton Carvalhido, Corte Especial, DJe 1º/6/2009; CC 102.589/RS, Rel. Ministra Laurita Vaz, Corte Especial, DJe 18/5/2009; CC 102.588/RJ, Rel. Ministro Felix Fischer, Corte Especial, DJe 20/4/2009; REsp 1.396.925/MG, Rel. Ministro Herman Benjamin, Corte Especial, DJe 26/2/2015).
+10. Em todos os casos acima referidos, ficou definido que tais conflitos são regidos predominantemente por normas publicistas sediadas na Constituição Federal, na Lei de Concessões e no Código de Defesa do Consumidor.
+PREDOMINÂNCIA DE NORMAS PUBLICISTAS NOS CONFLITOS ENTRE USUÁRIOS E EMPRESAS CONCESSIONÁRIAS DE SERVIÇO PÚBLICO 11. Como adverte Celso Antônio Bandeira de Mello, a opção por classificar determinadas atividades como serviço público revela que "o Estado considera de seu dever assumi-las como pertinentes a si próprio (mesmo que sem exclusividade) e, em consequência, exatamente por isto, as coloca sob uma disciplina peculiar instaurada para resguardo dos interesses nelas encarnados:
+aquela disciplina que naturalmente corresponde ao próprio Estado, isto é, uma disciplina de direito público" (Grandes temas de direito administrativo, Malheiros, São Paulo, 2009, p. 274).
+12. Sob essa perspectiva, afigura-se irrelevante para efeito de definição da competência de uma das Turmas da Seção de Direito Público a existência de debate sobre o contrato entabulado entre usuário e prestador do serviço e a ausência de discussão sobre cláusulas do contrato administrativo, poder concedente e normas regulamentares do setor.
+13. Cumpre delimitar que atraem a competência da Primeira Seção aqueles casos que caracterizam concessão em sentido estrito, e não as concessões/permissões/autorizações que poderíamos chamar de inespecíficas. Em outras palavras, apenas quando o próprio Estado, por sua natureza, possui competência para prestar o serviço, e não o faz - hipótese que não abrange, por exemplo, o serviço de táxi de passageiros -, e quando os insumos para a prestação da atividade de interesse público são constitucionalmente definidos como bens estatais (p. ex., os potenciais de energia hidráulica, nos termos do art.
+20, VIII, da CF).
+CONCLUSÃO 14. Conflito de Competência conhecido para declarar competente a Primeira Turma do STJ.
+(CC 138.405/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 17/08/2016, DJe 10/10/2016)
+Compulsando os autos, observa-se que a questão tratada diz respeito a direito público em geral, na medida em que envolve a discussão acerca do inadimplemento de contrato administrativo que teria culminado na retirada da Aruanã da sociedade.
+Nessas condições, não conheço dos embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. DECLINAÇÃO DE COMPETÊNCIA. DESPACHO DE MERO EXPEDIENTE. FALTA DE CUNHO DECISÓRIO. IRRECORRIBILIDADE. EMBARGOS NÃO CONHECIDOS.
