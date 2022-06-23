@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 85):
+HABEAS CORPUS. HOMICÍDIO. ALEGAÇÃO DA AUSÊNCIA DE REQUISITOS DA PRISÃO PREVENTIVA. DECISÃOJUDICIAL QUE APONTA A NECESSIDADE DE MANTER O PACIENTE PROVISORIAMENTE CUSTODIADO. PRESENTES OS REQUISITOS QUE AUTORIZAM A PRISÃO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DEMONSTRADA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. REMÉDIO CONSTITUCIONAL CONHECIDO E DENEGADO.
+1. In casu, a segregação cautelar se deu sob o argumento da garantia da ordem pública, consubstanciando-se nas provas colhidas, nos indícios de autoria e prova da materialidade delitiva, encontrando-se presentes os requisitos autorizativos da preventiva. Em análise dos autos, observa-se que o paciente foi denunciado pela suposta prática do crime de homicídio qualificado em desfavor de duas vítimas. Consta que na madrugada do dia 18 de dezembro de 2021, o denunciado supostamente surpreendeu as vítimas na sala da residência com vários disparos de arma de fogo.
+2. A periculosidade do ora paciente, percebida pelo julgador singular a partir das circunstâncias do caso concreto indica a necessidade da medida extrema, sobretudo para a garantia da ordem pública.
+3. Ordem Denegada.
+O recorrente foi preso em flagrante, convertido em preventiva, por homicídio qualificado.
+Em síntese, adefesa entende que opericulum libertatisnão foi demonstrado, e indica cabimento de medidas cautelares mais brandas.Busca, inclusive liminarmente, o relaxamento da custódia.
+Na origem, processo n. 0700960.42.2021.8.02.0067, a audiência de instrução foi designada para 15/8/2022 (fl. 75).
+Dos autos, verifica-se que a defesa não colacionou documento em que constasse a fundamentação do decreto preventivo, pois: (i) o termo de assentada às fls. 44-46 indica apenas que "Conforme se verifica na fundamentação constante na mídia em anexa, a prisão preventiva se faz necessária para a garantia da ordem pública, por conveniência da instrução criminal", e (ii) a decisão de reexame da custódia preventiva dispôs (fls. 66-67):
+Cuida-se de reexame da custódia cautelar decretada em desfavor de VITOR CAIHAN DE LIMA DUARTE, nos autos acima epigrafados.
+As circunstâncias subjetivas do réu preso em nada se alteraram desde a manifestação judicial, que entendeu imprescindível a manutenção de sua custódia cautelar, não havendo, por ora, fato superveniente capaz de modificar a situação prisional do acusado.
+ ..
+Quanto à impossibilidade de conversão da prisão preventiva em outramedida cautelar diversa prevista no art. 319 do Código de Processo Penal, esta se mantém nos exatos termos da decisão que decretou a segregação cautelar e das que a mantiveram. De igual modo, como dito acima, não se vislumbra, por ora, o cabimentoda prisão domiciliar, visto que não há prova idônea de sua necessidade, exigência contida no próprio dispositivo legal (art. 318, parágrafo único, do Código de Processo Penal).
+Sendo o habeas corpus rito de cognição sumária, que demanda prova documental pré-constituída do direito alegado, a ausência de peças essenciais ao deslinde da controvérsia impede o exame sobre as alegações. Assim, a tese de ilegalidade da custódia cautelarnão pode serconhecida. Neste sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMOAGRAVO REGIMENTAL EM HABEAS CORPUS.INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA.NECESSIDADE. PEDIDO DE RECONSIDERAÇÃORECEBIDO COMO AGRAVO REGIMENTAL E NÃOPROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpustem como escopo precípuo afastar eventual ameaça ao direito de ire vir, cuja natureza urgente exige prova pré-constituída dasalegações, não comportando dilação probatória. É cogente aoimpetrante, pois, apresentar elementos documentais suficientespara se permitir a aferição da alegada existência deconstrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdãoproferido por ocasião do julgamento da apelação, o que prejudicaa exata compreensão do caso, inviabilizando-se, assim, o examedo alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 17/6/2020).
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
