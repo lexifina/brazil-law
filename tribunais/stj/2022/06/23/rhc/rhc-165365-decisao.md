@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto em face de acórdão assim ementado (fl. 183):
+HABEAS CORPUS. FURTO DUPLAMENTE QUALIFICADO. LIBERDADE PROVISÓRIA. INVIABILIDADE. PRISÃO PREVENTIVA NECESSÁRIA. PRESENÇA DOS REQUISITOS PREVISTOS NO ART. 312 DO CPP. REINCIDENTE. INFRAÇÃO COMETIDA DURANTE O GOZO DE LIBERDADE PROVISÓRIA EM OUTRO FEITO. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE MANUTENÇÃO DO AGENTE NO CÁRCERE. ORDEM DENEGADA. Estando demonstrada a necessidade de garantia da ordem pública, para prevenir a ocorrência de novos fatos criminosos, especialmente pelo fato de o paciente ser reincidente e ter supostamente cometido o presente delito durante o benefício da liberdade provisória em outro feito, a segregação cautelar se impõe.
+-A prisão preventiva funciona com a finalidade de prevenção e, não, com a de punição, que é característica apenas da prisão definitiva.
+-Ordem denegada.
+V. V. HABEAS CORPUS -FURTO DUPLAMENTE QUALIFICADO -REVOGAÇÃO DA PRISÃO E DIREITO DE RECORRER EM LIBERDADE -POSSIBILIDADE -DECISÃO CARENTE DE FUNDAMENTAÇÃO.
+O artigo 93, IX, da Constituição da República, impõe o dever de fundamentação de todas as decisões judiciais, o que adquire maior relevo nos casos em que o pronunciamento judicial repercute sobre a liberdade do jurisdicionado. -Não havendo demonstração fundada em elementos concretos da satisfação dos requisitos dos artigos 312 e 313 do Código de Processo Penal, impõe-se a sua revogação e a aplicação de medidas cautelares diversas.
+Consta que o paciente está preso preventivamente pela suposta prática do crime previsto no artigo 155, § 4º, II e IV, do CP.
+Impetrado writ na origem, a ordem foi denegada, por maioria.
+No presente recurso, sustenta a defesa que o recorrente está sofrendo constrangimento ilegal, posto que a decisão que decretou a constritiva cautelar carece de fundamentação idônea, por ter se baseado na gravidade abstrata da conduta, e que não se fazem presentes as hipóteses ensejadoras da prisão preventiva.
+Alega que não foram apontados elementos concretos e contemporâneos que justifiquem a segregação do recorrente, que se mostra desproporcional e inadequada quando se leva em conta a conduta por ele praticada.
+Requer, liminarmente e no mérito, seja substituída a prisão preventiva por medidas cautelares diversas.
+A liminar foi indeferida (fls. 211-213).
+As informações forma prestadas (fls. 216-218).
+O parecer do Ministério Público Federal foi pelo desprovimento do recurso ordinário (fls. 391-393).
+Primeiramente, no que tange à contemporaneidade dos motivos que ensejaram a prisão preventiva, percebe-se inviável a análise por esta Corte Superior, uma vez que não houve manifestação a respeito da referida questão pelo Tribunal de origem.
+Cabe destacar que não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+No caso, consta do decreto prisional que (fl. 97):
+Flagrante formalmente em ordem, sem nulidades a sanar.
+Analisando o que consta nos autos. o autuado foi preso pela prática do crime de receptação, apesar de o crime não ter sido cometido com violência/grave ameaça, o autuado apresenta extensa CAC, além de cometer novo crime durante o cumprimento daexecução penal, demonstrando a ineficácia das medidas cautelares diversas daprisão, para impedir sua reiteração criminosa.
+Assim, presentes os requisitos dos arts. 311, 312 e 313 do Código de Processo Penal, para garantir a ordem pública, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA.
+Designo audiênciade Custódia por videoconferênciapara o dia 04/01/2022 às l6h00min.
+Intime-se. Cumpra-se.
+Como visto, consta do édito prisional fundamentação idônea para a decretação da custódia cautelar, porquanto consignadoque "Analisando o que consta nos autos, o autuado foi preso pela prática do crime de receptação, apesar de o crime não ter sido cometido com violência ou grave ameaça, o autuado apresenta extensa CAC, além de cometer novo crime durante o cumprimento da execução penal, demonstrando a ineficácia das medidas cautelares diversas da prisão, para impedir sua reiteração criminosa".
+Com efeito, tem-se por devidamente fundamentada a prisão preventiva, para a preservação da ordem pública, quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019). No mesmo sentido: AgRg no RHC n. 131.260/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/10/2020; RHC 106.136/DF, Rel. Ministro Reynaldo Soares da Fonseca, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019; HC 479.323/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/02/2019, DJe 11/03/2019; HC 441.396/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/02/2019, DJe 14/02/2019.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
