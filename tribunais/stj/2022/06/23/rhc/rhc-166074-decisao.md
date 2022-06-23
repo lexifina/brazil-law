@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso ordinário emhabeas corpus, com pedido de liminar, interposto por ELDO RIBEIRO JUNIORcontra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.22.078681-8/000.
+Extrai-se dos autos que o recorrente teve a prisão preventiva decretadaem 28/9/2021,nos autos da denominada "Operação Balada", na qual se apura a prática dos delitos de organização criminosa, tráfico de drogas e de armamentos e lavagem de dinheiro. O mandado de prisão foi cumprido em 5/10/2021.Em13/12/2021,foi denunciado, juntamente com outros agentes, pela suposta prática dos crimes previstos no art.35, da Lei 11.343/2006, e no art.2º, §§ 2º e 4º, IV, da lei 12.850/2013 (associação para o narcotráficoe organização criminosa)
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA - EXCESSO DE PRAZO - MERA REITERAÇÃO DE PEDIDO - VIOLAÇÃO DO ART. 316 DO CPP - INOCORRÊNCIA - DECISÃO DEVIDAMENTE REVISADA E FUNDAMENTADA - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA."(fl. 304)
+No presente recurso a defesasustenta que o acórdão impugnado não é reiteração do pedido anterior, trazido no HC n.1.0000.22.022066-9/000. Para tanto, destaca que, no primeiromandamus, a prisão preventiva durava 120 dias, sem que tenha sido encerrada a instrução do feito, e, na segunda impetração, se questionou que, embora a prisão já dure 180 dias, sequer teria sido recebida a denúncia, tendo em vista que o Juízo de primeiro grau teria determinado a citação das partes, seguindo o rito da Lei n. 11.343/2006. Aduz que o novo habeas corpus impugnou a inobservância ao art. 22, parágrafo único, da Lei n. 12.850/2013.
+Alega excesso de prazo na formação da culpa, apontando que a prisão preventiva já dura 231 dias, sem que tenha se iniciado a instrução do feito. Indica ofensa ao princípio da razoabilidade, ante a inobservância dos prazos previstos no art. 22 da Lei n. 12.850/2013.
+Aponta que o acórdão impugnado teria deixado de apresentar fundamentação idônea e concreta na análise das questões trazidas pela defesa, deixando de analisar os paradigmas trazidos na impugnação. Aduz que, diferentemente do que ficou consignado pelo Tribunal de origem, o feito conta com 45 denunciados, divididos em 7 ações penais diversas, estando apenas 3 réus presos preventivamente, não havendo justificativa apta a respaldar o evidenciado excesso de prazo. Indica, portanto, ofensa ao art. 315 do CPP.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura em favor do recorrente.
+É o relatório.
+Decido.
+Cumpre ressaltar que o presente recursotraz pedido idêntico ao formulado no HC 744.753/MG, o qual teve a liminar indeferidaem decisão de minha relatoria, e está sendo processado nesta Corte Superior, e em ambos se ataca acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais,no julgamento doHC n. 1.0000.22.078681-8/000.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. MERA REITERAÇÃO DE PEDIDO. EXAME DO MÉRITO EM WRIT ANTERIOR. SUPRESSÃO DE INSTÂNCIA NA REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I- Inviável o reexame de matéria de mérito já apreciada em habeas corpus anteriormente julgado, pois configura a inadmissível reiteração de pedido; da mesma forma que não se admite a revisão criminal de forma originária neste Superior Tribunal de Justiça, quando competir ao eg. Tribunal de origem, por representar indevida supressão de instância; tudo, nos termos do art. 210, do RISTJ: "Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente". Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC 124.697/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/04/2020, DJe 17/04/2020)
+Por tais razões,indefiro liminarmenteo presente recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
