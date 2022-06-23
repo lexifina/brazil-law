@@ -1,0 +1,41 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por ARLETE BASTOS FROES E OUTROS com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro(fl. 523):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE VALORES RELATIVOS À RECOMPOSIÇÃO DAS PERDAS DE CORREÇÃO MONETÁRIA OCORRIDAS NOS BENEFÍCIOS QUE PERCEBEM, DURANTE O INTERSTÍCIO DE 1989 A 1996, EM RAZÃO DOS INDEXADORES DE ATUALIZAÇÃO MONETÁRIA QUE NÃO REFLETIRAM A REAL DESVALORIZAÇÃO DA MOEDA. SENTENÇA QUE ACOLHEU A PRELIMINAR DE PRESCRIÇÃO. A MATÉRIA ESTÁ PACIFICADA NA JURISPRUDÊNCIA DESTE TRIBUNAL DE JUSTIÇA E TAMBÉM NA JURISPRUDÊNCIA DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA, ONDE A MATÉRIA JÁ FOI JULGADA COM EFEITO DE RECURSO REPETITIVO. RECURSO A QUE SE NEGA PROVIMENTO.
+Cuida-se na origem de ação de cobrança ajuizada porARLETE BASTOS FROES E OUTROS em desfavor de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL- PREVI, objetivandoa recomposição das perdas inflacionárias ocorridas nos benefícios complementaresno período de setembro de 1989 a agosto de 1996.
+O juízo de primeiro grau julgou prescrita a pretensão autoral, além de condenar os demandantes ao pagamento dos ônus sucumbenciais.
+Irresignados, interpuseramrecurso de apelação.O Tribunal de Justiça negou provimento ao recurso conforme a ementa acima transcrita.
+Em suas razões de recurso especial, os recorrentes alegaram violação ao art.75 da LC n.º109/2001 e ao disposto no Enunciado n.º291 do STJ, bem como a ocorrência de dissídio jurisprudencial.Requereram o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece provimento.
+Conforme a jurisprudência do Superior Tribunal de Justiça,nos casos de obrigação de trato sucessivo,a prescrição atinge apenas as parcelas vencidas no quinquênio que precede o ajuizamento da ação, não atingindo o próprio fundo de direito.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. REVISÃO DE RENDA MENSAL INICIAL. DIFERENÇAS DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. PRECEDENTES. COMPLEMENTAÇÃO DE APOSENTADORIA. EXPURGOS INFLACIONÁRIOS. CORREÇÃO DAS CONTRIBUIÇÕES. SÚMULA Nº 289 DO STJ. ONDE HÁ O MESMO FUNDAMENTO, DEVE HAVER O MESMO DIREITO. PRECEDENTES. DECISÃO MANTIDA.
+1. O tema referente aos arts. 1º, 18, § 3º, e 19, todos da LC nº 109/01, não foi objeto de debate no venerando acórdão recorrido, carecendo, por conseguinte, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais. Aplicável, assim, a Súmula nº 211 do STJ.
+2. A Segunda Seção desta Corte já decidiu que na ação de cobrança em que se pretende o recálculo do valor do benefício mensal de suplementação de aposentadoria, por se tratar de obrigação de trato sucessivo, a prescrição alcança apenas as parcelas vencidas anteriormente ao qüinqüênio que antecede o ajuizamento da ação, não afetando, assim, o próprio fundo de direito.
+3. O benefício de complementação de aposentadoria privada que sofreu os reflexos dos expurgos inflacionários deve também ser objeto de correção monetária plena, de forma análoga ao que ocorre no resgate de contribuições, porque onde há o mesmo fundamento, deve haver o mesmo direito. Precedentes.
+4. Não há que se confundir a matéria tratada na presente lide com o tema tratado no AREsp nº 504.022/SC, especialmente porque lá houve discussão acerca da correção monetária das reservas financeiras quando o participante migrou de plano de benefício de previdência complementar para outro dentro da mesma entidade. Hipóteses, portanto, diversas.
+5. Agravo regimental não provido.(AgRg nos EDcl no REsp n. 1.482.201/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/4/2015, DJe de 24/4/2015, g.n.)
+Entretanto, oTribunal de Justiça de origem, ao julgar o recurso de apelação, manteve a sentença de primeiro grau que reconheceu a prescrição do pleito autoral sob os seguintes fundamentos (fls. 524/525):
+(..)
+Consoante alinhado na decisão ora agravada, a sentença esclareceu que os autores ajuizaram a demanda inicialmente perante a Justiça Federal em 06 de junho de 2008, sendo esta a data de interrupção da prescrição, afirmando a ocorrência da prescrição em 03 de junho de 2003.
+Com efeito, conforme já mencionado na decisão monocrática, a jurisprudência do Superior Tribunal de Justiça, em sede de recurso repetitivo, consolidou o entendimento no sentido de que a prescrição quinquenal incide, não apenas na cobrança de parcelas de complementação de aposentadora, mas também na pretensão de diferenças de correção monetária, cujo termo inicial é a data em que houver a devolução a menor das contribuições pessoais.
+No caso dos autos, a aposentadoria dos autores tem a data mais recente em 1997, pelo que o cálculo do valor inicial do beneficio dos mesmos ocorreu nas respectivas datas; gerando neste momento a lesão a seus respectivos direitos.
+Deste modo, se os agravantes ajuizaram a presente demanda ao escopo de recompor as perdas de correção monetária dos benefícios percebidos durante o período compreendido entre 1989 e 1996, apenas em 2008, já não mais poderiam fazê-lo, tendo em vista que alcançada pela prescrição quinquenal da pretensão autoral. (g.n.)
+Nesse contexto, aalteração do entendimento adotado pela Corte de origem, acerca da ocorrência da prescriçãodemandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no Enunciado n.º 7, da Súmula deste Tribunal Superior.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. PRESCRIÇÃO QUINQUENAL. NÃO OCORRÊNCIA. DEVOLUÇÃO INTEGRAL DAS CONTRIBUIÇÕES PESSOAIS DOS EX-ASSISTIDOS. EXPURGOS INFLACIONÁRIOS SOBRE FUNDO DE RESERVA. CORREÇÃO MONETÁRIA PLENA SÚMULA 83/STJ. REVISÃO DA CONCLUSÃO ESTADUAL. INVIABILIDADE. SUMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Violação do artigo 535 do CPC/1973 não configurada.
+2. A prescrição aplicável ao presente feito é quinquenal e tem como termo inicial a data em que houver a devolução a menor das contribuições pessoais vertidas pelo participante. A correção monetária incidente sobre a restituição de parcelas pagas ao plano de previdência complementar deve utilizar os índices que melhor reflitam a desvalorização da moeda, ainda que outro tenha sido avençado. Incidência da Súmula 83/STJ.
+3. A alteração do entendimento adotado pela Corte de origem, acerca do termo inicial da contagem do prazo prescricional demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.(AgInt no AREsp n. 774.693/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2017, DJe de 23/10/2017.)
+Ante o exposto, com arrimo no art. 932, inciso IV, do Código de Processo Civil, conheço e negoprovimento ao recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. REVISÃO DE RENDA MENSAL INICIAL. DIFERENÇAS DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 7/STJ.
+1.Conforme a jurisprudência do Superior Tribunal de Justiça, nos casos de obrigação de trato sucessivo, a prescrição atinge apenas as parcelas vencidas no quinquênio que precede o ajuizamento da ação, não atingindo o próprio fundo de direito.
+2. Entretanto, a alteração do entendimento adotado pela Corte de origem, acerca da ocorrência da prescrição demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no Enunciado n.º 7, da Súmula deste Tribunal Superior.
+3. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
