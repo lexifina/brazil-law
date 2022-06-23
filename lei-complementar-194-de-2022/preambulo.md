@@ -1,0 +1,2 @@
+Altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para considerar bens e serviços essenciais os relativos aos combustíveis, à energia elétrica, às comunicações e ao transporte coletivo, e as Leis Complementares nºs 192, de 11 de março de 2022, e 159, de 19 de maio de 2017.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
