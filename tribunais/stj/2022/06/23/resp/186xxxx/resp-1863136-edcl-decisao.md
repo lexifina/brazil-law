@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porATEMEDES FERNANDES DE SOUZA à decisão monocrática desta relatoria de fls. 443-446(e-STJ), que deu parcial provimento ao recurso especial, a fim de fixar os honorários advocatícios sucumbenciais devidos pela parte ora recorrida em 10% sobre o valor atualizado da sua condenação, nos termos do art. 85, § 2º, do CPC/2015.
+Em suas razões recursais, a parte embargante alegaomissão da decisão, consistente na ausência de exame da renovação sucessiva dos contratos.
+Impugnação apresentada às fls. 454-459(e-STJ).
+É o relatório. Decido.
+Razão não assiste à parte embargante.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015. INEXISTÊNCIA. NÍTIDO CARÁTER INFRINGENTE. EMBARGOS REJEITADOS.
+1. O juízo provisório de admissibilidade do recurso especial realizado pelo Tribunal de origem não vincula o Superior Tribunal de Justiça, a quem compete a apreciação definitiva dos pressupostos desse recurso. Precedente.
+2. O acórdão embargado não contém omissão, obscuridade ou contradição, uma vez que foi dirimida a questão pertinente ao litígio, limitando-se a parte embargante a utilizar os aclaratórios com o escopo de revisão do julgado, em manifesta pretensão infringente.
+3. A jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura negativa de prestação jurisdicional.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1737181/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO, MANTENDO A DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO. INSURGÊNCIA DO EXEQUENTE.
+1. Não ocorrentes as hipóteses insertas no art. 1022 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, por via dos quais se objetiva rediscutir a causa, já devidamente decidida.
+2. A contradição que autoriza os embargos de declaração é aquela interna ao acórdão, verificada entre a fundamentação do julgado e a sua conclusão, e não aquela que possa existir, por exemplo, com a prova dos autos, nem a que porventura exista entre a decisão e o ordenamento jurídico; menos ainda a que se manifeste entre o acórdão e a opinião da parte vencida.
+3. Não incidem honorários sucumbenciais recursais na hipótese, pois não há um "acréscimo de sucumbência no grau recursal" ante a interposição do recurso de agravo interno ou embargos de declaração, porquanto gravitam esses reclamos no mesmo nível recursal daqueles que promovem a abertura da instância, motivo pelo qual incabível a majoração estabelecida no art. 85, § 11 do NCPC.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 539.673/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+No caso dos autos, não há nenhum vício apontado pela parte embargante, porquanto foi consignado na decisão agravada que, "segundo entendimento desta Corte Superior, o termo inicial da prescrição decenal da pretensão revisional de contrato é a data da assinatura da avença".
+Assim, é irrelevante que os contratos tenham sido novados ou renovados, porque os termos objeto da revisão não são os da (re)novação, mas aqueles dos instrumentos contratuais originais, cujas ilegalidadespodem ser revisadas, inclusive,após a renegociação ou extinção do contrato respectivo, nos termos da Súmula 286/STJ, todavia, desdeque a pretensão seja deduzida no prazo prescricional decenal correspondente,contadoa partir da assinatura da respectiva contratação.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO AJUSTE. NÃO PROVIMENTO.
+1. "Conforme entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes."(AgInt nos EDcl no REsp 1917613/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/6/2021, DJe 21/6/2021) 2. "A renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores" (Súmula 286 /STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.948.695/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+Em seu voto,a eminente MinistraMaria Isabel Gallotti,teceimportantes esclarecimentos a caso idêntico ao dos autos, os quais, por isso, também são aqui aplicáveis:
+O fato de as partes terem renegociado as dívidas não altera o termo inicial da prescrição, tanto assim que esta Corte Superior tem sumulado o entendimento, a teor do verbete n. 286, no sentido de que a extinção do contrato, pela renegociação ou confissão de dívida, não impede a sua discussão em juízo, o que deverá ser postulado dentro do prazo prescricional. Entendimento contrário levaria ao absurdo de, por sucessivas renovações, a revisão dos contratos anteriores se tornar imprescritível. Considerando, pois, que os contratos objeto da ação revisional não atingidos pela prescrição devem ser, em tese, examinados isoladamente, imprescindível o retorno dos autos ao Tribunal de origem, em face às diversas questões discutidas no processo.
+Diante do exposto,rejeito os embargos de declaração.
+Publique-se.
