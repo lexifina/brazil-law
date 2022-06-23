@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+APELAÇÃO CÍVEL. CITAÇÃO POR EDITAL. NULIDADE. INOCORRÊNCIA. PRESCRIÇÃO. NÃO CONSUMADA. REDIRECIONAMENTO. POSSIBILIDADE.
+1. O STJ, ao julgar o REsp nº 1.103.050/BA, sob a sistemática dos recursos repetitivos, firmou entendimento segundo o qual a citação por edital, na execução fiscal, é possível quando demonstrado que o Exequente tomou efetivas providências a fim de localizar o atual endereço do executado (Enunciado nº 414 da sua Súmula).
+2. Ademais, o STJ, quando do julgamento do REsp 1.120.295, sob a sistemática dos recursos repetitivos, firmou o entendimento de que a "constituição definitiva do crédito tributário, sujeita à decadência, inaugura o decurso do prazo prescricional quinquenal para o Fisco exercer a pretensão de cobrança judicial do crédito tributário".
+3. Nessa mesma ocasião, o STJ também deixou consignado que seria incoerente a interpretação segundo a qual o fluxo do prazo prescricional continuaria a escoar-se desde a constituição definitiva do crédito tributário até a data em que se der o despacho ordenador da citação do devedor (ou até a data em que se der a citação válida do devedor, consoante a anterior redação art. 174, § único, I do CTN).
+4. Com efeito, a Certidão de Dívida Ativa regularmente inscrita goza de presunção relativa de certeza e liquidez, nos termos do art. 204 do CTN e do art. 3º da Lei nº 6.830/80, outorgando à Fazenda a prerrogativa de formar prova pré-constituída, com a inversão do ônus probandi, não bastando para afastá-la as alegações genéricas do Apelante.
+5. A jurisprudência do STJ consolidou-se no sentido de que a dissolução irregular da sociedade empresária configura infração à lei e legitima o redirecionamento da execução fiscal em face de seus sócios-gerentes, sendo presumida na hipótese de a empresa deixar de funcionar no seu domicílio fiscal sem comunicação aos órgãos competentes.
+6. Apelação interposta por ANDRE HEES a qual se nega provimento.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 135, III, do Código Tributário Nacional; e 256, II, 257, I, e 280 do Código de Processo Civil/2015.
+Contrarrazões às fls. 774-787, e -STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.5.2022.
+O acórdão recorrido consignou (fls. 677-679, e-STJ):
+Inicialmente, afasto a alegação de nulidade da citação. Isso porque o STJ, quando do julgamento do REsp nº 1.103.050/BA, sob a sistemática dos recursos repetitivos, firmou a tese de que "a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades". Confira-se:
+(..)
+Na hipótese vertente, a citação por meio de edital foi determinada após diversas diligências cujos resultados restaram negativos (evento 190 da execução fiscal correlata). Dessa forma, inexiste a alegada nulidade.
+Igualmente inviável a alegação de ausência de notificação acerca do lançamento. Conforme a CDA que embasa a execução fiscal correlata, tem-se que a contribuinte restou devidamente notificada do auto de infração lavrado (evento 01).
+Com efeito, a Certidão de Dívida Ativa regularmente inscrita goza de presunção relativa de certeza e liquidez, nos termos do art. 204 do CTN e do art. 3º da Lei nº 6.830/80, outorgando à Fazenda a prerrogativa de formar prova pré-constituída, com a inversão do ônus probandi, não bastando para afastá-la as alegações genéricas do Apelante.
+Quanto à prescrição, tem-se que o STJ, quando do julgamento do REsp 1.120.295, sob a sistemática dos recursos repetitivos, firmou o entendimento de que a "constituição definitiva do crédito tributário, sujeita à decadência, inaugura o decurso do prazo prescricional quinquenal para o Fisco exercer a pretensão de cobrança judicial do crédito tributário". Confira-se:
+(..)Nessa mesma ocasião, o STJ também deixou consignado que seria incoerente a interpretação segundo a qual o fluxo do prazo prescricional continuaria a escoar-se desde a constituição definitiva do crédito tributário até a data em que se der o despacho ordenador da citação do devedor (ou até a data em que se der a citação válida do devedor, consoante a anterior redação art. 174, §único, I do CTN).
+Dessa forma, tem-se que a citação retroage à propositura da ação para fins de interrupção do prazo prescricional.
+No caso em tela, o contribuinte foi pessoalmente intimado do auto de infração em 08.03.91 (evento 91 do processo correlato), tendo sido a execução fiscal distribuída em 16.06.95. Logo, dentro do prazo de cinco anos contado da constituição definitiva do crédito.
+Mesmo que assim não o fosse, certo é que a UNIÃO não se quedou inerte, adotando todas as medidas cabíveis para a recuperação do crédito tributário. Assim sendo, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência (Enunciado nº 106 da Súmula do STJ).
+Ademais, encontra-se consolidada a jurisprudência no sentido de que a infração capaz de suscitar a aplicação do art. 135, III do CTN não ocorre com a mera inadimplência fiscal, daí que não basta provar que deixou a empresa de recolher tributos, pois necessário que se demonstre, cumulativamente, que o administrador exercia a função ao tempo do fato gerador, em relação ao qual se pretende o redirecionamento, e que praticou atos de gestão com excesso de poderes, infração à lei, contrato social ou estatuto, o que inclui, especialmente, a responsabilidade por eventual dissolução irregular da sociedade.
+Esse entendimento, inclusive, está sedimentado no Enunciado nº 435 da Súmula do STJ, abaixo transcrito:
+Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente (Súmula 435, PRIMEIRA SEÇÃO, julgado em 14/04/2010, DJe 13/05/2010) Assim sendo, a dissolução irregular da empresa originalmente executada restou certificada em função de diligência negativa efetuada no respectivo estabelecimento (evento 92), sendo certo que o respectivo contrato social, registrado na Junta Comercial, apontava aquele endereço.
+Considerando-se que a empresa não foi localizada em seu domicílio, tampouco fora comunicada a mudança de endereço ou encerramento de suas atividades aos órgãos competentes, legítimo se revela o redirecionamento os sócios ocupantes de cargo diretivo à época da obrigação tributária.
+Desmerece, portanto, qualquer reparo a sentença recorrida.
+Rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal de ilegalidade do redirecionamento da execução, assim como a de nulidade da citação por edital, demanda revolvimento de matéria fática, inviável na via especial, ante o óbice da Súmula 7/STJ: "apretensão de simples reexame de prova não enseja recurso especial".
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
