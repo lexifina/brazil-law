@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  agravo  de FABRICADORA DE ESPUMAS E COLCHÕES CENTRO OESTE LTDA. que objetivaadmissão  de  recurso especial interposto  contra  acórdão  do TJ/GO, que negou provimento à apelação, mantendo as conclusões da sentença que reconheceu a incidência de ISSQN sobre o serviço de franquia.
+No  especial,  a  parte  alega  violação  do  art. 110 do CTN.
+ Sustenta,  em  síntese, que em razão da natureza complexa e hibrida do contrato de franquia, não pode ele ser objeto de tributação pelo tributo municipal, tendo em vista a jurisprudência do STF acerca da não incidência do ISSQN sobre o aluguel de bens móveis.
+Requer, ainda, a suspensão do recurso enquanto não definida a modulação de efeitos do julgamento definitivo do RE n. 603136 (tema n. 300 do STF).
+O recurso especial foi inadmitido por aplicação do óbice da Súmula 7 do STJ; fundamento impugnado pelo agravo.
+Oferecida contraminuta.
+Passo  a  decidir.
+O recurso especial se origina de ação declaratória de inexistência de relação jurídica tributária movida pela ora recorrente para se ver desobrigada ao recolhimento de ISSQN ao município recorrido incidente sobre o serviço de franquia.
+No primeiro grau de jurisdição, a ação foi julgada improcedente, conclusão mantida pelo Tribunal a quo que trouxe como fundamento e razão de decidir a orientação firmada no STF acerca da constitucionalidade da Lei complementar n. 116/2003 e sua alteração posterior que incluiu o serviço de franquias no rol de serviços tributáveis pelo imposto municipal.
+Dito isso, a questão jurídica referente à constitucionalidade, ou não, da incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre os contratos de franquia foi decidida pelo STF pela sistemática da repercussão geral no julgamento do RE N. 603136, ocorrido em 2020, em que ficou estabelecida a seguinte tese: "É constitucional a incidência de Imposto sobre Serviços de Qualquer Natureza (ISS) sobre contratos de franquia (franchising) (itens 10.04 e 17.08 da lista de serviços prevista no Anexo da Lei Complementar 116/2003)." (Tema 300 do STF)
+Assim, tenho que a discussão relativa à incidência ou não do tributo em questão sobre o serviço de franquias, bem como acerca da constitucionalidade dos itens da lista anexa da Lei, é reservada à competência do Supremo Tribunal Federal (art. 102, III, "d" da CF/1988) pela via do recurso extraordinário, não podendo ser conhecida em sede de recurso especial sob pena de usurpação de competência.
+Ademais, o dispositivo indicado como violado carece de densidade normativa capaz de, por si só, infirmar as conclusões adotas pela Corte de origem a respeito da controvérsia, atraindo a aplicação do óbice da Súmula 284 do STF.
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Uma vez promovida nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
