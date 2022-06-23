@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração no recurso especial opostos pelo ESTADO DE SANTA CATARINA em face de decisão singular deste Relator, assim ementada:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DIREITO À SAÚDE. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. INCIDÊNCIA DAS SÚMULAS 150 E 254/STJ. IMPOSSIBILIDADE DE APLICAÇÃO DIRETA DO TEMA 793/STF PARA INCLUIR ENTE FEDERATIVO EM RELAÇÃO PROCESSUAL OU ANALISAR O MÉRITO DA AÇÃO. LIMITES COGNITIVOS DO CONFLITO DE COMPETÊNCIA. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+Sustenta o embargante, em síntese, que houve omissão na decisão embargada pois não se manifestou sobre a incidência da Súmula 224/STJ ao caso examinado, no sentido de impossibilidade do Juízo Federal suscitar o incidente, o que geraria o não conhecimento do conflito de competência. Requer o acolhimento dos embargos de declaração para sanar o vício apontado.
+Não houve impugnação aos embargos de declaração.
+É o relatório.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+A pretensão recursal não merece acolhimento.
+A omissão no julgado que permite o acolhimento do recurso integrativo ocorre quando não houver apreciação de teses indispensáveis para o julgamento da controvérsia, hipótese não configurada no acórdão embargado.
+A decisão embargada foi proferida nos seguintes termos:
+"O art. 109, I, da Constituição Federal estabelece que cumpre aos juízes federais processar e julgar "as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou opoentes, exceto as de falência, as de acidente de trabalho e as sujeitas à Justiça Eleitoral e a Justiça do Trabalho". Assim, para que esteja caracterizada a competência da Justiça Federal é necessária a efetiva presença de alguma dessas pessoas na relação processual, figurando,necessariamente, na condição de autor, réu, assistente ou opoente.
+Destarte, incide ao caso o contido nas Súmulas 150/STJ ("Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas"), 224/STJ ("Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito de competência") e 254/STJ ("A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual").
+Ademais, é pacifica a orientação desta Corte Superior no sentido de que em conflito de competência julgado pelo STJ, não se julga o mérito da ação, tampouco qual seria o rol de responsabilidades atribuído a cada ente federativo em relação ao Sistema Único de Saúde ou modifica o polo ativo ou passivo da demanda, mas analisa a competência do juízo competente para processar e julgar a causa, nos termos apresentados e constantes no pedido e na causa de pedir.
+Além disso, a eventual aplicação da tese jurídica firmada no tema 793/STF em repercussão geral não pode ser aplicada diretamente pelo Superior Tribunal de Justiça em sede de conflito de competência, mas sim pelas instâncias ordinárias, principalmente na eventual via recursal aberta contra a decisão que excluiu o ente federal da relação jurídica."
+A eventual incidência do contido na Súmula 224/STJ (Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito) ao presente conflito de competência, não modificaria a fundamentação e a conclusão da decisão embargada, a qual inclusive considerou expressamente o contido no referido enunciado sumular, o que afasta a omissão apontada.
+Portanto, no caso concreto, não existe o defeito apontado pelo embargante, mas, apenas, entendimento contrário à sua pretensão recursal, de modo que é manifesta a intenção de rever os pontos analisados no julgado embargado, com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração, em razão dos rígidos contornos processuais desta espécie de recurso.
+Nesse sentido, a orientação desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022).
+É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. ACÓRDÃO CONFIRMATÓRIO DA NEGATIVA DE SEGUIMENTO AO RECURSO EXTRAORDINÁRIO. VÍCIOS. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexiste qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou, fundamentadamente, as razões pelas quais manteve a decisão que negou seguimento ao recurso extraordinário.
+2. Não se prestam os aclaratórios para rediscutir matéria devidamente enfrentada e decidida pelo acórdão embargado.
+3. Não cabe a esta Corte Superior manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl nos EDcl no AgRg nos EDcl no AREsp 1749846/PR, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 13/10/2021, DJe 15/10/2021)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL.DIREITO À SAÚDE. INTERESSE JURÍDICO DA UNIÃO AFASTADO PELA JUSTIÇA FEDERAL. INCIDÊNCIA SÚMULAS 150 E 254/STJ. OMISSÃO.INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
