@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especialinterposto de acórdão assim ementado:
+ADMINISTRATIVO. SERVIDOR. CASO EM QUE O CONTEXTO PROBATÓRIO DEMONSTROU QUE A PARTE AUTORA NÃO ESTÁ APTA A DESEMPENHAR AS ATIVIDADES DO CARGO DE ANALISTA PREVIDENCIÁRIO. NA AUSÊNCIA DE PROVA SEGURA DE QUE A AUTORA ESTEJA INCAPACITADA PARA TODA E QUALQUER FUNÇÃO EXISTENTE NOS QUADROS DO INSS, DEVE SER ACOLHIDA EM PARTE A PRETENSÃO, PARA QUE O INSS SEJA CONDENADO A INSTAURAR PROCESSO ADMINISTRATIVO DE READAPTAÇÃO DA AUTORA, O QUAL DEVERÁ LEVAR EM CONTA A LIMITAÇÃO VISUAL DA AUTORA. SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA.
+APELAÇÕES DESPROVIDAS.
+Os Embargos de Declaração foram parcialmente providos apenas para fins de prequestionamento (fls. 436-437, e-STJ).
+A recorrente aponta violação dos arts.1.022 do CPC/2015 e 24 da Lei 8.112/1990. Aduz (fl. 456, e-STJ):
+Portanto, não se trata de necessidade de readaptação, pois esta figura jurídica é "a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental verificada em inspeção médica", conforme a dicção legal.
+As conclusões técnicas afirmam que o autora pode exercer atribuições de seu cargo.
+Contrarrazões às fls. 468-471, e-STJ.
+Houve juízo de admissibilidade negativo na instância de origem (fls. 474-478, e-STJ), o que deu ensejo à interposição do presente Agravo (fls. 485-494, e-STJ).
+Contraminuta (fls. 498-501, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31.5.2022.
+Não se verifica a apontadaofensa aoart. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a Cortea quose pronunciou sobre a matéria controvertida sob os seguintes fundamentos (fls. 411-417, e-STJ):
+Examinando os autos e as alegações das partes, fico convencido do acerto da sentença de parcial procedência, proferida pelo juiz federal Décio José da Silva, que transcrevo e adoto como razão de decidir, a saber:(..)
+Na análise do caso concreto há que se verificar se a parte autora preenche os requisitos para a concessão do benefício em questão.
+Na petição inicial a Autora alegou incapacidade por motivos psiquiátricos ("depressão grave atual/com humor triste persistente, choro, apatia, fadiga;anorexia com emagrecimento de 8 Kg, insônia terminal e irretabilidade") e oftalmológico (causado por toxoplasmose).
+Por isso, foram realizados duas perícias médicas durante a instrução processual.
+No laudo apresentado no evento 48, o Perito médico psiquiatra, embora tenha consignado que a Autora teve um episódio depressivo, observou que o quadro está controlado, que as medicações usadas pela Autora foram diminuídas e que esta relata melhora.
+(..)
+Como se vê, o Perito psiquiatra foi enfático ao concluir que não há incapacidade laboral.
+Conquanto o Juízo não esteja vinculado ao laudo pericial, não há nos autos prova em sentido contrário às conclusões da perícia. Aliás, nem mesmo a Autora impugnou o laudo elaborado pelo médico psiquiatra (evento 52).
+Na perícia oftalmológica (evento 88), o Perito destacou que " autora apresenta déficit visual em ambos os olhos devido a cicatriz macular e alta miopia" e concluiu que "há incapacidade parcial laboral, pois a autora estátrabalhando no momento".
+No laudo apresentado no evento 88, o Perito consignou que a Autora " poderá trabalhar com certa dificuldade":
+(..)Ainda, o Perito consignou que a Autora foi acometida por alguma infecção ocular acarretando sequelas definitivas (cicatriz de corioretinite macular) em ambos os olhos e houve perda visual "considerável" e também perda da visão central e de detalhes, pois a doença acometeu a região macular. Registrou que na medicina atual não há tratamento apto a melhorar a acuidade visual da Autora nem restabelecer a visão de detalhes.
+Embora as partes não tenham revelado nada nesse sentido na inicial ou na contestação, a Autora relatou ao Perito psiquiatra que "entrou no INSS em concurso como portadora de deficiência", fato que foi confirmado pelo INSS no evento 122, inclusive com a juntada dos documentos médicos de avaliação pré admissional da autora.
+Instado a esclarecer se desde a emissão do laudo médico oftalmológico apresentado no evento 122 (LAUDO2) até a data do exame pericial (2014) ocorreu o agravamento no estado de saúde da Autora, o Perito confirmouuma piora relativa da visão, principalmente no olho direito (LAUDO1, evento 134):
+(..)O Perito prestou novos esclarecimentos no evento 162. Afirmou que não houve piora da visão da Autora em relação à data da realização do laudo pericial elaborado no evento 88. Assim se reportou sobre as restrições laborais da Autora:
+(..)
+Como se pode extrair do laudo pericial e das suas complementações, a Autora tem significativas dificuldades para desempenhar sua função, devido a sequelas definitivas em ambos os olhos, perda visual "considerável" e também perda da visão central e de detalhes, pois a doença acometeu a região macular. No entanto, o Perito não conseguiu estabelecer detalhada e concretamente quais são as restrições laborais da Autora, o que, de fato, é compreensível, porquanto não se pode exigir que o Perito conheça exatamente como é a rotina laboral da autora e suas atribuições.
+(..)
+Como se vê, os depoimentos das testemunhas trouxeram informações muito relevantes acerca das atividades da autora, das dificuldades que ela vem enfrentando, especialmente o depoimento do seu Chefe imediato, que relatou que vê a autora frequentemente chorando por não conseguir desempenhar adequadamente suas atividades laborais, mesmo que estas sejam as menos complexas disponíveis na agência da Previdência Social onde ela está lotada (emissão de certidões de tempo de contribuição e análise de requerimentos de benefícios assistenciais aos idosos). Vale destacar que ambas as testemunhas relataram que os erros tornaram-se mais frequentes ultimamente e que a crescente informatização do processo administrativo no INSS torna cada vez mais restrita a atuação da Autora.
+Tais informações corroboram a manifestação pericial do evento 134, no sentido de que houve agravamento da visão da Autora em relação à situação verificada por ocasião de seu exame admissional (realizado no ano de 2003), quando notoriamente a grande maioria dos processos no INSS ainda eram físicos.
+Por isso, tenho que a conclusão do Perito manifestada no laudo do evento 88, no sentido de que "há incapacidade parcial, pois a autora está trabalhando no momento" não é a mais adequada, isso porque os depoimentos acima transcritos revelam, com muita segurança, que a Autora vem trabalhando em condições incompatíveis com os fundamentos da dignidade da pessoa humana e dos valores sociais do trabalho disciplinados no artigo 1º, III e IV, da Constituição Federal.
+(..)Sendo assim, concluo que a Autora não está apta a desempenhar as atividades do cargo de analista previdenciária.
+No entanto, não é possível acolher o pedido principal deduzido na inicial, de aposentadoria por invalidez, uma vez que embora tenha-se concluído pela inaptidão específica da Autora para as atribuições do cargo de analista previdenciário, não há prova segura de que a Autora esteja incapacitada para toda e qualquer função existente nos quadros do INSS.
+(..)
+Vale destacar que a readaptação é medida benéfica para a Administração Pública, uma vez que representa uma alternativa de aproveitar no serviço público o servidor que, embora incapaz de exercer as atribuições de seu cargo, ainda possui condições laborais, podendo, dessa forma, continuar prestando serviço, mesmo que em outra atividade, observados os princípios da dignidade da pessoa humana (trabalho digno e factível).
+Com efeito, deverá o INSS instaurar processo administrativo de readaptação funcional da Autora, observando os critérios estabelecidos no artigo 24, § 2º, da Lei nº 8.112/90 (§ 2º A readaptação será efetivada em cargo d e atribuições afins, respeitada a habilitação exigida, nível de escolaridade e equivalência de vencimentos e, na hipótese de inexistência de cargo vago, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga), não havendo vedação para que tal procedimento seja instaurado imediatamente, independentemente do trânsito em julgado desta sentença.
+Observa-se que oColegiado regional examinoue decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Quanto à questão de mérito, extrai-se do aresto recorrido, com fundamento no laudo pericial, que o INSS deverá proceder à readaptação funcional da autora porquanto, embora incapaz de exercer as atribuições de seu cargo, ainda possui condições laborais, podendo, dessa forma, continuar prestando serviço, mesmo que em outra atividade.
+Dessa forma, considerando a fundamentação adotada, o decisum atacado somente pode ser modificado mediante oreexamedos aspectos concretos da causa, o que é vedado em Recurso Especial pela Súmula 7 do STJ.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente em relação à violação ao art. 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
