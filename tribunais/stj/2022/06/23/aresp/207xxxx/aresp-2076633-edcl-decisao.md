@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 883-886) opostos por ARTOCARPUS EMPREENDIMENTOS IMOBILIÁRIOS LTDA e ROSSI TRUST E PARTII em face da decisão monocrática (fls. 880-881) que não conheceu do recurso especial, por ausência de assinatura válidano apelo nobre.
+Nas razões dos embargos de declaração, a parte embargante defende, em síntese, que houve omissão no decisum, uma vez que "(..) demonstrou, comprovadamente, a ausência de regularidade na intimação que determinou a regularização da assinatura no Recurso Especial. E daí nasceu o não saneamento do vício que ocasionou o não reconhecimento do recurso.3. Foram várias as oportunidades (petição de juntada do substabelecimento e no próprio recurso especial) onde ficaram expressamente requeridas intimações em nome do ora subscritor". (fl. ).
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015,
+art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da
+lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Na hipótese, observa-se que o recurso especial não foi conhecido, uma vez que a embargante restou inerte quando devidamente intimada para sanar o vício (regularização da assinatura digitalizada). Sendo assim, conforme jurisprudência desta Corte, "é considerado inexistente o recurso dirigido a instância especial sem assinatura do signatário da petição" (AgInt no AREsp 1019050/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 30/05/2018)".
+A título elucidativo, confira-se trechos da decisão ora embargada:
+"Mediante análise do recurso e conforme consignado na decisão de admissibilidade (fls. 847-849), a petição de recurso especial não foi subscrita, uma vez que, conforme a mesma decisão de inadmissão do recurso especial, a rubrica nela constante é apenas uma assinatura digitalizada ou escaneada, e não uma assinatura digital.
+Em razão disso, o tribunal de origem intimou a parte para sanar os referidos vícios, mas, a parte quedou-se inerte (fl. 842-843).
+Assim, o recurso especial não foi regularizado em sua assinatura.
+Com efeito, o Superior Tribunal de Justiça firmou o entendimento de que "é considerado inexistente o recurso dirigido a instância especial sem assinatura do signatário da petição" (AgInt no AREsp 1019050/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 30/05/2018).
+Conforme a jurisprudência do STJ, a "assinatura digitalizada ou escaneada, por se tratar de mera inserção de imagem em documento, não se confunde com a assinatura digital baseada em certificado digital emitido por autoridade certificadora credenciada, prevista no art. 1º, § 2º, III, "a", da Lei n. 11.419/2006" (AgInt no AREsp 1173960/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 15/03/2018).
+Ademais, "a reprodução de uma assinatura, por meio do escaneamento, sem qualquer regulamentação, é arriscada na medida em que pode ser feita por qualquer pessoa que tenha acesso ao documento original e inserida em outros documentos. Não há garantia alguma de autenticidade, portanto. A aplicação do princípio da instrumentalidade das formas, invocado pelas recorrentes, deve encontrar limites exatamente no princípio da segurança jurídica. Não se trata de privilegiar a forma pela forma, mas de conferir aos jurisdicionados, usuários das modernas ferramentas eletrônicas, o mínimo de critérios para garantir a autenticidade e integridade de sua identificação no momento da interposição de um recurso ou de apresentação de outra peça processual" (REsp n. 1.442.887/BA, Terceira Turma, relatora Ministra Nancy Andrighi, DJe de 14/5/2014)."
+Ademais, "havendo diversos patronos constituídos, é válida a intimação feita em nome de qualquer um dos expressamente indicados, ainda que haja nítido pedido para que a publicação seja realizada em nome de todos eles."(AgInt no REsp n. 1.251.864/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/2/2022, DJe de 4/3/2022.)
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos
+termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
