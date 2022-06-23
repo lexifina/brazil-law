@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL, à decisão de fls. 1107/1108, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que, não há vícios na representação como mencionado pelo i. Ministro, uma vez que, já foram juntados os instrumentos procuratórios concedendo poderes à este Patrono, no tribunal de origem, nos autos de Agravo de Instrumento nº 0825846-22.2018.8.13.0000 (TJMG) trasladado para os autos originários, assim não há que se falar em irregularidade de representação, veja-se: (fls. 1113/1114).
+ ..
+Para comprovar a regularidade da representação em segunda instância conforme demonstrado acima, vale destacar os dados da origem, provando assim, a inexistência do vício sustentado na r. Decisão: (fl. 1114).
+ ..
+Tanto que a procuração que confere poderes a este causídico é datada de 05/07/2018, desde a ciência da Fundação da existência deste feito.
+ ..
+Deve-se ponderar que o patrono da Fundação apresentou 16 (dezesseis) petições nos autos originários, além da interposição do Agravo de Instrumento e respectivas peças ali protocoladas, demonstrando sua postura incontestável na defesa dos interesses da Fundação Sistel.
+Não se pode agora primar pela forma em detrimento da primazia do julgamento do mérito, considerando que o recurso interposto merece ser julgado por este egrégio Superior Tribunal de Justiça.
+A inadmissão por mera formalidade impede o acesso à justiça, que junto ao Tribunal de Justiça de Minas Gerais demonstrou a representação. Trata-se de erro meramente sanável, que poderá ocasionar no trânsito em julgado desta ação em desconformidade do que a lei determina.
+Ao que pese o entendimento do i. Ministro, não houve a irregularidade de representação, ademais, por ser um vício sanável, pugna-se pela juntada, aos autos do presente Agravo em Recurso Especial, dos instrumentos procuratórios presentes nos Autos de Segunda Instância no Egrégio Tribunal de Justiça de Minas Gerais (fls. 1115/1116).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Nelson Wilians Fratoni Rodrigues.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+De fato, por ser um vício sanável, conforme alega a embargante, nos termos do art. 76 do Código de Processo Civil, esta foi intimada para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+No entanto, não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis (fl. 1104).
+O processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Nesse sentido, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da representação era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Veja-se que, somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
