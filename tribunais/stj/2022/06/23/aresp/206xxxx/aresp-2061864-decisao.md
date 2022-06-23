@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. ART. 1.021, CPC/2015. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MATÉRIAS COGNOSCÍVEIS DE OFÍCIO E QUE NÃO DEMANDEM DILAÇÃO PROBATÓRIA. ACRÉSCIMOS LEGAIS. CORREÇÃO MONETÁRIA. DESNECESSIDADE DE APRESENTAÇÃO DE DEMONSTRATIVOS DO DÉBITO. MULTA MORATÓRIA. LEGALIDADE. PIS E COFINS. EXIGIBILIDADE IMEDIATA. JUNTADA DO PROCESSO ADMINISTRATIVO. ÔNUS DO CONTRIBUINTE. ENCARGO DE 20%. LEGITIMIDADE. EMPRESAS DE MÃO DE OBRA TEMPORÁRIA. ALEGAÇÃO EM SEDE DE EMBARGOS À EXECUÇÃO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AGRAVO DESPROVIDO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, encontra-se supedaneada em jurisprudência consolidada do C. Superior Tribunal de Justiça e desta Corte, inclusive quanto aos pontos impugnados no presente recurso.
+2. Admitida em nosso direito, por construção doutrinária e jurisprudencial, a exceção de pré-executividade é uma forma de defesa do devedor no âmbito do processo de execução, independentemente de qualquer garantia do Juízo. Para a utilização dessa via processual é necessário que o direito do devedor seja aferível de plano, mediante exame das provas produzidas desde logo.
+3. Tratando-se de matéria que necessita de dilação probatória, não é cabível a exceção de pré-executividade, devendo o executado valer-se dos embargos à execução, os quais, para serem conhecidos, exigem a prévia segurança do Juízo, através da penhora ou do depósito do valor discutido.
+4. A doutrina e a jurisprudência emanada de nossos Pretórios têm admitido, em sede de exceção de pré-executividade, o exame de questões envolvendo os pressupostos processuais e as condições da ação, assim como as causas modificativas, extintivas ou impeditivas do direito do exequente, desde que comprovadas de plano, mediante prova pré-constituída.
+5. Nesse sentido, já se posicionou o E. Superior Tribunal de Justiça, resultando na Súmula nº 393: A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de oficio que não demandem dilação probatória.
+6. A alegação de nulidade da certidão da dívida ativa comporta, em princípio, análise em sede de exceção de pré-executividade, desde que o executado a instrua adequadamente, com documentos que a comprovem de plano, sem necessidade de dilação probatória.
+7. É lícita a cumulação da atualização monetária com a multa moratória e com os juros, visto que tais institutos têm natureza diversa.
+8. A correção monetária não representa majoração, mas simples atualização monetária que tem por fim preservar o valor real da moeda e não importa em qualquer tipo de penalidade.
+9. Os índices de atualização devem incidir sobre todos os componentes do débito, sob pena do valor desse débito, com o passar do tempo, ficar irrisório, sem o respeito à manutenção do valor real da moeda.
+10. A multa moratória foi aplicada no patamar de 20% (art. 61, §§ 1º e 2º da Lei n.º 9.430/96), estando tal imposição em consonância com a legislação aplicável aos débitos decorrentes de tributos e contribuições administrados pela Receita Federal.
+11. O C. Superior Tribunal de Justiça já sedimentou o entendimento acerca da desnecessidade de apresentação de demonstrativos do débito.
+12. Nesse sentido é o que dispõe a Súmula nº 559, do S. STJ: Em ações de execução fiscal, é desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito, por tratar-se de requisito não previsto no art. 6º da Lei n. 6.830/1980. (Súmula 559, PRIMEIRA SEÇÃO, julgado em 09/12/2015, DJe 15/12/2015).
+13. O PIS e a COFINS são tributos sujeitos a lançamento por homologação e a apresentação de declaração pelo contribuinte dispensa a constituição formal do crédito pelo Fisco, possibilitando, em caso de não pagamento do tributo, a sua imediata exigibilidade com a inscrição do quantum em dívida ativa, e subsequente ajuizamento da execução fiscal.
+14. Tal entendimento resultou na Súmula n.º 436 do STJ: A entrega da declaração pelo contribuinte, reconhecendo o débito fiscal, constitui o crédito tributário, dispensada qualquer outra providência por parte do Fisco.
+15. No C. Superior Tribunal de Justiça é firma a jurisprudência no sentido de que é ônus do contribuinte a juntada do processo administrativo, caso entenda imprescindível à solução da controvérsia.
+16. O encargo de 20% (vinte por cento) previsto no art. 1º do Decreto-Lei n.º 1.025/69 e legislação posterior é devido nas execuções fiscais promovidas pela União Federal, destinando-se a custear as despesas com a cobrança judicial de sua Dívida Ativa, bem como a substituir a condenação da embargante em honorários advocatícios, se os embargos forem julgados improcedentes.
+17. Em face das peculiaridades do processo executivo, a exigência não constitui violação à Carta Magna e a princípios constitucionais, processuais ou tributários, como, isonomia, juiz natural, razoabilidade, não confisco, dentre outros. A questão já restou consolidada pelo extinto Tribunal Federal de Recursos, através da Súmula n.º 168. O encargo de 20% encontra-se também previsto na Lei n.º 8.218/91, em seu art. 7º.
+18. Quanto à sistemática de recolhimento de PIS e COFINS pelas empresas de mão de obra temporária, tal pleito deve ser alegado em sede de embargos à execução, que possuem cognição ampla.
+19. Não se verifica qualquer nulidade aferível de plano a macular a certidão da dívida ativa acostada aos autos, uma vez que estão contidos em referido título todos os dados pertinentes à apuração do débito, com discriminação da natureza da dívida, das parcelas de juros e multa, em consonância com o disposto no art. 202, do CTN e art. 2º da Lei nº 6.830/80.
+20. As alegações formuladas pela agravante não são suficientes para afastar a presunção de liquidez e certeza de que goza a Certidão da Dívida Ativa e, consequentemente, determinar a extinção da execução fiscal, não se verificando, também, qualquer vulneração aos princípios do contraditório, ampla defesa e capacidade contributiva como alegado na petição recursal.
+21. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+22. Agravo interno desprovido.
+Os Embargos de Declaração foram rejeitados.
+A recorrente alega ofensa ao art. 204 do CTN, visto que a certidão de dívida ativa não possui todos os requisitos necessários para sua execução.
+Contrarrazões às fls. 293-305, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.5.2022.
+O acórdão recorrido consignou:
+Assim, não se verifica qualquer nulidade aferível de plano a macular a certidão da dívida ativa acostada aos autos, uma vez que estão contidos em referido título todos os dados pertinentes à apuração do débito, com discriminação da natureza da dívida, das parcelas de juros e multa, em consonância com o disposto no art. 202, do CTN e art. 2º da Lei nº 6.830/80.
+As alegações formuladas pela agravante não são suficientes para afastar a presunção de liquidez e certeza de que goza a Certidão da Dívida Ativa e, consequentemente, determinar a extinção da execução fiscal, não se verificando, também, qualquer vulneração aos princípios do contraditório, ampla defesa e capacidade contributiva como alegado na petição recursal. (fl. 271, e-STJ)
+O Tribunal de origem, com base na prova apresentada, concluiu que foram preenchidos os requisitos da CDA.
+A revisão desse entendimento demanda incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ, cuja incidência é induvidosa no caso sob exame.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
