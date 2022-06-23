@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de JOSE CARLOS BORELLA DE OLIVEIRA contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do artigo 56, caput, combinado com art. 15, II, "a" e "c", ambos da Lei nº 9.605/1998, e com o artigo 29, caput, do Código Penal, por 3 (três) vezes, na forma do 69, caput, também do Código Penal, às penas de 03 (três) anos e 06 (seis) meses de reclusão, em regime aberto, sendo substituída a pena de reclusão por duas restritivas de direitos (consistentes em prestação de serviços à comunidade e prestação pecuniária), e a pena de multa de 30 (trinta) dias-multa.
+Irresignadas, a defesa e a acusação interpuseram recurso de apelação ao Tribunal de origem, que deu provimento somente ao apelo ministerial, para estabelecer a sanção em 05 anos de reclusão, em regime semiaberto, e 25 dias-multa, sendo cassada a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do acórdão juntado às fls. 56-75, com a seguinte ementa:
+"APELAÇÃO CRIMINAL. AMBIENTAL. DELITO PREVISTO NO ARTIGO 56 CAPUT DA LEI N. 9.605/98. AUTORIA E MATERIALIDADE COMPROVADAS, EIS DEMONSTRADO QUE OSRÉUS EFETIVAMENTE ARMAZENARAM E TINHAM EM DEPÓSITO SUBSTÂNCIA TÓXICA DE USO PROSCRITO. CONDENAÇÕES MANTIDAS. APENAMENTO. PARCIAL PROVIMENTO DO APELO MINISTERIAL, PARA EXASPERAÇÃO DAS REPRIMENDAS. NEGADO PROVIMENTO AOS APELOS DEFENSIVOS."
+No presente writ, o impetrante sustenta a ilegalidade na terceira etapada dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificara incidência do concurso material de crimes, em detrimento da continuidade delitiva.
+Requer, ao final, a concessão da ordem, para reduzir a sanção (fls. 3-15).
+É o breve relatório.
+Decido.
+O col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. As Turmas, que integram a Terceira Seção desta Corte, alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado.
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento daimpetração. Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+Compulsando os autos, denota-se que opresente habeas corpusse trata de reiteração de pedido, pois a controvérsia ora suscitada, já foi apreciada no julgamento do HC n. 699673/RS, oportunidade em que o pleito não foi conhecido.
+Nesse diapasão, oart. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+P. e I.
