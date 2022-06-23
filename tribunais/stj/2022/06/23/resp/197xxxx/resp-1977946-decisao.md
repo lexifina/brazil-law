@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto porBANCO VOLKSWAGEN S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. RECURSO SECUNDUM EVENTUM LITIS.CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO DEVOLVIDA.DESTINATÁRIO MUDOU-SE. PROTESTO POR EDITAL.INOCORRÊNCIA. DECISÃO MANTIDA.
+1. Em sede de agravo de instrumento, por se tratar de recurso secundum eventum litis, mostra-se pertinente ao órgão ad quem averiguar, tão somente, a legalidade da decisão agravada, sob pena de suprimir-se inexoravelmente um grau de jurisdição.
+2. Encaminhada notificação ao devedor, no endereço constante do contrato e sendo aquela devolvida com a certificação de que o destinatário mudou-se, cabe ao credor proceder com o protesto por edital visando à sua constituição em mora, o que não ocorreu, no caso. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente, além de dissídio jurisprudencial,que o Tribunal a quo negou vigência aos arts. 2º, §2º, 3º, do Decreto-Lei 911/1969, pois entendeu que não houve demonstração prévia da constituição em mora do devedor, devendo ser consideradaválida a notificação enviada ao endereço do devedor constante do contrato, ainda que por ele não recebida por sua exclusiva desídia em comunicar ao Banco a alteração de seu endereço.
+Acrescentaque a única mudança significativa no §2º do art. 2º do Decreto-Lei 911/1969 é a possibilidade do credor poder comprovar a constituição em mora do devedor fiduciário por simples carta registrada com aviso de recebimento e não somente por intermédio de Cartório de Títulos e Documentos, como dispunha a redação revogada.
+Conclui que, casoa notificação não seja entregue ao devedor, em razão de sua desídia em comunicar ao credor a alteração de seu endereço, a notificação considera-se aperfeiçoada, não havendo regra no que tange à necessidade de notificação editalícia.
+O prazo para apresentação das contrarrazões decorreu in albis.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de agravo de instrumento interposto contra decisão que, ao afirmar ter o credor não logrado êxitona constituição em mora do devedor, ora agravado, haja vista que a notificação extrajudicial que enviou para o endereço constante do contrato firmado entre as partes não foi entregue no domicílio do devedor fiduciário, determinou a emenda da petição inicial da ação de busca e apreensão.
+Pretende a parte recorrente seja o devedor constituído em mora. Para tanto, busca ver prevalecer o entendimento de que a mudança de endereço do devedor é irrelevante para o ato de notificação.
+Acerca do tema, assim entendeu o Tribunal a quo in verbis:
+Para proceder-se à busca e apreensão do bem alienado somente é possível mediante a comprovação da mora do devedor, que se perfectibiliza pela notificação, acompanhada da prova de seu efetivo recebimento no local de destino, seja pelo destinatário ou por terceira pessoa.
+O Superior Tribunal de Justiça possui compreensão consolidada no sentido de que "para comprovação da mora, é imprescindível que a notificação extrajudicial seja encaminhada ao endereço do devedor, ainda que seja dispensável a notificação pessoal". (AgRg no AREsp. nº 797.771/MS - Relator: Ministro Moura Ribeiro - Publicado no DJe em: 04/09/2017).
+No caso, a notificação encaminhada ao endereço da parte agravada constante do contrato não foi entregue em razão da informação que o destinatário "mudou-se" (evento 01-proc.principal).
+Com isso, é evidente que a notificação deve ser entregue no endereço indicado no contrato para se aperfeiçoar a comprovação da mora, não bastando o simples envio desta. Se o devedor mudou-se, necessária seria a notificação editalícia, o que não foi providenciado pela Agravante.
+De igual forma, não há no feito a prova do protesto do título e correspondente intimação por edital do devedor fiduciante a respeito do inadimplemento da obrigação.
+Conforme entendimento firmado no âmbito desta Corte de Justiça, "a demonstração damoraem alienação fiduciária ou leasing - para ensejar, respectivamente, o ajuizamento de ação de busca e apreensão ou de reintegração de posse - pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento - em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário" (REsp 1.292.182/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/09/2016, DJe de 16/11/2016).
+Logo, o envio danotificaçãoextrajudicial ao endereço contratual dodevedorjá seria suficiente para constituí-lo emmoradecorrente do inadimplemento de contrato de alienação fiduciária.
+No caso em exame, segundo informado pelo Tribunal a quo, anotificaçãoextrajudicial foi enviada ao endereço informado pelo ora agravante no contrato e resultou inexitosa por constar a informação "mudou-se". Não se procedeu ao protesto por edital, visando àconstituiçãoemmoradodevedor.
+Mesmo queadmissível a comprovação damoradodevedorseja efetuada pelo protesto do título por edital, quando, esgotados os meios de localizar odevedor,seja inviável anotificaçãopessoal, a notificação primeira já teria força constitutiva da mora.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO.NOTIFICAÇÃOEXTRAJUDICIAL REALIZADA NO ENDEREÇO CONTRATUAL DODEVEDOR. MORACOMPROVADA. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento firmado no âmbito desta Corte de Justiça, "a demonstração damoraem alienação fiduciária ou leasing - para ensejar, respectivamente, o ajuizamento de ação de busca e apreensão ou de reintegração de posse - pode ser feita mediante protesto, por carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento - em nenhuma hipótese, exige-se que a assinatura do aviso de recebimento seja do próprio destinatário" (REsp 1.292.182/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/09/2016, DJe de 16/11/2016).
+2. Logo, o envio danotificaçãoextrajudicial ao endereço contratual dodevedorjá seria suficiente para constituí-lo emmoradecorrente do inadimplemento de contrato de alienação fiduciária.
+3. No caso em exame, segundo informado pelas instâncias ordinárias, soberanas na análise do conjunto fático-probatório dos autos, anotificaçãoextrajudicial foi enviada ao endereço informado pelo ora agravante no contrato e resultou inexitosa por constar a informação "mudou-se". Por essa razão, procedeu-se ao protesto por edital, visando àconstituiçãoemmoradodevedor.
+4. É admissível que a comprovação damoradodevedorseja efetuada pelo protesto do título por edital, quando, esgotados os meios de localizar odevedor,seja inviável anotificaçãopessoal.
+5. Nesse contexto, anotificaçãorealizada por edital seguiu as regras procedimentais, sendo, portanto, regular.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1644890/GO, de minha Relatoria, QUARTA TURMA, julgado em 24/8/2020, DJe de 15/9/2020)
+Confira-se, ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DENOTIFICAÇÃO.PROVA DO RECEBIMENTO NO ENDEREÇO DODEVEDOR.NECESSIDADE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme o entendimento assente deste Superior Tribunal, para aconstituiçãododevedoremmoranos contratos de alienação fiduciária, é imprescindível a comprovação de encaminhamento denotificaçãoao endereço constante do contrato, bem como de seu efetivo recebimento, o que não ocorreu no caso dos autos, segundo as instâncias ordinárias, ocasionando a extinção da ação.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1829084/RS. de minha Relatoria, QUARTA TURMA, julgado em 24/8/2020, DJe de 15/9/2020)
+Deveras,o envio danotificaçãoextrajudicial ao endereço contratual dodevedoré suficiente para constituí-lo emmoradecorrente do inadimplemento de contrato de alienação fiduciária.
+Dessa forma, entende-se que o acórdão recorrido merece reparo.
+Diante do exposto, nos termos do art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial, para dar provimento ao agravo de instrumento.
+Publique-se.
