@@ -1,0 +1,55 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de agravo regimental interposto pelo ESTADO DA BAHIA contra a decisão de fls. 426-427, da Presidência, na qual não se conheceu do agravo em recurso especial, por ausência de impugnação aos fundamentos da decisão de admissibilidade do recurso especial.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravado como incurso nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, à pena de 2 (dois) anos e 6 (seis) meses de reclusão, no regime inicial aberto. Houve substituição por penas restritivas de direitos (fls. 261-266).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal ali interposto pela Defesa (fls. 335-343). Eis a ementa do acórdão:
+"DIREITO PROCESSUAL PENAL. APELAÇÃO DO ESTADO DA BAHIA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS AO DEFENSOR DATIVO EM SENTENÇA CRIMINAL. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO | DE DEFESA. NULIDADE NAO EVIDENCIADA. PROCURADORIA DO ESTADO DEVIDAMENTE CIENTIFICADA DA SENTENÇA COM FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PARA O DEFENSOR DATIVO. COMARCA DE ENTRE RIOS ONDE NÃO EXISTE DEFENSORIA PÚBLICA. PRELIMINAR REJEITADA. MÉRITO. PLEITO DE REFORMA DA DECISÃO VISANDO: 1) EXTIRPAR A CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. DECISÃO CORRETA EM NOMEAR DEFENSOR DATIVO. AUSÊNCIA DE DEFENSOR PÚBLICO NA COMARCA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS DEVIDOS AO PATRONO NOMEADO EM CONTRAPRESTAÇÃO AOS SERVIÇOS PRESTADOS AQUELES QUE NECESSITAM. RESPONSABILIDADE DO ESTADO PELO PAGAMENTO. TÍTULO EXECUTIVO VÁLIDO. PRECEDENTES DO STJ. 2) SUBSIDIARIAMENTE, REQUER A REDUÇÃO DOS HONORÁRIOS ARBITRADOS. IMPOSSIBILIDADE. FIXAÇÃO PELO MAGISTRADO DE PRIMEIRO GRAU COM BASE NA TABELA DE HONORÁRIOS OAB/BA. VALOR DA CONDENAÇÃO QUE DEVE SER MANTIDO. RECURSO CONHECIDO E IMPROVIDO, EM HARMONIA COM A DOUTA PROCURADORIA DE JUSTIÇA."
+Sobreveio recurso especial, interposto pelo ora agravante com fulcro na alínea a do permissivo constitucional, no qual se alegou que "Os ARTIGOS 5º DA LEI FEDERAL Nº 1.060/50 E 22, §1º DA Ler FEDERAL Nº 8.906/94 UTILIZADOS PELO ARESTO NÃO AUTORIZAM O RECONHECIMENTO DA COMPETÊNCIA DO JUÍZO CRIME PARA FIXAR HONORÁRIOS ADVOCATÍCIOS DE DEFENSOR DATIVO CONTRA O PODER PÚBLICO" (fl. 355).
+Certificada a não apresentação de contrarrazões (fl. 391), o especial foi inadmitido na origem pela aplicação da Súmula n. 83/STJ (fls. 392-395).
+Contra tal decisão, foi interposto o respectivo agravo, no qual o agravante repisou os argumentos anteriormente expendidos no apelo nobre (fls. 399-405).
+Em decisão de fls. 426-427, a d. Presidência deste Superior Tribunal não conheceu do agravo, ante a ausência de impugnação aos fundamentos da decisão de admissibilidade.
+Nas razões do presente agravo regimental, a parte agravante resumidamente requer "a reconsideração da decisão proferida ou, subsidiariamente, seja o feito submetido a Colenda Turma, conhecido e dado provimento ao Agravo Interno devendo ser reformada, in totum, a r. decisão recorrida" (fl. 433).
+Pelo despacho de fl. 439, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 442-, o feito foi a mim atribuído.
+O d. representante do Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fl. 444).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida.
+Conforme relatado, o especial foi inadmitido na origem pela aplicação da Súmula n. 83/STJ (fls. 392-395).
+O agravante, contudo, nos termos do que mencionado no decisum reprochado, no que concerne à incidência da Súmula n. 83/STJ, não cuidou o agravante de refutar, de forma específica e fundamentada. Como cediço, não basta deduzir a inaplicabilidade do referido óbice, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, com a comprovação, por meio da indicação de precedentes atuais e em sentido contrário aos que colacionados pelo eg. Tribunal a quo, no sentido de demonstrar a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, o que não se verifica no caso dos autos.
+Ademais, a jurisprudência desta e. Corte Superior de Justiça é assente no sentido de que: "O óbice contido na Súmula 83/STJ também se aplica ao recurso especial interposto com fulcro na alínea a do inciso III do art. 105 da Constituição Federal" (AgRg no AREsp n. 1.248.218/PR, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 06/12/2018).
+Ainda, no que diz respeito à impugnação da aplicação do óbice da Súmula 83/STJ, no mesmo sentido, confira-se o seguinte precedente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. PARADIGMA EM HABEAS CORPUS. INADMISSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. "Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016).
+3. Outrossim, a jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência.
+4. Agravo regimental não provido" (AgRg no AREsp n. 1.040.832/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 31/10/2017).
+Conforme mencionado pela d. Presidência, no decisum monocrático reprochado (fl. 426):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial"
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+No mesmo sentido, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido, e em reforço:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
