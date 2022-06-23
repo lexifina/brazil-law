@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de PAULO JOSÉ MOURA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Sergipe, nos autos da apelação criminal n. 201800302233.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 04 (quatro) anos de reclusão, em regime inicial aberto, mais o pagamento de 400 (quatrocentos) dias-multa, como incurso no art. 33, caput, § 4º, da Lei n. 11.343/2006, sendo a pena privativa de liberdade substituída por duas penas restritivas de direito (fls. 47-55).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 56-77.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a quantidade de droga apreendia não justifica a elevação da pena-base.
+Pugna pela fixação da pena-base no mínimo legal.
+Defende que a redução operada pelo tráfico ilícito de entorpecentes deve ser em seu grau máximo.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 85-86).
+Informações prestadas às fls. 89-92.
+O Ministério Público Federal, às fls. 96-103, manifestou-se pelo não conhecimento do writ, em parecer sem ementa.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a fixação da pena-base no mínimo legal; e ii) a redução operada pelo tráfico ilícito de entorpecentes em seu grau máximo.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"A insurgência apresentada neste apelo visa a reforma da dosimetria, de modo que passo à apreciação desse tópico.
+(..)Valoração das circunstâncias judiciais - art. 59, caput do CP: a culpabilidade está evidenciada, sendo o grau der e provação da conduta elevada, uma vez que agira com dolo intenso e manifesto, todavia, é a do tipo legal; o condenado não possui maus antecedentes; nada consta nos autos quanto à sua conduta social; não foi perceptível desvios de personalidade; os motivos do crime não foram perceptíveis nos autos; as circunstâncias são desfavoráveis, haja vista a natureza e a quantidade das drogas, as consequências extrapenais não são perceptíveis, não havendo subsídios nos autos; não há que falar em comportamento da vítima.
+Em face da análise supra, fixo apena-base em 06 (seis) anos e de reclusão e 600 (seis centos dias-multa). Não há atenuante e agravantes. Aplicando o disposto no art. 33, §4º da Lei11.343/06, já que o réu é primário e possui bons antecedentes e não há comprovação nos autos que o mesmo se dedica atividade criminosa, bem como pela natureza da substância entorpecente, da quantidade das substâncias apreendidas, reduzo a pena em 1/3 (um terço), totalizando a pena em 04 anos de reclusão e 400 dias-multa. Apena deverá ser cumprida inicialmente em regime aberto.(..)
+Ao analisar a dosimetria observo que o magistrado fundamentou corretamente as circunstâncias judiciais do art. 59 do CP, bem como as demais fases da dosimetria" (fls. 75-77).
+Com efeito, a quantidade de droga apreendida - 77,2 g de maconha(fl. 38) - justifica a elevação da pena-base.
+Nesse compasso, ao contrário do que sustenta a defesa, mostra-se idônea a fundamentação, uma vez que, há muito tempo, a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza e a quantidade da substância entorpecente. A propósito: AgRg no AREsp n. 585.375/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 27/03/2017, HC n. 212.752/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 1º/02/2012; e HC n. 66.080/SP, Quinta Turma, Rel. Min. Felix Fischer, DJ de 10/12/2007, p. 403.
+De outro lado, assinale-se que a Terceira Seção deste Sodalício firmou o entendimento de que, na hipótese em que a quantidade de entorpecente é levada a efeito na primeira fase da dosimetria, o referido fator não pode ser utilizado novamente, na terceira fase, como o único fundamento para negar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Além disso, a modulação do grau de redução não pode ser operada com base na quantidade de droga apreendida, se o volume de entorpecente já foi utilizado na primeira etapa da dosimetria, sob pena de configurar bis in idem, conforme assentado pelo Supremo Tribunal Federal, no RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712).
+In casu, a modulação foi realizada com base na quantidade de droga apreendida, motivo pelo qual está patente o bis in idem.
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo da pena.
+Diminuo a sanção em 2/3 (dois terços), haja vista o tráfico privilegiado, de modo a conduzir a pena para 02 (dois) anos de reclusão, mais o pagamento de 200 (duzentos) dias-multa, a qual torno definitiva.
+Fixo o regime inicial aberto, nos termos do art. 33, § § 2º e 3º, do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena do paciente em 02 (dois) anos de reclusão, em regime inicial aberto, mais o pagamento de 200 (duzentos) dias-multa, mantido os demais termos da condenação.
+P. e I.
