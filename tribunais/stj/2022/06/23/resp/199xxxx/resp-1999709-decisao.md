@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+Agravo de Instrumento. Penhora de verbas salariais. Impossibilidade. Inocorrência das hipóteses legais.Vedação. Recurso Provido.
+O art. 833, IV, do CPC/15 reafirma a proteção conferida às verbas de natureza salarial anteriormente prevista no art. 649, IV, do CPC/73, não obstante a nova lei preveja a possibilidade excepcional de penhora sobre quantia excedente a 50 (cinquenta) salários mínimos mensais, e também possibilite a penhora satisfação de prestação alimentícia. Ausentes tais excepcionalidades, há de prevalecer a regra de impenhorabilidade de tais verbas.
+Embargos de Declaração rejeitados (fls. 229-232; 697-700, e-STJ)
+Aponta a parte recorrente violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos art. 833, IV, § 2º, do CPC/2015. Defende:
+Depreende-se do acórdão combatido que o TJ/RO violou o art.833 do CPC ao aplicá-lo literalmente no caso concreto, sem observar entendimento da Corte Superior, sob a justificativa de que "o Código de Processo Civil estabelece, em seu artigo 833, §2º, a impenhorabilidade de vencimentos, subsídios, soldos, salários, remunerações, pensões, pecúlios, montepios e proventos de aposentadoria quando o valor for, mensalmente, inferior a cinquenta vezes o salário mínimo, o que, não há dúvida, amolda-se à situação posta para exame" e que "A verba remuneratória, a toda evidência, tem por escopo assegurar a subsistência do devedor e de sua família, garantindo-lhes o direito fundamental à vida digna, razão pela qual se justifica a sua indisponibilidade perante obrigação de natureza meramente patrimonial".
+(..)
+A divergência entre o acórdão recorrido e seus paradigmas é evidente pois, enquanto o acórdão impugnado conclui pela impenhorabilidade salarial em aplicação literal ao art. 833, IV, do CPC, os acórdãos paradigmas interpretam o mesmo contexto fático no sentido de admitir, em execuções de dívidas não alimentares, a exceção à regra da impenhorabilidade, destacando, inclusive, existência de exceção implícita quando a penhora não afetar a dignidade do devedor e de sua família.
+(..)
+Em razão da OMISSÃO que maculou o Acórdão, que não analisou o impacto da penhora na capacidade econômica do sr. José Luiz Lenzi e aplicou a literalidade do art. 833 do CPC, em dissonância com o entendimento do STJ, o Estado de Rondônia opôs Embargos de Declaração, suscitando a análise das condições econômicas do recorrido e mitigação da impenhorabilidade, de acordo com os precedentes vinculantes do STJ.
+Contrarrazões às fls. 776-860, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30.5.2022.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiadoa quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, quea Corte de origem examinoue decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum atacado (fl. 182, e-STJ):
+Compulsando os autos de origem sob o n.º 1000477-29.2014.8.22.0001, verifica-se através do extrato bancário (Banco do Brasil) juntados aos autos, o ora agravante detém uma renda bruta de R$ 19.509,39 (dezenove mil quinhentos e nove reais e trinta e nove centavos), montante bastante inferior ao estabelecido em lei, de sorte que eventuais digressões a respeito da razoabilidade do valor traçado pela norma processual, não afetam, a rigor, o caráter impenhorável do salário do ora agravante
+Assim, é imperioso concluir que a decisão de primeira instância não está em prefeita sintonia com a jurisprudência e com o ordenamento jurídico, ao autorizar a mitigação da proteção expressamente prevista no art. 833, inciso IV, do CPC/15.
+No âmbito do STJ, a jurisprudência caminha, historicamente, pela prevalência do texto legal que confere proteção de impenhorabilidade às verbas de natureza salarial, tendo em vista o caráter alimentar que serve para a sobrevivência com dignidade do executado ora agravante.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "apretensão de simples reexame de prova não enseja Recurso Especial".
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Apelo Nobrepela alínea "a" do permissivo constitucional.A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1472530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/10/2014, DJe 31/10/2014)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço parcialmente do Recurso Especial, apenas com relação à violação do art. 1.022 do CPC e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
