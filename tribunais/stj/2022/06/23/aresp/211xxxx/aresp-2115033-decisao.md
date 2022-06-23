@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. INOCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. DISCIPLINA DO ARTIGO 1025 DO CÓDIGO DE PROCESSO CIVIL.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1022 do Código de Processo Civil.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1023, § 2º, do Código de Processo Civil).
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão encontra disciplina no artigo 1025 do Código de Processo Civil, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 502, 503, 536, VI, e 508 do CPC/2015.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.5.2022.
+Inicialmente, de acordo com os Enunciados Administrativos 2 e 3 do STJ, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Constata-se que o Agravo foi interposto contra a decisão que negou seguimento ao Recurso Especial em virtude da aplicação do art. 1.030, I, "b", do CPC/2015 (fls. 697-701, e-STJ). Conformeo disposto no art. 1.030, § 2º, do CPC, é cabível Agravo Interno contra decisão que nega seguimento a Recurso Especial com base no inciso I, "b", do mesmo artigo. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I -negar seguimento:
+(..) b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+A decisão agravada foi publicada na vigência do atual Código de Processo Civil, o que inviabiliza a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO DE INADMISSIBILIDADE. PUBLICAÇÃO NA VIGÊNCIA DO CPC/2015. CABIMENTO DE AGRAVO INTERNO NOS TERMOS DO ART. 1.030, § 2º, DO CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO.
+1. Inicialmente, de acordo com os Enunciados Administrativos do STJ 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. No caso dos autos, aplicam-se as disposições constantes no CPC de 2015.
+2. O Recurso Especial teve seguimento negado (fls. 86-91, e-STJ) por estar o acórdão recorrido em harmonia com acórdão proferido pelo STJ no REsp 1.657.156/RJ, recurso repetitivo com base no que dispõe o art. 1.036 do CPC/2015, não tendo a parte interposto Agravo Interno, mas, incontinenti, Agravo em Recurso Especial (fls. 95-100, e-STJ).
+3. O STJ entende que "a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno" (AREsp 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 26/8/2016).
+4. Agravo Interno não provido.(AgInt no AREsp 1.445.583/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. APELO NOBRE INADMITIDO COM FUNDAMENTO NO ART. 1030, I, "b", DO CPC/2015. CABIMENTO DO AGRAVO INTERNO NA ORIGEM. APLICAÇÃO DO ART. 1030, §2º, DO CPC.
+1. Ação de revisão de benefício previdenciário.
+2. Não é cabível o agravo em recurso especial contra decisão que, com fulcro no art. 1030, I, "b", do CPC/2015, nega seguimento ao apelo nobre, uma vez que é de competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de suposto equívoco na aplicação de precedente representativo da controvérsia julgado por este Tribunal.
+3. Agravo interno nos embargos de declaração no agravo em recurso especial não provido.(AgInt nos EDcl no AREsp 1.396.609/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 20/11/2019)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do Recurso.
+Publique-se.
+Intimem-se.
