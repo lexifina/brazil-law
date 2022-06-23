@@ -1,0 +1,31 @@
+MANDADO DE SEGURANÇA – AUTOS N. 1006454-30.2022.8.11.0000 – COMARCA DE CUIABÁ/MT.
+Impetrante: Ilza Dias Paião
+Impetrado: Estado de Mato Grosso
+Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Ilza Dias Paião em face de ato que reputa ilegal atribuído ao Governador do Estado de Mato Grosso.
+A impetrante relata que logrou aprovação no concurso público regido pelo edital n. 01/2017 para provimento de cargo de professor da educação básica – História, com lotação na cidade de Várzea Grande/MT, sendo classificada em 25o lugar para a cidade escolhida, tendo ocorrido a nomeação daqueles aprovados até a 20a colocação.
+Narra que o edital previu a possibilidade de convocação, a critério da Administração, para as vagas que surgissem dentro do prazo de validade do concurso, porém, apesar da existência de candidatos aprovados, foram efetuadas diversas contratações de forma precária em detrimento dos candidatos aprovados.
+Afirma que a SEDUC/MT negou a informação de quantos professores contratados existem na lotação por ela pretendida e que, em levantamento informal, apurou que seriam, no mínimo, 10 professores para aulas de história no município de Várzea Grande.
+Alega que, por não haverem atendido aos requisitos editalícios para essas contratações, é de se concluir pela vacância dos cargos, que devem ser providos por candidatos aprovados no concurso público, de modo que sua mera expectativa do direito se converteu em direito inequívoco à nomeação.
+Com essas considerações, requer a concessão de medida liminar para determinar a sua posse imediata no cargo ou, subsidiariamente, a reserva de sua vaga.
+Postula, ainda, “a intimação da SEDUC/MT para apresentar o número de contratados por polo de educação para área de professor história da educação básica, bem como relação de contratados para o município de Várzea Grande/MT e para o polo Cuiabá/MT”.
+É o relatório.
+Decido.
+A teor do art. 7o, III, da Lei no. 12.016/2009, tem-se que, para a concessão de medida liminar no mandado de segurança, é imprescindível a presença dos requisitos cumulativos e necessários, a saber: que os fundamentos da impetração sejam relevantes (fumus boni iuris) e que a possibilidade do ato impugnado resulte na ineficácia da medida, caso seja deferida apenas ao final (periculum in mora).
+Na hipótese dos autos, a impetrante pretende obter tutela liminar com vistas à posse imediata no cargo de Professor de Educação Básica, História, no Município de Várzea Grande, haja vista a sua aprovação e classificação em 25o no Concurso Público regido pelo Edital n. 01/2017, da Secretaria de Estado de Educação.
+Sabido que o Supremo Tribunal Federal, no julgamento submetido ao rito da repercussão geral (RE n. 598.099/MS), fixou o entendimento de que o candidato aprovado no concurso público dentro do número de vagas previstas no Edital tem direito subjetivo à nomeação, que deverá ocorrer, a critério da Administração, no prazo de validade do certame.
+Sucede que, in casu, o edital do certame previu 15 vagas para ampla concorrência para o cargo em questão e a impetrante obteve a 25a colocação, ou seja, restou classificada fora do número de vagas previsto no Edital.
+No julgamento do RE 837.311/PI, com repercussão geral reconhecida, o Supremo Tribunal Federal firmou o entendimento de que o surgimento superveniente de vagas durante o prazo de validade do concurso não acarreta, de forma automática, o direito subjetivo à nomeação do candidato classificado fora do número de vagas previsto no edital do certame.
+No mesmo julgamento, a Suprema Corte consignou que tal direito deverá ser reconhecido quando houver cabal comprovação, pelo candidato, da ocorrência de sua preterição pela Administração, de forma arbitrária e imotivada, revelada pelo comportamento, tácito ou expresso, do Poder Público, a sinalizar a necessidade da pretendida nomeação.
+Do mesmo modo, o Superior Tribunal de Justiça preconiza que os candidatos classificados fora do número de vagas previsto no edital do certame possuem mera expectativa de direito à nomeação ainda que novas vagas surjam no período de validade do concurso – seja por criação de lei, seja por força de vacância –, uma vez que o preenchimento dos cargos está sujeito ao juízo de conveniência e oportunidade da Administração (Nesse sentido: AgInt no RMS 52.807/PE - julgado em 16/5/2019 - DJe 22/5/2019).
+Ademais, em que pese a impetrante alegue a ocorrência de contratações de natureza precária para o cargo pretendido, tem-se, a princípio, não restou comprovada a existência de contratações temporárias irregulares, pelo que, por ora, não há falar em preterição.
+Releve-se, por oportuno, que o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a admissão de temporários, com fulcro no artigo 37, inciso IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de servidores efetivos, que são selecionados por concurso público para suprir necessidade permanente de serviço.
+Vale dizer, a contratação temporária, por si só, não é ilegal, de sorte que, em estima sumária, não se verifica a relevância dos fundamentos da impetração.
+Seja como for, também não se vislumbra a possibilidade de lesão irreparável ou de eventual ineficácia da medida se a segurança que se pretende for concedida na oportunidade do julgamento de mérito, porquanto ausente qualquer prova objetiva nesse sentido, de modo que não há falar em deferimento da tutela liminar por inexistência do periculum in mora.
+Ante o exposto, indefiro o pedido por tutela liminar.
+Nos termos do disposto no art. 7o, I e II, da Lei n. 12.016/2009, proceda-se à notificação do impetrado para, querendo, no prazo de 10 (dez) dias, prestar as informações pertinentes.
+Notifique-se o Secretário Estadual de Educação do Estado de Mato Grosso para, também no prazo de 10 (dez) dias, apresentar o número de contratados por polo de educação para área de professor história da educação básica, bem como relação de contratados para os municípios de Várzea Grande e Cuiabá.
+Após, encaminhem-se os autos à Procuradoria-Geral de Justiça.
+Intimem-se.
+Cuiabá, 23 de junho de 2022.
+Alexandre Elias Filho
+Relator Convocado
