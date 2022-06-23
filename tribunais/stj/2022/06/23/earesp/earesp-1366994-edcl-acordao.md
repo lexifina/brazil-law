@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de segundos Embargos de Declaração interpostos por João Nunes de Bastos e Maria Pereira Nunes contra decisão (fls. 818-825, e-STJ) que rejeitou seus Embargos de Declaração no Agravo Interno em Embargos de Divergência, com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+2. Ao contrário do que afirma a parte recorrente, não há omissão no decisum. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Dessa forma, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+4. Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+5. Embargos de Declaração rejeitados.
+O recorrente, nas razões de seus segundos Embargos de Declaração, afirma que há suspeição indireta na atuação da Ministra Nancy Andrighi, a qual votou no julgamento da decisão embargada.
+Sustente, em síntese (fls. 835, e-STJ, grifamos):
+Impende registrar que, consoante a doutrina e a jurisprudência pátrias, a parcialidade/suspeição de magistrados, devido a sua gravíssima natureza, eis que afronta ao devido processo legal, princípio insculpido na Constituição da República como cláusula pétrea, é vício transrescisório, e para o qual não há preclusão, não há formação de coisa julgada, não há prescrição e muito menos decadência e, no caso em tela, é fato que a Sra. Ministra Fátima Nancy Andrighi proferiu, nos autos, votos, isso feito tanto no âmbito da Corte Especial desse STJ quanto no âmbito da 3ª Turma desse Superior Tribunal de Justiça, isso embora tenha ela, Sra. Ministra Fátima Nancy, votado na Exceção de Suspeição de n. 190/STJ em a qual figurou ela, Sua Excelência, Ministra Nancy Andrighi, na condição de parte Excepta.
+Contrarrazões às fls. 851-858, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO DO ART. 1.022, DO CPC/15. NÍTIDO CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+2. A fundamentação dos recorrentes relativa à suposta suspeição indireta da Ministra Nacy Andrighi não pode ser alegada em Embargos de Declaração, pois não se enquadra na hipótese de cabimento do recurso. O Código de Processo Civil prevê procedimento específico para alegar a suspeição (art. 146, do CPC/15).
+3. Nos termos do art. 1.026, §2º, do CPC/2015, aos Embargos de Declaração manifestamente protelatórios cabe imposição de multa. No caso dos autos: i) não se demonstrou omissão, contradição ou obscuridade; ii) utilizou-se fundamentação desconexo com o momento processual do processo, o que evidencia o caráter protelatório do recurso.
+4. Embargos de Declaração rejeitados com aplicação de multa de 1% sobre o valor atualizado da causa.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17 de janeiro de 2022.
+O presente recurso é desconexo, temerário e protelatório.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ainda que os insurgentes tenham indicado omissão na decisão embargada, não demonstraram em que consistiria tal omissão. O vício em sua fundamentação atrai o óbice da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A fundamentação dos recorrentes referente à suposta suspeição indireta da Ministra Nacy Andrighi não pode ser alegada em Embargos de Declaração, pois não se enquadra na hipótese de cabimento do recurso. O Código de Processo Civil prevê procedimento específico para alegar suspeição (art. 146, do CPC/15).
+Na Exceção de Suspeição 190/STJ, decidiu-se que não foi comprovada a suspeição, tendo ocorrido o trânsito em julgado em 3.6.2019. Não cabe, agora, em Embargos de Declaração, emitir qualquer juízo de valor em sentido contrário ao quanto decidido por decisão judicial transitada em julgada que já apreciou a questão da suspeição.
+Ademais, nenhuma prova foi juntada pelos insurgentes.
+Nos termos do art. 1.026, §2º, do CPC/2015, aos Embargos de Declaração manifestamente protelatórios cabe a imposição de multa. No caso dos autos: i) não se demonstrou a existência de omissão, contradição ou obscuridade; ii) utilizou-se fundamentação desconexa com o momento processual do processo, o que evidencia o caráter protelatório do recurso. No mesmo sentido é a jurisprudência desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO N O AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC/2015, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Considerando o caráter manifestamente protelatório dos embargos de declaração, aplicável a multa inserta no art. 1.026, §2º, do CPC/2015.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl na TutPrv no AREsp 1.867.540/SP, Rel. Min. Nancy Andrighi, Terceira Turma e DJe 25/11/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. NÍTIDO CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM IMPOSIÇÃO DA MULTA PREVISTA NO ART. 1.026, §2º, CPC/2015.
+1. Os declaratórios apenas são cabíveis nos casos de omissão, obscuridade ou contradição, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+2. Nas circunstâncias, em que o embargante insiste em discutir questões já analisadas e reitera suas pretensões sucessivamente em embargos de declaração, percebe-se comportamento protelatório da parte, que exigem a fixação de sanção processual prevista no art. 1.026, § 2º, do CPC/2015.
+3. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC/2015.
+(EDcl nos EDcl no AgInt no AREsp 1.751.897/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma e DJe 10/12/2021)
+Ante o exposto, rejeito os Embargos de Declaração com aplicação de multa de 1% sobre o valor atualizado da causa.
+É como voto.
