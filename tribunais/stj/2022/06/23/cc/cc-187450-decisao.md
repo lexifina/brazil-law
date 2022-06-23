@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência apresentado por ARIANA BARRETO SANTOS DE ALMEIDAcontra o Juízo Federal da 21ª Vara do Juizado Especial Cível de Salvador- SJ/BAe o Juízo de Direito da 3ª Vara do Sistema dos Juizados Especiais de Consumidor de Salvador/BA,nos autos de ação ordinária proposta contra a UNIESP e IDEAL,queobjetivaaexpedição dodiploma do curso de Pedagogia Sociale indenização por danos morais.
+O Juízo estadual declinou da competência, tendo em conta o entendimento firmado pelo STF, submetido ao regime da repercussão geral, reconhecendo a competência da Justiça Federal. O Juízo Federal, a seu turno, defendeu a competência estadual, considerando que não há pedido formulado em face da União.
+Manifestação ministerial pelo não conhecimento do conflito (e-STJ fls. 165/167)
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, constato a competência do Juízo Federal.
+É que a Suprema Corte, em 25/06/2021, reconheceu a existência de repercussão geral da questão constitucional suscitada no RE 1.304.964 e julgou o mérito do Tema 1154, estabelecendo a seguinte tese:
+Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização.
+Em caso similar ao presente, reporto-me ao seguinte precedente desta Corte:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO DE OBRIGAÇÃO DE FAZER. INSTITUIÇÃO DE ENSINO PRIVADA. DIPLOMA UNIVERSITÁRIO. SÚMULA 150/STJ. INAPLICABILIDADE. ORIENTAÇÃO VINCULANTE DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. O óbice da Súmula 150/STJ é inaplicável à situação ora debatida, pois a ação não foi ajuizada contra União, mas apenas em desfavor da instituição de ensino privada. Além disso, existindo orientação vinculante do Supremo Tribunal Federal afirmando a competência da Justiça Federal para o exame da lide, nos termos do que foi consignado no julgamento do Tema 1.154/STF, não há qualquer margem interpretativa confiada ao Juízo de Primeira Instância para decidir de modo contrário ao que consta do referido precedente de caráter obrigatório.
+3. Não havendo qualquer vício de fundamentação no aresto embargado, o aclaratórios devem ser rejeitados, com a manutenção integral da argumentação erigida no acórdão impugnado.
+4. Embargos de declaração rejeitados. (EDcl nos EDcl no AgInt no CC 178193/SP, rel. Min. OG FERNANDES, PRIMEIRA SEÇÃO, DJe 12/05/2022). (Grifos acrescidos).
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o Juízo Federal da 21ª Vara do Juizado Especial Cível de Salvador - SJ/BA.
+Publique-se. Intimem-se.
