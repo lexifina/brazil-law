@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recursoespecialfundado no art. 105, III, "a",daConstituição Federal,interposto porMEDISERVICE OPERADORA DE PLANOS DE SAÚDE S.A. contrav.acórdão do eg. Tribunal deJustiça do Estado de São Paulo (TJ-SP),assimementado:
+APELAÇÃO PLANO DE SAÚDE Reapreciação da matéria por determinação do C. STJ Rescisão unilateral e imotivada de contrato coletivo Embora admitida, em tese, a rescisão unilateral, no caso concreto não houve a comprovação do cumprimento dos requisitos contidos na Resolução Normativa ANS 17/2009 e na Resolução Normativa CONSU 19/1999 Abusividade do cancelamento Dever de reativar o plano Danos morais cabíveis - Rescisão unilateral que extrapolou o mero aborrecimento cotidiano, já que verificado risco concreto de agravamento da saúde dos beneficiários idosos submetidos a tratamento, não se enquadrando a conduta da operadora de saúde como razoável Fixação de indenização em R$5,000,00 para os dois idosos que se mostrou razoável Sentença de procedência mantida NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração foram acolhidos em parte, sem efeitos modificados, conforme acórdão de fls. 299-301.
+Nas razões do recurso especial, a parte recorrente alega violação aos arts.1º e 4º, VII, XI e XXIII da Lei n. 9.961/2000. Sustenta, em síntese, que houve usurpação da competência da Agência Reguladora ao determinar que a operadora, que não mais comercializa planos de saúde na modalidade individual/familiar, fosse obrigada a oferece aos segurados como alternativa ao cancelamento da apólice coletiva.
+É o relatório. Decido.
+Com efeito, observa-se que, apesar da oposição dos embargosdedeclaraçãona origem, o Tribunala quonão se manifestou a respeito danão comercialização de plano de saúde na modalidade familiar/individual por parte da operadora recorrente, com base nosarts.1º e 4º, VII, XI e XXIII da Lei n. 9.961/2000, o que acarretaa ausênciadeprequestionamento da matéria.
+Nesse contexto, cabe ao recorrente,caso o Tribunal de origempermaneçasilente sobre a matéria ventilada,indicar violação do art.1.022 doCPC/2015 (art. 535 do CPC/73), o que não ocorreu, incidindo,nocaso, oóbice da Súmula 211 do STJ. A propósito, vide:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃODECLARATÓRIADEINEXIGIBILIDADE DE COBRANÇA CUMULADA COM REPETIÇÃO DEINDÉBITOEINDENIZAÇÃO POR DANOS MORAIS. SERVIÇOS DE TELEFONIA.ALEGAÇÃODEPRESCRIÇÃO DECENAL. FALTA DE PREQUESTIONAMENTO.SÚMULA211/STJ.AGRAVOINTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial,mas não debatido e decidido nas instâncias ordinárias, nãoobstanteaoposição de embargos declaratórios, porquanto ausente oindispensávelprequestionamento. Incidência da Súmula 211 do STJ.
+2. É entendimento desta Corte Superior que "aadmissãodeprequestionamento ficto (art. 1.025 do CPC/15), em recursoespecial,exigeque no mesmo recurso seja indicada violação ao art. 1.022do CPC/15,paraque se possibilite ao Órgão julgador verificar aexistência dovícioinquinado ao acórdão, que uma vez constatado, poderádar ensejoàsupressão de grau facultada pelo dispositivo de lei" (REsp1.639.314/MG,Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em04/04/2017,DJede 10/04/2017).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1526952/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 20/02/2020, DJe 18/03/2020)
+Ademais, ainda que superado o referido óbice, observa-se que a recorrente deixou de impugnar especificamente o argumento no sentido de que "os apelados não foram cientificados com antecedência mínima de 60 dias da suspensão/cancelamento do plano"(fl. 254)
+Sendo assim, a ausência de impugnação de argumentação capaz de manter, por si só, o acórdão estadual enseja aplicação, por analogia, da Súmula 283/STF. A propósito:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE EMPREITADA. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO E DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. INEXISTÊNCIA. SÚMULAS N. 283 DO STF E 182 DO STJ. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AgInt nos EDcl no AREsp n. 1.603.061/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários em 1% sobre o valor atualizado da condenação.
+Publique-se.
