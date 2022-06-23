@@ -7,7 +7,8 @@ V - operações relativas a mercadorias que tenham sido ou que se destinem a ser
 VI - operações de qualquer natureza de que decorra a transferência de propriedade de estabelecimento industrial, comercial ou de outra espécie;
 VII - operações decorrentes de alienação fiduciária em garantia, inclusive a operação efetuada pelo credor em decorrência do inadimplemento do devedor;
 VIII - operações de arrendamento mercantil, não compreendida a venda do bem arrendado ao arrendatário;
-IX - operações de qualquer natureza de que decorra a transferência de bens móveis salvados de sinistro para companhias seguradoras.
+IX - operações de qualquer natureza de que decorra a transferência de bens móveis salvados de sinistro para companhias seguradoras; e
+X - serviços de transmissão e distribuição e encargos setoriais vinculados às operações com energia elétrica.
 Parágrafo único. Equipara-se às operações de que trata o inciso II a saída de mercadoria realizada com o fim específico de exportação para o exterior, destinada a:
 I - empresa comercial exportadora, inclusive tradings ou outro estabelecimento da mesma empresa;
 II - armazém alfandegado ou entreposto aduaneiro.
