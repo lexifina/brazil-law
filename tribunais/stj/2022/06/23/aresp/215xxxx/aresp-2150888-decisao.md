@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por BAR DO KBÇA LTDA. - ME, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Paraná,que não admitiu recurso especial com base nos seguintes fundamentos: (I) incide a Súmula 7/STJ, no tocante aos arts. 6º, VIII, e 7º, do CDC; e 333 do CPC/73, dada a necessidade de reexame de fatos e de provas; (II) quanto ao art. 51 do CDC, a modificação dos critériospara aferição do consumo de energia elétrica esbarra no óbice da Súmula 7/STJ; e (III) o acórdão recorrido está ancorado na interpretação da Resolução n. 456 da ANEEL, cuja análise não se viabiliza em sede de recurso especial
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça")
+Feita essa observação, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a totalidade dos fundamentos da decisão que não admitiu o recurso especial.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar osEAREsp 701.404/SC e osEAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
