@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BONIFÁCIO MANOEL JOSÉ DE LIMA e MARIA SANTANA BEZERRA DE LIMA, contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de execução promovida porLUCIA DE CASSIA RIBEIRO, MARIA RITA CONCEIÇÃO RIBEIRO e LUCY DE CÁSSIA RIBEIRO em desfavor deJOSÉ CARLOS FERREIRA DA SILVA e IDÊ FERREIRA DA SILVA.
+Sentença:julgou improcedentes os embargos de terceiro opostos porBONIFÁCIO MANOEL JOSÉ DE LIMA e MARIA SANTANA BEZERRA DE LIMA.
+Acórdão: mantendo a decisão monocrática, negou provimento ao agravo interno interposto pelos agravantes, nos termos da seguinte ementa:
+"AGRAVO INTERNO. Decisão monocrática que negou a concessão dos benefícios da Justiça Gratuita e determinou o recolhimento da taxa judiciária devida, no prazo de 05 dias,sob pena de deserção do recurso. Irresignação da parte apelante. Descabimento. Hipótese de confirmação da decisão,pois a parte agravante não apresentou razões ou fatos novos que ensejassem sua modificação. Provas juntadas aos autos que elidem a hipossuficiência alegada. Pedidos subsidiários de redução das despesas processuais e de parcelamento do preparo recursal, formulados após a denegação da Justiça Gratuita, sem que a parte agravante tenha comprovado alteração em sua situação fática. Preclusão. Pedidos não conhecidos. Decisão mantida. Recurso não provido, na parte conhecida."(e-STJ, fl. 281)
+Embargos de declaração: opostos porBonifácio Manoel José da Silva e outra,foram rejeitados.
+Recurso especial: alega violação dos arts. 2º e 4º da Lei nº 1.060/50; 98, 99, §3º e 1.022 do CPC/2015. Sustentaram que fazem jus à gratuidade de justiça; que não pode ser levada em consideração a renda bruta recebida e que a mera declaração de hipossuficiência já é suficiente para sua concessão.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da gratuidade de justiça
+A jurisprudência do STJ é pacífica no sentido de que a presunçãodoestadode necessidade tem natureza relativa e, assim sendo, omagistradoestáautorizado a indeferir o pedido do benefício dajustiçagratuita senão encontrar elementos que comprovem ahipossuficiência do requerente,ou, constatando a presença de elementossuficientes a comprovar referidahipossuficiência, concedê-la.Nesse sentido: AgInt no AREsp 854.626/MS, DJe de30/08/2016 e AgRgnoAREsp 850.977/MS, DJe de 03/05/2016.
+Na hipótese dos autos, o acórdão recorrido está fundamentado nos seguintes termos quanto ao tema:
+"A r. decisão agravada, como se vê, denegou a gratuidade processual pelo fato de que a parte, diversamente do quanto afirmado, não demonstrou a ausência de condições econômicas para o pagamento das custas processuais, mas, sim, o recebimento de valores que,além de expressivos, indicam a possibilidade de a parte arcar com as custas inerentes ao presente feito.
+Aliás,o r. "decisum" se manifestou expressamente sobre as dívidas e despesas comprovadas nos autos pela parte agravante, tendo concluído, por sua vez, que tais fatos não induzem automática concessão do benefício, na medida em que, repisa-se, os créditos recebidos pela parte são incondizentes com a hipossuficiência alegada, não sendo viável, por isso, eximir a parte do pagamento das custasprocessuais. Por fim, verifica-se que a presente insurgência recursal tece apenas alegações genéricas de que o coagravante Bonifácio seria o provedor de sua família (fls.09), sendo certo, por outro lado, que nada esclarece a respeito da coagravante Maria, a qual, como consignado na r. decisão agravada, não trouxe documentos hábeis acerca de sua situação financeira, razão pela qual, também por esse motivo, a gratuidade pleiteada foi corretamente indeferida aos recorrentes." (e-STJ, fls. 1.059/1.060)
+Assim, analisar se foram preenchidos, na origem, os requisitosnecessáriosà concessão do benefício da justiça gratuita, exige o reexamede fatos eprovas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 ou 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932,IIIe IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do agravopara NEGAR PROVIMENTO aorecurso especial.
+Previno as partes que a interposição de recurso contra esta decisão,sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar na condenação às penalidades fixadas nos arts. 1.021,§4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DE TERCEIRO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HIPOSSUFICIÊNCIA. COMPROVAÇÃO.REEXAME DE FATOS EPROVAS.INADMISSIBILIDADE. SÚMULA7/STJ.DISSÍDIO NÃO COMPROVADO. AUSÊNCIA DESIMILITUDE FÁTICA. DISSÍDIO PREJUDICADO.
+1. Embargos à execução. Embargos de terceiro.
+2.Analisar se foram preenchidos, na origem, os requisitosnecessáriosàconcessão do benefício da justiça gratuita,exige o reexamede fatoseprovas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejoanalítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência daSúmula7/STJ acerca dos temas que se supõe divergentes impedem o conhecimento da insurgência veiculada pela alínea"c" do art. 105, III, da Constituição da República.
+5.Agravo conhecido. Recurso especialnão conhecido.
