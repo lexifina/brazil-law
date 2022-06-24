@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA SOLANGE PETRAScontra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+COMPROMISSO DE VENDA E COMPRA - Ação de rescisão contratual c.c. restituição do bem imóvel e devolução de valores pagos e indenização por danos morais, proposta por adquirente de imóvel - Sentença de parcial procedência - Inconformismo apenas da vendedora, aduzindo impossibilidade de resolução contratual em razão de impossibilidade jurídica no cumprimento da decisão, insurgindo-se quanto ao laudo produzido unilateralmente, desconhecimento da existência de vício redibitório e ônus sucumbencial - Rejeição - Sentença parcial de mérito proferida pela Justiça Federal excluindo a CEF do polo passivo - Prova técnica trazida pela autora, não infirmada tecnicamente pela ré, que não demonstrou interesse em produzir outra - Vício redibitório verificado - Hipótese, contudo, que a devolução do valor devido deve ser condicionada à prévia solução da dívida fiduciária, de forma a não expor a risco o domínio da alienante sobre o bem - Apelo parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 182 do CC e 98, § 3º, do CPC de 2015.
+Alega, em síntese, que, "considerando o princípio da efetividade processual, a forma adequada para o deslinde do feito é atribuir às partes o dever de restituir as coisas ao status quo ante, com a devolução dos valores e do imóvel,  .. ".
+Por outro lado, afirma que, "ao fixar honorários de sucumbência em desfavor da recorrente, deixou de mencionar os benefícios da justiça gratuita deferido às fls. 82-83, que não foi revogado".
+É o relatório.DECIDO.
+2. As matérias referentes aos artigos 182 do CC e 98, § 3º, do CPC de 2015 não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Ante o exposto, nego provimento ao agravo de MARIA SOLANGE PETRAS.
+Publique-se. Intimem-se.
