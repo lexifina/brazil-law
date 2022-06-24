@@ -1,0 +1,21 @@
+DECISÃO
+1. Cuida-se de agravo interposto por DALVA RIZZO DE GOUVEIA e OUTRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+LOCAÇÃO DE IMÓVEL - EMBARGOS À EXECUÇÃO PARCIALMENTE PROCEDENTES - PESSOA JURÍDICA QUE NÃO COMPROVOU A IMPOSSIBILIDADE DE SATISFAÇÃO DAS DESPESAS DO PROCESSO - INDEFERIMENTO DA GRATUIDADE - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - EXISTÊNCIA DOS PRESSUPOSTOS NECESSÁRIOS PARA A AÇÃO EXECUTIVA - EXIGIBILIDADE DO CONTRATO - EXCESSO NA EXECUÇÃO NÃO CONFIGURADO - LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA - APELAÇÃO DOS EMBARGANTES NÃO PROVIDA - APELAÇÃO DA EMBARGADA PARCIALMENTE PROVIDA
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 319, 320 e 940, do CC; 917, § 2º, inciso I, do CPC de 2015.
+Alegam, em síntese, que "o embargado, ora recorrido, estava demandando por valores já pagos pelos recorrentes e o recorrido tinha ciência de tal fato, o que configura excesso de execução".
+E continuam:
+Os recorrentes demonstraram, por meio de prova documental que houve excesso de execução, inclusive reconhecimento, em ambas as instâncias do pagamento dos aluguéis de novembro de 2017, janeiro e fevereiro de 2018.
+Ou seja, a execução foi proposta em face dos recorrentes em valor muito superior à dívida real, o que nos termos do artigo 917, §2º, I, configura excesso à execução. A execução foi proposta com valor de R$ 157.621,16, quando deveria ser R$ 97.750,36.
+Sendo certo que um dos requisitos do título executivo é a certeza, a constatação de excesso à execução retira este requisito do título executivo,  .. .
+Defendem o cabimento da devolução em dobro dos valores já pagos.
+É o relatório.DECIDO.
+2. Em relação aos artigos 319 e 320,do CPC de 2015, a alegação genérica de violação à lei federal, sem indicar em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+3. Por outro lado, amatériareferenteaoartigo 940do CC não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. No mais, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem não reconheceu o alegado excesso de execução.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+5.Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+6. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
