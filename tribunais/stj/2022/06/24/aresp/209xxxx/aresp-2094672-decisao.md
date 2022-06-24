@@ -1,0 +1,28 @@
+DECISÃO
+ADMINISTRATIVO. SERVIDORAPÚBLICAFEDERAL.ADESÃO AO PLANO DE DEMISSÃO VOLUNTÁRIA - PDV. RETORNO AO MESMO CARGO PORCONCURSO. DISPOSITIVOS INDICADOS SEM COMANDO NORMATIVO PARA REVERTER O JULGADO. SÚMULA284/STF. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283/STF. DISSÍDIO PREJUDICADO.AGRAVO EM RECURSO ESPECIAL DA SERVIDORA CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto por ROSÁLIA POMAR CAMARGO, com fundamento no art. 105, inciso III, alíneasa e c, da CF/1988, no qual se insurgiracontra acórdão proferido pelo TRF da 4ª Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. PLANO DE DEMISSÃO VOLUNTÁRIA. POSSE EM NOVO CARGO. ENQUADRAMENTO. LEI Nº 11.091/2005. CÔMPUTO DO TEMPO ANTERIOR.
+1. Nos termos do artigo 9º da Lei nº 11.091/2005, o ingresso em cargo público integrante do Plano de Carreira far-se-á no padrão inicial do 1º (primeiro) nível de capacitação do respectivo nível de classificação, observadas a escolaridade e a experiência estabelecidas em seu Anexo II.
+2. A movimentação na carreira pela progressão funcional visa a estimular o servidor a se tornar mais eficiente no serviço público, eficiência aferível mediante avaliação funcional, sendo inviável o cômputo de tempo de serviço exercido em cargo anterior.
+3. Consoante o artigo 14 da Medida Provisória n.º 1.917/99 (que se manteve nas reedições posteriores até a Medida Provisória n.º 2.174-28, de 24de agosto de 2001), é expressamente vedada a reutilização de tempo de serviço considerado, para fins de apuração de indenização pelo desligamento(plano de demissão voluntária), na hipótese de nova vinculação à Administração Pública federal.
+2. Não foram opostos embargos de declaração.
+3. Nas razões do seu recurso especial (fls. 332/341), a parte agravante sustenta, além de dissídio jurisprudencial, violação dos arts. 15 da Lei 11.091/2005 e 100 da Lei 8.112/1990. Afirma ter direito a que sejaconsiderado o tempo de serviço prestado e os cursos realizados antes de sua adesão ao PDVpara fins de enquadramento no Plano de Carreira PCCTAE.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 346/349).
+5. Sobreveio o juízo de admissibilidade negativo (fls. 352/357) fundado nasSúmulas 211 e83/STJ.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8.Não é possível conhecer do recurso especial, pois os dispositivos legais apontados como malferidos nãocontêm comando normativocapaz de infirmar os fundamentos do acórdão atacado, o que atrai a aplicação da Súmula 284/STF.
+9. Ademais, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre o cerne da insurgência:
+À vista de tais prescrições normativas, é irretocável o posicionamento adotado pelo juízo a quo, uma vez que:
+(1) ao pedir sua exoneração em face de Programa de Demissão Voluntária em 1999, a servidora se desvinculou do cargo anterior ocupado, passando, ao tomar posse e entrar em exercício no novo cargo, a ter nova situação funcional de início de carreira. Em outras palavras, ao tomar posse em outro cargo junto à UFRGS, ainda que com idêntica denominação e atribuições do anteriormente ocupado, a autora deve sujeitar-se às exigências decorrentes da nova assunção;
+(2) a regular progressão funcional obtida no primeiro cargo não é transferível automaticamente para o segundo cargo que a servidora optou por exercer, porquanto deve ser observar a fase inicial da carreira e os requisitos legais para a progressão funcional;
+(3) a nova investidura em cargo público deu-se mediante provimento originário, pelo que o reenquadramento solicitado não encontra respaldo legal para surtir os efeitos ideados;
+(4) a autora se encontrava desligada da Universidade no momento da publicação da Lei nº 11.091/05, não fazendo jus a enquadramento, nos moldes previstos no art. 15 do mesmo diploma legal, e
+(5) nos termos do art. 14, da MP de nº 1.917/99 (que se manteve durante as reedições posteriores até a Medida Provisória nº2.174-28, de 24 deAgosto de 2001), restou expressamente vedada a reutilização, na hipótese de novo ingresso na administração pública federal, do tempo de serviço considerado para a apuração da indenização pelo desligamento.
+(..)
+Outrossim, é da exegese da norma (artigo 14 da Medida Provisória. nº 2.092-25/2001), inclusive mediante interpretação literal, que o tempo de serviço prestado pelo servidor, que serviu de base para o cômputo do valor indenizado no plano de demissão voluntária - PDV, não poderá ser reutilizado para nenhum outro benefício com fundamento no tempo de serviço (adicional).
+10. Observo que o recurso especial não combateu fundamento suficiente do aresto recorrido. Do confronto entre a fundamentação do acórdão objurgado e a argumentação do recurso especial, nota-se que a parte recorrente deixou de impugnar a aplicação literal do art. 14 da MP 2.092-25/2001.
+11. As razões da irresignação da parte recorrente não foram aptas a atacar o fundamento do acórdão recorrido, o qual é suficiente, por si só, à manutenção do julgado. Inafastável, assim, a incidência da Súmula 283/STF, por analogia, segundo a qual é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+12. Por fim, épacífico o entendimento desta Corte Superior de que os mesmosóbicesimpostos à admissão dorecursopela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação dodissídiojurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+13. Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+14. Publique-se. Intimações necessárias.
