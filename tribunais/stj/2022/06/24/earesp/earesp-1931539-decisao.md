@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência interpostos por NILSON GOMES RODRIGUESem face do acórdão da Quarta Turma do Superior Tribunal de Justiça, da relatoria do Ministro AntônioCarlos Ferreira, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO DE SENTENÇA COLETIVA. TERMO INICIAL DOS JUROS REMUNERATÓRIOS. INCOMPETÊNCIA DESTA RELATORIA. PRECLUSÃO. RECURSO ESPECIAL REPETITIVO. RECURSO INADMISSÍVEL. SOBRESTAMENTO DO ESPECIAL NA ORIGEM. DESCABIMENTO. DECISÃO MANTIDA.
+1. "Esta Corte Superior possui o entendimento segundo o qual as normas do Regimento Interno que conferem atribuição aos seus órgãos fracionários tratam de competência relativa, e, portanto, prorrogável, razão pela qual eventual questionamento a esse respeito deve ser suscitado antes do julgamento (logo após a distribuição do feito), sob pena de preclusão"(AgInt no AREsp n. 1.720.732/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/6/2021, DJe 1º/7/2021).
+2. Conforme a jurisprudência do STJ, "não há falar em sobrestamento do recurso, por força de suspensão determinada em decisão de afetação de tema para julgamento sob o rito dos recursos repetitivos, quando não ultrapassado o seu conhecimento" (EDcl no AgInt no AREsp n. 1.673.692/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/6/2021, DJe 30/6/2021), essa exatamente é a situação dos autos.
+3. Agravo interno a que se nega provimento. (e-STJ, fl. 388)
+O embargante insurge-se contra o acórdão embargado em razão da divergência com o julgado proferido no EDcl no RESP 1.871.066/RS, proferido pela Terceira Turma.Defende quea matéria versada no apelo -termo final de incidência dos juros remuneratórios -foi afetada pela Segunda Seção ao rito dos recursos repetitivos (Tema 1.101 do STJ), sendoaplicável ao caso a determinação de suspensão contida no artigo 256-L do RISTJ.Assim, requer o conhecimento e provimento dos embargos de divergência para fazer prevalecer o entendimento adotado no acórdão paradigma.
+É o relatório.
+Decido.
+Os embargos de divergência são manifestamente inadmissíveis.
+Os embargos de divergência devem ser indeferidos, já que não foram atendidos os requisitos necessários à demonstração da divergência alegada, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do Regimento Interno do STJ (com a redação dada pela emenda regimental 22/2016).
+Percebe-se que carecem, os presentes embargos, do indispensável cotejo analítico e da imprescindível demonstração da similitude fática entre o acórdão embargado e os julgados apontados como paradigmas.
+Isso porque o acórdão embargado decidiu que "não há falar em sobrestamento do recurso, por força de suspensão determinada em decisão de afetação de tema para julgamento sob o rito dos recursos repetitivos, quando não ultrapassado o seu conhecimento" (e-STJ, fl. 388).
+Já o acórdão paradigma trata da possibilidade de suspensão dos autos, em virtude daafetação para revisão doTema 677/STJ ter ocorrido em momento anterior ao julgamento do agravo interno eexistiadeterminação de suspensão dos processos com idêntica controvérsia.
+Ademais, o embargante defende a suspensão pela suposta incidência do Tema 1.101/STJ, contudo, o acórdão paradigma indicado por ele, cuida da suspensão devida à revisão do Tema 677/STJ, temas que retratam matérias distintas.
+Portanto, dado que asituaçãoconcretaapresentada édistinta, porque tratade situaçãoque diversa, ausente a similitude fática entre as hipóteses, especialmente em face das peculiaridadesexistentes em cadacaso.
+Além disso, nota-senão ter a parte embargante demonstrado que os elementos fáticos analisados naqueles casos se assemelham aos que se verificam na espécie, o que basta para obstar o conhecimento do recurso.
+Nesse sentido: AgInt nos EREsp 1.448.317/CE (Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 20/10/2020, DJe 23/10/2020) e AgInt nos EDcl nos EAREsp 1.491.060/SP (Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 13/10/2020, DJe 20/10/2020).
+Ressalta-se, por fim, que "a divergência que enseja a oposição dos embargos - via recursal destinada a espancar possível dissídio no âmbito desta Corte Superior, cuja principal função, afinal, é justamente a uniformização da interpretação do direito federal infraconstitucional -, é aquela estabelecida em hipóteses análogas, vale dizer: deve-se demonstrar que, diante de situações fático-processuais semelhantes, as soluções jurídicas dadas não foram as mesmas" (v.g.: AgRg nos EDcl nos EREsp 1.449.212/RN, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 18/11/2015, DJe 16/12/2015).
+Ante o exposto, com fundamento no art. 266 - C do Regimento Interno desta Corte, indefiro os embargos de divergência.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO NÃO DEMONSTRADO NOS MOLDES DOS ARTS. 1.043, § 4º, DO CPC/2015 e 266, § 4º, DO RISTJ.
+EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
