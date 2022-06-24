@@ -1,0 +1,45 @@
+DECISÃO
+Tratam-se de embargos declaratórios opostos por IPE AMARELO EMPREENDIMENTOS IMOBILIARIOS S/A, contra decisão (e-STJ, fls 468/471), que deu provimento ao recurso interposto por ITAÚ UNIBANCO S.A.
+Em suas razões, a embargante afirma que não houve análise acerca do agravo em recurso especial interposto às fls. 404/422.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Tem-se que, de fato,não houve a análise do agravo em recurso especial interposto pela ora embargante, de modo que a irresignação merece prosperar, sendo acolhidos os embargos.
+Passo à análise do referido recurso.
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea"a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+" DIREITO CIVIL. APELAÇÃO CÍVEL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL COMERCIAL. GRAVAME. HIPOTECA EM FAVOR DO BANCO. GARANTIA IMOBILIÁRIA. QUITAÇÃO INTEGRAL DO PREÇO. PRETENSÃO DE ESCRITURA DEFINITIVA INVIABILIZADA. SUMULA 308 STJ. APLICABILIDADE. SENTENÇA MANTIDA. REDUÇÃO DOS HONRÁRIOS ADOVOCATÍCIOS PELA METADE. §4º DO ART. 90 DO CPC. AUSÊNCIA DE REQUISITOS.
+1. A Súmula 308 do STJ, segundo a qual "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel", é plenamente aplicável à hipótese em que o promitente comprador adimpliu todas as obrigações com a construtora, inclusive no caso de imóveis comerciais, na medida em que a súmula 308 do STJ não faz distinção entre imóvel residencial e imóvel comercial.
+2. Compete ao credor hipotecário, assim como à construtora, o cumprimento da obrigação de fazer, consistente em realizar a baixa da hipoteca, razão pela qual ambos devem sofrer os ônus de sucumbência, por não terem realizado tal desiderato.
+3. Constatado que a ré não procedeu à baixa no gravame e o feito foi julgado procedente com fundamento do art. 487, I, CPC, impossibilitada está a aplicação da redução dos honorários advocatícios na forma do §4º do art. 90 do CPC/2015.
+4. Recursos conhecidos e desprovidos." (e-STJ, fls. 240/241)
+Opostos embargos de declaração, os mesmos foram desprovidos (e-STJ, fls. 279/297).
+Em suas razões recursais, a agravante aponta violação aos arts. 90, §4º, 497 do Código de Processo Civil de 2015 e254, alínea "a" da Lei nº 6.015/73, sustentando, em síntese (a) que é necessária adoção de resultado prático equivalente nos casos de impossibilidade de a construtora promover a baixa no gravame hipotecário, como o encaminhamento de ofício ao cartório de registro de imóveis, considerandoque a baixa no gravame compete a instituição financeira e (b) que é necessária redução dos honorários advocatícios arbitrados em razão do reconhecimento da procedência do pedido.
+Foram apresentadas contrarrazões às fls. 367/377.
+É o relatório. Passo a decidir.
+Com relação a suposta violação aos arts.497 do CPC/15 e254 da Lei 6.015/73,tem-se que estes não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foramobjeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Ademais,a Corte de origem afirmou que a agravante se obrigou contratualmente a proceder baixa no gravame do imóvel,in verbis:
+"Contudo, por disposição contratual expressa (cláusula 4.2), a ré se obrigou a proceder a baixa no gravame do imóvel que vendeu para os autores, de forma que não há como se afastar a obrigação que assumiu por livre vontade. Ademais, os autores mantêm relação jurídica apenas com a ré, que, por ter firmado a hipoteca, detém a responsabilidade em promover a baixa do referido ônus que recai sobre o imóvel quitado. Não obstante a Súmula 308 do Superior Tribunal de Justiça estabeleça que a hipoteca firmada entre a construtora e o agente financeiro não tem eficácia perante os adquirentes do imóvel, é obrigação da construtora retirar o gravame no prazo ajustado contratualmente" (e-STJ, fl. 246)
+O fundamento de que a baixa do gravame decorre de obrigação contratualnão foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Com relação a suposta violação ao art. 90, §4º do CPC/15, tem-se que o TJDFT afirmou que os honorários não devem ser reduzidos pois não houve o reconhecimento de forma expressa do pedido inicial nem o cumprimento da prestação determinada por sentença,in verbis:
+"Do excerto colacionado, denota-se que é condição para a redução dos honorários advocatícios pela metade o cumprimento da prestação reconhecida. No caso dos autos, a ré não procedeu à baixa no gravame e não reconheceu de forma expressa o pedido inicial, tanto o é que o Juízo de origem julgou o feito procedente com fundamento no art. 487, I, CPC, de sorte que não há ensejo para a aplicação da redução dos honorários advocatícios na forma do §4º do art. 90 do CPC/2015. (e-STJ, fl. 247)
+Nesse ponto, a decisão está em conformidade com o entendimento desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL. HONORÁRIOS. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL NÃO EMBARGADA. SUMULA 345/STJ. INCIDÊNCIA. ART. 90, § 4º, DO CPC/2015. APLICAÇÃO. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. De acordo com o enunciado da Súmula 345 do STJ, "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+3.. O art. 90, § 4º, do CPC/2015 insere, em nosso ordenamento jurídico, medida de estímulo à solução célere e efetiva das demandas judiciais, beneficiando o réu com a redução da verba honorária pela metade, sempre que reconheça a procedência do pedido e cumpra integralmente a obrigação, o que não é a hipótese dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.667.678/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/4/2021, DJe de 5/5/2021.)
+Diante do exposto, acolho os embargos declaratórios com efeitos infringentes para, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conhecer do agravointerposto às fls. 404/422 para negar provimento ao recurso especial.Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 12% sobre o valor atualizado da causa.
+Publique-se.
