@@ -1,0 +1,40 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CASO EM QUE O TRIBUNAL DE ORIGEM NÃO ACOLHEU A ALEGADA PRESCRIÇÃO INTERCORRENTE EM VIRTUDE DA EXISTÊNCIA DE EMBARGOS DO DEVEDOR RECEBIDOS COM EFEITO SUSPENSIVO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto por WALDEMAR PRIMO PINOTTI & CIA.LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurgira contra acórdão proferido pelo TRF da 3ª Região,assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. OCORRÊNCIA. ART. 40 DA LEI DAS EXECUÇÕES FISCAIS. AGRAVO INTERNO PREJUDICADO. RECURSO NÃO PROVIDO.
+- Nos termos do artigo 40 da lei nº 6.830/80 e da Súmula 314/STJ, em sede de execução fiscal, a prescrição intercorrente pode ser reconhecida após o transcurso do prazo de 5(cinco) anos a contar do arquivamento provisório do feito, o qual ocorre após o transcurso do prazo de 1 ano de suspensão da execução. Precedentes.
+- Por sua vez, o C. Superior Tribunal de Justiça já definiu que não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente, sendo desnecessária a intimação da Fazenda da decisão que suspende ou arquiva o feito, arquivamento este que é automático, incidindo, na espécie, a Súmula 314/STJ.
+- No caso, constata-se que não houve determinação de suspensão da execução nos termos do art. 40 da Lei n. 6.830/80.
+- Todavia, o feito originário encontra-se suspenso em razão do recebimento dos embargos à execução no efeito suspensivo. Assim, enquanto não julgados referidos embargos, não há o transcurso do lapso temporal invocado, vez que a União está impedida de dar seguimento à execução do título executivo.
+- Portanto, dever ser mantida a decisão agravada para reconhecer a inocorrência de prescrição intercorrente.
+- Agravo interno prejudicado e agravo de instrumento não provido(fls. 158/159).
+2. Os embargos de declaração opostos foram rejeitados (fls. 198/203).
+3. Nasrazões do seurecurso especial (fls. 218/230), a parte agravante sustenta violação do art. 1.022, II, do CPC/2015 ao argumento de que o Tribunal de origem não se manifestou sobre o fato de que os embargos à execução não poderiam ficar suspensos por duas décadas em razão da ilegalidade dossucessivos pedidos de suspensão por parte do ente público.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 240/244).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 245/250),fundado na incidência da Súmula 7/STJ, razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9. Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência(fls. 208/209):
+De qualquer sorte, acerca dos pontos específicos da irresignação do recurso, verifica-se que não houve omissão a respeito da inocorrência de prescrição.
+Confira-se:
+(..)
+No caso, constata-se que não houve determinação de suspensão da execução nos termos do art. 40 da Lei n. 6.830/80.
+Todavia, o feito originário encontra-se suspenso em razão do recebimento dos embargos à execução no efeito suspensivo. Assim, enquanto não julgados referidos embargos, não há o transcurso do lapso temporal invocado, vez que a União está impedida de dar seguimento à execução do título executivo.
+Portanto, dever ser mantida a decisão agravada para reconhecer a inocorrência de prescrição intercorrente(..)".
+Assim, o v. Acórdão foi explícito quanto ao fato de que o recebimento dos embargos à execução no efeito suspensivo é circunstância impeditiva do prosseguimento da execução por parte da exequente.
+Não obstante o embargante alegue que a exequente está requerendo, nos autos dos embargos à execução, a suspensão da referida ação para aguardar o julgamento de outro feito, não traz aos autos qualquer prova no sentido de que as ações da embargada violam os direitos e deveres das partes no âmbito do processo civil.
+Ademais, desconstituir os fundamentos da decisão embargada implicaria, in, em inevitável reexame da matéria, incompatível com a natureza dos embargos declaratórios;
+É preciso, portanto, ressaltar que o v. acórdão embargado abordou todas as questões apontadas pela embargante, inexistindo nele, pois, qualquer contradição, obscuridade ou omissão.
+10. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+11. Observa-se da fundamentação do acórdão que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário ao da pretensão da parte.
+12. Gize-se que o julgador não fica obrigado a examinar todos os artigos de lei invocados no recurso, muito menos a rebater um a um os argumentos das partes, desde que decida a matéria questionada com fundamento suficiente para amparar a sua conclusão, sendo despicienda a análise de fatos e fundamentos jurídicos que, para o órgão julgador, sejam irrelevantes ou superados pelas razões de decidir. Nesse sentido: REsp 868.242/RN, relatora Ministra ELIANA CALMON, DJe 12/06/2008.
+13. Ademais, quanto à ilegalidade dos pedidos de suspensão dos embargos à execução, o acórdão recorrido afirmounão existir provas de que as ações da embargada violariam os direitos e deveres das partes no âmbito processual, de modo que a alteração do julgado ensejaria, necessariamente, a incursão no acervo fático-probatório dos autos, providência vedada no recurso especial ante o óbice da Súmula 7/STJ.
+14. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. 2. REVOGAÇÃO DA DECISÃO QUE DEFERIU O CANCELAMENTO DO PASSAPORTE. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A adoção de meios executivos atípicos é cabível desde que, verificando-se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade.
+3. Para reverter a conclusão do Tribunal estadual de que as medidas requeridas não são capazes de garantir a satisfação imediata do crédito, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que esbarra na Súmula n. 7 desta Corte, a obstar a análise do recurso especial.
+4. Agravo interno improvido.(AgInt no AREsp n. 1.998.605/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+15. Diante do exposto, conhece-se do agravo para se negar provimento ao recurso especial da contribuinte.
+16.Publique-se. Intimações necessárias.
