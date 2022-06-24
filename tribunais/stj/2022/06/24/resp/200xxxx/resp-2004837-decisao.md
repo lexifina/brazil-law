@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Telespazio Brasil S/A, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão doTribunal de Justiça do Paraná assim ementado (e-STJ, fl. 108):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA -DECISÃO QUE ADMITE SEGURO-GARANTIA E IMPÕE A PRESTAÇÃO DE CAUÇÃO, PELA EXEQUENTE, PARA O PROSSEGUIMENTO DOS ATOS EXECUTIVOS - INSURGÊNCIA DA EXEQUENTE - ACOLHIMENTO - DESNECESSIDADE DE CAUÇÃO PARA PROSSEGUIMENTO DOS ATOS EXECUTIVOS - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA A QUE NÃO SE CONFERIU EFEITO SUSPENSIVO E QUE JÁ FOI JULGADA NA INSTÂNCIA ORIGINÁRIA - AUSÊNCIA DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO À EXECUÇÃO POR QUALQUER OUTRA DECISÃO - NÃO ALEGAÇÃO OU DEMONSTRAÇÃO DE PREJUÍZO, PELA EXECUTADA, EM DECORRÊNCIA DO BLOQUEIO DE ATIVOS FINANCEIROS - ESTÁGIO AVANÇADO DA EXECUÇÃO - FASE EM QUE A LIQUIDEZ E A CELERIDADE NA EXPROPRIAÇÃO SÃO RELEVANTES PARA A SATISFAÇÃO DO CRÉDITO DA EXEQUENTE - SEGURO-GARANTIA QUE NÃO AUTORIZA O DESBLOQUEIO DOS ATIVOS FINANCEIROS LOCALIZADOS VIA BACENJUD - APÓLICE QUE CONDICIONA O PAGAMENTO AO TRÂNSITO EM JULGADO - INTENSA BELIGERÂNCIA ENTRE AS PARTES - NECESSIDADE DE OBSERVÂNCIA ÀS CIRCUNSTÂNCIAS DO CASO CONCRETO - POSSIBILIDADE DE CONVERSÃO DO BLOQUEIO DE ATIVOS FINANCEIROS EM PENHORA - DECISÃO REFORMADA - RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 181-189).
+A recorrenteindicoua violação dos arts.489, II, e §1º, IV, 1.022, IIe 835, § 2ºdo CPC/2015(e-STJ, fls. 196-210).
+Sustentou, em suma,que, mesmo após ter sido provocado com a oposição de embargos de declaração, o Tribunal estadual manteve-se inerte quanto à análise das questões que lhe foram submetidas.
+Assim, conforme alegou,o acórdão recorrido distanciou-se da finalidade da norma, que é eliminar omissões porventura existentes nos julgados, tornando completa a prestação jurisdicional, que entendemter sido deficiente.
+Foram apresentadas contrarrazões (e-STJ, fls.220-236).
+O recurso especial foi admitido pela Corte local (e-STJ, fls. 238-239).
+Brevemente relatado, decido.
+A irresignação merece acolhida.
+Haten do Brasil Soluções Tecnológicas e outro interpuseram agravo de instrumento contra decisão que admitiu a oferta de seguro-garantia judicial para complementação da penhora; suspendeua inscrição do nome da devedora (ora recorrente) nos cadastros restritivos de crédito; e, ainda, determinoua prestação de caução para prosseguimento da execução
+O agravo foi provido, seguindo-se aoposição de embargos de declaração, que foram rejeitados.
+Neste recurso especial, aora recorrenteaduziu, em suma, que a Câmara julgadora não se expressou sobre aalegação de perda de objeto do agravo de instrumento, quanto àconversão da penhora em bloqueio, transferência de ativos para conta judicial e limitação do seguro ao valor que não estivesse assegurado por tais ativos, isso em decorrência deposterior suspensão, pelo Juízo de primeiro grau, da ordem de Sisbajud, de modo que o valor sequer teria sido, de fato, bloqueado.
+A leitura do acórdão recorrido - do agravo de instrumento, integradopelo dosembargos de declaração - revelou que nada foi referido quanto ao questionamento da recorrente.
+Portanto, adespeito da relevância para o deslinde da controvérsia, o Tribunal local, ao julgar os embargos de declaração, apenas reafirmouos fundamentos adotados no aresto embargado, sem, todavia, se pronunciar, fundamentadamente, acerca da questão apontada,incorrendo em negativa de prestação jurisdicional.
+Apresenta-se, pois,imprescindível o enfrentamento dos argumentos suscitadospelorecorrente.
+Como se pode constatar, sem tais esclarecimentos, mostra-se inviável o enfrentamento das questões meritórias por esta Corte de Justiça, o que corrobora a conclusão de ocorrência de negativa de prestação jurisdicional, ora reconhecida.
+Nesse sentido, manifesta-se a jurisprudência do Superior Tribunal de Justiça:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE.
+CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. ESPECIFICIDADES. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alterar a conclusão do julgado.
+2. Constatada a existência de omissões não sanadas no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do artigo 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3 . Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno.
+(EDcl no AgInt no AREsp 1637994/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/03/2021, DJe 07/04/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. USO NÃO AUTORIZADO DA MARCA "RÁDIO TUPI". RECURSO ESPECIAL FUNDADO EM OFENSA AO ART. 535 DO CPC/1973. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO EM EMBARGOS DE DECLARAÇÃO. AGRAVO IMPROVIDO.
+1. Havendo omissão relevante no acórdão proferido pela Corte de origem quanto às alegações de prescrição da pretensão autoral e de caducidade do registro da marca, é devido o acolhimento da dita ofensa ao art. 535 do CPC de 1973, anulando-se o acórdão proferido em sede de embargos de declaração, a fim de que, em novo julgamento, seja sanado o vício verificado.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 842.021/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/02/2019, DJe 15/03/2019)
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação do art. 489 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA.INSURGÊNCIA DA EXEQUENTE.ACOLHIMENTO.DESNECESSIDADE DE CAUÇÃO PARA PROSSEGUIMENTO DOS ATOS EXECUTIVOS.PERDA DE OBJETO DO AGRAVO DE INSTRUMENTO. QUESTIONAMENTODA EXECUTADA. EMBARGOS DEDECLARAÇÃO. AUSÊNCIA DE MANIFESTAÇÃO SOBRE OTEMA. MATÉRIAARGUIDA. FALTA DE DELIBERAÇÃO. RECONHECIMENTO.RECURSO ESPECIAL PROVIDO.
