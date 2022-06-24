@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por GILVÂNIA ELPIDIO DOS SANTOS contra decisão proferida pela Vice-Presidência do Tribunal de Justiça do Estado do Paranáque negou seguimento ao recurso especial por ela aviado.
+Depreende-se dos autos que a agravante foi condenada, como incursa no art. 155, § 4º, II, do Código Penal, à pena de 5 anos e 10meses de reclusão, no regime inicial semiaberto.
+Foi negado provimento ao recurso de apelação interposto pela defesa. O acórdão está assim ementado (e-STJ fls. 556/557):
+PENAL. PROCESSO PENAL. FURTO MEDIANTE ABUSO DE CONFIANÇA. ART.155, §4º, INCISO II, C/C O ART. 71, CAPUT, TODOS DO CÓDIGO PENAL.SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+1. PRELIMINAR. 1.1. INÉPCIA DA DENÚNCIA. INEXISTÊNCIA DE VICIO.DENÚNCIA EM PERFEITA ADEQUAÇÃO AO ARTIGO 41 DO CÓDIGO DE PROCESSO PENAL. PRELIMINAR REJEITADA. 1.2. PLEITO DE NULIDADE DO LAUDO DE INSANIDADE. PERÍCIA JUDICIAL QUE ANALISOU DE FORMA TÉCNICA A INIMPUTABILIDADE DA ACUSADA. LAUDO EM CONSONÂNCIA COM OS ARTIGOS 159 E 160 DO CÓDIGO DE PROCESSO PENAL. PRELIMINAR REJEITADA.
+2. MÉRÍTO, FURTO MEDIANTE ABUSO DE CONFIANÇA. 2.1. PLEITO DE ABSOLVIÇÃO. ALEGADA INSUFICIÊNCIA DE PROVAS ACERCA DA AUTORIA NO CRIME. TESE NÃO ACOLHIDA. EVIDÊNCIAS DOS AUTOS QUE CONFIRMAM A RÉ COMO AUTORA DO DELITO. COERÊNCIA E CREDIBILIDADE DAS PALAVRAS DA VITIMA. PROVAS SEGURAS E INEQUÍVOCAS DA MATERIALIDADE.CONDENAÇÃO MANTIDA. 2.2. PLEITO DE INIMPUTABILIDADE DA RÉ.AVENTADA SER PORTADORA DE DOENÇA MENTAL. INIMPUTABILIDADE NÃO RECONHECIDA NO LAUDO PERICIAL. RÉ QUE À ÉPOCA DOS FATOS POSSUIA CAPACIDADE DE COMPREENSÃO DE SUA CONDUTA DELITUOSA. TESE AFASTADA. 2.3. AVENTADA MUTA710 LIBELLI. DENÚNCIA NA QUAL ESTÃO DESCRITOS OS FATOS PELOS QUAIS A RÉ FOI CONDENADA. MERA EMENDA770 LIBELLI. INTELIGÊNCIA DO ART. 383, CAPUT, DO CÓDIGO DE PROCESSO PENAL. TESE AFASTADA. CONDENAÇÃO MANTIDA.
+3. PENA. REEXAME. 3.1. "CIRCUNSTÂNCIAS", "CONSEQUÊNCIAS" COMO CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS (ART. 59, DO CP).FUNDAMENTAÇÃO ESCORREITA. MANUTENÇÃO. PENA -BASE FIXADA EM 3 (TRÊS) ANOS E 6 (SEIS) MESES DE RECLUSÃO E 14 (QUATORZE) DIAS MULTA.MANUTENÇÃO. INEXISTÊNCIA DE AGRAVANTES E ATENUANTES (ARTIGOS 61E 65 DO CP) A SEREM RECONHECIDAS. MANUTENÇÃO. INEXISTÊNCIA DE CAUSAS ESPECIAIS DE AUMENTO OU DIMINUIÇÃO DA PENA. MANUTENÇÃO.RECONHECIMENTO DE CRIME CONTINUADO (ART. 71 DO CP) QUE ENSEJA AUMENTO DA PENA EM 2/3 (DOIS TERÇOS). ANÁLISE ESCORREITA DIANTE DA QUANTIDADE DE DELITOS COMETIDOS. PENA DEFINITIVA FIXADA EM 5 (CINCO) ANOS E 10 (DEZ) MESES DE RECLUSÃO E PECUNIÁRIA EM 112 (CENTO E DOZE) DIAS MULTA. MANUTENÇÃO. 3.2. REGIME PRISIONAL SEMIABERTO. INTELIGÊNCIA DO ART. 33, §2º, ALÍNEA "B" DO CÓDIGO PENAL.ANÁLISE ESCORREITA.
+4. REPARACÃO DO DANO MATERIAL (ART. 387. INCISO IV, CPP). REEXAME EX OFFICIO. CRIME COMETIDO ANTES DA VIGÊNCIA DA LEI Nº 11.719/08.IRRETROATIVIDADE DE NORMA DE CUNHO MATERIAL MAIS GRAVE.EXCLUSÃO EX OFFICIO DO VALOR FIXADO PARA REPARAÇÃO DO DANO.RECURSO DESPROVIDO, EXCLUINDO EX OFFICIO O VALOR FIXADO PARA REPARAÇÃO DO DANO.
+Os embargos de declaração que se seguiram foram rejeitados (e-STJ fls. 594/608).
+Foi então interposto recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, no qual se alegou a violação aos arts. 41, 157, 384 e 619 do Código de Processo Penal, e arts. 59, 68e 155, § 4º, do Código Penal.
+Contrarrazões às e-STJ fls. 728/732.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso especial (e-STJ fls. 873/884).
+É, em síntese, o relatório.
+Conforme consignado pelo Parquet, o recurso especial é, ao menos em parte, viável.
+Não obstante, há de se reconhecer que a irresignação perdeu seu objeto em razão do advento da prescrição da pretensão punitiva.
+A pena aplicada à recorrente, descontado o aumento referente à continuidade delitiva, é de 3 anos e 6 meses de reclusão. Assim, nos termos do art. 109, IV, do Código Penal, o prazo prescricional é de 8 anos.
+A sentença foi proferida em 17/7/2012. O acórdão que a confirmou foi prolatado em sessão realizada no dia 10/10/2013 e os embargos subsequentes em 28/11/2013.
+Portanto, necessário reconhecer já ter sido superado o referido prazo.
+Ante o exposto, julgo prejudicado o recurso. Declaro extinta a punibilidade da agravante.
+Publique-se. Intimem-se.
