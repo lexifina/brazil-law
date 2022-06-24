@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo de decisão de inadmissibilidade de recurso especial interposto por CLINICA DE IMAGEM BRUSQUE LTDA,contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. INSURGÊNCIA CONTRA ATO NORMATIVO. ART. 23 DA LEI 12.016/09. RESOLUÇÃO HOMOLOGATÓRIA ANEEL Nº1.857/15. TRATO SUCESSIVO. INOCORRÊNCIA. AJUIZAMENTO APÓS 120 DIAS. DECADÊNCIA.
+1. O fato de mês a mês vir sendo realizado o pagamento com base na alteração promovida pelos atos questionados não tem o condão de transformar a natureza da relação para uma de trato sucessivo, uma vez que o fato que deu origem a nova cobrança surgiu no momento da edição do ato normativo, o qual passou a irradiar os seus efeitos jurídicos imediatamente, deforma única.
+2. Passados mais de 120 dias entre a data da ciência do ato impugnado e a do ajuizamento da ação, reconhece-se a decadência do direito de impetrar mandado de segurança.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação do art. 23 da Lei n. 12.016/2009, insurgindo-se contra o reconhecimento da decadência para impetração do mandado de segurança, sob o argumento de que o ato contra o qual se insurgiu seria de trato continuado, produzindo efeitos ao longo do tempo.
+Foram apresentadas contrarrazões.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo ou, caso conhecido pelo desprovimento do recurso especial.
+É o relatório.
+Passo a decidir.
+A insurgência não prospera.
+Sobre o reconhecimento da decadência, o Tribunal de origem assim se pronunciou (e-STJ, fl. 406/408):
+Nos moldes do art. 23 da Lei do Mandado de Segurança, opera-se a decadência de postular direito líquido e certo do impetrante, quando decorridos mais de 120 (cento e vinte) dias da ciência do ato impugnado.
+Entendo que a sentença merece ser reformada, tendo operado a decadência do direito de impetração do presente mandamus, ressalvada a possibilidade de a demandante se valer das vias ordinárias. Isto porque não se observa a existência de ato coator praticado pela autoridade impetrada, que meramente aplicou a legislação federal vigente na situação descrita nos autos, não incorrendo em qualquer conduta ilegal passível de impugnação por meio da via mandamental.
+O mandado de segurança é remédio constitucional que visa a proteção do impetrante contra autoridade pública que, por meio de ato concreto ilegal ou abusivo, infringiu direito líquido e certo de sua titularidade.
+Esta ação encontra previsão no artigo 5º, LXIX, da Constituição Federal:
+"Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza,garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+ ..
+LXIX - conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;
+A impetrante aponta violação a seu direito líquido e certo em razão da inclusão, por meio de atos normativos infralegais, de finalidades à CDE que não encontram amparo na legislação que rege a matéria, em violação ao artigo 175, parágrafo único, III, da Constituição Federal.
+Verifica-se que a ilegalidade contra a qual se insurge a impetrante não decorre da conduta da autoridade impetrada, mas sim da edição dos decretos em questão pelo Poder Executivo, que acarretou na majoração do valor das tarifas de energia elétrica devidas pela impetrante.
+Tais Decretos constituem-se, portanto, como os atos ilegais impugnados. Nestes termos, não se vislumbra a prática de ato específico, direto e concreto pela autoridade impetrada que resulte em ofensa a direito líquido e certo da impetrante, que insurge-se contra o conteúdo de ato normativo em tese, não sendo admissível que tal impugnação seja realizada por meio de ação mandamental, nos termos da Súmula n.º 266 do Supremo Tribunal Federal:
+"Súmula 266 Não cabe mandado de segurança contra lei em tese."
+Salienta-se, ainda, que tal vedação não se refere apenas à lei em seu sentido formal, mas também proíbe a utilização do mandado de segurança para impugnar atos normativos infralegais, contanto que possuam caráter geral e abstrato, o que se observa em relação aos decretos referidos.
+Nesta senda, frente à inadequação da via eleita para a impugnação de atos normativos em tese, entende-se que a presente demanda carece de interesse processual, fazendo-se necessária a sua extinção sem resolução de mérito, nos moldes do inciso VI do artigo 485 do Código de Processo Civil.
+Assim, resta configurada a decadência do direito do impetrante de impetração do presente writ, em decorrência do término do prazo de 120 (cento e vinte) dias estabelecido pelo artigo 23 da Lei nº 12.016/2019:
+"Art. 23. O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, doato impugnado. "
+Com efeito, tal prazo passa a ser contado a partir da ciência, pelo interessado, dos atos capazes de produzir lesão ao seu direito, quais sejam, no presente caso os Decretos n.º 7.945/2013, 8.203/2014, 8.221/2014 e 8.272/2014.
+A conclusão lógica que extrai, portanto, é de que resta ultrapassado, em muito, o prazo de 120 (cento e vinte) dias para a impugnação dos atos em questão através de mandado de segurança, não havendo que se falar em renovação do prazo pela realização de cobrança mensal da conta de energia elétrica, visto que os fatos que culminaram na majoração das quotas da CDE no ano de 2015 tiveram origem no momento de edição dos decretos.
+Assim, em virtude dos fundamento acima delineados, impõe-se a extinção do feito sem resolução de mérito frente à inadequação da via mandamental para a discussão acerca da ilegalidade ou inconstitucionalidade dos atos normativos questionados pela parte impetrante.
+Não prospera, portanto, a tese de que a lesão a direito líquido e certo é renovada mês a mês, não havendo que se falar em relação de trato sucessivo, porquanto o fato que deu origem à nova cobrança surgiu no momento da edição do ato normativo, o qual passou a irradiar os seus efeitos jurídicos imediatamente.
+O entendimento adotado pela Corte de origem seguiu o posicionamento da jurisprudência desta Corte envolvendo o prazo decadencial do mandado de segurança. Nesse sentido, citam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. REENQUADRAMENTO. ATO ÚNICO DE EFEITOS CONCRETOS. DECADÊNCIA DA IMPETRAÇÃO. AGRAVO INTERNO DOS SERVIDORES DESPROVIDO.
+1. É firme a orientação desta Corte de que o enquadramento funcional é ato único de efeitos permanentes e, portanto, o prazo decadencial para a impetração do Mandado de Segurança se inicia com a publicação do ato de enquadramento. Precedentes: AgInt no RMS 55.820/GO, Rel. Min. FRANCISCO FALCÃO, DJe 27.8.2018 e AgRg no RMS 49.665/BA, Rel. Min. HUMBERTO MARTINS, DJe 19.4.2016.
+2. Agravo Interno dos Servidores desprovido.(AgInt no RMS 51.885/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ATO DE EFEITOS CONCRETOS. DECADÊNCIA DO DIREITO À IMPETRAÇÃO CONFIGURADO.
+1. A jurisprudência do Superior Tribunal de Justiça no sentido de que a contagem do prazo decadencial para impetração da ação mandamental se inicia a partir da ciência, pelo interessado, do ato único concreto de efeitos permanentes.
+2. Considerando que o prazo decadencial não se interrompe, nem tampouco se suspende, o ato indigitado poderia ter sido impugnado por meio de ação mandamental até 30/6/2010. No entanto, a referida ação somente foi impetrada em 17/12/2010, após o interregno de 120 (cento e vinte) dias previsto no art. 23 da Lei n. 12.016/2009.
+3. Agravo interno a que se nega provimento.(AgInt no RMS 37.738/TO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/08/2020, DJe 26/08/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO INATIVO. REVISÃO DE PROVENTOS. REQUERIMENTO NEGADO NA VIA ADMINISTRATIVA. ATO COMISSIVO. DECADÊNCIA. OCORRÊNCIA.
+1. Trata-se, na origem, de mandado de segurança que visa ao reajuste dos proventos de aposentadoriado autor, cujo pedido foi negado na via administrativa em 7.5.2007 e a segurança foi impetrada somente em 12/5/2010, restando evidente, no caso, a decadência da impetração.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que descabe falar em relação de trato sucessivo em hipóteses como a dos autos em que se ataca ato comissivo de efeitos concretos. Precedente: AgInt no REsp 1.354.786/RJ, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 3/8/2017.
+3. Agravo interno não provido.(AgInt no REsp 1548953/AM, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CARTÓRIO. PERDA DA DELEGAÇÃO PELO TITULAR. DESIGNAÇÃO DE INTERVENTOR. ATO ÚNICO DE EFEITOS CONCRETOS. DATA DA PUBLICAÇÃO DA PORTARIA. TERMO A QUO. DECADÊNCIA DO MANDAMUS.
+1. O mandamus insurge-se contra a Portaria nº 05, de 1º de março de 2007, ato único de efeitos concretos, ao designar interventor para responder pela serventia. Nesse momento, a impetrante teve a ciência inequívoca de que a vaga pretendida fora ocupada.
+2. O acórdão proferido pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior de Justiça, firmada no sentido de que o termo a quo para impetração do mandado de segurança é a ciência do ato que se alega ter violado o direito líquido e certo da impetrante. Precedentes.
+3. A Lei Estadual nº 8.935/94 prevê a possibilidade de nomeação de interventor, ao invés do substituto mais antigo, o que afasta o alegado direito líquido e certo à designação pretendida.
+4. Recurso ordinário em mandado de segurança não provido.(RMS 33.807/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 07/02/2012, DJe 16/02/2012)
+Nos termos acima, o recurso especial deve ser desprovido desde logo, em aplicação da Súmula 568/STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema").
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, conheço do agravo para negarprovimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA. INSURGÊNCIA CONTRA DECRETO. ATO ÚNICO DE EFEITOS CONCRETOS. DECADÊNCIA. CONFIGURAÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
