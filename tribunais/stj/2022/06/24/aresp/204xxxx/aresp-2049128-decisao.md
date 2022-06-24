@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DO SOCORRO DE OLIVEIRA LIMA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SERVIÇOS HOSPITALARES. PRONTUÁRIO MÉDICO. INTERNAÇÃO. ANUÊNCIA TÁCITA. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA. 1. No caso em testilha discute-se a legitimidade da cobrança dos serviços hospitalares. 2. A ré sustenta que procurou o nosocômio para realização de consulta médica e sendo indicada internação requereu sua transferência para rede pública de saúde, informando que não foram prestados nenhum serviço. 3. Apesar da alegação da ausência de prestação de serviço, a ré anuiu com sua internação até a efetiva transferência para um hospital público. Em análise ao arcabouço probatório, especialmente o prontuário médico, verifica-se que no período de internação a ré necessitou de atendimento e medicação. Portanto, é devida a cobrança. 4. Caso não tivesse interesse em pagar pelos serviços prestados, não deveria ter concordado com a internação, anuindo tacitamente com o tratamento. 5. Recurso conhecido e provido. Sentença reformada" (e-STJ fl. 211).
+No recurso especial, alega-se violação do art. 104 do Código Civil, ao fundamento de que o negócio jurídico é inválido porque a recorrente não anuiu com a internação ou com a administração de qualquer medicamento, ao contrário, houve recusa expressa de tratamento.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No que concerne à alegada recusa da recorrente em receber o tratamento, o tribunal de origem, à luz da prova dos autos, concluiu que houve concordância tácita, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+Incontroverso nos autos que a apelada procurou o hospital apelante em 15/09/2020 para realização de uma consulta médica e em razão do possível diagnóstico de COVID, foi indicada internação. Contudo, em razão de impossibilidade financeira solicitou a transferência para rede pública que ocorrera apenas em 16/09/2020.
+A apelada sustenta que apenas ficou aguardando a transferência para rede pública não recebendo nenhuma medicação ou atendimento. Destaca, ainda, que realizara o pagamento da consulta e dos serviços utilizados.
+(..)
+Em nenhum momento, a apelada informa qualquer incapacidade, apenas negando a prestação do serviço. Contudo, não parece crível que ciente da necessidade de internação, a apelada tenha permanecido no hospital apenas aguardando a transferência sem nenhum tipo de atendimento. Em minuciosa análise ao prontuário médico (ID 26734197) apesar da informação às 22:30 de que a medicação não fora ministrada em razão de negativa da família. Verifica-se que às 01:40, a apelada apresentou desaturação e foi instalado cateter nasal. Há informação ainda de administração de insulina e outras medicações.
+Fato é que mesmo ciente de que não teria condições financeiras, a apelada anuiu em permanecer internada até sua transferência, não seria possível o hospital negar-lhe atendimento ou em um momento como uma desaturação simplesmente ignorar à saúde da apelada. Não tendo interesse em arcar com a contraprestação financeira, deveria a apelada no momento em que lhe fora indicada a internação procurar a rede pública de saúde.
+Permanecendo internada anuiu tacitamente com o tratamento mesmo que tenha negado algumas medicações. E deve arcar com a contraprestação pecuniária devida" (e-STJ fls. 213/215).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração estabelecida no art. 85, § 11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
