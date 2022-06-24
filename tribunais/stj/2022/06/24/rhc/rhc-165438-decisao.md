@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por JVANER HUMBERTO ALMEIDA CARLOS contra acórdão do Tribunal de Justiça do Estado de Goiás (HC n. 5203453-93.2022.8.09.0079).
+O recorrente teve a prisão em flagrante - ocorrida em 25/3/2022 - convertida em preventiva a pedido do Ministério Público (fl. 53), por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+Sustenta que a decretação da custódia preventivafora feita de formagenérica e sem o preenchimento dos requisitos previstos no art. 312 do Código de Processo Penal, na medida em que baseada tão somente na quantidade de droga apreendida e antecedentes criminais do paciente.
+Aduz ostentar condições pessoais favoráveis ecom seu trabalho assegura a subsistência de sua família.
+Assevera que, no presente caso, a imposição de medidas cautelares mostra-se suficiente,sendo desproporcional a prisão preventiva, destacandoque, em caso de eventual condenação, será fixado regime aberto em razão do possível reconhecimento do tráfico privilegiado.
+Requer a concessão da ordem para que o paciente seja colocado em liberdade, expedindo-sealvará de soltura, se necessário, mediante imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 118-119.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 138-141).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovema necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 87):
+No caso dos autos, em que pese a quantidade de droga apreendida não ser vultosa, verifica-se que, além de duas condenações transitadas em julgado, já arquivadas, encontram-se em desfavor do paciente, em andamento, uma execução penal, uma ação penal e dois TCOs, denotando a possibilidade de reiteração criminosa, demonstrando insuficiência de cautelar diversa.
+Portanto, a necessidade e adequação da prisão preventiva (CPP, art. 282, incs. I e II)está demonstrada para evitar a prática de infrações penais.
+ ..
+No caso dos autos, embora o impetrante alegue que o paciente é possuidor de predicados pessoais, vez que seus registros criminais são antigos, verifica-se que não é sua primeira incursão na seara criminal, vez que consta, em andamento, uma execução penal, uma ação penal e dois TCOs. Ademais, não há comprovação de vínculo laboral, nem de residência, pois o comprovante de endereço encontra-se em nome de terceiro.
+Assim, ainda que estivessem presentes os alegados predicados pessoais, não seriam suficientes a ensejar a revogação da prisão preventiva.
+Confira-se aindaenxerto do mandado de prisão preventiva (fls. 124-127 ):
+Denota-se dos autos que, o acusado foi detido em virtude de ter sob sua posse, duas porções de maconha, sendo uma de 74,707 g (setenta e sete gramas e setecentas e sete miligramas) e a outra de 168,994g (cento e sessenta e oito gramas e novecentos e noventa e quatro miligramas). Além disso, foi localizada a quantia de R$ 20,00 (vinte reais), em dinheiro na posse do conduzido.
+ ..
+NÃO CABIMENTO DO RELAXAMENTO
+Analisando o auto de prisão em flagrante, observo que foram respeitadas as regras legais e constitucionais atinentes à espécie, razão pela qual merece homologação.
+ ..
+Cabe mencionar que, pela vertente dos fatos trazidos a Juízo, com base em elementos extraídos dos autos, a extensa ficha criminal, demonstram risco ao meio social, recomendando-se a sua custódia cautelar especialmente para garantia da ordem pública.
+Diante disso, a manutenção da custódia cautelar, neste caso, se mostra imperiosa, haja vista as circunstâncias que, pelas características expostas, retratam a reincidência do agente no crime de tráfico de drogas, a indicar a necessidade de sua segregação para a garantia da ordem pública e a aplicação da lei penal.
+Assim, colocá-lo em liberdade, representaria risco para a sociedade como um todo.
+ ..
+O caso concreto mostra a necessidade da segregação, a fim de preservar a segurança na aplicação da lei penal e a garantia da ordem pública.
+Os entendimentos acima estão em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020)
+Note-seque a prisão cautelar foi decretada com fundamentação idônea, diante da garantia da ordem pública e da aplicação da lei penal, haja vista a gravidade concreta do fato delitivo e o fato do paciente possuir em seu desfavor duas condenações transitadas em julgado, já arquivadas, bem como, em andamento, uma execução penal, uma ação penal e dois TCOs,inclusive, uma delas pelo mesmo crime,evidenciando sua periculosidade. Entendo, portanto, que a manutenção da custódia preventiva mostra-se necessária, não sendo suficiente ao casoconceder liberdade provisória ou impor quaisquer outra medida cautelar diversa da prisão.
+Outrossim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Além disso, conforme orientação jurisprudencial desta Corte, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ressalta-se ainda quea quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Por fim, acrescente-se que a jurisprudência do STJ firmou-se no sentido de que "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
