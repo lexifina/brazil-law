@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por HERMINDA ISLAS DE ARAÚJO FERRIcom fundamento nas alíneas "a" e "c" do permissivo constitucionalem face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 318):
+"APELAÇÃO REINTEGRAÇÃO DE POSSE Falta de prova, pela autora, de atos possessórios preexistentes Título de propriedade que, por si, não abona a pretensão Sentença de improcedência mantida Recurso desprovido."
+Nas razões do recurso especial, a recorrente, ora agravante, alega, além de dissídio jurisprudencial, violação aos arts. 202, 203, 1.210e 1.244, do CCe 560 e 561, do CPC/2015, sustentado, em síntese, que: a) restou comprovado sua possesobre o imóvelem questão; b) houve interrupção da prescrição para aquisiçãodo imóvel em vários momentos.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls.407/411)
+É o relatório.Passo a decidir.
+Com efeito, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não foram demonstrados os requisitos para acolher o pedido de reintegração de posse. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"No entanto, exame conjunto da prova não abona os argumentos deduzidos. Sabe-se que, em conformidade com o art. 561 do CPC, o autor da possessória deve provar a posse, o esbulho e sua data, dentre outros requisitos, do que não se viu. A respeito, esses fatos devem ficar claramente evidenciados e não é suficiente que a apelante alegue direito à reclamada posse, sendo imprescindível demonstre tê-la exercido regularmente, em data anterior. De notório conhecimento que a posse representa estado de fato, suscetível de comprovação, quando negada pelos réus.
+(..)
+No caso, os elementos não indicaram, de forma concreta, que a autora tenha exercido posse sobre o terreno em causa. De fato, os documentos que acompanharam a petição inicial apenas demonstram o domínio (propriedade sobre o bem), não havendo nenhum indício de que o tenha efetivamente possuído.
+Nesse aspecto, em depoimento pessoal, a autora confessa que a última vez que compareceu pessoalmente no local foi em 2009 e que as demais visitas foram feitas por outras pessoas (primo, de nome Vitor, e amigo do genro, chamado Juan). Vê-se, pois, que, nunca cuidou diretamente do bem. É verdade que o possuidor pode exercer a posse por intermédio de terceira pessoa, mas, para tanto, essa posse deve ser exteriorizada do que não comprovado. Poderia, nesse particular, ter requerido a oitiva de vizinhos, que confirmariam a constante presença dessas pessoas no bem, para dele cuidar. Contudo, nada foi provado nesse sentido. O que se tem são alegações unilaterais de que amigos e parentes cuidavam do terreno, destituídas de prova. Far-se-ia necessário demonstrar que esse cuidado era externado e sabido por todos, mas, sem tal comprovação, não se sabe como a manutenção era realizada (mera passagem de carro pela região, por exemplo, para verificar, brevemente, como estava o bem).
+(..)
+Verifica-se, pois, que a autora não tinha nenhum controle sobre o terreno de sua propriedade, nem conhecimento de seu real estado de conservação, a comprovar que, diretamente ou por intermédio de terceira pessoal, não exercia a posse sobre o bem.
+(..)
+Forçoso convir, nas circunstâncias, que a posse foi devidamente comprovada pelos réus, sendo mansa e pacífica por diversos anos. Nesse aspecto, a despeito de a apelante ser proprietária do bem, nunca o possuiu.
+Difícil entender que mantinha a posse regular sobre o imóvel, se não notou o início das construções entre 2002 e 2007, sem, inclusive, saber precisar onde aquele se localizava. De fato, somente entre 2012 e 2013 é que passou a demonstrar interesse em readquirir a posse perdida.
+(..)
+Embora, nas especiais circunstâncias, não se possa falar em deliberado abandono da posse pela recorrente, o fato é que não comprovado deu ostensividade à posse (como mencionado acima).
+Legítimo, portanto, o decreto de improcedência do pedido, não tendo a autora se desincumbido do encargo constitutivo de seu alegado direito, na forma do artigo 373, I, CPC. Cabe lembrar, também, que a usucapião foi reconhecida em sentença como mera matéria de defesa, sem gerar título registrário, devendo a parte ré ingressar com a ação própria para tanto (fl. 289, 3º §). De toda forma, aquela foi corretamente reconhecida, à vista do art. 183 da Constituição Federal e do contexto dos autos (vide, também, fl. 70), não se verificando nenhuma causa interruptiva da prescrição aquisitiva (os argumentos de fl. 294 não se sustentam, como visto)." (fls.320/326, , grifo nosso)
+Infirmar as conclusões do julgado, como ora postulado, para reconhecerestarem presentes os requisitos autorizadores da reintegração de posse e existência de causa interruptiva da prescrição,demandaria o revolvimento do suporte fático-probatório dos autos, o queencontra óbice na Súmula 7 do Superior Tribunal de Justiça. A propósito,confiram-se:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ALEGAÇÃO DE COMPOSSE E POSSE ATUAL. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISCUSSÃO DE DOMÍNIO NA DEMANDA POSSESSÓRIA. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. PEDIDO DE AFASTAMENTO DOS HONORÁRIOS RECURSAIS. REQUERIMENTO DE REVISÃO DO VALOR DO ENCARGO. DESCABIMENTO. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem, acolhendo a reintegração de posse do imóvel litigioso, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+(..)
+9. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1477295/BA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 05/11/2019 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. COMPROVAÇÃO PELO AGRAVADO DOS PODERES INERENTES À PROPRIEDADE DO IMÓVEL OBJETO DO LITÍGIO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO CABIMENTO AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, rever a conclusão do Tribunal a quo acerca da configuração dos requisitos ensejadores da procedência ou improcedência da tutela possessória demandaria o reexame de provas. Incidência da Súmula 7 do STJ.
+(..)
+4. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1179489/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
