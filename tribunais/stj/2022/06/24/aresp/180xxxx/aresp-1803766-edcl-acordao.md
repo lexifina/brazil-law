@@ -1,0 +1,26 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. NÃO NÃO PROVIMENTO DO RECURSO DE AGRAVO. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. Não se verifica omissão no julgado de agravo regimental, que manteve a decisão agravada, tendo em vista que o agravante limitou-se a reeditar os fundamentos do recurso especial, não trazendo argumentos suficientes para infirmar a decisão impugnada, firmada conforme a orientação jurisprudencial do Superior Tribunal de Justiça, no sentido da incidência, na espécie, da Súmula 7/STJ.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de embargos de declaração opostos contra acórdão assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. ABSOLVIÇÃO, DESCLASSIFICAÇÃO E AFASTAMENTO DE MAJORANTE. REEXAME DE PROVA. SÚMULA N. 7 DO STJ.
+1. Concluindo o Tribunal de origem, soberano na apreciação dos elementos fático-probatórios, pela configuração do delito em questão, não há como, na tese de (eventual) absolvição, operar-se a desclassificação ou afastamento da majorante da privação de liberdade da vítima, o que implicaria o reexame aprofundado da prova dos autos, providência vedada na via especial, a teor da Súmula 7 do STJ.
+2. Agravo regimental improvido.
+Sustenta a defesa que há omissão na decisão, pois, "ao empregar os conceitos negando provimento ao agravo regimental, não se explica de forma contundente os motivos concretos da incidência da súmula que obsta o enfrentamento do mérito do recurso especial do embargante" (fls. 498). Careceria, assim, a decisão, de fundamentos concretos, apenas reproduzindo argumentos da decisão unipessoal anteriormente proferida, vagos e genéricos.
+Afirma que as pretensões de absolvição, de desclassificação e de afastamento do art. 157, § 2º, V, do CP não encerram reexame de elementos fático-probatórios, senão revaloração desses.
+Requer seja sanado o vício apontado, com o reexame da decisão embargada. Impugnação apresentada (fls. 520-522).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  O acórdão embargado encontra-se assim fundamentado:
+Consoante relatado, busca o agravante a absolvição por ausência de dolo específico e, subsidiariamente, argui as teses de desclassificação do crime de roubo para o de cárcere privado e de afastamento da majorante de restrição de liberdade da vítima.
+A decisão agravada, no que importa ao deslinde da controvérsia, foi proferida nos seguintes termos (fl. 473):
+Verifica-se que o Tribunal de origem manteve a condenação do recorrente pelo crime de roubo, bem como afastou os pleitos de desclassificação da conduta e de exclusão da majorante de privação de liberdade da vítima, por concluir que "mesmo tendo liberado a vítima e determinado que esta fosse embora com o veículo, o roubo já estava caracterizado", até mesmo porque "o apelante levou consigo o celular e o dinheiro da vítima, o que, obviamente, demonstra a configuração do delito em comento"; destacando, ainda, que "É certo que não se tem informações necessárias do tempo em que a vítima permaneceu presa no porta-malas do veículo, entretanto, conforme se observa, é evidente que a restrição à liberdade não se limitou ao tempo estritamente necessário à consumação do crime".
+Com efeito, se o Tribunal de origem, soberano na apreciação dos elementos fático-probatórios, concluiu pela configuração do delito em questão, não há como, a fim de absolvição, desclassificação ou afastamento da majorante da privação de liberdade da vítima, rever, na via eleita, tal conclusão, por implicar aprofundado reexame dos autos.
+Como se vê, o agravante limita-se a reeditar os termos do recurso especial na presente peça recursal, razão pela qual é de concluir-se que inexistem elementos suficientes para infirmar a decisão impugnada, que apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça.
+Nenhuma censura merece o decisório agravado, que deve ser mantido pelos seus próprios e jurídicos fundamentos, pelo que nego provimento ao agravo regimental.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em vício no acórdão embargado, que negou provimento ao agravo regimental tendo em vista que o agravante limitou-se a reeditar os fundamentos do recurso especial, não trazendo argumentos suficientes para infirmar a decisão impugnada, firmada conforme a orientação jurisprudencial do Superior Tribunal de Justiça, no sentido da incidência, na espécie, da Súmula 7/STJ, pelo que rejeito os embargos de declaração.
+É o voto.
