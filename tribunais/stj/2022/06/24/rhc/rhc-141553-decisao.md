@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto porRONALDO GOMES SILVAcontra acórdão do Tribunal de Justiça do Estado do Cearáque denegou a ordem no HC n.0638028-48.2020.8.06.0000.
+Nas razões deste recurso, a Defesa alega, em suma, a ausência de fundamentação idônea e dos requisitos legais para a prisão preventiva do Recorrente, decretada nos autos da Ação Penal n. 0234850-56.2020.8.06.0001, em trâmite no Juízo da Vara Única daAuditoria Militar da Comarca de Fortaleza/CE.
+Requer, liminarmente e no mérito, arevogação da custódia cautelar, ainda que mediante a imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal, ou a substituição por prisão domiciliar.
+Em consulta ao andamento processual disponibilizado no site do Tribunal a quo, verifiquei que o Juízo de primeiro grau, nos autos do Relaxamento de Prisão n.0026258-70.2021.8.06.0001, revogou a segregação cautelar do Recorrente, nos seguintes termos (grifos no original):
+" .. Por tudo acima exposto, DEFIRO PARCIALMENTE O PEDIDO, para revogar a preventiva do acusado RONALDO GOMES SILVA, aplicando as seguintes MEDIDAS CAUTELARES: 1) proibição de acesso a qualquer unidade policial militar, salvo se devida e formalmente requisitado (por escrito), ou mediante autorização judicial específica; 2) recolhimento domiciliar noturno (18h - 6h) e nos finais de semana e feriados(integralmente), com monitoração eletrônica; 3) afastamento das funções policiais militares e a proibição de uso de farda e arma de fogo, com recolhimento do fardamento, armamento e de identidade funcional (pode ser expedida outra contendo as restrições, relativo a proibição de uso da arma)."
+Posteriormente, foi revogada a medida cautelar de recolhimento domiciliar com monitoração eletrônica, sendo autorizado "o retorno dos acusados, a critério da administração pública, voltar as suas funções policiais, com impedimento somente para atividades operacionais de policiamento ostensivo, como medida cautelar, nos próximos 90 (noventa) dias".
+Portanto, constata-se a superveniente perda de objeto deste recurso.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, JULGO PREJUDICADO o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem- se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PRISÃO PREVENTIVA REVOGADA PELO JUÍZO DE PRIMEIRO GRAU. IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS. RECURSO PREJUDICADO.
