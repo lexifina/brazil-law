@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao agravo em execução, assim ementado:
+AGRAVO EM EXECUÇÃO PENAL PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. Termo inicial. Trânsito em julgado da sentença condenatória para a acusação. Incidência dos artigos 110, "caput" e § 1º; c.c. 112, I, do Código Penal.
+Precedentes do STJ Existência de acórdão confirmatório da condenação. Tese fixada pelo Plenário do E. STF no julgamento do "habeas corpus" nº 176.473/RR que não se aplica à prescrição da pretensão executória. Precedente desta C. 15ª Câmara de Direito Criminal Agravo ministerial desprovido.
+Sustenta o Ministério Público violação doart. 117, IV, do Código Penal.Aduz que "não há se cogitar de prescrição  intercorrente  da pretensão punitiva (porque o acórdão confirmatório da condenação constitui causa interruptiva da prescrição), tampouco de prescrição da pretensão executória (cujo prazo somente se inicia com o trânsito em julgado para ambas as partes)".
+Requer o provimento do recurso, a fim de que seja afastada a prescrição da pretensão executória.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+Quanto à alegação de ofensa ao art. 117, IV, do Código Penal, verifica-se que dispositivo legal invocadonão contém comando normativo suficiente para reformar o acórdão recorrido, porquanto a presente questão se refere à prescrição executória e não a prescrição da pretensão punitiva, o que evidencia inafastável deficiência recursal, a impedir a exata compreensão da controvérsia, atraindo a aplicação da Súmula 284/STF.
+Ademais, segundo constou no julgado, "O prazo da pretensão executória regula-se pela pena aplicada e começa a correr da data do trânsito em julgado para a acusação, conforme dispõe o artigo 110, § 1º; c.c. artigo 112, I, do Código Penal", entendimento que se encontra em consonância com a jurisprudência desta Corte.
+De acordo com o art. 112, I, do Código Penal, o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado, a qual independe de qual seja a compreensão vigente acerca da possibilidade de execução da pena antes do trânsito em julgado da condenação. A esse respeito:
+EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. INVIABILIDADE. JURISPRUDÊNCIA PACÍFICA. AUSÊNCIA DE OMISSÃO. SIMPLES INCONFORMISMO. EMBARGOS DECLARATÓRIOS REJEITADOS.
+ ..
+3. O art. 112, inciso I, do Código Penal deve ser interpretado de maneira literal, de forma que o termo inicial para o cálculo da prescrição da pretensão executória é a data do trânsito em julgado da condenação para a acusação. O referido entendimento tem sido reafirmado de forma iterativa nesta Corte Superior tanto antes quanto após o julgamento proferido pelo Supremo Tribunal Federal no HC n.º 126.292/SP.
+4. Embargos declaratórios rejeitados. (EDcl no AgRg no REsp 1710939/PB, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/12/2018, DJe 18/12/2018.)
+Considerando-se o trânsito em julgado da condenação para o Ministério Público em 8/3/2016 (fl. 185),sendo que não sem tem notícia acerca de eventual início do cumprimento de pena apóso transcurso do prazo prescricional, razão pela qual cabível a decretação da prescrição executória. Incide, pois, a Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
