@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por FUNDAÇÃO CESPcontra acórdão da eg. Terceira Turma do Superior Tribunal de Justiça, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES. PRAZO DE PRESCRIÇÃO TRIENAL. INAPLICABILIDADE. INCIDÊNCIA DO PRAZO GERAL DECENAL. IMPUGNAÇÃO DA SÚMULA 568 DO STJ. PRECEDENTES ANTERIORES AOS MENCIONADOS NA DECISÃO AGRAVADA. IMPOSSIBILIDADE.
+1. Cuida-se, na origem, de ação de restituição de contribuições previdenciárias.
+2. Segundo a atual jurisprudência de ambas as Turmas que compõem a Segunda Seção do STJ, o prazo prescricional aplicável à pretensão de restituição de contribuições vertidas indevidamente para fundo de previdência complementar, como na presente hipótese, é o decenal.
+Precedentes.
+3. Inaplicabilidade do prazo trienal previsto no art. 206, §3º, IV, do CC/2002, por não se tratar de ação subsidiária de in rem verso.
+Precedente da Corte Especial.
+4. A aplicação da Súmula 568/STJ é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada, o que não ocorreu na hipótese.
+5. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.677.134/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Sustenta a embargante que o acórdão recorrido, ao fazer incidir à espécieo prazo prescricional decenaldiverge do entendimentoadotado pela eg. QuartaTurma no julgamento do Agravo em Recurso Especial nº 1.462.041/SP, rel. Ministro MARCO BUZZI, DJe 20/11/2018 e do Recurso Especial nº 1.763.228/SP,Ministro ANTONIO CARLOS FERREIRA, DJe de 26/06/2020, fazendo incidir a outros casos similares o prazo prescricional trienal.
+Requer o provimento dos embargos de divergência, com a aplicação do entendimento adotado pelos acórdãos paradigmas.
+É o relatório.
+Passo a decidir.
+Os embargos de divergência devem ser indeferidos liminarmente.
+Com efeito,o acórdão embargado acompanha a jurisprudência uníssona desta Corte acerca do tema enquanto os arestos paradigmas refletem entendimento superado por posteriores julgamentos de precedentes persuasivos das egs. Corte Especial e Segunda Seção do Superior Tribunal de Justiça, cujas ementas são abaixo transcritas, respectivamente.
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSENSO CARACTERIZADO. PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DECORRENTE DA RESPONSABILIDADE CIVIL CONTRATUAL. INAPLICABILIDADE DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. SUBSUNÇÃO À REGRA GERAL DO ART. 205, DO CÓDIGO CIVIL, SALVO EXISTÊNCIA DE PREVISÃO EXPRESSA DE PRAZO DIFERENCIADO. CASO CONCRETO QUE SE SUJEITA AO DISPOSTO NO ART. 205 DO DIPLOMA CIVIL. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes, o que, in casu, consiste em definir o prazo prescricional incidente sobre os casos de responsabilidade civil contratual.
+II - A prescrição, enquanto corolário da segurança jurídica, constitui, de certo modo, regra restritiva de direitos, não podendo assim comportar interpretação ampliativa das balizas fixadas pelo legislador.
+III - A unidade lógica do Código Civil permite extrair que a expressão "reparação civil" empregada pelo seu art. 206, § 3º, V, refere-se unicamente à responsabilidade civil aquiliana, de modo a não atingir o presente caso, fundado na responsabilidade civil contratual.
+IV - Corrobora com tal conclusão a bipartição existente entre a responsabilidade civil contratual e extracontratual, advinda da distinção ontológica, estrutural e funcional entre ambas, que obsta o tratamento isonômico.
+V - O caráter secundário assumido pelas perdas e danos advindas do inadimplemento contratual, impõe seguir a sorte do principal (obrigação anteriormente assumida). Dessa forma, enquanto não prescrita a pretensão central alusiva à execução da obrigação contratual, sujeita ao prazo de 10 anos (caso não exista previsão de prazo diferenciado), não pode estar fulminado pela prescrição o provimento acessório relativo à responsabilidade civil atrelada ao descumprimento do pactuado.
+VI - Versando o presente caso sobre responsabilidade civil decorrente de possível descumprimento de contrato de compra e venda e prestação de serviço entre empresas, está sujeito à prescrição decenal (art. 205, do Código Civil).
+Embargos de divergência providos.
+(EREsp n. 1.281.594/SP, relator para acórdão Ministro Felix Fischer, Corte Especial, julgado em 15/5/2019, DJe de 23/5/2019.)
+RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICAS. SEGURO SAÚDE. DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. PRAZO PRESCRICIONAL.
+1. É decenal o prazo prescricional aplicável para o exercício da pretensão de reembolso de despesas médico-hospitalares alegadamente cobertas pelo contrato de plano de saúde (ou de seguro saúde), mas que não foram adimplidas pela operadora.
+2. Isso porque, consoante cediço na Segunda Seção e na Corte Especial, nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (artigo 205 do Código Civil) que prevê dez anos de prazo prescricional (EREsp 1.280.825/RJ, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27.06.2018, DJe 02.08.2018; e EREsp 1.281.594/SP, Rel. Ministro Benedito Gonçalves, Rel. p/ Acórdão Ministro Felix Fischer, Corte Especial, julgado em 15.05.2019, DJe 23.05.2019).
+3. De outro lado, a tese da prescrição trienal firmada nos Recursos Especiais 1.361.182/RS e 1.360.969/RS (ambos julgados sob o rito dos repetitivos) não abrange toda e qualquer pretensão deduzida em decorrência de planos privados de assistência à saúde, mas tão somente àquelas referentes à nulidade de cláusula contratual com a consequente repetição do indébito, que foram traduzidas como pretensões de ressarcimento de enriquecimento sem causa (artigo 206, § 3º, inciso IV, do Código Civil de 2002).
+4. Recurso especial não provido.
+(REsp n. 1.756.283/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 11/3/2020, DJe de 3/6/2020.)
+RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICAS. PLANO DE SAÚDE. DESCUMPRIMENTO DE CLÁUSULA CONTRATUAL. PRAZO PRESCRICIONAL.
+1. É decenal o prazo prescricional aplicável para o exercício da pretensão de reembolso de despesas médico-hospitalares alegadamente cobertas pelo contrato de plano de saúde (ou de seguro saúde), mas que não foram adimplidas pela operadora.
+2. Isso porque, consoante cediço na Segunda Seção e na Corte Especial, nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (artigo 205 do Código Civil) que prevê dez anos de prazo prescricional (EREsp 1.280.825/RJ, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27.06.2018, DJe 02.08.2018; e EREsp 1.281.594/SP, Rel. Ministro Benedito Gonçalves, Rel. p/ Acórdão Ministro Felix Fischer, Corte Especial, julgado em 15.05.2019, DJe 23.05.2019).
+3. De outro lado, a tese da prescrição trienal firmada nos Recursos Especiais 1.361.182/RS e 1.360.969/RS (ambos julgados sob o rito dos repetitivos) não abrange toda e qualquer pretensão deduzida em decorrência de planos privados de assistência à saúde, mas tão somente àquelas referentes à nulidade de cláusula contratual com a consequente repetição do indébito, que foram traduzidas como pretensões de ressarcimento de enriquecimento sem causa (artigo 206, § 3º, inciso IV, do Código Civil de 2002), o que não corresponde à hipótese dos autos.
+4. Recurso especial provido.
+(REsp n. 1.805.558/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 11/3/2020, DJe de 3/6/2020.)
+Logo,o acórdão embargado acompanha a jurisprudência uníssona desta Corte acerca do tema enquanto os arestos paradigmas refletem entendimento superado por posteriores julgamentos de precedentes persuasivos das egs. Corte Especial e Segunda Seção do Superior Tribunal de Justiça.
+Desse modo, nos moldes da Súmula 168/STJ, "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se.
