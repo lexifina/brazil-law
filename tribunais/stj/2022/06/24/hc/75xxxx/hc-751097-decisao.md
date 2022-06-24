@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, em favor de FABIO EDUARDO CIMENELLO, no qual a impetrante requer a extensão dos efeitos da decisãomonocrática proferida no REsp n. 1.971.666/SP, com fulcro no art. 580 do Código de Processo Penal.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 8 anos e 6 meses de reclusão, em regime inicial fechado, e 1.316 dias-multa,pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, nos autos da Ação Penal n. 1500259-64.2019.8.26.0612(e-STJ, fls. 16/20).
+Também consta que, em autos distintos (Ação Penal n. 0000359-92.2020.8.26.0698), decorrentes de desmembramento, ISAQUE foi condenado pela prática dos mesmos delitos, com penas fixadas em 8 anos de reclusão, em regime inicial fechado,e 1.200 dias-multa (e-STJ, fl. 21/25).
+Nenhum ato proferido pela Corte local foi juntado aos presentes autos.
+O recurso especial interposto por ISAQUE foi parcialmente conhecido e, nessa extensão, parcialmente provido para alterar o seu regime inicial para semiaberto(e-STJ fls. 8/15).
+No presente mandamus (e-STJ, fls. 3/6), aimpetrantesustentaque o paciente faz jus à extensão dos efeitos da decisão monocrática proferida no REsp n. 1.971.666/SP, nos termos do art. 580 do Código de Processo Penal, de forma a ser beneficiado com o regime inicial semiaberto, na medida em que as condições pessoais de ambos os réus são idênticas, inclusive as penas(e-STJ, fl. 4).
+Ao final, pedea concessão da ordem para que o regime inicial do paciente seja alterado para aberto.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, aimpetrante não juntouaos autos cópia do ato coator praticado pela Corte local em desfavor doora paciente, documento imprescindível para a análise de eventual ilegalidade.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação(HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal. 3. Agravo regimental não provido(AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018).
+Ademais, como é cediço, o deferimento do pedido de extensãoexige que o corréu esteja na mesma condição fático-processual daquele jábeneficiado, a teor do artigo 580 do Código de Processo Penal, segundo o qual,no caso de concurso de agentes (Código Penal, art. 25), a decisão do recursointerposto por um dos réus, se fundado em motivos que não sejam de caráterexclusivamente pessoal, aproveitará aos outros.
+Entretanto, na espécie, as condenações do ora paciente e do "corréu" beneficiado no REsp n. 1.971.666/SPdecorrem de ações penais distintas,sendo uma a Ação Penal n. 1500259-64.2019.8.26.0612 e outra a Ação Penal n.0000359-92.2020.8.26.0698.
+Em consequência, o suposto ato coator praticado pela Corte local é necessariamente diverso do examinado no REsp n. 1.971.666/SP, razão pela qual não há falar em extensão deefeitos.
+Por fim, embora inconclusivos, posto que não foram juntados aos autos os atos da Corte local, os documentos juntados pela impetrante indicam que o paciente é reincidente, enquanto que o "corréu" beneficiado com o regime semiaberto é primário, ou seja, por meio dos documentos juntados as circunstâncias de caráter pessoal são distintas, o que também inviabilizaria o deferimento do pedido de extensão.
+Nesse contexto, o presentehabeas corpusrevela-se manifestamente incabível.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
