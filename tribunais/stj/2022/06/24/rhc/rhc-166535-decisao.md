@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpuscom pedido de liminarinterposto por SERGIO LUIZ GRIGOLETTO contra acórdão do Tribunal de Justiça do Paraná noHC n. 21333-21.2022.8.16.0000.
+O recorrente foi preso preventivamente,pelaprática, em tese, dos delitos previstos nos arts.2º, capute § 4º, II, da Lei n.12.850/2013; 303, caput e § 1º, do CPM (3vezes), na forma do art. 79 do CPM;303, caput, do CPM (4 vezes), na forma do art. 79 do CPM;308, caput e § 1º, do CPM (22 vezes), na forma do art. 79 do CPM; 317 do CPM; 9º, I, do CPM(12 vezes), na forma do art. 79 do CPM; 312 do CPM (7 vezes),na forma do art. 79 do CPM; 320 do CPM. Os crimes são investigados naOperação Força e Honra.
+Contra a manutenção daprisão preventiva, foi interpostohabeas corpus originário, cujaordem foi denegada pelo Tribunal a quonos termos da seguinte ementa:
+HABEAS CORPUS - POLICIAL MILITAR - ORGANIZAÇÃO CRIMINOSA, PECULATO, CORRUPÇÃO PASSIVA, FALSIDADE IDEOLÓGICA E VIOLAÇÃO DO DEVER FUNCIONAL COM O FIM DE LUCRO - REVISÃO DA PRISÃO PREVENTIVA (CPP, ART. 316 - PARÁGRAFO ÚNICO) - M A N U T E N Ç Ã O - IMPRESCINDIBILIDADE DA CUSTÓDIA PARA GARANTIA DA ORDEM PÚBLICA - GRAVIDADE DOS CRIMES IN CONCRETO IMPUTADOS E REITERAÇÃO DELITIVA - CONTEXTO FÁTICO-PROBATÓRIO INALTERADO - CORRÉUS SOLTOS - SITUAÇÃO PROCESSUAL DISTINTA - EXTENSÃO DO BENEFÍCIO INVIÁVEL - CONSTRANGIMENTO ILEGAL INEXISTENTE - WRIT DENEGADO.
+No presente recurso, o recorrente sustentaque as instâncias antecedentes estão conferindo tratamento distinto aréus que ocupam a mesma hierarquia e respondem pelos mesmos fatos descritos na denúncia, em ofensa ao princípio da isonomia.
+Pontua que, embora apontado como integrante da organização criminosa, ocupa posição hierárquica diversa da de Rodrigo dos Santos Pereira e de Elizeu Correia de Melo, indicados pela acusação como líderes do grupo.
+Assevera que, entre os membros apontados como executores da suposta organização, há réus soltos.
+Defendea suficiência da cautelar de afastamento da função pública, já fixada,para garantia da ordem pública e impedimento de eventual reiteração delitiva.
+Salienta suas condições pessoais favoráveis, por ser primário, ter bons antecedentes, residência fixa, trabalho lícito e família constituída.
+Requer, liminarmente, a revogação da prisão preventivacom ou sem fiança. No mérito, pede o provimento do recurso para ser concedida definitivamente a ordem(fls. 198-217).
+É o relatório. Decido.
+Nos termos do art. 34, XVIII, b, do RISTJ, faculta-se ao ministro relator decidir monocraticamente o recurso ou pedido contrário à jurisprudência dominante sobre o tema(AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021).
+Apesar do empenho defensivo, não visualizo ilegalidade namanutenção da prisão preventiva do recorrente.
+Como registrado pelo recorrente, os requisitos para a prisão preventiva já foramexaminados pelo STJ no julgamento doRHC n.157.249/PR, em 3/12/2021, não havendofatos novos que justifiquem seu reexame.
+Na espécie, não se evidencia constrangimento ilegal no indeferimento do pleito de extensão.
+Nostermos doart.580do CPP, em caso deconcurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+O Tribunal antecedente consignou que omodo de atuação e asposições dos agentesnaorganização criminosa foram distintos,o que justificou o tratamentodiferenciado imposto ao recorrente em relação a outros réus beneficiados com liberdade provisória, os quaisteriam participado de crimes significativamente menores que os atribuídos àquele. Assim, concluiu pela ausência de similitude fático-processual, não sejustificando a substituição da prisão pormedidas cautelaresalternativas(fls. 461-466).
+Nesse contexto, dadas as peculiaridades do caso, aapontada ausência de similitude fática entre a situação dos corréus beneficiados com a liberdade e a do recorrente autoriza a manutenção da prisão preventiva.
+Cumpre lembrar que "aanálise da legalidade da prisão preventiva engloba não somente as circunstâncias dos crimes sob apuração mas também as características e a participação pessoal de cada suspeito no contexto das condutas tidas como ilícitas"(PExt no HC n.468.071/MT, relatorMinistro Rogerio Schietti Cruz, Sexta Turma,DJe de 12/3/2019), o que foi bem pontuado no acórdão recorrido.
+Frise-se que, para divergir da conclusão a que chegou o Tribunal antecedente, seria necessária ampla dilação probatória, inviável na seara eleita.
+Ademais, eventuais condições subjetivasfavoráveis do recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, nego provimento aorecurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
