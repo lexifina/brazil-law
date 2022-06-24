@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JULIAN VITOR YARED contra decisão que não admitiu recurso especial (fls. 917-923), em razão de o acórdão recorrido estar em consonância com a jurisprudência do STJ.
+Em primeiro grau, o agravante foi condenado às penas de 7 anos de reclusão no regime fechado e de 700 dias-multa, pela prática do crime descrito no art. 33, caput, c/c art. 40, I, da Lei n. 11.343/2006.
+O Tribunal Regional Federal da 3ª Região, por maioria, deu parcial provimento ao recurso da defesa pra reconhecer a atenuante de confissão espontânea e a causa de diminuição de pena do art. 33, § 4º da Lei n. 11.343/2006 na fração de 1/6, redimensionando a reprimenda para 4 anos, 10 meses e 10 dias de reclusão no regime semiaberto e de 486 dias-multa. Indeferiu o pedido de detração do período de prisão preventiva, pois não alteraria o regime inicial de cumprimento da pena.
+ No recurso especial, fundado no art. 105, III,  a, da Constituição Federal, suscitou violação do art. 387, § 2º, do CPP, diante da obrigatoriedade de se computar o tempo de custódia cautelar para fins de fixação do regime.
+O apelo extremo foi inadmitido nos termos da decisão de fls. 917-923
+Requer o conhecimento do agravo ao argumento de que o acolhimento do recurso especial ao argumento de que, nos termos do art. 387, § 2º, do CPP, deve ser considerado o tempo de prisão posterior à sentença, ou seja, na execução provisória da pena.
+O Ministério Público Federal opinou pelo conhecimento do agravo em recurso especial e seu desprovimento.
+É o relatório. Decido.
+Devidamente impugnada a decisão que inadmitiu o apelo extremo e atendidos os requisitos de admissibilidade, a irresignação especial comporta conhecimento.
+O período de prisão cautelar deve ser considerado para a fixação do regime inicial de cumprimento da pena, consoante o disposto no art. 387, § 2º, do CPP.
+Todavia, uma vez não adotada tal providência, remanesce a competência concorrente do juízo da execução para a detração penal, nos termos do art. 66 da Lei n. 7.210/1984, o qual, ademais, dispõe de mais elementos para avaliar a possibilidade de aplicação da referida benesse (AgRg nos EDcl no REsp n. 1.789.102/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30/4/2020; EDcl no AgRg no REsp n. 1.653.604/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 25/10/2019).
+Por sua vez, para fins de alteração do regime inicial de cumprimento de pena, é incabível abater da reprimenda imposta o tempo de prisão preventiva referente à execução provisória da pena (AgRg no AgRg no HC n. 585.291/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/11/2020, DJe de 27/11/2020; EDcl no AgRg no REsp n. 1.765.139/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 1/9/2020, DJe de 15/9/2020.)
+Ademais, na hipótese dos autos, o acórdão recorrido decidiu que, ainda que descontado o período de prisão cautelar, não haveria alteração no regime inicial fixado na condenação, porquanto a reprimenda continuaria sendo superior a 4 anos, e, portanto, seria mantido o regime semiaberto. (AgRg no AREsp n. 2.084.873/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
