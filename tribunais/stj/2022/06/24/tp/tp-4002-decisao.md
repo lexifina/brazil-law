@@ -1,0 +1,22 @@
+DECISÃO
+JOSÉ ROBERTO ARRUDA ajuíza pedido de tutela provisória para requerer a imediata atribuição de efeito suspensivo ao seu recurso especial interposto contra acórdão do TJDFT - apelo nobre que se encontra sobrestado por determinação da Suprema Corte, até o pronunciamento de mérito no ARE 843.989 (Tema 1.199).
+Defende o suplicante, em síntese, a probabilidade do sucesso do seu recurso excepcional, em razão da aplicação retroativa da Lei n. 14.230/2021, que deu tratamento mais benéfico aos agentes públicos processados por improbidade administrativa.
+Postula a imediata concessão, inaudita altera parte, de efeito suspensivo ao recurso especial interposto, haja vista a presença dos requisitos necessários à medida de urgência.
+Passo a decidir.
+Conforme relatado pelo requerente, o recurso especial para o qual se busca a concessão de efeito suspensivo foi sobrestado na origem por determinação da Suprema Corte, até o pronunciamento de mérito no ARE 843.989 (Tema 1.199 do STF).
+Nesse contexto,o Superior Tribunal de Justiça não possui competência para antecipar o pedido do recurso especial sobrestado na origem, nos termos do disposto naparte final do § 5º, III, do art. 1.029 do CPC/2015: "O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido: III - ao presidente ou vice-presidente do tribunal local, no caso de o recurso ter sido sobrestado nos termos do art. 1.037." (Grifos acrescidos).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. RECURSO ESPECIAL SOBRESTADO NA ORIGEM. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NÃO INAUGURADA. INCOMPETÊNCIA. PRECEDENTES DO STJ E DO STF.
+1. "O STF, no julgamento da AC 2177 MC-QO/PE, entendeu que "compete ao tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada"." (AgInt no TP 1.038/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 1/7/2019, DJe 6/8/2019).
+2. Agravo interno não provido (AgInt na TP 3.058/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/4/2021).
+PROCESSUAL CIVIL E TRIBUTÁRIO. PEDIDO DE TUTELA DE URGÊNCIA. STJ. INCOMPETÊNCIA. MATÉRIA AFETADA À REPERCUSSÃO GERAL NO STF (TEMA 372). RECURSO ESPECIAL. SOBRESTAMENTO NA ORIGEM.
+1. O § 5º, III, do art. 1.029 do CPC/2015, assim dispõe: "O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido: III - ao presidente ou vice-presidente do tribunal local, no caso de o recurso ter sido sobrestado nos termos do art. 1.037".
+2. O STF, no julgamento da AC 2177 MC-QO/PE, entendeu que "compete ao tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada."
+3. In casu, o cerne da matéria controvertida está afetado à sistemática da repercussão geral (Tema: 372: Exigibilidade do PIS e da COFINS sobre as receitas financeiras das instituições financeiras).
+4. Hipótese em que não compete ao STJ o exame da tutela de urgência.
+5. Agravo interno desprovido (AgInt no TP 1.038/SP, minha relatoria, Primeira Turma, DJe 6/8/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL SOBRESTADO NA ORIGEM. PENDÊNCIA DE JULGAMENTO DE REPETITIVO PELO STJ. MEDIDA CAUTELAR PARA ATRIBUIÇÃO DE EFEITO SUSPENSIVO. COMPETÊNCIA DO TRIBUNAL A QUO.
+1. A competência para apreciar medida cautelar visando atribuir efeito suspensivo a recurso sobrestado na origem, para aguardar o julgamento de especial submetido ao regime do art. 543-C do CPC, é da Corte de origem, ainda que já tenha havido juízo positivo de admissibilidade do recurso, tal como vem decidindo o STF relativamente aos casos em que reconhecida a repercussão geral. Precedentes: AC 3581 AgR, Relator(a): Min. Dias Toffoli, Primeira Turma, julgado em 05/08/2014, DJe 02-10-2014 e AC 3027 AgR, Relator(a): Min. Ricardo Lewandowski, Segunda Turma, DJe 13-02-2014.
+2. Agravo regimental a que se nega provimento (AgRg na MC 23.077/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/5/2015).
+Com essas considerações, NÃO CONHEÇO do pedido nos termos do art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
