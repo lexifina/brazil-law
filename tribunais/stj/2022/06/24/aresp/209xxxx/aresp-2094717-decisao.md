@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto porVELSIS SISTEMAS E TECNOLOGIA VIARIA S.A em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONSÓRCIO EXECUTADO - PEDIDO DE LIMITAÇÃO DE RESPONSABILIDADE DE UMA DAS EMPRESAS QUE COMPUNHAM O CONSÓRCIO - SOLIDARIEDADE DAS EMPRESAS - TEMA JÁ ANALISADO EM OUTRO FEITO - IMPOSSIBILIDADE DE REAPRECIAÇÃO - ARATIGOS 505 E 507 DO CPC - MANUTENÇÃO DA DECISÃO AGRAVADA - RECURSO CONHECIDO E DESPROVIDO - UNÂNIME." (fl. 1381)
+Os embargos de declaração foram rejeitados (fls. 1396-1399).
+Nas razões do recurso especial, a parte ora agravante aponta violação doart. 265 doCódigo Civil de 2005; art. 278, §1º, da Lei 6.404/76 e art. 1.029, § 5º, III, do Código de Processo Civil de 2015, sustentando, em síntese, (a) a inviabilidade deestender 100% da pretensão executiva à Velsis, baseada na solidariedade prevista no contrato de constituição do Consórcio Pátio Aracajú, tendo em vistaa limitação da responsabilidade desta em 70% e (b) a concessão de efeito suspensivo ao especial.
+Apresentadas contrarrazões ao apelo nobre (fls. 1420-1433).
+É o relatório.
+O eg. Tribunal de origem consigna que "A recorrente era uma das empresas que compunham o Consórcio e, quando da penhora de seus bens no início da lide, houve discussão a respeito da sua legitimidade passiva no feito executivo. Na análise da legitimidade, quando do julgamento do Agravo de Instrumento n. 201900730350, também foram discutidas questões aqui apresentadas pela recorrente, sobre sua solidariedade e a limitação da sua responsabilidade. (..)Deste modo, correta se encontra a decisão agravada pois não houve limitação da responsabilidade da Recorrente." (fl. 1384)
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, ou seja, a existência de preclusão sobre a matéria discutida nos autos, não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Prejudicada a análise de efeito suspensivo.
+Publique-se.
