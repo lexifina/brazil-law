@@ -1,0 +1,17 @@
+DECISÃO
+  PROCESSO  CIVIL  E  ADMINISTRATIVO.  RECURSO  ESPECIAL.  CONSELHO  REGIONAL  DE  FARMÁCIA.  RESOLUÇÃO  566/2012  DO  CONSELHO  FEDERAL  DE  FARMÁCIA.  IMPOSSIBILIDADE  DE  EXAME  NA  VIA  ELEITA.  RECURSO  ESPECIAL  DO  CONSELHO  REGIONAL  DE  FARMÁCIA  DO  RIO  GRANDE  DO  SUL  A  QUE  SE  NEGA  PROVIMENTO.
+1.  Trata-se  de  Recurso  Especial  interposto  pela  CONSELHO  REGIONAL  DE  FARMÁCIA  DO  RIO  GRANDE  DO  SUL,  com  fundamento  no  art.  105,  III,  a,  da  Constituição  da  República,  contra  acórdão  proferido  pelo  egrégio  Tribunal  Regional  da  4ª  Região,  assim  ementado:
+TRIBUTÁRIO.  CONSELHO  REGIONAL  DE  FARMÁCIA.  PRAZO  PARA DEFESA.  LEI  3.820/60.  RESOLUÇÃO  566/2012.  PROCESSO  ADMINISTRATIVO.  NULIDADE.  AUSÊNCIA  DE  PREJUÍZO.
+1.  Nos  termos  do  artigo  30,  §  2º,  da  Lei  nº  3.820/60,  o  prazo  para  interposição  de  recurso  administrativo  ao  Conselho  Federal  de  Farmácia  é  de  30  (trinta)  dias.
+2.  O  Conselho  Federal  de  Farmácia,  ao  fixar,  por  meio  da  Resolução  nº  566/2012,  o  prazo  de  15  (dez)  dias  para  a  interposição  de  recurso,  extrapolou  o  seu  âmbito  de  atuação.  (fls.  147/148)
+2.  No  recurso  especial,  a  parte  recorrente  aponta  violação  dos  arts.  30,  §  2º,  da  Lei  3.820/1960,  argumentando,  em  síntese,  que:
+(..)  o  prazo  do  artigo  30,  da  Lei  nº  3.820/60  refere-se,  exclusivamente,  aos  processos  disciplinares  dos  farmacêuticos,  visto  que  descrito  dentro  do  capítulo  "das  penalidades  e  da  aplicação",  constando  do  artigo  281  a  expressão  "punir  disciplinarmente",  ou  seja,  punir  o  farmacêutico  por  prática  irregular  de  suas  atividades  profissionais,  mostra-se  inaplicável  aos  processos  administrativos  de  fiscalização,  que  decorrem  de  infrações  administrativas  praticadas  por  pessoas  jurídicas  por  infração  ao  disposto  no  artigo  24,  da  Lei  nº  3.820/60.  (fl.165)
+3.  Com  as  contrarrazões,  o  recurso  foi  admitido  à  fl.  197.
+4.  É  o  relatório.
+5.  Não  merece  prosperar  o  Recurso.
+6.  Na  hipótese  dos  autos,  observa-se  que  a  insurgência  do  Recorrente  consiste  na  não  incidência  do  prazo  de  30  dias,  previsto  no  arts.  30,  §  2º,  da  Lei  3.820/1960.
+7.  Nessa  esteira,  defende  que:
+  (..)  o  Conselho  sustenta  que  o  prazo  de  defesa  previstono  artigo  30,  parágrafo  2º,  da  Lei  nº  3.820/60  aplica-se  exclusivamente  àsinfrações  disciplinares,  portanto  apenas  aos  profissionais  farmacêuticospessoas  físicas.  Acresce  que  o  §  2º  do  art.  30  dessa  Lei  não  pode  ser  lido  semobservância  do  caput.  Alega  que  a  multa  aplicada  à  embargante,  fundada  noart.  24  da  Lei  3.820/60,  destina-se  a  punir  infração  administrativa,  sendoaplicável  o  art.  15  da  Resolução  566/2012  do  Conselho  Federal  de  Farmácia,para  interposição  de  recurso.  (fls.  149).
+8.  Desse  modo,  impõe-se  o  não  conhecimento  do  Recurso  Especial  quanto  à  alegação  de  ofensa  a  legislação  federal,  porquanto  seriam  meramente  reflexas,  sendo  imprescindível  a  análise  da  Resolução  566/2012  do  Conselho  de  Farmácia,  norma  de  natureza  infralegal  e  que  não  se  enquadra  no  conceito  de  Lei  Federal  a  que  se  refere  o  art.  105  da  CF/1988.
+9.  Ante  o  exposto,  nega-se  provimento  ao  Recurso  Especial  do  CONSELHO  REGIONAL  DE  FARMÁCIA  DO  RIO  GRANDE  DO  SUL.
+10.  Publique-se.  Intimações  necessárias
