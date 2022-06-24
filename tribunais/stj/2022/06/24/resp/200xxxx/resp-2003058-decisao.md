@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão proferido pelo TJ/MG, assim ementado (fl. 361):
+APELAÇÃO CÍVEL -EXCEÇÃO DE PRÉ-EXECUTIVIDADE -ACOLHIMENTO -FIXAÇÃO DE HONORÁRIOS -CABIMENTO -PERCENTUAL FIXADO DENTRO DO PERMISSIVO LEGAL -RECURSO DESPROVIDO. 1. O c. STJ possui entendimento pacífico no sentido de que é cabível a fixação dos honorários advocatícios em sede de exceção de pré-executividade acolhida total ou parcialmente, em respeito ao princípio da causalidade. 2. Os honorários de sucumbência devem ser fixados entre 10% e 20% sobre o valor da condenação, do proveito econômico obtido ou sobre o valor atualizado da causa, todavia, nas demandas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor atribuído à causa for muito baixo, a fixação pode ocorrer de forma equitativa, observado, em qualquer hipótese, o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.3. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrenteaponta divergência jurisprudencial em relação à interpretação dada ao art. 85 do CPC/2015. Sustenta, em síntese, o não cabimento da verba honorária contra a Fazenda na hipótese em que há o acolhimento da exceção de pré-executividade pelo reconhecimento da prescrição intercorrente.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 431/432).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+A Primeira Seção, no REsp 1.185.036/PE, sob a relatoria do em. Min. Herman Benjamin, decidiu ser "possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade".
+Possível, não obrigatória.
+Os ônus de sucumbência devem ser suportados por quem deu causa ao ajuizamento da ação; e, ao contrário da prescrição do crédito tributário ocorrida antes da instauração da relação processual, o reconhecimento da ocorrência de prescrição intercorrente não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré-executividade, pois, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação executiva nem pela não localização do devedor ou de seus bens.
+De fato, "há situações em que, mesmo não sucumbindo no plano do direito material, a parte vitoriosa é considerada como geradora das causas que produziram o processo e todas as despesas a ele inerentes  ..  a prescrição intercorrente por ausência de localização de bens não afasta o princípio da causalidade em desfavor da parte executada, nem atrai a sucumbência para a parte exequente"(REsp 1835174/MS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 11/11/2019).
+A respeito, ainda:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. SENTENÇA DE EXTINÇÃO POR OCORRÊNCIA DA PRESCRIÇÃO INTECORRENTE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA ACRESCENTAR CONDENAÇÃO DA PARTE EXEQUENTE NOS HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. NÃO CABIMENTO. PRETENSÃO DA EXECUTADA DE MAJORAÇÃO DA VERBA HONORÁRIA. NÃO ACOLHIMENTO.
+1. Consoante entendimento jurisprudencial firmado por este Tribunal Superior, à luz da causalidade, não é cabível a condenação da parte exequente no pagamento dos honorários sucumbenciais do advogado da executada, na hipótese em que o processo executivo for extinto em decorrência da prescrição intercorrente. E, porque indevidos, não pode ser acolhida a pretensão de majoração dos honorários advocatícios.
+Precedentes.
+2. No caso dos autos, não há como se acolher a pretensão de majoração, pois o Tribunal de Justiça, em sede de recurso do Estado, manteve a sentença de extinção da execução fiscal em razão da prescrição intercorrente, mas condenou a Fazenda no pagamento dos honorários sucumbenciais do advogado da parte executada.
+3. Agravo interno não provido.
+(AgInt no REsp 1892272/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2021, DJe 18/08/2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. PRESCRIÇÃO INTECORRENTE. VERBA HONORÁRIA DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.MAJORAÇÃO DO MONTANTE. DESCABIMENTO.
+1. Na execução fiscal, pela regra da causalidade, não é cabível a condenação da Fazenda exequente em verba honorária de sucumbência, na hipótese em que há o reconhecimento da ocorrência da prescrição intercorrente, sem resistência.
+2. No contexto em que a exequente nem deveria ter sido condenada ao pagamento de verba honorária, inviável se mostra a majoração do quantum arbitrado, porquanto representaria flagrante ofensa ao princípio da razoabilidade, atualmente também previsto no art. 8º do CPC (REsp 1.768.530/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 02/06/2020, DJe 29/06/2020).
+3. No caso dos autos, porque nem sequer deveriam ter sido fixados os honorários de sucumbência, não há como se alterar o acórdão recorrido, no que se refere aos critérios a serem observados.
+4. Agravo interno não provido.
+(AgInt no AgInt nos EDcl no REsp 1849431/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/03/2021, DJe 17/03/2021)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. IRPF.EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. IMPOSSIBILIDADE.
+I - Na origem, trata-se de exceção de pré-executividade, ajuizada nos autos da execução fiscal de dívida referente ao IRPF proposta pela União, objetivando o reconhecimento da prescrição intercorrente. Na sentença, julgou-se procedente o pedido extinguindo a execução fiscal e fixando os honorários advocatícios no mínimo previsto no § 3º do art. 85 do CPC/2015. No Tribunal a quo, a sentença foi parcialmente reformada para afastar a condenação no pagamento de honorários advocatícios. Nesta Corte, negou-se provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça, firme no sentido de que, pelo princípio da causalidade, é incabível a condenação em honorários nos casos de extinção da execução pela prescrição intercorrente em decorrência da ausência de localização de bens do executado.  ..  III - Agravo interno improvido.
+(AgInt no REsp 1892578/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO.DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE.
+1. Constata-se que o entendimento do Tribunal de origem está em sintonia com a jurisprudência desta Corte Superior, porquanto, à luz do princípio da causalidade, o pronunciamento da prescrição intercorrente, por ausência de localização de bens da parte devedora, não autoriza a fixação de verba honorária de sucumbência em seu favor. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp 1892095/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/03/2021, DJe 11/03/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO LOCALIZAÇÃO DE BENS. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. De acordo com entendimento da Segunda Seção, extinta a execução por prescrição intercorrente motivada na ausência de localização de bens penhoráveis, a imputação das verbas sucumbenciais deve recair sobre o executado, em atenção ao princípio da causalidade.
+3. Agravo interno não provido.
+(AgInt no AREsp 1659982/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020)No mesmo sentido, dentre outros: AgInt no AREsp 1180127/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 22/06/2020, DJe 01/07/2020; REsp 1768530/SP, Rel.
+Ministro Gurgel De Faria, Primeira Turma, julgado em 02/06/2020, DJe 29/06/2020; AgInt no AREsp 1630885/MS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/05/2020, DJe 13/05/2020.
+No caso dos autos, na linha dos precedentes citados, a responsabilidade pelo pagamento dos honorários advocatícios de sucumbência não pode ser atribuída à Fazenda exequente, pois quem dá causa ao ajuizamento da execução fiscal é o devedor inadimplente.
+Ante o exposto, dou provimento ao recurso especial para afastar a condenação em honorários da Fazenda Nacional.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL.EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE.CAUSALIDADE. HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. NÃO CABIMENTO. RECURSO ESPECIAL PROVIDO.
