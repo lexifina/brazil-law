@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Móveis Carraro Ltda., com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 164):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ E CSLL SOBRE RENDIMENTOS DE APLICAÇÕES FINANCEIRAS. DEDUÇÃO DE CORREÇÃO MONETÁRIA NÃO ADMITIDA. Incidem imposto de renda da pessoa jurídica (IRPJ) e contribuição social sobre o lucro líquido (CSLL) sobre os valor de rendimentos auferidos em aplicações financeiras que correspondam à correção monetária apurada no período de maturação do investimento, não estando autorizada a dedução da base de cálculo dessa rubrica. Precedentes.
+Os embargos de declaração opostos foram improvidos.
+Em suas razões, a parte insurgente alega ofensa aos arts. 43, 44, 97, II, e § 2º, e 110 do CTN; 57 e 65, § 1º, da Lei n. 8.981/1995; 1º e 2º da Lei n. 7.689/1988; 29 e 36 da Lei n. 8.541/1992.
+Sustenta, em suma, que "correção monetárianão gera riqueza nova apenas conserva o valor monetário, de face, do capital investido, já constituindo, não configura acréscimo patrimonial, e, portanto, não é hipótese material de tributação, não compõe a base de cálculo do IRPJ e da CSLL" (STJ, fl. 235).
+Foram apresentadas contrarrazões (e-STJ, fls. 304-319).
+Admitido o recurso especial na origem (e-STJ, fls. 322-323), subiram os autos a esta Corte.
+É o relatório.
+Inicialmente, esta Corte de Justiça consigna que "a análise da violação do art. 110 do CTN, por reproduzir princípio encartado em norma da Constituição Federal, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes: AgRg no REsp n. 1.454.339/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/10/2014; AgRg no AREsp n. 413.404/ES, relator Ministro Humberto Martins, Segunda Turma, DJe de 27/11/2013" (REsp n. 1.359.570/SP, de minha relatoria, Segunda Turma, DJe de 5/2/2018).
+Quanto ao mais, o entendimento deste Tribunal Superior está consolidado no sentido de que incide o Imposto de Renda Pessoa Jurídica (IRPJ) e a Contribuição Social sobre o Lucro Líquido (CSLL) sobre rendimentos de operações financeiras, ainda que provenientes de diferença de correção monetária (inflação).
+Nesse sentido, vale conferir recentes julgados de ambas as Turmas de Direito Público desta Corte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IRPJ E CSLL. BASES DE CÁLCULO. CORREÇÃO MONETÁRIA (INFLAÇÃO) DO VALOR A SER TRIBUTADO. PARTE INTEGRANTE. TRIBUTAÇÃO. LEGALIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Conforme pacífica orientação deste Tribunal Superior, não há ilegalidade no fato de a correção monetária (inflação) compor as bases de cálculo do IRPJ e da CSSL. Precedentes atuais das Turmas que compõem a Primeira Seção.
+3. No caso dos autos, o conhecimento do recurso, seja pela alínea "a" do permissivo, seja pela "c", encontra óbice na Súmula 83 do STJ, pois o TRF4 decidiu ser "legal a incidência do IRPJ e da CSLL sobre os rendimentos auferidos em aplicações financeiras".
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.973.500/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/5/2022, DJe de 12/5/2022).
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IRPJ E CSLL. INCIDÊNCIA SOBRE A PARCELA CORRESPONDENTE À INFLAÇÃO NOS RENDIMENTOS DE APLICAÇÕES FINANCEIRAS. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. O entendimento jurisprudencial de ambas as Turmas que compõem a Seção de Direito Público do STJ firmou-se no sentido de ser legítima a incidência do Imposto sobre a Renda de Pessoa Jurídica-IRPJ e da Contribuição Social sobre o Lucro Líquido-CSSL sobre o total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica que decorre do capital, acrescentando valor nominal da moeda.
+Precedentes: AgInt no REsp 1.920.200/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/6/2021, DJe 29/6/2021; AgInt no REsp 1.891.889/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/6/2021, DJe 17/6/2021.
+2. Não é caso de atribuição de efeito suspensivo à espécie visto que o despacho proferido pela Comissão Gestora de Precedentes no REsp 1.946.630/RS, identificando a matéria com potencial de repetitividade, não possui efeito vinculante, e a questão será submetida à deliberação do colegiado competente com vistas à efetiva submissão à sistemática dos recursos representativos da controvérsia.
+3. Agravo interno da empesa desprovido.
+(AgInt no REsp n. 1.968.973/RS, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 2/5/2022, DJe de 4/5/2022).
+PROCESSUAL CIVIL. TRIBUTÁRIO. IRPJ/CSLL. APLICAÇÕES FINANCEIRAS. CORREÇÃO MONETÁRIA. INCIDÊNCIA. LEGALIDADE. IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INFLAÇÃO NOS RENDIMENTOS DE APLICAÇÃO FINANCEIRA. AUMENTO DO LUCRO REAL. INCIDÊNCIA DAS EXAÇÕES. LEI N. 8.981/1995. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+ ..
+IV - Os vícios apontados pela parte embargante foram tratados com clareza e sem omissão, conforme se percebe do seguinte trecho do acórdão: "A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que é devida a exação de IRPJ e de CSLL sobre o lucro líquido do total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais, decorrentes de diferença de correção monetária, por se tratar de disponibilidade econômica decorrente do capital capaz de acrescentar o valor nominal da moeda.".
+V - Não merece amparo a tese levantada pelo recorrente, no sentido da necessidade de suspensão do feito, até a decisão definitiva do paradigma repetitivo, REsp n. 1.946.630, em curso sobre a matéria litigiosa.
+VI - Embora a questão controvertida tratada neste recurso especial tenha sido indicada à afetação para julgamento conforme o rito próprio atribuído aos recursos especiais repetitivos, com a candidatura do REsp n. 1.946.630, até a presente data, ainda não foi apreciada a proposta de afetação, na forma do art. 256-E do RISTJ, razão pela qual inexiste motivação para a suspensão do feito.
+VII - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+VIII - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.900.894/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/2/2022, DJe de 16/2/2022).
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ E ART. 253, PARÁGRAFO ÚNICO, II, B, DO RISTJ. IRPJ E CSLL. RENDIMENTO DE APLICAÇÕES FINANCEIRAS. INCIDÊNCIA. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, ao fundamento de que "ambas as Turmas do STJ assentaram a ótica segundo a qual é legítima a incidência do IRPJ e da CSLL sobre a totalidade dos rendimentos auferidos em aplicações financeiras".
+ ..
+(EDcl no AgInt no REsp n. 1.924.728/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe de 12/11/2021).
+Dessa forma, o entendimento fixado pelo acórdão recorrido encontra-se em consonância com a compreensão formada por esta Corte Superior.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
