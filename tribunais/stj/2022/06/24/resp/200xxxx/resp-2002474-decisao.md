@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especialinterposto por BANCO SANTANDER (BRASIL) S.A., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado da Paraíbaassim ementado:
+"PROCESSUAL CIVIL - Apelação - Contrarrazões -Preliminar - Ofensa ao princípio da dialeticidade recursal - Inocorrência - Rejeição.
+-Embora o recurso de apelação devolva ao Juízo "ad quem"toda a matéria objeto de controvérsia, o seu efeito devolutivo encontra limites nas razões suscitadas pelo recorrente e em homenagem ao princípio da dialeticidade, deve a parte insurgente, sob as penas do art. 932, III, do CPC, observar a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo recurso para justificar o pedido de reforma do julgado combatido, diretriz essa observada no recurso em pauta.
+CIVIL- Prejudicial - Ação declaratória - Prescrição trienal- Inaplicabilidade - Direito pessoal - Incidência do art.205, "caput"do Código Civil - Prazo decenal -Entendimento firmado pelo STJ e por esta Corte -Rejeição.
+- Conforme remansosa jurisprudência do Superior Tribunal de Justiça, o prazo prescricional para as ações revisionais bancárias, nas quais se pede o reconhecimento de cláusulas contratuais abusivas, e a consequente restituição das quantias pagas a maior ou de forma indevida, é o geral, previsto no artigo 205 do Código Civil, ou seja, de 10(dez)anos, a contar da data final do contrato(sob a égide do CC/2002) ou vintenário(na vigência do Código Civil 1916), porquanto fundadas em direito pessoal.
+PROCESSUAL CIVIL - Apelação - Preliminar - Coisa julgada - Ação declaratória c/c indenização por danos materiais - Cobrança dos juros incidentes sobre as tarifas analisadas e declaradas ilegais em processo anterior -Pedido distinto ao da presente ação - Inocorrência de coisa julgada material - Precedentes do STJ e desta Corte -Rejeição. Se na ação onde se julga esta irresignação o pedido é a- declaração de nulidade e devolução dos juros remuneratórios/contratuais incidentes sobre as tarifas bancárias, não se pode acoimar de coisa julgada material a sentença que, em outro processo, tramitado em Juizado Especial Cível, envolvendo as mesmas partes, acolheu pedido de declaração de nulidade e devolução das próprias tarifas bancárias, sem os seus reflexos- Apelação - Ação declaratória c/c CIVIL E CONSUMIDOR indenização por danos materiais - Contrato de financiamento - Tarifas declaradas abusivas em sentença transitada em julgado em Juizado Especial - Pleito de restituição dos juros reflexos sobre tais valores -Cabimento - Encargos acessórios que seguem a obrigação principal - Art. 184, do Código Civil - Desprovimento.
+- Tendo ocorrido a declaração de nulidade de tarifas, em demanda anteriormente proposta, cujo trânsito em julgadoá houve, urge salutar a restituição dos juros sobre elas reflexos, por ocasião da acessoriedade de tais encargos em relação às obrigações principais. - "Código Civil - Art. 184. Respeitada a intenção das partes, a invalidade parcial de um negócio jurídico não o prejudicará na parte válida, se esta for separável; a invalidade da obrigação principal implica a das obrigações acessórias, mas a destas não induz a da obrigação principal." (e-STJ fls. 265/267)
+Nas razões do especial, orecorrente, além de divergência jurisprudencial, sustentaviolação dos artigos 337, §§ 1º, 2º, 4º e 502 do Código de Processo Civil de 2015.
+Aduz violação à coisa julgada.
+Menciona que
+"(..) vez que tendo como núcleo da insurgência a cobrança de juros remuneratórios sobre tarifas próprias do contrato bancário, uma vez declaradas nulas referidas tarifas e exigida a repetição dos valores pagos em ação pretérita, estão inclusos os referidos juros e os demais consectários.
+Analisando o pedido direcionado emação pretérita, extrai-se que foi pleiteado expressamente o pagamento da quantia indevida em dobro,bem como dos acréscimos decorrentes, sendo corrigidos pelos mesmos índices aplicados pela instituição." (fl. 312e-STJ).
+Contrarrazões às fls.342/347 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com relação ao argumento de violação à coisa julgada, o Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Todavia, a causa de pedir e os pedidos das demandas são diversas, eis que na ação primeva,in concreto, que tramitou no 3º Juizado Especial Cível da Capital(ID 5183967 e 5183865), o pleito referia-se à declaração de abusividade de cláusulas contratuais firmadas entre as partes(ID 5183968), ao passo em quena demanda ajuizada na 12ª Vara Cível da Comarca da Capital, que ora se examina em grau de recurso, ela objetiva a devolução dos reflexos (juros) sobre as taxas e tarifas reprovadas no âmbito do Juizado Especial e que incidiram ao longo do financiamento, pugnando pela sua devolução em dobro (serviços correspondentes prestados à financeira e inserção de gravame)"(fl. 244e-STJ).
+Areforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA. INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MULTA DECENDIAL. JUROS DE MORA. DESCABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ.SÚMULA 83/STJ. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. REVISÃO.
+INCIDÊNCIA DA SÚMULA 7/STJ. JUSTIÇA GRATUITA. REVOGAÇÃO DO BENEFÍCIO. ALTERAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+(..)
+3. O acórdão recorrido reconheceu que o título executivo judicial não determinou a incidência dos juros de mora para a multa decendial, concluindo, em consequência, sem implicar ofensa à coisa julgada, que houve excesso de execução. Alterar essas conclusões demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. No caso, o Colegiado estadual, após a análise das particularidades da causa, concluiu que a situação de insuficiência de recursos para arcar com as despesas processuais deixou de existir, revogando os benefícios da justiça gratuita deferidos aos autores. Diante desse cenário, reverter a aludida convicção demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula 7/STJ.
+5. Agravo interno desprovido"
+(AgInt no AREsp 1.646.878/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/8/2020, DJe 1º/9/2020).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, não conheço do recurso especial.
+Em observância ao art. 85, § 11, do CPC/2015, majoro em 5% (cincopor cento) a verba honorária atribuída ao recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
