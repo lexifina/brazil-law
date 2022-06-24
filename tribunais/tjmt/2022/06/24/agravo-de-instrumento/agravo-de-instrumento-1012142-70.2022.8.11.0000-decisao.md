@@ -1,0 +1,44 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1012142-70.2022.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DA CAPITAL
+AGRAVANTE: INSTITUTO DE PESOS E MEDIDAS DE MATO GROSSO – IPEM/MT;
+AGRAVADA: ELISEU KOPP & CIA LTDA.
+Vistos etc.
+Agravo de instrumento, com pedido de efeito suspensivo, interposto pelo Instituto de Pesos e Medidas de Mato Grosso – IPEM/MT contra a decisão que, em ação de obrigação de fazer proposta por Eliseu Kopp & Cia Ltda., deferiu a tutela provisória de urgência.
+Alega, em preliminar, que “a decisão agravada é ultra/extra petita, visto que concedeu mais do que pleiteou o agravado”. Ainda, “a decisão ora recorrida ofendeu o princípio da adstrição ou congruência, violando os artigos 141 e 492 do Código de Processo Civil, os quais impedem que o magistrado profira decisão fora dos limites propostos na lide”, pelo que deve ser anulada.
+No mérito, assegura que, a agravada “possui relação jurídica direta com o INMETRO (Instituto Nacional de Metrologia, Qualidade e Tecnologia), autarquia federal esta citada no Contrato no 941/2010, a qual caberia a aferição e emissão de laudos de aprovação (e não com o IPEM, de forma direta)”. Logo, a autarquia estadual não está legitimada a figurar no polo passivo da demanda, por conseguinte, inadmissível o deferimento de tutela provisória de urgência contra si.
+Assevera que tentou “todos os meios solucionar o pleito do agravado, contudo, em razão de conduta dele próprio, pode existir dificuldade no término do processo, uma vez que não há clareza nos dados, inexistindo qualquer conduta de improbidade administrativa no caso vertente, de forma indubitável. Denota-se, assim, que não há e nem poderia haver, nestas circunstâncias, qualquer probabilidade do direito invocado”.
+Requer a suspensão da eficácia da decisão.
+É o relatório.
+Eis, no ponto de interesse, o teor da decisão:
+[...] Os documentos indiciários apontam que de forma reiterada a requerente buscou na via administrativa solucionar o impasse no fornecimento e correções de laudos técnicos pelo requerido. Houve diversas solicitações formalizadas por e-mail (endereço eletrônico), por Notificação Extrajudicial (id 83416753), e, ainda foram abertas duas ocorrências na Ouvidoria da Autarquia Estadual, sem êxito, o que traduz em aparente desídia e ofensa ao direito da autora.
+Nestas condições, atento a situação fática processual e preenchida os requisitos legais, na forma do artigo 300/CPC, defiro o pedido liminar e determino ao requerido que promova a emissão dos laudos e certificados dos equipamentos constantes do anexo III (ID 83414890), no prazo máximo de até 30 (trinta) dias, mediante comprovação nos autos, pena de multa diária no valor de R$ 1.000,00 (um mil reais). [...]. (Processo Judicial Eletrônico no 1016126-36.2022.8.11.0041, Primeira Instância, Id. 83558659 – fls. 3).
+De início, constato que não há qualquer julgamento ultra ou extra petita, visto que o Juízo de Primeiro Grau analisou a pretensão nos exatos termos requeridos na inicial.
+Quanto à alegação de ilegitimidade, verifica-se que a própria autarquia entende que é parte legítima a figurar no polo passivo da demanda, visto que admitiu a sua participação no fato a ela imputado:
+[...] Pelo que evidenciamos a empresa Eliseu Koop ao solicitar o serviço identificava e controlava o instrumento fazendo relação entre número de série e número INMETRO (número este móbil), o formato do controle das informações geraram todos os transtornos, pois quando número do INMETRO era substituído por ser delével e corriqueiramente substituído, a empresa entende que o serviço não fora prestado de forma equivocada.
+Registramos que quando o fiscal in loco verifica o instrumento, e identifica que o número de INMETRO não estava fixado no instrumento, já que é um adesivo móbil e delével de controle institucional, substituía por outro número e emitia laudo e certificado, enviava ao antigo colaborador da empresa Eliseu Koop chamado Sr. Alessandro Rosa, colaborador da empresa Kopp, que recebia as informações consoantes as verificações ocorridas, em formato por e-mail ou presencial.
+Ocorre que os e-mail ́s institucionais tem limite de capacidade e essas informações de entrega ficaram prejudicadas com o lapso temporal decorrido.
+[...]
+Outrossim registramos que temos diversos relatos que quando da chegada na rodovia para verificação do instrumento deparava-se com o instrumento radar depredado, caído ao solo por ações de vândalos, alguns casos manifestantes indígenas derrubavam os instrumentos; nesses casos a verificação metrológica não era realizado, comunicava-se a empresa Koop e quando do conserto servidores fiscais retornavam para verificação e acreditamos que nesses casos também a empresa Koop pode estar com no INMETRO antigo e quando efetivamente verificado o IPEM fez constar outro no INMETRO.
+Importante salientar que o instrumento radar, fica situado em rodovias ao relento e sofre intempéries de sol, chuva, e os certificados emitidos número de controle utilizado pela empresa Eliseu Koop não trata-se de informação fixas do instrumento, insta salientar que não deveria ser o número de controle da verificação do instrumento.
+Ratificamos que todas essas atividades desempenhadas pelo IPEM-MT em nome do INMETRO, são emitidas Guia de Recolhimento da União – GRU, e que o sistema informatizado relatório SGI 8.1.1.3.8, anexo, demonstra guias efetivamente pagas, e através destas guias geramos segunda via de certificados que temos a convicção que foram realizados de forma fidedignas constando todas informações que os regulamentos INMETRO exigem. [...]. (informações prestadas, em 25 de maio de 2022, pelo Diretor de Legislação e Processos Metrológicos do Instituto de Pesos e Medidas de Mato Grosso – IPEM/MT, Id. 132530680).
+Ademais, não se verifica a existência de justo motivo para recusa de fornecer os laudos requeridos pela agravada, que pudesse eximir da obrigação, sobretudo, ao considerar que a própria autarquia já havia afirmado a possibilidade de fazê-lo nos anos de 2018 e 2019, conforme informações existentes no Ofício no 4/2018-DLA/IPEM-MT, datado de 21 de novembro de 2018, bem como no Ofício no 1/2019/CFI/DF/IPEM-MT, datado de 8 de janeiro de 2019 (Primeira Instância, Id. 83414870 e Id. 83414871).
+Por outro lado, a imposição de multa cominatória ao Poder Público, no frigir dos ovos, acaba por prejudicar, tão somente, a coletividade; o agente público ou político jaz ileso, sem responder, pessoalmente, pelas consequências do descumprimento de ordem judicial; livre, leve e solto para continuar a desafiá-la. Logo, exige-se a busca de meio bastante para assegurar a efetividade da prestação, sem onerar, ainda mais, o depauperado erário.
+Ademais, a Lei no 1.079, de 10 de abril de 1950, que define os crimes de responsabilidade e regula o respectivo processo de julgamento, dispõe:
+[...] DOS CRIMES CONTRA O CUMPRIMENTO DAS DECISÕES JUDICIÁRIAS;
+Art. 12. São crimes contra o cumprimento das decisões judiciárias:
+1 - impedir, por qualquer meio, o efeito dos atos, mandados ou decisões do Poder Judiciário;
+2 - Recusar o cumprimento das decisões do Poder Judiciário no que depender do exercício das funções do Poder Executivo;
+3 - deixar de atender a requisição de intervenção federal do Supremo Tribunal Federal ou do Tribunal Superior Eleitoral;
+4 - Impedir ou frustrar pagamento determinado por sentença judiciária.
+[...]
+Art. 74. Constituem crimes de responsabilidade dos governadores dos Estados ou dos seus Secretários, quando por eles praticados, os atos definidos como crimes nesta lei. [...]. [sem negrito no original]
+É certo que as condutas capituladas como crimes de responsabilidade traduzem-se em atos de improbidade administrativa: “Constitui ato de improbidade administrativa que atenta contra os princípios da administração pública a ação ou omissão dolosa que viole os deveres de honestidade, de imparcialidade e de legalidade” (Lei no 8.429, de 2 de junho de 1992, artigo 11, com a redação dada pela Lei no 14.230, de 25 de outubro de 2021).
+Decidiu o Supremo Tribunal Federal:
+[...] A multa de R$ 1.000,00 (mil reais), por dia, imposta ao Poder Público deve ser afastada, uma vez que pode gerar maior prejuízo à coletividade. [...]. (STF, Tribunal Pleno, SL 764/AM AgR, relator Ministro Ricardo Lewandowski, publicado no Diário da Justiça Eletrônico em 4 de março de 2015). [sem negrito no original]
+Essa, a razão por que suspendo, em parte, a eficácia da decisão tão somente em relação à multa cominatória, até o julgamento definitivo da Câmara (Código de Processo Civil, artigo 1.019, I, primeira parte).
+Comuniquem-se o Juízo (Código de Processo Civil, artigo 1.019, I, parte final) e intime-se a agravada para que responda (Código de Processo Civil, artigo 1.019, II).
+Após, à Procuradoria-Geral de Justiça.
+Intimem-se.
+Às providências.
+Cuiabá, 24 de junho de 2022.
+Des. Luiz Carlos da Costa
+Relator
