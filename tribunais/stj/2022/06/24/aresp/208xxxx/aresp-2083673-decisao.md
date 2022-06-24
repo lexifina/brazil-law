@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JURANDIR DIAS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de despejo por falta de pagamento c/c cobrança de alugueis. Fornecimento de energia elétrica. Insurgência contra decisão saneadora que afirmou a legitimidade da agravada para figurar no polo ativo do processo, rejeitou a impugnação ao benefício da justiça gratuita concedido à demandante e designou audiência de instrução e julgamento. Instrumento particular de promessa de doação, através do qual o locador (falecido) doou o imóvel locado à sua filha/ agravada. Legitimidade para figurar no polo ativo do processo reconhecida. Decisão que rejeita impugnação à concessão do benefício da justiça gratuita e também aquela que determina a produção de provas oral e documental não podem ser impugnadas por meio de agravo de instrumento. Matérias impugnadas que não constam do art. 1.015 do CPC. Rol taxativo Decisão mantida. RECURSO NÃO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022 do CPC de 2015; 1.227 e 1.245, do CC.
+Alega, em síntese, que "o escrito entre particulares só produzem efeitos entre eles, pois contra terceiros há necessidade de que os contratos de transmissão obedeçam a legislação, devendo obedecer as formalidades legais".
+É o relatório.DECIDO.
+2. De início, não se pode conhecer da apontada violação do art. 1.022 do CPC/2015, pois as alegações que tentam fundamentá-la são genéricas, sem a indicação de maneira clara e precisa dos pontos efetivamente omissos, contraditórios ou obscuros do acórdão impugnado, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária e nem demonstrar a relevância delas para o julgamento do feito. Incide, na espécie, a Súmula n. 284/STF.
+A propósito (grifo meu):
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015.DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL INADMITIDO NA ORIGEM. SISTEMÁTICA DOS RECURSOS REPETITIVOS. AGRAVO INTERNO. ÚNICO RECURSO CABÍVEL.
+1. A parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara e precisa, o vício em que teria incorrido o acórdão impugnado. Assevera, de modo genérico, que existem omissões e contradições não sanadas pelo Tribunal a quo, sem, contudo, indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Incide, na espécie, a Súmula 284/STF.
+ ..  4. Recurso Especial do qual não se conhece.
+(REsp 1678864/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017)
+3. No mais, as matérias referentes aos artigos 1.227 e 1.245, do CC não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
