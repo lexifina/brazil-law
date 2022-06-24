@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu parcial provimento ao recurso de apelação da defesa.
+Sustenta o recorrente ofensa ao art. 68 do CP, argumentando que o aumento cumulativodas majorantes - concurso de agentes e emprego de arma de fogo -, relativo ao 4º fato,veio desacompanhadode justificativa idônea, pleiteando o provimento do recurso para a readequação da dosimetria.
+Contra-arrazoado e admitido, manifestou-se o Ministério Público pelo não conhecimento do recurso especial.
+O recorrente foi condenado como incurso no crime do art. 157, §2º-A, I (1º, 2º e 3º fatos), e do art.157, §2º, II e §2º-A, I (4º fato), todos do Código Penal, às penas de 32 anos e 6 meses de reclusão, em regime fechado, mais 80 dias-multa.
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso da defesa para reduzir a pena para 28 anos de reclusão, em regime fechado, mais 44 dias-multa.
+Relativamente ao aumento pelas majorantes do concurso de agentes e do emprego de arma de fogo (4º fato), o acórdão encontra-se assim fundamentado (fl. 590):
+Na terceira fase, verificada a majorante do emprego da arma de fogo, correta a aplicação da fração de 2/3, equivalente a 2 anos e 8 meses, assim como da majorante do concurso de agentes, o que comporta a aplicação da fração de1/3, equivalente a 1 ano e 4 meses, resultando a pena carcerária em 8 anos de reclusão.
+Sobre o tema, "A jurisprudência desta Corte é pacífica no s e ntido de ser "possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda. O art. 68, parágrafo único, do Código Penal não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes" (AgRg no HC 615.932/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 27/10/2020). (AgRg no HC 598.746/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021).
+No entanto, "optando o magistrado sentenciante pela incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos, a evidenciar o maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa" (HC n. 501.063/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020).
+Como se observa do excerto acima transcrito, não foram declinados motivos que desbordem do tipo penal para a aplicação cumulada das majorantes, de modo que ausente concreta fundamentação, a evidenciar maior grau de reprovabilidade da conduta, deve incidir apenas o maior aumento (2/3) na dosimetria da pena.
+Procede-se, assim, ao redimensionamento da pena relativa ao 4º fato. Fixada a pena provisória de 4 anos de reclusãoe 10 dias-multa, incide, na terceira fase, o aumento único de 2/3, pelo concurso de agentes e ao emprego de arma de fogo, resultando 6 anos e 8 meses de reclusão, mais12 dias-multa.
+Observado o concurso material de crimes, somadas as penas dos quatro fatos, fica a pena definitiva estabelecida em 26anos e 8 meses de reclusão,mais 44 dias-multa.Mantido o regime fechado, nos termos do art. 33, § 2º, "a", do CP.
+Ante o exposto, dou provimento ao recuso especial para, nos termos do art. 68 do CP,fazerincidir apenas o maior aumento (2/3) na dosimetria da pena relativa ao 4º fato, reduzindoa reprimenda do recorrente para 26 anos e 8 meses de reclusão, em regime fechado, mais 44 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
