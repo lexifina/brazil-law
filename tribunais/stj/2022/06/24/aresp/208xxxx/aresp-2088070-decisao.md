@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto por CRISTIANO PEREIRA TEIXEIRA de decisão na qual se conheceu do agravo.
+Oagravanteaduzque "refutou a suposta incidência da Sumula 07/STJ na espécie, reafirmando que o exame da matéria de fundo não demanda o revolvimento de provas, colacionando, inclusive, aresto que comprova a fundamentação" (e-STJ, fl. 1686).
+Pleiteia a reconsideração da decisão agravada ou a submissão do feito ao colegiado para que seja decotado o aumento da pena-base em razão das consequências do crime.
+É o relatório.
+Decido.
+Diante das alegações trazidas, verifica-se que razão assiste aoagravante, sendo hipótese de reconsiderar a decisão de fls. 1677-1678 para dar provimento ao recurso especial.
+No que se refere à suscitada violação do art. 59 do Código Penal, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Confira-se a dosimetria confirmada pelo Tribunal de origem:
+"Acusado Cristiano Teixeira Pereira:
+Analisando as balizas judiciais do art. 59 o CP, o douto Juízo a quo entendeu desfavoráveis a culpabilidade, os antecedentes, as consequências e os motivos do delito, fixando a pena-base em 06 (seis) anos de reclusão e 60 (sessenta) dias-multa. Ora, analisando as circunstâncias judiciais do art. 59 do CP, primeiramente, vislumbro sua culpabilidade exarcebada. A meu ver, houve excesso, além daquele já previsto para o tipo penal, na conduta delitiva, eis que houve disparo de arma de fogo contra uma das vítimas, a qual nãoveio a óbito, felizmente. A culpabilidade do acusado ultrapassou aquela necessária à própria transgressão do ilícito, donde a reputo desfavorável.
+O réu é portador de maus antecedentes, consoante análise das Certidões de Antecedentes Criminais acostadas às fis. 70, 92/94, 101, 250/252 e 1052/1 056. Inexistem nos autos indicativos da personalidade e conduta social do apelante, donde as reputo favoráveis.
+As circunstâncias e os motivos são inerentes ao próprio tipo penal.
+De fato, entendo as conseqüências desfavoráveis, eis que não restituída a res furtiva.
+Por fim, o comportamento das vítimas não influenciou a conduta delitiva.
+Assim, reduzo a pena-base para o quantum 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa, esta última pelo princípio da proporcionalidade, que se afigura justa e razoável à espécie." (e-STJ, fls. 1597-1598).
+No tocante às consequências do crime, nos termos da jurisprudência do Superior Tribunal de Justiça, "o fato de à vítima não ter tido restituída inteiramente a res furtiva não autoriza a exasperação da pena-base pelas consequências do delito, visto que a subtração de coisa alheia móvel constitui elementar do próprio tipo penal violado, de natureza patrimonial" (HC 219.582/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 01/02/2013).
+Também nesse sentido:
+" .. .
+Constatando-se que a autoridade apontada como coatora limitou-se a afirmar que as consequências do crime eram negativas tendo em vista que a res furtiva não foi recuperada, não há como sopesar a citada circunstância judicial negativamente, já que, de acordo com os autos, o prejuízo das vítimas não se mostrou excessivo.  .. ." (HC 309.732/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/05/2015, DJe 20/05/2015).
+" ..  esta Corte firmou compreensão no sentido de que, "a não restituição da res furtiva não pode justificar o aumento da pena-base a título de conseqüência do crime por se tratar de aspecto inerente ao próprio tipo penal de roubo." (HC n. 81.656/DF, Relator Ministro ARNALDO ESTEVES LIMA, DJe 23/06/2008)." (REsp 683.122/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 24/11/2009, DJe 03/05/2010).
+Sendo assim, não tendo o acórdão impugnado demonstrado eventual prejuízo excessivo à vítima, não pode a mencionada circunstância judicial ser valorada negativamente.
+Passa-se, portanto, à nova dosimetria da pena, com base no que estabelecido nas instâncias ordinárias.
+Diante do afastamento da valoração negativa das consequências do crime, com a redução proporcional da pena, fixo a pena-base em 4 anos, 11 meses e 10 diasde reclusão e 12 dias-multa. Na segunda etapa da dosimetria, ausentes atenuantes ou agravantes, fica mantida a pena-base.Na terceira fase, presente a majorante do art. 157, §2º, II do CP,aumento a pena em 1/3, ficando definitivamente estabelecida em 6 anos, 7meses e 3 diasde reclusão, em regime inicial semiaberto, e 16 dias-multa.
+Ante o exposto, reconsidero a decisão de fls. 1677-1678 e, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ,conheçodo agravo paradar provimentoao recurso especial, a fim de decotar o aumento da pena-base em razão das consequências do crime, redimensionando a pena do agravante para6 anos, 7 meses e 3 dias de reclusão, em regime inicial semiaberto, e 16 dias-multa.
+Nos termos do art. 580 do CPP, estendo os efeitos desta decisão aos corréus Júlio Cesar Teixeira e Carlos Gustavo Pereira, paradecotar o aumento da pena-base em razão das consequências do crime, com a devida redução proporcional da reprimenda.
+Publique-se. Intimem-se.
