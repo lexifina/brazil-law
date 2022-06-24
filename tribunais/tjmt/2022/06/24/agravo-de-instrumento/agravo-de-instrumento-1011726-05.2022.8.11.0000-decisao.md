@@ -1,0 +1,32 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) 1011726-05.2022.8.11.0000
+AGRAVANTE: MILTON LUIS BELLINCANTA
+AGRAVADO: BANCO DO BRASIL S.A.
+Vistos etc.
+Trata-se de recurso de agravo de instrumento interposto por MILTON LUIS BELLINCANTA contra decisão proferida pelo MM. Juiz de Direito da 2a Vara da Comarca de Sinop/MT, de rejeição de sua impugnação, nos termos do artigo 830, §3o c/c artigo 854, §5o, ambos do CPC, com a conversão da indisponibilidade em penhora.
+O agravante relata que se trata na origem de Execução de Título Extrajudicial movida pelo agravado para a cobrança de valores que supostamente lhe seriam devidos em decorrência do inadimplemento da Cédula Rural Pignoratícia no 16/37217- 4 (EX 40/02709-0), emitida em 15/3/2010, com vencimento inicial para 15/3/2011; após tentativas infrutíferas de citação, o agravado requereu arresto online dos ativos financeiros existentes nas contas bancárias de titularidade do agravante.
+Narra que o pedido foi deferido, resultando no bloqueio positivo de R$ 41.524,393, sendo o valor de R$ 41.091,254 perante o CCLA Norte de Mato Grosso e R$ 433,145 perante o Banco Original S.A.; alega a impenhorabilidade do valor bloqueado perante a CCLA Norte de Mato Grosso (“Cooperativa de Crédito de Livre Admissão Norte de Mato Grosso”) (R$41.091,256) por se tratar de pró-labore.
+Aduz que o valor se refere a verba salarial, de modo que tal constrição é vedada, nos termos do art. 833, IV do Código de Processo Civil; cita que o pró-labore tem como objeto a remuneração das atividades desempenhadas por ele como sócio da empresa Vale Grande Indústria e Comércio de Alimentos Ltda. (“Vale Grande”), portanto, possui caráter alimentar, haja vista que se trata de verba de cunho salarial, de modo que é impenhorável.
+Assevera que sua renda não supera 50 (cinquenta) salários-mínimos, descrito no §2o do art. 833 do Código de Processo Civil, não se verificando, portanto, hipótese que autorizaria a aplicação da exceção trazida no Diploma Processual; indica que o agravado poderá prosseguir com o levantamento dos valores recebidos, que são essenciais e impenhoráveis, o que evidencia o perigo de dano ou risco ao resultado útil do processo.
+Comenta que não está presente o perigo de dano reverso, considerando se tratar de valor essencial ao agravante, sobretudo porque o Banco agravado já pleiteou a penhora de outros bens na origem (bens imóveis de titularidade do Sr. Milton).
+Requer a antecipação da tutela recursal, de modo a deferir o levantamento do montante e, a suspensão da r. decisão agravada, de modo a evitar, ao menos até o final do julgamento deste recurso, o levantamento dos valores pelo Banco agravado. No mérito, pugna pelo provimento do recurso, para que seja acolhida a impugnação à penhora do agravante, revogando-se a penhora dos valores bloqueados pelo BACENJUD, com a consequente liberação do montante em favor do agravante.
+É o relatório.
+O CPC/2015 assim dispõe sobre a concessão do efeito ativo ao recurso de agravo de instrumento:
+"Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+1 - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão ".
+O Código de Processo Civil estabelece em seu artigo 833, IV que são impenhoráveis:
+“IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2”.
+Na decisão agravada o MM. Juiz fez menção a tal dispositivo legal. Todavia, entendeu não demonstrada a transferência do valor recebido da empresa Vale Grande Indústria e Comércio de Alimentos Ltda. (R$ 56.051,70) de uma conta bancária para outra e que o valor depositado pela empresa era o único valor disponível entre a data do depósito e a data do bloqueio.
+O agravante apresenta Demonstrativos de Pagamento de Salário (pró-labore) dos meses de setembro/2019 (R$18.528,67), outubro/2019 (R$18.528,67) e novembro/2019 (R$18.994,36) e traz comprovante de transferência bancária realizada em 28.11.2019 em quantia que representa a soma dos três valores citados (R$ 56.051,70). O depósito foi realizado pela empresa Vale Grande Indústria e Comércio de Alimentos Ltda. no Banco 756 – Banco Cooperativo do Brasil S.A., tendo o agravante como favorecido.
+Já no extrato do BACENJUD, verifica-se que foram bloqueadas quantias na Cooperativa de Crédito de Livre Admissão Norte de Mato Grosso e no Banco Original S.A. Ou seja, como registrado na decisão agravada, o agravante não demonstrou as transferências aos bancos em que foram realizados os bloqueios, de modo a vincular os valores ao pró-labore (recebido no Banco n. 756).
+Todavia, a decisão agravada, em princípio, diverge do entendimento do STJ, de que “todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos, são impenhoráveis, bem como que a simples movimentação atípica, por si só, não seria capaz de caracterizar má-fé ou fraude.” (AgInt no REsp n. 1.973.857/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/5/2022.).
+A medida judicial resultou no bloqueio positivo de R$ 41.524,393, inferir a 40 salários mínimos, de modo que aplicável, em conjunto com o precedente acima, o disposto no artigo 833, X, do CPC:
+“Art. 833. São impenhoráveis:
+[...]
+X - a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos; [...]”.
+Portanto, nessa fase de cognição sumária, vislumbro em parte a probabilidade de provimento do recurso e o perigo de dano ou risco ao resultado útil do processo, a ensejar na concessão parcial do efeito suspensivo.
+Com essas considerações, em razão da presença, em parte, dos requisitos previstos no artigo 300 e artigo 995, parágrafo único do Código de Processo Civil, defiro em parte a liminar recursal, para suspender a r. decisão agravada para que não haja o levantamento da quantia pelas partes até o final do julgamento deste recurso.
+Intimem-se os agravados para apresentarem contrarrazões.
+Cuiabá, 24 de junho de 2022
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
