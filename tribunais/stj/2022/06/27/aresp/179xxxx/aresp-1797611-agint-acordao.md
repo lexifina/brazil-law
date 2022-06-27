@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu do pedido para conhecer parcialmente do Recurso Especial, apenas com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento, reafirmando a incidência das Súmulas 7 e 83/STJ.
+Prysmian Cabos e Sistemas do Brasil S/A defende:
+Na origem, trata-se de ação ordinária proposta com o objetivo de anular arrolamento de bens promovido de ofício pela Receita Federal do Brasil com fulcro no art. 64 da Lei nº 9.532/97, tendo em vista a ilegitimidade do procedimento adotado.
+ ..
+Sendo assim, a Agravante interpôs recurso especial com fundamento na alínea "a" do permissivo constitucional por entender que o E. Tribunal a quo violou os arts. 489, § 1º, IV e 1.022, II do CPC/15, por conta da rejeição imotivada dos aclaratórios e, no mérito, o art. 151 do CTN, que trata da suspensão de exigibilidade dos créditos tributários, bem como o art. 20, §§ 3º e 4º, do CPC/73, segundo o qual a condenação em honorários sucumbenciais deve se dar com base no critério de equidade.
+ ..
+Reconhecendo ser pacificado o entendimento desse E. STJ no sentido de que a existência de recursos ou impugnações administrativas nos procedimentos fiscais, apesar de acarretar a suspensão da exigibilidade do crédito tributário, nos termos do art. 151, III, do CTN, não obsta a realização do arrolamento fiscal, a Agravante deixa de se insurgir quanto ao ponto, sem prejuízo do regular processamento do presente recurso no que se refere ao fundamento autônomo da violação ao art. 489 e 1.022 do CPC/15 e à ausência de óbice da Súmula 7/STJ.
+ ..
+In casu, a Agravante invocou - tanto em sua apelação quanto nos embargos de declaração - diversos argumentos que justificam o levantamento do arrolamento de seus bens, bem como elencou motivos pelos quais seria cabível a redução da verba honorária fixada em montantes excessivos. Tais fundamentos, contudo, foram ignorados pelo Tribunal de origem.
+Quanto aos pontos, a Agravante suscitou a existência de:
+ ..
+Omissão no que se refere ao capítulo da condenação em honorários, uma vez que o acórdão de origem se limitou a afirmar que a verba sucumbencial foi arbitrada "no percentual mínimo previsto no § 3º do artigo 20 do CPC/73, aplicável ao caso, não havendo, portanto, que se falar em redução da aludida verba" sem, contudo, examinar os argumentos de que:
+(i) a presente lide não implica maior complexidade que justifique o pagamento de soma tão elevada para a União, notadamente diante do julgamento antecipado da lide, não se compatibilizando com a regra de equidade prevista no art. 20, § 4º, do CPC, tendo em vista que, não tendo havido condenação no presente feito (a ação foi julgada improcedente), não tem cabimento a fixação da sucumbência na faixa percentual prevista no § 3º do art. 20, do mesmo diploma legal, devendo ser revistos os honorários considerando o ínfimo trabalho despendido pela ora Agravada;
+(ii) a sentença recorrida deixou de considerar que foi determinada, no início do processo, a retificação do valor atribuído à causa para R$ 2.000.000,00, de modo que a condenação imposta representaria valor superior a R$ 200.000,00, excessivo, data maxima venia, diante do grau reduzido de dificuldade da causa.
+ ..
+No caso de que se cuida, é fato incontroverso que a causa não comporta condenação, porque não questiona a exigibilidade de supostos débitos fiscais, mas a legitimidade do arrolamento de ofício procedido pela RFB com fulcro no art. 64, da Lei nº 9.532/97.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. HONORÁRIOS. SÚMULAS 7 E 83/STJ. INCIDÊNCIA.
+1. Trata-se de Agravo Interno contra decisão que conheceu do pedido para conhecer parcialmente do Recurso Especial, apenas com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento, reafirmando a incidência das Súmulas 7 e 83/STJ.
+2. A parte agravante deixou de apontar a presença de circunstâncias similares, a caracterizar efetivo dissídio de entendimento a respeito da alegada exorbitância dos honorários advocatícios, o que pode atrair a redução pelo critério equitativo.
+3. O Superior Tribunal de Justiça pacificou a orientação de que o quantum da verba honorária está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+4.O arbitramento dos honorários advocatícios, de forma equitativa, nos termos do art. 20, § 4º, do CPC/1973 não impede fixação em valores percentuais.
+5. O reexame das razões de fato que conduziram a Corte de origem a tal condenação significa usurpação da competência das instâncias ordinárias. Incide a Súmula 7/STJ (REsp 1.446.066/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 12.5.2014).
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24 de maio de 2022.
+A questão de fundo foi reconhecida pela parte que deixou de se insurgir quanto ao ponto por ter solução pacificada neste Superior Tribunal de Justiça, veja-se:
+"Nos termos do art. 64 da Lei 9.532/1997 a autoridade fiscal competente procederá ao arrolamento de bens e direitos do sujeito passivo sempre que o valor dos créditos tributários de sua responsabilidade for superior a trinta por cento do seu patrimônio conhecido. Atualmente, tal procedimento só é exigido da referida autoridade quando o crédito tributário for superior a R$ 2.000.000,00 (dois milhões de reais), nos termos do art. 2º da Instrução Normativa da Receita Federal do Brasil nº 1.171/2011".
+"Consoante a jurisprudência desta Corte, o arrolamento de bem gera cadastro em favor do Fisco, destinado apenas a viabilizar o acompanhamento da evolução patrimonial do sujeito passivo da obrigação tributária, permanecendo o contribuinte no pleno gozo dos atributos da propriedade, tanto que os bens arrolados, por não se vincularem à satisfação do crédito tributário, podem ser transferidos, alienados ou onerados, independentemente da concordância da autoridade fazendária". (REsp 1.486.861/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma DJe 15.12.2014, no mesmo sentido: AgRg no REsp 1.313.364/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe 11.5.2015 AgRg no AREsp 305062/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 13.9.2013 ).
+Quanto à verba honorária, é consabido: "A jurisprudência desta Corte Superior admite a revisão do juízo de equidade referente à fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) quando o valor arbitrado é irrisório ou exorbitante, pois, nesses casos, a violação à aludida norma processual exsurge de maneira flagrante a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência".
+A parte embargante deixou de apontar a presença de circunstâncias similares a caracterizar efetivo dissídio de entendimento a respeito da alegada exorbitância dos honorários advocatício, o que pode atrair a redução pelo critério equitativo. Veja-se o pronunciamento do Tribunal a quo no acórdão integrativo (fl.1.111, e-STJ):
+No que diz respeito à questão em torno dos honorários advocatícios arbitrados, o julgado embargado foi suficientemente claro ao dispor pela impossibilidade de redução dos mesmos, na medida em que arbitrados no percentual mínimo previsto no § 3º do artigo 20 do CPC/73, aplicável ao caso. Assim, não há que falar em redução dos mesmos com fundamento no § 4º do aludido artigo 20 do CPC/73 que, como visto, é inaplicável à espécie.
+Conforme se verifica, inexistem, na espécie, quaisquer omissões.
+O Superior Tribunal de Justiça pacificou a orientação de que o quantum da verba honorária está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+O arbitramento dos honorários advocatícios, de forma equitativa, nos termos do art. 20, § 4º, do CPC, não impede a sua fixação em valores percentuais.
+Portanto, o reexame das razões de fato que conduziram a Corte de origem a tal condenação significa usurpação da competência das instâncias ordinárias. Incide a Súmula 7/STJ. (REsp 1.446.066/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 12.5.2014).
+Não me reconsiderei e submeto o Agravo Interno ao crivo do colegiado.
+Por todo o exposto, nego provimento ao Agravo Interno.
+É como voto.
