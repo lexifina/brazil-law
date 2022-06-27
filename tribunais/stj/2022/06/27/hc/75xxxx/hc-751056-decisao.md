@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor deCELSO LUIZ RODRIGUES, apontando como Autoridade Coatora oTribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o Paciente, preso cautelarmente desde 17/10/2017 (consoante informado na inicial- fl. 04), foi condenado, por sentença proferida no dia 31/03/2020, como incurso noart. 35, c.c. o art. 40, inciso IV, ambos da Lei n. 11.343/2006, à pena total de 15 (quinze) anos de reclusão, no regime inicial fechado, além de 1.800 (mil e oitocentos) dias-multa. Isso porque "exercia a liderança de grupo criminoso destinado à exploração do tráfico de drogas na Comunidade da Vila Vintém, a qual forneceu apoio material e logístico à tentativa de retomada da Comunidade da Rocinha" (fl. 50),sendo que, "apesar de estar preso na data dos fatos" (ibidem), "emanou ordem para que seu comparsas participassem da tentativa de retomada da Comunidade da Rocinha, o que se deu com a prática de inúmeros disparos de arma de fogo de uso restrito, em apoio ao bando liderado pelo acusado ANTÔNIO FRANCISCO BONFIM LOPES" (fl. 51). Na sentença condenatória, o Juízo singular manteve a prisão cautelar (fl. 87).
+Segundo narra a Parte Impetrante, oSentenciado interpôs recurso de apelação em 18/05/2020 (fl. 04), ainda pendente de julgamento.
+No presente writ, a Defesa aduz excesso de prazo no processamento e julgamento do recurso de apelação.
+Acrescenta que " a situação assume especial relevo à medida que o Paciente conta com 60 (sessenta) anos de idade e possui graves problemas de saúde, tais como artrose nos joelhos, hipertensão, diabetes e obesidade" e necessita realizar cirurgia no joelho.
+Menciona, ainda, que o Paciente "já está  há tanto tempo preso preventivamente que poderia, inclusive, alcançar o livramento condicional"(fl. 07), ressaltando o seu bom comportamento carcerário.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva do Paciente ou, subsidiariamente, a concessão de prisão domiciliar, "possibilitando assim que o paciente possa realizar seu tratamento médico" (fl. 12).
+É o relatório.Decido.
+De início, quanto ao pedido de prisão domiciliar para tratamento médico, observo que a questão suscitada não foi submetida à apreciação do Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito, mutatis mutandis:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+No que diz respeito àtesedefensivade excesso de prazo no julgamento da apelação - inclusive, ao argumento de que isso estaria inviabilizando o gozo de direitos do Paciente na execução penal-,registroque, no RHC 150.951/RJ, em trâmite nesta Corte desde 26/07/2021, foi formulada idêntica pretensão à veiculada no presente feito, em favor do mesmo Acusado.
+A presente impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de que os autos do recurso interposto estão melhor instruídos para julgamento, contando com acórdão do Tribunal a quo a respeito da matéria ventilada e parecer do Ministério Público Federal, e será oportunamente julgado.
+Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpuse recurso ordinário emhabeas corpusnos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade domandamus, porquanto não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado anteriormente.
+No mesmo sentido,v.g.: AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019; HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, INDEFIRO LIMINARMENTE ohabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PEDIDO DE PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. TESE DE EXCESSO DE PRAZO NO JULGAMENTO DO RECURSO DE APELAÇÃO.REITERAÇÃO DO PEDIDO FORMULADO NO RHC 150.951/RJ. LITISPENDÊNCIA. WRIT INDEFERIDO LIMINARMENTE.
