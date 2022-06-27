@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOK EMPREENDIMENTOS EM ALIMENTAÇÃO COLETIVA LTDA , com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO. EFEITO SUSPENSIVO. PREJUDICADO. LICITAÇÃO. CAPACIDADE TÉCNICO-OPERACIONAL. CRITÉRIOS. EDITAL. VIABILIZAR. PARTICIPAÇÃO. ATESTADO. COMPATIBILIDADE. PERTINÊNCIA. CARACTERÍSTICA. QUANTIDADE. ASPECTOS. RELEVANTES. SÚMULA 263/TCU. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. POSSIBILIDADE. MAJORAÇÃO.
+1. Considera-se prejudicado o pedido de atribuição de efeito suspensivo ao recurso de apelação, quando a recorrente ajuíza ação autônoma para discutir a matéria e não apresenta fato novo para justificar a renovação do pedido.
+2. A previsão no edital relativa a comprovação da aptidão técnica exigida pela Administração Pública deve viabilizar a participação do maior número de empresas na licitação, de modo a estimular a concorrência entre elas.
+3. O art. 30, II da Lei nº 8.666/93 exige que a atividade prévia desenvolvida pela empresa licitante seja pertinente e compatível em características, quantidades e prazo do objeto do contrato.
+4. De acordo com a súmula 263 do TCU, a comprovação da capacidade técnico-operacional das empresas licitantes deve ser limitada aos aspectos mais importantes e significativos do objeto do futuro contrato administrativo. 5. Nas hipóteses em que a verba honorária revelar-se exorbitante, é cabível o arbitramento mediante apreciação equitativa, com fundamento no art. 85, § 8º, do CPC, em atenção aos princípios da proporcionalidade e da razoabilidade (STJ, Aglnt nosEDcIno AREsp 1140294/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+6. O valor da causa, nas ações para anular processo licitatório, quando atribuído pelo total do lote do pregão que se pretende vencer, não tem nenhuma relação econômica com o proveito econômico do serviço a ser prestado, do qual o vencedor terá lucro residual.
+7. A condenação em honorários de sucumbência, com percentual de 10% sobre o valor da causa, importaria, no caso concreto, em montante inexoravelmente exorbitante, levando-se em consideração as peculiaridades do caso concreto, como a natureza da causa (ação movida para anular resultado de licitação), o trabalho realizado pelos advogados e o nível de complexidade da causa.
+8. Apelação do autor conhecida e desprovida. Pedido de efeito suspensivo prejudicado. Recurso da segunda apelante conhecido e parcialmente provido.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do recurso especial, a parte recorrente sustenta que o Tribunal de origem utilizou-se do § 8º do artigo 85 do CPC para a fixação dos honorários advocatícios (R$55.000,00), que se mostraram irrisórios frente ao valor atualizado da causa (R$55.425.570,60), devendo ser revistaa verba honorária para que seja arbitrada nos moldes do § 2º do artigo 85 do CPC, no percentual mínimo de 10%.
+Alega que o valor é mais de 10 vezes menor que o tido por ínfimo na jurisprudência do STJ, e que está equivocada amanifestação do acórdão dos Embargos Declaratórios de que "a utilização da apreciação equitativa deu-se com base nos postulados da proporcionalidade e razoabilidade" e que "respeitou as balizas da lei processual e da jurisprudência".
+Apresentadas contrarrazões e admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão merece prosperar.
+Sobre a questão da fixação da verba honorária nestes autos, o Tribunal de origem expressamente consignou:
+(..)
+No caso, trata-se de ação anulatória, demanda que apresenta baixa complexidade e que não teve qualquer peculiaridade no caso concreto. Além disso, o processo tramitou por meio eletrônico durante aproximadamente 7 meses, entre 4/7/2017 - data do ajuizamento da ação - e 9/2/2018 - data da prolação dos embargos de declaração opostos contra a sentença.
+Nesse contexto, apesar do valor não ser irrisório, mostra-se cabível ajuste na verba arbitrada pelo Juiz Sentenciante, de R$ 20.000,00, considerando os pressupostos legais de fixação.
+Observo que o valor da causa corresponde ao total do lote licitado. Mas o proveito econômico da empresa, obviamente, é bem modesto ao final do serviço prestado. Não se admite que o valor da causa, nesse caso, sirva de padrão para fixação dos honorários. A autora não teria um ganho equivalente, após o árduo serviço proposto no edital porque essa não é uma atividade que resulta 10% de lucro líquido.
+Caso os honorários sucumbenciais fossem fixados no percentual pleiteado pela parte, ainda que fosse no mínimo de 10% previsto no art. 85, §2º do CPC, a quantia corresponderia a mais de cinco milhões de Reais, o que seria exorbitante diante das peculiaridades da demanda. Esse valor é superior ao lucro da atividade, depois do serviço prestado.
+Dessa forma, os honorários arbitrados na sentença impugnada merecem um pequeno reparo, pois a proporção fixada é plenamente suficiente para remunerar o trabalho desenvolvido pelos advogados no transcorrer do processo. Todavia, não pode ser no patamar pleiteado pela parte.
+Assim, atento aos critérios legais e aos princípios da razoabilidade e da proporcionalidade, fixo os honorários em R$ 50.000,00.
+Em sede de julgamento dos embargos de declaração, a Corte de origem ratificou a adoção do entendimento asseverando que se buscava evitar desproporcionalidades e irrazoabilidades na sucumbência, o que poderia, em alguns casos, implicar verdadeira negativa de acesso à justiça.
+Pois bem.
+Em sede de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), a Corte Especial/STJ firmou as seguintes teses jurídicas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso concreto, verifica-se que o acórdão recorrido está em dissonânciacom as teses supra, razão pela qual se impõe o provimento do recursoespecial, com a consequente devolução dos autos ao Tribunal de origem, afim de que haja a adequação ao entendimento deste Tribunal.
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial,nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. INAPLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS.LIMITES E CRITÉRIOS DO§ 2º DO ART. 85 DO CPC. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA ADEQUAÇÃO. RECURSO ESPECIAL PROVIDO.
