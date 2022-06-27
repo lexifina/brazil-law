@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 480):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.PENSÃO DE EX-COMBATENTE. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DO ÓBITO DO INSTITUIDOR. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO.INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULA 284/STF.RECURSO NÃO CONHECIDO.
+Em suas razões, a parte agravante alega, em síntese, que "diferentemente do que restou consignado pelo r. decisum, a recorrente demonstrou que o seu recurso deve ser conhecido com fundamento na alínea "c" do permissivo constitucional, uma vez que este que consta a indicação no recurso especial do dispositivo legal com interpretação divergente entre o Tribunal de origem e esta Corte, sobretudo o devido cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (fl. 500). Defende ainda que "apesar de ter consignado que autora não preenchia os pressupostos exigidos na legislação para o recebimento da pensão especial de ex-combatente prevista no art. 30 da Lei 4.242/63, este não enfrentou a matéria acerca da possibilidade da opção nos termos da redação do artigo 29 da lei 29 da Lei nº. 3.765/1960" (fl. 503).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não comporta conhecimento.
+Na hipótese dos autos, registra-se que a decisão vergastada encontra-se amparada nos seguintes fundamentos: (a) ausência de ofensa ao art. 1.022, II, do CPC/2015, pois"não há falar em omissão ou negativa de prestação jurisdicional, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia"; (b) incidência da Súmula 284 do STF, quanto àalegada violação de artigos de lei: "a parte recorrente não particularizou de que forma os dispositivos de Lei Federal foram malferidos, revelando-se deficientes as razões do recurso especial, limitando-se a expor alegações genéricas, o que impede o conhecimento do recurso"; (c) incidência da Súmula 284 do STF, quanto à alegada divergência jurisprudencial: "não houve a indicação no recurso especial do dispositivo legal com interpretação divergente entre o Tribunal de origem e esta Corte, nem o devido cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações" (fls. 482-483).
+Contudo, a parte agravante não impugnou, especificamente, nenhum dos referidos fundamentos. Dessa forma, considerando que nenhum capítulo autônomo da decisão recorrida foi suficientemente combatido, impõe-se a incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, nesse mesmo sentido, confiram os seguintes julgados: AgInt nos EDcl no REsp 1.708.729/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/2/2019; AgInt no AREsp 1.354.331/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19/2/2019; AgInt no AREsp 739.429/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/2/2019; AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
