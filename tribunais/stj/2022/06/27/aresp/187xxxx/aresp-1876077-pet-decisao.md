@@ -1,0 +1,5 @@
+DECISÃO
+Petição às fls. 3.672-3.687, e-STJ: prejudicado o pedido de aplicação da Lei 14.230/2021 ao Recurso da requerente, realizado em 1.6.22, uma vez quese operou o seu trânsito em julgado em 22.4.2022, conforme certidão à fl. 3.691, e-STJ.
+Petição às fls. 3.540-3.571, e-STJ: Cláudio Rogerto Mendonça Schiphorst afirma que foram interpostos Recursos Especiais: i) pelo Ministério Público do Estado do Rio de Janeiro (fls. 2.226-2.242, e-STJ);ii) por Rosângela Garotinho (fls. 2.845-2.877, e-STJ); eiii) por Cláudio Roberto Mendonça Schiphorst (fls. 2.915-2.944, e-STJ). Contudo, o STJ apenas julgou o recurso de Rosângela Garotinho.
+Com razão o requerente. Verifica-se, entretanto,que não foram autuados os Recursos doMinistério Público do Estado do Rio de Janeiro e deCláudio Roberto Mendonça Schiphorst, o que impossibilita os seus julgamentos.
+Pelo exposto, determino que a Coordenadoria promova a autuação dos Recursos do Ministério Público do Estado do Rio de Janeiro e de Cláudio Roberto Mendonça Schiphorst.
