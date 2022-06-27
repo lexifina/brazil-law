@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a incidência da Súmula n. 7/STJ (e-STJ fls. 242/246).
+O acórdão do TJMGtraz a seguinte ementa (e-STJ fls. 160/161):
+EMENTA: APELAÇÃO - AÇÃO REVISIONAL - CÉDULA DE CRÉDITO BANCÁRIO - TARIFA DE AVALIAÇÃO DO BEM E DE REGISTRO DO CONTRATO - JUROS REMUNERATÓRIOS - CAPITALIZAÇÃO - LEGALIDADE - AUSÊNCIA DE ABUSIVIDADES - ORIENTAÇÃO DO STJ E STF - ENCARGOS MORATÓRIOS ALINHADOS À SÚMULA 472-STJ - TARIFA DE CADASTRO - HONORÁRIOS ADVOCATÍCIOS. A cobrança pelo registro do contrato e avaliação do bem também é considerada legítima, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado ou a onerosidade excessiva - Resp. nº 1.578.553-SP. Não há prova de que os juros cobrados correspondam à taxa superior à pactuada. É possível o pacto de capitalização de juros nas Cédulas de Crédito Bancário, conforme art. 28, § 1º, inc. I, LEI 10.931/04, desde que pactuada. Súmula 539 do STJ: "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP 1.963-17/00, reeditada como MP 2.170-36/01), desde que expressamente pactuada" (REsp. 1.112.879, REsp. 1.112.880 e REsp. 973.827). Súmula 541 do STJ: "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp. 973.827 e REsp. 1.251.331). Ainda que não haja a contratação da comissão de permanência, os encargos moratórios contratados correspondem ao limite imposto àquela, razão pela qual não se reconhece abusividade dos encargos moratórios pactuados. A cobrança da tarifa de cadastro resta permitida, conforme recente julgado do STJ (REsp. 1251331/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2013, DJe 24/10/2013). Considerando que a sentença é condenatória, os honorários advocatícios, em tese, devem ser fixados segundo os critérios do art. 85, §2º, do CPC. No entanto, sendo o valor a ser repetido é baixo, poder-se-ia considerar o valor da causa como base de cálculo. Por outro lado, se considerarmos o valor atualizado, por certo que o percentual mínimo de 10% ultrapassará os honorários fixados na sentença, o que imporia ao apelante a reformatio in pejus. Assim, acertada a sentença ao fixar o valor de forma equitativa.
+Os embargos de declaração foram rejeitados (e-STJ fls. 189/192).
+No recurso especial (e-STJ fls. 213/231), fundamentado no art. 105, III, alínea "a", da CF, a recorrente apontou violação dos arts. 336, 341, 369 do CPC/2015 e 6º, VIII, do CDC, argumentando existir cerceamento de defesa, ante a faltade perícia contábil.
+Acrescentou que"se atribuiu ônus de provar a recorrente, sem lhe permitir deste ônus se desincumbir. Seu pedido foi julgado improcedente (neste ponto), o que caracteriza o cerceamento de defesa.Pondere-se, lado outro, que a rigor há necessidade de inversão do ônus da prova no presente caso, haja vista que se trata de manifestação relação de consumo (contrato bancário com pessoa física) e a presença de verossimilhança da alegação de que se cobrou juros acima do previsto no instrumento de contrato" (e-STJ fl. 222).
+Nesse contexto, requereu a cassação "do r. acórdão ou, alternativamente, julgado procedente o pedido de restituição da quantia cobrada, pelo recorrido, a titulo de juros remuneratórios não pactuados no contrato entre as partes, sob os fundamentos da peça de ingresso" (e-STJ fl. 224).
+Suscitou contrariedade aos arts. 85 e 86 do CPC/2015 e 23 da Lei n. 8.906/1994, pois,"mesmo sem pedido contraposto do recorrido, a Corte local,ao proceder à distribuição dos encargos processuais e dos honorários do vencedor, condenou-lhe a pagar 60% (sessenta por cento) das custas e honorários advocatícios"(e-STJ fl. 225).
+Defendeu que:
+(i) o recorrido teria dado causa ao ajuizamento da lide, motivo pelo qual deveria arcar com a maior parcela dos ônus sucumbenciais, e
+(ii) "o advogado foi erigido à condição de essencial à administração da Justiça, a teor do art. 133 da Carta Magna, de maneira que receber justo honorários constitui meio de existência do profissional da advocacia de fundamental mister.Vale acrescentar que a fixação de honorários em valor diminuto implica aviltar também a própria atividade constitucionalmente reconhecida, de forma que a ver honorária, não pode ser negada, tampouco reduzida com espeque na proporcionalidade, zelo profissional, local dos serviços e natureza e importância da causa" (e-STJ fl. 230).
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais(e-STJ fls. 234/239).
+No agravo (e-STJ fls. 249/256), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 344/346).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da competênciada Suprema Corte.
+A propósito:AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.
+A fim de sustentar a abusividade da taxa de juros remuneratórios, a recorrente apontou violação dos arts. 336, 341, 369 do CPC/2015 e 6º, VIII, do CDC.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõem a respeito dos encargos bancários, tampoucodisciplinam o funcionamento das instituições financeiras.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 85, 86, 336, 341, 369 do CPC/2015 e23 da Lei n. 8.906/1994 sob o enfoque pretendido pela recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, asmatérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo do art. 6º, VIII, do CDC, a despeito dos aclaratórios opostos.
+Inafastável, dessa maneira, o óbice das Súmulas n. 282 do STF e 211 do STJ.
+O Tribunal a quo afastou o alegado cerceamento de defesa, ante o indeferimento da prova pericial, tendo em vista que (e-STJ fl. 165):
+A questão debatida não se trata de limitação de juros a 12% a.a. e nem de redução à taxa média de mercado, mas de que os juros cobrados correspondam à taxa pactuada.
+A parte autora diz que a taxa contratada é de 1,41% a.m, enquanto a cobrada corresponde a 1,429700%.
+No entanto, nenhuma prova veio aos autos a fim de demonstrar a cobrança equivocada da instituição financeira, não sendo suficiente a alegação de que a "calculadora do cidadão" identificou a cobrança dos juros em percentual superior ao contratado. E, ao ser indeferida a prova pericial, que seria a indicada para tanto, a parte não interpôs o recurso cabível à época - fls. 70.
+Assim, sem a prova da alegada abusividade, não há como acolher o pedido de redução dos juros à taxa contratada.
+Ao rejeitar os aclaratórios, o colegiado esclareceu ainda que (e-STJ fl. 191):
+Apenas esclareço que a alegação de falta de prova contida no voto, refere-se á cobrança de juros abusivos e que nãoforam demonstrados, sendo que referida prova independe de perícia, bastando a demonstração da taxa média de mercado para a operação, informação esta obtida junto ao BACEN.
+Dissentir das conclusões do acórdão impugnado, para acolher a tese de insuficiência probatória, conforme sustentado pela recorrente na insurgência recursal, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. Nesse contexto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REANÁLISE DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela possibilidade de julgamento antecipado da lide, considerando desnecessária a realização de novo exame de DNA, tendo em vista a falta de comprovação de qualquer irregularidade ou vício no exame realizado extrajudicialmente. Alterar tal conclusão demandaria nova análise dos elementos fáticos, inviável em recurso especial.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.152.898/PR, de minharelatoria, QUARTA TURMA, julgado em 15/8/2017, DJe 23/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, PARÁGRAFO 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REEXAME DE PROVAS.
+(..)
+2. Rever a conclusão do aresto impugnado quanto à inexistência de cerceamento de defesa encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no AREsp n. 1.068.815/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2017, DJe 25/8/2017.)
+Ademais, a parte não rebateu especificamente o fundamento de que deixou de recorrer oportunamente dadecisão que indeferiu a prova pericial, o que atrai o empecilho da Súmula n. 283/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fls. 38/39), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
