@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II -In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação aoóbicedaSúmulan. 7/STJ.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  RAFAEL CAETANO NETO,  contra  decisão  da Presidência  (fls.  324-325),  que  não  conheceu  do  agravo  em  recurso  especial.
+Consta dos autos que o agravante foi condenado pela prática do crime previsto noart. 33, caput, da Lei n. 11.343/2006 e pelo artigo 16, § 1º, inciso IV da Lei n. 10.826/2003 c/c artigo 69 do Código Penal, à pena de 6 (seis) anos de reclusão, no regime semiaberto, e a280 (duzentos e oitenta) dias-multa, sendodeclarado a perda do veículo Toyota Corolla XEL 1.8 flex, cor cinza, ano 2009, placa EJK-9808.
+A defesa interpôs apelação. O eg. Tribunal de origem, por unanimidade, deu parcial provimento ao recurso, a fim de reduzir a pena para5 (cinco) anos e 6 (seis) meses de reclusão, no regime inicial semiaberto, e a 260 (duzentos e sessenta) dias-multa(fls. 260-270). Eis a ementa do v. acórdão (fl. 270):
+"APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DEDROGAS. SENTENÇA CONDENATÓRIA. PERDIMENTO DEBENS EM FAVOR DA UNIÃO. VÍNCULO ETIOLÓGICO COM APRÁTICA DELITUOSA. CONFIRMAÇÃO. PENA. CORREÇÃO.
+I - Revela-se inviável a restituição de bens apreendidos, em razão do cometimento do crime de tráfico de drogas, art. 33, caput, da Lei nº 11.343/06, se o sentenciante, ao decretar o perdimento, justificou a medida pela ausência de comprovação da origem lícita do numerário e do veículo, o vínculo etiológico com a prática delituosa, razão do confisco em favor da União.
+II - Apenamentos reduzidos.
+APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE."
+A defesa interpôs recurso especial, com fulcro no art. 105, inciso III, alínea a, da Constituição da República, alegando violaçãoaos arts. 120, do CPP e 91, inc. II, do CP, além de divergência jurisprudencial, fundamentando que"não se tem provas que tal veículo era usado, de forma rotineira, para a prática do tráfico, ou que tenha sido adquirido com o dinheiro da venda de entorpecentes, porquanto o recorrente afirma que apenas havia pegado este emprestado com o filho do proprietário"(fl. 279).
+Aduz que"o bem pertencente a terceiro de boa-fé não pode ser atingido pelo confisco, devendo ser restituído ao seu legítimo proprietário. Ainda assim, não há nada nos autos que comprove um possível envolvimento do referido automóvel para prática habitual de ilícito"(fl. 280).
+Por fim, pugna pelo provimento do recurso, a fim de"que seja conhecido e provido integralmente o presente Recurso Especial, ordenando esta Egrégia Cortea restituição do veículo Toyota Corolla XEL 1.8 flex, cor cinza, ano 2009, placa EJK-9808"(fl. 282).
+Apresentadas as contrarrazões (fls. 290-294), o apelo especial não foi admitido, considerando o óbice daSúmula n. 7 do STJ(fls. 298-299).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 304-314).
+Na decisão agravada, de relatoria da Presidência desta Corte, o agravo não foi conhecido, por não terem sido impugnados osfundamentos que inadmitiramo recurso especial (fls. 324-325).
+No presente agravo regimental, o agravante pugna pela reconsideração da decisão impugnada para dar provimento ao recurso especial ou, subsidiariamente, pela apresentação do recurso ao Colegiado  (fls. 329-333).
+Aduz que"que a defesa técnica contemplou especificamente o referido fundamento (súmula 7/STJ), contudo, concessa venia, o Eminente Presidente deste Superior Tribunal de Justiça não observou detidamente os argumentos desafiados no Agravo em Recurso Especial"(fl. 331).
+Argumenta ainda "que o presente recurso não se trata, portanto, de reexame do conjunto probatório, que encontra óbice no enunciado nº 7 da Súmula desta Corte, mas, sim, de REVALORAÇÃO DOS CRITÉRIOS JURÍDICOS utilizados na apreciação dos fatos incontroversos"(fls. 331-332).
+Parecer dad. Subprocuradoria-Geral da República pelo desprovimentodo agravo regimental (fls. 346-348).
+Por  manter  o  decisum,  trago  o  feito  a  julgamento  do  Colegiado.
+É  o  relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II -In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação aoóbicedaSúmulan. 7/STJ.
+Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos apresentados pela parte agravante, o presente recurso não comporta provimento.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram adequadamente infirmados os fundamentos empregado pela eg. Corte de origem para inadmitir o recurso, no caso, oóbice daSúmula n.7do STJ.
+Registrou-se, na decisão agravada, fundamentadamente o que segue (fl. 324):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial".
+Nas  razões  do  agravo  em  recurso  especial  a  defesa  limitou-se  a  genericamente  alegar  a  inaplicabilidade  de referidos  óbices  sumulares,  nos  seguintes  termos  (fls.  306-309, grifei):
+"Vale destacar que a Defesa técnica não pretende o exame do conjunto fático-probatório e, sim, a revisão dos elementos reconhecidos nos acórdãos e incorretamente qualificados, hipóteses reconhecidas por este Superior Tribunal de Justiça como revaloração jurídica, "segundo a qual o STJ, mantendo as premissas delineadas pelo acórdão recorrido, qualifica juridicamente os fatos soberanamente comprovados na instância ordinária" vide: (AgRg no REsp 1362510/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/04/2015, DJe 07/05/2015).
+In casu, não se trata de reexame do conjunto fático-probatório dos autos, que encontra óbice no enunciado n. o 7, da Súmula desta Corte, mas, sim, de revaloração dos critérios jurídicos utilizados na apreciação dos fatos incontroversos.
+(..)
+Tem-se, portanto, que a matéria merece apreciação deste Superior Tribunal de Justiça para reavaliação dos elementos confirmados nos acórdãos e estabelecer a melhor aplicação das normas indigitadas, pois, houve ofensa direta e frontal à legislação infraconstitucional e à jurisprudência dos Pretórios Excelsos.
+Diga-se novamente, por necessário, a questão federal está ligada às redações da violação literal ao disposto nos art. 120, do Código de Processo Penal e art. 91, inciso II, do Código Penal, além de divergência jurisprudencial, pois o veículo que se deu a perda em favor da União, não era do recorrente, e nem mesmo utilizado para a prática de crime.
+A manutenção do v. acórdão atacado, nessa toada, implicaria negativa de vigência de lei federal, ao passo que viola os citados artigos.
+Por isso, associado a matéria da condição pessoal do AGRAVANTE, a revaloração da prova delimitada no acórdão recorrido é coerente para caminharmos em campos de certezas e de respeito a Lei Federal e as Normas Constitucionais.
+Desta forma, pertinente a revaloração dessa prova, já que: .. tem sido permitida predominantemente (e desemboca necessariamente numa qualificação diferente dos fatos) quando é desobedecida norma que determina o valor que a prova pode ter em função do caso concreto. (WAMBIER, Teresa Arruda Alvim apud ALVIM, Eduardo Arruda. Recurso Especial, Extraordinário e Ação Rescisória. 2a ed., Ed. RT. p. 376.)
+De acordo com o que foi destacado, verifica-se que foi satisfeito os requisitos extrínseco exigidos para a admissão do recurso especial, ou seja, se encontram saciados os requisitos genéricos da tempestividade, legitimidade, interesse e adequação, e, ainda, os específicos de última instância e do prequestionamento (discussão da matéria em todo o aresto e citação expressa dos dispositivos legais), a restar, agora, demonstrar a contrariedade à Lei Federal e a jurisprudência dos Tribunais Pátrios."
+O  recurso  não  foi  conhecido  porque  o  recorrente  olvidou-se  de  infirmar,  de  maneira  adequada  e  suficiente,  a  razão  apresentada  pelo  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  não  bastando,  para  tanto,  apenas  alegar  a  inaplicabilidade  do  óbice  apontado  na  decisão  agravada,  sem  demonstrar  a  desnecessidade  da  análise  do  conjunto  fático-probatório,  deixando  claro  que  os  fatos  foram  devidamente  consignados  no  acórdão  objurgado,  o  que  não  aconteceu.
+Nesse  sentido:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SUMULAS  7  E  83  DO  STJ.  ALEGAÇÕES  GENÉRICAS  INCAPAZES  DE  INFIRMAR  A  DECISÃO  RECORRIDA.  SÚM.  182/STJ.
+I  -  Os  recursos  devem  impugnar,  de  maneira  específica  e  pormenorizada,  os  fundamentos  da  decisão  contra  a  qual  se  insurgem,  sob  pena  de  vê-los  mantidos.  Não  são  suficientes  alegações  genéricas  sobre  as  razões  que  levaram  à  inadmissão  do  agravo  ou  do  recurso  especial  ou  a  insistência  do  mérito  da  controvérsia,  como  ocorreu  na  hipótese.
+II  -  O  entendimento  do  STJ  é  de  que  "não  basta,  para  afastar  o  óbice  da  Súmula  nº  83/STJ,  a  alegação  genérica  de  que  o  acórdão  recorrido  não  está  em  consonância  com  a  jurisprudência  desta  Corte,  devendo  a  parte  recorrente  demonstrar  que  outra  é  a  positivação  do  direito  na  jurisprudência  desta  Corte,  com  a  indicação  de  precedentes  contemporâneos  ou  supervenientes  aos  referidos  na  decisão  agravada  (AgRg  no  AREsp  n.  238.064/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  DJe  18/8/2014).
+III  -  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  n.  1.207.268/MG,  Quinta  Turma,  Rel.  Min.  Reynaldo  Soares  da  Fonseca,  DJe  de  19/12/2018,  grifei).
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que após esgotadas as via recursaisordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017).
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
