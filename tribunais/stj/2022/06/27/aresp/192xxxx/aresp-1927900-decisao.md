@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por intempestividade (e-STJ fls. 649/651).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 569):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE DÍVIDA. DUPLICATA MERCANTIL. REQUERIMENTO DE CONCESSÃO DE EFICÁCIA EXECUTIVA À SENTENÇA DECLARATÓRIA, DE MODO A PERMITIR A EXECUÇÃO DA DÍVIDA DECLARADA EXISTENTE. IMPOSSIBILIDADE, NO CASO. PRETENSÃO EXECUTIVA DEDUPLICATA. PRAZO TRIENAL. ART. 18, I, DA LEI Nº 5.474/68 (LEIDAS DUPLICATAS). PRETENSÃO DE COBRANÇA DA DÍVIDA COM BASE NA RELAÇÃO JURÍDICA SUBJACENTE. DÍVIDA LÍQUIDA E CONSTANTE DE INSTRUMENTO PARTICULAR. PRAZO QUINQUENAL. § 5º, I, DO ART. 206 DO CÓDIGO CIVIL. PRETENSÕES FULMINADAS PELA PRESCRIÇÃO, NO CASO. DECLARAÇÃO JUDICIAL DA EXISTÊNCIA DO CRÉDITO TÃO SOMENTE ENQUANTO OBRIGAÇÃO NATURAL. PRESCRITIBILIDADE DAS CONSEQUÊNCIAS PATRIMONIAIS DA PRETENSÃO DECLARATÓRIA RECONHECIDA. PRECEDENTES. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 591/621), fundamentadono art. 105, III, "a", da CF, a parte alegou violação do art. 205 do CC/2002, porque (e-STJ fl. 615):
+O Recorrido tinha a obrigação de pagar duas prestações em dinheiro no tempo, modo e local expressamente e previamente avençado, contudo, quedou-se inerte.
+ .. Considerando que a pretensão autoral de declaração do crédito está fundada em direito pessoal, o prazo prescricional que deverá incidir é o decenal, previsto no art. 205 do Código Civil, já que a lei civil não lhe fixou prazo menor.
+Logo, tendo em vista que o vencimento da obrigação ocorreu em 17/08/2008, e a ação declaratória foi ajuizada em 23/10/2014, não há que se falar em prescrição.
+No agravo (e-STJ fls. 661/668), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 675/680 (e-STJ).
+É o relatório.
+Decido.
+De acordo com a jurisprudência desta Corte, "Nos termos do art. 220 do CPC/2015, para fins de aferição de tempestividade, suspende-se o curso do prazo processual no interregno de 20 de dezembro a 20 de janeiro" (AgInt nos EDcl no AREsp n. 1.564.195/RJ, Relator Ministro MARCO AURÉLIO BELIZZE, TERCEIRA TURMA, DJe de 9/12/2021).
+O recurso especial é, portanto, tempestivo.
+O acórdão, ao negar provimento à apelação, considerou prescrita a ação de cobrança, concluindo ser aplicável o art. 206, § 5º, I, do CC/2002, nos seguintes termos (e-STJ fl. 571):
+Tal crédito, segundo narra a apelante em sua inicial (ref. mov. 1.1), tem como origem a compra e venda de produtos, que deram causa a emissão de duas notas fiscais e de duas duplicatas mercantis com aceite com vencimento em 17.08.2008(ref. mov. 1.6 e 1.7).
+Já a presente ação declaratória, vale notar, foi ajuizada tão somente em 23.10.2014 (ref. mov. 1.1), cerca de 06 (seis) anos após o vencimento das duplicatas sobreditas.
+Pois bem. Como se sabe, a pretensão à execução da duplicata contra o sacado(devedor) prescreve em 03 (três) anos contados da data do vencimento do título, nos termos do art. 18, I, da Lei nº 5.474/68 (Lei das Duplicatas).
+Já a pretensão de cobrança da dívida em si, seja ela exercida por meio de uma ação monitória (arts. 700 e ss. do CPC) ou de uma ação de cobrança com base na relação jurídica subjacente ao título de crédito, prescreve em 05 (cinco) anos a partir do vencimento do crédito (princípio da "actio nata"), por se tratar, a espécie, da cobrança de uma dívida líquida constante em instrumento particular, a teor do disposto no § 5º, I, do art. 206 do CC ("prescreve: § 5º Em cinco anos: a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular").
+A jurisprudência desta Corte é pacífica no sentido de que a ação de cobrança de título de crédito prescrito segue o prazo do art. 206, § 5º, inciso I, do CC/2002, tendo como termo inicial o dia do vencimento do título, e não a data da prescrição da ação executiva. Nessa linha, os seguintes julgados:
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA. PRESCRIÇÃO. CÉDULA DE CRÉDITO COMERCIAL. PRAZO QUINQUENAL. AJUIZAMENTO DE AÇÃO ANULATÓRIA PELO DEVEDOR. INTERRUPÇÃO DO PRAZO ATÉ O TRÂNSITO EM JULGADO. NOVA INTERRUPÇÃO PELO AJUIZAMENTO DE OUTRA DEMANDA. IMPOSSIBILIDADE. PRESCRIÇÃO. RECONHECIDA.
+1. Ação ajuizada em 07/12/2011. Recurso interposto em 20/10/2014 e atribuído ao gabinete em 25/08/2016.
+2. Ação declaratória ajuizada pelo devedor de cédula de crédito comercial, na qual pretende que seja declarada a prescrição da pretensão de cobrança da dívida, com a consequente extinção de garantia hipotecária.
+3. Não se tratando de execução, cujo prazo é trienal, a prescrição da pretensão de cobrança de dívida documentada em título de crédito regula-se pelo prazo quinquenal. Precedentes.
+4. A propositura de demanda judicial pelo devedor, seja anulatória, seja de sustação de protesto, que importe em impugnação do débito contratual ou de cártula representativa do direito do credor, é causa interruptiva da prescrição. Precedentes.
+5. Em se tratando de causa interruptiva judicial, a contagem do prazo prescricional reinicia após o último ato do processo, ou seja, o trânsito em julgado. Precedentes.
+6. Conforme dispõe o art. 202, caput, do CC/2002, a interrupção da prescrição ocorre somente uma única vez, ainda mais quando se trata, como na hipótese dos autos, da mesma causa interruptiva.
+7. Recurso especial conhecido e provido.
+(REsp n. 1.810.431/RJ, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/6/2019, DJe de 6/6/2019.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO. SUSTAÇÃO DE PROTESTO. VIOLAÇÃO DO ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. CHEQUE. PRESCRIÇÃO. DÍVIDA LÍQUIDA CONSTANTE DE INSTRUMENTO PARTICULAR.PRAZO. CINCO ANOS. ART. 206, § 5º, I, DO CC. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O DESTA CORTE.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É deficiente a fundamentação do recurso especial que indica violação do art. 535 do CPC/73, sem, contudo, apontar em que consistiria a alegada omissão, contradição ou obscuridade, afirmando, genericamente, negativa de prestação jurisdicional. Aplicação da Súmula nº 284 do STF, por analogia.
+3. O Tribunal de origem reconheceu que o cheque, objeto da presente ação e reconvenção, encontra-se prescrito, pois representa dívida líquida constante de instrumento particular, tendo decorrido mais de cinco anos desde sua emissão. Incidência, no caso, da prescrição quinquenal, prevista no art. 206, § 5º, I ("prescreve em cinco anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular"). Precedentes desta Corte.
+4. Em virtude do não provimento do presente recurso e da anterior advertência em relação à aplicabilidade do NCPC, incide caso a multa prevista no art. 1021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 970.537/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/6/2017, DJe 4/8/2017 - grifei.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO EM AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CÉDULA DE CRÉDITO COMERCIAL. PRESCRIÇÃO. PRAZO VINTENÁRIO. CÓDIGO CIVIL DE 1916, ART. 177, CAPUT. PRAZO QUINQUENAL. CÓDIGO CIVIL DE 2002, ART. 2.028. REGRA DE TRANSIÇÃO. ARGUIÇÃO NÃO PROCEDENTE.
+1. Não se tratando de execução, cujo prazo é trienal, a prescrição do propósito manifestado pelo credor, em ação de cobrança ou monitória, incidente sobre os valores decorrentes da atividade creditícia das instituições financeiras formalizada mediante título de crédito cambiariforme, estava sujeita ao prazo vintenário das ações pessoais na vigência do Código Civil anterior, que foi reduzido para cinco anos no Código atual, observada a regra de transição. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no Ag 1.170.603/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/10/2015, DJe 28/10/2015.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
