@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MOISÉS DOS SANTOS CARVALHO pleiteia a reconsideração do decisum de fls. 1.074-1.077, em que indeferi liminarmente o habeas corpus, ante o acerto do Tribunal estadual em não conhecer do mandamus lá impetrado, por haver interposição simultânea de apelação.
+A defesa aduz (fl. 1.082):
+Em realidade, na data de 02/03/2022, fora interposto tão somente o Termo de Apelação (e-STJ fls. 1.031), ocasião em que o Paciente pugnou pela apresentação de suas razões perante a 2.ª Instância, nos termos do art. 593, inciso I, e art. 600, §4.º, ambos do CPP Após a apresentação do Termo de Apelação - que não conteve uma linha sequer sobre o mérito da Apelação -, precisamente no dia 17/03/2022, os ora Impetrantes apresentaram o Writ na Corte Estadual (e-STJ fls. 67).
+Por sua vez, as razões de Apelação somente foram apresentadas no dia 01/04/2022, portanto após o protocolo do Habeas Corpus no Eg. TJGO; sem contar que, até hoje (31/05/2022), o MPGO não ofereceu suas contrarrazões (andamento processual em anexo ao presente).
+Requer, portanto, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO CONCOMITANTE DE APELAÇÃO E IMPETRAÇÃO DE WRIT. TUTELA MEDIATA DA LIBERDADE. NÃO CONHECIMENTO. DECISÃO CONFORME A JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe de 3/4/2020).
+2. Na hipótese, é acertado o não conhecimento do habeas corpus pela Corte de origem, porquanto a parte voltava-se contra a condenação em primeira instância e já havia sido interposta a apelação. Assim, o pedido deduzido será objeto de análise no recurso já interposto.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em atenção aos princípios da instrumentalidade das formas e da ampla defesa, recebo o presente pedido de reconsideração como agravo regimental.
+Em que pese o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+No decisum atacado, registrei que o acórdão do Tribunal estadual estava em consonância com a jurisprudência do STJ, que não admite a concomitante impetração de habeas corpus com a apelação interposta e pendente de julgamento.
+Com efeito, tal como afirmei, esta Corte Superior entende que a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual. Nesse sentido, menciono: HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe de 3/4/2020.
+In casu, a defesa impetrou writ na origem a fim de que fossem analisadas nulidades e formulou pedido absolutório. Tal como afirma a defesa, a apelação havia sido interposta, com a possibilidade de suscitar as referidas matérias nas razões recursais.
+A esse teor, saliento que a apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o tribunal ad quem examine, com profundidade, todo o conjunto probatório colhido durante a instrução criminal. Assim, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse recurso que devolve ao tribunal o conhecimento amplo de toda a matéria dos autos, a permitir a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+Assim, o acórdão da Corte local está em consonância com a jurisprudência do STJ, razão pela qual deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
