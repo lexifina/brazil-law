@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por IGNEZ DE PAULA - MICROEMPRESA, com base no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Revisional  Contrato bancário - Tarifas e despesas  Contrato de Empréstimo  Adoção de teses fixadas no julgamento do REsp nº 1.251.331-RS (Rel. Min. Maria Isabel Gallotti, j. 28/08/2013, STJ, na forma do art. 543-C do CPC - Tarifas e Despesas que foram expressamente contratadas, não se podendo cogitar a irregularidade na sua cobrança - Resoluções do Conselho Monetário Nacional(Resoluções 2.303/1996, 3.518/2007 e 3.919/2010)
+Recurso não provido" (fl. 109, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente aponta a violação dos artigos 39, V, e 51 do Código de Defesa do Consumidorao argumento de que consumidor não pode ser impelido a arcar com o gasto de serviço contratado entre determinada empresa e instituição bancáriasem que tenha qualquer participação nessa relação.
+Afirma que as cobranças de taxa de abertura de crédito, de inserção de gravame e de taxa de serviço de correspondente prestado à financeira são práticas abusivas vedadas pelo CDC.
+Após a apresentação das contrarrazões, o recurso foi admitido.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Relativamente às taxas de inserção de gravame e de serviço de correspondente,o assunto já foi enfrentado pelo Superior Tribunal de Justiça sob o Tema nº 958, do qual derivaram as seguintes teses:
+"(..)
+2.1. Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado;
+2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva;
+2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a:
+2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a
+2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto."
+Quanto à taxa de abertura de crédito (TAC), por sua vez, aSegunda Seção, ao conhecer e dar parcial provimento ao REsp nº 1.251.331/RS, fixou as seguintes premissas para efeitos do art. 543-C do CPC:
+(i) nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303/1996) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto;
+(ii) com a vigência da Resolução CMN 3.518/2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador, permanecendo válida aTarifa de Cadastroexpressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira, e
+(iii) as partes podem convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais.
+Na hipótese em tela, o Tribunal local consignou:
+"(..)
+A análise dos documentos existentes nos autos permite concluir que a autora firmou com o banco requerido o contrato de empréstimo de fls. 18/22 sendo que, relativamente à cobrança de Tarifas em recente julgado (REsp nº 1.251.331/RS, Rei. Min. Maria Isabel Gallotti, j. 28/08/2013), na forma do art. 543-C do Código de Processo Civil, o Egrégio Superior Tribunal de Justiça fixou as seguintes teses: "1. Nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303196) era válida a pactuação das tarifas de abertura de crédito ("TAC) e de emissão de carne (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto; 2. Com a vigência da Resolução CMN 3.51812007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carne (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no inicio do relacionamento entre o consumidor e a instituição financeira; 3. Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais."
+Nos termos do julgado acima referido, permanece válida a Tarifa de Cadastro (TAC), e quanto as demais despesas e tarifas não contempladas na decisão do C. STJ, também não se pode cogitar de irregularidade na cobrança, já que foram expressamente contratadas, não havendo indícios de vantagem exagerada por parte da requerida, sendo perfeitamente exigível, até porque não consta que tal cobrança está prevista em vedações contidas nas Resoluções do Conselho Monetário Nacional (Resoluções números 2.303/1996, 3.518/2007 e 3.919/2010)" (fl. 110, e-STJ).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria a interpretação de cláusula contratual e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do disposto nas Súmulas nºs 5 e 7/STJ.
+Além disso, o entendimento do acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, o que atrai a incidência da Súmula nº 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista o recurso especial ao qual se negou provimento ser oriundo de acórdão proferido na vigência do Código de Processo Civil de 1973.
+Publique-se.
+Intimem-se.
