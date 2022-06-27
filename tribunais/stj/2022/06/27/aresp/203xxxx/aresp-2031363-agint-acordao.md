@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo internointerposto contra decisão proferida pela Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial, haja vista a incidência dos óbices contidos nas Súmulas 284/STF, Súmula 7/STJ e ausência de comprovação do dissídio jurisprudencial (fls. 159-162).
+O agravo combate o ato judicial que deferiu o pedido de penhora sobre 10% do faturamento da DERSA, nomeando a devedora administradora-depositária da constrição (fls. 337 origem).
+A  agravante alega que "ao contrário do afirmado na decisão da qual ora se recorre, a DERSA de forma clara e específica impugnou todas as razões para alteração da decisão inadmissão do Recurso Especial, não só apontando os dispositivos violados, como também esclareceu o porquê da afronta, além de esclarecer que o recurso interposto não tinha o condão de revolvimento da matéria fático-probatória, mas tão somente a subsunção do fato a norma" (fl. 168).
+Refere ainda na fl. 169que "houve nas razões do Recurso Especial interposto a efetiva indicação do dispositivo legal infraconstitucional reputado violado, bem como a efetiva demonstração de sua violação, não havendo empecilho para o conhecimento do referido recurso pela alínea "a" do permissivo constitucional, diante da desnecessidade de análise de matéria de fato".
+Por fim, sustenta queo E. Supremo Tribunal Federal julgou o Leading Case, no Recurso Extraordinário com Agravo 1.367.601, acerca da impenhorabilidade dos bens da DERSA, de relatoria do Ministro Alexandre de Moraes, transitado em julgado em 20/04/2022, postulando ainda o reconhecimento da afronta ao disposto pelos artigos infraconstitucionais mencionados, "com o consequente conhecimento e provimento do recurso de Agravo interposto para o efeito de submeter a matéria à apreciação do Órgão Colegiado e reverter a decisão recorrida, para o acolhimento e apreciação dos pontos levantados em Agravo em Recurso Especial, por ser medida que traduz a mais lídima JUSTIÇA" (fl. 171).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. AUSÊNCIA DE PATRIMÔNIO LIVRE E DESEMBARAÇADO.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+3. A Corte de origem assentou a não localização de patrimônio livre e desembaraçado para a satisfação do crédito. A revisão de tal entendimento, para acolher a tese de que não se esgotaram aspossibilidades de penhora sobre os bens da agravantedemanda o reexame dos fatos e provas constantes nos autos. Incidência da Súmula 7/STJ.
+4.Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravointernonão se vislumbram razões para reformar a decisão agravada.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que o alegado pelo recorrente sobre eventual ofensa à lei federal nãotem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Senão vejamos como constou da fundamentação (fl. 58-59):
+No caso específico destes autos a pesquisa RENAJUD identificou veículos antigos e já constritos em outras execuções (fls. 200/297 origem), sendo reputados pelo exequente como insuficientes para satisfação do crédito (fls. 300). O pedido de bloqueio BACENJUD igualmente resultou infrutífero (fls. 171/176). Não foi localizado patrimônio livre e desembaraçado para a satisfação do crédito.
+Assim sendo, o método da sub-rogação que envolve os atos coativos da execução permite que, excepcionalmente, seja realizada a penhorado faturamento da empresa, na forma autorizada expressamente no art. 866 do NCPC, já que, por vias transversas, o que se autoriza é a penhora de dinheiro, bem de maior importância na execução, com observância do devido processo legal.
+ ..
+Na verdade, a proximidade do encerramento das atividades da agravante justifica a necessidade da ordem de constrição.
+ ..
+Ainda que assim não fosse, neste momento, prevalece que 10% de uma receita inexistente, equivale a zero. Dessarte, caso esteja desprovida de qualquer fonte de receita, não é possível vislumbrar prejuízo à recorrente pela ordem de afetação.
+Entretanto, a agravante teceu a seguinte argumentação nas razões recursais (fls. 73-74):
+Em consonância com o princípio da menor onerosidade da execução, o Código de Processo Civil estabeleceu uma ordem obrigatória de preferência, ordem esta que leva em consideração a liquidez dos bens e o grau de severidade e onerosidade da constrição. É o que se extrai da norma contida no artigo 835 do CPC  ..
+Deste modo, é possível perceber que antes da penhora sobre o percentual de faturamento da empresa (inciso X), deve-se buscar a penhora sobre bens móveis (inciso VI).
+ ..
+Caso fosse possível seu cumprimento, seguem entendimentos sedimentados quanto a penhora no percentual de 5% sobre o faturamento líquido mensal da empresa, para não impactar na paralisação das atividades
+Desse modo, evidencia-se que a argumentação encontra-se dissociada dos fundamentos aplicados pelo acórdão recorrido, de forma que mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF:"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRECEITO CONSTITUCIONAL. EXAME. INVIABILIDADE. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. INOCORRÊNCIA.
+1. Segundo jurisprudência pacífica desta Casa de Justiça, é inviável a análise de irresignação fundada em suposta afronta a dispositivo constitucional, uma vez que tal atribuição compete, exclusivamente, à Suprema Corte, nos termos do art. 102, III, da CF.
+2. É deficiente o recurso especial cuja argumentação está dissociada da fundamentação empregada no acórdão recorrido. Inteligência da Súmula 284 do STF.
+3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Impossível a apreciação de recurso especial fundado em divergência jurisprudencial quando o recorrente não demonstra o alegado dissídio, nos moldes legais e regimentais.
+5. Pleito de suspensão do processo para eventual celebração de acordo de não persecução cível desnecessário, eis que tal avença poderá ser celebrada até mesmo em sede de execução de sentença condenatória, nos termos do art. 17-B, § 4º, da Lei n. 8.429/1992, com a redação dada pela Lei n. 14.230/2021.
+6. Agravo interno desprovido.(AgInt nos EDcl no AREsp n. 1.787.217/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 19/5/2022.) (grifei).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. PIS E COFINS. CONTROVÉRSIA QUE NÃO SE CONFUNDE COM O TEMA 69/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. ARGUMENTAÇÃO RECURSAL DISSOCIADA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF.
+1. Nos autos do RE 1.187.264, o STF confirmou, à luz das alterações promovidas pela Lei nº 12.973/2014 no art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, que "se a receita líquida compreende a receita bruta, descontados, entre outros, os tributos incidentes, significa que, contrario sensu, a receita bruta compreende os tributos sobre ela incidentes", daí porque a conclusão do Tema 69/STF não comporta aplicação a outros tributos que não o ICMS 2. O Tribunal a quo não decidiu a controvérsia à luz dos dispositivos de Lei Federal suscitados no recurso especial. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A apresentação de razões dissociadas e a falta de impugnação específica à fundamentação adotada no acórdão, capaz por si só de manter o resultado do julgado, inviabilizam o conhecimento do recurso. Incidem à hipótese as Súmulas 284 e 283 do STF.
+4. Agravo interno não provido.(AgInt no REsp n. 1.927.251/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 22/9/2021.) (grifei).
+Ademais, a agravante refere"ausência de necessidade de reanalise de fatos e provas".
+Ocorre que,a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que, na hipótese dos autos, a pesquisa RENAJUD identificou veículos antigos e já constritos em outras execuções, bem como que opedido de bloqueio BACENJUD igualmente resultou infrutífero. Assentou a não localização depatrimônio livre e desembaraçado para a satisfação do crédito (fl. 58).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão, para se acolher a tese de que "não esgotaram todas as possibilidades de penhora sobre os bens da DERSA, os quais podem, sem sombra de dúvidas, salvaguardar o intuito expropriatório daquele" (fl. 74), demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
