@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GERVASIO FLAUSINO DOS SANTOS JUNIOR apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0001337-24.2016.8.26.0047).
+Colho dos autos que o réu foi denunciado pela suposta prática do delito inscrito no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), pois mantinha em depósito aproximadamente 73g (setenta e três gramas) de maconha e 3g (três gramas) de cocaína (e-STJ fl. 36).
+No primeiro grau de jurisdição, o paciente foi absolvido (e-STJ fls. 114/117).
+Interposta apelação pelo Ministério Público estadual, a ela foi dado provimento para condenar o réu à pena de 6 anos de reclusão, em regime inicial fechado, mais 600 dias-multa, em razão da prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), e determinada a prisão preventiva (e-STJ fls. 51/60).
+O acórdão recebeu a seguinte ementa (e-STJ fl. 52):
+Apelação. Crime de tráfico de drogas. Absolvição na origem. Materialidade e autoria comprovadas. Provas suficientes para a condenação. Aplicação de sanção penal. Provimento ao recurso.
+Neste habeas corpus, a defesa aponta, em síntese, ausência de comprovação da autoria, que teria sido lastreada exclusivamente em elementos do inquérito policial. Acrescenta que a droga apreendida na residência do paciente seria de propriedade de seu filho e destinada a uso.
+Diante dessas considerações, requer "seja o presente pedido de MEDIDA LIMINAR acolhido, com a imediata expedição de alvará de soltura, para que o paciente possa aguardar o julgamento do presente feito em liberdade",e, no mérito, "requer-se conhecer o pedido e julgar procedente o presente habeas corpus, a fim de ABSOLVER o paciente do delito de TRÁFICO DE DROGAS, com fundamentos no artigo 386, V e VII, do Código de Processo Penal" (e-STJ fls. 25/26).
+O pedido liminar foiindeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Com relação ao pedido de absolvição, tem-se que a Corte de origem, ao prover o recurso ministerial, entendeu que (e-STJ fls. 53/56):
+Convincente o recurso.
+A prova oral aqui referida está contida em mídia digital nos próprios autos.
+Conforme apurado: 1. policiais receberam notícia anônima de que o Réu estaria praticando o tráfico de drogas, o que culminou em um mandado de busca em sua residência; 2. no local, encontraram 02 porções de cocaína, e 01 porção de maconha; 3. ato contínuo, localizaram uma grande porção de maconha em um pasto no quintal da residência.
+A materialidade está comprovada pelo laudo de exame químico- toxicológico (fls.39/40), atestando que se trata de 72,96g de maconha, e 2,75g de cocaína.
+A autoria é certa, pois anegativa judicial do Réu destoa das demais provas produzidas.
+Os policiais civis Paulo e Valdemir, sob o crivo do contraditório, confirmaram o fato descrito na denúncia.
+Note-se que, quanto à credibilidade dos testemunhos policiais, não há restrições legais para que prestem depoimento, mediante compromisso, sobre seus atos de ofício, e nada há de concreto a indicar a existência de qualquer espécie de motivação para indevidamente prejudicar o Apelante, como já decidiu o Superior Tribunal de Justiça (HC nº 149.540-SP, rel. Min. Laurita Vaz, 5ª T., j.em 12.04.2011):
+ ..
+O depoimento de policial que cumpre sua missão na repressão dos crimes, é, portanto, tão válido como qualquer outrotestemunho, e a circunstância de ser testemunha não afeta positiva ou negativamente o valor probatório de seu relato.
+João, filho do Réu, em Juízo corroborou a negativa de seu pai, assumindo a propriedade das drogas encontradas no interior da residência.
+Apresentado o conjunto probatório, tem-se que: 1. havia notícia anônima apontando o Réu como o traficante da região, inclusive alertando sobre o local em que escondia as drogas; 2. por uma coincidência cósmica, havia maconha e cocaína na residência do Réu, e uma grande porção de maconha em um pasto no quintal do imóvel, exatamente como delatado; 3. o Réu já foi condenado pelo mesmo crime, com sentença transitada em julgado (fls.182 e 186), demonstrando que o tráfico não lhe é estranho; 4. bem pensada - mas surrada - é a versão do Réu para o flagrante, pois lhe é conveniente a narrativa de que as drogas encontradas no interior do imóvel eram de seu filho (cujas primariedade e idade tenra não permitem responsabilização criminal), e de ignorância quanto ao entorpecente localizado em um pasto no quintal do imóvel (tentando obviamente se afastar de sua conduta ilícita);5. entre acreditar nos depoimentos dos policiais (homens de bem que cumpriam seu dever e não ostentam máculas em suas funções), e na versão apresentada pelo Réu (o qual foi flagrado na situação descrita na denúncia e possui condenação pelo mesmo crime), a primeira opção, sem dúvida, é a mais coerente.
+Desse modo, as provas são suficientes para indicar que o Réu era o traficante da região, não havendo qualquer evidencia em contrário que aponte sua inocência, a não ser a narrativa de seu filho a qual não teve o condão de excluir, de forma eficaz, sua autoria, já que provavelmente se locupletava da conduta ilícita, seja para o consumo, seja para o sustento, vislumbrando-se que não assumiria crime tão grave "manchando" sua folha de antecedentes -, apenas por piedade ou parentesco.
+A condenação, portanto, é de rigor, pois comprovadamente praticou as condutas "guardar" e "ter em depósito", ambas tipificadas no artigo 33, "caput", da Lei nº 11.343/06.
+Observa-se que a Corte de origem entendeu pela condenação do paciente com fundamento na prova dos autos, destacando o depoimento dos policiais e que "1. havia notícia anônima apontando o Réu como o traficante da região, inclusive alertando sobre o local em que escondia as drogas; 2. por uma coincidência cósmica, havia maconha e cocaína na residência do Réu, e uma grande porção de maconha em um pasto no quintal do imóvel, exatamente como delatado; 3. o Réu já foi condenado pelo mesmo crime, com sentença transitada em julgado (fls.182 e 186), demonstrando que o tráfico não lhe é estranho;  ..  5. entre acreditar nos depoimentos dos policiais (homens de bem que cumpriam seu dever e não ostentam máculas em suas funções), e na versão apresentada pelo Réu (o qual foi flagrado na situação descrita na denúncia e possui condenação pelo mesmo crime), a primeira opção, sem dúvida, é a mais coerente".
+Destaco, ainda, que o depoimento dos policiais foi prestado "sob o crivo do contraditório", o que afasta a alegação de ilegalidade por violação ao art. 155 do CPP.
+Dessa forma, tem-se que a condenação foi lastreada nos elementos constantes nos autos, estando devidamente fundamentada, de modo que a alteração de tal conclusão, demandaria a análise de matéria fático-probatória, o que é vedado emhabeas corpus.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. PLEITO DE ABSOLVIÇÃO. RECONHECIMENTO FOTOGRÁFICO. PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. INOBSERVÂNCIA. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. INVALIDADE DA PROVA. AUTORIA ESTABELECIDA COM BASE EM OUTROS ELEMENTOS PROBATÓRIOS. ABSOLVIÇÃO INVIÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou a desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedente.
+ ..
+5. Agravo regimental não provido.(AgRg no HC n. 745.822/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Ante o exposto,denego o habeas corpus.
+Publique-se. Intimem-se.
