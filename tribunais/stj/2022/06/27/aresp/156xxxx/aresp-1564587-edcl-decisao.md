@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Companhia Brasileira de Açúcar e Álcool - em recuperação judicial - à decisão monocrática proferida por este signatário, a qual conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ, fls. 510-514):
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. RESPONSABILIDADE POR CRÉDITO TRABALHISTA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO ANALÓGICA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 517-527), a embargante alega a existência de omissão e obscuridade, pois houve a impugnação expressa do argumento adotado pelo acórdãoa quoquanto à responsabilidade subsidiária, não havendo que se falar em fundamento autônomo capaz de manter o aresto estadual.
+Afirma, ainda, que "o Tribunal a quo NÃO apreciou o pedido de responsabilidade subsidiária lastreado em eventuais peculiaridades no caso sub judice, a fundamentação foi tão somente em razão da alienação da Unidade Produtiva Isolada, ou seja, a mesma matéria de fundo da decisão transitada em julgado" (e-STJ, fl. 524).
+Desse modo, pugna pelo acolhimento dos aclaratórios, afirmando que a "declaração de responsabilidade subsidiária é uma decisão extra petita, violando o princípio da congruência, assim, o argumento o trazido pelo e. Tribunal de Justiça para fundamentar a responsabilidade subsidiária é nulo frente ao vício apontado" (e-STJ, fl. 527).
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 1.011.452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020)
+Na espécie, nota-se que a decisão embargada aplicou o óbice da Súmula 283/STF consignando que o acórdão recorrido asseverou que a questão referente ao crédito trabalhista deve ser decidida pela Justiça especializada, o que, contudo, nem sequer teria acontecido, tornando injustificável a inclusão do crédito como concursal.
+Ademais, ressaltou-se que o entendimento da Justiça do trabalho tem sido o de não haver sucessão da empresa adquirente da UPI em recuperação judicial, sendo a responsabilidade da recuperanda apenas subsidiária.
+Vê-se, portanto, que não houve nenhuma omissão ou contradição capaz de viciar a deliberação unipessoal, ficando nítida, na verdade, apretensão da parte em ver rejulgado seu recurso ante o seu inconformismo com o resultado.
+Evidente, portanto, a impossibilidade de acolhimento desta via, integrativa por excelência , pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO NO JULGADO. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. EMBARGOS REJEITADOS.
