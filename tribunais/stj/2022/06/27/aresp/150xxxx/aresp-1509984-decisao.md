@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo nos próprios autos interposto por OAS ÓLEO E GÁS S.A. (e-STJ fls. 502/521). Verificada a realização de acordo entre as partes, foi proferido o seguinte despacho (e-STJ fls. 641)
+Considerando o acordo formulado pelas partes nos autos dos Recursos Especiais 1.958.216/RJ e 1.927.899/RJ, manifestem-se recorrentes e recorrido acerca do interesse no julgamento do presente recurso, no prazo de 5 (cinco) dias, justificando, pormenorizadamente, a necessidade do julgamento em caso de manifestação pela continuidade do processo.
+Em atendimento à determinação referida, as partes manifestaram-se nos seguintes termos (e-STJ fls. 645/646):
+OAS ÓLEO E GÁS S. A., OAS INVESTIMENTOS S. A. - EM RECUPERAÇÃO JUDICIAL,OAS S. A. - EM RECUPERAÇÃO JUDICIAL (esta última atualmente denominada METHA S. A.) e BANCO SAFRA S. A., todos devidamente qualificados nos autos do recurso em epígrafe, vêm, conjuntamente, por seus advogados abaixo assinados, informar a V. Exa. que as partes celebraram acordo que pôs fim ao litígio destes autos (doc. 1), já devidamente homologado por esse e. STJ (doc. 2).
+Diante disso, considerando que não subsiste interesse recursal, as partes requerem a V. Exa. que julgue prejudicados os recursos de fls. 493/501 (e-STJ) e de fls. 502/521 (e-STJ), na forma no art. 34, IX, do Regimento Interno desse e. Superior Tribunal de Justiça e do art. 932, I, do Código de Processo Civil, em razão da perda de seu objeto.
+Ante o exposto, com supedâneo no art. 34, XI, do Regimento Interno do STJ , JULGO PREJUDICADO o presente agravo.
+Publique-se e intimem-se.
