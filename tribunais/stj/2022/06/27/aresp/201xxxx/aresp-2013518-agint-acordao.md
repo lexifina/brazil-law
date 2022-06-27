@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, a parte autora ajuizou ação de cobrança com valor da causa atribuído em R$ 11.868,78 (onze mil, oitocentos e sessenta e oito reais e setenta e oito centavos), em 9/7/2020, objetivando recebimento dos valores relativos à reposição salarial concedida aos Militares Estaduais do Tocantins, no percentual de 4,68%, no período de 1º/7/2011 a 30/4/2015, conforme disposto na Lei n. 2.426/2011.
+Após sentença que julgou procedente o pedido, o Tribunala quonegou provimento à apelação do ente público, ficando consignado que houve descumprimento do acordo mencionado na inicial para a reposição prevista na Lei n. 2.426/2011, não havendo prova de que tenha sido efetivamente implementada em seu vencimento, conforme a seguinte ementa do acórdão:
+1. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO INTEGRANTE DO QUADRO DA POLÍCIA MILITAR DO ESTADO. DATA- BASE. PREVISÃO LEGAL. DIREITO SUBJETIVO DO SERVIDOR PÚBLICO.SENTENÇA MANTIDA. A restrição orçamentária e atenção aos limites estabelecidos na Lei de Responsabilidade Fiscal não são suficientes para afastar o direito do servidor público estadual ao recebimento de reposição salarial(data-base), prevista em Lei Estadual nº 2.426, de 2011, referente ao período de 1º/7/2011 a 30/4/2015, no qual foi firmado acordo de pagamento do valor devido em parcelas, cabendo, assim, ao ente público adotar medidas a fim de concretizar os direitos subjetivos do servidor público, consubstanciados na concessãode vantagens funcionais asseguradas por lei, de caráter eminentemente alimentar. 2.PRESCRIÇÃO DE DIFERENÇA SALARIAL. INEXISTÊNCIA. Não há de se falar em prescrição das diferenças de subsidio relativas ao período anterior ao prazo prescricional de cinco anos para ajuizamento de ação de cobrança, em 2017, de diferença salarial referente a data-base de 2011, se tal diferença foi objeto de acordo, no qual o ente estatal se comprometeu a efetivar pagamento da diferença salarial aos servidores em 16 (dezesseis)parcelas mensais e consecutivas, a partir de maio de 2015,portanto, o marco inicial da prescrição é apenas o prazo final previsto para o pagamento previsto no Acordo.
+Contra a decisão cuja ementa se encontra acima transcrita, Estado do Tocantins interpôs recurso especial, apontando violação dos arts. 1º e 9º do Decreto n. 20.910/32.
+Sustenta, em síntese, que a partir de 1º de maio de 2015, data de entrada em vigor da Lei n. 2.984/15 que supostamente reconheceu o débito estatal, a parte requerente teria dois anos e meio para propor a presente demanda, tendo o termo final ocorrido em 1º de novembro de 2017, prescrito portanto, o direito pleiteado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base nas Súmulas n. 7/STJ e 280/STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+As súmulas 7/STJ e 280/STF citadas como óbice na decisão de inadmissibilidade foi devidamente refutada no Agravo em Recurso Especial, não havendo que se falar em ausência de impugnação específica tão pouco de falta de dialeticidade recursal (Enunciado da Súmula 182/STJ).
+No presente caso, houve a impugnação especificada do óbice da Súmula 280 do STF no tópico 3.1 da peça recursal.
+O agravante demonstrou na peça recursal, que, na hipótese, inexiste necessidade de interpretação de dispositivos de legislação local para solução do caso, sendo a questão controvertida unicamente de direito.
+ ..
+Desse modo, não há que se cogitar da aplicação dos óbices das Súmulas 7/STJ e 280 do STF, pois os fundamentos do acórdão foram efetivamente atacados, tendo em vista que as alegações do Recurso Especial confrontam, de forma direta e específica, todos os fundamentos do acórdão exarado pelo Egrégio TJTO.
+Além disso, houve claro prequestionamento da matéria de direito relativamente à violação aos artigos 1º e 9º do Decreto 20.910/32, não sopesando dúvida que possuem comando normativo para amparar a tese recursal.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO INTEGRANTE DO QUADRO DA POLÍCIA MILITAR DO ESTADO. DATA-BASE. PREVISÃO LEGAL. DIREITO SUBJETIVO DO SERVIDOR PÚBLICO.DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de cobrança objetivando recebimento dos valores relativos à reposição salarial concedida aos Militares Estaduais do Tocantins, no percentual de 4,68%, no período de 1º/7/2011 a30/4/2015, conforme disposto na Lei n. 2.426/2011.Após sentença que julgou procedente o pedido, o Tribunal a quo negou provimento à apelação do ente público, ficando consignado que houve descumprimento do acordo mencionado na inicial para a reposição prevista na Lei n. 2.426/2011, não havendo prova de que tenha sido efetivamente implementada em seu vencimento.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Ademais, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, as Leis estaduais n. 2.426/2011 e 2.984/15, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão, objeto do recurso especial, fundamentou-se nos seguintes elementos:
+ ..
+Ocorre que o valor cobrado, alusivo a data-base de 2011, foi objeto de acordo, no qual o estado se comprometeu a efetivar o pagamento do benefício aos servidores em 16 (dezesseis) parcelas mensais e consecutivas, a partir de maio de 2015, logo, o marco inicial da prescrição é o prazo final previsto para o pagamento previsto no Acordo e, tendo sido a Ação de Cobrança ajuizada em 13/7/2020, não há de se falar em prescrição, posto que observado o prazo quinquenal.
+Passo à análise do mérito.
+A questão cinge-se ao cumprimento de acordo firmado entre o estado e servidores públicos, referente ao pagamento da reposição salarial, no percentual de 4,68%, concedida aos integrantes do Quadro da Polícia Militar do Estado do Tocantins. No que tange à indisponibilidade financeira, sobreleva registrar que os gastos com implementos funcionais estão previstos em dotação orçamentária. Nesta linha de intelecção pautam-se os seguintes precedentes:
+ ..  Ademais, os reajustes anuais e as progressões funcionais, oriundos de leis editadas há muito tempo, como no caso, geram presunção de reserva de valores pelo ente público, o que afasta a alegação de ausência de dotação orçamentária e de ofensa a Lei de Responsabilidade Fiscal.
+Com efeito, as despesas com pessoal decorrentes de decisões judiciais não são computadas para a verificação dos limites previstos no artigo19 da Lei Complementar no 101, de 2000. Nesse sentido: STJ. RMS 30428/RO, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 23/2/2010, DJe15/3/2010.
+Ainda, importante ressaltar que este Tribunal em recentes julgados enfrentou a questão, mantendo posicionamento firme no sentido de que cabe ao Estado do Tocantins efetivar o pagamento das diferenças salariais decorrente do percentual de 4,68% dado a título de reposição salarial, aos integrantes do Quadro da Polícia Militar do Estado do Tocantins.
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, oTribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, as Leis estaduais n. 2.426/2011 e 2.984/15, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
