@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada.
+2. A decisão monocrática asseverou: a) não se configura a alegada ofensa aos arts. 489, 1.022 e 1.025 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado; b) para modificar o entendimento firmado na decisão combatida, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ; c) a necessidade do reexame da matéria fática inviabiliza o Recurso Especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Nas razões do presente recurso, a parte agravante não ataca, de forma específica, os fundamentos supramencionados, limitando-se a sustentar suposta ocorrência de obscuridade na decisão monocrática, sob o argumento de que "foi dado provimento ao Agravo para se conhecer do REsp" (fl. 627, e-STJ), o que não condiz com a realidade dos autos.
+4. É inviável o conhecimento do Agravo Interno que não atacada, especificamente, os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182/STJ.
+5. Agravo Interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 597-600, e-STJ) que desproveu o recurso.
+A parte agravante alega, em suma (fls. 622-629, e-STJ):
+Com a devida vênia que se impõe ao caso, as conclusões adotadas pelo ínclito julgador monocrático não são capazes de infirmar a conclusão adotada para pautar os Aclaratórios, porquanto a obscuridade ali se manifesta em decorrência de ter havido duplo juízo de admissibilidade do Recurso Especial, o primeiro para conhecer e dar parcial provimento ao Agravo, e o segundo para negar provimento ao Recurso Especial na parte conhecida, por incidência da Súmula 7.
+(..)
+Logo, não caberia negar seguimento ao Recurso Especial pela Súmula 7 na parte conhecida pelo Agravo em REsp. Portanto, a obscuridade da decisão monocrática embargada se desponta da referida questão.
+Então, considerando que: a) o objetivo do Agravo em REsp nº 2004498 (petição às fls. 557/581) objetiva o prosseguimento do REsp acostado às fls. 401/423 quanto ao juízo de admissibilidade; b) a decisão que julgou o AREsp lhe dou parcial provimento para conhecer parcialmente do REsp (efetuado juízo de admissibilidade); e c) O REsp foi conhecido e teve seu seguimento negado quanto a elemento aferível em juízo de admissibilidade já realizado anteriormente; se conclui pela obscuridade quando ao desprovimento do REsp em razão do uso de critério para se aferir a admissibilidade recursal no julgamento de seu mérito.
+Requer a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada.
+2. A decisão monocrática asseverou: a) não se configura a alegada ofensa aos arts. 489, 1.022 e 1.025 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado; b) para modificar o entendimento firmado na decisão combatida, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ; c) a necessidade do reexame da matéria fática inviabiliza o Recurso Especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Nas razões do presente recurso, a parte agravante não ataca, de forma específica, os fundamentos supramencionados, limitando-se a sustentar suposta ocorrência de obscuridade na decisão monocrática, sob o argumento de que "foi dado provimento ao Agravo para se conhecer do REsp" (fl. 627, e-STJ), o que não condiz com a realidade dos autos.
+4. É inviável o conhecimento do Agravo Interno que não atacada, especificamente, os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182/STJ.
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2.6.2022.
+O Agravo Interno não supera o juízo de admissibilidade.
+A decisão recorrida concluiu: a) não se configura a alegada ofensa aos artigos 489, 1.022 e 1.025 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado; b) para modificar o entendimento firmado na decisão combatida, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ; c) a necessidade do reexame da matéria fática inviabiliza o Recurso Especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 1.636.504/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 28/10/2021; AgInt no REsp 1.875.351/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4/11/2021.
+Todavia, a parte agravante não ataca, de forma específica, os fundamentos supramencionados, limitando-se a sustentar suposta ocorrência de obscuridade na decisão monocrática, sob o argumento de que "foi dado provimento ao Agravo para se conhecer do REsp" (fl. 627, e-STJ), o que não condiz com a realidade dos autos.
+Consigne-se que "o juízo de admissibilidade do Recurso Especial na instância ordinária é provisório e não vincula o Superior Tribunal de Justiça, a quem compete o exame definitivo, não estando esse sujeito aos argumentos daquela decisão agravada" (AgInt no AREsp 1.023.977/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 28/8/2017).
+A iterativa jurisprudência desta Corte consolidou-se no sentido de que não se conhece de Agravo Interno que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento nela esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Dessa forma, a ausência de impugnação faz incidir na espécie a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO QUE NÃO ATACA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ, POR ANALOGIA.
+1. É inviável o conhecimento do agravo interno que não atacada, especificamente, os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182/STJ.
+2. Caso concreto em que o agravante tece considerações acerca do próprio mérito da controvérsia, a despeito deste não ter sido examinado nas razões da decisão agravada, que limitou-se a fixar as premissas jurídicas a serem oportunamente utilizadas pelo Tribunal de origem para julgá-lo: (a) para caracterização do ato de improbidade previsto no art. 10, VIII, da LIA, o dano ao erário é presumido; (b) o desrespeito aos princípios da Administração Pública é suficiente para ensejar a improbidade administrativa, na forma do art. 11, caput, da Lei 8.429/1992, hipótese que, outrossim, dispensa a existência de dano ao erário.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.669.685/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/5/2018, DJe de 3/8/2018)
+Ao lume do exposto, não conheço do Agravo Interno.
+É como voto.
