@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BOM TEMPO S/A, contra decisão assim ementada (e-STJ, fls. 3.482/3.483):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO E DIREITO CIVIL. PRETENSÃO DE CUMPRIMENTO DE TERMO DE OPÇÃO DE COMPRA E VENDA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. MATÉRIAS DEVIDAMENTESTRATADAS PELA CORTE DE ORIGEM. JULGAMENTO EXTRA PETITA. REVER A CONCLUSÃO A QUE CHEGOU O TRIBUNAL LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL, NA PARTE CONHECIDA.
+Nas razões do presente recurso, a parte agravante repisa as razões do apelo nobre e sustenta, em síntese, que "ao contrário do que consignado na v. decisão, o Eg. TJRJ não julgou fundamentadamente as questões devolvidas à sua apreciação, sendo certo que incorreu em graves omissões, notadamente sobre fatos incontroversos que têm o condão de alterar o desfecho da presente lide. Elas são hábeis a alterar a equivocada conclusão de que os vendedores não estariam mais vinculados ao termo de opção de compra"(e-STJ fl. 3.498).
+No mais, afirma que "ao contrário do que consta da v. decisão agravada, além de a questão referente ao vício extra petita não ser a única que compõe o mérito do recurso  .. , trata-se de questão eminentemente jurídica"(e-STJ, fl. 3.503).
+Impugnação às fls. 3.529/3.543 e 3.544/3.546.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. PROCESSO E DIREITO CIVIL. PRETENSÃO DE CUMPRIMENTO DE TERMO DE OPÇÃO DE COMPRA E VENDA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. MATÉRIAS DEVIDAMENTES TRATADAS PELA CORTE DE ORIGEM. JULGAMENTO EXTRA PETITA. REVER A CONCLUSÃO A QUE CHEGOU O TRIBUNAL LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Reanalisando os autos é de se concluir que, no que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+Da leitura do acórdão recorrido verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto à manutenção da sentença de primeira instância que entendeu não estar comprovado, nos autos, a violação ao princípio da boa-fé, fato incontroverso ou mesmo a existência de simulação e fraude no negócio em demanda. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+No que concerne ao mérito, é de se observar que o Tribunal de origem, soberano na análise das provas carreadas aos autos, entendeu que "não há que se falar em inovação no tocante a fundamentação do acórdão de que não se poderia exigir a prova do pagamento. Há cláusula contratual expressa estabelecendo que o pagamento total do preço deveria ser feito até o prazo final do termo de opção, ou seja um ano após a sua celebração. Logo, há evidente fragilidade na argumentação do autor de que exerceu a opção dentro do prazo, mas não efetuou o pagamento do preço. A prova do pagamento do preço era sim, elemento relevante para se apurar a concretização da opção de compra" - fl. 3.124.
+Assim, acolher o pleito da parte recorrente acerca da existência de julgamentoextra petita, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula nº 7/STJ.
+A jurisprudência deste Superior Tribunal de Justiça orienta-se no sentido de que a compreensão da pretensão deduzida em juízo requer a interpretação lógico-sistemática das razões apresentadas (REsp 1307131/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/04/2013, DJe 15/04/2013; (AgRg no AREsp 281.254/SE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 26/03/2013).
+No caso, a controvérsia posta cinge-se em saber se houve ou não julgamento extra petita a partir do exame dos pedidos deduzidos na exordial. Examinar tais alegações demanda unicamente o cotejo entre peças processuais e documentos dos autos, o que não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial pela orientação contida na Súmula nº 7 desta Corte.
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
