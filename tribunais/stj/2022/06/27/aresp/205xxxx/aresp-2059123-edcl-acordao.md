@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de embargos de declaração opostos por Município de Votuporanga desafiando acórdão prolatado pela Eg. Primeira Turma, assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar especificamente, de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+3. Agravo interno não conhecido.
+A parte agravante, em suas razões, aponta omissão, sustentando, em síntese, que não há falar na incidência da Súmula 182/STJ na hipótese, pois "ao afirmar genericamente que o recorrente não impugnou especificamente a decisão, Vossa Excelência emprega conceitos vagos, sem explicar de forma concreta o porquê que o recorrente não observou o princípio da dialeticidade" e "o recorrente impugnou todos os pontos trazidos pelo acórdão guerreado. De todo modo, em razão do princípios da inafastabilidade da jurisdição, da primazia do julgamento de mérito, e, principalmente dos princípios da cooperação e da boa-fé, e ante o que dispõe o art. 489, §1º, do nCPC, roga o embargante seja esclarecido e apontado por Vossa Excelência qual foi o ponto não atacado." (fl. 139).
+Transcorreu in albis o prazo para impugnação (fls. 145/146).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, a respeito da apontada omissão, a saber, "ao afirmar genericamente que o recorrente não impugnou especificamente a decisão, Vossa Excelência emprega conceitos vagos, sem explicar de forma concreta o porquê que o recorrente não observou o princípio da dialeticidade" (fl. 573), o aresto embargado assim deliberou sobre os motivos determinantes que justificaram o não conhecimento do agravo interno da parte ora embargante (fls. 133/134):
+Com efeito, conforme constou do relatório, a decisão alvejada não conheceu do agravo em recurso especial interposto pelo Município de Votuporanga, ao fundamento de que incide à espécie a Súmula 182/STJ, porquanto a parte agravante não teria impugnado, de forma específica, todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, a falta de prequestionamento da matéria.
+Entretanto, nas argumentações de agravo interno, a parte agravante não cuidou de refutar, especificamente, o fundamento acima descrito, limitando-se a aduzir que "o recorrente impugnou especificamente e de forma pormenorizada o acórdão recorrido, esclarecendo no apelo que não há repetitivo contrário à tese recursal, bem como não há violação à Súmula 7 do STJ, notadamente porque a matéria discutida é unicamente de direito, qual seja, violação frontal à legislação federal, conforme abaixo esclarecido, não havendo falar em re/análise de fatos" (fl. 113), bem como a repisar a matéria abordada no recurso especial inadmitido, no sentido de que "o Leilão Judicial e a arrematação do bem imóvel ocorreram sem a devida ciência prévia da Fazenda Municipal, credora preferencial, o que a impossibilitou de obter seu crédito fiscal no produto da arrematação. E que por ausência de prévia ciência da Fazenda Pública Municipal, a norma contida no parágrafo único do art. 130 do CTN (sub-rogação do preço) não deve ser aplicada ao presente caso." (fl. 114).
+Assim, havendo a parte agravante deixado de rebater, de modo específico, todos os fundamentos adotados pela decisão agravada, a saber, a incidência da Súmula 182/STJ, ante a falta de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial da municipalidade, em virtude da inexistência de prequestionamento da matéria (incidência das Súmulas 282 e 356/STF), incide, à hipótese, por analogia, o óbice da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). Nesse sentido: (omissis)
+(grifou-se).
+Como se vê, não houve a aludida omissão, tendo o aresto alvejado expressamente registrado que a parte ora embargante não cuidou de rebater, de forma específica, nas razões de agravo interno, o fundamento utilizado pela decisão agravada para aplicação da Súmula 182/STJ,ante a falta de impugnaçãoao alicerce da decisão que inadmitiu o recurso especial da municipalidade, em virtude da inexistência de prequestionamento da matéria (incidência das Súmulas 282 e 356/STF).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 22/8/2018, DJe 28/8/2018)
+Como se vê, não existem vícios no julgado embargado capazes de abrir pórtico para o cabimento dos embargos de declaração. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, vê-se que sua intenção é apontar a existência de error in judicando, propósito este incompatível com a via integrativa.
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
