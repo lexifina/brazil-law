@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de agravo internomanejado por MAIARA GUIARZI CALDAS DA SILVAdesafiando decisão que conheceu doagravo para não conhecer do recurso especial, pelas seguintes razões: (I) ausência de prequestionamento, nos termos da Súmula 211/STJ, da matéria pertinente aos arts. 14, § 1º, da Lei n. 6.938/1981 e 373, caput e § 1º, do Código de Processo Civil; (II) quanto ao alegado dever de indenizar da parte agravada, inviável o reexame de matéria fática no âmbito do recurso especial, conforme estipula a Súmula 7/STJ; (III) dissídio jurisprudencial afastado em razão da incidência dos mencionados óbices.
+A parte agravante sustenta que a solução da controvérsia não demanda o reexame de matéria fática, uma vez que as questões veiculadas no recurso especial são exclusivamente de direito pela violação do art. 927 do CC c/c art.14, §1º, da Lei nº 6.938/91.
+Acrescenta queoacórdão recorrido expressamente reconhece que se trata de caso de reparação civil de dano ambiental eaplicabilidade da responsabilidade civil, bem como tratou da tese da inversão probatória, de modo quehouve o prequestionamento implícito dos dispositivos legais apontados como violados.
+Aduz, ainda, a presença dos requisitos para análise dos dissídios jurisprudenciais.
+Impugnação da agravada às fls. 780/792.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL AMBIENTAL. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CAUSAS DO MAU CHEIRO. REEXAME DA MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No que se refere ao pleito de inversão do ônus da prova, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+2. Rever o entendimento acerca das causas do mau cheiro próximo à regiãodemandaria, necessariamente, novo exame do acervo fático constante dos autos, providência vedada pela Súmula 7/STJ.
+3.Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Em que peseaos argumentos aduzidos no presente recurso, a decisão agravada merece ser mantida.
+Com efeito,no que se refere ao pleito de inversão do ônus da prova, observa-se que o Tribunal de origem não examinou a controvérsia sob esse enfoque,apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo"). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+Em relação à Súmula 7/STJ, como antes asseverado, rever o entendimento de que "o mau cheiro próximo à região em que se localiza a ETE Guaraituba não decorre, em regra, do tratamento deesgoto - possuindo outras causas, como a poluição elevada e contaminação dos rios locais" (fls. 762/763),demandaria, necessariamente, novo exame do acervo fático constante dos autos, providência vedada pela Súmula 7/STJ.
+Por fim, em razão da incidência dos mencionados óbices sumulares, fica prejudicado o exame do dissídio jurisprudencial.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
