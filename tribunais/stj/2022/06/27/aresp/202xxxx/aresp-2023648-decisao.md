@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos impugnando decisão que não admitiu recurso especial sob o fundamento de incidência da Súmula n. 7/STJ (e-STJ fls. 169/175).
+O acórdão proferido pelo TJRS está assim ementado (e-STJ fl. 67):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO 157. INTERESSE DE AGIR CONFIGURADO. PRESENTE O INTERESSE DE AGIR, POIS PREENCHIDOS OS DOIS REQUISITOS, QUAIS SEJAM, A UTILIDADE E A NECESSIDADE DO PROVIMENTO JUDICIAL PLEITEADO. NA HIPOTESE DOS AUTOS, A PARTE COMPROVOU POR EXTRATO O INVESTIMENTO NO FUND0 157, BEM COMO A ADMINISTRAÇÃO PELA INSTITUÇÃO FINANCEIRA, COMO TAMBEM, A RECUSA AO RECEBIMENTO DO PEDIDO ADMINISTRATIVO DE PRESTAÇÃO DAS CONTAS, REALIZADO ANTES DO AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO CONFIGURADA. TENDO EM VISTA QUE O FUNDO 157 NÃO POSSUIA PRAZO DE VENCIMENTO OU DE RESGATE DE QUANTIAS, NAO HA FALAR EM PRESCRIÇÃO DA PRETENSÃO DE EXIGIR CONTAS. PRECEDENTES DESTA CORTE DEVER DE PRESTAR AS CONTAS. NO CASO, MOSTRA-SE INCONTROVERSO O INTERESSE DE AGIR DO NO TITULAR DE INVESTIMENTO NO FUNDO 157 NA AÇÃO EM QUE POSTULA A PRESTAÇÃO DE CONTAS DAS APLICAÇÕES EFETIVADAS SOB A ADMINISTRAÇÃO DA PARTE AGRAVANTE, SENDO, ASSIM, DIREITO DA AUTORA TER CONHECIMENTO DE POSSÍVEIS RENDIMENTOS RELATIVOS AOS SEUS INVESTIMENTOS. HONORÁRIOS SUCUMBENCIAIS. REDUÇÃO. POSSIBILIDADE. OS HONORÁRIOS ADVOCATÍCIOS DEVEM SER FIXADOS COM BASE NOS CRITÉRIOS ESTAMPADOS NO ARTIGO 85, § 2º, DO CPC (GRAU DE ZELO DO PROFISSIONAL, LUGAR DA PRESTAÇÃO DO SERVIÇO, NATUREZA E IMPORTÂNCIA DA CAUSA, TRABALHO DESENVOLVIDO E TEMPO DESPENDIDO) HIPÓTESE EM QUE RESULTA CABÍVEL A REDUÇAO DA VERBA HONORÁRIA, EM VIRTUDE DA BAIXA COMPLEXIDADE E IMPORTÂNCIA DA CAUSA, DO TRABALHO REALIZADO PELOS PATRONOS DA PARTE DEMANDADA NO PONTO, AGRAVO PROVIDO. HONORÁRIOS RECURSAIS. VERBA SUCUMBENCIAL REDIMENSIONADA E MAJORADA. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 91/100).
+No recurso especial (e-STJ fls. 107/122), fundamentado no art. 105, III, "a", da CF, o recorrente alega violação dos seguintes dispositivos legais (e-STJ fl. 137):
+-  Art. 1.022 do CPC/2015, por ter havido omissão com a rejeição dos embargos de declaração opostos para fins de sanar aspectos relevantes e de prequestionamento;
+-  Arts. 17, 485, VI, 927, III e 1.038, § 3º, do CPC/2015, pois os elementos considerados no acórdão recorrido não são suficientemente hábeis a evidenciar o interesse processual do Recorrido para a propositura da presente ação, notadamente à luz do decidido por esse Eg. STJ no Recurso Especial repetitivo nº 1.349.453/MS;
+-  Arts. 189, 206, § 3º, IV e V, e 205, do Código Civil, e art 287, II, da Lei nº 6.404/1976, que estabelecem o prazo de 3 anos para as reparações civis ou, alternativamente, 10 anos, regra geral do Código;
+-  art. 187 e 422, do CC, pois a pretensão acolhida pelo acórdão recorrido viola a boa-fé objetiva, haja vista guardar relação a investimento supostamente realizados há mais de quarenta anos.
+A parte agravada apresentou resposta aos recursos (e-STJ fls. 130/141 e 197/201).
+É o relatório.
+Decido.
+Negativa de prestação jurisdicional
+Quanto à alegada ofensa ao art. 1.022 do CPC/2015, não assiste razão aorecorrente, pois as questões necessárias ao julgamento do caso foram decididas fundamentadamente, ainda que em sentido contrário do sustentado pela parte.
+Boa-fé objetiva
+O Tribunal de Justiça não abordou a matéria sob o enfoque da boa-fé objetiva, ou seja, não se manifestou sobre o conteúdo normativo dos arts. 187 e 422do CC/2002, circunstância que impede o exame do tema por falta de prequestionamento (Súmula n. 211/STJ).
+Interesse de agir
+O recorrente sustenta que "não houve notificação administrativa idônea pois o Recorrido não cumpriu com os requisitos necessários, sendo consequência maior disso a conclusão de que lhe falta o necessário interesse processual para o ajuizamento da ação em comento" (e-STJ fl. 117).
+Conforme ajurisprudência do STJ, para caracterizar o interesse de agir, é prescindível o requerimento administrativo anterior à propositura da ação de prestação de contas. Confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. A pretensão recursal esbarra na Súmula 7/STJ, ante a necessidade de verificar se a parte não demonstrou que o eventual pedido administrativo teria sido instruído com o comprovante de pagamento do custo do serviço buscado. 2.1. O acórdão recorrido está em conformidade com o entendimento desta Corte no sentido de que o titular da conta-corrente tem interesse processual para ajuizar ação de prestação de contas (Súmula n. 259/STJ), independentemente de prévio pedido administrativo. Precedentes.
+3. Para alterar a conclusão do Tribunal local no sentido de que o Fundo 157 não possuía nenhuma previsão de resgaste ou prazo de vencimento apto a atrair a prescrição da pretensão de exigir contas, bem como violar a boa-fé objetiva, seria necessário interpretar as cláusulas contratuais e promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor dos óbices da Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.858.730/RS, Relator MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 21/2/2022, DJe de 24/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE CONTAS. INTERESSE DE AGIR. PRÉVIO REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É dispensável prévio requerimento administrativo a fim de que haja interesse de agir do titular de conta bancária para a ação de prestação de contas.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.009.956/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/5/2022, DJe de 11/5/2022.)
+Além disso, o acórdão recorrido consignou que "a parte comprovou por extrato o investimento no Fundo 157, bem como a administração pela instituição financeira, como também, a recusa ao recebimento do pedido administrativo de prestação das contas, realizado do ajuizamento da ação" (e-STJ fl. 62).
+Incide o óbice da Súmula n. 7/STJno ponto.
+Prescrição
+Segundo o acórdão recorrido, "tendo em vista que tal opção de investimento não possuía prazo de vencimento ou de resgate de quantias, não há falar em prescrição da pretensão de exigir contas, relativamente aos valores investidos no Fundo 157" (e-STJ fl. 63).
+A decisão está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que,por se tratar o Fundo 157 de investimento sem prazo para resgate, ou seja, por se constituir em uma relação de trato sucessivo, não cabefalar em prescrição do direitode exigir contas dos valores administrados pelo banco. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.BANCÁRIO. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO 157.PRESCRIÇÃO AFASTADA. SÚMULAS 5 E 7 DESTA CORTE. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1.O Tribunal de origem afastou a alegada prescrição da pretensão de exigir contas dos valores administrados pelo banco, sob o fundamento de que o Fundo 157, instituído pelo Decreto-Lei n. 157/1967, não possuía nenhuma previsão de resgate ou prazo de vencimento. Rever tal conclusão esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1791387/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/5/2021, DJe 5/5/2021 - grifei.)
+PROCESSUAL CIVIL. AGRAVO INERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO. ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO ÂNUA. RECONHECIMENTO. RELAÇÃO DE TRATO SUCESSIVO. ÔNUS SUCUMBENCIAIS. OCORRÊNCIA DE ERRO MATERIAL. RECURSO NÃO PROVIDO. CORREÇÃO DE ERRO MATERIAL.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Devidamente analisadas e discutidas as questões devolvidas ao Tribunal, com fundamento claro e expresso, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 e 1.022 do NCPC.
+3. Sendo a relação de trato sucessivo, a prescrição não atinge o fundo de direito,razão pela qual o pedido não foi julgado improcedente. Dessa forma, não há que se falar em inversão dos ônus sucumbenciais.
+4. Correção de erro material na parte dispositiva da decisão agravada quanto aos honorários sucumbenciais. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1331335/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/3/2021, DJe 04/3/2021 - grifei.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
