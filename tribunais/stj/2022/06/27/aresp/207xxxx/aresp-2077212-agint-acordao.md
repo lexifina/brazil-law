@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo internointerposto por CLEVERSON ALENCAR DE OLIVEIRA contra a decisão desta relatoria de fls. 378-382 (e-STJ), que conheceu do agravo para negar provimento ao recurso especial.
+O apelo especial foifundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 279):
+PLANO DE SAÚDE. COBERTURA DE EXAME. CARÊNCIA CONTRATUAL. INEXISTÊNCIA DE URGÊNCIA OU EMERGÊNCIA.
+Insurgência do plano de saúde contra sentença de procedência. Reforma. Cobertura obrigatória após o prazo de 24 horas de carência apenas nos casos de urgência e emergência, no sentido estrito dos termos (Súmula 103 do TJSP; Súmula 597 do STJ; art. 35-C, I e II da Lei 9.656/98). Incontroverso que a internação em questão deu-se em período de carência. Caso, entretanto, no qual não houve declaração médica de emergência ou urgência, a justificar o excepcional afastamento do período de carência contratual. Paciente que recebeu atendimento no pronto atendimento, seguindo-se de indicação de internação para investigação e tratamento. Negativa de cobertura da internação, nesses termos, que é lícita. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 331-333).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 4º, 39, I, 51, IV, do CDC, 12, IV, c, e 35-C, I, da Lei n. 9.656/1998; 1.022 do CPC/2015; e 421 do CC.
+Esclareceu que se opôs ao acórdão que, sem apreciar todas as teses recursais, indeferiu a cobertura securitária pelo plano de saúde.Arguiu ser equivocada essa conclusão, porquanto o insurgente somente foi prontamente atendido pelos médicos da recorrida por se tratar de uma situação de iminente risco de sérias complicações de saúde, dada à gravidade de seu estado clínico, inexistindo condições de alta médica.
+Frisou que o Poder Judiciário está autorizado a intervir na autonomia privada para readequar cláusulas contratuais que se revelem excessivamente abusivas ao consumidor, pois os princípios da boa-fé e do equilíbrio contratual devem ser preservados, quadro que estaria configurado neste caso. Nesse sentido, pontuou apossibilidade de cobertura securitária no período de carência após 24 (vinte e quatro) horas da contratação, em virtude do risco à sua vida, se não ocorresse o atendimento.
+Mencionou que acórdão violou o art. 51, IV, do CDC, pois a Resolução n. 13 da Consu estabelece que a cláusula que estipula limite de prazo para internação do beneficiário é abusiva, contrariando o objeto do contrato. Requereu o provimento do recurso especial (e-STJ, fls. 344-358).
+Inadmitido o apelo especial, foi interposto agravo em recurso especial, o qual foi apreciado monocraticamentepor este julgador, conhecendo do agravo para negar provimento ao recurso especial (e-STJ, fls. 378-382).
+Contra esse decisumprotocola o insurgente agravo interno. Destaca quese tratade questão unicamente de direito, logo não existe necessidade derevolvimento e novo julgamento de matéria fático-probatória, tampouco interpretação de cláusula contratual - inaplicabilidade das Súmulas 5 e 7/STJ.
+Sublinha nãovislumbrar hipótese de incidência dos óbices sumulares n. 83 e 597/STJ. Aduz quea situação de urgência ou emergência ainda persiste na ocasião em que o médico assistente solicita recurso de internação, sendo que a cláusula de carência estabelecida em contrato exige interpretação restritiva ante a real necessidade de tratamento de urgência. Pugna pelo provimento do recurso interno(e-STJ, fls. 385-398).
+Contraminuta apresentada (e-STJ, fls. 400-403).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE URGÊNCIA OU EMERGÊNCIA A FIM DE ENSEJAR A ANULAÇÃO DA CLÁUSULA PREVENDO O PERÍODO DE CARÊNCIA. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2.Analisando o acervo fático-probatório e os termos do contrato do plano de saúde, a segunda instância concluiu não ser caso de cobertura securitária. Nesse contexto, firmou o decisum a ausência de situação de urgência ou emergência após o atendimento realizado no pronto-socorro.Essas ponderações atraem os textos das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+VOTO
+Reexaminando a controvérsia, não se observam razões para acolhimento deste agravo interno.
+Com efeito, não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Ao analisaro acervo fático-probatório e os termos do contrato do plano desaúde, a segunda instância concluiu não ser caso de cobertura securitária. Nesse contexto, firmou o aresto a ausência de situação de urgência ou emergência após o atendimento realizado no pronto-socorro.
+Esclareceu o decisum que o médico responsável pelo atendimento não mencionou urgência ou emergência na indicação de internação; tendo salientado, inclusive, que a saúde do autor estava clinicamente estável, mas diante do possível diagnóstico de doença grave (endocardite), a medida seria necessária para investigação e tratamento.
+Logo, afastou-se a urgência ou emergência a fim de ensejar cobertura securitária dentro do período de carência.
+Veja-se (e-STJ, fl. 280):
+É incontroverso que, à época de solicitação de atendimento médico, o contrato de plano de saúde estava sujeito ao prazo de carência de cento e oitenta dias, iniciados à data da contratação: 10/09/2019 (p. 188).
+A possibilidade de o autor receber atendimento existia apenas na situação de urgência ou emergência médicas, depois de decorridas 24 horas de contratação, conforme Súmula 103 deste Tribunale Súmula 597 do Superior Tribunal de Justiça. No caso, em que pese o entendimento do magistrado de origem, não houve demonstração de urgência ou emergência na internação, que se seguiu a atendimento no Pronto Socorro.
+A situação de emergência médica é condicionada à existência de risco imediato de vida ou de lesões irreparáveis para o paciente, mediante declaração do médico assistente.
+O atendimento de urgência, por sua vez, é decorrente de acidentes pessoais. Nesse sentido, basta a consulta às definições previstas no art. 35-c, I e II da Lei 9.656/98).
+No caso, não se questiona a necessidade de internação. O fato, no entanto, é que ela não está amparada na existência de imediato risco, tampouco decorre de acidente pessoal, nos termos das definições mencionadas.
+O médico responsável pelo atendimento não mencionou urgência ou emergência na indicação de internação. Salientou, inclusive, que a saúde do autor estava clinicamente estável, mas diante do possível diagnóstico de doença grave (endocardite), a medida seria necessária para investigação e tratamento.
+Ou seja, o autor não só estava estável, como o diagnóstico de doença grave ainda nem estava concluído, sendo certo que o tratamento consistia apenas no uso de antibióticos.
+A internação, portanto, não era de emergência ou urgência, como forma de evitar risco de morte ou lesão. Ao contrário, era de simples prevenção e melhor investigação, escapando da excepcional cobertura ainda em período de carência.
+Essas ponderações atraem os textos das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
