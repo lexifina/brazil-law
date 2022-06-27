@@ -1,0 +1,27 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO no 1012094-14.2022.8.11.0000 – CLASSE CNJ – 202 COMARCA DE RONDONÓPOLIS
+AGRAVANTEs: RAQUEL LEITIS BARBOSA DE MEDEIROS, SARAH LEITIS BARBOSA TOMAZI
+AGRAVADO: LUCIANO FEITOSA DE PAULA - ME
+Vistos etc.
+Trata-se de recurso de agravo de instrumento interposto por RAQUEL LEITIS BARBOSA DE MEDEIROS e SARAH LEITIS BARBOSA TOMAZI contra a decisão proferida nos autos dos Embargos à Execução n. 1012079-68.2020.8.11.0015, com trâmite na 4a Vara Cível da Comarca de Rondonópolis/MT, em face da decisão interlocutória que sobrestou o feito, para aguardar “o passo da ação de conhecimento no 1007039- 78.2019.8.11.0003 (que ainda pende de citação)”, para o julgamento uno, sob a alegação de que haveria risco de decisões conflitantes e prejudicialidade entre as demandas.
+As Recorrentes buscam a reforma da decisão agravada, e aduzem, em primeiro lugar, que não há sentença de mérito no procedimento de execução que possibilite decisões conflitantes, inexistindo a relação de prejudicialidade alegada pelo MM. Juiz Singular entre ação de execução/embargos à execução e a ação de conhecimento.
+Afirmam que não se pode perder de vista que na petição inicial dos Embargos à Execução - 1012079-68.2020.8.11.0015 – a causa de pedir e pedidos se limitam a arguir a carência da ação de execução e a nulidade do título executivo, nada versando sobre o negócio jurídico celebrado entre as partes, o qual é objeto da ação de conhecimento, proposta pela empresa ora Agravada.
+Asseveram que o processo de conhecimento visa à obtenção de sentença reconhecendo suposta prestação de serviços que não teriam sido pagos, ao passo que o objetivo dos embargos à execução consiste no reconhecimento da nulidade do título executivo extrajudicial e/ou carência da execução.
+Sustentam que a sentença que julgar os Embargos à Execução NÃO INFLUENCIARÁ no julgamento da ação de conhecimento, pois em vista do princípio da adstrição o limite para a cognição do Magistrado de origem se restringirá à análise das alegações de nulidades do título extrajudicial.
+Requer que seja recebido o presente recurso na forma de instrumento e, também, que seja deferido o EFEITO SUSPENSIVO afastando os efeitos da conexão e sobrestamento dos Embargos à Execução, de modo a determinar o prosseguimento dos embargos à execução, independentemente do andamento da ação de conhecimento, ao passo que, ao contrário do afirmado pelo Juízo a quo, não existe risco de decisões conflitantes tampouco de suposta prejudicialidade entre a ação de conhecimento e as ações de execução e embargos à execução (estes prontos para sentença); no mérito, requer que seja confirmada a decisão liminar para reformar a decisão agravada, nos termos defendidos.
+É a síntese.
+Decido.
+O Recurso comporta recebimento como Agravo de Instrumento, eis que a hipótese se enquadra perfeitamente à exceção do parágrafo único do artigo 1.015 do Código de Processo Civil, bem como veio instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, inciso I do CPC.
+Como é cediço, o artigo 995, parágrafo único, do mesmo Codex, dispõe que o Relator poderá conceder efeito suspensivo ao Recurso ou antecipar os efeitos da tutela recursal, desde que da imediata produção dos efeitos da decisão recorrida houver risco de dano grave, de difícil ou improvável reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Para justificar o deferimento do pleito, é imprescindível que os Recorrentes demonstrem a existência de perigo de dano, bem como que o prejuízo será irreversível ou de improvável recomposição caso não sejam antecipada a tutela recursal vindicada. Além, é claro, da probabilidade do direito.
+Neste contexto, é vedado, nos estreitos limites deste Instrumental, o exame das questões de fundo do direito discutido, sendo pertinente apenas aferir se estão, ou não, presentes os requisitos necessários para concessão do efeito suspensivo, já que as Agravantes almejam agregar suspensividade ao recurso até o julgamento do mérito.
+Da análise dos autos, nesta fase de cognição sumária, não é possível entrever a confluência desses pressupostos para a concessão da medida in limine.
+Com efeito, examinando detidamente o caderno processual e os termos procedimentais que se aplicaram à espécie, tenho que a decisão objurgada, nesta fase preambular, não comporta alteração pois, o Juiz singular decidiu por sobrestar o andamento da execução, sob o fundamento de que haveria risco de decisões conflitantes e prejudicialidade entre as demandas. Diante deste quadro, não tenho como plausíveis os argumentos lançados pelas Recorrentes, em especial o perigo da demora.
+Por essas razões, ad cautelam, entendo necessário aguardar a análise do mérito do Instrumental, a fim de que a matéria em debate seja objeto de análise mais aprofundada pelo colegiado desta 1.a Câmara de Direito Privado.
+Assim, por não vislumbrar os pressupostos autorizadores para a concessão da medida in limine, indefiro o pedido de efeito suspensivo.
+Intimem-se a parte Agravada para, querendo, apresentar contraminuta, nos termos do artigo 1.019, II do Código de Processo Civil.
+Comunique-se o juízo a quo acerca desta decisão, bem como para que preste as informações que entender pertinentes em 15 (quinze) dias.
+Cumpra-se.
+Cuiabá, data da assinatura eletrônica.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
