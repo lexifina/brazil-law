@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 433-435, e-STJ) que conheceu do Agravo para não conhecer o Recurso Especial, com base na Súmula 7 do STJ.
+A agravante sustenta, em suma, a inaplicabilidade da Súmula 7 do STJ (fl. 444, e-STJ):
+Conforme trecho do acórdão recorrido, destacado pelo próprio Ministro Relator, o Tribunal a quo entendeu que "as informações dos autos demonstram que o sistema está de acordo com o estabelecido no Decreto n. 3.048/99, vinculando a atividade econômica principal da empresa, a qual deve classificada com base no maior número de empregados, à alíquota do SAT, resguardando, assim, o direito ao autoenquadramento da parte contribuinte".
+Esse excerto demonstra que houve uma confusão conceitual quanto aos aspectos inerentes à contribuição ao RAT, levando à conclusão - incorreta - de que o Esocial estaria, em sua origem, adequado à legislação.
+Esta inadequação era flagrante, tanto que, posteriormente, foi solucionada pela própria União.
+Segundo o acórdão, a atividade econômica principal da empresa deveria ser classificada com base no maior número de empregados. Essa assertiva não é correta.
+(..)
+Por outro lado, a atividade preponderante à qual alude a legislação pertinente à contribuição ao RAT segue o parâmetro apontado pelo acordão, qual seja, "deve classificada com base no maior número de empregados".
+Atividade econômica e atividade preponderante não se confundem, embora possam ser coincidentes.
+Nos termos do próprio acórdão recorrido, as informações constantes dos autos demonstram que o Esocial vinculava apenas a atividade econômica principal da empresa. Ora, essa vinculação é equivocada, pois o correto seria a atividade preponderante.
+Nessa linha, valorando juridicamente os fatos assentados pelo acórdão recorrido, infere-se flagrante violação ao art. 21, II, da Lei nº 8.212/91, pois o ESocial foi parametrizado para definir a alíquota do RAT a partir da atividade econômica da empresa (CNAE Fiscal, cadastrada no CNPJ da empresa), e não a atividade preponderante, aquela que alberga a maior quantidade de segurados empregados em cada estabelecimento.
+Segundo. Em decorrência da parametrização acima, verifica-se também violação ao art. 150 do CTN, pois a contribuição ao RAT sujeita-se ao lançamento por homologação, sendo direito do contribuinte efetuar o autoenquadramento da atividade preponderante, cabendo à Administração Tributária tão somente verificar, em momento posterior, a validade da declaração do contribuinte. Não se pode impedir o contribuinte de apurar e declarar o tributo, mas somente validar as informações transmitidas e, se for o caso, aplicar as sanções cabíveis em caso de erro.
+Como está claro, o recurso especial não encontra óbice na Súmula nº 7/STJ, pois a verificação da ilegalidade suscitada não demanda o reexame das provas constantes dos autos; as ilegalidades foram suscitadas sobre os fatos assentados pelo próprio acórdão recorrido, cabendo tão-somente proceder à sua valoração jurídica, ou seja, verificar se o direito aplicado à espécie é o correto.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SAT. AUTOENQUADRAMENTO DE ACORDO COM A ATIVIDADE PREPONDERANTE DO ESTABELECIMENTO. COMPATIBILIDADE DO E-SOCIAL. TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA AUSÊNCIA DE PROVA DO DIREITO DA EMPRESA AUTORA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que a empresa recorrente não desincumbiu a agravante de comprovar fato de falha existente no sistema e-Social a dificultar ou impedir o autoenquadramento da atividade econômica principal da empresa em desconformidade com a legislação de regência. Nesse sentido, transcrevo o seguinte trecho do acórdão: "No caso vertente, verifica-se que a parte autora não logrou êxito em comprovar que o E-social veda o seu direito ao autoenquadramento, pois as informações dos autos demonstram que o sistema está de acordo com o estabelecido no Decreto n. 3.048/99, vinculando a atividade econômica principal da empresa, a qual deve classificada com base no maior número de empregados, à alíquota do SAT, resguardando, assim, o direito ao autoenquadramento da parte contribuinte" (fl. 346, e-STJ). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+2. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 27 de maio de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, a irresignação esbarra na Sumula 7 do STJ.
+O acórdão recorrido analisou as provas carreadas aos autos para concluir pela inexistência de qualquer incompatibilidade entre o funcionamento do e-Social com o estabelecido no Decreto n. 3.048/1999, vinculando a atividade econômica principal da empresa, a qual deve ser classificada com base no maior número de empregados, à alíquota do SAT.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido:
+No caso vertente, verifica-se que a parte autora não logrou êxito em comprovar que o E-social veda o seu direito ao autoenquadramento, pois as informações dos autos demonstram que o sistema está de acordo com o estabelecido no Decreto n. 3.048/99, vinculando a atividade econômica principal da empresa, a qual deve classificada com base no maior número de empregados, à alíquota do SAT, resguardando, assim, o direito ao autoenquadramento da parte contribuinte.
+Da leitura do trecho mencionado percebe-se que revisar as conclusões do acórdão recorrido demanda reexame do acervo probatório dos autos, vedado em Recurso Especial.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
