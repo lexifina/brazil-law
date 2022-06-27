@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. GARANTIA PARCIAL DO JUÍZO. DETERMINAÇÃO "EX OFFICIO" PARA COMPLEMENTAÇÃO. IMPOSSIBILIDADE. PRECEDENTES DO STJ.
+1. Apelação interposta pela Empresa e outros em face da sentença que extinguiu os Embargos à Execução Fiscal, sem resolução de mérito, com base no art. 485, IV, do CPC sob o fundamento de ausência de , garantia do Juízo. A sentença entendeu que a Embargante não garantiu integralmente o Juízo, porquanto o débito ultrapassa o valor de R$ 50.000.000,00 (cinquenta milhões de reais) e ofereceu bens avaliados que correspondem a menos de 10% do débito executado, tendo sido devidamente intimada a complementar a garantia apresentada. Condenação da parte Demandante em honorários advocatícios, fixados em R$ 500,00 (quinhentos reais), nos termos do art. 20, § 4º, do CPC/1973.
+2. De acordo com o artigo 16, § 1º, da Lei 6.830/80, os Embargos não são admissíveis "antes de garantida a execução", sendo inaplicável o disposto no art. 736 do CPC/1973, em razão do princípio da especialidade (STJ - REsp 1.272.827/PE, 1ª Seção, Rel. Ministro Mauro Campbell Marques, DJe de 31/05/2013).
+3. Contudo, efetuada a penhora, ainda que insuficiente, encontra-se presente a condição de admissibilidade dos Embargos à Execução Fiscal, haja vista a possibilidade posterior da integral garantia do Juízo, mediante reforço da penhora (STJ - REsp 1.127.815/SP, Rel. Ministro Luiz Fux, feito julgado sob a sistemática do art. 543-C do CPC).
+4. No REsp 1.127.815/SP, restou consignada a impossibilidade de determinação pelo Magistrado, de ofício, do reforço da garantia, sendo que esse mesmo entendimento foi incorporado em julgado desta Turma. (TRF5 - Processo AG144182/PE, Rel. Desembargador Federal Carlos Rebêlo Júnior, Terceira Turma, Julgamento: 15/09/2016, DJe 19/09/2016) .
+5. Apelação provida, determinando-se o retorno dos autos ao Juízo de origem para o regular processamento dos Embargos à Execução Fiscal.
+Os Embargos de Declaração foram rejeitados.
+O Tribunal de origem, ao exercer o juízo de retratação, manteve inalterado o julgamento anterior, nestes termos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. RETORNO DOS AUTOS. JUÍZO DE RETRATAÇÃO. GARANTIA PARCIAL DO JUÍZO. DETERMINAÇÃO "EX OFFICIO" PARA COMPLEMENTAÇÃO. IMPOSSIBILIDADE. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+1. Autos encaminhados pela Vice-Presidência para que, nos termos do art. 1.040, II, do CPC, fosse realizado, caso necessário, o Juízo de Retratação em decorrência da tese firmada pelo STJ no REsp 1.127.815/SP (em sede de repetitivo), no qual consolidou-se o entendimento segundo o qual a insuficiência de penhora não é causa bastante para determinar a extinção dos embargos do devedor, devendo o Magistrado conceder prazo para que o Executado proceda ao reforço da penhora ou demonstre, inequivocamente, que não possui patrimônio suficiente para garantir integralmente o crédito exequendo.
+2. No caso, o acórdão entendeu que, embora a garantia tenha sido prestada de forma parcial (menos de 10% do valor do débito - R$ 50.000,000,00), encontrar-se-ia presente a condição de admissibilidade dos Embargos à Execução Fiscal, haja vista a possibilidade posterior da integral garantia do Juízo, mediante reforço da penhora.
+3. Explicitou-se também que, na decisão paradigma, restou consignada a impossibilidade de determinação pelo Magistrado, de ofício, do reforço da garantia, sendo que esse mesmo entendimento foi incorporado em julgado desta Turma. (TRF5 - Processo AG 144182/PE, Rel. Desembargador Federal Carlos Rebêlo Júnior, Terceira Turma, Julgamento: 15/09/2016, DJe 19/09/2016) .
+4. Juízo de Retratação não exercido. Mantido inalterado o Acórdão que deu provimento à Apelação.
+A parte recorrente alega violação do art. 16, § 1º, da Lei 6.830/1980.
+Contrarrazões às fls. 2.476-2.478, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.6.2022.
+O acórdão recorrido consignou:
+De acordo com o artigo 16, § 1º, da Lei 6.830/80, os Embargos não são admissíveis "antes de garantida a execução", sendo inaplicável o disposto no art. 736 em razão do princípio da especialidade (STJ - REsp 1.272.827/PE, 1ª Seção, Rel. Ministro Mauro Campbell Marques, DJe de 31/05/2013).
+Contudo, efetuada a penhora, ainda que insuficiente, encontra-se presente a condição de admissibilidade dos Embargos à Execução Fiscal, haja vista a possibilidade posterior da integral garantia do Juízo, mediante reforço da penhora (STJ - REsp 1.127.815/SP, Rel. Ministro Luiz Fux, feito julgado sob a sistemática do art. 543-C do CPC).
+Ademais, neste mesmo julgado da Corte Superior, restou consignada a impossibilidade de determinação pelo Magistrado, de ofício, do reforço da garantia, sendo que esse mesmo entendimento foi incorporado em julgado desta Turma, adiante transcrito:
+(..)
+Considerando-se, portanto, que a sentença não se fundamentou na jurisprudência mais atualizada sobre a matéria, imperiosa se faz a sua anulação para que os autos retornem à origem, para o regular processamento dos Embargos à Execução Fiscal, eis que a garantia parcial não pode ser obstáculo para apreciação dos Embargos, devendo a parte Embargada, se for o caso, se insurgir quanto à insuficiência da garantia apresentada.
+Sob o influxo de tais considerações, para determinar o retorno dos autos ao dou provimento à Apelação Juízo de origem para o regular processamento dos Embargos à Execução Fiscal. (fls. 2.338-2.339, e-STJ)
+A jurisprudência do STJ é no sentido de que, emexecução fiscal, a oposição dos Embargos depende de garantia do juízo, nos termos do art. 16 da Lei 6.830/1980, não afetado pela alteração do art. 736 do CPC/1973, consoante ojulgamento proferido no REsp 1.272.827/PE, Rel. Min. Mauro Campbell Marques, submetido ao rito do art. 543-C do CPC/1973.
+No julgamento do REsp 1.127.815/SP, sob o rito do art. 543-C do CPC/1973, esta Corte consolidou o entendimento de que "não se deve obstar a admissibilidade ou apreciação dos embargos à execução pelo simples fato de que o valor do bem constrito é inferior ao valor exequendo, devendo o juiz proceder à intimação do devedor para reforçar a penhora". Ressaltou-se, entretanto, que "a insuficiência patrimonial do devedor é a justificativa plausível à apreciação dos embargos à execução sem que o executado proceda ao reforço da penhora,  .. , desde que comprovada inequivocamente".
+Na hipótese dos autos, o Tribunal de origem reformou a sentença e determinou prosseguimento dos Embargos à Execução por entender que a insuficiência da penhora não é causa suficiente para a sua extinção, haja vista a possibilidade posterior da integral garantia do Juízo, mediante reforço da penhora.
+Assim, a conclusão alcançada pelo Tribunal de origem está em consonância com a jurisprudência do STJ.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
