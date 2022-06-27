@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto de decisão monocrática (fls. 971-976, e-STJ) que não conheceu do Recurso Especial do segurado.
+O agravante refuta a aplicação da Súmula 7/STJ.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. TEMPO DE SERVIÇO. COISA JULGADA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem consignou (fls. 790-791, e-STJ): "No caso, na ação nº 2010.71.62.002494-8, a parte autora requereu o reconhecimento da especialidade dos mesmos períodos aqui pleiteados, 24/02/1986 a 05/04/1990, 11/06/1990 a 25/08/1992, 20/06/1994 a 02/08/1996 e de 01/11/1996 a 24/04/2009, laborados na empresa Isdralit Ind. E Com. Ltda., tendo o julgador de origem assim decidido naquele feito (evento 131, SENTENÇA2): (..) Assim, em relação ao todos os períodos aqui pleiteados houve apreciação da especialidade na ação anterior, configurando a coisa julgada."
+2. Para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal compreensão, cuja análise demanda reexame de provas, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Quanto aos limites subjetivos e objetivos da coisa julgada, tampouco é permitida sua apreciação pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2.6.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, ao julgar a lide, o Tribunal de origem consignou (fls. 790-791, e-STJ):
+Preliminarmente, pretende a parte autora seja relativizada a coisa julgada reconhecida quanto ao processo nº 2010.71.62.002494-8, alegando que no processo anterior não foi deferida a produção de prova pericial.
+Não se desconhece a tese minoritária de aceitação da relativização da coisa julgada. Este posicionamento, no entanto, não re ete o entendimento desta Turma, que adota o entendimento de que havendo idênticas partes, causa de pedir e pedido, ocorre a coisa julgada.
+No caso, na ação nº 2010.71.62.002494-8, a parte autora requereu o reconhecimento da especialidade dos mesmos períodos aqui pleiteados, 24/02/1986 a 05/04/1990, 11/06/1990 a 25/08/1992, 20/06/1994 a 02/08/1996 e de 01/11/1996 a 24/04/2009, laborados na empresa Isdralit Ind. E Com. Ltda., tendo o julgador de origem assim decidido naquele feito (evento 131, SENTENÇA2):
+(..)
+Assim, em relação ao todos os períodos aqui pleiteados houve apreciação da especialidade na ação anterior, configurando a coisa julgada.
+Deste modo, reafirmo ser evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal compreensão, cuja análise demanda reexame de provas, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Quanto aos limites subjetivos e objetivos da coisa julgada, tampouco é permitida sua apreciação pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ. Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA A DISPOSITIVOS LEGAIS FEDERAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. EXECUÇÃO. COMPENSAÇÃO. OFENSA À COISA JULGADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PRECEDENTES.
+1. Extrai-se do teor do voto condutor do acórdão recorrido que os arts. 303, 468 e 474 do CPC/1973 e as matérias a eles correlatas não foram objeto de debate e apreciação pela Corte de origem, circunstância que redunda na incidência da Súmula 211/STJ em virtude da ausência de prequestionamento dos referidos dispositivos legais pela instância a quo.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.235.513/AL (Rel. Ministro Castro Meira, Primeira Seção, DJe 20/12/2012), submetido ao rito do art. 543-C do CPC, pacificou a orientação de que "não ofende a coisa julgada  ..  a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso. Nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. Se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada. É o que preceitua o art. 741, VI, do CPC: "Na execução contra a Fazenda Pública, os embargos só poderão versar sobre  ..  qualquer causa impeditiva, modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença"".
+3. No caso, verificar se a compensação do reajuste de 28,86% se deu em desconformidade com o que preconiza o título executivo, bem como se ocorreu, ou não, eventual afronta à coisa julgada, é pretensão inviável na via recursal eleita, tendo em vista a necessidade do reexame do acervo fático-probatório dos autos, o que é incabível em recurso especial, segundo o teor da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 445.971/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 26/2/2018).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSTO DE RENDA. CÁLCULO. COISA JULGADA. OBSERVÂNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. COTEJO DE PEÇAS PROCESSUAIS DE FEITOS DISTINTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. PRECEDENTES DO STJ. CONSIDERAÇÕES A TÍTULO DE OBITER DICTUM. IRRELEVÂNCIA. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, o Tribunal a quo deu provimento ao Agravo de Instrumento, interposto pelo ora agravado, ao fundamento de que, em observância à coisa julgada, o cálculo do Imposto de Renda incidente sobre as verbas recebidas acumuladamente, a título de URV, deve observar as tabelas e alíquotas vigentes à época em que deveriam ter sido pagas.
+III. Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016).
+IV. Considerando-se a fundamentação do acórdão recorrido - no sentido de que os cálculos apresentados, para fins de Imposto de Renda, refletem a coisa julgada -, somente com o reexame do conjunto fático-probatório seria possível acolher a argumentação da parte recorrente, o que, efetivamente, encontra óbice na Súmula 7 do STJ.
+V. Os comentários do Tribunal de origem, a título de obiter dictum, não integram a fundamentação do acórdão recorrido, de modo que as razões recursais, tendentes a impugná-los, mostram-se irrelevantes e não merecem ser conhecidas, porquanto incapazes de ensejar a reforma do decisum.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.121.961/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 11/10/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.133.837/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2017).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
