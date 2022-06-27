@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 314):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ART. 1.032 DO CPC/2015. INAPLICABILIDADE. PRECEDENTES.
+1. No caso, o Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional e, no recurso especial, a parte recorrente alega somente contrariedade a dispositivos infraconstitucionais. Nesse contexto, inviável a análise da questão, em sede de recurso especial, sob pena de usurpação da competência do STF. Incidência da Súmula 126/STJ.
+2. A aplicação do princípio da fungibilidade, nos termos do art. 1.032 do CPC/2015, é possível quando o recurso especial versa sobre questão constitucional e há um equívoco da parte quanto à escolha do recurso cabível. Situação inocorrente nos autos, uma vez que o acórdão recorrido tem fundamento constitucional e o recurso especial versa sobre matéria infraconstitucional. Precedentes.
+3. Agravo interno não provido.
+O embargante aponta omissão o julgado, sustentando que (fl. 323):
+Conforme já narrado, em sede de Recurso Especial o agravante além de demonstrar a violação legislativa, também demonstrou a existência de divergência jurisprudencial quanto à matéria, tendo em vista que a decisão TRF4 diverge do posicionamento adotado pela 2ª Turma deste Tribunal Superior, no julgamento do RESP 1.812.770/RS, julgado em 14/10/2019, que reafirmou o entendimento da Corte Superior, ratificando-se o posicionamento já adotado nos EREsp nº 1.351.256/PR e REsp nº 1.152.218/RS - esse último julgado sob o rito dos Recursos Repetitivos, de que os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas.
+Segundo, a hipótese dos autos caracteriza uma exceção a regra do entendimento que não permite a análise da divergência em razão de óbice sumular quando do exame do recurso especial pela alínea "a", visto que no presente caso a divergência alegada é em relação à tese firmado por este Tribunal em sede de recurso repetitivo.
+É notória a divergência demonstrada nestes autos, não podendo o agravante ser prejudicado e perder a reserva de seus créditos em uma matéria que se encontra com tese consolidada.
+Desta forma, trata-se de dissídio jurisprudencial que merece ser analisado por esse tribunal, afinal, a decisão a quo diverge de tese firmada em sede de recurso repetitivo, e esta análise não foi realizada no acórdão embargado, restando omisso neste ponto.
+Semimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015.OMISSÃO. INCIDÊNCIA DASÚMULA 126/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Aorientação desta Corte é no sentido de que fica "prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+3. Embargos de declaração acolhidos, sem efeitos infringentes, para suprir a omissão apontada, mantendo-se o resultado do julgamento.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+In casu, a irresignação merece ser acolhida, a fim de que seja sanado o vício apontado.
+Contudo, há de ser rejeitado o pedido, no ponto.
+Conforme anotadona decisão que não conheceu do recurso especial, fls. 270/273, aorientação desta Corte é no sentido de que fica "prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+Nesse contexto, não há como ser acolhido o pleito da recorrente, de que odissídio jurisprudencial que merece ser analisado, porqueoóbicede admissibilidade aplicadoimpedeo conhecimento do apelo especial neste tocante,tornando a questão prejudicada.
+Nesse sentido, confiram-se:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO COMANDO DO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. INCIDÊNCIA DA LEI COMPLEMENTAR 116/2003. PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não caracteriza omissão ou falta de fundamentação a adoção de posicionamento contrário ao interesse da parte. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+2. O Tribunal de origem, ao decidir a questão relativa à incidência da lei complementar 116/2003, amparou-se em fundamentos constitucional, notadamente, no princípio da anterioridade tributária. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgRg no AREsp 126036/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/12/2012;AgRg no AREsp 206.733/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/12/2012.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.012.733/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/5/2017.)
+AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ILEGITIMIDADE ATIVA RECONHECIDA NAS INSTÂNCIAS ORDINÁRIAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO. QUESTÃO DE ORDEM PÚBLICA SUSCITADA PELO MINISTÉRIO PÚBLICO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+(..) IV - No tocante à tese de dissídio jurisprudencial, o não conhecimento do apelo raro inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano a respeito dos mesmos dispositivos legais invocados.
+(..) VI - Recurso de agravo conhecido para não conhecer do recurso especial (AREsp 1492227/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2019)
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, para suprir a omissão apontada, nos termos da fundamentação supra, devendo ser mantido o resultado do julgamento.
+É como voto.
