@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sempedido de liminar, interposto porDANIEL ARAUJO COSTAcontra acórdão do Tribunal de Justiça do Estado do Cearáque denegou a ordem, com recomendação,no HC n. 0630439-68.2021.8.06.0000.
+Nas razões deste recurso, a Defesa alega, em suma, a ausência de fundamentação idônea e dos requisitos legais para a prisão preventiva do Recorrente, decretada nos autos da Ação Penal n. 0214245-55.2021.8.06.0001, em trâmite no Juízo da Vara Única daAuditoria Militar da Comarca de Fortaleza/CE.
+Sustenta, ademais, o constrangimento ilegal decorrente dafaltade revisão judicial da custódia dentro do prazo estabelecido pelo art. 316, parágrafo único, do Código de Processo Penal
+Requerarevogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal, ou a substituição por prisão domiciliar.
+Em consulta ao andamento processual disponibilizado no site do Tribunal a quo, verifiquei que o Juízo de primeiro grau, nos autos do Relaxamento de Prisão n.0033775-29.2021.8.06.0001, revogou a segregação cautelar do Recorrente, nos seguintes termos (grifos no original):
+" .. Em face do acima exposto, RELAXO A PRISÃO PREVENTIVA do policial militar CB PM Daniel Araújo Costa, com fulcro no artigo 5º, LXV, da CF/88 e 648, II, doCódigo de Processo Penal, aplicando as seguintes MEDIDAS CAUTELARES: 1) proibição de acesso a qualquer unidade policial militar, salvo se devida e formalmente requisitado (por escrito), ou mediante autorização judicial específica; 2) proibição de manter contato ou aproximar-se de qualquer uma das vítimas ou testemunhas; 3) recolhimento domiciliar noturno (18h - 6h) e nos finais de semana e feriados (integralmente), com monitoração eletrônica; 4) afastamento da função de policial militar e a proibição de uso de farda e arma de fogo, com recolhimento do fardamento, armamento e da identidade funcional (pode ser expedida outra contendo as restrições, relativo à proibição de uso da arma)."
+Portanto, constata-se a superveniente perda de objeto deste recurso.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, JULGO PREJUDICADO o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem- se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PRISÃO PREVENTIVA REVOGADA PELO JUÍZO DE PRIMEIRO GRAU. IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS. RECURSO PREJUDICADO.
