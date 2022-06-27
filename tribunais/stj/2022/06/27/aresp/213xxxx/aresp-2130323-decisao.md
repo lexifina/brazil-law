@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência objetivando a atribuição de efeito suspensivo a agravo em recurso especial.
+Aduz o agravante, em síntese, que o pleito para atribuição de efeito suspensivo a agravo em recurso especial visa obstar o início de cumprimento de sentença de Ação de Despejo para impedir o "iminente o decreto de desocupação do imóvel pelos seus moradores", o que configuraria risco de dano grave e de difícil reparação. Ademais, aponta que agravo de instrumento interposto pelos recorrentes não teria sido apreciado pelo Tribunal de origem, sob a alegação de que o recurso tratava de matéria idêntica, decidida em agravo de instrumento anterior. Nesse sentido, diante da alegada presença de fumus boni iuris e periculum in mora, requer o deferimento de tutela de urgência para atribuição de efeito suspensivo a agravo em recurso especial.
+É o relatório.
+DECIDO.
+1. Esta Corte Superior perfilha o entendimento de que a atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora. Nesse sentido: AgRg na MC 25.391/MS, QUARTA TURMA, julgado em 18/02/2016, DJe 25/02/2016.
+2. Com efeito, a concessão da tutela provisória deve possuir caráter excepcional, ocorrendo sempre que necessário para impedir o perecimento do direito e a consequente inutilidade do provimento jurisdicional. A propósito: AgInt no TP 363/PE, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017.
+3. Na hipótese dos autos, todavia, os requisitos indispensáveis para o deferimento da tutela provisória pretendida não foram demonstrados.
+4. Ora, a parte agravante se limita a tecer considerações genéricas acerca da urgência da medida, aduzindo que a não atribuição de efeito suspensivo ao recurso poderia gerartranstornos aos moradores do imóvel leiloado, que são idosos, bemdanos arquitetônicos ao bem imóvel, pois os novos proprietários poderiamquerer modificar as características do prédio.
+5. Sendo assim, não demonstrado pelo agravante o perigo da demora, suficiente para inviabilizar o deferimento do pedido de efeito suspensivo, desnecessária se torna a análise do requerimento sob a ótica do fumus boni juris.
+Forte nessas razões, INDEFIRO o pedido de tutela de urgência.
+Publique-se e intimem-se.
