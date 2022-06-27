@@ -1,0 +1,22 @@
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO N.o 1015617-68.2021.8.11.0000 – COMARCA DE CUIABÁ/MT.
+Agravante: E-TAG Construções e Comércio LTDA-EPP
+Agravado: Estado de Mato Grosso
+Vistos.
+Trata-se de Agravo Interno oposto pelo E-TAG Construções e Comércio LTDA-EPP nos autos do Agravo de Instrumento n. 1015617-68.2021.8.11.0000 em face da decisão monocrática que indeferiu parcialmente a petição inicial e indeferiu a medida liminar postulada pelo agravante.
+Em síntese, o recorrente argumenta que o periculum in mora se faz presente porque “Ao impedir que a empresa possa participar de licitações por 02 anos, o Estado de Mato Grosso, decretou, indiretamente o fechamento da empresa”. De resto, reitera os fundamentos do agravo de instrumento e ataca novamente a decisão de primeiro grau.
+Requer, ao fim, a retratação da decisão agravada, ou, em caso negativo, submissão ao colegiado, para que este reforme o provimento atacado e defira e medida liminar pleiteada.
+Em contrarrazões ao agravo regimental, o Agravado defende o acerto da decisão objurgada e pugnou pelo desprovimento do agravo interno.
+A Procuradoria-Geral de Justiça opina pelo não conhecimento do agravo regimental, ou, no mérito, pelo seu desprovimento; e pelo desprovimento do agravo de instrumento.
+É o relatório.
+Decido.
+Com efeito, o art. 1.010 do Código de Processo Civil impõe à parte recorrente o dever de esmiuçar nas razões recursais “(...) II - a exposição do fato e do direito; III - as razões do pedido de reforma ou de decretação de nulidade (...)”. Ao realizar o controle de regularidade formal e material dos recursos, compete ao relator, nos termos do art. 932, III, “não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida”.
+Segundo Fredie Didier Jr. e Leonardo Carneiro da Cunha, “uma das exigências da regularidade formal dos recursos, própria de um processo cooperativo, é o ônus de impugnação especificada da decisão recorrida. Não pode o recorrente limitar-se a reproduzir os termos da petição inicial, da contestação etc.; o recorrente tem de, em seu recurso, dialogar com a decisão recorrida, enfrentando-a nos pontos que lhe interessam ser revistos” (Curso de direito processual civil: o processo civil nos tribunais, recursos, ações de competência originária de tribunal e querela nullitatis, incidentes de competência originária de tribunal. 13. ed. v. 3. Salvador: Juspodivm, 2016, p. 53).
+No caso dos autos, em que pese o agravante ventile argumentos fáticos e jurídicos que tornariam imperioso, a seu aviso, o deferimento da medida liminar, deixa de impugnar os argumentos vazados na decisão monocrática impugnada, que indeferiu o a medida de urgência porque não demonstrada a aparência do direito. É dizer, o agravo regimental deixou de atacar/contrapor/rebater minimamente a motivação do provimento monocrático, razão pela qual não restou atendido o pressuposto legal previsto no art. 1.010, inc. II, do CPC/2015.
+Conforme bem percebido pelo membro do Parquet em segunda instância, a “insurgência é manifestamente descabida por descumprimento do requisito de impugnação específica dos fundamentos da decisão agravada de que trata o art. 1.021, §1o do CPC. Muito embora a petição recursal pontue sua discordância quanto à parte da decisão que tratou do periculum in mora, no tocante aos fundamentos aplicados para concluir que não se divisava fumus boni iuris suficiente para o deferimento da tutela, a Agravante se limitou a reiterar as razões que a levaram à propositura da ação originária e do agravo instrumental” (id. 120592487, p. 01).
+Destaque-se que é inaplicável o art. 932, par. único, do Diploma Processual Civil, segundo o qual, “antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível”, porquanto cuida-se de mácula insanável, dada a preclusão operada após a apresentação das razões recursais (STF. 1a Turma. ARE 953221 AgR/SP, Rel. Min. Luiz Fux, julgado em 7/6/2016).
+Ante o exposto, com fundamento no art. 51, I-B, do RITJMT, não conheço do recurso de agravo regimental.
+Intime-se o agravado para apresentar contrarrazões ao agravo de instrumento.
+Após, retornem conclusos para voto, porquanto já existente parecer da Procuradoria-Geral de Justiça.
+Cuiabá, 27 de junho de 2022.
+Alexandre Elias Filho
+Relator Convocado
