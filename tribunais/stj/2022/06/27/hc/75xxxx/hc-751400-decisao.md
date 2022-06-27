@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de ALDENIR DE JESUS SILVA, no qual se indica como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Em suas razões, a parte impetrante alega ausência dos requisitos autorizadoresda prisão preventiva estando pautada apenas em argumentos genéricos.
+Destaca as condições pessoais favoráveis como primariedade, residência fixa, sertrabalhadora e a pequena quantidade de entorpecentes apreendida.
+Aduz ser mãe de uma menor pontuando ainda a possibilidade de prisão domiciliar.
+Aponta a possibilidade de substituição da segregação preventiva por medidas cautelares alternativas, requerendo a revogação da prisão.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão de habeas corpus de ofício -que, já adianto, deve ser deferida no presente caso.
+Consta no acórdão impugnado:
+"Como relatado, trata-se de Habeas Corpus, com pedido de liminar, impetrado em favor de ALDENIR DE JESUS SILVA presa preventivamente pela suposta prática do crime de tráfico de drogas.
+Sustenta o impetrante, essencialmente, que o constrangimento ilegal deriva da ausência dos requisitos para manutenção da prisão preventiva.
+Ainda, requer a concessão da prisão domiciliar, nos termos do art. 318 do CPP.
+Segundo consta dos autos, a paciente foi flagrada levando nas artes íntimas, 07 buchas de maconha para dentro de unidade prisional em que se encontrava a pessoa de Wellignton Silva Pereira.
+Assim, entendo que estão presentes a materialidade e os indícios de autoria.
+Ainda que a paciente seja primária, entendo que a prisão preventiva da mesma se faz necessária para garantia da ordem pública, diante da gravidade concreta dos fatos em análise.
+Dos autos é possível extrair verdadeiro desprezo da paciente pelas normas legais, sociais e morais, visto que tento adentrar com entorpecentes em unidade prisional, sem temer todo o aparato de vigilância do ambiente em que se deram os fatos.
+Importante salientar que o Supremo Tribunal Federal já pacificou entendimento de que a gravidade concreta dos fatos, constitui fundamento hábil para justificar a decretação da prisão preventiva (STF - RHC: 120051 SP, Relator: Min.
+ROBERTO BARROSO, Data de Julgamento: 27/05/2014, Primeira Turma, Data de Publicação: DJe-115 DIVULG 13-06- 2014 PUBLIC 16-06-2014).
+Por outro lado, afirma a defesa a necessidade de concessão de prisão domiciliar, com base no art. 318,V do CPP, por ser a paciente mãe de uma adolescente de 13 anos.
+Contudo, por ser a adolescente maior de 12 anos de idade, não se enquadra a paciente na hipótese do art. 318, V doCPP.
+Ainda, inexistem nos autos elementos que atestem ser a paciente a única responsável pelos cuidados da menor e, considerando a gravidade concreta dos fatos, verifica-se aqui situação excepcionalíssima, incapaz de autorizar a prisão domiciliar.
+Ante o exposto, com amparo no parecer da douta Procuradoria de Justiça, denego a ordem" (e-STJ, fls. 65-66).
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, o julgador não trouxe qualquer dado concreto que demonstre o periculum libertatis.
+O decreto preventivo está fundamentado apenas na gravidade abstrata do delito e em elementos inerentes ao próprio tipo penal. Ademais, nem mesmo a quantidade de droga apreendida,isoladamente, autorizaria o encarceramento cautelar, sobretudo porque certificada a primariedade dapaciente.
+Ressalto que as condições pessoais favoráveis da agente corroboram com a possibilidade de aplicação de medidas menos severas e garantem, de igual forma, a instrução processual e possível aplicação da lei penal.
+A propósito:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO INIDÔNEA. RÉU PRIMÁRIO. DESPROPORCIONALIDADE DA CONSTRIÇÃO. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. Embora as instâncias ordinárias tenham mencionado a quantidade e a variedade de drogas, nota-se que os elementos relacionados ao fato - apreensão de 19,19 g de cocaína, 86,55 g de crack, 57,34 g de maconha - são indicativos de que não se trata de pessoa envolvida com organização criminosa nem de tráfico de grandes proporções, portanto, as medidas alternativas à prisão são adequadas e suficientes.
+3. Ordem concedida para substituir a prisão preventiva imposta ao paciente pelas medidas cautelares previstas no art. 319 do Código de Processo Penal, salvo se por outro motivo estiver preso e sob o compromisso de comparecimento aos atos do processo, cabendo ao Magistrado de primeiro grau o estabelecimento das condições." (HC 541.617/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. DESNECESSIDADE DA CUSTÓDIA. POUCA QUANTIDADE DAS DROGAS APREENDIDAS.
+CONDIÇÕES PESSOAIS FAVORÁVEIS. SUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO PROVIDO.
+1. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Ainda, somente deve ser mantida a prisão antecipada quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+2. Não obstante tenham as instâncias ordinárias feito menção a elementos concretos do caso, como as circunstâncias do delito, tendo em vista a apreensão de apetrechos comumente utilizados para disseminação de entorpecentes, verifica-se que a quantidade da droga localizada - 23 comprimidos de ecstasy - não se mostra exacerbada, o que permite concluir que a potencialidade lesiva da conduta imputada ao recorrente não pode ser tida como das mais elevadas. Tais circunstâncias, somadas ao fato de não haver nos autos notícias de que o recorrente responda a outras ações penais, sendo, a princípio, primário, indicam a prescindibilidade da prisão preventiva e a suficiência das medidas cautelares menos gravosas.
+3. Recurso em habeas corpus provido para, revogar a prisão preventiva do recorrente, ressalvada a aplicação de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal, a serem definidas pelo Juiz de primeiro grau, bem como a possibilidade de nova prisão desde que devidamente fundamentada." (RHC 123.854/GO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/03/2020, DJe 23/03/2020).
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício, para revogar a prisão preventiva imposta apaciente mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+Publique-se. Intimem-se.
