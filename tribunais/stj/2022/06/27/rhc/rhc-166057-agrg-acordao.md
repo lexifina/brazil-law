@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. REITERAÇÃO DO HC 735.468/BA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Agravo regimental não conhecido, porque a defesa não impugnou especificamente os fundamentos da decisão agravada, pressuposto formal para o conhecimento do recurso. Ausência decorrelação entre as razões apresentadas pela defesa no recurso de agravo e a motivação da decisão agravada. Precedentes do STJ.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por ALEX CARDOSO DE ALMEIDA contra decisão monocrática que não conheceu do recurso em habeas corpus (e-STJ fls. 262/263).
+Segundo consta dos autos, o paciente foi preso cautelarmente e denunciado porque teria submetido mais de uma dezena de pessoas que estavam sob sua responsabilidade a maus-tratos severos e tortura (sendo que as investigações tiveram início após a morte de um idoso internado no estabelecimento), além de recolher seus cartões bancários e com eles realizar saques e empréstimos, privando-lhes ainda da liberdade de sair.
+Em suas razões, a defesa alega que as questões apresentadas no recurso são de ordem pública e que todo cidadão tem direito de obter do Poder Judiciário uma decisão fundamentada, principalmente quando se trata de constrição da liberdade. Ademais, alega que a prisão do agravante não se mostra necessária e imprescindível e desrespeita o princípio da homogeneidade, porquanto o réu é primário, tem atividade lícita e residência fixa.
+Diante disso, pede seja o agravo submetido a julgamento pelo colegiado para dar provimento ao recurso em habeas corpus.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Não há como conhecer do presente agravo regimental. Isso porque a defesa não impugnou especificamente os fundamentos da decisão agravada, pressuposto formal para o conhecimento.
+Com efeito, inexistecorrelação entre as razões apresentadas pela defesa no recurso de agravo (desnecessidade da prisão preventiva e violação ao princípio da homogeneidade) e a motivação da decisão agravada (recurso não conhecido por representar reiteração do HC n. 735.468/BA, já julgado pelo Superior Tribunal de Justiça).
+Confira-se o inteiro teor da decisão agravada (e-STJ fls. 262/263):
+Não há como conhecer do presente recurso. Isso porque o acórdão recorrido já foi objeto de impugnação nesta Corte no julgamento do HC 735.468/BA, configurando o presente recurso mera reiteração de pedido.
+A utilização do recurso cabível simultaneamente à utilização dowritsubstitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário emhabeas corpusconsista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também,habeas corpussubstitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores" (AgRg no RHC n. 103.808/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Nesse ponto, cumpre salientar que, embora esta Corte entenda ser, de início, incabível ohabeas corpussubstitutivo de recurso, em homenagem ao princípio da ampla defesa, é de rigor o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício. Destarte, não haverá qualquer prejuízo ao recorrente em ter as teses ora levantadas analisadas quando do julgamento dowrite não do presente recurso ordinário.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do presente recurso.
+Intimem-se.
+Assim, em que pese o esforço argumentativo da combativa defesa, não se verifica o pressuposto de admissibilidade, razão pela qual o presente agravo não merece ser conhecido.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. 1. RECURSO NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. 2. MÉRITO. MERA REITERAÇÃO DO HC N. 725.952/SP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. 3. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Agravo regimental não conhecido, por ausência de pressuposto formal de admissibilidade, qual seja, a impugnação específica aos fundamentos da decisão agravada. Inexistesilogismo entre as razões apresentadas pela defesa na petição inicial do presente recurso (ilegalidade da prisão preventiva do agravante, por excesso de prazo no julgamento da apelação) e a motivação da decisão agravada (recurso não conhecido por representar mera reiteração do HC n. 725.952/SP, com mérito analisado por esta Corte Superior).
+2. No mérito, inexiste constrangimento ilegal. O presente habeas corpus foi encaminhado a esta Corte Superior por declinação da competência do Tribunal de Justiça local, e representa mera reiteração do HC n. 725.952/SP, impetrado em benefício do mesmo agravante, com identidade de pedido de de causa de pedir, cujo mérito já foi analisado por esta relatoria: não se conheceu do habeas corpus mas se afastou, de ofício, a existência de excesso de prazo no julgamento da apelação. A decisão monocrática foi confirmada pelo Colegiado desta Quinta Turma, por ocasião do julgamento do agravo regimental interposto pela defesa. Dessarte, o presente mandamus é mera reiteração de impetração anterior já analisada por esta Corte, não sendo possível, portanto, dar-lhe seguimento.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 729.783/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. SÚMULA N. 440 DO STJ.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+3. Nos termos do art. 654, § 2º, do Código de Processo Penal, os tribunais podem deferir ordem de habeas corpus de ofício, quando reconhecerem hipótese de flagrante ilegalidade, 4. Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravida abstrata do delito. (Súmula n. 440 do STJ).
+5. Agravo regimental não conhecido. Habeas corpus concedido de ofício para determinar a fixação do regime inicial semiaberto para o início do cumprimento da pena.
+(AgRg no AREsp n. 2.027.273/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI 11.343/2006. AFASTAMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE FLAGRANTE. CORREÇÃO POR ESTA CORTE SUPERIOR EM ATUAÇÃO SPONTE PROPRIA (ART. 654, § 2.º, DO CÓDIGO DE PROCESSO PENAL). AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO.
+1. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, nas razões do agravo regimental, o Recorrente não rebateu, especificamente, os fundamentos da decisão recorrida. Aplicação da Súmula n. 182/STJ.
+2. Constatação da existência de ilegalidade flagrante, a ser reparada, sponte propria, por esta Corte Superior, e não por força de acolhimento de pedido ou recurso defensivo, nos termos do art. 654, § 2.º, do Código de Processo Penal.
+3. No caso, embora a quantidade de drogas apreendidas não seja inexpressiva, não é possível inferir a partir dela, isoladamente, a dedicação do Acusado a atividades criminosas impeditiva da aplicação do redutor previsto no art. 33, § 4.º, da Lei n. 11.343/2006, pois as circunstâncias do delito não ultrapassam aquelas inerentes ao próprio tipo penal.
+4. Agravo regimental não conhecido. Ordem de habeas corpus concedida, de ofício, para cassar o acórdão recorrido e restabelecer a pena imposta na sentença condenatória.
+(AgRg no AREsp n. 2.086.459/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
