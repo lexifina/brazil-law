@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUSTAVO PASSARELLI DA SILVA, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 506):
+EMENTA - AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL - VALOR VERBA HONORÁRIA FIXADA EM RAZÃO DA EXCLUSÃO DA EMPRESA EXECUTADA - JUÍZO DE EQUIDADE - §8º DO ART. 85 DO CPC - VALOR DA OBRIGAÇÃO TRIBUTÁRIA - PEDIDO DE FIXAÇÃO EM PERCENTUAL SOBRE O VALOR DA CAUSA INDEVIDO - PROPORCIONALIDADE E RAZOABILIDADE - DESPROPORÇÃO DO RESULTADO NA UTILIZAÇÃO DE PERCENTUAL SOBRE O VALOR DA CAUSA - IMPORTE IRRISÓRIO FIXADO PELO JUÍZO A QUO LEVANDO-SE EM CONTA A AUTUAÇÃO DO ADVOGADO-AGRAVANTE E O CONSIDERÁVEL VALOR ECONÔMICO DA CAUSA - IMPORTE MAJORADO - RECURSO CONHECIDO E EM PARTE PROVIDO.
+I - Os honorários advocatícios devem ser fixados por equidade em caso de desproporção desarrazoada entre o trabalho desempenhado pelo advogado da parte vencedora e o valor dos honorários fixados sobre a pretensão econômica ou sobre o valor da causa. Precedente do STJ.
+II - A fixação da verba honorária deve levar em conta o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa;
+bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (§2º do art. 85, CPC).
+O recorrente alega violação do art. 85, §§ 3º e 8º do CPC/2015, aduzindo, em síntese, argumentação no sentido de que indevido a fixação dos honorários por equidade, por o caso não se tratar da hipótese prevista em lei para isso.
+Com contrarrazões.
+É o relatório. Decido.
+O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo STJ n. 3/2016.
+A respeito da observância do juízo de equidade para o arbitramento de honorários advocatícios de sucumbência, na hipótese em que a aplicação das regras gerais pudesse implicar em valores exagerados, a Corte Especial deste Tribunal Superior decidiu afetar o tema à sistemática dos recursos repetitivos (Tema Repetitivo 1.076/STJ) e, ao julgar o REsp 1.906.618/SP, definiu tese segundo a qual:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC), a depender da presença da Fazenda Pública na lide, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Oportuno relembrar que, de acordo com o disposto no parágrafo único do art. 140 do CPC/2015, "o juiz só decidirá por equidade nos casos previstos em lei".
+À luz do art. 927, III e V, do CPC/2015, no âmbito deste Tribunal Superior, deve ser prestigiada e aplicada a tese firmada pela Corte Especial, ainda que, eventualmente, o delineamento fático descrito pelas instâncias ordinárias revelem o alto valor dos honorários advocatícios de sucumbência.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, os recursos que tratem sobre a mesma controvérsia devem retornar ao Tribunal de origem para juízo de conformação da questão de direito com o precedente fixado em julgamento de recurso repetitivo.
+Ante o exposto, dou provimento ao recurso especial, determinando a devolução dos autos à origem, para que reaprecie a questão, aplicando-se o precedente fixado na Tese Repetitiva n. 1.076/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ART. 85 DO CPC/2015. CRITÉRIOS DE FIXAÇÃO. MATÉRIA OBJETO DE RECURSO ESPECIAL REPETITIVO RESP N. 1.906.618/SP. TESE REPETITIVA N. 1.076/STJ. RECURSO ESPECIAL PROVIDO.
