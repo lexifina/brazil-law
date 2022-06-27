@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ROGÉRIO DOS SANTOS PEREIRA, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento doAgravo em Execuçãon.0004740-44.2022.8.26.0482, assim ementado:
+"PROGRESSÃO DE REGIME e RETIFICAÇÃO DE CÁLCULOPARA FINS DE BENEFÍCIOS - Indeferimento do pedido de progressão, diante da ausência do requisito objetivo, eis que o sentenciado incorreu na prática de falta disciplinar de natureza grave, interrompendo o cálculo de penas para fins de benefícios - Decisão que merece subsistir - Entendimento consolidado pelos Tribunais Superiores - Agravo desprovido (voto nº 46205)."(fls. 79)
+Na presente impetração, a defesasustenta que o a prática de falta grave durante a execução da pena não interrompe o prazo para concessão de benefícios.
+Argumenta que o paciente já teria cumprido o lapso temporal necessário para o cumprimento do requisito objetivo, buscando a concessão posterior do benefício de progressão de regime.
+Deste modo, requer, em liminar e no mérito: "A concessão da ordem em DEFINITIVO, a fim de que, anulado o ato da autoridade coatora, seja reformada a decisão da autoridade, retificando-se o cálculo de pena de modo que não se considere faltas graves como marcos interruptivos na contagem de tempo para progressão de regime" (fl. 47)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+O voto condutor do acórdão assentou:
+"Para cumprimento da pena privativa de liberdade, dispôs a Lei nº 7.210/84 uma série de direitos e deveres do reeducando, instituídos a fim de se garantir as finalidades ressocializadora, retributiva e preventiva da pena; e os deveres previstos; e para que benesses sejam concedidas durante o cumprimento da pena, o sentenciado deverá cumprir uma série de requisitos impostos por lei, a fim de demonstrar que já se mostra apto a usufruir novamente da liberdade. E ao incorrer na prática de falta disciplinar de natureza grave, resta demostrada a ausência de comprometimento do reeducando com a terapêutica penal e a prematuridade na eventual concessão de benefícios.
+E, nesse raciocínio, pacífico é o entendimento nos Tribunais Superiores no sentido de que a prática de falta grave interrompe o lapso temporal para fins de progressão, reiniciando-se, a partir da falta, a contagem do tempo para que o reeducando possa pleitear o benefício.
+ ..
+E em que pese a Lei nº 13.964/19 tenha acrescentado previsão expressa na LEP acerca da interrupção do lapso temporal, para fins de progressão, ao sentenciado que incorre na prática de falta grave, certo é que a r. decisão restou fundada no consolidado entendimento jurisprudencial exposto. E como bem levantou o d. promotor de justiça, em sede de contrarrazões, "mesmo antes do advento da Lei nº 13.964/2019 que acrescentou o §6º ao art. 112 da LEP, os tribunais superiores e regionais já haviam sedimentado o entendimento de que a falta grave constitui sim, termo interruptivo do requisito objetivo para a progressão de regime, de forma que a contagem do lapso temporal deve ser computada a partir da aludida falta". Nesses termos, fundada a r. decisão no consolidado entendimento exposto, não comporta a r. decisão qualquer reparo." (fl. 81/84)
+Percebe-se que o posicionamento do Tribunal Estadual está em consonância com o desta Corte Superior, de acordo com a Súmula 534 desta Corte, que diz:
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração.
+(Súmula n. 534, Terceira Seção, julgado em 10/6/2015, DJe de 15/6/2015.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
