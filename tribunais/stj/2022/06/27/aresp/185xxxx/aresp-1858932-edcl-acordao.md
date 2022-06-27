@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de terceiros aclaratórios opostos pelo Estado do Piauícontra acórdão proferido pela Eg. Primeira Turma deste STJ, assim ementado (fl. 1.086):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC.REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+A parte embargante aduz que "os embargos de declaração anteriores tinham sido opostos com declarado propósito de realizar o prequestionamento do tema regrado pelas normas dos artigos 5º, incisos XXXV e LV, e 93, inciso IX, ambos da Constituição Federal.Assim, nos termos do entendimento firmado no verbete n. 98 da Súmula de jurisprudência desta Corte Superior, os referidos aclaratórios jamais poderiam ter sido considerados protelatórios.Ademais, a multa do artigo 1.026, § 2º, do CPC não decorre da mera oposição de dois embargos de declaração em sequência. Deve ser apurado se houve ou não a intenção de protelar, e, no presente caso, é evidente a boa-fé do embargante." (fls. 1.128/1.129).
+Acrescenta que, "além de indicar omissões específicas do acórdão ante- rior, com argumentação robusta que demonstrava a desobediência da norma do artigo 489, parágrafo único, inciso III, do CPC, os embargos de declaração de fls. 1.098-1.104 também foram opostos com manifesto propósito de realizar o prequestionamento do tema regrado pelas normas dos artigos 5º, incisos XXXV e LV, e 93, inciso IX, ambos da Constituição Federal, vez que também esta Corte Superior tem se negado a prestar a jurisdição que lhe foi requerida, vez que tais questões não foram analisadas no acórdão embargado.Diante do exposto, requer seja conhecido e provido o presente re- curso para suprir a referida omissão, referente à análise do caso sob a ótica dos artigos 5º, incisos XXXV e LV, e 93, inciso IX, ambos da Constituição, para cumprir o requisito do prequestionamento necessário à interposição de eventual recurso extraordinário.Igualmente, diante do equívoco material ao se considerar protelatórios os embargos de declaração manifestados com o notório propósito de prequestionamento (Súmula n. 98, do STJ), também requer o afastamento da multa aplicada." (fl. 1.130).
+A parte embargada apresentou impugnação (fls. 1.133/1.136).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. CARÁTER INFRINGENTE E PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.022, § 3º, DO CPC/2015.
+1. De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão impugnado, bem assim para correção de erro material.
+2. Não merece prosperar o recurso integrativo cujos argumentos tão somente reiteram a pretensão veiculada nos primeiros aclaratórios, envolvendo matéria já examinada e decidida pelo colegiado.
+3. Embargos de declaração rejeitados, com majoração da multa imposta aos embargantes para 3% sobre o valor atualizado da causa.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Os embargos de declaração, recurso de manejo limitado, são cabíveis tão somente nas restritas hipóteses previstas no art. 1.022 do novo CPC/15, quais sejam: (a) esclarecer obscuridade ou eliminar contradição; (b) suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento; e (c) corrigir erro material.
+Conforme já explicitado na análise dos dois embargos declaratórios anteriormente opostos, a existência dos vícios previstos no artigo 1.022, II, do CPCfoi afastada de forma motivada. Veja-se:(fls. 1.089/1.090):
+Com efeito, ficou devidamente consignado no aresto hostilizado a não ocorrência de negativa de prestação jurisdicional, bem como incidência da Súmula 7/STJ ao caso.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls.1.030/1.031):
+Consoante anteriormente mencionado, verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A tanto, verifica-se, pela fundamentação proferida no acórdão dos embargos de declaração (fl. 175), que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Outrossim, não se descortina negativa de prestação jurisdicional, ao tão só argumento de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+(..)
+No mais, o Tribunal de origem afastou a ocorrência da prescrição, sob a seguinte fundamentação (fl. 146):
+O artigo 741, inciso VI, CPC, em vigor à época dos fatos, admite a interposição dos embargos à execução quando versar sobre a prescrição.
+Com essa condição o Estado do Piauí, arguiu a prescrição da pretensão, para ver afastados os atos executórios.
+A prescrição, por se tratar de matéria de ordem pública, poderão ser reconhecidas de ofício a qualquer tempo e em qualquer grau de jurisdição. E, sendo assim, faz-se necessária a análise minuciosa dos fatos e provas inclusos no processa, sobretudo, para; se evitar a prática de injustiça em detrimento aos interesses dos jurisdicionados.
+Com esse cuidado, ao compulsar os autos, constata-se que a decisão proferida no Mandado de Segurança, transitou em julgado no dia 22 de maio de 2009 (fl.
+418), sendo que a execução interposta pelos embargados foi apresentada em 12 de junho de 2009 (fls. 424/425).
+Depreende-se, pois, a execução foi interposta em tempo hábil, não havendo, de forma alguma, como reconhecer a incidência da prescrição, porquanto o prazo prescricional esabelecido para as ações contra ou a favor da Fazenda Pública, se estende por cinco anos.
+Integrada em sede de embargos de declaração (fl. 174):
+O Embargante alega que o julgado incide em erro material, admitindo que o édito atacado adotou premissa incorreta para delimitar o termo a quo para contagem do prazo prescricional.
+Com esse intento destaca que a certidão de fls. 418, atesta apenas a ocorrência do trânsito em julgado, sem certificar, entretanto, em qual data teria ocorrido, não servindo, portanto, para delimitar o termo a quo do direito dos embargados.
+Não obstante essa insurgência, o termo dito impróprio para se considerar como marco do início da contagem do prazo prescricional, encartado à fl. 418, aponta a data de 22.05.2009.
+Nesse contexto, inarredável a incidência da Súmula 7/STJ ao caso, pois a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+Acrescente-se, ainda, que "A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à impossibilidade de manifestação desta Corte, em sede de Recurso Especial, ainda que para fins de prequestionamento, a respeito de alegada violação a dispositivos da Constituição Federal. Precedentes." (EDcl no AgInt no REsp n. 1.485.491/ES, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/10/2019, DJe de 29/10/2019.)
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Anote-se, por fim, que, sendo estes os terceiros embargos aclaratórios opostos pelo mesmo recorrente, em que foram trazidos aspectos já examinados anteriormente, resta conceber o recurso como reiteração de embargos manifestamente protelatórios. Assim, deve ser majorada a multa anteriormente fixada, conforme dicção do § 3º do art. 1.026 do CPC/2015.
+Nessa linha de entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS. INEXISTÊNCIA. MULTA. MAJORAÇÃO.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015.
+2. Hipótese em que a parte embargante reitera aclaratórios já reconhecidos como protelatórios. 3. O art. 1.026, § 3º, do CPC/2015 prevê a majoração da multa para até 10% do valor atualizado da causa, na hipótese de reiteração de embargos de declaração manifestamente protelatórios, condicionando-se a interposição de qualquer outro recurso ao recolhimento da pena.
+4. Embargos de declaração rejeitados, com majoração da multa imposta aos
+embargantes para 5% sobre o valor atualizado da causa.
+(EDcl nos EDcl nos EDcl no AgInt no AREsp 281.948/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 02/08/2018, DJe 21/08/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. MAJORAÇÃO DE MULTA. ART. 1.026, § 3º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno e apenas acolheu parcialmente os primeiros embargos de declaração para saneamento de erro material, tendo rejeitado os segundos.
+4. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+5. Em razão de os embargos se mostrarem manifestamente protelatórios e de anterior advertência em relação a incidência do NCPC, deve ser majorada para 10% multa anteriormente imposta, nos termos do art. 1.026, § 3º, com observância do art. 98, § 4º, do mesmo diploma processual civil. (grifei)
+6. Embargos de declaração rejeitados, com majoração de multa.
+(EDcl nos EDcl nos EDcl no AgInt no AREsp 1024949/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/08/2018, DJe 04/09/2018)
+Ante o exposto, rejeitam-se os terceiros embargos de declaração, com majoração da multa anteriormente fixada para 3% sobre o valor atualizado da causa.
+É o voto.
