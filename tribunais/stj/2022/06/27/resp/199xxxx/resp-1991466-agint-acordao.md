@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 440-445, e-STJ) que não conheceu o Recurso Especial, com base nas Súmulas 7 e 211 do STJ.
+O agravante sustenta, em suma (fl. 453, e-STJ):
+Todavia, a Instituição Recorrida não requereu a instauração de processo administrativo fiscal à Administração Tributária do Distrito Federal, o que implica na total impossibilidade da autoridade fiscal em não lançar a tributação.
+Por conseguinte, a não apresentação dos documentos solicitados pela Administração Tributária impediu que o processo fosse concluído de forma favorável ao autor, restando consignado "o não atendimento ao disposto no artigo 14, inciso III do CTN, por meio da escrita contábil da matriz, estabelecida em outra unidade da Federação".
+Assim, é inegável que a contradição na apreciação e o consequente não reconhecimento do direito envolvido, importaram análise deficiente da controvérsia e, portanto, impediram a perfeita solução jurídica para o caso em debate, a qual somente se cumpriria quando se observasse os efeitos do art. 14 do CTN (..)
+Não há necessidade, portanto, em se analisar qualquer tipo de prova ou matéria fática, visto que a discussão se atém somente ao conteúdo jurídico das normas apresentadas.
+Quais sejam, o artigo 14 do Código Tributário Nacional, aliado a premissa de que a imunidade tributária prevista no art. 150, VI, alínea "c" da CF foi reconhecida à míngua da existência de requerimento administrativo de imunidade por parte da autora/recorrida.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E CONSTITUCIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. IMUNIDADE TRIBUTÁRIA. ENTIDADE EDUCACIONAL. FINALIDADE NÃO LUCRATIVA. APLICAÇÃO INTEGRAL NO BRASIL DOS RECURSOS VISANDO AOS OBJETIVOS INSTITUCIONAIS. MANUTENÇÃO DA ESCRITURAÇÃO DAS RECEITAS E DESPESAS DENTRO DAS FORMALIDADES LEGAIS. PREENCHIMENTO DOS REQUISITOS DO ART. 14 DO CTN. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal a quo não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+5. Em que pese à alegação do Distrito Federal, no sentido de que a instituição apelada não teria preenchido os requisitos constitucionais e legais para o gozo da imunidade tributária pleiteada, o acolhimento da tese trazida ao Recurso Especial no sentido de que a parte não faz jus à imunidade tributária exige o exame do acervo fático e probatório dos autos.
+6. O Tribunal a quo, soberano na análise das provas, consignou que foram preenchidos todos os requisitos necessários, de forma que desconstituir tal conclusão é inviável nessa seara recursal. Súmula 7/STJ.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3 de junho de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. IPTU, TIP E TCLLP. PRETENSÃO DE ANULAÇÃO DO CRÉDITO TRIBUTÁRIO. PRESCRIÇÃO.
+1. É entendimento sedimentado o de não haver omissão no acórdão que, com fundamentação suficiente, ainda que não exatamente a invocada pelas partes, decide de modo integral a controvérsia posta.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211 do STJ).
+(..)
+(REsp 767.250/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA,DJe 10/06/2009).
+Acrescente-se que não se pode conhecer da irresignação contra a ofensa a dispositivos legais que não foram analisados pela instância de origem, ainda que se trate de matéria de ordem pública, como a prescrição. Ausente, destarte, o requisito do prequestionamento. Nesse sentido, destaco a decisão da Corte Especial:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO.
+- A jurisprudência do STJ é firme no sentido de que, na instância especial, é vedado o exame ex officio de questão não debatida na origem, ainda que se trate de matéria de ordem pública, como a prescrição.
+Agravo regimental improvido.
+(AgRg nos EDcl nos EAg 1127013/SP, Rel. Ministro CESAR ASFOR ROCHA, CORTE ESPECIAL, DJe 23/11/2010).
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência de prequestionamento. Isso porque, para que se tenha por atendido esse requisito, não basta que a Corte a quo dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+Nessa linha, os seguintes precedentes:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. VIOLAÇÃO DO ART. 620 DO CPC. (..)
+(..)
+3. É entendimento assente da Primeira Turma que a mera declaração do Tribunal a quo de se ter por prequestionados dispositivos a fim de viabilizar o acesso à instância superior não se mostra suficiente para esta Corte se, após análise feita, constatar-se a inexistência do imprescindível debate.
+(..)
+5. Agravo regimental não provido.
+(AgRg no Ag 1159497/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 30/11/2009, grifei).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ACÓRDÃO DO TRIBUNAL DE ORIGEM OMISSO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO DO RECURSO APENAS PARA FINS DE PREQUESTIONAMENTO, SEM EFETIVA DISCUSSÃO ACERCA DOS DISPOSITIVOS TIDOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. O simples fato de o Tribunal a quo ter asseverado, por ocasião da apreciação dos embargos de declaração, que tal e quais dispositivos encontravam-se prequestionados, sem que tenha havido efetiva discussão a respeito das teses referentes à aplicabilidade dessas normas, não é suficiente para ensejar a admissão do recurso especial.
+2. O entendimento do Superior Tribunal de Justiça é pacífico no sentido de que incide, no ponto, a Súmula n. 211 desta Corte. Precedentes.
+3. Agravo regimental não-provido.
+(AgRg no REsp 948.716/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 10/11/2008, grifei).
+PROCESSUAL CIVIL. ART. 535 DO CPC. ARGÜIÇÃO GENÉRICA. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 211/STJ E 282/STF.(..)
+(..)
+2. Não satisfaz o requisito do prequestionamento a mera referência pelo Tribunal a quo de que teria por prequestionados os dispositivos legais tidos por malferidos. Precedentes da Turma. São aplicáveis os óbices das Súmulas 211/STJ e 282/STF.
+(..)
+4. Recurso especial conhecido em parte e não provido.
+(REsp 929.737/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA,DJ 03/09/2007, p. 159, grifei).
+Conforme assentado na decisão monocrática, a irresignação esbarra no óbice da Súmula 7 do STJ.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do aresto recorrido (e-STJ, fls. 284-286, grifos no original):
+Em que pese a alegação do Distrito Federal, no sentido de que a instituição apelada não teria preenchido os requisitos constitucionais e legais para o gozo da imunidade tributária pleiteada, referente ao crédito tributário consubstanciado em CDA relativa a IPTU do exercício de 2017, certo é que a prova emprestada que ampara a sentença recorrida, produzida nos autos da ação ordinária nº 0043597-37, em que realizada análise pericial que abrangeu o ano de 2017, aponta justamente para o sentido contrário à tese recursal.
+Por oportuno, transcrevo trecho da sentença recorrida no qual há referência direta ao resultado da aludida prova emprestada de natureza pericial.
+Confira-se:
+( ) O autor pretende, no caso, ver declarada a nulidade do crédito tributário consubstanciado na CDA de nº 50190139226 (id. 64728116 e 64728112), relativa ao IPTU do exercício de 2017, sob o fundamento de que possui imunidade tributária nos termos do art. 150, VI, c, da CF/88 e de que preenche os requisitos do art. 14 do CTN.
+Em sua petição inicial, aduziu a existência de anterior Ação Ordinária, de nº 0043597-37.2016.8.07.0018, a qual, segundo ele, tem por objetivo "demonstrar o cumprimento dos requisitos necessários e obter declaração de imunidade tributária frente aos impostos distritais".
+Com efeito, na fase de instrução, juntou o autor a perícia realizada nos autos em referência, como modo de demonstrar, aqui nesta demanda, o cumprimento dos requisitos relativos ao art. 14 do CTN, tendo em vista que a análise pericial abrangeu o ano de 2017.
+Realço que já proferi sentença nos autos da ordinária, de nº 0043597-37.2016.8.07.0018, cujos fundamentos caminharam no sentido do reconhecimento da imunidade tributária da parte autora, cujos fundamentos reproduzo abaixo como razão de decidir o presente feito:
+"(..) O ponto controvertido da demanda cinge-se em determinar se o autor tem direito à imunidade tributária, mediante o cumprimento dos requisitos trazidos no artigo 14 do Código Tributário Nacional, a partir do ano de 2010.
+A imunidade tributária consiste na determinação feita pela Constituição Federal de que certas atividades, rendas, bens ou pessoas não poderão sofrer a incidência de tributos.
+A previsão do art. 150, VI, "c" da CF/88 beneficia instituições de educação e de assistência social, sem fins lucrativos e consiste numa imunidade subjetiva, considerando que foi criada em função da condição pessoal dessas instituições.
+A imunidade está condicionada ao atendimento de certos requisitos, os quais estão previstos no art. 14 do CTN.
+É incontroversa que a parte autora é uma associação civil sem fins lucrativos, com a finalidade educacional.
+Em regra, a simples qualificação da parte autora como associação sem fins lucrativos, por si só, a configuração dos requisitos insertos nos arts.
+150, inciso VI, alínea "c", da CF/88 e 14 do CTN, suficiente a lhe garantir imunidade tributária.
+Entretanto, o caso dos autos comporta peculiaridades, tendo em vista que houve a produção de prova pericial em que ficou constatado, dentre outros, o seguinte (id 27003826):
+"Quesito 01: "No período de 2010 até a data da perícia, houve por parte do autor distribuição de qualquer parcela do seu patrimônio ou de suas rendas a qualquer título " Resposta: Conforme as demonstrações contábeis apresentadas, não houve distribuição de qualquer parcela do seu patrimônio ou de suas rendas a qualquer título. Cabe ressaltar que, em todos os anos analisados (2010 a 2017), o Mackenzie Brasília não apresenta superávit, ou seja, as despesas superam as receitas geradas pela unidade, sendo que a Matriz de São Paulo repassa recursos para saldar os gastos.
+Em média, o gasto com seus funcionários e encargos sociais/trabalhistas, representam 81,4% (oitenta e um ponto quatro por cento) da receita líquida auferida pelo Autor. O restante das despesas representam, em média, 32% (trinta e dois por cento) da receita líquida do IPM, demostrando assim que, a receita auferida pelo autor é insuficiente para suprir toda a sua atividade operacional, tendo que receber aportes financeiros da matriz para a manutenção de suas atividades, pois o déficit médio dos 8 (oito) anos observados é de 12,8% (doze ponto oito por cento) da receita líquida.
+Quesito 02: "No período de 2010 até a data da perícia, o autor aplicou integralmente, no país os seus recursos na manutenção dos seus objetivos institucionais " Resposta: Conforme analisado por este perito, a Demonstração de Resultados do Exercício (DRE) do IMP demonstra resultado deficitário, não havendo sobras de seus recursos para que possam ser utilizadas de outra forma, se não com a manutenção do seu funcionamento, mesmo assim, precisa de aportes financeiros da matriz, pois os déficits são persistentes de 2010 a 2017. Todos os contratos firmados pelo IPM foram celebrados com empresas brasileiras, sendo detalhadas estas informações no Anexo 01. Portanto, não há evidências de remessas de recursos ao exterior considerando a Filial Brasília, concluindo que, a aplicação dos recursos gerados pela operação da Filial, mais o repasses efetuados pela Matriz para saldar o caixa, foram feitos no país.
+Quesito 03: "No período de 2010 até a data da perícia, o autor manteve a escrituração de suas receitas e despesas em livros revestidos de formalidades e capazes de assegurar sua exatidão
+Resposta: De acordo com os livros contábeis apresentados pelo IPM, como também as informações fornecidas pelo contador da instituição a respeito dos estornos de receita, pode-se afirmar que a contabilidade do IPM segue as normas contábeis, detalhes desse aspecto, serão abordados com maior profundidade na conclusão técnica. (..)" Nesse toar, é possível verificar que a parte autora comprovou que apresentava, desde 2010, todos os requisitos elencados no art. 14 do CTN, quais sejam:
+Art. 14. O disposto na alínea c do inciso IV do artigo 9º é subordinado à observância dos seguintes requisitos pelas entidades nele referidas:
+I - não distribuírem qualquer parcela de seu patrimônio ou de suas rendas, a qualquer título; (Redação dada pela Lcp nº 104, de 2001) II - aplicarem integralmente, no País, os seus recursos na manutenção dos seus objetivos institucionais;
+III - manterem escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão. (Grifei) § 1º Na falta de cumprimento do disposto neste artigo, ou no § 1º do artigo 9º, a autoridade competente pode suspender a aplicação do benefício.
+§ 2º Os serviços a que se refere a alínea c do inciso IV do artigo 9º são exclusivamente, os diretamente relacionados com os objetivos institucionais das entidades de que trata este artigo, previstos nos respectivos estatutos ou atos constitutivos.
+Diante do cumprimento aos requisitos previstos na Constituição Federal e no Código Tributário Nacional, não se vislumbra o cabimento de cobrança de impostos distritais da parte autora, cujos recursos são revertidos para a manutenção de suas atividades educacionais.
+O perito conclui que:
+"Em resumo, em decorrência do que foi explicado nesta conclusão técnica, é possível afirmar com uma boa margem de segurança, que, o Instituto Presbiteriano Mackenzie, cumpre o disposto no Art. 150, inciso VI, alínea "c" da Constituição Federal de 1988 e no Art. 14 do Código Tributário Nacional, tendo como base todos os aspectos descritos neste Laudo Pericial" (id 27003826 - Pág. 41) À míngua de outros elementos de prova capazes de infirmar as conclusões da perícia judicial, forçoso reconhecer que a parte autora, ora apelada, demonstrou preencher os requisitos constitucionais e legais para a manutenção da imunidade tributária.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
