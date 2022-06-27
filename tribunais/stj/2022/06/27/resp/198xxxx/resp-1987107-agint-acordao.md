@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 492-497, e-STJ), que conheceu parcialmente do Recurso Especial e deu-lhe parcial provimento.
+A parte agravante alega:
+O acórdão proferido pelo TRF/1ª Região estabeleceu que o reajuste de 3,17% incide sobre todas as parcelas de natureza permanente que compõem a remuneração dos servidores.
+Entretanto, no que toca especificamente às rubricas DAS e FG, limitou a incidência do índice a 1º/03/1995, haja vista o advento da Lei 9.030/95, que reajustou os valores de tais rubricas em patamar superior a 3,17%.
+Em outras palavras, o acórdão recorrido entendeu que Lei 9.030/95 representa, de fato, uma limitação temporal ao reajuste de 3,17%. Ressalvou, contudo, expressamente, que essa limitação temporal se refere exclusiva e especificamente aos valores pagos a título de DAS e FG, os quais, a partir da Lei 9.030/95, foram reajustadas em percentual que supera o índice de 3,17%.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE FUNÇÕES GRATIFICADAS E CARGOS DE DIREÇÃO. LIMITAÇÃO À DATA DA EDIÇÃO DA LEI 9.030/1995. IMPOSSIBILIDADE. NORMA QUE NÃO REESTRUTUROU NEM REORGANIZOU AS CARREIRAS. PRECEDENTES DO STJ.
+1. Está pacificado no Superior Tribunal de Justiça o entendimento de que o termo final do pagamento dos valores devidos a título de reajuste de 3,17% ocorre ou na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001, ou em 1º.1.2002, para as carreiras que não foram reestruturadas ou reorganizadas até essa data, consoante prescrito no art. 9º da mencionada Medida Provisória.
+2. A Lei 9.030/1995, a qual apenas fixou "a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia ou assessoramento", não teve o condão de reestruturar ou reorganizar as carreiras. Neste passo, a entrada em vigor dessa lei não constituiu termo final para a incidência do resíduo de 3,17%. Precedentes: AgInt no REsp 1.938.532/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 2.12.2021; AgInt no REsp 1.952.067/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17.12.2021; AgRg nos EDcl nos EDcl no REsp 1.314.513/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 29.11.2013.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 1º.6.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Está pacificado no Superior Tribunal de Justiça o entendimento de que o termo final do pagamento dos valores devidos a título de reajuste de 3,17% ocorre ou na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001, ou em 1º.1.2002, para as carreiras que não foram reestruturadas ou reorganizadas até essa data, consoante prescrito no art. 9º da mencionada Medida Provisória.
+Entretanto, a Lei 9.030/1995, a qual apenas fixou "a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia ou assessoramento", não teve o condão de reestruturar ou reorganizar as carreiras. Neste passo, a entrada em vigor dessa lei não constituiu termo final para a incidência do resíduo de 3,17%.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE FUNÇÕES COMISSIONADAS OU GRATIFICADAS. LIMITAÇÃO PELA LEI N. 9.030/1995. IMPOSSIBILIDADE. AUSÊNCIA DE REORGANIZAÇÃO OU REESTRUTURAÇÃO DA CARREIRA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui orientação firmada no sentido de que "a Lei n. 9.030/95 não representou reestruturação ou reorganização de carreira, pois tão somente tratou da remuneração de cargos em comissão de natureza especial e das funções comissionadas e, por via de consequência, não pode ser considerada como dies ad quem para o pagamento do índice de 3,17%" (AgInt no REsp n. 1.566.379/RS, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/8/2018). Precedentes.
+2. A jurisprudência desta Corte não excepciona o referido entendimento no tocante às funções comissionadas ou gratificadas, porquanto, prevalece o entendimento de que o referido índice apenas pode sofrer limitação em razão de reestruturação ou reorganização de carreira.
+3. Portanto, deve ser mantido o afastamento da limitação do pagamento do reajuste de 3,17% sobre as rubricas DAS e FG, por não existir reestruturação ou reorganização da carreira pela Lei n. 9.030/1995.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.938.532/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 2/12/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE FUNÇÕES GRATIFICADAS E CARGOS DE DIREÇÃO. LIMITAÇÃO À DATA DA EDIÇÃO DA LEI 9.030/1995. IMPOSSIBILIDADE. NORMA QUE NÃO REESTRUTUROU NEM REORGANIZOU AS CARREIRAS. PRECEDENTES DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a Lei 9.030/1995, que fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, não reestruturou ou reorganizou carreiras, não tendo, portanto, o condão de limitar o pagamento do resíduo do reajuste de 3,17% à data da sua edição" (AgRg no REsp 1.507.489/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11.3.2015).
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fl. 1.437, e-STJ): "18. Porém, quanto às rubricas DAS e FG, o reajuste deverá incidir sobre as mesmas até fevereiro de 1995, tendo em vista o advento da Lei nº 9.030/95 que reajustou seus valores em percentual superior ao índice de 3,17%, a partir de 1º de março de 1995, trazendo novas tabelas de classificação e remuneração sobre tais rubricas. 19. Ressalva-se, contudo, que referida restrição não interferirá na continuidade do pagamento da diferença sobre o vencimento básico e outras rubricas, tendo em vista que a referida lei não trata de revisão geral das remunerações".
+3. Dessume-se que o acórdão recorrido, nesse ponto, não está em sintonia com o atual entendimento do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.952.067/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/12/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. LEI N. 9.030/1995. REESTRUTURAÇÃO DA CARREIRA. NÃO OCORRÊNCIA. MEDIDA PROVISÓRIA N. 2.225/2001. INCIDÊNCIA TEMPORAL. POSSIBILIDADE. TRÂNSITO EM JULGADO DA SENTENÇA EXEQUENDA ANTERIOR À PUBLICAÇÃO DA REFERIDA MP.
+1. A reestruturação da carreira dos Servidores Públicos Federais é o termo final para a incidência do resíduo de 3,17%. (..) 2. Afastada a limitação imposta pela aplicação da Lei n. 9.030/95, porquanto tal normativo não promoveu a reorganização das carreiras dos agravantes, aplica-se a data de 1º/1/2002, nos termos da Medida Provisória n. 2.225-45/2001.
+(..) (AgRg nos EDcl nos EDcl no REsp 1.314.513/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 29/11/2013)
+Assim, assiste razão aos recorridos quanto à impugnação da limitação da incidência dos 3,17% sobre as funções comissionadas e gratificadas à edição da Lei 9.030/1995.
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo.
+É o Voto.
