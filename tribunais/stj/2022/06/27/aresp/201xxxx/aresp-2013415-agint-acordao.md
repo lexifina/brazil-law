@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que desproveu o recurso.
+A parte agravante alega, em síntese:
+(..)
+2.1. Portanto a tese fixada pelo regional para afastar a pretensão foi quanto a período a que a prova material indiciaria deveria se referir em razão da interpretação dada do §3º do art. 55 da lei 8.213/91; referida tese é exatamente aquela objeto do recurso especial, especialmente porque, conforme destacado adiante das razões do recurso especial, este pretório firmou entendimento em sentido contrário ao entendimento adotado pelo regional a respeito da forma como deve ser valorada referida prova indiciaria, segundo adiante ressaltado:
+(..)
+3. Bem como, ao contrário do afirmado na r. decisão retro, houve a comprovação da divergência, eis que, o dissidio não esta embasado apenas em súmula, eis que, houve o expresso cotejo com as razões de decidir adotada nos votos que deram origem aos temas apontados no recurso especial conforme já adiantado no item precedente e se observa nos itens I - 2.1.2 onde existe o cotejo com o voto proferido no RESP 1321493 / PR o qual deu origem ao tema 554, bem como, no item I - 2.2.3 a 2.2.5 onde existe a analise entre o que foi decidido no REsp 1.348.633-SP que deu origem ao tema 638 e as premissas fixadas pelo regional.
+(..)
+4.1. Tal posição conflita com a adotada por esta casa a respeito do valor a ser atribuído a prova indicaria material, eis que, este pretório entende que a eficácia temporal de referida prova por ser elastecida pela prova oral e no entendimento adotado pelo regional isto não pode ocorrer porque deve ser contemporânea ao requerimento ou ao implemento do requisito etário.
+(..)
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo colegiado, do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RURAL. INÍCIO DE PROVA MATERIAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar a existência de início de prova material, o que não se admite ante o óbice da Súmula 7/STJ.
+2. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 31.5.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+O Tribunal de origem, ao decidir a vexata quaestio, consignou:
+(..)
+Em consulta efetuada por este relator, verifica-se que o marido da autora recebeu benefício de aposentadoria por invalidez previdenciária de 01/09/1983 a 21/07/2019 e que a autora recebe pensão por morte previdenciária desde 21/07/2019.
+As provas são insuficientes, tal como reconhecido na sentença.
+Ainda que interpretada atividade por extensão do marido à autora esta não seria anterior ao implemento do requisito idade (em 2011), nem do requerimento administrativo (em 2017), como comprovação de cumprimento do prazo de carência.
+Por outro lado, a prova testemunhal, por si só, não sustenta o pedido de acordo com a vedação da Súmula nº 149 do STJ, de modo que também não há prova de trabalho efetivo como rurícola em período imediatamente anterior ao requerimento do benefício pelo período de carência (art.143 da Lei nº 8.213/91).
+Assim, a autora não comprovou que o trabalho rural tenha sido predominante ao longo de sua vida profissional, não comprovada também a imediatidade de trabalho rural do seu marido (aposentado por invalidez em 1983) que a ela poderia ser extensível ou dela própria, consoante REsp nº 1354908.
+(..)
+Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar a existência de início de prova material, o que não se admite ante o óbice da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AÇÃO DE APOSENTADORIA. CONCESSÃO DE BENEFÍCIO. AUSÊNCIA DE PROVA MATERIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. REEXAME DE PROVAS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de aposentadoria por idade em que se pretende a concessão do benefício da atividade rural no período imediatamente anterior ao requerimento do benefício e ausência de início de prova material do regime de economia familiar. Na sentença o pedido foi julgado procedente. No Tribunal a quo, deu-se provimento à apelação do requerido.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Nos casos de interposição do recurso alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Além disso, não foi comprovada a divergência jurisprudencial, uma vez que não cabe a alegação de dissídio com julgados de Turma Recursal ou da Turma Nacional de Uniformização - TNU. Nesse sentido:
+"Com efeito, não foi demonstrada a divergência jurisprudencial, uma vez que, de acordo com precedentes desta Corte Superior, "não se consideram "Tribunal" as Turmas Recursais de Juizados Especiais, que igualmente não compõem a Justiça comum, estando alheias ao propósito constitucional de pacificação da jurisprudência exercido pelo STJ" (REsp n. 1.032.779/PE, relator Ministro Aldir Passarinho Junior, Quarta Turma, DJe de 25/8/2008)." (AgInt no AREsp n. 1.653.835/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/6/2020.) Confiram-se, ainda, os seguintes precedentes: AgInt no AREsp n. 1.653.835/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/6/2020; REsp n. 1.391.085/SC, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 16/3/2015; e AgRg no AREsp n. 376.671/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 4/12/2014.
+VI - Por último, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o(s) paradigma(s) indicado(s), não bastando, portanto, a mera transcrição de ementas ou votos. Com efeito, o Superior Tribunal de Justiça já decidiu:
+ Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório.  (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019.) VII - Agravo interno improvido.
+(AgInt no AREsp n. 2.012.743/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/5/2022, DJe de 26/5/2022.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
