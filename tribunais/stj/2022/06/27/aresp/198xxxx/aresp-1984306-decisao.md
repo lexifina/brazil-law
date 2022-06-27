@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto pela FAZENDA NACIONAL, contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 321):
+Agravo de instrumento - Recuperação Judicial - Recurso interposto contra r. decisão que deferiu o parcelamento do débito fiscal pleiteado pela recuperanda, "autorizando a recuperanda a proceder no pagamento parcelado na proporção de 1% de seu faturamento para equalização de débitos fiscais federais e 1% de seu faturamento para quitação dos débitos estaduais" - Entidade fiscal que pode buscar a satisfação de seu crédito independentemente das condições estabelecidas no plano recuperacional, uma vez que os créditos tributários não se sujeitam à concursalidade e suas respectivas execuções fiscais não são atingidas pelos efeitos recuperacionais - Jurisprudência sedimentada sobre a matéria no sentido de dispensar as certidões negativas de débitos tributários para homologação do plano recuperacional - Satisfação do crédito em questão que deve observar as balizas fixadas pelo Superior Tribunal de Justiça, a fim de atender ao interesse público inerente à cobrança de tributos não pagos pela recuperanda - Descabimento do parcelamento fixado pelo Juízo recuperacional - Decisão reformada - Recurso provido.
+Não foram opostos embargos de declaração.
+Nas razões do seu recurso especial, manejado com fulcro na alínea a do permissivo constitucional, a recorrente alega ofensa aos arts. 57 e 58 da Lei n. 11.101/2005; 187 e 191-Ado CTN; e 10-A da Lei n. 10.522/2002.
+Insurge-se a agravante contra a concessão do pleito de recuperação judicial daempresaagravada, mormenteprescindindo da apresentação de certidões negativas de débitos tributários (CND).
+Deduz que"a concessão da recuperação com a dispensa da apresentação das certidões de regularidade fiscal, mesmo não havendo a suspensão das execuções fiscais, termina por inviabilizar a cobrança do crédito público" (e-STJ Fl. 440).
+Aduz, ainda, que o processamento da recuperação em comento foi deferido posteriormente à legislação de parcelamento dos débitos fiscais (Lei n. 13.043/2014), razão pela qual deve haver, na hipótese, a comprovação da regularidade fiscal darecuperanda.
+Por fim, requer a concessão de efeito suspensivo ao presente recurso.
+Contrarrazões à e-STJ Fls. 501/513.
+Parecer do MPF à e-STJ Fls. 654/658, opinando pelo desprovimento do agravo.
+É o breve relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, verifico que o Tribunal de origem assim se manifestou a respeito da homologação do plano recuperacional apresentado (e-STJ Fl. 324/329):
+Quando do julgamento do agravo de instrumento nº 2051697-65.2019.8.26.0000, envolvendo as mesmas partes, esta Turma julgadora assim decidiu:
+(..)
+Observe-se que, por ocasião do julgamento supracitado, este Colegiado decidiu pela possibilidade de homologação do plano recuperacional e da concessão da recuperação judicial da agravada sem as certidões de quitação das dívidas tributárias, ressaltando-se, todavia, que o Fisco poderia buscar a satisfação de seu crédito independentemente das condições estabelecidas no plano recuperacional, uma vez que os créditos tributários não se sujeitam à concursalidade e suas respectivas execuções fiscais não são atingidas pelos efeitos recuperacionais.
+Neste cenário, a satisfação do crédito em questão deve observar as balizas fixadas pelo Superior Tribunal de Justiça, a fim de atender ao interesse público inerente à cobrança de tributos não pagos pela recuperanda, a saber:
+"deve-se adotar a seguinte linha decompreensão do tema: a) constatado que a concessão do Plano de Recuperação Judicial foi feita com estrita observância dos arts. 57 e 58 da Lei 11.101/2005 (ou seja, com prova de regularidade fiscal), a Execução Fiscal será suspensa em razão da presunção de que os créditos fiscais encontram-se suspensos nos termos do art. 151 do CTN; b) caso contrário, isto é, se foi deferido, no juízo competente, o Plano de Recuperação Judicial sem a apresentação da CND ou CPEN, incide a regra do art. 6º, § 7º, da Lei 11.101/2005, de modo que a Execução Fiscal terá regular prosseguimento, pois não é legítimo concluir que a regularização do estabelecimento empresarial possa ser feita exclusivamente em relação aos seus credores privados, e, ainda assim, às custas dos créditos de natureza fiscal. Nesta última hipótese, seja qual for a medida de constrição adotada na Execução Fiscal, será possível flexibilizá-la se, com base nas circunstâncias concretas, devidamente provadas nos autos e valoradas pelo juízo do executivo processado no rito da lei 6.830/1980, for apurada a necessidade de aplicação do princípio da menor onerosidade (art. 620 do CPC." (STJ, AgRg no AREsp543830-PE, 2ª Turma, rel. Min. Herman Benjamin, j. 25/08/2015,DJe 10/09/2015). No mesmo sentido: STJ, REsp 1480559-RS, 2ª Turma, rel. Min. Herman Benjamin, j. 03/02/2015, DJe 30/03/2015.
+Nesta perspectiva, compete ao Juízo da execução fiscal, e não ao juízo recuperacional, analisar e decidir sobre as medidas necessárias para satisfação do crédito tributário em questão, a demonstrar o descabimento do parcelamento fixado pelo D. Juízo de origem.
+Assim, bem destacou a D. Procuradoria Geral de Justiça que:
+(..)
+Mesmo porque, conforme noticiado na minuta do agravo (fls. 04/06), houve a impetração de mandado de segurança pela recuperanda perante a Justiça Federal (autos n.º5001337-59.2019.4.03.610), com o fim de ver garantido o mesmo parcelamento ora deferido na recuperação judicial, contudo, a segurança foi denegada.
+Nesse contexto, caberia à própria autoridade fazendária conceder o parcelamento ou então deveria a recuperanda deduzir a sua pretensão em ação própria, como foi feito no citado mandado de segurança, sendo certo que não incumbe ao juízo recuperacional o deferimento de parcelamento tributário (..)
+Deste modo, é imperioso o provimento do recurso para afastar o parcelamento imposto pelo D. Juízo de origem, observando-se que compete às partes adotar, perante o juízofiscal competente, as medidas que entenderem cabíveis para solucionar as controvérsias acerca do crédito tributário em questão.
+(..) (g.n.)
+Veja-se, nesse passo, que a questão decidida nos presentes autos cinge-se, em verdade, à competência para decidir sobremedidas necessárias para satisfação do crédito tributário, sendo expressamente consignado que as matérias acercadaapresentação de certidões negativas do débito tributário foram discutidas em sede do agravo de instrumento denº 2051697-65.2019.8.26.0000.
+Desta forma, a insurgência recursal encontra óbice na incidência das Súmulas 283 e 284, ambas do STF, pois, a par de exsurgirdeficiente a fundamentação recursal,limitando-se a recorrente a citar os dispositivos supostamente violados, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação no acórdão recorrido, de acordo com as peculiaridades citadas, a agravante, ainda, deixa de refutartodosos fundamentos dispostos e grifados do referido acórdão.
+Logo, a teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, é ainda de se ressaltaro posicionamento deste STJ, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL.PROCESSAMENTO. VIABILIDADE. CERTIDÃO NEGATIVA DE DÉBITO.DESNECESSIDADE. ANÁLISE DE DIREITO LOCAL. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não é necessária a apresentação de certidão negativa de débito tributário como pressuposto para o deferimento da recuperação judicial. Precedentes da Corte Especial.
+3. A análise de contrariedade a lei estadual é inviável pela via do recurso especial, nos termos da Súmula nº 280/STF.
+4. Agravo interno não provido.(AgInt no AREsp 1185380/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018) - g.n.
+Inviável, pois, a pretensão da agravante.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa.
+Ante o exposto, CONHEÇO do agravo para, desde logo, NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CERTIDÃO NEGATIVA DE DÉBITO TRIBUTÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF.ORIENTAÇÃO PRETORIANA SEDIMENTADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
