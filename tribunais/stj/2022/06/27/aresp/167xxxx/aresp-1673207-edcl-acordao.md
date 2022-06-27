@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos por Romero Pacheco Neves contra acórdão proferido pela Quarta Turma, de que fui a Relatora, que negou provimento ao agravo interno por ela manejado, para manter a decisão que julgou improcedente pedido de resgate integral da reserva de poupança de participante que não se desligou da entidade.
+Afirma o embargante que o acórdão embargado não se manifestou sobre o pedido de gratuidade de justiça deduzido na petição do agravo interno. Indica, ainda, omissão em relação ao seu desligamento da patrocinadora da entidade fechada de previdência privada, que, segundo entende, teria sido a condição estabelecida pelo voto condutor do acórdão para o resgate da totalidade das contribuições vertidas para o plano de benefícios.
+Impugnação da embargada às fls. 493-496.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RESGATE INTEGRAL RESERVA POUPANÇA. DESLIGAMENTO ANTERIOR AO DECRETO 2.111/96. LEGALIDADE. VÍNCULO. EMPREGATÍCIO PATROCINADOR. ROMPIMENTO. JUSTIÇA GRATUITA. PEDIDO INDEFERIDO. ALTERAÇÃO DAS CONDIÇÕES. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Sem pertinência alguma as alegações do embargante.
+E isso porque, em primeiro lugar, o pedido de justiça gratuita indeferido pelo Juízo de Direito da 5ª Vara Cível da Comarca de Natal/RN, por considerar ausentes os requisitos para a concessão do beneficio, nos seguintes termos (fl. 94):
+Examinada a situação posta e os documentos carreados, tenho que não é o postulante, realmente, merecedor de tal beneficio. Observo que se qualifica como industriário, gozando - em princípio - de situação estável e reside em bairro de classe média. Além disso, está representado por advogado particular.
+Tenho que tais circunstâncias são incompatíveis com o alegado estado de pobreza.
+Ora, quem goza dessa condição, certamente, também pode arcar com as custas de uma demanda judicial. Inexiste motivo plausível para se deferir ira caso tão nobre beneficio, sob pena de tomá-lo vazio de sentido. Tais auspícios só devem ser empregados em favor de quem realmente esteja em situação de necessidade e este não parece ser o caso da parte postulante.
+Contra essa decisão o ora embargante não apresentou inconformismo algum e efetuou o pagamento das custas iniciais (fl. 97).
+Diante disso, verificar a alteração das condições financeiras do ora embargante apuradas pelas instâncias de modo a concluir que, nos dias atuais, não pode ele suportar as custas do processo, sem comprometer a própria subsistência ou de sua família, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado no âmbito do recurso especial (Súmula 7/STJ).
+Com feito, orienta-se a jurisprudência do STJ no sentido da "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório" (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.; AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019).
+No mérito, em momento algum o levantamento da integralidade das constribuições vertidas pelo ora embargante ficou condicionada ao seu desligamento da Petrobrás, patrocinadora do plano de benefícios administrado pela Petros, entidade fechada de previdência complementar.
+Na verdade, conforme demonstrei na decisão de fls. 417-423 e no voto condutor do acórdão embargado, o autor da ação tem direito à restituição de 50% das parcelas que destinou ao plano de benefícios, em razão de ter formalizado o seu desligamento da entidade fechada de previdência privada antes da entrada em vigor do Decreto 2.111/96, valores que, todavia, somente poderão ser resgatados após o rompimento do vínculo empregatício com o patrocinador, de forma a manter o equilíbrio financeiro e atuarial do sistema e para dar cumprimento às normas expedidas pelo órgão regulador do regime fechado de previdência complementar, tudo nos termos da orientação consolidada pela Segunda Seção do STJ sobre esses temas.
+Diante disso, a pretensão veiculada no presente recurso, não é a correção dos vícios descritos no art. 1.022 do CPC/2015, mas a modificação da conclusão do acórdão embargado, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+É como voto.
