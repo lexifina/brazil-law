@@ -1,0 +1,52 @@
+PJe - Processo Judicial Eletrônico
+Tribunal de Justiça de Mato Grosso
+Segunda Câmara de Direito Público e Coletivo
+Agravo de Instrumento: 1011891-52.2022.8.11.0000
+Agravante: LUIZ MARCIO BASTOS POMMOT
+Agravado: MINISTERIO PUBLICO DE MATO GROSSO
+Visto.
+Trata-se de Agravo de Instrumento com pedido de antecipação de tutela, interposto por LUIZ MARCIO BASTOS POMMOT contra decisão proferida pelo Juízo da Vara Especializada em Ações Coletivas da Comarca da Capital, que nos autos da Ação Civil Pública no 1008750-33.2021.8.11.0041, movida pelo Ministério Público Estadual em desfavor do Agravante e Outros, indeferiu o pedido de levantamento da indisponibilidade de bens, bem como de reconhecimento da prescrição.
+Sustenta o Agravante que, nos termos do Artigo 5o, inciso XL, da Constituição Federal, a lei penal não retroagirá, salvo para beneficiar o réu, princípio este aplicável às leis que disciplinam o direito administrativo sancionador.
+Assevera que, a ação para a aplicação das sanções previstas na lei de improbidade prescreve em oito anos, contador a partir da ocorrência do fato.
+Argumenta que, a ação originária fora ajuizada no ano de 2021, visando apurar irregularidades ocorridas no ano de 2011.
+Afirma que, ausente prova de que o réu está a se desfazer do patrimônio, com a finalidade de frustrar eventual ressarcimento ao erário, de rigor o afastamento do decreto de indisponibilidade de bens.
+Com base nestes fundamentos, pugna pela concessão da antecipação de tutela, para afastar o decreto de indisponibilidade de bens.
+É o relatório.
+Decido.
+Extrai-se dos autos que, o Ministério Público Estadual moveu Ação Civil Pública por Ato de Improbidade Administrativa, em desfavor do Agravante e Outros, ao fundamento de que, após a instauração de inquérito civil, apurou-se irregularidade no Pregão Presencial para Registro de Preços no 011/2010, cujo objeto consistia na contratação de empresa para fornecimento de materiais gráficos e correlatos, à Assembleia Legislativa do Estado de Mato Grosso.
+Narra na exordial que, o procedimento licitatório foi realizado com a finalidade precípua de retorno da receita pública aos operadores do esquema, visando estritamente o pagamento de quantias mensais destinadas aos Deputados Estaduais.
+Afirma que, não houve a entrega de qualquer material gráfico, comprometendo-se os licitantes em restituir o valor recebido na ordem de 70 a 80%, de modo que o prejuízo ao erário compreende o valor integral do contrato, cujo valor atualizado e com a incidência de juros de 1% ao mês, representa R$ 2.138.000,57(dois milhões cento e trinta e oito mil reais e cinquenta e sete centavos).
+Nos autos do Agravo de Instrumento no 1012058-06.2021.8.11.0000, este Relator deferiu em sede de antecipação de tutela, que o decreto de indisponibilidade se limitasse a R$1.020.200,83 (um milhão vinte mil e duzentos reais e oitenta e três centavos).
+Pois bem.
+Inicialmente, cumpre esclarecer que, no presente momento, o presente recurso se restringe à análise da decisão agravada, no ponto que indeferiu o pedido de afastamento do decreto de indisponibilidade de bens, uma vez que, o pedido de reconhecimento da prescrição fora formulado para apreciação no mérito do recurso.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão da antecipação de tutela não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+Vejamos o disposto na Lei de Improbidade Administrativa:
+“Art. 16. Na ação por improbidade administrativa poderá ser formulado, em caráter antecedente ou incidente, pedido de indisponibilidade de bens dos réus, a fim de garantir a integral recomposição do erário ou do acréscimo patrimonial resultante de enriquecimento ilícito.
+(...) § 3o O pedido de indisponibilidade de bens a que se refere o caput deste artigo apenas será deferido mediante a demonstração no caso concreto de perigo de dano irreparável ou de risco ao resultado útil do processo, desde que o juiz se convença da probabilidade da ocorrência dos atos descritos na petição inicial com fundamento nos respectivos elementos de instrução, após a oitiva do réu em 5 (cinco) dias.
+§ 4o A indisponibilidade de bens poderá ser decretada sem a oitiva prévia do réu, sempre que o contraditório prévio puder comprovadamente frustrar a efetividade da medida ou houver outras circunstâncias que recomendem a proteção liminar, não podendo a urgência ser presumida.
+(...) § 6o O valor da indisponibilidade considerará a estimativa de dano indicada na petição inicial, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do réu, bem como a sua readequação durante a instrução do processo.
+(...) § 10. A indisponibilidade recairá sobre bens que assegurem exclusivamente o integral ressarcimento do dano ao erário, sem incidir sobre os valores a serem eventualmente aplicados a título de multa civil ou sobre acréscimo patrimonial decorrente de atividade lícita.”
+Nos termos do artigo 37, §4 da Constituição Federal, os atos de improbidade administrativa importarão a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas na lei.
+De acordo com a jurisprudência assente na Colenda Corte Superior, inclusive após as recentes alterações promovidas na Lei de Improbidade Administrativa, desnecessário se mostra para a concessão da medida, que haja a prova da dilapidação do patrimônio do agente, bastando para tanto a verificação da gravidade dos fatos atribuídos à parte.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. INDISPONIBILIDADE DE BENS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.366.721/BA, DJe 19/09/2014, submetido ao rito do art. 543-C do Código de Processo Civil/1973, correspondente ao art. 1.036 e seguintes do CPC/2015, assentou a orientação de que, havendo indícios da prática de atos de improbidade, é possível o deferimento da medida cautelar de indisponibilidade, sendo presumido o requisito do periculum in mora.
+2. No caso, o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a necessidade de decretação de indisponibilidade dos bens do agravante, sendo inviável a modificação de tal entendimento, em sede de recurso especial, a teor da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.851.850/TO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Legalidade da decretação da medida de indisponibilidade de bens 13.
+A Primeira Seção do STJ, no julgamento do Recurso Especial Repetitivo 1.366.721/BA, Relator para o acórdão Ministro Og Fernandes, fixou o Tema 701 de sua jurisprudência, afirmando que a medida cautelar ou liminar que decreta a indisponibilidade dos bens do autor de ato de improbidade administrativa "não está condicionada à comprovação de que o réu esteja dilapidando seu patrimônio, ou na iminência de fazê-lo, tendo em vista que o periculum in mora encontra-se implícito no comando legal que rege, de forma peculiar, o sistema de cautelaridade na ação de improbidade administrativa, sendo possível ao juízo que preside a referida ação, fundamentadamente, decretar a indisponibilidade de bens do demandado, quando presentes fortes indícios da prática de atos de improbidade administrativa".
+14. Para o cabimento da medida de indisponibilidade, portanto, é suficiente a existência de fortes indícios da prática de atos de improbidade administrativa, sendo presumido o periculum in mora.
+15. No caso, o Tribunal de origem, de modo a garantir o integral ressarcimento de eventual prejuízo ao erário, constatou a presença dos requisitos legais para a manutenção da medida de indisponibilidade deferida em 1° grau, apontando: "Como exaustivamente discutido em outros recursos interpostos contra a mesma decisão, os indícios de cometimento de atos ímprobos durante a gestão dos Agravantes são múltiplos e contundentes. De fato, o acórdão do Tribunal de Contas da União concluiu pela existência de aquisição fraudulenta de imóveis, com superfaturamento de R$ 14.045.000,00 (quatorze milhões e quarenta e cinco mil reais), bem como pela constatação de irregularidades em contratos e respectivas execuções de obras de reforma, celebrados com a empresa LG Participações e Empreendimentos EIRELI, pertencente ao réu Luiz Gonzaga de Castro Alves e sua filha. Ademais, existem notícias da prática de fraude à licitação, compra de imóveis superfaturados, desvio de verbas, contratações irregulares e ameaça a testemunhas" (fls. 4.716, e-STJ) (grifei).
+16. Rever a conclusão da Corte local requer incursão no conjunto fático-probatório dos autos, o que é impróprio na via eleita, em razão do óbice da Súmula 7/STJ. (...) (REsp n. 2.003.949, Rel. Ministra Regina Helena Costa, DJe de 15/06/2022.)
+Destarte, para que seja acolhido, o pedido de indisponibilidade de bens deve vir acompanhado de acervo probatório robusto e suficiente, aptos a justificar, de plano, a concessão da medida, ou seja, devem ser demonstrados fortes indícios da responsabilidade do agente na execução do ato de improbidade.
+No caso em tela, não houve a alteração dos fatos a justificar a reanálise da questão da indisponibilidade de bens.
+O Agravante fundamenta sua pretensão em razão da alteração legislativa. Todavia, conforme ressaltado anteriormente, permanece hígido o entendimento nas Cortes Superiores de que, prescindível a comprovação de dilapidação de bens por parte dos Réus.
+Ademais, o Recorrente não colaciona ao presente recurso, comprovação de que o decreto de indisponibilidade de bens tenha recaído sobre seu patrimônio; ônus que lhe incumbia, afastando, assim, o requisito do risco de dano grave, de difícil ou impossível reparação.
+Feitas estas considerações, até a análise de mérito do presente recurso, a decisão agravada, no que tange ao decreto de indisponibilidade de bens, deve permanecer incólume; especialmente diante do fato de que, eventualmente acolhida a alegação de prescrição, a constrição sobre o patrimônio dos réus deve ser reavaliada.
+Ante o exposto, indefiro o pedido de antecipação de tutela recursal.
+Comunique-se o juízo de primeiro grau.
+Intime-se para apresentar contrarrazões.
+Após, colha-se o parecer da Procuradoria Geral de Justiça.
+Des. Mario Roberto Kono de Oliveira
+Relator
