@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MIS - MÉTODO INFORMÁTICA E SISTEMAS S/A, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+"PROCESSUAL CIVIL. ANULAÇÃO DE AUTO DE INFRAÇÃO. AUSÊNCIA DE PEDIDO. INÉPCIA DA INICIAL. DECURSO DE TEMPO. ALTERAÇÃO DOS FATOS. MANUTENÇÃO DA SENTENÇA.
+1. A apelante não formulou pedido de mérito, o que maculou a petição inicial de inépcia.
+2. Compreende-se o quão frustrante é para as partes o indeferimento de uma petição inicial por inépcia após dez anos de tramitação do feito, inclusive com a realização de perícia, cuja produção pressupôs que a lide haja sido compreendida.
+3. A esse despeito, não é possível dar provimento ao recurso em razão de dois motivos: a petição inicial realmente fugiu da melhor técnica e a apelante teve outra oportunidade de impugnar os autos de infração, tanto que, manejadas as execuções fiscais, opôs embargos à execução do devedor, julgados com mérito, face à adesão a parcelamentos, o que impede novo julgamento do mérito.
+4. A essas alturas, quinze anos após a prolação da sentença que corretamente indeferiu a petição inicial e tendo havido julgamento de mérito dos embargos a uma das execuções, alterando parte ou a totalidade dos fatos, não há mais espaço para que se oportunize a emenda à inicial.
+5. Apelação não provida" (fl.1.328e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1.331/1.344e), os quais restaram rejeitados (fls. 1.349/1.352e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 295, parágrafo único, I, II, III e IV, do CPC/73, sustentando, em síntese, que não há que se falar em inépcia da inicial da presente ação anulatória, eis que "o requerimento genérico, mesmo que deficientemente formulado deve ser conhecido pelo Julgador, se há na petição a correta compreensão de seu alcance e ampla defesa da parte adversa" (fls. 1.368/1.369e); que, "antes do saneamento, cabia o Julgador processante determinar a correspondente emenda da inicial pela Autora/Recorrente, em 15 dias. (No atual CPC os artigos correspondentes aos citados acima são: 330, § 1º, incisos I, II, III e IV)" (fls. 1.370/1.371e).
+Contrarrazões a fls. 1.380/1.388e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls.1.394/1.395e).
+A irresignação não merece ser conhecida.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que "não é possível dar provimento ao recurso em razão de dois motivos: a petição inicial realmente fugiu da melhor técnica e a apelante teve outra oportunidade de impugnar os autos de infração, tanto que, manejadas as execuções fiscais noticiadas às fls. 1096/1098, opôs embargos à execução (nº 19983400003091-6), julgados com mérito, face à adesão a parcelamentos, o que impede novo julgamento do mérito" (fl. 1.326e).
+Entretanto, ofundamento segundo o qual "a apelante teve outra oportunidade de impugnar os autos de infração, tanto que, manejadas as execuções fiscais noticiadas às fls. 1096/1098, opôs embargos à execução (nº 19983400003091-6), julgados com mérito, face à adesão a parcelamentos, o que impede novo julgamento do mérito" não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
