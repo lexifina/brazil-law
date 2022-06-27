@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por FERNANDA SANTOS MATIAS MELO com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 34):
+CUMPRIMENTO DE SENTENÇA. Reconhecimento de preclusão temporal para impugnação ao cumprimento de sentença. Erro material inexistente. Taxa de ocupação que, por sua própria natureza, trata de prestação periódica, contada desde a transmissão da posse direta do bem ao adquirente até sua devolução ao alienante. Eventual excesso de execução deveria ser deduzido tempestivamente por meio de impugnação ao cumprimento de sentença. Artigo 525, §1º, inciso V, do CPC. Decisão agravada mantida. Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 41-51), a ora agravante apontou divergência jurisprudencial e violação dos arts. 491, I, e 505 do CPC/2015, sustentando, em síntese, a existência de erro material no julgado,ao inserir valores que não constam da sentença, o qual pode ser reconhecido de ofício, não se sujeitando aos efeitos da preclusão.
+Contrarrazões às fls. 56-58 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que arecorrente demonstre de forma clara os dispositivos apontados como malferidos pela decisão recorrida bem como as razões, sob pena de inadmissão.
+Portanto, ao interpor o recurso especial alegando ofensa aos art. 505, sem indicação do inciso tido por vulnerado, a argumentação apresentada se mostra deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL QUANTO A QUESTÃO QUE, A DESPEITO DA OPOSIÇÃO DE ACLARATÓRIOS, NÃO FOI APRECIADA PELO TRIBUNAL A QUO. SÚMULA 211/STJ. AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF (AgInt no AREsp 1.530.183/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 19.12.2019; AgInt no AREsp 1.559.920/SE, Rel. Min. FRANCISCO FALCÃO, DJe 22.10.2020).
+2. Na espécie, incide ao caso o óbice da Súmula 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+3. Em referência à suposta violação ao art. 489, § 1o., IV, do CPC, sabe-se que é inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (AgRg nos EREsp. 1.138.634/RS, Rel. Min. ALDIR PASSARINHO JÚNIOR, DJe 19.10.2010). Note-se, também: AgRg no AREsp 1.647.409/SC, Rel. Min. ROGÉRIO SCHIETTI CRUZ, DJe de 01.07.2020;
+AgInt no AREsp 1.264.021/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 01.03.2019; REsp 1.771.637/PR, Rel. Min. HERMAN BENJAMIN, DJe de 04.02.2019.
+4. Na presente demanda - e à luz dos julgados ilustrativos - , incide o óbice da Súmula 211/STJ, uma vez que a questão suscitada no Recurso Especial não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Ressente-se o apelo especial do requisito do prequestionamento.
+5. Agravo Interno do Ente Federativo desprovido.
+(AgInt no AREsp n. 1.766.826/RS, rel. Min. , Primeira Turma, DJe de 30/4/2021)
+Por outro lado, o conteúdo normativo do art. 491, I, do CPC/2015 (relativo a possibilidade de prolação de condenação genérica) não está apto a embasar a tese da existência de erro material no cálculo apresentado no cumprimento de sentença, nem mesmo apresentaconteúdo normativo para impugnar o principal fundamento do acórdão recorrido (consistente na preclusão temporal da matéria atinente ao excesso de execução, dado a não apresentação da impugnação no momento oportuno),afigurando-se, assim, deficiente a fundamentação utilizada, circunstância que reclama a aplicação, por analogia, do disposto na Súmula 284/STF.
+Confiram-se, nesse sentido, o seguinte precedente desta Corte Superior:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL E REPARAÇÃO DE DANOS. REPRESENTAÇÃO COMERCIAL.
+1. Inexiste afronta aos arts. 489, § 1º, IV e 1.022, II, do CPC quando o acórdão recorrido se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+2. Consoante precedentes desta Corte, a pretensão do representante comercial para cobrar diferenças de comissões não pagas ou pagas a menor prescreve mês a mês, e está sujeita ao prazo quinquenal previsto no § único, do 44, da Lei 4.886/65.
+3. Ilidir a conclusão do acórdão recorrido de que inexiste nulidade contratual a ser declarada demandaria a reinterpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências vedadas a teor dos óbices das Súmulas 5 e 7/STJ.
+4. A subsistência de fundamento não atacado, apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal no ponto, conforme o entendimento disposto na Súmula 283/STF.
+5. É deficiente a fundamentação do recurso especial quando ausente a indicação adequada da questão federal controvertida ou quando o conteúdo normativo é inapto a amparar a tese recursal, atraindo o óbice da Súmula 284 do STF.
+6. Decisão agravada mantida pelos seus próprios fundamentos.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.716.758/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/06/2021, DJe 10/06/2021)
+Fica prejudicada a análise da divergência jurisprudencial, tendo em vista os óbices aplicados.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. PRECLUSÃO TEMPORAL. ALEGAÇÃO DE VIOLAÇÃO GENÉRICA E SEM A INDICAÇÃO PRECISA DO INCISO VERGASTADO. CONTEÚDO NORMATIVO DE DISPOSITIVO LEGAL DISTINTO DA QUESTÃO CONTROVERTIDA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
