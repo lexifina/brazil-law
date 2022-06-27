@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por GERSON ANTÔNIO REGO LIMA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido no Tribunal de Justiça do Estado do Maranhão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE CUMPRIMENTO DE SENTENÇA COLETIVA. INEXIGIBILIDADE DO TÍTULO JUDICIAL. APLICAÇÃO DA SÚMULA VINCULANTE Nº37. PUBLICADA EM 16.10.2014. ACÓRDÃO QUE LASTREIA O TÍTULO JUDICIAL COM TRÂNSITO EM JULGADO EM 25.06.2016. APLICAÇÃO DO ART. 1.057, do CPC/2015c/c art. 475-L, § 1º, do CPC/1973. VÍCIO DE INCONSTITUCIONALIDADE QUALIFICADO. DECISÃO AGRAVADA REFORMADA. AGRAVO CONHECIDO E PROVIDO. UNANIMIDADE. I. A matéria aqui discutida em sede de cumprimento de sentença refere-se a eventual direito de servidores públicos estaduais ao percentual de 21,7% a título de revisão geral anual previsto na Lei Estadual nº. 8.369/2006.
+II. Cabe reconhecer que há em nosso ordenamento jurídico mecanismos aptos a rescindir o título executivo, ou ao menos torná-lo inexigível, quando a sentença exequenda fundamentar-se em interpretação considerada inconstitucional pelo Supremo Tribunal Federal, seja em momento anterior ou posterior ao seu trânsito em julgado.
+III. Registre-se ainda que o atual Código de Processo Civil, em suas normas transitórias(art. 1.057), estabeleceu que "o disposto no art. 525, §§ 14 e 15, e no art. 535, §§ 7º e 8º,aplica-se às decisões transitadas em julgado após a entrada em vigor deste Código, e, às decisões transitadas em julgado anteriormente, aplica-se o disposto no art. 475-L, § 1º, e no art. 741, parágrafo único, da Lei nº 5.869, de 11 de janeiro de 1973".
+IV. De vista dos autos, observo que o acórdão do qual originou o título executivo judicial objeto da presente ação de cumprimento fundamentou-se no art. 37, X, da Constituição da República e no princípio da isonomia, tomando por base, jurisprudência do Supremo Tribunal Federal anterior à conversão do Enunciado nº, 339, sem contudo observar no tempo de seu julgamento, a existência da Súmula vinculante nº. 37.
+V. Assim, entendo que o título executivo judicial possui vício de inconstitucionalidade qualificado porque fundamenta o direito do exequente/agravado com base no princípio da isonomia quando já convertida o Enunciado nº. 339 em Súmula Vinculante nº. 37 que reforça, com força vinculante a impossibilidade pelo Poder Judiciário de reajustar ou aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+VI. Quanto a análise temporal de aplicação do art. 535, §5º, do CPC, observo que o acórdão do qual se origina o título executivo, transitou em julgado dia 25.00.2016 e a publicação da Súmula Vinculante nº. 37, em 16.10.2014, amoldando-se a hipótese prevista no art. 475-L, § 1º, do CPC/1973 c/c art. 1.057, do CPC/2015.
+VII. Referido acórdão/título judicial concedeu reajuste salarial com base no princípio da isonomia, quando referida conduta é expressamente rechaçada pelo Supremo Tribunal Federal, de forma vinculante desde 16.10.2014, com a publicação da Súmula nº. 37.
+VIII. Reconhecimento da inexigibilidade do título executivo. Extinção do processo com julgamento de mérito.
+IX. Decisão agravada reformada.
+X. Agravo de instrumento conhecido e provido. Unanimidade.
+Na origem, o Estado do Maranhão interpôs agravo de instrumento contra decisão proferida nos autos de cumprimento individual de sentença coletiva movido pela parte ora recorrente.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, aponta-se, além de dissídio jurisprudencial, ofensa aos artigos 489, § 1º, IV, 507, 508, 525, § 1º, III e §§ 12 e 14, e 535, § 5º, e 1022, II, todos do CPC.
+Foram apresentadas contrarrazões pelo desprovimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual n. 8.369/2006, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: Por ofensa a direito local não cabe recurso extraordinário.
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
