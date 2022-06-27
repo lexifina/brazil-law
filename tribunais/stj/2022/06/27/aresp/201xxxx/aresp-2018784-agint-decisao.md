@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Caixa Seguradora S.A. contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em razão da não impugnação específica da incidência do óbice da Súmula n. 83/STJ.
+Em suas razões, a agravante assevera que todos os pontos da decisão de inadmissibilidade foram enfrentados e rebatidos, em capítulos específicos.
+No caso, cabe observar que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pelo agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, a fim de proceder ao exame do agravo em recurso especial.
+Impugnação às fls. 543-549 (e-STJ).
+A recorrente apresentou agravo desafiando decisão que inadmitiu o recurso especial interposto contra acórdão do Tribunal de Justiça de Mato Grosso do Sul, assim ementado (e-STJ, fl. 363):
+AÇÃO DE COBRANÇA - SEGURO DE VIDA EM GRUPO - PEDIDO DE PAGAMENTO DE INDENIZAÇÃO EM DECORRÊNCIA DE COBERTURA DE DOENÇA GRAVE - INDENIZAÇÃO DEVIDA - DOENÇA CONSTATADA - VALOR DA INDENIZAÇÃO - INTEGRALIDADE - AUSÊNCIA DE PROVA DA CIÊNCIA DO SEGURADO ACERCA DAS LIMITAÇÕES DO CONTRATO - RECURSO CONHECIDO E PROVIDO.
+A seguradora tem o dever de informar ao segurado, as limitações e restrições à cobertura contratual. Não comprovada a ciência do consumidor com relação às cláusulas restritiva, o montante indenizatório devido em caso da invalidez total e permanente em decorrência de doença grave deve ser o valor integral informado na apólice de seguro.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente alegou, além da existência de divergência jurisprudencial quanto à definição de a quem cabe o dever de prestar informações prévias ao segurado, violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, I, do Código de Processo Civil de 2015; e 757 e 760 do Código Civil.
+Sustentou a existência de omissões no aresto relevantes ao julgamento da lide, notadamente no que se refere à doença que acarretou a invalidez do segurado ter se iniciado antes do vínculo contratual entre as partes; à inexistência de cobertura para a doença; e ao capital segurado da cobertura de doenças graves em estágio avançado ser de 30% (trinta por cento) da cobertura básica, vício caracterizador de negativa de prestação jurisdicional.
+Asseverou que a doença ocular degenerativa que acarretou a invalidez do segurado iniciou-se antes da existência de vínculo contratual entre as partes, quando ainda não havia cobertura para a enfermidade, a despeito disso o julgado condenou-lhe ao pagamento integral da cobertura, sem observância do percentual correspondente a 30% (trinta por cento) da cobertura básica.
+Afirmou que o dever de informar sobre restrições à cobertura securitária incumbe ao estipulante e não ao segurador.
+Sem contrarrazões, fl. 490 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 509-521 (e-STJ), com pedido de majoração da verba sucumbencial, prevista no art. 85, § 11, do CPC/2015.
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial foi afetada pela Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação proferida no REsp 1.874.811/SC e no REsp 1.874.788/SC, de relatoria do Ministro Ricardo Villas Bôas Cueva, julgadas em 26/10/2021, DJe 5/11/2021, delimitou o Tema 1.112 nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. SEGURO DE VIDA EM GRUPO. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. ESTIPULANTE E/OU SEGURADORA. 1. Delimitação da controvérsia: definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo. 2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Veja o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Não custa lembrar que falece interesse à insurgente para questionar esta decisão, tendo em vista a inexistência de prejuízo.
+Confira-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA EM FASE DE CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE PERMANEÇA SUSPENSO O RECURSO ATÉ A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. INEXISTÊNCIA DE PREJUÍZO.
+1. Ação civil pública em fase de cumprimento de sentença em razão de pagamento de diferenças remuneratórias relativas a depósitos mantidos em cadernetas de poupança.
+2. Conforme a jurisprudência do STJ, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguishing também pode ser formulada no juízo a quo. Precedentes.
+3. Não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível. Precedentes.
+4. Agravo interno no recurso especial não conhecido.
+(AgInt no REsp 1916576/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021)
+Ante o exposto, em juízo de retratação, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ PARA NOVA ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. DEVER DE INFORMAÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS (PROAFR NO RESP 1.874.811/SC E NO RESP 1.874.788/SC). TEMA 1.112/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
