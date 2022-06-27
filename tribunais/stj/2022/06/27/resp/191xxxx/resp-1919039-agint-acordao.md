@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. LICENCIATURA E BACHARELADO. EXERCÍCIO PROFISSIONAL. ATUAÇÃO PLENA. INGRESSO ATÉ 15/10/2005. RECONHECIMENTO Os cursos de bacharelado e licenciatura plena foram ofertados conjuntamente até 15/10/2005, a partir dessa data os cursos de Licenciatura em Educação Física e Bacharelado em Educação Física passaram a constituir graduações diferentes. Apenas aos alunos que ingressaram no curso de Educação Física antes de 15/10/2005 (Resolução CNE 02/2002) deve ser garantida a atuação nos campos da escolar e não escolar, nos termos da fundamentação, razão pela qual a sentença deve ser mantida.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Não restam dúvidas, portanto, de que todos os fundamentos do acórdão recorrido foram combatidos pelo AGRAVANTE em seu recurso especial de forma clara, expressa e fundamentada, razão pela qual deverão ser afastados os óbices das Súmulas 283 e 284/STF impostos pela decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA. ADMINISTRAÇÃO PÚBLICA. CONSELHO REGIONAL DE FISCALIZAÇÃO PROFISSIONAL E AFINS. EXERCÍCIO PROFISSIONAL.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DAS SÚMULAS N. 283 E 284/STF.
+I - Na origem, trata-se de ação ordinária de obrigação de fazer cumulada com pedido liminar de tutela provisória de urgência de natureza antecipada contra oConselho Regional de Educação Física do Estado do Rio Grande do Sulobjetivando a alteração de registro profissional para que conste "Atuação Plena", garantindoo livre exercício da profissão de educador físico em ambiente escolar e não escolar.Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi mantida.
+II - O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca dos efeitos da regulamentação discutida a partir de 15/10/2015, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre. ConfiraM-se os termos do decisum (fls. 165-166): "Contudo, segundo entendimento jurisprudencial dominante, não há diferenciação entre bacharelado e licenciatura em Educação Física aos alunos que ingressaram na graduação antes do prazo da Resolução nº 02/2002 do Conselho Nacional de Educação, ampliado até 15 de outubro de 2005, que determinou diferenciação entre as atribuições dos licenciados e bacharéis."
+III - Incólume a referida fundamentação, há incidência das Súmulas n. 283 e 284, ambas do STF, in verbis: "Súmula n. 283.É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Súmula n. 284É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Ademais, eventual debate sobre a controvérsia demandaria incursão em ato de natureza normativa expedido pelo Conselho Nacional de Educação, que não equivale à lei federal para fins de interposição de recurso especial.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca dos efeitos da regulamentação discutida a partir de 15/10/2015, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre. Confiram-se os termos do decisum (fls. 165-166):
+Contudo, segundo entendimento jurisprudencial dominante, não há diferenciação entre bacharelado e licenciatura em Educação Física aos alunos que ingressaram na graduação antes do prazo da Resolução nº 02/2002 do Conselho Nacional de Educação, ampliado até 15 de outubro de 2005, que determinou diferenciação entre as atribuições dos licenciados e bacharéis.
+Incólume a referida fundamentação, há incidência das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Súmula n. 284É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais, eventual debate sobre a controvérsia, demandaria incursão em ato de natureza normativa expedido pelo Conselho Nacional de Educação, que não equivale à lei federal para fins de interposição de recurso especial.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
