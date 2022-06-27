@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INGRESSO FORÇADO EM DOMICÍLIO. DELINEAMENTO FÁTICO NÃO REALIZADO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. o Tribunal de origem deixou de examinar o mérito da licitude das provas que servem de fundamento para a decretação da prisão preventiva, limitando-se a afirmar que o tema depende de dilação probatória, providência inviável em sede de habeas corpus.
+2. Diante da falta de delineamento fático por parte das instâncias antecedentes, não é viável a análise desse tema pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Visto, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+MAXMILLER LEAL DOS SANTOS interpôs agravo regimental, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão que indeferiu liminarmente o habeas corpus substitutivo de recurso ordinário, manejado em razão de acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, no julgamento do HC n. 0004284-09.2022.8.27.2700.
+O agravante foi preso em flagrante no dia 15 de abril de 2022, pelos crimes de tráfico de drogas e posse ilegal de arma de fogo. Na data mencionada, ele estava sentado na porta de sua casa, quando foi abordado por policiais, que realizaram buscas no interior de sua casa e lá encontraram uma porção de cocaína, oito porções de maconha e seis munições calibre .38.
+No dia seguinte, a prisão foi convertida em preventiva, em razão da necessidade de garantir a ordem pública.
+Contra essa decisão, a defesa impetrou habeas corpus na origem. O Tribunal, contudo, denegou a ordem (e-STJ, fls. 21-29).
+Por meio desta impetração, a defesa postulou o relaxamento da custódia, considerando a ilicitude das provas obtidas mediante o ingresso forçado de policiais no interior da residência do paciente.
+Nas razões deste regimental, a defesa afirma que o decreto prisional é desprovido de fundamentos juridicamente idôneos e que a adoção de medidas cautelares diversas do cárcere são suficientes para acautelar a ordem pública.
+Quanto à tese de ilegalidade das provas obtidas mediante ingresso forçado no domicílio do acusado, destaca que, ao contrário do afirmado na decisão impugnada, o tema foi devidamente prequestionado, de maneira que o presente writ traz todos os requisitos para sua admissibilidade.
+Diante disso, requer a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado respectivo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil e art. 258 do Regimento Interno do Superior Tribunal de Justiça. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cujos fundamentos devem ser preservados.
+O pedido formulado neste habeas corpus diz respeito à suposta nulidade das provas obtidas mediante o ingresso de policiais na residência do agravante.
+Conforme mencionado na decisão monocrática ora impugnada, o Tribunal de origem não debateu esse tema, limitando-se a afirmar que a matéria, por demandar dilação probatória, não pode ser examinada pela via mandamental.
+Portanto, não houve delineamento fático por parte da Corte a quo, de modo que não é possível a apreciação do tema diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+No mesmo sentido, mutatis mutandis:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE ILEGALIDADE DE INTERCEPTAÇÕES TELEFÔNICAS DEFERIDAS NO BOJO DE INVESTIGAÇÃO DE ATENTADOS PRATICADOS PELA ORGANIZAÇÃO CRIMINOSA PRIMEIRO GRUPO CATARINENSE (PCG) EM FLORIANÓPOLIS/SC, EM ABRIL/2017. TEMA NÃO EXAMINADO PELA CORTE A QUO. IMPOSSIBILIDADE DE DEBATE SOBRE A MATÉRIA SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO POR VEICULAR IDÊNTICO TEMA POSTO EM APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO DO TRIBUNAL DE ORIGEM. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o acórdão recorrido não chegou a examinar o mérito da controvérsia posta nos autos, relacionada à suposta nulidade das decisões de 1º grau que autorizaram a quebra de sigilo telefônico, revela-se inviável o debate da questão por esta Corte, sob pena de indevida supressão de instância. Situação em que, quando afirmou que procederia a uma análise perfunctória dos autos, a fim de averiguar se existia flagrante ilegalidade, o voto condutor do acórdão recorrido limitou-se a transcrever trechos da denúncia, o dispositivo da sentença que condenou a paciente e a narrar que as interceptações telefônicas foram ratificadas por provas testemunhais. No entanto, em momento algum, o acórdão recorrido examina os critérios para o deferimento da interceptação telefônica.
+(..)
+4. Agravo regimental a que se nega provimento. (AgRg no RHC 141.646/SC, de minha relatoria, Quinta Turma, DJe 19/3/2021)
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. QUEBRAS DOS SIGILOS TELEFÔNICO, FISCAL E BANCÁRIO. NULIDADE DAS DECISÕES. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. PEDIDO DE EXTENSÃO INDEFERIDO. 1. A apontada nulidade das decisões que autorizaram a quebra dos sigilos telefônicos, fiscais e bancários do requerente não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância. 2. Esta Corte deu parcial provimento ao recurso em habeas corpus, para tornar sem efeito somente as decisões proferidas às fls. 47, 64, 145 e 227 dos Autos n. 0011048-68.2015.8.26.0506 (fls. 112, 129, 210 e 292 deste caderno processual), as quais nem sequer fazem menção ao ora requerente. 3. Pedido de extensão indeferido. (PExt no RHC 117.462/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 21/9/2021)
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. ILICITUDE DAS PROVAS OBTIDAS COM AS INTERCEPTAÇÕES TELEFÔNICAS E COM A BUSCA E APREENSÃO. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. LEGALIDADE DA QUEBRA DE SIGILO TELEFÔNICO RECONHECIDA NO JULGAMENTO DE ANTERIOR MANDAMUS. REITERAÇÃO DE PEDIDO. COAÇÃO ILEGAL INEXISTENTE.
+1. A via eleita é inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+2. As ilegalidades suscitadas pela defesa não foram alvo de deliberação pela autoridade impetrada no acórdão impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+(..) 2. Agravo regimental desprovido. (AgRg no HC 581.646/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 17/6/2020)
+Desse modo, diante das razões apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
