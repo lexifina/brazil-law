@@ -1,0 +1,92 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO PELA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ MANTIDA.
+1. Hipótese em que a Presidência do STJ consignou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos" (fl. 399, e-STJ).
+2. O STJ perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+3. A Corte Especial reafirmou tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe 30.11.2018.
+4. Observa-se, das razões do Agravo em Recurso Especial (fls. 327-353, e-STJ), que a parte agravante de fato não impugnou a aplicação dos referidos óbices sumulares.
+5. No que se refere à incidência da Súmula 83/STJ, verifica-se que os agravantes não trouxeram precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal de origem, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. Cumpre destacar que a referida orientação é aplicável também aos Recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988.
+6. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática da Presidência do STJ que não conheceu do Agravo em Recurso Especial, ante a incidência da Súmula 182/STJ.
+Os agravantes alegam:
+A R. Decisão agravada informou que o Agravo em Recurso Especial dos Agravantes encontraria, por analogia, óbice na Súmula nº 182, deste E. Superior Tribunal de Justiça, uma vez que as Súmulas nºs 7 e 83 do E. Superior Tribunal de Justiça não foram impugnadas especificamente, verbis:
+(..)
+Todavia, diferentemente do que foi reconhecido pela R. Decisão agravada, os Agravantes impugnaram detalhadamente as referidas Súmulas em seu Agravo em Recurso Especial.
+Pleiteiam a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação nas fls. 422-425, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO PELA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ MANTIDA.
+1. Hipótese em que a Presidência do STJ consignou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos" (fl. 399, e-STJ).
+2. O STJ perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+3. A Corte Especial reafirmou tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe 30.11.2018.
+4. Observa-se, das razões do Agravo em Recurso Especial (fls. 327-353, e-STJ), que a parte agravante de fato não impugnou a aplicação dos referidos óbices sumulares.
+5. No que se refere à incidência da Súmula 83/STJ, verifica-se que os agravantes não trouxeram precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal de origem, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. Cumpre destacar que a referida orientação é aplicável também aos Recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.5.2022.
+No caso, a Presidência do STJ consignou este fundamento na decisão que não conheceu do Agravo em Recurso Especial (fl. 399, e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+.
+Esta Corte perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe 30.11.2018. Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. EXECUÇÃO. ERRO DE CÁLCULO E ERRO DE DIREITO. COISA JULGADA. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. SÚMULA Nº 83/STJ. SÚMULA Nº 283/STF. AGRAVO IMPROVIDO.
+(..) 2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+3. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a preclusão decorrente da coisa julgada, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ. (..)
+6. A ausência de impugnação dos fundamentos do acórdão recorrido, mormente quanto à juntada de substabelecimento pela advogada, conferindo-lhe poderes, e à procrastinação do feito, suficiente para a aplicação da multa, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+7. Agravo regimental não conhecido. (AgRg no AREsp 16.627/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 11/9/2012).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+2. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 925.488/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 14/6/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+(..) 3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à agravante, na petição do seu Agravo Interno, impugnar especificamente os fundamentos da decisão agravada. Era indispensável que a agravante, analiticamente, contrastasse todas as conclusões da decisão combatida, especificamente.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ.
+5. No mesmo sentido: AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgRg no AREsp 807.252/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/10/2017, DJe 23/10/2017; AgInt no AREsp 1.003.118/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2017, DJe 24/10/2017; AgInt no PUIL 318/MS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2017, DJe 18/10/2017; AgInt no AREsp 973.101/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no REsp 1.685.023/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe 16/10/2017; AgInt no AREsp 1.077.966/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+6. Agravo Interno não conhecido. (AgInt na Pet 10.274/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19/12/2017)
+Observa-se, das razões do Agravo em Recurso Especial (fls. 327-353, e-STJ), que a parte agravante de fato não impugnou a aplicação dos referidos óbices sumulares.
+No que se refere à incidência da Súmula 83/STJ, verifica-se que os agravantes não trouxeram precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal de origem, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. Cumpre destacar que a referida orientação é aplicável também aos Recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988.
+Por outro lado, incide a Súmula 83 do STJ na hipótese apreciada nos autos, visto que ela não está "condicionada à existência de precedente submetido à sistemática dos recursos repetitivos, bastando a demonstração de que o acórdão recorrido está no mesmo sentido da jurisprudência consolidada desta Corte."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 83 DO STJ. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido.
+2. Em relação à incidência da Súmula 83/STJ, caberia às partes recorrentes apresentar julgados supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica ou que estaria superada. Precedentes.
+3. A aplicação da Súmula 83/STJ não está condicionada à existência de precedente submetido à sistemática dos recursos repetitivos, bastando a demonstração de que o acórdão recorrido está no mesmo sentido da jurisprudência consolidada desta Corte. Precedente.
+4. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 5. Agravo interno não conhecido.
+(AgInt no AREsp 1.030.666/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 30/5/2019).
+O STJ entende que o descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. APLICAÇÃO DO ART. 253, PARÁGRAFO ÚNICO, II, B, DO RISTJ. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a parte agravante não infirma especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. Inexiste contrariedade ao art. 1.022, II, do CPC/2015 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+5. A questão ora controvertida - inexistência de contrariedade ao art. 1.022, II, do CPC/2015 quando a Corte de origem decide todas as questões postas a seu exame - possui entendimento sedimentado nesta Corte, fato esse que autoriza a apreciação monocrática do apelo, nos termos do art. 253, parágrafo único, II, b, do RISTJ, bem como da Súmula 568/STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema"). 6. "A alegada existência de omissão no acórdão do Tribunal de origem (violação do art. 535 do CPC/1973 atual 1.022 do CPC/2015) pode ser apreciada monocraticamente nesta Corte Superior, tanto pela negativa quanto pelo provimento do recurso, por preencher as exigências constantes no art. 932 do CPC/2015" (AgInt no REsp 1.274.568/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 19/4/2018).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1322384/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/3/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DA SÚMULA 83 DO STJ.
+1. Hipótese de agravo interno manejado contra decisão que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação específica à decisão agravada.
+2. Sendo o recurso inadmitido com fundamento na Súmula 83/STJ, caberia ao agravante indicar julgados atuais deste Tribunal sobre a matéria, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Tribunal local ou que não se encontra pacificada. Poderia ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.297.703/MS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 28/6/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE VENCIMENTOS. URV. APLICAÇÃO DA LEI 8.880/1994. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. DEFASAGEM NOS VENCIMENTOS. APURAÇÃO DO EFETIVO PREJUÍZO EM LIQUIDAÇÃO DE SENTENÇA. SÚMULA 83/STJ.
+1. Com efeito, quando do julgamento do REsp 1.101.726/SP, sob o regime dos recursos repetitivos, o STJ decidiu no sentido de que é obrigatória a observância, pelos Estados e Municípios, dos critérios previstos na Lei Federal 8.880/1994 para a conversão em URV dos vencimentos e dos proventos de seus servidores, considerando que, nos termos do artigo 22, VI, da Constituição Federal, é competência privativa da União legislação sobre o sistema monetário (STJ, REsp 1.101.726/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe 14/8/2009)
+2. Assim sendo, não se constata afronta ao art. 1º do Decreto 20.910/1932, quanto à ocorrência da prescrição do fundo de direito, pois o acórdão vergastado encontra-se alinhado ao entendimento proferido pelo STJ, no sentido de que, nas ações em que se pretende o recebimento de diferenças salariais decorrentes da conversão em URV, não ocorre a prescrição do fundo de direito, aplicando-se ao caso a Súmula 85/STJ, pois caracterizada a relação de trato sucessivo.
+3. Outrossim, o acórdão impugnado está em consonância com jurisprudência do STJ de que eventual prejuízo remuneratório decorrente da conversão equivocada da moeda deve ser apurada em liquidação de sentença.
+4. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+5. Ressalta-se que o referido verbete sumular aplica-se aos Recursos Especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+6. Recurso Especial não conhecido.
+(REsp 1.814.798/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/6/2019).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravante não infirmou, de forma incisiva e específica, o fundamento da decisão que inadmitiu seu recurso especial.
+2. É dever do agravante demonstrar o desacerto do Magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do artigo 1.021, § 1º, do CPC/2015, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial têm conteúdo genérico.
+3. A impugnação ao fundamento da Súmula 83/STJ dever ser pormenorizada, contendo precedentes contemporâneos e supervenientes à decisão vergastada, o que não ocorreu na espécie.
+4. Ademais, a inobservância dessa exigência conduz ao não conhecimento do recurso de agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+5. Agravo interno não conhecido.
+(AgInt no AREsp 1003467/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/3/2017).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
