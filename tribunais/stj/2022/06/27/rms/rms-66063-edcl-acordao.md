@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+ADMINISTRATIVO.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ORDINÁRIO.  SERVIDOR PÚBLICO. POLICIA MILITAR.REVISÃO DO ATO DE PASSAGEM DO MILITAR PARA RESERVA REMUNERADA, SOB O FUNDAMENTO DE ILEGALIDADE DA INCORPORAÇÃO. INEXISTÊNCIA  DOS  VÍCIOS  PREVISTOS  NO  ART.  1.022  DO  CPC/2015.  EMBARGOS  DECLARATÓRIOS  REJEITADOS.
+1.  O art. 1.022 doCPC/2015 é peremptórioao  prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado emobscuridade, contradição ou omissão, hipóteses não verificadas no caso emcomento.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+1.  Trata-se  de  embargos  de  declaração  opostos  por FRANCISCO CAVALCANTE DE PAULA NETOcontra  acórdão  proferido  por  esta  Primeira  Turma assim  ementado:
+ADMINISTRATIVO.  AGRAVO  INTERNO  NO  RECURSO  ORDINÁRIO  EM  MANDADO  DE  SEGURANÇA .  JUSTO  RECEIO  NÃO  CONFIGURADO.  PROVA  PRÉ-CONSTITUÍDA.  AUSÊNCIA.  AGRAVO  INTERNO  DO  SERVIDOR  A  QUE  SE  NEGA  PROVIMENTO.
+1. Trata-se de Recurso Ordinário contra ato do Governador do Estado do Ceará, sustentando o recorrente que houve redução de seus proventos em ato unilateral, sem que lhe fosse assegurado o direito de ampla defesa e contraditório em processo administrativo.
+2. Conforme se verifica, a ordem foi denegada, por não haver provas de vícios ou máculas no procedimento administrativo, nem estar cabalmente provada a violação ao direito da parte recorrente. A simples alegação, desacompanhada de qualquer espécie de prova, de que a autoridade coatora agiu de forma abusiva e ilegal, não constitui elemento apto a evidenciar a existência do direito pleiteado, de forma que tais alegações deveriam ter sido veiculadas em Ação Ordinária, a qual admite dilação probatória. Portanto, o acolhimento das razões recursais é inviável na via estreita do Mandado de Segurança, ante a necessidade de produção de provas .
+3.  Agravo  Interno  do  Servidor  a  que  se  nega  provimento.
+2.  O  embargante  alega  que: (a)solicitou sua RESERVA REMUNERADA por primeiro, isso em 23/03/2010, e o Embargado gerou por derradeiro outro Processo Administrativo em 06/05/2010 (fls. 98/100), objetivando colocar o Embargante "na marra" na denominada RESERVA REMUNERADA EX-OFFICIO pela QUOTA COMPULSÓRIA, a contar de 15/12/2009, utilizando-se do famigerado TEMPO FICTÍCIO (fls. 98/226 e 299/540 (fls. 857); (b) aConstituição Federal e a Constituiçãodo Estado do Cearávedam qualquer contagem de tempo de contribuição fictício; (c) o Estatuto dos Militares Estaduais do Ceará proíbeo cômputo de qualquer superposição de tempos de qualquer natureza; (d)o que foi decidido em seu desfavor até aqui fere a Carta Magna, haja vista que a parte embargadalhe nega o direito ao contraditório e àampla defesa nos processos administrativos de aposentadoria.
+3.  É  o  relatório.
+EMENTA
+ADMINISTRATIVO.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ORDINÁRIO.  SERVIDOR PÚBLICO. POLICIA MILITAR.REVISÃO DO ATO DE PASSAGEM DO MILITAR PARA RESERVA REMUNERADA, SOB O FUNDAMENTO DE ILEGALIDADE DA INCORPORAÇÃO. INEXISTÊNCIA  DOS  VÍCIOS  PREVISTOS  NO  ART.  1.022  DO  CPC/2015.  EMBARGOS  DECLARATÓRIOS  REJEITADOS.
+1.  O art. 1.022 doCPC/2015 é peremptórioao  prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado emobscuridade, contradição ou omissão, hipóteses não verificadas no caso emcomento.
+2. Embargos de declaração rejeitados.
+VOTO
+1. O art. 1.022 do CPC/2015 é peremptório ao  prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+2.  Destarte,  infere-se  que,  não  obstante  ser  pacífica  a  orientação  acerca  da  natureza  recursal  dos  declaratórios,  singularmente,  não  se  prestam  ao  rejulgamento  da  lide,  mediante  o  reexame  de  matéria  já  decidida,  mas  apenas  à  elucidação  ou  ao  aperfeiçoamento  do  decisum  em  casos  nos  quais  eivado  de  obscuridade,  contradição  ou  omissão.
+3.  Com  efeito,  os  embargos  de  declaração  não  podem  ser  utilizados  com  a  finalidade  de  sustentar  eventual  incorreção  do  decisum  hostilizado  ou  de  propiciar  novo  exame  da  própria  questão  de  fundo,  em  ordem  a  viabilizar,  em fase processual  inadequada,  a  desconstituição  de  ato  judicial  regularmente  proferido.
+4.  No  caso  dos  autos,  constaram  expressamente  do  acórdão  embargado  as  razões  pelas  quais  não  encontrava  amparo  à  pretensão  recursal.
+5.  Em  adição,  extrai-se  do  acórdão  proferido  pela  Corte  de  origem  o  seguinte:
+Inicialmente, quanto à alegação de ausência do contraditório, verifica-se que não procede a alegação do impetrante no sentido de que só tomou conhecimento do ato apontado como coator em 16/11/2016.
+A documentação constante dos autos atesta três manifestações suas no Processo Administrativo SPU nº 10282427-4, VIPROC 2824274/2010, que concluiu pela redução dos seus proventos - duas em 2012 (fls. 475-480 e 498-501) e uma em 2014 (fls. 515-516),pelas quais defende a não retificação do ato de sua passagem para reserva remunerada, publicado no DOECE nº 141, de 25/07/2012.
+É certo que a jurisprudência deste Tribunal se firma pela necessidade de participação do militar no processo de modificação do ato de sua passagem para inatividade, sob pena de cerceamento de defesa. No caso, porém, tal vício não se verifica(fls. 600/601)
+6.  Com  base  nessas  considerações,  rejeitam-se  os  presentes  embargos  declaratórios de FRANCISCO CAVALCANTE DE PAULA NETO.
+7.  É  como  voto.
