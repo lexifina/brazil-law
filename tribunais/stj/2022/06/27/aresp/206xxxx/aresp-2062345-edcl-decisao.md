@@ -1,0 +1,25 @@
+DECISÃO
+Cuidam-se de embargos de declaração opostos porLeopoldo Elizário Dominguesà decisão monocrática proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 444):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE RESERVA. INDEFERIMENTO. EXISTÊNCIA DE OUTROS ADVOGADOS NA CAUSA. CONCLUSÕES ESTADUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. REVALORAÇÃO DA PROVA. AFASTAMENTO. FUNDAMENTO DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. APLICAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DIVERGÊNCIA. JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O embargante alega a existência de vícios na decisão embargada.
+Sustenta a ocorrência de (1) omissão "sobre o fato de que jamais poderia a parte autora negociar honorários que não lhe pertencem" (e-STJ, fl. 1.502); (2) "omissão/erro material, além de contradição, máxime diversos precedentes em sentido contrário, do próprio embargante (e-STJ, fl. 1.502); e, (3)"omissão, erro material e contradição nos v. acórdãos, com negativa de prestação jurisdicional, até pela falta do IRDR, uniformização de jurisprudência" (e-STJ, fl. 1.502).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+No caso, a pretensão não merece acolhida, porque adecisão embargada não contém nenhumvício.Tenha-se em conta, de início, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Na hipótese, ficou consignado:
+1) a inexistência de ofensa aos arts. 489 e 1.022 do CPC/2015, porqueo acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a resultado diferente;
+2)a inversão da conclusão da Corte estadualesbarra no reexame de matéria fática - o efetivo trabalho desempenhado, o acordo feito pelas partes e a presença de outros advogados que atuaram no feito -, o que é vedado em âmbito de recurso especial, devido ao óbice dos enunciados 5 e 7 da Súmula deste Tribunal;
+3)a análise do dissídio jurisprudencial ficouprejudicada em razão da aplicação do enunciado da Súmula 7/STJ; e
+4) o entendimentodo Tribunalde que o agravante não era o único causídico do feito não foi impugnadono recurso especial, conforme se extrai das alegações apresentadas, o que atraiu a incidência das Súmulas 283 e 284/STF.
+Não há falar, pois em omissão na decisão embargada.
+Nesse contexto, não existem tambémproposições contraditórias.
+Ao contrário do que se alega nos embargos, é de comezinha sabença que a contradição passível de ser sanada pelos embargos de declaração não pode guardar relação com "diversos precedentes em sentido contrário, do próprio embargante", nem muito menos relacionar-se a "negativa de prestação jurisdicional, até pela falta do IRDR, uniformização de jurisprudência".
+Além disso, também como se sabe, oerro material é aquele que se revela de modo tal que nem mesmo se faz necessário ummaior exame da decisão judicial, produzindo divergência notória entre a vontade do julgador e aquela expressa no julgado, não possuindo conteúdo decisório propriamente dito.
+Relaciona-se, por exemplo, anomes,datas, valores,números, não decorrendo, portanto, de um juízo de valor ou daaplicação de uma regra jurídica ao processo. Assim, atente-se, não se confundemo erro materiale o error in judicando.
+Na hipótese dos autos, basta umasimples leitura da decisão embargada para se concluir que não se constata a ocorrência de erro material, muito menos quanto a"diversos precedentes em sentido contrário, do próprio embargante", e a "negativa de prestação jurisdicional, até pela falta do IRDR, uniformização de jurisprudência".
+Por conseguinte, a decisão embargada não possui vício a ser sanado por intermédio dos embargos de declaração, sendo evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
