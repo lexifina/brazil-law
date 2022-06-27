@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+Agravo de instrumento -Cumprimento de sentença -Improbidade administrativa -Penhora de parte do salário -Excepcionalidade comprovada -EREsp 1.582.475/MG -Recurso a que se nega provimento. Consoante jurisprudência do Superior Tribunal de Justiça, admite-se, em caráter excepcional, a penhora de vencimentos para quitação de dívida não alimentar apenas quando há resistência injustificada, desproporcional e desnecessária por parte do devedor (EREsp 1.582.475/MG). (Des MR)V. v:AGRAVO DE INSTRUMENTO -CUMPRIMENTO DE SENTENÇA -AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA -PENHORA SOBRE OS VENCIMENTOS DO EXECUTADO -IMPOSSIBILIDADE -ART. 833 DO CPC/15 -DECISÃO REFORMADA -RECURSO PROVIDO.1. O Código de Processo Civil estabelece a impenhorabilidade dos vencimentos como forma de garantir a mantença do mínimo existencial, necessário para a preservação da dignidade da pessoa do devedor. 2. Os vencimentos podem ser penhorados apenas nos casos de crédito alimentar ou quando o valor percebido superar o de cinquenta salários mínimos ao mês, devendo ser obstada a espécie de penhora pretendida, por violação a norma processual. 3. Recurso provido.(Des AV)
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts.833, IV, § 2º, 1.022 do CPC/2015. Alega:
+O caso em tela, ao contrário do que sustenta o acórdão recorrido, é simples. Há regra expressa no Código de Processo Civil, art. 833,inc. IV, que veda a penhora de vencimentos e salários e que não pode ser superada sob o argumento da máxima efetividade da prestação jurisdicional.
+Transcorreu in albis o prazo para apresentação de contrarrazões.
+O MPF emitiu parecer assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DESENTENÇA. RECURSO ESPECIAL. SUPOSTA OMISSÃO DOJULGADO. INOCORRÊNCIA. PENHORA DE PARTE DOSRENDIMENTOS DO EXECUTADO. POSSIBILIDADE. ATUALENTENDIMENTO DO STJ. REVISÃO DO ACÓRDÃORECORRIDO. NECESSIDADE DE REVOLVIMENTO DE FATOS EPROVAS DOS AUTOS. SÚM. 7/STJ.
+1 - O TJ/MG examinou expressamente a matéria posta em Juízo, de forma clara, objetiva e suficiente, embora tenha concluído em contrário à pretensão do recorrente. Assim, não prospera a alegada ofensa ao artigo 1022, II, do CPC/15.
+2 - O atual entendimento do Superior Tribunal de Justiça é no sentido de ser possível a penhora de parcela de salários e proventos para satisfazer condenações judiciais. Precedente.
+3 - Considerando-se que o Tribunal "a quo" concluiu que o recorrente não demonstrou quais seriam seus rendimentos ou atividades laborais, no intuito de afastar a medida constritiva, tem-se que a revisão do julgado demandaria o revolvimento de fatos e provas dos autos, providência vedada à luz do enunciado da Súmula 7/STJ.
+4 - Parecer pelo conhecimento do agravo e pelo parcial conhecimento do recurso especial para, na extensão conhecida, negar-lhe provimento.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.6.2022.
+Trata-se, na origem, de Agravo de Instrumento interposto pelo ora recorrente contradecisão proferida, nos autos de Cumprimento de Sentença proposto pelo MinistérioPúblico do Estado de Minas Gerais, que deferiu a penhora de 30% (trinta por cento) dos rendimentos líquidos do executado.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1630265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016).
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+Cinge a controvérsia recursal em aferir o acerto da decisão que deferiu o pedido do Ministério Público, exequente, para que a penhora, decorrente de execução de título judicial proveniente da condenação do agravante em Ação Civil Pública por Ato de Improbidade, recaia sobre o valor correspondente a 30% (trinta por cento) dos rendimentos líquidos do executado, até a satisfação da obrigação, no limite total de R$676.554,83. Pois bem. Cediço que o art. 833 estabelece a impenhorabilidade do salário como forma de garantir ao executado a mantença do mínimo existencial, necessário para a preservação da dignidade da pessoa do devedor além da sua própria subsistência:
+(..)
+Aludida regra contempla duas exceções: podendo ser penhorados os vencimentos para garantir a subsistência do alimentando, em ação que versa sobre alimentos, ou quando o valor ultrapassar o de 50 (cinquenta) salários mínimos ao mês, situação em que se presume que a verba excede o necessário para a subsistência digna do executado.
+(..)
+Dito isso, no caso dos autos, entendo que a pretensão do exequente esbarra na matéria da norma supramencionada.
+É que o crédito exequendo é proveniente de condenação em Ação Civil Pública por Ato de Improbidade Administrativa, não se amoldando às verbas de natureza alimentar que excepcionam a regra de impenhorabilidade dos vencimentos.
+Além disso, inexiste demonstração nos autos de que a remuneração do executado superaria o piso de cinquenta salários mínimos.
+Neste sentido, o exequente se limitou a acostar o extrato da consulta realizada em CNPJ da empresa na qual o executado figura como sócio (fls. 266/273, pdf único), sem indicar sequer o valor aproximado dos rendimentos com a atividade empresarial.
+Além disso, alega que o agravante é servidor na Secretaria de Estado de Saúde, sem acostar qualquer documento que comprove a alegação e, tampouco, indicar o valor da remuneração no serviço público.
+Logo, verifico que o exequente não se desincumbiu do ônus de comprovar a adequação do caso a qualquer das situações que permitem a exceção à impenhorabilidade dos vencimentos, razão pela qual deve ser reformada a decisão de origem.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ademais,o Superior Tribunal de Justiça confirmou a excepcionalidade da regra relativa à impenhorabilidade de verbas salariais, admitindo sua flexibilização para abranger dívida não alimentar (REsp 1.673.067/DF, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 15.9.2017).
+A regra de impenhorabilidade de salários prevista no Código de Processo Civil também não deve ser interpretada de maneira literal e absoluta em razão de estar em jogo a tutela do interesse público, de forma que pode e deve ser mitigada em determinadas situações, mormente quando presente a probabilidade do direito decorrente da sentença condenatória proferida na Ação de Improbidade Administrativa.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. RETENÇÃO DE PARTE DOS PROVENTOS. POSSIBILIDADE. IMPENHORABILIDADE DO SALÁRIO. MITIGAÇÃO. SÚMULAS 7 E 83/STJ. APLICAÇÃO.
+1. Cuidaram os autos, na origem, de Ação Cautelar visando à cessação dos bloqueios mensais de parte (30%) de sua aposentadoria em virtude de processo disciplinar. A sentença indeferiu o pedido mantendo o bloqueio. O Tribunal de origem entendeu por bem deferir a retenção de 10% dos valores depositados na conta-salário do recorrente, sob o fundamento de que a impenhorabilidade desses valores estabelecida pelo CPC/1973 admite mitigação sem colocar em risco as necessidades básicas suas ou de seus familiares. 2. O Superior Tribunal de Justiça confirmou a excepcionalidade da regra relativa à impenhorabilidade de verbas salariais, admitindo sua flexibilização para abranger dívida não alimentar (REsp 1.673.067/DF, Rel. Minª Nancy Andrighi, Terceira Turma, DJe 15.9.2017).
+3. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Considerando que o Tribunal de origem, baseado nos princípios da proporcionalidade e razoabilidade, a par das circunstâncias fático-probatórias dos autos, compreendeu que os percentuais bloqueados são adequados para manter o mínimo existencial dos devedores, de forma a não prejudicar a subsistência do recorrente, mas sem descurar do interesse público de ressarcimento ao erário e imposição de sanções de cunho patrimonial àqueles que praticam atos de improbidade administrativa, verifica-se que a alteração dessa conclusão demanda a reanálise dos elementos de fato e de prova dos autos, providência que, nesta via eleita, encontra óbice, conforme o enunciado da súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp n. 1.790.570/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2019, DJe de 30/5/2019.)
+Por tudo isso, conheço parcialmente do Recurso Especial, tão somente quanto à violação do art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
