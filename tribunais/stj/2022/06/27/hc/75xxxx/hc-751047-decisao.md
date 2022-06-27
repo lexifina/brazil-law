@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ALDAIR DOS SANTOS DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5004858-80.2021.8.21.0005.
+Consta nos autos que o Paciente foi condenado àspenas de 8 (oito) anos e 2 (dois) meses de reclusão, em regime inicialmente fechado, e 800 (oitocentos) dias-multa, como incurso no art. 33,caput, da Lei n. 11.343/2006, em razão da apreensão de753,98g de maconha, além de duas balanças de precisão, R$ 9.420,00 (nove mil quatrocentos e vinte reais) em espécie e diversos petrechos utilizados para preparo e embalo da droga.
+A Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem.
+Nestewrit, a Impetrante alega que houve constrangimento ilegal na fixação da pena, pois o Tribunal de origem, embora tenha afastado as circunstâncias judiciais dos motivos e das consequências do crime, manteve a pena-base estabelecida em primeira instância, sem recurso ministerial, incorrendo emreformatio in pejus.
+Requer, liminarmente e no mérito, a redução da pena-base "para próximo do mínimo legal, de forma proporcional à neutralização das vetoriais MOTIVAÇÃO E CONSEQUÊNCIAS" (fls. 9-10).
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta."(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+O Juízo de primeira instância fixou a pena-base do Paciente nos seguintes termos (fl. 469; grifos diversos do original):
+"1ªFase - Pena Base
+Ao analisar as circunstâncias do art. 59 do CP, concluo que:
+A culpabilidade, considerada como grau de reprovação da conduta, não apresenta elementos que refogem daquela própria ao delito a que foi condenado, já estando sopesada na fixação dos limites da pena em abstrato.
+O réu registra antecedentes criminais, conforme certidão do Evento 91 (processo nº 005/2.19.0000765-0).
+Quanto à personalidade do réu, em regra, é de difícil valoração, uma vez que elevado o subjetivismo para aferição de sua condição psicológica pelo juiz.
+A conduta social do acusado não foi mencionada nos autos, de modo que não há elementos suficientes para avaliação.
+Motivação desprezível, transcendendo àquela do ilícito apurado. Mesmo diante de tantas e seguidas campanhas contra as drogas, cujos malefícios são amplamente divulgados, o réu continua buscando dinheiro e vantagem em detrimento do próximo, que geralmente é um viciado em drogas, contribuindo para a manutenção do vício.
+As consequências dos crimes são graves, atingindo a saúde e incolumidade pública, uma vez que a natureza do delito em muito tumultua a ordem pública, sendo de grande reprovabilidade social, pois sabidamente representa substrato para outros tantos delitos, causando prejuízo e ameaçando a coletividade e a paz familiar.
+Circunstâncias normais à espécie.
+Não há falar em comportamento da vítima, haja vista que é a sociedade, através da incolumidade pública.
+A quantidade de droga apreendida foi de considerável monta (753,98 gramas), o que se mostra desfavorável.
+Assim, sopesadas as moduladoras do art. 59 do Código Penal, e lembrando que a pena cominada ao delito de tráfico de drogas é de 5 a 15 anos de reclusão, entendo suficiente e proporcional fixar a pena-base do acusado em 07 (sete) anos de reclusão."
+O Tribunal de origem manteve a pena-base com os seguintes fundamentos (fl. 19; sem grifos no original):
+"O Juiz de Direito fixou a pena-base, corretamente, em 07 (sete) anos de reclusão, considerando desfavoráveis os antecedentes, a motivação, as consequências e a quantidade de droga.
+Os motivos são inerentes ao tipo penal. As consequências são desconhecidas.
+Entretanto, ainda que consideradas neutras as circunstâncias acima mencionadas, os maus antecedentes, conforme certidão do Evento 91 (processo nº 005/2.19.0000765-0), e a quantidade de droga apreendida, ou seja, 753,98 gramas de maconha, justificam, por si só, a manutenção da pena- base imposta na sentença.
+Logo, mantenho a pena-base fixada na sentença."
+Como se vê, na fixação da pena-base, o Tribunal local não levou em consideração o desvalor atribuído pelo Magistrado singular no tocante aos motivos e às consequências do delito. Contudo, asseverou que estava justificada a majoração da pena em razão da quantidadedas drogas e dos maus antecedentes.
+Registro, por oportuno, que não havia mesmo fundamentação idônea para a negativação dos vetores motivos e consequências, pois o Juízo de primeiro grau apresentou fundamentação genérica.
+Outrossim, prospera a alegação defensiva de que houvereformatio in pejusno caso, pois, em razão da negativação de duas circunstâncias judiciais, a Cortea quomanteve o aumento de 2 (dois) anos de reclusãona primeira fase da dosimetria, ou seja, para cada circunstância judicial, a pena-base foi majorada em 6 (seis) meses. Ocorre que, na sentença condenatória, o Juízo singular havia fixado o referido aumento para quatro circunstâncias judiciais.
+Assim, constata-se que entendimento do Tribunal de origem está em descompasso com a jurisprudência desta Corte Superior de Justiça, fixada no sentido de que, de forma a observar o princípio danon reformatio in pejus, em análise de recurso exclusivo da Defesa, o afastamento do desvalor atribuído a uma circunstância judicial implica redução proporcional da pena-base.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. DOSIMETRIA DA PENA.CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS AFASTADAS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE REDUÇÃO PROPORCIONAL DA PENA-BASE. ILEGALIDADE.REFORMATIO IN PEJUSCONFIGURADA. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, no julgamento de recurso exclusivo da defesa, ao afastar circunstância judicial desfavorável reconhecida na sentença, deverá efetuar a redução proporcional da pena-base, em atenção ao princípio danon reformatio in pejus. Precedentes.
+2. Agravo regimental desprovido."(AgRg no REsp 1.831.774/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/12/2019, DJe 13/12/2019.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PENA-BASE.QUANTUMDE AUMENTO PARA CADA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. OBSERVÂNCIA DO MESMO PATAMAR ESTABELECIDO PELAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora as circunstâncias do delito sejam realmente graves e justifiquem, de fato, o acréscimo da pena-base, não se poderia, em julgamento dehabeas corpus, sopesar somente essa circunstância para justificar a fixação da reprimenda-base no patamar pretendido pelo Ministério Público Federal, sob pena de se agravar oquantumatribuído pelas instâncias ordinárias a cada uma das circunstâncias judiciais e, assim, incorrer-se na inadmissívelreformatio in pejus.
+2. Uma vez que foram excluídas, em instrumento exclusivo da defesa, circunstâncias judiciais erroneamente valoradas pelas instâncias de origem (no caso, a culpabilidade, os motivos e as consequências do crime), deve ser reduzida, como consectário lógico, a pena básica na mesma proporção da que foi estabelecida pelas instâncias ordinárias, pois, do contrário, estar-se-ia agravando o quantum atribuído anteriormente a cada uma das vetoriais.
+3. Agravo regimental não provido."(AgRg no HC 509.241/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019.)
+Passo a refazer a dosimetria da pena.
+Na primeira fase de aplicação da pena, tendo em vista a fundamentação acima exposta - manutenção de duas circunstâncias judiciaisdesfavoráveis(quantidade de entorpecentes e maus antecedentes) -, fixo a pena-base, proporcionalmente, em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+Na segunda etapa da dosimetria,presente apenas a agravante da reincidência, aumento a reprimenda para 7 (sete) anos de reclusão e 700 (setecentos) dias-multa,que torno definitiva, em razão da ausência de atenuantes, causas de aumento ou de diminuição de pena.
+Fica mantido o regime inicial fechado, nos termos do art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal, pois o Acusado é reincidente ehá circunstâncias judiciaisdesfavoráveis.
+Ante o exposto, CONCEDO a ordem dehabeas corpus, para, reformando o acórdão impugnado e a sentença, reduzir a pena do Paciente nos termos explicitados, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE. AFASTAMENTO DO DESVALOR ATRIBUÍDO A DUAS DAS CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS PELO MAGISTRADO SINGULAR. REDUÇÃO PROPORCIONAL DA SANÇÃO BASILAR. NECESSIDADE, SOB PENA DEREFORMATIO IN PEJUS. ORDEM DEHABEAS CORPUSCONCEDIDA.
