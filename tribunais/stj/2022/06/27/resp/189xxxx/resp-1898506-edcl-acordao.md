@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. BASE DE CÁLCULO DO PIS E DA COFINS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC NÃO CARACTERIZADA. FUNDAMENTOS CONSTITUCIONAIS.
+1. Não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A instância de origem não apenas se manifestou integralmente sobre as questões apresentadas pela empresa e pela Fazenda Nacional, como o fez à luz de fundamentos estritamente constitucionais (mais precisamente do Tema 69 do STF). É inviável, portanto, a apreciação do mérito dos Recursos Especiais interpostos por ambas as partes, diante do risco de usurpação de competência do Supremo Tribunal Federal. Precedente: AgInt no AREsp 1.528.999/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 16.9.2019.
+3. Agravo não provido.
+Posteriormente, os Embargos de Declaração foram acolhidos e assim ementados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. EXCLUSÃO DO ICMS-ST DA BASE DE CÁLCULO DO PIS E DA COFINS. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL.
+1. Não se constata a violação apontada aos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido não contém omissão. O Tribunal a quo apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+2. O Superior Tribunal de Justiça entende que o ICMS-ST não pode ser excluído da base de cálculo do PIS e da Cofins devidos pelo substituído, porquanto jamais esteve formalmente incluído na aludida base de cálculo, por não ser receita bruta. Precedentes: AgInt no REsp 1.910.679/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 25.6.2021; AgInt no REsp 1.905.040/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1º.7.2021; AgInt nos EDcl no REsp 1.881.576/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18.3.2021.
+3. Embargos de Declaração acolhidos, com efeitos infringentes, para negar provimento ao Recurso Especial.
+A parte embargante afirma que o acórdão recorrido incorreu em omissão. Aduz (fl. 751, e-STJ):
+Neste cenário, não está claro para a empresa o motivo pelo qual se decidiu, em 13/12/2021, por negar provimento ao recurso especial da empresa, quando que, no momento da afetação da matéria por este e. STJ pelo rito dos recursos repetitivos (07/12/2021), o presente feito se tratava de "processo pendente" (na dicção do art. 1.037, inc. II, do CPC), de modo que não poderia ter tido o seu mérito julgado - mas retornado à origem para aguardar a decisão definitiva a ser proferida no recurso paradigma.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ICMS-ST NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E COFINS. RESP 1.958.265/SP. SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS. DEVOLUÇÃO A ORIGEM.
+1. Observa-se que a questão jurídica, objeto do Recurso Especial, diz respeito à possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da Cofins devidas pelo contribuinte substituído, tema dos Recursos Especiais 1.958.265/SP e 1.896.678/RS, da relatoria do Ministro Gurgel de Faria, submetidos ao rito dos Recursos Repetitivos, conforme decisão da Primeira Seção.
+2. Embargos de Declaração acolhidos para, atribuindo-lhes efeitos infringentes, tornar sem efeito os acórdãos proferidos às fls. 688-692 e 739-745, e-STJ e, em novo exame do Recurso Especial, determinar o retorno dos autos ao Tribunal de origem, com baixa nesta Corte, para o oportuno juízo de conformação com a tese a ser firmada no REsp 1.958.265/SP.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.3.2022.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado concluiu (fls. 739-745, e-STJ):
+A controvérsia consiste em saber se a parte recorrente possui direito à exclusão, da base de cálculo do PIS e da Cofins, do montante correspondente ao ICMS-ST (ICMS por substituição tributária), incidente sobre as mercadorias adquiridas pela parte impetrante, na condição de substituída tributária, destinadas a revenda.
+Inicialmente, não se constata a violação apontada aos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido não contém omissão. O Tribunal a quo apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Em relação à exclusão do ICMS-ST da base de cálculo do PIS e da Cofins, tem razão a parte recorrente ao afirmar que a matéria é de natureza infraconstitucional. Desse modo, conheço do Recurso Especial, quanto a esse ponto, e passo a analisar o seu mérito.
+O Superior Tribunal de Justiça entende que o ICMS-ST não pode ser excluído da base de cálculo do PIS e da Cofins devidos pelo substituído, porquanto jamais esteve formalmente incluído na aludida base de cálculo, por não ser receita bruta.
+No entanto, observa-se que a questão jurídica, objeto do Recurso Especial, diz respeito à possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da Cofins devidas pelo contribuinte substituído, tema dos Recursos Especiais 1.958.265/SP e 1.896.678/RS, da relatoria do Ministro Gurgel de Faria, submetidos ao rito dos Recursos Repetitivos, conforme decisão da Primeira Seção.
+O entendimento do STJ é de que qualquer irresignação que tenha por objeto matéria tratada em Recurso Representativo da Controvérsia deve ser devolvida ao Tribunal de origem a fim de que exerça o juízo de retratação antes da apreciação do respectivo Recurso Especial por esta Corte Superior.
+Ante o exposto, acolho os Embargos de Declaração para, atribuindo-lhes efeitos infringentes, tornar sem efeito os acórdãos proferidos às fls. 688-692 e 739-745, e-STJ e, em novo exame do Recurso Especial, determinar o retorno dos autos ao Tribunal de origem, com baixa nesta Corte, para o oportuno juízo de conformação com a tese a ser firmada no REsp 1.958.265/SP.
+É como voto.
