@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ADENIR PAULO DE BRITO e outrocontra decisão monocrática que não conheceu do recurso especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. INDENIZAÇÃO POR BENFEITORIAS. NORMA FEDERAL TIDA POR VIOLADA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INDENIZAÇÃO POR BENFEITORIAS NO IMÓVEL. DEVIDA. SUPORTE PROBATÓRIO. REEXAME. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, COM MAJORAÇÃO DOS HONORÁRIOS.
+Em suas razões, a agravante sustenta que no debate trazido no recurso especial não é caso de incidência da Súmulas 7 do STJ, pois requer apenas a revaloração das informações constantes do acórdão recorrido.
+Afirma, ainda, quedos fundamentos da decisão agravada, não é objeto da Súmula 284 do STF, pois o debate trazido à baila não há deficiência na sua fundamentação de forma a não permitir a compreensão da controvérsia.(e-STJ fl. 314)
+Requer, ao final, a reconsideração ou a reforma da decisão pela Turma Julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESOBEDIÊNCIA AO COMANDO DO ART. 1.021, § 1.º, DO CPC/2015. SÚMULA 182 DO STJ.
+1. Em obediência ao princípio da dialeticidade, deve a parte agravante
+demonstrar o desacerto da decisão agravada, não se afigurando suficiente a impugnação genérica ao decisum combatido.
+2.Agravo Interno não conhecido.
+VOTO
+Eminentes colegas, o agravo interno não pode ser conhecido.
+Em atenção ao princípio da dialeticidade, "as razões recursais devem impugnar, com transparência e objetividade, os fundamentos suficientes para manter íntegro o decisum recorrido" (AgRg no Ag 1027795/RS, Rel. Min. PAULO FURTADO (Desembargador Convocado do TJ/BA), Terceira Turma, DJ de 18.06.2010).
+Com efeito, no particular, a decisão agravada sustentou que a parte recorrente, conquanto tenha feito menção a diversos dispositivos de lei federal, não indicou, de forma, clara e objetiva, de que modo a legislação invocada teria sido contrariada ou negada a sua aplicação, restando configurado a deficiência de fundamentação, incidindo na espécie, o óbice da Súmula 284 do STF, por analogia.
+Nas razões do presente agravo interno, a parte agravante absteve-se de impugnar especificamente essefundamento, limitando-se a alegar que o debate trazido à baila não há deficiência na sua fundamentação de forma a não permitir a compreensão da controvérsia.(e-STJ fl. 314)
+De outra parte, restou consignado na decisão agravada quea Corte estadual concluiu serincontroversa a realização das benfeitorias e que para ocorrer a imissão na posse do imóvel era necessário o pagamento da indenização conforme apurado pela perícia realizada, mostrando-se, desse modo,que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+Acerca da temática, as razões do agravo interno limitaram-se a discorrer que o debate trazido à baila não importa reexame de matéria fático-probatória, mas sim, uma revaloração de dados explicitamente admitidos na decisão da qual se recorre(e-STJ fl. 313)
+Convém ressaltar, por oportuno, que, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas aos fundamentos do decisum de inadmissão são insuficientes à impugnação.
+Veja-se o entendimento desta Corte quanto ao tema:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+A inobservância do princípio da dialeticidade recursal atrai a incidência do óbice da Súmula 182 desta Corte Superior, assim lavrada:
+Súmula 182/STJ - É inviável o agravo do Art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Desse modo, a teor do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015, a ausência de impugnação específica aos fundamentos da decisão agravada obsta o conhecimento do agravo interno, fazendo incidir, também, a multa prevista no § 4º do referido dispositivo legal, por ser manifestamente inadmissível o agravo assim interposto.
+Nesse sentido, confiram-se os seguintes julgados desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência dos óbices das Súmulas n. 5/STJ e n. 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade dos referidos óbices ou que a tese defensiva não demanda reexame de provas ou nova interpretação de cláusulas contratuais. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório ou de cláusulas contratuais, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa. (AgInt no AREsp 1998557/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2022, DJe 29/04/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE EM COLETIVO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 1022 DO CPC/15. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. ACÓRDÃO RECORRIDO COM BASE EMINENTEMENTE CONSTITUCIONAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação indenizatória. Danos materiais e morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A Corte Local decidiu a controvérsia adotando fundamentação eminentemente constitucional, cujo reexame é vedado sede de recurso especial.
+6. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+7. Agravo interno no agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (AgInt no AREsp 1939744/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+Destarte, o agravo interno não merece ser conhecido.
+Ante o exposto, com base no art. 1.021, § 1º, do CPC/2015, não conheço do presente agravo interno.
+É o voto.
