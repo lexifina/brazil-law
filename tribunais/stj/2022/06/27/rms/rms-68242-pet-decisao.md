@@ -1,0 +1,16 @@
+DECISÃO
+Vistos.
+JOICE MOREIRA RODRIGUES apresenta petição, àfl. 565e, alegando restar claro "que o impetrado vem resistindo ao cumprimento das decisões Judiciais, o que vem ocorrendo com outros candidatos subjudice também, em que a PMERJ tem negado a realizar a matrícula no curso de formação, alegando que a decisão judicial somente abarca a participação nas etapas".
+Requer por cautela, seja determinada à " ..  parte Impetrada se abstenha de efetuar qualquer ato que impeça a Impetrante de prosseguir em sua carreira em razão do critério etário" (fl. 566e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A Requerente não apresentou nenhuma comprovação de que o Impetrado estaria descumprido a decisão proferida em caráter liminar para que " .. a impetrante continue participando do concurso público para admissão ao Curso de Formação de Oficiais (CFO) do Quadro de Oficiais Policiais Militares (QOPM) da Polícia Militar do Estado do Rio de Janeiro (Edital n. 01, de 25.6.2021), não podendo ser excluída em razão do critério etário, sem prejuízo de ulterior deliberação pelo Relator do feito" (fl. 396e).
+Além disso, tal decisão foi confirmada, em caráter definitivo, no decisumproferido às fls. 416/423e, contra o qual não foi interposto nenhum recurso, de modo a Requerente carece de interesse de pleitear nova prestação jurisdicional confirmando o direito dado.
+Posto isso,com fundamento no art. 932, III, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, indefiro o pedido de fls. 565/568e.
+Obedecidas as formalidades legais, certifique-se o trânsito em julgado e baixem-se os autos à origem.
+Publique-se e intimem-se.
