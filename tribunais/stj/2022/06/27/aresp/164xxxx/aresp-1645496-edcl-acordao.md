@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 657/660) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. AÇÃO CAUTELAR FISCAL. PROVAS DOS AUTOS. PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.1. O Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.2. O Tribunal de origem, ao decidir a controvérsia, afirmou que os documentos juntados tardiamente pela União não tiveram o condão de influenciar decisivamente na valoração do acervo de provas que foram carreadas aos autos originários, e que todos os corréus tiveram oportunidade de se manifestar sobre tais documentos. Asseverou ainda que o indeferimento da prova testemunhal não representa cerceamento de defesa, uma vez que concluiu que era desnecessária ao deslinde do feito.3. A jurisprudência desta Corte é pacífica no sentido de que a análise acerca da possível necessidade de produção de provas nos autos, bem como da suposto cerceamento de defesa, são questões que demandam, inevitavelmente, o revolvimento do acervo fático e probatório, o que é inviável a teor da Súmula 7/STJ.4. Agravo interno não provido.
+O embargantesustenta, em suma, que:
+Inicialmente, observa-se que o V. Acórdão embargado contém simples erro material, que merece ser corrigido.
+Com efeito, no relatório da decisão colegiada embargada, foi transcrita ementa relativa a processo outro (fl. 651 e-STJ), vez que não guarda congruência com a ementa da decisão monocrática atacada pelo agravointerno.
+(..)
+No agravo interno, aduziu o ora Embargante que a ação cautelar também contra ele ajuizada não fora julgada em primeiro grau de jurisdição, ou seja, não foi prolatada sentença, dai a total impossibilidade de se afirmar que "os documentos juntados tardiamente pela União não tiveram o condão de influenciar decisivamente na valoração do acervo de provas que foram carreados aos autos originários".
+Também asseverou o Embargante, no agravo interno, que para chegar-se à conclusão de que improcede o argumento inerente à ausência de influência decisiva dos documentos juntados tardiamente, não é necessário, por óbvio, incursionar pela seara fático probatória, na medida em que o recurso especial por ele interposto, o foi contra decisão colegiada proferida pelo Egrégio Tribunal a quo, em agravo de instrumento, tirado contra decisão proferida em primeiro grau, através da qual foi, entre outros, declarado o encerramento da instrução, antes, portanto, da prolação de sentença.
+Tais argumentos, data máxima vênia, nãoforamapreciados pelo V. Acórdão embargado, daí a omissão de que padece tal decisum.
+Requersejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. ERRO MATERIAL. SANEAMENTO. EMBARGOS DE DECLARAÇÃO PARCIALMENTEACOLHIDOS,SEM EFEITOS INFRINGENTES.
+1. Verificada a existência de erro material no acórdão embargado, cumpresanar o vício.
+2. No mais,não havendo omissão no julgado, merecem ser rejeitados os embargos de declaração no ponto, sobretudo quando contêm elementos meramente impugnativos.
+3. Embargos de declaração acolhidos em parte apenas para sanarerro material, sem efeitos infringentes.
+VOTO
+O recurso merece parcial acolhida.
+Consoante dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+No caso dos autos, cumpre sanar erro material no relatório referente à citação correta da ementa da decisão recorrida.Assim, o relatório deve ser lido da seguinte forma:
+Trata-se de agravo interno interposto contra decisão ementada nos seguintes termos:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. AÇÃO CAUTELAR FISCAL. PROVAS DOS AUTOS. PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante alega que o acórdão a quo não indicou os motivos jurídicos pelos quais a prova testemunhal postulada seria desnecessária, a despeito de instado a tanto nos embargos de declaração. Aduz ainda não incidir na espécie o óbice sumular nº 7/STJ, uma vez que a alegada vulneração dos artigos 396, 397 e 400 do CPC/73, não implica em qualquer revolvimento de fatos ou provas.
+Requer a reconsideração do decisum ou o julgamento do recurso pela Turma.
+Não foi apresentada impugnação pela ora agravada.
+No mais, no acórdão embargado, o agravo interno não foi provido nos seguintes termos:
+Quanto ao mérito, o Tribunal de origem, ao decidir a controvérsia, afirmou que os documentos juntados tardiamente pela União não tiveram o condão de influenciar decisivamente na valoração do acervo de provas que foram carreadas aos autos originários, e que todos os corréus tiveram oportunidade de se manifestar sobre tais documentos. Asseverou ainda que o indeferimento da prova testemunhal não representa cerceamento de defesa, uma vez que concluiu que era desnecessária ao deslinde do feito.
+Nesse contexto, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado é necessário o reexame do conjunto fático-probatório, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+Com efeito, a jurisprudência desta Corte é pacífica no sentido de que a análise acerca da possível necessidade de produção de provas nos autos, bem como da suposto cerceamento de defesa, são questões que demandam, inevitavelmente, o revolvimento do acervo fático e probatório, o que é inviável a teor da Súmula 7/STJ. A propósito:
+Como se constata, o aresto embargado contém fundamentação suficienteparademonstrar a incidência da Súmula 7/STJ à espécie, tendo em vista que a jurisprudência desta Corte é pacífica no sentido de que a análise acerca da possível necessidade de produção de provas nos autos, bem como dosuposto cerceamento de defesa, demanda, inevitavelmente, o revolvimento do acervo fático e probatório.
+Desse modo, a questão foi apreciada de modo adequado, e o meroinconformismo com a conclusão do julgado não enseja a utilização da via deembargos de declaração, que é limitada às hipóteses elencadas no art.1.022 do CPC/2015.
+Ademais, conforme entendimento pacífico desta Corte, "não é o órgãojulgador obrigado a rebater, um a um, todos os argumentos trazidos pelaspartes em defesa da tese que apresentaram. Deve apenas enfrentar ademanda, observando as questões relevantes e imprescindíveis à suaresolução" (REsp 1.719.219/MG, Rel. Ministro Herman Benjamin, SegundaTurma, julgado em 19/4/2018, DJe 23/5/2018).
+Diante do exposto, acolho, em parte, os embargos de declaração, sem aatribuição de efeito infringente.
+É o voto.
