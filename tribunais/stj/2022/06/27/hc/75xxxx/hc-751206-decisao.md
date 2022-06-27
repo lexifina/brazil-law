@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RON ELLE ROBERTO BATISTA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Geraisno julgamento da Apelação n. 1.0472.16.002310-8/001.
+Na hipótese, aimpetrante aponta constrangimento ilegal na negativa de recorrer em liberdade,na ausência de contemporaneidade no decreto preventivo, na nulidade das interceptações telefônicas, na nulidade por inobservância das disposições do art. 400, do Código de Processo Penal, na negativa de aplicação da pena-base do delito de tráfico no mínimo legal, nanegativa de incidência da atenuante da confissão, na negativa de aplicação da pena mínima do crime do art. 121.850/13 e não aplicação da progressão de regime de pena, em razão da condenação comoincurso nas sanções do art. 33, caput, da Lei 11.343/06 e do art.2º, caput, da Lei 12.850/13, ficando a reprimenda final, ante a incidência de concurso material (art. 69 do Código Penal), concretizada em doze (12) anos, quatro (04) meses e vinte e dois (22) dias de reclusão, em regime fechado, além do pagamento de oitocentos e setenta e sete (877) dias-multa, e se requer, em caráterliminar e no mérito, a concessão da ordem para que seja acolhidos todos os pontos acima delineados.
+É o breve relatório.
+Decido.
+O art. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente,ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Nesse cenário, o presente recurso se trata dereiteração de pedido,uma vez que a suposta ilegalidade emanada do v. acórdão proferido na apelação n. 1.0472.16.002310-8/001 já está sendo apreciada por esta Corte Superior noHabeas Corpus n. 733.373/MG, que atualmente encontra-se com vista ao Ministério Público para parecer.
+Ante o exposto,indefiro liminarmenteo presentehabeas corpus.
+P. e I
