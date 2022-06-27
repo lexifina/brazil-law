@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito de competência com pedido de liminar, em que é suscitante o JUÍZO DA 10ª VARA DO TRABALHO DE GOIÂNIA - GOe suscitado o JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE GOIÂNIA - GO, onde tramita a recuperação judicial.
+O Juízo laboral suscitou o conflito com base nos seguintes fundamentos (e-STJ fl. 351):
+Por meio da petição de f. 376, o Exequente apresentoudecisão proferida pelo Juízo Universal, às fls. 377/380, nãoautorizando a habilitação do seu crédito sob o fundamento de que setrata de crédito de natureza extraconcursal. Pugna peloprosseguimento do feito.
+Pois bem.
+É entendimento deste Juízo que a competência para aexecução do crédito trabalhista reconhecido em desfavor de empresaque figura em processo de recuperação judicial é do JuízoFalimentar, enquanto não encerrada a recuperação. Isso porque a Lei11.101/2005 manteve o regime de concentração das execuções no JuízoUniversal da falência e da recuperação judicial.
+Por sua vez, a jurisprudência moderna do STJ tementendido que, como forma de preservar tanto o direito creditórioquanto a viabilidade do plano de recuperação judicial, o controledos atos de constrição patrimonial relativos ao créditosextraconcursais deve prosseguir no Juízo Universal, limitando-se acompetência desta Especializada à apuração do crédito, conforme jádeliberou este Juízo, às fls. 367/369.
+O pedido de recuperação da interessada PASTIFÍCIO ARAGUAIA LTDA. foi deferidopelaJustiça comum do Estadode Goiás em 20/7/2011.
+Ao prestar informações, relatou o Juízo comum que(e-STJ fls. 393/394):
+Com efeito, para se aferir a sujeição do crédito ao juízoda recuperação judicial de parte executada, mostra-senecessário perquirir a data em que fora constituído: sepretérito à data do pedido de recuperação, deverão ser objetode habilitação naquele feito; se posterior, presente a naturezaextraconcursal. Nesse sentido, o caput do art. 49 da Lei n.11.101/05 (Lei de Recuperação Judicial e Falências): Estãosujeitos à recuperação judicial todos os créditos existentes nadata do pedido, ainda que não vencidos.
+Já a data dos créditos é vista a partir do seu fato geradore não do trânsito em julgado da sentença que a reconheceuconsoante entendimento fixado pelo c. STJno julgamento do Tema nº 1.051, verbis: Para o fim desubmissão aos efeitos da recuperação judicial, considera-seque a existência do crédito é determinada pela data emque ocorreu o seu fato gerador.
+Constata-se, pois, que a habilitação de Igor JunioPereira somente se operou em 03.03.2020, tendo como fatogerador constituído após o deferimento da recuperaçãojudicial. Trata-se, portanto, de crédito extraconcursal.
+Após aproximadamente oito anos de sua concessão, emmovimentação de n. 756, de 4.3.2021 foi declarado oencerramento da recuperação judicial. Fase atual doprocesso: em diligências.
+Parecer do Ministério Público Federal pela competência doJuízo universal (e-STJ fls. 397/403).
+É o relatório.
+Decido.
+Inicialmente, seguindo a orientação da Súmula n. 568/STJ, o relator pode decidir monocraticamente, de plano, o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse, precisamente, o caso dos autos. Existem decisões unipessoais, em conflitos de competência envolvendo recuperações judiciais, falências e execuções trabalhistas, da lavra de praticamente todos os ministros integrantes da Segunda Seção do STJ. Confiram-se: CC n. 121.327/DF, Ministra NANCY ANDRIGHI, DJe 2/5/2012, CC n. 102.613/SP, Ministro MASSAMI UYEDA, DJe 7/10/2011, CC n. 118.574/SP, Ministro SIDNEI BENETI, DJe 27/10/2011, CC n. 118.524/SP, Ministro LUIS FELIPE SALOMÃO, DJe 4/5/2012, CC n. 120.454/SP, Ministra ISABEL GALLOTTI, DJe 30/4/2012, CC n. 116.410/SP, Ministro RICARDO VILLAS BÔAS CUEVA, DJe 27/4/2012, e CC n. 120.829/RJ, Ministro MARCO BUZZI, DJe 3/5/2012.
+Busca-se fixar o juízo competente para apreciar atos executivos em processo trabalhista ajuizado contra PASTIFÍCIO ARAGUAIA LTDA., em recuperação judicial, tratando-se de créditos extraconcursais.
+OJUÍZO DE DIREITO DA 21ª VARA CÍVEL DE GOIÂNIA - GO, responsável pelo processo recuperacional, noticiou o encerramento da recuperação judicial(e-STJ fl. 394).
+Nesse contexto, o crédito trabalhista deve prosseguir na Justiça Especializada.A propósito:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ATOS DE CONSTRIÇÃO. RECUPERAÇÃO JUDICIAL. ENCERRAMENTO. TRÂNSITO EM JULGADO. AUSÊNCIA DE DECISÕES CONFLITANTES. DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção do STJ consolidou o entendimento de que, uma vez iniciada a recuperação judicial, com a determinação da suspensão de todas as ações e execuções em face da devedora, ou aprovado o plano de recuperação, fundamental se mostra que eventuais atos constritivos dos ativos da sociedade em recuperação sejam submetidos ao crivo do juízo universal, sob pena de se esvaziar o propósito da recuperação.
+2. Todavia, encerrada a recuperação judicial da empresa, as execuções singulares cujos créditos não foram habilitados no processo de soerguimento devem retornar a seus respectivos juízos para o devido prosseguimento e satisfação de seus credores.
+3. Na hipótese dos autos o recurso especial da empresa recuperanda, interposto contra a decisão que declarou o encerramento da recuperação judicial, não foi admitido, ensejando a interposição de agravo em recurso especial que não foi provido pelo STJ. O recurso extraordinário também não foi admitido, ocorrendo o trânsito em julgado do acórdão proferido no agravo interno no agravo em recurso extraordinário processado nesta Corte Superior.
+4. Agravo regimental não provido.
+(AgRg no CC 142.082/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 17/3/2020, DJe 19/3/2020.)
+Diante do exposto, CONHEÇO do presente conflito negativo de competência para DECLARAR COMPETENTE o JUÍZO DA 10ª VARA DO TRABALHO DE GOIÂNIA - GO.
+Publique-se e intimem-se.
