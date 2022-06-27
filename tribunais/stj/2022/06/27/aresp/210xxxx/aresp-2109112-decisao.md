@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por Boa Vista Serviços S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Quinta Turma Julgadora da Sexta Câmara Cível do Tribunal de Justiça do Estado de Goiás negou provimento à apelação interposta pela ora insurgente, conforme ementa abaixo colacionada (e-STJ, fl. 160):
+APELAÇÃO CÍVEL. AÇÃO DE CANCELAMENTO DE NEGATIVAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO NO CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. NÃO COMPROVADA. INVALIDADE DA COMUNICAÇÃO POR CORREIO ELETRÔNICO (E-MAIL). INDENIZAÇÃO DEVIDA. ÔNUS SUCUMBENCIAIS. MANTIDOS. I. Cabe ao órgão mantenedor do cadastro de proteção ao crédito a notificação do devedor antes de proceder a inscrição do seu nome (súmula nº 359/STJ), sendo dispensável o aviso de recebimento (AR) (súmula nº 404/STJ), afigurando-se suficiente a comprovação do envio ao endereço fornecido pelo credor (REsp. nº 1083291/RS). II. Não tendo a apelante comprovado a notificação do consumidor pelos Correios, impositivo o dever de indenizar, certo não considerar-se válida a comunicação através do correio eletrônico (e-mail). III. Da análise da situação em concreto, deve-se buscar uma sanção de modo a compensar o constrangimento suportado pelo autor que não seja excessiva a ponto de provocar o seu enriquecimento sem causa, tampouco ínfima a ponto de não inibir que o ofensor reitere a prática repudiada. Assim e em observância aos princípios da proporcionalidade e razoabilidade; verifica-se que o valor fixado pelo magistrado a quo não comporta redução. IV. Evidenciada a sucumbência recursal diante do desprovimento do recurso, mister a majoração dos honorários advocatícios. RECURSO CONHECIDO, MAS DESPROVIDO.
+Nas razões do apelo especial, a recorrente indicou divergência jurisprudencial e ofensa ao art. 43, § 2º, do CDC.
+Afirmou que teria notificado previamente o devedor, por correio eletrônico, acerca da sua inscriçãoem cadastro de inadimplentes, não podendo ser responsabilizada pela inexatidão do e-mail fornecido pela credora.
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+O Tribunal de origem, ao analisar a controvérsia, entendeu que, para cumprimento da legislação consumerista, seria indispensável a prévia notificação do devedor, pelos Correios, acerca de sua inscrição no cadastro de inadimplentes, sendo inválida a comunicação por e-mail.
+A propósito, confira-se o seguinte excerto do aresto estadual que tratou sobre o tema (e-STJ, fls. 161-164):
+Cuida-se, como visto, de APELAÇÃO CÍVEL interposta por BOA VISTA SERVIÇOS S/A - SCPC contra sentença proferida na 1ª Vara Cível da Comarca de Quirinópolis, pelo MM. Juiz de Direito, Dr. Yvan Santana Ferreira, nos autos da Ação de Cancelamento de Negativação c/c Indenização por Danos Morais ajuizada por VITOR CORRÊA FERNANDES em desfavor da ora apelante.
+Nas razões recursais, a apelante defende, em síntese, a validade da notificação do devedor por e-mail cientificando-o sobre o registro do seu nome nos órgãos de proteção ao crédito, requerendo subsidiariamente a minoração do quantum indenizatório.
+Vejamos. Nos termos dos arts. 43, caput e §2º e 44 do CDC, a abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele, in verbis:
+( )
+A isso acrece-se o entendimento consolidado pelo Superior Tribunal de Justiça no julgamento do REsp nº 1 083.291/RS, assentando a tese de que a inscrição nos cadastros de inadimplentes reclama prévia notificação do devedor bastando a comprovação da postagem da correspondência ao endereço fornecido pelo credor, sendo desnecessário aviso de recebimento.
+( )
+Não por outro motivo a Corte Cidadã condensou seu entendimento jurisprudencial sobre o tema no preceito sumulado 359 do STJ, assim enunciado: "Cabe ao órgão mantenedor do cadastro de proteção ao crédito a notificação do devedor antes de proceder à inscrição".
+No caso em tela, verifica-se que o magistrado a quo constatou que não houve a notificação prévia do consumidor acerca da anotação de seus dados no cadastro de inadimplentes, porquanto não comprovada a postagem da correspondência cientificando-o da restrição - o que de fato não aconteceu.
+De fato, muito embora a apelante tenha comprovado que encaminhou e-mail para o apelado, deixou de demonstrar que enviou a notificação também para o seu endereço, promovendo a restrição cadastral de seu nome em descompasso com a norma consumerista, sujeitando-se assim ao dever de indenizá-lo.
+( )
+Portanto, não comprovando a apelante a prévia notificação do consumidor pelos Correios antes de negativá-lo em seus registros, impositivo o dever de indenizar.
+Nas razões do apelo especial, contudo, a insurgente não impugnou especificamente o referido fundamento, limitando-se a alegar que a responsabilidade pela exatidão do e-mail utilizado para a notificação seria da credora, o que atrai a incidência dos enunciados n. 283 e 284 da Súmula do STF.
+Nessa linha:
+SERVIDOR PÚBLICO. EXECUÇÃO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. REAJUSTE DE 3,17%. COMPENSAÇÃO. POSSIBILIDADE. DESRESPEITO À COISA JULGADA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.960.867/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. NECESSIDADE DE NOTIFICAÇÃO PRÉVIA. INVALIDADE DA COMUNICAÇÃO POR E-MAIL. FUNDAMENTO INATACADO.SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
