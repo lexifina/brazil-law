@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto porTHIAGO FERNANDES DOS SANTOS DA ROSA contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n.0003237-20.2016.8.26.0022.
+Consta nos autos que o Agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06, às penas de 7 (sete)anos de reclusão, em regime inicial fechado, e 700 (setecentos) dias-multa (fls. 192-198).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 257-268).
+Nas razões do recurso especial, aponta-se ofensa aos arts.202, 207, 563 e 566do Código de Processo Penal, sob o argumento de que houve cerceamento de defesa. A esse respeito, sustenta-se que a oitiva do corréuCássio Henrique Pedroso Moraes da Silva,arroladotempestivamente pela Defesa e cuja punibilidade foi extinta em razão da prescrição, foi negada pelo Juízo singular sem motivação idônea.
+O recurso especial não foi admitido pelo Tribunal de origem em razão dos óbices das Súmulas n. 7/STF e 284/STF (fls. 309-310).
+O Ministério Público Federal opinou pelo conhecimento do agravo para que não seja conhecido o recurso especial (fl. 345).
+É o relatório. Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos de admissibilidade, razão pela qual passo à análise do recurso especial (fls. 356-357).
+No caso em apreço, extrai-se da ata de audiência que o Recorrente não suscitou a necessidade de oitiva do Corréu durante aquele ato processual nem arguiu a ocorrência de nulidades nas alegações finais orais (fls. 182-186). Desse modo, nos termos do art. 571, inciso II, do Código de Processo Penal, encontra-se preclusa a alegação de nulidade pretensamente ocorrida na instruçãoprocessual e não arguida nas alegações finais.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS.  .. CONTRABANDO E DESOBEDIÊNCIA. INDEFERIMENTO DA OITIVA DE TESTEMUNHA. NULIDADE NÃO ARGUIDA EM ALEGAÇÕES FINAIS. PRECLUSÃO. NEGATIVA DE PRODUÇÃO DA PROVA DEVIDAMENTE JUSTIFICADO. COAÇÃO ILEGAL INEXISTENTE.
+1. De acordo com o artigo 571, inciso II, do Código de Processo Penal, as nulidades ocorridas no decorrer da ação penal devem ser arguidas até as alegações finais, sob pena de preclusão.Precedentes.
+2. Na hipótese em apreço, verifica-se que não obstante tenha insistido na oitiva de uma das testemunhas em audiência, a defesa não impugnou o indeferimento da colheita de seu depoimento em alegações finais, suscitando a mácula em questão apenas por ocasião da interposição do recurso de apelação, o que revela a preclusão do exame do tema.
+3. Ao magistrado é facultado o indeferimento, de forma fundamentada, do requerimento de produção de provas que julgar protelatórias, irrelevantes ou impertinentes, devendo a sua imprescindibilidade ser devidamente justificada pela parte. Doutrina. Precedentes do STJ e do STF.
+ .. " (AgRg no HC n. 502.210/PR, Rel.Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/05/2019, DJe 14/05/2019.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LESÃO CORPORAL. NULIDADE NA OITIVA DE TESTEMUNHA. PRECLUSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO. RECURSO IMPROVIDO.
+1. Eventuais nulidades verificadas durante o processo deverão ser arguidas por ocasião das alegações finais, nos termos do art. 571, II, do Código de Processo Penal. Precedentes.
+2. Não se constata violação ao art. 619, CPP, quanto o acórdão recorrido enfrentou todos os pontos relevantes ao deslinde da controvérsia, adotando, contudo, solução jurídica contrária aos interesses dos recorrentes. Ausente, portanto, negativa de prestação jurisdicional.
+3. Existindo no arcabouço probatório provas produzidas durante a fase inquisitorial e também judicial, ambas harmônicas e servindo para embasar o édito condenatório, não há que se falar em violação art. 155, CPP.
+4. A circunstância do emprego de material explosivo ou meio que gera perigo comum, por não configurar elementar do tipo de lesão corporal, pode caracterizar agravante nos termos do art. 61, II, d, CP.
+5. Agravo regimental improvido."(AgRg no REsp n. 1.525.390/SC, Rel.Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018, sem grifos no original.)
+Ademais, a ausência de menção à necessidade de oitiva do Corréunas alegações finais reforçaa conclusão do Tribunal de origem no sentido de que não houve a demonstração de prejuízo concreto à Defesa (fl. 260), inclusive porque as declarações extrajudiciais do Corréu foram examinadas pela Corte estadual, nos seguintes termos:
+"Já o coabordado Cassio Henrique Pedroso Morais da Silva, em solo policial, disse que, na data dos fatos, ao encontrar com o acusado, a quem conhece de vista, na via pública, foram abordados pelos guardas municipais. Indagado, disse ter adquirido os eppendorfs de terceiros pela monta de R$20,00(fls. 4).
+A despeito da tentativa do usuário de corroborar a escusa do réu, tal conduta não causa surpresa, posto que, não raramente, os usuários sentem-se amedrontados pela possibilidade de represálias." (fl. 262, sem grifos no original.)
+Assim, uma vez que as declarações do Corréu foram examinadas, embora refutadas pelo Tribunal de origem, não se extrai a existência de prejuízo concreto à Defesa na ausência de sua oitivajudicial. Portanto, conforme a jurisprudência desta Corte Superior, "oreconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief)" (AgRg no AREsp n. 1.931.622/GO, Rel.Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2021, DJe 27/10/2021).
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INDEFERIMENTO DE OITIVA DE CORRÉU. NULIDADE NÃO ARGUIDA EM ALEGAÇÕES FINAIS. PRECLUSÃO. AUSÊNCIA DE EFETIVO PREJUÍZO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
