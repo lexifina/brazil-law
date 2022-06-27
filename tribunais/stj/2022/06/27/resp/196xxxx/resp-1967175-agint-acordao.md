@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial interpostocom fundamento no art. 105, III,a e c, da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. BENEFÍCIOS FISCAIS DE ICMS (REDUÇÃO DA BASE DECÁLCULO). BASE DE CÁLCULO DO IRPJ E DA CSLL. EXCLUSÃODESCABIDA. Não se excluem das bases de cálculo do IRPJ e da CSLL benefícios fiscais de redução da base de cálculo de ICMS. A conclusão do Superior Tribunal de Justiça sobre os créditos presumidos de ICMS não pode ser generalizada de forma a abarcar todos os benefícios fiscais de ICMS.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Afirma o Relator que "Enquanto os créditos presumidos, em que pese não constituam renda ou lucro, são contabilizados efetivamente como entradas, o mecanismo de redução da base de cálculo do ICMS, no caso, funciona como renúncia parcial"-isso não foi enfrentado por esse Recorrente. Contudo, nota-se que no Recurso Especial interposto a parte além de indicar tais situações através de um quadro comparativo de divergência, trouxe ainda abaixo considerações acerca da divergência, o qual reprisa-se novamente e frisa-se: ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. CONTRIBUIÇÕES. CONTRIBUIÇÕES SOCIAIS. CONTRIBUIÇÃO SOCIAL SOB O LUCRO LÍQUIDO. IRJP. CSLL. BASE DE CÁLCULO DO ICMS.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF.
+I - Na origem, trata-se de mandado de segurança contra ato do Delegado da Receita Federal de Joaçaba, a União e a Fazenda Nacionalobjetivando reconhecimento dailegalidade da exigência da IRPJ e CSLL sobre os valores concedidos a título de benefício e incentivo fiscal de ICMS - redução da base de cálculo promovida pelo Estado de Santa Catarina por meio do art. 9º, I, do RICMS-SC, o qual recebe o Convênio n. 52/91. Na sentença a segurança foi concedida. No Tribunala quo, a sentença foi reformada, no sentido de não se excluir das bases de cálculo do IRPJ e da CSLL benefícios fiscais de redução da base de cálculo de ICMS.
+II - Embora a Corte de origem tenha reconhecido, em consonância com a jurisprudência do STJ (EREsp n. 1.517.492/PR), que os créditos presumidos de ICMS não compõem a base de cálculo do IRPJ e da CSLL, não equipara essa modalidade de incentivo à que defende a parte ora recorrente. A diferença consiste, exatamente,quanto ao efeito que produzem nas receitas da empresa. Enquanto os créditos presumidos, em que pese não constituam renda ou lucro, são contabilizados efetivamente como entradas, o mecanismo de redução da base de cálculo do ICMS, no caso, funciona como renúncia parcial.
+III - Essa distinção, crucial, na fundamentação do acórdão, não foi devidamente enfrentada nas razões recursais, de modo que não foi atendido o princípio da dialeticidade. Nesse contexto, o conhecimento do recurso especial encontra empecilho no entendimento contido nas Súmulas n. 283 e 284 do STF.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Embora a Corte de origem tenha reconhecido, em consonância com a jurisprudência do STJ (EREsp n. 1.517.492/PR), que os créditos presumidos de ICMS não compõem a base de cálculo do IRPJ e da CSLL, não equipara essa modalidade de incentivo à que defende a parte ora recorrente. A diferença consiste,exatamente, quanto ao efeito que produzem nas receitas da empresa. Enquanto os créditos presumidos, em que pese não constituam renda ou lucro, são contabilizados efetivamente como entradas, o mecanismo de redução da base de cálculo do ICMS, no caso, funciona como renúncia parcial.
+Essa distinção, crucial, na fundamentação do acórdão, não foi devidamente enfrentada nas razões recursais, de modo que não foi atendido o princípio da dialeticidade. Nesse contexto, o conhecimento do recurso especial encontra empecilho no entendimento contido nas Súmulas n. 283 e 284 do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
