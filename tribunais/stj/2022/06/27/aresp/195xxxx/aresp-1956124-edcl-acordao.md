@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração no agravo interno no agravo em recurso especialopostos pela CALTECH ENGENHARIA LTDAREFORMAS LTDA - EPP contra acórdão assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA DO INSS. EMPREGADORA E EMPRESA PRESTADORA DE SERVIÇOS. NEGLIGÊNCIA. CONSTATAÇÃO. RESPONSABILIDADE DA EMPRESA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.1- O Tribunal a quo, soberano na análise do conjunto probatório constatou a negligência da empresa, no caso, quanto às normas padrão de segurança e higiene do trabalho, de forma que a pretensão encontra óbice na Súmula 7/STJ.2- Agravo interno não provido.
+Nos aclaratórios, afirma o embargante ser o aresto omissoe contraditório, porquanto não há falar emimpossibilidade de reexame de prova, no que toca a aferição de negligência do empregador; tampouco foi tratado o tema da nulidade no julgamento virtual quanto à análise da admissibilidade do recurso especial sobre acórdão diverso dos autos e a sobreposição de prazos para o julgamento virtual.
+É o breve relatório, decido.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Argumentos apresentados nos embargos traduzem repetição daqueles já apresentados no recurso de agravo interno. Nítida pretensão da parte embargante de provocar o rejulgamento da causa. Impossibilidade.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos, hipótese não presente no vertente caso.
+Isso porque, todos os argumentos apresentados nos aclatórios, foram apresentados no recurso antecedente, que, por sua vez, confirmou a decisão singular. Portanto, infere-se, pois,das razões dos aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+A propósito, cita-se o seguinte trecho da decisão que examinou a controvérsia apontada como omissa:
+Com efeito, verifica-se não ter ocorrido ofensa aos artigos 7º, 216, 224, § 1º do CPC/2015, tampouco comporta provimento a alegação de nulidade em razão do julgamento virtual em detrimento do presencial. Referida hipótese, por si só, não é capaz de caracterizar cerceamento de defesa diante na não viabilidade da sustentação oral quando solicitada. Isso porque a adoção da atual sistemática de julgamentos, quando o caso, de forma virtual, além de encontrar respaldo legal, mostra-se necessária, como protocolo de segurança sanitária, nesse momento de distanciamento social. Nesse sentido: AgRg no RMS 63.567/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/08/2021, DJe 16/08/2021)
+E, ainda que assim não fosse, reitera-se o entendimento assente nesta Corte Superior de Justiça que, em obediência ao princípio pas de nullité sans grief, não se declara nulidade do ato processual se dele não resultar efetivo prejuízo para a parte que o alega. A simples afirmação de ocorrência de prejuízo, não atende, pois, o requisito em questão.
+A questão principal central da demanda consiste em saber se a ação regressiva prevista no artigo 120 da Lei 8.213/1991 corresponde a um bis in idem imposto à empresa empregadora, considerando o recolhimento do seguro de acidente do trabalho -SAT- previsto no artigo 22 da Lei 8.213/1991 e se há prova da negligência da empresa agravante, para que lhe seja imputada solidariedade na indenização regressiva ao INSS, conforme artigo 120 da Lei 8.213/1991.
+O STJ possui jurisprudência uníssona e orientadora no sentido de que a Contribuição para o SAT não exime o empregador da sua responsabilização por culpa em acidente de trabalho, conforme artigo 120 da Lei 8.213/1991
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração. Fica a parte advertida que eventual interposição de recurso protelatório, dará ensejo a aplicação de multa.
+Ante o exposto, rejeitos os embargos declaratórios
