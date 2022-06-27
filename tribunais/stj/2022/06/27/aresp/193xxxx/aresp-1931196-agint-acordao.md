@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/06/2022 a 27/06/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+PIVETA ASSUNÇÃO STRUT LTDA. (PIVETA) ajuizou ação revisional contra BANCO SAFRA S.A. (BANCO SAFRA), apontando ilegalidades em contratos bancários.
+Em primeira instância, o pedido foi julgado improcedentepara condenar PIVETA ao pagamento das custas processuais e honorários advocatícios, estes fixados em 10% sobre o valor da causa atualizado (e-STJ, fls. 275/299).
+Os embargos de declaração opostos por PIVETA, foram rejeitados (e-STJ, fls. 304/305).
+A apelação interposta por PIVETA não foi provida pelo Tribunal de Justiça de Mato Grosso do Sulnos termos do acórdão assim ementado:
+EMENTA- APELAÇÃO CÍVEL- REVISIONAL DE CONTRATO - SENTENÇA CITRA PETITA- AFASTADA - PRESSUPOSTOS PROCESSUAIS INDISPENSÁVEIS AO AJUIZAMENTO DA AÇÃO- INDIVIDUAÇÃO DO DOCUMENTO OU DA COISA - ÔNUS DO AUTOR - RECURSO NÃO PROVIDO. Não se revela citra petita a sentença que deixa de apreciar matéria da qual a parte não se desincumbiu de comprovar minimamente sua existência. É do autor o ônus de provar a existência dos pressupostos processuais indispensáveis à propositura da ação, individuando, tão completa quanto possível, os documentos que dizem respeito ao próprio objeto da demanda (e-STJ, fl. 374).
+Os embargos de declaração opostos por PIVETA foram rejeitados (e-STJ, fls. 413/416).
+Irresignada, PIVETA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts. 141 e 492 do NCPC, 6º, VIII, do CDC, ao sustentar que (1) houve julgamento citra petita, visto que não foram analisados todos os contratos cuja revisão foi requerida na petição inicial; (2) pleiteou a revisão de contratos de abertura de conta corrente, desconto de créditos, cédulas de crédito, renegociações e empréstimos, demonstrando números de contratos das operações a que teve acesso momentâneo; (3) BANCO SAFRA não demonstrou qualquer fato impeditivo, modificativo ou extintivo do direito de PIVETA, nem sequer negando as contratações, apenas afirmando que não localizou todos os contratos; (4) é possível a inversão do ônus da prova em favor do consumidor; e (5) caso se entenda não haver mais prova, pleiteia o julgamento da causa, nos termos dos arts. 400 e 1.013, § 3º, do NCPC, no que tange aos juros remuneratórios, capitalização de juros, comissão de permanência, tarifas bancárias, nulidade das renegociações e repetição de valores (e-STJ, fls. 419/455).
+Foram apresentadas as contrarrazões (e-STJ, fls. 505/517).
+O apelo nobre não foi admitido em virtude da incidência das Súmulas nºs 7 do STJ e 282 do STF (e-STJ, fls. 519/521).
+Nas razões do agravo em recurso especial, PIVETA afirmou que não incidem os óbices sumulares (e-STJ, fls. 523/552).
+Foi apresentada contraminuta (e-STJ, fls. 556/560).
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação às Súmulas nºs 7 do STJ e 282 do STF (e-STJ, fls. 572/607).
+Nas razões do agravo interno, PIVETA defendeu que impugnou os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 572/607).
+Não foi apresentada impugnação.
+O agravo interno foi providopara reconsiderar a decisão anteriore, em novo exame, o agravo foi conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, nos termos da decisão de minha lavra assim ementada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. RECONSIDERAÇÃO. CONTRATOS BANCÁRIOS. JULGAMENTO CITRA PETITA. AUSÊNCIA. INVERSÃO DO ÔNUS DA PROVA. PROVA MÍNIMA DO FATO CONSTITUTIVO DO DIREITO. NECESSIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 615)
+Nas razões do presente agravo interno, PIVETA alegou que (1) a jurisprudência consolidada é no sentido defendido no recurso especial; (2) não foram examinados os contratos firmados entre as partes e não juntados pelo BANCO SAFRA, referentes à abertura de conta corrente, descontos creditórios, cédulas de crédito, renegociações e empréstimos, de maneira que a sentença afigura-se citra petita; (3) o desequilíbrio entre as partes enseja a inversão do ônus da prova em favor do consumidor; (4) competia ao BANCO SAFRA a guarda dos contratos microfilmados, de modo que a ausência de juntada destes não pode prejudicar PIVETA no que se refere à pretensão de revisar juros remuneratórios, capitalização de juros e comissão de permanência; (5) os juros remuneratórios devem ser limitados à média de mercado, ante a ausência de juntada dos documentos pleiteados na inicial; (6) não houve expressa pactuação de capitalização mensal ou diária de juros; (7) a ausência de juntada do contrato impõe o afastamento da comissão de permanência; (8) as tarifas devem ser restituídas, visto que inerentes à atividade empresarial; (9) a renegociação da dívida é nula, porquanto PIVETA foi obrigada a firmá-la para que não fosse negativada em órgão de proteção ao crédito; e (10) deve ser determinada a revisão desde o início da relação contratual (e-STJ, fls. 624/656).
+Foi apresentada impugnação (e-STJ, fls. 660/664).
+É o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS BANCÁRIOS. LIMITES DO PEDIDO. VIOLAÇÃO. INOCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. PROVA MÍNIMA DO FATO CONSTITUTIVO. IMPRESCINDIBILIDADE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em que pese a alegação de ofensa ao princípio da congruência, o acórdão recorrido entendeu que não houve comprovação mínima da existência dos contratos que alega ter firmado, rechaçando o suposto julgamento citra petita.
+3. Não se configura julgamento fora dos limites do pedido quando o Colegiado examina os pedidos formulados na petição inicial, embora em sentido diverso do pretendido pela parte.
+4. A inversão do ônus da prova não dispensa o autor de comprovar minimamente o fato constitutivo do direito. Precedentes.
+5. O acórdão vergastado assentou que não houve comprovação mínima da existência de alguns dos contratos ventilados. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta aSúmula nº 7 do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) (2) (3) e (4) Do julgamento citra petita e da inversão do ônus da prova
+Nas razões do presente recurso, PIVETA alegou que a jurisprudência consolidada é no sentido defendido no recurso especial. Acrescentou que não foram examinados os contratos firmados entre as partes e não juntados pelo BANCO SAFRA, referentes à abertura de conta corrente, descontos creditórios, cédulas de crédito, renegociações e empréstimos, de maneira que a sentença afigura-se citra petita. Além disso, defendeu que o desequilíbrio entre as partes enseja a inversão do ônus da prova em favor do consumidor, competindo ao BANCO SAFRA a guarda dos contratos microfilmados, de modo que a ausência de juntada destes não pode prejudicar PIVETA no que se refere à pretensão de revisar juros remuneratórios, capitalização de juros, comissão de permanência.
+Em que pese a alegação de PIVETA no sentido de violação do princípio da congruência, o acórdão recorrido entendeu que não houve comprovação mínima da existência dos contratos que alega ter firmado, rechaçando o suposto julgamento citra petita.
+Portanto, não houve verdadeira omissão quanto aos pactos sustentados por PIVETA, na medida em que se concluiu não ter havido prova mínima de sua existência.
+Nessa linha, não se observa julgamento fora dos limites do pedido quando o julgador examina os pedidos formulados na petição inicial, embora em sentido diverso do pretendido por PIVETA.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E CONTRADIÇÃO. VÍCIOS NÃO CONFIGURADOS. 2. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 3. CONCLUSÃO DO ACÓRDÃO RECORRIDO BASEADA NO CONJUNTO FÁTICO-PROBATÓRIO. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Quanto à alegada negativa de prestação jurisdicional por omissão e contradição, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+2. Tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito do ora recorrente ou que haveria contradição na decisão ora agravada, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+3. Conforme o entendimento consolidado neste Superior Tribunal, não configura julgamento ultra petita ou extra petita, com violação do princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial.
+4. Verifica-se que o entendimento das instâncias ordinárias fora pautado nas peculiaridades do caso concreto, sobretudo ante ao pagamento pelo recorrido dos honorários devidos e a necessidade de ajuizamento da ação de cobrança em desfavor apenas da substabelecente, de modo que o acolhimento da pretensão recursal demandaria verdadeiro reexame do conjunto fático-probatório acostado aos autos, o que encontra óbice na Súmula n. 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.005.763/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 11/5/2022.)
+Ademais, como salientado na decisão agravada, a inversão do ônus da prova não dispensa o autor de comprovar minimamente o fato constitutivo de direito.
+Confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REGRA DE INSTRUÇÃO. COMPROVAÇÃO MÍNIMA DOS FATOS ALEGADOS. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior o entendimento de que a inversão do ônus da prova é regra de instrução e não de julgamento.
+2. "A jurisprudência desta Corte Superior se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no Resp 1.717.781/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018).
+3. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.951.076/ES, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 25/2/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO MÍNIMA PELA PARTE. DÉBITO. CIÊNCIA PELA PARTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria, nos termos do art. 1.025 do CPC/2015.
+5. A inversão do ônus da prova não implica na presunção imediata de veracidade dos fatos alegados pela parte, sendo necessário que tenha comprovado minimamente os fatos constitutivos do direito alegado.
+6. O tribunal de origem formou sua convicção à luz do acervo probatório dos autos e fundamentou os motivos que levaram à condenação, de forma que a intervenção do Superior Tribunal de Justiça quanto à satisfação do ônus probatório e à ciência do recorrente do desconto encontra óbice na Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.663.481/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 30/11/2021.)
+Nesse norte, o Tribunal estadual concluiu que não houve comprovação mínima da existência de todos os contratos alegados, limitando-se a demonstrar a celebração dos Contratos nºs 003080736, 003079100. Confira-se o excerto do acórdão recorrido:
+Isso porque, a despeito de alegar ter contratado junto ao banco recorrido a abertura de conta-corrente e renegociações, logrou êxito em comprovar apenas a existência dos contratos nºs 003080736, 003079100.
+Não bastasse, a recorrente foi devidamente intimada para especificar provas, mas limitou-se a requerer o julgamento antecipado da lide.
+ ..
+Ao deixar de fazê-lo, ofendeu a regra dos artigos 319, VI, 320, e 397do CPC, os quais dispõem que a inicial deve ser instruída com os documentos indispensáveis à propositura da ação e que no pedido dentre os pressupostos exigidos está a exigência de individuação, tão completa quanto possível, do documento ou da coisa.
+Destarte, se o fato constitutivo do direito da recorrente decorre da alegada condição de titular de conta-corrente e empréstimos, é seu o ônus de comprovar suas existências, ainda que minimamente (art. 373, I, do CPC), o que não ocorreu no caso vertente.
+ ..
+Saliente-se ser inaplicável a regra prevista no artigo 6º, VIII, do CDC, diante da ausência de prova mínima do alegado na petição inicial, pois a inversão do ônus não dispensa a parte de produzi-la, ainda que indiciária, sobre os fatos constitutivos de seu direito, nem supre a falta de documento indispensável à propositura da ação (CPC, art. 320) (e-STJ, fls. 376/377).
+Portanto, a alteração do entendimento do Colegiado estadual no sentido da falta de comprovação mínima da existência dos contratos ventilados implicaria reexame de fatos e provas, vedado em recurso especial, nos termos da Súmula nº 7 do STJ.
+Confiram-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REGRA DE INSTRUÇÃO. COMPROVAÇÃO MÍNIMA DOS FATOS ALEGADOS. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior o entendimento de que a inversão do ônus da prova é regra de instrução e não de julgamento.
+2. "A jurisprudência desta Corte Superior se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no Resp 1.717.781/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018).
+3. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.951.076/ES, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 21/2/2022, DJe de 25/2/2022.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA. FATO CONSTITUTIVO DO DIREITO. PROVA MÍNIMA. INEXISTÊNCIA. ANÁLISE. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 416.661/SC, relator Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. em 25/11/2014, DJe de 12/12/2014.)
+Diante do entendimento firmado pelo acórdão vergastado no sentido da ausência de prova mínima dos fatos constitutivos do direito, mostra-se prejudicada a apreciação das abusividades reiteradas no agravo interno (5) (6) (7) (8) (9) e (10).
+Desse modo, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
