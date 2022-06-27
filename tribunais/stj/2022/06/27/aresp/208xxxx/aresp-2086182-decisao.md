@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a", "b" e "c" da Constituição da República) contra acórdão assim ementado (fls. 1.232, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. NOMEAÇÃO/POSSE EM CARGO PÚBLICO. MUNICÍPIO. CARGO PÚBLICO EFETIVO.PROFISSIONAL DE EDUCAÇÃO II - PORTUGUÊS. APROVAÇÃO EM CADASTRADO RESERVA. MERA EXPECTATIVA DE DIREITO. AUSÊNCIA DE PRETERIÇÃO ARBITRÁRIA OU IMOTIVADA NA NOMEAÇÃO. SENTENÇA MANTIDA.
+1 - No julgamento do Recurso Extraordinário nº 837.311, submetido ao regime de repercussão geral, o Supremo Tribunal Federal - STF assentou a tese de que o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses: a) aprovação dentro do número das vagas editalícias; b) preterição na nomeação por inobservância da ordem classificatória;
+c) ou, tendo sido aprovado fora do número de vagas, haja a preterição arbitrária ou imotivada na nomeação, no caso de surgimento de novos cargos ou de abertura de um novo certame.
+2 - Consta dos autos que foram ofertadas 22 (vinte e duas) vagas para o cargo de Profissional de Educação II/Português (Edital Nº. 001/2016), e que a Autora/Apelante foi aprovada na 152ª colocação, ou seja, na reserva técnica.
+3 - O mero surgimento de novas vagas, a abertura de novo concurso para o mesmo cargo ou mesmo a contratação de servidores temporários para o exercício de funções equivalentes, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, devendo ficar, acima de tudo, caracterizada a preterição arbitrária e imotivada cabal, que a Administração Pública a preteriu na ordem de classificação, ou que praticou qualquer outra ilegalidade a ensejar-lhe direito subjetivo à nomeação para o cargo.
+4. A contratação realizada mediante processo seletivo simplificado para atender a necessidade temporária de excepcional interesse público (artigo 37, inciso IX, Constituição Federal), devidamente motivada e dotada de presunção de legitimidade, não caracteriza, por si só, a preterição de candidato aprovado em concurso em cadastro de reserva.
+5. Inexistindo, na espécie, demonstração de quaisquer das situações ensejadoras da convolação da expectativa de direito da Apelante em direito subjetivo, impõe-se a manutenção da sentença que julgou improcedente o pedido formulado na peça exordial da demanda.
+APELAÇÃO CÍVEL CONHECIDO E DESPROVIDA.
+Os Embargos de Declaração foram rejeitados (fl. 1.289, e-STJ).
+Aponta a parte agravante, em Recurso Especial, além de divergência jurisprudencial, violação, no mérito, do art. 67 da Lei 9.394/1996. Aduz:
+Objetiva-se discutir, exclusivamente, a aplicação da Lei Federal nº 9.394/1996 ao presente caso, resta cabível o presente recurso nos termos das alíneas:
+  "a", pois o acórdão proferido foi de encontro ao Art. 67, inciso I, da Lei Federal nº 9.394/96;
+  "b", pois julgou válidas as milhares de contratações temporárias realizadas pela Administração Pública do Município de Goiânia, mesmo tendo essas contratações sido feitas enquanto havia aprovados em concurso público aguardando nomeação e em preterição desses aprovados, violando o Art.
+67, I, da Lei Federal nº 9.394/96;
+  "c", pois mesmo tendo sido comprovada inequivocamente a preterição arbitrária e ilegal de candidato aprovado em concurso público, o acórdão aplicou entendimento diverso do que vem sem aplicado por diversos tribunais Brasil afora, que é inclusive o mesmo entendimento desta Corte Superior.
+(..)
+Pois bem, como foi extensivamente demonstrado no decorrer do processo o Município de Goiânia violou o referido dispositivo legal.
+Durante o prazo de validade do Concurso Público regido pelo Edital nº 001/2016, o Município Recorrido chamou apenas 23 (vinte e três) Profissionais de Educação II - Português (professor de português). Por outro lado, ainda durante esse prazo, realizou inúmeras convocações decorrentes de Processos Seletivos Simplificados, os quais foram regidos pelos nº 001/2017, nº 002/2017 e nº 001/2018.
+No total, foram quase trinta convocações decorrentes desses processos seletivos, através das quais foram chamados 218 (duzentos e dezoito) professores de português (nove vezes mais que do concurso público), para desempenharem precaríssima função regida por contratos de tempo determinado (temporários).
+Destarte, a única limitação contida no edital nº 001/02016, tratou da nota mínima a qual os candidatos deveriam obter, e quando da homologação do resultado final, permanece o fato de que o Recorrido considerou como aprovados todos os candidatos até a última posição indicada em referida lista.
+Disso, decorre que todos os candidatos na lista, independentemente das vagas inicialmente previstas, fazem parte do cadastro de reserva, como é o caso da Recorrente, que foi APROVADA na 152ª, posição.
+Mas, como foi explanado acima, foram chamados 218 (duzentos e dezoito) contratos temporários precários para o cargo de Português, e somando com as 23 (vinte e três) já vagas ocupadas previstas no edital, resultaria um total geral de 241 (duzentos e quarenta e uma) vagas abertas de professores de Português PE/II. Como a Recorrente ficou na 152ª posição, e tinham então abertas, 241 vagas de Português, como conseqüência, a Recorrente estaria dentro destas vagas que foram abertas.
+Contrarrazões às fls. 1.448-1.455, e-STJ.
+Contraminuta às fls. 1.630-1.632, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de junho de 2022.
+A irresignação esbarra no óbice da Súmula 7 do STJ.
+No julgamento do RE n. 837.311/PI, julgado sob o regime derepercussão geral, fixou-se entendimento de que, como regra, o candidato aprovado em cadastro de reserva não é titular de direito público subjetivo à nomeação, não bastando para a convolação da expectativa o simples surgimento de vagas ou a abertura de novo concurso, antes exigindo-se ato imotivado e arbitrário da administração pública.
+Para que o aprovado em cadastro de reserva tenha direito, isto é, para que ele deixe de ter mera expectativa e passe a ostentar o direito público subjetivo à nomeação, deve haver a demonstração da prática de ato arbitrário imotivado da administração pública, para além, é claro, da existência de cargo a ser provido.
+Da leitura do excerto, dessume-se que não está comprovada hipótese de ato arbitrário e imotivado. Desse modo, apreciar a controvérsia da forma como pretendida pela parte, de que houve preterição para o cargo em que foi aprovado, demandaria o revolvimento fático-probatório, que, por sua vez, esbarra no óbice da Súmula 7/STJ.
+A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
