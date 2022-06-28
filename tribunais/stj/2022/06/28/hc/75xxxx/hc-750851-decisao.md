@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de YASMIN NAVARRO, contra decisão de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento do HCn. 0045021-28.2022.8.19.0000.
+Extrai-se dos autos que a paciente foi presa em flagrante, convertida em preventiva, e denunciada pela supostaprática dos delitos tipificados nos arts. 171, §2º-A, do Código Penal, e no art. 2º da Lei n.12.850/13(estelionato e organização criminosa).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, tendo o desembargador relator não conhecido dohabeas corpus(fls. 114/115).
+No presente mandamus, sustenta que o processo está seguindo sem a representação das supostasvítimas, tendo uma delas manifestado que não sofreu nenhum golpe.Alega decadência e perempção.
+Aduz a ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Ressalta as condições pessoais favoráveis dapaciente e a suficiência das medidas cautelares alternativas. Invoca o princípio da presunção de inocência.
+Requer, assim, em liminar e no mérito, que seja reconhecida a decadência e a perempção, bem como a nulidade de todos os atos praticados,o trancamento da ação penal e o relaxamento da prisão preventiva.
+É o relatório.
+Decido.
+Não há como conhecer do pedido nesta Corte Superior, uma vez que o presentemandamusatacadecisão monocrática do Desembargador, e, não interposto o recurso cabível contra aquele decisum,inexistemanifestação do Colegiado Estadual sobre a questão aqui deduzida.
+Dessa forma, fica esta Corte Superior impedida de pronunciar-se sobre o tema, sob pena de incorrer em indesejável supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRISÃO PREVENTIVA. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. RECURSO DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+3. Agravo regimental desprovido.
+(AgRg no HC 722.181/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 11/03/2022).
+HABEAS CORPUS COLETIVO. IDOSOS DO ESTADO DE MATO GROSSO. COVID-19. NÃO CABIMENTO DO WRIT CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR, QUE NÃO FOI IMPUGNADA POR AGRAVO REGIMENTAL E NÃO ANALISOU A TESE DEFENSIVA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. DESNECESSIDADE DE INTERVENÇÃO DESTA CORTEPARA INTERPOSIÇÃO DE AGRAVO REGIMENTAL. ORDEM NÃO CONHECIDA E NÃO CONCEDIDA DE OFÍCIO.
+1. É inviável o conhecimento de habeas corpus impetrado contra decisão monocrática de desembargador, sem exaurimento da jurisdição ordinária, principalmente quando o ato judicial nem sequeranalisou o mérito da tese defensiva. Não énecessária, ainda,a intervenção jurisdicional desta Corte para a interposição de recurso voluntário (agravo interno)que depende somente da iniciativa da parte.
+2. Tendo em vista a sensibilidade da matéria tratada - risco à saúde de todos os homens e mulheresidosos privados de liberdade no Estado de Mato Grosso, em razão da pandemia daCovid-19 -, apesar do não conhecimento do habeas corpus, foramsolicitadas informações à origem, para eventual constatação de situação inusual,mas, em nenhuma resposta encaminhada aesta Corte,foi possível identificar resistência infundada dos magistrados estaduais em aplicar aRecomendação n. 62/2020 do CNJ ou, ainda, sinais de manutenção de presoscom mais de sessenta anosem locais com surto da doença, superlotados ou sem possibilidade de assistência à saúde, submetidos a elevado risco de infecção e morte pelo novo vírus.
+3. O temor demonstrado na petição inicialé louvável e a Covid-19 ainda é uma doença pouco conhecida, mas o ônus da prova em habeas corpus é doimpetrante. Não existe direito subjetivo à solturageral de todos os reclusos idosos tão somente em razão pandemiae não há evidências decrise local para adoção coletiva de providências excepcionais.
+4. Os beneficiários da ordem são poucos (212 pessoas) e estãoem situaçãoheterogênea. Alguns estão presos preventivamente, outros cumprem execução penal. Eles estão comarcas diferentes, muitas sem registro do novo coronavírus.Não se sabe quantos têm doençacrônicae são inúmeros os quededuziram pedido individual de regime domiciliar. Como já existe aRecomendação n. 62/2020 do CNJ, amplamente observada pelos juízes locais, e não foi confirmado descontrole no sistema penal estadual (contexto local de disseminação do Sars-Cov-2), são as nuances de cada caso (natureza do crime praticado,periculosidade do preso, existência, ou não, de doença crônica,condições estruturais,lotação do presídio etc.) que, afinal,orientarão o desencarceramento humanitário.
+5. Não é possível, dadas essas circunstâncias específicas, a demanda em massa, que requer complexa instrução e pluralização do debate, para resolver situação que tem sidoadequadamente enfrentada pelas autoridades, emesforço conjunto.
+6. Habeas corpus não conhecido. Impossibilidade de expedição de ordem de ofício.
+(HC 571.257/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 09/09/2020).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intime-se.
