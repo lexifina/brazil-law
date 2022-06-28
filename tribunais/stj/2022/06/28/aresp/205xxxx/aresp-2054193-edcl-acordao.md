@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Cuida-se de embargos de declaração opostos contra acórdão que negou provimento ao agravo interno interposto pela parte ora embargante, em razão da incidência das Súmulas 7 e 182 do STJ e 284/STF.
+Em suas razões, a parte ora embargante alega a existência de contradição sustentando, em síntese, que "(..)de fato, foram impugnados especificamente todos os pontos da decisão recorrida, não havendo razão processual para a negativa de provimento ao recurso".
+Aduz ainda a necessidade desta Corte se expressar sobre a incidência da Súmula 619/STJ ao caso.
+Nessa toada, requer o acolhimento dos presentes aclaratórios.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+Sobre as hipóteses de cabimento acima mencionadas, Daniel Amorim Assumpção, na obra intitulada Novo Código Civil Comentado, ao discorrer sobre os vícios que legitimam o ingresso dos embargos de declaração, assim informa:
+Os incisos do art. 1.022 do Novo CPC consagram quatro espécies de vícios passíveis de correção por meio dos embargos de declaração: obscuridade e contradição (art. 1.022, I, do Novo CPC), omissão (art. 1.022, II, do Novo CPC) e erro material (art. 1.022, III, do Novo CPC).
+(In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.711)
+Logo a seguir, o citado processualista passa a discorrer sobre cada um desses vícios e afirma, primeiramente, quanto à omissão:
+A omissão refere-se à ausência de apreciação de ponto ou questão relevante sobre a qual o órgão jurisdicional deveria ter se manifestado, inclusive as matérias que deva conhecer de ofício (art. 1.022, lI, do Novo CPC). Ao órgão jurisdicional é exigida a apreciação tanto dos pedidos como dos fundamentos de ambas as partes a respeito desses pedidos. Sempre que se mostre necessário, devem ser enfrentados os pedidos e os fundamentos jurídicos do pedido e da defesa, sendo que essa necessidade será verificada no caso concreto, em especial na hipótese de cumulação de pedidos, de causas de pedir e de fundamentos de defesa.
+Na cumulação de pedidos o acolhimento ou a rejeição de um deles pode tornar os demais prejudicados, não havendo nenhum sentido exigir do juiz o enfrentamento e solução de tais pedidos em sua decisão: (a) na cumulação sucessiva prejudicial, rejeitado o pedido anterior, o pedido posterior perde o objeto; (b) na cumulação subsidiária o acolhimento do pedido anterior torna o pedido posterior prejudicado; (c) na cumulação alternativa o acolhimento de qualquer um dos pedidos torna os demais prejudicados.
+Nessas circunstâncias, é incorreto apontar omissão na decisão do juiz que deixa de enfrentar pedidos prejudicados.
+Fenômeno semelhante ocorre no tocante à cumulação de causas de pedir e de matérias de defesa. Nesse caso é possível estabelecer uma regra: quando a omissão disser respeito à matéria alegada pela parte vencedora na demanda, não haverá necessidade de seu enfrentamento, faltando interesse de agir na interposição de embargos de declaração.
+O parágrafo único do dispositivo ora analisado especifica que se considera omissa a decisão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos (recursos especial ou extraordinário repetitivos e incidente de resolução de demandas repetitivas) ou em incidente de assunção de competência aplicável ao caso sob julgamento ou que incorra em qualquer das condutas descritas no art. 489, § 1.º, do Novo CPC, dispositivo responsável por inovadoras exigências quanto à fundamentação da decisão.
+O dispositivo na realidade não inova ou tão pouco complementa o inciso II do art. 1.022 do Novo CPC, já que as especificações presentes no dispositivo ora comentado são claras hipóteses de omissão de questões sobre as quais o juiz deve se pronunciar.
+Quanto à obscuridade:
+A obscuridade, que pode ser verificada tanto na fundamentação quanto no dispositivo, decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas. O objetivo do órgão jurisdicional ao prolatar a decisão é ser entendido, de preferência por todos, inclusive as partes, ainda que tal missão mostre-se extremamente inglória diante do nível cultural de nosso país. De qualquer forma, uma escrita simples, com palavras usadas com frequência no dia a dia, limitação de expressões em língua estrangeira ao mínimo indispensável, bem como a utilização de termos técnicos com ponderação, que apesar de imprescindíveis a qualquer ciência, não precisam ser empregados na decisão sem qualquer proveito prático, auxiliam na tarefa de proferir decisões claras e compreensíveis.
+Quanto à contradição:
+O terceiro vício que legitima a interposição dos embargos de declaração é a contradição, verificada sempre que existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra. Essas contradições podem ocorrer na fundamentação, na solução das questões de fato e/ou de direito, bem como no dispositivo, não sendo excluída a contradição entre a fundamentação e o dispositivo, considerando-se que o dispositivo deve ser a conclusão lógica do raciocínio desenvolvido durante a fundamentação. O mesmo poderá ocorrer entre a ementa e o corpo do acórdão e o resultado do julgamento proclamado pelo presidente da sessão e constante da tira ou minuta, e o acórdão lavrado.
+Quanto ao erro material:
+Atendendo a reivindicação doutrinária o Novo Código de Processo Civil, em seu art. 1.022, IlI, inclui entre os vícios formais passíveis de saneamento por meio dos embargos de declaração o erro material. Mesmo diante da ausência de previsão expressa no CPC/1973 o Superior Tribunal de Justiça já vinha admitindo a alegação de erro material em sede de embargos de declaração (STJ, 3ª Turma, EDcl no AgRg no REsp 1.494.263/SP, rel. Min. Moura Ribeiro, j. 09/06/2015, DJe 18/06/2015; STJ, 1ª Turma, EDcl no REsp 1.121.947/SC, rel. Min. Benedito Gonçalves, j. 16/05/2013, DJe 22/05/2013). Erro material é aquele facilmente perceptível e que não corresponda de forma evidente a vontade do órgão prolator da decisão.
+Mesmo estando previsto como vício passível de saneamento por meio dos embargos de declaração a alegação de erro material não depende dos embargos de declaração (Informativo 544/STF, Plenário, RE 492.837 QO/MG, reI. Cármen Lúcia, j. 29.04.2009), inclusive não havendo preclusão para sua alegação, que pode ser feita até mesmo depois do trânsito em julgado da decisão (Informativo 547/STJ, 2.ª Turma, RMS 43.956/MG, reI. Min. Og Fernandes, j. 09.09.2014, DJe 23 .09 .2014; Enunciado nº 360 do Fórum Permanente de Processualistas Civis (FPPC) : ""A não oposição de embargos de declaração em caso de erro material na decisão não impede sua correção a qualquer tempo").
+A inclusão do erro material como matéria expressamente alegável em sede de embargos de declaração é importante porque não deixa dúvida de que, alegado o erro material sob a forma de embargos de declaração, assim será tratada procedimentalmente a alegação, em especial quanto à interrupção do prazo recursal.
+(In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.714-1.716)
+3. Na espécie, não se observa qualquer vício a ser colmatado pelo presente decisum.
+A parte reitera sua argumentação de mérito, já apresentada em outros recursos, mas não demonstra nenhum tipo de vício da decisão agravada, sendo certo que os vícios aptos a ensejarem a oposição dos aclaratórios precisam ser verificados nas proposições e conclusões internas ao próprio julgado, não sendo os embargos de declaração o instrumento processual adequado para a correção de eventual error in judicando ou correção de vícios externos à decisão impugnada.
+A propósito:
+EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Somente são devidos embargos de declaração para a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão da decisão.
+2. Não se caracteriza contradição, para os fins do art. 1.022 do CPC/2015, quando o acórdão proferido pelo órgão competente, julgando recurso adequadamente interposto pela parte interessada, reforma decisão monocrática anteriormente prolatada pelo Relator.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1028884/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+4. No caso dos autos, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, além de almejar uma análise do mérito da causa, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa.
+(EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe 02/02/2015)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa. 3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 545.285/RS, Primeira Seção, Relator o Ministro TEORI ALBINO ZAVASCKI, DJU de 1º.8.2006)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. CARÁTER INFRINGENTE DA PRETENSÃO. ANÁLISE DE QUESTÕES DE ORDEM CONSTITUCIONAL. INVIABILIDADE.
+1. Inexiste irregularidade a ser elucidada na via dos embargos de declaração se o acórdão embargado manifesta-se de modo claro e objetivo quanto à matéria submetida à apreciação da Corte.
+2. O reexame de matéria já apreciada com a simples intenção de propiciar efeitos infringentes ao decisum impugnado é incompatível com a função integrativa dos embargos declaratórios.
+3. Em sede de recurso especial, é inviável ao Superior Tribunal de Justiça analisar ou decidir questões de ordem constitucional.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, Relator o Ministro JOÃO OTÁVIO DE NORONHA, DJe de 28.10.2008)
+É evidente, pois, a ausência de contradição apta a amparar a oposição dos presentes aclaratórios na hipótese vertente.
+5. Ante o exposto, rejeito os presentes embargos de declaração.
+É como voto.
