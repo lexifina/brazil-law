@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo espólio de José Ednirson da Fonseca, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ, fls. 157-158):
+PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. SÓCIO DE PESSOA JURÍDICA DEVEDORA. EXCLUSÃO DO POLO PASSIVO DA EXECUÇÃO FISCAL. REALIZAÇÃO EQUIVOCADA DE PENHORA PELA SECRETARIA DO JUÍZO. LEVANTAMENTO DA CONSTRIÇÃO. RECONHECIMENTO PELA FAZENDA PÚBLICA. AUSÊNCIA DE PRETENSÃO RESISTIDA. IMPOSSIBILIDADE DE CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. IMPROVIMENTO.
+1. Apelação interposta por particular em face de sentença que julgou procedentes os embargos executivos que manejou, liberando-se a penhora efetivada na Execução Fiscal nº 0001122-20.1999.4.05.8500 e determinando-se também a exclusão do seu nome do polo passivo do referido feito executivo. Não houve condenação das partes em honorários de sucumbência, por entender o juízo a quo que não deram causa à demanda. A constrição foi realizada por equívoco da Secretaria do juízo, ao não observar que, apesar de ainda constar o nome do sócio/embargante na autuação do feito executivo, sua exclusão da lide já havia sido ordenada anteriormente.
+2. Pretensão recursal consubstanciada na condenação da FAZENDA NACIONAL em honorários de sucumbência, nos termos do art. 85, do CPC/2015.
+3. Hipótese em que o embargante/recorrente foi incluído no polo passivo da Execução Fiscal nº 0001122-20.1999.4.05.8500 na condição de devedor originário, e não como sócio corresponsável pela dívida em cobrança, uma vez que seu nome constou da CDA antes mesmo do ajuizamento da execução (débito previdenciário). Entretanto, foi indeferida suainclusão na lide executiva, ainda que na condição de devedor originário (18/11/2008).Apesar da determinação do Juízo, não foi realizada a exclusão do nome do embargante do polo passivo da execução fiscal.
+4. Por outro lado, nos autos da Execução Fiscal nº 0002748-93.2007.4.05.8500 foi determinada a extensão de penhora para as ações fiscais em que o embargante figurasse na condição de devedor, o que não era o caso da execução fiscal correlata. Indevidamente foi efetivada pela Secretaria do Juízo a constrição de bem do embargante, apesar dele não mais integrar o polo passivo da execução fiscal nº 0001122-20.1999.4.05.8500.
+5. Ao ser intimada para impugnar os embargos executivos, a FAZENDA NACIONAL não se opõe ao pedido da embargante, reconhecendo que a Secretaria Judicial, sem pedido da União junto ao feito executivo nesse sentido , ao expedir ofício de penhora no rosto dos autos de inventário para a 23ª Vara Cível da Comarca de Aracaju, fez incluir indevidamente, dentre os processos no qual o embargante figura como responsável, o de nº 0001122-20.1999.4.05.8500. Não há como, a partir do princípio da causalidade, condenar a FAZENDA NACIONAL em honorários advocatícios, ante a ausência de pretensão resistida.
+6. O art. 19, § 1º, I, da Lei nº 10.522/2002, aplicável ao caso por ser regramento especial relativamente às normas do CPC, prevê que não haverá condenação em honorários quando o Procurador da Fazenda Nacional reconhecer a procedência do pedido em sede de contestação , inclusive em embargos à execução fiscal e exceções de pré-executividade .
+7. Apelação improvida.
+Os embargos de declaração opostos pelo contribuinte foram acolhidos sem efeitos infringentes.
+Em suas razões, o requerente aponta violação doart. 85, §§ 2º e 3º, do CPC/2015.
+Sustenta, em síntese, que a Fazenda Pública, ao contrário da conclusão estampada no acórdão recorrido, efetivamente manifestou resistência à exclusão da parte do polo passivo da execução, de modo que deveria ser condenada ao pagamento dos honorários de sucumbência.
+Contrarrazões recursais apresentadas às e-STJ, fls. 216-222.
+Admitido o recurso especial na origem (e-STJ, fl. 225), subiram os autos a esta Corte.
+É o relatório.
+Verifica-se que orecursonão ultrapassa o juízo de admissibilidade, pois constata-sea existência de fundamentoexaradono julgado recorrido que não foiobjeto de impugnação específica pela parte insurgente, concernenteao registro de não caber condenação da Fazenda Pública em honorários advocatícios a partir do princípio da causalidade, eis que a parte recorrente foi indevidamente incluída no polo passivo da execução por equívoco da Secretaria do Juízo, não podendo ser imputada à exequente à causa ao ajuizamento dos embargos de devedor.
+A insurgência encontra o óbice da Súmula n. 283/STF, pois subsiste fundamento incólume ao recurso da União.
+A respeito do tema, vale conferir o precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp n.1.367.651/MG, relatora Ministra ELIANA CALMON, DJe de 3/12/2013.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
