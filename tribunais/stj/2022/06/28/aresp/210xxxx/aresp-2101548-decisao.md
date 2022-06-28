@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por IVO NOAL contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, quenão admitiu recurso especial fundado nas alíneas "a" e "c"do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 793):
+APELAÇÃO CÍVEL. AÇÃO DE DESAPROPRIAÇÃO INDIRETA. ALEGADO CERCEAMENTO DE DEFESA. PEDIDO DE NOVA PROVA PERICIAL. DESNECESSIDADE. REGULARIZAÇÃO FUNDIÁRIA. TERRAS PERTENCENTES A POSSEIROS MUNIDOS DE TÍTULOS PAROQUIAIS. SENTENÇA MANTIDA.
+1- O juiz como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2- No presente caso o magistrado singular entendeu "desnecessáriaa produção de outras provas além das documentais já constantesnos autos e suficientes para formação de valores deste juízo".
+3- Não há o que se falar em cerceamento de defesa.
+4- No que diz respeito a desapropriação alegada pelo apelante, omesmo não trouxe aos autos provas suficientes para corroborar o alegado.
+5- Existência de regularização fundiária.
+6- Terras pertencentes a posseiros munidos de títulos paroquiais.
+7- No local onde foi realizada a referida regularização fundiária, sequer encontram-se as terras que o autor alega serem de sua propriedade, situação terminantemente comprovada pelo laudo anexo aos autos.
+8- Recurso conhecido e não provido. (Grifos do original).
+Embargos de declaração parcialmente conhecidos e, nessa extensão, desprovidos(e-STJ fls. 841/850).
+No recurso especial obstaculizado, a parte apontou, além de divergência jurisprudencial, violação dos arts. 10, 369 e 373, I, do Código de Processo Civil de 2015, sustentando que o magistrado de 1ª instância proferiu decisão surpresa ao julgar antecipadamente a lide.
+Aduziu que requereu a conclusão da perícia e não a realização de nova perícia, destacando que o laudo pericial se baseou em documentos incompletos fornecidos por unidade da parte adversa em flagrante má-fé.
+Alegou, ainda, que, ao contrário do que traza sentença, não lhe foi oportunizada a produção de outros meios de prova (documental e testemunhal) após a apresentação do laudo pericial, havendo cerceamento de defesa.
+Defende, também, a existência de ofensa aos arts. 473, IV e 480do CPC/2015, visto que olaudo pericial é inconclusivo aoafirmar a necessidade de realização de novo levantamentoin locopara determinar se os bens do recorrente foram ocupados.
+Afirma que os esclarecimentos apresentados pelo perito às suas impugnações não foram suficientes para afastar a dúvida de que as áreas apontadas nos autos e as certidões anexadas a petição inicial foram periciadas, sendo, portanto, imperiosa a realização de perícia complementar.
+Contrarrazõesàs e-STJ fls. 942/950.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+O Ministério Público Federal opina pelos desprovimento do agravo(e-STJ fls. 1.079/1.089).
+Passo a decidir.
+No que se refere à alegação de decisão surpresa proferida pelo juízo de 1ª instância, da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre oart. 10 do CPC/2015tidopor violado, apesar de opostos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide, na espécie, o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017, e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreu, in casu.
+Relativamente a tese de equívoco na sentença ao afirmar que a parte autoraficou silente quanto à produção de novas provas, não lhe sendo,naverdade, oportunizada a sua realizaçãoapós a apresentação do laudo doexpert, observa-se que o Tribunal de origem, ao apreciar os embargos de declaração, asseverou a que questão não poderia ser conhecida, porque foi suscitada apenas nos aclaratórios, in verbis(e-STJ fl. 843):
+Por outro lado, não merece conhecimento a insurgência do Embargante quanto à inveridicidade na afirmação do magistrado de piso de que o autor quedou-se inerte quando intimado a promover meios de realizar a prova que pretendia, pois suscita matéria completamente estranha aos autos até o momento, e alega omissão do Relator, neste ponto.
+Da análise dos autos originários, constata-se que a apelação não traz à tona a referida irresignação. Sua primeira aparição nos autos ocorreu já nesta fase recursal, onde limitou seus argumentos aos apreciados no voto/acórdão recorrido. (Grifos do original).
+Todavia, a parte recorrente não impugnou o fundamento central trazido pelo aresto, circunstância que atrai a aplicação daSúmula283 do STF.
+A propósito:AgInt no AREsp 2.022.647/SP, RelatorMinistro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 17/06/2022; eAgInt no REsp 1.675.783/RS, RelatorMinistro FRANCISCO FALCÃO, Segunda Turma, DJe 07/10/2021.
+Quanto ao mais, observa-se que se trata de ação de desapropriação indireta em que a parte autora alega que o ente político teria realizado implantação de loteamentoem áreade sua propriedade sem realização de processo administrativo e justa indenização.
+O Juízo sentenciante julgou improcedente o pedidonos seguintes termos (e-STJ fls. 648/650):
+No presente caso, depois de realizada a perícia, não restou demonstrada que a área informada pelo requerente fosse aquela que foi objeto de regularização fundiária realizada pelo Estado do Tocantins.
+Ao contrário do que foi dito pelo autor, não houve processo de desapropriação, o que se pode afirmar pelas provas existentes nos autos é que o Estado do Tocantins, por meio do ITERTINS, após processo administrativo, regularizou as áreas de pessoas que estavam ocupando os imóveis, há mais de 10 anos, imóveis estes que ostentavam título paroquial.
+É do conhecimento de todos que, para a regularização fundiária pressupõe-se que o possuidor comprove o exercício regular da posse e, que mencionado imóvel não esteja registrado, definitivamente, junto ao Cartório do Registro Civil, em nome de outrem.
+Destarte, não restou comprovada qualquer forma de desapropriação indireta como quer fazer crer o autor.
+O requerente disse que o laudo pericial não teria sido realizado na área que por ele foi indicada na inicial.
+Assim, eclode a nova controvérsia pelo requerente, agora, diz respeito à apuração da localização dos três imóveis identificados pelo requerente e o local onde a perícia foi realizada.
+Pois bem, como bem ressaltado pelo Sr. Perito, o trabalho foi realizado dentro da propriedade indicada pelo requerente, Loteamento Fazenda Crixas.
+Ainda, o próprio requerente anexou no evento 01, (ANEXOS PET. INI6), certidões de inteiro teor de imóveis adquiridos por terceiros junto ao ITERTINS, imóveis estes, que o requerente afirmou estar dentro de sua propriedade.
+Pois bem, tais imóveis, encontram-se dentro da área periciada, não existindo, pois, dúvida sobre a realização do trabalho na área indicada pelo requerente. E, se os imóveis que foram Arrecadados para fins de regularização fundiária, pelo ITERTINS, estão dentro da área periciada, não há motivo para falar em desapropriação indireta,uma vez que a mesma nunca existiu.
+Pelo que se percebe dos autos, o requerente sequer soube identificar a área que alega ser sua, o que demonstra que de há muito não exercia a posse sobre a mesma.
+A indicação do imóvel na inicial é divergente do que foi encontrado na perícia, perícia esta que foi realizada no mesmo imóvel indicado pelo requerente, conforme se verifica dos documentos juntados pelo autor, no evento 1, ANEXO PET INI6.
+No presente caso, o pedido da parte autora é para que o mesmo seja indenizado por suposta desapropriação indireta, sem que sobre ela, tivesse ocorrido o pagamento da indenização.
+É certo que toda e qualquer desapropriação, seja ela por necessidade ou utilidade pública, dar-se-á mediante justa e prévia indenização em dinheiro.
+Todavia, no presente caso, não há comprovação de que as áreas do requerente tenham sido objeto de desapropriação.
+A alegação do réu é a que de que os imóveis que foram objeto de regularização fundiária eram ocupados por posseiros, detentores de títulos paroquiais e, tal afirmação não foi confrontada pelo autor.
+Ademais, como já mencionado, para a regularização fundiária, há expressa necessidade de que o pedido recaia sobre área sobre a qual não penda registro definitivo.E, diante da aquisição por terceiros através de arrecadação, pressupõe que aqueles imóveis se encontravam nesta situação.
+Assim, ausente a comprovação de que a área que afirma ser sua foi objeto de desapropriação indireta, resta ausente a obrigação do Estado no pagamento da indenização.
+(..)
+Ao perito caberá apresentar as informações necessárias para que o Juiz possa sentenciar.
+Fazendo uma comparação ao disposto no Decreto-Lei 3.365/41, onde o mesmo retrata a importância da manifestação pericial, bem como consoante se infere pelo contido nos eventos 128 e 140, o laudo contém em sua justificação elementos de vistoria, com levantamento da área do imóvel, identificação dos marcos divisórios, acervo fotográfico, dentre outros, o que levou o perito à conclusão de que tratam de áreas diversas.
+Tenho que o laudo realizado pelo expert judicial é válido e não apresenta qualquer vício que o macule, visto que realizado em área indicada pelo autor, identificada por prova documental apresentada com a inicial.(Grifos acrescidos).
+O Tribunal de origem manteve a sentença asseverando que, "munido dos documentos anexos ao processo, os quais foram apresentados pelo próprio requerente, o Perito competente realizou a sua perícia" (e-STJ fl. 782), tendo oexpert concluído que (e-STJ fl 786):
+(..) pode ser observado que as matrículas 471; 472 e 884, fornecidas pela parte requerente e anexas aos autos, não se encontram integradas ao loteamento Faz. Crixás, uma vez que, as mesmas tem confrontações com o Córrego Capivara, Rio Tocantins eFaz. Itália. Para que o imóvel estivesse localizado onde apontado pela parte requerente, o mesmo teria que ter confrontação com o Rio Crixás e Rio Tocantins, o que não é o caso.
+Acrescentou, ainda, queficou comprovado que o local em que foi realizada a regularização fundiáriaeraocupadapor posseiros detentores de títulos paroquiais e não corresponde às terras que a parte autora alega ser de sua propriedade (e-STJ fls. 786 e 788).
+Verifica-se quea questão foi decidida com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, demandariareexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termosda Súmula 7 do STJ.
+Nesse sentido:AREsp 1.673.525/SP, RelatorMinistro HERMAN BENJAMIN, Segunda Turma, DJe 05/10/2020; eAgInt no AREsp 1.429.429/SP, MINHA RELATORIA, Primeira Turma, DJe 24/02/2022.
+Convém registrar que "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a"do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
