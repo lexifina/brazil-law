@@ -1,0 +1,11 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE AGRAVO DE INSTRUMENTO no 1022116-68.2021.8.11.0000 – CLASSE 202 – CNJ – CUIABÁ
+Agravante: AFG BRASIL S.A.
+Agravado: ICBC DO BRASIL BANCO MÚLTIPLO S.A.
+Número do Protocolo : 1022116-68.2021.8.11.0000
+Determino a inclusão do presente recurso na Pauta de Julgamento.
+Cumpra-se.
+Cuiabá, 28 de junho de 2022.
+Des. JOÃO FERREIRA FILHO
+Relator
