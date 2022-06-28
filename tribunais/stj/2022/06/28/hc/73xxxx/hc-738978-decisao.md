@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor deANDRE LUIS DOMINGUES DA SILVAapontando como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(Apelaçãon. 5084052-78.2020.8.21.0001).
+Depreende-se dos autos que o réu foi condenado a 8 anosde reclusão, no regime inicialmente fechado, pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas,e-STJ fls. 261/267).
+Segundo a acusação, o paciente trazia consigo"22 porções de Cannabis sativa, vulgarmente conhecida como maconha, substância entorpecente que contém tetrahidrocanabinol e que causa dependência física e psíquica, pesando cerca de 27g (vinte e sete gramas), bem como 66 pedras de crack, substância que contém cocaína, estas pesando aproximadamente 23g (vinte e três gramas) .. "(e-STJ fl. 71).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 14):
+APELAÇÃO CRIME. TRÁFICO DE DROGAS. ARTIGO 33, CAPUT, DA LEI Nº 11.343/06. IRRESIGNAÇÃO DEFENSIVA. MANUTENÇÃO DA SENTENÇA.MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE DEMONSTRADAS CONFORME O CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. RELATOS DOS POLICIAIS COERENTES E HARMÔNICOS EM AMBAS AS FASES DO PROCESSO.DOSIMETRIA DA PENA.MAUS ANTECEDENTES. TRANSCURSO DO PERÍODO DEPURADOR. POSSIBILIDADE DA VALORAÇÃO NEGATIVA. PRECEDENTES DO STJ. NATUREZA DA DROGA. MOTIVO IDÔNEO. REAVALIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS. PENA MANTIDA, AINDA QUE POR FUNDAMENTO DIVERSO. RECURSO DEFENSIVO DESPROVIDO.
+Daí o presentewrit,no qual sustenta a defesa ilegalidade na dosimetria quanto ao aumento da pena-base.
+Destaca que "o Tribunal coator, reanalisando o apenamento imposto por impulsionamento de recurso exclusivo da defesa, NEUTRALIZOU as vetoriais personalidade, conduta social, consequências, motivos e culpabilidade, apontando inidoneidade nos fundamentos para negativá-las e manteve a valoração negativa das VETORIAIS ANTECEDENTES e CIRCUNSTÂNCIAS, mantendo, entretanto, a pena aplicada pelo magistrado de piso na sentença"(e-STJ fl. 5).
+Requer, ao final, a redução da pena-base.
+O pedido liminar foi indeferido (e-STJ fls. 328/329).
+O Ministério Público Federal manifestou-se pelo não conhecimentoda ordem (e-STJ fls. 374/379).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Quanto à dosimetria,colhe-se do acórdão recorrido (e-STJ fls.24/27):
+No caso, o juízo singular exasperou a pena-base em 02 (dois) anos de reclusão, reputando desfavorável os vetores antecedentes criminais, personalidade, conduta social, circunstâncias, consequências, motivação e culpabilidade.
+Embora a inidoneidade do fundamento utilizado para negativar a personalidade, conduta social, consequência, motivo e culpabilidade, a quantidade de pena aplicada na sentença não merece reparos.
+Com efeito, inexistem dados hábeis a valorar com segurança a personalidade do acusado (conjunto de características pessoais do agente),como também a sua conduta social (seu papel no meio social em que vive).
+Aqui, o registro que a mera prática de delito, ainda que reiterada, não é fundamento juridicamente idôneo, por si só, a negativar tais vetores.
+A culpabilidade, entendida como o grau de censura atribuível à conduta do agente é comum. Os motivos são inerentes à espécie delitiva, isto é, busca de "ganho fácil".
+As consequências do crime, que devem vir concretamente demonstradas,no caso dos autos, não fogem do ordinário.
+Também não há falar em comportamento da vítima.
+Todavia, verifico que o apelante possui quatro condenações transitadas em julgado, sendo três utilizadas na segunda fase, e uma para valorar negativamente os antecedentes criminais, sem com isso caracterizar bis in idem.
+Outrossim, em atenção às razões recursais, embora a condenação proferida no processo de nº 001/2.12.0069562-1, esteja extinta há mais de 5 (cinco) anos, e não possa ser utilizada para o agravamento da pena pela reincidência (artigo 64, I, do Código Penal), pode esse registro ser utilizado para a aferição dos maus antecedentes.
+ ..
+Da mesma forma, tenho que as circunstâncias merecem nota negativa. Com efeito, em face do que dispõe o artigo 42 da Lei de Drogas, na fixação da pena-base, devem ser consideradas a natureza e a quantidade da substância, inclusive com preponderância sobre as circunstâncias do artigo 59do Código Penal.
+E, no caso, tais devem ser sopesadas negativamente, uma vez que, conforme restou devidamente demonstrado, foi apreendido crack, que possui natureza altamente lesiva, capaz de viciar já no primeiro contato.
+Observo que a opção legislativa, prevista no artigo 42 da Lei nº 11.343/06, foi no sentido de que quem trafica drogas com maior potencial lesivo, tais como crack e cocaína, tivesse tratamento diferenciado, quer dizer mais rigoroso, diferenciando, por exemplo, daquele traficante que vende maconha.
+Assim, no caso, a exasperação operada na primeira fase - 2 (dois) anos - não ofende ao princípio da proporcionalidade, pois até mais branda do que poderia ter sido dosada se tivesse sido aplicado o consagrado critério do STJ de aumento de 1/8 (um oitavo) para cada moduladora desfavorável - o que importaria em aumento de 01 (um) ano e 03 (três) meses para cada vetor negativo - fazendo-as incidir sobre o intervalo de pena em abstrato do preceito secundário do tipo penal
+Sendo assim, a rigor, considerando-se os dois vetores negativos, a pena-base poderia ser fixada em 07 (sete) anos e 06 (seis) meses, de modo que a elevação operada - 07 (sete) anos - revela-se até mais benéfica para o apelante.(Grifei)
+Como se vê, a sentença entendeu como desfavoráveisas seguintes circunstâncias judiciais:antecedentes criminais, personalidade, conduta social, circunstâncias, consequências, motivação e culpabilidade.(e-STJ fl. 24, grifei).
+O Tribunal de origem, de seu turno,manteve como desfavoráveisos maus antecedentes e as circunstâncias(quantidade e natureza dasdrogas apreendidas), afastando as demais circunstâncias,contudo, manteve o mesmo patamar de aumento realizado na sentença condenatória.
+Ocorre que tal procedimento encontra-se  em  dissonância  com  a  jurisprudência  firmada  nesta  Corte  Superior  no  sentido  de  que,  "em  recurso  exclusivo  da  defesa,  havendo  a  exclusão  de  circunstâncias  judiciais  desfavoráveis  pelo  Tribunal,  imperiosa  a  correspondente  redução  da  pena  básica,  sob  pena  de  infringência  ao  princípio  da  non  reformatio  in  pejus"  (AgRg  no  HC  n.  440.227/RS,  relatora  Ministra  MARIA  THEREZA  DE  ASSIS  MOURA,  SEXTA  TURMA,  julgado  em  21/8/2018,  DJe  29/8/2018).
+No  mesmo  sentido:
+AGRAVO  REGIMENTAL  EM  AGRAVO  EM  RECURSO  ESPECIAL. DECISÃO  AGRAVADA  QUE  EXCLUIU  A  VALORAÇÃO  NEGATIVA  DA  PERSONALIDADE  E  DA  CONDUTA  SOCIAL.  PEDIDO  DE  MANUTENÇÃO  DO  QUANTUM  DA  PENA,  COM  BASE  NA  VALORAÇÃO  NEGATIVA  DOS  ANTECEDENTES.  IMPOSSIBILIDADE.  EXCLUSÃO  DE  CIRCUNSTÂNCIAS  JUDICIAIS  DESFAVORÁVEIS.  REDUÇÃO  DA  PENA-BASE.  OBRIGATORIEDADE.  PRECEDENTES.
+Agravo  regimental  improvido.
+(AgRg  no  AREsp  1438997/DF,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  18/2/2020,  DJe  2/3/2020, grifei.)
+PROCESSUAL  PENAL.  PENAL.  RECURSO  ESPECIAL.  DISPARO  DE  ARMA  DE  FOGO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  REVISÃO  DA  PENA-BASE.  FUNDAMENTAÇÃO  IDÔNEA.  RECURSO  EXCLUSIVO  DA  DEFESA.  EXCLUSÃO  DE  VETORIAL  DESFAVORÁVEL.  REDUÇÃO  DA  PENA-BASE.  CONFISSÃO  ESPONTÂNEA.  ASSUNÇÃO  DE  FATO  DIVERSO  DO  QUE  O  IMPUTADO.  IMPOSSIBILIDADE.  RECURSO  ESPECIAL  PARCIALMENTE  PROVIDO.
+1.  Não  há  que  se  falar  em  negativa  de  prestação  jurisdicional,  se,  a  despeito  de  analisados  todos  os  pontos  relevantes  ao  deslinde  da  controvérsia,  a  origem  adotar  solução  jurídica  contrária  aos  interesses  da  parte.
+2.  Correta  a  exasperação  da  pena-base  com  esteio  em  elementos  concretos  que  desbordam  do  comum  à  espécie  delitiva.
+3. Na  esteira  de  precedentes  desta  Corte  Superior,  se  o  Tribunal,  em  recurso  exclusivo  da  defesa,  exclui  alguma  circunstância  judicial  negativada  pelo  julgador  de  primeiro  grau,  mostra-se  necessária  a  redução  da  pena-base,  sob  pena  de  reformatio  in  pejus.  AgRg  no  AREsp  1022779/ES,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  30/03/2017,  DJe  07/04/2017
+4.  Não  cabendo  revaloração  da  prova  na  via  do  recurso  especial,  é  de  ser  mantida  a  compreensão  da  Corte  local  de  que  não  confessou  o  acusado  elementares  do  crime  de  disparo  de  arma  de  fogo,  pois  teria  o  réu  afirmado  em  verdade  não  ser  verdadeira  a  imputação  que  lhe  é  feita  e  que,  no  momento  em  que  entrou  em  luta  corporal  com  a  vítima  e  um  irmão  dela,  a  arma  disparou.  Sem  confissão  mesmo  parcial,  é  indevida  a  incidência  da  atenuante.
+5.  Não  transcorrido  entre  os  marcos  interruptivos  lapso  temporal  suficiente  para  a  extinção  da  punibilidade,  pela  prescrição.
+6.  Recurso  especial  parcialmente  provido  para  reduzir  as  penas  do  recorrente  para  2  anos  e  2  meses  de  reclusão. (REsp  1678484/PB,  Rel.  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  julgado  em  17/08/2017,  DJe  29/8/2017, grifei.)
+Evidente, assim, o constrangimento ilegal apontado pela defesa.
+Passo, agora, à readequação da dosimetria dapena, mantendo os parâmetros adotados pelo colegiado local.
+Na primeira fase, estabeleço apena-baseem 6 anos de reclusão.
+Na segunda etapa, mantenho o aumento de 1 ano, pela presença da agravante da reincidência, perfazendo a reprimenda em 7 anos de reclusão (e-STJ fl. 63).
+Na terceira fase, ausentes outras causas modificadoras,a reprimenda definitiva do paciente totaliza-se em7 anos de reclusão.
+Ante o exposto,concedo a ordem para redimensionar areprimendadopacienteem 7 anos de reclusão, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
