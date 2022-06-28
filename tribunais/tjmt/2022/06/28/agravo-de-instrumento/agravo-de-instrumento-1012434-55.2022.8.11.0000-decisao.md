@@ -1,0 +1,43 @@
+Agravante: E J NOATTO – EPP e EUILSON JOSE NOATTO
+Agravado: ESTADO DE MATO GROSSO
+Protocolo : 1012434-55.2022.8.11.0000
+LIMINAR
+Visto.
+Trata-se de Agravo de Instrumento interposto por E J NOATTO – EPP e EUILSON JOSE NOATTO, representadas pela Defensoria Pública nomeada como Curadora Especial, contra decisão proferida pelo Juízo da 2a Vara Especializada da Fazenda Pública da Comarca de Rondonópolis, nos autos da Execução Fiscal no 0002087-12.2016.8.11.0025, movida contra os Agravantes, que indeferiu o pedido para reconhecimento da nulidade da citação editalícia.
+Aduzem que a citação por edital na execução fiscal somente pode ocorrer depois de esgotadas as tentativas de localização dos devedores, o que não foi observado pelo magistrado a quo.
+Sustentam que o oficial de justiça certificou nos autos que a pessoa física EUILSON JOSE NOATTO se mudou para Cuiabá-MT, não estando, dessa forma em lugar incerto e não sabido.
+Argumentam que nos autos não foram realizadas diligências para localização das partes executadas, violando o inciso II, §3o, do artigo 256, do Código de Processo Civil.
+Asseveram que a citação por edital na forma como realizada cerceia o direito de defesa dos Executados, devendo dessa forma ser reconhecida a nulidade.
+Afirmam que estão presentes os requisitos da probabilidade do direito e do perigo de dano ou o risco ao resultado útil do processo, necessários para o deferimento do efeito suspensivo recursal.
+Com base nestes fundamentos, pugnam pela concessão do efeito suspensivo recursal, para determinar a suspensão da execução fiscal até o julgamento do mérito do presente recurso. Ao final requerem que seja dado provimento ao recurso, para reformar a decisão objurgada, no sentido de reconhecer nulidade das citações por Edital realizadas no executivo fiscal.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo ao Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, ambos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de efeito suspensivo/ativo recursal não merece acolhimento. Vejamos.
+Arguem os Recorrentes que são nulas as citações por edital realizadas nos autos, uma vez que não foram esgotados os meios para localização dos devedores.
+Sobre o assunto, sabe-se que para a realização da citação por edital nas execuções fiscais, devem ser observadas as determinações do art. 8o da Lei de Execução Fiscal no 6.830/80, in verbis:
+“Art. 8o - O executado será citado para, no prazo de 5 (cinco) dias, pagar a dívida com os juros e multa de mora e encargos indicados na Certidão de Dívida Ativa, ou garantir a execução, observadas as seguintes normas:
+I - a citação será feita pelo correio, com aviso de recepção, se a Fazenda Pública não a requerer por outra forma;
+II - a citação pelo correio considera-se feita na data da entrega da carta no endereço do executado, ou, se a data for omitida, no aviso de recepção, 10 (dez) dias após a entrega da carta à agência postal;
+III - se o aviso de recepção não retornar no prazo de 15 (quinze) dias da entrega da carta à agência postal, a citação será feita por Oficial de Justiça ou por edital;
+IV - o edital de citação será afixado na sede do Juízo, publicado uma só vez no órgão oficial, gratuitamente, como expediente judiciário, com o prazo de 30 (trinta) dias, e conterá, apenas, a indicação da exeqüente, o nome do devedor e dos co-responsáveis, a quantia devida, a natureza da dívida, a data e o número da inscrição no Registro da Dívida Ativa, o prazo e o endereço da sede do Juízo”.
+Extrai-se do citado dispositivo legal que, tratando-se de execução fiscal, a citação do devedor será feita pelo correio, quando esta não for possível, deve ser realizada por Oficial de Justiça, e posteriormente por edital.
+Nesse sentido é o entendimento firmado pelo Superior Tribunal de Justiça, por meio da Súmula no 414, que assim dispõe: “a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades”.
+Na mesma vertente tem se posicionado esta e. Corte de Justiça:
+“APELAÇÃO CÍVEL - EMBARGOS A EXECUÇÃO FISCAL – ISSQN - CITAÇÃO EDITALÍCIA - VALIDADE - TENTATIVAS FRUSTRADAS DE LOCALIZAÇÃO DO DEVEDOR – NOMEAÇÃO DE CURADOR ESPECIAL – CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS - SUSPENSÃO DA EXIGIBILIDADE – OFENSA AO CONTRADITÓRIO E A AMPLA DEFESA – RECURSO DESPROVIDO.I. Satisfeitos os requisitos do art. 8o da Lei de Execução Fiscal, a citação editalícia se mostra válida, mormente quando realizadas tentativas infrutíferas de localização do executado. [...] a citação por edital é possível se o réu se encontrar em local incerto e não sabido e se assegurados o contraditório e a ampla defesa, com a nomeação de curador especial. Neste caso, a citação por edital não gerou prejuízo processual para a parte. IV. Apelo desprovido”. (TJMT - Ap 10664/2017, DESA. MARIA EROTIDES KNEIP BARANJAK, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 22/05/2017, Publicado no DJE 26/07/2017)
+“PROCESSO CIVIL E TRIBUTÁRIO – APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – DEVEDOR CITADO POR EDITAL — POSSIBILIDADE – ESGOTAMENTO DAS SUCESSIVAS MODALIDADES DE CITAÇÃO - EDITALÍCIA - VALIDADE – RECURSO DESPROVIDO. A citação editalícia, na execução fiscal, deve ocorrer quando frustradas as diligências citatórias realizadas por carta ou por mandado a ser cumprido por oficial de justiça. Precedentes do STJ”. (Ap 46830/2015, DES. MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 06/06/2016, Publicado no DJE 13/06/2016)
+“APELAÇÃO CÍVEL – EXECUÇÃO FISCAL – DESPACHO QUE ORDENA A CITAÇÃO ANTERIOR À VIGÊNCIA DA LEI COMPLEMENTAR N. 118/2005 – NECESSIDADE DE CITAÇÃO VÁLIDA – NULIDADE DA CITAÇÃO POR EDITAL – DECRETAÇÃO DA PRESCRIÇÃO – POSSIBILIDADE – INAPLICABILIDADE DA SÚMULA 106 DO STJ - SENTENÇA MANTIDA – RECURSO DESPROVIDO. [...] A citação por edital somente se justifica quando não for possível ser realizada via correio e por oficial de justiça, uma vez que é meio de comunicação excepcional [....]”. (TJMT - Ap 24107/2016, DESA. ANTÔNIA SIQUEIRA GONÇALVES , SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 11/12/2018, Publicado no DJE 19/12/2018)
+No caso dos autos, observa-se que as citações das Agravantes foram realizadas na modalidade edital, somente depois de frustradas as citações por carta registrada e pessoal mandado.
+Com efeito, os indícios se pairam no sentido de que a citação realizada nos autos originários por meio de edital se encontra em conformidade com a Súmula 414 do Superior Tribunal de Justiça e art. 8o da Lei de Execução Fiscal, motivo pelo qual não se vislumbra a presença do requisito da plausibilidade do direito.
+Ante o exposto, indefiro o efeito suspensivo/ativo recursal vindicado.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se a parte Agravada, para querendo, apresentar resposta no prazo legal.
+Após, à Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relato
