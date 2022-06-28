@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Gentil Meireles Netoà decisão monocrática de fls. 365-370(e-STJ), por meio da qual esta relatoria conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões recursais (e-STJ, fls. 372-376), alegaoembargantea existência de omissão e contradição na decisão unipessoal.
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Ao analisar as questões aduzidas no agravo em recurso especial,aplicou-se os apontados óbices processuais de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observa-se, ademais, que o embargante, na verdade, busca a rediscussão da matéria já decidida de maneira inequívoca, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Cabe ressaltar que a decisão embargada foi fundamentada no sentido deque o recorrente deixou de impugnar todos os fundamentos mencionados pelo acórdão recorrido, situação que impede o prosseguimento do recurso excepcional nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial.
+Além disso, reconheceu o Tribunal estadual que, a partir dos documentos acostados aos autos, que a renda do recorrente não é compatível com a concessão do benefício, mostrando-seinviável ao STJ infirmar as conclusões da instância originária, a fim de verificar se o recorrente cumpre com os requisitos legais para deferimento do pedido de gratuidade judiciária, uma vez que seria necessário o revolvimento do conjunto fático-probatório dos autos, o que não é possível diante da incidência da Súmula 7/STJ.
+Ademais, a gratuidade deferida na admissibilidade se deu apenas para possibilitar o processamento do recurso especial interposto na origem, não havendo por parte do Tribunal local qualquer juízo exauriente da matéria.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVOEM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
