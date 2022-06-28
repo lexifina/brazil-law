@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial em face de acórdão assim ementado (fls. 198-199):
+EMENTA: APELAÇÃO PENAL. TRÁFICO DE DROGAS. RECURSO DEFENSIVO. PRETENDIDA DESCLASSIFICAÇÃO PARA A CONDUTA DO ART. 28 DA LEI 11.343/06. IMPOSSIBILIDADE. COMPROVADO O COMÉRCIO ILÍCITO DO ENTORPECENTE. REDIMENSIONAMENTO DA PENA IMPOSTA. NÃO ACOLHIMENTO. CIRCUNSTÂNCIA JUDICIALDESFAVORÁVEL (CONSEQUÊNCIAS DO CRIME). SÚMULA Nº 23 DO TJPA. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Sustenta a defesa violação do art. 59 do CP, aduzindo ausência de fundamentação idônea na exasperação da pena-base.
+Requer o provimento do recurso para fixar a pena-base no mínimo legal, redimensionando a pena final.
+Contrarrazoado e admitido, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+O recorrente foi condenado, como incurso no art. 33, caput, da Lei 11.343/2006, à pena de 6 anos de reclusão, em regime inicial semiaberto, além de 500 dias-multa, sendo a dosimetria assim estabelecida na sentença (fl. 139):
+A culpabilidade do réu encontra-se censurada, pois o mesmo é pessoa imputável, sendo que podia ter agido de forma diversa, e não o fez. Não possui antecedentes criminais. A sua conduta social não restou esclarecida nos autos. Sua personalidade aparenta de ser de pessoa normal. Os motivos -é revel. Quanto às circunstâncias do crime são os comuns ao tipo, pois o acusado foi flagrado com o entorpecente sob sua guarda na via pública. O delito não teve maiores conseqüências.
+Assim, diante das circunstâncias judiciais acima expostas, fixo a pena base, afastada um pouco do mínimo legal, ou seja, 06 (seis) anos de reclusão.
+Ausentes circunstâncias atenuantes ou agravantes, permanecendo a pena provisória em 06 (seis) anos de reclusão.
+Outrossim, não havendo, a esta altura, causas de aumento ou diminuição da reprimenda, deve a pena definitiva ficar em 06 (seis) anos de reclusão.
+A dosimetria foi mantida pelo acórdão recorrido nos seguintes termos (fl.202):
+ ..  a majoração da pena-base foi embasada na circunstância judicial, concretas e muito bem dosadas pelo Juízo de 1º grau, que estabeleceu a reprimenda em 1 (um) ano acima do mínimo legal, portanto, de modo necessário e adequado à reprovação e prevenção do crime não cabendo ser feito nenhum reparo.
+Consoante jurisprudência do Superior Tribunal de Justiça, "A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no REsp 1918901/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/05/2021, DJe 20/05/2021).
+Nos termos da orientação jurisprudencial desta Corte, a culpabilidade, "para fins do art. 59 do Código Penal, deve ser compreendida como juízo de reprovabilidade sobre a conduta, apontando maior ou menor censurabilidade do comportamento do réu" (AgRg no AREsp 1769665/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021). Nesse sentido: RHC 124.932/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020, AgRg no HC 430.031/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 13/06/2018.
+No caso, considerou-se que "A culpabilidade do réu encontra-se censurada, pois o mesmo é pessoa imputável, sendo que podia ter agido de forma diversa, e não o fez".
+Nos termos da orientação jurisprudencial desta Corte, "A valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1672105/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 01/09/2020), o que não se verifica na hipótese, porquanto empregadosfundamentos genéricos, devendo ser afastada a circunstância desfavorável.
+Desta forma, a pena-base vai fixada no mínimo legal de 5 anos de reclusão e 500 dias-multa, quantum que se faz definitivo nas etapas posteriores, à míngua de outras causas modificativas. Mantido o regime semiaberto (art. 33, § 2º, b, do CP).
+Ante o exposto, dou provimento ao recurso especial para reduzir a pena a 5 anos de reclusão, em regime semiaberto, e 500 dias-multa.
+Publique-se.
+Intimem-se.
