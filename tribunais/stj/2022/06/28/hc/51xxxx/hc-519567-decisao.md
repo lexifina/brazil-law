@@ -1,0 +1,27 @@
+DECISÃO
+VILMAR BRUM PEREIRA, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1503238-21.2018.8.26.0228.
+Depreende-se dos autos que o réu foi condenado a 4 anos e 8 meses de reclusão, em regime fechado, mais 11 dias-multa, pela prática do crime previsto no art. 157, caput, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Neste habeas corpus, alega a impetrante que os registros de vida pregressa do agente já foram alcançados pelo prazo depurador da reincidência, razão por que não são aptos para configurar maus antecedentes.
+Sustenta que foi imposto regime mais gravoso do que o devido, mediante fundamentação inidônea.
+Pede sejam considerados neutros os antecedentes e determinado que o cumprimento inicial da pena seja no modo semiaberto.
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pela denegação da ordem postulada.
+Decido.
+A sentença foi proferida nestes termos:
+Na primeira fase da dosimetria, tem-se que a pena deve ser majorada, porque o réu ostenta péssimos antecedentes, por quatro condenações cujas penas foram extintas há mais de cinco anos antes dos fatos (Ia Vara Criminal - fls. 78; 6ª Vara Criminal - fls. 81; 20ª Vara Criminal - fls. 105/106; 31ª Vara Criminal - fls. 79/80 - embora não haja declaração de extinção de tais penas, tem-se que houve expedição de alvará de soltura pelo cumprimento delas em 17/04/2013, conforme informação de fls. 62). Por tais motivos, a pena-base será majorada em 1/6, 04 (quatro) anos e 08 (oito) meses de reclusão e pagamento de 11 (onze) dias-multa.
+O réu é reincidente específico (fls. 82) e confessou integralmente a prática delitiva. Esta magistrada adota o entendimento de que no concurso da agravante da reincidência e da atenuante da confissão deve prevalecer aquela, nos termos do artigo 67 do Código Penal. No entanto, o STJ, quando do julgamento do tema 585 em recurso repetitivo (RESP nº 1.341.370-MT) assentou o entendimento de que deve haver compensação de tais circunstâncias, motivo pelo qual, nesta segunda fase da dosimetria, a pena remanescerá inalterada.
+Ausentes causas de aumento ou diminuição, torno sua pena definitiva naquele patamar, sendo cada dia-multa no valor mínimo legal, ante a ausência de elementos a indicar maior capacidade financeira.
+Levando-se em consideração o montante da pena, o tipo de delito, que envolve violência e grave ameaça contra a pessoa, sendo dos crimes que mais desassossego traz para a sociedade paulistana, bem como a dupla reincidência específica do réu, sendo que o último trânsito em julgado ocorreu no começo deste ano, o regime inicial de cumprimento de pena será o fechado. O Poder Judiciário deve responder com maior rigor aos crimes que representam maior periculosidade, de forma que seus agentes devem receber punição mais severa. Ademais, trata-se de réu reincidente específico e que ostenta outras condenações por igual delito, a indicar que o regime intermediário seja insuficiente, pois, conforme se depreende de sua folha de antecedentes, já foi preso em flagrante e posteriormente condenado enquanto se encontrava em regime semiaberto.
+(fls. 20-21, grifei)
+O acórdão atacado asseriu o seguinte:
+A base foi fixada 1/6 acima do mínimo em razão dos maus antecedentes (quatro condenações com penas extintas - fls. 79/80; 81; 105/106 e 62), resultando quatro anos e oito meses de reclusão, além de 11 dias-multa, no piso.
+A defesa pretende a redução da pena-base em razão do não reconhecimento das condenações cujas penas já foram extintas, como maus antecedentes, porque já decorrido o período depurador de cinco anos. O quinquênio depurador, porquanto previsto unicamente para a reincidência, não pode ser considerado como fundamento para serem afastados os maus antecedentes. Seria ilógico, mesmo do ponto de vista da política criminal mais favorável ao réu, a desconsideração do passado delituoso unicamente pelo decurso de um prazo tão exíguo. Mantenho a majoração da base.
+A reincidência específica (fls. 82) foi compensada com a confissão, mantendo-se a pena inalterada.
+Considerando-se os maus antecedentes, a reincidência e a pena aplicada, o regime inicial fechado é obrigatório; nada a reparar.
+(fl. 40, destaquei)
+No que tange aos maus antecedentes, em julgamento concluído no dia 17/8/2020, o Supremo Tribunal Federal examinou o mérito do RE n. 593.818/SC, com repercussão geral reconhecida, e decidiu que "Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal."
+Pelo que se depreende dos autos, o acusado ostenta quatro condenações definitivas que não foramutilizadas para caracterizar reincidência, de maneira que são aptaspara exasperar a pena-base sob a vetorial maus antecedentes.
+Quanto ao regime inicial, estão elencados no art. 33, §§ 2º e 3º, do Código Penal os critérios para a sua imposição, de modo a determinar que deve ser feita com a observância dos critérios temporais do § 2º, bem como das circunstâncias judiciais, nos termos do art. 59 do Código Penal.
+Ante a quantidade de pena (entre 4 e 8 anos), a reincidência e o registro de circunstância judicial negativa sopesada na primeira fase da dosimetria (maus antecedentes), revela-se correta a fixação do regime inicial fechado, a teor do art. 33, § 2º, "b", do Código Penal.
+Diante do exposto, denego a ordem.
+Publique-se e intimem-se.
