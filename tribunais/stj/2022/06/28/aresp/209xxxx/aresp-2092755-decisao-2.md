@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ELIZABETE RAMOS SEVERO contra decisão que negou seguimento a recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado (fls. 224/225, e-STJ):
+APELAÇÃO CÍVEL.
+PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA.
+Deliberação do decisum a quo que determinou o cancelamento de anotação negativa Ausência de pedido da parte,. Ocorrência de nulidade por desatenção ao princípio da adstrição - inteligência dos artigos 141 e 492 do CPC. Extirpação de parcela do decisum
+RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. CADASTRO DEINADIMPLENTES. AUSÊNCIA DE NOTIFICAÇÃO (art. 43, § 2º DO CDC). DANO MORAL.
+A entidade de restrição de crédito que divulgou o registro em cadastros de inadimplentes tem legitimidade passiva para responder à demanda de cancelamento por ausência da comunicação prevista no art. 43, § 2º, do CDC, inclusive quanto a dados obtidos junto ao Banco Central por emissão de cheques sem fundo - CCF e órgãos conveniados. Ausente a comprovação de notificação ao consumidor acerca da inscrição de seu nome nos órgãos de proteção ao crédito. Descumprimento ao disposto no art. 43, § 2º,do Código de Defesa do Consumidor. Dano moral in re ipsa pela inscrição do nome do devedor em registro de inadimplentes sem prévia comunicação. Inexistindo critérios objetivos de fixação do valor para indenização por dano moral, cabe ao magistrado arbitrar as quantias de acordo com o caso concreto. Valor fixado em sentença reduzido para R$ 1.500,00 (mil e quinhentos reais). Juros de mora. Responsabilidade civil extracontratual. Incidência desde o evento danoso. Súmula 54 do STJ. Honorários advocatícios. Balizadoras do CPC. Manutenção. DE OFÍCIO, EXTIRPADA EM PARTE A SENTENÇA, POR EXTRA PETITA. APELAÇÕES PARCIALMENTE PROVIDA. UNÂNIME.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação ao art. 6º, VI, do Código de Defesa do Consumidor. Sustenta, em síntese, que o valor arbitrado a título de danos morais é irrisório e deve ser majorado.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem assim julgou a apelação (fls. 222/223, e-STJ):
+Destarte, ausente registro preexistente, vez que à época da divulgação dos registros ora impugnados não havia outros apontamentos em nome da consumidora, entendo que os abalos extrapatrimoniais têm-se havidos por presunção, a partir da impropriedade cometida pela requerida, que furtou do autor a possibilidade de impedir o lançamento, sendo desnecessária prova material do prejuízo.
+(..)
+Nesse passo, tenho que o valor fixado em sentença deva ser reduzida para R$1.500,00 (mil e quinhentos reais), o que se mostra adequada ao caso. Sobre a quantia deverá incidir correção monetária a partir da presente data pelo índice utilizado na sentença, nos termos do disposto na Súmula 362 do Superior Tribunal de Justiça.
+Ressalto não prosperar a pretensão de majoração do valor dos danos morais.
+Com efeito, de acordo com a jurisprudência do STJ, em regra, não cabe, em recurso especial, a revisão do montante dessa espécie de compensação, por conta do óbice da Súmula 7/STJ, que veda o reexame de provas. Apenas em casos excepcionais, quando identificada a estipulação de valores exagerados ou irrisórios, incompatíveis com os princípios da proporcionalidade e da razoabilidade, é possível tal revisão.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. PEDIDO DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 20.000,00 (vinte mil reais), nem é exorbitante nem desproporcional às peculiaridades do caso concreto, em que o dano moral decorreu da inscrição indevida do nome da parte ora agravada em cadastro de inadimplentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 681.942/SC, Relator o Ministro Raul Araújo, DJe de 15/9/2015).
+No caso, em que a compensação foi fixada em R$ 1.500,00 (mil e quinhentos reais), entendo bem observados os padrões de razoabilidade e proporcionalidade, não se configurando situação cuja excepcionalidade justifique a intervenção do STJ.
+Cumpre registrar que os recursos interpostos com fundamento no art. 105, III, alínea "c", da Constituição Federal, atraem, regularmente, a incidência da Súmula 7/STJ, quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+3. Agravo não provido.
+(AgRg no AREsp 494.763/RS, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/8/2014, DJe 18/8/2014)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
