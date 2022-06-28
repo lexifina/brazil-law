@@ -1,5 +1,5 @@
 Art. 76. O Sistema de Registro Eletrônico de Imóveis (SREI) será implementado e operado, em âmbito nacional, pelo Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR).
-§ 1º O procedimento administrativo e os atos de registro decorrentes da Reurb serão feitos por meio eletrônico, nos termos do disposto no art. 37 a art. 41 da Lei nº 11.977, de 7 de julho de 2009.
+§ 1º O procedimento administrativo e os atos de registro decorrentes da Reurb serão feitos por meio eletrônico, nos termos dos arts. 37 a 41 da Lei nº 11.977, de 7 de julho de 2009.
 § 2º O ONR será organizado como pessoa jurídica de direito privado, sem fins lucrativos.
 § 3º (VETADO).
 § 4º Caberá à Corregedoria Nacional de Justiça do Conselho Nacional de Justiça exercer a função de agente regulador do ONR e zelar pelo cumprimento de seu estatuto.

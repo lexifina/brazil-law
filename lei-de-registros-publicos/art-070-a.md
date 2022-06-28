@@ -1,0 +1,8 @@
+Art. 70-A. A conversão da união estável em casamento deverá ser requerida pelos companheiros perante o oficial de registro civil de pessoas naturais de sua residência.
+§ 1º Recebido o requerimento, será iniciado o processo de habilitação sob o mesmo rito previsto para o casamento, e deverá constar dos proclamas que se trata de conversão de união estável em casamento.
+§ 2º Em caso de requerimento de conversão de união estável por mandato, a procuração deverá ser pública e com prazo máximo de 30 (trinta) dias.
+§ 3º Se estiver em termos o pedido, será lavrado o assento da conversão da união estável em casamento, independentemente de autorização judicial, prescindindo o ato da celebração do matrimônio.
+§ 4º O assento da conversão da união estável em casamento será lavrado no Livro B, sem a indicação da data e das testemunhas da celebração, do nome do presidente do ato e das assinaturas dos companheiros e das testemunhas, anotando-se no respectivo termo que se trata de conversão de união estável em casamento.
+§ 5º A conversão da união estável dependerá da superação dos impedimentos legais para o casamento, sujeitando-se à adoção do regime patrimonial de bens, na forma dos preceitos da lei civil.
+§ 6º Não constará do assento de casamento convertido a partir da união estável a data do início ou o período de duração desta, salvo no caso de prévio procedimento de certificação eletrônica de união estável realizado perante oficial de registro civil.
+§ 7º Se estiver em termos o pedido, o falecimento da parte no curso do processo de habilitação não impedirá a lavratura do assento de conversão de união estável em casamento.
