@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EMERSON HENRIQUE DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Agravo n. 5000991-69.2022.8.19.0500).
+Neste writ, alega a impetrante constrangimento ilegal decorrente da decisão que indeferiu a aplicação de cálculos diferenciados para fins de progressão de regime, determinando a aplicação mais gravosa referente à reincidência para todas as penas.
+Afirma que a aplicac a o dos efeitos da reincide ncia de maneira generalizada, sem a aplicação do cálculo diferenciado as execuc o es em curso, viola o princi"pio constitucional da individualizac a o da pena.
+Requer seja realizado "o cálculo diferenciado entre os delitos ora executados, a refletir a circunsta ncia pessoal aferida em cada ti"tulo condenato"rio, computando-se para fins de progressão de regime ao primeiro delito hediondo a frac a o de 2/5 (40%) e ao segundo, no qual verificada de fato a reincide ncia especi"fica, a frac a o de 3/5 (60%)" (fl. 15).
+É o relatório. Decido.
+O pedido de liminar foi indeferido às fls. 148-149.
+As informações foram prestadas às fls. 154-174.
+O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 176-178.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+O Juízo da Vara de Execuçõesindeferiu a aplicação de cálculos diferenciados para fins de progressão de regime. O Tribunal de origem manteve tal entendimento, nos seguintes termos (fls. 82-83):
+A pretensão não merece acolhimento.
+Insurge-se o recorrente contra decisão que indeferiu o pedido do sentenciado para que fosse realizado cálculo discriminado computando-se ao primeiro delito hediondo a fração de 2/5 (40%) e ao segundo, no qual verificada de fato a reincidência específica, a fração de 3/5 (60%).
+Ao contrário do que alega o agravante, a reincidência não operou qualquer efeito pretérito sobre a pena do primeiro delito, cominada no juízo criminal durante a fase de conhecimento, a qual observa as regras do Código Penal. Como sabido, a reincidência opera os seus efeitos na fase executiva, especificamente na unificação das penas e nesta fase há regramento específico a ser seguido, ou seja, o que dispõe o artigo112 da LEP, estando o juiz da execução penal a ele atrelado segundo o princípio da legalidade.
+ ..
+Consoante se denota do atestado de pena do Agravante, este é reincidente específico no delito do artigo 33 da Lei 11.343/06, crime equiparado a hediondo e, portanto, enquadra a situação jurídica aqui discutida no artigo112, VII, da LEP.
+Como corretamente entendeu o i. Julgador a quo na linha da pacífica jurisprudência sobre o tema: "A reincidência é um instituto que afeta a condição pessoal do apenado, de maneira que, uma vez reconhecida, estende-se sobre o total das penas."
+Logo, descabe o pleito defensivo de efetuar cálculos isolados com imposição de frações distintas sobre cada uma das penas.
+A conclusão da Corte estadual está em consonância com o entendimento doSuperior Tribunal de Justiça de que a reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios.
+Registre-se também que, nos termos da legislação de regência da matéria, não há justificativa para a consideração isolada de cada condenação, tampouco para a aplicação de percentual diferente a cada uma das reprimendas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DA EXECUÇÃO CRIMINAL. POSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. CIRCUNSTÂNCIA PESSOAL QUE INTERFERE NA EXECUÇÃO COMO UM TODO. APLICAÇÃO DA FRAÇÃO DE 3/5 APENAS AO REINCIDENTE ESPECÍFICO.IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL.
+1. A reincidência do acusado constitui circunstância pessoal que acompanha o condenado durante toda a execução, podendo ser reconhecida pelo Juízo que supervisiona o cumprimento da pena, ainda que não declarada pelo Juízo que prolatou a sentença condenatória. Precedentes.
+2. De outra parte, firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo).
+3. Agravo regimental não provido.(AgRg no HC n. 494.404/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/5/2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. INCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. QUESTÃO PACIFICADA NO JULGAMENTO DO ERESP N. 1.738.968/MG. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte, recentemente, pacificou a questão, prevalecendo o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+2. Com a superveniência de novas condenações, a unificação das penas leva ao reconhecimento da reincidência, mesmo que tal constatação não tenha ocorrido na fase de conhecimento, fazendo incidir ao caso regras específicas na condição de reincidente ao cumprimento da totalidade da reprimenda. Precedentes.
+3. Agravo regimental desprovido.(AgRg no HC n. 680.497/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/11/2021.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO. RECONHECIMENTO DA REINCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência deste Superior Tribunal é firme em assinalar que a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estender-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios.
+2. Certamente, não cabe ao Juízo da Execução rever a sentença a cumprir, sob pena de violar a coisa julgada. Contudo, quando houver registro de condenação definitiva por mais de um crime, em processos distintos, é de sua competência, no momento da aplicação do art. 111 da LEP, com fins exclusivos de examinar benefícios do sistema progressivo, averiguar a natureza dos delitos (comum, hediondo ou outros a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência), dados que interferem, tão somente, na individualização da execução penal.
+3. Como o agravado registra pluralidade de condenações, a condição de reincidente passou a reger a execução como um todo. Exige-se daquele que viola reiteradamente o ordenamento jurídico o cumprimento de condições mais rigorosas antes de se atenuarem os rigores da pena aplicada.
+4. Agravo regimental não provido. (AgRg no REsp n. 1.824.437/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29/11/2019.)
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ,não conheço do habeas corpus.
+Publique-se. Intimem-se.
