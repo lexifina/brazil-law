@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+APELAÇÃO. ADMINISTRATIVO. SERVIDOR PÚBLICO. NOVO ENTENDIMENTO DA ADMINISTRAÇÃO. VEDAÇÃO À APLICAÇÃO RETROATIVA DE NOVA INTERPRETAÇÃO.
+1. O artigo 2º, inciso XIII, da lei 9.784/99, em prol do princípio da segurança jurídica, veda a aplicação retroativa de nova interpretação adotada pela administração. Os atos já praticados mediante aplicação de uma determinada interpretação que a administração então entendia a mais adequada não podem ser revistos em face de posterior adoção de nova interpretação.
+2. Apelação provida.
+Embargos de Declaração parcialmente providos.
+A parte agravante, nas razões de Recurso Especial, aponta violação dos arts. 1.022 do CPC; 53 e 54 da Lei 9.784/1999; e 1º, V, 39, 49, IV e 51 da Lei 8.443/1992. Alega (fl. 491, e-STJ):
+O acórdão recorrido entendeu pela impossibilidade da Administração Pública proceder à revisão da contagem de tempo de serviço especial após a edição da Lei nº 8.112/1990.
+Ocorre que esse entendimento não pode prevalecer, pois não houve apreciação por parte do Tribunal de Contas da União, o que demonstra inexistir decadência do direito, porquanto inaplicável o artigo 54 da Lei 9.784/1999, o qual começa a transcorrer após o registro da respectiva legalidade do benefício por parte do TCU.
+Contrarrazões às fls. 516-545, e-STJ.
+Decisão de inadmissibilidade às fls. 548-565, e-STJ, o que ensejou a interposição do presente Agravo.
+Contraminuta às fls. 601-656, e-STJ.
+É o relatório.
+Decido
+Os autos foram recebidos neste Gabinete em 17.5.2022.
+Inicialmente, não se conhece da suposta afronta aoart.1.022 do CPC/2015, pois a recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em Embargos de Declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incidência daSúmula 284/STF.
+No que tange à violação apontada aos artigos1º, V, 39, 49, IV e 51 da Lei 8.443/1992 e suas respectivas teses, observa-se que não houve pronunciamento explícito sobre a matéria versada nos citados dispositivos legais, não obstante a apresentação de Aclaratórios, o que atrai a incidência da Súmula 211/STJ.
+O Tribunal a quo, ao analisar a controvérsia, consignou (fls. 419-420, e-STJ):
+Analisando a situação dos autos, entendo que merece prosperar o recurso da autora, pois o ato de conversão de tempo especial em comum não poderia ter sido revisto administrativamente, em razão de ser vedada a aplicação retroativa de nova interpretação adotada pela administração.
+Os documentos trazidos aos autos dão conta de que a autora obteve a conversão do tempo especial em comum na data de 15/04/2013 (1-OUT8, página 7), com base na Instrução Normativa n. 01/SPS/MPS, de 22/07/2010 (1- OUT8, página 30). A revisão de tal ato, por sua vez, ocorreu com base em entendimento posterior ao ato da conversão, trazido pela Orientação Normativa n. 16 de 23/12/2013, a partir da qual a administração passou a entender pela proibição da conversão do tempo especial em comum (1-OUT8, página 6).
+Não verifico ilegalidade manifesta no fato de ter sido averbada a conversão de tempo especial em comum do servidor público. A questão discutida, de fato, sempre foi controvertida na jurisprudência dos órgãos jurisdicionais. Administrativamente, a questão também sofreu alteração de entendimento ao longo do tempo, conforme, inclusive, se verifica na situação concreta da autora.
+Dessa forma, entendo que a divergência existente acerca da matéria é apenas na interpretação da lei, não havendo manifesta ilegalidade no ato que acabou sendo revisado pela administração.
+Por tal razão, entendo necessário destacar o disposto no artigo 2º, parágrafo único, inciso XIII, da lei 9.784/99, o qual, em prol do princípio da segurança jurídica, veda a aplicação retroativa de nova interpretação adotada pela administração:
+(..)
+Assim, entendo que não poderia a administração rever o ato com base em novo entendimento decorrente da Orientação Normativa n. 16 de 23/12/2013, pois os atos já praticados mediante aplicação de uma determinada interpretação que a administração então entendia a mais adequada não podem ser revistos em face de posterior adoção de nova interpretação.
+Quanto ao mérito, verifica-se que o Recurso não ultrapassa o juízo de admissibilidade, porquanto os argumentos deduzidos pela recorrente não correspondem aos fundamentos apresentados nodecisum impugnado.A recorrente se limita a defender a inexistência de decadência na hipótese dos autos, bem como a legalidade do ato de revisão do ato deconversão de tempo especial em comum.
+No entanto, o aresto impugnado não se baseou nem na decadência, nem na ilegalidade do mérito do ato questionado, mas, sim, na observância aoprincípioda segurança jurídica, assim como na regra que veda à administração pública a aplicação retroativa de nova interpretação. Desse modo, evidente a deficiência na fundamentação recursal, de modo a atrair a incidência, na espécie, da Súmula 284/STF.Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. LICITAÇÃO. CREDENCIAMENTO. SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. PREVISÃO EDITALÍCIA. VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. SUPOSTA VIOLAÇÃO A DISPOSITIVOS DA LEI Nº 8.666/1993 E DO CÓDIGO CIVIL. RAZÕES RECURSAIS INAPTAS DE INFIRMAR OS FUNDAMENTOS DO ACÓRDÃO. SÚMULAS 284 E 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O mero julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+3. Não se conhece do recurso especial por deficiência na sua fundamentação, estando as razões do recurso genéricas e dissociadas do que decidido no acórdão recorrido, bem como quando não impugnam fundamento autônomo, suficiente por si só à manutenção do julgado (Súmulas 284 e 283/STF).
+4. O recurso especial não é, em razão das Súmulas 05 e 07/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa, tampouco de interpretação de cláusulas contratuais.
+5. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+6. Agravo interno não provido. (AgInt no AREsp 1.343.289/AP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA,DJe 14/12/2018)
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
