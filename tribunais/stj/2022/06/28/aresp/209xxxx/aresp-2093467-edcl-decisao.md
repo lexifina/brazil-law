@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LENI CANDIDO DA CRUZ, à decisão de fls. 1052/1053, que não conheceu do recurso.
+Sustenta a parte embargante que:
+NO CASO DOS AUTOS, VEJAMOS QUE A DECISÃO DE MOV.45, CONSIDEROU O RECURSO DESERTO, TENDO EM VISTA, A FALTA DE JUNTADO DO PREPARO RECURSAL, E O SEU RECOLHIMENTO EM DOBRO. VEJAMOS O TRECHO DA DECISÃO MONOCRÁTICO:
+ ..
+OCORRE EXCELÊNCIA, QUE TAIS PUBLICAÇÕES PARA SANAR O VÍCIO DO PREPARO FORAM REALIZADOS PARA O ÓRGÃO DA DEFENSORIA PÚBLICA DA UNIÃO, SENDO INERTE A INTIMAÇÃO PARA OS PATRONOS DA RECORRENTE.
+DIANTE TAL SITUAÇÃO, PARA SANAR EVENTUAL OMISSÃO NA INTIMAÇÃO DOS PATRONOS DA RECORRENTE (DR. WILLIAN RIBEIRO SANO E GUILHERME GEBRIM) REQUER A INTIMAÇÃO DA CERTIDÃO PARA SANEAMENTO DE ÓBICES DE Nº. 34 PARA OS ADVOGADOS ACIMA LISTADOS, PARA QUE NO PRAZO CONCEDIDO NO ATO JUDICIAL, CORRIJA O EVENTUAL ERRO DE PREPARO (fl. 1057).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que a petição de recurso especial foi protocolada, na origem, sem a respectiva guia de recolhimento, apesar de presente o comprovante de pagamento das custas.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando-se a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis (fl. 1050).
+Ao contrário do alegado pela parte, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Constaram da referida edição do DJe, n. 3369, disponibilizada em 6/4/2022 e publicada em 7/4/2022, todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este AREsp n. 2.093.467-DF. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão que consta à fl. 1044, e cumprir a determinação de regularização do vício.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
