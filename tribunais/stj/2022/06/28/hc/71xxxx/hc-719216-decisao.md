@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedidoliminar, impetrado contraacórdão assim relatado (fls. 36-37):
+Trata-se de apelação criminal, interposta por Tércio GarciaIta contra a r. sentença de fls. 268/279 (publicada aos 21/10/2020 - fl.284), cujo relatório se adota, que o condenou como incurso nas penas doartigo 33, "caput", da Lei nº 11.343/06, a 6 (seis) anos, 9 (nove) meses e20 (vinte) dias de reclusão, em regime inicial fechado, e a 680(seiscentos e oitenta) dias-multa, no mínimo legal.
+Inconformado, apela o réu, em busca, da desclassificaçãopara o crime previsto no artigo 28, "caput", da Lei nº 11.343/06 ou que"seja sua condenação nos moldes do §3º, do artigo 33, da Lei deDrogas". Subsidiariamente, requer "a mitigação do índice exasperanteutilizado na primeira fase da dosimetria. através da aplicação de 1/8 (umoitavo) sobre a reprimenda basilar" e o abrandamento do regime prisional
+(sic-fls. 295/310).
+Contra-arrazoado o recurso (fls. 327/330), o parecer dadouta Procuradoria de Justiça é pelo improvimento (fls. 389/395).
+Consta dos autos que o paciente foi condenado à pena 6anos, 9meses e 20 dias de reclusão em regime inicial fechado, mais 680 dias-multa, como incurso no art. 33, caput, da Lei n.11.343/2006.
+O paciente impetrahabeas corpus, de próprio punho, sustentando ilegalidade na dosimetria da pena, bem como na fixação do regime fechado para o cumprimento da pena.
+Alega que não pode prevalecer a tese da reincidência pois, em que pese játer sido condenado por tráfico de drogas, a extinção da punibilidade foi decretadaem 2013.
+Argumenta que houvebis in idemna segunda fase da dosimetria quando se levou em conta a reincidência novamente.
+Aduz que na terceira fase houve ilegalidade ao não aplicar a minorante do tráfico privilegiado contido no art. 33, § 4º, da Lei 11.343/06.
+Sustenta que o regime inicial mais indicado para seu caso, levando em consideração o que jáfoi exposto, é o aberto ou o semiaberto.
+Afirma, por fim, ter direito à indenização nos termos do art. 630, § 1º, do Código de Processo Penal.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+No que tange à dosimetria da pena, a sentença restou assim fundamentada (fl. 30):
+Na dosagem da pena-base, aumento a pena mínima em 1/6, ante a natureza (cocaína) - elevado poder destrutivo - e a quantidade (200 porções), totalizando 5 anos e 10 meses de reclusão, e 583 dias-multa. Levo em consideração, ainda, o relativamente elevado numerário encontrado em poder do réu, indicativo de mercancia ilícita.
+Na segunda fase, verifico a incidência da agravante genérica da reincidência (específica, cf. FA de fls. 56/63 e certidão de fls. 64/67 condenação definitiva pela prática do crime de tráfico de drogas autos nº 8550-25.2009, 2ª Vara Criminal de Atibaia, trânsito em julgado em junho de 2011, com extinção da pena privativade liberdade em 30/10/2015 e da pena de multa em 2016), motivo pelo qual aumento a pena em mais 1/6, totalizando 6 anos, 9 meses e 20 dias de reclusão, e 680 dias-multa.
+Finalmente, na terceira fase, inexistem causas de aumento ou de diminuição a serem consideradas, observando-se que o acusado não faz jus à causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei de Drogas, pelos motivos supramencionados.
+Torno definitiva a pena acima mencionada.
+O dia-multa será fixado em seu mínimo legal, ante a ausência de informações específicas acerca da situação financeira do acusado, salvo aquela genericamente mencionada por ocasião de seu interrogatório policial (vida pregressa, sobretudo), insuficiente para tal finalidade.
+Quanto ao regime inicial de cumprimento de pena, fixo o fechado, tendo em vista a reincidência (específica) do acusado, nos termos do artigo 33, § 2º, do Código Penal. Levo em consideração, ainda, as circunstâncias judiciais desfavoráveis supramencionadas (cf. art. 33, § 3º, do Código Penal).
+Entendo não ser cabível a conversão da pena privativa de liberdade em restritiva de direitos, tendo em vista a quantidade de pena aplicada (superior a 04 anos), além do fato de o acusado ser reincidente específico (artigo 44, incisos I e II e § 3º, do Código Penal).
+O acórdão impugnado fundamentou a decisão nos seguintes termos (fls. 74/755):
+É importante mencionar que o pagamento da pena de multa referente à condenação irrecorrivel sofrida pelo peticionário, pela prática de delito semelhante, ocorreu apenas em 27 de outubro de 2016, data em que foi declarada extinta, iniciando a partir dessa data o lapso depurador 5 . Não se olvide que o cumprimento da sanção imposta só se aperfeiçoa com o adimplemento integral da pena de multa.Tendo sido praticado o delito ora apurado em 28 de agosto de 2020, antes do decurso do lapso de cinco anos da extinção da pena, é reincidente o peticionário, portanto.
+No tocante à insurgência da defesa quanto ao aumento da pena pela reincidência, consta dos autos que os fatos pelos quais o paciente foi condenado ocorreram em 28/8/2020, sendo certo quea extinção da pena privativa de liberdade pela prática do delito anteriordeu-se em 30/10/2015e da pena de multa em 2016.
+Sendo assim, correto o aumento da pena na segunda fase pela agravante da reincidência, tendo em vista que a condenação anterior não foi atingida pelo período depurador.
+Outrossim, a reincidência afasta a possibilidade de aplicação da minorante do art. 33, § 4º, da Lei 11.343/06,nos termos do entendimento desta Corte. A propósito:
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. TESE DE FRAGILIDADE PROBATÓRIA PARA A CONDENAÇÃO. QUESTÃO QUE DEMANDA INCURSÃO APROFUNDADA EM MATÉRIA FÁTICA. IMPOSSIBILIDADE NA ESTREITA VIA DO HABEAS CORPUS. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6 (UM SEXTO). NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA. REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. MINORANTE. ART. 33, § 4.º, DA LEI N. 11.343/2006. REINCIDÊNCIA. AUSÊNCIA DOS REQUISITOS LEGAIS. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. Para se acolher a pretendida absolvição do Paciente, seria necessário reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+2. Excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+3. No caso, está fundamentado, de forma adequada, o aumento operado na primeira fase da dosimetria, em razão do reconhecimento de maus antecedentes e da quantidade e da natureza da droga apreendida. Foi observado, na verdade, o que determina o art. 42 da Lei n. 11.343/2006.
+4. O aumento efetivado na primeira fase da dosimetria do crime de tráfico de drogas - pena-base fixada em 2 (dois) anos e 6 (seis) meses acima do mínimo legal - revela-se proporcional e fundamentado, considerando-se a motivação apresentada e a pena abstratamente cominada para o crime: cinco a quinze anos de reclusão.
+5. A fração superior a 1/6 para agravamento da pena pela reincidência foi concretamente fundamentada no fato de o Paciente ostentar "duas condenações definitivas anteriores por tráfico", tratando-se, portanto, de reincidente específico.
+6. O art. 33, § 4.º, da Lei n. 11.343/2006 autoriza a redução da pena, no delito de tráfico de drogas, se o agente, cumulativamente, for primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa 7. No caso, a Corte de origem, ao negar a aplicação do tráfico privilegiado, consignou que o Paciente é reincidente. Desse modo, revela-se acertada a negativa de incidência da minorante, pois está ausente a primariedade do agente, requisito expressamente exigido pela Lei de Drogas.
+8. Mantido o afastamento da minorante pleiteada, ficam prejudicados os pedidos de abrandamento do regime inicial e substituição da pena privativa de liberdade por restritivas de direitos.
+9. Ordem de habeas corpus parcialmente conhecida e, nessa extensão denegada.
+(HC n. 692.874/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+Por fim, a consideração de circunstâncias judiciais negativas assim como a reincidência do paciente justificam a fixação de regime mais gravoso, no caso, no fechado,nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
