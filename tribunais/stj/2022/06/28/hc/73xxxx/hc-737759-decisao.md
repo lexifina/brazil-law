@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MIKEERICLES DE OLIVEIRA SILVA, apontando como autoridade coatora o Tribunal deJustiça do São Paulo (Embargos Infringentes e de Nulidade nº 1500058-41.2020.8.26.0611/50000).
+Consta dos autos que o paciente foi condenado à pena de 1anos e 6mesesde reclusão, em regime inicial semiaberto, pela prática do delito previsto no artigo 155, § 4º, I e II c/c 14, II, doCódigo Penal (fls. 34-36, e-STJ).
+Interposto recurso de apelação, foi desprovido, por maioria,pela Corte estadual, nosmoldes da seguinte ementa:
+"APELAÇÃO CRIMINAL Art. 155, § 4º, incisos I e II, c. c artigo 14, II, ambos do Código Penal Sentença Condenatória Recurso Defensivo - Não discute o mérito Autoria e materialidade sobejamente comprovadas. ABSOLVIÇÃO PELA ATIPICIDADE MATERIAL DA CONDUTA COM BASE NO PRINCÍPIO DA INSIGNIFICÂNCIA IMPOSSIBILIDADE - Inaplicabilidade na espécie, conduta que não pode ser desvalorada, aliada à sua reincidência, indicam maior reprovabilidade, não se justificando a aplicação do princípio da insignificância. Precedentes do STJ Manutenção da condenação. Recurso improvido."(fl. 18, e-STJ)
+Na sequência, a defesa opôs embargos infringentes, rejeitados nos termos de acórdão de fls. 29-33, e-STJ.
+Neste writ, a impetrante sustenta, em suma, ser o caso de aplicação doprincípio da insignificância, diante da atipicidade material da conduta doagente, sobretudo pelos bens subtraídos, os quais foramimediatamente restituídos ao estabelecimento vítima.
+Assevera que a reincidência não o reconhecimento da insignificância, pois o que se leva em consideração é o fato e não a pessoa.
+Pugna a concessão da ordem para que seja determinada a absolvição dopaciente.
+Indeferido o pedido de liminar (fl. 72, e-STJ).
+O Ministério Público Federal opinou pelo não conhecimentoda ordem (fls. 377-386, e-STJ).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentidode que não cabe habeas corpus substitutivo do recurso legalmente previstopara a hipótese, impondo-se o não conhecimento da impetração, salvo quandoconstatada a existência de flagrante ilegalidade no ato judicialimpugnado.
+Com efeito, o "princípio da insignificância - que deve ser analisado emconexão com os postulados da fragmentariedade e da intervenção mínima doEstado em matéria penal - tem o sentido de excluir ou de afastar a própriatipicidade penal, examinada na perspectiva de seu caráter material.  .. Tal postulado - que considera necessária, na aferição do relevo materialda tipicidade penal, a presença de certos vetores, tais como (a) a mínimaofensividade da conduta do agente, (b) nenhuma periculosidade social daação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) ainexpressividade da lesão jurídica provocada - apoiou-se, em seu processode formulação teórica, no reconhecimento de que o caráter subsidiário dosistema penal reclama e impõe, em função dos próprios objetivos por elevisados, a intervenção mínima do Poder Público." (HC n. 84.412-0/SP, STF,Rel. Ministro CELSO DE MELLO, DJU 19/11/2004.)
+Nesse passo, esta Corte Superior de Justiça possui entendimentoconsolidado no sentido de que, não se há falar em aplicação do princípioda insignificância quando o valor da res furtivae ultrapassar o montantede 10% do salário mínimo vigente à época do fato, sendo este o parâmetro aser seguido. A respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TENTATIVA DE FURTO. VALOR DO OBJETO SUPERIOR A 10 % (DEZ POR CENTO) DO SALÁRIO MÍNIMO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte entende que não se aplica o princípio da insignificância quando o valor da res furtiva era superior a 10% do salário mínimo da época dos fatos.
+2. No caso dos autos, a Corte Estadual concluiu pela inaplicabilidade do princípio da insignificância a fim de afastar a tipicidade material da conduta, que o valor do bem que se tentou subtrair chegava a quase um terço do salário mínimo então vigente.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.946.136/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSOPRÓPRIO.INADMISSIBILIDADE. CRIME DE FURTO QUALIFICADO. PRINCÍPIO DAINSIGNIFICÂNCIA. INAPLICABILIDADE. DELITO PRATICADO MEDIANTE CONCURSO DEAGENTES. VALOR DOS BENS NÃO CONSIDERADO ÍNFIMO. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, tambémà revisão criminal, impondo-se o não conhecimento da impetração, salvo severificada flagrante ilegalidade no ato judicial impugnado apta a ensejara concessão da ordem de ofício.
+2. A aplicação do princípio da insignificância, segundo a orientação doSupremo Tribunal Federal, demanda a verificação da lesividade mínima daconduta, apta a torná-la atípica, considerando-se: a) a mínimaofensividade da conduta do agente; b) a inexistência de periculosidadesocial na ação; c) o reduzido grau de reprovabilidade do comportamento; ed) a inexpressividade da lesão jurídica provocada. O Direito Penal nãodeve ocupar-se de condutas que, diante do desvalor do resultado produzido,não representem prejuízo relevante para o titular do bem jurídico tutelado
+ou para a integridade da própria ordem social.
+3. A prática do delito mediante o concurso de agentes demonstra maiorreprovabilidade da conduta, inviabilizando a aplicação do princípio dainsignificância.
+4. Inaplicável o princípio da insignificância quando o valor dos bensfurtados não é considerado ínfimo por superar o parâmetro de 10% dosalário mínimo vigente à época dos fatos, critério utilizado pelo STJ paraaferir a relevância da lesão patrimonial.
+5. Mantém-se integralmente a decisão agravada cujos fundamentos estão emconformidade com o entendimento do STJ sobre a matéria suscitada.
+6. Agravo regimental desprovido."
+(AgRg no HC 646.518/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTATURMA, julgado em 15/06/2021, DJe 17/06/2021, grifou-se);
+No caso em apreço, conforme narra o acórdão impugnado, os objetos furtadospelo réu (36 latas de cerveja) foram avaliados em de R$ 116,70, valor correspondenteao percentual aproximado de 11,23% do salário mínimo vigente na data daocorrência, 22/03/2020(R$ 1.039,00).
+Além disso, ao rechaçar o pleito defensivo, a Corte de origem consignou:
+"A conduta, tal como revela a prova produzida, passa ao largo da inexpressividade penal, uma vez que o acusado ingressou no depósito da vítima, mediante escalada de muro e rompimento de obstáculo, de onde retirou 03 (três) fardos de cerveja da marca "Sub Zero", escondendo-as atrás de um coqueiro, onde as deixou, demonstrando extrema e desmedida ousadia.
+Além disso, a circunstância do réu é reincidente, pela prática de crimes contra o patrimônio, evidencia por parte do réu maior grau de reprovabilidade do comportamento, não se mostrando suficiente, para o caso, a aplicação do princípio da insignificância. Neste caso, em particular, a aplicação de referido princípio, a contumaz na prática delitiva, não serviria para a sua recuperação, mas sim para o incentivo a novas práticas delitivas, desatendendo, portanto, a boa política criminal."(fls. 23-24, e-STJ)
+Sobre o tema, esta Quinta Turmareconhece que o princípio dainsignificância não tem aplicabilidade em casos de reiteração da condutadelitiva, salvo excepcionalmente, quando demonstrado ser tal medidarecomendável diante das circunstâncias concretas.A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESP INADMISSÍVEL. INCIDÊNCIA DO ÓBICE PREVISTO NA SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante infirmar as causas específicas da decisão agravada, sob pena de incidência da Súmula n. 182 do STJ.
+2. A Corte de origem afastou a possibilidade da absolvição pelo princípio da insignificância, por se tratar de réu possuidor de maus antecedentes e duplo reincidente em crimes patrimoniais, e pela circunstância de o valor do bem ser superior a 10 % do salário mínimo vigente à época. O regime inicial semiaberto foi estabelecido em obediência à orientação da Súmula n. 269 do STJ. O recurso especial é inadmissível pelo disposto na Súmula n. 83 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.825.371/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2021, DJe de 13/8/2021.)
+Na hipótese, verifica-se a contumácia delitiva do réu, que é reincidenteem crimes contra o patrimônio.
+Portanto, mostra-se inviável o reconhecimento da atipicidade material daconduta, por não restarem demonstradas os exigidos ausência depericulosidade social da ação, reduzidíssimo grau de reprovabilidade, bemcomo em razão da contumácia do paciente na prática de delitos.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
