@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pela PETRÓLEO BRASILEIRO S.A. - PETROBRÁS contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especialfundado na alínea "a" do permissivo constitucional, que desafiouacórdão assim ementado (e-STJ fls. 1.574/1.581):
+APELAÇÃO CÍVEL. PETROBRÁS. Ação de Obrigação de fazer para ingresso nos quadros da empresa. Aprovado em concurso para Técnico de Suprimentos de Bens e Serviços Júnior que não é chamado e a empresa contrata terceirizados. Sentença de improcedência. Recurso visando a nulidade de sentença, por ausência de intervenção do Ministério Público no feito. DADO PARCIAL PROVIMENTO AO RECURSO. ANULAÇÃO DA SENTENÇA. Retorno dos autos à vara de origem para regular prosseguimento do feito.
+No especial obstaculizado, alegou a parte recorrente que oacórdão em vigor fere os arts. 82, 83 e 84 do CPC/73, sob o argumento de queé desnecessária a intervenção do Ministério Público Estadual nas causas relativas a concurso público.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, e o agravante refutou o fundamento da decisão.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+A orientação desta Corte Superior é no sentido de que "a ausência de intimação do Ministério Público, por si só, não gera nulidade do julgado, a não ser que se constate "efetivo prejuízo para as partes ou para apuração ou para apuração da verdade substancial da controvérsia jurídica, à luz do princípio pas de nullités sans grief"" (STJ, AgRg em ARESp 426.672/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 05/06/2014).
+Na hipótese, assim decidiu a Corte de origem quanto àmatéria(e-STJ fl. 1.580):
+Com efeito, o Ministério Público não foi intimado para intervir no presente feito em primeira instância, conforme dispõe o inciso I do artigo 178 do CPC, assim como o artigo 127 da Constituição Federal.
+Dessa forma, por se tratar de demanda de obrigação de fazer objetivando a nomeação em concurso público sob o argumento de existirem terceirizados no mesmo cargo, violando, assim, preceito constitucional, a matéria relaciona-se a direito público indisponível, com a presença do interesse público. Desta feita, pela natureza da lide, a sentença deve ser anulada, para que seja oportunizada a intervenção obrigatória do Parquet.
+Cabe esclarecer que o Ministério Público age exatamente na qualidade de defensor do interesse público, a par da função primordial de se manifestar segundo o Direito, ainda que contrariamente às partes.
+No caso em tela, o MP somente se pronunciou em 2ª instância, após a prolação da sentença e da interposição do recurso ora apreciado, tendo, inclusive, se manifestado em favor da anulação da sentença. (grifos acrescidos)
+Infere-se do acórdão recorrido a ocorrência de prejuízo, in casu,na ausência de intimação do Ministério Público. Nesse passo, a modificação do julgado, nos moldes pretendidos, depende do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo coma Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). ANULAÇÃO DE NEGÓCIO JURÍDICO BANCÁRIO. AUSÊNCIA DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO. NULIDADE DOS ATOS NÃO CONFIGURADA. PREJUÍZO NÃO DEMONSTRADO. ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.(AgInt no AREsp 708.174/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/09/2016, DJe 04/10/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. POSSIBILIDADE. INEXISTÊNCIA DE PREJUÍZO. NULIDADE NÃO RECONHECIDA. REEXAME DE MATÉRIA DE PROVA. SÚMULA Nº 7/STJ.
+1. O princípio da instrumentalidade das formas recomenda que a declaração de nulidade seja precedida da comprovação de efetivo prejuízo.
+2. Rever o entendimento delineado nas instâncias ordinárias, acerca da (in) existência de efetivo prejuízo às partes, demandaria o reexame da prova, o que é inviável em sede de recurso especial (STJ, Súmula nº 07).
+ ..
+4. Agravo regimental desprovido.(AgRg no AREsp 165.444/SP, Rel. Ministro OLINDO MENEZES,Desembargador convocado do TRF 1ª Região, PRIMEIRA TURMA, DJe 31/8/2015). (Grifos acrescidos).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
