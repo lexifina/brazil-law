@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto peloRAFAEL SOUSA ROQUEcom fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o recorrente foi condenado à pena de 4 anos de reclusão, em regime semiaberto, e ao pagamento de 20 dias-multa, pela prática dos crimes de receptação e de adulteração de sinal identificador de veículo automotor (arts. 180,caput, e 311,caput, c/c o art. 69, todos do Código Penal).
+A apelação da defesa foi desprovida, e o recurso do Ministério Público foi provido a fim de cominar o regime inicialmente fechado.
+Irresignada, a defesa interpõe o presente recurso especial, alegando a atipicidade da conduta com relação ao delito do art. 311 do Código Penal. Aduz que o recorrente apenas colocou uma fita adesiva preta na placa do veículo, o que não se reveste de potencialidade lesiva suficiente para a configuração do crime, pois facilmente constatada a adulteração grosseira.
+Sustenta violação ao art. 33, § 2º, alíneab, do Código Penal, uma vezque o recorrente faz jus ao regime inicial semiaberto. Invoca a Súmula n. 269/STJ.
+Contrarrazões às e-STJ fls. 313/324.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 336):
+Penal. Recurso especial. Adulteração de sinal identificador de veículo automotor, mediante emprego de fita adesiva. Tipicidade. Deficiência de fundamentação. Súmula 284/STF. Acórdão em consonância com a jurisprudência do STJ. Súmula 83/STJ. Revolvi- mento de matéria fático-probatória. Súmula 7/STJ.Parecer pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Acerca da quaestio trazida à baila no recurso especial, assim consignou a Corte estadual, in verbis (e-STJ fls. 275/281):
+3. Rafael foi condenado como incurso nos artigos 180, caput, e 311, caput, na forma do artigo 69, todos do Código Penal, porque recebeu e conduziu, em proveito próprio, a caminhonete L200 Triton, placas FHF-2786, de propriedade de Gustavo Raymundo Pulgrossi, sabendo ser produto de crime.
+O increpado ainda adulterou sinal identificador do aludido veículo automotor utilizando fita isolante preta, de modo a modificar o último numeral das placas para constar FHF-2788 no lugar de FHF-2786.
+ ..
+4. A despeito do quanto argumentado pela denodada Defensoria, não se cogita de atipicidade da conduta perpetrada por Rafael.
+Por primeiro, consigne-se que, consoante ensinam Julio Fabbrini Mirabete e Renato N. Fabbrini, o objeto material do delito insculpido no artigo 311, do Código Penal, "é veículo automotor, ou seja, o que se move mecanicamente, especialmente com motor de explosão, para transporte depessoas ou carga, como automóveis, utilitários, caminhões, ônibus, motocicletas etc. Incide a conduta não só sobre o número do chassi do veículo como qualquer sinal identificador (números, marcas, logotipos etc.) de qualquer componente ou equipamento (motor, placas, vidros, peças etc.). O veículo é identificado externamente por meio das placas dianteira e traseira, cujos caracteres serão individualizados e o acompanharão até a baixa do registro, conforme determinação legal (art. 115 do CTB). Tipifica, portanto, a conduta prevista no art. 311 do CP a adulteração ou remarcação desses sinais identificadores, bem como daqueles gravados no chassi ou monobloco (art. 114 do CTB)" - "Manual de Direito Penal" - Parte especial (Arts. 235 a 361 do CP), 27ª ed., editora Atlas, 2013, p.260.
+Depreende-se assim que as placas são sinais identificadores de veículo, constituindo objeto material do citado tipo penal - logo, a modificação de sua leitura através da aposição de fita isolante configura o delito em comento.
+ ..
+Outrossim, também não se há cogitar, na espécie, de adulteração grosseira: os policiais militares que abordaram Rafael aduziram terem concluído pela contrafação somente após realizarem pesquisa das placas na base de dados oficiais, quando inclusive foram cientificados de que o automóvel havia sido objeto de furto no mesmo dia. Isso demonstra, de forma inequívoca, que a adulteração era apta a causar prejuízo ou mesmo induzir a erro pessoa de mediana perspicácia.
+De outro giro, conforme bem anotou o nobre Promotor de Justiça nas contrarrazões recursais, "não há que se falar em aplicação do princípio da insignificância ao crime previsto no art. 311 do Código Penal.
+Nessa senda, trata-se de delito contra a Fé Pública e, em crimes desta estirpe não se aplica o aludido princípio, que exige quatro vetores: a) mínima ofensividade da conduta; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento; d) inexpressividade da lesão jurídica provocada.
+Sem embargo a entendimento contrário, não se pode olvidar que qualquer delito perpetrado contra a Fé Pública é dotado de grande ofensividade da conduta e reprovabilidade do comportamento.
+Além disso, apesar da oscilação acerca do entendimento do tema, nos Tribunais Superiores têm prevalecido a corrente no sentido da inaplicabilidade do princípio em comento a tais crimes:
+ ..
+Por fim, temos que, no caso concreto, o apelante perpetrou o crime previsto no art. 311 do Código Penal a fim de ocultar a prática do delito de receptação da caminhonete - o que, por si só já indica a grande reprovabilidade de seu comportamento" (fls. 243/4).
+E não se há falar em ofensa ao princípio da proporcionalidade: o artigo 311 do diploma substantivo estipula reprimenda reclusiva de três a seis anos, além de multa, a quem atenta contra a fé pública, embaraçando o exercício do poder de polícia estatal no âmbito automotivo.
+Na hipótese dos autos não há como negar a tipicidade objetiva da conduta perpetrada pelo irrogado, decorrente da efetiva adulteração de sinal identificador de veículo mediante a aposição de fita isolante n"um dos numerais das placas do automóvel, ação que se torna ainda mais grave quando identificado o escopo de escamotear delito patrimonial precedente. Destarte, havendo lesão a bem jurídico relevante, não se pode invocar o princípio da proporcionalidade como óbiceà criminalização ou ao enquadramento típico.
+Justo, por tudo isso, o desfecho condenatório.
+Com efeito, o Superior Tribunal de Justiça firmou o entendimento de que é típica a conduta de alterar placa de veículo automotor mediante a colocação de fita adesiva, conforme ocorreu no caso ora em análise, porque a objetividade jurídica tutelada pelo art. 311 do Código Penal é a autenticidade dos sinais identificadores de automóveis.
+Vale acrescentar que " a  jurisprudência desta Corte superior entende que a conduta de alterar a placa de veículo automotor, por qualquer meio, ainda que grosseira e perceptível a "olho nu" configura a conduta típica descrita no art. 311 do Código Penal" (AgRg no HC n. 420.466/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/10/2018, DJe 16/10/2018).
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 311 DO CP. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. FITA ADESIVA. CONDUTA TÍPICA. CONSUMAÇÃO QUE INDEPENDE DA FINALIDADE DO AGENTE. ACÓRDÃO A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE TRIBUNAL. VIOLAÇÃO DA FÉ PÚBLICA. MANUTENÇÃO DA CONDENAÇÃO QUE SE IMPÕE.
+1. O delito em exame tem como objetivo resguardar a autenticidade dos sinais identificadores de veículo automotor, tutelando a fé pública, no que diz respeito à propriedade, registro e segurança dos veículos automotores, visando, também, preservar o poder de polícia e de fiscalização do Estado. Em consonância com o afirmado no acórdão a quo, consuma-se o delito com a própria adulteração ou remarcação de qualquer sinal identificador do veículo.
+2. A jurisprudência desta Corte Superior é firme em assinalar a tipicidade da conduta prevista no art. 311 do Código Penal com a prática de todas as ações pelas quais se adultera ou se remarca o número do chassi ou qualquer sinal identificador de veículo automotor, de seu componente ou equipamento.
+3. A jurisprudência deste Superior Tribunal entende que a simples conduta de adulterar a placa de veículo automotor é típica, enquadrando-se no delito descrito no art. 311 do Código Penal. Não se exige que a conduta do agente seja dirigida a uma finalidade específica, basta que modifique qualquer sinal identificador de veículo automotor (AgRg no AREsp n. 860.012/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 07/02/2017, DJe 16/02/2017). ..  Hipótese em que o acórdão recorrido encontra-se alinhado à jurisprudência desta Corte, no sentido de que o delito descrito no art. 311 do CP resta configurado com a simples adulteração do sinal do veículo automotor, sendo irrelevante a finalidade do agente - se era ou não para cometer outros delitos - e a ausência de utilização do veículo. Precedentes. (HC n. 388.126/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2017).
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.834.864/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/11/2019, DJe de 26/11/2019.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. USO DE FITA ISOLANTE. CONFIGURAÇÃO DO DELITO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste Superior Tribunal entende que a simples conduta de adulterar a placa de veículo automotor é típica, enquadrando-se no delito descrito no art. 311 do Código Penal. Não se exige que a conduta do agente seja dirigida a uma finalidade específica, basta que modifique qualquer sinal identificador de veículo automotor.
+2. A conduta realizada pelo recorrido, que, com o uso de fita isolante, modificou o número da placa da motocicleta, configura o delito tipificado referido dispositivo.
+3. Agravo regimental não provido.
+(AgRg no AREsp 860.012/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/2/2017, DJe 16/2/2017.)
+No que se refere ao regime de cumprimento de pena, assim decidiu a Corte estadual (e-STJ fl. 281):
+5. Sob outro giro, assiste razão ao Ministério Público.
+À vista da recidiva do increpado (cf.certidão de fls. 38/9), imperiosa a imposição do regime fechado:inteligência do artigo 33, § 2º e alíneas, do diploma repressivo.
+"O réu reincidente, apenado com reclusão, pouco importa o grau da pena privativa de liberdade, deverá iniciar o cumprimento pelo regime fechado. Infringência ao disposto no art.33, § 2º, "a", "b" e "c", do CP. Recurso provido" (STJ, Resp. 84669/SP, 5ª Turma, Rel. Min. Felix Fischer, DJU 14.4.97).
+No caso dos autos, foi fixada a pena definitiva de 4 anos de reclusão, pela prática dos crimes de receptação e de adulteração de sinal identificador de veículo automotor. Na primeira etapa da dosimetria, a pena-base foi fixada no mínimo legal, e o regime fechado foi imposto ao réu com fundamento na reincidência.
+Entrementes, esses fundamentos não impedem a fixação de regime intermediário, notadamente porque foram consideradas favoráveis as circunstâncias judiciais do art. 59 do Código Penal. Aplica- se, ao caso, o enunciado 269 da Súmula desta Casa:
+É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. REGIME INICIAL FECHADO. PENA DEFINITIVA INFERIOR A 4 ANOS. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Se a pena definitiva do réu é inferior a 4 anos, a fixação do regime semiaberto já traz um agravamento à situação dele.
+Dessa forma, a fim de corrigir o exagero e aplicar a proporcionalidade, impõe-se o abrandamento do regime fechado para o semiaberto, considerando que o agravado é reincidente e esse é o regime imediatamente anterior.
+2. Agravo regimental improvido.
+(AgRg no HC 457.694/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 9/10/2018, DJe 30/10/2018.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO QUALIFICADO. TENTADO.REINCIDÊNCIA. FIXAÇÃO DO REGIME FECHADO. PROPORCIONALIDADE.RAZOABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A reincidência constitui fundamento apto a promover o recrudescimento do regime prisional, porém nos moldes da razoabilidade e proporcionalidade.
+2. A fixação de regime inicial fechado à réu mesmo que reincidente condenado à pena de 2 anos e 8 meses de reclusão, mostra-se desarrazoada, fazendo jus portanto ao regime inicial semiaberto.
+3. Agravo regimental improvido.
+(AgRg no HC 448.968/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/9/2018, DJe 24/09/2018.)
+Ante o exposto, dou parcial provimento ao recurso especial para fixar o regime semiaberto de cumprimento de pena, mantidas as demais disposições do acórdão local.
+Publique-se. Intimem-se.
