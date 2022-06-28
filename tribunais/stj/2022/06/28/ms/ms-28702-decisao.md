@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por FÁVIO CARVALHO BESSA DE SOUZA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido nosautos de Recurso Inominado Cível n. 1000893-64.2018.8.26.0156.
+Passo a decidir.
+Como é sabido, o art. 105, I, "b", da Constituição Federal restringe a competência originária do Superior Tribunal de Justiça para processar e julgar mandado de segurança aos casos em que houver ato omissivo ou comissivo praticado por Ministro de Estado, por Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal que seja lesivo a direito líquido e certo do impetrante.
+O presente mandamus ataca decisão do Tribunal de Justiça, autoridade não compreendida no rol do permissivo constitucional acima citado.
+Assim, impõe-se a aplicação da Súmula 41 do STJ, in verbis: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+A propósito, veja-se:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL. MEDIDA EXCEPCIONAL. AUSÊNCIA DE TERATOLOGIA, ABUSO OU MANIFESTA ILEGALIDADE. NÃO CABIMENTO DE MANDADO DE SEGURANÇA. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de ação previdenciária objetivando a concessão de aposentadoria por idade, ao argumento de que, depois de se aposentar por tempo de serviço o autor continuou trabalhando e recolhendo aos cofres previdenciários, totalizando mais de 20 anos, o que lhe dá o direito em optar pelo melhor benefício, que, no seu caso seria a concessão de aposentadoria por idade, porque com mais de 65 anos e a carência de 180 meses (15 anos). Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Nesta Corte, indeferiu-se a segurança, com extinção do feito sem julgamento do mérito.
+II - Conforme dispõe o art. 105, I, b da Constituição Federal, compete a este Superior Tribunal processar e julgar, originariamente: I - processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+III - No caso, este mandado de segurança se volta contra acórdão proferido pelo Órgão Especial do Tribunal Regional Federal da 3ª Região, a atrair a incidência do enunciado contido na Súmula n. 41 do STJ. Neste sentido, colaciona-se os precedentes desta Corte, in verbis: MS 23.850/MG, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 13/12/2017, DJe 20/11/2018; MS 13.913/ES, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 26/5/2010, DJe 8/6/2010 e MS 5.054/MG, Rel. Ministro José Arnaldo da Fonseca, Terceira Seção, julgado em 26/8/1998, DJ 21/9/1998.
+IV - Agravo interno improvido.
+(AgInt no MS n. 25.422/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 5/5/2020, DJe de 11/5/2020.)
+Ante o exposto, INDEFIRO LIMINARMENTE a inicial, de acordo com o art. 212 do RISTJ, c/c o art. 10 da Lei n. 12.016/2009, ficando PREJUDICADO o pleito liminar.
+Publique-se. Intimem-se.
