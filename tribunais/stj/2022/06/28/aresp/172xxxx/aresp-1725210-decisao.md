@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado pela Comissão de Valores Mobiliários (CVM) contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 31):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. NECESSIDADE DE ESGOTAMENTO DE DILIGÊNCIAS PARA LOCALIZAÇÃO DO EXECUTADO.
+1. A citação por edital é uma medida a ser adotada de modo excepcional, em face da precariedade e da pouca confiabilidade de que o réu terá ciência de que fora ajuizada uma ação em face dele. Por esta razão, firmou-se o entendimento de ser imprescindível para a citação por edital, que o credor esgote todos os meios possíveis de localização do executado, como expedição de ofícios às concessionárias de serviço público, DETRAN e outras entidades que possam fornecer o endereço atualizado do devedor. Súmula 414 do STJ.
+2. Na hipótese, não há demonstração de ter a agravante esgotado todos os meios possíveis de tentativa de localização da agravada, inclusive no tocante à requisição de informações junto a órgãos públicos, o que inviabiliza o deferimento da citação.
+3. Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 256, § 3º, e 257, I, do CPC/2015. Sustenta, em síntese, que "é cabível a citação por edital, eis que citação realizada pelo oficial de justiça confirmou que a parte agravada não foi localizada no seu domicílio fiscal informado à Receita e Junta Empresarial. Dessa maneira, resta provado que não se é possível obter a localização do executado pelo Exequente, o que é fundamento autorizador da citação por edital." (fl. 69).
+A decisão de fls. 131/133 determinou o retorno dos autos ao Tribunal de origem a fim de observar o rito previsto no 1.030, I, b, e II, do CPC/2015, tendo em vista o entendimento firmado por este Superior Tribunal de Justiça ao apreciar o Tema n. 102.
+Após submissão do feito ao órgão fracionário de origem, a Corte Regional manteve o acórdão anteriormente proferido (fls. 151/161).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Sobre o tema em comento, o Superior Tribunal de Justiça firmou o entendimento, em sede de recursos repetitivos, de que A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades. (REsp 1.103.050/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, 1ª SEÇÃO, julgado em 25/3/2009, DJe 6/4/2009).
+Ocorre que a Instância a quo, com base em premissas fáticas, concluiu que não houve o esgotamento das diligências pelo credor para a localização do devedor, razão pela qual indeferiu o pleito de citação por edital. Confira-se, a propósito, trecho da fundamentação (fl. 29):
+Na hipótese, analisando os autos originários do presente recurso, verifica-se que não há demonstração de ter a agravante esgotado todos os meios possíveis de tentativa de localização da agravada, inclusive no tocante à requisição de informações junto a órgãos públicos, o que inviabiliza o deferimento da citação editalícia.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. NÃO ESGOTAMENTO PRÉVIO DAS DILIGÊNCIAS PARA LOCALIZAÇÃO DO DEVEDOR. IMPOSSIBILIDADE. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É pacífica a orientação, firmada pela Primeira Seção do STJ e consubstanciada na Súmula 414/STJ, de que "a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça" (REsp 1.103.050/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, DJe 6/4/2009).
+2. Tal precedente, contudo, deve ser interpretado à luz da jurisprudência há muito consolidada nesta Corte de Justiça no sentido de que a citação por edital, na execução fiscal, é medida excepcional, em razão disso só é admitida após esgotados os meios reais de localização da parte demandada. Precedentes: AgInt no AgInt no AREsp 1.665.820/PB, Rel. Ministro MANOEL ERHARDT, DJe 20/05/2021;AgInt no REsp 1.852.706/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 18/12/2020; e AgInt no AREsp 1.662.782/RS, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 15/12/2020.
+3. Hipótese em que o Tribunal Regional indeferiu o pedido de citação por edital por entender que não foram esgotadas as tentativas de intimação pessoal dos executados, de modo que a inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância recursal, nos termos da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.937.970/GO, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 23/8/2021, DJe de 27/8/2021.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
