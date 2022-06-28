@@ -1,30 +1,30 @@
 Art. 43. Quando o incorporador contratar a entrega da unidade a prazo e preços certos, determinados ou determináveis, mesmo quando pessoa física, ser-lhe-ão impostas as seguintes normas:
-I - encaminhar aos adquirentes e à comissão de representantes dos adquirentes a cada três meses:
-a) o demonstrativo do estado da obra e de sua correspondência com o prazo pactuado para entrega do conjunto imobiliário; e
-b) a relação dos adquirentes com os seus endereços residenciais e eletrônicos;
+I - encaminhar à comissão de representantes:
+a) a cada 3 (três) meses, o demonstrativo do estado da obra e de sua correspondência com o prazo pactuado para entrega do conjunto imobiliário; e
+b) quando solicitada, a relação dos adquirentes com os seus endereços residenciais e eletrônicos, devendo os integrantes da comissão de representantes, no tratamento de tais dados, atender ao disposto na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), no que for aplicável;
 II - responder civilmente pela execução da incorporação, devendo indenizar os adquirentes ou compromissários, dos prejuízos que a êstes advierem do fato de não se concluir a edificação ou de se retardar injustificadamente a conclusão das obras, cabendo-lhe ação regressiva contra o construtor, se fôr o caso e se a êste couber a culpa;
 III - em caso de falência do incorporador, pessoa física ou jurídica, e não ser possível à maioria prossequir na construção das edificações, os subscritores ou candidatos à aquisição de unidades serão credores privilegiados pelas quantias que houverem pago ao incorporador, respondendo subsidiàriamente os bens pessoais dêste;
 IV - é vedado ao incorporador alterar o projeto, especialmente no que se refere à unidade do adquirente e às partes comuns, modificar as especificações, ou desviar-se do plano da construção, salvo autorização unânime dos interessados ou exigência legal;
 V - não poderá modificar as condições de pagamento nem reajustar o preço das unidades, ainda no caso de elevação dos preços dos materiais e da mão-de-obra, salvo se tiver sido expressamente ajustada a faculdade de reajustamento, procedendo-se, então, nas condições estipuladas;
 VI - se o incorporador, sem justa causa devidamente comprovada, paralisar as obras por mais de 30 dias, ou retardar-lhes excessivamente o andamento, poderá o Juiz notificá-lo para que no prazo mínimo de 30 dias as reinicie ou torne a dar-lhes o andamento normal. Desatendida a notificação, poderá o incorporador ser destituído pela maioria absoluta dos votos dos adquirentes, sem prejuízo da responsabilidade civil ou penal que couber, sujeito à cobrança executiva das importâncias comprovadamente devidas, facultando-se aos interessados prosseguir na obra (VETADO).
 VII - em caso de insolvência do incorporador que tiver optado pelo regime da afetação e não sendo possível à maioria prosseguir na construção, a assembléia geral poderá, pelo voto de 2/3 (dois terços) dos adquirentes, deliberar pela venda do terreno, das acessões e demais bens e direitos integrantes do patrimônio de afetação, mediante leilão ou outra forma que estabelecer, distribuindo entre si, na proporção dos recursos que comprovadamente tiverem aportado, o resultado líquido da venda, depois de pagas as dívidas do patrimônio de afetação e deduzido e entregue ao proprietário do terreno a quantia que lhe couber, nos termos do art. 40; não se obtendo, na venda, a reposição dos aportes efetivados pelos adquirentes, reajustada na forma da lei e de acordo com os critérios do contrato celebrado com o incorporador, os adquirentes serão credores privilegiados pelos valores da diferença não reembolsada, respondendo subsidiariamente os bens pessoais do incorporador.
-§ 1º Deliberada a destituição de que tratam os incisos VI e VII do caput, o incorporador será notificado extrajudicialmente pelo oficial do registro de imóveis da circunscrição em que estiver localizado o empreendimento para que, no prazo de quinze dias, contado da data da entrega da notificação na sede do incorporador ou no seu endereço eletrônico:
+§ 1º Deliberada a destituição de que tratam os incisos VI e VII do caput deste artigo, o incorporador será notificado extrajudicialmente pelo oficial do registro de imóveis da circunscrição em que estiver localizado o empreendimento para que, no prazo de 15 (quinze) dias, contado da data da entrega da notificação na sede do incorporador ou no seu endereço eletrônico:
 I - imita a comissão de representantes na posse do empreendimento e lhe entregue:
 a) os documentos correspondentes à incorporação; e
-b) os comprovantes de quitação das quotas de construção de sua responsabilidade a que se referem o § 5º do art. 31-A e o § 6º do art. 35; ou
-II - efetive o pagamento das quotas que estiverem pendentes, de modo a viabilizar a realização da auditoria a que se refere o art. 31-C.
-§ 2º Na ata da assembleia geral que deliberar a destituição do incorporador deverão constar os nomes dos adquirentes presentes, incluídos:
+b) os comprovantes de quitação das quotas de construção de sua responsabilidade a que se referem o § 5º do art. 31-A e o § 6º do art. 35 desta Lei; ou
+II - efetive o pagamento das quotas que estiverem pendentes, de modo a viabilizar a realização da auditoria a que se refere o art. 31-C desta Lei.
+§ 2º Da ata da assembleia geral que deliberar a destituição do incorporador deverão constar os nomes dos adquirentes presentes e as seguintes informações:
 I - a qualificação;
 II - o documento de identidade;
-III - as inscrições no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional de Pessoas Jurídicas - CNPJ da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia;
+III - as inscrições no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ) da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia;
 IV - os endereços residenciais ou comerciais completos; e
 V - as respectivas frações ideais e acessões a que se vincularão as suas futuras unidades imobiliárias, com a indicação dos correspondentes títulos aquisitivos, públicos ou particulares, ainda que não registrados no registro de imóveis.
-§ 3º A ata de que trata o § 2º, registrada no registro de títulos e documentos, constituirá documento hábil para:
+§ 3º A ata de que trata o § 2º deste artigo, registrada no registro de títulos e documentos, constituirá documento hábil para:
 I - averbação da destituição do incorporador na matrícula do registro de imóveis da circunscrição em que estiver registrado o memorial de incorporação; e
 II - implementação das medidas judiciais ou extrajudiciais necessárias:
 a) à imissão da comissão de representantes na posse do empreendimento;
-b) à investidura da comissão de representantes na administração e nos poderes para a prática dos atos de disposição que lhe são conferidos pelos art. 31-F e art. 63;
+b) à investidura da comissão de representantes na administração e nos poderes para a prática dos atos de disposição que lhe são conferidos pelos arts. 31-F e 63 desta Lei;
 c) à inscrição do respectivo condomínio da construção no CNPJ; e
-d) quaisquer outros atos necessários à efetividade da norma instituída no caput, inclusive para prosseguimento da obra ou liquidação do patrimônio da incorporação.
-§ 4º As unidades não negociadas pelo incorporador e vinculadas ao pagamento das correspondentes quotas de construção nos termos do disposto no § 6º do art. 35 ficam indisponíveis e insuscetíveis de constrição por dívidas estranhas à respectiva incorporação até que o incorporador comprove a regularidade do pagamento.
-§ 5º Fica autorizada a comissão de representantes a promover a venda, com fundamento no § 14 do art. 31-F e no art. 63 das unidades de que trata o § 4º, expirado o prazo da notificação a que se refere o § 1º, com aplicação do produto obtido no pagamento do débito correspondente.
+d) quaisquer outros atos necessários à efetividade da norma instituída no caput deste artigo, inclusive para prosseguimento da obra ou liquidação do patrimônio da incorporação.
+§ 4º As unidades não negociadas pelo incorporador e vinculadas ao pagamento das correspondentes quotas de construção nos termos do § 6º do art. 35 desta Lei ficam indisponíveis e insuscetíveis de constrição por dívidas estranhas à respectiva incorporação até que o incorporador comprove a regularidade do pagamento.
+§ 5º Fica autorizada a comissão de representantes a promover a venda, com fundamento no § 14 do art. 31-F e no art. 63 desta Lei, das unidades de que trata o § 4º, expirado o prazo da notificação a que se refere o § 1º deste artigo, com aplicação do produto obtido no pagamento do débito correspondente.

@@ -1,0 +1,10 @@
+Art. 216-B. Sem prejuízo da via jurisdicional, a adjudicação compulsória de imóvel objeto de promessa de venda ou de cessão poderá ser efetivada extrajudicialmente no serviço de registro de imóveis da situação do imóvel, nos termos deste artigo.
+§ 1º São legitimados a requerer a adjudicação o promitente comprador ou qualquer dos seus cessionários ou promitentes cessionários, ou seus sucessores, bem como o promitente vendedor, representados por advogado, e o pedido deverá ser instruído com os seguintes documentos:
+I - instrumento de promessa de compra e venda ou de cessão ou de sucessão, quando for o caso;
+II - prova do inadimplemento, caracterizado pela não celebração do título de transmissão da propriedade plena no prazo de 15 (quinze) dias, contado da entrega de notificação extrajudicial pelo oficial do registro de imóveis da situação do imóvel, que poderá delegar a diligência ao oficial do registro de títulos e documentos;
+III - ata notarial lavrada por tabelião de notas da qual constem a identificação do imóvel, o nome e a qualificação do promitente comprador ou de seus sucessores constantes do contrato de promessa, a prova do pagamento do respectivo preço e da caracterização do inadimplemento da obrigação de outorgar ou receber o título de propriedade;
+IV - certidões dos distribuidores forenses da comarca da situação do imóvel e do domicílio do requerente que demonstrem a inexistência de litígio envolvendo o contrato de promessa de compra e venda do imóvel objeto da adjudicação;
+V - comprovante de pagamento do respectivo Imposto sobre a Transmissão de Bens Imóveis (ITBI);
+VI - procuração com poderes específicos.
+§ 2º O deferimento da adjudicação independe de prévio registro dos instrumentos de promessa de compra e venda ou de cessão e da comprovação da regularidade fiscal do promitente vendedor.
+§ 3º À vista dos documentos a que se refere o § 1º deste artigo, o oficial do registro de imóveis da circunscrição onde se situa o imóvel procederá ao registro do domínio em nome do promitente comprador, servindo de título a respectiva promessa de compra e venda ou de cessão ou o instrumento que comprove a sucessão.
