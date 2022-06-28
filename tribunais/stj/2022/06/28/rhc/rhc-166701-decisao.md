@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por GUSTAVO SANTOS MOTA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0015349-72.2022.8.19.0000).
+Orecorrente teve a prisão em flagrante - ocorrida em 2/12/2020- convertida em preventiva a pedido do Ministério Público(fl. 89)e foi denunciadopor suposta prática dodelitodescritonoart. 35, c/c o art.40, IV, da Lei n. 11.343/2006.
+O decreto prisional fundou-se nos indícios da prática dodelitopelo recorrente, na gravidade da conduta e na suspeita de integrar organização criminosa.
+Impetrado writ originário, a ordem foi denegada.
+Orecorrente alega que está sendo vítima de constrangimento ilegal, pois, até a presente data, não foi designada nenhuma audiência para o início da instrução criminal, configurando excesso de prazo na formação da culpa.
+Requer a revogação da prisão preventiva para quepossa responder à ação penal em liberdadeprovisória.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático do recurso em habeas corpus antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito do recurso em habeas corpus.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 43):
+Ao analisarmos o caso dos autos, é possível concluir que o alongamento da instrução está devidamente justificado, pois a autoridade apontada como coatora vem conduzindo o processo com a celeridade possível. Não se perca de vista que se trata de feito complexo, com quinze réus e defesas diversas, contou com a interposição de vários recursos, o que naturalmente ralenta a marcha processual. Não se pode perder de vista ainda, que a suspensão dos prazos processuais se deu em virtude da pandemia do COVID-19, situação excepcionalíssima e que, por certo, não pode ser imputada ao Juízo.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
