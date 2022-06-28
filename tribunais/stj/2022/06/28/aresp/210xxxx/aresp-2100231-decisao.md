@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdãoassim ementado:
+CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS DE ALTO CUSTO.NUSINERSEN (SPIRANZA). DOENÇA ATROFIA MUSCULAR ESPINHAL. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. NECESSIDADE COMPROVADA. SENTENÇA MANTIDA.
+1. No caso, requer a parte autora o fornecimento do medicamento NUSINERSEN (Spinraza) para tratamento médico em virtude de acometimento de Atrofia Muscular Espinhal Tipo 1 com indicação em relatório médico como sendo o mais adequado para o seu tratamento atual.
+2. Conforme se verifica no Tema 793 da Repercussão Geral do STF, "O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente" (RE 855.178/SE, Rel. Min. LUIZ FUX, DJe 16.3.2015).
+3. A questão afeta ao fornecimento de medicamentos não incorporados em atos normativos do SUS já foi analisada pelo Superior Tribunal de Justiça no julgamento do REsp 1.657.156/RJ, em sistemática de repetitivos, exigindo-se a presença cumulativa: a) relatório médico indicado a imprescindibilidade ou necessidade do medicamento, bem como a ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; b) a incapacidade financeira de arcar com o custo do medicamento prescrito; e c) o registro na ANVISA do medicamento.
+4. A necessidade do tratamento postulado está devidamente comprovada conforme bem destacou o juízo de origem, ao discorrer acerca da imprescindibilidade do uso do medicamento SPINRAZA para a manutenção da saúde e vida da parte autora.
+5.Em relação ao segundo requisito, a "incapacidade financeira de arcar com o custo do medicamento prescrito" refere-se à demonstração de hipossuficiência daquele que requer o medicamento, não se exigindo comprovação de pobreza ou miserabilidade. Este requisito foi devidamente cumprido, considerando que se trata de medicamento de alto custo, o que atrai a presunção da condição de hipossuficiente.
+6. No caso do medicamento pleiteado, o Ministério da Saúde assinou portaria de incorporação do medicamento SPINRAZA no Sistema Único de Saúde (SUS) no dia 24/04/2019 (Portaria SCTIE/MS n.º 24), inserindo-o na Relação Nacional de Medicamentos Essenciais (RENAME) para pessoas com Atrofia Muscular Espinhal (AME).
+7. O fornecimento do medicamento deve ser garantida enquanto perdurar a necessidade de continuidade do tratamento, conforme prescrição médica. Consoante o Enunciado n. 2 do Conselho Nacional de Justiça (CNJ), aprovado na I Jornada de Direito da Saúde, deferidas medidas judiciais, liminares ou definitivas, de prestação continuada, é indispensável a renovação periódica do relatório e da prescrição médica, segundo a jurisprudência deste Tribunal, a cada 06 (seis) meses.
+8. Os honorários advocatícios de sucumbência devem ser mantidos nos termos fixados na r. sentença, proferida em consonância ao entendimento firmado por esta Corte.
+9. A fixação de multa diária para assegurar o adimplemento da obrigação, especialmente nos casos que envolvem o direito à saúde, é legítima, conforme jurisprudência firmada pela Quinta Turma desta Corte. Dessa forma, uma vez comprovada a demora da União Federal em fornecer o medicamento, há de ser mantida a multa fixada(AC 0001312- 96.2012.4.01.3501, JUIZ FEDERAL ROBERTO CARLOS DE OLIVEIRA (CONV.), TRF1 - QUINTA TURMA, e-DJF1 04/04/2019 PAG.).
+10. Apelações e remessa oficial desprovidas.
+Os Embargos de Declaração foram rejeitados.
+Alega orecorrente, em síntese:
+Consoante se verifica, resta evidente que o aresto recorrido, na fixação da verba honorária, colide com o entendimento desta Corte Superior, no sentido de que, como regra geral e obrigatória, os honorários advocatícios na égide do CPC de 2015 devem ser fixados consoante o que dispõem os §§ 2º e 3º do art. 85 do citado diploma processual, sendo a apreciação equitativa da verba, em cada caso, estabelecida subsidiariamente.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.5.2022.
+Extrai-se do acórdão vergastado e das razões do Recurso Especial que o entendimento do Tribunal de origem está em conformidade com a orientação do STJ. Esta determinaquea obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde garantidas constitucionalmente-bens cujo valor é inestimável, o que justifica a fixação de honorários por equidade.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO QUE VISA O FORNECIMENTO DE MEDICAMENTOS PELO PODER PÚBLICO. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CRITÉRIOS DE EQUIDADE. ART. 85, § 8º, DO CPC/2015. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO PROVIDO.
+1. Conforme recente orientação jurisprudencial deste STJ, a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde garantidas constitucionalmente, bens cujo valor é inestimável, o que justifica a fixação de honorários por equidade.
+2. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO provido, para reconhecer a necessidade de fixação dos honorários advocatícios por critérios de equidade, conforme o teor do art. 85, § 8o., do CPC/2015.
+(AgInt no AREsp n. 1.568.584/SP, relator Ministro Manoel Erhardt (desembargador Convocado do TRF5), Primeira Turma, DJe de 17/2/2022.)
+Por tudo isso, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
