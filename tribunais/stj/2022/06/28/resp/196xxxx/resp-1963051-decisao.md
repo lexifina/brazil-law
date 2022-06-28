@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por VILMA LUCIA MONTEIRO, com respaldonas alíneas "a" e "c"do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado no que interessa (e-STJ fls. 353/354):
+PREVIDENCIÁRIO. BENEFÍCIO DE AMPARO ASSISTENCIAL AO DEFICIENTE. ART. 20, DA LEI Nº 8.742/93. REQUISITOS PREENCHIDOS.
+ ..
+3. Laudo médico pericial atesta que a autoria apresenta dor lombar baixa, dor em membros (joelho esquerdo), outras espondiloses (lombar) (diagnóstico por exame de imagem), transtorno não especificado de disco intervertebral (diagnóstico por exame de imagem), epilepsia, não especificada, transtorno depressivo recorrente e transtorno não especificado da personalidade, e conclui que há incapacidade laborativa parcial e temporária para o exercício de atividade laborativa.
+4. Analisando o conjunto probatório, é de se reconhecer que a autoria preenche o requisito da deficiência para usufruir do benefício assistencial, à luz do Art. 20,§ 2º da Lei 8.742/93.
+ ..
+10. Remessa oficial e apelação do réu providas em providas em parte e apelação da parte autora desprovida.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial,violação dos arts.20, § 6º, e 37da Lei n. 8.742/1993 e 103 da Lei n. 8.213/1991, sustentando, em síntese, que o termo inicial do benefício de prestação continuada deve ser fixado a partir do requerimento administrativo ou, se assim não entender, da data da citação.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 416/418.
+Passo a decidir.
+Verifico que a pretensão recursalmerece prosperar.
+No presente caso, o Tribunal de origem assim fixou o termo inicial do benefício assistencial, in verbis (e-STJ fls. 365/366):
+Quanto ao termo inicial do benefício, malgrado a comprovação do prévio requerimento administrativo em 25/02/2010, a presente ação somente foi ajuizada em 28/04/2014.
+Nos termos do Art. 21, da Lei 8.742/93, o benefício de prestação continuada deve ser revisto a cada dois anos, a fim de se avaliar a continuidade das condições que autorizaram o seu deferimento.
+Como se vê, entre a data do primeiro requerimento e o ajuizamento da ação, decorreram mais de 04 anos.
+Impende destacar que para evidenciar o interesse de agir da parte autora, nas ações que tenham por objeto a concessão do benefício assistencial, que depende da comprovação da deficiência ou idade e da condição de necessitado, seria prudente considerar válido o requerimento administrativo apresentado até dois anos antes do ajuizamento da ação, porquanto além desse prazo não é possível presumir a persistência das condições anteriores, de modo que não há solução de continuidade entre as questões submetidas ao crivo do INSS e aquelas postas em Juízo.
+Cabe frisar que a questão trazida à baila já foi enfrentada por esta Corte, restando decidido que o requerimento administrativo formulado há mais de dois anos nãoteria o condão de retroagir o termo inicial àquela data, em razão do conformismo da requerente com a decisão denegatória e o lapso temporal decorrido até o ajuizamento da ação.
+ ..
+De outra parte, cabe elucidar que o estudo social somente foi realizado em14/12/2017, vez que a parte não foi encontrada no endereço informado na petição inicial, pois havia se mudado para outro Município sem comunicar ao Juízo, inviabilizando a realização do estudo social para se constatar as condições socioeconômicas em que vivia.
+Assim, no caso dos autos, pelas razões expostas, o termo inicial do benefício deve ser fixado na data do estudo social realizado em 14/12/2017, quando comprovados todos os requisitos legais para a concessão da benesse.
+Prevalece nesta Corte a orientação de que o "termo inicial do benefício deverá ser a partir da data do efetivo requerimento administrativo, observada a prescrição quinquenal, uma vez que é uníssona a orientação de que a formulação de requerimento administrativo suspende a contagem prescricional, cujo curso retomará com a decisão final da Administração sobre o pleito" (AgRg no REsp 1.362.580/RJ, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 25/04/2017, DJe 08/05/2017).
+Na esteira da aludida compreensão, a Primeira Seção ratificou o entendimento, esclarecendo que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria" (Pet 9.582/2015, relator Ministro Napoleão Nunes Maia Filho, DJe 16/09/2015).
+No mesmo sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. BENEFÍCIO ASSISTENCIAL AO DEFICIENTE. TERMO INICIAL. REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO PACÍFICO DO STJ.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que entendeu devida a concessão do benefício assistencial ao deficiente, considerando como termo inicial o requerimento administrativo.
+2. É assente o entendimento do STJ no sentido de que, na existência de requerimento administrativo, este deve ser o marco inicial para o pagamento do benefício discutido, sendo irrelevante que tenha a comprovação da implementação dos requisitos se verificado apenas em âmbito judicial.
+3. A propósito: "Nos termos da jurisprudência do STJ, o benefício previdenciário de cunho acidental ou o decorrente de invalidez deve ser concedido a partir do requerimento administrativo e, na sua ausência, a partir da citação. A fixação do termo a quo a partir da juntada do laudo em juízo estimula o enriquecimento ilícito do INSS, visto que o benefício é devido justamente em razão de incapacidade anterior à própria ação judicial." (REsp 1.411.921/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 15/10/2013, DJe 25/10/2013). No mesmo sentido: AgInt no REsp 1.611.325/RN, Ministro Francisco Falcão, Segunda Turma, DJe 24/03/2017; AgInt no REsp 1.601.268/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 30/6/2016; AgInt no REsp 1.790.912/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/10/2019. REsp 1.731.956/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29/5/2018.
+4. Recurso Especial não provido.
+(REsp n. 1.851.145/SE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/5/2020.)
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE.APOSENTADORIA POR TEMPO DE SERVIÇO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. COMPROVAÇÃO DO TEMPO ESPECIAL DURANTE A INSTRUÇÃO PROCESSUAL. IRRELEVÂNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - In casu, conforme asseverado pelo tribunal de origem, na data do requerimento administrativo o segurado já havia adquirido direito à aposentadoria por tempo de serviço, ainda que parte do tempo especial necessário para a concessão do benefício somente tenha sido reconhecido durante a instrução processual.
+III - A comprovação extemporânea do tempo de serviço especial não afasta o direito do segurado à concessão da aposentadoria por tempo de serviço na data do requerimento administrativo, quando preenchidos os requisitos para a concessão do benefício previdenciário.
+IV - Recurso Especial do segurado provido. (REsp 1.610.554/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 02/05/2017) (Grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO OU, NA AUSÊNCIA DESTE, DA CITAÇÃO. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. AGRAVO INTERNO DA AUTARQUIA FEDERAL DESPROVIDO.
+1. Conforme o entendimento desta Corte Superior, o benefício assistencial deve ser concedido na data do requerimento administrativo e, na sua ausência, na da citação.
+2. No caso dos autos, a controvérsia foi apreciada nos limites em que apresentada, não havendo falar em julgamento ultra petita.
+3. o Superior Tribunal de Justiça possui orientação firmada no sentido de que o pleito da parte deve ser interpretado em conformidade com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento da pretensão extraída da interpretação lógico-sistemática da peça apresentada pela parte autora não implica julgamento ultra ou extra petita.
+4. Agravo interno da autarquia federal a que se nega provimento.
+(AgInt no REsp n. 1.897.242/RN, relator Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 30/5/2022, DJe de 1/6/2022) (Grifos acrescidos).
+Ao contrário do raciocínio adotado pela Corte de origem,a norma do art. 21 da Lei n. 8.742/1993nãodisciplina o termo inicial das prestações pecuniárias, mas cinge-se à situação diversa, pois dispõe que, uma vez concedido,o benefício assistencial deverá ser revisto a cada dois anos, como se lê:
+Art. 21. O benefício de prestação continuada deve ser revisto a cada 2 (dois) anos para avaliação da continuidade das condições que lhe deram origem
+(Vide Lei nº9.720, de 30.11.1998)
+§ 1º O pagamento do benefício cessa no momento em que forem superadas as condições referidas no caput, ou em caso de morte do beneficiário.
+§ 2º O benefício será cancelado quando se constatar irregularidade na sua concessão ou utilização.
+§ 3o O desenvolvimento das capacidades cognitivas, motoras ou educacionais e a realização de atividades não remuneradas de habilitação e reabilitação, entre outras, não constituem motivo de suspensão ou cessação do benefício da pessoa com deficiência.(Incluído pela Lei nº 12.435, de 2011)
+§ 4º A cessação do benefício de prestação continuada concedido à pessoa com deficiência não impede nova concessão do benefício, desde que atendidos os requisitos definidos em regulamento.(Redação dada pela Lei nº 12.470, de 2011)
+§ 5º O beneficiário em gozo de benefício de prestação continuada concedido judicial ou administrativamente poderá ser convocado para avaliação das condições que ensejaram sua concessão ou manutenção, sendo-lhe exigida a presença dos requisitos previstos nesta Lei e no regulamento.(Incluído pela Lei nº 14.17, de 2021)
+Dessa forma, estando o acórdão recorrido em dissonância com a jurisprudência desta Corte, de rigor a sua reforma.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especialpara fixar o termo inicial do benefício de prestação continuada a partir do requerimento administrativo.
+Publique-se. Intimem-se.
