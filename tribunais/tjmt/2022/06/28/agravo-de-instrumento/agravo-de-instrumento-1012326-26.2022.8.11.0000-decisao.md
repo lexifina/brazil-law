@@ -1,0 +1,23 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1012326-26.2022.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por JORGE SOARES DA SILVA em virtude da decisão proferida pelo Juiz da 3.a Vara Especializada em Direito Bancário da Comarca da Capital que, nos autos de Ação Declaratória de Nulidade de Cláusula Contratual c/c Indenização Por Danos Materiais e Danos Morais n.o 1045631-09.2021.8.11.0041 proposta em face do BANCO FICSA S.A., indeferiu o pedido liminar visando o ajuste/reajuste da quantidade e dos valores das parcelas do empréstimo consignado, vedar a negativação do nome do Recorrente no rol de inadimplentes ou de levar o título a protesto.
+Inconformado, o Agravante almeja a reforma da decisão vergastada, ao argumento de que o Banco Agravado alterou as cláusulas contratuais à sua revelia. Afirma que, no primeiro momento, o Banco lhe ofereceu proposta de empréstimo consignado no valor de R$ 35.000,00 (trinta e cinco mil reais), mediante taxa de juros de 1,29% a.m., em 72 (setenta e duas) parcelas de R$ 715,02 (setecentos e quine reais e dois centavos), a serem descontadas nos proventos de sua aposentadoria a partir de 07/10/2021, com final previsto para 07/09/2028. Por considerar atrativa a proposta, aceitou os termos oferecidos.
+Ressalta que, depois de contratado o empréstimo, constatou divergência quanto à taxa de juros, quantidade e valores das parcelas. Aduz que o Agravado alterou os termos contratuais da seguinte forma: 84 (oitenta e quatro) parcelas no valor mensal de R$ 917,50 (novecentos e dezessete reais e cinquenta centavos), com taxa de juros aplicadas em 1,80% a.m., ou seja, em total desconformidade com o que pacto original.
+Destaca que a alteração contratual efetuada pelo Banco tem acarretado graves prejuízos financeiros, pois havia programado para assumir as condições e encargos da primeira proposta do empréstimo consignado.
+Por derradeiro, assenta que foram suficientemente demonstrados os pressupostos autorizadores da medida liminar vindicada.
+Com essas assertivas, pede a antecipação da tutela recursal e o imediato ajuste da contratação proposta: valor do empréstimo de R$ 35.000,00 (trinta e cinco mil reais), com aplicação de taxa de juros de 1,29% a.m., em 72 (setenta e duas) parcelas de R$ 715,02 (setecentos e quine reais e dois centavos), bem como que sejam elididos os efeitos de eventual mora.
+No mérito, pede o provimento do recurso e a reforma da decisão objurgada.
+Eis o relato necessário. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese está contemplada no artigo 1.015, inciso I, do CPC, bem como veio instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+Como é cediço, o artigo 1.019, inciso I, do Código de Ritos dispõe que o Relator poderá conceder efeito suspensivo, ou deferir em antecipação de tutela a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Neste contexto, é vedado nos estreitos limites deste Recurso o exame de questões de fundo do direito discutido, sendo necessário, portanto, aferir se estão, ou não, presentes os pressupostos necessários para o deferimento da aludida medida, quais sejam: a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo (art. 300 do CPC).
+Da análise dos autos, nesta quadra de cognição sumária, não é possível entrever a confluência desses pressupostos.
+Com efeito, a despeito das alegações lançadas pelo Agravante, observo que assinou a segunda proposta contratual, como se denota do contrato de empréstimo acostado no ID. 73029519 – demanda principal. Essa circunstância, em particular, fragiliza os argumentos expostos pelo Agravante, pois ao menos nesta análise perfunctória, não há como afirmar que o Recorrente não tinha pleno conhecimento dos termos e condições do instrumento assinado, fato que demanda produção de prova e, por ora, afasta a verossimilhança.
+Desse modo, neste juízo de cognição sumária, não entrevejo a plausibilidade do direito invocado pelo Agravante, tampouco o perigo de dano ou improvável reparação decorrente da manutenção da decisão invectivada até o exame do mérito deste recurso.
+Diante do exposto, indefiro o pedido de efeito ativo.
+Comunique-se ao Juiz da causa.
+Intime-se o Banco Agravado para apresentação de contrarrazões, no prazo legal, nos termos do art. 1.019, II, do Diploma Processual Civil.
+Cumpra-se.
+Cuiabá, 28 de junho de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
