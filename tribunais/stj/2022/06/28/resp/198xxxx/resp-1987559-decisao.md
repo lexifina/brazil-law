@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea "a", da CF/1988, contra acórdão do TRF da 5ª Região assim ementado (e-STJ fl. 494):
+CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. INCIDÊNCIA SOBRE AS HORAS EXTRAS PAGAS AOS EMPREGADOS. NATUREZA REMUNERATÓRIA.ENTENDIMENTO CONSOLIDADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. JUÍZO DE ADEQUAÇÃO.
+1. Retorno dos autos ao órgão colegiado para exercer juizo de adequação, nos termos do art. 1.040, inc. I, do CPC.
+2. Foi assentado, no aresto do Colegiado, o seguinte: "Em relação à contribuição previdenciária a cargo do empregador incidente sobre a remuneração paga a titulo de horas extras laboradas, entendo não se afigurar devida, em face do caráter indenizatório de tal verba".
+3. Esse entendimento, contudo, foi alterado pelo Superior Tribunal de Justiça, no julgamento de recurso representativo de controvérsia, REsp nº 1.358.281/SP  que tem efeito vinculante em relação às instâncias ordinárias  , ocasião em que estabeleceu a seguinte tese: "As horas extras e seu respectivo adicional constituem verbas de natureza remuneratória, razão pela qual se sujeitam à incidência de contribuição previdenciária" (STJ, REsp 1.358.281/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23/04/2014, DJe 05/12/2014).
+4. Ficou assentado, no supramencionado julgamento, que as verbas relativas ao pagamento de horas extras ostentam caráter remuneratório e contraprestacional, de modo que se impõe a sua consideração, no cálculo das contribuições previdenciárias devidas pela empresa.
+5. Apelação dos autores improvida.
+No especial, a parte alega, em síntese, violaçãodo art. 535, II, do CPC/1973e dos arts. 22, inciso I e § 2º, e 28, § 9º e alínea "d",da Lei n. 8.212/1991, ao argumento de que houve negativa de prestação jurisdicional pelo Tribunal de origeme que é devida a incidência da contribuição previdenciária a cargo do empregador sobre os valores pagos a título de horas extras.
+Contrarrazões apresentadas às e-STJ fls. 295/312.
+O recurso especial foi admitido na origem (e-STJ fls. 200/501).
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de mandado de segurança impetrado pelaESPECIARYA INDÚSTRIA E COMÉRCIO LTDA. e OUTROS em que objetivam seja garantida a inexigibilidade das contribuições previdenciárias patronais incidentes sobreas seguintes verbas pagas aos seus empregados: horas-extras;adicionais noturno, de periculosidade, insalubridade e de transferência; aviso prévio indenizado; e décimo terceiro salário sobre o aviso prévio indenizado.
+No primeiro grau de jurisdição, foi concedida parcialmente a segurança.
+Irresignadas, ambas as partes interpuseram recurso de apelação. O Tribunal a quo deu parcial provimento ao recursodas autoras para "reconhecer a não incidência da contribuição previdenciária patronal sobre verbas pagas a titulo de horas extras"; assim como à apelação da Fazenda Nacionalpara "limitar o direito de compensar aos recolhimentos previamente comprovados nos presentes autos" (e-STJ fl. 264).
+Posteriormente, em juízo de conformaçãonos termos do art. 1.040, I, do CPC/2015, a Corte a quo reconheceu a incidência da contribuição previdenciária patronal sobre os valores pagos a título de horas extras e negou provimento à apelação dos autores (e-STJ fls. 489/496).
+Os embargos de declaração apresentados foram rejeitados.
+Pois bem.
+Conforme relatado, a realização do juízo de conformação pelo Tribunal a quo em razão do julgamento de recurso representativo de controvérsia, REsp n. 1.358.281/SP (Tema 687), pelo STJresultou na reforma do julgamento da apelação para "reconhecer a possibilidade da incidência da contribuição previdenciária patronal sobre os valores pagos a título de horas extras" (e-STJ fl. 492).
+Ao realizar o juízo de admissibilidade, o Tribunal a quo admitiu o prosseguimento do recurso especial interposto pela Fazenda Nacional, o qual questionaria a "incidência da contribuição previdenciária sobre os valores pagos a título de décimo terceiro salário proporcional ao aviso prévio indenizado" (e-STJ fl. 501).
+Todavia, não é o que se observa da peça recursal às e-STJ fls. 323/331, em que o ente fazendáriobusca o "reconhecimento da legitimidade da incidência da contribuição previdenciária sobre as horas extras".Nesse contexto, está evidenciada a perda de objeto da pretensão recursal.
+Ante o exposto, JULGOPREJUDICADOo presente recurso nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
