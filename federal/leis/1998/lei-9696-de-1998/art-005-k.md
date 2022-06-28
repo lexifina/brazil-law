@@ -1,0 +1,2 @@
+Art. 5º-K. A pretensão de punição do profissional ou da pessoa jurídica com a aplicação de sanção disciplinar prescreverá no prazo de 5 (cinco) anos, contado da data de ocorrência do fato que a ensejou, exceto para os casos de abuso ou assédio moral ou sexual, nos quais o prazo será contado da data de início do processo disciplinar.
+Parágrafo único. A contagem de prazo da prescrição será interrompida pela intimação do acusado para apresentar defesa.
