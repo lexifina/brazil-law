@@ -1,0 +1,26 @@
+Visto.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pelo ESTADO DE MATO GROSSO, contra decisão proferida pelo Juízo da Vara Cível da Comarca de Sinop/MT, nos autos da Ação Anulatória de Ato Administrativo n. 1008225-95.2022.8.11.0015, o qual deferiu o pedido liminar para que determinar que o Estado se abstenha de inscrever em dívida ativa o débito oriundo do Processo Administrativo n° 173790/2020, e caso tenha inscrito, que SUSPENDA sua EXIGIBILIDADE, com fundamento no art. 151, inc. V, do Código Tributário Nacional, bem como que não proceda ou exclua qualquer restrição nos órgão de proteção ao crédito (SCPC, SERASA, CADIN, etc.), inclusive, o protesto de eventual CDA, salvo a existência de débitos não discutidos nesses autos, até final desfecho do mérito.
+Aduz o Agravante que, ‘pelo que se infere da decisão recorrida, o magistrado de piso concedeu o pleito liminar pelo fato de vislumbrar, ante a análise dos documentos apresentados pelo requerente/agravado, que há aparente ausência de competência dos agentes responsáveis pela fiscalização’.
+Pontua que, todos os funcionários dos órgãos ambientais integrantes do SISNAMA são competentes para a lavratura de auto de infração e, no âmbito estadual, a Lei Complementar n. 38/95, previu expressamente, a competência da Polícia Militar de Proteção Ambiental, para realizar fiscalização e a lavratura do auto de infração, conforme consta dos arts. 7° e 96 (redação vigente à época da autuação).
+Com base nestes fundamentos, pugna pela concessão de efeito suspensivo à decisão agravada, até que haja o pronunciamento definitivo do órgão colegiado. No mérito, seja dado provimento ao recurso de agravo de instrumento, reformando a decisão objurgada.
+É o relatório.
+DECIDO.
+Para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, todos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Passo a análise da presença ou não dos requisitos da probabilidade do direito e do fundado receio de dano grave e de difícil reparação.
+Inicialmente, urge destacar que, a presença da prova inequívoca é imprescindível para o provimento antecipatório, conforme indica o seguinte posicionamento doutrinário:
+“Só a existência de prova inequívoca, que convença da verossimilhança das alegações do autor, é que autoriza o provimento antecipatório da tutela jurisdicional em processo de conhecimento”. (MARINONI, Luiz Guilherme e ARENHART, Sérgio Cruz. Manual do Processo de Conhecimento. 5 ed. São Paulo: Editora Revista dos Tribunais, 2006, p. 216)”.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido liminar não merece acolhimento, em face da ausência dos pressupostos autorizadores para o seu deferimento.
+Extrai-se dos autos que, a parte autora ora Agravada foi autuada pela SEMA- Secretaria Estadual do Meio Ambiente, cuja lavratura ocorreu no dia 04/05/2020 através do Auto de infração n. 5917, que resultou no Processo Administrativo n. 173790/2020.
+O juízo monocrático destacou na decisão agravada que, ‘verifica-se dos documentos careados nos autos, especialmente, o Processo Administrativo, que operação de fiscalização foi realizada tão somente pela Polícia Especializada de Meio Ambiente desacompanhada da SEMA – Secretaria de Estado de Meio Ambiente, o que nesta análise de cognição sumária, evidencia a probabilidade do direito alegado pela incompetência do agente autuador’.
+Na espécie, não vislumbro o risco de dano grave, de difícil ou impossível reparação, caso a pretensão recursal seja acolhida por ocasião da apreciação do mérito, motivo pelo qual se mostra prudente o aguardo do contraditório, notadamente pelo fato de que a parte Agravada, caso revertida a decisão proferida pelo juízo monocrático, poderia ensejar na inclusão do nome deste no SERASA, Protesto, além de outros órgão de restrição ao crédito, o que supostamente comprometeria o desenvolvimento das atividades comerciais da Agravada.
+Ante o exposto, indefiro o pedido de concessão de tutela antecipada.
+Comunique-se o juízo de primeiro grau, facultando-lhe o exercício de eventual juízo de retratação.
+Intime-se o Agravado para, querendo, apresentar contrarrazões.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
