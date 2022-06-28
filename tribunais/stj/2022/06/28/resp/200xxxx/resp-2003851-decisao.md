@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 186/187):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. VALIDADE DA CDA. DECADÊNCIA. PRESCRIÇÃO. ISS. SERVIÇOS BANCÁRIOS. NÃO-INCIDÊNCIA. LISTA DE SERVIÇOS DO DL Nº 406/68, ALTERADO PELA LC Nº 56/87. TAXATIVIDADE COM INTERPRETAÇÃO EXTENSIVA.
+1. Trata-se de apelações de Sentença que julgou improcedentes os embargos à execução fiscal ajuizados pela Caixa EconômicaFederal (CEF), contra o Município de Natal (RN), com ofito de desconstituir o título que embasouaexecução fiscal nº 2007.84.00.006622-6(CDA-nº,032.01"1.00264-4), associada à cobrança de ISS.
+2.MÉRITO: INCIDÊNCIA DO ISS
+I. A Lista de Serviços (comredação dadapela Lei Complementar56/87)queacompanhao Decreto-Lei 406/68 é exaustiva, não admitindo o emprego daanalogia, com intuitode alcançar hipóteses de incidência diversas daquelas expressamente consignadas. No entanto, essa taxatividadenão impede o uso da interpretação extensiva para abrigar serviços idênticos aos expressamente previstos, mas com nomenclaturadiversa. Precedentedo STJ julgado sob o rito do art. 543-Cdo CPC: REsp 1111234/PR, Rel. Ministra Eliana Calmon, Primeira Seção,julgadoem 23/09/2009, Dje 08/10/2009.
+II. No caso vertente, as rubricas contábeis contidas na CDA,que embasou o título executivo são as seguintes: 7.19.990.001 - Operaçõesde Crédito Taxa de -Administração e Abertura; 7.19.990.019-0 e 7.19.990.063-8- SFH/SH - Taxas sobre Operações deCrédito; 7.19.990.051-4 - Receitas Participação RedeShop; .719.99653-0 - Receitas sobre Fatura de Cartão de Crédito.
+III. Confrontando-se os serviçoscontidos na listacom os descritosna CDA queembasou o feitoexecutivo, observa-se que, de fato, a cobrança perpetradapelo FiscoMunicipal incorreu em interpretação de caráter extensivo, a ensejar, de formaindevida, a ampliação do rol de serviços, com inclusão de outros de natureza diferente dos arrolados na lista.
+3. Prejudicadoo recurso adesivo interposto peloMunicípiode Natal, amparado na pretensãode reforma dasentençapara majoração dos honoráriosadvocatícios. Com ojulgamento proferido nesta assentada, decidiu-se pela procedência dademanda, recaindo os ônus da sucumbência sobre o vencido, no caso, o Município de Natal, que deverá arcar com o pagamento dos honorários advocatícios, no valorde R$ 2.000,00 (dois mil reais), em observância ao disposto no art. 20, parágrafo 4º, do CPC.
+Recurso adesivodo Município de Natal prejudicado e apelação da CEF providapara, reformando a sentença, desconstituir o crédito tributário constante na Execução Fiscal n.º 2007.84.00006622-6.
+Embargos de declaração rejeitados.
+O recorrente alega, em síntese, violação ao art. 20, §4º, do CPC/1973, sob o argumento de irrisoriedade da verba honorária advocatícia fixada na origem.
+Com contrarrazões (fls. 526/532).
+Juízo positivo de admissibilidade às fls. 614.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Apesar de ser pacífico no STJ que, em regra, a reavaliação do valor fixado a título de honorários advocatícios exige novo exame dos fatos e provas dos autos, o que é vedado pela Súmula 7/STJ, tal obstáculo pode ser afastado em situações excepcionais, quando se verificar excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+Na origem, assim se manifestou o voto condutor do acórdão recorrido (fl. 458):
+Com o julgamento proferido nesta assentada, decidiu-sepela procedência da demanda, recaindo os ônus da sucumbência sobre o vencido, no caso, o Município deNatal, que deverá arcar com o pagamento dos honorários advocatícios, no valor de R$ 2.000,00 (dois mil reais), em observância ao disposto no art. 20, parágrafo 4º, do CPC.
+No caso, tenho que o montante fixado pela Corte a quo (R$ 2.000,00), justifica a revisão do juízo de equidade proferido pela instância local, vez que representa percentual ínfimo diante do valor histórico atribuído à causa (R$ 342.645,46 - em 2008), amoldando-se ao conceito de irrisoriedade.
+Assim, diante das peculiaridades do caso concreto, fixo a verba em questão no percentual de 1% sobre o valor corrigido do valor da causa. Nesse sentido (grifado):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. JUÍZO DE EQUIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A jurisprudência desta Corte Superior admite a revisão do juízo de equidade referente à fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) quando o valor arbitrado é irrisório ou exorbitante.
+3. Hipótese em que, consideradas a natureza da ação e a baixa complexidade da matéria - atinente à condenação da UNIÃO no pagamento das diferenças decorrentes da subestimação do valor mínimo nacional do FUNDEF, averiguadas de acordo com o art. 6º da Lei n. 9.424/1996, referentes aos anos de 2002 a 2006 -, que já foi objeto de julgamento pelo regime dos recursos repetitivos, revela-se desproporcional a verba honorária de sucumbência arbitrada em R$ 125.000,00 (cento e vinte e cinco mil mil reais), consistente em 5% do valor da condenação, razão pela qual é de rigor a redução para 1% do quantum alusivo à condenação.
+4. Agravo interno não provido.
+(AgInt no REsp 1519915/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/03/2018, DJe 04/05/2018)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. DESPROPORCIONALIDADE NÃO CONFIGURADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado.
+Aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Considerando as peculiaridades do caso concreto, a condenação em honorários advocatícios fixada no percentual de 1% do valor atualizado da causa não configura desproporcionalidade.
+III - Não apresentados argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1715246/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 16/04/2018)
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. VERBA HONORÁRIA DE SUCUMBÊNCIA. NOVA MAJORAÇÃO. REJEIÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+3. Hipótese em que a concessionária não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+4. A jurisprudência desta Corte Superior admite a revisão do juízo de equidade referente à fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) quando o valor arbitrado é irrisório ou exorbitante.
+5. Hipótese em que a quantia de R$ 2.500,00 arbitrada no acórdão recorrido a título de honorários advocatícios foi reputada irrisória na decisão agravada, tendo em conta o proveito econômico perseguido pelo Município/autor vitorioso na ação (R$ 922.251,27), pelo que foi elevada para 1% (um por cento) sobre o valor da condenação, patamar que, no caso concreto, mostra-se adequado e suficiente para remunerar dignamente o trabalho do advogado do postulante, sem onerar demasiadamente a sucumbente, não sendo o caso de nova majoração.
+6. Agravo interno da CELG não conhecido e agravo do Município desprovido.
+(AgInt no REsp 1427835/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/03/2018, DJe 18/04/2018)
+PROCESSUAL CIVIL. VERBA HONORÁRIA DE SUCUMBÊNCIA. JUÍZO DE EQUIDADE. MAJORAÇÃO. MANUTENÇÃO.
+1. A jurisprudência desta Corte Superior admite a revisão do juízo de equidade referente à fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) quando o valor arbitrado é irrisório ou exorbitante.
+2. Hipótese em que, sopesando a dimensão econômica e a complexidade da demanda, a decisão agravada fixou a verba honorária em 1% do valor da causa, o que é suficiente para, em concreto, remunerar dignamente o trabalho realizado, não sendo o caso de nova majoração, como postulado pelos advogados da sociedade empresária, nem de redução, como pede a parte ex adversa.
+3. Agravos internos não providos.
+(AgInt no REsp 1540730/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 05/12/2017, DJe 15/02/2018)
+Ante o exposto, dou provimento ao recurso especial, majorando os honorários fixados para o percentual de 1% sobre o valor corrigido da causa, nos termos da fundamentação expendida.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. ARBITRAMENTO EM VALOR IRRISÓRIO. EXCEPCIONALIDADE. RECURSO ESPECIAL PROVIDO.
