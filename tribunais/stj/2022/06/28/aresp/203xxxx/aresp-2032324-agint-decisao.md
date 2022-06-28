@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+AGRAVO INTERNO - EMBARGOS À EXECUÇÃO FISCAL - PEDIDO DE PRODUÇÃO DE PROVA INDEFERIDO - TAXATIVIDADE DO ARTIGO 1.015 DO CPC - AGRAVO DE INSTRUMENTO NÃO CONHECIDO - AGRAVO INTERNO NÃO PROVIDO.
+1. O Código de Processo Civil, em seu artigo 1.015, apresenta rol taxativo das decisões interlocutórias que comportam impugnação por meio de agravo de instrumento.
+2. Na atual sistemática processual a decisão impugnada pela agravante - indeferimento de produção de provas, não esta sujeita à interposição do agravo de instrumento em virtude da taxatividade do rol do referido dispositivo legal.
+3. O C. STJ no Recurso Especial Repetitivo nº 1.696.396/MT (Tema 988) assentou o entendimento da taxatividade mitigada: a admissão do recurso de agravo de instrumento fica condicionada às questões de natureza urgente e de inutilidade da apreciação final, requisitos ausentes no presente recurso.
+Os Embargos de Declaração foram rejeitados (fls. 233-234, e-STJ).
+Os agravantesrequerem a reforma da decisão anterior por estar dissonante da jurisprudência do STJ. Sustentam:
+A questão posta em apreciação é saber se "PEDIDO DE EXIBIÇÃO DE DOCUMENTO - PROVAS" é matéria que se sujeita a interposição de agravo de instrumento, nos termos do art. 1015, inciso VI do CPC.
+(..)
+Em que pese a exposição, observa-se das razões dos embargos de declaração que o Recorrente indicou que haveria CONTRADIÇÃO porque (92828665 - pag. 3), em caso análogo (Partes, objeto e pedido) já havia sido deferido pela 6º Turma (AI 5009751-71.2018.4.03.0000) e, havendo a coisa julgada, o juízo de valor realizado pela 3º Turma incorria em CONTRADIÇÃO. Contudo, sob a interpretação do v.
+acórdão ID 141455335, o Relator entendeu que a invocação nada mais era do que um inconformismo que pretendia alcançar todos os argumentos e o julgado não incorria nas disposições do art. 489, § 1º do CPC.
+(..)
+O pedido de prova - EXIBIÇÃO DE DOCUMENTOS DA VASP - foi justamente para afastar a PRESUNÇÃO DE LEGITIMIDADE do Recorrente para figurar no polo passivo do executivo fiscal. E, justamente pela ausência de vinculação com o Fato Gerador é que foi requerida a intimação do Administrador Judicial, com amparo no art. 134, inciso V do CTN, haja vista que a época do redirecionamento do executivo (09/02/2011), a empresa VASP já se encontrava falida e era gerida pelo mesmo Administrador Judicial, o qual iniciou o processo de Recuperação Judicial da VASP.
+Contrarrazõesapresentadas às fls. 263-265, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.5.2022.
+O Agravo Interno procede, razão pela qual a decisão anterior merece ser reformada.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos (fls. 160-164, e-STJ):
+Temos, pois, que na atual sistemática processual a decisão impugnada pela agravante - indeferimento de produção de provas, não está sujeita à interposição do agravo de instrumento em virtude da taxatividade do rol do referido dispositivo legal.
+(..)
+Destaco, outrossim, que o presente entendimento amolda-se ao decidido Tema de Recursos Repetitivos n.º 988 do C. Superior Tribunal de Justiça, uma vez que o indeferimento do pedido de produção de provas não gera "urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsiatal como lhe foi apresentada. Confira-se:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1.630.265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016)
+Verifica-se ainda que a Corte regional entendeu que "o indeferimento do pedido de produção de provas não gera urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (fl. 163, e-STJ).
+Contudo, esse argumento- queé apto, por si só, para manter o decisum combatido-não foi impugnado pelos recorrentes. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.Nessa esteira:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO DEMONSTRADA. INTERRUPÇÃO INDEVIDA DO FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO RESTABELECIMENTO DO SERVIÇO. INDENIZAÇÃO POR DANO MORAL. QUESTÃO DECIDIDA COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL.
+(..)
+8. Incide ainda, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+9. Fica prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+10. Recurso Especial conhecido parcialmente, somente em relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, não provido.
+(REsp 1.831.314/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2019)
+Ainda que superado tal óbice,a Corte Especial do STJ, no julgamento do REsp 1.704.520/MT (Tema 988/STJ), submetido à sistemática dos recursos repetitivos, firmou a tese segundo a qual "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+Os efeitos do julgado foram modulados "a fim de que a tese jurídica apenas seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão", o que se deu em 19.12.2018.Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECISÃO INTERLOCUTÓRIA QUE DEFERE PRODUÇÃO DE PROVA PERICIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. MULTA DO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. SÚMULA 98/STJ. NATUREZA JURÍDICA DA LISTA DO ART. 1.015 DO CPC/2015. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. TEMA 988/STJ. RESP 1.696.396/MT E RESP 1.704.520/MT. MODULAÇÃO DOS EFEITOS DA DECISÃO. APLICAÇÃO DA TESE PARA AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. DECISÃO INTERLOCUTÓRIA PROLATADA EM MOMENTO ANTERIOR. NÃO INCIDÊNCIA DA TESE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+VI. A Corte Especial do STJ, no julgamento dos Recursos Especiais 1.696.396/MT e 1.704.520/MT, (Rel. Ministra NANCY ANDRIGHI, DJe de 19/12/2018), submetidos ao rito do art. 1.036 do CPC/2015, firmou entendimento no sentido de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema 988). Na ocasião, foram modulados os efeitos da decisão "a fim de que a tese jurídica apenas seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão", o que se deu em 19/12/2018.
+VII. No caso, a decisão interlocutória, impugnada pela parte agravante, foi publicada em 06/06/2016, de modo que inaplicável a tese da taxatividade mitigada, devendo, portanto, ser mantido o acórdão recorrido, que não conheceu do Agravo de Instrumento. Nesse sentido: STJ, AgInt no REsp 1.782.428/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 18/12/2020; AgInt no REsp 1.841.903/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 16/11/2020; AgInt no AREsp 1.629.866/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/09/2020.
+VIII. Agravo interno parcialmente provido, para conhecer do Recurso Especial e dar-lhe parcial provimento, apenas para afastar a condenação da parte agravante ao pagamento da multa, prevista no art. 1.026, § 3º, do CPC/2015.
+(AgInt no REsp 1686924/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/3/2021)
+No caso em tela, a decisão interlocutória foi proferida antes da publicação do aresto prolatado no REsp 1.704.520/MT (19/12/2018), motivo pelo qual não se aplica a tese firmada no Tema 988/STJ, cuja incidência ficou assegurada apenas ao que foi posteriormente proferido.A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRODUÇÃO DE PROVA. OFENSA AO ART. 1.015 DO CPC/2015. AGRAVO DE INSTRUMENTO EM FACE DE DECISÃO INTERLOCUTÓRIA PROFERIDA NOS EMBARGOS À EXECUÇÃO FISCAL QUE INDEFERE A PRODUÇÃO DE PROVA DOCUMENTAL. TAXATIVIDADE MITIGADA. RESP N. 1.704.520/MT JULGADO PELA CORTE ESPECIAL SOB O RITO DOS REPETITIVOS. TEMA N. 988/STJ. MODULAÇÃO DOS EFEITOS. TESE APLICÁVEL SOMENTE ÀS DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. DECISÃO INTERLOCUTÓRIA PROLATADA EM MOMENTO ANTERIOR. NÃO INCIDÊNCIA DA TESE.
+1. A decisão agravada não conheceu do recurso especial e, consequentemente, manteve o pronunciamento do acórdão recorrido que indeferiu o pedido de produção de provas (pericial, documental e testemunhal) formulado no bojo dos embargos à execução fiscal, uma vez que tal hipótese não está contemplada no rol do artigo 1.015 do CPC/2015.
+2. A Corte Especial deste Tribunal Superior, no julgamento do REsp nº 1.704.520/MT (Tema nº 988/STJ), submetido à sistemática dos recursos repetitivos, firmou a tese segundo a qual "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação". Ademais, a Corte Especial modulou os efeitos da decisão "a fim de que a tese jurídica somente seja aplicável às decisões interlocutórias proferidas após a publicação do presente acórdão", nos termos do acórdão proferido em 5/12/2018 e publicado em 19/12/2018.
+3. Na espécie, a decisão interlocutória foi proferida em setembro de 2018  o agravo de instrumento foi interposto em 12/5/2018  , razão pela qual não se aplica a tese firmada no Tema n. 988/STJ, cuja incidência ficou assegurada apenas às decisões interlocutórias proferidas após a publicação do acórdão prolatado no REsp n. 1.704.520/MT (19/12/2018), hipótese diversa do presente caso, em que a decisão interlocutória foi proferida em momento anterior à tese firmada no repetitivo.
+4. Assim, deve ser mantido o acórdão recorrido que entendeu pelo não cabimento do agravo de instrumento interposto em face da decisão interlocutória proferida nos embargos à execução fiscal que indeferiu a produção de prova documental.
+5. Agravo interno não provido.
+(AgInt no REsp 1841903/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 16/11/2020)
+Por tudo isso, dou provimento ao Agravo Interno paraconhecerdo Agravo e conhecer parcialmente do Recurso Especial, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
