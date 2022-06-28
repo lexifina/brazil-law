@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo contra decisão proferida pelo Desembargador Terceiro Vice-PresidenteTribunal de Justiça do Estado do Rio de Janeiro, que não admitiu o Recurso Especial por incidência da Súmula 7/STJ.
+Defende Rosa Valéria dos Santos Gonçalves:
+As premissas fáticas do caso concreto encontram-se perfeitamente delimitadas, não se discutindo se tenham ou não existido. O objetivo do Recurso Especial interposto era, justamente, conferir o adequando enquadramento legal às questões postas em juízo. Com efeito, para que se analise a matéria suscitada no Recurso Especial não se faz necessária a rediscussão dos fatos alegados e tampouco a reapreciação das provas produzidas nos autos, tendo em vista que a questão se restringe unicamente à matéria de direito.
+Cinge-se a controvérsia a verificar se a conduta da concessionária, consistente em imputar a consumidora um débito que ela não reconhece e para o qual jamais concorreu, em suas faturas de consumo, bem como fazê-la despender um tempo que lhe é precioso para resolver problema que foram causados pela própria concessionária, são passíveis de ensejar sua condenação ao pagamento de indenização por dano moral.
+Com efeito, para que se analise a matéria suscitada no Recurso Especial não se faz necessária a rediscussão dos fatos alegados e tampouco a reapreciação das provas produzidas nos autos, tendo em vista que a questão se restringe unicamente à matéria de direito.
+Os fatos demonstrados e incontroversos não revelam a necessidade de revisão da matéria fática, afastando, por isso, a incidência da Súmula 7.
+ ..
+Desta forma, o que se verifica é que o objetivo do Recurso Especial interposto era demonstrar que ocorreu o cerceamento de defesa por ausência de produção de prova pericial, bem como o reconhecimento de que o TOI é nulo por constituir ato unilateral, despido de prévio contraditório e ampla defesa e que não se observou a sistemática definida pela ANEEL, passando a incluir, nas faturas de consumo, o suposto débito apurado, como forma de coagir a consumidora a proceder ao seu pagamento.
+Sendo assim, a cognição a ser exercida por esta Egrégia Corte Superior, consiste em avaliar que o procedimento não observou o contraditório e a ampla defesa, bem como definir se, para aferir se realmente ocorreu alguma irregularidade na medição do consumo, seria necessária a realização da prova pericial, que não foi produzida no caso em tela, acarretando em nulidade por cerceamento de defesa.
+Assim, fica evidente não ser necessária qualquer incursão no contexto fático-probatório, apenas a adequação da consequência jurídica decorrente daqueles fatos que foram reconhecidos em juízo como existentes.
+Por sua vez, a adequação da consequência jurídica se dá a partir da análise de que a ausência da prova pericial causou prejuízo à ora recorrente, uma vez que sem esta não é possível verificar qualquer irregularidade no medidor de energia elétrica e, por consequência, se o TOI é efetivamente válido, tendo sido verificado o débito apenas em razão do TOI unilateralmente produzido pela concessionária Ré, ora recorrida, ou seja, em razão de prova unilateralmente produzida por uma das partes.
+Contraminuta às fls. 559-566, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de maio de 2022.
+A irresignação não merece acolhida.
+O Tribunal de origem consignou:
+ ..
+Na hipótese em comento, a prova anexada foi suficiente para demonstrar que o consumo se encontrava zerado no mês referência, desincumbindo-se a concessionária ré do ônus que lhe competia, qual seja, o de comprovar o fato extintivo do alegado direito autoral.
+Insta salientar ser despicienda a produção de prova pericial para verificar o consumo da parte autora. Ademais, a mesma informou nas fls. 185/186 - 0000185 que se mudou do imóvel em julho/2017.
+Desse modo, o acervo probatório constante dos autos demonstrou que a concessionária ré seguiu as normas estabelecidas legitimamente, agindo no exercício de seu direito, não restando caracterizado qualquer abuso ou arbitrariedade de sua parte.
+Portanto, forçosa a conclusão pela inexistência de comprovação de falha na prestação de serviços pela concessionária ré.
+O Tribunal a quo afirma que não houve irregularidade na lavratura do TOI. Assim,alterar a fundamentação do aresto recorridonesse pontodemandaria, necessariamente, incursão no acervo fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7/STJ.
+É inviável, ainda, analisar a tese defendida no Recurso Especial de que "para aferir se realmente ocorreu alguma irregularidade na medição do consumoseria necessária a realização da prova pericial", pois isso igualmente exigiria rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido de que "a prova anexada foi suficiente para demonstrar que o consumo se encontrava zerado no mês referência, desincumbindo-se a concessionária ré do ônus que lhe competia". Aplica-se o óbice da Súmula 7/STJ.
+Ademais, a jurisprudência do Superior Tribunal de Justiça está sedimentada no sentido de que é lícito o corte administrativo do serviçose houver aviso prévio da suspensão(REsp 363.943/MG, Rel. Min. Humberto Gomes de Barros, Primeira Seção, DJ 1º.3.2004, p. 119; EREsp 302.620/SP, Rel. Min. José Delgado, Rel. p/ Acórdão Ministro Franciulli Netto, Primeira Seção, DJ 3.4.2006, p. 207; REsp 772.486/RS, Rel. Min. Francisco Falcão, Primeira Turma, DJ 6.3.2006, p. 225; AgRg no Ag 1.320.867/RJ, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 19.6.2017; e AgRg no AREsp 817.879/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 12.2.2016.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Caso existam nos autos honorários de advogado previamente fixados pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
