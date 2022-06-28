@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO LUÍS contra decisão do Tribunal de Justiça do Estado do Maranhão, o qual não admitiu recurso especialfundado naalínea"a" do permissivo constitucional para desafiar acórdão assim ementado (e-STJ fl. 185):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA MUNICIPAL. ADICIONAL SAÚDE.ARTIGO 114 DA LEI N. 4.615/2006. DIREITO À PERCEPÇÃO DOS VALORES RELATIVOS AO PERÍODO COMPREENDIDO ENTRE SUA REGULAMENTAÇÃO E SUA SUPRESSÃO. RECURSO IMPROVIDO.
+I - A agravada é Técnica Municipal em Nível Superior - Farmacêutica, conforme qualificação constante no Decreto de nomeação, tendo entrado em exercício no serviço público municipal em janeiro de 2008, após regular aprovação em concurso público, atuando no Hospital da Criança - Dr.Odorico Amaral Matos.
+II - O artigo 114 do Estatuto dos Servidores Públicos do Município de São Luís/MA (Lei nº 4.615/06) garante o pagamento do Adicional de Auxílio - Saúde, de forma transitória, sem que se faça sua incorporação ao vencimento ou à remuneração.
+III - Não comprovada pela Administração Pública Municipal a quitação do Adicional de Auxílio-Saúde, tem a servidora direito a receber os valores referentes ao período compreendido entre janeiro de 2008 (data de sua posse e exercício no cargo público) até o advento do Decreto nº 39.259/2010, respeitada, em todo o caso, a prescrição quinquenal.
+IV - Recurso improvido.
+Opostos embargos de declaração, que foram rejeitados.
+Nas razões do especial, orecorrentealegouofensa aos arts.15, 16, 17 e 21 da Lei Complementar n.101/2001 e aoart. 54 da Lei n.9.784/1999, sustentando que"anatureza do adicional de saúde, tal como previsto no art. 114 do Estatuto do Servidor, não deixa qualquer margem de dúvida quanto à sua precariedade, caracterizada pela transitoriedade do "benefício", sujeito a alterações de acordo com o exclusivo interesse da administração municipal, o qual é informado, no caso em análise, por critérios discricionários" (e-STJfl. 245).
+Aduziu que foi "observado o prazo decadencial de 05 (cinco) anos estabelecido na norma, o Decreto n. 39.259, de 02 de março de 2010, reconheceu a manifesta ilegalidade do Decreto Municipal n. 35.919, de 19 de novembro de 2008,(e-STJ fl. 246).
+Destacou, ainda, que "o Decreto Municipal n.35.919 e NULO DE PLENO DIREITO, pois o mesmo fora editado nos últimos 180 (cento e oitenta) dias do término do mandato do chefe do executivo municipal, que ocorreu em 31.12.2008, diante das eleições municipais de 05.10.2008.(e-STJ fl. 247).
+Sem contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem.
+Passo a decidir.
+O recurso não merece prosperar.
+Com efeito, quanto aos dispositivos indicados como violados,verifica-se que os mencionados dispositivos legais não foram prequestionados e que os embargos de declaração apresentados não cumpriram com a finalidade de suprir essa omissão. Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016)
+O Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento. Em seu bojo, inovou o legislador ao introduzir o art. 1.025 do CPC/2015, que consagrou o chamado "prequestionamento ficto", ao prescrever, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017; e AgInt no REsp 1.631.358/RN, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017).
+No caso dos autos, a parte recorrente nãoatendeu à exigência de indicar a preliminar de negativa de prestação jurisdicional.
+Ademais,a inversão do julgado exigiria a análise e a interpretação de lei local, incabível em sede de recurso especial, nos termos do artigo 105, inciso III, da Constituição da República e da Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a",do RISTJ, CONHEÇO do agravo em recurso especial para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
