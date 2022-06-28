@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+APELAÇÃO - SERVIDORA PÚBLICA MUNICIPAL - MUNICÍPIO DE ITAPECERICA DA SERRA - Pleito de recebimento de Gratificação de Atividade Técnica criada pela Lei nº 2.112/2010 - Direito reconhecido pela Justiça do Trabalho - Transmutação do regime celetista para estatutário antes do trânsito em julgado da decisão trabalhista - Delimitação na execução trabalhista do período a ser recebido até o advento da LC nº 31/2015 - Gratificação reivindicada que foi extinta pela Lei nº 2.146/2010 - Inexistência de direito adquirido a regime jurídico.
+Necessidade, contudo, de se observar o direito à irredutibilidade de vencimentos - Precedentes - Sentença reformada Recurso parcialmente procedente, nos termos do voto.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, em seu Recurso Especial, alega, além de divergência jurisprudencial, haver violação dos arts. 7º e 9º da CLT; 2º e 6º da LICC; e 5º da CF. Aduz(fl. 1.759, e-STJ):
+Porém, uma vez que a gratificação, tal qual prevista na Lei de sua origem, foi instituída em razão de serviços efetivos de ordem técnica, mantendo-se estas atribuições, como restaram mantidas, a mesma pode atingir tanto aqueles que detém liame de ordem trabalhista, como de regime estatutário, afinal aplica-se a previsão expressa legal expressa do art. 4º da LC 31/2015 (Fls. 1167) que garante que a transmutação não indica renúncia de direitos.
+Sem Contrarrazões.
+Decisão de inadmissibilidade às fls. 1.792-1.793, e-STJ, o que ensejou o presente Agravo.
+Sem Contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.5.2022.
+O Tribunal de origem, ao julgar a controvérsia, consignou (fls. 1.741-1.743, e-STJ):
+No mérito, a controvérsia está em saber se a gratificação técnica, implementada sob a égide de regime jurídico celetista, pode ser suprimida com a transmutação para o regime estatutário.
+Inicialmente, não há que se falar que a pretensão deduzida nestes autos estaria acobertada pela coisa julgada trabalhista, já que o pedido ora formulado é pertinente ao período não abrangido na execução do julgado trabalhista, haja vista a delimitação lá colocada.
+A Lei Municipal nº 2.112/2010 instituiu a gratificação técnica nos seguintes termos:
+(..)
+Posteriormente, a Lei Municipal nº 2.146/2010 revogou os dispositivos acima transcritos.
+A Justiça do Trabalho considerou que a gratificação instituída pela Lei Municipal nº 2.112/2010 deveria ser paga à Autora até a extinção de seu contrato de trabalho, ocorrida por ocasião da mudança para o regime estatutário, conforme artigo 4º da Lei Complementar nº 31/2015.
+Contudo, diferente do aplicado ao regime da CLT, os servidores públicos não possuem direito adquirido a regime jurídico, de maneira que é possível ao ente público revogar os benefícios concedidos, sem, no entanto, reduzir o valor global da remuneração.
+(..)
+Desta forma, a supressão da gratificação não pode implicar redução de vencimentos, sob pena de violação ao artigo 37, XV, da Constituição Federal.
+Assim, a Autora não teria direito ao recebimento da gratificação técnica após sua extinção pela Administração. Contudo, observado o princípio da irredutibilidade dos vencimentos, deve ser mantido o valor remuneratório nominal da Autora após a extinção da gratificação.
+Na leitura dos autos, observa-se que a questão foi decidida pela Corte a quo mediante análise de legislação local (Leis Municipais 2.112/2010 e 2.146/2010),ficando evidente que eventual violação dos dispositivos federais citados, se houve, ocorreu de forma indireta ou reflexa, não justificando a interposição de Recurso Especial. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. GRATIFICAÇÃO DE AÇÃO POLICIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF. PRINCÍPIO DA NÃO SURPRESA. INTERPRETAÇÃO DE LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação objetivando o pagamento de Gratificação de Ação Policial pelo Estado de Alagoas, nos termos da Lei Estadual n. 5.813/1996. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF. Nesse diapasão, confiram-se: (AgInt no AREsp n. 960.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2016, DJe 19/12/2016 e REsp n. 1.274.167/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/10/2016, DJe 9/11/2016.)
+III - Quanto à alegada violação ao princípio da "não surpresa", não merece melhor sorte o recorrente, porquanto é cediço que o "fundamento" ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria.)
+IV - A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa.
+V - O conhecimento geral da lei é presunção jure et de jure. Neste sentido: (AgInt no REsp 1.695.519/MG, Rel. Ministra Maria Isabel Gallotti, DJe 29/3/2019 e REsp 1.755.266/SC, Rel. Ministro Luis Felipe Salomão, DJe 20/11/2018.) VI - O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual n. 5.813/1996, a Lei Estadual n. 6.276/2001 e a Lei Estadual n. 6.682/2006, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse diapasão, confiram-se: (AgInt no AREsp n. 970.011/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/5/2017, DJe 24/5/2017 e AgRg no AgRg nos EDcl no AREsp n. 4.111/SP, Rel.Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 12/11/2014.) VII - Agravo interno improvido.
+(AgInt no AREsp 1.546.431/AL, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 24/4/2020)
+A análise da divergência jurisprudencial fica prejudicada quando a tese sustentada esbarra em óbice sumular ao examinar o Recurso Especial pela alínea "a" do permissivo constitucional.
+Por fim, destaque-se que é firme o entendimento no âmbito desta Corte, no sentido de não ser cabível a análise pelo STJ, na via especial, de ofensa adispositivo constitucional,ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
