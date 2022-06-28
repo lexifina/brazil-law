@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL contra decisão que negou provimento ao agravo em recurso especial, em virtude da ausência de omissão  no acórdão recorrido.
+Nas razões do presente agravo interno, a parte ora agravante sustenta, em síntese, que o v. acórdão recorrido restou omisso quanto a apreciação de alegação da ausência de previsão regulamentarpara a incorporação de todas as parcelas aferidas na demanda trabalhista.
+Pede a reforma da decisão.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PARCELAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO. PREVI - CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO.AGRAVO INTERNO NÃO PROVIDO.
+1.Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Agravo interno não provido.
+VOTO
+2. Em que pesem as razões desenvolvidas pela parte agravante, não foram trazidos argumentos capazes de alterar o decisum agravado, que deve ser mantido in totum.
+3.Resguardado de qualquer ofensa está o artigo 1.022 do Código de Processo Civil, haja vista que ofensa somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é complementar o acórdão quando nele identificar-se omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+Não caracteriza omissão quando o tribunal adota outro fundamento que não aquele defendido pela parte, não estando o julgador obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentara decisão, nem se obriga a ater-se aos fundamentos indicados pelas mesmas, tampouco a responder um a um a todos os seus argumentos.
+Assim, não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+ Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO. 1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento. 2. Revela-se inviável alterar o entendimento das instâncias ordinárias que, com apoio nos elementos de prova, concluíram pela inexistência de elementos capazes de desconstituir o acórdão rescindendo. Para tanto, foram considerados a existência de má-fé na posse do agravante e o fato de que as benfeitorias realizadas na área rural são úteis e não necessárias sendo, portanto, incabível a indenização pleiteada, ante o óbice da Súmula 7 do STJ. 3. Agravo interno a que se nega provimento. (AgInt no REsp 1608804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016).
+Conforme apontado na decisão agravada, a Corte Local apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões suscitadas na apelação, apenas adotando entendimento contrário aos interesses da parte recorrente. Dessa forma, nota-se que a alegada negativa de prestação jurisdicional não se efetivou no caso dos autos.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
