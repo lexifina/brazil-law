@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO.PRISÃO PREVENTIVA. REVOGAÇÃO. POSSIBILIDADE. GRAVIDADE ABSTRATA. REINCIDÊNCIA. CRIME COMETIDO SEM VIOLÊNCIA. FUNDAMENTAÇÃO INIDÔNEA. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO.CABIMENTO.ORDEM CONCEDIDA.. LIMINAR RATIFICADA.
+1. Acustódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao Magistrado vincular seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie com relação ao paciente.
+2. Odelito em questão teria sido cometido sem violência ou grave ameaça à pessoa, existindo a possibilidade de, em caso de condenação, ser fixado regime inicial diverso do fechado.
+3. Ordem concedidaa fim de revogar a prisão preventiva do paciente, ressalvando ao Juízo de primeiro grau a possibilidade de decretação de nova prisão, caso apresentados elementos concretos, bem como admitida a aplicação de medidas cautelares. Liminar ratificada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em benefício de Paulo Roberto de Carvalho Júnior, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 22454553820218260000 (fl. 117):
+HABEAS CORPUS FURTO QUALIFICADO E RESISTÊNCIA REVOGAÇÃO DA PRISÃO IMPOSSIBILIDADE PRISÃO BEM FUNDAMENTADA POSSIBILIDADE DE REITERAÇÃO CRIMINOSA É MOTIVO PARA O DECRETO DA SEGREGAÇÃO CAUTELAR - INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO INCABÍVEL POR SEREM INSUFICIENTES, INADEQUADAS E DESPROPORCIONAIS AO CASO SUB EXAMINE - ORDEM DENEGADA.
+O paciente está preso preventivamente pela suposta prática do crime previsto nos arts. 155, § 4º, e 329, ambos do Código Penal.
+A defesa afirma, em síntese, que o paciente vem sofrendo constrangimento ilegal por parte da autoridade coatora, visto que a prisão preventiva foi decretada mediante decisão carente de fundamentação, não demonstrando, em termos concretos, a necessidade da manutenção da medida extrema, não estando delineado o risco para a ordem pública nem para a ordem econômica.
+A liminar foi deferida, a fim de revogar a prisão preventiva do paciente, ressalvando ao Juízo de primeiro grau a possibilidade de decretação de nova prisão, caso apresentados elementos concretos, bem como admitida a aplicação de medidas cautelares (fls. 124/125).
+Informações prestadas (fls. 128/144).
+Parecer do Ministério Público Federal (fl. 147):
+PENAL - PROCESSUAL PENAL - HABEAS CORPUS - CRIME DE FURTO QUALIFICADO 155, §4º, II E CRIME DE RESISTÊNCIA ARTIGO 329, AMBOS DO CÓDIGO PENAL - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECRETO PRISIONAL DEVIDAMENTE FUNDAMENTADO - NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA CAUTELAR PARA GARANTIA DA ORDEM PÚBLICA - INAPLICABILIDADE DAS MEDIDAS CAUTELARES DIVERSAR DA PRISÃO - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO.PRISÃO PREVENTIVA. REVOGAÇÃO. POSSIBILIDADE. GRAVIDADE ABSTRATA. REINCIDÊNCIA. CRIME COMETIDO SEM VIOLÊNCIA. FUNDAMENTAÇÃO INIDÔNEA. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO.CABIMENTO.ORDEM CONCEDIDA.. LIMINAR RATIFICADA.
+1. Acustódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao Magistrado vincular seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie com relação ao paciente.
+2. Odelito em questão teria sido cometido sem violência ou grave ameaça à pessoa, existindo a possibilidade de, em caso de condenação, ser fixado regime inicial diverso do fechado.
+3. Ordem concedidaa fim de revogar a prisão preventiva do paciente, ressalvando ao Juízo de primeiro grau a possibilidade de decretação de nova prisão, caso apresentados elementos concretos, bem como admitida a aplicação de medidas cautelares. Liminar ratificada.
+VOTO
+Entendo configurada a ilegalidade, razão pela qual deferi a liminar.
+Diz a nossa jurisprudência que a prisão cautelar, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade, e não em meras suposições ou conjecturas.
+Ademais, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao Magistrado vincular seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie com relação ao paciente.
+No caso, a prisão cautelar está fundamentada na gravidade abstrata do delito e na reincidência, o que não evidencia, por si só, periculosidade mais acentuada a fim de determinar o trancafiamento. Confira-se (fl. 12):
+A decretação da prisão preventiva é admissível, ou seja, trata-se de crime doloso punido com pena privativa de liberdade máxima superior a 4 (quatro) anos (art. 313, I, do CPP) - considerados os dados circunstanciais, pondero -, de parte autuada reincidente por outro crime doloso e há prevalência do efeito da reincidência (art. 64, I, do CP) (fls. 38/41) (art. 313, II, do CPP) e de caso de não cabimento da substituição por outra medida cautelar diversa da prisão (arts. 282, § 6º, e 319 do CPP).
+Nesse passo, tem-se patente a ilegalidade da prisão preventiva, pois a decisão não aponta elementos concretos do caso específico dos autos, deixando de demonstrar, de forma fundamentada, a necessidade excepcional da medida. É cediço, ainda, que a jurisprudência desta Corte não admite a decretação de prisão mediante motivação genérica e abstrata.
+Ademais, o delito em questãoteria sidocometido semviolência ou grave ameaça à pessoa, existindo a possibilidade de, em caso decondenação, ser fixado regime inicial diverso do fechado.
+Ante o exposto, concedo a ordema fim de revogar a prisão preventiva do paciente, ressalvando ao Juízo de primeiro grau a possibilidade de decretação de nova prisão, caso apresentados elementos concretos, bem como admitida a aplicação de medidas cautelares. Liminar ratificada.
