@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se deagravo interposto porFrancieldo Cunha Gomescontra a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios, que inadmitiu o recurso especial por eleapresentado, com fundamento no art. 105, III,a,da Constituição Federal, contra o acórdão prolatado na Apelação Criminal n.0713953-48.2019.8.07.0003.
+Nas razões do recurso especial (fls. 263/270), a defesa aponta como violado o art. 59 do Código Penal, alegando, para tanto, quefoi aplicada equivocadamente a fração de 1/8 pelas circunstâncias negativas do caso, uma vez que, apesar de não haver disposição legal definindo o quantum a ser empregado, a jurisprudência possui o entendimento pacificado de que se deve aumentar ou diminuir a pena em 1/6, salvo se o magistrado apresentar razões imperiosas para aplicar uma fração maior do que esta, o que não ocorreu nesta ação (fl. 268).
+Apresentadas contrarrazões (fls. 282/285), o recurso especial não foi admitido por incidência daSúmula83/STJ (fls. 279/281). Contra essa decisão foi interposto o presente agravo (fls. 288/296), com contraminuta ofertada àfl. 304.
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 320/325).
+É o relatório.
+Volta-se a defesa, tão somente, contra o cálculo dosimétrico por entender que houveaumento excessivo da pena definida na primeira fase da dosimetria, haja vista o não atendimento à razoabilidade do quantum da pena(fl. 269). Não é o que se verifica, contudo.
+A Corte de origem manteve o aumento perpetrado na primeira fase da dosimetria, por concluir ser proporcional o critério de aumento da pena-base, igual ao resultado da divisão do intervalo entre a pena máxima e mínima do delito, dividido pelo número de circunstâncias do art. 59, do CP, o que corresponde à fração de 1/8 (um oitavo) para cada circunstância negativa(fl. 248).
+Nesse cenário, não constato qualquer desproporcionalidade, dado que, conforme larga orientação jurisprudencial desta Corte,diante da inexistência de um critério legal para definição do quantum de exasperação da pena-base, admite-se que o julgador se utilize do intervalo entre o mínimo e o máximo de pena cominada em abstrato para o delito para definir o montante de acréscimo de pena na primeira fase da dosimetria para cada circunstância judicial desfavorável(AgRg no AREsp n. 1.773.991/AL, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021).
+Com efeito,adivisão do intervalo entre o mínimo e o máximo da pena em abstrato pelas oito circunstâncias judiciais previstas no art. 59 do CP é um, entre outros, dos critérios que podem ser utilizados na fixação da pena-base(AgRg no REsp n. 1.704.633/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/10/2019 - grifo nosso).
+Logo, observo que o acórdão está em sintonia com a orientação jurisprudencial deste Corte.
+Ante o exposto, com fundamento no art. 253, II,b, do RISTJ,conheçodo agravo paranegar provimento aorecurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIME DE EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE. ALEGAÇÃO DE DESPROPORCIONALIDADE. NÃO OCORRÊNCIA. INTERVALO ENTRE OSLIMITES MÍNIMO E MÁXIMO DA PENA PREVISTAPARA O DELITO EM QUESTÃO.CRITÉRIO VÁLIDO.
+Agravo conhecido para negar provimento ao recurso especial.
