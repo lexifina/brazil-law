@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar,impetradoem face de acórdão assim relatado (fls. 847/848):
+1. Em favor de Patrício Aguiar de Souza, David Oliveira da Silva e Igor Henrique Soares, o Dr. José Alexandre dos Santos impetrou o presente habeas corpus postulando, sob alegação de constrangimento ilegal, a concessão da ordem para cessar a prisão preventiva dos pacientes e permitir que aguardem em liberdade o julgamento do recurso.
+Informa que os pacientes estão presos preventivamente desde 29.03.2021. Destaca que os delitos imputados aos pacientes art. 33, caput, c. c. o art. 40, IV, e art. 35 da Lei de Drogas, e art. 12 e art. 16, ambos da Lei nº 10.826, de 2006 não são da competência do júri e não envolvem violência ou grave ameaça.Alega que dois dos três pacientes (Patrício e David) são primários e de bons antecedentes, Patrício é pai de família, e possui residência fixa. Argumenta que a primariedade e os bons antecedentes asseguram aos pacientes o direito à liberdade até o julgamento (fls. 01/03).
+Juntados os documentos comprobatórios da impetração (fls. 04/737) e indeferida a liminar pleiteada (fls. 739), prestou informações a d. autoridade coatora Juízo de Direito da 4ª Vara Criminal da Comarca de Campinas (fls. 742/809).
+Após, manifestou-se a d. Procuradoria Geral de Justiça pela denegação da ordem (fls. 812/815).
+É o relatório.
+Consta dos autos que os pacientes forampresos preventivamente pela práticados crimes de tráfico de drogas, associação para o tráfico, porte de arma de fogo.
+Sustenta, em síntese,a existência de constrangimento ilegal, em razão da ausência de fundamentação dadecisão que decretou sua segregação cautelar, bem como excesso de prazo para a formação da culpa.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+No que tange ao tema, consta do acórdão recorrido (fls. 840/841):
+A ordem não merece concessão.
+Inicialmente, anota-se que legalidade da prisão preventiva dos pacientes já foi ratificada pela Colenda 12a Câmara, por ocasião do julgamento dos autos de Habeas Corpus nº 2072816-14.2021.8.26.0000 (Patrício), nº 2075407-46.2021.8.26.0000 (David) e nº 2077397-72.2021.8.26.0000 (Igor) ocasiões em que, sempre por votação unânime, esta Turma Julgadora entendeu presentes os requisitos para a manutenção da segregação preventiva de cada um dos pacientes.
+Os julgamentos dos habeas corpus acima referidos ocorreram entre os dias 10 e 19 de maio do ano passado e deste então nada aconteceu que alterasse o quadro fático ou afastasse os pressupostos da prisão processual descritos no art. 312 do CPP.
+Indiscutível a necessidade da custódia cautelar dos pacientes, conforme já decidido por esta Colenda Turma Julgadora.
+Destarte, ausente no writ demonstração cabal da ilegalidade suscitada e, portanto, não comprovado o alegado constrangimento ilegal, de rigor a denegação da ordem.
+Como se vê, o Tribunal de origemnão apreciouas alegações a respeito das ilegalidades apontadas acima, por já tê-lo feito no autos do HCs nº2072816-14.2021.8.26.0000 (Patrício), nº 2075407-46.2021.8.26.0000 (David) e nº 2077397-72.2021.8.26.0000 (Igor). Desse modo, não só se está diante de óbice à apreciação do presente recurso pelo risco de incursão em indevida supressão de instância, como tambémafigura-se inadmissível, na jurisprudência desta Corte,a impetração de habeas corpus que apenas reitera os fundamentos de writ anterior, já apreciado pelo Tribunal de Justiça. Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM EM RAZÃO DE SE TRATAR DE REITERAÇÃO DE PEDIDO. ILICITUDE DE PROVA. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM EM RAZÃO DA NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.PRISÃO PREVENTIVA COMPATIBILIZADA COM O REGIME SEMIABERTO IMPOSTO NA CONDENAÇÃO. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR EM RAZÃO DE GRAVE DOENÇA. AUSÊNCIA DE COMPROVAÇÃO DA NECESSIDADE.RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO.
+I - Não analisada pelo eg. Tribunal a quo a questão atinente à alegada ausência de fundamentação da r. decisão de primeiro grau que indeferiu a liberdade provisória, em razão de se tratar de mera reiteração de pedido já analisado pelo eg. Tribunal de origem em outro habeas corpus naquela Corte impetrado, não cabe a esta Corte examinar o tema, sob pena de indevida supressão de instância.Precedentes.
+ .. .
+Recurso ordinário parcialmente conhecido e nessa extensão desprovido.(RHC 108.502/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. REITERAÇÃO DE TEMAS DECIDIDOS ANTERIORMENTE. NÃO CONHECIMENTO DA SÚPLICA. AUSÊNCIA DE ILEGALIDADE NO ACÓRDÃO IMPUGNADO.
+1 - Não há ilegalidade no acórdão do Tribunal de Justiça do Estado de Tocantins que concluiu ser incabível o manejo de nova impetração suscitando questões (incompetência do Juízo de Palmas e exceção de coisa julgada) que já foram decididas em momento anterior por aquele mesmo Tribunal. Esta Corte também entende ser incabível a reiteração de habeas corpus.
+2 - Recurso ordinário não provido.(RHC 88.112/TO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/11/2017, DJe 24/11/2017)
+Ante o exposto, indefiro liminarmenteohabeas corpus.
+Publique-se.
+Intimem-se.
