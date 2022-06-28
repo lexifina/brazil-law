@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Reclamação, com pedido de liminar, ajuizada por JOÃO VITOR AMARO DE OLIVEIRA"em face da decisão proferida por Marcos de Jesus Gomes, Juiz de direito da Vara Única da Comarca de Ipuã/SP, que nos autos de ação penal nº 1500092-40.2022.8.26.0257, violou o entendimento sumulado desse Egrégio Superior Tribunal de Justiça (súmula 444 STJ), e também entendimento pacificado em relação à agravante do art. 61, I, do Código Penal, ambas as Turmas da Terceira Seção do Superior" (fls. 3-4).
+É o breve relato do necessário.
+Decido.
+O pleito formulado nesta Reclamação mostra-se divorciado da técnica jurídico-processual e não comporta sequer conhecimento, pois esta não é a via adequada para se atingir o fim pretendido.
+Com efeito, nos termos do art. 105, inciso I, alíneaf, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões."
+A norma constitucional foi regulamentada pelo art. 13 da Lei n. 8.038/90, segundo o qual a "reclamação é meio idôneo para preservar a competência do Tribunal ou assegurar a autoridade de suas decisões" e ainda pelo art. 187 do Regimento Interno deste Superior Tribunal de Justiça, que dispõe: "Para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, caberá reclamação da parte interessada ou do Ministério Público."
+Na esteira da jurisprudência mansa e pacífica desta Corte,"a leitura do art. 988 do CPC/2015 permite depreender quea Reclamação dirigida ao STJ não se presta a proteger o jurisdicionado de decisões judiciais que não tenham se alinhado ao posicionamento majoritário da jurisprudência desta Corte ou a tese posta em enunciado de súmula deste Tribunal"(AgRg na Rcl 34.605/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 13/09/2017, DJe 20/09/2017).
+No mesmo sentido, ainda, ilustrativamente: AgRg na Rcl 39.115/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, DJe 01/09/2020; AgRg na Rcl 12.364/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe 27/05/2013; AgRg na Rcl 3704/SP, TERCEIRA SEÇÃO, Rel. Ministro FELIX FISCHER, DJe04/02/2010.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alíneaa, do Regimento Interno deste Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+RECLAMAÇÃO. ATO DE JUIZ DE PRIMEIRO GRAU. ALEGADA INOBSERVÂNCIA DE ENUNCIADO DE SÚMULA DO STJ E DE JURISPRUDÊNCIA DESTA CORTE. MANIFESTO DESCABIMENTO DA VIA ELEITA. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
