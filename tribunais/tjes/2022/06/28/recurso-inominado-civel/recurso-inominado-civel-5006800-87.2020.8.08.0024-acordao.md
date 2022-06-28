@@ -1,0 +1,38 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5006800-87.2020.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RECOVERYDATA LOCADORA DE EQUIPAMENTO VIRTUAL DE RESTAURACAO DE DADOS LTDA - ME e outros
+RECORRIDO: MARCOS HENRIQUE PRADO SALLES e outros
+RELATOR(A
+):LEONARDO MANNARINO TEIXEIRA LOPES
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+RECURSO INOMINADO Nº 5006800-87.2020.8.08.0024
+
+RECTES.: MARCOS HENRIQUE PRADO SALLES e RECOVERYDATA LOCADORA DE EQUIPAMENTO VIRTUAL DE RESTAURACAO DE DADOS LTDA - ME
+
+RECDO.: MARCOS HENRIQUE PRADO SALLES e RECOVERYDATA LOCADORA DE EQUIPAMENTO VIRTUAL DE RESTAURACAO DE DADOS LTDA - ME
+
+RELATOR: O SR. JUIZ DE DIREITO LEONARDO MANNARINO TEIXEIRA LOPES
+
+JUIZ SENTENCIANTE: DR. PAULO ABIGUENEM ABIB
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO INDENIZATÓRIA. CONTRATO DE RISCO. RECUPERAÇÃO DE DADOS. VALIDADE DAS CLÁUSULAS. DEVER DE INFORMAÇÃO PRESTADO. AUSÊNCIA DE ÊXITO NO PROCEDIMENTO NÃO AUTORIZA RESTITUIÇÃO DO VALOR PAGO. ATRASO NO RETORNO. DANOS MORAIS. RECURSO IMPROVIDO. SENTENÇA MANTIDA. 1. Tese de parte autora: A parte autora ajuizou Ação Indenizatória informando ter contratado a demandada para recuperação de 06 HD’s, por terem apresentado problemas. Em síntese, alega que a empresa ré não logrou êxito na recuperação, mesmo pagando a importância de R$ 23.970,00 (vinte e três mil, novecentos e setenta reais). Assim, busca a declaração de nulidade das cláusulas I, II e VI, restituição do valor pago, além de danos morais em R$ 17.000,00 (dezessete mil reais). Em sede recursal, informa que o contrato não foi claro ao especificar quais as tecnologias experimentais seriam utilizadas na recuperação dos HD’s. Pleiteia, ainda, a majoração dos danos morais. 2. Tese da parte requerida: Informa, em síntese, que possui técnicos especializados na recuperação de arquivos, sendo referência no mercado, contudo, trata-se de contrato de risco por ser uma tentativa, ou seja, não é garantida a recuperação dos dados. Em sede de recurso, postula a reforma da r. sentença com exclusão da indenização a título de danos morais, ou, alternativamente, sua redução. 3. Sentença: Diante dos fatos, JULGO PARCIALMENTE PROCEDENTE o pedido da Inicial realizado por MARCOS HENRIQUE PRADO SALLES, resolvendo o mérito a teor da norma contida no art. 487, inciso I, do CPC, a fim de: a) DECLARAR nula a cláusula VI do contrato existente entre as partes, no que diz respeito à previsão de ausência de responsabilização da Ré por danos morais, materiais e lucros cessantes decorrentes do contrato; b) CONDENAR a Requerida no pagamento de R$4.000,00 (quatro mil reais), a título de danos morais, a ser monetariamente corrigido e acrescido de juros a contar deste arbitramento até a data do efetivo pagamento, ambos pelo índice da Corregedoria da Justiça local; c) Julgar improcedente o pedido de declaração de nulidade da cláusula I e II do contrato; d) Julgar improcedente o pedido de dano material de R$23.970,00 (vinte e três mil e novecentos e setenta reais). 4. Fundamentação: Conheço dos recursos apresentados pelos recorrentes, eis que preenchem seus requisitos de admissibilidade intrínsecos e extrínsecos. Inicialmente, a ré Recoverydata pugna para que seja atribuído efeito suspensivo ao seu Recurso, todavia, não vislumbro nos presentes autos prejuízo apto a concessão de efeito suspensivo, motivo pelo qual mantenho a regra prevista no artigo 43 da Lei 9.099/95, recebendo-o apenas em seu efeito devolutivo. Defiro o benefício da gratuidade de justiça ao autor/recorrente, haja vista que se trata de pessoa aparentemente hipossuficiente. O caso em questão exsurge de relação de consumo patente entre a parte recorrente e a parte recorrida, fato que enseja a regulamentação pelo Código de Defesa do Consumidor, em virtude das características dessa relação, em especial – a hipossuficiência do consumidor perante os fornecedores de produtos e/ou serviços. O sistema de responsabilidade civil adotado pelo Código de Defesa do Consumidor é a responsabilidade objetiva (contratual e extracontratual) que se funda na teoria do risco da atividade: a existência do dano e do nexo de causalidade entre o fato e o dano impõem ao fornecedor o dever de indenizar (CDC, art. 6º, inciso VI e arts. 12 a 25). A r. sentença deve ser mantida na íntegra. Da análise dos autos, observo que o autor firmou um Contrato de Risco com a empresa requerida, sendo acordada a tentativa de recuperação de dados (id. 5089270). A meu ver, ficou bastante claro e o autor teve ciência prévia de que seria utilizada tecnologia experimental para a tentativa de recuperação (cláusula I), não havendo motivos consistentes para declarar sua nulidade, vez que o dever de informação foi devidamente cumprido (art. 6º, III do CDC). Da mesma forma, a cláusula II também é válida, considerando que eventual não cumprimento do prazo de entrega acarretaria descumprimento do contrato com possibilidade de imposição de sanções, contudo, em nada se relacionando a eventual vício em seu conteúdo. Já a cláusula VI, acertadamente, é passível de nulidade, eis que a demandada, na condição de fornecedora de serviços não pode se eximir de suas responsabilidades afastando eventual indenização a título de danos materiais, morais ou lucros cessantes, até porque, colocaria o consumidor em desvantagem excessiva. Não obtendo êxito a requerida na recuperação dos dados não a torna responsável por devolver integralmente o valor pago pelo autor, considerando que diligenciou efetivamente para cumprir o contrato, inclusive enviando os HD’s para sua base no exterior (id. 6832286). Assim, conforme bem salientado da r. sentença, o serviço foi prestado com excelência e o valor pago deve ser, como de fato foi, revertido em favor da empresa requerida. O dano moral está presente de forma cristalina, considerando que o prazo de entrega do serviço não foi cumprido (21 dias úteis). Aliás, a demandada permaneceu em posse dos HD’s por quase 01 ano. No que tange o quantum arbitrado, a valoração da compensação moral deve observar o princípio da razoabilidade, a gravidade e a repercussão dos fatos, a intensidade e os efeitos da lesão. A sanção, por sua vez, deve observar a finalidade didático-pedagógica, evitar valor excessivo ou ínfimo, e objetivar sempre o desestímulo à conduta lesiva. Assim, considerando os parâmetros acima consignados, entendo que a indenização de R$ 4.000,00 (quatro mil reais), é justa e adequada, em montante condizente com a gravidade da conduta da requerida, com a extensão dos danos experimentados pela parte autora e com a capacidade econômica das partes, objetivando, assim, amenizar a dor e o sofrimento do consumidor, sem lhe causar enriquecimento indevido, não descuidando do caráter pedagógico, no sentido de induzir a requerida a adotar uma postura mais diligente na prestação dos seus serviços. Em sendo assim, mantenho incólume a r. sentença em todos os seus termos. 5. Dispositivo: Por tais razões, CONHEÇO DOS RECURSOS E NEGO-LHES PROVIMENTO, para manter, incólume, o comando sentencial. Condeno os recorrentes em custas e honorários advocatícios, que arbitro em 20% sobre o valor da condenação, sendo que em relação ao autor a exigibilidade fica suspensa em virtude do deferimento da justiça gratuita. É como voto.
+
+LEONARDO MANNARINO TEIXEIRA LOPES
+
+Relator
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
