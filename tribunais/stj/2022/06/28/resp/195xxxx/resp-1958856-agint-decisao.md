@@ -1,0 +1,43 @@
+DECISÃO
+Edimar Rinaldi Martini e outro interpõem agravo interno contra a decisão de fls. 162/164, na qual neguei provimento ao recurso especial.
+Sustentam que os valores inferiores a 40 (quarenta) salários mínimos depositados em conta corrente não podem ser penhorados.
+Afirmam que não incide, ao presente caso, o óbice da Súmula n. 7 do STJ.
+Intimada para se manifestar, a parte contrária apresentou impugnação às fls. 178/184.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero
+a decisão ora agravada.
+Trata-se de recurso especial manifestado por Edimar Rinaldi Martini e outro, no qual se alega violação do art. 833, X, do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 76):
+Agravo de instrumento. Execução de título extrajudicial. Penhora de ativos financeiros via Sisbajud. Decisão agravada que rejeita pedido de impenhorabilidade. Alegação de que os valores bloqueados constituem reserva financeira. Descabimento. Art. 833, X do CPC/15 que limita a proteção apenas as quantias depositadas em caderneta de poupança e não admite interpretação extensiva. Precedentes do STJ e desta Câmara. Comprometimento a subsistência do devedor e sua família não evidenciado. Ônus que incumbe ao devedor. Art. 854, § 3º do CPC/15. Decisão mantida. Recurso conhecido e não provido.
+Sustentam os recorrentes que "é possível ao devedor poupar valores sob a regra de impenhorabilidade no patamar de até 40 (quarenta) salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta corrente, em fundos de investimento, ou guardados em papel-moeda" (fl. 96).
+Assim posta a questão, passo a decidir.
+Observo que o Tribunal de origem negou provimento ao agravo de instrumento interposto pelos recorrentes, conforme se extrai dos seguintes trechos (fls. 78/81):
+(..)
+O art. 833 do CPC/2015, em seu inciso X, considera impenhoráveis as quantias depositadas em cadernetas de poupança, desde que não ultrapassem o valor de 40 salários mínimos. Isso porque a poupança se destina a reservar recursos financeiros, constituindo uma garantia ao poupador. No entanto, o § 3º do art. 854, do mesmo diploma processual, estabelece ser ônus do executado a comprovação de que as quantias bloqueadas são impenhoráveis por se tratar de fato impeditivo do direito do credor.
+No caso, embora o bloqueio judicial tenha recaído sobre valores localizados em contas do devedor Leandro Rinaldi Martini mantidas em diversas instituições financeiras, os agravantes se limitaram a juntar extrato referente à constrição dos R$ 3.313,34, localizados em conta do executado Edimar Rinaldi Martini na CC Emp Trans Rodo Fco Beltrão (mov.300.4).
+Logo, sem que a parte devedora tenha comprovado que os R$ 5.115,51 bloqueados em contas de sua titularidade estavam depositados em conta poupança para reserva financeira, a impenhorabilidade do art. 833, inciso X, do CPC/2015, não pode incidir no presente caso. A propósito, evoca-se:
+(..)
+E quanto aos R$ 3.313,34, bloqueados em conta do executado Edimar Rinaldi Martini na CC Emp Trans Rodo Fco Beltrão, o pedido de impenhorabilidade também não merece acolhida.
+Isso porque do exame do extrato acostado no mov. 300.4 vê-se que o montante bloqueado estava depositado em conta corrente com movimentação não condizente a reserva financeira. Observe-se:
+(..)
+Ocorre que a previsão contida no artigo 833, X, do CPC é válida somente para as importâncias depositadas em conta poupança, sendo que a jurisprudência do STJ, seguida por esta Câmara, já se posicionou no sentido de que não se deve interpretar extensivamente o referido dispositivo de modo a abranger os depósitos em conta corrente ou aplicação financeira, na medida em que constitui exceção à regra da penhorabilidade. A propósito:
+(..)
+Além disso, ainda que fosse possível conferir interpretação extensiva ao art. 833, X, do CPC, como pretendem os agravantes, se necessária a comprovação de que os valores constituem reserva financeira para viabilizar a subsistência do devedor e de sua família, o que não restou demonstrado.
+Os agravantes não apresentaram nenhum indício a fim de comprovar que o numerário bloqueado constitui a única quantia disponível aos recorrentes e que seria imprescindível à subsistência dos executados e de sua família, se limitando a invocar de forma genérica a impenhorabilidade, mas sem demonstrar o alegado, o que não pode ser admitido por desatenção ao art. 854 do CPC/2015. Nesse sentido:
+(..) (grifosnossos)
+Com efeito, verifico que o acórdão recorrido está em dissonância com ajurisprudência do STJ, que firmou o entendimento de que, salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VALOR DEPOSITADO EM CONTA BANCÁRIA. IMPENHORABILIDADE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. INCIDÊNCIA DA SÚMULA 83/STJ. AFRONTA AO PRINCÍPIO DA VEDAÇÃO DA DECISÃO SURPRESA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. VIOLAÇÃO DOS ARTS. 789, 797. 789, 797, 824, 854, § 3º, I, DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis, ressalvada a comprovação de má-fé, abuso de direito ou fraude. Incidência da Súmula 83/STJ no caso.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. A alegação genérica de violação de lei federal, sem que a parte insurgente explicite, de forma concreta, como os dispositivos teriam sido vulnerados pelo aresto impugnado, configura deficiência na fundamentação, ensejando a inadmissibilidade do recurso especial ante incidência da Súmula n. 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.783.548/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16.8.2021, DJe de 19.8.2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. NÃO PROVIMENTO.
+1. Salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.826.402/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11.4.2022, DJe de 18.4.2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. APLICAÇÕES FINANCEIRAS. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA.
+1. O STJ possui jurisprudência no sentido de ser impenhorável " a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+2. Nos termos do entendimento jurisprudencial firmado por esta Corte, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias ordinárias, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade.Incidência da Súmula n. 83 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.971.144/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11.4.2022, DJe de 19.4.2022) (grifos nossos)
+Em face do exposto, dou provimento ao recurso especial para declarar que éimpenhorável a quantia de até 40 (quarenta) salários mínimos, esteja eladepositada em conta corrente, poupança ou outras aplicações financeiras.
+Intimem-se.
