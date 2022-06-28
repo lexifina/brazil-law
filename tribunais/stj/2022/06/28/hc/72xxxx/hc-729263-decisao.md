@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOB JOSÉ DIAS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (HC n. 0009802-35.2022.8.16.0000).
+O Juízo singular deferiu o pedido da defesa a fim de afastar a equiparação do tráfico de drogas a delitos hediondos para fins de progressão de regime, tendo em vista a revogação do art. 2º, § 2º, da Lei n. 8.072/1990 como advento da Lei n. Lei 13.964/2019 (Pacote Anticrime).
+Para tanto, retificou o relatório de execução penal para constar a fração de 1/6 para o benefício da progressão de regime.
+O Ministério Público interpôs recurso de agravo em execução, que foi acolhido pelo Juízo da causa, que suspendeu provisoriamente,até o julgamento do presente recurso, o cumprimento de sua decisãono que tange à alteração do relatório executório.
+O Tribunal de origem denegou a ordem (fl. 80).
+A defesa alega constrangimento ilegal na decisão coatora, que atribuiu, de ofício, efeito suspensivo ao recurso de agravo em execução do Ministério Público estadualpara condicionar o pleito de progressão de regime à conclusão do recurso.
+Defende que, nos termos do art. 197 da LEP, é incabível a atribuição de efeito suspensivo ao recurso de agravo.
+Requer seja cassado o efeito suspensivo do recurso de agravo em execução interposto pelo parquet e seja determinada a aplicação da fração de 1/6 para a progressão de regime.
+É o relatório. Decido.
+A liminar foi indeferida às fls. 86-87.
+As informações foram prestadas às fls. 91-106 e 107-118.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 122-125).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+O Juízo da execução penal deferiu o pedidode afastamento da hediondez do crime de tráfico de drogaspara fins de progressão de regime.Subsequentemente, acolheu o agravo em execução do Ministério Público para conceder efeito suspensivo à referida decisão.
+A defesa impetrou habeas corpus na origem, que foi denegadonestes termos (fls. 79-80):
+De mais a mais, como bem destacou a d. Procuradoria de Justiça, não se verifica, via estreita do writ injusto constrangimento a se reconhecer de ofício eis que: "O paciente foi condenado por crime de tráfico de drogas, para o qual, até então, com base na Lei dos Crimes Hediondos, fora exigida fração maior para resgate da pena, antes do benefício de progressão de regime.
+A partir da Lei nº 13.964/2019, que revogou o §2º, do artigo 2º da Lei nº8072/1990, entra em debate o conceito de "equiparado a hediondo", até então atribuído ao tráfico de drogas. Todavia, a questão ainda está em discussão, não havendo que se falar em ato ilegal, prontamente demonstrado, porque ainda não alterado o relatório de execução do paciente."
+Por esses fundamentos, e registrando que não se verifica, na espécie,"coação ilegal" manifesta que mereça reparo "de ofício", pelo menos por ora, em sede de habeas corpus, não conheço do pedido.
+O STJ firmou entendimento no sentidode ser excepcionalmente cabívelatribuir efeitosuspensivo a agravo em execução, quando a decisão estiverdevidamentefundamentada e não for contrária à jurisprudência do STJ.
+Configura-se, assim, uma exceçãoà regra geralde não cabimento de atribuição de efeito suspensivo a recurso de agravo em execução (art. 197 da LEP).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO MINISTERIAL. CONCESSÃO DE EFEITO SUSPENSIVO. POSSIBILIDADE. FUNDAMENTADO O RISCO INERENTE À APLICAÇÃO IMEDIATA DO DECISUM. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, " p ode ser conferido efeito suspensivo a qualquer recurso que não o tenha, desde que de forma fundamentada, como feito na Corte de origem ao acolher Medida Cautelar para dar efeito suspensivo a Agravo em Execução, no qual o Parquet busca a manutenção de preso em Presídio Federal. Precedentes desta Turma: HC 309.390/RR, Rel. Min. FELIX FISCHER, DJe 10/5/2016 e HC 397.665/AM, Rel. Min. REYNALDO SOARES DA FONSECA, DJe 1º/12/2017"(HC n. 577.558/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 9/6/2020).
+2. Na hipótese, apontou a Corte de origem que, " r ecebido o recurso e mantido seus fundamentos em juízo de retratação, o nobre Magistrado a quo concedeu, em caráter excepcional, efeito suspensivo ao recurso. Isso, de forma clara e FUNDAMENTADA, considerando que a matéria não apenas possui entendimento ainda não sedimentado, mas que a decisão criaria precedentes autorizadores progressão de regime de dezenas de sentenciados, ocasionando possível instabilidade do sistema prisional".
+3. Agravo regimental não provido.(AgRg no HC n. 734.521/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 16/5/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM EXECUÇÃO DO MINISTÉRIO PÚBLICO. POSSIBILIDADE. PODER GERAL DE CAUTELA DO MAGISTRADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Pode ser conferido efeito suspensivo a qualquer recurso que não o tenha, desde que de forma fundamentada, como feito na Corte de origem ao acolher Medida Cautelar para dar efeito suspensivo a Agravo em Execução, no qual o Parquet busca a manutenção de preso em Presídio Federal.  ..  (HC 577.558/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/05/2020, DJe 09/06/2020).
+2- Realmente, a regra é a de que não cabe efeito suspensivo a recurso de agravo em execução interposto, conforme art. 197 da LEP.
+Contudo, se a decisão do Tribunal coator estiver bem fundamentada, a jurisprudência desta Corte admite exceção.
+3- No caso concreto, o Juízo das Execuções, ao justificar a atribuição de efeito suspensivo ao agravo em execução ministerial, ponderou que a aplicação imediata da decisão de sua lavra que afastara o caráter hediondo do crime de tráfico de drogas, para fins de progressão de regime, geraria indevida instabilidade no sistema prisional, diante da possibilidade de liberação de diversos reeducandos com a sua subsequente recondução às unidades prisionais, caso a decisão de 1º grau venha a ser reformada, o que, ademais, configuraria risco à saúde pública diante do perigo de maior proliferação da covid19 no ambiente carcerário.
+4- Em situação em tudo semelhante à posta nos autos, as seguintes decisões monocráticas entenderam justificada a atribuição de efeito suspensivo ao agravo em execução ministerial: HC 738.466/PR, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 03/05/2022; HC 737.084/PR, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe de 27/04/2022; HC 735.076/PR, Rela. Mina. LAURITA VAZ, DJe de 19/04/2022; HC 730.511/PR, Rel. Min. RIBEIRO DANTAS, DJe de 28/03/2022; HC 730.525/PR, Rela. Min.LAURITA VAZ, DJe de 28/03/2022; HC 729.558/PR, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe de 23/03/2022; HC 728.895/PR, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe de 22/03/2022; HC 728.527/SC, Rel. Min. JESUÍNO RISSATO (Desembargador convocado do TJDFT), DJe de 15/03/2022.
+5- Agravo Regimental não provido.(AgRg no HC n. 740.043/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DEFERIMENTO DE EFEITO SUSPENSIVO A AGRAVO EM EXECUÇÃO. EXCEPCIONALIDADE EVIDENCIADA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. No caso concreto, o Juiz de primeiro grau afastou a equiparação à hediondez do tráfico de drogas para fim de progressão de regime, mas concedeu efeito suspensivo ao agravo em execução interposto pelo Ministério Público.
+2. A jurisprudência do Superior Tribunal de Justiça tem reiteradamente repudiado a concessão de efeito suspensivo ao recurso de agravo interposto contra decisão favorável ao Apenado, nos termos do art. 197 da LEP.
+3. Esta Corte admite excepcionalmente a concessão de efeito suspensivo a qualquer recurso que não o tenha, desde que, de forma fundamentada, mormente quando flagrantemente contrária à jurisprudência deste Superior Tribunal de Justiça.
+4. Este Superior Tribunal, ao julgar a Petição n. 11.796/DF, revisou o Tema n. 600 julgado sob o rito dos recursos repetitivos e cancelou o Enunciado n. 512 desta Corte, passando a seguir orientação jurisprudencial do Supremo Tribunal Federal no sentido de que o tráfico de drogas na forma privilegiada afasta a hediondez do delito, permanecendo hedionda, contudo, a figura descrita no caput do art. 33 da Lei de Drogas.
+5. Agravo regimental desprovido.(AgRg no HC n. 735.076/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/5/2022.)
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento do art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
