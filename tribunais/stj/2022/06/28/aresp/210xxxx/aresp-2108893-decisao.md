@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIMED NOVA IGUAÇU COOPERATIVA DE TRABALHO MEDICO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL NULIDADE DE CLÁUSULA LIMITATIVA QUANDO ESTA REPRESENTA RISCO DE VIDA AO CONSUMIDOR COMPROVADA NECESSIDADE DOS TRATAMENTOS MULTIDISCIPLINARES INDICADOS AO AUTOR DANOS MORAIS DECORRENTES DO INADIMPLEMENTO ABALO PSÍQUICO COMPROVADO MAJORAÇÃO DO DANO MORAL A R 1000000 VALOR QUE MELHOR SE ADEQUA AO DANO SOFRIDO SENTENÇA REFORMADA RECURSO PROVIDO JULGANDO-SE PROCEDENTES OS PEDIDOS
+Quanto à controvérsia recursal, a parte alega violação e divergência de interpretação jurisprudencial em relação ao art. 10, VII, da Lei n. 9.656/98, no que concerne à possibilidade de exclusão da cobertura contratual do fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico, trazendo o(s) seguinte(s) argumento(s):
+No ponto em discussão, impende consignar que a Lei 9.656/98, no seu art. 10, VII é clara ao estabelecer que os planos de saúde precisam respeitar as exigências mínimas estabelecidas no artigo 12 daquela Lei, com exceção do fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico.
+Desta forma, é completamente plausível que o plano de saúde exclua de sua cobertura o fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico.
+Como se vê, o citado preceito legal se adequa perfeitamente ao presente caso, uma vez que os equipamentos postulados pelo recorrido não estão ligados ao ato cirúrgico.
+ ..
+Destarte, o v. aresto vergastado ignora por completo a letra de lei federal e entende que a cláusula limitativa é abusiva.
+A recorrente lamenta profundamente que o recorrido seja acometido de tão grave patologia, todavia não pode a cooperativa ser compelida a fornecer equipamentos sem previsão contratual, ainda mais quando há expressa previsão legal que exclui a obrigação de tal fornecimento.
+ ..
+Felizmente, a jurisprudência desta Egrégia Corte Superior entende que os planos de saúde não são obrigados a fornecer próteses, órteses e seus acessórios quando não estão ligados ao ato cirúrgico.
+ ..
+No presente caso verifica-se que o v. acórdão recorrido entendeu pela prevalência do Código de Defesa do Consumidor frente a Lei 9.656/98, declarando como nula a cláusula contratual que exclui o fornecimento de de órtese, prótese ou material especial que não forem imprescindíveis à consecução de ato cirúrgico.
+O acórdão paradigma, a seu turno, entende que é válida a referida cláusula, eis que encontra-se amparo legal no artigo artigo 10, II e VII, da Lei nº 9.656/1998 e no Parecer Técnico Nº 25/GEAS/GGRAS/ DIPRO/2019 da ANS (fls. 479/484).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
