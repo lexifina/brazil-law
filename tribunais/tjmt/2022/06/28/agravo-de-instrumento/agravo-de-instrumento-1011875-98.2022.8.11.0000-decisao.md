@@ -1,0 +1,27 @@
+Visto.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pelo ESTADO DE MATO GROSSO, contra decisão proferida pelo Juízo da Vara Única da Comarca de Marcelândia/MT, nos autos da Ação Declaratória de Ato Administrativo n. 1000308-34.2022.8.11.0109, o qual deferiu a tutela para que a requerida possa expedir certidão negativa de débitos e/ou positiva com efeitos de negativa, no prazo de cinco dias.
+Aduz o Agravante que, na fase processual em que se encontrava o feito, não havia qualquer previsão legal que autorizasse a notificação pessoal, havendo regramento próprio para a notificação da decisão administrativa quando o autuado tem advogado constituído nos autos.
+Assevera que, não há que se falar em nulidade da intimação após a prolação da decisão administrativa, por meio de publicação via Diário Oficial, visto que a Administração Pública observou o devido processo legal e procedeu a notificação exatamente como determina o artigo 43 do Decreto Estadual n. 1.986/2013, sobretudo porque a agravada possuía representante legal constituída naqueles autos administrativos.
+Pontua que, a bem da verdade, o Agravado, inconformado com o deslinde do processo administrativo que lhe impingiu a penalidade de multa, pretende, agora, a todo custo, forçar uma indevida interferência do Poder Judiciário no mérito de um procedimento totalmente escorreito e de acordo com as leis.
+Destaca que, a probabilidade de provimento do recurso ressai da argumentação traçada ao longo do próprio agravo, notadamente porque, como demonstrado, não houve cerceamento de defesa considerando que a agravada foi devidamente notificada de todos os atos processuais, em sede administrativa e existe a possibilidade de prejuízo de difícil reparação, visto que o Estado está sendo obrigado a emitir uma certidão de negativação que não corresponde à realidade, além de causar periculum in mora inverso, em desfavor do Estado de Mato Grosso, que corre o risco de não ter o débito adimplido.
+Com base nestes fundamentos, pugna pela concessão de efeito suspensivo à decisão agravada, até que haja o pronunciamento definitivo do órgão colegiado. No mérito, seja dado provimento ao recurso de agravo de instrumento, reformando a decisão objurgada.
+É o relatório.
+DECIDO.
+Para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, todos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Passo a análise da presença ou não dos requisitos da probabilidade do direito e do fundado receio de dano grave e de difícil reparação.
+Inicialmente, urge destacar que, a presença da prova inequívoca é imprescindível para o provimento antecipatório, conforme indica o seguinte posicionamento doutrinário:
+“Só a existência de prova inequívoca, que convença da verossimilhança das alegações do autor, é que autoriza o provimento antecipatório da tutela jurisdicional em processo de conhecimento”. (MARINONI, Luiz Guilherme e ARENHART, Sérgio Cruz. Manual do Processo de Conhecimento. 5 ed. São Paulo: Editora Revista dos Tribunais, 2006, p. 216)”.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido liminar não merece acolhimento, em face da ausência dos pressupostos autorizadores para o seu deferimento.
+Extrai-se dos autos que, a parte autora ora Agravada foi autuada pelo órgão ambiental competente pela suposta prática de desmate de 295,3034 hectares de vegetação nativa, dentro de área de reserva legal, sem autorização do órgão ambiental competente e, ainda, por supostamente desmatar 194,6060 hectares de vegetação nativa sem autorização do órgão ambiental competente, tendo sido lavrado em seu desfavor o Auto de Infração e Termo de Embargo de n. 0113-G.
+Na espécie, não vislumbro o risco de dano grave, de difícil ou impossível reparação, caso a pretensão recursal seja acolhida por ocasião da apreciação do mérito, motivo pelo qual se mostra prudente o aguardo do contraditório, não se evidenciando, por ora, que a simples emissão de certidão positiva com efeito de negativa trará prejuízos ao Estado, mas ao contrário sim, posto que prejudicaria as atividades desenvolvidas pela parte Agravada.
+Ante o exposto, indefiro o pedido de concessão de tutela antecipada.
+Comunique-se o juízo de primeiro grau, facultando-lhe o exercício de eventual juízo de retratação.
+Intime-se o Agravado para, querendo, apresentar contrarrazões.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
