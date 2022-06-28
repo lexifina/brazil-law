@@ -1,0 +1,14 @@
+DECISÃO
+PREVIDENCIÁRIO.  RECURSO  ESPECIAL. CORREÇÃO MONETÁRIA. PLEITO ACOLHIDO. PERDA DO OBJETO.  RECURSO  ESPECIAL  DO SEGURADO  PREJUDICADO.
+1.  Trata-se  de  recurso  especial  interposto  por  SEVERINO CORDEIRO DA SILVA,  com  fundamento  no  art.  105,  inciso  III,  alíneasa e c,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo,  assim  ementado:
+ACIDENTE DO TRABALHO  LER/DORT (Ombros)  Comprovação pericial da lesão, do nexo causal e da incapacidade parcial e permanente do segurado  Auxílio-acidente devido  Recursos oficial, considerado interposto, e voluntários do autor e do INSS providos em parte. PORTE DE REMESSA E RETORNO  Recolhimento a final  Artigo 27 do Código de Processo Civil (fls.  161/166).
+2. Os embargos de declaração opostos foram rejeitados (fls.181/184).
+3. Nas  razões  do  seu  recurso  especial  (fls.  188/204),  a  parte  recorrente  sustenta , além de divergência jurisprudencial,  violação  do  art. 535 do CPC/1973 e do art.28, caput e parágrafo único,da Lei 9.868/1999.  A  rgumenta,  para  tanto,  que: (i) foramopostos embargos declaratórios para prequestionar a matéria relativa ao art. 28, parágrafo único, da Lei 9.868/1999. Entretanto, tais embargos foram rejeitados sem a adequada apreciação da matéria; (ii) "a pendência de publicação do acórdão proferido na ADI 4.357/DF não impede que, desde logo, afaste parcialmente a aplicação do artigo 5ºda Lei 11.960/2009" (fl.203). Requer, ao fim, que seja afastada "a aplicação da TR declarada inconstitucional pelo STF na ADI 4.357/DF para atualização das prestações em atraso devidas pelo INSS determinando a sua substituição pelo indexador que entender cabível" (fls.203/204).
+4.  Devidamente  intimada  ,  a  parte  recorrida  deixou de  apresentar  as  contrarrazões (fls. 239).
+5.  O  recurso  especial  foi  admitido  na  origem  (fls.  252/253).
+6.  É  o  relatório.
+7. No caso dos autos, acerca da atualização monetária das parcelas atrasadas, verificoque o Tribunal de origem,quando do juízo de retratação por força do art. 1.040, II, do CPC/2015, consignou o seguinte:
+ A  atualização monetária das parcelas em atraso observará os critérios da Lei nº 8.213/91 e suas alterações posteriores. Após a vigência da Lei 11.960/2009, aplica-se o IPCA-E no lugar da TR, diante do posicionamento do E. STF no julgamento daRepercussão Geral nº810 (RE nº 870.947/SE) - fls. 247.
+8. Assim, considerando que o recurso especial objetiva unicamenteo afastamento da TR como índice para correção monetária das prestações em atraso, o recurso se encontra prejudicado, visto que apretensão recursal já foi atendida pelo Tribunal de origem.
+9.  Ante  o  exposto,  julgo prejudicado o recurso especial de SEVERINO CORDEIRO DA SILVA.
+10.  Publique-se.  Intimações  necessárias.
