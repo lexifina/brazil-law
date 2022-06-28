@@ -1,0 +1,1 @@
+Art. 5º-L. Em caso de empate no processo de apuração de infração disciplinar ou de empate no processo de aplicação de sanção disciplinar, resolver-se-á a controvérsia favoravelmente ao profissional regulado pelo Sistema Confef/Crefs ou à pessoa jurídica no polo passivo do processo.
