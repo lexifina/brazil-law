@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARCELO DE CARVALHO MIRANDAem face de decisão proferida pelo Ministro Presidente do STJ transcrita a seguir no essencial:
+"Mediante análise do recurso de MARCELO DE CARVALHO MIRANDA, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista o pedido de gratuidade de justiça realizado às fls. 393/407.
+A parte foi intimada para comprovar a hipossuficiência econômica nos termos da decisão de fls. 441/442. Porém, não comprovou a hipossuficiência e recolheu o preparo de forma inadequada, limitando-se a apresentar à fl. 450 a guia de recolhimento das custas do STJ desacompanhada do respectivo comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Assim, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso."
+O agravante defende que "Em homenagem ao princípio da cooperação, retratado pelo artigo 6º, do CPC, e sem prejuízo dos preceitos do artigo 1.007, §§ 4º e 7º, do mesmo diploma processual, o agravante, repise-se, deveria, com a devida vênia, ter sido intimado para comprovar a regularidade do preparo". Aduz que "a deserção aplicada, por ocasião da decisão vergastada, não deve prosperar, haja vista a necessidade de mandar intimar a parte para a regularização do preparo, a teor do disposto no artigo 1.007, do CPC/15, tanto para considerar o valor pago mediante o comprovante informado nesta peça (§ 7º) ou, por outro lado, mandar recolher em dobro, conforme dicção do § 4º, do mesmo preceito legal".
+Foram apresentadas contrarrazões.
+É o relatório. Decido.
+A parte recorrente, de fato, apenasapresentouà fl. 450 a guia de recolhimento das custas do STJ desacompanhada do respectivo comprovante de pagamento.
+Contudo, antes da prolação da decisão reconhecendo a deserção, deveria ter sido oportunizada a regularização do preparo, com o recolhimento das custas em dobro, com fulcro no art. 1.007, §4, sob pena de deserção, o que não ocorreu.
+Ante o exposto, reconsidero a decisão agravada e determina a intimação da parte recorrente para o recolhimento das custas em dobro, com fulcro no art. 1.007, §4, sob pena de deserção.
+Publique-se. Intimem-se.
