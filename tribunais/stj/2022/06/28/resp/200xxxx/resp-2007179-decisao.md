@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional contra acórdão assim ementado (fl. 197):
+Apelação Criminal. Violação de direito autoral. Postula o direito de recorrer em liberdade. Prejudicado. Pretensão de absolvição ao argumento de atipicidade de conduta e insuficiência probatória. Conjunto probatório robusto a embasar a condenação. Confissão reconhecida na r. Sentença. Sumula 545, do STJ. Penas readequadas. Regime prisional mantido face o Princípio da Suficiência Penal. Recurso parcialmente provido.
+O recorrente foi condenado a 2 anos, 4 meses e 17 dias de reclusão, em regime semiaberto, e 10 dias-multa, nos termos do art. 184, § 2º, do Código Penal.
+Aponta violação do art. 67 do CP, pugnando, ao final, pela compensação na forma integral da atenuante da confissão espontânea com a agravante da reincidência.
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo provimento recursal.
+Sobre a pretensão aqui trazida, extrai-se do acórdão recorrido (fl. 200):
+ .. a r. sentença fundamentou a condenação do réu também considerando a confissão por ele realizada na fase policial, conforme fls. 127, de modo que deve ser reconhecida (Sumula 545, do STJ), porém considerando a preponderância da reincidência especifica, nos termos do teor do art. 67, do Código Penal, as penas são reduzidas de 1/8 resultando em 2 anos, 4 meses e 17 dias de reclusão, e o pagamento de 10 dias-multa, no valor unitário mínimo. ..
+Como visto, o Tribunal local, "considerando a preponderância da reincidência especifica", deixou de compensarintegralmentea atenuante da confissão espontânea com a agravante da reincidência.
+Contudo, no julgamento do REsp 1.931.145/SP- representativo de controvérsia(Tema nº 585) -, posicionou-se a Terceira Seção desta Corteno sentido de que " a reincidência, ainda que específica,deve sercompensadaintegralmente com a atenuante daconfissão,demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a suacompensaçãoproporcional com a atenuante daconfissãoespontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade"(REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022).
+Passa-se, assim, ao redimensionamento da pena (fl. 200).
+Fixada a pena-base em 2 anos e 4 meses de reclusão, e compensadaintegralmente a atenuante da confissão espontânea com a agravante da reincidência, consoante a fundamentação acima, à míngua de outras causas de diminuição e aumento no último estágio da dosimetria, torna-se definitiva a reprimenda do recorrente neste montante.
+Ante o exposto, dou provimento ao recurso especial para (re)fixar a pena definitiva do recorrente para o total de2 anos e 4 meses de reclusão, mantendo-se, no mais, o acórdão condenatório.
+Publique-se.
+Intimem-se.
