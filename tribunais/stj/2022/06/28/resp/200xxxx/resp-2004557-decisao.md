@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VM Participações Ltda.e Posto Raja Gabaglia Ltda.,com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão doTribunal de Justiça do Paraná assim ementado (e-STJ, fl. 2.229):
+APELAÇÃO CIVEL - AÇÃO DECLARATÓRIA CUMULADA COM COBRANÇA - PRELIMINAR - AUSÊNCIA DE DIALETICIDADE - RAZÕES DE FATO E DE DIREITO DECLINADAS - PRELIMINAR REJEITADA - LITISCONSÓRCIO PASSIVO NECESSÁRIO - INCLUSÃO DO INSS - PRELIMINAR REJEITADA - REEMBOLSO DAS DESPESAS EFETUADAS COM AS OBRAS DE REPARAÇÃO DO IMÓVEL - POSTO DE GASOLINA - EXCEÇÃO DO CONTRATO NÃO CUMPRIDO - CONTRATO BILATERAL - HONORÁRIOS SUCUMBENCIAIS - DISTRIBUIÇÃO QUALITATIVA - MANUTENÇÃO DA SENTENÇA. 1) A exceção do contrato não cumprido resta estabelecida no art. 476 do Código Civil segundo o qual, nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o adimplemento da do outro. 2) Uma vez que os autores não cumpriram sua obrigação a tempo e modo, não podem exigir que a ré cumpra sua obrigação, motivo pelo qual perfeitamente cabível a alegação da exceção do contrato não cumprido, nos termos do ad. 476 do Código Civil. 3) A situação da presente demanda não traduz sucumbência recíproca mínima em favor requerida, pois a parte autora realizou dois pedidos, tendo sucumbido em um deles e no outro obtido êxito.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 2.332-2.344).
+As recorrentes indicarama violação dos arts.225 da Constituição Federal; 1.022,II, do CPC/2015; e 113, 187, 249, 422 e 479 do Código Civil(e-STJ, fls. 2.347-2.392).
+Sustentaram, em suma,que, mesmo após ter sido provocado com a oposição de embargos de declaração, o Tribunal estadual manteve-se inerte quanto à análise das questões que lhe foram submetidas.
+Assim, conforme alegaram,o acórdão recorrido distanciou-se da finalidade da norma, que é eliminar omissões porventura existentes nos julgados, tornando completa a prestação jurisdicional, que entendemter sido deficiente.
+Foram apresentadas contrarrazões (e-STJ, fls. 2.403-2.444).
+O recurso especial foi admitido pela Corte local (e-STJ, fls. 2.546-2.551).
+Brevemente relatado, decido.
+A irresignação merece acolhida.
+VM Participações Ltda. e outro interpuseram apelação contra sentença que,nos autos da ação declaratória cumulada com cobrança, julgou procedentes em parte os pedidos que formularam em face de Cosan Combustíveis e Lubrificantes, responsabilizandoesta pela recolhimento das contribuições previdenciárias dos trabalhadores na obra de aterro do terreno e construção da sede do posto de combustíveis.
+A apelação foi desprovida, seguindo-se aoposição de embargos de declaração, que foram rejeitados.
+Neste recurso especial, as ora recorrentes aduziram, em suma, que a Câmara julgadora não se expressou sobrea negativa de reembolso, não obstante o reconhecimento do prejuízo que lhes foi causado em virtude de vícios de construção do aterro.
+A leitura do acórdão recorrido - da apelação,integradapelo dosembargos de declaração - revelou que nada foi referido quanto ao questionamento das recorrentes.
+Portanto, adespeito da relevância para o deslinde da controvérsia, o Tribunal local, ao julgar os embargos de declaração, apenas reafirmouos fundamentos adotados no aresto embargado, sem, todavia, se pronunciar, fundamentadamente, acerca da questão apontada,incorrendo em negativa de prestação jurisdicional.
+Apresenta-se, pois,imprescindível o enfrentamento dos argumentos suscitadospelasrecorrentes.
+Como se pode constatar, sem tais esclarecimentos, mostra-se inviável o enfrentamento das questões meritórias por esta Corte de Justiça, o que corrobora a conclusão de ocorrência de negativa de prestação jurisdicional, ora reconhecida.
+Nesse sentido, manifesta-se a jurisprudência do Superior Tribunal de Justiça:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE.
+CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. ESPECIFICIDADES. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alterar a conclusão do julgado.
+2. Constatada a existência de omissões não sanadas no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do artigo 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3 . Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno.
+(EDcl no AgInt no AREsp 1637994/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/03/2021, DJe 07/04/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. USO NÃO AUTORIZADO DA MARCA "RÁDIO TUPI". RECURSO ESPECIAL FUNDADO EM OFENSA AO ART. 535 DO CPC/1973. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO EM EMBARGOS DE DECLARAÇÃO. AGRAVO IMPROVIDO.
+1. Havendo omissão relevante no acórdão proferido pela Corte de origem quanto às alegações de prescrição da pretensão autoral e de caducidade do registro da marca, é devido o acolhimento da dita ofensa ao art. 535 do CPC de 1973, anulando-se o acórdão proferido em sede de embargos de declaração, a fim de que, em novo julgamento, seja sanado o vício verificado.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 842.021/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/02/2019, DJe 15/03/2019)
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL.AÇÃO DECLARATÓRIA CUMULADA COM COBRANÇA. PROCEDÊNCIA PARCIAL. APELAÇÃO.REEMBOLSO DAS DESPESAS EFETUADAS COM OBRAS DE REPARAÇÃO DO IMÓVEL. PLEITO.QUESTIONAMENTODA AUTORA. EMBARGOS DE DECLARAÇÃO.AUSÊNCIA DE MANIFESTAÇÃO SOBRE OTEMA. MATÉRIAARGUIDA. FALTA DE DELIBERAÇÃO. RECONHECIMENTO. RECURSO ESPECIAL DE VM PARTICIPAÇÕES LTDA. E POSTO RAJA GABAGLIA LTDA.PROVIDO.
