@@ -1,3 +1,3 @@
 Art. 38. Os documentos eletrônicos apresentados aos serviços de registros públicos ou por eles expedidos deverão atender aos requisitos estabelecidos pela Corregedoria Nacional de Justiça do Conselho Nacional de Justiça, com a utilização de assinatura eletrônica avançada ou qualificada, conforme definido no art. 4º da Lei nº 14.063, de 23 de setembro de 2020.
 § 1º Os serviços de registros públicos disponibilizarão serviços de recepção de títulos e de fornecimento de informações e certidões em meio eletrônico.
-§ 2º Ato da Corregedoria Nacional de Justiça do Conselho Nacional de Justiça poderá estabelecer hipóteses de admissão de assinatura avançada em atos envolvendo imóveis.
+§ 2º Ato da Corregedoria Nacional de Justiça do Conselho Nacional de Justiça poderá estabelecer hipóteses de admissão de assinatura avançada em atos que envolvam imóveis.
