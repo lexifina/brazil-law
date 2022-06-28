@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PABLO HIPOLITA DOS SANTOScontra decisão da Presidência do Tribunal de Justiça do Estado do Amazonasque negou seguimento ao recurso especial interposto pela defesa.
+A controvérsia foi bem sumariada pelo Parquet Federal, cujo excerto transcrevo a seguir (e-STJ fls. 240/241):
+Cuida-se de agravo em recurso especial interposto por PABLO HIPOLITA DOS SANTOS com fulcro no art. 1.042 do Novo Código de Processo Civil, contra decisão da Presidência do Tribunal de Justiça do Estado do Amazonas, denegatória de seguimento a recurso especialali ajuizado pelo ora Agravante com amparo no art. 105, inciso III, alíneas a ec , da Constituição Federal, sob alegativas de divergência jurisprudencial e contrariedade aos arts. 44, 63 e 68, todos do Código Penal; aos arts. 197 e 386, inciso VII, ambos do Código de Processo Penal; e ao art. 33, §4º, da Lei nº 11.343/06.
+Nas razões do seu reclamo nobre (fls. 175/187), arguiu o então Recorrente estar configurada nulidade absoluta, por ausência de defesa técnica na audiência de interrogatório, destacando que o Advogado Dativo mantivera-se inerte durante todo aquele ato processual, tendo, ainda, deixado de assinar o respectivo termo. Registrou, também, insuficiência de provas capazes de ensejar sua condenação, postulando ser absolvido.
+Apontou, ainda, equívoco na dosimetria da pena, sob alegativa de que, à época dos fatos, não havia sentença penal condenatória transitada em julgado em seu desfavor, motivo pelo qual não poderia ter sido considerado reincidente. Por conseguinte, pleiteou a aplicação da causa de diminuição de pena do art. 33, §4º, da Lei de Drogas, da fração máxima de 2/3 (dois terços), alegando que referida benesse não lhe fora concedida à conta da reincidência, apesar de preenchidos os requisitos exigidos e pediu, por fim, a substituição da reprimenda privativa de liberdade por sanção restritiva de direitos.
+Para negar seguimento ao reclamo ajuizado, destacou a Corte a quo que as pretensões da Defesa demandariam o reexame de matéria fático-probatória, obstado pela Súmula nº 07 desse Augusto Sodalício (fls. 205/209).
+Agora, pede o ora Agravante a reconsideração do decisum que inadmitiu seu apelo nobre, aduzindo estarem presentes os requisitos de admissibilidade (fls. 214/218).
+Ao se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 239/253).
+É o relatório.
+Decido.
+Ante a presença de impugnação do fundamento da decisão agravada, conheço do agravo. Passo, portanto,à análise do recurso especial.
+Em relação à alegação de cerceamento de defesa e do pedido de afastamento da reincidência, astesessustentadas nasrazões do recurso especial carecem do devido prequestionamento, pois a Corte amazonense limitou-se, quanto à primeira,tão somente a afastar" a  preliminar de nulidade por ausência de defesa técnica, argüida em recurso (fls. 107/108), considerando a presença de advogada e da manifestação do próprio apelante conforme fls.80/81 dos autos" (e-STJ fl. 151), não fazendo nenhuma alusão à dinâmica alegada pela defesa nae-STJ fl. 177do apelo nobre, referente ao atraso de 3 horas, tampouco quanto a deficiência técnica. Quanto à reincidência (e-STJ fl. 183), nem sequer houve o seu enfrentamento.
+Com efeito, a defesa não se valeu dos devidos aclaratórios e, se acaso fossem manejados,persistindo a omissão, caberia ao agravante ter alegado, nas razões do apelo especial, a ocorrência de violação ao disposto no art. 619 do Código de Processo Penal, ônus do qual também não se desincumbiu.
+Dessarte, o prequestionamento dosreferidostemasera exigência inafastável e prevista constitucionalmente no capítulo referente ao recurso especial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA O ART. 159, § § 3º E 4º, DO CP. PREQUESTIONAMENTO. INEXISTÊNCIA. AUSÊNCIA DE ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. INCIDÊNCIA DA SÚMULA 211 DO STJ. AGRAVO NÃO PROVIDO.
+1. In casu, recorrente não prequestionou o tema a contento, pois a discussão na instância a quo não chegou à exaustão. Em que pese à oposição de embargos de declaração, estes foram rejeitados, sem que o Tribunal de origem tenha se manifestado acerca do tema.
+2.Dessa forma, persistindo a omissão na decisão do recurso integrativo, o recorrente deve interpor recurso especial com base na violação ao art. 619 do Código de Processo Penal, paraque esta Corte Superior determine, ou não, o retorno dos autos à origem, a fim de sanar eventual mácula, o que não ocorreu nos autos.
+3. Assim, incide na espécie o verbete da Súmula n. 211 do STJ, verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" .
+4. Agravo regimental não provido.(AgRg no AREsp 1394595/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/3/2019, DJe 27/3/2019.)
+Já quanto aopedidoabsolutório (e-STJ fl. 179), esta Corte é assenteque, havendo elementos que subsidiem, com razoabilidade, a formação da convicção do magistrado sentenciante para fundamentar o decreto de condenação, infirmar tais elementos implicaria o necessáriorevolvimento fático-probatório, expediente defeso em recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. ALEGADA ABSOLVIÇÃO, DESCLASSIFICAÇÃO OU DECOTE DAS MAJORANTES DOS INCISOS II E V DO § 2º DO ART. 157 DO CP. SÚMULA N. 7/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. REGIME MAIS GRAVOSO JUSTIFICADO. PLEITO DE DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. IMPOSSIBILIDADE.
+ ..
+3. Para que fosse possível a análise das teses de absolvição, de desclassificação para o crime de receptação ou de exclusão das causas de aumento de pena do crime de roubo, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+ ..
+6. Agravo regimental desprovido.(AgRg no REsp 1890479/SP, minha relatoria, SEXTA TURMA, julgado em
+8/6/2021, DJe 16/6/2021.)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. PLEITOS DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS, AFASTAMENTO DO CONCURSO FORMAL E DA MAJORANTE DO USO DE ARMA DE FOGO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO DA SÚMULA 7/STJ.
+1. Para a análise das teses recursais de absolvição por inexistência de prova de que o agravante tenha concorrido para a infração, e, ainda, de que não ficou configurado o concurso formal e o emprego de arma de fogo, mostra-se, no caso, imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula 7 desta Corte.
+ ..
+3. Agravo regimental improvido.(AgRg no AREsp 1839769/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/6/2021, DJe 7/6/2021.)
+Por fim, mantida a reincidência e o quantum da condenação, estão prejudicados os pedidos de incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 e da substituição da pena privativa de liberdade.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
