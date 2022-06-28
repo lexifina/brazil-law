@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da NOTRE DAME INTERMEDICA SAÚDE S.A.interposto contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+DIREITO PROCESSUAL CIVIL. ADMINISTRATIVO. ANULATÓRIA.OPERADORA DE PLANOS DE SAÚDE. SEGURADOS ATENDIDOS NA REDE SUS. RESSARCIMENTO. PRESCRIÇÃO INTERCORRENTE.PRESCRIÇÃO TRIENAL OU QUINQUENAL. TERMO INICIAL.INOCORRÊNCIA. LEGITIMIDADE DA INCIDÊNCIA DO IVR (ÍNDICE DA VALORAÇÃO DO RESSARCIMENTO).
+1. Eventual omissão ou contradição não suprida em embargos declaratórios não enseja nulidade da sentença, mas apreciação dos pontos diretamente nesta instância conforme devolvido na apelação.
+A 2. prescrição intercorrente, fundada na Lei 9.873/1999, que trata de ação punitiva no exercício do poder de polícia, não se aplica, pois não se discute nos autos multa administrativa, mas verba de ressarcimento pelo uso do serviço público de saúde, que tem natureza jurídica própria e inconfundível com a tratada no âmbito da legislação invocada.
+Pacífico o entendimento jurisprudencial de que a cobrança de valores relativos a 3.
+ressarcimento ao SUS sujeita-se ao prazo quinquenal do Decreto 20.910/1932, contado da notificação da decisão final no procedimento administrativo, não correndo a prescrição durante a tramitação de eventual impugnação ou recurso.
+A impugnação ao valor cobrado improcede, pois observada a incidência do IVR 4.
+(Índice de Valoração do Ressarcimento), instituído pela Resolução Normativa ANS 251/2011, sem prova de que os valores previstos sejam superiores à média dos praticados pelas operadoras para cogitar-se de violação ao artigo 32, § 8º, da Lei 9.656/1998.
+6. Fixada verba honorária pelo trabalho adicional em grau recursal, em observância ao comando e critérios do artigo 85, §§ 2º a 6º, 8º e 11, do Código de Processo Civil.
+7. Apelação desprovida.
+Pois bem.
+É caso de devolução dos autos à origem, pois, após a sua distribuição, a matéria em discussão foi afetada sob o regime do recurso especial repetitivo.
+A Primeira Seção, por unanimidade, afetou os Recursos Especiais n. 1.978.141/SP e 1.978.155/SP (RISTJ, art. 257-C) para delimitar a seguinte tese controvertida: "Definir: 1) qual o prazo prescricional aplicável em caso de demanda que envolva pedido de ressarcimento ao Sistema Único de Saúde na hipótese do art. 32 da Lei n.º 9.656/98: se é aplicável o prazo quinquenal previsto no art. 1º do Decreto n.º 20.910/32, ou o prazo trienal prescrito no art. 206, §3º do Código Civil; 2) qual o termo inicial da contagem do prazo prescricional: se começa a correr com a internação do paciente, com a alta do hospital, ou a partir da notificação da decisão do processo administrativo que apura os valores a serem ressarcidos."
+Assim, determino a devolução dos autos ao Tribunal de origem, com baixa da distribuição, para que, após publicados os acórdãos relativos aos recursos representativos da controvérsia, o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça ou 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, observados os artigos 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
