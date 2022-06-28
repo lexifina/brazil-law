@@ -1,0 +1,19 @@
+DECISÃO
+Vistos,
+Trata-se de Agravo Interno interposto contra decisão que conheceu em parte e negou provimento ao recurso especial.
+Nas razões recursais, a Agravante reiterou os argumentos acerca da existênciade fato superveniente que teria o condão de modificar o feito executivo, como segue (fls. 2.500/2.502e):
+ ..  No que concerne à existência de fato novo, antes mesmo da prolação do v.acórdão recorrido, a Agravante protocolou petição noticiando o cancelamento administrativo de parte substancial dos débitos impugnados nestes autos, conforme decisão proferida nos autos do processo administrativo nº 10080.004684/0916-62.
+Soma-se a isso, o fato de que, após a interposição do Recurso Especial objeto de análise, a própria União Federal, à luz do quanto concluído pela Receita Federal do Brasil (RFB) nos autos do e-dossiê nº 10080.004684/0916-62, protocolou petição, em 28/01/2021, informando o cancelamento das CDAs nºs 80.7.05023496-83 e 80.6.06.050984-81, bem como a retificação da CDA nº 80.7.05.023442-90, resultando no cancelamento de cerca de R$ 81.229.543,77 (oitenta e um milhões, duzentos e vinte e nove mil, quinhentos e quarenta e três reais e setenta e sete centavos), permanecendo inscritos apenas os supostos saldos devedores de R$ 173.827,01 (P. Apuração: 12/2000) e R$ 376.794,81 (P.
+Apuração: 01/2001). Veja-se o teor da manifestação da Receita Federal e da Agravada juntada nos autos do feito executivo:
+ ..  Ou seja, nos autos do feito executivo, é fato incontroverso, inclusive com a anuência da Receita Federal do Brasil e da Procuradoria da Fazenda Nacional, que a maior parte dos débitos em discussão nestes autos são indevidos, tendo-se cancelada a maior da cobrança combatida neste feito.
+Apenas para contextualizar a razão pela qual houve o cancelamento superveniente de grande parte do débito executado, esclarece-se que os créditos utilizados para quitação dos referidos débitos são oriundos do provimento judicial obtido nos autos da Ação nº 0006264-52.1997.4.03.6100 (97.00.06264-3), na qual foi reconhecido o direito a compensar diretamente em sua escrita fiscal (DCTF) os créditos decorrentes dos indébitos de PISdecorrentes da declaração de inconstitucionalidade das alterações trazidas pelos Decretos-lei nº 2.445/88 e nº 2.499/88.
+Diante desse provimento judicial favorável, a Agravante utilizou dos créditos de PIS para quitação com os outros débitos federais.
+Contudo, em decorrência do erro na análise administrativa inicial, cometido pela d. Fiscalização, resultou no ajuizamento da Execução Fiscal nº 0027247- 39.2006.8.26.0068 (antigo nº 068.01.2006.027247-0 e atual nº 5003374- 48.2019.4.03.6144), cujos débitos são combatidos nestes autos.
+Instada a manifestar-se, a FAZENDA NACIONAL reconhece parcialmente a veracidade dos argumentos da Agravante, nos seguintes termos (fls. 2.523e):
+A UNIÃO (FAZENDA NACIONAL), já qualificada nos autos do processo em epígrafe, por seu Procurador, vem, respeitosamente, à presença de Vossa Excelência, se manifestar em relação às alegações da recorrente.
+Em consulta aos sistemas da PGFN, verifica-se que foram canceladas as inscrições nº 80.7.05023496-83 e nº 80.6.06.050984-81, bem como retificada a inscrição nº 80.7.05.023442-90 (comprovantes em anexo).
+O valor atual do débito da inscrição 80.7.05.023442-90 é de R$ 2.371.299,14, valor do principal acrescido de multa, juros de mora e encargo legal (comprovante em anexo).
+É o que tinha a informar.
+Nesse cenário, impõe-se o retorno dos autos à origem, a fim de que, oportunizando a ampla defesa e o contraditório, seja examina eventual alteração na execução fiscal em tela, restando, por conseguinte, prejudicado o exame do recurso especial.
+Posto isso, nos termos do art. 1.021, § 2º, do CPC/2015, reconsidero a decisão de fls. 2.458/2.477e, prejudicado o agravo interno de fls.2.481/2.509, eDETERMINO a devolução dos autos à origem, com a devida baixa, nos termos expostos.
+Publique-se. Intime-se.
