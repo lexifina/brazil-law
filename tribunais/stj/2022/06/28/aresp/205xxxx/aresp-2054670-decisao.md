@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Antonio Masami Nagai e outros, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 32):
+Agravo de instrumento. Cumprimento provisório de sentença. Antecipação de haveres. Redução da multa cominatória de R$ 1.440.000,00 para R$ 360.000,00. Inconformismo do exequente. Cabimento excepcional. Limitação conhecida pelos executados. Majoração da penalidade diária na origem, pois verificado o sistemático descumprimento da ordem judicial de pagamento. Montante elevado que decorre da inércia dos agravados e não enseja, por si, desproporção entre a coerção e o enriquecimento sem causa. Decisão reformada para restabelecer a sanção. Recurso provido.
+Nas razões do recurso especial, apontou-se violação dos arts.5º, 6º,85, §§ 1º e 2º e537, § 1º, do CPC/2015,além dedivergência jurisprudencial (e-STJ, fls. 45-69).
+Sustentou-se, em síntese, que, no caso dos autos, deveria ter sido mantida a redução da multa coercitiva, bem como imposta condenação ao pagamento de honorários à parte agravada.
+Foram apresentadas contrarrazões(e-STJ, fls. 189-199).
+O recurso especial não foi admitido na origem, o que provocou a interposição do presente agravo (e-STJ, fls. 200-202).
+Contraminuta ofertada (e-STJ, fls. 228-235).
+Brevemente relatado, decido.
+O inconformismo não merece acolhida.
+Relativamente aos arts.5º, 6º, 85, §§ 1º e 2º do CPC/2015,o recurso carece do necessário prequestionamento.
+Para que se configure o prequestionamento das matérias, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DA CONSTITUIÇÃO. IMPOSSIBILIDADE DE ANÁLISE PELO STJ. REVISÃO DO CÁLCULO DO PAGAMENTO POR MORTE.
+NECESSIDADE DE CUSTEIO E VIGÊNCIA DO REGULAMENTO NA DATA DO CUMPRIMENTO DOS REQUISITOS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, alínea a, da CF/88.
+3. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.933.737/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 23/09/2021).
+No caso em apreço, o Tribunal de origem não se manifestou sobre o comportamento das partes do processo, nem, tampouco, quanto a honorários advocatícios, vindo à baila o disposto nas Súmulas 282 e 356/STF.
+A Corte estadual dirimiu a controvérsia nos seguintes temos (e-STJ, fls. 33-36):
+Não há dúvida a respeito da incidência, na hipótese, da multa diária, inclusive porque confesso o descumprimento a destempo da ordem judicial de pagamento dos haveres (fls. 22).
+Cumpre anotar, ademais, que, desde a fixação da penalidade, às fls. 836 do processo nº 1001370-70.2016.8.26.0346,impôs-se o limite de 180 (cento e oitenta) dias e sujeita a novaavaliação caso inobservado o comando.
+E tal determinação, de fato, foi desrespeitada, oa revisão da sanção e da limitação no feito de origem, às fls.1.338.
+(..)
+Embora seja teoricamente possível, segundo a doutrina processualista e a jurisprudência do Superior Tribunal de Justiça, nas quais ressalte-se a decisão guerreada está bem amparada, a moderação da penalidade, neste caso, é indevida.
+Não se ignora que as astreintes não têm caráter indenizatório, mas finalidade precípua de inibir o devedor em descumprir a obrigação, razão de observarem os princípios da vedação ao enriquecimento sem causa e da proporcionalidade.
+Ademais, não há, em tal raciocínio, afronta à coisa julgada ou ao instituto da preclusão, pois a lei autoriza sua modificação, inclusive de ofício, nos termos do § 1º do artigo 537 do Código de Processo Civil, que, aliás, não se restringe somente à multa vincenda.
+Na hipótese em discussão, no entanto, a pena fixada, inicialmente, em R$ 2.000,00 por dia a cada executado tanto não era excessiva que o Magistrado de origem houve por bem majorá-la, após verificar o sistemático descumprimento das ordens pelos réus.
+É verdade que o montante total da sanção, de R$ 1.440.000,00, é muito maior que o da obrigação remanescente, calculada pelo exequente em R$ 388.078,75.
+Mas a conclusão pela desproporção da penalidadenão pode estar escorada apenas na simples comparação dos valores.
+É que o real prejuízo suportado pelo recorrente decorre, mais que da ausência do crédito, da inconsistência do pensionamento esperado em respeito ao comando judicial.
+Inobservada a programação mensal de transferências, o exequente, por consequência, também não pôde escalonar as obrigações voltadas à sua subsistência, sendo irrelevante a alegação, dos agravados, de que dispõe de outras fontes de renda. Não bastasse, os executados deliberadamente desdenharam da autoridade contida no comando de pagamento, conduta que não poderia, depois, ser premiada pela redução da multa.
+(..)
+Além disso, a somatória apenas alcançou valor milionário porque os executados mantiveram-se inertes, agarrados a argumentação inapta para a reversão da tutela.
+(..)
+Por tais razões, excepcionalmente, proponho à Turma Julgadora que a decisão agravada seja reformada para restabelecer integralmente a sanção.
+Verifica-se, portanto, que aquestão precípua - a manutenção do valor final alcançado pela multa -foidecididacom base nas premissas fáticas e probatórias existentes nos autos, de modo que rever o entendimento adotado no acórdão recorrido demandaria reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Com efeito, para adotar conclusão diversa daquelado acórdão recorrido, acerca da aplicação da multa ante o reconhecido descumprimento da tutela concedida e a reiteração em desobedecer a ordem judicial, na hipótese dos autos, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+Por outro lado, é pacífica a jurisprudência do Superior Tribunal de Justiça de que o pedido de redução do valor da multa diária aplicada como meio coercitivo para o cumprimento da ordem judicial só pode ser examinado nesta Corte nos casos em que se mostrar irrisório ou exorbitante, o que não se observa no caso dos autos.
+Ainda nesse contexto, cabe destacar que a Terceira Turma desta Corte possui entendimento pacificado de que a razoabilidade e a proporcionalidade das astreintes deve ser verificada no momento em que fixadas, levando-se em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor.
+Destaque-se, do acórdão recorrido: "na hipótese em discussão, no entanto, a pena fixada, inicialmente, em R$ 2.000,00 por dia a cada executado tanto não era excessiva que o Magistrado de origem houve por bem majorá-la, após verificar o sistemático descumprimento das ordens pelos réus".
+Também nesse ponto não há como reexaminar o valor fixado inicialmente.
+Assim sendo, "por mais vultoso que seja o valor total da multa, não se pode perder de vista que o principal a ser discutido não é suposto enriquecimento de uma das partes, mas a coercibilidade das decisões proferidas pelo Poder Judiciário, que se veem atacadas em sua dignidade no momento em que são ignoradas e descumpridas pelos jurisdicionados" (REsp 1.748.507/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/8/2019, DJe 12/8/2019).
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. ASTREINTES. VALOR FIXADO. EXORBITÂNCIA. INEXISTÊNCIA. IMPOSSIBILIDADE DE REVISÃO. ALEGAÇÃO DE CUMPRIMENTO DA ORDEM JUDICIAL. APRECIAÇÃO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRETENSÃO DE REEXAME DOS LIMITES OBJETIVOS E SUBJETIVOS DO TÍTULO EXEQUENDO. TEMA NÃO ARGUIDO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O STJ, sensível a situações em que é manifesta a superveniência de valor excessivo resultante, em maior parcela das vezes, da reiteração do descumprimento da obrigação imposta, passou a viabilizar a revisão da multa diária em recurso especial, nos casos em que se atingissem valores evidentemente exagerados, importando em enriquecimento sem causa, ou ínfimos, insuficientes para manter a carga coercitiva da ordem judicial. Precedentes.
+3. A Terceira Turma é uníssona no sentido de que a razoabilidade e a proporcionalidade das astreintes deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor. Precedentes.
+4. O acórdão vergastado assentou que o valor da multa cominatória não era excessivo, mostrando-se adequado à carga coercitiva da obrigação imposta. Alterar as conclusões do acórdão impugnado exigiria incursão fático probatória, em afronta a Súmula nº 7 do STJ.
+5. Inviável, na estreita via do recurso especial, realizar nova incursão nas provas dos autos a fim de averiguar se houve ou não o cumprimento tempestivo de ordem judicial para fins da incidência de astreinte. Aplicação da Súmula nº 7 do STJ.
+6. Como os limites objetivos e subjetivos do título exequendo não foram debatidos no recuso especial, fica inviabilizada sua análise em agravo interno, por configurar inovação recursal.
+7. Agravo interno não provido. (AgInt no AREsp 1.696.617/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/3/2021, DJe 18/3/2021)
+Cumpre referir que em razão dos óbices das Súmulas 282 e 356/STF e 7/STJ, fica prejudicada a análise da alegada divergência jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA. ORDEM JUDICIAL. DESCUMPRIMENTO. MULTA COMINATÓRIA. REDUÇÃO DO MONTANTE TOTAL. POSTERIOR CONSERVAÇÃO DA QUANTIA. VALOR INICIAL MODERADO. EXIGIBILIDADE E PRINCÍPIO DA RAZOABILIDADE. DISPOSITIVOS APONTADOS COMO OFENDIDOS. FALTA DE PREQUESTIONAMENTO.SÚMULAS 282 E 356/STF. APLICAÇÃO. MANUTENÇÃO DO VALOR FINAL. REEXAME DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE.SÚMULA 7/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.AGRAVO CONHECIDOPARA NÃO CONHECER DO RECURSO ESPECIAL.
