@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMBARGOS À EXECUÇÃO. INDEFERIMENTO DO EFEITO SUSPENSIVO. INCONFORMISMO DO EMBARGANTE. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS. ART. 919, §1º, DO NCPC. VEROSSIMILHANÇA DAS ALEGAÇÕES E PERIGO DE DANO NÃO DEMONSTRADOS. CURADOR ESPECIAL. PECULIARIDADE QUE NÃO AUTORIZA, DE FORMA AUTOMÁTICA, A CONCESSÃO DO EFEITO SUSPENSIVO AOS EMBARGOS. SITUAÇÃO DIVERSA DE DISPENSA DA GARANTIA DO JUÍZO.- Para a concessão do efeito suspensivo aos embargos à execução, na forma do art. 919, § 1º, do NCPC, faz-se imprescindível a comprovação da presença dos requisitos atinentes à probabilidade do direito (fumus boni iuris) e ao perigo de dano ou risco ao resultado útil do processo (periculum in mora).- Ausentes os requisitos legais, há que se indeferir o efeito almejado, confirmando a decisão agravada. Agravo de instrumento não provido.
+A parte agravante sustenta que foram preenchidos os requisitos necessários ao deferimento de efeito suspensivo à apelação.
+Concluiu o Tribunal de origem que a concessão do efeito suspensivo esbarra na ausência de probabilidade do direito, pois a parte executada afirmou a incorreção do valor cobrado a título de prestação, sem apontar justificativas para tanto (fl. 34 e-STJ).
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que verificar se estão presentes as excepcionais hipóteses de atribuição de efeito suspensivo à apelação contra a sentença que julga improcedentes embargos à execução esbarra nas disposições do verbete n. 7 da Súmula desta Casa. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. APELAÇÃO. EFEITOS. ARTIGO 558 DO CPC. REQUISITOS. REEXAME. SÚMULA N. 7-STJ. NÃO PROVIMENTO.
+1. "A aferição da existência dos requisitos necessários à concessão do efeito suspensivo em apelação contra sentença que julga improcedentes os embargos à execução, consoante dispõe o art. 558, parágrafo único, do CPC, implica reexame de matéria fático-probatória, o que atrai o óbice da Súmula n. 7/STJ."
+(AgRg no Ag 898.168/RS, Rel. MIN. ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 5/8/2008, DJe 8/9/2008)
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 929.532/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/8/2017, DJe de 8/8/2017.)
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
