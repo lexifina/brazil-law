@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO PIAUÍ, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, nesses termos ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. APOSENTADORIA ESPECIAL DE POLICIAL CIVIL. LEI COMPLEMENTAR Nº 51/85. DIREITO A PROVENTOS INTEGRAIS. COMPATIBILIDADE COM A CONSTITUIÇÃO FEDERAL. NÃO INCIDÊNCIA DOS CÁLCULOS PROPORCIONAIS ESTABELECIDOS PELA LEI Nº 10.887/04. PRECEDENTES DOS TRIBUNAIS SUPERIORES E DESTA CORTE ESTADUAL. JULGAMENTO MONOCRÁTICO MANTIDO. NEGADO PROVIMENTO AO AGRAVO.  .. .
+Sustenta a parte recorrente que os proventos da aposentadoria doservidor recorrido devem ser fixados pela média, não pela integralidade, pois "a regra é o cálculo dos proventos com base na média e as exceções são situações de concessão dos proventos integrais, conforme se pode ver por dispositivos da própria Emenda n. 41/2003 e da Emenda Constitucional n. 47/2005".
+É o relatório. Passo a decidir.
+A hipótese permitida constitucionalmente para interposição de recurso especial pela alínea "a" do inciso III do artigo 105 da CF, em suma, restringe-se à violação de Tratado ou dispositivo de Lei Federal.Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na Constituição Federal, nem tampouco uniformizar a interpretação de matéria constitucional, sob pena de invasão da competência exclusiva do STF(cf. REsp n. 1.682.678/SP, relator Ministro Og Fernandes, Primeira Seção,DJe de 30/4/2018).
+Em caso análogo, já julgou esta Corte Superior:
+ ..  o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 40 e ECs n. 41/2003 e 47/2005, da Constituição da República.O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna. (REsp 1939403/PI, Rel. Ministra REGINA HELENA COSTA, DJe 25/08/2021).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO.APOSENTADORIA. INTEGRALIDADE. MATÉRIA DECIDIDA COM FUNDAMENTAÇÃO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. RECURSO ESPECIAL NÃO CONHECIDO.
