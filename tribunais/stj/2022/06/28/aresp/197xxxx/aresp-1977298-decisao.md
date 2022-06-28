@@ -1,0 +1,19 @@
+DECISÃO
+Trata-sede agravo em recurso especial interposto por CHRISTIANO JOSÉ GONÇALVEScontra decisão que inadmitiu o recurso especial em razão dos seguintes fundamentos: a) inviabilidade de apreciação de dispositivo constitucional; b) incidênciada Súmula n. 83do STJ, em relação à questão da nulidade levantada face a realização de interrogatório realizado antes da alteração promovida pela Lei n. 11.719/2008, bem como de questão relacionada à preclusão; e c)não realização do cotejo analítico como pressuposto para a comprovação da divergência jurisprudencial.
+O Ministério Público Federal opina pelo não provimento do agravo.
+A parte agravante deixou de impugnar especificamente a aplicação da Súmula n. 83 do STJ em vista da matéria de mérito, bem como em relação anão comprovação da realização do necessário cotejo analítico.
+Atente-se que,para impugnar a incidência da Súmula n. 83 do STJ, deve a parte demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que é outro o entendimento jurisprudencial do STJ.
+Nesse mesmo sentido: AgRg no AREsp n. 1.620.996/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/5/2020; e AgRg no AREsp n. 1.553.028/RJ, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/10/2019.
+Ressalte-se, ademais,que é assente neste Tribunal que se faz incabível a apresentação de divergência jurisprudencial com acórdãos paradigmas oriundos do Supremo Tribunal Federal.
+A esse respeito, menciono: AgInt no AREsp n. 1.981.818/MA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 11/4/2022 e AgRg no AREsp n. 1.977.864/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/3/2022.
+Assim, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+A propósito, confiram-se estes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do apelo nobre na origem.
+2. Agravo regimental desprovido. (AgRg nos EDcl no AREsp n. 961.055/BA, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/ 6/2021.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIMES DE TRÁFICO DE DROGAS, POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. APREENSÃO DE 123,9 G DE MACONHA, 156,3 G DE COCAÍNA, BALANÇA DE PRECISÃO, DUAS ARMAS DE FOGO, 24 MUNIÇÕES E MAIS DE 5 MIL REAIS. CONDENAÇÃO. PLEITO DE RECONHECIMENT O DA MINORANTE DO TRÁFICO PRIVILEGIADO. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. IRRESIGNAÇÃO NÃO CONHECIDA. REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/STJ TAMBÉM AO REGIMENTAL.
+1. O agravante não rebateu, de modo eficiente, o fundamento utilizado na decisão agravada, atraindo, assim, a incidência da Súmula 182/STJ ao presente regimental.
+2. É dever do agravante infirmar especificamente todos os fundamentos da decisão agravada, ainda que os considere inadequados, pois tal prática constitui ônus imposto pelo art. 932, III, do Novo Código de Processo Civil, não servindo para tanto a mera indicação de leitura das peças processuais anteriores.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 1.701.075/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 10/2/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
