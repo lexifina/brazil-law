@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+ACIDENTE DO TRABALHO - PAIR - Comprovação o da lesão, do nexo causal e da incapacidade parcial e permanente do segurado - Auxílio-acidente devido - Reabilitação profissional - Segurado amparado por auxílio-acidente - Inadmissibilidade - Beneficio garantido aos segurados em gozo de auxílio-doença - Artigo 62 da Lei 8.213/91 - Recursos oficial e do autor providos em parte.
+Os Embargos de Declaração foram rejeitados.
+O recorrente alega, além de divergência jurisprudencial, violação dos arts. 18, 59, 61, 62, 86, II, 89, 90 e 92 da Lei 8.213/1991; 104, § 6º, do Decreto 3.048/1999; 406 do Código Civil; e 161 do CTN. Afirma (fl. 410, e-STJ):
+Logo, se aqui ficou provada a necessidade de mudança de função, ou seja, incapacidade para as atividades habituais (matéria pacífica e incontroversa no processado -reconhecida pelo Acórdão recorrido), ilegal a alta-médica sem conceder a reabilitação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.5.2022.
+O Tribunal de origem decidiu a lide sob os seguintes fundamentos(fls. 370-376, e-STJ):
+Inacolhível o pedido de reabilitação profissional formulado pelo autor.
+Afinal, nos termos do disposto no artigo 62 da Lei 8.213191, o segurado em gozo de auxílio-doença será submetido à reabilitação profissional.
+O processo de reabilitação profissional, portanto, é simultâneo à vigência do auxílio-doença. Daí a lei assegurar o pagamento do benefício provisório enquanto o trabalhador estiver em fase de reabilitação.
+Destarte, para que o trabalhador seja submetido à reabilitação profissional, é necessário que ele esteja em gozo de auxílio-doença.
+Corrobora essa assertiva o disposto no artigo 101, que impõe ao segurado em gozo de auxílio-doença a participação no processo de reabilitação profissional. E também no artigo 86, II, da Lei 8.213191, em sua redação original, ao disciplinar que o auxílio- acidente era devido após o processo de reabilitação profissional.
+Não é o caso do autor, porque não se encontra mais em gozo de auxílio-doença. E, principalmente, porque a redução da sua capacidade laborativa já está sendo indenizada com o pagamento de auxílio-acidente.
+Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, o particular não impugnou os fundamentos acima mencionados. Assim, não observouas diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Nota-se que os argumentos são aptos, por si sós, a manter o decisum combatidoe não foram atacados pela parte recorrente. Dessa forma, aplicam-se, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013)
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1.089.538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 9/9/2011)
+Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Em relação ao juros, dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior.
+Ao julgar o Recurso Especial Repetitivo 1.205.946/SP, a Corte Especial do STJ firmou orientação no sentido de que a correção monetária e os juros moratórios constituem parcelas de natureza processual, razão pela qual a alteração introduzida pela Lei 11.960/2009 se aplica de imediato aos processos em curso, no que concerne ao período posterior à sua vigência, à luz do princípio tempus regit actum.O precedente foi resumido na seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VERBAS REMUNERATÓRIAS. CORREÇÃO MONETÁRIA E JUROS DE MORA DEVIDOS PELA FAZENDA PÚBLICA. LEI 11.960/09, QUE ALTEROU O ARTIGO 1º-F DA LEI 9.494/97. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO QUANDO DA SUA VIGÊNCIA. EFEITO RETROATIVO. IMPOSSIBILIDADE.
+1. Cinge-se a controvérsia acerca da possibilidade de aplicação imediata às ações em curso da Lei 11.960/09, que veio alterar a redação do artigo 1º-F da Lei 9.494/97, para disciplinar os critérios de correção monetária e de juros de mora a serem observados nas "condenações impostas à Fazenda Pública, independentemente de sua natureza", quais sejam, "os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança".
+2. A Corte Especial, em sessão de 18.06.2011, por ocasião do julgamento dos EREsp n. 1.207.197/RS, entendeu por bem alterar entendimento até então adotado, firmando posição no sentido de que a Lei 11.960/2009, a qual traz novo regramento concernente à atualização monetária e aos juros de mora devidos pela Fazenda Pública, deve ser aplicada, de imediato, aos processos em andamento, sem, contudo, retroagir a período anterior à sua vigência.
+3. Nesse mesmo sentido já se manifestou o Supremo Tribunal Federal, ao decidir que a Lei 9.494/97, alterada pela Medida Provisória n. 2.180-35/2001, que também tratava de consectário da condenação (juros de mora), devia ser aplicada imediatamente aos feitos em curso.
+4. Assim, os valores resultantes de condenações proferidas contra a Fazenda Pública após a entrada em vigor da Lei 11.960/09 devem observar os critérios de atualização (correção monetária e juros) nela disciplinados, enquanto vigorarem. Por outro lado, no período anterior, tais acessórios deverão seguir os parâmetros definidos pela legislação então vigente.
+5. No caso concreto, merece prosperar a insurgência da recorrente no que se refere à incidência do art. 5º da Lei n. 11.960/09 no período subsequente a 29/06/2009, data da edição da referida lei, ante o princípio do tempus regit actum.
+6. Recurso afetado à Seção, por ser representativo de controvérsia, submetido ao regime do artigo 543-C do CPC e da Resolução 8/STJ.
+7 Cessam os efeitos previstos no artigo 543-C do CPC em relação ao Recurso Especial Repetitivo n. 1.086.944/SP, que se referia tão somente às modificações legislativas impostas pela MP 2.180-35/01, que acrescentou o art. 1º-F à Lei 9.494/97, alterada pela Lei 11.960/09, aqui tratada.
+8. Recurso especial parcialmente provido para determinar, ao presente feito, a imediata aplicação do art. 5º da Lei 11.960/09, a partir de sua vigência, sem efeitos retroativos.(REsp 1.205.946/SP, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe 2/2/2012)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
