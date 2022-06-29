@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ARIEL GARDENIE DINALI à decisão de fls. 994/995, que não conheceu do recurso.
+Sustenta a parte embargante que:
+REQUER PRELIMINARMENTE, seja concedida a TUTELA DA EVIDÊNCIA, considerando-se que as ALEGAÇÕES DE FATO FORAM COMPROVADAS DOCUMENTALMENTE, assim como EXISTE TESE FIRMADA EM JULGAMENTO DE CASOS REPETITIVOS, conforme transcrições acima, para reconhecer a EVIDÊNCIA DO DIREITO À JUSTIÇA GRATUITA do ora postulante, em estrita observância ao Art. 311, II e Art. 554, ambos do CPC, bem como ao princípio da cooperação entre as partes do processo e ainda, da GARANTIA CONSTITUCIONAL (Art. 5º, LXXIV), do acesso à JUSTIÇA (fl. 1003).
+ ..
+Na decisão monocrática exarada por Vossa Excelência, restou consignado a intempestividade do recurso apresentado, pois "parte recorrente foi intimada da decisão agravada em 25/10/2021, sendo o agravo somente interposto em 24/02/2022" e que "o agravo regimental/interno, apresentado em face da decisão que inadmitiu o recurso especial não é o recurso adequado ou cabível à espécie".
+Pois bem.
+É de conhecimento geral que, realmente, a interposição de recurso manifestamente incabível não interrompe o prazo recursal, podendo a parte, no entanto, propor o recurso correto dentro do prazo iniciado anteriormente.
+ ..
+Foi em virtude do não deferimento da justiça gratuita que a apelação deixou de ser analisada, pois determinou o recolhimento do preparo, fato impossível naquele momento em virtude da situação pandêmica vigente, em que todos os negócios do embargante, profissional autônomo que é, foram suspensos, sendo obstado de auferir renda (fl. 1006).
+Nesse contexto, destaca-se que aos 23/07/2020, vigorava em Goiás o restritivo Decreto Nº 9.692, de 13 de julho de 2020, que impunha limitações de todas as ordens, sobretudo a trabalhadores autônomo, como é o caso do embargante.
+Foi nesse contexto pandêmico e de profundo abalo econômico que se deram os fatos, sendo tal esclarecimento necessário por conta de duas razões específicas (fl. 1007).
+ ..
+E se é nulo, é possível que o eminente relator desta ação no âmbito deste Superior Tribunal de Justiça conceda os benefícios da justiça gratuita, reiteradamente requerida com lastro em prova material real e oficial já juntada, mas não analisada, na medida em que toda celeuma criada tem como pressuposto base a não concessão deste benefício (fl. 1009).
+ ..
+O recurso tido como "manifestamente inadmissível", interposto contra a negativa de subida do Recurso Especial, em verdade, não o é.
+ ..
+O Recurso Especial não foi admitido na mov. 412 dos autos originários, em 21/10/2021, sendo que o prazo para interposição, em regra no atual CPC, é de 15 dias úteis, nos termos do art. 1.004, §5º, do CPC.
+Por isso, e dentro do prazo recursal, o embargante interpôs o agravo, juntado à mov. 416. E a sua razão não se mostra grosseiramente equivocada (fl. 1012).
+ ..
+Portanto, em última análise, e considerando que não houve erro explicitamente grosseiro, mas a observância do código, além de ser interposto o agravo em recurso especial dentro do prazo que deixou de conhecer do agravo anterior, passível o seu processamento, uma vez que a decisão está contraditória em considerar que o prazo teve início somente com a decisão proferida na mov. 412, em 21/10/2021 (dentro do prazo de 15 dias - artigo 1.070 do CPC), o que reflete diretamente na possiblidade de oposição dos presentes embargos de declaração (fl. 1013).
+ ..
+Assim, sendo diverso o entendimento de Vossa Excelência em relação aos pedidos anteriores, requer subsidiariamente a determinação de abertura de prazo, possibilitando que as custas recursais sejam recolhidas pelo embargante (fl. 1014).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Observe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Portanto, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Registre-se que o agravo interno não é o recurso cabível contra a decisão do Tribunal de origem em juízo de admissibilidade de recursos especiais não submetidos ao rito dos repetitivos. Assim, sua interposição equivocada não interrompe nem suspende o prazo para a apresentação do recurso cabível, que, no caso, é o agravo previsto no art. 1.042 do CPC. Nesse sentido, o AgInt no AREsp 1549441/MS, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 12/3/2020; e AgInt no AREsp 1508918/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/2/2020.
+Quanto ao pedido de gratuidade de justiça, cumpre esclarecer que o referido pedido não tem efeito prático algum. Mesmo que seja deferido o benefício da gratuidade nesse momento processual, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente das custas processuais referentes aos atos anteriores, ou seja, mesmo que seja deferido o benefício, não terá o condão de retroagir para regularizar o recolhimento das custas do recurso especial. Apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 29/5/2012).
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Quanto ao pleito de tutela provisória, a admissibilidade da concessão de efeito suspensivo a recurso especial está intrinsecamente vinculada à possibilidade de êxito do apelo nobre. No caso em comento, apesar de inadmitido o recurso especial na origem, houve a interposição de agravo em face da decisão negativa de admissibilidade, o que, em tese, possibilitaria o conhecimento da tutela. Entretanto, considerando o não conhecimento do agravo em recurso especial, e a rejeição destes aclaratórios, julgo prejudicada a concessão do efeito suspensivo.
+Não conheço da petição de fls. 1017/1178 em razão da preclusão consumativa.
+Publique-se. Intimem-se.
