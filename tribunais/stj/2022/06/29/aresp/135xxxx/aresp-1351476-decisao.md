@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de TETRA PAK LTDAcontra decisão que não admitiu recurso especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. Insurgência da exequente contra decisão que acolheu os embargos à execução e lhes concedeu efeito suspensivo. Não preenchimento dos requisitos previstos no art. 919, §1º, do CPC/15. Irrelevância. Hipótese em que há discussão acerca da legitimidade passiva do executado, que é matéria de ordem pública, cognoscível de ofício, e passível de ser discutida em exceção de pré-executividade, razão pela qual se faz desnecessária a prestação de garantia. Decisão mantida. RECURSO NÃO PROVIDO. (e-STJ, fl. 1.162)
+Nas razões do recurso especial, a parteagravante alega ofensa dosarts. 300 e 919, § 1º, do NCPC, bem como divergência jurisprudencial, sustentando que, ao contrário do que entendeu a Corte de origem, não deve ser atribuído efeito suspensivo aos embargos à execução, "já que não estavam presentes (a) a garantia da via executiva mediante depósito, caução ou penhora, e (b) as demais condições para concessão de tutela provisória" (e-STJ, fl. 1.173).
+É o relatório. Decido.
+Com efeito, o v. acórdão recorrido ao manter o deferimento do pedido deefeito suspensivo aos embargos à execução, asseverou estarem presentes elementos necessários para que, excepcionalmente, o Juizsuspenda a execução.
+É o que se extrai do seguinte excerto do acórdão impugnando:
+"Ocorre que, no presente caso, em que pese não haver garantia prestada pelo executado, há o preenchimento dos requisitos previstos para a concessão de tutela antecipada, nos termos do art. 300 do CPC/15, quais sejam, probabilidade do direito e perigo de dano.
+Isso porque o executado sustenta que é parte ilegítima para figurar na ora impugnada ação de execução, sob os argumentos de que (i) não figurou como réu na ação pauliana que desconsiderou a personalidade jurídica da devedora principal COLAR; (ii) não assinou o "Termo de Confissão de Dívida" que lastreia a execução; e (iii) não foi sócio dirigente da COLAR.
+Dessa forma, tal questão deve ser solucionada antes da ocorrência de qualquer ato constritivo, razão pela qual o sobrestamento da ação de execução, no tocante a este executado, deve ser mantido. Nesse mesmo sentido já se manifestou esta C. 18ª Câmara de Direito Privado, na mesma ação de execução, relacionada a outro executado:
+(..)
+Portanto, diante da relevância da matéria trazida à baila pelo agravado, que é, inclusive, de ordem pública e, assim, cognoscível de ofício e passível de ser discutida em exceção de pré- executividade, faz-se imperiosa a suspensão da execução, sem a necessidade de prestação de garantia."
+Nesse contexto, a pretensão recursal esbarra no óbice da Súmula nº 7 deste C.Superior Tribunal de Justiça, porquanto, para se concluir de modo diverso a que chegou a Eg.Corte a quo, no que diz respeito à ausênciados requisitos para atribuição de efeito suspensivo aos embargos do devedor, necessária se faz a incursão nos elementos fático-probatório dos autos.
+A propósito deste entendimento:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AGRAVANTE.
+1. É vedado, em sede de recurso especial, o exame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execução, porquanto tal providência demandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da Súmula n. 7 do STJ.
+Precedentes.
+2. Consoante o disposto no parágrafo 6º do art. 639-A do Código de Processo Civil/73, a concessão de efeito suspensivo aos embargos do executado não impede a efetivação dos atos de penhora e de avaliação dos bens. (AgInt no AREsp 967.692/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/03/2017, DJe 24/03/2017).
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 902.534/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018)
+Ademais, segundo a compreensão pacífica desta eg. Corte de Justiça, éinviável o exame, em sede de recuso especial, acerca da ocorrência, ounão, dos requisitos para a concessão de tutela antecipada, previstos noart. 300 do Código de Processo Civil de 2015. A alteração das conclusões aque chegaram as instâncias ordinárias demanda, em regra, a análise doacervo fático-probatório dos autos, o que, no entanto, é vedado peloenunciado n.º 7 da Súmula do c. STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
