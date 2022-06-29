@@ -1,0 +1,29 @@
+RAI n° 1010662-57.2022.8.11.0000
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S.A, em face de decisão prolatada pelo Juízo da 2a Vara Cível da Comarca de Nova Mutum/MT, que, nos autos da Ação Declaratória de Inexistência de indébito c/c Danos Materiais, Morais e Pedido de Tutela de Urgência n. 1001643-60.2022.8.11.0086, proposta por HELIO GARCIA POSSANI, deferiu o pedido de antecipação de tutela, para que a requerida se abstenha de inserir o nome do requerente do cadastro de inadimplentes (SPC/SERASA), bem como para que se abstenha de realizar a suspensão no fornecimento de energia elétrica à autora, relativa a Unidade Consumidora no 6/481934-8.
+A Agravante alega, em síntese, que a demanda na origem defende a irregularidade do procedimento para aferição do consumo a recuperar, em razão de mudança de data para a realização de perícia técnica, o que teria impossibilitado o contraditório e ampla defesa.
+Sustenta o equívoco da decisão agravada por ausência de probabilidade do direito, bem como destaca a regularidade do procedimento de fiscalização e recuperação de consumo.
+Assevera que o Agravado “questiona as faturas nos montantes de R$ 33.338,35 e R$ 46.228,47, sob o argumento de que o valor delas é superior ao consumo real da unidade consumidora. Ressalte-se que o agravante não incluiu, no pleito antecipatório de tutela, a recuperação de consumo no valor de R$ 4.881,08, o que torna a decisão extra petita ao determinar a abstenção de efetuar suspensão de fornecimento na unidade consumidora no 6/481934-8, bem como a abstenção de inserção dos dados da parte autora nos órgãos de proteção ao crédito, sem limita-la às faturas questionadas nos autos”.
+Consigna que a Agravante, ao realizar inspeção de rotina na unidade consumidora, constatou a existência de irregularidades que subtraíram da concessionária a leitura do medidor, ocasionando faturamento a menor do que o efetivamente consumido e realizado o procedimento de recuperação do consumo.
+Salienta que o Agravado foi devidamente informado acerca dos procedimentos realizados pela empresa, para apuração dos valores devidos a título de recuperação de consumo e facultada a apresentação de recurso administrativo.
+Ressalta que o Agravado “tenta esconder que foi o único beneficiado com a irregularidade na medição do consumo de sua unidade consumidora, já que, ao longo desse período, apesar do consumo de energia existente, não efetuou qualquer pagamento pelo serviço prestado”.
+Pontua que a suspensão de fornecimento, em razão do inadimplemento das faturas referentes à recuperação de consumo, também se afigura exercício regular de direito por parte da Agravante.
+Com essas considerações, requer seja concedido o efeito suspensivo, para sobrestar os efeitos da decisão agravada. No mérito, pugna pelo provimento do recurso, para reformar o decisum e confirmar a liminar concedida.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pela Agravante, não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, tenho que o caso não comporta o efeito pretendido, uma vez os argumentos do Juízo a quo são consistentes:
+“(...) Pelos documentos carreados aos autos, há prova suficiente para convencer este Juízo de que a situação narrada merece um provimento liminar, mesmo antes de se exaurir a fase cognitiva.
+É de bom alvitre frisar que o Superior Tribunal de Justiça vem decidindo reiteradamente que não pode existir qualquer espécie de restrição ao crédito de quem está se insurgindo contra a dívida em juízo, ou seja, nestas condições não se pode falar que o devedor é inadimplente antes do deslinde do processo.
+Outrossim, caso não fosse concedida a medida, há perigo de dano à demandante, uma vez que o autor reside ali juntamente com sua família exerce a atividade empresarial naquele local, de maneira a retirar seu sustento.
+Desse modo, DEFIRO o pedido de antecipação dos efeitos da tutela, para que a requerida se abstenha de inserir o nome do requerente do cadastro de inadimplentes (SPC/SERASA), bem como para que se abstenha de realizar a suspensão no fornecimento de energia elétrica à autora, relativa a Unidade Consumidora no 6/481934-8. (...)” (ID. 130298155 - Pág. 252/253).
+Posto isso, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta do Agravado, INDEFIRO a almejado efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o Agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. João Ferreira Filho
+Relator, em substituição legal
