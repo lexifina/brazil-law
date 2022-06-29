@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se na origem, de Ação Civil Pública por ato de improbidade administrativa ajuizada pelo Ministério Público do Estado de São Paulo contra Izabel Cristina Campanari Lorenzetti, ex-prefeita de Lençóis Paulista, Prestadora de Serviços de Roçada TJM Ltda. ME, José Marcio Urréa e Município de Lençóis Paulista, com vistas a condená-los nas sanções do art. 12 da Lei 8.429/1992.
+O ato ímprobo consubstanciou-se no acréscimo de mais de 100 vezes o valor de contrato para manutenção de jardins, parques, praças e logradouros públicos do Município.
+O objeto inicial do contrato era a manutenção de área de 15.000 m2, com valor estimado em R$ 12.500,00; ao final, contudo, a área subiu para mais de 1.600.000 m2 e o valor atingiu R$ 1.393.195,17, mais de 100 vezes o valor inicial. Aduz o Parquet, que o vício prejudicou a participação de outros licitantes, haja vista que foi divulgado um contrato de pequena monta, quando na verdade, o serviço seria de valor econômico considerável. Defende que o acréscimo desproporcional foi ilegal, nos termos do art. 65, §1º, da Lei de Licitações.
+A Corte de origem manteve a improcedência da demanda.
+O Ministério Público do Estado de São Paulo apresentou Recurso Especial no qual alega, além de divergência jurisprudencial, violação aos art. 10, VIII, da Lei 8.429/92 e 65, §§ 1º e 2º, da Lei 8.666/1993. Sustenta, em resumo (fl. 1.289, e-STJ, grifamos):
+O presente recurso especial também é cabível com fundamento no artigo 105, inciso III, alínea "c", da Constituição Federal, vez que o posicionamento atual do C. Superior Tribunal de Justiça é no sentido da existência de dano in re ipsa em razão de fraude no processo de licitação, eis que frustrado o caráter competitivo do certame, posição essa divergente, portanto, em relação àquela alcançada no v. acórdão ora impugnado.
+Contrarrazões às fls. 1.296-1.310, e-STJ.
+Decisão de inadmissibilidade da Corte local às fls. 1.325-1.326, e-STJ, o que deu ensejo ao Agravo em Recurso Especial às fls. 1.332-1.346, e-STJ.
+O Ministério Público Federal, em parecer às fls. 1.388-1.396, e-STJ, opina pelo conhecimento do recurso Agravo para dar provimento ao Recurso Especial. Sustenta,à fl. 1.391, e-STJ (grifamos):
+Argumenta o Parquet, que o acórdão recorrido concluiu que não foi comprovado o prejuízo ao erário, assim como não foi comprovada má-fé dos réus, motivo pelo qual afastou a condenação dos recorridos por ofensa ao artigo 10, VIII, da Lei nº 8.429/92.
+Todavia, é cediço que frustrar a licitude de processo licitatório, configura ato de improbidade que causa prejuízo ao erário, ainda que esse prejuízo não possa ser economicamente quantificado para fins de ressarcimento. Não se pode exigir a inequívoca comprovação econômica do dano causado pela conduta ímproba, pois nessas hipóteses específicas do artigo 10 da Lei de Improbidade Administrativa o prejuízo é presumido (in re ipsa).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de março de 2022.
+O agravante impugnou de forma específica todos os óbices que o Tribunal de origem apontou para justificar a inadmissibilidade do Recurso Especial. Conheço, portanto, do Agravo para analisar diretamente o Recurso Especial.
+A Primeira Seção do Superior Tribunal de Justiça acolheu a proposta de afetação do Recurso Especial 1.914.458/PI (Tema Repetitivo 1.096), como representativo da controvérsia, para debater a questão referente à "definição se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário". Verifica-se que é a mesma discussão travada na presente demanda.
+Ao afetar a matéria, o Ministro Relator determinou a "suspensão do processamento de todos os processos que versem sobre a questão e tramitem no território nacional", o que também se aplica ao presente processo.
+Dessa forma, os autos devem retornar à Corte estadual para que lá sejam sobrestados, enquanto se aguarda o julgamento do Tema 1.096 do STJ.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância ao art. 1.040, do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia (Tema 1.096 do STJ): a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
