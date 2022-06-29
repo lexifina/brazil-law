@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. ENTENDIMENTO EM DESCONFORMIDADE COM TESE FIRMADA EM JULGAMENTO DE RECURSOS REPETITIVOS (RESP N. 1.134.186/RS). RECURSO ESPECIAL DO MUNICÍPIOA QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pelo Município de São Paulo, fundamentado nas alíneasa e cdo permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 24):
+AGRAVODE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA CONTRA DECISÃO QUE REJEITOU IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E CONDENOU O IMPUGNANTE EM HONORÁRIOS ADVOCATÍCIOS - MANUTENÇÃO DE TAL CONDENAÇÃO, EM RAZÃO DO PRINCÍPIO DA CAUSALIDADE - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+2. Nas suas razões, a parte recorrente aponta violação dos arts. 927, IV, do CPC/2015, por não observância da Súmula 519/STJ, in verbis: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+3. Com as contrarrazões (fls. 94/102), o recurso foi admitido às fls. 118/119.
+4. É o relatório.
+5. A irresignação merece prosperar.
+6. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. Esta Corte Superior firmou a compreensão, emitida em julgamento sob sistemática repetitiva, de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Corte Especial, DJe 21.10.2011).
+8. Assim, nos termos da Súmula 519/STJ, aplicável às execuções contra a Fazenda Pública, na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios. Note-se:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento no sentido de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Corte Especial, julgado em 1º/08/2011, DJe 21/10/2011).
+2. Nos termos da Súmula 519/STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+3. Agravo interno desprovido (AgInt no REsp 1.928.472/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/8/2021, DJe 20/8/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. HONORÁRIOS. NÃO CABIMENTO. JURISPRUDÊNCIA DO STJ.
+1. Não há ofensa ao artigo 1.022 do CPC/2015 quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dispositivos de lei.
+2. A jurisprudência consolidada no STJ, firmada inclusive em recurso repetitivo, é no sentido de que a rejeição da impugnação ao cumprimento de sentença não enseja a condenação em honorários, compreensão que se mantém, inclusive, após a vigência do novel diploma processual. Precedentes: REsp 1.134.186/RS, representativo de controvérsia na forma do art. 543-C, do CPC/1973 - tema 408; AgInt no REsp 1.668.737/SC, de Minha Relatoria, Segunda Turma, julgado em 1º/6/2020, DJe 3/6/2020.
+3. Agravo interno não provido. (AgInt no REsp 1886103/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/5/2021, DJe 20/5/2021)
+9. Na espécie, o Tribunal de origem reconheceu devida a fixação de honorários sucumbenciais em razão da rejeição da impugnação ao cumprimento de sentença oposta pelo devedor com esteio na seguinte fundamentação (fls. 68):
+Por conseguinte, os demais argumentos do agravante não merecem acolhimento. O não oferecimento da impugnação implicaria homologação doscálculos dos exequentes e consequente expedição do respectivo precatório ou ofício requisitório de pequeno valor (art. 535, §3º, I e II, do CPC), de forma que a apresentação de impugnação exigiu trabalho suplementar dos patronos dos exequentes, o quais apresentaram resposta à impugnação.
+Por isso, a Municipalidade deve suportar o ônus da sucumbência por força do princípio da causalidade (art. 85, §10, do CPC).
+10. Nesse contexto, o acórdão recorrido está em desconformidade com a jurisprudência pacificada no STJ, razão pela qual merece reparos.
+11. Diante dessas considerações, dou provimento ao Recurso Especial para afastar a condenação do Municípioem honorários advocatícios sucumbenciais.
+12. Publique-se. Intimações necessárias.
