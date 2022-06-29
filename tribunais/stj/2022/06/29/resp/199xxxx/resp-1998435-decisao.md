@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação de recálculo da sexta-parte para efeito de incidência sobre 0 vencimentos integrais. Admissibilidade. Direito reconhecido, com incidência sobre todas as vantagens não eventuais ou ó de ocasionais. Ação procedente. Adequação do cálculo juros de mora e de honorários. Apelação provida"(fl. 69e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrentepugna"para que seja integralmente aplicada a nova redação do art. 1º, da Lei Federal 9.494/97, conferida pela Lei Federal 11.960/09, especialmente no que diz respeito aos critérios de correção monetária do valor em que foi condenada"(fl. 80e).
+Sem contrarrazões (fl. 83e).
+Em sede de juízo de retratação, assim decidiu a Corte a quo:
+"Ação de recálculo da sexta-parte para efeito de incidênciasobre vencimentos integrais. Admissibilidade. Direito reconhecido , com incidência sobre todas as vantagens não eventuais ou ocasionais. Ação procedente. Adequação do cálculo de juros de mora e de honorários . Apelação provida. Readequação aos Temas 810 do STF e 905 do STJ"(fl. 94e).
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 156/157e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrida, objetivando a incidência doadicional de sexta-parte sobre os seus vencimentos integrais, com o pagamento das diferenças remuneratórias pela ré.
+Julgada improcedente a demanda, recorreu o autor, tendo sido reformadaa sentença, pelo Tribunal local, em reexame necessário, apenas quanto aos consectários da condenação, invertida a sucumbência.
+Daí a interposição do presente Recurso Especial.
+Com efeito, no caso concreto, o aresto a quo objeto do apelo excepcional foi modificado pela Câmara julgadora (fls. 93/97e), à luz dos Temas 905/STJ e 810/STF, na forma do art. 1.040, II, do CPC/2015, "para efeito de declarar a aplicação da Lei n. 11960/09 no cálculo dos juros de mora, na sua vigência, mantido no mais o acórdão" (fl. 97e).
+Segundo a Jurisprudência desta Corte Superior, caso almejasse impugnar a nova fundamentação do acórdão de 2º Grau, competiria à parte recorrente ratificar o Recurso Especial, aditando as razões anteriores, sob pena de não conhecimento da insurgência, pela perda superveniente de seu objeto e incidência, por analogia, da Súmula 579/STJ.
+Entretanto, ao que se tem dos autos, assim não procedeu.
+Nesse sentido, precedentes da Primeira e Segunda Turma do STJ:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. BENEFÍCIO DEFERIDO. CORREÇÃO DOS VALORES EM ATRASO. INDEXADOR. TEMAS 905/STJ e 810/STF. ADEQUAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ . APLICAÇÃO. PRECEDENTES.
+1. Trata-se de Agravo Interno contra decisão que entendeu necessária a ratificação do Recurso Especial quando o juízo de retratação modificar o acórdão para adequação aos temas repetitivos ou de repercussão geral, - In casu, os Temas 905/STJ e 810/STF - a contrario sensu da Súmula 579/STJ.
+2. De acordo com o art. 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040  seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, II, do CPC/2015) , e o recurso versar sobre outras questões, caberá ao presidente ou ao vicepresidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao Tribunal Superior para julgamento das demais questões". Diretriz metodológica que, por certo, deve alcançar também aqueles feitos que já tenham ascendido ao STJ.
+3. O Recurso Especial não tratou de questões outras. O Tribunal a quo, em juízo de retratação, proferiu novo julgamento e modificou o entendimento anteriormente exarado. Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ. Precedentes.
+4. Agravo Interno não provido" (STJ, AgInt no REsp 1.903.067/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/03/2021).
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MODIFICADO. NOVA FUNDAMENTAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA 579/STJ. ARESTO QUE APRESENTA FUNDAMENTAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. Nos termos do art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi reapreciado e modificado, sob nova fundamentação.
+2. Caso concreto em que seria necessária a ratificação do recurso especial, providência não observada. Incidência da Súmula 579/STJ.
+3. Não é possível conhecer do recurso especial na hipótese em que o Tribunal de origem, ao decidir a questão posta a julgamento, ampara-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, e o recorrente não interpõe o competente recurso extraordinário. Incidência, à espécie, da Súmula 126/STJ.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.878.497/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/02/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe de 25/08/2017).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/02/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
