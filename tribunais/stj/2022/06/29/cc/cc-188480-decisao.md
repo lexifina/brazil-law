@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo de Direito da Vara de Execução em Meio Fechado e Semiaberto deÁguas Lindas de Goiás/GO,o suscitante, e oJuízo de Direito da Vara do Júri e Execuções Penais de Ilhéus/BA,o suscitado.
+Versam os autos acerca da execução penal referente ao apenado Danilo Cajaíba Lima, condenado ao cumprimento de pena privativa de liberdade, em regime inicial semiaberto,com execução iniciada nacomarca de Águas Lindas de Goiás/GO(Processo n. 0327793-05.2014.8.09.0168), ocasião em queoapenado noticiou ao Juízo da execução que mantinha domicílio diverso de onde tramita a execução,circunstância que subsidiou a decisão daquele Magistrado no sentido de declinar da competência em favor da comarca de Ilhéus/BA.
+Recebendo o processo, o Juízo de Direito da Vara de Execuções Penais de Ilhéus/BA recusou a transferência da execução com base na inexistência de estabelecimento penal adequado naquela comarca (fl. 6).
+Cientificado da decisão, o JuízoVara de Execução em Meio Fechado e Semiaberto de Águas Lindas de Goiás/GO suscitou o conflito (fls. 8/9).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela competência do Juízo suscitante, nos termos do parecer assim ementado (fl. 14)
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO DE PENA PRIVATIVA DE LIBERDADE. TRANSFERÊNCIA DE ESTABELECIMENTO PRISIONAL. NECESSIDADE DE PRÉVIA CONSULTA. FALTA DE VAGAS PARA CUMPRIMENTO DE PENA NO REGIME SEMIABERTO NA COMARCA DE DOMICÍLIO DO REEDUCANDO.MANIFESTAÇÃO PELO CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
+É o relatório.
+Com razão o parecerista.
+Nos termos do art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+O fato de o apenado residir em outra comarca não modifica a competência, ante a ausência de previsão legal.
+A propósito, destaco:
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. INEXISTÊNCIA DE DISSENSO. FUNDAMENTO SUBSIDIÁRIO. MANDADO DE PRISÃO CUMPRIDO EM COMARCA DIVERSA DA EXECUÇÃO. IRRELEVÂNCIA. CIRCUNSTÂNCIA QUE NÃO MODIFICA A COMPETÊNCIA PARA EXECUÇÃO PENAL, ANTE AUSÊNCIA DE PREVISÃO LEGAL. POSSIBILIDADE DE TRANSFERÊNCIA, MEDIANTE PRÉVIA AQUIESCÊNCIA DO JUÍZO PARA O QUAL SE ALMEJA A TRANSFERÊNCIA.PRECEDENTE DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+ ..
+2. Ainda que se cogitasse de conflito negativo de competência, não seria o caso de declarar a competência do Juízo da comarca de Rio do Sul/SC, poiso fato de a ordem de prisão ter sido cumprida em comarca diversa da execução não modifica a competência para executar a pena, ante a ausência de previsão legal. Precedente da Terceira Seção.
+3. Agravo regimental improvido.
+(AgRg no CC n. 172.429/SC, de minha relatoria, Terceira Seção, DJe 27/11/2020 - grifo nosso)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS CRIMINAIS ESTADUAIS: EXECUÇÃO DE PENA. PRISÃO PREVENTIVA EM OUTRA COMARCA. AUSÊNCIA DE TRANSFERÊNCIA LEGAL - ART. 86 DA LEP. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA.
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Comarca de Rio Meleiro/SC, o suscitado, para a execução da pena do condenado.
+(CC n. 148.926/RS, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 27/10/2016)
+Ressalto, ainda, que, embora possível a transferência subsequente da execução (art. 86 da LEP), a alteração de competência, em tais casos, demanda aprévia aquiescência dos Juízes envolvidos,circunstância não verificada no caso.
+Nesse sentido, a Terceira Seção já decidiu:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DISTINTOS. EXECUÇÃO DE PENA. PRISÃO EM CUMPRIMENTO DE MANDADO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇACONDENATÓRIA DEFINITIVA. INAPLICABILIDADE DA SÚMULA 192 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. FIXAÇÃO DE TERCEIRO JUÍZO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O presente conflito negativo de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea "d" da Constituição Federal - CF. 2. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória" Precedente: CC 161.783/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 14/12/2018.
+3. "Ressalte-se que o enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual" Precedente: CC 156.747/BA, TERCEIRA SEÇÃO, de minha relatoria, DJe 11/5/2018.
+4. O cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado.
+5. A jurisprudência da Corte tem admitido a declaração de competência de terceiro juízo, estranho ao conflito. Precedente: CC 142.934/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 30/11/2015.
+6. Conflito conhecido a fim de determinar que a pena fixada pelo Juízo Federal da 1ª Vara de Umuarama - SJ/PR, o suscitado, deve ser executada pelo Juízo de Direito designado para as execuções penais da Comarca de Umuarama/PR, conforme lei de organização judiciária do Estado do Paraná.
+(CC n. 167.064/SC, Ministro Joel Ilan Paciornik, Terceira Seção,DJe 6/9/2019 - grifo nosso)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE CONDENADO. CUMPRIMENTO DA PENA. AUSÊNCIA DE ESTRUTURA E DE VAGAS. IMPOSSIBILIDADE DE DECISÃO UNILATERAL DO JUÍZO DEPRECANTE. NECESSIDADE DE PRÉVIA ACEITAÇÃO DO JUÍZO DEPRECADO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame de um conflito de competência não pode se imiscuir na solução de controvérsias de fato ou de direito suscitadas dentro do processo, cujo esclarecimento se dará no decorrer da execução. Deve, tão somente, se ater aos elementos incontroversos do incidente processual para, com base neles, extrair o melhor critério de definição da competência, tendo em conta, em qualquer caso, o momento processual e a possibilidade de sua modificação posterior por circunstâncias supervenientes.
+2. A jurisprudência desta Corte firmou a compreensão de que a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local.
+3. No caso, o suscitado destacou a deficiência estrutural do sistema carcerário da Comarca de Goiânia - GO, que nem sequer dispõe de tornozeleira eletrônica para implementar o início da execução penal, o que, a priori, justifica a inviabilidade de transferência do condenado.
+4. Agravo regimental não provido.
+(AgRg no CC n. 150.563/CE, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 2/10/2018 - grifo nosso)
+Aliás, não é outra a orientação do Supremo Tribunal Federal, que tem decidido no sentido de queo apenado não tem direito subjetivo ao cumprimento de pena no estado em que residem seus familiares(RHC n. 122.204, Ministro Dias Toffoli, Primeira Turma, DJe 18/11/2014).
+No mesmo sentido: MC-AgR no HC n. 88.508, Ministro Celso de Mello, Segunda Turma, DJe 18/12/2013.
+Ante o exposto, acolhendo o parecer,conheçodo conflito de competência paradeclararcompetente oJuízo de Direito da Vara de Execução em Meio Fechado e Semiaberto de Águas Lindas de Goiás/GO, o suscitante,quedeverá processar a execução de Danilo Cajaíba Lima.
+Dê-se ciência aos juízes envolvidos, inclusive com o inteiro teor da decisão.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE. DOMICÍLIO DO APENADO EM LOCALIDADE DIVERSA DA CONDENAÇÃO. IRRELEVÂNCIA. CIRCUNSTÂNCIA QUE NÃO MODIFICA A COMPETÊNCIA, ANTE A AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DA TERCEIRA SEÇÃO. TRANSFERÊNCIA SUBSEQUENTE (ART. 86 DA LEP). POSSIBILIDADE. NECESSIDADE DE PRÉVIA AQUIESCÊNCIA DOS JUÍZES ENVOLVIDOS, CIRCUNSTÂNCIA NÃO VERIFICADA NO CASO. PARECER ACOLHIDO.
+Conflito conhecido para declararcompetente oJuízo de Direito da Vara de Execução em Meio Fechado e Semiaberto de Águas Lindas de Goiás/GO, o suscitante, que deverá processar a execução de Danilo Cajaíba Lima.
