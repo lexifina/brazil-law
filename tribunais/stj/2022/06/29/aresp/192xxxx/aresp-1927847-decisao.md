@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO SANTANDER (BRASIL) S.A. (SANTANDER)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL. CONTRATO BANCÁRIO.COBRANÇA DE TARIFAS. PEDIDO DE REPETIÇÃO DE INDÉBITO. AÇÃO DE PROCEDIMENTO COMUM. PROCESSO EM FASE DE CUMPRIMENTO DE JULGADO. INTERLOCUTÓRIA QUE NÃO RECONHECEU A PRESCRIÇÃO INTERCORRENTE, POR AUSÊNCIA DE INTIMAÇÃO DO CREDOR PARA DAR PROSSEGUIMENTO AO FEITO. IRRESIGNAÇÃO. O RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE SÓ É POSSÍVEL, APÓS A INTIMAÇÃO PESSOAL E VÁLIDA DO EXEQUENTE, PARA QUE IMPULSIONE O PROCESSO. CREDOR QUE NÃO FOI INTIMADO.PRECEDENTES DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA EGRÉGIA CORTE. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 68).
+Irresignado, SANTANDER interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação aos arts. 924, V, do NCPC e 206, § 3º, IV, do CC/02, ao sustentar a ocorrência da prescrição intercorrente cujo reconhecimento independe de intimação prévia do exequente para dar andamento ao feito.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio de Janeiro(e-STJ, fls. 122/127).
+Nas razões do presente agravo, SANTANDER alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta (e-STJ, fl. 162).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar, em parte.
+Da necessidade de intimação prévia da parte credora para o reconhecimento da prescrição intercorrente
+Nahipótese, oTribunal fluminensenegou provimento ao agravo de instrumento interposto pelo SANTANDER, ao fundamento de que, para o reconhecimento da prescrição intercorrente, não basta o decurso do tempo, fazendo-se necessária, também, adesídia da parte exequente em promover os atos que lhe competiam, o que somente resta configurado após a prévia intimação pessoal do credor para dar andamento ao processo, o que não ocorreu na espécie, como se pode ver dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+No mérito, a prescrição intercorrente corporifica-se, na hipótese, quando, em execução ou cumprimento de sentença, há inérciada parte por prazo superior ao fixado em Lei para o exercício da pretensão cognitiva, conteúdo da Súmula 150-STJ, cujo verbete é o seguinte:
+"Súmula 150. Prescreve a execução no mesmo prazo de prescrição da ação".
+Além disso, a mesma instância especial firmou o entendimento no sentido da necessidade de prévia intimação pessoal da parte, para que dê andamento ao feito, para, somente após, se reconhecer ou não a prescrição intercorrente.
+Com efeito, não pode uma das partes ver-se prejudicada pela inércia ou desídia de seu patrono (e-STJ, fls. 69/70).
+A Segunda Seção, no julgamento do REsp nº 1.604/412/SC de relatoria do Ministro MARCO AURÉLIO BELLIZZE, sob o rito do incidente de assunção de competência, fixou as seguintes teses: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do CC/02. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980). 1.3. O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroati va da norma processual). 1.4 O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício dada prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+No referido precedente ficou consignado que o contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+Tal posicionamento veio a confirmar o entendimento adotado no âmbito da Terceira Turma desta Corte Superior, conforme os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 1973. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA RURAL PIGNORATÍCIA.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR-EXEQUENTE.INTIMAÇÃO. NECESSIDADE. PRINCÍPIO DO CONTRADITÓRIO.MORTE DE UM DOS EXECUTADOS. REGULARIZAÇÃO. NULIDADE NÃO VERIFICADA.
+ ..
+3. Verifica-se a prescrição intercorrente da pretensão executória quando o credor-exequente deixa de promover o regular andamento do processo, adotando as providências que lhe são próprias, por prazo equivalente ao da prescrição do título exequendo.
+4. Consoante a jurisprudência firmada pela 3ª Turma deste Tribunal, compete ao juiz, antes de pronunciar a prescrição intercorrente, intimar o exequente a fim de que, no exercício regular do contraditório, tenha a oportunidade de comprovar a eventual existência de fatos impeditivos à incidência da prescrição. Precedentes.
+ ..
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.552.432/MS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 21/11/2017, DJe 18/12/2017).
+RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. EXECUÇÃO.CÉDULA DE CRÉDITO RURAL. AUSÊNCIA DE BENS PASSÍVEIS DE PENHORA. SUSPENSÃO DO PROCESSO. INÉRCIA DO EXEQUENTE POR SETE DE ANOS. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. SÚMULA 150/STF.
+1. Controvérsia acerca da prescrição intercorrente no curso de execução de título extrajudicial.
+2. "Prescreve a execução no mesmo prazo da prescrição da ação" (Súmula 150/STF).
+3. "Suspende-se a execução:  ..  quando o devedor não possuir bens penhoráveis" (art. 791, inciso III, do CPC/73).
+4. Ocorrência de prescrição intercorrente, se o exequente permanecer inerte por prazo superior ao de prescrição do direito material vindicado.
+5. Hipótese em que a execução permaneceu suspensa por sete anos sem que o exequente tenha adotado qualquer providência para a localização de bens penhoráveis.
+6. Distinção entre abandono da causa, fenômeno processual, e prescrição, instituto de direito material.
+7. Possibilidade, em tese, de se declarar de ofício a prescrição intercorrente no caso concreto, pois a pretensão de direito material prescreve em três anos.
+8. Desnecessidade de prévia intimação do exequente para darandamento ao feito.
+9. Necessidade apenas de intimação do exequente, concedendo-lhe oportunidade de demonstrar causas interruptivas ou suspensivas da prescrição.
+10. "O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição" (REsp 1.589.753/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 31/05/2016).
+11. Entendimento em sintonia com o disposto no novo Código de Processo Civil (art. 921, §§ 4º e 5º, CPC/2015).
+12. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp 1.593.786/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 22/9/2016, DJe 30/9/2016).
+A necessidade de intimação da parte exequente, subsiste, mas não para dar andamento ao feito, conforme pontuou o acórdão recorrido, mas apenas para se manifestar quanto a eventual fato impeditivo à incidência da prescrição intercorrente, como decidido no julgamento do IAC, mencionado acima.
+Desse modo, o acolhimento da pretensão recursal é medida que se impõe, a fim de que a parte credora seja intimada para opor, caso queira, algum fato impeditivo à incidência da prescrição, em observância ao direito ao contraditório e à ampla defesa.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos à primeira instância, a fim de que o julgador aprecie a questão da prescrição intercorrente à luz da interpretação desta Corte, intimando-se previamente a exequente, CIF COMPANHIA INDUSTRIAL FARMACÊUTICA S.A. - MASSA FALIDA,para que oponha, caso queira, algum fato impeditivo à incidência da prescrição, em observância ao direito ao contraditório e à ampla defesa.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA.PRESCRIÇÃO INTERCORRENTE. PRÉVIA INTIMAÇÃO DO CREDOR. NECESSIDADE. CONTRADITÓRIO. OPORTUNIDADE PARA MANIFESTAR FATO IMPEDITIVO À INCIDÊNCIA DA PRESCRIÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
