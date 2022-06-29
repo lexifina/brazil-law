@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Urbaniza Comércio e Construções Ltda., com fulcro no art. 105, III, a, da Constituição da República, contra acórdão proferido pela Sexta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 517):
+EMBARGOS DE TERCEIRO. ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. VALOR DA CAUSA EXORBITANTE. INTERPRETAÇÃO SISTEMÁTICA.
+I - Em se tratando de embargos de terceiro, dispõe o enunciado da Súmula nº 303 do Superior Tribunal de Justiça, que quem deu causa à constrição indevida deve arcar com os honorários advocatícios.
+II - Embora o art. 85, §2º do CPC, preconiza que os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, é indispensável a interpretação sistemática da referida norma a fim de evitar condenações desproporcionais e injustas, em montante excessivo, dado o alto valor atribuído à causa (STJ REsp. 1771147/SP).
+III - Deu-se parcial provimento ao recurso.
+Nas razões do apelo especial, a recorrente indica violação ao enunciado sumular n. 303/STJ e ao art. 85, §§ 2º e 8º, do CPC/2015.
+Afirma que a área objeto de penhora, embora registrada em nome da recorrida, é de titularidade do interessado, o que evidencia o cabimento da constrição, não podendo, assim, ser-lhe imposta a sucumbência.
+Argumenta que os honorários sucumbenciais teriam sido arbitrados em patamar excessivo, sendo cabível, assim, a sua redução, destacando ainda a necessidade de apreciação equitativa.
+Requer a concessão de efeito suspensivo à insurgência.
+Contra-arrazoado o feito (e-STJ, fls. 563-590), o recurso especial foi admitido na origem, sendo indeferido o pedido de atribuição de efeito suspensivo (e-STJ, fls. 593-594).
+Brevemente relatado, decido.
+De início, é importante esclarecer que não cabe a este Tribunal apreciar ofensa a enunciado de súmula em recurso especial, uma vez que tal item não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal.
+Esse entendimento inclusive foi consubstanciado com a edição da Súmula 518 desta Corte Superior, que determina: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+A propósito:
+ADMINISTRATIVO. CONCURSO PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL E AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ANÁLISE DE LEI LOCAL. PROVIDÊNCIA VEDADA NO RECURSO ESPECIAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA À SÚMULA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA N. 518/STJ. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+IV - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência da Súmula n. 518 do Superior Tribunal de Justiça.
+(..)
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.992.186/AP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+No que se refere aos honorários sucumbenciais, vale pontuar que a Corte de origem - ao não adotar os limites percentuais previstos no art. 85, § 2º, do CPC/2015, quais sejam, 10% a 20% sobre o valor da causa- fixou a referida verba de forma equitativa, não se vislumbrando, portanto, interesse recursal quanto à pretensão de utilização da equidade. Oportunamente, confira-se: AgInt no AREsp n. 1.565.521/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022.
+No tocante à existência de eventual desproporcionalidade no montante arbitrado a título de honorários, cumpre destacar que vige nesta Casa entendimento jurisprudencial no sentido de ser possível a revisão da verba honorária quando se revelar ínfima ou excessiva. Nesse sentido: AgInt no REsp n. 1.989.727/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.
+No presente feito, contudo, não se verifica nenhuma exorbitância na quantia estabelecida - 1% sobre o valor da causa, que equivale a R$ 20.360,64 -, de modo que a revisão do valor fixado pelas instâncias de origem ensejaria o revolvimento de matéria fático-probatória, providência incabível no âmbito do recurso especial, ante a incidência do enunciado sumular n. 7/STJ, pois resulta da avaliação subjetiva do magistrado diante das particularidades do caso concreto.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 0,1% sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO DO APELO EXTREMO. SÚMULA 518/STJ. 2. PRETENSÃO DE FIXAÇÃO DA VERBA HONORÁRIA POR APRECIAÇÃO EQUITATIVA. ACÓRDÃO ESTADUAL JÁ NESSE SENTIDO. AUSÊNCIA DE INTERESSE RECURSAL. 3. EXCESSIVIDADE NO MONTANTE ARBITRADO A TÍTULO DE HONORÁRIOS SUCUMBENCIAIS. NÃO OCORRÊNCIA. REVISÃO DA QUANTIA FIXADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. RECURSO ESPECIAL NÃO CONHECIDO.
