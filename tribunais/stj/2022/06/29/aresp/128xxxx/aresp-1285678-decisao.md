@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE INADMISSÃO COM BASE EM DUPLO FUNDAMENTO. PRESSUPOSTOS DE ADMISSIBILIDADE E APLICAÇÃO DE TESE REPETITIVA.NÃO CABIMENTO. MATÉRIA REMANESCENTE. LEGITIMIDADE PASSIVA DO INSS.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO PARCIALMENTE CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgira/insurgiram contra acórdão proferido pelo TRF da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO. ART. 557 DO CÓDIGO DE PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. INSS. LEGITIMIDADE PASSIVA. CONTRATO PARTICULAR DE COMPRA E VENDA. NÃO REGISTRADO. AGRAVO DESPROVIDO.
+1. Da análise da certidão da dívida ativa (cópias às f. 14-19), verifico que o apelante foi apontado como proprietário do imóvel que ensejou a cobrança da Taxa de Resíduos Sólidos Domiciliares - TRSD. Ainda que conste do título executivo a indicação do Sr. Alceu Augusto Ribeiro como compromissário, o embargante, ora agravante, não trouxe aos autos o - compromisso de venda e compra que alega ter firmado com o mesmo, tampouco demonstrou que a propriedade do imóvel foi transferida efetivamente à promitente compradora, uma vez que não há, nos autos, a comprovação do devido registro no Cartório de Imóveis, no que toca à alteração da propriedade do imóvel. Desse modo, não é possível inferir que o imóvel foi transferido a terceiro; uma vez que não atendido o preceito estabelecido pelo artigo 1.245 do Código Civil.
+2. Agravo desprovido.(fl. 99).
+2. Os embargos de declaração opostos foram rejeitados (fls. 120/126).
+3. Nasrazões do seurecurso especial (fls. 130/137), a parte agravante sustentaviolação dos arts. 1.022 do CPC/2015; 32, 34, 77, 130 do CTN e 3º, da Lei n. 6.830/80 ao defender a ilegitimidade passiva do INSS para figurar no polo passivo da execução fiscal referente à Taxa de Resíduos Sólidos Domiciliares tendo em vista que o imóvel não pertence ao INSS e a CDA está em nome de terceiro.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 141/147).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 153/157),razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+9. Ainda, preliminarmente,destaca-se quea decisão de admissibilidade (fls. 153/157), ao negar seguimento ao recurso, apoiou-se em tesefirmadanesta Corte pela sistemática dos recursos repetitivos (543-C do CPC/1973 e art. 1.036 e seguintes do CPC/2015).
+10. Sendo assim,deixo de conhecer da discussão afeta à matéria repetitiva, eis que não é cabível agravo em recurso especial para impugnar decisão que inadmite o recurso especial pela sistemática dos recursos repetitivos. Nesse mesmo sentido, cita-se precedente desta Corte Superior:
+PROCESSUAL CIVIL. JUÍZO DE PRELIBAÇÃO NEGATIVO. TEMA JULGADO EM SEDE DE REPETITIVO. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. PROVA PERICIAL INDEFERIMENTO. CERCEAMENTO DE DIREITO DE DEFESA. INEXISTÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Hipótese em que a decisão denegatória de seguimento do apelo nobre foi publicada após a vigência do CPC/2015, e o tópico recursal relativo à violação dos arts. 492 e 141 do CPC/2015 está associado ao tema repetitivo, razão pela qual o agravo em recurso especial não merece conhecimento nesta parte.
+ ..
+4. Agravo interno desprovido.(AgInt no AgInt no AREsp n. 1.847.878/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA,julgado em 23/5/2022, DJe de 25/5/2022.)
+11.De outro modo, remanesce ao STJ, apreciação de capítulo não relacionado à tese repetitiva.
+12. O Tribunal de origem, afastou a alegação de ilegitimidade passiva do INSS para figurar no polo passivo da execução fiscal, à luz dos seguintes fundamentos:
+A decisão monocrática de f. 70-72 foi proferida nos seguintes termos:
+(..)
+Da análise da certidão da dívida ativa (cópias às f 14-19), verifico que o apelante foi apontado como proprietário do imóvel que ensejou a cobrança da Taxa de Resíduos Sólidos Domiciliares - TRSD .
+Ainda que conste do título executivo a indicação do Sr. Alceu Augusto Ribeiro como compromissário, o embargante, ora apelante, não trouxe aos autos o compromisso de venda e compra que alega ter firma* com o mesmo, tampouco demonstrou que a propriedade do imóvel foi transferida efetivamente à promitente compradora, uma vez que não há, nos autos, a comprovação do devido registro no Cartório de Imóveis, no que toca à alteração da propriedade do imóvel.
+Desse modo, não é possível inferir que o imóvel foi transferido "A terceiro, uma vez que não atendido o preceito estabelecido pelo artigo 1.245 do Código Civil.
+Assim, o apelante é parte legitima para ,figurar no polo passivo da demanda(fls. 100/101).
+13. Como se observa, inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+14. Diante dessas considerações, conheço parcialmente do agravo de INSTITUTO NACIONAL DO SEGURO SOCIAL para negar provimento ao recurso especial.
+15. Publique-se. Intimações necessárias.
