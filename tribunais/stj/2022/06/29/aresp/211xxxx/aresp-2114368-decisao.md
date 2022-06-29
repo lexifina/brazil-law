@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por ARGE LTDA. EM RECUPERACAO JUDICIAL, ARGE LTDA, MAURICIO GIANNI eRENATO TEIXEIRA LACERDA, contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 93):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE RECEBEU SEM EFEITO SUSPENSIVO OS EMBARGOS DA DEVEDORA. DECISÃO MANTIDA. AUSÊNCIA DE VEROSSIMILHANÇA DAS ALEGAÇÕES E DE RISCO DE DANO. RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, manejado com fulcro na alínea a do permissivo constitucional, osrecorrentes alegam ofensa aos arts. 300 e 919, § 1º, do CPC/2015.
+Sustentam, em suma,a necessidade de concessão de efeito suspensivo aos embargos à execução manejados na origem, mormente ante ao preenchimento dos requisitos legais e ao intuitode evitar o risco de prejuízos graves aos recorrentes.
+Deduzem, assim, que os débitos apresentados não condizem com o valor devido, havendo iliquidez do título, bem como referemque a empresa se encontra em recuperação judicial.
+É o breve relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, verifico que o recurso especial não pode ser conhecido.
+Com efeito, o Tribunal de origem, ao afastar a possibilidade de atribuição de efeito suspensivo aos embargos à execução manejados pelos recorrentes, assim se manifestou (e-STJ Fls. 93/94):
+Assentadas tais premissas, verifico que não se trata de hipótese que autorize a suspensão da demanda executiva, visto que estão ausentes os requisitos previstos pelo art. 919, § 1 º,do C.P.C. É que as alegações aduzidas pela agravante dizem respeito ao mérito dos embargos e não podem ser constatadas em cognição sumária da controvérsia. Com efeito, não é admissível, nessa fase processual,a suspensão da execução com base em alegações que demandam cognição exauriente. E, enquanto não for aprofundada a cognição a respeito, não se pode meramente presumir que haja ilegalidade. Em princípio, a força vinculante da cédula deve prevalecer, até que se obtenha eventual declaração judicial em contrário.
+Em resumo, ausentes a relevância dos fundamentos invocados pelo agravante e a demonstração de risco de dano, não há razão par a que se suspenda o prosseguimento do processo de execução.(..) (g.n.)
+A insurgência recursal, no entanto, não refuta todos os argumentos dispostos, notadamente quanto à impossibilidade de discussão da matéria de mérito na presente fase processual, bem como quanto à força vinculante da cédula em comento, fundamentos utilizados para fins de afastar a presença dosrequisitos ensejadores da suspensão pretendida.
+Logo, a teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, ainda que assim não fosse, elidir as conclusões do aresto impugnado quanto à ofensa aos arts. 300 e 919, § 1º, do CPC/2015 e ao preenchimento dos requisitos necessários à concessão do pleito suspensivo aos embargos à execuçãodemandaria, inevitavelmente,o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor daSúmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. No caso, diante das premissas fáticas constantes no acórdão, não está demonstrado o dano de difícil ou incerta reparação necessário à suspensão da execução, mormente considerando que as questões levantadas pela ora agravante revelam a ausência de probabilidade do direito alegado.
+3. Agravo interno não provido.(AgInt no AREsp 1124768/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/10/2017, DJe 25/10/2017) - g.n.
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS ESSENCIAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. GARANTIA DO JUÍZO. NECESSIDADE.
+1. Agravo de instrumento interposto em 27/06/2017, recurso especial interposto em 26/09/2017 e atribuído a este gabinete em 24/09/2018.
+2. O propósito recursal consiste em determinar se houve ilegalidade na decisão que conferiu efeito suspensivo a embargos à execução desacompanhado da respectiva garantia por penhora, depósito ou caução, nos termos do art. 919, § 1º, do CPC/2015. Além disso, o recorrente alega que não estariam preenchidos na hipótese os requisitos previstos no art. 300 do CPC/2015.
+3. Não se conhece da alegação de violação ao art. 300 do CPC/2015 na hipótese, pois ensejaria a necessidade de reexame do acervo fático probatório, o que é contrário à Súmula 7/STJ. Precedentes.
+4. "O art. 919, § 1º, do CPC/2015 prevê que o juiz poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo".Precedentes.
+5. A relevância e a possibilidade de a matéria arguida ser apreciada em sede de exceção de pré-executividade não retira o requisito expressamente previsto para a concessão de efeito suspensivo dos embargos à execução.
+6. Recurso parcialmente conhecido e, nessa parte, provido.(REsp 1772516/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/05/2020, DJe 11/05/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Não há negativa de prestação jurisdicional quando o acórdão recorrido julga de modo claro, coerente e fundamentado a controvérsia, mesmo quando não faz referência expressa a todos os argumentos e artigos indicados nas razões do recurso.
+2. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 739-A do CPC/73 (art. 919, § 1º, do NCPC).
+2.1 O Tribunal de origem, soberano na análise das provas, concluiu pela impossibilidade de se suspender a execução, de forma que a revisão do seu entendimento na via especial está obstada pela Súmula 7 desta Corte.
+3. Agravo interno desprovido.(AgInt no AREsp 1068492/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/03/2020, DJe 25/03/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA C/C REPETIÇÃO E INDENIZAÇÃO. OFENSA AO ART. 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR. FALTA DE PREQUESTIONAMENTO. DEFERIMENTO DA ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS DA TUTELA ANTECIPADA. ART 300 DO CPC/2015. SÚMULA 735/STF. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, conclui pela ausência dos requisitos autorizadores da tutela de urgência. Desse modo, a alteração das conclusões a que chegaram as instâncias ordinárias demandaria o reexame do acervo fático-probatório dos autos.
+4. Divergência jurisprudencial não comprovada em razão de a mera transcrição de ementas não ser suficiente para dar abertura ao apelo especial pela alínea "c" do permissivo constitucional.
+5. Agravo interno desprovido.(AgInt no AREsp n. 1.943.057/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022, DJe de 4/4/2022.) - g.n.
+Destarte, inviável a pretensão dos recorrentes.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015).AGRAVO DE INSTRUMENTO.EMBARGOS À EXECUÇÃO. CONCESSÃO DE EFEITO SUSPENSIVO. REQUISITOS.FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
