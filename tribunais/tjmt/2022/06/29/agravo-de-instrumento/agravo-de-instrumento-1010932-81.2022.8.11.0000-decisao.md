@@ -1,0 +1,38 @@
+RAI. N.o 1010932-81.2022.8.11.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento interposto por BANCO DO BRASIL em face de decisão prolatada pelo juízo da Quarta Vara Cível da Comarca de Rondonópolis, que nos autos n.o 1005434-92.2022.8.11.0003 – Ação de Recuperação Judicial – deferiu o processamento da recuperação judicial de Denizar Luis Barcellos Escobar, Pablo Costa Escobar e Elizabete Medianeira da Costa Escobar.
+Inconformado, em suas razões alega em síntese, que trata-se a ação de origem de “ação de recuperação judicial proposta pelos produtores rurais DENIZAR LUIS BARCELLOS ESCOBAR e OUTROS, onde foi deferido o processamento da recuperação judicia dos requentes em razão do suposto cumprimento dos requisitos elencados nos arts. 48 e 51 da Lei n.o 11.101/2005, afastando a necessidade de realização de perícia prévia ou estudo de viabilidade.
+Sustenta que discorda da decisão agravada, mormente em relação a inclusão das pessoas físicas no polo ativo da demanda, motivo pelo qual pretende a reforma da referida decisão.
+Aduz que a decisão agravada determinou várias medidas, dentre elas, acolheu o pedido de recuperação dos agravados, mesmo sem atender aos requisitos obrigatórios previstos no artigo 48, §§2o a 5o e artigo 51, § 6o, II ambos da lei 11.101/05, com a nova redação dada pela Lei n. 14.112/2020, que exige comprovação da atividade por meio do Livro Caixa Digital do Produtor Rural (LCDPR), ou por meio de obrigação legal de registros contábeis que venha a substituir o LCDPR.
+Ressalta que a reanálise dos pressupostos para admissibilidade do processamento do pedido de recuperação judicial deve ser feita em especial atenção aos parágrafos incorporados ao artigo 48 da Lei no 11.101/2005, cuja vigência é imediata, e que fixaram rol taxativo de documentos necessários ao exame de admissibilidade do pedido de recuperação judicial por produtores rurais pessoas naturais.
+Assevera que para os produtores rurais pessoa física a lei falimentar passou a exigir para comprovação dos dois anos de atividade: I) Livro Caixa Digital do Produtor Rural (LCDPR), ou registro contábil que venha a substitui-lo; II) Declaração do Imposto sobre a Renda da Pessoa Física (DIRPF); e (III) balanço patrimonial elaborado por contador habilitado.
+Destaca que não foi apresentado pelos produtores rurais pessoa física o Livro Caixa Digital do Produtor Rural (LCDPR) com as informações determinadas no art. 48, §3o da Lei 11.101/2005, o qual é requisito obrigatório para comprovação do prazo estabelecido no caput do mencionado artigo e, consequentemente, para o processamento do pedido de recuperação judicial.
+Aduz que o próprio Relatório Circunstanciado da Devedora (RCD), apresentado ao Juízo (Doc. ID 83282857) informa por várias vezes que não foram discriminadas no Livro Caixa Digital do Produtor Rural (LCDPR) as dívidas relacionadas a atividade rural, conforme determinado em Lei.
+Verifica-se também a ausência dos documentos contábeis exigidos na forma os artigos 49, § 6o, C/C §§ 2o e 3o do art. 48 da Lei 11.101.
+Que apesar de terem apresentado as declarações de imposto de renda de pessoa física (DOC ID no 79168765), foi apresentado a DIRPF de apenas um ano, o ano de 2020, contrariando assim o Art. 51, § 6o, II da Lei 11.101/2005 que exige a apresentação dos documentos relacionados aos últimos 2 (dois) anos.
+Ainda, que os balanços patrimoniais, demonstração do resultado de exercício (DREs) e balancetes possuem datas muito próximas e com informações divergentes, demonstrando que foram elaborados somente para a propositura da Recuperação Judicial e com a nítida intenção de obter as benesses do instituto, não refletindo a real situação econômica dos requerentes, fato comprovado no próprio Relatório Circunstanciado da Devedora (RCD).
+Portanto, que não foram observados os padrões de regularidade das informações contábeis prestadas, exigidas pelos artigos 49, § 6o, C/C §§ 3o a 5o, do artigo 48 da Lei no 11.101/2005, introduzidos pela reforma da Lei no 14.112/2020, para a comprovação do exercício regular de suas atividades há mais de 2 (dois) anos, bem como para inclusão dos créditos no processo de recuperação judicial.
+Destaca que o próprio administrador judicial concluiu pela inviabilidade do processo recuperacional, destacando que, os bens e direitos do recuperando são insuficientes para liquidar as obrigações com terceiros, com um alto índice de endividamento de curto prazo.
+Assim, que diante da evidente ausência do preenchimento dos requisitos objetivos para os agravados pleitearem os benefícios da recuperação judicial, requer a reforma da decisão agravada para que seja indeferido o pedido de recuperação judicial das agravadas.
+Discorre sobre a necessidade de atribuição do efeito suspensivo.
+Assevera que o perigo da demora caracteriza-se pelo fato de que o prosseguimento do feito pode culminar com nulidades e refazimento de atos, causando prejuízos ao Agravante e aos demais credores e até às devedoras.
+Requer, liminarmente, a concessão do efeito suspensivo ao presente recurso, para suspender a eficácia da r. decisão judicial, obstando os efeitos da decisão hostilizada, em relação à admissão dos “recuperandos”.
+No mérito a reforma da decisão agravada para que seja indeferido o pedido de recuperação judicial dos agravados.
+É o relatório.
+DECIDO.
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida, quais sejam, houver risco de dano grave, de difícil ou impossível reparação e ficar demonstrada a probabilidade de provimento do recurso (art. 995, parágrafo único, do CPC).
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Soma-se a isso, o estabelecido no art. 1019 do CPC.
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando o juiz sua decisão (...)”.
+Pois bem.
+De acordo com os argumentos apresentados pelo agravante, em sede de cognição sumária, não identifico como relevantes os fundamentos a ensejar a concessão do pretendido efeito.
+No caso, não verifico que a manutenção da decisão agravada poderá acarretar danos irreparáveis à agravante, caso mantida até ulterior julgamento da questão.
+Ademais a matéria devolvida ao conhecimento deste Tribunal é muito complexa, demanda estudo aprofundado sobre os fundamentos jurídicos alinhavados pela agravante, e, ainda, amplo reexame do caderno processual, motivo pelo qual se mostra prudente e ponderado a prévia intimação da parte agravada, e, ainda, a submissão do caso à Turma Julgadora para que ela, em seu conjunto, manifeste-se sobre o imbróglio.
+Isto posto, INDEFIRO o pedido de efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intimem-se os agravados, na forma do art. 1.019, II, do CPC, para que respondam no prazo de 15 dias.
+Após, à douta Procuradoria Geral de Justiça.
+Cumpra-se
+Des. João Ferreira Filho
+Relator, em substituição legal
