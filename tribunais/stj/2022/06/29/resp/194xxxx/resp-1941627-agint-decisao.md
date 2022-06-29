@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por WALDENES BARBOSA ADVOGADOS S.S. contra decisão singular de minha relatoria, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em virtude da ausência de violação do art. 1.022 do Códigode Processo Civil/2015 e da incidência da Súmula 283 do STF(fls. 697/700).
+Nas razões do seu agravo interno, oagravanteafirmaque, mesmo na hipótese de cobrança de dívida já paga, é necessária a comprovação da má-fé para a incidência do disposto no art. 940 do Código Civil.
+Aduz que "o Tribunal a quo, expressamente, se manifestou no sentido de que não houve a má-fé, elemento essencial à aplicação do artigo 940 do Código Civil, seja no todo ou em parte, pois conforme entendimento deste Colendo Tribunal, para resultar na aplicação da sanção prevista no art.940, do Código Civil, pressupõe-se que: (I) tenha havido pagamento e que haja (II) cobrança judicial e (III) má-fé ou dolo do credor" (fl. 715).
+Não foi apresentada a impugnação.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse merece provimento.
+A controvérsia se refere aos embargos à execução no qual a recorrida pleiteou o reconhecimento da nulidade da execução, bem como a quitação da dívida em virtude de cobrança indevida de 50% do valor, pagos no início da contratação.
+No acordão recorrido, o Tribunal de origem, após reconhecer a impossibilidade de cobrança da dívida através de execução, por ausência de título executivo, determinou a quitação da dívida em virtude da cobrança de valor indevido, nos termos do art. 940 do CC. Confira-se:
+Pelo exposto, dá-se provimento parcial ao recurso para acolher os Embargos à Execução e, por consequência, reconhecer a nulidade da Ação de Execução de nº 0030647-24.2017.8.03.0001, bem como reconhecer a quitação da dívida relativa à prestação de serviços advocatícios, por efeito da aplicação do art. 940 do Código Civil  ..  (fl. 381)
+Constou nas razões da decisão ora agravada que o fundamento de nulidade do título executivo (art. 803, I, do CPC/2015)não foi impugnado, o que atrai, quanto ao ponto,a incidência da Súmula 283 do STF por analogia e, portanto, a impossibilidade de afastamento da penalidade do art. 940 do CC.
+A jurisprudência do STJ, contudo, está consolidada no sentido de que, mesmo na hipótese de cobrança de dívida paga, é necessária a comprovação da má-fé para atrair a incidência do art. 940 do CC.
+Nesse sentido, confiram-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM PEDIDO DE REPETIÇÃO DE INDÉBITO. RECURSO DE OLIVÉRIO E OUTRO. PRELIMINAR DE PRESCRIÇÃO RECONHECIDA COM BASE NOS FATOS DA CAUSA. REFORMA. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte orienta que é necessária a comprovação da má-fé do demandante para a aplicação da penalidade prevista no art. 940 do Código Civil.
+3. Tendo o acórdão recorrido atestado a incidência da prescrição com base no exame da situação fática da causa, reconhecendo como termo inicial do prazo prescricional trienal a data do ajuizamento da ação de execução (princípio da actio nata), reformar tal entendimento encontra óbice do enunciado da Súmula nº 7 do STJ.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.634.190/MA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe de 19/11/2021.- sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. COBRANÇA INDEVIDA. RESTITUIÇÃO. ALEGAÇÃO DE MÁ-FÉ A ENSEJAR DEVOLUÇÃO EM DOBRO. REEXAME DE PROVAS. SÚMULAS N. 7 E 83 DO STJ.
+1. A jurisprudência desta Corte orienta que é necessária a comprovação da má-fé do demandante para a aplicação da penalidade prevista no art. 940 do Código Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.752.351/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/6/2021, DJe de 24/6/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ NÃO CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A sanção prevista no art. 940 do CC/2002, aplicável a quem demanda por dívida paga, somente é cabível nas hipóteses em que constatada a ma-fé do credor. Precedentes.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela inexistência de má-fé na cobrança de dívida paga. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.625.737/PR, relator Ministro AntônioCarlos Ferreira, Quarta Turma, julgado em 28/9/2020, DJe de 1/10/2020.)
+No caso dos autos, o Tribunal de origem, apesar de não reconhecera litigância de má-fé, aplicou o art. 940 do CC em virtude da existência de demanda por valor superior ao que era devido. Confira-se:
+Em relação à ausência de condenação do Embargante por litigância de má-fé, tem-se que realmente esta Relatora fez alguns apontamentos durante a sessão de julgamento a respeito da atuação intensa do Embargante como Advogado, no entanto, estas observações foram apenas para corroborar o entendimento esposado por esta Desembargadora no sentido de que o simples ajuizamento de demanda não configurou nenhuma das hipóteses do art. 80 do CPC, conforme restou bem esclarecido no seguinte trecho do acórdão:
+ ..
+Diante disso, com o intuito de sanar este vício, faz-se necessário consignar que esta Relatora renunciou à sua fundamentação a fim de acompanhar na integralidade o voto do Desembargador Carlos Tork no sentido de que as partes realmente celebraram contrato de prestação de serviços advocatícios, sendo este o objeto da execução nº 0030647-24.2017.8.03.0001, no qual se estabeleceu o pagamento de R$ 125.000,00 em trinta (30) dias após a assinatura e R$ 125.000,00 no caso de decisão favorável no processo, sendo que o SESI, ora Embargado, efetuou o pagamento somente da primeira parcela, o que acarretou a busca do crédito pelo Embargante.
+Todavia, como bem pontuado pelo 1ºVogal, o Embargante ajuizou ação buscando o pagamento de R$ 250.000,00, quando, na verdade, já tinha recebido a metade deste valor, conforme nota fiscal nº 270519, processada em 09 de novembro de 2012, o que atrai a incidência do art. 940 do Código Civil parte final, que indica a necessidade daquele que demandar por valor superiorao que é devido, ressarcir o equivalente à parte que foi demandada.
+Pelo exposto, acolhe-se, em parte, os embargos para incluir no acórdão embargado os argumentos lançados ao norte, assim como para alterar a parte dispositiva a fim de que conste o que segue: "Pelo exposto, dá-se provimento parcial ao recurso para, reformando a sentença recorrida, reconhecer a quitação da dívida relativa à prestação de serviços advocatícios, por efeito da aplicação do art. 940 do Código Civil." ..  (fls. 452/454 - sem destaques no original).
+Com isso, verifico que o art. 940 do CC foi aplicado apenas em razão da cobrança de dívida já paga, independente damá-fé do recorrente, motivo pelo qual reconsidero a decisão de fls. 697/700, para determinar o afastamento da penalidade prevista no citado artigo.
+Dito isso, afastoaquitação da dívida, devendo ser mantida a extinção daexecução em virtude da nulidade do título executivo.
+Em face do exposto, douprovimento ao agravo para dar provimento ao recurso especial.
+Intimem-se.
