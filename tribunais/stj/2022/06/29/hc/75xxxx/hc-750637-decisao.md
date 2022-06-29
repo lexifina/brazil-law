@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fls. 16-17):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA DEDICADA AO TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. DECISÃO FUNDAMENTADA. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. ORDEM DENEGADA.
+Paciente investigado por supostamente integrar uma organização criminosa responsável por remeter grandes carregamentos de cocaína para a Europa, fazendo uso de pequenas embarcações e mergulhadores para clandestinamente embarcá-las em navios cargueiros que ficavam fundeados na Baia de Vitória/ES, estando o feito tramitando regularmente, e com celeridade, não obstante a complexidade dos fatos apurados e da grande quantidade de pessoas investigadas. Excesso de prazo não caracterizado..
+Prisão preventiva decretada com o objetivo de garantir a ordem pública, dado o fato de o paciente supostamente concorrer para a movimentação de grandes cargas de cocaína, inclusive, dando suporte logístico em concurso com demais denunciados.
+Os fatos deixam evidente que a soltura do paciente poderá colocar em risco a ordem pública, razão pela qual deve ser mantida a custódia cautelar.
+Justificada a necessidade da prisão preventiva para garantia da ordem pública, verifica-se a inaplicabilidade de quaisquer medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente e denunciado como incurso no art. 33 da Lei 11.343/2006, por duas vezes (uma delas c/c o art. 40, I, da Lei 11.343/2006); art. 35 c/c art. 40, I, da Lei 11.343/2006; art. 36 c/c 40, I, da Lei 11343/2006; e art. 1º da Lei 9.613/98, por três vezes, em concurso material.
+No presente writ, o impetrante alega constrangimento ilegal em virtude do excesso de prazo, uma vez "que o paciente está preso preventivamente desde 17/11/2020, ou seja, há mais de 01 ano e 09 meses, sem perspectiva de julgamento por não ter data marcada para AIJ" (fl. 5).
+Aponta que o Juízo da 3ª Vara Criminal Federal do Estado do Rio de Janeiro, substituiu a prisão preventiva de um dos corréus, sendo possível a extensão desses efeitos ao paciente.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão preventiva ou a concessão de prisão domiciliar.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante. Na hipótese, oimpetrantenão colacionouaos autos a cópia integral do acórdão impugnado. Dessa forma, a ausência de peça essencial ao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido. (AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
