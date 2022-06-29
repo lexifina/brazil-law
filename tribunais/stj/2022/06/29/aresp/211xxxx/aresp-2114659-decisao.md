@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+TÍTULO EXTRAJUDICIAL. APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO COMERCIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.
+1. INEXISTÊNCIA DE ERRO MATERIAL DA SENTENÇA QUANTO À CONDENAÇÃO DO EXECUTADO-EXCIPIENTE AO PAGAMENTODAS VERBAS SUCUMBENCIAIS. BANCO APELANTE (1) QUE INTERPRETOU DE MODO EQUIVOCADO ESSE PONTO DA SENTENÇA. POR CONSEGUINTE, AUSENTE O INTERESSE RECURSAL QUANTO À REDUÇÃO DA VERBA HONORÁRIA.
+2. REJEIÇÃO DA TESE DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE MOTIVAÇÃO NO QUE TOCA A FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. CONDENAÇÃO FUNDAMENTADA NO PRINCÍPIO DA CAUSALIDADE. PERCENTUAL ARBITRADO QUE OBSERVOU OS PARÂMETROS DO ART. 85, § 2º, DO CPC.
+3. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DAS TESES SEDIMENTADAS PELA 2ª SEÇÃO DO STJ NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RECURSO ESPECIAL Nº 1.604.412/SC. APLICAÇÃO OBRIGATÓRIA (CPC, ART. 927,INCISO III).
+4. PRESCRIÇÃO INTERCORRENTE QUE, NO CASO DOS AUTOS, SE INICIOU APÓS DECURSO DE 90 (NOVENTA) DIAS DESUSPENSÃO PROCESSUAL POR AUSÊNCIA DE BENS PENHORÁVEIS E QUE SE CONFIGUROU ANTE A INÉRCIA DO EXEQUENTE POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO (STF, SÚMULA 150). PRINCÍPIO DA SEGURANÇA JURÍDICA. IMPOSSIBILIDADE DE ETERNIZAÇÃO DAS EXECUÇÕES.
+5. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO. AUSÊNCIA DE MOVIMENTAÇÃO PROCESSUAL DURANTE MAIS DE 5 (CINCO) ANOS CONSECUTIVOS, SEM QUALQUER MANIFESTAÇÃO DO EXEQUENTE. TRANSCURSO DO PRAZO PRESCRICIONAL INTERCORRENTE TRIENAL (SÚMULA 150 DO STF; ART. 5º DA LEI N.º 6.840/80; ARTIGO 52 DO DECRETO-LEI Nº 413/69; E ART. 70, DA LEI UNIFORME DE GENEBRA).
+6. INAPLICABILIDADE DO ART. 1.056 DO CPC/2015 AO CASO. PRAZO DE SUSPENSÃO DO PROCESSO QUE SE CONSUMOU ANTES DA VIGÊNCIA DO NOVO CPC. RETROATIVIDADE NÃO PERMITIDA.
+7. CORRETA A SENTENÇA QUANTO À APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. NECESSIDADE DE REFORMA APENAS PARA CONDENAR TODOS OS EXECUTADOS SOLIDARIAMENTE AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS, PORQUE DERAM CAUSA À EXECUÇÃO EM VIRTUDE DO INADIMPLEMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE E DA LÓGICA DO RAZOÁVEL. ADEMAIS, ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+8. INSUBSISTÊNCIA DA TESE DE DUPLICIDADE NA FIXAÇÃO DOS HONORÁRIOS. HONORÁRIOS FIXADOS NO INÍCIO DA EXECUÇÃO QUE SÃO PROVISÓRIOS E DEIXAM DE EXISTIR EM CASO DE ACOLHIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE COM A EXTINÇÃO DA EXECUÇÃO, TAL COMO OCORREU. PRECEDENTES DO STJ.
+9. DESNECESSIDADE DE CONSTITUIR EM MORA O EXCIPIENTE-APELANTE (2), QUE OSTENTA CONDIÇÃO DE AVALISTA. MORA , QUE DECORRE DO SIMPLESES VENCIMENTO DA OBRIGAÇÃO (CC, ART. 397,CAPUT) PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+10. DESCABIDA A FIXAÇÃO DE HONORÁRIOS RECURSAIS(CPC, ART. 85, § 11). BANCO APELANTE (1) QUE NÃO FOI CONDENADO AO PAGAMENTO DOS HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO QUE NÃO TEM CABIMENTO NOS CASOS DE PROVIMENTO PARCIAL DO RECURSO, COMO OCORREU NO APELO (2). RECURSO DE APELAÇÃO (1) DE BANCO DO BRASIL S.A., PARCIALMENTE CONHECIDO E DESPROVIDO. RECURSO DE APELAÇÃO (2) DE ANTÔNIO BEREJUK PARCIALMENTE PROVIDO.
+Alegou-se, no especial, a ocorrência de dissídio jurisprudencial em torno da sucumbência, defendendo-se que o devedor não pode ser onerado por ela se a dívida está prescrita.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que houve o reconhecimento da prescrição intercorrente na execução em favor dos agravantes e, porém, condenando-se estes nos ônus de sucumbência.
+A sentença foireformadaparcialmente apenas para declarar que a condenação nos ônus da sucumbência se fazia de forma solidária entre o agravante e as interessadas.
+As instâncias ordinárias decidiriam em estreita consonância com a jurisprudência desta Casa, segundo a qual cabe mesmo aos devedores arcar com os ônus da sucumbência, porque foi a sua inadimplência que deu causa ao processo.
+Assim:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. ABANDONO DA CAUSA. RECONHECIMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos casos em que o processo executivo, paralisado pela inexistência de bens passíveis de constrição, é extinto pelo reconhecimento da prescrição intercorrente, a jurisprudência do STJ orienta pela aplicação do princípio da causalidade, atribuindo a responsabilidade pelos ônus sucumbenciais àquele que deu causa à instauração do processo, qual seja o devedor-executado.
+2. O recurso especial não comporta o exame de questões que demandem o reexame de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+3. Não se confundem a extinção do processo sem o exame do mérito em razão do abandono da causa (CPC/2015, art. 485, III) com o pronunciamento da prescrição intercorrente, em que se dá a resolução do mérito (CPC/2015, art. 487, II).
+3.1. O reconhecimento do abandono processual pressupõe a manutenção da conduta omissiva da parte, após ser intimada para que dê andamento ao processo (CPC/2015, art. 485, § 1º), enquanto que o reconhecimento da prescrição exige apenas o exercício do contraditório (CPC/2015, art. 487, § ún.).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.948.080/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
