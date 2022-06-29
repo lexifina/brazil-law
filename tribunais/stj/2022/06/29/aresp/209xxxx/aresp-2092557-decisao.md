@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VESTA IMPORTAÇÃO, EXPORTAÇÃO, LOGÍSTICA E SERVIÇOS LTDA contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça deSão Paulo (TJ-SP) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo naalínea"a"dopermissivo constitucional, em face de v. acórdão assim ementado (fls. 177):
+"COMPRA E VENDA DE BEM MÓVEL OBRIGAÇÃO DE FAZER - Ausente prova documental quanto ao alegado envio da "máquina dobradeira automática de facas" para conserto pela Requerida - Autora não comprovou o fato constitutivo do direito - SENTENÇA DE IMPROCEDÊNCIA -Controversos os fatos alegados (aquisição de "máquina dobradeira automática de facas" pela Autora, retirada do equipamento para conserto pela Requerida e não devolução do bem) Necessária a dilação probatória, com a produção de prova oral Autora e Requerida pleitearam a produção de provas.
+- RECURSO DA AUTORA PARCIALMENTE PROVIDO, PARA AFASTAR A SENTENÇA, COM O PROSSEGUIMENTO DO FEITO (NA VARA DE ORIGEM), PARA A PRODUÇÃO DE PROVA ORAL EM AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO"
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 202-205).
+Nas razões do apelo nobre (fls. 208-236),VESTA IMPORTAÇÃO, EXPORTAÇÃO, LOGÍSTICA E SERVIÇOS LTDA aponta ofensa aos arts.370, 371, 373, I, 320 e 434 do CPC/15, ao argumento, entre outros, de que o v. acórdão estadual "(..) afrontou matéria de natureza infraconstitucional pois, como se sabe, o Juiz é o destinatário das provas, sendo a ele permitido indeferir as diligências que entender inúteis e as meramente protelatórias, não havendo que se falar em cerceamento de defesa e nem em ofensa ao direito constitucional previsto no art. 5º, LV, da Constituição Federal ante o indeferimento de provas desnecessárias ao deslinde do feito" (fls. 217).
+Afirma, também, que "(..)o indeferimento, pelo Magistrado sentenciante, das provas pleiteadas pela Recorrida, notadamente a prova oral, encontra-se em consonância com o que determina a legislação pátria, posto que a prova acerca da matéria posta em debate é exclusivamente documental e, ao constatar nos autos a existência de provas suficientes para o seu convencimento, lhe é dado a faculdade de indeferir as diligências inúteis ou meramente protelatórias, por entender desnecessário para o deslinde da causa" (fls. 218).
+Aduz, ainda, que "(..)que a angariação da prova oral não se presta, in casu, para demonstrar, com exatidão, os fatos alegados pela Autora, os quais poderiam e deveriam ser facilmente comprovados por meio documental, sendo, portanto, inútil ao fim a que se destina" (fls. 226).
+Intimada, CLICHERIA REAL LTDA apresentoucontrarrazões (fls. 248-261), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 262-264), motivando o agravo em recurso especial (fls. 267-287) em testilha.
+Também foi oferecida contraminuta (fls. 290-305), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+Como relatado, apontando ofensa aos arts. 370, 371, 373, I, 320 e 434 do CPC/15, a então Recorrente, ora Agravante, defende que não houve cerceamento de defesa e que aprova oralrequerida pela ora Agravada era desnecessária.
+Por sua vez, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu pelo indevido julgamento antecipado da lide, pois referida prova era imprescindível para o deslinde da controvérsia. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 179-180):
+"Porém, em razão da controvérsia acerca dos fatos alegados (aquisição de "máquina dobradeira automática de facas"pela Autora, retirada do equipamento para conserto pela Requerida e não devolução do bem), de rigor a dilação probatória, para a produção de prova oral (depoimento pessoal e prova testemunhal) em audiência de instrução e julgamento, notando-se que aAutora e a Requerida pleitearam a produção de provas na petição inicial e na contestação de fls.70/90.
+Dessa forma, descabido o julgamento antecipado da lide,impondo-se o parcial provimento do recurso, para afastar a sentença, com o prosseguimento do feito (na Vara de origem).
+Ante o exposto, dou parcial provimento ao recurso, para afastar a sentença, com o prosseguimento do feito (na Vara de origem), para a produção de prova oral em audiência de instrução e julgamento".
+(g. n.)
+Nesse contexto, considerando as circunstâncias do caso concreto, a pretensão de alterar o entendimento ora transcrito - para reconhecer a desnecessidade da prova oralsob a alegação de ofensa aos mencionados dispositivos legais - demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n.7/STJ. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021 - g. n.)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRECLUSÃO. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA. CERCEAMENTO DE DEFESA RECONHECIDO PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, a eg. Corte de origem reconheceu que o cerceamento de defesa estaria configurado e que a produção de prova seria necessária, já que teria influência na solução da lide. Reapreciar a ocorrência de cerceamento de defesa demandaria, necessariamente, a incursão no substrato fático-probatório dos autos, o que é vedado no âmbito do recurso especial, por incidência da Súmula 7/STJ.
+2. Agravo interno não provido."
+(AgInt no AREsp 950.792/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/08/2021, DJe 16/09/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
