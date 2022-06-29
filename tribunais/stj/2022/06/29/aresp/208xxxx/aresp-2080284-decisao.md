@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+COMPRAE VENDA IMOBILIÁRIA. RESCISÃO CONTRATUAL. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ILEGITIMIDADE PASSIVA. CAUSALIDADE.
+Tendo a autora dado causa ao chamamento indevido dos réus Odílio Rodrigues Filho e Margarida Emília Coutinho Marques Rodrigues, excluídos da lide por ilegitimidade passiva, deve arcar com os honorários advocatícios dos patronos vencedores. Princípio da causalidade. Redução da verba honorária devida pelas rés, ora apelantes. Honorários advocatícios. Arbitramento por equidade. Possibilidade. Adoção do valor executado para cálculo dos honorários advocatícios que ensejaria a fixação de montante exorbitante, incompatível com o trabalho desempenhado pelos patronos. Vedação ao enriquecimento sem causa pelo ordenamento jurídico. Aplicação do art. 85, § 8º, do CPC. Jurisprudência deste E. Tribunal. Recurso provido.
+Alegou-se, no especial, violação dos artigos 82, § 2º, e 85, § 2º, 8º e 10, do Código de Processo Civil sob o argumento de que os interessados deram causa ao ajuizamento da demanda e, por tal razão, seriam eles os responsáveis pelo pagamento da verba de sucumbência e que, em relação às agravadas, a verba de patrocínio há de ser fixada nos percentuais determinados por lei e não por equidade.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que a recorrente ingressou com pedido de rescisão de contrato e condenação em perdas e danos aforado contra as agravadas e os interessados, julgado procedente em relação às agravadas e extinto o processo por ilegitimidade passiva em relação aos interessados.
+Leia-se o dispositivo da sentença:
+"Isto posto, julgo EXTINTO o feito em relação aos réus Odílio Rodrigues Filho e Margarida Emília Coutinho Marques Rodrigues por ausência de legitimidade processual e PROCEDENTE os pedidos descritos na inicial em relação a Marinho Participações Ltda e Umbrela Gestão Patrimonial Ltda, DECLARO extinção contratual, CONDENO-OS a proceder a devolução do valor de R$ 500.000,00, com incidência de juros e correção monetária contados da citação.
+Arcarão os réus Marinho Participações Ltda e Umbrela Gestão Patrimonial Ltda com as despesas processuais e honorários advocatícios do autor e dos réus Odílio Rodrigues Filho e Margarida Emília Coutinho Marques Rodrigues que fixo em 10% sobre o valor da causa." (e-STJ, fl. 208).
+O Tribunal local procedeu à reforma da verba de sucumbência nos seguintes termos:
+"Pelo exposto, DOU PROVIMENTO ao recursopara reduzir a verba honorária devida pelas rés, em favor do patrono da autora, para R$ 5.000,00 (cinco mil reais) e condenar a autora ao pagamento dos honorários do advogado dos réus Odílio Rodrigues Filho e Margarida Emília Coutinho Marques Rodrigues, ora arbitrados, por equidade, em R$ 5.000,00" (e-STJ, fls. 294/295).
+Duas foram, como se lê, as modificações operadas na sentença pelo acórdão estadual.
+A primeira, no sentido de que seria autora, e não as agravadas, que deveria arcar com os honorários advocatícios dos réus excluídos da demanda.
+A segundafoi a fixação da verba de sucumbência por equidade.
+No que toca à causalidade, se apontaram mal os réus da demanda, cabe mesmo à parte autora arcar com os honorários de sucumbência, já que, quanto a eles,o autor deu indevidamente causa à instauração da demanda, o que atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal e 7 desta Casa.
+No que toca, outrossim, à sucumbência devida pelas agravadas, tem razão a recorrente.
+Esta Corte tem decidido que a fixação de honorários por equidade se constitui em exceção no atual sistema processual, sendo cabível apenas nas hipóteses em que o benefício econômico é inestimável, irrisório ou quando for muito baixo o valor da causa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. OBJETO. PERDA SUPERVENIENTE. HONORÁRIOS. ART. 85, § 8º, DO CPC. EXCEÇÃO. CASO CONCRETO. ART. 85, § 2º, DO CPC. NÃO PROVIMENTO.
+1. "A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+Hipóteses não verificadas no caso em apreço." (AgInt no REsp 1684080/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021) 2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.838.582/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+As agravadas, no caso dos autos, foram condenadas em quantia fixa e em valor que não se mostra irrisório, de modo que não cabe a fixação por equidade.
+Diante do exposto, conheço do agravo e dou parcial provimento ao recurso especial para que as agravadas arquemcomverba honorária de 10% (dez por cento) sobre o valor da condenação em favor da recorrente, nos termos dos artigos 82, § 2º, e 85, § 2º, do Código de Processo Civil, mantido, no mais, acórdão local.
+Intimem-se.
