@@ -1,0 +1,113 @@
+Decisão: Trata-se de reclamação constitucional com pedido liminar, ajuizada pelo Município do Rio de Janeiro em face de acórdão proferido pelo Tribunal Regional do Trabalho da 1ª Região, nos autos do Processo 0100869-11.2017.5.01.0005.
+
+    Eis a ementa do julgado:
+
+    “AGRAVO DE PETIÇÃO. MUNICÍPIO. IMPUGNAÇÃO APÓS EXPEDIÇÃO DO PRECATÓRIO. ALEGAÇÃO DE VIOLAÇÃO A COISA JULGADA. O procedimento executório deve restar adstrito aos precisos limites do comando sentencial, sob pena de violar-se a coisa julgada (inciso XXXVI do artigo 5º do Texto Constitucional em vigor). É defeso às partes, bem como a qualquer auxiliar do Juízo e ao próprio Juízo, na liquidação, inferir de maneira a modificar ou inovar a sentença liquidanda, nos termos do § 1º do artigo 879 da CLT. CORREÇÃO MONETÁRIA. PARÂMETROS. STF: ADC's 58 e 59 e ADI's 5867 e 6021. No julgamento das ADC's 58 e 59 e ADI's 5867 e 6021, o E. STF decidiu ser inconstitucional a aplicação da TR - taxa referencial para a correção monetária de débitos trabalhistas e de depósitos recursais no âmbito da Justiça do Trabalho, devendo ser aplicados o IPCA-E - índice nacional de preços ao consumidor amplo especial, na fase pré-judicial, e, a partir do ajuizamento, sendo esse o marco inicial, a taxa SELIC. Agravo de petição conhecido e parcialmente provido”. (eDOC 21)
+
+    Em suas razões, a Municipalidade alega, em síntese, que a decisão impugnada ofende a autoridade desta Corte, consubstanciada nas ADC 58, ADC 59, ADI 5.867 e ADI 6.021, ao impor o pagamento de juros de mora no percentual de 1% (um por cento) ao mês, uma vez que a taxa SELIC engloba juros e correção monetária.
+
+    Em suas palavras:
+
+    “No julgamento do agravo de petição 0100869-11.2017.5.01.0005, ocorrido entre 23/2/2022 e 7/3/2022, ou seja, já após a decisão nas ADCs 58 e 59, bem como nas ADINs 5.867 e 6.021 (julgadas em 18/12/2020), a c. 7ª Turma do TRT da 1ª Região houve por bem determinar que a atualização do crédito trabalhista se fizesse mediante a aplicação do IPCA-e, como índice de atualização monetária, na fase pré-processual, e, na fase processual, da Selic, mas de forma cumulada como juros de 1% ao mês, a partir do ajuizamento da reclamação trabalhista, e assim agiu pretendendo aplicar à hipótese concreta o entendimento do e. STF no julgamento das ADCs 58 e 59 e das ADIns 5.867 e 6.021. Assim o fez porque entendeu que a decisão com trânsito em julgado na fase de conhecimento estabelecera a taxa de juros de 1% ao mês, mas omitira-se em relação ao índice de correção monetária aplicável. Dessa maneira, o acórdão reclamado manteve os juros de 1% ao mês, mas junto com essa taxa determinou a aplicação da Selic.
+
+    (...)
+
+    Parece bastante claro que a decisão transitada em julgado, sobre o tema da atualização do crédito reconhecido, fixou apenas a taxa de juros, mas não elegeu o índice de correção monetária aplicável para o caso presente.
+
+    (…)
+
+    E se é assim, então, pela omissão da decisão transitada em julgado (omissão em relação ao índice de correção monetária), haveriam de ser aplicados os novos critérios de atualização definidos pelo STF ao julgar as ADCs 58 e 59 e as ADIns 5.867 e 6.021.
+
+    Não havendo o d. Tribunal reclamado interpretado com correção o teor da decisão da STF – com efeito vinculante – mister seja a decisão que afronta a autoridade do julgado do STF cassada, para que outra seja proferida em seu lugar, desta vez observando adequadamente os termos lançados no acórdão daquelas ADCs e ADIns.
+
+    Nunca é demais destacar que o entendimento expresso pelo e. STF por ocasião do julgamento das ADCs 58 e 59, e das ADINs 5.867 e 6.021, é no sentido de se preservarem as decisões transitadas em julgado quando houverem indicado tanto a taxa de juros, quanto o índice de correção monetária. À míngua de estabelecimento de ao menos um desses valores, os parâmetros fixados pelo e. STF na decisão que se tem por paradigma deverão prevalecer inclusive sobre o critério porventura indicado na decisão com trânsito em julgado.
+
+    Em outras palavras: ou houve fixação tanto da taxa de juros, quanto do índice de correção monetária, ou devem ser aplicados os parâmetros definidos pelo STF no julgamento das ADC 58 e 59 e das ADINs 5.867 e 6.021”. (eDOC 1, pp. 8-11)
+
+    Requer assim a concessão de medida liminar para suspender os efeitos da decisão reclamada e, ao final, sua cassação “determinando que outra, em conformidade com a força vinculante do julgado nas ADCs 58 e 59 e das ADIns 5.867 e 6.021, seja proferida em seu lugar”. (eDOC 1, p. 15)
+
+    Deferi a liminar para determinar a suspensão dos efeitos da decisão reclamada até a decisão final desta reclamação, no que diz respeito à cumulação da rtaxa SELIC com de juros de mora de 1% ao mês. (eDOC 24)
+
+    A autoridade reclamada prestou informações. (eDOC 32)
+
+    Citada por edital (eDOC 39), a beneficiária Nilda Martins Rocha deixou de apresentar contestação, consoante eDOC 41.
+
+    A Procuradoria-Geral da República manifestou pela procedência da presente reclamação, através de parecer assim ementado:
+
+    “RECLAMAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DA AUTORIDADE DAS DECISÕES PROFERIDAS NAS ADCS 58/DF E 59/DF E NAS ADIS 5.867/DF E 6.021/DF. MODULAÇÃO. ÍNDICES DE CORREÇÃO MONETÁRIA DOS DÉBITOS JUDICIAIS NA JUSTIÇA DO TRABALHO. PROCEDÊNCIA. 1. A decisão reclamada, ao deliberar pela utilização, na fase extrajudicial, do IPCA-E e, na fase judicial, da SELIC cumulada com juros de 1%, não observou os respectivos parâmetros de modulação e a autoridade do decidido, pelo Supremo Tribunal Federal, no julgamento das ADCs 58/DF e 59/DF e das ADIs 5.867/DF e 6.021/DF, pelo qual se definiu que, até que sobrevenha solução legislativa, deverão ser aplicados à atualização dos créditos decorrentes de condenação judicial, na Justiça do Trabalho, o ‘IPCA-E na fase pré-judicial e SELIC a partir do ajuizamento da ação’.
+
+    — Parecer pela procedência do pedido”. (eDOC 43)
+
+    É o relatório. Decido.
+
+    Ressalto que a reclamação, tal como prevista no art. 102, I, “l”, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante. (CF/88, art. 103-A, § 3º)
+
+    No caso, entendo existir plausibilidade jurídica na tese defendida pelo reclamante.
+
+    O reclamante sustenta violação ao decidido por esta Corte no julgamento conjunto das ADC 58, ADC 59, ADI 5.867 e ADI 6.021, todas de minha relatoria, no qual o Plenário desta Corte, conferindo interpretação conforme à Constituição ao art. 879, § 7º, e ao art. 899, § 4º, da CLT, na redação dada pela Lei 13.467 de 2017, determinou, até que sobrevenha solução legislativa, a aplicação dos mesmos índices de correção monetária e de juros vigentes para as condenações cíveis em geral, quais sejam, a incidência do IPCA-E na fase pré-judicial e, a partir da citação, a incidência da taxa SELIC. A propósito, transcrevo ementa desse julgado:
+
+    “DIREITO CONSTITUCIONAL. DIREITO DO TRABALHO. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE E AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE. ÍNDICES DE CORREÇÃO DOS DEPÓSITOS RECURSAIS E DOS DÉBITOS JUDICIAIS NA JUSTIÇA DO TRABALHO. ART. 879, §7º, E ART. 899, §4º, DA CLT, NA REDAÇÃO DADA PELA LEI 13. 467, DE 2017. ART. 39, CAPUT E §1º, DA LEI 8.177 DE 1991. POLÍTICA DE CORREÇÃO MONETÁRIA E TABELAMENTO DE JUROS. INSTITUCIONALIZAÇÃO DA TAXA REFERENCIAL (TR) COMO POLÍTICA DE DESINDEXAÇÃO DA ECONOMIA. TR COMO ÍNDICE DE CORREÇÃO MONETÁRIA. INCONSTITUCIONALIDADE. PRECEDENTES DO STF. APELO AO LEGISLADOR. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE E AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE JULGADAS PARCIALMENTE PROCEDENTES, PARA CONFERIR INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO AO ART. 879, §7º, E AO ART. 899, §4º, DA CLT, NA REDAÇÃO DADA PELA LEI 13.467, DE 2017. MODULAÇÃO DE EFEITOS. 1. A exigência quanto à configuração de controvérsia judicial ou de controvérsia jurídica para conhecimento das Ações Declaratórias de Constitucionalidade (ADC) associa-se não só à ameaça ao princípio da presunção de constitucionalidade – esta independe de um número quantitativamente relevante de decisões de um e de outro lado –, mas também, e sobretudo, à invalidação prévia de uma decisão tomada por segmentos expressivos do modelo representativo. 2. O Supremo Tribunal Federal declarou a inconstitucionalidade do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, decidindo que a TR seria insuficiente para a atualização monetária das dívidas do Poder Público, pois sua utilização violaria o direito de propriedade. Em relação aos débitos de natureza tributária, a quantificação dos juros moratórios segundo o índice de remuneração da caderneta de poupança foi reputada ofensiva à isonomia, pela discriminação em detrimento da parte processual privada (ADI 4.357, ADI 4.425, ADI 5.348 e RE 870.947-RG – tema 810). 3. A indevida utilização do IPCA-E pela jurisprudência do Tribunal Superior do Trabalho (TST) tornou-se confusa ao ponto de se imaginar que, diante da inaplicabilidade da TR, o uso daquele índice seria a única consequência possível. A solução da Corte Superior Trabalhista, todavia, lastreia-se em uma indevida equiparação da natureza do crédito trabalhista com o crédito assumido em face da Fazenda Pública, o qual está submetido a regime jurídico próprio da Lei 9.494/1997, com as alterações promovidas pela Lei 11.960/2009. 4. A aplicação da TR na Justiça do Trabalho demanda análise específica, a partir das normas em vigor para a relação trabalhista. A partir da análise das repercussões econômicas da aplicação da lei, verifica-se que a TR se mostra inadequada, pelo menos no contexto da Consolidação das Leis Trabalhistas (CLT), como índice de atualização dos débitos trabalhistas. 5. Confere-se interpretação conforme à Constituição ao art. 879, §7º, e ao art. 899, §4º, da CLT, na redação dada pela Lei 13.467, de 2017, definindo-se que, até que sobrevenha solução legislativa, deverão ser aplicados à atualização dos créditos decorrentes de condenação judicial e à correção dos depósitos recursais em contas judiciais na Justiça do Trabalho os mesmos índices de correção monetária e de juros vigentes para as hipóteses de condenações cíveis em geral (art. 406 do Código Civil), à exceção das dívidas da Fazenda Pública que possui regramento específico (art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009), com a exegese conferida por esta Corte na ADI 4.357, ADI 4.425, ADI 5.348 e no RE 870.947-RG (tema 810). 6. Em relação à fase extrajudicial, ou seja, a que antecede o ajuizamento das ações trabalhistas, deverá ser utilizado como indexador o IPCA-E acumulado no período de janeiro a dezembro de 2000. A partir de janeiro de 2001, deverá ser utilizado o IPCA-E mensal (IPCA-15/IBGE), em razão da extinção da UFIR como indexador, nos termos do art. 29, § 3º, da MP 1.973-67/2000. Além da indexação, serão aplicados os juros legais (art. 39, caput, da Lei 8.177, de 1991). 7. Em relação à fase judicial, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia – SELIC, considerando que ela incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95; 84 da Lei 8.981/95; 39, § 4º, da Lei 9.250/95; 61, § 3º, da Lei 9.430/96; e 30 da Lei 10.522/02). A incidência de juros moratórios com base na variação da taxa SELIC não pode ser cumulada com a aplicação de outros índices de atualização monetária, cumulação que representaria bis in idem. 8. A fim de garantir segurança jurídica e isonomia na aplicação do novo entendimento, fixam-se os seguintes marcos para modulação dos efeitos da decisão: (i) são reputados válidos e não ensejarão qualquer rediscussão, em ação em curso ou em nova demanda, incluindo ação rescisória, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os juros de mora de 1% ao mês, assim como devem ser mantidas e executadas as sentenças transitadas em julgado que expressamente adotaram, na sua fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentença, inclusive na fase recursal, devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária), sob pena de alegação futura de inexigibilidade de título judicial fundado em interpretação contrária ao posicionamento do STF (art. 525, §§ 12 e 14, ou art. 535, §§ 5º e 7º, do CPC. 9. Os parâmetros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentença não tenha consignado manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais). 10. Ação Declaratória de Constitucionalidade e Ações Diretas de Inconstitucionalidade julgadas parcialmente procedentes”. (Tribunal Pleno, DJe 7.4.2021, grifo nosso)
+
+    Na oportunidade, ficou assentado que a incidência de juros moratórios com base na taxa SELIC não pode ser cumulada com a aplicação de nenhum outro índice de atualização do débito judicial, sob pena de caracterização de bis in idem.
+
+    Ainda, destaquei que, para evitarem-se incertezas, o que ocasionaria grave insegurança jurídica, deveriam ser fixados alguns marcos jurídicos de modulação dos efeitos da decisão, entre eles a aplicação de eficácia erga omnes e efeito vinculante para aqueles feitos já transitados em julgado, desde que sem qualquer manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais).
+
+    Na espécie, verifica-se que o Juízo de origem, ao proferir sentença condenatória, consignou o seguinte: “Juros de 1% a.m., a partir da data do ajuizamento. O índice de atualização monetária será aquele do primeiro dia do mês subsequente ao que foram prestados serviços, observadas as regras contidas na legislação pertinente”. (eDOC 7, p. 6)
+
+    A autoridade reclamada (TRT da 1ª Região), por sua vez, entendeu que, no caso, caberia a cumulação da taxa SELIC com juros de mora de 1% ao mês, sob a seguinte fundamentação:
+
+    “Sabe-se que em sessão plenária realizada no dia 18 de dezembro de 2020, o E. STF, por maioria de votos, nos autos das ações declaratórias de constitucionalidade ADC's 58 e 59 propostas pela Consif - Confederação Nacional do Sistema Financeiro e pela Contic - Confederação Nacional da Tecnologia da Informação e Comunicação, e das ações diretas de inconstitucionalidade ADI's 5.867 e 6.021 propostas pela Anamatra - Associação Nacional dos Magistrados da Justiça do Trabalho, relatadas pelo i. Ministro Gilmar Mendes, declarou ser inconstitucional a aplicação da TR - taxa referencial como índice de correção monetária dos débitos trabalhistas e de depósitos recursais, determinando, assim, a aplicação do IPCA-e (índice nacional de preço ao consumidor amplo especial) até a citação e, a partir de então, a taxa SELIC (sistema especial de liquidação e custódia). Estes, portanto, os parâmetros que devem ser adotados.
+
+    As ações de controle de constitucionalidade supracitadas apenas deliberam sobre o índice de correção monetária a ser aplicado ao crédito trabalhista, nada mencionando acerca dos juros, ao que se acrescenta a plena vigência dos artigos 883 da CLT e 39 da Lei 8.177/91, por não revogados e nem mesmo terem sua constitucionalidade questionada.
+
+    Como consta na decisão acima transcrita, é inegável nos autos que a aplicação dos juros de 1% ao mês se tornou imutável ao ser coberta pelo manto da coisa julgada. A proteção, que já é expressa na CRFB em seu artigo 5º, XXXVI, foi reforçada pelo próprio STF na modulação dos efeitos da decisão das ADCs 58 e 59. Cito:
+
+    (…)
+
+    Contudo, a sentença que se pretende executar não fixou o índice relativo à correção monetária, limitando-se a determinar ‘O índice de atualização monetária será aquele do primeiro dia do mês subsequente ao que foram prestados serviços, observadas as regras contidas na legislação pertinente.’, de forma que devem ser aplicados o IPCA-e - índice nacional de preços ao consumidor amplo especial, até o ajuizamento, fase pré-judicial, e, até o efetivo pagamento, a taxa Selic - sistema especial de liquidação e custódia, com incidência de juros de 1% ao mês, simples, a partir da data do ajuizamento da ação porque já transitado em julgado a sentença exequenda.
+
+    Por tudo que foi exposto, dou parcial provimento ao agravo do executado”. (eDOC 21, pp. 3-4 - grifei)
+
+    Como se infere da decisão transcrita, aplicou-se índice de correção monetária para a fase pré-judicial nos termos do que foi decidido pelo STF. Não foi observado, no entanto, o precedente vinculante no que tange à atualização do débito na fase judicial, que deve ocorrer apenas pela incidência da taxa SELIC (juros de mora e correção monetária).
+
+    Desse modo, entendo que a decisão reclamada, ao utilizar a taxa SELIC como índice de correção monetária do débito trabalhista cumulada com juros de 1% ao mês, ofendeu ao decidido no julgamento conjunto das ADC 58, ADC 59, ADI 5.867 e ADI 6.021.
+
+    Em caso semelhante, confira-se o seguinte precedente:
+
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. NULIDADE POR AUSÊNCIA DE CITAÇÃO DO BENEFICIÁRIO DA DECISÃO RECLAMADA (ART. 989, III, CPC). INOCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. VIOLAÇÃO AO QUE DECIDIDO POR ESTA CORTE NO JULGAMENTO DA ADC 58. INCIDÊNCIA DA MODULAÇÃO DE EFEITOS ALI DETERMINADA. RECURSO DE AGRAVO DESPROVIDO. (...) 2. O ato reclamado, ao homologar os cálculos apresentados, utilizando-se o índice TR até 24/3/2015 e o IPCA-E a contar de 25/3/2015, violou a decisão proferida por esta CORTE na ADC 58, a qual determinou expressamente que, ‘em relação à fase judicial, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia SELIC, considerando que ela incide como juros moratórios dos tributos federais’. 3. Havendo trânsito em julgado do processo na origem em data anterior à sessão de julgamento da ADC 58, aliado ao fato de não existir expressa manifestação quanto ao índice de correção monetária na fase de conhecimento, incide a modulação de efeitos determinada no paradigma de controle, no sentido de que ‘os parâmetros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentença não tenha consignado manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais)’. 4. Juros de mora e correção monetária possuem natureza de ordem pública, motivo pelo qual podem ser modificados a qualquer tempo no processo, não caracterizando reformatio in pejus ou preclusão. 5. Recurso de Agravo a que se nega provimento”. (Rcl 48.135 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 27.8.2021)
+
+    Confiram-se ainda os seguintes precedentes monocráticos: Rcl 46.970, Rel. Min. Cármen Lúcia, DJe 4.5.2021; Rcl 47.464, Min. Rel. Alexandre de Moraes, DJe 27.5.21 e Rcl 50.884, Min. Rel. Dias Toffoli, DJe 10.12 .2021.
+
+    Corrobora esse entendimento a manifestação do Parquet, de seguinte teor:
+
+    “Direcionando-se, agora, para o teor da decisão reclamada, a Sétima Turma do TRT da 1ª Região entendeu pela incidência de juros de mora de 1% ao mês, fixando-os cumulativamente com a taxa SELIC na fase judicial, sob os seguintes fundamentos (fls. 117/118):
+
+    (…)
+
+    Contudo, a cumulação de juros com índice de correção monetária, na fase judicial, foi expressamente afastada no julgamento dos paradigmas invocados, conforme se vê do seguinte trecho da ementa do julgado na ADC 58/DF:
+
+    (…)
+
+    Desta forma, o decisum guerreado firma compreensão antagônica àquela alcançada, pela Suprema Corte, nos paradigmas de controle e explicitada na modulação de efeitos então delineada.
+
+    A cumulação dos juros com a SELIC, na fase judicial, gera anatocismo, o que vai de encontro com o decidido nas decisões paradigmas. Nesse sentido a recente decisão proferida na Rcl 46.882/BA, de relatoria do Ministro Dias Toffoli:
+
+    (…)
+
+    Em conformidade com esse posicionamento, aponta-se a decisão proferida na Rcl 48.065/RJ (Rel. Min. Gilmar Mendes), no sentido de que ‘(…) a decisão reclamada ao utilizar a taxa SELIC como índice de correção monetária do débito trabalhista cumulada com juros de 1% ao mês, ofendeu ao decidido no julgamento conjunto das ADC 58, ADC 59, ADI 5.867 e ADI 6.021’.
+
+    Por fim, a consequência da procedência do pedido é a cassação da decisão reclamada para que outra seja proferida, em observância à tese jurídica fixada, pelo Supremo Tribunal Federal, por ocasião do julgamento das Ações Declaratórias de Constitucionalidade 58/DF e 59/DF e das Ações Diretas de Inconstitucionalidade 5.867/DF e 6.021/DF.
+
+    Entendimento diverso, ou seja, o julgamento da causa diretamente pela Suprema Corte, no âmbito estreito da reclamação constitucional, teria por efeito, nesta e na maioria dos casos, a supressão de instâncias e a ofensa aos princípios do juiz natural, do contraditório e da ampla defesa e, por consequência, do devido processo legal”. (eDOC 43)
+
+    Ante o exposto, julgo procedente a presente reclamação para cassar o ato reclamado (proferido nos autos do Processo 0100869-11.2017.5.01.0005), no que diz respeito à incidência simultânea de juros de mora de 1% ao mês e correção pela taxa SELIC, determinando que outra decisão seja proferida com observância da tese jurídica fixada pelo Supremo Tribunal Federal no julgamento das Ações Declaratórias de Constitucionalidade 58/DF e 59/DF e das Ações Declaratórias de Inconstitucionalidade 5.867/DF e 6.021/DF (art. 21, § 1º, do RISTF).
+
+    Comunique-se. Publique-se.
+
+    Brasília, 29 de junho de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
