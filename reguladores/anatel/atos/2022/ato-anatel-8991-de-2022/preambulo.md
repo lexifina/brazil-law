@@ -1,0 +1,17 @@
+Ato nº 8991, de 27 de junho de 2022
+O SUPERINTENDENTE DE OUTORGA E RECURSOS À PRESTAÇÃO DA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES - ANATEL, no uso de suas competências, consoante o disposto no art. 156 e incisos, do Regimento Interno da Anatel, aprovado pela Resolução nº 612, de 29 de abril de 2013, e;
+CONSIDERANDO o disposto no inciso VIII do art. 19 da Lei nº 9.472, de 1997, cabe à Anatel administrar o espectro de radiofrequências, expedindo as respectivas normas;
+CONSIDERANDO o disposto no art. 161 da Lei nº 9.472, de 1997, que determina que a qualquer tempo poderá ser modificada a destinação de radiofrequências ou faixas, bem como ordenada a alteração de potências ou de outras características técnicas, desde que o interesse público ou o cumprimento de convenções ou tratados internacionais assim o determine;
+CONSIDERANDO a competência da Anatel para regular a utilização eficiente e adequada do espectro, restringindo o emprego, ou modificando a destinação de faixas de radiofrequências;
+CONSIDERANDO o fato de o espectro de radiofrequências ser um bem público e escasso, administrado pela Agência;
+CONSIDERANDO a necessidade de otimizar o uso das faixas de radiofrequências;
+CONSIDERANDO a crescente demanda de espectro para uso de tecnologias 5G por redes privativas em soluções de automação industrial da chamada Indústria 4.0;
+CONSIDERANDO a Proposta de Atuações Regulatórias (SEI nº 3077101), aprovada pelo Acórdão nº 651 (SEI nº 3434164), nos autos do Processo nº 53500.014958/2016-89;
+CONSIDERANDO o disposto nos arts. 5º e 7º da Resolução nº 742, de 1º de março de 2021 que destinou a subfaixa de radiofrequências de 3.700 MHz a 3.800 MHz para prestação do Serviço Móvel Pessoal (SMP), do Serviço Telefônico Fixo Comutado (STFC), do Serviço de Comunicação Multimídia (SCM) e do Serviço Limitado Privado (SLP), em caráter primário;
+CONSIDERANDO o disposto no art. 5º da Resolução nº 742, de 1º de março de 2021 que decidiu que estações dos serviços terrestres não poderão causar interferência prejudicial ou reclamar proteção contra interferência prejudicial em relação a estações do serviço fixo por satélite devidamente licenciadas ou cadastradas na faixa de 3.700 MHz a 3.800 MHz;
+CONSIDERANDO o disposto no art. 12 da Resolução nº 742, de 1º de março de 2021 que determina que sistemas terrestres operando na faixa de radiofrequências de 3.700 MHz a 3.800 MHz devem, preferencialmente, estar confinados a ambientes internos de edificações ou, caso operarem em ambientes externos, possuírem áreas limitadas de cobertura;
+CONSIDERANDO o disposto nos §§ 1º e 2º, do art. 4º, do Regulamento Anexo a Resolução nº 711, de 28 de maio de 2019, alterada pela Resolução nº 742, de 1º de março de 2021, que prevê que os limites de potência de estações operando na faixa de 3.300 MHz a 3.800 MHz serão estabelecidos por meio de Requisitos Técnicos aprovados por Ato da Superintendência responsável pela administração do uso do espectro de radiofrequências;
+CONSIDERANDO a Resolução nº 689, de 14 de novembro de 2017, que aprovou o Regulamento de Controle das Áreas de Proteção Adjacentes às Estações de Monitoramento sob responsabilidade da Anatel;
+CONSIDERANDO as contribuições recebidas em decorrência da Consulta Pública nº 30, de 8 de junho de 2021, publicada no Boletim de Serviço Eletrônico de 10 de junho de 2021; e
+CONSIDERANDO o constante dos autos do processo nº 53500.027382/2021-87,
+RESOLVE:
