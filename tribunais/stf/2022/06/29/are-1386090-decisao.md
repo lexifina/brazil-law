@@ -1,0 +1,75 @@
+DIREITO ELEITORAL. PARTIDO POLÍTICO. REPROVAÇÃO DE CONTAS. CONDENAÇÃO. AGRAVO INTERNO NA CORTE A QUO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA CONSTATADA PELO TRIBUNAL DE ORIGEM. ARGUMENTAÇÃO ACERCA DA REPERCUSSÃO GERAL. INEXISTÊNCIA. PRAZO PROCESSUAL DO TRIBUNAL SUPERIOR ELEITORAL. TRÊS DIAS. AGRAVO INTEMPESTIVO. RECURSO EXTRAORDINÁRIO COM AGRAVO A QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal Superior Eleitoral, manejam agravo o Partido Solidariedade e outros. Na minuta, sustentam que o recurso extraordinário reúne todos os requisitos para sua admissão.
+
+    Nas razões do extraordinário, com base no art. 102, III, da Constituição Federal, os recorrentes alegam negativa de prestação jurisdicional, ao argumento de omisso o acórdão recorrido “sobre relevantes fundamentos postos para sua análise e provas existentes nos autos, o que caracteriza grave vício de nulidade da decisão judicial”.
+
+    Aparelhado o recurso na violação dos arts. 5º, II, XXXV, LIV e LV, e 93, IX, da Lei Maior.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    O Tribunal Superior Eleitoral não conheceu do agravo interno manejado contra decisão que manteve a condenação dos agravantes com base na coisa julgada material, ao argumento da ausência de impugnação aos fundamentos do acórdão. A ementa está assim redigida:
+
+    “AGRAVO REGIMENTAL. AGRAVO. RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. CUMPRIMENTO DE SENTENÇA. FUNDAMENTOS NÃO INFIRMADOS. SÚMULA 26/TSE. NÃO CONHECIMENTO. 1. O partido e respectivos dirigentes deixaram de impugnar especificamente os fundamentos contidos na decisão agravada, limitando-se à transcrição do Recurso Especial, motivo pelo qual incide novamente a Súmula 26 do TSE. 2. Agravo Regimental não conhecido.”
+
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+
+    Inicialmente, ao exame do pressuposto relativo à tempestividade do recurso, transcrevo, no que importa, a certidão de “ocorrências processuais” acostada pelo Tribunal de origem (e-doc 71):
+
+    “Considerando a remessa do Agravo em Recurso Especial Eleitoral nº 0600193-84.2021.6.05.0000 ao Supremo Tribunal Federal, e o fato de, na tramitação eletrônica de feitos perante o Tribunal Superior Eleitoral, por meio do PJe/TSE, não serem lavradas certidões referentes às disponibilizações, publicações, intimações via sistema e decursos de prazo, uma vez que tais ocorrências são, em tal sistema, metadados, CERTIFICO as ocorrências processuais abaixo relacionadas, às quais não correspondem outras certidões no processo:
+
+    (...)
+
+          Em 11/4/2022, foi proferida decisão pelo Presidente, Ministro Edson Fachin, inadmitindo o recurso extraordinário (documento 1D 157453636). Essa decisão foi publicada no Diário da Justiça eletrônico em 18/4/2022.
+
+    Em 12/4/2022, o Ministério Público Eleitoral deu ciência da intimação eletrônica da decisão (documento ID 157473312), tendo decorrido o prazo recursa} em 20/4/2022.
+
+    Em 22/4/2022, houve o decurso do prazo recursal para SOLIDARIEDADE - ESTADUAL, LUCIANO ARAUJO DE OLIVEIRA e RICARDO LUIS RAMOS DE ARAUJO, bem como o trânsito em julgado da decisão (documento ID 157487140).
+
+    Em 25/4/2022, foi interposto agravo em recurso extraordinário por SOLIDARIEDADE - ESTADUAL, LUCIANO ARAUJO DE OLIVEIRA e RICARDO LUIS RAMOS DE ARAUJO (documento ID 157489869).”
+
+    Publicada a decisão agravada em 18.4.2022, segunda-feira, os recorrentes somente manejaram o agravo em 25.4.2022. Considerado o prazo processual de 3 (três) dias estipulados no Regimento Interno da Corte Superior Eleitoral, o termo final deu-se em 22.4.2022, sexta-feira, configurando a intempestividade do recurso (art. 219, caput, 994, VII, do CPC, c/c art. 36, § 2º, do RI-TSE).
+
+    Noutro giro, não consta no recurso interposto de acórdão cuja publicação se deu após a Emenda Regimental nº 21, de 30.4.2007, qualquer fundamentação acerca da repercussão geral da matéria constitucional versada no apelo extremo.
+
+    O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo (art. 1.035, §§ 1º e 2º, do CPC/2015).
+
+    A jurisprudência desta Corte é firme no sentido de que ausência de argumentação sobre a repercussão geral acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido:
+
+    “QUESTÃO DE ORDEM. RECONHECIMENTO, PELO SUPREMO TRIBUNAL FEDERAL, DA PRESENÇA DA REPERCUSSÃO GERAL EM DETERMINADO PROCESSO. PRELIMINAR FORMAL E FUNDAMENTADA DE REPERCUSSÃO GERAL NOS OUTROS RECURSOS QUE TRATEM DO MESMO TEMA. EXIGIBILIDADE. 1. Questão de ordem resolvida no sentido de que o reconhecimento, pelo Supremo Tribunal Federal, da presença da repercussão geral da questão constitucional em determinado processo não exime os demais recorrentes do dever constitucional e processual de apresentar a preliminar devidamente fundamentada sobre a presença da repercussão geral (§ 3º do art. 102 da Constituição Republicana e § 2º do art. 543-A do CPC). 2. Agravo regimental desprovido” (ARE 663637 AgR-QO, Relator(a): Min. Ayres Britto (Presidente), Tribunal Pleno, DJe 06.5.2013).
+
+    “Agravo regimental no recurso extraordinário com agravo. Repercussão geral não demonstrada. Requisito de admissibilidade. Precedentes. 1. A ausência de argumentação expressa, formal e objetivamente articulada pela parte recorrente para demonstrar, nas razões do recurso extraordinário, a existência de repercussão geral da matéria suscitada, inviabiliza o exame do referido recurso mesmo na hipótese de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro feito. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1135507 AgR, Relator(a): Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe 20.11.2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA. 1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC” (ARE 1102846 AgR, Relator(a): Min. Edson Fachin, Segunda Turma, DJe 21.8.2018).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. TÍTULO DE CRÉDITO. NOTA PROMISSÓRIA. AÇÃO DE EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE AFRONTA AO ARTIGO 114, I E IX, DA CONSTITUIÇÃO FEDERAL. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ARTIGO 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 1973 C.C. ARTIGO 327, § 1º, DO RISTF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO” (ARE 1.129.441-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 17.9.2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 23.2.2018. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. 1. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico. 2. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe à alegação genérica de que a questão em debate é dotada de repercussão geral. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Inaplicável o artigo 85, § 11, CPC, porquanto não houve fixação de honorários anteriormente” (ARE 1.090.571-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 03.9.2018).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RAZÕES RECURSAIS INATACADAS. SÚMULAS 283 E 284, AMBAS DO STF” (RE 1.119.001-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 30.8.2018).
+
+    “DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. REQUISITOS. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O exame da alegada ofensa ao art. 5º, XXXV, LIV e LV, da Lei Maior, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta. 2. Deficiência da preliminar formal e fundamentada de repercussão geral. O preenchimento de tal requisito demanda a demonstração, em tópico destacado, da relevância econômica, política, social ou jurídica, a ultrapassar os interesses subjetivos das partes, de todas as questões constitucionais suscitadas nas razões recursais. Inobservância do art. 543-A, § 2º, do CPC. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 5. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa” (ARE 1.056.119-AgR, da minha lavra, 1ª Turma, DJe 12.6.2018).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É ônus da parte recorrente apresentar a preliminar, formal e fundamentada, de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias que evidenciem, no caso concreto, a transcendência dos interesses subjetivos da causa, para que seja atendido o requisito previsto no art. 102, § 3°, da CF e no art. 1.035 do CPC, o que não foi observado pela parte recorrente. III - Agravo regimental a que se nega provimento, com aplicação da multa ( art. 1.021, § 4°, do CPC)” (ARE 1.133.720-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 31.8.2018).
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Preliminar formal de repercussão geral. Fundamentação deficiente. Inadmissibilidade. Precedentes. 1. Os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07 devem demonstrar, em preliminar formal devidamente fundamentada, a existência da repercussão geral das questões constitucionais discutidas no apelo extremo (AI nº 664.567/RS-QO), o que não ocorreu na hipótese. 2. Agravo regimental não provido” (ARE 1.137.321-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 13.9.2018).
+
+    “RESPONSABILIDADE CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRISÃO CIVIL. DEPOSITÁRIO INFIEL. AUSÊNCIA DE RECOLHIMENTO DO MANDADO DE PRISÃO, APÓS A EXTINÇÃO DA EXECUÇÃO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. JUSTIÇA FEDERAL. COMPETÊNCIA. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. A parte recorrente não demonstrou, de forma fundamentada, porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico, nem como ultrapassaria o mero interesse subjetivo da causa, como exige a jurisprudência do Supremo Tribunal Federal. Precedentes. 2. A Justiça Federal é competente para apreciação de pedido de indenização em face de ato lesivo praticado por agente federal. 3. Para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em sede de recurso extraordinário. 4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (RE 697.370-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 26.02.2018).
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF). Honorários advocatícios majorados em 10% (dez por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 29 de junho de 2022.
+
+Ministra Rosa Weber
+
+Relatora
