@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 83/STJ.
+Nas razões do especial, sustentaa defesa violação do art. 59, caput e II,do CP, uma vez que, ao majorar a pena-base em razão da valoração negativa da vetorial antecedentes, a Corte de origem utilizou condenaçãojá extinta há mais de 5 anos, ultrapassado, assim, o período depurador. Ademais, sustenta, outrossim, que "não há motivação idônea que permita considerar proporcional a quantidade de pena-base fixada" (fl. 486).
+Requer o provimento do recurso, para reduzir a pena-base.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+A controvérsia diz respeito àpossibilidade de se utilizar condenações anteriores, transitadas em julgado e já atingidas pelo período depurador de 5 anos, como fundamento para aumentar a pena-base, a título de maus antecedentes.
+O recorrente foi condenado em primeiro grau, como incurso no art. 180, § 3º, do CP, à pena de 4 mesesde detenção, em regime inicial semiaberto, e 13 dias-multa.
+Interposto recurso de apelação pela defesa, o Tribunal de origem negou-lheprovimento, mas, de ofício, afastou a valoração negativa da circunstância judicial da culpabilidade, redimensionandoa pena do recorrente para 2 meses e 10 dias, em regime semiaberto, e 13 dias-multa. Opostos embargos de declaração, foram rejeitados.
+Interpostos embargos infringentes, foram rejeitados, com base na seguinte fundamentação (fls. 475-476):
+Pleiteia a defesa que seja resgatado o voto proferido pelo Des. Edison Feital Leite, quando do julgamento da apelação, que afastou a mácula dos antecedentes criminais do ora embargante, tendo em vista que a condenação definitiva utilizada em seu desfavor foi extinta mais de cinco anos antes dos fatos ora em julgamento.
+Todavia, razão não lhe assiste.
+Analisando minuciosamente o acórdão combatido, vejo que a dosimetria da pena se deu de forma criteriosa, tendo sido mensurado o quantum aplicado com estrita observância às disposições dos artigos 59 e 68 do Código Penal.
+Em verdade, as reprimendas basilares somente se afastaram do mínimo porque as condições pessoais do réu assim exigiram, sendo certo que os seus maus antecedentes, por si só, são suficientes para que as penas se situem no patamar estabelecido no voto condutor do acórdão, que se mostrou proporcional e razoável.
+Registro que os maus antecedentes somente estarão configurados quando o agente registrar condenação por crime anterior, sendo necessário o trânsito em julgado da decisão, excluindo os casos de reincidência. Somente desta forma, respeita-se o princípio da não culpabilidade, uma vez que, não sendo a decisão definitiva, ou seja, faltando o trânsito em julgado, ela pode ser alterada, existindo a possibilidade de o réu ser absolvido em instância superior. A respeito:
+ ..
+E, ao contrário do que alega a defesa, diferentemente da configuração da agravante da reincidência, para consideração dos maus antecedentes se mostra irrelevante o transcurso do quinquídio legal previsto no art. 64, I, do CP, sendo imprescindível apenas, ao tempo da sentença, tratar-se de condenação definitiva por crime anterior ao da espécie em julgamento.
+Como se vê, o Tribunal de origem, ao reavaliar a dosimetria, manteve a valoração negativa da vetorial antecedentes, conforme FAC de fls. 160-165, destacando que "para consideração dos maus antecedentes se mostra irrelevante o transcurso do quinquídio legal previsto no art. 64, I, do CP, sendo imprescindível apenas, ao tempo da sentença, tratar-se de condenação definitiva por crime anterior ao da espécie em julgamento".
+Consoante a jurisprudência desta Corte Superior, "As condenações alcançadas pelo prazo depurador de 5 anos, malgrado não possam ser valoradas na segunda fase da dosimetria como reincidência, constituem motivação idônea para a exasperação da pena-base a título de maus antecedentes, como ocorrido na hipótese"(AgRg no HC n. 656.486/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/5/2022, DJe de 31/5/2022).A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. DIREITO AO ESQUECIMENTO. NÃO APLICAÇÃO. TRÁFICO PRIVILEGIADO. RECONHECIMENTO. IMPOSSIBILIDADE. NÃO PREENCHIDOS OS REQUISITOS LEGAIS.
+1. Conforme a jurisprudência pacífica desta Corte Superior, as condenações atingidas pelo período depurador de 5 anos, nos termos do art. 64, I, do Código Penal, podem ser reconhecidas como maus antecedentes.
+ ..
+5. Agravo regimental improvido(AgRg no AgRg no HC n. 698.747/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MAUS ANTECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ainda que decorrido prazo de cinco anos entre a data do cumprimento ou da extinção da reprimenda e a infração posterior, a condenação definitiva, embora não possa prevalecer para fins de reincidência, pode ser sopesada a título de maus antecedentes.
+2. O termo inicial do período de cinco anos, para a caracterização do período depurador, é a data de cumprimento ou da extinção da pena, e não a do trânsito em julgado da condenação, nos termos do art. 64, I, do Código Penal.
+3. Agravo regimental não provido(AgRg no HC n. 727.118/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 19/5/2022.)
+Estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ.
+Contudo, as particularidades do casosub examineindicam que o aumento operado na pena-base, no patamar de 1 mês, mostra-se desproporcional e desarrazoado, devendo ser provido o recurso,a fim de reformaro acórdão recorrido, no particular, para, consoante a jurisprudência desta Corte Superior, aplicar a fração de 1/6 do mínimo legal.
+Passo, assim, ao redimensionamento da pena.
+A pena-base, observada a fundamentação do acórdão recorrido, que manteve como desfavorável apenas a circunstância judicial dos maus antecedentes, vai fixada em 1/6 acima do mínimo legal, ou seja, 1 mês e 5 dias de detenção e 11 dias-multa. Na segunda fase, presente a agravante de reincidência, mantém-se a majoração de 1/6, alcançando a pena intermediária 1 mês e 10 dias de detenção e 12 dias-multa, a qual, na terceira fase, ausentes causas de aumento ou diminuição, torna-sedefinitiva.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de redimensionar a pena do recorrente, pelo crime de receptação qualificada (art. 180, § 3º, do CP), a 1 mês e 10 dias de detenção e pagamento de 12dias-multa, mantidas as demais cominações do acórdão recorrido.
+Publique-se.
+Intimem-se.
