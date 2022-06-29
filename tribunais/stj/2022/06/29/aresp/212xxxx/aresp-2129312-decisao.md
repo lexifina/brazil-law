@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 493, e-STJ):
+MANDADO DE SEGURANÇA - CONSELHO PROFISSIONAL DE EDUCAÇÃO FÍSICA - INSTRUTOR DE ESPORTES: DESNECESSIDADE DE REGISTRO.
+1. "E livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer" (artigo 5º, inciso XIII, da Constituição Federal).
+2. O instrutor de esportes não está sujeito ao registro no Conselho Profissional de Educação Física. Precedentes do STJ.
+3. Apelação e remessa oficial improvidas.
+Os Embargos de Declaração foram rejeitados (fls. 525-528, e-STJ).
+A parte recorrente alega que houve violação, em preliminar, do art. 1.022, II, do Código de Processo Civil; e, no mérito, dos arts. 2º, III, e 3º da Lei 9.696/1998. Afirma, em síntese, que o caso deve ser sobrestado, visto que houve a afetação do tema no âmbito do STJ. Quanto ao mérito, defende que "(..) o RECORRIDO não estará sujeito ao registro no CREF4/SP, desde que as suas atividades não se confundam com as atividades privativas dos educadores físicos, tais como o exercício de treinamentos que envolvam o condicionamento físico" (fl. 605, e-STJ).
+Não foram apresentadas contrarrazões tampouco contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.6.2022.
+Verifico que a matéria versada no Apelo foi submetida a julgamento no rito dos Recursos Repetitivos em 22.2.2022 (ProAfr no Recurso Especial 1.963.805/SP, que cuida do Tema: "Definir, à luz dos arts. 2º, III, e 3º da Lei 9.696/1998, se os professores, instrutores, técnicos ou treinadores de tênis devem ser inscritos no conselho profissional da classe dos profissionais de educação física").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 e 1.040 e seguintes do CPC/2015, conforme o caso.Ilustrativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PENSIONISTA DE MILITAR. DIREITO À ASSISTÊNCIA MÉDICO-HOSPITALAR. FUNSA. TEMA AFETADO AO RITO DOS REPETITIVOS (TEMA 1.080/STJ). EXEGESE DOS ARTS. 1.040 E 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. A matéria referente ao direito de pensionista de militar à assistência médico-hospitalar por meio do Fundo de Saúde da Aeronáutica (FUNSA) foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (Recursos Especiais n. 1.880.238/RJ, 1.871.942/RJ, 1.880.246/RJ e 1.880.241/RJ, Rel. Ministro Og Fernandes, DJE 8/3/2021 - TEMA 1.080/STJ).
+2. Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl nos EDcl no AgInt no AREsp 1.666.390/RS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 8/4/2021).
+Seguindo essa orientação, citoos seguintes julgados: EDcl no AgInt no REsp 1.781.469/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18.9.2019.
+Por fim, destaque-se que, no julgamento dos EREsp 1.019.717/RS, a Corte Especial admitiu a devolução ao Tribunal de origem dos feitos em processamento no STJ, após a publicação da decisão de afetação, excetuando apenas os casos em que a questão é suscitada em segundos Embargos de Declaração, inverbis:
+PROCESSUAL CIVIL. TERCEIROS EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. JULGAMENTO DE RECURSO ESPECIAL REPETITIVO. SUPERVENIÊNCIA. INOVAÇÃO DE TESES RECURSAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. O propósito dos presentes embargos de declaração é determinar a possibilidade de acolhimento de referido recurso, com efeitos modificativos, a despeito da ausência de obscuridade, contradição ou omissão, para alterar acórdão de agravo interno nos embargos de divergência e adequar o julgado embargado ao entendimento superveniente do STJ firmado na apreciação de recurso especial representativo de controvérsia.
+2. O recurso especial repetitivo tem por objetivo fortalecer a missão constitucional do STJ, que é a de manter a autoridade e a uniformidade da aplicação da lei federal, com vistas ao princípio da economia processual.
+3. Sob a vigência do CPC/73, a afetação de recurso especial representativo da controvérsia não impunha a suspensão do processamento e julgamento dos recursos especiais que já estivessem em tramitação no STJ.
+4. Com a edição da Emenda Regimental 24/2016, o RISTJ passou a prever, no art. 256-L, que, após a publicação da decisão de afetação, os recursos especiais em tramitação nesta Corte, fundados em idêntica questão de direito, devem ser devolvidos ao tribunal de origem, pelo relator ou pela Presidência do STJ.
+5. Por ser a unificação da jurisprudência o objetivo dos embargos de divergência, o dissídio capaz de autorizar sua oposição deve ser atual, conforme o entendimento das Súmulas 158 e 168/STJ.
+6. Mesmo que o art. 1.022, parágrafo único, do CPC/15 tenha previsto a possibilidade de questionamento, nos embargos de declaração, da omissão do acórdão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos, essa omissão somente se configurará se o juiz devesse se pronunciar de ofício ou a requerimento sobre a tese repetitiva (art. 1.022, II, do CPC/15).
+7. Na hipótese em exame, a questão atinente à fixação da tese em julgamento de recurso especial repetitivo somente foi suscitada nos segundos embargos de declaração opostos ao julgamento do agravo regimental nos embargos em divergência em recurso especial.
+8. A tese, suscitada somente nos segundos embargos de declaração, configura inequívoca inovação recursal, tanto aos primeiros aclaratórios quanto aos próprios embargos de divergência, e seu acolhimento acarretaria o reconhecimento de uma omissão inexistente - tanto no acórdão que julgou o agravo interno, quanto no acórdão que apreciou os primeiros embargos de declaração - e o mero rejulgamento do recurso especial, fase há muito ultrapassada.
+9. Terceiros embargos de declaração rejeitados.
+(EDcl nos EDcl nos EDcl no AgRg nos EREsp 1.019.717/RS, Rel. Min. João Otávio de Noronha, Rel. p./ acórdão, Min. Nancy Andrighi, Corte Especial, DJe 27.11.2017).
+Diante do exposto, conheço do Agravo para conhecer do Recurso Especial e dar-lhe provimento apenas para determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o aresto vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
