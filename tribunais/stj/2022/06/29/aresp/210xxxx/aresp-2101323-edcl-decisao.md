@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ FERNANDES RAMALHO SANTOS à decisão de fls. 411/412, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A r. Decisão monocrática do Agravo em Recurso Especial n.º 2101323 - MA (2022/0096887-1), foram omissas, quando deixa de mencionar as outras janelas de promoção que o embargante tem direito, suscitando apenas a mais antiga, em 2004, assim como, omite o trânsito em julgado do Recurso Especial (STJ) na Resolução de Demandas Repetitivas nº 0801095-52.2018.8.10.0000, que ocorreu em 28.09.2020, suscitando apenas, o trânsito em julgado do Recurso Extraordinário (STF), em 08.04.2021, ferindo a Súmula 443 STF, como veremos mais adiante (fls. 416/417).
+Cristalinas são as omissões da decisão monocrática embargada, quando versa sobre prescrição do fundo de direito, somente quanto a preterição do embargante em 2004, deixando de aduzir outras janelas de promoção e que uma promoção depende da outra, como também, tendo em vista que a respectiva ação fora ajuizada em 20/04/2017, demonstra-se que a mesma está dentro da prescrição quinquenal para as promoções, ou seja, não está indo contra a decisão do IRDR, que teve trânsito em julgado no STJ em 28.09.2020, uma vez que a prescrição de prestações anteriores não ocorrem quando não tiver sido negado o próprio direito reclamado, antes daquele prazo, ou, quando da situação jurídica de que ele resulta, conforme a Súmula 443 do STF, portanto, vigente o trato sucessivo até a negativa (fl. 417).
+ ..
+Lembrando que a Súmula 443 do STF assegura o direito do embargante, omitida na r. decisão, a prescrição de prestações anteriores, prescrição quinquenal, pois, a negativa da pretensão somente ocorreu agora, em 28.09.2020, com a decisão do Recurso Especial (STJ) na Resolução de Demandas Repetitivas nº 0801095-52.2018.8.10.0000, que não fere o IRDR (fl. 419).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanada a obscuridade apontada.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A parte embargante não discutiu os vícios previstos no art. 1.022 do CPC, uma vez que limitou-se a repetir as alegações apresentadas no recurso especial, sem estabelecer conexão entre os fundamentos da decisão de não conhecimento de seu agravo e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+Ademais, observe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Portanto, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
