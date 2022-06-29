@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de RAFAEL SANTOS SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação Criminal n. 1516298-56.2021.8.26.0228.
+Consta dos autos que opaciente foi condenado a 2 anos e 8 meses de reclusão, em regime inicial fechado, pela prática do crime de furto qualificado (art. 155, §§ 1º e 4º, I, do Código Penal).
+No presente writ, o impetrante sustenta, em síntese, que o paciente preenche todos os requisitos exigidos para afixação de regime inicial aberto, bem como para asubstituição da pena privativa de liberdade por medida restritiva de direitos. Alternativamente, aduz ser possível a fixação do "regime semiaberto e, sucessivamente, regime aberto, considerando que o paciente permanece preso há mais de 10 meses e, portanto, já cumpriu lapso para a progressão (art. 387, parágrafo segundo CPP)" (fl. 6).
+Requer a concessão da ordem nesse sentido
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento dowrit(fls. 38/44).
+É o relatório.
+Decido.
+Diante da hipótese dehabeas corpussubstitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoávelverificar a existência de eventual constrangimento ilegal.
+Conforme relatado, a controvérsia refere-se ao regime prisional inicial e à substituição da pena.
+Por oportuno, confiram-se os seguintes trechos:
+Sentença:
+" ..
+Passo à dosimetria das penas.
+Na primeira fase de dosimetria, as circunstâncias judiciais não se revelaram desfavoráveis ao acusado, motivo pelo qual fixo a pena-base no mínimo legal em 02 anos de reclusão e 10 dias-multa.
+Na segunda fase de dosimetria, não há circunstâncias agravantes. A atenuante da confissão espontânea, embora reconhecida, não conduz a pena a patamar inferior ao mínimo legal, nos termos da Súm. 231, STJ. Desse modo, mantenho a pena, nesta fase, em 02 anos de reclusão e 10 dias-multa.
+Na terceira fase de dosimetria, presente a causa de aumento relativa ao repouso noturno, motivo pelo qual majoro a pena em 1/3, tornando-a, nesta fase e em definitivo, em 02 anos e 08 meses de reclusão e 13 dias-multa.
+Fixo os dias-multa no mínimo legal.
+A despeito da primariedade do réu, suas certidões e folhas de antecedentes (fls. 33/36) demonstram a reiteração em práticas criminais, tendo sido agraciado em data recente com a liberdade provisória em processo em que figura como denunciado pela prática de homicídio tentado. Ainda, em liberdade, foi preso em flagrante em fevereiro de 2021 por tráfico de drogas, respondeu ao processo preso e, desclassificada sua conduta, foi agraciado novamente com alvará de soltura em 24/06/2021, tendo sido preso em flagrante pelo presente menos de dez dias após a liberdade. Revela, portanto, sua reiteração e vinculação sistemática e recente a práticas criminosas, circunstâncias que, a despeito de uma primariedade técnica, autorizam e justificam a fixação do regime fechado para o início de cumprimento da presente pena privativa de liberdade.
+Pelas mesmas razões, não considero socialmente recomendável, no entanto, a substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, JULGO PROCEDENTE a pretensão penal para CONDENAR o réu RAFAEL SANTOS SILVA às penas de 02 anos e 08 meses de reclusão, em regime inicial fechado, e 13 dias-multa, esses no mínimo legal, pela prática do crime previsto no artigo 155, § 1º e § 4º, inciso I, do Código Penal" (fl. 15).
+Acórdão:
+" ..
+No mais, embora o montante de pena imposto ao apelante não seja elevado, nota-se que ele possui personalidade voltada para o crime, assim, impõe o regime mais rigoroso, em consonância com o disposto no artigo 33, §3º, do Código Penal. Nesse ponto, coerente o fundamento do juiz de primeiro grau:
+"A despeito da primariedade do réu, suas certidões e folhas de antecedentes (fls. 33/36) demonstram a reiteração em práticas criminais, tendo sido agraciado em data recente com a liberdade provisória em processo em que figura como denunciado pela prática de homicídio tentado. Ainda, em liberdade, foi preso em flagrante em fevereiro de 2021 por tráfico de drogas, respondeu ao processo preso e, desclassificada sua conduta, foi agraciado novamente com alvará de soltura em 24/06/2021, tendo sido preso em flagrante pelo presente menos de dez dias após a liberdade. Revela, portanto, sua reiteração e vinculação sistemática e recente a práticas criminosas, circunstâncias que, a despeito de uma primariedade técnica, autorizam e justificam a fixação do regime fechado para o início de cumprimento da presente pena privativa de liberdade."(fls. 248).
+Igualmente, verifica-se que o apelante não faz jus à substituição da pena privativa de liberdade por restritivas de direitos, uma vez que não preenche os requisitos do artigo 44, inciso III, do Código Penal. Além disso, conforme analisado acima, tal medida não se mostra socialmente recomendável e suficiente" (fls. 26/27).
+Considerando a ausência de circunstâncias judiciais desfavoráveis, a primariedade da paciente e o quantum de pena aplicado, mostra-se cabível a fixação do regime inicial aberto e a substituição da pena por mediarestritiva de direitos.
+Ressalte-se que a existência de processos em andamento não pode ser utilizada para justificar o agravamento do regime prisional e obstar a substituição da reprimenda.Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PENA DE 01 (UM) ANO, 11 (ONZE) MESES E 10 (DEZ) DIAS DE RECLUSÃO. REGIME FECHADO FIXADO COM BASE NA HEDIONDEZ E NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+V - Preenchidos os requisitos do art. 44 do Código Penal, quais sejam, pena não superior à 4 (quatro) anos, o crime não foi cometido com violência ou grave ameaça à pessoa e réu não reincidente, o paciente faz jus à substituição da pena privativa de liberdade por restritivas de direitos, em moldes a serem especificados pelo Juízo da Execução Penal.
+Habeas corpus não conhecido. Ordem concedida de ofício, para fixar o regime prisional aberto para o início do cumprimento da pena do paciente e determinar a conversão da pena privativa de liberdade por restritivas de direitos, nos moldes do artigo 44 do Código Penal, a ser estabelecido pelo MM. Juízo a quo.
+(HC 462.503/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. RECEPTAÇÃO. INADEQUAÇÃO. DOSIMETRIA. INCIDÊNCIA DA SÚMULA 444/STJ. CARÊNCIA DE FUNDAMENTO VÁLIDO PARA MAJORAÇÃO DA PENA-BASE A TÍTULO DE PERSONALIDADE. REGIME PRISIONAL ABERTO CABÍVEL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REQUISITOS OBJETOS E SUBJETIVOS PREENCHIDOS. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. Esta Corte firmou entendimento de que, considerando o princípio da presunção da inocência, inquéritos policiais ou ações penais em andamento não servem de base para valorar negativamente os antecedentes, a conduta social ou a personalidade do acusado e, por consectário, não permitem a imposição de regime prisional mais gravoso do que o indicado pelo quantum de sanção corporal estabelecido (Súmula 444/STJ).
+6. Igualmente devida a substituição da pena privativa de liberdade por restritiva de direitos, porquanto adimplidos os requisitos do art. 44, incs. I, II e III, do Código Penal: o crime é doloso, sendo a pena aplicada inferior a 4 anos de reclusão; o paciente é tecnicamente primário; a pena-base foi imposta no piso legal, dada a ausência de circunstância judicial desfavorável.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para estabelecer a pena de 1 (um) ano de reclusão, a ser cumprida em regime prisional aberto, mais o pagamento de 10 (dez) dias-multa, e determinar que o Juízo das Execuções substitua a pena privativa de liberdade por restritiva de direitos ou multa, nos termos do art. 44, § 2º, do Código Penal.
+(HC n. 367.097/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/8/2017).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA TRÁFICO. CORRUPÇÃO DE MENORES. PENA FINAL DE 4 ANOS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NEGADA PELA EXISTÊNCIA DE AÇÃO PENAL EM CURSO. PRESUNÇÃO DE INOCÊNCIA. FUNDAMENTO INIDÔNEO. ORDEM CONCEDIDA. AGRAVO IMPROVIDO.
+1. Sendo o paciente tecnicamente primário, a existência de ação penal em curso não se revela fundamento idôneo para obstar o deferimento da substituição da pena privativa de liberdade por restritiva de direitos, preenchidos seus requisitos, nos termos do art. 44 do Código Penal.
+2. Agravo regimental improvido.
+(AgRg no HC n. 473.479/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/3/2019).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para fixar o regime aberto e substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem fixadas pelo Juízo da Execução Penal.
+Publique-se.
+Intimações necessárias.
