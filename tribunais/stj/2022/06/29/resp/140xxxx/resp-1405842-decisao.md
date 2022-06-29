@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de recurso especial interposto por MÁQUINAS SANMARTIN LTDA, com amparo no artigo 105, inc. III, alíneas "a" e "c" da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 1974 e-STJ):
+Ação e reconvenção. Carta de intenções para realização de projetos empresariais no setor de equipamentos para fábricas de cerveja e refrigerante. Cobrança de serviços prestados. Custos extraordinários. Contrato em moeda estrangeira. O contrato entre as partes deve ser cumprido nos termos da carta de intenções, justificando a cobrança dos serviços prestados e a não imputação dos custos extraordinários. Não se exige caução em cobrança feita por pessoa estrangeira, e a cobrança é lícita convertendo-se em moeda nacional.
+Opostos embargos de declaração (fls. 1984-1992e-STJ), esses foram rejeitados (fls. 1994-2001e-STJ).
+Em suas razões de recurso especial (fls. 2005-2022e-STJ), o recorrente aponta dissídio jurisprudencial, bem como ofensa aos artigos
+(i) artigo 535 CPC/73, sustentando a negativa de prestação jurisdicional;
+(ii) artigo 835 do CPC/73, defendendo a exigência da prestação de caução das verbas sucumbenciais sob pena de a medida judicial ser extinta, nos termos dos arts. 301, incisos X e XI e 267, inciso IV, ambos do CPC/73.
+Apresentadas as contrarrazões às fls. 2054-2069e-STJ, foi admitido na origemo apelo nobre (fls. 2071-2073e-STJ).
+Às fls. 2083-2095 e-STJ, noticiou-se a falência da empresa recorrida, no exterior.
+Regularizada a representação processual às fls. 2139-2155 e 2156 e-STJ.
+É o relatório.
+Decide-se.
+1. De início, a recorrente aponta os seguintes vícios no acórdão recorrido:
+(a) omissãoquanto ao pedido relativo à data de conversão da moeda em euro para reais, tal alteração compreende uma diferença no débito de R$ 17.060,12 (dezessete mil, sessenta reais e doze centavos);
+(b) omissão ao pedido de indenização por danos morais, bem como perdas e danos, em razão dos abalos decorrentes dos problemas apresentados nos equipamentos e da ruptura abrupta da relação de parceria mantida pelas partes;
+(c) contradiçãoacerca do reconhecimento de parceria, porém na inadmissão da divisão dos custos extraordinários;
+(d) contradição na condenação da Recorrente ao pagamento do débito cobrado pela Recorrida, afirmando que embora a Corte Estadual tenha entendido que a Carta de Intenções continuava a regular a relação entre as partes, estando expressamente acordado que a demandante arcaria com os custos de engenharia, ainda assim decidiu por condenar a Recorrente ao pagamento de faturas que se referem justamente aos custos de engenharia;
+(e) obscuridade, porquanto a decisão da Apelação foi proferia em contrariedade à prova técnica produzida nos autos deixando claro que o perito contábil nomeado pelo Juiz de primeiro grau afirmou categoricamente que os prejuízos arcados pela Recorrente importaram em R$ 1.0138.430,74 (um milhão, oitenta e oito mil, quatrocentos e trinta reais e setenta e quatro centavos);
+1.1. Afasta-se, de início, parte da alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 535 do CPC/73 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, a Corte estadual não está obrigada a se pronunciar sobre todos os pontos invocados pelas partes, apenas aqueles necessários à solução da lide, conforme a jurisprudência desta Corte.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1545617/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/10/2016, DJe 18/10/2016; AgInt no REsp 1596790/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/10/2016, DJe 20/10/2016; AgInt no AREsp 796.729/MT, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/09/2016, DJe 12/09/2016; AgRg no AREsp 499.947/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/09/2016, DJe 22/09/2016.
+Na hipótese, inexistem os vícios(c), (d) e(e) acima listados.
+Isso porque, a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Em semelhante sentido:AgInt no AREsp 1657633/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020;EDcl no AgInt no AgInt nos EDcl no AREsp 1450410/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020;AgInt no AREsp 1599936/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020.
+As contradições apontadas não são desta natureza, pois a Corte de origem, de modo claro de fundamentado, delimitou a situação jurídica e externou sua conclusão - ainda que em sentido contrário às pretensões da parte.
+Igualmente, "a obscuridade que se admite nos embargos de declaração ocorre quando há nítida dificuldade na compreensão do julgado, decorrente da falta de clareza" (EDcl no AgRg no AREsp n. 747.657/SP, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 15/3/2016).
+O suposto vício apontado pela recorrente, em reliadade, constite em mera inconformidade com a conclusão - clara e fundamentada -da Corte de origem de impossibilidade de imputação dos alegados custos extraordinários.
+Afasta-se, portanto, em parte, a alegada violação ao artigo 535 do CPC/73.
+1.2. No mais, este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a Corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA.DESCONSIDERAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. ART. 1.022 DO CPC.VIOLAÇÃO.
+1. Configura-se a violação do artigo 1.022 do Código de Processo Civil quando o Tribunal de origem, a despeito da oposição de embargos de declaração, deixa de examinar questão relevante para o deslinde da controvérsia.
+2. "Nos casos em que a aplicação do direito à espécie exige a incursão no substrato fático-probatório dos autos, é imperioso o retorno do feito à instância ordinária, para que a causa seja julgada conforme os parâmetros estabelecidos por este STJ." (AgInt nos EDcl no REsp 1754743/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/12/2019, DJe 12/12/2019) 3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1831870/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp 1754832/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019)
+No caso, as insurgentes alegam que a Corte de origem deixou apreciar:(a) a data de conversão da moeda em euro para reais;(b) o pedido de indenização por danos morais e perdas e danos.
+De fato, não foram apreciados tais questões, mostrando-se necessária a complementação do julgado -ainda que paranão conhecer destas alegações ou rechaça-las, de forma fundamentada.
+Imperioso, portanto, o reconhecimento de violação ao artigo 535 do CPC/15.
+2. Oreconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido, via de regra, torna prejudicada a análise das questões de mérito do recurso especial.
+Na hipótese, todavia, considerando que a única tese de mérito devidamente exposta no recurso especial diz respeito à questão preliminar da causa originária, e buscando conferir eficiência à demanda que tramita desde 2008, passa-se à análise da questão, por não se vislumbrar prejudicialidade entre esta e os vícios acima tratados - ressalvada, obviamente, a possibilidade de nova irresignação quanto aos capítulos eventualmente acrescidos ao acórdão recorrido pelo saneamento dos vicios acima.
+3. Quanto à possibilidade de dispensa da caução tratada noartigo 835 do CPC/73, deve ser mantida a decisão proferida pela Corte de origem.
+Em semelhante sentido, já decidiu este STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS AJUIZADA POR EMPRESA ESTRANGEIRA NÃO RESIDENTE NO BRASIL. VIOLAÇÃO DO ART. 83 DO NCPC (ART. 835 DO CPC/73). RECURSO DA CORRÉ BTG PACTUAL. PRESTAÇÃO DE CAUÇÃO. DISPENSA. POSSIBILIDADE. PRECEDENTES DO STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SUMULA Nº 568 DO STJ. DECISÃO MANTIDA. MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+ ..
+2. O sistema processual brasileiro, por cautela, exige a prestação de caução para a empresa estrangeira litigar no Brasil, se não dispuser de bens suficientes para suportar os ônus de eventual sucumbência (art. 835 do CPC). Na verdade, é uma espécie de fiança processual para "não tornar melhor a sorte dos que demandam no Brasil, residindo fora, ou dele retirando-se, pendente a lide", pois, se tal não se estabelecesse, o autor, nessas condições, perdendo a ação, estaria incólume aos prejuízos causados ao demandado (EREsp n º 179.147/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, Corte Especial, j. 1º/8/2000, DJU 30/10/2000).
+3. No caso dos autos, a Corte de origem, com base nos fatos da causa e em precedentes oriundos desta Corte, reconheceu inexistir motivo que justifique o receio no tocante a eventual responsabilização da demandante pelos ônus sucumbenciais, não se justificando a aplicação do disposto no art. 83 do NCPC (art. 835 do CPC/73 ). Incidência, no ponto, das Súmulas nºs 7 e 568 do STJ.
+ ..
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1792974/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/08/2019, DJe 21/08/2019)
+PROCESSUAL CIVIL. CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. PRESTAÇÃO DE CAUÇÃO POR SOCIEDADE EMPRESARIAL ESTRANGEIRA DEVIDAMENTE REPRESENTADA NO BRASIL. DESNECESSIDADE. ART. 88, I, § ÚNICO DO CPC/73 (ART. 21, I, § ÚNICO, DO NCPC). RECURSO ESPECIAL PROVIDO.
+ ..
+2. O artigo 12, VIII, do CPC/73 estabelece que a pessoa jurídica estrangeira será representada em juízo (ativa e passivamente) pelo gerente, representante ou administrador de sua filial, agência ou sucursal aberta ou instalada no Brasil.
+3. O art. 88, I, § único, do mesmo diploma (correspondente ao art. 21, I, § único, do NCPC), considera domiciliada no território nacional a pessoa jurídica estrangeira que tiver agência, filial ou sucursal estabelecida no Brasil.
+4. A Súmula nº 363 do STF dispõe que a pessoa jurídica de direito privado pode ser demandada no domicílio da agência, ou estabelecimento, em que praticou o ato.
+5. O sistema processual brasileiro, por cautela, exige a prestação de caução para a empresa estrangeira litigar no Brasil, se não dispuser de bens suficientes para suportar os ônus de eventual sucumbência (art. 835 do CPC). Na verdade, é uma espécie de fiança processual para "não tornar melhor a sorte dos que demandam no Brasil, residindo fora, ou dele retirando-se, pendente a lide", pois, se tal não se estabelecesse, o autor, nessas condições, perdendo a ação, estaria incólume aos prejuízos causados ao demandado (EREsp n º 179.147/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, Corte Especial, julgado em 1º/8/2000, DJ 30/10/2000).
+5. Não havendo motivo que justifique o receio no tocante a eventual responsabilização da demandante pelos ônus sucumbenciais, não se justifica a aplicação do disposto no art. 835 do CPC/73 (art. 83 do NCPC), uma vez que a MSC MEDITERRANEAN deve ser considerada uma sociedade empresarial domiciliada no Brasil e a sua agência representante, a MSC MEDITERRANEAN DO BRASIL, poderá responder diretamente, caso seja vencida na demanda, por eventuais encargos decorrentes de sucumbência.
+6. Recurso especial provido.
+(REsp 1584441/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/08/2018, DJe 31/08/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PROPOSITURA DE AÇÃO POR EMPRESA ESTRANGEIRA. PRESTAÇÃO DE CAUÇÃO. AUSÊNCIA. PREJUÍZO. NÃO OCORRÊNCIA. PAS DE NULLITÉ SANS GRIEF.
+ ..
+2. A jurisprudência desta Corte Superior vem admitindo a relativização da norma que prevê prestação de caução para que empresa estrangeira litigue no país. Na hipótese, a autora (empresa estrangeira) vem obtendo êxito em sua pretensão, sendo que as despesas processuais serão custeados pela parte contrária.Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1664304/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/09/2017, DJe 21/09/2017)  grifou-se
+4.No mais, o dissídio suscitado é manifestamente incogniscível, pois sequer apontado dispositivo de lei objeto de interpretação controvertida.
+"A jurisprudência desta Corte é firme no sentido de que é imprescindível à demonstração do dissídio jurisprudencial a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria a divergência, sob pena de inviabilizar a exata compreensão da controvérsia, atraindo a aplicação da Súmula nº 284 do STF" (AgInt no REsp 1735241/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/10/2018, DJe 10/10/2018).
+Neste sentido, ainda:AgInt no REsp 1840095/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020;AgInt no AREsp 1261882/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/08/2020, DJe 18/08/2020;AgInt no AREsp 1264067/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/10/2018, DJe 15/10/2018; AgInt no AREsp 1295999/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/09/2018, DJe 01/10/2018.
+Ademais, não foi realizado o necessário cotejo analítico a fim de demonstrar a similitude fática entre os acórdãos recorrido e paradigma.
+A realização de cotejo analítico pressupõe não apenas o destaque de trechos das ementas dos acórdãos indicados como paradigmas. Exige-se que seja exposta, de forma argumentativa, a similitude fática entre os arestos recorrido e paradigma, demonstrado haver oposição de teses jurídicas. Ausente essa argumentação, torna-se inviável a admissão do apelo extremo.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO.VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ARGUMENTOS GENÉRICOS.INCIDÊNCIA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+ ..
+6. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1849315/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/08/2020, DJe 17/08/2020)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MAIORIDADE. ALIMENTOS. MANUTENÇÃO. COMPROVAÇÃO DA NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. MÁ VALORAÇÃO DAS PROVAS. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO.AUSÊNCIA. FALTA DE SIMILITUDE FÁTICA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+ ..
+5. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração dessa divergência, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, sendo insuficiente a mera transcrição de ementas para configuração do dissídio.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1573489/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020)
+5. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial, para cassar, em parte, o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se as omissões acima reconhecidas.
+Publique-se.
+Intimem-se.
