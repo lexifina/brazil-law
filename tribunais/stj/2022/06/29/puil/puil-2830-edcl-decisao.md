@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Embargos de Declaração interpostos por Hotel Flat 7 Ltda. contra decisão monocrática às fls. 1.130-1.132, e-STJ, que indeferiu seu pedido liminar.
+O embargante alega que houve omissão; reitera os argumentos já apresentados em relação à afirmação de que houve periculum in mora, transcrevendo trecho de sua petição inicial do incidente. Afirma que "mudança de entendimento pelo STJ, não está submetido ao princípio da anterioridade, e deve ser aplicada a todos processos pendentes de julgamento" (fl. 1.136, e-STJ).Sustenta, em síntese (fl. 1.137, e-STJ):
+Finalmente a decisão atacada trata das Súmulas 283 e 284 do STF, sem demonstrar que o caso em julgamento se ajusta aos enunciados das súmulas e seus fundamentos. Consequentemente a decisão incorreu na conduta descrita no art. 489, § 1º, V, do CPC sendo considerada omissa nos termos do art. 1022, parágrafo único, inciso II do mesmo diploma legal.
+Sem contrarrazões, conforme certidão à fl. 1.151, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23 de junho de 2022.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A decisão recorrida assim consignou ao decidir a matéria (fls. 1.131-1.132, e-STJ, grifos no original):
+No caso em questão, não se constata o periculum in mora, uma vez que o requerente não chegou a sequer demonstrar - para o presente processo e para os demais que tratem da mesma matéria - quais seriam os danos decorrentes em se aguardar o julgamento final do presente incidente.
+Igualmente, em juízo de cognição sumária, não se verifica o fumus boni juris, pois o requerente afirma que o acórdão não aplicou a Súmula 412 do STJ em relação ao prazo prescricional. Contudo, consta no acórdão de origem (fls. 435-440, e-STJ, grifei):
+Inicialmente, transcrevo a sentença prolatada pela em. Magistrada a quo, Dra. Maria Aline Vieira Fonseca, que adoto como razões de decidir:
+(..) Não há como aplicar a prescrição decenal prevista no Código Civil e também na Súmula nº 412/STJ. É que, apesar de se tratar de demanda que visa à repetição de indébito de tarifas de água e esgoto, os julgados que precedem à súmula do Tribunal Superior não fazem qualquer referência aos decretos que regulamentam a prescrição em face da Fazenda Pública, apenas afastam a aplicabilidade do Código Civil, Código de Defesa do Consumidor e do Código Tributário Nacional. Os casos analisados diziam respeito a concessionárias de serviço público.
+(..)
+Como visto, ao julgar a ação popular, houve o entendimento de que a remuneração do serviço de água e esgoto prestado pelo SANEP é TAXA (tributo), e não preço público, razão pela qual eventual reajuste dependeria de lei anterior, tendo sido invalidado o ato administrativo 011/2001, do Diretor-Presidente da Autarquia. Tendo a sentença transitada em julgado, após a interposição dos recursos cabíveis, não pode o autor/recorrente, agora, invocar a atual jurisprudência das Cortes Superiores e transmudar a natureza da remuneração em questão, afirmada como tributária em sentença definitiva. Incide, portanto, o art. 168 do CTN, e não o enunciado da Súmula 412 do STJ, pois a restituição, no caso concreto, é de tributo, e não de tarifa, sendo qüinqüenal a prescrição - e não decenal.
+Como se observa, os fundamentos adotados pelo acórdão de origem - de que os julgados que precedem à Súmula n. 412 do STJ não fazem qualquer referência aos decretos que regulamentam a prescrição em face da Fazenda Pública, bem como que na Ação Popular a sentença, transitada em julgado, entendeu que a remuneração do serviço de água e esgoto prestado pela Sanep é taxa (tributo), e não preço público, o que não poderia ser alterado pela posterior mudança de jurisprudência das Cortes Superiores - foram utilizados de forma autônoma e suficiente para manter a decisão e não foram impugnados especificamente na Petição de Uniformização de Jurisprudência. Dessa forma, incide o óbice da Súmula 283 e 284 do STF.
+Como se constata, o recorrente busca apenas a rediscussão do julgado, pois toda a matéria apontada como omissa foi tratada no decisum recorrido e o embargante não apresentou argumento novo apto a demonstrar a presença de omissão. Note-se que se trata de medida liminar, baseada em cognição sumária, na qual se analisa apenas a presença de fumus boni juris e periculum in mora. Tais requisitos foram devidamente apreciados na decisão liminar embargada.
+O STJ entende que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. NÃO CONHECIMENTO. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Inexiste qualquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou, fundamentadamente, as razões pelas quais manteve a decisão que não conheceu dos embargos de divergência.
+2. Não se prestam os aclaratórios para rediscutir matéria devidamente enfrentada e decidida pelo acórdão embargado.
+Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EAREsp 1.776.504/SC, Rel. Min. Jorge Mussi, Corte Especial, DJe 25/02/2022)
+SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO DA TESE RECURSAL, PARA SUSCITAR A TEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO. MATÉRIA INSUSCETÍVEL DE SER CONHECIDA DE OFÍCIO, EM EMBARGOS DE DIVERGÊNCIA CUJA CONTROVÉRSIA JURÍDICA TRAZIDA PELA EMBARGANTE FOI OUTRA. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPROPRIEDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não se coaduna com o caráter integrativo dos embargos de declaração simples pretensão de rediscussão da matéria decidida no acórdão embargado, que ficou adstrito ao exame da questão relacionada à intempestividade do agravo em recurso especial por ausência de comprovação de feriado local (Endoenças, Sexta-Feira Santa e São Jorge) no ato de interposição do recurso.
+2. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt nos EAREsp 1.660.220/RJ, Rel. Min. Laurita Vax, Corte Especial, DJe 02/03/2022)
+Com efeito, não se verificando, na hipótese, a existência de omissão, contradição ou obscuridade, a discordância da parte com o conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
