@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta o Ministério Público violação doart. 33, § 4º, da Lei 11.343/2006.
+Sustenta a inadmissibilidade da fração máxima de redução pelaminorante do tráfico, com base na grande quantidade de droga apreendida.
+Requer, assim, o provimento do recurso especial, a fim de que seja restabelecida a sentença condenatória.
+Nas razões recursais da defesa, alega contrariedade aos arts. 28 e 33 da Lei 11.343/2006, bem como arts. 383 e 386 ambos do CPP, sob o fundamento de que não ficou demonstrada suficientementea mercancia ilícita.
+Requer o provimento do recurso especial a fim de que seja desclassificada a conduta para porte de drogas para consumo próprio.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo provimento do agravo da defesa e pela prejudicialidade do recurso ministerial.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Quanto ao tráfico de drogas, o acórdão recorrido está assim fundamentado:
+O delito em questão é de natureza permanente, preexistindo ao efetivo exercício da comercialização ilícita da mercadoria, integralizando-se a partir do instante em que o agente a tem consigo. De forma que, evidenciando-se a aquisição, a posse, a guarda e a sua exposição à venda ou o seu fornecimento, ainda que gratuitamente, já se tem o crime por consumado.
+Feitas estas considerações, cumpre ressaltar que a pretensão da apelante não merece prosperar, por não possuir respaldo fático-probatório, senão vejamos:
+A materialidade do delito restou devidamente comprovada a partir do auto de prisão em flagrante, que trouxe em seu bojo o auto de apreensão, o laudo de constatação e o laudo pericial definitivo (Num. 459498 - Pág. 204/205), acostado durante o trâmite da ação penal, exsurgindo-se deste a conclusão de que a droga apreendida tratava-se de 19,8 g (dezenove gramas e oito decigramas) de substância vegetal com resultado positivo para Cannabis Sativa Lineu (maconha).
+Ademais, foi apreendido em poder da recorrente petrecho que demonstra a mercancia ilícita de narcóticos, qual seja, um triturador de entorpecente. Conquanto referida apreensão seja prescindível para a configuração do crime em questão, a existência de um equipamento comumente usado por traficantes na mochila da ré dá maior sustentação à acusação, que logrou comprovar o envolvimento desta com a prática ilícita.
+O certo é que a autoria restou demonstrada pela prisão em flagrante da acusada, a qual tinha em sua posse quantidade de droga devidamente acondicionada, pronta para a mercancia, além dos depoimentos das testemunhas, policiais militares, os quais foram incisivos ao associarem o apelante ao comércio de narcóticos.
+Ainda que o depoimento testemunhal se materialize nas declarações dos policiais que participaram da operação, não há nenhum motivo para que estas informações sejam desconsideradas.
+Como se vê, o Tribunal de origem fez somente afirmações (ilações), sem indicar elementos concretos, contextualizados,voltados à comercialização ilícita de drogas.
+Uma vez que a prova penal não admite presunções, sendo impositiva a desclassificação da conduta, já que o contexto probatório dos autos é insuficiente ao juízo de adequação típica formulado na inicial acusatória, mormente porque não comprovada a traficância.
+Ademais, no sistema acusatório adotado no processo penal brasileiro, é ônus da acusação provar que o denunciado praticou as elementares do tipo penal(AgRg no AREsp 1.345.004/RS, Relatora Ministra Laurita Vaz, Sexta Turma, DJe 29/03/2019), sendo inadmissível a condenação com base apenas em suposições, mormente porque apreendida quantidade não relevante de drogas.
+Ressalte-se, por fim, que a presente questão constitui revaloração jurídica de fato incontroverso pelas instâncias ordinárias, situação que, por não demandar o reexame detalhado de fatos ou provas, é plenamente admitida na via do recurso especial.
+A propósito, como bem mencionado no parecer ministerial:
+O Tribunal local considerou a prática do crime de tráfico de drogas em razão da apreensão de 19,8g de maconha, em conjunto com um triturador, 7 papelotes para invólucro de cigarro, R$ 166,50 e também com base nas provas orais produzidas nos autos.
+Os depoimentos das testemunhas, descritos na sentença, não sustentam com segurança o comércio ilícito de entorpecentes por parte da acusada.
+O único indício retirado das provas orais acerca de uma possível narcotraficância é a passagem do relato do policial militar José Garcia de Oliveira quando informou que a acusada estava "com atitude suspeita", o que não tem relevo fático e nem jurídico suficiente para configurar o delito do art. 33, caput, da Lei de Drogas, mormente considerada  i  a apreensão de pequena quantidade de maconha (19,8g),  ii  o fato de que é comum aos usuários desse entorpecente a utilização de triturador,  iii  bem como as demais provas orais afastando por completo o comércio espúrio pela acusada e relatando que ela estava em um show de jazz com uma amiga quando foi abordada com a droga (e-STJ fls. 197-201).
+Diante do acolhimento do pleito defensivo, fica prejudicado o pleito do Ministério Público.
+Ante o exposto, julgo prejudicado o recurso do Ministério Público e dou provimento ao agravo em recurso especial para desclassificar a conduta imputada à agravante para o delito previsto no art. 28 da Lei n. 11.343/2006, devendo o Juízo de origem aplicar as sanções nele cominadas, como entender de direito.
+Publique-se.
+Intimem-se.
