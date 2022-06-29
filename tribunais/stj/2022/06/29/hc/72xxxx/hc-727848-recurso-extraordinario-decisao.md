@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 54):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO EM SENTIDO ESTRITO. FUNDAMENTAÇÃO PER RELATIONEM. AUSÊNCIA DE FUNDAMENTAÇÃO PRÓPRIA. OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO DESPROVIDO.
+1. Na hipótese, verifica-se a ocorrência de constrangimento ilegal, na medida em que o Desembargador Relator, no julgamento do recurso em sentido estrito, empregou a técnica da fundamentação per relationem, sem utilizá-la, porém, como complementação a sua argumentação. Assim, observa-se a ausência de fundamentação própria no julgamento do recurso em sentido estrito, com patente ofensa ao art. 93, IX, da Constituição da República.
+2. Agravo regimental não provido.
+Sustenta orecorrente que o recurso extraordinário tem repercussão geral e merece ser alçado ao STF, em razão da violação do art. 93, IX,da Constituição Federal.
+Aduz que o acórdão recorrido contraria o entendimento do Supremo Tribunal Federal de que a técnica da fundamentaçãoper relationemnão contraria o referido dispositivo constitucional.
+Requer, ao final, a admissão do recurso e sua remessa à Suprema Corte.
+Foram apresentadas contrarrazões (e-STJ fls. 93-97).
+É o relatório.
+Da leitura do acórdão recorrido, verifica-se que há, em princípio, divergência com o entendimento firmado pelo Supremo Tribunal Federal sobre o tema.
+Isso porque, não obstantetenha concluído, motivadamente, pela ausência de fundamentação do acórdão de julgamento da apelaçãodefensiva, o que ensejaria, à primeira vista, a aplicação do Tema 339/STF, o caso em exame é dotado de peculiaridades que ensejam a admissão do recurso extraordinário.
+Com efeito, a jurisprudência da Suprema Corte firmou-se no sentido de que a adoção da técnica de motivação per relationem não constitui ofensa ao art. 93,IX, da Constituição Federal.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANDADO DE BUSCA E APREENSÃO. FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE GRAVAME. AGRAVO REGIMENTAL DESPROVIDO.
+1. A inexistência de argumentação apta a infirmar o julgamento monocrática conduz à manutenção da decisão recorrida.
+2. A jurisprudência do Supremo Tribunal Federal admite a chamada motivação per relationem como técnica de fundamentação das decisões judiciais. Precedentes.
+3. Não configura ofensa ao disposto no art. 93, IX, da Constituição Federal a decisão que, ao deferir busca e apreensão, de forma expressa, se reporta à representação da autoridade policial e à manifestação do Parquet, que apontaram, por meio de elementos concretos, a necessidade da diligência para a investigação.
+4. Além de a decisão estar suficientemente motivada, a defesa não demonstrou prejuízo efetivo, tendo em vista que sequer indicou quais elementos colhidos na referida diligência teriam servido de substrato para a condenação. Não tendo o impetrante deduzido em que medida a decretação de invalidação poderia conduzir a desfecho diverso na ação penal, não há como reconhecer a ilegalidade invocada.
+5. Agravo regimental desprovido.
+(HC 170762 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 20/11/2019, PROCESSO ELETRÔNICO DJe-261 DIVULG 28-11-2019 PUBLIC 29-11-2019)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. TRANCAMENTO DE AÇÃO PENAL. HIPÓTESES RESTRITAS. EXCEPCIONALIDADE NÃO CONFIGURADA. INTERCEPTAÇÃO TELEFÔNICA. FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. VIOLAÇÃO DOS PRINCÍPIOS DO JUIZ E DO PROMOTOR NATURAL. INOCORRÊNCIA. AGRAVO QUE SE LIMITA A REPISAR OS MESMOS ARGUMENTOS. NÃO PROVIMENTO.  ..
+3. O uso da fundamentação per relationem não se confunde com ausência ou deficiência de fundamentação da decisão judicial, sendo admitida pela jurisprudência majoritária desta Suprema Corte (HC 130.860-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 26.10.2017).
+4. Decisões que analisam os diálogos captados e o contexto em que travadas as conversas interceptadas, apontando a suspeita de vinculação do paciente com as ações supostamente criminosas e justificando a adoção de medidas não ostensivas de apuração, são suficientes para cumprir com o dever de fundamentação que exsurge do artigo 93, inciso IX, da Constituição Federal (HC 120.203-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe de 3.3.2015)  ..
+8. Agravo regimental conhecido e não provido.
+(RHC 151402 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 22/03/2019, PROCESSO ELETRÔNICO DJe-066 DIVULG 02-04-2019 PUBLIC 03-04-2019)
+Aliás, ao contrário do que decidido no acórdão recorrido, a Suprema Corte reputa válida a simples referência aos fundamentos de fato ou de direito contidos em manifestação ou ato decisório anteriores, consoante se depreende do seguinte julgado:
+AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO CRIMINAL COM AGRAVO. OFENSA AOS ARTS. 5º, XII; E 93, IX, DA CF. ALEGAÇÃO DE FALTA DE PREQUESTIONAMENTO E DE EXISTÊNCIA DE OFENSA REFLEXA. INOCORRÊNCIA. INTERCEPTAÇÕES TELEFÔNICAS, ESCUTAS AMBIENTAIS E RASTREAMENTO VEICULAR DEFERIDOS EM DECISÃO FUNDAMENTADA.  ..  AGRAVO A QUE SE NEGA PROVIMENTO.
+I - No caso dos autos, ficam afastadas as alegações de falta de prequestionamento e de existência de ofensa reflexa, uma vez que os arts. 5º, XII; e 93, IX, da Constituição Federal constaram da ementa do acórdão recorrido e foram utilizados como razão de decidir pelo Tribunal de origem.
+II - O Supremo Tribunal Federal admite como motivação per relationem ou por remissão a simples referência aos fundamentos de fato ou de direito constantes de manifestação ou ato decisório anteriores. Precedentes.
+III - No caso, o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, ainda que sucintamente, traz os motivos que levaram o Colegiado a autorizar as interceptações telefônicas, as escutas ambientais e o rastreamento veicular. Nele, explicitou-se a existência de substrato probatório quanto aos indícios de autoria e a necessidade dessas medidas excepcionais, tendo em vista a gravidade dos crimes e a complexidade das investigações, por envolverem policiais militares e civis.  ..
+VIII - Agravo regimental a que se nega provimento.
+(ARE 1260103 ED-segundos-AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 28/09/2020, PROCESSO ELETRÔNICO DJe-241 DIVULG 01-10-2020 PUBLIC 02-10-2020)
+No mesmo vértice:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ALEGADA NULIDADE DECORRENTE DE IMPROPRIEDADE NO USO DA FUNDAMENTAÇÃO PER RELATIONEM. INEXISTÊNCIA. INDEFERIMENTO DE PLEITO DE INCLUSÃO DE TESTEMUNHAS DE DEFESA. AUSÊNCIA DE ILEGALIDADE.
+1. A jurisprudência deste SUPREMO TRIBUNAL já se consolidou no sentido da validade da motivação per relationem nas decisões judiciais, inclusive quando se tratar de expressa remissão a parecer ministerial constante dos autos.  ..
+4. Agravo Regimental a que se nega provimento.
+(HC 176085 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 20/11/2019, PROCESSO ELETRÔNICO DJe-264 DIVULG 03-12-2019 PUBLIC 04-12-2019)
+Ante o exposto, nos termos do art. 1.030, V, a, do Código de Processo Civil, admite-se o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. DESPROVIMENTO DA APELAÇÃO DEFENSIVA. FUNDAMENTAÇÃO PER RELATIONEM. RECURSO ADMITIDO.
