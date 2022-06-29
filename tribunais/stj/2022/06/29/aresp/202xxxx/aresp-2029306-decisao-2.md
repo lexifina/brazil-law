@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  CHARLES SANTANA CORDEIRO eUELISON MARTINS DOS SANTOS contra  a  decisão  que  inadmitiu  recurso  especial  fundamentado  no  art.  105,  inciso  III,  alínea a, da  Constituição  da  República,  manifestado  contra  o  acórdão  prolatado  pelo  Tribunal  de  Justiça  do  Estado  de São Paulo  na Apelaçãon.0097118.93.2018.8.26.0050.
+Consta  dos  autos  que  os Agravantes foram condenados como incursos noart. 35 da Lei n. 11.343/06 e no art. 2.º, caput, da Lei n. 12.850/13, em concurso material, às penas de: a)6 (seis) anos de reclusão, emregime inicial fechado, e 710 dias-multa para UELISON MARTINS; e b) 8 (oito) anos e 3 (três) meses de reclusão, em regime inicial fechado, e 973 (novecentos e setenta e três)dias-multapara CHARLES SANTANA(fls. 2.987-3.209).
+Irresignados, aDefesa e o Ministério Público recorreramao Tribunal de origem, que deu parcial provimento a ambas as apelações, para afastar a condenação pelo delito previsto no art. 35 da Lei n. 11.343/06, em razão de bis in idem, majorar a pena-base e aplicar a causa de aumento de pena prevista no art.2.º, § 2.º, da Lei 12.850/13. Desse modo, a pena final foi redimensionadaao patamar de: a) 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial fechado, e11 (onze) dias-multa para UELISON MARTINS; e b) 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e 16 (dezesseis) dias-multapara CHARLES SANTANA (fls. 3.920-3.960).
+Nas  razões  do  recurso  especial,  aponta-se ofensa ao art. 59 do Código Penal,sob o argumento de que não houve fundamentação idônea para a majoração da pena-base.
+O  recurso  especial  não  foi  admitido  pelo  Tribunal  de  origem  em  razão  doóbicedaSúmula n. 7/STJ (fls. 4.232).
+O  Ministério  Público  Federal  opinou  pelo  não conhecimento do agravo, em razão do óbice da Súmula n. 182/STJ (fls. 4.321-4.323)
+É  o  relatório.
+Decido.
+O  agravo  não reúne  condições  de  admissibilidade,  pois ofundamentoda decisão agravadanão foi impugnado concretamente.
+No caso, o recurso especial não foi admitido pelo Tribunal de origem em razão doóbicedaSúmula n. 7/STJ(fls. 4.232).Todavia, nas razões do agravo contra essa decisão, oAgravante não impugnou concreta e especificamente o referido fundamento, limitando-se a alegar genericamente que "com o recurso especial interposto, visa-se não à (re)análise de provas, mas sim à correta aplicação da lei ao caso concreto" (fl. 4.263), sem nenhuma correlaçãoefetiva com a situação particular dos autos.
+Ressalte-se que, nos termos da jurisprudência desta Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ,não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.750.146/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021), o que não foi observado na espécie.
+A esse respeito, confira-se:
+" ..
+5. Relativamente à Súmula 7/STJ,mostra-se insuficiente "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas"(AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+ .. " (AgRg nos EDcl no AREsp 1.856.037/RS, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO, SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021; sem grifos no original.)
+Desse modo, ante a ausência de impugnação efetiva do fundamentoda decisão que inadmitiu o recurso especial, incide o disposto no Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PENAL E PROCESSUAL PENAL. PECULATO.MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OSFUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
