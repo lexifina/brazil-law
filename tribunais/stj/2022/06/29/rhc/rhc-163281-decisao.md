@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 141):
+HABEAS CORPUS- CRIMES DE HOMICÍDIO QUALIFICADO (121, §2o, II e IV, c/c art. 14, II c/c art. 180, na forma dos arts. 29 e 69, do CP, com incidência da Lei no 8.072/90)- EXCESSO DE PRAZO  NÃO DEVE CONSTATADO  QUESTÃO QUE SER ANALISADA À LUZ DO PRINCIPIO DA RAZOABILIDADE, LEVANDO-SE EM CONSIDERAÇÃO AS PECULIARIDADES INERENTES CONCRETA A CADA SITUAÇÃO  PRECEDENTE DO STJ  RÉUS PRONUNCIADOS - ADIAMENTOS E REMARCAÇÕES DA SESSÃO PLENÁRIA SE VERIFICARAM EM RAZÃO DE DESDOBRAMENTOS QUE PRECEDEM A SESSÃO DE JULGAMENTO DO JÚRI E, IMPRESCINDÍVEIS A INSTRUÇÃO DO FEITO: AUSÊNCIA DE LAUDOS PERICIAIS E/OU OUTROS DOCUMENTOS REQUISITADOS E NÃO CUMPRIDOS/JUNTADOS, NÃO LOCALIZAÇÃO SUPERVENIENTE DE TESTEMUNHAS, DENTRE OUTROS, ALÉM DA DA PANDEMIA MUNDIAL PROVOCADA PELO COVID-19, AFASTAM A ALEGADO CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO  REQUISITOS DA PREVENTIVA SUBSISTENTES EXCEPCIONAL - MEDIDA CAUTELAR PRESERVADA  NECESSIDADE DA PRISAO PREVENTIVA REAVALIADA PELO JULGADOR DE ORIGEM - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO  HABEAS CORPUS CONHECIDO E ORDEM DENEGADA.
+Consta dos autos que os recorrentes foram presos em flagrante em 27/5/2020, custódia convertida em preventiva, restando pronunciados, THALIS como incurso no art. 121, § 2º, II e IV, c/c o art. 14, II, c/c o art. 29, todos do Código Penal,e JAMISSON incurso no art. 121, §2º, II e IV, c/c o art. 14, II, c/c o art. 180, na forma dos arts. 29 e 69, todos do Código Penal.
+No presente recurso, alega a defesa o excesso de prazo para a conclusão do julgamento, "em inaceitável afronta ao princípio da razoabilidade, haja vista que a prisão preventiva perdura por 01 (um) ano e 06 (seis) meses" (fl. 149).
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva e a expedição do competente alvará de soltura.
+A liminar foi indeferida (fls. 187-188).
+As informações foram prestadas (fls. 200-206).
+O parecer do Ministério Público Federal foi pelo não conhecimento do recurso ante a superveniente perda de seu objeto (fls. 208-209).
+Consoante informações prestadas (fl. 204), foi realizada a sessão de julgamento do Tribunal de júri em 18/5/2022, havendo condenação dos recorrentes (Processo n. 0021793-24.2020.8.25.0001). Todavia, concedeu-se a ambos o direito de recorrer em liberdade, havendo expedição dos competentes alvarás de soltura em 20/5/2022. Portanto, torna-se sem objeto o pedido de revogação da prisão preventiva.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
