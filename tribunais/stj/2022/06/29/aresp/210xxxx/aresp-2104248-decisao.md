@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FABIO LANDIM GARCIA contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas"a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 112):
+"AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão que determinou a penhora "on line"de ativos financeiros depositados em conta bancária do devedor. Alegação de tratar-se verba correspondente a pagamento de salário. Impenhorabilidade de fundos em conta bancária, tidos como impenhoráveis desde que não ultrapassem o limite de 40 salários mínimos.
+Orientação do STJ nesse sentido. Entendimento de que deve ser preservada uma disponibilidade em dinheiro à pessoa para que possa fazer frente às vicissitudes da vida, inevitáveis. Prevalência de um caráter humanitário a orientar a aplicação do direito. Quantia indisponibilizada que não supera aquele teto. Desbloqueio deferido.
+RECURSO PROVIDO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 175-178).
+Nas razões do apelo nobre (fls. 120-133), FABIO LANDIM GARCIAalega, além de divergência jurisprudencial,violação aos arts. 489, 833 e 927 do CPC/15, ao argumento, entre outros, de que "(..)a jurisprudência vinculante do Superior Tribunal de Justiça admite a constrição salarial, relativizando a regra da impenhorabilidade salarial insculpida no artigo 833, inciso IV do CPC/2015" (fls. 127).
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 183-185), motivando o agravo em recurso especial (fls. 188-196) em testilha.
+É o relatório. Passo a decidir.
+É cediço que, durante bastante tempo, vigorou neste Corte Superior que o salário, o soldo ou a remuneração seriam impenhoráveis, salvo quando se tratar de penhora para pagamento de prestação alimentícia, abaixo:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTA CORRENTE. NATUREZA SALARIAL NÃO COMPROVADA. IMPENHORABILIDADE AFASTADA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7/STJ.
+1. A jurisprudência desta Corte firmou o entendimento no sentido de que são impenhoráveis os valores depositados em conta destinada ao recebimento de vencimentos, salários, ou proventos de aposentadoria do devedor, salvo para pagamento de prestação alimentícia.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1140631/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018 - g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. PENHORA SOBRE SALÁRIO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO CONFORME A ORIENTAÇÃO JURISPRUDENCIAL. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, os vencimentos são impenhoráveis, nos termos do artigo 649, inciso IV, do CPC/1973, salvo para pagamento de prestação alimentícia.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1065656/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/08/2017, DJe 25/08/2017 - g. n.)
+Todavia, o entendimento colacionado acima foi alterado, haja vista que, atualmente têm prevalecido nesta Corte Superior que regra da impenhorabilidade pode ser relativizada quando a hipótese concreta dos autos permitir que se bloqueie parte da verba remuneratória do devedor inadimplente, ocasião em que deve ser preservado montante suficiente a assegurar a subsistência digna do executado e sua família.
+Nesse sentido destaca-se precedentes da Corte Especial do STJ:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUÉIS. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação de despejo por falta de pagamento cumulada com cobrança, ajuizada em desfavor de fiadores de contrato de locação.
+2. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+3. Na espécie, imperioso mostra-se o retorno dos autos à origem para que a questão seja decidida à luz da jurisprudência constante deste voto, devendo ser analisada a possibilidade de, no caso concreto, ser fixado percentual de desconto sobre o salário dos recorridos.
+4. Agravo interno não provido."
+(AgInt nos EREsp 1701828/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/06/2020, DJe 18/06/2020 -g. n.)
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido."
+(EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018 - g. n.)
+No mesmo sentido, colaciona-se precedentes excepcionando a regra da impenhorabilidade absoluta do salário:
+"RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE ALUGUEL. FIADOR. REGÊNCIA DO CPC/73. VERBA REMUNERATÓRIA. IMPENHORABILIDADE. FLEXIBILIZAÇÃO. PO SSIBILIDADE EXCEPCIONAL. PROVENTOS DE APOSENTADORIA. SÚMULA Nº 83/STJ. REVISÃO DO ASSENTANDO PELA CORTE DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. À luz exclusivamente do CPC/73, esta Corte admite a relativização excepcional da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/1973 para alcançar parte da remuneração do devedor com o fito de satisfação do crédito não alimentar, desde que garantida a subsistência digna do executado e de sua família, conforme análise do caso concreto. Precedentes. - EREsp 1582475/MG, Rel. Ministro Benedito Gonçalves, Corte Especial.
+2. No caso concreto, o Tribunal local expressamente reconheceu que a constrição de 20% dos proventos de aposentadoria não comprometeria a manutenção digna do devedor e de sua família, razão pela qual deve prevalecer o entendimento perfilhado na decisão embargada. Súmula nº 83/STJ.
+3. A conclusão a que chegou o Tribunal de origem, no sentido de que a penhora não comprometeria a sobrevivência do devedor nem de sua família e de que não foram comprovados os problemas de saúde alegados, decorreu da análise da prova dos autos e seu reexame encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido."
+(AgInt nos EDcl no REsp 1602944/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/08/2020, DJe 26/08/2020 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORABILIDADE DA REMUNERAÇÃO DO DEVEDOR. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULAS N. 7 e 83/STJ. NÃO PROVIMENTO.
+1. "Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, § 2º, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (AgInt no REsp 1825923/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/3/2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1861467/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020 - g. n.)
+Assim, hodiernamente, a impenhorabilidade do salário não é absoluta, sendo possível a penhora de parte do salário do devedor para o pagamento de dívida de natureza não alimentar.
+Da leitura do acórdão recorrido, verifico que o eg. TJ-SP afastou a pretensão recursal quanto ao pleito de penhora, unicamente por entender pela impenhorabilidade absoluta do rendimento salarial, o que registrou nos seguintes termos (fls. 113-116):
+"A soma em dinheiro em moeda corrente ou em qualquer aplicação financeira que não suplante os 40 salários mínimos é vista como impenhorável, por ser indispensável a satisfazer o poupador nas vicissitudes inevitáveis da vida.
+No passado, havia dúvida sobre se a sobra que decorreu da não utilização de salários e congêneres se considerava intangível ou não à penhorabilidade, uma vez não utilizada para a subsistência do depositante na sua integridade.
+Não é demais lembrar que a jurisprudência se orientava no sentido de se reconhecer a perda da característica original de tais ganhos quando não eram de plano no seu todoutilizados, com o que assumiam a condição de bens que se enquadram no conceito de garantia comum dos credores.
+Por isso mesmo, essa sobra deveria ser vista como investimento e assim como patrimônio disponível, e isso se tornou a orientação outrora dominante.
+Porém, esse entendimento não subsistiu, porque hoje a rigor a jurisprudência se encaminha em sentido diametralmente oposto.
+De fato, o egrégio Superior Tribunal de Justiça no REsp. nº 1.191.195/RS, relatora Ministra NANCY ANDRIGHI, considerou que a intenção do legislador, ao preservar a impenhorabilidade da quantia em dinheiro até 40 salários mínimos depositada em caderneta de poupança, foi de proteger o pequeno investidor, atribuindo-lhe uma função de segurança alimentícia ou de previdência pessoal ou familiar.
+Enfim, o propósito foi assegurar bens indispensáveis à preservação de um mínimo para fazer frente às naturais necessidades vitais, com a incorporação do ideal humanitário. E o v. acórdão arremata suas conclusões com a consideração de que situações que indiquem a má-fé do devedor devem ser solucionadas pontualmente.
+Nos Embargos de Divergência no REsp n. 1330567-RS, relator Ministro LUIS FELIPE SALOMÃO, publicado em 19.4.2014, decidiu-se no mesmo sentido, quando também se assentou que, em aplicação financeira, o limite da impenhorabilidade é também correspondente ao valor de 40 salários mínimos, pouco importando a natureza do investimento, com abrangência até mesmo do papel moeda.
+Foi destacado que é possível o devedor poupar sob o beneplácito da impenhorabilidade até 40 salários mínimos, pouco importando que seja em caderneta de poupança, ou em outra modalidade qualquer de investimento, como conta-corrente ou em fundos de investimentos.
+O mesmo entendimento é observado no AgRg no AREsp nº 622376/RS, relatora Ministra MARIAISABEL GALLOTTI, DJe de 27.2.2015
+Com isso, é denotado um delineamento mais preciso a respeito da questão em análise, em que já há melhor definição de alguns parâmetros, como o de que não é unicamente intangível o dinheiro em caderneta de poupança, mas que, em regra, até o limite de até 40 salários mínimos, seja em que modalidade de aplicação for, deve ser tida como reserva para garantia da pessoa contra adversidades da vida.
+O abuso ou a má-fé cabe ser verificado em cada situação particular. Logo, sem importar a etiologia do numerário do agravante que foi bloqueado, o fato de inegavelmente ser inferior a 40 salários mínimos é por si só suficiente para ser considerado como impenhorável."
+(g. n.)
+Dessa forma, uma vez que o entendimento do eg. TJ-SP encontra-se dissonante daquele adotado por esta Corte Superior, merece provimento o apelo extremo a fim de determinar o retorno dos autos à il. Primeira Instância para que seja analisado se o caso em concreto admitira a questionada penhora, repisa-se, levando em consideração o entendimento atual desta E. Corte.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial .
+Publique-se.
