@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" permissivo constitucional.
+Agravo em Recurso Especial interposto em: 08/03/2022.
+Concluso ao gabinete em: 06/06/2022.
+Ação: revisional de contrato, ajuizada por VALTER JOSE MENTZ, em face da agravante, em razão dos encargos abusivos cobrados pela requerida no empréstimo consignado de que as partes foram signatárias no ano de 2014, quitado em 2018, envolvendo juros ilegais e capitalização, conforme exposto na petição inicial.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu provimento à apelação interposta pelo agravado, para limitar os juros remuneratórios em 12% ao ano, afastar a capitalização de juros e admitir repetição de indébito na forma simples e compensação de valores.
+Nesse sentir, é a ementa do julgado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. - CONTRATO DE EMPRÉSTIMO PARTICULAR. FUNCORSAN. REGÊNCIA DO CÓDIGO CIVIL. JUROS. AS ENTIDADES DE PREVIDÊNCIA PRIVADA FECHADA NÃO ESTÃO SOB O ABRIGO DA LEGISLAÇÃO QUE REGE O SISTEMA FINANCEIRO NACIONAL. NA SUA RELAÇÃO CREDITÍCIA COM OS SEUS MUTUÁRIOS IMPÕE-SE A REGÊNCIA DO CÓDIGO CIVIL, INCLUSIVE NO QUE SE REFERE À LIMITAÇÃO DA TAXA DE JUROS EM 12% AO ANO. CIRCUNSTÂNCIA DOS AUTOS EM QUE OS JUROS REMUNERATÓRIOS FIXADOS SÃO ABUSIVOS; E SE IMPÕE A REFORMA DA SENTENÇA NO PONTO. - REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO. REVISIONAL. NA AÇÃO REVISIONAL É DEVIDA A REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES - INDEPENDENTE DE PROVA DE ERRO - SE AFERIDOS E COMPENSADOS OS VALORES PARA CUMPRIMENTO DA SENTENÇA RESULTAR EXCESSO DE PAGAMENTO. A REPETIÇÃO EM DOBRO REQUISITA PROVA DE MÁ-FÉ QUE NÃO SE PRESUME COM A REVISÃO CONTRATUAL. CIRCUNSTÂNCIA DOS AUTOS EM QUE HAVENDO REVISÃO SE IMPÕE ADMITIR REPETIÇÃO E COMPENSAÇÃO. - CAPITALIZAÇÃO. AUSÊNCIA DE PACTUAÇÃO. PROVA DA INCIDÊNCIA DA COBRANÇA. A CAPITALIZAÇÃO COM PERIODICIDADE MENSAL É LÍCITA QUANDO PACTUADA NOS CONTRATOS FIRMADOS APÓS 31/03/00 DATA DE PUBLICAÇÃO DA MEDIDA PROVISÓRIA N. 1.963/00 CUJA CONSTITUCIONALIDADE FOI RECONHECIDA QUANDO DO JULGAMENTO DO RECURSO EXTRAORDINÁRIO Nº 592.377. A CAPITALIZAÇÃO DEVE VIR PACTUADA DE FORMA EXPRESSA E CLARA EM CLÁUSULA QUE A NOMINE E INDIQUE A TAXA EFETIVA (ANUAL) SUPERIOR AO DUODÉCUPLO DA TAXA NOMINAL (MENSAL) PARA EVIDENCIAR A CONTRATAÇÃO DE JUROS COMPOSTOS. RECURSO ESPECIAL N. 973.827/RS REPRESENTATIVO DE CONTROVÉRSIA. CIRCUNSTÂNCIA DOS AUTOS EM QUE EMBORA AUSENTE A CONTRATAÇÃO DA CAPITALIZAÇÃO DE JUROS NOS CONTRATOS, HÁ PROVA DA INCIDÊNCIA DA COBRANÇA NOS DEMONSTRATIVOS ANALÍTICOS; E SE IMPÕE A REFORMA DA SENTENÇA, NO PONTO.
+RECURSO PROVIDO. (e-STJ, fls. 209/210) (grifo nosso)
+Embargos de declaração de fls. 247/355 (e-STJ): opostos pelo agravado, foram acolhidos para sanar omissão quanto aos consectários da mora incidentes sobre os valores a serem repetidos, nos termos da fundamentação.
+Embargos de declaração de fls. 257/262 (e-STJ): opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação do art. 1.022 do CPC/15. Sustenta a ocorrência de omissão em relação à aplicação da Resolução 3.792/2009 do BACEN e da ausência de comprovação da alegada capitalização de juros ocorrida durante o transcurso do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do afastamento da Resolução 3.792/2009 do BACEN, da aplicação o Código Civil e da incidência de juros capitalizados na situação em análise, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo, para CONHECER do recurso especial e NEGAR-LHE PROVIMENTO, com fundamento no art. 932, IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10 % sobre o proveito econômico (e-STJ, fl. 208) para 15 %, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Agravo conhecido. Recurso especial conhecido e não provido, com majoração de honorários.
