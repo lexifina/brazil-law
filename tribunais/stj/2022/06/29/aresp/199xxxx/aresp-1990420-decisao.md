@@ -1,0 +1,36 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interno interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS e SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA, em face de decisão proferida pela Presidência deste Superior Tribunal de Justiça que não conheceu do recurso especial interposto pelas agravantes em razão de sua intempestividade (e-STJ fls. 255-256).
+Nas razões de seu agravo interno, a parte recorrente pugna pela modificação do julgado deduzindo, em resumo, que "a agravante em tópico próprio,( item I. TEMPESTIVIDADE E PREPARO - fls 189), constante da petição de Recurso Especial, informou que: o v. acórdão recorrido foi publicado no Diário Oficial no dia 23/03/2021, conforme certidão de fls. 183, e, devido a suspensão dos prazos processuais (dias 26 e 31 de março, e 01 e 02 de abril -Lei 9224/2021, e,Art. 66, inciso IV da Lei Estadual nº 6956, de 13 de janeiro de 2015 (Publicação 14.01.2015)) , é, pois, manifesta a tempestividade do presente, uma vez que o prazo se encerra no dia 19 de abril de 2021, ONDE JUNTOU AOS AUTOS A PORTARIA QUE COMPROVA A SUSPENSÃO DOS PRAZOS ( FLS. 206/210) .. " (e-STJ fl. 263).
+É o breve relatório.
+Passo a decidir.
+Com razão o agravante, motivo pelo qual,exercendo o juízo de reconsideração facultado pelo art. 259 do Regimento Interno/STJ, torno sem efeito a decisãodefls. 255-256, e-STJ.
+Por conseguinte, atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Alega a ora recorrente em seu apelo extremo violação aos incisos III e VII do art. 966 do CPC sob a alegação de quequehouve dolo da parte vencedora (omissão do pagamento) e de que o o efetivo comprovante de quitação foi obtido após a sentença, o que configura documento novo, argumentos conducentesaensejaro deferimento da rescisória.
+Ocorre que, no acórdão recorrido, não houve pronunciamento do Tribunal de origem, nem mesmo implícito, acerca do mérito da tese de ofensa aos incisos III e VII do art. 966 do CPC/15.
+Verifico que o Tribunal de Justiça do Rio de Janeiro se ateve tão somente à análise do inciso VIII do referido artigo, sendo que, ao constatara ausência de enquadramento da hipótese concreta à fattispecie do dispositivo em questão, concluiu pelo descabimento da ação rescisória.
+Com isso em mente, este Superior Tribunal de Justiça, ao interpretar o que estabelece o art. 1.025do CPC/15, possui a orientação de que a configuração do prequestionamento ficto ocorre apenas nas hipóteses em que, após opor embargos de declaração em face do acórdão recorrido, a parte recorrente aponta, nas razões do recurso especial, ofensa ao art. 1.022 do mesmo diploma legal, de forma a viabilizar o exame da eventual existência de vício no acórdão recorrido e a averiguação da possibilidade de supressão da manifestação sobre a matéria pela Corte local.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. LITISCONSORTE. EXCLUSÃO. DECISÃO INTERLOCUTÓRIA. CABIMENTO. AGRAVO DE INSTRUMENTO. ART. 1.015, VII, DO CPC/2015. APELAÇÃO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. NÃO APLICAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+ ..
+4. Inadmissível recurso especial quanto a questão que, a despeito da oposição de declaratórios, não foi apreciada pelo tribunal de origem. Súmula nº 211/STJ.
+5. A jurisprudência desta Corte Superior entende que a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+ ..
+8. Agravo interno não provido.
+(AgInt no AREsp 1632625/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/03/2021, DJe 12/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. MULTA FIXADA NA HIPÓTESE DE DESCUMPRIMENTO DE ORDEM JUDICIAL PROFERIDA NA DEMANDA PRETÉRITA. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE INDICAÇÃO DE OFENSAAO ART. 535 DO CPC (ART. 1.022 DO CPC/2015). PREQUESTIONAMENTO FICTO. IMPOSSIBILIDADE. INTERESSE DE AGIR. CONDIÇÃO DA AÇÃO. EXTINÇÃO DO FEITO. DECISÃO MANTIDA.
+1. O conteúdo normativo dos arts. 333, I e II, do CPC/1973, 6º, IV, VI e VIII, e 14 da Lei n. 8.078/1990, 186, 422 e 927 do CC/2002 não foi apreciado pelo Tribunal a quo, apesar da oposição de embargos declaratórios. Caberia à parte alegar violação do art. 535 do Código de Processo Civil de 1973 (art. 1.022 do CPC2015). Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+2. A admissão do prequestionamento ficto previsto no art. 1.025 do CPC/2015 exige que se aduza, no recurso especial, violação do art. 1.022 do Diploma Processual (art. 535 do CPC/1973), o que não ocorreu.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1562190/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Contudo, no caso sob análise, a parte recorrente não suscitou, nas razões do recurso especial, a existência de ofensa ao art. 1.022 do CPC/2015. Nesse contexto, o exame da matéria permanece inviabilizado, diante da ausência de prequestionamento.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 10% sobre o valor da causa(e-STJ fl. 147), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 11% sobre o valor da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, acolho o agravo interno para, em juízo de retratação, tornar sem efeito a decisão de fls. 255-256, e-STJ e, no mesmo ato, conhecer do agravo para não conhecer do recurso especial,com majoração de honorários.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.021, §4º, do CPC/2015).
+Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECURSO ESPECIAL EM RAZÃO DE INTEMPESTIVIDADE. RECONSIDERAÇÃO. ALEGADA VIOLAÇÃO AOS INCISOS III E VII DO ART. 966 DO CPC/15. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/15. PREQUESTIONAMENTO FICTO. IMPOSSIBILIDADE. SÚMULA 211/STJ.
+AGRAVO INTERNO ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, TORNAR SEM EFEITO A DECISÃO DA PRESIDÊNCIA E, NO MESMO ATO, CONHECER DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL, COM MAJORAÇÃO DE HONORÁRIOS.
