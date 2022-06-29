@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática opostos pela parte: UNIÃO.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe do seguinte trecho da petição:
+ ..
+II-MATÉRIA REPETITIVA. RECURSO ESPECIALN. 1.907.153/CE. DECISÃO DA PRIMEIRA SEÇÃO PUBLICADA EM07/04/2022-AFETAÇÃO. FATO NOVO. DETERMINAÇÃO DE SUSPENSÃODOS RECURSOS ESPECIAIS E AGRAVO. NECESSIDADE DE SOBRESTAMENTO DO FEITO.
+Inicialmente, convém destacar que a decisão manteve o entendimento do acórdão regional, segundo o qual em relação aos servidores públicos, a limitação temporal de 12 meses para a fruição de férias restringe-se ao primeiro período aquisitivo, inexistindo óbice a que, ultrapassados os 12 meses iniciais, haja usufruto de dois períodos no mesmo exercício.
+Ocorre que a PRIMEIRA SEÇÃO, por unanimidade, afetou ao rito dos recursos repetitivos (RISTJ, art. 257-C) o RESp n.º 1.907.153/CE, para delimitar a seguinte questão de direito controvertida:
+ ..
+Na origem, trata-se de ação ajuizada por Paulo Seturo Shioga contra a União objetivando o gozo das férias no mesmo período de aquisição, independentemente de isso implicar o gozo de dois períodos de férias no mesmo exercício. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida.
+Houve interposição de recurso especial, que teve seguimento na origem.
+No STJ, em decisão monocrática de minha lavra, não se conheceu do recurso especial, ante a incidência da Súmula 83/STJ.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Verifico que a matéria versada no apelo foi submetida a julgamento pelo rito dos recursos repetitivos - REsp n. 1.907.153/CE - Tema 1.135.
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei n. 11.672/2008), isto é, a criação de mecanismo que possibilite às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+ ..
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/5/2012.)
+Pelo exposto, acolho os embargos de declaração, parajulgarprejudicados os recursos interpostos e determinara devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
