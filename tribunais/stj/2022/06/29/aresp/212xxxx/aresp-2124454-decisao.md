@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de JOSIMAR ALVES DOS REISem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0007998-52.2019.8.14.0401.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 2º, II,do Código Penal - CP (roubo), à pena de 08 anos de reclusão e 32 dias-multa, em regime inicial fechado.(fl. 274/275).
+Recurso de apelação interposto pela Defesa foi desprovido(fl. 331/343). O acórdão ficou assim ementado:
+"APELAÇÃO. ROUBO QUALIFICADO. PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPROCEDENCIA. Incabível alegação de inocência e negativa de autoria quando o contexto probatório indica a culpabilidade do apelante. O depoimento testemunhal não deixa dúvidas a respeito da materialidade e da autoria da conduta descrita na inicial acusatória, restando impositiva a confirmação do decreto condenatório. O depoimento de policial militar na condição de agente público que efetuou a prisão do acusado, é revestido de credibilidade e está em harmonia com as outras provas constantes nos autos ,sendo meio apto a corroborar o convencimento do Juízo quanto à autoria e materialidade delitiva. A ausência de vítima perante o Juízo, não pode por si só inviabilizar o decreto condenatório, pois a versão dos fatos apresentada extrajudicialmente, somada às demais provas, confirmam autoria e materialidade alegada. Condenação mantida. RECURSO CONHECIDO E IMPROVIDO." (fl. 331)
+Em sede de recurso especial (fls.346/355), a Defesa apontou violação ao art. 59 do CP, porque o TJ manteve a pena-base estabelecida em 10 anos, considerando desfavoráveis na 1ª fase da dosimetria da pena duas circunstâncias judiciais: a culpabilidade ea circunstância do crime. Aduz ainda em relação aos antecedentesdo recorrente que não há documento idôneo nos autos para comprovação do transito em julgado das ações penais indicadas pelo TJ. Acresce que houve desproporcionalidade no montante de exasperação da pena-base
+Por fim, requer a redução ao mínimo legal da pena fixada.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DO PARÁ (fls. 357/361).
+O recurso especial foi inadmitido no TJ em razão de: a) ausência de prequestionamento (enunciado 211 da súmula do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.
+Em agravo em recurso especial, a Defesa impugnou oreferidoóbice(fls. 370/380).
+Contraminuta do MP (fls. 386/396)
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo não conhecimento ou desprovimento do recurso especial (fls.412/419).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre a violação ao art. 59 do CP, verifica-se do acórdão de fls. 331/343 que a tese defensiva não foi abordada. Sendo assim, carece de prequestionamento, razão pela qual o recurso especialnão deve ser conhecido. Registra-se que tal requisito é aplicável inclusive para as supostasmatérias de ordem pública.Nesse sentido é o entendimento do STJ:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APROPRIAÇÃO INDÉBITA MAJORADA. DOSIMETRIA DA PENA. BIS IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. ABSOLVIÇÃO. AUSÊNCIA DE PROVAS. COAÇÃO MORAL IRRESISTÍVEL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CONFISSÃO ESPONTÂNEA QUALIFICADA. DECLARAÇÃO NÃO UTILIZADAS PARA FUNDAMENTAR A CONDENAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A exigência constitucional do prequestionamento é inafastável, sendo um dos principais pressupostos ao conhecimento do recurso especial, inclusive quando se tratar de questão que se alegue ser de ordem pública.
+2. A revisão da conclusão alcançada pelas instâncias ordinárias acerca dos fatos, a fim de absolver o Recorrente por ausência de provas ou por suposta excludente de culpabilidade, exigiria amplo reexame do acervo fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7 desta Corte Superior.
+3. Conforme a jurisprudência desta Corte Superior, se as declarações do Recorrente não foram empregadas para fundamentar a condenação, é inviável a incidência da atenuante do art. 65, inciso III, alínea d, do Código Penal.
+4. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. QUESTÃO DE ORDEM PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. Não cabe ao Superior Tribunal de Justiça intervir em matéria de prescrição no processo penal, mesmo que o exame de questão de ordem pública seja passível de análise em qualquer momento e grau de jurisdição, quando ausente o requisito do prequestionamento, com a análise da questão perante o Tribunal de origem.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 1.716.777/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. CONTAGEM DOS PRAZOS EM MATÉRIA PROCESSUAL PENAL. DIAS CORRIDOS. PRECEDENTES DESTE STJ. ORIENTAÇÃO FIRMADA NO RESP 1.349.935/SE. REPRESENTATIVO DA CONTROVÉRSIA. INTIMAÇÃO PESSOAL DO MINISTÉRIO PÚBLICO. INTERPOSIÇÃO DE RECURSO PELA DEFESA FORA DO PRAZO RECURSAL. INTEMPESTIVIDADE RECONHECIDA NA ORIGEM. MÉRITO DA DEMANDA. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+ ..
+IV - Conforme reiterada jurisprudência deste Superior Tribunal de Justiça, "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (HC n. 349.782/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/12/2017).
+Habeas corpus não conhecido.
+(HC n. 718.027/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022.)
+Ante o exposto,conheço do agravo para nãoconhecerdo recurso especialcom fundamento nos artigos 932, III, do Código de Processo Civil - CPC e artigo 3º do Código de Processo Penal - CPP.
+Publique-se. Intimem-se.
