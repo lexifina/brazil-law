@@ -1,0 +1,36 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por GRUPO HOSPITALAR DO RIO DE JANEIRO LTDA,contra de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. QUANTUM ARBITRADO. REVOLVIMENTO DO CONJUNTOFÁTICO-PROBATÓRIODOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, oembargante pugna pela reforma da decisão eaponta, em síntese,que "(..) NOVA VISTA ÀS PROVAS JÁ PRODUZIDAS NÃO CONFIGURA REANALISE, MAS REVALORAÇÃO DAS PROVAS, que surge como medida do órgão de instância superior avaliar se o órgão de instância inferior poderia ter formado o seu convencimento a respeito dos fatos de determinado modo, ou seja, se o meio de prova era admitido pelo Direito e se alguma norma jurídica predeterminava o valor que a prova poderia ter, mormente se considerando que no caso em concreto há uma dupla ilegalidade: valorar mal a prova e, consequentemente, qualificar equivocadamente os fatos. " (e-STJ Fl. 1431)
+Impugnação à e-STJ Fls. 1437/1440, requerendo aplicação de multa.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, verifico que os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não há a configuração, no aresto ora embargado, de qualquer omissão, contradição, obscuridade ou erro material que permita a oposição dos aclaratórios.
+Com efeito, não se vislumbra a existência de vícios na decisão embargada, na qual foi fundamentado de forma clara, suficiente e sem proposições logicamente inconciliáveis entre siqueasquestões do recurso especial não poderiam ser conhecidas por incidência doóbicedaSúmula7/STJ.
+A propósito, confiram-se os seguintes trechos da decisão ora embargada (e-STJ Fls. 1424/1425):
+Com efeito, verifico que, ao reconhecer a existência de danos morais indenizáveis e majorar o quantum atinente, o Tribunal de origem assim se manifestou (e-STJ Fl. 1048):
+(..) No que tange ao dano moral este restou caracterizado, vez que a dor dos autores com a morte do ente querido (companheiro e pai) é inegável, ainda mais, quando se tratava de pessoa jovem (42 anos). Em relação ao quantum da indenização é cediço que devem ser observados os princípios da razoabilidade e da proporcionalidade. Nessa conjuntura, constata-se que o montante da verba compensatória foi fixado em valor bem aquém do comumente arbitrado, não se mostrando adequado aos princípios acima referidos, merecendo ser majorado para R$ 75.000,00 (setenta e cinco mil reais), para cada um dos autores, totalizando a quantia de R$ 150.000,00 (cento e cinquenta mil reais).
+(..) (g. n.)
+Assim, elidir as conclusões do aresto impugnado quanto ao quantum arbitrado a título de danos morais, demandaria, inevitavelmente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Com efeito, a jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo.
+O STJ tem afastado o óbice da Súmula 7 somente nas hipóteses em que o valor fixado como compensação dos danos morais revela-se irrisório ou exagerado, de forma a não atender os critérios que balizam o seu arbitramento, a saber, assegurar ao lesado a justa reparação pelos danos sofridos, sem, no entanto, incorrer em seu enriquecimento sem causa.
+Portanto, se o arbitramento do valor da compensação por danos morais foi realizado com razoabilidade, fazendo o juiz uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (RESP 259.816/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, 4ª Turma, DJ de 27/11/2000), o que reflete a hipótese em comento, mormente considerando as peculiaridades do caso dos autos.
+(..) (g.n.)
+Dessa forma,a pretensão da parte agravante quanto a necessária prestação de contas de sua genitora, mormente para fins de elidir as conclusões do aresto impugnado no tocante ao quantum indenizatório, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipóteses como a dos autos, que revelam tão-somente o inconformismo da parte com o julgado.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. PLEITO DE REEXAME DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorrem a omissão ou a contradição alegadas e previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que não restou perfeito e acabado o ato de adjudicação e, desta forma, atingido pela decisão de recuperação judicial a atrair a competência do juízo especializado.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 866060 / SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJ 13/09/2016, DJe 16/09/2016) - g.n.
+Destarte, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado pela decisão embargada é contrário ao interesse da parte, sob os argumentos de que há contrariedade e obscuridade na fundamentação da decisão.
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo
+n. 3/STJ), inclusive no que tange à aplicação de multa (1.026, § 2º, do CPC/2015).
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
