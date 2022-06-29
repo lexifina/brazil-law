@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravos em Recursos Especiais interpostos pelo Instituto Nacional do Seguro Social - INSS e pela União (art. 105, III, "a", da Constituição da República), ambos contra acórdão assim ementado (fl. 2.367, e-STJ):
+PROCESSO CIVIL - PREVIDENCIÁRIO: EXECUÇÃO - PRESCRIÇÃO INTERCORRENTE - DEMORA POR MOTIVOS INERENTES AO MECANISMO DA JUSTIÇA.
+I - A demora no desmembramento de feito por motivos inerentes ao mecanismo da justiça não justifica o acolhimento da prescrição intercorrente da execução, considerando que o termo inicial da prescrição começa a fluir do momento em que a parte deixou de movimentar o processo, quando isso lhe cabia.
+II - É firme o entendimento do STJ no sentido de que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução.
+III - Apelação conhecida e provida.
+Os Embargos de Declaração foram rejeitados (fls. 2.415-2.418, e-STJ).
+Em seu Recurso, o INSS alega que houve violação, em preliminar, dos arts. 11, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil; e, no mérito, dos arts. 1º e 3º do Decreto 20.910/1932. Afirma, em síntese, que a parte recorrida não promoveu a execução no prazo de 5 anos após o trânsito em julgado, o que torna o crédito inexigível, pois está prescrito.
+No Recurso Especial de fls. 2.440-2.446, e-STJ, a União aduz ofensa aos mesmos dispositivos e reitera a ocorrência de prescrição.
+Contrarrazões apresentadas pela recorrida às fls. 2.458-2.469, e-STJ.
+Contraminutaàs fls. 2.516-2.529, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.6.2022.
+Passo à análise conjunta dos Agravos, visto que tratam exatamente sobre o mesmo tema.
+Preliminarmente, constata-se que não se configurou a ofensa aos arts. 11, 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, as partes insurgentes buscam a reforma do aresto impugnado, asseverando que o Colegiadoa quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento das partes com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte regional examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fl. 2.365, e-STJ):
+A hipótese de prescrição intercorrente adotada pela sentença recorrida não merece guarida, devendo-se reconhecer que a aparente inércia da parte exequente decorreu das vicissitudes de uma ação ajuizada por um número expressivo de autores, vários deles sucedidos por herdeiros desde a formação da coisa julgada, aliada às dificuldades inerentes ao funcionamento da máquina judiciária.
+Para se ter uma ideia, março/2000 o Juízo a quo determinou o desmembramento do processo principal em grupos de 10 litisconsortes, do total de 501, com a finalidade de viabilizar a liquidação por artigos do julgado (fl. 1707), após o que sobrevieram algumas manifestações dos autores nos anos imediatamente seguintes (fls. 1709, 1714, 1731, 1736, etc), enquanto em setembro/2009 o Juízo a quo chamou o feito principal à ordem, para alterar a classe para "execução de sentença" e determinar o prosseguimento nos moldes do art. 475-E c/c o art. 297 do CPC/1973, além de ter determinado que a parte autora providenciasse um extenso rol de documentos necessários ao início da execução (fl. 1596).
+Nesses termos, considerando que o termo inicial da prescrição começa a fluir do momento em que a parte deixou de movimentar o processo, quando isso lhe cabia, forçoso afastar essa possibilidade, ante a constatação de ter o processo executivo se estendido por longos anos por culpa da máquina judiciária.
+Além de inexistir omissão, verifica-se que o acolhimento da pretensão recursal, em confronto com a conclusão assentada pela instância de origem, acerca da ocorrência ou não de prescrição intercorrente, demandaria o reexame de circunstâncias fático-probatórias da causa, o que não se admite nesta via excepcional, ante o óbice da Súmula 7 do STJ.
+O argumento dos recorrentes de que a morosidade na prática dos atos processuais decorreu da inércia da parte ora recorrida tem sua análise obstada nesta via recursal, porque a verificação de responsabilidade pela demora na prática de tais atos, se do exequente ou do Poder Judiciário, exige a incursão no conjunto fático-probatório.Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. PROVA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. NULIDADE. PREJUÍZO. DEMONSTRAÇÃO. AUSÊNCIA. AGRAVADA. FUNDAMENTOS NÃO AFASTADOS.
+1. Não se declara nulidade sem efetiva demonstração dos prejuízos sofridos pela parte requerente. Precedentes.
+2. Tendo o Tribunal de origem fixado compreensão no sentido de estar caracterizada a prescrição intercorrente, a reforma desse entendimento não pode ser levada a cabo em sede de recurso especial, ante o óbice representado pela Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 585.000/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 19/6/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. AUSÊNCIA DE INÉRCIA DO CREDOR. PRETENSÃO DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Caso em que a Fazenda Pública postula a extinção da execução, sob o pretexto de que o lapso temporal de cinco anos entre o trânsito em julgado do processo de conhecimento e a propositura da execução foi ultrapassado.
+2. O Tribunal de origem, competente na análise da situação fático-provatória dos autos, foi cristalino na conclusão de que: "o longo e tumultuado procedimento na fase de liquidação, o que era imprescindível para executar o crédito, não podem ser atribuídos à parte credora. Pelo contrário, no caso específico, é possivel observar que, logo após o trânsito em julgado, a autora iniciou as diligências para tornar líquido o título executivo". Assim, a revisão das conclusões firmadas no voto condutor encontra óbice no verbete sumular n. 7/STJ. Em situação análoga: AgRg no AREsp 622.049/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 27/04/2015.
+3. Agravo regimental não provido.
+(AgRg no AREsp 667.147/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 9/6/2015)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor das partes recorrentes, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço dos Agravos de ambas as partes para conhecer em parte dos Recursos Especiais, somente no que tange à alegação de ofensa aos arts. 11, 489 e 1.022 do CPC, e negar-lhes provimento.
+Publique-se.
+Intimem-se.
