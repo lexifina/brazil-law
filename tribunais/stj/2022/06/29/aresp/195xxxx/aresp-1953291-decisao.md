@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Maurício Dal Agnol desafiando acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sulassim ementado (e-STJ, fl. 155):
+APELAÇÃO CÍVEL. CONTRATO MANDATO. AÇÃO DE EXIGIR DE CONTAS. PRIMEIRA FASE. DECISÃO DE PARCIAL PROCEDÊNCIA. INTERPOSIÇÃO DE APELO, QUANDO CABÍVEL O RECURSO DE AGRAVO DE INSTRUMENTO (ART. 1.015, INC. II, DO CPC/2015). APELO CONHECIDO COM BASE NO PRINCÍPIO DA FUNGIBILIDADE. PRECEDENTE DO STJ. PRELIMINAR PRESCRICIONAL AFASTADA. PRAZO DECENAL (ART. 205 DO CÓDIGO CIVIL). PRELIMINAR DE FALTA DE INTERESSE DE AGIR AFASTADA. PRESTAÇÃO DE CONTAS PARCIAL, DESACOMPANHADA DE OUTRAS PROVAS QUE CORROBOREM O ALEGADO EM CONTESTAÇÃO. CONTROVÉRSIA A SER DIRIMIDA EM SEGUNDA FASE DO PROCEDIMENTO ESPECIAL, NA FORMA DA LEI. RECURSO DESPROVIDO.
+Apresentados embargos de declaração pelo ora agravante, estes foram rejeitados (e-STJ, fls. 178-181).
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, o recorrente alegou violação aos arts. 17, 330, I e III, 550 e 1.022 do CPC/2015; 25-Ada Lei 8.906/1994, além de afirmar a existência de dissídio jurisprudencial (e-STJ, fls. 193-228).
+Sustentou, em síntese, omissão na decisão recorrida, bem como que a parte recorrida não possui interesse de agir, uma vez que as contas já foram prestadas, além de pagos os valores devidos.
+Acrescentou a consumação da prescrição.
+Contrarrazões apresentadas (e-STJ, fls. 350-357).
+O Tribunal de origem não admitiu oprocessamento do recurso especial por ausência de violação ao art. 1.022 do CPC/2015 eem virtude da incidência das Súmulas n. 7 e 83/STJ e 284/STF (e-STJ, fls. 261-266).
+Foi interposto agravo em recurso especial às fls. 283-307 (e-STJ), e contraminuta apresentada às fls. 328-339 (e-STJ).
+Brevemente relatado, decido.
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE NULIDADE C/C INDENIZAÇÃO POR DANO MORAL. CLUBE DE FUTEBOL. OFENSA GRAVE À INSTITUIÇÃO E A SEUS MEMBROS VEICULADA NA IMPRENSA. EXPULSÃO DE SÓCIO. PENALIDADE PREVISTA NO ESTATUTO DA ENTIDADE E APLICADA APÓS PROCEDIMENTO INTERNO EM QUE FORAM GARANTIDOS OS DIREITOS AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE ILEGALIDADE OU DESPROPORCIONALIDADE DA SANÇÃO. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da ausência de ilegalidades no processo disciplinar interno instaurado pelo Clube em detrimento do autor, bem como a respeito da proporcionalidade da sanção imposta a ele, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1384086/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021)
+Ademais, o Tribunal estadual, ao julgar a apelação, assim consignou (e-STJ, fls. 158-159, sem grifo no original):
+Quanto ao prazo prescricional, está pacificado o entendimento no sentido de que às demandas intentadas pelo mandante em face de seu mandatário, em Ação de Exigir Contas, segue a regra do art. 205 do Código Civil, que estabelece o prazo decenal para prescrição da pretensão.
+ ..
+Quanto à inadequação da via eleita, igualmente, sem razão o recorrente.
+De acordo com a melhor doutrina, "não há necessidade de que o autor da demanda invoque algum suposto crédito existente ou desfalque efetuado pelo requerido.
+Basta que ostente o direito a exigir que as contas lhe sejam prestadas, para que demanda seja procedente"1.
+Narra a parte autora, em sua petição inicial, que o réu, seu advogado em demandas pretéritas, ajuizou diversas demandas sem que ao final prestasse contas do trabalho realizado.
+O réu, a seu turno, em contestação, afirma que prestou contas ao autor, juntando apenas um recibo assinado por ambos desacompanhado de outros documentos que corroborem o alegado em sua defesa, inclusive o contrato celebrado entre as partes e a decisão que confere ao ora autor o direito de receber o produto da condenação da parte adversa.
+Ademais, em primeira fase do procedimento especial o objeto ação cinge-se a verificar se o réu está obrigado a prestar contas. E está, o que é inerente ao contrato de mandato. Em um segundo momento, verifica-se se há crédito remanescente em favor da parte autora.
+Assim, ante a resistência do réu em prestar contas durante a primeira fase, a questão poderá ser aclarada, na forma da lei, durante a segunda fase do procedimento de exigir contas.
+Afasto, pois, a prefacial de falta de interesse de agir por inadequação da via eleita.
+Além disso, quando do julgamento dos embargos de declaração, o colegiado originário, assim concluiu (e-STJ, fl. 180, sem grifo no original):
+Com efeito, em ação de exigir contas de cliente contra advogado, incide a regra especial de prescrição prevista na Lei 8.906/94.
+Ocorre, todavia que o termo inicial do prazo prescricional é a data da deflagração da Operação Carmelina pela Polícia Federal, ocorrida em 21/02/2014 (principio actio nata), ocasião em que a parte autora obteve ciência dos atos praticados por seu procurador em relação ao acordo celebrado com BRASIL TELECOM S/A. Como a presente demanda foi ajuizada em 2015, conclui se não estar prescrita a pretensão ao ressarcimento de eventuais prejuízos decorrentes da conduta do mandatário.
+Com efeito, no que diz respeito ao prazo prescricional, a decisão da Corte local encontra-se em consonância com a jurisprudência do STJ, que é no sentido de o prazo ser o decenal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de prestação de contas (segunda fase).
+2. O rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, em razão das limitações ao contraditório e à ampla defesa. Tema repetitivo 908.
+3. A cobrança da capitalização anual de juros nos contratos bancários depende de previsão contratual expressa. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de previsão contratual expressa em relação à capitalização de juros em periodicidade anual, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando, na vigência do CC/16 a prescrição vintenária prevista no art. 177 ou na vigência do CC/02 a prescrição decenal. Súmula 568/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.809.429/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020, sem grifo no original)
+No mais, aCorte estadual,ao entender que a prescrição teria início com a ciência da lesão, alinhou-se ao entendimento do STJ no sentido de que, nos termos da teoria da actio nata, a pretensão nasce quando o prejudicado tem ciência inequívoca da lesão.
+Confira-se:
+CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. SEGURO DE DANO. PRESCRIÇÃO. SEGUROS EM GERAL. TERMO INICIAL DO PRAZO PRESCRICIONAL. RECUSA DA SEGURADORA.
+1. Recurso especial interposto em 02/03/2021 e concluso ao gabinete em 28/10/2021.
+2. O propósito recursal consiste em determinar o termo inicial do prazo prescricional da pretensão do segurado em face da seguradora nos contratos de seguro em geral.
+3. A prescrição tem como termo inicial do transcurso do seu prazo o nascimento da pretensão (teoria da actio nata). Somente a partir do instante em que o titular do direito pode exigir a sua satisfação é que se revela lógico imputar-lhe eventual inércia em ver satisfeito o seu interesse.
+4. Com relação aos seguros em geral, na vigência do CC/16, a Segunda Seção assentou a tese de que não poderia transcorrer prazo prescricional algum enquanto a seguradora não decidisse o pleito indenizatório endereçado a ela pelo segurado. Editou-se, assim, o enunciado da Súmula 229. Todavia, ainda na vigência desse diploma civilista, passou a jurisprudência do STJ a perfilhar a tese segundo a qual o termo inicial do prazo prescricional seria o momento da recusa de cobertura pela seguradora, ao fundamento de que só então nasceria a pretensão do segurado em face da seguradora.
+5. Com o advento do CC/02, alterou-se a redação da alínea "b" do II do § 1º do art. 206, estabelecendo como termo inicial do prazo prescricional a data da ciência do "fato gerador da pretensão". A interpretação desse dispositivo em conjunto com o estabelecido no art. 771 do mesmo diploma legal conduz à conclusão de que, antes da regulação do sinistro e da recusa de cobertura nada pode exigir o segurado do segurador, motivo pelo qual não se pode considerar iniciado o transcurso do prazo prescricional tão somente com a ciência do sinistro. Por essa razão, é, em regra, a ciência do segurado acerca da recusa da cobertura securitária pelo segurador que representa o "fato gerador da pretensão".
+6. Na hipótese, o Tribunal de origem considerou como termo inicial da prescrição a data do sinistro. Todavia, o prazo prescricional apenas começa a fluir com a ciência do segurado quanto à negativa da cobertura securitária, de modo que a pretensão do recorrente não está fulminada pela prescrição.
+7. Recurso especial conhecido e provido.
+(REsp n. 1.970.111/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/3/2022, DJe de 30/3/2022.)
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal no que diz respeito à data da lesão e consequente termo inicial da prescrição, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável no âmbito do recurso especial, ante o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Outrossim, quanto ao interesse processual, observa-se que a questão foi resolvida com base nos elementos fáticos que permearam a demanda. Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado de origemexigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INTERESSE DE AGIR. REVISÃO. SÚMULA 7/STJ. PRESCRIÇÃO DECENAL.PRECEDENTES. TERMO INICIAL. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
