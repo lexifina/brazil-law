@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal, ajuizado com fundamento no § 4º do artigo 14 da Lei n. 10.249/2001 combinado com o artigo 36 do RITNU contra decisão do Presidente da Turma Nacional de Uniformização que não conheceu do agravo interno interposto contra decisão inadmitiu o pedido de uniformização nacional por ausência dos requisitos de admissibilidade, nos seguintes termos (e-STJ fls. 1.543-1.544):
+Trata-se de pedido de uniformização de interpretação de lei dirigido ao STJ, com fundamento no art. 31, caput, do RITNU, suscitado contra decisão do Presidente da TNU.
+Nos termos do art. 14, § 4º, da Lei n. 10.259/2001, o incidente de uniformização ao STJ somente tem lugar contra decisão proferida pelo colegiado.
+Aqui se cuida de insurgência contra decisão monocrática desta Presidência.
+(..)
+Ante o exposto, com fundamento no art. 7º, X, do RITNU, nego seguimento ao incidente de uniformização.
+Em suas razões, sustenta que "Inobstante a lacuna existente na legislação dos Juizados Especiais, que não prevê a aplicação das normas do Código de Processo Civil ao processo dos juizados especiais  ..  já o Art. 31, caput, do Regimento Interno da TURMA NACIONAL DE UNIFORMIZAÇÃO apresenta lacuna incompatível com o ordenamento jurídico por permitir o acesso do jurisdicionado ao Colendo SUPERIOR TRIBUNAL DE JUSTIÇA somente se houver acórdão da TURMA NACIONAL.  ..  a dicção do § 4º, do Art. 14, da Lei 10.259/2001, versa acerca de "orientação acolhida" pela TURMA DE UNIFORMIZAÇÃO. Ou seja, se esta acolher decisão que contrarie súmula ou jurisprudência dominante no STJ.  ..  o acórdão recorrido, chancelado pelas Instâncias Ordinárias, versa idênticas questões de direito àquelas teses jurídicas já apreciadas pelo regime recursal de demandas repetitivas do STJ, porém não aplicadas ao julgado recorrido.  ..  Logo, o recorrente está convencido de que o Art. 31, caput, do RITNU, não pode impedir subjetivamente o direito recursal dos jurisdicionados e admiti-lo exclusivamente na hipótese de decisão colegiada, acórdão. .. "
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+Dispõe o art. 14, § 4º, da Lei 10.259/2001 que o Incidente de Uniformização dirigido ao Superior Tribunal de Justiça somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ.
+A impugnação sob exame é manifestamente inadmissível, pois não há previsão legal do seu cabimento contra decisão monocrática da Presidência da TNU.
+A pretensão da parte requerente contraria interpretação consolidada no Superior Tribunal de Justiça acerca dessas normas. Nesse sentido:
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO MANEJADO CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. NÃO CABIMENTO.
+1. O que postula a requerente é a percepção do percentual de 13,23% em seus vencimentos, com fundamento no direito previsto no art. 37, X, da Constituição de 1988.
+2. Ocorre que a impugnação se volta contra decisão da Presidência da Turma Nacional de Uniformização, e, nos termos do art. 14, § 4º, da Lei 10.259/2001, o Incidente de Uniformização dirigido ao STJ só pode ser manejado contra decisão colegiada.
+3. Nesse sentido: "Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual" (AgInt no PUIL 1056/DF, Relator Min. Francisco Falcão, Primeira Seção, DJe 2.9.2019). Na mesma direção: AgRg na Pet 9.586/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 25.4.2014; Aglnt no PUIL 72/PR, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 9.10.2017;
+AgInt no PUIL 1.046/TO, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 29.5.2019.
+4. Agravo Interno não provido. (AgInt no PUIL 1.794/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe 17/11/2020; grifou-se)
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. PEDIDO MANEJADO CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DA TNU. INADMISSIBILIDADE.
+I - Trata-se de Pedido de Uniformização de Interpretação de Lei e Jurisprudência apresentado, com fundamento no art. 14, §4º, da Lei n. 10.259/2001, contra decisão do Presidente da Turma Nacional de Uniformização dos Juizados Especiais Federais que negou seguimento ao incidente, com fundamento no art. 16, I, a, do RITNU.
+II - Dispõe o art. 14, § 4º, da Lei 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Nesse sentido, confira-se o julgado: AgRg na Pet 7.549/PR, 3ª Seção, Min. Og Fernandes, DJe de 8/4/2010.
+III - No caso em comento, não houve decisão colegiada, mas tão somente decisão do Presidente da TNU, que conheceu do Agravo e Negou seguimento ao incidente, com fulcro no art. 16, inciso I, alínea "a" do RITNU, por incidir, no caso, a Súmula 43/TNU (Não cabe incidente de uniformização que verse sobre matéria processual).
+IV - Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão pautada em questão de direito processual, decidida monocraticamente. Nesse sentido: AgRg na Pet 7.549/PR, 3ª Seção, Min. Og Fernandes, DJe de 8/4/2010.
+V - Agravo interno improvido. (PUIL 1.146/AM, Rel. Min. Francisco Falcão, Primeira Seção, DJe 17/12/2019; grifou-se)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI.
+DECISÃO MONOCRÁTICA. DESCABIMENTO.
+1. A teor do disposto no art. 14, § 4º, da Lei n. 10.259/2001, caberá pedido de uniformização de interpretação de lei federal, dirigido a esta Corte, quando a orientação acolhida pela Turma Nacional, em questões de direito material, contrariar súmula ou jurisprudência dominante do Superior Tribunal de Justiça.
+2. Hipótese em que o incidente de uniformização foi formulado em desafio à decisão da Presidência da Turma Nacional de Uniformização, o que não é cabível.
+3. Agravo interno desprovido. (AgInt no PUIL 926/RN, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 26/3/2019; grifou-se)
+Ante o exposto, não conheço do pedido de uniformização de jurisprudência, com fundamento no art. 34, XVIII, a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI (ART. 14, § 4º, DA LEI N. 10.249/2001). DIREITO MATERIAL NÃO APRECIADO NA ORIGEM. INCIDENTE MANEJADO CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. NÃO CABIMENTO. INCIDENTE NÃO CONHECIDO.
