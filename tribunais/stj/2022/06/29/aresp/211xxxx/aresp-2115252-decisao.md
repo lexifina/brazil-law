@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FERTIMIG FERTILIZANTES LTDA E OUTRO - EM RECUPERAÇÃO JUDICIAL (FERTIMIG e outra) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJ/MT, assim ementado:
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO - SANCIONADA CLÁUSULASDO PLANO DE RECUPERAÇÃO JUDICIAL, PREVENDO A SUPRESSÃO DASGARANTIAS FIDEJUSSÓRIAS E REAIS - NECESSIDADE DO CONSENTIMENTODO CREDOR TITULAR - PRECEDENTES DESTA E. CORTE E DO SUPERIORTRIBUNAL DE JUSTIÇA - PLANO DE RECUPERAÇÃO APROVADO POR PARTE CONSIDERÁVEL DOS CREDORES EM AGC - CONTROLE DE LEGALIDADE PELO JUDICIÁRIO - VIABILIDADE - RESSALVAS APRESENTADAS PELO AGRAVANTE -SÚMULA 581 DO STJ - RECURSO CONHECIDO E PROVIDO (e-STJ, fl. 556).
+Inconformadas, FERTIMIG e outra interpuseram recurso especial, com amparo no art. 105, III, a e c, da CF, alegando violação (1) ao artigo 49, §§ 1º e 2º, da Lei n.11.101/2005, além de divergência jurisprudencial, ao argumento de que as garantias prestadas em favor das devedoras recuperandas podem ser extintas desde que o plano de recuperação judicial assim o preveja; e, (2) afronta aos artigos 50, § 1º, e 59 da Lei n. 11.101/2005, porquanto "estes só se aplicam em caso de previsão no plano de alienação de bem objeto de garantia real, o que não é o caso".
+O apelo nobre não foi admitido pelo TJ/MT (e-STJ, fls. 701/707).
+Nas razões do presente agravo em recurso especial, FERTIMIG e outra, repisando os argumentos trazidos nas razões do apelo nobre, alegou (1) violação do art. 489 do NCPC; e, (2) a inaplicabilidade da Súmula nº 83 do STJ.
+Contraminuta não foi apresentada (e-STJ, fl. 419).
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à nova análise do recurso especial.
+O recurso não comporta provimento.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O Tribunal estadual, quanto a alegação de violação dos arts. 49, §§ 1º e 2º, 50, § 1º, e 59 da Lei nº 11.101/2005, além de divergência jurisprudencial, no que concerne a supressão das garantias cambiais, reais ou fidejussórias, consignou:
+Sabe-se que a Assembleia Geral de Credores tem como atribuições, dentre outras, deliberar sobre a aprovação, rejeição ou modificação do Plano de Recuperação Judicial apresentado pelo devedor, nos termos do art. 35 da Lei nº 11.101/2005, representando então atos de manifestação de vontade exarados pelos credores.
+Ou seja, nota-se que a lei submete à vontade da coletividade diretamente interessada na realização do crédito, a faculdade de manifestar opinião, bem como autorizar procedimentos para o fim de recuperação da empresa em dificuldades, procedimentos que serão objeto de discussão para que se chegue a uma solução plausível. Nesse sentido, o poder Judiciário não tem qualquer ingerência na aprovação do plano de recuperação judicial, cabendo somente a verificação dos requisitos legais para o processamento da recuperação judicial (art. 51e os demais procedimentais) e gerência do controle judicial da sua legalidade.
+Sem embargo da soberania da decisão proferida pela Assembleia Geral de Credores, ela deve respeitar os limites legais, sendo possível o controle judicial da legalidade do plano de recuperação judicial.
+Não bastasse, em caso de substituição de garantia real, como no caso dos autos, necessária a anuência expressa do credor, nos termos do art. 50, §1º, da Lei de Recuperação Judicial:
+ ..
+No caso dos autos, considerando que o Agravante manifestou-se expressamente pelo não acolhimento da substituição/obliteração de garantias reais e pessoais, inclusive de coobrigados (avalistas) existentes em seu favor, devem ser mantidas as obrigações contratuais, na forma contratada originalmente, sob pena de afronta à segurança jurídica e normas de direito pertinentes à espécie.
+Partindo dessa premissa, não se pode considerar como válidas, de fato, as cláusulas que tratam da supressão de todas as garantias reais e fidejussórias em relação ao Agravante (e-STJ, fls. 559/562).
+Nesse contexto, Tribunal estadual estaria em conformidade com a jurisprudência desta Corte, pois como pacificado pela Segunda Seção, a novação decorrente de cláusula do plano de recuperação judicial que estabelece supressão das garantias cambiais, reais ou fidejussórias somente se aplica aos credores que, expressamente, a ela anuíram. Precedentes.
+Nesse sentido os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DE LEI FEDERAL. ALEGAÇÃO GENÉRICA. DISPOSITIVO CONTENDO CAPUT, PARÁGRAFOS E INCISOS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. FALTA DE PRQUESTIONAMENTO. SÚMULA 211/STJ. RECUPERAÇÃO JUDICIAL. NOVAÇÃO. EXTENSÃO AOS COOBRIGADOS. CLÁUSULA QUE ESTABELECE SUPRESSÃO DAS GARANTIAS CAMBIAIS, REAIS OU FIDEJUSSÓRIAS. APLICAÇÃO SOMENTE AOS CREDORES QUE EXPRESSAMENTE DERAM ANUÊNCIA. QUESTAO PACIFICADA PELA SEGUNDA SEÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. APLICAÇÃO DA SÚMULA 568/STJ.
+1. Alegação genérica de dispositivo legal composto por caput, parágrafos e incisos denota deficiência recursal, atrativa da Súmula 284/STF.
+2. Não decidida no Tribunal de origem a matéria referente ao dispositivo tido como violado, ressente-se o recurso especial do necessário prequestionamento. Súmula 211/STJ.
+3. Segundo pacificado pela Segunda Seção, a novação decorrente de cláusula do plano de recuperação judicial que estabelece supressão das garantias cambiais, reais ou fidejussórias somente se aplica aos credores que, expressamente, a ela anuíram. Acórdão objeto do especial de acordo com esse entendimento. Súmula 568/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.951.100/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/5/2022, DJe de 11/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. CONTROLE DE LEGALIDADE PELO JUIZ. POSSIBILIDADE. SUPRESSÃO DE GARANTIAS. DECISÃO DA ASSEMBLEIA-GERAL. ALCANCE LIMITADO AOS CREDORES CONCORDANTES. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1.  O magistrado deve exercer o controle de legalidade do plano de recuperação - no que se insere o repúdio à fraude e ao abuso de direito-, mas não o controle de sua viabilidade econômica. Nesse sentido, Enunciados n. 44 e 46 da I Jornada de Direito Comercial CJF/STJ  (REsp 1.359.311/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 30/09/2014).
+2. A supressão de garantias, reais e fidejussórias, previstas em plano de recuperação judicial aprovado em assembleia-geral de credores, vincula apenas aqueles credores que assentiram expressamente com a medida, não se estendendo, portanto, aos credores discordantes, omissos, ou ausentes à deliberação.
+Precedente.
+3. Agravo interno provido para, em novo julgamento, negar provimento ao recurso especial.
+(AgInt no REsp n. 1.855.432/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUÍZO UNIVERSAL. ATRATIVIDADE DAS EXECUÇÕES INDIVIDUAIS PROMOVIDAS UNICAMENTE CONTRA A RECUPERANDA. DECISÃO AGRAVADA MANTIDA.
+1. Nos termos do recente entendimento firmado pela e. Segunda Seção, no julgamento do REsp 1.794.209/SP (Rel. Min. Ricardo Villas Bôas Cueva), "3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição" e "4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição" (REsp 1794209/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 12/5/2021, DJe 29/6/2021).
+2. No caso, o juízo trabalhista realizou ato constritivo em desfavor de empresa que não se encontra em recuperação judicial, alegadamente coobrigada da recuperanda.
+3. Credora exequente não participou da Assembleia Geral de Credores, que aprovou cláusula com supressão das garantias em face dos coobrigados e sócios. Prosseguimento da execução.
+4. Incidência das Súmulas 480/STJ e 581/STJ.5.
+5. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no CC n. 172.302/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 29/3/2022, DJe de 1/4/2022.)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. RECUPERAÇÃO JUDICIAL. SUPRESSÃO DAS GARANTIAS CAMBIAIS, REAIS OU FIDEJUSSÓRIAS. APLICAÇÃO SOMENTE AOS CREDORES QUE EXPRESSAMENTE DERAM ANUÊNCIA. QUESTAO PACIFICADA PELA SEGUNDA SEÇÃO. PREDEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
