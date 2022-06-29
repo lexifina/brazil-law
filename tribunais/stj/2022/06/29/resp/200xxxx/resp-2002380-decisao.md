@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco Bradesco S/A em face de acórdão assim ementado:
+APELAÇÃO. SENTENÇA HOMOLOGATÓRIA DO PEDIDO DE DESISTÊNCIA DA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECURSO ADSTRITO AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS POR PARTE DO EXEQUENTE DESISTENTE E NÃO DO EXECUTADO. INTELIGÊNCIA DO ART. 90, CAPUT, CPC/15. INCONTÁVEIS PRECEDENTES DO STJ.DESPROVIMENTO.
+1. De plano, percebe-se que o cerne da questão posta a desate consiste em conferir a verossimilhança das alegações recursais, especialmente, quanto a resistência ao pagamento dos ônus sucumbenciais, de vez que o Autor da Execução de Titulo Extrajudicial (Exequente) propôs a Desistência do feito, a qual ensejou a extinção do processo.
+2. Confira-se: A parte exequente juntou nos autos a petição às f. 98/99, na qual requereu a homologação da desistência do feito e a consequente extinção processual. Repare, in verbis: BANCO BRADESCO S/A, já devidamente qualificado nos autos do processo em epígrafe, que contende com M DO SOCORRO LETREIROS ME, vem respeitosamente perante Vossa Excelência, dizer e requerer o que segue: (..) Diante da não localização de bens para satisfação da dívida, tampouco da parte executada, o banco exequente desiste da presente ação.
+Dessa forma, requer a extinção da ação, nos termos do art. 924, IV do Novo Código de Processo Civil.
+3. Realmente, a jurisprudência do STJ se firmou no sentido de que a condenação em honorários advocatícios se pauta pelo princípio da causalidade, ou seja, aquele que deu causa à demanda é quem deve arcar com as despesas dela decorrentes.
+4. E o art. 90, CPC que prevê que as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceujuridicamente o pedido. Repare: Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.
+5. Portanto, mostra-se inconteste que o desejo de pôr fim ao processo partiu do Autor ou Exequente e não do Réu ou Executado.
+6. Precedente emblemático do STJ: A desistência ou o reconhecimento do pedido, ao revés, conforme disposto no art. 26 do CPC, enseja a fixação da verba honorária (arts.85, §§ 6º e 10, e 90, do CPC/2015). Precedentes. (..). (EREsp 1322337/RJ, Rel. Ministro OG FERNANDES, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/04/2017, DJe 07/06/2017) 7. Paradigma do STJ: 2. A jurisprudência desta Corte firmou - se no sentido de que, com fundamento no princípio da causalidade, nas hipóteses de extinção do processo sem resolução do mérito, decorrente de perda de objeto superveniente ao ajuizamento da ação, a parte que deu causa à instauração do processo deverá suportar o pagamento dos honorários advocatícios. Precedentes: AgRg no AREsp 14.383/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 30/9/2011; AgRg no AREsp 434.547/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe 1/8/2014; PET no REsp 1.439.244/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15/8/2014.
+8. DESPROVIMENTO do Apelo para consagrar o Julgado Pioneiro, por irrepreensível, assegurada a majoração os honorários advocatícios em 10% (dez por cento) sobre o valor fixado na origem, observado o limite do percentual previsto no art. 85, §2º, CPC/15.
+Os embargos de declaração opostos foram rejeitados (fl. 189).
+A parte recorrente sustenta que não pode ser compelida ao pagamento de honorários pela desistência, esta motivada pela ausência de bens em nome do executado, e que não logrou nenhuma vantagem econômica com a propositura da execução.
+Com razão a recorrente.
+O entendimento expresso no acórdão recorrido contraria o entendimento desta Corte, de que são exemplos os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. DESISTÊNCIA. AUSÊNCIA DE BENS PENHORÁVEIS. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de execução, em fase de cumprimento de sentença.
+2. A orientação pacífica desta Corte é no sentido de que a extinção do procedimento executivo em razão da inexistência de bens penhoráveis (execução frustrada) não autoriza a fixação de honorários advocatícios em prol do procurador da parte executada.
+Atração do princípio da causalidade. Incidência da Súmula 83 do STJ.
+..
+4. Agravo interno no agravo interno no agravo em recurso especial não provido.
+(AgInt no AgInt no AREsp n. 1.713.742/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2021, DJe de 6/10/2021.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MONITÓRIA. DESISTÊNCIA DA AÇÃO APÓS CONTESTAÇÃO. CONCORDÂNCIA EXPRESSA DA PARTE RÉ. AUSÊNCIA DE SUCUMBÊNCIA E DE PROVEITO ECONÔMICO. FALÊNCIA DO DEMANDADO. INSUCESSO NA CONTINUIDADE DA DEMANDA. CAUSALIDADE. PRECEDENTES. VERBA HONORÁRIA. ARBITRAMENTO EQUITATIVO, NOS TERMOS DO ART. 85, § 8º, DO CÓDIGO DE PROCESSO CIVIL. REVISÃO. SÚMULA 7/STJ.
+1. Nos termos em que se orienta a jurisprudência do Superior Tribunal de Justiça, não deve o credor ser punido pela impossibilidade de êxito na execução ao se deparar com a insuficiência de bens do devedor para a satisfação do crédito, de modo que, com o decreto de falência do réu no curso da monitória, o pedido de desistência do autor não traz para si o ônus da aplicação do princípio da causalidade. Precedentes.
+2. Recurso especial a que se nega provimento.
+(REsp n. 1.769.204/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/6/2019, DJe de 3/9/2019.)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DESISTÊNCIA. AUSÊNCIA DE BENS PENHORÁVEIS DE TITULARIDADE DA PARTE EXECUTADA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. Em relação à desistência, que se opera no plano exclusivamente processual, podendo dar azo, inclusive, à repropositura da execução, o novo CPC previu que "o exequente tem o direito de desistir de toda ou de apenas alguma medida executiva" (art. 775).
+2. A desistência da execução pelo credor motivada pela ausência de bens do devedor passíveis de penhora, em razão dos ditames da causalidade, não rende ensejo à condenação do exequente em honorários advocatícios.
+3. Nesse caso, a desistência é motivada por causa superveniente que não pode ser imputada ao credor. Deveras, a pretensão executória acabou se tornando frustrada após a confirmação da inexistência de bens passíveis de penhora do devedor, deixando de haver interesse no prosseguimento da lide pela evidente inutilidade do processo.
+4. Recurso especial não provido.
+(REsp 1675741/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 05/08/2019)
+Em face do exposto, dou provimento ao recurso especial para excluir a condenação ao pagamento de honorários.
+Intimem-se.
