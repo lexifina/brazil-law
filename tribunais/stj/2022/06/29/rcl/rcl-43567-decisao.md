@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, fundada noart. 105, I, "f", da Constituição Federal, proposta por MOZART SCHMITT DE QUEIROZ, apontando como autoridade reclamada o Desembargador Relator da Apelação Cível nº 0175719-47.2007.8.19.0001, em trâmite perante o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Oreclamanteafirma, em síntese, que teve contra si ajuizada, pelo Sindicato dos Trabalhadores na Indústria do Petróleo no Estado do Rio de Janeiro (SINDIPETRO), ação decobrança visando ao ressarcimento de valores que lhe teriam sido aportados a título de compensação pela ausência de remuneração no período em que atuou como dirigente sindical.
+Aduz que interpôs apelação contra a sentença que reconheceu a procedência do pedido, àqual o órgão colegiado negou provimento, a ensejar a oposição de sucessivos embargos de declaração, sendo os últimosrejeitados por decisão singular, com violação ao disposto no art.1.024, § 1º,do CPC/2015.
+Relata que o subsequente agravo interno também foi sumariamente inadmitido por decisão monocrática, dando lugar a pedido de reconsideração e de novo agravo interno, ambos rejeitados monocraticamente.
+Salienta quea recalcitrância do Relator em submeter os recursos à apreciação do órgão colegiado impede o esgotamento de instância e o livre acesso àsinstâncias superiores, além deimplicar usurpação da competência do Superior Tribunal de Justiça, daí o cabimento da presente reclamação.
+Requer, liminarmente,a concessão de tutela de urgência para que seja determinadoo sobrestamento do feito na origem até julgamento definitivo por esta Corte Superior.
+Ao final, pede a "(..) procedência da presente reclamação, promovendo-se "a medida adequada à preservação da sua competência", qual seja a cassação das decisões monocráticas prolatadas pelo em. Desembargador-Relator da APC0175719-47.2007.8.19.0001 após o julgamento daapelação, determinando-se a obrigatória submissão dos recursos à apreciação da 12ª Câmara Cível do TJRJ" (e-STJ fl. 10).
+É o relatório.
+DECIDO.
+O pedido é manifestamente inadmissível.
+Estabelece o art. 105, I, "f", da Constituição Federal que compete ao Superior Tribunal de Justiça processar e julgar originariamente a reclamação para a "preservação de sua competência e a garantia da autoridade de suas decisões".
+Quanto à primeira hipótese constitucionalmente prevista - preservação da competência -, a reclamação somente será admitida perante esta Corte Superior se a autoridade reclamadaestiver exercendo competência privativa ou exclusiva deste Tribunal.
+A propósito:
+"AGRAVO INTERNO NA RECLAMAÇÃO - INVIABILIDADE - AUSÊNCIA DE PRESSUPOSTOS DE ADMISSIBILIDADE - DELIBERAÇÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE A RECLAMAÇÃO CONSTITUCIONAL. INSURGÊNCIA DO AUTOR.
+1. Somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+2. É inadmissível a reclamação proposta para garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo quando não esgotadas as instâncias ordinárias (ut. AgRg na Rcl 33.054/RS, Rel. Min. JORGE MUSSI, DJe 22/06/2017;AgInt na Rcl 33998 / SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 20/03/2018; AgInt na Rcl 34.019/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 14.8.2017; AgInt na Rcl 34.061/DF, Rel. Min. ANTONIO CARLOS FERREIRA, DJe de 21.9.2017).
+3. Agravo interno desprovido."(AgInt na Rcl 35.515/SE, Rel.Ministro Marco Buzzi, Segunda Seção, julgado em 23/5/2018, DJe de 30/5/2018 - grifou-se).
+Além disso, nos exatos termos do art. 187 do Regimento Interno do Superior Tribunal de Justiça, "para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária" (grifou-se).
+Nesse sentido:
+"1. O manejo da reclamação do art. 988 do CPC/2015 é inviável enquanto não esgotada a instância ordinária, o que se verifica tão somente quando a decisão reclamada seja proferida pelo Tribunal de origem em sede de agravo interno interposto contra a inadmissibilidade do recurso especial, nos termos do art. 1.030, I, "b", do CPC. Precedentes.
+2. Agravo interno não provido."(AgInt nos EDcl na Rcl 34.455/SP, Rel.Ministro Luis Felipe Salomão, Segunda Seção, julgado em 10/10/2018, DJe de 23/10/2018 - grifou-se).
+No caso em apreço, nem sequer foi inaugurada a competência do Superior Tribunal de Justiça, à míngua da interposição derecurso de sua alçada, de modo que, havendo recalcitrância da autoridade indicada como reclamada em submeter o agravo interno interposto pelo reclamante à apreciação do órgão colegiado, caberá ao interessado interpor nova irresignação ou outra medida que considerar adequada aos fins pretendidos, não sendo admitidoo uso dareclamação enquanto não forem esgotadosos meios de impugnação nas instâncias ordinárias.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, indefiro de plano a reclamação, ficando prejudicado o pedido liminar.
+Publique-se.
+Intimem-se.
