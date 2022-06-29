@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 31):
+AGRAVO DE INSTRUMENTO - Ação indenizatória - Representação comercial - Determinação, à ré, de exibição de documentos solicitados pelo perito judicial, sob pena de adoção da média de valores recebidos pela autora em período diverso - Pleito de reforma - Admissibilidade - Documentos solicitados por perito judicial - Possibilidade de determinação de apresentação - Inteligência do §3º, do art. 473, do CPC - Exibição que, todavia, incumbe à autora, por força da regra inserta no art. 373, inciso I, do Código de Processo Civil - Decisão reformada - Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação doart. 5ºdo Código de Processo Civil.
+Sustenta que "a recorrida não está agindo com a boa-fé que dela se espera em uma relação processual".
+Argumenta que "foi a recorrida Stalo quem elaborou o distrato e, para tanto, ela própria apresentou os valores que se referiam às vendas agenciadas pela autora. Ou seja, se ela própria apontou o montante das comissões pagas sem que a autora tivesse emitido as respectivas notas fiscais, é óbvio que possui o documento. Assim, se sorrateiramente alega não possuí-los, não pode ser premiada pela própria torpeza. Ou seja, se não apresenta o demonstrativo, devem ser considerados como procedentes os valores que ela contemplou para elaborar o distrato proposto".
+Contrarrazões apresentadas.
+O recurso não foi admitido na origem (fls. 64/65).
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está assim fundamentado (fls. 32/34):
+Por proêmio, necessário consignar que a ordem de exibição de que trata o recurso decorre de solicitação do perito nomeado nos autos, à luz do disposto no §3º, do art. 473, do CPC.
+É certo, todavia, que há flagrante equívoco quanto ao direcionamento do pleito deduzido pelo experto, "ex vi" da regra inserta no art. 373, inciso I, do Diploma Processual, que atribui à autora a prova quanto ao fato constitutivo do direito invocado.
+Com efeito, o que se verifica, da análise da documentação trazida pela agravada aos autos de origem, é a ausência de comprovação, ainda que mínima, acerca da realização de "vendas (..) para todos os clientes pertencentes à sua carteira, exceto do cliente Kalunga, (..) relativos ao período de 27/07/2004 a 31/08/2013" (petição do perito - fls. 762), a justificar a ordem de exibição dirigida à ré.
+Sob tal contexto, à míngua de fundamento idôneo para a inversão do "onus probandi", tem-se que é de incumbência exclusiva da autora a apresentação dos aludidos documentos ou, ainda, de elementos que convençam quanto à sua existência, sob pena de se considerarem não realizadas quaisquer vendas no período assinalado.
+Consigne-se, contudo, que pertine exclusivamente ao perito indicar os documentos necessários à elaboração do trabalho, revelando-se descabida a pretensão formulada pela agravante no item 54 das razões de reforma, por consistir indevida ingerência de sua parte.
+Destarte, comporta reforma a r. decisão agravada, para fins de desincumbir o réu da exibição dos documentos nela referidos, afastando-se a consequência imposta pelo d. magistrado "a quo".
+Ante o exposto, por meu voto, dou parcial provimento ao recurso, nos termos da fundamentação supra.
+Verifica-se que oTribunal de origem não emitiu juízo de valor sobre o disposto no art. 5º do CPC, o que impossibilita o julgamento do recurso em razão da ausência do necessário prequestionamento, ante o teor do disposto na Súmula nº 211/STJ.
+Ademais, não há que se cogitar a ocorrência do prequestionamento ficto, nos termos do artigo 1.025 do Código de Processo Civil, haja vista que esse pressupõe a indicação de violação do artigo 1.022 do mesmo Diploma e que esta Corte Superior haja constatado o vício apontado, o que não ocorreu no caso. Nesse sentido:AgInt no REsp 1719311/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/5/2018, DJe 28/5/2018.
+Acrescente-se queo dispositivo de lei indicado como violado não possui o comando normativo suficiente para infirmar os fundamentos do julgado recorrido, de modo que incidem os óbices das Súmulas 283 e 284 do STF.
+Com efeito, o acórdão recorrido concluiu que "é de incumbência exclusiva da autora a apresentação dos aludidos documentos ou, ainda, de elementos que convençam quanto à sua existência", de maneira que a alegação de que"a recorrida não está agindo com a boa-fé que dela se espera em uma relação processual" não é suficiente para infirmar o fundamento central do julgado combatido.
+Ressalta-se, ainda, que,para acolher a pretensão do recurso a fim de reconhecer que "a recorrida não está agindo com a boa-fé que dela se espera em uma relação processual",como alega a parte agravante, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
