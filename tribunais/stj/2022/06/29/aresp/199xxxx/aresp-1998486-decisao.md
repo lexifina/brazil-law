@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO EDIFÍCIO CONQUISTA SANTO ANDRÉA (CONDOM NIO) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO, da lavra do Excelentíssimo Senhor Desembargador Relator ALFREDO ATTIÉ, assim ementado:
+AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Decisão interlocutória que condicionou o leilão do imóvel à concordância do juízo recuperacional Crédito que consiste em despesas com ativo. Natureza extraconcursal. Exegese do art. 84, III, da Lei nº 11.101/05. Medida constritiva que, no entanto, deve ser submetida ao Juízo da recuperação a fim de evitar eventual prejudicialidade ao plano homologado. Suspensão apenas da alienação judicial até pronunciamento do Juízo da recuperação. Precedentes da Corte. Decisão parcialmente reformada. RECURSO NÃO PROVIDO.
+Irresignado, o CONDOMÍNIOinterpôsrecurso especial com base no art. 105, III,a, da CF, apontando a violação dos arts. 1.345 do CC e 84, III, da Lei nº 11.101 de 2005, sob oargumento de que a alienação do imóvel penhorado por dívida de condomínio não pode ficar condicionadaà concordância do juízo universal, haja vista tratar-se de despesas extraconcursais.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo por não demonstração da violação dos artigos apontados (e-STJ, fls. 105/106).
+Nas razões do presente agravo, CONDOMÍNIO EDIFÍCIO CONQUISTA SANTO ANDRÉArefutaoreferidoóbicede prelibação (e-STJ, fls. 109/119).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Do caráter extraconcursal da dívida de condomínio e da submissão dos atos expropriatórios ao juízo universal
+Nas razões do presente recurso, o CONDOMÍNIO EDIFÍCIO CONQUISTA SANTO ANDRÉA afirmou terem sido violados os arts. 1.345 do CC e 84, III, da Lei nº 11.101 de 2005, ao argumento de que a alienação do imóvel penhorado por dívida de condomínio não pode ficar condicionada à concordância do juízo universal, haja vista tratar-se de despesas extraconcursais.
+O TJSP concluiu o seguinte:
+Ainda que o juízo recuperacional tenha se reportado a respeito dos créditos extracontratuais (fls. 33), é imprescindível que manifeste-se especificamente sobre o bem em questão, pois a ele compete a análise acerca da conveniência da penhora e da essencialidade, ou não, do bem constrito, sendo tal medida salutar para se evitar medidas constritivas capazes de dificultar, ou mesmo impedir, a consecução das atividades da empresa recuperanda e de seu plano de recuperação judicial, em prejuízo desta e de todos os credores, independentemente da natureza de seus créditos (concursais ou extraconcursais) (e-STJ, fl. 72).
+A conclusão do Tribunal estadual não destoa do entendimento desta Corte no sentido de que, apesar de os créditos condominiais serem tratados como sendo extraconcursais, a alienação do imóvel penhorado deve ser objeto de análise pelo juízo universal para aferição da conveniência e da essencialidade do bem constrito.
+Vejam-se:
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. CRÉDITOS EXTRACONCURSAIS. ATOS EXPROPRIATÓRIOS. JUÍZO DA RECUPERAÇÃO JUDICIAL. ORIENTAÇÃO DA 2ª SEÇÃO DO STJ.
+1. Execução em cumprimento de sentença em face de empresa com recuperação judicial em andamento.
+2. A 2ª Seção do STJ possui orientação jurisprudencial no sentido de que, mesmo quanto aos créditos extraconcursais, incumbe ao Juízo em que se processa a recuperação judicial, ciente de tal circunstância, analisar a melhor forma de pagamento do aludido crédito, deliberar sobre os atos expropriatórios, sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, além da solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+3. A continuidade de atos expropriatórios em juízo diverso poderá implicar alienação judicial de bens indispensáveis ao regular desenvolvimento das atividades da sociedade, inviabilizando o cumprimento do plano e violando o princípio de preservação da empresa.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.910.636/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA DETERMINAR SER DO JUÍZO UNIVERSAL A COMPETÊNCIA PARA DELIBERAR ACERCA DE CONSTRIÇÃO EFETIVADA SOBRE PATRIMÔNIO DA EMPRESA RECUPERANDA - INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Édo juízo universal a competência para analisar acerca davalidade depenhoras realizadasobre o patrimônio da empresa recuperanda, bem ainda acerca do eventualcaráter extraconcursal de crédito discutido nos autos de ação de execução, ainda que tenha sido deferido pelo juízo da recuperação a alienação direta do bem, de modo que caberá àquele juízo analisar a pretensão da agravante, por reunir as informações essenciais do procedimento recuperacional, não cabendo a esta Corte Superior deliberar a respeito da controvérsia subjacente, sob pena de supressão de instância.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 855.198/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2021, DJe de 4/11/2021.)
+Dessa forma, verifica-se que o acórdão recorrido está em sintoniacom a jurisprudência assente desta Corte, de forma que aplicável, no caso, o teor da Súmula nº 568 desta Corte.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LEILÃO DE IMÓVEL. DÉBITO EXTRACONCURSAL. DESPESAS DE CONDOMÍNIO. SUJEIÇÃO AO JUÍZO UNIVERSAL. PRECEDENTES DO STJ. SÚMULA Nº 568 DESTA CORTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
