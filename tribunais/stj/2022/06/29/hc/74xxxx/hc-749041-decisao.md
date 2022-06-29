@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de JAILSON CORREAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n.1500922-30.2021.8.26.0616).
+Em primeira instância, opaciente foi condenadoàs penas de 7 anos, 9 meses e 10 dias de reclusão em regime fechado e de 777 dias-multa, pela prática do crime descrito no art.33,caput, c/c o art.40,VI, ambos da Lei n.11.343/2006.
+Interposta apelação pela defesa, o recurso foi desprovido.
+Opostos embargos declaratórios, estes foram rejeitados, apenas com correção de erro material.
+Na dosimetria, a pena-base foi fixada no mínimo legal; ausentes atenuantes e presente a agravante da reincidência, a pena foi aumentada em 1/3; diante da causa de aumento de pena prevista no art.40, VI, da Lei n. 11.343/2006, a pena foi acrescida de 1/6; e, por fim, foi afastado o tráfico privilegiado.
+Nas razões do presentewrit,adefesa aponta que o paciente está sendo vítima de constrangimento ilegal, porquanto o acórdão,mesmo reconhecendo que o paciente ostenta uma única condenação anterior, manteve,sem fundamentação,o aumento da pena em 1/3, em razão da reincidência.
+Afirma quepresente a majorante em razão da reincidênciaesta deve incidir em seu patamar mínimo, ou seja 1/6, segundo assentado na jurisprudência atual, para se evitar que a dosimetria da pena recaia no arbítrio do julgado, destacando julgamentodo STJ nesse sentido e pleiteandoa redução doquantumde aumento da pena do paciente pela reincidência.
+Requer, liminarmente e no mérito, a concessão da ordem parareduzir a pena do paciente.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 109-110.
+As informações foram prestadas às fls. 113-201 e 204-221.
+O Ministério Público Federal manifestou-se pela concessão da ordem(fls. 223-224).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotadode plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisãopor esta Corte somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena(AgRgnoAREsp n. 1.843.362/SP, relatorMinistroRibeiro Dantas, Quinta Turma,DJede14/5/2021;HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma,DJede 11/10/2017; eAgRgno HC n. 524.277/SP, relator MinistroAntonioSaldanha Palheiro, Sexta Turma,DJede 18/5/2020).
+A aplicação de patamar superior a 1/6 em razão da incidência de circunstância agravante exige que o julgador apresente fundamentação idônea. No presente caso, para justificar o aumento maior que 1/6, assim se manifestou a Corte de origem (fl. 106):
+Realmente, JAILSON CORREA é reincidente, conforme consta da sentença, de modo que a expressão multirreincidente, constante do V. Acórdão, trata-se de mero erro material, que fica agora corrigido.
+Todavia, isso não tem o condão de reduzir a reprimenda, pois o aumento de 1/3 em razão da reincidência, conforme consta do decisum vergastado, e da sentença, "não se mostra desarrazoado e foi acertadamente aplicado, razão pela qual deve ser mantido".
+A propósito, assim se manifestou o Juízo de primeiro grau (fl. 71):
+A reincidência orienta a exasperação da sanção em um terço; daí alcançando o patamar de 06 anos e 08 meses de reclusão, além de 666 dias-multa.
+Na hipótese, não houvejustificativa alguma paraa aplicação depatamar superior a 1/6.Assim,deve ser reduzida a fração relativa à agravante de reincidência a 1/6.
+Nesse sentido, oseguinte precedente:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. REINCIDÊNCIA. QUANTUM DE AUMENTO.FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ELEVAÇÃO DA REPRIMENDA PELA REINCIDÊNCIA. REDUÇÃO. FLAGRANTE ILEGALIDADE. CONCESSÃO DEHABEAS CORPUSDE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão relativa ao aumento exacerbado da pena na segunda fase dosimétrica, em razão da reincidência, não foi enfrentada pela Corte de origem. Dessa forma, a matéria que não foi ventilada no acórdão recorrido e não foi objeto de embargos de declaração carece do necessário prequestionamento, recaindo à espécie a Súmula 282 do STF, a qual transcrevo: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+2. Ademais, o recurso especial apresenta fundamentação que não permite a compreensão de como o dispositivo da legislação federal teria sido violado ou mesmo de que modo o Tribunal de origem ter-lhe-ia negado vigência, de forma a atrair a tutela da instância especial. Portanto, incide à espécie a Súmula 284/STF,in verbis"é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+3. Todavia, impõe-se a concessão dehabeas corpusde ofício para adequar oquantumde aumento da pena na segunda fase dosimétrica, no que tange à agravante da reincidência, conforme pleiteia a defesa.
+4. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea. No caso, de fato, a exasperação da reprimenda em 1 ano e 6 meses não mereceu qualquer fundamentação, tendo sido sopesado apenas um título condenatório transitado em julgado como reincidência.
+5. Agravo regimental desprovido. Concessão dehabeas corpus, de ofício, a fim de reduzir a reprimenda para 5 anos e 10 meses de reclusão, mais o pagamento de 500 dias-multa, mantidos os demais termos da condenação.(AgRg no AREsp n. 1.740.936/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/12/2020.)
+Assim, passo ao redimensionamento da pena:
+A pena-base foi fixada no mínimo legal; agravada em 1/6, em razão da reincidência e majorada em 1/6 na terceira fase, diante da aplicação do art. 40, VI, da Lei n. 11.343/2006; tornando a pena definitiva em 6anos, 9 meses e 20 dias de reclusão e 680 dias-multa.
+Ante o exposto,  com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal,  para reduzir a fração da agravante de reincidência a 1/6 e redimensionar as penas impostas ao paciente para6 anos, 9 meses e 20dias de reclusão e 680 dias-multa.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para que adotem as providências necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
