@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ASSOCIAÇÃO DE ENSINO ANTÔNIO LUIS e OUTROS à decisão monocrática desta relatoria de fls. 867/868 (e-STJ), que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação dos fundamentos da decisão de inadmissibilidade agravada.
+Em suas razões recursais, a parte embargante alega omissão na decisão impugnada, pois" nas razões recursais apresentadas pela embargante houve explicitamente a demonstração de discordância. (..) Ou seja,houve a observância do princípio da dialeticidade pela parte recorrente, uma vez que demonstrado o error in judicando quanto a demonstração de contrariedade e negativa de vigência do art. 206, §5º do CC.Ainda, imperioso lembrar que a prescrição é matéria de ordem pública, cognoscível de ofício.Demais disso, não há se falar em que o recurso especial não pode ter seu seguimento negado com base na Súmula 83/STJ, na medida em que a conclusão adotada no v. Acórdão recorrido não está em consonância com a jurisprudência desta Corte"(e-STJ, fls. 873/874).
+Impugnação apresentada às fls. 879/881, pela manutenção da decisão embargada.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015. INEXISTÊNCIA. NÍTIDO CARÁTER INFRINGENTE. EMBARGOS REJEITADOS.
+1. O juízo provisório de admissibilidade do recurso especial realizado pelo Tribunal de origem não vincula o Superior Tribunal de Justiça, a quem compete a apreciação definitiva dos pressupostos desse recurso. Precedente.
+2. O acórdão embargado não contém omissão, obscuridade ou contradição, uma vez que foi dirimida a questão pertinente ao litígio, limitando-se a parte embargante a utilizar os aclaratórios com o escopo de revisão do julgado, em manifesta pretensão infringente.
+3. A jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura negativa de prestação jurisdicional.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1737181/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO, MANTENDO A DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO. INSURGÊNCIA DO EXEQUENTE.
+1. Não ocorrentes as hipóteses insertas no art. 1022 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, por via dos quais se objetiva rediscutir a causa, já devidamente decidida.
+2. A contradição que autoriza os embargos de declaração é aquela interna ao acórdão, verificada entre a fundamentação do julgado e a sua conclusão, e não aquela que possa existir, por exemplo, com a prova dos autos, nem a que porventura exista entre a decisão e o ordenamento jurídico; menos ainda a que se manifeste entre o acórdão e a opinião da parte vencida.
+3. Não incidem honorários sucumbenciais recursais na hipótese, pois não há um "acréscimo de sucumbência no grau recursal" ante a interposição do recurso de agravo interno ou embargos de declaração, porquanto gravitam esses reclamos no mesmo nível recursal daqueles que promovem a abertura da instância, motivo pelo qual incabível a majoração estabelecida no art. 85, § 11 do NCPC.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 539.673/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+No caso dos autos, não há nenhum vício na decisão embargada.
+A propósito, confira-se a aludida fundamentação (e-STJ, fls. 867/868):
+"Observa-se que o agravo previsto no art. 1.042 do CPC/15 tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+In casu, a parte agravante não rebateu, como lhe competia, todos os referidos fundamentos da decisão recorrida, pois deixou de rebater a Súmula 83 desta Corte. Apesar de afirmar genericamente referido óbice, deixou de trazer qualquer precedente apto a infirmar a divergência a respeito do tema.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe aorecorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+Incide, na hipótese, o art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente os fundamentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial."
+Como visto, ao contrário do que sustenta a parte embargante, foi apontado com clareza que o fundamento para o não conhecimento de seu agravo em recurso especial consistiu na falta de impugnação de todos os fundamentos da decisão de inadmissibilidade do recurso especial então agravada, hipótese legal para o proferimento da decisão monocrática ora embargada, nos termos do art. 932, III, do CPC/2015 e do entendimento jurisprudencial desta Corte.
+Acrescente-se, ainda, que a contradição apta a abrir a via dos embargos declaratórios é aquela interna aodecisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART.535 DO CPC. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 535 do CPC.
+2. No caso concreto, não se constata o vício alegado pelos embargantes, que buscam rediscutir a questão com base em divergência jurisprudencial com julgados do STF.
+3. A contradição que dá ensejo à oposição de embargos declaratórios deve ser interna, entre as proposições do próprio julgado impugnado. Não
+configura o vício previsto no aludido dispositivo processual a suposta contradição entre a fundamentação do decisum e o entendimento adotado em precedente colacionado pelo embargante.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no REsp 1.189.644/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/04/2015, DJe de 23/04/2015)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
