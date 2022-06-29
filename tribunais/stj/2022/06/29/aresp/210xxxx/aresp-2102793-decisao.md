@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 37):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. CONDENAÇÃO DA EMPRESA EM RECUPERAÇÃO JUDICIAL AO PAGAMENTO DE VERBAS SUCUMBENCIAIS.
+CRÉDITO QUE TEVE ORIGEM EM MOMENTO POSTERIOR À INSTAURAÇÃO DA RECUPERAÇÃO JUDICIAL. CRÉDITO QUE NÃO POSSUI NATUREZA CONCURSAL. PROSSEGUIMENTO DO CUMPRIMENTO DE SENTENÇA QUE SE IMPÕE. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1.022, II, do Código de Processo Civil; e 49 e 59 da Lei nº 11.101/2005.
+Sustenta que a origem do direito aos honorários advocatícios remonta à propositura da demanda, a qual é anterior à recuperação judicial da ora recorrente, devendo o respectivo crédito ser classificadocomo crédito extraconcursal.
+Alega que o acórdão recorrido conflita com decisão do juízo universal no sentido de que "são concursais todos os créditos, inclusive os referentes a honorários de sucumbência, cuja demanda tenha se iniciado em razão de fato jurídico que precede o deferimento do processamento da Recuperação Judicial, ainda que a sentença ou trânsito em julgado sejam posteriores".
+Argumenta que a decisão do Tribunal afronta determinação expressa do juízo universal da recuperação judicial.
+Defende que os créditos discutidos "são créditos concursais, tendo em vista que o seu fato constitutivo é anterior ao pedido da recuperação judicial".
+Não foram apresentadas contrarrazões.
+O recurso não foi admitido na origem (fls. 96/100).
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à alegada ofensa ao art. 1.022 do CPC, verifica-se que o acórdão recorrido está devidamente fundamentado, sem incorrer nos vícios de obscuridade, contradição ou omissão.
+Ressalta-se que não é omissa a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Ademais, no caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Com efeito, o Tribunal de origem negou provimento ao agravo de instrumentosob fundamento de que a origem do fato gerador dos honorários advocatícios em discussão é a sentença, que é posterior à recuperação judicial da empresa, ainda que a demanda que deu origem ao referido créditotenha sido ajuizada anteriormente. Confira-se (fls. 38/39):
+A agravante afirma que o crédito do agravado é de natureza concursal, eis que decorrente de fato anterior à recuperação judicial da empresa OI S/A, circunstância que remete a pretensão do recorrido ao juízo da recuperação judicial.
+Todavia, no caso sob exame, a pretensão creditícia da parte agravada é relativa a honorários advocatícios, tendo como marco de sua constituição a prolação da sentença condenatória.
+Assim, considerando que a recuperação judicial da agravante foi estabelecida em 20/06/2016, enquanto a sentença que estabeleceu as verbas de sucumbência em favor do agravado foi proferida em 31/05/2017, confirmada em Acórdão que majorou a verba sucumbencial em 10/10/2018, nada obstante os fatos narrados na ação principal serem anteriores à recuperação, não há que se falar na incidência da regra do art. 49 da Lei. 11.101/2005.
+A respeito a jurisprudência:
+(..)
+Vale dizer, é inequívoco que o crédito efetivamente perseguido neste instante processual é posterior ao ato de recuperação judicial da empresa agravante, de maneira que o prosseguimento do cumprimento de sentença, até a satisfação da dívida, é medida que se impõe.
+Dessa forma, levando-se em consideração os elementos de prova colacionados nos autos, a conclusão é a de que a decisão de primeiro grau deve ser mantida.
+Constata-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, que se consolidou no sentido de que "se a sentença que arbitrou os honorários sucumbenciais se deu posteriormente ao pedido de recuperação judicial, o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal" (REsp 1.841.960/SP, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 12/2/2020, DJe de 13/4/2020). A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. PREQUESTIONAMENTO. RECONSIDERAÇÃO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA POSTERIOR AO PEDIDO RECUPERACIONAL. NATUREZA EXTRACONCURSAL. NÃO SUJEIÇÃO AO PLANO DE RECUPERAÇÃO E A SEUS EFEITOS.
+1. No presente caso houve o prequestionamento da matéria pelo Tribunal de origem. Decisão da Presidência reconsiderada.
+2. Os créditos constituídos depois de ter o devedor ingressado com o pedido de recuperação judicial estão excluídos do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005).
+3. A Corte Especial do STJ, no julgamento do EAREsp 1255986/PR, decidiu que a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais) é o ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios sucumbenciais.
+4. "Em exegese lógica e sistemática, se a sentença que arbitrou os honorários sucumbenciais se deu posteriormente ao pedido de recuperação judicial, o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal, já que, nos termos do art. 49, caput da Lei 11.101/05, sujeitam-se ao plano de soerguimento os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, e não os posteriores. Por outro lado, se a sentença que arbitrou os honorários advocatícios for anterior ao pedido recuperacional, o crédito dali decorrente deverá ser tido como concursal, devendo ser habilitado e pago nos termos do plano de recuperação judicial" (REsp 1841960/SP, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 13/04/2020) 5. Na hipótese, a sentença que rejeitou os embargos à execução e fixou os honorários advocatícios foi prolatada após o pedido de recuperação judicial e, por conseguinte, em se tratando de crédito constituído posteriormente ao pleito recuperacional, tal verba não deverá se submeter aos seus efeitos. Incidência da Súmula 83/STJ.
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp n. 1.994.838/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. O crédito decorrente da sentença que arbitrou os honorários sucumbenciais, prolatada posteriormente ao pedido de recuperação judicial, possui natureza extraconcursal, nos termos do art. 49, caput da Lei 11.101/2005. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.525.229/SP, de minha relatoria, Quarta Turma, julgado em 10/5/2021, DJe de 12/5/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMA REPETITIVO. SUSPENSÃO. DESNECESSIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PEDIDO DE RECUPERAÇÃO JUDICIAL. CONSTITUIÇÃO POSTERIOR. NATUREZA EXTRACONCURSAL. ACÓRDÃO RECORRIDO. ENTENDIMENTO DO STJ. CONSONÂNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em suspensão do processo quando o tema em discussão não se enquadra na hipótese discutida no recurso especial repetitivo.
+3. Inexiste negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. Nos termos da atual jurisprudência do Superior Tribunal de Justiça, quando a sentença condenatória transitar em julgado após o pedido e a aprovação do plano de recuperação judicial, o crédito oriundo de honorários advocatícios sucumbenciais possui natureza extraconcursal. Precedentes.
+5. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça.
+6. A Segunda Seção desta Corte Superior decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.614.454/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/3/2021, DJe de 12/3/2021.)
+DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA POSTERIOR AO PEDIDO RECUPERACIONAL. NATUREZA EXTRACONCURSAL. NÃO SUJEIÇÃO AO PLANO DE RECUPERAÇÃO E A SEUS EFEITOS.
+1. Os créditos constituídos depois de ter o devedor ingressado com o pedido de recuperação judicial estão excluídos do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005).
+2. A Corte Especial do STJ, no julgamento do EAREsp 1255986/PR, decidiu que a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais) é o ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios sucumbenciais.
+3. Em exegese lógica e sistemática, se a sentença que arbitrou os honorários sucumbenciais se deu posteriormente ao pedido de recuperação judicial, o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal, já que, nos termos do art. 49, caput da Lei 11.101/05, sujeitam-se ao plano de soerguimento os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, e não os posteriores. Por outro lado, se a sentença que arbitrou os honorários advocatícios for anterior ao pedido recuperacional, o crédito dali decorrente deverá ser tido como concursal, devendo ser habilitado e pago nos termos do plano de recuperação judicial.
+4. Na hipótese, a sentença que fixou os honorários advocatícios foi prolatada após o pedido de recuperação judicial e, por conseguinte, em se tratando de crédito constituído posteriormente ao pleito recuperacional, tal verba não deverá se submeter aos seus efeitos, ressalvando-se o controle dos atos expropriatórios pelo juízo universal.
+5. Recurso especial provido.
+(REsp1.841.960/SP, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 12/2/2020, DJe de 13/4/2020.)
+Na hipótese, o Tribunal de origem consignou expressamente que a sentença que fixou os honorários de sucumbência foi proferida posteriormente à recuperação judicial da ora recorrente, razão pela qual manteve a decisão de primeira instância, queentendeuque o crédito em discussão é de natureza extraconcursal.
+Incide, portanto, o óbice da Súmula 83 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
