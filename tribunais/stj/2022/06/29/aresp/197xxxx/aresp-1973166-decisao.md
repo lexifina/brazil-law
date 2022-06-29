@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de RONALDO GIROLLI contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. Ação de Usucapião Extraordinária. Sentença de Improcedência. Inconformismo. Não acolhimento. Inexistência dos requisitos para reconhecimento do direito à Usucapião. O prazo da prescrição aquisitiva não flui enquanto pendente o ônus real da Enfiteuse. Impossibilidade de reconhecimento da usucapião porquanto o enfiteuta não exerce a posse com ânimo de dono. Conjunto probatório existente nos Autos insuficiente a demonstrar o efetivo exercício de posse "ad usucapionem". Recorrente que não se desincumbiu do ônus de provar o seu direito. Sentença mantida. Decisão bem fundamentada. Ratificação, nos termos do artigo 252, do Regimento Interno. RECURSO NÃO PROVIDO." (e-STJ fl. 118)
+Nas razões do recurso especial, o agravante alega violação do art. 1.227 do CC, e divergência jurisprudencial, sustentando, em síntese, que não há como concluir que a fluência do prazo para usucapião estava impedida durante o aforamento, tendo em vista que nunca houve registro da enfiteuse no Registro Imobiliário de Santa Adélia/SP.
+É o relatório. Decido.
+Quanto à alegada violação dos arts. 1.227 do CC e a necessidade de registro da enfiteuse para que esta possa constituir óbice ao pedido de usucapião formulado pelo agravante, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)(grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
