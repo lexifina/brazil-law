@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor dePAULO ROBERTO DA COSTA RAMOSem que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul(Apelação n. 70085135200).
+Em primeiro grau, opaciente foi condenado às penas de 5 anos e 3 mesesde reclusãoem regime inicial fechado e de500 dias-multa, pela prática do crime descrito no art. 33,caput, da Lei n. 11.343/2006.
+Interposto recurso de apelação pela defesa, foi-lhe negado provimento.
+A defesa alega manifesta coação ilegal diante da condenação pelocrime tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo em vistaa ínfima quantidade de droga apreendida e a absoluta ausência de prova da traficância.Sustenta que a quantidade de drogaapreendida(1,55g decrack) permite a presunção de posse para consumo pessoal.
+Requer, assim, a absolvição do pacienteou, subsidiariamente, a desclassificação da conduta para o tipo penal previsto no art. 28 da Lei 11.343/2006.
+As informações foram prestadas às fls. 409-446, 447-449, 450-452 e 457-459.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 460-461).
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+No caso, o Tribunal de origem manteve a sentença, que condenarao paciente pelo crime de tráfico de drogas, afastando a desclassificação do delito para o de uso de entorpecentes por consideraros elementos analisados nos autos. Destacou que a abordagem se deu em função de denúncia anônima e que o paciente, ao perceber a aproximação da guarnição, dispensou um estojo que portava com a droga e empreendeu fuga; além das drogas apreendidas, ele estava na posse de quantia em dinheiro incompatível com sua condição financeira. Confira-se trecho do acórdão (fls. 21-22):
+Como se viu, a abordagem não adveio de mero acaso, mas em função de denúncia anônima que repassou características físicas do réu e o apontou como traficante. Ao perceber a aproximação da guarnição, o acusado dispensou um estojo que portava com a droga e empreendeu fuga, o que, por si só, evidencia o sentimento de que sabia que estava cometendo algo ilícito.
+Assim, ainda que a quantidade do entorpecente angariado não seja, por si só, indicativa da destinação a terceiros, os elementos probatórios anteriormente citados demonstram, de forma inequívoca, a intenção de comercializá-los, até porque estava na posse de quantia em dinheiro incompatível com sua condição financeira.
+Consoante entendimento firmado pelo STJ, os estreitos limites dohabeas corpusnão admitem dilação probatória (AgRg no HC n. 691.609/SP, relator Ministro Jesuíno Rissato,Quinta Turma, DJe de 25/11/2021), o que inviabiliza o acolhimento das alegações referentes à absolvição da prática do crime de tráfico de entorpecentes e ao pedido de desclassificação da conduta do paciente para o tipo penaldescrito no art. 28 da Lei n. 11.343/2006(AgRg no HC n. 587.282/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020), poisas instâncias ordinárias consideraram incontroversas a materialidade e a autoria do delito com base naanálise do acervo probatório e, de modo fundamentado, decidiram pela condenação porquanto presentes as elementares do tipo penal, especialmente a apreensão dedrogas.
+Ademais, a"pequena quantidade de droga apreendida, por si só, não é suficiente para ensejar a desclassificação do delito, ainda mais quando há outros elementos aptos à configuração do crime de tráfico" (HC n. 132.464/MG, relatora Ministra Laurita Vaz, Quinta Turma,DJe de 13/10/2009).
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
