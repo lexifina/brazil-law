@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 204):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. COBRANÇA DE TAXAS CONDOMINIAIS DEVIDAS PELO MUNICÍPIO. CORREÇÃO MONETÁRIA E JUROS DE MORA EM CONDENAÇÃO CONTRA A FAZENDA PÚBLICA DE NATUREZA ADMINISTRATIVA EM GERAL. ART. 1.040, II, CPC.
+JUÍZO DE RETRATAÇÃO. CONTRARIEDADE COM AS TESES FIRMADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA NOS RECURSOS ESPECIAIS REPETITIVOS N os 1.492.221/PR, 1.495.144/RS e 1.495.146/MG.
+RETRATAÇÃO NECESSÁRIA. SENTENÇA REFORMADA. INVERSÃO DOS ÔNUS SUCUMBENCIAIS.
+I - Nos termos do artigo 1.040, II, Código de Processo Civil, o órgão que proferiu o acórdão recorrido reexaminará o recurso anteriormente julgado se a decisão contrariar orientação de tribunal superior.
+II - Por ocasião do julgamento dos Recursos Especiais Repetitivos nos 1.492.221/PR, 1.495.144/RS e 1.495.146/MG, a colenda Corte Cidadã assentou o entendimento de que, nas condenações judiciais de natureza administrativa em geral, há de ser aplicada, a partir de julho de 2009, juros de mora conforme a remuneração oficial da caderneta de poupança, e correção monetária pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA-E).
+III - Impositiva a retratação do acórdão prolatado relativamente à correção monetária, para determinar sua incidência de pelo no Índice Nacional de Preços ao Consumidor Amplo (IPCA-E), e em relação aos juros de mora, para que sejam calculados com base na remuneração oficial da caderneta de poupança, em conformidade com o entendimento vinculante assentado pelo colendo Superior Tribunal de Justiça.
+IV - O acolhimento dos pedidos do município apelante em sede de embargos à execução enseja a sucumbência do condomínio apelado, impondo a inversão dos ônus sucumbenciais.
+V - Juízo de retratação exercido. Apelação conhecida e provida parcialmente.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 86 do Código de Processo Civil; 389 e 1.136, § 1º, do Código Civil; bem como divergência jurisprudencial.
+Sustenta queos juros incidentes sobre os débitos condominiais devem ser os pactuados na convenção condominial, e não os juros da caderneta de poupança, bem como que a tese repetitiva fixada noTema 905 não se enquadra ao caso sob julgamento.
+Argumenta que "não há semelhança entre a questão decidida nestes autos e nos Recursos Especiais Repetitivos nos 1.492.221/PR, 1.495.144/RS e 1.495.146/MG que foram julgados sobre o tema 905, isto porque, estamos diante de uma Relação Privada, vez que a Fazenda Pública Municipal contratou com o particular e aceitou os termos pactuados na Convenção Condominial" (fl. 250).
+Aduz que "deve prevalecer os mesmos parâmetros utilizados para uma pessoa particular, física ou jurídica, não havendo de se falar em aplicabilidade do art. 1º-F da Lei 9.494/97" (fl. 250).
+Alega que "conforme Súmula nº 260 deste colendo Superior Tribunal de Justiça, "a convenção de condomínio aprovada, ainda que sem registro, é eficaz para regular as relações entre os condôminos". E nesta situação a Fazenda Pública não poderá auferir nenhum benefício em detrimento de outros condôminos".
+Defende que deveser afastada a condenação ao pagamento de honorários advocatícios, uma vez que o condomínio "foi condenado ao pagamento de honorários sucumbenciais em razão de que houve parcial acolhimento do pedido do Município. No entanto, aplicação de juros diferente do requerido na inicial da ação de execução não tem o condão de configurar sucumbência mínima ou recíproca, isto porque, constitui mera adequação do quantum devido" (fl. 252).
+Afirma que "em todos os acórdãos paradigmas houve a condenação da Fazenda Pública ao pagamento das taxas condominiais sem nenhum privilégio em detrimento dos demais condôminos, uma vez que o ente público contrata como particular, estando claro que a decisão merece ser reformada" (fl. 256).
+Requer o provimento do recurso a fim de que seja reformado o acórdão recorrido para condenar a parte recorrida ao pagamento das parcelas condominiais atualizadas de acordo com a convenção condominial.
+Contrarrazões apresentadas.
+O recurso não foi admitido na origem (fls. 303/305).
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, cuida-se deembargos à execução opostos pelo Município de Goiânia em face do Condomínio Edifício Parthenon Center visando ao reconhecimento de excesso da execução ajuizada em seu desfavor, sob o fundamento de que haveriailegalidade na aplicação dos índices de juros e correção monetáriaindicados pela parteexequente.
+O magistrado de primeiro grau julgou improcedentes os embargos por entender que, em se tratando de relação de cunho privado, deve prevalecer o que consta na convenção de condomínio (fls. 41/43).
+A Corte local, por sua vez, em juízo de retratação do art. 1.040, II, do CPC, concluiu que deve ser aplicado ao caso o entendimento firmado por este Superior Tribunal de Justiça noRecurso Especial Repetitivo nº 1.495.144/RS, que estipulou os índices que devem ser aplicadosàs condenações judiciaisimpostas à Fazenda Pública.
+Assim, no caso sob exame, discute-se sena execuçãode débitos condominiais contra ente públicodevem prevalecer os índices de juros e atualização monetária estabelecidos na convenção de condomínio ou se deve ser observado o entendimento firmado no Tema Repetitivo n. 905 acerca das condenações judiciais impostas à Fazenda Pública.
+Para melhor exame da matéria, conheço do agravo e determino sua conversãoem recurso especial,sem prejuízo de nova análise dos pressupostos recursais.
+Intimem-se.
