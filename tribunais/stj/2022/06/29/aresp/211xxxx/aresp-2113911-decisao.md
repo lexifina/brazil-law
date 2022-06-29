@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  CESP COMPANHIA ENERGÉTICA DE SÃO PAULO,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  nas  alínea  s  "a"  e "c"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Mato Grosso do Sul,  assim  ementado  (fl.  228,  e-STJ):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃODE POSSE - PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE - REJEITADA - CESP - COMODATO TÁCITO -- AUSÊNCIA DE NOTIFICAÇÃOPARA DESOCUPAÇÃO DA ÁREA - ESBULHO NÃO CONFIGURADO - RECURSO DESPROVIDO.1. O princípio da dialeticidade recursal impõe à parte recorrente o ônus de motivar o recurso, expondo as razões hábeis à reforma da decisão recorrida frente ao que nela foi decidido, o que foi observado no caso concreto.2. Em se tratando de ação de reintegração de posse, nos termos do artigo 561, do Código de Processo Civil, incumbe ao autor a prova da posse anterior, do esbulho praticado pelo réu e data da sua ocorrência.3. Tratando-se de ocupação de área pública com anuência da proprietária, a ação de reintegração de posse somente se torna viável após formal notificação dos possuidores diretos sobre a intenção de retomada do bem, com indicação expressa sobre o prazo para desocupação voluntária do imóvel possuído. Inexistente a notificação, afasta-se a alegação de esbulho.*
+Os embargos de declaração foram rejeitados (fls. 410-413, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  , além do dissídio jurisprudencial,  ofensa  ao artigo 561 do CPC.
+Sustenta,  em  síntese,a concessão da reintegração de posse, em razão do preenchimento dos requisitos, sendo desnecessária a notificação para a configuração da turbação.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  338-352,  e-STJ).  Contraminuta  às  fls.  360-373,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. A recorrente alega violação ao art. 561 do CPC, sustentandoa concessão da reintegração de posse, em razão do preenchimento dos requisitos, sendo desnecessária a notificação para a configuração da turbação.
+Nesse ponto, o acórdão recorrido (fls. 231-233, e-STJ):
+A apelante objetiva a proteção de seu status possessionis sobre a área individualizada na peça vestibular e objeto de suposto esbulho por parte do município demandado.
+Em se tratando de ação de reintegração de posse, nos termos do artigo 561, do Código de Processo Civil, incumbe ao autor a prova da posse anterior, do esbulho praticado pelo réu e data da sua ocorrência. Os bens da CESP são públicos e o local é área de preservação permanente. Assim, a posse da autora, embora não seja direta sobre a área, restou configurada indiretamente, uma vez que com a desapropriação da área houve a transmissão do domínio, da posse, do uso, do gozo, da administração, dos direitos e ações, ou seja, de todos os aspectos da propriedade.
+A área é de propriedade da apelante também é de preservação ambiental permanente, visando minimizar o impacto ambiental provocado pela formação da barragem da usina hidrelétrica.
+De igual forma, inafastável o reconhecimento de que se trata de faixa de segurança do reservatório, não sendo lógico que se exija a exploração de toda a extensão do imóvel pelo proprietário, até porque o desuso não exclui o exercício dos demais poderes inerentes ao domínio.
+A posse, no caso, é exercida pelos meios de controle ambiental feitos pela autora-embargante, mesmo porque se trata de área de preservação permanente, que circunda o reservatório da usina hidrelétrica. Além disso, há que se ter presente, a evidente necessidade de segurança no local, que circunda reservatório de usina hidrelétrica.
+Ocorre que no caso telado o esbulho não restou comprovado. Veja-se, os documentos colacionados aos autos demonstram que desde o ano de 2007 a apelante detém conhecimento da ocupação da área e concordou de forma tácita com a permanência, o que leva ao reconhecimento de relação jurídica de concessão de uso por comodato.
+Por evidente que tal vínculo pode ser desconstituído por ostentar natureza precária em decorrência da função do bem ocupado. Contudo, tal deve trilhar pela via normal, mediante a notificação extrajudicial dos ocupantes, iniciando-se, a partir de então, o esbulho.
+Porém, como bem sinalizado pelo julgador singular, a apelante somente manifestou oposição quanto à construção de 02 rampas totalizando 160m ,pátio de manobra de veículos de 900m , mureta de alvenaria com 60m de comprimento, calçada com 34m , 06 esculturas ocupando 6m , 14 bancos ocupando área de 7m  e 02,arquibancadas, conforme relatório de inspeção de f. 98-113, tendo ainda realizado anotificação de terceiros para sanar as irregularidades encontradas
+Não há documento comprovando a efetiva notificação da parte para desocupar o bem em litígio, o que afasta a existência do alegado esbulho.
+Neste sentido, aliás, já decidiu este Colegiado:
+ ..
+Destaca-se que ainda que se trate de área de preservação permanente, a ação de reintegração passa pela análise dos requisitos do artigo 561, do CPC, sendo a tutela ambiental secundária.
+ ..
+Dito isso, ausente prova do esbulho, que somente ocorreria com a comprovada notificação do ocupante sobre a não concordância da permanência, com prazo para desocupação do bem, não há como acolher a presente reintegração de posse.
+Ressalto, em remate, que o presente acórdão enfocou as matérias necessárias à motivação do julgamento, tornando claras as razões pelas quais chegou ao resultado. A leitura do acórdão permite ver cristalinamente o porquê do decisum. É o que basta para o respeito às normas de garantia do Estado de Direito, entre elas a do dever de motivação (CF, art. 93, IX), não sendo mister divagar sobre todos os pontos e dispositivos legais citados pela agravante. Dessa feita, deixo registrado que eventual oposição de embargos declaratórios com propósito exclusivo de prequestionamento será considerada manifestamente protelatória, na forma do artigo 1.026, § 2º, do NCPC.
+O Tribunal local, diante das peculiaridades  do  caso  concreto  e  a  partir  da  análise  do  conteúdo  fático-probatório  dos  autos, concluiu pela não comprovação do esbulho, estando configurada uma relação de concessão de uso por comodato e inexistindo notificação para desocupação.
+Derruir  as  conclusões  contidas  no  decisum  e  acolher  a  pretensão  recursal  ensejaria  o  necessário  revolvimento  das  provas  constantes  dos  autos,  providência  vedada  em  sede  de  recurso  especial,  ante  o  óbice  estabelecido  pela  Súmula  7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. OMISSÃO NÃO OCORRÊNCIA. APELAÇÃO. REPETIÇÃO DE FUNDAMENTAÇÃO. POSSIBILIDADE. POSSE. ALEGAÇÃO DE DOMÍNIO. AUSÊNCIA DE COMPROVAÇÃO. IMPROCEDÊNCIA DA AÇÃO. ESBULHO NÃO DEMONSTRADO. REVISÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO. ..
+4. A revisão de matéria - prática de esbulho pelo réu da ação de reintegração de posse - que demanda o revolvimento do conjunto fático-probatório dos autos, não pode ser feita na via especial, diante do óbice da Súmula 7 deste Tribunal.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.288.260/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2018, DJe de 5/9/2018.) grifou-se
+PROCESSO CIVIL E ADMINISTRATIVO. TERRENO DE MARINHA. REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE ESBULHO POSSESSÓRIO. PAGAMENTO INSUFICIENTE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Recurso especial em que se discute esbulho possessório em sede de ação de reintegração de posse.
+2. Inexiste a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+3. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, entendeu pela ausência de elementos que indiquem o preenchimento dos pressupostos para a existência de esbulho possessório. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.403.300/PE, relator Ministro Humberto Martins, Segunda Turma, julgado em 18/8/2015, DJe de 25/8/2015.)  grifou-se
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+2. Impossível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, na medida em que falta identidade entre o paradigma apresentado e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Nesse sentido: AgInt no AREsp 1357975/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/12/2018, DJe 17/12/2018; AgInt no AREsp 1.065.134/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2017, DJe de 23/11/2017; AgInt no AREsp 1120663/SE, Rel. Ministro LÁZARO GUIMARÃES, QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018.
+3. Do exposto, nego provimento ao agravo.
+Com base no art. 85, § 11, do CPC, majoro para 14% os honorários sucumbenciais.
+Publique-se.
+Intimem-se.
