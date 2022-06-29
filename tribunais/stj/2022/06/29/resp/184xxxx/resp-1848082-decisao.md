@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS no Agravo em Execução n. 0637122-80.2018.804.0001.
+A controvérsia foi bem delineada no parecer ministerial, in verbis (e-STJ fls. 146/147):
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Amazonas, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele Estado.
+Consta nos autos que Juízo de Direito da Vara de Execuções Penais concedeu prisão domiciliar com monitoramento eletrônico à Recorrida.
+Irresignado, o Ministério Público interpôs Agravo em Execução, tendo o Tribunal Pleno do Tribunal de Justiça do Estado do Amazonas, por unanimidade, negado provimento para manter a prisão domiciliar com monitoramento eletrônico, nos termos do acórdão assim ementado (fl. 90):
+EMENTA: AGRAVO À EXECUÇÃO. NÃO COMPARECIMENTO DO MINISTÉRIO PÚBLICO EM AUDIÊNCIA. NULIDADE. INOCORRÊNCIA. PRISÃO DOMICILIAR. DECISÃO MANTIDA. PEDIDO IMPROCEDENTE. I - O Ministério Público irresignado coma decisão do Juízo de Execução Penal, a qual concedeu à apenada prisão domiciliar com monitoramento eletrônico, sustenta nulidade no ato, haja vista a alegação de que não foi intimado para participar da audiência redesignada. II - Em razão de um problema técnico com o Sistema de Automação da Justiça (SAJ), a audiência de justificação não foi realizada no dia designado em certidão (09/08/2018). Convém ressaltar que todas as partes, com destaque ao Ministério Público, acordaram entre si, pela ocorrência da referida audiência no dia subsequente (10/08/2018). III - Restou demonstrada a precariedade em que se encontra a Unidade Prisional Feminina, de modo que não atende aos requisitos mínimos de dignidade assegurados pela Constituição Federal, logo, a prisão domiciliar com uso de tornozeleira eletrônica é a medida que se impõe. IV - Levando em consideração que o Juízo da Vara de Execuções Penais está mais próximo das situações fáticas de dentro dos presídios, razoável que detenha melhores condições de avaliar cada caso concreto e tomar as decisões cabíveis. V - RECURSO IMPROCEDENTE.
+No presente recurso especial, o Ministério Público alega que a decisão recorrida violou o artigo 18, inciso II, alínea "h" da Lei Complementar nº 75/93 e o artigo41, inciso IV, da Lei nº 8.625/93 quando negou "vigência aos dispositivos normativos que estabelecem a necessidade de intimação, pessoal do Ministério Público, mediante entregados autos com vista."
+Requer, portanto, que o recurso seja conhecido e provido para afastar o entendimento de que a intimação pessoal do membro ministerial em audiência seria suficiente, não havendo necessidade de conceder vistas dos autos.
+Decisão de admissibilidade às fls. 131/133.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 146/149).
+É o relatório.
+Decido.
+O recurso está prejudicado, já não havendo mais utilidade em sua análise.
+Com efeito, a apenada já foi beneficiada com progressão ao regime aberto e, atualmente, se encontra em liberdade condicional, deferida pelo Juízo das Execuções em agosto de 2021.
+Dessa forma, não se mostra razoável reconhecimento da nulidade para nova audiência de justificação sobre a prisão domiciliar concedida quando a recorrida ainda se encontrava em regime semiaberto, sobretudo após a superveniência de novas decisões judiciais acerca do caso.
+Ante o exposto,com fundamento no art. 34, XI, do Regimento Interno do STJ,julgo prejudicado o recurso.
+Publique-se. Intimem-se.
