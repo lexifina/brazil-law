@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno interposto por Ricardo Achilles de Faria Mellocontra decisão da Presidência desta Corte Superior que não conheceu do agravo emrecurso especial, ante a incidência daSúmula 182/STJ(fls. 1.126/1.128).
+Inconformada, a parte agravante sustentainaplicabilidade doreferido óbice, sob o argumento de que "Ao contrário do afirmado, data venia, há sim impugnação específica à aplicação da Súmula 7 STJ, tanto no AREsp ( pag 5 título DA INAPLICABILIDADE DA SUMULA 7 DO STJ), como também, previamente, ad cautelam, no próprio REsp ( p 11 da peça-título: DA NÃO INCIDÊNCIA DAS SÚMULA 7 do STJ, 284 do STF, 283 do STF E 126 DO STJ) , o que impõe que sejam revisitadas as devidas peças jurídicas e confirmada a impugnação de todos os fundamentos da decisão recorrida, afastando a incidência dos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno dessa Corte, para conhecer do AREsp e, por via de consequência, receber e julgar o mérito do REsp, reformando o decisum do Tribunal de origem, sem a necessidade de revolver e reanalisar provas e documentos, quando muito, é passível a promoção da permitida revaloração do quanto ao que omitido, ou julgado in error, no juízo a quo." (fl. 1.132).
+No mais, reedita as razões do mérito do recurso anteriomente não conhecido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 622/626), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
