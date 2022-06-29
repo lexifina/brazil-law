@@ -1,0 +1,52 @@
+DECISÃO
+Thales Comércio de Veículos Novos e Usados EIRELIinterpôs agravo de instrumento contra decisão que afastou alegação de nulidade da cobrança de multa por ausência de intimação pessoal para cumprimento de Termo de Ajuste de Conduta.
+O Tribunal de Justiça do Estado de Rondônianegou provimento ao recurso, nos termos assim ementados(fl. 133):
+Agravo de instrumento. Ação de execução de termo de ajuste de conduta. Força executiva. Multa. Intimação pessoal. Súmula 410 do STJ. Inaplicabilidade
+Os embargos de declaração opostos foram rejeitados (fls. 195-198).
+Thales Comércio de Veículos Novos e Usados EIRELIinterpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando a violação doart. 41da Lei n. 9.784/1999,da Súmula 410/STJ,do art. 20 da Resolução n. 5/2010 - CPJ, e do art. 11 da Resolução n. 179/2017 do CNMP,afirmando, em resumo, a nulidade da execução decorrente da ausência de prévia intimação da empresa para comprovação do cumprimento do TAC, bem como diversas condutas do recorrido durante o trâmite processual administrativo que ofenderam o devido processo legal e as já citadas regulamentações específicas.
+Pugnou pela concessão de efeito suspensivo do recurso especial.
+Foram apresentadas contrarrazões (fls. 229-239).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial(fls. 270-273).
+É o relatório. Decido.
+Preliminarmente, verifica-se ser incabível a indicação de ofensa àSúmula 410/STJ, ao art. 20 da Resolução n. 5/2010 - CPJ, e ao art. 11 da Resolução n. 179/2017 do CNMP. Isso porque artigos de portarias, decretos, resoluções ou súmulas não se encaixam na previsão de "lei federal", disposta no art. 105, III, a, da Carta Magna. Nesse sentido, confira-se:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E INDENIZAÇÃO. DESPESAS COM OBRAS DE INFRAESTRUTURA PARA A IMPLANTAÇÃO DE REDE ELÉTRICA EM LOTEAMENTO PARTICULAR. RESPONSABILIDADE LEGAL DO LOTEADOR. DECISÃO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. É VEDADA A ANÁLISE DE MATÉRIA, CONSTANTE EM PORTARIA, EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DO TEMPUS REGIT ACTUM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+4. Este Superior Tribunal de Justiça já firmou entendimento de que Portarias, Circulares e Resoluções não se equiparam a Leis Federais para fins de interposição do Recurso Especial. Assim, a alegada violação dos arts. 136, 138 e 140 do Decreto 41.019/1957 pela Portaria 005/1990 do DNAEE tem a sua análise vedada no âmbito desta Corte Superior de Justiça.
+(..)
+6. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt no AREsp 1034775/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. FALECIMENTO DO PROPRIETÁRIO ANTES DA EXECUÇÃO FISCAL. ALÍNEA "C" DO ART. 105 DA CONSTITUIÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF.
+(..)
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, examinar tal violação, na medida em que o ato normativo não é enquadrado no conceito de lei federal. Conforme o art. 105, III, alínea "a", da Constituição Federal, não se permite ampliar a competência desta Corte Superior para, em recurso especial, examinar eventual ofensa a súmulas, resoluções, regulamentos, portarias, circulares ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1645453/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019.)
+Quanto à matéria constante no art.41 da Lei n. 9.784/1999, verifica-se que o Tribunal a quo, em nenhum momento, abordou aquestãoreferidanodispositivolegal, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Gize-se, por oportuno, que a falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+Sobre o assunto, destacam-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AVIAÇÃO AGRÍCOLA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. INVIABILIDADE DA ANÁLISE DE RESOLUÇÃO DE CONSELHO PROFISSIONAL.
+(..)
+3. A Corte de origem nada teceu a respeito dos arts. 2º, § 2º, do Decreto-Lei 917/69. 2º, 5º, 6º, II, 15, do Decreto 86.765/81, apesar de instado a fazê-lo pelos embargos de declaração, razão pela qual incide o óbice da Súmula 211/STJ. "Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado". (AgRg no REsp n. 1.386.843/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/2/2014.)
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.035.738/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe 23/2/2017.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO DE CANDIDATO EM CADASTRO DE RESERVA. PRETERIÇÃO. MANUTENÇÃO DE SERVIDORES CONTRATADOS IRREGULARMENTE. PRESTAÇÃO JURISDICIONAL INADEQUADA. DESCARACTERIZAÇÃO DA OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CONTRADIÇÃO EXTERNA. HIPÓTESE DE CABIMENTO INEXISTENTE PARA OS EMBARGOS DE DECLARAÇÃO. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. VIOLAÇÃO A NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+(..)
+6. O prequestionamento advém do debate da temática processual à luz de determinado preceito legal federal, ou seja, é forçoso que o Tribunal da origem interprete os fatos processuais e sobre eles proceda juízo de valor para adequa-los ou não a determinado preceptivo federal, realizando assim a subsunção do fato à norma, o que absolutamente inexistiu no acórdão da origem, que não se sustentou nos arts. 130, 131, 331, § 2.º, 333, inciso I, 436, 437, 438 e 439, todos do CPC-1973, mas apenas na Lei 8.112/1990 e na Constituição da República.
+7. O prequestionamento não é a indicação do preceito legal, mas o debate de determinada tese de acordo com certa norma jurídica (inscrita no preceito), de maneira a que a falta de apontamento de lei não importa a falta de prequestionamento, mas tampouco a ausência de debate significa o prequestionamento ""implícito"".
+8. Agravo regimental não provido.
+(AgRg no REsp n. 1.581.104/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/4/2016, DJe 15/4/2016.)
+In casu, não há falar em prequestionamento ficto, previsão do art. 1025 do NCPC, isso porque, em conformidade com a jurisprudência do STJ, para sua incidência, deve a parte ter alegado devidamente em suas razões recursais, ofensa art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos embargos de declaração, ou a análise da matéria tida por omissa diretamente por esta Corte. Tal não se verificou no presente feito. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CÓDIGO FUX. RECONHECIMENTO. INDICAÇÃO E CONHECIMENTO DA VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. NECESSIDADE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. IRPJ, CSSL, PIS E COFINS. PERMUTA DE IMÓVEIS. NÃO EQUIPARAÇÃO A COMPRA E VENDA. PRECEDENTES. AUSÊNCIA DE LUCRO, RECEITA, RENDA OU FATURAMENTO COM A OPERAÇÃO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. A alegada violação dos arts. 6o. da Lei 7.689/1988, 57 da Lei 8.981/1995, 28 da Lei 9.430/1996, 2o. e 3o. da Lei 9.718/1998, não pode ser conhecida ante a falta de prequestionamento da matéria, pois o Tribunal de origem não analisou a controvérsia à luz dos dispositivos invocados, apesar da oposição dos Embargos de Declaração.
+2. O reconhecimento do prequestionamento fictício, previsto no art. 1.025 do Código Fux, nos termos da jurisprudência desta Corte Superior, exige que seja invocada e conhecida violação do art. 1.022 do Código Fux, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei (REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017), o que não ocorreu no caso sob exame.
+ ..
+6. Agravo Interno da FAZENDA NACIONAL desprovido.
+(AgInt no REsp 1737467/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 8/6/2020, DJe 17/6/2020)
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca do descumprimento do Termo de Ajuste de Conduta outrora firmado com o Ministério Público Estadual, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial, declarando prejudicado o pedido de efeito suspensivo.
+Publique-se. Intimem-se.
