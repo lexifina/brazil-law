@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto porMINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIScom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISem julgamento do agravo em execuçãon. 1.0000.20.021206-6/001.
+Consta dos autos que o recorrido foi condenado pela prática dos delitos tipificados no art. 33, caput, da Lei n. 11.343/06 (tráfico ilícito de entorpecentes)e art. 12, caput, da Lei n. 10.826/03 (posse ilegal de arma de fogo), respectivamente, à pena de 07 anos de reclusão e 02 anos de detenção.Após o trânsito em julgado da condenação, iniciou-se a execução penal, ocasião em que foi requerida a retificação das penas para que fosse excluído o regime fechado da condenação à 02 anos de detenção. O magistrado singular indeferiu o pedido.
+Recurso de agravo em execução interposto pela Defesa foi provido para suspender o cumprimento da pena até o estabelecimento de regime compatível com a pena de detenção (fl. 75). O acórdão ficou assim ementado:
+AGRAVO EM EXECUÇÃO PENAL - UNIFICAÇÃO DAS PENAS - RECLUSÃO E DETENÇÃO - REGIMES DIVERSOS - RETIFICAÇÃO DO  LEVANTAMENTO DE PENAS - NECESSIDADE - CUSTAS - AUSÊNCIA DE PREVISÃO LEGAL - RECURSO PROVIDO. 1- Ao proceder à unificação, o Magistrado singular deve observar o disposto no art. 76 do CP e 681 do CPP, os quais dispõem que, no concurso de infrações, executar-se-á primeiro a pena mais grave, ou seja, a pena de reclusão em regime fechado, postergando-se o cumprimento da pena de detenção em regime diverso. 2- Não há que se falar em isenção do pagamento das custas processuais, haja vista que inexiste previsão para a cobrança de tal encargo na Lei de Execuções Penais (fl. 71).
+Embargos de declaração opostos pela Acusação foram rejeitados (fl. 96). O acórdão ficou assim ementado:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM EXECUÇÃO - CONTRADIÇÃO, OMISSÃO E OBSCURIDADE -INEXISTÊNCIA - PREQUESTIONAMENTO - HIPÓTESE NÃO PREVISTA EM LEI - REJEIÇÃO. 1. Não restando configurada as falhas á omissão, contradição ou obscuridade, a ensejar a modificação do julgado, deve-se rejeitar os embargos de declaração. 2. A oposição de embargos para fins de prequestionamento é hipótese não prevista na lei processual (fl. 92).
+Em sede de recurso especial (fls. 101/110), o MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAISapontou violação ao art. 111 da Lei Federal n. 7.210/84, sustentando apossibilidade da unificação e cumulação das penas de reclusão e detenção no momento de sua execução, porquanto possuem a mesma natureza.
+Contrarrazões doPATRICK HERNANY DOS SANTOS SOUZA(fls. 131/142).
+Admitido o recurso no TJ (fls. 144/146) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 156/159).
+É o relatório.
+Decido.
+Acerca da pretensão recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISconsignou o seguinte (fls. 73/74):
+No caso em apreço, conforme se depreende da sentença de fis. 04v/16v e do atestado de penas de fls. 31v/32, o reeducando foi condenado pela prática do crime previsto no artigo 33 da Lei 11.343/06 à pena de 7 (sete) anos de reclusão, em regime inicialmente fechado, e pagamento de 700 (setecentos) dias-multa, ainda sendo submetido às sanções do artigo 12 da Lei 10.826103, cominando-se a pena de 2 (dois) anos de detenção, em regime aberto, e pagamento de 20 (vinte) dias-multa.
+Sabe-se que não é possível a fixação de regime fechado à pena de detenção, a teor do que dispõe o art. 33, caput, do CP.
+Assim, ao proceder à unificação, o Magistrado singular deve observar o disposto no art. 76 do CP e 681 do CFP, os quais dispõem que, no concurso de infrações, executar-se-á primeiro a pena mais grave, ou seja, a pena de reclusão e em seguida a de detenção.
+No caso em apreço, a pena mais grave consiste em 07 (sete) anos de reclusão, em regime fechado, devendo-se cumprir a reprimenda de detenção posteriormente, quando o regime se tornar compatível.
+(..)
+Portanto, imperiosa a reforma da decisão vergastada, de forma a afastar a unificação procedida sem a observância ao artigo 681 e 76 do Código Penal.
+Tratando-se de execução penal, A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade (AgRg no HC 661.201/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/05/2021).
+A propósito:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO. SOMATÓRIO. POSSIBILIDADE. ART. 111 DA LEP. REGIME PRISIONAL.
+1. No caso, o Tribunal local entendeu que, interpretando o art. 111 da Lei de Execução Penal em conjunto com o art. 76 do Estatuto Repressivo, as penas de detenção e reclusão não poderiam ser somadas indistintamente, executando-se, no concurso de infrações, primeiramente a pena mais grave.
+2. As reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie. Precedentes do STF e desta Corte Superior de Justiça.
+3. Recurso provido.
+(REsp 1642346/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 25/05/2018).
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para determinar que o Juízo da Execução realize o somatório das penas do recorrido a fim de estabelecer o regime prisional.
+Publique-se. Intimem-se.
