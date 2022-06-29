@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de JOSE JUNIOR DE AZEVEDO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Ação Penal n. 0001379-76.2015.8.26.0510).
+O paciente foi condenado às penas de 6 anos e 8 meses de reclusãoem regime fechadoe ao pagamento de 16 dias-multa, pela prática do crime descrito no art.157, § 2º, I e II, do Código Penal.
+Interposta apelação defensiva, o Tribunal local negou provimento ao recurso, em acórdão assim ementado (fl. 236):
+APELAÇÃO condenatória Descabimento ROUBO MAJORADO Sentença Absolvição por insuficiência probatória Materialidade e autoria comprovadas Prova cabal a demonstrar que o recorrente subtraiu a res mediante grave ameaça, exercida com emprego de arma de fogo e em concurso de agentes Impossibilidade de afastamento das causas de aumento de pena, eis que devidamente configuradas Pena corretamente calculada, de forma fundamentada e respeitado o critério trifásico Regime fechado adequado e compatível com a gravidade do crime perpetrado RECURSO DEFENSIVO NÃO PROVIDO.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal ante a ausência de intimação pessoal do defensor dativo para a apresentação das razões de apelação.
+Sustenta que a intimação pelo oficial de justiça foi realizada quando o defensor estava impedido de realizar as suas atividades em razão de problemas de saúde.
+Requer que seja concedida a ordem para que o acórdão que manteve a sentença seja anulado e os autos restituídos para que ocorra a apreciação do pedido de restituição de prazo.
+As informações foram prestadas às fls. 457-459 e 463-595.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou por sua denegação, caso dele se conheça (fls. 598-602).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal de origem afastou a alegação de nulidade nestes termos (fls. 503-505):
+O Advogado dativo Andrei Gustavo Forti Quessada foi intimado para apresentação das razões de recurso, na fase do artigo 600, § 4º, do CPP, ou para justificar a impossibilidade de fazê-lo, deixando fluir em branco o prazo recursal sem oferecer razões ou justificativas.
+Intimado pessoalmente (fls. 181) e com a advertência acerca da imposição de multa por abandono, quedou -se inerte.
+A falta da prática de ato indispensável à continuidade do processe e ao julgamento do recurso, sem justificativa de qualquer natureza, representa claro abandono da causa, com evidentes reflexos negativos à parte, que não pode ver apreciado seu inconformismo, e à administração da Justiça.
+Dentro desse contexto (não apresentação de razões em segundo grau e de qualquer justificativa), imponho ao Advogado Andrei Gustavo Forti Quessada (OAB/SP nº 287800), multa de 10 (dez) salários mínimos, por abandono cio processo, nos termos do artigo 265, do Código de Processo Penal.
+Observo que o Colendo Superior Tribunal de Justiça, reiteradamente, vem decidindo pela constitucionalidade do artigo 265, caput, do Código de Processo Penal  ..
+ ..
+Observado que o acusado vem sendo assistido por defensor dativo, nomeado nos termos do Convénio DPE / OAB, tornem os autos à origem a fim de que seja nomeado outro defensor para atuar na sua defesa, devendo o novo defensor apresentar as razões recursais perante o MM. Juizo a quo.
+É assente a jurisprudência desta Corte no sentido de que "a doença que acomete o advogado somente se caracteriza como justa causa idônea para a devolução do prazo recursal quando o impossibilita de forma absoluta para o exercício da profissão ou para substabelecer o mandato" (AgRg nos EDcl no AREsp n. 1.861.251/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/6/2021.), o que não se verifica nos presentes autos.
+No caso, conforme consta dos trechos acimas citados, o defensor dativo foi devidamente intimado pessoalmente, por duas vezes, para apresentação das razões recursais ou justificativa, porém manteve-se inerte.
+No mais, a defesa não trouxe aos autos prova apta a demonstrar a impossibilidade do exercício da profissão ou a inviabilidade de substabelecer o mandato, em decorrência de doença.
+Ressalte-se aindaque ao paciente foi nomeada a Defensoria Pública, que o representou apresentado as razões da apelação, bem como outros recursos. A propósito, oparquet federal destacou o seguinte (fl. 601):
+Como se observa, o advogado foi intimado pessoalmente, em 25/03/2019, para apresentar as razões de apelação, informação que é corroborada pela certidão de mandado cumprido positivo(e-STJ fls. 499); entretanto, quedou-se inerte, de modo que a Defensoria Pública foi intimada e apresentou as razões da apelação em 08 de outubro de 2019, inexistindo, portanto, prejuízo à defesa do réu.
+Ademais, consoante jurisprudência dessa E. Corte" A doença do advogado só constituirá justa causa para a reabertura do prazo recursal, quando impossibilitá-lo completamente de exercer a profissão ou de substabelecer a procuração", o que não restou demonstrado nos autos. (RHC 22.986/RS, relatorMinistro Nefi Cordeiro, Sexta Turma, DJe de 29/5/2015.)
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+PENAL E PROCESSO PENAL.  .. . DILAÇÃO DE PRAZO RECURSAL. JUNTADA DE ATESTADO MÉDICO EM NOME DA ADVOGADA. IMPOSSIBILIDADE DA PRÁTICA DO ATO PROCESSUAL OU DE SUBSTABELECIMENTO DOS PODERES A OUTROS PROFISSIONAIS. AUSÊNCIA DE DEMONSTRAÇÃO. INVIABILIDADE. SUSPENSÃO DO PROCESSO.  .. . AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte Superior no sentido de que "a doença que acomete o advogado somente se caracteriza como justa causa, a ensejar a devolução do prazo, quando o impossibilita totalmente de exercer a profissão ou de substabelecer o mandato" (EDcl no AREsp 225.773/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/3/2014, DJe 28/3/2014), o que não foi demonstrado na hipótese dos autos.
+ ..
+5. Agravo regimental não provido. (AgRg no RCD no AgRg no AREsp n. 1.686.112/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. DEVOLUÇÃO DO PRAZO RECURSAL. AUSÊNCIA DE JUSTA CAUSA.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c o art. 1.003, § 5º, do CPC, e também do art. 798 do CPP ("Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.").
+2. Nos termos da orientação jurisprudencial desta Corte, "somente se configura força maior quando demonstrada a absoluta impossibilidade de o advogado da parte exercer a profissão ou substabelecer o mandato, não constituindo, por si só, justa causa o fato de o advogado apresentar atestado médico. Na hipótese, o atestado médico não descreve a gravidade da moléstia que teria acometido o causídico a ponto de impedi-lo de praticar o ato processual ou mesmo substabelecer poderes a outro advogado para praticá-lo" (AgRg no AREsp 1998448/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/02/2022, DJe 15/02/2022).
+3. Agravo regimental improvido. (AgRg no AREsp n. 1.993.325/RJ, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, DJe de 25/3/2022.)
+Nesse contexto, não houve violação do direito à ampla defesa, bem como ausente qualquer demonstração de prejuízo ao paciente.
+Segundo entendimento pacífico do STJ, no processo penal, vigora, no campo das nulidades, o princípio pas de nullité sans grief, de modo que deve a parte demonstrar a ocorrência de efetivo prejuízo (RHC n. 97.930/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2018; AgRg no AREsp n. 1.454.029/GO, relator Ministro Jorge Mussi, Quinta Turma, DJe de 6/6/2019; e AgRg no RHC n. 68.618/RO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/11/2018).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
