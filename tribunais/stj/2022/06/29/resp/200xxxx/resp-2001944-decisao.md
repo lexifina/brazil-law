@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURICIO DAL AGNOL, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado (fls. 620):
+"APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAL LIBERAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. REVOGAÇÃO DO MANDATO. TERMO INICIAL DA PRESCRIÇÃO. SENTENÇA REFORMADA. EXTINTA A AÇÃO COM RESOLUÇÃO DOMÉRITO. RECONVENÇÃO. DANOS MORAIS.
+Nos termos do art. 25, V, EOAB, prescreve em cinco anos o direito de ação para cobrança de honorários contados da revogação do mandato. Hipótese dos autos em que a resolução contratual se deveu a fato imputado exclusivamente ao patrono. Implementado o prazo prescricional antes do ajuizamento da ação, merece reparo a sentença vergastada para julgar extinta a ação, com resolução do mérito, pela prescrição, de ofício. Quanto à reconvenção, vai mantida a sentença no ponto.
+APELAÇÃO DESPROVIDA. FEITO PRINCIPAL EXTINTO DE OFÍCIO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 652-655).
+Em suas razões recursais (fls. 663-686), MAURICIO DAL AGNOLaponta, preliminarmente,violaçãoao art. 1022, II do CPC/15, afirmando que o eg. TJ-RS não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica, além de divergência pretoriana,ofensa aoart. 25, I, da Lei nº 8.906/94 e aos arts. 121, 125, 189, 199 e 206, §5º, do Código Civil, ao argumento, entre outros, de que "(..)mesmo que revogada a procuração, como entendeu o Julgador a quo, a obrigação pendia de condição suspensiva, qual seja, o recebimento dos valores pelo contratante/recorrido, bem como não estava vencida a obrigação. Incide à espécie, portanto, o princípio da actio nata, segundo o qual passa a fluir o prazo prescricional a partir do momento em que existir uma pretensão exercitável por parte daquele que suportará os efeitos do fenômeno extintivo" (fls. 673 - destaques no original).
+Alega, ainda, que "(..) considerando a data do proveito econômico da parte Recorrida como termo inicial da contagem do prazo prescricional e, considerando-se ainda que este restou interrompido por conta da Execução de Título Extrajudicial anteriormente ajuizada, não se verifica a ocorrência da prescrição para o ajuizamento da presente ação" (fls. 677).
+Intimada, LORITA TURELLA apresentou contrarrazões (fls. 705-714), pelo desprovimento do recurso.
+Em decisão às fls. 717-722, o apelo nobre foi admitido.
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação ao art. 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado do Rio Grande do Sul(TJ-RS) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1957365/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/04/2022, DJe 06/04/2022 - g . n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. ART. 1.022, I E II, DO CPC/2015. CONTRADIÇÕES E OMISSÕES. INEXISTÊNCIA. EMBARCAÇÃO PENHORADA. PROPRIEDADE. ORA AGRAVADO. NÃO COMPROVAÇÃO. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Todas as matérias foram devidamente enfrentadas pelo Tribunal de origem de forma fundamentada, sem as apontadas contradições e omissões. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp 1528322/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021 - g. n.)
+Avançando, no tocante à suposta violaçãoao art. 25, I, da Lei nº 8.906/94 e aos arts. 121, 125, 189, 199 e 206, §5º, do Código Civil, infere-se que o eg. TJ-RS concluiu pela a prescrição da cobrança dos honorários advocatícios, nos seguintes termos(fls. 616-617):
+"Assim, a exemplo de tantas outras relações dessa ordem, incontroverso que a apelante buscou os serviços de advocacia prestados pelo autor e por ele foi representada em demanda contra o Estado, havendo ambos pactuado o percentual de 25% sobre os créditos da demanda. Sobrevindo inabilitação profissional do apelante, a apelante revogou o mandato e buscou um novo causídico a representá-la na referida demanda.
+Pois bem, recebidos os créditos devidos pela BRASIL TELECOM, o autor alega não haver recebido da ré o quanto devido à título de honorários, requerendo o arbitramento destes.
+(..)
+Da narrativa fático-probatória, depreende-se que a rescisão contratual derivou da inabilitação superveniente do patrono, que inviabilizou, modo cabal, a continuidade da relação contratual por sua única e exclusivaresponsabilidade.
+Nos termos do inciso V do artigo 25 da Lei 8906/1994, supra destacado, o prazo prescricional é quinquenal, iniciou com a revogação do mandato nos moldes já examinados e encontrou termo em 07/03/2019, antes, por conseguinte, do ajuizamento da presente ação de cobrança.
+Destaco, no caso, que não se pode assumir como termo inicial do prazo prescricional o recebimento do alvará pela ora apelante, porquanto o contrato que assim previa fora rescindido por ato unilateral do mandatário, ora recorrido, que, repito-me, foi impedido de seguir na defesa dos interessas daquela pela sua suspensão nos quadros da OAB, de modo que não mais incidentes assuas disposições à relação, inclusive o termo de vencimento.
+Tanto é assim que o presente feito não busca os honorários contratados - dado que contrato eficaz não mais havia -, mas sim o arbitramento pelo labor prestado, o qual certamente mereceria a remuneração adequada, como vem reconhecendo esta Câmara, com pretensão que encontra óbice apenas e tão somente no decorrer do prazo prescricional.
+Ressalte-se, por fim, que não ficou comprovada a alegação ofertada em grau recursal, após intimação do autor, de que teria ocorrido a interrupção ad prescrição por ajuizamento de ação de cobrança, limitando-se a alegar esta interrupção, sem trazer a documentação a tanto atinente, a tanto não bastando as informações processuais acostadas no Evento 8, p. 11, pois incompletas, não permitindo se afira, a partir delas. Neste sentido:
+(..)" (g. n.)
+Com a devida venia, o v. acórdão estadual merece reforma. Com efeito, a jurisprudência desta eg. Corte entende que a instituição de cláusula de êxito é condição suspensiva de exigibilidade que faz postergar a contagem do prazo prescricional. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CLÁUSULA DE SUCESSO. REVOGAÇÃO DO MANDATO ANTES DE CONFIGURADA A CONDIÇÃO ESTIPULADA PELAS PARTES PARA PAGAMENTO. RECEBIMENTO DO CRÉDITO. TERMO INICIAL DA PRESCRIÇÃO.
+PRINCÍPIO DA ACTIO NATA. AGRAVO INTERNO DESPROVIDO.
+1. No caso dos honorários contratuais, se tal verba for pactuada com amparo em cláusula de êxito, a cobrança só é possível, mesmo no caso de revogação do mandato no curso da demanda, após a implementação da condição suspensiva. Desse modo, é a partir do instante em que obtido o sucesso na ação que se preludia o cômputo do referido prazo extintivo.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1715128/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020)
+"CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CLÁUSULA DE ÊXITO. CONDIÇÃO SUSPENSIVA. REVOGAÇÃO DO MANDATO. TERMO INICIAL DA PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA. NÃO CUMPRIMENTO INTEGRAL DO CONTRATO. REVOGAÇÃO IMOTIVADA DO MANDATO. NECESSIDADE DE ADEQUAÇÃO AO SERVIÇO EFETIVAMENTE PRESTADO. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. 1.
+Ação ajuizada em 15/12/2008. Recurso especial interposto em 15/08/2012 e (..)
+4. Prescrição: utilização do princípio da actio nata, segundo o qual passa a fluir o prazo prescricional apenas a partir do momento em que existir uma pretensão exercitável por parte daquele que suportará os efeitos do fenômeno extintivo.
+5. Cláusula de êxito como condição suspensiva de exigibilidade que faz postergar no tempo o início da contagem prescricional.
+6. Não se aplica o art. 22, § 4º, da Lei n. 8.906/1994 quando o advogado não mais representa a parte, devendo para tal fim ajuizar ação autônoma para cobrança dos valores.
+7. Os advogados têm direito ao arbitramento judicial de honorários na hipótese de resilição unilateral do contrato por parte do cliente. Precedentes. 8. Possibilidade de arbitramento judicial em ação de conhecimento que versa sobre o próprio contrato de prestação de serviços advocatícios.
+9. Recurso especial parcialmente conhecido e, nesta parte, parcialmente provido.
+(REsp 1632766/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/06/2017, DJe 12/06/2017)
+Nesse cenário, considerando a necessidade de se estabelecer a data do êxito da demanda, que representa o termo inicial da contagem do prazo prescricional, necessário o retorno dos autos ao eg. Tribunal a quo,para novo julgamento da causa à luz da jurisprudência desta Corte.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial, nos termos dafundamentação supra.
+Publique-se.
