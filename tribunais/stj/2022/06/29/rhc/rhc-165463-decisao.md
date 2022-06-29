@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar interposto por CELSO GOMES, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no HC n. 205658-36.2022.8.26.0000.
+Infere-se dos autos que o Juízo da Execução, diante de notícia de prática de falta grave, regrediu cautelarmente o recorrente para o regime fechado.
+Irresignada, a defesa impetrou writ originário, o qual teve a ordem denegada pelo Tribunal a quo.
+No presente recurso, orecorrente sustenta, em síntese, que as instâncias ordinárias teriam apresentado fundamentação genérica quanto à caracterização da infração disciplinar, alegando, ainda, não ser hipótese de "descumprimento do regime semiaberto, mas, sim, impossibilidade de retorno do apenado ao sistema prisional no prazo estabelecido" (fl. 121), em virtude de ter sido acometido pelo vírus da COVID-19.
+Por fim, alega que já havia cumprido mais de 80% da pena no regime mais gravoso e estariam faltando apenas 35 dias para atingir o lapso temporal para progredir ao regime aberto, o que, segundo a defesa, leva a crer que não existiam motivos para descumprir qualquer determinação judicial.
+Requer, assim, o restabelecimento do regime semiaberto.
+Indeferido o pedido de liminar e prestadas as informações necessárias, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 158/160).
+É o relatório.
+Decido.
+Na hipótese, o Juízo da Execução regrediu cautelarmente o recorrente, tendo em vista o descumprimento das regras do regime semiaberto. Apreciando o writ originário, o Tribunal a quo manteve a decisão de primeiro grau sob a seguinte fundamentação:
+"Em verdade, a decisão combatida, reproduzida a fls. 83/84, apresenta-se suficientemente fundamentada. Ademais, a regressão cautelar de regime ante a fundada suspeita de cometimento de falta disciplinar decorre do poder geral de cautela que detém o magistrado responsável pela execução penal, assim como da determinação legal contida no artigo 118, I, da Lei nº 7.210/84.
+O tema, aliás, é pacífico na jurisprudência:
+"HABEAS CORPUS. PROCESSUAL PENAL E EXECUÇÃO PENAL. ATENTADO VIOLENTO AO PUDOR. COMUNICAÇÃO DE PRÁTICA DE FALTA GRAVE. FUGA. REGRESSÃO CAUTELAR DE REGIME. POSSIBILIDADE. OITIVA PRÉVIA. PRESCINDIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
+1. É válida a decisão que determina a regressão cautelar do regime de cumprimento de pena pelo Juízo das Execuções Criminais, que reconheceu a prática pelo Apenado de falta disciplinar de natureza grave prevista no art. 50, inciso II, da Lei n.º 7.210/84, uma vez que empreendeu fuga, revelando, segundo a decisão do Magistrado, a intenção de frustrar a execução da pena.
+2. Esta Corte Superior possui entendimento pacífico no sentido de que, praticada falta grave pelo Condenado, é perfeitamente cabível a regressão cautelar do regime prisional, com fundamento na comunicação dessa infração ao Juízo, sem a oitiva prévia do Apenado, que somente é exigida na regressão definitiva (precedentes).
+3. Ordem de habeas corpus denegada"(STJ, Sexta Turma, HC nº 446.773/SE, Relª. Minª. Laurita Vaz, j. em 18/10/2018).
+Não é diverso o entendimento desta Colenda 4ª Câmara:
+"Agravo em Execução. Sustação cautelar do regime prisional aberto. Cometimento, em tese, de falta disciplinar de natureza grave (novo crime). Possibilidade de sustação cautelar do regime mais brando, com fixação do regime fechado, provisoriamente. Critério do Juízo das Execuções. Agravo improvido" (Agravo de Execução Penal nº 9000190-83.2017.8.26.0268, Rel. Des. Luís Soares de Mello, j. em 24/04/2018).
+HABEAS CORPUS Execução penal Suspensão cautelar de regime prisional Cabimento Prática de falta disciplinar de natureza grave no cumprimento de pena em regime semiaberto que justifica a regressão, a qual pode ser feita a qualquer dos regimes mais gravosos, nos termos do inciso I do art. 118 da LEP Medida que decorre do poder de cautela do magistrado Desnecessidade de oitiva prévia do sentenciado Decisão incensurável Progressão ao regime aberto Impossibilidade de análise do pedido nessa estreita via do writ, sob pena de supressão de instância Constrangimento ilegal não configurado Ordem denegada" (HC nº 2247010-95.2018.8.26.0000, Rel. Des. Camilo Léllis, j. em 18/12/2018).
+Evidente que a regressão cautelar de regime, previamente à juntada do expediente administrativo aos autos da execução (e, por conseguinte, antes da oitiva do reeducando), diante de fundada notícia de cometimento de falta grave, é legal. Não pode ser esquecido que a fase de execução penal é regida pelo princípio in dubio pro societate.
+Assim, na dúvida, prima-se por manter o sentenciado em regime mais gravoso, limitando-se sua convivência em sociedade. Verifica-se, ainda, das informações prestadas pelo ilustre Magistrado a quo, que a decisão ora guerreada foi impugnada pelo competente recurso de agravo em execução, que se encontra em processamento. Assim, por não vislumbrar a ocorrência de indesejável constrangimento ilegal, a denegação da ordem é de rigor."(fls. 111/113).
+De acordo com o art. 50, II, da Lei de Execução Penal, "fugir" constitui infração disciplinar de natureza grave. Além disso, o art. 118, I, da referida Lei estabelece que, praticada falta grave, a pena ficará sujeita à forma regressiva. Destarte, as instâncias ordinárias agiram de acordo com a determinação legal.
+Confira-se, a propósito, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONFIGURAÇÃO DE FALTA GRAVE. FUGA. REGRESSÃO A REGIME MAIS RIGOROSO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida porquanto proferida em consonância com o entendimento desta Corte Superior.
+2. Não se constata ilegalidade na decisão do juízo da execução que determina a regressão a regime mais rigoroso do que o fixado na sentença ante o cometimento de falta grave, na espécie, fuga.
+Precedentes.
+3. Agravo regimental improvido (AgRg no HC n. 577.011/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.)
+Por fim, registre-se que a jurisprudência desta Corte Superior "é no sentido de que o art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência" (AgRg no REsp 1773347/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018).
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+Intimações necessárias.
