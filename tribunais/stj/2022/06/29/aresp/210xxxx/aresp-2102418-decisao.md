@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RAFAEL LUDUVICO - ESPÓLIO e OUTROS, contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de execução proposta pelo BANCO DO BRASIL S/A, em desfavor de HERBERT LUDUVICO e OUTROS, objetivando a cobrança de dívida amparada em Cédula de Crédito Rural.
+Sentença: julgou improcedentes os embargos à execução opostos porRAFAEL LUDUVICO - ESPÓLIO e OUTROS.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA - SENTENÇA DE IMPROCEDÊNCIA - PRELIMINAR DE CERCEAMENTO DE DEFESA - INOCORRÊNCIA - JULGAMENTO ANTECIPADO DA LIDE - DOCUMENTOS NOS AUTOS SUFICIENTES PARA A APRECIAÇÃO DA DEMANDA MATÉRIA EXCLUSIVAMENTE DE DIREITO - DESNECESSIDADE DE PRODUÇÃO DE OUTRAS PROVAS -COMISSÃO DE PERMANÊNCIA - ILEGALIDADE CONSTATADA EM PRIMEIRO GRAU - AUSÊNCIA DE INTERESSE RECURSAL -INAPLICABILIDADE DO CDC - INEXISTÊNCIA DE PROVA ACERCA DA VULNERABILIDADE OU HIPOSSUFICIÊNCIA DA PARTE - CRÉDITO RURAL DESTINADO PARA INCREMENTO DE LAVORA DE TRIGO - PEDIDO DE PRORROGAÇÃO DA DÍVIDA RURAL - INVIABILIDADE - AUSÊNCIA DE PRÉVIO PEDIDO ADMINISTRATIVO - PRECEDENTES - CAPITALIZAÇÃO DE JUROS - PREVISÃO PARA COBRANÇA - DESCARACTERIZAÇÃO DA MORA - NÃO EVIDENCIADA - AUSÊNCIA DE COBRANÇAS ABUSIVAS NO PERÍODO DE NORMALIDADE CONTRATUAL- SENTENÇA MANTIDA -HONORÁRIOS RECURSAIS - MAJORAÇÃO - ART. 85, §11, DO CPC -RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA NÃO PROVIDO."(e-STJ, fl. 735)
+Recurso especial: além de dissídio jurisprudencial, alega violação dos arts. 86, 370 e 371, do CPC/2015; 14 da Lei 4.829/65. Sustentaram: i) o cerceamento de defesa com o julgamento antecipado da lide, em relação ao pedido para produção de provapericial para análise da suareal capacidade de pagamentos; ii) que houve frustração de receitas e insucesso nacomercialização de suas safras ocasionado por fatores externos, fazendo com que os agravantes não alcançassem a rentabilidade mínima imprescindível para quitar os financiamentos realizados em prol da própria atividade; iii) que deve ser aplicada a norma do CDC à hipótese dos autos; iv) que preencheu todos os requisitos para a concessão do alongamento da dívida; v) que os prazosem operações de crédito rural são estabelecidos pelo CMN, independente da vontade dos Agentes Financeiros; vi) que o requerimento administrativo formal não constitui requisito para a prorrogação do saldo devedor; vii) a ausência de contratação da capitalização na forma mensal, devendo ser afastada; viii) a descaracterização da mora, ante a constatação da abusividade na cobrança dos encargos; ix) com o acolhimento dos pedidos, a sucumbência deve ser redistribuída.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do cerceamento de defesa
+A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatárioda prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa (AgInt no REsp 1.429.272/MA, 4ª Turma,DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, 3ª Turma, DJe de 12/5/2017).
+Além disso, modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lideimplica reexame de fatos e provas. Incide a Súmula 7 do STJ quanto ao tema.
+- Da Súmula 568/STJ
+No tocante ao pleito dos agravantes para prorrogação de dívida rural, o TJ/PR assim dispôs:
+"Em que pese a súmula nº 298 do STJ versar sobre o alongamento da dívida originada de crédito rural ser direito do devedor, e o artigo 14 da Lei 4829/65 estabelecer as condições das operações de crédito rural (requisitos para prorrogação dadívida), no presente caso, os autores não comprovaram a realização do pedido administrativo de alongamento ao Banco requerido.
+Assim, deve ser afastada a pretensão de prorrogação da dívida pela via judicial, vez que o documento apresentado pelos embargantesem ref. mov. 1.20 não faz prova do prévio pedido administrativo realizado junto a instituição financeira, vez queausente de comprovação de recebimento pelo banco, bem como pelo desconhecimento da data em que foi realizado, e aausência de comprovação da negativa de tal pedido." (e-STJ, fl. 739)
+Esse entendimento está em consonância com a atual jurisprudência desta Corte sobre o tema, no sentido da necessidade do preenchimento dos requisitos para o alongamento da dívida rural, inclusive o prévio pedido administrativo à instituição financeira.
+Nesse sentido:AgRg no REsp 1.252.806/SP, QUARTA TURMA, DJe de 04.08.201; AgRg no AREsp 693.720/MG, QUARTA TURMA, DJe de 21.3.2016 AgInt no AREsp 1.634.989/PR,TERCEIRA TURMA, julgado em 25/05/2020, DJe de 28/05/2020;AREsp 1.757.354/PR, QUARTA TURMA, DJe de 11/03/2022.
+Incide, portanto, a Súmula 568/STJ na espécie.
+- Do reexame fático probatório
+Ademais, alterar o decidido no acórdão impugnado, no ponto em questão, exige o reexame de fatos e provas, o que é vedado em recurso especial pelaSúmula7/ STJ.
+-Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que os argumentos relativos à capitalização de juros e afastamento da mora, vieram desacompanhadas da indicação dos dispositivos pertinentes, aptos a embasar a insurgência.
+Assim, não sendo alegada violação a qualquer dispositivoinfraconstitucional acerca do tema controvertido, inviável a análise do recurso especialantea incidência da Súmula 284/STF.
+- Da divergência jurisprudencial
+A falta da similitude fática, requisito indispensável à demonstraçãoda divergência,inviabiliza a análise do dissídio, umavezquenãocaracterizada a identidade entre os casos trazidoscomoprecedentes eo acórdão recorrido.
+Outrossim, a incidência da Súmula 7/STJ, prejudica a análise do dissídio.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor atualizadoda causa (e-STJ fls. 741) para 12%, observada eventual gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar a condenação às penalidades fixadas nos arts. 1.021,§4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS. CÉDULA DE CRÉDITO RURAL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. PRÉVIO PEDIDO ADMINISTRATIVO. INEXISTÊNCIA. PREENCHIMENTO DOS REQUISITOS PARA ALONGAMENTO DA DÍVIDA. AUSÊNCIA. REEXAME DE FATOS E PROVAS. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO PREJUDICADO. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. Embargos à execução.
+2. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa. Precedentes.
+3. Modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas.
+4. A jurisprudência desta Corte é firme quanto à necessidade de prévio pedido administrativo para o alongamento da dívida rural. Súmula 568/STJ.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal acerca dos temas discutidos.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+9. Agravo conhecido. Recurso especial conhecido em parte e não provido.
