@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus impetrado em nome de Paulo Ricardo Moraes Milhomem - autuado em flagrante delito em 25/8/2021, pela prática, em tese, do crime de homicídio qualificado tentado, atacando-se decisão monocrática que indeferiu pedido liminar no HC n. 0719928-55.2022.8.07.0000 (fls. 860/864), que manteve a conversão de prisão em flagrante do recorrente em preventiva nos Autos n. 0729931-03.2021.8.07.0001, do Tribunal do Júri da circunscrição judiciária de Brasília/DF, ratificada na pronúncia (fls. 253/262) - não deve ser conhecido.
+Isso porque, após consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifica-se que foi interposto o RHC n. 160.823/DF, em benefício do ora paciente, com o mesmo objeto e em face do mesmo decreto preventivo expedido nos Autos n. 0729931-03.2021.8.07.0001, do Tribunal do Júri da circunscrição judiciária de Brasília/DF.
+Assim, o fato deste writ constituir mera reiteração de pedidos já apreciados por esta Corte Superior impede o seu conhecimento. Se os pedidos veiculados neste habeas corpus foram efetivamente apreciados por esta Corte em outro processo, resta configurada a reiteração (AgRg no HC n. 469.846/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2019). Confiram-se julgados no mesmo sentido: AgRg no RHC n. 156.181/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/2/2022; EDcl nos EDcl no AgRg no RHC n. 137.734/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/3/2022; e AgRg na RvCr n. 4.101/RJ, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018.
+Em razão disso, não conheço do presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO TENTADO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. DISCUSSÃO DE TRÂNSITO SEGUIDA DE PERSEGUIÇÃO E ATROPELAMENTO DA VÍTIMA. POSSIBILIDADE. PRECEDENTES. ANTERIOR INTERPOSIÇÃO DO RHC N. 160.823/DF. REITERAÇÃO DE PEDIDOS.
+Writ não conhecido.
