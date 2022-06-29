@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INCIDÊNCIA. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. TERMO INICIAL. CONTAGEM. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora a questão acerca do termo inicial de contagem da prescrição da pretensão executória seja objeto de repercussão geral perante o STF, no ARE n. 848.107/DF, da relatoria do Ministro Dias Toffoli, Tema n. 788, "o Plenário do Supremo Tribunal Federal decidiu que a suspensão do processamento prevista no artigo 1.035, § 5º, do CPC/2015 não é decorrência necessária do reconhecimento da repercussão geral, tendo o Relator do Recurso Extraordinário como paradigma a faculdade de determinar ou não tal sobrestamento" (AgRg no REsp 1.796.232/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2019, DJe 22/11/2019).
+2. A jurisprudência majoritária desta Corte Superior é firme em assinalar que o marco inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+3. Hipóteses em que o Tribunal Estadual considerou que o marco inicial da prescrição da pretensão executória é a data do trânsito em julgado para ambas as partes, adotando entendimento em desacordo com a jurisprudência dominante desse Superior Tribunal de Justiça.
+4. Mantida a decisão agravada que declarou extinta a punibilidade do paciente em razão da prescrição da pretensão executória.
+5. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão proferida por este Relator, que concedeu a ordem, de ofício (e-STJ, fls. 38-40).
+Nas razões recursais, o agravante defende, em síntese, que deve ser considerada a data do trânsito em julgado para ambas as partes como marco interruptivo da prescrição da pretensão executória, conferindo-se interpretação ao art. 112, I, do Código Penal, em consonância com os princípios da legalidade e da presunção de inocência.
+Ressalta o entendimento mais recente do STF no sentido de que é necessário o trânsito em julgado da condenação, ou seja, o esgotamento de todas as possibilidades de recurso, para início de cumprimento de penal.
+Sustenta que, considerando-se o trânsito em julgado da condenação em 30/03/2021, ainda não houve o transcurso do prazo prescricional.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do recurso à análise deste Órgão Julgador.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INCIDÊNCIA. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. TERMO INICIAL. CONTAGEM. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora a questão acerca do termo inicial de contagem da prescrição da pretensão executória seja objeto de repercussão geral perante o STF, no ARE n. 848.107/DF, da relatoria do Ministro Dias Toffoli, Tema n. 788, "o Plenário do Supremo Tribunal Federal decidiu que a suspensão do processamento prevista no artigo 1.035, § 5º, do CPC/2015 não é decorrência necessária do reconhecimento da repercussão geral, tendo o Relator do Recurso Extraordinário como paradigma a faculdade de determinar ou não tal sobrestamento" (AgRg no REsp 1.796.232/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2019, DJe 22/11/2019).
+2. A jurisprudência majoritária desta Corte Superior é firme em assinalar que o marco inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+3. Hipóteses em que o Tribunal Estadual considerou que o marco inicial da prescrição da pretensão executória é a data do trânsito em julgado para ambas as partes, adotando entendimento em desacordo com a jurisprudência dominante desse Superior Tribunal de Justiça.
+4. Mantida a decisão agravada que declarou extinta a punibilidade do paciente em razão da prescrição da pretensão executória.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos, os quais restaram assim consignados:
+Consoante registrado na decisão combatida, esta Relatoria não desconhece que a questão aqui discutida seja objeto de repercussão geral perante o Supremo Tribunal Federal, no ARE n.º 848.107/DF, da relatoria do Ministro Dias Toffoli, Tema n.º 788.
+No entanto, "o Plenário do Supremo Tribunal Federal decidiu que a suspensão do processamento prevista no artigo 1.035, § 5º, do CPC/2015 não é decorrência necessária do reconhecimento da repercussão geral, tendo o Relator do Recurso Extraordinário como paradigma a faculdade de determinar ou não tal sobrestamento" (AgRg no REsp 1796232/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/11/2019, DJe 22/11/2019).
+E a jurisprudência majoritária desta Corte Superior é firme em assinalar que o marco inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+Nesse sentido, confiram-se os recentes julgados:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTERPRETAÇÃO LITERAL DO ART. 112, I, DO CÓDIGO PENAL.
+1. A orientação jurisprudencial pacífica desta Corte é a de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado.
+2. Agravo regimental desprovido." AgRg nos EDcl nos EREsp 1.376.031/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 10/02/2021, DJe 12/02/2021; grifou-se.)
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, INCISO I, DO CÓDIGO PENAL. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Relator Ministro NEFI CORDEIRO, DJe de 2/10/2018).
+2. A existência de precedente recente do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão (AgRg no HC 545.372/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2019, DJe 13/12/2019).
+3. Agravo regimental não provido."
+(AgRg nos EDcl no AgRg no AREsp 1764481/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021; grifou-se.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO EXECUTÓRIA. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou devidamente explicitado que o termo inicial para a contagem do prazo da prescrição executória, consoante orientação desta Corte, inicia-se com o trânsito em julgado para acusação. Entretanto, a avaliação da incidência dessa causa extintiva da punibilidade somente é possível quando há o trânsito em julgado para ambas as partes.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg nos EAREsp 1922091/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 09/03/2022, DJe 16/03/2022; grifou-se.)
+Nesse passo, o Tribunal Estadual considerou que o termo inicial da prescrição da pretensão executória é a data do trânsito em julgado para ambas as partes, adotando, pois, entendimento em desacordo com a jurisprudência dominante desse Superior Tribunal de Justiça.
+Dentro desse contexto, deve ser mantida a decisão agravada que declarou extinta a punibilidade do paciente em razão da prescrição da pretensão executória, diante do decurso do prazo prescricional.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
