@@ -1,0 +1,37 @@
+Decisão: Trata-se de habeas corpus impetrado em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 5):
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL.
+
+    1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+
+    2. No caso, a prisão preventiva foi mantida na decisão liminar em razão da periculosidade do paciente, evidenciada pelas circunstâncias da prisão - após perseguição, o acusado bateu com o veículo e empreendeu fuga a pé, entrou em uma residência sem autorização do morador, na tentativa de se esconder e, ao ser detido, os agentes apreenderam drogas - crack, cocaína e maconha. Ainda, as decisões anteriores destacaram o risco de reiteração delitiva, porquanto o paciente havia sido presou pouco tempo antes, estava em liberdade provisória, além de ostentar registros por diversos atos infracionais. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+
+    3. Agravo regimental desprovido.
+
+    Busca-se, em suma, a concessão de liberdade provisória ao paciente, que responde pela prática do crime previsto no art. 33 da Lei 11.343/2006, argumentando-se que o paciente é primário, não pertence a nenhuma organização criminosa e possui residência fixa no distrito de culpa, bem como a quantidade de droga apreendida em seu poder, 5,7 gramas de cocaína e 1,03 grama de maconha, é ínfima.
+
+    É o relatório. Decido.
+
+      1. De plano, observo que o Ministro Relator do HC 739.867/SP indeferiu liminarmente o habeas corpus, forte na aplicação da Súmula 691 do STF. A decisão foi integralmente mantida pela Quinta Turma do STJ.
+
+    Nessa toada, devo ressaltar aos impetrantes que a exigência de motivação estabelecida pelo art. 93, XI, CF, deve ser compreendida à luz do cenário processual em que o ato se insere. Vale mencionar, por exemplo, a evidente distinção da motivação exigida entre medidas embrionárias, que se contentam com juízo sumário, e o édito condenatório, que desafia a presença de arcabouço robusto para fins de desconstituição do estado de inocência presumido.
+
+    Cumpre assinalar que o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica quando a situação demonstrada nos autos representar, desde logo, manifesto constrangimento ilegal.
+
+    Ou seja, no contexto do habeas corpus, a concessão da tutela de urgência é exceção, e, nesse particular, seu indeferimento deve ser motivado de acordo com essa condição.
+
+    Sendo assim, o ônus argumentativo para afastar o pleito liminar é extremamente reduzido. Calha reiterar que, em tais hipóteses, não há pronunciamento de mérito da autoridade apontada como coatora, de modo que se mostra recomendável aguardar a manifestação conclusiva do Juízo natural.
+
+    Além disso, de acordo com a tradicional jurisprudência do Supremo Tribunal Federal, não é admissível a superposição de habeas corpus contra decisões denegatórias de liminar (HC’s nºs 79.238/RS e 79.776/RS, relator Ministro Moreira Alves, DJU de 6.8..1999 e de 3.3.2000, respectivamente; HC nº 79.748/RS, relator Ministro Celso de Mello, DJU de 23.6.2000; HC nº 79.775/AP, relator Ministro Maurício Corrêa, DJU de 17.3.2000).
+
+    Sendo assim, o acórdão do STJ, ao manter a aplicação da Súmula 691 desta Suprema Corte, não merece reproche.
+
+    2. Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao  habeas corpus.
+
+    Brasília, 29 de junho de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
