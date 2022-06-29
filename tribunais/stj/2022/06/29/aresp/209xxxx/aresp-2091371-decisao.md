@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo de DROGARIA SÓ TRICOLOR LTDA e OUTRO contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Apelação cível. Ação de execução de título extrajudicial. Sentença de extinção sem julgamento do mérito. Art. 485, IV, c/c 290, ambos do CPC/2015. Indeferimento da gratuidade de justiça. Não interposição de recurso dentro do prazo. Preclusão temporal.
+Intimação pessoal da parte que é desnecessária. Art. 290 do CPC. Cancelamento da distribuição. Sentença mantida. Recurso a que se nega provimento." (e-STJ fl. 393)
+Nas razões do recurso especial, o agravante alega violação dos arts. 98 e 485, III, §1º do CPC, sustentando, em síntese, que: 1) antes da extinção da demanda era necessária a intimação pessoal da parte para dar andamento ao feito e 2) faz jus ao benefício da gratuidade de justiça.
+É o relatório. Decido.
+Quanto à alegação de ofensa ao art. 485, III, §1º do CPC, porque antes da extinção da demanda era necessária a intimação pessoal da parte para dar andamento ao feito, verifica-se que o conteúdo do recurso especial encontra-se totalmente dissociado do temas discutidos no processo, uma vez que não houve a extinção do feito por abandono, mas sim o cancelamento da distribuição por ausência de recolhimento das custas, após o indeferimento do benefício da Justiça Gratuita, senão vejamos:
+"Com efeito, é sabido que o benefício da gratuidade de justiça pode ser observado a qualquer tempo, cabendo, portanto, em sede de apelação.
+No entanto, compulsando os autos, verificou-se que o Juízo determinou o recolhimento das custas ao final (antes da sentença) sob pena de cancelamento da distribuição a fls. 130.
+A fls. 257, o Juízo determina novamente o recolhimento das custas sob pena de cancelamento da distribuição.
+A fls. 278 a parte autora reitera o pedido de gratuidade de justiça.
+O Juízo, a fls. 297, ratifica o indeferimento da gratuidade, uma vez que não houve prova de qualquer alteração da condição financeira ou insuficiência de recursos por parte dos autores.
+A parte autora não manifestou sua irresignação através de recurso próprio.
+Diante disso, caracterizou-se a preclusão temporal, não sendo possível, em sede de apelação, sob pena de violação do art. 507 do CPC/2015, rediscutir o preenchimento dos requisitos para a concessão da gratuidade de justiça ou recolhimento das custas ao final, impondo-se a manutenção da sentença." (e-STJ fl. 394)
+É assente nesta Corte que é inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem, incidindo na espécie as Súmulas n. 282 e 356/STF.
+Ademais, no presente caso, incide também a Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ". Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA CIRURGIA EM HOSPITAL CREDENCIADO. ENFERMIDADE COBERTA PELO PLANO. ILEGALIDADE COMPROVADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência do STJ, é abusiva a exclusão do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clinico ou do procedimento cirúrgico relativos a doença coberta pelo contrato de plano de saúde, hipótese na qual o ressarcimento dos gastos realizados pelo beneficiário deve ser integral. Precedentes.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o estabelecimento médico pelo qual optou a autora era conveniado à rede credenciada da requerida e dispunha de condições para a realização do procedimento médico em questão. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1809822/SP, de minha Relatoria, QUARTA TURMA, julgado em 05/09/2019, DJe 25/09/2019) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO RÉU.
+1. Não há que cogitar nulidade da decisão monocrática, por suposta ofensa ao princípio da colegialidade. Isso porque a jurisprudência dominante do STJ autoriza o improvimento do recurso especial por meio de decisão monocrática, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados.
+2. O julgador não fica obrigado a se manifestar sobre todas as alegações das partes, nem a se ater aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, tampouco mencionar expressamente cada um dos artigos de lei invocados, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu no caso em apreço.
+3. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+4. O Tribunal fixou o valor da indenização, de acordo com as peculiaridades do caso em concreto, seguindo os princípios da razoabilidade e proporcionalidade. Para que se possa rever tal quantia, se faz necessário o reexame dos fatos e provas constantes dos autos, medida defesa em recurso especial por incidência da Súmula 7/STJ.
+5. Consoante iterativa jurisprudência desta Corte, a incidência do referido óbice impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1172964/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019) (grifei)
+Por outro lado, no que diz respeito à violação do art. 98 do CPC, verifica-se que o conteúdo normativo do dispositivo não foi apreciado pelo Tribunal a quo, tendo em vista que não se tratou, na apelação, de um novo pedido de concessão do benefício da Justiça Gratuita.
+Assim, em se tratando de insurgência contra o indeferimento pelo juízo de origem, o Tribunal a quo reconheceu apenas a preclusão, por não ter o recorrente manifestado sua irresignação através de recurso próprio quando o juízo ratificou o indeferimento da gratuidade.
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, de minha Relatoria, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
