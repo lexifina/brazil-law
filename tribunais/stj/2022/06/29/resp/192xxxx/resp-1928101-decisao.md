@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por Daniela Barrozo Bell, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região na Correição Parcial n. 5057725-09.2020.4.04.0000/RS (fls. 42/52):
+CORREIÇÃO PARCIAL. PROCESSO PENAL. ART. 28-A, DO CPP. ACORDO DE NÃO PERSECUÇÃO PENAL. LEI Nº 13.964/2019. SUSPENSÃO DA AÇÃO. INDEFERIMENTO. INVERSÃO TUMULTUÁRIA NÃO CONFIGURADA.
+1. A correição parcial encontra previsão no art. 164 e seguintes do Regimento Interno deste Tribunal, sendo destinada à emenda de erros ou abusos que importem a inversão tumultuária de atos e fórmulas legais, a paralisação injustificada dos processos ou a dilação abusiva dos prazos pelos Juízes de primeiro grau, quando, para o caso, não haja recurso previsto em lei.
+2. O Supremo Tribunal Federal e o Superior Tribunal de Justiça já se manifestaram contrariamente à aplicação do acordo de não persecução penal às ações penais com denúncia recebida antes da vigência da Lei nº13.964/2019.
+3. Correição Parcial improvida.
+No presente recurso especial, é indicada a violação do art. 28-A do Código de Processo Penal.
+Sustenta a recorrente que o Juízo a quo entendeu pela impossibilidade de ser proposto o acordo de não persecução penal no juízo singular, já que o instituto não é cabível na fase recursal.  ..  Ao assim decidir, afastou a melhor interpretação do art. 28-A do CPP, que é uma norma de natureza híbrida, pois contém uma parte de conteúdo penal, mais benéfica ao réu, razão pela qual deve retroagir.  ..  Em consequência, a interpretação dada ao art. 28-A do CPP colocou em xeque o art. 2º, parágrafo único, do Código Penal, como também afastou o art.5º, XL da Constituição (fl. 62).
+Ao final da peça processual, requer  .. o conhecimento do presente recurso especial com fundamento no art. 105, III, alínea "a", da CRFB/88, e, no mérito, seu provimento, com a determinação que seja devolvido os autos ao juízo da primeira instância para que a Procuradoria da República possa examinar a possibilidade (ou não) de oferecimento do ANPP em relação ao ora recorrente (fl. 89).
+Oferecidas contrarrazões (fls. 96/103), o recurso especial foi admitido na origem (fl. 106).
+O Ministério Público Federal manifestou-se pelo desprovimento da insurgência (fls. 165/170):
+PENAL E PROCESSO PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. DENÚNCIA RECEBIDA EM 13/08/2019. RETROATIVIDADE DA LEI 13.964/2020. INCABÍVEL. PRECEDENTES. PARECER PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Para elucidação do quanto requerido pela recorrente, extrai-se do acórdão da correição parcial o seguinte trecho (fl. 49 - grifo nosso):
+ ..
+Quanto ao argumento de que a redação do art. 28 do CPP autorizaria o juiz a suspender o processo, tenho que não há, efetivamente, como equiparar a possibilidade legal do juiz, discordando do pedido de arquivamento pelo Ministério Público, submeter a questão à Câmara de Revisão do Parquet, com a hipótese presente, em que o Ministério Público afirma que não proporá acordo de não persecução penal.
+Além da falta de similitude das situações integrantes do argumento da corrigente - encaminhar à Câmara de Revisão do MPF pedido de arquivamento (previsto legalmente) em contraste com hipótese em que titular da ação penal afirma não caber o acordo de não persecução e, portanto, vai prosseguir na persecução (exercício da competência constitucional de titular da ação penal pública) -, as situações para as quais a defesa da corrigente busca o mesmo tratamento, suspensão da ação penal, possuem sinais distintos.
+É de ser evidenciado que na fase do inquérito, vigora o in dubio pro societate, ao passo que, recebida a denúncia, em que pese a possibilidade do Ministério Público postular a absolvição do réu, está materializada a indisponibilidade da ação penal.
+Com essas considerações, por não vislumbrar razão para alterar o sentido da decisão que indeferiu a liminar, e porque a decisão recorrida não consubstancia erro ou abuso que importem a inversão tumultuária de atos e fórmulas legais, a paralisação injustificada dos processos ou a dilação abusiva dos prazos pelos Juízes de primeiro grau, é de ser improvida a correição parcial.
+ ..
+Com efeito, no julgamento do AgRg no HC n. 628.647/SC (Relatora p/ acórdão Ministra Laurita Vaz), encerrado em 9/3/2021, a Sexta Turma desta Corte modificou a orientação estabelecida em precedente anterior acerca da possibilidade de aplicação retroativa do art. 28-A do Código de Processo Penal, aderindo ao mesmo entendimento da Quinta Turma, no sentido de que o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei n. 13.964/2019, desde que não recebida a denúncia (AgRg no AREsp n. 1.787.498/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021 - grifo nosso).
+No mesmo sentido, confiram-se:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. APLICAÇÃO RETROATIVA DO ART. 28-A DO CPP (ANPP). DENÚNCIA QUE JÁ TINHA SIDO RECEBIDA. IMPOSSIBILIDADE. PRECEDENTES.
+1. A decisão agravada revela-se consentânea com a jurisprudência deste Superior Tribunal, devendo ser mantida por seus próprios fundamentos.
+2. A jurisprudência desta Corte firmou compreensão de que, considerada a natureza híbrida da norma e diante do princípio tempus regit actum em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019 desde que ainda não tenha ocorrido o recebimento da denúncia (EDcl nos EDcl no AgRg no AREsp 1.319.986/PA, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 18/5/2021, DJe 24/5/2021).
+3. Agravo regimental improvido.
+(AgRg no RHC n. 146.012/RS, de minha relatoria, Sexta Turma, DJe 18/6/2021 - grifo nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CÓDIGO DE PROCESSO PENAL. LEI N. 13.964/2019. RETROATIVIDADE APÓS O RECEBIMENTO DA DENÚNCIA E DA PROLAÇÃO DA SENTENÇA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DAS TURMAS DO STJ. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. ORDEM NÃO CONHECIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A lei processual e o Regimento Interno do STJ preveem o julgamento monocrático quando a matéria estiver em consonância com a jurisprudência dominante do Superior Tribunal de Justiça, o que é incompatível com a pretensão de sustentação oral.
+2. O acordo de não persecução penal, previsto no art. 28-A do CPP, aplica-se a fatos ocorridos antes da entrada em vigor da Lei n. 13.964/2019, desde que não recebida a denúncia.
+3. A ausência de oferecimento de acordo de não persecução penal quando a denúncia foi oferecida e a sentença já foi prolatada afasta a ilegalidade ou a teratologia que viabiliza o conhecimento de habeas corpus substitutivo de recurso.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 620.504/SP, Ministro João Otávio De Noronha, Quinta Turma, DJe 20/9/2021 - grifo nosso).
+Em reforço, nos termos do parecer da Procuradoria-Geral da República, a Terceira Seção do Superior Tribunal de Justiça definiu que a retroatividade do art. 28-Ado CPP, introduzido pela Lei n. 13.964/2019, revela-se incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias (fl. 167 - grifo nosso).
+Diante do exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. CORREIÇÃO PARCIAL. VIOLAÇÃO DO ART. 28-A DO CPP. PLEITO DE ABERTURA DE VISTA DOS AUTOS AO PARQUET PARA POSSIBILIDADE DE OFERECIMENTO RETROATIVO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DENÚNCIA QUE JÁ HAVIASIDO RECEBIDA. IMPOSSIBILIDADE. JURISPRUDÊNCIA DE AMBAS AS TURMAS DA TERCEIRA SEÇÃO.
+Recurso especial desprovido.
