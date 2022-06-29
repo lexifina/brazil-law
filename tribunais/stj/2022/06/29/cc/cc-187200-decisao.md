@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Cível, Criminal e da Infância e Juventude da comarca de Além Paraíba/MG, o suscitante, e o Juízo de Direito da Vara Única da comarca de Carmo/RJ, o suscitado.
+Versam os autos acerca de inquérito policial instaurado para fins de apurar a suposta prática do crime de receptação (fls. 478/479):
+ ..
+De acordo com os autos, em 25/08/2020,policiais civis lotados na DEPOL.do Carmo-RJcumpriram na comarca de Além Paraíba o Mandado de Busca e Apreensão 785/2020/MND, expedido pelo Juízoda comarca do Carmo-RJ,a fim de averiguar informações que indicavam ter a res furtiva de propriedade da empresa VMOpenlink Comunicação Multimídiasido localizada em posse da empresa Rio Cable,ambas atuante; na região no mercado de internei banda larga.
+Durante a diligência,cumprida na filial daempresa Rio Cable, situada na Rua Cel Oscar Corte, 180, loja 4, Centro, foram localizados e apreendidos 09 (nove) aparelhos roteadores, posteriormente confirmados como sendo parle do furto praticado contra a empresa VM Openlink ComunicaçãoMultimídianacidade do Carmo-RJ.
+Ao serem informados de que o sócio-gerente da Rio Cable, WAILISON DEMATOS MUZY,poderia ser encontrado na sede da empresa. em Macuco-RJ(Rua Francisco Lopes Martins. 256 - Centro). os policiais civis se deslocaram para lá e localizaram outros 05 (cinco) roteadores também furtados na Sumicity.
+Ao ser interrogado, WALLISON confessou ler adquirido, em 2019,80 (oitenta (roteadores) de uma pessoa desconhecida. sem nota fiscal e pela metade do preçode mercado, e que, apesar de ter sido alertado sobre a origem incita por um dos sócios da empresa VMOpenlink Comunicação Multimídia, nada fez para devolver os bens nem para apurar o caso.
+ ..
+Recebendo os autos (Processo n. 0168732-38.2020.8.19.0001), o Juízo de Direito da Vara Única da comarca do Carmo/RJ declinou da competência em favor da comarca de Além Paraíba/MG, reputando que o crime teria se consumado naquela localidade (fl. 455):
+ ..
+Como se denota do Registro de Ocorrência de fls. 07/10, dos termos de declaração de fls. 11/12 e 15/16 e demais elementos constantes dos autos, todos os aparelhos foram apreendidos na cidade de Além Paraíba, onde estavam sendo mantidos em depósito/utilizados, sendo, assim, o local onde se consumou o delito, a teor do artigo 70, caput, do CPP.
+Dessa forma, ACOLHO na íntegra a promoção do MP e DECLINO da competência em favor do Juízo da Vara Criminal a que couber a distribuição na comarca de Além Paraíba/MG.
+ ..
+Na comarca de Além Paraíba/MG, o procedimento foi reautuado sob o n. 0005219-77.2021.8.13.0015 e distribuído ao Juízo da 2ª Vara Criminal local, que suscitou o conflito, adotando a seguinte manifestação do órgão ministerial (fls. 478/479):
+ ..  a simples apreensãode parte dos objetos furtados na comarca de AL:111 Paraíba, por si só, não possui o condão de atrair a competência do crime de receptação, eis que a utilização da res constitui mero exaurimento do crime, já consumado em momento anterior. Inclusive. sequer há indícios de que a compra e venda dos roteadorestenha ocorrido nesta comarca.
+Ademais, ao expedir mandado de busca e apreensão, o Magistrado que primeiro despachou tornou-se prevento para conhecer e julgar o caso.
+Nesse sentido é o entendimento do STJ:
+ ..
+Por fim, não bastassem tais argumentos, a boa técnica de investigação e processamento recomendam que os casos sejam investigados e processados em conjunto, como decorrência das regras de conexão probatória, previstas no art. 76, III, do CPP, pois os elementos de convicção carreados em um dos casos influenciará diretamente na elucidação e persecução criminal do outro, não havendo razão para apartá-los.
+ ..
+Instado a se manifestar na condição decustos legis, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitante (fl. 512):
+Cuida-se de conflito de competência negativo. Como se denota do registro de ocorrência, todos os aparelhos foram apreendidos na cidade de Além Paraíba, onde estavam sendo mantidas em depósito (local da consumação). Nesse passo, a competência é do Juízo Suscitante.
+É o relatório.
+Com razão o parecerista.
+Em se tratando de crime de natureza permanente, a consumação do crime de receptação se prolongouno tempo, de modo o delito deveser tidocomo consumadoaté o momento daapreensão, sendo o caso, pois, de fixar a competência na forma do art. 70do Código de Processo Penal, ou seja, em favor do Juízo da comarca de Alto Paraíba/MG.
+Nesse sentido, confira-se:
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. RECEPTAÇÃO. FLAGRANTE OCORRIDO NO ESTADO DA BAHIA. CARGA DE CAMINHÃO ROUBADA NO ESTADO DE MINAS GERAIS. INDIVÍDUOS QUE SUPOSTAMENTE ESCOLTAVAM A MERCADORIA. AUTORIA DO ROUBO DESCONHECIDA. COMPETÊNCIA DO LOCAL ONDE HOUVE O FLAGRANTE DO DELITO DE RECEPTAÇÃO.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d da Constituição Federal - CF.
+2. No caso em análise o núcleo da controvérsia consiste em identificar se as investigações encontram-se maduras o suficiente para concluir que os indivíduos flagrados em Vitória da Conquista/BA, quando supostamente realizavam a escolta da mercadoria roubada, integram organização que praticou o crime de roubo ocorrido em Francisco Sá/MG; ou se, diante do contexto dos autos, há apenas indícios da prática do delito de receptação.
+3. "Desconhecida a autoria do crime de roubo ou furto, não há que se falar em conexão com o delito de receptação. Assim, o conflito deve ser solucionado pela prevenção, levando-se em conta o local onde primeiro se conheceu dos fatos relacionados à receptação" (CC 118.068/AL, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 16/10/2014). No mesmo sentido: CC 85.950/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJ 27/9/2007.
+4. O lapso temporal entre o roubo e o flagrante no traslado da mercadoria, bem como a circunstância de a mercadoria já ter sido deslocada para outro veículo automotor denotam apenas flagrante pelo delito de receptação, sendo necessário prosseguir nas investigações para se afirmar que os investigados tiveram alguma participação no crime de roubo.
+5. No atual estágio das investigações não se sabe se os indivíduos flagrados em Vitória da Conquista/BA constituem ramo de organização criminosa que realiza roubos ou se integram associação criminosa independente cujo ramo de atuação é a receptação e deslocamento da mercadoria para outros entes federativos. Diante de tal contexto, à míngua de maiores evidências acerca do nível de envolvimento dos investigados com o roubo, cuja autoria é desconhecida, as investigações devem prosseguir em Vitória da Conquista/BA onde ocorreu o flagrante do crime de receptação. Precedentes: CC 165.395/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 1º/7/2019.
+6. Ademais, não se pode olvidar que o delito de receptação cuida-se de crime permanente, cuja consumação se protrai no tempo, sendo incontroverso que o flagrante da receptação ocorreu em Vitória da Conquista/BA.
+7. Conflito conhecido para reconhecer a competência do Juízo de Direito da 1ª Vara Criminal de Vitória da Conquista/BA, o suscitante.
+(CC n. 169.394/BA, Ministro Joel Ilan Paciornik, Terceira Seção,DJe 14/9/2020 - grifo nosso)
+No caso, nenhuma das circunstâncias aventadas pelo Juízo suscitante é apta a justificar a modificação de competência.
+O fato de a apreensão guardar relação decausalidade com mandado de busca e apreensão expedido pelo Juízo da comarca do Carmo/RJnão altera a competência, pois há notícia de que que toda a res furtivae foi apreendida em Alto Paraíba/MG (fl. 455), ou seja, não se cuidaaqui de infração permanente,praticada em território de duas ou mais jurisdições(art. 71 do CPP), circunstância que, caso verificada, autorizaria a fixação da competência mediante prevenção.
+Também não é o caso de modificar a competência com base numa suposta conexão com o delito patrimonial anterior.
+Ora,o procedimento inquisitivoversa apenas acerca do crime de receptação, inexistindo notícia do atual estágio da apuração atinente ao crime anterior, sendo certo que tal circunstância inviabiliza aferir a possibilidade de reunião dos feitos para processamento conjunto.
+Ademais, não há indícios de conexão probatória que justifique a modificação da competência com fundamento no art. 76 do CPP, pois oúnico nexoprobatório entre os eventos é a mercadoria apreendida.
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar a competência doJuízo de Direito da 2ª Vara Cível, Criminal e da Infância e Juventude da comarca de Além Paraíba/MG, o suscitante, para processar o crime de receptação objeto do inquérito policial.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. RECEPTAÇÃO.CRIME PERMANENTE. COMPETÊNCIA FIXADA EM FAVOR DO JUÍZO DO LOCAL DA APREENSÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência doJuízo de Direito da 2ª Vara Cível, Criminal e da Infância e Juventude da comarca de Além Paraíba/MG, o suscitante, para processar o crime de receptação objeto do inquérito policial.
