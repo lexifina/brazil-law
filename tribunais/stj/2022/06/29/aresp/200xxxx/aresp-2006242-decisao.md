@@ -1,0 +1,18 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que NOVA UNIÃO S.A. deu início ao processo defalência de PETROFORTE BRASILEIRO DE PETRÓLEO LTDA. (PETROFORTE).
+Nos autos do mencionado processo, foi deferidaa desconsideração da personalidade jurídica de PETROFORTE para estender seus efeitos, entre outras pessoas, a WELLENGTON CARLOS DE CAMPOS (WELLENGTON).
+No curso da ação, o d. juízo de primeira instância indeferiu novo pedido de WELLENGTON para que fosse excluído do polo passivo da falência e declarada nula anterior decisão que havia estendido a ele os efeitos da falência, diante da desconsideração da personalidade jurídica da devedora (e-STJ, fls. 47/53).
+Contra essa decisão interlocutória, WELLENGTON manejou agravo de instrumento que não foi provido pelo Tribunal de Justiça do Estado de São Paulo, nos termos do acórdão relatado pelo Desembargador CLÁUDIO GODOY, assim ementado:
+Agravo de instrumento. Falência. Extensão dos seus efeitos. Pretensão do agravante de revogação da decisão, ao argumento de que não preenchidos os requisitos legais a tanto exigidos, ou de seguimento do incidente para que haja instrução, individualização de sua conduta e real exercício do contraditório, antes não ocorrido porque a rigor provisória ainda a deliberação de extensão, baseada em simples indícios. Matéria já há muito deliberada neste Tribunal. Contraditório efetivamente exercido e apreciação concreta dos fatos que determinaram a extensão. Decisão mantida. Recurso desprovido(e-STJ, fls. 396/413).
+Os embargos de declaração opostos porWELLENGTON foram rejeitados (e-STJ, fls. 475/482).
+Inconformado,WELLENGTON interpôs recurso especial com fundamento no art. 105, III,a, da CF, alegando a violação dos arts. 7º, 8º, 10º, 133,§1º, 134,§4º, 135, 136 e 489, todos do NCPC e 50 e 1.016, ambos do CC/02, ao sustentar que (1) foi violado o princípio do contraditório com a adoção de fundamentação per relationem; (2) é impossível a estabilização de uma decisão liminar deferidainaudita altera pars,proferida sob a égide do CPC/73 e objeto de agravo de instrumento não provido; (3) não foram observados os requisitos autorizadores da desconsideração da personalidade jurídica; (4) não foi respeitado o contraditório para a efetivação da medida; (5) inexiste decisão de mérito nos autos do incidente em que resolvida a desconsideração da personalidade jurídica que lhe atingiu; e (6) o acórdão é nulo diante da ausência de sua fundamentação em não enfrentar o argumento da provisoriedade da decisão liminar, não bastando a utilização de fundamentaçãoper relationem.
+O apelo nobre não foi admitido pelo Tribunal Estadual diante da a) ausência dos vícios previstos no art. 489,§1º do NCPC;b) não demonstração da alegada violação dos artigos tidos como malferidos; e c) incidência daSúmula nº 7 desta Corte.
+Nas razões do presente agravo em recurso especial, WELLENGTON reeditou as razões do seu apelo nobre e sustentou que demonstrou a (1) violação detodos os artigos apontados como malferidos; e (2)não incidência da Súmula nº 7 desta Corte diante da desnecessidade de revolvimento do arcabouço fático-probatório carreado aos autos.
+Foi apresentada contraminuta
+É o relatório.
+DECIDO.
+Considerando as razões expostas, para melhor examinar a controvérsia suscitada, DOU PROVIMENTO ao presente agravo, determinando a sua conversão em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. FALÊNCIA. EXTENSÃO DOS EFEITOS DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AGRAVO PROVIDO PARA DETERMINAR A SUA CONVERSÃO EM RECURSO ESPECIAL.
