@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANDRÉ FELIPE BANDEIRA DE MELLO MIRANDAcontra decisão, de minha lavra (e-STJ fls. 252/253), em que reconheci a competência do Juízo Federal da 11ª Vara de São Paulo - SJ/SP, para processar e julgar ação ordinária proposta contra a ISCP - SOCIEDADE EDUCACIONAL LTDA. que objetivaa colação de grau do ora embargante, expedição de diploma e indenização por danos morais.
+Em suas razões, o embargantesustentaque o decisum padece de erro material, ao indicar, entre os suscitados, oJuízo Federal da1ª Vara do Juizado Especial Cível de São Paulo, quando, de fato,o Juízo é o da 11ªVara daqueleJuizado.
+Passo a decidir.
+O art. 1024, § 2º, do CPC/2015 prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termosdo art. 1.022 do mesmo diploma legal, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, conforme aduzido pela parte, observa-se que, de fato, houve erro material na decisão embargada, decorrente do cadastramento equivocado do presente feito, conforme e-STJ fl. 243.
+Ante o exposto, ACOLHO os embargos de declaração para, sem efeitos modificativos, retificar o erro material e reconhecer a competência do Juízo Federal da 11ª Vara do Juizado Especial Cível de São Paulo - 1ª Subseção Judiciária do Estado de São Paulo, para processar e julgar a ação n.Nº 5007127-22.2022.4.03.6301,nos termos da decisão de e-STJ fls. 252/253.
+Publique-se. Intimem-se.
