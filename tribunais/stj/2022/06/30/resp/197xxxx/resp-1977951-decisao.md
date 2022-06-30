@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por TELEFÔNICA BRASIL S/A (INCORPORADORA DA VIVO S.A) com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado (e-STJ, fl. 1215-1216):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO DO JUÍZO DA COMARCA DE CUIABÁ/MT QUE REJEITOU PRELIMINAR DE INCOMPETÊNCIA RELATIVA, INVALIDOU CLÁUSULA DE ELEIÇÃO DO FORO DA COMARCA DO RIO DE JANEIRO/RJ E MANTEVE SUA A COMPETÊNCIA PARA PROCESSAR E JULGAR A AÇÃO - CONTRATO DE REPRESENTAÇÃO COMERCIAL - INVALIDADE DA ELEIÇÃO - ANTE A HIPOSSUFICIÊNCIA DO AUTOR CONFIGURADA E RISCO DE PREJUÍZO À DEFESA DE SEUS INTERESSES, DECORRENTE DA TRAMITAÇÃO DA DEMANDA NO FORO DE ELEIÇÃO - ART. 39, DA LEI Nº. 4.886/65 - DECISÃO MANTIDA - AGRAVO CONHECIDO E DESPROVIDO. No caso em tela, as partes celebraram contrato de representação comercial para promoção e venda, pela parte Agravada, dos produtos comercializados pela Agravante/Ré, no qual, inicialmente elegeram o foro da Comarca de Cuiabá/MT para dirimir os conflitos e, depois, em aditivo ao contrato, elegeram o foro da Comarca de Rio de Janeiro/RJ. A cláusula que estabeleceu como foro eleito tal Comarca mostra-se inválida - independentemente da natureza da avença - porquanto comprovada a hipossuficiência do representante comercial, bem como por prejudicar o seu direito de defesa, em caso de tramitação da demanda no foro contratualmente eleito. Demonstrada a hipossuficiência do representante e o risco de prejuízo à defesa de seus interesses, deve ser reconhecida a invalidade de cláusula de eleição de foro, para a solução de conflitos decorrentes de contrato de representação comercial, prevalecendo a competência prevista no artigo 39 da Lei 4.886/65.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1260-1263).
+Em suas razões recursais (e-STJ, fls. 1270-1300), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional. Alegou, em síntese, que o TJMT não indicou as razões pelas quais entendeu que o foro contratual implicaria em cerceamento do direito de ação; não examinou as circunstâncias de que o processo tramitaria eletronicamente; não se manifestou sobre a circunstância de que o autor contratou advogado e ajuizou a ação fora do próprio domicílio; recusou-se a sanear erro material e omissão sobre (i) a indevida qualificação do autor como "representante comercial"; (ii) a ausência de indicação da prova de inscrição no CORE, requisito para aplicar a Lei nº 4.886/1965 à hipótese; omissão com relação ao pedido eventual de deslocamento do feito para São Paulo, por ser o domicílio da ré/recorrente.
+b) art. 63 do CPC/15, aduzindo que o Tribunal não observou a cláusula de foro prevista no contrato. Alegou que as partes estipularam a Comarca do Rio de Janeiro/RJ como localidade competente para processar o litígio, mas o TJMT se baseou exclusivamente a elementos denotativos de disparidade econômica para anular a cláusula de eleição de foro, sem indicar concretamente como o deslocamento do feito iria cercear o acesso ao Poder Judiciário ao autor.
+Aponta, ainda, divergência jurisprudencial sobre o tema.
+Contrarrazões apresentadas às fls. 1323-1328 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 1332 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O inconformismo merece prosperar no que diz respeito à aventada negativade prestação jurisdicional.
+1. Quanto à ofensa aos artigos 489 e 1022 do Novo Código de Processo Civil, calcada no fato de o Tribunal de origem, não obstante a existência de omissão no acórdão, ter rejeitado os embargos de declaração, razão assiste à recorrente, conforme será exposto.
+Com efeito, a recorrente requereu, em sede de embargos de declaração, que a Corte de origem se pronunciasse sobre as seguintes teses:
+a) Quais seriam as razões pelas quais o Tribunal entendeu que o foro contratual implicaria em cerceamento do direito de ação;
+b) o processo tramitaria eletronicamente;
+c) o autor contratou advogado e ajuizou a ação fora do próprio domicílio;
+d) a jurisprudência do STJ sobre o tema não permitiria invalidar o foro de somente com base na disparidade econômica entre as partes, mas o Tribunal considerou apenas o capital social, as receitas, os balancetes e a concessão da gratuidade judiciária para concluir pela hipossuficiência da recorrida;
+d) oTribunal recusou-se a sanear erro material e omissão sobre (i) a indevida qualificação do autor como "representante comercial" e (ii) a ausência de indicação da prova de inscrição no CORE, requisito para aplicar a Lei nº 4.886/1965 à hipótese;
+e) Subsidiariamente, em caso de nulidade da cláusula de eleição de foro, deveria ter sido acolhido o pedido de deslocamento do feito para São Paulo, por ser o domicílio da ré/recorrente.
+Contudo, da leitura do acórdão que julgou os embargos de declaração opostos pela ora recorrente, verifica-se que, de fato, tal questão suscitada nos aclaratórios não foi devidamente analisada pelo Tribunal de piso.
+Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1.022 do Novo Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Configurada a ocorrência de negativa de prestação jurisdicional, impõe-se o reconhecimento da ofensa ao artigo 489, §1º, IV, do CPC/2015, com anulação do acórdão proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1877486/TO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECLAMO INTERPOSTO PELA PARTE ADVERSA QUANTO À NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Embora o julgador não esteja obrigado a responder um a um dos argumentos sustentados pela parte postulante, ao fundamentar sua decisão, não deve se omitir acerca de pontos essenciais ao bom andamento do processo, sob pena de violar o art. 1022 do CPC/15.
+1.1. Na hipótese, tendo o Tribunal a quo deixado de analisar questão imprescindível ao deslinde da controvérsia, adequada a determinação de retorno dos autos para o saneamento da omissão.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1111044/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2018, DJe 03/09/2018)
+Desta forma, considerando que a referida tese foi posta à apreciação do Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração (fls. 1259-1268, e-STJ) e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+Julgo prejudicadas as demais questões ventiladas no recurso especial.
+Publique-se.
+Intimem-se.
