@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MEDICAL SHOP - PRODUTOS HOSPITALARES LTDA. (MEDICAL SHOP) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJDFT, assim ementado:
+EMBARGOS À EXECUÇÃO. CONTRATO. RENEGOCIAÇÃO. MÚTUO BANCÁRIO. INÉPCIA DA INICIAL. PRECLUSÃO. INOVAÇÃO RECURSAL. VEDAÇÃO. CÓDIGO DE DEFESADO CONSUMIDOR. FOMENTO ATIVIDADE. PESSOAJURÍDICA. INAPLICABILIDADE. CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE COBRANÇA. 10F. RETENÇÃO PELAINSTITUIÇÃO BANCÁRIA. LEGALIDADE.
+1. Está precluso, em sede de apelação, o debate sobre a matéria julgada por meio de decisão interlocutória impugnada por agravo de instrumento cujo acórdão de improvimento já transitou em julgado.
+2. A inclusão de novos argumentos configura inovação recursal, sendo vedado ao Tribunal analisá-los em sede de apelação, porquanto não apreciados na sentença, sob pena de violação aos princípios do contraditório e da ampla defesa, ao se restar caracterizada a supressão de instância.
+3. A aplicação do Código de Defesa do Consumidor às operações de crédito bancário concedido à pessoa jurídica está limitada à hipótese de utilização do valor recebido em situação que não corresponde ao incremento de sua atividade comercial. A renegociação de contrato de crédito anteriormente concedido para fomento da atividade comercial da empresa não altera sua natureza jurídica.
+4. É legal a capitalização mensal dos juros para os contratos celebrados a partir de 31 de março de 2000, data da publicação da MP nº 1.963-17/2000, atualmente reeditada sob o nº 2.170-36/2001, desde que expressamente pactuada de acordo com o entendimento consolidado pelo Superior Tribunal de Justiça por ocasião do julgamento do paradigma REsp n.º 973.827/RS na sistemática dos recursos repetitivos. Considera-se prevista capitalização mensal de juros a partir da divergência entre as taxas de juros anual e o duodécuplo da taxa mensal (Súmula nº541 do STJ).
+5. A comissão de permanência é um fator de reajustamento compensatório que embute correção monetária, juros remuneratórios e compensatórios, revelando-se válida cobrança da aludida comissão somente quando não cumulativa com aqueles encargos (Súmula 296/STJ) e limitando-se à taxa de juros prevista no contrato, desde que não superior à taxa média dos juros de mercado, divulgada pelo BACEN (Súmula294/STJ) e desnecessária a apreciação quando se quer foi prevista no contrato.
+6. É legal o recolhimento de 10F pela instituição financeira que realiza a operação de crédito, a teor do artigo 5º, da Lei nº5143/66.
+7. Recurso parcialmente conhecido e, na parte conhecida, desprovido (e-STJ, fls. 664/665).
+Os embargos de declaração opostos pela MEDICAL SHOP foram parcialmente acolhidos sem efeitos infringentes (e-STJ, fls. 714/726)
+Inconformado, MEDICAL SHOP interpôs recurso especial, com amparo no art. 105, III, a e c, da CF, alegando violação dos arts. 472 e 1.022, incisos I e II, ambos do NCPC e 51, inciso IV, do CDC, sustentando (1) deficiência na prestação jurisdicional e não ter havido a análise do parecer técnico financeiro, o qual demonstraria o excesso de cobrança; e, (2) necessidade de que o contrato seja interpretado à luz da legislação consumerista, uma vez que a operação de crédito não teria sido realizada com o objetivo de incrementar a atividade produtiva da empresa.
+O apelo nobre não foi admitido pelo TJDFT (e-STJ, fls. 761/764).
+Nas razões do presente agravo em recurso especial, MEDICAL SHOP, repisando os argumentos trazidos nas razões do apelo nobre, alegou (1) violação dos arts. 472 e 1.022, incisos I e II, ambos do NCPC e 51, inciso IV, do CDC; e, (2) a inaplicabilidade da Súmula nº 7 do STJ.
+Contraminuta não foi apresentada (e-STJ, fl. 419).
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois MEDICAL SHOP não infirmou devidamente todos os esteios do decisum, na medida em que não refutou de forma arrazoada os óbices da incidência das Súmulas nºs 211 do STJ e 282 do STF.
+Salienta-se, que nas razões de seu agravo interno, repisando os argumentos trazidos nas razões do apelo nobre, MEDICAL SHOP, somente alegou (1) violação dos arts. 472 e 1.022, incisos I e II, ambos do NCPC e 51, inciso IV, do CDC; e, (2) a inaplicabilidade da Súmula nº 7 do STJ.
+Cumpre registrar que, na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência das Súmulas nºs 211 do STJ ou 282 do STF, impõe-se a parte demonstrar que o acórdão recorrido debateu as matérias relativas aos dispositivos violados, havendo o devido prequestionamento, o que não se observa no caso concreto.
+Ressalta-se, por oportuno, que MEDICAL SHOP alegou genericamente, que para sanar vícios opôs os declaratórios, fundados no art. 1022, do NCPC, visando também o prequestionamento das matérias.
+Nesse contexto, o agravo em recurso especial, reitere-se, não infirmou adequadamente o óbice processual apontado na decisão agravada, devendo ser mantido o seu não conhecimento, porque apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973).
+Vejam-se, a propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA Nº 83/STJ.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o óbice da Súmula nº 182 do Superior Tribunal de Justiça.
+2. Inadmitido o recurso especial na origem com base na Súmula nº 83/STJ, incumbe à parte agravante indicar, na petição de agravo em recurso especial, os precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior. Precedentes do STJ.
+3. A incidência da Súmula nº 83/STJ, segundo a qual "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", é aplicável aos recursos interpostos com fundamento em violação de dispositivo legal (art. 105, III, "a", CF/1988).
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 797.056/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/2/2016 - sem destaques no original)
+Nessas condições, NÃO CONHEÇO do agravo.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de MEDICAL SHOP, em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO NÃO CONHECIDO.
