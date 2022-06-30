@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpuscom pedido de liminarinterposto por MILTON COSTANTINO DA SILVA contra acórdão do Tribunal Regional Federal da 4ª Região (HC n. 5014218-27.2022.4.04.0000).
+Orecorrente encontra-se preso preventivamente, desde 23/11/2020, a pedido do Ministério Público Federal(fl. 1.122), denunciado pela prática dos delitos descritos nos arts. 33, c/c o art.40, I, e 35, todos da Lei n. 11.343/2006; e 2º,§§2º, 3º e 4º, II, III, IV e V, todos da Lei n. 12.850/2013.
+O decreto prisional fundou-se na quantidade e nocividade doentorpecenteapreendido- 1.360kg de cocaína -, bem com emvirtude dorecorrente integrar organização criminosa ocupando a função de liderança.
+Impetrado writ originário, a ordem foi denegada.
+Orecorrente aponta que está sendo vítima de constrangimento ilegal, em razão do excesso de prazo na formação da culpa, estando preso há mais de 570 dias e não justificado o decurso do tempo.
+Asseveraausência de contemporaneidade dos fatos, não havendo fatos novos que justifiquem o risco concreto e atual de reiteração delitiva.
+Pontua ser primário, ostentar bons antecedentes, possuir residência fixa e trabalho lícito.
+Afirma ser suficiente a aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva oua sua substituição por medidas cautelares diversas.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático do recurso em habeas corpus antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito do recurso em habeas corpus.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 1.082-1.085):
+Inicialmente, pontuo que os processos não se encontram paralisados aguardando os ofícios das operadoras nos autos da Interceptação Telefônica nº 5000640-61.2018.4.04.7008, e, sim, tramitam regularmente.
+No Habeas Corpus nº 5018425-06.2021.4.04.0000, impetrado por MARCELLO MAGHENZANI, a defesa sustentou que sem os ofícios enviados pelas operadores de telefonia e provedores de internet para verificação da legalidade das interceptações telefônicas, assim como os terminais efetivamente interceptados e os prazos de duração das medidas e de suas prorrogações, haveria quebra da cadeia de custódia. Foi concedida liminar no referido HC.
+Em apreço a liminar, foi proferida decisão no ev. 1097 nos autos da Interceptação determinando a expedição de ofícios às operadoras de telefonia/provedor de internet. Na mesma decisão, foi indeferido o pedido de suspensão das ações penais em trâmite neste Juízo, diante da necessidade de que tramitem de forma célere - dada a existência de réus presos - , bem como pela possibilidade de que oportunamente as partes aditem as defesas eventualmente já apresentadas.
+Ao contrário do que alega a defesa, os autos tramitam regularmente.
+Quanto ao alegado excesso de prazo, a questão foi objeto do Habeas Corpus n. 5052700-78.2021.4.04.000, cuja ordem foi denegada pelo TRF 4ª Região em 10/02/2022, nos seguintes termos:
+(..)
+2. Em relação à alegação de excesso de prazo, é entendimento consolidado no STJ que "somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais"(AgRg no HC 623.740/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Consigno também que o prazo para a realização de atos processuais não pode ser fruto de simples aritmética  ..
+ ..
+Assim, a caracterização do excesso de prazo somente se verifica excepcionalmente, nas hipóteses em que a demora for injustificada, impondo-se a aplicação da razoabilidade na análise da sua eventual ocorrência.
+Nessa mesma linha, o excesso de prazo capaz de justificar a revogação da prisão preventiva, ou a substituição por outras medidas cautelares, decorre da inércia injustificada do poder judiciário, capaz de ser entendida como configuradora de constrangimento ilegal ao preso.
+Na hipótese dos autos, se apurou no bojo da investigação denominada "Operação Enterprise" a existência de uma poderosa organização criminosa voltada para o tráfico de entorpecentes, que, em cerca de dois anos, exportou aproximadamente 45 toneladas de cocaína para a Europa com o embarque da mercadoria por meio dos portos brasileiros, produto esse avaliado em R$ 2.000.000.000,00 (dois bilhões de reais). Os delitos já apurados apontam a participação de diversas pessoas, em múltiplos fatos e frentes de atuação.
+Dessa forma, levando-se em consideração a complexidade da operação, razoáveis as dilações de prazo deferidas no bojo da investigação.
+Como registrado na decisão impugnada, o paciente já foi denunciado em cinco ações penais.
+Embora a defesa sustente que a demora decorre de atos do magistrado condutor do processo, não é o que se verifica da análise dos autos. Ao contrário, ao que parece as ações penais estão transcorrendo adequadamente - levando-se em conta o número de réus e as postulações das defesas.
+Assim, não visualizo a mora injustificada do Poder Judiciário capaz de ocasionar constrangimento ilegal por excesso de prazo.
+Sem embargo disso, e em face de pedido manifestado em plenário pela defesa, entendo que deve ser oficiado ao juízo de origem acerca da necessidade de aceleração da tramitação processual, bem como considerada a necessidade de eventual desmembramento do processo se, eventualmente, existam réus cuja citação ou diligências estejam dificultando o andamento em relação aos réus presos.
+(..)"
+Vale ressaltar que a decisão proferida no ev. 108 dos presentes autos determinou o traslado para os processos em que MILTON COSTANTINO DA SILVA foi denunciado a fim de que seja observada a necessidade de aceleração da tramitação processual.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 12/3/2019).
+Conforme a jurisprudência do STJ, não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessáriaàdecretação, em tempo hábil, de prisão preventiva devidamente fundamentada (HC n. 620.306/SP,relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 27/11/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
