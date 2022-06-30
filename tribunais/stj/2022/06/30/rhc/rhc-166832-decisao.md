@@ -1,0 +1,19 @@
+DECISÃO
+TIAGO MOREIRA DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0801488-02.2022.8.22.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que o paciente foi "preso preventivamente no dia 12/02/2022 na Comarca de Jaru/RO por, em tese, ter praticado o delito disposto no art. 33 da Lei 11.343/06" (fl. 108).
+Asseriu a defesa, perante a Corte de origem, que, "ao contrário do que aponta o juízo, não há fundamentos de que o paciente participe de organização criminosa e, caso seja condenado, fará jus ao benefício do privilégio previsto no § 4º do artigo 33 da Lei n. 11.343/2006,  ..  que não há elementos concretos que justifiquem a manutenção da prisão preventiva, já que, mesmo que existam indícios de autoria e materialidade, não há nenhum risco à ordem pública que possa ser gerado com a liberdade do paciente.  ..  o impetrante argumenta sobre a ausência das hipóteses do art. 312 do Código de Processo Penal no caso em análise" (fls. 108-109).
+Decido.
+No caso vertente, o Juízo singular, ao decretar a prisão preventiva, apontou que "policiais militares avistaram o custodiado desembarcando de um ônibus da empresa Eucatur, em atitude suspeita, levando consigo uma mochila e o abordaram localizando com ele um tablete de maconha com massa total de 1.000g, conforme laudo toxicológico preliminar de n. 0102/22/CCRIM-JAR/POLITEC" (fl. 30, grifei).
+A esse respeito é imperioso ressaltar que, "consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (RHC n. 115.823/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/9/2019, destaquei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, cifrada na apreensão de significativa quantidade de droga (493,9 gramas de maconha), além de uma balança de precisão e um rolo de plástico filme, demonstrando a necessidade da prisão para a garantia da ordem pública.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Ordem denegada (HC n. 454.511/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 14/8/2018, grifei).
+ ..
+2. O Magistrado de primeiro grau expôs os motivos pelos quais a prisão preventiva seria necessária, ao destacar a elevada quantidade de droga apreendida em poder do acusado - 377 g de maconha -, além dos petrechos utilizados para a comercialização. Tais elementos, nos termos da jurisprudência desta Corte Superior, são indicativos da dedicação habitual ao comércio ilegal de entorpecentes e, por isso mesmo, constituem motivação idônea a justificar a custódia provisória do indiciado.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido (RHC n. 99.826/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/8/2018, destaquei).
+Ademais, " m ostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC n. 714.681/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 2/5/2022).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
