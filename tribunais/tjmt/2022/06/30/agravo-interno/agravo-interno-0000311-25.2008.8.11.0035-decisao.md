@@ -1,0 +1,23 @@
+Visto etc.,
+O autor/apelante pleiteia, nesta instância recursal, a concessão da justiça gratuita, sob o argumento de que não possui condições financeiras de arcar com as custas processuais e o preparo deste recurso.
+Sendo isto o que basta relatar, sigo aos fundamentos e, ao final, decido.
+Para a concessão da benesse da justiça gratuita, basta, em um primeiro momento, a exibição da declaração de hipossuficiência pela parte; contudo, a sua presunção é relativa, podendo, no caso concreto, o julgador analisar a existência ou não das condições econômicas que a parte alega ter.
+A concessão do benefício não pode ocorrer de forma indiscriminada, sob pena de banalização do instituto, que visa a proteção dos indivíduos que efetivamente demonstrarem situação econômica que não lhes permita arcar com as custas, as despesas processuais e os honorários de advogado, sem o prejuízo do sustento próprio ou da família (CPC/15, art. 98).
+Em casos tais, este Egrégio Tribunal de Justiça assim tem firmado jurisprudência:
+AGRAVO INTERNO – IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA GRATUITA – COMPROVAÇÃO DA NECESSIDADE – MANUTENÇÃO DA CONCESSÃO AO IMPUGNADO – RECURSO DESPROVIDO. O Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recurso. Inteligência do art. 5o, LXXIV, da Constituição Federal. Cabe ao julgador examinar a razoabilidade da concessão da gratuidade da justiça, considerando para tanto os elementos que evidenciam a condição de necessidade do beneficiário. (AgR 23790/2017, DES. CARLOS ALBERTO ALVES DA ROCHA, QUINTA CÂMARA CÍVEL, Julgado em 03/05/2017, Publicado no DJE 08/05/2017).
+O Superior Tribunal de Justiça não destoa desse entendimento:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO PELO JUIZ. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. RECURSO NÃO PROVIDO. 1. A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta presunção relativa, podendo o magistrado investigar a situação do requerente caso entenda que os elementos coligidos aos autos demonstram a capacidade de custeio das despesas processuais. [...]. (Agrg No Aresp 432.961/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, Julgado Em 03/04/2014, Dje 15/04/2014).
+No caso, intimado para comprovar o preenchimento dos pressupostos legais para a concessão de gratuidade da justiça, o apelante peticionou aos autos informando que vem enfrentando problemas de saúde, situação que o onera muito, pois além do tratamento médico é altamente custoso.
+Defende que é um ex-agricultor, que simplesmente quebrou e parou de plantar justamente em razão do produto ineficaz comercializado e fabricado pelas apeladas.
+A fim de comprovar as suas alegações colacionou extratos bancários e uma carteira de identificação de CDI (ID 132656678).
+Ocorre que, embora afirme que seu tratamento médico é muito caro, não demonstra que o mesmo tem sido realizado de forma particular, de modo a comprometer a sua renda.
+Ademais, nenhum dos documentos apresentados pelo apelante indica o seu patrimônio atual, tampouco que ele não é mais agricultor, o que poderia ter sido feito, por exemplo, com a juntada da sua Declaração de Imposto de Renda.
+Assim, pelo o que dos autos consta o apelante possui condição financeira incompatível com a situação de hipossuficiência albergada pela gratuidade processual, circunstância que conduz ao indeferimento do pedido.
+A propósito:
+AGRAVO INTERNO – AGRAVO DE INSTRUMENTO - DECISÃO QUE INDEFERIU A ASSISTÊNCIA JUDICIÁRIA GRATUITA – INSUFICIÊNCIA FINANCEIRA NÃO COMPROVADA – TESE DE INSUFICIÊNCIA FINANCEIRA – REDISCUSSÃO MATÉRIA – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+Como é cediço, o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recurso. Inteligência do art. 5.o, LXXIV, da Constituição Federal.
+Ao examinar os documentos juntados aos autos é possível concluir pela inaptidão dos Agravantes ao benefício da gratuidade da justiça, tendo em vista a inexistência de hipossuficiência financeira.
+Se a parte não traz argumentos novos capazes de convencer o julgador da necessidade de reforma da decisão que desproveu o Instrumental, impõe-se a sua manutenção. (TJMT - N.U 1000909-76.2022.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, CLARICE CLAUDINO DA SILVA, Segunda Câmara de Direito Privado, Julgado em 22/06/2022, Publicado no DJE 23/06/2022).
+Pelo exposto, INDEFIRO o pedido de justiça gratuita formulado e determino o recolhimento do preparo no prazo de 05 (cinco) dias, sob pena de não conhecimento do recurso.
+Publique-se. Intime-se.
+Cumpra-se.
