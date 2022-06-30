@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ANTONIO GUERRA DE OLIVEIRA FILHO contra acórdão denegatório proferido pelo Tribunal de Justiça do Estado do Ceará noHabeas Corpus n.0638037-10.2020.8.06.0000.
+Consta dos autos que,em13/11/2018, o Juízo da Vara de Delitos de OrganizaçõesCriminosas da Comarcade Fortalezarecebeu denúncia que imputa ao Paciente aprática dos delitos previstos nos arts. 33 e 35 da Lei n.11.343/2006; nos arts. 14 e 16 da Lei n.10.826/2003 e no art. 2.º, §§ 2.º, 3.º e 4.º, inciso I, da Lei n.12.850/2013. Nesta mesma data, foi decretada a sua prisão preventiva(fls. 120-129).
+Irresignada, a Defesa impetrouhabeas corpusno Tribunal de origem, cuja ordem foi denegada (fls. 132-138).
+Nas razões desta impetração, sustenta-se, inicialmente, que há ilegalidade por inobservância do art. 316 do Código de Processo Penal, pois "já se passaram mais de 90 dias, mesmo assim, não foi revista de ofício pela autoridade coatora a necessidade de manutenção da segregação preventiva, conforme determina referido artigo" (fl. 8).
+Alega-se, ainda, que há excesso de prazo na prisão,pois "desde Dezembro de 2019 a instrução criminal já foi finalizada, já tendo o paciente apresentado seus memoriais" (fl. 6).
+Sustenta-se, por fim, que deve ser concedida a prisão domiciliar ao Paciente, pois ele "é o paieresponsável exclusivopor seu filho menor de 12 anos" (fl. 6).
+Pleiteia-se, liminarmente e no mérito, a revogação da prisão preventiva ou a concessão da prisão domiciliar ao Paciente.
+O pedido liminar foi indeferido às fls. 142-144.
+Foram prestadas informações às fls. 152-155.
+O Ministério Público Federal manifestou-se às fls. 157-163, opinando pelo não conhecimento dohabeas corpus.
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, constatei que foi proferida sentença em 05/11/2021, na qual o Juízo de de primeira instância condenou o Paciente como incurso"no art. 2º, §§ 2º, 3º e 4º, I, da Lei 12.850/2013, no art. 33 c/c art. 40, VI, VII, da Lei 11.343/06 e nos arts. 14 e 16 da Lei 10.826/03", às penas de "22 (vinte e dois) anos, 11 (onze) meses e 44 (quarenta e quatro)dias de reclusão e o pagamento de 903 (setecentos e noventa e seis) dias-multa", em regime inicial fechado, tendo sido negado o direito de recorrer em liberdade.
+Constata-se, portanto, a perda de objeto da presente insurgência, no ponto em que buscava o reconhecimento do excesso de prazo para a formação da culpa, bem como quanto à ausência de revisão da prisão.
+No que se refere ao pleito de substituição da prisão preventiva por domiciliar em razão de o Paciente ter filhocom menos de 12 anos de idade, não prospera a pretensão defensiva.
+Embora todo pai seja indispensável à criação de seus filhos, o benefício previsto no art. 318, inciso VI, do Código de Processo Penal, não possui aplicação automática, sendo necessário que o homem comprove ser o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+No caso, destacou a Corte de origem a "ausência de comprovação de qualquer elemento apto a refletir, estreme de dúvidas, ser ele efetivamente provedor e único responsável pela criança, tendo apenas comprovado a paternidade na certidão de nascimento" (fl. 137), não sendo possível a alteração da conclusão na presente via.
+Nesse sentido:
+" ..
+4."Embora todo pai seja indispensávelà criação de seus filhos, o benefício previsto no art. 318, inciso IV, do CPP não possuiu aplicação automática,sendo necessário que o homem comprove ser o único responsável pelos cuidados do filho de até12 (doze) anos de idade incompletos, o que não restou evidenciado, conforme consignou o acórdão recorrido"(HC n. 492.141/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/4/2019, DJe 30/4/2019).
+5. Ordem denegada."(HC 440.557/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/02/2020, DJe 10/02/2020; sem grifos no original.)
+"HABEAS CORPUSSUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. NEGATIVA DE AUTORIA E NULIDADES NO FLAGRANTE. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. REVOGAÇÃO DA PRISÃO CAUTELAR. AUSÊNCIA DO ACÓRDÃO QUE ANALISOU A PRESENÇA DOS REQUISITOS PARA A MANUTENÇÃO DA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE CARACTERIZADA. PRISÃO DOMICILIAR. IMPOSSIBILIDADE.AUSÊNCIA DE COMPROVAÇÃO DE IMPRESCINDIBILIDADE E DE QUE O PAI É O ÚNICO RESPONSÁVEL PELOS CUIDADOS COM AS CRIANÇAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.HABEAS CORPUSNÃO CONHECIDO.
+ ..
+4.Interpretando o art. 318, VI, do Código de Processo Penal- CPP, inserido ao diploma legal com o advento da Lei n. 13.257/20016, esta Corte Superior firmou entendimento segundo o qual a prisão domiciliar no caso do homem com filho de até 12 anos incompletos, não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise, no caso concreto, da sua adequação.
+5.No caso dos autos, conforme já explicitado, as instânciasordinárias ressaltaram não haver comprovação de que o paciente seria o único responsável pelos cuidados das crianças, nãohavendo falar em prisão domiciliar no caso.
+6.Habeas corpusnão conhecido."(HC 507.189/GO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/09/2019, DJe 19/09/2019; sem grifos no original.)
+Ante o exposto,JULGO PARCIALMENTE PREJUDICADO owrite, no mais, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. CRIMES PREVISTOS NOS ARTS.33 E35 DA LEI N. 11.343/2006, NOS ARTS. 14 E16 DA LEI N. 10.826/2003 E NO ART.2.º, §§ 2.º, 3.º E4.º, INCISO I, DA LEI N. 12.850/2013. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA E DE AUSÊNCIA DE REVISÃO DA PRISÃO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO INTERESSE JURÍDICO.PLEITO DE SUBSTITUIÇÃO DA CUSTÓDIA POR PRISÃO DOMICILIAR EM RAZÃO DA EXISTÊNCIA DE FILHOMENORDE IDADE. REQUISITO NÃO PREENCHIDO.CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DE HABEAS CORPUSPARCIALMENTE PREJUDICADA E, NO MAIS, DENEGADA.
