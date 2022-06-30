@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO BENTO DA SILVA e OUTRA contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. EFEITOS DAREVELIA. INAPLICABILIDADE. LEGITIMIDADE PASSIVA AD CAUSAM DOS EMBARGADOS/EXECUTADOS. EXEQUIBILIDADE DO TÍTULO. CERCEAMENTO DO DIREITO DE DEFESA. INOCORRÊNCIA.
+1. Nos embargos à execução a ausência de impugnação pelo embargado no prazo legal não induz os efeitos da revelia, porquanto compete aos devedores/embargantes a comprovação da ineficácia do título exequendo, no qual encontra-se consubstanciado o direito da parte credora.
+2. Comprovada a novação objetiva, tem-se por legítima a execução promovida com amparo no contrato particular de confissão de dívida, em desfavor dos responsáveis por extinguirem dívida antiga e criar uma nova.
+3. Tendo os embargantes/executados em Instrumento Particular de Transação e de Confissão de Dívida se responsabilizado pelo pagamento da dívida com o exequente, assumindo a condição de devedores, não há dúvida de que possuem legitimidade para figurar no polo passivo da ação de execução.
+4. Não há que se discutir a causa debendi do título, quando pelos documentos acostados nos embargos à execução esta restou comprovada, havendo ainda confissai quanto à da dívida, reconhecendo os embarantes que receberam empréstimos do embargado e que não efetuaram nenhum pagamento, ainda que parcial, do valor disponibilizado.
+5. Ainda que considerada a natureza de título causal das notas promissórias emitidas como pagamento do débito, o instrumento de confissão de dívida lhes dá certeza, eficácia, exigibilidade e liquidez, inclusive quanto ao valor devido pelos executados.
+6. Comprovado que o título objeto da execução preenche os requisitos legais (liquidez, certeza e exigibilidade), sem que se vislumbre qualquer vício de vontade ou irregularidade, há de ser considerado como apto a embasar a ação de execução.
+7. Não implica em cerceamento do direito de defesa o indeferimento pelo magistrado de juntada de demais documentos, quando os constantes nos embargos à execução e a produção da prova oral foram suficientes para a resolução da lide.
+8. Evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada, conforme previsão do artigo 85, § 11, do Código de Processo Civil.
+Apelação cível conhecida e desprovida" (fls. 498-499, e-STJ).
+No recurso especial, osrecorrentes alegam que "(..) os títulos cambiais dados em garantia a contrato de abertura de crédito ou desconto de cheque perdem a sua executividade" (fl. 528, e-STJ).
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que os agravantes deixaramde apontar nas razões recursais de fls. 518-532 (e-STJ) os dispositivos legais supostamente violados pelo tribunal recorrido, o que atrai, por analogia, a incidência da Súmula nº284/STF.
+A propósito:
+"PROCESSO CIVIL. ADMINISTRATIVO. EDUCAÇÃO. REVALIDAÇÃO DE DIPLOMA. RECURSO ESPECIAL INADMITIDO. DEFICIÊNCIA RECURSAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL TIDOS POR VIOLADOS. SÚMULA N. 284 DO STF. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de ação de obrigação de fazer com declaratória de antecipação de tutela, c/c com indenização por danos morais ajuizada contra instituições de ensino superior. A sentença reconheceu a procedência do pedido de revalidação do diploma da autora e a improcedência do pedido de indenização por danos morais, fixando a condenação recíproca em honorários advocatícios no montante de 5% pro rata, do valor da causa, condenando, ainda, a corré UNIG ao pagamento à União de honorários fixados em 5% sobre o valor da causa, ante a oposição de denunciação à lide. No Tribunal a quo, a turma julgadora, por maioria, rejeitou a preliminar de ilegitimidade passiva suscitada pela União e, no mérito, por unanimidade, deu provimento à apelação, para julgar improcedente o pedido de revalidação do diploma da autora.
+II - O agravo interno não merece provimento, não sendo as razões nele aduzidas suficientes para infirmar a decisão recorrida, que deve ser mantida por seus próprios fundamentos.
+III - Mediante análise dos autos, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+IV - Frise-se que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional, especialmente quando, citados diversos dispositivos, não há delimitação precisa daqueles entendidos como violados, não suprindo a deficiência recursal, a pretensão de indicação, com superação do óbice, na peça de agravo interno.
+V - Aplicável, por conseguinte, o enunciado da citada súmula:  É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia .
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.) VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.028.495/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/5/2022, DJe de 26/5/2022-grifou-se).
+Ademais, o dissídio jurisprudencial não restou caracterizado na forma exigida pelo artigo 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, haja vista os recorrentes terem apenas colacionado ementa de acórdão, sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+Esta Corte tem reiteradamente decidido que para comprovação da divergência jurisprudencial não basta a simples transcrição de ementas, devendo ser mencionadas e expostas as circunstâncias que identifiquem ou assemelham os casos confrontados, bem como juntadas cópias integrais dos julgados ou, ainda, indicado o repositório oficial de jurisprudência.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TESE QUE SUSTENTA A VIOLAÇÃO DOS ARTIGOS 507 E 508 DO CPC/2015. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A alteração da conclusão adotada na instância ordinária, com a finalidade de acolher a tese recursal que sustenta a preclusão da alegação de duplicidade levantada pelo agravado, demandaria o necessário revolvimento do conjunto fático-probatório dos autos, o que é vedado por força da Súmula 7/STJ.
+3. O dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.860.123/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/12/2021, DJe 15/12/2021 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
