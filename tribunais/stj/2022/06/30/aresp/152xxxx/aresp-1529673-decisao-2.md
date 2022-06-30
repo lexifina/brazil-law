@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FFA INFRAESTRUTURA E SERVIÇOS LTDA. (FFA INFRAESTRUTURA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Apelação cível. Direito do consumidor. Ação indenizatória. Autor que foi vítima de um acidente, sendo atingido por um fio de propriedade da segunda ré quando se encontrava na garupa de uma motocicleta. Prepostos da demandada que no momento do ocorrido realizavam instalação de rede de serviços, esticando a fiação na rua. Sentença de procedência. lrresignação da segunda demandada. 1. Alegação de nulidade da sentença que se afasta. Perícia técnica desnecessária para o deslinde da causa. Art.370 do CPC/2015. Princípios da livre admissibilidade da prova e do livre convencimento do juiz. Provas documental e oral que são suficientes para elucidar a dinâmica dos fatos. Inexistência de cerceamento ao direito de defesa da segunda ré. 2. Nexo causal entre a conduta da recorrente e os danos sofridos pelo autor que se encontra comprovado. O acidente do qual foi vítima o demandante ocorreu em razão falta de sinalização adequada e eficiente da ré na via pública em que ocorria a instalação de fios. O art. 95, §1º, do CTB, prevê que "a obrigação de sinalizar é do responsável pela execução ou manutenção da obra ou do evento". 3. O caso dos autos envolve defeito de segurança, nos moldes definidos no art.14, §1º, do CDC. Falha na prestação do serviço corretamente reconhecida na sentença. Ausência de excludente de responsabilidade. 4. Dano moral configurado pela quebra da normalidade da vida do autor, do sofrimento físico e abalo psicológico que o acidente lhe causou. Quantum indenizatório que se reduz para melhor se adequar às peculiaridades do caso. 5. Reforma parcial da sentença. 6. DÁ- SE PROVIMENTO PARCIAL AO RECURSO (e-STJ, fl. 727).
+Os embargos de declaração opostos por TELEFÔNICA, FFA INFRAINSTRUTURA e RODRIGO não foram providos.
+Inconformada, FFA INFRAESTRUTURA interpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal, apontando violação dos arts. 944 do CC/02, e85, § 14º, do NCPC, ao sustentar, em síntese, que (1) o quantum fixado a título de compensação por danos morais deveria ser reduzido, pois exorbitante e apto a provocar enriquecimento indevido da parte contrária; e (2) a sucumbência deve ser recíproca.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio de Janeiro porque deserto (e-STJ, fl. 847).
+Nas razões do presente agravo, FFA INFRAESTRUTURA alegou que não incide o óbice apontado na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 980/989).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da deserção
+O recurso especial não foi admitido pelo Tribunal estadual em virtude da ausência de comprovação do recolhimento do preparo. Ressaltou o Vice-Presidente queEm que pese os argumentos apresentados em sede de aclaratórios, certo é que, regularmente intimada (fls. 842/844) para complementar o recolhimento da GRU, (valor recolhido - R$ 174,23 - fls. 832/833; Valor devido - vide Guia GRU fls. 818/819), a ora embargante, FFA INFRAESTRUTURA E SERVIÇOS LTDA.-EPP, quedou-se inerte, conforme certificado às fls. 845 (e-STJ. fl. 863).
+Intimada a recolher o preparo em dobro (e-STJ, fls. 843), a FFA INFRAESTRUTUA não cumpriu a determinação em momento oportuno.
+Esta Corte Superior possui jurisprudência consolidada no sentido de que, se não comprovado o recolhimento do preparo nos termos do art. 1.007, § 4º, do NCPC no ato de interposição do recurso, será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção. Não suprida a falha no prazo declinado, a deserção é medida que se impõe.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PREPARO. COMPROVANTE ILEGÍVEL. INTIMAÇÃO PARA REGULARIZAÇÃO E COMPROVAÇÃO DO PAGAMENTO. FALTA DE ATENDIMENTO AO DESPACHO. DESERÇÃO DO RECURSO. AGRAVO INTERNO IMPROVIDO.
+1. O Superior Tribunal de Justiça consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 5/10/2017).
+2. Na hipótese, apesar de a agravante ter sido devidamente intimada para sanar o vício constatado pela Presidência desta Corte, quedou-se inerte conforme certidão de fl. 425 (e-STJ), vindo a anexar somente nas razões de agravo interno, comprovante de pagamento ilegível, impossibilitando a verificação da regularidade do preparo, além de não ter recolhido a complementação do preparo em dobro.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1962893/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agravo interno contra decisão da Presidência desta Corte que não conheceu do recurso, em razão de deserção.
+2. Em não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do artigo 1.007, caput e § 4º, do CPC.
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso, intimado para efetuar o recolhimento em dobro e permanecendo inerte, o recorrente deve ter seu recurso inadmitido com fundamento na deserção. Incide, na espécie, o disposto na Súmula 187 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.229.342/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. 16/8/2018, DJe 22/8/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. COMPROVAÇÃO DO PREPARO QUE DEVE SER FEITA NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, DO NCPC. NÃO CUMPRIMENTO. GRATUIDADE DA JUSTIÇA NÃO COMPROVADA. INCIDÊNCIA DA SÚMULA 187/STJ. DECISÃO MANTIDA.
+ ..
+2. "Não demonstrado o recolhimento do preparo no ato de interposição do recurso e intimado para efetuar o recolhimento em dobro, se a parte recorrente não o comprova, o recurso especial não deve ser admitido em virtude da sua deserção" (AgInt nos EDcl no AREsp 1432212/PE, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 27/11/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.545.172/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 1º/6/2020, DJe 5/10/2020)
+Nessas condições, CONHEÇOdo agravo para NÃOCONHECERdo recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇO. RECURSO ESPECIAL. CUSTAS. INTIMAÇÃO. DESCUMPRIMENTO. DESERÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
