@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto porNathalia Weber Demôro, com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 476):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. COMPRA DE PRODUTO. AUSÊNCIA DE ENTREGA DE MERCADORIAS. FABRICANTE. ILEGITIMIDADE PASSIVA. DANO MORAL. QUANTUM INDENIZATORIO. SENTENÇA MANTIDA. Em situações de ausência de entrega de produto comprados pelo revendedor para fins de comércio, o fabricante das mercadorias não é parte legítima para responder perante o comprador. Precedentes desta Corte. Por conseguinte, no ponto, deve ser desprovido o presente recurso. De outra banda, o quantum compensatório deve ser suficiente à compensação pelo ilícito, proporcional à gravidade da conduta e levar em conta a situação econômico-financeira do ofensor. No caso, deve o valor arbitrado pelo juízo a quo ser mantido, já que se revela de acordo com o parâmetro utilizado pela Câmara em casos análogos. Honorários advocatícios majorados, por força do art. 85, § 11, do Código de Processo Civil. Apelação cível desprovida. Unânime.
+Nas razões recursais, a recorrente alega dissídio jurisprudencial e ofensa aoart. 34 do CDC.
+Arguia legitimidade passiva daFábrica Kavo do Brasil Indústria e Comércio Ltda. para responder civilmente pelos danos sofridos pela ausência de entrega dosequipamentos adquiridos. Sustenta a responsabilidade solidária do fornecedor do produto pelos danos causados ao consumidor.
+Foram apresentadas contrarrazões pelaFábrica Kavo do Brasil Indústria e Comércio Ltda. às fls. 547-552 (e-STJ).
+Juízo de admissibilidade positivo (e-STJ, fls. 557-562).
+Brevemente relatado, decido.
+No que se refere à responsabilidade solidária, o Tribunal estadual deixou assente que (e-STJ, fls. 480-483):
+No que pertine à responsabilidade pela reparação dos danos sofridos pela parte autora, importante ressaltar que tal reponsabilidade independe de parceria comercial entre as empresas rés. Na hipótese, a questão a ser analisada é envolve o responsável direto, com culpa ou dolo, pela falha na prestação do serviço (falta de entrega dos produtos adquiridos).
+(..)
+No caso em tela, verifica-se que a empresa KV EQUIPO/MARCO ANTONIO SIMANKE E SILVA, na qualidade de revendedora de produtos, adquiria as mercadorias junto à fabricante FÁBRICA KAVO DO BRASIL IND. E COM. LTDA (além de outras empresas) e, posteriormente, as revendia para seus clientes.
+Assim, tendo em vista que a falha na prestação de serviço questionada nos autos se deu por ausência de entrega dos produtos comprados pela consumidora demandante, e não por defeitos no momento da fabricação dos equipamentos, tem-se que a única responsável por reparar os danos sofridos pela demandante é a ré KV EQUIPO/MARCO ANTONIO SIMANKE E SILVA, parte legítima para responder perante a compradora.
+Nessas condições, e tendo em vista que a fábrica demandada não é parte legítima para reparar os danos sofridos pela compradora em situações de ausência de entrega de mercadorias por parte da revendedora, deve sermantida, no ponto, a sentença proferida pelo juiz de origem.
+Nesse contexto, para se alterar a conclusão do Tribunal local no sentido da ilegitimidade passiva da Fábrica Kavo do BrasilIndústria e Comércio Ltda., seria necessário o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido (guardadas as peculiaridades de cada caso):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR PERDAS E DANOS.LEGITIMIDADE PASSIVACONFIGURADA. TEORIA DA ASSERÇÃO. OBRIGAÇÃO CONTRATUAL RECONHECIDA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+2. A teoria da asserção impõe que as condições da ação, entre elas alegitimidade passiva,sejam aferidas mediante análise das alegações delineadas na petição inicial. Precedentes.
+3. O Tribunal de origem, mediante análise do contrato firmado entre as partes, concluiu pelalegitimidade passivae responsabilidade da agravante pelo pagamento dos valores pleiteados na presente demanda.
+No caso, a modificação de tal entendimento é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2003195/GO. Relator Ministro Raul Araújo, Quarta Turma, DJe 24/5/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. CAIXA ECONÔMICA FEDERAL. OMISSÃO DA CORTE DE ORIGEM. NÃO DEMONSTRAÇÃO.LEGITIMIDADE PASSIVA.SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A via estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF.
+2. Prevalece nessa Corte Superior que "alegitimidade passivada CAIXA não deve decorrer da mera circunstância de haver financiado a obra nem de se tratar de mútuo contraído no âmbito do SFH, mas do fato de ter provido o empreendimento, elaborado o projeto com todas as especificações, escolhido a construtora e negociado diretamente em programa de habitação popular" (AgInt no REsp n. 1.526.130/SC, Relator Ministro Moura Ribeiro, Terceira Turma, Data do Julgamento 16/5/2017, DJe 29/5/2017).
+3. A reforma do julgado, neste aspecto, no sentido de reconhecer alegitimidade passivada Caixa Econômica Federal, demanda inegável necessidade de incursão na seara fático-probatória dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.793.776/RS. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 19/5/2022).
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários devidos ao advogado da parterecorrida Kavo do Brasil Indústrias e Comércio Ltda.em R$ 500,00 (quinhentosreais), observada a gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS C/C INDENIZAÇÃO POR DANOS MORAIS.1. COMPRA DE EQUIPAMENTOS PARA CONSULTÓRIO ODONTOLÓGICO. PAGAMENTO EFETUADO A REVENDEDOR. ENTREGA DAS MERCADORIAS NÃO REALIZADA. ILEGITIMIDADE PASSIVA DA FABRICANTE DECLARADA PELO ACÓRDÃO RECORRIDO. ALTERAÇÃO DESSA CONCLUSÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.2. RECURSO ESPECIAL NÃO CONHECIDO.
