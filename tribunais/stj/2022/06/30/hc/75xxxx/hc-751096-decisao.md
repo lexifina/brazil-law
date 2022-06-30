@@ -1,0 +1,11 @@
+DECISÃO
+GRACIANE DE OLIVEIRA AMARALalega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrante pretende a revogação da decisão de origem que homologou falta disciplinar de natureza grave cometido pela paciente e determinou sua regressão ao regime fechado. Aponta a desproporcionalidade da regressão de regime.
+Decido.
+Ab initio, convém assinalar o habeas corpus é instrumento para tutela de direito de locomoção ameaçado ou violado por ato de autoridade. Em seu bojo, só é possível verificar o direito líquido e certo alegado pela parte quando o fato que lastreia a pretensão está demonstrado por prova inequívoca e pré-constituída.
+No caso, não há patente ilegalidade ou desproporcionalidade na regressão de regime, que somente pode ser aplicada pela autoridade judiciária, motivo pelo qual o PAD é encaminhado à homologação do Juiz da VEC após a sua conclusão.
+O art. 118, inciso I, da Lei de Execução Penal estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave. No caso, areeducandafugiu quando beneficiada com saída temporária e permaneceu foragida por quase sete anos.
+A decisão do Juiz da VEC está conforme o art. 118, I, da LEP e o entendimento desta Corte Superior, "de que o cometimento de falta grave pelo apenado (a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; (b) autoriza a regressão de regime e (c) a revogação de até 1/3 dos dias remidos (art. 127 da LEP)" (AgRg no HC n. 732.365/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022.)
+A teor da Súmula n. 534 do STJ e a tese jurídica firmada pela Terceira Seção, por meio de recurso especial repetitivo, in verbis:  ..  A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo  ..  (REsp n. 1.364.192/RS, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 17/9/2014).
+À vista do exposto, denego o habeas corpus,in limine.
+Publique-se e intimem-se.
