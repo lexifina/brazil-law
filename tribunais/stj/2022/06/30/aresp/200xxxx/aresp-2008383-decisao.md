@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IVANILDO FRANCISCO DOS SANTOS contra decisão que inadmitiu recurso especial com fundamento naSúmulan. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado(fl. 237):
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. CRIMES DE PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO  DISPARO DE ARMA DE FOGO E AMEAÇA. PRETENSÃO DE ABSOLVIÇÃO DOS DOIS ÚLTIMOS. ARGUMENTO DE INSUFICIÊNCIA DE PROVAS. NÃO ACOLHIMENTO. PROVAS HÁBEIS NOS AUTOS A EMBASAR O ÉDITO CONDENATÓRIO. PRINCÍPIO DA CONSUNÇÃO. INACOLHIMENTO. CONTEXTOS FÁTICOS DISTINTOS. SEGUNDA FASE DA DOSIMETRIA. IMPOSSIBILIDADE DE ATENUAÇÃO DA PENA ABAIXO DO MÍNIMO. SÚMULA 231 DO STJ. PRECEDENTES OBRIGATÓRIOS. TEMA 158 DO STF. TEMA 190 DO STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. GRAVE AMEAÇA À PESSOA. SUSPENSÃO CONDICIONAL DA PENA. INAPLICABILIDADE. PENA SUPERIOR A DOIS ANOS. PRETENSÃO DE DISPENSA AO PAGAMENTO DAS CUSTAS PROCESSUAIS. NÃO ACOLHIMENTO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. RECURSO CONHECIDO E NEGADO PROVIMENTO. UNÂNIME.
+Nas razões do recurso especial, se aponta violação dos arts. 65, III, d, do Código Penal, defendendo o não cabimento da aplicação da Súmula n. 231 do STJ, pois a existência de circunstância atenuante da confissão sempre reduz a pena.
+O Ministério Público Federal opina pelo não conhecimento do recurso.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem assim decidiu(fl. 242):
+31  No que tange ao pleito de aplicação da pena intermediária aquém do mínimo legal, ante a incidência da atenuante da confissão espontânea  quanto ao crime de porte ilegal de arma de fogo, melhor sorte não assiste ao recorrente, diante da impossibilidade de reduzir a reprimenda abaixo do mínimo, seguindo o entendimento firmado no enunciado nº 231 da Súmula do STJ.
+32  Na visão do recorrente, tal entendimento desrespeita o art. 65 do Código Penal e o principio constitucional da individualização da pena. Entretanto, o posicionamento pacificado na referida súmula foi reafirmado por julgamentos do Superior Tribunal de Justiça e do Supremo Tribunal Federal, sob a sistemática dos Precedentes Obrigatórios, fixando-se teses nos seguintes sentidos:
+Tema 158 do STF: Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.
+Tema 190 do STJ: O critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal.
+33 -Posto isso, não merece qualquer retoque a dosimetria da pena arbitrada pelo magistrado de primeiro grau.
+O entendimento do Tribunal de origem encontra amparo na jurisprudência doSuperior Tribunal de Justiçade que, na análise dascircunstâncias atenuantes, não pode haver atransposição dos limites mínimosabstratamente cominados, conforme o disposto na Súmula n. 231 do STJ.Incide na espécie a Súmula n. 83 do STJ, aplicável a ambas as alíneas do dispositivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. RECURSO TEMPESTIVO. ATENUAÇÃO DA PENA AQUÉM NO MÍNIMO LEGAL. INVIÁVEL. SÚMULA 231 DO STJ. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83 DO STJ. AGRAVO IMPROVIDO.
+1. O recurso especial é tempestivo, porque, no período de 20/12/2019 a 6/1/2020, os prazos processuais foram suspensos pelo recesso forense.
+2 Esta Corte Superior tem entendimento sumulado, segundo o qual, "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal" (Súmula 231/STJ).
+3. Agravo regimental improvido. (AgRg no REsp n. 1.886.453/MS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 10/12/2020.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CONFISSÃO ESPONTÂNEA. SÚMULAS 83 E 231 DO STJ. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. ALTERAÇÃO DO ENTENDIMENTO. NECESSÁRIO REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A pretensão recursal de reduzir a pena-base para aquém do mínimo legal, na segunda fase da dosimetria, encontra óbice no comando da Súmula 231/STJ: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+2. Incide à presente hipótese a Súmula 83/STJ, in verbis: "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Frise-se que "esse óbice também se aplica ao recurso especial interposto com fulcro na alínea a do permissivo constitucional" (AgRg no AREsp 475.096/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/08/2016, DJe 19/08/2016).
+3. Na hipótese dos autos, observa-se que, na esteira da jurisprudência desta Corte, o Tribunal de origem concluiu, motivadamente, pela dedicação do recorrente ao tráfico ilícito de entorpecentes levando em conta a expressiva quantidade de droga apreendida. Assim, a modificação desse entendimento - para acolher a pretensão de que ele não se dedica à atividade criminosa - exige o revolvimento do conteúdo fático-probatório, inadmissível em recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido. (AgRg no AREsp n. 1.367.431/DF, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/12/2018.)
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
