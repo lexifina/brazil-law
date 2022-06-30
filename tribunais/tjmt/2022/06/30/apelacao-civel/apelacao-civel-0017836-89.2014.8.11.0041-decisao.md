@@ -1,0 +1,84 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial e Extraordinário n. 0017836-89.2014.8.11.0041
+Recorrentes:
+VOLKSWAGEN DO BRASIL INDUSTRIA DE VEICULOS AUTOMOTORES LTDA e OUTROS
+Recorrido:
+ESTADO DE MATO GROSSO
+Vistos.
+Do Recurso Especial n. 0017836-89.2014.8.11.0041
+Trata-se de recurso especial interposto por VOLKSWAGEN DO BRASIL INDUSTRIA DE VEICULOS AUTOMOTORES LTDA e OUTROS, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara De Direito Público e Coletivo, assim ementado (id. 84526463):
+APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – REGIME ADMINISTRATIVO CAUTELAR (RESOLUÇÃO No 007/2008 – SARP) – LEGALIDADE DA EXIGÊNCIA DO RECOLHIMENTO ANTECIPADO DO ICMS DO CONTRIBUINTE INADIMPLENTE – INCLUSÃO AUTOMÁTICA – PREVISÃO LEGAL – AUSÊNCIA DE ILEGALIDADE – RECURSO DESPROVIDO.
+Inexiste ilegalidade na apreensão que visa cessar infração material instantânea de efeitos permanentes e impedir circulação de mercadoria sem o pagamento do ICMS devido.
+Não há qualquer ilegalidade na inclusão do contribuinte em débito com o fisco, no regime diferenciado cautelar instituído pelo RICMS e Resolução no 007/2008/SARP/SEFAZ, haja vista que aludido regime é apenas uma forma de recolhimento do tributo, exigida de todos os contribuintes que se encontram nas mesmas hipóteses previstas na lei e no regulamento.
+Recurso Desprovido.
+(TJMT – Segunda Câmara de Direito Público – n. 0017836-89.2014.8.11.0041, Relator(a): DR. YALE SABO MENDES, j. em 19/04/2021).
+A parte recorrente opôs embargos de declaração que foram rejeitados (id. 110883977).
+Como causa de pedir recursal, sustenta a parte recorrente violação aos artigos 489, § 1o, e 1.022, II, do CPC, ao argumento que:
+a) omissa com relação ao desvio de finalidade da Resolução SEFAZ-MT no 07/08 e dos arts. 444 e 445 do RICMS/ST, dando ensejo a uma afronta direta ao princípio da legalidade e aos arts. 17-H e 17-I da Lei Estadual no 7.098/98, arts. 4o e 25 da Lei Estadual no 7.692/02, bem como ao arts. 5o, inciso II, e 37 da Constituição Federal;
+b) omissão com relação à necessidade de se observar o princípio da ampla defesa, na medida em que o simples “inadimplemento” do contribuinte com relação aos débitos inseridos no sistema conta corrente já gera a automática inclusão no regime administrativo cautelar, sem qualquer observância do devido processo legal, o que afronta diametralmente o art. 5o, inciso LV, da Constituição Federal.
+c) omissão com relação à necessidade de se observar o princípio da reserva legal, pois os atos foram promovidos por meio de delegação total e irrestrita de matéria que, obrigatoriamente, está sujeita à reserva legal, o que afronta aos arts. 17-H e 17-I da Lei Estadual no 7.098/98, ao art. 97, inciso V, do Código Tributário Nacional (CTN), bem como art. 146-A da Constituição Federal;
+d) omissão com relação à necessidade de se observar os princípios da boa-fé e segurança jurídica, tendo em vista que em razão dos supostos débitos alocados na conta corrente fiscal do contribuinte, as Recorrentes estão sendo acusadas, por uma presunção, de devedoras contumaz, de modo que os débitos são eternizados nos sistemas fazendários apenas para viabilizar a aplicação do regime cautelar administrativo;
+e) omissão com relação à necessidade de se observar os arts. 5o, inciso XIII, e art. 170, ambos da Constituição Federal, arts. 1o, 2o, 3o e 4o da Lei no 13.874/2019 (Institui a Declaração de Direitos de Liberdade Econômica), bem como à jurisprudência consolidada do E. Supremo Tribunal Federal (STF), materializada nas Súmulas 70, 323 e 547 de referido Tribunal Supremo, em razão da apreensão das mercadorias mediante a lavratura dos TADs como meio coercitivo para forçar a Embargante a pagar o tributo supostamente devido, impedindo a empresa de realizar plenamente sua atividade empresarial.
+Sustenta, ainda, desvio de finalidade da resolução SEFAZ no 07/08 e da violação aos artigos 444 e 445 do RICMS/MT e artigos 17-h e 17-i da lei estadual no 7.098/98.
+Recurso tempestivo (id. 115179470) e preparado (id. 115315455).
+Contrarrazões no id. 120900006.
+É o relatório.
+Decido.
+Da suposta violação dos artigos 1.022 e 489 do CPC
+A partir da suposta violação aos artigos 489 e 1.022, I e II, e parágrafo único, todos do CPC, a parte recorrente alega que o acórdão recorrido é omisso, porquanto a decisão não analisou todos os pontos suscitados.
+Entretanto, observa-se que o acórdão, no voto condutor, constou as razões pela qual reconheceu a legalidade da cobrança e apreensão, ou seja, enfrentou a controvérsia central dos autos, conforme trecho transcrito a seguir (id. 113684495):
+Entende-se como direito líquido e certo aquele que não demanda de produção de provas, ou seja, no momento da propositura da ação já pode ser provado de plano.
+In casu, apelante alega abuso de autoridade do Fisco na inclusão automática do contribuinte no Regime Administrativo Cautelar nos termos da Resolução 007/2008 da SEFAZ/MT, em como dos art. 444 e 445 do Regulamento do ICMS/MT, bem como a ilegalidade e a inconstitucionalidade da referida resolução.
+No entanto, observa-se dos autos que a apelante é devedora contumaz, conforme os Termos de Apreensão e Depósito juntados nos autos, e justamente por isso foi corretamente inserida sob o regime especial de recolhimento de ICMS, determinado nos artigos 1o, 2o e 3o, da Resolução no 007/2008-SARP.
+Evidente que o regime administrativo cautelar é uma forma de impedir que devedores continuem esquivando-se do pagamento do ICMS Garantido Integral, que no caso corresponde somente ao diferencial de alíquota, antes de entrar com bens e/ou mercadorias no Estado de Mato Grosso sem o comprovante do recolhimento deste tributo, vejamos:
+(...)
+Portanto, não há que se falar em inconstitucionalidade dos artigos 444 e 445 do RICMS/MT e artigos 1o, 2o e 3o da Resolução 007/2008/SARP/SEFAZ-MT, haja vista que a inclusão do contribuinte em regime especial se dá pelo não recolhimento do ICMS nos termos legais da legislação matogrossense, o que caracteriza infração material de caráter permanente, passível de autuação pela administração pública estadual.
+Partindo dessas premissas, nota-se que não há omissão ou contradição no acórdão, razão pela qual, na verdade, o que se pretende é a rediscussão do mérito, e os aclaratórios não constituem a via adequada para tal mister.
+Diante desse quadro, não há evidência de violação aos artigos 489 e 1.022, I e II, e parágrafo único, todos do CPC, o que conduz à inadmissão do recurso.
+Violação de direito local (Súmula 280 do STF)
+Com efeito, pode-se afirmar que um dos pontos ventilado no recurso especial tem como finalidade impugnar decisão que viola ou nega vigência a lei federal infraconstitucional, que julga válido a lei local contestado em face de lei federal e quando houver divergência de interpretação da lei federal.
+Logo, não é cabível recurso especial contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. IPTU. LEGITIMIDADE ATIVA. RAZÕES RECURSAIS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. 1. Inexistente a alegada violação do Art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da análise do acórdão recorrido, que rejeitou a preliminar de ilegitimidade ativa e estendeu a declaração de inexigibilidade parcial do IPTU, nos moldes do Art. 7o da Lei Municipal n. 3.895/2005, aos exercícios de 2006, 2007 e 2008. 2. Constatada a dissociação entre as razões do recurso especial e do acórdão recorrido, o conhecimento do recurso especial, neste aspecto, encontra óbice nas Súmulas 283 e 284 do Supremo Tribunal Federal. 3. O exame da controvérsia demanda interpretação da Lei Municipal n. 3.895/2005, o que é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual “Por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental improvido. (STJ AgRg no AREsp 622209/RJ, Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/02/2015)
+No caso, embora a parte recorrente sustente a violação aos artigos 444 e 445 do RICMS/MT e artigos 17-h e 17-i da lei estadual no 7.098/98.
+Portanto, a revisão do julgado impugnado, por depender de enfrentamento, de forma direta, de lei local, o que excede os requisitos para cabimento do recurso especial e, por consequência, impede a sua admissão.
+Recurso Extraordinário n. 0017836-89.2014.8.11.0041
+Trata-se de recurso extraordinário interposto pelo VOLKSWAGEN DO BRASIL INDUSTRIA DE VEICULOS AUTOMOTORES LTDA e OUTROS, com fundamento no art. 102, III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara De Direito Público e Coletivo, assim ementado (id. 84526463):
+RECURSO DE APELAÇÃO – EMBARGOS À EXECUÇÃO FISCAL – ALEGAÇÃO DE DECADÊNCIA – NÃO CONFIGURADA – PRESCRIÇÃO RECONHECIDA DE OFÍCIO – MULTA CONFISCATÓRIA NÃO COMPROVADA – SUBSTITUIÇÃO DE PENHORA – IMPOSSIBILIDADE DE PEDIDO NOVO – REEMBOLSO DE HONORÁRIOS CONTRATUAIS – AUSÊNCIA DE PREVISÃO LEGAL - INVIABILIDADE À LUZ DA JURISPRUDÊNCIA DO STJ – MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS – DESNECESIDADE - VALOR JUSTO E RAZÓAVEL AO TRABALHO EXERCIDO PELO CAUSÍDICO. RECURSO DE APELAÇÃO DESPROVIDO. 1. No presente caso, considerando a data dos fatos geradores e a data da constituição definitiva do crédito tributário, constata-se a inocorrência da decadência tributária, uma vez que a constituição definitiva do crédito ocorreu dentro do lapso temporal de 05 (cinco) anos, em consonância com o previsto no art. 173, inciso I, do CTN. 2. Não obstante, é um saber público e notório, que a prescrição pode ser reconhecida de ofício, a qualquer tempo. Verifica-se de maneira inequívoca, a parcial prescrição da exigibilidade do crédito tributário, tão somente quanto o fato gerador ocorrido em 02/2011, que teve a sua Constituição Definitiva em 21/03/2011, pois analisando a Ação de Execução Fiscal, se observa que o ajuizamento ocorreu em 20/02/2019, tendo sido proferido despacho citatório em 05/11/2019. Ou seja, após o transcurso do prazo prescricional. 3. Consoante ao disposto no art. 1.014 do CPC/2015, as questões de fato não propostas no juízo inferior somente poderão ser suscitadas na apelação, caso a parte Apelante comprove que deixou de formular o motivo por motivo de força maior. Inobstante, o pedido formulado pela parte Apelante em Primeira Instância, foi a desconstituição da penhora, tão somente do veículo de menor valor pecuniário, sendo que tal pedido foi deferido pelo Juízo a Quo. Assim, tem-se que o pedido de desconstituição de penhora do veículo de maior valor e manutenção da penhora do veículo de valor inferior, se trata de pedido novo. 4. O STJ (Superior Tribunal de Justiça), já elucidou o tema, expondo o seu entendimento de que “A contratação de advogado para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça.”. Recurso de Apelação Desprovido.
+(TJMT – Primeira Câmara de Direito Público – n. 1003201-09.2019.8.11.0010, Relator(a): DES. GILBERTO LOPES BUSSIKI, j. em 10/11/2021).
+A parte recorrente opôs embargos de declaração que foram rejeitados (id. 110883977).
+A parte recorrente sustenta violação aos artigos 5o, XXXV, e 93, IX, da CF, diante da negativa de prestação jurisdicional em face do não enfrentamento de todas as matérias arguidas.
+Aduz que houve violação aos artigos 37, 146-A, 170, da Constituição Federal
+Recurso tempestivo (id. 115179470) e preparado (id. 115315457).
+Contrarrazões no id. 120914972.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Sistemática de repercussão geral – Tema 339/STF – Obrigatoriedade de fundamentação das decisões judiciais.
+Consoante se verifica da tese recursal do Recorrente, a suposta violação ao artigo 93, da CF, está amparada na alegação de que a decisório não apreciou todas as razões recursais.
+Defende que opôs embargos de declaração sobre a questão, mas que o tema não foi sanado.
+Todavia, do exame do acórdão recorrido, verifica-se que o órgão fracionário deste Tribunal manifestou-se expressamente em relação à questão central discutida no feito, o que está em consonância com o entendimento firmado no Supremo Tribunal Federal.
+Isso porque, no julgamento do AI 791292 QO-RG/PE (Tema 339), a Suprema Corte concluiu que a Constituição Federal não exige a fundamentação exaustiva na decisão, mas que o julgador aponte de forma clara as razões de seu convencimento, o que ocorreu nos autos, como se vê:
+Entende-se como direito líquido e certo aquele que não demanda de produção de provas, ou seja, no momento da propositura da ação já pode ser provado de plano.
+In casu, apelante alega abuso de autoridade do Fisco na inclusão automática do contribuinte no Regime Administrativo Cautelar nos termos da Resolução 007/2008 da SEFAZ/MT, em como dos art. 444 e 445 do Regulamento do ICMS/MT, bem como a ilegalidade e a inconstitucionalidade da referida resolução.
+No entanto, observa-se dos autos que a apelante é devedora contumaz, conforme os Termos de Apreensão e Depósito juntados nos autos, e justamente por isso foi corretamente inserida sob o regime especial de recolhimento de ICMS, determinado nos artigos 1o, 2o e 3o, da Resolução no 007/2008-SARP.
+Evidente que o regime administrativo cautelar é uma forma de impedir que devedores continuem esquivando-se do pagamento do ICMS Garantido Integral, que no caso corresponde somente ao diferencial de alíquota, antes de entrar com bens e/ou mercadorias no Estado de Mato Grosso sem o comprovante do recolhimento deste tributo, vejamos:
+(...)
+Portanto, não há que se falar em inconstitucionalidade dos artigos 444 e 445 do RICMS/MT e artigos 1o, 2o e 3o da Resolução 007/2008/SARP/SEFAZ-MT, haja vista que a inclusão do contribuinte em regime especial se dá pelo não recolhimento do ICMS nos termos legais da legislação matogrossense, o que caracteriza infração material de caráter permanente, passível de autuação pela administração pública estadual.
+Outrossim, não há exigência do exame pormenorizado de cada uma das alegações ou provas.
+Frente a isso, conforme disposição do art. 1.030, inciso I, alínea “b”, do CPC, é o caso de se negar seguimento ao recurso diante da sistemática de precedentes qualificados.
+Violação de direito local (Súmula 280 do STF)
+Com efeito, pode-se afirmar que nos demais pontos ventilados no recurso extraordinário tem como finalidade impugnar indiretamente a lei local.
+Por sua vez, é certo que não é cabível recurso extraordinário contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.08.2018. SERVIDORES PÚBLICOS ESTADUAIS. ESTÁGIO PROBATÓRIO. SUSPENSÃO DA CONTAGEM DO TEMPO DE SERVIÇO PARA FINS DE AVALIAÇÃO DO SEU DESEMPENHO. HIPÓTESES PREVISTAS EM LEI LOCAL. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. 1. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, quanto à suspensão da contagem do tempo de serviço, para fins de estágio probatório, nos períodos de afastamentos estabelecidos na lei local pertinente, seria necessário o reexame da legislação infraconstitucional aplicável ao caso (Lei Complementar Estadual 1.059/2008), o que encontra óbice na Súmula 280/STF. 2. É entendimento sumulado do STF o não cabimento de recurso extraordinário, em decorrência de violação ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Súmula 636 do STF). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4o, CPC. Inaplicável o art. 85, § 11, do CPC, em virtude da Súmula 512/STF.” (STF - AgR ARE: 1143611 SP - SÃO PAULO 1052886-72.2015.8.26.0053, Relator: Min. EDSON FACHIN, Data de Julgamento: 11/10/2019, Segunda Turma, Data de Publicação: DJe-231 24-10-2019) (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto, uma vez que a controvérsia depende de enfretamento, de forma indireta, de lei local, isto é, o RICMS (Lei no 7.098/98).
+Ante o exposto:
+a) nego seguimento ao recurso especial, com fundamento art. 1.030, V, do CPC (Súmulas 280 do STF).
+b) nego seguimento ao recurso extraordinário, com fundamento no artigo 1.030, I, “b” (sistemática de precedentes qualificados – Tema 339), e V (Súmula 280 do STF), ambos do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
