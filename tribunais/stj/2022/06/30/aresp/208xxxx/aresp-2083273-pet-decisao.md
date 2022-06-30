@@ -1,0 +1,12 @@
+DECISÃO
+Por meio da petição de fls. 977-979, a defesaafirma que não foi analisado o pedido para que fossem determinadas diligências no setor de Tecnologia do TJ/PR a fim deverificar inconsistências no sistema Projudi entre23h50m do dia 14/12/2021 e 00h1m do dia 15/12/2021.
+Sustenta a tempestividade do recurso especial e requer "que acate que foi falha do sistema ou que previamente determine diligências, baixando o processo para verificação de eventual falha no sistema. Ou que seja reconhecida de ofício a prescrição conforme aventada em sede de Recurso Especial"(fl. 978).
+Decido.
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Conforme exposto na decisão combatida, orecorrente foi intimado do acórdão em 29/11/2021 (fl. 740). O prazo recursal iniciou em 30/11/2021 (terça-feira) e terminou em 14/12/2021 (terça-feira).A defesa interpôs recurso especial somente em 15/12/2021 - fl. 805, quando já havia, portanto, escoado o prazo previsto no art. 1.003, § 5º, do CPC, c/c o art. 798, caput, do CPP.
+Não há que se falar em omissão no decisum, porquanto consignou, de forma expressa e objetiva que "o agravante não trouxe certidão que pudesse confirmar a inconsistência no sistema eletrônico do Tribunal estadual"e que "não basta a simples alegação de falha no Projudi, pois compete à parte recorrente, a quem cabe o ônus, providenciar o referido documento"(fl. 975).
+Por fim, o réu foi denunciado em 7/6/2016 (fls. 5-8) e condenado, pelos dois crimes de estelionato em continuidade delitiva, ao cumprimento de 2 anos de reclusão, por meio de sentença proferida em 17/8/2020 (fl. 571).
+Consta no acórdão que "o curso do prazo prescricional permaneceu suspenso por força do art. 366 do Código de Processo Penal quase onze meses, no período compreendido entre 27.09.2017 (mov. 89.1) e 21.08.2018, data de seu comparecimento ao feito (mov. 129.1)" (fl. 730).
+No caso, o prazo prescricional de 4 anos (art. 109, V, do CP), portanto, não foi ultrapassado entre a denúncia e a sentença. Também não o foi entre a sentença e o acórdão que a confirmou, exarado em 12/11/2021 (fl. 732). Registro que o acórdão confirmatório também é causa interruptiva da prescrição, consoante jurisprudência pacificada desta Corte e do STF.Logo, não há que se falar em ocorrência da prescrição da pretensão punitiva.
+À vista do exposto, indefiro os pedidos formulados pela defesa às fls. 977-979.
+Publique-se e intimem-se.
