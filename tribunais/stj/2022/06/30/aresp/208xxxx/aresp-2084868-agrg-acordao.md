@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão que não conheceu do agravo em recurso especial atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de agravo regimental interposto por SAMUEL VIANA GONCALVES contra a decisão de fls. 427, da Presidência, na qual se conheceu do agravo para não conhecer do recurso especial recurso especial, por aplicação do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora agravante como incurso nas sanções do art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei n. 11.343/2006, à pena de 8 (oito) anos, 10 (dez) meses e 5 (cinco) dias de reclusão, no regime inicial fechado, mais 884 dias-multa (fls. 306-313).
+O eg. Tribunal a quo, em decisão unânime, deu parcial provimento ao recurso de apelação criminal ali interposto pela defesa. Eis a ementa do acórdão (fls. 360-373):
+"APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES DENTRO DO PRESÍDIO. DESCLASSIFICAÇÃO PARA USO. NÃO CABIMENTO. REVISÃO DA DOSIMETRIA. READEQUAÇÃO DA PENA CORPORAL. SENTENÇA PARCIALMENTE REFORMADA.
+1. Não é possível a desclassificação do crime de tráfico de entorpecentes para a conduta descrita no artigo 28 da Lei nº 11.343/06 (uso) quando o conjunto probatório - em especial a quantidade de porções encontradas com o réu e a forma de acondicionamento - certifica a intenção de difusão dos entorpecentes dentro do presídio, conduta que se amolda com perfeição àquela prevista no art. 33, caput c/c art. 40, inciso III, ambos da Lei 11.343/2006.
+2. "A condição de usuário, por si só, não possui o condão de elidir a tese acusatória e de afastar a materialidade da prática do crime de tráfico de drogas, isso porque uma conduta não exclui a outra." (Acórdão nº 1152189, 20170110362128APR). Precedentes.
+3. A jurisprudência, ciente da discricionariedade conferida pelo legislador ao juiz no que tange à individualização das penas, tem tentado estabelecer parâmetros aritméticos mais objetivos para lastrear o cálculo dosimétrico, calcando-se, para tanto, em critérios de proporcionalidade e razoabilidade.
+4. Na primeira fase da dosimetria da pena, mostra-se adequado e razoável o acréscimo da fração de 1/8 (um oitavo) da diferença entre as penas máxima e mínima abstratamente cominadas ao delito para cada circunstância judicial negativa prevista no artigo 59 do Código Penal, justificando a redução da pena-base quando o recrudescimento se mostra exacerbado.
+5. APELAÇÃO CONHECIDA E PROVIDA PARCIALMENTE."
+Foi interposto recurso especial, interposto pela Defesa (fls. 378-384), com fulcro na alínea a, do permissivo constitucional, no qual se alegou que "o tribunal a quo violou os artigos 155, do Código de Processo Penal, em razão de não ter se baseado na quantia ínfima de droga apreendida, bem como ter considerado apenas depoimento dos agentes públicos para condenação. Não existe prova da traficância" (fls. 380-381).
+Aduziu, outrossim, que "o acórdão recorrido também violou os artigos 28 e 33, §3º, da Lei n. 11.343/2006 2 , segundo os quais fornecem elementos para contrariar os argumentos do acórdão recorrido, eis que considerou apenas depoimentos de agentes públicos e desconsiderou o total de droga apreendida, que é ínfima para ensejar toda a agressividade do Estado no " Jus Puniendi" " (fl. 381).
+Ponderou, ademais, que "Em razão do artigo 386, VII, do CPP ou principio do in dubio pro reo e assim o acórdão recorrido merece reforma, para que o recorrente seja agraciado com a desclassificação para o artigo 28, da Lei 11343/2006" (fl. 383).
+Requereu, ao final, fosse "conhecido e provido este recurso para reformar o acórdão recorrido e desclassificar a conduta imputada ao recorrente para o delito previsto no art. 28 da Lei n. 11.343/2006" (fl. 384).
+Apresentadas as contrarrazões (fls. 397-399), o apelo nobre foi inadmitido na origem pela aplicação da Súmula n. 7/STJ (fls. 402-403).
+Sobreveio agravo em recurso especial, por meio do qual se reiterou os argumentos expendido no apelo nobre (fls. 410-414).
+Em decisão de fls. 427-432, a d. Presidência deste Superior Tribunal de Justiça conheceu do agravo para não conhecer do recurso especial, pela aplicação da Súmula n. 284/STF e pela incidência da Súmula n. 7/STJ.
+Foi interposto o presente agravo regimental, por meio do qual se alega, em síntese, que "no próprio recurso especial o recorrente defendeu e sustentou por jurisprudência deste SUPERIOR TRIBUNAL DE JUSTIÇA que o caso concreto não comporta a aplicação da referida Súmula, eis que apreendido quantia ínfima e irrisória de droga, menos de 1g (exatamente 0,73 g) que serviria para seu uso, dependendo de mera revaloração probatória" (fl. 438).
+Pelo despacho de fl. 444, foi determinada a redistribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 447, o feito foi a mim atribuído.
+O d. representante do Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fls. 309-316).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão que não conheceu do agravo em recurso especial atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): O presente agravo não reúne condições para ser conhecido.
+Isso porque, nas razões deste agravo regimental, o recorrente limita-se a alegar, de forma resumida, que "no próprio recurso especial o recorrente defendeu e sustentou por jurisprudência deste SUPERIOR TRIBUNAL DE JUSTIÇA que o caso concreto não comporta a aplicação da referida Súmula, eis que apreendido quantia ínfima e irrisória de droga, menos de 1g (exatamente 0,73 g) que serviria para seu uso, dependendo de mera revaloração probatória" (fl. 438), deixando de desincumbir-se do ônus de infirmar os fundamentos da decisão monocrática recorrida que pretende desconstituir.
+Com efeito, das razões colacionadas na presente irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Como cediço, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016, grifei).
+De igual modo, não cuidou o agravante de refutar a incidência do óbice da Súmula n. 284/STF, nada tendo dito a respeito, pelo que, também por esse por esse motivo, não pode ser conhecido o presente agravo regimental.
+Tal circunstância, como cediço, atrai, in casu, a aplicação do enunciado da Súmula n. 182 desta Corte Superior de Justiça, que dispõe, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Assim, verificada esta hipótese  ausência de impugnação dos fundamentos da decisão agravada  o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte. Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO INOCORRENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Cabe ao agravante, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o regimental que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram ao não conhecimento do agravo em recurso especial. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido" (AgRg no AREsp n. 1.021.378/MG, Rel. Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017).
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+1. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. Agravo regimental não conhecido" (AgRg no AREsp n. 979.894/PB, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 21/6/2017).
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
