@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCOS AURELIO ALVES MOREIRA agrava da decisão de fls. 317-318, em que indeferi liminarmente o habeas corpus, dada a presença dos requisitos legais para imposição da prisão preventiva.
+Para tanto, assere que "da análise dos fundamentos invocados pelo paciente conclui-se que a decisão judicial que motivou a presente impetração não observou os critérios que a jurisprudência do c. Supremo Tribunal Federal, que firmou em tema de prisão" (fl. 360).
+Requer, assim, "seja ratificada a liminar, tornando-a definitiva, concedendo- se a ordem para que o paciente responda em liberdade durante todo o curso dos autos de origem, intimando-o a comparecer em cartório desta comarca para assinar o termo de comparecimento a todos os atos processuais até o julgamento definitiva" (fl. 362).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. PERICULOSIDADE DO AGENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco de reiteração delitiva, "tratando-se de indivíduo multireincidente específico e tem maus antecedentes (fls. 58/73), inclusive está cumprindo pena em meio aberto (fls. 70), denotando-se que as condenações anteriores não foram suficientes para demovê-lo da conduta ilegal".
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, informa a defesa que, em 24/2/2022, "o paciente  ..  foi preso em flagrante por suposta infração ao delito do art 33 da lei 11.343/06 (tráfico de drogas)" (fl. 5).
+Asseriu, perante a Corte de origem, que "o paciente foi preso em flagrante pela suposta prática de tráfico de drogas, convolando-se o ato em prisão preventiva através de decisão carente de fundamentação idônea. Destaca, a propósito, que, embora reincidente o autuado, não se encontram presentes os requisitos da custódia antecipada. Sustenta, ademais, a desproporcionalidade da medida extrema, assim como a ausência de fatores contemporâneos a justificá-la, assinalando que o autuado foi detido com quantidade de drogas pouco expressiva" (fl. 309).
+Todavia, verifica-se que o Juízo singular homologou o flagrante e o converteu em prisão preventiva, ao alegar que " a  manutenção da custódia cautelar em relação ao autuado é medida que se impõe, pois imprescindível para garantia da ordem pública, a fim de que ele não volte a delinquir. Isso porque ele deu mostras de que faz do comércio ilícito seu meio de vida, haja visa a condenação anterior, tratando-se de indivíduo multireincidente específico e tem maus antecedentes (fls. 58/73), inclusive está cumprindo pena em meio aberto (fls. 70), denotando-se que as condenações anteriores não foram suficientes para demovê-lo da conduta ilegal" (fls. 174-175, destaquei).
+Sobre tal aspecto, destaco que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+2. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a maior periculosidade do recorrente, na medida em que responde a diversos outros processos criminais, já tendo sido, inclusive, condenado por tráfico de drogas. Tal circunstância, somada à quantidade, natureza e diversidade das drogas apreendidas, demonstra a propensão ao crime e o risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública  ..  (RHC n. 129.203/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/8/2020, grifei).
+ ..
+2. In casu, não obstante a pequena quantidade de droga apreendida, entendo que há motivação idônea para manutenção da constrição cautelar em razão de ser o recorrente reincidente específico que, no mesmo dia em que participou de audiência admonitória relativa à condenação anterior, foi preso em flagrante pela suposta prática de tráfico do drogas, evidenciando, assim, a sua periculosidade social, com concreto risco de reiteração delitiva.
+3. Demonstrada a necessidade da segregação antecipada, descabem as medidas cautelares diversas da prisão previstas no art. 319 e seguintes do Código de Processo Penal.
+4. Recurso em habeas corpus improvido. (RHC n. 109.030/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 18/6/2019, sublinhei).
+À vista do exposto, nego provimento ao recurso.
