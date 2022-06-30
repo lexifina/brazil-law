@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de LEANDRO JOSE MACIEL contra acórdão do Tribunal de Justiça do Estado de São Paulo(Revisão Criminal n.0028868-56.2021.8.26.0000).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente a 12 anos de reclusão, inicialmente no regime fechado, como incurso no art. 159, §1º, do Código Penal (extorsão mediante sequestro).
+Transitado em julgado o decreto condenatório, a defesa ajuizou revisão criminal, julgada improcedente nos termos do julgamento acostado às fls. 14/19.
+Daí o presente writ, no qual oimpetrante sustenta a existência de constrangimento ilegal, visto que as instâncias ordinárias não apresentaram fundamentação idônea para afastar a causa de diminuição de pena prevista no art. 159, § 4º, do Código Penal (colaboração premiada).
+A liminar foi indeferida por decisão de fls. 87/88.
+O Ministério Público Federal opinou pelo não conhecimento domandamus, em parecer assim resumido (fl. 93):
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXTORSÃO MEDIANTE SEQUESTRO. CAUSA DE DIMIMUIÇÃO (ART. 159, § 4º, DO CP). NÃO INCIDÊNCIA.FUNDAMENTAÇÃO IDÔNEA. ADEMAIS, CONCLUSÃO CONTRÁRIA À DA CORTE ESTADUAL DEMANDARIA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA.AUSÊNCIA DE ILEGALIDADE.
+Parecer pelo não conhecimento do writ."
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, casoconstatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque o Tribunala quoindeferiu o pedido de colaboração premiada com fundamentação idônea e concreta, ressaltando que, diversamente do quanto afirma a defesa, foi o trabalho investigativo dos policiais que determinou a elucidação do crime e o encerramento do cativeiro da vítima.A propósito, confiram-se fragmentos extraídos do voto condutor no acórdão recorrido (fl. 18):
+"Conforme esclareceu o delegado de polícia que presidiu o inquérito policial, Dr. Fábio Nelson Fernandes, foi através de interceptações telefônicas que se chegou até a pessoa do ora peticionário, até então conhecido pela alcunha "Alemão". Com o monitoramento da linha telefônica, lograram descobrir o seu endereço. Nesse local, realizou-se campana e o abordaram. Leandro confirmou o crime de sequestro e indicou o local do cativeiro. Ali, os policiais encontraram o corréu Francisco, o qual confirmou que a vítima era mantida cativa. Em seguida, chegou ao local o corréu Patrício, que substituiria Francisco na segurança do local, tendo sido também preso.
+No mesmo sentido depôs o policial civil Giuliano, acrescentando que durante as investigações, com a interceptação telefônica de Patrício, lograram descobrir a região do cativeiro, que estava próximo ao motel "Xanadu". Aduziu, ainda, que um quarto criminoso, de nome Eraldo, fazia a segurança do local do cativeiro e disparou contra os policiais, os quais, em revide, o acertaram, provocando sua morte.
+Fácil perceber que, em momento algum, o peticionário "denunciou" o crime à autoridade nem "facilitou" a libertação da vítima."
+A via eleita é inadequada à mudança desse entendimento, uma vez que depende do revolvimento de matéria fático-probatório, providência incompatível com os estreitos limites do habeas corpus, que é caracterizado pelacognição sumária e rito célere.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. NULIDADE. ART. 212 DO CPP. INQUIRIÇÃO DAS TESTEMUNHAS PELO JUIZ.POSSIBILIDADE. INEXISTÊNCIA DE PREJUÍZO. 1. O artigo 212 do Código de Processo Penal permite que o Juiz participe das inquirições, sendo-lhe facultada, na busca da verdade real, a produção de provas necessárias à formação do seu livre convencimento, nos termos do artigo 156, inciso II, do mencionado diploma legal. 2. Ademais, é certo que eventual nulidade nesse tocante seria apenas relativa, não prescindindo da comprovação de efetivo prejuízo causado à defesa pela conduta do magistrado. TRAFICO DE DROGAS E ASSOCIAÇÃO. POSSE ILEGAL DE ARMA. ABSOLVIÇÃO. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ.
+Tendo o Tribunal a quo, soberano no reexame dos fatos e provas que instruem o caderno processual, concluído que existem elementos suficientes para o édito condenatório, inclusive em razão da confissão do próprio acusado, a desconstituição do julgado no intuito de abrigar o pleito absolutório não encontra espaço na via eleita, dada a necessidade de revolvimento do acervo fático-probatório dos autos, procedimento exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça no âmbito do recurso especial, a teor do óbice previsto na Súmula n. 7 deste Sodalício. COLABORAÇÃO PREMIADA. ELUCIDAÇÃO DO CRIME. CONTRIBUIÇÃO EFETIVA. NECESSIDADE. OMISSÃO DE INFORMAÇÕES. INSURGÊNCIA DESPROVIDA.
+1. O instituto da colaboração premiada só tem aplicação se a delação for eficaz, contribuindo efetivamente para a elucidação do crime, o que não se verificou ter ocorrido na espécie.
+2. Se o acórdão a quo assentou que o agravante omitiu informação de quem lhe fornecia as drogas e quem seriam os demais traficantes, inviável a desconstituição da conclusão do julgado, sendo certo que isso somente seria possível mediante a incursão nos elementos de convicção dos autos, o que é vedado pela Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.639.763/TO, relator Ministro Jorge Mussi, Quinta Turma, DJe de 13/11/2017.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
