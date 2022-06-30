@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III,a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação Criminal n. 1503431-82.2018.8.26.0536), que redimensionou a pena imposta aoréu AlfredoVieira da Silva, mediante redução da pena-base ao mínimo legal e fixação dapena (art. 33,§ 4º, da Lei n. 11.343/2006) na fração mínima (1/6).
+Nas razões do recurso especial, a defesa do agravante suscitou negativa de vigência dos seguintes dispositivos de lei federal:art. 33, § 4º, da Lei n. 11.343/2006; e arts. 33,§§ 2º e 3º, 44 e 59, todos do Código Penal (fls. 376/395).
+A Corte de origem inadmitiu o recurso com fundamento nas Súmulas 7 e 182/STJ (fls. 414/415).
+Contra odecisuma defesa interpôs o presente agravo (fls. 420/428).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos do parecer assim ementado (fl. 448):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 EM SEU PATAMAR MÁXIMO.PRETENSÃO AO REEXAME DE FATOS E PROVAS.INVIABILIDADE. SÚMULA 7/STJ. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+Quanto ao recurso especial em si, a insurgência também é admissível e, no mérito, merece acolhida.
+Cumpre rememorar que, no julgamento do REsp n. 1.912.981/SP, esta Corte concluiu no sentido da inidoneidade da fundamentação lançada no acórdão da apelação para vedar a incidência da minorante doart. 33,§ 4º, da Lei n. 11.343/2006, determinando que a Corte de origem aplicasse o redutor, na fração que reputasse adequada, de forma fundamentada (fls. 329/333).
+Ao cumprir a determinação exarada naquele julgado, o Tribunala quofixou a pena-base no mínimo legal e fixou o redutor especial na fração mínima (1/6) com base na quantidade das drogas (fls. 361/362 - grifo nosso):
+ ..
+Neste ponto, merece pequeno reparo a r.sentença para readequar a pena-base ao seu patamar mínimo, tendo em vista que as circunstâncias e consequências do delito não extrapolaram os limites inerentes ao próprio tipo penal, bem como a quantidade de drogas (10 porções de cocaína, com peso bruto de 15g, e 35 porções de "maconha", com peso bruto de 70g), não se mostrou deveras exacerbada a ponto de exigir uma resposta penal mais enérgica.
+Fixo, assim, a pena-base em 05 (cinco) anos de reclusão, bem como ao pagamento de 500 (quinhentos) dias - multa, no valor mínimo.
+ ..
+Considerando, ainda, a quantidade de drogas apreendidas em seu poder (10 porções de cocaína, com peso bruto de 15g, e 35 porções de "maconha", com peso bruto de 70g), somado às demais circunstâncias do caso concreto, de rigor a aplicação do redutor na fração de 1/6 (um sexto), proporção esta que se revela a mais adequada ao caso concreto, totalizando uma pena de 04 (quatro) anos e 02 (dois) meses de reclusão, bem como ao pagamento de 416 (quatrocentos e dezesseis) dias-multa, no valor unitário mínimo legal, penas estas que se tornam definitivas ante a ausência de outras causas modificadoras.
+ ..
+Sucede quea conclusão estabelecida na análise da pena-base,no sentido de que a quantidade de drogas não éexacerbada a ponto de exigir uma resposta penal mais enérgica(fl. 361), obsta a valoração desse elemento, de forma negativa, para fins de fixação do redutor em patamar inferior ao máximo legal (2/3), pois se a quantidade de drogas não é relevante a ponto de justificar o agravamento da pena na primeira fase, também não é para vedar a incidência do redutor no máximo.
+Assim, considerando a inexistência de fundamentação concreta e idônea no aresto combatido, é certo que o agravante faz jus ao redutor especial no máximo legal, circunstância que implica o redimensionamento da pena privativa de liberdade a 1 ano e 8 meses de reclusão, em regime aberto (réu primário com pena-base no mínimo), além do pagamento de 166 dias-multa.
+Considerando a natureza do crime (perpetrado sem violência ou grave ameaça), o patamar da pena (inferior a 4 anos) e a primariedade do agravante, substituo a pena privativa de liberdade por duas restritivas de direitos a serem estabelecidas pelo Juízo da execução.
+Ante o exposto,conheçodo agravo paradar provimentoao recurso especial, a fim de fixar a fração doredutor especial da pena(art. 33, § 4º, da Lei n. 11.343/2006) nopatamar máximo (2/3), reduzindo a pena imposta ao agravante a 1 ano e8 meses de reclusão, em regime aberto, além do pagamento de 166 dias-multa,substituída a pena privativa de liberdade por duas restritivas de direitosa serem estabelecidas pelo Juízo da execução (Processo n. 1503431-82.2018.8.26.0536, da 4ªVara Criminalde Santos/SP).
+Dê-se ciência ao Tribunala quoeao Juízo de primeiro grau.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. 15 G DE COCAÍNA E 70 G DE MACONHA.NEGATIVA DE VIGÊNCIA DOS ARTS. 33, § 4º, DA LEI N. 11.343/2006 E 33, 44 E 59, TODOS DO CP. SUPOSTA ILEGALIDADE NA FIXAÇÃO DO REDUTOR ESPECIAL DA PENA NO PATAMAR MÍNIMO (1/6). PROCEDÊNCIA. INIDONEIDADE DO ELEMENTO SOPESADO PARA JUSTIFICAR A FIXAÇÃO DO REDUTOR NO MÍNIMO LEGAL. REDIMENSIONAMENTO DA PENA.
+Agravo conhecido para dar provimento ao recurso especial, nos termos do dispositivo.
