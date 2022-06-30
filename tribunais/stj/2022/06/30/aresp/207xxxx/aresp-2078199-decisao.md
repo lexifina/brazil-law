@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta a defesa violação do art. 33 do CP. Alega a falta de fundamentação idônea no estabelecimento do regime mais gravoso, em dissonância com as Súmulas 440/STJ,718 e 719/STF.
+Requer, assim, o provimento do recurso especial, a fim de que seja fixado o regime semiaberto.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que o réu foi condenado à pena de 7anos, 5meses e 18 dias de reclusão, no regime fechado.
+Quanto ao regime prisional, o acórdão recorrido está assim fundamentado:
+Quanto ao réu Maicon Souza Oliveira, o magistrado de piso fixou a basilar no mínimo legal. Pela agravante de ter sido o crime cometido contra pessoa idosa, agravou a pena em 1/6, alcançando o montante de 4 anos e 8 meses de reclusão, além de 11 dias-multa. Em atenção à causa de aumento referente ao concurso de pessoas, elevou a reprimenda em 1/3 (um terço), alcançando o patamar de 6 anos, 2 meses e 20 dias de reclusão, além de 14 dias-multa.
+Em razão do concurso formal de delitos, ajusta-se a fração de aumento para 1/5 (um quinto), tal como realizado para seu comparsa, em virtude da quantidade de roubos perpetrados, para totalizar uma pena corporal de 7 anos, 5 meses e 18 dias de reclusão. Mantém-se a pena de multa inalterada, ou seja, em 17 dias-multa, já que obedece a critérios distintos (artigo 72 do CP).
+O regime inicial de cumprimento de pena, em que pese o entendimento adotado pelo Juízo a quo, deve ser retificado para o fechado, tal como pleiteado pelo promotor de justiça oficiante. Veja-se que o delito assume especial gravidade em concreto quando direcionado contra asilo inviolável de vítima idosa, que se encontrava dormindo com seus familiares. Também vale dizer que a vítima Jéssica mencionou que eles permaneceram trancados até a manhã seguinte, conforme exigência dos roubadores, a evidenciar maior gravidade do delito. Por Ultimo, Joaquim disse em Juízo que um dos roubadores puxou sua filha Jéssica pelos cabelos, revelando, assim, violência desnecessária e desproporcional para consumação do delito. Assim, há elementos mais que suficientes para impor o regime inicial fechado para cumprimento de pena também para o apenado Maicon.
+Nos termos dos enunciados das Súmulas 440/STJ, 718 e 719/STF, a imposição de regime mais gravoso exige motivação concreta, não sendo suficiente a indicação de apenas da gravidade abstrata do delito.
+Contudo, apesar de fixada a pena-base no mínimo legal, verifica-se a existência de motivação concreta apta ao recrudescimento do regime prisional, ante a violência exacerbada que denota maior reprovabilidade da conduta, consoante art. 33, §§ 2º e 3º, do CP, motivo pelo qual não se verifica ilegalidade. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal, com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+2. No caso, a Corte estadual manteve a imposição do regime inicial fechado, com base, justamente, nas peculiaridades do caso analisado, motivo pelo qual não há falar em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ.
+3. Consoante entendimento desta Corte Superior de Justiça, a fixação da pena-base no mínimo legal não impede a aplicação de regime mais gravoso, desde que devidamente justificado nas peculiaridades do caso analisado, tal como ocorreu na hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no HC n. 734.376/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022.)
+Incide, pois, a Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
