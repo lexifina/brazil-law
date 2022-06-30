@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravointerpostos em face de decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 282 e 356/STF e 7/STJ.
+Nas razões do especial, aponta a defesa violação do art. 28 da Lei 11.343/2006.Sustenta a falta de comprovação da mercancia ilícita.Requer, assim, o provimento do recurso especial, a fim de que seja desclassificada a para o tipo penal de porte de drogas para consumo pessoal.
+Nas razões do especial, aponta o Ministério Públicoviolação do art. 33, § 4º, da Lei 11.343/2006, sob o argumento da apreensão de elevada quantidade de droga (60 tijolinhos de maconha (47g) 4 petecas de cocaína (0,6g) e 39 pedras de crack (10g), além de certa quantia em dinheiro (R$ 477,50) e "anotações para o tráfico apreendidas em posse do acusado".
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo da defesa e provimento do agravo do Ministério Público.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Quanto ao tráfico de drogas, o acórdão recorrido está assim fundamentado:
+Essa é a prova dos autos. Com base nela, impositiva a manutenção da condenação do réu Eduardo.
+A posse dos entorpecentes restou demonstrada. Nesse sentido, há nos autos os depoimentos dos policiais, o auto de apreensão (fl. 24) e o relato do condutor (fl. 14):
+"Estava em patrulhamento de rotina pelo bairro medianeira, em conhecido ponto de tráfico (..) quando a guarnição avistou o indiciado Eduardo Angeli Silva da Costa encostado no beco em frente ao colégio. Que efetuaram a abordagem e em revista pessoal foi encontrada a importância de R$ 477,50 nas meias do indiciado, além de 60 tijolos de maconha, 4 petecas de cocaína, 39 pedras e um caderno com anotações do tráfico (..)" A versão pessoal apresentada pelo réu, em juízo, de que teria sido "enxertado" pelos policiais, está isolada no contexto probatório.
+Não houve a indicação/menção a eventuais desavenças prévias entre o acusado e os agentes que justificassem a alegada falsa imputação.
+Demonstrada a posse, outra não é a conclusão no tocante à tipicidade. As circunstâncias objetivas da apreensão - tripla natureza, fracionamento, bem como a quantidade de droga (60 tijolinhos demaconha, 47g, 4 petecas de cocaína, 0,6g, e 39 pedras de crack, 10g) são indicativas da destinação a terceiros.
+Ademais, as anotações para o tráfico apreendidas em posse do acusado foram acostadas aos autos (fl. 93) e fazem expressa referência a "pó", "longo", "beck", seguido de números, o que indica se tratar de contabilidade/controle da atividade de comercialização de drogas.
+Assim, demonstrada a posse e a tipicidade, vai mantida a condenação.
+As instâncias de origem concluíram pela autoria e materialidade delitiva, bem como demonstrada a traficância com base nas provas produzidas nos autos, colhidas na fase inquisitorial e judicial, consignando a existência de prova testemunhal e ainda a apreensão de caderno de anotações em expressa referência à contabilidade da mercancia ilícita.
+Desse modo, não cabe a esta Corte a alteração de tal entendimento, para fins de absolvição ou desclassificação para uso pessoal, por exigir aprofundado exame de provas, incompatível na via do recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. AUTORIA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. REEXAME DE MATÉRIA DE PROVA. INVIABILIDADE. DOSIMETRIA. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ART. 42 DA LEI N. 11.343/2006. CIRCUNSTÂNCIA PREPONDERANTE. NECESSIDADE DE INCIDÊNCIA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI N. 11.343/2006). PRESENÇA DE OUTROS ELEMENTOS EVIDENCIADORES DA DEDICAÇÃO A ATIVIDADE CRIMININOSA OU DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão das conclusões do tribunal de origem sobre a absolvição do agente da prática do crime de tráfico de entorpecentes e sobre a desclassificação da conduta para o crime de uso de entorpecentes demanda o reexame do conjunto fático-probatório dos autos, procedimento inviável no âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+ ..
+9. Agravo regimental desprovido.
+(AgRg no AREsp 2003340/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 29/03/2022, DJe 06/04/2022)
+Entende esta Corte Superior que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.) não autorizam a exasperação da pena-base, a vedação da minorante do tráfico no seu patamar máximo de 2/3, o agravamento do regime prisional ou a negativa à substituição das penas (AgRg no HC 529.431/SP, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019).
+No caso, consta a apreensão de 47g de maconha, 0,6g de cocaína e 10g de crack, o que denota menor gravidade da conduta delitiva, na linha da orientação jurisprudencial desta Corte, a autorizar a fixação da redução no patamar máximo.
+Ademais, a indicação da quantidade de drogas apreendida, isoladamente, sem a expressa referência a circunstâncias concretas adicionais não justifica o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO NA FRAÇÃO DE 1/6. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE O ACUSADO SE DEDICAVA A ATIVIDADES CRIMINOSAS BASEADA EXCLUSIVAMENTE NA QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado na fração de 1/6.
+2. Esta Corte vem se manifestando no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+3. Agravo regimental não provido.
+(AgRg no HC 670.280/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021)
+Incide, pois, a Súmula 83/STJ.
+Ante o exposto, nego provimento aos agravos em recurso especial.
+Publique-se.
+Intimem-se.
