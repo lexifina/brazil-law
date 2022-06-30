@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VALOR DA CAUSA. REVISÃO. SÚMULA N. 7.DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Para revisar o entendimento daCorte de origem acerca do valor da causa, reajustado por força do acolhimento de impugnação apresentada pelo réu, é necessária a reanálise dos fatos e das provas constantes dos autos, o que obsta a análise do recurso especial, considerado o enunciado n. 7 da Súmula do STJ.
+2. Pacífica a jurisprudência desta Corte de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado contra decisão que conheceu do agravo para não conhecerdo recurso especial (e-STJ, fls. 702-705).
+A parte insurgente aduz, em suma, inaplicável o óbice do verbete n. 7 da Súmula do STJ.
+Reitera compreensão de que "o valor da causa e o proveito econômico da ação anulatória de débito fiscal correspondem ao valor total do lançamento tributário" (e-STJ, fl. 711) e a alegação de divergência jurisprudencial.
+A parte agravada apresentou contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VALOR DA CAUSA. REVISÃO. SÚMULA N. 7.DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Para revisar o entendimento daCorte de origem acerca do valor da causa, reajustado por força do acolhimento de impugnação apresentada pelo réu, é necessária a reanálise dos fatos e das provas constantes dos autos, o que obsta a análise do recurso especial, considerado o enunciado n. 7 da Súmula do STJ.
+2. Pacífica a jurisprudência desta Corte de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte interessada não trouxe fundamentos aptos a desconstituir o pronunciamento impugnado.
+Conforme reconhecido na decisão monocrática, para revisar o entendimento da Corte de origem acerca do valor da causa, reajustado por força do acolhimento de impugnação apresentada pelo réu, é necessária a reanálise dos fatos e das provas constantes dos autos, o que obsta a análise do recurso especial, considerado o enunciado n. 7 da Súmula do STJ.
+Nesse sentido, a Corte de origem, ao manter o acolhimento da impugnação ao valor da causa apresentada pelo réu, consignou (e-STJ, fls. 379-380):
+Ademais, como afirmado, o autor indicou como valor da causa o montante de R$10.172.419,42, sob o argumento de que este foi o valor do Documento de Arrecadação Fiscal, calculado em 29/11/2019 (p. 76). Foi acolhida impugnação do réu ao valor da causa. O réu argumentou, embora o autor tenha se baseado em documento expedido pela própria Fazenda Pública, ser possível constatar que na DAEMS (Documento de Arrecadação Fiscal) foi indicado de forma incorreta o valor da base de cálculo no campo destinado à discriminação do crédito tributário em unidades fiscais, o que gerou valor não condizente com a realidade do caso. Nos dois termos de verificação fiscal n. 001173000 e n. 001173001 (p. 58/59), emitidos em 17/06/2019, constam autuações da empresa para pagamento de ICMS relativo às notas fiscais 23.257 e 23.261 (p. 54/55), sendo o tributo calculado à alíquota de 17% sobre os valores das notas fiscais, acrescido da margem de valor agregado. Da aplicação do cálculo para as duas notas chega-se ao valor de R$ 132.858,88, ao qual foi acrescido multa de 150% (199.288,32). Dessa forma, o valor da causa deve corresponder ao proveito econômico pretendido, consistente no valor real do tributo que se busca desconstituir: R$ 332.147,20. Ainda que o recorrente tenha alegado irregularidade formal no título (por inadequação do valor cobrado), sua pretensão principal é desconstituir a integralidade do tributo, ante o benefício da imunidade fiscal. Nesse contexto, o proveito econômico deve observar o valor real do tributo, corretamente descrito no Termo de Verificação Fiscal. ..  A título de complementação, para fins de fixação dos honorários advocatícios deve ser observado o proveito econômico, quando mensurável, como no caso. Não obstante a juíza tenha fixado a verba sobre o valor da causa, descabe qualquer alteração da sentença, pois o montante equivale ao proveito econômico.
+Por fim, com relação à alegada divergência jurisprudencial,o mesmo impedimento aplicável ao recurso interposto com base na alínea "a" - no caso, falta de prequestionamento e enunciado n. 7 da Súmulado STJ -impede a análise do recurso especial manejado com suporte na alínea "c" do permissivo constitucional.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. CERCEAMENTO DE DEFESA. REVISÃO DE PROVAS. SISTEMA DE PERSUASÃO RACIONAL. FORMAÇÃO DE LITISCONSÓRCIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. PREJUÍZOS CAUSADOS AO ERÁRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 7 DO STJ.
+1. Rever o entendimento do Tribunal de origem, no tocante à não ocorrência de cerceamento de defesa do direito dos agravados, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+2. Esta Corte já se manifestou no sentido de que, no sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cumpre a análise da conveniência e necessidade de sua produção. O que ocorreu no caso específico.
+3. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+4. O Tribunal de origem entendeu pela existência de prejuízos suportados pela administração, em razão do procedimento realizado pelos agravados, com suporte nas provas dos autos. Incidência da Súmula 7 do STJ.
+5. O apelo extremo fundado na alínea "c" do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.249.277/SP, de minha relatoria, SEGUNDA TURMA, julgado em 16/10/2018, DJe de 22/10/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
