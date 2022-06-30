@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Lucas Mateus Santos de Macedo, apontando-se como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul (Recurso em Sentido Estrito n. 5009834-11.2022.8.21.0001).
+Em 23/1/2022, o paciente foi autuado em flagrante delito pela suposta prática dos crimes previstos no art. 33 da Lei n. 11.343/2006 e no art. 16, § 1º, IV, da Lei n. 10.826/2003. Posteriormente, o Juízo da Vara Plantão do Tribunal local homologou o flagrante, contudo, concedeu ao paciente a liberdade provisória (Processo n. 5009003-60.2022.8.21.0001).
+Contra essa decisão, o Ministério Público interpôs recurso em sentido estrito. A Corte estadual deu provimento ao recurso e decretou a prisão preventiva.
+Daí o presente writ, em que a impetrante alega, em síntese, que não estão presentes os requisitos da prisão preventiva, sobretudo porque o fato em apuração não é extraordinário na dinâmica da vida social, bem ainda cumpre referir que o acusado é absolutamente primário, sendo os compromissos de liberdade provisória bastantes ao caso, para salvaguarda da ordem pública (fl. 4).
+Requer, inclusive em caráter liminar, a concessão de liberdade provisória ao acusado.
+Deferi medida liminarpara substituir a prisão preventiva do paciente, salvo a existência de prisão por outro motivo, por medidas cautelares a serem fixadas pelo Juízo de primeiro grau (fls. 29/31).
+Informações prestadas pelo Juízo de primeiro grau (fls. 35/38).
+É o relatório.
+A Corte estadual motivou a decretação da custódia, considerando que, embora absolutamente primário, a quantidade de diferentes substancias apreendidas em posse do réu, além da balança de precisão e da arma de fogo com numeração raspada, fornecem subsídios concretos para demonstrar que não se trata de traficante esporádico ou de um mero usuário, ou de pequena importância na escala do crime organizado que envolve delitos da espécie (fl. 22).
+Entretanto, apesar da fundamentação acima exposta, à luz da proporcionalidade, é perfeitamente aplicável ao caso medidas cautelares previstas no art. 319 do Código de Processo Penal, suficientes e adequadas para a proteção do bem jurídico sob ameaça, de forma menos gravosa ao paciente.
+Isso porque, apesar de não ser ínfima a quantidade de droga apreendida, também não se trata de quantidade expressiva (16 g de cocaína, 9 g de crack e 808 g de maconha), o que, aparentemente, não evidencia se tratar de tráfico de grandes proporções.
+Conforme adiantei na decisão às fls. 29/31, entendo não ser realmente necessária e adequada a imposição de medida tão gravosa, diante das circunstâncias em que se deram os fatos e das condições pessoais do agente.
+Nesse sentido, a Magistrada de primeiro grau, ao conceder liberdade provisória ao acusado, ponderou que, mesmo com indícios de envolvimento no tráfico armado, o que expõe a risco a comunidade local, e próprio agente e outros indivíduos, em razão da conhecida violência que permeia o controle de pontos de tráfico e as disputas por esses pontos, considero que o imputado é primário e não teve processos enquanto adolescente, de forma a ser esta a primeira prisão/apreensão do imputado (fl. 6).
+Outrossim, para oSubprocurador-Geral da RepúblicaNívio de Freitas Silva Filho,a apreensão de drogas é elemento inerente ao tipo penal, não extrapola sua normalidade e não tem o condão de, per se, denotar maior periculosidade da paciente a ponto de justificar a medida extrema.Ademais, o delito supostamente praticado foi cometido sem violência ou grave ameaça à pessoa e, como bem pontuado pelo juízo de piso, o paciente é primário e não teve processos enquanto adolescente, de forma a ser esta a primeira prisão/apreensão do imputado(fl. 47).
+Ante o exposto, acolho o parecer e, confirmando a liminar, concedo a ordem parasubstituir a prisão preventiva do paciente, salvo se por outro motivo estiver preso, por medidas cautelares a serem fixadas pelo Juízo de primeiro grau.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTOS. RÉU PRIMÁRIO. QUANTIDADE NÃO EXORBITANTE DE ENTORPECENTES. CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO.PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
