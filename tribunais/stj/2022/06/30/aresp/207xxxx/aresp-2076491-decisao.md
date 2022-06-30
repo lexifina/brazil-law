@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por JULIO CESAR DE OLIVEIRA contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE VALIDADE/INVALIDADE DE NEGÓCIO JURÍDICO C/C CONDENAÇÃO POR PERDAS E DANOS. COMPRA E VENDA DE IMÓVEL. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS EXORDIAIS E EXTINGUIU O FEITO, COM RESOLUÇÃO DO MÉRITO. RECURSO DA PARTE AUTORA. PLEITO DE REFORMA DA SENTENÇA AO ARGUMENTO DE QUE CABIA À RÉ PRODUZIR PROVAS ACERCA DO INADIMPLEMENTO DO AUTOR, UMA VEZ QUE JÁ TERIA O RECORRENTE COMPROVADO A REALIZAÇÃO DO PAGAMENTO. TESE RECHAÇADA. PROVAS CONSTANTES NOS AUTOS QUE DEMONSTRAM TER O RECORRENTE REALIZADO O PAGAMENTO À TERCEIRO. NÃO COMPROVAÇÃO DE QUE O VALOR PACTUADO FOI ENTREGUE À EMPRESA RECORRIDA. ÔNUS DE COMPROVAR FATO CONSTITUTIVO DO DIREITO QUE CABE AO AUTOR (ART. 333, I, DO CPC/1973). ADEMAIS, JUNTADA EXTEMPORÂNEA DE DOCUMENTOS QUE NÃO CONSTITUEM PROVAS NOVAS. AUSÊNCIA DE JUSTO MOTIVO PARA A APRESENTAÇÃO APÓS A RÉPLICA. INAPLICABILIDADE DO ART. 435 DO CPC AO CASO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. APELO QUE DESAFIA SENTENÇA PUBLICADA NA VIGÊNCIA DO CPC/1973. DESCABIMENTO DA FIXAÇÃO NO CASO. RECURSO CONHECIDO E DESPROVIDO" (fl. 438, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 462, e-STJ).
+No recurso especial, o recorrente aponta dissídio jurisprudencial em relação ao art. 309 do Código Civil.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal estadual, ao analisar a controvérsia, consignou:
+"(..)não vislumbro a hipótese de, em caso de tais provas terem sido apresentadas em tempo hábil, se admitir a possibilidade de ter o apelante realizado o pagamento a credor putativo, a teor do art. 309, do Código Civil.
+Isso porque, o recorrente sabia estar realizando uma compra e venda com a apelada Vicenzi e Gadotti Ltda. Me. e, no entanto, não tomou as precauções necessárias ao realizar o pagamento, tendo-o feito diretamente ao corretor de imóveis, o qual assinou um recibo em nome da apelada como se possuísse procuração para tanto, o que, em audiência, afirmou não possuir.
+Assim sendo, tendo em vista que o apelante realizou pagamento à terceiro, o qual sabia não ser o credor dos valores devidos, não há que se falar na possibilidade de se admitir o pagamento à credor putativo na hipótese" (fl. 444, e-STJ - grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Anota-se, ainda, que a necessidadede reexamede questõesfáticas prejudica a análise de matéria indicada emdissídio jurisprudencial.
+A propósito:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 489 DO CPC/2015. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 112 DO CTN. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. OFENSA À INSTRUÇAO NORMATIVA, PORTARIA E RESOLUÇÃO. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. SÚMULA N. 518/STJ. VIOLAÇÃO AOS ARTS. 5º, II, E 37 DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. HIGIDEZ DA CONDUTA DAS AUTORIDADES ALFANDEGÁRIAS E MÁ-FE DA RECORRENTE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+IV - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+V - In casu, rever o entendimento do tribunal de origem, o qual reconheceu a higidez na atuação das autoridades alfandegária e a ocorrência de má-fé por parte da Recorrente, ora Agravante, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+VI - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 1.970.949/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022 - grifou-se.)
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista não ter havido condenaçãona origem.
+Publique-se.
+Intimem-se.
