@@ -1,0 +1,28 @@
+DECISÃO
+JOÃO NASCIMENTO DE CARVALHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 5ª Região.
+A defesa aduz constrangimento ilegal pela violação dos princípios da proporcionalidade, da razoabilidade e da individualização da pena ao exacerbarem a reprimenda acima do mínimo legal.
+O parecer do MPF é pelo não conhecimento ou pela denegação da ordem (fls. 1.175-1.182).
+Decido.
+Infere-se dos autos que o paciente foi condenado pela prática do delito previsto no art. 1º, I, do Decreto-Lei n. 201/1967, à pena de 3 anos e 3 meses de reclusão. O TRF5 negou provimento à apelação da defesa, fixada aos seguintes fundamentos:
+ ..
+Quanto à culpabilidade do réu, expressada pela reprovabilidade de sua conduta, tenho por considerar com alto grau de reprovabilidade social a conduta do réu, vez que desviou recursos provenientes do Fundeb, destinados precipuamente à garantia do acesso à educação de qualidade, direito social fundamental (art. 205, da Constituição Federal). Circunstância desfavorável.
+Quanto aos antecedentes, esclareço que, embora remetidos os expedientes necessários aos órgãos de praxe (id. 4058307.9980844), não há notícia, até o presente, de seu retorno. Desta forma, impende considerar que o acusado não é portador de maus antecedentes.
+Afere-se a conduta social do réu pela caracterização dos diversos papéis que desempenha na comunidade que integra. No caso, não há maiores informações sobre a conduta social do réu. Circunstância neutra.
+A personalidade do agente, por sua vez, é delineada pela reunião de elementos hereditários e socioambientais. No caso, não há maiores informações sobre a personalidade do réu. Circunstância neutra.
+A motivação do agente. O denunciado não alegou motivos para o cometimento do crime, fato que leva a crer que o motivo do crime foi o auferimento de vantagem econômica, contudo, tal motivo é ínsito ao tipo penal. Circunstância neutra.
+No que concerne às circunstâncias do crime, tenho por considerá-las atávicas ao tipo. Circunstância neutra.
+Quanto às consequências do crime, tenho que foram normais à espécie, tendo em vista que os valores desviados (R$ 84.671,80 - fl. 1879 do Processo TCE nº 1230162-0) correspondem a cerca de 15% do valor total do contrato. Circunstância neutra.
+Quanto ao comportamento da vítima, nada há que possa ser considerado como provocação da ação criminosa. Circunstância neutra.
+Assim, considerando o intervalo previsto entre as penas mínima e máxima cominadas ao delito em tela, bem como que das oito circunstâncias judiciais em análise uma foi considerada como desfavorável, fixo a pena base em reclusão de 03 (três) anos e 03 (três) meses (fl. 88-89, grifei).
+Em apelação, a Corte federal negou provimento ao recurso, nos seguintes termos:
+Quanto ao crime do art. 1º, I, do Decreto-Lei 201/67, igualmente válida a consideração de ser grave a culpabilidade, única circunstância tida como desfavorável para ambos os acusados, pois os réus agiram em prática extraordinária aos limites da competência de que dispunham perante a execução do Contrato nº 002/2012 - CPL/PMJN, com recursos advindos do FUNDEB.
+Ante a ausência de recurso da acusação, mantém-se as demais circunstâncias judiciais como tendo sido neutras.
+Considerando o intervalo previsto entre as penas mínima e máxima cominadas ao delito em tela, bem como que das oito circunstâncias judiciais em análise, e tendo sido apenas uma considerada como desfavorável, o juiz sentenciante fixou a pena base em reclusão de 03 (três) anos e três meses.
+Como cediço, a dosimetria é matéria que goza de certa discricionariedade pela magistrado, que deve, em sede recursal, aferir suas ilegalidades e/ou discrepâncias no caso concreto.
+Embora não haja nenhuma regra rígida para o incremento de 1/8 (um oitavo) por circunstância judicial desfavorável, no caso concreto, o juiz sentenciante albergou o critério adotado pelos Tribunais Superiores, que repousa numa situação prática e simples, que tem resultado a partir da obtenção do intervalo da pena prevista em abstrato ao tipo (máximo - mínimo), devendo, em seguida, ser encontrada sua oitava parte (1/8), ou seja, dividir o resultado obtido por 8 (oito), em vista de ser este o número de circunstâncias judiciais previstas no artigo 59, do Código Penal.
+A pena em abstrato prevista para o crime do Artigo 1º, inciso I , do Decreto-Lei 201/67 é de 02 a 12anos, tendo a sentença considerado como patamar mínimo 02 anos de reclusão, aumentando do incremento de 1/8 (=01 ano e 03 meses), em face de uma circunstância desfavorável, o que redundou a pena-base em 03 anos e 03 meses em regime aberto, operando a substituição da pena privativa de liberdade por restritivas de direitos.
+Inexistiu qualquer ilegalidade quanto à dosimetria, tendo a sentença seguido um direcionamento coerente, que também se confirma (fl. 142, destaquei).
+De acordo com as informações prestadas pelo Tribunal federal, em 15/3/2021 a defesa interpôs embargos de declaração apontando omissão no acórdão quanto à análise da tese defensiva para "afastar a indevida valoração da circunstância judicial da culpabilidade, mormente porque o suposto desvio constitui circunstância inerente ao tipo penal (existência de inovação recursal)" (fl. 178). Ainda, informou que os autos se encontravam conclusos, aguardando a oportunidade para inclusão em pauta.
+Dessa forma, verifica-se que a alegada tese quanto à valoração da culpabilidade para aumento da reprimenda-base não foi objeto de análise pelo TRF5, o que impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
