@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Banco Santander Brasil S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 844):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE - TUTELA DE URGÊNCIA - ARTIGO 300 DO CÓDIGO DE PROCESSO CIVIL - REQUISITOS AUTORIZADORES NÃO PRESENTES - RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 856-859).
+Em suas razões de recurso especial (e-STJ, fls. 862-898), oagravante alegou violação aos arts. 300, 311, 558, 561, 562 e 1.022 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito da questão suscitada nos aclaratórios, imprescindível para a solução da controvérsia, qual seja de preenchimentodos requisitos necessários para a concessão da tutela de urgência.
+Defendeu, no mais, que estão presentes os requisitos necessários para a concessão da tutela de urgência, sendo devido o deferimento da liminar de reintegração de posse.
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.008-1.038).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 1.167-1.183).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito do ora agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TÍTULO DE CRÉDITO. PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem asseverou que: (i) o título levado a apontamento estava quitado, (ii) a nota fiscal estava em nome da recorrente, (iii) apesar da cessão do crédito a terceiros, a duplicata foi emitida após tal contratação, e (iv) a certidão de protesto comprova que a recorrente não é parte estranha à lide.Desse modo, concluiu a Corte local que a "inserção, de forma indevida, gera automaticamente o constrangimento ao consumidor, pois atribui a pecha de mau pagador àquele que, até prova em contrário, honra seus compromissos financeiros e negociais pontualmente".
+Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa - independentemente de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1679481/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Ao analisar a questão jurídica dos autos, o TJSP concluiu o seguinte (e-STJ, fl. 825):
+A medida excepcional requerida em primeira instância, nos termos do artigo 300, do CPC, funda-se na probabilidade da existência do direito invocado, com base em elementos capazes de convencer o juiz de suas alegações e da necessidade de concedê-la ante o perigo de dano e risco ao resultado útil do processo.
+Como asseverou o juiz de primeiro grau: "A probabilidade do direito se encontra presente ante a relação entre as partes e a notificação entregue. Já a urgência, segundo alegação do requerente, estaria configurada pelas propostas que o requerente "possui outras empresas parceiras interessadas em prestar serviços nos locais" (fls. 10), contudo, não há indício de prova neste sentido. Ademais, a própria parte requerente afirma que há dez anos a requerida realiza manobras para não deixar o local, não sendo tomada providência até o momento. não se justificando o deferimento da liminar."
+De fato, a planilha acostada aos autos (fls. 355/357 do processo digital de primeiro grau), por si só, não é capaz de demonstrar o interesse de empresas parceiras interessadas em prestar serviços ao banco Agravante, não atendendo às exigências do dispositivo legal.
+Assim sendo, o Agravante não comprovou a presença de ambos os requisitos exigidos pela lei para a decretação da medida antecipatória.
+Com efeito, tendo em vista o pressuposto constitucional de esgotamento de instância, afigura-se incabível, em regra, o recurso especial contra decisão que examina pedido de tutela de urgência, ante sua precariedade.
+Tal posicionamento é cristalizado no enunciado n. 735 da Súmula do Supremo Tribunal Federal, segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar";in totumaplicável, por analogia, aos recursos especiais e,contrario sensu, também para as decisões que indeferem pedido liminar.
+Nesse contexto, a precariedade da decisão liminar, de fato, não autoriza a interposição do apelo especial.
+Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado estadual implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula 7 deste Tribunal.
+Ilustrativamente:
+AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. DOIS RECURSOS INTERPOSTOS POR UM DOS AGRAVANTES CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. REINTEGRAÇÃO DE POSSE DE IMÓVEL RURAL. DEFERIMENTO DE MEDIDA LIMINAR. REVISÃO. SÚMULAS 7 DO STJ E 735/STF.
+1. Revela-se defeso a interposição simultânea de dois agravos internos pela parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que reclama o não conhecimento da segunda insurgência.
+2. "Não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF).
+3. Ademais, para alterar a conclusão do Tribunal de origem, que manteve o deferimento da liminar, seria imprescindível o revolvimento do contexto fático-probatório dos autos, o que se revela inviável em sede de recurso especial ante o óbice da Súmula n. 7/STJ.
+4. Agravo interno de fls. 320-326 conhecido apenas em relação ao agravante Julio Cesar Irineu Brito e não provido.
+(AgInt no AREsp 1.772.012/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2021, DJe 19/05/2021)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPS/2015. AUSÊNCIA DE VIOLAÇÃO. CONCESSÃO DE LIMINAR. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 735/STF. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
