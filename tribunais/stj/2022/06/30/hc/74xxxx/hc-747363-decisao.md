@@ -1,0 +1,16 @@
+DECISÃO
+JADER DOS SANTOS LACERDAalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n. 2055356-77.2022.8.26.0000.
+Nesta Corte, a defesa postula a concessão de liberdade provisória ao réu, por considerar inidônea a motivação exarada para converter a prisão em flagrante, pela suposta prática do crime de furto qualificado, em custódia preventiva.
+A decisão que convolou o flagrante em prisão cautelar registra que (fls. 15-16, grifei):
+Ao que consta, policiais militares receberam a notícia de um furto residencial em andamento, sendo certo que, ao chegarem no local, surpreenderam o autuado no telhado, deixando o imóvel na posse de vários objetos. Os policiais constataram, ainda, que uma janela havia sido arrombada, bem como parte da cobertura destelhada. Conforme relatado pelo filho do proprietário do imóvel, a casa está desabitada, porém possui móveis e utensílios, tendo os objetos subtraídos sido reconhecidos por ele.
+Observo que, embora o crime não tenha sido praticado mediante violência ou grave ameaça à pessoa, no caso específico dos autos, se faz necessária a conversão do flagrante em preventiva.
+De fato, verifica-se que o autuado não comprovou o exercício de atividade lícita e ainda não respondeu qualquer das perguntas formuladas pela Autoridade Policial (fls. 6). Não bastasse, conforme fls. 39/49, ostenta maus antecedentes e se apresenta como reincidente, inclusive específico, tendo progredido de regime recentemente (22 de outubro de 2021 - fls.49). Assim, é grande a probabilidade de que, em liberdade, volte a praticar crimes contra o patrimônio, bem como frustre eventual citação e até mesmo a aplicação da lei penal, em havendo condenação.
+A segregação preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, considero suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do paciente, por evidenciarem o risco de reiteração delitiva, visto que, além de ser reincidente específico e ostentar maus antecedentes, estava em cumprimento de pena mo momento da suposta prática ilícita, circunstâncias idôneas, nos termos da jurisprudência do STJ, para lastrear a imposição da cautela extrema. A propósito:
+ ..
+3. Segundo reiteradas manifestações deste Superior Tribunal, a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ.
+ ..
+7. Recurso ordinário desprovido.
+(RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/4/2019, grifei)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
