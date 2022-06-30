@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão em que, ao interpretar o disposto no art. 231 da Constituição Federal,o Tribunal de origemreconheceu o direito à indenização por desapropriação indireta, ainda que se cuide de terratradicionalmente ocupadapelos índios.
+Passo a decidir.
+O Plenário do Supremo Tribunal Federal, em 25/02/2019, por unanimidade de votos, nos autos do RE 1.017.366/DF, reconheceu a existência de repercussão geral da matéria relativa à definição do estatuto jurídico-constitucional das relações de posse das áreas de tradicional ocupação indígena, com base nas regras estabelecidas no art. 231 da Constituição Federal.
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem,com a respectiva baixa, para que, após a publicação do acórdão a ser
+proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
