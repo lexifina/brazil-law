@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.ART. 1.025 DO CPC/2015. INAPLICABILIDADE.SÚMULA 284 DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL.
+1. O Superior Tribunal de Justiça entende ser inviável o conhecimento do recurso especial quando os dispositivos tidos por violados não foram apreciados pelo Tribunal de origem, a despeito da oposição de embargos de declaração, haja vista a ausência do requisito do prequestionamento. Logo, incide a Súmula n. 211/STJ.
+2. "Ressalte-se que, de acordo com o entendimento reiterado do STJ, o reconhecimento do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, demanda não apenas a prévia oposição de embargos declaratórios contra o acórdão supostamente omisso, contraditório ou obscuro, mas também a indicação expressa, no bojo das razões do recurso especial, da afronta ao art. 1.022 do CPC/2015"(AgInt no REsp n. 1.840.495/RS, relator MinistroFrancisco Falcão, Segunda Turma, julgado em 29/6/2020, DJe de 1º/7/2020).
+3.Os arts. 497 e 506 CPC/2015 e 142 CTNnão possuem comando normativo suficiente para impugnar o fundamento do acórdão recorrido de que "não é possível a cumulação, no polo passivo do Mandado de Segurança, de autoridades impetradas com sede funcionais distintas" (e-STJ, fl. 193). Ocorre que não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida, em face do óbice contido na Súmula 284 do STF.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno apresentado contra decisão queconheceu do agravo para não conhecer dorecurso especial.
+Em suas razões recursais, a parteagravantedefendeque seria inaplicável ao caso oóbicedaausência de prequestionamento, ao argumento de que teria buscado a manifestação sobre os pontos alegados no recurso especialdesde a interposição do agravo de instrumento. Assevera que o Tribunal de origem, ao analisar os embargos de declaração,teria consignado que estariam devidamente prequestionados todos os fundamentos da empresa contribuinte.
+No contexto, ainda aponta a necessidade de aplicação do art. 1.025 do CPCuma vez quehavendo omissão, a simples interposição dos embargos de declaração já seria suficiente para prequestionar a matéria.
+Seinsurge contra a incidência da Súmula 284 do STF apontando que "não há o que se falar em ausência ou deficiência de fundamentação na formulação do Recurso Especial, pois a controvérsia é evidente por violação do art. 497, do art. 506, ambos do Código de Processo Civil e o do art. 142, do Código Tributário Nacional, bem elucidados no Recurso Especial" (e-STJ, fl. 352).
+Aduz, ainda, que teria sido reconhecido vícioformal na decisão que inadmitiu o recurso especial pelo Tribunal de origem, logo seria facultado ao "Agravante a possibilidade de corrigir o vício no prazo razoável que lhe for assinalado" (e-STJ, fl. 357).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.ART. 1.025 DO CPC/2015. INAPLICABILIDADE.SÚMULA 284 DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL.
+1. O Superior Tribunal de Justiça entende ser inviável o conhecimento do recurso especial quando os dispositivos tidos por violados não foram apreciados pelo Tribunal de origem, a despeito da oposição de embargos de declaração, haja vista a ausência do requisito do prequestionamento. Logo, incide a Súmula n. 211/STJ.
+2. "Ressalte-se que, de acordo com o entendimento reiterado do STJ, o reconhecimento do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, demanda não apenas a prévia oposição de embargos declaratórios contra o acórdão supostamente omisso, contraditório ou obscuro, mas também a indicação expressa, no bojo das razões do recurso especial, da afronta ao art. 1.022 do CPC/2015"(AgInt no REsp n. 1.840.495/RS, relator MinistroFrancisco Falcão, Segunda Turma, julgado em 29/6/2020, DJe de 1º/7/2020).
+3.Os arts. 497 e 506 CPC/2015 e 142 CTNnão possuem comando normativo suficiente para impugnar o fundamento do acórdão recorrido de que "não é possível a cumulação, no polo passivo do Mandado de Segurança, de autoridades impetradas com sede funcionais distintas" (e-STJ, fl. 193). Ocorre que não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida, em face do óbice contido na Súmula 284 do STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+Inicialmente, como consignado na decisão inaugural,verifica-se que os arts.497 e 506 CPC/2015 e 142 CTNe as teses a eles vinculadas não foram objeto de debate e deliberação pela Corte de origem, nem mesmo implicitamente, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria,aplicando, desse modo, a orientação firmada na Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA. REMUNERAÇÃO DOS EMPREGADOS. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A indicada afronta do art. 458 do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+ ..
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.583.885/DF, relator MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/5/2016, DJede 1º/6/2016).
+Ademais, despeito da alegação de que o Tribunal de origem teria reconhecido o prequestionamento das teses ao apreciar os embargos de declaração, o STJ possui o entendimento de que"para que se configure o prequestionamento,não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou nãoao caso concreto" (AgInt no AREsp n. 1.064.761/PE, relatora MinistraAssusete Magalhães, Segunda Turma, DJe de 24/10/2017).
+No ponto:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CDC. REPETIÇÃO DE INDÉBITO. COBRANÇA INDEVIDA. OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não tendo o Tribunal de origem emitido nenhum juízo de valor acerca do dispositivo legal tido por violado no acórdão recorrido, no que concerne à legalidade da cobrança com base na tarifa mínima e na tarifa progressiva, resta ausente seu necessário prequestionamento, incidindo na espécie as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo não provido.
+(AgRg no AREsp n. 266.103/RJ, relator Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 12/3/2013, DJe de 20/3/2013).
+Ainda, inaplicável o art. 1.025 do CPC ao caso, como pretendeaparteagravante, porquantoesta Casa de Justiça possui a orientação de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de Lei" (REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. PIS/COFINS. ÓBICES AO CONHECIMENTO DO RECURSO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. DEFICIÊNCIA RECURSAL. INCIDÊNCIA, POR ANALOGIA DOS ENUNCIADOS N. 283 E 284 DA SÚMULA DO STJ. NÃO COMPROVAÇÃO DA DIVERGÊNCIA. INSURGÊNCIA. ARGUMENTOS JÁ ANALISADOS NA DECISÃO MONOCRÁTICA.
+ ..
+IV - A admissão do recurso especial pressupõe o prequestionamento da matéria insculpida no dispositivo legal federal alegadamente violado, ou seja, exige que a tese recursal tenha sido objeto de efetivo pronunciamento por parte do Tribunal de origem, e não apenas de mera alusão, ainda que em embargos declaratórios; o que não ocorreu no caso em tela.
+V - Configurada a ausência do indispensável requisito do prequestionamento, impõe-se o não conhecimento do recurso especial.Incidem sobre a hipótese, por analogia, os óbices ao conhecimento recursal constantes dos enunciados das Súmulas n. 282 e n. 356, ambas do STF.
+VI - Ressalte-se que, de acordo com o entendimento reiterado do Superior Tribunal de Justiça, o reconhecimento do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, demanda não apenas a prévia oposição de embargos declaratórios contra o acórdão supostamente omisso, contraditório ou obscuro, mas também a indicação expressa, no bojo das razões do recurso especial, da afronta ao art. 1.022 do CPC/2015; providências que não foram tomadas pela parte ora recorrente. Nesse sentido, destaco os seguintes precedentes: AgInt no AREsp n. 1.394.685/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2019, DJe 25/6/2019; AgInt no AREsp n. 1.347.316/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 2/4/2019, DJe 15/4/2019.
+ ..
+XIII - Agravo interno improvido.
+(AgInt no REsp n. 1.840.495/RS, relator MinistroFRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/6/2020, DJe de 1º/7/2020).
+Logo, inviável afastar o óbice da ausência de prequestionamento.
+Ademais, ainda que superado tal óbice, tal como consignado na decisão agravada,os dispositivos legais apontados como contrariados (arts. 497 e 506 CPC/2015 e 142 CTN)não possuemcomando normativo suficiente para impugnar o fundamento do acórdão recorrido de que "não é possível a cumulação, no polo passivo do Mandado de Segurança, de autoridades impetradas com sede funcionais distintas"(e-STJ, fl. 193).
+Logo, há deficiência na fundamentação do apelo extremo, de modo que incide na espécie, por analogia, o óbice contido na Súmula 284 do Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INCIDÊNCIA. CONDOMÍNIO. TARIFA DE ÁGUA. COBRANÇA PELO CONSUMO REAL. CABIMENTO. PRAZO PRESCRICIONAL DECENAL. APLICAÇÃO. TESES FIRMADAS EM RECURSOS REPETITIVOS. MULTA. APLICAÇÃO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida, em face do óbice contido na Súmula 284 do STF.
+ ..
+5. Agravo interno desprovido com aplicação de multa.
+(AgInt no REsp n. 1.856.080/RJ,relator MinistroGURGEL DE FARIA, PRIMEIRA TURMA, julgado em 5/10/2020, DJe de 16/10/2020).
+Por fim,segundo entendimento consolidado nesta Corte o"reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada" (AgRg no AgRg no AREsp 4.236/GO, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe de 2/4/2014), o que não ocorreu no caso em análise.
+Ocorre que na decisão ora agravada conheci do agravo em recurso especialpara, posteriormente,não conhecer do recurso especial,ou seja,independentemente da inadmissão do especial pelo Tribunal de origem o apelo foiintegralmenteanalisado por este Tribunal superior.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
