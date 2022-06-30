@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WAGNER RODRIGUES ROCHA DOS SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado, como incurso nas sanções do art. 33,§ 4º, da Lei n. 11.343/2006, à pena de 2 anos e 6 meses de reclusão, em regime inicial fechado, em decorrência da apreensão de aproximadamente 299g (duzentos e noventa e nove gramas) de cocaína.
+O Tribunal de origem negou provimento ao apelo defensivo e proveu o recurso do Ministério Público, redimensionandoa pena do agravante para 5 anos de reclusão (e-STJ fls. 240/251).
+Daí o recurso especial no qual a defesa requereu a aplicação da minorante prevista no art. 33,§ 4º, da Lei de Drogas, o abrandamento do regime e a substituição da pena privativa de liberdade por restritivas de direitos.
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da dosimetria da pena, consta da sentença condenatória o seguinte(e-STJ fl. 157):
+Amparado nestes fundamentos, fixo a pena base em 05 (cinco) anos de reclusão e 500 (quinhentos) dias multa.
+Não existem atenuantes ou agravantes a serem consideradas.
+Porque primário e possuidor de bons antecedentes, não havendo indício de que pertença a organização criminosa, aplico em seu favor a causa especial de diminuição de pena do§ 4º do art. 33 da Lei 11.343/2006,e levando em conta a natureza da droga, diminuindo a reprimenda imposta em 1/2 (metade), passando a pena ao patamar de 02 (dois) ano e 06 (seis) meses de reclusão e 250 (duzentos e cinquenta) dias multa.
+Ante a ausência de outras causas gerais e especiais de diminuiçãode aumento de pena a serem consideradas, torno CONCRETA a pena aplicada o réu em relação ao crime de tráfico de drogas, em 02 (DOIS) ANO E 06 (SEIS) MESES DE RECLUSAO E 250 (DUZENTOS E CINQUENTA) DIAS-MULTA, por entender ser esta a pena bastante e suficiente para a reprovação e prevenção do crime.
+Já o Tribunal de origem consignou que (e-STJ fls. 246/249):
+Pleiteia o Ministério Público o decote da causa de diminuição, reconhecida na r. sentença, prevista no § 40, do art.33, da Lei 11.343/06.
+Razão lhe assiste.
+Nesse ponto, registro meu entendimento acerca da expressão "não se dedique às atividades criminosas", vertida no artigo 33, § 4º, da Lei nº11.343/06.
+O termo "dedicação à atividade criminosa", tal como exposto na lei, apresenta-se muito amplo e, para muitos doutrinadores, nada quer dizer.
+Segundo eles, se a pessoa possui maus antecedentes e é reincidente, pressupõe-se que se dedica a atividades criminosas; se é primário e de bons antecedentes, entende-se que está inserido nesse contexto. Dessa forma, bastaria que ficasse comprovada a primariedade, os bons antecedentes e a não participação do réu em organização criminosa para a concessão do benefício.
+Entretanto, a lei não possui palavras e expressões inúteis.
+Assim, faz-se necessária a observância do requisito, imposto pela lei, da não dedicação às atividades criminosas, ainda que de difícil análise no caso concreto.
+Com efeito, referido benefício quis atingir àqueles traficantes de "primeira viagem", que não fazem do tráfico o seu meio de vida ou que não se dedicam, com habitualidade, a quaisquer atividades criminosas.
+Ora, se considerarmos que só pelo fato de ser o tráfico de drogas um crime permanente o agente já estaria se dedicando às atividades criminosas, a previsão legislativa se tornaria inócua, vez que a nenhum condenado pelo tráfico seria possível a concessão do benefício.
+For oportuno, cito a valiosa lição de Jorge Vicente Silva:
+ ..
+No caso em questão, a dedicação à atividade criminosa está evidenciada pelas declarações dos policiais militares responsáveis pelo flagrante, os quais ressaltaram que o réu possui envolvimento ativo e habitual com o tráfico de drogas, valendo-se de seu estabelecimento comercial para guardar e comercializar entorpecentes.
+Além disso, conforme se verifica pela CAC de fls.59160, o réu responde a outra ação penal por supostamente ter realizado referida prática criminosa.
+Portanto, sendo os requisitos cumulativos e demonstrada a dedicação de Wagner Rodrigues Rocha dos Santos às atividades criminosa, se faz imperioso o decote da causa de diminuição de pena prevista no art. 33, §4º, da Lei nº 11.343106.
+Passo, pois, a reestruturação das penas:
+Tendo em vista a analise das circunstâncias judiciais do art.59, realizada pelo magistrado de primeira instância, mantenho as penas-base por ele fixadas em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Ausentes agravantes e atenuantes.
+Na terceira fase, diante do decote da minorante prevista no art. 33, § 4º , da Lei 11.343106 e não existindo outras causas modificadoras, concretizo as penas em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Razão não assiste à defesa, também, quando clama pelo abrandamento do regime prisional fixado na sentença.
+O art. 2º, §1º, da Lei de Crimes Hediondos dispõe expressamente que aspenas advindas do tráfico ilícito de entorpecentes e drogas afins serão cumpridas em regime inicialmente fechado, independentemente do quantum fixado, não sendo correta a imposição de regime diverso.
+Registro, ainda, que a declaração de inconstitucionalidade de referido dispositivo, feita em controle difuso pelo Supremo Tribunal Federal, não gera efeito vinculante e nem retira o enunciado do ordenamento jurídico, que continua em plena vigência.
+Assim, mantenho o regime prisional imposto ao réu na sentença, qual seja, o inicialmente fechado.
+Ressalto, ainda, que o réu não faz jus à substituição da pena privativa de liberdade ou ao sursis, tendo em vista o quantum final de reprimenda ser superior a 4 (quatro) anos, não preenchendo osrequisitos, previstos no art.44 e art.77, ambos do CP, para concessão de referidos benefícios.
+De leitura dos trechos supratranscritos, verifico que o entendimento adotado pelo Tribunal de origem destoa da atual orientação destaSexta Turma edo Supremo Tribunal Federal, segundo a qualinquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO.INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas. .. (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgadoda Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação.(HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônicoDJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Ademais,ofato de os policiais afirmarem que o agravantepossui envolvimento ativo e habitual com o tráfico de drogasconfigura argumento genérico e não embasado em condenações definitivas, de modo quenão serve de parâmetro para o afastamento do redutor.
+Assim, é de rigor o restabelecimentodo referido redutor no patamar de 1/2, conforme consignado pelo Juízo de primeira instância, que fundamentou a modulação da minorante na natureza do entorpecente apreendido.
+Logo, a pena do recorrente deve ser reduzida para 2 anos e 6 meses de reclusão.
+Quanto ao regime, rememoro que o Plenário do Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal). Afastou, dessa forma, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e dos delitos a eles equiparados.
+Em tal contexto, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o magistrado deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida - art. 42 da Lei n. 11.343/2006.
+No caso em análise, a natureza atrelada à quantidade de drogajustificam a imposição do regime inicial mais gravoso, qual seja, o semiaberto.
+Por derradeiro, cumpre registrar que, nos moldes da jurisprudência do Superior Tribunal de Justiça, a "circunstância concreta relacionada à quantidade, natureza e diversidade das drogas apreendidas, é motivação suficiente para impedir a substituição da pena privativa pelas restritivas de direitos" (AgRg no AREsp n. 1.060.222/MG, relatorMinistro JORGE MUSSI, QUINTA TURMA, julgado em 12/9/2017, DJe 20/9/2017).
+À vista de tais pressupostos,conheço do agravo para darparcialprovimento ao recurso especial, a fim de reduzir a reprimenda do agravante para 2anos e 6meses de reclusão,no regimeinicial semiaberto.
+Publique-se. Intimem-se.
