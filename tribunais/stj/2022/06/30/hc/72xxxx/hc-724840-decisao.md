@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de TAINARA DOS SANTOS MENDES e de EMERSON FRANCISCO ALVES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Os pacientes foram condenados, pela prática prevista no art. 35,caput,da Lei n. 11.343/2006, à pena de 3 anos e 6 meses de reclusão em regime inicial fechado.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso defensivo.
+No presentehabeas corpus, afirma a impetrante estar configurado constrangimento ilegal na fixação de regime inicial mais gravoso, nos termos das Súmulas n. 718 e 719 do STF e 440 do STJ.
+Afirma que o Tribunala quodeterminou a expedição de mandado de prisão contra os pacientes, em violação à decisão do STFnas ADCs 43,44 e 54.
+Requer o deferimento da liminar para que seja expedido contramandado de prisão. No mérito, pleiteia a concessão da ordem para que seja fixado o regime abertocom a consequente substituição da pena privativa de liberdade por restritiva de direitos.
+Às fls. 782-785,a defesa comunicaque o mandado de prisão expedido contra os pacientes foi cumprido.
+O pedido de liminar foi indeferido.
+Prestadas as informações,o Ministério Público Federal manifestou-se pelo não conhecimento dowrit, mas pela concessão da ordemde ofício.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+O pleito formulado no presentewrité dotado de plausibilidade jurídica, circunstância que autoriza a atuaçãoex officio.
+Ao fixar a pena, consignou o Juízo de origem o seguinte (fls. 826-827):
+III.8)- TAINARA DOS SANTOS MENDES: Ela é primária e não registra antecedentes. Diante disso, fixa-se a pena no mínimo legal, qual seja, três anos de reclusão, mais setecentos dias-multa. Tainara, juntamente com o esposo e corréu Emerson, enviava drogas do Estado do Mato Grosso do Sul para São Paulo, tendo por destinatário o acusado Gines. Assim, incidente a causa de aumento do art. 40, inciso V, da Lei n. 11.343/2006, eleva-se a pena na proporção deum sexto, resultando em três anos e seis meses de reclusão, mais oitocentos e dezesseis dias-multa. Não havendo outras modificadoras, tais penas são as definitivas. A exemplo do casal Ione/Wesley, também o casal Emerson/Tainara enviava grandes quantidades de droga do Mato Grosso do Sul para São Paulo, onde o corréu Gines realizava a redistribuição a outros traficantes, alimentando cadeia criminosa. Lembre-se, à propósito, que chegou a ser apreendida uma carga de nada menos do que 413 kg de maconha, enviada por Emerson e Tainara a Gines. Outrossim, ainda da mesma forma como ocorria com Ione, Tainara participava ativamente da atividade escusa junto com seu marido Émerson. Dessa forma, o regime inicial de cumprimento de pena será o fechado. O valor do dia-multa será calculado no piso mínimo.
+III.9)- EMERSON FRANCISCO ALVES: Ele é primário e não registra antecedentes. Assim, fixa-se a pena no mínimo legal, ou seja, três anos de reclusão, mais setecentos dias-multa. Presente a causa de aumento do inciso V do art. 40 da Lei n. 11.343/2006, eleva-se a pena na proporção de umsexto, resultando em três anos e seis meses de reclusão, mais oitocentos e dezesseis dias-multa. Não havendo outras modificadoras, tais penas são as definitivas. Observado o quanto exposto no item relativo a Tainara, o regime inicial de cumprimento da pena será o fechado. O valor do dia-multa será calculado no piso mínimo.
+Relativamente à fixação do regime inicial para o cumprimento de pena, cumpre ressaltar que, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deve observar a quantidade da pena aplicada, bem como a primariedade do agente e a existência das circunstâncias judiciais desfavoráveis do art. 59 do Código Penal.
+Ressalte-se ainda o enunciado da Súmula n. 440 do STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Em igual sentido, as Súmulas n. 718 e 719 do STF.
+No presente caso, os pacientes fazem jus ao regime prisional aberto, uma vez que não foram indicadascircunstâncias judiciais desfavoráveis, tratando-se de réus primários.
+Como bem ressaltado pelo Ministério Público Federal (fl. 1.465):
+Verifica-se que as penas-bases do crime para ambos os pacientes foram fixadas no mínimo legal, o que significa dizer que não houve a valoração negativa de nenhuma circunstância judicial prevista no art. 59 do Código Penal e art. 42 da Lei 11.343/06.
+Tampouco o decisum se baseou no modus operandi que tenha extrapolado o tipo penal, o que seria fundamento idôneo para a imposição de regime mais gravoso.
+Portanto, fixadas as penas-bases no mínimo legal e sendo favoráveis aos pacientes as condições pessoais, afigura-se ilegal infligir regime prisional mais gravoso - o fechado -, diante de penas corporais de 3 anos e 6 meses de reclusão, quando o cabível é o regime aberto.
+Sendo assim, os pacientes fazem jus ao regime aberto para o início do cumprimento das penas, nos termos do art. 33, § 2º, "c", do Código Penal.
+Ante o exposto,não conheço do presentehabeas corpus, mas concedo a ordem de ofício, com fundamento no art. 654, § 2º, do Código de Processo Penal, a fim dereadequar o regime inicial de cumprimento de pena para o aberto.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
