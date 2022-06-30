@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interno interposto por HELMUTH EDVINO HORST e OUTROcontra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da falta de impugnação específica dos fundamentos da decisão agravada.
+Em suas razões (fls. 1.154/1.190e-STJ), os agravantes sustentam quea r. decisão monocrática ora atacada não pode prosperar, já queimpugnaramespecificamente todos os fundamentos da decisão de admissibilidade.
+Devidamente intimada, a parte agravada não apresentou impugnação (fls.1.193/1.194e-STJ).
+DECIDO.
+A decisão agravada merece ser reconsiderada.
+Depreende-se dos autos que osagravantes, nas razões do agravo em recurso especial, refutaramespecificamente os fundamentos da decisão recorrida.
+Logo, assiste razão aosrecorrentes, motivo pelo qual se faz merecedora de reparos a decisão ora atacada.
+No apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, as recorrentes insurgem-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. ACIDENTE RENAULT COM MEGANE MORTES ENVOLVENDO VEÍCULO SD DYN PLECAS 1PV 8430 E CAMIONETE NISSAN FRONTIER 4X4 PLACAS ILJ 7575. MORTE DE PAI E MÃE. INGESTÃO DE BEBIDA ALCOÓLICA PELO CONDUTOR. ALTA VELOCIDADE. FAROIS APAGADOS. CULPA. DANOS MORAIS IN RE IPSA. VALOR DA INDENIZAÇÃO. 1.; Não SUSPENSÃO DO PROCESSO. DESNECESSIDADE. obstante a pendência da ação criminal, não há qualquer impedimento legal para o regular processamento da ação indenizatória no juízo cível, mormente porque a legislação preconiza a independência das esferas cível e penal, consoante o disposto no artigo 935 do Código Civil. Desse modo, não há razão alguma para a suspensão do processo até o julgamento definitivo na esfera penal, o que implicaria injustificável retardo na solução do litígio em prejuízo da duração razoável do processo, garantia insculpida no artigo 5 2 , inciso LXXVIII, da Constituição Federal. Precedentes do colegiado. 2. CULPA. Comprovada a existência dos elementos direção, embriaguez, velocidade excessiva e faróis apagados, restou configurado o dolo eventual na conduta do codemandado condutor da camionete Nissan Frontier, não havendo falar em culpa do pai das autoras, sendo daquele a responsabilidade exclusiva pelo acidente que vitimou os pais das autoras. 3. DANOS MORAIS IN RE IPSA. VALOR DA INDENIZAÇÃO. Embora todas as nuances avaliadas pelo julgador de piso e não se desconhecendo da necessidade de não apenas reparar o lesado, como punir e admoestar o ofensor, o valor estabelecido na origem (500 salários mínimos para cada demandante) extrapola, em muito, a média utilizada por este colegiado em situações paradigmáticas. Não há dúvidas da imensurável dor infligida às autoras e nem se busca dissertar sobre sentimentos tão profundos e individuais. De um só golpe, as duas irmãs perderam, prematura e desavisadamente, o pai e a mãe, o que não se mostra dizível em meras palavras. Mesmo assim, a situação dos autos comporta extrapolar-se, conquanto não da forma como feito na origem, o quantum indenizatório normalmente fixado por este colegiado, na ordem de 100 (cem) salários mínimos para a perda de cada parente próximo, reduzindo-se a indenização ao equivalente a 300 (trezentos) salários mínimos para cada autora, ou seja, ao equivalente a 150 (cento e cinquenta) salários mínimos para a perda de cada genitor (pai e mãe). Desta forma, cada autora, em valores atuais, receberá a quantia de R$299.400,00 (duzentos e noventa e nove mil e quatrocentos reais), correspondentes a 300 salários mínimos da atualidade, corrigida pelo IGP-M a contar do acórdão (Súmula n. 362 do STJ) e com a incidência de juros moratórios de 1% ao mês desde a data do fato (Súmula n. 54 do STJ). APELO PARCIALMENTE PROVIDO"(fls. 944/945, e-STJ).
+No recurso especial, os recorrentes, alémde divergência jurisprudencial,aponta violação dos artigos944 e 945 do Código Civil, argumentando, em síntese, que deve ser reduzida a indenização por danos morais, tendo em vista que o Tribunal de origem não observou a ausência de culpa da sucessão que não contribuiu para o acidente, sendo apenas, proprietáriado veículo e a exorbitância do valor indenizatório arbitrado, sendo que não foi consideradaa culpa da vítima pelo acidente.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à tese de ausência de culpa da sucessão, verifica-se que essa matérianão foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE RECURSAL. AGRAVO REGIMENTAL. MATÉRIA CONSTITUCIONAL. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Transcrição incorreta do nome da parte recorrente configura mero erro material, que ora se retifica, mantendo-se, contudo, o teor decisório do julgado.
+2. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+4. Ausência, nas razões de recurso especial, de indicação dos dispositivos legais tidos por violados. Incidência da Súmula 284/STF.
+5. Aplica-se a Súmula 282 do Supremo Tribunal Federal quando o Tribunal de origem não tiver emitido pronunciamento explícito ou implícito sobre a questão debatida nos autos.
+6. Embargos de declaração recebidos como agravo regimental, a que se nega
+provimento".
+(EDcl no Ag 1.160.667/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2012, DJe 29/05/2012)
+No tocante à responsabilidade pelo acidente evalor da indenização, oTribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Quanto à culpa, não há dúvidas da responsabilidade exclusiva do condutor da camionete Nissan Frontier para a produção do trágico acidente, ceifando, prematuramente, a vida dos pais das autoras, tendo o réu Helmuth Edvino sido pronunciado, julgado e condenado por crime doloso (homicídio qualificado) pelo Tribunal do Júri da Comarca de Ibirubá (fls. 676-686).
+(..)
+Dos danos morais. Quantum indenizatório.
+Embora todas as nuances avaliadas pelo julgador de piso e não se desconhecendo da necessidade de não apenas reparar o lesado, como punir e admoestar o ofensor, o valor estabelecido na origemextrapola, em muito, a média utilizada por este colegiado em situações paradigmáticas.
+Não há dúvidas da imensurável dor infligida às autoras e nem a relatora busca dissertar sobre sentimentos tão profundos e individuais. De um só golpe, as duas irmãs perderam, prematura e desavisadamente, o pai e a mãe, o que não se mostra dizível em meras palavras.
+Mesmo assim, entendo que a situação dos autos comporte extrapolar-se, conquanto não da forma como feito na origem, o quantum indenizatório normalmente fixado por este colegiado, na ordem de 100 (cem) salários mínimos para a perda de cada parente próximo, reduzindo -se a indenização ao equivalente a 300 (trezentos) salários mínimos para cada autora, ou seja, ao equivalente a 150 (cento e cinquenta) salários mínimos para a perda de cada genitor (pai e mãe).
+Desta forma, cada autora, em valores atuais, receberá a quantia de R$299.400,00 (duzentos e noventa e nove mil e quatrocentos reais), correspondentes a 300 salários mínimos da atualidade 2 , corrigida pelo IGP-M a contar do acórdão (Súmula n. 362 do STJ) e com a incidência de juros moratórios de 1% ao mês desde a data do fato (artigo 398, do Código Civil, e Súmula n. 54 do STJ)" (e-STJ fls. 954/957).
+De início, verifica-se que inviável a pretensão recursal de reduzir o valor arbitrado a título de indenização por danos morais.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que o exame do valor fixado a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Ministro João Otávio de Noronha, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Ministro Sidnei Beneti, DJe de 3/11/2008, eAgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Ministro Massami Uyeda, DJe de 20/10/2008.
+Inexistem, entretanto, tais circunstâncias no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização pelos danos morais no valor de 150 salários mínimospara cada filha por vítima.
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto na Súmula nº 7/STJ.
+Nesse sentido:
+"RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MORTE DOS PAIS E DE DE DOIS DOIS IRMÃOS EM ACIDENTE DE TRÂNSITO. DANO MORAL E PENSIONAMENTO. ALEGAÇÃO DE PEDIDO GENÉRICO. POSSIBILIDADE DE QUANTIFICAÇÃO DA PENSÃO EM SEDE DE LIQUIDAÇÃO.
+(..)
+5. Não conhecimento do recurso especial no tocante ao valor da indenização pelos danos morais, pois não indicado o dispositivo de lei federal afrontado.
+6. Inocorrência de exagero no arbitramento da indenização por danos morais pelo acórdão recorrido em R$ 200.000,00 para compensação da morte de todos os integrantes da família da autora (pai, mãe, irmão e irmã) estando, inclusive, abaixo dos valores normalmente fixados por esta Corte.
+(..)
+11. RECURSO ESPECIAL DESPROVIDO"(REsp 1.891.961/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/10/2020, DJe 18/12/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE ÔNIBUS. MORTE DE PASSAGEIRO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DEPOIMENTOS. FUNDAMENTO DA DECISÃO. AUSÊNCIA DE PREQUESTIONAMENTO. FORTUITO. REEXAME DE CONTEÚDO FÁTICO PROBATÓRIO. SÚMULA N. 7/STJ. DANOS MORAIS. VALOR. TERMO INICIAL DOS JUROS DE MORA. INEXISTÊNCIA DE OMISSÃO. DECISÃO MANTIDA.
+(..)
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+(..)
+5. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, é possível sua revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+(..)
+7. Agravo interno a que se nega provimento"(AgInt no AREsp 1.151.177/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2020, DJe 16/03/2020).
+Por fim, no tocante à responsabilidade pelo acidente, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Ante o exposto, reconsidero a decisão de fls. 1.149/1.151 (e-STJ) para, em
+novo exame, conhecer do agravo e negar provimento ao recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do CPC/2015, pois já foram fixados na origem no limite legal de20% (vinte por cento) (e-STJ fl. 852).
+Publique-se.
+Intimem-se.
