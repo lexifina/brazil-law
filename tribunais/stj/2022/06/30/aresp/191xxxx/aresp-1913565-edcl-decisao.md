@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NELY DOS SANTOS FONSECA em face de decisão desta relatoria, que conheceu do agravo para dar parcial provimento ao recurso especial.
+A embargante sustenta, em síntese, (a) omissão da decisão singular a respeito da aplicabilidade das Súmulas n. 5 e 7/STJ e (b) contradição do julgado, "na medida em que afastou a condenação em danos morais da Embargada, sendo que no mesmo julgado, entendeu por ser indevida a suspensão do plano ocorrida no caso dos autos, por falta de pagamento de co-participação" (fl. 1185).
+Impugnação às fls. 1189/1202.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+Na espécie, a embargante aponta omissão da decisão singular quanto à aplicabilidade das Súmulas n. 5 e 7/STJ, com base na seguinte fundamentação:
+"(..) o acórdão originário manteve o fator restritor limitando-o, todavia, à menor faixa contatual, justamente pelo fato de a Embargante não possuir programa de coberturas especiais o que, de fato, pelo preço do tratamento - EMERGENCIAL/ONCOLÓGICO -, tornou-se EFETIVAMENTE um fator restritor severo, na forma do artigo 2º, VII, da Resolução CONSU 15/98 tudo, repita-se, constatado com a situação FÁTICA E CONTRATUAL" (fl. 1185)
+Contudo, se bem observados os termos da decisão monocrática, nota-se que o provimento da irresignação da operadora do plano de saúde deu-se mediante a revaloração dos fatos e do conteúdo das cláusulas contratuais expressamente consignados no acórdão de 2º grau.
+Com efeito, o Tribunal de origem deixou expresso que, nos termos do ajuste celebrado entre as partes, pactuou-se o percentual de coparticipação do plano de saúde em 43,06% (quarenta e três vírgula zero seis por cento), dado que a autora não possui programa de coberturas especiais. Cita-se trecho do aresto:
+"Na hipótese, verifica-se que a autora anexou extrato das despesas médicas de abril de 2014, o qual demonstra que a ré efetuou cobrança a título de coparticipação do percentual de 43,06% (indexador 38), o que, consoante Resolução CONSU nº 15/98, de certo caracteriza "fator restritor severo ao acesso aos serviços.
+(..)
+Logo, revela-se correta a sentença ao estabelecer a revisão do contrato para redução do percentual de coparticipação a um patamar que permita a utilização efetiva do plano de saúde contratado, reduzindo-o, assim, para a menor taxa prevista no informativo de fl. 305 (indexador 305), para o beneficiário que não possui programa de coberturas especiais, como é o caso da autora, qual seja, de 14,72%." (fls. 789/790)
+Contudo, consoante apontado na decisão monocrática, é firme o entendimento do STJ de que é válida a pactuação, em contratos de plano de saúde, do dever de coparticipação do beneficiário no limite de 50% (cinquenta por cento) dos custos da operadora.
+Inexistiu, portanto, reexame de fatos ou nova interpretação das cláusulas do contrato, o que afasta a aplicação dos óbices das Súmulas 5 e 7/STJ.
+Acerca da contradição, colhem-se os fundamentos dos embargos:
+"5. Por fim, resta contraditório o julgado, ainda, na medida em que afastou a condenação em danos morais da Embargada, sendo que no mesmo julgado, entendeu por ser indevida a suspensão do plano ocorrida no caso dos autos, por falta de pagamento de co-participação, asseverando que "..a operadora não pode condicionar a continuidade do tratamento ao pagamento do débito, pois, além de o ordenamento jurídico propiciar ao credor meios ordinários capazes de promover a satisfação do débito há de se considerar o grave estado de saúde da autora, que não pode ser submetida a desvantagem exagerada, sob pena de lesão à boa-fé objetiva." (fl. 1185)
+À primeira vista, a decisão singular parece contraditória, nesse ponto, mas a solução de reconhecer a legalidade do percentual de coparticipação, vedando a interrupção dos serviços em razão da dívida de parcelas já vencidas, foi benéfica à embargante, impedindo que a operadora condicione a continuidade do tratamento de doença grave ao adimplemento de quantia vultosa.
+De rigor, portanto, a superação dessa contradição implicaria situação desvantajosa à embargante, incorrendo em reformatio in pejus.
+Ante o exposto, rejeitam-se os embargos de declaração.
+Publique-se.
