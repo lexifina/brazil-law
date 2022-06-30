@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto peloBanco do Brasil S.A.,com fundamento no art. 105, III, "a" e "c", da Constituição da República,contra acórdão do Tribunal de Justiça Estadual,assim ementado (e-STJ fls. 986-987):
+CIVIL. CONSUMIDOR. PROCESSO CIVIL. MÚTUO BANCÁRIO. DESCONTO EM FOLHA DE PAGAMENTO. COBRANÇA EXCESSIVA. MILITAR. HONORÁRIOS DE ADVOGADO.
+Ação de obrigação de fazer com o escopo de limitar os descontos automáticos de prestações de mútuos bancários celebrados pelas partes a 30% (trinta por cento) dos proventos do Autor.
+Na esteira da jurisprudência consolidada no E. Superior Tribunal de Justiça, a norma local específica não se aplica se em confronto com a orientação prevista na Lei nº 10.820/03. Nada autoriza o desconto superior a 70% (setenta por cento) da remuneração do Autor por comprometer sua subsistência.
+Nos contratos bilaterais as partes devem zelar pela boa-fé objetiva e observar o dever de mútua cooperação que necessariamente implica no ônus de ambas apurarem se é factível o pleno adimplemento das obrigações recíprocas.
+Limitar o débito automático a 30% (trinta por cento) da remuneração do Autor para satisfazer o crédito dos Réus reequilibra a correlação das obrigações e viabiliza sejam plenamente adimplidas.
+A Medida Provisória nº 2215-10 de 31/08/2001 se refere à totalidade de descontos efetuados na folha de pagamento do militar e isso não significa que o desconto efetuado pela instituição financeira pode equivaler a 70% (setenta por cento) da remuneração.
+Irrelevante a forma definida no contrato para liquidar a dívida, se por desconto em folha ou débito em conta, pois se consideram os critérios que viabilizam o reexame do negócio jurídico pela teoria da base negocial independente da forma pela qual se determina a obrigação de um dos contratantes. Importa, na espécie, envidar esforços para recuperar a possibilidade de adimplemento.
+A parte vencida na lide responde pelos ônus da sucumbência na forma do artigo 85 do Código de Processo Civil.
+Recursos desprovidos.
+Nas razões do recurso especial orecorrente aponta, além de divergência jurisprudencial, violação dos arts. 1º, 2º, § 2º, da Lei 10.820/2003 e 313 e 314do Código Civil,sob os argumentos de que:
+a) "o limite de 30% previsto na lei somente é válida para empréstimos consignados de empregados regidos pelo regime CLT" (e-STJ fl. 998); e
+b)a limitação do "desconto dos empréstimos contraídos pela parte autora em 30% dos valores dos proventos recebidos, implicará negativa de vigência das cláusulas dos contratos que previram a forma de pagamento via desconto em conta corrente e determinaram os valores das prestações" (e-STJ fl. 1.002).
+Contrarrazões apresentadas (e-STJ fls. 1.026-1.045).
+Juízo positivo de admissibilidade às e-STJ fls. 1.050-1.054.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+O recurso não merece prosperar.
+No que diz respeito aos arts. 1º, 2º, § 2º, da Lei 10.820/2003 e 313 e 314 do Código Civil (e as teses a eles vinculadas), verifica-se que não houve juízo de valor por parte da Corte de origem sobre omesmo,o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que sequer foram interpostos embargos de declaração para que referida matéria fosse apreciada pelo Tribunal a quo.
+Ademais, a Corte de origem decidiu a controvérsia sob os seguintes fundamentos (e-STJ fls. 989-990):
+As cláusulas contratuais são interpretadas da maneira mais favorável ao consumidor, como prevê o artigo 47 do Código de Defesa do Consumidor. Além disso, a função social do contrato importa em criar mecanismos capazes de viabilizar a plena execução das obrigações nele contidas, o que também autoriza a redução do débito automático.
+A garantia ao limite de desconto mediante débito automático no salário da Apelante restabelece o equilíbrio das obrigações recíprocas contratadas pelas partes e em consequência viabiliza sejam plenamente adimplidas.
+O desconto desmedido afeta a subsistência do Apelado por alcançar significativa parcela de sua renda, e a impossibilidade de efetuar qualquer desconto também desequilibra a relação contratual, pois onera o credor ao impedir o adimplemento do devedor.
+A jurisprudência do E. Superior Tribunal de Justiça se firmou no sentido de afastar a incidência da norma local quando define percentual diverso do estabelecido na lei nº 10.820/03.
+Assim, impõe-se a limitação dos descontos em folha de pagamento em 30% (trinta por cento) dos ganhos mensais do Apelado, certo que os descontos informados a fls.11(pasta 8) evidenciam o excesso praticado.
+Os Apelantes celebraram o negócio jurídico, concederam os empréstimos e definiram o valor das prestações, por isso têm condições de ajustar o desconto da prestação ao comando judicial.
+A Medida Provisória nº 2215-10 de 31/08/2001 previu no artigo 14, § 3º, que "na aplicação dos descontos, o militar não pode receber quantia inferior a trinta por cento da sua remuneração ou proventos". Evidente que o preceito se refere a todos os descontos nos vencimentos do servidor, de modo que não prospera a tese no sentido de ser este o limite para o mútuo consignado. Há de se considerar precipuamente o direito do consumidor em receber vencimentos de forma a viabilizar seu sustento, o que não é possível com o patamar excessivo dos descontos efetuados.
+Como revela o documento de fls. 11 (pasta 8), o Apelante recebe R$3.175,20 (três mil, cento e setenta e cinco reais e vinte centavos) com vencimentos líquidos de R$1.097,54 (mil e noventa e sete reais e cinquenta quatro centavos), motivo por que não pode sofrer desconto mensal capaz de comprometer mais da metade de sua renda mensal.
+Os Apelantes concederam os empréstimos e definiram o valor das prestações, por isso têm condições de ajustar o desconto da prestação ao comando judicial.
+Tanto no empréstimo consignado como no débito automático a questão de fundo é a mesma, o superendividamento do consumidor que provoca o comprometimento de parcela substancial de sua renda mensal. O dever de cooperação e a boa-fé objetiva nos negócios jurídicos bilaterais é essencial, pois viabiliza o regular adimplemento das obrigações recíprocas.
+Ou seja, a adoção de critérios que permitem o reexame do negócio jurídico pela teoria da base negocial independe da forma pela qual se determina a obrigação deum dos contratantes. Importa, na espécie, envidar esforços para recuperar a possibilidade de adimplemento da obrigação.
+Não é razoável admitir a privação da renda mensal pelo desconto em conta corrente da dívida bancária porque também compromete o sustento do consumidor como orienta a jurisprudência deste E. Tribunal de Justiça, inclusive editadas as Súmulas 200, 205 e 295 relacionadas a matéria.
+Entretanto, a parte recorrente deixou de impugnar referidos fundamentos, que sãosuficientes para manterem o acórdão recorrido.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, nãoconheçodo recurso especial.
+Majoro em 15% (quinze por cento) os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.MÚTUO BANCÁRIO. DESCONTO EM FOLHA DE PAGAMENTO. COBRANÇA EXCESSIVA.AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULA 282/STF. RECURSO NÃOCONHECIDO.
