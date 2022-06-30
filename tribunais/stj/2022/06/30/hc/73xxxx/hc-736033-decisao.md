@@ -1,0 +1,17 @@
+DECISÃO
+JORGE ANTONIO DE CASTROalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado do Rio Grande do Sulno HC n. 5014562-50.2022.8.21.7000.
+Nesta Corte, a defesa postula aconcessão de liberdade provisória ao réu, por considerar insuficientes os motivos adotados para convolar sua prisão em flagrante, pela suposta prática do crime de tráfico de drogas, em custódia preventiva.
+Odecisumproferido pelo Juízo de primeiro grau registra que(fls. 810-811, destaquei):
+ ..  os indiciados foram abordados com uma relevante quantidade de substância entorpecente (1kg JORGE e 9k PRISCILLA). O modus operandi deflagrado pelas autoridades policiais dá conta de os indiciados poderem estar envolvidos com pessoas habituadas ao comércio de drogas, não podendo ser descartada a possibilidade de serem integrantes ativos de organização criminosa voltada para a traficância local. Pela relevante quantidade de droga e ao fato do agir conjunto dos autuados, ainda não havendo elementos para indicar tratarem JORGE e PRISCILLA de meros traficantes habituais.
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313, 315 e 282, I e II, do Código de Processo Penal, com as alterações dispostas pela Lei n. 13.964/2019.
+Na hipótese, são idôneas as razões elencadas pelo Juízo singular para impor a cautela extrema, por evidenciarem a gravidade concreta da conduta criminosa, ao destacar o modus operandido tráfico de drogas, sobretudo pelo agir em conjunto dos autuaods e pela apreensão de expressiva quantidade de entorpecente - ao todo, mais de 10 kg de maconha (dos quais cerca 1 kg estava em poder do ora paciente).
+Consoante a jurisprudência desta Corte Superior, o montante de droga a apreendida e outras circunstâncias indicativas da periculosidade do autuado constituem motivos idôneos para a imposição da cautela extrema, bem como para negar a substituição por medidas menos gravosas. A propósito:
+ ..
+A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, o paciente foi flagrado com elevada quantidade de substância entorpecente (5kg de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedente).
+Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e  ..
+8. Ordem denegada.
+(HC n. 691.441/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 26/4/2022)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
