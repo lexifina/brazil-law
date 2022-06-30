@@ -1,0 +1,21 @@
+DECISÃO
+Vinicius Alves Paulino interpõe este recurso contra o acórdão do Tribunal de Justiça de Minas Gerais, que não conheceu do HC n. 1.0000.21.011124-1/000 - em razão da impossibilidade de avaliação de requisitos de ordem objetiva e subjetiva em sede de habeas corpus, bem como da ausência de documentaçãosuficientepara a análise do alegado constrangimento ilegal -, mediante os fundamentos sintetizados nesta ementa (fl. 57):
+EMENTA: HABEAS CORPUS - EXECUÇÃO DA PENA EM REGIME FECHADO - INCIDENTES DA EXECUÇÃO - IMPOSSIBILIDADE - NECESSIDADE DE AVALIAÇÃO DE REQUISITOS DE ORDEM SUBJETIVA - VIA ESTREITA DO WRIT - AUSÊNCIA DE DOCUMENTAÇÃO - NÃO CONHECIMENTO.
+- Malgrado entenda ser possível o manejo do writ sempre que houver lesão ou perigo de lesão ao direito ambulatorial do paciente, mesmo em caso de execução penal, desde que não seja necessário, evidentemente, o exame aprofundado do conjunto fático-probatório.
+- Para a concessão dos benefícios de execução, é imprescindível a constatação do preenchimento de requisitos de ordem objetiva e subjetiva por parte do paciente, demandando, deste modo, o revolvimento de matéria probatória, o que não é possível na via estreita do writ.
+- O Habeas Corpus não comporta dilação probatória, devendo, portanto, a prova ser pré-constituída, incumbindo ao impetrante o ônus de comprovar os fatos alegados. A ausência de instrução da inicial com cópias de documentos necessários à análise impede o conhecimento do writ.
+Argumenta, em suma, possuir o direito líquido e certo de saída temporária ou cumprir a pena em regime domiciliar, não tendo sido respeitado o disposto na Súmula Vinculante 56/STF e nas Súmulas 718 e 719/STF (fls. 73/74).
+Assevera que está cumprindo pena mais grave do que determina a lei (fl. 75)e que o caso não necessita de dilação probatória, visto que o que se discute é se o preso em semiaberto tem de cumprir a Pena em regime Fechado, ou se na falta deste deve cumprir domiciliar (fl. 76).
+Requer, em liminar e no mérito, a revogação de imediato da prisão preventiva decretada, com expedição de alvará de soltura em seu favor (fl. 116).
+Liminar indeferida (fls. 134/135).
+Informações prestadas (fls. 138/139 e 151/160), o Ministério Público Federal ofereceu parecer pelo desprovimento do recurso (fls. 164/169).
+É o relatório.
+Não verifico flagranteilegalidade.
+Ao prestar as informaçõesaqui solicitadas, o Juízo da execução afirmou quea maioria dos sentenciados recolhidos em regime semiaberto no presídio de Alfenas tem oportunidade de realizar atividades internas, nos moldes legais (artigo 33, §1º, alínea "b", do Código Penal, e artigo 91, da Lei de Execução Penal), dentre elas o trabalho na horta, nas oficinas, na faxina, na lavanderia e nas duas grandes construções em curso, uma delas de ampliação da unidade prisional para mais que o dobro da capacidade atual (declarada), assim como as atividades escolares promovidas pela Secretaria Estadual de Educação e através de valiosa contribuição da Universidade Federal de Alfenas - UNIFAL(fl. 152).
+Com efeito, esta Corte entende que,se o resgate da reprimenda ocorre em local similar, garantidos osbenefíciospróprios do regime de cumprimento da pena, não há configuração de constrangimento ilegal, pois o apenado não se encontra sujeito a regime mais gravoso(AgRg no HC n. 405.492/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/4/2019). Ainda nesse sentido:AgRg no HC n. 696.782/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2021.
+Como bem afirmou oSubprocurador-Geral da RepúblicaCarlosFrederico Santos em seu parecer,no caso concreto, o recorrente obteve a progressão para o regime semiaberto recentemente e, muito embora afetado com a suspensão temporária de parte das atividades em virtude da pandemia do coronavírus, cumpre pena no referido modo de execução intermediário (e-STJ Fl. 152), não se constatando, portanto, o descumprimento da Súmula Vinculante 56/STF. (fl. 169).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO CUMPRIDO EM ESTABELECIMENTO QUE ASSEGURA OS BENEFÍCIOS DO REGIME INTERMEDIÁRIO. AUSÊNCIA DE FLAGRANTECONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO.
+Recurso improvido.
