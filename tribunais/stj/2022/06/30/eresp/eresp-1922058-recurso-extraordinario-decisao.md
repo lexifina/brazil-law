@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por JOÃO ALBERTO PIZZOLATTI JÚNIOR,com fundamento no art. 102, III, a, da Constituição Federal,contra acórdão do Superior Tribunal de Justiça,assim ementado(e-STJ fl. 798):
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. DIVERGÊNCIA NÃO DEMONSTRADA. ACIDENTE DE TRÂNSITO. HOMICÍDIO. DOLO EVENTUAL. INEXISTÊNCIA DE SIMILITUDE. AGRAVO NÃO PROVIDO.
+1. A adequada comprovação da divergência exige que os acórdãos em confronto partam de quadros fáticos semelhantes e os posicionamentos jurídicos sejam dissonantes quanto ao direito federal aplicável. Por isso, não se reconhece o preenchimento do requisito da divergência quando não há similitude fática entre o acórdão paradigma e o caso concreto.
+2. Condutor que, além de embriagado, trafegava com veículo em zigue-zague, na contramão e, segundo o acórdão local, em "alta velocidade". Inexistência de similitude com acórdão paradigma, no qual o condutor estava apenas embriagado e dirigia "um pouco acima da velocidade da via".
+3. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados, nos seguintes termos (e-STJ fl. 821):
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES TAXATIVAS DE CABIMENTO. NÃO VERIFICAÇÃO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada.
+2. No caso concreto, não se verifica nenhum desses vícios autorizadores da oposição dos aclaratórios.
+3. Embargos de declaração rejeitados.
+Sustentaorecorrentea existência de repercussão geral da questão tratada, com a violação aos arts. 5º, XXXV, e 93, IX, da Constituição Federal.
+Aponta anegativa de prestação jurisdicional, uma vez que "a r. decisão agravada deixou de enfrentar toda a argumentação lançada, quando da interposição recursal, pelo contrário, valeu-se de argumentação amplamente genérica e que em nada corresponde à realidade do agravo interposto" (e-STJ fl. 837).
+Afirma que é evidente o dissenso entre as turmas desta Corte, pois"ambos os acórdãos tratam sobre a desclassificação do homicídio com dolo eventual no trânsito para a outro delito na modalidade culposa, e na desnecessidade do caso à submissão ao julgamento do tribunal do júri, quando não verificado nos autos elementos suficientes a atribuir ao agente o animus necandi ou a assunção do risco de matar" (e-STJ fl. 840).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 852-857.
+É o relatório.
+Ao interpretar o art. 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais o agravo regimental foi desprovido, valendo destacar o seguinte excerto (e-STJ fls. 802-803):
+Inicialmente, ressalte-se que, para a comprovação da divergência, devem os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotar posicionamento dissonante quanto ao direito federal aplicável. Os embargos de divergência em recurso especial, ao tempo em que solucionam a lide, têm por finalidade possibilitarem ao Superior Tribunal de Justiça que resolva a discordância existente entre seus órgãos fracionários na interpretação de lei federal, com objetivo de uniformização da jurisprudência interna corporis.
+Portanto, não se reconhece o preenchimento do requisito da divergência quando não há total similitude fática entre o acórdão paradigma e o caso concreto.
+Na hipótese, a decisão agravada salientou que, diversamente dos acórdãos paradigmas, o ora agravante, além de embriagado, trafegava com veículo de modo incompatível com a normalidade, em zigue-zague, na contramão e, segundo o acórdão local, em alta velocidade. A propósito:
+No caso, como constou do acórdão embargado, ao reporta-se aos fundamentos do voto proferido no julgamento do recurso em sentido estrito, "o material fático-probatório constante nos autos indica, sem sombra de dúvidas, que o recorrente trafegava com seu veículo, certamente em estado de embriaguez e de modo incompatível com a normalidade (zigue-zague, contramão, alta velocidade), situação que o levou a colidir com os veículos da vítimas, culminando em um grave acidente". (e-STJ, fl. 744; grifou-se).
+Como salientado na decisão agravada, fora a embriaguez, o quadro fático do acórdão paradigma nada se assemelha ao caso concreto. Confira-se a ementa do acórdão paradigma:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRONÚNCIA. EMBRIAGUEZ E VELOCIDADE ACIMA DO PERMITIDO. AUSÊNCIA DE OUTROS ELEMENTOS CAPAZES DE DEMONSTRAR A ASSUNÇÃO DO RISCO DE MATAR. DOLO EVENTUAL. NÃO DEMONSTRADO. DESCLASSIFICAÇÃO. CRIME CULPOSO. SUBMISSÃO AO TRIBUNAL DO JÚRI. IMPOSSILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULA N. 7/STJ.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, "a embriaguez, por si só, sem outros elementos do caso concreto, não pode induzir à presunção, pura e simples, de que houve intenção de matar" (HC n. 328.426/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/11/2015, DJe 25/11/2015). Precedentes.
+2. No caso concreto, o Tribunal de origem manteve a decisão proferida no primeiro grau de jurisdição que, em vez de pronunciar o agravado pela prática, em tese, de homicídio simples, com dolo eventual, desclassificou aconduta para a forma culposa do delito, uma vez que, analisando as provas dos autos, concluiu que apenas a embriaguez e a velocidade pouco acima do permitido no instante do fato não permitem atribuir-lhe de forma alguma o animus necandi nem a assunção do risco de matar.
+3. Segundo a instância ordinária, não exsurge dos autos nenhum outro elemento ou circunstância capaz de demonstrar o elemento subjetivo necessário à submissão do caso a julgamento do tribunal do júri.
+4. Eventual acolhimento da pretensão recursal deduzida pelo órgão acusatório, no sentido de pronunciar o réu homicídio doloso, dependeria inexoravelmente do revolvimento de questões fático-probatórias, o que, no âmbito do recurso especial, constitui medida vedada pelo óbice da Súmula n. 7/STJ. Precedentes.
+5. Não há usurpação da competência constitucional do júri quando as provas existentes nos autos, segundo conclusão da instância ordinária, não forem suficientes para demonstrar, nem mesmo de forma indiciária, a prática de crime doloso contra a vida. Precedentes.
+6. Agravo regimental desprovido.
+Sem antecipar o juízo valorativo final, que caberá ao Conselho de Sentença, deve-se dizer que dirigir na contramão, em zigue-zague e em alta velocidade, além de embriagado, não é conduta imprópria ou alheia àquele que assume o risco de causar o evento morte. Ou seja, o quadro fático não se assemelha com aquele colacionado pelo recorrente para demonstrar a divergência.
+Da mesma forma, explicitaram-seos motivos pelas quais foram rejeitados os aclaratórios(e-STJ fl. 824):
+Inicialmente, deve-se destacar que não restou comprovada nenhuma das hipóteses de cabimento dos aclaratórios.
+Como cediço, o art. 619 do Código de Processo Penal dispõe que os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada.
+No caso concreto, o acórdão foi bastante claro. Sua ementa é autoexplicativa:
+1. A adequada comprovação da divergência exige que os acórdãos em confronto partam de quadros fáticos semelhantes e os posicionamentos jurídicos sejam dissonantes quanto ao direito federal aplicável. Por isso, não se reconhece o preenchimento do requisito da divergência quando não há similitude fática entre o acórdão paradigma e o caso concreto.
+2. Condutor que, além de embriagado, trafegava com veículo em zigue-zague, na contramão e, segundo o acórdão local, em "alta velocidade". Inexistência de similitude com acórdão paradigma, no qual o condutor estava apenas embriagado e dirigia "um pouco acima da velocidade da via". (e-STJ, fl. 801).
+Veja-se que a alegação da defesa no sentido de que se estaria a exigir identidade fática, em vez de mera similitude, não prospera. Em verdade, a distinção entre a conduta dolosa e culposa nem sempre é simples. Nos bancos acadêmicos, muito se discute sobre a distinção entre o dolo eventual e a culpa consciente.
+De todo modo, no caso concreto, o conjunto de riscos supostamente assumidos pelo agente não deixam margem para dúvida, nesta fase, quanto à natureza dolosa de seu comportamento. A análise final será feita pelo Conselho de Sentença. Porém, por ora, é possível dizer que o condutor que trafega na contramão da via, em zigue-zague, embriagado e em alta velocidade assume, sim, o risco de matar (dolo eventual). Situação que não se assemelha àquele condutor que dirige embriagado ou em excesso de velocidade.
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL E CRIMINAL.  ..  ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+III - Conforme assentado no julgamento do AI 791.292-QO-RG (Tema 339 da repercussão geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+ ..
+V - Agravo regimental a que se nega provimento.
+(ARE 1343342 ED-AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04/11/2021, PROCESSO ELETRÔNICO DJe-221 DIVULG 08-11-2021 PUBLIC 09-11-2021)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  ..  TEMAS 339, 424 E 660. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. Esta Corte, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+ ..
+4. Agravo regimental a que se nega provimento.
+(ARE 1305399 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 25/10/2021, PROCESSO ELETRÔNICO DJe-224 DIVULG 11-11-2021 PUBLIC 12-11-2021)
+Finalmente, verifica-se que o acórdão objeto do recurso extraordinárioteve o provimento negado, sendo mantido o indeferimento liminar dos embargos de divergência, uma vez que não foi demonstrada asimilitude fática entre o acórdão paradigma e o caso concreto.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO.
+1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional.
+2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes. 3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO.
+1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF.
+2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365).
+3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação constitucional aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF.AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
