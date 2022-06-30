@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL - IPVA - Veículos locados e utilizados no Estado de São Paulo Legalidade da cobrança Solidariedade entre a locadora e a locatária Registro dos veículos em outro Estado da Federação - Irrelevância Desenvolvimento da atividade preponderantemente em São Paulo Precedentes Honorários advocatícios que devem ser fixados em 10% do valor atribuído à causa, na forma do art. 20, § 3º do Código de Processo Civil - Sentença modificada Recurso da autora improvido. Recurso da Fazenda Estadual provido.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 535 do Código de Processo Civil/1973;75, IV e § 1º,1.228 e 1.267 do Código Civil;120 do Código de Trânsito Brasileiro; e 110 e 127 do Código Tributário Nacional.
+Contrarrazões às fls. 749-798, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.6.2022.
+O acórdão recorrido consignou (fls. 634-638, e-STJ):
+Não se vislumbra irregularidade da autuaçãoconsubstanciada na notificação de cobrança de IPVA, uma vez que o ato administrativo teve por fundamento a Lei Estadual nº 13.296/ 08, que dispõe no inciso X do artigo 3º e seu parágrafo único, sobre a cobrança do tributo sobre veículos de propriedade de empresas locadoras, bem como no inciso VIII do artigo 6º da mesma Lei, que considera responsável pelo pagamento do tributo a pessoa jurídica de direito privado que locar veículo para uso no Estado de São Paulo.
+Por outro lado, o artigo 128 do Código Tributário Nacional autoriza que a lei atribua a responsabilidade pelo crédito tributário a terceira pessoa vinculada ao fato gerador da respectiva obrigação, como é o caso do locatário.
+Se isso não fosse o bastante, o Colendo Órgão Especial deste Egrégio Tribunal de Justiça já se manifestou a respeito da matéria, quando do julgamento da Arguição de Inconstitucionalidade nº 0127403-35.2012.8.26.000, entendendo pela constitucionalidade da Lei Estadual Paulista nº 13.296/ 2008:
+(..)
+Assim, o Estado-Membro com competência tributária para exigir o imposto sobre a propriedade de veículo automotor é aquele onde efetivamente for exercido o respectivo direito de propriedade.
+É de notório conhecimento que as empresas com grandes frotas de veículos têm por hábito optar por praças tributárias onde as alíquotas do I PVA são menores, ao invés de registrarem seus automóveis na cidade onde serão preponderantemente utilizados, com o intuito de reduzir a carga tributária.
+Entretanto, se a prestação dos serviços ocorre em São Paulo, correta é a posição da Fazenda do Estado em cobrar o imposto de acordo com o local em que os serviços são efetivamente prestados e onde ocorre a circulação dos veículos, devendo aqui ser empregados os recursos advindos dos tributos incidentes sobre a sua propriedade, já que destinados ao incremento de políticas referentes a estradas, ruas e tráfego.
+(..)
+No tocante a alegação de ocorrência de bitributação, esta também não merece prosperar, pois a Lei 13.296/ 08 buscou mecanismos para evitá-la, conforme se verifica pelo disposto no artigo 26:
+(..)
+Ademais, a autora não demonstrou que tenha sido recolhido o imposto cobrado nestes autos no Estado em que os veículos foram registrados.
+Preliminarmente, constata-se que não se configurou ofensa aoart. 535 do Código de Processo Civil 1973, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia.Não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Com relação aos tópicosrecursais lastreados na violação doart. 120 do CTB, dos arts. 110 e 127 do CTN e dos arts. 75, IV e § 1º e 228 do Código Civil,os mencionados dispositivos legais e as respectivas teses recursais não foram ventilados no aresto atacado e, embora tenham sido opostos os Embargos Declaratórios competentes para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre os temas. Falta, portanto, prequestionamento, requisito para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide, na hipótese, o verbete sumular 211/STJ.Para que que fique configurado tal requisito, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a alegaçãorecursal a ele vinculada, interpretando-se a sua aplicação ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do decisum, percebe-se que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pelo Colegiado local.
+Ademais, o STJ possui o entendimento de que é insuficiente a oposição de Aclaratórios para a configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, esta Corte esteja autorizadaa examinar a eventual ocorrência de omissão no acórdão vergastado e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+Não é cabível, pela via especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula 280 do Supremo Tribunal Federal.Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDORA PÚBLICA ESTADUAL. DESCONTOS EM FOLHA DE PAGAMENTO. LIMITAÇÃO. DIREITO LOCAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem - de que "o Decreto Estadual nº 12.796/09 define limites específicos de despesas do servidor público estadual com empréstimos consignados e cartão de crédito, nos percentuais de 40% e 10% da renda bruta, respectivamente" -, é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+2. Agravo interno não provido.
+(AgInt no AREsp 1.203.368/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,DJe 24/5/2018)
+É inviável analisar a tese defendida no Apelo Nobre de que houve bitributação, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão objurgado. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação do art. 535do CPC/1973, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
