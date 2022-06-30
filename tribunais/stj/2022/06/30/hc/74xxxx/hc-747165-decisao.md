@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de MATHEUS MOREIRA SILVA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1502278-03.2021.8.26.0538.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 05 (cinco) anos de reclusão, em regime inicial fechado, mais o pagamento de 500 (quinhentos) dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006 (fls. 58-63).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso, consoante voto condutor do v. acórdão de fls. 67-85.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente faz jus à aplicação do tráfico privilegiado.
+Sustenta que ações penais em curso não podem ser usadas para afastar a referida benesse.
+Aduz inexistir prova da dedicação do paciente à atividade delitiva.
+Pugna pela fixação de regime inicial mais brando e pela substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar.
+Informações prestadas às fls. 97-128.
+O Ministério Público Federal, às fls. 132-136, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOPRÓPRIO. SENTENÇA CONDENATÓRIA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PRECEDENTES. PELA DENEGAÇÃO DA ORDEM." (fl. 132).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a aplicação do tráfico privilegiado; ii) a fixação de regime inicial mais brando; e iii) a substituição da pena privativa de liberdade por restritiva de direitos.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Na terceira fase, não aplicou o redutor também de maneira correta, tendo em vista a quantidade de drogas apreendidas (cerca de 33 porções individuais de cocaína, 22 de crack e 72 de maconha) a revelar dedicação à atividade criminosa. Ainda, conforme o próprio réu confessou, ele está passando por delicada situação financeira, de sorte que tem feito do tráfico seu meio de vida.
+A quantidade de entorpecente apreendida denota que há profissionalização no tráfico de drogas, vez que a um iniciante e sem experiência na traficância não seria confiado montante substancial de entorpecentes.
+Portanto, a grande quantidade, indicativa de profissionalização, demonstra que o acusado se dedica a atividades criminosas e, obsta a aplicação do redutor no presente caso.
+Importante ressaltar que não há bis in idem na consideração da quantidade para elevar a pena base e, posteriormente, para obstar a aplicação do redutor.
+ ..
+Não há que se falar em fixação do regime aberto ou substituição da pena privativa de liberdade por restritiva de direitos.
+O regime fechado impõe-se. Observo que foi apreendida considerável quantidade e variedade de entorpecentes (cerca de 33 porções individuais de cocaína, 22 de crack e 72 de maconha). Sendo o crime de perigo contra a saúde pública fica claro que tal quantidade poderia facilmente alcançar um elevado número de pessoas, o que denota maior reprovabilidade em sua conduta, visto o maior ataque ao bem jurídico. No caso, a natureza das drogas apreendidas (cocaína e crack) também indica maior reprovabilidade, visto que tais entorpecentes possuem grande capacidade de viciar, como é notório e visto em toda a mídia. Assim em face do bem jurídico protegido, aliado ao artigo 42 da Lei nº 11.343/06, quanto maior a capacidade de viciar da droga, em abstrato, maior a reprovabilidade. Portanto, demonstrou periculosidade e culpabilidade acima da média, de forma que o regime fechado é o único que se mostra suficiente para atingir a função preventiva específica da pena, que é inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal" (fls. 82-84).
+Em relação ao tráfico privilegiado, esta Corte Superior assentou o entendimento de que "a criação da referida causa especial de diminuição de pena tem suas raízes em questões de política criminal, surgindo como um favor legislativo ao pequeno traficante, ainda não envolvido em maior profundidade com o mundo criminoso, de forma a propiciar-lhe uma oportunidade mais rápida de ressocialização" (REsp n. 1329088/RS, Terceira, Seção, Rel. Min. Sebastião Reis Júnior, DJe de 26/4/2013).
+A despeito da quantidade de droga apreendida - 43,7 g de maconha; 19,53 g de cocaína; e 1,94 g de crack -, há outros elementos aptos a afastar o tráfico privilegiado.
+Conforme exposto pela Corte originária, "o próprio réu confessou  ..  está passando por delicada situação financeira, de sorte que tem feito do tráfico seu meio de vida".
+Ademais, o Tribunal local consignou que foi encontrado com o paciente anotações contábeis do tráfico de drogas.
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nessa linha: HC n. 479.453/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 23/05/2019; AgRg no HC n. 457.335/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/03/2019; e HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017.
+No mais, a quantidade, a diversidade e a natureza do entorpecente - 43,7 g de maconha; 19,53 g de cocaína; e 1,94 g de crack - foram utilizadas como fundamentos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Mantido o quantum de pena aplicado, o pedido de substituição da pena privativa de liberdade por restritiva de direitos encontra óbice no art. 44, I, do Código Penal.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
