@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por LUIZ HENRIQUE DE FARIAS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim ementado (e-STJ, fls. 236-240):
+"APELAÇÃO. PENAL E PROCESSUAL PENAL. DISPARO DE ARMADE FOGO, ART. 15, DA LEI Nº 8.826/03. DEPOIMENTO DOS POLICIAS. APREENSÃO DA ARMA, CÁPSULA E PROJÉTIL. MATERIALIDADE E AUTORIACOMPROVADAS. EXPERTISE CONFIRMA QUE O DISPARO PARTIU DAPISTOLA .40. PENA PROPORCIONAL E JUSTA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. No caso em liça, a apreensão da arma, o depoimento dos policiais e a perícia informando que a cápsula encontrada é compatível com a pistola apreendida são provas idôneas capazes de fundamentar a sentença, máxime ante a dialeticidade processual.
+2. A materialidade e autoria delitivas encontram-se satisfeitas através dos autos de apresentação e apreensão, a perícia, bem como pelos depoimentos dos policiais, oportunidade em que declinaram como se deu a ocorrência em comento.
+3. Recurso conhecido e não provido".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 155, 386, II e VII, e 619 do Código de Processo Penal. Aduz para tanto, em síntese, que: (I) o acórdão recorrido, a despeito da oposição dos embargos de declaração, foi omisso sobre a alegação de que a condenação restou fundamentada apenas em elementos colhidos na fase inquisitorial, ou seja, não submetidos ao contraditório e a ampla defesa; (II) não há prova apta a sustentar a condenação do recorrente, uma vez que todos os fundamentos apontados na sentença decorrem exclusivamente dos elementos indiciários colhidos no inquérito policial, os quais não se confirmaram durante a instrução processual.
+Com contrarrazões (e-STJ, fls. 369-379), o recurso especial foi inadmitido na origem (e-STJ, fls. 384-387), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do agravo para se conhecer e prover o recurso especial, declarando-se a nulidade do acórdão e determinando-se o retorno dos autos à origem para que outro seja proferido (e-STJ, fls. 484-488).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No mérito, a prejudicial prospera.
+Com efeito, o recurso especial imputa omissão ao acórdão recorrido, referente ao argumento de que "a condenação se deu com base na prova colhida exclusivamente no âmbito no inquérito policial" (e-STJ, fl. 296). Todavia, esse tema não foi apreciado pelo TJ/CE, o qual se limitou a apresentar argumentos genéricos, sem enfrentar o ponto apresentado pela defesa ou mesmo a irrelevância deste para o deslinde do feito, conforme se pode observar do seguinte trecho do acórdão:
+"Como se vê, o instituto dos aclaratórios tem por teleologia suprir omissões, contradição e obscuridade, pressupostos que não se vislumbram no decisum hostilizado. Gize-se que, a via estreita dos embargos de declaração não tem o condão de revolvimento de prova, nem descortinar uma nova fase cognição, sob pena de desnaturar o instituto jurídico.
+Diga-se que, o v. acórdão guerreado analisou as questões propostas relevantes e imprescindíveis para o convencimento, de tal arte que foi discutido e votado em plenário, sendo aprovado por unanimidade.
+Ao contrário do alegado pelo embargante, o voto condutor acórdão hostilizado não foi omisso, nem deixou de analisar provas, inclusive a pericial.
+A bem da verdade, o presente recurso tenta discutir matérias jásubmetidas ao Colegiado, o que desnatura a função dos embargos" (e-STJ, fls. 349-350).
+Configurada, assim, a ofensa ao art. 619 do CPP, os autos devem voltar aoTJ/CE, para que este se pronuncie de maneira fundamentada sobre asquestões suscitadas nos embargos de declaração.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", doRISTJ,conheçodo agravo paradar provimentoao recurso especial, a fim deanular o acórdão recorrido e determinar o retorno dos autos ao Tribunalde origem, para que este julgue novamente os embargos de declaração, sanando as omissões apontadas.
+Publique-se. Intimem-se.
