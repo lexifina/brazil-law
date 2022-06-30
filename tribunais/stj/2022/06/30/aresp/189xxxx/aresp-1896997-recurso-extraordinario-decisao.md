@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FIAÇÃO ROSSIGNOLO LTDA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 892/893):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. BEM DE FAMÍLIA. IMPENHORABILIDADE. OFERECIMENTO EM FAVOR DE PESSOA JURÍDICA POR APENAS UM DOS SÓCIOS. BENEFÍCIO FAMILIAR. PRESUNÇÃO. INEXISTÊNCIA. COMPROVAÇÃO PELO CREDOR. NECESSIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O bem de família é impenhorável mesmo quando oferecido em garantia por um dos sócios da pessoa jurídica, não sendo possível presumir que a dívida tenha sido contraída em prol da entidade familiar, cabendo ao credor demonstrar que a família beneficiou-se do negócio jurídico. Precedentes.
+3. No caso dos autos, a pessoa jurídica é constituída pela sócia que ofereceu o bem de família e por seu sobrinho, não se presumindo que este integre a entidade familiar propriamente dita e que esta tenhasido beneficiada.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 932).
+Sustenta a recorrente a existência de repercussão geral e violação de "dispositivos constitucionais que consagram o princípio da boa fé, da proporcionalidade para mitigar a impenhorabilidade dos bens de família" (e-STJ fl. 946).
+Alega que "oprincípio da proporcionalidade tem sido utilizado para dirimir os conflitos entre direitos fundamentais, e no caso em que a dignidade do credor entra em conflito com a dignidade do devedor, o princípio da honestidade surge a favor do credor, permitindo apenhora de bens de família" (e-STJ fls. 946/947).
+Aduz que "o princípio da boa fé deve ser norte para necessária compatibilização do direito à moradia com o direito de propriedade e direito de livre iniciativa, especialmente, quando o detentor do direito, por sua livre vontade, assumiu obrigação apta a limitar sua moradia" (e-STJ fl. 947).
+Argumenta que, "se os v. acórdãos queriam entender pela impenhorabilidade do imóvel porque entendeu que o benefício da hipoteca não se fez em prol da entidade familiar,deveria sim ter respondido ao fato de que há prova incontroversa que a pessoa jurídica é constituída por sócia com poder de comando que habita o imóvel tido por impenhorável" (e-STJ fls. 950/951).
+Aponta, ainda, o entendimento do Tema 1.127/STF.
+Assevera, por fim, que "aexecução extrajudicial de dívida hipotecária se submete ao efetivo controle judicial, sendo o devedor intimado para acompanhar o caso, podendo impugnar o desenrolar do procedimento se forem observadas irregularidades" (e-STJ fl. 953).
+Requera admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 961/981.
+É o relatório.
+Da leitura das razões recursais (e-STJ fls. 945/954), verifica-se a deficiência de fundamentação do recurso extraordinário, uma vez que a recorrente não indicou o artigo da Constituição Federal que teria sido violado por esta Corte Superior de Justiça no acórdão recorrido, o que enseja a aplicação do enunciadon. 284 da Súmula do Supremo Tribunal Federal:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO. SÚMULAS 282 E 356 DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A matéria constitucional invocada no recurso extraordinário não foi apreciada pelo acórdão recorrido e tampouco foram opostos embargos de declaração a fim de suscitá-la. Súmulas 282 e 356 do STF. Inadmissível o prequestionamento implícito. Precedentes. 2. Ausência de demonstração, nas razões do apelo extremo, de que forma o acórdão recorrido teria violado os dispositivos constitucionais dados como contrariados, o que inviabiliza a sua análise, nos termos da Súmula 284 do STF. 3. Agravo regimental a que se nega provimento.
+(ARE 1235044 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-225 DIVULG 10-09-2020 PUBLIC 11-09-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DAS RAZÕES RECURSAIS. SÚMULA 284/STF. RECURSO EXTRAORDINÁRIO QUE NÃO ADMITE O EXAME DE NORMAS INFRACONSTITUCIONAIS. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. A parte não indicou de que forma as normas constitucionais mencionadas teriam sido violadas pelo acórdão recorrido, o que leva à aplicação do óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). 2. O aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, rejeitou a exceção de suspeição e impedimento, matéria situada no contexto normativo infraconstitucional. Inviável, ademais, o reexame de provas em sede de recurso extraordinário, conforme Súmula 279 ("Para simples reexame de prova não cabe recurso extraordinário"). 3. Agravo Regimental a que se nega provimento.
+(ARE 1272389 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-213 DIVULG 26-08-2020 PUBLIC 27-08-2020)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não se admiteo recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. INCIDÊNCIA DO VERBETE N. 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO INADMITIDO.
