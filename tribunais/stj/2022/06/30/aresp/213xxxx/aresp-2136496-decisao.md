@@ -1,0 +1,19 @@
+DECISÃO
+Os autos noticiam que CUMMINS BRASIL LIMITADA (CUMMINS) interpôs agravo de instrumento contra decisão proferida nos autos da ação de indenização proposta por SUPERMERCADO MILANOSUL EIRELI (SUPERMERCADO) contra DISTRIBUIDORA MERIDIONAL DE MOTORES CUMMINS (DISTRIBUIDORA), que a incluiu no polo passivo da demanda.
+O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao recurso, cujo acórdão encontra-se assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO INDENIZATÓRIA. CASO CONCRETO. MATÉRIA DE FATO. INCLUSÃO DE RÉU NO POLO PASSIVO. POSSIBILIDADE. APLICABILIDADE DO CDC JÁ RECONHECIDA EM GRAU RECURSAL. AUSÊNCIA DE PRECLUSÃO. PRECEDENTES DO STJ. EFETIVIDADE DA PRESTAÇÃO JURISDICIONAL, ECONOMIA PROCESSUAL E INSTRUMENTALIDADE DAS FORMAS. AGRAVO DE INSTRUMENTO DESPROVIDO. (e-STJ, fl. 1.010)
+Opostos embargos de declaração, foram rejeitados.
+Contra esses julgados a CUMMINS manejou recurso especial, fundamentado nas alíneas a e c do permissivo constitucional alegando (1) violação do art. 1.022, I e II, do NCPC, diante do pronunciamento genérico do acórdão que julgou os embargos de declaração; (2) ofensa ao art. 329, I, do NCPC, diante da impossibilidade da inclusão de terceiro no polo passivo após a estabilização da demanda com o saneamento do feito; (3) ofensa ao art. 339, §2º, do NCPC, por ter precluído o pedido para seu ingresso na lide, uma vez que foi realizado após o saneamento do feito; (4) contrariedade ao art. 357, §1º, do NCPC, ressaltando que o despacho saneador tem o condão de produzir a estabilização da demanda, impedindo a sua inclusão no polo passivo; (5) malferimento ao art. 507 do NCPC, por ter sido tomada decisão sobre matéria preclusa; (6) desrespeito ao art. 5º do NCPC, pois a atitude do autor da ação em não se manifestar sobre o pedido de inclusão de terceiro no polo passivo, mas em momento posterior postular o ingresso não se compatibiliza com a esperada boa fé.
+Foram apresentadas contrarrazões.
+Inadmitido pelo juízo prévio de admissibilidade, foi apresentado o correspondente agravo, onde rebateu os fundamentos da decisão agravada, reiterou os argumentos do apelo nobre e postulou a concessão de efeito suspensivo.
+Contraminutado, os autos vieram para o Superior Tribunal de Justiça.
+É o relatório.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está no reconhecimento (1) da ocorrência de negativa de prestação jurisdicional; (2) (3) (4) (5) da impossibilidade de inclusão de terceiro no polo passivo da demanda após a estabilização do feito pelo despacho saneador, além da ocorrência da preclusão; e, (6) que a autora da ação deixou de observar a boa-fé processual.
+Diante dos argumentos recursais, para melhor exame da controvérsia, CONVERTO o agravo em recurso especial.
+A concessão de efeito suspensivo, por sua vez, se condiciona à existência dos requisitos do periculum in mora e do fumus boni iuris.
+Todavia, não se verifica a presença do periculum in mora, uma vez que a CUMMINS deixou de demonstrar a ocorrência de circunstância efetiva e concreta apta a causar-lhe prejuízo.
+Nessas condições, INDEFIRO O PEDIDO.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INCLUSÃO DE TERCEIRO NO POLO PASSIVO APÓS O SANEAMENTO DO FEITO. CONVERSÃO EM RECURSO ESPECIAL. EFEITO SUSPENSIVO. AUSÊNCIA DE DEMONSTRAÇÃO DO PERICULUM IN MORA. PEDIDO INDEFERIDO.
