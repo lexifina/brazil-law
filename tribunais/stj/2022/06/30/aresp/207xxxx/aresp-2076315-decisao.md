@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por OFÉLIA MARIA CAVERSAN SANDONÁcontra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional paradesafiar acórdão assim ementado (e-STJ fl. 21):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. EXPEDIÇÃO DE RPV CONFORME MEMÓRIA DE CÁLCULO APRESENTADA PELA PARTE EXEQUENTE. PEDIDO POSTERIOR DE FIXAÇÃO DE HONORÁRIOS NA FASE DE CUMPRIMENTO DE SENTENÇA NEGADO PELA DECISÃO AGRAVADA. PRECLUSÃO CONFIGURADA. IRRELEVÂNCIA, NO CASO, DA ORDEM DE SUSPENSÃO DADA NO IRDR Nº 44244-66.2018.8.16.0000 (TEMA Nº 14). PRECEDENTES DESTA CORTE. RECURSO DESPROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 37/42).
+No recurso especial obstaculizado, a parte apontouviolaçãodos arts.23, 24 e 25 da Lei n. 8906/1994, bem como do art.85, §§ 14 e 18, do CPC/2015, argumentando ser indevida a exigência de queos honorários de sucumbência contra a Fazenda Pública em requisição de pequeno valorsejam pleiteados na inicial do cumprimento de sentença, sob pena de preclusão.
+Sem c  ontrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Isso porque não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+O fundamento do acórdão reside na ocorrência da preclusão. Confira-se o seguinte trecho do voto condutor (e-STJ fls. 23/24):
+Da leitura dos autos, depreende-se que o cumprimento da sentença condenatória foi iniciado no dia 13.04.2015, através do despacho que ordenou a intimação da Fazenda Pública para realizar o pagamento espontâneo ou, querendo, apresentar impugnação dentro do prazo legal (mov. 1.65). Contra o mérito da referida decisão, não houve interposição de recurso pelas partes. Após o acolhimento parcial da impugnação apresentada pelo Município de Santa Mariana/PR, a exequente apresentou memória de cálculo atualizada, inclusive dos valores referentes aos honorários advocatícios fixados no título judicial e nos embargos, (movs. 20.6 e 20.7) e requereu a expedição de Requisição de Pequeno Valor (mov. 45.1). Apenas após a expedição da requisição a ora agravante pugnou pela fixação de honorários referentes à fase de cumprimento de sentença.
+Desse modo, não tendo havido qualquer insurgência por parte da exequente contra a decisão inicial, tampouco quando da apresentação dos cálculos para a expedição da Requisição de Pequeno Valor (RPV), tem-se que operada a preclusão da matéria objeto deste recurso, seja pela ótica da preclusão temporal ou consumativa.
+No entanto, osarts. 23, 24 e 25 da Lei n. 8.906/1994 e 85, §§ 14 e 18, do CPC/2015, não tratam da matéria relativa ao fundamento central do acórdão recorrido.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
