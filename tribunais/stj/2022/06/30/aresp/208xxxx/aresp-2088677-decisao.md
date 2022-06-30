@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF/1988) interposto de acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado (fl. 288, e-STJ):
+PROCESSUAL E ADMINISTRATIVO. LEGITIMIDADE DAS APELANTES.COMPLEMENTAÇÃO DE APOSENTADORIA. ÍNDICES DE ATUALIZAÇÃO MONETÁRIA E JUROS. HONORÁRIOS RECURSAIS. APELAÇÕES DESPROVIDAS.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, nos casos em que os servidores públicos aposentados e pensionistas da extinta RFFSA pleiteiam a complementação do benefício previdenciário não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação (AgRg no Resp 1055666/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 27/06/2012).
+2. Não há falar em ilegitimidade passiva do INSS ou da União, haja vista a compreensão jurisprudencial quanto à legitimidade tanto da União quanto do INSS nas demandas afetas à complementação previdenciária de ex-ferroviário.
+3. Conclui-se que, embora garantida a complementação de proventos aos ferroviários admitidos até 21/05/1991 pela Rede Ferroviária Federal, sob qualquer regime de trabalho, esta tem como parâmetro os rendimentos do pessoal em atividade na extinta RFFSA, os quais, após o desligamento de seu último empregado ativo, passarão a ser reajustados pelos mesmos índices e com a mesma periodicidade que os benefícios do Regime Geral da Previdência Social - RGPS.
+4. Restou comprovado que a parte autora foi admitida na CBTU, subsidiária da RFFSA, em 05/01/84 e que, em 28/05/94, passou a integrar a CPTM. Sendo certo que a Lei nº 10.478/02 ampliou a o direito à complementação da aposentadoria para os ferroviários admitidos até 21/05/91.
+5. Contudo, não há que se falar em equiparação com os vencimentos dos trabalhadores da ativa da Companhia Paulista de Trens Metropolitanos, uma vez que embora seja subsidiária da Rede Ferroviária Federal S/A, são empresas distintas, devendo, assim, seguir as regras de paridade de remuneração previstas nas Leis nº 8.186/91, 10.233/01 e 10.478/02.
+6. No que tange ao termo inicial da complementação, verifica-se que deve ser a data da aposentadoria, uma vez que se trata de prestação de caráter alimentar e fixada a partir do momento em que deveria ter sido paga e não foi. Salientando que não há nos dispositivos legais qualquer proibição de complementação para a pessoa que continue com vínculo empregatício após a aposentadoria. Logo, a complementação deve ser realizada a partir de 25.02.2010, data da aposentadoria do autor.
+7. Inocorrente a prescrição quinquenal, porquanto a ação foi ajuizada em 15.06.2012, decorrido pouco mais de dois anos do deferimento da aposentadoria.
+8. Para o cálculo dos juros de mora e correção monetária, portanto, aplicam-se, (1) até a , os índices previstos no Manual de Orientação de entrada em vigor da Lei nº 11.960/2009 Procedimentos para os Cálculos da Justiça Federal, aprovado pelo Conselho da Justiça Federal; e, , considerando a natureza não tributária (2) na vigência da Lei nº 11.960/2009 da condenação, os critérios estabelecidos pelo Egrégio STF, no julgamento do RE nº 870.947/SE, realizado em 20/09/2017, na sistemática de Repercussão Geral, quais sejam, os juros moratórios serão calculados segundo o índice de remuneração da (2.1) caderneta de poupança, nos termos do disposto no artigo 1º-F da Lei 9.494/97, com a redação dada pela Lei nº 11.960/2009; e a correção monetária, segundo o Índice de (2.2) Preços ao Consumidor Amplo Especial - IPCA-E.
+9. Os honorários recursais foram instituídos pelo CPC/2015, em seu artigo 85, parágrafo 11, como um desestímulo à interposição de recursos protelatórios, e consistem na majoração dos honorários de sucumbência em razão do trabalho adicional exigido do advogado da parte contrária, não podendo a verba honorária de sucumbência, na sua totalidade, ultrapassar os limites estabelecidos na lei. Assim, desprovidos os apelos do INSS e da União, interpostos na vigência da nova lei, os honorários fixados na sentença deverão ser majorados em 2%, nos termos do artigo 85, parágrafo 11, do CPC/2015.
+10. Apelações desprovidas.
+11. De ofício, especificados os critérios de cálculo da correção monetária e juros de mora e estabelecidos os honorários recursais.
+Os Embargos de Declaração foram acolhidos nos seguintes termos (fl. 318, e-STJ):
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - CONTRADIÇÃO - EMBARGOS ACOLHIDOS, SEM EFEITOS INFRIGENTES.
+1. O aresto embargado foi contraditório em relação à condenação do INSS ao pagamento de honorários recursais e ao dispositivo. Evidenciada, pois, a contradição apontada pela parte embargante, é de se declarar o acórdão:"Assim, desprovido o apelo da União, interposto na vigência da nova lei, os honorários fixados na sentença deverão ser majorados em 2%, nos termos do artigo 85, parágrafo 11, do CPC/2015. Ademais, provido o apelo do INSS, interposto na vigência da nova lei, ainda que parcialmente, descabida, no caso, a sua condenação em honorários recursais. Ante o exposto, rejeito as preliminares arguidas, dou parcial provimento ao apelo do INSS, nego provimento à apelação da União e, de ofício, especifico os critérios de cálculo da correção monetária e juros de mora e estabeleço os honorários recursais, nos termos expendidos acima."
+2. No mais, não há, no acórdão embargado, omissão, obscuridade ou contradição a esclarecer via embargos de declaração, os quais não podem ser acolhidos com o propósito de instaurar nova discussão sobre a controvérsia jurídica já apreciada, e ou com fim de prequestionamento, se não restarem evidenciadas, como no caso, as hipóteses indicadas no art. art. 1.022 do CPC/2015.
+3. Embora os embargos de declaração, via de regra, não se prestem à modificação do julgado, essa possibilidade há que ser admitida se e quando evidenciado um equívoco manifesto, de cuja correção também advém a modificação do julgado, como é o caso, sendo certo que foi previamente observada a exigência contida no parágrafo 2º do artigo 1.023 do CPC/2015.
+4. Embargos acolhidos, sem efeitos infringentes.
+Nas razões do Recurso Especial, a agravante alega violação dos arts.2º e 4º da Lei8.186/1991; dos arts. 17 e 27 da Lei 11.483/2007 edo art. 118, § 1º, da Lei 10.233/2001. Afirma (fls. 331-335, e-STJ, grifos no original):
+No caso dos autos, foi expressamente reconhecido no v. acórdão que o autor - ora recorrido - se aposentou em 25.02.2010, quando integrava os quadros da CPTM. De acordo com o incluso Estatuto Social da CPTM (doc. 7), ela é uma empresa pública estadual, parte integrante da administração indireta do Estado de São Paulo. Nesse sentido, jamais poderia ser considerada uma subsidiária da RFFSA ou mesmo da CBTU, que são empresas ligadas à União.
+(..)
+Desse modo, apenas o ferroviário contratado pela RFFSA ou suas subsidiárias nos prazos estipulados pelas Lei nº 8.186/91 (até 31 de outubro de 1969) e 10.478/2002 (até 21 de maio de 1991) e que, AO SE APOSENTAR, laborava para a RFFSA ou suas subsidiárias, é que tem direito à complementação de aposentadoria.
+Saliente-se nesse ponto que a CPTM - Companhia Paulista de Trens Metropolitanos NÃO é uma subsidiária da RFFSA. De fato, de acordo com o incluso Estatuto Social da CPTM (doc. 7), ela é uma empresa pública estadual, parte integrante da administração indireta do Estado de São Paulo. Nesse sentido, jamais poderia ser considerada uma subsidiária da RFFSA, que era uma sociedade de economia mista integrante da Administração indireta do Governo Federal (doc. 8).
+Desse modo, o v. acórdão, ao estabelecer o pagamento da complementação de aposentadoria ao autor, o fez ao arrepio da legislação em vigor.
+Sem contraminuta, conforme certidão de fl. 286, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.6.2022.
+Inicialmente, a insurgente sustenta que foram ofendidos os arts. 2º e 4º da Lei 8.186/1991; os arts. 17 e 27 da Lei 11.483/2007 e o art. 118, § 1º, da Lei 10.233/2001, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/3/2017)
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/4/2017)
+O Tribunal de origem, por sua vez, decidiu a controvérsia nos seguintes termos (fl. 287, e-STJ):
+Restou comprovado que a parte autora foi admitida na CBTU, subsidiária da RFFSA, em 05/01/84 (fl. 18) e que, em 28/05/94, passou a integrar a CPTM (fl. 19). Sendo certo que a Lei nº 10.478/02 ampliou a o direito à complementação da aposentadoria para os ferroviários admitidos até 21/05/91.
+Contudo, não há que se falar em equiparação com os vencimentos dos trabalhadores da ativa da Companhia Paulista de Trens Metropolitanos, uma vez que embora seja subsidiária da Rede Ferroviária Federal S/A, são empresas distintas, devendo, assim, seguir as regras de paridade de remuneração previstas nas Leis nº 8.186/91, 10.233/01 e 10.478/02.
+Desse modo, é inviável o acolhimento da pretensão daparteinsurgenteem sentido contrário, em virtude do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. (..) COMPLEMENTAÇÃO DE APOSENTADORIA. (..) SÚMULAS 7 e 83/STJ. APLICAÇÃO.
+(..)
+3. Para rever as conclusões assentadas no acórdão recorrido, no sentido de averiguar o preenchimento dos requisitos legais para o reconhecimento do direito à complementação de aposentadoria de ex-ferroviário da extinta RFFSA, demanda revolvimento das provas dos autos, providência vedada, nesta via, pela Súmula 7/STJ. No mesmo sentido: REsp 1.670.747/RJ, Rel. Min. Sérgio Kukina, DJe 25/4/2018, REsp 1.485.134/PE, Rel. Min. Herman Benjamin, DJe 20/10/2014; REsp 1.473.375/PE, Rel. Min. Mauro Campbell Marques, DJe 26/9/2014 e REsp 1.474.484/PE, Rel. Min. Assusete Magalhães.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.766.318/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/6/2021, DJe de 1/7/2021.)
+Diante do exposto,conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
