@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto por MATEUS SUPERMERCADOS S.A. (MATEUS SUPERMERCADOS), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Tocantinense, assim ementado:
+EMENTA: APELAÇÃO. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. INOBSERVÂNCIA À DIALETICIDADE RECURSAL. PRELIMINAR RECONHECIDA EX OFFICIO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. RECURSO NÃO CONHECIDO.1. Os recursos devem ser dialéticos, ou seja, dizer o porquê do pedido de reexame da decisão, mostrando ao julgador de segundo grau o que foi pedido, o que foi contestado, que prova se deu do pedido, como foi decidido e o que deve ser reformado, mostrando onde a sentença divergiu do direito ou da prova dos autos. 2. Tendo o apelante, em suas razões recursais, simplesmente reproduzido ipsis litteris os termos de sua peça defensiva e alegações finais no processo originário, forçoso o não conhecimento do apelo, por descumprimento do disposto no art. 1.010, do CPC, na medida em que não há a indicação dos fatos e fundamentos pelos quais a sentença deve ser reformada. Precedentes do STJ e desta Corte. 3. Recurso não conhecido (e-STJ, fl. 756).
+Opostos embargos de declaração por MATEUS SUPERMERCADOS, foram rejeitados (e-STJ, fls. 812/817).
+Nas razões do presente recurso, MATEUS SUPERMERCADOS alegou violação dos arts. 489, §1º, IV, 1.010, 1.013 do NCPC, 5º, LV, 93, IX, da CF, bem como dissídio jurisprudencial, ao sustentar que (1) o acórdão recorrido não examinou a fundamentação dos embargos de declaração, em que se demonstrou a observância à dialeticidade; (2) os fundamentos da sentença foram impugnados; e (3) a reprodução dos argumentos da contestação não impede o conhecimento da apelação quando evidenciado o interesse na reforma da sentença (e-STJ, fls. 837/859).
+Foram apresentadas contrarrazões (e-STJ, fls. 873/880).
+É o relatório.
+Decido.
+O recurso merece prosperar em parte.
+(1) Da ausência de violação dos arts. 489 e 1.022, do NCPC
+Nas razões do seu recurso, MATEUS SUPERMERCADOS alegou a violação dos arts. 489 e 1.022, do NCPC em virtude da falta de exame da fundamentação dos embargos de declaração, em que se demonstrou a observância à dialeticidade.
+Contudo, verifica-se que o TJ/TO se pronunciou sobre os temas consignando que teria sido violada a dialeticidade, visto que não impugnados os fundamentos da sentença, limitando-se a apelação a reproduzir a contestação e as alegações finais, confira-se:
+Denota-se que as razões recursais estão dissociadas dos fundamentos lançados na sentença vergastada, de maneira que a simples repetição ipsis litteris da peça de defesa e das alegações finais não enseja a necessária combatividade aos fundamentos do ato judicial, restando flagrante o descompasso das razões de recorrer com a realidade processual.
+Pelo princípio da dialeticidade, a peça recursal deve observar os mesmos requisitos da petição inicial. Assim, a petição inicial dos recursos exige a satisfação de pressupostos objetivos e subjetivos, como motivação ou dialeticidade, recorribilidade da decisão, adequação, tempestividade, regularidade formal e preparo.
+Os recursos devem ser dialéticos, ou seja, dizer o porquê do pedido de reexame da decisão, mostrando ao julgador de segundo grau o que foi pedido, o que foi contestado, que prova se deu do pedido, como foi decidido e o que deve ser reformado, mostrando onde a sentença divergiu do direito ou da prova dos autos. Confira-se:
+ ..
+Portanto, não deve ser conhecido o Recurso de Apelação quando as razões recursais se limitam a reproduzir, integralmente, os termos ventilados na peça defensiva e alegações finais da demanda ordinária, sem, contudo, impugnar os fundamentos da decisão que pretende ver reformada, conforme art. 1.010 do CPC (e-STJ, fls. 747/749).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Afasta-se, portanto, a alegada violação.
+Quanto à violação dos arts. 5º e 93 da CF, a jurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+Confira-se o precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO REVISIONAL CUMULADA COM DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E REPARAÇÃO POR DANO MATERIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação revisional de relacionamento comercial cumulada com declaratória de inexistência de débito e reparação por dano material.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado
+quando suficiente para a manutenção de suas conclusões  impede a apreciação do recurso especial.
+6. Alterar o decidido no acórdão impugnado no que se refere à ausência de assinaturas das partes no contrato objeto do litígio, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+7. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1.944.524/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/03/2022, DJe 18/03/2022)
+(2) e (3) Da inexistência de afronta à dialeticidade
+Nas razões do presente recurso, MATEUS SUPERMERCADOS afirmou a violação dos arts. 1.010 e 1.013 do NCPC, sustentando que (2) os fundamentos da sentença foram impugnados; e (3) a reprodução dos argumentos da contestação não impede o conhecimento da apelação quando evidenciado o interesse na reforma da sentença.
+Sobre o tema o Tribunal estadual consignou que teria sido violada a dialeticidade, visto que não impugnados os fundamentos da sentença, limitando-se a apelação a reproduzir a contestação e as alegações finais, confira-se:
+Denota-se que as razões recursais estão dissociadas dos fundamentos lançados na sentença vergastada, de maneira que a simples repetição ipsis litteris da peça de defesa e das alegações finais não enseja a necessária combatividade aos fundamentos do ato judicial, restando flagrante o descompasso das razões de recorrer com a realidade processual.
+Pelo princípio da dialeticidade, a peça recursal deve observar os mesmos requisitos da petição inicial. Assim, a petição inicial dos recursos exige a satisfação de pressupostos objetivos e subjetivos, como motivação ou dialeticidade, recorribilidade da decisão, adequação, tempestividade, regularidade formal e preparo.
+Os recursos devem ser dialéticos, ou seja, dizer o porquê do pedido de reexame da decisão, mostrando ao julgador de segundo grau o que foi pedido, o que foi contestado, que prova se deu do pedido, como foi decidido e o que deve ser reformado, mostrando onde a sentença divergiu do direito ou da prova dos autos. Confira-se:
+ ..
+Portanto, não deve ser conhecido o Recurso de Apelação quando as razões recursais se limitam a reproduzir, integralmente, os termos ventilados na peça defensiva e alegações finais da demanda ordinária, sem, contudo, impugnar os fundamentos da decisão que pretende ver reformada, conforme art. 1.010 do CPC (e-STJ, fls. 747/749).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que a simples reprodução de argumentos trazidos anteriormente não constitui, por si só, ofensa ao princípio da dialeticidade, devendo a apelação ser conhecida quando haja fundamentos suficientes e verificada a intenção de reforma da sentença.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. REQUISITOS DE ADMISSIBILIDADE DA APELAÇÃO. OBSERVÂNCIA DOS PRESSUPOSTOS LEGAIS. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INEXISTÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação declaratória de inexigibilidade de débito.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Não há ofensa ao princípio da dialeticidade quando puderem ser extraídos do recurso de apelação fundamentos suficientes e notória intenção de reforma da sentença. Precedentes.
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt nos EDcl no AREsp n. 1.959.390/PR, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 23/5/2022, DJe de 25/5/2022.)
+AGRAVO INTERNO. PROCESSUAL CIVIL. REITERAÇÃO, EM APELAÇÃO, DE ARGUMENTOS CONTIDOS NA CONTESTAÇÃO, HÁBEIS À REFORMA DA SENTENÇA. CONHECIMENTO DO APELO. VIABILIDADE.
+1. No apelo, a agravada efetivamente impugna a sentença, aduzindo que está a haver imposição de cobertura sem nem mesmo a intenção de pagamento de mensalidades vencidas do plano de saúde (o que, evidentemente, pode ser justa causa para a resilição contratual, independentemente do número de vidas do plano de saúde coletivo) devendo, pois, sob pena de tolhimento do próprio duplo grau de jurisdição, ser a tese devidamente dirimida pela Corte local.
+2. Ademais, a "jurisprudência do STJ privilegia a instrumentalidade das formas, adotando a orientação de que a mera circunstância de terem sido reiteradas, na petição da apelação, as razões anteriormente apresentadas na inicial da ação ou na contestação, não é suficiente para o não conhecimento do recurso, eis que a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade" (REsp 1.665.741/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/12/2019, DJe de 05/12/2019)" (AgInt no AREsp 1618482/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2021, DJe 09/06/2021).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.666.658/SP, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 26/10/2021, DJe de 4/11/2021.)
+No caso dos autos, a apelação não afrontou o princípio da dialeticidade, tendo trazido argumentação suficiente para demonstrar sua pretensão de reforma da sentença.
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar a remessa dos autos ao Tribunal estadual, a fim de que prossiga no julgamento da apelação interposta por MATEUS SUPERMERCADOS, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. DIALETICIDADE. AFRONTA. INOCORRÊNCIA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
