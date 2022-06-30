@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3a. REGIÃO, assim ementado:
+PREVIDENCIÁRIO. REMESSA NECESSÁRIA. NÃO CABIMENTO. REVISÃO DEBENEFÍCIO. CERCEAMENTO DE DEFESA. PRELIMINAR. APOSENTADORIA PORTEMPO DE CONTRIBUIÇÃO. ATIVIDADE PROFISSIONAL. LAVOURA DECANA-DE-AÇÚCAR. POSSIBILIDADE. REQUISITOS PREENCHIDOS. REVISÃOPARCIALMENTE DEFERIDA.- Conforme art. 373, inciso I, do Código de Processo Civil, constitui ônus da parte autorademonstrar fato constitutivo de seu direito, de forma que a comprovação do período laboradoem atividade especial deve ser feita por meio de apresentação de formulários próprios e porlaudos respectivos ao seu exercício. Não evidenciada a recusa dos empregadores emfornecerem os documentos. - O conjunto probatório dos autos revela o exercício de labor especial pelo exercício daatividade profissional nos termos do código 2.2.1 do anexo ao Decreto nº 53.831/64, por setratar de função extremamente penosa, nos moldes da jurisprudência deste E. Tribunal, quetem reconhecido a especialidade do trabalho de corte e carpa de cana-de-açúcar. Precedentes jurisprudenciais.- Preenchidos os requisitos legais, é devida a revisão da renda mensal inicial do benefício deaposentadoria por tempo de contribuição do autor, a partir da data de concessão administrativa, observada a prescrição quinquenal.- Juros e correção monetária em conformidade com os critérios legais compendiados no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, observadas as teses fixadas no julgamento final do RE 870.947, de relatoria do Ministro Luiz Fux.- Preliminar rejeitada. Parcial provimento ao recurso de apelação da parte autora.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, a autarquia aponta inicialmente violação dos arts. 11, 489 e 1.022 do Código de Processo Civil.Sustenta que, mesmo ante a oposição de embargos de declaração, o Tribunal a quo permaneceu sem fundamentação e omisso "notocante à impossibilidade do reconhecimento da especialidade da atividade na lavoura da cana-de-açúcar com base na categoria profissional da agropecuária" (fl. 364).
+Alega ainda, violação dos arts.31 da Lei n. 3.807/1960, c/c o Decreto nº 53.831/1964,60 do Decreto n. 83.080/1979,bem como 57 e 58 da Lei 8.213/1991 pelo Tribunal a quo. Aduza impossibilidade do enquadramento como especial, por categoria profissional, do período em que a parte autora trabalhou na lavoura de cana de açúcar, por ser uma atividade exclusiva de agricultura, enquanto o item 2.2.1 do Decreto 53.831/64 exige a atividade de agricultura e pecuária, tendo em vista que não estão classificados nos códigos dos Decretos ns 53.831/64 e 83.080/79.
+Foram apresentadas as contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi admitido na origem.
+É o relatório. Decido.
+Ab initio, no tocante à suposta violação dos arts. 11, 489 e 1.022 do CPC/2015, não assiste razão à parte recorrente.
+A análise do acórdão recorrido, quando realizada em conjunto com o exame da sua decisão integrativa, revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida, tendo apreciado as questões imprescindíveis ao deslinde do feito, bem como tendo deixado consignado, de modo coerente e embasado, o seu entendimento.
+Conclui-se, portanto, que o acórdão recorrido não padeceu de nenhuma mácula capaz de ensejar a oposição de embargos de declaração. Sendo assim, a oposição dos aclaratórios teve a sua finalidade desvirtuada, porquanto caracterizou, apenas, a irresignação da parte embargante, ora recorrente, em relação à prestação jurisdicional contrária aos seus interesses.
+Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação dos arts. 11, 489 e 1.022, todos do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de maneira embasada pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo da decisão exarada não denota deficiência na fundamentação decisória, nem autoriza a oposição de embargos declaratórios.
+Ainda de acordo com o entendimento sedimentado desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma.
+Descaracterizada as alegadas omissão e falta de fundamentação, tem-se de rigor o afastamento da suposta violação dos arts. 11, 489 e 1.022, todos do CPC/2015.
+Quanto à questão de fundo, além da ausência de prequestionamento das teses suscitadas, a incidir a Súmula 211 do STJ, o Tribunal de origem assim reafirmou no acórdão dos embargos declaratórios (fls. 356-361):
+(..) - 2-de 29/05/1989 a 13/07/1991
+Empregador(a): Servita- Serviços e Empreitadas Rurais S/C LTDA (Fazenda Itaiquara)
+Atividade(s): rurícola braçal- (corte, queimada, carpa, plantio e adubação de cana deaçúcar)
+Prova(s): PPP de fls. 27/28
+Agente(s) agressivo(s) apontado(s): atividade profissional
+Conclusão: Possível o enquadramento do período laboral em questão, como atividade especial, nos termos do código 2.2.1 do anexo ao Decreto nº 53.831/64.
+Pertinente acrescentar, que por meio da descrição da atividade laboral tal como descrita no PPP apresentado, possível a conclusão de se tratar de função extremamente penosa, nos moldes da jurisprudência deste E. Tribunal, que tem reconhecido a especialidade do trabalho de corte e carpa de cana-de-açúcar, conforme se verifica dos seguintes julgados:
+ ..
+- A parte autora logrou demonstrar, via Perfil Profissiográfico Previdenciário (PPP),o exercício de atividades rurais ligadas ao cultivo e corte de corte de cana-de-açúcar,durante os interregnos requeridos.
+ ..
+Atente-se à regularidade formal dos documentos apresentados, inexistindo necessidade de contemporaneidade do formulário ou laudo ao período de exercício da atividade insalubre, à falta de previsão legal nesse sentido e de comprovação de significativa alteração no ambiente laboral.
+ ..
+Destarte, por todos os ângulos enfocados, apresenta-se possível o enquadramento como especial, do intervalo de 29/05/1989 a 13/07/1991, com a condenação do INSS a respectiva averbação e ao recálculo da renda mensal inicial do benefício de aposentadoria por tempo de contribuição do autor, o que torna de rigor, a parcial reforma da r. sentença.
+Porém, quanto a tais argumentos , o INSS não os rebateu especificamente em sua petição de recurso especial.
+Sendo assim, tenho que incide ao recurso as Súmulas 283 e 284, ambas do STF, in verbis:
+SÚMULA 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+SÚMULA 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ainda, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Com fulcro no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 1% (um por cento) sobre o percentual a ser fixadona liquidação, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
