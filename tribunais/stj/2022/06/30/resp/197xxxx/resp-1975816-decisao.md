@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso especial interposto por POLIMIX CONCRETO LTDA. (POLIMIX CONCRETO LTDA.), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Pernambucano, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. PRELIMINAR. OFENSA AO PRINCÍPIO DA DIALETICIDADE. REJEIÇÃO. AÇÃO MONITÓRIA. DUPLICATA SEM ACEITE. NOTAS FISCAIS IMPUGNADAS. COMPROVAÇÃO DA ENTREGA DAS MERCADORIAS. AUSÊNCIA DE INDÍCIOS DA EXISTÊNCIA DA OBRIGAÇÃO. CONSTITUIÇÃO DA DÍVIDA. ÔNUS DO AUTOR. SENTENÇA REFORMADA.
+1. Não há que se falar em ofensa ao princípio da dialeticidade posto que as razões recursais, ainda que reproduzam as teses dos embargos monitórios, são suficientes a demonstrarem a irresignação com os fundamentos da sentença e o nítido intento de reforma. Preliminar rejeitada.
+2. A prova escrita hábil a instruir a Ação Monitória é qualquer documento, sem eficácia executiva, que denote indícios da existência da obrigação.
+3. Pela sistemática processual vigente, o ônus da prova incumbe à parte autora quanto ao fato constitutivo do seu direito enquanto à parte ré incumbe a comprovação de fato impeditivo, modificativo ou extintivo do direito daquele (autor), nos termos do artigo 373, incisos I e II, do CPC/2015.
+4. Não se desincumbindo a parte autora de seu ônus, o acolhimento dos embargos monitórios para extinguir a ação é medida que se impõe.
+5. Recurso provido para reforma a sentença e julgar improcedente o pedido inicial (e-STJ, fl. 362).
+Opostos embargos de declaração por POLIMIX, foram rejeitados (e-STJ, fls. 406/414).
+Nas razões do presente recurso, POLIMIX alegou violação dos arts. 272, §§2º e 3º, 373, I e II, 700 e 701 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) houve nulidade da intimação, haja vista que a publicação se deu em nome de IJB INDÚSTRIA E COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO LTDA. (IJB), após informada a alteração na razão social para POLIMIX CONCRETO LTDA., tendo em vista a incorporação daquela; e (2) houve comprovação de entrega da mercadoria, bem como de que a entrega se deu no endereço da obra, o que evidencia a aparência de legalidade, não competindo ao vendedor a comprovação de que o agente recebedor seja preposto da sociedade compradora (e-STJ, fls. 419/437).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da nulidade da intimação
+Nas razões do presente recurso, POLIMIX afirmou a violação do art. 272, §§2º e 3º, do NCPC, sustentando que houve nulidade da intimação, haja vista que a publicação se deu em nome de IJB INDÚSTRIA E COMÉRCIO DE MATERIAIS DE CONSTRUÇÃO LTDA. (IJB), após informada a alteração na razão social para POLIMIX CONCRETO LTDA., tendo em vista a incorporação daquela.
+Sobre o tema o Tribunal estadual consignou que inexistiu nulidade, visto que ausente prejuízo, na medida em que, após informada a alteração empresarial, houve intimação de IJB para apresentação das contrarrazões, tendo estas sido oferecidas por POLIMIX, evidenciando-se que a nova intimação para sessão de julgamento, dirigida ao mesmo procurador, atingiu sua finalidade, confira-se:
+No presente caso, após a comunicação da incorporação empresarial, houve a intimação para a IJB Indústria e Comércio de Materiais de Construção Ltda. oferecer contrarrazões ao recurso de apelação. Às fls. 161v/168, a Polimix Concreto Ltda. apresentou contrarrazões.
+Não se declara nulidade sem prejuízo. Conquanto da autuação do recurso de apelação (fl. 173) não ter ocorrido a alteração para a nova denominação da apelada, ora embargante, o ato intimatório para a sessão de julgamento, dirigido ao então procurador que permaneceu o mesmo, atingiu seu desiderato.
+Não há nulidade na intimação promovida via imprensa oficial, quando, apesar de realizada com mera irregularidade relacionada ao nome da parte, seja possível ao seu procurador, regularmente cientificado, promover a correta identificação do feito. Presentes os elementos essenciais necessários à identificação do advogado e do processo, o ato processual alcançou seu objetivo (e-STJ, fl. 411).
+No mesmo sentido, esta Terceira Turma já entendeu que não há nulidade de intimação com erro no nome da parte se os demais dados alusivos ao processo foram corretamente indicados e se não configurado prejuízo.
+Veja-se:
+AGRAVO REGIMENTAL NA PETIÇÃO NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INTIMAÇÃO. EQUÍVOCO NA GRAFIA DO NOME DA AGRAVADA. AUSÊNCIA DE PREJUÍZO.
+1. Considera-se válida a intimação quando, ainda que incorreto o exato nome da parte, se os demais dados alusivos ao processo não foram inquinados de erro e se não for configurado prejuízo.
+2. Agravo regimental não provido.
+(AgRg na PET no Ag n. 1.326.783/ES, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 6/12/2012, DJe de 13/12/2012.)
+Nesse norte, a jurisprudência desta Corte é uníssona no sentido de que não se decreta nulidade sem comprovação de prejuízo. A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO. EXPROPRIAÇÃO JUDICIAL DE IMÓVEL. JULGAMENTO DE IMPROCEDÊNCIA NA ORIGEM. AUSÊNCIA DE INTIMAÇÃO DA EXECUTADA. OCULTAÇÃO MALICIOSA. INTIMAÇÃO DOS DEMAIS EXECUTADOS, MARIDO E FILHA DA AUTORA. CIÊNCIA INEQUÍVOCA DO PROCESSO. PREJUÍZO NÃO RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. IMÓVEL DADO EM GARANTIA PARA TRANSAÇÃO JUDICIAL. INAPLICABILIDADE DA PROTEÇÃO LEGAL DO BEM DE FAMÍLIA. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias, examinando as circunstâncias da causa, afastaram a nulidade processual alegada, consignando que a ausência de intimação pessoal se deu por atitude da própria autora, que maliciosamente se ocultara de receber o oficial de justiça e que, ademais, tinha pleno conhecimento da execução e penhora do bem, visto que os demais executados eram parentes próximos, marido e filha. Consignaram, outrossim, que, não foi demonstrado nenhum prejuízo, sobretudo porque toda a alegação trazida na ação anulatória fora anteriormente discutida pelo marido e filha da executada, quando da expropriação judicial do imóvel. Tais fundamentos, contudo, não foram impugnados pela recorrente.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido impede o conhecimento do recurso quanto à matéria. Incidência, por analogia, da Súmula 283 do STF.
+3. "O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief)" (AgRg no AgRg no AREsp 4.236/GO, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe de 2/4/2014).
+4. Consoante entendimento deste Tribunal: "Não pode o devedor ofertar bem em garantia que é sabidamente residência familiar para, posteriormente, vir a informar que tal garantia não encontra respaldo legal, pugnando pela sua exclusão (vedação ao comportamento contraditório).  ..  Tem-se, assim, a ponderação da proteção irrestrita ao bem de família, tendo em vista a necessidade de se vedar, também, as atitudes que atentem contra a boa-fé e a eticidade, ínsitas às relações negociais"(REsp 1.782.227/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 29.8.2019).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.522.859/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 11/10/2021, DJe de 17/11/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE EXECUÇÃO EXTRAJUDICIAL. 1. NOTIFICAÇÕES DO ART. 31, IV, DO DECRETO-LEI N. 70/1966. INCIDÊNCIA DA SÚMULA N. 7/STJ. 2. NECESSIDADE DE INTIMAÇÃO PESSOAL ACERCA DA REALIZAÇÃO DO LEILÃO. DISSÍDIO JURISPRUDENCIAL. SITUAÇÃO FÁTICA QUE NÃO AUTORIZA O PROVIMENTO DO RECURSO. AUSÊNCIA DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. 3. AGRAVO DESPROVIDO.
+1. O acolhimento da assertiva de não recebimento dos avisos de que trata o art. 31, IV, do Decreto-Lei 70/1966 enseja reexame de prova.
+Incidência da Súmula 7 do STJ.
+2. A situação fática dos autos não autoriza o provimento do recurso, uma vez que os próprios agravantes demonstram que tiveram ciência inequívoca da data, hora e local do leilão, em razão de haverem ingressado com medida cautelar, da qual resultou a suspensão liminar da praça.
+3. Não se decreta a nulidade, embora constatado o vício no ato processual, se não houver prejuízo, conforme brocardo pas de nullité sans grief, previsto em nosso ordenamento jurídico, especialmente nos arts. 249, § 1º, e 250, parágrafo único, do CPC/1973.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 606.517/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 25/3/2019, DJe de 28/3/2019.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Ademais, rever as conclusões quanto à ausência de prejuízo demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE, RECONSIDERANDO DELIBERAÇÃO ANTERIOR, CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA AUTORA.
+1. O Tribunal local decidiu em conformidade com a jurisprudência desta Corte Superior de Justiça, no sentido de que só se declara a nulidade de atos processuais caso verificada a ocorrência de efetivo prejuízo a uma das partes. Incidência da Súmula 83 do STJ. 1.1. Para aferir a ocorrência de cerceamento de defesa e a existência de prejuízo, como pretende a agravante, seria necessário a incursão no acervo fático-probatório dos autos, prática vedada pela Súmula 7/STJ. Precedentes.
+2. Alterar as premissas adotadas pelo decisum atacado, no tocante à alegada exceção do contrato não cumprido, demandaria a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, providência inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp n. 548.003/SP, relator Ministro MARCO BUZZI, Quarta Turma, j. em 23/10/2018, DJe de 29/10/2018.)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(2) Da incidência da Súmula 283 do STF, por analogia
+Nas razões do presente recurso, POLIMIX afirmou a violação dos arts. 373, I e II, 700 e 701 do NCPC, bem como dissídio jurisprudencial, ao sustentar que houve comprovação de entrega da mercadoria, bem como de que a entrega se deu no endereço da obra, o que evidencia a aparência de legalidade, não competindo ao vendedor a comprovação de que o agente recebedor seja preposto da sociedade compradora.
+Contudo, da acurada análise do acórdão recorrido, é possível verificar que o Tribunal estadual consignou que a relação jurídica foi negada nos embargos à monitória, mas não POLIMIX não se desincumbiu do ônus de comprovar a relação contratual na impugnação por ela oferecida, pleiteando julgamento antecipado da lide, confira-se:
+Da documentação colacionada à inicial, verifico que nas duplicatas, fls. 07v, 08v e 09v, não consta o aceite do devedor. As notas fiscais de fls. 10/85 foram impugnadas pela apelante, defendendo a produção unilateral dos documentos e que as mercadorias não foram recebidas por qualquer de seus representantes.
+Ora, negada a existência da relação jurídica, impõe-se à autora a comprovação da realização do negócio jurídico objeto da monitória.
+Na impugnação aos embargos monitórios, a autora restringe-se a alegar que a inicial resta instruída com as duplicatas, notas fiscais de entrega dos produtos, bem como boletos bancários, prova cabal do débito. Entretanto, não fora colacionado suposto contrato comercial ou qualquer correio eletrônico ou outras provas aptas a demonstrar a existência de relação comercial entre as partes.
+ ..
+No entanto, desse encargo a autora não se desincumbiu, porquanto sequer carreou aos autos indícios da relação negocial, e, na impugnação aos embargos monitórios, pugnou pelo julgamento antecipado da lide, pelo que deve ser reformada a sentença para julgar improcedente o pedido inicial (e-STJ, fls. 354/355).
+Assim, da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA MERO DESPACHO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. REVISÃO. SÚMULA 7/STJ. INEXISTÊNCIA DE COISA JULGADA. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Conforme o disposto no art. 1.001 do Código de Processo Civil de 2015, dos despachos não cabe recurso. No presente caso, é nítida a ausência de conteúdo decisório no referido despacho, tratando-se, tão somente, de ato judicial destinado a dar andamento ao processo, na forma estabelecida pelo art. 203, § 3º, do CPC/2015.
+1.1. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à ausência de cunho decisório e de prejuízo, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.646.320/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/02/2022, DJe 23/02/2022)
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONSÓRCIO MENDES JUNIOR-SERVIX, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. DUPLICATAS SEM ACEITE. NULIDADE DE INTIMAÇÃO. PREJUÍZO. INEXISTÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. RELAÇÃO NEGOCIAL. COMPROVAÇÃO AUSENTE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
