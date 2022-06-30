@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DENER HENRIQUE DE OLIVEIRA agrava da decisão de fls. 144-145, em que indeferi liminarmente o habeas corpus para manter a natureza hedionda do delito de tráfico de drogas.
+Para tanto, assere que "o comportamento imputado ao paciente não deve ser equiparado à falta grave, tampouco à fuga. As infrações administrativas de natureza grave estão descritas no artigo 50 e seguintes da Lei nº 7.210/84 e, dentre o rol ali previsto, não se vislumbra a hipótese de "atraso no retorno da saída temporária". Diante de todos estes esclarecimentos, nos termos do quanto estabelecido no artigo 45, inciso XXII, da Resolução SAP 144/2010, é de se reconhecer que a conduta imputada ao paciente se enquadra como falta disciplinar de natureza média" (fl. 151).
+Requer, assim, "seja concedida a ordem de habeas Corpus, para o fim de ser reconhecida a ocorrência de falta disciplinar de natureza média, nos termos do artigo 45, inciso XXII, da Resolução SAP 144/2010" (fl. 152).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INFRAÇÃO DISCIPLINAR. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte de origem apontou não apenas a previsão legal da conduta a título de falta grave como também a existência de elementos a demonstrar a materialidade e a autoria imputada ao paciente, de modo que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme apontado na decisão vergastada, asseriu a defesa que, "em razão de se tratar de um atraso no retorno da saída temporária, tal conduta se encontra qualificada em nossa legislação como falta disciplinar de natureza média". Ainda, ponderou que, "embora tenha ocorrido o atraso para retorno ao estabelecimento prisional, o paciente apresentou-se espontaneamente, aduzindo que confundiu a data exata em que deveria retornar à unidade" (fl. 5).
+A esse respeito, não olvido que " o  atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, VI, c.c art. 39, V, da LEP)" (HC n. 390.313/SP, Rel. MinistroNefi Cordeiro, 6ª T., DJe 6/11/2017).
+Também não passa desapercebido que "" o  reconhecimento de falta disciplinar de natureza grave, em caso de fuga do estabelecimento prisional ou de não retorno de saída temporária,somente é possível com a devida instauração de procedimento administrativo disciplinar pelo diretor do presídio, conforme entendimento desta Corte (REsp n. 1.378.557/RS, submetido ao rito previsto no art. 543-C do Código de Processo Civil, DJe 21/3/2014 e Súmula n. 533 do STJ)" (HC 349.671/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 31/5/2016)" (AgInt no AgRg no AREsp n. 958.602/RS, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 16/2/2017, grifei),procedimento que foi respeitado na espécie.
+Sobre o ponto, apontou a Corte de origem que "a justificativa trazida pelo apenado, no sentido de não saber ler, não convence, pois ele apresenta escolaridade equivalente ao ensino fundamental" (fl. 139). Também lembrou que " o descumprimento da data e horário estipulados para o retorno de saída temporária demonstra falta de comprometimento e de senso de responsabilidade do agravante" (fl. 138).
+Por fim, urge consignar que " a dentrar na questão da plausibilidade da justificativa que o paciente apresentou para seu atraso ao retorno da saída temporária, considerado como falta grave,seria revolver matéria probatória, inviável de ser revista no rito célere da ação constitucional de habeas corpus" (HC n. 162.903/SP, Rel. MinistroGilson Dipp, 5ª T., DJe 1º/7/2011, destaquei).
+À vista do exposto, nego provimento ao recurso.
