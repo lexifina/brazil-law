@@ -1,0 +1,8 @@
+Art. 36-A. O direito de a GOIASPREV apurar e constituir seus créditos previdenciários extingue-se após 5 (cinco) anos, a partir:
+I - do primeiro dia do exercício seguinte àquele em que o crédito poderia ter sido constituído; ou
+II - da data em que se tornar definitiva a decisão que houver anulado, por vício formal, a constituição de crédito anteriormente efetuada.
+§ 1o Os créditos da GOIASPREV, apurados em sua liquidez, sua exigibilidade e sua certeza, serão inscritos como Dívida Ativa Previdenciária ou Dívida Ativa Não Previdenciária, conforme o caso, após esgotado o prazo de pagamento fixado pela lei ou por decisão final prolatada em regular processo administrativo.
+§ 2o A GOIASPREV poderá celebrar convênio ou termo de cooperação com os órgãos estaduais, para inscrição de seus créditos não previdenciários.
+§ 3o A apuração, a inscrição, a expedição da Certidão de Dívida Ativa para a cobrança da Dívida Ativa da GOIASPREV, o parcelamento de débitos previdenciários ou não previdenciários e o seu ajuizamento observarão o disposto no Código Tributário do Estado de Goiás, na Lei Complementar no 161, de 2020, na Lei federal no 6.830, de 22 de setembro de 1980, e na Lei no 13.800, de 18 de janeiro de 2001, no que se refere aos procedimentos e aos prazos processuais para notificação, defesa e recursos.
+§ 4o A Dívida Ativa Previdenciária ou Não Previdenciária abrange também os valores correspondentes à respectiva atualização monetária, à multa e aos juros previstos em lei e demais encargos incidentes.
+§ 5o Poderá ser instituído, por ato normativo da GOIASPREV, o Cadastro de Devedores Previdenciários, sem prejuízo da inscrição do devedor em sistema de proteção ao crédito.
