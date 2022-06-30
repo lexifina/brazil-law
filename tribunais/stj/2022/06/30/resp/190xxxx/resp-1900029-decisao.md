@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se deRecurso Especial interposto com base no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+ADMINISTRATIVO. FGTS. SAQUE PARA PAGAMENTO DE FINANCIAMENTO IMOBILIÁRIO. DIREITO CONSTITUCIONAL DE MORADIA. IMÓVEL NÃO VINCULADO AO SFH. POSSIBILIDADE DESDE QUE PREENCHIDAS AS CONDIÇÕES PARA FINANCIAMENTO PELO SFH. INOCORRÊNCIA. APELAÇÃO PROVIDA.
+1. A sentença apelada rejeitou a preliminar de ilegitimidade passiva suscitada pelo Banco BRADESCO S/A e julgou procedente o pedido para determinar a liberação do saldo do FGTS da parte autora junto à CAIXA ECONÔMICA FEDERAL - CEF, cujos valores serão utilizados para amortização do saldo devedor e prestações do financiamento imobiliário contraído pelos autores perante o BRADESCO S/A, que ficará adstrito ao recebimento dos referidos valores para utilizá-los como amortização extraordinária no contrato pactuado pelos promoventes para aquisição de imóvel próprio.
+2. A jurisprudência pátria firmou entendimento no sentido de que o direito de moradia justifica a liberação dos saques de FGTS inclusive no caso de contrato que não esteja vinculado ao Sistema Financeiro de Habitação - SFH, desde que preenchidas as condições para o imóvel ser financiado pelo SFH.
+3. Precedentes: STJ, Resp 6699321/RN, Rel. Min. CASTRO MEIRA, DJU 12.09.2005, p. 287; TRF5, PROCESSO: 08034606920154058500, AC - Apelação Civel - , DESEMBARGADOR FEDERAL EDÍLSON NOBRE, 4ª Turma, JULGAMENTO: 20/10/2016;TRF5 PROCESSO: 08055491520194050000, AG - Agravo de Instrumento - , DESEMBARGADOR FEDERAL ROGÉRIO ROBERTO GONÇALVES DE ABREU (CONVOCADO), 3ª Turma, JULGAMENTO: 09/08/2019.
+4. No momento da celebração do contrato, o imóvel financiado pela apelada foi avaliado em R$ 740.000,00 (setecentos e quarenta mil) - valor superior ao limite estabelecido para o SFH (R$ 650.000,00), vigente à época da celebração do contrato de financiamento, o que obstou a liberação do saldo da conta vinculada.
+5. Apelação da CEF provida, julgando-se improcedente o pedido autoral. Honorários advocatícios fixados em R$ 3.000,00 (três mil reais), pro rata, em benefício da Caixa e do BRADESCO (art. 85, parágrafo 8º, do CPC/2015).
+Sustenta a parte agravante, em Recurso Especial, divergência jurisprudencial e aduz:
+Na época que firmaram o contrato de compra do imóvel mediante financiamento imobiliário junto ao Bradesco, em 10.12.2015, os recorrentes tentaram utilizar do saldo existente nas suas contas de FGTS como parte do pagamento, porém, foram informados que diante do valor da avaliação do imóvel, de R$740.000,00, não seria possível usar tal modalidade de financiamento do SFH, pois o limite máximo do valor do imóvel nesse caso na época era de R$650.000,00 para o CEARÁ, apesar de nos Estados da Federação de Minas Gerais, Rio de Janeiro e São Paulo e no Distrito Federal ser de R$750.000,00, ficando demonstrada a falta de isonomia no caso em tela para os brasileiros de outros Estados da Federação.
+(..)
+Enfim, como alega os recorrentes, o rol do art. 20, inc. VI, da Lei 8.036/90 é exemplificativo, e não taxativo como foi o entendimento apresentado no acórdão que requer ser reformado. Entendimento este taxativo que não autorizou a amortização extraordinária do saldo devedor do financiamento do imóvel, por este ter sido financiado pelo SFI e não pelo SFH, pois há época do financiamento este tinha o valor de avaliação superior ao limite do SFH, apensar do valor ser inferior ao limite do SFH nos Estados de Minas, Rio de Janeiro, São Paulo e Distrito Federal, causando quebra de isonomia entre os entes da federação para uso dos recursos do SFH, algo que não existe mais.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 24.6.2022.
+A irresignação não merece prosperar.
+Trata-se de ação na qual a parte requer o saque do saldo do FGTS para amortização de saldo devedor de imóvel financiado fora do Sistema Financeiro de Habitação (SFH).
+No entanto, a jurisprudência do Superior Tribunal de Justiça entende que somente é possível a utilização do saldo do FGTS quando o imóvel financiado preencha as condições daqueles que foram financiados pelo SFH.
+A propósito, recente decisão do STJ a respeito do tema:
+CIVIL. FGTS. LIBERAÇÃO DE CONTA E SAQUE DE VALORES. AMORTIZAÇÃO DE SALDO DEVEDOR DE FINANCIAMENTO HABITACIONAL FORA DO SFH. IMPOSSIBILIDADE. ART. 20, V, DA LEI N. 8.036/1990. ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO VERIFICADA. CONSONÂNCIA DO ACÓRDÃO COM JURISPRUDÊNCIA DESTA CORTE.
+I - Trata-se de ação pleiteando, em suma, o levantamento de saldo de conta do Fundo de Garantia por Tempo de Serviço - FGTS para quitar parcelas de financiamento imobiliário feito fora do Sistema Financeiro de Habitação - SFH. O Tribunal Regional Federal da 5ª Região manteve a sentença de improcedência do pedido (fls. 81-84).
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Lado outro, em que pese o art. 20 da Lei n. 8.036/1990, apresente rol exemplificativo das hipóteses autorizadoras de movimentação da conta do FGTS, esta Corte Superior entende que somente é possível utilizar o referido saldo para pagamento de imóvel, financiado fora do SFH, quando a moradia preencha os requisitos para ser por ele financiada.
+IV - In casu, o imóvel em questão não foi financiado pelo SFH, pois seu valor superava o teto estipulado deixando, portanto, de preencher todos os requisitos do Sistema Financeiro de Habitação.
+Por tal motivo, em consonância com o entendimento desta Corte, o saldo da conta FGTS não pode ser movimentado, conforme pretendido pelos recorrentes. A propósito, vide o seguinte precedente, que analisa caso assemelhado: AgInt no REsp n. 1.878.773/PE, relator Ministro Benedito Gonçalves, DJe 9/10/2020.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.938.084/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+O Tribunal de origem decidiu consonante a jurisprudência do STJ; assim, não há o que alterar na decisão da corte a quo.
+Acrescento que a incidência da referida súmula impede o exame de dissídio jurisprudencial. Falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+A propósito, confira-seprecedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REQUISITOS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C". PREJUDICADA.
+1. Não há como aferir eventual concordância da CDA com os requisitos legais exigidos sem que se analise o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice na sua Súmula 7, cuja incidência é induvidosa no caso.
+2. O reexame do conjunto fático-probatório da causa obsta a admissão do Recurso Especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional. Recurso Especial não conhecido (REsp 765.505/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJ 20-3-2006).
+3. Agravo Regimental não provido.
+(AgRg no AREsp 582.345/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/12/2014).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
