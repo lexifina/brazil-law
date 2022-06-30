@@ -1,0 +1,97 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO EMBARGADO. INOCORRÊNCIA.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que desproveu o agravo regimental pois, na espécie, à conta de omissão no decisum, pretende o embargante a rediscussão de matéria já apreciada.
+Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de embargos de declaração no agravo regimental no agravo em recurso especial opostos por GILMARA LIMA LASCLOTA em face do v. acórdão proferido pela eg. Quinta Turma.
+Consta dos autos que o MM. Juízo de primeiro grau condenou a ora agravante como incursa nas sanções do art. 33, caput, e do art. 35, caput, ambos da Lei n. 11.343/2006, à pena de 10 (dez) anos e 6 (seis) meses de reclusão, no regime inicial fechado, mais 1.450 dias-multa (fls. 1.287-1.316).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa (fls. 1.666-1.686). Eis a ementa do acórdão:
+"TRÁFICO DE ENTORPECENTES e ASSOCIAÇÃO PARA O TRÁFICO. Conduta de associar-se de modo estável e duradouro para comercializar drogas, bem como guardar 29,7Kg de cocaína, com intuito mercantil. Materialidade e autoria demonstradas. Prova pericial e oral. Prisão em flagrante e depoimento das testemunhas. Investigações reveladoras do comércio ilícito realizado de forma organizada e estável. Suficiência para a condenação.
+Penas bem dosadas. Apelos desprovidos."
+Opostos embargos de declaração, pela combativa Defesa (fls. 1.693-1.699), foram eles rejeitados, à unanimidade de votos, nos termos da ementa a seguir transcrita:
+"EMBARGOS DE DECLARAÇÃO. Oposição contra acórdão. Arguição de omissão. Inocorrência. Teses defensivas suficientemente enfrentadas. Embargos rejeitados."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alegou que "contrariedade na aplicação do art. 35 (associação para o tráfico) e art. 42 (natureza e quantidade da droga para a fixação da pena), todos da Lei nº 11.343/2006; art. 59 do CP (critérios de fixação da pena-base); art. 564, IV, do CPP (nulidade absoluta), todos contidos em diplomas de natureza de lei federal" (fl. 1.779).
+Aduziu, outrossim, que houve "NULIDADE DOS ELEMENTOS DE PROVA ENCARTADOS APÓS A INSTRUÇÃO. NULIDADE ABSOLUTA. FRONTAL VIOLAÇÃO DO ART. 564, IV, CPP" (fl. 1.780).
+Informou, ademais, que "o pas de nullité sans grief é uma norma-regra contida no art. 563 do CPP. De aplicação direta, não se confunde com um princípio, este um mandado de otimização a condicionar a interpretação de toda a matéria de nulidade" (fl. 1.783).
+Por fim, disse que houve "VIOLAÇÃO DO ART. 35 E ART. 42 DA LEI Nº 11.343/2006. NUANCES QUE ENVOLVEM A PRIMEIRA FASE DE DOSIMETRIA DE PENA. ART. 59 DO CP. DA INDISPENSÁVEL REVISÃO DA DOSIMETRIA DE PENA REALIZADA" (fl. 1.785).
+Apresentadas as contrarrazões (fls. 1.818-1.828), o especial foi inadmitido na origem pela incidência da Súmula n. 7/STJ (fls. 1.875-1.876).
+Foi interposto o respectivo agravo, no qual o agravante, em apertada síntese, repisou os argumentos expendidos no apelo nobre (fls. 1.892-1.908).
+Em decisão de fls. 2.071-2.072, a Presidência não conheceu do agravo, em virtude da ausência de impugnação aos fundamentos da decisão que inadmitiu o apelo nobre.
+Foi interposto o respectivo agravo regimental, por meio do qual se alegou, em síntese, que:
+a) Há "POSSIBILIDADE DE SUSTENTAÇÃO ORAL DOS PATRONOS EM SEDE DE AGRAVO", pois "Em homenagem ao princípio da ampla defesa, fica evidente a importância da sustentação oral em sessão de julgamento. Isto porque a exposição dos argumentos da tribuna permite o realce da demanda em seus aspectos mais relevantes" (fl. 2.081);
+b) " ..  diferentemente do que arguido, o recurso apresenta fundamentação robusta e suficiente, observando fielmente o que dispõe o art. 1.029 do CPC, sendo certo que não incide ao caso concreto os óbices sumulares evocados" (fl. 2.084);
+Repisou, ademais, os argumentos expendidos no apelo nobre.
+Requereu, ao final, o provimento do recurso para (fl. 2.094):
+"a) Decretar a nulidade do processo nos termos do art. 564, inciso IV, do CPP, na medida em que frontalmente violada a ampla defesa em razão do encarte de cruciais peças de informação ao final da instrução, elementos que foram larga e inadvertidamente utilizados no bojo da sentença penal condenatória sem a chancela do contraditório, causando incomensurável prejuízo à Defesa. Não sendo este o entendimento, que seja extirpada a condenação pelo delito associativo em questão pelo mesmíssimo fundamento, analisando a hipótese de incidência do § 4º do art. 33 da Lei nº 11.343/06 ao caso.
+b) Subsidiariamente, retificar os parâmetros utilizados em dosimetria de penas, reconhecendo-se se tratar de circunstância única aquela inserta no art. 42 da Lei nº 11.343/06, o que, se autoriza eventual exasperação, o faz num patamar sensivelmente menor do que o utilizado, no máximo de 1 3 (um terço)."
+Pelo despacho de fl. 2.099, foi determinada a distribuição dos autos.
+Conforme Termo de Distribuição e Encaminhamento de fl. 2.102, o feito foi a mim atribuído.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, nos termos da ementa a seguir transcrita:
+"AGRAVO REGIMENTAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. ARESP NÃO CONHECIDO PELO MINISTRO PRESIDENTE DO STJ. FUNDAMENTOS DO JUÍZO DE ADMISSIBILIDADE ENFRENTADOS. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CF/88. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 35 E 42 DA LEI Nº 11.343/06, 59 DO CP E 564, IV, DO CPP. JUNTADA DE DOCUMENTOS A PEDIDO DA DEFESA E DO MINISTÉRIO PÚBLICO. CONTRADITÓRIO OPORTUNIZADO. NULIDADE INEXISTENTE. PREJUÍZO NÃO DEMONSTRADO. DOSIMETRIA. PENA-BASE FUNDAMENTADA E PROPORCIONAL. AUSÊNCIA DE ILEGALIDADE. PARECER PELO CONHECIMENTO DO ARESP PARA DESPROVER O RECURSO ESPECIAL."
+A eg. Quinta Turma deste Superior Tribunal, em decisão unânime, negou provimento ao agravo regimental (fls. 2.115-2.126), nos termos da ementa a seguir transcrita:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido."
+Daí a oposição dos presentes embargos de declaração (fls. 2.129-2.131), por meio dos quais se alega ocorrência de omissão no acórdão recorrido, no que se refere à " ..  detração na pena da embargante no total de 2 (dois) anos, 8 (oito) meses e 5 (cinco) dias, reconhecendo todos os reflexos jurídicos inerentes" (fl. 2.130).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO EMBARGADO. INOCORRÊNCIA.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que desproveu o agravo regimental pois, na espécie, à conta de omissão no decisum, pretende o embargante a rediscussão de matéria já apreciada.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): A irresignação não merece acolhida.
+Como cediço, são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Não há, na hipótese, qualquer vício a ser sanado.
+Nas razões do recurso integrativo, sustenta-se que o acórdão recorrido foi omisso em relação à " ..  detração na pena da embargante no total de 2 (dois) anos, 8 (oito) meses e 5 (cinco) dias, reconhecendo todos os reflexos jurídicos inerentes" (fl. 2.130).
+Contudo, ao contrário do que mencionado no presente reclamo, no julgamento do agravo regimental, às fls. 2.115-2.126, foram explicitados, à saciedade de fundamentos, os motivos pelos quais se negou provimento ao agravo regimental.
+Vale a pena transcrever o excerto do v. acórdão que tratou da quaestio:
+"O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida.
+Conforme relatado, o especial foi inadmitido na origem pela incidência da Súmula n. 7/STJ (fls. 1.875-1.876).
+No entanto, a ora recorrente, quando da interposição do respectivo agravo, deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal a quo para negar trânsito ao recurso especial.
+De fato, em percuciente análise dos autos, constata-se que a recorrente limitou-se a tecer considerações a respeito da não aplicação, in casu, do óbice sumular contido na Súmula n. 7/STJ, como dito no decisum reprochado.
+Limitou-se a alegar, em síntese, que "O que se busca no presente recurso é o restabelecimento da correta aplicação dos seguintes dispositivos de lei federal: arts. 35 e 42, ambos da Lei nº 13.343/06 e arts. 59 e 564, IV, ambos do CPP" (fl. 1.898).
+Com efeito, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação do referido óbice sumular, de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Como cediço, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016, grifei).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+Conforme mencionado pela d. Presidência, no decisum monocrático reprochado (fl. 2.071):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial."
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+No mesmo sentido, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido, e em reforço:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Por fim, no que diz respeito à alegação no sentido de que há "POSSIBILIDADE DE SUSTENTAÇÃO ORAL DOS PATRONOS EM SEDE DE AGRAVO", pois "Em homenagem ao princípio da ampla defesa, fica evidente a importância da sustentação oral em sessão de julgamento. Isto porque a exposição dos argumentos da tribuna permite o realce da demanda em seus aspectos mais relevantes" (fl. 2.081), de igual modo, diviso que o reclamo não merece acolhimento.
+Com efeito, no que diz respeito ao pleito de sustentação oral, dessume-se do artigo 159, inciso IV, do RISTJ, e da jurisprudência consolidada desta Corte Superior que não é cabível tal pedido em sede de agravo regimental. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSTENTAÇÃO ORAL. INVIABILIDADE. ART. 159, IV, DO REGIMENTO INTERNO DO STJ.
+A jurisprudência desta Corte consolidou entendimento no sentido de não ser cabível sustentação oral no julgamento de agravo regimental. Inteligência do disposto nos artigos 159, IV, e 158, ambos do RISTJ. Precedentes.
+ ..
+4. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 823.831/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 18/11/2016, grifei).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. PRELIMINAR DE VIOLAÇÃO À AMPLA DEFESA EM RAZÃO DA IMPOSSIBILIDADE DE REALIZAR SUSTENTAÇÃO ORAL. INOCORRÊNCIA. PLEITO DE ATIPICIDADE MATERIAL DA CONDUTA EM RAZÃO DA ÍNFIMA ELISÃO. IMPOSSIBILIDADE. HABITUALIDADE DELITIVA CARACTERIZADA PELA EXISTÊNCIA DE OUTROS PROCEDIMENTOS ADMINISTRATIVOS FISCAIS. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESTA SUPERIOR CORTE DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte (arts. 544, § 4º, do CPC e 34, VII, e 253, I, do RISTJ), o relator deve fazer um estudo prévio da viabilidade do agravo em recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Registre-se, ainda, que aquela previsão regimental não implica cerceamento ao direito de defesa, por eventual supressão do direito de o patrono da parte realizar sustentação oral, muito menos quando se deseja exercer tal faculdade em sede de agravo regimental, a teor do art. 159 do RISTJ (ut, AgRg no HC 173.398/SC, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 25/08/2015).
+ ..
+6. Agravo regimental improvido" (AgRg no REsp n. 1.603.590/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/12/2016, grifei).
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental."
+Da análise dos excertos acima transcritos, percebe-se que, na verdade, o que pretende o embargante é o reexame da matéria já julgada, situação que, enfatize-se, não se coaduna com a estreita via dos declaratórios.
+Verifica-se, portanto, que o acórdão recorrido não padece de qualquer omissão, porquanto analisou fundamentadamente o agravo regimental trazido à sua análise.
+Por oportuno, cumpre informar que não compete a esta e. Corte Superior de Justiça analisar eventual ocorrência de detração penal, que, nos termos do que dispõe o art. 387, caput, e § 2º, do Código de Processo Penal, estão adstritas a esfera de competência do magistrado, quando da prolação da sentença condenatória.
+Rejeito, portanto, os embargos de declaração.
+É o voto.
