@@ -1,0 +1,110 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0702566-08.2020.8.07.0001EMBARGANTE(S)ANTONIO EURY BRAGA PEREIRA LUNA e JULIA REGINA BRAGA PEREIRA LUNAEMBARGADO(S)IATE CLUBE DE BRASILIARelatorDesembargador JAMES EDUARDO OLIVEIRA Acórdão Nº1435941
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE. INCONFORMISMO. VIA RECURSAL INADEQUADA. PREQUESTIONAMENTO. REQUISITOS NÃO ATENDIDOS.
+
+I. Os embargos de declaração têm caráter integrativo e seu cabimento pressupõe a existência de algum dos vícios contemplados no artigo 1.022 do Código de Processo Civil, não se coadunando com projeto recursal de cunho modificativo.
+
+II. O cabimento dos embargos declaratórios, mesmo quando interpostos com o propósito de prequestionamento, está irrestritamente adstrito à presença de algum dos vícios previstos no artigo 1.022 do Código de Processo Civil.
+
+III. Recurso desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JAMES EDUARDO OLIVEIRA - Relator, LUCIMEIRE MARIA DA SILVA - 1º Vogal e FERNANDO HABIBE - 2º Vogal, sob a Presidência do Senhor Desembargador FERNANDO HABIBE, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO, UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 08 de Julho de 2022
+
+Desembargador JAMES EDUARDO OLIVEIRARelator
+
+RELATÓRIO
+
+ANTONIO EURY BRAGA PEREIRA LUNA e JULIA REGINA BRAGA PEREIRA LUNA interpõem EMBARGOS DE DECLARAÇÃO em face do acórdão de fls. 1/10 ID 30624512.
+
+Os Embargantes sustentam que o acórdão é omisso quanto aos artigos 326, 325, 322, e 1022, § único, do Código de Processo Civil, bem como aos artigos 57 e 58, do Código Civil.
+
+Alegam que não houve apreciação do pedido de declaração de nulidade da deliberação que alterou o artigo 28, III, da norma estatutária, bem como do pedido de declaração do direito da 2ª Requerente de se manter na condição de sócia dependente, enquanto solteira for.
+
+Requerem o provimento do recurso, com efeitos infringentes, para suprir as omissões apontadas e ressalta o propósito de prequestionamento.
+
+Em contrarrazões, o Embargado argumenta que o recurso traduz mero inconformismo com o resultado do julgamento.
+
+Pugna pelo desprovimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - Relator
+Presentes os pressupostos objetivos e subjetivos de admissibilidade, conheço do recurso.
+
+Não se divisam os vícios apontados, uma vez que todas as questões que constituem o objeto do recurso foram expressamente examinadas.
+
+O colegiado analisou as teses articuladas e solucionou a controvérsia à luz do direito que os julgadores entenderam aplicável à espécie, reconhecendo a decadência do direito dos Embargantes, consoante consta do seguinte trecho do acórdão:
+
+O pleito anulatório deduzido na petição inicial, de cunho desconstitutivo, não provém de relação obrigacional e por isso está sujeito a decadência.
+
+Ao contrário da prescrição, que se circunscreve aos direitos subjetivos cuja satisfação pressupõe o cumprimento de uma obrigação e por isso atua no terreno das ações condenatórias, a decadência se relaciona aos chamados direitos potestativos e se verifica no plano das ações constitutivas. Na precisa abordagem de Humberto Theodoro Júnior:
+
+ “Cotejando o direito subjetivo do titular de um direito potestativo com o sistema processual, ver-se-á que, na classificação das ações pela eficácia da sentença, a prescrição é aplicável às ações condenatórias, e a decadência, às ações constitutivas. É que nas ações condenatórias o que se obtém em juízo é um comando judicial tendente a impor a realização, pelo demandado, de uma prestação em favor do demandante. As pretensões, que se extinguem pela prescrição, são justamente as exigências de prestações não cumpridas a seu tempo pelo obrigado. Daí a conclusão de que são as ações condenatórias as que ensejam a prescrição, quando não exercitadas no prazo da lei. (Comentários ao Novo Código Civil, Forense, 2003, Volume III, Tomo II, p. 349)”
+
+Portanto, a anulação da assembleia que alterou o artigo 28, inciso III, do Estatuto Social do Apelante, veiculada por meio da presente ação constitutiva (constitutiva negativa ou desconstitutiva), expõe-se à decadência.
+
+De acordo com o artigo 48 do Código Civil, decai em três anos o direito de anular deliberações coletivas tomadas por órgãos de direção associativa, in verbis:
+
+“Art. 48. Se a pessoa jurídica tiver administração coletiva, as decisões se tomarão pela maioria de votos dos presentes, salvo se o ato constitutivo dispuser de modo diverso.
+
+Parágrafo único. Decai em três anos o direito de anular as decisões a que se refere este artigo, quando violarem a lei ou estatuto, ou forem eivadas de erro, dolo, simulação ou fraude.”
+
+O Apelante é uma associação civil (clube recreativo) regida por administração coletiva (Assembéia-Geral, Conselho Deliberativo e Conselho Diretor), conforme estabelecem os artigos 59, 60, 69, 76, 83 e 89 do seu Estatuto Social. Logo, o pleito de anulação da deliberação assemblear que mudou o estatuto se submete ao prazo decadencial de 3 (três) anos previsto no artigo 48 do Código Civil. Nesse sentido, decidiu este Tribunal de Justiça:
+
+“CIVIL E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE CONHECIMENTO. DECLARAÇÃO DE NULIDADE DE NEGÓCIO JURÍDICO. DECISÃO TOMADA EM ASSEMBLEIA. COMISSÃO EXECUTIVA. JOCKEY CLUBE. IMPUGNAÇÃO. SÓCIO. LEGITIMIDADE. PRAZO DECADENCIAL. HONORÁRIOS. MAJORAÇÃO. SENTENÇA REFORMADA. 5. Decai em três anos o direito de anular as decisões tomadas por órgão interno de pessoa jurídica, sob o fundamento de inobservância do quórum para deliberação (art. 48, parágrafo único, CC/2002). 5.1 Destarte, "O objetivo de se estabelecer o prazo decadencial é, a partir de seu termo final, estabilização da relação entre os integrantes da pessoa jurídica, já que a deliberação a que se refere é de órgão interno. Assim, deve-se entender que tanto a insuficiência de quórum como os vícios referidos são bastantes para desafiar a anulação, ficando, porém, o ato convalidado pelo decurso do tempo" (in Código Civil Comentado, coordenação Ministro Cezar Peluso, Manole, 6ª edição, pág. 58). 5.2  Ajuizada a ação quando já superado o triênio legal, deve o processo ser extinto, com resolução do mérito, na forma do art. 269, IV, do CPC, em razão da decadência. (...) (APC 20120111983912, 2ª T., rel. Des. João Egmont, DJE 3/11/2015)”
+
+A assembleia geral que modificou o estatuto foi realizada em 30/11/2014, de maneira que, ao tempo do ajuizamento da demanda, no dia 28/01/2020, estava consumada a decadência do direito à sua anulação. Sobre a matéria, vale colacionar o seguinte julgado desta Corte de Justiça:
+
+“APELAÇÃO CÍVEL. PRELIMINAR. JULGAMENTO EXTRA PETITA. NÃO VERIFICADO. ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO SEM FINS LUCRATIVOS. CLUBE RECREATIVO. ASSOCIADO. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. TRATAMENTO DIFERENCIADO. IMPOSSIBILIDADE. NECESSÁRIA ANULAÇÃO DA DISPOSIÇÃO ESTATUTÁRIA. DECADÊNCIA. INEXISTÊNCIA DE DIREITO ADQUIRIDO. (...) 3. Para se promover tratamento diferenciado às dependentes, em sentido contrário à modificação promovida no Estatuto Social do clube, certo é que se revela necessário que haja a anulação da disposição estatutária, por se tratar de questão prejudicial, sendo certo que o prazo decadencial para tanto é de 3 (três) anos, conforme disposição do parágrafo único, do art. 48, Código Civil. 4. Embora seja estabelecido como direito do sócio patrimonial frequentar o clube com os seus dependentes, certo é que o enquadramento de dependentes pode ser alterado por decisão do Conselho Deliberativo submetida à Assembleia Geral Extraordinária designada para tanto, não havendo que se falar em direito adquirido. (APC 07389682520198070001, Rela. Desa. Ana Cantarino, 5ª T., DJe 5/11/2020)”
+
+O prazo decadencial se inicia a partir da própria deliberação assemblear cuja anulação se pretende, tendo em vista que, a partir daí, surge o direito potestativo à anulação, consoante a inteligência do artigo 207 do Código Civil. Discorrendo sobre a decadência e seu termo inicial, ensina Francisco Amaral:
+
+“Seu objeto são direitos potestativos, de qualquer espécie, disponíveis e indisponíveis, direitos que conferem ao respectivo titular o poder de influir ou determinar mudanças na esfera jurídica de outrem, por ato unilateral, sem que haja dever correspondente, apenas uma sujeição. A decadência traduz-se, portanto, em uma limitação que a lei estabelece para o exercício de um direito, extinguindo-o e pondo termo ao estado de sujeição existente. Aplica-se às relações que não contêm obrigações, sendo objeto de ação constitutiva. Na decadência, ainda, o prazo começa a correr no momento em que o direito nasce, surgindo, simultaneamente, direito e termo inicial do prazo, o que não ocorre na prescrição, em que este só corre da lesão do direito subjetivo. O que se tem em mira é, portanto, o exercício do direito potestativo, não a sua exigibilidade, própria da prescrição. O respectivo prazo é rigidamente fixado, sem possibilidade de interrupção ou suspensão, e também menor do que o da prescrição. (Direito Civil – Introdução, 5ª ed., Renovar, p. 579)”
+
+Ressalte-se que a teoria da actio nata não se aplica aos prazos decadenciais e que, demais disso, a publicidade da alteração estatutária observou as normas internas da entidade associativa. A respeito da inaplicabilidade da teoria da actio nata aos prazos decadenciais, transcreve-se elucidativo precedente do Superior Tribunal de Justiça:
+
+“PREVIDENCIÁRIO. CONTROVÉRSIA SUBMETIDA AO REGIME DOS ARTS. 1.036 E SEGUINTES DO CPC/2015. TEMA 975/STJ. REGIME GERAL DE PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. REVISÃO DO ATO DE CONCESSÃO. QUESTÕES NÃO DECIDIDAS. DECADÊNCIA ESTABELECIDA NO ART. 103 DA LEI 8.213/1991. CONSIDERAÇÕES SOBRE OS INSTITUTOS DA DECADÊNCIA E DA PRESCRIÇÃO. AFASTAMENTO DA APLICAÇÃO DO PRINCÍPIO DA ACTIO NATA. IDENTIFICAÇÃO DA CONTROVÉRSIA 1. Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) em que se alega que incide a decadência mencionada no art. 103 da Lei 8.213/1991 mesmo quando a matéria específica controvertida não foi objeto de apreciação no ato administrativo de análise de concessão de benefício previdenciário 2. A tese representativa da controvérsia, admitida no presente feito e no REsp 1.644.191/RS, foi assim fixada (Tema 975/STJ): "questão atinente à incidência do prazo decadencial sobre o direito de revisão do ato de concessão de benefício previdenciário do regime geral (art. 103 da Lei 8.213/1991) nas hipóteses em que o ato administrativo da autarquia previdenciária não apreciou o mérito do objeto da revisão." FUNDAMENTOS DA RESOLUÇÃO DA CONTROVÉRSIA 3. É primordial, para uma ampla discussão sobre a aplicabilidade do art. 103 da Lei 8.213/1991, partir da básica diferenciação entre prescrição e decadência. 4. Embora a questão seja por vezes tormentosa na doutrina e na jurisprudência, há características inerentes aos institutos das quais não se pode afastar, entre elas a base de incidência de cada um deles, fundamental para o estudo da decadência do direito de revisão dos benefícios previdenciários. 5. A prescrição tem como alvo um direito violado, ou seja, para que ela incida deve haver controvérsia sobre o objeto de direito consubstanciada na resistência manifestada pelo sujeito passivo, sendo essa a essência do princípio da actio nata (o direito de ação nasce com a violação ao direito). Essa disciplina é consubstanciada pelo art. 189 do CC: "art. 189. Violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206." 6. Por subtender a violação do direito, o regime prescricional admite causas que impedem, suspendem ou interrompem o prazo prescricional, e, assim como já frisado, a ação só nasce ao titular do direito violado. 7. Já a decadência incide sobre os direitos exercidos independentemente da manifestação de vontade do sujeito passivo do direito, os quais são conhecidos na doutrina como potestativos. Dessarte, para o exercício do direito potestativo e a consequente incidência da decadência, desnecessário haver afronta a esse direito ou expressa manifestação do sujeito passivo para configurar resistência, pois o titular pode exercer o direito independentemente da manifestação de vontade de terceiros. 8. Não há falar, portanto, em impedimento, suspensão ou interrupção de prazos decadenciais, salvo por expressa determinação legal (art. 207 do CC). 9. Por tal motivo, merece revisão a corrente que busca aplicar as bases jurídicas da prescrição (como o princípio da actio nata) sobre a decadência, quando se afirma, por exemplo, que é necessário que tenha ocorrido afronta ao direito (explícita negativa da autarquia previdenciária) para ter início o prazo decadencial. 10. Como direito potestativo que é, o direito de pedir a revisão de benefício previdenciário prescinde de violação específica do fundo de direito (manifestação ostensiva da autarquia sobre determinado ponto), tanto assim que a revisão ampla do ato de concessão pode ser realizada haja ou não expressa análise do INSS. Caso contrário, dever-se-ia impor a extinção do processo sem resolução do mérito por falta de prévio requerimento administrativo do ponto não apreciado pelo INSS. 11. Isso é reforçado pelo art. 103 da Lei 8.213/1991, que estabelece de forma específica o termo inicial para o exercício do direito potestativo de revisão quando o benefício é concedido ("a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação") ou indeferido ("do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo"). 12. Fosse a intenção do legislador exigir expressa negativa do direito vindicado, teria adotado o regime prescricional para fulminar o direito malferido. Nesse caso, o prazo iniciar-se-ia com a clara violação do direito e aplicar-se-ia o princípio da actio nata. 13. Não é essa compreensão que deve prevalecer, já que, como frisado, o direito que se sujeita a prazo decadencial independe de violação para ter início. 14. Tais apontamentos corroboram a tese de que a aplicação do prazo decadencial independe de formal resistência da autarquia e representa o livre exercício do direito de revisão do benefício pelo segurado, já que ele não se subordina à manifestação de vontade do INSS. 15. Considerando-se, por fim, a elasticidade do lapso temporal para os segurados revisarem os benefícios previdenciários, a natureza decadencial do prazo (não aplicação do princípio da actio nata) e o princípio jurídico básico de que ninguém pode alegar o desconhecimento da lei (art. 3º da LINDB), conclui-se que o prazo decadencial deve ser aplicado mesmo às questões não tratadas no ato administrativo de análise do benefício previdenciário. FIXAÇÃO DA TESE SUBMETIDA AO RITO DOS ARTS. 1.036 E SEGUINTES DO CPC/2015 16. Para fins dos arts. 1.036 e seguintes do CPC/2015, a controvérsia fica assim resolvida (Tema 975/STJ): "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário." RESOLUÇÃO DO CASO CONCRETO 17. Na hipótese dos autos, o Tribunal de origem entendeu de forma diversa do que aqui assentado, de modo que deve ser provido o Recurso Especial para se declarar a decadência do direito de revisão, com inversão dos ônus sucumbenciais (fl. 377/e-STJ), observando-se a concessão do benefício da justiça gratuita. CONCLUSÃO 18. Recurso Especial provido. Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015. (REsp 1.644.191/RS, 1ª Seção, rel. Min. Herman Benjamin, DJe 04/08/2020)”
+
+Não há, pois, como evadir-se à conclusão de que o direito à anulação da deliberação da assembleia geral que alterou o artigo 28, inciso III, do Estatuto Social do Apelante, foi suprimido pela decadência. Deliberando sobre caso idêntico, assentou este Tribunal de Justiça:
+
+“APELAÇÃO CIVIL. CIVIL E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA. PEDIDO EM SEDE DE CONTRARRAZÕES. INCABÍVEL. DECISÃO ASSEMBLEAR.  ASSOCIAÇÃO.  DECADÊNCIA. CONFIGURADA. NULIDADE RELATIVA. APLICÁVEL. ART. 48, PARÁGRAFO ÚNICO DO CC. PRAZO DECADENCIAL. TERMO INICIAL DO PRAZO. SURGIMENTO DO DIREITO. (...) 2.  A nulidade relativa caracteriza-se pela violação de interesse particular. Configurado o ato como anulável, este se sujeita à decadência. Doutrina. 3. As decisões assembleares são atos de administração coletiva e se amoldam ao prazo decadencial trienal previsto no art. 48, parágrafo único do Código Civil. Jurisprudência do STJ e deste Tribunal. 4. A decadência atinge o direito potestativo, seu prazo se inicia com o próprio direito, independe do comportamento de outro sujeito e não se submete, em regra, à suspensão, ao impedimento ou à interrupção. Doutrina. 5. Nos casos em que não exercido o direito potestativo no prazo assinalo em lei, mostra-se cabível o reconhecimento da decadência. (APC 07391146620198070001, rel. Des. Arquibaldo Carneiro Portela, 6ª T., DJe 25/11/2020)”
+
+“APELAÇÃO CÍVEL. PRELIMINAR. JULGAMENTO EXTRA PETITA. NÃO VERIFICADO. ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO SEM FINS LUCRATIVOS. CLUBE RECREATIVO. ASSOCIADO. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. TRATAMENTO DIFERENCIADO. IMPOSSIBILIDADE. NECESSÁRIA ANULAÇÃO DA DISPOSIÇÃO ESTATUTÁRIA. DECADÊNCIA. INEXISTÊNCIA DE DIREITO ADQUIRIDO. 1. O julgamento extra petita está intrinsecamente ligado ao enfrentamento de pedido diverso do formulado pelo autor. Constatado que a sentença rejeitou o pedido que foi devidamente formulado na peça de ingresso, não há que se falar em julgamento extra petita com base nos fundamentos utilizados pelo magistrado para decidir a questão. 2. Tratando-se de demanda entre associados e clube recreativo com natureza de "associação civil de direito privado, sem fins lucrativos", não há que se falar em aplicação das normas do Código de Defesa do Consumidor, uma vez que o clube não se enquadra no conceito de fornecedor/prestador de serviços, além dos associados não se enquadrarem no conceito de consumidores. 3. Para se promover tratamento diferenciado às dependentes, em sentido contrário à modificação promovida no Estatuto Social do clube, certo é que se revela necessário que haja a anulação da disposição estatutária, por se tratar de questão prejudicial, sendo certo que o prazo decadencial para tanto é de 3 (três) anos, conforme disposição do parágrafo único, do art. 48, Código Civil. 4. Embora seja estabelecido como direito do sócio patrimonial frequentar o clube com os seus dependentes, certo é que o enquadramento de dependentes pode ser alterado por decisão do Conselho Deliberativo submetida à Assembleia Geral Extraordinária designada para tanto, não havendo que se falar em direito adquirido. 5. Apelo conhecido, preliminar de julgamento extra petita rejeitada e, no mérito, não provido. (APC 07389682520198070001, 5ª T., rela. Desa. Ana Cantarino, DJE 5/11/2020)”
+
+Ad argumentandum, se não fosse aplicável à espécie o prazo trienal do artigo 48 do Código Civil, o direito à anulação estaria fulminado pelo prazo residual de decadência de dois anos previsto no artigo 179 do Código Civil. Na lição de Álvaro Villaça de Azevedo:
+
+“No novo Código Civil, não havendo estipulação de prazo para o exercício da ação anulatória, deverá ser ele de dois anos. Isso quer dizer que a nova ordem legislativa abandonou o sistema anterior, pois o legislador não ficará inibido de fixar prazo decadencial, nesse caso, além do de quatro anos. (Código Civil Comentado, Atlas, Vol. II, p. 330)”
+
+Como todo e qualquer direito potestativo se sujeita à decadência, a exclusão da regra do artigo 48 do Código Civil conduziria à incidência do prazo decadencial supletivo do artigo 179 do mesmo diploma legal.
+
+Sobreleva enfatizar que a decretação da decadência do direito alegado na petição inicial impede a apreciação do mérito propriamente dito da lide, de maneira que não se cogita de omissão no julgado.
+
+Em verdade, os Embargantes discordam da solução jurídica dada ao feito e às matérias suscitadas e pretendem rediscuti-las, o que denota o descabimento da via recursal manejada, cujo escopo é eminentemente integrativo. Como vem decidindo reiteradamente o Supremo Tribunal Federal:
+
+“OS EMBARGOS DE DECLARAÇÃO NÃO SE REVESTEM, ORDINARIAMENTE, DE CARÁTER INFRINGENTE. Não se revelam cabíveis os embargos de declaração quando a parte recorrente – a pretexto de esclarecer uma inexistente situação de obscuridade, omissão, contradição ou erro material (CPC/15, art. 1.022) – vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes. (EDCL no AGRG no RE 809.185/PR, 2ª T., rel. Min. Celso de Mello, DJe 29/06/2016).”
+
+Ausentes vícios no acórdão, é de se salientar que o cabimento dos embargos declaratórios, mesmo quando interpostos com o propósito de prequestionamento, está irrestritamente adstrito à presença de algum dos vícios previstos no artigo 1.022 do Código de Processo Civil. Na lúcida ponderação de Nelson Nery Junior:
+
+“Os EDcl fundados na omissão só serão admissíveis, com caráter prequestionador, quanto à matéria a respeito da qual o tribunal tinha o dever de se pronunciar – quer porque foi argüida, quer porque é de ordem pública –, mas não o fez. (Ainda sobre o prequestionamento – os Embargos de Declaração prequestionadores, in LEITURAS COMPLEMENTARES DE PROCESSO CIVIL, 5ª ed., Podivm, p. 67).”
+
+Partindo da premissa de que o acórdão não se ressente de vícios, o pretexto do prequestionamento não dá respaldo à interposição dos presentes embargos declaratórios.
+
+ISTO POSTO, conheço e nego provimento ao recurso.
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 1º Vogal Com o relatorO Senhor Desembargador FERNANDO HABIBE - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO, UNÂNIME
