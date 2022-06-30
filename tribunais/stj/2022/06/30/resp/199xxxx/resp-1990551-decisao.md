@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial, manejado por CLAIR FRANCISCO BUFFON - ME, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 106):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VEÍCULO. DEVOLUÇÃO. MULTA DIÁRIA. VALOR EXCESSIVO. REVISÃO. POSSIBILIDADE.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 127/130.
+A parte recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 85, §§ 1º e 3º, 815 e 1.022, II, do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca das questões neles suscitadas; (II) "o TRF4, mesmo diante de situação que refletiu proveito econômico a uma das partes, deixou de fixar honorários advocatícios de acordo com a determinação do art. 85, §1º e §3º do código de processo civil" (fl. 145); e (III) "a presunção utilizada pelo Tribunal de origem para se validar a citação do Recorrente violou frontalmente o art. 815 do CPC/15. Isto porque reconhece implicitamente a citação do Recorrente com base em petições realizadas pelos patronos judiciais para definição do local de entrega do bem, e não por citação pessoal" (fl. 146).
+Contrarrazões apresentadas à fl. 179.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O presente recurso especial foi tirado de agravo de instrumento interposto pela ora recorrentecontra decisão de Juiz Singular que "nos autos do Cumprimento de Sentença nº 5004544-07.2014.4.04.7210/SC, afastou as alegações visantes a afastar ou reduzir o valor da multa (evento 216 do processo originário)" (fl. 107)
+Ocorreque, às fls. 197/198 do autos, consta o Ofício nº 40003342096, informando que foi proferida sentença e/ou dada baixa no processo nº 50045440720144047210/SC, que deu origem ao REsp ora em análise.
+Com efeito, em consulta realizada no sítio eletrônico do Tribunal a quo, pode-se verificar que o Juiz Singular proferiu decisão determinando o arquivamento dos autos após "a transferência dos valores devidos à exequente" e já houve inclusive o levantamento dos valores depositados, conforme movimentação do dia 25/05/2022, com baixa definitiva em 24/06/2022 (Processo n. 5004544-07.2014.4.04.7210).
+Nesse panorama, tendo havido a extinção do cumprimento de sentença, é de se reconhecer a perda do objeto do apelo especial.
+Nessa linha de raciocínio:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INSURGÊNCIA QUANTO À SUBMISSÃO DO CRÉDITO EXECUTADO AO PLANO DE RECUPERAÇÃO JUDICIAL. SENTENÇA SUPERVENIENTE DE EXTINÇÃO DO PROCESSO EM FASE DE CUMPRIMENTO DE SENTENÇA PELO PAGAMENTO INTEGRAL DO DÉBITO. PERDA DE OBJETO. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. AGRAVO DESPROVIDO.
+1. A superveniência de decisão que extingue o cumprimento de sentença, pelo pagamento do débito, torna prejudicado o julgamento do agravo de instrumento, em que se discute matéria decidida por decisão interlocutória e que não tem o condão de desconstituir o adimplemento já efetivado. Evidente, assim, a perda superveniente de objeto do agravo de instrumento.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.760.763/DF, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 08/05/2020)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. FATO SUPERVENIENTE. OMISSÃO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA RECONHECER A PERDA DO OBJETO DO RECURSO ESPECIAL.
+1. Extrai-se do feito ter sido proferida decisão que extinguiu o cumprimento da sentença, em razão de os períodos de cálculos serem distintos do período que a União desejava compensar. Nesse panorama, tendo havido a extinção definitiva do feito, é de se reconhecer a perda do objeto do apelo especial.
+2. Embargos de declaração acolhidos, com efeito infringentes, para reconhecer a perda superveniente de objeto do apelo especial.
+(EDcl nos EDcl no AgInt no REsp 1.762.301/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 19/12/2019)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
