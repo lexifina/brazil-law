@@ -1,0 +1,1 @@
+Art. 300-M - A Corregedoria-Geral de Justiça e o Diretor do Foro zelarão pelo bom funcionamento dos serviços notariais e de registro, realizando estudos para propostas de criação, extinção, instalação, desinstalação, acumulação, desacumulação e desdobramento dos serviços notariais e de registro.
