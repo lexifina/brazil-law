@@ -1,0 +1,18 @@
+Art. 38-D. A estrutura de gerenciamento de que trata o art. 7º deve prever, adicionalmente, para o risco social, o risco ambiental e o risco climático:
+I - mecanismos para a identificação e o monitoramento do risco social, do risco ambiental e do risco climático incorridos pela instituição em decorrência dos seus produtos, serviços, atividades ou processos e das atividades desempenhadas por:
+a) contrapartes da instituição, conforme definição estabelecida no art. 21, § 1º, inciso I;
+b) entidades controladas pela instituição, nos termos dos critérios estabelecidos no § 2º deste artigo; e
+c) fornecedores e prestadores de serviços terceirizados da instituição, quando relevantes, com base em critérios por ela estabelecidos;
+II - identificação, avaliação, classificação e mensuração do risco social, do risco ambiental e do risco climático com base em critérios e informações consistentes e passíveis de verificação, incluindo informações de acesso público;
+III - registro de dados relevantes para o gerenciamento, incluindo, quando disponíveis, dados referentes às perdas incorridas pela instituição, discriminadas, conforme o caso, em risco social, risco ambiental ou risco climático e com respectivo detalhamento de valores, natureza do evento, região geográfica, definida com base em critérios claros e passíveis de verificação, e setor econômico associado à exposição;
+IV - identificação tempestiva de mudanças políticas, legais, regulamentares, tecnológicas ou de mercado, incluindo alterações significativas nas preferências de consumo, que possam impactar de maneira relevante o risco social, o risco ambiental ou o risco climático incorrido pela instituição, bem como procedimentos para a mitigação desses impactos;
+V - monitoramento de concentrações de exposições a setores econômicos ou a regiões geográficas, definidas com base em critérios consistentes e passíveis de verificação, mais suscetíveis de sofrer ou de causar danos sociais, ambientais ou climáticos, e, quando apropriado, estabelecimento de limites para essas exposições;
+VI - identificação tempestiva de percepção negativa de clientes, do mercado financeiro e da sociedade em geral sobre a reputação da instituição, quando essa percepção possa impactar de maneira relevante o risco social, o risco ambiental e o risco climático por ela incorrido; e
+VII - realização de análise de cenários, no âmbito do programa de testes de estresse de que trata o art. 7º, inciso VII, que considerem hipóteses de mudanças em padrões climáticos e de transição para uma economia de baixo carbono.
+§ 1º Quando a hipótese de ocorrência de evento de risco social, de risco ambiental ou de risco climático implicar possibilidade de perda relacionada a outro risco mencionado no art. 6º, caput, o gerenciamento de riscos e o cumprimento dos requerimentos mínimos prudenciais, quando aplicáveis, devem ser observados para cada um dos riscos envolvidos.
+§ 2º Para fins do disposto no caput, inciso I, alínea “b”, a relação de controle da instituição sobre uma entidade ocorre quando atendido pelo menos um dos seguintes critérios:
+I - a instituição detém mais de 50% (cinquenta por cento) do capital votante da entidade;
+II - acordo de voto assegura preponderância da instituição nas deliberações sociais da entidade;
+III - a instituição detém o poder de eleger ou de destituir a maioria dos administradores da entidade; ou
+IV - a instituição detém preponderância nas decisões de gestão operacional da entidade.
+§ 3º Para fins do disposto no caput, inciso III, não é requerida a constituição de bases de dados exclusivas, desde que seja possível a extração das respectivas informações com vistas ao gerenciamento do risco social, do risco ambiental e do risco climático.
