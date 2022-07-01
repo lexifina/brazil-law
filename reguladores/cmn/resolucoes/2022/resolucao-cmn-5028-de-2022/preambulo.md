@@ -1,0 +1,5 @@
+Resolução Nº 5.028 O texto vigente do MCR encontra-se no seguinte endereço eletrônico: www3.bcb.gov.br/mcr.
+RESOLUÇÃO CMN Nº 5.028, DE 29 DE JUNHO DE 2022
+Altera os percentuais dos subdirecionamentos dos recursos à vista (MCR 6-2) destinados à contratação de operações no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e do Programa Nacional de Apoio ao Médio Produtor Rural (Pronamp), institui novos fatores de ponderação incidentes sobre as operações de custeio ao amparo do Pronaf e ajusta as condições para o cumprimento do direcionamento dos recursos captados por emissão das Letras de Crédito do Agronegócio (MCR 6-7).
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 29 de junho de 2022, tendo em vista as disposições do art. 4º, inciso VI, da Lei nº 4.595, de 1964, e arts. 4º, 14 e 21 da Lei nº 4.829, de 5 de novembro de 1965,
+R E S O L V E U :
