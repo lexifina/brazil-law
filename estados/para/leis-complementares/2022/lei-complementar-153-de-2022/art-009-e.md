@@ -1,0 +1,13 @@
+Art. 9º-E ........................................................................................ ................................
+II - ................................................................................................. ...................................
+b) Subseção de Formação Continuada;
+c) Subseção de Formação Complementar; e
+d) Subseção de Educação Física;
+III - Seção de Colégios da Polícia Militar e Supervisão Militar:
+a) Subseção de Planejamento e Acompanhamento; e
+b) Subseção de Monitoramento e Avaliação;
+III-A - Seção de Apoio Pedagógico:
+a) Subseção de Cadastro e Seleção de Docentes;
+b) Subseção Tecnologia Educacional; e
+c) Subseção de Pesquisa e Avaliação de Resultados; ...................................................................................................... ....................................
+§ 1º As Seções do Departamento-Geral de Educação e Cultura serão chefiadas por Oficiais no posto de Tenente-Coronel do Quadro de Oficiais Policiais Militares, à exceção da seção de colégios da Polícia Militar e supervisão militar, que será chefiada por um Coronel do Quadro de Oficiais Policiais Militares. ...................................................................................................... ...................................
