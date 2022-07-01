@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2090, de 22 de junho de 2022
+Dispõe sobre a declaração e o controle do valor aduaneiro de mercadorias importadas.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 86 e 87 da Medida Provisória 2.158-35, de 24 de agosto de 2001, no Acordo sobre a Implementação do Artigo VII do Acordo Geral sobre Tarifas e Comércio - GATT 1994, constante do Anexo 1A ao Acordo Constitutivo da Organização Mundial do Comércio, aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto nº 1.355, de 30 de dezembro de 1994, nos arts. 76 a 85 e 89 do Decreto nº 6.759, de 5 de fevereiro de 2009 - Regulamento Aduaneiro, na Decisão do Conselho do Mercado Comum - Mercosul nº 13, de 28 de junho de 2007, incorporada ao ordenamento jurídico brasileiro pelo Decreto nº 6.870, de 4 de junho de 2009, e no Decreto nº 10.139, de 28 de novembro de 2019, resolve:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
