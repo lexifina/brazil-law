@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2092, de 6 de julho de 2022
+Disciplina a suspensão dos pagamentos da Contribuição para o PIS/Pasep e da Cofins incidentes nas vendas no mercado interno de petróleo destinado à produção de combustíveis e da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes na sua importação.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos §§ 6º e 8º do art. 9º da Lei Complementar nº 192, de 11 de março de 2022, e no art. 22 da Lei nº 11.945, de 4 de junho de 2009, resolve:
