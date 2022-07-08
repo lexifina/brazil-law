@@ -1,0 +1,1 @@
+Art. 15-A. Para os efeitos de apuração do valor tributável de que tratam os incisos I e II do caput do art. 15 desta Lei, considera-se praça o Município onde está situado o estabelecimento do remetente.
