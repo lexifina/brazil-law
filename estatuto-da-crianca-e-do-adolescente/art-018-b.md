@@ -4,4 +4,5 @@ II - encaminhamento a tratamento psicológico ou psiquiátrico;
 III - encaminhamento a cursos ou programas de orientação;
 IV - obrigação de encaminhar a criança a tratamento especializado;
 V - advertência.
+VI - garantia de tratamento de saúde especializado à vítima.
 Parágrafo único. As medidas previstas neste artigo serão aplicadas pelo Conselho Tutelar, sem prejuízo de outras providências legais.
