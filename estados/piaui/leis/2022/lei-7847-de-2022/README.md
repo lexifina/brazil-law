@@ -1,0 +1,5 @@
+# Lei nº 7.847, de 13 de julho de 2022, do Estado do Piauí
+
+ALTERA A REDAÇÃO DA LEI N° 3.808, DE 16 DE JULHO DE 1981, PARA FACULTAR AOS OFICIAIS E PRAÇAS DA POLÍCIA MILITAR DO PIAUÍ, NA ATIVA EM CONDIÇÃO DE SUB JUDICE, APROVADOS EM EXAMES DE CONHECIMENTO E COM TEMPO DE EFETIVO SERVIÇO SUPERIOR A 05 (CINCO) ANOS, A REALIZAÇÃO DE NOVO EXAME PSICOLÓGICO, DE SAÚDE E DE APTIDÃO FÍSICA, BEM COMO, DE NOVA INVESTIGAÇÃO SOCIAL, E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.pi.leg.br), <https://sapl.al.pi.leg.br/norma/5339>; texto: <http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2022/5339/doe_202207.13.pmd.pdf>
