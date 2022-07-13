@@ -1,3 +1,4 @@
 Art. 40. O Governo Federal deverá estabelecer uma Política Nacional de Manejo e Controle de Queimadas, Prevenção e Combate aos Incêndios Florestais, que promova a articulação institucional com vistas na substituição do uso do fogo no meio rural, no controle de queimadas, na prevenção e no combate aos incêndios florestais e no manejo do fogo em áreas naturais protegidas.
 § 1º A Política mencionada neste artigo deverá prever instrumentos para a análise dos impactos das queimadas sobre mudanças climáticas e mudanças no uso da terra, conservação dos ecossistemas, saúde pública e fauna, para subsidiar planos estratégicos de prevenção de incêndios florestais.
 § 2º A Política mencionada neste artigo deverá observar cenários de mudanças climáticas e potenciais aumentos de risco de ocorrência de incêndios florestais.
+§ 3º A Política de que trata o caput deste artigo contemplará programa de uso da aviação agrícola no combate a incêndios em todos os tipos de vegetação.
