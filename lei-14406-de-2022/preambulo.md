@@ -1,0 +1,2 @@
+Altera a Lei nº 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa, e o Decreto-Lei nº 917, de 8 de outubro de 1969, que dispõe sobre o emprego da aviação agrícola no País, para incluir o uso da aviação agrícola nas diretrizes e políticas governamentais de combate a incêndios florestais.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
