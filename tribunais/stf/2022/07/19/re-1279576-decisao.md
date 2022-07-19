@@ -1,0 +1,55 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da 3ª Turma Recursal da Seção Judiciária do Paraná, em que manteve a sentença na qual julgou procedente o pedido da parte autora – ora recorrida, para condenar a recorrente a revisar a RMI da aposentadoria por tempo de contribuição, mediante a aplicação da regra definitiva prevista no art. 29, I, da Lei 8.213/91, devendo o valor do salário-debenefício corresponder à média aritmética simples dos maiores salários de contribuição correspondentes a 80% de todo o período contributivo (eDOC 9, p. 2).
+
+    No recurso extraordinário, com fundamento no artigo 102, III, a e b, do permissivo constitucional, aduz-se ofensa aos artigos 2º; 5º, caput; 97; 195, §§ 4º e 5º; e 201 da Constituição da República.
+
+    Nas razões recursais, sustenta-se, em suma, que “Existe, portanto, uma única regra que é aplicável a todos os segurados (sejam eles filiados ao RGPS antes ou após a vigência da Lei 9.876/99): para o cálculo do salário-de-benefício, somente serão computados os salários-de-contribuição a partir de julho de 1994. Sob essa perspectiva, a regra é universal e concretiza o princípio da isonomia!” (eDOC 13, p. 6).
+
+    O órgão de Admissibilidade da Seção Judiciária do Paraná admitiu o extraordinário (eDOC 17).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem, ao julgar o recurso inominado, assim asseverou (eDOC 9, p. 2-3):
+
+    “A matéria controvertida nestes autos versa também sobre o Tema 04, de Incidente de Resolução de Demandas Repetitivas (5052713- 53.2016.4.04.0000), do Tribunal Regional Federal da 4ª Região, afetado em 15/12/2016, cujo acórdão foi publicado em 03/10/2018, fixando a seguinte tese:
+
+    A regra permanente do art. 29, I e II, da Lei 8.213/91 somente aplica-se aos novos filiados ao Regime Geral de Previdência Social, não sendo a regra de transição prevista no art. 3º da Lei 9.876/99 desfavorável aos segurados que já estavam filiados ao sistema, em comparação com o regramento antigo.
+
+    No entanto, no julgamento dos REsp 1.554.596 e 1.596.203 (Tema 999), realizado em 11/12/2019, publicado em 17/12/2019, o STJ firmou a seguinte tese:
+
+    "Aplica-se a regra definitiva prevista no art. 29, I e II da Lei 8.213/1991, na apuração do salário de benefício, quando mais favorável do que a regra de transição contida no art. 3º da Lei 9.876/1999, aos Segurado que ingressaram no Regime Geral da Previdência Social até o dia anterior à publicação da Lei 9.876/1999."
+
+    Por tais razões, às quais se soma a argumentação deduzida na decisão recorrida (Lei 9.099/95, art. 46), penso que o recurso não merece provimento quanto ao mérito.”
+
+    Na espécie, depreende-se dos fundamentos do acórdão recorrido que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Leis Federais 8.213/1991 e 9.876/1999). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Previdenciário. Critérios de cálculo da renda mensal inicial e da atualização monetária. 3. Matéria debatida no Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 942.972-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 6.6.2016).
+
+    “Agravo regimental no recurso extraordinário. Previdenciário. Renda mensal inicial do benefício. Revisão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nº 636 e 279/STF. 2. Agravo regimental não provido." (RE 891.628-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 14.12.2015).
+
+    Destacam-se, ainda, as seguintes decisões monocráticas proferidas em casos semelhantes ao dos autos: ARE 1.086.329, de minha relatoria, DJe de 15/3/2018; ARE 1.101.026, Rel. Min. Gilmar Mendes, DJe de 6/3/2018; ARE 934.003, Rel. Min. Celso de Mello, DJe de 21/10/2016; e ARE 1.081.698, Rel. Min. Luiz Fux, DJe de 6/11/2017.
+
+    Saliente-se, também, que a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não viola o princípio da separação dos poderes o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário. Seguindo esse entendimento, transcrevo julgados de ambas as Turmas desta Corte:
+
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. NÃO OCORRÊNCIA. SÚMULA 279/STF. Hipótese em que, para dissentir da conclusão firmada pelo Tribunal de origem, seria necessário reexaminar os fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. É firme no Supremo Tribunal Federal o entendimento de que não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento." (AI 410.544-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 17.3.2015).
+
+    Quanto à alegada ofensa ao art. 97 da Constituição Federal, por contrariedade ao princípio da cláusula de reserva do plenário, ressalte-se que, ao julgar o ARE-RG 868.457/SC, Relator Ministro Teori Zavascki, DJe 27.04.2015, o Supremo Tribunal Federal entendeu pela inexistência de repercussão geral das controvérsias que versem sobre a exigência de observância do princípio da reserva de plenário em sede de Turma Recursal de Juizados Especiais (Tema 805, primeira parte).
+
+    Por fim, no que tange à interposição do recurso extraordinário pela alínea b do inciso III do artigo 102 da Constituição Federal, destaco que a jurisprudência desta Suprema Corte entende ser necessária a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal a quo. Nesse sentido:
+
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CABIMENTO. ALÍNEA B. DECLARAÇÃO DE INCONSTITUCIONALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO. 1. Não tendo sido declarada a inconstitucionalidade pelo Tribunal a quo do dispositivo legal questionado, não há como conhecer de recurso extraordinário interposto pela alínea b do inc. III do art. 102 da Constituição da República. 2. Agravo regimental desprovido.” (RE 334.723-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 6.11.2006).
+
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a e b, do Código de Processo Civil.
+
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+
+    Publique-se.
+
+    Brasília, 19 de julho de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
