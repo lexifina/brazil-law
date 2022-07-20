@@ -1,0 +1,21 @@
+Solução de Consulta Cosit nº 29, de 14 de julho de 2022
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+SUBVENÇÕES PARA INVESTIMENTO. ICMS. DIFERENCIAL DE ALÍQUOTAS ENTRE OPERAÇÕES INTERESTADUAIS E INTERNAS. NÃO CARACTERIZAÇÃO DE INCENTIVO OU BENEFÍCIO FISCAL OU FINANCEIRO-FISCAL.
+A alíquota interestadual e o diferencial de alíquota entre operações internas e interestaduais não têm natureza de incentivo ou benefício fiscal ou financeiro-fiscal do ICMS, mas de mera definição de sistemática constitucional de tributação do referido imposto, não se enquadrando na hipótese prevista no § 4º do art. 30 da Lei nº 12.973, de 2014.
+Dispositivos Legais: Constituição Federal, de 1988, art 150, § 6º e art. 155, § 2º, incisos IV, V, VI, VII e VIII; Resolução do Senado Federal nº 22, de 1989; Lei Complementar nº 160, de 2017, art. 3º e 10; Lei 12.973, de 2014, art. 30; e Convênio ICMS nº 190, de 2017, Clausula Primeira, §§ 1º ao 4º.
+Solução de Consulta parcialmente vinculada à Solução de Consulta Cosit nº 152, de 24 de setembro de 2021.
+SUBVENÇÕES PARA INVESTIMENTO. ISS. REQUISITOS.
+Entre outras condições, o favor fiscal do ISS, para fins do tratamento previsto no art. 30 da Lei nº 12.973, de 2014, deve ser efetivamente uma subvenção para investimento conforme o Parecer Normativo CST nº 112, de 1978; pode ser concedido na forma de redução de impostos; deve ser concedido como estímulo à implantação ou expansão de empreendimentos econômicos; deve ser reconhecido no resultado com observância das normas contábeis; e não pode permitir a livre movimentação dos recursos auferidos, isto é, não haver a obrigatoriedade de aplicação da totalidade dos recursos na aquisição de bens ou direitos necessários à implantação ou expansão de empreendimento econômico, inexistindo sincronia e vinculação entre a percepção da vantagem e a aplicação dos recursos.
+Dispositivos Legais: Constituição Federal, de 1988, art 150, § 6º; Lei Complementar nº 116, de art. 8º e art. 8º-A; Lei 12.973, de 2014, art. 30; Instrução Normativa RFB nº 1.700, de 2017, art. 198; e Parecer Normativo CST nº 112, de 1978.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+SUBVENÇÕES PARA INVESTIMENTO. ICMS. DIFERENCIAL DE ALÍQUOTAS ENTRE OPERAÇÕES INTERESTADUAIS E INTERNAS. NÃO CARACTERIZAÇÃO DE INCENTIVO OU BENEFÍCIO FISCAL OU FINANCEIRO-FISCAL.
+A alíquota interestadual e o diferencial de alíquota entre operações internas e interestaduais não têm natureza de incentivo ou benefício fiscal ou financeiro-fiscal do ICMS, mas de mera definição de sistemática constitucional de tributação do referido imposto, não se enquadrando na hipótese prevista no § 4º do art. 30 da Lei nº 12.973, de 2014.
+Dispositivos Legais: Constituição Federal, de 1988, art 150, § 6º e art. 155, § 2º, incisos IV, V, VI, VII e VIII; Resolução do Senado Federal nº 22, de 1989; Lei Complementar nº 160, de 2017, art. 3º e 10; Lei 12.973, de 2014, art. 30; e Convênio ICMS nº 190, de 2017, Clausula Primeira, §§ 1º ao 4º.
+Solução de Consulta parcialmente vinculada à Solução de Consulta Cosit nº 152, de 24 de setembro de 2021.
+SUBVENÇÕES PARA INVESTIMENTO. ISS. REQUISITOS.
+Entre outras condições, o favor fiscal do ISS, para fins do tratamento previsto no art. 30 da Lei nº 12.973, de 2014, deve ser efetivamente uma subvenção para investimento conforme o Parecer Normativo CST nº 112, de 1978; pode ser concedido na forma de redução de impostos; deve ser concedido como estímulo à implantação ou expansão de empreendimentos econômicos; deve ser reconhecido no resultado com observância das normas contábeis; e não pode permitir a livre movimentação dos recursos auferidos, isto é, não haver a obrigatoriedade de aplicação da totalidade dos recursos na aquisição de bens ou direitos necessários à implantação ou expansão de empreendimento econômico, inexistindo sincronia e vinculação entre a percepção da vantagem e a aplicação dos recursos.
+Dispositivos Legais: Constituição Federal, de 1988, art 150, § 6º; Lei Complementar nº 116, de art. 8º e art. 8º-A; Lei 12.973, de 2014, art. 30; Instrução Normativa RFB nº 1.700, de 2017, art. 198; e Parecer Normativo CST nº 112, de 1978.
+SC Cosit nº 29-2022
+[arquivo anexo: SC Cosit nº 29-2022.pdf]
+CLAUDIA LUCIA PIMENTEL MARTINS DA SILVA
+Coordenadora-Geral
