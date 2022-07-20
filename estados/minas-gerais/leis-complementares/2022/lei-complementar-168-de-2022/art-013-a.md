@@ -1,0 +1,1 @@
+Art. 13-A - Os cargos das carreiras integrantes dos quadros previstos no art. 13 possuem caráter técnico-científico, derivados da aplicação dos conhecimentos das ciências policiais, humanas, sociais e naturais.

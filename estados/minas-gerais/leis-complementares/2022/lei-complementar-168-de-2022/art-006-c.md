@@ -1,0 +1,2 @@
+Art. 6º-C - Para ingresso no Quadro de Oficiais do Corpo de Bombeiros Militar é exigida a titulação de nível superior de escolaridade, na modalidade de bacharelado ou na de licenciatura, reconhecida nos termos da legislação, sem prejuízo do disposto no § 2º do art. 13.
+Parágrafo único - O edital de concurso público para ingresso de Oficiais definirá as vagas destinadas para cada área ou formação específicas, de acordo com a necessidade do Corpo de Bombeiros Militar.

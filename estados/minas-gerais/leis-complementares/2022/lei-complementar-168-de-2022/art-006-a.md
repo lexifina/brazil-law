@@ -1,0 +1,2 @@
+Art. 6º-A - Para ingresso no cargo de Oficial do Quadro de Oficiais da Polícia Militar - QO-PM - é exigido o título de bacharel em Direito e a aprovação em concurso público de provas ou de provas e títulos realizado com a participação da Ordem dos Advogados do Brasil, Seção do Estado de Minas Gerais.
+Parágrafo único - O cargo de Oficial do Quadro de Oficiais da Polícia Militar de que trata o caput tem natureza especial e íntegra, para todos os fins, a carreira jurídica militar do Estado.
