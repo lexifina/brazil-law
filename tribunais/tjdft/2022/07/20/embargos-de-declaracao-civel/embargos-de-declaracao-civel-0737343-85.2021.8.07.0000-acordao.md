@@ -1,0 +1,125 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0737343-85.2021.8.07.0000EMBARGANTE(S)GIAMPIERO CARDOSO NARGIEMBARGADO(S)MRV ENGENHARIA E PARTICIPACOES SARelatorDesembargador ESDRAS NEVES Acórdão Nº1439378
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. PRELIMINAR. AUSÊNCIA DE INTIMAÇÃO. REJEIÇÃO. EMBARGOS. OMISSÃO. CONTRADIÇÃO. NÃO  CONFIGURAÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. Não há nulidade a ser declarada se a parte não se insurgiu no primeiro momento que tinha para se pronunciar nos autos, mormente quando evidenciada a ausência de prejuízo. Os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar do acórdão impugnado eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022 e incisos, do Código de Processo Civil. A insatisfação do embargante com o resultado do julgamento não é suficiente para a sua alteração por meio dos embargos de declaração.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ESDRAS NEVES - Relator, ALFEU MACHADO - 1º Vogal e SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal, sob a Presidência do Senhor Desembargador ALFEU MACHADO, em proferir a seguinte decisão: CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Julho de 2022
+
+Desembargador ESDRAS NEVESRelator
+
+RELATÓRIO
+
+Cuida-se de Embargos de Declaração opostos por GIAMPIERO CARDOSO NARGI em face do acórdão proferido por esta eg. Turma Cível, em que atuei como relator, e que assim restou ementado:
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. LUCROS CESSANTES. ILEGITIMIDADE ATIVA. NÃO INCIDÊNCIA DO JULGADO. Na sentença proferida na Ação Civil Pública, que tramitou perante o juízo da 17ª Vara Cível de Brasília, sob o nº 2012.01.1.199437-9, reconheceu-se a mora da agravante na entrega das obras dos empreendimentos Top Life e Green Towers a partir da finalização do prazo de tolerância de 180 (cento e oitenta) dias. Há a necessidade de análise de cada caso concreto, a depender do contrato celebrado entre as partes, para verificar se a entrega do imóvel ao consumidor se deu fora do prazo de tolerância, impondo-se, assim, o dever de indenização por lucros cessantes. Na hipótese dos autos, restou demonstrado que a entrega do imóvel, assim como a emissão do habite-se, ocorreu dentro do prazo previsto contratualmente, razão pela qual o autor da liquidação individual de sentença coletiva não possui legitimidade ativa para propor a demanda.
+
+Em suas razões recursais (ID 34449054), o embargante alega nulidade do julgamento, em razão da ausência de observância do pedido de intimação exclusiva em nome de ISABELLA PANTOJA CASEMIRO, inscrita na OAB/DF nº 24.805, deduzido em 27/10/2021 nos autos de origem (ID 107151217). Afirma que ROBERVAL JOSE RESENDE BELINATI, cadastrado como patrono da parte recorrida, sequer atua mais neste processo. Assevera que o pedido de intimação exclusiva se deu no dia 27 de outubro de 2021, sendo que o presente agravo de instrumento somente foi distribuído em 23 de novembro de 2021. Colaciona jurisprudência do Colendo Superior Tribunal de Justiça.
+
+Sustenta omissão no acórdão embargado em relação à falta de manifestação sobre a: nulidade da cláusula que sujeita o termo final da entrega do imóvel ao puro arbítrio de uma das partes (artigo 122, do Código Civil); prática abusiva consistente na fixação do cumprimento da obrigação ao exclusivo critério da construtora (inciso XII, do artigo 39, do Código de Defesa do Consumidor); nulidade da cláusula que subordinou o termo inicial para o cumprimento da obrigação ao exclusivo critério da construtora (inciso IV, do artigo 51, do Código de Defesa do Consumidor); infração, pela construtora, ao direito de informação clara e adequada acerca do termo inicial da obrigação de entrega do empreendimento, visto que o contrato é omisso (inciso III, do artigo 6º c/c o artigo 31, do Código de Defesa do Consumidor); violação aos artigos 46 e 47, do CDC, pelo qual as cláusulas contratuais devem ser interpretadas de maneira mais favorável ao consumidor; da ausência de cabimento de fixação de honorários advocatícios em sede de liquidação de sentença, bem como da possível ofensa aos artigos 103 e 104, do CDC, todas matérias de ordem pública.
+
+Defende que, conquanto a construtora alegue que o termo inicial para a entrega da obra era a data de 27/02/2008 (data de assinatura de financiamento da obra), apresentando como prova uma tabela cujo teor sequer remete ao contrato de financiamento em questão, é importante esclarecer que o consumidor não foi informado sobre a referida data.
+
+Aduz que a presente liquidação de sentença  não possui natureza contenciosa, sendo incabível a condenação ao pagamento de honorários sucumbenciais. Questiona a base de cálculo a ser utilizada para a eventual condenação ao pagamento de honorários advocatícios, defendendo que a liquidação serviria para verificar o valor do débito, razão pela qual os honorários devem incidir sobre o valor da causa da ação civil pública originária (R$ 500,00), por força do §2º, parte final, do artigo 85, do Código de Processo Civil.
+
+Ao final, requer a declaração de nulidade do julgado, com o restabelecimento do prazo para apresentação das contrarrazões, ou o acolhimento dos embargos de declaração para sanar os vícios apontados.
+
+Contrarrazões pelo desprovimento do recurso (ID 35776957).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ESDRAS NEVES - Relator
+
+Conheço dos embargos de declaração, porquanto estão presentes os pressupostos de admissibilidade.
+
+DA PRELIMINAR
+
+O embargante alega preliminarmente a nulidade do acórdão recorrido, em razão da ausência de observância do pedido de intimação em nome da advogada ISABELLA PANTOJA CASEMIRO, inscrita na OAB/DF nº 24.805.
+
+Compulsando os autos, verifica-se que de fato não houve a intimação da advogada ISABELLA PANTOJA CASEMIRO para a apresentação das contrarrazões ao presente agravo de instrumento (p.335, Edição n°67/2022 do Diário de Justiça Eletrônico, disponibilizado em 8 de abril de 2022). No entanto, tal fato não é suficiente ao reconhecimento da nulidade pretendida.
+
+Na instância de origem, ISABELLA PANTOJA CASEMIRO requereu, em 27/10/2021, que as publicações do processo fossem realizadas em seu nome (ID 107151217, autos de origem). Esse peticionamento é anterior à distribuição do presente agravo de instrumento, realizado em 23/11/2021 (ID 30904851). Contudo, na mencionada petição, ela não requereu que as publicações fossem realizadas exclusivamente em seu nome.
+
+Ressalte-se que, desde a petição inicial do processo, constavam  como procuradores da parte autora ROBERVAL JOSE RESENDE BELINATI e ISABELLA PANTOJA CASEMIRO (ID 90408828, autos de origem).
+
+Analisando os autos na instância de origem e nessa instância recursal, verifica-se que em momento algum ROBERVAL JOSE RESENDE BELINATI substabeleceu sem reserva de poderes ou a parte autora revogou o seu mandato, razão pela qual a intimação para apresentar contrarrazões neste agravo de instrumento se deu em seu nome, conforme se verifica na Edição n°67/2022 do Diário de Justiça Eletrônico, disponibilizado em 8 de abril de 2022, página 335.
+
+Além disso, em 25 de novembro de 2021, foi juntado aos autos de origem ofício entre órgãos julgadores (ID 109587521, autos de origem) informando o deferimento da liminar deste agravo de instrumento. Em 9 de março de 2022, ISABELLA PANTOJA CASEMIRO peticiona nos autos de origem solicitando que as intimações fossem realizadas em seu nome; entretanto, novamente, não solicitou exclusividade nas publicações e não suscitou eventual nulidade nestes autos de agravo de instrumento (ID 117695548, autos de origem).
+
+Nesse contexto, é possível afirmar que ISABELLA PANTOJA CASEMIRO tinha conhecimento do presente agravo de instrumento antes de proferido o Acórdão 1411468, em 01 de abril de 2022.
+
+Ressalte-se que eventual arguição de nulidade deve ser realizada na primeira oportunidade que a parte tem para se manifestar nos autos, sob pena de preclusão, em prol dos princípios da segurança jurídica, boa-fé processual e razoável duração do processo. Na hipótese dos autos, a primeira oportunidade se deu em 09 de março de 2022, quando ISABELLA PANTOJA CASEMIRO já tinha conhecimento da interposição do presente agravo de instrumento. No entanto, ao invés de alegar a nulidade, a advogada esperou eventual resultado desfavorável para só então suscitar suposta irregularidade processual.
+
+É importante destacar que a jurisprudência do colendo Superior Tribunal de Justiça, ao se deparar com  pedidos de declaração de nulidade de atos processuais, tem entendido que sua apreciação deve ocorrer  com temperamento, atenta à efetividade e à razoabilidade, de modo que sejam repudiadas estratégias de defesa que tumultuem o andamento do processo, como a chamada nulidade de algibeira ou de bolso, situação na qual a parte deixa de arguir a nulidade na primeira oportunidade, guardando-a para suscitar em momento processual que lhe parecer mais conveniente. A esse respeito, destacam-se os seguintes precedentes daquela Corte Superior:
+
+AGRAVO REGIMENTAL. NULIDADE. QUESTÃO DE ORDEM PÚBLICA. INOVAÇÃO RECURSAL. PROCESSO UTILIZADO COMO DIFUSOR DE ESTRATÉGIAS. IMPOSSIBILIDADE DO MANEJO DA CHAMADA 'NULIDADE DE ALGIBEIRA'. AUSÊNCIA DE MÁ-FÉ DO SEGURADO. INDENIZAÇÃO SECURITÁRIA. CABIMENTO. AGRAVO. REGIMENTAL NÃO PROVIDO. 1. A suposta nulidade absoluta somente foi trazida pela parte recorrente em agravo regimental, após provido o recurso especial da parte recorrida, constituindo inovação recursal. Precedentes. 2. 'A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade' (REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014). 3. 'A jurisprudência do STJ, atenta à efetividade e à razoabilidade, tem repudiado o uso do processo como instrumento difusor de estratégias, vedando, assim, a utilização da chamada 'nulidade de algibeira ou de bolso'' (EDcl no REsp 1424304/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/08/2014, DJe 26/08/2014)." (AgRg na PET no AREsp 204.145/SP, QUARTA TURMA, Relator Ministro LUIS FELIPE SALOMÃO, Data do julgamento: 23/06/2015, DJe de 29/06/2015) (g.n.)
+
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. NULIDADE. SUBSTABELECIMENTO SEM RESERVA DE PODERES. REQUERIMENTO DE PUBLICAÇÃO  EXCLUSIVA. PUBLICAÇÃO EM NOME DOS ANTIGOS ADVOGADOS. ACOMPANHAMENTO DO PROCESSO PELOS NOVOS PATRONOS. AUSÊNCIA DE PREJUÍZO. NULIDADE. INEXISTÊNCIA. 1. A jurisprudência do STJ é assente no sentido de ser nula, por ofensa aos princípios da ampla defesa e contraditório e ao art. 236, § 1º, do CPC, a publicação dirigida apenas a advogado substabelecido, em especial quando constar pedido expresso de publicação exclusiva em nome do advogado constituído. Precedentes. 2. Contudo, é também pacífico que a declaração de nulidade de atos processuais deve se dar com temperamento, sempre à luz da hipótese concreta, pois o regime de nulidades no processo civil vincula-se à efetiva ocorrência de prejuízo à parte, a despeito de eventual inobservância da forma prevista em lei (art. 244, CPC - princípio pas de nulitté sans grief). 3. A jurisprudência do STJ, atenta à efetividade e à razoabilidade, tem repudiado o uso do processo como instrumento difusor de estratégias, vedando, assim, a utilização da chamada 'nulidade de algibeira ou de bolso'. 4. Embargos de declaração rejeitados. (EDcl no REsp nº 1.424.304/SP, TERCEIRA TURMA, Relatora Ministra NANCY ANDRIGHI, Data do julgamento: 12/08/2014, DJe de 26/08/2014) (g.n.)
+
+Nesse sentido, também já ententeu este Tribunal de Justiça:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PRELIMINAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. REJEIÇÃO. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PESSOAL. AUSÊNCIA DE PREJUÍZO. Apontado nas razões recursais o suposto desacerto da decisão atacada e atendido o princípio da dialeticidade, afasta-se a preliminar de ausência de impugnação específica da decisão. Segundo dispõe o artigo 513, §4º, do Código de Processo Civil, quando o requerimento para iniciar o cumprimento de sentença houver sido formulado um ano após o trânsito em julgado da sentença, deve-se proceder à intimação pessoal do devedor, com aviso de recebimento. Em que pese a intimação da parte executada não ter sido promovida na forma do que dispõe o referido dispositivo legal, constata-se que ela veio aos autos de forma tempestiva, tendo o ato de intimação cumprido a sua finalidade, haja vista que todos os prazos e meios de defesa disponíveis foram observados, não havendo sequer indício de que o seu direito ao contraditório foi cerceado, sobretudo porque a peça de impugnação por ela ofertada foi admitida e examinada pelo Juízo de origem, a despeito da rejeição dos fundamentos nela versados.  A jurisprudência do colendo Superior Tribunal de Justiça, ao se deparar com pedidos de declaração de nulidade de atos processuais, tem entendido que sua apreciação deve ocorrer com temperamento, atenta à efetividade e à razoabilidade, de modo que sejam repudiadas estratégias de defesa que tumultuem o andamento do processo, como a chamada nulidade de algibeira ou de bolso, situação na qual a parte deixa de arguir a nulidade na primeira oportunidade, guardando-a para suscitar em momento processual que lhe parecer mais conveniente. (Acórdão 1149943, 07204147920188070000, Relator: ESDRAS NEVES,  6ª Turma Cível, data de julgamento: 6/2/2019, publicado no DJE: 18/2/2019)
+
+  PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. NULIDADE DE CITAÇÃO. INEXISTÊNCIA. NULIDADE DE ALGIBEIRA OU DE BOLSO. PENHORA SOBRE VEÍCULOS. REVOGAÇÃO E DETERMINAÇÃO DE PENHORA SOBRE DIREITOS AQUISITIVOS SOBRE O VEÍCULO QUE POSSUÍA ALIENAÇÃO FIDUCIÁRIA. BENS NECESSÁRIOS À ATIVIDADE COMERCIAL. PANDEMIA. DESINFLUÊNCIA. NULIDADE DA DECISÃO AGRAVADA. ALEGAÇÃO DE INFRINGÊNCIA AO CONTRADITÓRIO, À AMPLA DEFESA E AO PRINCÍPIO DA NÃO-SURPRESA. INOCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. AGRAVO DE INSTRUMENTO DESPROVIDO. AGRAVO INTERNO PREJUDICADO. 1. Não se pode reconhecer nulidade de citação quando o ato processual foi efetivado no endereço em que citada a agravante em outra demanda que tramita perante o mesmo juízo, bem como que os sócios da agravante compareceram espontaneamente aos autos para se oporem ao pedido de desconsideração da personalidade jurídica. 1.1. Conforme consignado pelo Superior Tribunal de Justiça, a averiguação das nulidades deve ser efetuada com temperamentos, especialmente quando se vislumbra que a parte aguardou para suscitar o vício em momento em que lhe fosse mais conveniente, como no caso. Tal hipótese configura a denominada nulidade "de algibeira" ou "de bolso". 2. Considerando que a agravante contraiu uma dívida e restou inadimplente, tendo figurado no polo passivo de ação de conhecimento, era previsível que a credora ingressasse na fase executiva e promovesse a expropriação de bens para pagamento da dívida. 2.1. Portanto, desinfluente a realidade pandêmica enfrentada por todos para fins de afastamento de eventual penhora. 3. Não há falar-se em nulidade da decisão agravada, por violação ao contraditório, à ampla defesa e ao princípio da não-surpresa quando, determinada a penhora dos veículos, a devedora compareceu aos autos para informar a alienação fiduciária que sobre eles recaía e, na sequência, a credora peticionou comprovando a baixa do gravame em relação a um deles. 4. No caso em apreço, as alegações da agravante se enquadram nas estratégias processuais para defesa do direito que supõe possuir, não podendo ser classificadas como litigância de má-fé a atrair a imposição da multa correspondente a tal comportamento. 5. Agravo de instrumento desprovido. Agravo interno prejudicado. Decisão mantida.  (Acórdão 1312313, 07449733220208070000, Relator: ALFEU MACHADO,  6ª Turma Cível, data de julgamento: 21/1/2021, publicado no DJE: 5/2/2021)
+
+Ademais, os argumentos lançados em suas razões recursais não são capazes de infirmar os fundamentos do acórdão recorrido, o que demonstra a ausência de prejuízo.
+
+Rejeito, pois, a preliminar de nulidade do acórdão recorrido.
+
+DO MÉRITO
+
+É cediço que somente em situações excepcionalíssimas a jurisprudência de nossos pretórios admite a alteração de julgados pela via dos declaratórios. Assim agem nossas Cortes, porque a atribuição de efeitos infringentes representa, em verdade, permissão para a propositura de recurso não autorizado pela letra expressa da lei.
+
+Além disso, sabe-se que os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar da decisão impugnada eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022 e incisos, do Código de Processo Civil. No caso dos autos, o embargante alega que há omissão no julgado atacado.
+
+Todavia, sem razão.
+
+O embargante alega nulidade da cláusula sobre o termo final da entrega do imóvel, ao fundamento que foi estabelecida pelo puro arbítrio de uma das partes. Todavia, essas premissas não são verdadeiras, o termo final da entrega não foi estabelecido unilateralmente e arbitrariamente. O termo final da entrega do imóvel consta expressamente do contrato de compra e venda assinado em 05/09/2011, o qual fixou o prazo de entrega do imóvel em até 36 meses, após o registro em cartório do contrato de financiamento à construção (ID 91805299, auto originário). Além disso, ao tempo da assinatura do contrato de compra e venda pelo embargante (05/09/2011), o registro do contrato de financiamento da obra já havia ocorrido, portanto o prazo da entrega do imóvel já estava com prazo certo.
+
+Verifica-se, assim, que a fixação desse termo respeitou o direito do consumidor de obter informação clara e adequada das obrigações pactuadas, não gerou ônus desproporcional para os celebrantes e tinha prazo certo para entrega. Não há, pois, abusividade nessa cláusula.
+
+O embargante sustenta que não teve ciência da data de assinatura e registro do financiamento da obra, alega que a construtora nada trouxe para comprovar a efetiva data de registro do contrato de financiamento da obra; assim, defende que não é crível que a única documentação relativa ao financiamento de uma obra de tamanho porte seja o print de uma tabela que não faz nenhuma referência direta ao contrato de financiamento da construção do empreendimento.
+
+Todavia, conforme já explanado na decisão impugnada, o embargante não contestou tal fato na origem; logo, presumem-se verdadeiros os fatos não impugnados, à luz do artigo 341, do Código de Processo Civil. Ademais, em homenagem ao princípio da boa-fé, não se pode rediscutir matérias acobertadas pela preclusão.
+
+Em relação à tese de que a presente demanda não contém caráter contencioso e, portanto, é incabível a fixação dos honorários sucumbenciais, melhor sorte não socorre ao embargante.
+
+É nítida a litigiosidade da demanda, na medida em que ocorreu ampla atuação dos patronos na defesa dos interesses dos seus clientes, produção documental, inclusive com a interposição de recurso, o que justifica a condenação ao pagamento de honorários advocatícios.
+
+Nesse sentido:
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. HOMOLOGAÇÃO DOS CÁLCULOS ELABORADOS PELO PERITO. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS PARA A REFERIDA FASE. CABIMENTO.   1. Não evidenciada a sustentada ofensa à coisa julgada, há que ser mantida a decisão que homologou os cálculos periciais.   2. Como regra, a liquidação de sentença não comporta fixação de honorários advocatícios, porque se trata de fase incidental no processo de execução do título judicial, sobretudo ante a ausência de previsão no art. 85, §1º, do CPC. Todavia, consoante entendimento pacífico do colendo STJ, reproduzido em precedentes deste egrégio Tribunal de Justiça, há que se fixar honorários advocatícios nas liquidações, quando evidenciado o caráter contencioso do procedimento.   3. Constatada a litigiosidade no procedimento, devem ser fixados honorários advocatícios de dez por cento (10%) sobre o proveito econômico, que corresponde ao quantum debeatur ainda pendente de fixação.   4. Agravo de instrumento parcialmente provido. (Acórdão 1378375, 07121330320198070000, Relator: ARNOLDO CAMANHO,  4ª Turma Cível, data de julgamento: 7/10/2021, publicado no DJE: 27/10/2021)
+
+AGRAVO INTERNO NOS EMBAGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. MAJORAÇÃO DOS HONORÁRIOS. POSSIBILIDADE. NECESSIDADE DE SE DISTINGUIR A VERBA HONORÁRIA DA LIQUIDAÇÃO DE SENTENÇA DAQUELA EVENTUALMENTE ARBITRADA NO CUMPRIMENTO DE SENTENÇA. AGRAVO DESPROVIDO. 1. A jurisprudência desta Corte Superior é pacífica em entender pela possibilidade de fixação de honorários sucumbenciais na fase de liquidação de sentença quando esta assume nítido caráter contencioso. Contudo, não se pode confundir eventuais honorários a serem fixados na fase de cumprimento de sentença com a verba possível de ser arbitrada/majorada na liquidação de sentença, como pretendem os agravantes na presente hipótese. 2. Agravo interno desprovido”. (AgInt nos EDcl no AREsp 1420633/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021).
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. CÉDULA RURAL. IMPUGNAÇÃO GENÉRICA AO LAUDO PERICIAL CONTÁBIL. TERMO INICIAL DOS JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. LITIGIOSIDADE. 1 – O réu insurge-se contra o laudo pericial, mas não demonstra ou comprova, de modo objetivo, o erro na fórmula utilizada pelo i. Perito ou a discordância com o título judicial liquidando, portanto, não infirma a sua higidez. II - O e. STJ, no julgamento repetitivo do REsp 1.370.899/SP (Tema 685), definiu que os juros de mora incidem a partir da citação do devedor na ação civil pública, e não da sua intimação no cumprimento de sentença. II - Conforme entendimento jurisprudencial, é admitida a fixação de honorários advocatícios na fase de liquidação de sentença por arbitramento, quando evidenciada a litigiosidade no procedimento. IV - Agravo de instrumento parcialmente conhecido e desprovido” (Acórdão 1340922, 07398955720208070000, Relator: VERA ANDRIGHI, 6ª Turma Cível, data de julgamento: 12/5/2021, publicado no PJe: 2/6/2021).
+
+CIVIL. PROCESSUAL CIVIL.LIQUIDAÇÃO DE SENTENÇA. ARBITRAMENTO. PERÍCIA.HONORÁRIOS DE SUCUMBÊNCIA. EXCEPCIONALIDADE. FIXAÇÃO.LITIGIOSIDADE.NÃO CONFIGURADA. (...) 3. A fixação de honorários advocatícios de sucumbência, em sede de liquidação de sentença, é. Entendimento possível em caráter excepcional, quando configurada a litigiosidade da demanda pacífico no âmbito do Superior Tribunal de Justiça.4. Recurso conhecido e desprovido.” (Acórdão 1251279, 07233608720198070000, Relator: MARIADE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 20/5/2020, publicado no DJE:8/6/2020).
+
+O embargante defende, subsidiariamente, a fixação dos honorários por arbitramento equitativo.
+
+No acórdão 1411468, os honorários advocatícios foram estabelecidos em 10% sobre o valor atribuído à causa (R$ 13.310,00), de acordo com o disposto no artigo 85, §2º, do Código de Processo Civil. Assim, os honorários sucumbenciais equivalem a R$ 1.331,00.
+
+A fixação dos honorários por apreciação equitativa, nos termos do artigo 85, §8°, do Código de Processo Civil, só deve ser utilizada nas causas em que for inestimável ou irrisório o proveito econômico, ou, ainda, quando o valor da causa for muito baixo, situações que não se encontram presentes na hipótese, razão pela qual inviável a condenação ao pagamento de honorários por valor a ser arbitrado equitativamente pelo magistrado.
+
+Considerando o zelo dos causídicos do réu e o trabalho realizado nos petitórios IDs 98769258, 105241174 dos autos de origem, o presente recurso de agravo de instrumento ID 30904852, bem como a ampla produção documental realizada pelos causídicos do réu (IDs 98769262, 98769266 98769264, 98769267, 98769270, autos de origem), verifica-se que houve razoável tempo exigido para o cumprimento dos serviços advocatícios, justificando a condenação em 10% sobre o valor da causa.
+
+Ante o exposto, conheço dos embargos de declaração opostos e os REJEITO.
+
+É como voto.
+
+O Senhor Desembargador ALFEU MACHADO - 1º Vogal Com o relatorA Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS. REJEITADOS. UNÂNIME.
