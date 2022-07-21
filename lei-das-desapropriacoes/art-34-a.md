@@ -2,3 +2,4 @@ Art. 34-A. Se houver concordância, reduzida a termo, do expropriado, a decisão
 § 1º A concordância escrita do expropriado não implica renúncia ao seu direito de questionar o preço ofertado em juízo.
 § 2º Na hipótese deste artigo, o expropriado poderá levantar 100% (cem por cento) do depósito de que trata o art. 33 deste Decreto-Lei.
 § 3º Do valor a ser levantado pelo expropriado devem ser deduzidos os valores dispostos nos §§ 1º e 2º do art. 32 deste Decreto-Lei, bem como, a critério do juiz, aqueles tidos como necessários para o custeio das despesas processuais.
+§ 4º Após a apresentação da contestação pelo expropriado, se não houver oposição expressa com relação à validade do decreto desapropriatório, deverá ser determinada a imediata transferência da propriedade do imóvel para o expropriante, independentemente de anuência expressa do expropriado, e prosseguirá o processo somente para resolução das questões litigiosas.
