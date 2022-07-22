@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2097, de 18 de julho de 2022
+Estabelece normas relativas à Contribuição para o Plano de Seguridade Social do Servidor (CPSS), de que trata a Lei nº 10.887, de 18 de junho de 2004.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), no art. 16 da Lei Complementar nº 95, de 26 de fevereiro de 1998, na Lei nº 8.112, de 11 de dezembro de 1990, nos arts. 44 e 61 da Lei nº 9.430, de 27 de dezembro de 1996, no art. 14 da Lei nº 9.624, de 2 de abril de 1998, na Lei nº 9.717, de 27 de novembro de 1998, na Lei nº 9.784, de 29 de janeiro de 1999, na Lei nº 10.887, de 18 de junho de 2004, nos arts. 46 a 49 da Lei nº 12.350, de 20 de dezembro de 2010, na Lei nº 12.618, de 30 de abril de 2012, no Decreto nº 4.050, de 12 de dezembro de 2001, e no Decreto nº 10.139, de 28 de novembro de 2019, resolve:
+CAPÍTULO I
+DO OBJETO E DO ÂMBITO DE APLICAÇÃO
