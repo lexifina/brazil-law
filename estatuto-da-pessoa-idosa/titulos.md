@@ -39,8 +39,7 @@ Da Fiscalização das Entidades de Atendimento
 CAPÍTULO IV
 Das Infrações Administrativas
 CAPÍTULO V
-Da Apuração Administrativa de Infração às
-Normas de Proteção ao Idoso
+Da Apuração Administrativa de Infração às Normas de Proteção à Pessoa Idosa
 CAPÍTULO VI
 Da Apuração Judicial de Irregularidades em Entidade de Atendimento
 TÍTULO V
