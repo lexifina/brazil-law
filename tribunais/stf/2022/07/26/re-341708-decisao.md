@@ -1,0 +1,56 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE COFINS E PIS SOBRE O PRODUTO DE ATO COOPERADO OU COOPERATIVO (TEMA N. 536). PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+
+    "TRIBUTÁRIO. MANDADO DE SEGURANÇA. COFINS. PIS. COOPERATIVAS. ISENÇÃO. REVOGAÇÃO. ART. 6º DA LC 70/91. LEI 9.718/98. MP 1.858-6/99 E REEDIÇÕES. 1. A medida provisória é instrumento idôneo para disciplinar matéria tributária, por ser dotada de ‘força de lei’ e eficácia normativa. 2. Não afrontam o princípio da hierarquia das normas a revogação da isenção prevista no art. 6º da LC 70/91 nem a majoração da COFINS, por lei ordinária. 3. O disposto na letra ‘c’ do inciso III do art. 146 da CF não significa garantia de isenção ou imunidade tributária, tratando o legislador a situação do ato cooperativo de forma diferenciada, para que essa atividade também contribua para a seguridade social, em atenção ao comando do art. 195 da Carta Magna. 4. Segundo decidiu o Plenário desta Corte, na Arguição de Inconstitucionalidade suscitada na AMS n. 1999.04.01.080274-1/SC, não tendo a Lei Fundamental fixado o conceito de faturamento poder o legislador infraconstitucional determinar seus limites. 5. As regras sobre a contribuição para o PIS foram recepcionadas pela Constituição Federal de 1998 como legislação ordinária, sendo desnecessário o uso de lei complementar para alterá-la” (sic, fl. 10, vol. 32).
+
+    2. A recorrente alega ter o Tribunal de origem contrariado o § 1º do art. 145, a al. c do inc. III do art. 146, o inc. II do art. 150 e o § 2º do art. 174 da Constituição da República.
+
+    Sustenta que “tanto as Leis nºs 9.532/97. 9.715/98 e 9.718/98, quanto às Medidas Provisórias nºs 1.858 e 1.991-12, de 14/12/99, são absolutamente inconstitucionais porque violaram campo de reserva à Legislação com ‘quorum’ qualificado [Lei Complementar), no que diz respeito a tentativa de tributar o ato cooperativo praticado pelas sociedades cooperativas como a Recorrente” (fl. 7, vol. 33).
+
+    Argumenta que “o ato cooperativo como não se caracteriza como operação de mercado e nem como contrato de compra e venda, resta evidente, não se constitui como fato gerador da COFINS e do PIS, porque não há auferimento para ela de ‘receitas’, o que a rigor constitui o cerne do fato imponível de ambas as contribuições” (fl. 8, vol. 33).
+
+    Pede ”que o presente Recurso Extraordinário seja recebido por esta Egrégia Turma, conhecido e provido, para reformar o acórdão recorrido e conseqüentemente: a) Conceder a segurança para ver reconhecido o direito da Impetrante e ora Recorrente de não recolher a Contribuição para o PIS e para a COFINS, com as alterações preconizadas pelas Leis nºs 9.532/97, 9.715/98 e 9.718/98 e pelas Medidas Provisórias nºs 1.858 e 1.991-12, de 14/12/1999, regulamentada pela Instrução Normativa do Secretário da Receita Federal, nº 145, de 09/12/1999 (DOU de 10/12/1999), face as inconstitucionalidades e ilegalidades demonstradas nos fundamentos do presente recurso; ou b) Sucessivamente, se não for acatado o pedido anterior, pede ao menos, o provimento do Recurso para que a segurança seja concedida, reconhecendo o direito da Recorrente de não recolher a Contribuição para o PIS, com as alterações preconizadas pela Lei nº 9.718, de 27/11/98, que ampliou, sem legitimidade, a sua base de cálculo, face as inconstitucionalidades e ilegalidades demonstradas nos fundamentos do presente mandado, assegurando-lhe, consequentemente e enquanto não ocorrer alteração válida, o direito de recolher o PIS nos moldes da Lei Complementar nº 07/70, com as alterações da Lei nº 9.715/98, ou seja, à alíquota de 0,65%, incidente sobre o seu faturamento, assim entendido como a receita bruta decorrente das suas vendas de mercadorias, com as exclusões contidas no parágrafo único do artigo 3º da citada Lei nº 9.715/98”  (fl. 16, vol. 33).
+
+    3. Em 14.8.2009, determinei a devolução dos autos ao Tribunal de origem para aguardar-se o julgamento do mérito da repercussão geral no Recurso Extraordinário n. 598.085 (Tema n. 177) (fls. 1-2, vol. 1).
+
+    4. Julgado o mérito do Recurso Extraordinário n. 598.085 por este Supremo Tribunal, o Vice-Presidente do Tribunal de origem negou seguimento ao recurso, ao fundamento de estar o acórdão recorrido em harmonia com a jurisprudência do Supremo Tribunal Federal (vol. 48).
+
+    Os embargos de declaração opostos pela recorrente foram recebidos como agravo interno, “tendo em vista que ausente a análise da admissibilidade recursal referente ao pedido sucessivo formulado pela parte ora recorrente em seu recurso extraordinário (evento 5)” (vol. 65).
+
+    O recurso extraordinário teve seguimento negado quanto à questão abordada no Tema n. 177 e admitido quanto à matéria remanescente
+(vol. 65).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    5. No julgamento do Recurso Extraordinário n. 672.215-RG (Tema n. 536), Relator o Ministro Roberto Barroso, este Supremo Tribunal reconheceu a repercussão geral da matéria referente à incidência de Cofins, PIS e CSLL sobre o produto de ato cooperado ou cooperativo, como firmado pelo Plenário Virtual:
+
+    “TRIBUTÁRIO. INCIDÊNCIA DA COFINS, DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL E DA CONTRIBUIÇÃO SOBRE O LUCRO LÍQUIDO SOBRE O PRODUTO DE ATO COOPERADO OU COOPERATIVO. DISTINÇÃO ENTRE ‘ATO COOPERADO TÍPICO’ E ‘ATO COOPERADO ATÍPICO’. CONCEITOS CONSTITUCIONAIS DE ‘ATO COOPERATIVO’, ‘RECEITA DE ATIVIDADE COOPERATIVA’ E ‘COOPERADO’. COOPERATIVA DE SERVIÇOS MÉDICOS. VALORES PAGOS POR TERCEIROS À COOPERATIVA POR SERVIÇOS PRESTADOS PELOS COOPERADOS. LEIS 5.764/1971, 7.689/1988, 9.718/1998 E 10.833/2003. ARTS. 146, III, c, 194, par. ún., V, 195, caput, e I, a, b e c e § 7º e 239 DA CONSTITUIÇÃO. Tem repercussão geral a discussão sobre a incidência da Cofins, do PIS e da CSLL sobre o produto de ato cooperativo, por violação dos conceitos constitucionais de ‘ato cooperado’, ‘receita da atividade cooperativa’ e ‘cooperado’. Discussão que se dá sem prejuízo do exame da constitucionalidade da revogação, por lei ordinária ou medida provisória, de isenção, concedida por lei complementar (RE 598.085-RG), bem como da ‘possibilidade da incidência da contribuição para o PIS sobre os atos cooperativos, tendo em vista o disposto na Medida Provisória nº 2.158-33, originariamente editada sob o nº 1.858-6, e nas Leis nºs 9.715 e 9.718, ambas de 1998’ (RE 599.362-RG, rel. min. Dias Toffoli)” (DJe 30.4.2012).
+
+    No julgamento dos Embargos de Declaração no Recurso Extraordinário n. 599.362, Relator o Ministro Dias Toffoli, o Plenário deste Supremo Tribunal esclareceu que, “nos autos do RE nº 672.215/CE, Rel. Min. Roberto Barroso, o tema do adequado tratamento tributário do ato cooperativo será retomado, a fim de se dirimir controvérsia acerca da cobrança de contribuições sociais destinadas à Seguridade Social, incidentes, também, sobre outras materialidades, como o lucro, tendo como foco os conceitos constitucionais de ‘ato cooperativo’, ‘receita de atividade cooperativa’ e ‘cooperado’ e, ainda, a distinção entre ‘ato cooperado típico’ e ‘ato cooperado atípico’” (DJe 8.11.2016).
+
+    Ambas Turmas deste Supremo Tribunal manifestaram-se pela devolução do processo à origem para aguardar-se o julgamento do mérito desse tema de repercussão geral:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. ATOS COOPERATIVOS. INCIDÊNCIA DE PIS E COFINS. PROVIMENTO DE RECURSO ESPECIAL. PREJUDICIALIDADE DOS RECURSOS EXTRAORDINÁRIOS INTERPOSTOS CONTRA ACÓRDÃO DA ORIGEM. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 536. REITERADA A DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS À ORIGEM. 1. Nos termos da jurisprudência Do Supremo Tribunal Federal (STF), encontram-se prejudicados os recursos extraordinários interpostos contra o acórdão proferido pelo Tribunal Regional Federal da 1ª Região, ante a perda superveniente do seu objeto – substituição do acórdão impugnado pela decisão do Superior Tribunal de Justiça. 2. O STF, no julgamento do RE 672.215-RG (Tema 536), irá discutir o tema do adequado tratamento tributário do ato cooperativo, a fim de se dirimir controvérsia acerca da cobrança de contribuições sociais destinadas à seguridade social. 3. Agravo interno a que se nega provimento. Reiterada a devolução dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral” (RE n. 587.931-ED-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 8.8.2019).
+
+     “Agravo regimental nos embargos de declaração no recurso extraordinário. Tributário. Processual Civil. Recursos extraordinário e especial de partes contrárias interpostos na origem. Provimento do Resp da agravante pelo STJ. Objetos distintos. Prejudicialidade do recurso extraordinário da agravada. Não ocorrência. 1. A Jurisprudência da Corte é no sentido de que somente ocorre a perda do objeto do recurso extraordinário interposto na origem quando o Superior Tribunal de Justiça dá provimento a recurso especial cujo objeto é análogo ao do recurso extraordinário. Ausência de prejudicialidade do recurso extraordinário, nos limites da matéria devolvida ao Supremo Tribunal Federal. 2. A matéria suscitada no recurso extraordinário está versada no RE nº 672.215/CE (Tema 536), com repercussão geral reconhecida. Mantida a devolução dos autos ao Tribunal de origem para aplicar a sistemática da repercussão geral. 3. Agravo regimental não provido. Deixo de majorar os honorários advocatícios na forma do art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem” (RE n. 965.113-ED-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 31.10.2017).
+
+    Confiram-se também as decisões monocráticas proferidas no
+RE n. 1.285.868, relator o Ministro Ricardo Lewandowski, DJe 14.3.2022; RE n. 530.122-ED, Relator o Ministro Roberto Barroso, DJe 16.12.2021
+e RE n. 580.059, de minha relatoria, DJe 2.7.2020.
+
+    Reconhecida a repercussão geral do tema suscitado no recurso extraordinário interposto, os autos deverão retornar ao Superior Tribunal de Justiça para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+
+    6. Pela irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (ARE n. 862.406-AgR-Segundo, Relator o Ministro Edson Fachin, Segunda Turma, DJe 15.2.2019; ARE n. 1.129.179-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 31.7.2018; Pet n. 7.152-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 16.10.2018; e RE n. 607.100-ED, Relator o Ministro Luiz Fux, Primeira Turma, DJe 5.9.2017), determino a devolução destes autos ao Tribunal de origem para observância do art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 26 de julho de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
