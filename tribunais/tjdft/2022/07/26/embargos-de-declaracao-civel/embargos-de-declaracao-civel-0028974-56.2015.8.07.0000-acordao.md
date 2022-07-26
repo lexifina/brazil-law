@@ -1,0 +1,152 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Conselho Especial
+
+Processo N.
+EMBARGOS DE DECLARAÇÃO CÍVEL 0028974-56.2015.8.07.0000
+
+EMBARGANTE(S)
+MARIA MADALENA DE OLIVEIRA MARTINS
+
+EMBARGADO(S)
+DISTRITO FEDERAL
+
+Relator
+Desembargador CRUZ MACEDO
+
+Acórdão Nº
+1601510
+
+EMENTA
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÍNDICES DE CORREÇÃO MONETÁRIA. COISA JULGADA. TEMA 733. OMISSÕES INEXISTENTES. INOCORRÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. Nos termos do RE 730.462/SP (Tema 733 do STF, de repercussão geral), “declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC.”
+
+2. Tenho firmado a compreensão de que se o cumprimento de sentença já foi iniciado, tendo a parte apresentado os cálculos com base na TR, a questão encontra-se preclusa, não havendo como se rediscutir a matéria indefinidamente, ainda que diante de uma decisão de inconstitucionalidade.
+
+3. Ausentes as omissões e o erro material apontados no acórdão embargado, que dirimiu com suficiente clareza as questões postas sob julgamento, impõe-se o não provimento dos embargos declaratórios.
+
+4. Recurso conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) Conselho Especial do Tribunal de Justiça do Distrito Federal e dos Territórios, CRUZ MACEDO - Relator, WALDIR LEÔNCIO LOPES JÚNIOR - 1º Vogal, J. J. COSTA CARVALHO - 2º Vogal, JAIR SOARES - 3º Vogal, VERA ANDRIGHI - 4º Vogal, LUÍS GUSTAVO B. DE OLIVEIRA - 5º Vogal, ALFEU MACHADO - 6º Vogal, ALVARO CIARLINI - 7º Vogal, LEILA ARLANCH - 8º Vogal, FÁTIMA RAFAEL - 9º Vogal, DIVA LUCY DE FARIA PEREIRA - 10º Vogal, CESAR LOYOLA - 11º Vogal, ROMEU GONZAGA NEIVA - 12º Vogal e ROBERVAL CASEMIRO BELINATI - 13º Vogal, sob a Presidência do Senhor Desembargador ANGELO PASSARELI, em proferir a seguinte decisão: Conhecer e negar provimento aos embargos de declaração. Unânime., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Agosto de 2022
+
+Desembargador CRUZ MACEDORelator
+
+RELATÓRIO
+
+Cuida-se de Embargos de Declaração opostos por MARIA MADALENA DE OLIVEIRA MARTINS em face do Acórdão nº 1414255 (id 34433341), prolatado por este c. Conselho Especial no julgamento do agravo interno cível interposto pela ora embargante, cuja ementa assim se apresenta:
+
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. APLICAÇÃO DE ÍNDICES DE CORREÇÃO MONETÁRIA. COISA JULGADA. TEMA 733 DO STF. 1. Descabe a expedição de requisitório complementar, a fim de que seja aplicado índice de correção monetária diverso do que foi estabelecido na decisão exequenda, com fundamento na imutabilidade da coisa julgada, visto que a questão já foi decidida em acórdão transitado em julgado, e da preclusão, uma vez que, apresentados os cálculos houve a concordância da parte agravante. 2. Nos termos do RE 730.462/SP (Tema 733 do STF, de repercussão geral), “declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC.” 3. Agravo interno conhecido e não provido.
+
+Em suas razões (id 34883484), a embargante sustenta que o acórdão padece de diversas omissões.
+
+Primeiramente, aduz que o Colegiado não considerou a decisão vinculante do STJ, tomada no REsp 1143471/PR, no sentido de que o erro de cálculo somente se torna imutável após o trânsito em julgado da sentença de extinção do processo.
+
+Alega também que não foi observada a resolução do Tema n. 491 do STJ, segundo o qual os parâmetros de juros e de correção monetária previstos na Lei 11.960/09 somente seriam aplicáveis enquanto eles vigorassem.
+
+Afirma que o Tribunal não observou que não se poderia exigir dos embargantes outra postura senão a de tolerar a aplicação da TR, porque era o índice vigente à época, e registra que a correção monetária é matéria de ordem pública e pode ser revista de ofício pelo Poder Judiciário a qualquer tempo, tratando-se, de pedido implícito, nos termos do art. 322, §1º, do CPC.
+
+Colaciona diversos julgados de nossa Corte, para defender a flexibilização da coisa julgada a permitir a revisão dos cálculos para substituir a TR pelo IPCA-E.
+
+Sustenta que o colegiado não se atentou ao fato de que o STJ firmou o entendimento acerca da aplicação imediata em todos os processos da lei nova que altera o regime da correção monetária, abarcando inclusive aqueles em que já houve trânsito em julgado.
+
+Registra que o STF, em decisão recente, afastou expressamente a coisa julgada e determinou a aplicação do que restou decidido no Tema n. 810 de repercussão geral.
+
+Defende que, ao caso, a aplicação dos artigos 502, 503 e 507 do CPC é equivocada, porque não houve qualquer deliberação expressa acerca da constitucionalidade do índice, única hipótese que permitiria se considera preclusa a discussão sobre a aplicação da TR como índice de correção monetária.
+
+Afirma ser equivocada a aplicação do Tema 733 para afastar a incidência do que foi decidido no RE 870.947 e na ADI 5348, uma vez que a matéria que embasou a aludida tese é diversa da questão concernente à correção monetária. Sustentam, assim, que “o caso dos autos, contudo, é diverso e não encontra óbice no Tema 733, porque diferentemente do que ocorreu com os honorários advocatícios, a correção monetária traduz, conforme dito, questão de ordem pública, possuindo natureza estatutária e institucional, sendo certo que as modificações respectivas do direito decorrente da edição de novas leis ou da sua supressão, como decorrência do exercício pelo poder judiciário do papel de legislador negativo, incidem imediatamente aos processos em curso.  (id 34883484, p. 42/43).
+
+Segue asseverando que, da interpretação do Tema 435 STF, a contrario sensu, seria possível dizer que “é compatível com a Constituição a aplicabilidade imediata das decisões do STF Corte que declararam a inconstitucionalidade parcial do art. 1º-F da Lei n. 9.494/97.”
+
+Ao longo da peça recursal a embargante colaciona diversos julgados e, por fim, requer sejam os presentes embargos de declaração conhecidos e providos para que as omissões sejam sanadas, atribuindo-lhes efeitos infringentes, para dar provimento ao agravo interno interposto.
+
+Intimado (id 35077072), o DISTRITO FEDERAL apresenta contrarrazões em id 35504787.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador CRUZ MACEDO - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Como cediço, os embargos de declaração constituem uma via recursal estreita, cujos limites encontram-se descritos no art. 1.022 do Código de Processo Civil, não sendo adequados para reformar julgado proferido pelo colegiado, a não ser que restem configuradas as hipóteses de obscuridade, contradição, omissão ou ainda erro material.
+
+Na hipótese dos autos, o acórdão vergastado negou provimento ao agravo interno interposto pela ora embargante, mantendo a decisão anterior (id 23849401), de relatoria do em. Desembargador Mário Machado, que indeferiu “o pedido de aplicação do IPCA-E”, por força da coisa julgada que se formou na decisão exequenda, cujo comando determinou que:
+
+Nos cálculos, a partir de 30/6/2009 até a expedição do requisitório, devem ser aplicados os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. Após a expedição do precatório (em data posterior a 25/3/2015), incidirá o Índice de Preços ao Consumidor Amplo Especial (IPCA-E).
+
+Como relatado, a embargante, em extenso arrazoado, pretende sejam sanadas as omissões, atribuindo aos presentes embargos de declaração efeitos infringentes para dar provimento ao agravo interno interposto, promovendo-se a retificação dos requisitórios.
+
+Não obstante aos argumentos expendidos, tenho que inexistem omissões a serem sanadas pela via eleita, posto que o acordão recorrido fundamentou de forma clara e suficiente as questões trazidas em sede de agravo interno, tendo decidido pela aplicação do Tema n. 733 STF à espécie, afastando a pretensão de aplicação das decisões do Supremo Tribunal Federal (RE 870.947/SE e ADIs 4357 e 4425) que declararam a inconstitucionalidade da incidência de correção monetária com base nos índices oficiais da poupança (TR).
+
+Isso porque, consoante tese firmada no aludido Tema n. 733, a decisão do Supremo Tribunal Federal que declara a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria.
+
+Nessa esteira, o acordão embargado concluiu que (id 34433341):
+
+(...) mesmo as questões de ordem pública – se já decididas no processo –, se submetem ao fenômeno da preclusão. Saliente-se que não se está a tratar de erro de cálculo ou ausência de índices de juros ou correção monetária, mas de incidência de alíquotas devidamente debatidas. (...) Logo, no caso, não há falar em expedição de precatório ou requisição de pequeno valor complementar, já que o posicionamento posterior do Supremo Tribunal Federal, que declarou a inconstitucionalidade da correção monetária prevista no artigo 1º-F da Lei nº 9.494/97, com a redação dada pelo art. 5º da Lei nº11.960/09, não tem a capacidade de rescindir automaticamente as decisões judiciais transitadas em julgado em outro sentido, haja vista o princípio da segurança jurídica.
+
+Importante enfatizar que, embora os juros e a correção monetária sejam questão de ordem pública, houve resolução acerca dos cálculos do valor da execução, que já foram, inclusive, homologados judicialmente, havendo coisa julgada sobre a matéria. Por isso, sobre este assunto não pode haver nova decisão, tendo em vista que a matéria se encontra atingida pela preclusão.
+
+De fato, mesmo as questões de ordem pública que já foram decididas no processo se submetem ao fenômeno da preclusão.
+
+Assim, conforme já decidido no julgado embargado, não há falar em retificação dos requisitórios, já que o posicionamento posterior do Supremo Tribunal Federal, que declarou a inconstitucionalidade da correção monetária prevista no artigo 1º-F da Lei nº 9.494/97, com a redação dada pelo art. 5º da Lei nº11.960/09, não tem a capacidade de rescindir automaticamente as decisões judiciais transitadas em julgado em outro sentido, haja vista o princípio da segurança jurídica.
+
+No ponto, ressalto que a alegação de equívoco na aplicação do Tema 733 (sob o fundamento de que a matéria que embasou a aludida tese é diversa da questão concernente à correção monetária), suscitada pelo recorrente, traduz-se como inconformismo quanto à interpretação da matéria, o que não é passível de correção pela via dos embargos de declaração. Registre-se que as teses jurídicas elaboradas pelas Cortes Superiores não estão vinculadas exclusivamente à matéria fática tida como pano de fundo para o debate jurídico. Na verdade, esses enunciados têm a pretensão de generalidade e abstratividade, características semelhantes a que se extrai do texto normativo.
+
+Além disso, de encontro com as demais teses aventadas pelo embargante, não se trata de erro de cálculo ou ausência de índices de juros ou correção monetária, mas de incidência de alíquotas devidamente debatidas.
+
+Ato contínuo, também ao contrário do que alega a recorrente, o acordão embargado levou em conta o Tema n. 491 STJ, na medida em que fez prevalecer a decisão exequenda, que aplicou os parâmetros de juros e de correção monetária então vigentes à época, ocasião em que se encontrava válida a correção monetária prevista no art. 1º-F da Lei 11.960/09.
+
+Importante observar que, em vários julgados, tenho firmado a compreensão de que se o cumprimento de sentença já foi iniciado, tendo a parte apresentado os cálculos com base na TR, e o juiz os homologado, a questão encontra-se preclusa, não havendo como se rediscutir a matéria indefinidamente, ainda que diante de uma decisão de inconstitucionalidade.
+
+Destarte, da análise do conjunto de argumentos coligidos no presente recurso, o que se nota é a pretensão de revolver toda a matéria que já foi exaustivamente enfrentada por ocasião do julgamento do agravo interno, o que não é possível em sede de embargos de declaração, cuja finalidade, como já visto, é a de esclarecer e integrar a decisão que se mostra obscura, contraditória ou omissa, não sendo este, a toda evidência, o caso dos autos.
+
+De mais a mais, vale acentuar que, possuindo o embargante entendimento diverso daquele lançado para solucionar a controvérsia em debate, deve perseguir as instâncias cabíveis para obter a reforma do julgado, tendo em vista que os embargos declaratórios não se prestam ao reexame das questões já apreciadas. Nesse sentido:
+
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA DE VÍCIO. REDISCUSSÃO DA MATÉRIA. MERO INCONFORMISMO. IMPOSSIBILIDADE. VIA INADEQUADA. 1. A via dos embargos de declaração destina-se a corrigir falha do comando judicial que comprometa seu entendimento, quando decorrente de contradição, omissão, obscuridade ou, por construção jurisprudencial, correção de erro material. 2. Ausente qualquer dos vícios catalogados no art. 1.022 do CPC/15, revela-se incabível a via manejada, destinada exclusivamente à correção de falha do julgado e não meio de substituição de provimentos judiciais, fim para o qual assiste à parte os remédios processuais específicos. 3. O fato de a fundamentação adotada na decisão não corresponder à desejada pela embargante não implica em omissão, o que torna incabível a via manejada, destinada exclusivamente à correção de falha do julgado e não meio de substituição de provimentos judiciais. 4. Recurso conhecido e desprovido. (Acórdão 1330437, 07101310620198070018, Relator: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 26/3/2021, publicado no DJE: 14/4/2021. Pág.:  Sem Página Cadastrada.) – Destaquei.
+
+Assim, por não vislumbrar qualquer vício no julgado, os embargos de declaração não podem ser acolhidos.
+
+DISPOSITIVO
+
+Ante o exposto, NEGO PROVIMENTO aos embargos de declaração.
+
+É como voto.
+
+O Senhor Desembargador WALDIR LEÔNCIO LOPES JÚNIOR - 1º Vogal Com o relator
+
+O Senhor Desembargador J. J. COSTA CARVALHO - 2º Vogal Com o relator
+
+O Senhor Desembargador JAIR SOARES - 3º Vogal Com o relator
+
+A Senhora Desembargadora VERA ANDRIGHI - 4º Vogal Com o relator
+
+O Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 5º Vogal Com o relator
+
+O Senhor Desembargador ALFEU MACHADO - 6º Vogal Com o relator
+
+O Senhor Desembargador ALVARO CIARLINI - 7º Vogal Com o relator
+
+A Senhora Desembargadora LEILA ARLANCH - 8º Vogal Com o relator
+
+A Senhora Desembargadora FÁTIMA RAFAEL - 9º Vogal Com o relator
+
+A Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 10º Vogal Com o relator
+
+O Senhor Desembargador CESAR LOYOLA - 11º Vogal Com o relator
+
+O Senhor Desembargador ROMEU GONZAGA NEIVA - 12º Vogal Com o relator
+
+O Senhor Desembargador ROBERVAL CASEMIRO BELINATI - 13º Vogal Com o relator
+
+DECISÃO
+
+Conhecer e negar provimento aos embargos de declaração. Unânime.
