@@ -1,0 +1,4 @@
+Resolução Nº 4.988 RESOLUÇÃO CMN Nº 4.988, DE 8 DE MARÇO DE 2022
+Institui linhas de crédito emergencial com recursos do Fundo Constitucional de Financiamento do Nordeste (FNE) e estabelece condições para prorrogação de operações de crédito de titularidade de empreendedores não rurais cujas atividades tenham sido prejudicadas pelo excesso de chuvas em municípios da área de atuação da Superintendência de Desenvolvimento do Nordeste (Sudene).
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 8 de março de 2022, com base no disposto nos arts. 3º, inciso IV, e 4º, inciso VI, da referida Lei, no art. 15, inciso VI e § 1º, da Lei nº 7.827, de 27 de setembro de 1989, e no art. 8º-A da Lei nº 10.177, de 12 de janeiro de 2001,
+R E S O L V E U :
