@@ -1,0 +1,27 @@
+Solução de Consulta Disit/SRRF05 nº 5006, de 14 de julho de 2022
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+SERVIÇOS HOSPITALARES. LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO.
+Para fins de aplicação do percentual de presunção de 8% (oito por cento) sobre a receita bruta auferida pela pessoa jurídica, com vistas à determinação da base de cálculo do IRPJ apurado na forma do lucro presumido, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002.
+Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos, ficando estas sujeitas ao percentual de 32% de presunção do lucro.
+No caso de atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos, cabe a segregação, nas notas fiscais, da parcela da receita atribuível à consulta e da parcela atribuível às cirurgias, de modo a ser atribuído o percentual de presunção do lucro correspondente a cada atividade.
+A prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares estará sujeita ao percentual de presunção de 32% (trinta e dois por cento) para o IRPJ.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 145, DE 2018.
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, "a" e 2º; IN RFB nº 1.234, de 2012, art. 30; Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+SERVIÇOS HOSPITALARES. LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO.
+Para fins de aplicação do percentual de presunção de 12% (doze por cento), sobre a receita bruta auferida pela pessoa jurídica, com vistas à determinação da base de cálculo da CSLL apurada na forma do resultado presumido, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002.
+Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos, ficando estas sujeitas ao percentual de 32% de presunção do lucro.
+No caso de atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos, cabe a segregação, nas notas fiscais, da parcela da receita atribuível à consulta e da parcela atribuível às cirurgias, de modo a ser atribuído o percentual de presunção do lucro correspondente a cada atividade.
+A prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares estará sujeita ao percentual de presunção de 32% (trinta e dois por cento) para a CSLL.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 145, DE 2018.
+SERVIÇOS HOSPITALARES. LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO.
+Para fins de aplicação do percentual de presunção de 12% (doze por cento), sobre a receita bruta auferida pela pessoa jurídica, com vistas à determinação da base de cálculo da CSLL apurada na forma do resultado presumido, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002.
+Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos, ficando estas sujeitas ao percentual de 32% de presunção do lucro.
+No caso de atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos, cabe a segregação, nas notas fiscais, da parcela da receita atribuível à consulta e da parcela atribuível às cirurgias, de modo a ser atribuído o percentual de presunção do lucro correspondente a cada atividade.
+A prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares estará sujeita ao percentual de presunção de 32% (trinta e dois por cento) para a CSLL.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 145, DE 2018.
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, "a" e 2º; IN RFB nº 1.234, de 2012, art. 30; Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52. Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, "a" e 2º; IN RFB nº 1.234, de 2012, art. 30; Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+SC Disit-SRRF05 nº 5.006-2022
+[arquivo anexo: SC Disit-SRRF05 nº 5.006-2022.pdf]
+MILENA REBOUÇAS NERY MONTALVÃO
+Chefe
