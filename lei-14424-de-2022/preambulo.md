@@ -1,0 +1,2 @@
+Altera a Lei nº 13.116, de 20 de abril de 2015, para autorizar a instalação de infraestrutura de telecomunicações, nos termos do requerimento de instalação, em caso de não manifestação do órgão competente no prazo legalmente estabelecido.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
