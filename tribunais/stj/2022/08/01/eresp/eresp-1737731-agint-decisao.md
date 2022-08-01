@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de Agravo Interno interposto em face de decisão monocrática às fls. 2.466-2.472, e-STJ, que rejeitou liminarmente os Embargos de Divergência, sob o argumento de que "consolidou-se na Primeira Seção o entendimento de que "a dispensa indevida de licitação configura dano in re ipsa""apto a configurar ato de improbidade administrativa.
+Contudo, a Primeira Seção do Superior Tribunal de Justiça acolheu a proposta de afetação do Recurso Especial 1.914.458/PI (Tema Repetitivo 1.096), como representativo da controvérsia, para debater a questão referente à"definição se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário". Verifica-se, portanto, que é a mesma discussão travada na presente demanda.
+Ao afetar a matéria, o Ministro Relator determinou a "suspensão do processamento de todos os processos que versem sobre a questão e tramitem no território nacional", o que também se aplica ao presente processo.
+Dessa forma, em cumprimento à decisão proferida no Recurso Especial 1.914.458/PI (Tema Repetitivo 1.096), determino o sobrestamento da presente demanda para que se aguarde, na Coordenadoria desta Corte Superior, o julgamento do Tema indicado.
+Publique-se.Intimem-se.
