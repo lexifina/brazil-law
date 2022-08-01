@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO À EXECUÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO NOS TERMOS DO ART. 85 DO CPC EM VIGOR. LEGITIMIDADE RECURSAL. PRESSUPOSTO INTRÍNSECO. IMPOSSIBILIDADE DE CORREÇÃO. RECURSO NÃO CONHECIDO.
+- O pedido contido neste agravo (majoração dos honorários de sucumbência a serem fixados em 20% sobre o valor do débito exequendo, nos termos do art. 85, §§ 1º e 2º, § 3º, I, do CPC), por se tratar de crédito autônomo do procurador constituído é de interesse único do advogado da parte autora, que não possui interesse processual e sequer econômico em seu provimento, faltando-lhe, portanto legitimidade recursal.
+- No CPC de 2015, o Art. 99, § 5º, determinou que o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade.
+- Incabível a regularização do feito, visto que o recurso é extensão da ação judicial, possuindo, também, pressupostos intrínsecos. Por entender que se trata de pressuposto intrínseco recursal, a jurisprudência se manifesta no sentido da inaplicabilidade do § 3º do art. 1017, em casos de ilegitimidade recursal.
+- Agravo de instrumento não conhecido.
+Os Embargos de Declaração não foram providos.
+A parte recorrente aponta, além de divergência jurisprudencial, violação do art. 23 da Lei 8.906/1994. Aduz:
+O nobre relator julgou não conheceu do recurso sob fundamento de que a recorrente seria parte ilegítima para recorrer dos honorários. A reforma é medida de rigor em face da notória divergência jurisprudencial entre o entendimento esposado no v. acórdão recorrido e o posicionamento manso e pacífico deste C. STJ no tocante à interpretação do artigo 23 da Lei 8.906/94, conforme passa a demonstrar.
+(..)
+Ante o exposto, requer seja o presente Recurso Especial conhecido e provido, reformando o v. acórdão recorrido nos termos da fundamentação apresentada, conhecendo-se do Agravo de Instrumento para dar provimento ao pedido de reforma dos honorários de sucumbência, por ser de direito e a única medida de justiça.
+Contrarrazões não apresentadas.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 22.7.2022.
+No enfrentamento da matéria, o Tribunal de origem apresentou os seguintes fundamentos:
+O pedido contido neste agravo (majoração dos honorários de sucumbência a serem fixados em 20% sobre o valor do débito exequendo, nos termos do art. 85, §§ 1º e 2º, § 3º, I, do CPC), por se tratar de crédito autônomo do procurador constituído é de interesse único do advogado da parte autora, que não possui interesse processual e sequer econômico em seu provimento, faltando-lhe, portanto legitimidade recursal.
+Por outro lado, a jurisprudência do STJ é tranquila no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los, ante a ratio essendi do art. 23 da Lei 8.906/1994 (REsp 828.300/SC, Rel. Ministro Luiz Fux, Primeira Turma, DJe de 24/4/2008).Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. OBRIGAÇÃO DE FAZER. INÉRCIA DO EXECUTADO. INAPLICABILIDADE DA REDUÇÃO PELA METADE DOS HONORÁRIOS ADVOCATÍCIOS.
+1. Mostra-se inviável, na via especial, o exame de questões que não foram trazidas à baila no momento processual oportuno. A parte insurgente não apresentou contrarrazões ao apelo nobre, pelo que não se mostra possível a análise de questões trazidas a destempo.
+2. Os honorários advocatícios, embora constituam direito autônomo do advogado, não afastam do particular a legitimidade concorrente para pleitear tal verba, não ocorrendo deserção por litigar sob o pálio da justiça gratuita.
+3. A conduta do réu que, somente após a propositura do feito executivo e consequente intimação, cumpre a obrigação de fazer determinada na sentença condenatória, não se coaduna com o ensejo do legislador, na melhor interpretação do art. 90, § 4º, do Código de Processo Civil. O referido dispositivo é inaplicável na fase de cumprimento de sentença não impugnada, total ou parcialmente, pela Fazenda Pública.
+4. Agravo interno a que se nega provimento.(AgInt nos EDcl no AREsp 1.656.535/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 15/12/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. APLICABILIDADE DA MP 567/2012, CONVERTIDA NA LEI 12.703/2012, APÓS SUA ENTRADA EM VIGOR. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. PLEITO RECURSAL DE MAJORAÇÃO. LEGITIMIDADE CONCORRENTE. RECURSO EM NOME DA PARTE. POSSIBILIDADE. INTERPRETAÇÃO DO ART. 23 DA LEI 8.906/1994.
+1. A controvérsia devolvida no Recurso Especial cinge-se, em um dos pontos, à legitimidade da parte que titulariza o direito material discutido na ação para postular, em recurso de Apelação, a majoração dos honorários sucumbenciais fixados na sentença.
+2. O Tribunal de origem entendeu que faltaria a esta interesse em recorrer para elevá-lo, uma vez ser defeso postular em nome próprio direito alheio (art. 6º do CPC/1973).
+3. A jurisprudência do STJ é tranquila no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los, ante a ratio essendi do art. 23 da Lei nº 8.906/94 (REsp 828.300/SC, Rel. Ministro Luiz Fux, Primeira Turma, DJe de 24/4/2008). Nesse sentido: AgRg no REsp 1.644.878/SC, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/5/2017, DJe 24/5/2017; REsp 1.596.062/SP, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Segunda Turma, julgado em 7/6/2016, DJe 14/6/2016; AgRg no REsp 1.466.005/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 17/9/2015, DJe 29/9/2015; AgRg no REsp 1.378.162/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/2/2014, DJe 10/2/2014.
+4. Recurso Especial parcialmente provido, determinando o retorno dos autos à origem para que o Tribunal a quo aprecie o recurso de Apelação da parte autora sem o óbice da ilegitimidade recursal.
+(REsp 1.800.042/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2019.)
+Ante o exposto, dou parcial provimento ao Recurso Especial, para determinar o retorno dos autos à origem para que o Tribunal a quo aprecie o recurso de Agravo de Instrumento da parte autora sem o óbice da ilegitimidade recursal.
+Publique-se.
+Intimem-se.
