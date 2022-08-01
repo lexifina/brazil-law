@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido de reconsideração protocolado pelo impetrante Thiago Guedes Alexandre, no qual se:
+pugna pela reapreciação do pedido liminar, considerando-se o fato novo que reforça a urgência na concessão da medida. Caso assim não se entenda, o Impetrante requer que ao menos seja apreciado o pedido subsidiário formulado na exordial, conforme exposto. (e-STJ fl. 344).
+Verifica-se, no entanto, que tal pedido tem nítido cunho recursal contra decisão da Presidência deste Superior Tribunal de Justiça que, em 25 de dezembro de 2021, indeferiu a liminar, nestes termo (e-STJ fls. 293):
+Em análise sumária, verifica-se que o periculum in mora não está evidenciado, pois não há risco de ineficácia da concessão da ordem mandamental na hipótese de a liminar não ser desde logo deferida. O impetrante não comprovou o risco de dano irreparável.
+Destaque-se o fato de que a autoridade coatora acolheu parecer aprovado pela DAJI que afirmou que "não houve um deslocamento propriamente dito, na medida em que está bem nítido que houve apenas o retorno decorrente de uma concessão de afastamento para estudos e posterior solicitação de interesse próprio para exercer as funções institucionais em Brasília".
+Ademais, no presente caso, o pedido de liminar - determinar à Autoridade coatora a remoção do impetrante, nos termos do art. 36, III, "a", da Lei n. 8.112/1990, em razão da transferência de ofício, no interesse da Administração cearense, de sua esposa Ana Raisa Farias Cambraia Alexandre, Defensora Pública Estadual, para a cidade de Fortaleza/CE - confunde-se com o próprio mérito da impetração, circunstância que demonstra a natureza satisfativa do pleito, cuja análise pormenorizada compete ao colegiado no momento oportuno.
+Ante o exposto, diante da ausência de um dos requisitos autorizadores da tutela de urgência, indefiro o pedido de liminar sem prejuízo de ulterior deliberação pelo relator do feito.
+Tal decisão foi publicada em 30 de dezembro de 2021, conforme certidão à fl. 294 (e-STJ) e seria impugnável mediante apresentação de agravo interno. Contudo, a parte impetrante quedou-se silente, deixando transcorrer o prazo recursalin albis, o que implicou a preclusão do ato.
+Não cabe, neste momento, aviar petição intitulada "reconsideração", mas com nítido conteúdo de recurso, sob pena de se violar o princípio da taxatividade recursal, além de se burlar o prazo processual peremptório.
+Portanto, não conheço do pedido de reconsideração.
+Publique-se. Intimem-se.
