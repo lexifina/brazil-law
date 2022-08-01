@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por FLÁVIO ILDO SCHILD com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ Fl. 345):
+"APELAÇÕES CÍVEL. SEGUROS. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. RESCISÃO DO CONTRATO DE TRABALHO.
+BENEFICIÁRIO APOSENTADO À ÉPOCA DA CONTRATAÇÃO NA EMPRESA ESTIPULANTE. MANUTENÇÃO POR TEMPO INDETERMINADO. DESCABIMENTO. INTELIGÊNCIA DO ARTIGO 31 DA LEI N. 9.656/98.
+1. DE ACORDO COM O ARTIGO 31 DA LEI N. 9.656/98, É POSSÍVEL A MANUTENÇÃO DO BENEFICIÁRIO SEM LIMITAÇÃO TEMPORAL, DESDE QUE ASSUMA O PAGAMENTO INTEGRAL DAS MENSALIDADES.
+2. HIPÓTESE EM QUE A PARTE AUTORA JÁ ESTAVA APOSENTADA QUANDO DO INÍCIO DO VÍNCULO LABORAL NA EMPRESA ESTIPULANTE (04-07-2005), COM CONTRIBUIÇÃO POR PRAZO SUPERIOR A 10 ANOS PARA O PLANO DE SAÚDE, ATÉ O SEU DESLIGAMENTO OCORRIDO EM 31/12/2016.
+3. DESCABIMENTO DA MANUTENÇÃO POR TEMPO INDETERMINADO COM BASE NO ART. 31 DA LPS E ART. 22 DA RN 279/2011 DA ANS, POIS NA ÉPOCA DA ADESÃO O AUTOR HÁ MUITO ESTAVA APOSENTADO.
+AÇÃO JULGADA IMPROCEDENTE.
+APELAÇÃO DA RÉ UNIMED PROVIDA. APELAÇÃO DO AUTOR DESPROVIDA."
+Nas razões do recurso especial, o recorrente alega ofensa ao artigo 31 da Lei 9.656/98, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que "inexiste qualquer disposição legal e jurisprudencial que diga que a pessoa que iniciar um vínculo empregatício e já esteja aposentado não tenha direito de permanência no plano de saúde empresarial se preencher todos os requisitos legais do art. 31 da LPS" - (fl. 418).
+Opostos embargos de declaração, foram rejeitados às fls. 400/404.
+É o relatório. Decido.
+Quanto ao direito à manutenção no plano de saúde, a Corte de origem compreendeu que o empregado não faz jus a tal direito porque já era aposentado quando do ingresso na empresa, como se verifica do trecho do acórdão a seguir (fls. 349/350):
+Pois bem. Resta incontroverso nos autos que o autor foi contratado pela empresa Industria de Matrizes Belga Ltda em 04/07/2005 ((Evento 2 - INIC E DOCS2, fl. 15), com adesão e contribuição ao plano de saúde gerido pela ré a partir de 01-08-2005 até 31/12/2016, quando da rescisão do contrato de trabalho ((Evento 2 - INIC E DOCS2, fl. 8). Igualmente não há discussão a respeito de o autor ter obtido a concessão da aposentadoria previdenciária por tempo de contribuição INSS em 13/06/1996 (Evento 2 - INIC E DOCS2, fl. 8). As alegações das partes e farta prova produzida permitem esse entendimento.
+A controvérsia diz respeito basicamente ao preenchimento dos requisitos do art. 31 da LPS para manutenção do autor no plano de saúde mantido por sua antiga empregadora (Treboll Móveis) por tempo indeterminado.
+A respeito do ponto controvertido, em que pese a parte autora tenha apresentado pedido de demissão junto ao empregador, quando do ingresso nessa empresa (11-04-2005 - Evento 02 - INIC2 - fl. 30) já era aposentado (02-07-1996 - Evento 02 - INIC2 - fl. 19), de sorte que não se enquadra na hipótese do art. 31, caput, da Lei n. 9.656/98 e do art. 22 da RN 279/2011 da ANS, que assim dispõem:
+(..)
+Portanto, descabe a pretendida manutenção do autor no plano de saúde coletivo empresarial firmado entre a ré e a antiga empregadora, razão do julgamento de improcedência da ação."
+Com efeito, o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte de Justiça, a qual compreende que mesmo o trabalhador já aposentado faz jus à manutenção do plano de saúde, desde que tenha contribuído, como no caso dos autos, no qual a parte manteve o pagamento por mais de 10 (dez) anos.
+Sobre o tema, confiram-se:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. NULIDADE DO ACÓRDÃO RECORRIDO. INOCORRÊNCIA. DIREITO DE MANUTENÇÃO. EX-EMPREGADO DESPEDIDO SEM JUSTA CAUSA. LIMITAÇÃO AO PRAZO DE 24 MESES. PERMANÊNCIA NO PLANO DE SAÚDE POR MAIS DE 10 ANOS. INÉRCIA DE ESTIPULANTE EM PROMOVER A EXCLUSÃO. "SUPRESSIO". OCORRÊNCIA. RESPEITO À DIGNIDADE DA PESSOA IDOSA NO MERCADO DE PLANOS DE SAÚDE.
+1. Controvérsia acerca da possibilidade de se excluir ex-empregado do plano de saúde, após ultrapassado, em quase 10 anos, a data do rompimento do vínculo empregatício.
+2. Inocorrência de nulidade no acórdão recorrido por aplicação do CDC à estipulante, uma vez que o fundamento da "supressio" (que tem lastro no Código Civil), seria suficiente para fundamentar o resultado do julgamento.
+3. Nos termos do art. 30, § 1º, da Lei 9.656/1998, o ex-empregado despedido sem justa causa tem direito de permanecer no plano de saúde pelo tempo equivalente a um terço do tempo em que contribuiu para o plano, observado o limite mínimo de 6 meses e máximo de 24 meses após a rescisão do contrato de trabalho.
+4. Caso concreto em que a estipulante deixou de exercer o direito de excluir o ex-empregado do plano de saúde ao término do prazo de 24 meses, mantendo-o vinculado ao plano por quase uma década, quando então decidiu exercer tal direito.
+5. Criação de legítima expectativa para o ex-empregado (já aposentado e idoso) de que permaneceria vinculado ao plano de saúde, a exemplo dos ex-empregados que se aposentaram na empresa.
+6. Aplicação ao caso do princípio da boa-fé objetiva, na concreção do brocardo jurídico da "supressio".
+7. Perda de eficácia do direito de excluir o ex-empregado do plano de saúde, em virtude da legítima expectativa criada pelo longo período de inércia da estipulante.
+8. Proteção da pessoa idosa no mercado de planos de saúde por meio da solidariedade intergeracional. Doutrina sobre o tema.
+9. Caso concreto em que a exclusão tardia do ex-empregado romperia com a solidariedade intergeracional em desfavor deste.
+10. Existência de precedente específico desta Turma em que a "supressio" foi aplicada em caso análogo, porém com um período de manutenção no plano de saúde superior a 10 anos.
+11. Possibilidade de aplicação das razões de decidir desse precedente ao caso dos autos, embora o período de manutenção tenha sido inferior a 10 anos (9 anos), uma vez que o ex-empregado já se encontrava na condição de idoso quando foi comunicado da futura exclusão.
+12. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.918.599/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 9/3/2021, DJe de 15/3/2021.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO DE PLANO DE SAÚDE COLETIVO. EMPREGADO JÁ APOSENTADO E DEMITIDO SEM JUSTA CAUSA. CONTRIBUIÇÃO PARA O PLANO DE SAÚDE POR MAIS DE DEZ ANOS. DIREITO DE SER MANTIDO NO MESMO PADRÃO. OBJETO DA DEMANDA. REVISÃO DO VALOR DO PRÊMIO. RESOLUÇÃO: SOMA DA QUANTIA QUE JÁ ERA DESCONTADA À MÉDIA DO VALOR DESPENDIDO PELA EMPREGADORA COM SEUS FUNCIONÁRIOS ATIVOS NOS ÚLTIMOS 12 MESES ANTERIORES AO DESLIGAMENTO DO EMPREGADO. ASSUNÇÃO DO VALOR INTEGRAL. CONDIÇÕES DO ART. 31 DA LEI 9.656/98. AFIRMAÇÃO GENÉRICA À VIOLAÇÃO DE LEI FEDERAL. SÚMULA 284/STF. INCIDÊNCIA. DISPOSITIVOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ILETIGIMIDADE PASSIVA DA EX-EMPREGADORA. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+3. Na espécie, não houve a demonstração clara e precisa dos motivos pelos quais o acórdão recorrido teria vulnerado o dispositivo apontados no apelo extremo, incidindo a Súmula nº 284/STF. Aplicação analógica.
+4. A jurisprudência predominante afirma que a sociedade empresária estipulante atua exclusivamente como interveniente no contrato coletivo de saúde na condição de mandatária do grupo de usuários e não como operadora, sendo parte ilegítima para figurar em demandas em que o ex-empregado pleiteia a revisão das condições ofertadas com fundamento nos arts. 30 e 31 da Lei nº 9.656/1998. Incidência da Súmula 83 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.754.323/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/12/2019, DJe de 4/2/2020.)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para manter o recorrente no plano de saúde.
+Dessa forma, devem ser alternados os ônus sucumbenciais, os quais foram fixados na origem em 20% (vinte por cento) sobre o valor da causa.
+Publique-se.
