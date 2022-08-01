@@ -1,0 +1,9 @@
+DECISÃO
+A presente reclamação, ajuizada por Clovis Cesar Silva - preso preventivamente e denunciado como incurso nos crimes de receptação qualificada e participação em organização criminosa (por diversas vezes), apontando necessidade de preservação da autoridade de decisão proferida no HC n. 569.276/SC, que substituiu a prisão preventiva imposta ao reclamante por prisão domiciliar, ante o alegado descumprimento na decisão do Juízo de Direito da Vara Criminal da comarca de Brusque/SC (Autos n. 0003718-02.2018.8.24.0011), que, acolhendo representação da autoridade policial, determinou a revogação da prisão domiciliar -, não deve ser conhecida.
+Isso porque, após consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifica-se que foi impetrado o HC n. 753.497/SC, em benefício do ora reclamante, com o mesmo objeto e em face da mesma decisão hostilizada (Autos n. 0003718-02.2018.8.24.0011).
+Assim, o fato desta reclamação constituir mera reiteração de pedidos já apreciados por esta Corte Superior impede o seu conhecimento. Se os pedidos veiculados neste habeas corpus foram efetivamente apreciados por esta Corte em outro processo, resta configurada a reiteração (AgRg no HC n. 469.846/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2019). Confiram-se julgados no mesmo sentido: AgRg no RHC n. 156.181/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/2/2022; EDcl nos EDcl no AgRg no RHC n. 137.734/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/3/2022; e AgRg na RvCr n. 4.101/RJ, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018.
+Em razão disso, não conheço da presente reclamação.
+Publique-se.
+EMENTA
+RECLAMAÇÃO. PRESERVAÇÃO DA AUTORIDADE DE DECISÃO PROFERIDA NO HC N. 569.276/SC. PRISÃO PREVENTIVA SUBSTITUÍDA POR PRISÃO DOMICILIAR. RECEPTAÇÃO QUALIFICADA E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. ANTERIOR IMPETRAÇÃO DO HC N. 753.497/SC. REITERAÇÃO DE PEDIDOS.
+Reclamação não conhecida.
