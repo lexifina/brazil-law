@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por URBPLAN DESENVOLVIMENTO URBANO S/A - EM RECUPERAÇÃO JUDICIAL, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/06/2021.
+Concluso ao gabinete em: 28/04/2022.
+Ação: indenizatória, ajuizada por ANDRÉ RICARDO DE FREITAS e GISLENE JERUZA RIBEIRO DE FREITAS, em face de URBPLAN DESENVOLVIMENTO URBANO S/A - EM RECUPERAÇÃO JUDICIAL, em razão de atraso na entrega de imóvel.
+Sentença: julgou parcialmente procedente a pretensão, para condenar a URBPLAN a entregar o imóvel objeto da ação, com respectivo termo de quitação, liberando-o para construção e transferência, com todas as obras constantes do loteamento, tudo no prazo de seis meses, sob pena de multa diária de R$ 50,00, limitadas a 1/5 do valor atualizado do contrato. Condenou a URBPLAN ao pagamento da multa de 2% sobre o valor da aquisição. Diante da sucumbência recíproca, determinou o rateio pela metade das custas processuais e que cada parte deverá arcar com os honorários de seus respectivos advogados.
+Acórdão: deu parcial provimento às apelações interpostas por URBPLAN e por ANDRÉ e GISLENE, para condenar a URBPLAN ao pagamento de compensação por danos morais no valor de R$ 5.000,00 e condenar as partes ao pagamento de honorários advocatícios da parte contrária, nos termos da seguinte ementa:
+COMPRA E VENDA. OBRAS DE INFRAESTRUTURA. LUCROS CESSANTES. DANOS MORAIS. MULTA MORATÓRIA. Atraso na entrega das obras de infraestrutura. Dilação de prazo para conclusão das obras de infraestrutura prevista na Lei 6.766/79, que apenas vincula a vendedora e a municipalidade, e não o consumidor comprador. Atraso configurado. Súmula 161 do TJSP. Lucros Cessantes. Não cabimento. Imóvel consistente em lote sem edificação, onde não existe a possibilidade de se auferir renda. Precedentes. Multa moratória. Inversão da cláusula penal. Aplicável ante o não cabimento de lucros cessantes. Temas 970 e 971, STJ. Previsão contratual de multa de 2% em favor do comprador aplicável na hipótese dos autos. Danos morais. Atraso de mais de três anos. Conduta que ultrapassou mero dissabor. Valor fixado emR$5.000,00, a ser corrigido desde o arbitramento e com juros de mora de 1% ao mês a partir da citação. Honorários sucumbenciais. Sucumbência recíproca. Vedada a compensação. Condenação das partes ao pagamento de honorários advocatícios da parte contrária. Sentença reformada. Recursos parcialmente providos.
+Embargos de declaração: opostos por URBPLAN, foram rejeitados.
+Recurso especial de URBPLAN: alega violação dos arts. 186, 403, 884 e 927, do CC/02, bem como dissídio jurisprudencial.
+Sustenta que não haveria que se falar em dano moral pelo simples atraso na entrega do imóvel, por tratar-se de mero descumprimento contratual. Alternativamente, requer a redução do valor fixado.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ocorrência de danos morais e da razoabilidade do seu valor, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ademais, quanto ao valor arbitrado a título de compensação por danos morais, a jurisprudência do STJ é pacífica no sentido de que a sua modificação somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes: AgInt no AREsp 1623846/PB, 4ª Turma, DJe de 05/08/2020; AgInt no AREsp 1529503/MS, 4ª Turma, DJe de 06/12/2019; REsp 1.668.302/RS, minha relatoria, 3ª Turma, DJe de 22/06/2017; AgInt no AREsp 1.036.187/PE, 4ª Turma, DJe de 01/08/2017; AgInt no AREsp 962.044/DF, 3ª Turma, DJe de 30/11/2016. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+- Da Súmula 568/STJ
+Ainda que assim não fosse, as duas Turmas de Direito Privado desta Corte Superior entendem que o longo período de atraso na entrega de unidade imobiliária gera dano extrapatrimonial a ser compensado. Nesse sentido: AgInt no REsp 1.950.815/RJ, 3ª Turma, DJe de 25/11/2021; AgInt no REsp 1.922.885/SP, 4ª Turma, DJe de 30/6/2021; AgInt no REsp 1.639.991/RO, 3ª Turma, DJe de 3/5/2019; e AgInt no REsp 1.728.578/SP, 4ª Turma, DJe de 9/8/2018.
+Quanto ao ponto, o Tribunal de origem entendeu que o atraso de mais de três anos na entrega do loteamento ultrapassou o mero dissabor, razão pela qual seria cabível a compensação por danos morais (e-STJ, fls. 500/501).
+Assim, diante da consonância com o entendimento desta Corte Superior, aplica-se a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% do valor atualizado da condenação (e-STJ, fls. 501/502) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação indenizatória, ajuizada em razão de atraso na entrega de imóvel.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. O longo período de atraso na entrega de unidade imobiliária gera dano extrapatrimonial a ser compensado. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ
+6. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
