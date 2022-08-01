@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO NACIONAL DE SAÚDE, com fulcro na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl.s 1.895/1896):
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. RESSARCIMENTO DE VALORES PAGOS EQUIVOCADAMENTE EM EXECUÇÃO. NECESSIDADE DE AÇÃO PRÓPRIA. PRECEDENTES. PROVIMENTO.
+1. Agravo de instrumento interposto contra decisão que, c onstatado o equívoco do pagamento feito aos exequentes no bojo do processo originário, determinou que, no prazo de 15 dias, fosse providenciada a devolução dos valores recebidos, sob pena de serem tomadas as medidas cabíveis para a recomposição do dano ao erário .
+2. Não se pode inverter o polo da relação processual executiva, passando a executada à condição de autora dentro da mesma ação de execução para formular pedido contra a parte exequente, mormente porque não dispõe a FUNASA de título judicial a amparar a cobrança de tais quantias nos presentes autos.
+3. Imprescindibilidade d o ajuizamento de ação autônoma com o escopo de assegurar a devolução dos valores que supostamente foram pagos de forma indevida aos ora recorrentes, consoante orientação já adotada por esta Corte Regional em situações similares a de que ora se cuida.
+4. Precedentes: Processo n.º 200005000253147, AC217172/RN, Desembargador Federal Paulo Roberto de Oliveira Lima, 2ª Turma, j. 28/07/2015; Processo n.º 200882000049174, AC591433/PB, Desembargador Federal Manuel Maia (Convocado), 1ª Turma, j. 27/10/2016; e Processo n.º 0803055-17.2018.4.05.0000, Desembargador Federal Carlos Rebelo Júnior, 3ª Turma, j. 18/10/2018.
+5. Agravo provido.
+Rejeitados os aclaratórios (e-STJ fls. 2.015/2.018).
+Nas suas razões, a parterecorrente aponta preliminar de ofensa ao art. 1.022, II, do Código de Processo Civil/2015, ante a negativa de prestação jurisdicional.
+No mérito, alega violação dos arts. 6º,7º,776, do CPC/2015 e dos arts.876 e 884do Código Civil,considerado: (a)que a Corte de origem afastou o "direito do ente público de ser ressarcido/restituído daquilo que a parte contrária recebeu indevidamente (fato incontroverso)" (e-STJ fl. 2.049); (b)a "imposição, no caso concreto, da obrigação de ajuizamento de nova ação para o ressarcimento fere o dever dos sujeitos do processo" (e-STJ fl. 2.049; e (c)o dever dos exequentes de ressarcir ao executado o que recebeu indevidamente.
+Contrarrazões às e-STJ fls. 2.114/2.125. Juízo positivo de admissibilidade à e-STJ fl. 2.157.
+Passo a decidir.
+Quanto à alegada ofensa ao art. 1.022, II, do CPC/2015, cumpre destacar queé deficiente a fundamentação do recurso especial em que a alegação de omissão da Corte de origem se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+Noutra quadra, observo que não houve impugnação que ampare o acórdão hostilizado, no sentido de que (e-STJ fl. 1.894):
+não se pode inverter o polo da relação processual executiva, passando a executada à condição de autora dentro da mesma ação de execução para formular pedido contra a parte exequente, mormente porque não dispõe a FUNASA de título judicial a amparar a cobrança de tais quantias nos presentes autos.
+Assim, como os referidos fundamentos não foram atacados pela parte insurgente e são aptos, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice da Súmula 283 do STF.
+Por fim, quanto aos argumento de mérito,observa-se a ausência de prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
