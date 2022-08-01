@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CELG DISTRIBUICAO S.A. - CELG D, em face de decisão monocrática doTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (fls. 312/317e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos arts. 489, §1º, I, II, V,932, IV,1.022, II e1.025 do CPC/2015.
+Contrarrazões a fls. 397/406e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 409/412e).
+A irresignação não merece conhecimento.
+O Recurso Especial não ultrapassa o juízo de admissibilidade.
+Nos termos do disposto no art. 105, III, da Constituição Federal, competeao Superior Tribunal de Justiça julgar, em Recurso Especial, as causasdecididas, em única ou última instância, pelos Tribunais Regionais Federais oupelos Tribunais dos Estados e do Distrito Federal e Territórios.
+Assim, a orientação há muito traçada por esta Corte é no sentido de serincabível o Recurso Especial interposto em face de decisão monocrática,porquanto não esgotada a prestação jurisdicional, pelo Colegiado de origem.
+No presente caso, a fls. 312/317e, em decisão monocrática, houve julgamento dos Embargos de Declaração de fls. 302/304e, opostos em face do acórdão de fls. 290/298e, proferido noAgravo interno interposto pelo recorrente a fls. 267/272e.
+Em seguida, a parte ora recorrente interpôs, a fls. 320/311e, o presente RecursoEspecial, com fundamento na alínea a, sem a prévia apresentação de Agravointerno, perante o Tribunal a quo.
+Nesse contexto, a ausência de exaurimento impõe a inadmissão doreclamo, sob pena de indevida supressão de instância, dando ensejo àaplicação do óbice contido na Súmula 281 do STF: "É inadmissível orecurso extraordinário, quando couber, na justiça de origem, recurso ordinárioda decisão impugnada".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL CONTRA DECISÃO MONOCRÁTICA. NÃO CONHECIMENTO. SÚMULA N.281DO STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é cabível recurso especial contra decisão monocrática de Desembargador, em que poderiam ser opostos embargos de declaração ou interposto agravo regimental. Súmula n.281do STF.
+2. Na espécie, a defesa interpôs recurso especial contra decisão prolatada por Desembargador, sem que houvesse esgotamento das instâncias de origem. É correto, portanto, o não conhecimento do recurso.
+3. Agravo regimental não provido" (STJ, AgRg no AREsp 2.043.594/SP, Rel. MinistroROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 21/06/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELA PRESIDÊNCIA DO STJ. POSSIBILIDADE. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA ORDINÁRIA. APLICAÇÃO DA SÚMULA281DO STF. AGRAVO NÃO PROVIDO.
+1. "O julgamento monocrático de recurso inadmissível pela Presidência do Superior Tribunal de Justiça encontra previsão no art. 21-E, V, do RISTJ, que possibilita ao Presidente desta Corte, antes da distribuição, não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente os fundamentos da decisão recorrida. Desse modo, inexiste violação ao princípio da colegialidade, ainda mais quando subsiste a possibilidade de interposição de agravo interno contra a deliberação unipessoal." (AgInt no AREsp 1925365/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/02/2022, DJe 21/02/2022)
+2. Não é cabível a interposição de recurso especial contra decisão singular, uma vez que não se encontram esgotadas as instâncias ordinárias. Desta maneira, o apelo especial só terá cabimento se interposto após decisão colegiada, nos termos do artigo 105, III, da Constituição Federal, haja vista a necessidade do exaurimento da prestação jurisdicional pelo órgão fracionário de Tribunal.Aplicação da Súmula281do STF por analogia.
+3. Agravo interno não provido" (STJ, AgInt no AREsp 1.933.305/AC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 04/04/2022).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO UNIPESSOAL. IMPOSSIBILIDADE. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. INEXISTÊNCIA.
+1. Nos termos do art. 105, inciso III, da Constituição Federal, a competência do Superior Tribunal de Justiça para o julgamento de recurso especial cinge-se às "causas decididas, em única ou última instância," pelos Tribunais Regionais Federais ou pelos tribunais dos Estados e do Distrito Federal e Territórios.
+2. A expressão "causa decidida" pressupõe o necessário exaurimento da instância originária, de modo a permitir a abertura da via do recurso especial, sendo certo que a Súmula281do STF dispõe sobre a exigência da parte interpor todos os recursos perante o Tribunal de origem antes de buscar a instância superior.
+3. Caso em que, contra decisão singular do relator da apelação, o agravante interpôs diretamente o recurso especial, sem observar o disposto no art. 1.021 do CPC/2015, que prevê a interposição de agravo ao órgão colegiado, circunstância que configura o não exaurimento das instâncias ordinárias.
+4. Agravo interno desprovido" (STJ,AgInt no AREsp 1.885.187/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/02/2022).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
