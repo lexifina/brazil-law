@@ -1,0 +1,17 @@
+DECISÃO
+Na origem trata-se de mandado de segurança, objetivando fosse declarado nulo,em face da impetrante, o procedimento administrativo 457/2015, assim como todas as decisões nele tomadas e fosse determinadoo retorno do valor dos proventos de aposentaria da Impetrante ao patamar vigente antes da redução. Na sentença denegou-se a ordem. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 500,00.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA COM PEDIDO LIMINAR. PRETENSÃO DE ANULAÇÃO DO ATO ADMINISTRATIVO QUE REDUZIU O VALOR DOS PROVENTOS DA IMPETRANTE. ALEGAÇÃO DE OFENSA A AMPLA DEFESA É AO CONTRADITÓRIO. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DA IMPETRANTE. O INCISO LXIX, DO ARTIGO 5E, DA CONSTITUIÇÃO FEDERAL DISPÕE QUE O MANDADO DE SEGURANÇA É INSTRUMENTO HÁBIL PARA ASSEGURAR DIREITO LÍQUIDO E CERTO, EM RAZÃO DE ABUSO OU ILEGALIDADE, COMETIDA POR AGENTE PÚBLICO. O INCISO LV, DO MENCIONADO DISPOSITIVO, ASSEGURA ÀS PARTES EM PROCESSO JUDICIAL OU ADMINISTRATIVO, OS DIREITOS A AMPLA DEFESA E AO CONTRADITÓRIO. O MANDADO DE SEGURANÇA EXIGE APRESENTAÇÃO DE PROVA PRE-CONSTITUÍDA, A FIM DE AMPARAR DIREITO LÍQUIDO E CERTO, EIS QUE SEU PROCEDIMENTO NÃO COMPORTA DILAÇÃO PROBATÓRIA. A LEI  2.292/09, COM BASE NA QUAL A IMPETRANTE SE APOSENTOU, POSSUI
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Da análise dos documentos de fls. 39/44 (e. doc 39) e de fls. 144/149 (e. doc144), nota-se que, de fato, à impetrante não foi dada a oportunidade de exercer o direito da ampla defesa e do contraditório, o que, em princípio, daria ensejo à nulidade do ato administrativo que reduziu os proventos de aposentadoria da impetrante.
+A Lei nº2.292/09, com base na qual a impetrante se aposentou, possui dispositivo que vincula os vencimentos dos servidores municipais ao valor do salário mínimo nacional, contrariando a Súmula Vinculante nº 4 do Excelso Supremo Tribunal Federal, norma cogente, portanto, de observação obrigatória, in verbis:
+ ..
+De qualquer forma, de acordo com o entendimento do Colendo Superior Tribunal de Justiça, o prazo decadencial de cinco anos (artigo 54 da Lei nº 9.784/992) para fins de revisão de ato administrativo começa a fluir a partir do registro da aposentadoria efetuado pelo Tribunal de Contas do Estado, tendo em vista tratar-se caso de ato complexo.
+ ..
+Também não se sustenta a alegação de prolação de decisum extra petita, porquanto houve menção à inconstitucionalidade da Lei nº 2.292/09, tendo em vista que a impetrada a ela se referiu ao apresentar sua defesa.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
