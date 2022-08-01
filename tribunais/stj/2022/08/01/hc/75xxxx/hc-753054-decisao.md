@@ -1,0 +1,10 @@
+DECISÃO
+CARLOS HENRIQUE VILELA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que negou provimento à Apelação Criminal n.0191.20.000585-5/001.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, em síntese, a concessão da ordem, "para anular a condenação, visto que fundada em busca domiciliar ilegal e inconstitucional.Subsidiariamente, requer-se a anulação do processo, incluindo toda a instrução processual, determinando-se ao Juízo de origem que desentranhe dos autos as provas ilícitas e as delas derivadas para, após, prolatar nova sentença, dessa vez sem valorar as provas ilegais" (fl. 9).
+Decido.
+De plano, verifico que este habeas corpus não há como ser conhecido. Isso porque a apontada ilicitude das provas que lastrearam a condenação do paciente (tese de violação de domicílio) não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir-se na indevida supressão de instância.
+Segundo consta do relatório da apelação, a defesa, em suas razões recursais, pleiteou, tão somente, a desclassificação da conduta imputada ao réu para o crime previsto no art. 28 da Lei de Drogas e, caso mantida a condenação, a substituição da reprimenda privativa de liberdade por restritivas de direitos. Ou seja, em nenhum momento, aventou a ilicitude das provas que fundamentaram a condenação do acusado.
+Saliento que tal matéria deveria haver sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, por isso mesmo, vedada a inauguração, em habeas corpus, de tese(s) defensiva(s) não aventada(s) e não debatida(s) na via ordinária.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
