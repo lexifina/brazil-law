@@ -1,0 +1,42 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por JOÃO BOSCO TEIXEIRA DE REZENDE, MARISTELA MOREIRA ANDRADE REZENDE, em face de decisão que inadmitiu recurso especial, aviado pela alínea "a", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - OPERAÇÃO MATA-MATA - REVISÃO DOS CONTRATOS RELACIONADOS À DÍVIDA OBJETO DE EXECUÇÃO - ENCARGOS MORATÓRIOS - PRECLUSÃO - MULTA POR OPOSIÇÃO PROTELATÓRIA DE EMBARGOS DECLARATÓRIOS - MANTIDA - RECURSO CONHECIDO EM PARTE E DESPROVIDO. 1. O acórdão determinou a revisão dos contratos anteriores, mas não absolutamente todos e sim tão somente aqueles que deram origem ao título executivo. O perito é categórico ao afirmar quais os contratos que se referem às renegociações. Os embargantes não apresentaram qualquer evidência de que os demais contratos firmados com a mesma instituição financeira exequente tenham relação com os títulos em execução, não havendo motivo para incluir no cálculo contratos estranhos ao débito executado embargado, razão pela qual deve ser mantida a decisão agravada quanto a este capítulo de rejeição da impugnação. 2. A questão da incidência da mora já está superada pela preclusão. 3. Sendo evidente o intuito protelatório dos embargantes, insistindo na discussão de matérias já superadas e decididas de forma suficientemente clara, inafastável a aplicação da multa prevista no art. art. 1.026, §2º, do Código de Processo Civil.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 329/332).
+Opostos novos embargos de declaração, estes foram rejeitados com aplicação de multa(e-STJ fls. 327/331).
+Em seu recurso especial, a parte recorrente alega violação aos artigos 489, § 1º, IV e1022, I, II,§ 1º, I, II e 1026, § 2º do CPC, sustentando negativa de prestação jurisdicionale ausência de embargos protelatórios, o que afasta a aplicação da multa imposta.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Preliminarmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem julgou com fundamentação suficiente as matérias suscitadas, conforme se depreende dos acórdãos às fls. e-STJ 137/140e e-STJ 329/332.
+Destarte, não justifica a alegação de violação aos artigos 489 e 1022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. QUANTUM DEBEATUR. COISA JULGADA. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. PRETENSÃO DE EFEITOS MODIFICATIVOS. IMPOSSIBILIDADE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. O acórdão embargado foi claro ao afirmar que não houve violação dos arts. 165, 458 e 535 do Código de Processo Civil, uma vez que o Tribunal de origem, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pela ora embargante, adotou fundamentação suficiente para decidir de modo integral a controvérsia.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo bastante para proferir a decisão.
+4. Na espécie, o que se pretende, nesta via, é emprestar efeito infringente ao recurso, para que seja rediscutido o mérito da questão, providência incompatível com a sua natureza.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1096906/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2013, DJe 29/11/2013)
+PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. PREPARO. INTIMAÇÃO. ADVOGADO SUBSTABELECIDO. POSSIBILIDADE.AUSÊNCIA DE INDICAÇÃO DE PUBLICAÇÃO EM NOME DE DETERMINADO PROCURADOR. NULIDADE. INEXISTENTE. SÚMULA 83/STJ.
+1. Inexistente a alegada violação dos arts. 535, II, 458 e 165 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Na verdade, a questão não foi decidida conforme objetivava a agravante, uma vez que foi aplicado entendimento diverso. É cediço que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+3. A Corte Especial firmou entendimento no sentido de que "havendo mais de um advogado constituído, é válida a intimação feita em nome de qualquer deles, independentemente da sede de sua atuação profissional, desde que não haja pedido expresso no sentido de que seja realizada em nome de terminado patrono" (AgRg nos EREsp 700.245/PE, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 2/8/2010, DJe 23/8/2010). Precedentes. Agravo regimental improvido. (AgRg no AREsp 288.708/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/03/2013, DJe 02/04/2013)
+No que diz respeito à multa arbitrada em razão da oposição de embargos de declaração tidos como protelatórios, verifica-se que, afastar as conclusões do v. acórdão, o qual reconheceu o caráter protelatório do recurso, demandaria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial, de acordo com o enunciado sumular nº. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. 1. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 2. AFASTAMENTO DA MULTA PREVISTA NO ART. 538, PARÁGRAFO ÚNICO, DO CPC. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. 3. RECURSO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 535, II, do CPC.
+2. Na hipótese, o Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 538, parágrafo único, do CPC, encontra óbice na Súmula 7 desta Corte.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1288725/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/02/2016, DJe 05/02/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. ART. 538, PARÁGRAFO ÚNICO, DO CPC. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso, o Tribunal de origem, com base nas provas coligidas aos autos, reconheceu o direito da recorrida ao recebimento de comissões decorrentes da representação comercial. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na mencionada súmula.
+3. O exame da suposta ofensa ao art. 538, parágrafo único, do CPC também atrai a incidência da Súmula n. 7 do STJ pois, ao aplicar a multa, o Tribunal a quo reconheceu o intuito manifestamente protelatório dos embargos de declaração, que não buscavam correção de vícios nem prequestionamento, mas reexame de matéria decidida.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 114.318/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/08/2014, DJe 13/08/2014).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. OPERAÇÃO MATA-MATA. REVISÃO DE CONTRATOS. ENCARGOS MORATÓRIOS. PRECLUSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.MULTA POR EMBARGOS PROTELATÓRIOS. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
