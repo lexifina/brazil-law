@@ -1,0 +1,79 @@
+DECISÃO
+
+    1. Município de Ipiranga do Piauí propôs reclamação constitucional em face de acórdão da 2ª Turma do Tribunal Regional do Trabalho da 22ª Região, proferido nos autos de n. 0000480-70.2021.5.22.0109, na qual alega descumprimento do entendimento firmado por esta Corte no julgamento da ADI 3.395.
+
+    O reclamante narra que o órgão reclamado reconheceu a competência da Justiça do Trabalho para apreciar a nulidade de contratação pela Administração Pública de servidor sem aprovação prévia em concurso público.
+
+    Sustenta que, com base no julgamento da ADI 3.395, a competência para o julgamento do feito subjacente seria da Justiça Comum.
+
+    Requer, liminarmente, a suspensão dos efeitos da decisão reclamada e, ao final, sua cassação.
+
+    É o relatório.
+
+    2. Decido o pedido de medida liminar.
+
+    No caso dos autos, verifico que a questão da competência foi tratada pelo órgão reclamado, conforme ementa que segue transcrita:
+
+    COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I DA CONSTITUIÇÃO FEDERAL. ADI Nº 3.395 DO STF. CONTRATAÇÃO REGIDA PELA CLT. CONTRATO INFORMAL. EFEITOS.
+
+    I - Conforme definido no art. 114, I da Constituição Federal, compete à Justiça do Trabalho processar e julgar as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios.
+
+    II - O Supremo Tribunal Federal, nos autos da ADI 3395, subscrita pela AJUFE, ergueu, digamos assim, um 'cercadinho' na ampla planície da competência então conferida à Justiça do Trabalho. E o fez sem redução de texto, nos seguintes termos: "O disposto no art. 114, I, da Constituição da República não abrange as causas instauradas entre o Poder Público e o servidor que lhe seja vinculado por relação jurídico-estatutária." Este é o limite imposto. O mais que vier, qualquer elastério, caracteriza afronta à Constituição.
+
+    III - O regime estatutário é necessariamente formal. Em consequência, as contratações informais ou irregulares são apanhadas pelas regras da CLT, cujos artigos 3º e 442 conferem efeitos de relação de emprego à relação de trabalho em que se façam presentes a pessoalidade, não eventualidade, subordinação e remuneração, seja mediante contrato escrito ou verbal, expresso ou tácito. Situações essas que não se coadunam com o regime administrativo.
+
+    IV - No caso em apreço, trata-se de típica relação de emprego jungida à CLT, uma vez que a parte reclamante foi admitida nos quadros do ente reclamado sem a observância da regra constitucionalmente prevista de aprovação prévia em concurso público, razão pela qual deve ser mantida, in totum, a sentença que declarou a competência da Justiça do trabalho para apreciar e julgar a presente lide.
+
+    ADMINISTRAÇÃO PÚBLICA. ADMISSÃO POSTERIOR À CF/88 SEM CUMPRIMENTO DAS FORMALIDADES LEGAIS. CONTRATO INFORMAL. EFEITOS. SÚMULA 363/TST.
+
+    O regime administrativo (estatutário, temporário e o relativo a cargos em comissão) é sempre formal, em face do princípio da legalidade estrita a que está jungida a Administração. Perante o particular, o disposto no art. 5º, II, da CF é um princípio de liberdade, garantidor do cidadão em face do Estado, mas em relação à Administração é norma inibidora que impõe a realização, pelo administrador, apenas das condutas determinadas na lei, na forma previamente estabelecida. É fato incontroverso que a parte reclamante foi admitida sem prévia aprovação em concurso público, em inobservância ao art. 37, II, da Constituição Federal, também não se tratando de cargo em comissão nem de contratação temporária excepcional, o que torna forçoso o reconhecimento da informalidade da contratação e, consequentemente, dos efeitos da Súmula 363 do Tribunal Superior do Trabalho.
+
+    Esta Suprema Corte, por sua vez, ao julgar o mérito da ADI 3.395, ministro Alexandre de Moraes, confirmando a medida cautelar anteriormente concedida, firmou o entendimento de que a norma disposta no art. 114, inciso I, da Constituição Federal não abrange as causas fundadas em vínculo de natureza jurídico-estatutária, razão pela qual devem ser excluídas da competência da Justiça do Trabalho as demandas instauradas entre o Poder Público e seus servidores. Segue a ementa do julgado:
+
+    CONSTITUCIONAL E TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART.114, I, DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 45/2004. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL. EXPRESSÃO “RELAÇÃO DE TRABALHO”. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. EXCLUSÃO DAS AÇÕES ENTRE O PODER PÚBLICO E SEUS SERVIDORES. PRECEDENTES. MEDIDA CAUTELAR CONFIRMADA. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE. 1. O processo legislativo para edição da Emenda Constitucional 45/2004, que deu nova redação ao inciso I do art. 114 da Constituição Federal, é, do ponto de vista formal, constitucionalmente hígido. 2. A interpretação adequadamente constitucional da expressão “relação do trabalho” deve excluir os vínculos de natureza jurídico-estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores. 3. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente. (ADI 3395, Relator ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 15/04/2020, DJe 30.6.2020)
+
+    Destaco, como expressivo do entendimento então adotado, o seguinte trecho do voto condutor proferido pelo Ministro Relator Alexandre de Moraes:
+
+    (...) cabe se desconsiderar qualquer espaço para uma leitura interpretativa do inciso I do art. 114 da Constituição Federal que admita como competente a Justiça do Trabalho para julgamento de causas que alcancem relações jurídicas laborais, figurando em um dos polos a União, os Estados, o Distrito Federal e os Municípios, e no outro os seus Servidores ocupantes de cargos criados por lei, de provimento efetivo ou em comissão, incluídas autarquias e fundações públicas. As relações laborais entre os Entes federativos e seus Servidores somente são dotadas de juridicidade, aliás, compaginando-se com o entendimento encampado e pacificado pelo SUPREMO TRIBUNAL FEDERAL para a expressão “relações de trabalho”, acaso observando essas como relações puramente de Direito Administrativo, isto é, como relações decorrentes, não de contrato civil de trabalho, mas de estatuto jurídico específico.
+
+    No presente caso, observo a existência da Lei Municipal n. 0627/2002, que instituiu o Estatuto dos Servidores Públicos do Município de Ipiranga do Piauí, disciplinando a relação jurídico-administrativa naquela localidade.
+
+    Além disso, não socorre à parte beneficiária a argumentação de que o julgamento da ADI 3.395/DF não alcança causas fundadas em vício do vínculo contratual por inobservância do postulado constitucional do concurso público ou desvirtuamento da relação jurídico-administrativa.
+
+    Se restou assente naquele julgamento paradigmático que questões concernentes a vínculo jurídico-administrativo refogem à competência da Justiça laboral, depreende-se que questões correlatas a esse tema, tais como a irregularidade do liame funcional em virtude da inobservância de pressupostos constitucionais e legais, também estão fora da alçada daquela Justiça especializada.
+
+    Não tem sido outro o entendimento de ambas as Turmas desta Corte:
+
+    EMENTA: DIREITO ADMINISTRATIVO E DO TRABALHO. AGRAVO INTERNO EM RECLAMAÇÃO. CONTRATAÇÃO DE AGENTE DE COMBATE ÀS ENDEMIAS. RELAÇÃO JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+
+    1. Agravo interno interposto contra decisão que julgou procedente reclamação ajuizada por desrespeito à ADI 3.395, assentando a competência da Justiça comum para julgar causa instaurada entre o poder público e servidor contratado pela administração pública, sem concurso público, em período posterior à Constituição de 1988.
+
+    2. Ao julgar o mérito da ADI 3.395, o Plenário do Supremo Tribunal Federal, por maioria, referendou a medida cautelar e rejeitou toda e qualquer interpretação dada ao inciso I do art. 114 da Constituição, na redação dada pela Emenda Constitucional nº 45/2004, que inclua na competência da Justiça do Trabalho, a apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+
+    3. A existência de lei local que discipline o vínculo havido entre as partes implica dizer que a relação possui caráter jurídico-administrativo. De modo que eventual nulidade desse vínculo, assim como as consequências daí oriundas, devem ser apreciadas pela Justiça comum, e não pela Justiça do Trabalho”. (grifei)
+
+    (Rcl 31.253-AgR, ministro Roberto Barroso, Primeira Turma, DJe 09/04/2021)
+
+    Agravo regimental na reclamação. 2. Servidor público contratado sem concurso público. 3. Decisão reclamada que assentou a competência da Justiça Trabalhista para julgamento do feito. 4. Ofensa à autoridade de decisão proferida por esta Suprema Corte no julgamento da ADI 3.395. Competência da Justiça Comum para o julgamento de causas instauradas entre o Poder Público e servidor a ele vinculado por relação jurídico-administrativa. Precedentes. 5. Agravo regimental a que se dá provimento para julgar procedente a reclamação. (grifei)
+
+    (Rcl 31.306-AgR, ministro Gilmar Mendes, Segunda Turma, DJe 18/08/2020)
+
+    Assim, o fato de o processo originário envolver a pretensão quanto ao pagamento de verbas rescisórias e outros encargos de natureza celetista não descaracteriza a competência da Justiça comum, ainda que a relação jurídico-administrativa seja desvirtuada ou submetida a vícios de origem, como fraude, simulação ou ausência de concurso público (Rcl 10.986-AgR, Redator p/ o acórdão Ministro Luiz Fux, Tribunal Pleno, DJe de 23/4/2014).
+
+    3. Desse modo, defiro o pedido de medida liminar, em ordem a suspender os os efeitos da decisão reclamada e o trâmite dos autos originários até ulterior análise do mérito desta ação reclamatória.
+
+    4. Comunique-se.
+
+    5. Solicitem-se informações à autoridade reclamada (CPC, art. 989, I).
+
+    6. Cite-se a parte beneficiária no endereço constante da petição inicial, para, querendo, apresentar contestação (CPC, art. 989, III).
+
+    7. Após, remetam-se os autos à Procuradoria-Geral da República (CPC, art. 991).
+
+    8. Intime-se. Publique-se.
+
+Brasília, 1º de agosto de 2022.
+
+Ministro NUNES MARQUES
+
+Relator
