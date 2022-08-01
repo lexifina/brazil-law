@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por THIAGO SOUZA ROCHA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 241/245, in verbis:
+Trata-se de recurso especial interposto por THIAGO SOUZA ROCHA, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pela 15ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao recurso de apelação interposto pela defesa, apenas para reconhecer a atenuante da confissão espontânea, sem repercussão na pena definitiva imposta ao réu. O aresto encontra-se assim ementado:
+APELAÇÃO CRIMINAL DEFENSIVA. ROUBO SIMPLES.CONDENAÇÃO NA ORIGEM. PEDIDO DE ABSOLVIÇÃO PORINSUFICIÊNCIA DE PROVAS OU DESCLASSIFICAÇÃO.IMPOSSIBILIDADE.Materialidade e autoria demonstradas nos autos.A vítima reconheceu o acusado pelo delito contra ela praticado na polícia e corroborou em juízo tal reconhecimento, além de pormenorizar a dinâmica da ação criminosa, dando conta, ainda, de que o aparelho celular roubado estava na posse do acusado, o que está em sintonia com os relatos dos policiais militares que lograram prender o acusado em flagrante delito.
+PENAS. Base mantida no mínimo legal, ausentes circunstâncias modificadoras Reconhecimento nesta instância da confissão espontânea que, contudo, não reduz a pena aquém do piso legal e, por isso, sem repercussão na pena final (Súmula 231/ STJ). Pena conservada em 4 (quatro) anos de reclusão e 10 (dez) dias-multa mínimos.
+REGIME E BENEFÍCIOS. Regime inicial semiaberto corretamente fixado. Gravidade concreta do delito, praticado com grave ameaça e violência. Incabível, por se tratar de crime cometido com violência à pessoa, a substituição da pena corporal por restritiva de direitos, benesse prevista a delitos de menor potencial ofensivo, e não a crimes do jaez do roubo. Irrelevante à fixação do regime prisional o período em que o apelante permaneceu preso cautelarmente por este processo (CPP, art.
+387, § 2º), já que o regime inicial não foi estabelecido em razão da quantidade de pena corporal aplicada em que a detração penal teria influência direta , mas da gravidade concreta do crime praticado por Thiago, o que não se altera com o desconto da prisão processual.
+Recurso defensivo parcialmente provido, apenas para reconhecer a atenuante da confissão espontânea, sem repercussão na pena final imposta, mantida, no mais, a respeitável sentença de primeiro grau, por seus próprios e jurídicos fundamentos. (e-STJ Fl. 286)
+No recurso especial (e-STJ Fls. 213/220) a defesa alega violação ao artigos 33 e 34, ambos do Código Penal. Aduz que "O recorrente preenche os dois requisitos legais para o início do cumprimento da pena em regime aberto, ou seja, a sua pena é igual a quatro anos e ele é primário". Alega que a pena-base foi fixada no mínimo legal, não havendo fundamento idôneo para impor regime prisional mais grave do que previsto para a pena aplicada. Afirma que o Tribunal de origem não apresentou fundamentação concreta para impor regime prisional mais gravoso.
+Contrarrazões apresentadas pelas defesas (e-STJ Fls. 224/229).
+Recurso especial admitido parcialmente na origem (e-STJ Fl. 232).
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Acerca da dosimetria da pena, consta da sentença condenatória o seguinte (e-STJ fls. 140/142):
+Passo a fixar a pena.
+O acusado é primário e não tem antecedente criminal, motivo pelo qual fixo a pena-base no patamar mínimo legal, em 04 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa.
+A confissão do acusado não lhe aproveita, eis que não ratificada em Juízo, sob o crivo do contraditório, e, ainda que isso tivesse ocorrido, tem-se que, nessa fase de fixação da pena, esta não pode ser estabelecida aquém do mínimo legal cominado, consoante consolidado entendimento jurisprudencial.
+Ausentes agravantes e atenuantes e causas de aumento e diminuição, torno definitiva a pena acima aplicada.
+Diante do exposto e por tudo mais que dos autos consta, julgo procedente a ação penal e condeno THIAGO SOUZA ROCHA foi como incurso nas penas do artigo 157, caput, do Código Penal, impondo-lhe a pena de 04 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa, calculados no mínimo legal e corrigidos desde a data do fato.
+Fixo o regime inicial semiaberto para o cumprimento da pena.
+A gravidade do delito e a ousadia do réu revela sua inegável periculosidade, exigindo maior severidade no cumprimento da pena.
+Com efeito, a sociedade não tolera mais ficar à mercê de indivíduos perigosos e violentos, exigindo do Estado-Juiz severa reprimenda quanto aos delitos graves e praticados mediante violência e/ou grave ameaça à pessoa, segregando-os do convívio social.
+ ..
+Além disso, os autores de delitos dessa natureza hão desentir os efeitos da condenação penal, através do desconto da pena em regime inicial mais severo, para que não sejam estimulados na reiteração criminosa, o que certamente acontece, na maioria dos casos em que os condenados são colocados em liberdade poucos meses após serem flagrados cometendo crimes graves.
+Assim, a primariedade do réu, por si só, não pode ser circunstância apta a obrigar o julgador a lhe impor regime prisional mais brando.
+Já o Tribunal de origem, no ponto,assim consignou (e-STJ fls. 200/201):
+Passo à análise da reprimenda imposta.
+Na primeira fase da dosimetria, reputadas favoráveis as circunstâncias judiciais do artigo 59 do Código Penal, mantenho a base fixada no mínimo legal, ou seja, em 4 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa mínimos.
+Na segunda fase, reconheço a atenuante da confissão espontânea, que recaiu sobre elementares do tipo e serviu como importante elemento de convencimento do juízo. No entanto, seu reconhecimento não tem o condão de reduzir a base aquém do mínimo legal, nos termos da Súmula 231 do Colendo Superior Tribunal de Justiça.
+Na terceira e última fase, à míngua de circunstâncias modificadoras, mantenho a pena imposta, que se tornou adefinitiva, não havendo circunstâncias que pudessem justificar a alteração da pena.
+O regime inicial semiaberto deve ser mantido, tendo em conta a pena privativa de liberdade concretizada, a par da gravidade concreta da conduta perpetrada.
+Da leitura dos trechos colacionados, constato que assiste razão à defesa.
+É que,segundo a orientação firmada neste Tribunal Superior, é incabível a fixação de regime prisional mais gravoso do que aquele previsto no art. 33, § 2º, do Código Penal apenas com base na gravidade em abstrato do delito. A fixação de regime prisional diverso do legalmente previsto exige fundamentação idônea, baseada em elementos concretos dos autos.
+Nesse sentido:
+HABEAS CORPUS.ROUBO MAJORADO. CORRUPÇÃO DE MENORES. REDUÇÃO DA PENA PELA SEMI-IMPUTABILIDADE. PENA INFERIOR A 4 ANOS.REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INSUFICIENTE. ILEGALIDADE.ORDEM CONCEDIDA.
+1. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+2.O Tribunal de origem apenas menciona a gravidade abstrata do crime de roubo majorado, sem citar nenhum dado concreto que evidencie a maior reprovabilidade da conduta. Assim, os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+3. A ausência de peculiaridades específicas do homicídio nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF.
+4. Habeas corpus concedido, para fixar o regime inicial aberto de cumprimento de pena.
+(HC 376.122/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017, grifei.)
+AGRAVO REGIMENTAL.HABEAS CORPUS. ROUBO SIMPLES.CONDENAÇÃO.REGIME INICIAL. IMPOSIÇÃO DO FECHADO. FUNDAMENTAÇÃO. AUSÊNCIA.PENA-BASE FIXADA NO MÍNIMO LEGAL, ACUSADO PRIMÁRIO E REPRIMENDA DEFINITIVA INFERIOR A 4 ANOS. REGIME INICIAL ABERTO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. MANUTENÇÃO DA DECISÃO IMPUGNADA.
+1.Deve ser mantida por seus próprios fundamentos a decisão monocrática, em que se concede ordem de habeas corpus para fixar o regime inicial aberto de cumprimento da pena, quando evidenciado que, além de o regime inicial mais rigoroso do que a pena imposta autoriza se encontrar fundamentado, apenas, na gravidade abstrata do crime, a pena definitiva não excede 4 anos, o acusado é primário e a pena-base foi fixada no mínimo legal.
+2. Agravo regimental improvido.
+(AgInt no HC 379.312/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/03/2017, DJe 22/03/2017, grifei.)
+No caso dos autos,o regime inicial fechado foi fixado com alicerce apenas nas elementares do tipo penal e na gravidade em abstrato do delito de roubo circunstanciado, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como do enunciado da Súmula n. 440 desta Corte, que assim dispõem:
+Enunciado 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Enunciado 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Enunciado 440/STJ: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Dessa forma, uma vez que a pena-base foi fixada no mínimo legal, as circunstâncias judiciais foram consideradas todas favoráveis e a pena final foi estabelecida emquantuminferior a 4 anos, o regime inicial para o cumprimento da reprimenda deve ser o aberto.
+À vista do exposto e acolhendo o parecer do Ministério Público Federal,dou provimentoao recurso especial,a fim de fixar o regime aberto para o início do cumprimento da reprimenda.
+Publique-se. Intimem-se.
