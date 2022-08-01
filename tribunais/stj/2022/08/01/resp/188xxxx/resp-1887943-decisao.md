@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldona alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ fls. 421):
+EMBARGOS DE DECLARAÇÃO  ALEGAÇÃO DE OMISSÃO QUANTO AO RESSARCIMENTO DOS HONORÁRIOS PERICIAIS ADIANTADOS EM AÇÃO ACIDENTÁRIA JULGADA IMPROCEDENTE PELO ESTADO DO PARANÁ  MATÉRIA NÃO VENTILADA EM RECURSO  INEXISTÊNCIA DE VÍCIOS  EMBARGOS REJEITADOS COM A FIXAÇÃO DE MULTA.
+Em suas razões, a parte recorrente aponta violaçãodos arts.489, § 1º, e1.022, I e II,do CPC/2015, por negativa de prestação jurisdicional, pleiteando, alternativamente, a exclusão da multa protelatória, nos termos da Súmula 98 desta Corte.
+No mérito, alega vulneração dos arts. 128 e 129 da Lei n. 8.213/1991, 8º, § 2º, da Lei n 8.620/1993, 1º da Lei n. 1.060/1950,argumentando, em suma,queincumbe ao Estado a responsabilidade pelo pagamento dos honorários periciais adiantados pelo INSS, quando sucumbente obeneficiário da assistência judiciária gratuita.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 470/471.
+Vindo a esta Corte, os autos foram devolvidos à origem.
+O juízo de retratação não foi feito porquanto a matéria referente ao Tema 1.044 do STJ não foi analisada pelo Tribunal a quo, em razão da ocorrência da preclusão (e-STJ fls. 510/511).
+Passo a decidir.
+De início, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. 1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material. 2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. 3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018). 4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal de origem assentou que (e-STJ fl. 422):
+".. a pretensão do Embargante não é o esclarecimento de um ponto da decisão, mas sim complementação de matéria que não foi objeto de recurso, para o fim de que seja reformada a decisão.
+Ora, o que não foi deduzido em sede de apelação não pode ser posteriormente alegado em embargos declaratórios."
+Quanto à multa que lhe fora imputada, cumpre salientar que aSúmula 98 do STJ disciplina que os"embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Nesse sentido:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015.
+1. O Plenário do STJ, na sessão de 09.03.2016, definiu que o regime recursal será determinado pela data da publicação da decisão impugnada (Enunciado Administrativo n. 2/STJ). Logo, no caso, aplica-se o Novo CPC/2015.
+2. De acordo com a norma prevista no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+3. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Considerando que os embargos declaratórios vertentes são os primeiros opostos pela ora embargante, não há se falar em intuito manifestamente protelatório a ensejar a multa prevista no § 2º do art. 1.026 do Novo CPC/2015.
+5. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no AgRg no REsp 1.087.921/DF, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 12/08/2016)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO.
+EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO RECORRIDO QUE DECIDE COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS PROTELATÓRIOS. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA AFASTADA.
+1. Inicialmente, quanto à alegação de violação ao artigo 1.022 do CPC/2015, cumpre asseverar que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em Embargos de Declaração apenas pelo fato de a Corte ter decidido de forma contrária à pretensão do recorrente.
+2. Quanto à questão de fundo, isto é, a revisão do benefício previdenciário observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, o recurso não merece que dela se conheça. Com efeito, verifica-se que o acórdão recorrido negou provimento à apelação com fundamento em precedentes do Supremo Tribunal Federal. Dessa forma, dada a natureza estritamente constitucional do decidido pelo Tribunal de origem, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. A irresignação merece acolhida em relação à alegada ofensa ao art. 1.026, § 2º, do CPC/2015 nos termos da Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No caso dos autos, os Embargos de Declaração ofertados na origem tiverem tal propósito, de maneira que deve ser excluída a multa fixada com base no supracitado dispositivo legal.
+4. Recurso Especial parcialmente provido. (REsp 1.669.867/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 30/06/2017).
+No entanto, a multa aplicada com fundamento no art. 1.026, § 2º, do CPC/2015, deve ser mantida, porquanto os embargos declaratórios foram utilizados com o propósito de prequestionar dispositivos legais relacionados a questões não enfrentadas pelo acórdão recorrido, afastando o óbice da Súmula 98 do STJ.
+No mérito, apretensão recursal não pode ser conhecida, pois a parte autora não impugnou todos os fundamentos do acórdão recorrido.
+Como se vê, em juízo de retratação, o Tribunal a quo entendeu quematéria referente à devolução de honorários recursais adiantados pela autarquia não foi objeto de recurso de apelação, razão pela qual não poderia ser apreciadaem razão da preclusão (e-STJ fl. 422).
+A autarquia, por sua vez, não reiterou o seu apelo especial a fim de impugnar tal fundamento.
+Assim, a falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
