@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de Ação Civil Pública por improbidade administrativa, na qual se busca condenar o réu por prejuízo ao erário em virtude de não ter realizado licitação para contratação dos serviços da empresa Coelho e Coelho Ltda. O acórdão recorrido consignou (fl. 445, e-STJ, grifei):
+O apelante sustentou que o dano seria in re ipsa na medida em que o poder público, quando não promove a licitação obrigatória, deixa de contratar a melhor proposta, porém ainda que se entenda, na forma da jurisprudência do STJ, ser desnecessária a existência de dano efetivo ao erário, em casos de irregularidades em licitação (art. 10, VIII, da Lei 8.429/92), constitui requisito indispensável para a configuração do ato de improbidade administrativa a presença do elemento subjetivo da conduta, o que a sentença recorrida entendeu inexistente, à luz das provas dos autos.
+A discussão, assim, consiste em saber se eventuais fraudes à licitação causam danos presumidos, in re ipsa, de forma a configurar improbidade administrativa por dano ao erário.
+A Primeira Seção do Superior Tribunal de Justiça acolheu a proposta de afetação do Recurso Especial 1.914.458/PI (Tema Repetitivo 1.096) como representativo da controvérsiapara debater a matéria referente à"definição se a conduta de frustrar a licitude de processo licitatório ou dispensá-lo indevidamente configura ato de improbidade que causa dano presumido ao erário". Verifica-se, portanto, que é a mesma discussão travada na presente demanda.
+Por conseguinte, o Ministro Relator determinou a "suspensão do processamento de todos os processos que versem sobre a questão e tramitem no território nacional", o que também se aplica ao presente processo.Dessa forma, os autos devem sersobrestadosenquanto se aguarda o julgamento do Tema 1.096 do STJ.
+Dessa forma, determino o sobrestamento da presente demanda para que se aguarde, na Coordenadoria desta Corte Superior, o julgamento acerca do Tema 1.096 do STJ.
+Publique-se.
+Intimem-se.
