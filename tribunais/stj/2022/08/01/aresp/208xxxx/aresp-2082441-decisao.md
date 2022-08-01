@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por TRANSIT DO BRASIL S/A, em face de decisão que inadmitiu Recuso Especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. APRESENTAÇÃO DE MERA CÓPIA REPROGRÁFICA DA PETIÇÃO ORIGINAL DO RECURSO. LEI Nº 9.800/99. REQUISITO DE ADMISSIBILIDADE DESCUMPRIDO. RECURSO INEFICAZ. PRELIMINAR CONTRARRECURSAL ACOLHIDA.
+1. hipótese que a parte recorrente apresentou mera cópia reprográfica do recurso, sem proceder a respectiva juntada dos originais, conforme determina a Lei nº 9.800/99.
+2. Ausente requisito extrínseco de admissibilidade, impositivo o não conhecimento do recurso de apelação.
+RECURSO NÃO CONHECIDO" (fl. 2.105e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 2.170/2.175e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta divergência jurisprudencial e violação aos arts. 6º, 10, 139, IX, 488, 932, parágrafo único, e 1.022, todos do CPC, sustentando, em síntese, que a falta de assinatura original nas razões recursais de apelo é vício sanável, o que impõe a concessão do prazo de 5 dias para regularização do vício (fls. 2.184/2.209e).
+Apresentadas as contrarrazões (fls. 2.264/2.269e), o Recurso Especial foi inadmitido pelo Tribunal de origem (fls. 2.284/2.292e), o que ensejou a interposição do presente Agravo (fls. 2.295/2.304e).
+O Recurso Especial não merece ser conhecido.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa ao art. 1.022 do CPC, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORA. PROTEÇÃO DO ART. 833 DO CPC/2015.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. Há entendimento firmado do Superior Tribunal de Justiça de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe 19/12/2014).
+3. Recurso especial do qual se conhece parcialmente e, nessa extensão, nega-se-lhe provimento" (STJ, REsp 1.710.162/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018).
+No mais, a Corte de origem, ao analisar a controvérsia, asseverou que "hipótese que a parte recorrente apresentou mera cópia reprográfica do recurso, sem proceder a respectiva juntada dos originais, conforme determina a Lei nº 9.800/99. Ausente requisito extrínseco de admissibilidade, impositivo o não conhecimento do recurso de apelação" (fl. 2.105e).
+Entretanto, verifico que o referido fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ademais, ainda que não fosse o caso de se aplicar o referido óbice, quanto àalegação de ofensa aos arts. 6º, 10, 139, IX, 488 e 932, parágrafo único, todos do CPC, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada aos dispositivos tidos como violados não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
