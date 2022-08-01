@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Euromac America Latina Equipamentos para Fundição Ltda. contra decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região que não admitiu o recurso especial com base nos seguintes fundamentos: (I) não houve ofensa ao art. 1.022 do CPC e; (II) incidência da Súmula 7do STJ.
+A parte agravante sustenta, em resumo,que "o que restou entendido diante do Recurso Especial retro, não passa de ledo engano, uma vez que o que se busca nada mais é do que o reconhecimento de violação dos dispositivos mencionados, bem como, a necessidade de aplicação do entendimento proferido pelo STJ no REsp 1.221.170 - PR ao caso em concreto.Conforme já suscitado, os dispositivos das Leis nº 10.637/2002 e nº 10.833/2003, a União concede ao termo "insumos" o conceito de tudo aquilo que é consumido e transformado no processo produtivo da empresa.Porém, os diplomas legais em questão exemplificam (não exaurem) as situações de emprego dos insumos, incluindo nesse rol a utilização indireta de produtos acabados - definição essa defendida pela Câmara Superior de Recursos Fiscais (CARF) -, pois são indispensáveis no exercício do objeto social da empresa, bem como na obtenção de sua receita - base de cálculo das contribuições em questão." (fl. 332).
+No mais, reitera as razões do apelo especial.
+Parecer ministerial às fls. 370/372.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater que não houve ofensa ao art.1.022 do CPC, bem como a incidência da Súmula 7/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
