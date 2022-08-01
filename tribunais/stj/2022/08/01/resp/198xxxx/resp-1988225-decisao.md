@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal de 1988) interposto contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. PERSEGUIÇÕES POLÍTICAS PERPETRADAS À ÉPOCA DO REGIME MILITAR. IMPRESCRITIBILIDADE. POSSIBILIDADE DE CUMULAÇÃO COM REPARAÇÃO PREVISTA NA LEI 10.559/02. CONDIÇÃO DE ANISTIADO POLÍTICO. DANO MORAL IN RE IPSA. CONSECTÁRIOS LEGAIS. APELAÇÃO DA UNIÃO FEDERAL PROVIDA EM PARTE.
+1. A questão posta nos autos diz respeito a pedido de indenização por danos morais, em razão de perseguição política perpetrada à época do Regime Militar.
+2. É pacífica a orientação nos Tribunais Superiores acerca da imprescritibilidade das pretensões indenizatórias decorrentes de violações a direitos fundamentais ocorridas ao longo do regime ditatorial no Brasil.
+3. Não se cogita da aplicação do prazo prescricional quinquenal, previsto no Decreto 20.910/32, ao presente caso, considerando-se que a compreensão axiológica dos direitos fundamentais não cabe na estreiteza das regras do processo clássico e demanda largueza intelectual que lhes possa reconhecer a máxima efetividade possível.
+4. Rejeita-se a tese da impossibilidade de cumulação de indenização decorrente de abalos psicológicos, fundamentada no instituto da responsabilidade civil, com a reparação econômica prevista pela Lei 10.559/02 e destinada aos anistiados políticos prejudicados em sua carreira profissional.
+5. A edição da recente Súmula 624 do C. Superior Tribunal de Justiça dirimiu qualquer polêmica que ainda pairava sobre os entendimentos jurisprudenciais por meio do seguinte enunciado: é possível cumular a indenização do dano moral com a reparação econômica da Lei nº 10.559/2002 (Lei da Anistia Política).
+6. No direito brasileiro, a responsabilidade civil do Estado é, em regra, objetiva, isto é, prescinde da comprovação de culpa do agente, bastando-se que se comprove o nexo causal entre a conduta do agente e o dano.
+7. No caso dos autos, a conduta estatal antijurídica encontra-se suficientemente corroborada pela farta documentação demonstrativa de práticas persecutórias cometidas Poder Público em face ao autor (ID 149651703, 149651706,149651707, 149651711, 149651712, 149651717). Há também plena comprovação acercado envolvimento do requerente em movimento paredista e de sua superveniente demissão, em período muito próximo (ID 149651708 e 149651709 - fl. 90).
+8. O art. 8º do Ato das Disposições Constitucionais Transitórias estabelece a concessão de anistia aos que, no período de 18 de setembro de 1946 até a promulgação da atual Constituição Federal de 1988, foram atingidos, em decorrência de motivação exclusivamente política, por atos de exceção. O simples reconhecimento, por parte da Comissão de Anistia do Ministério da Justiça, da condição de anistiado político atribuída ao demandante, já pressupõe as diversas violações a seus direitos fundamentais ocorridas no período do Regime Militar. Nesse sentido, observa-se a pela Portaria nº 1.200 de 12.05.2009 do Ministério da Justiça (ID 149651790) e íntegra do respectivo processo administrativo (ID 149651790, 149651791).
+9. A hipótese em comento, portanto, encerra um típico caso de dano moral in re ipsa, no qual a mera comprovação fática do acontecimento gera um constrangimento presumido capaz de ensejar indenização.
+10. Reputa-se adequada a fixação do quantum indenizatório em R$100.000,00, com incidência de correção monetária a partir desta decisão (Súmula 362 do STJ), conforme bem decidido pelo juiz sentenciante.
+11. Acerca dos juros de mora, seu termo inicial deve coincidir com a citação da União Federal nesta demanda, por ser este o entendimento jurisprudencial. É caso de afastamento excepcional da Súmula 54 do C. Superior Tribunal de Justiça.
+12. Quanto aos índices aplicáveis, deve-se observar a previsão do Manual de Cálculos da Justiça Federal, ressalvado, quanto à correção monetária, o entendimento do Supremo Tribunal Federal estabelecido no RE nº 870.947/SE.
+13. Apelação da União Federal provida em parte.
+Embargos de Declaração rejeitados (fls. 1.512-1.518, e-STJ).
+O recorrentealega(fls. 1.530-1.572, e-STJ) violação dos arts. 398 e 395 do Código Civil e dissídio jurisprudencial.
+Contrarrazões às fls. 1.638-1.645, e-STJ.
+Parecer do Ministério Público Federal pelo desprovimento do Recurso às fls. 1.677-1.685, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.7.2022.
+A partese insurge contra o capítulo do acórdão que fixou a citação da União como termo inicial dos juros moratórios da indenização pordanos morais.
+Não se trata de pagamento de valores retroativos da reparação econômica prevista na Lei 10.559/2002, mas de condenação da União em danos morais em razão da perseguição política sofrida pelo autor durante a ditadura militar.
+Sobre o tema, a jurisprudência desta Corte Superior é firme no sentido de que os juros moratórios devem incidir a partir do evento danoso, nos termos da Súmula 54/STJ. Cito precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIADO POLÍTICO. INDENIZAÇÃO POR DANOS MORAIS. MAJORAÇÃO DO VALOR FIXADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PRESCRIÇÃO. ACÓRDÃO QUE DECIDE A CONTROVÉRSIA TAMBÉM SOB O ENFOQUE CONSTITUCIONAL. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STF. RESPONSABILIDADE CIVIL DO ESTADO. DANOS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. ANISTIA. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. CUMULAÇÃO COM A REPARAÇÃO ECONÔMICA DECORRENTE DA LEI 10.559/02. POSSIBILIDADE. MOTIVAÇÃO POLÍTICA COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS NA INSTÂNCIA EXTRAORDINÁRIA. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. REDUÇÃO DO VALOR FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ.
+(..) 4. O entendimento firmado do STJ é de que a reparação econômica realizada pela União decorrente da Lei 10.559/02 não se confunde com a reparação por danos morais prevista no art. 5º, V e X, da Constituição Federal.
+(..)6. Quanto aos juros moratórios, a orientação do STJ é a de que estes incidem desde a data do evento danoso, na hipótese de responsabilidade extracontratual (Súmula 54/STJ).
+(..)9. Agravo de Aramy Viterbo Santolim não provido. Recurso Especial da União parcialmente conhecido e, nessa extensão, não provido.(REsp n. 1.778.207/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 23/4/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. REGIME MILITAR. PRISÃO E DEMISSÃO. MOTIVAÇÃO POLÍTICA. DANOS MORAIS. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO. VALOR DA CONDENAÇÃO. REVISÃO. SÚMULA N. 7/STJ.
+1. Em se tratando de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso. Inteligência da Súmula n. 54/STJ.
+(..)5. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.964.906/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe de 21/6/2022)
+ADMINISTRATIVO E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. OPOSIÇÃO AO REGIME MILITAR INSTAURADO EM 1964. PERSEGUIÇÃO POLÍTICA. DANOS MORAIS. IMPRESCRITIBILIDADE. DESRESPEITO À DIGNIDADE DA PESSOA HUMANA. CARACTERIZAÇÃO. FIXAÇÃO DO QUANTUM INDENIZATÓRIO. CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO INICIAL.
+(..)5. Arbitramento, a esse título, de verba indenizatória para cada um dos autores recorrentes, a ser corrigida monetariamente a partir da data deste julgamento (Súmula 362/STJ), acrescida de juros de mora desde os eventos danosos (Súmula 54/STJ).
+7. Recurso especial dos autores provido.(REsp n. 1.815.870/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 23/9/2019)
+Ante o exposto, dou provimento ao Recurso Especial,para determinar a incidência dosjuros moratóriosdesde a data do evento danoso.
+Publique-se.
+Intimem-se.
