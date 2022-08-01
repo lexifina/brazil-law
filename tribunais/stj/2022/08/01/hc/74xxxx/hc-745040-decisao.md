@@ -1,0 +1,15 @@
+DECISÃO
+GRAZIELA NUNES NUNES alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de suposta mora no julgamento da Apelação n. 50068086420208210004 pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+A defesa aponta haver excesso de prazo para a apreciação do recurso interposto contra a sentença que condenou a ré a 5 anos e 6 meses de reclusão, no regime inicial semiaberto, pela prática de tráfico de drogas.
+Aduz que os autos estão conclusos para julgamento desde 7/1/2022 e "o feito não registra nenhuma circunstância especial decorrente de qualquer complexidade a justificar a evidente morosidade" (fl. 7).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, subsidiariamente, pela denegação da ordem, com expedição de recomendação para que o Tribunala quojulgue o recurso defensivo com celeridade (fls. 423-434).
+Decido.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Colhe-se dos autos que a paciente está presa desde 3/1/2021 e foi condenada a 5 anos e 6 mesesde reclusão, no regime inicial semiaberto, pela prática de tráfico de drogas, circunstância que deve ser considerada na averiguação de eventual excesso de prazo.
+Ilustrativamente: "O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória" (HC n. 403.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/8/2017); "Esta Corte tem reiterada jurisprudência de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória" (HC n. 736.298/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 20/6/2022).
+Na espécie, a defesa aduz haver mora desarrazoada para a apreciação da apelação interposta, uma vez que os autos estão conclusos para prolação de voto da Desembargadora relatora desde 7/1/2022.
+Em consulta ao andamento processual no site do TJRS,verifica-se que foi designada sessão de julgamento para 7/7/2022, a denotar a proximidade da conclusão do feito.
+Entendo não haver manifesta desproporcionalidade no período em que o feito está concluso para decisão - cerca de seis meses -, notadamente porque se trata de três recursos de apelantes distintos.
+Portanto, ao se considerar as circunstâncias mencionadas, sobretudo a proximidade de encerramento do feito e a pena privativa de liberdade total a que a paciente foi condenada- 5 anos e 6 meses de reclusão -, não verifico desídia estatal. Também não foi comprovado que, em razão de eventual demora para a apreciação da apelação, a apenada esteja impedida de usufruir de benefícios relativos à execução da sua pena.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
