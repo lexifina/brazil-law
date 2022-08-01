@@ -1,0 +1,41 @@
+DECISÃO
+SERGIO GONCALVES DA SILVA alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Pernambuco (HC n. 0001957-37.2021.8.17.9480).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para a preservação do cárcere processual do acusado, que se apresentou espontaneamente à autoridade policial e, supostamente,praticou os atosprevistos no art. 121, § 2º, I, IV e VI, do Código Penal,induzido por violenta emoção. Assevera que há tempo excessivo de custódia provisória do réu.
+Requer a expedição de alvará de soltura.
+Prestadas as informações (fls. 96-98), opinou o Parquet Federal pelo não provimento do reclamo (fls. 101-106).
+Decido.
+Expõem os autos que o paciente foi preso preventivamente em 29/12/2019. Estes foram os termos dodecreto constritivo(fls. 9-10, grifei):
+A prisão preventiva encontra esteio nos artigos 312 e 313 do CPP, trazendo requisitos objetivos e subjetivos.
+No que se refere ao art. 312, entendo presente o requisito subjetivo, visto que o representado se evadiu após o cometimento do delito, estando configurada o requisito com o fito de assegurar a aplicação da lei penal.
+No que toca aos elementos de materialidade e autoria, entendo que há indícios relevantes da autoria, visto que segundo o depoimento da irmã da vítima mulher, o representado vinha ameaçando sua irmã, já a havia agredido e era extremamente ciumento e possessivo. No que toca à materialidade, entendo que está presente, visto que se encontram nos autos documentos de identificação de cadáver.
+ ..
+Isso posto, presentes os requisitos, DECRETO A PRISÃO PREVENTIVA do Sr. Sérgio Gonçalves da Silva, filho de Maria do Carmo Gonçalves da silva e Severino Amaro da Silva.
+O Tribunal a quo denegou o writlá aportado (fls. 30-41).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que o Juízo singular proferiu sentença, em 9/6/2022, que condenou o agente, pelos crimes descritos na denúncia, a 39 anos de reclusão, a serem inicialmente cumpridos no regime fechado. À ocasião, o Magistrado negou ao acusado o direito de recorrer em liberdade, aos seguintes argumentos (destaquei):
+DO DIREITO DE RECORRER EM LIBERDADE:
+Considerando que o réu respondeu ao processo preso e por estarem presentes, por ora, os requisitos previstos no artigo 312, do Código de Processo Penal, e da periculosidade em concreto, demonstrada para a prática do crime, em especial, considerando a multiplicidade de vítimas e o meio sorrateiro empregado pelo réu para a consecução dos crimes, demonstrando que, se posto em liberdade, o réu retornará a delinquir, violando a ordem pública, nego-lhe o direito de recorrer em liberdade.
+Apurou-se, ainda, que a apelação do réu foi recebida em 21/6/2022.
+Feitos esses registros, passo à análise do recurso.
+A par da jurisprudência deste Superior Tribunal, se o decisum subsequente não apresenta razões inéditas para manter a prisão provisória do denunciado, não torna prejudicado o habeas corpus, outrora impetrado, que impugna a decisão constritiva primeva.
+Ilustrativamente:
+ ..  1. Esta Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Precedente.  ..
+(AgRg no RHC n. 62.913/BA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 28/8/2017, grifei.)
+ ..  1. No caso, o Juízo de primeiro grau, ao prolatar a sentença condenatória, manteve a segregação cautelar do agravante ao remeter-se às razões invocadas no decreto preventivo, a ensejar o afastamento da prejudicialidade do writ.  ..
+(AgRg no RHC n. 91.011/AL, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/3/2019, destaquei.)
+Sem embargo, na hipótese, ao que se observa das transcrições supra, além de se reportar aos elementos declinados no decreto preventivo, o Juízo monocrático acresceu novos fundamentos, na sentença, para conservar a segregação cautelar do acusado - motivos que, até então, não foram avaliados pela Corte pernambucana. Tal circunstância inviabiliza a este Tribunal Superior o exame daeventual ausência de causas idôneas para a clausura provisória do paciente, sob pena de supressão de instância.
+Quanto ao mais, não se olvida que o rito bifásico, próprio para a instrução das demandas relativas aos crimes dolosos contra a vida, reivindica período maior de processamento do feito. Sem embargo, desde que observados os limites da razoabilidade e a diligência dos Juízos ordinários na condução da causa, não há falar, aprioristicamente, em coação ilegal.
+Também noto, na espécie, aos ditames das informações prestadas, que o "Ato GP n. 886/2021", exarado pela Corte de segundo grau (DJe 8/10/2021), "desinstalou a Comarca de Jataúba". Em consequência, os processos que tramitavam nessa Vara Criminal, tal qual a demanda de origem, foram redistribuídos à "Comarca de Santa Cruz do Capibaribe". Narra o reclamo que "os autos apenas foram recebidos" pelo Magistrado sentenciante "no dia 26.10.2021" (todos à fl. 96, grifei).
+Dessarte, consideradas as particularidades do caso em comento, não há evidência de desídia das instâncias estaduais no processamento da demanda.
+De mais a mais, este Superior Tribunal "é firme em assinalar que o quantum de pena imposto ao réu deve ser considerado na análise do suscitado excesso de prazo para o julgamento da insurgência" defensiva contra a sentença (HC n. 518.104/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/2/2020, destaquei).
+In casu, muito embora a custódia preventiva do acusado atinja cerca de 2 anos e 6 meses, não reconheço, ao menos por ora, desproporcionalidade no tempo de tramitação do feito, em virtude da reprimenda que lhe foi estabelecida pelo decisum condenatório, de 39 anos de reclusão.
+Nesse sentido:
+ ..  7. Ademais, esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória (precedentes).  ..
+(HC n. 699.913/PE, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 2/5/2022, grifei.)
+ ..  4. Consoante entendimento pacificado nesta Corte, eventual excesso de prazo no julgamento da apelação deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória, inexistindo constrangimento ilegal quando o recurso está pendente há pouco mais de um ano e a sentença aplicou sanção superior a 19 anos de reclusão.  ..
+(AgRg no RHC n. 152.956/BA, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/5/2022, destaquei.)
+No tocante ao disposto no parágrafo único do art. 316 do CPP, assentou-se, nesta Corte de Justiça, com a ressalva do meu posicionamento, que, se os autos já foram remetidos à segunda instância, para julgamento dos recursos interpostos contra a sentença condenatória, descabida é a exigência da revisão nonagesimal sobre a legalidade da cautela pessoal mais severa (v.g., HC n. 590.163/PI, Rel. Ministro Rogerio Schietti, 6ª T., DJe 28/10/2020; HC n. 589.544/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 22/9/2020).
+Nada obstante, recentemente, o Pretório Excelso, nas Ações Diretas de Inconstitucionalidade n. 6.581/DF e 6.582/DF, firmou a compreensão de que "4. O art. 316, parágrafo único, do Código de Processo Penal, aplica-se até o final dos processos de conhecimento, onde há o encerramento da cognição plena pelo Tribunal de segundo grau  .. " (DJe 3/5/2022, grifei).
+Tal o contexto, torno a consignar a percepção de que o dever de revisão das prisões cautelares cabe a todojuiz ou tribunal, onde quer esteja em curso a ação penal. Conquanto não se refira a termo peremptório, trata-se de procedimento examinatório, a exigir que o magistrado - em quaisquer das instâncias processuais - proceda à reavaliação periódica da legalidade do cárcere preventivo, ainda que apenas para reafirmarpresentes os requisitos e os motivos que ensejaram o decreto original.
+No ponto, ante o período perpassado desde a prolação de sentença (cerca de 20 dias), oportunidade em que o julgador ponderou a prorrogação da prisão provisória, não há falar em constrangimento ilegal.
+À vista do exposto, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
