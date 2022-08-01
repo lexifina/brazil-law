@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANA CLAÚDIA SIMÃO NEVES, com fundamento na alínea "c" do permissivo constitucional, exclusivamente, contra acórdão do TJ/SP.
+Recurso especial interposto em: 22/10/2020.
+Concluso ao gabinete em: 12/05/2021.
+Ação: de obrigação de fazer c/c pedido de tutela de urgência e compensação por danos morais, ajuizada pela recorrente em face de BRADESCO SAÚDE S/A, na qual alega que sofreu um grave acidente vascular cerebral  AVC e necessita de tratamento terapêutico multidisciplinar especializado com sessões de fisioterapia, terapia ocupacional, hidroterapia, neuropsicologia, deslizamento miofascial, acupuntura, equoterapia, dentre outros, sem limitação do número de sessões.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, tornando definitiva a tutela antecipada concedida, condenando a ré a arcar com o tratamento da autora pela rede credenciada ou por reembolso nos termos do contrato sem limitação do número de sessões, nos termos previstos pelo médico.
+Embargos de declaração: opostos por ambas as partes, os da autora foram rejeitados; e os da ré acolhidos para determinar a devolução integral do que já foi gasto pela autora durante a negativa da operadora de plano de saúde, nos termos do contrato.
+Acórdão: negou provimento aos apelos interpostos por ambas as partes, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COMINDENIZAÇÃO POR DANOS MATERIAIS, COM PEDIDO DE TUTELA ANTECIPADA. Plano de saúde. Autora que sofreu gravíssimo AVC e que necessita de um tratamento terapêutico multidisciplinar especializado que corresponde à sessões de fisioterapia, terapia ocupacional, hidroterapia, neuropsicologia, deslizamento miofacial, acupuntura, equoterapia, dentre outros. Negativa de cobertura. Sentença de parcial procedência que excluiu a indenização por danos morais e a equoterapia. Recursos de ambas as partes. A autora pleiteando a cobertura das sessões de equoterapia bem como a fixação de valor a título de indenização pelos danos morais. Ré sustentando que não fora encontrado no sistema da seguradora nenhuma solicitação de autorização administrativa para o tratamento reclamado, tendo sido encontrado apenas trocas de e-mails entre a seguradora e o segurado a fim de obter informações acerca da cobertura do tratamento. Frisa ainda que a seguradora não recepcionou relatório médico com pedido de autorização. Ademais sustenta que o tratamento fisioterápico, fonoaudiólogo e a terapia ocupacional são pagos pela patologia e não pela técnica utilizada (desde que coberta), fazendo com que a opção de utilizar determinadas técnicas ou métodos é de prerrogativa do profissional, após a análise do quadro clínico de cada paciente, e se a técnica ou método não constarem no rol da ANS, não será de cobertura obrigatória pelas seguradoras. Sustenta ainda que o número de sessões deverá respeitar o limite contratual. Inadmissibilidade. Exclusão invocada pela operadora do plano de saúde que contraria a finalidade do contrato. Cobertura integral devida. Rol da ANS que é apenas exemplificativo. Pleito que não envolve excesso de tratamento, tampouco tratamentos exorbitantes, com exceção da equoterapia. Indenização, todavia, que não é cabível em casos que tais. Sentença que merece manutenção. Aplicação do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Recursos não providos.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega dissídio jurisprudencial quanto aos arts. 1º e 2º da Lei nº 13.830/2019. Em suma, defende a obrigatoriedade de o plano de saúde custear o tratamento de equoterapia.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/15
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/SP de que "nas hipóteses de equoterapia não basta somente a sugestão médica, mas também de profissionais de fisioterapia, o que não se verifica no presente caso" (e-STJ fl. 411), razão pela qual deve ser mantido o acórdão recorrido.
+Aplica-se, na hipótese, a Súmula 283/STF.
+E tal particularidade do acórdão recorrido, não impugnada nas razões do recurso especial, não manifesta a similitude com os julgados apontados como paradigma, faltando-lhe a similitude fática, requisito indispensável à demonstração da divergência.
+Assim, inviabilizada a análise do dissídio.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 2% os honorários fixados anteriormente em seu favor (e-STJ fls. 224/225).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA DE URGÊNCIA E COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE EQUOTERAPIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Cuida-se, na origem, de ação de obrigação de fazer c/c pedido de tutela de urgência e compensação por danos morais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
