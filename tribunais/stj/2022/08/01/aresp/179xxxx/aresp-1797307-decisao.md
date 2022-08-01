@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por Anderson Walter dos Santos contra decisão que não admitiu recurso especial apresentado, com fundamento na alínea a do permissivo constitucional, contra acórdão de Recurso em Sentido Estrito n. 0008384-60.2018.8.26.0635 proferido pelo Tribunal de Justiça de São Paulo, que manteve incólume a sentença de pronúncia.
+Aponta o agravante, no especial, violação dos arts. 413, § 1º, 415, III, 419, 564, III, do Código de Processo Penal; 14, II, 18, I, 20, e 157, §§ 2º, II, e 2º-A, I, do Código Penal.
+A Subprocuradoria-Geral da República opinou pelo não conhecimento do recurso, em parecer assim resumido (fls. 665/666):
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. SÚMULA 182 DO STJ. SENTENÇA DE PRONÚNCIA. HOMICÍDIO NO TRÂNSITO. ROUBO. EXCESSO DE LINGUAGEM.  ..
+1. A falta de impugnação específica de todos fundamentos utilizados na decisão agravada inviabiliza o exame do agravo.
+ ..
+7. Parecer pelo não conhecimento do agravo; acaso conhecido, pelo não conhecimento e/ou não provimento do recurso especial.
+É o relatório.
+O agravo é inadmissível.
+Com efeito, entende esta Corte que autônomos ou não, todos os fundamentos da decisão que não conheceu do recurso especial devem ser rebatidos, mostrando-se inadmissível o agravo que não cumpre o ônus de se insurgir de maneira suficiente contra cada um deles (AgInt no AREsp n. 404.297/ES, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+O Tribunal a quo obstou a subida do recurso especial com fundamento na Súmula 7/STJ.
+Como bem anotado no parecer ministerial, o agravante limitou-se a argumentar de forma genérica a incidência do verbete sumular, por conseguinte, a aplicação do referido enunciado não foi devidamente impugnada.
+É certo, pois, que a defesa do agravante não observou o disposto nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ, atraindo, ainda, a incidência da Súmula 182/STJ, por analogia.
+Sobre o tema, destaco (grifo nosso):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMOU UM DOS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. TENTATIVA DE COMPLEMENTAR AS RAZÕES DO AGRAVO. INADMISSIBILIDADE. PRECLUSÃO.
+1. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que a orientação jurisprudencial desta Corte Superior é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objetos dos precedentes invocados, o que não ocorreu na espécie.  ..
+(AgRg no AREsp n. 1.068.523/SP, da minha relatoria, Sexta Turma, DJe 8/6/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. QUINTOS/DÉCIMOS. CONVERSÃO EM VPNI. LEI 9.527/1997. REAJUSTAMENTO. LEIS 10.475/2002, 10.994/2004, 11.416/2006 E 12.774/2012. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. REITERAÇÃO DAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. PRECEDENTES. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+2. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete ao agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao casu, por versarem sobre situações diversas, o que não ocorreu na espécie. Nesse sentido: AgRg no AREsp n. 293.726/CE, Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+ ..
+(AgRg no AREsp n. 805.799/RS, Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/3/2016)
+Ante o exposto, adotando o parecer do Ministério Público Federal, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
