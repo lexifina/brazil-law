@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SANTA CATARINAcom respaldo no permissivo constitucionalcontra acórdão do Tribunal de Justiça do Estado localassim ementado (e-STJ fl. 120):
+MANDADO DE SEGURANÇA. PRESTAÇÃO DE CONTAS DE MUNICÍPIO. CERTIDÃO POSITIVA EMITIDA PELO TRIBUNAL DE CONTAS DO ESTADO (TCE) COM BASE NO SISTEMA "E-SFINGE". PRELIMINARES DE ILEGITIMIDADE PASSIVA " AD CAUSAM" DO PRESIDENTE DA CORTE DE CONTAS E DE AUSÊNCIA DE ATO COATOR. REJEIÇÃO. EDUCAÇÃO. LIMITE CONSTITUCIONAL DESCUMPRIDO. CERTIDÃO QUE, NO ENTANTO, SÓ PODE SER EMITIDA DEPOIS DO JULGAMENTO DAS CONTAS PELO COLEGIADO DAQUELE TRIBUNAL. PRECEDENTES. ORDEM CONCEDIDA.
+"A legitimidade passiva, em ação mandamental, advém da competência da autoridade apontada como impetrada para a prática (ou desfazimento) do ato indicado como ilegal, na inteligência do art. 6º, § 3º, da Lei n. 12.016/2009" (STJ - AgInt no RMS n. 51.525/GO, Rel. Ministro Gurgel de Faria).
+"A jurisprudência deste Grupo de Câmaras de Direito Público reconhece a necessidade, antes da expedição de certidão positiva desfavorável, da apreciação pelo Plenário do TCE a respeito da higidez das contas de município" (TJSC - MS n. 4013554- 77.2018.8.24.0900, Rel. Des. Hélio do Valle Pereira). Idem: TJSC - MS n. 4017005- 31.2017.8.24.0000, do Tribunal de Justiça, Rel. Des. Júlio César Knoll, julgado em 26/09/2018.
+Nas suas razões, a parte recorrentedefende a negativa de vigência dos arts. 22, 23 e 25 da Lei Complementar n. 101/2000.
+Contrarrazões foram apresentadas.
+Admissão do apelo nobre (e-STJ fls. 182/184).
+Manifestação do MPF pela não intervenção no feito(e-STJ fls. 204/205).
+Passo a decidir.
+Compulsando os autos, observo que não assiste razão à pretensão recursal.
+É que o entendimento firmado na origem encontra respaldo na jurisprudência da Suprema Corte, firmado sob o regime da repercussão geral, Tema 327, assim estabelecido:
+A inscrição de entes federados em cadastro de inadimplentes (ou outro que dê causa à negativa de realização de convênios, acordos, ajustes ou outros instrumentos congêneres que impliquem transferência voluntária de recursos) pressupõe o respeito aos princípios do contraditório, da ampla defesa e do devido processo legal, somente reconhecido: a) após o julgamento de tomada de contas especial ou procedimento análogo perante o Tribunal de Contas, nos casos de descumprimento parcial ou total de convênio, prestação de contas rejeitada, ou existência de débito decorrente de ressarcimento de recursos de natureza contratual (salvo os de conta não prestada); b) após a devida notificação do ente faltoso e o decurso do prazo nela previsto (conforme constante em lei , regras infralegais ou em contrato), independentemente de tomada de contas especial, nos casos de não prestação de contas, não fornecimento de informações, débito decorrente de conta não prestada, ou quaisquer outras hipóteses em que incabível a tomada de contas especial.
+Nesse passo, tendo em vista que a certificação dainadimplência do Município impetrante deu-se na pendência da tomada de contas especial pelo TCE, é de rigor a confirmação do acórdão recorrido.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
