@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por ARGO SEGUROS BRASIL S.A. contra decisão que conheceu do agravo para dar provimento ao recurso especial daembargada, em razão da reconhecida ofensa ao art. 489 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem, para novo julgamento dos embargos de declaração.
+Em suas razões, aembargante defende a existência de contradição na decisão embargada, diante daausência de omissão nos acórdãos proferidos pelo eg. TJMG, que "destacaram que "No caso dos autos, restou demonstrado que era de suma importância determinar se os pivôs de irrigação roubados são equipamentos ou implementos agrícolas, porque se forem enquadram-se nas mercadorias diversas, já que, na tabela supracitada, não consta a expressão "equipamentos agrícolas" e sim "implementos", que seria mercadoria específica."" (e-STJ, fl. 1.236)
+Devidamente intimada, a parte embargada nãoapresentou impugnação (e-STJ, fl.1.244).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a decisão embargada contém fundamentação clara e satisfatória quanto à negativa de prestação jurisdicional pela eg. Corte de origem, acentuando que deixou de examinar questão essencial quanto à existência de diferenciaçãode exigências de transporte na apólice de seguro, dependendo do fato de a mercadoria serconsiderada "Mercadoria Diversa e/ou Geral" ou se "mercadoria específica" nos seguintes termos:
+"O recurso merece provimento.
+Da análise dos autos, verifica-se que o colendo Tribunal de origem, não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia, conforme provocado em sede de embargos de declaração: "é exatamente neste ponto que houvecontradição, assim como, omissão, visto que, na condição de equipamento agrícola fato já definido em juízo, não estava a Embargante obrigada a transportar com rastreador, exatamente pelo fato de existir no contrato de seguro duas situações, ou seja, MERCADORIAS DIVERSAS E/OU GERAL e MERCADORIAS ESPECIFICAS. Este é o âmago da questão, ou seja, como a mercadoria roubada está enquadrada como equipamento agrícola, não estava a Requerente obrigada a ter rastreador, conforme consta no Contrato de seguro ID 27643817 páginas 18,19 e 20 do mencionado contrato, como segue abaixo:"(e-STJ, fl. 517)"
+É nítido o intuito daembargante de obter a reforma da decisão embargada, entendendo ter sido equivocado o julgamento. Tal intento, contudo, não é cabível na via estreita dos embargos de declaração, pois o referido recurso é incompatível com a pretensão de se obter efeitos infringentes. A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO.EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa." (EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel.
+Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO.
+INEXISTÊNCIA. ERRO MATERIAL DA EMENTA. AFASTAMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. Embargos de declaração acolhidos em parte, para correção de erro material, sem efeito modificativo." (EDcl no AgRg no AREsp 511.553/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/3/2015, DJe de 18/3/2015)
+Com efeito, não há nenhum vício a comprometer a compreensão do julgado ou falta de pronunciamento sobre ponto relevante e capaz de infirmar a conclusão adotada, mas mero inconformismo que deve ser devidamente apresentado no recurso próprio.
+A fundamentação adotada na decisão embargada é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do CPC/2015.
+Diante do exposto, rejeito os embargos declaratórios.
+Publique-se.
