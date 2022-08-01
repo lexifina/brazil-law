@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TANIA REGINA LEVYem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(HCn.2141239-89.2022.8.26.0000).
+Narra a defesa que apaciente havia sidocondenadapelo plenário do tribunal do júri, 1ª Vara Criminal da Comarca de São Pedro,àpenade21anos de reclusão em regime fechadopela prática dos crimes descritos nos arts. 121, § 2º, III e IV,211, caput, e347do Código Penal.
+Alega que, logo após, foi interposto recurso de apelação, quefoi provido e anulou o julgamento anterior, fixando novo julgamento para o caso, designado para o dia 26 de julho de 2022. Ajuizado pedido de desaforamento no Tribunal paulista, o desembargador relator indeferiu a liminar pleiteada, visto que o requerimento de desaforamento já fora objeto de apreciação.
+Impetrado writ originário, a Presidência da Seção de Direito Criminal do TJSP indeferiuo processamento e determinou o cancelamento do registro do habeas corpus,tendo em vista a previsão do art. 37, § 1º, do RITJSP, que não mais prevê a competência do Grupo de Câmaras para conhecer de writajuizado contra decisão de uma das Câmaras julgadoras (fls. 9-10).
+Nas razões do presente writ, adefesa argumenta que o julgamento da paciente deve ser feito em outro foro, porquanto os jurados da Comarca de São Pedro seriam parciaispor estarem influenciados pelas notícias recorrentes do caso e pelos boatos que correm na cidade. Portanto, o nome da paciente tornou-se notório nessa localidade, sendo necessário o desaforamento para que a paciente seja julgada por um tribunal independente e imparcial.
+Requer, liminarmente e no mérito, a suspensão do plenário até o julgamento do desaforamento, para que a paciente seja julgada em outra comarca.
+É o relatório. Decido.
+A presente impetração é contra a decisão monocrática do Desembargador Presidente da Seção de Direito Criminal que indeferiu o processamento do HC n. 2141239-89.2022.8.26.0000e determinou o cancelamento do registro do habeas corpus, tendo em vista a previsão do art. 37, § 1º, do RITJSP, que não mais prevê a competência do Grupo de Câmaras para conhecer de writ ajuizado contra decisão de uma das Câmaras julgadoras.
+O Superior Tribunal de Justiça entende que, contra decisão singular de desembargador que nega seguimento a habeas corpus, deve-se interpor agravo regimental para oportunizar o debate da matéria pelo respectivo órgão colegiado.
+Dessa forma, a não interposição do referido recurso impede que o STJ examine a matéria, sob pena de indevida supressão de instância. Confira-se precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS PREVENTIVO. DECISÃO DO TRIBUNAL A QUO JULGANDO PREJUDICADO O PEDIDO EM RAZÃO DO SUPERVENIENTE DECRETO DE PRISÃO PREVENTIVA. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.  .. AGRAVO REGIMENTAL DESPROVIDO.
+1. O inconformismo dirigido contra decisão de Desembargador que, ao analisar o habeas corpus, indefere liminarmente o writ, deve ser o recurso de agravo regimental para oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.  ..
+4. Agravo regimental desprovido. (AgRg no HC n. 411.791/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2017,destaquei.)
+Ademais, não há como sequer apreciar a evidência de abuso de poder ou de manifesta ilegalidade que enseje a concessão da ordem de ofício.
+Registre-seque oPresidente da Seção de Direito Criminal não se pronunciou diretamente sobre a questão do desaforamento, de modo que a análise da questão pelo STJ também caracterizaria supressão de instância.
+Ainda que assim não fosse, osimpetrantes não juntaramaos autos peças essenciaisà compreensão e deslinde da controvérsia, a saber, a decisão que teria indeferido a liminar no pedido de desaforamento eo acórdão que apreciou a apelação e concluiu pela anulação do julgamento do júri da Comarca de São Pedro e a designação do novo júri para do dia 26 de julho de 2002.
+Ressalte-se que orito do habeas corpus demanda prova documental pré-constituída do direito pleiteado pela parte, ressalvados os casos em que o paciente não seja assistido por defesa técnica, o que não é o caso dos autos.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
